@@ -22,9 +22,11 @@ raw/
   assets/                  downloaded images (maps, charts) if any get pulled in later
 scripts/
   fetch-book.sh            pulls one book's WEB text from bible-api.com into raw/bible/
+  link-check.sh            both wikilink checks (see `## Link checks` below)
 templates/                 one template per wiki page type (see below)
 .claude/skills/ingest/     the `/ingest` skill — resolves the next pericope, then runs the
-                           ingest workflow below
+                           ingest workflow below; `/ingest auto` runs it unattended
+.claude/settings.json      permission allowlist that lets an unattended run commit on its own
 wiki/
   index.md                 top-level dashboard, links out to the five category indexes
   log.md                   append-only chronological record of every operation
@@ -195,55 +197,43 @@ Check for and report:
 - Missing cross-references (parallel Gospel accounts, OT quotes in the NT) not yet captured as
   connection pages.
 - Wikilinks broken by a line wrap, and wikilinks pointing at pages that do not exist. Both are
-  mechanical; run the two checks in `## Link checks` below rather than eyeballing them.
+  mechanical; run `scripts/link-check.sh` (see `## Link checks` below) rather than eyeballing
+  them.
 
 Log a `lint` entry in `wiki/log.md` summarizing what was found and fixed.
 
 ## Link checks
 
-Run both after any pass that writes wiki pages — the end of every ingest, and every lint. They
-are fast and they catch the two link failures that reading the page will not.
-
-**1. Wrapped links** — a `[[` and its `]]` on different lines. Any output is a bug:
-
 ```bash
-find wiki -name "*.md" -print0 | xargs -0 awk '
-  FNR==1 { fence=0 }
-  /^[[:space:]]*```/ { fence=!fence; next }
-  !fence { l=$0; gsub(/`[^`]*`/,"",l);
-           if (gsub(/\[\[/,"",l) != gsub(/\]\]/,"",l)) print FILENAME":"FNR }'
+scripts/link-check.sh        # add -a to also list the expected baseline
 ```
 
-It skips fenced code blocks and inline code spans, because `wiki/log.md` quotes broken links as
-examples whenever it records a link problem, and those must not register as findings.
+Run it after any pass that writes wiki pages — the end of every ingest, and every lint. It is
+fast, it exits 0 when clean and 1 on a finding, and it catches the two link failures that reading
+the page will not.
 
-**2. Dangling targets** — links whose page does not exist:
+**1. Wrapped links** — a `[[` and its `]]` on different lines. Any finding is a bug: Obsidian only
+parses a link that sits entirely on one line, so a link broken by the ~100-column wrap is not a
+broken link, it is not a link at all. It renders as literal `[[` text and vanishes from the graph
+and from backlinks.
 
-```bash
-find wiki -name "*.md" -print0 | xargs -0 awk '
-  FNR==1 { fence=0 }
-  /^[[:space:]]*```/ { fence=!fence; next }
-  !fence { l=$0; gsub(/`[^`]*`/,"",l)
-           while (match(l, /\[\[[^]]*\]\]/)) {
-             t=substr(l,RSTART+2,RLENGTH-4); sub(/\|.*/,"",t); sub(/#.*/,"",t); print t
-             l=substr(l,RSTART+RLENGTH) } }' \
-  | sort -u | while read -r l; do
-      [ -f "wiki/$l.md" ] || [ -n "$(find wiki -name "$l.md")" ] || echo "DANGLING: $l"
-    done
-```
+**2. Dangling targets** — links whose page does not exist, each reported with the pages that link
+to it. A target resolves if either Obsidian link form resolves: a path-style link written from the
+vault root (`[[books/index|Books]]`) or the ordinary shortest-path link (`[[David]]`).
 
-It skips code the same way check 1 does, and for the same reason. The two existence tests match
-Obsidian's two link forms: `wiki/$l.md` catches a path-style link written from the vault root
-(`[[books/index|Books]]`), and the `find` catches the ordinary shortest-path link (`[[David]]`). A
-link needs only one of them to resolve.
+Both checks skip fenced code blocks and inline code spans, because `wiki/log.md` quotes broken
+links verbatim whenever it records a link problem, and those examples must not register as
+findings.
 
 Check 2's expected baseline is exactly the not-yet-started book pages linked from
-`wiki/books/index.md` — 65 of them at present, shrinking by one per book completed. Anything else
-is either a typo to fix or a link deliberately left for a later pericope, which belongs in the
-ingest's log entry.
+`wiki/books/index.md` — 65 of them at present, shrinking by one per book completed. The script
+recognizes them, counts them on a single line, and keeps them out of the findings, so a dangling
+link it *does* report is either a typo to fix or a link deliberately left for a later pericope,
+which belongs in the ingest's log entry.
 
 Note that check 2 cannot find what check 1 finds: a wrapped link is not a malformed link, it is
-not a link at all, so nothing that searches for `[[...]]` will ever see it. Run both.
+not a link at all, so nothing that searches for `[[...]]` will ever see it. That is why the script
+runs both, and why a clean check 2 is never grounds for skipping check 1.
 
 ## Log format
 

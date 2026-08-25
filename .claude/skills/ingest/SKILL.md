@@ -1,6 +1,7 @@
 ---
 name: ingest
-description: Ingest the next pericope into the wiki.
+description: Ingest the next pericope into the wiki. Prefix the argument with `auto` for an unattended run (no discussion, no questions).
+argument-hint: "[auto] [Book [chapter]]"
 disable-model-invocation: true
 ---
 
@@ -9,6 +10,30 @@ disable-model-invocation: true
 `CLAUDE.md` holds the schema and the numbered ingest workflow — it is the authority on what a
 pericope ingest produces. This skill only resolves **which** pericope is next and gets its text
 in front of you.
+
+## 0. Resolve the mode
+
+If the argument begins with the keyword **`auto`** (`/ingest auto`, `/ingest auto John 3`), this
+is an **unattended** run — a scheduled routine with nobody at the terminal. Strip the keyword and
+treat whatever follows as the target. In unattended mode:
+
+- **Skip step 2 of the `CLAUDE.md` ingest workflow — the discussion.** There is no one to discuss
+  with. Everything you would have said aloud goes into the passage page instead: what is
+  happening, who and where and what is notable, how it connects to what is already in the wiki.
+  The page absorbs the discussion; it is not dropped.
+- **Never ask a question.** Every judgment call the workflow allows — where a pericope boundary
+  falls, whether a minor figure earns a page, which of two titles to use — is yours to make. Make
+  it, and record it in the log entry so the user can review it later.
+- **Never stop mid-pericope for input.** If something genuinely blocks the ingest (the raw text
+  won't fetch, the book page is malformed), commit whatever is safely complete, write what
+  blocked you into `wiki/log.md`, and stop there. Do not leave a half-ingested pericope
+  uncommitted.
+
+Without the keyword, run interactively: the discussion in step 2 happens as written, and a real
+ambiguity is worth a question.
+
+Everything else — steps 1 through 5 below, and the whole `CLAUDE.md` workflow — is identical in
+both modes.
 
 ## 1. Resolve the target
 
@@ -49,17 +74,19 @@ the unchecked boxes and say so in your report.
 ## 4. Ingest
 
 Read the pericope's verses from `raw/bible/<Book>.md`, then work the numbered ingest workflow in
-`CLAUDE.md` end to end. Quote the WEB text verbatim from the raw file — never from memory.
+`CLAUDE.md` end to end — all nine steps interactively, or steps 1 and 3–9 in unattended mode,
+with step 2's discussion written into the passage page instead. Quote the WEB text verbatim from
+the raw file — never from memory.
 
 Done means every one of these is true:
 
 - The passage page exists at `wiki/passages/<Book>/<Title>.md` — title alone, no reference in the
   filename.
-- **Both link checks in `CLAUDE.md` § Link checks have been run and are clean** — every wikilink
-  is intact (none split across a line wrap) and resolves to a page that exists, apart from the
-  known baseline and any link you deliberately left for a later pericope. Run the commands; do not
-  substitute reading the pages, and do not skip the wrapped-link check on the grounds that the
-  dangling-link check came back clean. It cannot see wrapped links.
+- **`scripts/link-check.sh` has been run and exits 0** — every wikilink is intact (none split
+  across a line wrap) and resolves to a page that exists. Run the script; do not substitute
+  reading the pages. A finding is either a link to fix now or one you deliberately left for a
+  later pericope, which goes in the log entry. The not-yet-started book pages are the expected
+  baseline and the script already excludes them from its findings.
 - No other book already has a passage page by that title. One that does means both pages take the
   `<Title> (<Book>).md` form, the existing one renamed and its inbound links fixed in this pass.
 - Every person, place, theme, and connection the pericope touches has a page that names this
@@ -70,5 +97,30 @@ Done means every one of these is true:
   what is now on disk.
 - `wiki/log.md` has the new `ingest` entry appended.
 
-Then report the pericope and the pages created or revised, and stop. One pericope per
-invocation — the user re-runs `/ingest` for the next.
+## 5. Commit
+
+Every ingest ends in a commit, in both modes — a scheduled run must leave nothing uncommitted for
+the next run to trip over. Stage everything the pass touched, including the raw book text if
+step 2 fetched it:
+
+```
+git add -A
+git commit -m "$(cat <<'EOF'
+<Book> <ref> ingested
+
+<one or two lines: the pericope, and the pages created or revised>
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+EOF
+)"
+```
+
+Subject line follows the existing history: `Genesis 1.1-2.3 ingested`. Commit on the current
+branch; do not push.
+
+If `git status` is dirty *before* you start — uncommitted work from a previous run or from the
+user editing in Obsidian — commit it separately first with its own message, so the ingest commit
+stays just the ingest.
+
+Then report the pericope, the pages created or revised, and the commit, and stop. One pericope
+per invocation — the next run of `/ingest` takes the next.

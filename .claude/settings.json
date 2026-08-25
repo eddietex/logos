@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(scripts/fetch-book.sh:*)",
+      "Bash(scripts/link-check.sh:*)",
+      "Bash(./scripts/link-check.sh:*)"
+    ],
+    "deny": [
+      "Bash(git push:*)"
+    ]
+  }
+}
