@@ -13,3 +13,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 |
 | [[Cain and Abel in the New Testament]] | typology | Genesis 4:1–16 · Matthew 23:35 · Luke 11:51 · Hebrews 11:4 · Hebrews 12:24 · 1 John 3:12 · Jude 11 |
+| [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
+| [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]] | allusion | Genesis 4:15 · Genesis 4:23–24 · Matthew 18:21–22 |
+| [[Calling on the Name of Yahweh]] | thread | Genesis 4:26 · Genesis 12:8 · Exodus 6:2–3 · Joel 2:32 · Acts 2:21 · Romans 10:13 |

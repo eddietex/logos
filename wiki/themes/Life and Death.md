@@ -54,6 +54,11 @@ Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove th
 - **Genesis 3:19** — *"to dust you shall return"*: death defined as the reversal of 2:7.
 - **Genesis 4:8, 4:10** — the sentence first carried out, by a human hand; and blood given a voice
   that God answers.
+- **Genesis 4:23–25** — the second killing, and the theme's first genealogy. A list of names is one
+  of the ways a narrative reports death: Genesis 4:17–24 runs seven generations in eight verses,
+  which is seven lifetimes passing without a word about any of them, and it ends with a man claiming
+  a further killing. Against that, 4:25 puts a birth in the place of a death — Seth given
+  *"instead of Abel"*.
 - **Genesis 5** *(not yet ingested)* — the genealogy whose refrain is *"and he died"*, eight times,
   with Enoch as the one exception.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -66,6 +71,8 @@ Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove th
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
 - [[The Fall]] — the return to dust, and the tree of life barred
 - [[Cain and Abel]] — the first death, and the first blood to cry out
+- [[The Line of Cain and the Birth of Seth]] — the second killing, boasted of; and a birth named for
+  the brother it replaces
 - [[Cain and Abel in the New Testament]] — Abel *"being dead, still speaks"*, and the blood that
   speaks better than his
 - [[The Tree of Life - Eden and the New Jerusalem]] — the tree from 2:9 at the canon's other end
@@ -87,3 +94,5 @@ Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove th
 - [[Eve]]
 - [[Abel]]
 - [[Cain]]
+- [[Seth]]
+- [[Lamech (son of Methushael)]]

@@ -57,6 +57,18 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   the main reason many read 3:16 as mutual contest rather than longing. The parallel is now set
   out in full, with the third occurrence that cuts against it, on
   [[Desire and Rule - Genesis 3.16 and 4.7]].
+- **Genesis 4:19** — *"Lamech took two wives: the name of the first one was Adah, and the name of
+  the second one was Zillah."* The first marriage in Scripture that is not the one flesh of 2:24,
+  sixteen verses after it, and Genesis reports it with no sentence, no aside, and no narratorial
+  disapproval whatsoever. Two things are worth keeping. The **placement** is the comment: the
+  practice's first instance belongs to the man who sings the Song of the Sword, and every
+  polygamous household Genesis goes on to narrate — Abraham's, Jacob's, later David's and
+  Solomon's — is a source of grief. The evaluation is structural rather than stated, which is how
+  Genesis usually evaluates. But it is also true that the Torah **regulates** polygamy rather than
+  forbidding it (Exodus 21:10, Deuteronomy 21:15–17), so a reader who wants the Bible's objection
+  to it stated outright will not find it here or in the law; the argument that carries the weight
+  is Jesus's in Matthew 19, which goes behind every later concession to 2:24. See
+  [[Lamech (son of Methushael)]].
 - **Matthew 19:4–6 / Mark 10:6–8** — Jesus answers a question about divorce by quoting Genesis
   1:27 *and* 2:24 together, and draws the conclusion the verses do not state: *"What therefore God
   has joined together, don't let man tear apart."*
@@ -72,6 +84,8 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
 - [[The Fall]] — the union fractured, and 3:16
+- [[The Line of Cain and the Birth of Seth]] — the first departure from one flesh, reported without
+  comment
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
   2:24
 
@@ -88,3 +102,4 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 - [[Adam]]
 - [[Eve]]
 - [[God]]
+- [[Lamech (son of Methushael)]] — the first polygamist

@@ -45,6 +45,14 @@ when he leaves — 4:17–24 gives his line the city, the tent, the harp, and th
 civilization's beginnings run through the man who was sentenced to wander. See
 [[Cain and Abel in the New Testament]].
 
+What Genesis does with him after the sentence is the least remarked-on part of his story. He takes a
+wife, fathers Enoch, and **builds a city** — two verses after settling in a land whose name is
+*wandering* — and names it for his son rather than for himself. Five generations later his line
+produces the founders of herding, music, and metalwork, and a descendant who turns the sevenfold
+protection God gave Cain into a seventy-sevenfold boast. Then the narrative drops the line without
+comment and never returns to it. See [[The Line of Cain and the Birth of Seth]],
+[[Enoch (city)]], and [[City and Civilization]].
+
 ## Timeline / key events
 
 - Born to Adam and Eve; becomes a tiller of the ground — [[Cain and Abel]]
@@ -52,16 +60,23 @@ civilization's beginnings run through the man who was sentenced to wander. See
   his brother Abel in the field — [[Cain and Abel]]
 - Is questioned, cursed from the ground, sentenced to wander, and given a protective sign; settles
   in the land of Nod, east of Eden — [[Cain and Abel]]
-- Fathers Enoch and builds a city; his line runs to Lamech, Jabal, Jubal, and Tubal Cain —
-  Genesis 4:17–24 *(not yet ingested)*
+- Fathers Enoch and builds the first city, naming it for his son; his line runs to Lamech, Jabal,
+  Jubal, and Tubal Cain, and then is dropped — [[The Line of Cain and the Birth of Seth]]
 
 ## Appears in
 
 - [[Cain and Abel]]
+- [[The Line of Cain and the Birth of Seth]] — named in its first verse and its last mention of him;
+  the rest of the line is his descendants'
 
 ## Related people
 
 - [[Abel]] — his brother, whose offering is accepted and whom he kills
+- [[Enoch (son of Cain)]] — his firstborn, and the name of his city
+- [[Lamech (son of Methushael)]] — his descendant in the seventh generation, who inflates his
+  sevenfold protection into a boast
+- [[Seth]] — the brother born after him, *"instead of Abel"*, and the one the rest of Scripture
+  follows
 - [[Eve]] — his mother, who credits Yahweh with his birth
 - [[Adam]] — his father, whose trade and whose cursed ground he inherits
 - [[God]] — who warns him before the murder, questions him after it, sentences him, and then
@@ -75,3 +90,5 @@ civilization's beginnings run through the man who was sentenced to wander. See
 - [[Curse]]
 - [[Life and Death]]
 - [[Work]]
+- [[City and Civilization]]
+- [[Vengeance]]

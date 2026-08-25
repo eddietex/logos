@@ -72,6 +72,12 @@ has been argued.
   not yet acted.
 - **Genesis 4:8–16** — the first murder, three verses after the first warning; a lie added to the
   act, and the first curse pronounced on a person.
+- **Genesis 4:19–24** — the theme's first stretch with no divine word in it at all. Nothing in
+  Lamech's five verses is called sin, no one is warned, and no sentence follows; the reader is left
+  to notice that the thing 4:7 said could be ruled is now being sung about. What has changed since
+  4:8 is not the act but the attitude — Cain killed and hid, and his descendant kills and makes a
+  poem of it. Genesis shows the condition spreading before it has any vocabulary for it. See
+  [[Vengeance]].
 - **Genesis 6:5, 8:21** *(not yet ingested)* — the verdict on the human heart before and after the
   flood, which does not change.
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
@@ -83,6 +89,8 @@ has been argued.
 
 - [[The Fall]] — the first disobedience and its anatomy
 - [[Cain and Abel]] — the word's first appearance, crouching at a door, and the first murder
+- [[The Line of Cain and the Birth of Seth]] — the second killing, boasted about rather than hidden,
+  and the first passage God is absent from
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 
 ## Related themes
@@ -92,6 +100,7 @@ has been argued.
 - [[Life and Death]] — the stated penalty, and how it arrives
 - [[Image of God]] — the likeness grasped at, over the likeness already given
 - [[Sacrifice and Offering]] — the refused gift that 4:7's warning is spoken over
+- [[Vengeance]] — what the second killing in Scripture is defended with
 
 ## Related people
 
@@ -99,4 +108,5 @@ has been argued.
 - [[Eve]]
 - [[The Serpent]]
 - [[Cain]]
+- [[Lamech (son of Methushael)]]
 - [[God]]

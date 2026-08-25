@@ -102,6 +102,22 @@ the garden scene did not have.
   counter-question — *"Am I my brother's keeper?"* — and God simply moves past it to *"What have
   you done?"*, the same words he spoke to the woman in 3:13.
 
+### His first silence, Genesis 4:17–24
+
+[[The Line of Cain and the Birth of Seth]] is the first passage in the Bible in which God does not
+appear at all. He does not speak, act, come, question, sentence, or provide. A city is built under
+a sentence he pronounced, a man takes two wives sixteen verses after *"they will become one
+flesh"*, and a descendant of Cain sings about killing a man and appropriates a promise God made in
+his own mouth (4:15) as a threat of his own — and there is no divine response to any of it. After
+three chapters in which he has been in every scene, the absence is conspicuous, and it is the first
+instance of something Genesis will do repeatedly: let a stretch of human history run without
+comment.
+
+He returns in the last two verses, and only obliquely. Eve credits him with Seth (*"God has given
+me another child"*, 4:25 — *ʾĕlōhîm*, where at 4:1 she said *Yahweh*), and then *"At that time men
+began to call on Yahweh's name"* (4:26). In the chapter's final line God is not a speaker but the
+one spoken to. See [[Calling on the Name of Yahweh]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -110,6 +126,9 @@ the garden scene did not have.
 - Walks in the garden, questions, sentences, clothes, and exiles — [[The Fall]]
 - Receives one offering and not the other, warns Cain, questions him, curses him, and guards his
   life with a sign — [[Cain and Abel]]
+- Absent from the whole of Cain's genealogy; returns only as the one Eve credits with Seth's birth
+  and the one whose name people begin to call on —
+  [[The Line of Cain and the Birth of Seth]]
 
 ## Appears in
 
@@ -117,6 +136,7 @@ the garden scene did not have.
 - [[The Garden of Eden]]
 - [[The Fall]]
 - [[Cain and Abel]]
+- [[The Line of Cain and the Birth of Seth]] — by absence for eight verses, then in two
 
 ## Related people
 
@@ -126,6 +146,8 @@ the garden scene did not have.
 - [[The Serpent]] — a creature he made, sentenced without being questioned
 - [[Cain]] — warned, questioned, cursed, and then protected by him
 - [[Abel]] — whose offering he respects and whose blood he hears
+- [[Seth]] and [[Enosh]] — the birth Eve credits to him, and the generation that starts calling on
+  his name
 
 ## Themes associated
 
@@ -140,3 +162,4 @@ the garden scene did not have.
 - [[Curse]]
 - [[Judgment]]
 - [[Sacrifice and Offering]]
+- [[Vengeance]]

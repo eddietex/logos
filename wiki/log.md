@@ -380,3 +380,109 @@ strand. Revisit notes filed for Genesis 9 (a `Blood` theme page), Genesis 25/27 
 Genesis 22 (`Sacrifice and Offering`), and Song of Songs 7 (`Desire and Rule`).
 
 `scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages.
+
+## [2026-08-25] ingest | Genesis 4.17-26 — The Line of Cain and the Birth of Seth
+
+Fifth pericope of Genesis, run unattended. Boundary held as planned: 4:17 picks up from Cain
+leaving Yahweh's presence and 4:26 closes the chapter, with 5:1's *toledot* formula starting the
+next box cleanly. The pericope is really two unequal halves — eight verses of Cain's line and two of
+Seth's — and the whole point of the unit is that they are set against each other, so it was kept as
+one box rather than split.
+
+Created:
+- `wiki/passages/Genesis/The Line of Cain and the Birth of Seth.md`
+- `wiki/people/Seth.md`, `Enosh.md`, `Lamech (son of Methushael).md`, `Enoch (son of Cain).md`,
+  `Jabal.md`, `Jubal.md`, `Tubal Cain.md`
+- `wiki/places/Enoch (city).md`
+- `wiki/themes/Vengeance.md`, `City and Civilization.md`
+- `wiki/connections/Two Lines from Adam - Cain's Genealogy and Seth's.md`
+- `wiki/connections/Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness.md`
+- `wiki/connections/Calling on the Name of Yahweh.md`
+
+Updated: `wiki/people/Cain.md` (the city, the line, and Lamech's inflation of his sevenfold
+protection — the part of his story the wiki had only as a forward reference), `Adam.md` (4:25 as the
+first narrative sentence using *ʾādām* as a plain name without the article), `Eve.md` (her last
+recorded sentence in Scripture, and *zeraʿ ʾaḥēr*), `Abel.md` (Genesis's last mention of him is as
+the vacancy Seth fills), `God.md` (new "His first silence" section — the first passage in the Bible
+he is absent from, and his return in the last two verses as the one credited and the one called
+on), `wiki/places/Nod.md` (the city resolved from a forward reference, with the note that Genesis
+never actually says the city stood in Nod), `wiki/themes/Sin.md` (the first stretch with no divine
+word in it), `Judgment.md` (the template withheld, and why that is legible as withholding),
+`Curse.md`, `Work.md` (the first specialized and inherited trades), `Life and Death.md` (a
+genealogy as a way of narrating death), `Marriage.md` (4:19, with the Torah's regulation-not-
+prohibition of polygamy noted against the structural reading),
+`wiki/passages/Genesis/Cain and Abel.md` (its forward reference to 4:17–26 is now a link),
+`wiki/connections/The Protoevangelium - Genesis 3.15 and the Seed of the Woman.md` (4:25's *another
+seed*, with both the load-bearing and the ordinary reading of the word), the Genesis book page and
+index, all four category indexes, and `wiki/index.md` counts.
+
+Judgment calls made unattended, for review:
+- **Seven of the passage's fourteen named people got pages; six did not.** Pages went to Seth,
+  Enosh, Lamech, Cain's Enoch, and the three culture-founders — everyone the text gives an act, a
+  vocation, or a downstream role. **Adah and Zillah** were the closest call and were declined: they
+  are the first women named after Eve and the addressees of the Bible's first poem, but Genesis
+  gives them no words and no story, so what there is to say about them is really about the marriage,
+  and it is said on `Lamech (son of Methushael)` and `Marriage`. **Naamah** likewise — her page would
+  be entirely reception history (Genesis Rabbah making her Noah's wife, the singer tradition), which
+  is on `Tubal Cain` and in the passage notes instead. **Irad, Mehujael, Methushael** are chain-links
+  with no attached material at all. Revisit Adah and Zillah if a later passage gives them anything.
+- **Both reused names were disambiguated pre-emptively**, as `Enoch (son of Cain)` and
+  `Lamech (son of Methushael)`, rather than waiting for the collision. Genesis 5 is the very next
+  pericope and will bring the Sethite Enoch and Lamech, so qualifying now avoids renaming and
+  relinking two pages next run. Their namesakes get `(son of Jared)` and `(father of Noah)` then.
+  Note that the person page `Enoch (son of Cain)` and the place page `Enoch (city)` are distinct
+  files with distinct names, so neither shadows the other in Obsidian.
+- **Two theme pages written, one declined.** `Vengeance` and `City and Civilization` both have two
+  or more touchpoints already and large downstream strands, which is the bar the `Sacrifice and
+  Offering` decision set at the last ingest. **`Worship` was the declined one**: 4:26 is a single
+  half-verse, and the *Blood*/*Shame* precedent says a one-verse theme waits. Its material went into
+  the new `Calling on the Name of Yahweh` connection page instead. Revisit at Genesis 12:8, where
+  Abram starts building altars and the phrase becomes a practice.
+- **`subtype: thread`** is a new value in connection frontmatter, alongside the existing allusion,
+  quotation, parallel, typology, and prophecy → fulfillment. `Calling on the Name of Yahweh` traces
+  one phrase across six books rather than pairing two passages, and none of the existing subtypes
+  fits. `CLAUDE.md` does not enumerate subtypes, so no schema change was needed.
+- **Passage title kept as the book page had it.** "The Line of Cain and the Birth of Seth" names
+  both halves, which is the point of the unit; a shorter title would have hidden one of them.
+
+Tensions written out rather than smoothed:
+- **A man sentenced to wander builds a city, and Genesis does not reconcile it.** Three readings
+  recorded — defiance, a sentence being lived in, two traditions set side by side — with Augustine's
+  earthly-city reading named as the most influential *and* as inference rather than text.
+- **The origins of herding, music, and metalwork are placed in the cursed line with no evaluation
+  attached.** Both standard over-readings are named as over-readings: that the passage taints
+  culture (which cannot survive the patriarchs living Jabal's life and David playing Jubal's
+  instrument), and that it celebrates progress (which cannot survive where it is placed).
+- **"Then men began to call on Yahweh's name" (4:26) has three problems, all kept.** *Huḥal* as
+  "began" (nearly all moderns) against *huḥal* as "profaned" (Genesis Rabbah 23:7, Rashi, Maimonides
+  — making the verse the origin of idolatry); the breadth of *qārāʾ bešēm*; and the clash with
+  Exodus 6:2–3, recorded with both the source-critical and the semantic resolution and with the note
+  that the semantic one is old and the critical observation is about a real feature of the text.
+- **The Genesis 4 / Genesis 5 name overlap.** Three accounts given — two versions of one list
+  (with the J/P attribution), deliberate literary counterpoint, and a small ancient name-pool — and
+  they are noted as not mutually exclusive. The tidy "line of the serpent / line of the promise"
+  scheme is flagged as getting more from the text than it says, since Genesis labels neither line
+  and the flood account makes the corruption universal.
+- **The Matthew 18:22 link rests on a Septuagint phrase, not on a citation.** The connection page
+  states that Matthew never names Lamech, gives the counter-argument (that "seventy-seven" is just
+  an idiom for an uncountable number), and gives the reply (that the idiom's one attestation *is*
+  Genesis 4:24). The seventy-seven vs. seventy-times-seven translation split is recorded as the
+  smaller question.
+- **Whether *zeraʿ ʾaḥēr* at 4:25 is quoting 3:15** is left open on the Protoevangelium page, with
+  the ordinary-word reading given equal room and Eve's shift from *Yahweh* to *ʾĕlōhîm* noted.
+- **Bronze and iron in the same verse (4:22)** does not line up with an archaeological chronology;
+  recorded as a place where readers who take these chapters as a differently-shaped kind of history
+  and readers who take them strictly both have to say something, following the handling `Cain and
+  Abel` already gave to "who was there to kill him".
+- **Genesis says nothing about the bigamy of 4:19**, and the Torah regulates polygamy rather than
+  forbidding it. `Marriage` now says so, rather than letting the structural argument stand as if it
+  were an explicit one.
+
+Deliberately left for later pericopes: the Sethite Enoch and Lamech (Genesis 5, next run), the end
+of Cain's line at the flood (Genesis 6–7), Nimrod's cities (Genesis 10) and Babel (Genesis 11), the
+`Worship` theme and Abram's altars (Genesis 12:8), and Genesis 9:5–6 for `Vengeance`. All of these
+are plain-text references, not links, so nothing dangles.
+
+`scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages. All
+ten verses of the pericope were checked mechanically against `raw/bible/Genesis.md` and quote it
+verbatim.

@@ -52,7 +52,8 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
 - Eats from the forbidden tree, blames the woman, hears the ground cursed for his sake, names
   Eve, is clothed by God, and is driven out of the garden — [[The Fall]]
 - Fathers Cain and Abel, and loses both on the same day — [[Cain and Abel]]
-- Fathers Seth; dies at 930 — Genesis 4:25, 5:3–5 *(not yet ingested)*
+- Fathers Seth — [[The Line of Cain and the Birth of Seth]]
+- Born again into the record with ages attached; dies at 930 — Genesis 5:1–5 *(not yet ingested)*
 
 ## Appears in
 
@@ -60,6 +61,9 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
 - [[The Fall]]
 - [[Cain and Abel]] — present only in the passage's first verse, still called *"the man"*, and
   silent for the rest of it
+- [[The Line of Cain and the Birth of Seth]] — one verse again (4:25), and the first narrative
+  sentence in which the Hebrew uses *ʾādām* as a plain personal name without the definite article.
+  The word finishes becoming a name here; Genesis 5:1–5 completes the transition.
 - Named as humanity, not yet as an individual, in [[The Creation of the World]]
 
 ## Related people
@@ -69,6 +73,8 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   over under questioning in 3:12 and then names in 3:20
 - [[The Serpent]] — which never addresses him, though he is present throughout
 - [[Cain]] and [[Abel]] — his first two sons, one a farmer like himself and one a shepherd
+- [[Seth]] — his third son, born after he loses the first two, and the one every later genealogy
+  runs through
 
 ## Themes associated
 

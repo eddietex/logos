@@ -62,6 +62,13 @@ rule are the conditions the rest of Scripture is set in.
 - **Genesis 4:6–16** — the same sequence over Cain, question for question (*"Where is Abel your
   brother?"* answering *"Where are you?"*), preceded this time by a warning and closed by a sign
   that protects the condemned.
+- **Genesis 4:17–24** — the theme by its absence. A city built in defiance of a sentence, the first
+  polygamy, and a boast of disproportionate killing all pass without God coming, questioning, or
+  saying anything at all. It is the first stretch of the Bible in which he does not appear, and
+  what makes it legible as a *withholding* rather than an oversight is that the same chapter has
+  just run the full sequence twice. Genesis is establishing that judgment is not automatic and not
+  immediate — which is the premise the flood account will need, and the premise Abraham argues from
+  at 18:25.
 - **Genesis 6–9; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood, Babel, and Sodom, each
   with God "going down to see" before acting, and Abraham's *"Shall not the Judge of all the earth
   do right?"* (18:25) putting the question the theme keeps raising.
@@ -76,6 +83,8 @@ rule are the conditions the rest of Scripture is set in.
 - [[The Fall]] — the first judgment scene, and the template
 - [[Cain and Abel]] — the template run again, escalated, with a warning added at the front and a
   protective sign at the end
+- [[The Line of Cain and the Birth of Seth]] — the template withheld: eight verses of escalation
+  with no divine response
 
 ## Related themes
 
@@ -84,6 +93,7 @@ rule are the conditions the rest of Scripture is set in.
 - [[Life and Death]] — the sentence's content
 - [[Blessing]] — the counter-word, and what survives the judgment
 - [[Sacrifice and Offering]] — what the second judgment scene begins from
+- [[Vengeance]] — the human substitute for it, when it does not come
 
 ## Related people
 

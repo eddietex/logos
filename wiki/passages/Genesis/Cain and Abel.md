@@ -179,8 +179,9 @@ the garden.
   for the woman's offspring, and 4:8 as the first time that line is cut.
 - [[The Garden of Eden]] — Genesis 2:4–25; the *šāmar* ("keep") of 2:15 is the word Cain throws
   back in 4:9.
-- Genesis 4:17–26 — the next pericope: Cain's line, Lamech's boast that answers the sevenfold
-  vengeance of 4:15 with seventy-seven, and the birth of Seth *"instead of Abel"*.
+- [[The Line of Cain and the Birth of Seth]] — Genesis 4:17–26: Cain's line, Lamech's boast that
+  answers the sevenfold vengeance of 4:15 with seventy-seven, and the birth of Seth
+  *"instead of Abel"*.
 - Genesis 9:5–6 — the blood of a man required *"at the hand of every man's brother"*, the rule this
   narrative is missing.
 - Leviticus 17:11 and Deuteronomy 21:1–9 — blood as life, and the ritual for a land polluted by

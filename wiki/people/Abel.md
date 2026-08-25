@@ -48,16 +48,20 @@ from a passage that says so little.
 - Brings the firstborn of his flock and their fat as an offering; Yahweh respects him and his
   offering — [[Cain and Abel]]
 - Is killed by his brother in the field; his blood cries out from the ground — [[Cain and Abel]]
-- Replaced, in his mother's words, by the birth of Seth — Genesis 4:25 *(not yet ingested)*
+- Replaced, in his mother's words, by the birth of Seth —
+  [[The Line of Cain and the Birth of Seth]]
 
 ## Appears in
 
 - [[Cain and Abel]]
+- [[The Line of Cain and the Birth of Seth]] — named once, at 4:25, as the person Seth is given
+  *"instead of"*. It is the last time Genesis mentions him.
 
 ## Related people
 
 - [[Cain]] — his brother, and his killer
 - [[Adam]] and [[Eve]] — his parents
+- [[Seth]] — the brother born after him, named for the vacancy he left
 - [[God]] — who respects his offering and hears his blood
 
 ## Themes associated

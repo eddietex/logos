@@ -42,6 +42,13 @@ the seventh day a blessing. See [[Sabbath]].
   made the ground resist, 4:12 makes it refuse, and the sentence ends a vocation rather than
   burdening one. The farmer becomes a wanderer, and the theme acquires its first case of work
   taken away.
+- **Genesis 4:17, 4:20–22** — work diversifies. Cain, whose ground has refused him, builds a city;
+  four generations later Lamech's three sons found herding, music, and metalwork (*"the father of
+  those who dwell in tents and have livestock"*, *"the father of all who handle the harp and pipe"*,
+  *"the forger of every cutting instrument of brass and iron"*). These are the Bible's first
+  **specialized** trades — the first that are named as institutions rather than as what one man
+  happens to do, and the first that are inherited. Genesis attaches no evaluation to any of them,
+  and places all of them in the cursed line. See [[City and Civilization]].
 - Strands to trace as ingestion reaches them: the sabbath and jubilee legislation that limits
   work and protects workers (Exodus 20:9–10, Leviticus 25); the craftsmen of the tabernacle filled
   with the Spirit for their skill (Exodus 31:1–11); Ecclesiastes on the vanity and the gift of
@@ -57,6 +64,8 @@ the seventh day a blessing. See [[Sabbath]].
 - [[The Fall]] — the ground cursed, and the commission continued outside the garden
 - [[Cain and Abel]] — the first two trades, the first offerings made out of them, and the first
   time a livelihood is taken away
+- [[The Line of Cain and the Birth of Seth]] — the first city, and the founding of herding, music,
+  and metalwork in three verses
 
 ## Related themes
 
@@ -65,6 +74,7 @@ the seventh day a blessing. See [[Sabbath]].
 - [[Image of God]] — the ground of the dominion that work exercises
 - [[Curse]] — what falls on the ground the work is done in
 - [[Sacrifice and Offering]] — where the produce of work is brought back to God
+- [[City and Civilization]] — what specialized, inherited work builds
 
 ## Related people
 
@@ -72,3 +82,4 @@ the seventh day a blessing. See [[Sabbath]].
 - [[Adam]]
 - [[Cain]]
 - [[Abel]]
+- [[Jabal]], [[Jubal]], [[Tubal Cain]] — the founders of the first three named crafts

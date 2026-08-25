@@ -5,9 +5,16 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 
 | Name | Summary | Key passages |
 |---|---|---|
-| [[Abel]] | The second son of Adam and Eve, a shepherd; the first human to die, and the first the New Testament calls righteous | [[Cain and Abel]] |
-| [[Adam]] | The first man, formed from the dust of the ground and animated by God's breath; "the man" before he is a name | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] |
-| [[Cain]] | The firstborn of the human race, a farmer; the first person warned, the first murderer, and the first cursed | [[Cain and Abel]] |
-| [[Eve]] | The first woman, built from the man's side as his counterpart; named Eve only after the fall | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] |
-| [[God]] | Creator of the heavens and the earth; Elohim in Genesis 1, Yahweh God from 2:4 | [[The Creation of the World]] · [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] |
+| [[Abel]] | The second son of Adam and Eve, a shepherd; the first human to die, and the first the New Testament calls righteous | [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
+| [[Adam]] | The first man, formed from the dust of the ground and animated by God's breath; "the man" before he is a name | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
+| [[Cain]] | The firstborn of the human race, a farmer; the first person warned, the first murderer, and the first cursed | [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
+| [[Enoch (son of Cain)]] | Cain's firstborn, and the man the Bible's first city is named after; not the Enoch who walked with God | [[The Line of Cain and the Birth of Seth]] |
+| [[Enosh]] | Seth's son, whose name means "man"; in his generation "men began to call on Yahweh's name" | [[The Line of Cain and the Birth of Seth]] |
+| [[Eve]] | The first woman, built from the man's side as his counterpart; named Eve only after the fall | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
+| [[God]] | Creator of the heavens and the earth; Elohim in Genesis 1, Yahweh God from 2:4 | [[The Creation of the World]] · [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
+| [[Jabal]] | Lamech's son by Adah, "the father of those who dwell in tents and have livestock" — the origin of nomadic herding | [[The Line of Cain and the Birth of Seth]] |
+| [[Jubal]] | Lamech's son by Adah, "the father of all who handle the harp and pipe" — the origin of music | [[The Line of Cain and the Birth of Seth]] |
+| [[Lamech (son of Methushael)]] | Seventh from Adam through Cain; the first polygamist, and the singer of the Song of the Sword | [[The Line of Cain and the Birth of Seth]] |
+| [[Seth]] | The third son of Adam and Eve, given "instead of Abel"; the line the rest of Scripture descends from | [[The Line of Cain and the Birth of Seth]] |
 | [[The Serpent]] | The shrewd creature that questions God's command; identified with Satan only in later Scripture | [[The Fall]] |
+| [[Tubal Cain]] | Lamech's son by Zillah, "the forger of every cutting instrument of brass and iron" — the origin of metalwork | [[The Line of Cain and the Birth of Seth]] |

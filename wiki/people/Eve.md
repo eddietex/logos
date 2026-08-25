@@ -50,6 +50,13 @@ spoken into the terms of a judgment. (The Hebrew of that sentence is genuinely h
 are set out on the passage page.) Ancient readers who take her to be expecting the offspring
 promised in 3:15 have her hope land on the son who becomes the murderer.
 
+She speaks once more, and it is the last thing Scripture records her saying. After the murder and
+the exile she bears a third son and names him Seth: *"for God has given me another child instead of
+Abel, for Cain killed him"* (4:25). Both of her recorded sentences are about a son given, and both
+credit God with the giving — though here she says *ʾĕlōhîm* where at 4:1 she said *Yahweh*, and the
+phrase WEB renders *another child* is *zeraʿ ʾaḥēr*, **another seed**, the word of 3:15. Whatever
+she hoped at 4:1 has been buried and re-lodged. See [[The Line of Cain and the Birth of Seth]].
+
 ## Timeline / key events
 
 - Built from the man's side and brought to him; the two are naked and unashamed —
@@ -57,13 +64,16 @@ promised in 3:15 have her hope land on the son who becomes the murderer.
 - Speaks with the serpent, takes the fruit and gives it to her husband, is questioned and
   sentenced, and is named Eve — [[The Fall]]
 - Bears Cain and Abel; names Cain with a thanksgiving to Yahweh — [[Cain and Abel]]
-- Bears Seth, *"instead of Abel, for Cain killed him"* — Genesis 4:25 *(not yet ingested)*
+- Bears Seth and names him *"another seed instead of Abel, for Cain killed him"* —
+  [[The Line of Cain and the Birth of Seth]]
 
 ## Appears in
 
 - [[The Garden of Eden]]
 - [[The Fall]]
 - [[Cain and Abel]] — she speaks the passage's opening line and appears nowhere else in it
+- [[The Line of Cain and the Birth of Seth]] — she speaks its second-to-last verse, and it is her
+  last recorded sentence in Scripture
 - Included, unnamed, in the "male and female" of [[The Creation of the World]]
 
 ## Related people
@@ -73,6 +83,7 @@ promised in 3:15 have her hope land on the son who becomes the murderer.
 - [[The Serpent]] — which speaks to her, and which she names as her deceiver
 - [[Cain]] and [[Abel]] — her first two sons; she names one with thanksgiving and the other
   without comment
+- [[Seth]] — her third son, whom she names for the brother he replaces
 
 ## Themes associated
 

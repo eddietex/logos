@@ -29,13 +29,17 @@ ordinary way a punishment becomes a life, the text does not say.
 ## Appears in
 
 - [[Cain and Abel]] — where Cain goes after leaving Yahweh's presence
+- [[The Line of Cain and the Birth of Seth]] — not named again, but the ground the next verse
+  builds on
 
 ## Related places
 
 - [[Eden]] — the only fixed point Nod is measured from, and by then a region no one can enter
-- The city of Enoch, built by Cain and named for his son — Genesis 4:17 *(not yet ingested)*
+- [[Enoch (city)]] — built by Cain and named for his son in the very next verse. Genesis does not
+  actually say the city stood in Nod; the sequence of 4:16–17 is the only evidence there is.
 
 ## Events here
 
 - Cain settles after his sentence, having left Yahweh's presence (4:16)
-- Cain fathers Enoch and builds a city — Genesis 4:17 *(not yet ingested)*
+- Cain fathers Enoch and builds a city, by the sequence of the text though not by its explicit
+  statement (4:17) — [[The Line of Cain and the Birth of Seth]]

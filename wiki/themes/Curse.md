@@ -71,6 +71,9 @@ the same verses that put the tree of life back in reach (see
 
 - [[The Fall]] — the curse on the serpent and on the ground
 - [[Cain and Abel]] — the first curse pronounced on a person
+- [[The Line of Cain and the Birth of Seth]] — a cursed man building a city, and a cursed line
+  founding the crafts; Genesis declines to say whether the curse carries past the man it was spoken
+  over
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 
 ## Related themes

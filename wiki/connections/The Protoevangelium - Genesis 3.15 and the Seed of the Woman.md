@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[The Fall]] — Genesis 3:15
 - [[Cain and Abel]] — Genesis 4:1, 4:8
+- [[The Line of Cain and the Birth of Seth]] — Genesis 4:25, *"another seed instead of Abel"*
 - Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · 1 John 3:8 · Revelation 12:1–17 *(not yet
   ingested)*
 
@@ -68,9 +69,29 @@ antiquity onward hears Eve expecting this son to be the one 3:15 spoke of. Genes
 things with that expectation inside sixteen verses: the candidate becomes the first murderer, and
 the only other candidate is his victim. Whether or not 4:1 is meant to sound like 3:15, the
 narrative sequence — promise, birth, fratricide — is the pattern the rest of Genesis runs on,
-where the line is repeatedly threatened by the family carrying it. It resumes at 4:25, where Seth
-is given *"instead of Abel"*, and the *toledot* of chapter 5 follow **his** line rather than
-Cain's. See [[Cain and Abel]].
+where the line is repeatedly threatened by the family carrying it. See [[Cain and Abel]].
+
+**And the verse where the word itself returns.** Genesis 4:25 is easy to read past in English,
+because WEB and most translations smooth it: *"God has given me another child instead of Abel."*
+The Hebrew is *zeraʿ ʾaḥēr* — **another seed** — which is the noun of 3:15, and its only other
+appearance in these chapters. Eve, who at 4:1 credited Yahweh with a son and has since lost both
+sons she had, uses the promise's own word for the third. Two lines of reading follow, and the wiki
+keeps both:
+
+- **The word is load-bearing.** If 4:1 was the first hope that the offspring had arrived, 4:25 is
+  that hope re-lodged after it failed twice — the candidate turned murderer and the alternative
+  murdered. On this reading Genesis is tracking a single line deliberately, and the reader is meant
+  to notice that it has now been restarted. The narrative supports it: the genealogy of chapter 5
+  follows Seth rather than Cain, and Luke 3:38 runs Jesus's descent back through Seth by name.
+- **The word is ordinary.** *Zeraʿ* is the everyday Hebrew for offspring and occurs hundreds of
+  times in the Hebrew Bible; a bereaved mother saying "another child" is not necessarily quoting
+  anything. Against reading too much into it, note also that Eve says *ʾĕlōhîm* here where she said
+  *Yahweh* at 4:1.
+
+What is not in dispute is what the narrative *does*: it abandons Cain's line four verses after
+introducing it and follows Seth's for the rest of the book. See
+[[The Line of Cain and the Birth of Seth]], [[Seth]], and
+[[Two Lines from Adam - Cain's Genealogy and Seth's]].
 
 ## Significance
 
