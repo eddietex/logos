@@ -27,7 +27,7 @@ Links resolve once a book's page is created — unresolved links below are books
 - [ ] [[Esther]] — not-started
 
 ### Wisdom / Poetry
-- [ ] [[Job]] — not-started
+- [ ] [[Job]] — in-progress (2 / 32 pericopes)
 - [ ] [[Psalms]] — not-started
 - [ ] [[Proverbs]] — not-started
 - [ ] [[Ecclesiastes]] — not-started

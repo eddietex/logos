@@ -190,6 +190,11 @@ the garden.
   formally what the mark of Cain does here informally.
 - Matthew 5:21–24 — anger treated as the root the murder grows from, and reconciliation with a
   brother placed ahead of the offering at the altar.
+- [[Do Not Cover My Blood]] — 4:10–11 and Job 16:18, where a suffering man forbids the earth to do
+  to his blood what it did to Abel's, and the thread that runs from both to Isaiah 26:21, Ezekiel
+  24:7–8, Hebrews 12:24, and Revelation 6:9–10.
+- [[Miserable Comforters and the Witness in Heaven]] — Job 16:18's use of this passage's most
+  durable image.
 
 ## Notes
 

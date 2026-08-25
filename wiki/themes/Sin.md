@@ -118,6 +118,11 @@ has been argued.
 - [[The Sons of God and the Corruption of the Earth]] — the diagnosis: not an act but the
   imagination of the heart, every one of them, continually, only evil
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
+- [[Eliphaz's Second Speech]] — Job 15:14–16, the friends' anthropology at full strength (*"What is
+  man, that he should be clean?"*), and the wiki's standing case of a largely true doctrine used as
+  a false diagnosis
+- [[What Is Man That He Should Be Clean]] — the three Job speeches on human impurity, and what
+  separates them from Genesis 6:5 and Romans 3
 
 ## Related themes
 
@@ -129,6 +134,8 @@ has been argued.
 - [[Vengeance]] — what the second killing in Scripture is defended with
 - [[Divine Grief and Relenting]] — what the verdict of 6:5 costs the one who reaches it
 - [[Favor and Grace]] — the exception that follows the verdict without qualifying it
+- [[Retribution]] — the doctrine that reads suffering backwards into sin, and what Job breaks in it
+- [[Suffering]] — the thing sin is wrongly inferred from
 
 ## Related people
 
@@ -140,3 +147,5 @@ has been argued.
 - [[The Sons of God]]
 - [[Noah]]
 - [[God]]
+- [[Eliphaz the Temanite]]
+- [[Job (person)]]

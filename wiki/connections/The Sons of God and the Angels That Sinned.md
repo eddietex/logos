@@ -8,7 +8,12 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 6:1–4 — [[The Sons of God and the Corruption of the Earth]]
-- Job 1:6; 2:1; 38:7 *(not yet ingested)* — the phrase's other Hebrew Bible occurrences
+- Job 1:6; 2:1; 38:7 *(not yet ingested)* — the phrase's other Hebrew Bible occurrences, in
+  [[Job]]
+- Job 4:18; 15:15 — *"he charges his angels with error"* and *"he puts no trust in his holy ones.
+  Yes, the heavens are not clean in his sight"*: the Hebrew Bible's other statements of fallibility
+  among heavenly beings, both spoken by [[Eliphaz the Temanite]]. See
+  [[Eliphaz's Second Speech]] and [[What Is Man That He Should Be Clean]].
 - Deuteronomy 32:8 *(not yet ingested)* — the nations divided by the number of the sons of God
 - *1 Enoch* 6–16 — the Watchers narrative (not canonical in most traditions; see below)
 - Jude 6 *(not yet ingested)* — the angels who did not keep their first domain

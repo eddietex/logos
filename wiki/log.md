@@ -773,3 +773,148 @@ thirty resolve against the raw Genesis text, and the remainder are citations of 
 Genesis 1:6 had been paraphrased as *"to divide the waters from the waters"* and now reads *"let it
 divide the waters from the waters"*, and a fragment of 7:11 that had been silently capitalized is
 now marked as elided.
+
+## [2026-08-25] schema | Book/person name collisions — the person page takes `(person)`
+
+Job is the first book whose title is also a person's name, and it will not be the last: Ruth,
+Samuel, Ezra, Nehemiah, Esther, Daniel, the twelve Minor Prophets, and several New Testament
+letters all do the same. `wiki/books/Job.md` and a `wiki/people/Job.md` would both answer to
+`[[Job]]`, and Obsidian resolves that by an unstated rule.
+
+Worse, **`scripts/link-check.sh` cannot see the problem**: check 2 indexes existing pages by
+basename as well as by path, so two files called `Job.md` both register as the target `Job` and the
+check passes. The failure is silent at both ends, which is why the rule added to `CLAUDE.md` under
+`## Naming conventions` is mandatory rather than stylistic.
+
+The rule: **the book page keeps the bare name; the person page takes `(person)`.** The book side is
+fixed by the directory map and by the 66 links in `wiki/books/index.md`, so the person is the side
+that moves. It is category-style disambiguation, exactly parallel to the existing
+`Enoch (city)` / `Enoch (son of Cain)` pair, and it is deliberately mechanical rather than
+descriptive so that it can be applied without a judgment call each time. Names that already need
+disambiguating for another reason — `John the Baptist`, `James (son of Zebedee)` — never produce a
+bare collision and so never take `(person)`. The qualifier is written out in links and never piped
+away.
+
+## [2026-08-25] ingest | Job 15.1-17.16 — Eliphaz's Second Speech; Miserable Comforters and the Witness in Heaven
+
+First touch on Job, run interactively against the argument `Job 15,16, and 17`. Three chapters were
+asked for and three were ingested, which is **two pericopes rather than the usual one** — Job 15 is
+Eliphaz's second speech and Job 16:1–17:16 is Job's reply to it, and they do not belong in one
+passage page because they have different speakers. Both were done in the same pass because the
+request named all three chapters; the ordinary one-pericope-per-invocation rule is otherwise
+unchanged.
+
+`scripts/fetch-book.sh "Job"` pulled all 42 chapters into `raw/bible/Job.md`.
+
+Created:
+- `wiki/books/Job.md` — with the full 32-pericope plan for the book (see below)
+- `wiki/passages/Job/Eliphaz's Second Speech.md`
+- `wiki/passages/Job/Miserable Comforters and the Witness in Heaven.md`
+- `wiki/people/Job (person).md`, `Eliphaz the Temanite.md`, `Bildad the Shuhite.md`,
+  `Zophar the Naamathite.md`
+- `wiki/places/Teman.md`, `Sheol.md`
+- `wiki/themes/Retribution.md`, `Suffering.md`, `Wisdom.md`, `Hope.md`,
+  `Mediation and Advocacy.md`
+- `wiki/connections/What Is Man That He Should Be Clean.md`,
+  `The First Man and Wisdom Before the Hills.md`, `Do Not Cover My Blood.md`,
+  `The Witness in Heaven.md`
+
+Updated: `wiki/people/God.md` (new section — in Job's poetry he does not speak, and the two
+passages give him three incompatible roles in forty verses: the moral accountant the friends
+defend, the assailant of 16:7–14, and the witness and guarantor of 16:19 and 17:3; plus the note
+that the poetry drops *Yahweh* for *ʾĒl*, *ʾĔlôah*, and *Šadday*), `Adam.md` (Job 15:7's *"the
+first man who was born"*), `Abel.md` (Job 16:18 as the measure of his reach), `Noah.md` (the other
+two men Ezekiel 14:14 names beside him are Daniel and Job),
+`wiki/passages/Genesis/Cain and Abel.md` (Job 16:18 among its cross-references),
+`wiki/connections/Cain and Abel in the New Testament.md` (Job 16:18 as the middle term in the
+*what blood says* strand), `The Sons of God and the Angels That Sinned.md` (Job 4:18 and 15:15 now
+linked, and its Job references resolved), `wiki/themes/Sin.md`, `Judgment.md`, `Righteousness.md`,
+`Life and Death.md`, all five category indexes, `wiki/books/index.md`, and `wiki/index.md` counts.
+`CLAUDE.md` gained the book/person naming rule — logged separately above.
+
+Judgment calls made, for review:
+- **The pericope plan divides Job into 32 units** on the book's own architecture — prologue,
+  opening lament, three speech cycles, the wisdom hymn, Job's defense, Elihu, the whirlwind, and
+  the epilogue — rather than by chapter. **Titling convention, stated on the book page: the
+  friends' speeches are numbered plainly (*Eliphaz's Second Speech*) and Job's replies take a
+  phrase from the speech (*There Is No Umpire Between Us*, *I Know That My Redeemer Lives*).** In a
+  book of three cycles of three, the reader's first need from a friend's speech is to know where in
+  the pattern it falls; Job's replies are where the memorable lines are. The third cycle is planned
+  as four boxes (22, 23–24, 25, 26–27) on the assumption that the pattern's breakdown there is part
+  of the text; if the dislocation reading is preferred later, those boxes are unchecked and free to
+  redraw.
+- **`Sheol` is filed under places, not themes.** The Hebrew Bible speaks of it as somewhere people
+  *go* — down to it, through its gates — and a reader following a passage's geography should find
+  it beside the other locations. The page says outright that it is a realm and that nothing in
+  Scripture locates it.
+- **All three friends got pages, though only Eliphaz speaks in these chapters.** Bildad and Zophar
+  are inside Eliphaz's *"we"* and *"with us"* (15:9–10) and inside Job's plurals (*"You are all
+  miserable comforters"*, 16:2; *"as for you all"*, 17:10). The friends argue as a bloc and Job
+  answers the bloc, so leaving two of the three unlinked would have misrepresented the passage.
+- **Five new themes at once**, which is more than any previous ingest. Job introduces a set of
+  concepts Genesis had no occasion for, and `Retribution`, `Suffering`, `Wisdom`, `Hope`, and
+  `Mediation and Advocacy` were all needed by these two chapters rather than anticipated for later
+  ones.
+- **Prologue and epilogue material is used freely as background but never linked**, since Job 1–2
+  and 42 are not ingested. All such references are plain scripture citations, so nothing dangles.
+
+Contested points recorded rather than resolved:
+- **The identity of the witness in heaven (16:19).** Three readings kept side by side — God himself
+  (the majority modern view, and the one 17:3 supports since Job there asks God to stand surety
+  with God), a distinct heavenly advocate (which suits the legal language and Elihu's 33:23–24 but
+  is never confirmed by the book), and Job's own cry personified (which follows the verse order
+  from 16:18 exactly and is the least popular). The observation offered instead of a choice: the
+  heavenly court in this book does contain a figure interested in Job's case, and he is the
+  prosecution.
+- **The Christian reading of the thread is given with three limits stated.** Job asks for an
+  advocate *against* God, where 1 John 2:1 has an advocate *with the Father* on a guilty party's
+  side — a different configuration; the book never endorses the figure; and the Hebrew of 19:25–27
+  is badly damaged, so the thread's most quoted verse is its weakest link. The page also notes the
+  book's own resolution, which is that the advocate never arrives and Job becomes one (42:8).
+- **What is actually wrong with the friends' anthropology.** Stated as three separate claims rather
+  than a blanket dismissal: the propositions of 15:14–16 are largely defensible and Job says much
+  the same at 9:2 and 14:4; the *inference* from universal guilt to a particular verdict is invalid;
+  and 42:7 locates the fault in the picture of God the argument produces, not in the anthropology.
+  1 Corinthians 3:19 quoting Eliphaz (Job 5:13) as authority is recorded as the evidence that 42:7
+  cannot mean *everything the friends said was false*.
+- **Whether 16:9–14 describes God or the accuser.** The minority reading is noted (16:9's *ṣārî*,
+  *my adversary*, shares a root with *śāṭān*) and then rejected on the text's grounds: 16:7
+  addresses God in the second person, and the prologue makes the accuser act only by permission.
+  The violence is taken as intended.
+- **Job 17:9** (*"Yet shall the righteous hold on his way"*), which sounds like the friends in Job's
+  mouth. Three readings given — irony, a genuine upward flash, textual disturbance — with the second
+  preferred, on the ground that 16:19 has already made one unprepared upward turn.
+- **Whether Job was historical.** Three positions given (historical figure, historical core with
+  poetic elaboration, parable), with Ezekiel 14:14 and James 5:11 on one side and *Bava Batra* 15a
+  on the other, and the note that the book's argument survives all three.
+- **The third cycle's collapse** (Bildad's six verses, Zophar's silence) is recorded on Bildad's
+  page as either textual dislocation or deliberate design, with no position taken and the point
+  flagged that the second cycle — where these chapters sit — is the last one intact.
+- **Sheol is kept at its own date.** The undifferentiated realm of the dead is distinguished from
+  Hades, Gehenna, and hell, and the page declines to answer Job 17:15–16 out of Daniel 12:2 or the
+  New Testament, since the resource is not yet available to him and importing it removes the problem
+  the chapter poses.
+- **Job 13:15 was corrected during the verification pass.** The page had reported the famous
+  *"Though he slay me, yet will I wait for him"* as the WEB's reading with *"I have no hope"* as the
+  margin. The WEB in fact reads *"Behold, he will kill me. I have no hope. Nevertheless, I will
+  maintain my ways before him."* — it adopts the opposite textual decision from the KJV. `Hope.md`
+  now says so.
+
+Deliberately left for later pericopes, all as plain-text references so nothing dangles: the whole
+prologue and epilogue (Job 1–2, 42), Elihu, Job's wife, Uz, Edom, Abaddon, and every Job chapter
+outside 15–17. `Eliphaz son of Esau` and `Teman` in Genesis 36 are referenced in plain text and get
+pages when Genesis 36 is ingested.
+
+`scripts/link-check.sh` clean, exit 0, against a baseline now down to 64 not-yet-started book
+pages. No passage title is duplicated across books, and no two pages in the vault share a basename.
+All thirty verses block-quoted on the two passage pages were reassembled from the pages and
+compared character for character against `raw/bible/Job.md`: all thirty match verbatim. Inline
+quotations were checked the same way — 69 quotations explicitly attributed to a Job or Genesis
+reference all resolve against the raw text, and the remainder are citations of books this repo has
+not fetched. **Eleven inline quotations were corrected during that check**: Job 42:5 read *"I have
+heard"* for *"I had heard"*; 3:11 *"Why did I not die"* for *"Why didn't I die"*; 9:2 *"But in truth
+I know"* for *"Truly I know"*; 19:25 was conflated into one clause; 33:23 read *"messenger"* where
+the WEB has *"an angel"*; 8:10 added an *"and"*; 4:15 used a semicolon for a full stop; 14:13
+dropped two commas; 17:14's two inner quotations had been merged into one; 42:7 was quoted in a
+reconstructed form; and Job 28:28 had been cited for Proverbs 9:10's wording. 14:7 was re-elided
+rather than silently re-cased.

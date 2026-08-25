@@ -112,6 +112,21 @@ in `raw/`.
   that searches for `[[...]]` will ever report it.
 - If a name collides (e.g. two people named "James"), disambiguate in the filename:
   `James (son of Zebedee).md`, `James (son of Alphaeus).md`, `James (brother of Jesus).md`.
+- **When a person shares a name with a book, the person page takes `(person)`.** The book page keeps
+  the bare name, because `wiki/books/<Book>.md` is fixed by the directory map above and by the 66
+  links in `wiki/books/index.md`; the person becomes `wiki/people/Job (person).md`, linked as
+  `[[Job (person)]]`. This will recur for roughly two dozen books — Ruth, Samuel, Ezra, Nehemiah,
+  Esther, Daniel, the twelve Minor Prophets, and several of the New Testament letters — so the rule
+  is mechanical on purpose rather than descriptive: a name that already needs disambiguating for
+  another reason (`John the Baptist`, `James (son of Zebedee)`) never produces a bare collision and
+  so never needs `(person)`.
+
+  This collision is invisible to `scripts/link-check.sh`, which resolves targets by basename and
+  will happily pass two files called `Job.md`. Obsidian, meanwhile, picks one of them by an
+  unstated rule. That is the whole reason the convention is mandatory rather than stylistic — the
+  failure is silent at both ends.
+
+  The qualifier is written out in links, like `[[Enoch (city)]]`, and never piped away.
 
 ## Page types & frontmatter
 

@@ -24,3 +24,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
+| [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Romans 3:10–23 · Job 42:7 |
+| [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 |
+| [[Do Not Cover My Blood]] | allusion | Genesis 4:10–11 · Job 16:18 · Leviticus 17:13 · Deuteronomy 21:1–9 · Isaiah 26:21 · Ezekiel 24:6–8 · Hebrews 12:24 · Revelation 6:9–10 |
+| [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 |

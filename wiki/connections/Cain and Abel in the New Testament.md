@@ -80,3 +80,8 @@ Bible's first murder the first term in a series about **what blood says**. Genes
 crying from the ground), Genesis 9:5–6 (blood required), Leviticus 17:11 (life in the blood),
 Deuteronomy 21:1–9 (a land polluted by blood), and Hebrews 12:24 are one strand. Revisit when
 Genesis 9 and Leviticus 17 are ingested.
+
+That strand now has a middle term. Job 16:18 — *"Earth, don't cover my blood. Let my cry have
+no place to rest"* — takes Genesis 4's conception and turns it into a petition, from a man not yet
+dead who expects to die uncleared. See [[Do Not Cover My Blood]] and
+[[Miserable Comforters and the Witness in Heaven]].

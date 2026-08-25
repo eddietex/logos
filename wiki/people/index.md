@@ -7,7 +7,9 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 |---|---|---|
 | [[Abel]] | The second son of Adam and Eve, a shepherd; the first human to die, and the first the New Testament calls righteous | [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
 | [[Adam]] | The first man, formed from the dust of the ground and animated by God's breath; "the man" before he is a name | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] · [[The Sons of God and the Corruption of the Earth]] |
+| [[Bildad the Shuhite]] | The second of Job's three friends, and the bluntest; the one who tells Job his children died for their own sin | [[Eliphaz's Second Speech]] · [[Miserable Comforters and the Witness in Heaven]] |
 | [[Cain]] | The firstborn of the human race, a farmer; the first person warned, the first murderer, and the first cursed | [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] |
+| [[Eliphaz the Temanite]] | The first, longest-speaking, and senior of Job's friends, from the town proverbial for wisdom; the one God rebukes by name | [[Eliphaz's Second Speech]] · [[Miserable Comforters and the Witness in Heaven]] |
 | [[Enoch (son of Cain)]] | Cain's firstborn, and the man the Bible's first city is named after; not the Enoch who walked with God | [[The Line of Cain and the Birth of Seth]] |
 | [[Enoch (son of Jared)]] | The seventh from Adam; "walked with God, and he was not found, for God took him" — the one entry in Genesis 5 that does not end in a death | [[From Adam to Noah]] |
 | [[Enosh]] | Seth's son, whose name means "man"; in his generation "men began to call on Yahweh's name" | [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] |
@@ -17,6 +19,7 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 | [[Jabal]] | Lamech's son by Adah, "the father of those who dwell in tents and have livestock" — the origin of nomadic herding | [[The Line of Cain and the Birth of Seth]] |
 | [[Japheth]] | The third-named son of Noah, and the most thinly drawn; ancestor of the peoples north and west of Israel, and blessed with a pun on his own name | [[From Adam to Noah]] · [[Noah and the Flood]] |
 | [[Jared]] | The sixth generation from Adam; father of Enoch, and at 962 the second-longest-lived person in Scripture | [[From Adam to Noah]] |
+| [[Job (person)]] | The blameless man of Uz, certified by the narrator and by God before anyone speaks; he accuses God of hunting him and is the one told he spoke rightly | [[Eliphaz's Second Speech]] · [[Miserable Comforters and the Witness in Heaven]] |
 | [[Jubal]] | Lamech's son by Adah, "the father of all who handle the harp and pipe" — the origin of music | [[The Line of Cain and the Birth of Seth]] |
 | [[Kenan]] | The fourth generation from Adam, and the Sethite name that shares its root with *Qayin*, Cain | [[From Adam to Noah]] |
 | [[Lamech (father of Noah)]] | The ninth from Adam through Seth; the only person who speaks in Genesis 5, naming his son for relief from the cursed ground | [[From Adam to Noah]] · [[The Sons of God and the Corruption of the Earth]] |
@@ -30,3 +33,4 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 | [[The Serpent]] | The shrewd creature that questions God's command; identified with Satan only in later Scripture | [[The Fall]] |
 | [[The Sons of God]] | *Bene ha-elohim*, who take wives from among the daughters of men; divine beings, Sethites, or kings, depending on the reading | [[The Sons of God and the Corruption of the Earth]] |
 | [[Tubal Cain]] | Lamech's son by Zillah, "the forger of every cutting instrument of brass and iron" — the origin of metalwork | [[The Line of Cain and the Birth of Seth]] |
+| [[Zophar the Naamathite]] | The third of Job's friends, and the only one to tell him God is exacting less than his iniquity deserves | [[Eliphaz's Second Speech]] · [[Miserable Comforters and the Witness in Heaven]] |

@@ -81,7 +81,9 @@ preacher of righteousness"* (2 Peter 2:5) in a role Genesis never gives him, and
 analogy for an age that does not know what is coming — see [[As It Was in the Days of Noah]].
 Ezekiel names him first among three men so righteous that they *"would deliver only their own souls
 by their righteousness"* (14:14, 20), which is a backhanded tribute and an accurate reading: he
-saved his household because they were in his boat, and nobody else.
+saved his household because they were in his boat, and nobody else. The other two men Ezekiel names are Daniel and
+**Job** — see [[Job (person)]] — which is the earliest evidence outside the book of Job that its
+hero was a known figure of proverbial righteousness, and puts Noah in a very short list.
 
 Two things worth holding from this chapter alone. By its own arithmetic he is the first man in the
 line who never met [[Adam]] — Adam dies 126 years before Noah is born, and Lamech, his father, is

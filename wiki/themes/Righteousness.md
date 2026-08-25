@@ -80,6 +80,11 @@ about.
 
 - [[Noah and the Flood]] — *ṣaddîq*'s first occurrence in Scripture, declared of a man before he is
   shown doing anything, and restated by God at 7:1
+- [[Eliphaz's Second Speech]] — Job 15:14, *"What is he who is born of a woman, that he should be
+  righteous?"*, asked about a man God has already twice called blameless (Job 1:8, 2:3)
+- [[Miserable Comforters and the Witness in Heaven]] — Job 16:17, *"there is no violence in my hands,
+  and my prayer is pure"*: the claim the friends hear as blasphemy and the narrator has certified in
+  advance
 
 ## Related themes
 
@@ -90,9 +95,15 @@ about.
 - [[Sin]] — the condition 6:5 attributes to everyone else in the generation
 - [[Sacrifice and Offering]] — *tāmîm*, "blameless", is the sacrificial word for an animal without
   defect, applied here to a man
+- [[Retribution]] — the doctrine that claims to be able to read this status off a man's
+  circumstances
+- [[Mediation and Advocacy]] — what a righteous man reaches for when the verdict goes the other way
 
 ## Related people
 
 - [[Noah]] — the first person in Scripture called righteous
 - [[God]] — who declares it, and who says at 7:1 that he has *seen* it
 - [[Abel]] — called righteous not by Genesis but by Matthew 23:35 and Hebrews 11:4
+- [[Job (person)]] — declared blameless and upright by the narrator and by God before he acts, and
+  disbelieved by everyone present
+- [[Eliphaz the Temanite]] — who denies that anyone born of a woman can hold the status

@@ -122,6 +122,9 @@ the rest of the canon.
 - [[The Tree of Life - Eden and the New Jerusalem]] — the tree from 2:9 at the canon's other end
 - [[The First Adam and the Last Adam]] — *"as in Adam all die, so also in Christ all will be made
   alive"*
+- [[Miserable Comforters and the Witness in Heaven]] — *"the way of no return"* (16:22) and the
+  household of the grave (17:13–16): death as the deadline that makes vindication urgent, in a book
+  whose [[Sheol]] settles nothing
 
 ## Related themes
 
@@ -130,6 +133,9 @@ the rest of the canon.
 - [[Sin]]
 - [[Curse]]
 - [[Judgment]]
+- [[Hope]]
+- [[Suffering]]
+- [[Mediation and Advocacy]]
 
 ## Related people
 
@@ -143,3 +149,4 @@ the rest of the canon.
 - [[Enoch (son of Jared)]]
 - [[Methuselah]]
 - [[Noah]]
+- [[Job (person)]]

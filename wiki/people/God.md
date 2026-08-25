@@ -202,6 +202,36 @@ nothing at all about how any of it feels. And no answer to the obvious question:
 have him explain why the animals die, or the children, and unlike Sodom there is nobody standing in
 front of him to ask.
 
+## He is argued about, and then argued with — Job
+
+The Job passages give this page a problem the Genesis passages did not, and it is worth stating
+before the lists.
+
+**In the poetry of Job, God does not speak.** From chapter 3 to chapter 37 he is entirely a subject
+of discussion, and the reader sees only what five men say about him — which is why the two ingested
+passages have him appear in three incompatible characters within forty verses.
+
+- **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
+  the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
+  dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
+  backwards. This is the God whose defence gets Eliphaz rebuked at 42:7.
+- **The God of Job 16:7–14**, in [[Miserable Comforters and the Witness in Heaven]], is an
+  assailant — tearing in wrath, gnashing with teeth, taking a man by the neck and dashing him to
+  pieces, setting him up as an archery target, splitting his kidneys, running on him like a giant.
+  It is the most violent portrayal of God in the Bible, and the man speaking it has been certified
+  blameless twice in God's own voice (Job 1:8, 2:3).
+- **The God of Job 16:19 and 17:3** is a witness and a guarantor: the one on high who vouches for
+  Job and *"would maintain the right of a man with God"*, and the one asked to post bond for Job
+  against himself. Whether that figure is God or a third party is unsettled; see
+  [[The Witness in Heaven]].
+
+Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
+poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
+non-Israelite, pre-covenantal setting. And **when God finally speaks, at 38:1, he answers none of
+it**: no explanation of the wager, no defence of his justice, no correction of the friends'
+theology within the poem. He asks questions about the sea's doors and the storehouses of snow, and
+he issues his one verdict on the argument afterwards, in prose, to the friends (42:7).
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -220,6 +250,8 @@ front of him to ask.
   [[The Sons of God and the Corruption of the Earth]]
 - Declares one man righteous, specifies an ark, promises the Bible's first covenant, opens the deep
   and the windows of the sky on a dated day, and shuts the door himself — [[Noah and the Flood]]
+- Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
+  answers with questions rather than reasons — [[Job]], Job 38–41
 
 ## Appears in
 
@@ -233,6 +265,9 @@ front of him to ask.
   grieving, sentencing, and favoring, all in six verses
 - [[Noah and the Flood]] — the sentence executed: specifying, covenanting, dating, opening the deep,
   and shutting the door
+- [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
+- [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
+  speech
 
 ## Related people
 
@@ -252,6 +287,10 @@ front of him to ask.
   him, the first he calls righteous, and the first he offers a covenant
 - [[Shem]], [[Ham]], and [[Japheth]] — carried through the flood with their father, and the three
   from whom he repopulates the earth
+- [[Job (person)]] — who accuses him, appeals to him, and is finally answered by him, and of whom he
+  says *"you have not spoken of me the thing that is right, as my servant Job has"* (42:7)
+- [[Eliphaz the Temanite]], [[Bildad the Shuhite]], and [[Zophar the Naamathite]] — who defend him
+  and are rebuked for it
 
 ## Themes associated
 
@@ -273,3 +312,6 @@ front of him to ask.
 - [[Judgment]]
 - [[Sacrifice and Offering]]
 - [[Vengeance]]
+- [[Suffering]]
+- [[Retribution]]
+- [[Mediation and Advocacy]]

@@ -115,6 +115,11 @@ rule are the conditions the rest of Scripture is set in.
   verb and the ark specified in the same speech as the destruction
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
+- [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it
+  across the wicked man's years, which is what makes it readable backwards off his circumstances
+- [[Miserable Comforters and the Witness in Heaven]] — the courtroom with no one to hold the offices:
+  a defendant whose body is entered as testimony, a judge who is also the plaintiff's assailant, and
+  a witness Job can only assert
 
 ## Related themes
 
@@ -131,6 +136,10 @@ rule are the conditions the rest of Scripture is set in.
 - [[Divine Grief and Relenting]] — what judgment costs the one who pronounces it, and the ground on
   which it is sometimes withdrawn
 - [[Favor and Grace]] — the provision, in the form it takes at 6:8
+- [[Retribution]] — the theory of when and how judgment is executed, and the one the book of Job
+  exists to break
+- [[Mediation and Advocacy]] — the offices a defendant needs when the judge is the other party
+- [[Suffering]] — what retribution reads as a verdict already delivered
 
 ## Related people
 
@@ -141,3 +150,5 @@ rule are the conditions the rest of Scripture is set in.
 - [[Cain]]
 - [[Abel]]
 - [[Noah]]
+- [[Job (person)]]
+- [[Eliphaz the Temanite]]

@@ -78,6 +78,11 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   the name onto one individual, the species is on trial under it again — which is the ambiguity
   Romans 5:12 will build its argument out of, and the reason English translations of Genesis have to
   keep choosing between *Adam* and *man* with no help from the Hebrew.
+- [[Eliphaz's Second Speech]] — not by name. Job 15:7's taunt, *"Are you the first man who was born?
+  Or were you brought out before the hills?"*, reaches back to him and to a wider tradition of a
+  primeval man possessing knowledge from the world's founding. Eliphaz means it as an absurdity;
+  God asks Job the same question in earnest at 38:4. See
+  [[The First Man and Wisdom Before the Hills]].
 
 ## Related people
 
