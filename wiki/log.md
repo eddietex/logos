@@ -269,3 +269,25 @@ out there. Revisit notes filed on both new connection pages for Genesis 12, 22, 
 and 16, 1 Corinthians 15, Galatians 4, Hebrews 2, and Revelation 12.
 
 `scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages.
+
+## [2026-08-24] schema | Every ingest now pushes, not just commits
+
+User request: `/ingest` step 5 should push after committing. Previously the skill ended at the
+commit and said so explicitly — *"Commit on the current branch; do not push"* — which left every
+scheduled run's work sitting on the local branch until someone pushed by hand.
+
+The blocker was not the skill text. `.claude/settings.json` carried `Bash(git push:*)` in its
+**deny** list, which is a hard block rather than a prompt, so the new instruction would have failed
+on every run regardless of mode. Deny cleared and `git push` moved to the allowlist, with
+`git pull` added beside it for the rejected-push path below.
+
+Changes:
+- `.claude/skills/ingest/SKILL.md` step 5 renamed "Commit and push", with `git push` in the command
+  block and the closing report line now covering the push.
+- A rejected-push branch added: when the remote has moved ahead (the user pushing Obsidian edits
+  from another machine being the expected cause), `git pull --rebase` and push again; if that
+  fails too, stop and report rather than resolve a merge conflict unattended. The commit is safe
+  locally either way.
+- `.claude/settings.json`: `Bash(git push:*)` moved from `deny` to `allow`; `Bash(git pull:*)`
+  added; `deny` now empty.
+- `CLAUDE.md` directory map: the settings.json line now reads "commit and push".

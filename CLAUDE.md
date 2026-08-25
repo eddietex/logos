@@ -26,7 +26,8 @@ scripts/
 templates/                 one template per wiki page type (see below)
 .claude/skills/ingest/     the `/ingest` skill — resolves the next pericope, then runs the
                            ingest workflow below; `/ingest auto` runs it unattended
-.claude/settings.json      permission allowlist that lets an unattended run commit on its own
+.claude/settings.json      permission allowlist that lets an unattended run commit and push on
+                           its own
 wiki/
   index.md                 top-level dashboard, links out to the five category indexes
   log.md                   append-only chronological record of every operation

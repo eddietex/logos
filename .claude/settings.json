@@ -6,12 +6,12 @@
       "Bash(git log:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
       "Bash(scripts/fetch-book.sh:*)",
       "Bash(scripts/link-check.sh:*)",
       "Bash(./scripts/link-check.sh:*)"
     ],
-    "deny": [
-      "Bash(git push:*)"
-    ]
+    "deny": []
   }
 }

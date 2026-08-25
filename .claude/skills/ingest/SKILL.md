@@ -97,11 +97,11 @@ Done means every one of these is true:
   what is now on disk.
 - `wiki/log.md` has the new `ingest` entry appended.
 
-## 5. Commit
+## 5. Commit and push
 
-Every ingest ends in a commit, in both modes — a scheduled run must leave nothing uncommitted for
-the next run to trip over. Stage everything the pass touched, including the raw book text if
-step 2 fetched it:
+Every ingest ends in a commit **and a push**, in both modes — a scheduled run must leave nothing
+uncommitted and nothing unpushed for the next run to trip over. Stage everything the pass touched,
+including the raw book text if step 2 fetched it:
 
 ```
 git add -A
@@ -113,14 +113,20 @@ git commit -m "$(cat <<'EOF'
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 EOF
 )"
+git push
 ```
 
-Subject line follows the existing history: `Genesis 1.1-2.3 ingested`. Commit on the current
-branch; do not push.
+Subject line follows the existing history: `Genesis 1.1-2.3 ingested`. Commit and push on the
+current branch.
 
 If `git status` is dirty *before* you start — uncommitted work from a previous run or from the
 user editing in Obsidian — commit it separately first with its own message, so the ingest commit
 stays just the ingest.
 
-Then report the pericope, the pages created or revised, and the commit, and stop. One pericope
-per invocation — the next run of `/ingest` takes the next.
+**If the push is rejected** because the remote has moved ahead — the user pushing Obsidian edits
+from another machine is the usual cause — run `git pull --rebase` and push again. If that also
+fails, stop and report it. The commit is safe on the local branch, and a scheduled run resolving a
+merge conflict unattended is worse than one that leaves the conflict for the user.
+
+Then report the pericope, the pages created or revised, and the commit and push, and stop. One
+pericope per invocation — the next run of `/ingest` takes the next.
