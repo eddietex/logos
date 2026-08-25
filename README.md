@@ -9,6 +9,19 @@ You rarely write the wiki yourself. Open this repo as an Obsidian vault, keep Cl
 alongside it, and direct the agent: feed it a book to start ingesting, ask it questions, ask it
 to lint. It writes; you read, browse the graph, and steer.
 
+## Ingesting
+
+Type **`/ingest`** in Claude Code. That's the whole loop — it works out which pericope is next
+from the book pages' checklists, fetches the book's text if it isn't in `raw/` yet, and does one
+pericope per invocation. `/ingest Genesis 12` or `/ingest John` jumps to a specific spot. On
+reaching a new book it draws that book's pericope breakdown on its own and keeps going, no
+approval step.
+
+The breakdown lands as a checklist under `## Pericopes` on the book page. Unchecked boxes are
+provisional: if you don't like where a boundary falls, edit, split, merge, or reorder them right
+there in Obsidian and the next `/ingest` follows whatever the file says. Checked boxes already
+have passage pages behind them, so changing one means asking the agent to redo that passage.
+
 ## Setup
 
 1. Open this folder as a vault in Obsidian (`Open folder as vault`).
@@ -29,10 +42,12 @@ to lint. It writes; you read, browse the graph, and steer.
 - `wiki/` — everything the agent generates: passages, books, people, places, themes,
   connections, plus `index.md` and `log.md`.
 - `templates/` — one page template per wiki page type.
+- `scripts/fetch-book.sh` — pulls one book's WEB text from bible-api.com into `raw/bible/`.
+- `.claude/skills/ingest/` — the `/ingest` skill.
 - `CLAUDE.md` — the schema the agent follows. Evolves as conventions change.
 - `llm-wiki.md` — the original, domain-agnostic pattern this repo instantiates.
 
 ## Status
 
-Skeleton only — no books ingested yet. Next step: pick a book, get its WEB text into
-`raw/bible/`, and start ingesting pericope by pericope.
+Genesis in progress: 1 of 58 pericopes ingested (Genesis 1:1–2:3). See [`wiki/index.md`](wiki/index.md)
+for live counts and [`wiki/log.md`](wiki/log.md) for the full history.

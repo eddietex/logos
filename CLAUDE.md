@@ -20,7 +20,11 @@ this file is the concrete, load-bearing spec — follow it exactly.
 raw/
   bible/<Book>.md          WEB (World English Bible, public domain) text, one file per book
   assets/                  downloaded images (maps, charts) if any get pulled in later
+scripts/
+  fetch-book.sh            pulls one book's WEB text from bible-api.com into raw/bible/
 templates/                 one template per wiki page type (see below)
+.claude/skills/ingest/     the `/ingest` skill — resolves the next pericope, then runs the
+                           ingest workflow below
 wiki/
   index.md                 top-level dashboard, links out to the five category indexes
   log.md                   append-only chronological record of every operation
@@ -47,7 +51,8 @@ wiki/
 
 Raw Bible text is the **World English Bible (WEB)** — public domain, so it can be stored and
 quoted verbatim anywhere in the wiki without restriction. It is populated into `raw/bible/`
-book-by-book as ingestion reaches that book, not all upfront. If the user is consulting a
+book-by-book as ingestion reaches that book, not all upfront, by
+`scripts/fetch-book.sh "<Book>"` (bible-api.com, `?translation=web`). If the user is consulting a
 different translation (ESV, NIV, etc.) during discussion, you may quote short excerpts of it
 inline in a passage page's notes for comparison, but never store a full copyrighted book/chapter
 in `raw/`.
@@ -88,26 +93,30 @@ the Mount", "Joseph sold into slavery"), not by mechanical chapter breaks. This 
 Bible; it just means variable-sized chunks (some pericopes are a few verses, some span multiple
 chapters) instead of uniform ones. When you first touch a book:
 
-1. Propose a pericope breakdown for the book (or the next unstarted section of it), using
-   natural discourse boundaries — you may lean on section headings already present in most WEB
-   editions as a starting point, but adjust them where a different grouping tells the story
-   better.
-2. Confirm or adjust the breakdown with the user before treating it as final — this only needs
-   doing once per book, not once per pericope.
-3. Proceed through the confirmed pericopes one at a time using the ingest workflow below.
+1. Draw the breakdown for the whole book yourself, using natural discourse boundaries — you may
+   lean on section headings already present in most WEB editions as a starting point, but adjust
+   them where a different grouping tells the story better. This is your call; no sign-off needed.
+2. Record it as the `## Pericopes` checklist on the book page. That checklist is the ingestion
+   queue: the first `- [ ]` box in it is always what gets ingested next, and ingesting a pericope
+   checks its box and points it at the new passage page.
+3. Treat unchecked boxes as provisional — the user revises them in Obsidian whenever they like,
+   and so may you, when the text turns out to divide differently than the plan assumed. Say so in
+   the ingest report when you redraw a boundary. Checked boxes are settled: changing one means
+   revising the passage page that already exists for it.
 
 ## Workflows
 
 ### Ingest (one pericope at a time — stay involved)
 
-1. Read the pericope's text from `raw/bible/<Book>.md` (add the book's WEB text to `raw/` first
-   if it isn't there yet — fetch or ask the user to supply it, book by book, not the whole Bible
-   at once).
+Run by `/ingest`, which resolves the next pericope and gets its text in place before this runs.
+
+1. Read the pericope's text from `raw/bible/<Book>.md` (run `scripts/fetch-book.sh "<Book>"`
+   first if the book isn't there yet — book by book, not the whole Bible at once).
 2. Discuss the passage with the user: what's happening, who/where/what's notable, how it
    connects to what's already in the wiki.
 3. Create the passage page from `templates/passage.md` under `wiki/passages/<Book>/`.
-4. Update the book page (`wiki/books/<Book>.md`) — add the passage to its outline/passage list,
-   revise the book-level overview if this changes it.
+4. Update the book page (`wiki/books/<Book>.md`) — check this pericope's box in `## Pericopes`
+   and link it to the new passage page, and revise the book-level overview if this changes it.
 5. Create or update every person/place/theme page the passage touches — add this passage to
    their "Appears in" / "Key passages" list, and update their synthesis if this passage adds,
    nuances, or contradicts what's already written. **Explicitly flag contradictions** rather
@@ -154,6 +163,7 @@ Append-only, most-recent last, in `wiki/log.md`. Each entry starts with a parsea
 ## [YYYY-MM-DD] ingest | Genesis 1.1-2.3 — The Creation of the World
 ## [YYYY-MM-DD] query | Question text or topic
 ## [YYYY-MM-DD] lint | What was checked
+## [YYYY-MM-DD] schema | A convention in this file that changed, and why
 ```
 
 `grep "^## \[" wiki/log.md | tail -5` gives the last 5 entries.
