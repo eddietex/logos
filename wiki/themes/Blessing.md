@@ -38,6 +38,14 @@ costly.
   daughters"*, generation after generation, is what *be fruitful and multiply* looks like from
   inside. That the same entries end in *"then he died"* is the point — 1:28 and 3:19 running at once,
   neither cancelling the other. See [[From Adam to Noah]].
+- **Genesis 6:1** — and then the blessing becomes the setting for the disaster. *"When men began to
+  multiply on the surface of the ground, and daughters were born to them"* is 1:28 succeeding at
+  scale, in the same verb God commanded, and the sentence turns in its second half into the crossing
+  of 6:2. Genesis is careful about what it does and does not say here: the multiplying is not the
+  fault and is never criticized, and God's response in 6:3 and 6:7 is aimed at wickedness, not at
+  fruitfulness. But the book has now shown the blessing being carried out (Genesis 5) and shown the
+  world it produced being condemned (Genesis 6:5), four verses apart. See
+  [[The Sons of God and the Corruption of the Earth]].
 - To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
   narrowing of blessing to one family and its widening back out to *"all the families of the
   earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
@@ -49,6 +57,8 @@ costly.
 - [[The Fall]] — where the counter-word first appears
 - [[From Adam to Noah]] — the blessing of 1:28 restated at 5:2 and then carried out, ten generations
   deep, under the sentence of 3:19
+- [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
+  working, and the world it fills condemned four verses later
 
 ## Related themes
 
@@ -56,6 +66,7 @@ costly.
 - [[Image of God]]
 - [[Sabbath]]
 - [[Curse]] — the counter-word
+- [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]
 - [[Life and Death]]
 

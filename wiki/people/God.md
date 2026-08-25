@@ -132,6 +132,35 @@ That pairing is the chapter's whole theology of God, delivered without a word fr
 one who can interrupt the sequence of deaths, and he is the one whose sentence on the ground is
 still being felt nine generations later. See [[Walking with God]].
 
+### He grieves, Genesis 6:1–8
+
+The silence breaks, and what comes out of it is unlike anything earlier in the book. In
+[[The Sons of God and the Corruption of the Earth]] God is named **Yahweh** in every verse where he
+acts — 6:3, 5, 6, 7, 8 — and *ʾĕlōhîm* only inside the phrase *"God's sons"*. In six verses he
+speaks twice, sees once, regrets twice, grieves once, and favors once.
+
+The seeing is the hinge, because it is the verb of Genesis 1 turned around. Seven times in the
+creation account *"God saw"* what he had made and it was good; here, *"Yahweh saw that the
+wickedness of man was great in the earth, and that every imagination of the thoughts of man's heart
+was continually only evil"* (6:5). Same inspection, opposite finding.
+
+Then the verse that has no parallel in the book: *"Yahweh was sorry that he had made man on the
+earth, and it grieved him in his heart"* (6:6). This is the only report in Genesis of an emotion
+located in God's *heart*, and it stands one verse after the report on the human heart. Two hearts
+are examined in the paragraph and only one is condemned. The verb *nāḥam* is the root
+[[Lamech (father of Noah)]] used at 5:29 hoping his son would *comfort* the family; the word for
+*grieved* is *ʿāṣab*, the root of the *pain* and *toil* God assigned in Genesis 3:16–17 — so the
+sentence he passed in Eden is described, three chapters later, as what he himself feels. Whether
+this is anthropomorphism, covenantal responsiveness, or divine regret in the plainest sense is the
+oldest live argument about the character of God in Scripture; see [[Divine Grief and Relenting]].
+
+And in the same six verses he does the other thing: *"But Noah found favor in Yahweh's eyes"* (6:8),
+the Bible's first *ḥēn*. Grieving and favoring are two verses apart, and both are statements about
+what is happening in God rather than in the world. Notice, too, what he does *not* do. There is no
+interrogation here — no *"Where are you?"*, no *"What have you done?"*. The judgment pattern of
+Genesis 3 and 4 runs with the questioning removed and only the provision left, and the provision is
+a single name. See [[Judgment]] and [[Favor and Grace]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -145,6 +174,9 @@ still being felt nine generations later. See [[Walking with God]].
   [[The Line of Cain and the Birth of Seth]]
 - Creates, blesses, and names humanity in the register's opening frame, then takes Enoch — the one
   act in ten generations, and his only appearance in the chapter's body — [[From Adam to Noah]]
+- Limits human days, sees the wickedness of the human heart, regrets having made man, resolves to
+  destroy all flesh, and favors one man —
+  [[The Sons of God and the Corruption of the Earth]]
 
 ## Appears in
 
@@ -154,6 +186,8 @@ still being felt nine generations later. See [[Walking with God]].
 - [[Cain and Abel]]
 - [[The Line of Cain and the Birth of Seth]] — by absence for eight verses, then in two
 - [[From Adam to Noah]] — named in the frame, silent throughout, and acting once, at 5:24
+- [[The Sons of God and the Corruption of the Earth]] — the silence broken: seeing, speaking,
+  grieving, sentencing, and favoring, all in six verses
 
 ## Related people
 
@@ -167,12 +201,16 @@ still being felt nine generations later. See [[Walking with God]].
   his name
 - [[Enoch (son of Jared)]] — who *"walked with God"* for three hundred years and was taken rather
   than buried; the only person God acts on in Genesis 5
+- [[The Sons of God]] and [[The Nephilim]] — the beings named in his presence at 6:2–4, whom he
+  neither questions nor sentences
 - [[Noah]] — named in hope of relief from the ground God cursed, and the second man said to walk
   with him
 
 ## Themes associated
 
 - [[Walking with God]]
+- [[Divine Grief and Relenting]]
+- [[Favor and Grace]]
 - [[Creation]]
 - [[Image of God]]
 - [[Blessing]]

@@ -69,6 +69,16 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   to it stated outright will not find it here or in the law; the argument that carries the weight
   is Jesus's in Matthew 19, which goes behind every later concession to 2:24. See
   [[Lamech (son of Methushael)]].
+- **Genesis 6:2** — the second departure, and the more radical one. *"God's sons saw that men's
+  daughters were beautiful, and they took any that they wanted for themselves as wives."* The
+  vocabulary is marriage's — *took … for themselves as wives*, the same idiom as 4:19 — and it
+  violates 2:24 in every particular the institution rested on: not one flesh but *"all whom they
+  chose"*, not a man leaving his father and mother but a stronger party taking, and across a
+  boundary rather than within a kind, whoever the sons of God turn out to be. The verse is also
+  built out of Genesis 3:6 — *saw*, judged *good*, *took* — which is the narrator's way of saying
+  what kind of act it is without pronouncing on it. As at 4:19, Genesis reports and does not
+  editorialize; unlike 4:19, the flood follows in five verses. See
+  [[The Sons of God and the Corruption of the Earth]].
 - **Matthew 19:4–6 / Mark 10:6–8** — Jesus answers a question about divorce by quoting Genesis
   1:27 *and* 2:24 together, and draws the conclusion the verses do not state: *"What therefore God
   has joined together, don't let man tear apart."*
@@ -84,6 +94,8 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
 - [[The Fall]] — the union fractured, and 3:16
+- [[The Sons of God and the Corruption of the Earth]] — taking *"any that they wanted"*, in the
+  grammar of Genesis 3:6
 - [[The Line of Cain and the Birth of Seth]] — the first departure from one flesh, reported without
   comment
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
@@ -103,3 +115,5 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 - [[Eve]]
 - [[God]]
 - [[Lamech (son of Methushael)]] — the first polygamist
+- [[The Sons of God]] — who take wives *"any that they wanted"*, in the last crossing before the
+  flood

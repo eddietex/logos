@@ -78,8 +78,21 @@ has been argued.
   4:8 is not the act but the attitude — Cain killed and hid, and his descendant kills and makes a
   poem of it. Genesis shows the condition spreading before it has any vocabulary for it. See
   [[Vengeance]].
-- **Genesis 6:5, 8:21** *(not yet ingested)* — the verdict on the human heart before and after the
-  flood, which does not change.
+- **Genesis 6:5** — the verdict, and the theme's turn from acts to the interior. *"Yahweh saw that
+  the wickedness of man was great in the earth, and that every imagination of the thoughts of man's
+  heart was continually only evil."* Three universalizing words in one clause — **every**,
+  **continually**, **only** — and the noun is *yēṣer*, from *yāṣar*, the potter's verb used of God
+  forming the man from dust at 2:7: the *shaping* or bent of the mind. Two large traditions start
+  here. In rabbinic thought the *yēṣer hārāʿ*, the evil inclination, becomes a full anthropology,
+  paired with a good inclination and understood as an impulse to be mastered — which is 4:7's
+  *"you are to rule over it"* systematized. In Christian theology the verse is a principal support
+  for original sin and total depravity. What it asserts is the universality, the interiority, and
+  the constancy of evil in that generation; what it does not assert is a mechanism of transmission,
+  which is Romans 5:12's contribution and not this verse's. See
+  [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 8:21** *(not yet ingested)* — the same verdict after the flood, almost word for word,
+  and drawn on for the opposite conclusion: because the human heart is evil from youth, God will
+  *not* strike the earth again. The fact does not change; what is done about it does.
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
   4–5, 16); *"Behold, I was born in iniquity"* (Psalm 51:5); the prophets on sin as covenant
   breach rather than ritual failure; Romans 3:23, 5:12–21, 7; James 1:14–15 on desire conceiving
@@ -91,6 +104,8 @@ has been argued.
 - [[Cain and Abel]] — the word's first appearance, crouching at a door, and the first murder
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted about rather than hidden,
   and the first passage God is absent from
+- [[The Sons of God and the Corruption of the Earth]] — the diagnosis: not an act but the
+  imagination of the heart, every one of them, continually, only evil
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 
 ## Related themes
@@ -101,6 +116,8 @@ has been argued.
 - [[Image of God]] — the likeness grasped at, over the likeness already given
 - [[Sacrifice and Offering]] — the refused gift that 4:7's warning is spoken over
 - [[Vengeance]] — what the second killing in Scripture is defended with
+- [[Divine Grief and Relenting]] — what the verdict of 6:5 costs the one who reaches it
+- [[Favor and Grace]] — the exception that follows the verdict without qualifying it
 
 ## Related people
 
@@ -109,4 +126,6 @@ has been argued.
 - [[The Serpent]]
 - [[Cain]]
 - [[Lamech (son of Methushael)]]
+- [[The Sons of God]]
+- [[Noah]]
 - [[God]]

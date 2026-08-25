@@ -55,6 +55,11 @@ in a link.
 ## Appears in
 
 - [[From Adam to Noah]]
+- [[The Sons of God and the Corruption of the Earth]] — not by name, but by his vocabulary. The verb
+  he used at 5:29 hoping his son would *comfort* the family (*nāḥam*) is the verb Genesis 6:6 uses
+  of God four verses later, in its other sense: *"Yahweh was sorry that he had made man on the
+  earth."* Lamech's is the only human hope voiced between Eden and the flood, and the next thing the
+  book does with his word is turn it into divine regret. See [[Divine Grief and Relenting]].
 
 ## Related people
 
@@ -72,3 +77,4 @@ in a link.
 - [[Work]]
 - [[Life and Death]]
 - [[Blessing]]
+- [[Divine Grief and Relenting]]

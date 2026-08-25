@@ -591,3 +591,93 @@ and Luke 3:36–38 in the New Testament.
 All thirteen verses quoted on the passage page were checked mechanically against
 `raw/bible/Genesis.md` and match it verbatim, and every figure in the chronology table was recomputed
 from the raw verses.
+
+## [2026-08-25] ingest | Genesis 6.1-8 — The Sons of God and the Corruption of the Earth
+
+Seventh pericope of Genesis, run unattended. Boundary held as planned. 6:1's *"when men began to
+multiply"* opens the unit, and 6:8's *"But Noah found favor in Yahweh's eyes"* closes it one verse
+before the *toledot* heading at 6:9 starts the next box — which is the cleanest seam in the chapter
+and the one the traditional section divisions and the source critics both agree on, for different
+reasons.
+
+Created:
+- `wiki/passages/Genesis/The Sons of God and the Corruption of the Earth.md`
+- `wiki/people/The Sons of God.md`, `The Nephilim.md`
+- `wiki/themes/Favor and Grace.md`, `Divine Grief and Relenting.md`
+- `wiki/connections/The Sons of God and the Angels That Sinned.md`
+- `wiki/connections/The Nephilim and the Giants of Canaan.md`
+- `wiki/connections/As It Was in the Days of Noah.md`
+
+Updated: `wiki/people/Noah.md` (6:8 as the Bible's first *ḥēn*, the *nōaḥ*/*ḥēn* consonantal play,
+and the point that favor is recorded before any statement of his character), `God.md` (new "He
+grieves" section — the seeing-verb of Genesis 1 turned around, the two hearts examined in one
+paragraph, and the judgment pattern running with the interrogation removed), `Adam.md` (*ʾādām* in
+6:1–7 swinging back from the individual to the species, six verses after Genesis 5 closed it onto
+one man), `Lamech (father of Noah).md` (his *nāḥam* at 5:29 reused of God at 6:6 in its other
+sense), `wiki/themes/Sin.md` (6:5, *yēṣer*, and what the verse does and does not assert about
+transmission), `Judgment.md` (the template with the questioning removed), `Life and Death.md` (6:3's
+limit, and 6:7 widening the sentence from persons to all flesh), `Blessing.md` (6:1 as 1:28
+succeeding, and the care needed not to make the multiplying the fault), `Marriage.md` (6:2 as the
+second departure from 2:24, in the grammar of 3:6), `Creation.md` (6:5–7 as un-creation),
+`wiki/passages/Genesis/From Adam to Noah.md` and `The Line of Cain and the Birth of Seth.md` (their
+forward references to Genesis 6:1–8 are now links), the Genesis book page and
+`wiki/books/index.md` (7 / 58), `wiki/people/index.md`, `themes/index.md`, `connections/index.md`,
+and `wiki/index.md` counts (7 passages · 22 people · 3 places · 16 themes · 18 connections).
+
+Judgment calls made unattended, for review:
+- **`The Sons of God` and `The Nephilim` were given person pages**, on the precedent of
+  `The Serpent` — collective or non-human entities whose identity the text withholds and later
+  Scripture argues about. The alternative was to keep both entirely inside the passage's Notes, but
+  each recurs outside Genesis (Job 1:6, 2:1, 38:7; Numbers 13:33) and each has a reception history
+  that will be linked to repeatedly. If they read as over-splitting, they merge back cleanly.
+- **The identity of the sons of God is left unresolved, deliberately, in all three places it comes
+  up.** The passage page, the person page, and the connection page each give the three readings —
+  divine beings, the Sethite line, dynastic kings — with the strongest argument and the hardest
+  problem for each, and none of them picks a winner. Recorded here because a reader may expect the
+  wiki to have a house position and it does not: the lexical evidence favours one reading, the
+  narrative context favours another, and the description of the offspring favours the third.
+- **The angelic reading is stated to be the older one.** This cuts against the majority view in most
+  conservative commentary, so the basis is given explicitly on the connection page: every surviving
+  pre-Christian Jewish treatment takes it that way, as do the earliest church fathers, and the
+  Sethite reading is first attested in Julius Africanus and becomes standard only through Augustine.
+  That is a claim about attestation dates, not about which reading is correct, and the page says so.
+- **`Divine Grief and Relenting` was created as a theme rather than folded into `Judgment`.** The
+  *nāḥam* problem — Genesis 6:6 against Numbers 23:19 and 1 Samuel 15:29, with 1 Samuel 15 holding
+  both sides — recurs across Exodus 32, Jeremiah 18, Jonah, Joel, Amos, and Hosea 11, and needed
+  somewhere to accumulate. All four approaches (anthropomorphism, the announced-intention
+  distinction, relational responsiveness, open theism) are given with what each costs; the wiki does
+  not adopt one.
+- **`Favor and Grace` was created rather than treated under `Blessing`.** *Ḥēn* first occurs at 6:8
+  and becomes *charis*; blessing and favor behave differently enough — one comes with a command
+  attached, the other with nothing — that merging them would have flattened both.
+- **The 6:8 / 6:9 question is left open on every page that touches it.** Whether Noah is spared
+  because he was righteous or described as righteous because he was spared is not decided; the
+  narrative order (favor first, character reference second, with a section heading between them) is
+  reported and the two readings of that order are given. Hebrews 11:7 is noted as the New Testament
+  resolving it in one direction.
+- **The hundred and twenty years of 6:3 is not decided either** — cap on lifespan or countdown to
+  the flood — with the arithmetic problem for the countdown reading (5:32 plus 7:6 yields 100, not
+  120) stated alongside the Noah-lives-950 problem for the cap reading.
+- **The source-critical seam at 6:8/6:9 is noted on the passage page**, because the abrupt heading,
+  the second introduction of Noah, and the shift in divine name are features any reader notices and
+  it is better to name the standard explanation than to leave the reader puzzling. The wiki takes no
+  position on the documentary hypothesis, and the note says so.
+- **Numbers 13:33 is flagged as coming from unreliable narrators.** The connection page points out
+  that the Bible's only bridge between Genesis 6:4 and the giants of Canaan is a clause inside the
+  *"evil report"* the next chapter condemns, and that Caleb and Joshua say nothing about Nephilim.
+  This is a real observation about the text, not a dismissal of the identification, and the page is
+  careful to keep the separate and better-attested Anakim/Rephaim tradition distinct from it.
+- **No place page was created.** Genesis 6:1–8 names no location — only *"the surface of the
+  ground"* and *"the earth"* — which is now the second consecutive pericope with no geography, and
+  the passage page treats that as a change of scale rather than an omission.
+
+Deliberately left for later pericopes, all as plain-text references so nothing dangles: Noah's
+righteousness and *"walked with God"* at 6:9, the ark and the flood (6:9–8:22), God's promise and
+the restated verdict at 8:21, Babel's *"let's make ourselves a name"* at 11:1–9, Numbers 13:33 and
+the conquest giants, the Job and Deuteronomy 32:8 occurrences of *sons of God*, the 1 Samuel 15 and
+Numbers 23:19 counter-texts, and Matthew 24, Jude, and 1–2 Peter in the New Testament.
+
+`scripts/link-check.sh` clean, exit 0, against the documented baseline of 65 not-yet-started book
+pages. All eight verses quoted on the passage page were checked mechanically against
+`raw/bible/Genesis.md` — each one reassembled from the page's block quotes and compared character
+for character — and every one matches verbatim.

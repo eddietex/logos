@@ -46,7 +46,7 @@ merge, or reorder them freely.
 - [x] [[Cain and Abel]] — Genesis 4:1–16
 - [x] [[The Line of Cain and the Birth of Seth]] — Genesis 4:17–26
 - [x] [[From Adam to Noah]] — Genesis 5:1–32
-- [ ] The Sons of God and the Corruption of the Earth — Genesis 6:1–8
+- [x] [[The Sons of God and the Corruption of the Earth]] — Genesis 6:1–8
 - [ ] Noah and the Flood — Genesis 6:9–7:24
 - [ ] The Waters Recede — Genesis 8:1–22
 - [ ] The Covenant with Noah — Genesis 9:1–17

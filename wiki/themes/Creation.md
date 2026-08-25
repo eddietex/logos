@@ -42,6 +42,16 @@ Genesis 1 sets four load-bearing claims:
   man, he made him in God's likeness. He created them male and female, and blessed them."* Creation
   becomes a *heading* — the thing every later generation is filed under — and the effect is to put
   the image and the blessing over a chapter otherwise made of deaths. See [[From Adam to Noah]].
+- **Genesis 6:5–7** — creation quoted in order to be reversed. The verb of 6:5 is the verb of
+  Genesis 1: seven times God *saw* what he had made and it was good, and here *"Yahweh saw that the
+  wickedness of man was great in the earth"* — the same inspection, the opposite finding, set
+  against 1:31's *"very good"*. Then the sentence lists what is to go: *"man, along with animals,
+  creeping things, and birds of the sky"* — the populations of days six and five, named for erasure
+  in something close to the order of their making, run backwards. The flood account will finish the
+  reversal by reopening the waters that day two separated (7:11) and then redo it, with a *rûaḥ*
+  passing over the waters and dry land reappearing (8:1–2). This is Genesis's strongest statement
+  that the created order is not self-sustaining but held: what was spoken into being can be spoken
+  out of it. See [[The Sons of God and the Corruption of the Earth]].
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -51,6 +61,8 @@ Genesis 1 sets four load-bearing claims:
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[From Adam to Noah]] — 5:1–2, Genesis 1 quoted back as the frame for a genealogy
+- [[The Sons of God and the Corruption of the Earth]] — 6:5–7, Genesis 1 quoted back in order to be
+  undone
 
 ## Related themes
 
@@ -59,9 +71,11 @@ Genesis 1 sets four load-bearing claims:
 - [[Sabbath]]
 - [[Work]]
 - [[Life and Death]]
+- [[Judgment]] — which in Genesis takes the form of creation reversed
 
 ## Related people
 
 - [[God]]
 - [[Adam]]
 - [[Eve]]
+- [[Noah]]

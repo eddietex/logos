@@ -239,8 +239,9 @@ consequences of the fall, and here time takes over the job.
 - [[The Creation of the World]] — Genesis 1:26–28, which 5:1–2 quotes almost word for word.
 - [[The Fall]] — Genesis 3:17–19, the curse on the ground and *"you will return to the ground"*.
   Genesis 5 is that verse's receipt.
-- Genesis 6:1–8 — the next pericope: *"his days will be one hundred twenty years"*, immediately
-  after a chapter of nine-hundred-year lives.
+- [[The Sons of God and the Corruption of the Earth]] — the next pericope: *"his days will be one
+  hundred twenty years"*, immediately after a chapter of nine-hundred-year lives, and the *ḥēn* of
+  6:8 picking up the entry 5:32 left open.
 - Genesis 6:9 — *"Noah walked with God"*, the phrase of 5:22 and 5:24 given to a second man.
 - Genesis 7:11; 9:28–29 — the flood in Noah's six hundredth year, and his death at 950, which
   closes the entry Genesis 5:32 left open.

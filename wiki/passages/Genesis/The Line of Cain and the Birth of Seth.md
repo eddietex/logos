@@ -180,8 +180,10 @@ bearing — the story has finally travelled far enough east that it has stopped 
   of 4:25, and the line of promise restarted after its first candidate murdered its second.
 - [[From Adam to Noah]] — Genesis 5:1–32, the next pericope: the Sethite genealogy told again,
   formally, with ages and deaths, and with Enoch and Lamech reappearing as different men.
-- Genesis 6:1–8; 7:21–23 — where Cain's line ends. Genesis never says so, but nothing in it is
-  traced past the flood.
+- [[The Sons of God and the Corruption of the Earth]] — Genesis 6:1–8, whose verdict on *"the
+  wickedness of man"* is the summary of the escalation this chapter narrates, and which supplies the
+  *"daughters of men"* on the reading that takes 6:2 as Sethites marrying Cainites. With 7:21–23 it
+  is also where Cain's line ends: Genesis never says so, but nothing in it is traced past the flood.
 - Genesis 12:8; 13:4; 21:33; 26:25 — Abram and Isaac *"calling on Yahweh's name"*, the phrase of
   4:26 becoming patriarchal practice.
 - Exodus 6:2–3 — *"by my name Yahweh I was not known to them"*, which sits awkwardly against 4:26

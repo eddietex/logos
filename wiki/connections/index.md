@@ -19,3 +19,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
+| [[The Sons of God and the Angels That Sinned]] | thread | Genesis 6:1–4 · Job 1:6 · Deuteronomy 32:8 · *1 Enoch* 6–16 · Jude 6 · 2 Peter 2:4 · Matthew 22:30 |
+| [[The Nephilim and the Giants of Canaan]] | thread | Genesis 6:4 · Numbers 13:31–33 · Deuteronomy 2:10–11, 3:11 · Joshua 11:21–22 · 1 Samuel 17:4–7 · 2 Samuel 21:15–22 |
+| [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |

@@ -69,9 +69,18 @@ rule are the conditions the rest of Scripture is set in.
   just run the full sequence twice. Genesis is establishing that judgment is not automatic and not
   immediate — which is the premise the flood account will need, and the premise Abraham argues from
   at 18:25.
-- **Genesis 6–9; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood, Babel, and Sodom, each
-  with God "going down to see" before acting, and Abraham's *"Shall not the Judge of all the earth
-  do right?"* (18:25) putting the question the theme keeps raising.
+- **Genesis 6:5–8** — the template with the questioning removed. God *sees* (6:5) and *resolves*
+  (6:7), and between them he grieves; nobody is summoned, nobody is asked, nobody answers, nobody
+  protests. Genesis 3 and 4 both gave the accused a hearing, and Genesis 4:17–24 withheld the whole
+  sequence; this is the first judgment in Scripture that is announced rather than conducted, and the
+  reason is stated in the verdict itself — the fault is not an act to be examined but the
+  *imagination of the heart*, and there is nothing to establish. What survives of the pattern is the
+  provision, and it comes as a single name in the last four words: *"But Noah found favor in
+  Yahweh's eyes."* The ark is specified nine verses later, in the same speech that announces the end
+  of all flesh. See [[The Sons of God and the Corruption of the Earth]] and [[Favor and Grace]].
+- **Genesis 6:9–9:17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood carried out, Babel, and
+  Sodom, each with God "going down to see" before acting, and Abraham's *"Shall not the Judge of all
+  the earth do right?"* (18:25) putting the question the theme keeps raising.
 - Strands to trace as ingestion reaches them: the plagues and the exodus as judgment on Egypt's
   gods; the covenant lawsuit form in the prophets (Micah 6:1–8, Isaiah 1:2–20); the day of Yahweh
   (Amos 5:18–20, Joel 2, Zephaniah 1); exile as judgment and return as its limit; Jesus on
@@ -85,6 +94,9 @@ rule are the conditions the rest of Scripture is set in.
   protective sign at the end
 - [[The Line of Cain and the Birth of Seth]] — the template withheld: eight verses of escalation
   with no divine response
+- [[The Sons of God and the Corruption of the Earth]] — the template stripped to its ends: a verdict
+  and a sentence with no interrogation between them, and the provision named before the flood is
+  described
 
 ## Related themes
 
@@ -94,6 +106,9 @@ rule are the conditions the rest of Scripture is set in.
 - [[Blessing]] — the counter-word, and what survives the judgment
 - [[Sacrifice and Offering]] — what the second judgment scene begins from
 - [[Vengeance]] — the human substitute for it, when it does not come
+- [[Divine Grief and Relenting]] — what judgment costs the one who pronounces it, and the ground on
+  which it is sometimes withdrawn
+- [[Favor and Grace]] — the provision, in the form it takes at 6:8
 
 ## Related people
 
@@ -103,3 +118,4 @@ rule are the conditions the rest of Scripture is set in.
 - [[The Serpent]]
 - [[Cain]]
 - [[Abel]]
+- [[Noah]]

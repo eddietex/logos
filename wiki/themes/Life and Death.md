@@ -77,8 +77,16 @@ the rest of the canon.
   taken instead (5:24) and Noah's entry left unclosed (5:32). Also the chapter's other quiet
   argument: 5:1–2 puts the whole register under the blessing of 1:28, so the *"other sons and
   daughters"* of each entry are life continuing under sentence, not in spite of it.
-- **Genesis 6:3** *(not yet ingested)* — *"his days will be one hundred twenty years"*, three verses
-  after the chapter of nine-hundred-year lives.
+- **Genesis 6:3** — *"My Spirit will not strive with man forever, because he also is flesh; so his
+  days will be one hundred twenty years"*, three verses after the chapter of nine-hundred-year
+  lives. The first numerical limit set on human life, and the first time being **flesh** (*bāśār*,
+  the frailty word) is given as the ground of a divine decision. Whether the number is a new cap on
+  lifespan or a countdown to the flood is disputed, and the arguments are on the passage page.
+- **Genesis 6:7** — the sentence extended past individuals to *"man, along with animals, creeping
+  things, and birds of the sky"* — the creatures of days five and six, listed for erasure in
+  something close to the reverse of the order they were made in. Death moves here from a penalty
+  borne by persons to the undoing of a world. See
+  [[The Sons of God and the Corruption of the Earth]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -94,6 +102,8 @@ the rest of the canon.
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted of; and a birth named for
   the brother it replaces
 - [[From Adam to Noah]] — *"then he died"*, eight times, and the two entries that do not say it
+- [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
+  widened from persons to all flesh
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is
   taken instead of buried, and what the New Testament makes of him
 - [[Cain and Abel in the New Testament]] — Abel *"being dead, still speaks"*, and the blood that

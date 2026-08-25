@@ -71,6 +71,13 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   first three verses hold both senses of his name at once: 5:2 calls the male-and-female pair
   *ʾādām*, and 5:3 uses the same word of one man who lived 930 years. The transition begun at 3:17
   and continued at 4:25 finishes here.
+- [[The Sons of God and the Corruption of the Earth]] — and then the word swings back. Genesis 6:1,
+  3, 5, 6, and 7 all use *ʾādām*, and every one of them means humanity collectively: it is *man* who
+  multiplies, *man* whose days are numbered at a hundred and twenty, *man* whose heart is
+  continually evil, and *man* whom God is sorry to have made. Six verses after the register closed
+  the name onto one individual, the species is on trial under it again — which is the ambiguity
+  Romans 5:12 will build its argument out of, and the reason English translations of Genesis have to
+  keep choosing between *Adam* and *man* with no help from the Hebrew.
 
 ## Related people
 
