@@ -41,7 +41,7 @@ merge, or reorder them freely.
 ### Primeval history (1–11)
 
 - [x] [[The Creation of the World]] — Genesis 1:1–2:3
-- [ ] The Garden of Eden — Genesis 2:4–25
+- [x] [[The Garden of Eden]] — Genesis 2:4–25
 - [ ] The Fall — Genesis 3:1–24
 - [ ] Cain and Abel — Genesis 4:1–16
 - [ ] The Line of Cain and the Birth of Seth — Genesis 4:17–26

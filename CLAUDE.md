@@ -62,8 +62,23 @@ in `raw/`.
 - **Passage pages are named by title alone** — `The Raising of Lazarus.md`, not
   `John 11.1-44 - The Raising of Lazarus.md`. The folder (`wiki/passages/<Book>/`) supplies the
   book and the `ref:` frontmatter supplies the verses, so the filename carries neither, and links
-  read as prose: `[[The Raising of Lazarus]]`. Pipe a display form where the location matters in
-  running text: `[[The Binding of Isaac|Genesis 22]]`.
+  read as prose: `[[The Raising of Lazarus]]`.
+- **A link's visible text is the page title.** Do not pipe a scripture reference over it —
+  `[[The Binding of Isaac|Genesis 22]]` tells the reader where the passage is but not where the
+  link goes, and the title is the more useful of the two because it says what they will find. When
+  the reference also matters in that sentence, give it in the prose beside the link rather than in
+  place of it:
+
+  ```
+  bad:   Where [[The Creation of the World|Genesis 1]] moved across six days …
+  good:  Where [[The Creation of the World]] moved across six days …
+  good:  … reaches back to the seventh day of [[The Creation of the World]], Genesis 2:2–3.
+  ```
+
+  The passage page's `ref:` frontmatter and `**Reference:**` line always carry the verses, so a
+  reader who follows the link lands on them immediately. Piping is still correct where the target
+  filename is genuinely not the words you want on the page — the path-style category links in
+  `wiki/index.md` (`[[people/index|People]]`) are the standing example.
 - **On a title collision between books, qualify both pages with the book** — the Gospels and
   Kings/Chronicles will do this often. `The Transfiguration (Matthew).md`,
   `The Transfiguration (Mark).md`. A collision only surfaces when the second book arrives, so
@@ -75,6 +90,23 @@ in `raw/`.
   `wiki/people/David.md`, `wiki/themes/Covenant.md`.
 - Always link with Obsidian wikilinks (`[[Page Name]]`), never raw markdown links, so the graph
   view and backlinks stay meaningful.
+- **A wikilink must never be split across a line break.** Obsidian only parses `[[...]]` when the
+  whole link — brackets, target, pipe, and display text — sits on one line; a link broken by the
+  ~100-column wrap used throughout the wiki renders as literal `[[` text and silently disappears
+  from the graph and from backlinks. When a link would straddle the wrap, break the line *before*
+  the `[[` and let that line run short:
+
+  ```
+  bad:   Where [[The Creation of the World|Genesis
+         1]] moved across six days …
+
+  good:  Where
+         [[The Creation of the World|Genesis 1]] moved across six days …
+  ```
+
+  This is the one case where the wrap width yields. Long link targets in prose make it easy to hit
+  and easy to miss, because the result is not a broken link — it is not a link at all, so nothing
+  that searches for `[[...]]` will ever report it.
 - If a name collides (e.g. two people named "James"), disambiguate in the filename:
   `James (son of Zebedee).md`, `James (son of Alphaeus).md`, `James (brother of Jesus).md`.
 
@@ -162,7 +194,56 @@ Check for and report:
   `[[Title]]` link silently resolves to just one of them.
 - Missing cross-references (parallel Gospel accounts, OT quotes in the NT) not yet captured as
   connection pages.
+- Wikilinks broken by a line wrap, and wikilinks pointing at pages that do not exist. Both are
+  mechanical; run the two checks in `## Link checks` below rather than eyeballing them.
+
 Log a `lint` entry in `wiki/log.md` summarizing what was found and fixed.
+
+## Link checks
+
+Run both after any pass that writes wiki pages — the end of every ingest, and every lint. They
+are fast and they catch the two link failures that reading the page will not.
+
+**1. Wrapped links** — a `[[` and its `]]` on different lines. Any output is a bug:
+
+```bash
+find wiki -name "*.md" -print0 | xargs -0 awk '
+  FNR==1 { fence=0 }
+  /^[[:space:]]*```/ { fence=!fence; next }
+  !fence { l=$0; gsub(/`[^`]*`/,"",l);
+           if (gsub(/\[\[/,"",l) != gsub(/\]\]/,"",l)) print FILENAME":"FNR }'
+```
+
+It skips fenced code blocks and inline code spans, because `wiki/log.md` quotes broken links as
+examples whenever it records a link problem, and those must not register as findings.
+
+**2. Dangling targets** — links whose page does not exist:
+
+```bash
+find wiki -name "*.md" -print0 | xargs -0 awk '
+  FNR==1 { fence=0 }
+  /^[[:space:]]*```/ { fence=!fence; next }
+  !fence { l=$0; gsub(/`[^`]*`/,"",l)
+           while (match(l, /\[\[[^]]*\]\]/)) {
+             t=substr(l,RSTART+2,RLENGTH-4); sub(/\|.*/,"",t); sub(/#.*/,"",t); print t
+             l=substr(l,RSTART+RLENGTH) } }' \
+  | sort -u | while read -r l; do
+      [ -f "wiki/$l.md" ] || [ -n "$(find wiki -name "$l.md")" ] || echo "DANGLING: $l"
+    done
+```
+
+It skips code the same way check 1 does, and for the same reason. The two existence tests match
+Obsidian's two link forms: `wiki/$l.md` catches a path-style link written from the vault root
+(`[[books/index|Books]]`), and the `find` catches the ordinary shortest-path link (`[[David]]`). A
+link needs only one of them to resolve.
+
+Check 2's expected baseline is exactly the not-yet-started book pages linked from
+`wiki/books/index.md` — 65 of them at present, shrinking by one per book completed. Anything else
+is either a typo to fix or a link deliberately left for a later pericope, which belongs in the
+ingest's log entry.
+
+Note that check 2 cannot find what check 1 finds: a wrapped link is not a malformed link, it is
+not a link at all, so nothing that searches for `[[...]]` will ever see it. Run both.
 
 ## Log format
 

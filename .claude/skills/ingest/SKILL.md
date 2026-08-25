@@ -54,8 +54,12 @@ Read the pericope's verses from `raw/bible/<Book>.md`, then work the numbered in
 Done means every one of these is true:
 
 - The passage page exists at `wiki/passages/<Book>/<Title>.md` — title alone, no reference in the
-  filename — and every wikilink in it resolves to a page that exists, or is one you deliberately
-  left for a later pericope.
+  filename.
+- **Both link checks in `CLAUDE.md` § Link checks have been run and are clean** — every wikilink
+  is intact (none split across a line wrap) and resolves to a page that exists, apart from the
+  known baseline and any link you deliberately left for a later pericope. Run the commands; do not
+  substitute reading the pages, and do not skip the wrapped-link check on the grounds that the
+  dangling-link check came back clean. It cannot see wrapped links.
 - No other book already has a passage page by that title. One that does means both pages take the
   `<Title> (<Book>).md` form, the existing one renamed and its inbound links fixed in this pass.
 - Every person, place, theme, and connection the pericope touches has a page that names this

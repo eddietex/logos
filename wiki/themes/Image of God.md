@@ -30,6 +30,11 @@ dominion given in 1:28, not a reward for exercising it.
 ## Development across Scripture
 
 - **Genesis 1:26–28** — the image granted, tied to dominion and to male-and-female.
+- **Genesis 2:19–20** — the vocabulary is absent, but the *functional* reading gets its first
+  demonstration: God brings the animals to the man *"to see what he would call them"*, and
+  whatever he calls them is their name. Dominion looks like naming — knowing and ordering — and
+  God defers to the result. The *relational* reading gets its counterpart in 2:18–24, where
+  aloneness is the one thing in creation called "not good".
 - To trace as ingestion reaches them: Genesis 5:1–3 (Adam fathers a son "in his own likeness,
   after his image" — the image passes down), Genesis 9:6 (the image as the reason murder is
   capital), Psalm 8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's
@@ -39,12 +44,17 @@ dominion given in 1:28, not a reward for exercising it.
 ## Key passages
 
 - [[The Creation of the World]]
+- [[The Garden of Eden]] — the naming of the animals, and the "not good" of aloneness
 
 ## Related themes
 
 - [[Creation]]
 - [[Blessing]]
+- [[Work]]
+- [[Marriage]]
 
 ## Related people
 
 - [[God]]
+- [[Adam]]
+- [[Eve]]

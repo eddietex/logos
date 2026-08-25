@@ -81,8 +81,9 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
   words and reads the creative speech of Genesis 1 as a person.
 - [[Creation as the Ground of the Sabbath Command]] — Exodus 20:8–11 grounds the fourth
   commandment directly in Genesis 2:2–3.
-- Genesis 2:4–25 — the second creation account, which zooms from the cosmos to a garden and a
-  single man; see the [[Creation]] page for how the two relate.
+- [[The Garden of Eden]] — Genesis 2:4–25, the second creation account, which zooms from the
+  cosmos to a garden and a single man; see
+  [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 - Psalm 8 — a poetic restatement of 1:26–28: humanity crowned with glory and given dominion.
 - Psalm 104 — creation praise following roughly the same sequence of days.
 - Colossians 1:16, Hebrews 1:2 — creation *through* the Son.

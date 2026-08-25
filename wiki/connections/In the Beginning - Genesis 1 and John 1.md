@@ -39,5 +39,15 @@ having started where Genesis starts, John will go on to a new birth (3:3), a new
 first day of the week (20:1), and — in 20:22 — a breathing on the disciples that echoes the
 breath of Genesis 2:7.
 
-Revisit this page when John 1 is ingested, and again for Genesis 2:4–25 (the breath) and
-Genesis 3 (the darkness that follows the light).
+**Update, Genesis 2:4–25 ingested.** The breath link now has a page behind it:
+[[The Garden of Eden]] has God breathing into the man's nostrils so that dust becomes a living
+being (2:7). In John 20:22 the risen Jesus *"breathed on them, and said to them, 'Receive the Holy
+Spirit!'"* — the only other place in the Greek Bible using the verb the Septuagint chose for
+Genesis 2:7 (*enephysēsen*). John frames resurrection morning as a new creation, and the giving of
+the Spirit as the breath of Genesis 2 given again. That the scene falls on *"the first day of the
+week"* (20:1) makes the same point structurally. Compare
+[[Two Creation Accounts - Genesis 1 and Genesis 2]]: John reaches back to both openings of
+Genesis, chapter 1 at his own opening and chapter 2 at his close.
+
+Revisit this page when John 1 and John 20 are ingested, and again for Genesis 3 (the darkness that
+follows the light).

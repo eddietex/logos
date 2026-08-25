@@ -44,6 +44,7 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 - [[Creation]]
 - [[Blessing]]
+- [[Work]] — the labour that Sabbath rests from, commissioned in Genesis 2:15
 
 ## Related people
 
