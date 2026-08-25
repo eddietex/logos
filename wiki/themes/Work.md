@@ -34,6 +34,14 @@ the seventh day a blessing. See [[Sabbath]].
   on his labour. The commission of 2:15 is never withdrawn — he is sent out *"to till the ground
   from which he was taken"* (3:23), which is the same job in a harder field. What is new is
   resistance, and an end: the ground he works will take him back.
+- **Genesis 4:2–5, 4:11–12** — two trades, honestly held: *"Abel was a keeper of sheep, but Cain
+  was a tiller of the ground."* Both continue Eden's vocabulary — Cain works his father's cursed
+  soil, and Abel *keeps* (the sense of 2:15) a flock — and both bring God the produce of their
+  labour, which is the first time in Scripture work turns into worship. Then the curse takes its
+  next step: *"when you till the ground, it won't yield its strength to you"* (4:12). Where 3:17–19
+  made the ground resist, 4:12 makes it refuse, and the sentence ends a vocation rather than
+  burdening one. The farmer becomes a wanderer, and the theme acquires its first case of work
+  taken away.
 - Strands to trace as ingestion reaches them: the sabbath and jubilee legislation that limits
   work and protects workers (Exodus 20:9–10, Leviticus 25); the craftsmen of the tabernacle filled
   with the Spirit for their skill (Exodus 31:1–11); Ecclesiastes on the vanity and the gift of
@@ -47,6 +55,8 @@ the seventh day a blessing. See [[Sabbath]].
   of the animals
 - [[The Creation of the World]] — God's own six days of work, and the mandate of 1:28
 - [[The Fall]] — the ground cursed, and the commission continued outside the garden
+- [[Cain and Abel]] — the first two trades, the first offerings made out of them, and the first
+  time a livelihood is taken away
 
 ## Related themes
 
@@ -54,8 +64,11 @@ the seventh day a blessing. See [[Sabbath]].
 - [[Creation]]
 - [[Image of God]] — the ground of the dominion that work exercises
 - [[Curse]] — what falls on the ground the work is done in
+- [[Sacrifice and Offering]] — where the produce of work is brought back to God
 
 ## Related people
 
 - [[God]]
 - [[Adam]]
+- [[Cain]]
+- [[Abel]]

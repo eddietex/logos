@@ -54,7 +54,9 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 - **Genesis 2:18–25** — the institution: the not-good of aloneness, the counterpart, one flesh.
 - **Genesis 3:16** — the relation distorted: desire and rule. *Tešûqâ* ("desire") recurs in 4:7 of
   sin crouching at Cain's door, *"its desire is for you, but you are to rule over it"*, which is
-  the main reason many read 3:16 as mutual contest rather than longing.
+  the main reason many read 3:16 as mutual contest rather than longing. The parallel is now set
+  out in full, with the third occurrence that cuts against it, on
+  [[Desire and Rule - Genesis 3.16 and 4.7]].
 - **Matthew 19:4–6 / Mark 10:6–8** — Jesus answers a question about divorce by quoting Genesis
   1:27 *and* 2:24 together, and draws the conclusion the verses do not state: *"What therefore God
   has joined together, don't let man tear apart."*

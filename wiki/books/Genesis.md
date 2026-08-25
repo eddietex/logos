@@ -43,7 +43,7 @@ merge, or reorder them freely.
 - [x] [[The Creation of the World]] — Genesis 1:1–2:3
 - [x] [[The Garden of Eden]] — Genesis 2:4–25
 - [x] [[The Fall]] — Genesis 3:1–24
-- [ ] Cain and Abel — Genesis 4:1–16
+- [x] [[Cain and Abel]] — Genesis 4:1–16
 - [ ] The Line of Cain and the Birth of Seth — Genesis 4:17–26
 - [ ] From Adam to Noah — Genesis 5:1–32
 - [ ] The Sons of God and the Corruption of the Earth — Genesis 6:1–8
@@ -117,6 +117,7 @@ merge, or reorder them freely.
 - [[Sin]]
 - [[Curse]]
 - [[Judgment]]
+- [[Sacrifice and Offering]]
 
 ## Key people
 
@@ -124,7 +125,10 @@ merge, or reorder them freely.
 - [[Adam]]
 - [[Eve]]
 - [[The Serpent]]
+- [[Cain]]
+- [[Abel]]
 
 ## Key places
 
 - [[Eden]]
+- [[Nod]]

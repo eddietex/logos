@@ -11,3 +11,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 |
 | [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] | prophecy → fulfillment | Genesis 3:15 · Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · Revelation 12 |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
+| [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 |
+| [[Cain and Abel in the New Testament]] | typology | Genesis 4:1–16 · Matthew 23:35 · Luke 11:51 · Hebrews 11:4 · Hebrews 12:24 · 1 John 3:12 · Jude 11 |

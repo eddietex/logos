@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Fall]] — Genesis 3:15
+- [[Cain and Abel]] — Genesis 4:1, 4:8
 - Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · 1 John 3:8 · Revelation 12:1–17 *(not yet
   ingested)*
 
@@ -58,6 +59,18 @@ act. It is the reading that gives the verse its weight in Christian theology, an
 your head" — a feminine pronoun with no support in the Hebrew or the Greek, most likely a scribal
 slip that hardened into tradition. It is the source of the Marian iconography of a woman standing
 on a serpent, and modern Catholic translations no longer follow it.
+
+**The next verse the seed shows up in.** Genesis 4:1 has Eve say, over her firstborn, *"I have
+gotten a man with Yahweh's help"* — the first birth after the promise of an offspring, announced
+with God credited for it. The Hebrew (*qānîtî ʾîš ʾet-YHWH*) is difficult enough that the Targums
+and Luther could read it as a claim about *who* the child is, and a strand of interpretation from
+antiquity onward hears Eve expecting this son to be the one 3:15 spoke of. Genesis then does two
+things with that expectation inside sixteen verses: the candidate becomes the first murderer, and
+the only other candidate is his victim. Whether or not 4:1 is meant to sound like 3:15, the
+narrative sequence — promise, birth, fratricide — is the pattern the rest of Genesis runs on,
+where the line is repeatedly threatened by the family carrying it. It resumes at 4:25, where Seth
+is given *"instead of Abel"*, and the *toledot* of chapter 5 follow **his** line rather than
+Cain's. See [[Cain and Abel]].
 
 ## Significance
 

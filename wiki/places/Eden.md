@@ -44,6 +44,10 @@ Revelation closes the canon with the tree of life growing again beside a river, 
   Eden stops being a place anyone can be: cherubim and a flaming sword are stationed at its
   eastern entrance *"to guard the way to the tree of life"* (3:24), the first thing in Scripture
   closed off from human beings. Genesis never mentions the garden again.
+- [[Cain and Abel]] — not as a place but as a bearing. Cain is sentenced to wander and settles
+  *"in the land of Nod, east of Eden"* (4:16), one step further along the direction the story has
+  been travelling since 3:24. From here on Eden functions in Genesis as the point everything is
+  measured away from.
 
 ## Related places
 
@@ -51,6 +55,8 @@ Revelation closes the canon with the tree of life growing again beside a river, 
   Havilah, Cush, Assyria. Their pages come with Genesis 10 and the narratives that use them.
 - The tabernacle and the temple, which reuse the garden's guarded-eastward-entrance layout and its
   materials.
+- [[Nod]] — the land east of Eden where Cain settles; the only place in Genesis 4 given a name, and
+  located solely by its bearing from here.
 - The New Jerusalem of Revelation 21–22 — see
   [[The Tree of Life - Eden and the New Jerusalem]].
 

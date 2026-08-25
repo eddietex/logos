@@ -28,9 +28,23 @@ are to clothe them and to bar the tree of life so that the condition is not perm
 
 The pattern set here holds for most of the Bible's cursing. A curse is a **judicial word, not
 magic** — it is spoken by an authority, for a stated cause, on a stated target, and it takes
-effect because of who says it. It also travels: Genesis 4:11 curses Cain *from the ground* that
-took his brother's blood, 5:29 names Noah in hope of relief *"because of the ground which Yahweh
-has cursed"*, and 9:25 has Noah himself pronouncing one. Blessing and curse are then set side by
+effect because of who says it.
+
+**The first person cursed is Cain**, in [[Cain and Abel]]: *"Now you are cursed because of the
+ground, which has opened its mouth to receive your brother's blood from your hand"* (4:11). Two
+things change from Genesis 3. The formula moves from a creature and a medium to a **human being** —
+what was withheld from Adam and Eve is spoken over their son. And the ground escalates from
+resisting to refusing: in 3:17–19 it yields thorns and demands sweat; in 4:12 *"it won't yield its
+strength to you"* at all, which ends Cain's trade and makes a farmer a wanderer. The curse still
+works *through the soil* in both cases, which is the continuity underneath the escalation.
+
+The Hebrew of 4:11, *ʾārûr ʾattâ min-hāʾădāmâ*, is ambiguous in a useful way: cursed **from** the
+ground (banished off it), or cursed **by** the ground (the earth itself doing the cursing, having
+drunk the blood). WEB's *"because of the ground"* takes a third route. All three keep the soil as
+the curse's instrument.
+
+Cursing also travels onward: 5:29 names Noah in hope of relief *"because of the ground which
+Yahweh has cursed"*, and 9:25 has Noah himself pronouncing one. Blessing and curse are then set side by
 side as the two possible outcomes of covenant, most fully in Deuteronomy 27–28.
 
 The theme closes where it opened. Galatians 3:13 has Christ *"becoming a curse for us"* by hanging
@@ -41,8 +55,10 @@ the same verses that put the tree of life back in reach (see
 ## Development across Scripture
 
 - **Genesis 3:14, 3:17** — the serpent and the ground; the first two curses in Scripture.
-- **Genesis 4:11; 5:29; 8:21** *(not yet ingested)* — Cain cursed from the ground; the hope of
-  relief from the cursed ground; God's promise never again to curse it because of humanity.
+- **Genesis 4:11** — Cain cursed from the ground: the first human being under the *ʾārûr* formula,
+  and the ground's resistance become refusal.
+- **Genesis 5:29; 8:21** *(not yet ingested)* — the hope of relief from the cursed ground; God's
+  promise never again to curse it because of humanity.
 - **Genesis 9:25; 12:3** *(not yet ingested)* — Noah's curse on Canaan, and the Abrahamic promise
   that pairs blessing and curse as the response to how the nations treat one family.
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
@@ -54,6 +70,7 @@ the same verses that put the tree of life back in reach (see
 ## Key passages
 
 - [[The Fall]] — the curse on the serpent and on the ground
+- [[Cain and Abel]] — the first curse pronounced on a person
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 
 ## Related themes
@@ -68,3 +85,4 @@ the same verses that put the tree of life back in reach (see
 - [[God]]
 - [[The Serpent]]
 - [[Adam]]
+- [[Cain]]

@@ -78,18 +78,45 @@ template for nearly every judgment scene in Scripture — see [[Judgment]].
 - **He speaks of himself in the plural again** — *"like one of us"*, matching *"let us make man"*
   of 1:26, at the moment the resemblance is most ambiguous.
 
+### Outside the garden, from Genesis 4
+
+[[Cain and Abel]] runs the same sequence a second time, on a worse offence, and adds two things
+the garden scene did not have.
+
+- **He warns before the act.** No one in Genesis 3 is told in advance what is at the door. Cain is:
+  *"If you don't do well, sin crouches at the door. Its desire is for you, but you are to rule
+  over it"* (4:7). God addresses the anger before it becomes anything, states the danger, and says
+  it can be mastered — which is the first time in Scripture a person is told they can win.
+- **He accepts and refuses without giving a reason.** *"Yahweh respected Abel and his offering,
+  but he didn't respect Cain and his offering"* (4:4–5). The text records the verdict and withholds
+  the criterion; both times, the person is named before the gift. See
+  [[Sacrifice and Offering]].
+- **He hears what has no voice.** *"The voice of your brother's blood cries to me from the
+  ground"* (4:10). The victim who is given no words alive is heard dead.
+- **He curses a person for the first time** (4:11) — the *ʾārûr* formula that fell on the serpent
+  and the ground in Genesis 3 now falls on a human being. See [[Curse]].
+- **He protects the man he has just condemned.** The sevenfold vengeance and the sign of 4:15 are
+  given in answer to the murderer's fear for his own life, and they work: Cain lives. Judgment and
+  provision arrive together again, and the beneficiary this time has killed someone.
+- **He asks a question he is not answered.** *"Where is Abel, your brother?"* gets a lie and a
+  counter-question — *"Am I my brother's keeper?"* — and God simply moves past it to *"What have
+  you done?"*, the same words he spoke to the woman in 3:13.
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
   [[The Creation of the World]]
 - Forms the man, plants the garden, commands, and builds the woman — [[The Garden of Eden]]
 - Walks in the garden, questions, sentences, clothes, and exiles — [[The Fall]]
+- Receives one offering and not the other, warns Cain, questions him, curses him, and guards his
+  life with a sign — [[Cain and Abel]]
 
 ## Appears in
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]
+- [[Cain and Abel]]
 
 ## Related people
 
@@ -97,6 +124,8 @@ template for nearly every judgment scene in Scripture — see [[Judgment]].
 - [[Adam]] — formed, breathed into, commissioned, and commanded by him
 - [[Eve]] — built by him and brought to the man
 - [[The Serpent]] — a creature he made, sentenced without being questioned
+- [[Cain]] — warned, questioned, cursed, and then protected by him
+- [[Abel]] — whose offering he respects and whose blood he hears
 
 ## Themes associated
 
@@ -110,3 +139,4 @@ template for nearly every judgment scene in Scripture — see [[Judgment]].
 - [[Sin]]
 - [[Curse]]
 - [[Judgment]]
+- [[Sacrifice and Offering]]

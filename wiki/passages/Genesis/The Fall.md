@@ -166,8 +166,10 @@ and the walking in the cool of the day.
   union established in 2:24.
 - [[The Creation of the World]] — Genesis 1:1–2:3; the *"like one of us"* of 3:22 echoes the
   *"let us make man"* of 1:26.
-- Genesis 4:1–16 — the next pericope, where the *tešûqâ* ("desire") of 3:16 recurs in 4:7 and the
+- [[Cain and Abel]] — Genesis 4:1–16, where the *tešûqâ* ("desire") of 3:16 recurs in 4:7 and the
   death sentenced here is first carried out by a human hand.
+- [[Desire and Rule - Genesis 3.16 and 4.7]] — the two verses that share *tešûqâ* and *māšal*, and
+  what each does to the reading of the other.
 - 2 Corinthians 11:3 and 1 Timothy 2:13–14 — the New Testament's two direct references to this
   scene, both focused on the deception of the woman.
 - Romans 8:19–22 — the creation *"subjected to vanity"* and groaning, read as the ground cursed in
@@ -242,7 +244,8 @@ and the walking in the cool of the day.
   distortion or prescribes an order: the verse is a sentence pronounced on a broken world, in the
   same breath as thorns and painful labour, and few readers treat thorns as a mandate. Both
   questions have been decided in every direction; the text states the outcome and not its
-  standing.
+  standing. The 4:7 parallel is laid out in full, with what it does and does not license, on
+  [[Desire and Rule - Genesis 3.16 and 4.7]].
 - **The man names his wife in 3:20, and only there.** In Genesis 2 he *recognised* her (*"bone of
   my bones"*); naming is what he did to the animals. That the naming comes now, after the
   sentence, is read two ways: as the dominion of 3:16 taking effect, or as the first act of faith
@@ -253,7 +256,9 @@ and the walking in the cool of the day.
   is made of an animal — the text does not say sacrifice, and no altar or offering appears, but
   it does mean something died so that they could be clothed, and a long tradition reads the verse
   as the pattern for everything that follows. The plainer observation is that the last thing God
-  does before exiling them is dress them.
+  does before exiling them is dress them. The Bible's first offerings, with no altar and no
+  command either, arrive one chapter later in [[Cain and Abel]]; see
+  [[Sacrifice and Offering]].
 - **"Like one of us"** (3:22) is the plural of 1:26 returning at the moment the resemblance is
   most ambiguous — see the note on [[The Creation of the World]] for the readings of that plural.
 - **The sentence in 3:22 breaks off unfinished** — *"and eat, and live forever—"* — one of the

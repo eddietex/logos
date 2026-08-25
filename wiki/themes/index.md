@@ -8,9 +8,10 @@ Catalog of every theme/doctrine page, updated on each ingest.
 | [[Image of God]] | Humanity's defining status — male and female — and the ground of its dominion | [[The Creation of the World]] · [[The Garden of Eden]] |
 | [[Blessing]] | God's performative word granting the power to flourish; first given to animals, humanity, and the seventh day | [[The Creation of the World]] |
 | [[Sabbath]] | The seventh day, on which God rested; the first thing in Scripture called holy | [[The Creation of the World]] |
-| [[Work]] | Labour as vocation — commissioned in the garden before the fall; toil, not work, is the curse | [[The Garden of Eden]] · [[The Fall]] |
+| [[Work]] | Labour as vocation — commissioned in the garden before the fall; toil, not work, is the curse | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] |
 | [[Marriage]] | Man and woman as one flesh; the created ordinance the New Testament argues every marriage question from | [[The Garden of Eden]] · [[The Fall]] |
-| [[Life and Death]] | Life as God's breath lent to dust; death as the stated penalty for one prohibited act | [[The Garden of Eden]] · [[The Fall]] |
-| [[Sin]] | The first disobedience and its anatomy — a question about God's word, a doubt about his motive, an appetite | [[The Fall]] |
-| [[Curse]] | The counter-word to blessing; aimed in Genesis 3 at the serpent and the ground, not at the man and woman | [[The Fall]] |
-| [[Judgment]] | God comes, questions, sentences — and provides for those he has just sentenced | [[The Fall]] |
+| [[Life and Death]] | Life as God's breath lent to dust; death as the stated penalty for one prohibited act | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] |
+| [[Sin]] | The first disobedience and its anatomy; the word itself first appears at 4:7, crouching at a door | [[The Fall]] · [[Cain and Abel]] |
+| [[Curse]] | The counter-word to blessing; aimed in Genesis 3 at the serpent and the ground, and in Genesis 4 at a man | [[The Fall]] · [[Cain and Abel]] |
+| [[Judgment]] | God comes, questions, sentences — and provides for those he has just sentenced | [[The Fall]] · [[Cain and Abel]] |
+| [[Sacrifice and Offering]] | Gifts brought to God with no command, altar, or rule given, and received unequally for reasons withheld | [[Cain and Abel]] |

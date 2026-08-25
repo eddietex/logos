@@ -39,12 +39,21 @@ cannot *"take of the tree of life, and eat, and live forever"* (3:22). Mortality
 irreversible at the moment access to the remedy is cut off, which means the same act that ends the
 garden is what makes death permanent, and is also framed as preventing something worse.
 
+**The first death is a killing.** In [[Cain and Abel]] the sentence of 3:19 is carried out ahead of
+schedule and by a human hand: not age, not the ground taking back its dust, but a brother in a
+field (4:8). The theme's shape changes with it. Death stops being only a condition humanity is
+under and becomes something people do to each other, which is why 4:10 gives blood a voice —
+*"the voice of your brother's blood cries to me from the ground"* — and why the rest of the Bible
+treats bloodshed as a thing the land itself registers (Genesis 9:5–6, Numbers 35:33,
+Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove the word.
+
 ## Development across Scripture
 
 - **Genesis 2:7** — life as breath given.
 - **Genesis 2:9, 2:17, 3:22–24** — the tree of life, the death sentence, the barred access.
 - **Genesis 3:19** — *"to dust you shall return"*: death defined as the reversal of 2:7.
-- **Genesis 4:8** *(not yet ingested)* — the sentence first carried out, by a human hand.
+- **Genesis 4:8, 4:10** — the sentence first carried out, by a human hand; and blood given a voice
+  that God answers.
 - **Genesis 5** *(not yet ingested)* — the genealogy whose refrain is *"and he died"*, eight times,
   with Enoch as the one exception.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -56,6 +65,9 @@ garden is what makes death permanent, and is also framed as preventing something
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
 - [[The Fall]] — the return to dust, and the tree of life barred
+- [[Cain and Abel]] — the first death, and the first blood to cry out
+- [[Cain and Abel in the New Testament]] — Abel *"being dead, still speaks"*, and the blood that
+  speaks better than his
 - [[The Tree of Life - Eden and the New Jerusalem]] — the tree from 2:9 at the canon's other end
 - [[The First Adam and the Last Adam]] — *"as in Adam all die, so also in Christ all will be made
   alive"*
@@ -73,3 +85,5 @@ garden is what makes death permanent, and is also framed as preventing something
 - [[God]]
 - [[Adam]]
 - [[Eve]]
+- [[Abel]]
+- [[Cain]]

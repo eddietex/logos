@@ -291,3 +291,92 @@ Changes:
 - `.claude/settings.json`: `Bash(git push:*)` moved from `deny` to `allow`; `Bash(git pull:*)`
   added; `deny` now empty.
 - `CLAUDE.md` directory map: the settings.json line now reads "commit and push".
+
+## [2026-08-25] ingest | Genesis 4.1-16 — Cain and Abel
+
+Fourth pericope of Genesis, and the first unattended run under the new push step. Boundary held as
+planned: 4:16 ends the scene with Cain leaving Yahweh's presence, and 4:17 turns into genealogy and
+city-building, which is the next box.
+
+Created:
+- `wiki/passages/Genesis/Cain and Abel.md`
+- `wiki/people/Cain.md`, `Abel.md`
+- `wiki/places/Nod.md`
+- `wiki/themes/Sacrifice and Offering.md`
+- `wiki/connections/Cain and Abel in the New Testament.md`
+- `wiki/connections/Desire and Rule - Genesis 3.16 and 4.7.md`
+
+Updated: `wiki/people/Adam.md` (present only in 4:1 and still called "the man"; his trade and his
+cursed ground pass to Cain), `Eve.md` (4:1 as the Bible's first human thanksgiving, spoken under
+the sentence of 3:16), `God.md` (new "Outside the garden, from Genesis 4" section — warning before
+the act, an unexplained refusal, a victim heard, the first human cursed, and a murderer protected),
+`wiki/places/Eden.md` (now a bearing rather than a place; Nod added to related places),
+`wiki/themes/Sin.md` (the word's first appearance, personified and resistible),
+`Curse.md` (the *ʾārûr* formula reaching a person, and the ground going from resisting to
+refusing), `Judgment.md` (a step-by-step table of the Genesis 3 template rerun and escalated),
+`Life and Death.md` (the first death is a killing; blood given a voice), `Work.md` (two honest
+trades, and the first vocation taken away), `Marriage.md` and
+`wiki/passages/Genesis/The Fall.md` (their standing 4:7 notes now point at the new connection
+page), `wiki/connections/The Protoevangelium - Genesis 3.15 and the Seed of the Woman.md` (4:1 as
+the first candidate for the woman's offspring and 4:8 as the first cutting of that line), the
+Genesis book page and index, all four category indexes, and `wiki/index.md` counts.
+
+Judgment calls made unattended, for review:
+- **Two theme pages were considered and one was written.** `Sacrifice and Offering` earns a page:
+  it has two touchpoints already (3:21's coats of skins as a contested reading, 4:3–5 as the first
+  offerings) and the entire Levitical system and Hebrews depend on how this scene is read.
+  *Blood* was the other candidate and was folded into the passage notes and the new connection
+  page instead — it is a major strand (4:10, 9:5–6, Leviticus 17:11, Hebrews 12:24) but it has one
+  verse so far, and the `Shame` precedent from the Genesis 3 ingest applies. Revisit at Genesis 9.
+- **No theme page for sibling rivalry**, despite it being the most obvious Genesis-wide motif this
+  passage starts (Isaac/Ishmael, Jacob/Esau, Joseph's brothers, Ephraim/Manasseh). Same reason: one
+  scene. It is written into the passage notes and into `Sacrifice and Offering` as the
+  divine-freedom reading. It should get a page when Genesis 25 or 27 arrives, and by then there
+  will be a synthesis to write rather than an index entry.
+- **`Nod` gets a place page** even though it is a single verse and probably not a locatable
+  region — because the name is the sentence of 4:12 made into geography, which is worth a page
+  saying so rather than a line on `[[Eden]]`.
+- **Passage title is `Cain and Abel`**, the book page's own wording, over "The First Murder" or
+  "Cain and Abel and the First Murder". No collision with any other book yet; Hebrews and 1 John
+  will not need passage pages by that name.
+- Connection filename uses `3.16 and 4.7`, following the colon-free pattern already set by
+  `The Protoevangelium - Genesis 3.15 …`.
+
+Tensions written out rather than smoothed:
+- **Genesis never says why Abel's offering was accepted.** Four readings are recorded with what
+  each rests on — quality (firstborn and fat vs. an unqualified "fruit of the ground"), blood
+  (which runs into *minḥâ* being used of *both* offerings and being the Levitical **grain**
+  offering), the person before the gift (the verse's own word order, and Hebrews 11:4's "by
+  faith"), and unexplained divine freedom. The passage supports the first and fourth; the New
+  Testament supplies the third. No verdict entered.
+- **Verse 8 has a hole in the Masoretic text.** *"Let's go into the field"* is supplied from the
+  Samaritan Pentateuch, LXX, Peshitta, and Vulgate; WEB follows them without noting it. Recorded on
+  the passage page, since the one sentence the murderer speaks to his victim is the one sentence
+  the Hebrew does not have.
+- **"My punishment is greater than I can bear" (4:13) is equally "my guilt is too great to be
+  forgiven."** *ʿāwōn* means guilt and penalty, *nāśāʾ* means bear and forgive. Self-pity or the
+  first confession in the Bible — both recorded, neither preferred, with the note that the
+  ambiguity is in the Hebrew and not in the interpreters.
+- **The New Testament adds motive and verdict that Genesis withholds.** Abel is "righteous" and
+  offered "by faith"; Cain is "of the evil one". None of the five NT references mentions the
+  warning, the sign, or God's protection of Cain — the passage's most merciful material. Flagged
+  on the connection page as the same draw-out-or-read-in question already open at 3:15 and at the
+  serpent's identity, and `[[Cain]]` keeps the Genesis portrait rather than the archetype.
+- **The mark of Cain is protective, and its reception history is not.** Named on the passage page
+  as a misreading — it has no basis in the verse and also confuses this curse with the one on
+  Canaan in 9:25 — because of the use it was put to.
+- **The *tešûqâ* parallel is real and is regularly over-drawn.** The new connection page states
+  what it licenses (reading 3:16's "desire" as an appetite to master) and what it does not (the
+  descriptive-vs-prescriptive question about "he will rule"), and notes that the third of the
+  word's three occurrences, Song of Songs 7:10, points the other way.
+- **Who Cain feared, and who he married**, is recorded as a question the narrative does not answer,
+  with the Genesis 5:4 harmonization given and the observation that Genesis 4 is narrating the
+  beginnings of civilization rather than a population.
+
+Deliberately left for later pericopes: Genesis 4:17–26 is referenced as plain text from five pages
+(Cain's city and line, Lamech's seventy-sevenfold boast against the sevenfold of 4:15, and Seth
+born "instead of Abel"), as are Genesis 9:5–6, Leviticus 17:11, and Numbers 35 for the blood
+strand. Revisit notes filed for Genesis 9 (a `Blood` theme page), Genesis 25/27 (sibling rivalry),
+Genesis 22 (`Sacrifice and Offering`), and Song of Songs 7 (`Desire and Rule`).
+
+`scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages.

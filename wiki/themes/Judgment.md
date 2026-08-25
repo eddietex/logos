@@ -26,9 +26,29 @@ the shape it takes there governs almost every judgment scene that follows.
    protective reason: *"lest he reach out his hand, and also take of the tree of life"* (3:22).
 
 That last step is what distinguishes biblical judgment from mere punishment, and Genesis keeps
-repeating it: Cain is sentenced and given a protective mark (4:15), the flood is decreed and an
+repeating it: Cain is sentenced and given a protective sign (4:15), the flood is decreed and an
 ark is specified (6:14), Babel is scattered and immediately followed by the call of Abram (12:1).
 Judgment in Genesis is never the end of the story it is told inside.
+
+**The second run, in [[Cain and Abel]]**, follows the template so closely that the correspondence
+is clearly deliberate — and each step is heavier.
+
+| Genesis 3 | Genesis 4 |
+|---|---|
+| *"Where are you?"* (3:9) | *"Where is Abel, your brother?"* (4:9) |
+| *"What have you done?"* to the woman (3:13) | *"What have you done?"* to Cain (4:10) |
+| Evasion: blame passed along (3:12–13) | Denial: an outright lie, plus a counter-question (4:9) |
+| The **ground** cursed (3:17) | The **man** cursed (4:11) |
+| Ground resists: thorns and sweat (3:18–19) | Ground refuses: *"it won't yield its strength"* (4:12) |
+| Driven out of the garden (3:23–24) | Driven from the ground and from God's presence (4:14, 16) |
+| Provision: coats of skins (3:21) | Provision: a sign that keeps him alive (4:15) |
+
+Three things are new. God **warns before the act** (4:6–7), which no one in Genesis 3 received.
+The **victim is heard** — *"the voice of your brother's blood cries to me from the ground"* (4:10)
+is the first time judgment answers a cry rather than an act observed. And the provision is granted
+in answer to the condemned man's own protest (4:13–14), which makes the mercy explicitly
+responsive: Cain says the sentence is more than he can bear, and something is done about it
+without the sentence being lifted.
 
 Two features of the Genesis 3 scene are worth keeping in view. The **serpent is never asked a
 question** — the process of inquiry is extended to the humans and not to it. And the sentences
@@ -39,8 +59,9 @@ rule are the conditions the rest of Scripture is set in.
 
 - **Genesis 3:8–24** — the first judgment scene: God comes, seeks, questions, sentences, clothes,
   exiles.
-- **Genesis 4:9–16** *(not yet ingested)* — the same sequence over Cain, question for question
-  (*"Where is Abel your brother?"* answering *"Where are you?"*), and the same closing provision.
+- **Genesis 4:6–16** — the same sequence over Cain, question for question (*"Where is Abel your
+  brother?"* answering *"Where are you?"*), preceded this time by a warning and closed by a sign
+  that protects the condemned.
 - **Genesis 6–9; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood, Babel, and Sodom, each
   with God "going down to see" before acting, and Abraham's *"Shall not the Judge of all the earth
   do right?"* (18:25) putting the question the theme keeps raising.
@@ -53,6 +74,8 @@ rule are the conditions the rest of Scripture is set in.
 ## Key passages
 
 - [[The Fall]] — the first judgment scene, and the template
+- [[Cain and Abel]] — the template run again, escalated, with a warning added at the front and a
+  protective sign at the end
 
 ## Related themes
 
@@ -60,6 +83,7 @@ rule are the conditions the rest of Scripture is set in.
 - [[Curse]] — the form the sentence takes
 - [[Life and Death]] — the sentence's content
 - [[Blessing]] — the counter-word, and what survives the judgment
+- [[Sacrifice and Offering]] — what the second judgment scene begins from
 
 ## Related people
 
@@ -67,3 +91,5 @@ rule are the conditions the rest of Scripture is set in.
 - [[Adam]]
 - [[Eve]]
 - [[The Serpent]]
+- [[Cain]]
+- [[Abel]]

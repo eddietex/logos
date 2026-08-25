@@ -32,9 +32,33 @@ oneself** — which is what *"you will be like God, knowing good and evil"* offe
 confirms was in fact obtained. Autonomy is the prize, and it is a real one; the deception is only
 about its cost.
 
-Genesis then shows the thing spreading before it defines it. Cain in 4:7 receives the first use
-of the word, personified and crouching; by 6:5 *"every imagination of the thoughts of [man's]
-heart was continually only evil"*, and the flood follows. The doctrine of an inherited condition
+**The word arrives in [[Cain and Abel]]**, one chapter after the act it is usually attached to.
+*Ḥaṭṭāʾt* — whose root sense is *missing* a mark — appears first at 4:7, and Genesis introduces it
+not as a definition but as an animal:
+
+> **4:7** If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door.
+> Its desire is for you, but you are to rule over it.
+
+Four things about that first occurrence set the theme's terms.
+
+- **It is personified, and external.** The participle *rōbēṣ*, "crouching", is what a beast does
+  lying in wait, and it is masculine where *ḥaṭṭāʾt* is feminine — a grammatical mismatch that
+  leaves the crouching thing feeling like a separate creature at the threshold. Genesis 3 gave sin
+  an anatomy; Genesis 4 gives it a posture.
+- **It is spoken before the act, to the person about to commit it.** Cain is warned. Nobody in
+  Genesis 3 was.
+- **It is stated to be resistible.** *"You are to rule over it"* is the one clause in a
+  syntactically difficult verse that is not difficult at all. Whatever Genesis later says about the
+  human heart, its first use of the word *sin* comes attached to a command that assumes it can be
+  mastered.
+- **It reuses the vocabulary of 3:16.** *Tešûqâ* ("desire") and *māšal* ("rule"), the rarest word
+  pair in the Hebrew Bible, describing here an appetite to dominate — see
+  [[Desire and Rule - Genesis 3.16 and 4.7]].
+
+What follows in the same passage is the theme's first escalation: warned, Cain does it anyway, and
+the second recorded sin in Scripture is murder. Genesis then shows the thing spreading before it
+defines it; by 6:5 *"every imagination of the thoughts of [man's] heart was continually only
+evil"*, and the flood follows. The doctrine of an inherited condition
 is drawn from these narratives, chiefly by Paul; it is not stated in them. See
 [[The First Adam and the Last Adam]] for where the universal claim actually comes from and how it
 has been argued.
@@ -43,8 +67,11 @@ has been argued.
 
 - **Genesis 3:1–7** — the first disobedience, told without the vocabulary of sin.
 - **Genesis 3:8–13** — hiding and blame as the first consequences, ahead of any sentence.
-- **Genesis 4:7** *(not yet ingested)* — the word itself, personified: *"sin crouches at the door.
-  Its desire is for you, but you are to rule over it"*, reusing the *tešûqâ* of 3:16.
+- **Genesis 4:7** — the word itself, personified: *"sin crouches at the door. Its desire is for
+  you, but you are to rule over it"*, reusing the *tešûqâ* of 3:16, and addressed to a man who has
+  not yet acted.
+- **Genesis 4:8–16** — the first murder, three verses after the first warning; a lie added to the
+  act, and the first curse pronounced on a person.
 - **Genesis 6:5, 8:21** *(not yet ingested)* — the verdict on the human heart before and after the
   flood, which does not change.
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
@@ -55,6 +82,7 @@ has been argued.
 ## Key passages
 
 - [[The Fall]] — the first disobedience and its anatomy
+- [[Cain and Abel]] — the word's first appearance, crouching at a door, and the first murder
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 
 ## Related themes
@@ -63,10 +91,12 @@ has been argued.
 - [[Judgment]] — the scene that immediately follows it
 - [[Life and Death]] — the stated penalty, and how it arrives
 - [[Image of God]] — the likeness grasped at, over the likeness already given
+- [[Sacrifice and Offering]] — the refused gift that 4:7's warning is spoken over
 
 ## Related people
 
 - [[Adam]]
 - [[Eve]]
 - [[The Serpent]]
+- [[Cain]]
 - [[God]]

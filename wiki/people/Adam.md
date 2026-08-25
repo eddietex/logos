@@ -34,6 +34,11 @@ ground rather than on him — it is cursed *for his sake* — and returns him to
 from. Then, immediately after being told he will die, he names his wife **Eve**, for *living*.
 The article finally drops from his name in the same chapter: 3:17 reads *"To Adam he said"*.
 
+He has no part in [[Cain and Abel]] beyond fathering both sons — 4:1 still calls him *"the man"* —
+and the passage does not record him reacting to either the murder or the exile. What it does show
+is his sentence propagating: the trade he was given in 3:23, tilling the ground, is Cain's trade,
+and the ground that resisted him refuses his son outright (4:12).
+
 Later Scripture makes him a corporate figure. Paul reads him as the head of a humanity under
 death, set against Christ as the head of a humanity under life (Romans 5:12–21, 1 Corinthians
 15:21–22, 45–49) — the "first Adam" and the "last Adam"; see
@@ -46,12 +51,15 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   names the animals; receives the woman — [[The Garden of Eden]]
 - Eats from the forbidden tree, blames the woman, hears the ground cursed for his sake, names
   Eve, is clothed by God, and is driven out of the garden — [[The Fall]]
-- Fathers Cain, Abel, and Seth; dies at 930 — Genesis 4–5 *(not yet ingested)*
+- Fathers Cain and Abel, and loses both on the same day — [[Cain and Abel]]
+- Fathers Seth; dies at 930 — Genesis 4:25, 5:3–5 *(not yet ingested)*
 
 ## Appears in
 
 - [[The Garden of Eden]]
 - [[The Fall]]
+- [[Cain and Abel]] — present only in the passage's first verse, still called *"the man"*, and
+  silent for the rest of it
 - Named as humanity, not yet as an individual, in [[The Creation of the World]]
 
 ## Related people
@@ -60,6 +68,7 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
 - [[Eve]] — built from his side; *"bone of my bones, and flesh of my flesh"*; the one he hands
   over under questioning in 3:12 and then names in 3:20
 - [[The Serpent]] — which never addresses him, though he is present throughout
+- [[Cain]] and [[Abel]] — his first two sons, one a farmer like himself and one a shepherd
 
 ## Themes associated
 

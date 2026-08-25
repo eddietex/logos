@@ -42,18 +42,28 @@ The New Testament's two direct references to her (2 Corinthians 11:3, 1 Timothy 
 look at this scene, and both focus on her being deceived — beside which the narrative's own
 *"with her"* keeps the man in the frame.
 
+Her last recorded act inside [[Cain and Abel]] is its first line, and it is worth setting beside
+3:16: told that she would bear children in pain, she bears one and says *"I have gotten a man with
+Yahweh's help"* (4:1). It is the Bible's first human thanksgiving, and it credits God with a birth
+that arrives under sentence — the same shape as the man's naming of her in 3:20, a word for life
+spoken into the terms of a judgment. (The Hebrew of that sentence is genuinely hard; the readings
+are set out on the passage page.) Ancient readers who take her to be expecting the offspring
+promised in 3:15 have her hope land on the son who becomes the murderer.
+
 ## Timeline / key events
 
 - Built from the man's side and brought to him; the two are naked and unashamed —
   [[The Garden of Eden]]
 - Speaks with the serpent, takes the fruit and gives it to her husband, is questioned and
   sentenced, and is named Eve — [[The Fall]]
-- Bears Cain, Abel, and Seth — Genesis 4 *(not yet ingested)*
+- Bears Cain and Abel; names Cain with a thanksgiving to Yahweh — [[Cain and Abel]]
+- Bears Seth, *"instead of Abel, for Cain killed him"* — Genesis 4:25 *(not yet ingested)*
 
 ## Appears in
 
 - [[The Garden of Eden]]
 - [[The Fall]]
+- [[Cain and Abel]] — she speaks the passage's opening line and appears nowhere else in it
 - Included, unnamed, in the "male and female" of [[The Creation of the World]]
 
 ## Related people
@@ -61,6 +71,8 @@ look at this scene, and both focus on her being deceived — beside which the na
 - [[Adam]] — the man she is taken from and given to
 - [[God]] — who judges his aloneness "not good" and builds her
 - [[The Serpent]] — which speaks to her, and which she names as her deceiver
+- [[Cain]] and [[Abel]] — her first two sons; she names one with thanksgiving and the other
+  without comment
 
 ## Themes associated
 
