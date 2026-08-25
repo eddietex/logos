@@ -38,7 +38,7 @@ dominion given in 1:28, not a reward for exercising it.
 
 ## Key passages
 
-- [[Genesis 1.1-2.3 - The Creation of the World]]
+- [[The Creation of the World]]
 
 ## Related themes
 

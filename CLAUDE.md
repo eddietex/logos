@@ -32,7 +32,7 @@ wiki/
     index.md                canonical 66-book list with ingestion status
     <Book>.md                one page per Bible book
   passages/
-    <Book>/<Ref> - <Title>.md   one page per ingested pericope, nested under its book
+    <Book>/<Title>.md        one page per ingested pericope, nested under its book
   people/
     index.md
     <Name>.md
@@ -59,11 +59,18 @@ in `raw/`.
 
 ## Naming conventions
 
-- **Verse references in filenames use periods, not colons**: `Genesis 1.1-2.3 - The Creation of
-  the World.md`, not `Genesis 1:1-2:3 ...`. Colons break on some filesystems and Obsidian
-  discourages them. Colons are fine in page titles/headings and body text.
-- Passage filename shape: `<Ref> - <Short Title>.md`, e.g. `John 11.1-44 - The Raising of
-  Lazarus.md`, stored under `wiki/passages/<Book>/`.
+- **Passage pages are named by title alone** — `The Raising of Lazarus.md`, not
+  `John 11.1-44 - The Raising of Lazarus.md`. The folder (`wiki/passages/<Book>/`) supplies the
+  book and the `ref:` frontmatter supplies the verses, so the filename carries neither, and links
+  read as prose: `[[The Raising of Lazarus]]`. Pipe a display form where the location matters in
+  running text: `[[The Binding of Isaac|Genesis 22]]`.
+- **On a title collision between books, qualify both pages with the book** — the Gospels and
+  Kings/Chronicles will do this often. `The Transfiguration (Matthew).md`,
+  `The Transfiguration (Mark).md`. A collision only surfaces when the second book arrives, so
+  when it does, rename the page that already exists as well and fix its inbound links in the same
+  pass. An unqualified duplicate title is a lint finding.
+- Colons never appear in filenames (they break on some filesystems and Obsidian discourages
+  them); they are fine in page titles, headings, and body text.
 - Book, person, place, theme, connection pages are named by their plain title:
   `wiki/people/David.md`, `wiki/themes/Covenant.md`.
 - Always link with Obsidian wikilinks (`[[Page Name]]`), never raw markdown links, so the graph
@@ -151,6 +158,8 @@ Check for and report:
   show.
 - Concepts/people/places mentioned repeatedly across passages but lacking their own page.
 - Category indexes that are stale relative to what actually exists in their folder.
+- Passage titles duplicated across books without the `(Book)` qualifier — an ambiguous
+  `[[Title]]` link silently resolves to just one of them.
 - Missing cross-references (parallel Gospel accounts, OT quotes in the NT) not yet captured as
   connection pages.
 Log a `lint` entry in `wiki/log.md` summarizing what was found and fixed.

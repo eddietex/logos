@@ -36,11 +36,11 @@ What Genesis 1 establishes about him, before any other page can add to it:
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
-  [[Genesis 1.1-2.3 - The Creation of the World]]
+  [[The Creation of the World]]
 
 ## Appears in
 
-- [[Genesis 1.1-2.3 - The Creation of the World]]
+- [[The Creation of the World]]
 
 ## Related people
 

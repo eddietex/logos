@@ -7,7 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
-- [[Genesis 1.1-2.3 - The Creation of the World]] — Genesis 1:1–5
+- [[The Creation of the World]] — Genesis 1:1–5
 - John 1:1–5 *(not yet ingested)*
 
 ## Analysis

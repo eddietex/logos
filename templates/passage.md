@@ -7,7 +7,7 @@ tags: [passage]
 status: ingested
 date_ingested: 
 ---
-# {{Ref}} — {{Title}}
+# {{Title}}
 
 **Book:** [[{{Book}}]]
 **Reference:** {{Ref}}

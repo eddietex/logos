@@ -37,7 +37,7 @@ Genesis 1 sets four load-bearing claims:
 
 ## Key passages
 
-- [[Genesis 1.1-2.3 - The Creation of the World]]
+- [[The Creation of the World]]
 
 ## Related themes
 

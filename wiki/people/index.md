@@ -5,4 +5,4 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 
 | Name | Summary | Key passages |
 |---|---|---|
-| [[God]] | Creator of the heavens and the earth; the sole actor in Genesis 1, named Elohim there | [[Genesis 1.1-2.3 - The Creation of the World]] |
+| [[God]] | Creator of the heavens and the earth; the sole actor in Genesis 1, named Elohim there | [[The Creation of the World]] |

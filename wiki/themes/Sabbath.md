@@ -38,7 +38,7 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Key passages
 
-- [[Genesis 1.1-2.3 - The Creation of the World]]
+- [[The Creation of the World]]
 
 ## Related themes
 

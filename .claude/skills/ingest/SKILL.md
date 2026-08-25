@@ -53,8 +53,11 @@ Read the pericope's verses from `raw/bible/<Book>.md`, then work the numbered in
 
 Done means every one of these is true:
 
-- The passage page exists under `wiki/passages/<Book>/` and every wikilink in it resolves to a
-  page that exists, or is one you deliberately left for a later pericope.
+- The passage page exists at `wiki/passages/<Book>/<Title>.md` — title alone, no reference in the
+  filename — and every wikilink in it resolves to a page that exists, or is one you deliberately
+  left for a later pericope.
+- No other book already has a passage page by that title. One that does means both pages take the
+  `<Title> (<Book>).md` form, the existing one renamed and its inbound links fixed in this pass.
 - Every person, place, theme, and connection the pericope touches has a page that names this
   passage, and whose synthesis accounts for it — with any contradiction against an existing page
   written out explicitly, both claims and their sources, rather than overwritten.

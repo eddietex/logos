@@ -19,7 +19,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-- [ ] {{Ref}} — {{Title}}
+- [ ] {{Title}} — {{Ref}}
 
 ## Key themes
 -

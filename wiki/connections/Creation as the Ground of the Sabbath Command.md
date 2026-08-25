@@ -7,7 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
-- [[Genesis 1.1-2.3 - The Creation of the World]] — Genesis 2:2–3
+- [[The Creation of the World]] — Genesis 2:2–3
 - Exodus 20:8–11 *(not yet ingested)*
 - Deuteronomy 5:12–15 *(not yet ingested)*
 

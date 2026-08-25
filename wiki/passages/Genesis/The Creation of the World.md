@@ -7,7 +7,7 @@ tags: [passage]
 status: ingested
 date_ingested: 2026-08-24
 ---
-# Genesis 1:1–2:3 — The Creation of the World
+# The Creation of the World
 
 **Book:** [[Genesis]]
 **Reference:** Genesis 1:1–2:3

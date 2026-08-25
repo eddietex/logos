@@ -33,7 +33,7 @@ human failure — and on the counter-word, *curse*, that first appears in Genesi
 
 ## Key passages
 
-- [[Genesis 1.1-2.3 - The Creation of the World]]
+- [[The Creation of the World]]
 
 ## Related themes
 
