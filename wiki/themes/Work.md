@@ -29,8 +29,11 @@ the seventh day a blessing. See [[Sabbath]].
 ## Development across Scripture
 
 - **Genesis 1:28; 2:15** — the mandate to fill, subdue, cultivate, and keep.
-- **Genesis 3:17–19** *(not yet ingested)* — the ground cursed; the same work now yields thorns
-  and is done by sweat.
+- **Genesis 3:17–19** — the ground cursed; the same work now yields thorns and is done by sweat.
+  The precision matters: the curse formula in 3:17 falls on *the ground*, not on the man and not
+  on his labour. The commission of 2:15 is never withdrawn — he is sent out *"to till the ground
+  from which he was taken"* (3:23), which is the same job in a harder field. What is new is
+  resistance, and an end: the ground he works will take him back.
 - Strands to trace as ingestion reaches them: the sabbath and jubilee legislation that limits
   work and protects workers (Exodus 20:9–10, Leviticus 25); the craftsmen of the tabernacle filled
   with the Spirit for their skill (Exodus 31:1–11); Ecclesiastes on the vanity and the gift of
@@ -43,12 +46,14 @@ the seventh day a blessing. See [[Sabbath]].
 - [[The Garden of Eden]] — the man placed in the garden to cultivate and keep it, and the naming
   of the animals
 - [[The Creation of the World]] — God's own six days of work, and the mandate of 1:28
+- [[The Fall]] — the ground cursed, and the commission continued outside the garden
 
 ## Related themes
 
 - [[Sabbath]] — the rest that defines and limits work
 - [[Creation]]
 - [[Image of God]] — the ground of the dominion that work exercises
+- [[Curse]] — what falls on the ground the work is done in
 
 ## Related people
 

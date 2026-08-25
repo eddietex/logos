@@ -21,11 +21,17 @@ the word will keep:
   and what a blessed day produces is [[Sabbath]] rest rather than offspring.
 
 Genesis will spend the rest of its length on what happens to this blessing when it collides with
-human failure — and on the counter-word, *curse*, that first appears in Genesis 3.
+human failure — and on the counter-word, *curse*, which arrives in [[The Fall]] and now has its
+own page: [[Curse]]. Worth noting how the two interact rather than simply cancel. The blessing of
+1:28 is never revoked in Genesis 3: the man and woman still multiply, still work, still rule — but
+each of those now runs through pain, sweat, and resistance. Blessing is not withdrawn; it is made
+costly.
 
 ## Development across Scripture
 
 - **Genesis 1:22, 1:28, 2:3** — creation blessing: fruitfulness, dominion, holy rest.
+- **Genesis 3:14–19** — the first curses, aimed at the serpent and the ground, running against the
+  creation blessing without cancelling it.
 - To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
   narrowing of blessing to one family and its widening back out to *"all the families of the
   earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
@@ -34,12 +40,15 @@ human failure — and on the counter-word, *curse*, that first appears in Genesi
 ## Key passages
 
 - [[The Creation of the World]]
+- [[The Fall]] — where the counter-word first appears
 
 ## Related themes
 
 - [[Creation]]
 - [[Image of God]]
 - [[Sabbath]]
+- [[Curse]] — the counter-word
+- [[Judgment]]
 
 ## Related people
 

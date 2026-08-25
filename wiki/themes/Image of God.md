@@ -35,6 +35,13 @@ dominion given in 1:28, not a reward for exercising it.
   whatever he calls them is their name. Dominion looks like naming — knowing and ordering — and
   God defers to the result. The *relational* reading gets its counterpart in 2:18–24, where
   aloneness is the one thing in creation called "not good".
+- **Genesis 3:5, 3:22** — the image's strange sequel. The serpent offers *"you will be like God,
+  knowing good and evil"* to creatures already made in his likeness, and God confirms the result:
+  *"the man has become like one of us, knowing good and evil."* A resemblance that was given is
+  supplemented by one that is seized, and the text never says the first is lost — which is why
+  Genesis 9:6 can still ground the prohibition of murder in the image, after the flood, and James
+  3:9 can still say people are *made in the likeness of God*. Whatever Genesis 3 damages, it does
+  not revoke the status of 1:26–27.
 - To trace as ingestion reaches them: Genesis 5:1–3 (Adam fathers a son "in his own likeness,
   after his image" — the image passes down), Genesis 9:6 (the image as the reason murder is
   capital), Psalm 8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's
@@ -45,6 +52,9 @@ dominion given in 1:28, not a reward for exercising it.
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]] — the naming of the animals, and the "not good" of aloneness
+- [[The Fall]] — the likeness offered by the serpent, and confirmed by God in 3:22
+- [[The First Adam and the Last Adam]] — bearing *"the image of the man of dust"* and *"the image
+  of the heavenly"*
 
 ## Related themes
 
@@ -52,6 +62,7 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Blessing]]
 - [[Work]]
 - [[Marriage]]
+- [[Sin]]
 
 ## Related people
 

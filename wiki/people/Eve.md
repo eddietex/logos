@@ -24,28 +24,49 @@ recognition, not naming: *"This is now bone of my bones, and flesh of my flesh."
 narrator draws the union of 2:24, one flesh — a return to the single body she was taken from.
 
 Genesis 2 gives her no words. Her first recorded speech is her conversation with the serpent in
-Genesis 3, and the New Testament's two direct references to her (2 Corinthians 11:3, 1 Timothy
-2:13–14) both look at that scene rather than this one.
+[[The Fall]], where she is the one the serpent addresses, the one who answers for both of them,
+and the one who takes. Her reply misstates the command in three ways at once — dropping its
+generosity, adding a prohibition on *touching*, and softening *"you will surely die"* to *"lest
+you die"* — before the serpent contradicts it outright. She sees the tree as good, beautiful, and
+desirable for wisdom, takes, eats, and gives to her husband, who is *"with her"* and silent
+throughout. Questioned, she states the case without embellishment: *"The serpent deceived me, and
+I ate."*
+
+Her sentence (3:16) falls on the two relations that define her in the narrative — bearing children,
+now in pain, and her husband, now *"he will rule over you"* — and both halves are among the most
+disputed lines in Genesis; the passage notes on [[The Fall]] lay out the readings. Then the man
+names her **Eve**, and the gloss is a wager against everything just said: *the mother of all the
+living*, spoken over a woman who has been told she returns to dust.
+
+The New Testament's two direct references to her (2 Corinthians 11:3, 1 Timothy 2:13–14) both
+look at this scene, and both focus on her being deceived — beside which the narrative's own
+*"with her"* keeps the man in the frame.
 
 ## Timeline / key events
 
 - Built from the man's side and brought to him; the two are naked and unashamed —
   [[The Garden of Eden]]
-- Takes the fruit, is confronted and cursed, and is named Eve — Genesis 3 *(not yet ingested)*
+- Speaks with the serpent, takes the fruit and gives it to her husband, is questioned and
+  sentenced, and is named Eve — [[The Fall]]
 - Bears Cain, Abel, and Seth — Genesis 4 *(not yet ingested)*
 
 ## Appears in
 
 - [[The Garden of Eden]]
+- [[The Fall]]
 - Included, unnamed, in the "male and female" of [[The Creation of the World]]
 
 ## Related people
 
 - [[Adam]] — the man she is taken from and given to
 - [[God]] — who judges his aloneness "not good" and builds her
+- [[The Serpent]] — which speaks to her, and which she names as her deceiver
 
 ## Themes associated
 
 - [[Creation]]
 - [[Image of God]]
 - [[Marriage]]
+- [[Sin]]
+- [[Judgment]]
+- [[Life and Death]]

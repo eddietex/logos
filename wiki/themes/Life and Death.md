@@ -30,10 +30,21 @@ becoming certain, a death that is relational before it is biological, or a sente
 in the act of pronouncing it, Genesis leaves standing — see the notes on
 [[The Garden of Eden]].
 
+**How death actually arrives** is settled in [[The Fall]], and not as a same-day execution. The
+man's sentence returns him to his origin: *"By the sweat of your face will you eat bread until you
+return to the ground, for out of it you were taken. For you are dust, and to dust you shall
+return"* (3:19). Dust plus breath made a living being; death is the sentence read backwards. The
+seal on it is not the eating but the exile — the expulsion is given explicitly so that the man
+cannot *"take of the tree of life, and eat, and live forever"* (3:22). Mortality becomes
+irreversible at the moment access to the remedy is cut off, which means the same act that ends the
+garden is what makes death permanent, and is also framed as preventing something worse.
+
 ## Development across Scripture
 
 - **Genesis 2:7** — life as breath given.
 - **Genesis 2:9, 2:17, 3:22–24** — the tree of life, the death sentence, the barred access.
+- **Genesis 3:19** — *"to dust you shall return"*: death defined as the reversal of 2:7.
+- **Genesis 4:8** *(not yet ingested)* — the sentence first carried out, by a human hand.
 - **Genesis 5** *(not yet ingested)* — the genealogy whose refrain is *"and he died"*, eight times,
   with Enoch as the one exception.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -44,14 +55,21 @@ in the act of pronouncing it, Genesis leaves standing — see the notes on
 ## Key passages
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
+- [[The Fall]] — the return to dust, and the tree of life barred
 - [[The Tree of Life - Eden and the New Jerusalem]] — the tree from 2:9 at the canon's other end
+- [[The First Adam and the Last Adam]] — *"as in Adam all die, so also in Christ all will be made
+  alive"*
 
 ## Related themes
 
 - [[Creation]]
 - [[Blessing]]
+- [[Sin]]
+- [[Curse]]
+- [[Judgment]]
 
 ## Related people
 
 - [[God]]
 - [[Adam]]
+- [[Eve]]

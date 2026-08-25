@@ -120,8 +120,8 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 - [[The Creation of the World]] — Genesis 1:1–2:3, the account this one follows and reframes.
 - [[In the Beginning - Genesis 1 and John 1]] — John 20:22, where the risen Jesus *breathes on*
   the disciples, reaches back to 2:7.
-- Genesis 3:1–24 — the next pericope, which turns every element planted here: the tree, the
-  command, the woman, the nakedness.
+- [[The Fall]] — Genesis 3:1–24, the next pericope, which turns every element planted here: the
+  tree, the command, the woman, the nakedness.
 - Ezekiel 28:13–16 and 31:8–9 — Eden as "the garden of God", used as an image of a fallen king.
 - Isaiah 51:3 — the promise to make Zion's wilderness "like Eden".
 - 1 Corinthians 15:45–49 — "The first man, Adam, became a living soul", quoting 2:7, set against

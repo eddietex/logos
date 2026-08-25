@@ -56,22 +56,47 @@ are one being.
 - **He is anthropomorphic without embarrassment.** He forms, breathes, plants, takes, closes up
   flesh, brings the woman to the man, and in 3:8 walks in the garden in the cool of the day.
 
+### As judge, from Genesis 3
+
+[[The Fall]] shows him responding to disobedience for the first time, and the sequence becomes the
+template for nearly every judgment scene in Scripture — see [[Judgment]].
+
+- **He comes, and he asks.** *"Where are you?"* (3:9) is not a request for information. The
+  questioning descends the chain of the story and requires each party to speak for themselves
+  before any sentence is given. The serpent alone is asked nothing.
+- **He sentences without cursing the humans.** The formula *"cursed are you"* falls on the serpent
+  (3:14) and on the ground (3:17); the man's and the woman's sentences are pronounced without it.
+  See [[Curse]].
+- **He concedes what is true.** *"Behold, the man has become like one of us, knowing good and
+  evil"* (3:22) — the serpent's central claim, granted in God's own words.
+- **He provides for the people he has just sentenced.** He makes coats of skins and clothes them
+  (3:21). Judgment and provision arrive in the same scene, and they will keep doing so: a mark for
+  Cain, an ark for Noah, a call to Abram after Babel.
+- **He limits the damage.** The stated reason for the expulsion is not retribution but prevention
+  — *"lest he reach out his hand, and also take of the tree of life, and eat, and live forever"*
+  (3:22). Endless life in this condition is treated as the thing to be stopped.
+- **He speaks of himself in the plural again** — *"like one of us"*, matching *"let us make man"*
+  of 1:26, at the moment the resemblance is most ambiguous.
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
   [[The Creation of the World]]
 - Forms the man, plants the garden, commands, and builds the woman — [[The Garden of Eden]]
+- Walks in the garden, questions, sentences, clothes, and exiles — [[The Fall]]
 
 ## Appears in
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
+- [[The Fall]]
 
 ## Related people
 
 - Humanity, made in his image — see [[Image of God]]
 - [[Adam]] — formed, breathed into, commissioned, and commanded by him
 - [[Eve]] — built by him and brought to the man
+- [[The Serpent]] — a creature he made, sentenced without being questioned
 
 ## Themes associated
 
@@ -82,3 +107,6 @@ are one being.
 - [[Work]]
 - [[Marriage]]
 - [[Life and Death]]
+- [[Sin]]
+- [[Curse]]
+- [[Judgment]]

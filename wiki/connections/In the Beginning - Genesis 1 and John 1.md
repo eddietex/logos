@@ -49,5 +49,8 @@ week"* (20:1) makes the same point structurally. Compare
 [[Two Creation Accounts - Genesis 1 and Genesis 2]]: John reaches back to both openings of
 Genesis, chapter 1 at his own opening and chapter 2 at his close.
 
-Revisit this page when John 1 and John 20 are ingested, and again for Genesis 3 (the darkness that
-follows the light).
+Revisit this page when John 1 and John 20 are ingested. The Genesis 3 side is now in place —
+[[The Fall]], the darkness that follows the light — and it sharpens the contrast John draws: the
+first humans hide *"among the trees of the garden"* when they hear God walking (3:8), which is
+what John 3:19–20 generalizes as *"men loved the darkness rather than the light… everyone who does
+evil hates the light, and doesn't come to the light."*

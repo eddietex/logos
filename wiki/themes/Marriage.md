@@ -24,15 +24,37 @@ Four things about how it is set up in [[The Garden of Eden]]:
   text says the opposite, putting the new bond ahead of the parental one.
 
 Genesis 2:25 adds the condition the union is created in — *"naked, and they were not ashamed"* —
-which Genesis 3 immediately takes away, making the covering of the body the first visible symptom
-of the fall.
+which [[The Fall]] immediately takes away, making the covering of the body the first visible
+symptom of what has happened.
+
+**How the union fractures**, in the space of one chapter and in the same four terms it was built
+from:
+
+- The counterpart becomes a **defendant**. Asked what he has done, the man answers *"The woman whom
+  you gave to be with me, she gave me fruit"* (3:12) — the woman handed over, and the giver of her
+  blamed behind her.
+- The one flesh becomes **covered**. Fig leaves, then hiding; openness between them is the first
+  casualty, before God even arrives.
+- The recognition becomes **naming**. In 2:23 he identified her; in 3:20 he names her, as he named
+  the animals.
+- *"Bone of my bones"* becomes **desire and rule**: *"Your desire will be for your husband, and he
+  will rule over you"* (3:16). Whether that describes the distortion or prescribes an order is one
+  of the sharpest interpretive forks in Genesis — the readings are laid out in the notes on
+  [[The Fall]]. What is not in dispute is that it appears in a list of things that went wrong,
+  beside thorns and pain, and that nothing in it resembles 2:24.
+
+The New Testament argues marriage from Genesis 2 rather than Genesis 3, which is itself a
+position: Jesus in Matthew 19 goes behind the concessions of the law to *"from the beginning it
+has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 ## Development across Scripture
 
 - **Genesis 1:27–28** — male and female, both bearing the image, together commanded to be
   fruitful.
 - **Genesis 2:18–25** — the institution: the not-good of aloneness, the counterpart, one flesh.
-- **Genesis 3:16** *(not yet ingested)* — the relation distorted: desire and rule.
+- **Genesis 3:16** — the relation distorted: desire and rule. *Tešûqâ* ("desire") recurs in 4:7 of
+  sin crouching at Cain's door, *"its desire is for you, but you are to rule over it"*, which is
+  the main reason many read 3:16 as mutual contest rather than longing.
 - **Matthew 19:4–6 / Mark 10:6–8** — Jesus answers a question about divorce by quoting Genesis
   1:27 *and* 2:24 together, and draws the conclusion the verses do not state: *"What therefore God
   has joined together, don't let man tear apart."*
@@ -47,6 +69,7 @@ of the fall.
 ## Key passages
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
+- [[The Fall]] — the union fractured, and 3:16
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
   2:24
 
@@ -55,6 +78,8 @@ of the fall.
 - [[Creation]]
 - [[Image of God]]
 - [[Blessing]]
+- [[Sin]]
+- [[Judgment]]
 
 ## Related people
 

@@ -193,3 +193,79 @@ fence- and code-span-aware too, matching check 1. Removing that noise also clear
 `{{Title}}` entry from the documented baseline, which was never a template artifact as recorded —
 it was an inline `` `[[Title]]` `` in an earlier log entry. The baseline is now exactly the
 not-yet-started book pages in `wiki/books/index.md`, and nothing else.
+
+## [2026-08-24] ingest | Genesis 3.1-24 — The Fall
+
+Third pericope of Genesis, and the first that required new categories of theme page. Boundary held
+as planned: 3:1 picks up the *ʿārûm* / *ʿărummîm* pun the chapter break cuts in half, and 3:24
+closes the garden for good — Genesis never mentions it again.
+
+Created:
+- `wiki/passages/Genesis/The Fall.md`
+- `wiki/people/The Serpent.md`
+- `wiki/themes/Sin.md`, `Curse.md`, `Judgment.md`
+- `wiki/connections/The Protoevangelium - Genesis 3.15 and the Seed of the Woman.md`
+- `wiki/connections/The First Adam and the Last Adam.md`
+
+Updated: `wiki/people/Adam.md` (present and silent through the conversation; the article finally
+drops from his name at 3:17), `Eve.md` (her misquotation of the command, her sentence, her
+naming), `God.md` (new "As judge, from Genesis 3" section — the come/seek/question/sentence/provide
+sequence), `wiki/places/Eden.md` (the expulsion, and the garden closed), `wiki/themes/Life and
+Death.md` (death defined as 2:7 reversed, sealed by the barred tree rather than by the eating),
+`Blessing.md` (the counter-word now has its own page; 1:28 is never revoked, only made costly),
+`Work.md` (the curse lands on the ground, and 2:15's commission continues outside the garden),
+`Marriage.md` (the union fracturing in the same four terms it was built from), `Image of God.md`
+(a given likeness supplemented by a seized one, and never said to be lost),
+`wiki/connections/The Tree of Life - Eden and the New Jerusalem.md` (the revisit note it was
+holding open for this pericope, now discharged), `In the Beginning - Genesis 1 and John 1.md`
+(same — hiding among the trees, against John 3:19–20),
+`wiki/passages/Genesis/The Garden of Eden.md` (its "next pericope" cross-reference now links to a
+real page), the Genesis book page and index, all four category indexes, and `wiki/index.md`
+counts.
+
+Judgment calls made unattended, for review:
+- **The serpent gets a person page**, not a theme page or a mention. It speaks, is addressed, is
+  sentenced, and is identified by name in later Scripture; `person` is the only page type that
+  fits. The Satan identification is handled there as its own section, with the sources dated,
+  rather than as a connection page — it would have duplicated the person page almost entirely.
+- **Three new theme pages, not four.** `Sin`, `Curse`, and `Judgment` each carry material the
+  existing pages could not absorb. *Shame* was the fourth candidate and was folded into `Sin` and
+  the passage notes instead; it is a real theme but it has one scene so far, and a page with one
+  scene in it is an index entry pretending to be a synthesis. Revisit if it recurs.
+- **Cherubim get no page.** They appear here as guards and next in Exodus 25–26 over the ark;
+  described on the passage and `[[Eden]]` pages as plain text. A page belongs with the tabernacle,
+  where there is something to say about them.
+- Connection page filename uses `3.15` rather than `3:15` — colons are barred from filenames by
+  `CLAUDE.md`, and the existing `In the Beginning - Genesis 1 and John 1` sets the hyphen pattern.
+
+Tensions written out rather than smoothed:
+- **The serpent's claims were largely true.** "Your eyes will be opened" and "you will be like
+  God, knowing good and evil" are both confirmed, the second by God himself in 3:22. Only "You
+  won't really die" is false, and even that is false about timing. Recorded on the passage page
+  and on `[[The Serpent]]` rather than softened.
+- **Genesis 3 identifies the serpent with nothing.** No Satan, no fallen angel, no rebellion. The
+  identification is traced with its sources and dates (Wisdom 2:24, John 8:44, Revelation 12:9,
+  20:2) and the question of whether it draws out or reads in is left open on both pages.
+- **Neither the man nor the woman is cursed.** The `ʾārûr` formula falls on the serpent (3:14) and
+  the ground (3:17) only. Flagged on the passage page, on `[[Curse]]`, and on `[[Work]]`, against
+  the standing phrase "the curse on Adam and Eve".
+- **3:16 — "your desire will be for your husband, and he will rule over you."** Both forks laid
+  out without a verdict: *tešûqâ* read by 4:7 as an appetite to master, and the descriptive vs.
+  prescriptive question about "he will rule", noting only that the sentence sits in a list beside
+  thorns.
+- **3:15 as protoevangelium.** The plain etiological reading and the messianic one are both given
+  with what supports them — the LXX's masculine *autos*, the single verb *šûp* in both halves, the
+  Vulgate's *ipsa* as a translation error with an iconographic afterlife.
+- **Romans 5:12's *eph' hō*** — "because" vs. Augustine's *in quo* ("in whom"), and the
+  East/West split between inherited mortality and inherited guilt, recorded on
+  `[[The First Adam and the Last Adam]]` with the note that every universalizing move in the
+  typology is Paul's, not Genesis's.
+- **"The fall" and "sin" are both absent from the chapter.** *ḥaṭṭāʾt* first appears at 4:7. Noted
+  on the passage page and on `[[Sin]]`.
+
+Deliberately left for later pericopes: Cain and Abel (4:1–16) is referenced from four pages as
+plain text, since the *tešûqâ* of 3:16 recurs at 4:7 and the death sentenced here is first carried
+out there. Revisit notes filed on both new connection pages for Genesis 12, 22, and 49, Romans 5
+and 16, 1 Corinthians 15, Galatians 4, Hebrews 2, and Revelation 12.
+
+`scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages.

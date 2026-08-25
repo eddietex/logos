@@ -25,28 +25,41 @@ produce one — a counterpart. He names every creature, which is the dominion of
 being exercised; he does not name the woman, but recognises her in the first human speech in
 Scripture, a two-line poem.
 
+In [[The Fall]] he is beside the woman for the whole conversation with the serpent — the Hebrew
+*ʿimmāh*, *"her husband with her"* (3:6), places him there — and says nothing. He eats when the
+fruit is handed to him. Questioned, his first recorded words after the poem of 2:23 are a
+deflection that runs through his wife and lands on God: *"The woman whom you gave to be with me,
+she gave me fruit from the tree, and I ate it."* The sentence pronounced over him falls on the
+ground rather than on him — it is cursed *for his sake* — and returns him to the dust he was made
+from. Then, immediately after being told he will die, he names his wife **Eve**, for *living*.
+The article finally drops from his name in the same chapter: 3:17 reads *"To Adam he said"*.
+
 Later Scripture makes him a corporate figure. Paul reads him as the head of a humanity under
 death, set against Christ as the head of a humanity under life (Romans 5:12–21, 1 Corinthians
-15:21–22, 45–49) — the "first Adam" and the "last Adam". Luke's genealogy runs Jesus's descent all
-the way back to *"Adam, the son of God"* (Luke 3:38).
+15:21–22, 45–49) — the "first Adam" and the "last Adam"; see
+[[The First Adam and the Last Adam]]. Luke's genealogy runs Jesus's descent all the way back to
+*"Adam, the son of God"* (Luke 3:38).
 
 ## Timeline / key events
 
 - Formed from dust and given the breath of life; placed in the garden to cultivate and keep it;
   names the animals; receives the woman — [[The Garden of Eden]]
-- Eats from the forbidden tree, is cursed and exiled from the garden — Genesis 3 *(not yet
-  ingested)*
+- Eats from the forbidden tree, blames the woman, hears the ground cursed for his sake, names
+  Eve, is clothed by God, and is driven out of the garden — [[The Fall]]
 - Fathers Cain, Abel, and Seth; dies at 930 — Genesis 4–5 *(not yet ingested)*
 
 ## Appears in
 
 - [[The Garden of Eden]]
+- [[The Fall]]
 - Named as humanity, not yet as an individual, in [[The Creation of the World]]
 
 ## Related people
 
 - [[God]] — who forms him, breathes into him, commands him, and provides for his aloneness
-- [[Eve]] — built from his side; *"bone of my bones, and flesh of my flesh"*
+- [[Eve]] — built from his side; *"bone of my bones, and flesh of my flesh"*; the one he hands
+  over under questioning in 3:12 and then names in 3:20
+- [[The Serpent]] — which never addresses him, though he is present throughout
 
 ## Themes associated
 
@@ -55,3 +68,6 @@ the way back to *"Adam, the son of God"* (Luke 3:38).
 - [[Work]]
 - [[Marriage]]
 - [[Life and Death]]
+- [[Sin]]
+- [[Curse]]
+- [[Judgment]]

@@ -42,7 +42,7 @@ merge, or reorder them freely.
 
 - [x] [[The Creation of the World]] — Genesis 1:1–2:3
 - [x] [[The Garden of Eden]] — Genesis 2:4–25
-- [ ] The Fall — Genesis 3:1–24
+- [x] [[The Fall]] — Genesis 3:1–24
 - [ ] Cain and Abel — Genesis 4:1–16
 - [ ] The Line of Cain and the Birth of Seth — Genesis 4:17–26
 - [ ] From Adam to Noah — Genesis 5:1–32
@@ -114,10 +114,17 @@ merge, or reorder them freely.
 - [[Image of God]]
 - [[Blessing]]
 - [[Sabbath]]
+- [[Sin]]
+- [[Curse]]
+- [[Judgment]]
 
 ## Key people
 
 - [[God]]
+- [[Adam]]
+- [[Eve]]
+- [[The Serpent]]
 
 ## Key places
--
+
+- [[Eden]]

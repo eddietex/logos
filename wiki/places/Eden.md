@@ -40,7 +40,10 @@ Revelation closes the canon with the tree of life growing again beside a river, 
 ## Appears in
 
 - [[The Garden of Eden]] — planted, described, and given to the man to work and guard
-- Genesis 3 *(not yet ingested)* — the tempting, the judgment, and the expulsion east of the garden
+- [[The Fall]] — the tempting, the judgment, and the expulsion east of the garden. This is where
+  Eden stops being a place anyone can be: cherubim and a flaming sword are stationed at its
+  eastern entrance *"to guard the way to the tree of life"* (3:24), the first thing in Scripture
+  closed off from human beings. Genesis never mentions the garden again.
 
 ## Related places
 
@@ -58,3 +61,9 @@ Revelation closes the canon with the tree of life growing again beside a river, 
 - The command concerning the tree of the knowledge of good and evil (2:16–17)
 - The animals are formed and brought to the man to be named (2:19–20)
 - The woman is built from the man's side and brought to him (2:21–22)
+- The serpent's conversation with the woman, and the eating from the forbidden tree (3:1–7)
+- God walks in the garden in the cool of the day; the man and woman hide among its trees (3:8)
+- The questioning and the sentences on the serpent, the woman, and the man (3:9–19)
+- God clothes the man and woman in coats of skins (3:21)
+- The expulsion eastward, and the posting of cherubim and a flaming sword at the entrance
+  (3:22–24)

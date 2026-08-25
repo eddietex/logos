@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Garden of Eden]] — Genesis 2:9
-- Genesis 3:22–24 *(not yet ingested)*
+- [[The Fall]] — Genesis 3:22–24
 - Revelation 2:7 · 22:2, 14, 19 *(not yet ingested)*
 
 ## Analysis
@@ -28,6 +28,13 @@ flaming sword are stationed at the east of the garden — not to keep them from 
 knowledge, which they have already eaten from, but from the tree of life. Endless life in a
 fallen condition is treated as a fate to be prevented, which reframes the expulsion as at least
 partly mercy.
+
+Now that [[The Fall]] is ingested, two details in that verse are worth holding onto. First, God's
+sentence **breaks off unfinished** — *"and eat, and live forever—"* — and the expulsion completes
+it as an action rather than a word; the guarding of the tree *is* the rest of the sentence.
+Second, the tree of knowledge is never mentioned again after 3:11. Only the tree of life is
+guarded, only the tree of life has a sequel, and the whole canon's return route runs past the
+cherubim posted here.
 
 **Revelation 2:7** reopens it as a promise: *"To him who overcomes I will give to eat from the
 tree of life, which is in the Paradise of God."* Note *paradeisos*, the Septuagint's word for the
@@ -61,4 +68,6 @@ tree as an image the New Testament can use in a third way: Acts 5:30, 10:39, 13:
 3:13, and 1 Peter 2:24 all call the cross a *tree* (*xylon*) — the same word Revelation 22:2 uses
 for the tree of life — so that the way back to the tree runs through one.
 
-Revisit when Genesis 3 is ingested (the guarding of the tree) and again for Revelation 22.
+Revisit for Revelation 2 and 22, and for the *xylon* passages in Acts, Galatians, and 1 Peter.
+See also [[Curse]] — Revelation 22:3, *"there will be no curse any more"*, stands in the same
+breath as the tree's restoration, undoing Genesis 3:14–19 in the same verses that undo 3:24.
