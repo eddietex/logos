@@ -33,15 +33,20 @@ and Luke 3:38 names him (as *Enos*) four steps from the top of Jesus's genealogy
 
 - Born to Seth; in his time *"men began to call on Yahweh's name"* —
   [[The Line of Cain and the Birth of Seth]]
-- Fathers Kenan; dies at 905 — Genesis 5:6–11 *(not yet ingested)*
+- Born to Seth at 105; fathers Kenan at 90, then other sons and daughters; dies at 905 —
+  [[From Adam to Noah]]
 
 ## Appears in
 
 - [[The Line of Cain and the Birth of Seth]]
+- [[From Adam to Noah]] — the third entry in the register, with the formal numbers Genesis 4:26
+  withheld. The chapter says nothing about people calling on Yahweh's name; that note belongs to the
+  other genealogy.
 
 ## Related people
 
 - [[Seth]] — his father
+- [[Kenan]] — his son
 - [[Adam]] and [[Eve]] — his grandparents
 - [[God]] — whose name is called on in his generation
 

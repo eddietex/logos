@@ -75,6 +75,9 @@ she hoped at 4:1 has been buried and re-lodged. See [[The Line of Cain and the B
 - [[The Line of Cain and the Birth of Seth]] — she speaks its second-to-last verse, and it is her
   last recorded sentence in Scripture
 - Included, unnamed, in the "male and female" of [[The Creation of the World]]
+- Present again only as a plural in [[From Adam to Noah]] — *"He created them male and female, and
+  blessed them. On the day they were created, he named them 'Adam'"* (5:2). The register names ten
+  fathers and no mothers; she is the last woman it acknowledges, and it does so without her name.
 
 ## Related people
 

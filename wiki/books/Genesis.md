@@ -45,7 +45,7 @@ merge, or reorder them freely.
 - [x] [[The Fall]] — Genesis 3:1–24
 - [x] [[Cain and Abel]] — Genesis 4:1–16
 - [x] [[The Line of Cain and the Birth of Seth]] — Genesis 4:17–26
-- [ ] From Adam to Noah — Genesis 5:1–32
+- [x] [[From Adam to Noah]] — Genesis 5:1–32
 - [ ] The Sons of God and the Corruption of the Earth — Genesis 6:1–8
 - [ ] Noah and the Flood — Genesis 6:9–7:24
 - [ ] The Waters Recede — Genesis 8:1–22
@@ -120,6 +120,7 @@ merge, or reorder them freely.
 - [[Sacrifice and Offering]]
 - [[Vengeance]]
 - [[City and Civilization]]
+- [[Walking with God]]
 
 ## Key people
 
@@ -130,6 +131,9 @@ merge, or reorder them freely.
 - [[Cain]]
 - [[Abel]]
 - [[Seth]]
+- [[Enoch (son of Jared)]]
+- [[Methuselah]]
+- [[Noah]]
 
 ## Key places
 

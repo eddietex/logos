@@ -43,8 +43,8 @@ which may be the point of the naming, or may be another of Genesis's sound-plays
 
 - [[Cain]] — his father, and by the plain reading the builder of the city that carries his name
 - [[Lamech (son of Methushael)]] — his descendant four generations on, where the line stops
-- Enoch the son of Jared — his namesake in Seth's line, whose fate is the opposite of everything
-  this line produces
+- [[Enoch (son of Jared)]] — his namesake in Seth's line, whose fate is the opposite of everything
+  this line produces: one Enoch has a place named for him, the other leaves the place entirely
 
 ## Themes associated
 

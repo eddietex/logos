@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Genesis 4:17–26** — the line of Cain, seven generations to Lamech; then Seth and Enosh —
   [[The Line of Cain and the Birth of Seth]]
-- **Genesis 5:1–32** *(not yet ingested)* — the line of Seth, ten generations to Noah, with ages
-  and deaths
+- **Genesis 5:1–32** — the line of Seth, ten generations to Noah, with ages and deaths —
+  [[From Adam to Noah]]
 
 ## Analysis
 
@@ -101,6 +101,17 @@ Ishmael and Isaac, Esau and Jacob, and the sons of Leah and Rachel. Here it esta
 in its simplest form — nearly the same names, opposite outcomes — and hands the reader the job of
 noticing.
 
-It also settles the wiki's naming: the two Enochs and the two Lamechs are distinct pages, qualified
-by parentage. See [[Enoch (son of Cain)]] and [[Lamech (son of Methushael)]]; their Sethite
-namesakes get pages when Genesis 5 is ingested.
+It also settles the wiki's naming: the two Enochs and the two Lamechs are distinct pages. See
+[[Enoch (son of Cain)]] and [[Enoch (son of Jared)]], qualified by parentage; and
+[[Lamech (son of Methushael)]] beside [[Lamech (father of Noah)]], where the Sethite page is
+titled by his son rather than his father, because *Methushael* and *Methuselah* differ by two
+letters and the pair has to stay legible inside a link.
+
+**One more inversion, visible only once Genesis 5 is in.** The two lines end on opposite kinds of
+word. Cain's runs to a man who says *"I have slain a man for wounding me… truly Lamech
+seventy-seven times"* (4:23–24). Seth's runs to a man who says *"This one will comfort us in our
+work and in the toil of our hands, caused by the ground which Yahweh has cursed"* (5:29). Those are
+the only two human speeches in either genealogy, both are made by a Lamech, and one is about taking
+life while the other is about relieving it. The Sethite Lamech's recorded lifespan is 777 years
+(5:31), against his namesake's claim to seventy-seven — a symmetry Genesis never points at and
+almost certainly built. See [[Comfort from the Cursed Ground - Naming Noah]].

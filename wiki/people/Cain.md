@@ -53,6 +53,14 @@ protection God gave Cain into a seventy-sevenfold boast. Then the narrative drop
 comment and never returns to it. See [[The Line of Cain and the Birth of Seth]],
 [[Enoch (city)]], and [[City and Civilization]].
 
+The drop is more pointed than it looks. The very next passage, [[From Adam to Noah]], is headed
+*"the book of the generations of Adam"* and runs Adam → Seth → Enosh → Noah without mentioning that
+Adam had older sons, or that one of them killed the other. Cain is not condemned there; he is simply
+not entered. Whether that is what a line of descent always does — record the branch that continues —
+or a deliberate erasure, or the seam between two sources, is set out on
+[[Two Lines from Adam - Cain's Genealogy and Seth's]]. The effect is not in doubt: after Genesis
+4:24 his line is never traced again anywhere in Scripture.
+
 ## Timeline / key events
 
 - Born to Adam and Eve; becomes a tiller of the ground — [[Cain and Abel]]
@@ -68,6 +76,7 @@ comment and never returns to it. See [[The Line of Cain and the Birth of Seth]],
 - [[Cain and Abel]]
 - [[The Line of Cain and the Birth of Seth]] — named in its first verse and its last mention of him;
   the rest of the line is his descendants'
+- Pointedly *not* in [[From Adam to Noah]], where the register of Adam's generations begins at Seth
 
 ## Related people
 

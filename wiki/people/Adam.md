@@ -53,7 +53,9 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   Eve, is clothed by God, and is driven out of the garden — [[The Fall]]
 - Fathers Cain and Abel, and loses both on the same day — [[Cain and Abel]]
 - Fathers Seth — [[The Line of Cain and the Birth of Seth]]
-- Born again into the record with ages attached; dies at 930 — Genesis 5:1–5 *(not yet ingested)*
+- Entered a second time into the record, now with ages attached: fathers Seth at 130 *"in his own
+  likeness, after his image"*, fathers other sons and daughters, and dies at 930 —
+  [[From Adam to Noah]]
 
 ## Appears in
 
@@ -65,6 +67,10 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   sentence in which the Hebrew uses *ʾādām* as a plain personal name without the definite article.
   The word finishes becoming a name here; Genesis 5:1–5 completes the transition.
 - Named as humanity, not yet as an individual, in [[The Creation of the World]]
+- [[From Adam to Noah]] — the register is titled *"the book of the generations of Adam"*, and its
+  first three verses hold both senses of his name at once: 5:2 calls the male-and-female pair
+  *ʾādām*, and 5:3 uses the same word of one man who lived 930 years. The transition begun at 3:17
+  and continued at 4:25 finishes here.
 
 ## Related people
 
@@ -74,7 +80,11 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
 - [[The Serpent]] — which never addresses him, though he is present throughout
 - [[Cain]] and [[Abel]] — his first two sons, one a farmer like himself and one a shepherd
 - [[Seth]] — his third son, born after he loses the first two, and the one every later genealogy
-  runs through
+  runs through; fathered *"in his own likeness, after his image"* (5:3), the only verse in Scripture
+  that applies the language of Genesis 1:26 to human descent
+- [[Noah]] — ten generations down, and the first man in the line who never overlapped him: Adam dies
+  126 years before Noah is born, while [[Lamech (father of Noah)]] is the last of the ten who could
+  have met him
 
 ## Themes associated
 

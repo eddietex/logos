@@ -118,6 +118,20 @@ me another child"*, 4:25 — *ʾĕlōhîm*, where at 4:1 she said *Yahweh*), and
 began to call on Yahweh's name"* (4:26). In the chapter's final line God is not a speaker but the
 one spoken to. See [[Calling on the Name of Yahweh]].
 
+### He is named but not quoted, Genesis 5:1–32
+
+[[From Adam to Noah]] extends the silence in a different key. God is present in the register's frame
+— he *created*, he *made*, he *blessed*, he *named* (5:1–2) — and then, across thirty verses and ten
+generations, he does exactly one thing: *"Enoch walked with God, and he was not found, for God took
+him"* (5:24). He speaks nowhere in the chapter. He is called *ʾĕlōhîm* throughout, and the name
+**Yahweh** occurs once only, inside Lamech's quoted sentence about *"the ground which Yahweh has
+cursed"* (5:29) — so the two moments the register gives him are a man taken and a curse still in
+force.
+
+That pairing is the chapter's whole theology of God, delivered without a word from him: he is the
+one who can interrupt the sequence of deaths, and he is the one whose sentence on the ground is
+still being felt nine generations later. See [[Walking with God]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -129,6 +143,8 @@ one spoken to. See [[Calling on the Name of Yahweh]].
 - Absent from the whole of Cain's genealogy; returns only as the one Eve credits with Seth's birth
   and the one whose name people begin to call on —
   [[The Line of Cain and the Birth of Seth]]
+- Creates, blesses, and names humanity in the register's opening frame, then takes Enoch — the one
+  act in ten generations, and his only appearance in the chapter's body — [[From Adam to Noah]]
 
 ## Appears in
 
@@ -137,6 +153,7 @@ one spoken to. See [[Calling on the Name of Yahweh]].
 - [[The Fall]]
 - [[Cain and Abel]]
 - [[The Line of Cain and the Birth of Seth]] — by absence for eight verses, then in two
+- [[From Adam to Noah]] — named in the frame, silent throughout, and acting once, at 5:24
 
 ## Related people
 
@@ -148,9 +165,14 @@ one spoken to. See [[Calling on the Name of Yahweh]].
 - [[Abel]] — whose offering he respects and whose blood he hears
 - [[Seth]] and [[Enosh]] — the birth Eve credits to him, and the generation that starts calling on
   his name
+- [[Enoch (son of Jared)]] — who *"walked with God"* for three hundred years and was taken rather
+  than buried; the only person God acts on in Genesis 5
+- [[Noah]] — named in hope of relief from the ground God cursed, and the second man said to walk
+  with him
 
 ## Themes associated
 
+- [[Walking with God]]
 - [[Creation]]
 - [[Image of God]]
 - [[Blessing]]

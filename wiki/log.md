@@ -486,3 +486,108 @@ are plain-text references, not links, so nothing dangles.
 `scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages. All
 ten verses of the pericope were checked mechanically against `raw/bible/Genesis.md` and quote it
 verbatim.
+
+## [2026-08-25] ingest | Genesis 5.1-32 — From Adam to Noah
+
+Sixth pericope of Genesis, run unattended. Boundary held as planned: 5:1's *toledot* formula opens
+the unit and 5:32 closes it on Noah's three sons, with 6:1's *"when men began to multiply"* starting
+the next box cleanly. The chapter was kept whole rather than split at Enoch — the register's force
+comes from the repetition, and the two entries that break the form (Enoch at 5:24, Lamech at 5:29)
+only read as breaks against the eight that do not.
+
+Created:
+- `wiki/passages/Genesis/From Adam to Noah.md`
+- `wiki/people/Kenan.md`, `Mahalalel.md`, `Jared.md`, `Enoch (son of Jared).md`, `Methuselah.md`,
+  `Lamech (father of Noah).md`, `Noah.md`
+- `wiki/themes/Walking with God.md`
+- `wiki/connections/The Taking of Enoch - Genesis 5.24 in Hebrews and Jude.md`
+- `wiki/connections/Comfort from the Cursed Ground - Naming Noah.md`
+- `wiki/connections/From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke.md`
+
+Updated: `wiki/people/Adam.md` (5:1–3 finishing the word's passage into a name, and the image
+transmitted to Seth), `Seth.md` (5:3, and Genesis 5 treating him as Adam's first son), `Enosh.md`
+(the formal entry Genesis 4:26 withheld), `Eve.md` (present only as the plural of 5:2; the register
+names ten fathers and no mothers), `God.md` (new "He is named but not quoted" section — silent
+across thirty verses, acting once, at 5:24), `Cain.md` (his omission from the book of Adam's
+generations, with the three readings of it), `Enoch (son of Cain).md` and
+`Lamech (son of Methushael).md` (their Sethite namesakes now exist and are linked),
+`wiki/themes/Life and Death.md` (the refrain, and the two entries that omit it), `Image of God.md`
+(5:3 as the one verse where the image passes father to son, with the Augustinian reading marked as
+resting on Romans 5:12 rather than on this verse), `Curse.md` (5:29 as the only place anyone is
+shown hoping the curse will lift), `Blessing.md` (the register as 1:28 being carried out),
+`Creation.md` (5:1–2 as the Bible's first self-quotation of its creation account),
+`wiki/connections/Two Lines from Adam - Cain's Genealogy and Seth's.md` (its Genesis 5 forward
+reference is now a link, plus the two Lamech speeches as the lines' opposite endings),
+`wiki/passages/Genesis/The Line of Cain and the Birth of Seth.md` (same forward reference), the
+Genesis book page and index, `wiki/people/index.md`, `themes/index.md`, `connections/index.md`, and
+`wiki/index.md` counts.
+
+Judgment calls made unattended, for review:
+- **The Sethite Lamech's page is titled `Lamech (father of Noah)`, not `Lamech (son of
+  Methuselah)`.** Every other disambiguation in the wiki is by parentage, and the parentage form
+  here would sit two letters away from `Lamech (son of Methushael)` — a pair no reader will keep
+  apart inside a link. Clarity was preferred to consistency, and the departure is written onto the
+  page itself so it does not look like an oversight. The Enochs keep the parentage form
+  (`Enoch (son of Cain)` / `Enoch (son of Jared)`), which is unambiguous.
+- **Seven of the chapter's fourteen named people got pages; Shem, Ham, and Japheth did not.** The
+  ten generations of the register each got one, on the grounds that a genealogy's whole content is
+  its names and a name with no page cannot be linked from the theme and connection pages that need
+  it. Noah's three sons are named once, at 5:32, and do nothing; they are referred to in plain text
+  and get pages when the flood narrative makes them people. Nothing dangles as a result.
+- **A chronology table was put on the passage page.** Genesis never does the arithmetic, so the
+  table is labelled as not part of what the text asserts, and every figure in it was computed from
+  the raw verses rather than recalled. It earns its place because three of the chapter's most
+  discussed features — Methuselah dying in the flood year, Lamech dying five years short of it, and
+  every generation from Adam to Lamech being alive at once — are invisible without it.
+- **A new theme page, `Walking with God`,** rather than folding 5:22–24 into `Life and Death`. The
+  idiom is used of exactly two men, is picked up by Micah and Hebrews, and becomes the New
+  Testament's ordinary metaphor for the Christian life; it needed somewhere to live before Genesis
+  6:9 arrives.
+
+Contested points recorded rather than resolved:
+- **What Genesis 5:3 transmits.** That the *image* passes is stated by the verse and confirmed
+  independently at 9:6 and James 3:9. That *fallenness* passes with it is the standard Augustinian
+  and Reformed reading, and the page says plainly that its load-bearing text is Romans 5:12, not
+  this one — what invites the darker reading here is the placement, not the wording.
+- **The lifespans.** Four readings given — literal, symbolic/numerological, a different unit, and
+  honorific — with the "months" harmonization marked as failing immediately (Enoch fathering at 65
+  months would make him five). The Sumerian King List is named as the standard comparison, with
+  both inferences that get drawn from it (a shared demythologized tradition; a sober record beside
+  an inflated one) left standing.
+- **The Masoretic, Septuagint, and Samaritan numbers do not agree**, and the passage page says so
+  before presenting the table — so the Methuselah-and-the-flood coincidence is flagged as a feature
+  of one textual tradition rather than of "the Bible's numbers". Ussher's 4004 BC is named as
+  resting on the same figures.
+- **Methuselah's name.** The popular gloss *"when he dies, it shall be sent"* is recorded as a
+  homiletic reconstruction requiring a verb form the name does not have, with the defensible
+  parsings given. The date coincidence is kept; the etymology is not used to support it.
+- **Enoch 5:24.** The minority reading — that *"God took him"* is a delicate way of reporting an
+  early death — is stated as grammatically available and then given its actual standing: essentially
+  no support in the reception history, and the deciding argument is structural, since the chapter
+  has a formula for dying and declines to use it.
+- **Hebrews 11:5 depends on the Septuagint.** The connection page states that the Hebrew does not
+  say Enoch had faith, that the Greek renders *"walked with God"* as *"pleased God"*, and that
+  Hebrews reads the second as evidence of the first — a legitimate inference, and an inference. Jude
+  quoting *1 Enoch* 1:9 is recorded with the canon question left open and the Ethiopian Orthodox
+  canon noted.
+- **Whether Genesis 5 has gaps.** Both sides given, and the usual gaps argument is noted as working
+  much better on Genesis 11 and Matthew 1 than on this list, because Genesis 5's ages are what make
+  it additive at all. Matthew 1:17's own openly stated omissions are the evidence that biblical
+  genealogies can be selective by design.
+- **Whether Lamech's hope at 5:29 is answered.** Three partial answers kept side by side — 8:21
+  (the curse capped, not lifted), 9:20 (comfort arriving as a vineyard, in the same paragraph that
+  ends with a drunk man and a curse), and not-yet (Romans 8:20–21, Revelation 22:3). The
+  typological reading of 5:29 as proto-messianic is named and flagged as more than Genesis says.
+- **777 against seventy-seven.** The two Lamechs' numbers are recorded as very likely design, given
+  how much else in Genesis 4–5 is paired, and explicitly as undemonstrable.
+
+Deliberately left for later pericopes, all as plain-text references rather than links, so nothing
+dangles: Shem, Ham, and Japheth (Genesis 6–10), Noah's righteousness and *"walked with God"* at 6:9,
+the hundred and twenty years of 6:3, God's promise at 8:21 and the vineyard at 9:20, the second
+ten-generation register at 11:10–26, Elijah at 2 Kings 2, and Hebrews 11:5, Jude 14–15, Matthew 1:1
+and Luke 3:36–38 in the New Testament.
+
+`scripts/link-check.sh` clean, against the documented baseline of 65 not-yet-started book pages.
+All thirteen verses quoted on the passage page were checked mechanically against
+`raw/bible/Genesis.md` and match it verbatim, and every figure in the chronology table was recomputed
+from the raw verses.

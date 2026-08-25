@@ -36,6 +36,12 @@ Genesis 1 sets four load-bearing claims:
   are complementary perspectives, joined sources, or a deliberate juxtaposition is the classic
   question — see [[Two Creation Accounts - Genesis 1 and Genesis 2]]. The canonical text preserves
   both without harmonizing them.
+- **Genesis 5:1–2** — the first time Scripture quotes its own creation account. The register of
+  Adam's generations does not resume from Genesis 4:26; it reaches back past the murder, past the
+  fall, past the garden, and restates Genesis 1:27–28 in two verses: *"In the day that God created
+  man, he made him in God's likeness. He created them male and female, and blessed them."* Creation
+  becomes a *heading* — the thing every later generation is filed under — and the effect is to put
+  the image and the blessing over a chapter otherwise made of deaths. See [[From Adam to Noah]].
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -44,6 +50,7 @@ Genesis 1 sets four load-bearing claims:
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
+- [[From Adam to Noah]] — 5:1–2, Genesis 1 quoted back as the frame for a genealogy
 
 ## Related themes
 

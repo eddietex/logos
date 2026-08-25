@@ -178,8 +178,8 @@ bearing — the story has finally travelled far enough east that it has stopped 
   altars to Joel 2:32 and Romans 10:13.
 - [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] — Seth as the *"another seed"*
   of 4:25, and the line of promise restarted after its first candidate murdered its second.
-- Genesis 5:1–32 — the next pericope: the Sethite genealogy told again, formally, with ages and
-  deaths, and with Enoch and Lamech reappearing as different men.
+- [[From Adam to Noah]] — Genesis 5:1–32, the next pericope: the Sethite genealogy told again,
+  formally, with ages and deaths, and with Enoch and Lamech reappearing as different men.
 - Genesis 6:1–8; 7:21–23 — where Cain's line ends. Genesis never says so, but nothing in it is
   traced past the flood.
 - Genesis 12:8; 13:4; 21:33; 26:25 — Abram and Isaac *"calling on Yahweh's name"*, the phrase of

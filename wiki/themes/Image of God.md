@@ -42,17 +42,30 @@ dominion given in 1:28, not a reward for exercising it.
   Genesis 9:6 can still ground the prohibition of murder in the image, after the flood, and James
   3:9 can still say people are *made in the likeness of God*. Whatever Genesis 3 damages, it does
   not revoke the status of 1:26–27.
-- To trace as ingestion reaches them: Genesis 5:1–3 (Adam fathers a son "in his own likeness,
-  after his image" — the image passes down), Genesis 9:6 (the image as the reason murder is
-  capital), Psalm 8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's
-  turn to Christ as *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3) into which
-  people are remade (Romans 8:29).
+- **Genesis 5:1–3** — the image is transmitted. The register of Adam's generations opens by
+  restating 1:26–27 (*"In the day that God created man, he made him in God's likeness"*), and then
+  says of the first human birth it records: *"Adam… became the father of a son in his own likeness,
+  after his image, and named him Seth."* The two nouns of 1:26 return in reversed order with the
+  referent changed — there God makes man in his image, here man fathers a son in his — and nothing
+  else in the Bible says this. It settles the question Genesis 3 raised: the image survives the
+  fall and travels down the list, which is why 9:6 can ground the prohibition of murder in it after
+  the flood, and James 3:9 can still appeal to it. What Genesis 5:3 does *not* say is whether
+  anything else is transmitted with it. The Augustinian and Reformed reading — that Seth inherits
+  Adam's corrupted state and not merely his status — rests on Romans 5:12, not on this verse; what
+  invites it here is the placement, a sentence about resemblance set at the head of a chapter whose
+  refrain is *"then he died."* See [[From Adam to Noah]].
+- To trace as ingestion reaches them: Genesis 9:6 (the image as the reason murder is capital), Psalm
+  8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's turn to Christ as
+  *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3) into which people are remade
+  (Romans 8:29).
 
 ## Key passages
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]] — the naming of the animals, and the "not good" of aloneness
 - [[The Fall]] — the likeness offered by the serpent, and confirmed by God in 3:22
+- [[From Adam to Noah]] — 5:1–3, the one place in Scripture where the image passes from a human
+  father to a human son
 - [[The First Adam and the Last Adam]] — bearing *"the image of the man of dust"* and *"the image
   of the heavenly"*
 
@@ -63,9 +76,11 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Work]]
 - [[Marriage]]
 - [[Sin]]
+- [[Life and Death]]
 
 ## Related people
 
 - [[God]]
 - [[Adam]]
 - [[Eve]]
+- [[Seth]] — the first human being said to be fathered in his father's image and likeness

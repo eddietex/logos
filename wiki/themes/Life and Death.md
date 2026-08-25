@@ -47,6 +47,20 @@ under and becomes something people do to each other, which is why 4:10 gives blo
 treats bloodshed as a thing the land itself registers (Genesis 9:5–6, Numbers 35:33,
 Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove the word.
 
+**Then the theme becomes a refrain.** [[From Adam to Noah]] is where Genesis stops arguing about
+death and simply records it. Ten entries, eight of them ending in the same three words — *"then he
+died"* — against lifespans of nine centuries that lose every time. Nothing is explained; the
+sentence of 2:17 and 3:19 is converted from a threat into a column of totals, and the reader is made
+to feel it by repetition rather than by assertion. Methuselah lives longer than any human being in
+Scripture, 969 years, and his entry ends the way all of them end.
+
+The two entries that omit the refrain are what the chapter is for. [[Enoch (son of Jared)]] *"walked
+with God, and he was not found, for God took him"* (5:24) — subtracted from the list rather than
+removed from it, and the first hint anywhere in the Bible that the sentence can be interrupted. And
+[[Noah]] is left open: an age, three sons, and no total, because his story has not happened yet. So
+Genesis 5 states the rule eight times and breaks it twice, which is the shape the theme keeps for
+the rest of the canon.
+
 ## Development across Scripture
 
 - **Genesis 2:7** — life as breath given.
@@ -59,8 +73,14 @@ Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove th
   which is seven lifetimes passing without a word about any of them, and it ends with a man claiming
   a further killing. Against that, 4:25 puts a birth in the place of a death — Seth given
   *"instead of Abel"*.
-- **Genesis 5** *(not yet ingested)* — the genealogy whose refrain is *"and he died"*, eight times,
-  with Enoch as the one exception.
+- **Genesis 5:1–32** — the genealogy whose refrain is *"then he died"*, eight times, with Enoch
+  taken instead (5:24) and Noah's entry left unclosed (5:32). Also the chapter's other quiet
+  argument: 5:1–2 puts the whole register under the blessing of 1:28, so the *"other sons and
+  daughters"* of each entry are life continuing under sentence, not in spite of it.
+- **Genesis 6:3** *(not yet ingested)* — *"his days will be one hundred twenty years"*, three verses
+  after the chapter of nine-hundred-year lives.
+- **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
+  years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
   30:15–20; Sheol in the Psalms and Job; the valley of dry bones (Ezekiel 37); resurrection in
   Daniel 12:2; Jesus as "the life" (John 11:25, 14:6); Romans 5:12–21 and 6:23 (*"the wages of sin
@@ -73,6 +93,9 @@ Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove th
 - [[Cain and Abel]] — the first death, and the first blood to cry out
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted of; and a birth named for
   the brother it replaces
+- [[From Adam to Noah]] — *"then he died"*, eight times, and the two entries that do not say it
+- [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is
+  taken instead of buried, and what the New Testament makes of him
 - [[Cain and Abel in the New Testament]] — Abel *"being dead, still speaks"*, and the blood that
   speaks better than his
 - [[The Tree of Life - Eden and the New Jerusalem]] — the tree from 2:9 at the canon's other end
@@ -96,3 +119,6 @@ Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove th
 - [[Cain]]
 - [[Seth]]
 - [[Lamech (son of Methushael)]]
+- [[Enoch (son of Jared)]]
+- [[Methuselah]]
+- [[Noah]]

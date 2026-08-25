@@ -57,8 +57,15 @@ the same verses that put the tree of life back in reach (see
 - **Genesis 3:14, 3:17** — the serpent and the ground; the first two curses in Scripture.
 - **Genesis 4:11** — Cain cursed from the ground: the first human being under the *ʾārûr* formula,
   and the ground's resistance become refusal.
-- **Genesis 5:29; 8:21** *(not yet ingested)* — the hope of relief from the cursed ground; God's
-  promise never again to curse it because of humanity.
+- **Genesis 5:29** — ten generations on, the curse is still what the ground feels like. Lamech names
+  his son **Noah** *"saying, 'This one will comfort us in our work and in the toil of our hands,
+  caused by the ground which Yahweh has cursed'"*: the only mention of the curse and the only human
+  sentence in a chapter of thirty-two verses, and the only occurrence in it of the name *Yahweh*. It
+  is also the first time anyone in Scripture is shown *hoping the curse will lift* — the curse
+  treated as a condition with an end, rather than as the weather. See [[From Adam to Noah]] and
+  [[Comfort from the Cursed Ground - Naming Noah]].
+- **Genesis 8:21** *(not yet ingested)* — God's promise never again to curse the ground because of
+  humanity: the answer to 5:29, given to the man 5:29 named.
 - **Genesis 9:25; 12:3** *(not yet ingested)* — Noah's curse on Canaan, and the Abrahamic promise
   that pairs blessing and curse as the response to how the nations treat one family.
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
@@ -74,6 +81,9 @@ the same verses that put the tree of life back in reach (see
 - [[The Line of Cain and the Birth of Seth]] — a cursed man building a city, and a cursed line
   founding the crafts; Genesis declines to say whether the curse carries past the man it was spoken
   over
+- [[From Adam to Noah]] — 5:29, the curse named as a present burden nine centuries later, and a
+  child named for its lifting
+- [[Comfort from the Cursed Ground - Naming Noah]] — 5:29 against 3:17, 8:21, and 9:20
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 
 ## Related themes

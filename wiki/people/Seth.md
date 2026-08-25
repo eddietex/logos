@@ -42,12 +42,15 @@ about whom nothing is narrated.
   seed instead of Abel"* — [[The Line of Cain and the Birth of Seth]]
 - Fathers Enosh, in whose days people begin to call on Yahweh's name —
   [[The Line of Cain and the Birth of Seth]]
-- Born when Adam is 130, *"in his own likeness, after his image"*; fathers sons and daughters; dies
-  at 912 — Genesis 5:3–8 *(not yet ingested)*
+- Born when Adam is 130, *"in his own likeness, after his image"*; fathers Enosh at 105 and other
+  sons and daughters; dies at 912 — [[From Adam to Noah]]
 
 ## Appears in
 
 - [[The Line of Cain and the Birth of Seth]]
+- [[From Adam to Noah]] — the first entry after Adam's in the register, and the one verse in
+  Scripture (5:3) that says the image and likeness of Genesis 1:26 pass from a human father to a
+  human son. Genesis 5 also treats him as Adam's first son: Cain and Abel are not mentioned.
 
 ## Related people
 
@@ -56,12 +59,13 @@ about whom nothing is narrated.
   reports Seth's birth
 - [[Abel]] — the brother he is named as a replacement for
 - [[Cain]] — his brother, whose line the narrative abandons at the verse Seth is born in
-- [[Enosh]] — his son
+- [[Enosh]] — his son, born when Seth was 105
 - [[God]] — whom Eve credits with the birth (*ʾĕlōhîm*, where at 4:1 she said *Yahweh*)
 
 ## Themes associated
 
 - [[Life and Death]]
+- [[Image of God]]
 - [[Blessing]]
 - [[Judgment]]
 - [[Sin]]

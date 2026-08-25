@@ -75,6 +75,10 @@ and turns the Bible's high-water mark for revenge into its measure for pardon. S
 - [[Cain]] — his ancestor, whose sevenfold protection he appropriates and inflates
 - [[Enoch (son of Cain)]] — his great-great-grandfather, the first name after Cain in the line
 - [[Jabal]], [[Jubal]], [[Tubal Cain]] — his sons
+- [[Lamech (father of Noah)]] — his namesake in Seth's line, the only other person in these chapters
+  to speak, and the counterweight to everything he says: a sentence of hope over a newborn against a
+  song about a killing — and, by the numbers of Genesis 5:31, a lifespan of 777 years against this
+  Lamech's claim to be avenged seventy-seven times
 - Adah and Zillah — his wives, the first women named in Scripture after Eve, and the addressees of
   its first poem; Genesis gives them no words of their own
 - Lamech the father of Noah — his namesake in the Sethite line, who speaks the other recorded
