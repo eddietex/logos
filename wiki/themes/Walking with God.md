@@ -52,9 +52,12 @@ with God goes with not being destroyed.
 
 - **Genesis 5:22, 5:24** — [[Enoch (son of Jared)]] walks with God for three hundred years and is
   taken. The phrase's first appearance, with no antecedent and no explanation.
-- **Genesis 6:9** *(not yet ingested)* — *"Noah was a righteous man, blameless among the people of
-  his time. Noah walked with God."* The second and last use of the exact idiom, of the second man to
-  be exempted from a general death.
+- **Genesis 6:9** — *"Noah was a righteous man, blameless among the people of his time. Noah walked
+  with God."* The second and last use of the exact idiom, of the second man to be exempted from a
+  general death. It arrives third in a list of three descriptions, after *righteous* and
+  *blameless*, and it is the only one of the three the narrative never illustrates: what Noah is
+  then shown doing is obeying instructions, twice reported in the same four words. See
+  [[Noah and the Flood]].
 - **Genesis 3:8** — the same verb and stem, of God walking in the garden: the vocabulary this idiom
   borrows.
 - **Genesis 17:1; 24:40; 48:15** *(not yet ingested)* — the patriarchs *walk before* God, and Jacob
@@ -77,10 +80,15 @@ with God goes with not being destroyed.
 
 - [[From Adam to Noah]] — where the phrase enters the Bible, and the man it exempts from the
   chapter's refrain
+- [[Noah and the Flood]] — the idiom's second and final use, at 6:9, alongside the two words the
+  passage does define
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — what Hebrews and Jude make of it, and
   the Septuagint's *"pleased God"*
 
 ## Related themes
+
+- [[Righteousness]] — the word 6:9 pairs it with, and the one the rest of Scripture develops instead
+- [[Covenant]] — the formal relation the walking metaphor is eventually absorbed into
 
 - [[Life and Death]] — both men who walk with God are exempted from a death
 - [[Judgment]] — Enoch is taken before the flood; Noah is carried through it

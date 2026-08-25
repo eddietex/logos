@@ -87,6 +87,15 @@ the rest of the canon.
   something close to the reverse of the order they were made in. Death moves here from a penalty
   borne by persons to the undoing of a world. See
   [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 6:17; 7:21–23** — the sentence executed, and the narrator says it four times in three
+  verses rather than once: *"All flesh died that moved on the earth"* (7:21), *"All on the dry land,
+  in whose nostrils was the breath of the spirit of life, died"* (7:22), *"Every living thing was
+  destroyed"* and *"They were destroyed from the earth"* (7:23). The repetition is the point — this
+  is the largest death in Scripture and Genesis refuses to compress it. Note that 7:22 defines what
+  is being taken by quoting the making of the man at 2:7: the *breath in the nostrils* God lent to
+  dust is named here as the thing that stops. And note the exception clause, *"Only Noah was left"*
+  (7:23), whose verb *šāʾar* is the root of the prophets' **remnant** — the idea enters the Bible in
+  a sentence about eight survivors. See [[Noah and the Flood]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -102,6 +111,8 @@ the rest of the canon.
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted of; and a birth named for
   the brother it replaces
 - [[From Adam to Noah]] — *"then he died"*, eight times, and the two entries that do not say it
+- [[Noah and the Flood]] — the sentence carried out, reported four times in three verses, and the
+  breath of 2:7 named as what is taken back
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
   widened from persons to all flesh
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is

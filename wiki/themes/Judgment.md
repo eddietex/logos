@@ -78,9 +78,23 @@ rule are the conditions the rest of Scripture is set in.
   provision, and it comes as a single name in the last four words: *"But Noah found favor in
   Yahweh's eyes."* The ark is specified nine verses later, in the same speech that announces the end
   of all flesh. See [[The Sons of God and the Corruption of the Earth]] and [[Favor and Grace]].
-- **Genesis 6:9–9:17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood carried out, Babel, and
-  Sodom, each with God "going down to see" before acting, and Abraham's *"Shall not the Judge of all
-  the earth do right?"* (18:25) putting the question the theme keeps raising.
+- **Genesis 6:9–7:24** — the sentence executed, and the first judgment in Scripture larger than a
+  household. Three things are new. The **stated ground shifts from the heart to the hands**: 6:5 had
+  the *imagination* of the heart, 6:11 and 6:13 have *ḥāmās*, violence, and 6:12 has *"all flesh had
+  corrupted their way"*. The **punishment is the crime's own verb** — the earth *corrupted* itself
+  (*šāḥat*) and God says *"I will destroy them"* (*šāḥat*), so the judgment is described as a
+  withdrawal rather than an importation: he lets go of a world that was already ruining itself. And
+  the **provision is specified inside the sentence**, as it always is here — the ark's dimensions
+  (6:14–16) are given between the announcement of the end of all flesh (6:13) and the announcement
+  of the flood (6:17), with the Bible's first covenant (6:18) between them. What is missing is any
+  hearing: nobody is summoned, and unlike Sodom nobody stands in front of God to argue. See
+  [[Noah and the Flood]] and [[The Flood as Un-Creation]].
+- **Genesis 8:1–9:17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood's turn at *"God
+  remembered Noah"*, the promise never to repeat it, Babel, and Sodom, each with God "going down to
+  see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
+  putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
+  again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
+  doing this again, so the same fact grounds both the flood and the promise against it.
 - Strands to trace as ingestion reaches them: the plagues and the exodus as judgment on Egypt's
   gods; the covenant lawsuit form in the prophets (Micah 6:1–8, Isaiah 1:2–20); the day of Yahweh
   (Amos 5:18–20, Joel 2, Zephaniah 1); exile as judgment and return as its limit; Jesus on
@@ -97,8 +111,16 @@ rule are the conditions the rest of Scripture is set in.
 - [[The Sons of God and the Corruption of the Earth]] — the template stripped to its ends: a verdict
   and a sentence with no interrogation between them, and the provision named before the flood is
   described
+- [[Noah and the Flood]] — the sentence carried out, with the punishment named by the crime's own
+  verb and the ark specified in the same speech as the destruction
+- [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
+  withdrawn, in order
 
 ## Related themes
+
+- [[Covenant]] — what God binds himself with, first spoken inside a sentence of universal death
+- [[Righteousness]] — the standing that determines which side of a judgment someone is on, and which
+  Ezekiel 14:14 says saves nobody else
 
 - [[Sin]] — what is judged
 - [[Curse]] — the form the sentence takes

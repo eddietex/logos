@@ -52,6 +52,16 @@ Genesis 1 sets four load-bearing claims:
   passing over the waters and dry land reappearing (8:1–2). This is Genesis's strongest statement
   that the created order is not self-sustaining but held: what was spoken into being can be spoken
   out of it. See [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 7:11–24** — the reversal carried out, and it runs in order. *"All the fountains of the
+  great deep burst open, and the sky's windows opened"* (7:11): *təhôm*, the deep of 1:2, returns
+  from below while the waters held above come down, so the expanse of day two fails from both sides
+  at once. *"All the high mountains that were under the whole sky were covered"* (7:19) and *"all on
+  the dry land … died"* (7:22) undo day three. And 7:21's roll of the dead — *"birds, livestock,
+  animals, every creeping thing … and every man"* — is the population of days five and six. What is
+  left at 7:24 is a dark, water-covered earth with the breath gone out of it, which is a description
+  of Genesis 1:2. Then 8:1–2 starts again with the same words in the forward order: a *rûaḥ* passes
+  over the waters, the fountains close, and dry land appears. Genesis is telling the story of the
+  world being made twice. See [[Noah and the Flood]] and [[The Flood as Un-Creation]].
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -61,6 +71,10 @@ Genesis 1 sets four load-bearing claims:
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[From Adam to Noah]] — 5:1–2, Genesis 1 quoted back as the frame for a genealogy
+- [[Noah and the Flood]] — the reversal executed: the deep, the windows, the dry land, and the
+  creatures of days five and six
+- [[The Flood as Un-Creation]] — the correspondences traced verse by verse, and the re-creation that
+  answers them
 - [[The Sons of God and the Corruption of the Earth]] — 6:5–7, Genesis 1 quoted back in order to be
   undone
 

@@ -47,7 +47,7 @@ merge, or reorder them freely.
 - [x] [[The Line of Cain and the Birth of Seth]] — Genesis 4:17–26
 - [x] [[From Adam to Noah]] — Genesis 5:1–32
 - [x] [[The Sons of God and the Corruption of the Earth]] — Genesis 6:1–8
-- [ ] Noah and the Flood — Genesis 6:9–7:24
+- [x] [[Noah and the Flood]] — Genesis 6:9–7:24
 - [ ] The Waters Recede — Genesis 8:1–22
 - [ ] The Covenant with Noah — Genesis 9:1–17
 - [ ] Noah's Sons and the Curse of Canaan — Genesis 9:18–29
@@ -121,6 +121,9 @@ merge, or reorder them freely.
 - [[Vengeance]]
 - [[City and Civilization]]
 - [[Walking with God]]
+- [[Righteousness]]
+- [[Covenant]]
+- [[Clean and Unclean]]
 
 ## Key people
 
@@ -134,6 +137,9 @@ merge, or reorder them freely.
 - [[Enoch (son of Jared)]]
 - [[Methuselah]]
 - [[Noah]]
+- [[Shem]]
+- [[Ham]]
+- [[Japheth]]
 
 ## Key places
 

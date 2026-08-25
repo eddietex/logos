@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 6:1–8 — [[The Sons of God and the Corruption of the Earth]]
-- Genesis 6:9–7:24 *(not yet ingested)* — the ark, the waiting, and the flood
+- Genesis 6:9–7:24 — [[Noah and the Flood]]: the ark, the waiting, and the flood
 - Matthew 24:37–39 *(not yet ingested)* — *"as the days of Noah were, so will the coming of the Son
   of Man be"*
 - Luke 17:26–27 *(not yet ingested)* — the same saying, paired with the days of Lot
@@ -74,3 +74,14 @@ and drinking and marrying, then the warning is not primarily to the notably wick
 people in Genesis 6:1 — *"when men began to multiply"* — who were doing exactly what they were
 blessed to do, and who, as far as the narrative lets us see, noticed nothing at all until the man
 with the strange boat went inside and the door was shut.
+
+**A note now that Genesis 7 is on the page.** Jesus' phrase is *"until the day that Noah entered
+into the ship"*, and Genesis gives that day twice — 7:7, and again at 7:13 with the date attached,
+*"In the same day Noah, and Shem, Ham, and Japheth … entered into the ship"*. The shutting of the
+door, which the parable of the ten virgins will make its own image (Matthew 25:10), is Genesis 7:16,
+and Genesis assigns it to God rather than to Noah: *"then Yahweh shut him in."* That detail sharpens
+the analogy rather than softening it. Nobody in the account is shown refusing the ark or being
+refused it; the text simply records that the door closed and the water came, and the New Testament's
+use of the scene depends on exactly that silence. See [[Noah and the Flood]], and
+[[The Flood and Baptism]] for the other, opposite thing the New Testament does with the same eight
+people.

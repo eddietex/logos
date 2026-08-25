@@ -46,6 +46,13 @@ costly.
   fruitfulness. But the book has now shown the blessing being carried out (Genesis 5) and shown the
   world it produced being condemned (Genesis 6:5), four verses apart. See
   [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 6:9–7:24** — the theme by its absence, which is worth recording because the account is
+  so full of creatures. Every animal that boards the ark is under the blessing of 1:22, and the
+  eight people are under 1:28, and the flood narrative mentions none of it. God's word to Noah is
+  instruction and covenant, never blessing. The command *"be fruitful and multiply"* does not return
+  until the animals leave the ship at 8:17 and the men receive it again at 9:1, on dry ground —
+  which makes the blessing one of the things the flood suspends and the new world restarts. See
+  [[Noah and the Flood]].
 - To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
   narrowing of blessing to one family and its widening back out to *"all the families of the
   earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
@@ -57,6 +64,8 @@ costly.
 - [[The Fall]] — where the counter-word first appears
 - [[From Adam to Noah]] — the blessing of 1:28 restated at 5:2 and then carried out, ten generations
   deep, under the sentence of 3:19
+- [[Noah and the Flood]] — the blessing unmentioned through the whole account, and not renewed until
+  the far side of the water
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 

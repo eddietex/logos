@@ -12,8 +12,10 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 | [[Enoch (son of Jared)]] | The seventh from Adam; "walked with God, and he was not found, for God took him" — the one entry in Genesis 5 that does not end in a death | [[From Adam to Noah]] |
 | [[Enosh]] | Seth's son, whose name means "man"; in his generation "men began to call on Yahweh's name" | [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] |
 | [[Eve]] | The first woman, built from the man's side as his counterpart; named Eve only after the fall | [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] |
-| [[God]] | Creator of the heavens and the earth; Elohim in Genesis 1, Yahweh God from 2:4 | [[The Creation of the World]] · [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] · [[The Sons of God and the Corruption of the Earth]] |
+| [[God]] | Creator of the heavens and the earth; Elohim in Genesis 1, Yahweh God from 2:4 | [[The Creation of the World]] · [[The Garden of Eden]] · [[The Fall]] · [[Cain and Abel]] · [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] · [[The Sons of God and the Corruption of the Earth]] · [[Noah and the Flood]] |
+| [[Ham]] | The second-named son of Noah, carried through the flood as a name in a list; everything that makes him a figure belongs to Genesis 9 | [[From Adam to Noah]] · [[Noah and the Flood]] |
 | [[Jabal]] | Lamech's son by Adah, "the father of those who dwell in tents and have livestock" — the origin of nomadic herding | [[The Line of Cain and the Birth of Seth]] |
+| [[Japheth]] | The third-named son of Noah, and the most thinly drawn; ancestor of the peoples north and west of Israel, and blessed with a pun on his own name | [[From Adam to Noah]] · [[Noah and the Flood]] |
 | [[Jared]] | The sixth generation from Adam; father of Enoch, and at 962 the second-longest-lived person in Scripture | [[From Adam to Noah]] |
 | [[Jubal]] | Lamech's son by Adah, "the father of all who handle the harp and pipe" — the origin of music | [[The Line of Cain and the Birth of Seth]] |
 | [[Kenan]] | The fourth generation from Adam, and the Sethite name that shares its root with *Qayin*, Cain | [[From Adam to Noah]] |
@@ -21,8 +23,9 @@ sub-indexes once this list passes ~150 entries (see growth triggers in `CLAUDE.m
 | [[Lamech (son of Methushael)]] | Seventh from Adam through Cain; the first polygamist, and the singer of the Song of the Sword | [[The Line of Cain and the Birth of Seth]] |
 | [[Mahalalel]] | The fifth generation from Adam, and the only man in the line whose name is a sentence about God | [[From Adam to Noah]] |
 | [[Methuselah]] | The eighth generation from Adam, and at 969 the longest-lived human being in the Bible; by Genesis 5's own numbers he dies in the year of the flood | [[From Adam to Noah]] |
-| [[Noah]] | The tenth generation from Adam, named for rest and for relief from the curse; the entry Genesis 5 leaves open, and the first person in Scripture to find favor | [[From Adam to Noah]] · [[The Sons of God and the Corruption of the Earth]] |
+| [[Noah]] | The tenth generation from Adam, named for rest and for relief from the curse; the first person in Scripture to find favor, the first called righteous, and silent through the entire flood | [[From Adam to Noah]] · [[The Sons of God and the Corruption of the Earth]] · [[Noah and the Flood]] |
 | [[Seth]] | The third son of Adam and Eve, given "instead of Abel"; the line the rest of Scripture descends from | [[The Line of Cain and the Birth of Seth]] · [[From Adam to Noah]] |
+| [[Shem]] | The first-named son of Noah, whose name is the Hebrew word for "name"; the line of Abraham runs through him, and God is called *the God of Shem* | [[From Adam to Noah]] · [[Noah and the Flood]] |
 | [[The Nephilim]] | The word occurs twice in the Bible — before the flood, and in the spies' report from Canaan; "the mighty men who were of old, men of renown" | [[The Sons of God and the Corruption of the Earth]] |
 | [[The Serpent]] | The shrewd creature that questions God's command; identified with Satan only in later Scripture | [[The Fall]] |
 | [[The Sons of God]] | *Bene ha-elohim*, who take wives from among the daughters of men; divine beings, Sethites, or kings, depending on the reading | [[The Sons of God and the Corruption of the Earth]] |

@@ -90,6 +90,15 @@ has been argued.
   the constancy of evil in that generation; what it does not assert is a mechanism of transmission,
   which is Romans 5:12's contribution and not this verse's. See
   [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 6:11–13** — the exterior, at last. Having diagnosed the heart, Genesis names a deed
+  word: *ḥāmās*, **violence**, twice (6:11, 13), and adds that *"all flesh had corrupted their way
+  on the earth"* (6:12). This is the first time the narrative charges a specific social evil rather
+  than a condition, and it closes the circuit the primeval history has been building — the *yēṣer*
+  of 6:5 produces the *ḥāmās* of 6:11, which is Lamech's boast in
+  [[The Line of Cain and the Birth of Seth]] gone universal. Note the verb the charge is made with:
+  the earth *corrupted* itself (*šāḥat*, 6:11–12), and God's sentence uses the same word — *"I will
+  destroy them"* (*šāḥat*, 6:13, 17). Sin and its punishment are, at this one point in Scripture,
+  the same act described twice. See [[Noah and the Flood]].
 - **Genesis 8:21** *(not yet ingested)* — the same verdict after the flood, almost word for word,
   and drawn on for the opposite conclusion: because the human heart is evil from youth, God will
   *not* strike the earth again. The fact does not change; what is done about it does.
@@ -104,6 +113,8 @@ has been argued.
 - [[Cain and Abel]] — the word's first appearance, crouching at a door, and the first murder
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted about rather than hidden,
   and the first passage God is absent from
+- [[Noah and the Flood]] — the charge made exterior (*violence*, *all flesh had corrupted their
+  way*), and named with the same verb as its punishment
 - [[The Sons of God and the Corruption of the Earth]] — the diagnosis: not an act but the
   imagination of the heart, every one of them, continually, only evil
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it

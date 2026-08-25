@@ -161,6 +161,47 @@ interrogation here — no *"Where are you?"*, no *"What have you done?"*. The ju
 Genesis 3 and 4 runs with the questioning removed and only the provision left, and the provision is
 a single name. See [[Judgment]] and [[Favor and Grace]].
 
+### He destroys, and binds himself — Genesis 6:9–7:24
+
+[[Noah and the Flood]] is the first time God carries out a sentence at scale, and what is striking is
+how much of the account is him *arranging* rather than striking. He speaks four times (6:13–21, 7:1–4)
+and acts twice (7:11, 7:16); the water does the rest.
+
+- **He names his reason, and it is behavioural.** *"The earth is filled with violence through them"*
+  (6:13). Genesis 6:5 had diagnosed the interior; here the ground of the sentence is *ḥāmās*, an
+  exterior and social evil, and 6:12 adds that *"all flesh had corrupted their way"* — a universal
+  charge with no exceptions taken and nobody interrogated.
+- **His sentence uses the crime's own verb.** The earth *corrupted* itself (*šāḥat*, 6:11–12), and
+  he says *"I will destroy them"* — *šāḥat* again (6:13, 17). He does not import a punishment; he
+  withdraws his objection to what was already happening.
+- **He specifies the rescue in the same speech as the destruction.** The dimensions of the ark
+  (6:14–16) are given between the announcement of the end of all flesh (6:13) and the announcement
+  of the flood (6:17). The Genesis pattern holds exactly — provision inside the sentence, never
+  instead of it.
+- **He binds himself for the first time.** *"But I will establish my covenant with you"* (6:18) is
+  the Bible's first *bərît*, spoken to a man who is not asked and does not answer, inside a sentence
+  of universal death. See [[Covenant]].
+- **He assumes a distinction he has never taught.** *"Seven pairs of every clean animal"* (7:2), with
+  no definition, no criterion, and no law in existence. See [[Clean and Unclean]].
+- **He declares a man righteous, twice.** 6:9 reports it and 7:1 has him say it: *"I have seen your
+  righteousness before me in this generation"*. Both come before Noah is shown doing anything. See
+  [[Righteousness]].
+- **He shuts the door.** *"Then Yahweh shut him in"* (7:16) — the account's only tender gesture, and
+  the moment nobody else can come in. The name changes to **Yahweh** for it, as it did at 7:1 for
+  *"Come with all of your household"*; the commissioning and the dating are *ʾĕlōhîm* throughout. The
+  two things he does personally in this chapter are the two things he is called by his personal name
+  for.
+
+And what he undoes is his own work. The deep of 1:2 opens from below and the sky's windows from
+above (7:11), reversing day two; the dry land of day three vanishes under the mountains (7:19, 22);
+and the roll of the dead at 7:21 is the population of days five and six in the order they were made.
+The God who separated is the God who lets the separations go. See [[The Flood as Un-Creation]].
+
+Note what is absent. No grief this time — the *nāḥam* and *ʿāṣab* of 6:6 do not recur, and God says
+nothing at all about how any of it feels. And no answer to the obvious question: Genesis does not
+have him explain why the animals die, or the children, and unlike Sodom there is nobody standing in
+front of him to ask.
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -177,6 +218,8 @@ a single name. See [[Judgment]] and [[Favor and Grace]].
 - Limits human days, sees the wickedness of the human heart, regrets having made man, resolves to
   destroy all flesh, and favors one man —
   [[The Sons of God and the Corruption of the Earth]]
+- Declares one man righteous, specifies an ark, promises the Bible's first covenant, opens the deep
+  and the windows of the sky on a dated day, and shuts the door himself — [[Noah and the Flood]]
 
 ## Appears in
 
@@ -188,6 +231,8 @@ a single name. See [[Judgment]] and [[Favor and Grace]].
 - [[From Adam to Noah]] — named in the frame, silent throughout, and acting once, at 5:24
 - [[The Sons of God and the Corruption of the Earth]] — the silence broken: seeing, speaking,
   grieving, sentencing, and favoring, all in six verses
+- [[Noah and the Flood]] — the sentence executed: specifying, covenanting, dating, opening the deep,
+  and shutting the door
 
 ## Related people
 
@@ -203,11 +248,16 @@ a single name. See [[Judgment]] and [[Favor and Grace]].
   than buried; the only person God acts on in Genesis 5
 - [[The Sons of God]] and [[The Nephilim]] — the beings named in his presence at 6:2–4, whom he
   neither questions nor sentences
-- [[Noah]] — named in hope of relief from the ground God cursed, and the second man said to walk
-  with him
+- [[Noah]] — named in hope of relief from the ground God cursed, the second man said to walk with
+  him, the first he calls righteous, and the first he offers a covenant
+- [[Shem]], [[Ham]], and [[Japheth]] — carried through the flood with their father, and the three
+  from whom he repopulates the earth
 
 ## Themes associated
 
+- [[Covenant]]
+- [[Righteousness]]
+- [[Clean and Unclean]]
 - [[Walking with God]]
 - [[Divine Grief and Relenting]]
 - [[Favor and Grace]]

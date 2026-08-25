@@ -681,3 +681,95 @@ Numbers 23:19 counter-texts, and Matthew 24, Jude, and 1–2 Peter in the New Te
 pages. All eight verses quoted on the passage page were checked mechanically against
 `raw/bible/Genesis.md` — each one reassembled from the page's block quotes and compared character
 for character — and every one matches verbatim.
+
+## [2026-08-25] ingest | Genesis 6.9-7.24 — Noah and the Flood
+
+Unattended run (`/ingest auto`, no target). Eighth pericope of Genesis; step 2's discussion is
+written into the passage page rather than spoken.
+
+The unit: the *tôlədōt* of Noah, the commission and specifications of the ark, the Bible's first
+covenant, the two animal instructions, the boarding, the shutting of the door, and the flood as far
+as its high-water mark. It ends at 7:24 — one verse short of *"God remembered Noah"* — because the
+narrative is built as a chiasm with 8:1 at its exact centre, and the plan's boundary lands the
+reader at the bottom of it. The boundary was inherited from the book plan and is kept unchanged.
+
+Created:
+- `wiki/passages/Genesis/Noah and the Flood.md`
+- `wiki/people/Shem.md`, `Ham.md`, `Japheth.md`
+- `wiki/themes/Righteousness.md`, `Covenant.md`, `Clean and Unclean.md`
+- `wiki/connections/The Flood as Un-Creation.md`, `The Flood and Baptism.md`
+
+Revised: `wiki/people/Noah.md` (new section — righteous, blameless, and silent), `God.md` (new
+section — he destroys, and binds himself), `wiki/themes/Walking with God.md`, `Favor and Grace.md`,
+`Judgment.md`, `Sin.md`, `Creation.md`, `Life and Death.md`, `Blessing.md`,
+`wiki/connections/As It Was in the Days of Noah.md`, `wiki/books/Genesis.md` (box checked, three
+themes and three people added), `wiki/books/index.md` (8 / 58), `wiki/people/index.md`,
+`themes/index.md`, `connections/index.md`, and `wiki/index.md` counts (8 passages · 25 people ·
+3 places · 19 themes · 20 connections).
+
+Judgment calls made unattended, for review:
+- **Shem, Ham, and Japheth were given person pages now**, which reverses a note left on
+  `wiki/people/Noah.md` after the last ingest saying they would get none "until the flood narrative
+  makes them people rather than a list". They are still a list here — named at 6:10 and 7:13 with no
+  act and no words — but this *is* the flood narrative, they are named twice in it, and every
+  remaining pericope of Genesis 9–11 leans on them. Each page says plainly how little the text has
+  given so far and marks the rest as not yet ingested. If they read as premature, they lose nothing
+  by having been started early.
+- **No page for the four women in the ark.** Noah's wife and his sons' wives are in every boarding
+  list (6:18, 7:7, 7:13) and are unnamed in Scripture from beginning to end. The passage page records
+  that fact, and the later traditions that supply names (Emzara in *Jubilees*, Bitenosh in the
+  Genesis Apocryphon), rather than creating four pages with nothing on them. Revisit at 9:18–29.
+- **Three new theme pages, each justified by a first occurrence in Scripture.** `Righteousness`
+  (*ṣaddîq*, 6:9), `Covenant` (*bərît*, 6:18), and `Clean and Unclean` (7:2). Each is a term the rest
+  of the canon builds on heavily and each needed somewhere to accumulate from its first verse rather
+  than from the book that later defines it.
+- **The 6:8 / 6:9 question is still left open**, now on both sides of it. The passage page, `Noah`,
+  `Favor and Grace`, and `Righteousness` all record that 6:9 supplies the righteousness without
+  supplying a connective, and that the righteousness is declared before any act is narrated. No page
+  decides whether the favour grounds the righteousness or the reverse.
+- **"Blameless among the people of his time" is not resolved either.** Both readings of *bədōrōtāyw*
+  — intensive (*even in* that generation) and restrictive (*by the standards of* it) — are given,
+  with the Talmudic dispute between Rabbi Yohanan and Resh Lakish (*Sanhedrin* 108a) cited as
+  evidence that the restrictive reading is ancient rather than modern skepticism.
+- **The two animal counts (6:19–20 against 7:2–3) are given three readings and no verdict** —
+  refinement, sources, and deliberate composition. The source-critical note is expanded here because
+  the flood account is the documentary hypothesis's strongest demonstration case anywhere in the
+  Pentateuch, and the verse-level division is recorded so a reader can check it. The wiki continues
+  to take no position, and reads the account as the single narrative it now is.
+- **The flood's extent is not adjudicated.** Universal, local/regional, and literary-theological
+  readings are set out with what each costs. The observation offered instead is that no later text
+  in Scripture ever argues from the flood's physical extent — Isaiah 54, Matthew 24, 1 Peter 3, and
+  2 Peter 3 all argue from its completeness as a judgment and from the eight who came through.
+- **The Mesopotamian parallels are stated plainly rather than hedged.** Gilgamesh XI, Atrahasis, and
+  the Ziusudra tradition share too many specifics with Genesis for coincidence; the page says so, and
+  puts the weight on the four differences that carry the theology (cause, agency, the sacrifice, the
+  survivor's end). No direction of borrowing is claimed, because none is establishable.
+- **The "curse of Ham" reading is addressed on `wiki/people/Ham.md`, before Genesis 9 is ingested.**
+  It is placed there rather than only on the future passage page because the association attaches to
+  the name, and a reader arriving at his page from the flood should not find the wiki silent about
+  it. Four checkable textual points are given: the curse falls on Canaan, it is spoken by Noah and
+  not by God, its content concerns Shem and Japheth, and Genesis 10 assigns Egypt and Canaan to Ham.
+- **`The Flood as Un-Creation` was made a connection page rather than folded into `Creation`.** The
+  correspondences are lexical and run in order, they need a table, and Jeremiah 4:23–26 reuses the
+  whole pattern — enough material that the theme page would have been swallowed by it.
+- **No place page. Third consecutive pericope with no named location**, and the passage page treats
+  that as the primeval history's frame reaching its maximum rather than as an omission. Ararat
+  arrives at 8:4, in the next pericope.
+
+Deliberately left for later pericopes, all as plain-text references so nothing dangles: *"God
+remembered Noah"* and the raven and the dove (8:1–12), the altar and the promise at 8:20–22, the
+covenant actually established with the rainbow (9:8–17), Noah's first recorded words and the curse
+on Canaan (9:18–29), the Table of Nations (10), Babel (11:1–9), the *tēbâ* of Exodus 2, Leviticus 11,
+and the New Testament's Noah texts in Matthew 24, Hebrews 11, and 1–2 Peter. `The Waters Recede` was
+written as a plain reference rather than a wikilink for the same reason.
+
+`scripts/link-check.sh` clean, exit 0, against the documented baseline of 65 not-yet-started book
+pages. All sixteen verses block-quoted on the passage page were checked mechanically against
+`raw/bible/Genesis.md` — each reassembled from the page's block quotes and compared character for
+character — and every one matches verbatim. The page's inline quotations were checked the same way:
+thirty resolve against the raw Genesis text, and the remainder are citations of other books
+(Hebrews 11:7, 2 Peter 2:5, Psalm 29:10, Romans 11:5, Isaiah 54:9, Ezekiel 14:14, Matthew 24:39,
+1 Peter 3:20, Romans 1:8) or of Gilgamesh XI. Two inline quotations were corrected during the check:
+Genesis 1:6 had been paraphrased as *"to divide the waters from the waters"* and now reads *"let it
+divide the waters from the waters"*, and a fragment of 7:11 that had been silently capitalized is
+now marked as elided.

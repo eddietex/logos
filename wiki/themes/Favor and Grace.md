@@ -35,6 +35,15 @@ The permanent question the passage leaves open is the direction of the relation:
 of 6:8 is granted because of the righteousness of 6:9, or whether the righteousness of 6:9 is
 described because of the favor of 6:8. Genesis puts them in that order and offers no connective.
 
+**And the next unit does not supply one.** [[Noah and the Flood]] restates the righteousness twice —
+6:9 in the narrator's voice and 7:1 in God's, *"I have seen your righteousness before me in this
+generation"* — without ever mentioning the favor again, and without saying that the favor was
+*because of* anything. The two terms sit on either side of a *tôlədōt* heading, in that order,
+permanently unjoined. What can be observed rather than inferred is that the righteousness is
+**declared before it is demonstrated**: nothing Noah has done is on the page when 6:9 calls him
+righteous, and what follows the declaration is obedience rather than what precedes it. See
+[[Righteousness]].
+
 **The counterweight.** Grace in the Bible is not the absence of judgment, and Genesis is careful
 about this from the start. Noah finds favor and the flood still comes; he is carried through it, not
 around it. Every act of provision in the primeval history has this shape — the coats of skins after
@@ -46,6 +55,10 @@ finding is that in Genesis the provision follows the sentence and never cancels 
 
 - **Genesis 6:8** — *ḥēn*'s first occurrence, at the world's condemnation. See
   [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 6:9; 7:1** — the righteousness stated twice on the far side of the heading, and the
+  connective still withheld. See [[Noah and the Flood]].
+- **Genesis 6:18** — the first covenant, offered to the man who was given favor, and offered inside
+  the sentence rather than instead of it. See [[Covenant]].
 - **Genesis 18:3; 19:19; 30:27; 32:5; 33:8; 39:4, 21; 47:29** *(not yet ingested)* — the idiom then
   runs through Genesis in both directions, human and divine, more often than in any other book:
   Abraham to the visitors, Lot pleading for Zoar, Joseph in Potiphar's house and then in the prison
@@ -73,8 +86,13 @@ finding is that in Genesis the provision follows the sentence and never cancels 
 
 - [[The Sons of God and the Corruption of the Earth]] — *ḥēn*'s first appearance, placed after the
   sentence and before the character reference
+- [[Noah and the Flood]] — the other half of the pair, and the flood that comes anyway: he is
+  carried through the water, not around it
 
 ## Related themes
+
+- [[Righteousness]] — the term 6:9 supplies, which this theme is permanently unjoined to
+- [[Covenant]] — what the favor issues in at 6:18
 
 - [[Judgment]] — what favor appears inside of, rather than instead of
 - [[Blessing]] — the other freely given divine word, and the one that comes with a command attached
