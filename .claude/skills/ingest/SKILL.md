@@ -40,15 +40,32 @@ both modes.
 With an argument (`/ingest Genesis 12`, `/ingest John`), take it as the target — read the named
 book's page and pick the first unchecked pericope at or after that point.
 
-Without one, take the next pericope in the book currently being worked:
+Without one, resolve the book mechanically. `wiki/books/index.md` lists all 66 books in canonical
+order, so scanning it top to bottom is reading the Bible in order. Take the **first `in-progress`
+book in that file**, then the **first unchecked box on its page**:
 
 ```
-grep -n "in-progress" wiki/books/index.md
-grep -n -m1 "^- \[ \]" "wiki/books/<Book>.md"
+grep -n -m1 "^- .*in-progress" wiki/books/index.md   # → the target book
+grep -n -m1 "^- \[ \]" "wiki/books/<Book>.md"        # → the target pericope
 ```
 
-That first unchecked box is the target. When every box in the book is checked, mark the book
-`complete` in `wiki/books/index.md` and move to the next `not-started` book in canonical order.
+Anchor the pattern to `^- ` as above. An unanchored `grep "in-progress"` matches the status legend
+near the top of the file instead of a book.
+
+**More than one book can be `in-progress` at once, and the earliest always wins.** The user may
+start a book out of canonical order, and a book stays `in-progress` for dozens of ingests, so
+"the book currently being worked" is often not a single book. Never resolve that by asking, by
+which book was ingested most recently, or by what the last log entry mentions — take the one that
+comes first in `wiki/books/index.md`. Genesis before Job, always. This is what makes an unattended
+run deterministic: `/ingest auto` must never have a fork here.
+
+**An `in-progress` book outranks an earlier `not-started` one.** If Genesis is complete and Job is
+`in-progress`, the next target is Job and not Exodus — open books get finished before new ones are
+opened. Only when nothing is `in-progress` does the scan fall through to the first `not-started`
+book in the file, whose page and pericope plan you then create per step 3.
+
+When every box in a book is checked, mark it `complete` in `wiki/books/index.md`. The next run's
+scan then moves on by itself, with no other bookkeeping needed.
 
 ## 2. Make sure the raw text is there
 

@@ -1023,3 +1023,31 @@ what happened during the Genesis 8:1–22 ingest and is why it was logged there 
 Changed: the paragraph now states the rule and says explicitly not to compare the script's printed
 count against a number written down in the schema. No number is quoted, so it cannot go stale
 again. `scripts/link-check.sh` itself is unchanged.
+
+## [2026-08-25] schema | Multiple in-progress books resolve to the earliest, never to a question
+
+The `/ingest` skill's step 1 said to take "the next pericope in the book currently being worked",
+which assumes exactly one such book. Two are `in-progress` right now — Genesis (9/58) and Job
+(2/32), the latter started out of canonical order — so the Genesis 8:1–22 ingest hit a fork and
+resolved it by asking the user. An interactive run can afford that. `/ingest auto` cannot: an
+unattended run is told never to ask a question, and this fork had no rule to fall back on.
+
+The rule now, in `.claude/skills/ingest/SKILL.md`:
+
+- The target book is the **first `in-progress` book in `wiki/books/index.md`**, which is in
+  canonical order. Genesis before Job, always. Not the most recently ingested book, not the one the
+  last log entry names, and never a question to the user.
+- An `in-progress` book **outranks an earlier `not-started` one** — when Genesis completes, the next
+  target is Job rather than Exodus. Open books get finished before new ones are opened, so a book
+  the user deliberately started out of order is not stranded behind the seventeen books preceding
+  it.
+- Only when no book is `in-progress` does the scan fall through to the first `not-started` book,
+  which is the behaviour that was already documented.
+
+Also fixed in the same block: the sample command was `grep -n "in-progress" wiki/books/index.md`,
+which matches the status legend on line 3 of that file (`Status: not-started · in-progress ·
+complete`) rather than any book. It is now anchored to `^- `.
+
+The rule lives only in `SKILL.md`, not also in `CLAUDE.md`. Target resolution is the skill's job,
+and a second copy of a rule in the schema is exactly the drift that produced the stale link-check
+baseline logged above.
