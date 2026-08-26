@@ -270,7 +270,7 @@ maximum: every high mountain under the whole sky, and one floating object with n
   and whose *"found favor"* 6:9 answers with *"righteous"*.
 - [[From Adam to Noah]] — Genesis 5, which supplies Noah's age, his three sons, and the idiom
   *"walked with God"* that 6:9 reuses.
-- Genesis 8:1–22 *(not yet ingested)* — the other half of the chiasm: *"God remembered Noah"*, the
+- [[The Waters Recede]] — Genesis 8:1–22, the other half of the chiasm: *"God remembered Noah"*, the
   raven and the dove, and the altar.
 - [[The Creation of the World]] — Genesis 1:2 (the deep), 1:6–8 (the waters divided), 1:9–10 (dry
   land), and the order of creatures that 7:21 reverses.
@@ -284,7 +284,8 @@ maximum: every high mountain under the whole sky, and one floating object with n
 - [[As It Was in the Days of Noah]] — Jesus on the generation that *"didn't know until the flood
   came"*, and the day Noah *entered the ship*, which is 7:7 and 7:13.
 - [[Comfort from the Cursed Ground - Naming Noah]] — the hope of 5:29, and how the flood answers it.
-- Genesis 8:1 — *"God remembered Noah"*: the hinge of the whole narrative, one verse past this unit.
+- [[Remembrance]] — *zākar* at Genesis 8:1, the hinge of the whole narrative, one verse past this
+  unit.
 - Genesis 9:8–17 — the covenant of 6:18 actually established, with the rainbow as its sign.
 - Genesis 9:25 — Noah's first recorded words in Scripture, after two chapters of silence.
 - Exodus 2:3, 5 — the *tēbâ* of Moses: the Bible's only other ark, also sealed with pitch, also

@@ -64,8 +64,12 @@ the same verses that put the tree of life back in reach (see
   is also the first time anyone in Scripture is shown *hoping the curse will lift* — the curse
   treated as a condition with an end, rather than as the weather. See [[From Adam to Noah]] and
   [[Comfort from the Cursed Ground - Naming Noah]].
-- **Genesis 8:21** *(not yet ingested)* — God's promise never again to curse the ground because of
-  humanity: the answer to 5:29, given to the man 5:29 named.
+- **Genesis 8:21** — God's promise never again to curse the ground because of humanity: the answer
+  to 5:29, given to the man 5:29 named — and a carefully limited one. The verb is *qālal*, to slight
+  or treat lightly, not the *ʾārar* of 3:17, and the parallel line (*"I will never again strike every
+  living thing, as I have done"*) ties the undertaking to the flood. So: no second flood, and no
+  further curse laid on the ground on humanity's account. The curse of 3:17 itself stays in force,
+  and Paul is still describing its effects in Romans 8:20–22. See [[The Waters Recede]].
 - **Genesis 9:25; 12:3** *(not yet ingested)* — Noah's curse on Canaan, and the Abrahamic promise
   that pairs blessing and curse as the response to how the nations treat one family.
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
@@ -83,6 +87,8 @@ the same verses that put the tree of life back in reach (see
   over
 - [[From Adam to Noah]] — 5:29, the curse named as a present burden nine centuries later, and a
   child named for its lifting
+- [[The Waters Recede]] — 8:21, the promise not to curse the ground again, in 3:17's own words and
+  with a weaker verb
 - [[Comfort from the Cursed Ground - Naming Noah]] — 5:29 against 3:17, 8:21, and 9:20
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 

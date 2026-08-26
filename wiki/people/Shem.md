@@ -46,6 +46,8 @@ only loosely related to the genealogy that produced it.
 - Born to Noah in Noah's five hundredth year, first-named of three sons — [[From Adam to Noah]]
 - Named among those who enter the ark, and enters it *"in the same day"* the flood begins —
   [[Noah and the Flood]]
+- Comes out of the ark with his brothers a year and ten days after going in, named only as
+  one of *"his sons"* — [[The Waters Recede]]
 - Covers his father with Japheth, and receives the blessing *"Blessed be Yahweh, the God of Shem"* —
   Genesis 9:18–29 *(not yet ingested)*
 - Ancestor of Elam, Asshur, Arpachshad, Lud, and Aram — Genesis 10:21–31 *(not yet ingested)*
@@ -56,6 +58,8 @@ only loosely related to the genealogy that produced it.
 
 - [[From Adam to Noah]] — named at 5:32 with his brothers, in the verse that leaves the register open
 - [[Noah and the Flood]] — named at 6:10 and 7:13; given no act and no words
+- [[The Waters Recede]] — not named at all; present as one of *"your sons"* in the command to
+  disembark (8:16) and one of *"his sons"* in the doing of it (8:18)
 
 ## Related people
 

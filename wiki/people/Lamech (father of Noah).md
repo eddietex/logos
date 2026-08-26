@@ -51,6 +51,8 @@ in a link.
 - Fathers other sons and daughters — [[From Adam to Noah]]
 - Dies at 777, five years before the flood and five years before his own father —
   [[From Adam to Noah]]
+- His hope for relief from the cursed ground is answered, in part, one year after the flood begins,
+  in a sentence he did not live to hear — [[The Waters Recede]]
 
 ## Appears in
 
@@ -60,6 +62,13 @@ in a link.
   of God four verses later, in its other sense: *"Yahweh was sorry that he had made man on the
   earth."* Lamech's is the only human hope voiced between Eden and the flood, and the next thing the
   book does with his word is turn it into divine regret. See [[Divine Grief and Relenting]].
+- [[The Waters Recede]] — not by name either, but this is where his sentence gets its answer. He
+  hoped his son would bring comfort *"in our work and in the toil of our hands, caused by the ground
+  which Yahweh has cursed"* (5:29); at 8:21 God resolves *"I will not again curse the ground any more
+  for man's sake"* — 3:17's own phrase, and the thing Lamech was asking about. The answer is real and
+  it is partial: the verb is *qālal* rather than the *ʾārar* of 3:17, so no further curse is laid on
+  the ground, and the one already in force is not lifted. The toil Lamech complained of outlasts him
+  and outlasts the flood. See [[Comfort from the Cursed Ground - Naming Noah]].
 
 ## Related people
 

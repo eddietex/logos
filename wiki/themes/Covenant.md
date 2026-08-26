@@ -53,6 +53,11 @@ the whole biosphere and conditioned on nothing.
 
 - **Genesis 6:18** — the word's first occurrence, announced to Noah before the flood. See
   [[Noah and the Flood]].
+- **Genesis 8:21–22** — the resolve that precedes the covenant, and is not one. God undertakes
+  never again to curse the ground or strike all life, and guarantees the order of the seasons — but
+  he says it *in his heart*, to nobody, and no sign is given. Noah worships without knowing it. The
+  gap between 8:21 and 9:9 is the difference between a decision and a covenant: a covenant is a
+  promise made *to* someone, in public, with a sign. See [[The Waters Recede]].
 - **Genesis 9:8–17** *(not yet ingested)* — the Noahic covenant established: with Noah, his
   offspring, and every living creature; unconditional, unilateral, everlasting, and signed with the
   rainbow. The promise is specifically negative — never again by water — which is the form a promise
@@ -92,6 +97,10 @@ the whole biosphere and conditioned on nothing.
 
 - [[Noah and the Flood]] — *bərît*'s first occurrence, offered inside the announcement of universal
   death and before the water comes
+- [[The Waters Recede]] — the promise resolved on in God's heart, one chapter before it becomes a
+  covenant anyone is told about
+- [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
+  one
 
 ## Related themes
 

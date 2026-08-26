@@ -73,8 +73,12 @@ Genesis 1 sets four load-bearing claims:
 - [[From Adam to Noah]] — 5:1–2, Genesis 1 quoted back as the frame for a genealogy
 - [[Noah and the Flood]] — the reversal executed: the deep, the windows, the dry land, and the
   creatures of days five and six
+- [[The Waters Recede]] — the re-creation itself: the *rûaḥ* over the waters as in 1:2, the deep
+  closed, dry land back, and the creatures released under the blessing of 1:22
 - [[The Flood as Un-Creation]] — the correspondences traced verse by verse, and the re-creation that
   answers them
+- [[The Dove and the Spirit]] — the hovering of 1:2 and the bird over the water in Genesis 8, and
+  where the Gospels put both
 - [[The Sons of God and the Corruption of the Earth]] — 6:5–7, Genesis 1 quoted back in order to be
   undone
 

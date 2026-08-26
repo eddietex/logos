@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 6:9–7:24 — [[Noah and the Flood]]
-- Genesis 8:6–12 *(not yet ingested)* — the dove sent out over the water
+- Genesis 8:6–12 — the dove sent out over the water — [[The Waters Recede]]
 - 1 Peter 3:18–22 — *"eight souls were saved through water. This is a symbol of baptism"*
 - Matthew 3:16 — the Spirit descending *"as a dove"* at Jesus' baptism
 - 1 Corinthians 10:1–2 — Israel *"baptized into Moses in the cloud and in the sea"*
@@ -68,6 +68,8 @@ between sacramental and memorialist traditions runs straight through this verse.
   connects them without hesitation. The New Testament never makes the link explicit, and the dove of
   Genesis 8 is a bird sent to test the water rather than a descent from heaven — but the pairing of a
   dove, water, and a new beginning is in both scenes, and the iconography has never let go of it.
+  Traced out at length, with the *rûaḥ* of Genesis 1:2 and 8:1 alongside it, in
+  [[The Dove and the Spirit]].
 - **The ark as the church.** Cyprian's *"outside the church there is no salvation"* is argued in part
   from the ark, and the reading becomes standard in the West: one vessel, one door, everyone inside
   it saved and everyone outside it not. It is worth noting how much of that is drawn from the

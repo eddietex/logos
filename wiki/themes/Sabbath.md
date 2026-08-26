@@ -39,6 +39,8 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 ## Key passages
 
 - [[The Creation of the World]]
+- [[The Waters Recede]] — the flood's one surviving human rhythm: *"He waited yet another seven
+  days"*, twice (8:10, 8:12), a man measuring a new world by the week
 
 ## Related themes
 

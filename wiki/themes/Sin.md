@@ -99,9 +99,10 @@ has been argued.
   the earth *corrupted* itself (*šāḥat*, 6:11–12), and God's sentence uses the same word — *"I will
   destroy them"* (*šāḥat*, 6:13, 17). Sin and its punishment are, at this one point in Scripture,
   the same act described twice. See [[Noah and the Flood]].
-- **Genesis 8:21** *(not yet ingested)* — the same verdict after the flood, almost word for word,
-  and drawn on for the opposite conclusion: because the human heart is evil from youth, God will
-  *not* strike the earth again. The fact does not change; what is done about it does.
+- **Genesis 8:21** — the same verdict after the flood, almost word for word, and drawn on for the
+  opposite conclusion: because the human heart is evil from youth, God will *not* strike the earth
+  again. The fact does not change; what is done about it does — which is also the Bible's first
+  statement that a judgment did not fix what it was sent against. See [[The Waters Recede]].
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
   4–5, 16); *"Behold, I was born in iniquity"* (Psalm 51:5); the prophets on sin as covenant
   breach rather than ritual failure; Romans 3:23, 5:12–21, 7; James 1:14–15 on desire conceiving
@@ -117,6 +118,8 @@ has been argued.
   way*), and named with the same verb as its punishment
 - [[The Sons of God and the Corruption of the Earth]] — the diagnosis: not an act but the
   imagination of the heart, every one of them, continually, only evil
+- [[The Waters Recede]] — the same diagnosis restated by God after the flood, as the reason for
+  mercy rather than for judgment
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 - [[Eliphaz's Second Speech]] — Job 15:14–16, the friends' anthropology at full strength (*"What is
   man, that he should be clean?"*), and the wiki's standing case of a largely true doctrine used as

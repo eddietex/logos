@@ -89,8 +89,11 @@ rule are the conditions the rest of Scripture is set in.
   of the flood (6:17), with the Bible's first covenant (6:18) between them. What is missing is any
   hearing: nobody is summoned, and unlike Sodom nobody stands in front of God to argue. See
   [[Noah and the Flood]] and [[The Flood as Un-Creation]].
-- **Genesis 8:1–9:17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the flood's turn at *"God
-  remembered Noah"*, the promise never to repeat it, Babel, and Sodom, each with God "going down to
+- **Genesis 8:1–22** — the judgment lifted, and formally limited. It turns on *"God remembered
+  Noah"* (see [[Remembrance]] and [[The Waters Recede]]), and it ends with the first time God binds
+  his own future conduct in Scripture: *"I will never again strike every living thing, as I have
+  done."*
+- **Genesis 9:1–17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the covenant and its sign, the promise never to repeat it, Babel, and Sodom, each with God "going down to
   see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
   putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
@@ -113,6 +116,8 @@ rule are the conditions the rest of Scripture is set in.
   described
 - [[Noah and the Flood]] — the sentence carried out, with the punishment named by the crime's own
   verb and the ark specified in the same speech as the destruction
+- [[The Waters Recede]] — the sentence lifted on a memory, and God limiting his own future conduct
+  for the first time
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

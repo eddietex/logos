@@ -9,6 +9,8 @@ tags: [connection]
 
 - Genesis 6:1–8 — [[The Sons of God and the Corruption of the Earth]]
 - Genesis 6:9–7:24 — [[Noah and the Flood]]: the ark, the waiting, and the flood
+- Genesis 8:20–22 — [[The Waters Recede]]: the promise never to do it this way again
+- Isaiah 54:9–10 — *"this is like the waters of Noah to me"*: the promise used as a guarantee
 - Matthew 24:37–39 *(not yet ingested)* — *"as the days of Noah were, so will the coming of the Son
   of Man be"*
 - Luke 17:26–27 *(not yet ingested)* — the same saying, paired with the days of Lot
@@ -85,3 +87,14 @@ refused it; the text simply records that the door closed and the water came, and
 use of the scene depends on exactly that silence. See [[Noah and the Flood]], and
 [[The Flood and Baptism]] for the other, opposite thing the New Testament does with the same eight
 people.
+
+**And a note now that Genesis 8 is on the page: the promise is why the next judgment is fire.**
+2 Peter 3:5–7 is the most argued-out of these passages, and its logic runs straight through
+[[The Waters Recede]]. The world that then was *"being flooded with water, perished"*; the present
+heavens and earth are *"reserved for fire"*. The change of element is not rhetorical escalation. It
+is required, because at Genesis 8:21 God said *"I will never again strike every living thing, as I
+have done"* — and Isaiah 54:9 treats that as a sworn oath: *"as I have sworn that the waters of Noah
+will no more go over the earth, so have I sworn that I will not be angry with you."* The New
+Testament's use of the flood as the pattern for a coming judgment therefore has to keep the pattern
+and change the means, and 2 Peter does exactly that. The typology depends on the promise it works
+around.

@@ -113,6 +113,8 @@ the rest of the canon.
 - [[From Adam to Noah]] — *"then he died"*, eight times, and the two entries that do not say it
 - [[Noah and the Flood]] — the sentence carried out, reported four times in three verses, and the
   breath of 2:7 named as what is taken back
+- [[The Waters Recede]] — the sentence reversed: *"breed abundantly… be fruitful, and multiply"*
+  (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
   widened from persons to all flesh
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is

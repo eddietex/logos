@@ -90,6 +90,40 @@ line who never met [[Adam]] — Adam dies 126 years before Noah is born, and Lam
 the last of the ten who overlapped the first man. And his grandfather [[Methuselah]], the
 longest-lived person in Scripture, dies in the same year the flood comes.
 
+### The birds, the altar, and the silence unbroken — Genesis 8:1–22
+
+[[The Waters Recede]] is where he stops waiting and starts doing things, and he still says nothing.
+Fourteen verbs are attributed to him in twenty-two verses and not one word: he opens the window,
+sends the raven, sends the dove, puts out his hand, takes her, brings her in, waits seven days,
+sends, waits seven days, sends, removes the covering, looks, goes out, builds, takes, offers.
+
+**The one tender act in the flood belongs to him.** *"He put out his hand, and took her, and brought
+her to him into the ship"* (8:9). In forty-four verses that report the death of everything alive
+without a single adjective, the one thing described with any warmth is a man reaching out for a
+tired bird. Nothing else in the narrative comes close.
+
+**The one unprompted act belongs to him too, and it is expensive.** He is told to build a ship, told
+who to load, told to come in, told to go out — and the narrator twice summarizes him as having done
+*"all that God commanded him"* (6:22, 7:5). Nobody tells him to sacrifice. He builds the first altar
+in the Bible and offers the first burnt offering, *"of every clean animal, and of every clean bird"*
+(8:20), which is what the seven pairs of 7:2 were for and costs him a seventh of every clean species
+alive. He does it before any promise has been made to him: 8:21 is spoken *in Yahweh's heart* and
+Noah does not hear it, and the covenant of 6:18 is not established until 9:9. He steps off the ship
+onto a planet that has just been drowned, with no assurance it will not happen again, and worships.
+See [[A Pleasing Aroma]] and [[Sacrifice and Offering]].
+
+**And he waits for orders he could have anticipated.** At 8:13 he removes the covering, looks, and
+sees dry ground. He then stays in the ship fifty-seven more days, until *"God spoke to Noah, saying,
+'Go out of the ship'"* (8:15). He has the evidence and declines to act on it. Whatever else the
+obedience formulas of 6:22 and 7:5 mean, this is what they look like from inside.
+
+The chapter's most important verse is not about him at all. *"God remembered Noah"* (8:1) is the
+hinge the whole flood turns on, and it is worth saying plainly that nothing Noah did turned it — not
+the ark, not the righteousness of 6:9, not the year of waiting. See [[Remembrance]]. And 8:21's
+promise not to *"again curse the ground any more for man's sake"* is the answer to the hope
+[[Lamech (father of Noah)]] pinned on this son's name in 5:29, arriving in the generation he hoped
+for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming Noah]].
+
 ## Timeline / key events
 
 - Born to Lamech in Lamech's one hundred eighty-second year, and named for the relief of the curse
@@ -102,8 +136,9 @@ longest-lived person in Scripture, dies in the same year the flood comes.
   Bible's first covenant; builds it and loads it without a word — [[Noah and the Flood]]
 - Enters the ship in his six hundredth year, in the second month, on the seventeenth day; Yahweh
   shuts him in, and the water rises for a hundred and fifty days — [[Noah and the Flood]]
-- Sends out the raven and the dove; builds an altar; God promises never again to curse the ground —
-  Genesis 8 *(not yet ingested)*
+- Remembered by God at the flood's midpoint; sends out the raven and the dove; disembarks on
+  Ararat's mountains a year and ten days after the water came; builds the Bible's first altar
+  unbidden, and God resolves never again to curse the ground — [[The Waters Recede]]
 - Receives the covenant and the rainbow; plants a vineyard; speaks for the first time, to curse
   Canaan; dies at 950 — Genesis 9 *(not yet ingested)*
 
@@ -113,6 +148,8 @@ longest-lived person in Scripture, dies in the same year the flood comes.
 - [[The Sons of God and the Corruption of the Earth]] — the last four words of the unit, and the
   Bible's first use of the word *favor*
 - [[Noah and the Flood]] — the whole unit is about him, and he does not speak in it
+- [[The Waters Recede]] — the birds, the disembarking, and the first altar in Scripture; still not
+  a word
 
 ## Related people
 
@@ -141,3 +178,6 @@ longest-lived person in Scripture, dies in the same year the flood comes.
 - [[Life and Death]]
 - [[Judgment]]
 - [[Divine Grief and Relenting]]
+- [[Remembrance]]
+- [[Sacrifice and Offering]]
+- [[Creation]]

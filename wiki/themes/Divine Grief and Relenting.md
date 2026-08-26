@@ -64,11 +64,13 @@ happening in God rather than in the world.
 
 - **Genesis 6:6–7** — the first use of *nāḥam* of God, twice in two verses, as the ground of the
   flood. See [[The Sons of God and the Corruption of the Earth]].
-- **Genesis 8:21** *(not yet ingested)* — the counterpart, and the theme's most important turn: God
+- **Genesis 8:21** — the counterpart, and the theme's most important turn: God
   restates the verdict of 6:5 almost word for word (*"the imagination of man's heart is evil from
   his youth"*) and draws the opposite conclusion — *"I will not again curse the ground any more for
   man's sake"*. The same fact about humanity produces the flood in chapter 6 and the promise never
-  to repeat it in chapter 8.
+  to repeat it in chapter 8. Note too that the two verses report the only interiors Genesis gives
+  God, in the same words — *ʾel-libbô*, *in his heart* — so the flood is bracketed by grief on one
+  side and resolve on the other. See [[The Waters Recede]].
 - **Exodus 32:9–14** — Moses argues, and *"Yahweh repented of the evil which he said he would do to
   his people"*. The pattern's clearest case of intercession changing an announced outcome.
 - **Numbers 23:19** — *"God is not a man … that he should repent"*, spoken by Balaam about a
@@ -94,6 +96,8 @@ happening in God rather than in the world.
 
 - [[The Sons of God and the Corruption of the Earth]] — *"Yahweh was sorry that he had made man on
   the earth, and it grieved him in his heart"*
+- [[The Waters Recede]] — *"Yahweh said in his heart"*: the same phrase, the same verdict on
+  humanity, and the opposite conclusion drawn from it
 
 ## Related themes
 

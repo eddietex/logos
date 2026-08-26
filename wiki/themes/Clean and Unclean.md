@@ -46,8 +46,10 @@ These are not exclusive, and the third is the one the text argues for by itself.
 
 - **Genesis 7:2–3, 8** — the first occurrence, assumed and undefined, with a sevenfold surplus of
   the clean. See [[Noah and the Flood]].
-- **Genesis 8:20** *(not yet ingested)* — what the surplus was for: burnt offerings of *every* clean
-  animal and bird, the first altar in Scripture after the flood.
+- **Genesis 8:20** — what the surplus was for: burnt offerings of *every* clean animal and bird, on
+  the first altar in Scripture. The chapter also lets the distinction pick the birds: an unclean
+  raven for the errand that does not come back, a clean dove for the one that does. See
+  [[The Waters Recede]].
 - **Leviticus 11; Deuteronomy 14:3–21** — the distinction codified. Land animals must chew the cud
   *and* have a split hoof; sea creatures need fins and scales; a list of birds is simply given.
   Reasons are not stated, and the attempts to supply them — hygiene, anti-Canaanite polemic, Mary
@@ -83,6 +85,8 @@ These are not exclusive, and the third is the one the text argues for by itself.
 
 - [[Noah and the Flood]] — the distinction's first appearance in Scripture, assumed without
   definition nine centuries before Leviticus defines it
+- [[The Waters Recede]] — the distinction load-bearing at last: what 7:2's surplus was for, and
+  which bird gets sent where
 
 ## Related themes
 

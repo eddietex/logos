@@ -38,8 +38,10 @@ is close because you cannot bear to sit in the dark with him.
 - **Genesis 5:29** — Lamech naming Noah for the comfort he hopes is coming from the cursed ground:
   the wiki's first instance of hope, and one that receives at best a partial answer. See
   [[Comfort from the Cursed Ground - Naming Noah]] and [[From Adam to Noah]].
-- **Genesis 8:6–12** *(not yet ingested)* — the raven and the dove: hope reduced to sending a bird
-  out and watching whether it comes back.
+- **Genesis 8:6–12** — the raven and the dove: hope reduced to sending a bird out and watching
+  whether it comes back, three times at seven-day intervals, until the day she does not. See
+  [[The Waters Recede]]. The chapter's larger point about hope is that Noah's did not turn anything;
+  8:1 did, before he sent a single bird.
 - **Job 6:11; 7:6; 14:7–12, 19** — the earlier statements. 14:7 is the sharpest: *"there is hope for
   a tree … that it will sprout again"* — and then the flat comparison, *"but man
   dies, and is laid low."*
@@ -77,6 +79,8 @@ is close because you cannot bear to sit in the dark with him.
 - [[Miserable Comforters and the Witness in Heaven]] — hope asked after and not found, four verses
   from the highest confidence in the book
 - [[From Adam to Noah]] — Lamech's hope at Genesis 5:29, the wiki's first
+- [[The Waters Recede]] — hope as a bird sent out over water, and a partial answer to 5:29 arriving
+  in a sentence nobody in the story hears
 
 ## Related themes
 

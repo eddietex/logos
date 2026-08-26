@@ -66,6 +66,8 @@ costly.
   deep, under the sentence of 3:19
 - [[Noah and the Flood]] — the blessing unmentioned through the whole account, and not renewed until
   the far side of the water
+- [[The Waters Recede]] — the far side of the water: *"be fruitful, and multiply on the earth"*
+  (8:17), restored to the animals first, with humanity's turn held back until 9:1
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 

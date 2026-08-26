@@ -50,9 +50,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - **Genesis 3:21** — the coats of skins: not called a sacrifice, but a death that clothes.
 - **Genesis 4:3–5** — the first offerings, uncommanded and unequally received; *minḥâ* used of
   both.
-- **Genesis 8:20–21; 15:9–17; 22:1–19** *(not yet ingested)* — Noah's altar and the *"pleasant
-  aroma"*; the covenant between the pieces; the binding of Isaac and *"God will provide himself
-  the lamb"*, the passage the whole theme eventually bends toward.
+- **Genesis 8:20–21** — the first *altar* in Scripture, the first *burnt offering* (*ʿōlâ*, wholly
+  consumed), and the first *rêaḥ nîḥōaḥ*, the **pleasant aroma**, which becomes the standing
+  Levitical description of an accepted sacrifice. Four things set the terms here for everything
+  after: nobody commanded it, it costs a seventh of every clean species alive, God's response is
+  addressed to no one (*"Yahweh said in his heart"*), and the resolve it produces is grounded in
+  human evil rather than human merit. See [[The Waters Recede]] and [[A Pleasing Aroma]].
+- **Genesis 15:9–17; 22:1–19** *(not yet ingested)* — the covenant between the pieces; the binding of
+  Isaac and *"God will provide himself the lamb"*, the passage the whole theme eventually bends
+  toward.
 - Strands to trace as ingestion reaches them: Passover and the blood on the doorposts (Exodus 12);
   the five offerings and the Day of Atonement (Leviticus 1–7, 16); *"the life of the flesh is in
   the blood"* (Leviticus 17:11); *"to obey is better than sacrifice"* (1 Samuel 15:22) and the
@@ -64,6 +70,9 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[Cain and Abel]] — the first offerings, and the first refusal
 - [[Cain and Abel in the New Testament]] — Hebrews 11:4 on Abel's sacrifice as the first act of
   faith
+- [[The Waters Recede]] — the first altar, the first burnt offering, and the first *pleasant aroma*
+- [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
+  and its New Testament application to Christ, to money, and to prayer
 
 ## Related themes
 

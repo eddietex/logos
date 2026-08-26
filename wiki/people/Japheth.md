@@ -44,6 +44,8 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 - Born to Noah, named third of three sons — [[From Adam to Noah]]
 - Named among those who enter the ark, and enters it with his brothers on the day the flood begins —
   [[Noah and the Flood]]
+- Comes out of the ark with his brothers, named only as one of *"his sons"* —
+  [[The Waters Recede]]
 - Covers his father with Shem, walking in backwards; receives the blessing *"May God enlarge
   Japheth"* — Genesis 9:18–29 *(not yet ingested)*
 - Ancestor of Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras, and of *"the islands of the
@@ -53,6 +55,8 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 
 - [[From Adam to Noah]] — named at 5:32 with his brothers
 - [[Noah and the Flood]] — named at 6:10 and 7:13; given no act and no words
+- [[The Waters Recede]] — not named; present only as one of *"his sons"* leaving the ark (8:16,
+  8:18)
 
 ## Related people
 

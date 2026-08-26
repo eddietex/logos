@@ -918,3 +918,87 @@ the WEB has *"an angel"*; 8:10 added an *"and"*; 4:15 used a semicolon for a ful
 dropped two commas; 17:14's two inner quotations had been merged into one; 42:7 was quoted in a
 reconstructed form; and Job 28:28 had been cited for Proverbs 9:10's wording. 14:7 was re-elided
 rather than silently re-cased.
+
+## [2026-08-25] ingest | Genesis 8.1-22 — The Waters Recede
+
+Interactive run (`/ingest`, no target). Ninth pericope of Genesis, and the descending half of the
+flood chiasm whose ascent was ingested as [[Noah and the Flood]].
+
+One resolution question was put to the user before starting: two books are marked `in-progress`
+(Genesis at 8/58, Job at 2/32), so "the book currently being worked" was ambiguous. The user chose
+Genesis. Job's first unchecked box remains `Job of Uz — Job 1:1–5`, which is where a Job-targeted
+run picks up.
+
+The unit: *"God remembered Noah"* and the wind over the water, the fountains stopped, the ark
+resting on Ararat's mountains, the dated recession, the raven and the dove, the command to
+disembark, the first altar in Scripture, and God's resolve at 8:21–22. The plan's boundary
+(8:1–22) was kept unchanged — it is the chiasm's whole descending arm, and 9:1 starts the blessing
+and covenant material.
+
+Created:
+- `wiki/passages/Genesis/The Waters Recede.md`
+- `wiki/places/Ararat.md`
+- `wiki/themes/Remembrance.md`
+- `wiki/connections/The Dove and the Spirit.md`, `A Pleasing Aroma.md`
+
+Revised: `wiki/people/Noah.md` (new section — the birds, the altar, and the silence unbroken),
+`God.md` (new section — he remembers, and changes his mind about nothing except what he will do),
+`Shem.md`, `Ham.md`, `Japheth.md`, `Lamech (father of Noah).md`; `wiki/themes/Curse.md`,
+`Judgment.md`, `Hope.md`, `Divine Grief and Relenting.md`, `Sin.md`, `Clean and Unclean.md`,
+`Sacrifice and Offering.md`, `Covenant.md`, `Creation.md`, `Blessing.md`, `Life and Death.md`,
+`Favor and Grace.md`, `Sabbath.md`; `wiki/connections/The Flood as Un-Creation.md`,
+`Comfort from the Cursed Ground - Naming Noah.md`, `The Flood and Baptism.md`,
+`As It Was in the Days of Noah.md`; `wiki/passages/Genesis/Noah and the Flood.md` (its two forward
+references to Genesis 8 now resolve); `wiki/books/Genesis.md` (box checked),
+`wiki/books/index.md` (9 / 58), `wiki/places/index.md`, `themes/index.md`, `connections/index.md`,
+and `wiki/index.md` counts (11 passages · 29 people · 6 places · 25 themes · 26 connections).
+
+Twelve forward references left by earlier ingests as *(not yet ingested)* now point at a real page:
+in `Curse`, `Judgment`, `Hope`, `Divine Grief and Relenting`, `Sin`, `Clean and Unclean`,
+`Sacrifice and Offering`, `Covenant`, `The Flood as Un-Creation`,
+`Comfort from the Cursed Ground - Naming Noah`, `The Flood and Baptism`, and `Noah and the Flood`.
+
+Judgment calls, for review:
+- **`Remembrance` was made a theme page rather than a connection page.** *Zākar* is a word-motif
+  running the length of the canon with no single pair of passages at its centre, which is
+  theme-shaped rather than connection-shaped. Put to the user before writing and approved.
+- **The Gilgamesh XI comparison lives in the passage page's Notes, not on a connection page.**
+  Connection pages are for scripture-internal links; a comparative-literature note belongs in the
+  passage's apparatus. Put to the user before writing and approved. The note states the two points
+  of near-identity (the bird-sending and *"the gods smelled the sweet savour"*) and the difference
+  Genesis makes of the second, without adjudicating literary dependence.
+- **`Ararat` got a place page though only one verse names it.** The justification is that it is the
+  first named location in Genesis since Nod (4:16), that the Hebrew plural (*"the mountains of
+  Ararat"*, a region) is routinely lost in English and worth recording once, and that Ararat recurs
+  in 2 Kings 19:37 and Jeremiah 51:27 as an ordinary kingdom. The page says plainly that the
+  single-peak identification is medieval and not biblical.
+- **No new person pages.** Genesis 8 names no one Genesis 7 did not. The four women in the ark
+  remain without pages, per the decision recorded at the previous ingest; the small change here —
+  God's command at 8:16 pairs husbands with wives (*"you, your wife, your sons, and your sons'
+  wives"*) where every boarding list separated them — is recorded on the passage page, along with
+  the honest qualification that the narration two verses later (8:18) reverts to the old order.
+- **`kî` at 8:21 is read causally, and the alternative is stated.** The page argues for *"because
+  the imagination of man's heart is evil"* over the concessive *"even though"* on three grounds
+  (the dominant use of *kî*, the near-quotation of 6:5 where the same construction is causal, and
+  the fact that the concessive reading makes the sentence unremarkable), while recording that the
+  Hebrew permits the concessive.
+- **8:21 is described as answering 5:29 partially, not fully**, consistent with what
+  `Comfort from the Cursed Ground - Naming Noah` already said. The new material is the philological
+  reason: 8:21's verb is *qālal*, not the *ʾārar* of 3:17, so no further curse is added and the
+  standing one is not lifted.
+- **`The Dove and the Spirit` is explicit that no biblical writer links the two doves.** The page
+  says so twice and rests the connection on 1 Peter 3:20–21's flood/baptism typology plus an
+  audible echo, rather than claiming a citation. It also notes the rabbinic gloss on Genesis 1:2
+  (*Ḥagigah* 15a) that had the Spirit hovering *"like a dove"* independently of any Christian
+  reading.
+- **`As It Was in the Days of Noah` gained a section it was not obviously owed** — on why 2 Peter
+  3:5–7 has to change the element from water to fire, given 8:21 and Isaiah 54:9. Judged worth
+  adding because the typology's mechanics depend on the promise this pericope contains.
+
+`scripts/link-check.sh` exits 0: no wrapped links, no dangling targets, 64 not-yet-started book
+pages as the expected baseline. No links were deliberately left dangling this pass; forward
+references to Genesis 9–11 are written as plain scripture references marked *(not yet ingested)*.
+
+Noted for a future schema pass, not changed here: `CLAUDE.md`'s `## Link checks` section says the
+baseline is "65 of them at present". It has been 64 since Job was started, and the script computes
+it, so the number in prose is already stale.

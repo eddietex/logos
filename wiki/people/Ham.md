@@ -46,6 +46,8 @@ only on the passage page because the association attaches to his name.
 - Born to Noah, named second of three sons — [[From Adam to Noah]]
 - Named among those who enter the ark, and enters it with his brothers on the day the flood begins —
   [[Noah and the Flood]]
+- Comes out of the ark with his brothers, still named only as one of *"his sons"* — the last
+  time he is anonymous — [[The Waters Recede]]
 - Sees his father's nakedness and tells his brothers; Noah curses Canaan — Genesis 9:18–29 *(not yet
   ingested)*
 - Ancestor of Cush, Mizraim, Put, and Canaan — Genesis 10:6–20 *(not yet ingested)*
@@ -54,6 +56,8 @@ only on the passage page because the association attaches to his name.
 
 - [[From Adam to Noah]] — named at 5:32 with his brothers
 - [[Noah and the Flood]] — named at 6:10 and 7:13; given no act and no words
+- [[The Waters Recede]] — not named; present only as one of *"his sons"* going out of the ship
+  (8:16, 8:18)
 
 ## Related people
 

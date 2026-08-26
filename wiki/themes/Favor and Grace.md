@@ -88,6 +88,9 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   sentence and before the character reference
 - [[Noah and the Flood]] — the other half of the pair, and the flood that comes anyway: he is
   carried through the water, not around it
+- [[The Waters Recede]] — grace widened from one man to the whole race, and explicitly grounded on
+  humanity's incorrigibility: *"because the imagination of man's heart is evil from his youth"*
+  (8:21)
 
 ## Related themes
 

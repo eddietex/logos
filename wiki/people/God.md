@@ -202,6 +202,45 @@ nothing at all about how any of it feels. And no answer to the obvious question:
 have him explain why the animals die, or the children, and unlike Sodom there is nobody standing in
 front of him to ask.
 
+### He remembers, and changes his mind about nothing except what he will do — Genesis 8:1–22
+
+[[The Waters Recede]] is the flood's descending half, and it gives this page its two most important
+verses about what God is like.
+
+- **He remembers, and that is the whole turn.** *"God remembered Noah, all the animals, and all the
+  livestock that were with him in the ship"* (8:1) sits at the structural centre of the entire flood
+  narrative. *Zākar* is not recollection — God is never said to have forgotten — but action on a
+  commitment, and what follows in the same verse is the wind and the water going down. Nothing Noah
+  did could turn an un-creation. What turns it is that God calls him to mind. See [[Remembrance]].
+- **He remembers the animals too.** They are in 8:1's object list, and that is not decoration; it is
+  the ground of 9:9–10, where the covenant is made *"with every living creature"* and not only with
+  the people.
+- **He re-creates with the same word he created with.** *"God made a wind to pass over the earth"* —
+  *rûaḥ*, over the waters, which is 1:2 exactly. Then day two's division is restored, dry land
+  returns, and the creatures are released under 1:22's blessing (8:17). See
+  [[The Flood as Un-Creation]].
+- **He receives a sacrifice nobody was told to bring.** He commanded an ark, a loading, and a
+  disembarking; he did not command an altar. *"Yahweh smelled the pleasant aroma"* (8:21) is the
+  Bible's first *rêaḥ nîḥōaḥ*, the phrase that becomes Leviticus's standing description of an
+  accepted offering. See [[A Pleasing Aroma]].
+- **And he draws the opposite conclusion from the same evidence.** *"I will not again curse the
+  ground any more for man's sake because the imagination of man's heart is evil from his youth"*
+  (8:21). Every noun in that reason clause is lifted from 6:5, the verse that caused the flood —
+  *yēṣer*, *lēb*, *raʿ*. In chapter 6 human evil is why he sends the water; in chapter 8 it is why
+  he will never send it again. The flood accomplished exactly what it was sent to do and changed
+  nothing about what it was sent against, and God says so. See [[Divine Grief and Relenting]] and
+  [[Favor and Grace]].
+
+Two structural notes. **The interior of God is reported twice in Genesis and both times in the flood:**
+*"it grieved him in his heart"* (6:6) and *"Yahweh said in his heart"* (8:21), the same phrase,
+*ʾel-libbô*, bracketing the judgment with grief on one side and resolve on the other. And **the names
+divide as before** — *ʾĕlōhîm* for the remembering, the wind, and the command to disembark (8:1,
+8:15); *Yahweh* from the altar onward (8:20–21), for the smelling and the resolve, exactly as at 7:1
+and 7:16.
+
+One thing he does not do: tell Noah. 8:21 is spoken in his own heart, and the man on the altar is not
+in the conversation. The binding of himself that began at 6:18 is not made public until 9:8–17.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -250,6 +289,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   [[The Sons of God and the Corruption of the Earth]]
 - Declares one man righteous, specifies an ark, promises the Bible's first covenant, opens the deep
   and the windows of the sky on a dated day, and shuts the door himself — [[Noah and the Flood]]
+- Remembers Noah at the flood's midpoint and sends a wind over the water; stops the deep, dries the
+  earth, and orders everyone out; smells the first sacrifice in Scripture and resolves — in his own
+  heart, where no one can hear — never to curse the ground or strike all life again —
+  [[The Waters Recede]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
   answers with questions rather than reasons — [[Job]], Job 38–41
 
@@ -265,6 +308,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   grieving, sentencing, and favoring, all in six verses
 - [[Noah and the Flood]] — the sentence executed: specifying, covenanting, dating, opening the deep,
   and shutting the door
+- [[The Waters Recede]] — the sentence lifted: remembering, sending the wind, commanding the exit,
+  smelling the offering, and binding his own future conduct
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech
@@ -315,3 +360,4 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Suffering]]
 - [[Retribution]]
 - [[Mediation and Advocacy]]
+- [[Remembrance]]

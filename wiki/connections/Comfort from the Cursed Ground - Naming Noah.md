@@ -11,8 +11,8 @@ tags: [connection]
   days of your life"* — [[The Fall]]
 - **Genesis 5:28–29** — *"He named him Noah, saying, 'This one will comfort us in our work and in
   the toil of our hands, caused by the ground which Yahweh has cursed'"* — [[From Adam to Noah]]
-- **Genesis 8:20–22** *(not yet ingested)* — *"I will not again curse the ground any more for man's
-  sake"*
+- **Genesis 8:20–22** — *"I will not again curse the ground any more for man's sake"* —
+  [[The Waters Recede]]
 - **Genesis 9:20–21** *(not yet ingested)* — *"Noah began to be a farmer, and planted a vineyard"*
 - **Psalm 104:15** — wine *"that makes glad the heart of man"*
 

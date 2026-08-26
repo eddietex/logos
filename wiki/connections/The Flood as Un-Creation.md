@@ -9,7 +9,8 @@ tags: [connection]
 
 - Genesis 1:1–2:3 — [[The Creation of the World]]
 - Genesis 6:9–7:24 — [[Noah and the Flood]]
-- Genesis 8:1–5 *(not yet ingested)* — the wind over the waters, and dry land reappearing
+- Genesis 8:1–22 — the wind over the waters, dry land reappearing, and the resolve at 8:21 —
+  [[The Waters Recede]]
 - Genesis 9:1–7 *(not yet ingested)* — the blessing of 1:28 reissued, with changes
 - Psalm 104:5–9 — the waters set a boundary they may not pass
 - Jeremiah 4:23–26 — *"I saw the earth, and, behold, it was waste and void"*: the same reversal used
