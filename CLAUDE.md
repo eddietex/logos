@@ -242,10 +242,12 @@ links verbatim whenever it records a link problem, and those examples must not r
 findings.
 
 Check 2's expected baseline is exactly the not-yet-started book pages linked from
-`wiki/books/index.md` — 65 of them at present, shrinking by one per book completed. The script
-recognizes them, counts them on a single line, and keeps them out of the findings, so a dangling
-link it *does* report is either a typo to fix or a link deliberately left for a later pericope,
-which belongs in the ingest's log entry.
+`wiki/books/index.md` — one for every one of the 66 books whose page does not exist yet, so it
+shrinks by one each time a book page is created (which is when ingestion first reaches that book,
+not when the book is finished). The script computes the count itself and prints it on a single
+line; don't compare it against a number written down here. It keeps those links out of the
+findings, so a dangling link it *does* report is either a typo to fix or a link deliberately left
+for a later pericope, which belongs in the ingest's log entry.
 
 Note that check 2 cannot find what check 1 finds: a wrapped link is not a malformed link, it is
 not a link at all, so nothing that searches for `[[...]]` will ever see it. That is why the script

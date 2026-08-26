@@ -1002,3 +1002,24 @@ references to Genesis 9–11 are written as plain scripture references marked *(
 Noted for a future schema pass, not changed here: `CLAUDE.md`'s `## Link checks` section says the
 baseline is "65 of them at present". It has been 64 since Job was started, and the script computes
 it, so the number in prose is already stale.
+
+## [2026-08-25] schema | The link-check baseline is described by its rule, not by a count
+
+`CLAUDE.md`'s `## Link checks` section said check 2's expected baseline was "65 of them at present,
+shrinking by one per book completed." Both halves had drifted from what the script does.
+
+The count was wrong: `scripts/link-check.sh` prints 64, and has since the Job page was created.
+The rule was also wrong. The baseline is the set of targets linked from `wiki/books/index.md` whose
+page does not exist (see the script's line 87 — it collects dangling targets and checks them
+against that index), so it shrinks when a book **page is created**, which is when ingestion first
+reaches the book, not when the book is finished. Genesis and Job are both `in-progress` and both
+already have pages, so both have already left the baseline: 66 − 2 = 64.
+
+Nothing was broken by this — the script computes the number itself and excludes those links from
+its findings, so link-check has been exiting 0 correctly throughout. The only cost was a reader
+comparing the doc's 65 against the script's 64 and having to work out which one to trust, which is
+what happened during the Genesis 8:1–22 ingest and is why it was logged there first.
+
+Changed: the paragraph now states the rule and says explicitly not to compare the script's printed
+count against a number written down in the schema. No number is quoted, so it cannot go stale
+again. `scripts/link-check.sh` itself is unchanged.
