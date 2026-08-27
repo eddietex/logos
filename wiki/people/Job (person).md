@@ -26,13 +26,14 @@ God he argues with is named *ʾĒl*, *ʾĔlôah*, and *Šadday* almost throughou
 belongs to the prose frame. This gives the book its reach: the problem is posed as a human problem
 before it is a covenantal one.
 
-In the ingested passages he appears as the man on the other end of Eliphaz's second speech, and
-then as the speaker of the reply that runs from Job 16:1 to 17:16. That reply is where the two
-poles of his character are furthest apart. He accuses God of tearing him like a beast, dashing him
-to pieces, and setting him up as an archery target — and eleven verses later declares *"my witness
-is in heaven"* and asks that figure to argue his case against God. The book's final verdict on him
-(42:7, *"you have not spoken of me the thing that is right, as my servant Job has"*) is delivered
-to the friends, and it commends the man who said both.
+The wiki has him from two directions so far: the five verses of [[Job of Uz]] that introduce him
+before anything happens, and then, forty chapters of argument in, the man on the other end of
+Eliphaz's second speech and the speaker of the reply that runs from Job 16:1 to 17:16. That reply
+is where the two poles of his character are furthest apart. He accuses God of tearing him like a
+beast, dashing him to pieces, and setting him up as an archery target — and eleven verses later
+declares *"my witness is in heaven"* and asks that figure to argue his case against God. The
+book's final verdict on him (42:7, *"you have not spoken of me the thing that is right, as my
+servant Job has"*) is delivered to the friends, and it commends the man who said both.
 
 ## What he holds to, and what he gives up
 
@@ -63,9 +64,9 @@ trial, not a physician. He asks to be answered far more often than he asks to be
 Prose prologue and epilogue (Job 1–2, 42:7–17), given here as background for the ingested
 speeches; each becomes a linked passage page as it is ingested.
 
-- **Job 1:1–5** — introduced in Uz: blameless and upright, seven sons and three daughters, immense
-  flocks, and a standing practice of offering burnt offerings on his children's behalf *"It may be
-  that my sons have sinned, and renounced God in their hearts."*
+- **Job 1:1–5** — [[Job of Uz]]. Introduced in [[Uz]]: blameless and upright, seven sons and three
+  daughters, immense flocks, and a standing practice of offering burnt offerings on his children's
+  behalf *"It may be that my sons have sinned, and renounced God in their hearts."*
 - **Job 1:6–22** — the heavenly council; the accuser's question *"Does Job fear God for nothing?"*;
   four messengers in one afternoon; all his livestock, servants, and ten children destroyed. He
   tears his robe, shaves his head, worships, and says *"Yahweh gave, and Yahweh has taken away."*
@@ -95,6 +96,8 @@ speeches; each becomes a linked passage page as it is ingested.
 
 ## Appears in
 
+- [[Job of Uz]] — his introduction: the narrator's fourfold verdict, the household, the wealth, and
+  the burnt offerings offered for sins his children may not have committed.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the
@@ -108,16 +111,21 @@ speeches; each becomes a linked passage page as it is ingested.
   throughout Job 16–17.
 - [[God]] — Job's real interlocutor from chapter 3 onward. He speaks *about* the friends and *to*
   God, and the friends do the reverse.
+- [[Job's Children]] — seven sons and three daughters, unnamed until the epilogue; the reason for
+  the first sacrifice in the book and the worst of his losses.
 - **His wife** — one line, at 2:9, and no name. She is the only person in the book who tells him to
   stop, and Job's answer to her (*"Shall we receive good at the hand of God, and shall we not
   receive evil?"*) is the book's first statement of the position he never abandons.
 - **Elihu** — a fourth speaker, introduced at 32:2 without warning and unmentioned in the epilogue.
 - **Noah and Daniel** — named with Job at Ezekiel 14:14, 20 as three men whose righteousness would
-  save only themselves; see [[Noah]]. The pairing is the earliest evidence outside this book that
-  Job was a known figure of proverbial righteousness.
+  save only themselves; see [[Noah]] and
+  [[Blameless Before Anyone Is Watching]]. The pairing is the earliest evidence outside this book
+  that Job was a known figure of proverbial righteousness.
 
 ## Themes associated
 
+- [[The Fear of God]] — the term the narrator uses of him at 1:1 and God repeats at 1:8, and the
+  one the accuser attacks: not *whether* Job fears God but *why*.
 - [[Suffering]] — the Bible's central case, and the one where the cause is disclosed to the reader
   and withheld from the sufferer.
 - [[Retribution]] — the doctrine his case is built to break.
@@ -129,6 +137,8 @@ speeches; each becomes a linked passage page as it is ingested.
   Ecclesiastes and Job sit next to Proverbs in the canon.
 - [[Judgment]] — his demand is for a trial, and the book's difficulty is that the judge is also the
   defendant.
+- [[Sacrifice and Offering]] — he is his own priest at 1:5 and the friends' priest at 42:8; see
+  [[Sacrifice Before the Priesthood]].
 
 ## Notes
 

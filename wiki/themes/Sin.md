@@ -126,6 +126,10 @@ has been argued.
   a false diagnosis
 - [[What Is Man That He Should Be Clean]] — the three Job speeches on human impurity, and what
   separates them from Genesis 6:5 and Romans 3
+- [[Job of Uz]] — Job 1:5, sin as a hypothesis about someone else's heart (*"It may be that my sons
+  have sinned, and renounced God in their hearts"*), covered by sacrifice before any offence is
+  known — and named with *bārak*, *to bless*, the euphemism that carries the book's four hinge
+  moments
 
 ## Related themes
 

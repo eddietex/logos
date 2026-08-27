@@ -66,7 +66,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Prologue (1–2)
 
-- [ ] Job of Uz — Job 1:1–5
+- [x] [[Job of Uz]] — Job 1:1–5
 - [ ] The Wager in Heaven and the Four Messengers — Job 1:6–22
 - [ ] The Second Test — Job 2:1–10
 - [ ] Seven Days of Silence — Job 2:11–13
@@ -130,6 +130,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [[Suffering]]
 - [[Retribution]]
+- [[The Fear of God]]
 - [[Wisdom]]
 - [[Hope]]
 - [[Mediation and Advocacy]]
@@ -144,9 +145,11 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Eliphaz the Temanite]]
 - [[Bildad the Shuhite]]
 - [[Zophar the Naamathite]]
+- [[Job's Children]]
 - [[God]]
 
 ## Key places
 
+- [[Uz]]
 - [[Teman]]
 - [[Sheol]]

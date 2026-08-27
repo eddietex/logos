@@ -150,6 +150,10 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[Noah and the Flood]] — the whole unit is about him, and he does not speak in it
 - [[The Waters Recede]] — the birds, the disembarking, and the first altar in Scripture; still not
   a word
+- [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
+  of the two men
+- [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
+  runs on to Job 1:5
 
 ## Related people
 
@@ -165,6 +169,10 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
   the flood with him; each of them still a name in a list until Genesis 9:18–29
 - **His wife, and his sons' wives** — four of the eight in the ark, counted in every boarding list
   and unnamed anywhere in Scripture
+- [[Job (person)]] — introduced by the same move Noah is, a verdict of blamelessness delivered
+  before he acts (Genesis 6:9; Job 1:1), and named beside him at Ezekiel 14:14, 20 as one of three
+  men whose righteousness would deliver only themselves. See
+  [[Blameless Before Anyone Is Watching]].
 
 ## Themes associated
 

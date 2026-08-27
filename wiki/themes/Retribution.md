@@ -82,6 +82,9 @@ verdicts.
 
 ## Key passages
 
+- [[Job of Uz]] — the doctrine's premises assembled without being stated: a blameless man, an
+  itemised fortune, and the correlation between them that the friends will read backwards once the
+  fortune is gone
 - [[Eliphaz's Second Speech]] — the doctrine's fullest statement in the book, and 15:6's method for
   making it immune to counter-evidence
 - [[Miserable Comforters and the Witness in Heaven]] — 16:8, the sufferer watching his own body
@@ -97,11 +100,14 @@ verdicts.
 - [[Curse]] — the covenantal machinery of Deuteronomy 28, which the friends borrow without the
   covenant
 - [[Sin]] — which the doctrine requires to be present wherever suffering is
+- [[The Fear of God]] — which the doctrine makes unreadable: where piety is reliably paid, no one
+  can tell devotion from investment, which is the accuser's whole case at 1:9
 
 ## Related people
 
 - [[Eliphaz the Temanite]] — its principal spokesman
 - [[Bildad the Shuhite]] — who applies it to Job's dead children at 8:4
+- [[Job's Children]] — the ten the doctrine is used on at its most brutal
 - [[Zophar the Naamathite]] — who pushes it furthest, telling Job at 11:6 that he is getting less
   than he deserves
 - [[Job (person)]] — the case it cannot handle

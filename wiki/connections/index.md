@@ -30,3 +30,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 |
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 |
 | [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 |
+| [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
+| [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 |

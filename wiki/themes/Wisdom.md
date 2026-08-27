@@ -89,6 +89,8 @@ close to the book's whole point about who may speak for the tradition. See
   deny a sufferer standing to speak
 - [[Miserable Comforters and the Witness in Heaven]] — *"I shall not find a wise man among you"*
 - [[The Fall]] — the first desire for wisdom, and its cost
+- [[Job of Uz]] — the test case placed at the head of *"the children of the east"* (1:3), the
+  territory the Old Testament associates with international wisdom (1 Kings 4:30)
 
 ## Related themes
 
@@ -97,6 +99,8 @@ close to the book's whole point about who may speak for the tradition. See
 - [[Judgment]] — what wisdom claims to be able to anticipate
 - [[Creation]] — the order wisdom reads, and Proverbs 8's setting
 - [[Righteousness]] — the outcome wisdom promises
+- [[The Fear of God]] — called wisdom's beginning (Proverbs 1:7) and, at Job 28:28, its definition —
+  which is Job 1:1 restated after twenty-seven chapters
 
 ## Related people
 

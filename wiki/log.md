@@ -1051,3 +1051,75 @@ complete`) rather than any book. It is now anchored to `^- `.
 The rule lives only in `SKILL.md`, not also in `CLAUDE.md`. Target resolution is the skill's job,
 and a second copy of a rule in the schema is exactly the drift that produced the stale link-check
 baseline logged above.
+
+## [2026-08-26] ingest | Job 1.1-5 — Job of Uz
+
+The first pericope of Job's prologue, ingested out of sequence with the rest of the book: chapters
+15 and 16–17 were done first, so this is the book's opening five verses arriving third. Target was
+resolved as the first unchecked box on `wiki/books/Job.md`, per the skill's rule, and the user
+named Job explicitly.
+
+**Created**
+
+- `wiki/passages/Job/Job of Uz.md` — the passage page. Five prose verses treated as four moves: the
+  narrator's fourfold verdict (1:1), the household (1:2), the inventory (1:3), and the standing
+  sacrifice (1:4–5). The reading the page argues is that the unit exists to assemble the premises
+  of retribution so the poem can break the conclusion, and that the accuser's question in 1:9
+  ("Does Job fear God for nothing?") is aimed specifically at the scrupulousness shown in 1:5.
+- `wiki/places/Uz.md` — new place page. The three lines of biblical evidence (Genesis 10:23 Aramean,
+  Genesis 36:28 Horite/Edomite, Lamentations 4:21 Edom) are set out without forcing a resolution;
+  the page's argument is that the location matters mainly because it is *not Israel*.
+- `wiki/themes/The Fear of God.md` — new theme page. Written now rather than later because Job 1:1
+  is the phrase's load-bearing occurrence and 1:9 is the only place in Scripture where its *motive*
+  is put on trial. Traces Genesis 22:12 → Job → Proverbs 1:7 → Job 28:28 → Ecclesiastes 12:13 →
+  Acts 10 → Hebrews 12:28–29, including the 1 John 4:18 counter-statement.
+- `wiki/people/Job's Children.md` — new person (group) page. Created rather than folded into the
+  passage because the ten recur at 1:13–19, 8:4, 19:17, 29:5, and 42:13–15, and because the
+  doubled-livestock / undoubled-children asymmetry at 42:12–13 needs a stable home. Three readings
+  of that asymmetry recorded side by side, none preferred.
+- `wiki/connections/Blameless Before Anyone Is Watching.md` — Genesis 6:9 against Job 1:1. Same
+  narrative move (verdict before evidence, narrator then confirmed by God), different consequence:
+  Noah's righteousness protects him, Job's is what qualifies him for the test. Includes Ezekiel
+  14:14, 20, and the observation that Ezekiel denies these three men exactly the intercessory
+  office Job 42:8 grants Job.
+- `wiki/connections/Sacrifice Before the Priesthood.md` — Cain and Abel, Noah's altar, and Job 1:5
+  as uncommanded offerings with no priest and no law; Job's as the first in Scripture for a sin
+  that may not have happened and is located in the heart. Notes that this makes the book's critique
+  of retribution broader than a critique of Israelite legalism, since there is no law in Job to
+  misread.
+
+**Revised**
+
+- `wiki/books/Job.md` — box checked and linked; `[[Uz]]`, `[[Job's Children]]`, and
+  `[[The Fear of God]]` added to the key lists. Pericope plan otherwise unchanged — no boundary was
+  redrawn.
+- `wiki/people/Job (person).md` — passage added to *Appears in* and to the timeline; Job's Children
+  added to *Related people*; The Fear of God and Sacrifice and Offering added to *Themes
+  associated*; the Ezekiel note pointed at the new connection page.
+- `wiki/people/God.md` — new paragraph in the Job section on how the prose frame differs from the
+  poetry: in 1:1–5 God is the object of a life rather than the subject of an argument, and is
+  *ʾĕlōhîm* until *Yahweh* arrives with the council in 1:6.
+- `wiki/people/Noah.md` — Job added to *Related people* and both new connection pages to
+  *Appears in*.
+- `wiki/themes/Righteousness.md`, `Blessing.md`, `Sin.md`, `Retribution.md`, `Wisdom.md`,
+  `Sacrifice and Offering.md` — key-passage entries for Job 1:1–5, and a *Development across
+  Scripture* entry for Job 1:5 on the sacrifice theme.
+- All five category indexes and `wiki/index.md`'s counts (12 passages · 30 people · 7 places ·
+  26 themes · 28 connections); `wiki/books/index.md` Job now 3 / 32.
+
+**Judgment calls worth reviewing**
+
+- **`Job's Children` created as a person page for an unnamed group.** The precedent is
+  `[[The Nephilim]]` and `[[The Sons of God]]`. The alternative was to leave them inside the
+  passage page, which would have stranded the 42:12–13 arithmetic.
+- **`The Fear of God` created as a theme now**, though the phrase will recur far more often in
+  Deuteronomy, Psalms, and Proverbs than in Job. Created early because Job 1:9 is the one place the
+  Bible asks whether the fear can be disinterested, and that question is this book's plot.
+- **The children's feasts are read as innocent.** The page states that the text says nothing against
+  them, that the sisters' inclusion argues against the debauchery reading, and that Bildad's use of
+  their deaths at 8:4 is therefore a manufactured sin. This is a reading, and it is flagged as one
+  on both `Job of Uz` and `Job's Children`.
+- **No page created for Job's wife or for the accuser**, both of whom belong to Job 1:6–2:10 and
+  will get their treatment when those pericopes are ingested.
+
+Link check clean.

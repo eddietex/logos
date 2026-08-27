@@ -247,8 +247,17 @@ The Job passages give this page a problem the Genesis passages did not, and it i
 before the lists.
 
 **In the poetry of Job, God does not speak.** From chapter 3 to chapter 37 he is entirely a subject
-of discussion, and the reader sees only what five men say about him — which is why the two ingested
-passages have him appear in three incompatible characters within forty verses.
+of discussion, and the reader sees only what five men say about him — which is why the ingested
+speeches have him appear in three incompatible characters within forty verses.
+
+The prose is different, and [[Job of Uz]] shows how. In the prologue God is not a subject of
+argument but the object of a life: Job *"feared God, and turned away from evil"* (1:1), and the
+one line of Job's speech we get is the worry that his children may have *"renounced God in their
+hearts"* (1:5). He is named *ʾĕlōhîm* here, the generic word, and *Yahweh* arrives one verse later
+with the heavenly council. Nothing is said by him and nothing is addressed to him in these five
+verses — but the terms in which he is feared are the terms the accuser will contest, and the
+inventory of blessing in 1:3 is the evidence the accuser will point at. Whatever else the prologue
+does, it makes God a party with something at stake in the answer.
 
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
@@ -293,6 +302,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   earth, and orders everyone out; smells the first sacrifice in Scripture and resolves — in his own
   heart, where no one can hear — never to curse the ground or strike all life again —
   [[The Waters Recede]]
+- Feared and offered to before he has said anything, by a man in a land outside the covenant —
+  [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
   answers with questions rather than reasons — [[Job]], Job 38–41
 
@@ -310,6 +321,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   and shutting the door
 - [[The Waters Recede]] — the sentence lifted: remembering, sending the wind, commanding the exit,
   smelling the offering, and binding his own future conduct
+- [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
+  children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

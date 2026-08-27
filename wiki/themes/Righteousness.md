@@ -80,6 +80,11 @@ about.
 
 - [[Noah and the Flood]] — *ṣaddîq*'s first occurrence in Scripture, declared of a man before he is
   shown doing anything, and restated by God at 7:1
+- [[Job of Uz]] — Job 1:1's *tām wə-yāšār*, blameless and upright, declared of a man before he is
+  shown doing anything; the same narrative move as Genesis 6:9, and the premise the entire book
+  runs on
+- [[Blameless Before Anyone Is Watching]] — Genesis 6:9 and Job 1:1 side by side, and what the
+  verdict buys in each book
 - [[Eliphaz's Second Speech]] — Job 15:14, *"What is he who is born of a woman, that he should be
   righteous?"*, asked about a man God has already twice called blameless (Job 1:8, 2:3)
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16:17, *"there is no violence in my hands,

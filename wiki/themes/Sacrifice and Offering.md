@@ -56,6 +56,13 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   after: nobody commanded it, it costs a seventh of every clean species alive, God's response is
   addressed to no one (*"Yahweh said in his heart"*), and the resolve it produces is grounded in
   human evil rather than human merit. See [[The Waters Recede]] and [[A Pleasing Aroma]].
+- **Job 1:5** — Job sanctifies his children himself and offers a burnt offering for each, after
+  every round of their feasting, on the hypothesis *"It may be that my sons have sinned, and
+  renounced God in their hearts."* No altar is mentioned, no priest, no command, and no offence
+  known to have occurred: the first offering in Scripture made for a **possible** sin, and one
+  located in the heart, where no ritual system can reach it. The pattern closes at 42:8, where God
+  sends the three friends to Job with their bulls and rams and accepts his prayer for them. See
+  [[Job of Uz]] and [[Sacrifice Before the Priesthood]].
 - **Genesis 15:9–17; 22:1–19** *(not yet ingested)* — the covenant between the pieces; the binding of
   Isaac and *"God will provide himself the lamb"*, the passage the whole theme eventually bends
   toward.
@@ -73,6 +80,9 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[The Waters Recede]] — the first altar, the first burnt offering, and the first *pleasant aroma*
 - [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
   and its New Testament application to Christ, to money, and to prayer
+- [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
+- [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
+  household head who acts as priest with no law behind him
 
 ## Related themes
 
@@ -85,4 +95,6 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 - [[Abel]]
 - [[Cain]]
+- [[Job (person)]] — his own household's priest at 1:5, and his friends' at 42:8
+- [[Job's Children]]
 - [[God]]
