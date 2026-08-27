@@ -1123,3 +1123,108 @@ named Job explicitly.
   will get their treatment when those pericopes are ingested.
 
 Link check clean.
+
+## [2026-08-27] ingest | Genesis 9.1-17 — The Covenant with Noah
+
+Unattended run (`/ingest auto`). Step 2's discussion is written into the passage page rather than
+held in chat.
+
+**Created**
+
+- `wiki/passages/Genesis/The Covenant with Noah.md` — Genesis 9:1–17. Read as two movements. The
+  first (9:1–7) is set against 1:26–30 clause by clause in a table: the blessing survives word for
+  word and brackets the unit at 9:1 and 9:7, while *kābaš* and *rādâ* — subdue and rule — are simply
+  absent and *"the fear of you and the dread of you"* stands in their place, the animals *"delivered
+  into your hand"* in the standing formula of conquest; the vegetarian grant of 1:29–30 is revoked
+  in a verse that quotes it in order to widen it; and the image of God moves from grounding dominion
+  to grounding a prohibition. The second (9:8–17) takes six features of the covenant in the order
+  the text gives them: it keeps 6:18 in 6:18's own words (*hēqîm*, never *kārat*, with no ceremony
+  and no blood), its parties include the animals, nothing is asked in return, its content is
+  negative, *bərît* is repeated seven times in ten verses and becomes *bərît ʿôlām* at 9:16, and its
+  sign is a *qešet* — the ordinary Hebrew word for a war bow — given to God to look at rather than
+  to anyone else. The 9:6 chiasm is set out in transliteration (*šōpēk dam hā-ʾādām / bā-ʾādām dāmô
+  yiššāpēk*), and noted as the first poetry in Genesis since Lamech's sword-song. Notes cover the
+  J/P seam between 8:20–22 and 9:1–17, the *Enūma Eliš* VI parallel of Marduk's bow, "replenish" as
+  a 1611 false friend for plain *mālʾû*, the Noahide laws and how loosely they are actually derived
+  from this chapter, Acts 15 and the two competing explanations of its four requirements, the
+  *bā-ʾādām* preposition problem behind the capital-punishment argument, and Isaiah 24:5 as the one
+  prophetic text that treats an unbreakable covenant as broken.
+- `wiki/themes/Blood.md` — new theme page. Created now rather than later because 9:4–6 is where the
+  Bible's central claim about blood is first legislated, and because both of its trajectories —
+  blood that may not be eaten, blood that may not be spilled — start in the same three verses and
+  are the same proposition seen from either side. Traces Genesis 4:10 → 9:4–6 → Exodus 12 and 24 →
+  Leviticus 17:11 → Numbers 35:33 → Isaiah 1 → Hebrews 9:22 and 12:24.
+- `wiki/connections/The Bow in the Cloud.md` — *qešet* as the war bow, with the divine-warrior
+  passages (Habakkuk 3:9–11, Lamentations 2:4, Psalm 7:12–13, Deuteronomy 32) that make 9:13 a
+  disarmament, the Marduk parallel, and the image's afterlife at Ezekiel 1:28, Revelation 4:3 and
+  10:1. States explicitly that the unstrung-and-pointed-away reading is homiletic rather than
+  textual, and that the argument does not need it.
+- `wiki/connections/Life Is in the Blood.md` — Genesis 9:4 → Leviticus 17:10–14 → Deuteronomy 12 →
+  Acts 15:20, 29. The one prohibition addressed successively to all humanity, to Israel, and to
+  Gentile Christians. The two standard explanations of the Acts 15 list (Noahic vs. Leviticus 17–18
+  resident-alien) are tabled against each other without one being preferred; the transfusion
+  extension is recorded as a reading of the rule's purpose rather than of its wording.
+- `wiki/connections/Whoever Sheds Man's Blood.md` — Genesis 4:15 against 9:6, the wiki's explicit
+  handling of the contradiction. Two non-exclusive readings held side by side (the subject changes
+  from private vengeance to public requital; the multiplier is abolished — sevenfold, then
+  seventy-sevenfold, then one for one), with the Romans 12:19 / 13:4 pairing as the New Testament's
+  version of the same distribution, and Matthew 26:52 and John 8 as the counterweight.
+
+**Revised**
+
+- `wiki/books/Genesis.md` — box checked and linked; `[[Blood]]` and `[[Life and Death]]` added to
+  key themes. Pericope plan unchanged — no boundary redrawn.
+- `wiki/people/Noah.md` — new section on 9:1–17: what he receives is not what Adam received, nothing
+  is asked of him, and the covenant that bears his name is the only one in Scripture its human party
+  could not break. Timeline entry split so that 9:1–17 is now his and 9:18–29 remains pending.
+- `wiki/people/God.md` — new section, *The God who binds himself*. Characterized by direction: he
+  requires nothing and undertakes everything, his promise takes a negative form, and he gives
+  himself the sign.
+- `wiki/people/Shem.md`, `Ham.md`, `Japheth.md` — addressed rather than listed for the first time, at
+  9:1 and 9:8, and noted as the men through whom the covenant actually runs since Noah dies at the
+  end of the chapter.
+- `wiki/themes/Covenant.md` — the 9:8–17 entry rewritten from a stub into the page's centre of
+  gravity, six numbered features. `Image of God.md` — new 9:6 entry, with the shift from image-as-
+  vocation to image-as-protection. Also revised: `Blessing.md` (9:1–7 as the one thing not
+  diminished), `Creation.md` (the charter reissued damaged), `Remembrance.md` (the sign's audience,
+  and the contrast with circumcision and Sabbath), `Life and Death.md`, `Judgment.md` (the limit
+  made public, and its precise bounds), `Vengeance.md`, `Retribution.md`, `Sin.md`, `Curse.md` (the
+  theme by its absence), `Clean and Unclean.md` (the distinction conspicuously *not* applied at
+  9:3), `Sacrifice and Offering.md`.
+- `wiki/connections/The Flood as Un-Creation.md` — the Genesis 9:1–7 line de-stubbed and the
+  dominion-verb loss added to the "second world is not the first" paragraph.
+- `wiki/passages/Genesis/The Waters Recede.md` and `Noah and the Flood.md` — their forward
+  references to Genesis 9 turned into links now that the page exists.
+- All five category indexes and `wiki/index.md`'s counts (13 passages · 30 people · 7 places ·
+  27 themes · 31 connections); `wiki/books/index.md` Genesis now 10 / 58.
+
+**Judgment calls worth reviewing**
+
+- **`Blood` created as a theme rather than folded into `Life and Death`.** The deciding factor was
+  that the Bible's food law and its homicide law share one premise, and nothing in the existing
+  theme set could hold both. `Life and Death`, `Sacrifice and Offering`, and `Vengeance` each carry
+  a piece and none carries the equation itself.
+- **Three connection pages from one pericope**, which is more than usual. Each terminates somewhere
+  different — the bow ends at Revelation's throne, the blood rule ends at Acts 15, and 9:6 ends in
+  an unresolved argument — and folding them together would have produced one page about nothing in
+  particular.
+- **The Genesis 4:15 / 9:6 contradiction is stated as a contradiction** on the passage page and on
+  the connection page, with two readings recorded and neither declared the answer. The alternative
+  was to let the "public versus private vengeance" resolution stand unmarked, which is the common
+  move and assumes more than the text says.
+- **9:6 read as a restraint on bloodshed rather than a licence for it**, on the strength of the
+  sevenfold → seventy-sevenfold → one-for-one sequence. This is a reading and is flagged as one; the
+  page also records what the verse does not supply (procedure, intent, witnesses, courts) and
+  declines to adjudicate the capital-punishment argument.
+- **No page created for `Canaan`**, who is named at 9:18 and cursed at 9:25 — that belongs to the
+  next pericope. No place page was created; the passage names no location, and the *Places* section
+  says so and explains why it matters that this is the last unit before Genesis starts narrowing.
+
+**Stale index repaired.** `wiki/people/index.md` contained no reference to `[[The Waters Recede]]`
+at all — the previous ingest updated every page but that one column. Six rows (God, Noah, Shem, Ham,
+Japheth, Lamech (father of Noah)) were brought up to date with both that passage and this one. Worth
+noting because the omission was invisible to `scripts/link-check.sh`, which checks that links
+resolve and not that indexes are complete.
+
+Link check clean — 64 not-yet-started book pages in the expected baseline, unchanged, since this
+pass opened no new book (Genesis and Job are the two whose pages exist).

@@ -32,7 +32,7 @@ self-curse is the point. *May I be so divided if I break this.*
   below).
 - It is **ratified later**, at 9:8–17, with a sign attached: the rainbow, given not as a reminder to
   Noah but as a reminder to God — *"I will look at it, that I may remember the everlasting covenant"*
-  (9:16).
+  (9:16). See [[The Covenant with Noah]].
 
 **On *establish* rather than *cut*.** The distinction is real and its significance is disputed. One
 line of reading (Dumbrell most prominently) holds that *hēqîm bərît* always means to confirm or
@@ -58,10 +58,27 @@ the whole biosphere and conditioned on nothing.
   he says it *in his heart*, to nobody, and no sign is given. Noah worships without knowing it. The
   gap between 8:21 and 9:9 is the difference between a decision and a covenant: a covenant is a
   promise made *to* someone, in public, with a sign. See [[The Waters Recede]].
-- **Genesis 9:8–17** *(not yet ingested)* — the Noahic covenant established: with Noah, his
-  offspring, and every living creature; unconditional, unilateral, everlasting, and signed with the
-  rainbow. The promise is specifically negative — never again by water — which is the form a promise
-  takes when it is a limit God places on himself.
+- **Genesis 9:8–17** — the Noahic covenant established, and the template every later one reads as a
+  variation on. Six features, all of them unusual:
+  **(1)** It keeps 6:18 in 6:18's own words — *hēqîm bərît*, establish, never *kārat*, cut; there is
+  no ceremony, no halved animals, and no blood.
+  **(2)** Its parties include the animals. *"Every living creature that is with you"* recurs at 9:10,
+  12, 15, and 16, widening at 9:17 to *"all flesh that is on the earth"*. No other covenant in
+  Scripture has non-human parties, and the beneficiary list is exactly the flood's victim list from
+  7:21–23.
+  **(3)** Nothing is asked in return. Noah is not told to keep it, does not agree to it, and says
+  nothing at all across seventeen verses — set against Genesis 17:1 (*"Walk before me, and be
+  blameless"*) or Exodus 24:7 (*"All that Yahweh has spoken we will do"*). It is the only covenant in
+  the Bible the human party has no way of breaking.
+  **(4)** Its content is negative. *"There will never again be a flood to destroy the earth"* (9:11)
+  is not an undertaking to act but an undertaking not to — a limit God places on himself, which is
+  what makes it citable later as the thing that cannot fail.
+  **(5)** The word is repeated **seven times** in ten verses (9:9, 11, 12, 13, 15, 16, 17), and at
+  9:16 becomes *bərît ʿôlām*, **everlasting covenant**, the phrase's first appearance in Scripture.
+  **(6)** Its sign is a weapon aimed at nobody. *Qešet* is the ordinary Hebrew word for a war bow —
+  there is no other word for a rainbow — and the stated audience of the sign is God himself: *"I will
+  look at it, that I may remember"* (9:16). See [[The Covenant with Noah]] and
+  [[The Bow in the Cloud]].
 - **Genesis 15:1–21** *(not yet ingested)* — the covenant between the pieces. Abram sleeps while a
   smoking furnace and a flaming torch pass between the halves alone: God takes the self-curse and
   Abram takes none of it. The land promise is sworn here.
@@ -99,6 +116,10 @@ the whole biosphere and conditioned on nothing.
   death and before the water comes
 - [[The Waters Recede]] — the promise resolved on in God's heart, one chapter before it becomes a
   covenant anyone is told about
+- [[The Covenant with Noah]] — the Bible's first covenant actually established, with its sign, its
+  scope, and its complete absence of conditions
+- [[The Bow in the Cloud]] — *qešet*, the divine warrior's weapon, and where the image goes after
+  Genesis
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
 
@@ -113,9 +134,15 @@ the whole biosphere and conditioned on nothing.
 - [[Sacrifice and Offering]] — how covenants are cut, and what 8:20 does at the flood's end
 - [[Curse]] — the sanction built into every covenant form, and the self-curse the ceremony enacts
 - [[Creation]] — the Noahic covenant's scope, which is every living creature rather than a people
+- [[Blood]] — the terms attached to the covenant at 9:4–6, and the substance every later covenant is
+  cut with
+- [[Image of God]] — the reason clause of 9:6, and the only obligation the Noahic arrangement
+  actually imposes
 - [[Walking with God]] — the relational language covenant formalizes
 
 ## Related people
 
 - [[God]] — who establishes it, and who alone is bound by the first one
 - [[Noah]] — the first person in Scripture offered a covenant, who is not asked and does not answer
+- [[Shem]], [[Ham]], and [[Japheth]] — parties alongside their father at 9:8, and the men through
+  whom the covenant actually runs, since Noah dies at the end of the chapter

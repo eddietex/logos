@@ -87,6 +87,10 @@ These are not exclusive, and the third is the one the text argues for by itself.
   definition nine centuries before Leviticus defines it
 - [[The Waters Recede]] — the distinction load-bearing at last: what 7:2's surplus was for, and
   which bird gets sent where
+- [[The Covenant with Noah]] — and then conspicuously *not* applied: *"every moving thing that
+  lives"* is handed over as food at 9:3 with no exceptions listed, one chapter after the clean
+  animals were counted out in sevens. The distinction that governs the altar is not, at this stage,
+  a distinction that governs the table; Leviticus 11 makes it one, and for Israel only
 
 ## Related themes
 

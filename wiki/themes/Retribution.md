@@ -100,6 +100,11 @@ verdicts.
 - [[Curse]] — the covenantal machinery of Deuteronomy 28, which the friends borrow without the
   covenant
 - [[Sin]] — which the doctrine requires to be present wherever suffering is
+- [[Vengeance]] — retribution taken into human hands, which Genesis 9:6 caps at one life for one
+  life after Cain and Lamech had inflated it sevenfold and seventy-sevenfold. See
+  [[The Covenant with Noah]].
+- [[Blood]] — the currency the earliest form of the doctrine is denominated in: bloodguilt pollutes
+  the land and is required back (Genesis 9:5; Numbers 35:33)
 - [[The Fear of God]] — which the doctrine makes unreadable: where piety is reliably paid, no one
   can tell devotion from investment, which is the accuser's whole case at 1:9
 

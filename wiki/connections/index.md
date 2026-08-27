@@ -32,3 +32,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
 | [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 |
+| [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Deuteronomy 32:23, 42 · Psalm 7:12–13 · Lamentations 2:4 · Habakkuk 3:9–11 · Ezekiel 1:26–28 · Revelation 4:3 · Revelation 10:1 |
+| [[Life Is in the Blood]] | thread | Genesis 9:3–4 · Leviticus 7:26–27 · Leviticus 17:10–14 · Deuteronomy 12:15–25 · 1 Samuel 14:31–35 · Acts 15:20, 29 · Acts 21:25 · Hebrews 9:22 |
+| [[Whoever Sheds Man's Blood]] | thread | Genesis 4:8–15 · Genesis 4:23–24 · Genesis 9:5–6 · Numbers 35:9–34 · Matthew 26:52 · Romans 12:19 · Romans 13:1–4 · James 3:9 |

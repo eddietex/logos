@@ -63,9 +63,15 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 - **Genesis 8:1** — *"God remembered Noah"*: the first occurrence with God as subject, at the apex
   of the flood chiasm, and the turn on which the world's survival hangs. See [[The Waters Recede]].
-- **Genesis 9:15–16** — *"I will remember my covenant"*: the rainbow is explicitly a memory aid, and
-  the striking thing is whose. It is set in the sky so that *God* will see it and remember, not so
-  that people will.
+- **Genesis 9:15–16** — *"I will remember my covenant"*, twice, with the covenant as the verb's
+  object for the first time. The rainbow is a memory aid and the striking thing is whose: *"I will
+  look at it, that I may remember"* (9:16). It is set in the sky so that **God** will see it, not so
+  that people will — which makes it unlike circumcision (17:11) and unlike the Sabbath (Exodus
+  31:13, 17), both borne and kept by the human party, and like exactly one other sign in Scripture,
+  the blood on the doorposts at Passover: *"when I see the blood, I will pass over you"* (Exodus
+  12:13). Note also that this is the same verb, eight verses after the flood ends, that ended it:
+  *zākar* turned the water back at 8:1 and now guarantees it will not return. See
+  [[The Covenant with Noah]] and [[The Bow in the Cloud]].
 - **Genesis 19:29** — *"God remembered Abraham, and sent Lot out of the middle of the overthrow"*:
   a man rescued because of somebody else's standing.
 - **Genesis 30:22** — *"God remembered Rachel… and opened her womb"*.
@@ -106,6 +112,8 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Key passages
 
+- [[The Covenant with Noah]] — *zākar* twice more (9:15, 16), now with a covenant as its object and
+  a sign built to trigger it, aimed at God rather than at anyone else
 - [[The Waters Recede]] — *"God remembered Noah"* (8:1), the flood's hinge and the theme's first
   and defining instance
 - [[Miserable Comforters and the Witness in Heaven]] — Job wanting his cry to have a permanent

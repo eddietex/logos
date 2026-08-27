@@ -124,6 +124,34 @@ promise not to *"again curse the ground any more for man's sake"* is the answer 
 [[Lamech (father of Noah)]] pinned on this son's name in 5:29, arriving in the generation he hoped
 for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming Noah]].
 
+### The covenant, and the last of the silence — Genesis 9:1–17
+
+[[The Covenant with Noah]] is the fourth consecutive unit in which God speaks to him at length and
+he does not answer. He is blessed, given a re-issued mandate with the terms altered, handed a food
+law, told that his own life's blood will be required from any hand that takes it, and made the first
+party in Scripture to a ratified covenant with a sign — seventeen verses, three divine speeches, and
+not one word back.
+
+**What he receives is not what Adam received.** The blessing of 1:28 is repeated to him intact, and
+everything attached to it is worse: the dominion verbs are gone, replaced by *"the fear of you and
+the dread of you"* (9:2); the vegetarian grant of 1:29 is widened to *"every moving thing that
+lives"* (9:3); and the image of God, which grounded dominion in Genesis 1, now grounds a death
+sentence (9:6). He is the second man to be given the world, and he is given a damaged one.
+
+**And nothing is asked of him.** This is the strangest feature of the covenant that bears his name.
+He is not told to keep it, does not agree to it, and has no way of breaking it — *"I establish my
+covenant"* (9:9) is the whole of it, and the sign is placed where **God** will look at it and
+remember (9:16). Compare Abraham, who is told *"Walk before me, and be blameless"* (17:1) before the
+same word *ʿôlām* is used of his covenant. Noah's part is to be there. See [[Covenant]] and
+[[The Bow in the Cloud]].
+
+It is worth putting the two halves of the promise side by side, because the narrative separated them
+on purpose. At 8:21 God resolved never again to curse the ground, *in his heart*, and Noah did not
+hear it; he built his altar in ignorance. At 9:9 the same promise is made aloud, to him, with a sign.
+The worship came first, without the assurance. The assurance came after, and he did not ask for it.
+
+Nine verses later the silence breaks, and what comes out is [[Curse]].
+
 ## Timeline / key events
 
 - Born to Lamech in Lamech's one hundred eighty-second year, and named for the relief of the curse
@@ -139,8 +167,10 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - Remembered by God at the flood's midpoint; sends out the raven and the dove; disembarks on
   Ararat's mountains a year and ten days after the water came; builds the Bible's first altar
   unbidden, and God resolves never again to curse the ground — [[The Waters Recede]]
-- Receives the covenant and the rainbow; plants a vineyard; speaks for the first time, to curse
-  Canaan; dies at 950 — Genesis 9 *(not yet ingested)*
+- Blessed with his sons, given the world on altered terms, and made the first party to a ratified
+  covenant, sealed with a bow set in the cloud — [[The Covenant with Noah]]
+- Plants a vineyard; speaks for the first time, to curse Canaan; dies at 950 — Genesis 9:18–29
+  *(not yet ingested)*
 
 ## Appears in
 
@@ -150,6 +180,8 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[Noah and the Flood]] — the whole unit is about him, and he does not speak in it
 - [[The Waters Recede]] — the birds, the disembarking, and the first altar in Scripture; still not
   a word
+- [[The Covenant with Noah]] — blessed, legislated for, and given the Bible's first ratified
+  covenant, and still not a word out of him
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
@@ -166,7 +198,8 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[God]] — who takes Enoch in Genesis 5, offers him the Bible's first covenant at 6:18, and shuts
   the door of the ark himself at 7:16
 - [[Shem]], [[Ham]], and [[Japheth]] — his sons, named at 5:32, 6:10, and 7:13, and carried through
-  the flood with him; each of them still a name in a list until Genesis 9:18–29
+  the flood with him; addressed for the first time rather than listed at 9:1 and 9:8, and still without an act
+  or a word of their own until Genesis 9:18–29
 - **His wife, and his sons' wives** — four of the eight in the ark, counted in every boarding list
   and unnamed anywhere in Scripture
 - [[Job (person)]] — introduced by the same move Noah is, a verdict of blamelessness delivered
@@ -189,3 +222,5 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[Remembrance]]
 - [[Sacrifice and Offering]]
 - [[Creation]]
+- [[Blood]]
+- [[Image of God]]

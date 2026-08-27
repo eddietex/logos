@@ -54,10 +54,24 @@ dominion given in 1:28, not a reward for exercising it.
   Adam's corrupted state and not merely his status — rests on Romans 5:12, not on this verse; what
   invites it here is the placement, a sentence about resemblance set at the head of a chapter whose
   refrain is *"then he died."* See [[From Adam to Noah]].
-- To trace as ingestion reaches them: Genesis 9:6 (the image as the reason murder is capital), Psalm
-  8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's turn to Christ as
-  *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3) into which people are remade
-  (Romans 8:29).
+- **Genesis 9:6** — the image's first ethical consequence, and the proof that it survived the flood.
+  *"Whoever sheds man's blood, his blood will be shed by man, for God made man in his own image."*
+  Three things follow from the reason clause, and Scripture draws all three. **The image is intact**
+  — the verse is spoken after Eden, after Cain, after the verdict of 6:5 that the human heart is
+  incurably evil, and after the water, and it still treats resemblance to God as a fact about human
+  beings that can carry a legal weight. **It belongs to everyone**, with no qualification by nation,
+  righteousness, or standing; it is said to all humanity through Noah, before there is a covenant
+  people, and it protects the guilty as well as the innocent, which is why the homicide law that
+  follows works so hard to distinguish them (Numbers 35:9–34). And **it reaches past killing**:
+  James 3:9 runs the identical argument about *speech* — *"we curse men, who are made in the image
+  of God"* — and Matthew 5:21–22 runs it about anger. Note too what changes between 1:26–28 and 9:6.
+  In Genesis 1 the image grounds **dominion**; the dominion verbs are absent from Genesis 9, and
+  what the image grounds there is a **prohibition**. The status is unchanged and its function has
+  moved from vocation to protection. See [[The Covenant with Noah]] and
+  [[Whoever Sheds Man's Blood]].
+- To trace as ingestion reaches them: Psalm 8:4–8, 1 Corinthians 11:7, Colossians 3:10, and the New
+  Testament's turn to Christ as *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3) into
+  which people are remade (Romans 8:29).
 
 ## Key passages
 
@@ -66,6 +80,10 @@ dominion given in 1:28, not a reward for exercising it.
 - [[The Fall]] — the likeness offered by the serpent, and confirmed by God in 3:22
 - [[From Adam to Noah]] — 5:1–3, the one place in Scripture where the image passes from a human
   father to a human son
+- [[The Covenant with Noah]] — 9:6, the image surviving the flood and grounding a prohibition rather
+  than a vocation
+- [[Whoever Sheds Man's Blood]] — the long argument over what 9:6 authorizes, and the durable claim
+  in its subordinate clause
 - [[The First Adam and the Last Adam]] — bearing *"the image of the man of dust"* and *"the image
   of the heavenly"*
 
@@ -77,6 +95,9 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Marriage]]
 - [[Sin]]
 - [[Life and Death]]
+- [[Blood]] — what Genesis 9:6 forbids the shedding of, and why
+- [[Vengeance]] — the sevenfold and seventy-sevenfold that 9:6 replaces with an equivalence
+- [[Covenant]] — the setting in which the image is first given legal force
 
 ## Related people
 
@@ -84,3 +105,5 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Adam]]
 - [[Eve]]
 - [[Seth]] — the first human being said to be fathered in his father's image and likeness
+- [[Noah]] — told, on the far side of the flood, that the image is still the reason a human life may
+  not be taken

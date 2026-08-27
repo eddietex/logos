@@ -118,6 +118,8 @@ has been argued.
   way*), and named with the same verb as its punishment
 - [[The Sons of God and the Corruption of the Earth]] — the diagnosis: not an act but the
   imagination of the heart, every one of them, continually, only evil
+- [[The Covenant with Noah]] — what a world governed on 8:21's diagnosis needs: a homicide provision
+  written into the charter before any homicide has happened
 - [[The Waters Recede]] — the same diagnosis restated by God after the flood, as the reason for
   mercy rather than for judgment
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it

@@ -11,7 +11,7 @@ tags: [connection]
 - Genesis 6:9–7:24 — [[Noah and the Flood]]
 - Genesis 8:1–22 — the wind over the waters, dry land reappearing, and the resolve at 8:21 —
   [[The Waters Recede]]
-- Genesis 9:1–7 *(not yet ingested)* — the blessing of 1:28 reissued, with changes
+- Genesis 9:1–7 — the blessing of 1:28 reissued, with changes ([[The Covenant with Noah]])
 - Psalm 104:5–9 — the waters set a boundary they may not pass
 - Jeremiah 4:23–26 — *"I saw the earth, and, behold, it was waste and void"*: the same reversal used
   of a coming judgment on Judah
@@ -55,9 +55,10 @@ not pass over, that they don't turn again to cover the earth"* — and the bound
 something God set and maintains, not as a property of the water.
 
 The second is that **the second world is not the first one.** Genesis 9 reissues the blessing with
-alterations that are easy to read past: the animals now live in *"the fear of you and the dread of
-you"* (9:2), which 1:28's dominion did not include; flesh is given as food (9:3), which 1:29's
-vegetarian grant did not; and a law of blood is instituted (9:4–6). The flood does not restore Eden.
+alterations that are easy to read past: the dominion verbs *kābaš* and *rādâ* are simply gone, and
+the animals now live in *"the fear of you and the dread of you"* (9:2), *"delivered into your
+hand"*; flesh is given as food (9:3), which 1:29's vegetarian grant did not; and a law of blood is
+instituted (9:4–6). The flood does not restore Eden.
 It restarts the world on harder terms, and Genesis 8:21 says why in the same breath as the promise —
 *"the imagination of man's heart is evil from his youth"* — which is the verdict of 6:5 restated as
 the reason for **never doing this again**. The same fact grounds the destruction and the promise not

@@ -297,8 +297,9 @@ view and can be named — which is itself the plot.
 - [[The Flood and Baptism]] — 1 Peter 3:20–21, the eight souls saved through water, and the dove that
   turns up over the Jordan.
 - [[As It Was in the Days of Noah]] — the New Testament's use of this generation as a warning.
-- Genesis 9:1–17 *(not yet ingested)* — the blessing reissued to humanity, the terms altered, and the
-  covenant of 6:18 finally established with the rainbow as its sign.
+- [[The Covenant with Noah]] — Genesis 9:1–17, the blessing reissued to humanity with the terms
+  altered, and the covenant of 6:18 finally established with the rainbow as its sign. Where 8:21 was
+  said in God's heart, this is said aloud, to Noah, with a token attached.
 - Genesis 9:20–25 *(not yet ingested)* — the vineyard, and Noah's first recorded words, which are a
   curse. The complication of everything 8:21 promises.
 - Exodus 2:24; 6:5 — *"God remembered his covenant"*, the verb of 8:1 starting the exodus.

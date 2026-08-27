@@ -87,6 +87,14 @@ the rest of the canon.
   something close to the reverse of the order they were made in. Death moves here from a penalty
   borne by persons to the undoing of a world. See
   [[The Sons of God and the Corruption of the Earth]].
+- **Genesis 9:3–6** — the theme legislated, in both directions at once. Animal life may now be taken
+  for food, which it could not be under 1:29–30; human life may not be taken at all. And the passage
+  supplies a definition on the way through: *"flesh with its life, that is, its blood"* (9:4), where
+  the Hebrew apposes *nepeš* — the word of 2:7, *"a living soul"* — directly to blood. Life is
+  located in a substance, that substance is declared God's, and both the food law and the homicide
+  law follow from the one claim. The asymmetry in the reasons is worth noting: eating meat is
+  permitted without explanation, while the prohibition of murder gets a reason clause — *"for God
+  made man in his own image"*. See [[The Covenant with Noah]] and [[Blood]].
 - **Genesis 6:17; 7:21–23** — the sentence executed, and the narrator says it four times in three
   verses rather than once: *"All flesh died that moved on the earth"* (7:21), *"All on the dry land,
   in whose nostrils was the breath of the spirit of life, died"* (7:22), *"Every living thing was
@@ -113,6 +121,8 @@ the rest of the canon.
 - [[From Adam to Noah]] — *"then he died"*, eight times, and the two entries that do not say it
 - [[Noah and the Flood]] — the sentence carried out, reported four times in three verses, and the
   breath of 2:7 named as what is taken back
+- [[The Covenant with Noah]] — life identified with blood, declared God's, and required back from
+  the hand that spills a human's
 - [[The Waters Recede]] — the sentence reversed: *"breed abundantly… be fruitful, and multiply"*
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
@@ -138,6 +148,8 @@ the rest of the canon.
 - [[Hope]]
 - [[Suffering]]
 - [[Mediation and Advocacy]]
+- [[Blood]] — where the Bible locates life, and why it is not anyone's to take
+- [[Image of God]] — the reason a human life may not be taken (Genesis 9:6)
 
 ## Related people
 

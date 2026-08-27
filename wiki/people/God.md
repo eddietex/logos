@@ -241,6 +241,34 @@ and 7:16.
 One thing he does not do: tell Noah. 8:21 is spoken in his own heart, and the man on the altar is not
 in the conversation. The binding of himself that began at 6:18 is not made public until 9:8–17.
 
+### The God who binds himself — Genesis 9:1–17
+
+[[The Covenant with Noah]] is where the resolve of 8:21 becomes public, and the God of this passage
+is characterized almost entirely by the *direction* of what he does. He is *ʾĕlōhîm* throughout,
+without a single *Yahweh*, which keeps the seam of the last two units: the personal, interior,
+altar-side material was *Yahweh*, and the formal, universal, covenantal speech is *God*.
+
+**He requires nothing and undertakes everything.** Across seventeen verses of divine speech there is
+no stipulation for Noah to keep, no condition, and no penalty for breach — which makes this the only
+arrangement in Scripture the human party has no way of failing. Set beside *"Walk before me, and be
+blameless"* (17:1) and *"All that Yahweh has spoken we will do"* (Exodus 24:7), the omission is
+conspicuous.
+
+**His promise takes a negative form.** *"There will never again be a flood to destroy the earth"*
+(9:11) is not an undertaking to act but a limit on his own future action — the second time in two
+chapters that God constrains himself, and the first time he does it where anyone can hear.
+
+**And he gives himself the sign.** *"I will look at it, that I may remember"* (9:16). Circumcision
+is cut into the human party and the Sabbath is kept by them; here the stated audience of the token
+is God. The only comparable case is the blood on the doorposts — *"when I see the blood, I will pass
+over you"* (Exodus 12:13). The sign itself is a *qešet*, the ordinary word for a war bow and the
+weapon the poets put in his hands (Habakkuk 3:9; Lamentations 2:4; Psalm 7:12), and he has put it in
+the cloud. See [[The Bow in the Cloud]] and [[Remembrance]].
+
+The one obligation in the passage runs the other way, and he states it three times: *"I will
+require"* (9:5). Blood is his, life is his, and he will demand an accounting for both — grounded, in
+the only reason clause of the chapter, in the fact that the victim is made in his image.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating

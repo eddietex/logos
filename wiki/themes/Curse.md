@@ -70,6 +70,11 @@ the same verses that put the tree of life back in reach (see
   living thing, as I have done"*) ties the undertaking to the flood. So: no second flood, and no
   further curse laid on the ground on humanity's account. The curse of 3:17 itself stays in force,
   and Paul is still describing its effects in Romans 8:20–22. See [[The Waters Recede]].
+- **Genesis 9:1–17** — the theme by a conspicuous absence. This is the first divine speech to
+  humanity in Genesis with no curse anywhere in it: 3:14–19 cursed the serpent and the ground, 4:11
+  cursed Cain, and 8:21 undertook not to curse the ground again. God blesses, legislates, and
+  covenants across seventeen verses and curses nothing. The first curse on the far side of the flood
+  is spoken by a man, nine verses later. See [[The Covenant with Noah]].
 - **Genesis 9:25; 12:3** *(not yet ingested)* — Noah's curse on Canaan, and the Abrahamic promise
   that pairs blessing and curse as the response to how the nations treat one family.
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers

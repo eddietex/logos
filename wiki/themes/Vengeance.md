@@ -47,9 +47,15 @@ for revenge becomes its measure for pardon. See
   a permission.
 - **Genesis 4:23–24** — Lamech's Song of the Sword: a man claiming the number for himself and
   raising it eleven-fold, over a wound.
-- **Genesis 9:5–6** *(not yet ingested)* — after the flood, the first rule: *"whoever sheds man's
-  blood, his blood will be shed by man"*, grounded in the image of God. Retribution is finally
-  regulated rather than boasted.
+- **Genesis 9:5–6** — after the flood, the first rule: *"Whoever sheds man's blood, his blood will
+  be shed by man, for God made man in his own image."* Line the three verses up and the theme has a
+  plot: Cain avenged **sevenfold** by divine guarantee, Lamech boasting of **seventy-sevenfold** on
+  his own authority, and then an exact **one for one**, stated as law and grounded in the victim
+  rather than in the avenger's grievance. Between the first and the second, private vengeance
+  inflates until *"the earth was filled with violence"* (6:11) and God ends the world over it. Which
+  makes 9:6 a ceiling rather than a licence — the same thing *lex talionis* is in its own setting —
+  and puts it in tension with 4:15, where God protects a murderer from exactly this. See
+  [[The Covenant with Noah]] and [[Whoever Sheds Man's Blood]].
 - Strands to trace as ingestion reaches them: *lex talionis* as a limit (Exodus 21:23–25, Leviticus
   24:19–20, Deuteronomy 19:21); the *gōʾēl haddām*, the avenger of blood, and the cities of refuge
   (Numbers 35, Deuteronomy 19, Joshua 20); David refusing to strike Saul (1 Samuel 24, 26); the
@@ -62,6 +68,10 @@ for revenge becomes its measure for pardon. See
 
 - [[Cain and Abel]] — the sevenfold guarantee that keeps a murderer alive
 - [[The Line of Cain and the Birth of Seth]] — Lamech taking the number for himself and inflating it
+- [[The Covenant with Noah]] — the multiplier abolished and an equivalence put in its place, in the
+  first poetry Genesis has used since Lamech's song
+- [[Whoever Sheds Man's Blood]] — Genesis 4:15 against Genesis 9:6, and what the Bible does with the
+  contradiction
 
 ## Related themes
 
@@ -70,6 +80,10 @@ for revenge becomes its measure for pardon. See
 - [[Life and Death]] — the currency the whole theme is denominated in
 - [[Curse]] — the sentence Cain carried, and the protection attached to it
 - [[City and Civilization]] — the culture Lamech's family builds, and the song it ends in
+- [[Retribution]] — the wider question of whether accounts get settled, of which this is the human
+  attempt
+- [[Blood]] — what vengeance is denominated in, and why the Bible says it cries out
+- [[Image of God]] — the reason Genesis 9:6 gives, which is about the victim and not the killer
 
 ## Related people
 

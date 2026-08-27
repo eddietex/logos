@@ -77,6 +77,8 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[Cain and Abel]] — the first offerings, and the first refusal
 - [[Cain and Abel in the New Testament]] — Hebrews 11:4 on Abel's sacrifice as the first act of
   faith
+- [[The Covenant with Noah]] — 9:4's reservation of the blood, which is the premise the whole altar
+  system runs on: Leviticus 17:11 quotes this logic to explain why blood atones
 - [[The Waters Recede]] — the first altar, the first burnt offering, and the first *pleasant aroma*
 - [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
   and its New Testament application to Christ, to money, and to prayer

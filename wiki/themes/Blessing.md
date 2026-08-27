@@ -53,10 +53,18 @@ costly.
   until the animals leave the ship at 8:17 and the men receive it again at 9:1, on dry ground —
   which makes the blessing one of the things the flood suspends and the new world restarts. See
   [[Noah and the Flood]].
-- To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
-  narrowing of blessing to one family and its widening back out to *"all the families of the
-  earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
-  the covenant blessings-and-curses of Deuteronomy 28.
+- **Genesis 9:1–7** — the blessing renewed, and the only element of Genesis 1 that survives the
+  flood unchanged. *"Be fruitful, multiply, and replenish the earth"* is 1:28 word for word, and it
+  brackets the unit, closing it again at 9:7. Everything attached to it is altered for the worse:
+  the dominion verbs of 1:28 are dropped and *"the fear of you and the dread of you"* (9:2) put in
+  their place, the vegetarian grant of 1:29 is widened to every living thing, and the image of God
+  is repurposed from the ground of rule to the ground of a death sentence (9:6). Which makes the
+  blessing the only thing in the chapter that is not diminished, and worth noticing on a theme page:
+  what God blesses he does not un-bless, even when he revises everything around it. See
+  [[The Covenant with Noah]].
+- To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
+  out to *"all the families of the earth"* (12:1–3), the patriarchal blessings that drive the Jacob
+  narrative (27, 48, 49), and the covenant blessings-and-curses of Deuteronomy 28.
 
 ## Key passages
 
@@ -68,6 +76,8 @@ costly.
   the far side of the water
 - [[The Waters Recede]] — the far side of the water: *"be fruitful, and multiply on the earth"*
   (8:17), restored to the animals first, with humanity's turn held back until 9:1
+- [[The Covenant with Noah]] — 9:1 and 9:7, the blessing of 1:28 reissued word for word, bracketing
+  a set of terms that have all been altered for the worse
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
@@ -83,6 +93,8 @@ costly.
 - [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]
 - [[Life and Death]]
+- [[Covenant]] — what carries the blessing forward once it has been reissued
+- [[Image of God]] — granted with the blessing in 1:26–28, and still load-bearing at 9:6
 
 ## Related people
 

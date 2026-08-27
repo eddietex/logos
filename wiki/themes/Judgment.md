@@ -93,11 +93,20 @@ rule are the conditions the rest of Scripture is set in.
   Noah"* (see [[Remembrance]] and [[The Waters Recede]]), and it ends with the first time God binds
   his own future conduct in Scripture: *"I will never again strike every living thing, as I have
   done."*
-- **Genesis 9:1–17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the covenant and its sign, the promise never to repeat it, Babel, and Sodom, each with God "going down to
-  see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
-  putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
-  again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
-  doing this again, so the same fact grounds both the flood and the promise against it.
+- **Genesis 9:1–17** — judgment formally limited, in public, with a sign. 8:21 had God resolve
+  privately never to strike every living thing again; 9:11 makes the same undertaking a covenant
+  anyone can hold him to, and hangs a *qešet* — the ordinary Hebrew word for a **war bow** — in the
+  cloud as its token. Two things worth keeping. The promise is precisely bounded: *"there will never
+  again be a flood to destroy the earth"* is not *there will never again be judgment*, and 2 Peter
+  3:5–7 reads the limit exactly that way, with the present world *"reserved for fire"*. And the
+  ground of the limit is the verdict of 6:5 restated at 8:21 — *"the imagination of man's heart is
+  evil from his youth"* — so the same fact grounds both the flood and the promise against it. The
+  same passage introduces the first judicial provision in Scripture (9:5–6), which is judgment
+  delegated rather than executed from heaven. See [[The Covenant with Noah]] and
+  [[The Bow in the Cloud]].
+- **Genesis 11:1–9; 18:16–19:29** *(not yet ingested)* — Babel and Sodom, each with God "going down
+  to see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
+  putting the question the theme keeps raising.
 - Strands to trace as ingestion reaches them: the plagues and the exodus as judgment on Egypt's
   gods; the covenant lawsuit form in the prophets (Micah 6:1–8, Isaiah 1:2–20); the day of Yahweh
   (Amos 5:18–20, Joel 2, Zephaniah 1); exile as judgment and return as its limit; Jesus on
@@ -116,6 +125,8 @@ rule are the conditions the rest of Scripture is set in.
   described
 - [[Noah and the Flood]] — the sentence carried out, with the punishment named by the crime's own
   verb and the ark specified in the same speech as the destruction
+- [[The Covenant with Noah]] — the limit made public and signed, and the first judicial provision in
+  Scripture
 - [[The Waters Recede]] — the sentence lifted on a memory, and God limiting his own future conduct
   for the first time
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
