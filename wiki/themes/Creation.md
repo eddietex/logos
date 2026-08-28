@@ -62,6 +62,18 @@ Genesis 1 sets four load-bearing claims:
   of Genesis 1:2. Then 8:1–2 starts again with the same words in the forward order: a *rûaḥ* passes
   over the waters, the fountains close, and dry land appears. Genesis is telling the story of the
   world being made twice. See [[Noah and the Flood]] and [[The Flood as Un-Creation]].
+- **Genesis 9:1–7** — the re-creation given a charter, and Genesis 1 quoted point by point with
+  alterations. The blessing of 1:28 is reissued (9:1) minus *subdue* and *have dominion*; the four
+  categories of creature from 1:26 return as the ones who will now fear humanity (9:2); and the food
+  grant of 1:29 is explicitly amended — *"as I gave you the green herb, I have given everything to
+  you"* (9:3). This is the clearest signal Genesis gives that chapter 9 is a second chapter 1: not a
+  restoration of Eden, but the same world issued on harder terms. The prophets take the original
+  terms as the picture of the world healed, which is why Isaiah 11:6–9 and 65:25 put the lion back
+  on a vegetarian diet. See [[The Covenant with Noah]].
+- **Genesis 9:8–17** — and then creation is made a party to a covenant. The beneficiaries are named
+  five times as *every living creature* or *all flesh*, and once as *"the earth"* itself (9:13). No
+  later biblical covenant has a scope like it; the nearest parallel is Hosea 2:18, and the nearest
+  theological development Romans 8:19–22.
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -75,6 +87,8 @@ Genesis 1 sets four load-bearing claims:
   creatures of days five and six
 - [[The Waters Recede]] — the re-creation itself: the *rûaḥ* over the waters as in 1:2, the deep
   closed, dry land back, and the creatures released under the blessing of 1:22
+- [[The Covenant with Noah]] — Genesis 1's blessing, creature list, and food grant restated with
+  alterations, and the whole of creation made a party to a covenant
 - [[The Flood as Un-Creation]] — the correspondences traced verse by verse, and the re-creation that
   answers them
 - [[The Dove and the Spirit]] — the hovering of 1:2 and the bird over the water in Genesis 8, and

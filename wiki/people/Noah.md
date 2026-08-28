@@ -124,6 +124,30 @@ promise not to *"again curse the ground any more for man's sake"* is the answer 
 [[Lamech (father of Noah)]] pinned on this son's name in 5:29, arriving in the generation he hoped
 for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming Noah]].
 
+### Blessed, legislated to, and covenanted with — Genesis 9:1–17
+
+[[The Covenant with Noah]] is where everything promised to him is finally handed over, and it is
+the fourth consecutive pericope in which he does not speak.
+
+He is blessed — the first blessing on a human being since Genesis 1:28, and the first thing said to
+him on dry land that is not an instruction. He is legislated to: the one law given to the new world,
+against the shedding of human blood, is given to him. And the covenant offered at 6:18, before the
+ark was built, is established with him at 9:9, with his offspring, and with every living creature
+that came off the boat. He is not asked whether he accepts it. There is no ceremony, no oath, and
+nothing for him to sign; the only obligations in the pericope run one way, and they are God's.
+
+**Two details fix his position.** The blessing and the covenant are both addressed to *"Noah and his
+sons"* (9:1, 9:8), which is the first time in the flood narrative the four men are addressed as a
+group with the four women unmentioned — and the command they are given is *be fruitful and
+multiply*, which is not something four men accomplish alone. And the covenant sign is explicitly
+not for him: *"I will look at it, that I may remember"* (9:16). He is told about a memorandum God is
+keeping for himself. Circumcision will be cut into Abraham's body and the Sabbath will be kept by
+Israel; the only thing asked of Noah is that he know the bow is up there.
+
+That is the last thing said to him. Three verses later he plants a vineyard, and everything after
+9:17 is the undoing of the man the flood account built — see [[Blood]], [[Covenant]], and
+[[Image of God]] for what he was handed, and Genesis 9:18–29 for what he did next.
+
 ## Timeline / key events
 
 - Born to Lamech in Lamech's one hundred eighty-second year, and named for the relief of the curse
@@ -139,8 +163,10 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - Remembered by God at the flood's midpoint; sends out the raven and the dove; disembarks on
   Ararat's mountains a year and ten days after the water came; builds the Bible's first altar
   unbidden, and God resolves never again to curse the ground — [[The Waters Recede]]
-- Receives the covenant and the rainbow; plants a vineyard; speaks for the first time, to curse
-  Canaan; dies at 950 — Genesis 9 *(not yet ingested)*
+- Blessed, given the world's one law, and made the first party to a covenant anyone is told
+  about, signed with a bow in the cloud — [[The Covenant with Noah]]
+- Plants a vineyard; speaks for the first time, to curse Canaan; dies at 950 — Genesis 9:18–29
+  *(not yet ingested)*
 
 ## Appears in
 
@@ -150,6 +176,8 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[Noah and the Flood]] — the whole unit is about him, and he does not speak in it
 - [[The Waters Recede]] — the birds, the disembarking, and the first altar in Scripture; still not
   a word
+- [[The Covenant with Noah]] — blessed, legislated to, and covenanted with, and silent through all
+  three
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
@@ -177,6 +205,9 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 ## Themes associated
 
 - [[Righteousness]]
+- [[Blood]]
+- [[Image of God]]
+- [[Vengeance]]
 - [[Covenant]]
 - [[Walking with God]]
 - [[Favor and Grace]]

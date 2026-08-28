@@ -54,10 +54,18 @@ dominion given in 1:28, not a reward for exercising it.
   Adam's corrupted state and not merely his status — rests on Romans 5:12, not on this verse; what
   invites it here is the placement, a sentence about resemblance set at the head of a chapter whose
   refrain is *"then he died."* See [[From Adam to Noah]].
-- To trace as ingestion reaches them: Genesis 9:6 (the image as the reason murder is capital), Psalm
-  8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's turn to Christ as
-  *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3) into which people are remade
-  (Romans 8:29).
+- **Genesis 9:6** — the image legislated. *"Whoever sheds man's blood, his blood will be shed by
+  man, for God made man in his own image"* is the doctrine's load-bearing use in the Torah, and
+  three things follow from the ground it names. Murder becomes a crime against God rather than
+  against society, which is why the law forbids ransom for a murderer (Numbers 35:31) where it
+  permits it almost everywhere else. The protection is universal, belonging to *hāʾādām* with no
+  qualification by nation or conduct. And the image is confirmed as still in force after the fall,
+  after the first murder, and after a flood sent for total corruption — in the same speech that
+  calls the human heart evil from its youth (8:21). See [[The Covenant with Noah]] and
+  [[Whoever Sheds Man's Blood]].
+- To trace as ingestion reaches them: Psalm 8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9,
+  and the New Testament's turn to Christ as *the* image (2 Corinthians 4:4, Colossians 1:15,
+  Hebrews 1:3) into which people are remade (Romans 8:29).
 
 ## Key passages
 
@@ -66,6 +74,10 @@ dominion given in 1:28, not a reward for exercising it.
 - [[The Fall]] — the likeness offered by the serpent, and confirmed by God in 3:22
 - [[From Adam to Noah]] — 5:1–3, the one place in Scripture where the image passes from a human
   father to a human son
+- [[The Covenant with Noah]] — 9:6, the one place in the Torah where the image is made the ground
+  of a law
+- [[Whoever Sheds Man's Blood]] — what the later law builds on that ground, and what the New
+  Testament does with it
 - [[The First Adam and the Last Adam]] — bearing *"the image of the man of dust"* and *"the image
   of the heavenly"*
 
@@ -77,6 +89,9 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Marriage]]
 - [[Sin]]
 - [[Life and Death]]
+- [[Blood]]
+- [[Vengeance]]
+- [[Covenant]]
 
 ## Related people
 
@@ -84,3 +99,4 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Adam]]
 - [[Eve]]
 - [[Seth]] — the first human being said to be fathered in his father's image and likeness
+- [[Noah]] — to whom the image is given as the reason for the new world's only law

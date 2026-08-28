@@ -68,6 +68,13 @@ canon.
   remembered. He is invoking a specific principle — that innocent blood constitutes a claim which
   survives its owner — and applying it to himself in advance. That is the same instinct behind
   every other legal figure he reaches for in this speech; see [[Mediation and Advocacy]].
+- **The principle it invokes gets legislated between Genesis 4 and Job.** Genesis 9:5–6 states it
+  as a rule — *"I will surely require your life's blood… Whoever sheds man's blood, his blood will
+  be shed by man"* — and Numbers 35:33 makes it a fact about land: *"blood pollutes the land, and no
+  expiation can be made for the land for the blood that is shed on it, but by the blood of him who
+  shed it."* Job's *"Earth, don't cover my blood"* is that principle turned into a petition by a man
+  who expects to be the one bleeding. See [[The Covenant with Noah]], [[Whoever Sheds Man's Blood]],
+  and [[Blood]].
 - **It shows how far Genesis 4 travels.** [[Abel]] does nothing in his own story but bring an
   offering and die, and yet the crying of his blood becomes one of the Bible's load-bearing images
   — reused by a suffering Edomite in Job, by a prophet against Jerusalem, by Isaiah at the end of

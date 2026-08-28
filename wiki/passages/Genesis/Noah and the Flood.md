@@ -286,7 +286,9 @@ maximum: every high mountain under the whole sky, and one floating object with n
 - [[Comfort from the Cursed Ground - Naming Noah]] — the hope of 5:29, and how the flood answers it.
 - [[Remembrance]] — *zākar* at Genesis 8:1, the hinge of the whole narrative, one verse past this
   unit.
-- Genesis 9:8–17 — the covenant of 6:18 actually established, with the rainbow as its sign.
+- [[The Covenant with Noah]] — Genesis 9:1–17, where the covenant promised at 6:18 is actually
+  established, with the bow in the cloud as its sign; and where the *ḥāmās*, the violence of 6:11
+  and 6:13 that caused the flood, is answered by the new world's one law.
 - Genesis 9:25 — Noah's first recorded words in Scripture, after two chapters of silence.
 - Exodus 2:3, 5 — the *tēbâ* of Moses: the Bible's only other ark, also sealed with pitch, also
   carrying one rescued life through a killing water.

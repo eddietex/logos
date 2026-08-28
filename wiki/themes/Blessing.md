@@ -53,10 +53,15 @@ costly.
   until the animals leave the ship at 8:17 and the men receive it again at 9:1, on dry ground —
   which makes the blessing one of the things the flood suspends and the new world restarts. See
   [[Noah and the Flood]].
-- To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
-  narrowing of blessing to one family and its widening back out to *"all the families of the
-  earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
-  the covenant blessings-and-curses of Deuteronomy 28.
+- **Genesis 9:1, 7** — the blessing reissued to humanity, and the first blessing on a human being
+  since 1:28. The Hebrew of the command is identical, and two words are missing: *subdue* (*kābaš*)
+  and *have dominion* (*rādâ*) are not repeated, and 9:2 puts *"the fear of you and the dread of
+  you"* in their place. The blessing survives the flood; the mastery it came with is replaced by
+  something closer to a standoff. 9:7 repeats it, so that the paragraph on bloodshed at 9:5–6 is
+  bracketed on both sides by a command to make more life. See [[The Covenant with Noah]].
+- To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
+  out to *"all the families of the earth"* (12:1–3), the patriarchal blessings that drive the Jacob
+  narrative (27, 48, 49), and the covenant blessings-and-curses of Deuteronomy 28.
 
 ## Key passages
 
@@ -66,6 +71,8 @@ costly.
   deep, under the sentence of 3:19
 - [[Noah and the Flood]] — the blessing unmentioned through the whole account, and not renewed until
   the far side of the water
+- [[The Covenant with Noah]] — humanity's turn at last: 1:28 spoken a second time, minus *subdue*
+  and *have dominion*, and repeated at 9:7 as a frame around the world's one law
 - [[The Waters Recede]] — the far side of the water: *"be fruitful, and multiply on the earth"*
   (8:17), restored to the animals first, with humanity's turn held back until 9:1
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing

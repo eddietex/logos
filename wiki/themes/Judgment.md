@@ -93,11 +93,19 @@ rule are the conditions the rest of Scripture is set in.
   Noah"* (see [[Remembrance]] and [[The Waters Recede]]), and it ends with the first time God binds
   his own future conduct in Scripture: *"I will never again strike every living thing, as I have
   done."*
-- **Genesis 9:1–17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the covenant and its sign, the promise never to repeat it, Babel, and Sodom, each with God "going down to
-  see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
-  putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
-  again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
-  doing this again, so the same fact grounds both the flood and the promise against it.
+- **Genesis 9:1–17** — judgment renounced in one mode and relocated in another. *"There will never
+  again be a flood to destroy the earth"* (9:11) is the first place in Scripture where God rules out
+  a form of judgment permanently, and it is signed. What replaces it is a court: the one law given
+  to the new world requires a life for a life (9:6), which means the settling of accounts for
+  bloodshed passes into human hands rather than waiting for another act of God. Note also that
+  8:21 gives the verdict of 6:5 again — *"the imagination of man's heart is evil from his youth"* —
+  as the reason for **never** doing this again, so the same fact grounds both the flood and the
+  promise against it. And note how narrow the promise is: it rules out one instrument and one
+  scope, not judgment, which is exactly how 2 Peter 3:5–7 reads it. See
+  [[The Covenant with Noah]] and [[Whoever Sheds Man's Blood]].
+- **Genesis 11:1–9; 18:16–19:29** *(not yet ingested)* — Babel and Sodom, each with God "going down
+  to see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
+  putting the question the theme keeps raising.
 - Strands to trace as ingestion reaches them: the plagues and the exodus as judgment on Egypt's
   gods; the covenant lawsuit form in the prophets (Micah 6:1–8, Isaiah 1:2–20); the day of Yahweh
   (Amos 5:18–20, Joel 2, Zephaniah 1); exile as judgment and return as its limit; Jesus on

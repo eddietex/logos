@@ -78,8 +78,10 @@ the serpent, and it is worth answering the same way: record both, and mark which
 The other thing worth carrying forward is Hebrews 12:24's comparison, because it makes the
 Bible's first murder the first term in a series about **what blood says**. Genesis 4:10 (blood
 crying from the ground), Genesis 9:5–6 (blood required), Leviticus 17:11 (life in the blood),
-Deuteronomy 21:1–9 (a land polluted by blood), and Hebrews 12:24 are one strand. Revisit when
-Genesis 9 and Leviticus 17 are ingested.
+Deuteronomy 21:1–9 (a land polluted by blood), and Hebrews 12:24 are one strand. It now has a
+page of its own — [[Blood]] — and Genesis 9's two rulings on it are set out at
+[[The Covenant with Noah]] and traced at [[Whoever Sheds Man's Blood]] and
+[[The Blood Is the Life]].
 
 That strand now has a middle term. Job 16:18 — *"Earth, don't cover my blood. Let my cry have
 no place to rest"* — takes Genesis 4's conception and turns it into a petition, from a man not yet

@@ -56,6 +56,11 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   after: nobody commanded it, it costs a seventh of every clean species alive, God's response is
   addressed to no one (*"Yahweh said in his heart"*), and the resolve it produces is grounded in
   human evil rather than human merit. See [[The Waters Recede]] and [[A Pleasing Aroma]].
+- **Genesis 9:4** — the premise the altar will run on, given as a food rule. Blood is withheld from
+  the human table *because it is the life*, and Leviticus 17:11 supplies the other half of the
+  reason: it has been assigned to the altar for atonement. Genesis 9 does not mention sacrifice, but
+  after it there is a part of every slaughtered animal that is not the eater's to take. See
+  [[The Covenant with Noah]] and [[The Blood Is the Life]].
 - **Job 1:5** — Job sanctifies his children himself and offers a burnt offering for each, after
   every round of their feasting, on the hypothesis *"It may be that my sons have sinned, and
   renounced God in their hearts."* No altar is mentioned, no priest, no command, and no offence
@@ -78,6 +83,9 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[Cain and Abel in the New Testament]] — Hebrews 11:4 on Abel's sacrifice as the first act of
   faith
 - [[The Waters Recede]] — the first altar, the first burnt offering, and the first *pleasant aroma*
+- [[The Covenant with Noah]] — blood reserved, one pericope after the first altar, which is what
+  makes the Levitical system possible
+- [[The Blood Is the Life]] — the reservation traced to Leviticus 17, Acts 15, and John 6
 - [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
   and its New Testament application to Christ, to money, and to prayer
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
@@ -89,6 +97,7 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[Judgment]] — the scene an unaccepted offering leads directly into here
 - [[Sin]] — what crouches at the door of the man whose gift was refused
 - [[Life and Death]] — what the firstborn of the flock costs
+- [[Blood]] — what is actually handled at an altar, and why it is kept off the table
 - [[Blessing]] — God's word toward what he receives, against the withheld regard of 4:5
 
 ## Related people

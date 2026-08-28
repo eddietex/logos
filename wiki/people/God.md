@@ -241,6 +241,45 @@ and 7:16.
 One thing he does not do: tell Noah. 8:21 is spoken in his own heart, and the man on the altar is not
 in the conversation. The binding of himself that began at 6:18 is not made public until 9:8–17.
 
+### He legislates, and disarms — Genesis 9:1–17
+
+[[The Covenant with Noah]] gives him two speeches and no interlocutor, and he is *ʾĕlōhîm* in every
+verse of them — the name attached to the cosmic and universal material, with *Yahweh* absent for the
+first full pericope since the flood began. It suits an address whose stated audience is *"all flesh
+that is on the earth"*.
+
+**He legislates**, for the first time since the prohibition in the garden at 2:16–17, and he gives
+exactly one law. Killing a human being will be answered life for life, *"for God made man in his own
+image"* (9:6). The ground he chooses is worth noting on a page about him: he does not appeal to
+order, to his own authority, or to the harm done, but to a resemblance to himself that he says is
+still there — in the same speech in which he has just diagnosed the human heart as evil from its
+youth (8:21). Whatever the flood established about humanity, it did not change his estimate of what
+a person is. See [[Image of God]] and [[Blood]].
+
+**He binds himself in public.** At 8:21 he resolved never again to strike every living thing, and he
+did it *in his heart*, where nobody could hear. Here the same resolve is spoken aloud, given a
+document's repetitiveness — *bərît* seven times in ten verses — and attached to a sign. The gap
+between the two is the whole difference between a decision and a covenant, and he closes it himself.
+Nothing is asked in return. Noah is not consulted, does not answer, and undertakes nothing.
+
+**He gives himself a reminder.** *"I will look at it, that I may remember the everlasting covenant"*
+(9:16). Of the three covenant signs in the Hebrew Bible, the other two — circumcision, the Sabbath —
+are things people do. This one is a thing God says he will look at, and the verb is *zākar*, the
+word [[Remembrance]] traces: never recollection after a lapse, always action on a commitment. He has
+arranged the weather so that the sight of a gathering storm triggers the promise not to send one.
+
+**And the sign is a weapon.** *Qešet* is the war-bow everywhere else in Scripture, including in the
+hands of God himself when the prophets put him in the field (Habakkuk 3:9; Psalm 7:12; Lamentations
+2:4). The most natural picture of 9:13 is an instrument of war hung up in the sky with its arc
+turned away from the earth, at the end of the one campaign in the Bible in which he was
+unambiguously the attacker. See [[The Bow in the Cloud]].
+
+One further thing he does here, easy to pass over: he makes a covenant with animals. Five times in
+ten verses the beneficiaries are named as *every living creature* or *all flesh*, and once as *"the
+earth"* itself. He has never done this before and does not do it again — the only later parallel is
+Hosea 2:18. The same speech has just delivered those animals into human hands as food, and Genesis
+does not reconcile the two.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -302,6 +341,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   earth, and orders everyone out; smells the first sacrifice in Scripture and resolves — in his own
   heart, where no one can hear — never to curse the ground or strike all life again —
   [[The Waters Recede]]
+- Blesses the eight survivors, gives the new world one law and grounds it in his own image,
+  establishes the covenant he promised before the flood, and hangs his bow in the cloud as a
+  reminder to himself — [[The Covenant with Noah]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -321,6 +363,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   and shutting the door
 - [[The Waters Recede]] — the sentence lifted: remembering, sending the wind, commanding the exit,
   smelling the offering, and binding his own future conduct
+- [[The Covenant with Noah]] — *ʾĕlōhîm* throughout: blessing, legislating, covenanting, and
+  disarming, with nothing asked in return
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -369,6 +413,7 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Curse]]
 - [[Judgment]]
 - [[Sacrifice and Offering]]
+- [[Blood]]
 - [[Vengeance]]
 - [[Suffering]]
 - [[Retribution]]

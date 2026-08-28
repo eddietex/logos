@@ -297,8 +297,9 @@ view and can be named — which is itself the plot.
 - [[The Flood and Baptism]] — 1 Peter 3:20–21, the eight souls saved through water, and the dove that
   turns up over the Jordan.
 - [[As It Was in the Days of Noah]] — the New Testament's use of this generation as a warning.
-- Genesis 9:1–17 *(not yet ingested)* — the blessing reissued to humanity, the terms altered, and the
-  covenant of 6:18 finally established with the rainbow as its sign.
+- [[The Covenant with Noah]] — Genesis 9:1–17: the blessing reissued to humanity, the terms altered,
+  and the covenant of 6:18 finally established with the bow in the cloud as its sign. What 8:21
+  resolves in God's heart, 9:9 says aloud.
 - Genesis 9:20–25 *(not yet ingested)* — the vineyard, and Noah's first recorded words, which are a
   curse. The complication of everything 8:21 promises.
 - Exodus 2:24; 6:5 — *"God remembered his covenant"*, the verb of 8:1 starting the exodus.
@@ -310,7 +311,8 @@ view and can be named — which is itself the plot.
 - 2 Kings 19:37; Isaiah 37:38 — Sennacherib's murderers escape *"into the land of Ararat"*.
 - Jeremiah 51:27 — Ararat summoned with Minni and Ashkenaz against Babylon.
 - Isaiah 54:9–10 — *"this is like the waters of Noah to me; for as I have sworn that the waters of
-  Noah will no more go over the earth"*: 8:21 cited as the guarantee of a greater promise.
+  Noah will no more go over the earth"*: 8:21 cited as the guarantee of a greater promise. See
+  [[The Waters of Noah - Isaiah 54 and the Covenant of Peace]].
 - Jeremiah 31:35–36; 33:20–26 — the fixed order of day and night, and *"my covenant of the day"*,
   used as the measure of a covenant that cannot fail.
 - Psalm 104:5–9 — *"You have set a boundary that they may not pass over, that they don't turn again

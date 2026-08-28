@@ -65,7 +65,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   of the flood chiasm, and the turn on which the world's survival hangs. See [[The Waters Recede]].
 - **Genesis 9:15–16** — *"I will remember my covenant"*: the rainbow is explicitly a memory aid, and
   the striking thing is whose. It is set in the sky so that *God* will see it and remember, not so
-  that people will.
+  that people will — *"I will look at it, that I may remember"*, with God the subject of both verbs.
+  It is the only covenant sign in Scripture of that kind: circumcision is cut into the human party
+  and the Sabbath is kept by it. And the trigger is chosen with some care, since a rainbow appears
+  when a storm does, which is when the promise is needed. What 8:1 did once, this is arranged to do
+  perpetually. See [[The Covenant with Noah]] and [[The Bow in the Cloud]].
 - **Genesis 19:29** — *"God remembered Abraham, and sent Lot out of the middle of the overthrow"*:
   a man rescued because of somebody else's standing.
 - **Genesis 30:22** — *"God remembered Rachel… and opened her womb"*.
@@ -108,6 +112,8 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 - [[The Waters Recede]] — *"God remembered Noah"* (8:1), the flood's hinge and the theme's first
   and defining instance
+- [[The Covenant with Noah]] — the verb attached to a physical sign, and a sign given to God rather
+  than to the people it reassures
 - [[Miserable Comforters and the Witness in Heaven]] — Job wanting his cry to have a permanent
   record and a witness on file, which is the same need approached from underneath
 

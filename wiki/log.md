@@ -1123,3 +1123,109 @@ named Job explicitly.
   will get their treatment when those pericopes are ingested.
 
 Link check clean.
+
+## [2026-08-28] ingest | Genesis 9.1-17 — The Covenant with Noah
+
+Unattended run (`/ingest auto`, no target). Target resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and `The Covenant with Noah — Genesis 9:1–17` was the
+first unchecked box on its page. No fork, no question. Per the unattended rules, step 2's discussion
+was written into the passage page rather than held aloud, and every judgment call below was made
+without asking.
+
+The unit: the blessing of 1:28 reissued, the animals delivered into human hands, meat permitted and
+blood forbidden, the homicide statute grounded in the image of God, and then the covenant of 6:18
+established with Noah, his offspring, and every living creature, signed with the bow in the cloud.
+The plan's boundary (9:1–17) was kept unchanged — 9:17's closing formula ends the speech and 9:18
+starts a new unit with a fresh naming of the three sons.
+
+**Created**
+
+- `wiki/passages/Genesis/The Covenant with Noah.md` — the passage page. The reading it argues is
+  that 9:1–7 and 9:8–17 are a matched pair whose asymmetry is the point: the first speech is all
+  obligation and addressed to people, the second is all promise and addressed to *"all flesh"*, and
+  the shape of every later covenant in Genesis starts here.
+- `wiki/themes/Blood.md` — new theme page. Three uses of *dām* traced as one idea: blood shed makes
+  a claim (Genesis 4:10, Numbers 35:33, Job 16:18), blood is withheld from the table because it is
+  the life (Genesis 9:4, Leviticus 17), and blood atones because it is the life (Leviticus 17:11,
+  Hebrews 9:22).
+- `wiki/connections/The Bow in the Cloud.md` — *qešet* as the war-bow everywhere else in Scripture,
+  the sign as a weapon laid down, and the rainbow's reappearance around the throne in Ezekiel 1 and
+  Revelation 4 and 10.
+- `wiki/connections/The Blood Is the Life.md` — 9:4 through Leviticus 17, Deuteronomy 12, the
+  apostolic decree of Acts 15, and the deliberate scandal of John 6:53–56.
+- `wiki/connections/Whoever Sheds Man's Blood.md` — 9:5–6 against Genesis 4's escalating numbers,
+  the six-word chiasm, the *bāʾādām* problem, the safeguards the later law adds, and the New
+  Testament's split between private revenge and the magistrate's sword.
+- `wiki/connections/The Waters of Noah - Isaiah 54 and the Covenant of Peace.md` — Isaiah 54:9–10 as
+  the only place outside Genesis that names the flood oath, and the prophets' covenant-of-peace
+  vocabulary built out of Genesis 9's two peculiar features.
+
+**Revised**
+
+- `wiki/people/Noah.md` (new section — blessed, legislated to, and covenanted with), `God.md` (new
+  section — he legislates, and disarms), `Shem.md`, `Ham.md`, `Japheth.md`.
+- `wiki/themes/Covenant.md`, `Blessing.md`, `Image of God.md`, `Life and Death.md`, `Vengeance.md`,
+  `Judgment.md`, `Remembrance.md`, `Clean and Unclean.md`, `Creation.md`, `Sin.md`,
+  `Sacrifice and Offering.md`.
+- `wiki/connections/The Flood as Un-Creation.md`, `Cain and Abel in the New Testament.md`,
+  `Do Not Cover My Blood.md`.
+- `wiki/passages/Genesis/The Waters Recede.md`, `Noah and the Flood.md`, `Cain and Abel.md`,
+  `The Creation of the World.md`, `From Adam to Noah.md` — each had a forward reference to Genesis 9
+  that now points at a page.
+- `wiki/books/Genesis.md` (box checked and linked; `[[Blood]]` and `[[Life and Death]]` added to key
+  themes), `wiki/books/index.md` (Genesis 10 / 58), all five category indexes, and `wiki/index.md`
+  counts (13 passages · 30 people · 7 places · 27 themes · 32 connections).
+
+Eight forward references left by earlier ingests as *(not yet ingested)* or as bare scripture
+references now resolve to `[[The Covenant with Noah]]`: in `Covenant`, `Judgment`, `Vengeance`,
+`The Flood as Un-Creation`, `Cain and Abel in the New Testament`, `The Waters Recede`,
+`Noah and the Flood`, and `Cain and Abel`.
+
+**Judgment calls, for review**
+
+- **`Blood` was created as a theme page.** The material was scattered across `Vengeance`,
+  `Life and Death`, and `Sacrifice and Offering`, and `Do Not Cover My Blood` had been carrying the
+  Abel strand alone since Job 16 was ingested. Genesis 9:4–6 is the first place both halves — blood
+  as life and blood as a claim — are legislated in one speech, which made this the natural point to
+  give it a hub. The alternative was to leave it distributed; the cost of that was already visible
+  in `Cain and Abel in the New Testament`, which had a note saying "revisit when Genesis 9 and
+  Leviticus 17 are ingested."
+- **Four connection pages from one pericope**, which is more than any previous ingest. The
+  justification is that 9:1–17 seeds four independent canonical threads with almost no overlap: the
+  bow, the blood prohibition, the homicide rule, and the covenant's prophetic reuse. Splitting the
+  blood material into two pages (`The Blood Is the Life` for 9:4, `Whoever Sheds Man's Blood` for
+  9:5–6) was deliberate — they run to different destinations, one to Leviticus 17 and the eucharist,
+  the other to the law of homicide and Romans 13.
+- **`The Waters of Noah` was made a page rather than a cross-reference.** Isaiah 54:9–10 was already
+  cited on `The Waters Recede` as a bare reference. It earns a page because it is the Old
+  Testament's own theological reuse of this covenant and the model for the prophets' covenant-of-
+  peace language. The page also flags, without resolving, that Isaiah 24:5's *"they have broken the
+  everlasting covenant"* is in tension with the argument, and offers three readings.
+- **The *qešet* reading is stated as a strong reading, not as a translation.** The passage page and
+  `The Bow in the Cloud` both say plainly that no text says *"God laid down his bow"*, that the
+  martial sense at 9:13 is an inference from vocabulary, and that Hebrew had no neutral alternative
+  noun. What is asserted is that the reading is old, widely held, and unresisted by the text.
+- **`bāʾādām` at 9:6 is left unsettled.** Three readings are recorded — instrumental (*by man*),
+  price (*in exchange for the man*), and local (*among men* / before witnesses) — with the note that
+  the instrumental one is the majority reading and best fits the 9:5/9:6 contrast, and that a large
+  argument about capital punishment rests on a preposition that will bear more than one load.
+- **The pre-flood vegetarian reading is recorded with its cautions.** Genesis 1:29–30 states a grant
+  rather than a prohibition, and Abel keeps sheep at 4:2–4; what the page asserts is only that 9:3
+  presents itself as a change, by quoting 1:29 in the same breath.
+- **No new person or place pages.** The pericope names nobody Genesis 8 did not, and has no
+  geography — the arena is *hāʾāreṣ*, which is why 9:13's *"between me and the earth"* is possible.
+  The four women in the ark remain without pages; the new observation about them (both speeches are
+  addressed to *"Noah and his sons"* while commanding *be fruitful and multiply*) is recorded on the
+  passage page as a convention of the text rather than a statement about who is included.
+- **The Mesopotamian parallels live in the passage page's Notes**, consistent with the decision made
+  at the Genesis 8 ingest for Gilgamesh XI. The note covers Marduk's bow set in heaven as the
+  Bow-star in *Enūma Eliš* VI and the mother goddess's lapis necklace in *Gilgamesh* XI, and says
+  what Genesis changes rather than adjudicating dependence.
+- **The tension between 9:2–3 and 9:9–17 is left unreconciled and flagged as such** — the same
+  speech makes the animals food and makes them covenant partners. Recorded on the passage page, on
+  `Creation`, and on `wiki/people/God.md`, in each case without harmonizing it.
+
+`scripts/link-check.sh` exits 0: no wrapped links, no dangling targets, 64 not-yet-started book
+pages as the expected baseline. No links were deliberately left dangling this pass; forward
+references to Genesis 9:18–29 and beyond are written as plain scripture references marked *(not yet
+ingested)*.

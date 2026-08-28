@@ -32,3 +32,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
 | [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 |
+| [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Psalm 7:12–13 · Lamentations 2:4 · Habakkuk 3:8–11 · Zechariah 9:13–14 · Hosea 2:18 · Ezekiel 1:26–28 · Revelation 4:3 · Revelation 10:1 |
+| [[The Blood Is the Life]] | thread | Genesis 9:3–4 · Genesis 1:29–30 · Leviticus 17:10–14 · Deuteronomy 12:20–25 · 1 Samuel 14:31–35 · Acts 15:20, 29 · John 6:53–56 · Hebrews 9:22 |
+| [[Whoever Sheds Man's Blood]] | thread | Genesis 9:5–6 · Genesis 4:8–24 · Exodus 21:12–25 · Numbers 35:9–34 · Deuteronomy 19:1–21 · Matthew 26:52 · Romans 12:19, 13:1–4 · James 3:9 |
+| [[The Waters of Noah - Isaiah 54 and the Covenant of Peace]] | allusion | Genesis 9:8–17 · Isaiah 54:9–10 · Isaiah 24:5 · Jeremiah 31:35–36 · Jeremiah 33:19–26 · Ezekiel 34:25, 37:26 · Hosea 2:18–20 · Romans 8:19–22 |

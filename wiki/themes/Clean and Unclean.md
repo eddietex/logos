@@ -50,6 +50,13 @@ These are not exclusive, and the third is the one the text argues for by itself.
   the first altar in Scripture. The chapter also lets the distinction pick the birds: an unclean
   raven for the errand that does not come back, a clean dove for the one that does. See
   [[The Waters Recede]].
+- **Genesis 9:3–4** — and then, nine verses after the altar, the distinction is conspicuously *not*
+  applied. Every moving thing that lives is given as food, clean and unclean alike, with one
+  reservation that has nothing to do with the category: blood may not be eaten. The boundary that
+  governed the ark and the altar is not yet a boundary around the table, and the one food rule the
+  new world receives is universal rather than Israelite. That order matters for the New Testament's
+  argument, since Acts 15 keeps the Genesis 9 rule for Gentiles while Mark 7:19 and Acts 10 set
+  aside the Leviticus 11 one. See [[The Covenant with Noah]] and [[The Blood Is the Life]].
 - **Leviticus 11; Deuteronomy 14:3–21** — the distinction codified. Land animals must chew the cud
   *and* have a split hoof; sea creatures need fins and scales; a list of birds is simply given.
   Reasons are not stated, and the attempts to supply them — hygiene, anti-Canaanite polemic, Mary
@@ -87,6 +94,8 @@ These are not exclusive, and the third is the one the text argues for by itself.
   definition nine centuries before Leviticus defines it
 - [[The Waters Recede]] — the distinction load-bearing at last: what 7:2's surplus was for, and
   which bird gets sent where
+- [[The Covenant with Noah]] — the distinction not carried into the diet: everything permitted at
+  9:3, and only blood withheld
 
 ## Related themes
 
@@ -97,6 +106,7 @@ These are not exclusive, and the third is the one the text argues for by itself.
 - [[Covenant]] — the framework the purity laws serve, and the boundary Acts 10 dissolves
 - [[Blessing]] — Genesis 9:3, which hands every moving thing over as food two chapters after 7:2
   sorted them
+- [[Blood]] — the one dietary rule that predates the system and outlives it
 - [[Creation]] — the *"after their kind"* ordering of Genesis 1, which the purity lists arguably
   presuppose
 

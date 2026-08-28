@@ -58,10 +58,15 @@ the whole biosphere and conditioned on nothing.
   he says it *in his heart*, to nobody, and no sign is given. Noah worships without knowing it. The
   gap between 8:21 and 9:9 is the difference between a decision and a covenant: a covenant is a
   promise made *to* someone, in public, with a sign. See [[The Waters Recede]].
-- **Genesis 9:8–17** *(not yet ingested)* — the Noahic covenant established: with Noah, his
-  offspring, and every living creature; unconditional, unilateral, everlasting, and signed with the
-  rainbow. The promise is specifically negative — never again by water — which is the form a promise
-  takes when it is a limit God places on himself.
+- **Genesis 9:8–17** — the Noahic covenant established, and the promise of 6:18 discharged. The
+  word *bərît* occurs seven times in ten verses; the verb is *hēqîm* again, with no ceremony, no
+  oath, and nothing asked of the human party. Three features are without parallel later. Its scope
+  is *"every living creature of all flesh"* and even *"the earth"* itself (9:10, 13, 15–17) — the
+  animals are parties. Its promise is specifically **negative**, never again by water, which is the
+  form a promise takes when it is a limit God places on himself. And its sign is aimed at God:
+  *"I will look at it, that I may remember"* (9:16), where circumcision and the Sabbath are things
+  the human party keeps. This is also the first **bərît ʿôlām**, everlasting covenant, in Scripture.
+  See [[The Covenant with Noah]] and [[The Bow in the Cloud]].
 - **Genesis 15:1–21** *(not yet ingested)* — the covenant between the pieces. Abram sleeps while a
   smoking furnace and a flaming torch pass between the halves alone: God takes the self-curse and
   Abram takes none of it. The land promise is sworn here.
@@ -77,6 +82,11 @@ the whole biosphere and conditioned on nothing.
   seriously disputed.
 - **2 Samuel 7:8–17; Psalm 89** — the covenant with David: a dynasty promised unconditionally, which
   Psalm 89 then holds up against a ruined throne and demands an accounting for.
+- **Isaiah 54:9–10** — the Noahic covenant used as a model. *"As I have sworn that the waters of
+  Noah will no more go over the earth, so I have sworn that I will not be angry with you"*: the only
+  place outside Genesis that names the flood oath, and it derives the strength of a new promise from
+  the unbreakability of the old one. See
+  [[The Waters of Noah - Isaiah 54 and the Covenant of Peace]].
 - **Jeremiah 31:31–34** — *"a new covenant … not according to the covenant that I made with their
   fathers"*, written on hearts rather than tablets. The Old Testament's own statement that the Sinai
   arrangement is not final.
@@ -99,6 +109,8 @@ the whole biosphere and conditioned on nothing.
   death and before the water comes
 - [[The Waters Recede]] — the promise resolved on in God's heart, one chapter before it becomes a
   covenant anyone is told about
+- [[The Covenant with Noah]] — the covenant established: seven occurrences of *bərît*, the animals
+  as parties, the first *everlasting covenant*, and a sign God gives himself
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
 
@@ -108,6 +120,9 @@ the whole biosphere and conditioned on nothing.
 - [[Favor and Grace]] — the covenant of 6:18 is offered to a man who was given favor before he was
   called righteous
 - [[Blessing]] — what the covenant carries, and what 9:1 restores on the far side of the flood
+- [[Blood]] — the one obligation laid on the human party at Genesis 9, and the substance every
+  later covenant is ratified in
+- [[Remembrance]] — what a sign is for, when the one who looks at it is God
 - [[Righteousness]] — the standing the covenant creates, and which Genesis 15:6 will make the
   condition of entry
 - [[Sacrifice and Offering]] — how covenants are cut, and what 8:20 does at the flood's end

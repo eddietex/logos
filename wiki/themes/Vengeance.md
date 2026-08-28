@@ -47,9 +47,16 @@ for revenge becomes its measure for pardon. See
   a permission.
 - **Genesis 4:23–24** — Lamech's Song of the Sword: a man claiming the number for himself and
   raising it eleven-fold, over a wound.
-- **Genesis 9:5–6** *(not yet ingested)* — after the flood, the first rule: *"whoever sheds man's
-  blood, his blood will be shed by man"*, grounded in the image of God. Retribution is finally
-  regulated rather than boasted.
+- **Genesis 9:5–6** — after the flood, the first rule: *"Whoever sheds man's blood, his blood will
+  be shed by man, for God made man in his own image."* Set the three numbers side by side and the
+  point is unmistakable — sevenfold for Cain (4:15), seventy-sevenfold in Lamech's mouth (4:24),
+  and here **one**. The escalation that ran through Cain's line is not denounced; it is stopped by
+  being converted into arithmetic. Two further changes. The demand is God's own (*"I will surely
+  require"*, *dāraš*, three times in 9:5), so what human beings exact is delegated rather than
+  owned. And the ground shifts from protection of a person to the [[Image of God]] in every person,
+  which is why the later law forbids ransom for a murderer (Numbers 35:31). In Hebrew 9:6a is six
+  words that mirror each other exactly, so the *talion* is performed by the syntax before any law
+  states it. See [[The Covenant with Noah]] and [[Whoever Sheds Man's Blood]].
 - Strands to trace as ingestion reaches them: *lex talionis* as a limit (Exodus 21:23–25, Leviticus
   24:19–20, Deuteronomy 19:21); the *gōʾēl haddām*, the avenger of blood, and the cities of refuge
   (Numbers 35, Deuteronomy 19, Joshua 20); David refusing to strike Saul (1 Samuel 24, 26); the
@@ -62,6 +69,9 @@ for revenge becomes its measure for pardon. See
 
 - [[Cain and Abel]] — the sevenfold guarantee that keeps a murderer alive
 - [[The Line of Cain and the Birth of Seth]] — Lamech taking the number for himself and inflating it
+- [[The Covenant with Noah]] — the ratio fixed at one to one, and the demand kept in God's hands
+- [[Whoever Sheds Man's Blood]] — 9:6 through the law of homicide, the prophets, and the New
+  Testament's split between private revenge and the magistrate's sword
 
 ## Related themes
 
@@ -69,11 +79,14 @@ for revenge becomes its measure for pardon. See
 - [[Sin]] — what 4:7 warned about, now hereditary in fact
 - [[Life and Death]] — the currency the whole theme is denominated in
 - [[Curse]] — the sentence Cain carried, and the protection attached to it
+- [[Blood]] — the substance the theme is transacted in, and the two rules Genesis 9 gives about it
+- [[Image of God]] — the ground 9:6 gives for the ratio it fixes
 - [[City and Civilization]] — the culture Lamech's family builds, and the song it ends in
 
 ## Related people
 
 - [[God]]
+- [[Noah]] — given the first rule that limits it
 - [[Cain]]
 - [[Lamech (son of Methushael)]]
 - [[Tubal Cain]]

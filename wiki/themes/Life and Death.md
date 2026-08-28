@@ -96,6 +96,13 @@ the rest of the canon.
   dust is named here as the thing that stops. And note the exception clause, *"Only Noah was left"*
   (7:23), whose verb *šāʾar* is the root of the prophets' **remnant** — the idea enters the Bible in
   a sentence about eight survivors. See [[Noah and the Flood]].
+- **Genesis 9:4–6** — life defined and life priced, in three verses. *"Flesh with its life, that
+  is, its blood"* makes the identification the whole sacrificial system will rest on: **nepeš**, the
+  word Genesis 2:7 uses when the man becomes *a living being*, is located in the blood, and blood is
+  therefore withheld from the table. Then the other direction: a human life is worth exactly one
+  human life (9:6), no more — against Cain's sevenfold and Lamech's seventy-sevenfold — and no less,
+  since the law will refuse a ransom for it (Numbers 35:31). Both rulings sit inside a paragraph
+  bracketed by *be fruitful and multiply* (9:1, 9:7). See [[The Covenant with Noah]] and [[Blood]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -113,6 +120,8 @@ the rest of the canon.
 - [[From Adam to Noah]] — *"then he died"*, eight times, and the two entries that do not say it
 - [[Noah and the Flood]] — the sentence carried out, reported four times in three verses, and the
   breath of 2:7 named as what is taken back
+- [[The Covenant with Noah]] — *nepeš* located in the blood, and a human life priced at exactly one
+  human life
 - [[The Waters Recede]] — the sentence reversed: *"breed abundantly… be fruitful, and multiply"*
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
@@ -135,6 +144,7 @@ the rest of the canon.
 - [[Sin]]
 - [[Curse]]
 - [[Judgment]]
+- [[Blood]]
 - [[Hope]]
 - [[Suffering]]
 - [[Mediation and Advocacy]]

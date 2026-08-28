@@ -278,9 +278,9 @@ consequences of the fall, and here time takes over the job.
   *demût*, likeness) return in reversed order and with the referent changed: there, God makes man
   in his image; here, man fathers a son in his. Nothing else in the Bible says this. Two large
   conclusions have been drawn from it, and the verse supports the first much more clearly than the
-  second. **(1)** The image survives the fall and is transmitted — which Genesis 9:6 confirms
-  independently, grounding the prohibition of murder in the image *after* the flood, and which
-  James 3:9 assumes. **(2)** That the verse also means fallen*ness* is transmitted — that Seth
+  second. **(1)** The image survives the fall and is transmitted — which
+  [[The Covenant with Noah]] confirms independently at Genesis 9:6, grounding the prohibition of
+  murder in the image *after* the flood, and which James 3:9 assumes. **(2)** That the verse also means fallen*ness* is transmitted — that Seth
   inherits Adam's corrupted state, not merely his status. This is the standard Augustinian and
   Reformed reading, and Romans 5:12 is the load-bearing text for it, not this one. Genesis 5:3 says
   only that a son resembled his father in the terms Genesis 1 used of God and man; it does not say

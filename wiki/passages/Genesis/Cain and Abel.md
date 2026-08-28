@@ -182,8 +182,12 @@ the garden.
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:17–26: Cain's line, Lamech's boast that
   answers the sevenfold vengeance of 4:15 with seventy-seven, and the birth of Seth
   *"instead of Abel"*.
-- Genesis 9:5–6 — the blood of a man required *"at the hand of every man's brother"*, the rule this
-  narrative is missing.
+- [[The Covenant with Noah]] — Genesis 9:5–6, the blood of a man required *"at the hand of every
+  man's brother"*, which is the rule this narrative is missing and an answer in statute form to
+  Cain's *"Am I my brother's keeper?"*. The ratio is one to one, against the sevenfold of 4:15.
+- [[Whoever Sheds Man's Blood]] — the thread from this killing through Genesis 9 into the law of
+  homicide and the New Testament.
+- [[Blood]] — Abel's blood is the theme's first appearance, and the first thing it does is speak.
 - Leviticus 17:11 and Deuteronomy 21:1–9 — blood as life, and the ritual for a land polluted by
   blood whose shedder is unknown.
 - Numbers 35:9–34 — the cities of refuge and the avenger of blood, the institution that will do

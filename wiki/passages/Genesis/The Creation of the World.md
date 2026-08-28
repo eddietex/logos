@@ -108,7 +108,9 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
   creatures" (1:21) are simply creatures God makes and calls good, and the whole work proceeds by
   speech.
 - **The diet given in 1:29–30 is vegetarian**, for humans and animals alike. Meat is not granted
-  until after the flood (Genesis 9:3).
+  until after the flood, at Genesis 9:3, which quotes this verse as the arrangement it is changing
+  — see [[The Covenant with Noah]]. The prophets treat the older diet as the picture of a healed
+  world and expect it back (Isaiah 11:6–9; 65:25).
 - **Days.** Whether the six days are 24-hour days, an age each, or a literary framework is
   disputed and the text does not settle it; note that the sun is not made until day 4, and that
   day 7 has no closing "evening and morning".

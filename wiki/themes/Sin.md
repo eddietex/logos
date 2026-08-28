@@ -103,6 +103,11 @@ has been argued.
   opposite conclusion: because the human heart is evil from youth, God will *not* strike the earth
   again. The fact does not change; what is done about it does — which is also the Bible's first
   statement that a judgment did not fix what it was sent against. See [[The Waters Recede]].
+- **Genesis 9:5–6** — and the new world is given a law about it in its first paragraph. A planet
+  washed clean of *"violence"* (6:11, 13) receives, as its single statute, a rule against shedding
+  human blood — which concedes in advance that the thing the flood was sent against has survived it.
+  The law and the verdict of 8:21 are two halves of one settlement: the diagnosis is unchanged, so
+  judgment by water is replaced by a court. See [[The Covenant with Noah]].
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
   4–5, 16); *"Behold, I was born in iniquity"* (Psalm 51:5); the prophets on sin as covenant
   breach rather than ritual failure; Romans 3:23, 5:12–21, 7; James 1:14–15 on desire conceiving
@@ -120,6 +125,8 @@ has been argued.
   imagination of the heart, every one of them, continually, only evil
 - [[The Waters Recede]] — the same diagnosis restated by God after the flood, as the reason for
   mercy rather than for judgment
+- [[The Covenant with Noah]] — a homicide statute given to a washed world, which concedes what the
+  flood did not fix
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 - [[Eliphaz's Second Speech]] — Job 15:14–16, the friends' anthropology at full strength (*"What is
   man, that he should be clean?"*), and the wiki's standing case of a largely true doctrine used as
