@@ -50,6 +50,15 @@ These are not exclusive, and the third is the one the text argues for by itself.
   the first altar in Scripture. The chapter also lets the distinction pick the birds: an unclean
   raven for the errand that does not come back, a clean dove for the one that does. See
   [[The Waters Recede]].
+- **Genesis 9:3–4** — the distinction conspicuously *not* applied. Four chapters after 7:2 assumed
+  it and one chapter after 8:20 used it, the grant of meat to humanity is made without qualification:
+  *"Every moving thing that lives will be food for you."* No species is excluded, and the only thing
+  withheld is blood (9:4) — a rule about a substance rather than about a creature. This is a load-
+  bearing silence. It is the strongest textual argument that the clean/unclean division of animals is
+  Israel's particular discipline rather than a rule for humanity: the charter given to the whole
+  human race after the flood contains one food law, and it is not this one. The Jerusalem council in
+  Acts 15 reaches the same conclusion by the same route. See [[The Covenant with Noah]] and
+  [[The Life Is in the Blood]].
 - **Leviticus 11; Deuteronomy 14:3–21** — the distinction codified. Land animals must chew the cud
   *and* have a split hoof; sea creatures need fins and scales; a list of birds is simply given.
   Reasons are not stated, and the attempts to supply them — hygiene, anti-Canaanite polemic, Mary
@@ -87,6 +96,10 @@ These are not exclusive, and the third is the one the text argues for by itself.
   definition nine centuries before Leviticus defines it
 - [[The Waters Recede]] — the distinction load-bearing at last: what 7:2's surplus was for, and
   which bird gets sent where
+- [[The Covenant with Noah]] — the distinction withheld: meat granted without species qualification,
+  and one rule about blood in its place
+- [[The Life Is in the Blood]] — the one food law addressed to the whole human race, from 9:4 to
+  Acts 15
 
 ## Related themes
 

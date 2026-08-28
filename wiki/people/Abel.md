@@ -56,6 +56,8 @@ from a passage that says so little.
 - [[Cain and Abel]]
 - [[The Line of Cain and the Birth of Seth]] — named once, at 4:25, as the person Seth is given
   *"instead of"*. It is the last time Genesis mentions him.
+- [[Whoever Sheds Man's Blood]] — the law written against his death: Genesis 9:5–6 requires the
+  reckoning his blood cried for at 4:10, and grounds it in the image every victim bears.
 - [[Do Not Cover My Blood]] — not an appearance, but the clearest measure of his reach. Job, on the
   far side of the canon and outside Israel, addresses the earth and forbids it to do to his blood
   what Genesis 4:11 says it did to Abel's: *"Earth, don't cover my blood. Let my cry have no place

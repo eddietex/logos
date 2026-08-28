@@ -74,6 +74,9 @@ or a deliberate erasure, or the seam between two sources, is set out on
 ## Appears in
 
 - [[Cain and Abel]]
+- [[Whoever Sheds Man's Blood]] — not an appearance, but the sentence he is the reason for. Genesis
+  9:5's *"at the hand of every man's brother I will require the life of man"* has only one case
+  behind it, and 9:6 replaces the sevenfold protection he was given with a life for a life.
 - [[The Line of Cain and the Birth of Seth]] — named in its first verse and its last mention of him;
   the rest of the line is his descendants'
 - Pointedly *not* in [[From Adam to Noah]], where the register of Adam's generations begins at Seth

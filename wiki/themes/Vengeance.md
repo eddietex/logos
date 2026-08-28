@@ -47,9 +47,17 @@ for revenge becomes its measure for pardon. See
   a permission.
 - **Genesis 4:23–24** — Lamech's Song of the Sword: a man claiming the number for himself and
   raising it eleven-fold, over a wound.
-- **Genesis 9:5–6** *(not yet ingested)* — after the flood, the first rule: *"whoever sheds man's
-  blood, his blood will be shed by man"*, grounded in the image of God. Retribution is finally
-  regulated rather than boasted.
+- **Genesis 9:5–6** — after the flood, the first rule. God says *"I will surely require your life's
+  blood"* three times over — *dāraš*, to seek out and demand an accounting — and requires it from an
+  animal that kills a person, from a man, and *"at the hand of every man's brother"*, which is 4:10's
+  vocabulary and has only one case behind it. Then the statute: *"Whoever sheds man's blood, his
+  blood will be shed by man, for God made man in his own image"* (9:6), six Hebrew words in a mirror
+  with *ʾādām* at the pivot. Three things have moved since 4:15. The reckoning is **required**
+  instead of forbidden — Cain was protected from exactly this. It is **capped**, at one life for one,
+  which is Lamech's seventy-sevenfold reversed. And it is **delegated**: God reserved the vengeance
+  to himself at 4:15 and here places its execution in human hands, the first grant of lethal judicial
+  authority in Scripture. Its ground is not deterrence but the victim's status as an image of God.
+  See [[The Covenant with Noah]] and [[Whoever Sheds Man's Blood]].
 - Strands to trace as ingestion reaches them: *lex talionis* as a limit (Exodus 21:23–25, Leviticus
   24:19–20, Deuteronomy 19:21); the *gōʾēl haddām*, the avenger of blood, and the cities of refuge
   (Numbers 35, Deuteronomy 19, Joshua 20); David refusing to strike Saul (1 Samuel 24, 26); the
@@ -62,6 +70,10 @@ for revenge becomes its measure for pardon. See
 
 - [[Cain and Abel]] — the sevenfold guarantee that keeps a murderer alive
 - [[The Line of Cain and the Birth of Seth]] — Lamech taking the number for himself and inflating it
+- [[The Covenant with Noah]] — the reckoning required, capped at a life for a life, and handed to
+  human courts
+- [[Whoever Sheds Man's Blood]] — the arc from Cain's protection to Genesis 9:6, and what the Torah
+  and the New Testament do with it
 
 ## Related themes
 
@@ -70,6 +82,8 @@ for revenge becomes its measure for pardon. See
 - [[Life and Death]] — the currency the whole theme is denominated in
 - [[Curse]] — the sentence Cain carried, and the protection attached to it
 - [[City and Civilization]] — the culture Lamech's family builds, and the song it ends in
+- [[Image of God]] — the ground Genesis 9:6 gives for the one life it permits to be taken
+- [[Covenant]] — the charter the statute is issued inside of
 
 ## Related people
 
@@ -77,3 +91,4 @@ for revenge becomes its measure for pardon. See
 - [[Cain]]
 - [[Lamech (son of Methushael)]]
 - [[Tubal Cain]]
+- [[Noah]] — to whom the rule is finally given, for everybody

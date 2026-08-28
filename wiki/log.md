@@ -1123,3 +1123,98 @@ named Job explicitly.
   will get their treatment when those pericopes are ingested.
 
 Link check clean.
+
+## [2026-08-28] ingest | Genesis 9.1-17 — The Covenant with Noah
+
+Unattended run (`/ingest auto`). Target resolved mechanically: Genesis is the first `in-progress`
+book in `wiki/books/index.md`, and Genesis 9:1–17 was the first unchecked box on its page. No
+boundary redrawn — the pericope was ingested exactly as the existing plan had it, and the plan's
+split of chapter 9 into 9:1–17 and 9:18–29 proved right: the two halves have different speakers,
+different genres, and no shared vocabulary to speak of.
+
+**Created**
+
+- `wiki/passages/Genesis/The Covenant with Noah.md` — the passage page. Read as two speeches with a
+  hinge: 9:1–7 on what humanity may and may not do, 9:8–17 on what God will not do. The argument the
+  page makes is that 9:1–7 is Genesis 1:26–30 quoted clause by clause and altered clause by clause,
+  every alteration downward (a comparison table is in the notes), so the flood restarts the world on
+  lowered terms rather than restoring Eden — which is 8:21's verdict made into policy. Covers the
+  loss of *subdue* and *have dominion*, the conquest idiom behind *"delivered into your hand"*, the
+  diet change, the blood prohibition, the chiastic form of 9:6 and its grounding in the image, the
+  *šāraṣ* inclusio at 9:7, the seven occurrences of *bərît*, the covenant's scope and
+  unconditionality, the *qešet* as war-bow, and the fact that the sign is God's own reminder rather
+  than the human party's. Notes carry the Noahide seven, *Enuma Elish*'s bow-constellation and
+  Gilgamesh XI's necklace, the *bāʾādām* agency/exchange ambiguity, the treaty-form question, and
+  the reception history of 9:6.
+- `wiki/connections/The Bow in the Cloud.md` — *qešet* as the ordinary word for a war-bow everywhere
+  else in the Hebrew Bible, the meteorological sense confined to Genesis 9 and Ezekiel 1:28, and the
+  sign's route to the throne of Revelation 4:3 and the angel of 10:1. Records the war-bow reading
+  as a strong inference with its three limits, rather than as what the text says.
+- `wiki/connections/The Life Is in the Blood.md` — 9:4 through Leviticus 17:11, Deuteronomy 12,
+  1 Samuel 14, and Ezekiel 33:25 to the Jerusalem council's *blood* and *things strangled*
+  (Acts 15:20, 29), and on to Hebrews 9:22 and John 6:53–56.
+- `wiki/connections/Whoever Sheds Man's Blood.md` — the arc from 4:10 (blood with a voice) through
+  4:15 (the murderer protected) and 4:23–24 (Lamech's inflation) to 9:5–6, then the Torah's two
+  limits (life-for-life as a ceiling, the cities of refuge) and the New Testament's reuse of the
+  verse's form to forbid retaliation (Matthew 26:52, Revelation 13:10).
+
+**Revised**
+
+- `wiki/books/Genesis.md` — box checked and linked. Overview and key lists already covered the
+  material; nothing else changed.
+- `wiki/people/Noah.md` — new section on 9:1–17 (he receives everything and is asked for nothing —
+  the first scene in his story with no command in it); timeline split so Genesis 9 is no longer one
+  catch-all line; the three new connections and the passage added to *Appears in*; Image of God added
+  to themes.
+- `wiki/people/God.md` — new section: he says publicly what 8:21 said in his heart, is the only party
+  with an obligation, makes a covenant with animals, installs a reminder for himself, and delegates
+  lethal authority for the first time. Notes that 9:1–17 is *ʾĕlōhîm* throughout with no *Yahweh*,
+  eight verses after the altar scene.
+- `wiki/people/Shem.md`, `Ham.md`, `Japheth.md` — timeline and *Appears in* entries; all three are
+  covenant parties here and still unnamed and silent.
+- `wiki/people/Cain.md`, `Abel.md` — pointed at `Whoever Sheds Man's Blood`; 9:5's *"at the hand of
+  every man's brother"* has exactly one case behind it.
+- `wiki/themes/Covenant.md` — the 9:8–17 entry rewritten from a forward reference into the theme's
+  defining passage, with all six formal features; a new paragraph on treaty form (royal grant vs.
+  suzerain–vassal, and the Isaiah 24:5 tension recorded unresolved); Isaiah 54:9–10 added.
+- `wiki/themes/Image of God.md` — 9:6 written up as the doctrine's second load-bearing text: the
+  image survives the flood, the crime is defined by the victim, and this is the first rule of conduct
+  derived from what human beings *are*.
+- `wiki/themes/Vengeance.md` — the 9:5–6 entry filled in: required rather than forbidden, capped, and
+  delegated.
+- `wiki/themes/Blessing.md`, `Judgment.md`, `Life and Death.md`, `Remembrance.md`, `Creation.md`,
+  `Clean and Unclean.md`, `Curse.md`, `Favor and Grace.md`, `Sacrifice and Offering.md` — new
+  *Development across Scripture* entries and key-passage lines. Clean and Unclean's is a note about
+  a **silence**: 9:3 grants meat with no species distinction four chapters after 7:2 assumed one.
+- `wiki/passages/Genesis/The Waters Recede.md` and `wiki/connections/The Flood as Un-Creation.md` —
+  forward references to Genesis 9:1–17 turned into links now that the page exists.
+- `wiki/connections/Do Not Cover My Blood.md` — 9:4–6 added to its passage list, with a paragraph
+  noting that Leviticus 17:13's covering rule (which Job is arguing with) rests on Genesis 9:4.
+- All five category indexes, `wiki/books/index.md` (Genesis 10 / 58), and `wiki/index.md`'s counts
+  (13 passages · 30 people · 7 places · 26 themes · 31 connections).
+
+**Judgment calls worth reviewing**
+
+- **Three connection pages from one pericope**, which is more than usual. The reason is that 9:4,
+  9:6, and 9:13 each start a distinct canonical thread that nothing existing could hold: the blood
+  prohibition runs to Acts 15, the homicide statute runs to Revelation 13:10, and the *qešet* runs to
+  Ezekiel 1 and Revelation 4. Folding any of them into the passage page would have buried it.
+- **No page created for a "food" or "diet" theme.** The 1:29 → 9:3 change is covered on
+  `Clean and Unclean` (where the notable thing is the distinction's *absence*) and on `Blessing`.
+  A dedicated theme would have had two verses in it.
+- **Isaiah 54:9–10 was not given its own connection page**, though it is the clearest prophetic use
+  of this covenant. It went into `Covenant`'s development list and the passage's cross-references
+  instead; if it recurs when Isaiah is ingested it can be promoted.
+- **The war-bow reading of *qešet* is recorded as an inference, not as the text's claim.** Both the
+  passage page and `The Bow in the Cloud` state the three arguments against pressing it. This is the
+  wiki's usual posture but it is worth flagging, because the reading is popular enough to be assumed.
+- **No side taken on capital punishment.** 9:6's reception history is recorded on both the passage
+  page and the connection page with the arguments in both directions; what is asserted is only the
+  exegesis — the verse gives a reason, the reason is about the victim, and its literary function is
+  to cap an escalation.
+- **`wiki/themes/index.md` key-passage columns are stale for several older rows** (some themes list
+  `The Waters Recede` on their page but not in the index). Noticed while editing; a mechanical sync
+  was drafted and reverted, because it reordered and widened rows well beyond this pericope. It
+  belongs in a lint pass, not an ingest.
+
+Link check clean; baseline 64 not-yet-started book pages, unchanged (no new book page this pass).

@@ -65,7 +65,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   of the flood chiasm, and the turn on which the world's survival hangs. See [[The Waters Recede]].
 - **Genesis 9:15–16** — *"I will remember my covenant"*: the rainbow is explicitly a memory aid, and
   the striking thing is whose. It is set in the sky so that *God* will see it and remember, not so
-  that people will.
+  that people will — *"I will look at it, that I may remember the everlasting covenant"* (9:16).
+  Every other covenant sign in Scripture is borne by the human party and serves as their reminder:
+  circumcision cut into Abraham's household (17:11), the Sabbath kept by Israel (Exodus 31:13, 17),
+  the bread and cup taken *"in memory of me"*. This one is installed in God's own field of view. The
+  verb is the verb of 8:1, and giving it an instrument is the single most concrete thing Scripture
+  does with this theme: when the clouds gather over a world whose heart God has already declared
+  incorrigible (8:21), there is something in the sky he has bound himself to look at. See
+  [[The Covenant with Noah]] and [[The Bow in the Cloud]].
 - **Genesis 19:29** — *"God remembered Abraham, and sent Lot out of the middle of the overthrow"*:
   a man rescued because of somebody else's standing.
 - **Genesis 30:22** — *"God remembered Rachel… and opened her womb"*.
@@ -108,6 +115,10 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 - [[The Waters Recede]] — *"God remembered Noah"* (8:1), the flood's hinge and the theme's first
   and defining instance
+- [[The Covenant with Noah]] — the verb given an instrument: a sign in the sky whose stated purpose
+  is God's own remembering
+- [[The Bow in the Cloud]] — the sign traced from Genesis 9 through Ezekiel 1:28 to the throne of
+  Revelation 4
 - [[Miserable Comforters and the Witness in Heaven]] — Job wanting his cry to have a permanent
   record and a witness on file, which is the same need approached from underneath
 

@@ -63,6 +63,13 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   located in the heart, where no ritual system can reach it. The pattern closes at 42:8, where God
   sends the three friends to Job with their bulls and rams and accepts his prayer for them. See
   [[Job of Uz]] and [[Sacrifice Before the Priesthood]].
+- **Genesis 9:4** — the theme's premise stated before any of its machinery exists. The one thing
+  withheld from the grant of meat is blood, *"flesh with its life, that is, its blood"*, and the
+  identification of blood with *nepeš* is what Leviticus 17:11 will turn into the logic of atonement:
+  blood is kept off the table because it is reserved for the altar. The prohibition and the
+  sacrificial system are the same doctrine seen from two sides, and the prohibition comes first — to
+  the whole human race, centuries before there is a priesthood. See [[The Covenant with Noah]] and
+  [[The Life Is in the Blood]].
 - **Genesis 15:9–17; 22:1–19** *(not yet ingested)* — the covenant between the pieces; the binding of
   Isaac and *"God will provide himself the lamb"*, the passage the whole theme eventually bends
   toward.
@@ -77,6 +84,9 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[Cain and Abel]] — the first offerings, and the first refusal
 - [[Cain and Abel in the New Testament]] — Hebrews 11:4 on Abel's sacrifice as the first act of
   faith
+- [[The Covenant with Noah]] — 9:4, blood withheld from food because it is the life: the premise the
+  altar runs on
+- [[The Life Is in the Blood]] — the thread from 9:4 through Leviticus 17 to Hebrews 9:22
 - [[The Waters Recede]] — the first altar, the first burnt offering, and the first *pleasant aroma*
 - [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
   and its New Testament application to Christ, to money, and to prayer

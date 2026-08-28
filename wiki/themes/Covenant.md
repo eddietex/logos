@@ -32,7 +32,7 @@ self-curse is the point. *May I be so divided if I break this.*
   below).
 - It is **ratified later**, at 9:8–17, with a sign attached: the rainbow, given not as a reminder to
   Noah but as a reminder to God — *"I will look at it, that I may remember the everlasting covenant"*
-  (9:16).
+  (9:16). See [[The Covenant with Noah]].
 
 **On *establish* rather than *cut*.** The distinction is real and its significance is disputed. One
 line of reading (Dumbrell most prominently) holds that *hēqîm bərît* always means to confirm or
@@ -49,6 +49,17 @@ family, or a nation, but **"every living creature of all flesh that is on the ea
 are party to it. Whatever else the Bible does with covenant afterwards, it begins with one made with
 the whole biosphere and conditioned on nothing.
 
+**On treaty form.** Ancient Near Eastern treaties divide roughly into the *suzerain–vassal* type — a
+great king imposing stipulations on a lesser one, with blessings for compliance and curses for
+breach, the form Deuteronomy is built on — and the *royal grant* type, in which a king rewards a
+servant with an unconditional gift binding on himself and his heirs. The Noahic covenant is closer to
+the second and is more unconditional than any attested grant, because a grant is at least *given
+for* something, and Genesis 8:21 rules out human merit as the ground in the same breath that states
+the promise. Isaiah 24:5 nonetheless says *"they have broken the everlasting covenant"* of the whole
+earth's inhabitants, which is either a different covenant or a prophet pressing the commands of
+Genesis 9:4–6 into the role of stipulations after all. The wiki records the tension rather than
+resolving it.
+
 ## Development across Scripture
 
 - **Genesis 6:18** — the word's first occurrence, announced to Noah before the flood. See
@@ -58,10 +69,20 @@ the whole biosphere and conditioned on nothing.
   he says it *in his heart*, to nobody, and no sign is given. Noah worships without knowing it. The
   gap between 8:21 and 9:9 is the difference between a decision and a covenant: a covenant is a
   promise made *to* someone, in public, with a sign. See [[The Waters Recede]].
-- **Genesis 9:8–17** *(not yet ingested)* — the Noahic covenant established: with Noah, his
-  offspring, and every living creature; unconditional, unilateral, everlasting, and signed with the
-  rainbow. The promise is specifically negative — never again by water — which is the form a promise
-  takes when it is a limit God places on himself.
+- **Genesis 9:8–17** — the Noahic covenant established, and the theme's defining passage. *Bərît*
+  occurs **seven times in nine verses**, more densely than anywhere else in Scripture, and every
+  formal feature of the covenant is visible in them. It is **established** (*hēqîm*) and not **cut**
+  (*kārat*): no animal is divided, nobody passes between anything, no oath is sworn, and no ceremony
+  takes place. It is **unilateral** — the emphatic *waʾănî*, *as for me*, opens it at 9:9, and from
+  there every verb of obligation is God's. It is **unconditional**: there is no *if* in the ten
+  verses, no stipulation, and nothing Noah is asked to agree to, which makes it the one covenant in
+  the Bible that cannot be broken from the human side, because there is nothing on the human side to
+  break. Its content is **negative** — *"There will never again be a flood to destroy the earth"*
+  (9:11) — which is the form a promise takes when it is a limit God places on himself. It is the
+  first *bərît ʿôlām*, **everlasting covenant** (9:16), a formula that will attach to circumcision,
+  the Sabbath, David's throne, and the new covenant. And its **scope is the biosphere**: *every
+  living creature* recurs five times, and God twice calls it a covenant *"between me and the earth"*
+  (9:13) and *"between me and all flesh"* (9:17). See [[The Covenant with Noah]].
 - **Genesis 15:1–21** *(not yet ingested)* — the covenant between the pieces. Abram sleeps while a
   smoking furnace and a flaming torch pass between the halves alone: God takes the self-curse and
   Abram takes none of it. The land promise is sworn here.
@@ -77,6 +98,10 @@ the whole biosphere and conditioned on nothing.
   seriously disputed.
 - **2 Samuel 7:8–17; Psalm 89** — the covenant with David: a dynasty promised unconditionally, which
   Psalm 89 then holds up against a ruined throne and demands an accounting for.
+- **Isaiah 54:9–10** — *"this is like the waters of Noah to me; for as I have sworn that the waters
+  of Noah will no more go over the earth, so have I sworn that I will not be angry with you"*: the
+  Noahic oath cited as collateral for the covenant of peace, and the clearest evidence in the
+  prophets of how Genesis 9 was used.
 - **Jeremiah 31:31–34** — *"a new covenant … not according to the covenant that I made with their
   fathers"*, written on hearts rather than tablets. The Old Testament's own statement that the Sinai
   arrangement is not final.
@@ -99,6 +124,10 @@ the whole biosphere and conditioned on nothing.
   death and before the water comes
 - [[The Waters Recede]] — the promise resolved on in God's heart, one chapter before it becomes a
   covenant anyone is told about
+- [[The Covenant with Noah]] — *bərît* seven times: established rather than cut, unilateral,
+  unconditional, everlasting, universal, and signed with a bow in the cloud
+- [[The Bow in the Cloud]] — the sign, and the only covenant sign in Scripture that the human party
+  does not carry
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
 
@@ -113,6 +142,8 @@ the whole biosphere and conditioned on nothing.
 - [[Sacrifice and Offering]] — how covenants are cut, and what 8:20 does at the flood's end
 - [[Curse]] — the sanction built into every covenant form, and the self-curse the ceremony enacts
 - [[Creation]] — the Noahic covenant's scope, which is every living creature rather than a people
+- [[Image of God]] — what 9:6 grounds its one substantive command in
+- [[Remembrance]] — what the sign is for: *"I will look at it, that I may remember"*
 - [[Walking with God]] — the relational language covenant formalizes
 
 ## Related people

@@ -12,6 +12,8 @@ tags: [connection]
   your hand."* — [[Cain and Abel]]
 - **Job 16:18** — *"Earth, don't cover my blood. Let my cry have no place to rest."* —
   [[Miserable Comforters and the Witness in Heaven]]
+- **Genesis 9:4–6** — blood withheld from food because it is the life, and human blood *required* —
+  [[The Covenant with Noah]]
 - **Leviticus 17:13** — the blood of hunted game to be poured out and *covered with dust*
 - **Deuteronomy 21:1–9** — the rite for a body found in open country, so that innocent blood is not
   left on the land
@@ -61,6 +63,11 @@ Isaiah 26:21 then generalizes the whole thing eschatologically: a day when the e
 comes back up. It is the same picture Revelation 6:9–10 gives from the other end, with the souls of
 the martyrs under the altar asking *how long* — Abel's question, still unanswered, at the end of the
 canon.
+
+The Levitical rule Job is arguing with rests on a prior claim, made to the whole human race after
+the flood: blood is the *life* and does not belong to whoever spills it (Genesis 9:4). That is why
+covering it is a settlement rather than a courtesy, and why refusing the covering is a refusal to
+let the case close. See [[The Life Is in the Blood]].
 
 ## Significance
 

@@ -91,6 +91,8 @@ finding is that in Genesis the provision follows the sentence and never cancels 
 - [[The Waters Recede]] — grace widened from one man to the whole race, and explicitly grounded on
   humanity's incorrigibility: *"because the imagination of man's heart is evil from his youth"*
   (8:21)
+- [[The Covenant with Noah]] — the same grace put in writing: a covenant with no condition attached
+  to it at all, given to the race 8:21 has just described
 
 ## Related themes
 

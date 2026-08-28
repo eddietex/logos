@@ -93,8 +93,19 @@ rule are the conditions the rest of Scripture is set in.
   Noah"* (see [[Remembrance]] and [[The Waters Recede]]), and it ends with the first time God binds
   his own future conduct in Scripture: *"I will never again strike every living thing, as I have
   done."*
-- **Genesis 9:1–17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the covenant and its sign, the promise never to repeat it, Babel, and Sodom, each with God "going down to
-  see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
+- **Genesis 9:1–17** — the limit made public, and the provision spelled out. 8:21 was a resolve
+  spoken in God's heart to nobody; 9:11 is the same content undertaken *to* someone, with witnesses
+  and a sign — *"There will never again be a flood to destroy the earth."* The Genesis pattern holds
+  to the end of the flood: sentence carried out, provision follows, and here the provision is a whole
+  set of terms — a blessing, a diet, a law, and a guarantee. Two new things. God **binds his own
+  future conduct in a covenant**, and installs a sign whose stated purpose is his own remembering
+  (9:16). And he **delegates the judicial function** for the first time: *"I will surely require your
+  life's blood"* (9:5) is followed by an execution placed in human hands (9:6), which is what a
+  world without a flood in reserve requires. Note also what is not promised. The undertaking is
+  specifically *never again by water* — 2 Peter 3:5–7 reads it exactly that closely — so the theme is
+  limited in method rather than retired. See [[The Covenant with Noah]].
+- **Genesis 11:1–9; 18:16–19:29** *(not yet ingested)* — Babel and Sodom, each with God "going down
+  to see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
   putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
   doing this again, so the same fact grounds both the flood and the promise against it.
@@ -118,6 +129,8 @@ rule are the conditions the rest of Scripture is set in.
   verb and the ark specified in the same speech as the destruction
 - [[The Waters Recede]] — the sentence lifted on a memory, and God limiting his own future conduct
   for the first time
+- [[The Covenant with Noah]] — the limit made public and signed, and the judicial function handed to
+  human beings for the first time
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

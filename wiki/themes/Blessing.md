@@ -53,7 +53,16 @@ costly.
   until the animals leave the ship at 8:17 and the men receive it again at 9:1, on dry ground —
   which makes the blessing one of the things the flood suspends and the new world restarts. See
   [[Noah and the Flood]].
-- To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
+- **Genesis 9:1–7** — the blessing restored to humanity, and restored with subtractions. *"Be
+  fruitful, multiply, and replenish the earth"* is 1:28's first three verbs word for word; *subdue*
+  (*kābaš*) and *have dominion* (*rādâ*) are simply absent, and this is the only place in Scripture
+  where 1:28 is repeated and they are dropped. What stands in their place is *"the fear of you and
+  the dread of you"* (9:2), with the creatures *"delivered into your hand"* — the idiom used of a
+  defeated enemy handed over. The blessing is reissued in full and the commission attached to it is
+  not. Note too what the reissue is bracketed by: 9:7 closes the unit by repeating the command with
+  *šāraṣ*, *increase abundantly*, the swarming verb used of sea creatures at 1:20–21 and of the
+  animals at 8:17, and used of human beings only here. See [[The Covenant with Noah]].
+- To trace as ingestion reaches them: the
   narrowing of blessing to one family and its widening back out to *"all the families of the
   earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
   the covenant blessings-and-curses of Deuteronomy 28.
@@ -68,6 +77,8 @@ costly.
   the far side of the water
 - [[The Waters Recede]] — the far side of the water: *"be fruitful, and multiply on the earth"*
   (8:17), restored to the animals first, with humanity's turn held back until 9:1
+- [[The Covenant with Noah]] — humanity's turn, at 9:1: the fertility verbs back in full and the
+  dominion of 1:28 gone
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
@@ -79,6 +90,7 @@ costly.
 - [[Creation]]
 - [[Image of God]]
 - [[Sabbath]]
+- [[Covenant]] — what carries the blessing forward on the far side of the flood
 - [[Curse]] — the counter-word
 - [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]

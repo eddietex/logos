@@ -62,6 +62,15 @@ Genesis 1 sets four load-bearing claims:
   of Genesis 1:2. Then 8:1–2 starts again with the same words in the forward order: a *rûaḥ* passes
   over the waters, the fountains close, and dry land appears. Genesis is telling the story of the
   world being made twice. See [[Noah and the Flood]] and [[The Flood as Un-Creation]].
+- **Genesis 9:1–7** — the charter reissued, and amended. Genesis 1:26–30 is quoted clause by clause
+  and altered clause by clause: the fertility verbs of 1:28 return word for word, *subdue* and *have
+  dominion* are dropped, the creatures are put in *"fear and dread"* and *"delivered into your hand"*
+  (9:2), the vegetarian grant of 1:29 is enlarged to *"every moving thing that lives"* (9:3), and a
+  homicide statute is added, which a world that did not expect homicide would not need. The image of
+  1:27 is the one thing retained unchanged, and it is what the new statute is grounded in (9:6).
+  Everything retained is retained exactly; everything altered is altered downward. The second world
+  runs on the first world's charter, and Genesis 8:21 gives the reason for the amendments in advance.
+  See [[The Covenant with Noah]].
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -75,6 +84,8 @@ Genesis 1 sets four load-bearing claims:
   creatures of days five and six
 - [[The Waters Recede]] — the re-creation itself: the *rûaḥ* over the waters as in 1:2, the deep
   closed, dry land back, and the creatures released under the blessing of 1:22
+- [[The Covenant with Noah]] — the creation mandate reissued with subtractions, and the covenant
+  whose scope is *"every living creature"* rather than a people
 - [[The Flood as Un-Creation]] — the correspondences traced verse by verse, and the re-creation that
   answers them
 - [[The Dove and the Spirit]] — the hovering of 1:2 and the bird over the water in Genesis 8, and
@@ -90,6 +101,7 @@ Genesis 1 sets four load-bearing claims:
 - [[Work]]
 - [[Life and Death]]
 - [[Judgment]] — which in Genesis takes the form of creation reversed
+- [[Covenant]] — made, on the far side of the flood, with the creation and not only with people
 
 ## Related people
 

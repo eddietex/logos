@@ -124,6 +124,24 @@ promise not to *"again curse the ground any more for man's sake"* is the answer 
 [[Lamech (father of Noah)]] pinned on this son's name in 5:29, arriving in the generation he hoped
 for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming Noah]].
 
+### Blessed, legislated for, covenanted with — and still silent (Genesis 9:1–17)
+
+[[The Covenant with Noah]] gives him more than any other scene in his story and asks nothing of him.
+He is blessed (9:1), handed the creatures in fear and dread (9:2), given every living thing to eat
+(9:3), placed under the Bible's first food law (9:4) and its first homicide statute (9:5–6), made a
+covenant party (9:9), and shown a sign (9:13). He is addressed by name three times — 9:1, 9:8, 9:17
+— and he does not open his mouth.
+
+**Nothing is asked of him.** That is the difference between this scene and every previous one. From
+6:14 to 8:16 he was given instructions and twice summarized as having done *"all that God commanded
+him"*; here there is no command to obey, no ark to build, no ship to enter or leave. The covenant of
+9:9–17 has no human obligation attached to it at all — the only covenant in Scripture of which that
+is true — so the man who is defined in Genesis by doing what he is told is, at the climax of his
+story, given nothing to do. He receives a world.
+
+Two things this settles about him. He never answers God, in any scene, in any chapter. And his
+silence ends eight verses later, in a tent, and what breaks it is a curse (9:25).
+
 ## Timeline / key events
 
 - Born to Lamech in Lamech's one hundred eighty-second year, and named for the relief of the curse
@@ -139,8 +157,10 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - Remembered by God at the flood's midpoint; sends out the raven and the dove; disembarks on
   Ararat's mountains a year and ten days after the water came; builds the Bible's first altar
   unbidden, and God resolves never again to curse the ground — [[The Waters Recede]]
-- Receives the covenant and the rainbow; plants a vineyard; speaks for the first time, to curse
-  Canaan; dies at 950 — Genesis 9 *(not yet ingested)*
+- Blessed with his sons, given the creatures as food, put under the blood prohibition and the law of
+  Genesis 9:6, and made the covenant party God gives the rainbow to — [[The Covenant with Noah]]
+- Plants a vineyard; speaks for the first time, to curse Canaan; dies at 950 — Genesis 9:18–29
+  *(not yet ingested)*
 
 ## Appears in
 
@@ -150,10 +170,17 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[Noah and the Flood]] — the whole unit is about him, and he does not speak in it
 - [[The Waters Recede]] — the birds, the disembarking, and the first altar in Scripture; still not
   a word
+- [[The Covenant with Noah]] — blessed, legislated for, covenanted with, and given a sign; still not
+  a word
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
   runs on to Job 1:5
+- [[The Bow in the Cloud]] — the sign given to him, and the one covenant sign in Scripture that the
+  human party does not carry
+- [[The Life Is in the Blood]] — the prohibition of 9:4, the one food law addressed to the whole
+  human race
+- [[Whoever Sheds Man's Blood]] — the statute of 9:5–6, and the arc from Cain's protection to it
 
 ## Related people
 
@@ -189,3 +216,4 @@ for it, and arriving partial — see [[Comfort from the Cursed Ground - Naming N
 - [[Remembrance]]
 - [[Sacrifice and Offering]]
 - [[Creation]]
+- [[Image of God]]

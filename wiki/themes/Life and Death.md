@@ -96,6 +96,14 @@ the rest of the canon.
   dust is named here as the thing that stops. And note the exception clause, *"Only Noah was left"*
   (7:23), whose verb *šāʾar* is the root of the prophets' **remnant** — the idea enters the Bible in
   a sentence about eight survivors. See [[Noah and the Flood]].
+- **Genesis 9:3–6** — life relocated into blood, and human life given a guard. Meat is permitted
+  (9:3) and blood withheld (9:4) on a stated premise — *bāśār bənapšô dāmô*, *flesh with its life,
+  its blood* — which takes the *nepeš* of 2:7 and predicates it of an animal, identifying it with
+  what runs out when the animal dies. Leviticus 17:11 will make that the logic of atonement. Then the
+  same noun turns to human blood: *"I will surely require your life's blood"* (9:5), the one death
+  God undertakes to investigate personally, with the taking of it made capital because the victim
+  bears the image (9:6). Between them the two rules say that a life is not the property of whoever
+  ends it. See [[The Covenant with Noah]] and [[The Life Is in the Blood]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -115,6 +123,8 @@ the rest of the canon.
   breath of 2:7 named as what is taken back
 - [[The Waters Recede]] — the sentence reversed: *"breed abundantly… be fruitful, and multiply"*
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
+- [[The Covenant with Noah]] — blood as the seat of *nepeš* (9:4), and the first statute protecting a
+  human life (9:5–6)
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
   widened from persons to all flesh
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is
