@@ -1221,3 +1221,86 @@ been run into one sentence and is now quoted as two; Exodus 24:7 had been given 
 has said will we do"* and now reads *"All that Yahweh has spoken will we do, and be obedient"*; and
 2 Peter 3:7 had *"the heavens that now exist"* for WEB's *"the heavens that now are"*. Acts 15:20 and
 Psalm 7:12 were corrected the same way on the new connection pages.
+
+## [2026-08-29] ingest | Genesis 9.18-29 — Noah's Sons and the Curse of Canaan
+
+Unattended run (`/ingest auto`, no target). `wiki/books/index.md` had Genesis and Job both
+`in-progress`; Genesis is earlier in canonical order and so wins per the skill's step 1, and its
+first unchecked box was *Noah's Sons and the Curse of Canaan — Genesis 9:18–29*. `raw/bible/Genesis.md`
+was already present, so no fetch. Step 2's discussion is written into the passage page rather than
+spoken.
+
+**Created**
+
+- `wiki/passages/Genesis/Noah's Sons and the Curse of Canaan.md` — the pericope in four movements:
+  the superscription that names the three sons and points at Genesis 10 (18–19), the vineyard and the
+  exposure (20–23), the oracle (24–27), and the Genesis 5 obituary that finally closes Noah's entry
+  (28–29).
+- `wiki/people/Canaan (son of Ham).md` — see the naming decision below.
+- `wiki/themes/Nakedness and Covering.md` — *ʿārôm* against *ʿerwâ*, the pattern of exposure and a
+  covering supplied by someone else, from 2:25 through Leviticus 18 and Ezekiel 16:8 to Revelation
+  3:18.
+- `wiki/connections/Naked and Ashamed - Genesis 3 and Genesis 9.md` (parallel) — the five shared
+  beats, in a table, and what changes: in Genesis 3 God forbids, discovers, covers, and curses; in
+  Genesis 9 people do all four and the result is worse.
+- `wiki/connections/The Curse of Canaan and the Conquest.md` (thread) — the etiological reading, and
+  the finding that runs against the assumption: **no biblical writer ever cites 9:25**. Leviticus
+  18:24–30 and Deuteronomy 9:4–5 ground the dispossession in conduct, and Joshua 9's servitude is the
+  price of a fraudulent treaty.
+- `wiki/connections/The Vine and the Cup.md` (thread) — wine as gladness, stupor, wrath, and
+  covenant, all four latent in the first vineyard.
+
+**Revised**
+
+`wiki/books/Genesis.md` (box checked and linked; Canaan and the new theme added to the key lists),
+`wiki/people/Noah.md` (new section on the vineyard, the first words, and the death), `Ham.md` (new
+section on 9:22, and the "curse of Ham" note expanded from four counts to six), `Shem.md` (the
+garment, and the first *bārûk YHWH*), `Japheth.md` (the pun and the three readings of *"dwell in the
+tents of Shem"*), `God.md` (a section on his absence), `wiki/themes/` Curse, Blessing, Sin,
+Righteousness, Work, City and Civilization, Life and Death, Judgment, Covenant,
+`wiki/connections/Comfort from the Cursed Ground - Naming Noah.md` (its 9:20–21 line was the last
+*(not yet ingested)* marker pointing here), `wiki/passages/Genesis/The Covenant with Noah.md` (three
+forward references turned into links), all four category indexes, `wiki/books/index.md` (11 / 58),
+and `wiki/index.md`'s counts (14 passages · 31 people · 7 places · 28 themes · 34 connections).
+
+**Judgment calls made unattended, for review**
+
+1. **`Canaan (son of Ham)`, not `Canaan`.** The land takes the bare name, and it arrives two
+   pericopes from now at 10:19. The schema's usual practice is to let a collision surface and then
+   rename both pages, but this collision is certain and imminent, and the precedent for a
+   person/place clash already exists in `Enoch (son of Cain)` / `Enoch (city)`. Qualifying now avoids
+   a rename and an inbound-link sweep later. `scripts/link-check.sh` resolves by basename and would
+   never have reported the clash.
+2. **Three new connection pages from one pericope**, which is more than any previous ingest. The
+   pericope carries three genuinely separable threads — the Genesis 3 parallel, the conquest
+   material, and wine across the canon — and folding any of them into the passage page would have
+   buried it.
+3. **The reception history stays in prose, not on a page of its own.** The "curse of Ham" and its use
+   to justify slavery is set out in six numbered counts in the passage page's notes, in summary on
+   `Ham.md`, and against the conquest texts on the new connection page. It is not a parallel, a
+   harmony, or a prophecy/fulfilment pair, so it does not fit the connection type, and inventing a
+   page type would need a schema change first (per the growth trigger in `CLAUDE.md`). If the user
+   wants reception history as its own type, that is the moment to add it.
+4. **Three readings of Ham's offence recorded without adjudication** (the plain sense; the Leviticus
+   18 sexual idiom; *Sanhedrin* 70a's castration and sodomy), and four proposals for why the curse
+   lands on Canaan. The passage page states the objections to each and picks none.
+5. **No pericope boundaries redrawn.** 9:18–29 divided exactly as the plan assumed, and the remaining
+   Genesis boxes are untouched.
+
+**Deliberately left for later pericopes**, all written as plain-text references so nothing dangles:
+Genesis 10 (the Table of Nations, Canaan's eleven descendants and the border of the land), Genesis
+11:1–9 (Babel, whose scattering 9:19's verb already names), Genesis 11:10–26 (the line to Abram, whose
+numbers this ingest used arithmetically), Genesis 12:1–3, 15:16, 19:30–38 (Lot, the second
+drunkenness), and the patriarchal blessings of 27, 48, and 49.
+
+**Checks.** `scripts/link-check.sh` clean, exit 0, against the documented baseline of 64
+not-yet-started book pages — one wrapped link was caught on `Canaan (son of Ham)` and fixed before
+the clean run. The twenty-three verse quotations block-quoted on the passage page (twelve in the
+body, eleven in *Key verses*) were reassembled from the page and compared character for character
+against `raw/bible/Genesis.md`; all twenty-three match verbatim. Inline quotations from elsewhere in
+Genesis were checked the same way and four were corrected rather than left approximate: Genesis 2:25
+had been given as *"They were both naked, the man and his wife, and were not ashamed"* and now reads
+WEB's *"The man and his wife were both naked, and they were not ashamed"*; Genesis 10:19's border was
+being quoted with invented punctuation and now carries the raw file's em-dashes; Genesis 12:3 was
+quoted as a lowercase fragment and is now given whole. And a claim that 9:19's *nāpṣâ* is *"the same
+root"* as Babel's *pûṣ* was weakened to *by-form*, which is what the evidence supports.

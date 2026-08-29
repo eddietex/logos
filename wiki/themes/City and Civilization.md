@@ -52,6 +52,13 @@ rather than achieved.
   submission to a sentence to wander. See [[Enoch (city)]].
 - **Genesis 4:20–22** — herding, music, and metalwork founded in three verses, all by Lamech's
   children, with no evaluation attached.
+- **Genesis 9:20** — the register of founded crafts resumes on the far side of the flood, and adds
+  viticulture: *"Noah began to be a farmer, and planted a vineyard."* The first entry not attributed to
+  Cain's line, and the pattern is unchanged — Genesis names the origin of a craft and shows its cost in
+  the same paragraph, exactly as 4:22's forging of bronze and iron is followed two verses later by the
+  Song of the Sword. The book has now derived herding, music, metalwork, the city, and wine, and has
+  passed a verdict on none of them. See [[Noah's Sons and the Curse of Canaan]] and
+  [[The Vine and the Cup]].
 - **Genesis 6:11–13; 11:1–9** *(not yet ingested)* — the earth filled with violence, and then a
   city and a tower built to make a name and prevent a scattering, which is scattered.
 - Strands to trace as ingestion reaches them: the Table of Nations and the founding of Nineveh and
@@ -65,6 +72,8 @@ rather than achieved.
 ## Key passages
 
 - [[The Line of Cain and the Birth of Seth]] — the first city and the three founders of human craft
+- [[Noah's Sons and the Curse of Canaan]] — the first vineyard, and the register of crafts resumed
+  after the flood
 
 ## Related themes
 

@@ -14,16 +14,28 @@ exception.
 
 He does one thing in Genesis, at 9:23, and he does it jointly with [[Shem]]: the two of them take a
 garment, lay it on their shoulders, walk backwards into their father's tent, and cover him without
-looking. It is the only recorded action of his life, and it is an act of deliberate not-seeing.
+looking. It is the only recorded action of his life, and it is an act of deliberate not-seeing —
+Genesis reports it in four separate clauses, against the two verbs it gives [[Ham]]. The two brothers
+are one grammatical subject for all six of the verse's verbs; nothing distinguishes them, and neither
+speaks. See [[Noah's Sons and the Curse of Canaan]].
 
 **The blessing he receives is a pun.** *"May God enlarge Japheth. Let him dwell in the tents of
-Shem"* (9:27). The verb is *yapt*, from *pātâ* — *make wide, make room for* — against the name
-*yepet*, which is close enough in sound to be unmissable and is not its etymology. What *"dwell in
-the tents of Shem"* means has been read three ways: as territorial expansion at Shem's expense, as
-hospitality received from Shem, or — the reading that dominated Christian interpretation from
-Justin Martyr onward — as Gentile inclusion in the blessing that runs through Shem's line, which is
-effectively Ephesians 2 read back into Genesis 9. The Hebrew's subject is ambiguous enough to permit
-all three, since *"let him dwell"* need not have Japheth as its subject at all.
+Shem"* (9:27) — *yapt ʾĕlōhîm ləyepet*. The verb is *pātâ* in the hiphil, *make wide, make room for*,
+against the name *yepet*, which is close enough in sound to be unmissable and is not its etymology.
+Genesis does this constantly (compare *nōaḥ* and *yenaḥămēnû* at 5:29).
+
+What *"dwell in the tents of Shem"* means has been read three ways, because the Hebrew does not say
+who *him* is: as **territorial expansion** at Shem's expense, which is the natural sense of a blessing
+of enlargement and a slightly threatening one; as **hospitality received**, with Shem the host and the
+tent his; or with the subject carried over from the preceding clause, so that **God** dwells in the
+tents of Shem — which would make the verse a promise of presence to Shem's line rather than anything
+to Japheth at all. The reading that dominated Christian interpretation from Justin Martyr onward takes
+the first or second and adds a typology: Gentile inclusion in the blessing that runs through Shem's
+line, which is effectively Ephesians 2 read back into Genesis 9. It is a legitimate typology and it is
+not what the verse says.
+
+**He gets ʾĕlōhîm, and Shem gets Yahweh.** Noah uses the covenant name in the blessing over Shem
+(9:26) and the general name here, one verse later, and the text does not comment.
 
 His descendants at Genesis 10:2–5 — Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras — map onto the
 peoples north and west of Israel: Media, Ionia (Javan is the standard Hebrew word for Greece),
@@ -49,7 +61,7 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 - Addressed by God with his father and brothers, blessed, and made a party to the covenant with all
   flesh — [[The Covenant with Noah]]
 - Covers his father with Shem, walking in backwards; receives the blessing *"May God enlarge
-  Japheth"* — Genesis 9:18–29 *(not yet ingested)*
+  Japheth"* — [[Noah's Sons and the Curse of Canaan]]
 - Ancestor of Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras, and of *"the islands of the
   nations"* — Genesis 10:2–5 *(not yet ingested)*
 
@@ -61,12 +73,16 @@ the son the narrative follows first and the most distant last. The wiki leaves i
   8:18)
 - [[The Covenant with Noah]] — one of *"Noah and his sons"* (9:1, 9:8): addressed by God for the first
   time, and a covenant party, with no act and no word still
+- [[Noah's Sons and the Curse of Canaan]] — the one act of his life, and a blessing that is a pun on
+  his name
 
 ## Related people
 
 - [[Noah]] — his father, whom he covers without looking
 - [[Shem]] — his brother, with whom he acts, and in whose tents he is told to dwell
 - [[Ham]] — his brother, whose report he and Shem decline to act on as Ham did
+- [[Canaan (son of Ham)]] — his nephew, consigned to him as a servant in the same breath as his own
+  blessing
 - **His wife** — one of the eight in the ark, unnamed in Scripture
 
 ## Themes associated
@@ -74,3 +90,4 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 - [[Blessing]]
 - [[Covenant]]
 - [[Judgment]]
+- [[Nakedness and Covering]]

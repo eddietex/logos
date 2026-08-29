@@ -61,6 +61,17 @@ costly.
   city handed to an army. Blessing survives the flood; the peaceable form of dominion does not.
   The unit closes by repeating the blessing at 9:7, so that a diet, a blood prohibition, and a law
   about killing sit *inside* the command to fill the earth. See [[The Covenant with Noah]].
+- **Genesis 9:26–27** — and then people start doing it. *"Blessed be Yahweh, the God of Shem"* is the
+  **first blessing in Scripture spoken by a human being**, and its object is God rather than a person:
+  it is the first *bārûk YHWH*, the formula that runs on to Genesis 14:20, 24:27, Exodus 18:10, and
+  1 Samuel 25:32. What Shem receives comes to him obliquely, in the genitive of a doxology — no land,
+  no fruitfulness, no promise of his own, just the God, in the only place in the primeval history where
+  God is named after a person. Japheth's blessing one verse later is a pun (*yapt* against *yepet*)
+  and uses *ʾĕlōhîm* where Shem's used *Yahweh*. Both are threaded through a curse repeated three
+  times, so that the same three verses introduce human blessing and human cursing together. The
+  patriarchal blessings of Genesis 27, 48, and 49 — irrevocable, spoken by a father, dividing sons —
+  are this scene's descendants, and the first of them is also spoken by a man who cannot see clearly.
+  See [[Noah's Sons and the Curse of Canaan]].
 - To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
   out to *"all the families of the earth"* (12:1–3), the patriarchal blessings that drive the Jacob
   narrative (27, 48, 49), and the covenant blessings-and-curses of Deuteronomy 28.
@@ -77,6 +88,8 @@ costly.
   (8:17), restored to the animals first, with humanity's turn held back until 9:1
 - [[The Covenant with Noah]] — humanity's turn, at 9:1 and again at 9:7, with *subdue* and *have
   dominion* silently dropped and *fear and dread* put in their place
+- [[Noah's Sons and the Curse of Canaan]] — 9:26, the first blessing spoken by a human being, and the
+  first *"Blessed be Yahweh"* in Scripture
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
@@ -98,4 +111,6 @@ costly.
 
 - [[God]]
 - [[Adam]]
-- [[Noah]]
+- [[Noah]] — the first human being to bless, and to curse
+- [[Shem]]
+- [[Japheth]]

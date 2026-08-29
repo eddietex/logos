@@ -50,7 +50,7 @@ merge, or reorder them freely.
 - [x] [[Noah and the Flood]] — Genesis 6:9–7:24
 - [x] [[The Waters Recede]] — Genesis 8:1–22
 - [x] [[The Covenant with Noah]] — Genesis 9:1–17
-- [ ] Noah's Sons and the Curse of Canaan — Genesis 9:18–29
+- [x] [[Noah's Sons and the Curse of Canaan]] — Genesis 9:18–29
 - [ ] The Table of Nations — Genesis 10:1–32
 - [ ] The Tower of Babel — Genesis 11:1–9
 - [ ] From Shem to Abram — Genesis 11:10–32
@@ -126,6 +126,7 @@ merge, or reorder them freely.
 - [[Clean and Unclean]]
 - [[Remembrance]]
 - [[Blood]]
+- [[Nakedness and Covering]]
 
 ## Key people
 
@@ -142,6 +143,7 @@ merge, or reorder them freely.
 - [[Shem]]
 - [[Ham]]
 - [[Japheth]]
+- [[Canaan (son of Ham)]]
 
 ## Key places
 

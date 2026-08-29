@@ -150,6 +150,41 @@ of the wine, and pronounce the first words attributed to him in the Bible — a 
 (9:25). Between the blessing of 9:1 and the curse of 9:25 there are twenty-four verses. Genesis 9 is
 not one movement.
 
+### The vineyard, the first words, and the death — Genesis 9:18–29
+
+[[Noah's Sons and the Curse of Canaan]] gives him everything the flood account withheld — a voice, a
+failure, and a total — and gives them in that order.
+
+**He becomes a man of the ground.** *Wayyāḥel nōaḥ ʾîš hāʾădāmâ* (9:20): Noah began, *a man of the
+ʾădāmâ*. It is the noun that has carried the curse since 3:17 and the noun his father used in naming
+him (5:29), and the only other person Genesis has put on the soil is [[Cain]], *"a tiller of the
+ground"* (4:2). He plants the Bible's first vineyard, drinks, and is *"uncovered within his tent"* —
+where the Hebrew verb is reflexive, and the narrator assigns the exposure to no one else. The comfort
+his father hoped for from the cursed ground arrives as a crop, and the crop puts him on the floor of
+his own tent. See [[Comfort from the Cursed Ground - Naming Noah]] and [[The Vine and the Cup]].
+
+**Genesis passes no verdict on him for it.** There is no adverb, no divine reaction, and no reference
+to it anywhere else in Scripture: the New Testament praises him four times (Hebrews 11:7, 1 Peter
+3:20, 2 Peter 2:5, and Jesus at Matthew 24:37–39) and never mentions the vineyard. Nothing withdraws
+the *ṣaddîq* of 6:9 or God's own *"I have seen your righteousness"* of 7:1. The book simply reports
+both and reconciles neither, which is what it does with [[Adam]], with Lamech, and with almost
+everyone in the primeval history.
+
+**His first recorded words are a curse.** *"Canaan is cursed. He will be a servant of servants to his
+brothers"* (9:25). He has been silent since he was named in 5:29 — through the commission, the ark,
+the year on the water, the birds, the altar, and the longest divine speech in Genesis. He speaks at
+last, freshly awake from wine, and what comes out is the first curse in Scripture pronounced by a
+human being, aimed at a grandson who was not in the tent. He then speaks the first human **blessing**
+in Scripture two verses later, and its object is God rather than a man: *"Blessed be Yahweh, the God
+of Shem"* (9:26). One man's three sentences introduce both of the words the rest of the Bible runs
+on, and neither of them is answered or ratified by God, who does not appear in the scene at all.
+
+**And the register finally closes.** *"All the days of Noah were nine hundred fifty years, and then he
+died"* (9:29) is Genesis 5's formula, word for word, finishing the entry that chapter left open at
+5:32. He is the last man in Scripture to live past nine hundred, and by the numbers of Genesis
+11:10–26 he is alive for the first fifty-eight years of Abram's life — a fact Genesis supplies, never
+remarks on, and never uses.
+
 ## Timeline / key events
 
 - Born to Lamech in Lamech's one hundred eighty-second year, and named for the relief of the curse
@@ -168,8 +203,9 @@ not one movement.
 - Blessed with his sons, permitted meat and forbidden blood, given the law of 9:6, and made the first
   party to a ratified covenant, with the bow in the cloud as its sign; says nothing —
   [[The Covenant with Noah]]
-- Plants a vineyard; speaks for the first time in Scripture, to curse Canaan; dies at 950 — Genesis
-  9:18–29 *(not yet ingested)*
+- Becomes a man of the ground and plants the first vineyard; is uncovered in his tent; wakes and
+  speaks for the first time in Scripture, to curse Canaan and to bless Shem's God; dies at 950, and
+  Genesis 5's register closes on him — [[Noah's Sons and the Curse of Canaan]]
 
 ## Appears in
 
@@ -181,6 +217,8 @@ not one movement.
   a word
 - [[The Covenant with Noah]] — blessed, legislated to, covenanted with, and shown a sign; and the
   longest speech ever addressed to him gets no reply
+- [[Noah's Sons and the Curse of Canaan]] — the vineyard, the drunkenness, the first words he speaks
+  in the Bible, and the death that closes the register of Genesis 5
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
@@ -197,8 +235,10 @@ not one movement.
 - [[God]] — who takes Enoch in Genesis 5, offers him the Bible's first covenant at 6:18, and shuts
   the door of the ark himself at 7:16
 - [[Shem]], [[Ham]], and [[Japheth]] — his sons, named at 5:32, 6:10, and 7:13, carried through the
-  flood with him, and addressed alongside him for the first time at 9:1 and 9:8; each of them still
-  without an act or a word of his own until Genesis 9:18–29
+  flood with him, and addressed alongside him for the first time at 9:1 and 9:8; each of them acts
+  for the first and only time at 9:22–23, and he divides them by oracle three verses later
+- [[Canaan (son of Ham)]] — his grandson, cursed in the first words he speaks in Scripture, for an
+  act attributed to the boy's father
 - **His wife, and his sons' wives** — four of the eight in the ark, counted in every boarding list
   and unnamed anywhere in Scripture
 - [[Job (person)]] — introduced by the same move Noah is, a verdict of blamelessness delivered
@@ -223,3 +263,6 @@ not one movement.
 - [[Blood]]
 - [[Image of God]]
 - [[Creation]]
+- [[Nakedness and Covering]]
+- [[Work]]
+- [[Sin]]

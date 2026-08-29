@@ -44,8 +44,18 @@ drunk the blood). WEB's *"because of the ground"* takes a third route. All three
 the curse's instrument.
 
 Cursing also travels onward: 5:29 names Noah in hope of relief *"because of the ground which
-Yahweh has cursed"*, and 9:25 has Noah himself pronouncing one. Blessing and curse are then set side by
-side as the two possible outcomes of covenant, most fully in Deuteronomy 27–28.
+Yahweh has cursed"*, and at 9:25 **the word passes into human hands**. Blessing and curse are then set
+side by side as the two possible outcomes of covenant, most fully in Deuteronomy 27–28.
+
+**That handover is the theme's decisive event, and it happens in twelve verses at the end of Genesis
+9.** Every *ʾārûr* to that point has been God's, spoken to the party at fault, for a stated cause. At
+9:25 a man says it — *"Canaan is cursed"* — freshly awake from wine, over a grandson who is not in the
+room, for an act attributed to that grandson's father, with no divine ratification anywhere in the
+text and no later biblical writer ever citing it. Three of the four features that made the earlier
+curses judicial are gone at once: the speaker is not the judge, the target is not the offender, and
+the cause is not stated against the person sentenced. What remains is the fourth — that a curse takes
+effect because of who says it — and Genesis lets it stand. See
+[[Noah's Sons and the Curse of Canaan]].
 
 The theme closes where it opened. Galatians 3:13 has Christ *"becoming a curse for us"* by hanging
 on a tree, and Revelation 22:3 says of the restored city: *"there will be no curse any more"* — in
@@ -70,8 +80,17 @@ the same verses that put the tree of life back in reach (see
   living thing, as I have done"*) ties the undertaking to the flood. So: no second flood, and no
   further curse laid on the ground on humanity's account. The curse of 3:17 itself stays in force,
   and Paul is still describing its effects in Romans 8:20–22. See [[The Waters Recede]].
-- **Genesis 9:25; 12:3** *(not yet ingested)* — Noah's curse on Canaan, and the Abrahamic promise
-  that pairs blessing and curse as the response to how the nations treat one family.
+- **Genesis 9:25** — *"Canaan is cursed. He will be a servant of servants to his brothers."* The
+  first curse in Scripture pronounced by a human being, and the first pronounced on someone other than
+  the offender. God does not appear in the pericope; the curse is repeated three times in three verses
+  and is the only element common to all three lines of Noah's oracle; and the man who speaks it has
+  just been drunk. It is also the first curse Genesis presents as **inherited by design** rather than
+  by consequence — Cain's fell on Cain, and Genesis declined at 4:17–24 to say whether it carried past
+  him, whereas 9:25 names a descendant from the outset. No later biblical writer cites it. See
+  [[Noah's Sons and the Curse of Canaan]] and [[The Curse of Canaan and the Conquest]].
+- **Genesis 12:3** *(not yet ingested)* — the Abrahamic promise that pairs blessing and curse as the
+  response to how the nations treat one family, and the first time since 9:25 that the two words are
+  used together.
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
   22–24); the covenant curses of Deuteronomy 27–28 and the ceremony at Ebal and Gerizim (Joshua
   8:30–35); Jeremiah 17:5–8, the cursed and blessed man side by side; Malachi 4:6, the last word
@@ -90,6 +109,8 @@ the same verses that put the tree of life back in reach (see
 - [[The Waters Recede]] — 8:21, the promise not to curse the ground again, in 3:17's own words and
   with a weaker verb
 - [[Comfort from the Cursed Ground - Naming Noah]] — 5:29 against 3:17, 8:21, and 9:20
+- [[Noah's Sons and the Curse of Canaan]] — 9:25, where the word passes from God's mouth to a man's
+- [[The Curse of Canaan and the Conquest]] — what the canon does and does not do with that curse
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 
 ## Related themes
@@ -98,6 +119,7 @@ the same verses that put the tree of life back in reach (see
 - [[Sin]] — its cause here
 - [[Judgment]] — the scene it is pronounced in
 - [[Work]] — the ground cursed means toil, not the end of the commission
+- [[Nakedness and Covering]] — what both of Genesis's exposure scenes end in
 
 ## Related people
 
@@ -105,3 +127,5 @@ the same verses that put the tree of life back in reach (see
 - [[The Serpent]]
 - [[Adam]]
 - [[Cain]]
+- [[Noah]] — the first human being to pronounce one
+- [[Canaan (son of Ham)]] — the first person cursed for someone else's act

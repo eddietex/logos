@@ -219,8 +219,9 @@ strange thing to do in a world one expects to behave. The rule about bloodshed a
 about the flood are two halves of the same realism. Humanity will kill; God will not.
 
 That realism is confirmed eight verses later. The man who has just been blessed plants a vineyard,
-gets drunk, and curses his own grandson — see Genesis 9:18–29, the next pericope, where the first
-words Noah ever speaks in Scripture undo a good deal of the mood of this one.
+gets drunk, and curses his own grandson — see
+[[Noah's Sons and the Curse of Canaan]], where the first words Noah ever speaks in Scripture undo a
+good deal of the mood of this one.
 
 ## Key verses
 
@@ -340,7 +341,7 @@ all flesh, and the earth needs no map. Geography returns at Genesis 10.
   prohibition and the sacrificial system rest on the same sentence.
 - [[Curse]] — absent, which is worth recording. This is the first substantial divine speech in
   Genesis since chapter 1 that contains no curse, and the next human speech in the book (9:25) is
-  one.
+  one — see [[Noah's Sons and the Curse of Canaan]].
 
 ## Cross-references
 
@@ -363,8 +364,9 @@ all flesh, and the earth needs no map. Geography returns at Genesis 10.
   to all humanity, the rabbinic seven, and the four abstentions of Acts 15.
 - [[Blood]] — the theme this pericope opens.
 - [[Covenant]] — the Noahic covenant's place in the canon's covenant structure.
-- Genesis 9:18–29 *(not yet ingested)* — the vineyard, the drunkenness, and Noah's first recorded
-  words, which are a curse. The immediate complication of everything promised here.
+- [[Noah's Sons and the Curse of Canaan]] — Genesis 9:18–29: the vineyard, the drunkenness, and
+  Noah's first recorded words, which are a curse. The immediate complication of everything promised
+  here.
 - Genesis 17:1–14 — circumcision as an *ʾôt* and a *bərît ʿôlām*, with a stipulation attached and a
   sign the human party carries.
 - Exodus 12:13 — *"The blood shall be to you for a token… when I see the blood, I will pass over

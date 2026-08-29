@@ -280,6 +280,28 @@ And the man he says all of this to does not answer. Noah is blessed, fed, legisl
 with, and given a sign, and he has not spoken since 6:9. Whatever the covenant rests on, it is not his
 consent.
 
+### He is absent, and spoken about — Genesis 9:18–29
+
+[[Noah's Sons and the Curse of Canaan]] is the first pericope since Genesis 4:17–24 in which he does
+not appear at all. He does not speak, act, appear, question, or approve across twelve verses that
+contain a drunkenness, an offence, and a sentence. His last recorded word in Genesis is *"This is the
+token of the covenant"* (9:17), and his next is *"Now Yahweh said to Abram"* at 12:1.
+
+What happens in the gap is that human beings start using his words. Every curse in Genesis so far has
+been his (3:14, 3:17, 4:11) and every blessing has been his (1:22, 1:28, 2:3, 9:1); at 9:25 a man
+pronounces the first human curse in Scripture and at 9:26 the first human blessing, and the text
+supplies no ratification for either. He is *spoken about* twice, in both names — *"Blessed be Yahweh,
+the God of Shem"* and *"May God enlarge Japheth"* — and 9:26 is the only place in the primeval history
+where he is identified by a person's name, the form the patriarchal formula takes from Abraham
+onward.
+
+Whether Noah's curse carries his authority is a question the passage declines to answer and the rest
+of Scripture never revisits: no later writer cites 9:25, and when the Torah addresses the same subject
+it argues from what the Canaanites did rather than from what Noah said. See
+[[The Curse of Canaan and the Conquest]]. The pattern of 4:17–24 repeats — he withdraws, and the
+narrative goes on without him, and what it produces in his absence is worse than what it produced in
+his presence.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -364,6 +386,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Waters Recede]] — the sentence lifted: remembering, sending the wind, commanding the exit,
   smelling the offering, and binding his own future conduct
 - [[The Covenant with Noah]] — the resolve made public: blessing, legislating, delegating, covenanting
+- [[Noah's Sons and the Curse of Canaan]] — by his absence: he neither speaks nor acts, and is spoken
+  about for the first time in a human blessing
   with all flesh, and giving a sign he keeps himself
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to

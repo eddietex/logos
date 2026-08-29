@@ -103,6 +103,14 @@ has been argued.
   opposite conclusion: because the human heart is evil from youth, God will *not* strike the earth
   again. The fact does not change; what is done about it does — which is also the Bible's first
   statement that a judgment did not fix what it was sent against. See [[The Waters Recede]].
+- **Genesis 9:20–25** — 8:21's verdict demonstrated on the best man alive, eight verses after it is
+  used as a reason for mercy. And demonstrated without a word of comment: Genesis does not call the
+  drunkenness a sin, does not call Ham's seeing a sin, and gives no divine reaction to either. The
+  moral machinery has changed shape. In Genesis 3 and 4 an offence is followed by God arriving,
+  questioning, and sentencing; here nobody arrives, and what supplies the sentence instead is an
+  offended human being pronouncing a curse on a third party. The narrator's silence is his standing
+  practice — he keeps it over Lamech's boast at 4:23–24 too — but it is worth naming, because a reader
+  looking for the passage's verdict will not find one. See [[Noah's Sons and the Curse of Canaan]].
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
   4–5, 16); *"Behold, I was born in iniquity"* (Psalm 51:5); the prophets on sin as covenant
   breach rather than ritual failure; Romans 3:23, 5:12–21, 7; James 1:14–15 on desire conceiving
@@ -120,6 +128,8 @@ has been argued.
   imagination of the heart, every one of them, continually, only evil
 - [[The Waters Recede]] — the same diagnosis restated by God after the flood, as the reason for
   mercy rather than for judgment
+- [[Noah's Sons and the Curse of Canaan]] — that diagnosis borne out eight verses later, reported
+  without a verdict and with God absent from the scene
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 - [[Eliphaz's Second Speech]] — Job 15:14–16, the friends' anthropology at full strength (*"What is
   man, that he should be clean?"*), and the wiki's standing case of a largely true doctrine used as

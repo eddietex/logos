@@ -111,6 +111,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   covenant anyone is told about
 - [[The Covenant with Noah]] — the theme's decisive passage: *bərît* seven times in ten verses, the
   first *bərît ʿôlām*, and a sign the human party is not even told to look at
+- [[Noah's Sons and the Curse of Canaan]] — the contrast that closes the chapter: twelve verses after
+  a covenant made with *"every living creature"* on no conditions at all, a man divides his own three
+  sons into a blessed line, an enlarged line, and a slave line. Genesis 9 holds the widest covenant in
+  Scripture and the first partition of humanity, in that order
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
   Revelation
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made

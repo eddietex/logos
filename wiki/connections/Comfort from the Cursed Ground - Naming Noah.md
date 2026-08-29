@@ -13,7 +13,8 @@ tags: [connection]
   the toil of our hands, caused by the ground which Yahweh has cursed'"* — [[From Adam to Noah]]
 - **Genesis 8:20–22** — *"I will not again curse the ground any more for man's sake"* —
   [[The Waters Recede]]
-- **Genesis 9:20–21** *(not yet ingested)* — *"Noah began to be a farmer, and planted a vineyard"*
+- **Genesis 9:20–25** — *"Noah began to be a farmer, and planted a vineyard"*, and what the vineyard
+  produced — [[Noah's Sons and the Curse of Canaan]]
 - **Psalm 104:15** — wine *"that makes glad the heart of man"*
 
 ## Analysis
@@ -53,7 +54,8 @@ man under Genesis 3:17 would want.
    standard figure for relief from labour — *"wine that makes glad the heart of man"* (Psalm
    104:15). The comfort Lamech hoped for arrives as a crop. Then the same paragraph has Noah drunk
    and naked in his tent, and ends in a curse — on Canaan (9:25), the only curse pronounced by a
-   human being so far in the Bible. The man named for the end of cursing pronounces one.
+   human being so far in the Bible. The man named for the end of cursing pronounces one. See
+   [[Noah's Sons and the Curse of Canaan]].
 3. **No, or not yet.** Whatever relief the flood brings, the ground is still worked in sweat for the
    rest of the canon, and the release Lamech is asking for is finally located, in Christian reading,
    somewhere else entirely: *"the creation was subjected to vanity… in hope"* (Romans 8:20–21), and

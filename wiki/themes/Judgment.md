@@ -102,6 +102,14 @@ rule are the conditions the rest of Scripture is set in.
   *by man*. Judgment in the ordinary case now runs through human hands, and the Torah spends four
   chapters building the safeguards Genesis omits. See [[The Covenant with Noah]] and
   [[Whoever Sheds Man's Blood]].
+- **Genesis 9:25** — and then the delegation goes further than 9:6 delegated it, twenty verses later
+  and without authorization. 9:6 handed human hands a rule with a stated offence, a stated penalty, and
+  a stated ground (*"for God made man in his own image"*). At 9:25 a man passes sentence on his own
+  authority: no offence is stated against the person sentenced, no penalty scale is invoked, God does
+  not speak or appear anywhere in the pericope, and no later biblical writer ever cites the verdict.
+  The judgment template of Genesis 3 and 4 — God comes, questions, sentences, provides — is not
+  withheld here as it was at 4:17–24; it is **replaced**, by a human being doing all four badly. See
+  [[Noah's Sons and the Curse of Canaan]].
 - **Genesis 11:1–9; 18:16–19:29** *(not yet ingested)* — Babel and Sodom, each with God "going down to
   see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
   putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
@@ -129,6 +137,8 @@ rule are the conditions the rest of Scripture is set in.
   for the first time
 - [[The Covenant with Noah]] — the limit made binding and given a sign, and the requiring of blood
   handed to human hands
+- [[Noah's Sons and the Curse of Canaan]] — a man passing sentence with God absent from the scene:
+  the template not withheld but replaced
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

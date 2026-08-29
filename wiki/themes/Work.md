@@ -49,6 +49,15 @@ the seventh day a blessing. See [[Sabbath]].
   **specialized** trades — the first that are named as institutions rather than as what one man
   happens to do, and the first that are inherited. Genesis attaches no evaluation to any of them,
   and places all of them in the cursed line. See [[City and Civilization]].
+- **Genesis 9:20** — the first trade named after the flood, and the register's next entry:
+  *"Noah began to be a farmer, and planted a vineyard."* The Hebrew is *ʾîš hāʾădāmâ*, **man of the
+  ground** — the same noun that has carried the curse since 3:17, that [[Cain]] worked at 4:2, and that
+  Lamech named this son for relief from at 5:29. Two things follow. Viticulture joins the list of
+  founded crafts, and it is the first entry that does not belong to Cain's line. And the pattern of
+  4:17–24 repeats exactly: Genesis names the origin of a good thing and shows its cost in the same
+  breath, this time eleven Hebrew words later. The relief Lamech hoped for from the *ʾădāmâ* arrives as
+  a crop, and the crop lays the man out in his tent. See [[Noah's Sons and the Curse of Canaan]] and
+  [[The Vine and the Cup]].
 - Strands to trace as ingestion reaches them: the sabbath and jubilee legislation that limits
   work and protects workers (Exodus 20:9–10, Leviticus 25); the craftsmen of the tabernacle filled
   with the Spirit for their skill (Exodus 31:1–11); Ecclesiastes on the vanity and the gift of
@@ -66,6 +75,8 @@ the seventh day a blessing. See [[Sabbath]].
   time a livelihood is taken away
 - [[The Line of Cain and the Birth of Seth]] — the first city, and the founding of herding, music,
   and metalwork in three verses
+- [[Noah's Sons and the Curse of Canaan]] — *"a man of the ground"*: the first trade after the flood,
+  worked in the same cursed soil, and the first vineyard
 
 ## Related themes
 

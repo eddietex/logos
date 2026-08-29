@@ -103,6 +103,14 @@ the rest of the canon.
   takes it, animals included (9:5); and the world itself will not be killed again (9:11). Two of the
   four are concessions to a violence the text expects, and 8:21 has already said why it expects it.
   See [[The Covenant with Noah]] and [[Blood]].
+- **Genesis 9:29** — *"All the days of Noah were nine hundred fifty years, and then he died."* Genesis
+  5's formula, word for word, closing the entry that chapter left open at 5:32 — the tenth and last
+  time the antediluvian obituary is used. It is also the end of an era in the numbers. Noah is the last
+  man in Scripture to live past nine hundred; the register in Genesis 11 keeps the ages and drops the
+  death clause entirely, and the lifespans in it fall by half and then by half again until they reach
+  Psalm 90's seventy. The flood narrative turns out to have been told inside a single genealogical
+  entry, between a man's age at fatherhood and his age at death. See
+  [[Noah's Sons and the Curse of Canaan]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -124,6 +132,8 @@ the rest of the canon.
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
 - [[The Covenant with Noah]] — which deaths are now permitted and which are required back: meat
   allowed, blood withheld, homicide answerable, and the world guaranteed against a second drowning
+- [[Noah's Sons and the Curse of Canaan]] — 9:29, the last *"and then he died"* of Genesis 5's
+  formula, and the register finally closed on its tenth man
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
   widened from persons to all flesh
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is

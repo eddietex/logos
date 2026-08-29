@@ -45,6 +45,12 @@ about.
 
 - **Genesis 6:9; 7:1** — *ṣaddîq*'s first appearance, of Noah, declared before any act and repeated
   by God. See [[Noah and the Flood]].
+- **Genesis 9:20–25** — and the same man drunk and uncovered in his tent, three chapters later. This
+  is the theme's first hard case, and Genesis does nothing to soften it: the *ṣaddîq* of 6:9 and the
+  man God vindicated in his own voice at 7:1 is the man on the floor, and the narrator neither
+  withdraws the verdict nor excuses the vineyard. Whatever *ṣaddîq* means at 6:9, it evidently does
+  not mean *incapable of this*. The New Testament, which praises Noah four times, never mentions the
+  episode. See [[Noah's Sons and the Curse of Canaan]].
 - **Genesis 15:6** *(not yet ingested)* — Abram's faith *credited* to him as righteousness: the verse
   Romans 4 and Galatians 3 both argue the gospel from.
 - **Genesis 18:23–25** *(not yet ingested)* — Abraham's *"Will you consume the righteous with the
@@ -80,6 +86,8 @@ about.
 
 - [[Noah and the Flood]] — *ṣaddîq*'s first occurrence in Scripture, declared of a man before he is
   shown doing anything, and restated by God at 7:1
+- [[Noah's Sons and the Curse of Canaan]] — the same man in the tent: the verdict of 6:9 left standing
+  beside a scene it does not fit, with no attempt to reconcile them
 - [[Job of Uz]] — Job 1:1's *tām wə-yāšār*, blameless and upright, declared of a man before he is
   shown doing anything; the same narrative move as Genesis 6:9, and the premise the entire book
   runs on
