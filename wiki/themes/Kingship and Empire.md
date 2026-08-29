@@ -44,8 +44,12 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 
 - **Genesis 10:8–12** — the first *kingdom*, the first ruler, and eight cities; no evaluation. See
   [[The Table of Nations]].
-- **Genesis 11:1–9** *(not yet ingested)* — the first collective political project, and what happens
-  to it.
+- **Genesis 11:1–9** — the first collective political project, and what happens to it. The passage
+  uses no political vocabulary at all — no king, no kingdom, no ruler, nobody named — but *"one
+  people… one language"* pursuing one work on one site is what an empire is for, and it is set in the
+  capital 10:10 has already assigned to the first kingdom. The prophets read it that way: Isaiah
+  14:13–14 and Daniel 4:30 put Genesis 11:4's ambition into the mouth of Babylon's king. See
+  [[The Tower of Babel]] and [[Babel and Babylon the Great]].
 - **Genesis 14:1–24** *(not yet ingested)* — nine kings at war, and Melchizedek, the first king in
   Scripture who is also a priest.
 - **Genesis 17:6, 16; 35:11; 49:10** — kings promised out of Abraham, Sarah, Jacob, and Judah.
@@ -71,6 +75,8 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 
 - [[The Table of Nations]] — Genesis 10:8–12: the first kingdom in Scripture, and the two capitals of
   the exile founded in the same breath
+- [[The Tower of Babel]] — Genesis 11:1–9: the first collective project, in the first kingdom's
+  capital, with no ruler in it
 
 ## Related themes
 
@@ -79,6 +85,9 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 - [[Judgment]] — what the prophets do with those empires
 - [[Curse]] — 9:25, the only ordering of one people under another before 10:10
 - [[Work]] — labour organized, and then compelled
+- [[Pride and Self-Exaltation]] — the boast the prophets put in every emperor's mouth
+- [[Language and Speech]] — *"one people, and… one language"*, which is what makes the project
+  possible
 
 ## Related people
 

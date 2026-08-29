@@ -52,7 +52,7 @@ merge, or reorder them freely.
 - [x] [[The Covenant with Noah]] — Genesis 9:1–17
 - [x] [[Noah's Sons and the Curse of Canaan]] — Genesis 9:18–29
 - [x] [[The Table of Nations]] — Genesis 10:1–32
-- [ ] The Tower of Babel — Genesis 11:1–9
+- [x] [[The Tower of Babel]] — Genesis 11:1–9
 - [ ] From Shem to Abram — Genesis 11:10–32
 
 ### Abraham (12–25:18)
@@ -129,6 +129,8 @@ merge, or reorder them freely.
 - [[Nakedness and Covering]]
 - [[The Nations]]
 - [[Kingship and Empire]]
+- [[Pride and Self-Exaltation]]
+- [[Language and Speech]]
 
 ## Key people
 

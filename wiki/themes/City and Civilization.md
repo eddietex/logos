@@ -66,8 +66,14 @@ rather than achieved.
   no verdict; it names the origin and moves on to the next name in the list. This is where
   civilization stops being a set of crafts and becomes a polity — see [[Kingship and Empire]] and
   [[The Table of Nations]].
-- **Genesis 6:11–13; 11:1–9** *(not yet ingested)* — the earth filled with violence, and then a
-  city and a tower built to make a name and prevent a scattering, which is scattered.
+- **Genesis 11:1–9** — the second city in Scripture and the first collective one: brick and bitumen
+  because the plain has no stone, a tower with its head in the heavens, and a stated purpose — a name,
+  and no scattering. God comes down, confuses the language, and *"They stopped building the city."*
+  The pattern holds exactly: the manufacturing process is explained approvingly, the ambition is
+  quoted, and no verdict on building as such is entered anywhere in the nine verses. What Genesis
+  stops is not the city but what the city was for. See [[The Tower of Babel]] and
+  [[Pride and Self-Exaltation]]. Babylon's whole later career as *the* city against God begins here;
+  see [[Babel and Babylon the Great]].
 - Strands to trace as ingestion reaches them: Sodom (Genesis 18–19); the cities of refuge as civilization
   domesticating blood vengeance (Numbers 35); Jerusalem as the chosen city (2 Samuel 5, Psalms
   46, 48, 122); Babylon as the archetype of the city against God (Isaiah 13, Jeremiah 50–51,
@@ -81,6 +87,8 @@ rather than achieved.
 - [[Noah's Sons and the Curse of Canaan]] — the first vineyard, and the register of crafts resumed
   after the flood
 - [[The Table of Nations]] — eight cities in five verses, and the first kingdom
+- [[The Tower of Babel]] — the first city built by everybody, and the only one in Scripture whose
+  construction God stops
 
 ## Related themes
 
@@ -91,6 +99,8 @@ rather than achieved.
 - [[Vengeance]] — what the culture of Genesis 4 produces alongside its crafts
 - [[Sin]] — running in the background of the whole passage, never named in it
 - [[Creation]] — the making that human making imitates
+- [[Pride and Self-Exaltation]] — what Babel's builders wanted the city for
+- [[Language and Speech]] — what makes collective building possible, and what God adjusts to stop it
 
 ## Related people
 

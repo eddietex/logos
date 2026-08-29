@@ -23,7 +23,8 @@ chapter says that something happened.
 **What was divided.** *ʾEreṣ* is the earth or the land, and by metonymy its population, which is how
 Genesis uses it at 11:1 (*"the whole earth was of one language"*). Three readings have been given:
 
-- **Babel.** The dispersal of Genesis 11:1–9 is the only division of humanity Genesis narrates, and
+- **Babel.** The dispersal of [[The Tower of Babel]] is the only division of humanity Genesis
+  narrates, and
   Peleg is fifth from Noah, which puts his generation squarely inside the Table's span. This is the
   standard reading and the one the chapter's placement invites. Against it, the verb is *pālag*, not
   the *pûṣ* of 11:4 and 11:8 or the *nāpaṣ* of 9:19, so it is an allusion rather than a
@@ -66,6 +67,9 @@ the same with Cain against Seth, Ishmael against Isaac, and Esau against Jacob.
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:25, the chapter's one etymology and its one hint of a cause
+- [[The Tower of Babel]] — not by name, but as the event his name is usually taken to date: the
+  division of the earth Genesis 11:1–9 narrates falls inside his generation on the Table's own
+  reckoning
 
 ## Related people
 

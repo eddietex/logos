@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Genesis 10:1–32** — seventy peoples, divided *"everyone after his language, after their families,
   in their nations"* (10:5, 20, 31). See [[The Table of Nations]].
-- **Genesis 11:1–9** *(not yet ingested)* — one language, one plain, one tower; the languages confused
-  and the builders scattered.
+- **Genesis 11:1–9** — one language, one plain, one tower; the languages confused and the builders
+  scattered. See [[The Tower of Babel]].
 - **Acts 2:5–11** — *"devout men, from every nation under the sky"*, each hearing the disciples
   *"speaking in our languages the mighty works of God"*, with a list of fifteen peoples and regions.
 - **Revelation 5:9; 7:9; 14:6** — *"every tribe, language, people, and nation"*.

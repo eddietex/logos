@@ -34,6 +34,8 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:10, the site of the first kingdom in Scripture
+- [[The Tower of Babel]] — Genesis 11:2, the plain the builders settle on; the whole pericope happens
+  here, and the *biqʿâ*, the broad valley, is the one landscape with no height in it
 
 ## Related places
 
@@ -45,6 +47,7 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
 
 - Nimrod founds the first kingdom in Scripture at Babel, Erech, Accad, and Calneh — Genesis 10:10,
   [[The Table of Nations]]
-- The city and the tower are built, and the languages confused — Genesis 11:1–9 *(not yet ingested)*
+- The city and the tower are built, the languages confused, and the builders scattered — Genesis
+  11:1–9, [[The Tower of Babel]]
 - Amraphel king of Shinar joins the coalition Abram defeats — Genesis 14:1, 9 *(not yet ingested)*
 </content>

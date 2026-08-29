@@ -302,6 +302,42 @@ it argues from what the Canaanites did rather than from what Noah said. See
 narrative goes on without him, and what it produces in his absence is worse than what it produced in
 his presence.
 
+### He comes down, and speaks in the plural — Genesis 11:1–9
+
+[[The Tower of Babel]] ends his longest silence in Genesis. He has not spoken since *"This is the
+token of the covenant"* (9:17) — through the curse of Canaan, through the whole of the Table of
+Nations, through two and a half pericopes — and he returns not with a word but with a movement:
+*"Yahweh came down to see the city and the tower, which the children of men built"* (11:5).
+
+**The descent is the point.** The tower's head was in the heavens and he has to come down to look at
+it. *Wayyēred* is the same real motion he makes to Sodom (18:21), to Sinai (Exodus 19:20), and to the
+tent (Numbers 11:25); Genesis nowhere suggests he needed the trip, and stages one anyway. It is the
+book's driest comment on the scale of human achievement, and it is made without a word of censure.
+
+**He states a capability, not an offence.** *"Behold, they are one people, and they have all one
+language, and this is what they begin to do. Now nothing will be withheld from them, which they
+intend to do."* There is no *evil* here, no *wickedness*, no *violence* — none of the vocabulary of
+6:5 and 6:11. He observes what unlimited human coordination makes possible and acts on the
+observation. It is the same grammar as 3:22, *"the man has become like one of us"* — a divine
+sentence about a human capacity, broken off, followed by a preventive act rather than a punitive one.
+
+**He speaks in the first person plural for the third and last time**, after 1:26 and 3:22, and here
+the plural is answering one: the builders said *hābâ*, *come*, twice (11:3, 11:4), and he takes their
+word — *"Come, let's go down, and there confuse their language."* Two deliberative councils, human and
+divine, using the same idiom, and the second one wins. See
+[[Let Us Go Down - The Divine Plural in Genesis]].
+
+**What he does not do is as marked as what he does.** He destroys nothing, curses nobody, kills
+nobody, and pronounces no oracle. He adjusts the medium — language — and the work stops of its own
+accord. Set beside the flood two pericopes earlier, it is the lightest sentence in the primeval
+history, and it enforces a command he had already given twice: *"Be fruitful, multiply, and replenish
+the earth"* (9:1, 9:7). Whether the scattering is therefore a judgment, an enforcement, or a mercy is
+a question the passage leaves open, and the wiki leaves it open too.
+
+His next recorded word is *"Now Yahweh said to Abram"* (12:1), and what he says there is that he will
+make a name — the thing the builders had just failed to make for themselves. See
+[[A Name for Ourselves and a Great Name]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -366,6 +402,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Blesses the survivors, permits meat and forbids blood, requires human blood from whoever sheds it on
   the ground that man bears his image, and establishes the covenant of 6:18 with all flesh, hanging his
   bow in the cloud as its sign — [[The Covenant with Noah]]
+- Absent from the Table of Nations; his name occurs once in thirty-two verses, inside a proverb other
+  people quote — [[The Table of Nations]]
+- Comes down to see a city and a tower, says that with one language nothing they intend will be
+  beyond them, speaks in the first person plural for the last time in Genesis, confuses their speech
+  and scatters them — destroying nothing and cursing no one — [[The Tower of Babel]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -393,6 +434,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   verses, at 10:9, inside a proverb other people say about a hunter; the nations divide, spread, and
   settle with no divine reaction recorded. It is the longest stretch in Genesis without him, and it
   ends at 11:5.
+- [[The Tower of Babel]] — the silence broken by a descent rather than a word: he comes down, sees,
+  deliberates in the first person plural, confuses, and scatters, and passes no verdict on anyone
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -447,3 +490,5 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Retribution]]
 - [[Mediation and Advocacy]]
 - [[Remembrance]]
+- [[Language and Speech]]
+- [[Pride and Self-Exaltation]]

@@ -1427,3 +1427,112 @@ it.
 **A pre-existing defect fixed in passing.** `wiki/people/God.md` had a stray orphan line —
 `with all flesh, and giving a sign he keeps himself` — sitting after the `Noah's Sons` bullet in its
 *Appears in* list, where it belonged to the `Covenant with Noah` bullet above. Rejoined.
+
+## [2026-08-29] ingest | Genesis 11.1-9 — The Tower of Babel
+
+Unattended run (`/ingest auto`). Genesis was the first `in-progress` book in `wiki/books/index.md`
+(Job is also in-progress and loses on canonical order, per the skill's step 1) and *The Tower of
+Babel* the first unchecked box on its page. `raw/bible/Genesis.md` was already present, so no fetch.
+Step 2's discussion went into the passage page, as the skill directs.
+
+**The pericope.** Nine verses that end the primeval history, and the only narrative in Genesis with
+no named human being in it. A people travelling from the east settle on a plain in Shinar, invent
+fired brick set in bitumen, and build *"a city, and a tower whose top reaches to the sky"* so as to
+make a name and avoid being scattered. Yahweh comes down to see it, observes that with one language
+*"nothing will be withheld from them"*, says *"Come, let's go down, and there confuse their
+language"*, and scatters them; the work stops and the city is called Babel. The passage is built as a
+mirror folding on 11:5, and it answers its own verse 4 clause by clause: they wanted a name and not to
+be scattered, and they are scattered and the name they get means *confusion*.
+
+**Created**
+
+- `wiki/passages/Genesis/The Tower of Babel.md`
+- `wiki/themes/Pride and Self-Exaltation.md` — the theme Genesis 11:4 founds and never names, run
+  through Isaiah 14, Ezekiel 28, Obadiah, Daniel 4, the Magnificat, Luke 14:11, and Philippians 2.
+- `wiki/themes/Language and Speech.md` — created here rather than with Genesis 10, exactly as the
+  Genesis 10 log entry said it would be (decision 6 of that ingest deferred it on the grounds that
+  *"It belongs with Babel, and the next pericope is Babel"*). That entry called the page `Language`;
+  it is titled `Language and Speech` because the theme turned out to have two halves — language as
+  the medium God adjusts at 11:7, and speech as a moral act, which is where the wisdom books and
+  James 3 pick it up.
+- `wiki/connections/A Name for Ourselves and a Great Name.md` — *šēm* at 6:4, 11:4, and 12:2: the
+  same noun with the subject of the verb changed, and the hinge of the book.
+- `wiki/connections/Let Us Go Down - The Divine Plural in Genesis.md` — 1:26, 3:22, 11:7, with the
+  four standard readings set out and none adopted.
+- `wiki/connections/Babel and Babylon the Great.md` — one Hebrew word from 10:10 to Revelation 18.
+
+**Revised**
+
+- `wiki/books/Genesis.md` — box checked and linked; `Pride and Self-Exaltation` and
+  `Language and Speech` added to *Key themes*.
+- `wiki/books/index.md` — Genesis 13 / 58.
+- `wiki/places/Babel.md` — the founding narrative, the ziggurat *Etemenanki*, and the
+  *nilbənâ ləbēnîm* / *nābəlâ* consonant reversal added; the Genesis 11 *Events here* line resolved
+  from *(not yet ingested)* to a link.
+- `wiki/places/Shinar.md` — the same, plus the *biqʿâ* of 11:2.
+- `wiki/people/God.md` — a new section, *He comes down, and speaks in the plural*, plus the timeline,
+  *Appears in*, and *Themes associated* lists.
+- `wiki/people/Nimrod.md` — an *Appears in* entry recording that he is **not** in this passage, now
+  that the passage can be checked rather than asserted.
+- `wiki/people/Peleg.md` — 10:25's *"in his days the earth was divided"* pointed at the narrated
+  division.
+- `wiki/themes/The Nations.md`, `City and Civilization.md`, `Kingship and Empire.md`, `Blessing.md`,
+  `Judgment.md`, `Work.md`, `Sin.md` — the Genesis 11 line in each resolved from *(not yet ingested)*
+  to a worked entry, and the passage added to *Key passages*.
+- `wiki/passages/Genesis/The Table of Nations.md`, `Noah's Sons and the Curse of Canaan.md`,
+  `wiki/connections/The Table of Nations at Pentecost.md`,
+  `wiki/connections/Nimrod and the Kingdoms of Shinar and Assyria.md` — plain-text *Genesis 11:1–9
+  (not yet ingested)* references converted to links.
+- All four category indexes and `wiki/index.md`'s counts (16 passages · 32 themes · 40 connections).
+
+**Judgment calls made unattended, for review**
+
+1. **No page created for the builders.** The passage's subject is an unnamed collective, and a
+   person page for *"they"* would be a page about a grammatical subject. The point is made on the
+   passage page instead, under *People*, where it belongs — the anonymity is a feature of the text.
+2. **Two new theme pages rather than one.** `Pride and Self-Exaltation` and `Language and Speech`
+   pull apart cleanly (one is about the boast, one about the medium) and each has a canon-length
+   thread. If the user disagrees, `Pride` folds into `Kingship and Empire` and `Language` into
+   `The Nations` with little loss.
+3. **No Babel-and-Pentecost connection page created**, because
+   `The Table of Nations at Pentecost` already covers that ground carefully — including the argument
+   that "Pentecost reverses Babel" is right in one respect and misleading in two. It was updated
+   rather than duplicated.
+4. **The five readings of what was wrong at Babel are held, not ranked.** Pride, refusal to fill the
+   earth, autonomy, coerced imperial uniformity, and a protective limit that is not a punishment at
+   all. Genesis names no sin in these nine verses — no *evil*, no *wickedness*, no *violence* — so
+   the page says which reading has which anchor and observes that readings 1 and 4 pull in opposite
+   political directions while reading 2 is the only one quoting the builders' stated motive.
+5. **The Genesis 10 / Genesis 11 contradiction is not re-argued.** 10:5, 20, 31 have the nations
+   already divided by language and 11:1 has one language; the three standard accounts are already
+   set out in `The Table of Nations`'s notes, and this page cross-references them rather than
+   restating them.
+6. **The passage is titled `The Tower of Babel` even though the page argues the tower is not its
+   subject** — *ʿîr* occurs four times, *migdāl* twice, the abandoned work at 11:8 is the city, and
+   the name at 11:9 is the city's. The conventional title was kept because it is what anyone will
+   search for and link to; the point is made in the notes instead.
+7. **No pericope boundaries redrawn.** 11:1–9 divided as the plan assumed, and the remaining Genesis
+   boxes are untouched.
+
+**Deliberately left for later pericopes**, written as plain-text references so nothing dangles:
+Genesis 11:10–32 (Shem's linear line and Terah's family leaving Ur), 12:1–3 (*"I will… make your
+name great"*, the direct answer to 11:4), 14:1 and 14:9 (Amraphel king of Shinar), and 19:1–29
+(the other city God comes down to look at).
+
+**Checks.** `scripts/link-check.sh` clean, exit 0, against a baseline of 64 not-yet-started book
+pages. All sixteen block-quoted verses on the pages this pass created or touched were reassembled
+programmatically and compared character for character against `raw/bible/Genesis.md`; every one
+matches verbatim. Inline quotations were checked the same way and five were adjusted: Genesis 1:26
+had been given twice as *"Let's make man in our image"* and now reads WEB's *"Let us make man in our
+image, after our likeness"*; a truncated 11:6 on `Language and Speech.md` was completed to *"…which
+they intend to do"*; two fragments capitalized to open a sentence (*"This is what they begin to
+do"*, *"Let's make a name for ourselves"*) were returned to the lowercase of the verse; a paraphrase
+on `The Nations.md` was moved outside its quotation marks; and a gloss of the Hebrew
+*wərōʾšô baššāmayim* that had been punctuated as a WEB quotation is now marked as a gloss.
+
+**The standing caveat, unchanged.** Quotations from books outside Genesis and Job — Deuteronomy,
+Isaiah, Jeremiah, Daniel, Zephaniah, Acts, Philippians, Revelation — cannot be verified against
+`raw/`, which holds only those two books. They are given as WEB and believed accurate but are
+unchecked, and the less certain ones were paraphrased rather than quoted. This pericope's reception
+runs further outside Genesis than any before it, so the caveat is also recorded on the passage page
+itself under *Notes*.

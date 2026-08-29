@@ -41,8 +41,9 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   only command of God in the primeval history that is simply carried out.
 - **Genesis 10:1–32** — the seventy: one ancestry for all of them, organized by families, languages,
   lands, and nations, and never by rank. See [[The Table of Nations]].
-- **Genesis 11:1–9** *(not yet ingested)* — the same dispersal narrated as a judgment on a project to
-  prevent it.
+- **Genesis 11:1–9** — the same dispersal narrated as an event: one people on one plain, building so
+  as to avoid being *"scattered abroad on the surface of the whole earth"*, and scattered anyway. The
+  nations become something God did rather than something that happened. See [[The Tower of Babel]].
 - **Genesis 12:1–3** *(not yet ingested)* — *"All the families of the earth will be blessed through
   you"*: the answer to both chapters, and the hinge of the book.
 - **Deuteronomy 32:8** — the bounds of the peoples set at the division of humanity, *"according to the
@@ -68,6 +69,8 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 
 - [[The Table of Nations]] — the seventy, and the only place Scripture attempts a complete inventory
   of peoples
+- [[The Tower of Babel]] — the dispersal narrated: the one point at which Scripture shows a unified
+  humanity, and it is the point at which God breaks it up
 - [[Noah's Sons and the Curse of Canaan]] — 9:19, *"from these, the whole earth was populated"*: the
   thesis the Table fills in, and the oracle that partitions the three brothers
 - [[The Covenant with Noah]] — a covenant made with *"every living creature"* before any nation is
@@ -82,6 +85,8 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[Curse]] — the one branch of the seventy that carries an oracle against it
 - [[City and Civilization]] — the eight cities the Table founds
 - [[Judgment]] — conspicuously absent from Genesis 10, and immediate in Genesis 11
+- [[Language and Speech]] — the axis the nations are most often sorted by, and the one God adjusts
+- [[Pride and Self-Exaltation]] — what the builders wanted instead of being many
 
 ## Related people
 

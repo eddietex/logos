@@ -130,6 +130,10 @@ has been argued.
   mercy rather than for judgment
 - [[Noah's Sons and the Curse of Canaan]] — that diagnosis borne out eight verses later, reported
   without a verdict and with God absent from the scene
+- [[The Tower of Babel]] — the vocabulary absent altogether: no *sin*, no *evil*, no *wickedness*, no
+  *violence* in nine verses that end in a divine act against a human project. Genesis leaves the
+  reader to supply the category, and the history of interpretation is the history of readers supplying
+  different ones
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 - [[Eliphaz's Second Speech]] — Job 15:14–16, the friends' anthropology at full strength (*"What is
   man, that he should be clean?"*), and the wiki's standing case of a largely true doctrine used as

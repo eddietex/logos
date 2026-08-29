@@ -79,6 +79,12 @@ costly.
   reaction, and seventy peoples to show for it. That the same filling is reframed as a judgment one
   chapter later, when the builders at Babel are scattered for trying to avoid it, is a tension Genesis
   leaves standing. See [[The Table of Nations]] and [[The Nations]].
+- **Genesis 11:4, 8** — the tension named above, now on the page. The builders state their motive and
+  it is a refusal of 9:1: *"let's make a name for ourselves, lest we be scattered abroad on the
+  surface of the whole earth"*, and God does to them exactly what they built to prevent. **This is
+  the only place in Genesis where a blessing is enforced against its recipients' will**, which makes
+  the scattering readable as judgment and as blessing at once — and the passage supplies no word that
+  would settle which. See [[The Tower of Babel]].
 - To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
   out to *"all the families of the earth"* (12:1–3) — which uses the Table's own word for families,
   *mišpəḥōt* — the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the covenant
@@ -100,6 +106,7 @@ costly.
   first *"Blessed be Yahweh"* in Scripture
 - [[The Table of Nations]] — 10:32, the command of 9:1 reported fulfilled: seventy nations, and no
   divine comment on any of them
+- [[The Tower of Babel]] — 11:4 and 11:8, the same command refused and then enforced
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand

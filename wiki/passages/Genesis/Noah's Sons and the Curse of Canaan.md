@@ -349,7 +349,8 @@ two being the same word.
 - [[Nakedness and Covering]] — the theme this pericope opens.
 - [[The Table of Nations]] — Genesis 10:1–32, which 9:18–19 introduces and which gives Canaan eleven
   descendants and a border, without once mentioning the curse.
-- Genesis 11:1–9 *(not yet ingested)* — Babel: the scattering that 9:19's verb already names.
+- [[The Tower of Babel]] — Genesis 11:1–9: the scattering that 9:19's verb already names, and the
+  builders' stated reason for building is to avoid it.
 - Genesis 15:16 — *"the iniquity of the Amorite is not yet full"*: the reason Genesis itself gives for
   the dispossession of Canaan, and it is not Noah's curse.
 - Genesis 19:30–38 — Lot made drunk by his daughters and uncovered in a cave: the second drunkenness

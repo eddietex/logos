@@ -77,6 +77,10 @@ the seventh day a blessing. See [[Sabbath]].
   and metalwork in three verses
 - [[Noah's Sons and the Curse of Canaan]] — *"a man of the ground"*: the first trade after the flood,
   worked in the same cursed soil, and the first vineyard
+- [[The Tower of Babel]] — the only manufacturing process Genesis describes: *"Come, let's make
+  bricks, and burn them thoroughly"*, with an aside explaining the technique to readers who build in
+  stone. Human making at its most competent, and stopped for what it was for rather than for what it
+  was
 
 ## Related themes
 

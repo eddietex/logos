@@ -444,7 +444,7 @@ in the book is somewhere.
 - [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] — Shem, Arpachshad,
   Shelah, Eber, Peleg at 10:21–25 are five consecutive links of Luke's genealogy of Jesus.
 - [[The Nephilim and the Giants of Canaan]] — *gibbōr* at 10:8 against *gibbōrîm* at 6:4.
-- Genesis 11:1–9 *(not yet ingested)* — Babel: the cause this chapter's four verbs of scattering never
+- [[The Tower of Babel]] — Genesis 11:1–9: the cause this chapter's four verbs of scattering never
   give, and the city 10:10 has already founded.
 - Genesis 11:10–26 *(not yet ingested)* — Shem's line again, linear this time, with ages and a
   destination.

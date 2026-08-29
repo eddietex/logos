@@ -110,8 +110,15 @@ rule are the conditions the rest of Scripture is set in.
   The judgment template of Genesis 3 and 4 — God comes, questions, sentences, provides — is not
   withheld here as it was at 4:17–24; it is **replaced**, by a human being doing all four badly. See
   [[Noah's Sons and the Curse of Canaan]].
-- **Genesis 11:1–9; 18:16–19:29** *(not yet ingested)* — Babel and Sodom, each with God "going down to
-  see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
+- **Genesis 11:1–9** — the mildest judgment in the primeval history, and the one that names no
+  offence. God comes down to see, as he did at 3:8–9 and 4:9–10, but there is no interrogation and no
+  sentence: he states a capability (*"nothing will be withheld from them"*), confuses the language,
+  and scatters. Nothing is destroyed, nobody is cursed, nobody dies, and the words *sin*, *evil*, and
+  *wickedness* do not occur. Whether it is retribution, the enforcement of the command of 9:1, or a
+  protective limit of the kind set at 3:22 is genuinely open; see [[The Tower of Babel]], which sets
+  out the readings without choosing.
+- **Genesis 18:16–19:29** *(not yet ingested)* — Sodom, the other city God goes down to see before
+  acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
   putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
   doing this again, so the same fact grounds both the flood and the promise against it.
@@ -139,6 +146,8 @@ rule are the conditions the rest of Scripture is set in.
   handed to human hands
 - [[Noah's Sons and the Curse of Canaan]] — a man passing sentence with God absent from the scene:
   the template not withheld but replaced
+- [[The Tower of Babel]] — the template reduced to its minimum: a descent, an observation, and an
+  act, with no charge, no sentence, and no casualty
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it
@@ -166,6 +175,7 @@ rule are the conditions the rest of Scripture is set in.
   exists to break
 - [[Mediation and Advocacy]] — the offices a defendant needs when the judge is the other party
 - [[Suffering]] — what retribution reads as a verdict already delivered
+- [[Pride and Self-Exaltation]] — the offence the prophets name, and the reversal that answers it
 
 ## Related people
 

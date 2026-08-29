@@ -94,6 +94,10 @@ remembers, and the rebel is an inference from two ambiguous words.**
 ## Appears in
 
 - [[The Table of Nations]] — the chapter's one narrative, five verses long, in the middle of a list
+- [[The Tower of Babel]] — **not in it.** Genesis 11:1–9 names nobody at all, and his name is absent
+  from the passage that tradition has assigned to him for two thousand years. Now that the pericope is
+  ingested, the point can be checked rather than asserted: the builders are *"they"* throughout, and
+  *"the children of men"* once.
 
 ## Related people
 
@@ -109,4 +113,6 @@ remembers, and the rebel is an inference from two ambiguous words.**
 - [[Kingship and Empire]]
 - [[City and Civilization]]
 - [[The Nations]]
+- [[Pride and Self-Exaltation]] — the theme he is the traditional face of, on evidence Genesis does
+  not supply
 </content>

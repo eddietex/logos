@@ -12,8 +12,8 @@ tags: [connection]
 - **Genesis 10:8–12** — Nimrod: *gibbōr*, hunter, and founder of Babel, Erech, Accad, and Calneh in
   Shinar, and — on the WEB's reading of 10:11 — of Nineveh, Rehoboth Ir, Calah, and Resen in Assyria.
   See [[The Table of Nations]].
-- **Genesis 11:1–9** *(not yet ingested)* — the city and tower in Shinar, in which Nimrod is not
-  mentioned.
+- **Genesis 11:1–9** — the city and tower in Shinar, in which Nimrod is not mentioned; the passage
+  names nobody at all. See [[The Tower of Babel]].
 - **1 Chronicles 1:10** — the Chronicler keeps the Nimrod sentence and drops nothing else in the
   chapter but the geography.
 - **Micah 5:6** — *"They will rule the land of Assyria with the sword, and the land of Nimrod in its
