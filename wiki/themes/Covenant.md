@@ -32,7 +32,7 @@ self-curse is the point. *May I be so divided if I break this.*
   below).
 - It is **ratified later**, at 9:8–17, with a sign attached: the rainbow, given not as a reminder to
   Noah but as a reminder to God — *"I will look at it, that I may remember the everlasting covenant"*
-  (9:16).
+  (9:16). See [[The Covenant with Noah]].
 
 **On *establish* rather than *cut*.** The distinction is real and its significance is disputed. One
 line of reading (Dumbrell most prominently) holds that *hēqîm bərît* always means to confirm or
@@ -49,6 +49,14 @@ family, or a nation, but **"every living creature of all flesh that is on the ea
 are party to it. Whatever else the Bible does with covenant afterwards, it begins with one made with
 the whole biosphere and conditioned on nothing.
 
+**The word's density is itself an argument.** *Bərît* occurs seven times in the ten verses of
+9:8–17 — more often than in any comparable span in Genesis — in a narrative otherwise as spare as
+this one is. And the covenant's four defining features are all first here and never assembled this
+way again: universal scope (the animals), no condition on the human party, negative content (an
+undertaking not to do something), and a sign the *superior* party keeps. Circumcision is Abraham's to
+carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to look at. See
+[[The Bow in the Cloud]].
+
 ## Development across Scripture
 
 - **Genesis 6:18** — the word's first occurrence, announced to Noah before the flood. See
@@ -58,10 +66,12 @@ the whole biosphere and conditioned on nothing.
   he says it *in his heart*, to nobody, and no sign is given. Noah worships without knowing it. The
   gap between 8:21 and 9:9 is the difference between a decision and a covenant: a covenant is a
   promise made *to* someone, in public, with a sign. See [[The Waters Recede]].
-- **Genesis 9:8–17** *(not yet ingested)* — the Noahic covenant established: with Noah, his
-  offspring, and every living creature; unconditional, unilateral, everlasting, and signed with the
-  rainbow. The promise is specifically negative — never again by water — which is the form a promise
-  takes when it is a limit God places on himself.
+- **Genesis 9:8–17** — the Noahic covenant established: with Noah, his offspring, and every living
+  creature; unconditional, unilateral, everlasting, and signed with the rainbow. The promise is
+  specifically negative — never again by water — which is the form a promise takes when it is a limit
+  God places on himself. The phrase *bərît ʿôlām*, **everlasting covenant**, occurs here for the first
+  time in Scripture (9:16), and will attach afterwards to Abraham, the Sabbath, David, and the new
+  covenant. See [[The Covenant with Noah]].
 - **Genesis 15:1–21** *(not yet ingested)* — the covenant between the pieces. Abram sleeps while a
   smoking furnace and a flaming torch pass between the halves alone: God takes the self-curse and
   Abram takes none of it. The land promise is sworn here.
@@ -99,6 +109,10 @@ the whole biosphere and conditioned on nothing.
   death and before the water comes
 - [[The Waters Recede]] — the promise resolved on in God's heart, one chapter before it becomes a
   covenant anyone is told about
+- [[The Covenant with Noah]] — the theme's decisive passage: *bərît* seven times in ten verses, the
+  first *bərît ʿôlām*, and a sign the human party is not even told to look at
+- [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
+  Revelation
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
 
@@ -111,6 +125,10 @@ the whole biosphere and conditioned on nothing.
 - [[Righteousness]] — the standing the covenant creates, and which Genesis 15:6 will make the
   condition of entry
 - [[Sacrifice and Offering]] — how covenants are cut, and what 8:20 does at the flood's end
+- [[Blood]] — what every covenant but this one is sealed with, and the two rules Genesis 9 attaches to
+  the one that isn't
+- [[Image of God]] — the ground Genesis 9:6 gives for the only law the Noahic covenant's blessing
+  carries
 - [[Curse]] — the sanction built into every covenant form, and the self-curse the ceremony enacts
 - [[Creation]] — the Noahic covenant's scope, which is every living creature rather than a people
 - [[Walking with God]] — the relational language covenant formalizes

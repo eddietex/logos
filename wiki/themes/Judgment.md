@@ -93,7 +93,16 @@ rule are the conditions the rest of Scripture is set in.
   Noah"* (see [[Remembrance]] and [[The Waters Recede]]), and it ends with the first time God binds
   his own future conduct in Scripture: *"I will never again strike every living thing, as I have
   done."*
-- **Genesis 9:1–17; 11:1–9; 18:16–19:29** *(not yet ingested)* — the covenant and its sign, the promise never to repeat it, Babel, and Sodom, each with God "going down to
+- **Genesis 9:1–17** — the limit made public and given a sign, and two further moves the theme has not
+  made before. **God gives up an instrument.** *"There will never again be a flood to destroy the
+  earth"* (9:11) is not a mood but a covenant, and it removes one option from him permanently. Note
+  what it does not remove: the undertaking is specifically about a *flood*, not about judgment as such,
+  which is exactly how 2 Peter 3:5–7 reads it. And **he delegates.** The requiring of a murdered man's
+  blood was his own act in Genesis 4, done personally and without a rule; 9:6 says the shedding will be
+  *by man*. Judgment in the ordinary case now runs through human hands, and the Torah spends four
+  chapters building the safeguards Genesis omits. See [[The Covenant with Noah]] and
+  [[Whoever Sheds Man's Blood]].
+- **Genesis 11:1–9; 18:16–19:29** *(not yet ingested)* — Babel and Sodom, each with God "going down to
   see" before acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
   putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
@@ -118,6 +127,8 @@ rule are the conditions the rest of Scripture is set in.
   verb and the ark specified in the same speech as the destruction
 - [[The Waters Recede]] — the sentence lifted on a memory, and God limiting his own future conduct
   for the first time
+- [[The Covenant with Noah]] — the limit made binding and given a sign, and the requiring of blood
+  handed to human hands
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

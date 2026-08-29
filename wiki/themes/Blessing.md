@@ -53,10 +53,17 @@ costly.
   until the animals leave the ship at 8:17 and the men receive it again at 9:1, on dry ground —
   which makes the blessing one of the things the flood suspends and the new world restarts. See
   [[Noah and the Flood]].
-- To trace as ingestion reaches them: the blessing renewed to Noah after the flood (9:1), the
-  narrowing of blessing to one family and its widening back out to *"all the families of the
-  earth"* (12:1–3), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and
-  the covenant blessings-and-curses of Deuteronomy 28.
+- **Genesis 9:1–7** — the blessing returned to humanity, and shortened. *"Be fruitful, multiply, and
+  replenish the earth"* (9:1) is 1:28's opening clause word for word; the rest of 1:28 is not reissued.
+  *Subdue* (*kābaš*) and *have dominion* (*rādâ*) do not occur in Genesis 9 at all, and what stands in
+  their place is *"the fear of you and the dread of you"* (9:2) — the phrase used later of the terror
+  that falls on Israel's enemies — with the creatures *"delivered into your hand"*, the formula for a
+  city handed to an army. Blessing survives the flood; the peaceable form of dominion does not.
+  The unit closes by repeating the blessing at 9:7, so that a diet, a blood prohibition, and a law
+  about killing sit *inside* the command to fill the earth. See [[The Covenant with Noah]].
+- To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
+  out to *"all the families of the earth"* (12:1–3), the patriarchal blessings that drive the Jacob
+  narrative (27, 48, 49), and the covenant blessings-and-curses of Deuteronomy 28.
 
 ## Key passages
 
@@ -68,6 +75,8 @@ costly.
   the far side of the water
 - [[The Waters Recede]] — the far side of the water: *"be fruitful, and multiply on the earth"*
   (8:17), restored to the animals first, with humanity's turn held back until 9:1
+- [[The Covenant with Noah]] — humanity's turn, at 9:1 and again at 9:7, with *subdue* and *have
+  dominion* silently dropped and *fear and dread* put in their place
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
@@ -80,6 +89,7 @@ costly.
 - [[Image of God]]
 - [[Sabbath]]
 - [[Curse]] — the counter-word
+- [[Covenant]] — what the blessing of 9:1–7 is attached to, and what asks nothing back
 - [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]
 - [[Life and Death]]

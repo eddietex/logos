@@ -96,6 +96,13 @@ the rest of the canon.
   dust is named here as the thing that stops. And note the exception clause, *"Only Noah was left"*
   (7:23), whose verb *šāʾar* is the root of the prophets' **remnant** — the idea enters the Bible in
   a sentence about eight survivors. See [[Noah and the Flood]].
+- **Genesis 9:1–17** — the terms on which life resumes, and they are terms about killing. Animals may
+  now be killed and eaten (9:3), where 1:29–30 had assigned plants; their blood may not be consumed,
+  *"for flesh with its life, that is, its blood"* (9:4), which makes *nephesh* — the word for the
+  living being the man becomes at 2:7 — the reason; human life is required back by God from whoever
+  takes it, animals included (9:5); and the world itself will not be killed again (9:11). Two of the
+  four are concessions to a violence the text expects, and 8:21 has already said why it expects it.
+  See [[The Covenant with Noah]] and [[Blood]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -115,6 +122,8 @@ the rest of the canon.
   breath of 2:7 named as what is taken back
 - [[The Waters Recede]] — the sentence reversed: *"breed abundantly… be fruitful, and multiply"*
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
+- [[The Covenant with Noah]] — which deaths are now permitted and which are required back: meat
+  allowed, blood withheld, homicide answerable, and the world guaranteed against a second drowning
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
   widened from persons to all flesh
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is
@@ -133,6 +142,7 @@ the rest of the canon.
 - [[Creation]]
 - [[Blessing]]
 - [[Sin]]
+- [[Blood]]
 - [[Curse]]
 - [[Judgment]]
 - [[Hope]]

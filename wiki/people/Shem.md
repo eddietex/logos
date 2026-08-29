@@ -48,6 +48,8 @@ only loosely related to the genealogy that produced it.
   [[Noah and the Flood]]
 - Comes out of the ark with his brothers a year and ten days after going in, named only as
   one of *"his sons"* — [[The Waters Recede]]
+- Addressed by God for the first time, blessed with his father and made a party to the covenant with
+  all flesh — [[The Covenant with Noah]]
 - Covers his father with Japheth, and receives the blessing *"Blessed be Yahweh, the God of Shem"* —
   Genesis 9:18–29 *(not yet ingested)*
 - Ancestor of Elam, Asshur, Arpachshad, Lud, and Aram — Genesis 10:21–31 *(not yet ingested)*
@@ -60,6 +62,9 @@ only loosely related to the genealogy that produced it.
 - [[Noah and the Flood]] — named at 6:10 and 7:13; given no act and no words
 - [[The Waters Recede]] — not named at all; present as one of *"your sons"* in the command to
   disembark (8:16) and one of *"his sons"* in the doing of it (8:18)
+- [[The Covenant with Noah]] — *"Noah and his sons"* (9:1), *"Noah and to his sons with him"* (9:8):
+  addressed directly for the first time, and a covenant party in his own right, though still unnamed
+  and still silent
 
 ## Related people
 

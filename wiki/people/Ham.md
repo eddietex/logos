@@ -48,6 +48,8 @@ only on the passage page because the association attaches to his name.
   [[Noah and the Flood]]
 - Comes out of the ark with his brothers, still named only as one of *"his sons"* — the last
   time he is anonymous — [[The Waters Recede]]
+- Addressed by God with his father and brothers, blessed, and made a party to the covenant with all
+  flesh — [[The Covenant with Noah]]
 - Sees his father's nakedness and tells his brothers; Noah curses Canaan — Genesis 9:18–29 *(not yet
   ingested)*
 - Ancestor of Cush, Mizraim, Put, and Canaan — Genesis 10:6–20 *(not yet ingested)*
@@ -58,6 +60,9 @@ only on the passage page because the association attaches to his name.
 - [[Noah and the Flood]] — named at 6:10 and 7:13; given no act and no words
 - [[The Waters Recede]] — not named; present only as one of *"his sons"* going out of the ship
   (8:16, 8:18)
+- [[The Covenant with Noah]] — one of *"Noah and his sons"* (9:1, 9:8), addressed and blessed and
+  covenanted with on exactly the same terms as his brothers, three verses before the narrator singles
+  him out
 
 ## Related people
 

@@ -1123,3 +1123,101 @@ named Job explicitly.
   will get their treatment when those pericopes are ingested.
 
 Link check clean.
+
+## [2026-08-29] ingest | Genesis 9.1-17 — The Covenant with Noah
+
+Unattended run (`/ingest auto`, no argument). Genesis is the first `in-progress` book in
+`wiki/books/index.md` and `The Covenant with Noah — Genesis 9:1–17` was the first unchecked box on
+its page, so the target resolved with no fork. `raw/bible/Genesis.md` was already present; no fetch
+was needed. The pericope boundary was taken as drawn — 9:1–17 divides cleanly at the seam between the
+blessing-and-law block and the covenant speech, and 9:18 begins a new unit with its own subject
+(*"The sons of Noah who went out from the ship…"*).
+
+**The passage page** (`wiki/passages/Genesis/The Covenant with Noah.md`) carries the discussion that
+an interactive run would have had aloud. It reads the pericope as two halves that are usually taken
+separately and argues they belong together: 9:1–7 reissues the creation mandate with the terms
+altered, and 9:8–17 establishes the covenant of 6:18 in public with a sign. Seventeen verses are
+block-quoted verbatim.
+
+Judgment calls made in the passage page, recorded here so they can be reviewed:
+
+- **The dominion language is treated as a deliberate omission, not an abbreviation.** *Kābaš* and
+  *rādâ* of 1:28 do not occur in Genesis 9 and no synonym replaces them; what stands in their place is
+  *"the fear of you and the dread of you"* (9:2), the pair Deuteronomy 11:25 uses of Israel's enemies,
+  with the creatures *"delivered into your hand"*, the idiom for a city handed to an army. The page
+  states this as a change the text makes silently, and flags the tension it creates for the strict
+  functional reading of the image on `wiki/themes/Image of God.md`: Genesis 9 keeps the image (9:6) in
+  the same speech that drops the vocabulary of ruling.
+- **9:6 is left undecided between law and prediction**, and both readings are set out with what each
+  rests on. The Hebrew has neither imperative nor addressee — a participle plus an imperfect — so the
+  grammar does not settle it; the institutional reading has the Torah's homicide law behind it
+  (Exodus 21:12, Leviticus 24:17, Numbers 35), the predictive reading has Matthew 26:52 and
+  Revelation 13:10. Genesis supplies no court, no procedure, and no penalty scale, which is the point
+  the page makes instead of adjudicating.
+- **The *qešet* is read as a war bow, with the caveat stated.** Hebrew has no separate word for the
+  meteorological arc, so the ambiguity is in the language rather than in the interpretation, and the
+  page says so before drawing anything from it.
+- **The Mesopotamian parallels are given plainly and no borrowing is claimed**, following the practice
+  set on `The Waters Recede`: Anu setting Marduk's bow in heaven (*Enūma Eliš* VI) and Ishtar's
+  necklace-oath after the flood (*Gilgamesh* XI) share the configuration — deity, sky-object, oath,
+  divine remembering — and the differences are named.
+- **Source criticism is noted and used**, because the seam is unusually clean here: 8:20–22 is J
+  (altar, *Yahweh*, God speaking in his heart) and 9:1–17 is P (*ʾĕlōhîm* without exception, covenant,
+  sign, the vocabulary of 1:1–2:3), so the two promises never to flood the earth again sit adjacent
+  under different hands. The page argues the finished text makes the doubling do work — a private
+  resolve nobody hears, then a public covenant with a sign — and that the gap between them is where
+  Noah builds an altar without assurance.
+- **The four women in the ark are recorded as absent from the sentence.** 9:1's *be fruitful and
+  multiply* is addressed to *"Noah and his sons"*, four men, where 1:28 was addressed to male and
+  female. Noted on the passage page rather than passed over.
+
+**New theme: `Blood`.** Created rather than folded into `Life and Death` or `Sacrifice and Offering`,
+because the material is canon-spanning and load-bearing in three directions at once — life-in-the-blood
+(9:4, Leviticus 17:11), blood-guilt (4:10, 9:5–6, Numbers 35:33), and blood as what atones (Leviticus
+17:11, Hebrews 9:22) — and both existing themes would have been swallowed by it. It is the 27th theme
+page.
+
+**Three new connection pages**, each for a thread that needed a table or a canon-length list rather
+than a paragraph on a theme page:
+
+- `The Bow in the Cloud` — *qešet* as a weapon set down, the sign whose seeing is God's rather than the
+  human party's, and the image's afterlife in Ezekiel 1:28 and Revelation 4:3 and 10:1.
+- `Whoever Sheds Man's Blood` — the chiasm of 9:6, the cancelling of Cain's seven and Lamech's
+  seventy-seven by one, the delegation from God's hand to human hands, and the Torah's procedural
+  apparatus that Genesis lacks.
+- `The Noahic Commandments and the Council of Jerusalem` — Genesis 9 as the only law in the Hebrew
+  Bible addressed to all humanity, the rabbinic seven built on it, and the disputed derivation of the
+  four abstentions of Acts 15 (Noah, or Leviticus 17–18). Both cases are given; the page does not pick
+  one.
+
+**Pages revised:** `wiki/books/Genesis.md` (box checked and linked, `Blood` added to key themes);
+`God` (a new section on 9:1–17 — legislating for the first time, delegating, and binding his memory to
+an object; timeline and appears-in); `Noah` (a new section — everything given, nothing said back, and
+the silence that ends badly eight verses later); `Shem`, `Ham`, `Japheth` (addressed by God for the
+first time, and covenant parties in their own right); `Covenant` (the *bərît*-density note, the four
+defining features, the first *bərît ʿôlām*); `Blessing`, `Image of God`, `Life and Death`, `Vengeance`,
+`Judgment`, `Remembrance`, `Creation`, `Clean and Unclean`, `Sacrifice and Offering`; and the
+connection page `The Flood as Un-Creation`, whose forward reference to 9:1–7 now resolves. Category
+indexes and `wiki/index.md`'s counts updated (13 passages, 27 themes, 31 connections).
+
+**No place page.** The pericope has no geography at all — its arena is *hāʾāreṣ*, nine times in
+seventeen verses, and the earth is the covenant's second party at 9:13. `Ararat` at 8:4 remains the
+only named location since Genesis 4.
+
+Deliberately left for later pericopes, all written as plain-text references so nothing dangles:
+Genesis 9:18–29 (the vineyard, Noah's first words, and the curse on Canaan), Genesis 10 (the Table of
+Nations), Genesis 15 and 17 (the covenant between the pieces, circumcision as sign and *bərît ʿôlām*),
+Exodus 12 and 24 (the Passover blood and the blood of the covenant), Leviticus 11 and 17, Numbers 35,
+and the New Testament's uses of 9:4 and 9:6 in Acts 15, Romans 13, Hebrews 9, and Revelation.
+
+`scripts/link-check.sh` clean, exit 0, against the documented baseline of 64 not-yet-started book
+pages. The seventeen verses block-quoted on the passage page were checked mechanically against
+`raw/bible/Genesis.md` — each reassembled from the page's block quotes and compared character for
+character — and every one matches verbatim. Five inline quotations were corrected during that check
+rather than left approximate: Genesis 1:28 had been transcribed with straight quotation marks and now
+carries the raw file's curly ones; Abel's offering at 4:4 had been given as *"the fat of their
+firstlings"* and now reads *"some of the firstborn of his flock and of its fat"*; Leviticus 17:11 had
+been run into one sentence and is now quoted as two; Exodus 24:7 had been given as *"All that Yahweh
+has said will we do"* and now reads *"All that Yahweh has spoken will we do, and be obedient"*; and
+2 Peter 3:7 had *"the heavens that now exist"* for WEB's *"the heavens that now are"*. Acts 15:20 and
+Psalm 7:12 were corrected the same way on the new connection pages.

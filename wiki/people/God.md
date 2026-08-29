@@ -241,6 +241,45 @@ and 7:16.
 One thing he does not do: tell Noah. 8:21 is spoken in his own heart, and the man on the altar is not
 in the conversation. The binding of himself that began at 6:18 is not made public until 9:8–17.
 
+### He legislates, and signs a promise — Genesis 9:1–17
+
+[[The Covenant with Noah]] is the longest uninterrupted divine speech in Genesis so far: he speaks
+in sixteen of seventeen verses and does nothing else in them. It is also the first time he tells
+anybody what he resolved at 8:21.
+
+- **He blesses, and quietly withdraws something.** *"Be fruitful, multiply, and replenish the earth"*
+  (9:1) is Genesis 1:28's opening clause word for word — and the rest of 1:28 does not come back.
+  *Subdue* and *have dominion* are absent from Genesis 9, replaced by *"the fear of you and the dread
+  of you"* (9:2) and by creatures *"delivered into your hand"*. He restores the mandate and downgrades
+  the terms, without a word of explanation. See [[Blessing]] and [[Image of God]].
+- **He legislates for the first time.** Everything before this is a single prohibition to one man in a
+  garden, or an instruction for one task. 9:4 and 9:5–6 are standing rules: do not eat blood, and human
+  blood will be required from whoever sheds it. They are given before Israel exists, to the whole human
+  race, and they are the only law in the Hebrew Bible with that scope. See [[Blood]].
+- **He delegates what had been his own act.** In Genesis 4 he alone required Abel's blood, and he
+  protected the murderer. Here he still says *"I will surely require"* three times (9:5) and then says
+  the shedding will be *by man* (9:6). See [[Whoever Sheds Man's Blood]] and [[Vengeance]].
+- **He gives a reason, and it is the image.** *"For God made man in his own image"* (9:6) is the only
+  place in the Torah where the image of God grounds a command. After a fall, a murder, and a flood, the
+  status of 1:26–27 is still in force and still doing work.
+- **He establishes the covenant, and asks nothing.** The *bərît* of 6:18 is made to stand (9:9–11) —
+  seven occurrences of the word in ten verses — with Noah, his offspring, and *"every living creature
+  of all flesh"*. No stipulation, no oath, no ceremony, no reply. It is the least conditional thing he
+  does in Scripture. See [[Covenant]].
+- **He binds his memory to an object.** *"I set my rainbow in the cloud… I will look at it, that I may
+  remember the everlasting covenant"* (9:13, 16). Every purpose clause has him as its subject: he
+  brings the cloud, he sees the bow, he remembers. The sign is not given to Noah to keep, and Noah is
+  not told to look at it. Set that beside circumcision (17:10–14) and the Sabbath (Exodus 31:13, 17),
+  which the human party keeps. See [[Remembrance]] and [[The Bow in the Cloud]].
+
+He is *ʾĕlōhîm* in every verse of the pericope, without a single *Yahweh* — continuing 8:1–19 and
+breaking cleanly from the altar scene of 8:20–21, which is the seam source criticism reads as J giving
+way to P.
+
+And the man he says all of this to does not answer. Noah is blessed, fed, legislated to, covenanted
+with, and given a sign, and he has not spoken since 6:9. Whatever the covenant rests on, it is not his
+consent.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -302,6 +341,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   earth, and orders everyone out; smells the first sacrifice in Scripture and resolves — in his own
   heart, where no one can hear — never to curse the ground or strike all life again —
   [[The Waters Recede]]
+- Blesses the survivors, permits meat and forbids blood, requires human blood from whoever sheds it on
+  the ground that man bears his image, and establishes the covenant of 6:18 with all flesh, hanging his
+  bow in the cloud as its sign — [[The Covenant with Noah]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -321,6 +363,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   and shutting the door
 - [[The Waters Recede]] — the sentence lifted: remembering, sending the wind, commanding the exit,
   smelling the offering, and binding his own future conduct
+- [[The Covenant with Noah]] — the resolve made public: blessing, legislating, delegating, covenanting
+  with all flesh, and giving a sign he keeps himself
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -369,6 +413,7 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Curse]]
 - [[Judgment]]
 - [[Sacrifice and Offering]]
+- [[Blood]]
 - [[Vengeance]]
 - [[Suffering]]
 - [[Retribution]]

@@ -54,10 +54,20 @@ dominion given in 1:28, not a reward for exercising it.
   Adam's corrupted state and not merely his status — rests on Romans 5:12, not on this verse; what
   invites it here is the placement, a sentence about resemblance set at the head of a chapter whose
   refrain is *"then he died."* See [[From Adam to Noah]].
-- To trace as ingestion reaches them: Genesis 9:6 (the image as the reason murder is capital), Psalm
-  8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and the New Testament's turn to Christ as
-  *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3) into which people are remade
-  (Romans 8:29).
+- **Genesis 9:1–7** — the image after the flood, and the one place in the Torah where it grounds a
+  command. *"Whoever sheds man's blood, his blood will be shed by man, for God made man in his own
+  image"* (9:6): the status granted at 1:26–27 and transmitted at 5:3 survives a fall, a murder, a
+  corrupted earth, and a universal judgment, and is still strong enough to make a human death
+  different in kind from an animal's — twelve verses after the animals are handed over as food. Note
+  what does *not* survive alongside it. The blessing of 1:28 is reissued at 9:1 without *subdue* or
+  *have dominion*, and what replaces them is *"the fear of you and the dread of you"* (9:2). Genesis
+  9 keeps the image and drops the dominion language, which is a problem for the strict functional
+  reading: if the image simply *is* the mandate to rule, it is odd for 9:6 to invoke it in the same
+  speech that withdraws the vocabulary of ruling. See [[The Covenant with Noah]] and
+  [[Whoever Sheds Man's Blood]].
+- To trace as ingestion reaches them: Psalm 8:4–8, 1 Corinthians 11:7, Colossians 3:10, James 3:9, and
+  the New Testament's turn to Christ as *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3)
+  into which people are remade (Romans 8:29).
 
 ## Key passages
 
@@ -66,6 +76,9 @@ dominion given in 1:28, not a reward for exercising it.
 - [[The Fall]] — the likeness offered by the serpent, and confirmed by God in 3:22
 - [[From Adam to Noah]] — 5:1–3, the one place in Scripture where the image passes from a human
   father to a human son
+- [[The Covenant with Noah]] — 9:6, the only verse in the Torah that gives the image as the reason for
+  a command, and the same speech that drops the dominion language of 1:28
+- [[Whoever Sheds Man's Blood]] — what the image does legally, from Genesis 9 to James 3:9
 - [[The First Adam and the Last Adam]] — bearing *"the image of the man of dust"* and *"the image
   of the heavenly"*
 
@@ -76,6 +89,7 @@ dominion given in 1:28, not a reward for exercising it.
 - [[Work]]
 - [[Marriage]]
 - [[Sin]]
+- [[Blood]]
 - [[Life and Death]]
 
 ## Related people

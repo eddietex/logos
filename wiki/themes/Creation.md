@@ -62,6 +62,13 @@ Genesis 1 sets four load-bearing claims:
   of Genesis 1:2. Then 8:1–2 starts again with the same words in the forward order: a *rûaḥ* passes
   over the waters, the fountains close, and dry land appears. Genesis is telling the story of the
   world being made twice. See [[Noah and the Flood]] and [[The Flood as Un-Creation]].
+- **Genesis 9:1–7** — Genesis 1 quoted a third time, and this time amended. The blessing of 1:28
+  returns at 9:1 and 9:7; the diet of 1:29–30 is expanded at 9:3, in a sentence that cites it (*"as I
+  gave you the green herb"*); the image of 1:26–27 is invoked at 9:6; and 1:14's vocabulary of *signs*
+  supplies the *ʾôt* of 9:12. But *subdue* and *have dominion* are not reissued, and *"the fear of you
+  and the dread of you"* (9:2) stands where they were. The world is made a second time out of the
+  first world's own words, with every change running in the same direction: a concession to violence.
+  See [[The Covenant with Noah]] and [[The Flood as Un-Creation]].
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -75,6 +82,8 @@ Genesis 1 sets four load-bearing claims:
   creatures of days five and six
 - [[The Waters Recede]] — the re-creation itself: the *rûaḥ* over the waters as in 1:2, the deep
   closed, dry land back, and the creatures released under the blessing of 1:22
+- [[The Covenant with Noah]] — Genesis 1's blessing, diet, image, and *signs* reissued with
+  amendments, and the dominion language quietly dropped
 - [[The Flood as Un-Creation]] — the correspondences traced verse by verse, and the re-creation that
   answers them
 - [[The Dove and the Spirit]] — the hovering of 1:2 and the bird over the water in Genesis 8, and

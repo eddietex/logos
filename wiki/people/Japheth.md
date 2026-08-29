@@ -46,6 +46,8 @@ the son the narrative follows first and the most distant last. The wiki leaves i
   [[Noah and the Flood]]
 - Comes out of the ark with his brothers, named only as one of *"his sons"* —
   [[The Waters Recede]]
+- Addressed by God with his father and brothers, blessed, and made a party to the covenant with all
+  flesh — [[The Covenant with Noah]]
 - Covers his father with Shem, walking in backwards; receives the blessing *"May God enlarge
   Japheth"* — Genesis 9:18–29 *(not yet ingested)*
 - Ancestor of Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras, and of *"the islands of the
@@ -57,6 +59,8 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 - [[Noah and the Flood]] — named at 6:10 and 7:13; given no act and no words
 - [[The Waters Recede]] — not named; present only as one of *"his sons"* leaving the ark (8:16,
   8:18)
+- [[The Covenant with Noah]] — one of *"Noah and his sons"* (9:1, 9:8): addressed by God for the first
+  time, and a covenant party, with no act and no word still
 
 ## Related people
 

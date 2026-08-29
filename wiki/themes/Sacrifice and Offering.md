@@ -56,6 +56,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   after: nobody commanded it, it costs a seventh of every clean species alive, God's response is
   addressed to no one (*"Yahweh said in his heart"*), and the resolve it produces is grounded in
   human evil rather than human merit. See [[The Waters Recede]] and [[A Pleasing Aroma]].
+- **Genesis 9:4** — the premise the whole sacrificial system will rest on, stated first as a dietary
+  rule. *"Flesh with its life, that is, its blood, you shall not eat"*: blood is life, and therefore
+  not food. Leviticus 17:11 completes the thought with the other half — *"I have given it to you on
+  the altar to make atonement for your souls"* — so the one thing that may never be eaten is the one
+  thing that may be offered. Genesis 9 states the withholding centuries before the altar law explains
+  what the withheld thing is for. See [[The Covenant with Noah]] and [[Blood]].
 - **Job 1:5** — Job sanctifies his children himself and offers a burnt offering for each, after
   every round of their feasting, on the hypothesis *"It may be that my sons have sinned, and
   renounced God in their hearts."* No altar is mentioned, no priest, no command, and no offence
@@ -78,6 +84,8 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 - [[Cain and Abel in the New Testament]] — Hebrews 11:4 on Abel's sacrifice as the first act of
   faith
 - [[The Waters Recede]] — the first altar, the first burnt offering, and the first *pleasant aroma*
+- [[The Covenant with Noah]] — 9:4, where blood is withheld from the table on the same grounds
+  Leviticus 17:11 will give for putting it on the altar
 - [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
   and its New Testament application to Christ, to money, and to prayer
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
@@ -88,6 +96,7 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 - [[Judgment]] — the scene an unaccepted offering leads directly into here
 - [[Sin]] — what crouches at the door of the man whose gift was refused
+- [[Blood]] — the one part of the animal that never reaches the table, and the reason it does not
 - [[Life and Death]] — what the firstborn of the flock costs
 - [[Blessing]] — God's word toward what he receives, against the withheld regard of 4:5
 

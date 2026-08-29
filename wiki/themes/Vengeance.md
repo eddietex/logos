@@ -47,9 +47,16 @@ for revenge becomes its measure for pardon. See
   a permission.
 - **Genesis 4:23–24** — Lamech's Song of the Sword: a man claiming the number for himself and
   raising it eleven-fold, over a wound.
-- **Genesis 9:5–6** *(not yet ingested)* — after the flood, the first rule: *"whoever sheds man's
-  blood, his blood will be shed by man"*, grounded in the image of God. Retribution is finally
-  regulated rather than boasted.
+- **Genesis 9:5–6** — after the flood, the first rule: *"Whoever sheds man's blood, his blood will be
+  shed by man, for God made man in his own image."* Retribution is finally regulated rather than
+  boasted, and the striking thing is the arithmetic: Cain's sevenfold and Lamech's seventy-sevenfold
+  are both cancelled by **one**. The rule is exactly proportionate, and it is *lex talionis* four books
+  before Exodus states it. Two other changes. It is **universal** — given to Noah before any nation
+  exists, addressed to everyone — and it **delegates**: 9:5 still has God saying *"I will surely
+  require"* three times, and 9:6 says the shedding will be *by man*. What was God's own act in Genesis
+  4 becomes a human responsibility here, and the Torah then spends four chapters supplying the
+  procedure Genesis conspicuously lacks. See [[The Covenant with Noah]] and
+  [[Whoever Sheds Man's Blood]].
 - Strands to trace as ingestion reaches them: *lex talionis* as a limit (Exodus 21:23–25, Leviticus
   24:19–20, Deuteronomy 19:21); the *gōʾēl haddām*, the avenger of blood, and the cities of refuge
   (Numbers 35, Deuteronomy 19, Joshua 20); David refusing to strike Saul (1 Samuel 24, 26); the
@@ -62,10 +69,16 @@ for revenge becomes its measure for pardon. See
 
 - [[Cain and Abel]] — the sevenfold guarantee that keeps a murderer alive
 - [[The Line of Cain and the Birth of Seth]] — Lamech taking the number for himself and inflating it
+- [[The Covenant with Noah]] — the rule that cancels both numbers with one, and hands the requiring of
+  blood to human hands
+- [[Whoever Sheds Man's Blood]] — Genesis 9:6 through the Torah's homicide law and into the New
+  Testament
 
 ## Related themes
 
 - [[Judgment]] — God's own settling of accounts, of which vengeance is the human counterfeit
+- [[Blood]] — the thing required, and the reason it is required
+- [[Image of God]] — the ground 9:6 gives, and the reason the rule has a ceiling
 - [[Sin]] — what 4:7 warned about, now hereditary in fact
 - [[Life and Death]] — the currency the whole theme is denominated in
 - [[Curse]] — the sentence Cain carried, and the protection attached to it
@@ -77,3 +90,4 @@ for revenge becomes its measure for pardon. See
 - [[Cain]]
 - [[Lamech (son of Methushael)]]
 - [[Tubal Cain]]
+- [[Noah]] — the first person given a standing rule about killing, and given it without a court

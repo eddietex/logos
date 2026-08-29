@@ -50,6 +50,13 @@ These are not exclusive, and the third is the one the text argues for by itself.
   the first altar in Scripture. The chapter also lets the distinction pick the birds: an unclean
   raven for the errand that does not come back, a clean dove for the one that does. See
   [[The Waters Recede]].
+- **Genesis 9:3–4** — and then the distinction is not used. Two chapters after 7:2 sorted the animals
+  and one chapter after 8:20 burned the clean ones, God hands over *"every moving thing that lives"* as
+  food with no qualification whatever, and attaches exactly one restriction — not a species but a
+  substance: *"flesh with its life, that is, its blood, you shall not eat."* The first dietary law in
+  Scripture is about blood, not about clean and unclean, and Leviticus 11 will later restrict for
+  Israel what Genesis 9 grants to humanity. Genesis does not reconcile the two. See
+  [[The Covenant with Noah]] and [[Blood]].
 - **Leviticus 11; Deuteronomy 14:3–21** — the distinction codified. Land animals must chew the cud
   *and* have a split hoof; sea creatures need fins and scales; a list of birds is simply given.
   Reasons are not stated, and the attempts to supply them — hygiene, anti-Canaanite polemic, Mary
@@ -87,9 +94,12 @@ These are not exclusive, and the third is the one the text argues for by itself.
   definition nine centuries before Leviticus defines it
 - [[The Waters Recede]] — the distinction load-bearing at last: what 7:2's surplus was for, and
   which bird gets sent where
+- [[The Covenant with Noah]] — the distinction conspicuously *not* invoked: every moving thing granted
+  as food, with blood as the only restriction
 
 ## Related themes
 
+- [[Blood]] — the substance Genesis 9:4 withholds, and the one restriction the Torah never relaxes
 - [[Sacrifice and Offering]] — what the clean animals are for, and why 7:2 needs a surplus of them
 - [[Life and Death]] — corpse impurity, the gravest uncleanness in the Torah, and the flood as a
   world made entirely of it
