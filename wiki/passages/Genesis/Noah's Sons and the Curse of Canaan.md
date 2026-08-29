@@ -347,8 +347,8 @@ two being the same word.
 - [[The Vine and the Cup]] — wine in Scripture from this vineyard onward: gladness, stupor, wrath,
   and sacrament.
 - [[Nakedness and Covering]] — the theme this pericope opens.
-- Genesis 10:1–32 *(not yet ingested)* — the Table of Nations, which 9:18–19 introduces and which
-  gives Canaan eleven descendants and a border.
+- [[The Table of Nations]] — Genesis 10:1–32, which 9:18–19 introduces and which gives Canaan eleven
+  descendants and a border, without once mentioning the curse.
 - Genesis 11:1–9 *(not yet ingested)* — Babel: the scattering that 9:19's verb already names.
 - Genesis 15:16 — *"the iniquity of the Amorite is not yet full"*: the reason Genesis itself gives for
   the dispossession of Canaan, and it is not Noah's curse.

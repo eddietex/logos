@@ -37,12 +37,22 @@ not what the verse says.
 **He gets ʾĕlōhîm, and Shem gets Yahweh.** Noah uses the covenant name in the blessing over Shem
 (9:26) and the general name here, one verse later, and the text does not comment.
 
-His descendants at Genesis 10:2–5 — Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras — map onto the
-peoples north and west of Israel: Media, Ionia (Javan is the standard Hebrew word for Greece),
-Anatolia, and *"the islands of the nations"*. That is the reason Japheth became, in later Jewish and
-Christian ethnography, the ancestor assigned to Europe, and the reason a supposed identity with the
-Greek titan Iapetos has been proposed periodically since antiquity. The identification is a
-resemblance of sound and position, not evidence.
+### His fourteen — Genesis 10:2–5
+
+His descendants in [[The Table of Nations]] — Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras, and
+seven more under Gomer and Javan — map onto the peoples north and west of Israel: Media, Ionia (Javan
+is the standard Hebrew word for Greece), Anatolia, the Scythians, Cyprus, Tarshish in the far west,
+and *"the islands of the nations"*, which is the Mediterranean rim and the horizon of the chapter's
+map. That is the reason Japheth became, in later Jewish and Christian ethnography, the ancestor
+assigned to Europe, and the reason a supposed identity with the Greek titan Iapetos has been proposed
+periodically since antiquity. The identification is a resemblance of sound and position, not evidence.
+
+**His branch is taken first, and that is a mark of its distance.** Genesis clears the collateral lines
+out of the way before following the one it means to follow — Cain's before Seth's, Ishmael's before
+Isaac's, Esau's before Jacob's — so the reversal of the usual Shem-Ham-Japheth order in Genesis 10 is
+structural rather than incidental. Fourteen names is also the smallest of the three branches, and this
+is the whole of what Scripture ever says about his line. Ezekiel 38–39 then assembles Gog's coalition
+almost entirely out of it: Magog, Meshech, Tubal, Gomer, and Togarmah.
 
 **One note on birth order.** He is listed third every time, which normally implies youngest, but
 Genesis 9:24 calls [[Ham]] Noah's *"youngest son"*, and Genesis 10:21 describes Shem in a phrase that
@@ -63,7 +73,7 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 - Covers his father with Shem, walking in backwards; receives the blessing *"May God enlarge
   Japheth"* — [[Noah's Sons and the Curse of Canaan]]
 - Ancestor of Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras, and of *"the islands of the
-  nations"* — Genesis 10:2–5 *(not yet ingested)*
+  nations"*; his branch is taken first, and it is fourteen names long — [[The Table of Nations]]
 
 ## Appears in
 
@@ -75,6 +85,8 @@ the son the narrative follows first and the most distant last. The wiki leaves i
   time, and a covenant party, with no act and no word still
 - [[Noah's Sons and the Curse of Canaan]] — the one act of his life, and a blessing that is a pun on
   his name
+- [[The Table of Nations]] — fourteen descendants and the Mediterranean rim, taken first because his
+  is the line the book is not following
 
 ## Related people
 
@@ -91,3 +103,4 @@ the son the narrative follows first and the most distant last. The wiki leaves i
 - [[Covenant]]
 - [[Judgment]]
 - [[Nakedness and Covering]]
+- [[The Nations]]

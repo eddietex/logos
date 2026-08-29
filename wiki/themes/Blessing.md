@@ -72,9 +72,17 @@ costly.
   patriarchal blessings of Genesis 27, 48, and 49 — irrevocable, spoken by a father, dividing sons —
   are this scene's descendants, and the first of them is also spoken by a man who cannot see clearly.
   See [[Noah's Sons and the Curse of Canaan]].
+- **Genesis 10:32** — and then it is simply done. *"These are the families of the sons of Noah, by
+  their generations, according to their nations. The nations divided from these in the earth after the
+  flood."* The command of 9:1 and 9:7 to fill the earth is the **one command of God in the primeval
+  history that is carried out without failure, delay, or comment** — no transgression, no divine
+  reaction, and seventy peoples to show for it. That the same filling is reframed as a judgment one
+  chapter later, when the builders at Babel are scattered for trying to avoid it, is a tension Genesis
+  leaves standing. See [[The Table of Nations]] and [[The Nations]].
 - To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
-  out to *"all the families of the earth"* (12:1–3), the patriarchal blessings that drive the Jacob
-  narrative (27, 48, 49), and the covenant blessings-and-curses of Deuteronomy 28.
+  out to *"all the families of the earth"* (12:1–3) — which uses the Table's own word for families,
+  *mišpəḥōt* — the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the covenant
+  blessings-and-curses of Deuteronomy 28.
 
 ## Key passages
 
@@ -90,6 +98,8 @@ costly.
   dominion* silently dropped and *fear and dread* put in their place
 - [[Noah's Sons and the Curse of Canaan]] — 9:26, the first blessing spoken by a human being, and the
   first *"Blessed be Yahweh"* in Scripture
+- [[The Table of Nations]] — 10:32, the command of 9:1 reported fulfilled: seventy nations, and no
+  divine comment on any of them
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand

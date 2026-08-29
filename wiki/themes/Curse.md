@@ -88,6 +88,13 @@ the same verses that put the tree of life back in reach (see
   by consequence — Cain's fell on Cain, and Genesis declined at 4:17–24 to say whether it carried past
   him, whereas 9:25 names a descendant from the outset. No later biblical writer cites it. See
   [[Noah's Sons and the Curse of Canaan]] and [[The Curse of Canaan and the Conquest]].
+- **Genesis 10:15–19** — the curse's first test, and it fails to show up. Twenty verses after Canaan
+  is consigned to servitude three times over, the Table of Nations gives him a firstborn, eleven
+  descendants, and the only surveyed border in the chapter, on exactly the same footing as Shem's line
+  and Japheth's. The oracle is not quoted, alluded to, or ratified; nothing in the chapter's ordering
+  of peoples reflects it. This is the first of a long series of silences — no conquest narrative,
+  prophet, psalm, or epistle ever cites 9:25 either — and it starts in the passage that had the best
+  opportunity to. See [[The Table of Nations]].
 - **Genesis 12:3** *(not yet ingested)* — the Abrahamic promise that pairs blessing and curse as the
   response to how the nations treat one family, and the first time since 9:25 that the two words are
   used together.
@@ -111,6 +118,7 @@ the same verses that put the tree of life back in reach (see
 - [[Comfort from the Cursed Ground - Naming Noah]] — 5:29 against 3:17, 8:21, and 9:20
 - [[Noah's Sons and the Curse of Canaan]] — 9:25, where the word passes from God's mouth to a man's
 - [[The Curse of Canaan and the Conquest]] — what the canon does and does not do with that curse
+- [[The Table of Nations]] — 10:15–19, where Canaan's line is set out with no reference to 9:25
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 
 ## Related themes

@@ -48,6 +48,8 @@ attached to a shrine at Jabal Sheikh Saad in the Syrian Hauran, follows the Aram
 ## Appears in
 
 - [[Job of Uz]] — named in the opening clause, as the man's only address.
+- [[The Table of Nations]] — Genesis 10:23, where Uz is Aram's firstborn: the first of the three
+  genealogical Uzzes, and the one that points north-east rather than to Edom.
 
 ## Related places
 

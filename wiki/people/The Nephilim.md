@@ -41,6 +41,13 @@ from Numbers 13:33, where the point of the comparison is unmistakably size.
    is that they were famous — and five chapters later, at Babel, humanity says *"let's make
    ourselves a name"* and God comes down to stop them.
 
+   **The word comes back four verses into the post-flood world.** *Gibbōr* next occurs at Genesis
+   10:8, of [[Nimrod]]: *"He began to be a mighty one in the earth"* — the first person the Table of
+   Nations stops to describe, and the founder of Babel and Nineveh. Genesis draws no line of descent
+   and *gibbōr* is an ordinary word for a champion, but the vocabulary of the generation the flood
+   destroyed is the vocabulary the first king is introduced with. See [[The Table of Nations]] and
+   [[Nimrod and the Kingdoms of Shinar and Assyria]].
+
 **Where the giants of the conquest come in.** Numbers 13:33 identifies the Nephilim with *"the sons
 of Anak"*, and the Anakim recur through Deuteronomy 2 and 9 and Joshua 11 and 14 as the
 formidable pre-Israelite inhabitants of the hill country, alongside the Rephaim, the Emim, and the

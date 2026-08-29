@@ -8,6 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 6:4 — [[The Sons of God and the Corruption of the Earth]]
+- Genesis 10:8 — [[The Table of Nations]]: *gibbōr* used of Nimrod, the word's first reappearance
+  after the flood
 - Numbers 13:31–33 *(not yet ingested)* — the spies' report, and the word's only other occurrence
 - Deuteronomy 1:28; 2:10–11, 20–21; 3:11; 9:1–2 *(not yet ingested)* — the Anakim, Emim, Zamzummim,
   and Rephaim
@@ -25,6 +27,15 @@ Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight
 and so we were in their sight."* Everything else usually said about them is inference from those two
 verses plus the separate, and much better attested, biblical tradition of oversized peoples in and
 around Canaan.
+
+**The other word from 6:4 does come back, and it comes back four verses into the new world.** Genesis
+6:4 calls the offspring *haggibbōrîm*, *"the mighty men who were of old, men of renown"*, and *gibbōr*
+does not occur again until Genesis 10:8: *"Cush became the father of Nimrod. He began to be a mighty
+one in the earth."* Genesis draws no line between them and makes no claim of descent — *gibbōr* is an
+ordinary Hebrew word for a warrior or a champion, and it will be used of David's men without any such
+freight. But it is the vocabulary of the generation the flood destroyed, reused on the first person
+the post-flood roster stops to describe, and the man it describes founds Babel and Nineveh. See
+[[Nimrod]] and [[Nimrod and the Kingdoms of Shinar and Assyria]].
 
 **That separate tradition is substantial and is worth keeping distinct.** Deuteronomy 2 supplies a
 small ethnography of them: the **Emim** in Moab, *"great and many, and tall as the Anakim"*; the

@@ -52,7 +52,9 @@ Revelation closes the canon with the tree of life growing again beside a river, 
 ## Related places
 
 - The four rivers — Pishon, Gihon, Hiddekel (Tigris), Euphrates — and the lands they run through:
-  Havilah, Cush, Assyria. Their pages come with Genesis 10 and the narratives that use them.
+  Havilah, Cush, and [[Assyria]], which gets its page with [[The Table of Nations]]. Havilah and Cush
+  are named there too (10:7, 29), but only as entries in a list; their pages wait for a narrative that
+  uses them.
 - The tabernacle and the temple, which reuse the garden's guarded-eastward-entrance layout and its
   materials.
 - [[Nod]] — the land east of Eden where Cain settles; the only place in Genesis 4 given a name, and

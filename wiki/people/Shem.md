@@ -57,10 +57,31 @@ Note also which name he gets. Noah says **Yahweh** over Shem and **ʾĕlōhîm**
 next verse, and nothing in the text comments on the difference. Genesis will spend forty chapters on
 the line named with the covenant name.
 
-What follows him: he is the ancestor of the peoples of Genesis 10:21–31 — Elam, Asshur, Arpachshad,
-Lud, Aram — and through Arpachshad the line of 11:10–26 runs to Terah and Abram. The modern term
-*Semitic*, coined for a language family in the eighteenth century, is taken from his name and is
-only loosely related to the genealogy that produced it.
+### Introduced by a descendant — Genesis 10:21
+
+[[The Table of Nations]] gives him twenty-six descendants and takes his branch **last**, which in
+Genesis means it is the one being followed: Japheth's collateral line is cleared away first, then
+Ham's, exactly as Cain's is run out before Seth's and Esau's before Jacob's. His sons are Elam,
+Asshur, Arpachshad, Lud, and Aram (10:22), and through Arpachshad the line of 11:10–26 runs to Terah
+and Abram.
+
+**He is introduced by a great-grandson, which happens to nobody else in the chapter.** Every other
+entry is identified by its father; Shem is *"the father of all the children of Eber"* (10:21) — four
+generations before [[Eber]] is born at 10:24. The Table flags which of its seventy the book intends
+to follow before it lists a single name of his, and it does so with the word that stands one consonant
+from *ʿibrî*, **Hebrew**.
+
+**Elam and Asshur are the reason the Table is not a language chart.** Elamite is unrelated to any
+known language family and is certainly not Semitic; Canaanite, listed under Ham, is Semitic and nearly
+identical to Hebrew. Whatever organizes Genesis 10 — geography, political alignment, trade, historical
+memory — it is not linguistic descent. The modern term *Semitic*, coined for a language family in the
+eighteenth century, is taken from his name and is only loosely related to the genealogy that produced
+it; the nineteenth century's *Hamitic* and *Japhetic*, and the racial taxonomies built on all three,
+are further from the chapter still.
+
+The phrase *"the elder brother of Japheth"* in the same verse is a third unsettled piece of evidence
+about birth order, alongside the eleven listings and 9:24's *"youngest son"*: the Hebrew *ʾăḥî yepet
+haggādôl* can equally mean *"the brother of Japheth the elder"*.
 
 ## Timeline / key events
 
@@ -73,7 +94,8 @@ only loosely related to the genealogy that produced it.
   all flesh — [[The Covenant with Noah]]
 - Covers his father with Japheth, walking in backwards, and hears *"Blessed be Yahweh, the God of
   Shem"* — [[Noah's Sons and the Curse of Canaan]]
-- Ancestor of Elam, Asshur, Arpachshad, Lud, and Aram — Genesis 10:21–31 *(not yet ingested)*
+- Ancestor of Elam, Asshur, Arpachshad, Lud, and Aram, and introduced as *"the father of all the
+  children of Eber"* — [[The Table of Nations]]
 - Fathers Arpachshad two years after the flood; the line runs from him to Abram — Genesis 11:10–26
   *(not yet ingested)*
 
@@ -88,6 +110,8 @@ only loosely related to the genealogy that produced it.
   and still silent
 - [[Noah's Sons and the Curse of Canaan]] — the garment and the backwards walk, and the oracle that
   blesses his God rather than him
+- [[The Table of Nations]] — twenty-six descendants, his branch taken last, and an introduction that
+  runs through Eber
 
 ## Related people
 
@@ -95,6 +119,8 @@ only loosely related to the genealogy that produced it.
 - [[Ham]] and [[Japheth]] — his brothers, named with him every time he is named; Japheth acts with
   him at 9:23 as a single subject
 - [[Canaan (son of Ham)]] — his nephew, consigned to him as *"a servant of servants"*
+- [[Eber]] — his great-grandson, and the descendant Genesis 10:21 introduces him by
+- [[Peleg]] — Eber's son, through whom the line runs to Abram
 - **His wife** — one of the eight in the ark, unnamed here and everywhere in Scripture
 - [[Adam]] — ten generations back through [[Seth]]
 - [[God]] — who is called, uniquely in the primeval history, *the God of Shem* (9:26)
@@ -106,3 +132,4 @@ only loosely related to the genealogy that produced it.
 - [[Judgment]]
 - [[Favor and Grace]]
 - [[Nakedness and Covering]]
+- [[The Nations]]

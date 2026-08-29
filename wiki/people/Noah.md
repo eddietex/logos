@@ -206,6 +206,8 @@ remarks on, and never uses.
 - Becomes a man of the ground and plants the first vineyard; is uncovered in his tent; wakes and
   speaks for the first time in Scripture, to curse Canaan and to bless Shem's God; dies at 950, and
   Genesis 5's register closes on him — [[Noah's Sons and the Curse of Canaan]]
+- Named at the head and the foot of the roster of seventy peoples descended from him — his last
+  mention in Genesis, and he is dead for all of it — [[The Table of Nations]]
 
 ## Appears in
 
@@ -219,6 +221,8 @@ remarks on, and never uses.
   longest speech ever addressed to him gets no reply
 - [[Noah's Sons and the Curse of Canaan]] — the vineyard, the drunkenness, the first words he speaks
   in the Bible, and the death that closes the register of Genesis 5
+- [[The Table of Nations]] — named twice, at 10:1 and 10:32, and otherwise absent: the whole map of
+  the seventy nations is filed under a man who has already died. Genesis does not mention him again.
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
@@ -266,3 +270,4 @@ remarks on, and never uses.
 - [[Nakedness and Covering]]
 - [[Work]]
 - [[Sin]]
+- [[The Nations]]

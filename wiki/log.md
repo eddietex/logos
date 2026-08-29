@@ -1304,3 +1304,126 @@ WEB's *"The man and his wife were both naked, and they were not ashamed"*; Genes
 being quoted with invented punctuation and now carries the raw file's em-dashes; Genesis 12:3 was
 quoted as a lowercase fragment and is now given whole. And a claim that 9:19's *nāpṣâ* is *"the same
 root"* as Babel's *pûṣ* was weakened to *by-form*, which is what the evidence supports.
+
+## [2026-08-29] ingest | Genesis 10.1-32 — The Table of Nations
+
+Unattended run (`/ingest auto`). Genesis was the first `in-progress` book in `wiki/books/index.md`
+and *The Table of Nations* the first unchecked box on its page. `raw/bible/Genesis.md` was already
+present, so no fetch. Step 2's discussion went into the passage page, as the skill directs.
+
+**The pericope.** Seventy names and one story. A superscription (10:1), Japheth's fourteen (10:2–5),
+Ham's thirty with the five-verse Nimrod narrative inside it (10:6–20), Shem's twenty-six (10:21–31),
+and a colophon (10:32). The chapter is a segmented genealogy against Genesis 5's and 11:10–26's
+linear ones — it branches, drops every age and every death, and gives nobody but Nimrod a verb. God
+is absent for the second pericope running: his name occurs once in thirty-two verses, at 10:9, inside
+a proverb other people quote about a hunter.
+
+**Created**
+
+- `wiki/passages/Genesis/The Table of Nations.md`
+- `wiki/people/Nimrod.md` — the *gibbōr* of 10:8, the first *mamlākâ* in Scripture, and the
+  reception history (Josephus, the Targums, *Genesis Rabbah*, Augustine, Dante) kept separate from
+  the five verses that generated it.
+- `wiki/people/Eber.md`, `wiki/people/Peleg.md` — the two names in Shem's branch that Genesis marks:
+  the one Shem is introduced by, and the one with an etymology.
+- `wiki/places/Canaan.md` — the land, as `Noah's Sons and the Curse of Canaan` promised it would be
+  when Genesis 10 arrived; the man keeps `Canaan (son of Ham)`.
+- `wiki/places/Shinar.md`, `Babel.md`, `Assyria.md`, `Nineveh.md`, `Egypt.md`
+- `wiki/themes/The Nations.md` — *gôyim* as a category, and the seventy across the canon.
+- `wiki/themes/Kingship and Empire.md` — *mamlākâ* first at 10:10, and the Bible's two-sided argument
+  about the institution.
+- `wiki/connections/Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10.md` (thread)
+- `wiki/connections/The Table of Nations at Pentecost.md` (typology)
+- `wiki/connections/Nimrod and the Kingdoms of Shinar and Assyria.md` (thread)
+
+**Revised**
+
+`wiki/books/Genesis.md` (box checked and linked; three people, six places, and two themes added to
+the key lists), `wiki/people/` Shem (a new section on 10:21 and on why Elam and Asshur mean the Table
+is not a language chart), Ham (his thirty, and the same point restated against *Hamitic*), Japheth
+(his fourteen and why his branch comes first), Canaan (son of Ham) (the eleven sons and the border),
+Noah (named at 10:1 and 10:32 and dead throughout — his last mention in Genesis), God (the second
+silent pericope), The Nephilim (*gibbōr* reappearing at 10:8), `wiki/places/` Uz (10:23 as the first
+of the three genealogical Uzzes), Eden, `wiki/themes/` Blessing, Curse, City and Civilization,
+`wiki/connections/` The Curse of Canaan and the Conquest, From Adam to Jesus, The Nephilim and the
+Giants of Canaan, `wiki/passages/Genesis/` Noah's Sons and the Curse of Canaan and The Garden of Eden
+(forward references turned into links), all four category indexes, `wiki/books/index.md` (12 / 58),
+and `wiki/index.md`'s counts (15 passages · 34 people · 13 places · 30 themes · 37 connections).
+
+**Contradictions flagged rather than harmonized**
+
+1. **Genesis 10 against Genesis 11:1.** Three times the chapter says the nations divided *"everyone
+   after his language"* (10:5, 20, 31), and then 11:1 says *"The whole earth was of one language and
+   of one speech."* Read as a sequence the second cannot follow the first. The passage page sets out
+   the three standard accounts — achronological arrangement (Genesis's own habit, and the majority
+   reading), source juxtaposition, and a narrower scope for 11:1 — and picks none. Peleg at 10:25 is
+   the pressure point and is treated on his own page too.
+2. **The Philistines' ancestry.** Genesis 10:14 derives them from Casluhim; Amos 9:7, Jeremiah 47:4,
+   and Deuteronomy 2:23 derive them from Caphtor. Noted on the passage page and on `Egypt.md` as a
+   tension in transmission, not resolved.
+3. **The curse of 9:25 against the Table.** Canaan is given a firstborn, eleven descendants, and the
+   chapter's only border, with no reference to the oracle twenty verses earlier. Recorded on
+   `Curse.md` and on `The Curse of Canaan and the Conquest.md` as evidence that cuts *against* the
+   etiological reading of Genesis 9, since the etiology is not carried forward even one chapter.
+
+**Judgment calls made unattended, for review**
+
+1. **Three person pages out of seventy names, not seventy.** Nimrod, Eber, and Peleg — the only three
+   the text does more with than list. Everyone else in the chapter (Cush, Mizraim, Put, Asshur, Aram,
+   Elam, Javan, Magog, Joktan, and some sixty more) has no act, no age, and no death, and several are
+   simply the Hebrew name of a country. They are described on the passage page and get pages when a
+   passage treats them as someone or somewhere in particular. The alternative — seventy near-empty
+   stubs — would have made the people index unusable at a stroke.
+2. **Six place pages, and the choice of which six.** Canaan, Shinar, Babel, Assyria, Nineveh, and
+   Egypt: the entities the rest of Scripture depends on and that this chapter actually locates.
+   Sidon, Gerar, Gaza, Sodom, Gomorrah, Admah, Zeboiim, Lasha, Erech, Accad, Calneh, Calah, Rehoboth
+   Ir, Resen, Mesha, and Sephar are named on the passage page without pages of their own.
+3. **`Babel` created now rather than with Genesis 11:1–9.** The name is founded at 10:10, one
+   pericope early, and the next ingest will expand the page rather than create it.
+4. **`Egypt`, not `Mizraim`, for the place page**, with *Mizraim* in `also_known_as` — the bare name
+   is what every later book uses. The person/place split that `Canaan` needed is not needed here,
+   because no passage so far treats Mizraim as a character.
+5. **A new theme page for `Kingship and Empire`** on the strength of one verse. Justified by *mamlākâ*
+   occurring for the first time in Scripture at 10:10 and by the thread running from there to Daniel
+   and Revelation; if the user disagrees, its content folds back into `City and Civilization`.
+6. **`Language` deliberately not created**, though 10:5, 20, and 31 all name it. It belongs with
+   Babel, and the next pericope is Babel.
+7. **Nimrod's reception history recorded as reception history.** The text gives a city-builder whom a
+   proverb remembered; the rebel, the tyrant, and the tower-builder are inferences from *lipnê YHWH*
+   with a traceable post-biblical history. Both are on the page, labelled, and not merged.
+8. **Two readings of 10:11 kept.** Whether Nimrod or Asshur founds the Assyrian cities is genuinely
+   undecidable in the Hebrew; the WEB takes the first, the KJV the second, and Micah 5:6 leans to the
+   first. Recorded on `Nimrod.md`, `Assyria.md`, and the connection page without adjudication.
+9. **No pericope boundaries redrawn.** 10:1–32 divided as the plan assumed, and the remaining Genesis
+   boxes are untouched.
+
+**Deliberately left for later pericopes**, all written as plain-text references so nothing dangles:
+Genesis 11:1–9 (Babel — the cause this chapter's four verbs of scattering never give), Genesis
+11:10–26 (Shem's line again, linear, with ages), Genesis 12:1–3 (the promise that answers the
+chapter, in the chapter's own word *mišpəḥōt*), 12:10–20, 14:1, 15:18–21, and 19:24–25. Havilah and
+Cush are named at 10:7 and 10:29 but left without pages; `Eden.md` and `The Garden of Eden` now say
+so explicitly rather than promising them "when Genesis 10 arrives".
+
+**Checks.** `scripts/link-check.sh` clean, exit 0, against a baseline of 64 not-yet-started book
+pages. All fifty-seven block-quoted verses across the wiki were reassembled programmatically and
+compared character for character against `raw/bible/Genesis.md`; every one matches verbatim,
+including the two pre-existing Genesis 8 quotations on `Ararat.md` and `Remembrance.md`. Inline
+quotations from elsewhere in Genesis were checked the same way and two were wrong and are fixed:
+Genesis 9:1 had been given as *"be fruitful, and multiply, and replenish the earth"* and now reads
+WEB's *"Be fruitful, multiply, and replenish the earth"*; and Genesis 12:3, quoted in four places as
+*"in you all the families of the earth will be blessed"*, now reads WEB's *"All the families of the
+earth will be blessed through you"*. A claim that *hēḥēl* marks an era "four times already" was
+corrected to three (4:26, 6:1, 9:20). Two quotations from books not yet in `raw/` were softened to
+paraphrase rather than left as unverifiable quotation marks (Nahum 3:7 on `Nineveh.md`, Micah 5:6 on
+the passage page).
+
+**One caveat worth recording.** Quotations from books outside Genesis — Deuteronomy 32:8, Acts 2 and
+17, Micah 5:6, Isaiah 19, Revelation 5 and 7 — cannot be verified against `raw/`, which holds only
+Genesis and Job. They are given as WEB and believed accurate, but they are the one class of text in
+this ingest that was not checked against a source file. The same is true of every previous ingest;
+it is noted here because this pericope leans on out-of-Genesis material more heavily than any before
+it.
+
+**A pre-existing defect fixed in passing.** `wiki/people/God.md` had a stray orphan line —
+`with all flesh, and giving a sign he keeps himself` — sitting after the `Noah's Sons` bullet in its
+*Appears in* list, where it belonged to the `Covenant with Noah` bullet above. Rejoined.

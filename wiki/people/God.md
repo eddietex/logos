@@ -385,10 +385,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   and shutting the door
 - [[The Waters Recede]] — the sentence lifted: remembering, sending the wind, commanding the exit,
   smelling the offering, and binding his own future conduct
-- [[The Covenant with Noah]] — the resolve made public: blessing, legislating, delegating, covenanting
+- [[The Covenant with Noah]] — the resolve made public: blessing, legislating, delegating,
+  covenanting with all flesh, and giving a sign he keeps himself
 - [[Noah's Sons and the Curse of Canaan]] — by his absence: he neither speaks nor acts, and is spoken
   about for the first time in a human blessing
-  with all flesh, and giving a sign he keeps himself
+- [[The Table of Nations]] — absent for a second pericope running. His name occurs once in thirty-two
+  verses, at 10:9, inside a proverb other people say about a hunter; the nations divide, spread, and
+  settle with no divine reaction recorded. It is the longest stretch in Genesis without him, and it
+  ends at 11:5.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

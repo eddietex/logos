@@ -59,10 +59,16 @@ rather than achieved.
   Song of the Sword. The book has now derived herding, music, metalwork, the city, and wine, and has
   passed a verdict on none of them. See [[Noah's Sons and the Curse of Canaan]] and
   [[The Vine and the Cup]].
+- **Genesis 10:8–12** — eight cities at once, and the first *kingdom*. [[Nimrod]] founds [[Babel]],
+  Erech, Accad, and Calneh in [[Shinar]], and — on the WEB's reading of 10:11 — [[Nineveh]], Rehoboth
+  Ir, Calah, and Resen in [[Assyria]]. The register that began with one city built by a murderer now
+  takes in the capitals of both empires that will destroy Israel and Judah, and Genesis still passes
+  no verdict; it names the origin and moves on to the next name in the list. This is where
+  civilization stops being a set of crafts and becomes a polity — see [[Kingship and Empire]] and
+  [[The Table of Nations]].
 - **Genesis 6:11–13; 11:1–9** *(not yet ingested)* — the earth filled with violence, and then a
   city and a tower built to make a name and prevent a scattering, which is scattered.
-- Strands to trace as ingestion reaches them: the Table of Nations and the founding of Nineveh and
-  Babel by Nimrod (Genesis 10:8–12); Sodom (Genesis 18–19); the cities of refuge as civilization
+- Strands to trace as ingestion reaches them: Sodom (Genesis 18–19); the cities of refuge as civilization
   domesticating blood vengeance (Numbers 35); Jerusalem as the chosen city (2 Samuel 5, Psalms
   46, 48, 122); Babylon as the archetype of the city against God (Isaiah 13, Jeremiah 50–51,
   Revelation 17–18); Jeremiah 29:7, on seeking the welfare of the city you are exiled to;
@@ -74,10 +80,13 @@ rather than achieved.
 - [[The Line of Cain and the Birth of Seth]] — the first city and the three founders of human craft
 - [[Noah's Sons and the Curse of Canaan]] — the first vineyard, and the register of crafts resumed
   after the flood
+- [[The Table of Nations]] — eight cities in five verses, and the first kingdom
 
 ## Related themes
 
 - [[Work]] — the trades of 4:20–22 as the first specialized and inherited vocations
+- [[Kingship and Empire]] — what the city becomes at Genesis 10:10, when it acquires a ruler
+- [[The Nations]] — the seventy peoples the cities are built among
 - [[Curse]] — the sentence the city is built under
 - [[Vengeance]] — what the culture of Genesis 4 produces alongside its crafts
 - [[Sin]] — running in the background of the whole passage, never named in it
@@ -91,3 +100,4 @@ rather than achieved.
 - [[Jabal]]
 - [[Jubal]]
 - [[Tubal Cain]]
+- [[Nimrod]]

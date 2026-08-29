@@ -93,8 +93,9 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 
 - [[Eden]] — the region; the garden is planted *"eastward, in Eden"*, watered by a river that
   divides into four. Two of the four (the Hiddekel/Tigris and the Euphrates) are known rivers;
-  Pishon and Gihon are not identifiable, and the lands they name — Havilah, Cush — get their
-  pages when Genesis 10 arrives.
+  Pishon and Gihon are not identifiable, and the lands they name — Havilah, Cush — appear again in
+  [[The Table of Nations]] (10:7, 29) as entries in a list; their pages wait for a narrative that uses
+  them. [[Assyria]], the third land named at 2:14, has its page from Genesis 10:11.
 
 ## Themes
 

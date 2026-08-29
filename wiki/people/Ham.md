@@ -53,6 +53,29 @@ himself; and the Talmudic readings at *Sanhedrin* 70a — castration or sodomy �
 is not cursed, not addressed, and never speaks: Noah's oracle passes over him entirely and lands on
 his son.
 
+### His branch of the Table — Genesis 10:6–20
+
+[[The Table of Nations]] gives him **thirty descendants, the largest of the three branches**, and the
+only one that gets both a narrative and a border. His four sons are Cush, Mizraim, Put, and Canaan —
+Nubia, [[Egypt]], Libya, and the land between the Jordan and the sea. Under Cush comes [[Nimrod]], the
+only person in the whole chapter who does anything: the founder of the first kingdom in Scripture, at
+Babel in [[Shinar]], and on the WEB's reading of 10:11 the builder of [[Nineveh]] as well. Under
+Canaan come eleven peoples and the chapter's one surveyed frontier (10:19).
+
+Two things about that list are worth stating flatly, because both bear on how his name has been used.
+
+**The Table does not mention the curse.** Twenty verses after Noah consigns Canaan to servitude three
+times over, Ham's line is set out with a firstborn, thirty peoples, and a border, on exactly the same
+footing as Shem's and Japheth's. Genesis makes the moral partition of 9:25–27 and the geographical
+partition of chapter 10 stand side by side, and does not make the second depend on the first.
+
+**And the Table is not a race chart.** Elam sits under [[Shem]] though Elamite is not a Semitic
+language; Canaan sits under Ham though Canaanite is Semitic and nearly identical to Hebrew. Whatever
+principle organizes the chapter, it cuts across both language and descent as a modern reader would
+define them, and the nineteenth-century coinages *Hamitic*, *Semitic*, and *Japhetic* — devised for
+language families and then pressed into racial taxonomy — are describing something Genesis 10 does not
+contain.
+
 **A note on the "curse of Ham".** The reading that made Genesis 9 a proof-text for the enslavement of
 African peoples — from medieval Islamic and Jewish sources through the Atlantic slave trade and into
 nineteenth-century American defences of slavery — is not what the text says, on counts that can be
@@ -79,7 +102,8 @@ to his name. See [[The Curse of Canaan and the Conquest]].
   flesh — [[The Covenant with Noah]]
 - Sees his father's nakedness and tells his brothers outside; is called Noah's *"youngest son"*; and
   Noah curses his son Canaan — [[Noah's Sons and the Curse of Canaan]]
-- Ancestor of Cush, Mizraim, Put, and Canaan — Genesis 10:6–20 *(not yet ingested)*
+- Ancestor of Cush, Mizraim, Put, and Canaan, and of thirty peoples in all — the largest branch of
+  the Table, and the only one given a border — [[The Table of Nations]]
 
 ## Appears in
 
@@ -92,6 +116,8 @@ to his name. See [[The Curse of Canaan and the Conquest]].
   him out
 - [[Noah's Sons and the Curse of Canaan]] — the only thing he ever does in Scripture, and the curse
   that skips him for his son
+- [[The Table of Nations]] — thirty descendants, the largest branch, with Nimrod's kingdom inside it
+  and Canaan's border at the end of it
 
 ## Related people
 
@@ -100,6 +126,7 @@ to his name. See [[The Curse of Canaan and the Conquest]].
 - **His wife** — one of the eight in the ark, unnamed in Scripture
 - [[Canaan (son of Ham)]] — his son, named twice in advance of the curse that falls on him, and
   absent from the scene that produces it
+- [[Nimrod]] — his grandson through Cush, and the one figure in the Table of Nations with a story
 
 ## Themes associated
 
@@ -109,3 +136,4 @@ to his name. See [[The Curse of Canaan and the Conquest]].
 - [[Covenant]]
 - [[Nakedness and Covering]]
 - [[Sin]]
+- [[The Nations]]

@@ -8,7 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the curse and its threefold refrain
-- Genesis 10:15–19 *(not yet ingested)* — Canaan's eleven descendants and the border of the land
+- [[The Table of Nations]] — Genesis 10:15–19, Canaan's eleven descendants and the border of the land,
+  set out without any reference to the curse
 - Genesis 15:16 — *"the iniquity of the Amorite is not yet full"*
 - Leviticus 18:24–30; 20:22–24 — the land vomiting out its inhabitants for what they did
 - Deuteronomy 7:1–5; 9:4–5; 20:16–18 — the conquest commanded, and its stated reason
@@ -26,6 +27,21 @@ holds. Three features of the text support it.
 **The gloss is doubled.** *"Ham is the father of Canaan"* is stated at 9:18 and again at 9:22, and
 nobody else's paternity is noted anywhere in the passage. The narrative works hard to get Canaan into
 a scene he takes no part in.
+
+**The next chapter supplies exactly the peoples the conquest will name.** Genesis 10:15–18 derives from
+Canaan his firstborn Sidon, then Heth, and the Jebusites, Amorites, Girgashites, Hivites, Arkites,
+Sinites, Arvadites, Zemarites, and Hamathites; 10:19 then draws the only border in the Table, *"from
+Sidon—as you go toward Gerar—to Gaza—as you go toward Sodom, Gomorrah, Admah, and Zeboiim—to Lasha."*
+Six of those eleven recur in the seven-nation formula of Deuteronomy 7:1 and Joshua 3:10, and the same
+list supplies the boundary promise of Genesis 15:18–21. The conquest's roster of enemies is in place
+before Abram has been called.
+
+**But the Table itself never invokes the curse**, and that cuts against the etiological reading as much
+as the roster supports it. Given the best possible opportunity to organize the peoples of the land
+under 9:25 — the very next chapter, on the very same person — Genesis instead gives Canaan a firstborn,
+eleven sons, and a surveyed frontier on precisely the same footing as Shem and Japheth, and says
+nothing about servitude. The etiology, if that is what 9:25 is, is not carried forward even one
+chapter. See [[The Table of Nations]].
 
 **The curse is repeated three times in three verses** (9:25, 26, 27) and is the only element common to
 all three lines of the oracle. Whatever else the oracle does, it is about Canaan.

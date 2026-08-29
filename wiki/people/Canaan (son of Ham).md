@@ -30,14 +30,22 @@ text never states an offence of his own.
 
 **The name is a land before it is a man, and that is the point of the episode.** *Kənaʿan* is the
 standard designation for the territory between the Jordan and the sea in Egyptian and Akkadian
-sources centuries before Israel, and it is the land the rest of the Torah is aimed at. Genesis 10:19
-will give its borders — *"from Sidon—as you go toward Gerar—to Gaza"*, and on toward Sodom and
-Gomorrah — and 10:15–19
-will derive from him Sidon, Heth, and the Jebusite, the Amorite, the Girgashite, the Hivite, the
-Arkite, the Sinite, the Arvadite, the Zemarite, and the Hamathite: which is to say, the peoples
-Israel will meet in the land. The curse and the conquest are the same word, and the wiki keeps the
-man and the territory on separate pages for that reason — the land takes `Canaan` when Genesis 10 is
-ingested, and the man keeps this page. See [[The Curse of Canaan and the Conquest]].
+sources centuries before Israel, and it is the land the rest of the Torah is aimed at. The curse and
+the conquest are the same word, and the wiki keeps the man and the territory on separate pages for
+that reason: the land is [[Canaan]], and the man keeps this page. See
+[[The Curse of Canaan and the Conquest]].
+
+**His eleven sons, and the only border in the Table.** [[The Table of Nations]] derives from him Sidon
+(*"his firstborn"*), Heth, and the Jebusites, Amorites, Girgashites, Hivites, Arkites, Sinites,
+Arvadites, Zemarites, and Hamathites (10:15–18) — which is to say, the peoples Israel will meet in the
+land, six of them recurring in the seven-nation formula of Deuteronomy 7:1 and Joshua 3:10. And it
+gives his territory a frontier, the only one drawn anywhere in the chapter: *"The border of the
+Canaanites was from Sidon—as you go toward Gerar—to Gaza—as you go toward Sodom, Gomorrah, Admah, and
+Zeboiim—to Lasha"* (10:19).
+
+**The Table does not mention the curse.** He is given a firstborn, eleven descendants, and a surveyed
+border, twenty verses after being consigned to servitude three times over, and on exactly the same
+footing as everyone else in the chapter. Genesis neither ratifies the oracle here nor withdraws it.
 
 **What Scripture does not do with him.** No conquest narrative, prophet, psalm, or epistle ever cites
 Noah's curse. When the Torah explains why the Canaanites are dispossessed it appeals to what they do
@@ -53,12 +61,14 @@ on six separate counts set out on [[Ham]] and on the passage page — happens ou
 - Cursed by Noah, three times in three verses, for an act attributed to his father —
   [[Noah's Sons and the Curse of Canaan]]
 - Father of Sidon, Heth, and the peoples of the land, whose border runs from Sidon to Gaza to Sodom
-  — Genesis 10:15–19 *(not yet ingested)*
+  — [[The Table of Nations]]
 
 ## Appears in
 
 - [[Noah's Sons and the Curse of Canaan]] — named six times in twelve verses, and never as the
   subject of a verb
+- [[The Table of Nations]] — eleven descendants and the chapter's only border, with no reference to
+  the curse
 
 ## Related people
 
@@ -74,3 +84,4 @@ on six separate counts set out on [[Ham]] and on the passage page — happens ou
 - [[Blessing]]
 - [[Judgment]]
 - [[Sin]]
+- [[The Nations]]

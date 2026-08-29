@@ -37,4 +37,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Noahic Commandments and the Council of Jerusalem]] | thread | Genesis 2:16–17 · Genesis 9:1–7 · Leviticus 17–18 · Acts 15:19–29 · Acts 21:25 · *Sanhedrin* 56a |
 | [[Naked and Ashamed - Genesis 3 and Genesis 9]] | parallel | Genesis 2:25 · Genesis 3:6–7, 21 · Genesis 9:20–25 · Genesis 19:30–38 |
 | [[The Curse of Canaan and the Conquest]] | thread | Genesis 9:25–27 · Genesis 10:15–19 · Genesis 15:16 · Leviticus 18:24–30 · Deuteronomy 9:4–5 · Joshua 9:22–27 · Judges 1:28–35 · 1 Kings 9:20–21 |
+| [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
+| [[The Table of Nations at Pentecost]] | typology | Genesis 10:1–32 · Genesis 11:1–9 · Acts 2:5–11 · Revelation 5:9 · Revelation 7:9 · Revelation 14:6 |
+| [[Nimrod and the Kingdoms of Shinar and Assyria]] | thread | Genesis 6:4 · Genesis 10:8–12 · Genesis 11:1–9 · 1 Chronicles 1:10 · Micah 5:6 · 2 Kings 17:5–23 · Daniel 1:1–2 |
 | [[The Vine and the Cup]] | thread | Genesis 9:20–21 · Genesis 19:30–38 · Numbers 6:1–4 · Psalm 104:15 · Proverbs 23:29–35 · Isaiah 5:1–7 · Jeremiah 25:15–29 · John 2:1–11 · John 15:1–8 · Matthew 26:27–29 · Ephesians 5:18 |

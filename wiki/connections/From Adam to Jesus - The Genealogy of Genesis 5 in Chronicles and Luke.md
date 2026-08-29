@@ -8,9 +8,12 @@ tags: [connection]
 ## Passages involved
 
 - **Genesis 5:1–32** — the register, with ages, fatherings, and deaths — [[From Adam to Noah]]
+- **Genesis 10:21–25** — [[The Table of Nations]]: Shem, Arpachshad, Shelah, Eber, Peleg, five
+  consecutive links of the same chain, given here without numbers and in segmented form
 - **Genesis 11:10–26** *(not yet ingested)* — the second ten-generation register, Shem to Abram,
   built on the same template
-- **1 Chronicles 1:1–4** — the same ten names, stripped of every number
+- **1 Chronicles 1:1–4**, and **1:17–27** — the same ten names, stripped of every number, and then
+  Shem's line likewise
 - **Matthew 1:1** *(not yet ingested)* — *"The book of the genealogy of Jesus Christ"*
 - **Luke 3:36–38** *(not yet ingested)* — the same ten names in reverse, from Jesus back to *"Adam,
   the son of God"*
@@ -19,6 +22,14 @@ tags: [connection]
 
 Genesis 5 is the first link in the longest chain the Bible draws, and the three later texts that
 pick it up each do something different with it.
+
+**Genesis 10 gives the same names twice over, in the other genealogical form.** Shem, Arpachshad,
+Shelah, Eber, and Peleg appear at 10:21–25 inside a *segmented* genealogy — branching, no ages, no
+deaths, everyone accounted for — and then again at 11:10–19 in the *linear* form, with an age at
+fatherhood, a remainder, and a line to follow. The chain that runs to Luke 3 is therefore laid down
+once as part of a map of seventy peoples and once as a single thread pulled out of it. Genesis puts
+the two immediately back to back, which is its way of saying that the election of one family happens
+inside a world already accounted for in full. See [[The Table of Nations]], [[Eber]], and [[Peleg]].
 
 **1 Chronicles 1:1–4 removes everything but the names.** The Chronicler opens his whole work —
 nine chapters of genealogy before a word of narrative — with *"Adam, Seth, Enosh, Kenan,
