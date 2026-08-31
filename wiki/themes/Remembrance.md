@@ -116,6 +116,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   at it, that I may remember the everlasting covenant"* (9:16)
 - [[Miserable Comforters and the Witness in Heaven]] — Job wanting his cry to have a permanent
   record and a witness on file, which is the same need approached from underneath
+- [[Bildad's Second Speech]] — the theme at its darkest, as a sentence: *"His memory shall perish
+  from the earth. He shall have no name in the street"* (18:17). In a world with no developed
+  afterlife, a remembered name and a surviving line are what a man has instead of immortality, and
+  Bildad's verdict takes both
+- [[I Know That My Redeemer Lives]] — the answer, one chapter later: *"Oh that my words were now
+  written! … That with an iron pen and lead they were engraved in the rock forever!"* (19:23–24).
+  Job wants a record rather than a memorial, because a record can still be entered as evidence — and
+  the book the reader is holding is the outcome of that exchange
 
 ## Related themes
 

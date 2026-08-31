@@ -369,6 +369,26 @@ does, it makes God a party with something at stake in the answer.
   Job and *"would maintain the right of a man with God"*, and the one asked to post bond for Job
   against himself. Whether that figure is God or a third party is unsettled; see
   [[The Witness in Heaven]].
+- **The God of [[Bildad's Second Speech]]** is not a character at all. Chapter 18 never names him
+  until the last verse, and every act in it is a passive with an unspoken agent: the light *shall be
+  put out*, the roots *shall be dried up*, sulfur *shall be scattered*, the wicked man *shall be
+  brought* to the king of terrors. Bildad's God is a mechanism, which is the deepest difference
+  between him and Job — Job will not stop using the second person even while accusing.
+- **The God of Job 19:6–13, 21**, in [[I Know That My Redeemer Lives]], is a besieging army and a
+  legal void: he subverts, throws a net, walls up the road, sets darkness in the paths, strips the
+  glory and takes the crown, plucks up hope like a tree, counts Job among his adversaries, and
+  brings troops to build a siege ramp against one man's tent. He is also the one who *"has put my
+  brothers far from me"* — the social death is attributed to him too. And *"the hand of God has
+  touched me"* (19:21) uses the accuser's own verb from 1:11 and 2:5, which Job never heard spoken.
+- **The God — or the kinsman — of Job 19:25** is the fourth and last officer Job reaches for, and
+  the only one drawn from family rather than court: *"I know that my Redeemer lives."* Every other
+  biblical use of *gōʾēl* as a divine title (Exodus 6:6, Isaiah 41:14, Proverbs 23:11) supports
+  reading it of God here, which would make this Job appealing from God to God for the second time
+  after 17:3. See [[The Redeemer and the Avenger of Blood]].
+- **The God of [[Zophar's Second Speech]]** is named three times (20:15, 23, 29) and does exactly
+  three things: he empties the wicked man's belly of what he swallowed, he rains wrath on him
+  mid-meal, and he appoints his heritage. Nothing else divine happens in twenty-nine verses. Where
+  Eliphaz's God keeps accounts and Bildad's is a mechanism, Zophar's is purely an executioner.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -441,6 +461,12 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech
+- [[Bildad's Second Speech]] — as an unnamed mechanism: twenty verses of passives with no stated
+  agent, and his name only in the last line
+- [[I Know That My Redeemer Lives]] — besieger, estranger of every relative Job has, and — at 19:25,
+  if the Redeemer is God — the officer Job asks to take his case against God
+- [[Zophar's Second Speech]] — purely as executioner: he empties the belly, rains the wrath, and
+  appoints the heritage
 
 ## Related people
 

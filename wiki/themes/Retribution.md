@@ -25,8 +25,16 @@ Job's fortunes, which is retribution's own ending — but to break as a *diagnos
 can be run backwards from a man's condition to a verdict on his life. The friends run it backwards.
 God tells them at 42:7 they did not speak rightly.
 
-The failure mode is worth stating exactly, because the doctrine is not falsified by a single hard
-case: it is made **unfalsifiable** by its defenders. When Job produces evidence against it, the
+There is a second failure mode, visible in the second cycle, and it is self-inflicted. Under
+pressure the claim retreats: it starts as *the wicked suffer* and becomes *the wicked suffer
+eventually*. Zophar makes the retreat explicit — *"the triumphing of the wicked is short, the joy of
+the godless but for a moment"* (20:5) — and the retreat is fatal, because a doctrine about timing
+cannot be run backwards from a man's present condition. Job takes exactly that ground in chapter
+21, where the wicked grow old, keep their children, and are buried with honours. See
+[[The Prosperity of the Wicked]].
+
+The first failure mode is worth stating exactly, because the doctrine is not falsified by a single
+hard case: it is made **unfalsifiable** by its defenders. When Job produces evidence against it, the
 friends do not weigh the evidence; they treat his production of it as further evidence for the
 verdict. *"Your own mouth condemns you, and not I"* (15:6). *"You have shriveled me up. This is a
 witness against me"* (16:8) is Job seeing exactly what has happened to him: the punishment is being
@@ -89,6 +97,14 @@ verdicts.
   making it immune to counter-evidence
 - [[Miserable Comforters and the Witness in Heaven]] — 16:8, the sufferer watching his own body
   being entered as testimony against him
+- [[Bildad's Second Speech]] — the doctrine with everything else stripped off: no advice, no call
+  to repent, no promise of restoration, and no offence named in twenty-one verses. Retribution
+  stated as physics, with 18:8's *"by his own feet"* keeping God's hands clean
+- [[Zophar's Second Speech]] — the doctrine conceding the case it needs. *"The triumphing of the
+  wicked is short"* (20:5) grants that they triumph, which moves the claim to *eventually* and
+  destroys the inference it was supposed to license
+- [[I Know That My Redeemer Lives]] — the doctrine not attacked but bypassed: Job's answer to a
+  portrait of the wicked man's ruin is to display his own and ask what it proves
 
 ## Related themes
 

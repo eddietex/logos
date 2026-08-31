@@ -47,13 +47,31 @@ house, his bed spread in the darkness, corruption addressed as *"You are my fath
 *"My mother"* and *"my sister"*. The speech ends by asking whether his hope will go down with him to
 the gates of Sheol, or descend together into the dust — and does not answer.
 
-The exception in Job is 19:25–27, where he seems to expect to see God after his skin is destroyed;
-the Hebrew of those verses is among the most broken in the Bible, and what it claims is genuinely
-disputed. That passage gets its treatment when Job 19 is ingested.
+The apparent exception is 19:25–27, now ingested as [[I Know That My Redeemer Lives]], where Job
+seems to expect to see God *"after my skin is destroyed"*. The Hebrew of those verses is among the
+most broken in the Bible — the disputed clause turns on whether *mibbəśārî* means *from within my
+flesh* or *away from* it — and the wiki's reading is that Job most probably means vindication
+before he dies, which is what the epilogue delivers. The verse cannot carry the weight the
+resurrection tradition has put on it, and the pressure it registers is real; both are set out on
+[[The Hope of Resurrection in the Old Testament]].
+
+Sheol is not named in Job 18–20, and one line in that stretch is worth marking anyway.
+[[Bildad's Second Speech]] has the wicked man *"brought to the king of terrors"* (18:14) — a
+passive, under escort, to a sovereign. Sheol in the rest of Job is a place without a ruler, dark
+and dusty and administratively empty, and 18:14 is the one verse in the book that gives death a
+throne. Whether *melek ballāhôt* is a figure, a superlative, or a demythologised borrowing from the
+Canaanite Mot is discussed on [[Bildad's Second Speech]]; what it is not is the Sheol Job describes,
+and the difference is the difference between a doctrine used to frighten and a place a man expects
+to go.
 
 ## Appears in
 
 - [[Miserable Comforters and the Witness in Heaven]] — Job 17:13, 16, closing the speech.
+- [[I Know That My Redeemer Lives]] — not named, but the passage that most tests what the wiki says
+  here: 19:25's Redeemer standing *"upon the earth"* is literally *upon dust*, the same word that
+  ended the previous speech at 17:16.
+- [[Bildad's Second Speech]] — not named either, and the source of the book's one crowned Death,
+  *"the king of terrors"* (18:14).
 
 ## Related places
 

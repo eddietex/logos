@@ -34,8 +34,14 @@ details in Scripture.
 - **Job 8:4** — Bildad: *"If your children have sinned against him, he has delivered them into the
   hand of their disobedience."* The friends' theology applied to ten dead young people, offered as
   consolation.
-- **Job 19:17** — Job counts their absence among his humiliations, along with his wife's
-  estrangement.
+- **Job 18:19** — Bildad a second time, and this time without naming them: *"He shall have neither
+  son nor grandson among his people, nor any remaining where he lived"*, listed among the standard
+  fittings of a wicked man's ruin. See [[Bildad's Second Speech]].
+- **Job 19:17** — *"My breath is offensive to my wife. I am loathsome to the children of my own
+  mother."* The Hebrew of the second clause is *bənê biṭnî*, literally *the sons of my belly*, and
+  who it refers to is disputed — see the Notes. It is in any case a verse about Job's nearest
+  surviving kin recoiling from him, in a chapter that then asserts a kinsman-redeemer; see
+  [[I Know That My Redeemer Lives]].
 - **Job 29:5** — his lament for the days *"when the Almighty was yet with me, and my children were
   around me."*
 - **Job 42:13–15** — seven sons and three daughters again. Only here the daughters are named —
@@ -68,6 +74,9 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
 ## Appears in
 
 - [[Job of Uz]] — introduced, feasting, and the object of their father's standing sacrifice.
+- [[Bildad's Second Speech]] — 18:19, the second use of their deaths as evidence, now anonymous.
+- [[I Know That My Redeemer Lives]] — 19:17, and the empty place their absence leaves where a
+  *gōʾēl* would have to stand.
 
 ## Related people
 
@@ -84,7 +93,8 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
 - [[Suffering]] — the part of Job's suffering that the epilogue does not reverse.
 - [[Retribution]] — Bildad's use of their deaths at 8:4 is the doctrine at its most brutal, and the
   clearest demonstration that it is not merely a theory about God but a way of speaking to the
-  bereaved.
+  bereaved. At 18:19 he does it a second time, anonymously, which is worse: a childless line is
+  simply itemised among a wicked man's expected losses.
 - [[Blessing]] — counted among Job's goods in 1:2–3 and restored in 42:13, which raises the whole
   question of what it means for a person to be counted as a blessing.
 - [[Life and Death]] — ten deaths in one sentence, and no explanation offered to anyone inside the
@@ -97,6 +107,16 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   deliberate — the ten are a count, part of the inventory the accuser is pointing at when he says
   *"all that he has"* (1:11). The naming of the second three daughters at 42:14 lands the harder
   for it.
+- **Who are *bənê biṭnî* at 19:17?** The phrase is literally *the sons of my belly*, and there are
+  three readings. **Job's brothers** — *the sons of the womb that bore me*, taking *biṭnî* as the
+  mother's womb by association; this is what the WEB's *"the children of my own mother"* adopts, and
+  it fits verse 13's *"He has put my brothers far from me"*. **Job's own children** — the natural
+  sense of the possessive, which would make the verse a lament for the dead; against it, they are
+  dead and cannot find him loathsome. **Job's grandchildren or wider clan** — an attempt to keep the
+  possessive and supply living referents, with no support elsewhere in the book. The wiki takes the
+  first, notes that some editions and older commentaries take the second, and flags that a
+  translation which renders *"the children of my own mother"* has already made the choice for the
+  reader without marking it.
 - **Jemimah, Keziah, Keren Happuch.** *Dove*, *cassia* (a cinnamon-like spice), and *horn of
   eye-paint* — a bird and two cosmetics, and the only personal names in the book that are plainly
   Hebrew rather than archaic or foreign. Giving daughters an inheritance alongside sons (42:15) is

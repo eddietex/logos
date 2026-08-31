@@ -83,6 +83,11 @@ what Job is asking for.
 
 - [[Miserable Comforters and the Witness in Heaven]] — the witness, the voucher, and the demand for
   surety, in eight verses
+- [[I Know That My Redeemer Lives]] — the fourth and last officer, and the only one not drawn from
+  the courtroom. A *gōʾēl* is the nearest able kinsman on whom a duty falls by blood, and Job
+  asserts one in the verse after eight verses proving he has no kin left
+- [[The Redeemer and the Avenger of Blood]] — what the word carries: buying back land, redeeming a
+  relative out of slavery, marrying a widow to raise a name, and avenging blood
 
 ## Related themes
 

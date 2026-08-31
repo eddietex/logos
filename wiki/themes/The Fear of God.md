@@ -82,6 +82,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   verdict, and shown in practice in the sacrifices of 1:5
 - [[Noah and the Flood]] — Genesis 6:9's *"walked with God"* is the Genesis idiom for the same
   settled orientation, in a book that does not yet use this vocabulary
+- [[Bildad's Second Speech]] — the exact inverse of 1:1, delivered as a verdict: *"This is the
+  place of him who doesn't know God"* (18:21), spoken in a room containing one candidate and the
+  wrong one
 
 ## Related themes
 

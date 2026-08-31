@@ -46,3 +46,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
+| [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 |
+| [[The Redeemer and the Avenger of Blood]] | thread | Job 16:18–19 · Job 19:25 · Leviticus 25:25, 47–49 · Numbers 35:12, 19–27 · Ruth 3:9–4:10 · Proverbs 23:10–11 · Exodus 6:6 · Isaiah 41:14; 43:14; 44:6 · Genesis 4:10 · Revelation 6:9–10 |
+| [[The Hope of Resurrection in the Old Testament]] | thread | Job 7:9 · Job 14:7–14 · Job 19:25–27 · Psalm 49:15 · Psalm 73:24 · Isaiah 25:8; 26:19 · Ezekiel 37:1–14 · Daniel 12:2–3 · Matthew 22:23–33 · 1 Corinthians 15:12–57 |
+| [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 |

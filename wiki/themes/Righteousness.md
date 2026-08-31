@@ -98,6 +98,9 @@ about.
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16:17, *"there is no violence in my hands,
   and my prayer is pure"*: the claim the friends hear as blasphemy and the narrator has certified in
   advance
+- [[I Know That My Redeemer Lives]] — the claim in its most careful form. 19:4's *"If it is true
+  that I have erred, my error remains with myself"* is not a confession and not a denial; it is a
+  refusal of the friends' standing to hear either
 
 ## Related themes
 

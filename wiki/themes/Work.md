@@ -81,6 +81,9 @@ the seventh day a blessing. See [[Sabbath]].
   bricks, and burn them thoroughly"*, with an aside explaining the technique to readers who build in
   stone. Human making at its most competent, and stopped for what it was for rather than for what it
   was
+- [[Zophar's Second Speech]] — 20:18's *"That for which he labored he shall restore, and shall not
+  swallow it down"*: labour whose fruit is confiscated before it can be enjoyed, the wisdom
+  tradition's recurring nightmare (Ecclesiastes 2:18–21, Deuteronomy 28:30–33)
 
 ## Related themes
 

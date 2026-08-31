@@ -155,6 +155,16 @@ rule are the conditions the rest of Scripture is set in.
 - [[Miserable Comforters and the Witness in Heaven]] — the courtroom with no one to hold the offices:
   a defendant whose body is entered as testimony, a judge who is also the plaintiff's assailant, and
   a witness Job can only assert
+- [[Bildad's Second Speech]] — the template deleted: no coming, no question, no hearing, and no
+  provision, only a sentence executing itself on a category. What Bildad describes is a tariff, not
+  a trial
+- [[Zophar's Second Speech]] — judgment as a stored inheritance rather than an event:
+  *"All darkness is laid up for his treasures"* (20:26), *"the heritage appointed to him by God"*
+  (20:29), and heaven and earth called as the covenant lawsuit's two witnesses (20:27)
+- [[I Know That My Redeemer Lives]] — the demand for a proceeding at its sharpest (*"I cry out of
+  wrong, but I am not heard. I cry for help, but there is no justice"*, 19:7) and the one prediction
+  in the dialogue that comes true (*"that you may know there is a judgment"*, 19:29, against
+  42:7)
 
 ## Related themes
 

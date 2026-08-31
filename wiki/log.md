@@ -1671,3 +1671,151 @@ scaffolding written into the files by the Genesis 10 ingest. All removed. They w
    character-for-character against the raw file.
 
 `scripts/link-check.sh` clean, exit 0, baseline 64.
+
+## [2026-08-31] ingest | Job 18.1-21 — Bildad's Second Speech
+
+Unattended run (`/ingest auto Job 18, 19, and 20`). The argument named three chapters, so this run
+ingested three pericopes in one pass rather than the usual one; they are logged as three entries.
+The target overrode the mechanical scan, which would have taken Genesis (first `in-progress` book in
+`wiki/books/index.md`) and then Job. `raw/bible/Job.md` was already present, so no fetch. Step 2's
+discussion went into the passage pages.
+
+**Created**
+
+- `wiki/passages/Job/Bildad's Second Speech.md` — Job 18:1–21. Four verses of rebuke and seventeen
+  of set piece, with the reading that the speech's most important feature is its omissions: nothing
+  in it answers the witness in heaven, the demand for a pledge, 16:17's clean hands, or 17:15's
+  question about hope, and unlike chapter 8 it offers no way back. Also worked: 18:4 handing Job's
+  own verb *tear* (16:9) back with the subject changed; the six snare-words of 18:8–10 and why
+  Bildad needs the trap self-entered; *"the firstborn of death"* and *"the king of terrors"* with
+  the three readings (superlative, personification, demythologised Mot) and no adjudication;
+  18:19's second anonymous use of the dead children; and 18:17's erased name against 19:23–24, which
+  the existence of the book settles.
+- `wiki/connections/The Lamp of the Wicked Put Out.md` — 18:5–6 against Proverbs 13:9, 20:20, 24:20,
+  Job 21:17 and 29:3, and the dynastic *lamp* of 1 Kings 11:36 and 2 Kings 8:19. The point of the
+  page is that Bildad misquotes nothing: a proverb read backwards off a man's condition stops being
+  wisdom without a single word changing.
+
+**Revised**
+
+- `wiki/books/Job.md` — box checked and linked; the `## Structure` line for 15–21 now records that
+  the friends stop arguing in the second cycle, not the third.
+- `wiki/people/Bildad the Shuhite.md` — the *In the ingested passages* section largely rewritten
+  around chapter 18; his *argues by reversal* method named; the Notes bullet on chapter 25 amended to
+  distinguish the intact *pattern* of cycle two from its already-failed *argument*.
+- `wiki/people/God.md` — a new bullet: the God of chapter 18 is not a character but a mechanism,
+  twenty verses of passives with no stated agent and his name only in the last line.
+- `wiki/people/Job's Children.md` — 18:19 added, and the Retribution entry extended to say why the
+  anonymous use is worse than 8:4's named one.
+- `wiki/places/Sheol.md` — 18:14 marked as the one verse in the Bible that gives Death a throne, and
+  noted as *not* the Sheol Job describes.
+- Themes: `Retribution`, `Judgment`, `Sin`, `Curse`, `Remembrance`, `Life and Death`, `Wisdom`,
+  `The Fear of God`, `Suffering`, `Hope`.
+
+## [2026-08-31] ingest | Job 19.1-29 — I Know That My Redeemer Lives
+
+**Created**
+
+- `wiki/passages/Job/I Know That My Redeemer Lives.md` — Job 19:1–29. The page's organising claim is
+  that the famous verse is unreadable detached from the twenty that precede it: the siege of 19:7–12,
+  the eight verses of social death in 19:13–20, the one plea for pity in the book (19:21), and the
+  wish for words cut into rock. Full apparatus on 19:25–27 — what is certain (*gōʾălî ḥay*, and that
+  Job says he *knows*), what is broken (19:26a's subjectless plural verb and antecedentless *zōʾt*),
+  and the three readings with their costs; the wiki prefers vindication *before* death and says so.
+  Also: 19:6 taking Bildad's net and reassigning the agent; 19:21's *"the hand of God has touched
+  me"* using the accuser's own verb from 1:11 and 2:5, which Job never heard; and 19:29 as the one
+  prediction in the dialogue that comes true.
+- `wiki/connections/The Redeemer and the Avenger of Blood.md` — the four offices of the *gōʾēl* and
+  why the word is the right one for a man who has just proved he has no kin, plus the binding of
+  19:25 to 16:18's uncovered blood through the *gōʾēl haddām*.
+- `wiki/connections/The Hope of Resurrection in the Old Testament.md` — Job 19:25–27 among the thin
+  set of Hebrew Bible texts read as reaching past death, with Sheol's default position, the late and
+  corporate origin of the hope, and the argument that assuming the resurrection reading of Job 19
+  dissolves the book's problem and makes the whirlwind inexplicable.
+
+**Revised**
+
+- `wiki/books/Job.md` — box checked and linked.
+- `wiki/people/Job (person).md` — the overview extended through chapter 19; a new paragraph on why
+  the fourth officer is not a legal one; the wife's second appearance (19:17) recorded; the
+  *hearing, not relief* section given its one exception, 19:21.
+- `wiki/people/Bildad the Shuhite.md` — the point-by-point reply recorded.
+- `wiki/people/God.md` — besieger, estranger of every relative Job has, and the Redeemer question.
+- `wiki/people/Job's Children.md` — 19:17 added, with the *bənê biṭnî* crux (see judgment calls).
+- `wiki/places/Sheol.md` — the *That passage gets its treatment when Job 19 is ingested* placeholder
+  resolved; 19:25's *"upon the earth"* noted as literally *upon dust*, the word that closed 17:16.
+- `wiki/connections/The Witness in Heaven.md` — 19:25–27 linked to its page, and a new paragraph on
+  why the fourth office differs in kind from the first three (a court that does not exist, versus a
+  relative who shows up).
+- `wiki/connections/Do Not Cover My Blood.md` — a bullet joining 16:18 to 19:25 through the avenger
+  of blood.
+- Themes: `Mediation and Advocacy`, `Hope`, `Suffering`, `Righteousness`, `Judgment`, `Vengeance`,
+  `Life and Death`, `Remembrance`, `Blood`, `Retribution`.
+
+## [2026-08-31] ingest | Job 20.1-29 — Zophar's Second Speech
+
+**Created**
+
+- `wiki/passages/Job/Zophar's Second Speech.md` — Job 20:1–29, and the last thing Zophar says in the
+  book. Three things the page argues: the thesis at 20:5 is a **concession** that loses the argument
+  (*the wicked suffer* becomes *the wicked suffer eventually*, which cannot be run backwards off a
+  man's present ruin); the digestive metaphor of 20:12–19 is the friends' closest approach to saying
+  sin is intrinsically destructive; and 20:19 is the first specific offence anyone in the book names,
+  two chapters before Eliphaz makes it personal and invents the details at 22:6–9. Also marked:
+  20:27 calling heaven and earth — Job's own two witnesses at 16:18–19 — for the prosecution.
+- `wiki/connections/The Prosperity of the Wicked.md` — the second cycle's three set pieces (15:20–35,
+  18:5–21, 20:4–29) against Job 21, Psalm 37, Psalm 73, Jeremiah 12, Habakkuk 1, Malachi 3, and
+  Ecclesiastes 8, with the observation that nobody in the Hebrew Bible resolves it by denying the
+  observation — only by relocating where the accounting closes.
+
+**Revised**
+
+- `wiki/books/Job.md` — box checked and linked; `wiki/books/index.md` now reads Job 6 / 32.
+- `wiki/people/Zophar the Naamathite.md` — the *In the ingested passages* section rewritten around
+  chapter 20, including the withdrawal of everything he offered in chapter 11.
+- `wiki/people/Eliphaz the Temanite.md` — the trajectory from 20:19 to his own 22:6–9 recorded.
+- `wiki/people/God.md` — the God of chapter 20 as purely an executioner.
+- Themes: `Retribution` (a new paragraph on the second failure mode, the retreat to *eventually*),
+  `Sin`, `Judgment`, `Pride and Self-Exaltation`, `Work`, `Life and Death`, `Wisdom`, `Suffering`.
+- All four category indexes and `wiki/index.md` (20 passages · 47 people · 15 places · 34 themes ·
+  46 connections). No new people, places, or themes were needed for any of the three pericopes.
+
+**Judgment calls made unattended, listed for review**
+
+1. **Three pericopes in one invocation.** The skill's rule is one pericope per run; the argument
+   named three chapters, and the requested scope won. Each got a full pass and its own log entry.
+2. **All three pericope boundaries were kept as the book page planned them** — 18, 19, and 20 whole,
+   one chapter each. No boundary was redrawn. The chapter divisions and the speech divisions coincide
+   exactly through this stretch, which is not true earlier in the book (16:1–17:16 spans one).
+3. **No new person, place, or theme page was created.** The three chapters name nobody new; Job's
+   wife appears at 19:17 and is handled on `Job (person)` and `Job's Children` rather than given a
+   page, on the ground that the book gives her two lines, no name, and no action. Sheol is not named
+   in any of the three chapters and the existing page was extended rather than the passages linking
+   a place that is not there.
+4. **Four connection pages for three chapters**, which is more than usual. Job 19 got two because
+   the *gōʾēl* and the afterlife question are separable and each has a canon-wide thread; Job 18 and
+   Job 20 got one each. `The Prosperity of the Wicked` deliberately covers Job 21 and 27 in advance
+   with *(not yet ingested)* markers, since the second cycle's set pieces cannot be assessed without
+   Job's answer to them.
+5. **`The Hope of Resurrection in the Old Testament`, not a title naming Job.** The thread is
+   canon-wide and Job 19 is one contested member of it; naming the page after Job 19 would have
+   overstated the verse's weight, which is the page's own argument against the standard reading.
+6. **The wiki takes a position on Job 19:25–27 and says which.** All three readings are set out with
+   their costs on the passage page; the preferred reading is vindication before death, on the
+   evidence of 7:9, 14:12, and the epilogue. This is a preference, not an adjudication, and it is
+   marked as one in both places it appears.
+7. **A crux was found and flagged rather than inherited.** `Job's Children` previously read Job 19:17
+   as Job counting his dead children's absence. The Hebrew is *bənê biṭnî*, *the sons of my belly*,
+   and the WEB's *"the children of my own mother"* has already chosen one of three readings without
+   marking it. Both pages now set out all three (brothers, own children, wider clan), take the first,
+   and say why the second is hard: the dead cannot find a man loathsome, and the whole catalogue is
+   about the living turning away.
+8. **Quote accuracy.** Every block-quoted verse on the three passage pages was verified
+   character-for-character against `raw/bible/Job.md` by script. Inline quotations of other Job
+   chapters were checked the same way, and six were corrected in the process — 12:7 (*"ask the
+   animals, now"*), 8:21 (*"He will still fill your mouth with laughter"*), 21:17 (*"How often is it
+   that the lamp of the wicked is put out…"*), 21:33 (*"All men shall draw after him"*), 22:7, and
+   1:12 (*"all that he has is in your power"*, not *"he is in your power"*). Quotations of books not
+   yet in `raw/` remain unverifiable against a source in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64. No dangling links were left deliberately.

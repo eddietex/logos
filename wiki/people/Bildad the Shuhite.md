@@ -28,7 +28,29 @@ the peoples east and south-east of Canaan rather than in Israel.
 
 ## In the ingested passages
 
-Bildad does not speak in Job 15–17. He is present, and he is included twice.
+Bildad's second speech is now ingested as [[Bildad's Second Speech]], and it is the fullest sample
+of him the wiki has. Four verses of irritation, seventeen verses on the fate of the wicked, and no
+reply of any kind to what Job had just said — not to the witness in heaven, not to the demand for a
+pledge, not to *"there is no violence in my hands"*, and not to the plea of a dying man. Chapter 8
+had at least ended with an offer (*"he will yet fill your mouth with laughter"*); chapter 18 ends
+with sulfur scattered on a habitation and a name erased from the street.
+
+Three things about the speech are worth carrying to any later Bildad material. **He argues by
+reversal.** Job said at 16:9 that God *tore* him in his wrath; 18:4 hands the verb back —
+*"You who tear yourself in your anger"* — and the theological problem dissolves into a
+psychological one. Job said at 14:7 that a felled tree has hope of sprouting; 18:16 dries the roots
+and cuts the branch. **He needs the trap to be self-entered.** The six snare-words of 18:8–10 are
+built around *"he is cast into a net by his own feet"*, because a snare laid for an innocent man
+would be Job's case exactly. **And he uses the dead children twice.** At 8:4 he named them; at
+18:19 — *"neither son nor grandson among his people"* — he lists them among a wicked man's standard
+fittings, which is worse.
+
+His conclusion, *"This is the place of him who doesn't know God"* (18:21), is the precise inverse of
+the narrator's opening verdict on Job, *"one who feared God, and turned away from evil"* (1:1). He
+is not saying anything false about the wicked. He has no way to discover that he is not looking at
+one.
+
+In Job 15–17 he does not speak. He is present, and he is included twice.
 
 In [[Eliphaz's Second Speech]] he is inside Eliphaz's *"we"*: *"What do you know, that we don't
 know? … With us are both the gray-headed and the very aged men"* (15:9–10). The friends argue as a
@@ -39,14 +61,22 @@ are **all** miserable comforters!"* (16:2) and *"as for **you all**, come on now
 find a wise man among you"* (17:10). Bildad's own second speech follows immediately in chapter 18,
 and it takes the invitation literally.
 
+And he is answered in kind. [[I Know That My Redeemer Lives]] opens by returning his own *"How
+long"* (19:2 against 18:2), reassigns his net to God (*"God … has surrounded me with his net"*,
+19:6), grants his uprooted tree and names the gardener (*"My hope he has plucked up like a tree"*,
+19:10), and answers his erased name with the wish that Job's words be cut into rock *"forever"*
+(19:23–24). The reader is holding the result of that last exchange: Job's words were written in a
+book, and Bildad's name survives inside them.
+
 ## Timeline / key events
 
 - **Job 2:11–13** — arrives with the others and sits seven days in silence.
 - **Job 8:1–22** — the first speech: God does not pervert justice; your children got what they
   earned; inquire of past generations; the hypocrite's hope perishes.
 - **Job 15–17** — silent, but included in Eliphaz's *"we"* and in Job's *"you all"*.
-- **Job 18:1–21** — the second speech: twenty-one verses on the fate of the wicked, with the light
-  in his tent put out and terror pursuing him.
+- **Job 18:1–21** — [[Bildad's Second Speech]]. Twenty-one verses on the fate of the wicked: the
+  lamp put out, six snares in four verses, the firstborn of death, the march to the king of terrors,
+  sulfur on the habitation, and a name erased from the street.
 - **Job 25:1–6** — the third speech, six verses: *"How then can man be just with God? Or how can he
   who is born of a woman be clean? … how much less man, who is a worm, the son of man, who is a
   worm!"* The last thing any of the friends says.
@@ -57,6 +87,11 @@ and it takes the invitation literally.
 
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
+- [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.
+- [[I Know That My Redeemer Lives]] — answered point by point: his *"How long"*, his net, his tree,
+  and his erased name.
+- [[Zophar's Second Speech]] — whose closing formula (*"the portion of a wicked man from God"*,
+  20:29) matches his own at 18:21, and whose speech is his again in different imagery.
 
 ## Related people
 
@@ -71,7 +106,12 @@ and it takes the invitation literally.
 - [[Wisdom]] — as pure inheritance: *"we are but of yesterday, and know nothing"* (8:9).
 - [[Sin]] — 25:4–6, the third and most extreme of the book's *"what is man"* statements; see
   [[What Is Man That He Should Be Clean]].
-- [[Judgment]] — the whole of chapter 18.
+- [[Judgment]] — the whole of chapter 18, and specifically judgment with the judicial procedure
+  removed: no coming, no question, no hearing, no provision, only a sentence executing itself on a
+  category.
+- [[Remembrance]] — 18:17's *"His memory shall perish from the earth. He shall have no name in the
+  street"*, the cruellest sentence available in a world with no developed afterlife.
+- [[Life and Death]] — the extinguished lamp and the escorted march to the king of terrors.
 
 ## Notes
 
@@ -87,5 +127,7 @@ and it takes the invitation literally.
   breakdown *is* the point, dramatizing the exhaustion of the friends' position, with Bildad
   managing a short reprise and Zophar unable to speak at all. The wiki takes no position and will
   record the arguments on the passage pages when chapters 25–27 are ingested; the observation worth
-  keeping now is that the second cycle, where Job 15–17 sits, is the last one in which the pattern
-  is intact.
+  keeping now is that the second cycle, where Job 15–17 sits, is the last one in which the *pattern*
+  is intact — the three speakers all speak, in order, at length. The *argument*, on the wiki's
+  reading, has already failed by then: chapters 18 and 20 are two recitations of the same doctrine
+  that engage nothing Job said in chapters 16, 17, or 19. See [[The Prosperity of the Wicked]].

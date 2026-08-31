@@ -27,7 +27,32 @@ site in northern Arabia or Edom that has left no other trace.
 
 ## In the ingested passages
 
-Zophar does not speak in Job 15–17, and is included in the same two ways as Bildad.
+His second and final speech is now ingested as [[Zophar's Second Speech]], and it is the last thing
+he ever says. Twenty-nine verses, and the only concession any of the three makes to being provoked:
+*"I have heard the reproof which puts me to shame. The spirit of my understanding answers me"*
+(20:3), replying to Job's warning about the sword at 19:29.
+
+Three features of it define him. **The metaphor is digestive, and it is his own.** Wickedness sweet
+in the mouth, hidden under the tongue, saved and savoured, and then cobra venom in the belly;
+riches swallowed and vomited up; wrath raining on a man in the act of eating. Nowhere else do the
+friends come as close to saying that sin is intrinsically destructive rather than merely penalised.
+**The thesis concedes too much.** *"The triumphing of the wicked is short"* (20:5) grants that they
+triumph, and moves the claim from *the wicked suffer* to *the wicked suffer eventually*, which
+cannot support reading a verdict off a man's present ruin. Job dismantles exactly that in chapter
+21. **And 20:19 drafts the indictment**: *"For he has oppressed and forsaken the poor. He has
+violently taken away a house"* is the first actual offence anyone in the book names, still in the
+third person. Two chapters later [[Eliphaz the Temanite]] makes it personal and invents the details
+(22:6–9).
+
+What is missing from chapter 20 is everything he offered in chapter 11. No call to repent, no *"put
+away unrighteousness"*, no *"you shall be secure"*. He came with a door and left without one.
+
+Verse 27 is worth marking on its own: *"The heavens shall reveal his iniquity. The earth shall rise
+up against him."* Four chapters earlier Job had summoned the same two witnesses for the defence —
+*"Earth, don't cover my blood … my witness is in heaven"* (16:18–19). Neither man can hear the
+other's use of the figure.
+
+In Job 15–17 he does not speak, and is included in the same two ways as Bildad.
 
 He is inside Eliphaz's *"we"* and *"with us"* at 15:9–10 in [[Eliphaz's Second Speech]], and inside
 Job's plurals at 16:2 and 17:10 in [[Miserable Comforters and the Witness in Heaven]]. Job's *"You
@@ -44,8 +69,10 @@ than his iniquity deserves. The reader knows which of the two is right.
 - **Job 11:1–20** — the first speech: God knows worthless men, you are getting less than you
   deserve, put away iniquity and you will forget your misery.
 - **Job 15–17** — silent, and included in the friends' *"we"* and Job's *"you all"*.
-- **Job 20:1–29** — the second speech: *"the triumphing of the wicked is short"*, and twenty-nine
-  verses on how short.
+- **Job 20:1–29** — [[Zophar's Second Speech]]. *"The triumphing of the wicked is short"*, and
+  twenty-nine verses on how short: the ascent to the clouds and the fall to the dungheap, the
+  swallowed riches vomited up, wrath raining on a man mid-meal, and heaven and earth called as
+  witnesses for the prosecution.
 - **Job 21:1–34** — answered directly by Job's *"Why do the wicked live, become old, yes, and grow
   mighty in power?"*, which is the book's frontal rebuttal of everything Zophar has just said.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
@@ -55,6 +82,11 @@ than his iniquity deserves. The reader knows which of the two is right.
 
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
+- [[Zophar's Second Speech]] — his own, and his last.
+- [[I Know That My Redeemer Lives]] — the speech whose closing threat (19:28–29) provokes him, and
+  whose plea for pity (19:21) he ignores.
+- [[Bildad's Second Speech]] — the speech his own repeats in different imagery, with a matching
+  closing formula.
 
 ## Related people
 
@@ -70,8 +102,15 @@ than his iniquity deserves. The reader knows which of the two is right.
   it.
 - [[Wisdom]] — 11:7–9, *"Can you fathom the mystery of God? … deeper than Sheol"*, a genuinely fine
   passage on divine inscrutability, deployed to close down a question rather than to open one.
-- [[Judgment]] — the whole of chapter 20.
+- [[Judgment]] — the whole of chapter 20, and specifically judgment as a stored inheritance:
+  *"All darkness is laid up for his treasures"* (20:26), *"the heritage appointed to him by God"*
+  (20:29).
 - [[Suffering]] — as a receipt, and a discounted one.
+- [[Sin]] — 20:12–15, sin as something eaten for the taste of it and then acting as poison in the
+  body that swallowed it.
+- [[Pride and Self-Exaltation]] — 20:6–7, the head in the clouds and the perishing *"like his own
+  dung"*.
+- [[Work]] — 20:18, labour whose fruit is confiscated before it can be enjoyed.
 
 ## Notes
 

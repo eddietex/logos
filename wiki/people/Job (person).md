@@ -27,13 +27,16 @@ belongs to the prose frame. This gives the book its reach: the problem is posed 
 before it is a covenantal one.
 
 The wiki has him from two directions so far: the five verses of [[Job of Uz]] that introduce him
-before anything happens, and then, forty chapters of argument in, the man on the other end of
-Eliphaz's second speech and the speaker of the reply that runs from Job 16:1 to 17:16. That reply
-is where the two poles of his character are furthest apart. He accuses God of tearing him like a
-beast, dashing him to pieces, and setting him up as an archery target — and eleven verses later
-declares *"my witness is in heaven"* and asks that figure to argue his case against God. The
-book's final verdict on him (42:7, *"you have not spoken of me the thing that is right, as my
-servant Job has"*) is delivered to the friends, and it commends the man who said both.
+before anything happens, and then, forty chapters of argument in, the second cycle of the dialogue
+— the man on the other end of three friends' speeches and the speaker of the two replies that run
+from Job 16:1 to 17:16 and through the whole of chapter 19. Those replies are where the two poles
+of his character are furthest apart. He accuses God of tearing him like a beast, dashing him to
+pieces, and setting him up as an archery target — and eleven verses later declares *"my witness is
+in heaven"* and asks that figure to argue his case against God. Three chapters on he says God has
+walled up his road, stripped his crown, plucked up his hope like a tree, and driven off every human
+being who ever loved him — and then, out of that, *"I know that my Redeemer lives."* The book's
+final verdict on him (42:7, *"you have not spoken of me the thing that is right, as my servant Job
+has"*) is delivered to the friends, and it commends the man who said all of it.
 
 ## What he holds to, and what he gives up
 
@@ -57,7 +60,15 @@ to make.
 
 **What he wants is a hearing, not relief.** Every legal figure he reaches for — the umpire of 9:33,
 the witness and voucher of 16:19, the surety of 17:3, the Redeemer of 19:25 — is an officer of a
-trial, not a physician. He asks to be answered far more often than he asks to be healed.
+trial, not a physician. He asks to be answered far more often than he asks to be healed. The one
+exception is the exception that proves it: *"Have pity on me, have pity on me, you my friends"*
+(19:21), the single time in the book he asks the three men for anything, and it is not granted.
+
+**And the last of the four officers is not a legal one.** *Gōʾēl*, at 19:25, comes from family law:
+the nearest able kinsman, on whom the duty to act falls by blood rather than by contract. Job
+asserts one immediately after eight verses establishing that his brothers, relatives, friends,
+servants, wife, and children are gone or estranged. The claim is made precisely in the hole the
+speech has just dug. See [[The Redeemer and the Avenger of Blood]].
 
 ## Timeline / key events
 
@@ -84,8 +95,13 @@ speeches; each becomes a linked passage page as it is ingested.
 - **Job 15** — [[Eliphaz's Second Speech]]. The consolations of the first cycle are withdrawn.
 - **Job 16:1–17:16** — [[Miserable Comforters and the Witness in Heaven]]. God as assailant, the
   cry that must not be covered, the witness in heaven, and hope descending to the gates of Sheol.
-- **Job 18–21** — the second cycle completed: Bildad on the fate of the wicked, Job's *"I know that
-  my Redeemer lives"*, Zophar, and Job's frontal attack on retribution in chapter 21.
+- **Job 18:1–21** — [[Bildad's Second Speech]]. Twenty-one verses on the fate of the wicked,
+  answering nothing Job has said, and using his dead children a second time.
+- **Job 19:1–29** — [[I Know That My Redeemer Lives]]. The siege, the total social abandonment, the
+  one plea for pity, the wish for words cut into rock, and the living Redeemer.
+- **Job 20:1–29** — [[Zophar's Second Speech]]. The wicked man's brief triumph, and the first
+  specific offence anyone in the book names.
+- **Job 21** — Job's frontal attack on retribution, answering chapters 18 and 20 together.
 - **Job 22–31** — the third cycle collapsing, the hymn to wisdom, and Job's closing oath of
   innocence, in which he calls down curses on himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
@@ -102,6 +118,11 @@ speeches; each becomes a linked passage page as it is ingested.
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the
   book's highest and lowest lines sit forty verses apart.
+- [[Bildad's Second Speech]] — spoken to in four verses and portrayed, unnamed, in seventeen.
+- [[I Know That My Redeemer Lives]] — his own reply, and the chapter in which he loses every human
+  being he has and asserts a kinsman anyway.
+- [[Zophar's Second Speech]] — described again without being named, and offered, this time, no way
+  back.
 
 ## Related people
 
@@ -113,8 +134,9 @@ speeches; each becomes a linked passage page as it is ingested.
   God, and the friends do the reverse.
 - [[Job's Children]] — seven sons and three daughters, unnamed until the epilogue; the reason for
   the first sacrifice in the book and the worst of his losses.
-- **His wife** — one line, at 2:9, and no name. She is the only person in the book who tells him to
-  stop, and Job's answer to her (*"Shall we receive good at the hand of God, and shall we not
+- **His wife** — two lines and no name: 2:9, where she tells him to renounce God and die, and
+  19:17, where *"My breath is offensive to my wife."* She is the only person in the book who tells
+  him to stop, and Job's answer to her (*"Shall we receive good at the hand of God, and shall we not
   receive evil?"*) is the book's first statement of the position he never abandons.
 - **Elihu** — a fourth speaker, introduced at 32:2 without warning and unmentioned in the epilogue.
 - **Noah and Daniel** — named with Job at Ezekiel 14:14, 20 as three men whose righteousness would
@@ -132,7 +154,8 @@ speeches; each becomes a linked passage page as it is ingested.
 - [[Righteousness]] — declared of him by the narrator and by God before he does anything, and then
   disbelieved by everyone in the room.
 - [[Mediation and Advocacy]] — the four legal officers he reaches for, from 9:33 to 19:25.
-- [[Hope]] — 17:15's *"where then is my hope?"*, asked rather than answered.
+- [[Hope]] — 17:15's *"where then is my hope?"*, asked rather than answered, and 19:10's *"My hope
+  he has plucked up like a tree"*, followed fifteen verses later by *I know*.
 - [[Wisdom]] — he is the counter-example the wisdom tradition had to absorb, and the reason
   Ecclesiastes and Job sit next to Proverbs in the canon.
 - [[Judgment]] — his demand is for a trial, and the book's difficulty is that the judge is also the

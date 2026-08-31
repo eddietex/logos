@@ -77,6 +77,11 @@ canon.
   Abel"* — the comparison assumes the reader knows that Abel's blood speaks, and what it says. Abel's
   blood cries for vengeance; this blood says something better. Which means the New Testament's final
   use of the image is to answer it rather than to extend it.
+- **And three chapters later Job names the officer.** *Gōʾēl*, at 19:25, is also the title of the
+  *gōʾēl haddām* — the kinsman on whom Numbers 35:19 lays the duty of answering exactly the kind of
+  claim 16:18 is making. The two verses should be read as one movement: the cry that must not be
+  silenced, and then the man whose job it is to take it up. The strangeness is that Job is still
+  alive; see [[I Know That My Redeemer Lives]] and [[The Redeemer and the Avenger of Blood]].
 - **Job's version has no fulfilment in the book.** Nobody in Job ever answers the cry, and the
   epilogue restores his fortunes without addressing his vindication before the friends in the terms
   he asked for — except that God does say, publicly, that Job spoke rightly and they did not (42:7).

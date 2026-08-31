@@ -14,7 +14,8 @@ tags: [connection]
   [[Miserable Comforters and the Witness in Heaven]]
 - **Job 17:3** — *"Now give a pledge, be collateral for me with yourself. Who is there who will
   strike hands with me?"* — same passage
-- **Job 19:25–27** — *"But as for me, I know that my Redeemer lives."*
+- **Job 19:25–27** — *"But as for me, I know that my Redeemer lives. In the end, he will stand upon
+  the earth."* — [[I Know That My Redeemer Lives]]
 - **Job 33:23–24** — Elihu: *"If there is beside him an angel, an interpreter, one among a
   thousand…"*
 - **Job 1:6–12; 2:1–6** — the heavenly court, containing an accuser and no advocate
@@ -41,6 +42,14 @@ he does not want relief; he asks for those far less often than he asks to be hea
 his own testimony has been ruled inadmissible by the only people present. The specific offices are
 legal and commercial: *môkîaḥ* (arbitrator), *ʿēd* and the Aramaic *śāhēd* (witness), *ʿārab* (to
 stand surety), *gōʾēl* (kinsman-redeemer). See [[Mediation and Advocacy]].
+
+**The fourth office is the odd one, and the escalation is not only in confidence.** An arbitrator, a
+witness, and a guarantor all presuppose a functioning court, and Job has spent three chapters
+establishing that there is no court: nobody will strike hands with him (17:3), and *"I cry for help,
+but there is no justice"* (19:7). A *gōʾēl* presupposes nothing but a relative who shows up. Job
+moves from asking for legal machinery that does not exist to asserting a kinsman he can prove he
+does not have — 19:13–20 is eight verses of establishing exactly that — and the assertion is made
+five verses later. See [[The Redeemer and the Avenger of Blood]] for what the word carries.
 
 **Who is the witness?** Three readings, all defensible.
 
@@ -86,7 +95,9 @@ Three qualifications keep the reading honest.
 - **The Hebrew of 19:25–27 is badly damaged** — *"after my skin is destroyed, then in my flesh shall
   I see God"* renders a text whose preposition is ambiguous between *from* and *without* my flesh,
   and the following verses are among the hardest in the Bible. Whatever weight the thread carries,
-  19:25 is the weakest link in it, not the strongest.
+  19:25 is the weakest link in it, not the strongest. What survives the damage intact is the first
+  clause, *gōʾălî ḥay*, and it is enough: see [[I Know That My Redeemer Lives]] for what is certain
+  and what is not, verse by verse.
 
 **What the connection does establish** is that the Hebrew Bible contains a demand for something it
 does not supply, articulated by its most extreme sufferer, in legal terms, four times, with

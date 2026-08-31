@@ -101,6 +101,8 @@ with that scope.
   Testament
 - [[The Noahic Commandments and the Council of Jerusalem]] — the blood prohibition as the oldest
   standing rule the church kept
+- [[The Redeemer and the Avenger of Blood]] — the *gōʾēl haddām* behind Job 19:25, and the thread
+  from Genesis 4:10's crying blood through Job 16:18's uncovered blood to Revelation 6:9–10
 
 ## Related themes
 
