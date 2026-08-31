@@ -102,4 +102,6 @@ nothing of the human party at all; the blessing of 9:1–7 asks two things, and 
 things that turn out to be portable. What God binds himself to is unconditional. What he requires is
 short, universal, and about blood.
 
-See also [[Blood]], [[Covenant]], and [[Clean and Unclean]].
+See also [[Blood]], [[Covenant]], and [[Clean and Unclean]], and
+[[The Life Is in the Blood]] for the prohibition itself — what Genesis 9:4 claims about blood, and
+what Leviticus 17:11 does with the claim.

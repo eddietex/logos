@@ -84,4 +84,6 @@ mountains may depart, and the hills be removed, but my loving kindness will not 
 the Noahic covenant is cited not for its content but as the proof that God's promises are the kind
 of thing that does not get revoked.
 
-See also [[Covenant]], [[Remembrance]], and [[Judgment]].
+See also [[Covenant]], [[Remembrance]], and [[Judgment]], and
+[[The Waters of Noah - Isaiah 54 and the Covenant of Peace]] for what Isaiah, Jeremiah, Ezekiel, and
+Hosea build out of that citation.

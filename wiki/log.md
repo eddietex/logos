@@ -1819,3 +1819,88 @@ discussion went into the passage pages.
    yet in `raw/` remain unverifiable against a source in this repo, as elsewhere in the wiki.
 
 `scripts/link-check.sh` clean, exit 0, baseline 64. No dangling links were left deliberately.
+
+## [2026-08-31] lint | Unmerged branches audited; two connection pages recovered from abandoned Genesis 9 ingests
+
+**What was checked**
+
+Every remote branch was fetched and diffed against `main`. Four exist besides `main`:
+`claude/ingest-auto-jobs-18-20-vholye` is fully merged (0 commits ahead, PR #1), and
+`claude/ingest-auto-3oz4au`, `claude/ingest-auto-4q3uek`, and `claude/ingest-auto-kllgcw` each carry
+exactly one commit — three independent parallel attempts at the same pericope, Genesis 9:1–17, all
+forked from `593409f`. A fourth attempt was made directly on `main` (`39442d1`, the latest of the
+four) and is what shipped. So the three branches are superseded drafts of a page that already
+exists, not lost work.
+
+Comparing whole trees rather than diffs, only four files existed on a branch and nowhere on `main`,
+and they reduce to two subjects: a connection page on the blood prohibition, which all three
+branches wrote independently under three different titles, and one page on Isaiah 54:9–10. Both were
+genuine gaps. Nothing outside `wiki/` was stranded on any branch — no `raw/`, `scripts/`,
+`templates/`, or schema changes.
+
+**Created**
+
+- `wiki/connections/The Life Is in the Blood.md` — Genesis 9:4 across the canon: the permission of
+  9:3 and the one clause that fences it, the apposition of *nepeš* and *dām* that makes the rule a
+  definition rather than a regulation, Leviticus 17:11 supplying the reason and joining the
+  prohibition to the altar, 17:13's poured-out and covered blood (which is what Job 16:18 refuses),
+  Deuteronomy 12's three repetitions as slaughter moves away from the sanctuary, the one narrative
+  where the rule is broken and named as sin (1 Samuel 14:31–35), John 6:53–56 as the prohibition
+  named and inverted, and the transfusion extension with the objection the texts themselves supply.
+  Deliberately does **not** re-argue the Acts 15 question — the four abstentions, the Leviticus 17–18
+  reading, the rabbinic seven, and the rule's afterlife in the early church are already set out on
+  `The Noahic Commandments and the Council of Jerusalem`, which this page hands off to in one
+  paragraph.
+- `wiki/connections/The Waters of Noah - Isaiah 54 and the Covenant of Peace.md` — Isaiah 54:9 as the
+  only place outside Genesis where the Hebrew Bible names the flood as a covenant precedent: the
+  exile classified as a flood, the permanence of the Noahic oath transferred to a new promise, and
+  the technique of anchoring a promise to the created order copied by Isaiah (geology) and Jeremiah
+  (day and night). Then the renaming — Genesis's *bərît ʿôlām* becomes Isaiah's *bərît šəlômî*, taken
+  up by Ezekiel 34:25 and 37:26 and by Hosea 2:18, which breaks the *qešet* out of the land. Isaiah
+  24:5 is flagged as a standing tension rather than resolved: if the everlasting covenant can be
+  broken by human beings, Isaiah 54's argument loses its ground, and the three available readings are
+  set out with the note that the third fits Genesis 9's two-part structure but cannot be proved.
+
+**Updated**
+
+- `wiki/connections/index.md` — two rows, placed with the Genesis 9 cluster rather than appended.
+- `wiki/themes/Blood.md`, `wiki/themes/Covenant.md` — one key-passage entry each.
+- `wiki/passages/Genesis/The Covenant with Noah.md` — two cross-references, for 9:4 and for 9:8–17.
+- `wiki/connections/The Noahic Commandments and the Council of Jerusalem.md`,
+  `wiki/connections/The Bow in the Cloud.md`,
+  `wiki/connections/As It Was in the Days of Noah.md` — see-also links to the new pages from the
+  three pages that were already carrying part of each thread.
+- `wiki/index.md` — 46 → 48 connections.
+
+**Judgment calls, listed for review**
+
+1. **Ported the content, not the commits.** None of the three branches was merged. Each is nine
+   commits behind and each rewrites `The Covenant with Noah`, `Blood`, `Covenant`, and the indexes
+   as they stood before four later ingests; merging any would have conflicted throughout and
+   regressed pages that have moved on. Only the two genuinely missing subjects were carried over,
+   rewritten against the wiki as it now stands.
+2. **One blood page, not three.** The three drafts overlap almost entirely. The synthesis follows
+   `4q3uek` on the ontological reading of 9:4 and on the transfusion note, `3oz4au` on Leviticus
+   17:13 and the 1 Samuel 14 narrative, and `kllgcw` on John 6; the Acts 15 material all three drafts
+   ran at length was cut, because `The Noahic Commandments and the Council of Jerusalem` was written
+   later on `main` and already covers it better than any of them.
+3. **Title `The Life Is in the Blood`.** The drafts offered that, `Life Is in the Blood`, and
+   `The Blood Is the Life`. Chose the Leviticus 17:11 phrasing, since 17:11 is the hinge the page
+   turns on. The canon's own indifference between *in* and *is* — 17:11 against 17:14 and
+   Deuteronomy 12:23 — is now a paragraph on the page rather than a title problem.
+4. **Quote accuracy, and six corrections.** Every quotation on both new pages was checked
+   character-for-character against the WEB. Genesis came from `raw/bible/Genesis.md`; the other books
+   are not in `raw/` and bible-api.com is unreachable from this environment, so a public WEB text was
+   consulted directly and not written into `raw/` — fetching whole books ahead of ingestion would
+   break the raw-layer convention. The drafts were wrong six times and the errors are now fixed:
+   1 Samuel 14:32 is *"pounced on the plunder"*, not *"flew on"*; Deuteronomy 12:23 ends *"the life
+   with the meat"*, not *"with the flesh"*; 12:16 and 12:24 pour blood out *"like water"*, not *"as
+   water"*; John 6:55 is *"my blood is drink indeed"*, not *"true drink"*; 6:56 is *"lives in me"*,
+   not *"remains in me"*; and Romans 8:39 is *"God's love which is in Christ Jesus"*, not *"the love
+   of God"*.
+5. **One pre-existing misquote fixed in passing.** `As It Was in the Days of Noah` had Isaiah 54:9 as
+   *"so have I sworn that I will not be angry with you"*; the WEB reads *"so I have sworn that I will
+   not be angry with you, nor rebuke you"*. Corrected while adding the cross-reference.
+6. **The branches were left alone.** Nothing was pushed to or deleted from them. `main` now carries
+   everything they had that it lacked, so all three are safe to delete whenever the user wants, as is
+   the merged `claude/ingest-auto-jobs-18-20-vholye`.

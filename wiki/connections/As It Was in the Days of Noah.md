@@ -94,7 +94,8 @@ people.
 heavens and earth are *"reserved for fire"*. The change of element is not rhetorical escalation. It
 is required, because at Genesis 8:21 God said *"I will never again strike every living thing, as I
 have done"* — and Isaiah 54:9 treats that as a sworn oath: *"as I have sworn that the waters of Noah
-will no more go over the earth, so have I sworn that I will not be angry with you."* The New
-Testament's use of the flood as the pattern for a coming judgment therefore has to keep the pattern
-and change the means, and 2 Peter does exactly that. The typology depends on the promise it works
-around.
+will no more go over the earth, so I have sworn that I will not be angry with you, nor rebuke you."*
+The New Testament's use of the flood as the pattern for a coming judgment therefore has to keep the
+pattern and change the means, and 2 Peter does exactly that. The typology depends on the promise it
+works around. For what the prophets build on that oath, see
+[[The Waters of Noah - Isaiah 54 and the Covenant of Peace]].

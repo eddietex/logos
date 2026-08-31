@@ -35,6 +35,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |
 | [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 |
 | [[The Noahic Commandments and the Council of Jerusalem]] | thread | Genesis 2:16–17 · Genesis 9:1–7 · Leviticus 17–18 · Acts 15:19–29 · Acts 21:25 · *Sanhedrin* 56a |
+| [[The Life Is in the Blood]] | thread | Genesis 1:29–30 · Genesis 9:3–4 · Leviticus 17:10–14 · Deuteronomy 12:15–25 · 1 Samuel 14:31–35 · Ezekiel 33:25 · Acts 15:20, 29 · John 6:53–56 · Hebrews 9:22 |
+| [[The Waters of Noah - Isaiah 54 and the Covenant of Peace]] | allusion | Genesis 8:21–22 · Genesis 9:8–17 · Isaiah 54:9–10 · Jeremiah 31:35–36 · Jeremiah 33:20–26 · Ezekiel 34:25 · Ezekiel 37:26 · Hosea 2:18 · Isaiah 24:5 · Romans 8:19–22, 38–39 |
 | [[Naked and Ashamed - Genesis 3 and Genesis 9]] | parallel | Genesis 2:25 · Genesis 3:6–7, 21 · Genesis 9:20–25 · Genesis 19:30–38 |
 | [[The Curse of Canaan and the Conquest]] | thread | Genesis 9:25–27 · Genesis 10:15–19 · Genesis 15:16 · Leviticus 18:24–30 · Deuteronomy 9:4–5 · Joshua 9:22–27 · Judges 1:28–35 · 1 Kings 9:20–21 |
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |

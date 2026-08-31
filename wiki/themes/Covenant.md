@@ -117,6 +117,8 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   Scripture and the first partition of humanity, in that order
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
   Revelation
+- [[The Waters of Noah - Isaiah 54 and the Covenant of Peace]] — the Noahic covenant used by the
+  prophets as the model of an unconditional promise, and renamed the covenant of peace
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
 

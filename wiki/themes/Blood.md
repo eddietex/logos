@@ -99,6 +99,8 @@ with that scope.
   uncovered goes on demanding an answer
 - [[Whoever Sheds Man's Blood]] — Genesis 9:6 through the Torah's homicide law and into the New
   Testament
+- [[The Life Is in the Blood]] — Genesis 9:4's other rule: the identification of blood with life,
+  from the permission it fences through Leviticus 17:11's altar to John 6's inversion of it
 - [[The Noahic Commandments and the Council of Jerusalem]] — the blood prohibition as the oldest
   standing rule the church kept
 - [[The Redeemer and the Avenger of Blood]] — the *gōʾēl haddām* behind Job 19:25, and the thread

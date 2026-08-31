@@ -362,6 +362,10 @@ all flesh, and the earth needs no map. Geography returns at Genesis 10.
   refuge, Jesus on the sword, Paul on the magistrate, and Revelation's turn of the same line.
 - [[The Noahic Commandments and the Council of Jerusalem]] — 9:1–7 as the Bible's only law addressed
   to all humanity, the rabbinic seven, and the four abstentions of Acts 15.
+- [[The Life Is in the Blood]] — 9:4 across the canon: the identification of blood with life, the
+  altar that identification grounds, the one narrative where the rule is broken, and John 6.
+- [[The Waters of Noah - Isaiah 54 and the Covenant of Peace]] — 9:8–17 as the prophets' model of an
+  unconditional promise, and the covenant of peace in Isaiah, Ezekiel, and Hosea.
 - [[Blood]] — the theme this pericope opens.
 - [[Covenant]] — the Noahic covenant's place in the canon's covenant structure.
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:18–29: the vineyard, the drunkenness, and
