@@ -144,6 +144,12 @@ has been argued.
   have sinned, and renounced God in their hearts"*), covered by sacrifice before any offence is
   known — and named with *bārak*, *to bless*, the euphemism that carries the book's four hinge
   moments
+- [[Zophar's Second Speech]] — the friends' most interesting account of it: sin as something eaten
+  for the taste of it, held under the tongue, and then acting as cobra venom inside the body that
+  swallowed it (20:12–15). The closest any of the three comes to saying sin is intrinsically
+  destructive rather than merely penalised
+- [[Bildad's Second Speech]] — sin assumed everywhere and specified nowhere: twenty-one verses of
+  punishment with no offence named, from which the offence is to be inferred
 
 ## Related themes
 

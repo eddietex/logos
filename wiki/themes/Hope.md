@@ -81,6 +81,13 @@ is close because you cannot bear to sit in the dark with him.
 - [[From Adam to Noah]] — Lamech's hope at Genesis 5:29, the wiki's first
 - [[The Waters Recede]] — hope as a bird sent out over water, and a partial answer to 5:29 arriving
   in a sentence nobody in the story hears
+- [[I Know That My Redeemer Lives]] — the theme's sharpest pair of verses. *"My hope he has plucked
+  up like a tree"* (19:10) and *"I know that my Redeemer lives"* (19:25), fifteen verses apart and
+  never reconciled: the confidence is not the recovery of the hope but something asserted in its
+  place
+- [[Bildad's Second Speech]] — the counter-image. Job had said at 14:7 that a felled tree has hope
+  of sprouting; 18:16 dries the roots and cuts the branch, and 19:10 concedes the picture and names
+  the gardener
 
 ## Related themes
 

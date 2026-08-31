@@ -158,6 +158,14 @@ the rest of the canon.
 - [[Miserable Comforters and the Witness in Heaven]] — *"the way of no return"* (16:22) and the
   household of the grave (17:13–16): death as the deadline that makes vindication urgent, in a book
   whose [[Sheol]] settles nothing
+- [[Bildad's Second Speech]] — death as a public humiliation with a destination: the lamp put out,
+  the body devoured by *"the firstborn of death"*, and the wicked man marched under escort *"to the
+  king of terrors"* (18:14), the only place in the Bible where Death is given a crown
+- [[I Know That My Redeemer Lives]] — 19:26's *"After my skin is destroyed, then in my flesh shall
+  I see God"*, the book's most contested clause on what if anything lies past death; see
+  [[The Hope of Resurrection in the Old Testament]]
+- [[Zophar's Second Speech]] — 20:11's *"His bones are full of his youth, but youth shall lie down
+  with him in the dust"*: a man dying with his strength still in him
 
 ## Related themes
 

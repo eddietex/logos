@@ -120,6 +120,9 @@ the same verses that put the tree of life back in reach (see
 - [[The Curse of Canaan and the Conquest]] — what the canon does and does not do with that curse
 - [[The Table of Nations]] — 10:15–19, where Canaan's line is set out with no reference to 9:25
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
+- [[Bildad's Second Speech]] — covenant-curse vocabulary borrowed without the covenant: sulfur
+  scattered on the habitation (18:15, against Deuteronomy 29:23), roots dried beneath and branch cut
+  off above, and a name erased from the street
 
 ## Related themes
 

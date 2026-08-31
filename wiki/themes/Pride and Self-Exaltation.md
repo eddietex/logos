@@ -100,6 +100,10 @@ reading that the text supports, is located in what the building was *for*.
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:4: the men of the name, the only
   earlier occurrence of the phrase
 - [[The Fall]] — Genesis 3:5–6: the offer to be like God, and the first grasp
+- [[Zophar's Second Speech]] — the pattern in its crudest form: *"Though his height mount up to the
+  heavens, and his head reach to the clouds, yet he shall perish forever like his own dung"*
+  (20:6–7), the ascent of Genesis 11:4 and Isaiah 14:13 answered with a deliberately degrading
+  word
 
 ## Related themes
 

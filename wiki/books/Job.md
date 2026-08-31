@@ -46,6 +46,9 @@ treatment of the friends' speeches is written knowing that sentence is coming.
 - **3 Job's opening lament** — the poetry begins; Job curses the day he was born.
 - **4–14 First cycle of speeches** — Eliphaz, Bildad, Zophar, each answered by Job.
 - **15–21 Second cycle** — the same order, the consolations withdrawn, the accusations sharper.
+  This is also where the friends stop arguing: chapters 18 and 20 are two set-piece portraits of
+  the wicked man's ruin that answer nothing Job has said, and Job settles both at once in
+  chapter 21.
 - **22–27 Third cycle** — the pattern breaks down; Bildad's speech is six verses and Zophar has none.
 - **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
@@ -88,9 +91,9 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [x] [[Eliphaz's Second Speech]] — Job 15:1–35
 - [x] [[Miserable Comforters and the Witness in Heaven]] — Job 16:1–17:16
-- [ ] Bildad's Second Speech — Job 18:1–21
-- [ ] I Know That My Redeemer Lives — Job 19:1–29
-- [ ] Zophar's Second Speech — Job 20:1–29
+- [x] [[Bildad's Second Speech]] — Job 18:1–21
+- [x] [[I Know That My Redeemer Lives]] — Job 19:1–29
+- [x] [[Zophar's Second Speech]] — Job 20:1–29
 - [ ] Why Do the Wicked Live On? — Job 21:1–34
 
 ### Third cycle (22–27)

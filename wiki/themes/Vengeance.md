@@ -73,6 +73,11 @@ for revenge becomes its measure for pardon. See
   blood to human hands
 - [[Whoever Sheds Man's Blood]] — Genesis 9:6 through the Torah's homicide law and into the New
   Testament
+- [[I Know That My Redeemer Lives]] — *gōʾēl* at 19:25 is also the title of the *gōʾēl haddām*, the
+  avenger of blood (Numbers 35:19), which is what binds it to Job's *"Earth, don't cover my blood"*
+  three chapters earlier. Job calls for the officer the dead are entitled to, while still alive
+- [[The Redeemer and the Avenger of Blood]] — the two offices the one Hebrew word carries, and the
+  line from Abel's blood through Job's to the souls under the altar
 
 ## Related themes
 

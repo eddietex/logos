@@ -91,6 +91,12 @@ close to the book's whole point about who may speak for the tradition. See
 - [[The Fall]] — the first desire for wisdom, and its cost
 - [[Job of Uz]] — the test case placed at the head of *"the children of the east"* (1:3), the
   territory the Old Testament associates with international wisdom (1 Kings 4:30)
+- [[Bildad's Second Speech]] and [[Zophar's Second Speech]] — inherited doctrine applied to a case
+  it was not built for. Both men ground their authority in antiquity — *"past generations"* (8:8),
+  *"from old time, since man was placed on earth"* (20:4) — and neither looks at the man in front of
+  them; Job answers in chapter 21 by counting
+- [[The Lamp of the Wicked Put Out]] — a Proverbs sentence read backwards, and the fifteen degrees
+  that separate wisdom from accusation
 
 ## Related themes
 

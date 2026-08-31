@@ -80,6 +80,12 @@ requires only that you be standing outside it.
 - [[Eliphaz's Second Speech]] — suffering treated purely as evidence, with the consolation of the
   first cycle withdrawn
 - [[The Fall]] — the suffering the Bible does explain
+- [[I Know That My Redeemer Lives]] — the Bible's fullest account of suffering's *social*
+  dimension: eight verses walking outward through every ring of a household — brothers, relatives,
+  friends, servants, wife, the children in the street — and finding no one, with the whole
+  catalogue attributed to God (19:13)
+- [[Bildad's Second Speech]] and [[Zophar's Second Speech]] — suffering read as a portrait of the
+  sufferer, item by item, and delivered to him as general doctrine
 
 ## Related themes
 

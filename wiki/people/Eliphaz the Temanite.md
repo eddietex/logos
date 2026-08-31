@@ -63,7 +63,12 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 - **Job 15:1–35** — [[Eliphaz's Second Speech]], the consolations withdrawn.
 - **Job 16:1–17:16** — answered in [[Miserable Comforters and the Witness in Heaven]], and told at
   17:10 *"I shall not find a wise man among you"*.
-- **Job 22:1–30** — the third speech, and the fabricated charges.
+- **Job 18–20** — silent through the rest of the second cycle, and included in the plurals of
+  [[I Know That My Redeemer Lives]] (19:2–5, 28–29). [[Zophar's Second Speech]] names the offence he
+  will make personal: *"he has oppressed and forsaken the poor. He has violently taken away a
+  house"* (20:19).
+- **Job 22:1–30** — the third speech, and the fabricated charges — 22:6–9 is 20:19 with Job's name
+  attached and details supplied that the book gives no evidence for.
 - **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job.
 
 ## Appears in
@@ -71,6 +76,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 - [[Eliphaz's Second Speech]] — his own chapter, and the wiki's fullest treatment of his method.
 - [[Miserable Comforters and the Witness in Heaven]] — as the speaker being answered, and as one of
   the three *"miserable comforters"*.
+- [[Bildad's Second Speech]] — inside Bildad's *"we"* at 18:2–3.
+- [[I Know That My Redeemer Lives]] — inside Job's plurals, and among those warned of the sword at
+  19:29.
+- [[Zophar's Second Speech]] — where the charge he will personalise at 22:6–9 is first drafted.
 
 ## Related people
 
