@@ -86,6 +86,12 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   bodily and real whether or not it is covenantal.
 - **Ephesians 5:31–32** — quotes 2:24 and calls it a "great mystery" concerning Christ and the
   church, making marriage a figure of something larger than itself.
+- **Genesis 11:29–30** — the first marriages in Scripture where both wives are named, and the first
+  where the wife's condition is the point: *"Abram and Nahor married wives … Sarai was barren."* Both
+  are unions within the family — Nahor marries his brother's daughter, and Abram, by Genesis 20:12,
+  his half-sister — and both would be prohibited by Leviticus 18. Genesis narrates them without a
+  flicker of comment, which is a standing feature of the patriarchal material: it is set before
+  Sinai and is not written to be exemplary under it. See [[From Shem to Abram]] and [[Barrenness]].
 - Later strands to trace: polygamy in the patriarchs and its consistent narrative trouble;
   Deuteronomy 24:1–4 and the divorce debate; Hosea's marriage as prophecy; Song of Songs;
   1 Corinthians 7 on singleness; Revelation 19:7–9, the marriage supper of the Lamb.
@@ -98,6 +104,8 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   grammar of Genesis 3:6
 - [[The Line of Cain and the Birth of Seth]] — the first departure from one flesh, reported without
   comment
+- [[From Shem to Abram]] — Genesis 11:29–30: two marriages inside one family, both wives named, and
+  one of them barren
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
   2:24
 
@@ -106,6 +114,7 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 - [[Creation]]
 - [[Image of God]]
 - [[Blessing]]
+- [[Barrenness]]
 - [[Sin]]
 - [[Judgment]]
 

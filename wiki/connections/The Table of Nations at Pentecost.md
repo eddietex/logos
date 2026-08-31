@@ -71,4 +71,3 @@ Against that, the promise of Genesis 12:3 does its work: *"All the families of t
 blessed through you"*, using Genesis 10's own word for families. The nations are not gathered by being
 made one. They are blessed as many, which is what the crowd in Jerusalem discovers when the words
 arrive in their own languages.
-</content>

@@ -82,4 +82,3 @@ against Septuagint) reappears in Deuteronomy 32:8 (children of Israel against so
 Luke 10:1 (seventy against seventy-two), and in each case the two readings are theologically live
 rather than trivial. Whichever is original, the ancient readers were clearly counting Genesis 10
 against the rest of the canon and expecting the numbers to line up.
-</content>

@@ -323,8 +323,9 @@ Israel — an etymology that is an interpretation. See [[Babel]].
   tower-builder of the text.
 - [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] — Deuteronomy 32:8's division of
   humanity, which is usually read as this event.
-- Genesis 11:10–32 *(not yet ingested)* — Shem's line resumed in linear form, and Terah's family
-  leaving Ur for Canaan: the narrative walks out of Shinar in the verses immediately after this one.
+- [[From Shem to Abram]] — Genesis 11:10–32: Shem's line resumed in linear form, and Terah's family
+  leaving Ur for Canaan. The narrative walks out of Shinar in the verses immediately after this one,
+  and it does it in silence — God is named nowhere in the twenty-three verses that follow 11:9.
 - Genesis 12:1–3 *(not yet ingested)* — the call of Abram, and *"I will… make your name great"*: the
   direct answer to 11:4, three verses later in the book.
 - Genesis 14:1, 9 — Amraphel king of Shinar.

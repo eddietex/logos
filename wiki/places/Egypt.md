@@ -54,4 +54,3 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - Listed among Ham's sons, with seven peoples of its own — Genesis 10:6, 13–14,
   [[The Table of Nations]]
 - Abram goes down in a famine — Genesis 12:10–20 *(not yet ingested)*
-</content>

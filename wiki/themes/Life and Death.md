@@ -111,6 +111,15 @@ the rest of the canon.
   Psalm 90's seventy. The flood narrative turns out to have been told inside a single genealogical
   entry, between a man's age at fatherhood and his age at death. See
   [[Noah's Sons and the Curse of Canaan]].
+- **Genesis 11:10–32** — the second register, and the theme handled by omission. Nine consecutive
+  entries and **not one of them says the man died**; Genesis 5's refrain is simply deleted, and no
+  totals are given either. What the chapter does instead is let the numbers fall — 950, 600, then
+  438, 433, 464, then 239, 239, 230, 148 — so that mortality is registered as a slope rather than as
+  a sentence, and 6:3's *"one hundred twenty years"* is carried out without being mentioned. The
+  only two deaths in the passage are in Terah's household: a son who dies before his father, which
+  has not happened before in Scripture, and a father who dies short of the land he set out for. See
+  [[From Shem to Abram]] and
+  [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]].
 - **Psalm 90:10** — *"The days of our years are seventy, or even by reason of strength eighty
   years"*: the Bible's own settled measure of a life, against Genesis 5's numbers.
 - Later strands to trace: the choice of *"life and death, blessing and cursing"* in Deuteronomy
@@ -132,6 +141,9 @@ the rest of the canon.
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
 - [[The Covenant with Noah]] — which deaths are now permitted and which are required back: meat
   allowed, blood withheld, homicide answerable, and the world guaranteed against a second drowning
+- [[From Shem to Abram]] — the register with the death clause removed, and the lifespans halving
+  twice; the first son in the Bible to predecease his father, and the first man to die short of
+  Canaan
 - [[Noah's Sons and the Curse of Canaan]] — 9:29, the last *"and then he died"* of Genesis 5's
   formula, and the register finally closed on its tenth man
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence

@@ -10,8 +10,8 @@ tags: [connection]
 - **Genesis 5:1–32** — the register, with ages, fatherings, and deaths — [[From Adam to Noah]]
 - **Genesis 10:21–25** — [[The Table of Nations]]: Shem, Arpachshad, Shelah, Eber, Peleg, five
   consecutive links of the same chain, given here without numbers and in segmented form
-- **Genesis 11:10–26** *(not yet ingested)* — the second ten-generation register, Shem to Abram,
-  built on the same template
+- **Genesis 11:10–26** — the second ten-generation register, Shem to Abram, built on the same
+  template — [[From Shem to Abram]]
 - **1 Chronicles 1:1–4**, and **1:17–27** — the same ten names, stripped of every number, and then
   Shem's line likewise
 - **Matthew 1:1** *(not yet ingested)* — *"The book of the genealogy of Jesus Christ"*
@@ -52,7 +52,12 @@ One textual wrinkle worth knowing: most manuscripts of Luke 3:36 include a **sec
 between Arphaxad and Shelah, who is absent from the Hebrew of Genesis 11 but present in the
 Septuagint. Luke is following the Greek text. It is a small thing with a large implication — the
 biblical genealogies as transmitted do not all agree on the number of generations, which is
-independent evidence that they were not being kept as arithmetic.
+independent evidence that they were not being kept as arithmetic. The same divergence runs through
+the numbers: the Septuagint adds a century to most of the fathering ages in Genesis 11, and the
+Samaritan Pentateuch differs from both, so that the interval from the flood to Abram is under three
+hundred years in the Hebrew and roughly a millennium in the Greek. Three transmitting communities
+did not agree on how many generations lay between Shem and Abram, and none of them treated that as
+fatal.
 
 **Matthew 1:1 borrows the heading, not the list.** *Biblos geneseōs Iēsou Christou* — *"the book of
 the genealogy of Jesus Christ"* — is the Septuagint's exact phrase at Genesis 5:1 (*biblos
@@ -81,7 +86,9 @@ observation about genealogies and the difficulty that this particular genealogy 
 resists it. Anyone using the gaps argument should notice that it works much better on Genesis 11's
 list, and better still on Matthew's, than on this one.
 
-**Ten and ten and fourteen.** Adam to Noah is ten generations; Shem to Abram (11:10–26) is ten;
+**Ten and ten and fourteen.** Adam to Noah is ten generations; Shem to Abram (11:10–26) is ten —
+and the two registers answer each other formally as well as numerically, which is set out in
+[[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]];
 Matthew's three sets are fourteen each. Round, schematic numbers are how these lists are shaped
 everywhere, which is a fact about the genre rather than an accusation against it. The Sumerian King
 List likewise runs its antediluvian rulers in a set count with a flood after it.

@@ -44,3 +44,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[A Name for Ourselves and a Great Name]] | parallel | Genesis 6:4 · Genesis 11:4 · Genesis 12:2 · 2 Samuel 7:9 · Isaiah 56:5 · Philippians 2:6–11 |
 | [[Let Us Go Down - The Divine Plural in Genesis]] | thread | Genesis 1:26 · Genesis 3:22 · Genesis 11:7 · Genesis 6:2 · Job 1:6 · Isaiah 6:8 · 1 Kings 22:19–22 · Psalm 82:1 |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
+| [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
+| [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |

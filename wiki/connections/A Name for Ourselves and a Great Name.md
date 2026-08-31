@@ -38,7 +38,10 @@ verb is.
 
 **Three verses separate the last two.** Genesis 11:9 ends the primeval history with a name taken; the
 call of Abram begins the patriarchal history with a name given. Nothing in the book's design is more
-economical than that, and it is easy to miss because the genealogy of 11:10–32 sits between them.
+economical than that, and it is easy to miss because the genealogy of
+[[From Shem to Abram]] sits between them — twenty-three verses in which nobody speaks, God is not
+named, and the family that will be given a name loses its lifespan, its firstborn, its fertility,
+and its destination.
 
 **What changes is not the desire but the source.** Genesis does not treat wanting a name as the
 problem — it promises one, twice over, to Abram and to David, and Isaiah extends the promise to the

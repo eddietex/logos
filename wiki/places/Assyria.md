@@ -57,4 +57,3 @@ the Bible: *"Blessed be Egypt my people, Assyria the work of my hands, and Israe
 ## Events here
 
 - Nineveh, Rehoboth Ir, Calah, and Resen are built — Genesis 10:11–12, [[The Table of Nations]]
-</content>

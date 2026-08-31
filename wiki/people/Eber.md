@@ -52,7 +52,9 @@ children of Eber"* — and the reader who has no idea yet what an Eberite is fin
 - Shem is introduced as *"the father of all the children of Eber"*, four generations early —
   Genesis 10:21
 - Fathers [[Peleg]] and Joktan; the line forks — Genesis 10:25
-- Given an age, a lifespan, and a place in the line to Abram — Genesis 11:14–17 *(not yet ingested)*
+- Given an age, a lifespan, and a place in the line to Abram; at four hundred sixty-four years the
+  longest life in the register after Shem's, and on its numbers the last of the ten to die —
+  [[From Shem to Abram]]
 - Named in the Chronicler's Table (1 Chronicles 1:18–19, 25) and in Luke's genealogy of Jesus
   (Luke 3:35)
 
@@ -60,17 +62,20 @@ children of Eber"* — and the reader who has no idea yet what an Eberite is fin
 
 - [[The Table of Nations]] — named at 10:21, 10:24, and 10:25; the only descendant a branch head is
   introduced by
+- [[From Shem to Abram]] — Genesis 11:14–17; the numbers that make him the register's longest-lived
+  man after Shem and its last survivor, dying sixty-four years after Abraham
 
 ## Related people
 
 - [[Shem]] — his great-grandfather, introduced by reference to him
-- **Arpachshad** and **Shelah** — his grandfather and father, names only
+- [[Arpachshad]] and [[Shelah]] — his grandfather and father, names only
 - [[Peleg]] — his son, through whom the line runs to Abram
 - **Joktan** — his other son, ancestor of thirteen Arabian peoples
 - [[Noah]] — five generations back
+- [[Abraham]] — six generations forward through Peleg, and by the register's arithmetic a man he
+  outlives by sixty-four years
 
 ## Themes associated
 
 - [[The Nations]]
 - [[Blessing]]
-</content>

@@ -51,4 +51,3 @@ of mercy and an oracle of total destruction, and the canon does not reconcile th
 ## Events here
 
 - Founded, with Rehoboth Ir, Calah, and Resen — Genesis 10:11–12, [[The Table of Nations]]
-</content>

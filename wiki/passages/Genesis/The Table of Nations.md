@@ -446,8 +446,8 @@ in the book is somewhere.
 - [[The Nephilim and the Giants of Canaan]] — *gibbōr* at 10:8 against *gibbōrîm* at 6:4.
 - [[The Tower of Babel]] — Genesis 11:1–9: the cause this chapter's four verbs of scattering never
   give, and the city 10:10 has already founded.
-- Genesis 11:10–26 *(not yet ingested)* — Shem's line again, linear this time, with ages and a
-  destination.
+- [[From Shem to Abram]] — Genesis 11:10–32: Shem's line again, linear this time, with ages and a
+  destination, and with the branch that ran through Joktan silently dropped.
 - Genesis 12:1–3 *(not yet ingested)* — *"All the families of the earth will be blessed through
   you"*: the promise that answers this chapter, and it uses the chapter's own word, *mišpəḥōt*,
   families.
@@ -542,5 +542,3 @@ in the book is somewhere.
   Mizraim, Erech, Accad, and Caphtor are secure. Magog, Calneh, Riphath, Mash, Resen, Mesha, Sephar,
   and Lasha have no agreed referent at all. The chapter is a map whose legend is partly lost, and the
   gaps are worth marking rather than filling.
-</content>
-</invoke>

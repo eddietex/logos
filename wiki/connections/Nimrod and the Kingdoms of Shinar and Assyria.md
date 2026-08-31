@@ -91,4 +91,3 @@ history.
 Genesis 11:1–9 has no protagonist at all — *"they said to one another"* — and the anonymity is
 probably deliberate. Reading Nimrod into it is the oldest interpretive move made on this passage, and
 it is still a move.
-</content>

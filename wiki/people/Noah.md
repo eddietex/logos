@@ -181,9 +181,11 @@ on, and neither of them is answered or ratified by God, who does not appear in t
 
 **And the register finally closes.** *"All the days of Noah were nine hundred fifty years, and then he
 died"* (9:29) is Genesis 5's formula, word for word, finishing the entry that chapter left open at
-5:32. He is the last man in Scripture to live past nine hundred, and by the numbers of Genesis
-11:10–26 he is alive for the first fifty-eight years of Abram's life — a fact Genesis supplies, never
-remarks on, and never uses.
+5:32. He is the last man in Scripture to live past nine hundred, and by the numbers of
+[[From Shem to Abram]] he is alive for the first fifty-eight years of Abram's life — a fact Genesis
+supplies, never remarks on, and never uses. The register that follows him drops the death formula
+his own entry closed with; see
+[[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]].
 
 ## Timeline / key events
 
@@ -223,6 +225,8 @@ remarks on, and never uses.
   in the Bible, and the death that closes the register of Genesis 5
 - [[The Table of Nations]] — named twice, at 10:1 and 10:32, and otherwise absent: the whole map of
   the seventy nations is filed under a man who has already died. Genesis does not mention him again.
+- [[From Shem to Abram]] — not named, and present only as the register's starting point: everything
+  in Genesis 11:10 is dated from his flood, and its numbers keep him alive into Abram's lifetime.
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 read against Job 1:1, and Ezekiel's pairing
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that

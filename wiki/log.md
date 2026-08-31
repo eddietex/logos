@@ -1571,3 +1571,103 @@ and leaving `SKILL.md` as a stub that reads it. `README.md` still names Claude C
 which is honest until that happens.
 
 `scripts/link-check.sh` clean, exit 0, baseline 64.
+
+## [2026-08-30] ingest | Genesis 11.10-32 — From Shem to Abram
+
+Unattended run (`/ingest auto`). Genesis was the first `in-progress` book in `wiki/books/index.md`
+(Job is also in-progress and loses on canonical order) and *From Shem to Abram* the first unchecked
+box on its page. `raw/bible/Genesis.md` was already present, so no fetch. Step 2's discussion went
+into the passage page. **This pericope completes the primeval history, Genesis 1–11.**
+
+**The pericope.** Two *toledot* in twenty-three verses — the only passage in Genesis that carries
+two. *"This is the history of the generations of Shem"* (11:10) reruns Genesis 5's ten-generation
+register on the far side of the flood and closes it exactly as Genesis 5 closed, with a man at a
+round age fathering three sons. *"Now this is the history of the generations of Terah"* (11:27)
+drops the register and gives four verses of household: Haran dies before his father in Ur, Abram and
+Nahor marry, *"Sarai was barren. She had no child"*, and Terah takes the family out of Ur for Canaan,
+stops at Haran, and dies there at 205. God is named nowhere in the twenty-three verses; the next
+verse is 12:1.
+
+**Created**
+
+- `wiki/passages/Genesis/From Shem to Abram.md`
+- Eight people from the register: `Arpachshad`, `Shelah`, `Reu`, `Serug`,
+  `Nahor (son of Serug)`, `Terah`, plus `Abraham` and `Sarah`.
+- Five from Terah's household: `Haran (son of Terah)`, `Nahor (brother of Abram)`, `Lot`,
+  `Milcah`, `Iscah`.
+- `wiki/places/Ur of the Chaldees.md` and `wiki/places/Haran (city).md`.
+- `wiki/themes/Barrenness.md` — 11:30 as the first infertility in Scripture and the engine of
+  Genesis 12–21, run through Rebekah, Rachel, Hannah, Elizabeth, and Isaiah 54:1 / Galatians 4:27.
+- `wiki/themes/Land and Sojourning.md` — 11:31 as the first journey toward Canaan and the first stop
+  short of it, run through Machpelah, Leviticus 25:23, Nebo, and Hebrews 11:8–16.
+- `wiki/connections/Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11.md` — the
+  two registers side by side: identical template, and four deliberate subtractions in the second.
+- `wiki/connections/Out of Ur - Terah's Journey and Abram's Call.md` — 11:31–12:5 against Joshua
+  24:2–3, Nehemiah 9:7, Genesis 15:7 and Acts 7:2–4, with both conflicts set out rather than
+  harmonized away.
+
+**Revised**
+
+- `wiki/books/Genesis.md` — box checked and linked; the *Structure* entry for 1–11 now records that
+  the primeval history is complete in the wiki; `Barrenness` and `Land and Sojourning` added to *Key
+  themes*, six people and two places to their lists.
+- `wiki/books/index.md` — Genesis 14 / 58.
+- `wiki/people/Shem.md` — a new section on 11:10–11: the register's only absolute date, the 502-year
+  friction with 5:32, and the arithmetic that has him outliving Abraham by thirty-five years.
+- `wiki/people/Eber.md`, `Peleg.md`, `Noah.md` — forward references to this pericope resolved, and
+  their positions in the register filled in.
+- `wiki/places/Canaan.md` — 11:31 added as the land's first appearance as a destination.
+- `wiki/themes/Life and Death.md` — the missing death formula and the two-stage collapse.
+- `wiki/themes/The Nations.md`, `Blessing.md`, `Marriage.md` — this passage added; Blessing's entry
+  is about the theme's absence, which is the point of the chapter.
+- `wiki/connections/From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke.md` — the
+  *(not yet ingested)* marker on 11:10–26 resolved, the LXX/SP numeric divergence added beside the
+  Cainan note, and a pointer to the new registers page.
+- `wiki/connections/A Name for Ourselves and a Great Name.md`,
+  `wiki/passages/Genesis/The Table of Nations.md`, `wiki/passages/Genesis/The Tower of Babel.md` —
+  their forward references to 11:10–32 now link the page.
+- All four category indexes and `wiki/index.md` (17 passages · 47 people · 15 places · 34 themes ·
+  42 connections).
+
+**Also fixed, unrelated to this pericope.** Sixteen files carried a stray `</content>` line at the
+end, and `wiki/passages/Genesis/The Table of Nations.md` also a stray `</invoke>` — tool-call
+scaffolding written into the files by the Genesis 10 ingest. All removed. They were invisible to
+`scripts/link-check.sh` and rendered as literal text in Obsidian.
+
+**Judgment calls made unattended, listed for review**
+
+1. **The pericope boundary was kept at 11:10–32**, spanning both *toledot*, as the book page
+   planned. Splitting at 11:27 was tempting and was rejected: the register and the household are one
+   movement from Shem to Abram, and the register's point — the vanished death formula — only lands
+   against the two deaths in Terah's family.
+2. **`Abraham.md` and `Sarah.md`, not `Abram.md` and `Sarai.md`.** They are Abram and Sarai until
+   Genesis 17:5, 15 and by their later names in the whole rest of the canon. Filing them under the
+   later names avoids renaming two heavily-linked pages six chapters from now and fixing every
+   inbound link; both pages open with a note on the naming, carry `also_known_as`, and use *Abram*
+   and *Sarai* in prose wherever the text under discussion does.
+3. **Both Nahors were created with qualifiers** — `Nahor (son of Serug)` and
+   `Nahor (brother of Abram)` — since both arrive in the same pericope and neither can hold the bare
+   name. Same for `Haran (son of Terah)` against `Haran (city)`, on the `Enoch (city)` precedent. The
+   Haran pair is worth flagging: they are *different words in Hebrew* (הָרָן with *he*, חָרָן with
+   *ḥet*) and identical only in English, which both pages say explicitly because the "father settles
+   in the town named for his dead son" reading is a translation artefact.
+4. **`Iscah` got a page** despite one mention in one subordinate clause, on the precedent of Jabal,
+   Jubal, and Tubal Cain: she is a named individual, and the tradition identifying her with Sarai is
+   what makes the verse's asymmetry legible.
+5. **Two new themes rather than three.** `Barrenness` and `Land and Sojourning` were created;
+   a separate connection page for the barren-wife thread was not, because the material is a
+   recurring motif rather than a passage-to-passage link and belongs on the theme page.
+6. **Contradictions flagged, not resolved.** Acts 7:4 (*"when his father was dead"*) against Genesis
+   11:26/11:32/12:4, and Acts 7:2 (the call in Mesopotamia *before* Haran) against Genesis 12:1 read
+   in place — both are set out on `Out of Ur`, with the three standard resolutions, the Samaritan
+   Pentateuch's 145-year Terah, and no adjudication. Likewise Sarai's parentage: Genesis 20:12
+   against the Josephus/Talmud/Rashi identification with Iscah, recorded on both pages with neither
+   adopted.
+7. **Chronology reported with its assumption attached.** The AM table on the passage page uses the
+   Masoretic figures on the same reckoning as `From Adam to Noah`, and the 292-year flood-to-Abram
+   interval is stated *and* flagged as depending on Abram being Terah's firstborn, which the same
+   page argues he probably is not. Every figure in the table was recomputed from `raw/bible/Genesis.md`
+   rather than carried over, and the eleven block-quoted verses on the passage page were verified
+   character-for-character against the raw file.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64.

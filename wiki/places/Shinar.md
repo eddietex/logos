@@ -50,4 +50,3 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
 - The city and the tower are built, the languages confused, and the builders scattered — Genesis
   11:1–9, [[The Tower of Babel]]
 - Amraphel king of Shinar joins the coalition Abram defeats — Genesis 14:1, 9 *(not yet ingested)*
-</content>

@@ -59,6 +59,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - **Acts 2:5–11** — *"devout men, from every nation under the sky"*, each hearing in his own language:
   the languages of Babel not undone but made transparent. See
   [[The Table of Nations at Pentecost]].
+- **Genesis 11:10–32** — the narrowing. Having spread seventy peoples across the map and scattered
+  them, Genesis pulls one thread out of it and follows a single household from Shem to Abram. The
+  seventy are not mentioned again for a chapter, and when they return at 12:3 they are the object of
+  a blessing: *"in you all the families of the earth will be blessed."* The particular line exists
+  for the sake of the general map, and this register is where the book turns from one to the other.
+  See [[From Shem to Abram]].
 - **Acts 17:26; Romans 15:8–12; Galatians 3:8** — the theme argued as doctrine, and Genesis 12:3 read
   as *"the Good News beforehand to Abraham"*.
 - **Revelation 5:9; 7:9; 14:6; 21:24–26** — *"every tribe, language, people, and nation"*, the
@@ -75,6 +81,8 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   thesis the Table fills in, and the oracle that partitions the three brothers
 - [[The Covenant with Noah]] — a covenant made with *"every living creature"* before any nation is
   named
+- [[From Shem to Abram]] — the map narrowed to one line, and the family the seventy will be blessed
+  through
 
 ## Related themes
 
@@ -97,4 +105,3 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[Eber]]
 - [[Peleg]]
 - [[Canaan (son of Ham)]]
-</content>

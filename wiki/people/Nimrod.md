@@ -115,4 +115,3 @@ remembers, and the rebel is an inference from two ambiguous words.**
 - [[The Nations]]
 - [[Pride and Self-Exaltation]] — the theme he is the traditional face of, on evidence Genesis does
   not supply
-</content>

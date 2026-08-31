@@ -85,6 +85,12 @@ costly.
   the only place in Genesis where a blessing is enforced against its recipients' will**, which makes
   the scattering readable as judgment and as blessing at once — and the passage supplies no word that
   would settle which. See [[The Tower of Babel]].
+- **Genesis 11:10–32** — the theme present only by its absence, and worth noting for that. Nothing is
+  blessed in these twenty-three verses; God is not named in them at all. Meanwhile the blessing of
+  9:1 is visibly failing on its own terms — the lifespans halve and halve again, and the register of
+  *"be fruitful and multiply"* ends on *"Sarai was barren. She had no child"* (11:30). Genesis puts
+  the collapse of the blessing immediately before the passage that uses the word five times in two
+  verses (12:2–3). See [[From Shem to Abram]] and [[Barrenness]].
 - To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
   out to *"all the families of the earth"* (12:1–3) — which uses the Table's own word for families,
   *mišpəḥōt* — the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the covenant
@@ -107,6 +113,8 @@ costly.
 - [[The Table of Nations]] — 10:32, the command of 9:1 reported fulfilled: seventy nations, and no
   divine comment on any of them
 - [[The Tower of Babel]] — 11:4 and 11:8, the same command refused and then enforced
+- [[From Shem to Abram]] — the blessing at its lowest ebb: no divine word, collapsing lifespans, and
+  a barren wife, four verses before *"I will bless you… and you will be a blessing"*
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
@@ -119,6 +127,7 @@ costly.
 - [[Image of God]]
 - [[Sabbath]]
 - [[Curse]] — the counter-word
+- [[Barrenness]] — the exact negation of a blessing counted in descendants
 - [[Covenant]] — what the blessing of 9:1–7 is attached to, and what asks nothing back
 - [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]

@@ -28,6 +28,8 @@ even fratricidal betrayal into rescue (Joseph).
 ## Structure
 
 - **1–11 Primeval history** — creation, fall, flood, and the scattering at Babel: all humanity.
+  Complete in the wiki as of *[[From Shem to Abram]]*, which closes it on a family halfway to Canaan
+  with a barren wife and a father buried short of the land.
 - **12–25:18 Abraham** — the call, the covenant, and the long wait for a promised son.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
@@ -53,7 +55,7 @@ merge, or reorder them freely.
 - [x] [[Noah's Sons and the Curse of Canaan]] — Genesis 9:18–29
 - [x] [[The Table of Nations]] — Genesis 10:1–32
 - [x] [[The Tower of Babel]] — Genesis 11:1–9
-- [ ] From Shem to Abram — Genesis 11:10–32
+- [x] [[From Shem to Abram]] — Genesis 11:10–32
 
 ### Abraham (12–25:18)
 
@@ -131,6 +133,8 @@ merge, or reorder them freely.
 - [[Kingship and Empire]]
 - [[Pride and Self-Exaltation]]
 - [[Language and Speech]]
+- [[Barrenness]]
+- [[Land and Sojourning]]
 
 ## Key people
 
@@ -151,6 +155,10 @@ merge, or reorder them freely.
 - [[Nimrod]]
 - [[Eber]]
 - [[Peleg]]
+- [[Terah]]
+- [[Abraham]]
+- [[Sarah]]
+- [[Lot]]
 
 ## Key places
 
@@ -164,3 +172,5 @@ merge, or reorder them freely.
 - [[Assyria]]
 - [[Nineveh]]
 - [[Egypt]]
+- [[Ur of the Chaldees]]
+- [[Haran (city)]]

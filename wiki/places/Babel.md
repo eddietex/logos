@@ -80,4 +80,3 @@ as one entry in a king's city list. See [[Babel and Babylon the Great]].
   its etymology — Genesis 11:1–9, [[The Tower of Babel]]
 - Amraphel king of Shinar joins the coalition Abram defeats — Genesis 14:1, 9 *(not yet ingested)*
 - Judah deported and the temple vessels carried here — 2 Kings 25; Daniel 1:1–2
-</content>

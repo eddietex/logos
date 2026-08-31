@@ -43,6 +43,13 @@ three times over, Genesis 10 gives him a firstborn, eleven sons, and a border, o
 footing as Japheth and Shem. The moral partition of 9:25–27 and the geographical partition of chapter
 10 stand side by side, and Genesis does not make the second depend on the first.
 
+**The first time anyone goes there.** Genesis 11:31 is the land's first appearance as a
+destination rather than a territory: *"They went from Ur of the Chaldees, **to go into the land of
+Canaan**. They came to Haran and lived there."* Every previous mention placed it, drew its border,
+or cursed the man it is named for; here somebody sets out for it — and it is [[Terah]], not Abram,
+and he does not arrive. The land enters the story as a place a family failed to reach. See
+[[From Shem to Abram]] and [[Land and Sojourning]].
+
 **What the rest of Scripture does with it.** The land is promised (Genesis 12:7, 15:18–21, 17:8),
 surveyed (Numbers 13), entered (Joshua 1–12), lost (2 Kings 17, 25), and promised again. Its
 inhabitants are dispossessed on grounds the Torah states plainly and which are never Noah's oracle:
@@ -53,9 +60,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Table of Nations]] — Genesis 10:15–19: eleven peoples and the only border in the chapter
 - [[Noah's Sons and the Curse of Canaan]] — as the name of the man the land is named for, and the
   object of Noah's curse
+- [[From Shem to Abram]] — Genesis 11:31, its first appearance as somewhere anyone is going
 
 ## Related places
 
+- [[Ur of the Chaldees]] and [[Haran (city)]] — the two Mesopotamian cities the family that is aimed
+  at Canaan comes from and stops in
 - [[Egypt]] — its neighbour to the south-west, and the other of Ham's two great territories
 - [[Assyria]] and [[Shinar]] — the Mesopotamian powers at the other end of the map
 - **Sidon, Gerar, Gaza, Sodom, Gomorrah, Admah, Zeboiim, Lasha** — the eight settlements that fix the
@@ -65,6 +75,6 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 
 - The eleven Canaanite peoples spread abroad, and their border is fixed — Genesis 10:18–19,
   [[The Table of Nations]]
+- Named as [[Terah]]'s destination, and not reached — Genesis 11:31, [[From Shem to Abram]]
 - Abram is called to it and passes through it — Genesis 12:1–9 *(not yet ingested)*
 - Promised to Abram's offspring, by its peoples — Genesis 15:18–21 *(not yet ingested)*
-</content>

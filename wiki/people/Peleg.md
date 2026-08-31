@@ -59,8 +59,8 @@ the same with Cain against Seth, Ishmael against Isaac, and Esau against Jacob.
 
 - Born to [[Eber]], with a brother, Joktan — Genesis 10:25, [[The Table of Nations]]
 - Named for the division of the earth that happened *"in his days"* — Genesis 10:25
-- Fathers Reu at thirty and lives two hundred thirty-nine years in all — Genesis 11:18–19
-  *(not yet ingested)*
+- Fathers [[Reu]] at thirty and lives two hundred thirty-nine years in all, the register's first
+  sharply shortened life — [[From Shem to Abram]]
 - Named in the Chronicler's Table (1 Chronicles 1:19, 25) and in Luke's genealogy of Jesus
   (Luke 3:35)
 
@@ -70,10 +70,13 @@ the same with Cain against Seth, Ishmael against Isaac, and Esau against Jacob.
 - [[The Tower of Babel]] — not by name, but as the event his name is usually taken to date: the
   division of the earth Genesis 11:1–9 narrates falls inside his generation on the Table's own
   reckoning
+- [[From Shem to Abram]] — Genesis 11:16–19; the entry where the register's lifespans halve for the
+  second time, and on its arithmetic the first of the ten to die
 
 ## Related people
 
 - [[Eber]] — his father, and the name Shem's whole branch is introduced by
+- [[Reu]] — his son, whose two hundred thirty-nine years exactly match his own
 - **Joktan** — his brother, given thirteen sons and a territory, and then dropped
 - [[Shem]] — his great-great-grandfather
 - [[Noah]] — five generations back
@@ -82,4 +85,3 @@ the same with Cain against Seth, Ishmael against Isaac, and Esau against Jacob.
 
 - [[The Nations]]
 - [[Life and Death]]
-</content>

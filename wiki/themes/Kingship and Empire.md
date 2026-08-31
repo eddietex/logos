@@ -95,4 +95,3 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 - [[The Nephilim]]
 - [[Ham]]
 - [[Noah]]
-</content>
