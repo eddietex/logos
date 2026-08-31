@@ -1,7 +1,7 @@
 # Places Index
 
 Catalog of every place page, updated on each ingest. Split further once this list passes ~150
-entries (see growth triggers in `CLAUDE.md`).
+entries (see growth triggers in `AGENTS.md`).
 
 | Name | Summary | Key passages |
 |---|---|---|

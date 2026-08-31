@@ -1536,3 +1536,38 @@ Isaiah, Jeremiah, Daniel, Zephaniah, Acts, Philippians, Revelation — cannot be
 unchecked, and the less certain ones were paraphrased rather than quoted. This pericope's reception
 runs further outside Genesis than any before it, so the caveat is also recorded on the passage page
 itself under *Notes*.
+
+## [2026-08-30] schema | Schema file renamed `CLAUDE.md` → `AGENTS.md`
+
+The schema now lives in `AGENTS.md`, the filename Codex, Cursor, Zed and the rest look for, so
+this repo is no longer readable by one agent only. `CLAUDE.md` remains as a one-line stub whose
+entire content is `@AGENTS.md`: Claude Code 2.1.241 discovers only `CLAUDE.md`, `.claude/CLAUDE.md`,
+`CLAUDE.local.md` and `.claude/rules/`, and has no setting to change that, but memory files support
+`@path` imports — so the stub pulls the schema in and nothing about the Claude Code workflow
+changes. The same move was made in `~/Work/research` first.
+
+Live references were repointed at `AGENTS.md`: `README.md`'s intro link and layout list (which now
+also documents the stub), `wiki/people/index.md` and `wiki/places/index.md`'s growth-trigger notes,
+`wiki/people/Job (person).md`'s note on the book/person naming rule, and the four places in
+`.claude/skills/ingest/SKILL.md` that call the schema the authority. The `## Directory map` in
+`AGENTS.md` gained both root files. `.obsidian/app.json` gained
+`userIgnoreFilters: ["CLAUDE.md"]` so the stub stays out of search, the graph, and the quick
+switcher.
+
+The `/ingest` skill's commit template no longer hardcodes `Co-Authored-By: Claude Opus 5
+<noreply@anthropic.com>`. Baking one model's name into the history of a repo any agent may write
+to was the last Claude-ism outside `.claude/` itself; the trailer is now a placeholder the
+running agent fills with its own identity, or drops when its harness already appends one.
+
+Not changed: this file's ~20 earlier mentions of `CLAUDE.md` — the log is append-only, and they
+were accurate when written. `llm-wiki.md` already names both filenames as examples of the same
+pattern. `.claude/settings.json` stays as-is; a permission allowlist is Claude-only config with no
+cross-tool analogue, and duplicating one per agent is fine.
+
+Still Claude-specific, and deliberately left for a separate pass: the `/ingest` skill itself.
+`.claude/skills/` has no cross-tool equivalent — Codex prompts live in `~/.codex/prompts/`, which
+is per-user rather than per-repo — so porting it means moving the procedure into a plain document
+and leaving `SKILL.md` as a stub that reads it. `README.md` still names Claude Code and `/ingest`,
+which is honest until that happens.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64.

@@ -7,7 +7,7 @@ disable-model-invocation: true
 
 # Ingest the next pericope
 
-`CLAUDE.md` holds the schema and the numbered ingest workflow — it is the authority on what a
+`AGENTS.md` holds the schema and the numbered ingest workflow — it is the authority on what a
 pericope ingest produces. This skill only resolves **which** pericope is next and gets its text
 in front of you.
 
@@ -17,7 +17,7 @@ If the argument begins with the keyword **`auto`** (`/ingest auto`, `/ingest aut
 is an **unattended** run — a scheduled routine with nobody at the terminal. Strip the keyword and
 treat whatever follows as the target. In unattended mode:
 
-- **Skip step 2 of the `CLAUDE.md` ingest workflow — the discussion.** There is no one to discuss
+- **Skip step 2 of the `AGENTS.md` ingest workflow — the discussion.** There is no one to discuss
   with. Everything you would have said aloud goes into the passage page instead: what is
   happening, who and where and what is notable, how it connects to what is already in the wiki.
   The page absorbs the discussion; it is not dropped.
@@ -32,7 +32,7 @@ treat whatever follows as the target. In unattended mode:
 Without the keyword, run interactively: the discussion in step 2 happens as written, and a real
 ambiguity is worth a question.
 
-Everything else — steps 1 through 5 below, and the whole `CLAUDE.md` workflow — is identical in
+Everything else — steps 1 through 5 below, and the whole `AGENTS.md` workflow — is identical in
 both modes.
 
 ## 1. Resolve the target
@@ -91,7 +91,7 @@ the unchecked boxes and say so in your report.
 ## 4. Ingest
 
 Read the pericope's verses from `raw/bible/<Book>.md`, then work the numbered ingest workflow in
-`CLAUDE.md` end to end — all nine steps interactively, or steps 1 and 3–9 in unattended mode,
+`AGENTS.md` end to end — all nine steps interactively, or steps 1 and 3–9 in unattended mode,
 with step 2's discussion written into the passage page instead. Quote the WEB text verbatim from
 the raw file — never from memory.
 
@@ -127,14 +127,16 @@ git commit -m "$(cat <<'EOF'
 
 <one or two lines: the pericope, and the pages created or revised>
 
-Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Co-Authored-By: <the agent running this skill>
 EOF
 )"
 git push
 ```
 
 Subject line follows the existing history: `Genesis 1.1-2.3 ingested`. Commit and push on the
-current branch.
+current branch. Fill the `Co-Authored-By:` trailer with your own agent identity — name and
+contact address — not a hardcoded one; drop the line entirely if your harness already appends
+its own trailer.
 
 If `git status` is dirty *before* you start — uncommitted work from a previous run or from the
 user editing in Obsidian — commit it separately first with its own message, so the ingest commit

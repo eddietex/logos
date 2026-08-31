@@ -2,7 +2,7 @@
 
 A Bible wiki, built and maintained by an LLM agent (Claude Code), following the pattern in
 [`llm-wiki.md`](llm-wiki.md). The concrete conventions for *this* instance — directory layout,
-page templates, ingest/query/lint workflows — live in [`CLAUDE.md`](CLAUDE.md); that's the file
+page templates, ingest/query/lint workflows — live in [`AGENTS.md`](AGENTS.md); that's the file
 that actually drives the agent.
 
 You rarely write the wiki yourself. Open this repo as an Obsidian vault, keep Claude Code open
@@ -44,7 +44,9 @@ have passage pages behind them, so changing one means asking the agent to redo t
 - `templates/` — one page template per wiki page type.
 - `scripts/fetch-book.sh` — pulls one book's WEB text from bible-api.com into `raw/bible/`.
 - `.claude/skills/ingest/` — the `/ingest` skill.
-- `CLAUDE.md` — the schema the agent follows. Evolves as conventions change.
+- `AGENTS.md` — the schema the agent follows. Evolves as conventions change.
+- `CLAUDE.md` — a one-line `@AGENTS.md` import stub, because Claude Code only discovers
+  `CLAUDE.md`.
 - `llm-wiki.md` — the original, domain-agnostic pattern this repo instantiates.
 
 ## Status

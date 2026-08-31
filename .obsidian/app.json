@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "raw/assets"
+  "attachmentFolderPath": "raw/assets",
+  "userIgnoreFilters": [
+    "CLAUDE.md"
+  ]
 }

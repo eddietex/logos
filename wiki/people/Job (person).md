@@ -8,7 +8,7 @@ tags: [person]
 The page is titled `Job (person)` rather than `Job` because `[[Job]]` is the book page,
 `wiki/books/Job.md`. Two files with the same basename make an unqualified wikilink resolve
 unpredictably in Obsidian, and — worse — the link checker cannot see the ambiguity, because it
-matches on basename too. See the naming rule for book/person collisions in `CLAUDE.md`.
+matches on basename too. See the naming rule for book/person collisions in `AGENTS.md`.
 
 ## Overview
 
