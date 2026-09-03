@@ -23,6 +23,19 @@ son and that son's barren wife, and a fatherless grandson. The arithmetic of a f
 heir is set up in a single verse, and Genesis 15:2–3 will say it out loud when Abram complains that
 *"one born in my house is my heir"*.
 
+### In the next pericope — Genesis 12:1–9
+
+*"Lot went with him"* (12:4), and then again in the inventory of 12:5. Four words, and they are a
+small problem the text does not acknowledge: the call Abram has just obeyed said *"leave your
+country, and your relatives, and your father's house"*, and the first thing he does is bring a
+member of his father's house along. Genesis offers no comment, no permission, and no rebuke. Lot is
+simply there, unbidden and unpromised — nothing in 12:2–3 is addressed to him or includes him.
+
+That unexplained presence is what the next seven chapters are made of: the herdsmen's quarrel and
+the separation (13), the war and the rescue (14), and Sodom (19). And it has a second function
+immediately — a childless man of seventy-five who has just been promised *"a great nation"* is
+travelling with the only young male relative he has. See [[The Call of Abram]].
+
 ### What his presence sets up
 
 Everything that follows from Genesis 12 to 19 depends on his being here. He goes out of Haran with
@@ -44,7 +57,8 @@ caravan.
 - Orphaned when his father dies before Terah — Genesis 11:28
 - Taken by [[Terah]] out of Ur toward [[Canaan]]; settles with the household in
   [[Haran (city)]] — Genesis 11:31, [[From Shem to Abram]]
-- Goes out of Haran with Abram — Genesis 12:4–5 *(not yet ingested)*
+- Goes out of Haran with Abram, uncommanded and unpromised — Genesis 12:4–5,
+  [[The Call of Abram]]
 - Separates from Abram and settles toward Sodom — Genesis 13:5–13 *(not yet ingested)*
 - Captured and rescued — Genesis 14:12–16 *(not yet ingested)*
 - Brought out of Sodom — Genesis 19:1–29 *(not yet ingested)*
@@ -53,6 +67,8 @@ caravan.
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:27–31
+- [[The Call of Abram]] — Genesis 12:4–5; the relative Abram brings out of the father's house he was
+  told to leave
 
 ## Related people
 

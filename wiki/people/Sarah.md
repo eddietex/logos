@@ -35,6 +35,23 @@ to conceive"* (Hebrews 11:11). See [[Barrenness]].
 *"Terah took … Sarai his daughter-in-law, his son Abram's wife"* (11:31). She leaves Ur as an object
 of her father-in-law's verb, like her husband, and settles in [[Haran (city)]].
 
+### In the next pericope — Genesis 12:1–9
+
+She is named once, in the inventory of what Abram took out of Haran: *"Abram took Sarai his wife,
+Lot his brother's son, all their possessions … and the people whom they had acquired in Haran"*
+(12:5). No word to her, no word from her, and no mention of her in the promise.
+
+**That silence is the pericope's sharpest edge.** The promise Abram is given is *"I will make of you
+a great nation"* (12:2), and the last thing said about his wife, four verses earlier, was that she
+could not have a child. Genesis places the obstacle and the promise back to back and does not
+connect them; nobody in chapter 12 mentions the difficulty, and God does not address it for another
+five chapters. Everything from Hagar (16) to the laughter behind the tent flap (18:12) to Isaac
+(21:2) is the working-out of a collision the text sets up here without a word. See
+[[Barrenness]] and [[The Call of Abram]].
+
+She is also, on the arithmetic of 17:17, sixty-five years old when she leaves Haran — which is worth
+holding beside what the next pericope has the Egyptians say about her.
+
 ### Whose daughter she was
 
 Genesis 11:29 withholds it and two later texts fill it differently.
@@ -78,6 +95,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - *"Sarai was barren. She had no child"* — Genesis 11:30
 - Taken from [[Ur of the Chaldees]] toward Canaan with Terah's household; settles in Haran —
   Genesis 11:31
+- Leaves Haran with Abram and enters Canaan — Genesis 12:5, [[The Call of Abram]]
+- Taken into Pharaoh's house in Egypt — Genesis 12:14–20 *(not yet ingested)*
 - Renamed Sarah and promised a son — Genesis 17:15–21 *(not yet ingested)*
 - Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
@@ -85,6 +104,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:29–31
+- [[The Call of Abram]] — Genesis 12:5; named in the travel list, and absent from the promise made
+  over her barrenness
 
 ## Related people
 

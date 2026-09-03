@@ -9,8 +9,10 @@ tags: [connection]
 
 - **Genesis 4:26** — *"A son was also born to Seth, and he named him Enosh. At that time men began
   to call on Yahweh's name."* — [[The Line of Cain and the Birth of Seth]]
-- **Genesis 12:8; 13:4; 21:33; 26:25** *(not yet ingested)* — Abram and Isaac building altars and
-  calling on the name
+- **Genesis 12:8** — Abram between Bethel and Ai: *"There he built an altar to Yahweh and called on
+  Yahweh's name."* — [[The Call of Abram]]
+- **Genesis 13:4; 21:33; 26:25** *(not yet ingested)* — Abram returning to the same altar, Abraham at
+  Beersheba, and Isaac at Beersheba
 - **Exodus 6:2–3** *(not yet ingested)* — *"I am Yahweh. I appeared to Abraham, to Isaac, and to
   Jacob, as God Almighty; but by my name Yahweh I was not known to them."*
 - **Joel 2:32** — *"whoever will call on Yahweh's name shall be saved"*
@@ -59,6 +61,15 @@ Two long-standing resolutions:
 Both are serious, and the wiki keeps both. It is worth noticing that the choice is not between a
 faithful reading and a critical one: the semantic answer is old, and the source-critical observation
 is about a genuine discontinuity in the text that the semantic answer explains rather than denies.
+
+**The gap, and where the phrase resumes.** Between Genesis 4:26 and Genesis 12:8 the formula does
+not occur — through the flood, the covenant, the Table of Nations, Babel, and the register from Shem
+to Abram, nobody in Scripture is said to call on the name. Noah builds an altar (8:20) and is not
+said to say anything at it. The phrase returns on the ridge between [[Bethel]] and [[Ai]], in a land
+Abram has just been told will belong to his offspring and does not yet belong to him, and it returns
+attached to an altar — which is what fixes its sense for the rest of Genesis. Whatever *qārāʾ bešēm
+YHWH* is, it is done aloud, in a place, at a structure, by a man with no title to the ground he is
+standing on. See [[The Call of Abram]].
 
 **The thread itself.** What begins in Enosh's generation becomes the patriarchs' standing practice,
 then a prophetic promise, and finally the New Testament's shortest description of how anyone is

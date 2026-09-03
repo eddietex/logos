@@ -1819,3 +1819,109 @@ discussion went into the passage pages.
    yet in `raw/` remain unverifiable against a source in this repo, as elsewhere in the wiki.
 
 `scripts/link-check.sh` clean, exit 0, baseline 64. No dangling links were left deliberately.
+
+## [2026-09-03] ingest | Genesis 12.1-9 — The Call of Abram
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` — Job is also in-progress and loses on canonical order, notwithstanding that
+the previous commit was a Job ingest — and *The Call of Abram* was the first unchecked box on its
+page. `raw/bible/Genesis.md` was already present, so no fetch. Step 2's discussion went into the
+passage page. **This opens the Abraham cycle and the patriarchal history.**
+
+**The pericope.** Nine verses in which Abram says nothing. Yahweh commands three surrenders
+(*"Leave your country, and your relatives, and your father's house"*) with the destination withheld,
+and promises five times over — the root *brk* occurs five times in 12:2–3, against exactly five
+curses in Genesis 1–11 (3:14, 3:17, 4:11, 5:29, 9:25). The last clause aims the promise at *"all
+the families of the earth"*, using the Table of Nations' own word for the seventy peoples and the
+word for the ground cursed at 3:17. Abram goes at seventy-five with Sarai, Lot, and his household,
+enters Canaan — the first person in the Bible to do so — and crosses it from Shechem through the
+Bethel/Ai ridge to the Negev, building two altars and pitching a tent in a land the narrator notes
+is already occupied. The land is promised not to him but to his offspring, and he has none.
+
+**Created**
+
+- `wiki/passages/Genesis/The Call of Abram.md`
+- `wiki/places/Shechem.md` — the oak of Moreh, the altar, and the site's whole later career: Dinah,
+  Joshua 24, Abimelech, and the division of the kingdom.
+- `wiki/places/Bethel.md` — Luz until 28:19, so the name at 12:8 is the narrator's; the arc from
+  Abram's altar to Jeroboam's calf to Josiah's demolition.
+- `wiki/places/Ai.md` — the eastern marker, and the archaeological problem at et-Tell stated rather
+  than resolved.
+- `wiki/places/The Negev.md` — the WEB's *"the South"*; the patriarchs' usual address and the
+  corridor to Egypt.
+- `wiki/themes/Call and Election.md` — a new theme, founded on 12:1: no stated reason, being chosen
+  is being sent, and the purpose overshoots the chosen.
+- `wiki/connections/Leave Your Country - The Two Lek-Lekha Commands.md` — 12:1 and 22:2, the
+  phrase's only two occurrences, with the parallel structure laid out clause by clause.
+- `wiki/connections/All the Families of the Earth - Genesis 12.3 in the New Testament.md` — the
+  niphal/hithpael crux, the four restatements in Genesis, and Acts 3:25 / Galatians 3:8.
+- `wiki/connections/The Altar at Shechem and the Covenant at Shechem.md` — one site from the oak of
+  Moreh to Joshua 24 to 1 Kings 12 to John 4.
+
+**Revised**
+
+- `wiki/books/Genesis.md` — box checked; the Abraham section of `## Structure` given its opening
+  line; `Call and Election` and the four new places added to the key lists.
+- `wiki/books/index.md` — Genesis 15 / 58.
+- People: `Abraham` (new section on the call, timeline rebuilt for 12:1–9), `Sarah`, `Lot`,
+  `Terah`, `God`.
+- Places: `Canaan` (entered at last), `Haran (city)`.
+- Themes: `Blessing` (the five-for-five count), `Curse` (12:3's lopsided pairing), `The Nations`,
+  `Land and Sojourning`, `Covenant` (promise before covenant), `Sacrifice and Offering`,
+  `Barrenness`, `Pride and Self-Exaltation`.
+- Connections: `Out of Ur - Terah's Journey and Abram's Call`, `A Name for Ourselves and a Great
+  Name`, `Calling on the Name of Yahweh`, `Sacrifice Before the Priesthood` — all four had
+  Genesis 12 marked *(not yet ingested)* and now point at the passage.
+- All five category indexes and `wiki/index.md`'s counts (21 passages · 47 people · 19 places ·
+  35 themes · 49 connections).
+
+**Judgment calls, made unattended**
+
+1. **No new person pages.** The pericope names Abram, Sarai, Lot, and Yahweh, all of whom have
+   pages, and one unnamed group — *"the people whom they had acquired in Haran"*. That group is
+   handled in the passage page's `## People` section rather than given a page, since the text
+   supplies a phrase and nothing else. The Canaanites likewise: `Canaan` and
+   `Canaan (son of Ham)` already carry what there is to say.
+2. **Four new place pages for a nine-verse pericope**, which is the most in any ingest so far. Every
+   one is named in the text and every one carries substantial later weight — Shechem and Bethel
+   especially, which are the two great non-Jerusalem sanctuaries of the Old Testament. `The Negev`
+   was created despite the WEB rendering it as the compass word *"the South"*, because the same
+   region recurs at 13:1, 20:1, 24:62, and through the Isaac and David narratives.
+3. **`Call and Election` created as a theme.** The alternative was to fold 12:1 into `Blessing` and
+   `Covenant`, but the call is neither: it precedes the covenant by three chapters and is the thing
+   Romans 9, Deuteronomy 7, and Isaiah 49 all argue about. `Faith` was considered and deferred —
+   Genesis does not use the word until 15:6, and starting the page there will be better founded.
+4. **Three connection pages, and one of them renamed mid-pass.** The page pairing 12:1 with 22:2 was
+   first written as `Get Out of Your Country - The Two Lek-Lekha Commands`, on the familiar KJV-ish
+   phrasing. It was renamed to `Leave Your Country - The Two Lek-Lekha Commands` once the raw text
+   was checked: the WEB reads *"Leave your country"*, and a page title in this wiki should not quote
+   a translation the wiki does not use.
+5. **Four pre-existing pages were quoting Genesis 12:1 in wording the WEB does not have.**
+   `Haran (city)`, `From Shem to Abram`, `Land and Sojourning`, and
+   `Out of Ur - Terah's Journey and Abram's Call` all had *"Get out of your country, and from your
+   relatives, and from your father's house"* — written before the verse was ingested and therefore
+   before it could be checked against `raw/`. All four now carry the WEB wording. The Acts 7:3 quote
+   on the `Out of Ur` page still reads *"Get out of your land"*, correctly: that is the WEB of Acts,
+   not of Genesis.
+6. **A transcription typo in the raw file is quoted verbatim and flagged.** `raw/bible/Genesis.md`
+   12:3 reads *"I will curse him who **treates** you with contempt"*; the WEB reads *treats*. The
+   `## Key verses` block quotes the raw file as the repo requires and the passage page's first note
+   records the slip. Where the verse is quoted in prose elsewhere (`Curse`), the correct *treats* is
+   used. `raw/` was not edited — it is immutable by the schema, and the typo is bible-api.com's, not
+   the translation's.
+7. **The blessing/curse count is presented as a pattern, not a proof.** Five *brk* against five
+   *ʾrr* holds on a straight count, but the five curses are heterogeneous and the fifth blessing is
+   the disputed niphal. Both cautions are written into the passage page's note rather than left for
+   a reader to find.
+8. **The niphal at 12:3 is left open.** The passive is recorded as what the Septuagint, Acts, and
+   Galatians work from; the reflexive as what the hithpaels at 22:18 and 26:4 push toward. The wiki
+   adopts neither, and says why the choice matters more to Paul's argument than to the Hebrew.
+9. **No pericope boundaries were redrawn.** 12:1–9 divides cleanly at the famine of 12:10, which is
+   where the existing plan already put the break.
+10. **Quote accuracy.** All nine block-quoted verses on the passage page were verified
+    character-for-character against `raw/bible/Genesis.md` by script. Inline quotations of Genesis
+    12 across every page touched this pass were checked the same way. Quotations of books not yet in
+    `raw/` remain unverifiable against a source in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately.

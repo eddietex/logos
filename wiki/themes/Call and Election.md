@@ -1,0 +1,110 @@
+---
+type: theme
+tags: [theme]
+---
+# Call and Election
+
+## Definition / overview
+
+God choosing and summoning particular people, for purposes that reach past them.
+
+The theme has a founding text and it is Genesis 12:1. *"Now Yahweh said to Abram, 'Leave your
+country, and your relatives, and your father's house, and go to the land that I will show you.'"*
+Nothing precedes it. There is no request, no search, no audition, and — this is the part the text is
+most insistent about — **no stated reason**. Genesis has just spent twenty-three verses (see
+[[From Shem to Abram]]) introducing Abram as a man with a barren wife, a dead brother, a father
+buried short of his destination, and not one recorded word or deed of his own. Then he is called.
+Isaiah reads the passage exactly this way a thousand years later: *"look to Abraham your father …
+for when he was but one I called him"* (51:2).
+
+Two Hebrew words do most of the work. ***Qārāʾ***, to call or summon by name, which is also the verb
+for naming a thing and for calling on God — the same word runs in both directions between God and
+people. And ***bāḥar***, to choose, which the Old Testament uses of God's election of Abraham
+(Nehemiah 9:7), of Israel (Deuteronomy 7:6), of a place (Deuteronomy 12:5), and of a king (1 Samuel
+16:8–10), and which almost always carries a purpose clause behind it.
+
+**Three features hold across the whole Bible, and all three are already in Genesis 12.**
+
+1. **The chosen have no qualifications.** Deuteronomy 7:7 says it outright — *"Yahweh didn't set his
+   love on you nor choose you because you were more in number than any people, for you were the
+   fewest"* — and 1 Corinthians 1:27 says it again about the church. Genesis makes the point by
+   telling us nothing about Abram at all.
+2. **Being chosen is being sent.** The call is an imperative: *go*. Election in Scripture is never
+   simply a status; Abram is chosen to leave, Moses to confront Pharaoh, Israel to be a kingdom of
+   priests, the disciples to be *"with him"* and to be *"sent out"* (Mark 3:14). The New Testament's
+   word for that second half, *apostolos*, is just the participle of *sent*.
+3. **The purpose overshoots the chosen.** *"All the families of the earth will be blessed through
+   you"* (12:3). One man is picked out and the stated beneficiary is everyone else. This is the
+   feature that keeps biblical election from being a doctrine about favouritism, and it is present in
+   the very first instance of it. See
+   [[All the Families of the Earth - Genesis 12.3 in the New Testament]] and [[The Nations]].
+
+## Development across Scripture
+
+- **Genesis 12:1–4** — the first call. A command with the destination withheld, five blessings, and
+  no reason given. The response is reported as a verb and not a speech: *"So Abram went, as Yahweh
+  had told him."* See [[The Call of Abram]].
+- **Genesis 22:1–2** — the same idiom, *lek-ləkā*, used a second and last time, now demanding the son
+  the first call promised. See
+  [[Leave Your Country - The Two Lek-Lekha Commands]].
+- **Genesis 25:23; 28:13–15** — the choice narrowed to the younger son, twice, against the custom of
+  inheritance both times. Paul builds the argument of Romans 9 on precisely that.
+- **Exodus 3:1–4:17** — the pattern acquires a second half: Moses is called and **objects**, five
+  times, and the objections are answered rather than overruled. Every later call narrative is written
+  against this one — Gideon (Judges 6:11–16), Isaiah (6:1–8), Jeremiah (1:4–10), Ezekiel (2:1–7).
+  Abram's silence at Genesis 12 is unusual precisely because of how normal the objection becomes.
+- **Deuteronomy 7:6–8; 10:14–15** — Israel's election stated as doctrine, with the reason explicitly
+  declined: not because you were many, not because you were righteous (9:4–6), but *because Yahweh
+  loves you*, which is a restatement rather than a ground.
+- **1 Samuel 16:1–13** — *"Yahweh doesn't see as man sees"*: the youngest son, out with the sheep,
+  not invited to the sacrifice.
+- **Isaiah 41:8–9; 42:6; 49:6** — the servant *"chosen"*, and chosen *"for a light to the nations"*.
+  Isaiah is the book that most insists election is instrumental: Israel is picked for the sake of
+  everyone it was picked out of.
+- **Amos 3:2** — the hardest verse on the subject: *"You only have I known of all the families of the
+  earth. Therefore I will punish you for all your sins."* Election increases exposure.
+- **Jeremiah 1:5** — the call pushed back before birth, which Paul repeats of himself at Galatians
+  1:15.
+- **Mark 1:16–20; 3:13–19** — Jesus calls and names, and the calling is again a sending.
+- **Romans 8:28–30; 9:6–29; 11:28–32** — the New Testament's most sustained treatment, and it is an
+  argument about Genesis: Isaac not Ishmael, Jacob not Esau, and a conclusion that runs back out to
+  everyone — *"God has shut up all to disobedience, that he might have mercy on all."*
+- **1 Corinthians 1:26–31; Ephesians 1:4–5; 1 Peter 2:9** — the church described in Israel's terms,
+  *"a chosen race, a royal priesthood"*, with the purpose clause attached: *"that you may proclaim
+  the excellence of him who called you."*
+
+**The unresolved question**, which this wiki records rather than settles, is what election does to
+everyone not named in it. Genesis 12:3 makes the nations the beneficiaries; Amos 3:2 makes Israel's
+status a liability; Romans 9 presses the freedom of the choice to a point Paul himself answers with
+a doxology rather than an explanation. All three are in the canon, and no one of them is the key to
+the others.
+
+## Key passages
+
+- [[The Call of Abram]] — Genesis 12:1–9, the first call, with no reason given and everybody else as
+  the purpose
+- [[From Shem to Abram]] — Genesis 11:10–32, the emptiness the call lands on
+- Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
+- Exodus 3–4 — the call that is argued with
+- Deuteronomy 7:6–8 — election stated, and its reason declined
+- Isaiah 49:6 — *"a light to the nations, that you may be my salvation to the end of the earth"*
+- Romans 9–11 — the argument from Genesis, and its unresolved end
+
+## Related themes
+
+- [[Blessing]] — what the call is made of: five uses of *brk* in two verses
+- [[Covenant]] — what the promise of 12:1–3 becomes at 15:18, with machinery added and no conditions
+- [[The Nations]] — the stated object of the first call, and the argument of Isaiah and Paul
+- [[Land and Sojourning]] — what Abram is called *to*, and does not receive
+- [[Favor and Grace]] — the other freely given word, and the closest Old Testament relative of this
+  one
+- [[Barrenness]] — the condition the promise is spoken over
+
+## Related people
+
+- [[God]] — who calls, and never explains the choice
+- [[Abraham]] — the first man called, and the one the New Testament argues from
+- [[Sarah]] — chosen with him, and named in the promise only later (17:16)
+- [[Terah]] — who set out for the same land uncalled, and stopped
+- [[Noah]] — commanded and covenanted with, but never *called* in this sense; the vocabulary starts
+  at Genesis 12

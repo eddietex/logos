@@ -39,8 +39,8 @@ its own genealogy.
 
 Genesis returns here three times, and each time it is where the wives come from.
 
-- **Abram is called out of it.** *"Now Yahweh said to Abram, 'Get out of your country, and from your
-  relatives, and from your father's house'"* (12:1), and he leaves at seventy-five (12:4). Acts 7:2–4
+- **Abram is called out of it.** *"Now Yahweh said to Abram, 'Leave your country, and your
+  relatives, and your father's house'"* (12:1), and he leaves at seventy-five (12:4). Acts 7:2–4
   complicates this by putting the call in Mesopotamia *before* Haran, and the departure from Haran
   after Terah's death — see [[Out of Ur - Terah's Journey and Abram's Call]].
 - **Isaac's wife is fetched from it.** Abraham sends his servant *"to my country and to my
@@ -55,6 +55,8 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:31–32; where the journey to Canaan stops and Terah dies
+- [[The Call of Abram]] — Genesis 12:1–5; where the call is delivered, on Genesis's arrangement, and
+  the journey resumes
 
 ## Related places
 
@@ -62,11 +64,12 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 - [[Canaan]] — where they were going, and did not arrive
 - [[Assyria]] — the empire whose last capital it became
 - [[Nineveh]] — the Assyrian capital whose fall in 612 BC left Haran holding the remnant
+- [[Shechem]] — four hundred miles south-west, and the first place Abram stops after leaving here
 
 ## Events here
 
 - [[Terah]]'s household settles instead of continuing to Canaan — Genesis 11:31
 - Terah dies at two hundred five — Genesis 11:32
-- Abram is called out of it at seventy-five — Genesis 12:1–4 *(not yet ingested)*
+- Abram is called out of it at seventy-five — Genesis 12:1–4, [[The Call of Abram]]
 - Abraham's servant comes back for Rebekah — Genesis 24 *(not yet ingested)*
 - Jacob serves Laban twenty years and marries Leah and Rachel — Genesis 29–31 *(not yet ingested)*

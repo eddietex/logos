@@ -65,6 +65,16 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   a blessing: *"in you all the families of the earth will be blessed."* The particular line exists
   for the sake of the general map, and this register is where the book turns from one to the other.
   See [[From Shem to Abram]].
+- **Genesis 12:1–3** — and the narrowing turns out to be aimed outward. One man is called out of the
+  seventy peoples, and the last clause of the promise names them as the point: *wənibrəkû bəkā kōl
+  mišpəḥōt hāʾădāmâ*, *"all the families of the earth will be blessed through you"* — using
+  *mišpāḥâ*, the Table of Nations' own organising word (10:5, 18, 20, 31, 32). Two things follow.
+  Election in Genesis is instrumental from its first sentence: the choice of one household is stated
+  as a mechanism for everybody else, not as a preference over them. And the promise is aimed at the
+  primeval history's two casualties at once — the scattered *families*, and the *ʾădāmâ*, the ground
+  cursed at 3:17. Whether the nations *are blessed* or *bless themselves* by Abram is a live
+  grammatical question and the New Testament settles it in one direction; see
+  [[All the Families of the Earth - Genesis 12.3 in the New Testament]] and [[The Call of Abram]].
 - **Acts 17:26; Romans 15:8–12; Galatians 3:8** — the theme argued as doctrine, and Genesis 12:3 read
   as *"the Good News beforehand to Abraham"*.
 - **Revelation 5:9; 7:9; 14:6; 21:24–26** — *"every tribe, language, people, and nation"*, the
@@ -83,6 +93,8 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   named
 - [[From Shem to Abram]] — the map narrowed to one line, and the family the seventy will be blessed
   through
+- [[The Call of Abram]] — 12:3, where the seventy return as the stated object of the promise, in the
+  Table's own vocabulary
 
 ## Related themes
 
@@ -95,6 +107,7 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[Judgment]] — conspicuously absent from Genesis 10, and immediate in Genesis 11
 - [[Language and Speech]] — the axis the nations are most often sorted by, and the one God adjusts
 - [[Pride and Self-Exaltation]] — what the builders wanted instead of being many
+- [[Call and Election]] — choosing one out of the seventy, and stating the seventy as the reason
 
 ## Related people
 

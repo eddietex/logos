@@ -70,6 +70,8 @@ the women than the frame they are written in.
 ## Key passages
 
 - [[From Shem to Abram]] — Genesis 11:30, the first occurrence, placed at the end of a genealogy
+- [[The Call of Abram]] — Genesis 12:2, *"I will make of you a great nation"*, four verses after the
+  wife it depends on is declared barren; the collision is set up and left unremarked
 - Genesis 16; 17:15–21; 18:9–15; 21:1–7 — Sarah, from Hagar to Isaac *(not yet ingested)*
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*

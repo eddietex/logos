@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Genesis 11:27–32** — Terah takes Abram, Sarai, and Lot out of Ur of the Chaldees *"to go into
   the land of Canaan"*, stops at Haran, and dies there at 205 — [[From Shem to Abram]]
-- **Genesis 12:1–5** — *"Now Yahweh said to Abram, 'Get out of your country…'"*, and Abram leaves
-  Haran at seventy-five *(not yet ingested)*
+- **Genesis 12:1–5** — *"Now Yahweh said to Abram, 'Leave your country…'"*, and Abram leaves Haran at
+  seventy-five — [[The Call of Abram]]
 - **Genesis 15:7** — *"I am Yahweh who brought you out of Ur of the Chaldees, to give you this land"*
   *(not yet ingested)*
 - **Genesis 24:4, 10; 31:53** — Haran as Abraham's *"country"* and *"relatives"*, and *"the God of
@@ -36,8 +36,8 @@ No command, no vision, no divine speech; God does not appear anywhere in Genesis
 an object — *Terah took Abram* — and the destination named is the one Abram will later be promised.
 Then they stop.
 
-**12:1 has Yahweh as the subject.** *"Get out of your country, and from your relatives, and from your
-father's house, to the land that I will show you."* Three ablatives, and each one is smaller and
+**12:1 has Yahweh as the subject.** *"Leave your country, and your relatives, and your father's
+house, and go to the land that I will show you."* Three ablatives, and each one is smaller and
 harder than the last. And this time the destination is *not* named: **"the land that I will show
 you"**, where 11:31 had said plainly *"to go into the land of Canaan."* The journey with the known
 destination stopped halfway; the journey with the unknown one arrives. Hebrews 11:8 is reading
@@ -45,6 +45,13 @@ exactly this: *"he went out, not knowing where he went."*
 
 Read together, the two paragraphs make the call a resumption rather than a beginning. Somebody in
 this family was already going to Canaan. What Genesis 12 adds is not the direction but the speaker.
+
+**And the second journey completes what the first could not.** *"They went to go into the land of
+Canaan. They entered into the land of Canaan"* (12:5) writes the clause 11:31 stopped one short of,
+using the same verb of intention and then supplying the arrival. Abram goes on to cross the country
+from Shechem to the Negev. The one asymmetry the two paragraphs never resolve is that the man who
+arrives is given no ground in it, and the man who did not arrive is buried in a city he owned no
+more of.
 
 ### The chronology that does not work
 

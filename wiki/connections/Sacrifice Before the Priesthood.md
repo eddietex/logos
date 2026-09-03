@@ -12,7 +12,10 @@ tags: [connection]
   every clean animal and bird.
 - **Job 1:5** — Job sanctifies his children and offers burnt offerings for each of them, after
   every round of their feasting, *"continually"*.
-- **Genesis 12:7–8; 13:18; 22:1–19; 31:54; 35:1–7** *(not yet ingested)* — the patriarchs' altars.
+- **Genesis 12:7–8** — Abram's altars at Shechem and by Bethel, with no offering mentioned at either
+  — [[The Call of Abram]]
+- **Genesis 13:18; 22:1–19; 31:54; 35:1–7** *(not yet ingested)* — the rest of the patriarchs'
+  altars.
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.
@@ -32,6 +35,15 @@ first *burnt offering* immediately on leaving the ark, again unprompted, and the
 is not addressed to him at all: *"Yahweh said in his heart"* (see [[The Waters Recede]]). In both
 cases the offering is response rather than transaction, and in both the initiative is entirely
 human.
+
+**Abram's altars change the pattern's shape without breaking it.** At 12:7 he builds *"to Yahweh, who
+had appeared to him"*, and at 12:8 he builds and *"called on Yahweh's name"* — still uncommanded,
+still with no priest, and now with **no offering named at all**. Genesis reports the construction and
+says nothing about a victim, a burning, or an aroma, and it goes on doing this at 13:18, 26:25, and
+33:20. So the patriarchal altar is a different instrument from Noah's: Noah's produced a smell that
+God responded to, while Abram's mark places and declare a name in a land he does not own. The
+uncommandedness is the constant; what is offered, and whether anything is, drops out of view for six
+chapters. See [[The Altar at Shechem and the Covenant at Shechem]].
 
 **Job 1:5 is the pattern's outer limit**, and it is worth stating exactly how far it goes.
 

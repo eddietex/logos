@@ -72,6 +72,13 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   God places on himself. The phrase *bərît ʿôlām*, **everlasting covenant**, occurs here for the first
   time in Scripture (9:16), and will attach afterwards to Abraham, the Sabbath, David, and the new
   covenant. See [[The Covenant with Noah]].
+- **Genesis 12:1–3** — the promise that will *become* a covenant, and is not one yet. Nothing here is
+  sworn or cut, no sign is given, and *bərît* does not occur; there is one imperative (*go*) and five
+  blessings. The distinction is worth holding, because the content is already complete before any
+  machinery is attached to it: 15:18 adds the ceremony and 17:10 adds the sign, and neither adds a
+  condition. Paul's argument in Galatians 3:15–18 depends on exactly this — that the promise came
+  first, unconditioned, and that the law arriving four hundred and thirty years later cannot annul
+  it. See [[The Call of Abram]].
 - **Genesis 15:1–21** *(not yet ingested)* — the covenant between the pieces. Abram sleeps while a
   smoking furnace and a flaming torch pass between the halves alone: God takes the self-curse and
   Abram takes none of it. The land promise is sworn here.
@@ -115,6 +122,8 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   a covenant made with *"every living creature"* on no conditions at all, a man divides his own three
   sons into a blessed line, an enlarged line, and a slave line. Genesis 9 holds the widest covenant in
   Scripture and the first partition of humanity, in that order
+- [[The Call of Abram]] — 12:1–3, the promise before it is a covenant: no oath, no sign, no
+  conditions, and all of the content
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
   Revelation
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
@@ -136,6 +145,7 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[Curse]] — the sanction built into every covenant form, and the self-curse the ceremony enacts
 - [[Creation]] — the Noahic covenant's scope, which is every living creature rather than a people
 - [[Walking with God]] — the relational language covenant formalizes
+- [[Call and Election]] — the summons the Abrahamic covenant is attached to, and which precedes it
 
 ## Related people
 

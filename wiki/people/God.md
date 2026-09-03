@@ -456,6 +456,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   ends at 11:5.
 - [[The Tower of Babel]] — the silence broken by a descent rather than a word: he comes down, sees,
   deliberates in the first person plural, confuses, and scatters, and passes no verdict on anyone
+- [[The Call of Abram]] — after twenty-three verses of absence he speaks to one man, unprompted:
+  commanding, promising five blessings in two verses, and then *appearing* (12:7) — the Bible's first
+  *wayyērāʾ* of God to a named person. He gives no reason for the choice, then or ever.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -484,6 +487,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   neither questions nor sentences
 - [[Noah]] — named in hope of relief from the ground God cursed, the second man said to walk with
   him, the first he calls righteous, and the first he offers a covenant
+- [[Abraham]] — the first man he calls, and the first he appears to; chosen out of the seventy
+  nations for the sake of *"all the families of the earth"*, on grounds never stated
 - [[Shem]], [[Ham]], and [[Japheth]] — carried through the flood with their father, and the three
   from whom he repopulates the earth
 - [[Job (person)]] — who accuses him, appeals to him, and is finally answered by him, and of whom he
@@ -518,3 +523,5 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Remembrance]]
 - [[Language and Speech]]
 - [[Pride and Self-Exaltation]]
+- [[Call and Election]]
+- [[The Nations]]

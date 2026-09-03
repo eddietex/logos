@@ -50,3 +50,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Redeemer and the Avenger of Blood]] | thread | Job 16:18–19 · Job 19:25 · Leviticus 25:25, 47–49 · Numbers 35:12, 19–27 · Ruth 3:9–4:10 · Proverbs 23:10–11 · Exodus 6:6 · Isaiah 41:14; 43:14; 44:6 · Genesis 4:10 · Revelation 6:9–10 |
 | [[The Hope of Resurrection in the Old Testament]] | thread | Job 7:9 · Job 14:7–14 · Job 19:25–27 · Psalm 49:15 · Psalm 73:24 · Isaiah 25:8; 26:19 · Ezekiel 37:1–14 · Daniel 12:2–3 · Matthew 22:23–33 · 1 Corinthians 15:12–57 |
 | [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 |
+| [[Leave Your Country - The Two Lek-Lekha Commands]] | parallel | Genesis 12:1 · Genesis 22:2 · Genesis 12:4 · Genesis 22:3 · Hebrews 11:8, 17–19 |
+| [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
+| [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |

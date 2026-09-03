@@ -95,9 +95,17 @@ the same verses that put the tree of life back in reach (see
   of peoples reflects it. This is the first of a long series of silences — no conquest narrative,
   prophet, psalm, or epistle ever cites 9:25 either — and it starts in the passage that had the best
   opportunity to. See [[The Table of Nations]].
-- **Genesis 12:3** *(not yet ingested)* — the Abrahamic promise that pairs blessing and curse as the
-  response to how the nations treat one family, and the first time since 9:25 that the two words are
-  used together.
+- **Genesis 12:3** — the first time since 9:25 that blessing and cursing appear together, and the
+  balance between them is deliberately uneven. *"I will bless those who bless you, and I will curse
+  him who treats you with contempt."* Four asymmetries in one verse. Those who bless are a **plural**
+  participle (*məbārəkêkā*); the one cursed is **singular** (*məqallelkā*) — blessing is expected
+  wholesale, cursing contemplated retail. The verb for what the offender does is *qālal*, to
+  **belittle**, to treat as light — the mild verb, the same one God used at 8:21 when undertaking not
+  to curse the ground again; the verb turned back on him is *ʾārar*, the heavy formulaic one of 3:14,
+  3:17, 4:11, and 9:25. And the whole clause is protective rather than punitive: it is not a curse
+  laid on anybody, but a stated policy about how contempt for this family will be answered. The verse
+  is quoted back in Balaam's mouth at Numbers 24:9 and in Isaac's blessing of Jacob at Genesis 27:29.
+  See [[The Call of Abram]] and [[Blessing]].
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
   22–24); the covenant curses of Deuteronomy 27–28 and the ceremony at Ebal and Gerizim (Joshua
   8:30–35); Jeremiah 17:5–8, the cursed and blessed man side by side; Malachi 4:6, the last word
@@ -119,6 +127,8 @@ the same verses that put the tree of life back in reach (see
 - [[Noah's Sons and the Curse of Canaan]] — 9:25, where the word passes from God's mouth to a man's
 - [[The Curse of Canaan and the Conquest]] — what the canon does and does not do with that curse
 - [[The Table of Nations]] — 10:15–19, where Canaan's line is set out with no reference to 9:25
+- [[The Call of Abram]] — 12:3, blessing and cursing paired again, with the mild verb on one side and
+  the heavy one on the other
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 - [[Bildad's Second Speech]] — covenant-curse vocabulary borrowed without the covenant: sulfur
   scattered on the habitation (18:15, against Deuteronomy 29:23), roots dried beneath and branch cut

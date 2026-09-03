@@ -12,8 +12,8 @@ The theme begins in a travel notice. *"They went from Ur of the Chaldees, to go 
 Canaan. They came to Haran and lived there"* (Genesis 11:31). It is the first time in the Bible
 anyone sets out for [[Canaan]], and the sentence records both the intention and the failure in the
 same breath. Two verses later the man who set out is dead in the wrong city. Then Genesis 12:1 —
-*"Get out of your country, and from your relatives, and from your father's house, to the land that I
-will show you"* — turns the unfinished journey into a command, and the rest of the Torah is about
+*"Leave your country, and your relatives, and your father's house, and go to the land that I will
+show you"* — turns the unfinished journey into a command, and the rest of the Torah is about
 getting there.
 
 Two Hebrew words carry it. ***ʾereṣ***, land or earth, which Genesis has used for the whole world
@@ -35,8 +35,15 @@ against the city of Genesis 11:4 that had none.
 
 - **Genesis 11:31–32** — the first journey toward Canaan, undertaken by [[Terah]] with no command
   behind it, stopping at [[Haran (city)]]. He dies short of the land.
-- **Genesis 12:1, 5–7** — the command, the arrival, and the first promise of the land itself: *"I
-  will give this land to your offspring"* — spoken while *"the Canaanite was then in the land."*
+- **Genesis 12:1, 5–9** — the command, the arrival, and the first promise of the land itself. Three
+  things are set here that hold for the rest of the Bible. The destination is **withheld** — *"the
+  land that I will show you"*, where Terah's journey had named Canaan and stopped. The land is
+  **occupied** when he gets there, and the narrator says so (12:6) before any promise about it is
+  made. And the promise, when it comes, is **not to him**: *"I will give this land to your
+  offspring"* (12:7). Abram crosses the whole country from Shechem to the Negev and ends the pericope
+  *"still going on"*, having built two altars and pitched one tent. Acts 7:5 states the outcome
+  flatly — *"he gave him no inheritance in it, no, not enough to set his foot on."* See
+  [[The Call of Abram]].
 - **Genesis 15:13–16** — the promise given a delay built into it: four hundred years of servitude in
   a land not theirs, *"for the iniquity of the Amorite is not yet full."*
 - **Genesis 23** — Abraham, *"a stranger and a foreigner"* among the Hittites, buys Machpelah. The
@@ -66,7 +73,8 @@ where that starts, in a sentence about a family that got halfway.
 
 - [[From Shem to Abram]] — Genesis 11:31–32, the first journey toward Canaan and the first stop short
   of it
-- Genesis 12:1–7 — the call and the first promise of the land *(not yet ingested)*
+- [[The Call of Abram]] — Genesis 12:1–9: the land entered, crossed end to end, promised to somebody
+  not yet born, and already somebody else's
 - Genesis 15:7–21 — the land promised by covenant, with four centuries of delay *(not yet ingested)*
 - Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*
@@ -82,6 +90,7 @@ where that starts, in a sentence about a family that got halfway.
 - [[Judgment]] — the scattering at Babel, and the exiles that undo the gift
 - [[The Nations]] — Canaan is somebody else's land throughout Genesis, which the text never hides
 - [[Hope]]
+- [[Call and Election]] — what Abram is called out of, and what he is called to and not given
 
 ## Related people
 

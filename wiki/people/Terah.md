@@ -78,6 +78,8 @@ scattering and a call, and let the reader notice where he died.
 - His son [[Haran (son of Terah)]] dies before him in Ur — Genesis 11:28
 - Takes Abram, Sarai, and Lot out of [[Ur of the Chaldees]] toward [[Canaan]] — Genesis 11:31
 - Settles in [[Haran (city)]] instead, and dies there at 205 — Genesis 11:31–32
+- His son is called out of the city he stopped in, and completes the journey he began — Genesis
+  12:1–5, [[The Call of Abram]]
 - Named as an idolater by Joshua at Shechem — Joshua 24:2
 - Named in 1 Chronicles 1:26 and, as Thara, in Luke 3:34
 

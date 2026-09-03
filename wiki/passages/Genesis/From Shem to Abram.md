@@ -68,7 +68,7 @@ verse buries Terah there: *"The days of Terah were two hundred five years. Terah
 
 So the primeval history closes on a man who started for the land of promise and died short of it,
 in a household with a barren wife and a dead son, four hundred miles from where the promise will
-be spoken. The next verse is *"Now Yahweh said to Abram, 'Get out of your country…'"*. Genesis has
+be spoken. The next verse is *"Now Yahweh said to Abram, 'Leave your country…'"*. Genesis has
 spent twenty-three verses building a dead end so that a call can be heard as a rescue.
 
 ### What the register does, and what it will not do

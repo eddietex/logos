@@ -91,10 +91,24 @@ costly.
   *"be fruitful and multiply"* ends on *"Sarai was barren. She had no child"* (11:30). Genesis puts
   the collapse of the blessing immediately before the passage that uses the word five times in two
   verses (12:2–3). See [[From Shem to Abram]] and [[Barrenness]].
-- To trace as ingestion reaches them: the narrowing of blessing to one family and its widening back
-  out to *"all the families of the earth"* (12:1–3) — which uses the Table's own word for families,
-  *mišpəḥōt* — the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the covenant
-  blessings-and-curses of Deuteronomy 28.
+- **Genesis 12:2–3** — and then the word arrives in bulk. The root *brk* occurs **five times in two
+  verses**: *I will bless you*, *you will be a blessing*, *I will bless those who bless you*, and
+  *all the families of the earth will be blessed through you*. Genesis 1–11 contains exactly five
+  curses (3:14, 3:17, 4:11, 5:29, 9:25). Five for five, and the text never points it out — which is
+  the strongest structural evidence that chapter 12 is composed as the answer to chapters 1–11
+  rather than as a fresh start after them. Three further features are worth keeping. **(1)** The
+  blessing is now attached to a **person** rather than to a species, a day, or a race: *"you will be
+  a blessing"* makes a man into a medium. **(2)** Its stated reach is universal — *kōl mišpəḥōt
+  hāʾădāmâ*, all the families of the **ground**, using the Table of Nations' word for the seventy
+  peoples and the word for the soil cursed at 3:17. Both casualties of the primeval history are
+  named in the promise's last clause. **(3)** Whether the nations *are blessed* or *bless
+  themselves* turns on a niphal that Genesis itself later renders as a hithpael, and the New
+  Testament's argument leans on the passive; see
+  [[All the Families of the Earth - Genesis 12.3 in the New Testament]]. See
+  [[The Call of Abram]].
+- To trace as ingestion reaches them: the promise repeated to Abraham, Isaac, and Jacob (18:18;
+  22:18; 26:4; 28:14), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the
+  covenant blessings-and-curses of Deuteronomy 28.
 
 ## Key passages
 
@@ -115,6 +129,8 @@ costly.
 - [[The Tower of Babel]] — 11:4 and 11:8, the same command refused and then enforced
 - [[From Shem to Abram]] — the blessing at its lowest ebb: no divine word, collapsing lifespans, and
   a barren wife, four verses before *"I will bless you… and you will be a blessing"*
+- [[The Call of Abram]] — 12:2–3: five uses of *brk* against the five curses of Genesis 1–11, aimed
+  by name at the scattered families and the cursed ground
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
@@ -129,6 +145,8 @@ costly.
 - [[Curse]] — the counter-word
 - [[Barrenness]] — the exact negation of a blessing counted in descendants
 - [[Covenant]] — what the blessing of 9:1–7 is attached to, and what asks nothing back
+- [[Call and Election]] — the choosing that 12:2–3's five blessings are the content of
+- [[The Nations]] — *"all the families of the earth"*, the promise's stated beneficiary
 - [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]
 - [[Life and Death]]

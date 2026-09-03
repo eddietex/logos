@@ -69,6 +69,14 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   located in the heart, where no ritual system can reach it. The pattern closes at 42:8, where God
   sends the three friends to Job with their bulls and rams and accepts his prayer for them. See
   [[Job of Uz]] and [[Sacrifice Before the Priesthood]].
+- **Genesis 12:7–8** — the first patriarchal altars, and the pattern they set. Abram builds at
+  [[Shechem]] *"to Yahweh, who had appeared to him"* — the altar answers a theophany — and again on
+  the ridge by [[Bethel]], where he *"called on Yahweh's name"*. **Neither verse mentions a victim, a
+  burning, or an aroma.** That silence is consistent across the patriarchal altars (12:7, 12:8,
+  13:18, 26:25, 33:20) and is a sharp break from Noah at 8:20–21, where the whole point was what went
+  up from it. Abram's altars mark ground and declare a name: they are claims staked, in a land the
+  narrator has just said belongs to Canaanites, by a man who owns none of it. See
+  [[The Call of Abram]] and [[The Altar at Shechem and the Covenant at Shechem]].
 - **Genesis 15:9–17; 22:1–19** *(not yet ingested)* — the covenant between the pieces; the binding of
   Isaac and *"God will provide himself the lamb"*, the passage the whole theme eventually bends
   toward.
@@ -88,6 +96,8 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   Leviticus 17:11 will give for putting it on the altar
 - [[A Pleasing Aroma]] — *rêaḥ nîḥōaḥ* from Noah's altar to Leviticus, the prophets' refusal of it,
   and its New Testament application to Christ, to money, and to prayer
+- [[The Call of Abram]] — 12:7–8, the first altars in the promised land, built with nothing said
+  about anything being offered on them
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
 - [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
   household head who acts as priest with no law behind him

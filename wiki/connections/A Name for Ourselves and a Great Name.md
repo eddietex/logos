@@ -11,8 +11,8 @@ tags: [connection]
   **men of the name**. See [[The Sons of God and the Corruption of the Earth]].
 - **Genesis 11:4** — *"let's make a name for ourselves, lest we be scattered abroad on the surface of
   the whole earth."* See [[The Tower of Babel]].
-- **Genesis 12:2** *(not yet ingested)* — *"I will make of you a great nation. I will bless you and
-  make your name great. You will be a blessing."*
+- **Genesis 12:2** — *"I will make of you a great nation. I will bless you and make your name great.
+  You will be a blessing."* — [[The Call of Abram]]
 - **2 Samuel 7:9** — *"I will make you a great name, like the name of the great ones who are in the
   earth"*, said to David.
 - **Isaiah 56:5** — to the eunuchs, *"an everlasting name that will not be cut off"*.

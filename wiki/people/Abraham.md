@@ -52,15 +52,46 @@ still inside the lifetimes of [[Shem]], who outlives him by thirty-five years, a
 outlives him by sixty-four. Genesis supplies the numbers that make this true and never once puts him
 in the same room as either man.
 
+### In this pericope — Genesis 12:1–9
+
+He is spoken to, and he does not answer.
+
+Yahweh's first words to him take away three things and promise five (12:1–3), and Genesis reports
+the response as a single verb: *"So Abram went, as Yahweh had told him"* (12:4). There is no *here I
+am*, no question, no objection — nothing of what Moses, Gideon, Isaiah, and Jeremiah will all do
+when their turn comes. He is seventy-five. He takes Sarai, Lot, the property, and the people
+acquired in Haran, covers roughly four hundred miles, and enters [[Canaan]] — the first person in
+the Bible to arrive there.
+
+What he does in the land is walk down it and build on it twice. An altar at [[Shechem]], beside a
+Canaanite oracle tree, in answer to the first theophany granted to a named individual in Scripture
+(12:7); an altar on the ridge between [[Bethel]] and [[Ai]], with the name of Yahweh proclaimed at
+it (12:8); then south, *"still going on"*, into [[The Negev]]. He builds no house and buys no field.
+The land is promised not to him but to his offspring — *"I will give this land to your offspring"* —
+and he has none.
+
+**Two things about him are set here that the rest of the Bible will argue from.** The first is that
+his obedience is narrated without an interior: Genesis gives the command four verses and the
+compliance half of one, and Hebrews 11:8 and Romans 4 are both readings of that gap. The second is
+that he is chosen for other people. *"All the families of the earth will be blessed through you"*
+(12:3) uses [[The Table of Nations]]'s own word for the seventy peoples, which makes the narrowing
+of the story to one man a statement about everybody. See [[Call and Election]] and
+[[All the Families of the Earth - Genesis 12.3 in the New Testament]].
+
+**And the silence does not last in a flattering direction.** His first recorded words in Scripture
+come seven verses later, in Egypt, and they are *"Please say that you are my sister"* (12:13).
+Genesis introduces the pattern case of faith as a man who obeyed without speaking and then spoke to
+arrange a lie, and it does not comment on the sequence.
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is ahead of this page, in pericopes not yet ingested:
-the call and the promise of a great name (12:1–3), the covenant between the pieces (15), circumcision
-and the new name (17), the intercession for Sodom (18), the binding of Isaac (22), and his death and
-burial at Machpelah (25). The New Testament makes him the pattern case for faith reckoned as
-righteousness (Romans 4; Galatians 3) and for going out *"not knowing where he went"* (Hebrews
-11:8). This page will be rewritten as those arrive; what it can say now is only what Genesis 11 says,
-which is almost nothing, and that the almost-nothing is deliberate.
+Almost everything the Bible says about Abraham is still ahead of this page: Egypt and the sister
+ruse (12:10–20), the separation from Lot and the war of the kings (13–14), the covenant between the
+pieces (15), Hagar (16), circumcision and the new name (17), the intercession for Sodom (18), the
+birth of Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
+makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
+out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
+it (Galatians 3:8). This page grows as those arrive.
 
 ## Timeline / key events
 
@@ -69,13 +100,24 @@ which is almost nothing, and that the almost-nothing is deliberate.
 - Marries Sarai, who is barren — Genesis 11:29–30
 - Taken by his father out of Ur of the Chaldees toward Canaan; settles in Haran — Genesis 11:31
 - His father dies in Haran — Genesis 11:32
-- Called by Yahweh and leaves Haran at seventy-five — Genesis 12:1–4 *(not yet ingested)*
+- Called by Yahweh, and told to leave country, kindred, and father's house — Genesis 12:1,
+  [[The Call of Abram]]
+- Promised a great nation, a great name, and blessing for all the families of the earth — Genesis
+  12:2–3
+- Leaves Haran at seventy-five with Sarai, Lot, and his household — Genesis 12:4–5
+- Enters Canaan; Yahweh appears to him at Shechem and promises the land to his offspring — Genesis
+  12:6–7
+- Builds altars at Shechem and between Bethel and Ai, and calls on Yahweh's name — Genesis 12:7–8
+- Travels on into the Negev — Genesis 12:9
+- Goes down to Egypt in the famine, and speaks for the first time — Genesis 12:10–13 *(not yet
+  ingested)*
 - Renamed Abraham — Genesis 17:5 *(not yet ingested)*
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:26–32; named, married, and moved, and given no act of his own
+- [[The Call of Abram]] — Genesis 12:1–9; called, promised, and obedient without a word
 
 ## Related people
 
@@ -92,8 +134,10 @@ which is almost nothing, and that the almost-nothing is deliberate.
 
 ## Themes associated
 
+- [[Call and Election]]
 - [[Land and Sojourning]]
 - [[Barrenness]]
 - [[Blessing]]
 - [[The Nations]]
 - [[Covenant]]
+- [[Sacrifice and Offering]]

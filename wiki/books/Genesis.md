@@ -30,7 +30,9 @@ even fratricidal betrayal into rescue (Joseph).
 - **1–11 Primeval history** — creation, fall, flood, and the scattering at Babel: all humanity.
   Complete in the wiki as of *[[From Shem to Abram]]*, which closes it on a family halfway to Canaan
   with a barren wife and a father buried short of the land.
-- **12–25:18 Abraham** — the call, the covenant, and the long wait for a promised son.
+- **12–25:18 Abraham** — the call, the covenant, and the long wait for a promised son. Opened in the
+  wiki with *[[The Call of Abram]]*, which answers the five curses of chapters 1–11 with five
+  blessings and makes *"all the families of the earth"* the stated point of choosing one man.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -59,7 +61,7 @@ merge, or reorder them freely.
 
 ### Abraham (12–25:18)
 
-- [ ] The Call of Abram — Genesis 12:1–9
+- [x] [[The Call of Abram]] — Genesis 12:1–9
 - [ ] Abram in Egypt — Genesis 12:10–20
 - [ ] Abram and Lot Separate — Genesis 13:1–18
 - [ ] The Rescue of Lot and Melchizedek — Genesis 14:1–24
@@ -135,6 +137,7 @@ merge, or reorder them freely.
 - [[Language and Speech]]
 - [[Barrenness]]
 - [[Land and Sojourning]]
+- [[Call and Election]]
 
 ## Key people
 
@@ -174,3 +177,7 @@ merge, or reorder them freely.
 - [[Egypt]]
 - [[Ur of the Chaldees]]
 - [[Haran (city)]]
+- [[Shechem]]
+- [[Bethel]]
+- [[Ai]]
+- [[The Negev]]
