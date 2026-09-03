@@ -41,6 +41,14 @@ Dust was shown to a man surveying a country; stars are shown to a man who has ju
 is not working. And the verse that follows is the one Paul builds Romans 4 on: *"He believed in
 Yahweh, who credited it to him for righteousness"* (15:6).
 
+Two details of the staging carry the difference. The promise is preceded by a **removal**: Abram has
+just named a legal heir, and God has just disqualified him (*"This man will not be your heir"*,
+15:4), so the stars arrive in a space cleared of the workable solution. And Abram is **brought
+outside** — *"Yahweh brought him outside"* (15:5), the only time in the promises where a change of
+position is narrated. Dust required him to look down at ground he had been told to walk; stars
+require somebody to take him out of the tent at night. See
+[[The Covenant Between the Pieces]].
+
 **Both, plus sand, come at 22:17**, after the binding of Isaac, in the only one of the three that is
 sworn on oath (*"I have sworn by myself, says Yahweh"*, 22:16) and the only one that adds a second
 clause about the nations: *"Your offspring will possess the gate of his enemies. All the nations of
@@ -82,6 +90,9 @@ good as dead."*
   nation"* and 12:7 said *"your offspring"*; this is the first time a scale is attached, and it
   arrives in the chapter in which Abram has just watched his nearest thing to an heir walk east. See
   [[Abram and Lot Separate]].
+- **15:5 is where it becomes an argument.** The dust of 13:16 was given to a man who had said
+  nothing; the stars are given to a man who has just objected, and are followed immediately by the
+  Bible's first use of the verb *believe*. See [[The Covenant Between the Pieces]] and [[Faith]].
 - **The images are not interchangeable.** Dust is the ground, mortality, and the curse; stars are the
   sky, night, and a man who has run out of patience; sand is the sea, an oath, and a son given back.
   Reading them as three ways of saying *lots* loses the argument each one is making.

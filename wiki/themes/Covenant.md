@@ -79,9 +79,20 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   condition. Paul's argument in Galatians 3:15–18 depends on exactly this — that the promise came
   first, unconditioned, and that the law arriving four hundred and thirty years later cannot annul
   it. See [[The Call of Abram]].
-- **Genesis 15:1–21** *(not yet ingested)* — the covenant between the pieces. Abram sleeps while a
-  smoking furnace and a flaming torch pass between the halves alone: God takes the self-curse and
-  Abram takes none of it. The land promise is sworn here.
+- **Genesis 15:1–21** — the covenant between the pieces, and the theme's decisive Old Testament
+  passage. Four things happen here for the first time. ***Kārat bərît*, to cut a covenant, appears
+  in the Bible** (15:18) — the standard idiom, three hundred-odd occurrences in the Old Testament,
+  and this is the one place that stages the ceremony behind it in full. **The rite is performed**:
+  five animals halved and laid opposite each other, a corridor between them, and a party walking it.
+  **God swears alone.** Abram gathers and cuts the animals, guards them from the vultures, and is
+  then put into a *tardēmâ* — the deep sleep of 2:21 — while *"a smoking furnace, and a flaming
+  torch passed between these pieces"* (15:17). The self-curse the rite enacts (*may I be made like
+  this if I break my word*, as Jeremiah 34:18–20 spells it out) is taken by the divine party and by
+  nobody else. And **the promise gets its two contents in measurable form**: offspring like the
+  stars, and land from the river of Egypt to the Euphrates. Nothing is asked of Abram, and the one
+  thing he contributes — believing (15:6) — is *credited* to him rather than counted as a
+  condition. See [[The Covenant Between the Pieces]] and
+  [[Passing Between the Pieces]].
 - **Genesis 17:1–27** *(not yet ingested)* — circumcision as the sign, *"an everlasting covenant"*,
   and the first covenant in Scripture with a stipulation attached to the human party: *"Walk before
   me, and be blameless."*
@@ -134,6 +145,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   appearance in the promises), in four directions, with an innumerable offspring and a command to
   take symbolic possession by walking. Chapter 15 ratifies this with fire and chapter 17 seals it with
   circumcision; the content is already here
+- [[The Covenant Between the Pieces]] — Genesis 15: the first *kārat bərît* in Scripture, the rite
+  that gives the idiom its verb, and the only covenant ceremony in the Bible with one walker
+- [[Passing Between the Pieces]] — Jeremiah 34:18–20 on what the ceremony means, and what it means
+  that Abram slept through his half of it
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
   Revelation
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
@@ -156,8 +171,15 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[Creation]] — the Noahic covenant's scope, which is every living creature rather than a people
 - [[Walking with God]] — the relational language covenant formalizes
 - [[Call and Election]] — the summons the Abrahamic covenant is attached to, and which precedes it
+- [[Faith]] — the one thing Abram contributes to the covenant of Genesis 15, and it is credited
+  rather than required
+- [[Oaths and Vows]] — the self-curse the ceremony enacts, and the first divine oath in Scripture
+- [[Land and Sojourning]] — the covenant's second content, given a border at 15:18 and a four-hundred
+  year delay at 15:13
 
 ## Related people
 
-- [[God]] — who establishes it, and who alone is bound by the first one
+- [[God]] — who establishes it, and who alone is bound by the first one — and, at Genesis 15:17, the
+  only party who walks between the pieces
 - [[Noah]] — the first person in Scripture offered a covenant, who is not asked and does not answer
+- [[Abraham]] — the first person with whom a covenant is *cut*, and who sleeps through the cutting

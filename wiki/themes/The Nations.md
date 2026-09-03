@@ -95,6 +95,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   through
 - [[The Call of Abram]] — 12:3, where the seventy return as the stated object of the promise, in the
   Table's own vocabulary
+- [[The Covenant Between the Pieces]] — Genesis 15:19–21: ten peoples listed as the contents of a
+  land grant, the longest such list in the Bible, in the book whose founding promise was that all
+  the families of the earth would be blessed through the man receiving it (12:3). Genesis holds the
+  two without comment — and two of the ten, the Kenites and the Kenizzites, turn out to be on
+  Israel's side when the land is actually taken
 - [[The Rescue of Lot and Melchizedek]] — the first chapter in which Abram actually deals with the
   nations rather than being promised them: an Elamite overlord, a king of *Goiim* (*nations*, with no
   country attached), three Amorite covenant-partners, a Canaanite priest of God Most High whose

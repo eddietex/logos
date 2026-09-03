@@ -51,8 +51,19 @@ about.
   withdraws the verdict nor excuses the vineyard. Whatever *ṣaddîq* means at 6:9, it evidently does
   not mean *incapable of this*. The New Testament, which praises Noah four times, never mentions the
   episode. See [[Noah's Sons and the Curse of Canaan]].
-- **Genesis 15:6** *(not yet ingested)* — Abram's faith *credited* to him as righteousness: the verse
-  Romans 4 and Galatians 3 both argue the gospel from.
+- **Genesis 15:6** — *"He believed in Yahweh, who credited it to him for righteousness."* The theme's
+  second great occurrence and the one the New Testament argues from. Three things distinguish it from
+  6:9. The word attaches to **trust rather than conduct**: Abram has done nothing in the chapter but
+  complain and then believe. The verb is an **accounting term** — *ḥāšab*, to reckon or enter in a
+  ledger, with a technical cultic use at Leviticus 7:18 and 17:4 for what counts in God's books — so
+  the standing is *credited* rather than observed, where 6:9 and 7:1 had God saying he had *seen*
+  Noah's. And it is **not a character reference**: Genesis 16, 17:17, and 20 follow, and the verdict
+  is never withdrawn. See [[The Covenant Between the Pieces]] and [[Faith]].
+- **Psalm 106:31** — and the identical formula, *"that was credited to him for righteousness"*, of
+  Phinehas running a spear through two people. The Hebrew Bible applies the same nine-word
+  construction to a belief and to a deed, which is the argument Paul and James inherit rather than
+  start. See
+  [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]].
 - **Genesis 18:23–25** *(not yet ingested)* — Abraham's *"Will you consume the righteous with the
   wicked? … Shall not the Judge of all the earth do right?"* The category becomes the ground of an
   argument with God, which is exactly what Noah never makes.
@@ -91,6 +102,11 @@ about.
 - [[Job of Uz]] — Job 1:1's *tām wə-yāšār*, blameless and upright, declared of a man before he is
   shown doing anything; the same narrative move as Genesis 6:9, and the premise the entire book
   runs on
+- [[The Covenant Between the Pieces]] — Genesis 15:6: righteousness credited rather than seen, to
+  trust rather than to conduct, by an accounting verb, in the verse the whole New Testament debate
+  is conducted over
+- [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] — Romans 4, Galatians 3:6,
+  James 2:23, and the Old Testament's own use of the same formula for a deed at Psalm 106:31
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 and Job 1:1 side by side, and what the
   verdict buys in each book
 - [[Eliphaz's Second Speech]] — Job 15:14, *"What is he who is born of a woman, that he should be
@@ -114,6 +130,8 @@ about.
 - [[Retribution]] — the doctrine that claims to be able to read this status off a man's
   circumstances
 - [[Mediation and Advocacy]] — what a righteous man reaches for when the verdict goes the other way
+- [[Faith]] — what is credited as righteousness at Genesis 15:6, and the word's first occurrence in
+  Scripture
 
 ## Related people
 
@@ -123,3 +141,5 @@ about.
 - [[Job (person)]] — declared blameless and upright by the narrator and by God before he acts, and
   disbelieved by everyone present
 - [[Eliphaz the Temanite]] — who denies that anyone born of a woman can hold the status
+- [[Abraham]] — the second person in Scripture given the standing, and the only one given it for
+  believing something

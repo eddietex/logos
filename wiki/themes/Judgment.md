@@ -131,6 +131,18 @@ rule are the conditions the rest of Scripture is set in.
   who was **deceived**: Pharaoh acted on what he was told, and Genesis offers no theory reconciling
   that with justice. The verse is doing something other than adjudicating — it is protecting a
   promise — and the book lets the difference stand unexplained. See [[Abram in Egypt]].
+- **Genesis 15:13–16** — judgment put on a clock, in both directions. *"I will also judge that
+  nation, whom they will serve"* (15:14) is the Bible's first announced judgment on a **specific
+  named-by-implication people** — Egypt — and it is announced four hundred years in advance, to a man
+  who will be dead before it starts. And *"the iniquity of the Amorite is not yet full"* (15:16)
+  supplies the reason the promise waits: the people currently on the land keep it until their guilt
+  is **complete** (*šālēm*). This is the Torah's clearest statement that God defers judgment rather
+  than declining it, and it is a hard doctrine in both directions. It is remarkable restraint — four
+  centuries in which a people is left alone, at the cost of Israel's own slavery in the meantime.
+  It also presumes a measurable threshold past which dispossession is just. The one thing that keeps
+  it from being ethnic is that the Torah immediately turns it on Israel: Leviticus 18:28's *"that the
+  land not vomit you out also"*, which 2 Kings 17 and 25 then report happening. See
+  [[The Covenant Between the Pieces]] and [[The Curse of Canaan and the Conquest]].
 - Strands to trace as ingestion reaches them: the plagues and the exodus as judgment on Egypt's
   gods; the covenant lawsuit form in the prophets (Micah 6:1–8, Isaiah 1:2–20); the day of Yahweh
   (Amos 5:18–20, Joel 2, Zephaniah 1); exile as judgment and return as its limit; Jesus on
@@ -164,6 +176,10 @@ rule are the conditions the rest of Scripture is set in.
   choice is made, and *"the men of Sodom were exceedingly wicked and sinners against Yahweh"* arrives
   one verse *after* it. The first time Genesis tells the reader what is coming instead of narrating
   it, and the first charge laid against a whole city
+- [[The Covenant Between the Pieces]] — 15:14, 16: the first judgment announced in advance on a
+  specific nation, and the first statement that another one is being spared because its guilt is not
+  yet complete. Judgment with a schedule, and a four-hundred-year delay that costs the promised
+  people their freedom
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

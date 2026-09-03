@@ -72,6 +72,12 @@ the women than the frame they are written in.
 - [[From Shem to Abram]] — Genesis 11:30, the first occurrence, placed at the end of a genealogy
 - [[The Call of Abram]] — Genesis 12:2, *"I will make of you a great nation"*, four verses after the
   wife it depends on is declared barren; the collision is set up and left unremarked
+- [[The Covenant Between the Pieces]] — Genesis 15:2–4, where the collision finally becomes a
+  sentence somebody says out loud: *"what will you give me, since I go childless"*. It is the first
+  time in Scripture anyone protests the gap between a promise and a womb, and the answer is a
+  correction about whose body the heir will come from — *"he who will come out of your own body"* —
+  which conspicuously does not say *hers*. Sarai is not named once in the chapter, and Genesis 16:1
+  opens on exactly that omission
 - Genesis 16; 17:15–21; 18:9–15; 21:1–7 — Sarah, from Hagar to Isaac *(not yet ingested)*
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
@@ -92,9 +98,11 @@ the women than the frame they are written in.
 - [[Hope]] — the wait, which in Sarah's case runs twenty-five years
 - [[Marriage]]
 - [[Favor and Grace]] — the child is given, never achieved
+- [[Faith]] — what the barren womb is the standing evidence against, and what Genesis 15:6 credits
 
 ## Related people
 
 - [[Sarah]] — the first, and the pattern
 - [[Abraham]] — promised a nation four verses after his wife is called barren
+- [[Eliezer of Damascus]] — the heir barrenness produces, and whom Genesis 15:4 removes
 - [[Terah]] — in whose household the sentence is first recorded

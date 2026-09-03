@@ -148,6 +148,12 @@ the rest of the canon.
   formula, and the register finally closed on its tenth man
 - [[The Sons of God and the Corruption of the Earth]] — a limit set on human days, and the sentence
   widened from persons to all flesh
+- [[The Covenant Between the Pieces]] — Genesis 15:15, *"you will go to your fathers in peace. You
+  will be buried at a good old age"*: the first time anyone in Genesis is told in advance how his own
+  death will go, dropped into a prophecy about somebody else's rescue. *Go to your fathers* is a
+  formula whose plain sense is burial with the clan, and whose problem is that his fathers are buried
+  in Ur and Haran and he will be buried at Machpelah — which is already some sense of the dead as a
+  company one joins
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is
   taken instead of buried, and what the New Testament makes of him
 - [[Cain and Abel in the New Testament]] — Abel *"being dead, still speaks"*, and the blood that

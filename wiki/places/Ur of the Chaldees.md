@@ -66,10 +66,24 @@ does not say which; Genesis says nothing at all; and no biblical text connects t
 honest statement is that the geography is suggestive, the accusation is generic, and the specific
 identification is a modern inference. See [[Out of Ur - Terah's Journey and Abram's Call]].
 
+**And God claims the departure as his own.** *"I am Yahweh who brought you out of Ur of the Chaldees,
+to give you this land to inherit it"* (15:7). Genesis 11:31 had said *Terah took Abram his son*, with
+no divine speech anywhere in the chapter; four chapters later Yahweh puts himself where Terah was.
+Neither statement is withdrawn, and Joshua 24:3 takes the same line God does here: *"I took your
+father Abraham from beyond the River."*
+
+The form of the sentence matters as much as its content. *I am Yahweh who brought you out of X* is the
+self-presentation formula the Decalogue opens with — *"I am Yahweh your God, who brought you out of the
+land of Egypt, out of the house of bondage"* (Exodus 20:2) — and Genesis 15:7 is its first occurrence,
+with **Ur where Egypt will be**. Israel's foundational memory is rehearsed on one man four centuries
+early, in the chapter that predicts the Egypt version. See [[The Covenant Between the Pieces]].
+
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:28, 31; the place [[Haran (son of Terah)]] dies and the place
   the family leaves
+- [[The Covenant Between the Pieces]] — Genesis 15:7; the exodus formula's first use, with Ur in the
+  slot Egypt will occupy
 
 ## Related places
 
@@ -78,10 +92,13 @@ identification is a modern inference. See [[Out of Ur - Terah's Journey and Abra
 - [[Shinar]] — southern Mesopotamia, where Genesis has already put Babel and the first kingdom; the
   same region as the southern Ur
 - [[Babel]] — the city humanity abandoned nineteen verses earlier, in the same country
+- [[The Euphrates]] — the river Ur sits near and the family crossed; *beyond the River* is the Bible's
+  own name for where they came from
 
 ## Events here
 
 - [[Haran (son of Terah)]] dies before his father — Genesis 11:28
 - [[Terah]] takes Abram, Sarai, and Lot and leaves for Canaan — Genesis 11:31
-- Cited by Yahweh as what Abram was brought out of — Genesis 15:7 *(not yet ingested)*
+- Cited by Yahweh as what Abram was brought out of — Genesis 15:7,
+  [[The Covenant Between the Pieces]]
 - Cited by the Levites in Nehemiah's covenant prayer — Nehemiah 9:7

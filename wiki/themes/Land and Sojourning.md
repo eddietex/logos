@@ -52,8 +52,18 @@ against the city of Genesis 11:4 that had none.
   is starving; the difference between the two is a promise and nothing else. Genesis offers no
   comment on the descent, and Isaac will be explicitly forbidden the same move at 26:2. See
   [[Abram in Egypt]].
-- **Genesis 15:13–16** — the promise given a delay built into it: four hundred years of servitude in
-  a land not theirs, *"for the iniquity of the Amorite is not yet full."*
+- **Genesis 15:7–21** — the promise finally given machinery, and the gap between title and possession
+  written into the machinery itself. The land gets a **border** for the first time (*"from the river
+  of Egypt to the great river, the river Euphrates"*, 15:18, where 12:7 and 13:15 had only pointed)
+  and an **inventory** of ten peoples currently on it. And in the same breath it gets a **delay**:
+  four hundred years in which Abram's offspring will *live as foreigners* — *gûr*, the theme's own
+  verb — *"in a land that is not theirs"*, before they come back to a land that is also, for now, not
+  theirs. Abram asks *"how will I know that I will inherit it?"* (15:8) and is told he will be dead
+  and buried first (15:15). The reason for the delay is somebody else's moral condition entirely:
+  *"the iniquity of the Amorite is not yet full"* (15:16) — the current occupants keep the land until
+  they have earned losing it, which Leviticus 18:28 will then turn on Israel. See
+  [[The Covenant Between the Pieces]] and
+  [[From the River of Egypt to the Euphrates]].
 - **Genesis 23** — Abraham, *"a stranger and a foreigner"* among the Hittites, buys Machpelah. The
   only land he ever owns is a burial plot, and he pays full price for it.
 - **Genesis 47:9** — Jacob to Pharaoh: *"The days of the years of my pilgrimage are one hundred
@@ -93,7 +103,11 @@ where that starts, in a sentence about a family that got halfway.
   been promised and does not own, is blessed in it by a king who does own a city in it, and then
   refuses to take a thread of it as payment. He is called *the Hebrew* here (14:13) — on either
   etymology, *the one from the other side*
-- Genesis 15:7–21 — the land promised by covenant, with four centuries of delay *(not yet ingested)*
+- [[The Covenant Between the Pieces]] — Genesis 15:7–21: the promise sworn, bordered, and inventoried,
+  with four centuries of servitude in someone else's country written into the same oracle. Total
+  title, zero possession, and a stated reason for the delay
+- [[From the River of Egypt to the Euphrates]] — the largest land claim in Scripture against the
+  smaller map Numbers 34 and Ezekiel 47 actually work from
 - Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*
 - Deuteronomy 34:1–5 — Moses outside the land

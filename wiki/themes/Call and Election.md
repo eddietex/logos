@@ -95,6 +95,12 @@ the others.
 - [[Abram and Lot Separate]] — Genesis 13:14–17, the election enlarged rather than tested: to him,
   forever, in four directions, and stated to begin *"after Lot was separated from him"* — the last
   plausible heir removed before the offspring promise is made a quantity
+- [[The Covenant Between the Pieces]] — Genesis 15, where the choosing acquires machinery and still
+  acquires no conditions. The covenant is cut over a sleeping man who undertakes nothing; the one
+  thing he contributes is belief, and even that is *credited* to him (15:6) rather than demanded of
+  him. Election is also, here, allowed to be **argued with**: Abram's first words to the God who
+  chose him are that the choice has produced nothing, and the answer is a sky full of stars rather
+  than a rebuke
 - Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
 - Exodus 3–4 — the call that is argued with
 - Deuteronomy 7:6–8 — election stated, and its reason declined
@@ -110,6 +116,7 @@ the others.
 - [[Favor and Grace]] — the other freely given word, and the closest Old Testament relative of this
   one
 - [[Barrenness]] — the condition the promise is spoken over
+- [[Faith]] — the response to a call, and the one thing Genesis 15:6 credits the called man with
 
 ## Related people
 

@@ -32,7 +32,16 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
-- **God swears first and by himself.** *"I have sworn by myself, says Yahweh"* (Genesis 22:16), the
+- **God's first oath is sworn without words, at Genesis 15:17.** Before the *"I have sworn by
+  myself"* formula there is a ceremony: five animals halved, a corridor between them, and *"a
+  smoking furnace, and a flaming torch"* passing down it while Abram sleeps. Jeremiah 34:18–20
+  explains what walking that corridor means — *may I be made like these if I break my word* — so
+  Genesis 15 is a **self-maledictory oath performed rather than spoken**, and the party who swears
+  it is the one for whom the sanction cannot apply. It is the strongest form of oath the ancient
+  world had, and the human party takes none of it. See
+  [[The Covenant Between the Pieces]] and
+  [[Passing Between the Pieces]].
+- **Then he swears by himself.** *"I have sworn by myself, says Yahweh"* (Genesis 22:16), the
   formula Hebrews 6:13–18 builds on: *"since he could swear by none greater, he swore by himself."*
   Divine oaths in Scripture are what make a promise unconditional.
 - **The patriarchs swear constantly, and the gestures are physical.** Abraham and Abimelech at
@@ -62,6 +71,9 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 ## Key passages
 
 - Genesis 14:22–23 — the first human oath, [[The Rescue of Lot and Melchizedek]]
+- Genesis 15:9–18 — the first divine oath, enacted rather than spoken,
+  [[The Covenant Between the Pieces]]
+- Jeremiah 34:18–20 — the only passage that explains the rite, and the sanction being executed
 - Genesis 22:16; Hebrews 6:13–18 — God swearing by himself
 - Genesis 21:22–34; 24:2–9; 31:44–54; 47:29–31 — the patriarchal oaths and their gestures
 - Genesis 28:20–22 — Jacob's vow
@@ -81,5 +93,8 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Related people
 
-- [[Abraham]] — the first man in Scripture to swear, and he swears to refuse a gift
+- [[Abraham]] — the first man in Scripture to swear, and he swears to refuse a gift; one chapter
+  later he sleeps through an oath sworn to him
 - [[Bera]] — the king of Sodom, and the person the oath is aimed at
+- [[God]] — who takes the ancient world's most binding form of oath, in a rite whose penalty could
+  never fall on him

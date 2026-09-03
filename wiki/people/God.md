@@ -364,6 +364,47 @@ Abram has just refused: *"Don't be afraid, Abram. I am your shield, your exceedi
 (15:1). *Šākār*, wages — the category Abram declined from the king of Sodom. Genesis does not say
 the vision is a reply; it puts it immediately after.
 
+### He answers back, and swears alone — Genesis 15:1–21
+
+After the only chapter in which he is silent, he speaks twelve of the next twenty-one verses. See
+[[The Covenant Between the Pieces]].
+
+**He introduces himself twice, both times by something he has done.** *"I am your shield, your
+exceedingly great reward"* (15:1) — *māgēn*, the noun's first occurrence in the Bible, and the same
+root Melchizedek used one verse of narrative earlier when he said God had *shielded* Abram's enemies
+into his hand (14:20). And *"I am Yahweh who brought you out of Ur of the Chaldees, to give you this
+land to inherit it"* (15:7), which is the exact shape Exodus 20:2 will use with Egypt in place of
+Ur. He identifies himself by his record, not by his attributes, and the record he chooses in Genesis
+11:31 had been credited to [[Terah]].
+
+**He takes a complaint and does not treat it as one.** Abram's first words to him in Scripture are
+that the promise has produced nothing (15:2–3). The reply is a correction (*"This man will not be
+your heir"*), a walk outside, and a sky full of stars. Then Abram asks for proof of the land
+promise — *"how will I know that I will inherit it?"* (15:8) — and gets a covenant. Both questions are answered; neither is
+rebuked. Compare Zechariah at Luke 1:18, who asks the same thing and is silenced.
+
+**He gives the Bible's first prophecy, and it is mostly bad news.** Four hundred years of slavery in
+a land not theirs, an afflicted people, a judged nation, and a return in the fourth generation
+(15:13–16). He supplies a reason for the delay that is about someone else's moral condition
+entirely: *"the iniquity of the Amorite is not yet full."* Judgment on a people waits until it is
+earned, and Israel is enslaved in the meantime. See [[Judgment]] and
+[[Prophecy and Vision]].
+
+**And then he does the most one-sided thing in the book.** In the rite Jeremiah 34:18–20 explains,
+the parties to a covenant pass between the halves of a cut animal, saying *may I be made like this
+if I break my word*. Genesis 15 stages the rite in full, puts Abram into a *tardēmâ* — the deep sleep
+of 2:21, the only other one in Genesis — and sends one walker down the corridor: *"a smoking furnace,
+and a flaming torch passed between these pieces"* (15:17). **He swears the self-curse and asks
+nothing in return.** He is also, here, the first thing in Scripture that God visibly *looks like*:
+fire and smoke in the dark, the form he keeps through the bush, the pillar, and Sinai. See
+[[Passing Between the Pieces]] and
+[[Smoking Furnace and Flaming Torch - Fire as Theophany]].
+
+**One thing he does not do is credit Abram with obedience.** *"He believed in Yahweh, who credited it
+to him for righteousness"* (15:6) — the crediting is his, the accounting verb is his, and what he
+credits is a man leaning on a promise about a son who does not exist. See [[Faith]] and
+[[Righteousness]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -467,6 +508,12 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Absent for a whole chapter — no speech, no act, no appearance — while a foreign priest names him
   *God Most High, possessor of heaven and earth* and credits him with a victory, and Abram swears by
   that title with *Yahweh* in front of it — [[The Rescue of Lot and Melchizedek]]
+- Breaks the silence with *"Don't be afraid"*, names himself shield and reward, answers a complaint
+  with the stars, credits belief as righteousness, answers a demand for proof with a covenant
+  ceremony, foretells four hundred years of slavery and delays the conquest until another people's
+  guilt is complete, and then passes between the pieces alone as fire and smoke — swearing a
+  self-curse over a sleeping man who has undertaken nothing —
+  [[The Covenant Between the Pieces]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -517,6 +564,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   chapter in the Abraham cycle with no divine speech, no divine act, and no theophany; also the
   chapter that introduces *ʾĒl ʿElyôn*, on a Canaanite priest's lips, and has Abram annex the title
   to Yahweh in an oath (14:22).
+- [[The Covenant Between the Pieces]] — the fullest divine speech in the cycle so far, and the first
+  time he is spoken back to. He answers a complaint and a demand for proof without rebuking either,
+  gives the Bible's first predictive oracle, and then — in the only self-description Genesis ever
+  supplies of what he looked like — passes between the halves of five animals as a smoking furnace
+  and a flaming torch, alone, while the other party to the covenant sleeps.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -583,3 +635,7 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Pride and Self-Exaltation]]
 - [[Call and Election]]
 - [[The Nations]]
+- [[Faith]]
+- [[Prophecy and Vision]]
+- [[Oaths and Vows]]
+- [[The Names of God]]

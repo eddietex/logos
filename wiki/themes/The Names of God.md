@@ -76,6 +76,12 @@ and it is what Abram folds the others into.
 - Genesis 4:26 — men begin to call on the name
 - Genesis 14:18–22 — *ʾĒl ʿElyôn*, and Abram's annexation of it,
   [[The Rescue of Lot and Melchizedek]]
+- Genesis 15:2, 8 — *ʾĂdōnāy Yhwh*, **Lord Yahweh**, the pair's first occurrence in Scripture and
+  almost its last in the Torah. Abram uses the most deferential address he ever uses twice, and both
+  times to ask a question — a complaint and a demand for proof. The prophets later make it their own
+  standing address. See [[The Covenant Between the Pieces]]
+- Genesis 15:7 — *"I am Yahweh who brought you out of Ur of the Chaldees"*: the self-presentation
+  formula's first occurrence, in the shape Exodus 20:2 will use with Egypt in place of Ur
 - Genesis 16:13 — Hagar names God
 - Genesis 17:1; 21:33; 22:14 — *Šadday*, *ʿÔlām*, *Yirʾeh*
 - Exodus 3:13–15 — I AM

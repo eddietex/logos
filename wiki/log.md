@@ -2367,3 +2367,153 @@ speaks nor acts anywhere in the chapter.
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately; the itinerary place names of judgment call 2 and the peoples
 of judgment call 3 are written in plain text rather than linked.
+
+## [2026-09-03] ingest | Genesis 15.1-21 — The Covenant Between the Pieces
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` and *The Covenant Between the Pieces* was the first unchecked box on its page.
+`raw/bible/Genesis.md` was already present, so no fetch. Step 2's discussion went into the passage
+page.
+
+The session started on a detached HEAD at `origin/main` with a clean tree; `git checkout -B main
+b352d6e` fast-forwarded local `main` (which was behind at `ee8f435`, a verified ancestor) and
+reattached before any work. No commits were lost.
+
+**The pericope.** After the only chapter in which God does not speak, he speaks twelve of twenty-one
+verses — and for the first time Abram speaks back. *"Yahweh's word came to Abram in a vision"*
+(15:1) is the prophetic formula's first occurrence in the Bible, and *"Don't be afraid"* is the
+first *ʾal-tîrāʾ*; *shield* and *reward* are both answers to chapter 14, and *shield* (*māgēn*)
+shares its root with the verb Melchizedek used at 14:20. Abram's first recorded words to God are a
+complaint — *"Lord Yahweh, what will you give me, since I go childless, and he who will inherit my
+estate is Eliezer of Damascus?"* — and the answer disqualifies the servant, takes him outside, and
+hands him the stars. Then *"He believed in Yahweh, who credited it to him for righteousness"* (15:6),
+the first *heʾĕmin* in Scripture and the verse Paul and James spend the New Testament arguing over.
+Four verses later he asks for proof anyway and is not rebuked: *"how will I know that I will inherit
+it?"* He fetches five animals — the exact Levitical set — halves them, leaves the birds undivided as
+Leviticus 1:17 will require, and stands over them driving off the vultures. Then a *tardēmâ*, the
+deep sleep of 2:21, and *"terror and great darkness"*; four hundred years of slavery, a judged
+nation, a departure *"with great wealth"*, his own burial *"at a good old age"*, and a return delayed
+because *"the iniquity of the Amorite is not yet full."* And *"a smoking furnace, and a flaming
+torch passed between these pieces"* — one walker, in the rite Jeremiah 34:18–20 explains as a
+self-curse, while the other party sleeps. 15:18 is the Bible's first *kārat bərît*, and the land
+finally gets a border and ten peoples.
+
+**Created**
+
+- `wiki/passages/Genesis/The Covenant Between the Pieces.md`
+- `wiki/people/Eliezer of Damascus.md` — named once, in the sentence that sets him aside; the
+  adoption custom, the untranslatable *ben-mešeq* / *Dammeśeq* wordplay, the walked-back Nuzi
+  parallels, and the Genesis 24 identification recorded as tradition rather than adopted.
+- `wiki/places/The Euphrates.md` — Eden's fourth river and the promise's northern edge, the *beyond
+  the River* formula, and the border that only Solomon approaches.
+- `wiki/themes/Faith.md` — *ʾ-m-n* as load-bearing before it is propositional; 15:6 and 15:8 held
+  together rather than reconciled; Habakkuk 2:4's Hebrew-to-Greek shift flagged.
+- `wiki/themes/Prophecy and Vision.md` — the *word of Yahweh came to* formula and *maḥăzeh* both
+  entering at 15:1, Genesis 20:7's first *nābîʾ* defined by intercession, and Numbers 12:6–8's
+  taxonomy putting *maḥăzeh* in the lower register.
+- `wiki/connections/Credited to Him for Righteousness - Genesis 15.6 in Paul and James.md` — the
+  Septuagint's passive, Paul's argument-from-chronology tabled, James answering 1 Maccabees 2:52
+  rather than Paul, and Psalm 106:31 as the argument already inside the Hebrew Bible.
+- `wiki/connections/Passing Between the Pieces.md` — Jeremiah 34 as the rite's only explanation, the
+  bilateral form performed unilaterally, and Galatians 3 and Hebrews 6 standing on 15:12 and 15:17.
+- `wiki/connections/Four Hundred Years - The Sojourn and the Exodus.md` — the seven figures tabled,
+  the Masoretic / Septuagint / Samaritan split at Exodus 12:40, and no chronology picked.
+- `wiki/connections/From the River of Egypt to the Euphrates.md` — *nāhār* against *naḥal*, the
+  maximal claim against Numbers 34's working map, and the two peoples on the list who end up on
+  Israel's side.
+- `wiki/connections/Smoking Furnace and Flaming Torch - Fire as Theophany.md` — *tannûr* as a
+  bread-oven, the three different words for *furnace* across Genesis 15, Exodus 19, and Deuteronomy
+  4, and 1 Kings 19 as the tradition's own correction.
+
+**Revised**
+
+- `wiki/people/Abraham.md` (new pericope section, six timeline entries, three themes),
+  `wiki/people/God.md` (new section, timeline, *Appears in*, four themes),
+  `wiki/people/Sarah.md` (a section on her absence from the chapter, and what Genesis 16:1 does with
+  it).
+- `wiki/places/Damascus.md`, `Ur of the Chaldees.md` (the Exodus 20:2 self-presentation formula with
+  Ur in Egypt's slot), `Canaan.md`, `Egypt.md`.
+- `wiki/themes/Covenant.md` (the first *kārat bərît*), `Righteousness.md` (15:6 and Psalm 106:31),
+  `Land and Sojourning.md`, `Sacrifice and Offering.md` (the apparatus without the act),
+  `Judgment.md` (judgment on a clock, in both directions), `Call and Election.md`, `Barrenness.md`,
+  `The Fear of God.md` (the first *ʾal-tîrāʾ*, held against the theme's own vocabulary),
+  `Oaths and Vows.md` (the first divine oath, enacted rather than spoken), `The Nations.md`,
+  `Life and Death.md`, `Blessing.md`, `The Names of God.md`.
+- `wiki/connections/Dust, Stars, and Sand - The Offspring Promises.md`,
+  `Out of Ur - Terah's Journey and Abram's Call.md`, `The Curse of Canaan and the Conquest.md`,
+  `Down to Egypt and Up Again - Abram's Descent as Proto-Exodus.md`,
+  `Not a Thread nor a Sandal Strap.md` (the refused *rəkūš* and the promised *rəkūš gādôl*).
+- `wiki/books/Genesis.md` (box checked and linked; Abraham-section overview extended; two themes),
+  `wiki/books/index.md` (19 / 58), all five category indexes, and `wiki/index.md`'s counts
+  (25 passages · 55 people · 30 places · 44 themes · 62 connections).
+
+**Judgment calls**
+
+1. **No pages for the ten peoples of 15:19–21.** Kenites, Kenizzites, Kadmonites, Hittites,
+   Perizzites, Rephaim, Amorites, Canaanites, Girgashites, Jebusites. They are a list here and
+   nothing else — no act, no word, no scene — and the same reasoning that kept the Rephaim, Zuzim,
+   Emim, and Horites off pages last pass applies. They are tabled on the passage page and analysed on
+   `From the River of Egypt to the Euphrates`, and each earns a page when a narrative gives it one:
+   the Kenites at Judges 1:16 and 1 Samuel 15:6, the Kenizzites with Caleb at Joshua 14, the Hittites
+   at Genesis 23, the Jebusites at 2 Samuel 5. Nothing dangles.
+2. **No page for the river of Egypt.** It is one boundary term with one textual question attached
+   (*nəhar* here against *naḥal* everywhere else), which is answered in full on
+   `From the River of Egypt to the Euphrates`. `The Euphrates` does get a page: it is named twice in
+   Genesis at opposite ends of the book's argument, is a place in its own right, and recurs from Eden
+   to Revelation.
+3. **`Eliezer of Damascus`, with the qualifier, and not `Eliezer`.** The Bible has at least ten
+   Eliezers — Moses's second son (Exodus 18:4), a son of Becher, a priest with a trumpet, one of
+   Ezra's returnees, and more — so a bare `Eliezer.md` is a collision waiting for its second page,
+   and the rule in `AGENTS.md` exists because that collision is silent at both ends. The qualifier is
+   the one Genesis itself supplies in the only verse he appears in.
+4. **Two new themes, and only two.** `Faith` and `Prophecy and Vision` are both first occurrences
+   with very long downstream lives that no existing page could absorb — 15:6's *heʾĕmin* is the
+   taproot of Romans 4 and Hebrews 11, and 15:1 introduces both the prophetic superscription and
+   *maḥăzeh*. Three others were considered and folded instead: **Inheritance** (*yāraš*, four times in
+   this chapter) into `Land and Sojourning`, whose vocabulary it already is; **Slavery and Bondage**
+   into `Judgment` and `Land and Sojourning`, on the grounds that its real material is Exodus and it
+   should open there; and **Divine Patience** into `Judgment`, where 15:16 now has a paragraph of its
+   own.
+5. **No new connection page for 15:16.** `The Curse of Canaan and the Conquest` already carried the
+   verse as one of its three conquest-rationale texts, and a second page would have restated it. That
+   page was extended instead, with *šālēm* as a threshold, the four hundred years of Israelite
+   slavery that the delay costs, and the point that the reasoning is not hereditary at all.
+6. **15:6 and 15:8 left in tension on purpose.** The man credited with righteousness for believing
+   asks for proof two verses later. The wiki states flatly that Genesis does not treat these as
+   opposites, sets Gideon, Hezekiah, and Zechariah beside them to show Scripture runs no single rule,
+   and declines to manufacture one.
+7. **The *he credited it to him* ambiguity noted and the consensus followed**, exactly as with the
+   tithe at 14:20. The Hebrew of 15:6 has no expressed subjects, so it is grammatically possible to
+   read Abram as crediting God; the Septuagint's passive settles it, every version follows, and the
+   reversal has no serious defense.
+8. **No chronology computed for the four hundred years.** Genesis 15:13's 400, Exodus 12:40's 430 in
+   Egypt, the Septuagint and Samaritan reading of that verse as Egypt *and* Canaan, Exodus 6:16–20's
+   four names, Galatians 3:17's 430 from promise to law, and Acts 7:6's round 400 cannot all be
+   satisfied without adjusting something. All seven are tabled and the spread is reported.
+9. **The eucharistic-style typology of 15:17 recorded as reception, not exegesis.** The reading that
+   makes the furnace and torch God taking the curse the human party deserved is a legitimate
+   development of the passage's own logic and is not what Genesis says; it is labelled as such on
+   `Passing Between the Pieces`.
+10. **The verbal link to Sinai stated honestly rather than asserted.** Genesis 15:17's *tannûr*, a
+    domestic bread-oven, is not Exodus 19:18's *kibšān* nor Deuteronomy 4:20's *kûr*. The connection
+    is the image, not a shared phrase, and `Smoking Furnace and Flaming Torch - Fire as Theophany`
+    tables the three words rather than eliding them.
+11. **No pericope boundaries redrawn.** 15:1–21 is a clean unit: *"After these things"* opens it and
+    16:1's *"Now Sarai, Abram's wife, bore him no children"* opens a new scene. The existing plan
+    already had the break there.
+12. **Quote accuracy.** All twenty-one block-quoted verses under `## Key verses` were verified
+    character-for-character against `raw/bible/Genesis.md` by script, and every italic quotation of
+    Genesis on every page touched this pass was checked the same way. Four slips were caught and
+    fixed: Genesis 6:22 on `Faith` as *"Thus Noah did. According to all that God commanded him, so he
+    did"* (WEB: *"Thus Noah did. He did all that God commanded him."*); Genesis 2:21 on the passage
+    page as *"Yahweh God caused a deep sleep to fall on the man"* (WEB: *"Yahweh God caused the man to
+    fall into a deep sleep"*); Genesis 15:8 on `God` truncated to *"how will I know?"* with a question
+    mark the text does not put there; and Genesis 15:13 on `Egypt` capitalized as *"A land that is not
+    theirs"*. One schematic phrase was also presented as a quotation — *"the word of Yahweh came to"*
+    in the new `Prophecy and Vision` row of `wiki/themes/index.md` — and was rewritten as description.
+    Quotations of the Psalms, the prophets, and the New Testament remain unverifiable against any
+    source in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately; the ten peoples of judgment call 1 and the river of Egypt of
+judgment call 2 are written in plain text rather than linked.

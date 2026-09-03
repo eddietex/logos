@@ -154,6 +154,11 @@ costly.
   the Egyptian bride-price has become, and four verses later it is the stated reason *"the land was
   not able to bear them"*. Genesis reports the blessing causing a family quarrel and never suggests
   giving any of it back
+- [[The Covenant Between the Pieces]] — Genesis 15: the blessing's two contents — offspring and land
+  — given measurable form for the first time, stars and a border, and both sworn under oath rather
+  than merely announced. It is also the chapter where the blessing is protested: *"what will you give
+  me, since I go childless"* is a man saying, four chapters after 12:2, that the blessing has not
+  arrived
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand

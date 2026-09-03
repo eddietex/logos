@@ -71,6 +71,10 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Abram in Egypt]] — Genesis 12:10–20, its first appearance as a place where anything happens
 - [[Abram and Lot Separate]] — Genesis 13:1, 10: the country he goes *up* out of, and the simile the
   narrator reaches for to describe the plain Lot chooses
+- [[The Covenant Between the Pieces]] — Genesis 15:13–14, 18: unnamed and unmistakable. *"a land that
+  is not theirs"*, four hundred years of affliction, a judged nation, a departure *"with great
+  wealth"* — the exodus announced to a childless man four centuries early; and *"the river of Egypt"*
+  as the promise's southern boundary
 
 ## Related places
 
@@ -89,4 +93,7 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - Yahweh afflicts Pharaoh's house with great plagues; Abram is questioned and escorted out of the
   country — Genesis 12:17–20
 - Abram goes up out of Egypt very rich — Genesis 13:1–2, [[Abram and Lot Separate]]
+- Foretold, without being named, as the land of four hundred years' affliction, the nation God will
+  judge, and the country his offspring leave with great wealth — Genesis 15:13–14,
+  [[The Covenant Between the Pieces]]
 - Hagar, an Egyptian, in Abram's household — Genesis 16:1 *(not yet ingested)*

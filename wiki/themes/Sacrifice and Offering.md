@@ -77,9 +77,22 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   up from it. Abram's altars mark ground and declare a name: they are claims staked, in a land the
   narrator has just said belongs to Canaanites, by a man who owns none of it. See
   [[The Call of Abram]] and [[The Altar at Shechem and the Covenant at Shechem]].
-- **Genesis 15:9–17; 22:1–19** *(not yet ingested)* — the covenant between the pieces; the binding of
-  Isaac and *"God will provide himself the lamb"*, the passage the whole theme eventually bends
-  toward.
+- **Genesis 15:9–17** — the theme's most instructive near-miss: everything sacrificial is present and
+  no sacrifice occurs. **The five species are exactly the Levitical set** — *"a heifer three years
+  old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon"* —
+  herd, flock, and the two birds that let a poor worshipper bring a pair where a rich one brings a
+  bull (Leviticus 1; 5:7; 12:8). **The bird is not divided** (15:10), matching Leviticus 1:17's
+  *"shall not divide it apart"* precisely. Fire arrives, at evening, and terror falls on the man.
+  And yet: no altar is built, nothing is burned, no blood is applied, no aroma goes up, nobody eats,
+  and no word from the sacrificial vocabulary appears. The animals are the **terms of an oath**, not
+  gifts — halves laid opposite each other to make a corridor, and the self-curse of Jeremiah
+  34:18–20 is the meaning of walking it. Genesis has the whole apparatus of Israelite sacrifice
+  four centuries early and puts it to a completely different use. See
+  [[The Covenant Between the Pieces]] and
+  [[Passing Between the Pieces]].
+- **Genesis 22:1–19** *(not yet ingested)* — the binding of Isaac and *"God will provide himself the
+  lamb"*, the passage the whole theme eventually bends toward, and the Abraham cycle's actual
+  sacrifice.
 - Strands to trace as ingestion reaches them: Passover and the blood on the doorposts (Exodus 12);
   the five offerings and the Day of Atonement (Leviticus 1–7, 16); *"the life of the flesh is in
   the blood"* (Leviticus 17:11); *"to obey is better than sacrifice"* (1 Samuel 15:22) and the
@@ -103,12 +116,16 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   and a tenth given back. See [[Priesthood]]
 - [[Abram and Lot Separate]] — 13:4 and 13:18: the only altar in Genesis a patriarch returns to, and
   the third one he builds. Still nothing is said to be offered on either
+- [[The Covenant Between the Pieces]] — 15:9–17: the five Levitical species, cut and laid out, the
+  bird left undivided exactly as Leviticus 1:17 will require, fire arriving at nightfall — and
+  nothing offered, nothing burned, and no altar. The apparatus without the act
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
 - [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
   household head who acts as priest with no law behind him
 
 ## Related themes
 
+- [[Covenant]] — what the cut animals of Genesis 15 are actually for, which is not an offering
 - [[Judgment]] — the scene an unaccepted offering leads directly into here
 - [[Sin]] — what crouches at the door of the man whose gift was refused
 - [[Blood]] — the one part of the animal that never reaches the table, and the reason it does not

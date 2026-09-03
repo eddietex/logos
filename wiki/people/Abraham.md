@@ -186,10 +186,53 @@ called him. See [[The Names of God]] and [[The Rescue of Lot and Melchizedek]].
 **One thing he does not do is impose his oath on anyone else.** *"the portion of the men who went
 with me: Aner, Eshcol, and Mamre. Let them take their portion"* (14:24). His allies did not swear it.
 
+### In this pericope — Genesis 15:1–21
+
+He talks back, and the promise becomes a covenant.
+
+**These are his first recorded words to God.** He was commanded at 12:1 and went without replying;
+appeared to at 12:7 and built an altar without praying; given the whole land in four directions at
+13:14–17 and said nothing. Here he speaks three times, and the first thing he says is that it has not
+worked: *"Lord Yahweh, what will you give me, since I go childless, and he who will inherit my estate
+is Eliezer of Damascus?"* (15:2). Genesis does not treat the complaint as a lapse. It treats it as the
+thing that produces the covenant. See [[Eliezer of Damascus]].
+
+**He is given a number and he believes it.** Taken outside to count stars he cannot count, he is told
+*"So will your offspring be"* — and 15:6 delivers the verdict the rest of the Bible argues over:
+*"He believed in Yahweh, who credited it to him for righteousness."* It is the first occurrence of
+the verb *heʾĕmin* in Scripture, and the first time anyone in the Bible is credited with anything. See
+[[Faith]] and
+[[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]].
+
+**And then he asks for proof.** *"Lord Yahweh, how will I know that I will inherit it?"* (15:8), four
+verses after being credited with righteousness for believing. He is not rebuked; he is given a
+ceremony. The two verses stand together in the same conversation and Genesis makes no attempt to
+reconcile them, which is the most useful thing the chapter says about what faith is.
+
+**In the second half he does one thing and then sleeps.** He fetches five animals, cuts them, lays the
+halves opposite each other, and stands guard over them all day driving off the vultures (15:9–11).
+Then *"a deep sleep fell on Abram. Now terror and great darkness fell on him"* (15:12) — *tardēmâ*,
+the word used of Adam at 2:21 and only there in Genesis — and the covenant is cut over his unconscious
+body. **He undertakes nothing.** The smoking furnace and the flaming torch pass between the pieces
+alone, which means God alone swears the self-curse the rite exists to enact, and which is the textual
+ground of every later argument that the promise to Abraham has no conditions in it. See
+[[Passing Between the Pieces]].
+
+**What he is told, he is told he will not see.** Four hundred years of slavery for his offspring in a
+land not theirs, a judged nation, a departure with great wealth — and for himself, *"you will go to
+your fathers in peace. You will be buried at a good old age"* (15:15). The first time in Genesis
+anyone is told how his own death will go, and it is dropped into the middle of a prophecy about
+somebody else's rescue.
+
+**Two silences in the chapter matter.** God says the heir will come *"out of your own body"* (15:4)
+and does not say *hers*; [[Sarah]] is not mentioned once in twenty-one verses. Genesis 16:1 opens on
+exactly that gap. And nothing in the chapter is a sacrifice — five clean species, cut, at evening,
+with fire arriving, and no altar, no burning, and no offering. See
+[[The Covenant Between the Pieces]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: the covenant between
-the pieces (15), Hagar (16), circumcision and
+Almost everything the Bible says about Abraham is still ahead of this page: Hagar (16), circumcision and
 the new name (17), the intercession for Sodom (18), the ruse repeated at Gerar (20), the birth of
 Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
@@ -229,6 +272,13 @@ it (Galatians 3:8). This page grows as those arrive.
   Genesis 14:14–16
 - Blessed by Melchizedek and gives him a tenth of the spoil — Genesis 14:18–20
 - Swears the Bible's first human oath and refuses the king of Sodom's goods — Genesis 14:21–24
+- Told *"Don't be afraid… I am your shield, your exceedingly great reward"*, and speaks to God for
+  the first time in Scripture — Genesis 15:1–3, [[The Covenant Between the Pieces]]
+- Shown the stars, and credited with righteousness for believing — Genesis 15:5–6
+- Asks for a sign that he will inherit the land, and is given a covenant ceremony — Genesis 15:8–11
+- Falls into a deep sleep, and is told of four hundred years of slavery and his own peaceful death —
+  Genesis 15:12–16
+- Yahweh cuts a covenant with him, passing between the pieces alone — Genesis 15:17–21
 - Renamed Abraham — Genesis 17:5 *(not yet ingested)*
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
@@ -241,6 +291,8 @@ it (Galatians 3:8). This page grows as those arrive.
   and the promise enlarged after he gives the choice away
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24; the army nobody knew he had, the first
   tithe, and the first refusal
+- [[The Covenant Between the Pieces]] — Genesis 15:1–21; his first words to God are a complaint, he
+  is credited with righteousness for believing, and then he sleeps through his own covenant
 
 ## Related people
 
@@ -262,6 +314,7 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Bera]] — the king of Sodom, whose money he refuses under oath
 - [[Mamre (person)]], [[Eshcol]], and [[Aner]] — his Amorite covenant-partners
 - [[Chedorlaomer]] — the overlord he defeats with three hundred eighteen men
+- [[Eliezer of Damascus]] — his steward and, until Genesis 15:4, his heir
 
 ## Themes associated
 
@@ -279,3 +332,6 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Tithing]]
 - [[Oaths and Vows]]
 - [[The Names of God]]
+- [[Faith]]
+- [[Righteousness]]
+- [[Prophecy and Vision]]

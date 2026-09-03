@@ -11,8 +11,12 @@ tags: [connection]
   the land of Canaan"*, stops at Haran, and dies there at 205 — [[From Shem to Abram]]
 - **Genesis 12:1–5** — *"Now Yahweh said to Abram, 'Leave your country…'"*, and Abram leaves Haran at
   seventy-five — [[The Call of Abram]]
-- **Genesis 15:7** — *"I am Yahweh who brought you out of Ur of the Chaldees, to give you this land"*
-  *(not yet ingested)*
+- **Genesis 15:7** — *"I am Yahweh who brought you out of Ur of the Chaldees, to give you this land
+  to inherit it"* — [[The Covenant Between the Pieces]]. Genesis's own third account of the
+  departure, and the one that puts Yahweh where 11:31 had put Terah. It is also the Bible's first
+  *"I am Yahweh who brought you out of X"*, the self-presentation formula Exodus 20:2 will use with
+  Egypt — so the exodus's grammar is applied to Abram's own migration before the exodus is even
+  predicted, six verses later.
 - **Genesis 24:4, 10; 31:53** — Haran as Abraham's *"country"* and *"relatives"*, and *"the God of
   Nahor"* *(not yet ingested)*
 - **Joshua 24:2–3** — *"Your fathers … even Terah … served other gods. I took your father Abraham

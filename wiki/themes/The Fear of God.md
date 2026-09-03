@@ -48,6 +48,16 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 
 ## Development across Scripture
 
+- **Genesis 15:1** — the other side of the word, and its first appearance in Scripture on God's own
+  lips: ***"Don't be afraid, Abram."*** *ʾAl-tîrāʾ*, the same verb *yārēʾ* the theme is built on, in
+  the negative — the beginning of the formula that runs through the theophanies, the prophetic
+  commissions (Isaiah 41:10; Jeremiah 1:8), and the annunciations and the empty tomb. It is worth
+  holding beside the theme's own vocabulary rather than folded into it: the Bible commands the fear
+  of God and forbids being afraid of him, with one verb, and Exodus 20:20 states the paradox flatly
+  rather than resolving it. Genesis 15:1 also does not say Abram *was* afraid; the reassurance
+  arrives before any fear is reported, and what follows in the same chapter is *"terror and great
+  darkness"* falling on him (15:12) while God is doing him nothing but good. See
+  [[The Covenant Between the Pieces]].
 - **Genesis 22:12** — *"now I know that you fear God, since you have not withheld your son"*. The
   fear of God demonstrated by a withholding refused, and the first place the phrase is used as a
   verdict on a man.
@@ -90,6 +100,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   he acted *"in the integrity of your heart"* (20:6). The theme's sharpest Genesis observation is
   here: the man who has the covenant misjudges who fears God, and the kings outside it behave better
   than he expected and better than he did.
+- [[The Covenant Between the Pieces]] — Genesis 15:1 and 15:12: the Bible's first *"Don't be
+  afraid"*, and eleven verses later *"terror and great darkness"* falling on the man it was said to.
+  The two halves of *yārēʾ* in one chapter, with no attempt to reconcile them
 - [[Bildad's Second Speech]] — the exact inverse of 1:1, delivered as a verdict: *"This is the
   place of him who doesn't know God"* (18:21), spoken in a room containing one candidate and the
   wrong one

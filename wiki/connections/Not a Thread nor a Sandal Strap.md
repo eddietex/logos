@@ -69,6 +69,14 @@ Abram in a vision, saying, 'Don't be afraid, Abram. I am your shield, your excee
 reward'"* (15:1). *Śākār*, **wages** or **payment** — the exact category Abram has just declined
 from a man. Genesis does not say the vision is a reply. It puts it in the next verse.
 
+**And the refused word comes back as a promise.** The goods Abram will not take are *rəkūš*, the
+noun Genesis 14 uses four times for the plunder (14:11, 12, 16, 21). Thirteen verses later his
+offspring are promised that they *"will come out with great wealth"* — *rəkūš gādôl* (15:14) — from
+another foreign king's country, and Exodus 12:35–36 pays it out in silver, gold, and clothing. He
+declines *rəkūš* so that no man can say *"I have made Abram rich"*; the same commodity arrives from
+the one source about which nobody could say it. See
+[[The Covenant Between the Pieces]].
+
 ## Significance
 
 Genesis 14 is the first chapter in which Abram behaves better than his circumstances required, and

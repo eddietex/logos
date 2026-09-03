@@ -13,7 +13,11 @@ tags: [connection]
   and in gold"* — the *wayyaʿal* that answers 12:10's *wayyēred*, and the plunder —
   [[Abram and Lot Separate]]
 - **Genesis 15:13–14** — the pattern turned into a prediction: four hundred years in a land not
-  theirs, and *"Afterward they will come out with great wealth"* *(not yet ingested)*
+  theirs, and *"Afterward they will come out with great wealth"* —
+  [[The Covenant Between the Pieces]]. The word for the wealth is *rəkūš*, which Genesis 14 used four
+  times for the plunder Abram refused to keep; and 15:14's *"I will also judge that nation"* is the
+  first announced judgment on Egypt, four hundred years before the plagues. See also
+  [[Four Hundred Years - The Sojourn and the Exodus]]
 - **Genesis 46:1–4** — Jacob told *"Don't be afraid to go down into Egypt … I will also surely bring
   you up again"* *(not yet ingested)*
 - **Exodus 1:22** — *"every son who is born you shall cast into the river, and every daughter you

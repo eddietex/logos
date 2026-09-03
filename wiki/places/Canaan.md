@@ -87,6 +87,9 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   13:12 draws between it and the plain, and the grant enlarged to *all the land which you see*
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14: the land as a theatre of war between kings who
   are not from it, defended by a man who does not own it and refuses to be paid for defending it
+- [[The Covenant Between the Pieces]] — Genesis 15:7, 18–21: the first time the promise has an edge
+  rather than a gesture, drawn from the river of Egypt to the Euphrates and inventoried by ten
+  peoples — the largest territorial claim in the Bible, and one Israel never holds
 
 ## Related places
 
@@ -94,6 +97,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   at Canaan comes from and stops in
 - [[Shechem]], [[Bethel]], [[Ai]], and [[The Negev]] — the stages of Abram's first transit of it
 - [[Egypt]] — its neighbour to the south-west, and the other of Ham's two great territories
+- [[The Euphrates]] — the northern limit of the land as Genesis 15:18 draws it, and a border no
+  Israel except Solomon's ever approaches
 - [[Assyria]] and [[Shinar]] — the Mesopotamian powers at the other end of the map
 - **Sidon, Gerar, Gaza, Admah, Zeboiim, Lasha** — six of the eight settlements that fix the border at
   10:19, still without pages of their own
@@ -118,4 +123,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   [[Abram and Lot Separate]]
 - Promised to Abram himself and to his offspring forever, in four directions, and walked at
   command — Genesis 13:14–17, [[Abram and Lot Separate]]
-- Promised to Abram's offspring, by its peoples — Genesis 15:18–21 *(not yet ingested)*
+- Given a border for the first time — from the river of Egypt to the Euphrates — and inventoried by
+  ten peoples — Genesis 15:18–21, [[The Covenant Between the Pieces]]

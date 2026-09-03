@@ -10,7 +10,8 @@ tags: [connection]
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the curse and its threefold refrain
 - [[The Table of Nations]] — Genesis 10:15–19, Canaan's eleven descendants and the border of the land,
   set out without any reference to the curse
-- Genesis 15:16 — *"the iniquity of the Amorite is not yet full"*
+- [[The Covenant Between the Pieces]] — Genesis 15:16, *"the iniquity of the Amorite is not yet
+  full"*, and 15:19–21's ten peoples
 - Leviticus 18:24–30; 20:22–24 — the land vomiting out its inhabitants for what they did
 - Deuteronomy 7:1–5; 9:4–5; 20:16–18 — the conquest commanded, and its stated reason
 - Joshua 9:22–27 — the Gibeonites made *"cutters of wood and drawers of water"*
@@ -62,7 +63,13 @@ their conduct, not their ancestry:
 - **Genesis 15:16** delays the possession of the land for four generations *"for the iniquity of the
   Amorite is not yet full"* — which presumes a threshold that has not been crossed, and therefore a
   people not yet liable. A curse pronounced by Noah would already have settled the matter centuries
-  earlier.
+  earlier. The verse is worth pressing further, because it is the earliest and the most explicit of
+  the three. *Šālēm*, **complete**, makes guilt a quantity that accumulates and dispossession a
+  consequence that waits on it; and what waits with it, in the same oracle, is four hundred years of
+  Israelite slavery (15:13). The Torah is prepared to hold Israel in Egypt for four centuries rather
+  than dispossess a people before it has earned it. Whatever else that theology is, it is not
+  hereditary, and it is not about ancestry at all. See
+  [[The Covenant Between the Pieces]].
 - **Leviticus 18:24–30** grounds the expulsion in the practices just listed and warns Israel that the
   land *"vomits out"* whoever does them — *"that the land not vomit you out also, when you defile it,
   as it vomited out the nation that was before you"*. The threat is portable, which is exactly what a

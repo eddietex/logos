@@ -41,15 +41,20 @@ edges of Israel's story from the first chase to the last conversion.
 
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:15; the landmark for Hobah, and the far end of
   Abram's pursuit
+- [[The Covenant Between the Pieces]] — Genesis 15:2; the city of Eliezer, Abram's steward and, until
+  God removes him two verses later, his heir
 
 ## Related places
 
 - [[Dan (city)]] — the previous waypoint of the same pursuit, at the northern edge of the land
 - [[Canaan]] — the land the chase runs out of
 - [[Mamre (place)]] — where the march began
+- [[The Euphrates]] — the great river beyond it, and the far edge of the promise made four verses
+  after Eliezer is named
 
 ## Events here
 
 - Abram pursues the four kings to Hobah, north of Damascus — Genesis 14:15,
   [[The Rescue of Lot and Melchizedek]]
-- Named as the origin of Eliezer, Abram's heir presumptive — Genesis 15:2 *(not yet ingested)*
+- Named as the origin of [[Eliezer of Damascus]], Abram's heir presumptive — Genesis 15:2,
+  [[The Covenant Between the Pieces]]

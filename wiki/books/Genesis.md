@@ -46,7 +46,16 @@ even fratricidal betrayal into rescue (Joseph).
   with a treaty and three hundred eighteen armed retainers, who recovers his nephew from four kings
   and then refuses to keep a thread of the proceeds. It introduces the first priest, the first tithe,
   the first human oath, and the divine title *God Most High*, and it is the only chapter in the cycle
-  in which God neither speaks nor acts.
+  in which God neither speaks nor acts. Then *[[The Covenant Between the Pieces]]* answers that
+  silence and makes the whole arrangement formal. Abram speaks to God for the first time in Scripture
+  and what he says is that the promise has produced nothing; he is shown the stars and *"believed in
+  Yahweh, who credited it to him for righteousness"* — the verse Paul and James spend the New
+  Testament arguing over — and then asks for proof anyway, and gets a ceremony. Five animals are cut
+  and laid opposite each other, a deep sleep falls on him, and a smoking furnace and a flaming torch
+  pass between the halves **alone**: God swears the self-curse the rite exists to enact, and Abram
+  undertakes nothing. The chapter contains the Bible's first *cut a covenant*, its first prophetic
+  formula, its first *"Don't be afraid"*, its first prediction of the exodus, and the first border
+  the land promise is ever given.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -79,7 +88,7 @@ merge, or reorder them freely.
 - [x] [[Abram in Egypt]] — Genesis 12:10–20
 - [x] [[Abram and Lot Separate]] — Genesis 13:1–18
 - [x] [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24
-- [ ] The Covenant Between the Pieces — Genesis 15:1–21
+- [x] [[The Covenant Between the Pieces]] — Genesis 15:1–21
 - [ ] Hagar and Ishmael — Genesis 16:1–16
 - [ ] Circumcision, the Sign of the Covenant — Genesis 17:1–27
 - [ ] The Three Visitors and Abraham's Intercession — Genesis 18:1–33
@@ -153,6 +162,8 @@ merge, or reorder them freely.
 - [[Land and Sojourning]]
 - [[Call and Election]]
 - [[Deception]]
+- [[Faith]]
+- [[Prophecy and Vision]]
 
 ## Key people
 
