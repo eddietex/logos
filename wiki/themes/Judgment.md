@@ -159,6 +159,11 @@ rule are the conditions the rest of Scripture is set in.
   act, with no charge, no sentence, and no casualty
 - [[Abram in Egypt]] — 12:17: an affliction with no interrogation, no charge, and no speech, falling
   on the household of the man who was lied to
+- [[Abram and Lot Separate]] — 13:10, 13: judgment announced by anticipation and executed nowhere.
+  *"Before Yahweh destroyed Sodom and Gomorrah"* is an aside to the reader inside the verse where the
+  choice is made, and *"the men of Sodom were exceedingly wicked and sinners against Yahweh"* arrives
+  one verse *after* it. The first time Genesis tells the reader what is coming instead of narrating
+  it, and the first charge laid against a whole city
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

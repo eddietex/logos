@@ -55,3 +55,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |
+| [[Lift Up Your Eyes - Two Ways of Seeing the Land]] | parallel | Genesis 13:10–11 · Genesis 13:14–15 · Genesis 3:6 · Genesis 6:2 · Deuteronomy 34:1–4 · Matthew 4:8–10 |
+| [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |

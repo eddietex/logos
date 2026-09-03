@@ -98,6 +98,8 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   and its New Testament application to Christ, to money, and to prayer
 - [[The Call of Abram]] — 12:7–8, the first altars in the promised land, built with nothing said
   about anything being offered on them
+- [[Abram and Lot Separate]] — 13:4 and 13:18: the only altar in Genesis a patriarch returns to, and
+  the third one he builds. Still nothing is said to be offered on either
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
 - [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
   household head who acts as priest with no law behind him

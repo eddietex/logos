@@ -83,6 +83,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Call of Abram]] — Genesis 12:5–9, entered at last, and crossed end to end by a man who owns
   none of it
 - [[Abram in Egypt]] — Genesis 12:10, the famine that empties it of the man just promised it
+- [[Abram and Lot Separate]] — Genesis 13:6–17: the land that cannot carry two households, the line
+  13:12 draws between it and the plain, and the grant enlarged to *all the land which you see*
 
 ## Related places
 
@@ -91,8 +93,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[Shechem]], [[Bethel]], [[Ai]], and [[The Negev]] — the stages of Abram's first transit of it
 - [[Egypt]] — its neighbour to the south-west, and the other of Ham's two great territories
 - [[Assyria]] and [[Shinar]] — the Mesopotamian powers at the other end of the map
-- **Sidon, Gerar, Gaza, Sodom, Gomorrah, Admah, Zeboiim, Lasha** — the eight settlements that fix the
-  border at 10:19; the cities of the plain get their own treatment when Genesis 19 is ingested
+- **Sidon, Gerar, Gaza, Admah, Zeboiim, Lasha** — six of the eight settlements that fix the border at
+  10:19, still without pages of their own
+- [[Sodom]] and [[Gomorrah]] — the other two, which acquire a character at Genesis 13:10–13
+- [[The Plain of the Jordan]] — the *kikkar*, which 13:12 sets outside Canaan: *"Abram lived in the
+  land of Canaan, and Lot lived in the cities of the plain"*
+- [[Hebron]] and [[Mamre]] — the hill town and oak grove that become Abram's permanent address
 
 ## Events here
 
@@ -103,4 +109,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   [[The Call of Abram]]
 - Promised to Abram's offspring at the oak of Moreh — Genesis 12:7, [[The Call of Abram]]
 - A severe famine drives Abram out of it into Egypt — Genesis 12:10, [[Abram in Egypt]]
+- It cannot bear Abram's and Lot's households together; the two separate — Genesis 13:6–12,
+  [[Abram and Lot Separate]]
+- Promised to Abram himself and to his offspring forever, in four directions, and walked at
+  command — Genesis 13:14–17, [[Abram and Lot Separate]]
 - Promised to Abram's offspring, by its peoples — Genesis 15:18–21 *(not yet ingested)*

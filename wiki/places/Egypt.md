@@ -69,6 +69,8 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 
 - [[The Table of Nations]] — Genesis 10:6 as Ham's second son, 10:13–14 with seven descendants
 - [[Abram in Egypt]] — Genesis 12:10–20, its first appearance as a place where anything happens
+- [[Abram and Lot Separate]] — Genesis 13:1, 10: the country he goes *up* out of, and the simile the
+  narrator reaches for to describe the plain Lot chooses
 
 ## Related places
 
@@ -86,5 +88,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   — Genesis 12:10–16, [[Abram in Egypt]]
 - Yahweh afflicts Pharaoh's house with great plagues; Abram is questioned and escorted out of the
   country — Genesis 12:17–20
-- Abram goes up out of Egypt very rich — Genesis 13:1–2 *(not yet ingested)*
+- Abram goes up out of Egypt very rich — Genesis 13:1–2, [[Abram and Lot Separate]]
 - Hagar, an Egyptian, in Abram's household — Genesis 16:1 *(not yet ingested)*

@@ -111,10 +111,41 @@ Genesis passes no judgment. He is not rebuked by God, not punished, not stripped
 leaves richer than he came (13:2). The promise operates over his head and against his conduct, which
 is the pericope's actual subject. See [[Abram in Egypt]].
 
+### In this pericope — Genesis 13:1–18
+
+He comes back up, and then he gives away the land.
+
+The chapter opens by reversing Egypt: he *goes up* (13:1) where he had gone down, retraces his route
+in reverse, and returns *"to the place of the altar, which he had made there at the first"* between
+[[Bethel]] and [[Ai]], where *"Abram called on Yahweh's name"* (13:3–4). It is the only altar in
+Genesis a patriarch is said to come back to, and going back to it is the nearest thing to repentance
+the text gives him — performed without a word of confession.
+
+**Then he does the first admirable thing Genesis records of him.** The Egyptian wealth (13:2, *very
+heavy*) has grown until *"the land was not able to bear them"* (13:6), and the herdsmen fight.
+Abram's response takes the quarrel off his staff and onto himself (*"between you and me"*), names the
+relationship in the word that failed in Genesis 4 (*"for we are relatives"* — literally *we are men,
+brothers*), and then gives away a choice that was his twice over, as the elder and as the man to whom
+the whole land had been promised at 12:7: *"Isn't the whole land before you? … If you go to the left
+hand, then I will go to the right."* See [[Strife and Peacemaking]].
+
+**And the promise is enlarged immediately, without being called a reward.** *"Yahweh said to Abram,
+after Lot was separated from him"* (13:14) — the first divine speech since 12:7, and the first since
+the famine, Egypt, and the ruse. Where 12:7 gave the land to his offspring, 13:15–17 gives it *to
+him* as well, *forever*, in four directions, with offspring *"as the dust of the earth"* and a
+command to walk its length and breadth: the ancient gesture of taking legal possession. He answers by
+moving his tent to the oaks of [[Mamre]] at [[Hebron]] and building his third altar (13:18).
+
+**He says nothing to God in the whole chapter** — no thanks, no question, no vow. His first recorded
+words to God are two chapters away, and they are a complaint about the heir he has just let walk
+east: *"Lord Yahweh, what will you give me, since I go childless, and he who will inherit my estate
+is Eliezer of Damascus?"* (15:2). See
+[[Abram and Lot Separate]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: the separation from Lot
-and the war of the kings (13–14), the covenant between the pieces (15), Hagar (16), circumcision and
+Almost everything the Bible says about Abraham is still ahead of this page: the war of the kings
+(14), the covenant between the pieces (15), Hagar (16), circumcision and
 the new name (17), the intercession for Sodom (18), the ruse repeated at Gerar (20), the birth of
 Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
@@ -141,8 +172,12 @@ it (Galatians 3:8). This page grows as those arrive.
   [[Abram in Egypt]]
 - Takes a bride-price for Sarai from Pharaoh; is rebuked, and escorted out of Egypt — Genesis
   12:16–20
-- Goes up out of Egypt very rich, back to the altar between Bethel and Ai — Genesis 13:1–4 *(not yet
-  ingested)*
+- Goes up out of Egypt very rich, back to the altar between Bethel and Ai — Genesis 13:1–4,
+  [[Abram and Lot Separate]]
+- Ends the herdsmen's strife by giving Lot first choice of the land — Genesis 13:8–9
+- Promised the land to himself and his offspring forever, and offspring as the dust of the earth —
+  Genesis 13:14–17
+- Settles at the oaks of Mamre in Hebron and builds his third altar — Genesis 13:18
 - Renamed Abraham — Genesis 17:5 *(not yet ingested)*
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
@@ -151,6 +186,8 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[From Shem to Abram]] — Genesis 11:26–32; named, married, and moved, and given no act of his own
 - [[The Call of Abram]] — Genesis 12:1–9; called, promised, and obedient without a word
 - [[Abram in Egypt]] — Genesis 12:10–20; his first words in Scripture, and they arrange a half-truth
+- [[Abram and Lot Separate]] — Genesis 13:1–18; back to the altar, the quarrel he stops by conceding,
+  and the promise enlarged after he gives the choice away
 
 ## Related people
 
@@ -159,7 +196,7 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Nahor (brother of Abram)]] — his brother, who stays in Mesopotamia; both their households will
   supply wives to the next two generations
 - [[Haran (son of Terah)]] — his brother, dead in Ur before the family leaves
-- [[Lot]] — his nephew, and his companion out of Haran
+- [[Lot]] — his nephew, his companion out of Haran, and until Genesis 13 the only heir in sight
 - [[Shem]] — his ancestor nine generations back, and by the register's numbers still alive
 - [[Eber]] — his ancestor, and the name behind *Hebrew*, which he is the first man called
   (Genesis 14:13)
@@ -178,3 +215,4 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Covenant]]
 - [[Sacrifice and Offering]]
 - [[Deception]]
+- [[Strife and Peacemaking]]

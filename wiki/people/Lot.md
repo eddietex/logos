@@ -36,6 +36,36 @@ the separation (13), the war and the rescue (14), and Sodom (19). And it has a s
 immediately — a childless man of seventy-five who has just been promised *"a great nation"* is
 travelling with the only young male relative he has. See [[The Call of Abram]].
 
+### In this pericope — Genesis 13:1–18
+
+He chooses, and the chapter arranges the consequences in a line.
+
+He comes up out of Egypt with Abram (13:1) and has become wealthy in his own right — *"Lot also, who
+went with Abram, had flocks, herds, and tents"* (13:5). The two households together are more than the
+country can carry (13:6), their herdsmen fight over water and grazing (13:7), and Abram offers him the
+choice of the whole land. He takes it: *"Lot lifted up his eyes, and saw all the plain of the Jordan,
+that it was well-watered everywhere … So Lot chose the Plain of the Jordan for himself"* (13:10–11).
+
+**Genesis does not call this a sin, and the wiki will not either.** He was invited to choose, the
+plain really was the better grazing, and no character in the chapter knows what the narrator knows.
+What the text does instead is bracket his look with two pieces of information addressed to the reader
+over his head — *before Yahweh destroyed Sodom and Gomorrah* (13:10), and *"the men of Sodom were
+exceedingly wicked and sinners against Yahweh"* (13:13), the second placed one verse *after* the
+choice — and then set his stopping-places out in order: the plain, the cities of the plain, *"moved
+his tent as far as Sodom"* (13:12), and eventually *"sitting in the gate of Sodom"* (19:1). A tent
+drifting toward a city over six chapters.
+
+**Two details are worth keeping.** He *"traveled east"* (13:11), and eastward movement in Genesis is
+always movement away — the cherubim east of Eden (3:24), Cain east to Nod (4:16), Shinar entered from
+the east (11:2). And 13:12 draws a border the offer never mentioned: *"Abram lived in the land of
+Canaan, and Lot lived in the cities of the plain"* — he has left the promised territory as well as
+his uncle. See [[Abram and Lot Separate]] and
+[[Lift Up Your Eyes - Two Ways of Seeing the Land]].
+
+**The separation is also what the promise was waiting for.** *"Yahweh said to Abram, **after Lot was
+separated from him**"* (13:14). Whatever Lot's motives, his departure clears the field: the covenant
+cannot pass to a nephew, and the enlarged land grant arrives in the next breath.
+
 ### What his presence sets up
 
 Everything that follows from Genesis 12 to 19 depends on his being here. He goes out of Haran with
@@ -59,7 +89,8 @@ caravan.
   [[Haran (city)]] — Genesis 11:31, [[From Shem to Abram]]
 - Goes out of Haran with Abram, uncommanded and unpromised — Genesis 12:4–5,
   [[The Call of Abram]]
-- Separates from Abram and settles toward Sodom — Genesis 13:5–13 *(not yet ingested)*
+- Separates from Abram, chooses the plain of the Jordan, and tents as far as Sodom — Genesis 13:5–13,
+  [[Abram and Lot Separate]]
 - Captured and rescued — Genesis 14:12–16 *(not yet ingested)*
 - Brought out of Sodom — Genesis 19:1–29 *(not yet ingested)*
 - Fathers Moab and Ammon — Genesis 19:30–38 *(not yet ingested)*
@@ -69,6 +100,23 @@ caravan.
 - [[From Shem to Abram]] — Genesis 11:27–31
 - [[The Call of Abram]] — Genesis 12:4–5; the relative Abram brings out of the father's house he was
   told to leave
+- [[Abram and Lot Separate]] — Genesis 13:1–18; he lifts his eyes, chooses the well-watered plain,
+  and pitches toward Sodom
+
+## The verdict Genesis withholds
+
+Genesis grades him nowhere. It shows him choosing the better land when offered it (13:10–11), living
+in Sodom when the four kings sack it (14:12), sitting in its gate (19:1), offering his daughters to a
+mob (19:8), lingering until angels take him by the hand (19:16), and bargaining his rescue down to a
+smaller town (19:20). It also shows Abraham arguing for the city on his account (18:23–33) and God
+sparing him because of it: *"God remembered Abraham, and sent Lot out of the middle of the
+overthrow"* (19:29).
+
+The New Testament supplies the verdict the narrative withholds, and it is generous: *"righteous
+Lot, very distressed by the lustful life of the wicked … tormented in his righteous soul from day to
+day with seeing and hearing lawless deeds"* (2 Peter 2:7–8). This wiki flags the tension rather than
+resolving it. Both accounts are canonical, they are not obviously the same portrait, and the honest
+description is that Genesis narrates without grading and 2 Peter grades without narrating.
 
 ## Related people
 
@@ -83,3 +131,5 @@ caravan.
 - [[Land and Sojourning]]
 - [[Life and Death]]
 - [[Judgment]]
+- [[City and Civilization]]
+- [[Strife and Peacemaking]]

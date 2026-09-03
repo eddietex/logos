@@ -88,6 +88,8 @@ for revenge becomes its measure for pardon. See
 - [[Life and Death]] — the currency the whole theme is denominated in
 - [[Curse]] — the sentence Cain carried, and the protection attached to it
 - [[City and Civilization]] — the culture Lamech's family builds, and the song it ends in
+- [[Strife and Peacemaking]] — the alternative Genesis first shows at 13:8–9, nine chapters after
+  Lamech's boast
 
 ## Related people
 

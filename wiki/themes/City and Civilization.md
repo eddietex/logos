@@ -74,6 +74,13 @@ rather than achieved.
   stops is not the city but what the city was for. See [[The Tower of Babel]] and
   [[Pride and Self-Exaltation]]. Babylon's whole later career as *the* city against God begins here;
   see [[Babel and Babylon the Great]].
+- **Genesis 13:10–18** — the theme's first human choice between the two ways of living, and Genesis
+  still declines to grade it. Lot takes the well-watered plain, then *"the cities of the plain"*, then
+  *"moved his tent as far as Sodom"* (13:12), and by 19:1 he is sitting in its gate; Abram is given
+  the whole land and pitches under trees at [[Hebron]]. The narrator's only editorial is about the
+  men of Sodom (13:13), not about cities. Hebrews 11:9–10 reads the contrast as deliberate and then
+  reverses it — the tent-dweller is the one *"looking for the city which has foundations, whose
+  builder and maker is God"*. See [[Abram and Lot Separate]] and [[Sodom]].
 - Strands to trace as ingestion reaches them: Sodom (Genesis 18–19); the cities of refuge as civilization
   domesticating blood vengeance (Numbers 35); Jerusalem as the chosen city (2 Samuel 5, Psalms
   46, 48, 122); Babylon as the archetype of the city against God (Isaiah 13, Jeremiah 50–51,

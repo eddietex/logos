@@ -85,6 +85,10 @@ where that starts, in a sentence about a family that got halfway.
   not yet born, and already somebody else's
 - [[Abram in Egypt]] — Genesis 12:10–20: the promised land starves him out of itself four verses
   after the promise, and he sojourns in Egypt instead
+- [[Abram and Lot Separate]] — Genesis 13:6, 14–18: the land cannot carry two of his households, and
+  in the same chapter it is given to him and his offspring *forever*, in four directions, with an
+  order to walk its length and breadth. Total title, zero possession — and he answers by pitching a
+  tent
 - Genesis 15:7–21 — the land promised by covenant, with four centuries of delay *(not yet ingested)*
 - Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*

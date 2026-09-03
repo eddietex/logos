@@ -124,6 +124,11 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   Scripture and the first partition of humanity, in that order
 - [[The Call of Abram]] — 12:1–3, the promise before it is a covenant: no oath, no sign, no
   conditions, and all of the content
+- [[Abram and Lot Separate]] — 13:14–17, the land grant enlarged before there is any covenant
+  ceremony to carry it: to Abram *as well as* his offspring, *ʿad-ʿôlām* (*forever*, the word's first
+  appearance in the promises), in four directions, with an innumerable offspring and a command to
+  take symbolic possession by walking. Chapter 15 ratifies this with fire and chapter 17 seals it with
+  circumcision; the content is already here
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
   Revelation
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made

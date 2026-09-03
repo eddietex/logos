@@ -434,6 +434,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   paid for her; then afflicts Pharaoh's household with great plagues *"because of Sarai, Abram's
   wife"*, and the woman is returned — his only act in the pericope, and it is wordless —
   [[Abram in Egypt]]
+- Waits out the return from Egypt and the herdsmen's quarrel in silence, then speaks *"after Lot was
+  separated"* — enlarging the land grant to Abram himself, *forever*, in four directions, with
+  offspring as the dust of the earth and a command to walk the land's length and breadth —
+  [[Abram and Lot Separate]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -473,6 +477,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   merit: *"because of Sarai, Abram's wife"*. It is the first demonstration in Scripture that the
   promise is not contingent on the conduct of the man who holds it, and it is made without a
   syllable of divine speech.
+- [[Abram and Lot Separate]] — silent through the return, the wealth, and the quarrel, and speaking
+  once the household has split. The timing is written into the sentence — *"Yahweh said to Abram,
+  after Lot was separated from him"* (13:14) — and what he says goes past 12:7 in every dimension:
+  the land to Abram *as well as* his offspring, *forever*, north, south, east and west, an
+  innumerable offspring, and an order to walk the ground. He is also the subject of the narrator's
+  aside at 13:10, *before Yahweh destroyed Sodom and Gomorrah* — the first time in Genesis a judgment
+  is announced by being remembered in advance.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

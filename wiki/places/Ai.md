@@ -47,6 +47,7 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 ## Appears in
 
 - [[The Call of Abram]] — Genesis 12:8, the eastern marker of Abram's camp
+- [[Abram and Lot Separate]] — Genesis 13:3, the same marker on the way back from Egypt
 
 ## Related places
 
@@ -57,6 +58,8 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 ## Events here
 
 - Abram pitches on the ridge with Ai to his east — Genesis 12:8, [[The Call of Abram]]
+- Abram returns to the altar between Bethel and Ai after Egypt — Genesis 13:3–4,
+  [[Abram and Lot Separate]]
 - Israel is routed because of Achan's theft — Joshua 7
 - Ai is taken by ambush and burned — Joshua 8:1–29
 - Resettled after the exile — Ezra 2:28; Nehemiah 7:32

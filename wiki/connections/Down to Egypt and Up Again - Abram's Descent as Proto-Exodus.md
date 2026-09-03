@@ -10,7 +10,8 @@ tags: [connection]
 - **Genesis 12:10–20** — famine, descent, sojourning, the wife taken, plagues on Pharaoh's house, and
   an escorted expulsion — [[Abram in Egypt]]
 - **Genesis 13:1–2** — *"Abram went up out of Egypt … Abram was very rich in livestock, in silver,
-  and in gold"* *(not yet ingested)*
+  and in gold"* — the *wayyaʿal* that answers 12:10's *wayyēred*, and the plunder —
+  [[Abram and Lot Separate]]
 - **Genesis 15:13–14** — the pattern turned into a prediction: four hundred years in a land not
   theirs, and *"Afterward they will come out with great wealth"* *(not yet ingested)*
 - **Genesis 46:1–4** — Jacob told *"Don't be afraid to go down into Egypt … I will also surely bring

@@ -143,6 +143,10 @@ costly.
   wife the promise runs through, by a king who is plagued for taking her
 - [[The Call of Abram]] — 12:2–3: five uses of *brk* against the five curses of Genesis 1–11, aimed
   by name at the scattered families and the cursed ground
+- [[Abram and Lot Separate]] — 13:2, 6: the blessing as a weight. *Kābēd meʾōd*, *very heavy*, is what
+  the Egyptian bride-price has become, and four verses later it is the stated reason *"the land was
+  not able to bear them"*. Genesis reports the blessing causing a family quarrel and never suggests
+  giving any of it back
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand

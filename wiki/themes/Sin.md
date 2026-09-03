@@ -134,6 +134,11 @@ has been argued.
   *violence* in nine verses that end in a divine act against a human project. Genesis leaves the
   reader to supply the category, and the history of interpretation is the history of readers supplying
   different ones
+- [[Abram and Lot Separate]] — 13:13, the charge with no content: *rāʿîm wəḥaṭṭāʾîm lə-Yhwh*,
+  **wicked and sinners against Yahweh**, both of the Bible's blunt words at once and the specification
+  that makes it more than social wrongdoing — and not one particular given. What Sodom actually did is
+  supplied later and from several directions at once (Genesis 18:20; 19:4–11; Ezekiel 16:49–50;
+  Isaiah 1:10–17; Jude 7); see [[Sodom]]
 - [[The First Adam and the Last Adam]] — the New Testament's universalizing of it
 - [[Eliphaz's Second Speech]] — Job 15:14–16, the friends' anthropology at full strength (*"What is
   man, that he should be clean?"*), and the wiki's standing case of a largely true doctrine used as

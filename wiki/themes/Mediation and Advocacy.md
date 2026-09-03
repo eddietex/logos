@@ -97,6 +97,8 @@ what Job is asking for.
 - [[Righteousness]] — the verdict the advocate is sought in order to obtain
 - [[Sacrifice and Offering]] — mediation's other instrument, and the one the epilogue uses
 - [[Covenant]] — which characteristically has a mediator attached
+- [[Strife and Peacemaking]] — standing between two parties before a court is needed, which is what
+  Abram does at Genesis 13:8–9 and for Sodom at 18:23–33
 
 ## Related people
 

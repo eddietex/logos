@@ -91,6 +91,10 @@ finding is that in Genesis the provision follows the sentence and never cancels 
 - [[The Waters Recede]] — grace widened from one man to the whole race, and explicitly grounded on
   humanity's incorrigibility: *"because the imagination of man's heart is evil from his youth"*
   (8:21)
+- [[Abram and Lot Separate]] — Genesis 13:14–17: the largest promise Abram has yet received, arriving
+  after a famine, a lie in Egypt, a bride-price taken for his wife, and a family quarrel, with none of
+  the four mentioned. Genesis places it immediately after he gives away his claim and never calls it a
+  reward
 
 ## Related themes
 

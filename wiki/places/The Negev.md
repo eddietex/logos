@@ -46,6 +46,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 - [[The Call of Abram]] — Genesis 12:9, the last stage of Abram's transit of the land
 - [[Abram in Egypt]] — Genesis 12:10, unnamed but implied: the descent to Egypt starts from here, and
   13:1 brings him back up into it
+- [[Abram and Lot Separate]] — Genesis 13:1, 3, crossed northward on the return and left behind for
+  the Bethel ridge
 
 ## Related places
 
@@ -56,7 +58,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 ## Events here
 
 - Abram travels on toward the South — Genesis 12:9, [[The Call of Abram]]
-- Abram returns from Egypt into the Negev — Genesis 13:1 *(not yet ingested)*
+- Abram returns from Egypt into the Negev, and travels north from it by stages — Genesis 13:1, 3,
+  [[Abram and Lot Separate]]
 - Abraham settles between Kadesh and Shur — Genesis 20:1 *(not yet ingested)*
 - Hagar and Ishmael in the wilderness of Beersheba — Genesis 21:14–21 *(not yet ingested)*
 - Isaac's wells and the promise renewed at Beersheba — Genesis 26:23–25 *(not yet ingested)*

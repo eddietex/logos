@@ -92,6 +92,9 @@ the others.
 - [[The Call of Abram]] — Genesis 12:1–9, the first call, with no reason given and everybody else as
   the purpose
 - [[From Shem to Abram]] — Genesis 11:10–32, the emptiness the call lands on
+- [[Abram and Lot Separate]] — Genesis 13:14–17, the election enlarged rather than tested: to him,
+  forever, in four directions, and stated to begin *"after Lot was separated from him"* — the last
+  plausible heir removed before the offspring promise is made a quantity
 - Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
 - Exodus 3–4 — the call that is argued with
 - Deuteronomy 7:6–8 — election stated, and its reason declined

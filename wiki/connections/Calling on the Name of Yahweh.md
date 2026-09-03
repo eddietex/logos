@@ -11,8 +11,10 @@ tags: [connection]
   to call on Yahweh's name."* — [[The Line of Cain and the Birth of Seth]]
 - **Genesis 12:8** — Abram between Bethel and Ai: *"There he built an altar to Yahweh and called on
   Yahweh's name."* — [[The Call of Abram]]
-- **Genesis 13:4; 21:33; 26:25** *(not yet ingested)* — Abram returning to the same altar, Abraham at
-  Beersheba, and Isaac at Beersheba
+- **Genesis 13:4** — *"to the place of the altar, which he had made there at the first. There Abram
+  called on Yahweh's name."* The only altar in Genesis a patriarch is said to return to, and the only
+  repetition of the formula by the same man at the same place — [[Abram and Lot Separate]]
+- **Genesis 21:33; 26:25** *(not yet ingested)* — Abraham at Beersheba, and Isaac at Beersheba
 - **Exodus 6:2–3** *(not yet ingested)* — *"I am Yahweh. I appeared to Abraham, to Isaac, and to
   Jacob, as God Almighty; but by my name Yahweh I was not known to them."*
 - **Joel 2:32** — *"whoever will call on Yahweh's name shall be saved"*

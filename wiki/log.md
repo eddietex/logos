@@ -2054,3 +2054,136 @@ the Bible never uses.
 
 Only `AGENTS.md` changed. No wiki page was renamed: `wiki/people/Pharaoh (of Abram's time).md` was
 already created under this rule in the ingest commit, which is what exposed the gap.
+
+## [2026-09-03] ingest | Genesis 13.1-18 — Abram and Lot Separate
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` — Job is also in-progress and loses on canonical order — and *Abram and Lot
+Separate* was the first unchecked box on its page. `raw/bible/Genesis.md` was already present, so no
+fetch. Step 2's discussion went into the passage page.
+
+**The pericope.** Abram goes *up* out of Egypt (13:1, *wayyaʿal*, answering 12:10's *wayyēred*),
+*very heavy* with the wealth the bride-price bought, and retraces his route in reverse to the altar
+between Bethel and Ai — the only altar in Genesis a patriarch returns to. That wealth is then the
+cause of everything else: *"the land was not able to bear them"* (13:6), the herdsmen quarrel in
+front of the Canaanites and the Perizzites, and Abram stops it by naming Lot his brother, taking the
+dispute on himself, and giving away a choice that was his twice over as elder and as the man
+promised the land at 12:7. Lot lifts his own eyes, sees the plain well-watered *"like the garden of
+Yahweh, like the land of Egypt"*, chooses it, travels east, and tents as far as Sodom — with the
+narrator supplying the destruction (13:10b) and the verdict (13:13) to the reader over his head.
+Then Yahweh speaks for the first time since 12:7, *"after Lot was separated from him"*, and enlarges
+the grant in every dimension: to Abram as well as his offspring, *forever*, in four directions, with
+offspring as the dust of the earth and an order to walk the land's length and width. Abram answers
+with a tent at Mamre and his third altar.
+
+**Created**
+
+- `wiki/passages/Genesis/Abram and Lot Separate.md`
+- `wiki/places/Sodom.md` — the city named four times before anything happens in it; the six-way
+  disagreement about what its sin actually was (13:13, 18:20, 19:4–11, Ezekiel 16:49–50,
+  Isaiah 1:10–17, Jude 7) set out rather than flattened, and the southern/northern site proposals
+  recorded without endorsement.
+- `wiki/places/Gomorrah.md` — the name that never acts alone, and why the pairing does real work in
+  the prophets' formula for total destruction.
+- `wiki/places/The Plain of the Jordan.md` — the *kikkar*, its two similes, the boundary 13:12 draws
+  between it and Canaan, and the geology of the Rift.
+- `wiki/places/Hebron.md` — Abram's permanent address from 13:18 on: Machpelah, the six patriarchal
+  burials, Kiriath Arba and the Anakim, and David's first capital.
+- `wiki/places/Mamre.md` — the oak grove, and the Machpelah benchmark phrase *before Mamre*.
+- `wiki/themes/Strife and Peacemaking.md` — a new theme: *rîb* as a filable dispute, the four things
+  Abram does in 13:8–9, and the line from Cain through Isaac's wells and Laban's heap to
+  1 Corinthians 6:7.
+- `wiki/connections/Lift Up Your Eyes - Two Ways of Seeing the Land.md` — 13:10 against 13:14, the
+  Genesis seeing-formula table (3:6, 6:2, 13:10), Moses on Nebo, and Matthew 4:8–10.
+- `wiki/connections/Dust, Stars, and Sand - The Offspring Promises.md` — the three similes, each
+  given at the moment the promise looks least plausible, and the census texts that keep counting what
+  was declared uncountable.
+
+**Revised**
+
+- People: `Abraham` (new pericope section, four timeline entries, *Appears in*, `Strife and
+  Peacemaking`), `Lot` (new pericope section, a new `## The verdict Genesis withholds` section on the
+  Genesis/2 Peter tension, timeline, themes), `God` (timeline entry and an *Appears in* entry — the
+  speech whose timing is written into its own sentence).
+- Places: `Bethel` and `Ai` (the altar returned to), `Canaan` (the land that cannot bear them, and
+  the 13:12 boundary; its placeholder line for the cities of the plain replaced with real links),
+  `Egypt` (the going up, and the simile at 13:10), `The Negev` (crossed northward).
+- Themes: `Land and Sojourning`, `Blessing` (the blessing as a weight that breaks a household),
+  `Covenant` (the grant's content in place before any ceremony), `City and Civilization` (tent
+  against city, and Hebrews 11:9–10 reversing it), `Judgment` (judgment announced by anticipation),
+  `Sin` (13:13's charge with no content), `Sacrifice and Offering`, `Favor and Grace`,
+  `Call and Election`; reciprocal links added on `Vengeance` and `Mediation and Advocacy`.
+- Connections: `Calling on the Name of Yahweh` (13:4 promoted from a *not yet ingested* stub),
+  `Down to Egypt and Up Again` (13:1–2 likewise).
+- `wiki/passages/Genesis/The Call of Abram.md` — its Genesis 13:14–17 cross-reference now links the
+  new page, and a misquotation was corrected (see judgment call 7).
+- `wiki/books/Genesis.md` (box checked, Abraham-section overview extended), `wiki/books/index.md`
+  (17 / 58), all five category indexes, and `wiki/index.md`'s counts (23 passages · 48 people ·
+  24 places · 37 themes · 53 connections).
+
+**Judgment calls, made unattended**
+
+1. **Five place pages created, three others withheld.** `Sodom`, `Gomorrah`,
+   `The Plain of the Jordan`, `Hebron`, and `Mamre` all do work in this pericope and will do more in
+   14–19 and 23. **Zoar** was withheld: it appears here only as the road marker at the end of 13:10,
+   and it earns a page at 19:18–23 where Lot bargains for it. It is named in bold plain text on the
+   passage page rather than linked, so nothing dangles.
+2. **No page for the Canaanites or the Perizzites.** Both are collectives given one clause and no
+   action. The Perizzites' genuinely interesting fact — that they are absent from Genesis 10:15–18's
+   list of Canaan's descendants and present in 15:20's land grant — is recorded on the passage page,
+   along with the *pərāzôt* (*unwalled settlements*) etymology, and both are flagged as due a page
+   when the conquest lists start doing work at 15:19–21. The wiki records the Table/13:7 mismatch as
+   an unexplained addition rather than a contradiction: one list is genealogical and the other
+   residential.
+3. **`Mamre` created under the bare title, with the collision flagged rather than pre-empted.**
+   Genesis 14:13 introduces *Mamre the Amorite*, and the next ingest will therefore hit a place/person
+   collision one pericope from now. `AGENTS.md`'s rule for a non-book collision is a retrospective
+   rename when the second page arrives, so that is what is scheduled: **when Genesis 14:1–24 is
+   ingested, both pages take qualifiers — `Mamre (place)` and `Mamre (person)` — and this page's
+   inbound links are fixed in the same pass.** The note is written into the page itself as well as
+   here, so it cannot be lost. The alternative — folding the grove into `Hebron` — was rejected
+   because Mamre is named more often than Hebron in the patriarchal narratives and is the fixed
+   landmark for Machpelah.
+4. **`Strife and Peacemaking` created as a theme rather than folded into `Vengeance`.** Vengeance is
+   about what strife becomes when nobody stops it; this is about the much rarer case where somebody
+   does, and Genesis has a clear sequence of those (13:8–9, 26:20–22, 31:44–54, 33, 50:15–21) that
+   nothing on the theme list was tracking. `Reconciliation` was considered as a title and rejected:
+   Abram and Lot are not reconciled, they are separated, and the theme has to cover both halves.
+5. **Lot's choice left ungraded, with all three readings named.** The moralizing reading (13:10's
+   eye-lifting as a deliberate echo of 3:6), the realist one (he was invited to choose, and the plain
+   really was better), and the structural one (the promise cannot pass to a nephew, so the chapter's
+   function is to clear the field). The wiki takes none. The related tension — Genesis grading him
+   nowhere and 2 Peter 2:7–8 calling him *"righteous Lot"* — is written out on both his page and the
+   passage page as an unresolved canonical difference rather than harmonized.
+6. **Sodom's sin left open, deliberately.** Genesis 13:13 gives the charge with no content, and the
+   later specifications point in two directions — injustice and inhospitality (Ezekiel 16:49–50;
+   Isaiah 1:10–17; Luke 10:10–12) and sexual violence (Genesis 19:4–11; Jude 7). Both are recorded on
+   `Sodom` and on the passage page, with the observation that Genesis 19 is a scene in which they are
+   not separable.
+7. **A pre-existing misquotation fixed.** `The Call of Abram` quoted Genesis 13:17 twice as
+   *"in its length and in its breadth"*; the WEB reads *width*. Both occurrences corrected. This was
+   found by the quote-verification script below, not by reading.
+8. **No pericope boundaries were redrawn.** 13:1–18 is a clean unit — it opens on the return from
+   Egypt and closes on the altar at Mamre, and 14:1 starts a new scene with a king list. The existing
+   plan already had the break there.
+9. **Quote accuracy.** All eighteen block-quoted verses under `## Key verses` were verified
+   character-for-character against `raw/bible/Genesis.md` by script. Every inline italic quotation of
+   Genesis across every page touched this pass was then checked the same way, which caught eight
+   slips introduced during drafting, all now fixed: Genesis 6:2 paraphrased as *"the sons of God saw
+   that the daughters of men were beautiful"* (WEB: *"God's sons saw that men's daughters were
+   beautiful, and they took any that they wanted for themselves as wives"*); 15:5 as *"So shall your
+   offspring be"* (WEB: *"So will your offspring be"*); 15:6 as *"and he reckoned it to him for
+   righteousness"* (WEB: *"who credited it to him"*); 22:16 as *"By myself I have sworn"* (WEB:
+   *"I have sworn by myself, says Yahweh"*); 22:17 with *as … as* for the WEB's *like … like*; 32:12
+   as *"which can't be numbered for multitude"* (WEB: *"which can't be counted because there are so
+   many"*); 18:27 as *"I who am but dust and ashes"* (WEB: *"although I am dust and ashes"*); and
+   Genesis 4:8, 26:22, and 50:20 quoted slightly short or without their commas. Quotations of
+   Deuteronomy, the Psalms, and the New Testament remain unverifiable against any source in this
+   repo, as elsewhere in the wiki.
+10. **One wrapped wikilink was introduced and caught.** `wiki/books/Genesis.md` briefly carried
+    `*[[Abram and Lot` / `Separate]]*` across a line break — the exact failure `AGENTS.md` warns
+    about, invisible to any search for `[[...]]`. Rewritten to start the line with the link.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately; Zoar, the Canaanites, and the Perizzites are named in plain
+text rather than linked, per judgment calls 1 and 2.

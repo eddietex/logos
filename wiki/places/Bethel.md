@@ -51,6 +51,8 @@ most needing to be pulled down, and that the name it keeps the whole way through
 ## Appears in
 
 - [[The Call of Abram]] — Genesis 12:8, the ridge Abram pitches on and his second altar
+- [[Abram and Lot Separate]] — Genesis 13:3–4, the altar he comes back to after Egypt and calls on
+  Yahweh's name at a second time
 
 ## Related places
 
@@ -63,7 +65,8 @@ most needing to be pulled down, and that the name it keeps the whole way through
 
 - Abram pitches between Bethel and Ai, builds an altar, and calls on Yahweh's name — Genesis 12:8,
   [[The Call of Abram]]
-- Abram returns to the same altar after Egypt — Genesis 13:3–4 *(not yet ingested)*
+- Abram returns to the same altar after Egypt and calls on Yahweh's name — Genesis 13:3–4,
+  [[Abram and Lot Separate]]
 - Jacob's dream of the ladder, and the naming of the place — Genesis 28:10–22 *(not yet ingested)*
 - Jacob builds the altar he was sent back for — Genesis 35:1–15 *(not yet ingested)*
 - Jeroboam sets up a golden calf — 1 Kings 12:28–29

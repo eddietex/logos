@@ -210,8 +210,9 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
   a plural in the first place.
 - [[Abram in Egypt]] — Genesis 12:10–20, immediately after: the man who has just been promised the
   land leaves it in a famine, and speaks for the first time to arrange a half-truth about his wife.
-- Genesis 13:14–17 — the promise enlarged after Lot separates, with *"walk through the land in its
-  length and in its breadth"* making the transit of 12:6–9 into an instruction.
+- [[Abram and Lot Separate]] — Genesis 13:14–17, the promise enlarged after Lot separates, with
+  *"walk through the land in its length and in its width"* making the transit of 12:6–9 into an
+  instruction.
 - Genesis 15:1–21 — the promise becomes a covenant, and 15:7 relocates the exodus-from-Ur.
 - Genesis 17:1–14 — the covenant takes a sign, and Abram takes a new name.
 - Genesis 18:18; 22:18; 26:4; 28:14 — the blessing-of-the-nations clause restated to Abraham twice
@@ -308,7 +309,7 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
   highlands, and then south to the edge of habitable country — a traverse of the promised land's
   length using the route every north–south traveller used. Genesis 13:17 will make the walking
   explicit and turn it into a command: *"Arise, walk through the land in its length and in its
-  breadth; for I will give it to you."*
+  width; for I will give it to you."*
 - **Seventy-five, and the arithmetic that will not close.** 12:4 gives Abram's age at departure, and
   it is the number that collides with Acts 7:4 — see the chronology in
   [[Out of Ur - Terah's Journey and Abram's Call]]. Worth adding here: 12:4 is also the first age
