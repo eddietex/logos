@@ -34,6 +34,8 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:10, the site of the first kingdom in Scripture
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:1, 9; Amraphel's kingdom, and Shinar's return
+  to the narrative as a power that sends armies
 - [[The Tower of Babel]] — Genesis 11:2, the plain the builders settle on; the whole pericope happens
   here, and the *biqʿâ*, the broad valley, is the one landscape with no height in it
 
@@ -42,6 +44,7 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
 - [[Babel]] — the first of its four cities, and the one the next chapter is about
 - [[Assyria]] — up the Tigris, and the second half of Nimrod's map at 10:11
 - [[Nineveh]] — Assyria's great city, built out of Shinar on the WEB's reading of 10:11
+- [[Elam]] — its eastern neighbour and rival, and Chedorlaomer's kingdom in the same coalition
 
 ## Events here
 
@@ -49,4 +52,5 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
   [[The Table of Nations]]
 - The city and the tower are built, the languages confused, and the builders scattered — Genesis
   11:1–9, [[The Tower of Babel]]
-- Amraphel king of Shinar joins the coalition Abram defeats — Genesis 14:1, 9 *(not yet ingested)*
+- Amraphel king of Shinar joins the coalition that sacks Sodom and is defeated by Abram — Genesis
+  14:1, 9, [[The Rescue of Lot and Melchizedek]]

@@ -116,6 +116,13 @@ costly.
   it is honoured here over the head of a man who is behaving badly, exactly as it will be honoured
   for Jacob after he steals it. The pattern holds through the whole cycle: nobody in Genesis is ever
   blessed because they deserved it. See [[Abram in Egypt]].
+- **The first blessing spoken by one man over another outside his family** is Melchizedek's, and it
+  runs both ways in one breath: *"Blessed be Abram of God Most High, possessor of heaven and earth:
+  and blessed be God Most High, who has delivered your enemies into your hand"* (Genesis 14:19–20).
+  The formula *bārûk X lə-ʾĒl ʿElyôn* is the shape the rest of Scripture keeps, and Numbers 6:24–26
+  will make its downward half a priest's standing office. It is also the first visible cashing of
+  12:3's *"I will bless those who bless you"* — by a stranger, in a chapter where God says nothing.
+  See [[Priesthood]] and [[The Rescue of Lot and Melchizedek]].
 - To trace as ingestion reaches them: the promise repeated to Abraham, Isaac, and Jacob (18:18;
   22:18; 26:4; 28:14), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the
   covenant blessings-and-curses of Deuteronomy 28.
@@ -166,11 +173,14 @@ costly.
 - [[Favor and Grace]] — the other freely given word, and the one that comes with no command attached
 - [[Judgment]]
 - [[Life and Death]]
+- [[Priesthood]] — the office that makes blessing a standing function
 
 ## Related people
 
 - [[God]]
 - [[Adam]]
 - [[Noah]] — the first human being to bless, and to curse
+- [[Melchizedek]] — the first to bless someone outside his own family, and to bless God in the same
+  breath
 - [[Shem]]
 - [[Japheth]]

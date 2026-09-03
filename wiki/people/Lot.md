@@ -66,6 +66,27 @@ his uncle. See [[Abram and Lot Separate]] and
 separated from him**"* (13:14). Whatever Lot's motives, his departure clears the field: the covenant
 cannot pass to a nephew, and the enlarged land grant arrives in the next breath.
 
+### In this pericope — Genesis 14:1–24
+
+The bill arrives, and he does not say a word.
+
+**The chapter reports his move into the city in the clause that says he lost everything by it.**
+*"They took Lot, Abram's brother's son, who lived in Sodom, and his goods, and departed"* (14:12).
+Genesis 13:12 had him *"moved his tent as far as Sodom"* — outside it. One chapter later he *lives
+in* it, and the text does not narrate the move, only its cost. *And his goods* is the second half of
+the same point: the goods are why he went east.
+
+**He is an object throughout.** He is *taken* (14:12) and *brought back* (14:16), and he is the
+reason for every verb Abram performs in the chapter — the treaty called on, the three hundred
+eighteen armed, the march to Dan, the night attack, the pursuit past Damascus. He does not speak,
+does not thank anyone, and is not recorded leaving Sodom. By 19:1 he is *"sitting in the gate"*.
+
+**The relationship is named the way chapter 13 named it.** *Abram's brother's son* (14:12) is the
+same careful apposition Genesis 11:31 used, and 13:8 had Abram calling him simply *brother*. The
+chapter that costs Abram the most is the one that spells the kinship out most exactly.
+
+See [[The Rescue of Lot and Melchizedek]].
+
 ### What his presence sets up
 
 Everything that follows from Genesis 12 to 19 depends on his being here. He goes out of Haran with
@@ -91,7 +112,8 @@ caravan.
   [[The Call of Abram]]
 - Separates from Abram, chooses the plain of the Jordan, and tents as far as Sodom — Genesis 13:5–13,
   [[Abram and Lot Separate]]
-- Captured and rescued — Genesis 14:12–16 *(not yet ingested)*
+- Living in Sodom when the four kings sack it; taken with the city's goods, and recovered by Abram —
+  Genesis 14:12–16, [[The Rescue of Lot and Melchizedek]]
 - Brought out of Sodom — Genesis 19:1–29 *(not yet ingested)*
 - Fathers Moab and Ammon — Genesis 19:30–38 *(not yet ingested)*
 
@@ -102,6 +124,8 @@ caravan.
   told to leave
 - [[Abram and Lot Separate]] — Genesis 13:1–18; he lifts his eyes, chooses the well-watered plain,
   and pitches toward Sodom
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:12, 16; taken out of Sodom by an army and
+  returned to it without a line of dialogue
 
 ## The verdict Genesis withholds
 
@@ -111,6 +135,9 @@ mob (19:8), lingering until angels take him by the hand (19:16), and bargaining 
 smaller town (19:20). It also shows Abraham arguing for the city on his account (18:23–33) and God
 sparing him because of it: *"God remembered Abraham, and sent Lot out of the middle of the
 overthrow"* (19:29).
+
+Genesis 14 adds one more item to the first list, and it is a silence: recovered at the cost of a
+three-hundred-mile campaign, he says nothing and goes back to the city he was carried out of.
 
 The New Testament supplies the verdict the narrative withholds, and it is generous: *"righteous
 Lot, very distressed by the lustful life of the wicked … tormented in his righteous soul from day to
@@ -133,3 +160,4 @@ description is that Genesis narrates without grading and 2 Peter grades without 
 - [[Judgment]]
 - [[City and Civilization]]
 - [[Strife and Peacemaking]]
+- [[War]]

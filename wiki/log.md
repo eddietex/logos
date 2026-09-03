@@ -2187,3 +2187,183 @@ with a tent at Mamre and his third altar.
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately; Zoar, the Canaanites, and the Perizzites are named in plain
 text rather than linked, per judgment calls 1 and 2.
+
+## [2026-09-03] schema | Naming rule added for a person who shares a name with a place
+
+Genesis 14:13 turned the flagged `Mamre` collision real — a grove at 13:18, an Amorite chief one
+pericope later — so the rule the previous ingest scheduled is now written into `AGENTS.md` rather
+than left in a log entry.
+
+**The rule.** When a person shares a name with a place, **both** pages take a qualifier: `(person)`
+and the kind of place. Unlike the book collision immediately above it in `AGENTS.md`, neither name
+is fixed by the directory map, so neither gets to keep the bare title. The wiki already had one
+instance of this shape — `Enoch (son of Cain)` and `Enoch (city)` — handled correctly by instinct;
+this makes it a rule so the next one is not handled by instinct.
+
+**Why it has to be a rule.** The same silent double failure the `(person)`/book rule exists for:
+`scripts/link-check.sh` resolves link targets by basename and will pass two files called `Mamre.md`
+without a word, and Obsidian resolves `[[Mamre]]` to one of them by an unstated rule. Nothing
+reports the problem at either end.
+
+The rule also carries the procedure the last two ingests worked out between them: when the first
+page is created and the second is visibly coming, say so in the page and in the log entry, then do
+the rename in the pass that creates the second page and fix the inbound links there. That is exactly
+what happened here — `wiki/places/Mamre.md` → `wiki/places/Mamre (place).md`, five inbound `[[Mamre]]`
+links rewritten, and `wiki/people/Mamre (person).md` created in the same pass.
+
+## [2026-09-03] ingest | Genesis 14.1-24 — The Rescue of Lot and Melchizedek
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` and *The Rescue of Lot and Melchizedek* was the first unchecked box on its
+page. `raw/bible/Genesis.md` was already present, so no fetch. Step 2's discussion went into the
+passage page.
+
+**The pericope.** Nine kings, and for eleven verses Abram is not in the chapter. Four eastern kings
+under Chedorlaomer of Elam hold the five cities of the plain in tribute for twelve years, put down
+their rebellion in the fourteenth with a campaign that sweeps the Transjordan from Ashteroth Karnaim
+to El Paran and back through Kadesh, and destroy the five in the valley of Siddim, where *"the kings
+of Sodom and Gomorrah fled, and some fell there"* into the bitumen pits. They take Sodom's goods and
+*"Lot, Abram's brother's son, who lived in Sodom"* — a verse that reports Lot's move from beside the
+city to inside it only in the clause that says he lost everything by it. An escaped man reaches
+*"Abram, the Hebrew"* at the oaks of Mamre, and the chapter then reveals what Genesis has not said
+before: a mutual-defense treaty with three Amorite brothers, and three hundred eighteen *"trained
+men, born in his house"*. He marches to Dan, attacks by night, pursues past Damascus, and brings
+everything and everyone back. Then two kings come out to meet him in the same valley on the same
+day. Melchizedek of Salem, *"priest of God Most High"*, brings out bread and wine, blesses Abram and
+God in one breath, and is given a tenth. The king of Sodom brings nothing, opens with an imperative,
+and is refused under the Bible's first human oath: *"I have lifted up my hand to Yahweh, God Most
+High, possessor of heaven and earth, that I will not take a thread nor a sandal strap."* God neither
+speaks nor acts anywhere in the chapter.
+
+**Created**
+
+- `wiki/passages/Genesis/The Rescue of Lot and Melchizedek.md`
+- `wiki/people/Melchizedek.md` — three verses and four traditions: Canaanite priest-king of
+  Jerusalem, Shem (*Nedarim* 32b), the heavenly deliverer of 11QMelchizedek, and the pre-incarnate
+  Christ. The wiki endorses none and notes that all four are built on the same absent genealogy.
+- `wiki/people/Chedorlaomer.md` — the campaign's leader, with Amraphel, Arioch, and Tidal covered on
+  his page rather than given a page apiece (judgment call 1 below), and the Hammurabi identification
+  recorded as abandoned.
+- `wiki/people/Bera.md` — the king of Sodom, named once at 14:2 and thereafter only by his title.
+- `wiki/people/Mamre (person).md`, `wiki/people/Eshcol.md`, `wiki/people/Aner.md` — the three
+  Amorite *baʿălê bərît*, and the share Abram protects from his own oath.
+- `wiki/places/Salem.md` — Melchizedek's city, and on Psalm 76:2's evidence the Bible's first
+  Jerusalem, with the Shechem alternative recorded.
+- `wiki/places/Elam.md` — Shem's firstborn as a person and a non-Semitic kingdom as a place, which
+  is the Table of Nations working by geography rather than by descent.
+- `wiki/places/The Salt Sea.md` — the valley of Siddim and its gloss, the bitumen that is also
+  Babel's mortar at 11:3, and the geology of the rift.
+- `wiki/places/Dan (city).md` — the anachronism, and the *from Dan to Beersheba* formula.
+- `wiki/places/Damascus.md` — the landmark for Hobah, and Eliezer's city one verse of narrative later.
+- `wiki/themes/Priesthood.md` — *kōhēn*'s first occurrence, and the office as two-way motion rather
+  than as sacrifice.
+- `wiki/themes/Tithing.md` — two voluntary tenths before any command, and the three tithe
+  legislations the law is actually made of.
+- `wiki/themes/War.md` — *milḥāmâ* at 14:2, Genesis's restraint about it, and the just-war /
+  pacifist reading recorded without adjudication.
+- `wiki/themes/Oaths and Vows.md` — oath against vow, the lifted hand, and the perfect tense that
+  puts Abram's decision before the offer.
+- `wiki/themes/The Names of God.md` — the *ʾĒl* titles as a table, with who supplies each, and the
+  Exodus 6:2–3 problem recorded with all three standard readings.
+- `wiki/connections/Melchizedek in Psalm 110 and Hebrews.md` — the chain of custody from a chapter
+  that grades nothing, through a psalm that makes a category, to an epistle that makes it
+  christological, with Hebrews 7's four moves tabled against what in Genesis 14 each one uses.
+- `wiki/connections/The Tithe Before the Law.md` — the two pre-Mosaic tenths against the three
+  legislations, and the argument from New Testament silence left open in both directions.
+- `wiki/connections/Abram the Hebrew - The First Use of the Name.md` — *ʿibrî* as an outward-facing
+  word, the Eber and *ʿābar* etymologies, and the *ʿApiru* question recorded as unsettled.
+- `wiki/connections/Not a Thread nor a Sandal Strap.md` — 14:21–24 against Genesis 12:16, and the
+  same test run on Achan, Samuel, Elisha and Gehazi, Daniel, Simon Magus, and Paul.
+
+**Renamed**
+
+- `wiki/places/Mamre.md` → `wiki/places/Mamre (place).md`, with all five inbound `[[Mamre]]` links
+  rewritten (`Hebron`, `Canaan`, `places/index`, `Abram and Lot Separate`, `Abraham`). Scheduled by
+  the Genesis 13 log entry and now also a rule in `AGENTS.md` — see the `schema` entry above.
+
+**Revised**
+
+- People: `Abraham` (new pericope section — the army nobody knew he had, the first tithe, the first
+  oath, and Genesis 12 run backwards; six timeline entries; four new related people; five new
+  themes), `Lot` (new pericope section on being an object throughout, and one more line on the
+  verdict Genesis withholds), `God` (a new section on the one chapter in the cycle where he does not
+  speak, act, or appear, and is named by a foreigner instead).
+- Places: `Sodom` (sacked, and its king refused), `Gomorrah` (routed into the tar pits), `Hebron`
+  (where the march starts), `Shinar` (Amraphel), `Canaan` (a theatre of war for kings who are not
+  from it), `Mamre (place)` (renamed; collision paragraph rewritten now that it is real; a 13:18
+  misquotation fixed — see 6 below).
+- Themes: `Blessing`, `Kingship and Empire`, `Covenant`, `Sacrifice and Offering`,
+  `City and Civilization`, `Land and Sojourning`, `Strife and Peacemaking`, `The Nations`,
+  `Mediation and Advocacy`.
+- Connections: `The Vine and the Cup` (a new opening reading — wine as provision brought out to a
+  returning army, with the Gideon inverse at Judges 8:5–9), `Sacrifice Before the Priesthood` (the
+  mirror image of its own thread: a priest with no sacrifice).
+- `wiki/books/Genesis.md` (box checked and linked; Abraham-section overview extended),
+  `wiki/books/index.md` (18 / 58), all five category indexes, and `wiki/index.md`'s counts
+  (24 passages · 54 people · 29 places · 42 themes · 57 connections).
+
+**Judgment calls**
+
+1. **No pages for Amraphel, Arioch, and Tidal.** Each is named exactly twice — the roll of 14:1 and
+   the battle order of 14:9 — with no act, no word, and no fate, and nothing later in Scripture picks
+   any of them up. They are covered on `Chedorlaomer`, who leads the coalition, is named five times,
+   and gives the campaign its summary name at 14:17. Same reasoning for Birsha, Shinab, Shemeber, and
+   the unnamed king of Bela, who are covered on the passage page only. Bera gets a page because he
+   speaks and because Abram's oath is aimed at him by name.
+2. **The campaign itinerary is named in plain text rather than linked.** Ashteroth Karnaim, Ham,
+   Shaveh Kiriathaim, Mount Seir, El Paran, En Mishpat/Kadesh, Hazazon Tamar, Hobah, the King's
+   Valley, Ellasar, Goiim, Admah, Zeboiim, and Bela/Zoar. Each is a waypoint here and does real work
+   later — Kadesh at Numbers 13, Seir with Esau, Zoar at 19:18–23 (already scheduled by the Genesis 13
+   entry), Admah and Zeboiim at Deuteronomy 29:23 and Hosea 11:8 — so each earns a page then. Nothing
+   dangles.
+3. **The Rephaim, Zuzim, Emim, and Horites get no pages either.** They are collectives struck in
+   passing at 14:5–6; the interesting material about them is Deuteronomy 2:10–23, and the Rephaim are
+   already threaded through `The Nephilim and the Giants of Canaan`.
+4. **`The Salt Sea` absorbs the valley of Siddim rather than the two getting separate pages.** The
+   text itself equates them (*"the valley of Siddim (also called the Salt Sea)"*), the later
+   references are all to the sea, and a `Valley of Siddim` page would have been one battle and one
+   gloss.
+5. **Five new themes, which is more than usual, because the chapter is unusual.** `Priesthood`,
+   `Tithing`, `War`, `Oaths and Vows`, and `The Names of God` are all first occurrences in
+   Scripture, all in twenty-four verses, and each has a long enough downstream life that folding it
+   into an existing theme would have buried it. `Rescue and Deliverance` was considered as a sixth
+   and rejected — it would have duplicated `Mediation and Advocacy` and `Judgment` without adding a
+   vocabulary of its own.
+6. **The tithe's grammar recorded, and the consensus followed.** *Wayyitten-lô maʿăśēr mikkōl* has no
+   expressed subject, so the verse can grammatically mean Melchizedek gave Abram a tenth. Hebrews
+   7:2, 4 is the earliest surviving explicit reading and every major tradition follows it; the wiki
+   notes the ambiguity on three pages and does not manufacture a controversy out of it.
+7. **The two anachronisms flagged as narratorial glosses, not smoothed and not called errors.**
+   *The Amalekites* (14:7), Amalek being Esau's grandson at 36:12, and *Dan* (14:14), Laish until
+   Judges 18:29. The wiki reads both as the same convention Genesis uses openly with *Bethel* at
+   12:8, *Hebron* at 13:18, and *"the valley of Siddim (also called the Salt Sea)"* in this very
+   chapter, and records that the alternative (an older Amalek, a pre-Danite Dan) is available and
+   unnecessary.
+8. **Melchizedek's bread and wine given its plain sense first.** Provisioning for a returning army,
+   with Judges 8:5–9 as the inverse case; the eucharistic reading is recorded as what later readers
+   did with the vocabulary, on `The Vine and the Cup` and on the passage page, and is not read back
+   into Genesis 14:18. Genesis mentions no altar, no offering, and no meal.
+9. **Abram's raid left ungraded.** The chapter offers no evaluation and neither does the rest of
+   Scripture. Both traditions are named on `War` — the pacifist reading (narrated, not commended)
+   and the just-war one (a founding case of legitimate rescue) — and the wiki adjudicates neither.
+10. **No pericope boundaries redrawn.** 14:1–24 is a clean unit: it opens on a king list and closes
+    on Abram's speech, and 15:1's *"After these things"* starts a new scene. The existing plan
+    already had the break there.
+11. **Quote accuracy.** All twenty-four block-quoted verses under `## Key verses` were verified
+    character-for-character against `raw/bible/Genesis.md` by script, and every italic quotation of
+    Genesis on every page touched this pass was then checked the same way. Five slips were caught,
+    all now fixed: Genesis 15:1 quoted as *"the word of Yahweh came to Abram"* (WEB: *"Yahweh's word
+    came to Abram"*); 28:22 as *"of all that you give me"* (WEB: *"Of all that you will give me"*);
+    28:21 as *"then Yahweh will be my God"* (WEB: *"and Yahweh will be my God"*); Genesis 47:22
+    paraphrased as *"Pharaoh gave them a portion"* (WEB: *"ate their portion which Pharaoh gave
+    them"*); and a pre-existing misquotation on `Mamre (place)`, which had Genesis 18:1 as
+    *"sitting in the tent door in the heat of the day"* where the WEB reads *"as he sat in the tent
+    door in the heat of the day"*. Two more italic phrases were presented as quotations without
+    being any version's wording — the *toledot* formula on `Melchizedek` and a schematic
+    *"Blessed be X of God Most High"* on `The Names of God` — and both were rewritten as description
+    rather than quotation. Quotations of the Psalms, the prophets, and the New Testament remain
+    unverifiable against any source in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately; the itinerary place names of judgment call 2 and the peoples
+of judgment call 3 are written in plain text rather than linked.

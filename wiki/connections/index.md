@@ -57,3 +57,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |
 | [[Lift Up Your Eyes - Two Ways of Seeing the Land]] | parallel | Genesis 13:10–11 · Genesis 13:14–15 · Genesis 3:6 · Genesis 6:2 · Deuteronomy 34:1–4 · Matthew 4:8–10 |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
+| [[Melchizedek in Psalm 110 and Hebrews]] | typology | Genesis 14:18–20 · Psalm 110:1–4 · Joshua 10:1 · Psalm 76:2 · 11QMelchizedek · Zechariah 6:11–13 · Hebrews 5:5–10; 7:1–28 |
+| [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
+| [[Abram the Hebrew - The First Use of the Name]] | thread | Genesis 14:13 · Genesis 10:21; 11:14–17 · Genesis 39:14; 40:15; 41:12 · Exodus 1:15–19; 2:6; 3:18 · 1 Samuel 4:6; 13:19; 14:11 · Jonah 1:9 · Joshua 24:2–3 · Philippians 3:5 |
+| [[Not a Thread nor a Sandal Strap]] | thread | Genesis 14:21–24 · Genesis 12:14–20 · Genesis 15:1 · Joshua 7:20–26 · 1 Samuel 12:3–5 · 1 Samuel 30:21–25 · 2 Kings 5:15–27 · Daniel 5:17 · Acts 8:18–24 · 1 Corinthians 9:12–18 |

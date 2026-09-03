@@ -88,6 +88,9 @@ what Job is asking for.
   asserts one in the verse after eight verses proving he has no kin left
 - [[The Redeemer and the Avenger of Blood]] — what the word carries: buying back land, redeeming a
   relative out of slavery, marrying a widow to raise a name, and avenging blood
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:18–20, the office itself arriving: *kōhēn*, one
+  who stands between, blessing a man on God's behalf and God on the man's. Hebrews 7:25 takes the
+  same figure as the answer to Job's search. See [[Priesthood]]
 
 ## Related themes
 

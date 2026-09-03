@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:20–21, the first vineyard and the first
   drunkenness
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:18, bread and wine brought out by a priest
 - Genesis 19:30–38 — Lot made drunk and uncovered
 - Genesis 49:11–12 — Judah's blessing: *"He has washed his garments in wine… his eyes will be red with
   wine"*
@@ -30,6 +31,14 @@ tags: [connection]
 
 Scripture never settles on a single verdict about wine, and the reason is that it uses the vine for
 four different things. All four are already implicit in the first vineyard.
+
+**Wine as provision, brought out to a returning army.** The Bible's second mention of wine is
+Melchizedek's: *"Melchizedek king of Salem brought out bread and wine: and he was priest of God Most
+High"* (Genesis 14:18). The plain sense is provisioning — what a city does for allies coming back
+from a campaign, and exactly what Succoth and Penuel refuse Gideon at Judges 8:5–9. Genesis reports
+no altar, no offering, and no meal. That the two elements are the ones the Last Supper uses is a
+fact of vocabulary that later readers built on heavily, and this page records the plain sense and
+the later use without collapsing one into the other. See [[Melchizedek]].
 
 **Wine as gladness and as the sign of a good land.** Psalm 104:15 has wine *"that makes glad the heart
 of man"* listed beside bread and oil as what the earth is for. Deuteronomy 8:8 names the vine among

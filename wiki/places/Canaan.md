@@ -85,6 +85,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[Abram in Egypt]] — Genesis 12:10, the famine that empties it of the man just promised it
 - [[Abram and Lot Separate]] — Genesis 13:6–17: the land that cannot carry two households, the line
   13:12 draws between it and the plain, and the grant enlarged to *all the land which you see*
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14: the land as a theatre of war between kings who
+  are not from it, defended by a man who does not own it and refuses to be paid for defending it
 
 ## Related places
 
@@ -98,7 +100,10 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[Sodom]] and [[Gomorrah]] — the other two, which acquire a character at Genesis 13:10–13
 - [[The Plain of the Jordan]] — the *kikkar*, which 13:12 sets outside Canaan: *"Abram lived in the
   land of Canaan, and Lot lived in the cities of the plain"*
-- [[Hebron]] and [[Mamre]] — the hill town and oak grove that become Abram's permanent address
+- [[Hebron]] and [[Mamre (place)]] — the hill town and oak grove that become Abram's permanent address
+- [[The Salt Sea]] — the rift valley on its eastern edge, and the battlefield of Genesis 14
+- [[Damascus]] and [[Dan (city)]] — the northern limits of Abram's pursuit in Genesis 14, one of them
+  outside the land altogether
 
 ## Events here
 

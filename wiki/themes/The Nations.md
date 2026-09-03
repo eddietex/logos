@@ -95,6 +95,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   through
 - [[The Call of Abram]] — 12:3, where the seventy return as the stated object of the promise, in the
   Table's own vocabulary
+- [[The Rescue of Lot and Melchizedek]] — the first chapter in which Abram actually deals with the
+  nations rather than being promised them: an Elamite overlord, a king of *Goiim* (*nations*, with no
+  country attached), three Amorite covenant-partners, a Canaanite priest of God Most High whose
+  blessing he takes, and a Sodomite king whose money he refuses. It is also where an outsider first
+  needs a word for him, and uses *the Hebrew* (14:13)
 
 ## Related themes
 

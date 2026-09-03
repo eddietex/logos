@@ -77,6 +77,10 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   the exile founded in the same breath
 - [[The Tower of Babel]] — Genesis 11:1–9: the first collective project, in the first kingdom's
   capital, with no ruler in it
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24: nine kings, twelve years of tribute, a
+  rebellion, a punitive campaign — and a man with no throne who beats four of them and takes nothing.
+  It is also the chapter that shows what a king could be: [[Melchizedek]] holds the crown and the
+  priesthood together in one city, which Israel's own law will keep apart
 
 ## Related themes
 
@@ -85,6 +89,7 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 - [[Judgment]] — what the prophets do with those empires
 - [[Curse]] — 9:25, the only ordering of one people under another before 10:10
 - [[Work]] — labour organized, and then compelled
+- [[War]] — what empire uses to collect what it is owed
 - [[Pride and Self-Exaltation]] — the boast the prophets put in every emperor's mouth
 - [[Language and Speech]] — *"one people, and… one language"*, which is what makes the project
   possible
@@ -93,5 +98,8 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 
 - [[Nimrod]]
 - [[The Nephilim]]
+- [[Chedorlaomer]] — the empire's side of Genesis 14
+- [[Bera]] — the king of Sodom, and the vassal who rebelled
+- [[Melchizedek]] — priest and king at once, and the pattern Psalm 110 hands a Davidic king
 - [[Ham]]
 - [[Noah]]

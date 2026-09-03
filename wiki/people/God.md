@@ -338,6 +338,32 @@ His next recorded word is *"Now Yahweh said to Abram"* (12:1), and what he says 
 make a name — the thing the builders had just failed to make for themselves. See
 [[A Name for Ourselves and a Great Name]].
 
+### He is absent, and named by a stranger — Genesis 14:1–24
+
+[[The Rescue of Lot and Melchizedek]] is the only chapter in the Abraham cycle in which he does not
+speak, does not act, and does not appear. Nine kings fight a war, a man is taken and recovered, a
+priest blesses, a tithe is paid, and an oath is sworn, and God is on stage for none of it.
+
+**But he is spoken about, four times in three verses, under a title Genesis has not used.** *ʾĒl
+ʿElyôn*, **God Most High**, *qōnēh šāmayim wāʾāreṣ*, **possessor of heaven and earth** — introduced
+by [[Melchizedek]], a Canaanite priest-king, in the vocabulary of his own culture's high god
+(14:18–20). It is the first of the *ʾĒl* titles that will accumulate through the rest of the cycle,
+and it is supplied from outside the covenant line.
+
+**And Abram identifies it with him.** *"I have lifted up my hand to Yahweh, God Most High, possessor
+of heaven and earth"* (14:22) — the priest's exact epithet with the covenant name in front of it.
+Genesis makes no comment. It is the closest the book comes to saying that the God worshipped
+elsewhere under another name is the God of Genesis 12:1. See [[The Names of God]].
+
+**Melchizedek also credits him with the victory** — *"blessed be God Most High, who has delivered
+your enemies into your hand"* (14:20) — the first time in Genesis a human military success is
+attributed to God, and it is a foreigner who does it.
+
+**Then the silence breaks in the next verse of narrative**, and it reads like an answer to what
+Abram has just refused: *"Don't be afraid, Abram. I am your shield, your exceedingly great reward"*
+(15:1). *Šākār*, wages — the category Abram declined from the king of Sodom. Genesis does not say
+the vision is a reply; it puts it immediately after.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -438,6 +464,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   separated"* — enlarging the land grant to Abram himself, *forever*, in four directions, with
   offspring as the dust of the earth and a command to walk the land's length and breadth —
   [[Abram and Lot Separate]]
+- Absent for a whole chapter — no speech, no act, no appearance — while a foreign priest names him
+  *God Most High, possessor of heaven and earth* and credits him with a victory, and Abram swears by
+  that title with *Yahweh* in front of it — [[The Rescue of Lot and Melchizedek]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -484,6 +513,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   innumerable offspring, and an order to walk the ground. He is also the subject of the narrator's
   aside at 13:10, *before Yahweh destroyed Sodom and Gomorrah* — the first time in Genesis a judgment
   is announced by being remembered in advance.
+- [[The Rescue of Lot and Melchizedek]] — absent entirely, and named by someone else. The only
+  chapter in the Abraham cycle with no divine speech, no divine act, and no theophany; also the
+  chapter that introduces *ʾĒl ʿElyôn*, on a Canaanite priest's lips, and has Abram annex the title
+  to Yahweh in an oath (14:22).
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

@@ -168,7 +168,7 @@ Yahweh's speech at 13:14–17 is the second land promise, and it is not a repeti
 
 **And he answers with a move and an altar.** *"Abram moved his tent, and came and lived by the oaks
 of Mamre, which are in Hebron, and built an altar there to Yahweh"* (13:18). His third altar
-([[Shechem]] 12:7, between [[Bethel]] and [[Ai]] 12:8, now [[Mamre]]), and the one he stays at:
+([[Shechem]] 12:7, between [[Bethel]] and [[Ai]] 12:8, now [[Mamre (place)]]), and the one he stays at:
 Hebron is his address for the rest of his life, the site of the three visitors (18:1), the field and
 cave he buys for Sarah (23:17–20), and the grave of four of the six patriarchs and matriarchs.
 Lot chose the best-watered land in sight; Abram was given all of it and pitched a tent under some
@@ -282,7 +282,7 @@ trees in the hills.
   is spared because he asks.
 - [[Hebron]] — the hill town, some nineteen miles south of Jerusalem, that becomes Abram's permanent
   address from this verse on.
-- [[Mamre]] — the oak grove at Hebron where he pitches and builds his third altar; the site of 18:1
+- [[Mamre (place)]] — the oak grove at Hebron where he pitches and builds his third altar; the site of 18:1
   and the landmark that fixes the field of Machpelah in 23:17.
 
 ## Themes

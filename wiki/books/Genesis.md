@@ -40,7 +40,13 @@ even fratricidal betrayal into rescue (Joseph).
   land can carry,
   Abram stops the resulting quarrel by giving his nephew first choice of the country he himself has
   been promised, and the moment the last plausible heir has walked east the promise is enlarged — to
-  Abram as well as his offspring, forever, in four directions, and innumerable.
+  Abram as well as his offspring, forever, in four directions, and innumerable. Then
+  *[[The Rescue of Lot and Melchizedek]]*, which is stylistically unlike anything around it — a king
+  list, regnal dating, an international campaign — shows what the promise-bearer actually is: a chief
+  with a treaty and three hundred eighteen armed retainers, who recovers his nephew from four kings
+  and then refuses to keep a thread of the proceeds. It introduces the first priest, the first tithe,
+  the first human oath, and the divine title *God Most High*, and it is the only chapter in the cycle
+  in which God neither speaks nor acts.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -72,7 +78,7 @@ merge, or reorder them freely.
 - [x] [[The Call of Abram]] — Genesis 12:1–9
 - [x] [[Abram in Egypt]] — Genesis 12:10–20
 - [x] [[Abram and Lot Separate]] — Genesis 13:1–18
-- [ ] The Rescue of Lot and Melchizedek — Genesis 14:1–24
+- [x] [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24
 - [ ] The Covenant Between the Pieces — Genesis 15:1–21
 - [ ] Hagar and Ishmael — Genesis 16:1–16
 - [ ] Circumcision, the Sign of the Covenant — Genesis 17:1–27

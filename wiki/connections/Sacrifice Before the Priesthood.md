@@ -20,6 +20,8 @@ tags: [connection]
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.
 - **Job 42:7–9** — Job's intercession for the three friends, and the last sacrifice in the book.
+- **Genesis 14:18–20** — Melchizedek, the first man in Scripture called a priest, in a scene with no
+  altar and no offering — [[The Rescue of Lot and Melchizedek]]
 - **Hebrews 7:1–28** — a priesthood that does not descend from Levi.
 
 ## Analysis
@@ -83,6 +85,11 @@ is the man God will only be approached through in chapter 42.
 
 ## Significance
 
+- **The priesthood arrives without a sacrifice attached, which is the mirror image of the rest of
+  this thread.** Every case above is a sacrifice with no priest; Genesis 14:18 is a priest with no
+  sacrifice — *kōhēn*'s first occurrence in the Bible, attached to a Canaanite king who brings out
+  bread and wine, blesses, and receives a tenth. The office and the act enter Scripture separately
+  and neither waits for the law. See [[Priesthood]] and [[Melchizedek]].
 - **Sacrifice is older than the law that regulates it**, and the Bible does not treat the earlier
   instances as irregular. Noah's altar sets the vocabulary — *ʿōlâ*, *rêaḥ nîḥōaḥ* — that Leviticus
   then inherits, and Job's practice is reported without a hint of criticism.

@@ -40,11 +40,14 @@ for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of t
 
 - [[The Table of Nations]] — Genesis 10:19, second of the four border markers
 - [[Abram and Lot Separate]] — Genesis 13:10, in the narrator's aside about the destruction to come
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:2, 8–11; sacked alongside Sodom, and its king
+  routed into the tar pits
 
 ## Related places
 
 - [[Sodom]] — its inseparable partner
 - [[The Plain of the Jordan]] — the valley both stand in
+- [[The Salt Sea]] — the valley of Siddim and its bitumen pits, where its king's army is lost
 - [[Canaan]] — whose southeastern border the pair fixes at 10:19
 
 ## Events here
@@ -52,6 +55,7 @@ for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of t
 - Named as a border marker of Canaan — Genesis 10:19, [[The Table of Nations]]
 - Named in the narrator's forward glance at its destruction — Genesis 13:10,
   [[Abram and Lot Separate]]
-- Its king Birsha joins the revolt against Chedorlaomer and is defeated — Genesis 14:2, 8–11
-  *(not yet ingested)*
+- Its king Birsha joins the revolt against Chedorlaomer and is defeated in the valley of Siddim;
+  the city's goods and food are carried off — Genesis 14:2, 8–11,
+  [[The Rescue of Lot and Melchizedek]]
 - Destroyed with Sodom — Genesis 19:24–25 *(not yet ingested)*

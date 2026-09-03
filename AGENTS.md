@@ -130,6 +130,19 @@ in `raw/`.
   failure is silent at both ends.
 
   The qualifier is written out in links, like `[[Enoch (city)]]`, and never piped away.
+- **When a person shares a name with a place, both pages take a qualifier — `(person)` and the kind of
+  place.** `Enoch (son of Cain)` and `[[Enoch (city)]]`; `Mamre (person)` and `Mamre (place)`. Unlike
+  the book collision above, neither name is fixed by a directory map, so neither gets to keep the
+  bare title — and the failure mode is the same one the `(person)` rule exists for:
+  `scripts/link-check.sh` resolves by basename and passes two files called `Mamre.md`, while Obsidian
+  picks one of them by an unstated rule. Where the place has an obvious kind, use it (`(city)`,
+  `(place)`, `(river)`); where the person has a natural patronymic, that will usually already have
+  disambiguated him and no `(person)` is needed.
+
+  This collision often arrives one pericope ahead of itself — a grove named at 13:18 and the man
+  named at 14:13 — so when you create the first page, say in its own text and in the ingest's log
+  entry that the second is coming and both will be renamed. Then do the rename in the pass that
+  creates the second page, and fix the inbound links in the same pass.
 - **An unnamed figure known only by a title takes the patriarch or period as its qualifier.** Pharaoh
   is a title, not a name — Egyptian *pr-ʿȝ*, *the great house* — and Genesis and Exodus never supply
   a personal name for any Pharaoh they narrate. The same is true of Abimelech, which is very likely a

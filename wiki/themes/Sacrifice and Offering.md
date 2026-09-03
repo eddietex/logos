@@ -98,6 +98,9 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   and its New Testament application to Christ, to money, and to prayer
 - [[The Call of Abram]] — 12:7–8, the first altars in the promised land, built with nothing said
   about anything being offered on them
+- [[The Rescue of Lot and Melchizedek]] — 14:18–20, the inverse case: the Bible's first *priest*, in
+  a scene with no altar, no victim, and no offering — only bread and wine brought out, a blessing,
+  and a tenth given back. See [[Priesthood]]
 - [[Abram and Lot Separate]] — 13:4 and 13:18: the only altar in Genesis a patriarch returns to, and
   the third one he builds. Still nothing is said to be offered on either
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened

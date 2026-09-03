@@ -70,6 +70,9 @@ the land.
 - [[Cain and Abel]] — Genesis 4:1–16; the quarrel nobody stops
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:23–24; Lamech's escalation
 - [[Abram and Lot Separate]] — Genesis 13:5–12; the first quarrel anybody stops, and its terms
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:14–16, the counterpart: one chapter after
+  avoiding a fight by giving away what was his, he starts one to recover what is not, for the same
+  nephew. The wiki reads the two chapters as a single argument about what Abram will spend himself on
 - Genesis 26:17–22 — Isaac's wells, conceded twice *(not yet ingested)*
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
@@ -79,6 +82,7 @@ the land.
 ## Related themes
 
 - [[Vengeance]] — what strife turns into when nobody stops it
+- [[War]] — strife between peoples rather than households, which Genesis 14 introduces
 - [[Retribution]] — the accounting Abram declines to demand
 - [[Blessing]] — the wealth that causes the quarrel at 13:6
 - [[Land and Sojourning]] — what is actually being fought over

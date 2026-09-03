@@ -41,12 +41,14 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 
 ## Appears in
 
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:13; where the news of Lot's capture reaches him,
+  and where the march north begins
 - [[Abram and Lot Separate]] — Genesis 13:18, where Abram pitches at the oaks of Mamre and builds his
   third altar
 
 ## Related places
 
-- [[Mamre]] — the oak grove within it where Abram actually camps
+- [[Mamre (place)]] — the oak grove within it where Abram actually camps
 - [[The Negev]] — the dry country immediately south of it
 - [[Canaan]] — the land it sits near the middle of
 - [[Bethel]] — the previous camp, about thirty miles north along the ridge
@@ -57,6 +59,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 
 - Abram pitches by the oaks of Mamre and builds an altar — Genesis 13:18,
   [[Abram and Lot Separate]]
+- Abram hears that Lot has been taken, and marches from here as far as Dan — Genesis 14:13–14,
+  [[The Rescue of Lot and Melchizedek]]
 - The three visitors, and the promise of a son within the year — Genesis 18:1–15 *(not yet ingested)*
 - Abraham's intercession for Sodom — Genesis 18:16–33 *(not yet ingested)*
 - Sarah dies; Abraham buys the cave of Machpelah from Ephron the Hittite — Genesis 23:1–20

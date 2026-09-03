@@ -118,6 +118,11 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   covenant anyone is told about
 - [[The Covenant with Noah]] — the theme's decisive passage: *bərît* seven times in ten verses, the
   first *bərît ʿôlām*, and a sign the human party is not even told to look at
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:13, where *bərît* enters the Abraham cycle
+  attached to three Amorites rather than to God: *baʿălê bərît ʾAbrām*, *masters of a covenant of
+  Abram*, a mutual-defense treaty. Yahweh's covenant with him is still four verses of narrative
+  away at 15:18, and Abram honours the human one — reserving his allies' share of spoil he has just
+  sworn off himself (14:24)
 - [[Noah's Sons and the Curse of Canaan]] — the contrast that closes the chapter: twelve verses after
   a covenant made with *"every living creature"* on no conditions at all, a man divides his own three
   sons into a blessed line, an enlarged line, and a slave line. Genesis 9 holds the widest covenant in

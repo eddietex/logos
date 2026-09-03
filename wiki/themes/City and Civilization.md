@@ -96,6 +96,10 @@ rather than achieved.
 - [[The Table of Nations]] — eight cities in five verses, and the first kingdom
 - [[The Tower of Babel]] — the first city built by everybody, and the only one in Scripture whose
   construction God stops
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14: five cities of the plain lose everything they
+  have to a bigger power in an afternoon, and the tent-dweller in the hills is the one who gets it
+  back. The chapter also puts two cities' kings side by side — [[Salem]], whose king brings out bread
+  and wine, and [[Sodom]], whose king asks
 
 ## Related themes
 

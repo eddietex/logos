@@ -74,12 +74,17 @@ and salt over. See [[The Plain of the Jordan]].
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:19, a border marker for Canaan's territory
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:2, 8–12, 17, 21–24; sacked by the four kings,
+  and its king refused by Abram under oath
 - [[Abram and Lot Separate]] — Genesis 13:10–13, the destination Lot tents toward and the city the
   narrator condemns in advance
 
 ## Related places
 
 - [[Gomorrah]] — its permanent partner; the two names are almost never apart
+- [[Salem]] — the other city whose king meets Abram in the valley of Shaveh, and the chapter's
+  deliberate contrast to this one
+- [[The Salt Sea]] — the valley of Siddim, where its army is destroyed
 - [[The Plain of the Jordan]] — the *kikkar* it stands in, and the reason Lot chose it
 - **Zoar** — the smallest of the five cities, spared at Lot's request (19:20–22); no page yet
 - [[Canaan]] — the land whose southeastern border it fixes at 10:19
@@ -90,7 +95,11 @@ and salt over. See [[The Plain of the Jordan]].
 - Named as a border marker of Canaan — Genesis 10:19, [[The Table of Nations]]
 - Lot moves his tent as far as Sodom; the narrator declares its men wicked — Genesis 13:12–13,
   [[Abram and Lot Separate]]
-- Sacked by the four kings, and Lot carried off with it — Genesis 14:8–12 *(not yet ingested)*
+- Its king Bera rebels against Chedorlaomer, loses the battle in the tar pits, and the city is
+  stripped of *"all the goods … and all their food"*; Lot is carried off with it — Genesis 14:2–12,
+  [[The Rescue of Lot and Melchizedek]]
+- Its king comes out to Abram at the King's Valley, offers him the goods, and is refused — Genesis
+  14:17, 21–24
 - Abraham argues with Yahweh over whether it can be spared for ten righteous — Genesis 18:20–33
   *(not yet ingested)*
 - Destroyed with Gomorrah; Lot brought out — Genesis 19:1–29 *(not yet ingested)*

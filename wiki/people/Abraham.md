@@ -134,7 +134,7 @@ after Lot was separated from him"* (13:14) — the first divine speech since 12:
 the famine, Egypt, and the ruse. Where 12:7 gave the land to his offspring, 13:15–17 gives it *to
 him* as well, *forever*, in four directions, with offspring *"as the dust of the earth"* and a
 command to walk its length and breadth: the ancient gesture of taking legal possession. He answers by
-moving his tent to the oaks of [[Mamre]] at [[Hebron]] and building his third altar (13:18).
+moving his tent to the oaks of [[Mamre (place)]] at [[Hebron]] and building his third altar (13:18).
 
 **He says nothing to God in the whole chapter** — no thanks, no question, no vow. His first recorded
 words to God are two chapters away, and they are a complaint about the heir he has just let walk
@@ -142,10 +142,54 @@ east: *"Lord Yahweh, what will you give me, since I go childless, and he who wil
 is Eliezer of Damascus?"* (15:2). See
 [[Abram and Lot Separate]].
 
+### In this pericope — Genesis 14:1–24
+
+He turns out to have an army, and he refuses to be paid for using it.
+
+**The chapter shows what he actually is.** Not a wandering shepherd: a chief with a mutual-defense
+treaty (*baʿălê bərît*, 14:13), three hundred eighteen *"trained men, born in his house"* (14:14) —
+implying a household of over a thousand — and enough standing that two kings come out to meet him in
+a valley. Genesis has told none of this before and mentions it only when he needs it.
+
+**He is called *the Hebrew* here, and nowhere else in his story.** *"One who had escaped came and
+told Abram, the Hebrew"* (14:13) — the word's first occurrence in the Bible, in the one chapter where
+he deals with outsiders, and the word foreigners use for his descendants for the rest of the Old
+Testament. See [[Abram the Hebrew - The First Use of the Name]].
+
+**He acts without being told to.** God does not speak once in Genesis 14 — the only chapter in the
+Abraham cycle where that is true — and Abram does not pray, ask, or build an altar. He hears his
+nephew has been taken, arms his household, marches to Dan, attacks at night, pursues past
+[[Damascus]], and brings back *"all the goods, and also brought back his relative, Lot, and his
+goods, and the women also, and the other people"* (14:16). Genesis neither praises nor questions the
+raid. See [[War]].
+
+**Then he does two things with the proceeds, and they are opposite.** He gives a tenth of everything
+to [[Melchizedek]], a priest of a God he has not been introduced to (14:20) — the first tithe in
+Scripture, unrequired and unrepeated. And he refuses everything the king of Sodom offers him,
+under the Bible's first human oath: *"I have lifted up my hand to Yahweh, God Most High, possessor of
+heaven and earth, that I will not take a thread nor a sandal strap nor anything that is yours, lest
+you should say, 'I have made Abram rich'"* (14:22–23). The perfect tense means he had sworn it before
+the offer was made.
+
+**It is Genesis 12 run backwards.** There a foreign king's wealth came to him through a half-truth
+about his wife, and it split his household two chapters later; here a foreign king's wealth is
+declined outright, and the stated reason is credit — he will not have anyone but God in a position to
+claim they made him great. Genesis does not say he learned it. It puts the two scenes three verses of
+narrative apart and lets them stand next to each other. See [[Not a Thread nor a Sandal Strap]].
+
+**And he takes a foreign priest's blessing and annexes his God's name.** Melchizedek blesses him by
+*ʾĒl ʿElyôn, possessor of heaven and earth*; Abram swears by *"Yahweh, God Most High, possessor of
+heaven and earth"* — the same title with his own covenant name in front of it. It is the nearest
+thing in Genesis to a statement that the God worshipped elsewhere under another name is the one who
+called him. See [[The Names of God]] and [[The Rescue of Lot and Melchizedek]].
+
+**One thing he does not do is impose his oath on anyone else.** *"the portion of the men who went
+with me: Aner, Eshcol, and Mamre. Let them take their portion"* (14:24). His allies did not swear it.
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: the war of the kings
-(14), the covenant between the pieces (15), Hagar (16), circumcision and
+Almost everything the Bible says about Abraham is still ahead of this page: the covenant between
+the pieces (15), Hagar (16), circumcision and
 the new name (17), the intercession for Sodom (18), the ruse repeated at Gerar (20), the birth of
 Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
@@ -178,6 +222,13 @@ it (Galatians 3:8). This page grows as those arrive.
 - Promised the land to himself and his offspring forever, and offspring as the dust of the earth —
   Genesis 13:14–17
 - Settles at the oaks of Mamre in Hebron and builds his third altar — Genesis 13:18
+- Allied by treaty to the Amorite brothers Mamre, Eshcol, and Aner — Genesis 14:13,
+  [[The Rescue of Lot and Melchizedek]]
+- Called *the Hebrew*, the first use of the word in Scripture — Genesis 14:13
+- Arms three hundred eighteen of his household, defeats the four kings by night, and recovers Lot —
+  Genesis 14:14–16
+- Blessed by Melchizedek and gives him a tenth of the spoil — Genesis 14:18–20
+- Swears the Bible's first human oath and refuses the king of Sodom's goods — Genesis 14:21–24
 - Renamed Abraham — Genesis 17:5 *(not yet ingested)*
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
@@ -188,6 +239,8 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Abram in Egypt]] — Genesis 12:10–20; his first words in Scripture, and they arrange a half-truth
 - [[Abram and Lot Separate]] — Genesis 13:1–18; back to the altar, the quarrel he stops by conceding,
   and the promise enlarged after he gives the choice away
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24; the army nobody knew he had, the first
+  tithe, and the first refusal
 
 ## Related people
 
@@ -204,6 +257,11 @@ it (Galatians 3:8). This page grows as those arrive.
   without a word at 12:17
 - [[Pharaoh (of Abram's time)]] — the first person he deceives, and the first to put a moral question
   to him
+- [[Melchizedek]] — the priest-king who blesses him, and the first person in Scripture he gives
+  anything to
+- [[Bera]] — the king of Sodom, whose money he refuses under oath
+- [[Mamre (person)]], [[Eshcol]], and [[Aner]] — his Amorite covenant-partners
+- [[Chedorlaomer]] — the overlord he defeats with three hundred eighteen men
 
 ## Themes associated
 
@@ -216,3 +274,8 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Sacrifice and Offering]]
 - [[Deception]]
 - [[Strife and Peacemaking]]
+- [[War]]
+- [[Priesthood]]
+- [[Tithing]]
+- [[Oaths and Vows]]
+- [[The Names of God]]

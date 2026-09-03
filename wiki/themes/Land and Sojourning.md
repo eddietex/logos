@@ -89,6 +89,10 @@ where that starts, in a sentence about a family that got halfway.
   in the same chapter it is given to him and his offspring *forever*, in four directions, with an
   order to walk its length and breadth. Total title, zero possession — and he answers by pitching a
   tent
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14: the resident alien defends the country he has
+  been promised and does not own, is blessed in it by a king who does own a city in it, and then
+  refuses to take a thread of it as payment. He is called *the Hebrew* here (14:13) — on either
+  etymology, *the one from the other side*
 - Genesis 15:7–21 — the land promised by covenant, with four centuries of delay *(not yet ingested)*
 - Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*
