@@ -2023,3 +2023,34 @@ The narrator passes no verdict on any of it.
 
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately.
+
+## [2026-09-03] schema | Naming rule added for unnamed figures known only by a title
+
+Written during the `Genesis 12.10-20` ingest, immediately after that pass, because the ingest forced
+the decision and `AGENTS.md` had no rule covering it.
+
+**The gap.** *Pharaoh* is a title, not a name, and Genesis and Exodus never name any Pharaoh they
+narrate. The schema's naming conventions covered the person/book collision (`Job (person)`) and the
+passage-title collision (`The Transfiguration (Matthew)`), but not a figure whose only designation is
+a title that several distinct people in the same book will share. A bare `Pharaoh.md` would collide
+with at least two more pages inside Genesis alone — Joseph's Pharaoh and the Pharaoh of the
+oppression — and, like the `(person)` case, the collision would be silent: `scripts/link-check.sh`
+resolves by basename and would pass two files called `Pharaoh.md`, while Obsidian would pick one by
+an unstated rule.
+
+**The rule adopted.** Qualify by the patriarch or period the figure appears with, not by a dynasty or
+a date: `Pharaoh (of Abram's time)`, and ahead of us `Pharaoh (of Joseph's time)`,
+`Pharaoh (of the Exodus)`, `Abimelech (of Abraham's time)`, `Abimelech (of Isaac's time)`. Keyed to
+the narrative rather than to history on purpose — the historical identifications are not recoverable
+from the text, and a filename should not smuggle in a chronology the wiki declines to adopt in its
+prose. Applied from the first appearance, so unlike the `(Book)` rule there is never a retrospective
+rename.
+
+**Alternatives rejected.** `Pharaoh (Genesis 12)` — puts a reference in a filename, which the
+passage-naming convention already rules out for the same reason (it says where, not who).
+`Pharaoh I`, `Pharaoh (first)` — invents an enumeration the text does not have.
+`The Pharaoh of the Sister Ruse` — names the episode rather than the person, and reads as an epithet
+the Bible never uses.
+
+Only `AGENTS.md` changed. No wiki page was renamed: `wiki/people/Pharaoh (of Abram's time).md` was
+already created under this rule in the ingest commit, which is what exposed the gap.

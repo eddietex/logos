@@ -130,6 +130,25 @@ in `raw/`.
   failure is silent at both ends.
 
   The qualifier is written out in links, like `[[Enoch (city)]]`, and never piped away.
+- **An unnamed figure known only by a title takes the patriarch or period as its qualifier.** Pharaoh
+  is a title, not a name — Egyptian *pr-ʿȝ*, *the great house* — and Genesis and Exodus never supply
+  a personal name for any Pharaoh they narrate. The same is true of Abimelech, which is very likely a
+  Philistine royal title rather than one man's name, and of Potiphar's wife, the Egyptian midwives,
+  and others ahead. A bare `Pharaoh.md` would therefore collide with at least two further pages
+  inside Genesis alone, and the collision would be silent at both ends in exactly the way the
+  `(person)` rule above describes.
+
+  So such a page is qualified by **who it appears with**, not by a dynasty or a date the text does
+  not supply: `wiki/people/Pharaoh (of Abram's time).md`, and later
+  `Pharaoh (of Joseph's time).md`, `Pharaoh (of the Exodus).md`,
+  `Abimelech (of Abraham's time).md`, `Abimelech (of Isaac's time).md`. Keyed to the narrative and
+  not to history, because the identifications are not recoverable from Scripture and the wiki should
+  not smuggle a chronology into a filename. Like every other qualifier, it is written out in links
+  and never piped away.
+
+  The first such page is created the first time the figure appears; unlike the `(Book)` collision
+  rule, there is no retrospective rename to do, because the qualifier is applied from the start
+  rather than when the second one shows up.
 
 ## Page types & frontmatter
 
