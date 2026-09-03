@@ -122,6 +122,15 @@ rule are the conditions the rest of Scripture is set in.
   putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
   doing this again, so the same fact grounds both the flood and the promise against it.
+- **Genesis 12:17** — the shortest judgment scene in the book, and the one with none of the
+  template's parts. *"Yahweh afflicted Pharaoh and his house with great plagues because of Sarai,
+  Abram's wife."* No coming down, no question, no charge, no sentence pronounced, and no word spoken
+  to anybody — an affliction and a stated reason, in one verse. Two features are worth marking.
+  It falls on a **household** rather than a person, which is the pattern at 20:18 as well (*"Yahweh
+  had closed up tight all the wombs of the house of Abimelech"*). And the party struck is the one
+  who was **deceived**: Pharaoh acted on what he was told, and Genesis offers no theory reconciling
+  that with justice. The verse is doing something other than adjudicating — it is protecting a
+  promise — and the book lets the difference stand unexplained. See [[Abram in Egypt]].
 - Strands to trace as ingestion reaches them: the plagues and the exodus as judgment on Egypt's
   gods; the covenant lawsuit form in the prophets (Micah 6:1–8, Isaiah 1:2–20); the day of Yahweh
   (Amos 5:18–20, Joel 2, Zephaniah 1); exile as judgment and return as its limit; Jesus on
@@ -148,6 +157,8 @@ rule are the conditions the rest of Scripture is set in.
   the template not withheld but replaced
 - [[The Tower of Babel]] — the template reduced to its minimum: a descent, an observation, and an
   act, with no charge, no sentence, and no casualty
+- [[Abram in Egypt]] — 12:17: an affliction with no interrogation, no charge, and no speech, falling
+  on the household of the man who was lied to
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it

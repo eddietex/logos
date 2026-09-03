@@ -44,6 +44,12 @@ people. And ***bāḥar***, to choose, which the Old Testament uses of God's ele
 - **Genesis 12:1–4** — the first call. A command with the destination withheld, five blessings, and
   no reason given. The response is reported as a verb and not a speech: *"So Abram went, as Yahweh
   had told him."* See [[The Call of Abram]].
+- **Genesis 12:10–20** — the first test of what the choosing is contingent on, and the answer is
+  nothing. Eleven verses after the call, the called man leaves the land, hands his wife to a foreign
+  king to save himself, and takes payment for her; God neither withdraws the promise, nor mentions
+  it, nor speaks at all. The election survives the elect man's conduct without comment — which is
+  the datum Paul is working from at Romans 9:11, *"not of works, but of him who calls"*, and
+  Deuteronomy 9:4–6 at national scale. See [[Abram in Egypt]].
 - **Genesis 22:1–2** — the same idiom, *lek-ləkā*, used a second and last time, now demanding the son
   the first call promised. See
   [[Leave Your Country - The Two Lek-Lekha Commands]].
@@ -81,6 +87,8 @@ the others.
 
 ## Key passages
 
+- [[Abram in Egypt]] — Genesis 12:10–20, the first demonstration that the choosing is not conditional
+  on the conduct of the chosen
 - [[The Call of Abram]] — Genesis 12:1–9, the first call, with no reason given and everybody else as
   the purpose
 - [[From Shem to Abram]] — Genesis 11:10–32, the emptiness the call lands on

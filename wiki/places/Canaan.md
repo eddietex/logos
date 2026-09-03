@@ -60,6 +60,15 @@ were in the land"*, 12:6). Abram is given a promise about his descendants and no
 *"no inheritance in it, no, not enough to set his foot on"*, as Acts 7:5 puts it. See
 [[The Call of Abram]] and [[Land and Sojourning]].
 
+**And it starves.** Four verses after the land is promised to Abram's offspring, *"There was a famine
+in the land … for the famine was severe in the land"* (12:10), and the man who has just crossed it
+end to end walks straight back out of it into [[Egypt]]. Genesis draws no line between the promise
+and the famine and offers no explanation for either. It is the first of a series — Isaac faces one
+at 26:1, described in the same words and this time with a divine prohibition against the same
+solution; Jacob's whole household goes down in another (41:57–42:3). The land Israel is aimed at is,
+in the book that aims them at it, agriculturally marginal and repeatedly unable to feed the family
+that holds title to it. See [[Abram in Egypt]].
+
 **What the rest of Scripture does with it.** The land is promised (Genesis 12:7, 15:18–21, 17:8),
 surveyed (Numbers 13), entered (Joshua 1–12), lost (2 Kings 17, 25), and promised again. Its
 inhabitants are dispossessed on grounds the Torah states plainly and which are never Noah's oracle:
@@ -73,6 +82,7 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[From Shem to Abram]] — Genesis 11:31, its first appearance as somewhere anyone is going
 - [[The Call of Abram]] — Genesis 12:5–9, entered at last, and crossed end to end by a man who owns
   none of it
+- [[Abram in Egypt]] — Genesis 12:10, the famine that empties it of the man just promised it
 
 ## Related places
 
@@ -92,4 +102,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - Abram enters it and passes through it, from Shechem to the Negev — Genesis 12:5–9,
   [[The Call of Abram]]
 - Promised to Abram's offspring at the oak of Moreh — Genesis 12:7, [[The Call of Abram]]
+- A severe famine drives Abram out of it into Egypt — Genesis 12:10, [[Abram in Egypt]]
 - Promised to Abram's offspring, by its peoples — Genesis 15:18–21 *(not yet ingested)*

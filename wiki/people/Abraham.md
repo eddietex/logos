@@ -83,12 +83,40 @@ come seven verses later, in Egypt, and they are *"Please say that you are my sis
 Genesis introduces the pattern case of faith as a man who obeyed without speaking and then spoke to
 arrange a lie, and it does not comment on the sequence.
 
+### In this pericope — Genesis 12:10–20
+
+He speaks, and what he says is a plan to give his wife away.
+
+A famine drives him out of the land he was promised four verses earlier. He goes down to Egypt to
+sojourn, without asking Yahweh and without being told not to; nothing in the pericope is a command,
+a promise, or a rebuke, and God does not speak in it at all. Then his first recorded words in
+Scripture: *"See now, I know that you are a beautiful woman to look at … Please say that you are my
+sister, that it may be well with me for your sake, and that my soul may live because of you"*
+(12:11, 13). The motive is stated twice and both times it is his own survival. What happens to
+[[Sarah]] once the Egyptians believe the story is not part of the plan he describes.
+
+**He is right about the danger and wrong about everything else.** The Egyptians do look; she is
+taken into the king's house; nobody attempts to kill him. He accepts a bride-price — sheep, cattle,
+donkeys, servants, camels (12:16) — and it is God, not Abram, who gets her back, by afflicting
+[[Pharaoh (of Abram's time)]] with plagues. When the king puts three questions to him, he answers
+none of them, and he is escorted out of the country.
+
+**The ruse turns out to have been policy.** At 20:13, explaining the second occurrence to Abimelech,
+he says he arranged it with Sarai *"when God caused me to wander from my father's house"* — that is,
+at the very start of the journey of 12:1, before the famine, before Egypt. And it is a half-truth
+rather than a lie: 20:12 makes her his half-sister. Genesis supplies both facts eight chapters late
+and neither of them here. See [[Deception]] and [[The Wife-Sister Episodes]].
+
+Genesis passes no judgment. He is not rebuked by God, not punished, not stripped of anything, and
+leaves richer than he came (13:2). The promise operates over his head and against his conduct, which
+is the pericope's actual subject. See [[Abram in Egypt]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: Egypt and the sister
-ruse (12:10–20), the separation from Lot and the war of the kings (13–14), the covenant between the
-pieces (15), Hagar (16), circumcision and the new name (17), the intercession for Sodom (18), the
-birth of Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
+Almost everything the Bible says about Abraham is still ahead of this page: the separation from Lot
+and the war of the kings (13–14), the covenant between the pieces (15), Hagar (16), circumcision and
+the new name (17), the intercession for Sodom (18), the ruse repeated at Gerar (20), the birth of
+Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
 it (Galatians 3:8). This page grows as those arrive.
@@ -109,7 +137,11 @@ it (Galatians 3:8). This page grows as those arrive.
   12:6–7
 - Builds altars at Shechem and between Bethel and Ai, and calls on Yahweh's name — Genesis 12:7–8
 - Travels on into the Negev — Genesis 12:9
-- Goes down to Egypt in the famine, and speaks for the first time — Genesis 12:10–13 *(not yet
+- Goes down to Egypt in the famine, and speaks for the first time in Scripture — Genesis 12:10–13,
+  [[Abram in Egypt]]
+- Takes a bride-price for Sarai from Pharaoh; is rebuked, and escorted out of Egypt — Genesis
+  12:16–20
+- Goes up out of Egypt very rich, back to the altar between Bethel and Ai — Genesis 13:1–4 *(not yet
   ingested)*
 - Renamed Abraham — Genesis 17:5 *(not yet ingested)*
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
@@ -118,6 +150,7 @@ it (Galatians 3:8). This page grows as those arrive.
 
 - [[From Shem to Abram]] — Genesis 11:26–32; named, married, and moved, and given no act of his own
 - [[The Call of Abram]] — Genesis 12:1–9; called, promised, and obedient without a word
+- [[Abram in Egypt]] — Genesis 12:10–20; his first words in Scripture, and they arrange a half-truth
 
 ## Related people
 
@@ -130,7 +163,10 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Shem]] — his ancestor nine generations back, and by the register's numbers still alive
 - [[Eber]] — his ancestor, and the name behind *Hebrew*, which he is the first man called
   (Genesis 14:13)
-- [[God]] — who does not appear anywhere in this pericope, and speaks to him in the next verse
+- [[God]] — who does not appear anywhere in Genesis 11:10–32, speaks to him at 12:1, and then acts
+  without a word at 12:17
+- [[Pharaoh (of Abram's time)]] — the first person he deceives, and the first to put a moral question
+  to him
 
 ## Themes associated
 
@@ -141,3 +177,4 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[The Nations]]
 - [[Covenant]]
 - [[Sacrifice and Offering]]
+- [[Deception]]

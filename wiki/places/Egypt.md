@@ -31,8 +31,34 @@ is the very next name in the verse. The simplest account is that the parenthesis
 to the left in transmission. The wiki records the tension rather than resolving it: the Torah's
 genealogy and two prophets give the same people two different fathers.
 
-**Egypt's place in the story.** It is where Abram goes in a famine and lies about his wife (Genesis
-12:10–20); where Joseph is sold and rises; where Jacob's seventy go down (Genesis 46:27; Exodus 1:5)
+## Its first appearance as a place — Genesis 12:10–20
+
+Everything the rest of the Bible does with Egypt is set up in eleven verses.
+
+*"There was a famine in the land. Abram went down into Egypt to live as a foreigner there, for the
+famine was severe in the land"* (12:10). Egypt enters the narrative as **the country that has food
+when Canaan does not** — which is what it was, geographically and permanently: the Nile floods
+irrigate independently of the rainfall that the Levantine highlands live or die by, so a drought
+that empties Canaan leaves Egypt fed. That single fact drives Abram down here, Jacob's sons down
+here (42:1–3), Jacob's household down here (46), and, much later, the exiles who take Jeremiah with
+them (Jeremiah 43:7). Egyptian texts record Asiatic herdsmen admitted for exactly this reason.
+
+**The verb is *yārad*, to go down**, and it never varies: one goes *down* to Egypt and *up* out of
+it, in Genesis, in Exodus, in the prophets, and in Matthew 2. It is true of the terrain and it
+becomes true of everything else.
+
+**And the pattern the country will have forever is complete by 12:20.** It feeds the sojourner; its
+king takes the woman he wants through a proper court procedure; God strikes the royal house with
+*"great plagues"*; the household is expelled under escort; and it leaves richer than it came,
+*"very rich in livestock, in silver, and in gold"* (13:2). Refuge, then power, then plague, then
+expulsion, then plunder — the Exodus in miniature, four hundred years early. See
+[[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] and [[Abram in Egypt]].
+
+The one thing Abram does not do here is worship. He builds altars at Shechem, at Bethel, at Mamre,
+and again on the way back (13:4); in Egypt he builds nothing and calls on no one.
+
+**Egypt's place in the rest of the story.** Where Joseph is sold and rises; where Jacob's seventy go
+down (Genesis 46:27; Exodus 1:5)
 and where their descendants are enslaved; the house of bondage the Exodus is out of, and the standing
 name in the prophets for the alliance Judah keeps making and should not (Isaiah 30:1–3, 31:1). And it
 is the place Jesus is taken to as an infant, so that Hosea 11:1 can be quoted of him (Matthew 2:15).
@@ -42,10 +68,13 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:6 as Ham's second son, 10:13–14 with seven descendants
+- [[Abram in Egypt]] — Genesis 12:10–20, its first appearance as a place where anything happens
 
 ## Related places
 
-- [[Canaan]] — its neighbour to the north-east, and Ham's other great territory
+- [[Canaan]] — its neighbour to the north-east, and Ham's other great territory; the land that
+  starves while this one eats
+- [[The Negev]] — the dry corridor between the two, and the road down
 - [[Assyria]] — the other great power Israel lives between
 - **Cush** and **Put** — Nubia and Libya, its neighbours south and west, and Ham's other two sons
 
@@ -53,4 +82,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 
 - Listed among Ham's sons, with seven peoples of its own — Genesis 10:6, 13–14,
   [[The Table of Nations]]
-- Abram goes down in a famine — Genesis 12:10–20 *(not yet ingested)*
+- Abram goes down in a famine, gives out that Sarai is his sister, and is paid a bride-price for her
+  — Genesis 12:10–16, [[Abram in Egypt]]
+- Yahweh afflicts Pharaoh's house with great plagues; Abram is questioned and escorted out of the
+  country — Genesis 12:17–20
+- Abram goes up out of Egypt very rich — Genesis 13:1–2 *(not yet ingested)*
+- Hagar, an Egyptian, in Abram's household — Genesis 16:1 *(not yet ingested)*

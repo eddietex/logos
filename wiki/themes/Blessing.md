@@ -106,6 +106,16 @@ costly.
   Testament's argument leans on the passive; see
   [[All the Families of the Earth - Genesis 12.3 in the New Testament]]. See
   [[The Call of Abram]].
+- **Genesis 12:16** — the first payment on the promise, and it arrives by the wrong road. *"He dealt
+  well with Abram for her sake. He had sheep, cattle, male donkeys, male servants, female servants,
+  female donkeys, and camels."* *"I will bless you"* (12:2) is cashed out eleven verses later in
+  livestock, obtained by a ruse, from a king who is plagued for accepting it, and 13:2 reports the
+  result: *"Abram was very rich in livestock, in silver, and in gold."* Genesis makes no comment.
+  What the episode establishes — and it is the theme's most uncomfortable datum — is that in this
+  book **blessing is not a reward and does not track conduct**. It is a commitment God has made, and
+  it is honoured here over the head of a man who is behaving badly, exactly as it will be honoured
+  for Jacob after he steals it. The pattern holds through the whole cycle: nobody in Genesis is ever
+  blessed because they deserved it. See [[Abram in Egypt]].
 - To trace as ingestion reaches them: the promise repeated to Abraham, Isaac, and Jacob (18:18;
   22:18; 26:4; 28:14), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the
   covenant blessings-and-curses of Deuteronomy 28.
@@ -129,6 +139,8 @@ costly.
 - [[The Tower of Babel]] — 11:4 and 11:8, the same command refused and then enforced
 - [[From Shem to Abram]] — the blessing at its lowest ebb: no divine word, collapsing lifespans, and
   a barren wife, four verses before *"I will bless you… and you will be a blessing"*
+- [[Abram in Egypt]] — 12:16: the promised blessing paid out in livestock, as a bride-price for the
+  wife the promise runs through, by a king who is plagued for taking her
 - [[The Call of Abram]] — 12:2–3: five uses of *brk* against the five curses of Genesis 1–11, aimed
   by name at the scattered families and the cursed ground
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing

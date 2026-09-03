@@ -44,6 +44,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 ## Appears in
 
 - [[The Call of Abram]] — Genesis 12:9, the last stage of Abram's transit of the land
+- [[Abram in Egypt]] — Genesis 12:10, unnamed but implied: the descent to Egypt starts from here, and
+  13:1 brings him back up into it
 
 ## Related places
 

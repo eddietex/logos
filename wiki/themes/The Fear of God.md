@@ -82,6 +82,14 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   verdict, and shown in practice in the sacrifices of 1:5
 - [[Noah and the Flood]] — Genesis 6:9's *"walked with God"* is the Genesis idiom for the same
   settled orientation, in a book that does not yet use this vocabulary
+- [[Abram in Egypt]] — Genesis 12:10–20, where the phrase is absent but the reasoning behind it is
+  the whole plot. Abraham supplies it retrospectively at 20:11, explaining the same ruse to
+  Abimelech: *"Surely the fear of God is not in this place. They will kill me for my wife's sake."*
+  That is a working assumption about foreigners, used to justify a deceit — and in both episodes it
+  proves false. Pharaoh returns the wife and asks for nothing; Abimelech is told by God himself that
+  he acted *"in the integrity of your heart"* (20:6). The theme's sharpest Genesis observation is
+  here: the man who has the covenant misjudges who fears God, and the kings outside it behave better
+  than he expected and better than he did.
 - [[Bildad's Second Speech]] — the exact inverse of 1:1, delivered as a verdict: *"This is the
   place of him who doesn't know God"* (18:21), spoken in a room containing one candidate and the
   wrong one
@@ -96,6 +104,8 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[Sin]] — *"turned away from evil"*, the negative half of the definition in both Job 1:1 and
   Job 28:28
 - [[Judgment]] — what the fear takes seriously, and why it is not reducible to respect
+- [[Deception]] — Abraham's stated reason for the wife-sister ruse is that the fear of God is not in
+  the place he is entering, and he is wrong both times
 
 ## Related people
 
@@ -103,3 +113,6 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   whether it can be disinterested
 - [[Noah]] — the pre-covenant parallel: righteous, blameless, walking with God
 - [[God]] — the object, and in Job the one whose interest in the answer sets the plot going
+- [[Abraham]] — who assumes its absence in two foreign kings, and acts on the assumption
+- [[Pharaoh (of Abram's time)]] — the first of the two kings, and the first to prove the assumption
+  wrong

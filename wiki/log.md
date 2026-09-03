@@ -1925,3 +1925,101 @@ is already occupied. The land is promised not to him but to his offspring, and h
 
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately.
+
+## [2026-09-03] ingest | Genesis 12.10-20 — Abram in Egypt
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` — Job is also in-progress and loses on canonical order — and *Abram in Egypt*
+was the first unchecked box on its page. `raw/bible/Genesis.md` was already present, so no fetch.
+Step 2's discussion went into the passage page.
+
+**The pericope.** Eleven verses, four of them the first words Abram speaks in Scripture, and what he
+says is *"Please say that you are my sister."* A famine empties the land promised four verses
+earlier; he goes *down* to Egypt *"to live as a foreigner"* without consulting Yahweh, who does not
+speak once in the whole pericope. Sarai is taken into Pharaoh's house, a bride-price is settled on
+Abram (12:16), and God intervenes with a single wordless act: *"Yahweh afflicted Pharaoh and his
+house with great plagues because of Sarai, Abram's wife."* Pharaoh puts three questions to Abram and
+gets no answer, returns the wife, keeps nothing, and has the household escorted out of the country.
+The narrator passes no verdict on any of it.
+
+**Created**
+
+- `wiki/passages/Genesis/Abram in Egypt.md`
+- `wiki/people/Pharaoh (of Abram's time).md` — the unnamed king; the title *pr-ʿȝ*, the court
+  procedure at 12:15, the three questions, and his double role as the first outsider to out-behave a
+  patriarch and as the Exodus Pharaoh in miniature.
+- `wiki/themes/Deception.md` — a new theme, founded on 12:13 and running to Joseph: the true
+  statement aimed to mislead, *rāmâ* and *mirmâ* tracking the chosen line for four generations, and
+  the observation that the deceived always ask the same question (12:18, 20:9, 26:10, 29:25).
+- `wiki/connections/The Wife-Sister Episodes.md` — 12:10–20, 20:1–18, 26:6–11 in a column table, and
+  the source-critical and literary readings of the escalation set against each other.
+- `wiki/connections/Down to Egypt and Up Again - Abram's Descent as Proto-Exodus.md` — nine
+  correspondences in sequence with Exodus 1–14, the inversion at Exodus 1:22, and Ramban's
+  *maʿăśēh ʾābôt sîmān lə-bānîm*.
+
+**Revised**
+
+- People: `Abraham` (a new pericope section, timeline, related people), `Sarah` (a new section on her
+  eleven verses without a verb of her own), `God` (timeline entry and a substantial *Appears in*
+  entry — the pericope where he does not speak at all).
+- Places: `Egypt` (a new section — its first appearance as a place where anything happens),
+  `Canaan` (the promised land that starves), `The Negev` (the unnamed road down).
+- Themes: `Land and Sojourning`, `Blessing` (12:16, blessing that does not track conduct), `Curse`
+  (12:3's clause operating on a man who had done nothing wrong), `Judgment` (the shortest judgment
+  scene in the book, with none of the template's parts), `Marriage`, `The Fear of God` (20:11's
+  assumption, wrong twice), `Call and Election`.
+- `wiki/passages/Genesis/The Call of Abram.md` — its dangling Genesis 12:10–20 cross-reference now
+  points at the new page.
+- `wiki/books/Genesis.md` (box checked, Abraham-section overview revised, new key person and theme),
+  `wiki/books/index.md` (16 / 58), all five category indexes, and `wiki/index.md`'s counts
+  (22 passages · 48 people · 19 places · 36 themes · 51 connections).
+
+**Judgment calls, made unattended**
+
+1. **`Pharaoh (of Abram's time)` given a page, and named that way.** He speaks, acts, is acted upon,
+   and delivers the only moral speech in the pericope, so a page was clearly warranted. The naming is
+   the real decision: every Pharaoh in Genesis and Exodus is anonymous, so a bare `Pharaoh.md` would
+   collide with at least two more pages within this book. The parenthetical follows the wiki's
+   existing relational pattern (`Nahor (brother of Abram)`), keyed to the patriarch rather than to a
+   dynasty, because Genesis supplies no dynasty and the identification is not recoverable.
+2. **`Deception` created as a theme rather than folded into `Sin`.** Genesis almost never calls a
+   deception a sin — Abimelech is the one who supplies the word (20:9) — and the pattern is
+   structural enough (serpent, Abram twice, Isaac, Rebekah, Jacob, Laban, Jacob's sons, Tamar,
+   Joseph) that it needs its own page to be traceable. `Truth` and `Lying` were considered as titles
+   and rejected: the Genesis phenomenon is not lying, it is a true statement deployed to falsify.
+3. **No page for the princes of Pharaoh, the Egyptians, or Hagar.** The first two are collectives the
+   text gives one verb each; they are handled in the passage page's `## People`. Hagar is named at
+   16:1 and belongs to that pericope — the passage page records the inference that the *"female
+   servants"* of 12:16 are where she came from, and marks it as an inference (Genesis Rabbah 45:1
+   makes her Pharaoh's daughter, and Genesis itself never links the two verses).
+4. **The moral question is left open, with both poles named.** Ramban's *"Abraham our father
+   unintentionally committed a great sin"* is quoted as the strongest verdict against, and the
+   reading that takes the famine as a trial and 20:11 as an ordinary precaution is stated as the
+   strongest verdict for. The wiki adopts neither, and says why the question is open at all: Genesis
+   narrates the patriarchs' worst conduct in the same flat voice it uses for their best.
+5. **Three cruxes recorded without resolution** — Sarai's beauty at sixty-five (with the Genesis
+   Apocryphon's poem noted as the frankly legendary route), the camels of 12:16 and the
+   Sapir-Hen/Ben-Yosef archaeozoology, and whether the three wife-sister stories are one story. All
+   three are stated as open questions with both sides given.
+6. **`Barrenness` deliberately not linked from this pericope.** The obvious hook is that the promise
+   of offspring is endangered, but that is not what barrenness is about, and the theme page is
+   already carrying the 11:30 → 21:2 arc. It would have been a link for the sake of a link.
+7. **No pericope boundaries were redrawn.** 12:10–20 is a clean unit: it opens on the famine and
+   closes on the expulsion, and 13:1 begins the return. The existing plan already had the break
+   there.
+8. **Quote accuracy.** All eleven block-quoted verses under `## Key verses` were verified
+   character-for-character against `raw/bible/Genesis.md` by script, as was the pull-quote of
+   12:11–13 in the summary. Every inline quotation of Genesis across the pages touched this pass was
+   checked the same way, which caught three slips introduced during drafting and now fixed: Genesis
+   16:1 quoted as *"an Egyptian handmaid"* where the WEB reads *"a servant, an Egyptian, whose name
+   was Hagar"*; Genesis 47:4 quoted with a lowercased *"for the famine is severe"*; and straight
+   quotation marks inside the nested quote at 12:12. Quotations of Exodus, Deuteronomy, Psalms, and
+   the New Testament remain unverifiable against a source in this repo, as elsewhere in the wiki.
+9. **The raw file's 12:3 typo, again.** `raw/bible/Genesis.md` reads *"I will curse him who
+   **treates** you with contempt"*; the WEB reads *treats*. This pericope has no block quote of 12:3,
+   and the two places it is quoted in prose (the passage page's `## Themes`, and the new paragraph on
+   `Curse`) use the correct *treats*, which is the policy the previous ingest set. `raw/` is
+   untouched.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately.

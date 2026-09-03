@@ -52,4 +52,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 |
 | [[Leave Your Country - The Two Lek-Lekha Commands]] | parallel | Genesis 12:1 · Genesis 22:2 · Genesis 12:4 · Genesis 22:3 · Hebrews 11:8, 17–19 |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
+| [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
+| [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |

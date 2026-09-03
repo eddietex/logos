@@ -92,6 +92,17 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   his half-sister — and both would be prohibited by Leviticus 18. Genesis narrates them without a
   flicker of comment, which is a standing feature of the patriarchal material: it is set before
   Sinai and is not written to be exemplary under it. See [[From Shem to Abram]] and [[Barrenness]].
+- **Genesis 12:10–20** — the first marriage in Scripture that anyone denies. *"Please say that you
+  are my sister"* (12:13) suppresses the relation rather than dissolving it, and the story's whole
+  action follows from the suppression: the woman is taken into another man's house on the strength
+  of it, and a bride-price is paid for her to her supposed brother. Three points belong to this
+  theme. **(1)** The narrator restores the word Abram removed, at the moment of rescue and twice
+  over the two episodes — *"because of Sarai, Abram's wife"* (12:17), *"because of Sarah, Abraham's
+  wife"* (20:18). The marriage is what God acts on, whatever has been said about it. **(2)** Sarai
+  is not consulted, does not consent, and does not speak; the ruse is presented to her as an
+  instruction. **(3)** Genesis 12 says nothing about whether the second marriage was consummated,
+  where 20:4 is careful to deny it — a silence with a long commentary history. See
+  [[Abram in Egypt]] and [[The Wife-Sister Episodes]].
 - Later strands to trace: polygamy in the patriarchs and its consistent narrative trouble;
   Deuteronomy 24:1–4 and the divorce debate; Hosea's marriage as prophecy; Song of Songs;
   1 Corinthians 7 on singleness; Revelation 19:7–9, the marriage supper of the Lamb.
@@ -106,6 +117,9 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   comment
 - [[From Shem to Abram]] — Genesis 11:29–30: two marriages inside one family, both wives named, and
   one of them barren
+- [[Abram in Egypt]] — Genesis 12:10–20: a wife given out as a sister, taken into a king's house,
+  paid for, and returned by a plague
+- [[The Wife-Sister Episodes]] — the same ruse three times, and what changes between the tellings
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
   2:24
 
@@ -117,6 +131,8 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 - [[Barrenness]]
 - [[Sin]]
 - [[Judgment]]
+- [[Deception]] — the wife-sister ruse falsifies a marriage three times without ever stating a
+  falsehood
 
 ## Related people
 

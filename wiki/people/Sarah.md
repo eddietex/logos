@@ -52,6 +52,32 @@ five chapters. Everything from Hagar (16) to the laughter behind the tent flap (
 She is also, on the arithmetic of 17:17, sixty-five years old when she leaves Haran — which is worth
 holding beside what the next pericope has the Egyptians say about her.
 
+### In this pericope — Genesis 12:10–20
+
+She is the subject of the story and never the subject of a verb.
+
+Abram tells her what to say (*"Please say that you are my sister"*, 12:13) and she does not answer.
+The Egyptians see her; the princes praise her to Pharaoh; *"the woman was taken into Pharaoh's
+house"* (12:15) — a passive with no agent named, and the point at which she disappears from the
+narrative until she is handed back. She speaks to no one, is asked nothing, and reacts to nothing.
+Genesis records not one word from her here, or afterwards about it.
+
+**What she is worth is stated in livestock.** *"He dealt well with Abram for her sake"* (12:16). The
+promise that Abram would be blessed is fulfilled in sheep, cattle, donkeys, servants, and camels
+paid for his wife, and the wealth of 13:2 that will shortly separate Abram from [[Lot]] came out of
+Egypt with her.
+
+**The one voice raised for her is the narrator's.** *"Yahweh afflicted Pharaoh and his house with
+great plagues **because of Sarai, Abram's wife**"* (12:17). At the moment of rescue the text restores
+the word her husband had suppressed, and it does the same thing at the end of the second episode:
+*"because of Sarah, Abraham's wife"* (20:18). She is rescued by an intervention nobody in the story
+asks for, and the ground of it is a relationship she was told to deny.
+
+Genesis says nothing about whether the marriage to Pharaoh was consummated. Genesis 20:4 will be
+careful to say that Abimelech *"had not come near her"*; chapter 12 leaves the question open, and the
+silence has generated a very long history of anxious commentary. See [[Abram in Egypt]] and
+[[The Wife-Sister Episodes]].
+
 ### Whose daughter she was
 
 Genesis 11:29 withholds it and two later texts fill it differently.
@@ -82,7 +108,7 @@ patriarchal narratives are set before Sinai and are not written to be exemplary 
 
 ### Where the rest of her is
 
-Ahead, in pericopes not yet ingested: Egypt and the sister ruse (12:10–20), Hagar (16), the renaming
+Ahead, in pericopes not yet ingested: Hagar (16), the renaming
 and the promise (17:15–21), the laughter behind the tent flap (18:9–15), Abimelech (20), the birth of
 Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah (23). She is
 the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
@@ -96,7 +122,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - Taken from [[Ur of the Chaldees]] toward Canaan with Terah's household; settles in Haran —
   Genesis 11:31
 - Leaves Haran with Abram and enters Canaan — Genesis 12:5, [[The Call of Abram]]
-- Taken into Pharaoh's house in Egypt — Genesis 12:14–20 *(not yet ingested)*
+- Told to call herself Abram's sister, and taken into Pharaoh's house in Egypt — Genesis 12:13–20,
+  [[Abram in Egypt]]
+- Returned to Abram after Yahweh afflicts Pharaoh's household — Genesis 12:17–19
 - Renamed Sarah and promised a son — Genesis 17:15–21 *(not yet ingested)*
 - Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
@@ -106,6 +134,7 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[From Shem to Abram]] — Genesis 11:29–31
 - [[The Call of Abram]] — Genesis 12:5; named in the travel list, and absent from the promise made
   over her barrenness
+- [[Abram in Egypt]] — Genesis 12:11–20; handed over, taken, paid for, and returned, without a word
 
 ## Related people
 
@@ -114,6 +143,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Milcah]] — her sister-in-law, named in the same verse with the parentage she is denied
 - [[Iscah]] — named once, and identified with her by an old and much-repeated tradition
 - [[Lot]] — her nephew by marriage, and the household's only child
+- [[Pharaoh (of Abram's time)]] — who takes her into his house on her husband's word, and gives her
+  back
 
 ## Themes associated
 
@@ -121,3 +152,4 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Marriage]]
 - [[Land and Sojourning]]
 - [[Blessing]]
+- [[Deception]]

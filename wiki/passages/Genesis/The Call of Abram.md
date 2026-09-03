@@ -208,8 +208,8 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
 - [[The Table of Nations]] — Genesis 10, whose *mišpəḥōt* are what 12:3 promises to bless.
 - [[The Tower of Babel]] — Genesis 11:1–9, the scattering that makes *all the families of the earth*
   a plural in the first place.
-- Genesis 12:10–20 — the famine and Egypt, immediately after: the man who has just been promised the
-  land leaves it, and speaks for the first time.
+- [[Abram in Egypt]] — Genesis 12:10–20, immediately after: the man who has just been promised the
+  land leaves it in a famine, and speaks for the first time to arrange a half-truth about his wife.
 - Genesis 13:14–17 — the promise enlarged after Lot separates, with *"walk through the land in its
   length and in its breadth"* making the transit of 12:6–9 into an instruction.
 - Genesis 15:1–21 — the promise becomes a covenant, and 15:7 relocates the exodus-from-Ur.

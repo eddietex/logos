@@ -106,6 +106,16 @@ the same verses that put the tree of life back in reach (see
   laid on anybody, but a stated policy about how contempt for this family will be answered. The verse
   is quoted back in Balaam's mouth at Numbers 24:9 and in Isaac's blessing of Jacob at Genesis 27:29.
   See [[The Call of Abram]] and [[Blessing]].
+- **Genesis 12:17** — the policy of 12:3 operating for the first time, and the case it operates on is
+  not the one the verse seems to describe. *"Yahweh afflicted Pharaoh and his house with great
+  plagues because of Sarai, Abram's wife."* The word *ʾārar* is not used and no curse is pronounced;
+  what happens is an affliction, *nəgāʿîm gədōlîm*, and it falls on a man who had *"dealt well with
+  Abram"* on the strength of information Abram gave him. Whoever is contemptuous of Abram in this
+  story, it is not Pharaoh. Two things follow. The clause of 12:3 is **protective of the promise
+  rather than responsive to guilt** — it defends the line, not the merits — and Genesis is willing to
+  show it operating in a case where the ledger runs the other way, without softening either half.
+  Genesis 20:18 does the same thing at Gerar, closing every womb in Abimelech's house, and again the
+  offended party is the one struck. See [[Abram in Egypt]].
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
   22–24); the covenant curses of Deuteronomy 27–28 and the ceremony at Ebal and Gerizim (Joshua
   8:30–35); Jeremiah 17:5–8, the cursed and blessed man side by side; Malachi 4:6, the last word
@@ -127,6 +137,8 @@ the same verses that put the tree of life back in reach (see
 - [[Noah's Sons and the Curse of Canaan]] — 9:25, where the word passes from God's mouth to a man's
 - [[The Curse of Canaan and the Conquest]] — what the canon does and does not do with that curse
 - [[The Table of Nations]] — 10:15–19, where Canaan's line is set out with no reference to 9:25
+- [[Abram in Egypt]] — 12:17, 12:3's clause in operation: an affliction on a household that had
+  treated Abram generously, and no curse pronounced on anyone
 - [[The Call of Abram]] — 12:3, blessing and cursing paired again, with the mild verb on one side and
   the heavy one on the other
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted

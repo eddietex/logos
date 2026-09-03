@@ -427,6 +427,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Comes down to see a city and a tower, says that with one language nothing they intend will be
   beyond them, speaks in the first person plural for the last time in Genesis, confuses their speech
   and scatters them — destroying nothing and cursing no one — [[The Tower of Babel]]
+- Speaks to Abram unprompted after twenty-three verses of absence, commands, promises five blessings
+  in two verses, and appears to him at Shechem — giving no reason for the choice —
+  [[The Call of Abram]]
+- Says nothing at all while the man he has just called leaves the land, lies about his wife, and is
+  paid for her; then afflicts Pharaoh's household with great plagues *"because of Sarai, Abram's
+  wife"*, and the woman is returned — his only act in the pericope, and it is wordless —
+  [[Abram in Egypt]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -459,6 +466,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Call of Abram]] — after twenty-three verses of absence he speaks to one man, unprompted:
   commanding, promising five blessings in two verses, and then *appearing* (12:7) — the Bible's first
   *wayyērāʾ* of God to a named person. He gives no reason for the choice, then or ever.
+- [[Abram in Egypt]] — the reverse of the pericope before it: he does not speak once. No command
+  before the descent, no prohibition, no warning, no comment on the ruse, and no word to Pharaoh —
+  where the parallel episode at Genesis 20:3–7 gives him a dream, a threat, and a negotiation. He
+  acts exactly once, at 12:17, and the narrator states the reason as a relationship rather than a
+  merit: *"because of Sarai, Abram's wife"*. It is the first demonstration in Scripture that the
+  promise is not contingent on the conduct of the man who holds it, and it is made without a
+  syllable of divine speech.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

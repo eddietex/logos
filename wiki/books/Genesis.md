@@ -32,7 +32,10 @@ even fratricidal betrayal into rescue (Joseph).
   with a barren wife and a father buried short of the land.
 - **12–25:18 Abraham** — the call, the covenant, and the long wait for a promised son. Opened in the
   wiki with *[[The Call of Abram]]*, which answers the five curses of chapters 1–11 with five
-  blessings and makes *"all the families of the earth"* the stated point of choosing one man.
+  blessings and makes *"all the families of the earth"* the stated point of choosing one man — and
+  then, in *[[Abram in Egypt]]*, immediately shows the promised land starving the promised man out
+  of itself and the promised man trading his wife's safety for his own. The two pericopes together
+  set the cycle's terms: a promise that is unconditional, and a bearer who is not.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -62,7 +65,7 @@ merge, or reorder them freely.
 ### Abraham (12–25:18)
 
 - [x] [[The Call of Abram]] — Genesis 12:1–9
-- [ ] Abram in Egypt — Genesis 12:10–20
+- [x] [[Abram in Egypt]] — Genesis 12:10–20
 - [ ] Abram and Lot Separate — Genesis 13:1–18
 - [ ] The Rescue of Lot and Melchizedek — Genesis 14:1–24
 - [ ] The Covenant Between the Pieces — Genesis 15:1–21
@@ -138,6 +141,7 @@ merge, or reorder them freely.
 - [[Barrenness]]
 - [[Land and Sojourning]]
 - [[Call and Election]]
+- [[Deception]]
 
 ## Key people
 
@@ -162,6 +166,7 @@ merge, or reorder them freely.
 - [[Abraham]]
 - [[Sarah]]
 - [[Lot]]
+- [[Pharaoh (of Abram's time)]]
 
 ## Key places
 

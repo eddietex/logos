@@ -44,6 +44,14 @@ against the city of Genesis 11:4 that had none.
   *"still going on"*, having built two altars and pitched one tent. Acts 7:5 states the outcome
   flatly — *"he gave him no inheritance in it, no, not enough to set his foot on."* See
   [[The Call of Abram]].
+- **Genesis 12:10–20** — the theme's first hard test, and it comes four verses after the promise.
+  *"There was a famine in the land"*, and Abram *"went down into Egypt to live as a foreigner
+  there"* — **_lāgûr_**, the theme's own verb, now applied to a country that was never promised him.
+  The sequence is worth stating flatly: the land is promised at 12:7, and by 12:10 it cannot feed
+  him. He is a *gēr* in Canaan because it belongs to somebody else, and a *gēr* in Egypt because he
+  is starving; the difference between the two is a promise and nothing else. Genesis offers no
+  comment on the descent, and Isaac will be explicitly forbidden the same move at 26:2. See
+  [[Abram in Egypt]].
 - **Genesis 15:13–16** — the promise given a delay built into it: four hundred years of servitude in
   a land not theirs, *"for the iniquity of the Amorite is not yet full."*
 - **Genesis 23** — Abraham, *"a stranger and a foreigner"* among the Hittites, buys Machpelah. The
@@ -75,6 +83,8 @@ where that starts, in a sentence about a family that got halfway.
   of it
 - [[The Call of Abram]] — Genesis 12:1–9: the land entered, crossed end to end, promised to somebody
   not yet born, and already somebody else's
+- [[Abram in Egypt]] — Genesis 12:10–20: the promised land starves him out of itself four verses
+  after the promise, and he sojourns in Egypt instead
 - Genesis 15:7–21 — the land promised by covenant, with four centuries of delay *(not yet ingested)*
 - Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*
