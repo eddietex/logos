@@ -2522,8 +2522,15 @@ judgment call 2 are written in plain text rather than linked.
 
 Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
 `wiki/books/index.md` and *Hagar and Ishmael* was the first unchecked box on its page.
-`raw/bible/Genesis.md` was already present, so no fetch. Working tree was clean at start, on `main`.
-Step 2's discussion went into the passage page.
+`raw/bible/Genesis.md` was already present, so no fetch. Step 2's discussion went into the passage
+page.
+
+As in the previous run, the session started on a **detached HEAD** at `origin/main` (`63f8bd4`) with
+a clean tree, and the local `main` ref was stale at `ee8f435` — a verified ancestor of both. The
+ingest was committed on the detached HEAD and `git checkout -B main` then moved the branch onto it,
+which is a strict fast-forward from `origin/main`; the push went through with no merge. No commits
+were lost. This is the second consecutive run to hit it, so it is worth the user's attention as an
+environment quirk rather than a one-off.
 
 **The pericope.** One chapter after a covenant sworn in fire, the household stops waiting. Genesis 15
 never named Sarai in twenty-one verses about an heir, and 16:1 opens on exactly that: *"Now Sarai,
