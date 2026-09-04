@@ -78,6 +78,9 @@ and salt over. See [[The Plain of the Jordan]].
   and its king refused by Abram under oath
 - [[Abram and Lot Separate]] — Genesis 13:10–13, the destination Lot tents toward and the city the
   narrator condemns in advance
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:16–33; the charge given its first
+  content as a *cry*, the sentence explicitly deferred until God goes down to look, and eleven
+  verses of bargaining that end without a verdict
 
 ## Related places
 
@@ -100,6 +103,8 @@ and salt over. See [[The Plain of the Jordan]].
   [[The Rescue of Lot and Melchizedek]]
 - Its king comes out to Abram at the King's Valley, offers him the goods, and is refused — Genesis
   14:17, 21–24
-- Abraham argues with Yahweh over whether it can be spared for ten righteous — Genesis 18:20–33
-  *(not yet ingested)*
+- Its *cry* comes up before God, who declines to act on the report until he has gone down to see —
+  Genesis 18:20–21, [[The Three Visitors and Abraham's Intercession]]
+- Abraham argues with Yahweh over whether it can be spared for ten righteous, and the chapter ends
+  without saying whether ten were found — Genesis 18:22–33
 - Destroyed with Gomorrah; Lot brought out — Genesis 19:1–29 *(not yet ingested)*

@@ -66,6 +66,11 @@ will finally go both ways.
   two different things they see. See [[Lift Up Your Eyes - Two Ways of Seeing the Land]]
 - [[Hagar and Ishmael]] — Genesis 16, the theme's densest chapter: three judgments passed *in the
   eyes*, and then *ʾĒl Rŏʾî* and a well called *the Living One who sees me*
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:2, 16, 21: a man who *"lifted up his
+  eyes and looked"* and does not recognize what he is looking at, a party that *"looked toward
+  Sodom"*, and God declining to sentence a city on a report — *"I will go down now, and see"*. The
+  theme's two halves in one chapter: human sight that misses who is at the door, and divine sight
+  that is an inquiry rather than an observation
 - Genesis 22:8, 14 — *"God will provide"*, which in Hebrew is *God will see for himself*, and
   *Yahweh Yireh* on the mountain *(not yet ingested)*
 - Genesis 29:31–32 — God sees that Leah is hated *(not yet ingested)*

@@ -98,6 +98,12 @@ happens.
   angel to the mother — and *"at this set time next year"* (*lammôʿēd*) is the first appointment in
   the Abraham story, repeated at 18:14 and discharged at 21:2. After five promise scenes with no date
   in any of them, the promise acquires one
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:17–21, the office before the word
+  for it. *"Will I hide from Abraham what I do?"* is God deciding to disclose an intention before
+  carrying it out, which is what a prophet exists to receive; and what Abraham does with the
+  disclosure — intercede — is what Genesis 20:7 will define *nābîʾ* by, two chapters later, in the
+  Bible's first use of the noun. The annunciation of 17:19, 21 is also repeated here (18:10, 14) with
+  its date intact, this time within the mother's hearing
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, a human being pronouncing an oracle over
   the future of three peoples, with no claim that God said it
 

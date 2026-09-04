@@ -1,0 +1,156 @@
+---
+type: theme
+tags: [theme]
+---
+# Hospitality
+
+## Definition / overview
+
+Receiving a stranger — feeding, washing, sheltering, and escorting someone who has no claim on you
+— and the Bible's insistence that this is not a courtesy but an obligation with judgment attached
+to it.
+
+The ancient Near East ran on it because it had to. There were no inns on most roads, water was
+scarce and privately held, and a traveller outside a settlement had no protection of any kind; a
+society that did not take strangers in did not have travellers. What Scripture adds to the common
+custom is two claims that the custom itself does not make:
+
+- **The guest may be more than a guest.** Genesis 18 has three men eat a meal under a tree, and one
+  of them is Yahweh. Judges 13 repeats the shape and the host does not find out until the visitor
+  goes up in the altar flame. Hebrews 13:2 turns the pattern into a standing warning. See
+  [[Entertaining Angels Unawares]].
+- **A place is judged by how it receives one.** Genesis 19 puts a town's treatment of two visitors
+  at the centre of the case against it, Judges 19 deliberately rewrites that scene inside Israel,
+  and Jesus makes a town's reception of messengers the thing it will be compared to Sodom over
+  (Luke 10:10–12). The theme's dark half is as developed as its bright one.
+
+**The Hebrew has no noun for it.** There is no biblical word answering to *hospitality*; there are
+verbs — *ʾāsap*, to gather in; *lûn*, to lodge; *šālaḥ*, to send on one's way — and a class of person,
+the *gēr*, the resident alien, whose protection the law repeatedly grounds in Israel's own memory of
+being one (Exodus 22:21; Leviticus 19:34; Deuteronomy 10:19). The Greek New Testament does have the
+word — *philoxenia*, literally **love of the stranger** — and makes it a requirement for church
+office (1 Timothy 3:2; Titus 1:8).
+
+### The shape of the scene
+
+Genesis 18:1–8 sets a pattern the rest of Scripture keeps reusing, and it is worth having in order,
+because the later scenes are legible as variations on it.
+
+| | Genesis 18 | Genesis 19 | Judges 13 | Judges 19 |
+|---|---|---|---|---|
+| Host | Abraham, at the tent door | Lot, in the city gate | Manoah and his wife, in a field | an old man in the square at Gibeah |
+| Time | *"the heat of the day"* | *"at evening"* | daytime | nightfall |
+| First move | *"he ran to meet them"* | *"he rose up to meet them … bowed"* | she runs to tell her husband | *"Don't sleep in the street"* |
+| The meal | curds, milk, veal, twenty litres of flour | unleavened bread, *"a feast"* | a kid, which the visitor refuses | bread, wine, fodder |
+| The town | no town | the men of Sodom at the door | — | the men of Gibeah at the door |
+| Outcome | a son promised | the guests rescue the host | a son promised | a woman handed out and killed |
+
+The two annunciation scenes and the two door scenes are matched pairs, and Judges 19 is
+transparently written against Genesis 19 — same demand at the door, same offer of women in
+substitution, and no angels in it. The book of Judges uses the comparison to say that Israel has
+become the city Abraham argued for.
+
+### Washing feet
+
+The gesture that opens Genesis 18:4 recurs at 19:2, 24:32, 43:24, Judges 19:21, 1 Samuel 25:41, and
+Luke 7:44 — where Jesus points out that his host omitted it — and then, at John 13:1–17, is done by
+the guest to the hosts and made a command. It is the single most persistent physical detail of the
+theme, and its last appearance inverts who performs it.
+
+## Development across Scripture
+
+- **Genesis 18:1–8** — the founding scene: an offer of *"a little water"* and *"a morsel of bread"*,
+  answered with three seahs of flour, a calf, and curds, served standing by a hundred-year-old man
+  who ran twice in the noon heat.
+- **Genesis 19:1–11** *(not yet ingested)* — the same courtesy in a city that will not tolerate it;
+  Lot presses the visitors indoors, and the town comes for them. The refusal of hospitality and the
+  violence are one act.
+- **Genesis 24:15–33** *(not yet ingested)* — Rebekah waters ten camels unasked, which is roughly
+  two hundred litres drawn by hand, and it is the sign the servant prayed for. Hospitality as a
+  test of character, and the woman is the one who passes it.
+- **Genesis 43:16–34** *(not yet ingested)* — Joseph feeds his brothers, washes their feet, and
+  seats them by age, while they do not know who is hosting them: Genesis 18's not-knowing turned
+  around.
+- **Exodus 2:15–22** — Reuel: *"Where is he? Why is it that you have left the man? Call him, that
+  he may eat bread."*
+- **Exodus 22:21; 23:9; Leviticus 19:33–34; Deuteronomy 10:17–19; 24:17–22** — the *gēr* protected
+  by law, with the reason given every time: *"for you were foreigners in the land of Egypt."*
+  Hospitality legislated, and grounded in memory rather than in pity.
+- **Deuteronomy 23:3–4** — Ammon and Moab excluded from the assembly, and the charge is a failure
+  of hospitality: *"because they didn't meet you with bread and with water on the way."*
+- **Joshua 2:1–21** — Rahab hides the spies; Hebrews 11:31 and James 2:25 both name the act, and
+  James calls it works.
+- **Judges 4:17–21; 5:24–27** — Jael offers milk and a rug, and drives a tent peg through her
+  guest's head. The Bible's one celebrated violation of the custom, and it is sung about.
+- **Judges 13:2–23** — Manoah's meal, refused and redirected onto an altar; *"Manoah didn't know
+  that he was Yahweh's angel."*
+- **Judges 19:14–30** — the deliberate inversion, and the atrocity the last five chapters of Judges
+  come out of.
+- **1 Samuel 25:2–35** — Nabal refuses provisions to David's men and Abigail overrules him with
+  two hundred loaves; the refusal nearly costs a household its life.
+- **2 Samuel 12:4** — Nathan's parable turns on a traveller who has to be fed, and on the man who
+  takes his neighbour's lamb to do it.
+- **1 Kings 17:8–24** — the widow of Zarephath feeds the prophet out of her last handful of meal;
+  Luke 4:25–26 makes her the example of a foreigner receiving what Israel would not.
+- **2 Kings 4:8–17** — the Shunammite builds a room on the roof for a passing prophet, and is
+  promised a son *"at this season, when the time comes round"* — Genesis 18:14's own idiom.
+- **Job 31:32** — *"the foreigner has not camped in the street, but I have opened my doors to the
+  traveler"*, in Job's oath of clearing: hospitality as the last item a righteous man swears to.
+- **Isaiah 58:7** — *"bring the poor who are cast out to your house"*, the fast God chooses.
+- **Ezekiel 16:49** — Sodom's iniquity as *"pride, fullness of bread, and prosperous ease … she
+  didn't strengthen the hand of the poor and needy."*
+- **Matthew 10:11–15; Luke 10:5–12** — the messengers who carry nothing and depend entirely on
+  being received, and the town that refuses them measured against Sodom.
+- **Matthew 25:31–46** — *"I was a stranger, and you took me in"*, with the guest identified as the
+  judge. Genesis 18's premise made the criterion of the last judgment.
+- **Luke 7:36–50** — the host who omitted the water, the kiss, and the oil, and the woman who
+  supplied all three.
+- **Luke 14:12–14** — invite those who cannot invite you back: hospitality detached from reciprocity,
+  which is what makes it more than exchange.
+- **Luke 24:28–32** — two disciples press a stranger to stay, and *"he was known by them in breaking
+  the bread"*: the Genesis 18 pattern with the recognition at the table.
+- **John 13:1–17** — the guest washes the hosts' feet, and calls it an example.
+- **Acts 16:15, 33–34; 28:1–2, 7** — Lydia's household, the jailer's table, and the *"unusual
+  kindness"* of the people of Malta, who are not believers.
+- **Romans 12:13; 1 Timothy 3:2; 5:10; Titus 1:8; 1 Peter 4:9** — *philoxenia* as a requirement,
+  listed among the qualifications for elders and widows, and told to be done *"without grumbling."*
+- **Hebrews 13:2** — *"Don't forget to show hospitality to strangers, for in doing so, some have
+  entertained angels without knowing it."*
+- **3 John 5–10** — hospitality to travelling brothers as the mark of a healthy congregation, and
+  Diotrephes, who refuses them, as the mark of a diseased one.
+
+## Key passages
+
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which
+  the offer and the table are two different sizes and the host does not sit down
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:18, where a king brings out bread and wine to
+  an army coming home, and the first blessing one man speaks over another follows it
+- [[Abram in Egypt]] — the theme's shadow: a household received into Pharaoh's house on a lie, and
+  sent away under escort
+- [[Hagar and Ishmael]] — Genesis 16:7, the spring on the road to Shur; the traveller nobody
+  received, met by God at the last water before the desert
+
+## Related themes
+
+- [[Judgment]] — which in Genesis 19 and Luke 10 turns on how visitors were treated
+- [[Land and Sojourning]] — the patriarchs are guests in the land they are promised, and the law's
+  reason for protecting the *gēr* is that Israel has been one
+- [[Blessing]] — characteristically what a received guest leaves behind
+- [[Seeing and Being Seen]] — the theme's recurring problem is that the host cannot tell who is at
+  the door
+- [[The Nations]] — the stranger at the door is usually from outside, and the law protects him
+  anyway
+- [[Marriage]] — Genesis 19 and Judges 19 both resolve a hospitality crisis by offering women, and
+  the wiki records that the Bible narrates this without approving it
+- [[Strife and Peacemaking]] — a meal is Scripture's standard instrument for ending a quarrel
+  (Genesis 26:26–31; 31:44–54)
+- [[Sacrifice and Offering]] — the other kind of meal set before a guest, and Judges 13:15–16 turns
+  one into the other
+
+## Related people
+
+- [[Abraham]] — who ran, and served standing
+- [[Sarah]] — who made the bread and stayed in the tent
+- [[Lot]] — who does the same thing in a city that will not have it
+- [[Melchizedek]] — bread and wine brought out to a returning army
+- [[God]] — the guest at Mamre, and in Matthew 25 the stranger at every door

@@ -45,6 +45,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   and where the march north begins
 - [[Abram and Lot Separate]] — Genesis 13:18, where Abram pitches at the oaks of Mamre and builds his
   third altar
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33; the tent door in the heat of
+  the day, and the ridge Abraham walks out onto to look down at the plain
 
 ## Related places
 
@@ -61,8 +63,9 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   [[Abram and Lot Separate]]
 - Abram hears that Lot has been taken, and marches from here as far as Dan — Genesis 14:13–14,
   [[The Rescue of Lot and Melchizedek]]
-- The three visitors, and the promise of a son within the year — Genesis 18:1–15 *(not yet ingested)*
-- Abraham's intercession for Sodom — Genesis 18:16–33 *(not yet ingested)*
+- The three visitors, and the promise of a son within the year — Genesis 18:1–15,
+  [[The Three Visitors and Abraham's Intercession]]
+- Abraham's intercession for Sodom, on the road out — Genesis 18:16–33
 - Sarah dies; Abraham buys the cave of Machpelah from Ephron the Hittite — Genesis 23:1–20
   *(not yet ingested)*
 - Abraham, Isaac, Rebekah, Leah, and Jacob buried there — Genesis 25:9; 49:31; 50:13

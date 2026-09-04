@@ -75,3 +75,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[God Almighty - El Shaddai in Genesis and Exodus]] | thread | Genesis 17:1 · Genesis 28:3; 35:11; 43:14; 48:3; 49:25 · Exodus 6:2–3 · Numbers 24:4, 16 · Job (31×) · Ruth 1:20–21 · Revelation 1:8 |
 | [[Laughter and the Name Isaac]] | thread | Genesis 17:17, 19 · Genesis 18:12–15 · Genesis 21:6, 9 · Genesis 26:8 · Galatians 4:29 |
 | [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |
+| [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
+| [[Is Anything Too Hard for Yahweh]] | thread | Genesis 18:14 · Jeremiah 32:17, 27 · Zechariah 8:6 · Job 42:2 · Luke 1:37 · Matthew 19:26 |
+| [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 |

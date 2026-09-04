@@ -42,6 +42,9 @@ for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of t
 - [[Abram and Lot Separate]] — Genesis 13:10, in the narrator's aside about the destruction to come
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:2, 8–11; sacked alongside Sodom, and its king
   routed into the tar pits
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:20; named with Sodom in the charge
+  — *"the cry of Sodom and Gomorrah is great"* — and then dropped. The eleven verses of bargaining
+  that follow are about one city, and it is not this one
 
 ## Related places
 
@@ -58,4 +61,6 @@ for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of t
 - Its king Birsha joins the revolt against Chedorlaomer and is defeated in the valley of Siddim;
   the city's goods and food are carried off — Genesis 14:2, 8–11,
   [[The Rescue of Lot and Melchizedek]]
+- Named in the charge whose *cry* has come up before God, and then absent from the negotiation —
+  Genesis 18:20, [[The Three Visitors and Abraham's Intercession]]
 - Destroyed with Sodom — Genesis 19:24–25 *(not yet ingested)*

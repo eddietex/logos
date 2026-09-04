@@ -72,10 +72,28 @@ He appears to her once more, at 21:17, where he is *"the angel of God"* rather t
 from the sky rather than standing at a spring, and hears the boy rather than the mother. Hagar is the
 only person in Genesis he appears to twice.
 
+### The same problem without the title — Genesis 18:1–19:1
+
+Genesis 18 never uses the phrase *malʾak YHWH*, and it is the chapter where the alternation is
+widest. *"Yahweh appeared to him"* (18:1); what Abraham sees is *"three men"* (18:2); he addresses
+one in the singular and feeds three; the speaker at 18:10 takes the divine first person and is named
+*Yahweh* at 18:13; *"the men"* leave for Sodom at 18:22 while *"Abraham stood yet before Yahweh"*;
+and at 19:1 the party that arrives in the city is *"the two angels"*.
+
+**Read as the book stands, the arithmetic resolves: three come, one is Yahweh, two go on as
+messengers.** What the chapter will not do is say so — and the *malʾāk* label is applied only after
+the one who is Yahweh has stayed behind, which is the tidiest the seam ever gets and still not tidy.
+Reading 1 above (an envoy speaking in his sender's voice) accounts for 19:1; reading 2 (a mode of
+God's own presence) accounts for a meal eaten under a tree by someone the narrator calls Yahweh. See
+[[The Three Visitors and Abraham's Intercession]] and [[Entertaining Angels Unawares]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
   birth — Genesis 16:7–12, [[Hagar and Ishmael]]
+- Not named as such, but present in the widest form of the same alternation: three men at Mamre, one
+  of whom is Yahweh and two of whom reach Sodom as *"the two angels"* — Genesis 18:1–19:1,
+  [[The Three Visitors and Abraham's Intercession]]
 - Calls to Hagar out of the sky at Beersheba and opens her eyes to a well — Genesis 21:17–19
   *(not yet ingested)*
 - Calls to Abraham from the sky at the binding of Isaac, twice, and swears by himself — Genesis
@@ -95,6 +113,9 @@ only person in Genesis he appears to twice.
 
 - [[Hagar and Ishmael]] — Genesis 16:7–12; his first appearance in Scripture, to a runaway Egyptian
   slave rather than to a patriarch, and he leaves speaking in God's own first person
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33; the title is absent and the
+  problem is at its widest: three men are fed, one of them is Yahweh, and two of them are angels by
+  the next verse of narrative
 
 ## Related people
 
@@ -109,3 +130,4 @@ only person in Genesis he appears to twice.
 - [[The Names of God]]
 - [[Seeing and Being Seen]]
 - [[Mediation and Advocacy]]
+- [[Hospitality]]

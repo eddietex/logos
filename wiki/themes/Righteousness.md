@@ -64,9 +64,20 @@ about.
   construction to a belief and to a deed, which is the argument Paul and James inherit rather than
   start. See
   [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]].
-- **Genesis 18:23–25** *(not yet ingested)* — Abraham's *"Will you consume the righteous with the
-  wicked? … Shall not the Judge of all the earth do right?"* The category becomes the ground of an
-  argument with God, which is exactly what Noah never makes.
+- **Genesis 18:19** — ***ṣədāqâ ûmišpāṭ*, righteousness and justice: the pair's first occurrence in
+  Scripture**, and it arrives in a sentence about child-rearing. *"For I have known him, to the end
+  that he may command his children and his household after him, that they may keep the way of Yahweh,
+  to do righteousness and justice."* The formula becomes the prophets' standing definition of what
+  God actually wants (Amos 5:24; Isaiah 1:27; 5:7; Jeremiah 22:3, 15; Psalm 33:5; 89:14), and Genesis
+  gives it as the content of being chosen.
+- **Genesis 18:23–33** — *ṣaddîq* seven times in eleven verses, and the category becomes the ground
+  of an argument *with God*: *"Will you consume the righteous with the wicked? … Shouldn't the Judge
+  of all the earth do right?"* Two things are new. Righteousness here is **counted**, not described —
+  fifty of them, then forty-five, then ten, with no indication what any of them did. And it is
+  proposed as something that **holds other people up**: not that the righteous be rescued, but that
+  the city be spared *for their sake*, which is the arrangement Ezekiel 14:14 will refuse by name,
+  using Noah as its example. See [[The Three Visitors and Abraham's Intercession]] and
+  [[Shall Not the Judge of All the Earth Do Right]].
 - **Genesis 38:26** *(not yet ingested)* — Judah of Tamar: *"She is more righteous than I"*, the word
   used comparatively of a woman who has just deceived him, and a good demonstration that it means
   *in the right in this matter* rather than *virtuous*.
@@ -113,6 +124,9 @@ about.
   Genesis makes no attempt to order the two verses. Romans 4:9–12 then reads the sequence as the whole
   argument: credited at 15:6, signed at 17:10, and therefore the sign seals a standing it did not
   create. See [[The Sign and the Seal - Genesis 17 in Romans 4]]
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:19, 23–33: *righteousness and
+  justice* in its first occurrence, given as the content of election, and then *ṣaddîq* counted
+  seven times in an argument about whether a few of them can hold up a city
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 and Job 1:1 side by side, and what the
   verdict buys in each book
 - [[Eliphaz's Second Speech]] — Job 15:14, *"What is he who is born of a woman, that he should be
@@ -148,4 +162,5 @@ about.
   disbelieved by everyone present
 - [[Eliphaz the Temanite]] — who denies that anyone born of a woman can hold the status
 - [[Abraham]] — the second person in Scripture given the standing, and the only one given it for
-  believing something
+  believing something; and at 18:25 the first to hold God to it
+- [[Lot]] — whom Genesis grades nowhere and 2 Peter 2:7 calls righteous three times in two verses

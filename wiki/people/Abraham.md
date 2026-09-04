@@ -290,10 +290,48 @@ everything but the covenant.
 is the same grammar as 12:4, the command in full and the compliance in a clause, after thirteen years
 in which nothing at all happened. See [[Circumcision, the Sign of the Covenant]].
 
+### In this pericope — Genesis 18:1–33
+
+**He runs twice in the noon heat, and then argues with God about justice.**
+
+Chapter 17 gave him one spoken sentence in twenty-seven verses. This chapter is the reverse: he
+speaks in every scene, and in the last one he speaks six times.
+
+**The hospitality is characterized entirely by the gap between what he offers and what he serves.**
+*"a little water"* and *"a morsel of bread"* (18:4–5) become three seahs of fine meal — some twenty
+litres of flour — a dressed calf, curds, and milk (18:6–8). Genesis reports four bursts of hurry in
+seven verses: he *ran* to meet them, *hurried* into the tent, told Sarah *"Quickly"*, *ran* to the
+herd. He is a hundred years old and days past his own circumcision. And he does not sit down:
+*"He stood by them under the tree, and they ate."* No praise is attached to any of it. See
+[[Hospitality]].
+
+**He does not know who has come.** The narrator tells the reader at 18:1 that Yahweh appeared; the
+chapter never reports Abraham being told. He addresses one visitor in the singular and feeds three,
+and by 18:23 he is negotiating with him.
+
+*"For I have known him, to the end that he may command his children and his household after him,
+that they may keep the way of Yahweh, to do righteousness and justice"* (18:19). **The only place in
+Genesis where being chosen is given a job**, and the job is teaching a household justice. It is said
+about him, not to him, in a soliloquy the reader overhears. See [[Call and Election]].
+
+*"Shouldn't the Judge of all the earth do right?"* (18:25). **He is the first person in Scripture to
+hold God to a standard** — and the standard is the one just handed to him four verses earlier. He
+asks not that the righteous be rescued but that the city be spared *for their sake*, which is the
+opposite arrangement to the flood's; he goes 50, 45, 40, 30, 20, 10, testing the first cut small and
+then dropping by tens; he apologizes twice for an anger that never comes; and **he is the one who
+stops.** God concedes six times without a single objection. See
+[[Shall Not the Judge of All the Earth Do Right]] and [[Mediation and Advocacy]].
+
+**And he never mentions Lot.** His nephew lives in the city, and in fifteen exchanges the name does
+not come up — where Genesis had been perfectly willing at 14:14 to say he armed his household
+because *"his relative was taken captive"*. What answers the intercession, one chapter later, is
+that *"God remembered Abraham, and sent Lot out"* (19:29): not the bargain he made, but the nephew
+he did not name. See [[The Three Visitors and Abraham's Intercession]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: the intercession for
-Sodom (18), the ruse repeated at Gerar (20), the birth of Isaac (21), the binding (22), and his death
+Almost everything the Bible says about Abraham is still ahead of this page: the ruse repeated at
+Gerar (20), the birth of Isaac (21), the binding (22), and his death
 and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
@@ -353,6 +391,15 @@ it (Galatians 3:8). This page grows as those arrive.
 - Told the son will be Sarah's; laughs, and asks for Ishmael instead — Genesis 17:16–18
 - Told the son's name and the date of his birth — Genesis 17:19, 21
 - Circumcises his whole household and himself the same day, at ninety-nine — Genesis 17:23–27
+- Runs from his tent door in the noon heat to receive three strangers, and feeds them a banquet on
+  the promise of a morsel — Genesis 18:1–8,
+  [[The Three Visitors and Abraham's Intercession]]
+- Told again that Sarah will have a son, at the set time next year, and this time she hears it —
+  Genesis 18:10, 14
+- Taken into God's confidence about Sodom, and named as the one who will teach his household
+  righteousness and justice — Genesis 18:17–21
+- Argues that the Judge of all the earth must do right, and bargains Sodom down from fifty righteous
+  to ten — Genesis 18:22–33
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -371,6 +418,10 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17:1–27; renamed, given the first covenant
   stipulation in Scripture and the first covenant sign borne in the flesh, told the son will be
   Sarah's, and obedient the same day without a word
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33; he runs, feeds three
+  strangers a banquet he described as a morsel, serves them standing, and then becomes the first
+  person in Scripture to argue with God about justice — on the standard God had just given him,
+  without once naming the nephew inside the city
 
 ## Related people
 
@@ -422,3 +473,6 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Circumcision]]
 - [[Walking with God]]
 - [[Kingship and Empire]]
+- [[Hospitality]]
+- [[Mediation and Advocacy]]
+- [[Judgment]]

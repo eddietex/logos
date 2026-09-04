@@ -50,6 +50,14 @@ people. And ***bāḥar***, to choose, which the Old Testament uses of God's ele
   it, nor speaks at all. The election survives the elect man's conduct without comment — which is
   the datum Paul is working from at Romans 9:11, *"not of works, but of him who calls"*, and
   Deuteronomy 9:4–6 at national scale. See [[Abram in Egypt]].
+- **Genesis 18:17–19** — **the only place in Genesis where being chosen is given a content the chosen
+  man has to carry out.** *"For I have known him, to the end that he may command his children and his
+  household after him, that they may keep the way of Yahweh, to do righteousness and justice."*
+  *Yādaʿ* is the verb of acknowledgment and choice that Amos 3:2 uses, in its first occurrence in
+  that sense; and what it is *to the end that* is a household taught justice, not a nation, a land,
+  or a rite. It is also said in a soliloquy, about Abraham and not to him, as the reason for letting
+  him in on a decision — so the chapter's next move, in which he uses that same standard on God, is
+  something the election itself set up. See [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 22:1–2** — the same idiom, *lek-ləkā*, used a second and last time, now demanding the son
   the first call promised. See
   [[Leave Your Country - The Two Lek-Lekha Commands]].
@@ -109,6 +117,11 @@ the others.
   loser. It is also the chapter where election first acquires something to do — *"Walk before me, and
   be blameless"* — without acquiring a condition: the covenant is called everlasting three times in
   the same speech, and is established with a boy who does not yet exist
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:17–19, where election finally gets
+  a purpose clause aimed at the chosen man's own conduct: *"For I have known him, to the end that he
+  may command his children … to do righteousness and justice."* Not a land, not a rite, and not a
+  nation — a household taught justice; and the immediate use Abraham makes of it is to hold God to
+  the same standard six verses later
 - Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
 - Exodus 3–4 — the call that is argued with
 - Deuteronomy 7:6–8 — election stated, and its reason declined

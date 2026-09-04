@@ -2792,3 +2792,124 @@ covenant at 17:21, and Genesis gives no reason for either.
 
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately.
+
+## [2026-09-04] ingest | Genesis 18.1-33 — The Three Visitors and Abraham's Intercession
+
+Unattended run (`/ingest auto`). The next unchecked box on `wiki/books/Genesis.md`, and the twenty-
+second pericope of Genesis. No discussion happened; everything that would have been said aloud is on
+the passage page.
+
+**The pericope.** Genesis 18:1–33, kept whole. Yahweh appears at the oaks of Mamre in the heat of
+the day; three men are washed and fed; the promise of a son is given and Sarah laughs behind the tent
+flap; the party walks out toward Sodom and God deliberates aloud about whether to tell Abraham what
+he intends; and Abraham, left standing on the road, argues the city down from fifty righteous to ten.
+
+**Pages created (5).**
+
+- `wiki/passages/Genesis/The Three Visitors and Abraham's Intercession.md`
+- `wiki/themes/Hospitality.md` — the wiki's forty-eighth theme, and its founding text is this
+  pericope. See the judgment calls below.
+- `wiki/connections/Entertaining Angels Unawares.md` — Hebrews 13:2 and the reception of the meal:
+  the Judges 6 and 13 parallels, Tobit 12:19 and Josephus denying the eating, Genesis Rabbah on the
+  menu, Emmaus, and Rublev.
+- `wiki/connections/Is Anything Too Hard for Yahweh.md` — Genesis 18:14 in Jeremiah 32, Zechariah 8,
+  and Luke 1:37, which is the Septuagint's wording of this verse with the interrogative removed.
+- `wiki/connections/Shall Not the Judge of All the Earth Do Right.md` — Genesis 18:25 and the
+  intercessors after it, and the standing tension between 18:26 and Ezekiel 14:14.
+
+**Pages revised (33, not counting this log).** People: `Abraham`, `Sarah`, `God`, `Isaac`, `Lot`,
+`The Angel of Yahweh`.
+Places: `Mamre (place)`, `Sodom`, `Gomorrah`, `Hebron`. Themes: `Mediation and Advocacy`,
+`Judgment`, `Righteousness`, `Barrenness`, `Faith`, `Call and Election`, `Seeing and Being Seen`,
+`The Nations`, `Blessing`, `Prophecy and Vision`, `Life and Death`, `Strife and Peacemaking`.
+Connections: `Laughter and the Name Isaac`, `All the Families of the Earth - Genesis 12.3 in the New
+Testament`, `Let Us Go Down - The Divine Plural in Genesis`,
+`Dust, Stars, and Sand - The Offspring Promises`. Plus `wiki/books/Genesis.md` (box checked,
+overview extended), `wiki/books/index.md` (22 / 58), `wiki/index.md` (counts), and the people,
+places, themes, and connections indexes.
+
+**Judgment calls, for review.**
+
+1. **The pericope was kept whole at 18:1–33 rather than split at 18:15.** The chapter divides
+   naturally at 18:15 and again at 18:21, and a plan could reasonably cut it into two or three. It
+   was kept as one unit because the scene never breaks — the same three visitors carry the
+   annunciation and the sentence, and 18:16 is the hinge — and because splitting it would put *"Is
+   anything too hard for Yahweh?"* and *"Shouldn't the Judge of all the earth do right?"* on
+   different pages. They are the same chapter's two questions. No other boundary in the plan was
+   redrawn.
+2. **`Hospitality` was given a theme page rather than folded into `Land and Sojourning` or
+   `Strife and Peacemaking`.** Genesis 18:1–8 is the canon's founding scene for it, Hebrews 13:2
+   makes it a command derived from that scene, and Genesis 19, Judges 19, and Luke 10:10–12 all
+   measure a place by it. It carries its own thread and would have swamped either host page. The
+   Hebrew has no noun for the thing, which is recorded on the page.
+3. **Three connection pages rather than one.** The chapter generates three independent threads with
+   different downstream literatures — a meal, a promise, and a standard — and combining them would
+   have produced a page about Genesis 18 rather than three about what Scripture does with it.
+4. **The three visitors' identity is reported as unresolved, with all three readings set out and
+   none adopted.** The plain reading of the final form (Yahweh and two attendants, which 19:1
+   requires) is stated as what the arithmetic gives; the Targumic reading and the rabbinic assignment
+   of tasks (*b. Bava Metzia* 86b) are recorded; and the Trinitarian reading is recorded **as
+   reception** — Ambrose's *tres vidit, unum adoravit*, Augustine's *De Trinitate* II, and Rublev's
+   icon, whose proper title is *The Hospitality of Abraham*. The wiki notes that the New Testament
+   quotes this chapter four times (Luke 1:37, Romans 9:9, Hebrews 13:2, 1 Peter 3:6) and never once
+   reads the three that way. It does not adjudicate.
+5. **The *tiqqun sopherim* at 18:22 is recorded and left open.** The rabbinic lists say the verse
+   originally read *"Yahweh stood yet before Abraham"*. No manuscript witness has that reading, and
+   whether the tradition preserves a real change or is a way of pointing at what the scene looks
+   like is probably unresolvable. It is recorded because it is the earliest evidence that readers
+   found this chapter's posture startling.
+6. **The passage is stated *not* to be a man talking God down**, against the usual summary. God
+   gives the first concession unasked and in full (18:26), never objects, never sets a floor, and
+   never shows the anger Abraham twice apologizes for in advance; Abraham is the one who stops. The
+   pages say so plainly.
+7. **Abraham's silence about Lot is recorded as genuinely ambiguous.** Either the argument's dignity
+   or the reason it is made; Genesis, which was willing to say at 14:14 that he armed his household
+   *"when Abram heard that his relative was taken captive"*, declines to say which. Both readings are
+   on the passage page and on `Lot`.
+8. **The tension between Genesis 18:26 and Ezekiel 14:14 is flagged, not dissolved.** Abraham is
+   granted that a few righteous may hold up the guilty; Ezekiel puts Noah, Daniel, and Job inside a
+   condemned land and says by name that they would save nobody but themselves. The wiki records both
+   and notes that Ezekiel's choice of Noah is pointed, since Noah's righteousness did save his
+   household at 7:1.
+9. **Sarah's laugh is not graded, consistent with the Genesis 17 pass.** What is added here is that
+   the two laughs are not at the same thing — Abraham does the arithmetic, Sarah does the body — and
+   that the narrator states her menopause in the verse before she laughs. The rabbinic reading of
+   God's misquotation at 18:13 (*b. Yebamot* 65b) is recorded because the discrepancy is plainly
+   there in the text. It is also noted that 18:15 is the only verse in the Bible where God speaks
+   directly to Sarah, and that what he says is that she is lying.
+10. **1 Peter 3:6 is recorded with what it is made of.** The New Testament's one use of 18:12 quotes
+    an aside inside a disbelieving private thought that God then questions her about. The wiki
+    reports the citation and the context and draws no conclusion.
+11. **Source criticism recorded and not needed.** Genesis 18–19 as J against 17 as P; 18:17–19 and
+    18:22b–33 as later insertions on Deuteronomic and post-exilic grounds. As the book stands, 18:19
+    is what makes 18:25 possible, which is the reading the wiki takes.
+12. **Quote accuracy.** All thirty-three block-quoted verses under `## Key verses` were generated
+    directly from `raw/bible/Genesis.md` by script rather than transcribed. Every quoted span on
+    every line added this pass was then checked against the raw file by the same method. Four slips
+    were caught and fixed before commit, three of them introduced by this pass and one pre-existing
+    on a page it touched:
+    - Genesis 1:26 given as *"Let's make man"* (WEB: *"Let us make man"*) — the same slip a previous
+      pass corrected elsewhere, reintroduced here and now fixed.
+    - Genesis 3:22 given as *"The man has become like one of us"* with the first letter re-cased
+      (WEB: *"Behold, the man has become…"*, so the fragment is lower-case).
+    - Genesis 18:13 quoted as *"Why did Sarah laugh?"* on `Isaac` and on
+      `Laughter and the Name Isaac` — a question mark substituted for WEB's comma. Both now give the
+      clause in full: *"Why did Sarah laugh, saying, 'Will I really bear a child, yet I am old?'"*
+
+    **The same slip survives at `wiki/passages/Genesis/Circumcision, the Sign of the Covenant.md`
+    line 206**, which this pass did not otherwise touch and so did not edit. It is left for the next
+    lint, along with the whole-wiki capitalization sweep the Genesis 17 entry recommended.
+
+    Quotations of Exodus, Judges, Kings, the prophets, Tobit, and the New Testament remain
+    unverifiable against any source in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately.
+
+**Note on branch state.** The same environment quirk as the last two runs, for the third time in a
+row. The session started on a **detached HEAD** at `origin/main` (`7e30ecf`) with a clean tree, and
+the local `main` ref was stale at `ee8f435` — a verified ancestor of HEAD. The ingest was committed
+on the detached HEAD and `git checkout -B main` then moved the branch onto it, a strict fast-forward
+from `origin/main`; the push went through with no merge and no commits were lost. Three consecutive
+runs have now hit it, so it is worth the user's attention as an environment quirk rather than a
+one-off.

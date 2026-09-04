@@ -93,6 +93,11 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   once it is given a number — and is not rebuked; then he circumcises his entire household and himself
   the same day, without a recorded word. Genesis puts the laugh and the obedience four verses apart
   and comments on neither
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:12–15, the other half of the same
+  household. Sarah laughs at the same promise her husband laughed at one chapter earlier, is
+  questioned about it, denies it, and is contradicted — and the promise stands unaltered. Hebrews
+  11:11 lists her among the faithful and does not mention this scene; Genesis records the scene and
+  does not pass a verdict. See [[Laughter and the Name Isaac]]
 - [[Noah and the Flood]] — obedience before there is a word for it, and what Hebrews 11:7 calls it
 - [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] — the whole downstream
   argument, including the half of it that was already in Psalm 106:31

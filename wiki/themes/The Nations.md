@@ -114,6 +114,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   chapter the covenant sign is put on *"any foreigner"* bought into the household (17:12–13, 27) —
   the boundary and the door through it, legislated in the same paragraph, which is what Exodus 12:48
   will make explicit
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:18, where the promise of 12:3 is
+  restated with the vocabulary raised: *"all the **nations** of the earth will be blessed in him"*,
+  where 12:3 had *"all the families of the earth"*. It is quoted by God to himself, as the reason for
+  telling Abraham what he intends — and what Abraham does with the information is argue for the
+  survival of a Canaanite city. The promise's beneficiaries make their first appearance as a case,
+  not a category
 - [[The Rescue of Lot and Melchizedek]] — the first chapter in which Abram actually deals with the
   nations rather than being promised them: an Elamite overlord, a king of *Goiim* (*nations*, with no
   country attached), three Amorite covenant-partners, a Canaanite priest of God Most High whose

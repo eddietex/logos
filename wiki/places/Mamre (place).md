@@ -38,6 +38,9 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
 - [[Abram and Lot Separate]] — Genesis 13:18, where Abram pitches and builds his third altar
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:13, where the news of Lot's capture reaches him
   here, and the grove's other namesake turns out to be his covenant-partner
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1; the grove at noon, a tent door,
+  and the most domestic scene in the Abraham cycle. Three men are washed and fed under the tree, and
+  the walk out from it toward Sodom is where the intercession happens
 
 ## Related places
 
@@ -52,6 +55,8 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
   [[Abram and Lot Separate]]
 - Abram is living there when he hears Lot has been captured, and marches from here — Genesis 14:13,
   [[The Rescue of Lot and Melchizedek]]
-- The three visitors; Sarah laughs — Genesis 18:1–15 *(not yet ingested)*
+- The three visitors are fed under the tree; Sarah laughs behind the tent flap — Genesis 18:1–15,
+  [[The Three Visitors and Abraham's Intercession]]
+- Abraham walks out from the grove toward Sodom and argues for the city — Genesis 18:16–33
 - The field and cave of Machpelah, bought *before Mamre* — Genesis 23:17–20 *(not yet ingested)*
 - Jacob returns to Isaac at Mamre — Genesis 35:27 *(not yet ingested)*

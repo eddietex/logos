@@ -13,6 +13,8 @@ tags: [connection]
   them."* … *"So will your offspring be."*
 - **Genesis 16:10** (to Hagar) — *"I will greatly multiply your offspring, that they will not be
   counted for multitude."*
+- **Genesis 18:18** — *"Abraham will surely become a great and mighty nation"*, the promise in its
+  unquantified form, quoted by God to himself. See [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 22:17** — *"I will multiply your offspring greatly like the stars of the heavens, and
   like the sand which is on the seashore."*
 - **Genesis 26:4** (to Isaac) — *"I will multiply your offspring as the stars of the sky."*

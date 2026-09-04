@@ -11,9 +11,10 @@ tags: [connection]
   a child be born to him who is one hundred years old? Will Sarah, who is ninety years old, give
   birth?'"*, and four verses later *"You shall call his name Isaac."* See
   [[Circumcision, the Sign of the Covenant]].
-- **Genesis 18:12–15** — *"Sarah laughed within herself"*; *"Why did Sarah laugh?"*; *"Is anything
-  too hard for Yahweh?"*; and *"I didn't laugh," for she was afraid. He said, "No, but you did
-  laugh."*
+- **Genesis 18:12–15** — *"Sarah laughed within herself"*; *"Why did Sarah laugh, saying, 'Will I
+  really bear a child, yet I am old?'"*; *"Is anything too hard for Yahweh?"*; and *"I didn't
+  laugh," for she was afraid. He said, "No, but you did laugh."* See
+  [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 21:6** — after the birth: *"God has made me laugh. Everyone who hears will laugh with
   me."*
 - **Genesis 21:9** — *"Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham,
@@ -39,14 +40,27 @@ overworked pun, and each turn of it costs somebody something.
 |---|---|---|
 | Where | *in his heart*, face down | *within herself*, behind the tent door |
 | At what | *a hundred years old … ninety years old* | *"After I have grown old will I have pleasure, my lord being old also?"* |
-| Divine response | none; the next words are the son's name | *"Why did Sarah laugh?"* and *"Is anything too hard for Yahweh?"* |
+| Divine response | none; the next words are the son's name | *"Why did Sarah laugh, saying, 'Will I really bear a child, yet I am old?'"* and *"Is anything too hard for Yahweh?"* |
 | Aftermath | he asks for Ishmael instead | she denies it, and is contradicted |
 
-**They are laughing at the same thing.** The wiki notes that a long tradition distinguishes
+**They are laughing at the same promise, and not at the same thing about it.** Abraham does the
+years — *"a hundred years old … ninety years old"*. Sarah does the body: *"After I have grown old
+will I have pleasure, my lord being old also?"* — *ʿednâ*, a word that occurs nowhere else in the
+Hebrew Bible and is not about fertility. The narrator has already given her the grounds, in the
+verse before: *"Sarah had passed the age of childbearing"*, which is the Bible's one statement of
+menopause.
+
+The wiki notes that a long tradition distinguishes
 Abraham's laugh as joyful faith and Sarah's as unbelief — Calvin and much of the rabbinic material
 both go that way, and the Targums soften 17:17 — and that Genesis supplies no basis for it. Neither
 laugh is described with an adjective; the only difference the text records is that one is questioned
 and one is not, and that Sarah is the one caught out.
+
+**And the question she is asked is a misquotation.** Yahweh reports her as saying *"Will I really
+bear a child, yet I am old?"* (18:13) and leaves out the clause about her husband's age. The Talmud
+takes the omission as the Torah's own licence to alter a report for the sake of peace in a marriage
+(*b. Yebamot* 65b; *Bava Metzia* 87a) — which, if it is right, means the one laugh that gets
+questioned is also the one the text handles gently.
 
 What Genesis does instead is let the name absorb both. When the child arrives, Sarah says *"God has
 made me laugh"* — the causative, *ṣāḥaq* with God as subject — and adds *"Everyone who hears will

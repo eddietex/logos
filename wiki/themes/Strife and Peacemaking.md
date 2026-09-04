@@ -79,6 +79,10 @@ the land.
   hand. Do to her whatever is good in your eyes."* But at 13:9 what he gave away was his own claim to
   a country, and here what he gives away is a pregnant woman who is not consulted. Same generosity,
   opposite cost, and the peace it buys is bought with someone else's money
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the same man standing between
+  parties for the fourth time, and the only occasion the other party is God. At 13:8–9 he ended a
+  quarrel by conceding what was his; here he concedes nothing and argues, and the concessions all
+  come from the other side
 - Genesis 26:17–22 — Isaac's wells, conceded twice *(not yet ingested)*
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*

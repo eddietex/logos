@@ -15,6 +15,9 @@ tags: [connection]
   [[The Tower of Babel]].
 - **Genesis 6:2; Job 1:6; 2:1** — *bənê hāʾĕlōhîm*, the sons of God, presenting themselves before
   Yahweh. See [[The Sons of God]] and [[Job of Uz]].
+- **Genesis 18:17, 21** — *"Will I hide from Abraham what I do…?"* and *"I will go down now, and
+  see"*: the deliberation and the descent both repeated in the **singular**, one chapter into the
+  Abraham cycle. See [[The Three Visitors and Abraham's Intercession]].
 - **Isaiah 6:8** — *"Whom shall I send, and who will go for us?"*
 - **1 Kings 22:19–22; Psalm 82:1; Daniel 7:9–10** — the council seen, seated, and consulted.
 
@@ -72,6 +75,22 @@ idiom, and the two *let us* speeches are set against each other as rival deliber
 the response from heaven is *let us go down*. It is the third and last time Genesis uses the plural,
 and it is spent on a descent.
 
+### And then it stops — Genesis 18:17, 21
+
+**The plural does not survive into the Abraham cycle, but the soliloquy does.** Genesis 18:17 is the
+book's fourth divine deliberation-before-acting and its first in the singular: *"Will I hide from
+Abraham what I do?"* Four verses later comes the descent, and it is 11:5's *"Yahweh came down to
+see"* almost word for word — *"I will go down now, and see whether their deeds are as bad as the
+reports which have come to me"* (18:21) — again singular, and this time about a city on the plain
+rather than a city in Shinar.
+
+The shape survives intact and the grammar changes. And the chapter that drops the plural is the one
+chapter in Genesis where God's *appearance* is unmistakably threefold — *"three men stood opposite
+him"* (18:2), with reading 3 above resting on this scene more heavily than on 1:26 ever since
+Ambrose's *tres vidit, unum adoravit*. The wiki notes the irony and draws nothing from it: the
+grammatical plural and the visual three have no textual relation, and Genesis 18 does not use the
+first person plural once. See [[Entertaining Angels Unawares]].
+
 ## Significance
 
 The wiki records all four readings and adopts none, for the reason the passages themselves suggest:
@@ -83,3 +102,7 @@ What the thread does establish is a shape. At each of the three moments the divi
 deliberative, first-person plural, and about a limit; and at each the narrative immediately reports a
 singular God acting. God consults, in some sense, and then acts alone. The last of the three
 consultations is about a city on a plain in Shinar, and it ends the primeval history.
+
+And then the form outlives the grammar. Genesis 18:17 deliberates aloud in the singular before
+acting on another city, and 18:21 repeats 11:5's descent to see — so the pattern the plural belonged
+to is not a feature of the primeval history at all. Only the *we* is.

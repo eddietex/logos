@@ -73,7 +73,21 @@ even fratricidal betrayal into rescue (Joseph).
   laughs at the arithmetic, asks God to settle for Ishmael, is refused, and then circumcises everyone
   he owns and himself before the day is out. The chapter also draws the book's sharpest line between
   *blessed* and *covenanted*: Ishmael gets the entire blessing formula and twelve princes, and Isaac
-  gets the covenant, and Genesis gives no reason for either.
+  gets the covenant, and Genesis gives no reason for either. Then
+  *[[The Three Visitors and Abraham's Intercession]]* turns the whole register over: chapter 17 was
+  twenty-two verses of divine speech and one human sentence, and chapter 18 is a meal and an
+  argument. Three strangers arrive at the tent door at the hottest hour of the day, are promised a
+  little water and a morsel of bread, and are served twenty litres of flour, a calf, and curds by a
+  hundred-year-old man who runs twice in the heat and then stands while they eat — and one of them
+  is Yahweh, which the narrator tells the reader and never tells Abraham. Sarah, inside the tent,
+  hears the promise for the first time, laughs at her own body rather than at the arithmetic, is
+  misquoted, denies it, and is contradicted in the only verse of Scripture where God speaks to her.
+  Then the party walks out to look down at Sodom, God deliberates aloud about whether to say what he
+  intends, and in doing so gives election its one content in the book — *"to do righteousness and
+  justice"* — four verses before Abraham turns that same standard on him. The result is Scripture's
+  first intercession and its first argument about justice: not a plea for mercy but a case, made for
+  a Canaanite city by a man who never mentions the nephew inside it, from fifty righteous down to
+  ten. God concedes every time without objecting, and the one who stops is Abraham.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -109,7 +123,7 @@ merge, or reorder them freely.
 - [x] [[The Covenant Between the Pieces]] — Genesis 15:1–21
 - [x] [[Hagar and Ishmael]] — Genesis 16:1–16
 - [x] [[Circumcision, the Sign of the Covenant]] — Genesis 17:1–27
-- [ ] The Three Visitors and Abraham's Intercession — Genesis 18:1–33
+- [x] [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33
 - [ ] The Destruction of Sodom and Gomorrah — Genesis 19:1–29
 - [ ] Lot and His Daughters — Genesis 19:30–38
 - [ ] Abraham and Abimelech — Genesis 20:1–18

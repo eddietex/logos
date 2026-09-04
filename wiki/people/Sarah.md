@@ -187,9 +187,46 @@ Her husband's response is to laugh at the arithmetic — *"Will Sarah, who is ni
 birth?"* — and to ask for Ishmael instead. One chapter later she will laugh at the same arithmetic
 and be asked why. See [[Laughter and the Name Isaac]].
 
+### In this pericope — Genesis 18:1–15
+
+**She is inside the tent for all of it, and she is the only person in the chapter God tells off.**
+
+She makes the bread — three seahs of fine meal, kneaded at an hour's notice — and does not carry it
+out. She is asked after by name (*"Where is Sarah, your wife?"*, 18:9), which is the first sign the
+visitors are not ordinary travellers, and her husband answers for her. She hears the promise through
+a wall of cloth, with her back to the man saying it. Everything about her position is what it was at
+17:15–16, except that this time she is close enough to react.
+
+**The narrator clears the ground before she laughs.** *"Now Abraham and Sarah were old, well advanced
+in age. Sarah had passed the age of childbearing"* (18:11) — *ḥādal lihyôt lə-Śārâ ʾōraḥ kannāšîm*,
+*it had ceased to be with Sarah the way of women*. **The Bible states menopause once, and this is the
+verse.** It is placed so that the reader grants her the arithmetic before she does it.
+
+***"After I have grown old will I have pleasure, my lord being old also?"*** (18:12). **She is not
+laughing at the same thing her husband laughed at.** He did the years — *"a hundred years old …
+ninety years old"* (17:17); she does the body. *ʿEdnâ*, **pleasure**, occurs nowhere else in the
+Hebrew Bible and is not a word about fertility. See [[Laughter and the Name Isaac]].
+
+**And God misquotes her.** He reports her as saying *"Will I really bear a child, yet I am old?"*
+(18:13) and drops the clause about her husband's age. The Talmud takes this as the Torah's own
+licence to soften a report for the sake of peace in a marriage (*b. Yebamot* 65b), and it is one of
+the few rabbinic readings that turns on a discrepancy plainly there in the text.
+
+***"I didn't laugh," for she was afraid. He said, "No, but you did laugh."*** (18:15).
+**This is the only verse in the Bible in which God speaks directly to Sarah**, and what he says is
+that she is lying. Nothing follows it — no penalty, no withdrawal of the promise — and it is the
+second time in Genesis a divine question is met with a denial that is simply overruled (compare
+4:9). Three chapters later she takes the word back for herself: *"God has made me laugh"* (21:6).
+See [[The Three Visitors and Abraham's Intercession]].
+
+**1 Peter 3:6 quotes this scene**, and quotes the aside: *"as Sarah obeyed Abraham, calling him
+lord."* The words are *waʾdōnî zāqēn*, *my lord being old also*, said inside a disbelieving private
+thought that God then questions her about. The wiki records the citation and notes what it is made
+of.
+
 ### Where the rest of her is
 
-Ahead, in pericopes not yet ingested: the laughter behind the tent flap (18:9–15), Abimelech (20),
+Ahead, in pericopes not yet ingested: Abimelech (20),
 the birth of Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah
 (23). She is
 the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
@@ -214,6 +251,10 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - Renamed Sarah, without an explanation, and promised a son, nations, and kings — Genesis 17:15–16,
   [[Circumcision, the Sign of the Covenant]]
 - The covenant assigned to her son, and the birth dated to the following year — Genesis 17:19, 21
+- Makes cakes for three visitors she never sees, and hears the promise from inside the tent —
+  Genesis 18:6, 9–10, [[The Three Visitors and Abraham's Intercession]]
+- Laughs within herself; is quoted back inaccurately, denies it, and is contradicted — the only time
+  in Scripture God speaks to her directly — Genesis 18:12–15
 - Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
 
@@ -229,6 +270,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
   cruelty, in the chapter that opens on the omission the last one ended with
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17:15–21; renamed without an explanation,
   promised nations and kings in her own right, and absent from every verse that says so
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–15; she bakes the bread and stays
+  in the tent, laughs at her own body rather than at the arithmetic, is misquoted, denies it, and is
+  contradicted — in the one verse of Scripture where God addresses her
 
 ## Related people
 
@@ -259,3 +303,5 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Deception]]
 - [[Slavery and Servitude]]
 - [[Seeing and Being Seen]]
+- [[Faith]]
+- [[Hospitality]]

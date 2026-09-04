@@ -172,6 +172,11 @@ costly.
   hands Ishmael the entire blessing formula — *blessed*, *fruitful*, *multiplied exceedingly*, twelve
   princes, a great nation (17:20) — and withholds the covenant, which is the book's clearest statement
   that the two are not the same word
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:18, where the blessing becomes a
+  reason. *"Will I hide from Abraham what I do, since Abraham will surely become a great and mighty
+  nation, and all the nations of the earth will be blessed in him?"* — God quotes the promise of
+  12:2–3 back to himself as the ground for taking Abraham into his confidence about a judgment. It
+  is the only place in Genesis where being blessed is what qualifies someone to be *told* something
 - [[The Sons of God and the Corruption of the Earth]] — *"When men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand

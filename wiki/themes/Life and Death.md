@@ -160,6 +160,10 @@ the rest of the canon.
   formula whose plain sense is burial with the clan, and whose problem is that his fathers are buried
   in Ur and Haran and he will be buried at Machpelah — which is already some sense of the dead as a
   company one joins
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:23–25, where dying becomes a
+  question of who else is dying with you: *"to kill the righteous with the wicked, so that the
+  righteous should be like the wicked."* The problem of collective destruction, stated as an
+  objection two thousand years before Deuteronomy 24:16 and Ezekiel 18 legislate around it
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — the one man in the register who is
   taken instead of buried, and what the New Testament makes of him
 - [[Cain and Abel in the New Testament]] — Abel *"being dead, still speaks"*, and the blood that

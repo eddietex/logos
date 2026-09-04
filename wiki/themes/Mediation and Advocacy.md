@@ -35,6 +35,28 @@ The identity of the figure in 16:19 is genuinely unsettled, and the wiki does no
 three readings — God himself, a distinct heavenly advocate, and Job's own cry personified — are set
 out on [[Miserable Comforters and the Witness in Heaven]] and on [[The Witness in Heaven]].
 
+### Where the theme starts — Genesis 18:22–33
+
+**Intercession enters the Bible in an argument, not a prayer.** Abraham does not ask for mercy for
+Sodom; he asks whether destroying it would be *right*, and the ground he stands on is a phrase God
+had used four verses earlier about him — *ṣədāqâ ûmišpāṭ*, righteousness and justice (18:19). The
+standard is handed over and immediately turned around.
+
+Three features of the founding scene set the theme's shape for everything after it.
+
+1. **The advocate has no office.** He is not a priest, a prophet (that word arrives at 20:7), or a
+   king; he is a man standing on a road who *"came near"* (*wayyiggaš*) and started talking.
+2. **He argues for people he has no tie to** — a Canaanite city, with the one relative inside it
+   never named. Where later intercessors plead for their own (Moses for Israel, Job for his
+   friends), the first one pleads for strangers.
+3. **He asks for the guilty to be spared *because of* the righteous**, not for the righteous to be
+   pulled out. That mechanism — a few holding up the many — is what Ezekiel 14:12–20 will later
+   refuse by name, and what the New Testament will make its central claim.
+
+**And God concedes six times without resisting once.** Whatever the passage is, it is not a man
+wearing God down: it is a man discovering that the door was already open, and stopping at ten. See
+[[Shall Not the Judge of All the Earth Do Right]].
+
 Two things are worth holding whichever reading is taken. **The heavenly court in this book already
 contains someone taking an interest in Job's case, and he is the prosecution.** The accuser of Job
 1–2 is the office Job is unknowingly asking for the counterpart of. And **Job wants an advocate
@@ -45,8 +67,9 @@ what Job is asking for.
 
 ## Development across Scripture
 
-- **Genesis 18:22–33** *(not yet ingested)* — Abraham bargaining for Sodom: intercession as
-  advocacy, and the first person in Scripture to argue with God on someone else's behalf.
+- **Genesis 18:22–33** — Abraham bargaining for Sodom: intercession's first appearance in Scripture,
+  and the first person to argue with God on someone else's behalf. See
+  [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 20:7** *(not yet ingested)* — Abraham called a prophet, *"and he will pray for you"*:
   the office named.
 - **Job 9:32–33; 16:19–21; 17:3; 19:25–27** — the four offices above.
@@ -81,6 +104,9 @@ what Job is asking for.
 
 ## Key passages
 
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
+  an advocate with no office, arguing for a city he has no tie to, on a standard he was given four
+  verses earlier, against a defendant who never once objects
 - [[Miserable Comforters and the Witness in Heaven]] — the witness, the voucher, and the demand for
   surety, in eight verses
 - [[I Know That My Redeemer Lives]] — the fourth and last officer, and the only one not drawn from
@@ -102,9 +128,14 @@ what Job is asking for.
 - [[Covenant]] — which characteristically has a mediator attached
 - [[Strife and Peacemaking]] — standing between two parties before a court is needed, which is what
   Abram does at Genesis 13:8–9 and for Sodom at 18:23–33
+- [[Hospitality]] — the meal that precedes the first intercession, and the relation that makes the
+  advocate bold enough for it
 
 ## Related people
 
+- [[Abraham]] — the first intercessor in Scripture, who argues from justice rather than from mercy
+  and stops before God does
+- [[Lot]] — the man inside the city, never named in the argument made for it
 - [[Job (person)]] — who asks for an advocate for thirty chapters and becomes one in the last
 - [[God]] — defendant, judge, and — on the majority reading of 16:19 — the witness as well
 - [[Abel]] — whose blood cries and is answered, and whom Hebrews 12:24 sets against a better

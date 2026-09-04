@@ -9,7 +9,10 @@ tags: [connection]
 
 - **Genesis 12:3** — *"All the families of the earth will be blessed through you."* —
   [[The Call of Abram]]
-- **Genesis 18:18; 22:18; 26:4; 28:14** — the same clause restated to Abraham twice, to Isaac, and to
+- **Genesis 18:18** — *"all the **nations** of the earth will be blessed in him"*, with *gôyim* for
+  12:3's *families* and *bô* for its *through you* — and spoken by God to himself, as the reason for
+  telling Abraham about Sodom. See [[The Three Visitors and Abraham's Intercession]].
+- **Genesis 22:18; 26:4; 28:14** — the same clause restated to Abraham a third time, to Isaac, and to
   Jacob *(not yet ingested)*
 - **Genesis 10:5, 18, 20, 31, 32** — *mišpəḥōt*, the families of the nations —
   [[The Table of Nations]]

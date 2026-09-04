@@ -117,9 +117,21 @@ rule are the conditions the rest of Scripture is set in.
   *wickedness* do not occur. Whether it is retribution, the enforcement of the command of 9:1, or a
   protective limit of the kind set at 3:22 is genuinely open; see [[The Tower of Babel]], which sets
   out the readings without choosing.
-- **Genesis 18:16–19:29** *(not yet ingested)* — Sodom, the other city God goes down to see before
-  acting, and Abraham's *"Shall not the Judge of all the earth do right?"* (18:25)
-  putting the question the theme keeps raising. Note that Genesis 8:21 gives the verdict of 6:5
+- **Genesis 18:16–33** — the theme's most explicit chapter, and it adds three things the template
+  never had. **The charge is a cry**: *"Because the cry of Sodom and Gomorrah is great"* (18:20) —
+  *zaʿăqâ*, the noun of Abel's blood at 4:10 and of Israel under Egypt at Exodus 2:23, which means
+  the case is brought by victims rather than observed from above. **The sentence is explicitly
+  deferred**: *"I will go down now, and see whether their deeds are as bad as the reports which have
+  come to me. If not, I will know"* (18:21) — the descent of 11:5, but this time stated as an
+  inquiry, so that the verdict is still open when the arguing starts. And **the standard is stated
+  in advance by a human being**: *"Shouldn't the Judge of all the earth do right?"* (18:25), the
+  first time anyone in Scripture holds God to a criterion, using the word-pair God had given him six
+  verses earlier. God then concedes six times without objecting. See
+  [[The Three Visitors and Abraham's Intercession]] and
+  [[Shall Not the Judge of All the Earth Do Right]].
+- **Genesis 19:1–29** *(not yet ingested)* — the sentence carried out, and the answer to the
+  bargain that is not in its terms: ten are not found, and *"God remembered Abraham, and sent Lot
+  out"* (19:29). Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
   doing this again, so the same fact grounds both the flood and the promise against it.
 - **Genesis 12:17** — the shortest judgment scene in the book, and the one with none of the
@@ -180,6 +192,9 @@ rule are the conditions the rest of Scripture is set in.
   specific nation, and the first statement that another one is being spared because its guilt is not
   yet complete. Judgment with a schedule, and a four-hundred-year delay that costs the promised
   people their freedom
+- [[The Three Visitors and Abraham's Intercession]] — 18:20–33: a charge brought by a *cry*, a
+  sentence deferred until God goes down to look, a standard stated in advance by the accused's
+  advocate, and a judge who concedes six times running. The chapter ends with no verdict given
 - [[The Flood as Un-Creation]] — what the judgment consists of: the separations of Genesis 1
   withdrawn, in order
 - [[Eliphaz's Second Speech]] — judgment as a lifetime rather than a scene: 15:20–35 distributes it
@@ -218,10 +233,14 @@ rule are the conditions the rest of Scripture is set in.
 - [[Mediation and Advocacy]] — the offices a defendant needs when the judge is the other party
 - [[Suffering]] — what retribution reads as a verdict already delivered
 - [[Pride and Self-Exaltation]] — the offence the prophets name, and the reversal that answers it
+- [[Hospitality]] — how Genesis 19, Judges 19, and Luke 10:10–12 all measure a place before judging
+  it
 
 ## Related people
 
 - [[God]]
+- [[Abraham]]
+- [[Lot]]
 - [[Adam]]
 - [[Eve]]
 - [[The Serpent]]

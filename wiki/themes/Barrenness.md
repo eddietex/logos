@@ -90,7 +90,13 @@ the women than the frame they are written in.
   give you a son by her"*, with her age stated (ninety) and her husband's laugh recorded. The wait
   also acquires its first deadline — *"at this set time next year"* (17:21) — and the son is named
   after the reaction to the arithmetic
-- Genesis 18:9–15; 21:1–7 — Sarah's own laugh, and the birth *(not yet ingested)*
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:9–15, where the narrator states the
+  obstacle in clinical terms before anyone reacts to it: *"Sarah had passed the age of childbearing"*
+  — *it had ceased to be with Sarah the way of women*, **the Bible's one statement of menopause**.
+  Then the promise is repeated with its date (*"at the set time … when the season comes round"*),
+  Sarah laughs at her own body rather than at the arithmetic, and the answer is not an argument but a
+  question about God: *"Is anything too hard for Yahweh?"* See [[Is Anything Too Hard for Yahweh]]
+- Genesis 21:1–7 — the birth *(not yet ingested)*
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
 - Judges 13 — Manoah's wife

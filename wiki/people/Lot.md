@@ -87,6 +87,25 @@ chapter that costs Abram the most is the one that spells the kinship out most ex
 
 See [[The Rescue of Lot and Melchizedek]].
 
+### In this pericope — Genesis 18:22–33, by his absence
+
+**Abraham spends eleven verses arguing for the city Lot lives in and never says his name.**
+
+The chapter is the closest thing Genesis gives to an intervention on Lot's behalf, and it is
+conducted entirely on other grounds: *"Will you consume the righteous with the wicked?"*, *"Shouldn't
+the Judge of all the earth do right?"* Not one of the fifteen exchanges mentions a nephew, where
+Genesis 14:14 had been perfectly willing to say that Abram armed his household *"when Abram heard
+that his relative was taken captive"*. The wiki records that this is either the argument's dignity —
+a case made on justice rather than on kinship — or the reason it is made at all, and that Genesis
+declines to say which.
+
+**And the arrangement Abraham proposes is the one Lot does not get.** Abraham asks that the city be
+spared *for the sake of* the righteous inside it. What happens instead is the flood's arrangement:
+the city is destroyed, so ten were not found, and the righteous man is taken out of it — *"God
+remembered Abraham, and sent Lot out of the middle of the overthrow"* (19:29). The intercession is
+answered by the rescue of the man it never named. See
+[[The Three Visitors and Abraham's Intercession]].
+
 ### What his presence sets up
 
 Everything that follows from Genesis 12 to 19 depends on his being here. He goes out of Haran with
@@ -114,6 +133,8 @@ caravan.
   [[Abram and Lot Separate]]
 - Living in Sodom when the four kings sack it; taken with the city's goods, and recovered by Abram —
   Genesis 14:12–16, [[The Rescue of Lot and Melchizedek]]
+- Unnamed while Abraham argues for the sparing of the city he lives in — Genesis 18:22–33,
+  [[The Three Visitors and Abraham's Intercession]]
 - Brought out of Sodom — Genesis 19:1–29 *(not yet ingested)*
 - Fathers Moab and Ammon — Genesis 19:30–38 *(not yet ingested)*
 
@@ -126,6 +147,8 @@ caravan.
   and pitches toward Sodom
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:12, 16; taken out of Sodom by an army and
   returned to it without a line of dialogue
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, by his absence; his uncle
+  bargains for his city for eleven verses and never mentions him
 
 ## The verdict Genesis withholds
 
@@ -161,3 +184,6 @@ description is that Genesis narrates without grading and 2 Peter grades without 
 - [[City and Civilization]]
 - [[Strife and Peacemaking]]
 - [[War]]
+- [[Hospitality]]
+- [[Mediation and Advocacy]]
+- [[Righteousness]]

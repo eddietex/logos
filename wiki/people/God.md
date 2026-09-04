@@ -472,6 +472,37 @@ new.
 is the first time Genesis reports him leaving. See
 [[Circumcision, the Sign of the Covenant]].
 
+### He is fed, and then argued with — Genesis 18:1–33
+
+**The chapter that has him eat a meal is the chapter that has him give way six times**, and both are
+firsts.
+
+- **He appears as three, and the text will not count.** *"Yahweh appeared to him"* (18:1), and what
+  Abraham sees is *"three men"*. He is addressed in the singular and served in the plural; he speaks
+  in the singular at 18:10 and is named *Yahweh* at 18:13; two of the party walk on and are *"the
+  two angels"* by 19:1. This is the seam of [[The Angel of Yahweh]] in its most extended form, and
+  Genesis leaves it exactly as it is.
+- **He eats.** *"He took butter, milk, and the calf which he had dressed, and set it before them …
+  and they ate"* (18:8). Judges 13:16 has the visitor refuse the meal and Tobit 12:19 denies the
+  eating outright; Genesis states it and offers no gloss. See [[Entertaining Angels Unawares]].
+- **He quotes a human being inaccurately, and the alteration is kind.** Sarah said *"my lord being
+  old also"*; he reports *"yet I am old"* (18:13). See [[Sarah]].
+- **He asks a rhetorical question about his own nature** — *"Is anything too hard for Yahweh?"*
+  (18:14), *hă-yippālēʾ*, is anything too *wonderful* — the first defence of a promise by appeal to
+  what God is rather than by restating it. See [[Is Anything Too Hard for Yahweh]].
+- **He deliberates aloud about whether to tell someone.** *"Will I hide from Abraham what I do?"*
+  (18:17) — the fourth divine soliloquy in Genesis, and the only one about taking a human being into
+  confidence. What follows is the one verse in the book that gives election a content: *"For I have
+  known him, to the end that he may command his children … to do righteousness and justice"* (18:19).
+- **He refuses to act on a report.** *"I will go down now, and see whether their deeds are as bad as
+  the reports which have come to me. If not, I will know"* (18:21) — the descent of 11:5 repeated,
+  and the reason the sentence is still open when Abraham starts talking.
+- **And he concedes every time he is asked.** Fifty, forty-five, forty, thirty, twenty, ten. No
+  objection, no counter-offer, no floor, and none of the anger Abraham twice apologizes for in
+  advance. The one who stops is the man. See
+  [[Shall Not the Judge of All the Earth Do Right]] and
+  [[The Three Visitors and Abraham's Intercession]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -587,6 +618,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   son's birth and names him for the affliction he has heard, sends her back to the household that
   afflicted her, and lets her name him *a God who sees* — the only time in Scripture a human being
   gives God a name — [[Hagar and Ishmael]]
+- Arrives at a tent door as one of three men, is washed and fed a calf with curds under a tree,
+  asks after a woman he has not met, questions her laugh and contradicts her denial, deliberates
+  aloud about whether to tell his friend what he is about to do, goes down to look before he
+  sentences, and then concedes six times running to a man who apologizes for asking —
+  [[The Three Visitors and Abraham's Intercession]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -652,6 +688,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   renames two adults, cuts a sign into the household's flesh with a penalty attached, names and dates
   a child a year before conception, and refuses to let Ishmael stand in for him — while blessing
   Ishmael in the same breath.
+- [[The Three Visitors and Abraham's Intercession]] — he appears as one and is fed as three, eats a
+  meal under a tree, speaks to Sarah in the only verse where he does, overhears himself deciding to
+  take Abraham into his confidence, and gives way six times without an argument
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -733,3 +772,4 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Slavery and Servitude]]
 - [[Circumcision]]
 - [[Kingship and Empire]]
+- [[Hospitality]]

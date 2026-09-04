@@ -43,6 +43,19 @@ he is bound on the mountain (22:9) and does nothing but ask one question; his wi
 by a servant in a country he has never seen (24). Genesis's least active patriarch is its clearest
 case of a promise that does not depend on its recipient.
 
+### In this pericope — Genesis 18:9–15
+
+**Still unnamed, and dated a second time.** The promise of 17:21 is repeated in almost the same
+words — *"I will certainly return to you at about this time next year; and behold, Sarah your wife
+will have a son"* (18:10), and again *"At the set time I will return to you, when the season comes
+round"* (18:14) — but the audience has changed. Chapter 17 announced him to his father with his
+mother out of the room; here she is behind the tent flap and hears it.
+
+He is not called *Isaac* in this chapter, and the verb that is his name is used twice: Sarah
+*laughed* (18:12), and God asks *"Why did Sarah laugh, saying, 'Will I really bear a child, yet I am
+old?'"* (18:13). The second of the four laughs, and the only one anybody is questioned about. See
+[[Laughter and the Name Isaac]] and [[The Three Visitors and Abraham's Intercession]].
+
 ### Where the rest of him is
 
 - **Genesis 21:1–7** — born at the appointed time, when Abraham is a hundred and Sarah ninety;
@@ -68,6 +81,8 @@ case of a promise that does not depend on its recipient.
 
 - Named by God, and the covenant established with him, a year before his conception — Genesis
   17:19, 21, [[Circumcision, the Sign of the Covenant]]
+- The birth promised again and dated again, this time in his mother's hearing — Genesis 18:10, 14,
+  [[The Three Visitors and Abraham's Intercession]]
 - Born at the set time; Abraham a hundred, Sarah ninety — Genesis 21:1–5 *(not yet ingested)*
 - Circumcised on the eighth day — Genesis 21:4 *(not yet ingested)*
 - Bound on the mountain in the land of Moriah — Genesis 22:1–19 *(not yet ingested)*
@@ -82,6 +97,8 @@ case of a promise that does not depend on its recipient.
 
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17:15–21; named, dated, and given the covenant
   before he is conceived
+- [[The Three Visitors and Abraham's Intercession]] — Genesis 18:9–15; the promise repeated and
+  re-dated, and the first time his mother is in earshot of it
 
 ## Related people
 
