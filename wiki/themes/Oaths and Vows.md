@@ -90,7 +90,8 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 - Genesis 15:9–18 — the first divine oath, enacted rather than spoken,
   [[The Covenant Between the Pieces]]
 - Jeremiah 34:18–20 — the only passage that explains the rite, and the sanction being executed
-- Genesis 22:16; Hebrews 6:13–18 — God swearing by himself
+- Genesis 22:16; Hebrews 6:13–18 — God swearing by himself, the only oath he swears in Genesis,
+  [[The Binding of Isaac]] and [[I Have Sworn by Myself - The Oath at Moriah]]
 - Genesis 21:22–34 — the first oath between two human beings, and a place named for it,
   [[The Treaty at Beersheba]]
 - Genesis 24:2–9; 31:44–54; 47:29–31 — the other patriarchal oaths and their gestures

@@ -90,9 +90,18 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   four centuries early and puts it to a completely different use. See
   [[The Covenant Between the Pieces]] and
   [[Passing Between the Pieces]].
-- **Genesis 22:1–19** *(not yet ingested)* — the binding of Isaac and *"God will provide himself the
-  lamb"*, the passage the whole theme eventually bends toward, and the Abraham cycle's actual
-  sacrifice.
+- **Genesis 22:1–19 — the Abraham cycle's only completed sacrifice, and the theme's hinge.** After
+  three altars with nothing said to be offered on them, and a covenant ceremony with the whole
+  apparatus and no offering, **this is the first burnt offering in Genesis since Noah's** — and it is
+  the first one the book narrates step by step. Verse 9 runs the procedure Leviticus 1 will
+  prescribe: the altar built, *"the wood in order"*, the victim bound and laid on it. Three things
+  enter Scripture here. **The *ʿōlâ* asked of a human being** — the whole-offering demanded of a son,
+  and then refused. **Substitution**: the ram offered *"instead of his son"*, *taḥat*, the first time
+  one life is said to stand in the place of another. **And provision as the sacrifice's ground**:
+  *"God will provide himself the lamb for a burnt offering"* (22:8), which the chapter answers with a
+  ram rather than a lamb and turns into the name of a mountain. **The order matters** — the knife is
+  stopped before the ram is seen, so the substitute does not buy the reprieve; it follows it. See
+  [[The Binding of Isaac]] and [[The Ram Instead of the Son - Substitution at Moriah]].
 - Strands to trace as ingestion reaches them: Passover and the blood on the doorposts (Exodus 12);
   the five offerings and the Day of Atonement (Leviticus 1–7, 16); *"the life of the flesh is in
   the blood"* (Leviticus 17:11); *"to obey is better than sacrifice"* (1 Samuel 15:22) and the
@@ -120,6 +129,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   bird left undivided exactly as Leviticus 1:17 will require, fire arriving at nightfall — and
   nothing offered, nothing burned, and no altar. The apparatus without the act
 - [[Job of Uz]] — a father as his own priest, offering for sins that may not have happened
+- [[The Binding of Isaac]] — Genesis 22:1–19: the theme's first full procedure, its first
+  substitution, and the only burnt offering actually completed in the Abraham cycle
+- [[The Ram Instead of the Son - Substitution at Moriah]] — *taḥat*, the redemption of the firstborn,
+  the hand on the head in Leviticus 1:4, and the two goats of Leviticus 16
+- [[Child Sacrifice and the Redemption of the Firstborn]] — what the Bible says about the practice
+  Genesis 22 stops, and the seam between Exodus 22:29 and Exodus 13:13
 - [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
   household head who acts as priest with no law behind him
 

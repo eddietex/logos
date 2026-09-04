@@ -47,6 +47,9 @@ bread and wine.
   cities' rulers side by side and lets the comparison stand
 - [[Hebron]] — Abram's own address, some nineteen miles south
 - [[Canaan]] — the land it sits in, and which Abram has been promised
+- [[Moriah]] — the land of Genesis 22, which 2 Chronicles 3:1 puts in Jerusalem; if that
+  identification holds, Abraham has been to this city before, at 14:18, and Genesis never connects
+  the two scenes
 
 ## Events here
 

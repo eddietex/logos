@@ -122,6 +122,11 @@ happens.
   Lot by the hand (19:16). And the speech alternates inside two verses — *"God has heard"* in the
   third person at 21:17, *"I will make him a great nation"* in the first at 21:18. See
   [[The Angel of Yahweh]]
+- [[The Binding of Isaac]] — Genesis 22:16, ***nəʾum YHWH*, "says Yahweh" — the prophetic messenger
+  formula's only occurrence in Genesis.** The phrase that punctuates Amos, Isaiah, Jeremiah, and
+  Ezekiel hundreds of times, marking a prophet quoting God, is used once in the Torah's first book,
+  and it is spoken by an angel who is already speaking in God's first person. The chapter also
+  carries two of the book's three voices *out of the sky* (22:11, 15)
 
 ## Related themes
 

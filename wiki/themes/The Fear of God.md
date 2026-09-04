@@ -109,6 +109,17 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   integrity of heart, and tells his whole household at dawn — *"The men were very scared"*
   (20:8). Abraham is the only person in the chapter whose conduct the fear of God does not visibly
   govern, and he is the one who raises the subject
+- [[The Binding of Isaac]] — Genesis 22:12, the theme's **decisive Genesis passage** and the only
+  place in the book where God says of anyone that he fears God: *"For now I know that you fear God,
+  since you have not withheld your son, your only son, from me."* Three things follow from it.
+  **First, the phrase is *yərēʾ ʾĕlōhîm*, exactly what the narrator says of Job at 1:1, 1:8, and
+  2:3** — and both books establish it the same way, by taking everything away while the reader
+  watches and the man cannot see the frame. **Second, it is demonstrated rather than declared**: what
+  the chapter produces is not a state of mind but an act, which is what this theme has meant since
+  Job's sacrifices at 1:5. **Third, it lands on the man who had used the phrase to excuse himself.**
+  At 20:11 Abraham explained the Gerar ruse with *"Surely the fear of God is not in this place"*, of
+  a city that turned out to be full of it; two chapters later God says the words to him. See
+  [[Testing]]
 - [[Bildad's Second Speech]] — the exact inverse of 1:1, delivered as a verdict: *"This is the
   place of him who doesn't know God"* (18:21), spoken in a room containing one candidate and the
   wrong one

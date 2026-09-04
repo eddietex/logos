@@ -313,6 +313,22 @@ and then walks out of the tent behind Hagar. **The sympathy and the authority ar
 places, and the book does not reconcile them.** See
 [[The Birth of Isaac and the Sending of Hagar]].
 
+### Off-stage — Genesis 22:1–19
+
+**She is not in the chapter, and the chapter is about her son.**
+
+Nothing is said to her, by God or by Abraham, before, during, or after. The command comes in the
+night, the departure is *"early in the morning"*, the servants are told a false or hopeful sentence
+(*"We will worship, and come back to you"*), and Isaac is told about a lamb. **The one person in the
+household who is not given even an evasion is his mother.**
+
+**And she dies in the next chapter.** *"Sarah lived one hundred twenty-seven years"* (23:1) follows
+Nahor's genealogy and the return to Beersheba, with no cause given. The rabbinic reading that the
+news of Moriah killed her — that she heard what had nearly happened and did not survive it — is
+filling exactly the gap Genesis leaves between 22:19 and 23:2, and it is a reading rather than a
+report. **What the text supplies is the sequence, and that Abraham comes home to Beersheba while she
+is at Kiriath Arba.** See [[The Binding of Isaac]].
+
 ### Where the rest of her is
 
 Ahead, in a pericope not yet ingested: her death at Kiriath Arba and the purchase of Machpelah (23).
@@ -379,6 +395,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–12; visited, delivered on the date,
   and given the one composed speech she has in Scripture — and then, eight verses later, the demand
   that expels a slave and a boy whose names she will not say
+- [[The Binding of Isaac]] — Genesis 22:1–19; absent, unconsulted, and not told, in the chapter that
+  nearly ends her son; she dies in the next one, and Genesis gives no cause
 
 ## Related people
 

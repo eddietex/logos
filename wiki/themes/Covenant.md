@@ -190,6 +190,16 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   it twice as the definition of election (Romans 9:7; Hebrews 11:18). One verse later the excluded son
   is given a nation *"because he is your child"*: the promise divided in consecutive verses, with no
   attempt to reconcile the halves
+- [[The Binding of Isaac]] — Genesis 22:15–18, where the covenant is **sworn** for the first and only
+  time in Genesis: *"I have sworn by myself, says Yahweh."* Nothing in the content is new — blessing,
+  offspring, the nations, with *sand* added to dust and stars — but the grounding is: *"because you
+  have done this thing"*, *"because you have obeyed my voice"*, and again to Isaac at 26:5. **Set
+  that against Genesis 15, where God passed between the halves alone while Abram slept and undertook
+  nothing, and there is a real tension inside the cycle**, which the wiki states rather than
+  smooths. The standing resolutions — that the oath ratifies what was already unconditional, that a
+  personal reward is being described alongside an unconditional covenant, or that Genesis simply
+  holds both — are all live, and Paul and James take opposite sides of the same seam. See
+  [[I Have Sworn by Myself - The Oath at Moriah]]
 
 ## Related themes
 

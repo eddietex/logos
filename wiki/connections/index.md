@@ -91,3 +91,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
 | [[The Wells of Abraham and the Wells of Isaac]] | parallel | Genesis 21:22–34 · Genesis 26:12–33 · Genesis 16:14; 21:19 |
 | [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 |
+| [[The Binding of Isaac in the New Testament]] | quotation | Genesis 22:1–19 · Hebrews 11:17–19 · James 2:21–23 · Romans 8:32 · John 3:16 |
+| [[Yahweh Will Provide - Moriah and the Temple Mount]] | thread | Genesis 22:2, 8, 14 · 2 Chronicles 3:1 · Exodus 23:17 · Deuteronomy 16:16 · Genesis 14:18 · Psalm 76:2 |
+| [[The Ram Instead of the Son - Substitution at Moriah]] | thread | Genesis 22:8, 13 · Exodus 13:13; 34:20 · Leviticus 1:1–17; 16:8–22 · Numbers 3:11–13 · Isaiah 53:4–6 · John 1:29 |
+| [[Child Sacrifice and the Redemption of the Firstborn]] | thread | Genesis 22:1–19 · Exodus 13:2, 11–15; 22:29–30 · Leviticus 18:21; 20:2–5 · Deuteronomy 12:31 · Judges 11:29–40 · 2 Kings 3:26–27 · Jeremiah 7:31 · Ezekiel 20:25–26 · Micah 6:6–8 |
+| [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 |

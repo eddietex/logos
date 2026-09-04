@@ -12,8 +12,11 @@ tags: [connection]
 - **Genesis 18:18** — *"all the **nations** of the earth will be blessed in him"*, with *gôyim* for
   12:3's *families* and *bô* for its *through you* — and spoken by God to himself, as the reason for
   telling Abraham about Sodom. See [[The Three Visitors and Abraham's Intercession]].
-- **Genesis 22:18; 26:4; 28:14** — the same clause restated to Abraham a third time, to Isaac, and to
-  Jacob *(not yet ingested)*
+- **Genesis 22:18** — *"All the nations of the earth will be blessed by your offspring, because you
+  have obeyed my voice"*: the fifth and final restatement to Abraham, now *the nations* rather than
+  *the families*, now running through the offspring rather than through him, and now grounded in
+  obedience. See [[The Binding of Isaac]].
+- **Genesis 26:4; 28:14** — the same clause restated to Isaac and to Jacob *(not yet ingested)*
 - **Genesis 10:5, 18, 20, 31, 32** — *mišpəḥōt*, the families of the nations —
   [[The Table of Nations]]
 - **Psalm 72:17** — *"men shall be blessed by him. All nations will call him blessed"*, of the king

@@ -33,6 +33,9 @@ tags: [connection]
   and *"He destroys the blameless and the wicked."*
 - **Romans 3:5–6** — *"Is God unrighteous who inflicts wrath? … For then how will God judge the
   world?"*
+- **Genesis 22:1–3** — the same man, four chapters later, given a command about his own son and
+  saying nothing at all. **The Bible's first advocate does not argue when the case is his**, and
+  Genesis offers no account of the difference. See [[The Binding of Isaac]].
 
 ## Analysis
 

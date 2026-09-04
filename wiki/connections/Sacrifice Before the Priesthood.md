@@ -14,8 +14,12 @@ tags: [connection]
   every round of their feasting, *"continually"*.
 - **Genesis 12:7–8** — Abram's altars at Shechem and by Bethel, with no offering mentioned at either
   — [[The Call of Abram]]
-- **Genesis 13:18; 22:1–19; 31:54; 35:1–7** *(not yet ingested)* — the rest of the patriarchs'
-  altars.
+- **Genesis 13:18** — Abram's third altar, at the oaks of Mamre, again with nothing said to be
+  offered on it — [[Abram and Lot Separate]]
+- **Genesis 22:9, 13** — the altar on Moriah, and the ram offered on it *"instead of his son"*: the
+  first burnt offering in Genesis since Noah's, and the only one the Abraham cycle completes —
+  [[The Binding of Isaac]]
+- **Genesis 31:54; 35:1–7** *(not yet ingested)* — the rest of the patriarchs' altars.
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.

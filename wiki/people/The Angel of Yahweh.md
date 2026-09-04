@@ -131,6 +131,29 @@ He comes to the same woman a second time, and almost nothing about the appearanc
 times about the same boy. See [[The Birth of Isaac and the Sending of Hagar]] and
 [[The Two Flights of Hagar]].
 
+### In this pericope — Genesis 22:11–18
+
+**He speaks twice, both times *out of the sky*, and the second speech contains the sharpest form of
+the identity problem in the book.**
+
+- **He is *malʾak YHWH* again** — Yahweh's angel, as in chapter 16, after chapter 21's *angel of
+  God*. The switch matches the chapter's own: the command is *ʾĕlōhîm*'s, the rescue is Yahweh's.
+- **He stops something, which he does nowhere else in Genesis.** Every other appearance announces,
+  commands, promises, rescues, or destroys; only here does he interrupt an act already in progress,
+  and the doubled vocative *"Abraham, Abraham!"* is the signal.
+- **The seam, first person and third, one clause apart.** *"For now I know that you fear God, since
+  you have not withheld your son, your only son, **from me**"* (22:12). The speaker is the angel and
+  the *me* is God — reading 2 of the table above, in its most explicit Genesis instance.
+- **And then he swears as God, with a prophet's formula.** *"I have sworn by myself, says Yahweh"*
+  (22:16). *Nəʾum YHWH* — the standing signature of Amos, Isaiah, Jeremiah, and Ezekiel — occurs
+  **once in Genesis, here**. The angel is quoting God in the first person while speaking in it, which
+  is as close as the book comes to saying how the alternation works: he speaks as a prophet does, and
+  as more than one.
+- **The three *min-haššāmayim* calls in Genesis are all his, and all within thirty verses**: 21:17
+  over Hagar's son, and 22:11 and 22:15 over Abraham's.
+
+See [[The Binding of Isaac]] and [[I Have Sworn by Myself - The Oath at Moriah]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -144,8 +167,9 @@ times about the same boy. See [[The Birth of Isaac and the Sending of Hagar]] an
 - Calls to Hagar out of the sky in the wilderness of Beersheba — the first voice from heaven in
   Scripture — and speaks of God in the third person and then in the first, one verse apart — Genesis
   21:17–18, [[The Birth of Isaac and the Sending of Hagar]]
-- Calls to Abraham from the sky at the binding of Isaac, twice, and swears by himself — Genesis
-  22:11–18 *(not yet ingested)*
+- Calls to Abraham from the sky at the binding of Isaac, twice; stops the knife, says *"you have not
+  withheld your son… from me"*, and swears in God's own first person with *nəʾum YHWH*, the only
+  occurrence of the prophetic formula in Genesis — Genesis 22:11–18, [[The Binding of Isaac]]
 - Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6
 - Goes before Israel in the wilderness, with the warning *"my name is in him"* — Exodus 23:20–23
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
@@ -168,6 +192,8 @@ times about the same boy. See [[The Birth of Isaac and the Sending of Hagar]] an
   times, sent by Yahweh in 19:13 and speaking as Yahweh in 19:21
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:17–18; as *the angel of God*, calling
   out of the sky for the first time in Scripture, to the only person in Genesis he comes to twice
+- [[The Binding of Isaac]] — Genesis 22:11–18; the only time in Genesis he stops an act rather than
+  starting one, and the only time anyone in the book says *nəʾum YHWH*
 
 ## Related people
 

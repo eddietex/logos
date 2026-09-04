@@ -10,8 +10,8 @@ tags: [connection]
 - **Genesis 12:1** — *"Leave your country, and your relatives, and your father's house, and go to the
   land that I will show you."* — [[The Call of Abram]]
 - **Genesis 22:2** — *"Now take your son, your only son, whom you love, even Isaac, and go into the
-  land of Moriah. Offer him there for a burnt offering on one of the mountains which I will tell you
-  of."* *(not yet ingested)*
+  land of Moriah. Offer him there as a burnt offering on one of the mountains which I will tell you
+  of."* — [[The Binding of Isaac]]
 - **Genesis 12:4** — *"So Abram went, as Yahweh had told him."*
 - **Genesis 22:3** — *"Abraham rose early in the morning, and saddled his donkey."*
 - **Hebrews 11:8, 17–19** — the two obediences, treated as one argument
@@ -36,6 +36,8 @@ thousand pages is used at the two ends of one life.
 | Structure of the loss | three ablatives, narrowing | four appositions, narrowing |
 | Destination | *"the land that I will show you"* | *"one of the mountains which I will tell you of"* |
 | Response | *"So Abram went"* — no reply, no question | *"Abraham rose early in the morning"* — no reply, no question |
+
+The left column is [[The Call of Abram]]; the right is [[The Binding of Isaac]].
 
 Both commands strip a man of the thing that makes a future possible: first everything behind him,
 then the one thing in front of him. Both withhold the destination and supply it later. Both are

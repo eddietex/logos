@@ -16,7 +16,7 @@ tags: [connection]
 - **Genesis 18:18** — *"Abraham will surely become a great and mighty nation"*, the promise in its
   unquantified form, quoted by God to himself. See [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 22:17** — *"I will multiply your offspring greatly like the stars of the heavens, and
-  like the sand which is on the seashore."*
+  like the sand which is on the seashore."* See [[The Binding of Isaac]].
 - **Genesis 26:4** (to Isaac) — *"I will multiply your offspring as the stars of the sky."*
 - **Genesis 28:14** (to Jacob) — *"Your offspring will be as the dust of the earth, and you will
   spread abroad to the west, and to the east, and to the north, and to the south."*

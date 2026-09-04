@@ -123,6 +123,9 @@ speeches; each becomes a linked passage page as it is ingested.
   being he has and asserts a kinsman anyway.
 - [[Zophar's Second Speech]] — described again without being named, and offered, this time, no way
   back.
+- [[The Binding of Isaac]] — not in the chapter, and its closest structural relative: Genesis 22 and
+  Job 1–2 are the Bible's two narratives in which the reader is told the test and the man is not, and
+  *"you fear God"* is said of both men.
 
 ## Related people
 

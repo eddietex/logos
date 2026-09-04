@@ -194,6 +194,16 @@ costly.
   by one of the families of the earth: a foreign king infers divine favour from visible prosperity,
   and acts on the inference. The phrase then carries the whole Joseph narrative (39:2, 3, 21, 23) and
   Isaac's own treaty (26:28)
+- [[The Binding of Isaac]] — Genesis 22:17–18, the blessing's **fifth and final statement to
+  Abraham**, and the last words God speaks to him in the Bible: *"I will bless you greatly, and I
+  will multiply your offspring greatly like the stars of the heavens, and like the sand which is on
+  the seashore."* Three things are new. It is now **sworn** rather than promised; it adds **sand** to
+  dust and stars, and a **gate** — *"Your offspring will possess the gate of his enemies"*, the first
+  military content the promise has ever had; and the blessing of the nations now runs *"by your
+  offspring"* rather than through Abraham himself, and reaches *the nations of the earth* rather than
+  *the families*. **The promise is handed to the next generation in the same breath that nearly ended
+  it.** See [[All the Families of the Earth - Genesis 12.3 in the New Testament]] and
+  [[Dust, Stars, and Sand - The Offspring Promises]]
 
 ## Related themes
 

@@ -98,6 +98,9 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   where you are traveling, all the land of Canaan, for an everlasting possession."* *ʾĂḥuzzat ʿôlām*
   is the legal term for a permanent inherited holding, and the same sentence calls him a traveller in
   it. The land is named in full — *all the land of Canaan* — for the first time in a promise
+- [[The Binding of Isaac]] — Genesis 22:1–19, crossed for three days by a man carrying the fire for
+  his son's pyre, to a region of it — *the land of Moriah* — that the Torah names nowhere else and
+  that Chronicles will identify with the temple mount
 
 ## Related places
 

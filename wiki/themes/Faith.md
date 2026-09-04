@@ -109,6 +109,17 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   after both parents have laughed at it. Romans 4:19–21 and Hebrews 11:11–12 build their whole
   account of Abraham's faith on this verse's arithmetic, and Genesis itself makes nothing of the
   laughing — it names the child after it
+- [[The Binding of Isaac]] — Genesis 22, **the theme's other pole, and the reason the New Testament
+  argues about it.** At 15:6 faith is believing a promise; at 22 it is handing the promise back, and
+  the word *heʾĕmin* is not used at all. Genesis reports the acts and no interior: he rises early,
+  splits the wood, walks three days, and says *"We will worship, and come back to you"* and *"God
+  will provide himself the lamb"* — two sentences that are either evasions or the reasoning Hebrews
+  11:19 supplies, *"concluding that God is able to raise up even from the dead"*, which is the only
+  account of Abraham's mind anywhere in Scripture and is offered as an inference. **James 2:21–23
+  quotes 15:6 as *fulfilled* by chapter 22; Romans 4 quotes 15:6 at length and never mentions
+  Moriah.** The seam they are arguing over is in Genesis before either of them: 22:16–18 grounds the
+  promise in *"because you have obeyed my voice"*, where 15:17 had God walk between the pieces alone.
+  See [[The Binding of Isaac in the New Testament]] and [[Testing]]
 
 ## Related themes
 

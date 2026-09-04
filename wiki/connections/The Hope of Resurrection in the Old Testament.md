@@ -34,6 +34,10 @@ tags: [connection]
 - **1 Corinthians 15:12–57** — the doctrine at full extension
 - **Hebrews 11:19, 35** — Abraham reasoning that God could raise the dead, and those who *"were
   tortured, not accepting their deliverance, that they might obtain a better resurrection"*
+- **Genesis 22:5, 8** — *"We will worship, and come back to you"* and *"God will provide himself the
+  lamb"*: the two sentences Hebrews 11:19 is accounting for, and the earliest place in the canon
+  anyone has read a resurrection hope into — though Genesis itself says nothing of the kind and the
+  reasoning is supplied by the letter. See [[The Binding of Isaac]].
 
 ## Analysis
 

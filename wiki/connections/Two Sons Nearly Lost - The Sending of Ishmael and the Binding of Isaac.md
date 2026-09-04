@@ -13,7 +13,7 @@ tags: [connection]
   [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 22:1–19** — God demands the offering; Abraham rises early, loads the donkey, and goes;
   the wood is laid on Isaac; the knife is raised; Yahweh's angel calls out of the sky; Abraham lifts
-  his eyes and sees a ram; the boy lives and the promise is sworn.
+  his eyes and sees a ram; the boy lives and the promise is sworn. See [[The Binding of Isaac]].
 
 ## Analysis
 

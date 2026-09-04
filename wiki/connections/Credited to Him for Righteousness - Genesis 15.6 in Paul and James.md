@@ -22,6 +22,9 @@ tags: [connection]
 - **Galatians 3:6–9** — 15:6 quoted, and *"those who are of faith are children of Abraham."*
 - **James 2:21–24** — 15:6 quoted, and *"you see that a man is justified by works, and not only by
   faith."*
+- **Genesis 22:16–18** — the seam James is standing on: the same promises, now grounded in *"because
+  you have done this thing"* and *"because you have obeyed my voice."* See [[The Binding of Isaac]]
+  and [[I Have Sworn by Myself - The Oath at Moriah]].
 - **Hebrews 11:8–12, 17–19** — Abraham's faith narrated across the whole cycle, with the binding as
   its climax and no use of the crediting formula at all.
 

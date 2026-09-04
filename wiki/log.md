@@ -3528,3 +3528,128 @@ push had landed and only the local ref was stale. `git checkout main && git merg
 origin/main` moved the branch onto HEAD **before** any work, so this ingest was committed on `main`
 rather than on a detached HEAD. Eight consecutive runs have now started detached, and it still wants
 the user's attention as an environment quirk rather than a one-off.
+
+## [2026-09-04] ingest | Genesis 22.1-19 — The Binding of Isaac
+
+Unattended run (`/ingest auto`, no target). Resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and 22:1–19 was the first unchecked box on its page.
+Step 2's discussion is written into the passage page rather than spoken, per the skill's `auto`
+mode. `raw/bible/Genesis.md` was already present; no fetch.
+
+**Created (8).** `wiki/passages/Genesis/The Binding of Isaac.md`; `wiki/places/Moriah.md`;
+`wiki/themes/Testing.md`; and five connection pages — `The Binding of Isaac in the New Testament`,
+`Yahweh Will Provide - Moriah and the Temple Mount`,
+`The Ram Instead of the Son - Substitution at Moriah`,
+`Child Sacrifice and the Redemption of the Firstborn`, and
+`I Have Sworn by Myself - The Oath at Moriah`.
+
+**Revised (40).** `books/Genesis` (box checked; the Abraham-cycle overview extended through 22:19);
+`books/index` (28 / 58); `index` (counts: 34 passages, 65 people, 41 places, 49 themes, 92
+connections); `people/Abraham`, `people/Isaac`, `people/God`, and `people/The Angel of Yahweh` (each
+with a new pericope section, timeline entries, and appears-in additions); `people/Sarah` (an
+off-stage section on being the one member of the household given not even an evasion),
+`people/Ishmael`, `people/Hagar`, and `people/Job (person)` (off-stage entries); `places/Beersheba`,
+`places/Canaan`, `places/Salem`; themes `The Fear of God`, `Sacrifice and Offering`, `Faith`,
+`Covenant`, `Blessing`, `Seeing and Being Seen`, `Life and Death`, `Call and Election`,
+`Land and Sojourning`, `Prophecy and Vision`, `Oaths and Vows`, `The Names of God`, and `Suffering`;
+connections `Leave Your Country - The Two Lek-Lekha Commands`,
+`Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac`,
+`Dust, Stars, and Sand - The Offspring Promises`,
+`All the Families of the Earth - Genesis 12.3 in the New Testament`,
+`Credited to Him for Righteousness - Genesis 15.6 in Paul and James`,
+`Sacrifice Before the Priesthood`, `The Hope of Resurrection in the Old Testament`,
+`Shall Not the Judge of All the Earth Do Right`, and
+`Gibeah and Sodom - Judges 19 as a Retelling`; and the people, places, themes, and connections
+indexes.
+
+### Judgment calls made without asking
+
+1. **The pericope was kept whole at 22:1–19, and the second angelic speech was not split off.**
+   15–18 has no setting of its own and reads as the chapter's conclusion, even though the doubled
+   call is one of the standard source-critical seams. 22:20 opens *"After these things"* again and
+   turns to Nahor's genealogy, which the plan already attaches to Sarah's burial. **No unchecked
+   boxes were redrawn.**
+2. **The moral problem is stated and left open, with four readings recorded and none adopted** —
+   polemic against child sacrifice, a real test with an open outcome, Kierkegaard's suspension of
+   the ethical, and Kant's rejection of the voice. The wiki's rule here was to name the gap before
+   naming the filling, which is also how Auerbach's *fraught with background* is used on the page:
+   as a description of the technique, not as a resolution.
+3. ***"Now I know that you fear God"* is filed with the other three places Genesis narrates God as
+   finding out** (3:9; 11:5; 18:21). Relational knowing, covenant-legal demonstration, and the book
+   meaning it are all recorded on `people/God` and the passage page; none is adopted. This is the
+   fourth time the wiki has met this and the fourth time it has declined to settle it.
+4. **The seam between Genesis 15 and Genesis 22:16–18 is written up as a genuine tension, not an
+   appearance.** 15:17 has God walk between the pieces alone while Abram sleeps and undertakes
+   nothing; 22:16–18 grounds the same promises in *"because you have done this thing"* and
+   *"because you have obeyed my voice"*, and 26:5 repeats it. Ratification-not-ground, reward-beside-
+   covenant, and Genesis-holds-both are all stated on `themes/Covenant`,
+   `I Have Sworn by Myself - The Oath at Moriah`, and the passage page. Paul and James are recorded
+   as taking opposite sides of a seam the Old Testament put there first.
+5. **Four new pages were judged to earn their place; two candidates were rejected.** `Moriah` is
+   created because the name is a genuine crux with a textual variant behind it (Samaritan *Moreh*)
+   and a single-verse identification in front of it (2 Chronicles 3:1). `Testing` is created because
+   *nissâ* enters Scripture here and because the wiki already has Job ingested, which gives the theme
+   two anchors rather than one. The five connection pages divide the chapter's downstream material
+   along lines that do not overlap: New Testament use, the mountain, substitution, child sacrifice
+   and the firstborn law, and the oath. **Rejected:** a separate *Akedah in Jewish tradition* page,
+   because the midrashic material is load-bearing in three places and thin on its own; and an
+   *Obedience* theme, because Genesis 22:18's *"because you have obeyed my voice"* is already the
+   subject of `Covenant` and `Faith` and would split the argument in half. That rejection is noted
+   on `themes/Testing` in place of a link.
+6. **No person page was created.** The two servants are unnamed and appear in three verses; the
+   passage page treats them as the device that clears the stage of witnesses, and `naʿar` is
+   discussed on `people/Isaac` because it bears on his age.
+7. **Isaac's age is stated as unrecoverable.** The rabbinic thirty-seven (from placing Moriah
+   immediately before 23:1) and Josephus's twenty-five are recorded as inferences. The wiki says
+   only what the text supplies: he could carry the wood, and no struggle is reported.
+8. **Isaac's absence from 22:19 is recorded as an omission with a plain explanation and a famous
+   one.** The plural *"they rose up and went together"* naturally includes him and 24:62 has him
+   alive; the midrashic reading that he died and was revived is named as tradition and explicitly
+   not supported. What is asserted flatly is the checkable fact: he and Abraham share no further
+   scene in Genesis.
+9. **Two Christian typological readings are marked as readings.** The son carrying the wood (Melito,
+   Irenaeus) is attributed to the second century and to the picture rather than the verse; the
+   *lamb* of 22:8 against the *ram* of 22:13 is given both a plain reading (God provides other than
+   what was asked) and the thread reading (John 1:29), with the note that the noun genuinely changes
+   between the two verses.
+
+### Quote accuracy
+
+The 38 block-quoted verses on the passage page were extracted by script and compared whole against
+`raw/bible/Genesis.md`: **all 38 verbatim, no mismatches.** Every italic-quoted span added anywhere
+this pass (70 spans across 48 files, checked against the added lines of the diff rather than whole
+files) was then extracted and checked the same way: **all Genesis spans verbatim.** Five spans were
+flagged and are not errors — two are Hebrews 11:19, and three use the wiki's standing conventions
+for an ellipsis inside a quotation or bold emphasis inside one.
+
+**One pre-existing quotation error was corrected.** `Leave Your Country - The Two Lek-Lekha Commands`
+had Genesis 22:2 as *"Offer him there **for** a burnt offering"*; the WEB reads *"as a burnt
+offering"*. The page had been written before this pericope was ingested, which is exactly the
+circumstance in which a forward-quoted verse goes unchecked.
+
+Quotations of Exodus, Leviticus, Numbers, Deuteronomy, Judges, 1 Samuel, 2 Kings, 2 Chronicles,
+Psalms, Proverbs, Isaiah, Jeremiah, Ezekiel, Hosea, Micah, Matthew, Mark, Luke, John, Acts, Romans,
+Galatians, Hebrews, James, and 1 Peter remain unverifiable against any source in this repo, as
+elsewhere in the wiki. External and non-textual claims — the hapax status of *ʿāqad*, the four
+occurrences of *maʾăkelet*, the Septuagint's *ἀγαπητός* and *οὐκ ἐφείσω*, the Samaritan Pentateuch's
+*Moreh*, the *ʾaḥar*/*ʾeḥād* variant at 22:13, Josephus's twenty-five, *Genesis Rabbah*, Melito and
+Irenaeus, Auerbach, and Kierkegaard — are stated as attributions or proposals rather than findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 23; 24; 25; 26; 28; 31; 35; 46) are written as plain scripture references or carry
+an explicit *(not yet ingested)* marker. Seven stale *(not yet ingested)* markers for this pericope
+were cleared, on `people/Isaac`, `people/The Angel of Yahweh`, `places/Beersheba`,
+`themes/Call and Election`, `themes/The Names of God`, `themes/Sacrifice and Offering`, and
+`connections/Sacrifice Before the Priesthood` — the last of which also had Genesis 13:18 sitting
+behind a stale marker, now split out and linked to `Abram and Lot Separate`.
+
+**Note on branch state.** The ninth run in a row to start on a **detached HEAD**, this time at
+`6b73f73` with a clean tree and the local `main` ref stale at `ee8f435`, fifteen commits behind.
+`git fetch origin main` showed `origin/main` already at `6b73f73` — the previous run's push had
+landed and only the local ref was stale — so `git checkout main && git merge --ff-only origin/main`
+moved the branch onto HEAD before any work, and this ingest was committed on `main`. Nine
+consecutive runs have now started detached; it is an environment quirk rather than a one-off and
+still wants the user's attention.

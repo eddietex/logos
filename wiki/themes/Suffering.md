@@ -14,8 +14,9 @@ once:
   Galatians 6:7. Real, and the account most often misapplied.
 - **Suffering as discipline** — Deuteronomy 8:5, Proverbs 3:11–12, Hebrews 12:5–11. Also real, and
   the one [[Eliphaz the Temanite]] offers in his first speech (Job 5:17) before withdrawing it.
-- **Suffering as test** — Genesis 22, Deuteronomy 8:2, and the prologue of Job. This is the one the
-  reader of Job is given and the characters are not.
+- **Suffering as test** — [[The Binding of Isaac]], Deuteronomy 8:2, and the prologue of Job. This is
+  the one the reader of Job is given and the characters are not; Genesis 22:1 does the same thing in
+  four words, and never lets Abraham in on it. See [[Testing]].
 - **Suffering as vicarious** — Isaiah 53, and the whole New Testament reading of the cross.
 - **Suffering as unexplained** — Psalm 88, which ends *"darkness is my closest friend"*, and much of
   Job. Scripture leaves these standing without resolution, and that is itself a position.

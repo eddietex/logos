@@ -125,7 +125,9 @@ everlasting possession, by treaty with its current occupant.
   covenant and the land. The verse also holds *Yahweh* and an *ʾĒl* title together in one clause,
   which is Exodus 6:3's problem again in miniature. See [[The Treaty at Beersheba]] and
   [[The Everlasting God - El Olam in Genesis and Isaiah]]
-- Genesis 22:14 — *Yhwh Yirʾeh*, which names a *place* rather than God *(not yet ingested)*
+- [[The Binding of Isaac]] — Genesis 22:14, *Yhwh Yirʾeh*, which names a **place** rather than God,
+  and does it in the verb the whole chapter is built on; the same pericope divides *ʾĕlōhîm* (the
+  command) from *YHWH* (the rescue) along a clean line, and contains the only *nəʾum YHWH* in Genesis
 - Exodus 3:13–15 — I AM
 - Exodus 6:2–3 — the name not known to the fathers
 - Exodus 20:7; Leviticus 19:12 — guarding the name

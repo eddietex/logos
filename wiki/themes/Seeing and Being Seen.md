@@ -93,6 +93,15 @@ will finally go both ways.
   who named God *a God who sees* is the one person in Scripture whose own seeing God has to repair**,
   and the same mechanism saves the other son one chapter later, when Abraham *lifts up his eyes* and
   sees the ram (22:13)
+- [[The Binding of Isaac]] — Genesis 22, **the theme's densest chapter and the one that turns it into
+  a name.** *Rāʾâ* five times in fourteen verses: Abraham sees the place far off (22:4); *"God will
+  provide himself the lamb"* — *yirʾeh-lô*, God will **see** to it (22:8); Abraham lifts his eyes and
+  sees the ram (22:13); the place is called *YHWH yirʾeh*, **Yahweh sees**; and the proverb closes in
+  the passive, *"On Yahweh's mountain, it will be provided"* — *yērāʾeh*, the same consonants,
+  readable also as *he will appear*, which is the technical term for pilgrimage (Exodus 23:17).
+  **Providing is what seeing means when God is the subject**, and English *provide* keeps the same
+  metaphor (*pro-videre*). Nothing is created in the rescue: the ram was in the thicket, exactly as
+  the well was in the desert. See [[Yahweh Will Provide - Moriah and the Temple Mount]]
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

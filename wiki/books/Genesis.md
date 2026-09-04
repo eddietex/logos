@@ -160,7 +160,28 @@ even fratricidal betrayal into rescue (Joseph).
   which is the covenant's own adjective from chapter 17 turned back on its maker. The last verse
   before the binding says he *"lived as a foreigner in the land of the Philistines many days"*: the
   promised land held by permission, the promise unmentioned in the negotiation, and a slow tree in
-  ground he has just conceded is not his.
+  ground he has just conceded is not his. And then the calm ends in four words. In
+  *[[The Binding of Isaac]]* God asks for the son the whole book has been waiting on, and the reader
+  is told in the first verse what Abraham is never told at all: *"After these things, God tested
+  Abraham"* — *nissâ*, the Bible's first test, disclosed to us and withheld from him, exactly as the
+  prologue of Job is withheld from Job. The command repeats the *lek-ləkā* of 12:1, the only other
+  one in the Bible, and narrows in four appositions — *"your son, your only son, whom you love, even
+  Isaac"* — a sentence that became sayable only when the other son was sent away in the previous
+  chapter, and which contains the first occurrence of the verb **love** in Scripture. The man who
+  argued God down from fifty to ten for a city of strangers says nothing at all for his own son: he
+  rises early, splits the wood before he leaves, and walks three days. On the way up he and Isaac
+  have the only conversation they ever have in the Bible, and the boy's one line is a question about
+  the missing animal — *"where is the lamb for a burnt offering?"* — answered with the sentence the
+  whole chapter turns on, *"God will provide himself the lamb"*, in a verb (*rāʾâ*, to see) that
+  Genesis conjugates five times in fourteen verses. Then an altar, wood laid in order, and *"bound
+  Isaac his son"* — *ʿāqad*, a word the Hebrew Bible uses exactly once, which is why the episode is
+  called the *Akedah*. The knife is stopped by a voice out of the sky, the third such voice in the
+  book and all three within thirty verses; a ram is offered *"instead of his son"*, the Bible's first
+  substitution; the place is named *Yahweh Will Provide*, in consonants that also read *he will
+  appear*, and 2 Chronicles 3:1 will put the temple on a hill of that name. Then God swears — the
+  only oath he swears by himself in Genesis — and grounds the promise, for the first time, in
+  something Abraham did: *"because you have obeyed my voice."* It is the last thing God says to
+  Abraham in the book. Abraham goes back down to his servants, and Isaac is not in the verse.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -202,7 +223,7 @@ merge, or reorder them freely.
 - [x] [[Abraham and Abimelech]] — Genesis 20:1–18
 - [x] [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21
 - [x] [[The Treaty at Beersheba]] — Genesis 21:22–34
-- [ ] The Binding of Isaac — Genesis 22:1–19
+- [x] [[The Binding of Isaac]] — Genesis 22:1–19
 - [ ] Nahor's Line and the Burial of Sarah — Genesis 22:20–23:20
 - [ ] A Wife for Isaac — Genesis 24:1–67
 - [ ] The Death of Abraham and the Line of Ishmael — Genesis 25:1–18

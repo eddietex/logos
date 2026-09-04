@@ -198,6 +198,13 @@ the rest of the canon.
   child."* Nothing in the scene is metaphorical, and the reprieve is a well she had not noticed. It
   is the closest Genesis comes to a child's death before the knife of 22:10, and the two rescues are
   built the same way
+- [[The Binding of Isaac]] — Genesis 22:10, *"Abraham stretched out his hand, and took the knife to
+  kill his son"*: the promised life on an altar, put there by the man it was promised to and at the
+  demand of the God who promised it. **It is the only place in Scripture where the threat to the
+  covenant is the covenant's own author**, and the reprieve substitutes an animal — *"instead of his
+  son"* — rather than removing the demand. Hebrews 11:19 reads Abraham's reasoning as the Old
+  Testament's earliest reach toward resurrection, and reads it as an inference the text does not
+  make. See [[The Hope of Resurrection in the Old Testament]]
 ## Related themes
 
 - [[Creation]]

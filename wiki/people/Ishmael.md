@@ -166,6 +166,8 @@ son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Be
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:8–21; expelled over one ambiguous
   participle, never named in the thirteen verses that remove him, heard without speaking, promised a
   great nation from the sky, and the first person in Genesis of whom it is said that God was with him
+- [[The Binding of Isaac]] — Genesis 22:2; off-stage, and named by his absence: *"your son, your only
+  son"* is a sentence that becomes true only once he has been sent away
 
 ## Related people
 

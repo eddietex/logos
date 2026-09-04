@@ -152,6 +152,9 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
   of water, put back into a sentence by God after both her owners had left her out of it, addressed
   by name from the sky, given eyes for a well that was already there, and left free in a wilderness
   of her own with a son and a daughter-in-law
+- [[The Binding of Isaac]] — Genesis 22:1–19; off-stage, and the other parent in Genesis answered by
+  a voice out of the sky over a dying son, eighteen verses earlier and by the same mechanism — eyes
+  lifted to something that was already there
 
 ## Related people
 

@@ -11,6 +11,9 @@ tags: [connection]
 - Judges 19:11–30 — the Levite at Gibeah: the same scene, in Israel, with no angels in it
 - Judges 20–21 — the war it causes, and the near-extinction of Benjamin
 - Hosea 9:9; 10:9 — *"the days of Gibeah"*, the prophets' shorthand for it
+- Genesis 22:6, 10; Judges 19:29 — *maʾăkelet*, the slaughtering knife: the Bible uses the word in
+  exactly two narratives, and the blade is stopped in only one of them. See
+  [[The Binding of Isaac]]
 
 ## Analysis
 

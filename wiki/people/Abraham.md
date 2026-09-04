@@ -463,10 +463,70 @@ foreigner. See [[The Treaty at Beersheba]],
 *"Abraham lived as a foreigner in the land of the Philistines many days."* That is the last thing
 Genesis says about him before *"After these things, God tested Abraham"*.
 
+### In this pericope — Genesis 22:1–19
+
+**He is tested, and he is the only person in the chapter who does not know that he is.**
+
+The narrator tells the reader in four words — *"After these things, God tested Abraham"* — and never
+tells him, not before, not during, and not after: the angel says *"now I know that you fear God"*,
+which explains the result and not the frame. **Every reading of Abraham in this chapter has to be
+made without the information the reader has.** See [[Testing]].
+
+**He says nothing about the command.** Not a question, not an objection, not the word *why*. This is
+the man who talked God down from fifty to ten over a city of strangers four chapters earlier
+(18:23–33), and who had argued at length with a foreign king about his own reasoning (20:11–13).
+**Genesis gives him a hundred and thirty words of argument for Sodom and none for his son**, and does
+not say whether that is obedience, resignation, or a man who has learned what arguing is for. The
+wiki flags the silence and does not fill it. See
+[[Shall Not the Judge of All the Earth Do Right]].
+
+**What he does instead is get up early and prepare.** *"Abraham rose early in the morning"* is
+verbatim the clause that opened the expulsion of Ishmael eight verses earlier (21:14) — twice in two
+chapters, both times followed by a son being handed over. And he **splits the wood before he leaves**,
+for a fire three days away in a country full of trees: the one part of the task that can be done in
+the dark, and the closest the chapter comes to telling us about the night before.
+
+**He says two things on the way that he cannot both mean.** *"We will worship, and come back to
+you"* (22:5), first person plural, to the servants; and *"God will provide himself the lamb for a
+burnt offering, my son"* (22:8), to Isaac. Either these are what a man says when he cannot say the
+true thing, or they are the reasoning Hebrews 11:19 attributes to him — *"concluding that God is
+able to raise up even from the dead"* — which is the only account of his state of mind anywhere in
+Scripture and is offered there as an inference, not a report. **The wiki records both and adopts
+neither.**
+
+**He answers *"Here I am"* three times, to three different speakers** — to God (22:1), to Isaac
+(22:7), and to the angel (22:11) — and the middle one is spoken to a boy asking where the animal is.
+
+**He builds, lays in order, binds, lays, stretches out his hand, and takes the knife**, in the
+procedural grammar of Leviticus 1, with his son in the place of the offering. The knife is
+*maʾăkelet*, a word the Bible uses four times, two of them in this chapter and one of them in Judges
+19. **He is stopped by a voice out of the sky, the third in the book and the second over one of his
+sons in two chapters.**
+
+***"For now I know that you fear God"*** — and it is the answer to his own worst line. At 20:11 he
+had excused the Gerar lie by saying *"Surely the fear of God is not in this place"*, of a city that
+turned out to be full of it. **The one man in Genesis told by God that he fears God is the man who
+had used the phrase to excuse himself.** See [[The Fear of God]].
+
+**He names the place, and he is the third patriarchal namer of a divine thing in three chapters** —
+after *ʾĒl ʿÔlām* at 21:33 and Hagar's *ʾĒl Rŏʾî* at 16:13. *Yahweh Will Provide*, from the verb he
+had used to Isaac, and the naming turns his own evasive answer into a confession. See
+[[Yahweh Will Provide - Moriah and the Temple Mount]].
+
+**And what he receives is an oath.** The promises of 12:2–3, 13:16, 15:5, and 17 are restated one
+last time, now sworn — *"I have sworn by myself, says Yahweh"* — with sand added to dust and stars,
+a gate promised to his offspring, and the whole thing grounded in what he did: *"because you have
+obeyed my voice."* **It is the last thing God says to him in the Bible.** See
+[[I Have Sworn by Myself - The Oath at Moriah]].
+
+**He goes back down to [[Beersheba]] and the chapter does not mention Isaac coming with him.** He and
+his son never speak to each other again in Scripture, and they share no further scene. Genesis
+records whatever Moriah cost as distance, and never as a word.
+
 ### Where the rest of him is
 
-Much of what the Bible says about Abraham is still ahead of this page:
-the binding (22), and his death and burial at Machpelah (25). The New Testament
+Much of what the Bible says about Abraham is still ahead of this page: Sarah's burial at Machpelah,
+the wife fetched for Isaac, and his own death (23–25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
 it (Galatians 3:8). This page grows as those arrive.
@@ -560,6 +620,16 @@ it (Galatians 3:8). This page grows as those arrive.
 - Plants a tamarisk at Beersheba and calls on the name of Yahweh, *ʾĒl ʿÔlām*, the Everlasting God —
   Genesis 21:33
 - Lives as a foreigner in the land of the Philistines many days — Genesis 21:34
+- Tested by God, and told to offer Isaac as a burnt offering in the land of Moriah — Genesis 22:1–2,
+  [[The Binding of Isaac]]
+- Rises early, splits the wood, and walks three days without a recorded word — Genesis 22:3–4
+- Tells the servants *"We will worship, and come back to you"*, and Isaac that God will provide the
+  lamb — Genesis 22:5, 8
+- Builds the altar, binds his son, and takes the knife — Genesis 22:9–10
+- Stopped by Yahweh's angel; told *"now I know that you fear God"* — Genesis 22:11–12
+- Offers a ram *"instead of his son"* and names the place *Yahweh Will Provide* — Genesis 22:13–14
+- Given God's only self-sworn oath in Genesis, grounded in his obedience — Genesis 22:15–18
+- Returns to Beersheba and lives there — Genesis 22:19
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -596,6 +666,10 @@ it (Galatians 3:8). This page grows as those arrive.
   deal falsely, he agrees in two words, then lodges the first complaint of his life, pays for the
   treaty, sets out seven lambs as evidence, plants the only tree any patriarch plants, and names God
   *the Everlasting God* one verse before the narrator calls him a foreigner
+- [[The Binding of Isaac]] — Genesis 22:1–19; tested without being told, silent where he had argued
+  for strangers, three days on the road with the wood he split before dawn, three answers of *"Here I
+  am"*, a knife stopped from the sky, a ram offered instead of his son, and God's only self-sworn
+  oath — the last words God speaks to him in the Bible
 
 ## Related people
 
@@ -654,3 +728,5 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Hospitality]]
 - [[Mediation and Advocacy]]
 - [[Judgment]]
+- [[Testing]]
+- [[The Fear of God]]

@@ -641,6 +641,49 @@ capacities.
 sworn by, and given a name that will never be used again — and says nothing. The next verse is
 *"After these things, God tested Abraham"*. See [[The Treaty at Beersheba]].
 
+### He asks for the son he gave, and says *now I know* — Genesis 22:1–19
+
+**He does the hardest thing he does in Genesis, and the narrator frames it before he speaks.** *"After
+these things, God tested Abraham"* — *nissâ*, the Bible's first test, and the frame is given to the
+reader and withheld from the man. See [[Testing]].
+
+**The command is *ʾĕlōhîm*'s and the reprieve is *YHWH*'s angel's**, and the chapter divides cleanly
+along that line: God tests, commands, and is credited by Abraham with providing (22:1, 3, 8, 9);
+Yahweh's angel stops the knife and swears the oath (22:11, 15–18). It is one of the standard
+source-critical seams and also, read as it stands, a distribution with a point. **The wiki records
+both and adopts neither.** See [[The Names of God]].
+
+**He asks for the thing he had promised, which is new.** Every previous threat to the promise came
+from outside it — a famine, a Pharaoh, a king of Gerar, a barren womb, a war. **Here the threat is
+the promiser.** He asks for the son he named a year before conception (17:19), dated twice, delivered
+on schedule (21:2), and declared the sole line of the covenant (21:12), and he asks in a sentence
+that begins with the same two words he used to call Abram out of Haran. See
+[[Leave Your Country - The Two Lek-Lekha Commands]].
+
+***"For now I know that you fear God"*** (22:12) is the chapter's stated object and the page's
+standing problem in its sharpest form. **Genesis has a settled habit of narrating God as finding
+out** — *"Where are you?"* (3:9), *"Yahweh came down to see"* (11:5), *"I will go down now, and see"*
+(18:21) — and this is the fourth instance and the most consequential, because a test with a known
+outcome is not a test. The readings on offer: that *know* here is relational rather than
+informational; that it is the covenant's legal idiom, in which a thing is *known* once it has been
+demonstrated and can be pleaded; or that the book means it. **All three are live and none is
+adopted.**
+
+**He provides, and provides something other than what was asked for.** Abraham had said *lamb*
+(*śeh*, 22:8); the thicket holds a **ram** (*ʾayil*, 22:13). And what he provides was already there —
+as the well in 21:19 was already there. **Twice in two chapters, God's rescue consists of somebody
+being made to see what is in front of them.** See [[Seeing and Being Seen]].
+
+**And then he swears, for the only time in Genesis, by himself.** *"I have sworn by myself, says
+Yahweh"* (22:16) — with *nəʾum YHWH*, the prophets' messenger formula, in its only Genesis
+occurrence, spoken by an angel. The content is nothing new: blessing, offspring, and the nations,
+now with *sand* added to dust and stars and a gate promised to the offspring. **What is new is that
+the promise is grounded in something Abraham did** — *"because you have obeyed my voice"* — where at
+15:17 he had walked between the pieces alone while Abram slept. The wiki flags the tension rather
+than resolving it. See [[I Have Sworn by Myself - The Oath at Moriah]] and [[Covenant]].
+
+**These are the last words he speaks to Abraham in the Bible.** See [[The Binding of Isaac]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -779,6 +822,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   man's prosperity, sworn by as the guarantor of the first treaty between two human beings, and given
   a name — *ʾĒl ʿÔlām*, the Everlasting God — that occurs nowhere else in the Bible and that he never
   confirms — [[The Treaty at Beersheba]]
+- Tests a man for the first time in Scripture, asks him for the son he had promised, stops the knife
+  through an angel, provides a ram instead, says *"now I know that you fear God"*, and then swears by
+  himself — the only oath he swears in Genesis, and the last thing he says to Abraham —
+  [[The Binding of Isaac]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -864,6 +911,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   acts, and the one in which he is most talked about: a fact a pagan king has inferred, the sanction
   behind a human oath, and a name (*ʾĒl ʿÔlām*) with no other occurrence in Scripture. Thirteen
   verses of silence, and then *"After these things, God tested Abraham"*
+- [[The Binding of Isaac]] — as the tester, in the Bible's first *nissâ*: he asks for the son he
+  promised, is named *ʾĕlōhîm* through the command and *YHWH* in the rescue, says *"now I know"* of
+  something the reader assumed he knew, provides a ram that was already in the thicket, and swears by
+  himself for the only time in Genesis
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

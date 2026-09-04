@@ -102,10 +102,46 @@ Beersheba also becomes the address the next chapter comes home to — *"So Abrah
 young men, and they rose up and went together to Beersheba. Abraham lived at Beersheba"* (22:19) —
 so the well his father contracts for here is the ground the binding sets out from and returns to.
 
+### In this pericope — Genesis 22:1–19
+
+**He carries the wood, asks one question, and is not mentioned coming down the mountain.**
+
+**He is named four times in the chapter and speaks once.** *"Isaac spoke to Abraham his father, and
+said, 'My father?'… 'Here is the fire and the wood, but where is the lamb for a burnt offering?'"*
+(22:7). **It is the only conversation he and Abraham ever have in the Bible**, and it is an inventory
+question: he has seen a burnt offering prepared before, he knows what is missing, and he asks. The
+reason the line is unbearable is that the reader can answer it and he cannot.
+
+**His age is not given and every number attached to it is inferred.** *Naʿar*, the word used of him
+at 22:5 and 22:12, covers everything from a small child to a man of military age, and the same word
+is used of the two servants left at the bottom of the hill. Josephus makes him twenty-five; the
+rabbinic reckoning that places Moriah immediately before Sarah's death (23:1) makes him thirty-seven.
+**What the text supplies is that he could carry the split wood for a whole burnt offering up a hill**,
+and that a man of over a hundred bound him without any struggle being reported.
+
+**He is bound with a word the Hebrew Bible uses exactly once.** *Wayyaʿăqōd* (22:9) — hence the
+episode's Jewish name, the *Akedah*. Nothing else in Scripture is *ʿāqad*; the verb is otherwise
+attested of tying an animal's legs.
+
+**He does not consent and does not resist, and the text records neither.** The long tradition of a
+willing adult Isaac — offering his own throat, asking to be bound tightly — is filling a silence
+Genesis leaves open, and the wiki says so rather than repeating it.
+
+**And he is missing from the last verse.** *"So Abraham returned to his young men, and they rose up
+and went together to Beersheba"* (22:19). The plural naturally includes him and 24:62 has him alive,
+but the omission is real; it is the only place in the chapter where Genesis drops him, and an old
+strand of midrash filled it by sending him away or by having him die and be revived. **What the text
+does is stop mentioning him.**
+
+**He and his father never speak again.** They share no further scene in Genesis: Sarah is buried
+without him named, his wife is fetched by a servant, and the next verse that holds them both has him
+burying Abraham with Ishmael (25:9). **This is the chapter that makes him the passive centre of his
+own life** — named before conception, circumcised before consent, bound without a word, married by
+proxy — and it is the pattern the wiki has noted on this page from the start. See
+[[The Binding of Isaac]].
+
 ### Where the rest of him is
 
-- **Genesis 22:1–19** — the binding. He carries the wood, asks *"where is the lamb for a burnt
-  offering?"*, is bound and laid on the altar, and does not speak again in the chapter.
 - **Genesis 24** — a wife found for him at his father's instruction, without his presence; he is
   living at [[Beer Lahai Roi]], the well [[Hagar]] named (24:62), and marries Rebekah.
 - **Genesis 25:11** — blessed by God after Abraham's death, and settling again at Beer Lahai Roi;
@@ -135,7 +171,10 @@ so the well his father contracts for here is the ground the binding sets out fro
   Isaac"* — Genesis 21:10, 12
 - Named in the treaty clause his father swears to at Beersheba, *"nor with my son, nor with my son's
   son"* — Genesis 21:23, [[The Treaty at Beersheba]]
-- Bound on the mountain in the land of Moriah — Genesis 22:1–19 *(not yet ingested)*
+- Carries the wood up the mountain in the land of Moriah, asks where the lamb is, and is bound on the
+  altar — Genesis 22:6–10, [[The Binding of Isaac]]
+- Spared when Yahweh's angel calls out of the sky; a ram is offered *"instead of his son"* — Genesis
+  22:11–13
 - Marries Rebekah, brought to him from his father's kindred — Genesis 24:67 *(not yet ingested)*
 - Buries Abraham with Ishmael, and settles at Beer Lahai Roi — Genesis 25:9–11 *(not yet ingested)*
 - Repeats his father's ruse at Gerar, and is given the promise in his own right — Genesis 26
@@ -154,6 +193,9 @@ so the well his father contracts for here is the ground the binding sets out fro
   desert, and made the sole line of the promise in a sentence he is far too young to hear
 - [[The Treaty at Beersheba]] — Genesis 21:23; off-stage and unnamed, and the *son* whose safety the
   treaty is designed to reach, in an obligation he will renew at the same well in Genesis 26
+- [[The Binding of Isaac]] — Genesis 22:1–19; carries the wood he is to be burned on, asks the one
+  question in the chapter, is bound with a word the Bible uses once, and is not mentioned coming back
+  down the mountain
 
 ## Related people
 
@@ -173,3 +215,5 @@ so the well his father contracts for here is the ground the binding sets out fro
 - [[Circumcision]]
 - [[Faith]]
 - [[Land and Sojourning]]
+- [[Sacrifice and Offering]]
+- [[Testing]]

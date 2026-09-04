@@ -130,7 +130,13 @@ the others.
   anyone in the covenant line** — *"God was with the boy"* (21:20), two verses before Abimelech says
   it of Abraham. Genesis separates blessing from covenant here more cleanly than anywhere else, and
   gives no reason for the line it draws
-- Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
+- [[The Binding of Isaac]] — Genesis 22:1–19, the second and last *lek-ləkā*, and the point at which
+  election is asked to give itself back. The line had been fixed one chapter earlier — *"your
+  offspring will be named through Isaac"* (21:12) — and 22:2 asks for Isaac. **The chapter ends by
+  restating the election as an oath and grounding it, for the first time, in obedience**: *"because
+  you have obeyed my voice"* (22:18), against a call at 12:1 that gave no reason and asked for no
+  qualification. See [[Leave Your Country - The Two Lek-Lekha Commands]] and
+  [[I Have Sworn by Myself - The Oath at Moriah]]
 - Exodus 3–4 — the call that is argued with
 - Deuteronomy 7:6–8 — election stated, and its reason declined
 - Isaiah 49:6 — *"a light to the nations, that you may be my salvation to the end of the earth"*

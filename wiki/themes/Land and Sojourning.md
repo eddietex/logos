@@ -160,6 +160,12 @@ where that starts, in a sentence about a family that got halfway.
   patriarchal narratives, on ground he has just conceded is not his, invoking the God whose duration
   runs past the horizon. See [[The Trees of the Patriarchs]] and
   [[The Everlasting God - El Olam in Genesis and Isaiah]]
+- [[The Binding of Isaac]] — Genesis 22:1–19: three days' walk across the country he owns nothing of,
+  to *the land of Moriah* — a region the Torah names only here, and which 2 Chronicles 3:1 will
+  identify with the hill the temple stands on. **The one piece of ground in Genesis that Abraham's
+  descendants will hold permanently is a place he visits for a day and names after what happened
+  there**, and he goes home to a well he holds by treaty. See
+  [[Yahweh Will Provide - Moriah and the Temple Mount]]
 
 ## Related themes
 

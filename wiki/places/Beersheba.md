@@ -75,6 +75,8 @@ every one of them.
   where Hagar wanders and the water runs out
 - [[The Treaty at Beersheba]] — Genesis 21:22–34; the oath, the seven ewe lambs, the naming, the
   tamarisk, and *ʾĒl ʿÔlām*
+- [[The Binding of Isaac]] — Genesis 22:19; where the three-day journey to Moriah ends, in a last
+  verse that names the place twice and does not name Isaac
 
 ## Related places
 
@@ -86,6 +88,7 @@ every one of them.
 - [[Paran]] — the wilderness further south, where the boy left in this one grows up
 - [[Kadesh]] and [[Shur]] — the two bearings Genesis gives for the same frontier
 - [[Hebron]] — the hill town to the north, and the family's other address
+- [[Moriah]] — three days' walk away, where the chapter after the treaty goes and comes back from
 - [[Canaan]] — the land it marks the southern edge of
 - [[Egypt]] — where Jacob is going the last time Beersheba is named in Genesis
 
@@ -95,7 +98,8 @@ every one of them.
   [[The Birth of Isaac and the Sending of Hagar]]
 - Abraham and Abimelech swear over a disputed well; seven ewe lambs; the tamarisk and *ʾĒl ʿÔlām* —
   Genesis 21:22–34, [[The Treaty at Beersheba]]
-- Abraham returns from Moriah and settles — Genesis 22:19 *(not yet ingested)*
+- Abraham returns from Moriah and settles; the verse names the place twice — Genesis 22:19,
+  [[The Binding of Isaac]]
 - Isaac is met by God, builds an altar, digs a well, and names it Shibah — Genesis 26:23–33
   *(not yet ingested)*
 - Jacob departs from here for Haran — Genesis 28:10 *(not yet ingested)*
