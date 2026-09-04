@@ -101,6 +101,14 @@ the others.
   him. Election is also, here, allowed to be **argued with**: Abram's first words to the God who
   chose him are that the choice has produced nothing, and the answer is a sky full of stars rather
   than a rebuke
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:18–21, the theme's most exact sentence.
+  Abraham asks God to settle for the son he has; God answers *"As for Ishmael, I have heard you"* and
+  gives him the whole blessing — fruitful, multiplied, twelve princes, a great nation — and then
+  *"But my covenant I establish with Isaac."* Genesis distinguishes *blessed* from *covenanted*,
+  keeps both words, gives no reason for the line, and makes the non-chosen son neither a villain nor a
+  loser. It is also the chapter where election first acquires something to do — *"Walk before me, and
+  be blameless"* — without acquiring a condition: the covenant is called everlasting three times in
+  the same speech, and is established with a boy who does not yet exist
 - Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
 - Exodus 3–4 — the call that is argued with
 - Deuteronomy 7:6–8 — election stated, and its reason declined

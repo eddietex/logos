@@ -85,7 +85,12 @@ the women than the frame they are written in.
   demonstration: the legally available solution **works**. A child is born, the household has an heir,
   and he is the wrong one. Barrenness in Genesis is not a puzzle to be solved but a wait to be
   endured, and chapter 16 is where the book proves it by showing the solution succeed
-- Genesis 17:15–21; 18:9–15; 21:1–7 — Sarah, from the renaming to Isaac *(not yet ingested)*
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:15–21, where the promise names the womb.
+  For five promise scenes God had specified Abram's body and never hers; here, in one verse, *"I will
+  give you a son by her"*, with her age stated (ninety) and her husband's laugh recorded. The wait
+  also acquires its first deadline — *"at this set time next year"* (17:21) — and the son is named
+  after the reaction to the arithmetic
+- Genesis 18:9–15; 21:1–7 — Sarah's own laugh, and the birth *(not yet ingested)*
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
 - Judges 13 — Manoah's wife

@@ -46,14 +46,35 @@ English and is more complicated in Hebrew.
 **Hagar** to name him (16:11) and Abram does it — which is the chapter's evidence that she came back
 and told him what she had been told. Abram is eighty-six (16:16).
 
+### In this pericope — Genesis 17:1–27
+
+He is thirteen years old, and the chapter is the most exact statement in Genesis of what he is and
+is not.
+
+***"Oh that Ishmael might live before you!"*** (17:18). His father's only spoken sentence in
+twenty-seven verses is a request that God settle for him. It uses the chapter's own opening verb —
+*hithallēk lə-pānay*, *walk before me* (17:1) — turned into a prayer for a boy, and it is refused.
+
+***"As for Ishmael, I have heard you"*** (17:20). ***Šəmaʿtîkā*** — the concession puns on his name
+one more time. *Yišmāʿēl*, **God hears**, was given at 16:11 because God heard his mother's
+affliction; here it is given again because God heard his father's plea. What follows is the whole
+patriarchal blessing: *blessed*, *fruitful*, *multiplied exceedingly*, **twelve princes**, *a great
+nation* — every term except the one the chapter is about. ***"But my covenant I establish with
+Isaac"*** (17:21).
+
+**Genesis is unusually careful here about the difference between *blessed* and *covenanted*.** It
+does not make him a villain, does not withdraw anything, and does not give a reason. It is the
+pattern the book will use again for Esau, and this is its clearest statement. See
+[[Call and Election]].
+
+***"Ishmael, his son, was thirteen years old when he was circumcised"*** (17:25). **He receives the
+sign of the covenant on the same day he is told, through his father, that the covenant is not his** —
+permanently inside the mark and outside the thing it marks, which is the chapter's least resolvable
+fact. The Arab custom of circumcising boys at thirteen is standardly traced to this verse. See
+[[Circumcision, the Sign of the Covenant]] and [[Circumcision]].
+
 ### Where the rest of him is
 
-- **Genesis 17** — circumcised at thirteen (17:25), in the same day as his father and every male in
-  the household, and therefore inside the covenant sign before being told he is outside the covenant.
-  Abraham's response to the promise of Isaac is *"Oh that Ishmael might live before you!"* (17:18),
-  and God's answer is the sharpest statement of the pattern in Genesis: *"As for Ishmael, I have heard
-  you … I will make him a great nation. But my covenant I establish with Isaac"* (17:20–21). Even
-  the concession puns on his name.
 - **Genesis 21:8–21** — expelled with his mother after Isaac's weaning for *"mocking"* (21:9, a
   single Hebrew participle, *məṣaḥēq*, from the root behind *Isaac*, and the reason for the expulsion
   is famously underdetermined); rescued when *"God heard the voice of the boy"* (21:17); grows up in
@@ -81,9 +102,11 @@ and told him what she had been told. Abram is eighty-six (16:16).
 - Given an oracle: a wild donkey of a man, at odds with everyone, dwelling opposite his brothers —
   Genesis 16:12
 - Born when Abram is eighty-six; named by Abram — Genesis 16:15–16
-- Circumcised at thirteen with his father's whole household — Genesis 17:23–26 *(not yet ingested)*
+- Asked for by his father — *"Oh that Ishmael might live before you!"* — Genesis 17:18,
+  [[Circumcision, the Sign of the Covenant]]
 - Blessed and promised twelve princes and a great nation, and excluded from the covenant — Genesis
-  17:20–21 *(not yet ingested)*
+  17:20–21
+- Circumcised at thirteen with his father's whole household — Genesis 17:23–26
 - Cast out with Hagar; God hears him in the wilderness — Genesis 21:9–19 *(not yet ingested)*
 - Grows up an archer in the wilderness of Paran; marries an Egyptian — Genesis 21:20–21
   *(not yet ingested)*
@@ -94,6 +117,9 @@ and told him what she had been told. Abram is eighty-six (16:16).
 
 - [[Hagar and Ishmael]] — Genesis 16:11–16; named, oracled, and born, and for the next fourteen years
   the only son Abram has
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:18–26; asked for by his father, blessed by
+  name, given twelve princes and a great nation, refused the covenant, and circumcised at thirteen on
+  the same day
 
 ## Related people
 
@@ -103,9 +129,12 @@ and told him what she had been told. Abram is eighty-six (16:16).
 - [[The Angel of Yahweh]] — who announces him, and who hears him again at 21:17
 - [[God]] — who hears his mother, hears him, blesses him, makes him a nation, and gives the covenant
   to someone else
+- [[Isaac]] — his half-brother, named a year before conception and given what he is refused; the two
+  bury Abraham together at 25:9
 
 ## Themes associated
 
+- [[Circumcision]]
 - [[The Nations]]
 - [[Blessing]]
 - [[Slavery and Servitude]]

@@ -161,11 +161,37 @@ The wiki neither excuses her nor convicts her. What it records is that Genesis 1
 one chapter that was entirely about an heir, that she read the omission correctly, that the legal
 solution she reached for worked, and that the cost of it fell entirely on someone who was never asked.
 
+### In this pericope — Genesis 17:15–21
+
+**The gap closes, and she is not in the room when it does.**
+
+Everything the chapter says about her is said *to her husband*: *"As for Sarai your wife, you shall
+not call her name Sarai, but her name will be Sarah. I will bless her, and moreover I will give you a
+son by her. Yes, I will bless her, and she will be a mother of nations. Kings of peoples will come
+from her"* (17:15–16). She is not present, not addressed, and not told. But it is the first time in
+five promise scenes that God says *hers*, and the omission that Genesis 15 left and Genesis 16
+exploited is over in a verse.
+
+**She is the only woman in the Bible God renames**, and the renaming is the only one in Genesis that
+comes with no explanation attached. *Śāray* and *Śārâ* both mean **princess**; the second looks like
+the standard form of the first, and the text offers not a word about why the change is made — where
+four verses earlier it had supplied a gloss for *Abraham*. Something is marked and nothing is said to
+have changed.
+
+**And she is given the two things Abram was given at 17:6.** *Nations* and *kings* — the dynastic
+promise, spoken of a ninety-year-old woman whose barrenness has been on the record since 11:30, in
+its own right and not as an appendage. No other woman in Scripture receives it. See
+[[Kings Will Come Out of You]] and [[Circumcision, the Sign of the Covenant]].
+
+Her husband's response is to laugh at the arithmetic — *"Will Sarah, who is ninety years old, give
+birth?"* — and to ask for Ishmael instead. One chapter later she will laugh at the same arithmetic
+and be asked why. See [[Laughter and the Name Isaac]].
+
 ### Where the rest of her is
 
-Ahead, in pericopes not yet ingested: the renaming
-and the promise (17:15–21), the laughter behind the tent flap (18:9–15), Abimelech (20), the birth of
-Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah (23). She is
+Ahead, in pericopes not yet ingested: the laughter behind the tent flap (18:9–15), Abimelech (20),
+the birth of Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah
+(23). She is
 the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
 exemplar. None of that is legible from Genesis 11, where she is a name, a marriage, and an absence.
 
@@ -185,7 +211,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - Says that Yahweh has closed her womb, and gives her Egyptian slave to Abram as a wife — Genesis
   16:2–3, [[Hagar and Ishmael]]
 - Blames Abram for the result, afflicts Hagar, and drives her out — Genesis 16:5–6
-- Renamed Sarah and promised a son — Genesis 17:15–21 *(not yet ingested)*
+- Renamed Sarah, without an explanation, and promised a son, nations, and kings — Genesis 17:15–16,
+  [[Circumcision, the Sign of the Covenant]]
+- The covenant assigned to her son, and the birth dated to the following year — Genesis 17:19, 21
 - Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
 
@@ -199,6 +227,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
   and she is not named in any of them
 - [[Hagar and Ishmael]] — Genesis 16:1–6; her first plan, her first grievance, and her first act of
   cruelty, in the chapter that opens on the omission the last one ended with
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:15–21; renamed without an explanation,
+  promised nations and kings in her own right, and absent from every verse that says so
 
 ## Related people
 
@@ -214,11 +244,16 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Hagar]] — her slave, whose name she never says; given away as a wife, resented, afflicted, and
   driven out
 - [[Ishmael]] — the son her plan produced, and whom she will demand be cast out at 21:10
+- [[Isaac]] — her son, named and dated before he is conceived, and the one the covenant is
+  established with
 
 ## Themes associated
 
 - [[Barrenness]]
 - [[Marriage]]
+- [[Kingship and Empire]]
+- [[The Nations]]
+- [[Covenant]]
 - [[Land and Sojourning]]
 - [[Blessing]]
 - [[Deception]]

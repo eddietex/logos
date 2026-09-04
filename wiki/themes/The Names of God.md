@@ -90,7 +90,19 @@ and it is what Abram folds the others into.
   as *Beer Lahai Roi*, *the well of the Living One who sees me*. It is also the middle of three *ʾĒl*
   titles in four chapters — *ʿElyôn* (14:18), *Rŏʾî* (16:13), *Šadday* (17:1) — two of them supplied
   by people outside the covenant line. See [[Hagar and Ishmael]] and [[Seeing and Being Seen]]
-- Genesis 17:1; 21:33; 22:14 — *Šadday*, *ʿÔlām*, *Yirʾeh*
+- Genesis 17:1 — ***ʾĒl Šadday***, **God Almighty**, first occurrence in Scripture, spoken by God of
+  himself in a self-presentation formula — which is what makes it different from *ʿElyôn* and *Rŏʾî*,
+  both supplied by human beings. Its derivation is genuinely unknown: Akkadian *šadû*, *mountain*;
+  Hebrew *šad*, *breast* (and Genesis 49:25 pairs it with *"blessings of the breasts, and of the
+  womb"*); *šādad*, *to destroy*, which Isaiah 13:6 and Joel 1:15 pun on; or the rabbinic *ša-day*,
+  *who is enough*, from which the Septuagint's *pantokratōr*, the Vulgate's *omnipotens*, and every
+  English *Almighty* descend. Distribution is more informative than etymology: six times in Genesis,
+  every one of them at a transfer of the promise (17:1; 28:3; 35:11; 43:14; 48:3; 49:25), and
+  **thirty-one times in Job**, a book with no Israelites in it. Balaam has it too (Numbers 24:4).
+  Genesis 17:1 also states Exodus 6:3's problem in a single verse — *Yahweh* appears, and says *ʾĒl
+  Šadday*. See [[Circumcision, the Sign of the Covenant]] and
+  [[God Almighty - El Shaddai in Genesis and Exodus]]
+- Genesis 21:33; 22:14 — *ʿÔlām*, *Yirʾeh*
 - Exodus 3:13–15 — I AM
 - Exodus 6:2–3 — the name not known to the fathers
 - Exodus 20:7; Leviticus 19:12 — guarding the name
@@ -108,5 +120,7 @@ and it is what Abram folds the others into.
 
 - [[God]] — the subject
 - [[Melchizedek]] — who introduces *ʾĒl ʿElyôn*
+- [[Hagar]] — who supplies *ʾĒl Rŏʾî*, the only divine name in Scripture given by a human being
+- [[Job (person)]] — in whose book *Šadday* occurs more often than in the rest of the Bible together
 - [[Abraham]] — who identifies it with Yahweh
 - [[Enosh]] — in whose generation *"men began to call on Yahweh's name"* (4:26)

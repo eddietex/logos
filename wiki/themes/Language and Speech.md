@@ -96,6 +96,13 @@ noticing into doctrine.
   sorted by
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27: the first curse and blessing spoken by a
   human being
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17, four namings in one chapter and all of
+  them God's. *Abram* becomes *Abraham* with a gloss that is a pun and not a derivation
+  (*ʾab-hămôn gôyim*, father of a multitude of nations); *Sarai* becomes *Sarah* with **no explanation
+  offered at all**, the only renaming in Genesis that comes without one, and between two forms that
+  mean the same thing; and a child who does not exist is named *Isaac*, *he laughs*, for what his
+  father has just done. Elsewhere in Genesis parents name children and people name places; here the
+  naming runs the other way, and one chapter earlier a slave had named God (16:13)
 - [[The Creation of the World]] — Genesis 1: the world made by speech
 
 ## Related themes

@@ -93,6 +93,15 @@ addressing a slave by name and no one else in the story doing so.
   and 15:13, four hundred years of servitude foretold as the shape of Israel's future
 - [[Hagar and Ishmael]] — Genesis 16, the theme's founding narrative, and the only place in Scripture
   where God addresses a slave by name and sends her back
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:12–13, 23, 27, where the covenant sign is
+  cut into the bodies of the people the household owns. Four times in one chapter the legislation
+  names *"He who is born in your house, and he who is bought with your money"*, and the closing verse
+  makes it the last thing said: *"All the men of his house, those born in the house, and those bought
+  with money from a foreigner, were circumcised with him."* They are not promised anything by the
+  covenant they are marked for, and they are not asked — and the same rite is what Exodus 12:44–48
+  will make the door by which a purchased foreigner keeps the Passover. Genesis reports the whole of
+  it without a word of comment, one chapter after a household solved a theological problem with a
+  woman it owned
 - Genesis 21:9–21 — the same woman expelled, and left free *(not yet ingested)*
 - Genesis 37; 39–41 — Joseph sold, enslaved, imprisoned, and raised to rule the country that bought
   him *(not yet ingested)*

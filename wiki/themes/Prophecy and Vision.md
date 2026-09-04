@@ -29,7 +29,7 @@ happens.
   as foreigners in a land that is not theirs … They will afflict them four hundred years"* (15:13).
   This is the pattern the prophetic books will keep: the oracle that answers a question is not the
   answer the questioner was after.
-- **It comes with terror attached.** *"A deep sleep fell on Abram. Now terror and great darkness fell
+- **It comes with terror attached.** *"a deep sleep fell on Abram. Now terror and great darkness fell
   on him"* (15:12). Receiving revelation in Scripture is regularly physically overwhelming — Isaiah
   6:5, Ezekiel 1:28, Daniel 10:8–9, Revelation 1:17 — and the first instance already has it.
 - **And it is dated by nothing and verified by nothing.** Deuteronomy 18:21–22 will make fulfilment
@@ -92,6 +92,12 @@ happens.
   chapters before it reaches Sarah. It also carries the first oracle in Scripture about an unborn
   child's character and descendants (16:12), which is delivered as description rather than as
   sentence, and has been read as a verdict far more often than the Hebrew allows
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:19, 21: the second annunciation, two
+  chapters after the first, and the one with a **date** on it. *"You shall call his name Isaac"* is
+  the same form given to Hagar at 16:11, now spoken directly by God to the father rather than by the
+  angel to the mother — and *"at this set time next year"* (*lammôʿēd*) is the first appointment in
+  the Abraham story, repeated at 18:14 and discharged at 21:2. After five promise scenes with no date
+  in any of them, the promise acquires one
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, a human being pronouncing an oracle over
   the future of three peoples, with no claim that God said it
 

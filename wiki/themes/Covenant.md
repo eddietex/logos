@@ -93,9 +93,20 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   thing he contributes — believing (15:6) — is *credited* to him rather than counted as a
   condition. See [[The Covenant Between the Pieces]] and
   [[Passing Between the Pieces]].
-- **Genesis 17:1–27** *(not yet ingested)* — circumcision as the sign, *"an everlasting covenant"*,
-  and the first covenant in Scripture with a stipulation attached to the human party: *"Walk before
-  me, and be blameless."*
+- **Genesis 17:1–27** — the same covenant given a sign, a stipulation, and a name for God, and the
+  theme's other decisive Genesis passage. *Bərît* occurs **thirteen times in twenty-seven verses**, a
+  density the book reaches only in 9:8–17 — the other chapter where a covenant gets a sign. Five
+  things are new. **A stipulation**: *"Walk before me, and be blameless"* (17:1), the first thing ever
+  asked of a party to a covenant in the Bible, in a chapter that also calls the arrangement
+  *everlasting* three times. **A sign in the flesh**: *ʾôt bərît* (17:11), the rainbow's own phrase,
+  now carried by the human party rather than looked at by God. **A sanction**: *"that soul shall be
+  cut off from his people"* (17:14) — and the clause that makes the sign and the covenant one thing,
+  *"He has broken my covenant."* **The covenant formula**, in its first occurrence: *"to be a God to
+  you and to your offspring after you"* (17:7), which runs from here to Leviticus 26:12, Jeremiah
+  31:33, and Revelation 21:3. And **a named beneficiary who does not exist yet**: *"my covenant I
+  establish with Isaac"* (17:21). Critical scholarship reads 15 and 17 as a doublet — J and E against
+  P — and the book as it stands reads them as two stages: the oath, and then the sign. See
+  [[Circumcision, the Sign of the Covenant]] and [[Circumcision]].
 - **Exodus 19–24; 34** — Sinai. The covenant becomes national, is written down, is read aloud, is
   agreed to (*"All that Yahweh has spoken we will do"*), and is sealed with blood thrown on the
   people. This is the covenant the prophets will accuse Israel of breaking.
@@ -147,6 +158,11 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   circumcision; the content is already here
 - [[The Covenant Between the Pieces]] — Genesis 15: the first *kārat bərît* in Scripture, the rite
   that gives the idiom its verb, and the only covenant ceremony in the Bible with one walker
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17: *bərît* thirteen times, *bərît ʿôlām*
+  three times, the covenant formula's first occurrence, the first stipulation and the first sanction,
+  and a sign the human party carries in his body. Whether the sign is a condition is the question the
+  chapter leaves live and every later argument — Jeremiah's, Paul's, the Jerusalem council's — is a
+  fight over
 - [[Passing Between the Pieces]] — Jeremiah 34:18–20 on what the ceremony means, and what it means
   that Abram slept through his half of it
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
@@ -169,7 +185,9 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   carries
 - [[Curse]] — the sanction built into every covenant form, and the self-curse the ceremony enacts
 - [[Creation]] — the Noahic covenant's scope, which is every living creature rather than a people
-- [[Walking with God]] — the relational language covenant formalizes
+- [[Circumcision]] — the sign, and the whole downstream argument about what a sign can and cannot do
+- [[Walking with God]] — the relational language covenant formalizes, and the preposition that changes
+  at 17:1 when the relationship acquires an obligation
 - [[Call and Election]] — the summons the Abrahamic covenant is attached to, and which precedes it
 - [[Faith]] — the one thing Abram contributes to the covenant of Genesis 15, and it is credited
   rather than required
@@ -182,4 +200,8 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[God]] — who establishes it, and who alone is bound by the first one — and, at Genesis 15:17, the
   only party who walks between the pieces
 - [[Noah]] — the first person in Scripture offered a covenant, who is not asked and does not answer
-- [[Abraham]] — the first person with whom a covenant is *cut*, and who sleeps through the cutting
+- [[Abraham]] — the first person with whom a covenant is *cut*, and who sleeps through the cutting;
+  and the first ever asked to do something for one
+- [[Isaac]] — the first person the covenant is *established* with before he exists
+- [[Ishmael]] — blessed in the same speech that withholds it from him, and marked with its sign the
+  same day

@@ -70,3 +70,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Deuteronomy 23:15–16 |
 | [[The Two Flights of Hagar]] | parallel | Genesis 16:1–16 · Genesis 21:8–21 · Genesis 25:12–18 |
 | [[Hagar and Sarah in Galatians]] | allegory | Genesis 16:1–16 · Genesis 21:1–14 · Isaiah 54:1 · Romans 9:6–9 · Galatians 4:21–31 |
+| [[Circumcision of the Heart]] | thread | Genesis 17:10–14 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Ezekiel 44:7, 9 · Acts 7:51 · Romans 2:25–29 · Colossians 2:11–12 |
+| [[The Sign and the Seal - Genesis 17 in Romans 4]] | quotation | Genesis 15:6 · Genesis 17:5, 10–11, 24 · Romans 4:9–12, 16–18 · Galatians 3:6–9, 15–18 · James 2:21–24 |
+| [[God Almighty - El Shaddai in Genesis and Exodus]] | thread | Genesis 17:1 · Genesis 28:3; 35:11; 43:14; 48:3; 49:25 · Exodus 6:2–3 · Numbers 24:4, 16 · Job (31×) · Ruth 1:20–21 · Revelation 1:8 |
+| [[Laughter and the Name Isaac]] | thread | Genesis 17:17, 19 · Genesis 18:12–15 · Genesis 21:6, 9 · Genesis 26:8 · Galatians 4:29 |
+| [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |

@@ -88,6 +88,11 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   word — and Genesis places the two chapters back to back and passes no comment on either. Whatever
   *heʾĕmin* meant at 15:6, it plainly did not mean a settled state that made 16:2 impossible.
   Hebrews 11:11–12 and Romans 4:19–21 tell the story with chapter 16 left out; Genesis does not
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:17 and 17:23 in one chapter. The man
+  credited with righteousness for believing laughs, face down, at the arithmetic of the same promise
+  once it is given a number — and is not rebuked; then he circumcises his entire household and himself
+  the same day, without a recorded word. Genesis puts the laugh and the obedience four verses apart
+  and comments on neither
 - [[Noah and the Flood]] — obedience before there is a word for it, and what Hebrews 11:7 calls it
 - [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] — the whole downstream
   argument, including the half of it that was already in Psalm 106:31

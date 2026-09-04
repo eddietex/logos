@@ -2668,3 +2668,127 @@ Bible does. Between 15:21 and 17:1 she is the only human being God speaks to.
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately; Kadesh and Bered of judgment call 2 are written in plain text
 rather than linked, and Isaac is named in prose without a link until Genesis 21 creates his page.
+
+## [2026-09-04] ingest | Genesis 17.1-27 — Circumcision, the Sign of the Covenant
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` and *Circumcision, the Sign of the Covenant* was the first unchecked box on its
+page. `raw/bible/Genesis.md` was already present, so no fetch. Step 2's discussion went into the
+passage page.
+
+As in the two previous runs, the session started on a **detached HEAD** with a clean tree. This time
+the local `main` ref was stale only in the working copy: `git fetch origin main` moved
+`origin/main` from `ee8f435` to `74e1bfc`, which is exactly where HEAD already sat, so nothing had
+been lost and the previous run's push had in fact gone through. The stale remote-tracking ref, not
+the push, was the anomaly. The ingest was committed on the detached HEAD and `git checkout -B main`
+then moved the branch onto it — a strict fast-forward from `origin/main` — before pushing. Third
+consecutive run to start detached; still worth the user's attention as an environment quirk.
+
+**The pericope.** Thirteen years pass between 16:16 and 17:1 and Genesis reports nothing in them.
+Abram was eighty-six when Ishmael was born; he is ninety-nine here, and the chapter opens by
+reopening the question the household had closed for itself. Of twenty-seven verses, twenty-two are
+divine speech in five blocks; Abram falls on his face twice, laughs once, says one sentence out loud,
+and then circumcises everyone he owns and himself before the day is out. *Bərît* occurs **thirteen
+times** in the chapter — verified by counting *covenant* in the WEB text of 17:1–27 — a density
+Genesis reaches only in the ten verses of 9:8–17, the other chapter where a covenant gets a sign.
+
+What is new here, against Genesis 15: a name for God nobody has heard (*ʾĒl Šadday*, first occurrence
+in Scripture, derivation genuinely unknown); the first stipulation ever attached to a covenant
+(*"Walk before me, and be blameless"*, both of Noah's words at 6:9 with the preposition changed from
+*with* to *before*); a sign carried in the flesh by the human party rather than looked at by God; a
+sanction (*kārēt*, *"cut off from his people"*, the Torah's first use of a penalty it never defines);
+the covenant formula *"to be a God to you and to your offspring after you"* in its first occurrence;
+new names for both husband and wife; and — for the first time in five promise scenes — the son named
+as **Sarah's**, with a date on it. The chapter also draws the book's sharpest line between *blessed*
+and *covenanted*: Ishmael gets the whole blessing formula and twelve princes at 17:20, Isaac gets the
+covenant at 17:21, and Genesis gives no reason for either.
+
+**Pages created (8).**
+
+- `wiki/passages/Genesis/Circumcision, the Sign of the Covenant.md` — the pericope, with all
+  twenty-seven verses quoted under `## Key verses`.
+- `wiki/themes/Circumcision.md` — the theme's founding text is this chapter, and the thread runs
+  through Exodus 4 and 12, Joshua 5, Jeremiah 9, 1 Maccabees, Acts 15, and six Pauline verdicts.
+- `wiki/people/Isaac.md` — **judgment call, and a reversal of what the last run's log said.** The
+  Genesis 16 entry said Isaac would be *"named in prose without a link until Genesis 21 creates his
+  page."* Genesis 17 turns out to name him, gloss his name, date his birth, and establish the covenant
+  with him, and six pages in this pass needed a link target for him. Created now; Genesis 21 will fill
+  in the birth.
+- `wiki/connections/Circumcision of the Heart.md` — Leviticus 26:41 through Acts 7:51 and Romans 2,
+  and the move Deuteronomy makes twice: 10:16 commands it, 30:6 promises God will do it.
+- `wiki/connections/The Sign and the Seal - Genesis 17 in Romans 4.md` — Paul's argument from the
+  order of two chapters, and the *sign*/*seal* pair that gave the Reformation its sacramental grammar.
+- `wiki/connections/God Almighty - El Shaddai in Genesis and Exodus.md` — the four etymologies, the
+  distribution (six times in Genesis, all at transfers of the promise; thirty-one times in Job), and
+  the three readings of Exodus 6:3.
+- `wiki/connections/Kings Will Come Out of You.md` — the Bible's first promise of monarchy, given as
+  a blessing, and the tension with 1 Samuel 8 that Deuteronomy 17:14–20 sits between.
+- `wiki/connections/Laughter and the Name Isaac.md` — four uses of *ṣ-ḥ-q* in the Abraham cycle, and
+  the difference between Abraham's laugh and Sarah's that Genesis records without explaining.
+
+**Pages revised (28), plus this log.** `wiki/books/Genesis.md` (box checked, overview extended, `Circumcision` and
+`Isaac` added to the key lists); `Abraham`, `Sarah`, `Ishmael`, `God`, `Hagar`;
+`Covenant`, `The Names of God`, `Blessing`, `The Nations`, `Barrenness`, `Land and Sojourning`,
+`Call and Election`, `Walking with God`, `Righteousness`, `Slavery and Servitude`,
+`Kingship and Empire`, `Marriage`, `Faith`, `Language and Speech`, `Life and Death`,
+`Prophecy and Vision`; `wiki/places/Canaan.md`; and the four category indexes plus `wiki/index.md`.
+
+**Judgment calls, for review.**
+
+1. **Isaac's page created here rather than at Genesis 21** — see above. This is the one place where
+   this pass overrides a decision recorded in a previous log entry.
+2. **No page renames for Abram → Abraham or Sarai → Sarah.** Both person pages already carry a *note
+   on the name* explaining that the wiki files them under the later names because the canon uses them
+   and because renaming at Genesis 17 would break every inbound link built between 11:26 and here.
+   That convention now has its chapter, and the pages say so.
+3. **Circumcision given a theme page rather than folded into `Covenant`.** It carries its own thread
+   from Genesis to Colossians and would have swamped the covenant page.
+4. **The hard edges of the chapter recorded, not smoothed.** Three of them. The covenant sign is cut
+   into the bodies of purchased foreigners who are promised nothing by it and are not asked — stated
+   four times in the chapter and now stated on `Slavery and Servitude` and on the passage page,
+   alongside the fact that Exodus 12:44–48 makes the same rite the door by which such a person keeps
+   the Passover. The sign is on male bodies only, and Sarah — whose renaming and whose son are two of
+   the five divine speeches — hears none of it directly. And *kārēt* is undefined, in the Mishnah as
+   much as in the Torah; the page lists the four proposals and adopts none.
+5. **Abraham's laugh and Sarah's treated as the same laugh.** A long tradition (Calvin, much rabbinic
+   material, the Targums' softening of 17:17) reads his as faith and hers as unbelief. Genesis
+   supplies no adjective for either and records only that one is questioned. The wiki declines the
+   distinction and says why.
+6. **Whether circumcision is a condition left open, with the evidence on both sides set out.** 17:9,
+   14 push one way; *bərît ʿôlām* three times and a covenant established with an unconceived child
+   push the other. The passage page states the most defensible synthesis — that circumcision is how a
+   person joins a covenant that does not depend on him — and flags that every later argument in
+   Scripture is a fight over 17:14.
+7. **The source-critical reading recorded and not needed.** 15 as J/E and 17 as P is set out with its
+   markers; the wiki reads the two as oath-then-sign as the book stands, and notes that nothing in
+   either contradicts the other.
+8. **No pericope boundaries redrawn.** 17:1–27 is a clean unit — a thirteen-year jump at 17:1 and a
+   new scene at 18:1 — and the existing plan already had the breaks there.
+9. **Quote accuracy.** All twenty-seven block-quoted verses under `## Key verses` were generated
+   directly from `raw/bible/Genesis.md` by script rather than transcribed, and every italic quotation
+   of Genesis on every page touched this pass was checked against the raw file by script. Four slips
+   were caught and fixed before commit: Genesis 49:25 given as *"blessings of the breasts and of the
+   womb"* (WEB has a comma — *"blessings of the breasts, and of the womb"*); Genesis 35:11 given as
+   *"...will be from you. Kings will come out of your body"* (WEB: *"...will be from you, and kings
+   will come out of your body"*); Genesis 6:9 quoted with the gloss *tāmîm* interpolated inside the
+   quotation marks, now moved outside; and Galatians 3:28 quoted in a non-WEB rendering, now given as
+   a paraphrase rather than a quotation.
+
+   The same script then found **twenty-seven pre-existing capitalization slips** on pages this pass
+   touched — a Genesis quotation begun mid-prose with its first letter silently re-cased, in both
+   directions. All twenty-seven were corrected against the raw file, each a single character:
+   `Abraham` (3), `God` (8), `Canaan` (1), `Blessing` (6), `Life and Death` (1), `Marriage` (2),
+   `Prophecy and Vision` (1), `Righteousness` (1), `Slavery and Servitude` (1, and that one was
+   introduced by this pass), `The Nations` (2), and `Walking with God` (1). Examples: Genesis 20:12
+   as *"She is indeed my sister…"* (WEB: *"she is indeed…"*, mid-verse); Genesis 7:16 as *"Then
+   Yahweh shut him in"* (WEB: *"then Yahweh shut him in"*); Genesis 9:1 as *"be fruitful and
+   multiply"* (WEB: *"Be fruitful and multiply"*); Genesis 17:1 on `Walking with God` as *"walk
+   before me, and be blameless"* (WEB: *"Walk before me…"*). The check is cheap and mechanical and
+   is worth folding into the next lint pass across the whole wiki, since it will certainly find more
+   on pages this pass did not touch.
+
+   Quotations of Exodus, Deuteronomy, the prophets, and the New Testament remain unverifiable
+   against any source in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately.

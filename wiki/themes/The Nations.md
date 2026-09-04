@@ -67,7 +67,7 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   See [[From Shem to Abram]].
 - **Genesis 12:1–3** — and the narrowing turns out to be aimed outward. One man is called out of the
   seventy peoples, and the last clause of the promise names them as the point: *wənibrəkû bəkā kōl
-  mišpəḥōt hāʾădāmâ*, *"all the families of the earth will be blessed through you"* — using
+  mišpəḥōt hāʾădāmâ*, *"All the families of the earth will be blessed through you"* — using
   *mišpāḥâ*, the Table of Nations' own organising word (10:5, 18, 20, 31, 32). Two things follow.
   Election in Genesis is instrumental from its first sentence: the choice of one household is stated
   as a mechanism for everybody else, not as a preference over them. And the promise is aimed at the
@@ -104,10 +104,16 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   than around it. Ishmael is the first of the peoples Genesis derives from Abraham outside the
   covenant line (with Esau's Edom at 36, and Keturah's sons at 25:1–4), and the only one to receive
   the offspring promise in the covenant's own formula. His mother is Egyptian, his wife will be
-  Egyptian (21:21), his twelve princes answer Israel's twelve tribes (25:12–16), and 16:12's *"he
+  Egyptian (21:21), his twelve princes answer Israel's twelve tribes (25:12–16), and 16:12's *"He
   will live opposite all of his brothers"* is repeated word for word of his descendants at 25:18.
   Genesis blesses him, makes him a nation, and gives the covenant to someone else, without ever
   explaining how the two sit together
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17, where *gôyim* enters the promise itself.
+  Twelve chapters of *a great nation*, singular, become *"the father of a multitude of nations"*
+  (17:4–5) and *"a mother of nations"* (17:16), with the new name built on the plural. In the same
+  chapter the covenant sign is put on *"any foreigner"* bought into the household (17:12–13, 27) —
+  the boundary and the door through it, legislated in the same paragraph, which is what Exodus 12:48
+  will make explicit
 - [[The Rescue of Lot and Melchizedek]] — the first chapter in which Abram actually deals with the
   nations rather than being promised them: an Elamite overlord, a king of *Goiim* (*nations*, with no
   country attached), three Amorite covenant-partners, a Canaanite priest of God Most High whose

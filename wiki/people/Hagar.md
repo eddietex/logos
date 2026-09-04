@@ -61,6 +61,12 @@ appearance of 17:1, the only human being God speaks to in Genesis is this woman.
 
 ### Where the rest of her is
 
+- **Genesis 17** — she is not in the chapter and it is entirely about the arrangement she was used
+  for. Thirteen years after the birth, God reopens the question her pregnancy had closed, says for the
+  first time that the son will be **Sarah's** (17:16), refuses Abraham's request that Ishmael stand in
+  (17:18–21), and gives her son the whole blessing except the covenant. Her son is circumcised at
+  thirteen in the same day as the rest of the household — inside the sign and outside the thing it
+  signs. See [[Circumcision, the Sign of the Covenant]].
 - **Genesis 17:20; 21:9–21** — the second expulsion, which is not a flight and from which she does
   not return. Sarah sees Ishmael *"mocking"* and demands that both be cast out; God tells Abraham to
   listen to his wife's voice again (21:12, the same idiom as 16:2); Hagar and the boy nearly die of

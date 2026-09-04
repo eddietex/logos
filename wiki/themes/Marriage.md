@@ -37,7 +37,7 @@ from:
   casualty, before God even arrives.
 - The recognition becomes **naming**. In 2:23 he identified her; in 3:20 he names her, as he named
   the animals.
-- *"Bone of my bones"* becomes **desire and rule**: *"Your desire will be for your husband, and he
+- *"bone of my bones"* becomes **desire and rule**: *"Your desire will be for your husband, and he
   will rule over you"* (3:16). Whether that describes the distortion or prescribes an order is one
   of the sharpest interpretive forks in Genesis — the readings are laid out in the notes on
   [[The Fall]]. What is not in dispute is that it appears in a list of things that went wrong,
@@ -53,7 +53,7 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   fruitful.
 - **Genesis 2:18–25** — the institution: the not-good of aloneness, the counterpart, one flesh.
 - **Genesis 3:16** — the relation distorted: desire and rule. *Tešûqâ* ("desire") recurs in 4:7 of
-  sin crouching at Cain's door, *"its desire is for you, but you are to rule over it"*, which is
+  sin crouching at Cain's door, *"Its desire is for you, but you are to rule over it"*, which is
   the main reason many read 3:16 as mutual contest rather than longing. The parallel is now set
   out in full, with the third occurrence that cuts against it, on
   [[Desire and Rule - Genesis 3.16 and 4.7]].
@@ -125,6 +125,11 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   the first of three in Genesis built this way; the passage page sets out the ancient Near Eastern
   law (Code of Hammurabi §§144–147) that makes it ordinary, and what Genesis shows it doing to the
   two women involved
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:15–21, where the promise is redirected from
+  a man's body to a marriage. Five promise scenes had specified Abram's offspring and never named his
+  wife; here she is renamed, blessed twice in one verse, and given the son, the nations, and the
+  kings. The second wife of chapter 16 is not mentioned, and the son she bore is blessed by name and
+  set outside the covenant in the same speech
 - [[The Wife-Sister Episodes]] — the same ruse three times, and what changes between the tellings
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
   2:24

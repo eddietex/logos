@@ -43,7 +43,7 @@ garden is what makes death permanent, and is also framed as preventing something
 schedule and by a human hand: not age, not the ground taking back its dust, but a brother in a
 field (4:8). The theme's shape changes with it. Death stops being only a condition humanity is
 under and becomes something people do to each other, which is why 4:10 gives blood a voice —
-*"the voice of your brother's blood cries to me from the ground"* — and why the rest of the Bible
+*"The voice of your brother's blood cries to me from the ground"* — and why the rest of the Bible
 treats bloodshed as a thing the land itself registers (Genesis 9:5–6, Numbers 35:33,
 Deuteronomy 21:1–9). The man named *hebel*, "vapour", is the first to prove the word.
 
@@ -141,6 +141,12 @@ the rest of the canon.
   (8:17) against 7:22, and *"I will never again strike every living thing"* against 6:7
 - [[The Covenant with Noah]] — which deaths are now permitted and which are required back: meat
   allowed, blood withheld, homicide answerable, and the world guaranteed against a second drowning
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:14, ***kārēt***: *"that soul shall be cut
+  off from his people"*, the Torah's first use of a penalty it goes on to attach some thirty times to
+  offences with no human court behind them, and never once defines. Execution, exile, childlessness,
+  and a divine act outside the legal system have all been defended, and the Mishnah leaves it open.
+  What the verse is clear about is the wordplay: the covenant is *cut*, the foreskin is *cut*, and the
+  man who is not cut is *cut off*
 - [[From Shem to Abram]] — the register with the death clause removed, and the lifespans halving
   twice; the first son in the Bible to predecease his father, and the first man to die short of
   Canaan

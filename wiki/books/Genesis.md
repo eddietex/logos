@@ -63,7 +63,17 @@ even fratricidal betrayal into rescue (Joseph).
   reader do the arithmetic. Its centre is the reversal: between the covenant of 15:21 and the
   appearance of 17:1, the only person God speaks to in Genesis is a runaway Egyptian slave, who is
   given the offspring promise in its own covenant grammar, told her son's name in Scripture's first
-  annunciation, and becomes the only human being in the Bible to give God a name.
+  annunciation, and becomes the only human being in the Bible to give God a name. Then thirteen
+  silent years, and *[[Circumcision, the Sign of the Covenant]]* reopens what the household had
+  closed. It is the covenant of chapter 15 told a second time and given everything 15 lacked: a name
+  for God nobody has heard before (*ʾĒl Šadday*), a demand on the human party (*"Walk before me, and
+  be blameless"*), a sign cut into the flesh of every male in the household including the ones who
+  were bought, a penalty for omission, new names for both husband and wife, and — for the first time
+  in five promise scenes — the son named as **Sarah's**, with a date. Abraham falls on his face twice,
+  laughs at the arithmetic, asks God to settle for Ishmael, is refused, and then circumcises everyone
+  he owns and himself before the day is out. The chapter also draws the book's sharpest line between
+  *blessed* and *covenanted*: Ishmael gets the entire blessing formula and twelve princes, and Isaac
+  gets the covenant, and Genesis gives no reason for either.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -98,7 +108,7 @@ merge, or reorder them freely.
 - [x] [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24
 - [x] [[The Covenant Between the Pieces]] — Genesis 15:1–21
 - [x] [[Hagar and Ishmael]] — Genesis 16:1–16
-- [ ] Circumcision, the Sign of the Covenant — Genesis 17:1–27
+- [x] [[Circumcision, the Sign of the Covenant]] — Genesis 17:1–27
 - [ ] The Three Visitors and Abraham's Intercession — Genesis 18:1–33
 - [ ] The Destruction of Sodom and Gomorrah — Genesis 19:1–29
 - [ ] Lot and His Daughters — Genesis 19:30–38
@@ -174,6 +184,7 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]]
 - [[Slavery and Servitude]]
 - [[Seeing and Being Seen]]
+- [[Circumcision]]
 
 ## Key people
 
@@ -201,6 +212,7 @@ merge, or reorder them freely.
 - [[Pharaoh (of Abram's time)]]
 - [[Hagar]]
 - [[Ishmael]]
+- [[Isaac]]
 - [[The Angel of Yahweh]]
 
 ## Key places

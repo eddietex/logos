@@ -49,7 +49,7 @@ are one being.
 - **He provides before he commands.** Garden, food, beauty, and work all precede the single
   prohibition of 2:17.
 - **He entrusts.** The garden is given to be cultivated and kept, and the naming of the animals is
-  left entirely to the man: *"whatever the man called every living creature became its name"*. He
+  left entirely to the man: *"Whatever the man called every living creature became its name"*. He
   makes room for a will other than his own — which is what makes Genesis 3 possible.
 - **He judges something "not good."** *"It is not good for the man to be alone"* (2:18), the first
   negative verdict in the Bible, spoken over his own creation and immediately acted on.
@@ -75,7 +75,7 @@ template for nearly every judgment scene in Scripture — see [[Judgment]].
 - **He limits the damage.** The stated reason for the expulsion is not retribution but prevention
   — *"lest he reach out his hand, and also take of the tree of life, and eat, and live forever"*
   (3:22). Endless life in this condition is treated as the thing to be stopped.
-- **He speaks of himself in the plural again** — *"like one of us"*, matching *"let us make man"*
+- **He speaks of himself in the plural again** — *"like one of us"*, matching *"Let us make man"*
   of 1:26, at the moment the resemblance is most ambiguous.
 
 ### Outside the garden, from Genesis 4
@@ -167,7 +167,7 @@ a single name. See [[Judgment]] and [[Favor and Grace]].
 how much of the account is him *arranging* rather than striking. He speaks four times (6:13–21, 7:1–4)
 and acts twice (7:11, 7:16); the water does the rest.
 
-- **He names his reason, and it is behavioural.** *"The earth is filled with violence through them"*
+- **He names his reason, and it is behavioural.** *"the earth is filled with violence through them"*
   (6:13). Genesis 6:5 had diagnosed the interior; here the ground of the sentence is *ḥāmās*, an
   exterior and social evil, and 6:12 adds that *"all flesh had corrupted their way"* — a universal
   charge with no exceptions taken and nobody interrogated.
@@ -181,12 +181,12 @@ and acts twice (7:11, 7:16); the water does the rest.
 - **He binds himself for the first time.** *"But I will establish my covenant with you"* (6:18) is
   the Bible's first *bərît*, spoken to a man who is not asked and does not answer, inside a sentence
   of universal death. See [[Covenant]].
-- **He assumes a distinction he has never taught.** *"Seven pairs of every clean animal"* (7:2), with
+- **He assumes a distinction he has never taught.** *"seven pairs of every clean animal"* (7:2), with
   no definition, no criterion, and no law in existence. See [[Clean and Unclean]].
 - **He declares a man righteous, twice.** 6:9 reports it and 7:1 has him say it: *"I have seen your
   righteousness before me in this generation"*. Both come before Noah is shown doing anything. See
   [[Righteousness]].
-- **He shuts the door.** *"Then Yahweh shut him in"* (7:16) — the account's only tender gesture, and
+- **He shuts the door.** *"then Yahweh shut him in"* (7:16) — the account's only tender gesture, and
   the moment nobody else can come in. The name changes to **Yahweh** for it, as it did at 7:1 for
   *"Come with all of your household"*; the commissioning and the dating are *ʾĕlōhîm* throughout. The
   two things he does personally in this chapter are the two things he is called by his personal name
@@ -249,7 +249,7 @@ anybody what he resolved at 8:21.
 
 - **He blesses, and quietly withdraws something.** *"Be fruitful, multiply, and replenish the earth"*
   (9:1) is Genesis 1:28's opening clause word for word — and the rest of 1:28 does not come back.
-  *Subdue* and *have dominion* are absent from Genesis 9, replaced by *"the fear of you and the dread
+  *Subdue* and *have dominion* are absent from Genesis 9, replaced by *"The fear of you and the dread
   of you"* (9:2) and by creatures *"delivered into your hand"*. He restores the mandate and downgrades
   the terms, without a word of explanation. See [[Blessing]] and [[Image of God]].
 - **He legislates for the first time.** Everything before this is a single prohibition to one man in a
@@ -259,7 +259,7 @@ anybody what he resolved at 8:21.
 - **He delegates what had been his own act.** In Genesis 4 he alone required Abel's blood, and he
   protected the murderer. Here he still says *"I will surely require"* three times (9:5) and then says
   the shedding will be *by man* (9:6). See [[Whoever Sheds Man's Blood]] and [[Vengeance]].
-- **He gives a reason, and it is the image.** *"For God made man in his own image"* (9:6) is the only
+- **He gives a reason, and it is the image.** *"for God made man in his own image"* (9:6) is the only
   place in the Torah where the image of God grounds a command. After a fall, a murder, and a flood, the
   status of 1:26–27 is still in force and still doing work.
 - **He establishes the covenant, and asks nothing.** The *bərît* of 6:18 is made to stand (9:9–11) —
@@ -419,7 +419,7 @@ Four things he does here he has not done before.
 
 - **He finds someone nobody is looking for.** The verb is *māṣāʾ*. Adam and Cain were sought and
   questioned in their own place; Hagar is found at the last spring before the Egyptian frontier.
-- **He asks the third divine question in Genesis.** *"Where did you come from? Where are you going?"*
+- **He asks the third divine question in Genesis.** *"where did you come from? Where are you going?"*
   (16:8), after *"Where are you?"* (3:9) and *"Where is Abel, your brother?"* (4:9). She answers half.
 - **He gives the offspring promise to a woman, in the covenant's own grammar.** *Harbâ ʾarbeh* —
   *"I will greatly multiply your offspring, that they will not be counted for multitude"* (16:10). The
@@ -440,6 +440,37 @@ sees'"* (16:13). **This is the only place in the Bible where a human being gives
 name is *ʾĒl Rŏʾî* — the God who sees. It is given by a slave with no altar, no covenant, no standing
 in the household, and no husband of her own, in a book where the men who do have all of those build
 altars and call *on* his name instead. See [[Seeing and Being Seen]] and [[The Names of God]].
+
+### He names himself, renames two people, and asks for something — Genesis 17:1–27
+
+**He speaks for twenty-two of twenty-seven verses**, in five blocks, and the human party manages one
+sentence. This is the most sustained divine speech in Genesis so far, and almost everything in it is
+new.
+
+- **He introduces himself under a name Scripture has never used.** *"I am God Almighty"* — *ʾĒl
+  Šadday*, first occurrence in the Bible, derivation genuinely unknown, and the name Exodus 6:3 will
+  say was the only one the patriarchs had for him. Genesis 17:1 states the problem in one verse:
+  *Yahweh* appears, and says *ʾĒl Šadday*. See
+  [[God Almighty - El Shaddai in Genesis and Exodus]].
+- **He asks for something, for the first time in a covenant.** *"Walk before me, and be blameless."*
+  Noah was told what to build; the animals of Genesis 9 were asked nothing; Abram slept through his
+  own ceremony at 15:17. Here there is an imperative before there is a sign, and the preposition has
+  moved from Enoch's and Noah's *with* to a servant's *before*. See [[Walking with God]].
+- **He renames two adults.** *Abram* to *Abraham*, with a gloss; *Sarai* to *Sarah*, with none. He is
+  the only one who does this in Genesis, and Sarah is the only woman in the Bible he does it to.
+- **He puts a sign on the human party's body.** The rainbow of 9:12–17 was his to look at; *ʾôt
+  bərît* here is cut into flesh, carried by everyone in the household including bought foreigners,
+  and attached to a penalty — *"cut off from his people"* — that the Torah never defines. See
+  [[Circumcision]].
+- **He names an unborn child for the second time in two chapters**, dates the birth (*"at this set
+  time next year"*), and refuses a substitution. *"Oh that Ishmael might live before you!"* is
+  answered with *"As for Ishmael, I have heard you"* — a pun on the boy's name, a full blessing,
+  twelve princes, a great nation — and then *"But my covenant I establish with Isaac."* He
+  distinguishes *blessed* from *covenanted* and gives no reason for the line he draws.
+
+*"When he finished talking with him, God went up from Abraham"* (17:22). The verb is *ʿālâ*, and it
+is the first time Genesis reports him leaving. See
+[[Circumcision, the Sign of the Covenant]].
 
 ## He is argued about, and then argued with — Job
 
@@ -616,6 +647,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   a slave. He hears an affliction no one reported, gives a woman the offspring promise, delivers
   Scripture's first annunciation, sends her back under the verb the exodus uses for slavery, and is
   named by her for seeing.
+- [[Circumcision, the Sign of the Covenant]] — twenty-two verses of speech in five blocks. He
+  introduces himself as *ʾĒl Šadday*, asks a covenant partner for something for the first time,
+  renames two adults, cuts a sign into the household's flesh with a penalty attached, names and dates
+  a child a year before conception, and refuses to let Ishmael stand in for him — while blessing
+  Ishmael in the same breath.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -650,6 +686,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   to, and the only human being in the Bible who gives him a name
 - [[Ishmael]] — named by him before birth for the fact that he heard; blessed, made a nation, and
   kept outside the covenant
+- [[Isaac]] — named and dated by him a year before conception, and the one the covenant is
+  established with
+- [[Sarah]] — the only woman in the Bible he renames, and the only one promised nations and kings
 - [[Shem]], [[Ham]], and [[Japheth]] — carried through the flood with their father, and the three
   from whom he repopulates the earth
 - [[Job (person)]] — who accuses him, appeals to him, and is finally answered by him, and of whom he
@@ -692,3 +731,5 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Names of God]]
 - [[Seeing and Being Seen]]
 - [[Slavery and Servitude]]
+- [[Circumcision]]
+- [[Kingship and Empire]]

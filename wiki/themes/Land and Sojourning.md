@@ -108,6 +108,12 @@ where that starts, in a sentence about a family that got halfway.
   title, zero possession, and a stated reason for the delay
 - [[From the River of Egypt to the Euphrates]] — the largest land claim in Scripture against the
   smaller map Numbers 34 and Ezekiel 47 actually work from
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:8, the land promise in its strongest
+  formulation and its sharpest contradiction: *"I will give to you, and to your offspring after you,
+  the land where you are traveling, all the land of Canaan, for an everlasting possession."*
+  *ʾĂḥuzzat ʿôlām* is the legal phrase for a permanent inherited holding, and it is applied, in the
+  same sentence, to a country the recipient is described as *traveling* in and will die owning one
+  cave of
 - [[Hagar and Ishmael]] — Genesis 16, where the theme turns around and looks at the household from
   outside. *"after Abram had lived ten years in the land of Canaan"* (16:3) is the verse's only
   measurement, and it is a measurement of waiting. And the pericope's other traveller is going the

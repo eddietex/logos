@@ -36,7 +36,7 @@ father, and to Sarah who bore you; for when he was but one I called him"* (Isaia
 **Two facts about him arrive from outside this passage** and belong on the page because they change
 how it reads.
 
-- **He is Sarai's half-brother.** *"She is indeed my sister, the daughter of my father, but not the
+- **He is Sarai's half-brother.** *"she is indeed my sister, the daughter of my father, but not the
   daughter of my mother"* (Genesis 20:12). Genesis 11:29 conspicuously gives [[Milcah]]'s father and
   withholds Sarai's; 20:12 is the only place in Scripture that supplies the answer, and it makes her
   [[Terah]]'s daughter by another wife. An old alternative identifies her with [[Iscah]] and makes
@@ -102,7 +102,7 @@ donkeys, servants, camels (12:16) — and it is God, not Abram, who gets her bac
 none of them, and he is escorted out of the country.
 
 **The ruse turns out to have been policy.** At 20:13, explaining the second occurrence to Abimelech,
-he says he arranged it with Sarai *"when God caused me to wander from my father's house"* — that is,
+he says he arranged it with Sarai *"When God caused me to wander from my father's house"* — that is,
 at the very start of the journey of 12:1, before the famine, before Egypt. And it is a half-truth
 rather than a lie: 20:12 makes her his half-sister. Genesis supplies both facts eight chapters late
 and neither of them here. See [[Deception]] and [[The Wife-Sister Episodes]].
@@ -122,7 +122,7 @@ Genesis a patriarch is said to come back to, and going back to it is the nearest
 the text gives him — performed without a word of confession.
 
 **Then he does the first admirable thing Genesis records of him.** The Egyptian wealth (13:2, *very
-heavy*) has grown until *"the land was not able to bear them"* (13:6), and the herdsmen fight.
+heavy*) has grown until *"The land was not able to bear them"* (13:6), and the herdsmen fight.
 Abram's response takes the quarrel off his staff and onto himself (*"between you and me"*), names the
 relationship in the word that failed in Genesis 4 (*"for we are relatives"* — literally *we are men,
 brothers*), and then gives away a choice that was his twice over, as the elder and as the man to whom
@@ -254,11 +254,47 @@ the naming, so she came back and told him.
 
 He is eighty-six (16:16). For the next fourteen years he has a son, and it is the wrong one.
 
+### In this pericope — Genesis 17:1–27
+
+**He gets a new name, and he is the last person in the chapter to say anything about it.**
+
+Thirteen years pass between 16:16 and 17:1 and Genesis reports nothing in them — no altar, no
+journey, no word in either direction. It is the longest silence in his life, and it sits exactly
+where the household had solved the problem for itself. He is ninety-nine when it ends.
+
+**Of twenty-seven verses, twenty-two are God talking.** He falls on his face twice, laughs once at
+the arithmetic, and speaks one sentence out loud. He does not respond to the new name, the covenant
+stipulation, the land grant, the circumcision command, or the promise about Sarah.
+
+*"Your name will no more be called Abram, but your name will be Abraham"* (17:5). *ʾAbrām*, **exalted
+father**, was an awkward name for a childless man; *ʾAbrāhām* is glossed on the spot as
+*ʾab-hămôn gôyim*, **father of a multitude of nations** — a pun rather than a derivation, and
+Scripture never calls him *Abram* again.
+
+*"Walk before me, and be blameless"* (17:1). **The first thing ever asked of a party to a covenant in
+the Bible.** He slept through Genesis 15 and undertook nothing; here, before circumcision is
+mentioned, there is an imperative — and both its halves are Noah's words (6:9) with one preposition
+changed, from *walked with God* to *walk before me*. See [[Walking with God]].
+
+*"Then Abraham fell on his face, and laughed"* (17:17). **He laughs at exactly what Sarah will laugh
+at one chapter later, and he is not asked about it.** God's next word to him is the name of the son,
+*Isaac*, *he laughs*. The wiki notes the long tradition that reads his laugh as joy and hers as
+unbelief, and that Genesis supplies no basis for the distinction. See [[Laughter and the Name Isaac]].
+
+*"Oh that Ishmael might live before you!"* (17:18). **His only spoken sentence in the chapter**, and
+it asks God to settle for the son he has. It is not condemned; it is refused, and the boy is given
+everything but the covenant.
+
+**Then he obeys completely and without a word.** *"in the same day, as God had said to him"* (17:23)
+— Ishmael, every man born in the house, every man bought with money, and himself at ninety-nine. It
+is the same grammar as 12:4, the command in full and the compliance in a clause, after thirteen years
+in which nothing at all happened. See [[Circumcision, the Sign of the Covenant]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: circumcision and
-the new name (17), the intercession for Sodom (18), the ruse repeated at Gerar (20), the birth of
-Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
+Almost everything the Bible says about Abraham is still ahead of this page: the intercession for
+Sodom (18), the ruse repeated at Gerar (20), the birth of Isaac (21), the binding (22), and his death
+and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
 it (Galatians 3:8). This page grows as those arrive.
@@ -309,7 +345,14 @@ it (Galatians 3:8). This page grows as those arrive.
   Genesis 16:6
 - Names his firstborn Ishmael at eighty-six, with a name only Hagar could have told him — Genesis
   16:15–16
-- Renamed Abraham — Genesis 17:5 *(not yet ingested)*
+- Met by *ʾĒl Šadday* at ninety-nine, after thirteen years of silence, and told to walk before him
+  and be blameless — Genesis 17:1, [[Circumcision, the Sign of the Covenant]]
+- Renamed Abraham, *father of a multitude of nations*, and promised nations and kings — Genesis
+  17:5–6
+- Given circumcision as the covenant's sign, with a sanction attached — Genesis 17:9–14
+- Told the son will be Sarah's; laughs, and asks for Ishmael instead — Genesis 17:16–18
+- Told the son's name and the date of his birth — Genesis 17:19, 21
+- Circumcises his whole household and himself the same day, at ninety-nine — Genesis 17:23–27
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -325,6 +368,9 @@ it (Galatians 3:8). This page grows as those arrive.
   is credited with righteousness for believing, and then he sleeps through his own covenant
 - [[Hagar and Ishmael]] — Genesis 16:1–16; he listens, complies, says one sentence that hands a woman
   over, is not spoken to by God at all, and ends the chapter naming a son he was not told to name
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:1–27; renamed, given the first covenant
+  stipulation in Scripture and the first covenant sign borne in the flesh, told the son will be
+  Sarah's, and obedient the same day without a word
 
 ## Related people
 
@@ -348,7 +394,9 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Chedorlaomer]] — the overlord he defeats with three hundred eighteen men
 - [[Eliezer of Damascus]] — his steward and, until Genesis 15:4, his heir
 - [[Hagar]] — his second wife, whose name he never says and to whom he never speaks
-- [[Ishmael]] — his firstborn, his only son for fourteen years, and the one he will plead for at 17:18
+- [[Ishmael]] — his firstborn, his only son for fourteen years, and the one he pleads for at 17:18
+- [[Isaac]] — the son named to him a year before conception, and the one the covenant is established
+  with
 
 ## Themes associated
 
@@ -371,3 +419,6 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Prophecy and Vision]]
 - [[Slavery and Servitude]]
 - [[Marriage]]
+- [[Circumcision]]
+- [[Walking with God]]
+- [[Kingship and Empire]]

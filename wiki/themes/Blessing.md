@@ -49,14 +49,14 @@ costly.
 - **Genesis 6:9–7:24** — the theme by its absence, which is worth recording because the account is
   so full of creatures. Every animal that boards the ark is under the blessing of 1:22, and the
   eight people are under 1:28, and the flood narrative mentions none of it. God's word to Noah is
-  instruction and covenant, never blessing. The command *"be fruitful and multiply"* does not return
+  instruction and covenant, never blessing. The command *"Be fruitful and multiply"* does not return
   until the animals leave the ship at 8:17 and the men receive it again at 9:1, on dry ground —
   which makes the blessing one of the things the flood suspends and the new world restarts. See
   [[Noah and the Flood]].
 - **Genesis 9:1–7** — the blessing returned to humanity, and shortened. *"Be fruitful, multiply, and
   replenish the earth"* (9:1) is 1:28's opening clause word for word; the rest of 1:28 is not reissued.
   *Subdue* (*kābaš*) and *have dominion* (*rādâ*) do not occur in Genesis 9 at all, and what stands in
-  their place is *"the fear of you and the dread of you"* (9:2) — the phrase used later of the terror
+  their place is *"The fear of you and the dread of you"* (9:2) — the phrase used later of the terror
   that falls on Israel's enemies — with the creatures *"delivered into your hand"*, the formula for a
   city handed to an army. Blessing survives the flood; the peaceable form of dominion does not.
   The unit closes by repeating the blessing at 9:7, so that a diet, a blood prohibition, and a law
@@ -88,7 +88,7 @@ costly.
 - **Genesis 11:10–32** — the theme present only by its absence, and worth noting for that. Nothing is
   blessed in these twenty-three verses; God is not named in them at all. Meanwhile the blessing of
   9:1 is visibly failing on its own terms — the lifespans halve and halve again, and the register of
-  *"be fruitful and multiply"* ends on *"Sarai was barren. She had no child"* (11:30). Genesis puts
+  *"Be fruitful and multiply"* ends on *"Sarai was barren. She had no child"* (11:30). Genesis puts
   the collapse of the blessing immediately before the passage that uses the word five times in two
   verses (12:2–3). See [[From Shem to Abram]] and [[Barrenness]].
 - **Genesis 12:2–3** — and then the word arrives in bulk. The root *brk* occurs **five times in two
@@ -97,7 +97,7 @@ costly.
   curses (3:14, 3:17, 4:11, 5:29, 9:25). Five for five, and the text never points it out — which is
   the strongest structural evidence that chapter 12 is composed as the answer to chapters 1–11
   rather than as a fresh start after them. Three further features are worth keeping. **(1)** The
-  blessing is now attached to a **person** rather than to a species, a day, or a race: *"you will be
+  blessing is now attached to a **person** rather than to a species, a day, or a race: *"You will be
   a blessing"* makes a man into a medium. **(2)** Its stated reach is universal — *kōl mišpəḥōt
   hāʾădāmâ*, all the families of the **ground**, using the Table of Nations' word for the seventy
   peoples and the word for the soil cursed at 3:17. Both casualties of the primeval history are
@@ -151,7 +151,7 @@ costly.
 - [[The Call of Abram]] — 12:2–3: five uses of *brk* against the five curses of Genesis 1–11, aimed
   by name at the scattered families and the cursed ground
 - [[Abram and Lot Separate]] — 13:2, 6: the blessing as a weight. *Kābēd meʾōd*, *very heavy*, is what
-  the Egyptian bride-price has become, and four verses later it is the stated reason *"the land was
+  the Egyptian bride-price has become, and four verses later it is the stated reason *"The land was
   not able to bear them"*. Genesis reports the blessing causing a family quarrel and never suggests
   giving any of it back
 - [[The Covenant Between the Pieces]] — Genesis 15: the blessing's two contents — offspring and land
@@ -165,7 +165,14 @@ costly.
   patriarch under the stars but to a pregnant slave at a desert spring, and the only time in Scripture
   a woman receives it in her own right. The blessing arrives outside the line it was promised to and
   is not taken back from it
-- [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17, where the blessing acquires plurals. Abram
+  was to become *a great nation* (12:2); Abraham is *"the father of a multitude of nations"* and
+  *"Kings will come out of you"* (17:4–6), and Sarah, at ninety, is blessed twice in one verse and told
+  *"she will be a mother of nations. Kings of peoples will come from her"* (17:16). The same speech
+  hands Ishmael the entire blessing formula — *blessed*, *fruitful*, *multiplied exceedingly*, twelve
+  princes, a great nation (17:20) — and withholds the covenant, which is the book's clearest statement
+  that the two are not the same word
+- [[The Sons of God and the Corruption of the Earth]] — *"When men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
   head of livestock), assembled in one verse so that the rest of the book can take it away; and the

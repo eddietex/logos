@@ -25,7 +25,7 @@ two verses set a pattern the theme never really leaves.
 - **It is declared, not demonstrated.** The narrative gives Noah no righteous act to point at before
   calling him righteous. What follows the declaration is obedience (6:22, 7:5), not what precedes
   it.
-- **It is comparative in its first instance.** *"Among the people of his time"*, *"in this
+- **It is comparative in its first instance.** *"among the people of his time"*, *"in this
   generation"* — the standing is stated against a specific and very low benchmark, and whether that
   qualifies the praise is an old argument (see [[Noah and the Flood]]).
 - **It comes second.** Genesis 6:8 said Noah *found favor*; 6:9 says he was *righteous*. Which
@@ -107,6 +107,12 @@ about.
   is conducted over
 - [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] — Romans 4, Galatians 3:6,
   James 2:23, and the Old Testament's own use of the same formula for a deed at Psalm 106:31
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:1, where *tāmîm* stops being a verdict and
+  becomes a command: *"Walk before me, and be blameless."* Two chapters after righteousness is
+  credited to Abram for believing, the same man is told to be what Noah was declared to be — and
+  Genesis makes no attempt to order the two verses. Romans 4:9–12 then reads the sequence as the whole
+  argument: credited at 15:6, signed at 17:10, and therefore the sign seals a standing it did not
+  create. See [[The Sign and the Seal - Genesis 17 in Romans 4]]
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 and Job 1:1 side by side, and what the
   verdict buys in each book
 - [[Eliphaz's Second Speech]] — Job 15:14, *"What is he who is born of a woman, that he should be

@@ -82,6 +82,13 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   It is also the chapter that shows what a king could be: [[Melchizedek]] holds the crown and the
   priesthood together in one city, which Israel's own law will keep apart
 
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:6, 16: the Bible's first promise of
+  monarchy, made by God, unprompted, as a blessing, to a childless ninety-nine-year-old and a
+  ninety-year-old woman. *"Kings will come out of you"* and *"Kings of peoples will come from her"* —
+  the second the only time a woman in Scripture is told it directly. Everything the Old Testament
+  later says against kingship, from Judges' refrain to 1 Samuel 8, has to be held beside this. See
+  [[Kings Will Come Out of You]]
+
 ## Related themes
 
 - [[City and Civilization]] — the eight cities the first kingdom is made of

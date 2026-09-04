@@ -55,7 +55,7 @@ land of Canaan**"* (Genesis 12:5). The second clause is the one 11:31 never got 
 crosses it from top to bottom — [[Shechem]] in the northern highlands, the ridge between [[Bethel]]
 and [[Ai]], then south into [[The Negev]] — building an altar at the first two stops and pitching a
 tent. Two things are established in the same breath and neither is softened: the land is promised
-(*"I will give this land to your offspring"*, 12:7), and it is occupied (*"at that time, Canaanites
+(*"I will give this land to your offspring"*, 12:7), and it is occupied (*"At that time, Canaanites
 were in the land"*, 12:6). Abram is given a promise about his descendants and no ground at all —
 *"no inheritance in it, no, not enough to set his foot on"*, as Acts 7:5 puts it. See
 [[The Call of Abram]] and [[Land and Sojourning]].
@@ -93,6 +93,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[Hagar and Ishmael]] — Genesis 16:3, where the land appears as a clock: *"after Abram had lived
   ten years in the land of Canaan"*. It is the only thing the verse measures, and it is the reason
   the chapter happens — ten years in the country he was promised, and no child in it
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:8, the promise's strongest and most
+  self-contradicting formulation: *"I will give to you, and to your offspring after you, the land
+  where you are traveling, all the land of Canaan, for an everlasting possession."* *ʾĂḥuzzat ʿôlām*
+  is the legal term for a permanent inherited holding, and the same sentence calls him a traveller in
+  it. The land is named in full — *all the land of Canaan* — for the first time in a promise
 
 ## Related places
 
@@ -128,5 +133,7 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   command — Genesis 13:14–17, [[Abram and Lot Separate]]
 - Given a border for the first time — from the river of Egypt to the Euphrates — and inventoried by
   ten peoples — Genesis 15:18–21, [[The Covenant Between the Pieces]]
+- Granted as *an everlasting possession* to a man the same verse calls a traveller in it — Genesis
+  17:8, [[Circumcision, the Sign of the Covenant]]
 - Ten years of Abram's residence in it pass without a child, and his household turns to a slave —
   Genesis 16:3, [[Hagar and Ishmael]]

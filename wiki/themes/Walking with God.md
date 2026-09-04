@@ -33,7 +33,7 @@ an interpretation, and the one Hebrews 11:5 builds its argument from when it say
 testimony given to him that before his translation he had been well pleasing to God."* See
 [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]].
 
-**Related but not identical constructions.** Abraham is told *"walk before me, and be blameless"*
+**Related but not identical constructions.** Abraham is told *"Walk before me, and be blameless"*
 (17:1) — a different preposition (*lipnê*, before), and arguably a different relation: service in
 God's sight rather than company at his side. Israel is repeatedly told to *walk in* God's ways
 (Deuteronomy 8:6), which is obedience to a path. Micah 6:8 has *"walk humbly with your God"* and
@@ -60,9 +60,16 @@ with God goes with not being destroyed.
   [[Noah and the Flood]].
 - **Genesis 3:8** — the same verb and stem, of God walking in the garden: the vocabulary this idiom
   borrows.
-- **Genesis 17:1; 24:40; 48:15** *(not yet ingested)* — the patriarchs *walk before* God, and Jacob
-  speaks of the God *"before whom my fathers Abraham and Isaac walked"*. A related but distinct
-  construction.
+- **Genesis 17:1** — *"Walk before me, and be blameless"*: both of Noah's words (6:9) given back to
+  Abraham as an imperative, with the preposition changed from *ʾet*, *with*, to *lə-pānay*, *before*.
+  It is the first thing ever asked of a party to a covenant in the Bible, and the switch is
+  consistent afterwards — 24:40 and 48:15 keep *before*, and *walked with God* is never said of anyone
+  again. *Walking with* is companionship, said of two men exempted from a general death; *walking
+  before* is the posture of a servant in his lord's sight, the idiom of 1 Samuel 2:30 and 1 Kings
+  8:25. Genesis changes the preposition at the exact point where the relationship acquires
+  obligations. See [[Circumcision, the Sign of the Covenant]].
+- **Genesis 24:40; 48:15** *(not yet ingested)* — the construction repeated, and Jacob speaking of the
+  God *"before whom my fathers Abraham and Isaac walked"*.
 - **Leviticus 26:12** — *"I will walk among you, and will be your God"*: the direction reversed,
   and made covenantal.
 - **Micah 6:8** — *"to walk humbly with your God"*, using the *ʾet* of Genesis 5, and the closest
@@ -82,6 +89,8 @@ with God goes with not being destroyed.
   chapter's refrain
 - [[Noah and the Flood]] — the idiom's second and final use, at 6:9, alongside the two words the
   passage does define
+- [[Circumcision, the Sign of the Covenant]] — Genesis 17:1, where the idiom is handed to Abraham
+  with a different preposition and turned from a description into a command
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — what Hebrews and Jude make of it, and
   the Septuagint's *"pleased God"*
 
