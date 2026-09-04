@@ -426,11 +426,47 @@ the journey needs, both times a voice from the sky stops the loss at the last mo
 [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] and
 [[The Birth of Isaac and the Sending of Hagar]].
 
+### In this pericope — Genesis 21:22–34
+
+**He is asked to swear that he will not lie, by the man he lied to, and he agrees in two words.**
+
+Abimelech arrives with his army commander, concedes the obvious (*"God is with you in all that you
+do"*), and asks for a three-generation non-aggression oath, grounding the request in the *ḥesed* he
+has shown — which was a wife returned, livestock, silver, and a residence permit, against the *ḥesed*
+Abraham had asked of Sarah at 20:13, which was her cooperation in a lie. The verb Abimelech chooses
+for what he wants ruled out is *šāqar*, **to deal falsely**, its first occurrence in Scripture.
+**Abraham does not negotiate, qualify, or explain.** *"I will swear."*
+
+**Then he produces a grievance**, and it is the first complaint he lodges against anybody in the
+book: a well of his, seized by the king's servants. The verb is *hôkîaḥ*, pressing a case to
+judgment. He raises it at the exact moment the other party wants something from him, and he does not
+argue it from the promise — he argues it from the work: *"that I have dug this well."* **The land has
+been promised to him for nine chapters and it does not come up once in the negotiation.**
+
+**And the gifts run the other way this time.** At 12:16 he took from Pharaoh and said nothing; at
+14:22–23 he swore an oath in order to refuse the king of Sodom; at 20:14 he took from Abimelech
+without a word. Here — *"Abraham took sheep and cattle, and gave them to Abimelech"* — he pays. It is
+the fourth posture he has taken toward a foreign ruler's property in eight chapters, and Genesis
+grades none of them.
+
+**He closes the scene by planting a tree.** The seven ewe lambs put Abimelech on record; the oath
+names the place; and then, with the delegation gone, *"Abraham planted a tamarisk tree in Beersheba,
+and called there on the name of Yahweh, the Everlasting God."* **It is the only act of planting in
+the patriarchal narratives.** He has built altars and pitched tents and owns nothing; a tamarisk is a
+claim on decades, made by a resident alien in a country he has just contracted not to seize. And the
+name he calls God by — *ʾĒl ʿÔlām*, which occurs here and nowhere else in the Bible — is the very
+adjective Genesis 17 had used four times of the covenant and the land. **He names God by the
+timescale of a promise, at the moment his legal standing is weakest**, and the next verse calls him a
+foreigner. See [[The Treaty at Beersheba]],
+[[The Everlasting God - El Olam in Genesis and Isaiah]], and [[The Trees of the Patriarchs]].
+
+*"Abraham lived as a foreigner in the land of the Philistines many days."* That is the last thing
+Genesis says about him before *"After these things, God tested Abraham"*.
+
 ### Where the rest of him is
 
 Much of what the Bible says about Abraham is still ahead of this page:
-the treaty at Beersheba (21:22–34), the binding (22), and his death
-and burial at Machpelah (25). The New Testament
+the binding (22), and his death and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
 it (Galatians 3:8). This page grows as those arrive.
@@ -515,6 +551,15 @@ it (Galatians 3:8). This page grows as those arrive.
 - Makes a great feast on the day Isaac is weaned — Genesis 21:8
 - Grieved *very* at Sarah's demand, and told to comply — *"listen to her voice"* — Genesis 21:11–13
 - Rises early, gives Hagar bread and water, and sends her and the boy away — Genesis 21:14
+- Swears to Abimelech, at his request, not to deal falsely with him, his son, or his son's son —
+  Genesis 21:23–24, [[The Treaty at Beersheba]]
+- Lodges a complaint over a well seized by Abimelech's servants — Genesis 21:25
+- Gives sheep and cattle to Abimelech and cuts a covenant with him — Genesis 21:27
+- Sets seven ewe lambs apart as a witness that he dug the well; the place is named Beersheba —
+  Genesis 21:28–31
+- Plants a tamarisk at Beersheba and calls on the name of Yahweh, *ʾĒl ʿÔlām*, the Everlasting God —
+  Genesis 21:33
+- Lives as a foreigner in the land of the Philistines many days — Genesis 21:34
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -547,6 +592,10 @@ it (Galatians 3:8). This page grows as those arrive.
   does not speak: the promised son named, circumcised, and feasted, and then a grief the narrator
   calls *very evil in his eyes* overruled in one verse, and a woman and a boy sent into a desert with
   bread and a skin of water
+- [[The Treaty at Beersheba]] — Genesis 21:22–34; asked by the man he deceived to swear he will not
+  deal falsely, he agrees in two words, then lodges the first complaint of his life, pays for the
+  treaty, sets out seven lambs as evidence, plants the only tree any patriarch plants, and names God
+  *the Everlasting God* one verse before the narrator calls him a foreigner
 
 ## Related people
 
@@ -563,8 +612,10 @@ it (Galatians 3:8). This page grows as those arrive.
   without a word at 12:17
 - [[Pharaoh (of Abram's time)]] — the first person he deceives, and the first to put a moral question
   to him
-- [[Abimelech (of Abraham's time)]] — the second, who unlike the first gets an answer, and who pays
-  him a thousand pieces of silver for the privilege of rebuking him
+- [[Abimelech (of Abraham's time)]] — the second, who unlike the first gets an answer, who pays him a
+  thousand pieces of silver for the privilege of rebuking him, and who then comes back to ask him to
+  swear he will not do it again
+- [[Phicol]] — the army commander who stands beside that king at the swearing, and says nothing
 - [[Melchizedek]] — the priest-king who blesses him, and the first person in Scripture he gives
   anything to
 - [[Bera]] — the king of Sodom, whose money he refuses under oath

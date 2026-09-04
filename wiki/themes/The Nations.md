@@ -145,6 +145,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   said to be with anyone in the covenant line, and his line begins with an Egyptian mother and an
   Egyptian wife his mother fetches for him. Genesis gives the non-covenant nations more than the
   arguments later built on them do, and this is the clearest case
+- [[The Treaty at Beersheba]] — Genesis 21:22–34, where a foreign king reads God's favour off a
+  foreigner's prosperity and acts on it: *"God is with you in all that you do."* He is right, and he
+  is reasoning politically rather than piously — a man who is backed is a man you sign with. The
+  pattern holds for the fourth consecutive pericope: **the outsider supplies the moral and
+  theological vocabulary**, and the covenant family supplies the behaviour that needs excusing.
+  Abimelech asks Abraham to swear he will not *deal falsely*, one chapter after he did
 
 ## Related themes
 

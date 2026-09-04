@@ -88,6 +88,13 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   the second the only time a woman in Scripture is told it directly. Everything the Old Testament
   later says against kingship, from Judges' refrain to 1 Samuel 8, has to be held beside this. See
   [[Kings Will Come Out of You]]
+- [[The Treaty at Beersheba]] — Genesis 21:22–34: a king with an army who negotiates instead. He
+  arrives with his commander, concedes that God is with the other party, asks for a
+  three-generation non-aggression clause, pleads ignorance of his own servants' seizure, takes the
+  livestock, swears, and goes home. **Genesis has now shown four kinds of king in eight chapters** —
+  the empire that collects tribute (14:1–11), the priest-king who blesses (14:18–20), the vassal who
+  bargains for bodies (14:21), and the small king who buys peace with a sojourner by treaty. Only the
+  last one is still standing at the end of his chapter
 
 ## Related themes
 
@@ -108,5 +115,7 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 - [[Chedorlaomer]] — the empire's side of Genesis 14
 - [[Bera]] — the king of Sodom, and the vassal who rebelled
 - [[Melchizedek]] — priest and king at once, and the pattern Psalm 110 hands a Davidic king
+- [[Abimelech (of Abraham's time)]] — the king who settles rather than seizes, twice
+- [[Phicol]] — his army commander, whose presence is the argument he never has to make
 - [[Ham]]
 - [[Noah]]

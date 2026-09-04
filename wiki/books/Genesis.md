@@ -141,7 +141,26 @@ even fratricidal betrayal into rescue (Joseph).
   the rescue is not a well made but a well seen, *"God opened her eyes"*; and *"God was with the boy"*
   — the formula's first occurrence in Genesis, spent on the son who has just been disinherited, two
   verses before a foreign king says the same words to Abraham. She takes him a wife out of Egypt,
-  which no other mother in the Bible does for her son.
+  which no other mother in the Bible does for her son. And then, in
+  [[The Treaty at Beersheba]], the cycle goes quiet before its hardest chapter. Abimelech comes back
+  with the commander of his army, says the words the narrator had just said of Ishmael — *"God is
+  with you in all that you do"* — and asks the man who lied to him in chapter 20 to swear he will not
+  *deal falsely* with him, his son, or his son's son. Abraham agrees in two words, then produces the
+  first complaint of his life, over a well the king's servants had seized; the king pleads ignorance
+  for the second time in two chapters and is believed for the second time; and the gifts run
+  backwards from chapter 20, *"Abraham took sheep and cattle, and gave them to Abimelech"*, where
+  Abimelech had taken sheep and cattle and given them to Abraham. Seven ewe lambs are set apart, not
+  as payment but as evidence — *"that it may be a witness to me, that I have dug this well"* — and
+  the place is named **Beersheba**, *well of the oath* and *well of seven* at once, in the neatest
+  piece of wordplay in the book. **It is the first covenant in Scripture cut between two human
+  beings**, and the first oath sworn between men; God is invoked by both parties as its guarantor and
+  neither speaks nor acts anywhere in the thirteen verses. Then the delegation goes home, and Abraham
+  plants a **tamarisk** — the only tree any patriarch plants — and calls there on the name of Yahweh,
+  *ʾĒl ʿÔlām*, **the Everlasting God**, a phrase that occurs here and nowhere else in the Bible, and
+  which is the covenant's own adjective from chapter 17 turned back on its maker. The last verse
+  before the binding says he *"lived as a foreigner in the land of the Philistines many days"*: the
+  promised land held by permission, the promise unmentioned in the negotiation, and a slow tree in
+  ground he has just conceded is not his.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -182,7 +201,7 @@ merge, or reorder them freely.
 - [x] [[Lot and His Daughters]] — Genesis 19:30–38
 - [x] [[Abraham and Abimelech]] — Genesis 20:1–18
 - [x] [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21
-- [ ] The Treaty at Beersheba — Genesis 21:22–34
+- [x] [[The Treaty at Beersheba]] — Genesis 21:22–34
 - [ ] The Binding of Isaac — Genesis 22:1–19
 - [ ] Nahor's Line and the Burial of Sarah — Genesis 22:20–23:20
 - [ ] A Wife for Isaac — Genesis 24:1–67
@@ -255,6 +274,9 @@ merge, or reorder them freely.
 - [[Circumcision]]
 - [[Hospitality]]
 - [[Mediation and Advocacy]]
+- [[Oaths and Vows]]
+- [[Strife and Peacemaking]]
+- [[The Names of God]]
 
 ## Key people
 
@@ -289,6 +311,7 @@ merge, or reorder them freely.
 - [[Moab (person)]]
 - [[Ben Ammi]]
 - [[Abimelech (of Abraham's time)]]
+- [[Phicol]]
 
 ## Key places
 
@@ -323,3 +346,4 @@ merge, or reorder them freely.
 - [[Kadesh]]
 - [[Beersheba]]
 - [[Paran]]
+- [[The Land of the Philistines]]

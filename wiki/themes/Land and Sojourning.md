@@ -148,6 +148,19 @@ where that starts, in a sentence about a family that got halfway.
   Hagar *"wandered"* — *wattētaʿ*, from *tāʿâ*, the verb Abraham had used one chapter earlier of his
   own call: *"When God caused me to wander from my father's house"* (20:13). The same word for the
   journey he was sent on and the journey he sends her on
+- [[The Treaty at Beersheba]] — Genesis 21:22–34, where the theme reaches its sharpest single verse.
+  Abraham **signs a non-aggression treaty over the land he has been promised**, with the man who
+  currently holds it, binding himself and his son and his son's son not to deal falsely — and
+  extending the obligation *"to the land in which you have lived as a foreigner"* (21:23). He
+  defends his claim to a well not by the promise but by the labour — *"that I have dug this well"*
+  (21:30); and the pericope closes
+  *"Abraham lived as a foreigner in the land of the Philistines many days"* (21:34), *wayyāgor*, the
+  theme's own verb, for the last time before Moriah. **The promise is never mentioned in the
+  negotiation.** And in the middle of it he plants a **tamarisk** — the one act of planting in the
+  patriarchal narratives, on ground he has just conceded is not his, invoking the God whose duration
+  runs past the horizon. See [[The Trees of the Patriarchs]] and
+  [[The Everlasting God - El Olam in Genesis and Isaiah]]
+
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

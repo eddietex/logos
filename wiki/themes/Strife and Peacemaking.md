@@ -33,8 +33,18 @@ choice that was legally his twice over, as elder and as the man to whom the land
 (12:7). The narrative rewards him immediately and without saying that it is a reward: the promise is
 enlarged four verses later (13:14–17). See [[Abram and Lot Separate]].
 
-**Isaac repeats it, deliberately.** The herdsmen of Gerar quarrel with his over wells; he yields the
-first (*Esek*, *contention*), yields the second (*Sitnah*, *enmity*), and digs a third unopposed —
+**And once, at 21:22–34, he does it the other way — by law rather than by concession.** Abimelech's
+servants have seized a well; Abraham *"complained"* (*hôkîaḥ*, the verb for pressing a case to
+judgment) at the moment the king most wanted a favour from him; Abimelech denied knowledge; and the
+matter closed with sheep and cattle handed over, an oath sworn, seven ewe lambs set apart as
+evidence, and the place named for the swearing. **Nobody yields, nobody adjudicates, and nothing is
+conceded — the dispute is converted into a document.** It is the only conflict in Genesis settled by
+what we would now call legal instrument, and it is settled with an army commander standing there and
+no violence of any kind. See [[The Treaty at Beersheba]] and [[Oaths and Vows]].
+
+**Isaac repeats the earlier method, deliberately.** The herdsmen of Gerar quarrel with his over the
+same wells; he yields the first (*Esek*, *contention*), yields the second (*Sitnah*, *enmity*), and
+digs a third unopposed —
 *"He called it Rehoboth. He said, 'For now Yahweh has made room for us, and we will be fruitful in
 the land.'"* (26:20–22). Same dispute as his father's, same water, same solution: concede the
 ground and let God supply the room.
@@ -83,6 +93,10 @@ the land.
   parties for the fourth time, and the only occasion the other party is God. At 13:8–9 he ended a
   quarrel by conceding what was his; here he concedes nothing and argues, and the concessions all
   come from the other side
+- [[The Treaty at Beersheba]] — Genesis 21:22–34; the same man's fifth appearance in this theme, and
+  the only one in which he neither concedes nor argues but files a complaint and takes a settlement.
+  See also [[The Wells of Abraham and the Wells of Isaac]] for the dispute's second run, a generation
+  later, at the same well
 - Genesis 26:17–22 — Isaac's wells, conceded twice *(not yet ingested)*
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
@@ -99,9 +113,14 @@ the land.
 - [[Favor and Grace]] — the enlarged promise that follows the concession, unearned and unexplained
 - [[Mediation and Advocacy]] — standing between parties, which Abram will do for Sodom five chapters
   later
+- [[Oaths and Vows]] — the other way to end a dispute: bind the future instead of dividing the
+  present
+- [[Covenant]] — what a settled quarrel between two households turns into at 21:27
 
 ## Related people
 
-- [[Abraham]] — the first peacemaker in Scripture, at his own expense
+- [[Abraham]] — the first peacemaker in Scripture, at his own expense; and, at Beersheba, the first
+  litigant
 - [[Lot]] — who takes what he is offered
+- [[Abimelech (of Abraham's time)]] — the other party to the one dispute in Genesis settled by treaty
 - [[Cain]] and [[Abel]] — the case the theme is defined against

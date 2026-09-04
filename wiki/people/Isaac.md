@@ -88,6 +88,20 @@ And the expulsion is what makes the next chapter's sentence possible. *"your son
 whom you love, even Isaac"* (22:2) is exact, and only becomes true at 21:14. See
 [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]].
 
+### Off-stage — Genesis 21:22–34
+
+He is not named and not present, and the pericope is partly about him anyway. Abimelech asks Abraham
+to swear he will not deal falsely *"with me, nor with my son, nor with my son's son"* (21:23) — the
+standard three-generation reach of a treaty clause, asked of a man who has had exactly one legitimate
+son for about three years. **The obligation Abraham takes on at Beersheba is one Isaac will inherit**,
+and Genesis 26:26–33 shows him honouring it: the same king's name, the same army commander's name,
+the same well, and a second oath. See [[The Treaty at Beersheba]] and
+[[The Wells of Abraham and the Wells of Isaac]].
+
+Beersheba also becomes the address the next chapter comes home to — *"So Abraham returned to his
+young men, and they rose up and went together to Beersheba. Abraham lived at Beersheba"* (22:19) —
+so the well his father contracts for here is the ground the binding sets out from and returns to.
+
 ### Where the rest of him is
 
 - **Genesis 22:1–19** — the binding. He carries the wood, asks *"where is the lamb for a burnt
@@ -119,6 +133,8 @@ whom you love, even Isaac"* (22:2) is exact, and only becomes true at 21:14. See
 - Weaned, and a great feast made on the day — Genesis 21:8
 - His inheritance made the ground of Ishmael's expulsion; *"your offspring will be named through
   Isaac"* — Genesis 21:10, 12
+- Named in the treaty clause his father swears to at Beersheba, *"nor with my son, nor with my son's
+  son"* — Genesis 21:23, [[The Treaty at Beersheba]]
 - Bound on the mountain in the land of Moriah — Genesis 22:1–19 *(not yet ingested)*
 - Marries Rebekah, brought to him from his father's kindred — Genesis 24:67 *(not yet ingested)*
 - Buries Abraham with Ishmael, and settles at Beer Lahai Roi — Genesis 25:9–11 *(not yet ingested)*
@@ -136,6 +152,8 @@ whom you love, even Isaac"* (22:2) is exact, and only becomes true at 21:14. See
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21; born on the date, named as
   instructed, circumcised on the eighth day, weaned at a feast that ends with his brother in a
   desert, and made the sole line of the promise in a sentence he is far too young to hear
+- [[The Treaty at Beersheba]] — Genesis 21:23; off-stage and unnamed, and the *son* whose safety the
+  treaty is designed to reach, in an obligation he will renew at the same well in Genesis 26
 
 ## Related people
 

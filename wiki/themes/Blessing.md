@@ -187,6 +187,13 @@ costly.
   exact phrase of 12:2, given to the son who has just been disinherited, in the same chapter that
   restricts the covenant to the other one. And then the plainest form of blessing the book has:
   *"God was with the boy, and he grew"* (21:20), the formula's first occurrence in Genesis
+- [[The Treaty at Beersheba]] — Genesis 21:22, the formula's **second** occurrence, two verses later
+  and about the other son's father: *"God is with you in all that you do."* Genesis puts *God is
+  with* on the disinherited boy in a wilderness and on the man who disinherited him in a
+  negotiation, inside one chapter, and does not comment. It is also 12:2–3 being read back to Abraham
+  by one of the families of the earth: a foreign king infers divine favour from visible prosperity,
+  and acts on the inference. The phrase then carries the whole Joseph narrative (39:2, 3, 21, 23) and
+  Isaac's own treaty (26:28)
 
 ## Related themes
 

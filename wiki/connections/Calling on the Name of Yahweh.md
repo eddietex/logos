@@ -14,7 +14,11 @@ tags: [connection]
 - **Genesis 13:4** — *"to the place of the altar, which he had made there at the first. There Abram
   called on Yahweh's name."* The only altar in Genesis a patriarch is said to return to, and the only
   repetition of the formula by the same man at the same place — [[Abram and Lot Separate]]
-- **Genesis 21:33; 26:25** *(not yet ingested)* — Abraham at Beersheba, and Isaac at Beersheba
+- **Genesis 21:33** — *"Abraham planted a tamarisk tree in Beersheba, and called there on the name of
+  Yahweh, the Everlasting God."* The only occurrence attached to a **tree** rather than an altar, and
+  the only one that adds a divine name to the formula — [[The Treaty at Beersheba]]
+- **Genesis 26:25** *(not yet ingested)* — Isaac at the same place: *"He built an altar there, and
+  called on Yahweh's name, and pitched his tent there."*
 - **Exodus 6:2–3** *(not yet ingested)* — *"I am Yahweh. I appeared to Abraham, to Isaac, and to
   Jacob, as God Almighty; but by my name Yahweh I was not known to them."*
 - **Joel 2:32** — *"whoever will call on Yahweh's name shall be saved"*
@@ -37,10 +41,13 @@ account of the origin of idol worship on it. Nearly all modern translations, WEB
 the same phrase is unambiguously positive everywhere else it appears.
 
 **2. What "calling on the name" means.** *Qārāʾ bešēm YHWH* is broader than petition. Its other
-Genesis occurrences all attach it to an altar — Abram at Bethel (12:8), Abram returning to Bethel
+Genesis occurrences all attach it to a fixed site — Abram at Bethel (12:8), Abram returning to Bethel
 (13:4), Abraham at Beersheba (21:33), Isaac at Beersheba (26:25) — so it covers public invocation
 and proclamation as much as private prayer: naming God aloud, in a place, in a way other people can
-hear. By the time Joel uses it, it has become the shorthand for the whole act of turning to God for
+hear. **Three of the four are altars; the exception is 21:33, where what is planted is a tamarisk**,
+and where the formula is uniquely extended with a name for God — *Yahweh, ʾĒl ʿÔlām, the Everlasting
+God*. See [[The Trees of the Patriarchs]] and
+[[The Everlasting God - El Olam in Genesis and Isaiah]]. By the time Joel uses it, it has become the shorthand for the whole act of turning to God for
 rescue, and that is the sense the New Testament inherits.
 
 **3. The problem with Exodus 6:3.** Genesis 4:26 has the name *Yahweh* in public use ten generations

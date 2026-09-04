@@ -110,6 +110,12 @@ has become a nation.
   lets the deceived party state the charge and the deceiver answer it. Abraham's three-part reply is
   the fullest defence of a deception anywhere in the book — a false premise about the place, a true
   technicality about the kinship, and the admission that it had been standing policy since 12:1
+- [[The Treaty at Beersheba]] — Genesis 21:23, the theme named by its absence and by a first
+  occurrence. *"swear to me here by God that you will not deal falsely with me"* — *šāqar*, the
+  verb's first appearance in Scripture, and the root behind the ninth commandment's *false witness*
+  (Exodus 20:16) and Leviticus 19:11's *"you shall not deal falsely"*. **The man who asks for the
+  oath is the man who was deceived one chapter earlier, and the oath is what he now needs instead of
+  trust.** Genesis does not connect the two scenes out loud; it puts them eleven verses apart
 - Genesis 26:6–11 — the ruse a third time, inherited *(not yet ingested)*
 - Genesis 27:1–45 — the stolen blessing, and the one flat lie in the sequence *(not yet ingested)*
 - Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*

@@ -88,3 +88,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]] | thread | Genesis 20:3–9 · Genesis 12:17 · Leviticus 4:1–5:19 · Numbers 15:22–31 · Numbers 35:9–34 · Deuteronomy 19:1–13; 21:1–9 · Joshua 20 · 1 Samuel 14:24–45 · 2 Samuel 6:6–7 · Psalm 19:12–13 · Luke 23:34 · Acts 3:17 · 1 Timothy 1:13 |
 | [[Yahweh Visited Sarah - Paqad and the Visitations of God]] | thread | Genesis 21:1 · Genesis 50:24–25 · Exodus 3:16 · Exodus 4:31 · Ruth 1:6 · 1 Samuel 2:21 · Job 7:18 · Amos 3:2 · Luke 1:68, 78 · Luke 7:16 |
 | [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] | parallel | Genesis 21:8–21 · Genesis 22:1–19 |
+| [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
+| [[The Wells of Abraham and the Wells of Isaac]] | parallel | Genesis 21:22–34 · Genesis 26:12–33 · Genesis 16:14; 21:19 |
+| [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 |

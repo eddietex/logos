@@ -107,6 +107,17 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   establish with Isaac"* (17:21). Critical scholarship reads 15 and 17 as a doublet — J and E against
   P — and the book as it stands reads them as two stages: the oath, and then the sign. See
   [[Circumcision, the Sign of the Covenant]] and [[Circumcision]].
+- **Genesis 21:22–34** — **the first covenant in the Bible cut between two human beings**, and it is
+  reported twice in six verses: *"Those two made a covenant"* (21:27) and *"So they made a covenant
+  at Beersheba"* (21:32). *Kārat bərît* here has none of chapter 15's machinery — no animals halved,
+  no corridor, no fire, no self-curse, no God speaking or appearing anywhere in the pericope. What it
+  has instead is what an ordinary ancient Near Eastern treaty had: an oath sworn *by God* as
+  guarantor, a non-aggression clause reaching to the third generation, consideration in livestock,
+  and a separate evidentiary act — seven ewe lambs accepted *"that it may be a witness to me"* —
+  fixing a disputed fact for the future. **Genesis has now shown covenant in both of its forms**: the
+  thing God does to a sleeping man, and the thing two wary neighbours do to each other while awake.
+  The one qualification is 14:13's *baʿălê bərît*, which reports that Abram already had such an
+  agreement without ever showing one being made. See [[The Treaty at Beersheba]].
 - **Exodus 19–24; 34** — Sinai. The covenant becomes national, is written down, is read aloud, is
   agreed to (*"All that Yahweh has spoken we will do"*), and is sealed with blood thrown on the
   people. This is the covenant the prophets will accuse Israel of breaking.
@@ -167,6 +178,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   that Abram slept through his half of it
 - [[The Bow in the Cloud]] — *qešet* as a weapon set down, and the sky-sign from Genesis 9 to
   Revelation
+- [[The Treaty at Beersheba]] — Genesis 21:27, 32: the first human-to-human *kārat bərît* in
+  Scripture, twice reported, with an oath, a three-generation clause, livestock as consideration, and
+  seven ewe lambs as a witness — the secular form of the institution, four chapters after its
+  theological one
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:12, *"For your offspring will be named
@@ -211,3 +226,6 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[Isaac]] — the first person the covenant is *established* with before he exists
 - [[Ishmael]] — blessed in the same speech that withholds it from him, and marked with its sign the
   same day
+- [[Abimelech (of Abraham's time)]] — the other party to Scripture's first human covenant, and the
+  one who asks for it
+- [[Phicol]] — the witness of rank at its swearing

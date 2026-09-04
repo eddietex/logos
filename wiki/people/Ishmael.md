@@ -110,6 +110,12 @@ she walked away (21:16) — in the wilderness of [[Paran]], and his mother takes
 Egypt. See [[The Birth of Isaac and the Sending of Hagar]] and
 [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]].
 
+**And the formula is repeated two verses later, about his father.** *"God is with you in all that you
+do"* (21:22), said by Abimelech of Abraham. **Genesis puts *God is with* on the disinherited son in a
+wilderness and on the man who disinherited him in a negotiation, inside one chapter, and does not
+comment.** The three-generation clause Abraham then swears to — *"nor with my son, nor with my son's
+son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Beersheba]].
+
 ### Where the rest of him is
 
 - **Genesis 25:9** — he and Isaac bury Abraham together at Machpelah. Genesis says nothing about the

@@ -27,16 +27,33 @@ whether it is the patriarchs' Beersheba is unresolved, and most read Genesis's B
 of the basin rather than as a town at all. Genesis calls it a *city* only at 26:33, and that verse is
 explicitly speaking of a later situation (*"to this day"*).
 
-**In this pericope it is a wilderness, and it is not yet named.** Hagar *"wandered in the wilderness
-of Beersheba"* (21:14), eleven verses before the oath that gives the place its name — the narrator
-using the later name for the country the way he calls a town *Dan* at 14:14. See
+**It is a wilderness before it is a name.** Hagar *"wandered in the wilderness of Beersheba"* (21:14),
+seventeen verses before the oath that gives the place its name — the narrator using the later name
+for the country the way he calls a town *Dan* at 14:14. See
 [[The Birth of Isaac and the Sending of Hagar]].
+
+### The naming — Genesis 21:31
+
+> **31** Therefore he called that place Beersheba, because they both swore an oath there.
+
+**And the four verses before it have staged the other etymology at the same time.** Abraham sets out
+*seven* ewe lambs (21:28) so that Abimelech's acceptance of them will stand as witness that he dug
+the well; then the naming verse gives the *oath*. Since *šebaʿ*, seven, and *šābaʿ*, to swear, are
+the same three consonants — and the reflexive used in this very verse means something like *to seven
+oneself* — **both readings are correct and the verse does not have to choose.** Why swearing should
+be sevening is not recoverable; the seven lambs are the best guess anyone has had, and 21:28–31 may
+be Genesis making exactly that guess.
+
+**What is here is a claim, not a property.** Abraham does not say the well is his; he says *"that I
+have dug this well"* (21:30), which in the customary law both this chapter and Genesis 26 assume is
+what confers the right. And the pericope ends with him a *foreigner* in the country he has just
+contracted not to seize — and planting a **tamarisk** in it, and calling there on the name of
+*Yahweh, the Everlasting God*, *ʾĒl ʿÔlām*, a name that occurs here and nowhere else in the Bible.
+See [[The Treaty at Beersheba]], [[The Everlasting God - El Olam in Genesis and Isaiah]], and
+[[The Trees of the Patriarchs]].
 
 **What happens here afterwards.**
 
-- Abraham and Abimelech swear over the well, seven ewe lambs change hands, and Abraham plants a
-  **tamarisk** and calls on *Yahweh, the Everlasting God* — *ʾĒl ʿÔlām*, a divine name that occurs
-  here and nowhere else in Genesis (21:31–33).
 - Abraham returns here from Moriah and lives here (22:19).
 - Isaac goes up to Beersheba, is met by God the same night, builds an altar, digs, and repeats his
   father's treaty (26:23–33).
@@ -56,11 +73,15 @@ every one of them.
 
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:14; *"the wilderness of Beersheba"*,
   where Hagar wanders and the water runs out
+- [[The Treaty at Beersheba]] — Genesis 21:22–34; the oath, the seven ewe lambs, the naming, the
+  tamarisk, and *ʾĒl ʿÔlām*
 
 ## Related places
 
 - [[The Negev]] — the dry country it stands at the head of
 - [[Gerar]] — the Philistine-country town to the west whose king comes here to swear
+- [[The Land of the Philistines]] — the country Abimelech and Phicol return to, and in which Abraham
+  then lives as a foreigner *many days*
 - [[Beer Lahai Roi]] — the other patriarchal well in this desert, named by Hagar, and Isaac's home
 - [[Paran]] — the wilderness further south, where the boy left in this one grows up
 - [[Kadesh]] and [[Shur]] — the two bearings Genesis gives for the same frontier
@@ -73,7 +94,7 @@ every one of them.
 - Hagar wanders in its wilderness and the water gives out — Genesis 21:14–19,
   [[The Birth of Isaac and the Sending of Hagar]]
 - Abraham and Abimelech swear over a disputed well; seven ewe lambs; the tamarisk and *ʾĒl ʿÔlām* —
-  Genesis 21:22–34 *(not yet ingested)*
+  Genesis 21:22–34, [[The Treaty at Beersheba]]
 - Abraham returns from Moriah and settles — Genesis 22:19 *(not yet ingested)*
 - Isaac is met by God, builds an altar, digs a well, and names it Shibah — Genesis 26:23–33
   *(not yet ingested)*

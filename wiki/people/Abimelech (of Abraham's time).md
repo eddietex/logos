@@ -82,9 +82,45 @@ was prevented, and he needed someone else's prayer to be made well. That is the 
 law gives the *šəgāgâ*, the sin committed unwittingly, which still requires an offering (Leviticus 4;
 Numbers 15:22–29). See [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]].
 
-**Where his story goes.** He returns at 21:22–34 with Phicol the captain of his army to swear a treaty
-with Abraham at Beersheba, over a well Abraham's servants had seized — the same man, no longer
-wronged, negotiating as an equal. Both scenes are still ahead of this page.
+### In the next pericope — Genesis 21:22–34
+
+He comes back, with his army commander, and asks for an oath.
+
+> **22** At that time, Abimelech and Phicol the captain of his army spoke to Abraham, saying, “God is
+> with you in all that you do.
+
+**He opens by conceding the thing the last chapter established**, and he draws the practical
+conclusion from it: a man God is with is a man you sign with rather than a man you evict. It is a
+political judgment about power, and it is theologically correct. Then the request:
+
+> **23** Now, therefore, swear to me here by God that you will not deal falsely with me, nor with my
+> son, nor with my son’s son.
+
+***"deal falsely"* is *šāqar*, its first occurrence in Scripture** — and of everything a king might
+ask a resident alien to swear, this is what the man who was told *"She is my sister"* asks. He also
+names three generations, the standard reach of an ancient Near Eastern treaty clause, and grounds
+the demand in ***ḥesed***: *"according to the kindness that I have done to you, you shall do to me"*
+— the same word Abraham used to Sarah at 20:13 of the arrangement that caused all this. **Abimelech's
+ḥesed was a wife returned, livestock, silver, and a residence permit. Abraham's was a wife's
+cooperation in a lie.**
+
+**Then he pleads ignorance for the second time in two chapters, and is believed for the second
+time.** Abraham lodges a complaint about a seized well, and the answer is *"I don't know who has done
+this thing. You didn't tell me, and I didn't hear of it until today"* (21:26). At 20:5 God himself
+confirmed the plea; here nobody does, and nobody contradicts it either, and the negotiation proceeds
+as though it were true. **His servants and his not-knowing are what keep putting him inside other
+people's stories.**
+
+**And the gifts run the other way this time.** At 20:14 *"Abimelech took sheep and cattle … and gave
+them to Abraham"*; at 21:27 *"Abraham took sheep and cattle, and gave them to Abimelech."* Same two
+words, same verbs, opposite direction — compensation one chapter, treaty consideration the next. He
+asks the pericope's only question (*"What do these seven ewe lambs … mean?"*, 21:29), accepts them as
+a witness to Abraham's digging, swears, and goes home to
+[[The Land of the Philistines]] with [[Phicol]]. See [[The Treaty at Beersheba]].
+
+**He is, in the end, the only foreign ruler in Genesis who gets two full scenes and is treated well
+by neither the patriarch nor the tradition.** He is lied to, endangered, vindicated, generous, robbed
+by his own men, and finally bound by an oath he had to ask for.
 
 ## Timeline / key events
 
@@ -102,12 +138,19 @@ wronged, negotiating as an equal. Both scenes are still ahead of this page.
   Genesis 20:14–15
 - Gives Sarah a thousand pieces of silver as *a covering of the eyes* — Genesis 20:16
 - Healed, with his wife and his female servants, when Abraham prays — Genesis 20:17
-- Swears a treaty with Abraham at Beersheba — Genesis 21:22–34 *(not yet ingested)*
+- Comes with Phicol to ask Abraham for a three-generation oath, invoking *"God is with you in all
+  that you do"* — Genesis 21:22–23, [[The Treaty at Beersheba]]
+- Denies knowledge of the well his servants seized — Genesis 21:26
+- Receives sheep and cattle, asks what the seven ewe lambs mean, and accepts them as witness —
+  Genesis 21:27–30
+- Swears the covenant at Beersheba and returns to the land of the Philistines — Genesis 21:31–32
 
 ## Appears in
 
 - [[Abraham and Abimelech]] — Genesis 20:1–18; the whole of his first appearance, in which he is
   wronged, warned, vindicated, generous, and finally healed
+- [[The Treaty at Beersheba]] — Genesis 21:22–34; he returns with his army commander to secure by
+  oath what the last chapter showed him he could not secure by trust
 
 ## Related people
 
@@ -120,9 +163,13 @@ wronged, negotiating as an equal. Both scenes are still ahead of this page.
 - [[Pharaoh (of Abram's time)]] — his predecessor in the role: the foreign king who asks the moral
   questions and gives the wife back
 - [[Isaac]] — whose own Gerar episode at Genesis 26 involves a king of the same name
+- [[Phicol]] — the captain of his army, who comes with him to both treaties and never speaks
 
 ## Themes associated
 
+- [[Oaths and Vows]]
+- [[Covenant]]
+- [[Strife and Peacemaking]]
 - [[Righteousness]]
 - [[The Fear of God]]
 - [[Sin]]

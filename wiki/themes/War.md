@@ -62,6 +62,10 @@ what is withheld, which is Genesis's habit with its patriarchs.
 ## Key passages
 
 - Genesis 14:1–17 — the first war, [[The Rescue of Lot and Melchizedek]]
+- [[The Treaty at Beersheba]] — Genesis 21:22, 32, the theme's negative case. **Phicol, *the captain
+  of his army*, is named twice and does nothing**; he is the standing reminder of what the king could
+  do instead, and the entire function of his rank in the scene is that it is not used. A seized well,
+  a formal complaint, and a general in the room — settled with sheep, seven lambs, and an oath
 - Genesis 34:25–30; 49:5–7 — Shechem, and the curse on it
 - Exodus 14:14; 15:3 — Yahweh fights
 - Deuteronomy 20:1–20 — the laws of war, with their exemptions
@@ -85,3 +89,4 @@ what is withheld, which is Genesis's habit with its patriarchs.
 - [[Abraham]] — three hundred eighteen men, one night, and nothing kept
 - [[Chedorlaomer]] — the empire's side of the same event
 - [[Lot]] — the hostage, and the only reason any of it is in Genesis
+- [[Phicol]] — the only other named army commander in the Abraham cycle, and the one who never fights

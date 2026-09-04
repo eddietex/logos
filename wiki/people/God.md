@@ -614,6 +614,33 @@ Abraham (21:22) and long before it is said of Isaac, Jacob, or Joseph.
 *the angel of God* at 21:17 where chapter 16 had *Yahweh's angel*. It is the inverse of chapter 20's
 distribution. See [[The Names of God]] and [[The Birth of Isaac and the Sending of Hagar]].
 
+### He is invoked by both parties and does nothing — Genesis 21:22–34
+
+**He neither speaks nor acts anywhere in this pericope.** It is the first unit since Genesis 13 of
+which that is true, and it is the last one before Genesis 22.
+
+He is nonetheless the most-mentioned figure in it, in three different mouths and three different
+capacities.
+
+- **As a fact a foreigner has observed.** *"God is with you in all that you do"* (21:22) — *ʾĕlōhîm*,
+  from Abimelech, and it is a conclusion drawn from watching a man prosper rather than a revelation
+  given to him. He is right. Two verses earlier the narrator had said the same three words of the son
+  Abraham had just sent into a desert (21:20).
+- **As the guarantor of an oath.** *"swear to me here by God"* (21:23) — the sanction behind a treaty
+  between two men, invoked by the man who has more to lose. **This is the first time in Scripture
+  that God is called on to underwrite an agreement between two human parties**; every previous
+  covenant had him as a party to it. See [[Covenant]] and [[Oaths and Vows]].
+- **And as a name coined for him.** *"and called there on the name of Yahweh, the Everlasting God"*
+  (21:33). *ʾĒl ʿÔlām*, and **the phrase occurs here and nowhere else in the Bible.** God does not
+  supply it, confirm it, or respond to it; a man says it out loud beside a tree he has planted, and
+  the chapter ends. The adjective is the one God had used four times in chapter 17 of the covenant
+  and the land (17:7, 8, 13, 19), now applied to him. See
+  [[The Everlasting God - El Olam in Genesis and Isaiah]].
+
+**The silence is the point of the placement.** Thirteen verses in which God is named by a pagan king,
+sworn by, and given a name that will never be used again — and says nothing. The next verse is
+*"After these things, God tested Abraham"*. See [[The Treaty at Beersheba]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -748,6 +775,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   puts the slave back into the sentence, hears a boy who says nothing, calls from the sky for the
   first time in the Bible, opens a woman's eyes to water that was already there, and is *with* the
   son he has just excluded — [[The Birth of Isaac and the Sending of Hagar]]
+- Neither speaks nor acts, and is named by both parties anyway: observed by a foreign king in another
+  man's prosperity, sworn by as the guarantor of the first treaty between two human beings, and given
+  a name — *ʾĒl ʿÔlām*, the Everlasting God — that occurs nowhere else in the Bible and that he never
+  confirms — [[The Treaty at Beersheba]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -829,6 +860,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   the day it was set for; and then he tells a father to do the thing that has just been called *very
   evil in his eyes*, adds the slave back into the count, hears an unrecorded cry, speaks from heaven
   for the first time in Scripture, and is with the son he has excluded
+- [[The Treaty at Beersheba]] — the first pericope since Genesis 13 in which he neither speaks nor
+  acts, and the one in which he is most talked about: a fact a pagan king has inferred, the sanction
+  behind a human oath, and a name (*ʾĒl ʿÔlām*) with no other occurrence in Scripture. Thirteen
+  verses of silence, and then *"After these things, God tested Abraham"*
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

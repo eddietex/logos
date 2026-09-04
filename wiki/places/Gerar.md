@@ -30,7 +30,12 @@ archaeologically visible people arrive on the southern coast around 1200 BC, cen
 date proposed for the patriarchs, and the ordinary reading is that Genesis names the region by the
 people who later held it — the same habit that calls a town *Dan* at 14:14 several hundred years
 before Judges 18 gives it that name. The wiki records it as an anachronism of that kind rather than
-as a problem to be argued away.
+as a problem to be argued away. See [[The Land of the Philistines]].
+
+**Both of its treaties are sworn somewhere else.** Abimelech and Phicol travel inland to
+[[Beersheba]] to swear with Abraham (21:22–32) and again to swear with Isaac (26:26–31), and both
+times the text is careful to say they went home afterwards. Gerar is where the patriarchs live and
+lie; the agreements are made at the well.
 
 **Its name.** *Gərār* is usually connected with *gārar*, to drag or to draw, and beyond that nothing
 is recoverable; Genesis offers no etymology, which is unusual for a place it uses this heavily.
@@ -44,6 +49,8 @@ monarchy, when Asa's army pursues the Cushites *"to Gerar"* and plunders the tow
 
 - [[Abraham and Abimelech]] — Genesis 20:1–18; Abraham sojourns here, Sarah is taken and returned,
   and the king is warned in the first dream in Scripture
+- [[The Treaty at Beersheba]] — Genesis 21:22–34; its king and his army commander travel inland to
+  swear, and return here
 - [[The Table of Nations]] — Genesis 10:19, as a point on the Canaanite border
 
 ## Related places
@@ -54,13 +61,16 @@ monarchy, when Asa's army pursues the Cushites *"to Gerar"* and plunders the tow
 - [[Egypt]] — the place both patriarchs are heading for or avoiding when they end up here
 - [[Canaan]] — the land it is on the southwestern edge of
 - [[Hebron]] — the country he leaves to come here
+- [[Beersheba]] — the well inland where both of its treaties are actually sworn
+- [[The Land of the Philistines]] — the country Genesis says it belongs to, by a name several
+  centuries early
 
 ## Events here
 
 - Abraham lives as a foreigner in Gerar; Sarah is taken by its king and restored — Genesis 20:1–18,
   [[Abraham and Abimelech]]
-- Abraham and Abimelech swear a treaty over a well at Beersheba, in *"the land of the Philistines"*
-  — Genesis 21:22–34 *(not yet ingested)*
+- Abraham and Abimelech swear a treaty over a well at Beersheba, and return to *"the land of the
+  Philistines"* — Genesis 21:22–34, [[The Treaty at Beersheba]]
 - Isaac is told not to go to Egypt, settles in Gerar, repeats his father's ruse, and reaps a
   hundredfold — Genesis 26:1–33 *(not yet ingested)*
 - Asa pursues the Cushite army as far as Gerar — 2 Chronicles 14:13–14

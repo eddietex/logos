@@ -38,7 +38,7 @@ doctrine but inside a refusal to take a king's money.
 | *ʾĂdōnāy Yhwh*, **Lord Yahweh** | 15:2 | Abram's first recorded words to God, and a complaint |
 | *ʾĒl Rŏʾî*, **God who sees** | 16:13 | Named by Hagar, an Egyptian slave — the only person in Scripture who gives God a name |
 | *ʾĒl Šadday*, **God Almighty** | 17:1 | The covenant of circumcision; derivation genuinely uncertain (*mountain*? *breast*?) |
-| *ʾĒl ʿÔlām*, **the Everlasting God** | 21:33 | At Beersheba, under a tamarisk |
+| *ʾĒl ʿÔlām*, **the Everlasting God** | 21:33 | Invoked by Abraham at Beersheba, beside a tamarisk he has just planted; the phrase's only occurrence in the Bible |
 | *Yhwh Yirʾeh*, **Yahweh will provide** | 22:14 | Named by Abraham on the mountain, after the ram |
 | *The Fear of Isaac* | 31:42, 53 | Jacob's oath formula, and one of the strangest titles in Scripture |
 | *ʾĒl ʾĕlōhê Yiśrāʾēl* | 33:20 | The altar at Shechem |
@@ -48,6 +48,21 @@ doctrine but inside a refusal to take a king's money.
 *moments* — a city, a well, a mountain, a spring in the wilderness — and several are supplied by
 people outside the covenant line. The personal name *Yahweh* is what the narrator uses throughout,
 and it is what Abram folds the others into.
+
+**On the claim that Hagar is the only person in Scripture who names God.** It is the standard way of
+putting 16:13 and this wiki keeps it, but 21:33 needs to be held beside it. There, *"Abraham …
+called there on the name of Yahweh, the Everlasting God"* — a phrase that occurs nowhere else in the
+Bible, and one God never uses of himself. The usual distinction is that Hagar *gives* a name
+(*wattiqrāʾ šēm-Yhwh*, she called the name of Yahweh) while Abraham *invokes* one (*wayyiqrāʾ šām
+bešēm Yhwh*, he called there on the name of Yahweh) — she coins, he addresses. **The distinction is
+real in the Hebrew and thin in practice**, since the epithet is unattested before him and unrepeated
+after him, and the wiki records both rather than choosing. See
+[[The Everlasting God - El Olam in Genesis and Isaiah]] and [[The Treaty at Beersheba]].
+
+**And note what *ʿôlām* is borrowed from.** Genesis 17 had used the word four times of the covenant
+and the land — *an everlasting covenant*, *an everlasting possession* (17:7, 8, 13, 19). At 21:33
+Abraham applies the covenant's own adjective to its maker, standing as a *foreigner* in the
+everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
@@ -102,7 +117,15 @@ and it is what Abram folds the others into.
   Genesis 17:1 also states Exodus 6:3's problem in a single verse — *Yahweh* appears, and says *ʾĒl
   Šadday*. See [[Circumcision, the Sign of the Covenant]] and
   [[God Almighty - El Shaddai in Genesis and Exodus]]
-- Genesis 21:33; 22:14 — *ʿÔlām*, *Yirʾeh*
+- Genesis 21:33 — ***ʾĒl ʿÔlām***, **the Everlasting God**, and the phrase occurs **here and nowhere
+  else in the Bible**. *ʿÔlām* is not philosophical eternity but duration out of sight, running
+  backward as readily as forward — *of old* as well as *forever*. Abraham says it beside a tamarisk
+  he has planted, in a country he has just contracted not to seize, one verse before the narrator
+  calls him a foreigner in it; and the adjective is the one Genesis 17 had used four times of the
+  covenant and the land. The verse also holds *Yahweh* and an *ʾĒl* title together in one clause,
+  which is Exodus 6:3's problem again in miniature. See [[The Treaty at Beersheba]] and
+  [[The Everlasting God - El Olam in Genesis and Isaiah]]
+- Genesis 22:14 — *Yhwh Yirʾeh*, which names a *place* rather than God *(not yet ingested)*
 - Exodus 3:13–15 — I AM
 - Exodus 6:2–3 — the name not known to the fathers
 - Exodus 20:7; Leviticus 19:12 — guarding the name
@@ -122,5 +145,5 @@ and it is what Abram folds the others into.
 - [[Melchizedek]] — who introduces *ʾĒl ʿElyôn*
 - [[Hagar]] — who supplies *ʾĒl Rŏʾî*, the only divine name in Scripture given by a human being
 - [[Job (person)]] — in whose book *Šadday* occurs more often than in the rest of the Bible together
-- [[Abraham]] — who identifies it with Yahweh
+- [[Abraham]] — who identifies it with Yahweh, and who supplies *ʾĒl ʿÔlām* at 21:33
 - [[Enosh]] — in whose generation *"men began to call on Yahweh's name"* (4:26)

@@ -44,10 +44,26 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 - **Then he swears by himself.** *"I have sworn by myself, says Yahweh"* (Genesis 22:16), the
   formula Hebrews 6:13–18 builds on: *"since he could swear by none greater, he swore by himself."*
   Divine oaths in Scripture are what make a promise unconditional.
-- **The patriarchs swear constantly, and the gestures are physical.** Abraham and Abimelech at
-  Beersheba, where the well and the town are named for the oath (Genesis 21:22–34); the servant with
-  his hand under Abraham's thigh (24:2–9), which Jacob repeats with Joseph (47:29–31); Jacob and
-  Laban at the heap of stones (31:44–54); Joseph's brothers swearing to carry his bones (50:25).
+- **The first oath sworn between two human beings is at Genesis 21:22–34, and it is demanded by a
+  foreigner.** Abimelech, who was lied to in the previous chapter, arrives with his army commander
+  and asks: *"swear to me here by God that you will not deal falsely with me, nor with my son, nor
+  with my son's son."* Four things about it are worth keeping. **The verb *šāqar*, to deal falsely,
+  occurs here for the first time in Scripture** — the root behind the ninth commandment's *false
+  witness* — and it is the exact charge chapter 20 had earned. **Three generations are named**, the
+  standard reach of an ancient Near Eastern treaty clause, asked of a man who has had a legitimate
+  son for about three years. **Abraham consents in two words** (*"I will swear"*) — set against
+  14:22–23, where he swore in order to refuse a king, this is the whole of his deliberation. And
+  **the oath is separately memorialized in an object**: seven ewe lambs, accepted from his hand,
+  *"that it may be a witness to me, that I have dug this well"* (21:30). The place is then named for
+  the swearing, and *Beersheba* means *well of the oath* and *well of seven* at once. See
+  [[The Treaty at Beersheba]].
+- **The rest of the patriarchal oaths keep the same shape: a gesture, an object, or a place.** The
+  servant with his hand under Abraham's thigh (24:2–9), which Jacob repeats with Joseph (47:29–31);
+  Jacob and Laban at the heap of stones, *"This heap is witness between me and you today"*
+  (31:44–54); Joseph's brothers swearing to carry his bones (50:25). **A Hebrew oath is almost never
+  only words** — it is words plus something that can be pointed at afterward, because that is how a
+  fact is made to outlast the people who witnessed it. Compare Joshua's stone under the oak
+  (Joshua 24:26–27) and the song appointed as a witness at Deuteronomy 31:19–21.
 - **Jacob's vow is the model conditional one.** *"If God will be with me … and Yahweh will be my
   God … Of all that you will give me I will surely give a tenth to you"* (Genesis 28:20–22). It is
   a bargain, and Scripture does not rebuke it. See [[Tithing]].
@@ -75,7 +91,9 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   [[The Covenant Between the Pieces]]
 - Jeremiah 34:18–20 — the only passage that explains the rite, and the sanction being executed
 - Genesis 22:16; Hebrews 6:13–18 — God swearing by himself
-- Genesis 21:22–34; 24:2–9; 31:44–54; 47:29–31 — the patriarchal oaths and their gestures
+- Genesis 21:22–34 — the first oath between two human beings, and a place named for it,
+  [[The Treaty at Beersheba]]
+- Genesis 24:2–9; 31:44–54; 47:29–31 — the other patriarchal oaths and their gestures
 - Genesis 28:20–22 — Jacob's vow
 - Exodus 20:7; Leviticus 19:12 — the name, and false swearing by it
 - Numbers 6:1–21; 30:1–16; Leviticus 27 — Nazirite vows, household vows, redemption values
@@ -94,7 +112,11 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 ## Related people
 
 - [[Abraham]] — the first man in Scripture to swear, and he swears to refuse a gift; one chapter
-  later he sleeps through an oath sworn to him
-- [[Bera]] — the king of Sodom, and the person the oath is aimed at
+  later he sleeps through an oath sworn to him; and seven chapters later he swears a second time, at
+  a foreigner's request, and pays for the privilege
+- [[Bera]] — the king of Sodom, and the person the first oath is aimed at
+- [[Abimelech (of Abraham's time)]] — who asks for the Bible's first human-to-human oath, and asks
+  for it from the man who had already deceived him
+- [[Phicol]] — the witness of rank at both Beersheba treaties, present and silent
 - [[God]] — who takes the ancient world's most binding form of oath, in a rite whose penalty could
   never fall on him

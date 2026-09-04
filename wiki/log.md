@@ -3398,3 +3398,133 @@ confirming the previous run's push landed and that the stale ref was local only;
 main` moved the branch onto HEAD **before** any work, so this ingest was committed on `main` rather
 than on a detached HEAD. Seven consecutive runs have now hit it, and it still wants the user's
 attention as an environment quirk rather than a one-off.
+
+## [2026-09-04] ingest | Genesis 21.22-34 — The Treaty at Beersheba
+
+Unattended run (`/ingest auto`, no target). Resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and 21:22–34 was the first unchecked box on its page.
+Step 2's discussion is written into the passage page rather than spoken, per the skill's `auto`
+mode. `raw/bible/Genesis.md` was already present; no fetch.
+
+**Created (5).** `wiki/passages/Genesis/The Treaty at Beersheba.md`; `wiki/people/Phicol.md`;
+`wiki/places/The Land of the Philistines.md`; and three connection pages —
+`The Everlasting God - El Olam in Genesis and Isaiah`,
+`The Wells of Abraham and the Wells of Isaac`, and `The Trees of the Patriarchs`.
+
+**Revised (25).** `books/Genesis` (box checked, the Abraham-cycle overview extended through 21:34,
+and three themes, one person, and one place added to its key lists); `books/index` (27 / 58);
+`index` (counts: 33 passages, 65 people, 40 places, 87 connections); `people/Abraham`,
+`people/Abimelech (of Abraham's time)`, `people/God`, `people/Isaac`, and `people/Ishmael` (each
+with a new pericope section, timeline entries where they have one, and appears-in additions);
+`places/Beersheba` (its 21:22–34 forward reference turned into a naming section and links),
+`places/Gerar`; connections `Calling on the Name of Yahweh` (its 21:33 forward reference expanded
+and split from 26:25); themes `Oaths and Vows`, `Covenant`, `Strife and Peacemaking`,
+`Land and Sojourning`, `The Names of God`, `The Nations`, `War`, `Kingship and Empire`, `Blessing`,
+and `Deception`; and the people, places, themes, and connections indexes.
+
+### Judgment calls made without asking
+
+1. **The pericope was kept whole at 21:22–34 and not attached to chapter 20.** The case for joining
+   them is real — same king, same officer's town, arguably one negotiation — and it was rejected for
+   the reason `Abraham and Abimelech` already gives: 21:1–21 sits between them and is about
+   something else. 21:22 opens with *"At that time"* and a new cast; 21:34 closes with a duration
+   summary; 22:1 opens with *"After these things"*. **No unchecked boxes were redrawn.**
+2. **`Phicol` gets a person page.** He is named three times (21:22, 21:32, 26:26), never speaks, and
+   does nothing. He was given a page on the same footing as `Aner` and `Eshcol` — named, recurring,
+   and structurally load-bearing without being a character — and because a treaty witness of his
+   rank is the whole reason the scene is peaceful. The page says outright that his silence is his
+   function rather than an omission.
+3. **`The Land of the Philistines` gets a place page rather than a paragraph on `Gerar`.** The name
+   recurs (21:32, 21:34, 26:1), the anachronism is one of the wiki's standing test cases, and the
+   later biblical career of the Philistines is large enough that a `Gerar` subsection would have
+   been the wrong shape. `Gerar` keeps its own anachronism paragraph and now links across.
+4. **Three connection pages, and one considered and rejected.** `The Everlasting God - El Olam`
+   carries the pericope's largest single fact — a divine name with one occurrence in the Bible,
+   coined by a man, out of the covenant's own adjective from Genesis 17. `The Wells of Abraham and
+   the Wells of Isaac` sets 21:22–34 beside 26:12–33 and tabulates the six matching rows.
+   `The Trees of the Patriarchs` carries the tamarisk, the oaks of Moreh and Mamre, and the
+   Deuteronomy 16:21 problem. **A fourth — a *Seven and the Swearing of an Oath* word-study — was
+   rejected**, because the *šebaʿ* / *šābaʿ* pun is fully carried by `places/Beersheba` and the
+   passage page and a separate page would have duplicated both verse for verse. Genesis 26 is not
+   yet ingested, so all references to it on these pages are scripture references, not links.
+5. **The doublet inside the pericope is recorded and not resolved.** *"Those two made a covenant"*
+   (21:27) and *"So they made a covenant at Beersheba"* (21:32) report the same act twice, and 21:31
+   and 21:32 both fix the name. The source-critical split (an E treaty narrative and a J well
+   narrative, joined at the etymology) and the literary reply (agreement, then consideration, then
+   the evidentiary act, which is the order legal narrative takes) are both stated on the passage
+   page, and neither is adopted — the same treatment the wiki gives the two creation accounts.
+6. **Genesis 26:26–33 is called an open question, not a duplicate.** Same king's name, same
+   commander's name, same well, same kind of dispute, same root behind the name. The three readings
+   — one tradition attached to two patriarchs; two incidents in a family that kept using one well,
+   with *Abimelech* and *Phicol* as titles; a deliberate literary rhyme — are all live, and 26:1 and
+   26:18 are noted as the book's own cross-references, which cut both ways.
+7. **The claim that Hagar is the only person in Scripture who names God is kept, with 21:33 flagged
+   beside it.** *ʾĒl ʿÔlām* is unattested before Abraham and unrepeated after him, and God never
+   confirms it. `themes/The Names of God` now states the standard distinction (*she called the name
+   of Yahweh* vs. *he called there on the name of Yahweh* — coining against invoking), says it is
+   real in the Hebrew and thin in practice, and records both rather than overwriting the older
+   claim.
+8. **Deuteronomy 16:21 is set against Genesis 21:33 without a resolution.** The historical reading,
+   the before-Sinai reading, and the *ăšērâ*-is-a-different-object reading are all stated on
+   `The Trees of the Patriarchs`, and none is adopted. This is the same posture the wiki takes on
+   the patriarchal pillars, altars, and marriages.
+9. **One pre-existing factual error was corrected.** `people/Abimelech (of Abraham's time)` said the
+   Beersheba treaty was sworn *"over a well Abraham's servants had seized"*. Genesis 21:25 says the
+   opposite — *"a water well, which Abimelech's servants had violently taken away"*. That forward
+   note has been replaced by the pericope section.
+
+### Quote accuracy
+
+The 29 block-quoted verses added this pass were extracted by script and compared whole against
+`raw/bible/Genesis.md`: **all 29 verbatim, no mismatches.** Every italic-quoted span in text added
+this pass (140 spans across 29 changed files) was then extracted and checked the same way.
+Findings, all introduced this pass and all fixed before commit:
+
+- **Three quotations opened with a capital the WEB does not have at that point in the verse**, and
+  **two with a lower case where the WEB has a capital** — the standing lint item, now caught in both
+  directions. *"Swear to me here by God"* on `people/God` and `themes/Deception` (mid-verse in
+  21:23, now lower case); *"Planted a tamarisk"* on `The Trees of the Patriarchs` (now
+  *"planted a tamarisk tree in Beersheba"*, and no longer eliding the place); and, in the other
+  direction, *"those two made a covenant"*, *"so they made a covenant at Beersheba"*, and
+  *"therefore the name of the city is Beersheba to this day"*, all sentence-initial in the WEB and
+  all now capitalized.
+- **One quotation given a full stop the verse does not have.** *"But according to the kindness that
+  I have done to you, you shall do to me."* on the passage page — 21:23 continues with a comma, and
+  the period is now outside the quotation marks.
+- **One quotation with a fabricated word, and it is the worst finding of the pass.**
+  `themes/Land and Sojourning` had Abraham binding himself *"with the land in which you have lived
+  as a foreigner"*; the WEB reads *"and to the land in which you have lived as a foreigner"*. The
+  sentence was rewritten around the correct quotation. **A single-word substitution inside quotation
+  marks is exactly what the script exists to catch and what reading the page does not**, and it is
+  the first of its kind in this wiki's log.
+- Two spans remain flagged by the script and are **not** errors: *"Abraham said, 'I will swear.'"*
+  and 20:13's *"This is your kindness … say of me, 'He is my brother.'"* both re-nest the WEB's
+  inner double quotation marks as single ones, which is the convention every quoted speech in the
+  wiki already uses.
+
+Quotations of Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, 1 Samuel, 2 Chronicles,
+Psalms, Isaiah, Jeremiah, Hosea, Amos, Zephaniah, Zechariah, Romans, and 1 Timothy remain
+unverifiable against any source in this repo, as elsewhere in the wiki. The identification of Tel
+Haror with Gerar, the 1200 BC date and Aegean origin of the Philistines, the Egyptian *prst*, the
+Septuagint's reading of *ʾēšel* as a field, the proposed etymologies of *Pîkōl*, the Ugaritic *ʾĒl*
+epithets, and the botanical identification of *ʾēlôn* as terebinth rather than oak are all external
+and are stated as identifications or proposals rather than as findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 22; 23; 24; 25; 26; 28; 31; 33; 35; 46; 47; 50) are written as plain scripture
+references or carry an explicit *(not yet ingested)* marker. Three stale *(not yet ingested)*
+markers for this pericope were cleared, on `places/Beersheba`, `places/Gerar`, and
+`connections/Calling on the Name of Yahweh`.
+
+**Note on branch state.** The eighth run in a row to hit it, and this time with a wrinkle worth
+recording: the session started on a **detached HEAD** at `46c9cf8` with a clean tree, and the local
+`main` ref was stale at `ee8f435` — fourteen commits behind. Before fetching, `git rev-list` made
+HEAD look fourteen commits *ahead of the remote*, which would have been a genuine problem;
+`git fetch origin` showed it was not — `origin/main` was already at `46c9cf8`, so the previous run's
+push had landed and only the local ref was stale. `git checkout main && git merge --ff-only
+origin/main` moved the branch onto HEAD **before** any work, so this ingest was committed on `main`
+rather than on a detached HEAD. Eight consecutive runs have now started detached, and it still wants
+the user's attention as an environment quirk rather than a one-off.
