@@ -22,6 +22,15 @@ at roughly 3,000 feet — one of the highest towns in the land, on the ridge roa
 puts Abram there in the same chapter in which his nephew takes the irrigated valley floor, and does
 not comment.
 
+**Sarah dies here, and it is where the family becomes landowners.** *"Sarah died in Kiriath Arba
+(also called Hebron), in the land of Canaan"* (23:2) — while Abraham was twenty-five miles south at
+[[Beersheba]], so that the verse has him *come* to mourn her. The eighteen verses that follow are a
+property conveyance: he calls himself *"a stranger and a foreigner"*, the children of Heth call him
+*"a prince of God"* and offer him their tombs for nothing, and he refuses and pays four hundred
+shekels for the field of [[Ephron the Hittite]] instead. **The town where Abram pitched a tent in
+chapter 13 is the town where he buys ground in chapter 23**, and it is the only ground he ever buys.
+See [[Nahor's Line and the Burial of Sarah]] and [[Machpelah]].
+
 **Its older name is Kiriath Arba**, *the city of Arba* — *"Arba was the greatest man among the
 Anakim"* (Joshua 14:15; and Genesis 23:2, 35:27). The spies sent out from Kadesh reach it and find
 *"Ahiman, Sheshai, and Talmai, the children of Anak"* there (Numbers 13:22, which also dates its
@@ -47,10 +56,13 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   third altar
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33; the tent door in the heat of
   the day, and the ridge Abraham walks out onto to look down at the plain
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:1–20; Sarah dies at Kiriath Arba, and the
+  negotiation at the city gate makes Abraham the owner of a field in it
 
 ## Related places
 
 - [[Mamre (place)]] — the oak grove within it where Abram actually camps
+- [[Machpelah]] — the field and cave *before Mamre*, and the only property any patriarch owns
 - [[The Negev]] — the dry country immediately south of it
 - [[Canaan]] — the land it sits near the middle of
 - [[Bethel]] — the previous camp, about thirty miles north along the ridge
@@ -66,8 +78,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 - The three visitors, and the promise of a son within the year — Genesis 18:1–15,
   [[The Three Visitors and Abraham's Intercession]]
 - Abraham's intercession for Sodom, on the road out — Genesis 18:16–33
-- Sarah dies; Abraham buys the cave of Machpelah from Ephron the Hittite — Genesis 23:1–20
-  *(not yet ingested)*
+- Sarah dies; Abraham buys the field and cave of Machpelah from Ephron the Hittite for four hundred
+  shekels, witnessed at the city gate — Genesis 23:1–20, [[Nahor's Line and the Burial of Sarah]]
 - Abraham, Isaac, Rebekah, Leah, and Jacob buried there — Genesis 25:9; 49:31; 50:13
   *(not yet ingested)*
 - The spies find the Anakim in it — Numbers 13:22

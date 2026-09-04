@@ -120,6 +120,13 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   Moriah.** The seam they are arguing over is in Genesis before either of them: 22:16–18 grounds the
   promise in *"because you have obeyed my voice"*, where 15:17 had God walk between the pieces alone.
   See [[The Binding of Isaac in the New Testament]] and [[Testing]]
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:4, the verse Hebrews 11:13 turns into a
+  confession. Genesis reports only that Abraham called himself *"a stranger and a foreigner"* and
+  bought a field; Hebrews reads the landlessness as chosen — *"strangers and pilgrims on the earth"*,
+  *"looking for the city which has foundations"* (11:10) — and adds the argument that they could have
+  gone back and did not (11:15). **The wiki notes that this is Hebrews' construction: Genesis offers
+  no account of Abraham's motives in the chapter at all.** See
+  [[A Stranger and a Foreigner - The Sojourner's Confession]]
 
 ## Related themes
 

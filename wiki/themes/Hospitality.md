@@ -144,6 +144,13 @@ theme, and its last appearance inverts who performs it.
   chapter reports without grading
 - [[Hagar and Ishmael]] — Genesis 16:7, the spring on the road to Shur; the traveller nobody
   received, met by God at the last water before the desert
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:5–15, the one place in Genesis where
+  hospitality is offered and **deliberately refused**. *"Bury your dead in the best of our tombs. None
+  of us will withhold from you his tomb"*, and then Ephron: *"I give you the field, and I give you
+  the cave that is in it."* Abraham bows twice and says no twice, and insists on *"the full price"*.
+  The theme's usual grammar is reversed — the resident alien declines the kindness of the settled —
+  because what he needs is not a favour but a title, and a favour can be revoked. See
+  [[Land and Sojourning]]
 
 ## Related themes
 

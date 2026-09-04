@@ -27,7 +27,10 @@ The Bible gives three kinds of evidence and they do not fully agree.
 points north-east, to Aramean territory in Syria near Damascus. Genesis 36:28 makes Uz a Horite
 name in the line of Seir, and 1 Chronicles 1:42 repeats it — which points south, into Edom. A
 third, Genesis 22:21, gives Uz as Nahor's firstborn, Abraham's nephew, which points north-east
-again.
+again — a verse now ingested at [[Nahor's Line and the Burial of Sarah]], where the whole of Nahor's
+twelve reads as a map of the Aramean and north Arabian tribes rather than as a family. **No person
+page was created for that Uz**; if a later pass makes one it must be `Uz (son of Nahor)`, so that
+this page keeps the bare name.
 
 **One direct geographical statement, and it says Edom.** Lamentations 4:21: *"Rejoice and be glad,
 daughter of Edom, that dwells in the land of Uz."* This is the only verse in Scripture that places

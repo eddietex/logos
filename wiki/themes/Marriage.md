@@ -151,6 +151,13 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   Isaac's wife (24:4), Isaac instructs Jacob (28:1–2), Judah takes one for Er (38:6) — the act belongs
   to fathers everywhere else in Genesis. Hagar has no husband and no household to do it for her, so
   she does it, and she goes back to her own country for it
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–24, the Bible's first *pîlegeš*: *"His
+  concubine, whose name was Reumah"*. A secondary wife of lower standing whose four sons are counted
+  in the household total, which is how Nahor's house reaches twelve. **The same structure that costs
+  Abraham's household two chapters of grief — see [[Hagar and Ishmael]] — is reported here in one
+  verse with no comment at all.** And at 22:23 the next patriarchal marriage is arranged before it is
+  needed: *"Bethuel became the father of Rebekah"*, two chapters before a servant is sent to fetch
+  her, and one verse before the death of the wife she replaces. See [[Reumah]] and [[Rebekah]]
 
 ## Related themes
 

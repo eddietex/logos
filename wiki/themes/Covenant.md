@@ -200,6 +200,15 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   personal reward is being described alongside an unconditional covenant, or that Genesis simply
   holds both — are all live, and Paul and James take opposite sides of the same seam. See
   [[I Have Sworn by Myself - The Oath at Moriah]]
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20, where the covenant's two contents
+  are delivered in miniature, four verses apart, and neither delivery mentions the covenant. God has
+  just sworn offspring like the stars and the gate of the enemies (22:17); the next thing reported is
+  a granddaughter's name in a Mesopotamian genealogy, and the thing after that is a field bought for
+  cash. **The legal noun is the tell**: 17:8 promised *"all the land of Canaan, for an everlasting
+  possession"* — *ʾăḥuzzat ʿôlām* — and what Abraham asks the children of Heth for, three times, is
+  an *ʾăḥuzzâ*, a **possession**, for a burial place (23:4, 9, 20). He is buying the smallest
+  possible instance of the promised thing, under the promise's own word, from its current owners.
+  See [[Machpelah]] and [[Land and Sojourning]]
 
 ## Related themes
 

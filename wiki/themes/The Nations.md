@@ -151,6 +151,15 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   pattern holds for the fourth consecutive pericope: **the outsider supplies the moral and
   theological vocabulary**, and the covenant family supplies the behaviour that needs excusing.
   Abimelech asks Abraham to swear he will not *deal falsely*, one chapter after he did
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–24 and 23:3–20, the nations on both sides
+  of the family. The genealogy of Nahor's twelve is an Aramean and north Arabian **map** written as a
+  household — Aram, Chesed (behind the *Chaldees* of Ur), Uz, Buz, Maacah — which makes the peoples
+  north-east of Canaan Abraham's brother's descendants. And the chapter that follows is the
+  friendliest encounter in Genesis between a patriarch and the inhabitants of the land: the children
+  of Heth call him *"a prince of God"*, offer him the best of their tombs for nothing, and conduct a
+  land sale for him at their own gate. **They are also named, in the Torah's conquest lists, among
+  the peoples his descendants are to dispossess**, and Genesis does not remark on it. See
+  [[The Children of Heth]] and [[Ephron the Hittite]]
 
 ## Related themes
 

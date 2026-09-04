@@ -168,6 +168,11 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
   her back, and is named by her for seeing
 - [[Pharaoh (of Abram's time)]] — whose payment for Sarai is the most likely way an Egyptian slave
   came into the household
+- [[Reumah]] — the same position in the branch of the family that stayed in Mesopotamia: a concubine
+  who bears four sons in one verse, with no barrenness before it, no rivalry after it, and no comment
+  from the narrator. **The Bible's first *pîlegeš* is hers and not Hagar's**, and the contrast
+  between the two households is left entirely to the reader. See
+  [[Nahor's Line and the Burial of Sarah]]
 
 ## Themes associated
 

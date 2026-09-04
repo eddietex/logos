@@ -140,6 +140,28 @@ own life** — named before conception, circumcised before consent, bound withou
 proxy — and it is the pattern the wiki has noted on this page from the start. See
 [[The Binding of Isaac]].
 
+### Off-stage — Genesis 22:20–23:20
+
+**He is not in it, and the pericope is about him twice over.**
+
+His mother dies, and Genesis does not put him at the funeral, does not record a word from him, and
+does not name him in the chapter. **He and Abraham have shared no scene since 22:19**, and this is
+the second consecutive pericope in which the book declines to say where he is. When he next appears
+in person he is *"Isaac came from the way of Beer Lahai Roi"* (24:62) — [[Hagar]]'s well — which is not
+where either of his parents was living.
+
+**The chapter's arithmetic is his.** Sarah was ninety at his birth (17:17) and dies at a hundred
+twenty-seven (23:1), so **he is thirty-seven when his mother dies.** That number is the whole basis
+of the rabbinic tradition making him thirty-seven on Moriah, which gets there by reading chapters 22
+and 23 as consecutive. Genesis supplies the two ages and no link between them; the wiki records the
+inference as an inference. See [[The Binding of Isaac]].
+
+**And the genealogy four verses earlier is his marriage settlement.** *"Bethuel became the father of
+Rebekah"* (22:23) is the answer to a question the book has not yet asked out loud, and Genesis 24
+will open with Abraham swearing his servant not to take a Canaanite wife for him. **The two things
+Isaac needs after Moriah — a mother's grave and a wife — are both arranged in this pericope, and he
+is present for neither.** See [[Nahor's Line and the Burial of Sarah]] and [[Rebekah]].
+
 ### Where the rest of him is
 
 - **Genesis 24** — a wife found for him at his father's instruction, without his presence; he is
@@ -175,6 +197,9 @@ proxy — and it is the pattern the wiki has noted on this page from the start. 
   altar — Genesis 22:6–10, [[The Binding of Isaac]]
 - Spared when Yahweh's angel calls out of the sky; a ram is offered *"instead of his son"* — Genesis
   22:11–13
+- Thirty-seven when his mother dies at Kiriath Arba; not named in the chapter — Genesis 23:1,
+  [[Nahor's Line and the Burial of Sarah]]
+- His future wife named in the genealogy four verses before that — Genesis 22:23, [[Rebekah]]
 - Marries Rebekah, brought to him from his father's kindred — Genesis 24:67 *(not yet ingested)*
 - Buries Abraham with Ishmael, and settles at Beer Lahai Roi — Genesis 25:9–11 *(not yet ingested)*
 - Repeats his father's ruse at Gerar, and is given the promise in his own right — Genesis 26
@@ -196,6 +221,9 @@ proxy — and it is the pattern the wiki has noted on this page from the start. 
 - [[The Binding of Isaac]] — Genesis 22:1–19; carries the wood he is to be burned on, asks the one
   question in the chapter, is bound with a word the Bible uses once, and is not mentioned coming back
   down the mountain
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20; off-stage and unnamed while his
+  mother is buried and his wife is named, thirty-seven years old on the chapter's own arithmetic, and
+  absent from Genesis for the second pericope running
 
 ## Related people
 
@@ -205,6 +233,8 @@ proxy — and it is the pattern the wiki has noted on this page from the start. 
   man who buries their father with him
 - [[Hagar]] — whose son he displaces, and at whose well he later lives
 - [[God]] — who names him, dates him, and establishes the covenant with him before he exists
+- [[Rebekah]] — his wife, named in a Mesopotamian genealogy two chapters before she is fetched
+- [[Bethuel]] — her father, and his father's nephew
 
 ## Themes associated
 
@@ -217,3 +247,4 @@ proxy — and it is the pattern the wiki has noted on this page from the start. 
 - [[Land and Sojourning]]
 - [[Sacrifice and Offering]]
 - [[Testing]]
+- [[Burial and the Grave]]

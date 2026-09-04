@@ -117,6 +117,13 @@ the women than the frame they are written in.
 - Isaiah 54:1; Galatians 4:27 — the barren woman as the covenant people
 - Luke 1:5–25 — Elizabeth, and the deliberate echo of Genesis
 - Romans 4:19; Hebrews 11:11–12 — the New Testament's reading of Genesis 11:30
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20, the comparison Genesis makes and does not
+  finish. *"Behold, Milcah, **she also** has borne children to your brother Nahor"* — *gam-hîʾ*, a
+  comparative with nobody named on the other side of it, followed by eight sons and then four more.
+  [[Sarah]] bore one, at ninety, and her death notice is two verses later. **The branch with no call,
+  no covenant, and no promise multiplies without difficulty; the branch carrying the promise has to
+  be given every child it gets** — and the pattern holds for Rebekah (25:21) and Rachel (30:1) after
+  her. See [[Twelve Sons - Nahor, Ishmael, and Jacob]]
 
 ## Related themes
 

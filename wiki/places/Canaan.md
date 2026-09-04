@@ -101,6 +101,10 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Binding of Isaac]] — Genesis 22:1–19, crossed for three days by a man carrying the fire for
   his son's pyre, to a region of it — *the land of Moriah* — that the Torah names nowhere else and
   that Chronicles will identify with the temple mount
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:2, 19: the land named twice in one chapter,
+  at a death and at a burial, as though to fix inside it the one transaction that ever gives a
+  patriarch title to a piece of it. He introduces himself to its inhabitants as *"a stranger and a
+  foreigner"* and leaves owning a field
 
 ## Related places
 
@@ -117,6 +121,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Plain of the Jordan]] — the *kikkar*, which 13:12 sets outside Canaan: *"Abram lived in the
   land of Canaan, and Lot lived in the cities of the plain"*
 - [[Hebron]] and [[Mamre (place)]] — the hill town and oak grove that become Abram's permanent address
+- [[Machpelah]] — the field in it that Abraham buys, the only part of the country any patriarch holds
+  by title
 - [[The Salt Sea]] — the rift valley on its eastern edge, and the battlefield of Genesis 14
 - [[Damascus]] and [[Dan (city)]] — the northern limits of Abram's pursuit in Genesis 14, one of them
   outside the land altogether
@@ -140,3 +146,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   17:8, [[Circumcision, the Sign of the Covenant]]
 - Ten years of Abram's residence in it pass without a child, and his household turns to a slave —
   Genesis 16:3, [[Hagar and Ishmael]]
+- Sarah dies at Kiriath Arba *"in the land of Canaan"*, and Abraham buys the field of Machpelah from
+  Ephron the Hittite — Genesis 23:2, 19, [[Nahor's Line and the Burial of Sarah]]

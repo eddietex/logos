@@ -64,8 +64,14 @@ against the city of Genesis 11:4 that had none.
   they have earned losing it, which Leviticus 18:28 will then turn on Israel. See
   [[The Covenant Between the Pieces]] and
   [[From the River of Egypt to the Euphrates]].
-- **Genesis 23** — Abraham, *"a stranger and a foreigner"* among the Hittites, buys Machpelah. The
-  only land he ever owns is a burial plot, and he pays full price for it.
+- **Genesis 22:20–23:20** — the theme's flattest sentence and its one executed clause, in the same
+  chapter. *"I am a stranger and a foreigner living with you"* — *gēr wətôšāb*, the two words for a
+  man who cannot own ground — said by Abraham in the sentence where he asks to own some. He is
+  offered a tomb free twice and refuses twice, because a gift is held at the giver's pleasure and a
+  purchase heard at the city gate is not, and pays four hundred shekels for the field of Machpelah
+  under the promise's own legal noun, *ʾăḥuzzâ*, **possession** (23:4, 9, 20; compare 17:8's
+  *ʾăḥuzzat ʿôlām*). **The only land he ever owns is a burial plot, and he pays full price for it.**
+  See [[Nahor's Line and the Burial of Sarah]] and [[Machpelah]].
 - **Genesis 47:9** — Jacob to Pharaoh: *"The days of the years of my pilgrimage are one hundred
   thirty years."*
 - **Exodus and Numbers** — the land as the destination of the exodus, and the wilderness generation
@@ -121,7 +127,7 @@ where that starts, in a sentence about a family that got halfway.
   the country the covenant has just called four hundred years of servitude (15:13). She is stopped at
   the frontier and sent back; her son ends up ranging *"from Havilah to Shur"* (25:18), on the desert
   margin of a land he has no share in
-- Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
+- [[Machpelah]] — the field, the cave, and the trees inside its borders: the only ground Abraham owns
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*
 - Deuteronomy 34:1–5 — Moses outside the land
 - Hebrews 11:8–16 — the patriarchs as pilgrims looking for a city
@@ -167,6 +173,15 @@ where that starts, in a sentence about a family that got halfway.
   there**, and he goes home to a well he holds by treaty. See
   [[Yahweh Will Provide - Moriah and the Temple Mount]]
 
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23, where the theme stops being a tension and
+  becomes a transaction. Eighteen verses of conveyance for one verse of burial; three bows, two
+  refused gifts, four hundred shekels weighed to the merchants' standard, an itemized scope clause
+  (field, cave, *"all the trees … in all of its borders"*), and witnesses at the gate. **The deed is
+  stated twice and the second statement comes after the burial**, so the chapter ends on the title
+  rather than on the grave. Acts 7:5 gives the balance without softening: *"he gave him no
+  inheritance in it, no, not so much as to set his foot on"*. See
+  [[A Stranger and a Foreigner - The Sojourner's Confession]] and [[Burial and the Grave]]
+
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and
@@ -177,6 +192,8 @@ where that starts, in a sentence about a family that got halfway.
 - [[The Nations]] — Canaan is somebody else's land throughout Genesis, which the text never hides
 - [[Hope]]
 - [[Call and Election]] — what Abram is called out of, and what he is called to and not given
+- [[Burial and the Grave]] — the one clause of the land promise Genesis executes, and it is a
+  cemetery
 
 ## Related people
 

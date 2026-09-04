@@ -205,6 +205,15 @@ the rest of the canon.
   son"* — rather than removing the demand. Hebrews 11:19 reads Abraham's reasoning as the Old
   Testament's earliest reach toward resurrection, and reads it as an inference the text does not
   make. See [[The Hope of Resurrection in the Old Testament]]
+
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:1–2, and the first death in Genesis the book
+  slows down for. *"Sarah lived one hundred twenty-seven years. This was the length of Sarah's life"*
+  — **the only woman in Scripture whose lifespan is recorded**, given in the formal register used of
+  the patriarchs and closed with a summary clause used of nobody else. And then no cause, no death
+  scene, and no reported grief but her husband's, who has to travel twenty-five miles north to do
+  it. What the chapter that follows is about is not dying at all; it is buying ground, which is what
+  Genesis thinks a death makes necessary. See [[Burial and the Grave]]
+
 ## Related themes
 
 - [[Creation]]
@@ -216,6 +225,7 @@ the rest of the canon.
 - [[Hope]]
 - [[Suffering]]
 - [[Mediation and Advocacy]]
+- [[Burial and the Grave]] — what happens after; the theme this one hands off to at Genesis 23
 
 ## Related people
 
@@ -230,3 +240,4 @@ the rest of the canon.
 - [[Methuselah]]
 - [[Noah]]
 - [[Job (person)]]
+- [[Sarah]] — the only woman in Scripture given a lifespan, and the first person in it to be buried

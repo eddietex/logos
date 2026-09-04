@@ -122,7 +122,10 @@ son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Be
   reconciliation and simply puts them at the same grave.
 - **Genesis 25:12–18** — his *toledot*: twelve princes (Nebaioth, Kedar, Adbeel, Mibsam and the rest),
   a life of a hundred thirty-seven years, and territory *"from Havilah to Shur that is before Egypt"*.
-  The twelve match Israel's twelve, and the parallel is deliberate.
+  The twelve match Israel's twelve, and the parallel is deliberate — and it is not a pair but a
+  **trio**: Genesis 22:20–24 gives Nahor twelve sons by a wife and a concubine, sixty verses before
+  Ishmael's twelve are listed, in a household that was never called, promised, or covenanted at all.
+  See [[Twelve Sons - Nahor, Ishmael, and Jacob]] and [[Nahor's Line and the Burial of Sarah]].
 - **Later in Scripture** — Ishmaelites buy Joseph and carry him to Egypt (37:25–28); Kedar and
   Nebaioth appear as Arabian peoples in the prophets (Isaiah 60:6–7; Jeremiah 49:28–33); a different
   Ishmael son of Nethaniah murders Gedaliah (Jeremiah 40–41). Esau marries one of his daughters

@@ -96,3 +96,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Ram Instead of the Son - Substitution at Moriah]] | thread | Genesis 22:8, 13 · Exodus 13:13; 34:20 · Leviticus 1:1–17; 16:8–22 · Numbers 3:11–13 · Isaiah 53:4–6 · John 1:29 |
 | [[Child Sacrifice and the Redemption of the Firstborn]] | thread | Genesis 22:1–19 · Exodus 13:2, 11–15; 22:29–30 · Leviticus 18:21; 20:2–5 · Deuteronomy 12:31 · Judges 11:29–40 · 2 Kings 3:26–27 · Jeremiah 7:31 · Ezekiel 20:25–26 · Micah 6:6–8 |
 | [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 |
+| [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
+| [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 |
+| [[Buried at Machpelah - The Six Graves of Genesis]] | parallel | Genesis 23:1–20 · Genesis 25:7–10 · Genesis 49:29–32 · Genesis 50:12–14 · Acts 7:16 |

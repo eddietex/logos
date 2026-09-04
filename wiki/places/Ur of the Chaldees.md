@@ -34,6 +34,12 @@ seventh — several centuries after any proposed date for Abraham. So *of the Ch
 identifier attached to an older name, in the way a modern writer says "in France" of a Roman site.
 That much is agreed. What it identifies is not.
 
+**And Genesis puts the word into the family tree.** Nahor's fourth-listed son is **Chesed** —
+*Keśed*, whose plural *Kaśdîm* is the very qualifier in *ʾÛr Kaśdîm* (Genesis 22:22). Whether that is
+Genesis offering an eponymous ancestor for the Chaldeans, or a name that happens to look like one,
+it means the book names a nephew of Abraham after the people whose city Abraham left, and never
+notices. See [[Nahor's Line and the Burial of Sarah]].
+
 **The southern identification** — Tell el-Muqayyar in southern Iraq, the great Sumerian city of Ur,
 capital of the Third Dynasty, excavated by Leonard Woolley between 1922 and 1934 — is the majority
 view. Its strongest argument is the qualifier itself: *Ur of the Chaldees* is exactly how a

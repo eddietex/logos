@@ -329,12 +329,57 @@ filling exactly the gap Genesis leaves between 22:19 and 23:2, and it is a readi
 report. **What the text supplies is the sequence, and that Abraham comes home to Beersheba while she
 is at Kiriath Arba.** See [[The Binding of Isaac]].
 
+### In this pericope — Genesis 23:1–20
+
+**She dies, and Genesis gives her a lifespan.**
+
+> **1** Sarah lived one hundred twenty-seven years. This was the length of Sarah’s life.
+
+**No other woman in Scripture has one.** Not Eve, not Rebekah, not Rachel, not Miriam, not Deborah,
+not Ruth, not Esther. The book has spent eleven chapters giving men's ages to the year, and it gives
+one woman's — in the formal register it uses for the patriarchs, with the word *year* repeated after
+each numeral exactly as at 25:7 for Abraham and 25:17 for Ishmael, and then a closing clause it uses
+for nobody at all: *"This was the length of Sarah's life."* Whatever else the wiki can say about how
+Genesis treats her, **it marks her death the way it marks a patriarch's.**
+
+**And it gives no cause.** She has not spoken since 21:10, where her last recorded words were
+*"Cast out this servant and her son!"*. Chapter 22 did not tell her what was being asked of her son
+and did not report her reaction; chapter 23 opens on her death and offers no connection between the
+two. The rabbinic tradition that the news of the Akedah killed her (*Genesis Rabbah* 58:5; Rashi on
+23:2) is a reading of the sequence, not of a statement, and the wiki records it as tradition. What
+is checkable is only the arithmetic: she was ninety at [[Isaac]]'s birth (17:17), so **Isaac is
+thirty-seven when his mother dies** — which is where the rabbinic age for him on Moriah comes from,
+and is not itself a claim about Moriah.
+
+**She dies at Kiriath Arba and her husband was elsewhere.** 22:19 left [[Abraham]] at
+[[Beersheba]]; 23:2 puts her at [[Hebron]], twenty-five miles north, and has him *come* —
+*wayyābōʾ* — to mourn her. Genesis neither says they were living apart nor says they were not, and
+passes no comment on the gap, in the same register of silence it keeps about Isaac after 22:19.
+
+**Two verbs for the grief, and the second gets one word.** *Sāpad*, the formal lament performed
+where people can see it, and then *bākâ*, to weep. In the Masoretic text the *kaf* of *wəlibkōtāh*,
+*and to weep for her*, is written **small** — an ancient scribal notation transmitted without any
+explanation attached. Every meaning ever proposed for it is a later reading of a letter's size, and
+it is recorded here as a feature of the text's history and not as evidence about Abraham.
+
+**Then eighteen verses of property law, and she is the reason for all of it.** Her death is what
+makes Abraham need ground, and the field of Machpelah is bought, itemized, witnessed, and deeded
+before *"Abraham buried Sarah his wife in the cave of the field of Machpelah"* (23:19). **The first
+burial in Scripture, and the first land any patriarch owns, are the same transaction.** See
+[[Nahor's Line and the Burial of Sarah]], [[Machpelah]], and [[Burial and the Grave]].
+
+**One more thing the placement does.** Four verses before her death notice, the news reaches Abraham
+that [[Milcah]] *"she **also** has borne children"* — eight of them, to the brother who never left
+Mesopotamia. Sarah bore one, at ninety. Genesis puts the comparison in the text and leaves the other
+half of it unstated.
+
 ### Where the rest of her is
 
-Ahead, in a pericope not yet ingested: her death at Kiriath Arba and the purchase of Machpelah (23).
-She is
-the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
-exemplar. None of that is legible from Genesis 11, where she is a name, a marriage, and an absence.
+She is the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
+exemplar. Genesis returns to her name three more times, always as an occupant of the tomb —
+25:10, where Abraham *"was buried there with Sarah, his wife"*, and 49:31 in Jacob's recitation of the grave.
+Isaiah 51:2 pairs her with Abraham as the two the nation is told to look back to. None of that is
+legible from Genesis 11, where she is a name, a marriage, and an absence.
 
 ## Timeline / key events
 
@@ -372,7 +417,12 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - Sees Ishmael *mocking* at the weaning feast and demands that he and his mother be cast out —
   Genesis 21:9–10
 - God tells Abraham to listen to her voice, the third and last use of the idiom — Genesis 21:12
-- Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
+- Dies at a hundred twenty-seven at Kiriath Arba, the only woman in Scripture whose lifespan is
+  recorded — Genesis 23:1–2, [[Nahor's Line and the Burial of Sarah]]
+- Mourned and wept for by Abraham, who comes from Beersheba to do it — Genesis 23:2
+- Buried in the cave of Machpelah, in the field Abraham buys from Ephron for four hundred shekels —
+  Genesis 23:19, [[Machpelah]]
+- Named afterwards only as an occupant of the tomb — Genesis 25:10; 49:31 *(not yet ingested)*
 
 ## Appears in
 
@@ -397,6 +447,10 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
   that expels a slave and a boy whose names she will not say
 - [[The Binding of Isaac]] — Genesis 22:1–19; absent, unconsulted, and not told, in the chapter that
   nearly ends her son; she dies in the next one, and Genesis gives no cause
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:1–20; a hundred twenty-seven years, the only
+  woman's lifespan in the Bible, recorded in the patriarchs' own register and followed by no cause,
+  no death scene, and no word from anyone but her husband — and then eighteen verses about the price
+  of a field
 
 ## Related people
 
@@ -416,6 +470,11 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Ishmael]] — the son her plan produced, and whom she will demand be cast out at 21:10
 - [[Isaac]] — her son, named and dated before he is conceived, and the one the covenant is
   established with
+- [[Ephron the Hittite]] — who owned the cave she is buried in until four verses before she is put in
+  it
+- [[Rebekah]] — her successor, named in the genealogy four verses before her own death notice; Genesis
+  24:67 says Isaac was comforted after his mother's death, which is the only thing the book ever puts
+  between the two women
 
 ## Themes associated
 
@@ -431,3 +490,5 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Seeing and Being Seen]]
 - [[Faith]]
 - [[Hospitality]]
+- [[Life and Death]]
+- [[Burial and the Grave]]

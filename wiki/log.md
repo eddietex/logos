@@ -3653,3 +3653,164 @@ landed and only the local ref was stale — so `git checkout main && git merge -
 moved the branch onto HEAD before any work, and this ingest was committed on `main`. Nine
 consecutive runs have now started detached; it is an environment quirk rather than a one-off and
 still wants the user's attention.
+
+## [2026-09-04] ingest | Genesis 22.20-23.20 — Nahor's Line and the Burial of Sarah
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+`Nahor's Line and the Burial of Sarah — Genesis 22:20–23:20` was the first unchecked box on its page.
+`raw/bible/Genesis.md` was already present, so `scripts/fetch-book.sh` was not run. Step 2's
+discussion is written into the passage page.
+
+### What the pericope is
+
+Two appendices closing the Abraham cycle, and the reason for keeping them together is that they do
+the same job. God has just sworn the promise at its largest — offspring like the stars of the
+heavens, the gate of the enemies (22:17) — and the next two things Genesis reports are **a name in
+somebody else's family tree and a funeral**: the covenant's two contents, offspring and land,
+delivered in miniature and back to back, with neither delivery mentioning the covenant and God
+neither speaking nor acting anywhere in the twenty-four verses.
+
+- **22:20–24** — news reaches Abraham (*wayyuggad*, a passive with no agent; the only word from
+  Mesopotamia in the whole cycle) that Nahor has **twelve** sons, eight by Milcah and four by a
+  concubine, *"His concubine, whose name was Reumah"* — **the Bible's first *pîlegeš***. The names
+  are the Aramean and north Arabian map rather than a family (Aram, Chesed behind the *Kaśdîm* of Ur,
+  Uz, Buz, Maacah, Tebah), and the whole register exists for one clause: *"Bethuel became the father
+  of Rebekah."*
+- **23:1–20** — Sarah dies at Kiriath Arba at a hundred twenty-seven, **the only woman in Scripture
+  whose lifespan is recorded**, in the formal register used of the patriarchs. Abraham was at
+  Beersheba (22:19) and has to *come*. The remaining eighteen verses are a conveyance: *gēr wətôšāb*,
+  three bows, two refused gifts, four hundred shekels weighed to the merchants' standard, an itemized
+  scope clause, witnesses at the gate — and the deed stated **twice**, the second time after the
+  burial, so the chapter ends on the title and not on the grave.
+
+### Pages created (11)
+
+| page | why |
+|---|---|
+| `passages/Genesis/Nahor's Line and the Burial of Sarah` | the pericope |
+| `people/Bethuel` | Rebekah's father; recurs at 24:15, 24, 50; 25:20; 28:5 |
+| `people/Rebekah` | first mention, three chapters early; the next matriarch |
+| `people/Reumah` | the Bible's first concubine, and the four sons that make Nahor's twelve |
+| `people/Ephron the Hittite` | the seller, drawn entirely out of two speeches |
+| `people/The Children of Heth` | the assembly at the gate; a group page, on the footing of `The Sons of God` |
+| `places/Machpelah` | the only real property any patriarch owns in Canaan |
+| `themes/Burial and the Grave` | a new theme — see the judgment call below |
+| `connections/Twelve Sons - Nahor, Ishmael, and Jacob` | 22:20–24 · 17:20 · 25:12–16 · 35:22–26 |
+| `connections/A Stranger and a Foreigner - The Sojourner's Confession` | 23:4 · Lev 25:23 · 1 Chr 29:15 · Ps 39:12 · Heb 11:13 · 1 Pet 2:11 |
+| `connections/Buried at Machpelah - The Six Graves of Genesis` | the deed recited five times, and Acts 7:16 |
+
+### Pages revised (24)
+
+`books/Genesis` (box checked, overview extended, three themes and six names added to the key lists) ·
+`books/index` (29 / 58) · `index` (counts) · `people/Abraham` · `people/Sarah` · `people/Isaac` ·
+`people/Milcah` · `people/Nahor (brother of Abram)` · `people/Hagar` · `people/Ishmael` ·
+`places/Hebron` · `places/Mamre (place)` · `places/Canaan` · `places/Beersheba` · `places/Uz` ·
+`places/Ur of the Chaldees` · `themes/Land and Sojourning` · `themes/Life and Death` ·
+`themes/Covenant` · `themes/Marriage` · `themes/The Nations` · `themes/Hospitality` ·
+`themes/Barrenness` · `themes/Faith`, plus the four category indexes.
+
+### Judgment calls made unattended
+
+1. **The pericope boundary was kept as planned; no unchecked boxes were redrawn.** 22:20 opens with
+   *"After these things"* and 24:1 opens a fresh self-contained narrative, so the unit is clean at
+   both ends. The live alternative — attaching 22:20–24 to chapter 24, since the genealogy exists to
+   introduce Rebekah and does nothing else — was rejected because the notice is tied to the Akedah by
+   its own opening formula, and because both halves deliver a miniature of a promise immediately
+   after that promise's largest statement, which is only visible if they are read together. Splitting
+   23:1–20 off on length alone would have been defensible and would have cost the juxtaposition.
+2. **A new theme page, `Burial and the Grave`, was created.** `Life and Death` covers dying;
+   burial in Genesis is a distinct and unusually legal strand — a purchased holding, *"gathered to
+   his people"*, and an oath that reaches from 47:29 to Joshua 24:32 — and this is the pericope that
+   starts it. The two pages are cross-linked and `Life and Death` now says explicitly where it hands
+   off. No schema change was needed: a new theme page is already covered by `AGENTS.md`.
+3. **The eleven other sons of Nahor were deliberately not given pages** — Uz, Buz, Kemuel, Chesed,
+   Hazo, Pildash, Jidlaph, Tebah, Gaham, Tahash, Maacah. Precedent is `The Table of Nations`, whose
+   seventy names are handled on the passage page rather than individually. They are discussed on the
+   passage page and on `people/Nahor (brother of Abram)`. Bethuel, Rebekah, and Reumah **were** given
+   pages, on one verse each, because each is load-bearing within two chapters.
+4. **A person/place collision was headed off rather than created.** `places/Uz.md` exists (the land
+   of Job) and 22:21 names a man. Under the `AGENTS.md` person/place rule both pages would need
+   qualifiers — but only once both exist, and no person page was made, so the bare `Uz.md` stands. A
+   note on the passage page and on `places/Uz` records that a future page for Nahor's firstborn must
+   be `Uz (son of Nahor)`, whose patronymic disambiguates without forcing a rename of the place.
+5. **Kiriath Arba was folded into `places/Hebron` rather than given its own page**, since 23:2 glosses
+   it in the same breath (*"Kiriath Arba (also called Hebron)"*) and the Hebron page already carried
+   the name in `also_known_as` and in its overview.
+6. **`The Children of Heth` was filed under `people/`** as a group page, on the footing of
+   `The Sons of God`, `The Nephilim`, and `Job's Children`. It is the conveying party named in
+   23:20, so it is an actor and not a place.
+7. **The price is left ungraded, in both directions.** Four hundred shekels is high against every
+   comparison the Bible itself supplies (Exodus 21:32; Jeremiah 32:9; 2 Samuel 24:24; 1 Kings 16:24),
+   and the courtesy reading — that offering free, refusing to price, and floating the figure as a
+   question are simply the polite forms — accounts for every word just as well. Both are recorded on
+   the passage page and on `people/Ephron the Hittite`; neither is adopted.
+8. **The rabbinic causal link between the Akedah and Sarah's death is named as tradition, not
+   adopted.** *Genesis Rabbah* 58:5 and Rashi on 23:2 read chapters 22 and 23 as consecutive and make
+   the news the cause. Genesis gives no cause, no reaction from Sarah to chapter 22, and never puts
+   her in the same verse as it. What is checkable is only the arithmetic: 17:17 with 23:1 makes Isaac
+   thirty-seven when his mother dies, which is where the rabbinic age for him on Moriah comes from
+   and is not itself a claim about Moriah.
+9. **The small *kaf* of *wəlibkōtāh* (23:2) is recorded as a feature of the text's transmission and
+   explicitly not as evidence about Abraham's grief.** Every meaning proposed for the miniature letter
+   is a later reading of a letter's size.
+10. **Lehmann's 1953 Hittite-law proposal is named and not adopted.** The whole-field-versus-part
+    shape of the negotiation is real; that it demonstrates Anatolian Hittite law operating at Hebron
+    is not, and the standard objections are given on the passage page and on `The Children of Heth`.
+
+### Contradiction flagged, not harmonised
+
+**Acts 7:16 against Genesis 23 and 33:19.** Stephen has the patriarchs carried to *Shechem* and laid
+in a tomb *Abraham* bought from the *sons of Hamor*. Genesis has two purchases — Abraham at Hebron
+from Ephron the Hittite (23), Jacob at Shechem from the sons of Hamor (33:19) — with Joseph buried at
+Shechem (Joshua 24:32) and Jacob at Machpelah (50:13). The three standing readings (compression in a
+summarising speech; an independent burial tradition; a harmonisation positing an earlier Abrahamic
+purchase at Shechem, which nothing in Genesis supports) are all recorded on
+`connections/Buried at Machpelah - The Six Graves of Genesis`, and none is adopted.
+
+### Quote accuracy
+
+Every block-quoted verse on the passage page was extracted by script and compared whole against
+`raw/bible/Genesis.md`: **27 of 27 verbatim.** Every italic-quoted span added anywhere in this pass
+was then extracted and checked the same way: **113 spans verbatim in Genesis.** The remainder quote
+books not held in this repository (Leviticus, Deuteronomy, Joshua, 1–2 Samuel, 1–2 Kings,
+1 Chronicles, Psalms, Isaiah, Jeremiah, Lamentations, Ezekiel, Job, Acts, 1 Corinthians, Hebrews,
+1 Peter) and are unverifiable here, as elsewhere in the wiki; three further flags are not errors —
+two are contiguous WEB text spanning a verse boundary (22:21–22) or nesting an inner quotation
+(24:50), and one is a partial quote.
+
+**Nine quotation errors written during this pass were caught by that check and corrected before
+commit**, all of them forward references to chapters not yet ingested: Genesis 22:17 (*"as the stars
+of the sky"* for the WEB's *"greatly like the stars of the heavens"*), 21:10 (*handmaid* for
+*servant*), 24:4 (a dropped comma), 24:53, 25:10, 25:16, 25:23, 26:34, and 49:31. One pre-existing
+error was corrected on the same grounds: `people/Nahor (brother of Abram)` had Genesis 24:4 as
+*"to my country and to my relatives"*, where the WEB reads *"to my country, and to my relatives"*.
+
+External and non-textual claims — the *pîlegeš* count, the small *kaf*, the Septuagint's
+*τὸ σπήλαιον τὸ διπλοῦν*, the Herodian date of the Hebron enclosure, Lehmann on the Hittite laws,
+*Genesis Rabbah*, Rashi, and Josephus — are stated as attributions or proposals rather than findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 24; 25; 26; 27; 33; 35; 47; 49; 50) are written as plain scripture references or
+carry an explicit *(not yet ingested)* marker. Nine stale *(not yet ingested)* markers for this
+pericope were cleared, on `people/Abraham`, `people/Sarah`, `people/Milcah`,
+`people/Nahor (brother of Abram)`, `places/Hebron`, `places/Mamre (place)`,
+`themes/Land and Sojourning`, and `themes/Life and Death`. Two prospective links on
+`themes/Burial and the Grave` — to Jacob and to Joseph, who have no pages yet — were written as
+plain text with a *(no page yet)* marker rather than as wikilinks, so the check stays clean.
+
+**Note on branch state.** The tenth run in a row to start on a **detached HEAD**, this time at
+`59b5292` with a clean tree and the local `main` ref stale at `ee8f435`, sixteen commits behind.
+`git fetch origin main` showed `origin/main` already at `59b5292` — the previous run's push had
+landed and only the local ref was stale — so `git checkout main && git merge --ff-only origin/main`
+moved the branch onto HEAD before any work, and this ingest was committed on `main`. Ten consecutive
+runs have now started detached; it remains an environment quirk rather than a one-off, it has cost
+nothing so far because every previous push had in fact landed, and it still wants the user's
+attention.
+
+**Also noticed, not acted on.** A tracked, empty `Exodus.md` sits at the repository root, added by
+commit `694ca13` ("Adjust naming for passge"). It is almost certainly the residue of a stray shell
+redirect and belongs nowhere in the directory map. It was left in place so that this ingest's commit
+stays just the ingest; it is one `git rm` away whenever the user wants it gone.

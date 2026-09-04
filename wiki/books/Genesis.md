@@ -181,7 +181,25 @@ even fratricidal betrayal into rescue (Joseph).
   appear*, and 2 Chronicles 3:1 will put the temple on a hill of that name. Then God swears — the
   only oath he swears by himself in Genesis — and grounds the promise, for the first time, in
   something Abraham did: *"because you have obeyed my voice."* It is the last thing God says to
-  Abraham in the book. Abraham goes back down to his servants, and Isaac is not in the verse.
+  Abraham in the book. Abraham goes back down to his servants, and Isaac is not in the verse. And
+  then, in *[[Nahor's Line and the Burial of Sarah]]*, the cycle does its housekeeping, and the
+  housekeeping turns out to be the point. God has just sworn offspring like the stars and the gate of
+  the enemies; the next two things Genesis reports are **a name in somebody else's family tree and a
+  funeral**. Word arrives from the branch that never left Mesopotamia — *"After these things"* again,
+  the same four words that opened the Akedah — that Nahor has twelve sons, eight by Milcah and four
+  by a concubine named Reumah, the Bible's first *pîlegeš*; the names are the Aramean map rather than
+  a family (Aram, Chesed behind the *Chaldees* of Ur, Uz, Buz, Maacah), and the whole register exists
+  for one clause at the end of it: *"Bethuel became the father of Rebekah."* Then Sarah dies at a
+  hundred twenty-seven at Kiriath Arba — **the only woman in Scripture whose lifespan is recorded** —
+  while Abraham is twenty-five miles south at Beersheba, so that he has to *come* to mourn her; and
+  the rest of the chapter is a property conveyance told with a precision Genesis uses for nothing
+  else. He calls himself *"a stranger and a foreigner"* in the sentence where he asks to own land; the
+  children of Heth call him *"a prince of God"* and offer him the best of their tombs for nothing; he
+  refuses the gift twice, because a gift can be revoked and a purchase heard at the city gate cannot,
+  and pays four hundred shekels — weighed, to the merchants' standard — for the field of Ephron, the
+  cave in it, and every tree inside its borders. **The deed is stated twice and the second statement
+  comes after the burial**, so that the chapter ends on the title rather than on the grave. It is the
+  only ground any patriarch ever owns in Canaan, and five more of them will be buried in it.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -224,7 +242,7 @@ merge, or reorder them freely.
 - [x] [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21
 - [x] [[The Treaty at Beersheba]] — Genesis 21:22–34
 - [x] [[The Binding of Isaac]] — Genesis 22:1–19
-- [ ] Nahor's Line and the Burial of Sarah — Genesis 22:20–23:20
+- [x] [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20
 - [ ] A Wife for Isaac — Genesis 24:1–67
 - [ ] The Death of Abraham and the Line of Ishmael — Genesis 25:1–18
 
@@ -298,6 +316,9 @@ merge, or reorder them freely.
 - [[Oaths and Vows]]
 - [[Strife and Peacemaking]]
 - [[The Names of God]]
+- [[Testing]]
+- [[The Fear of God]]
+- [[Burial and the Grave]]
 
 ## Key people
 
@@ -333,6 +354,11 @@ merge, or reorder them freely.
 - [[Ben Ammi]]
 - [[Abimelech (of Abraham's time)]]
 - [[Phicol]]
+- [[Bethuel]]
+- [[Rebekah]]
+- [[Reumah]]
+- [[Ephron the Hittite]]
+- [[The Children of Heth]]
 
 ## Key places
 
@@ -368,3 +394,4 @@ merge, or reorder them freely.
 - [[Beersheba]]
 - [[Paran]]
 - [[The Land of the Philistines]]
+- [[Machpelah]]

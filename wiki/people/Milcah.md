@@ -33,6 +33,11 @@ placed with precision: immediately after the binding of Isaac, at the moment Isa
 Kemuel the father of Aram … and Bethuel."* And then: *"Bethuel became the father of Rebekah."* Eight
 sons, and the eighth is the one the story needs.
 
+**And the notice is placed against Sarah without saying so.** *"Behold, Milcah, **she also** has
+borne children to your brother Nahor"* — *gam-hîʾ*, a comparative with nobody named on the other side
+of it. Milcah has borne eight; [[Sarah]] has borne one, at ninety, and dies in the next verse but
+one. See [[Twelve Sons - Nahor, Ishmael, and Jacob]] and [[Barrenness]].
+
 Her line is therefore the maternal line of Israel. Rebekah is her granddaughter; Laban is her
 great-grandson; Leah and Rachel are her great-great-granddaughters. The branch that did not go to
 Canaan supplies the women of the branch that did, for three generations running.
@@ -46,14 +51,16 @@ related to her and whose case establishes daughters' inheritance rights in Israe
 - Daughter of [[Haran (son of Terah)]]; sister of [[Lot]] and [[Iscah]] — Genesis 11:29
 - Marries her uncle [[Nahor (brother of Abram)]] — Genesis 11:29, [[From Shem to Abram]]
 - Not named among those who leave Ur — Genesis 11:31
-- Bears Nahor eight sons, including Bethuel, Rebekah's father — Genesis 22:20–23
-  *(not yet ingested)*
+- Bears Nahor eight sons, including [[Bethuel]], Rebekah's father — Genesis 22:20–23,
+  [[Nahor's Line and the Burial of Sarah]]
 - Named as Rebekah's grandmother when the servant meets her at the well — Genesis 24:15, 24
   *(not yet ingested)*
 
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:29
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23; the news that reaches Abraham after
+  Moriah, in which she has borne eight sons and the eighth has fathered [[Rebekah]]
 
 ## Related people
 
@@ -62,7 +69,12 @@ related to her and whose case establishes daughters' inheritance rights in Israe
 - [[Lot]] — her brother
 - [[Iscah]] — her sister
 - [[Terah]] — her grandfather and her father-in-law
-- [[Sarah]] — her sister-in-law, named beside her in the verse that gives her a father and Sarai none
+- [[Sarah]] — her sister-in-law, named beside her in the verse that gives her a father and Sarai none;
+  and the unstated other half of *"Milcah, **she also** has borne children"* (22:20), four verses
+  before Sarah's death notice
+- [[Bethuel]] — her eighth son, and the only one of the eight the narrative needs
+- [[Rebekah]] — her granddaughter, and Isaac's wife
+- [[Reumah]] — her husband's concubine, mother of the other four of his twelve
 
 ## Themes associated
 

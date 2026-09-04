@@ -77,6 +77,9 @@ every one of them.
   tamarisk, and *ʾĒl ʿÔlām*
 - [[The Binding of Isaac]] — Genesis 22:19; where the three-day journey to Moriah ends, in a last
   verse that names the place twice and does not name Isaac
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:2, by its absence; 22:19 left Abraham living
+  here, and when Sarah dies at Hebron twenty-five miles north the verse has to say he *came* to mourn
+  her. Genesis does not explain the distance
 
 ## Related places
 
@@ -87,7 +90,9 @@ every one of them.
 - [[Beer Lahai Roi]] — the other patriarchal well in this desert, named by Hagar, and Isaac's home
 - [[Paran]] — the wilderness further south, where the boy left in this one grows up
 - [[Kadesh]] and [[Shur]] — the two bearings Genesis gives for the same frontier
-- [[Hebron]] — the hill town to the north, and the family's other address
+- [[Hebron]] — the hill town to the north, and the family's other address — and the one Sarah dies in
+  while Abraham is here
+- [[Machpelah]] — the field bought at that other address, and the only ground the family owns
 - [[Moriah]] — three days' walk away, where the chapter after the treaty goes and comes back from
 - [[Canaan]] — the land it marks the southern edge of
 - [[Egypt]] — where Jacob is going the last time Beersheba is named in Genesis

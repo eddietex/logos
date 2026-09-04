@@ -523,10 +523,54 @@ obeyed my voice."* **It is the last thing God says to him in the Bible.** See
 his son never speak to each other again in Scripture, and they share no further scene. Genesis
 records whatever Moriah cost as distance, and never as a word.
 
+### In this pericope — Genesis 22:20–23:20
+
+**He buries his wife and buys a field, and those are the two things Genesis gives him to do after
+Moriah.**
+
+**First he is told something.** *"After these things, Abraham was told"* — a passive with no agent,
+and the only piece of news from Mesopotamia in the whole cycle. His brother has twelve sons; the
+eighth of them has a daughter called [[Rebekah]]. Abraham says nothing about it and does nothing
+with it, and Genesis will send his servant to that household two chapters later. See
+[[Nahor's Line and the Burial of Sarah]].
+
+**Then his wife dies, and he was not there.** 22:19 left him at [[Beersheba]]; 23:2 has Sarah dying
+at Kiriath Arba, twenty-five miles north, and Abraham *coming* — *wayyābōʾ* — to mourn her. Genesis
+does not say they were living apart and does not say they were not. **What it reports about this
+household after the Akedah is that its three members are in three different places**: Abraham at
+Beersheba, Sarah at Hebron, Isaac at Beer Lahai Roi when his bride arrives (24:62). He mourns her
+formally (*sāpad*) and then weeps (*bākâ*), in that order, and the second verb gets one word.
+
+**And then he does the most ordinary thing he does in the entire book: he buys some land.** Eighteen
+verses of it, told with a precision Genesis uses nowhere else. He stands up from beside the body,
+addresses the assembly, and describes himself in the flattest terms he ever uses: *"I am a stranger
+and a foreigner living with you"* — *gēr wətôšāb*, two words for a man who cannot own ground, said
+in the sentence where he asks to own some. See [[Land and Sojourning]].
+
+**He is offered what he asked for, free, twice, and refuses both times.** The children of Heth call
+him *nəśîʾ ʾĕlōhîm*, **a prince of God**, and put their tombs at his disposal; [[Ephron the Hittite]]
+offers the field and the cave publicly and without a price. Abraham bows, refuses, and insists on
+*"the full price"*. **A gift is held at the giver's pleasure; a purchase heard at the city gate is
+not** — and what he is actually buying is not a cave but a title, in the same legal noun (*ʾăḥuzzâ*,
+**possession**) that 17:8 used of the whole land.
+
+**He does not haggle.** Ephron floats four hundred shekels as a rhetorical question about how little
+it matters, and *"Abraham listened to Ephron"* and weighed it out to the merchants' standard. It is a
+large sum by every comparison the Bible itself supplies, and Genesis grades neither the price nor the
+man who named it. **This is the sixth consecutive pericope in which the book declines to grade
+anybody.**
+
+**What he ends up holding.** A field, a cave, and every tree inside its borders, deeded in public —
+and Genesis states the deed twice, the second time *after* the burial, so that the chapter closes on
+the title rather than on the grave. **It is the only real property he ever owns in Canaan**, he will
+be buried in it himself (25:9–10), and five more of his family will follow. Acts 7:5 gives the
+balance without softening: *"He gave him no inheritance in it, no, not so much as to set his foot
+on."* See [[Machpelah]] and [[Buried at Machpelah - The Six Graves of Genesis]].
+
 ### Where the rest of him is
 
-Much of what the Bible says about Abraham is still ahead of this page: Sarah's burial at Machpelah,
-the wife fetched for Isaac, and his own death (23–25). The New Testament
+Much of what the Bible says about Abraham is still ahead of this page: the wife fetched for Isaac,
+and his own death (24–25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
 it (Galatians 3:8). This page grows as those arrive.
@@ -630,6 +674,18 @@ it (Galatians 3:8). This page grows as those arrive.
 - Offers a ram *"instead of his son"* and names the place *Yahweh Will Provide* — Genesis 22:13–14
 - Given God's only self-sworn oath in Genesis, grounded in his obedience — Genesis 22:15–18
 - Returns to Beersheba and lives there — Genesis 22:19
+- Told that his brother Nahor has twelve sons, and that the eighth has fathered Rebekah — Genesis
+  22:20–24, [[Nahor's Line and the Burial of Sarah]]
+- Comes to Kiriath Arba to mourn and weep for Sarah, dead at a hundred twenty-seven — Genesis 23:1–2
+- Calls himself *a stranger and a foreigner* and asks the children of Heth for a burial holding —
+  Genesis 23:3–4
+- Refuses a free tomb twice and insists on paying the full price — Genesis 23:9, 13
+- Weighs out four hundred shekels of silver to Ephron the Hittite, to the merchants' standard —
+  Genesis 23:16
+- The field, the cave, and all its trees deeded to him before the assembly at the gate — Genesis
+  23:17–18, 20
+- Buries Sarah in the cave of Machpelah, the only ground he ever owns — Genesis 23:19,
+  [[Machpelah]]
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -670,13 +726,21 @@ it (Galatians 3:8). This page grows as those arrive.
   for strangers, three days on the road with the wood he split before dawn, three answers of *"Here I
   am"*, a knife stopped from the sky, a ram offered instead of his son, and God's only self-sworn
   oath — the last words God speaks to him in the Bible
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20; news from the brother he left
+  behind, a wife dead in a town he was not in, three bows, two refused gifts, four hundred shekels
+  paid without a counter-offer, and the only piece of the promised land he ever holds by title
 
 ## Related people
 
 - [[Terah]] — his father, who takes him out of Ur and dies short of Canaan
 - [[Sarah]] — his wife, and by Genesis 20:12 his half-sister
 - [[Nahor (brother of Abram)]] — his brother, who stays in Mesopotamia; both their households will
-  supply wives to the next two generations
+  supply wives to the next two generations, and whose twelve sons are the one piece of news from home
+  that ever reaches him
+- [[Ephron the Hittite]] — who sells him a field for four hundred shekels after offering it free
+- [[The Children of Heth]] — who call him *a prince of God* and witness the deed at the gate
+- [[Rebekah]] — his great-niece, named to him in a genealogy two chapters before his servant fetches
+  her for Isaac
 - [[Haran (son of Terah)]] — his brother, dead in Ur before the family leaves
 - [[Lot]] — his nephew, his companion out of Haran, and until Genesis 13 the only heir in sight
 - [[Shem]] — his ancestor nine generations back, and by the register's numbers still alive

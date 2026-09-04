@@ -41,10 +41,13 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1; the grove at noon, a tent door,
   and the most domestic scene in the Abraham cycle. Three men are washed and fed under the tree, and
   the walk out from it toward Sodom is where the intercession happens
+- [[Nahor's Line and the Burial of Sarah]] — Genesis 23:17, 19; the grove used as a surveyor's
+  benchmark in a legal document, twice in three verses, and three more times later in the book
 
 ## Related places
 
 - [[Hebron]] — the town it belongs to; Genesis 13:18 defines Mamre by it
+- [[Machpelah]] — the field it stands in front of, in the phrase Genesis repeats five times
 - [[Damascus]] — the far end of the pursuit that starts from this grove (14:14–15)
 - [[Shechem]] — the other tree-sanctuary, and the site of his first altar
 - [[Canaan]] — the land it sits in
@@ -58,5 +61,6 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
 - The three visitors are fed under the tree; Sarah laughs behind the tent flap — Genesis 18:1–15,
   [[The Three Visitors and Abraham's Intercession]]
 - Abraham walks out from the grove toward Sodom and argues for the city — Genesis 18:16–33
-- The field and cave of Machpelah, bought *before Mamre* — Genesis 23:17–20 *(not yet ingested)*
+- The field and cave of [[Machpelah]], bought *before Mamre* for four hundred shekels, and Sarah
+  buried in it — Genesis 23:17–20, [[Nahor's Line and the Burial of Sarah]]
 - Jacob returns to Isaac at Mamre — Genesis 35:27 *(not yet ingested)*
