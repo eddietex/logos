@@ -212,7 +212,20 @@ even fratricidal betrayal into rescue (Joseph).
   it in one word — *"I will go"* — and her family send her off with the oath sworn at Moriah, which
   they have never heard. Isaac comes in from Hagar's well, goes out into a field at evening to do
   something the Hebrew cannot name, and **is the first husband in the Bible said to love his wife**.
-  It is the register the Joseph cycle will be written in, and this is where the book learns it.
+  It is the register the Joseph cycle will be written in, and this is where the book learns it. And
+  the cycle closes in *[[The Death of Abraham and the Line of Ishmael]]*, eighteen verses in which
+  **nobody speaks at all** — no God, no Abraham, no Isaac, no Ishmael. Twenty-eight names arrive in
+  eight of them: sixteen descendants by [[Keturah]], a second wife introduced in nine words and never
+  mentioned again, and the twelve princes promised to Ishmael at 17:20, delivered by name. Seven sons
+  are given gifts and sent *"eastward, to the east country"*; one is given everything. Abraham dies at
+  a hundred seventy-five *"in a good old age"* — the exact words of the promise made to him at 15:15 —
+  and is the **first person in the Bible *"gathered to his people"***, a formula the pericope then
+  hands to Ishmael as well. Isaac and Ishmael, who have not been in the same verse since the boy was
+  sent into a desert, bury their father together at Machpelah, and Genesis says nothing whatever about
+  how. Then God blesses Isaac in four words, the first thing ever done to him directly, and settles
+  him at Hagar's well; and the next verse opens the genealogy of Hagar's son. **The cycle that began
+  with a childless man ends by counting his descendants and following none of them**, and the book
+  starts over at 25:19 with another barren wife.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -257,7 +270,7 @@ merge, or reorder them freely.
 - [x] [[The Binding of Isaac]] — Genesis 22:1–19
 - [x] [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20
 - [x] [[A Wife for Isaac]] — Genesis 24:1–67
-- [ ] The Death of Abraham and the Line of Ishmael — Genesis 25:1–18
+- [x] [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18
 
 ### Isaac and Jacob (25:19–36)
 
@@ -372,6 +385,7 @@ merge, or reorder them freely.
 - [[Reumah]]
 - [[Ephron the Hittite]]
 - [[The Children of Heth]]
+- [[Keturah]]
 
 ## Key places
 
@@ -408,3 +422,4 @@ merge, or reorder them freely.
 - [[Paran]]
 - [[The Land of the Philistines]]
 - [[Machpelah]]
+- [[Havilah]]

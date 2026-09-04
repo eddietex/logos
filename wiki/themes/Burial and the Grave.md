@@ -52,8 +52,14 @@ assumption is that a body left out is a person left out.**
 - **Genesis 23:1–20** — the first burial and the first purchase: [[Sarah]] at Machpelah, a field, a
   cave, and every tree in it, bought from [[Ephron the Hittite]] for four hundred shekels and
   witnessed at the gate. Abraham refuses a free tomb twice.
-- **Genesis 25:8–10** — Abraham *"was gathered to his people"*, and Isaac and Ishmael bury him
-  together in the same cave. *(not yet ingested)*
+- **Genesis 25:7–10** — Abraham *"was gathered to his people"* — **the first occurrence of the
+  formula in the Bible** — and Isaac and Ishmael bury him together in the same cave, with the deed
+  recited a third time. **The gathering is listed after the death and before the burial**, and his
+  own people are buried in Ur and Haran, which rules the family-tomb reading out for the first case.
+  See [[Gathered to His People]].
+- **Genesis 25:17** — Ishmael, at a hundred thirty-seven, *"gathered to his people"* in the identical
+  three verbs — the only person outside the covenant line ever given the formula, and the only one of
+  its six recipients with **no burial reported at all**.
 - **Genesis 35:8** — Deborah, Rebekah's nurse, buried under an oak below Bethel, and **the tree is
   named** *Allon Bacuth*, the oak of weeping — a grave marked and not owned. *(not yet ingested)*
 - **Genesis 35:19–20** — Rachel buried on the road to Ephrath with a pillar over the grave, the one
@@ -92,6 +98,10 @@ assumption is that a body left out is a person left out.**
 - [[From Adam to Noah]] — *"and then he died"*, eight times, and not one grave
 - [[The Hope of Resurrection in the Old Testament]] — what the Old Testament does and does not say
   about what a grave is the end of
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18: two death notices, one burial,
+  the deed recited for the third time, and the Bible's first *gathered to his people* — given twice
+  in nine verses, to a patriarch and to the son who was sent into a desert
+- [[Gathered to His People]] — the formula's six uses, and why it is not a synonym for being buried
 - Genesis 50:24–26; Exodus 13:19; Joshua 24:32 — Joseph's bones, and an oath kept across four
   centuries *(not yet ingested)*
 - Deuteronomy 34:5–6 — the unlocated grave of Moses
@@ -108,6 +118,7 @@ assumption is that a body left out is a person left out.**
 - [[Hope]] — Ezekiel's opened graves, and Job 19:25–27
 - [[Oaths and Vows]] — Jacob's oath from Joseph, and Joseph's from his brothers
 - [[Curse]] — what it means to be left out
+- [[Call and Election]] — the same death formula given to the heir and to the son who was not
 
 ## Related people
 
@@ -117,5 +128,6 @@ assumption is that a body left out is a person left out.**
 - [[The Children of Heth]] — the witnesses, and the conveying party
 - [[Isaac]] — buried by Esau and Jacob at the same field
 - [[Rebekah]] — named as an occupant of the tomb and given no death scene
+- [[Ishmael]] — buried nobody knows where, and gathered to his people all the same
 - Jacob — who dies as the second man in Egypt and insists on a cave in Hebron *(no page yet)*
 - Joseph — whose bones travel further than he did *(no page yet)*

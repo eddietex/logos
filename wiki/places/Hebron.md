@@ -58,6 +58,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   the day, and the ridge Abraham walks out onto to look down at the plain
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:1–20; Sarah dies at Kiriath Arba, and the
   negotiation at the city gate makes Abraham the owner of a field in it
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9–10; the second of its six graves,
+  and the town is not named — Genesis located it once, at 23:19, and never repeats the gloss
 
 ## Related places
 
@@ -80,8 +82,9 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 - Abraham's intercession for Sodom, on the road out — Genesis 18:16–33
 - Sarah dies; Abraham buys the field and cave of Machpelah from Ephron the Hittite for four hundred
   shekels, witnessed at the city gate — Genesis 23:1–20, [[Nahor's Line and the Burial of Sarah]]
-- Abraham, Isaac, Rebekah, Leah, and Jacob buried there — Genesis 25:9; 49:31; 50:13
-  *(not yet ingested)*
+- Abraham buried there by Isaac and Ishmael — Genesis 25:9–10,
+  [[The Death of Abraham and the Line of Ishmael]]
+- Isaac, Rebekah, Leah, and Jacob buried there — Genesis 49:31; 50:13 *(not yet ingested)*
 - The spies find the Anakim in it — Numbers 13:22
 - Caleb takes it and is given it as an inheritance — Joshua 14:13–15; 15:13–14
 - David anointed king over Judah, and reigns there seven and a half years — 2 Samuel 2:1–4; 5:5

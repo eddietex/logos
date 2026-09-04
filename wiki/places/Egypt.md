@@ -87,6 +87,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   subject: expelled for good, settled in [[Paran]] on the Egyptian frontier, the Egyptian slave
   *"took a wife for him out of the land of Egypt"*. **Ishmael's line begins three-quarters Egyptian**,
   and the traders who carry Joseph down to Egypt at 37:25–28 are Ishmaelites
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:12, 18; still *"Hagar the Egyptian"*
+  in the heading of her son's genealogy, thirty-eight years after the death of the owner she is also
+  still identified by, and the country [[Shur]] fronts in the description of his descendants' range
 
 ## Related places
 

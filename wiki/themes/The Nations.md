@@ -105,7 +105,9 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   covenant line (with Esau's Edom at 36, and Keturah's sons at 25:1–4), and the only one to receive
   the offspring promise in the covenant's own formula. His mother is Egyptian, his wife will be
   Egyptian (21:21), his twelve princes answer Israel's twelve tribes (25:12–16), and 16:12's *"He
-  will live opposite all of his brothers"* is repeated word for word of his descendants at 25:18.
+  will live opposite all of his brothers"* comes back at 25:18 as a statement about his descendants —
+  the same four-word phrase, *ʿal-pənê kol-ʾeḥāyw*, with a different verb (*yiškōn*, *dwell*, becomes
+  *nāpāl*, *fall* or *settle*), which is where the reading of the clause is actually decided.
   Genesis blesses him, makes him a nation, and gives the covenant to someone else, without ever
   explaining how the two sit together
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17, where *gôyim* enters the promise itself.
@@ -165,6 +167,14 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   Yahweh, and blessed with the covenant's own words at 24:60 — and Genesis 31:53 and Joshua 24:2 are
   blunt about what the branch that stayed behind actually worshipped. See
   [[Not from the Daughters of the Canaanites]] and [[Aram Naharaim]]
+
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18, where the covenant family is
+  shown to be the demographic source of half the Near East. **Twenty-eight names in eight verses**:
+  sixteen Arabian descendants by [[Keturah]] — Midian and Sheba and Dedan among them — and Ishmael's
+  twelve princes *"according to their nations"*, with villages and encampments from Havilah to Shur.
+  Sheba and Dedan are already filed under Ham at 10:7, which is what a genealogy of peoples does. And
+  Isaiah 60:6–7 brings five of these names back to Zion with gold and incense; see
+  [[Abraham's Other Sons in Isaiah 60]]
 
 ## Related themes
 

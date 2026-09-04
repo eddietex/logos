@@ -14,6 +14,9 @@ tags: [connection]
 - **Genesis 22:1–19** — God demands the offering; Abraham rises early, loads the donkey, and goes;
   the wood is laid on Isaac; the knife is raised; Yahweh's angel calls out of the sky; Abraham lifts
   his eyes and sees a ram; the boy lives and the promise is sworn. See [[The Binding of Isaac]].
+- **Genesis 25:9** — *"Isaac and Ishmael, his sons, buried him"*: the two survivors, in one clause,
+  four chapters after either of them was last on the page. See
+  [[The Death of Abraham and the Line of Ishmael]].
 
 ## Analysis
 
@@ -94,6 +97,12 @@ the same sky within thirty verses of each other, and Genesis keeps both. See [[C
   Ishmael is sent at 21:14, and Isaac is asked for at 22:2. By the end of chapter 22 the promise has
   been reduced to one son and then handed back, and the next thing that happens in the book is a
   funeral.
+- **And Genesis puts them back in one sentence and says nothing.** *"Isaac and Ishmael, his sons,
+  buried him in the cave of Machpelah"* (25:9). Both boys were nearly killed by their father's
+  obedience; both were saved by a voice; neither is recorded speaking to the other, then or ever.
+  **The book gives them a shared funeral and no reconciliation scene**, which is the same refusal to
+  explain that produced *məṣaḥēq* at 21:9 and the silence about the price at Machpelah. It is also
+  the last time Genesis has the two of them on the page together.
 - **It is the reason later readers have found Ishmael's story hard to file.** Christian tradition
   reads Genesis 22 as the type of everything and Genesis 21 as a domestic embarrassment, but the two
   are built out of the same parts, and the God who speaks from the sky over the bush speaks first.

@@ -210,8 +210,10 @@ thinks of her situation.
 *"His hand will be against every man, and every man's hand against him. He will live opposite all of
 his brothers."* The last clause is *ʿal-pənê kol-ʾeḥāyw yiškōn* — *he will dwell over against / in
 the face of all his brothers* — and it is genuinely ambiguous between **in defiance of** and
-**alongside**. Genesis 25:18 repeats it word for word of his descendants, in a verse that is simply
-describing where they live. The oracle is about an independent people on the desert margin of the
+**alongside**. Genesis 25:18 closes the Ishmael material by reusing the same four words,
+*ʿal-pənê kol-ʾeḥāyw*, of his descendants, in a verse that is simply describing where they live —
+**though the verb changes**, from *yiškōn*, *he will dwell*, to *nāpāl*, *he fell* (here *settled* or
+*encamped*), which is where the ambiguity actually sits. The oracle is about an independent people on the desert margin of the
 settled land, not a moral verdict on a boy, and the wiki flags that it has often been read as one,
 in service of arguments Genesis is not making.
 

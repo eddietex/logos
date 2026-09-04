@@ -136,6 +136,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   both *remembers* his covenant (Exodus 2:24) and *visits* his people (Exodus 3:16; 4:31). See
   [[Yahweh Visited Sarah - Paqad and the Visitations of God]]
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:8, a promise kept in its own
+  vocabulary with nobody pointing at it. *Śêbâ ṭôbâ*, *a good old age*, occurs twice in Genesis: at
+  15:15, where God promises it in the dark, and here, where it is paid. **The narrator does not say
+  that it is the same phrase.** And the formula the verse ends on — *gathered to his people* — is
+  itself a remembrance device, naming a man's dead as the thing he arrives at
+
 ## Related themes
 
 - [[Covenant]] — the usual object of the verb: what God remembers is what he swore

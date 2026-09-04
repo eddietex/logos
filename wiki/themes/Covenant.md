@@ -215,6 +215,13 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   heard of it. The chapter contains no divine speech and no mention of the covenant by name, and it
   is the pericope in which the covenant acquires its next generation
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:8, 11: the one clause of the
+  covenant Abraham lives to see executed is the one about himself (15:15, *"a good old age"*), and
+  his heir is *blessed* at 25:11 and not addressed with the covenant until 26:2–5. The distinction
+  the wiki has tracked since 17:20 — blessed against covenanted — holds at both ends of this
+  pericope. See
+  [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]]
+
 ## Related themes
 
 - [[Judgment]] — what the first covenant is spoken inside of

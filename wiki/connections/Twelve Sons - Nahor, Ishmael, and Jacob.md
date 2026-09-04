@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 22:20–24** — Nahor's twelve: eight by Milcah, four by his concubine Reumah
 - **Genesis 17:20** — *"He will become the father of twelve princes"* — Ishmael's twelve, promised
 - **Genesis 25:12–16** — Ishmael's twelve, delivered as a list of names, *"twelve princes, according
-  to their nations"*
+  to their nations"*. See [[The Death of Abraham and the Line of Ishmael]]
 - **Genesis 35:22–26** — Jacob's twelve: six by Leah, two by Rachel, two by Bilhah, two by Zilpah
 - Genesis 36:10–14 — Esau's sons and the chiefs of Edom, counted differently
 - Deuteronomy 3:14; 2 Samuel 10:6 — Maacah as an Aramean kingdom
@@ -89,3 +89,10 @@ twelve exists so that the eighth of them can father [[Rebekah]], one verse befor
 chapters before a servant is sent to find her. Ishmael's twelve close his story; Jacob's twelve open
 Israel's; **Nahor's twelve exist to hand the promise its next mother.** See
 [[Nahor's Line and the Burial of Sarah]].
+
+**And the promised twelve is the one delivered most exactly.** Genesis 17:20 says *"He will become
+the father of twelve princes"*, and Genesis 25:16 closes the list with *"twelve princes, according to
+their nations"* — the same noun, *nəśîʾîm*, thirteen years and eight chapters apart. Nahor's twelve
+are simply reported; Jacob's have to be assembled out of four women and are still being counted
+differently in Numbers and Revelation. **The one that arrives exactly as specified belongs to the son
+the covenant was refused to**, which is the asymmetry this page exists to record.

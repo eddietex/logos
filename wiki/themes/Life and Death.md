@@ -214,6 +214,13 @@ the rest of the canon.
   it. What the chapter that follows is about is not dying at all; it is buying ground, which is what
   Genesis thinks a death makes necessary. See [[Burial and the Grave]]
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:7–8, 17: two lifespans, and the
+  Bible's first *"gathered to his people"*, listed as a third thing after *gave up his spirit* and
+  *died* and before any burial. Abraham dies *zāqēn wəśābēaʿ*, **old and satisfied**, with no object
+  attached to the word — the only person in Scripture so described — and 15:15's *"a good old age"*
+  is paid back in its own words. Set it against Jacob at 47:9: *"Few and evil have been the days of
+  the years of my life."* See [[Gathered to His People]]
+
 ## Related themes
 
 - [[Creation]]

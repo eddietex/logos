@@ -97,6 +97,9 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - Veils herself at the sight of Isaac in the field — Genesis 24:64–65
 - Marries [[Isaac]] in his mother Sarah's tent; he loves her, and is comforted after his mother's
   death — Genesis 24:67
+- Off-stage while Abraham dies and Isaac inherits everything; on the book's arithmetic she has been
+  married thirty-five years at that point and has no children — Genesis 25:5–11,
+  [[The Death of Abraham and the Line of Ishmael]]
 - Barren twenty years; Isaac prays and she conceives — Genesis 25:21 *(not yet ingested)*
 - Receives the oracle of the two nations — Genesis 25:23 *(not yet ingested)*
 - Called Isaac's sister before Abimelech, the third wife-sister episode — Genesis 26:7
@@ -113,6 +116,9 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   cannot know is being applied and exceeds it by watering ten camels, answers the only question put
   to a bride in Genesis with one word, is blessed in the covenant's own clause by people who have
   never heard it, and is brought into the tent of the woman she replaces
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18; off-stage, and the reason the
+  next pericope exists: her husband inherits everything, is blessed by God, and settles at a desert
+  well, and the childlessness the book opens on at 25:21 is already thirty-five years old
 
 ## Related people
 

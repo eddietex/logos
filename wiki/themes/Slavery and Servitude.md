@@ -130,6 +130,12 @@ addressing a slave by name and no one else in the story doing so.
   name.** He is *the servant* and *the man*, and *my master* is in his mouth thirteen times in one
   chapter. See [[Abraham's Servant]]
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:12, where the heading of Ishmael's
+  genealogy still calls his mother *"Hagar the Egyptian, Sarah's servant"* — **the identical
+  two-part description she was given at 16:1**, applied thirty-eight years after the owner's death
+  and decades after the expulsion that ended the arrangement. Genesis never stops identifying her by
+  the woman who owned her, and never remarks on it
+
 ## Related themes
 
 - [[Land and Sojourning]] — the other half of Israel's self-description: strangers and slaves

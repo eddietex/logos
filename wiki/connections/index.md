@@ -103,3 +103,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |
 | [[The Betrothal at the Well]] | type-scene | Genesis 24:10–61 · Genesis 29:1–20 · Exodus 2:15–21 · John 4:1–42 · Ruth 2:8–9 |
 | [[Not from the Daughters of the Canaanites]] | thread | Genesis 24:3–4 · Genesis 27:46–28:2 · Deuteronomy 7:1–4 · 1 Kings 11:1–8 · Ezra 9–10 · Ruth 1:16–17 · 2 Corinthians 6:14 |
+| [[Gathered to His People]] | parallel | Genesis 25:8 · Genesis 25:17 · Genesis 35:29 · Genesis 49:29, 33 · Numbers 20:24 · Deuteronomy 32:50 |
+| [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]] | prophecy → fulfillment | Genesis 15:15 · Genesis 25:7–10 · Genesis 47:9 · Job 42:17 · Hebrews 11:13 |
+| [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 |
+| [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |

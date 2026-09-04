@@ -14,7 +14,9 @@ tags: [connection]
   be cast out; Abraham complies at God's word; Hagar and the boy run out of water in the wilderness of
   Beersheba; *"God heard the voice of the boy"*; a well is opened; they settle in Paran. See
   [[The Birth of Isaac and the Sending of Hagar]].
-- **Genesis 25:12–18** — Ishmael's twelve princes and their territory *"from Havilah to Shur"*.
+- **Genesis 25:12–18** — Ishmael's twelve princes and their territory *"from Havilah to Shur"*, in
+  a genealogy whose heading still calls her *"Hagar the Egyptian, Sarah's servant"*. See
+  [[The Death of Abraham and the Line of Ishmael]].
 
 ## Analysis
 
@@ -69,8 +71,11 @@ first, and Genesis lets it be one without ever saying so.
 
 Nothing of Hagar remains in Abraham's household, and two things remain in the country. The name she
 gave God, *ʾĒl Rŏʾî*, is fixed to a well between Kadesh and Bered — and Isaac, the son who displaced
-her son, lives at that well for the rest of his life (24:62; 25:11). And her son's descendants range
-*"from Havilah to Shur"* (25:18), Shur being the road she was on when she was turned back.
+her son, lives at that well for the rest of his life (24:62; 25:11) — and Genesis 25:11, the verse
+that makes it his address, is the last verse before her son's genealogy. And her son's descendants
+range *"from Havilah to Shur"* (25:18), [[Shur]] being the road she was on when she was turned back:
+**the territory of Ishmael's twelve princes is bounded, at its western end, by the point where his
+mother was stopped.**
 
 ## Significance
 

@@ -52,6 +52,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   after Sodom and stays in for the rest of the cycle
 - [[A Wife for Isaac]] — Genesis 24:62, *"for he lived in the land of the South"*: the next
   generation's address, and the field Isaac is walking in when Rebekah arrives
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:11; Isaac settles at Beer Lahai Roi
+  in it permanently, and the whole Ishmaelite corridor of 25:18 is drawn along its southern edge
 
 ## Related places
 

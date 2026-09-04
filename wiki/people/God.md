@@ -684,6 +684,33 @@ than resolving it. See [[I Have Sworn by Myself - The Oath at Moriah]] and [[Cov
 
 **These are the last words he speaks to Abraham in the Bible.** See [[The Binding of Isaac]].
 
+### He blesses without speaking — Genesis 25:1–18
+
+**Four words, and they are the whole of him in eighteen verses.**
+
+> **11** After the death of Abraham, God blessed Isaac, his son.
+
+That is it. No speech, no appearance, no name given, no promise restated, nothing quoted. Genesis 24
+had him named nineteen times and silent; **this pericope removes the human speech as well**, so that
+the one divine act in it is reported in a subordinate position, between a funeral and a genealogy.
+
+**Three things about that act are worth separating.**
+
+- **It is the first thing he is ever recorded doing to [[Isaac]] personally**, and Isaac is
+  seventy-five. Everything before it was done *about* him — named before conception (17:19),
+  circumcised before consent (21:4), bound without a word (22:9), married by proxy (24). **The first
+  divine act aimed at the heir happens after his father is in the ground.**
+- **It is a blessing and not a covenant word.** He does not speak to Isaac until 26:2, and does not
+  restate the promise until 26:3–5 — where the stated ground is *"because Abraham obeyed my voice"*,
+  the same clause as 22:18. The distinction between *blessed* and *covenanted* that he drew himself
+  at 17:20–21 is being observed here in his own conduct.
+- **It is the only thing in the pericope that is not a fulfilment.** The rest of it is old promises
+  arriving: *"a good old age"* (15:15) at 25:8, and *"twelve princes"* (17:20) at 25:16 — the second
+  of them kept, exactly, to the son he refused the covenant to. **He is silent for all of it**, and
+  no character points at any of it either.
+
+See [[The Death of Abraham and the Line of Ishmael]] and [[Blessing]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -826,6 +853,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   through an angel, provides a ram instead, says *"now I know that you fear God"*, and then swears by
   himself — the only oath he swears in Genesis, and the last thing he says to Abraham —
   [[The Binding of Isaac]]
+- Blesses Isaac in four words after Abraham's funeral — his first recorded act toward the heir, and
+  the only thing he does in eighteen verses in which nobody, human or divine, speaks —
+  [[The Death of Abraham and the Line of Ishmael]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -838,6 +868,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   conceded to, and the narrator reports no speech, no appearance, and no act — only the timing of
   Rebekah's arrival, *before he had finished speaking*. Every theological claim in the chapter is
   made by a character, which is the register the Joseph cycle will be written in
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:11; **four words, and no speech at
+  all**: *"After the death of Abraham, God blessed Isaac, his son."* The first act he is ever
+  recorded directing at Isaac, a blessing rather than a covenant word, in the only pericope in the
+  Abraham cycle where nobody speaks
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

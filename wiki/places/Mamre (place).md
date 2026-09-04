@@ -43,6 +43,8 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
   the walk out from it toward Sodom is where the intercession happens
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:17, 19; the grove used as a surveyor's
   benchmark in a legal document, twice in three verses, and three more times later in the book
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9; the third of those five
+  recitations, fixing the cave Abraham himself is laid in
 
 ## Related places
 

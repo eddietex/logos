@@ -3979,3 +3979,187 @@ previous push had in fact landed, and it still wants the user's attention.
 commit `694ca13` ("Adjust naming for passge"), is still there. It belongs nowhere in the directory
 map and is one `git rm` away whenever the user wants it gone; it was left alone again so this
 ingest's commit stays just the ingest.
+
+## [2026-09-04] ingest | Genesis 25.1-18 — The Death of Abraham and the Line of Ishmael
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+`The Death of Abraham and the Line of Ishmael — Genesis 25:1–18` was the first unchecked box on its
+page. `raw/bible/Genesis.md` was already present, so `scripts/fetch-book.sh` was not run. Step 2's
+discussion is written into the passage page. **This pericope closes the Abraham cycle** — the book
+page's structural division ends at 25:18, and 25:19 opens Isaac's *toledot*.
+
+### What the pericope is
+
+**Nobody speaks.** Eighteen verses close the longest cycle in the book — fourteen chapters, from the
+call at 12:1 to the grave at 25:10 — and they contain no dialogue at all: no God, no Abraham, no
+Isaac, no Ishmael. Genesis 24 was two-thirds dialogue with a silent God; **this pericope removes the
+human speech as well.** What is left is a list of names, a will, two death notices, one act of God
+reported in four words rather than quoted, and a map.
+
+It is also the only pericope in the cycle that is mostly genealogy: **twenty-eight names in eight of
+its eighteen verses** — sixteen descendants by Keturah, twelve princes of Ishmael — framing the
+eleven verses in which Abraham makes his will, dies, and is buried.
+
+- **25:1–4.** Keturah, introduced in nine words and never mentioned again. Six sons, seven grandsons,
+  three great-grandsons; the map is Arabia. **Midian** is the name the rest of the Bible cares about —
+  Moses' refuge and marriage, the caravan that sells Joseph, Gideon's enemy, Baal Peor — and no book
+  that fights the Midianites ever mentions that they are Abraham's grandchildren. *Sheba* and *Dedan*
+  are already filed under Ham at 10:7, which is what a genealogy of peoples does.
+- **25:5–6.** *"Abraham gave all that he had to Isaac"* — the sentence the servant had already
+  volunteered to Rebekah's family at 24:36, before the reader was shown it. **Eight sons, one heir.**
+  The other seven get *gifts* and a direction: *"eastward, to the east country"*, the direction
+  Genesis uses for removal (3:24; 4:16; 13:11; 36:6). The verb is *give*, not *drive out*, which is a
+  deliberate contrast with 21:14.
+- **25:7–8.** A hundred seventy-five years, and *"in a good old age"* — *śêbâ ṭôbâ*, which occurs
+  twice in Genesis: in the promise at 15:15 and in its discharge here. **It is the only promise made
+  to Abraham that he lives to see kept.** And *"gathered to his people"* is **the first occurrence in
+  the Bible**, listed as a third thing after *gave up his spirit* and *died* and before any burial.
+- **25:9–10.** Isaac and Ishmael at one grave. Ishmael has not been on the page since 21:21 and is
+  eighty-nine; **Genesis records no reconciliation, no message, and no word between them.** The
+  younger is named first, which is the reverse of 35:29. The Machpelah deed is recited in full for
+  the third of five times.
+- **25:11.** *"After the death of Abraham, God blessed Isaac, his son. Isaac lived by Beer Lahai
+  Roi."* **God's first recorded act toward Isaac, at seventy-five**, and it is a blessing rather than
+  a covenant word — he is not spoken to until 26:2. And the verse that settles the son of the promise
+  at the slave woman's well is the last verse before the slave woman's son's genealogy.
+- **25:12–18.** Ishmael's *toledot*, seven verses before Isaac's. Twelve princes — *nəśîʾîm*,
+  17:20's own noun — *"according to their nations"*, in villages and encampments from Havilah to
+  Shur. A hundred thirty-seven years, and *gathered to his people* in the same three verbs as his
+  father: **the only person outside the covenant line ever given that formula**, and the only one of
+  its six recipients with no burial reported at all.
+
+### Judgment calls made unattended
+
+- **Boundaries: the box stands as drawn, and no unchecked boxes were redrawn.** The break at
+  25:18/25:19 is the book's own — 25:19 opens a *toledot* — and the book page already ended the
+  Abraham division there. The alternative split, 25:1–11 and 25:12–18, was considered and rejected:
+  25:11 and 25:12 are deliberately adjacent (Isaac settling at Hagar's well, then Hagar's son's
+  genealogy) and separating them loses the juxtaposition.
+- **Which new pages to make.** One person (`Keturah`), one place (`Havilah`), four connections.
+- **Which pages *not* to make, and why.** Twenty-eight names arrive in these verses and none of them
+  acts, speaks, or is described. The wiki's standing practice, set at `The Table of Nations`, is that
+  a bare genealogical name gets no page and a name with narrative weight does — Nimrod and Canaan got
+  pages out of Genesis 10; Sheba, Dedan, and Raamah did not. That rule was applied unchanged.
+  **Midian was the closest call** and was left without a page until the Midianites enter the
+  narrative at 37:28. **When that page is made it must be `Midian (son of Abraham)`**, because Midian
+  is also a region and a bare `Midian.md` is exactly the silent basename collision the `AGENTS.md`
+  qualifier rules exist to prevent; the same caution applies to Nebaioth and Kedar if Isaiah 60 or
+  Isaiah 21 is ever ingested. The note is recorded on the passage page and on `people/Keturah` so the
+  next agent does not create a bare page.
+- **`Havilah` earned a page now** rather than at Genesis 2 or 10 because this is its fourth
+  appearance and it was being referenced from five existing pages without one — the `AGENTS.md` lint
+  criterion for a repeatedly-mentioned place lacking a page.
+
+### Tensions flagged and not resolved
+
+- **What Keturah is.** *ʾiššâ*, **wife**, at 25:1; one of *"Abraham's concubines"* (*pîlagšîm*,
+  plural) at 25:6; *"Abraham's concubine"* outright at 1 Chronicles 1:32. **Both readings recorded,
+  neither adopted**, on the same footing as Hagar's *wife* at 16:3 against *the servant* at 21:10.
+- **The chronology of Keturah's family.** Sarah dies when Abraham is 137 and he dies at 175, and the
+  narrative order puts a marriage, six sons, seven grandsons, and three great-grandsons into the
+  thirty-eight years between — from the man who laughed at 17:17. Three proposals recorded
+  (non-chronological placement; restored vigour; the *Genesis Rabbah* 61:4 identification of Keturah
+  with Hagar, which 25:6's plural contradicts), **none adopted.**
+- ***Gathered to his people*.** Stated as a fact about the narration, not as a claim about the
+  afterlife. Three readings — dead metaphor, retained ancestral-burial language, a statement about
+  Sheol — are set out on the new connection page and **none is adopted.** What is checkable: it is
+  listed separately from dying, it precedes burial, and in Abraham's case his people are buried a
+  thousand miles away, which rules the family-tomb reading out for the first occurrence.
+- ***Śābēaʿ* at 25:8.** The Hebrew is *zāqēn wəśābēaʿ*, *old and satisfied*, without the *yāmîm* that
+  35:29 and Job 42:17 carry; the WEB's *full of years* supplies it, as do most versions and the
+  ancient translations. **Recorded as a textual detail, not as a correction to the WEB.**
+- **Ishmael's reappearance at the graveside.** Genesis gives no account of it. The traditions that
+  fill the gap are later than Genesis; the wiki records the silence.
+
+### A correction to three existing pages
+
+`people/Ishmael`, `passages/Genesis/Hagar and Ishmael`, and `themes/The Nations` each stated that
+Genesis 25:18 repeats 16:12 **word for word**. **That is an overstatement and was corrected on all
+three.** The four-word prepositional phrase *ʿal-pənê kol-ʾeḥāyw* is identical; the verb is not —
+*yiškōn* (*dwell*) at 16:12 against *nāpāl* (*fall*, here *settle* or *encamp*) at 25:18 — and the
+difference between the two verbs is exactly where the reading of the clause is decided, between a
+neutral *he settled alongside* and an adversarial *he settled in hostility*. The crux is now set out
+on the passage page, and the wiki's existing flag — that this half-verse has often been read as a
+permanent moral verdict on a people, which is more than the Hebrew supports — is kept.
+
+### Pages created
+
+- `wiki/passages/Genesis/The Death of Abraham and the Line of Ishmael.md`
+- `wiki/people/Keturah.md`
+- `wiki/places/Havilah.md`
+- `wiki/connections/Gathered to His People.md` — the formula's six uses, why it is not a synonym for
+  burial, and the fact that Ishmael is given it
+- `wiki/connections/Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment.md` —
+  the promise clause by clause, and Jacob's opposite verdict at 47:9
+- `wiki/connections/The Other Line First - The Order of the Toledot in Genesis.md` — Cain, Ham and
+  Japheth, Ishmael, Esau: the passed-over branch always goes first and always gets closed out
+- `wiki/connections/Abraham's Other Sons in Isaiah 60.md` — Midian, Ephah, Sheba, Kedar, and Nebaioth
+  are all from these eighteen verses, and Isaiah 60:6–7 brings all five back to Zion with gold and
+  incense
+
+### Pages revised
+
+`books/Genesis` (box checked, and the Abraham division's overview closed out), `books/index`
+(31 / 58), `wiki/index` (counts), and: `people/Abraham` (new pericope section, timeline, appears-in,
+related people, themes), `people/Isaac`, `people/Ishmael`, `people/Hagar`, `people/Sarah`,
+`people/God`, `people/Rebekah` (off-stage), `people/Ephron the Hittite`, `people/The Children of
+Heth`; `places/Machpelah`, `places/Mamre (place)`, `places/Hebron`, `places/Beer Lahai Roi`,
+`places/Shur`, `places/Egypt`, `places/Assyria`, `places/The Negev`, `places/Canaan`;
+`themes/Burial and the Grave`, `themes/Life and Death`, `themes/Blessing`, `themes/Covenant`,
+`themes/Call and Election`, `themes/The Nations`, `themes/Land and Sojourning`, `themes/Marriage`,
+`themes/Slavery and Servitude`, `themes/Remembrance`; `connections/Twelve Sons - Nahor, Ishmael, and
+Jacob` (a new section on the promised twelve being the exactly-delivered one),
+`connections/Buried at Machpelah - The Six Graves of Genesis`, `connections/The Two Flights of
+Hagar`, `connections/Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac` (a new
+significance bullet on the shared funeral), `passages/Genesis/Hagar and Ishmael`; and all four
+category indexes.
+
+Stale *(not yet ingested)* markers for this pericope were cleared on `people/Abraham`,
+`people/Isaac`, `people/Ishmael` (two), `people/Hagar`, `people/Sarah`, `people/Ephron the Hittite`,
+`people/The Children of Heth`, `places/Shur`, `places/Beer Lahai Roi`, `places/Machpelah`, and
+`places/Hebron` — twelve in all, several of which covered 25:9–10 together with 49:31 or 50:13 and
+so were split rather than removed, keeping the marker on the verses still ahead. The markers on `people/Rebekah` and `themes/Barrenness` for 25:21 and 25:23 were
+left in place deliberately: those verses belong to the next box.
+
+### Verification
+
+Every WEB blockquote in the new and revised pages was parsed verse by verse and checked
+programmatically against `raw/bible/Genesis.md`; all matched after normalising curly quotes and
+dashes. Inline fragments were checked the same way, and **four capitalisation errors written during
+this pass were caught and corrected before commit**: *"And was gathered to his people"* (25:8 has
+lower-case *and*) on the passage page and on `people/Abraham`; *"By their villages"* (25:16 has
+lower-case *by*); *"To the sons of Abraham's concubines"* (25:6 has lower-case *to*) on
+`people/Abraham`; and *"few and evil have been the days"* (47:9 has capital *Few*). A fifth
+correction removed quotation marks from *"Old, and satisfied"*, which is this wiki's rendering of
+*zāqēn wəśābēaʿ* and not a WEB quotation, so presenting it as one was wrong. Quotations from
+1 Chronicles, Isaiah, Numbers, Deuteronomy, Exodus, Romans, Galatians, Hebrews, and Matthew are
+unverifiable here, as elsewhere in the wiki, and are given as references rather than as checked text;
+Job 42:17 was checked against `raw/bible/Job.md`.
+
+External and non-textual claims — the *Genesis Rabbah* identification of Keturah with Hagar, the
+etymology of *qəṭûrâ* from *qəṭōret*, the North Arabian identifications of Kedar, Nebaioth, Tema,
+Dumah, Jetur, Naphish, and Massa, the locations proposed for Havilah, and the reading of the magi of
+Matthew 2 against Isaiah 60 — are stated as attributions or proposals rather than findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Three prospective links written during the
+pass were converted to plain text because their targets do not exist and are not being created here:
+Moses, Esau, and Midian. Forward references to material not yet ingested (Genesis 25:19–34; 26; 27;
+35; 36; 37; 47; 49; 50) are written as plain scripture references or carry an explicit
+*(not yet ingested)* marker.
+
+**Note on branch state.** The twelfth run in a row to start on a **detached HEAD**, this time at
+`85f7709` with a clean tree and the local `main` ref stale at `ee8f435` — which is the merge commit
+of PR #1, eighteen commits behind. `git fetch origin main` showed `origin/main` already at `85f7709`,
+so the previous run's push had landed and only the local ref was stale; `git checkout -B main HEAD`
+moved the branch onto HEAD before any work, and this ingest was committed on `main`. Twelve
+consecutive runs have now started detached. It has cost nothing so far, because every previous push
+had in fact landed, but it remains an environment quirk that wants the user's attention.
+
+**Also noticed, not acted on.** The tracked, empty `Exodus.md` at the repository root, added by
+commit `694ca13` ("Adjust naming for passge"), is still there. It belongs nowhere in the directory
+map and is one `git rm` away whenever the user wants it gone; it was left alone again so this
+ingest's commit stays just the ingest. Also still open: five unmerged `claude/*` branches on the
+remote, one of which (`claude/ingest-auto-jobs-18-20-vholye`) is the already-merged PR #1.

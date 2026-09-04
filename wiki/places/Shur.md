@@ -48,6 +48,8 @@ side of the sea.
 - [[Hagar and Ishmael]] — Genesis 16:7; the road Hagar is on when the angel finds her, and the
   chapter's evidence that she is going back to Egypt
 - [[Abraham and Abimelech]] — Genesis 20:1; the western bearing for where Abraham settles after Sodom
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:18; the western term of Ishmaelite
+  range, paired with [[Havilah]] to draw a corridor across the whole desert south
 
 ## Related places
 
@@ -57,13 +59,17 @@ side of the sea.
 - [[The Negev]] — the dry country above it; Abraham lives *"between Kadesh and Shur"* at 20:1
 - [[Beer Lahai Roi]] — the well on this road, named by Hagar and located between Kadesh and Bered
 - [[Canaan]] — the country she is leaving
+- [[Havilah]] — the eastern term of the range at 25:18, and the name Shur is paired with whenever the
+  Bible draws a line across the desert south (also 1 Samuel 15:7)
 
 ## Events here
 
 - Hagar, fleeing toward Egypt, is found at a spring on the way to Shur — Genesis 16:7
 - Abraham settles between Kadesh and Shur and sojourns in Gerar — Genesis 20:1,
   [[Abraham and Abimelech]]
-- Ishmael's descendants range from Havilah to Shur — Genesis 25:18 *(not yet ingested)*
+- Ishmael's descendants range *"from Havilah to Shur that is before Egypt"* — the western term of a
+  corridor across the whole northern Arabian desert, and the road his mother was found on — Genesis
+  25:18, [[The Death of Abraham and the Line of Ishmael]]
 - Israel enters the wilderness of Shur after crossing the sea, and finds no water for three days —
   Exodus 15:22
 - Saul strikes the Amalekites *"from Havilah as you go to Shur"* — 1 Samuel 15:7; David raids in the

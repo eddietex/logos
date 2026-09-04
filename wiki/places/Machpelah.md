@@ -77,6 +77,8 @@ recorded here as such.
 
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:1–20; asked for, refused as a gift, priced in
   a rhetorical question, weighed out in silver, itemized like a deed, and witnessed at the gate
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9–10; the buyer laid in it by two
+  estranged sons, with the field, the cave, Ephron, Mamre, and the children of Heth all named again
 
 ## Related places
 
@@ -92,7 +94,8 @@ recorded here as such.
 - Abraham buys the field, the cave, and all its trees from Ephron for four hundred shekels — Genesis
   23:16–18, [[Nahor's Line and the Burial of Sarah]]
 - Sarah is buried — Genesis 23:19
-- Abraham is buried by Isaac and Ishmael — Genesis 25:9–10 *(not yet ingested)*
+- Abraham is buried by Isaac and Ishmael, and the deed is recited in full for the third of five
+  times — Genesis 25:9–10, [[The Death of Abraham and the Line of Ishmael]]
 - Isaac, Rebekah, and Leah are buried; Jacob recites the deed and makes his sons swear — Genesis
   49:29–32 *(not yet ingested)*
 - Jacob is carried up from Egypt and buried — Genesis 50:13 *(not yet ingested)*

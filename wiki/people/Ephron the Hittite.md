@@ -69,13 +69,16 @@ Hittites.
 - Names four hundred shekels of silver, as a question — Genesis 23:15
 - Receives the silver, weighed to the merchants' standard; the field, cave, and trees are deeded to
   Abraham — Genesis 23:16–18
-- Remembered thereafter only as the field's former owner — Genesis 25:9–10; 49:29–30; 50:13
+- Named again as the field's former owner when Abraham is buried in it — Genesis 25:9–10,
+  [[The Death of Abraham and the Line of Ishmael]]; and twice more at 49:29–30 and 50:13
   *(not yet ingested)*
 
 ## Appears in
 
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:8–18; two speeches, a large number, and the
   only land transfer in the patriarchal narratives
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9–10; named in the third of five
+  recitations of the deed, as the buyer is laid in the cave
 
 ## Related people
 

@@ -52,6 +52,8 @@ encounter is the ordinary Genesis pattern (*Bethel*, 28:19; *Yahweh Will Provide
   act of naming and the less remarkable of the two
 - [[A Wife for Isaac]] — Genesis 24:62; where Isaac is coming from when the caravan arrives, in a
   subordinate clause that quietly puts the son of the promise at the slave's well
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:11; his address for good, in the last
+  verse before the genealogy of the woman who named it
 
 ## Related places
 
@@ -71,4 +73,6 @@ encounter is the ordinary Genesis pattern (*Bethel*, 28:19; *Yahweh Will Provide
 - The well is named *Beer Lahai Roi* — Genesis 16:14
 - Isaac is coming from it when the caravan bringing Rebekah arrives — Genesis 24:62,
   [[A Wife for Isaac]]
-- Isaac settles there after Abraham's death — Genesis 25:11 *(not yet ingested)*
+- Isaac settles there permanently after Abraham's death, in the verse immediately before the
+  genealogy of the woman who named it — Genesis 25:11,
+  [[The Death of Abraham and the Line of Ishmael]]

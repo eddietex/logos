@@ -37,10 +37,12 @@ English and is more complicated in Hebrew.
 - ***His hand against every man*** describes a people living by raiding and grazing on the desert
   margin — the Bedouin life his descendants are shown living at 25:18 and 37:25.
 - ***He will live opposite all of his brothers*** — *ʿal-pənê kol-ʾeḥāyw yiškōn* — is ambiguous
-  between *in defiance of* and *alongside*, and Genesis 25:18 repeats the clause word for word as a
-  plain statement of where his descendants live. The wiki flags that this verse has often been read as
-  a permanent moral verdict on a people, which is more than the Hebrew supports and more than Genesis
-  does with it.
+  between *in defiance of* and *alongside*, and Genesis 25:18 closes his story by reusing the same
+  four-word phrase, *ʿal-pənê kol-ʾeḥāyw*, as a plain statement of where his descendants live. **The
+  phrase is identical; the verb is not** — *yiškōn*, *he will dwell*, becomes *nāpāl*, *he fell*
+  (here *settled* or *encamped*) — and the ambiguity sits on the verb. The wiki flags that this verse
+  has often been read as a permanent moral verdict on a people, which is more than the Hebrew supports
+  and more than Genesis does with it.
 
 ***"Abram called the name of his son, whom Hagar bore, Ishmael"*** (16:15). The angel had told
 **Hagar** to name him (16:11) and Abram does it — which is the chapter's evidence that she came back
@@ -116,16 +118,52 @@ wilderness and on the man who disinherited him in a negotiation, inside one chap
 comment.** The three-generation clause Abraham then swears to — *"nor with my son, nor with my son's
 son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Beersheba]].
 
+### In this pericope — Genesis 25:9, 12–18
+
+**He comes back without explanation, and then the book closes him out.**
+
+***"Isaac and Ishmael, his sons, buried him"*** (25:9). Four chapters ago he was a boy under a bush
+with the water gone. He is **eighty-nine** here, standing at his father's grave beside the brother
+who displaced him. **Genesis records no reconciliation, no message, no return, and no word between
+them** — two names in one clause, and then the funeral. It is the same refusal to explain that
+produced *məṣaḥēq* at 21:9, and the wiki does not fill it in.
+
+***"Now this is the history of the generations of Ishmael, Abraham's son, whom Hagar the Egyptian,
+Sarah's servant, bore to Abraham"*** (25:12). **The *toledot* formula, spent on him.** It segments
+Genesis ten times, and its job is always to clear the other branch off the stage completely before
+following the chosen one — Cain before Seth, Ham and Japheth before Shem, **Ishmael seven verses
+before Isaac's at 25:19**, Esau's whole chapter before Jacob's. See
+[[The Other Line First - The Order of the Toledot in Genesis]].
+
+**The heading defines him by two women**, one of whom has been dead thirty-eight years: *Hagar the
+Egyptian*, *Sarah's servant* — the identical two-part description she was given at 16:1, on the far
+side of everything that happened in between.
+
+**Twelve princes, and 17:20 kept to the noun.** Nebaioth, Kedar, Adbeel, Mibsam, Mishma, Dumah,
+Massa, Hadad, Tema, Jetur, Naphish, Kedemah — *nəśîʾîm*, *"twelve princes, according to their
+nations"* (25:16), which is exactly what God said would happen thirteen years before any of them was
+born. **It is the most precisely kept promise in the Abraham cycle and it was made to the man the
+covenant was refused to.** They live *"by their villages, and by their encampments"* — unwalled
+settlements and camps, the pastoral confederation 16:12's *wild donkey among men* predicted. Several
+of the twelve are attested as North Arabian peoples elsewhere: Kedar and Nebaioth in Isaiah 60:7,
+Tema in Job 6:19, Dumah in Isaiah 21:11, Jetur and Naphish at 1 Chronicles 5:19. See
+[[Twelve Sons - Nahor, Ishmael, and Jacob]] and [[Abraham's Other Sons in Isaiah 60]].
+
+***"He gave up his spirit and died, and was gathered to his people"*** (25:17), at a hundred
+thirty-seven. **The same three verbs his father got seven verses earlier, in the same order** — and
+*gathered to his people* is a formula the Torah otherwise reserves for Abraham, Isaac, Jacob, Aaron,
+and Moses. **He is the only person outside the covenant line ever given it**, and the only one of the
+six with no burial reported at all. See [[Gathered to His People]].
+
+***"He lived opposite all his relatives"*** (25:18). The four-word phrase *ʿal-pənê kol-ʾeḥāyw* is
+identical to the last four words of the oracle at 16:12 — **but the verb is not**: 16:12 has *yiškōn*,
+*he will dwell*; 25:18 has *nāpāl*, *he fell*, used here of settling or encamping. The renderings
+divide on the verb, between a neutral *he settled alongside* and an adversarial *he settled in
+hostility*, **and Genesis leaves it open.** The wiki flags again that this half-verse has often been
+read as a permanent moral verdict on a people, which is more than the Hebrew supports.
+
 ### Where the rest of him is
 
-- **Genesis 25:9** — he and Isaac bury Abraham together at Machpelah. Genesis says nothing about the
-  reconciliation and simply puts them at the same grave.
-- **Genesis 25:12–18** — his *toledot*: twelve princes (Nebaioth, Kedar, Adbeel, Mibsam and the rest),
-  a life of a hundred thirty-seven years, and territory *"from Havilah to Shur that is before Egypt"*.
-  The twelve match Israel's twelve, and the parallel is deliberate — and it is not a pair but a
-  **trio**: Genesis 22:20–24 gives Nahor twelve sons by a wife and a concubine, sixty verses before
-  Ishmael's twelve are listed, in a household that was never called, promised, or covenanted at all.
-  See [[Twelve Sons - Nahor, Ishmael, and Jacob]] and [[Nahor's Line and the Burial of Sarah]].
 - **Later in Scripture** — Ishmaelites buy Joseph and carry him to Egypt (37:25–28); Kedar and
   Nebaioth appear as Arabian peoples in the prophets (Isaiah 60:6–7; Jeremiah 49:28–33); a different
   Ishmael son of Nethaniah murders Gedaliah (Jeremiah 40–41). Esau marries one of his daughters
@@ -156,8 +194,13 @@ son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Be
 - Promised a great nation from the sky, in the words of 12:2 — Genesis 21:18
 - *"God was with the boy"* — the formula's first occurrence in Genesis; grows up an archer in the
   wilderness of [[Paran]] and marries an Egyptian — Genesis 21:20–21
-- Buries Abraham with Isaac at Machpelah — Genesis 25:9 *(not yet ingested)*
-- Dies at a hundred thirty-seven, father of twelve princes — Genesis 25:17 *(not yet ingested)*
+- Buries Abraham with Isaac at Machpelah, at eighty-nine, after four chapters off the page — Genesis
+  25:9, [[The Death of Abraham and the Line of Ishmael]]
+- Given the *toledot* formula, and the twelve princes of 17:20 listed by name — Genesis 25:12–16
+- Dies at a hundred thirty-seven and is *"gathered to his people"*, in the same three verbs as his
+  father — Genesis 25:17, [[Gathered to His People]]
+- His descendants' range given as *"from Havilah to Shur"*, closing with the phrase the oracle at
+  16:12 ended on — Genesis 25:18
 
 ## Appears in
 
@@ -171,6 +214,10 @@ son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Be
   great nation from the sky, and the first person in Genesis of whom it is said that God was with him
 - [[The Binding of Isaac]] — Genesis 22:2; off-stage, and named by his absence: *"your son, your only
   son"* is a sentence that becomes true only once he has been sent away
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9, 12–18; back without explanation to
+  bury his father beside the brother who displaced him, given the *toledot* formula the book spends on
+  major figures, his twelve princes delivered exactly as promised at 17:20, and then the same death
+  formula as Abraham — the only person outside the covenant line ever given it
 
 ## Related people
 
@@ -188,6 +235,8 @@ son"* (21:23) — reaches to Isaac's line and not to his. See [[The Treaty at Be
 - [[Circumcision]]
 - [[The Nations]]
 - [[Blessing]]
+- [[Burial and the Grave]]
+- [[Life and Death]]
 - [[Slavery and Servitude]]
 - [[Prophecy and Vision]]
 - [[Call and Election]]

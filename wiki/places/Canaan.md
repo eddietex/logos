@@ -109,6 +109,9 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   at a death and at a burial, as though to fix inside it the one transaction that ever gives a
   patriarch title to a piece of it. He introduces himself to its inhabitants as *"a stranger and a
   foreigner"* and leaves owning a field
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18; the cycle about this land ends
+  with the man who was promised it buried in the one field he bought, his other seven sons sent
+  *"eastward, to the east country"* out of it, and his heir living at a desert well
 
 ## Related places
 

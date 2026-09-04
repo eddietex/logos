@@ -142,6 +142,15 @@ the others.
 - Isaiah 49:6 — *"a light to the nations, that you may be my salvation to the end of the earth"*
 - Romans 9–11 — the argument from Genesis, and its unresolved end
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:5–6, 12–18, where the split is
+  finally arithmetic. **Eight sons, one heir**: seven are given *gifts* — the verb is *give*, not
+  *drive out* — and pointed *"eastward, to the east country"*, and the eighth gets *"all that he
+  had"*. Then Ishmael's *toledot* runs seven verses before Isaac's, exactly as Cain's ran before
+  Seth's and Esau's will run before Jacob's, and it hands him twelve princes, a territory, an
+  exactly kept promise, and his father's own death formula. **Genesis gives the passed-over line
+  everything except the covenant, and gives no reason.** See
+  [[The Other Line First - The Order of the Toledot in Genesis]]
+
 ## Related themes
 
 - [[Blessing]] — what the call is made of: five uses of *brk* in two verses

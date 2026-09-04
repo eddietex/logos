@@ -8,7 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - **Genesis 23:1–20** — Abraham buys the field of Ephron for four hundred shekels and buries Sarah
-- **Genesis 25:7–10** — Abraham is buried there by Isaac and Ishmael
+- **Genesis 25:7–10** — Abraham is buried there by Isaac and Ishmael. See
+  [[The Death of Abraham and the Line of Ishmael]]
 - **Genesis 35:27–29** — Isaac dies at Mamre, Kiriath Arba, and is buried by Esau and Jacob
 - **Genesis 49:29–32** — Jacob's burial instructions, which recite the deed and name the occupants
 - **Genesis 50:12–14** — Jacob carried up from Egypt and buried in the field

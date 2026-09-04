@@ -186,6 +186,13 @@ where that starts, in a sentence about a family that got halfway.
   again"* is repeated and never qualified. **The marriage is negotiable and the land is not** — and
   the country Isaac may not enter is the country his wife must be fetched from
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:6, 9–11, 18: the cycle's answer on
+  land, delivered as four facts and no comment. Abraham dies owning one field and is buried in it;
+  seven of his sons are sent *"eastward, to the east country"*, the direction Genesis uses for
+  removal (3:24; 4:16; 13:11; 36:6); his heir settles at a desert well named by a runaway slave; and
+  the son who was put out of the household ranges over four hundred miles of country the covenant
+  never claimed
+
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

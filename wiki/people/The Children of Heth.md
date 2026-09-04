@@ -80,6 +80,9 @@ observation about the negotiation's form, not as an identification of these peop
   [[Nahor's Line and the Burial of Sarah]]
 - Witness the sale of Machpelah at the gate, and are named as the conveying party — Genesis 23:10,
   16–20
+- Named as the conveying party again when Abraham himself is buried in the field — *"which Abraham
+  purchased of the children of Heth"* — Genesis 25:10,
+  [[The Death of Abraham and the Line of Ishmael]]
 - Sell to Abraham the field Jacob's sons are later told to bury him in — Genesis 49:29–32
   *(not yet ingested)*
 - Esau marries two Hittite women, to Isaac and Rebekah's grief — Genesis 26:34–35; 27:46
@@ -90,6 +93,8 @@ observation about the negotiation's form, not as an identification of these peop
 - [[The Table of Nations]] — Genesis 10:15; Heth as Canaan's second son
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:3–20; the assembly at the gate, the compliment,
   the refusal wrapped in an offer, and the witnessing that makes the deed hold
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:10; named once more as the vendors,
+  in the clause that records where the buyer was buried
 
 ## Related people
 

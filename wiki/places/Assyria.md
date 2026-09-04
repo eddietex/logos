@@ -45,12 +45,16 @@ the Bible: *"Blessed be Egypt my people, Assyria the work of my hands, and Israe
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:11 as a land, 10:22 as a son of Shem
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:18; a bearing rather than a place —
+  Ishmaelite territory runs from Havilah to Shur *"as you go toward Assyria"*
 
 ## Related places
 
 - [[Nineveh]] — its great city, founded in the same verse
 - [[Shinar]] — the land 10:11 leads out of
 - [[Babel]] — the other capital, and the other empire
+- [[Havilah]] and [[Shur]] — the two terms of the range at 25:18 that this country supplies the
+  bearing for
 - [[Egypt]] — the power at the other end of the Fertile Crescent, between which Israel spends its
   political life
 

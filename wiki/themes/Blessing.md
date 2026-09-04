@@ -209,6 +209,12 @@ costly.
   the Moriah oath over Rebekah — *"let your offspring possess the gate of those who hate them"* —
   without ever having heard it. See [[Possess the Gate of Those Who Hate Them]]
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:11, the succession in four words:
+  *"After the death of Abraham, God blessed Isaac, his son."* **It is the first act of God directed
+  at Isaac personally**, he is seventy-five, and it is a blessing and not a covenant word — God does
+  not speak to him until 26:2. And 25:12–16 delivers the other half of 17:20's blessing exactly:
+  twelve princes, by name, to the son the covenant was refused to
+
 ## Related themes
 
 - [[Creation]]

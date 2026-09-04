@@ -422,7 +422,10 @@ legible from Genesis 11, where she is a name, a marriage, and an absence.
 - Mourned and wept for by Abraham, who comes from Beersheba to do it — Genesis 23:2
 - Buried in the cave of Machpelah, in the field Abraham buys from Ephron for four hundred shekels —
   Genesis 23:19, [[Machpelah]]
-- Named afterwards only as an occupant of the tomb — Genesis 25:10; 49:31 *(not yet ingested)*
+- Named as the occupant of the tomb her husband is laid in beside her — Genesis 25:10,
+  [[The Death of Abraham and the Line of Ishmael]]; and again at 49:31 *(not yet ingested)*
+- Named as her servant's owner in the heading of that servant's son's genealogy, thirty-eight years
+  after her death — Genesis 25:12
 
 ### After she dies — Genesis 24
 
@@ -469,6 +472,9 @@ stopped. See [[A Wife for Isaac]] and [[Rebekah]].
   of a field
 - [[A Wife for Isaac]] — Genesis 24:36, 67; dead, and named twice: as the mother who bore the heir
   *"when she was old"*, and as the owner of the tent her successor is brought into
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:10, 12; the last clause of Abraham's
+  burial puts him in the ground *"with Sarah, his wife"*, and two verses later she is named once more
+  as the owner of a slave who has been free for thirty-eight years
 
 ## Related people
 

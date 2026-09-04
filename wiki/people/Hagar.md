@@ -141,7 +141,13 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
 - Has her eyes opened to a well that was already there — Genesis 21:19
 - Settles with Ishmael in the wilderness of [[Paran]] and takes him a wife out of Egypt, the only
   mother in the Bible to do a father's job — Genesis 21:20–21
-- Named in the heading of Ishmael's genealogy — Genesis 25:12 *(not yet ingested)*
+- Named in the heading of Ishmael's genealogy, in the same two-part description she was introduced
+  with — *"Hagar the Egyptian, Sarah's servant"* — thirty-eight years after her owner's death —
+  Genesis 25:12, [[The Death of Abraham and the Line of Ishmael]]
+- Counted, with Keturah, among *"Abraham's concubines"* whose sons are given gifts and sent east —
+  Genesis 25:6
+- The well she named becomes Isaac's permanent address, one verse before her son's genealogy —
+  Genesis 25:11, [[Beer Lahai Roi]]
 
 ## Appears in
 
@@ -155,6 +161,10 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
 - [[The Binding of Isaac]] — Genesis 22:1–19; off-stage, and the other parent in Genesis answered by
   a voice out of the sky over a dying son, eighteen verses earlier and by the same mechanism — eyes
   lifted to something that was already there
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:6, 11–12; absent, and present three
+  ways: counted among the *concubines* whose sons are paid off, named in the heading of her son's
+  genealogy exactly as she was introduced at 16:1, and the woman whose well the son of the promise
+  makes his home in the verse immediately before it
 
 ## Related people
 
@@ -168,6 +178,9 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
   her back, and is named by her for seeing
 - [[Pharaoh (of Abram's time)]] — whose payment for Sarai is the most likely way an Egyptian slave
   came into the household
+- [[Keturah]] — the other woman covered by *"Abraham's concubines"* at 25:6, whose sons are removed
+  from Isaac by the same verb and with far more provision; an old rabbinic tradition identifies the
+  two women, which 25:6's plural rules out
 - [[Reumah]] — the same position in the branch of the family that stayed in Mesopotamia: a concubine
   who bears four sons in one verse, with no barrenness before it, no rivalry after it, and no comment
   from the narrator. **The Bible's first *pîlegeš* is hers and not Hagar's**, and the contrast

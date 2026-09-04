@@ -165,6 +165,13 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   it establishes the endogamy rule the rest of the patriarchal marriages are measured by. See
   [[Not from the Daughters of the Canaanites]] and [[The Betrothal at the Well]]
 
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1, 6: [[Keturah]] is *ʾiššâ*,
+  **wife**, in one verse and one of *"Abraham's concubines"* five verses later, with 1 Chronicles
+  1:32 resolving it the second way. **Genesis states both and reconciles neither**, exactly as with
+  Hagar at 16:3 and 21:10 — and settles the practical question, which son inherits, by a different
+  sentence altogether. The pericope also closes the book's longest marriage: *"Abraham was buried
+  there with Sarah, his wife"*
+
 ## Related themes
 
 - [[Creation]]

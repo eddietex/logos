@@ -204,10 +204,44 @@ reports the grief by reporting that it stopped.
 The tent is hers. Three years after her death on the book's own arithmetic, it is still standing and
 still called *"his mother Sarah's tent."* See [[A Wife for Isaac]] and [[Sarah]].
 
+### In this pericope — Genesis 25:5–11
+
+**He is seventy-five, he inherits everything, and God does something to him for the first time.**
+
+***"Abraham gave all that he had to Isaac"*** (25:5). Seven half-brothers get gifts and a direction;
+he gets the estate. **It is the fourth consecutive pericope in which the most consequential thing in
+his life is transacted over his head** — and, as at 21:10 and 24:36, somebody else's sentence settles
+it.
+
+***"Isaac and Ishmael, his sons, buried him"*** (25:9). **He and the brother he displaced stand at
+one grave, and Genesis records no word between them.** Ishmael has not been on the page since 21:21.
+The book puts the two names in one clause — **the younger first**, which is the reverse of how it
+lists Esau and Jacob at Isaac's own funeral (35:29) — and moves on. See
+[[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]].
+
+> **11** After the death of Abraham, God blessed Isaac, his son. Isaac lived by Beer Lahai Roi.
+
+**This is the first recorded act of God toward him, and he is seventy-five years old.** Everything
+before it was done *about* him: named before conception, circumcised before consent, bound without a
+word, married by errand. **The first thing God does to him directly happens after his father is in
+the ground**, and it is four words with no speech attached.
+
+**And it is a blessing, not a covenant word.** God does not speak to him until 26:2 and does not
+restate the promise until 26:3–5, where the stated ground is *"because Abraham obeyed my voice"*.
+Genesis has kept *blessed* and *covenanted* apart since 17:20; here the heir gets the first and waits
+a chapter for the second. See [[Blessing]] and [[Covenant]].
+
+***"Isaac lived by Beer Lahai Roi."*** 24:62 had him coming from [[Hagar]]'s well; this makes it his
+address. **The son of the promise settles for good at the water hole named by the Egyptian slave who
+was sent away** — and the next verse begins her son's genealogy. Genesis puts them adjacent and says
+nothing. See [[Beer Lahai Roi]] and [[The Death of Abraham and the Line of Ishmael]].
+
+**Two numbers nobody states.** He is seventy-five when his father dies — the age Abraham was when he
+left Haran (12:4). And he has been married to [[Rebekah]] for thirty-five years at this point (25:20
+with 21:5 and 25:7) **with no children**, which is the problem the next pericope opens on.
+
 ### Where the rest of him is
 
-- **Genesis 25:11** — blessed by God after Abraham's death, and settling again at Beer Lahai Roi;
-  25:9 has him bury his father with Ishmael.
 - **Genesis 26** — the only chapter that is his own: the wife-sister ruse repeated at Gerar, the wells
   re-dug and renamed, and the covenant promise restated to him directly (26:2–5, 24). See
   [[The Wife-Sister Episodes]].
@@ -246,7 +280,11 @@ still called *"his mother Sarah's tent."* See [[A Wife for Isaac]] and [[Sarah]]
   cannot name — Genesis 24:62–63
 - Marries Rebekah in his mother's tent, loves her, and is comforted after Sarah's death — Genesis
   24:67
-- Buries Abraham with Ishmael, and settles at Beer Lahai Roi — Genesis 25:9–11 *(not yet ingested)*
+- Given *"all that he had"* at seventy-five, while his seven half-brothers are given gifts and sent
+  east — Genesis 25:5–6, [[The Death of Abraham and the Line of Ishmael]]
+- Buries Abraham with Ishmael at Machpelah, the two brothers named in one clause — Genesis 25:9
+- Blessed by God — the first act of God directed at him personally — and settles at
+  [[Beer Lahai Roi]] — Genesis 25:11
 - Repeats his father's ruse at Gerar, and is given the promise in his own right — Genesis 26
   *(not yet ingested)*
 - Deceived into blessing Jacob — Genesis 27 *(not yet ingested)*
@@ -272,6 +310,10 @@ still called *"his mother Sarah's tent."* See [[A Wife for Isaac]] and [[Sarah]]
 - [[A Wife for Isaac]] — Genesis 24:1–67; absent for sixty-one verses of the chapter about his
   marriage, forbidden by oath to leave the land, found living at the well Hagar named, and given the
   Bible's first statement that a husband loved his wife
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:5–11; given the whole estate at
+  seventy-five, standing at his father's grave beside the brother he displaced with no word recorded
+  between them, and then blessed by God in four words — the first thing God is ever reported doing to
+  him directly, and it happens after his father is buried
 
 ## Related people
 
@@ -285,6 +327,7 @@ still called *"his mother Sarah's tent."* See [[A Wife for Isaac]] and [[Sarah]]
 - [[Bethuel]] — her father, and his father's nephew
 - [[Abraham's Servant]] — the unnamed steward who chooses his wife, and to whom he becomes *my
   master* in the chapter's last exchange
+- [[Keturah]] — his father's second wife, and the mother of the six half-brothers paid off at 25:6
 
 ## Themes associated
 

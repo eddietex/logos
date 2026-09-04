@@ -608,13 +608,76 @@ formula for the whole nation's march (23:20; 32:34; 33:2). See [[The Angel of Ya
 **He is not told the outcome on the page.** The servant returns and reports to Isaac (24:66). Abraham
 does not meet Rebekah, is not at the marriage, and is not mentioned again until his own death notice.
 
+### In this pericope — Genesis 25:1–10
+
+**His death, and he does not say a word in it.**
+
+He is the subject of four verbs in ten verses — *took*, *gave*, *gave*, *sent* — and then of three
+more that are done to him. **The man whose cycle contains the Bible's first argument with God, its
+first prayer, and its first oath between men leaves it without speaking.**
+
+***"Abraham took another wife, and her name was Keturah"*** (25:1). Six more sons, and sixteen
+descendants in four verses. **He has eight sons in Genesis** — Ishmael, Isaac, and Keturah's six —
+and the chronology is a problem the text does not acknowledge: Sarah dies when he is a hundred
+thirty-seven and he dies at a hundred seventy-five, which leaves thirty-eight years for a marriage,
+six sons, seven grandsons, and three great-grandsons, from the man who laughed at the idea that a
+hundred-year-old could father a child (17:17). See [[Keturah]].
+
+***"Abraham gave all that he had to Isaac"*** (25:5). **The servant announced this a chapter early**,
+to Rebekah's family, before the reader had been shown it (*"He has given all that he has to him"*,
+24:36) — the one piece of information in that speech nobody had asked for. Here it is made true in
+the same words.
+
+**And the other seven are paid off and pointed east.** *"to the sons of Abraham's concubines, Abraham
+gave gifts. He sent them away from Isaac his son, while he yet lived, eastward, to the east
+country"* (25:6). The verb is *give*, not *drive out* — a deliberate contrast with 21:14, where the
+same removal was bread, a skin of water, and a grief the narrator called *very evil in his eyes*.
+**East is the direction of removal in this book**: the cherubim east of the garden (3:24), Cain in
+Nod (4:16), Lot toward the Jordan (13:11), Esau to Seir (36:6). See [[Call and Election]] and
+[[Land and Sojourning]].
+
+> **8** Abraham gave up his spirit, and died in a good old age, an old man, and full of years, and
+> was gathered to his people.
+
+***"In a good old age"* is a quotation.** *Śêbâ ṭôbâ* occurs twice in Genesis: at 15:15, where God
+promised it to him in the dark in the middle of a prophecy about four hundred years of slavery, and
+here. **It is the only promise made to him that he lives to see kept** — the land is still a cave he
+paid for, the nation is one son of seventy-five with a barren wife, and *"all the families of the
+earth"* has not begun. See
+[[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]] and Hebrews 11:13.
+
+***"and was gathered to his people."*** **The first occurrence in the Bible**, and the verse
+distinguishes it from both dying and burial by listing it between them. **And it fits him worst of
+anyone it is used of**: his people are in Ur and in Haran, and the cave he is laid in holds his wife
+and nobody else. **The man who was called out of his kindred is the first man in Scripture said to be
+gathered to it.** See [[Gathered to His People]].
+
+***Old and satisfied.*** The Hebrew is *zāqēn wəśābēaʿ*, with no object; the WEB's *full of years*
+supplies a noun that 35:29 and Job 42:17 carry and this verse does not. **Abraham is the only person
+in Scripture described simply as satisfied** — set against Jacob before Pharaoh, *"Few and evil have
+been the days of the years of my life"* (47:9).
+
+**Two sons bury him, and Genesis explains nothing.** *"Isaac and Ishmael, his sons, buried him in the
+cave of Machpelah"* (25:9). Ishmael has not been seen since 21:21, when he was a boy under a bush in
+a desert; he is eighty-nine here. **There is no reconciliation scene, no message, and no word between
+the brothers** — just two names in one clause, and the deed to the field recited for the third of
+five times. See [[Machpelah]] and
+[[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]].
+
+**The arithmetic nobody states.** Isaac is seventy-five when his father dies — the age Abraham was
+when he left Haran (12:4). **Jacob and Esau are fifteen**, on 25:26's own numbers: he lived to see
+his grandsons, and the narrative order hides it completely by burying him at 25:10 before going back
+to open their story at 25:19.
+
 ### Where the rest of him is
 
-Much of what the Bible says about Abraham is still ahead of this page: the wife fetched for Isaac,
-and his own death (24–25). The New Testament
-makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
-out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
-it (Galatians 3:8). This page grows as those arrive.
+His story in Genesis is complete as of [[The Death of Abraham and the Line of Ishmael]]. What remains
+is what the rest of the Bible does with him: the standing formula *"the God of Abraham, Isaac, and
+Jacob"* (Exodus 3:6; Matthew 22:32); the pattern case for faith reckoned as righteousness (Romans 4;
+Galatians 3); the man who went out *"not knowing where he went"* (Hebrews 11:8) and died *"not having
+received the promises"* (11:13); the father of a promise that always had the nations in it (Galatians
+3:8); and *"the friend of God"* (2 Chronicles 20:7; Isaiah 41:8; James 2:23). This page grows as those
+arrive.
 
 ## Timeline / key events
 
@@ -730,7 +793,13 @@ it (Galatians 3:8). This page grows as those arrive.
 - Makes his steward swear, hand under thigh, to fetch a wife for Isaac from his own kindred and never
   to take Isaac back there — Genesis 24:1–9, [[A Wife for Isaac]]. **His last scene and his last
   recorded words**
-- Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
+- Takes Keturah, and fathers six more sons; sixteen descendants listed — Genesis 25:1–4,
+  [[The Death of Abraham and the Line of Ishmael]]
+- Gives everything to Isaac, and sends the sons of his concubines east with gifts, while still alive
+  — Genesis 25:5–6
+- Dies at a hundred seventy-five *"in a good old age"*, the words promised him at 15:15, and is the
+  first person in the Bible *"gathered to his people"* — Genesis 25:7–8
+- Buried at Machpelah with Sarah, by Isaac and Ishmael together — Genesis 25:9–10, [[Machpelah]]
 
 ## Appears in
 
@@ -776,6 +845,11 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20; news from the brother he left
   behind, a wife dead in a town he was not in, three bows, two refused gifts, four hundred shekels
   paid without a counter-offer, and the only piece of the promised land he ever holds by title
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–10; six more sons by a wife
+  introduced in nine words, an estate settled on one heir and seven half-brothers paid off and
+  pointed east, and then a death notice that quotes a promise made to him sixty years earlier, the
+  Bible's first *gathered to his people*, and two estranged sons at one grave — and he does not speak
+  in any of it
 
 ## Related people
 
@@ -808,6 +882,8 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Chedorlaomer]] — the overlord he defeats with three hundred eighteen men
 - [[Eliezer of Damascus]] — his steward and, until Genesis 15:4, his heir
 - [[Hagar]] — his second wife, whose name he never says and to whom he never speaks
+- [[Keturah]] — the wife of 25:1, called one of his *concubines* five verses later; six of his eight
+  sons are hers, and Genesis gives her nine words
 - [[Ishmael]] — his firstborn, his only son for fourteen years, and the one he pleads for at 17:18
 - [[Isaac]] — the son named to him a year before conception, and the one the covenant is established
   with
@@ -842,3 +918,5 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Testing]]
 - [[The Fear of God]]
 - [[Prayer]]
+- [[Burial and the Grave]]
+- [[Life and Death]]
