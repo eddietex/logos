@@ -209,6 +209,11 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   an *ʾăḥuzzâ*, a **possession**, for a burial place (23:4, 9, 20). He is buying the smallest
   possible instance of the promised thing, under the promise's own word, from its current owners.
   See [[Machpelah]] and [[Land and Sojourning]]
+- [[A Wife for Isaac]] — Genesis 24:7, where Abraham recites the covenant's own history back as the
+  ground of a practical decision (*"who took me from my father's house … who spoke to me, and who
+  swore to me"*), and 24:60, where the oath of 22:17 is spoken over Rebekah by people who have never
+  heard of it. The chapter contains no divine speech and no mention of the covenant by name, and it
+  is the pericope in which the covenant acquires its next generation
 
 ## Related themes
 

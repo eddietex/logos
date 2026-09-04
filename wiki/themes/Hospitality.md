@@ -77,9 +77,9 @@ theme, and its last appearance inverts who performs it.
   to be one act. **The verse that damns the town is the same verse that answers Abraham**: the
   crowd count at 19:4 is how the reader learns there were not ten. See
   [[The Destruction of Sodom and Gomorrah]].
-- **Genesis 24:15–33** *(not yet ingested)* — Rebekah waters ten camels unasked, which is roughly
-  two hundred litres drawn by hand, and it is the sign the servant prayed for. Hospitality as a
-  test of character, and the woman is the one who passes it.
+- **Genesis 24:15–33** — Rebekah waters ten camels unasked, which is a great deal of water drawn by
+  hand, and it is the sign the servant prayed for. Hospitality as a test of character, and the woman
+  is the one who passes it. See [[A Wife for Isaac]].
 - **Genesis 43:16–34** *(not yet ingested)* — Joseph feeds his brothers, washes their feet, and
   seats them by age, while they do not know who is hosting them: Genesis 18's not-knowing turned
   around.
@@ -151,6 +151,11 @@ theme, and its last appearance inverts who performs it.
   The theme's usual grammar is reversed — the resident alien declines the kindness of the settled —
   because what he needs is not a favour but a title, and a favour can be revoked. See
   [[Land and Sojourning]]
+- [[A Wife for Isaac]] — Genesis 24:31–33; Laban's welcome is the pattern executed faultlessly —
+  unloading, straw and feed, water for feet, a meal — and Genesis has just told you what set it in
+  motion: *"when he saw the ring, and the bracelets on his sister's hands"*. **The guest then breaks
+  the pattern from the other side**: *"I will not eat until I have told my message"*, reversing the
+  order every hospitality scene in the book has kept, in which the meal comes first
 
 ## Related themes
 

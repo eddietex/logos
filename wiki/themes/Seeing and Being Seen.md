@@ -102,6 +102,11 @@ will finally go both ways.
   **Providing is what seeing means when God is the subject**, and English *provide* keeps the same
   metaphor (*pro-videre*). Nothing is created in the rescue: the ram was in the thicket, exactly as
   the well was in the desert. See [[Yahweh Will Provide - Moriah and the Temple Mount]]
+- [[A Wife for Isaac]] — Genesis 24:21, 30, 63–65: the servant *looked steadfastly* at Rebekah,
+  *remaining silent*, through the whole watering; Laban is introduced by *when he saw the ring*; Isaac
+  and Rebekah *lift up their eyes* in consecutive verses, the only mutual instance of the formula in
+  Genesis; and the chapter that worked hardest to make a woman visible ends with her behind a veil
+
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

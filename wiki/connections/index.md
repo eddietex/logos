@@ -99,3 +99,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
 | [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 |
 | [[Buried at Machpelah - The Six Graves of Genesis]] | parallel | Genesis 23:1–20 · Genesis 25:7–10 · Genesis 49:29–32 · Genesis 50:12–14 · Acts 7:16 |
+| [[Possess the Gate of Those Who Hate Them]] | parallel | Genesis 22:17 · Genesis 24:60 · Ruth 4:11–12 |
+| [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |
+| [[The Betrothal at the Well]] | type-scene | Genesis 24:10–61 · Genesis 29:1–20 · Exodus 2:15–21 · John 4:1–42 · Ruth 2:8–9 |
+| [[Not from the Daughters of the Canaanites]] | thread | Genesis 24:3–4 · Genesis 27:46–28:2 · Deuteronomy 7:1–4 · 1 Kings 11:1–8 · Ezra 9–10 · Ruth 1:16–17 · 2 Corinthians 6:14 |

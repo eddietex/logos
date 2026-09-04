@@ -3814,3 +3814,168 @@ attention.
 commit `694ca13` ("Adjust naming for passge"). It is almost certainly the residue of a stray shell
 redirect and belongs nowhere in the directory map. It was left in place so that this ingest's commit
 stays just the ingest; it is one `git rm` away whenever the user wants it gone.
+
+## [2026-09-04] ingest | Genesis 24.1-67 — A Wife for Isaac
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+`A Wife for Isaac — Genesis 24:1–67` was the first unchecked box on its page. `raw/bible/Genesis.md`
+was already present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the
+passage page.
+
+### What the pericope is
+
+**The longest chapter in Genesis — sixty-seven verses — and God does not speak in it once.** Yahweh
+is named nineteen times: sworn by, prayed to, thanked, credited, blessed, and conceded to. The
+narrator reports no divine speech, no appearance, no angel, and no act, and the only thing that could
+be called an intervention is a piece of timing (*"before he had finished speaking"*, 24:15). Every
+theological claim in the chapter is made by a character. **This is the register the Joseph cycle is
+written in, and this is where the book learns it** — which is the passage page's central claim and is
+stated there as an observation about the narration rather than about whether God acted.
+
+Four movements: the oath (1–9), the well (10–27), the house (28–61), the field at evening (62–67).
+Roughly two-thirds is dialogue, and one block of it — 24:34–49 — retells the first half of the
+chapter to the people who have to be convinced.
+
+- **1–9.** Abraham, *"old, and well stricken in age"* and blessed *bakkōl*, **in all things**, makes
+  his steward swear with a hand under his thigh. **This is Abraham's last scene and his last recorded
+  words in the Bible**; 25:1–11 gives him a second family and a funeral and no more speech. Two
+  prohibitions, and only one has a release: no Canaanite wife (discharged if she refuses, 24:8), and
+  *"you don't bring my son there again"* — said twice, never qualified. **The marriage is negotiable
+  and the land is not.** 24:7 is the fullest statement of the promise Abraham ever makes in his own
+  mouth, and it ends in the first *"He will send his angel before you"* in Scripture, said by a man,
+  never confirmed, and made a formula for the nation at Exodus 23:20.
+- **10–27.** *"Yahweh, the God of my master Abraham, please give me success today"* — **the first
+  unbidden human petition in Scripture**, prayed by a slave, entirely on somebody else's behalf, and
+  answered before it is finished. *Ḥesed* four times (24:12, 14, 27, 49), twice paired with *ʾemet*,
+  the pair God uses of himself at Exodus 34:6. Rebekah is characterised almost entirely by verbs —
+  fourteen of them in six verses — passes a sign she cannot know is being applied, and exceeds it by
+  watering ten camels unasked. The servant watches the whole thing without a word (*mištāʾēh*, 24:21).
+- **28–49.** Laban is introduced by a causal clause whose cause is jewellery (*"when he saw the
+  ring"*), and then gives a faultless welcome. The retelling has **six edits**, tabulated on the
+  passage page: the mandate narrowed onto Bethuel's house; the release clause moved from the bride's
+  willingness to the family's consent; the prayer moved inside his heart; gift and question reversed;
+  the estate volunteered; and **the exile clause dropped entirely**. None is false; all are advocacy;
+  Genesis comments on none of it.
+- **50–61.** *"Then Laban and Bethuel answered"* — the son first, and no father at all in 24:53 or
+  24:55. *"We can't speak to you bad or good"* is the idiom God will use on Laban at 31:24. Then the
+  only question Genesis ever puts to a bride, and a one-word answer: *ʾēlēk*, **I will go**. And a
+  send-off blessing that is Genesis 22:17 with a feminine pronoun and a synonym for *enemies*, spoken
+  by people who have never heard the oath.
+- **62–67.** Isaac comes in from Beer Lahai Roi, goes out *lāśûaḥ* — a form unique in the Hebrew
+  Bible — and both parties *lift up their eyes* in consecutive verses, the only mutual instance of
+  the formula in Genesis. He brings her into his dead mother's tent, and **the first statement in the
+  Bible that a husband loved his wife** closes the chapter, three clauses before it says he stopped
+  grieving.
+
+### Pages created (9)
+
+- `passages/Genesis/A Wife for Isaac` — the passage page
+- `people/Abraham's Servant` — the unnamed steward
+- `people/Laban`
+- `places/Aram Naharaim` — *Mesopotamia*, *Paddan Aram*, and *the city of Nahor*, on one page
+- `themes/Prayer`
+- `connections/The Betrothal at the Well` — the type-scene: Genesis 24, Genesis 29, Exodus 2, John 4
+- `connections/Not from the Daughters of the Canaanites` — endogamy from 24:3 to 2 Corinthians 6:14
+- `connections/Put Your Hand Under My Thigh` — the gesture at 24:2, 9 and 47:29
+- `connections/Possess the Gate of Those Who Hate Them` — Genesis 22:17 and 24:60 side by side
+
+### Pages revised (26)
+
+`books/Genesis` (box checked, structure paragraph added), `books/index` (30 / 58), `index` (counts),
+and the four category indexes. People: `Abraham`, `Isaac`, `Rebekah`, `Sarah`, `Bethuel`, `Milcah`,
+`Nahor (brother of Abram)`, `Eliezer of Damascus`, `God`, `The Angel of Yahweh`. Places:
+`Beer Lahai Roi`, `Haran (city)`, `Canaan`, `The Negev`. Themes: `Marriage`, `Oaths and Vows`,
+`Blessing`, `Hospitality`, `Covenant`, `Land and Sojourning`, `The Nations`, `Favor and Grace`,
+`Slavery and Servitude`, `Faith`, `Seeing and Being Seen`.
+
+### Judgment calls made unattended
+
+- **The chapter was kept whole rather than split.** It is long enough to divide cleanly at 9, 27, and
+  61, and the reason for not doing so is that the retelling at 24:34–49 only works as an effect if the
+  first telling is on the same page. **No unchecked boxes were redrawn**; the next box,
+  `The Death of Abraham and the Line of Ishmael — Genesis 25:1–18`, stands as drawn.
+- **The servant got his own page, as `people/Abraham's Servant`**, under the `AGENTS.md` rule for an
+  unnamed figure known by a title — the same treatment as `Lot's Wife` and `Job's Children`, and not
+  the `(of X's time)` form, since the title already names the patriarch. **He was not merged into
+  `people/Eliezer of Damascus`.** The identification is old and reasonable and the narrator withholds
+  the name for sixty-seven verses, which reads as a choice; both pages now cross-reference each other
+  and record the tradition without adopting it. If a later pass concludes they are the same man, the
+  fix is a redirect note on both pages rather than a merge.
+- **`Aram Naharaim` covers *Paddan Aram* too**, with the second name in `also_known_as`, because they
+  are one region under two designations. **A separate `Paddan Aram.md` should not be created when the
+  Jacob cycle arrives**; the note is on the passage page and on the place page.
+- **`themes/Prayer` was created as a new theme page**, not folded into `Mediation and Advocacy` or
+  `Faith`. The distinction the page tracks — being spoken to versus speaking first — is what makes
+  24:12 a first, and neither existing page carries it. No schema change was needed: it is an existing
+  page type.
+- **Rebekah's nurse was deliberately not given a page.** She is unnamed here and named only at her
+  burial (35:8), so the page belongs to that pericope. **If one is made it must be
+  `Deborah (Rebekah's nurse)`** — a bare `Deborah.md` would silently collide with the judge of
+  Judges 4–5, which is exactly the failure the qualifier rules exist to prevent. The warning is
+  written into the passage page's notes.
+- **No page was made for the veil, the camels, or the nose-ring**, and the eleven other sons of Nahor
+  remain page-less on the precedent set at `Nahor's Line and the Burial of Sarah`.
+
+### Contradictions and cruxes flagged, not resolved
+
+- **Who runs Bethuel's house.** 24:50 names Laban before his father; 24:53 and 24:55 have *"her
+  brother and her mother"* with no father at all. Either Bethuel is present and marginal, or the name
+  in 24:50 is intrusive. Both readings recorded on `people/Bethuel`, `people/Laban`, and the passage
+  page; neither adopted.
+- **The camels.** Domesticated camels in the southern Levant are archaeologically dated to roughly
+  the tenth century BC, and Genesis 24 is the standard example in that argument; the counter-cases
+  (negative and regional evidence, earlier attestation further east, small caravans leaving no trace)
+  are also recorded. **Observation recorded, neither conclusion adopted** — same footing as the
+  Hittite-law proposal in the previous pericope.
+- ***Lāśûaḥ* (24:63)** is unique in this form in the Hebrew Bible; meditate, muse, lament, stroll, and
+  a euphemism are all live, and the Septuagint is itself ambiguous. **The crux is named and not
+  chosen.**
+- **Whether the sign was proper** — faith or presumption — is graded by Genesis not at all, and the
+  wiki follows. What is recorded is that the test selects for character rather than chance, and that
+  the servant refused to conclude anything until the watering finished.
+- ***Yāmîm ʾô ʿāśôr*** (24:55) has been read as ten days, ten months, and a year; recorded as obscure.
+- **The endogamy thread's changing reason** is flagged as a contradiction in the tradition rather than
+  harmonised: Abraham gives no reason, Deuteronomy gives idolatry, Ezra gives survival, Paul gives
+  allegiance — and Genesis itself has Judah and Joseph break the rule with no censure while Ruth and
+  Rahab enter the genealogy of Jesus.
+
+### Verification
+
+Every WEB quotation in the new and revised pages was checked programmatically against
+`raw/bible/Genesis.md` — blockquotes parsed verse by verse, plus forty-six inline fragments matched
+after normalising curly quotes and dashes. **One quotation error written during this pass was caught
+and corrected before commit**: `connections/The Betrothal at the Well` had lower-cased the opening
+words of Genesis 24:28 and 29:12 to fit a table cell (*"the young lady ran"*, *"she ran and told her
+father"*); both were restored to the WEB's capitalisation, and Laban's two partial quotes in the same
+table with them. Quotations from Exodus, Ruth, and John are unverifiable here, as elsewhere in the
+wiki, and are marked as references rather than presented as checked.
+
+External and non-textual claims — the camel dating, the Mari attestation of *Naḫur*, the Septuagint's
+*adoleschēsai*, the type-scene as a literary category, and the identification of the servant with
+Eliezer — are stated as attributions or proposals rather than findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 25; 26; 27; 29–31; 35; 38; 41; 47; 50) are written as plain scripture references or
+carry an explicit *(not yet ingested)* marker. One prospective link — to Judah, who has no page yet —
+was written as plain text rather than as a wikilink. Ten stale *(not yet ingested)* markers for this
+pericope were cleared, on `people/Rebekah` (three), `people/Isaac`, `people/Bethuel` (two),
+`people/Milcah`, `people/Nahor (brother of Abram)`, `places/Beer Lahai Roi`, and
+`places/Haran (city)`; two more were found by a repository-wide sweep for `24:` markers and cleared
+on `themes/Hospitality` (24:15–33) and `themes/Walking with God` (24:40) — the latter also earned
+that theme a place on the passage page and in the themes index, which the first pass had missed.
+
+**Note on branch state.** The eleventh run in a row to start on a **detached HEAD**, this time at
+`bb74ad0` with a clean tree and the local `main` ref stale at `ee8f435`, seventeen commits behind.
+`git fetch origin` showed `origin/main` already at `bb74ad0` — the previous run's push had landed and
+only the local ref was stale — so `git checkout -B main bb74ad0` moved the branch onto HEAD before
+any work, and this ingest was committed on `main`. Eleven consecutive runs have now started detached;
+it remains an environment quirk rather than a one-off, it has cost nothing so far because every
+previous push had in fact landed, and it still wants the user's attention.
+
+**Also noticed, not acted on.** The tracked, empty `Exodus.md` at the repository root, added by
+commit `694ca13` ("Adjust naming for passge"), is still there. It belongs nowhere in the directory
+map and is one `git rm` away whenever the user wants it gone; it was left alone again so this
+ingest's commit stays just the ingest.

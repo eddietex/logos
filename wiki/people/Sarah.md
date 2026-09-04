@@ -424,6 +424,22 @@ legible from Genesis 11, where she is a name, a marriage, and an absence.
   Genesis 23:19, [[Machpelah]]
 - Named afterwards only as an occupant of the tomb — Genesis 25:10; 49:31 *(not yet ingested)*
 
+### After she dies — Genesis 24
+
+**She is named twice in the chapter about her replacement, and both mentions are property.**
+
+The servant tells Rebekah's family *"Sarah, my master's wife, bore a son to my master when she was
+old. He has given all that he has to him"* (24:36) — her one appearance in the negotiation is as
+the warrant for the heir's legitimacy. And the chapter's last verse: *"Isaac brought her into his mother
+Sarah's tent"* (24:67). **Three years after her death, on the book's own arithmetic, the tent is
+still standing and still called by her name** — the tent she laughed in at 18:9–15, and the only
+thing in Genesis that keeps a woman's name after her.
+
+*"Isaac was comforted after his mother's death"* is the last clause of the chapter and **the only
+evidence Genesis ever gives that her son grieved her at all**: he was not named at her funeral, said
+nothing there, and is not recorded as mourning. The book reports the grief by reporting that it
+stopped. See [[A Wife for Isaac]] and [[Rebekah]].
+
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:29–31
@@ -451,6 +467,8 @@ legible from Genesis 11, where she is a name, a marriage, and an absence.
   woman's lifespan in the Bible, recorded in the patriarchs' own register and followed by no cause,
   no death scene, and no word from anyone but her husband — and then eighteen verses about the price
   of a field
+- [[A Wife for Isaac]] — Genesis 24:36, 67; dead, and named twice: as the mother who bore the heir
+  *"when she was old"*, and as the owner of the tent her successor is brought into
 
 ## Related people
 
@@ -472,9 +490,9 @@ legible from Genesis 11, where she is a name, a marriage, and an absence.
   established with
 - [[Ephron the Hittite]] — who owned the cave she is buried in until four verses before she is put in
   it
-- [[Rebekah]] — her successor, named in the genealogy four verses before her own death notice; Genesis
-  24:67 says Isaac was comforted after his mother's death, which is the only thing the book ever puts
-  between the two women
+- [[Rebekah]] — her successor, named in the genealogy four verses before her own death notice, and
+  brought into her tent at 24:67 in the same verse that says Isaac was comforted after his mother's
+  death — the only thing the book ever puts between the two women
 
 ## Themes associated
 

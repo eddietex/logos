@@ -181,6 +181,10 @@ where that starts, in a sentence about a family that got halfway.
   rather than on the grave. Acts 7:5 gives the balance without softening: *"he gave him no
   inheritance in it, no, not so much as to set his foot on"*. See
   [[A Stranger and a Foreigner - The Sojourner's Confession]] and [[Burial and the Grave]]
+- [[A Wife for Isaac]] — Genesis 24:5–8: the theme stated as a prohibition with no exception. The
+  servant is released from the oath if the bride refuses, but *"you shall not bring my son there
+  again"* is repeated and never qualified. **The marriage is negotiable and the land is not** — and
+  the country Isaac may not enter is the country his wife must be fetched from
 
 ## Related themes
 

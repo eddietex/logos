@@ -50,6 +50,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   the Bethel ridge
 - [[Abraham and Abimelech]] — Genesis 20:1, *"the land of the South"*: the country he moves into
   after Sodom and stays in for the rest of the cycle
+- [[A Wife for Isaac]] — Genesis 24:62, *"for he lived in the land of the South"*: the next
+  generation's address, and the field Isaac is walking in when Rebekah arrives
 
 ## Related places
 

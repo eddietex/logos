@@ -204,6 +204,10 @@ costly.
   *the families*. **The promise is handed to the next generation in the same breath that nearly ended
   it.** See [[All the Families of the Earth - Genesis 12.3 in the New Testament]] and
   [[Dust, Stars, and Sand - The Offspring Promises]]
+- [[A Wife for Isaac]] — Genesis 24:1, the narrator's verdict on a whole life in one word (*"Yahweh
+  had blessed Abraham in all things"*, *bakkōl*), and 24:60, where an Aramean household pronounces
+  the Moriah oath over Rebekah — *"let your offspring possess the gate of those who hate them"* —
+  without ever having heard it. See [[Possess the Gate of Those Who Hate Them]]
 
 ## Related themes
 

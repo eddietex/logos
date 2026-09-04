@@ -199,7 +199,20 @@ even fratricidal betrayal into rescue (Joseph).
   and pays four hundred shekels — weighed, to the merchants' standard — for the field of Ephron, the
   cave in it, and every tree inside its borders. **The deed is stated twice and the second statement
   comes after the burial**, so that the chapter ends on the title rather than on the grave. It is the
-  only ground any patriarch ever owns in Canaan, and five more of them will be buried in it.
+  only ground any patriarch ever owns in Canaan, and five more of them will be buried in it. And then
+  *[[A Wife for Isaac]]*, the longest chapter in the book, in which **God does not speak once**.
+  Yahweh is named nineteen times and every theological claim in the chapter is made by a character:
+  Abraham, in his last scene and his last recorded words, makes a servant swear on his thigh that
+  Isaac will not marry a Canaanite and — the clause with no release attached — that he will never be
+  taken back to Mesopotamia. The servant, unnamed across sixty-seven verses, prays **the first
+  unbidden petition in Scripture**, is answered before he has finished speaking, and watches in
+  silence while Rebekah waters ten camels. He argues the case to her family with six careful edits,
+  the largest of which is dropping the clause about never coming back. Laban is introduced by the
+  gold he noticed. Rebekah is asked the only question anybody puts to a bride in Genesis and answers
+  it in one word — *"I will go"* — and her family send her off with the oath sworn at Moriah, which
+  they have never heard. Isaac comes in from Hagar's well, goes out into a field at evening to do
+  something the Hebrew cannot name, and **is the first husband in the Bible said to love his wife**.
+  It is the register the Joseph cycle will be written in, and this is where the book learns it.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -243,7 +256,7 @@ merge, or reorder them freely.
 - [x] [[The Treaty at Beersheba]] — Genesis 21:22–34
 - [x] [[The Binding of Isaac]] — Genesis 22:1–19
 - [x] [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20
-- [ ] A Wife for Isaac — Genesis 24:1–67
+- [x] [[A Wife for Isaac]] — Genesis 24:1–67
 - [ ] The Death of Abraham and the Line of Ishmael — Genesis 25:1–18
 
 ### Isaac and Jacob (25:19–36)

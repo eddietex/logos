@@ -833,6 +833,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 
 ## Appears in
 
+- [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
+  nineteen times and says nothing**. He is sworn by, prayed to, thanked, credited, blessed, and
+  conceded to, and the narrator reports no speech, no appearance, and no act — only the timing of
+  Rebekah's arrival, *before he had finished speaking*. Every theological claim in the chapter is
+  made by a character, which is the register the Joseph cycle will be written in
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]
@@ -997,3 +1002,4 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Circumcision]]
 - [[Kingship and Empire]]
 - [[Hospitality]]
+- [[Prayer]]

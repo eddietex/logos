@@ -194,6 +194,11 @@ See [[The Binding of Isaac]] and [[I Have Sworn by Myself - The Oath at Moriah]]
   out of the sky for the first time in Scripture, to the only person in Genesis he comes to twice
 - [[The Binding of Isaac]] — Genesis 22:11–18; the only time in Genesis he stops an act rather than
   starting one, and the only time anyone in the book says *nəʾum YHWH*
+- [[A Wife for Isaac]] — Genesis 24:7, 40; **promised twice and never seen**. Abraham says *"He will
+  send his angel before you"* and the servant repeats it to Rebekah's family as though it had
+  happened; the narrator reports no angel, and no divine speech or act of any kind, in the whole
+  chapter. It is the first *angel sent before you* in Scripture, and Exodus 23:20, 32:34, and 33:2
+  will make the sentence a formula for the nation's march
 
 ## Related people
 

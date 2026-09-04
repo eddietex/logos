@@ -124,6 +124,11 @@ addressing a slave by name and no one else in the story doing so.
 - Isaiah 42:1–9; 52:13–53:12 — *ʿebed* as the highest title in the book
 - Galatians 3:28; 4:21–31; 1 Corinthians 7:21–23; Philemon; Philippians 2:7 — the New Testament's
   handling
+- [[A Wife for Isaac]] — Genesis 24, whose protagonist is property. **He runs an estate, carries its
+  wealth on ten camels, swears a binding oath and negotiates its terms first, prays the first unbidden
+  petition in Scripture, and chooses the next matriarch of Israel — and Genesis never gives him a
+  name.** He is *the servant* and *the man*, and *my master* is in his mouth thirteen times in one
+  chapter. See [[Abraham's Servant]]
 
 ## Related themes
 

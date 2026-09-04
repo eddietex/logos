@@ -49,10 +49,11 @@ follow too.
 - Born to [[Nahor (brother of Abram)]] and [[Milcah]], eighth of their eight sons — Genesis 22:22,
   [[Nahor's Line and the Burial of Sarah]]
 - Becomes the father of [[Rebekah]] — Genesis 22:23
-- Named as Rebekah's father when Abraham's servant meets her at the well — Genesis 24:15, 24
-  *(not yet ingested)*
+- Named as Rebekah's father when Abraham's servant meets her at the well — Genesis 24:15, 24,
+  [[A Wife for Isaac]]
 - Answers the servant jointly with Laban, in the only words attributed to him — Genesis 24:50
-  *(not yet ingested)*
+- Not named in the verse that distributes the gifts, nor in the one that asks for a delay —
+  Genesis 24:53, 55
 - Called *the Aramean*, and named as the father of Rebekah and of Laban — Genesis 25:20; 28:5
   *(not yet ingested)*
 
@@ -60,6 +61,8 @@ follow too.
 
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:22–23; a name in a list, and then the one
   clause the list was assembled to deliver
+- [[A Wife for Isaac]] — Genesis 24:15, 24, 50; alive, present, and named second, in the chapter that
+  turns on his daughter and hands the negotiation to his son
 
 ## Related people
 
@@ -69,6 +72,8 @@ follow too.
 - [[Terah]] — his great-grandfather on one side and his grandfather's father on the other
 - [[Abraham]] — his uncle, and his daughter's father-in-law
 - [[Isaac]] — his son-in-law
+- [[Laban]] — his son, who answers before him at 24:50 and takes the gifts at 24:53
+- [[Abraham's Servant]] — the envoy who came to deal with him and dealt with his son
 - [[Reumah]] — his father's concubine, and the mother of four of his half-brothers
 
 ## Themes associated

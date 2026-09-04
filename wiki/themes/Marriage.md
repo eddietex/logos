@@ -158,6 +158,12 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   verse with no comment at all.** And at 22:23 the next patriarchal marriage is arranged before it is
   needed: *"Bethuel became the father of Rebekah"*, two chapters before a servant is sent to fetch
   her, and one verse before the death of the wife she replaces. See [[Reumah]] and [[Rebekah]]
+- [[A Wife for Isaac]] — Genesis 24: a marriage arranged by oath, contracted by proxy with a man the
+  bride will never see, negotiated by her brother, agreed *"as Yahweh has spoken"*, and consented to
+  by the bride in one word — *"I will go"* (24:58), **the only question anybody in Genesis puts to a
+  bride**. It closes with the first statement in Scripture that a husband loved his wife (24:67), and
+  it establishes the endogamy rule the rest of the patriarchal marriages are measured by. See
+  [[Not from the Daughters of the Canaanites]] and [[The Betrothal at the Well]]
 
 ## Related themes
 

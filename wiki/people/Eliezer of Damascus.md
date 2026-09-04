@@ -38,7 +38,8 @@ special explanation. Abram is describing the arrangement any man in his position
 Genesis 24:2 shows the same servant class still running his household: *"his servant, the elder of
 his house, who ruled over all that he had."*
 
-**Whether he is the servant of Genesis 24 is an old and unresolvable question.** The chapter that
+**Whether he is the servant of Genesis 24 is an old and unresolvable question.** The wiki gives that
+man his own page, [[Abraham's Servant]], and keeps the two separate. The chapter that
 sends a servant to Mesopotamia to find Isaac a wife — the longest chapter in Genesis, and the one
 that gives its servant more dialogue and more interior life than almost any minor figure in the
 book — never names him. Jewish tradition identifies him with Eliezer as a matter of course, and the
@@ -65,6 +66,8 @@ narrative apart.
 ## Related people
 
 - [[Abraham]] — his master, and the man whose complaint is the only reason he is in the Bible
+- [[Abraham's Servant]] — the unnamed steward of Genesis 24, whom tradition identifies with him and
+  the text does not
 - [[God]] — who removes him from the inheritance without discussing him
 
 ## Themes associated

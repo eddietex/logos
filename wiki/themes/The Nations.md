@@ -160,6 +160,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   land sale for him at their own gate. **They are also named, in the Torah's conquest lists, among
   the peoples his descendants are to dispossess**, and Genesis does not remark on it. See
   [[The Children of Heth]] and [[Ephron the Hittite]]
+- [[A Wife for Isaac]] — Genesis 24: the covenant line marries out of Canaan and into Aram, and will
+  do it again for Jacob. The Arameans in this chapter are courteous, generous, quick to credit
+  Yahweh, and blessed with the covenant's own words at 24:60 — and Genesis 31:53 and Joshua 24:2 are
+  blunt about what the branch that stayed behind actually worshipped. See
+  [[Not from the Daughters of the Canaanites]] and [[Aram Naharaim]]
 
 ## Related themes
 

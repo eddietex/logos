@@ -87,6 +87,10 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   13:12 draws between it and the plain, and the grant enlarged to *all the land which you see*
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14: the land as a theatre of war between kings who
   are not from it, defended by a man who does not own it and refuses to be paid for defending it
+- [[A Wife for Isaac]] — Genesis 24:3, 6, 8: named in a prohibition rather than as a setting —
+  *"the daughters of the Canaanites, among whom I live"* — and made the one term of Abraham's oath
+  with no release attached. The line is to live in it, own nothing in it but a grave, marry four
+  hundred miles outside it, and never leave it
 - [[The Covenant Between the Pieces]] — Genesis 15:7, 18–21: the first time the promise has an edge
   rather than a gesture, drawn from the river of Egypt to the Euphrates and inventoried by ten
   peoples — the largest territorial claim in the Bible, and one Israel never holds

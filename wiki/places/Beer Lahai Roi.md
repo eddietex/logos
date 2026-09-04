@@ -50,6 +50,8 @@ encounter is the ordinary Genesis pattern (*Bethel*, 28:19; *Yahweh Will Provide
 
 - [[Hagar and Ishmael]] — Genesis 16:14; named for the God Hagar met there, in the chapter's second
   act of naming and the less remarkable of the two
+- [[A Wife for Isaac]] — Genesis 24:62; where Isaac is coming from when the caravan arrives, in a
+  subordinate clause that quietly puts the son of the promise at the slave's well
 
 ## Related places
 
@@ -67,6 +69,6 @@ encounter is the ordinary Genesis pattern (*Bethel*, 28:19; *Yahweh Will Provide
 - The angel of Yahweh finds Hagar at the spring and gives her the promise and her son's name —
   Genesis 16:7–13
 - The well is named *Beer Lahai Roi* — Genesis 16:14
-- Isaac is coming from it when the caravan bringing Rebekah arrives — Genesis 24:62
-  *(not yet ingested)*
+- Isaac is coming from it when the caravan bringing Rebekah arrives — Genesis 24:62,
+  [[A Wife for Isaac]]
 - Isaac settles there after Abraham's death — Genesis 25:11 *(not yet ingested)*

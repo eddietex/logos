@@ -69,7 +69,8 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 - Not named among those who leave Ur with Terah — Genesis 11:31, [[From Shem to Abram]]
 - Fathers eight sons by [[Milcah]] and four by his concubine [[Reumah]], including [[Bethuel]],
   Rebekah's father — Genesis 22:20–24, [[Nahor's Line and the Burial of Sarah]]
-- His city is where Abraham's servant finds Rebekah — Genesis 24:10 *(not yet ingested)*
+- His city is where Abraham's servant finds Rebekah, and 24:15 identifies her by him rather than by
+  her father — Genesis 24:10, 15, [[A Wife for Isaac]]
 - Named in Laban's oath alongside Abraham — Genesis 31:53 *(not yet ingested)*
 
 ## Appears in
@@ -78,6 +79,9 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–24; twelve sons by two women, reported to
   Abraham in the only piece of news from Mesopotamia in the cycle, and assembled around one clause at
   the end of it
+- [[A Wife for Isaac]] — Genesis 24:10, 15; *the city of Nahor* is the servant's destination, and the
+  narrator introduces Rebekah as *the wife of Nahor, Abraham's brother*'s granddaughter rather than
+  by her own father
 
 ## Related people
 
@@ -90,6 +94,7 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 - [[Reumah]] — his concubine, and the mother of four of his twelve
 - [[Bethuel]] — his eighth son, and Rebekah's father
 - [[Rebekah]] — his granddaughter, and Isaac's wife
+- [[Laban]] — his great-grandson, who runs the household when the servant arrives
 
 ## Themes associated
 

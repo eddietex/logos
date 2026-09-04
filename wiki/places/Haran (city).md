@@ -55,11 +55,15 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:31–32; where the journey to Canaan stops and Terah dies
+- [[A Wife for Isaac]] — Genesis 24:10; not named in the chapter, which says *Mesopotamia, to the
+  city of Nahor* — the standing candidate for that city, and the house Jacob will be sent back to
 - [[The Call of Abram]] — Genesis 12:1–5; where the call is delivered, on Genesis's arrangement, and
   the journey resumes
 
 ## Related places
 
+- [[Aram Naharaim]] — the region it sits in, called *Mesopotamia* at 24:10 and *Paddan Aram*
+  throughout the Jacob cycle
 - [[Ur of the Chaldees]] — where the family came from
 - [[Canaan]] — where they were going, and did not arrive
 - [[Assyria]] — the empire whose last capital it became
@@ -71,5 +75,6 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 - [[Terah]]'s household settles instead of continuing to Canaan — Genesis 11:31
 - Terah dies at two hundred five — Genesis 11:32
 - Abram is called out of it at seventy-five — Genesis 12:1–4, [[The Call of Abram]]
-- Abraham's servant comes back for Rebekah — Genesis 24 *(not yet ingested)*
+- Abraham's servant comes back for Rebekah, if *the city of Nahor* is this city — Genesis 24,
+  [[A Wife for Isaac]]
 - Jacob serves Laban twenty years and marries Leah and Rachel — Genesis 29–31 *(not yet ingested)*

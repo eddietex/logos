@@ -567,6 +567,47 @@ be buried in it himself (25:9–10), and five more of his family will follow. Ac
 balance without softening: *"He gave him no inheritance in it, no, not so much as to set his foot
 on."* See [[Machpelah]] and [[Buried at Machpelah - The Six Graves of Genesis]].
 
+### In this pericope — Genesis 24:1–9
+
+**His last scene, and his last recorded words.**
+
+He appears in nine verses of the longest chapter in Genesis and never again — 25:1–11 gives him a
+second family, a will, and a funeral, and no more speech. **The final act of the man the cycle is
+named for is to make a slave swear an oath**, and the final thing he says is a statement of the
+promise.
+
+*"Abraham was old, and well stricken in age. Yahweh had blessed Abraham in all things"* (24:1).
+*Bakkōl* — **in all things** — is the narrator's verdict on a life, delivered before the last thing
+in it. On the chapter's own arithmetic he is about a hundred forty: Isaac is forty when he marries
+(25:20), and Sarah died three years earlier.
+
+**He administers an oath with a gesture the Bible uses twice.** *"Put your hand under my thigh"* — a
+euphemism for the genitals, the flesh the covenant sign is cut into (17:23–27) and the flesh the
+offspring come out of. The only other instance is Jacob to Joseph at 47:29, and both are old men
+binding the next generation about a country. See [[Put Your Hand Under My Thigh]].
+
+**There are two prohibitions and he will only release one of them.** No Canaanite wife — from which
+the servant is discharged if the woman refuses (24:8). And *"Beware that you don't bring my son there
+again"* (24:6), repeated at 24:8, with no release attached at all. **Isaac may end up unmarried; he
+may not end up in Mesopotamia.** *Lek-lekā* was one-way, and this is Abraham making certain it stays
+one-way after he is dead. See [[Not from the Daughters of the Canaanites]] and
+[[Leave Your Country - The Two Lek-Lekha Commands]].
+
+***"Yahweh, the God of heaven, who took me from my father's house, and from the land of my birth, who
+spoke to me, and who swore to me"*** (24:7). **A summary of his own life in one sentence, and it is
+accurate**: 12:1, 11:31, eight divine speeches, and the oath at 22:16. He cites the covenant's
+history as evidence for a claim about the future, which is what faith looks like when the man is
+arguing it rather than the narrator crediting it. See [[Faith]].
+
+And then a prediction nobody confirms: ***"He will send his angel before you."*** **The first time in
+Scripture anyone says God will send an angel ahead of a journey** — said by a man, not by God — and
+no angel appears in the chapter, or is mentioned by the narrator, ever. Exodus makes the sentence a
+formula for the whole nation's march (23:20; 32:34; 33:2). See [[The Angel of Yahweh]] and
+[[A Wife for Isaac]].
+
+**He is not told the outcome on the page.** The servant returns and reports to Isaac (24:66). Abraham
+does not meet Rebekah, is not at the marriage, and is not mentioned again until his own death notice.
+
 ### Where the rest of him is
 
 Much of what the Bible says about Abraham is still ahead of this page: the wife fetched for Isaac,
@@ -686,6 +727,9 @@ it (Galatians 3:8). This page grows as those arrive.
   23:17–18, 20
 - Buries Sarah in the cave of Machpelah, the only ground he ever owns — Genesis 23:19,
   [[Machpelah]]
+- Makes his steward swear, hand under thigh, to fetch a wife for Isaac from his own kindred and never
+  to take Isaac back there — Genesis 24:1–9, [[A Wife for Isaac]]. **His last scene and his last
+  recorded words**
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -726,6 +770,9 @@ it (Galatians 3:8). This page grows as those arrive.
   for strangers, three days on the road with the wood he split before dawn, three answers of *"Here I
   am"*, a knife stopped from the sky, a ram offered instead of his son, and God's only self-sworn
   oath — the last words God speaks to him in the Bible
+- [[A Wife for Isaac]] — Genesis 24:1–9; his last scene and his last words: an oath sworn on the
+  thigh, a bride forbidden from Canaan, a son forbidden from Mesopotamia, and the fullest statement
+  of the promise he ever makes in his own mouth
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20; news from the brother he left
   behind, a wife dead in a town he was not in, three bows, two refused gifts, four hundred shekels
   paid without a counter-offer, and the only piece of the promised land he ever holds by title
@@ -794,3 +841,4 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Judgment]]
 - [[Testing]]
 - [[The Fear of God]]
+- [[Prayer]]

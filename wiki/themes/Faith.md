@@ -127,6 +127,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   gone back and did not (11:15). **The wiki notes that this is Hebrews' construction: Genesis offers
   no account of Abraham's motives in the chapter at all.** See
   [[A Stranger and a Foreigner - The Sojourner's Confession]]
+- [[A Wife for Isaac]] — Genesis 24:7, faith as a man states it rather than as a narrator credits it:
+  Abraham argues from what God has already done to what he will do. And 24:21, 49 — the servant asks
+  for a sign, refuses to conclude anything until it has finished happening, and builds a way of being
+  told no into his own request: *"that I may turn to the right hand, or to the left"*
 
 ## Related themes
 

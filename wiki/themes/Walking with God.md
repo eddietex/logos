@@ -68,8 +68,10 @@ with God goes with not being destroyed.
   before* is the posture of a servant in his lord's sight, the idiom of 1 Samuel 2:30 and 1 Kings
   8:25. Genesis changes the preposition at the exact point where the relationship acquires
   obligations. See [[Circumcision, the Sign of the Covenant]].
-- **Genesis 24:40; 48:15** *(not yet ingested)* — the construction repeated, and Jacob speaking of the
-  God *"before whom my fathers Abraham and Isaac walked"*.
+- **Genesis 24:40** — *"Yahweh, before whom I walk, will send his angel with you"*: Abraham's own
+  self-description, quoted back by his servant to a household in Mesopotamia, and the ground he gives
+  for expecting the errand to succeed. See [[A Wife for Isaac]]. And **48:15**, Jacob on the God
+  *"before whom my fathers Abraham and Isaac walked"* *(not yet ingested)*.
 - **Leviticus 26:12** — *"I will walk among you, and will be your God"*: the direction reversed,
   and made covenantal.
 - **Micah 6:8** — *"to walk humbly with your God"*, using the *ʾet* of Genesis 5, and the closest

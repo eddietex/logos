@@ -101,6 +101,11 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   after a famine, a lie in Egypt, a bride-price taken for his wife, and a family quarrel, with none of
   the four mentioned. Genesis places it immediately after he gives away his claim and never calls it a
   reward
+- [[A Wife for Isaac]] — Genesis 24:12, 14, 27, 49: the chapter's operative word is not *ḥēn* but
+  **ḥesed**, the loyalty owed inside a relationship rather than the favour shown outside one. It is
+  asked for by a slave on his master's behalf, twice paired with *ʾemet* — ***ḥesed we-ʾemet***, the
+  pair God will use of himself at Exodus 34:6 — and once the request is granted it becomes the word
+  he thanks God in
 
 ## Related themes
 

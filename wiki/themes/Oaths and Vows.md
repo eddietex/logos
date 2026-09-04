@@ -101,6 +101,9 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 - Deuteronomy 23:21–23; Ecclesiastes 5:4–6 — pay what you vow
 - Judges 11:30–40; 1 Samuel 14:24–45 — the rash vow
 - Matthew 5:33–37; 23:16–22; James 5:12 — let your yes be yes
+- Genesis 24:2–9 — the master–servant oath, with the gesture the Bible uses twice, a stated sanction,
+  a release clause for one term and none at all for the other, and a swearer who negotiates before he
+  swears; see [[A Wife for Isaac]] and [[Put Your Hand Under My Thigh]]
 
 ## Related themes
 

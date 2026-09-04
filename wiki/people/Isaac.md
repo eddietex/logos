@@ -162,10 +162,50 @@ will open with Abraham swearing his servant not to take a Canaanite wife for him
 Isaac needs after Moriah — a mother's grave and a wife — are both arranged in this pericope, and he
 is present for neither.** See [[Nahor's Line and the Burial of Sarah]] and [[Rebekah]].
 
+### In this pericope — Genesis 24:1–67
+
+**Sixty-one verses of the chapter about his marriage happen without him**, and then he walks into a
+field.
+
+He is spoken about constantly and consulted never. The oath is sworn over him (*"a wife for my son
+Isaac"*, 24:4); the servant describes his inheritance to strangers (*"He has given all that he has to
+him"*, 24:36); a woman four hundred miles away agrees to marry him; and **nobody at any point asks
+him anything.** He is the passive centre of his own life for the fourth time — named before
+conception, circumcised before consent, bound without a word, and now married by errand. **The one
+person in the chapter who is asked for consent is the bride.**
+
+**The clause with no release attached is about him.** Abraham frees the servant from the oath if the
+woman refuses (24:8) but repeats twice that *"you don't bring my son there again"* (24:6, 8).
+**Isaac may end up unmarried; he may not end up in Mesopotamia.** He is the only patriarch who never
+leaves the land, and this verse is why: his father made it an oath before he died.
+
+**He comes in from Hagar's well.** *"Isaac came from the way of Beer Lahai Roi, for he lived in the
+land of the South"* (24:62) — not Beersheba, where 22:19 left his father, and not Hebron, where his
+mother was buried. **The son of the promise is living at the water hole named by the Egyptian slave
+who was sent away**, and 25:11 says he stays there. See [[Beer Lahai Roi]] and [[Hagar]].
+
+***"Isaac went out to meditate in the field at the evening"*** (24:63). ***Lāśûaḥ* occurs nowhere
+else in the Hebrew Bible in this form**, and every rendering is a reconstruction: to meditate, to
+muse, to complain or lament, to stroll, to relieve himself; the Septuagint has him going out to
+exercise, or to chatter. **The most famous quiet moment in the patriarchal narratives rests on a word
+nobody can define.** If it is *lament*, it is the only grief for Sarah the book ever puts in him.
+
+> **67** Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife.
+> He loved her. Isaac was comforted after his mother’s death.
+
+**Four clauses, and two of them are firsts.** *Wayyeʾĕhābehā*, **he loved her**, is the **first time
+in the Bible a husband is said to love his wife**, and only the second occurrence of *ʾāhab* in
+Scripture — the first was *"your son, your only son, whom you love, even Isaac"* (22:2). **Love
+enters the Bible as what makes a sacrifice cost something, and its second appearance is his
+marriage.** And *wayyinnāḥēm*, **he was comforted**, is the only evidence Genesis ever gives that he
+grieved his mother at all: he was not named at her funeral and said nothing there, and the book
+reports the grief by reporting that it stopped.
+
+The tent is hers. Three years after her death on the book's own arithmetic, it is still standing and
+still called *"his mother Sarah's tent."* See [[A Wife for Isaac]] and [[Sarah]].
+
 ### Where the rest of him is
 
-- **Genesis 24** — a wife found for him at his father's instruction, without his presence; he is
-  living at [[Beer Lahai Roi]], the well [[Hagar]] named (24:62), and marries Rebekah.
 - **Genesis 25:11** — blessed by God after Abraham's death, and settling again at Beer Lahai Roi;
   25:9 has him bury his father with Ishmael.
 - **Genesis 26** — the only chapter that is his own: the wife-sister ruse repeated at Gerar, the wells
@@ -200,7 +240,12 @@ is present for neither.** See [[Nahor's Line and the Burial of Sarah]] and [[Reb
 - Thirty-seven when his mother dies at Kiriath Arba; not named in the chapter — Genesis 23:1,
   [[Nahor's Line and the Burial of Sarah]]
 - His future wife named in the genealogy four verses before that — Genesis 22:23, [[Rebekah]]
-- Marries Rebekah, brought to him from his father's kindred — Genesis 24:67 *(not yet ingested)*
+- Never consulted about his own marriage; the oath forbidding his return to Mesopotamia is sworn
+  twice over — Genesis 24:6, 8, [[A Wife for Isaac]]
+- Comes in from [[Beer Lahai Roi]] and goes out into a field at evening to do something the Hebrew
+  cannot name — Genesis 24:62–63
+- Marries Rebekah in his mother's tent, loves her, and is comforted after Sarah's death — Genesis
+  24:67
 - Buries Abraham with Ishmael, and settles at Beer Lahai Roi — Genesis 25:9–11 *(not yet ingested)*
 - Repeats his father's ruse at Gerar, and is given the promise in his own right — Genesis 26
   *(not yet ingested)*
@@ -224,6 +269,9 @@ is present for neither.** See [[Nahor's Line and the Burial of Sarah]] and [[Reb
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23:20; off-stage and unnamed while his
   mother is buried and his wife is named, thirty-seven years old on the chapter's own arithmetic, and
   absent from Genesis for the second pericope running
+- [[A Wife for Isaac]] — Genesis 24:1–67; absent for sixty-one verses of the chapter about his
+  marriage, forbidden by oath to leave the land, found living at the well Hagar named, and given the
+  Bible's first statement that a husband loved his wife
 
 ## Related people
 
@@ -235,6 +283,8 @@ is present for neither.** See [[Nahor's Line and the Burial of Sarah]] and [[Reb
 - [[God]] — who names him, dates him, and establishes the covenant with him before he exists
 - [[Rebekah]] — his wife, named in a Mesopotamian genealogy two chapters before she is fetched
 - [[Bethuel]] — her father, and his father's nephew
+- [[Abraham's Servant]] — the unnamed steward who chooses his wife, and to whom he becomes *my
+  master* in the chapter's last exchange
 
 ## Themes associated
 
@@ -248,3 +298,5 @@ is present for neither.** See [[Nahor's Line and the Burial of Sarah]] and [[Reb
 - [[Sacrifice and Offering]]
 - [[Testing]]
 - [[Burial and the Grave]]
+- [[Marriage]]
+- [[Prayer]]

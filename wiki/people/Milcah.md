@@ -53,14 +53,16 @@ related to her and whose case establishes daughters' inheritance rights in Israe
 - Not named among those who leave Ur — Genesis 11:31
 - Bears Nahor eight sons, including [[Bethuel]], Rebekah's father — Genesis 22:20–23,
   [[Nahor's Line and the Burial of Sarah]]
-- Named as Rebekah's grandmother when the servant meets her at the well — Genesis 24:15, 24
-  *(not yet ingested)*
+- Named as Rebekah's grandmother when the servant meets her at the well, both by the narrator and by
+  Rebekah herself — Genesis 24:15, 24, [[A Wife for Isaac]]
 
 ## Appears in
 
 - [[From Shem to Abram]] — Genesis 11:29
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–23; the news that reaches Abraham after
   Moriah, in which she has borne eight sons and the eighth has fathered [[Rebekah]]
+- [[A Wife for Isaac]] — Genesis 24:15, 24; named twice in the pedigree that identifies Rebekah, once
+  by the narrator and once by Rebekah, three generations before Israel
 
 ## Related people
 
@@ -74,6 +76,7 @@ related to her and whose case establishes daughters' inheritance rights in Israe
   before Sarah's death notice
 - [[Bethuel]] — her eighth son, and the only one of the eight the narrative needs
 - [[Rebekah]] — her granddaughter, and Isaac's wife
+- [[Laban]] — her great-grandson
 - [[Reumah]] — her husband's concubine, mother of the other four of his twelve
 
 ## Themes associated
