@@ -11,14 +11,14 @@ tags: [connection]
   Sarai taken into Pharaoh's house, plagues, and an escorted expulsion — [[Abram in Egypt]]
 - **Genesis 20:1–18** — Abraham in Gerar. *"She is my sister"*, Sarah taken by Abimelech, God in a
   dream by night, Abraham called a prophet, a thousand pieces of silver, and Abraham praying for the
-  man who took his wife *(not yet ingested)*
+  man who took his wife — [[Abraham and Abimelech]]
 - **Genesis 26:6–11** — Isaac in Gerar. *"She is my sister"*, nobody taken, and Abimelech looking out
   of a window *(not yet ingested)*
 - **Genesis 20:12** — *"she is indeed my sister, the daughter of my father, but not the daughter of
-  my mother"*, which is the fact the whole set turns on *(not yet ingested)*
+  my mother"*, which is the fact the whole set turns on
 - **Genesis 20:13** — *"When God caused me to wander from my father's house … Everywhere that we go,
   say of me, 'He is my brother.'"* — the ruse admitted as a standing policy from the start of the
-  journey *(not yet ingested)*
+  journey
 
 ## Analysis
 
@@ -110,6 +110,12 @@ What the episodes establish instead is that the covenant is not held up by the c
 who carries it. God protects Sarai in Egypt without a word to anyone; God protects Sarah in Gerar by
 warning the man who took her rather than the man who gave her away. In both, the promise survives
 its bearer.
+
+**And Genesis 20 makes that point with a title.** In the middle of the worst-behaved chapter in the
+cycle, God calls Abraham *a prophet* — the first *nābîʾ* in Scripture — and tells a foreign king that
+this man's prayer is what will keep him alive (20:7). The office is conferred while the failure is
+still in progress, on the strength of nothing the man has done. See
+[[A Prophet Who Prays - The First Nabi in Scripture]].
 
 They also establish the pattern the rest of Genesis runs on: deceit inside the chosen family,
 detected by outsiders, never disowned, and inherited. Isaac repeats his father's ruse; Jacob will

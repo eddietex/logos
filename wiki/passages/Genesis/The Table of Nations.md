@@ -387,10 +387,11 @@ in the book is somewhere.
   1 Chronicles 1:42 give a Horite Uz in Edom, and Lamentations 4:21 — the only verse that puts Uz on
   a map — puts it in Edom too, which is why the southern location is generally preferred. Genesis
   asserts no connection to Job and neither does the wiki; see [[Uz]] for the three readings.
-- **Named but not given pages here** — Sidon, Gerar, Gaza, Sodom, Gomorrah, Admah, Zeboiim, Lasha,
-  Erech, Accad, Calneh, Calah, Rehoboth Ir, Resen, Mesha, Sephar, and the peoples-as-places of the
-  three lists. Each waits for a passage that does something with it; Sodom and Gomorrah are nine
-  chapters out, Gerar and Gaza further still.
+- [[Gerar]] — one end of the Canaanite border as it is drawn at 10:19, and later the town both
+  Abraham and Isaac sojourn in; it took its own page at Genesis 20.
+- **Named but not given pages here** — Sidon, Gaza, Admah, Zeboiim, Lasha, Erech, Accad, Calneh,
+  Calah, Rehoboth Ir, Resen, Mesha, Sephar, and the peoples-as-places of the three lists. Each waits
+  for a passage that does something with it.
 
 ## Themes
 

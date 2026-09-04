@@ -167,6 +167,14 @@ has been argued.
   character is condemned, none is excused, and God is not named. The verdict readers supply here
   says more about them than the passage does, which is exactly the position [[The Tower of Babel]]
   leaves them in
+- [[Abraham and Abimelech]] — Genesis 20:6, 9, where the vocabulary finally arrives and lands on the
+  wrong man. **The word is used twice in the chapter and never of Abraham**: God says he *"withheld
+  you from sinning against me"*, and Abimelech asks *"How have I sinned against you, that you have
+  brought on me and on my kingdom a great sin?"* — *ḥăṭāʾâ gədōlâ*, the phrase Exodus 32:21, 30, 31
+  will use of the golden calf. Two things follow. **The offence would have been against God rather
+  than against the injured husband**, and it would have been incurred without intent — which is the
+  situation Leviticus 4 and Numbers 15:22–31 build the category of the *šəgāgâ* around. See
+  [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]]
 ## Related themes
 
 - [[Curse]] — the counter-word this act calls down

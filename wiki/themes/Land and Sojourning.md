@@ -136,6 +136,12 @@ where that starts, in a sentence about a family that got halfway.
   given their territory by divine grant in Deuteronomy 2:9 and 2:19, identified as *"the children of
   Lot"*; he himself never owns a foot of ground, where his uncle's one purchase is a cave and a field
   bought in public at full price (23:3–20)
+- [[Abraham and Abimelech]] — Genesis 20:1, 15: *"He lived as a foreigner in Gerar"* — *gûr* again,
+  the theme's own verb, now at the far southwestern edge of the country he has been promised, between
+  Kadesh and Shur. And then the offer that shows exactly whose land it is: *"Behold, my land is
+  before you. Dwell where it pleases you"* (20:15) — **Abram's own words to Lot at 13:9, given back
+  to him by a king who actually owns the ground**. The man promised the land is granted permission to
+  live on part of it by its holder, and he takes it
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

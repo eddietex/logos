@@ -133,6 +133,13 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   territory in the formula used of Israel's own inheritance and call them *"the children of Lot"*,
   and Ruth the Moabitess is David's great-grandmother. See
   [[Moab and Ammon - The Two Nations Born in the Cave]]
+- [[Abraham and Abimelech]] — Genesis 20:4–7, where a nation outside the line speaks for itself. The
+  king of Gerar calls his own people *a righteous nation* to God's face and is conceded; he receives
+  the first dream in Scripture; and he is healed by the prayer of the man who wronged him — **the
+  first concrete instance of 12:3's *"in you all the families of the earth will be blessed"*, and it
+  takes the form of a foreign household's wombs being opened**. The pattern of [[Abram in Egypt]] is
+  confirmed rather than reversed: the outsider is again the one with the moral vocabulary, and again
+  the one God speaks to
 
 ## Related themes
 

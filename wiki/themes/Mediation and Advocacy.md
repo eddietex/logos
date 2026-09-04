@@ -121,6 +121,14 @@ what Job is asking for.
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:29, the founding intercession's answer,
   and it is not in the terms it was asked in: the place is not spared, the man the advocate never
   named is carried out of it, and the advocate is never told
+- [[Abraham and Abimelech]] — Genesis 20:7, 17, where the theme acquires its vocabulary and its
+  office in one speech. ***Hitpallēl*, the Bible's ordinary verb for prayer, occurs here for the
+  first time**, and so does *nābîʾ* — and God defines the second by the first: *"he is a prophet,
+  and he will pray for you, and you will live."* The intercession is then performed at 20:17 and
+  answered. Two things make it unlike Genesis 18: the advocate is the guilty party, and the
+  beneficiary is an outsider. See
+  [[A Prophet Who Prays - The First Nabi in Scripture]]
+
 ## Related themes
 
 - [[Judgment]] — the proceeding all of this presupposes
@@ -143,3 +151,5 @@ what Job is asking for.
 - [[God]] — defendant, judge, and — on the majority reading of 16:19 — the witness as well
 - [[Abel]] — whose blood cries and is answered, and whom Hebrews 12:24 sets against a better
   speaking; see [[Do Not Cover My Blood]]
+- [[Abimelech (of Abraham's time)]] — the first person in Scripture whose life is made to depend on
+  somebody else's prayer, and the first for whom one is offered

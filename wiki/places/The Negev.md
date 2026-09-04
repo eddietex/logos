@@ -48,18 +48,23 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   13:1 brings him back up into it
 - [[Abram and Lot Separate]] — Genesis 13:1, 3, crossed northward on the return and left behind for
   the Bethel ridge
+- [[Abraham and Abimelech]] — Genesis 20:1, *"the land of the South"*: the country he moves into
+  after Sodom and stays in for the rest of the cycle
 
 ## Related places
 
 - [[Canaan]] — the land it forms the southern edge of
 - [[Egypt]] — what lies beyond it, and where the famine sends him
 - [[Bethel]] and [[Ai]] — the highland ridge he comes down from
+- [[Gerar]] — the town in its western belt that both Abraham and Isaac sojourn in
+- [[Kadesh]] and [[Shur]] — the two markers Genesis 20:1 places him between
 
 ## Events here
 
 - Abram travels on toward the South — Genesis 12:9, [[The Call of Abram]]
 - Abram returns from Egypt into the Negev, and travels north from it by stages — Genesis 13:1, 3,
   [[Abram and Lot Separate]]
-- Abraham settles between Kadesh and Shur — Genesis 20:1 *(not yet ingested)*
+- Abraham settles between Kadesh and Shur, and sojourns in Gerar — Genesis 20:1,
+  [[Abraham and Abimelech]]
 - Hagar and Ishmael in the wilderness of Beersheba — Genesis 21:14–21 *(not yet ingested)*
 - Isaac's wells and the promise renewed at Beersheba — Genesis 26:23–25 *(not yet ingested)*

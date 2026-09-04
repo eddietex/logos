@@ -11,6 +11,9 @@ tags: [connection]
   do things like that, to kill the righteous with the wicked, so that the righteous should be like
   the wicked. May that be far from you. Shouldn't the Judge of all the earth do right?"* See
   [[The Three Visitors and Abraham's Intercession]].
+- **Genesis 20:4** — Abimelech, two chapters later and from outside the covenant: *"Lord, will you
+  kill even a righteous nation?"* — the same appeal, made by a foreigner about his own kingdom, and
+  conceded in the first clause of the reply. See [[Abraham and Abimelech]].
 - **Exodus 32:9–14** — Moses at Sinai: *"Why should the Egyptians speak, saying, 'He brought them
   out for evil…'? Turn from your fierce wrath"* — and *"Yahweh repented of the evil which he said he
   would do to his people."*
@@ -68,6 +71,29 @@ does not dissolve it.** The two texts are addressed to opposite situations — G
 whether God can be trusted, Ezekiel to a people counting on other people's merit — but they say
 opposite things about the same mechanism, and Ezekiel names Noah as one of the three, which is
 pointed: Noah's righteousness did save his household (Genesis 7:1).
+
+### The one person who is not a prophet, and who wins fastest
+
+**Two chapters after Abraham invents the argument, a Canaanite king uses it and gets his answer in
+one clause.**
+
+> **18:23** *"Will you consume the righteous with the wicked?"*
+>
+> **20:4** *"Lord, will you kill even a righteous nation?"*
+
+Abimelech has had no call, no covenant, and no prior word from God; he is being told in a dream that
+he is a dead man for a marriage he was deceived into. And his reply is the same appeal in the same
+form — *would you really kill the righteous?* — with his own kingdom as the righteous party.
+**Abraham had to work six rounds down from fifty to ten and came away with a conditional. Abimelech
+is conceded in the first word of the response**: *"Yes, I know that in the integrity of your heart
+you have done this"* (20:6).
+
+The comparison cuts two ways and the wiki lets both stand. It suggests that the standard Abraham
+appealed to is genuinely universal — available to anyone, argued successfully by an outsider on his
+own behalf. And it suggests that Genesis 18's long negotiation was hard not because God was
+reluctant but because Sodom's case was bad. **Nobody in Sodom ever made this argument. The first
+person outside the covenant line who does gets it granted immediately.** See
+[[Abraham and Abimelech]].
 
 ### Who does the arguing
 

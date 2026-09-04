@@ -52,8 +52,10 @@ else. See [[The Fall]].
   she arose"*, twice. See [[Lot and His Daughters]].
 - **Genesis 20:1–18** — the same ruse in Gerar, with Abraham's defence: *"she is indeed my sister"*,
   and *"Surely the fear of God is not in this place"*. Abimelech's reply is the one moral vocabulary
-  in the episode: *"In the integrity of my heart and the innocence of my hands I have done this"*
-  *(not yet ingested)*.
+  in the episode: *"In the integrity of my heart and the innocence of my hands I have done this"*.
+  **It is also where Genesis supplies the theme's own definition of the method**: the half was true,
+  and God nonetheless treats what the king believed as false enough to kill him for — *"Behold, you
+  are a dead man … For she is a man's wife"* (20:3). See [[Abraham and Abimelech]].
 - **Genesis 26:6–11** — Isaac does it too, in the same town, and Abimelech catches him at a window.
   The trait is inherited before Jacob is old enough to demonstrate it *(not yet ingested)*.
 - **Genesis 27** — Rebekah and Jacob, goatskins on the arms and Esau's clothes on the back: *"I am
@@ -104,7 +106,11 @@ has become a nation.
   said because nothing is said at all. The wine is administered on two consecutive nights, and the
   narrator records the result twice in almost identical words — *"He didn't know when she lay down,
   nor when she arose"*
-- Genesis 20:1–18; 26:6–11 — the ruse twice more *(not yet ingested)*
+- [[Abraham and Abimelech]] — Genesis 20:1–18, the ruse a second time and the only place Genesis
+  lets the deceived party state the charge and the deceiver answer it. Abraham's three-part reply is
+  the fullest defence of a deception anywhere in the book — a false premise about the place, a true
+  technicality about the kinship, and the admission that it had been standing policy since 12:1
+- Genesis 26:6–11 — the ruse a third time, inherited *(not yet ingested)*
 - Genesis 27:1–45 — the stolen blessing, and the one flat lie in the sequence *(not yet ingested)*
 - Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*
 - Genesis 37:31–33 — the coat, the goat, and the father deceived by his own devices *(not yet
@@ -132,3 +138,5 @@ has become a nation.
 - [[Cain]] — the first to lie to God
 - [[Pharaoh (of Abram's time)]] — the first person deceived by a member of the chosen family, and the
   first to say so
+- [[Abimelech (of Abraham's time)]] — the second, and the only one who gets an answer; he also
+  supplies the theme's one Genesis verdict, *"You have done deeds to me that ought not to be done!"*

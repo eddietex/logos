@@ -47,10 +47,13 @@ side of the sea.
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the road Hagar is on when the angel finds her, and the
   chapter's evidence that she is going back to Egypt
+- [[Abraham and Abimelech]] — Genesis 20:1; the western bearing for where Abraham settles after Sodom
 
 ## Related places
 
 - [[Egypt]] — what lies past it, and what makes it a frontier rather than a place
+- [[Kadesh]] — the oasis that supplies the other half of Genesis 20:1's bearing
+- [[Gerar]] — the town between the two that Abraham actually sojourns in
 - [[The Negev]] — the dry country above it; Abraham lives *"between Kadesh and Shur"* at 20:1
 - [[Beer Lahai Roi]] — the well on this road, named by Hagar and located between Kadesh and Bered
 - [[Canaan]] — the country she is leaving
@@ -58,7 +61,8 @@ side of the sea.
 ## Events here
 
 - Hagar, fleeing toward Egypt, is found at a spring on the way to Shur — Genesis 16:7
-- Abraham settles between Kadesh and Shur and sojourns in Gerar — Genesis 20:1 *(not yet ingested)*
+- Abraham settles between Kadesh and Shur and sojourns in Gerar — Genesis 20:1,
+  [[Abraham and Abimelech]]
 - Ishmael's descendants range from Havilah to Shur — Genesis 25:18 *(not yet ingested)*
 - Israel enters the wilderness of Shur after crossing the sea, and finds no water for three days —
   Exodus 15:22

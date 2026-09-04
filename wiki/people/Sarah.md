@@ -224,9 +224,48 @@ lord."* The words are *waʾdōnî zāqēn*, *my lord being old also*, said insid
 thought that God then questions her about. The wiki records the citation and notes what it is made
 of.
 
+### In this pericope — Genesis 20:1–18
+
+**She is handed over a second time, and she says nothing again.**
+
+The pattern of Egypt repeats exactly: her husband states the relation he wants believed (*"She is my
+sister"*, 20:2), a king sends and takes her, and she is neither asked nor quoted. She is named five
+times in eighteen verses and speaks in none of them. **The one difference is that this time somebody
+addresses her.**
+
+*"To Sarah he said, 'Behold, I have given your brother a thousand pieces of silver. Behold, it is for
+you a covering of the eyes to all that are with you. In front of all you are vindicated'"* (20:16).
+**It is the foreign king who speaks to her, not her husband and not God**, and he uses the word the
+deception ran on — *your brother* — while handing over a sum four times what Abraham will later pay
+for the field and cave of Machpelah (23:16). What *kəsût ʿênayim*, a covering of the eyes, means is
+genuinely unsettled: a public vindication that stops people looking at her sideways, a veil taken
+literally, or compensation before witnesses. **All the readings agree on its direction — it is about
+her standing in front of other people** — and the wiki records the phrase as unresolved.
+
+**And this time the text closes the question chapter 12 left open.** *"Now Abimelech had not come
+near her"* (20:4), and again from God at 20:6: *"Therefore I didn't allow you to touch her."* The
+denial is placed before anything else can happen, in the chapter immediately preceding *"Yahweh
+visited Sarah as he had said"* (21:1) — which is to say that Genesis raises the paternity of Isaac
+and answers it in the same breath.
+
+**Two more things belong to her here.**
+
+- **Her half-sisterhood is stated for the only time in Scripture** (20:12), by her husband, as
+  mitigation. See *Whose daughter she was*, above.
+- **She is the reason a household is struck barren.** *"Yahweh had closed up tight all the wombs of
+  the house of Abimelech, because of Sarah, Abraham's wife"* (20:18) — the same clause that ended the
+  Egyptian episode (*"because of Sarai, Abram's wife"*, 12:17), and the same verb she used of her own
+  case at 16:2: *"Yahweh has restrained me from bearing."* **The woman whose closed womb is the whole
+  problem of the book closes a kingdom's**, and it is opened by her husband's prayer eleven verses
+  before hers is. Genesis does not remark on the arrangement. See [[Barrenness]] and
+  [[Abraham and Abimelech]].
+
+Her age is the chapter's standing difficulty: she is eighty-nine or ninety here, on 17:17 and 21:5,
+and she is taken for her desirability. The text reports both and notices no problem.
+
 ### Where the rest of her is
 
-Ahead, in pericopes not yet ingested: Abimelech (20),
+Ahead, in pericopes not yet ingested:
 the birth of Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah
 (23). She is
 the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
@@ -255,6 +294,13 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
   Genesis 18:6, 9–10, [[The Three Visitors and Abraham's Intercession]]
 - Laughs within herself; is quoted back inaccurately, denies it, and is contradicted — the only time
   in Scripture God speaks to her directly — Genesis 18:12–15
+- Called Abraham's sister a second time, and taken by the king of Gerar — Genesis 20:2,
+  [[Abraham and Abimelech]]
+- Untouched, by God's own statement, and restored with sheep, cattle, and servants — Genesis 20:4, 6,
+  14
+- Addressed by Abimelech, the only person in the chapter who speaks to her, and given a thousand
+  pieces of silver as *a covering of the eyes* — Genesis 20:16
+- Named as the cause of the closed wombs of Abimelech's household — Genesis 20:18
 - Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
 
@@ -273,6 +319,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–15; she bakes the bread and stays
   in the tent, laughs at her own body rather than at the arithmetic, is misquoted, denies it, and is
   contradicted — in the one verse of Scripture where God addresses her
+- [[Abraham and Abimelech]] — Genesis 20:1–18; handed over a second time and silent again, but this
+  time declared untouched before anything else is said, addressed by the king rather than by her
+  husband, and named as the reason a whole household's wombs are shut
 
 ## Related people
 
@@ -283,6 +332,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Lot]] — her nephew by marriage, and the household's only child
 - [[Pharaoh (of Abram's time)]] — who takes her into his house on her husband's word, and gives her
   back
+- [[Abimelech (of Abraham's time)]] — who does the same eight chapters later, is told by God he never
+  touched her, and is the only person in that chapter to speak to her
 - [[Eliezer of Damascus]] — the heir her barrenness would have produced, named and set aside in a
   chapter that never mentions her
 - [[Hagar]] — her slave, whose name she never says; given away as a wife, resented, afflicted, and

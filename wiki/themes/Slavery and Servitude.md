@@ -102,6 +102,11 @@ addressing a slave by name and no one else in the story doing so.
   will make the door by which a purchased foreigner keeps the Passover. Genesis reports the whole of
   it without a word of comment, one chapter after a household solved a theological problem with a
   woman it owned
+- [[Abraham and Abimelech]] — Genesis 20:14, 17, where slaves are again both currency and casualties.
+  *"Male servants and female servants"* are handed over as part of the settlement for a wife, in the
+  same formula as 12:16 — and three verses later the household's *"female servants"* are named among
+  those whose wombs God had shut and then healed. **They are counted in the compensation and counted
+  in the damage, and nobody asks them anything in either place**
 - Genesis 21:9–21 — the same woman expelled, and left free *(not yet ingested)*
 - Genesis 37; 39–41 — Joseph sold, enslaved, imprisoned, and raised to rule the country that bought
   him *(not yet ingested)*

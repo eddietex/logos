@@ -139,6 +139,13 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   answer it with the arrangement Leviticus 18:6–7 puts first on the list of forbidden degrees, in a
   narrative world where that law does not yet exist. Their betrothed died in Sodom (19:14), which is
   what makes the problem real
+- [[Abraham and Abimelech]] — Genesis 20:3, 12, where marriage is what makes the taking fatal and
+  what the husband declines to mention. God's reason for the death sentence is a relation, stated as
+  a bare fact — *"she is a man's wife"* — and the chapter's last verse restores the same relation as
+  the reason for the sanction: *"because of Sarah, Abraham's wife."* **The narrator says it twice at
+  the two rescues (12:17; 20:18) precisely where the husband has suppressed it.** Genesis 20:12 also
+  supplies the one detail the wife-sister episodes turn on — that she is his half-sister, a union
+  Leviticus 18:9 and 20:17 forbid and Deuteronomy 27:22 curses, narrated here without comment
 
 ## Related themes
 

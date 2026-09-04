@@ -103,6 +103,12 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[The Covenant Between the Pieces]] — Genesis 15:1 and 15:12: the Bible's first *"Don't be
   afraid"*, and eleven verses later *"terror and great darkness"* falling on the man it was said to.
   The two halves of *yārēʾ* in one chapter, with no attempt to reconcile them
+- [[Abraham and Abimelech]] — Genesis 20:11, where the assumption is finally said out loud —
+  *"Surely the fear of God is not in this place"* — **inside the very pericope that refutes it**. The
+  king of Gerar addresses God as *ʾĂdōnāy*, argues from righteousness, is credited by God with
+  integrity of heart, and tells his whole household at dawn — *"The men were very scared"*
+  (20:8). Abraham is the only person in the chapter whose conduct the fear of God does not visibly
+  govern, and he is the one who raises the subject
 - [[Bildad's Second Speech]] — the exact inverse of 1:1, delivered as a verdict: *"This is the
   place of him who doesn't know God"* (18:21), spoken in a room containing one candidate and the
   wrong one
@@ -129,3 +135,5 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[Abraham]] — who assumes its absence in two foreign kings, and acts on the assumption
 - [[Pharaoh (of Abram's time)]] — the first of the two kings, and the first to prove the assumption
   wrong
+- [[Abimelech (of Abraham's time)]] — the second, and the one against whom the assumption is stated
+  in so many words while the chapter shows him doing the opposite

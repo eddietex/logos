@@ -351,10 +351,54 @@ What happened is that the righteous was taken out of it, on his account. The wik
 chapter supports reading this as a failed intercession and as one answered past its terms, and
 settles neither. See [[The Destruction of Sodom and Gomorrah]].
 
+### In this pericope — Genesis 20:1–18
+
+**He does it again, and this time he is made to explain himself.**
+
+Eight chapters after Egypt he says the same sentence about the same woman to a second king —
+*"Abraham said about Sarah his wife, 'She is my sister'"* (20:2) — with no famine behind it and no
+stated pressure of any kind. Nothing in the chapter suggests he has learned anything from 12:10–20,
+and 20:13 turns out to say that there was nothing to learn: it was arranged before the journey
+started. See [[The Wife-Sister Episodes]].
+
+**God calls him a prophet, and it is the first time the word occurs in the Bible.** *"For he is a
+prophet, and he will pray for you, and you will live"* (20:7) — *nābîʾ*, said about him rather than
+to him, to a foreign king, in the chapter where he behaves worst. **And the definition attached to
+it is intercession, not prediction.** The verb *hitpallēl*, to pray, also enters Scripture in that
+sentence, and again at 20:17 when he does it: **the Bible's first prayer is prayed by the man who
+caused the injury, for the man he injured, and it works.** See
+[[A Prophet Who Prays - The First Nabi in Scripture]].
+
+**God does not speak to him in this chapter at all.** As in Genesis 16, the only divine speech in the
+pericope goes to somebody else — there a runaway slave, here a Canaanite king — and Abraham learns
+what happened by being summoned and told off.
+
+**His defence is the longest speech he makes to a human being in Genesis so far, and it has three
+parts.**
+
+- *"Surely the fear of God is not in this place. They will kill me for my wife's sake"* (20:11) —
+  **a judgment about Gerar that the chapter has already refuted**, in a pericope where the local king
+  argues theology with God and the household is *"very scared"* at a divine word. Nobody tried to
+  kill him in Egypt either. See [[The Fear of God]].
+- *"she is indeed my sister, the daughter of my father, but not the daughter of my mother"*
+  (20:12) — **the only verse in Scripture that identifies [[Sarah]]'s parentage**, and the true half
+  of the half-truth. Genesis 11:29 had conspicuously withheld it.
+- *"When God caused me to wander from my father's house … Everywhere that we go, say of me, 'He is
+  my brother'"* (20:13) — **the ruse admitted as standing policy from the day of the call**, and the
+  call itself described with *tāʿâ*, the verb for straying sheep and people led astray. It is the
+  least flattering account of Genesis 12:1 in the Bible and it is on his own lips.
+
+**He answers none of it as a wrong.** Abimelech's *"You have done deeds to me that ought not to be
+done!"* (20:9) is the only verdict in the pericope, and Abraham's reply is an explanation. He then
+takes sheep, cattle, and slaves from the man he defrauded, is offered the run of his country, and
+leaves richer — six chapters after refusing to take a thread or a sandal strap from the king of Sodom
+so that nobody could say they had made him rich (14:22–23). Genesis sets the two scenes down and says
+nothing. See [[Not a Thread nor a Sandal Strap]] and [[Abraham and Abimelech]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: the ruse repeated at
-Gerar (20), the birth of Isaac (21), the binding (22), and his death
+Almost everything the Bible says about Abraham is still ahead of this page: the birth of Isaac (21),
+the treaty at Beersheba (21:22–34), the binding (22), and his death
 and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
 out *"not knowing where he went"* (Hebrews 11:8), and for a promise that always had the nations in
@@ -426,6 +470,15 @@ it (Galatians 3:8). This page grows as those arrive.
 - Returns at dawn to the ridge where he had stood, sees the smoke of the plain, and is told nothing —
   Genesis 19:27–28, [[The Destruction of Sodom and Gomorrah]]
 - Named as the reason Lot survives: *"God remembered Abraham"* — Genesis 19:29
+- Settles between Kadesh and Shur and sojourns in Gerar, where he calls Sarah his sister a second
+  time — Genesis 20:1–2, [[Abraham and Abimelech]]
+- Called *a prophet* by God, the first occurrence of the word in Scripture, in a speech to the king
+  who took his wife — Genesis 20:7
+- Interrogated by Abimelech, and gives the three-part defence that dates the ruse to the call itself
+  — Genesis 20:9–13
+- Takes livestock and slaves from the man he deceived, and is offered the run of his land — Genesis
+  20:14–15
+- Prays — the Bible's first use of the verb — and Abimelech's household is healed — Genesis 20:17
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -451,6 +504,9 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:27–29; off-stage for the whole catastrophe,
   back on his ridge at dawn to look at smoke, told nothing, and named in the summary verse as the
   reason anyone came out alive
+- [[Abraham and Abimelech]] — Genesis 20:1–18; the ruse a second time, in a place he wrongly judges
+  godless; called *a prophet* for the first time in Scripture, rebuked by the king he deceived,
+  paid by him anyway, and then praying the Bible's first prayer on his behalf
 
 ## Related people
 
@@ -467,6 +523,8 @@ it (Galatians 3:8). This page grows as those arrive.
   without a word at 12:17
 - [[Pharaoh (of Abram's time)]] — the first person he deceives, and the first to put a moral question
   to him
+- [[Abimelech (of Abraham's time)]] — the second, who unlike the first gets an answer, and who pays
+  him a thousand pieces of silver for the privilege of rebuking him
 - [[Melchizedek]] — the priest-king who blesses him, and the first person in Scripture he gives
   anything to
 - [[Bera]] — the king of Sodom, whose money he refuses under oath

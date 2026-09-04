@@ -346,9 +346,9 @@ years he is, as far as Abram knows, the son.
   refuses to answer.
 - [[Beer Lahai Roi]] — the well she names, between Kadesh and Bered, and Isaac's address for the rest
   of his life.
-- **Kadesh** and **Bered** — the two markers locating the well. Kadesh is the oasis already named at
-  14:7 as *En Mishpat*, and it earns its own page when Numbers 13 does something with it; Bered
-  occurs nowhere else in the Bible and is unidentified.
+- [[Kadesh]] and **Bered** — the two markers locating the well. Kadesh is the oasis already named at
+  14:7 as *En Mishpat*, and it took its own page when Genesis 20:1 used it a third time; Bered occurs
+  nowhere else in the Bible and is unidentified.
 
 ## Themes
 

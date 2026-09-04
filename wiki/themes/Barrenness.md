@@ -96,6 +96,13 @@ the women than the frame they are written in.
   Then the promise is repeated with its date (*"at the set time … when the season comes round"*),
   Sarah laughs at her own body rather than at the arithmetic, and the answer is not an argument but a
   question about God: *"Is anything too hard for Yahweh?"* See [[Is Anything Too Hard for Yahweh]]
+- [[Abraham and Abimelech]] — Genesis 20:17–18, the theme turned outward and used as a sanction:
+  *"Yahweh had closed up tight all the wombs of the house of Abimelech, because of Sarah, Abraham's
+  wife."* **The one woman in Genesis whose closed womb is the book's standing problem is the reason a
+  whole kingdom's are closed**, and they are opened by her husband's prayer eleven verses before
+  hers is opened at 21:1–2. The verb is the one Sarai used of herself at 16:2 (*ʿāṣar*, to restrain
+  or shut up), here in an infinitive-absolute doubling — *shut, and shut hard*. Genesis sets the two
+  events side by side and does not comment
 - Genesis 21:1–7 — the birth *(not yet ingested)*
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
@@ -127,3 +134,5 @@ the women than the frame they are written in.
 - [[Ishmael]] — the child the human solution produces
 - [[Eliezer of Damascus]] — the heir barrenness produces, and whom Genesis 15:4 removes
 - [[Terah]] — in whose household the sentence is first recorded
+- [[Abimelech (of Abraham's time)]] — whose household is struck with it on Sarah's account, and
+  healed of it by Abraham's prayer

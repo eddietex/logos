@@ -234,6 +234,13 @@ rule are the conditions the rest of Scripture is set in.
   immediately after twenty-nine that had Yahweh in almost every one. What the rescued household does
   in the country the fire left behind is reported and not judged — which is its own statement about
   what judgment does and does not accomplish
+- [[Abraham and Abimelech]] — Genesis 20:3–7, the shortest judgment scene in Genesis and the only one
+  the defendant argues his way out of. The sentence is passed in the first sentence spoken —
+  *"Behold, you are a dead man"* — a plea of innocence is entered, conceded, and the sentence
+  converted into a condition (*"restore the man's wife … and you will live"*). **The chapter after
+  the fire falls on a city that never argued shows a king who does, and it takes him one exchange.**
+  The sanction meanwhile is neither fire nor plague but withheld fertility, disclosed only in the
+  last verse, and lifted by prayer
 ## Related themes
 
 - [[Covenant]] — what God binds himself with, first spoken inside a sentence of universal death

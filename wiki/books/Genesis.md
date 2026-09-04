@@ -107,7 +107,24 @@ even fratricidal betrayal into rescue (Joseph).
   twice — so that the last thing the Sodom cycle produces is [[Moab (person)]] and [[Ben Ammi]], the
   fathers of the two nations Israel will fight for six hundred years and marry into twice. God is
   not named once in the passage, nobody is graded, and Lot leaves the Bible's narrative asleep and
-  without a death notice.
+  without a death notice. Then [[Abraham and Abimelech]] moves the camera back to the patriarch and
+  catches him doing the thing he did in chapter 12 all over again, one chapter before the son
+  arrives: *"She is my sister"*, a second king, a second taking. What is new is everything Egypt
+  omitted. God comes to the king of Gerar in the first dream in Scripture and tells him he is a dead
+  man; the king argues back in Abraham's own words from 18:23 — *"will you kill even a righteous
+  nation?"* — and is conceded in the first clause of the reply, where Abraham had needed six rounds
+  for a conditional; the text states outright that the marriage was never consummated, which is the
+  answer to a paternity question the next chapter would otherwise raise. Then God calls Abraham
+  *a prophet*, the first *nābîʾ* in the Bible, and defines the office not by prediction but by
+  intercession — *"he will pray for you, and you will live"* — and the Bible's first prayer, by its
+  first use of the verb, is prayed by the deceiver for the man he deceived, and opens the wombs God
+  had closed in Gerar eleven verses before Sarah's own is opened. Abraham's defence, when the king
+  finally extracts it, is three parts and each is worse than the last: a judgment about the place
+  that the chapter has already refuted, a technicality that is nonetheless true, and the admission
+  that the ruse has been standing policy since the day he was called — which he describes, in the
+  book's least flattering phrase for its own founding event, as the day *"God caused me to wander
+  from my father's house"*. The foreigner ends the chapter having paid a thousand pieces of silver,
+  offered the run of his country, and pronounced the pericope's only verdict.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -146,7 +163,7 @@ merge, or reorder them freely.
 - [x] [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33
 - [x] [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29
 - [x] [[Lot and His Daughters]] — Genesis 19:30–38
-- [ ] Abraham and Abimelech — Genesis 20:1–18
+- [x] [[Abraham and Abimelech]] — Genesis 20:1–18
 - [ ] The Birth of Isaac and the Sending of Hagar — Genesis 21:1–21
 - [ ] The Treaty at Beersheba — Genesis 21:22–34
 - [ ] The Binding of Isaac — Genesis 22:1–19
@@ -254,6 +271,7 @@ merge, or reorder them freely.
 - [[Lot's Daughters]]
 - [[Moab (person)]]
 - [[Ben Ammi]]
+- [[Abimelech (of Abraham's time)]]
 
 ## Key places
 
@@ -284,3 +302,5 @@ merge, or reorder them freely.
 - [[The Salt Sea]]
 - [[Moab (place)]]
 - [[Ammon]]
+- [[Gerar]]
+- [[Kadesh]]

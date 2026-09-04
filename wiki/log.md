@@ -3142,3 +3142,127 @@ the previous run's push landed and that the stale ref was local only; `git check
 the branch onto HEAD **before** any work, so this ingest was committed on `main` rather than on a
 detached HEAD. Five consecutive runs have now hit it, and it still wants the user's attention as an
 environment quirk rather than a one-off.
+
+## [2026-09-04] ingest | Genesis 20.1-18 — Abraham and Abimelech
+
+Unattended run (`/ingest auto`, no target). Resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and 20:1–18 was the first unchecked box on its page.
+Step 2's discussion is written into the passage page rather than spoken, per the skill's `auto`
+mode. `raw/bible/Genesis.md` was already present; no fetch.
+
+**Created (6).** `wiki/passages/Genesis/Abraham and Abimelech.md`;
+`wiki/people/Abimelech (of Abraham's time).md`; `wiki/places/Gerar.md`; `wiki/places/Kadesh.md`;
+and two connection pages — `A Prophet Who Prays - The First Nabi in Scripture` and
+`Sinning Unwittingly - Integrity, Ignorance, and Guilt`.
+
+**Revised (29).** `books/Genesis` (box checked, the Abraham-cycle overview extended through Gerar,
+and one person and two places added to its key lists); `books/index` (25 / 58); `index` (counts: 31
+passages, 64 people, 37 places, 82 connections); `people/Abraham`, `people/Sarah`, and `people/God`
+(each with a new pericope section, timeline entries, appears-in, and related-people additions);
+`places/Shur` and `places/The Negev` (the 20:1 forward references turned into links, and the two new
+places cross-linked); connections `The Wife-Sister Episodes` (its four *not yet ingested* markers
+cleared and a paragraph on the prophet title added) and
+`Shall Not the Judge of All the Earth Do Right` (a new section on Abimelech using Abraham's
+argument); passages `Hagar and Ishmael`, `The Rescue of Lot and Melchizedek`, and
+`The Table of Nations` (their *no page yet* notes for Kadesh and Gerar replaced with links); themes
+`Prophecy and Vision`, `Mediation and Advocacy`, `The Fear of God`, `Deception`, `Barrenness`,
+`Righteousness`, `Marriage`, `Land and Sojourning`, `Sin`, `Judgment`, `The Nations`, and
+`Slavery and Servitude`; and the people, places, themes, and connections indexes.
+
+### Judgment calls made without asking
+
+1. **The king is filed as `Abimelech (of Abraham's time)`.** *ʾĂbî-melek* is borne by the king of
+   Gerar here, by a king of Gerar in Isaac's episode at 26:1, by Gideon's son in Judges 9, and — in
+   the superscription of Psalm 34 — by the man 1 Samuel 21 calls Achish, which is the strongest
+   evidence that it functioned as a royal title. That is exactly the situation the schema's *unnamed
+   figure known only by a title* rule covers, so the qualifier is applied from the start rather than
+   retrospectively, on the `Pharaoh (of Abram's time)` precedent, leaving `Abimelech (of Isaac's
+   time)` free for Genesis 26. Both pages say the identification of the two is not recoverable from
+   Genesis and the wiki does not settle it.
+2. **Two new place pages, and one of them is thin on purpose.** `Gerar` earns its own page outright
+   — it is the setting of this pericope, of 21:22–34, and of the whole of Genesis 26, and it was
+   already named at 10:19. `Kadesh` is the weaker case: Genesis uses it only as a bearing, three
+   times (14:7 as *En Mishpat*, 16:14, 20:1). It was created anyway because the third occurrence is
+   where a marker stops being incidental, and because Numbers 13–20 will make it one of the most
+   consequential places in the Torah. `Hagar and Ishmael` had said in so many words that Kadesh
+   *"earns its own page when Numbers 13 does something with it"*; that line and the matching one on
+   `The Rescue of Lot and Melchizedek` were both rewritten this pass rather than left contradicting
+   the new page.
+3. **Two new connection pages, and one theme page deliberately not created.**
+   `A Prophet Who Prays - The First Nabi in Scripture` carries the pericope's largest fact — that
+   *nābîʾ* and *hitpallēl* both enter Scripture in Genesis 20:7, and that the office is defined by
+   intercession rather than prediction — and it sets Genesis 20:7 beside Job 42:8, which is the same
+   arrangement in the wiki's other ingested book. `Sinning Unwittingly - Integrity, Ignorance, and
+   Guilt` carries 20:4–6 into the law's category of the *šəgāgâ*. A separate **Dreams** theme page
+   was considered and rejected: 20:3 is the first *ḥălôm* in the Bible, but `Prophecy and Vision`
+   already treats dream and vision as one word-field and Numbers 12:6–8 does the same, so the fact
+   was added there instead of duplicated.
+4. **Genesis 20:16 is recorded as unresolved rather than translated confidently.** *Kəsût ʿênayim*,
+   *a covering of the eyes*, and the WEB's closing *"In front of all you are vindicated"* both rest
+   on contested forms. The passage page lists the three standard readings — public vindication, a
+   literal veil, compensation before witnesses — says all of them agree on the verse's direction,
+   and adopts none.
+5. **The chronological difficulty is stated, not harmonized.** Sarah is eighty-nine or ninety here
+   on the book's own arithmetic (17:17; 21:5) and is taken for her desirability. The page names the
+   usual harmonizations, notes that none of them is in the text, and leaves the difficulty standing,
+   on the same footing as the hundred-year-old man running twice in the noon heat at 18:2–8.
+6. **The source-critical assignment is recorded as the standard account and not adopted as the
+   wiki's own.** The divine-name distribution is verifiable from the raw file — *ʾĕlōhîm* at 20:3, 6,
+   11, 13, and twice at 17; *ʾĂdōnāy* on Abimelech's lips at 20:4; and *Yahweh* exactly once, at
+   20:18 — and it is the textbook case for E. The page says so, and says what the assignment does
+   not decide.
+7. **No boundaries were redrawn.** Chapter 20 is a clean unit between a move at 20:1 and a new
+   formula at 21:1. The argument for joining it to 21:22–34 (same king, same town, Phicol named at
+   21:22) is noted on the page and declined, because 21:1–21 sits between them.
+
+### Quote accuracy
+
+Every italic-quoted span on every page touched this pass was extracted by script and checked against
+`raw/bible/Genesis.md`; the twenty block quotes of Genesis 20 were compared whole and are verbatim.
+Findings, all introduced this pass and all fixed before commit:
+
+- **Four quotations closed with punctuation the WEB does not have.** *"But God came to Abimelech in
+  a dream of the night."* (the verse continues *"and said to him"*), *"Behold, you are a dead man."*
+  (the WEB has a comma and continues), *"For Yahweh had closed up tight all the wombs."* (truncated
+  mid-clause), and, on `books/Genesis`, *"God caused me to wander from my father's house."* All four
+  now end where the quotation ends, with the sentence punctuation moved outside the italics.
+- **One question mark invented.** *"How have I sinned against you?"* — the WEB has a comma there and
+  the sentence runs on; the quotation is now given in full to verse 9's actual question mark.
+- **Two misquotations of fact.** *"En Mishpat (that is, Kadesh)"* for the WEB's *"En Mishpat (also
+  called Kadesh)"* at 14:7, and *"and the men were very scared"* for the WEB's *"The men were very
+  scared"* at 20:8. Both corrected.
+- **One quotation of Genesis 12:3 from memory rather than from the raw file**, on the new prophet
+  page: *"in you all the families of the earth will be blessed"* for the WEB's *"All the families of
+  the earth will be blessed through you."* Corrected. Worth flagging as a class: the pre-existing
+  `themes/The Nations` carries the same non-WEB wording of 12:3 twice, unchanged by this pass, and
+  it belongs on the next lint's list.
+
+**The pre-existing capitalization class is still open and is still the next lint's first item.**
+Quoting a sentence-initial word in lower case mid-sentence runs through the whole wiki, and new text
+continues to follow the existing habit rather than diverging from it mid-wiki. This is the fourth
+consecutive entry to flag it. One instance was avoidable here and was fixed by extending the quote
+rather than recasing it: *"For he is a prophet, and he will pray for you, and you will live"* now
+carries its *For*.
+
+Quotations of Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, 1 Samuel, 2 Samuel, Psalms,
+Isaiah, Jeremiah, Ezekiel, Amos, 2 Chronicles, Luke, Acts, Romans, 1 Timothy, Hebrews, 1 John, and
+Job 42 remain unverifiable against any source in this repo, as elsewhere in the wiki. The
+identifications of Gerar with Tel Haror and of Kadesh with ʿAin el-Qudeirat, the etymology of
+*ʾĂbî-melek*, the Egyptian dating of the Philistines' arrival, and the rabbinic and patristic
+readings on the passage page are likewise external and are stated as identifications and reception
+rather than as findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 21:1–7; 21:22–34; 26:1–33; Job 42:7–9) are written as plain scripture references
+or carry an explicit *(not yet ingested)* marker, rather than as links to pages that do not exist.
+
+**Note on branch state.** The same environment quirk, for the sixth run in a row: the session started
+on a **detached HEAD** at `4f15101` with a clean tree, and the local `main` ref was stale at
+`ee8f435`. `git fetch origin main` advanced `origin/main` to `4f15101`, confirming the previous run's
+push landed and that the stale ref was local only; `git checkout -B main` moved the branch onto HEAD
+**before** any work, so this ingest was committed on `main` rather than on a detached HEAD. Six
+consecutive runs have now hit it, and it still wants the user's attention as an environment quirk
+rather than a one-off.

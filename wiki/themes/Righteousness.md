@@ -127,6 +127,13 @@ about.
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:19, 23–33: *righteousness and
   justice* in its first occurrence, given as the content of election, and then *ṣaddîq* counted
   seven times in an argument about whether a few of them can hold up a city
+- [[Abraham and Abimelech]] — Genesis 20:4–6, where the word is claimed by an outsider and not taken
+  away from him. *"Lord, will you kill even a righteous nation?"* is **the only place in Genesis a
+  people outside the covenant line is called *ṣaddîq***, it is said by that people about itself, and
+  the reply concedes the substance of it in its first word: *"Yes, I know that in the integrity of
+  your heart you have done this."* Two chapters after a city could not produce ten righteous, a
+  kingdom asserts the status and keeps it — and the man who has it credited to him at 15:6 is the one
+  being rebuked
 - [[Blameless Before Anyone Is Watching]] — Genesis 6:9 and Job 1:1 side by side, and what the
   verdict buys in each book
 - [[Eliphaz's Second Speech]] — Job 15:14, *"What is he who is born of a woman, that he should be
@@ -168,3 +175,5 @@ about.
 - [[Abraham]] — the second person in Scripture given the standing, and the only one given it for
   believing something; and at 18:25 the first to hold God to it
 - [[Lot]] — whom Genesis grades nowhere and 2 Peter 2:7 calls righteous three times in two verses
+- [[Abimelech (of Abraham's time)]] — who calls his own nation righteous to God's face, pleads
+  integrity of heart and innocence of hands, and is told the plea is true

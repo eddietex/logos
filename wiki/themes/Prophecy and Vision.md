@@ -40,10 +40,13 @@ happens.
 
 - **Genesis 15:1–16** — the formula's first occurrence, the first *maḥăzeh*, and the first predictive
   oracle in the Bible. See [[The Covenant Between the Pieces]].
-- **Genesis 20:7** — *nābîʾ*'s first occurrence in Scripture, of Abraham, spoken by God to Abimelech,
-  and defined by prayer rather than by speech.
+- **Genesis 20:3, 7** — two firsts in one pericope: *ḥălôm*, **dream**, occurs here for the first time
+  in the Bible, and it is given to a Canaanite king rather than to a patriarch; and *nābîʾ* occurs
+  for the first time four verses later, of Abraham, spoken by God to that same king, and **defined by
+  prayer rather than by speech**. See [[Abraham and Abimelech]].
 - **Genesis 37; 40–41** — dreams as revelation, read by Joseph, given to a foreign king and his
-  servants. Revelation in Genesis reaches outsiders as readily as insiders.
+  servants. Revelation in Genesis reaches outsiders as readily as insiders — the pattern Genesis 20:3
+  opens.
 - **Numbers 12:6–8** — the Torah's own taxonomy: to a prophet God makes himself known *"in a vision"*
   and speaks *"in a dream"*, but with Moses *"mouth to mouth, even plainly, and not in riddles."*
   Genesis 15:1's *maḥăzeh* is the lower of the two registers, and the same rare word recurs in
@@ -104,6 +107,12 @@ happens.
   disclosure — intercede — is what Genesis 20:7 will define *nābîʾ* by, two chapters later, in the
   Bible's first use of the noun. The annunciation of 17:19, 21 is also repeated here (18:10, 14) with
   its date intact, this time within the mother's hearing
+- [[Abraham and Abimelech]] — Genesis 20:3, 7, 17: **the word *nābîʾ* and the word *ḥălôm* both enter
+  Scripture here**, in the same eighteen verses, and neither of them is about foretelling. The dream
+  is a full two-way conversation with an outsider; the title is conferred on a man in the middle of
+  his worst behaviour; and the office is glossed on the spot as prayer that works — *"he is a
+  prophet, and he will pray for you, and you will live"* — and then demonstrated at 20:17. See
+  [[A Prophet Who Prays - The First Nabi in Scripture]]
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, a human being pronouncing an oracle over
   the future of three peoples, with no claim that God said it
 
@@ -123,5 +132,7 @@ happens.
 - [[God]] — who speaks, and who in Genesis 15 supplies a ceremony because the word alone was asked to
   prove itself
 - [[Abraham]] — the first recipient of the prophetic formula and the Bible's first named prophet
+- [[Abimelech (of Abraham's time)]] — the first person in Scripture to receive a dream, and the one
+  God tells what a prophet is for
 - [[Noah]] — who receives detailed instructions and an announcement of the future and is never called
   a prophet

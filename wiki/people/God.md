@@ -538,6 +538,39 @@ and even that is on the lips of a figure the chapter has been calling one of *"t
   acts on account of the intercessor, and never tells him. See [[Remembrance]] and
   [[The Destruction of Sodom and Gomorrah]].
 
+### He speaks to a foreigner in a dream, and calls a liar a prophet — Genesis 20:1–18
+
+**He is *ʾĕlōhîm* for seventeen verses and *Yahweh* in the last one, and he does not address the
+patriarch once.**
+
+- **He comes in a dream, and it is the first in the Bible.** *"But God came to Abimelech in a dream
+  of the night"* (20:3) — *ḥălôm*'s first occurrence in Scripture, and the medium of most of his
+  communication with outsiders from here on: Laban (31:24), Pharaoh's officials and Pharaoh himself
+  (40–41), and Nebuchadnezzar. Nothing in the chapter treats it as a lesser channel. It is a
+  two-sided conversation, with a plea and a reply.
+- **He opens with a death sentence and lets it be argued down in one exchange.** *"Behold, you are a
+  dead man"* (20:3), and then, to the first plea of innocence in the Bible, *"Yes, I know that in the
+  integrity of your heart you have done this"* (20:6). **Abraham had needed six rounds at 18:23–33 to
+  get a conditional; a Canaanite king gets his concession in the opening clause.** See
+  [[Shall Not the Judge of All the Earth Do Right]].
+- **He claims the prevention as his own.** *"I also withheld you from sinning against me. Therefore I
+  didn't allow you to touch her."* The innocence is real and it is not the man's achievement — and
+  the offence, had it happened, would have been against God rather than against the husband. See
+  [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]].
+- **He confers the Bible's first prophetic title, on the man who caused the problem.** *"For he is a
+  prophet, and he will pray for you, and you will live"* (20:7). *Nābîʾ* enters Scripture here, the
+  verb *hitpallēl* with it, and the office is defined by intercession rather than prediction. He then
+  makes the king's survival depend on the deceiver's prayer, and accepts it: *"Abraham prayed to God.
+  God healed Abimelech"* (20:17). See [[A Prophet Who Prays - The First Nabi in Scripture]].
+- **He says nothing at all to Abraham.** Not a rebuke, not a warning, not a qualification of the
+  promise. As in Genesis 16, the only divine speech in the pericope goes to somebody outside the
+  covenant.
+- **And he is *Yahweh* only once, in a flashback the narrator saves for the last verse.** *"For
+  Yahweh had closed up tight all the wombs of the house of Abimelech, because of Sarah, Abraham's
+  wife"* (20:18) — the same construction, and the same reason, as *"because of Sarai, Abram's wife"*
+  at 12:17. In both rescues he acts on a relationship the husband had suppressed, and in neither is
+  he asked to. See [[Abraham and Abimelech]] and [[The Names of God]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -663,6 +696,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   says he can do nothing until the man is under shelter, is named twice in the same clause, and in
   the last verse remembers somebody who is forty miles away and never finds out —
   [[The Destruction of Sodom and Gomorrah]]
+- Comes to a Canaanite king in the first dream in Scripture, sentences him to death, concedes his
+  innocence in the first clause of the reply, claims the man's restraint as his own doing, calls the
+  patriarch who deceived him *a prophet* — the word's first occurrence — and makes the king's life
+  depend on that man's prayer, which he then accepts — [[Abraham and Abimelech]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -734,6 +771,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Destruction of Sodom and Gomorrah]] — he acts almost entirely through two agents, is quoted
   once, is *"merciful"* to a man who will not move, says he can do nothing until that man is under
   shelter, is named twice in one clause at 19:24, and closes the chapter by remembering Abraham
+- [[Abraham and Abimelech]] — *ʾĕlōhîm* for seventeen verses and *Yahweh* for one. He speaks only to
+  the outsider, and only in a dream; he issues the bluntest sentence in Genesis and withdraws it in
+  a single exchange; he takes credit for the innocence he is conceding; he names the prophetic office
+  for the first time in Scripture and defines it by prayer; and he closes wombs, and opens them, on
+  account of a woman nobody in the chapter consults
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

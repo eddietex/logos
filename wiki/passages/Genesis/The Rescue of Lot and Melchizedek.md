@@ -375,11 +375,13 @@ chapter's readers pass over.
 - **The valley of Shaveh, the King's Valley** — the meeting place of 14:17, glossed by the narrator.
   Absalom raises his pillar in a *King's Valley* at 2 Samuel 18:18, near Jerusalem, which fits the
   Salem identification. No page yet.
-- **Ashteroth Karnaim, Ham, Shaveh Kiriathaim, Mount Seir, El Paran, En Mishpat (Kadesh), Hazazon
-  Tamar, Hobah, Bela/Zoar, Admah, Zeboiim, Ellasar, Goiim** — the campaign itinerary and the rest of
-  the king list. Named in plain text rather than linked, and each earns a page when it does work of
-  its own: Kadesh at Numbers 13, Seir with Esau at Genesis 32, Zoar at Genesis 19:18–23, Admah and
-  Zeboiim in Deuteronomy 29:23 and Hosea 11:8.
+- [[Kadesh]] — named here as *En Mishpat*, the spring of judgment, on the coalition's turn back north.
+  It took its own page at Genesis 20:1, where Abraham settles *"between Kadesh and Shur"*.
+- **Ashteroth Karnaim, Ham, Shaveh Kiriathaim, Mount Seir, El Paran, Hazazon Tamar, Hobah,
+  Bela/Zoar, Admah, Zeboiim, Ellasar, Goiim** — the campaign itinerary and the rest of the king list.
+  Named in plain text rather than linked, and each earns a page when it does work of its own: Seir
+  with Esau at Genesis 32, Zoar at Genesis 19:18–23, Admah and Zeboiim in Deuteronomy 29:23 and
+  Hosea 11:8.
 
 ## Themes
 
