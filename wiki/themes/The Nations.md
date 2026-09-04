@@ -140,6 +140,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   takes the form of a foreign household's wombs being opened**. The pattern of [[Abram in Egypt]] is
   confirmed rather than reversed: the outsider is again the one with the moral vocabulary, and again
   the one God speaks to
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:13, 18, 20–21, **a nation founded in
+  a desert by a slave**. Ishmael is promised the *gôy gādôl* of 12:2, God is *with* him before he is
+  said to be with anyone in the covenant line, and his line begins with an Egyptian mother and an
+  Egyptian wife his mother fetches for him. Genesis gives the non-covenant nations more than the
+  arguments later built on them do, and this is the clearest case
 
 ## Related themes
 

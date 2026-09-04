@@ -3266,3 +3266,135 @@ push landed and that the stale ref was local only; `git checkout -B main` moved 
 **before** any work, so this ingest was committed on `main` rather than on a detached HEAD. Six
 consecutive runs have now hit it, and it still wants the user's attention as an environment quirk
 rather than a one-off.
+
+## [2026-09-04] ingest | Genesis 21.1-21 — The Birth of Isaac and the Sending of Hagar
+
+Unattended run (`/ingest auto`, no target). Resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and 21:1–21 was the first unchecked box on its page.
+Step 2's discussion is written into the passage page rather than spoken, per the skill's `auto`
+mode. `raw/bible/Genesis.md` was already present; no fetch.
+
+**Created (5).** `wiki/passages/Genesis/The Birth of Isaac and the Sending of Hagar.md`;
+`wiki/places/Beersheba.md`; `wiki/places/Paran.md`; and two connection pages —
+`Yahweh Visited Sarah - Paqad and the Visitations of God` and
+`Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac`.
+
+**Revised (30).** `books/Genesis` (box checked, the Abraham-cycle overview extended through 21:21,
+and two places added to its key list); `books/index` (26 / 58); `index` (counts: 32 passages, 39
+places, 84 connections); `people/Isaac`, `people/Sarah`, `people/Hagar`, `people/Ishmael`,
+`people/Abraham`, `people/God`, and `people/The Angel of Yahweh` (each with a new pericope section,
+timeline entries, and appears-in additions; the angel's new section was written and then moved so
+that the page's sections stay in canonical order); `places/Egypt`, `places/Beer Lahai Roi`,
+`places/The Negev` (its 21:14–21 forward reference turned into links), and
+`passages/Genesis/The Rescue of Lot and Melchizedek` (its plain-text *El Paran* promoted to a link
+now that the place has a page); connections `The Two Flights of Hagar`,
+`Laughter and the Name Isaac`, `Hagar and Sarah in Galatians`, and
+`Listening to the Voice - Genesis 3 and Genesis 16` (each now links the passage page from the
+Genesis 21 bullet it already carried); themes `Barrenness`, `Covenant`, `Call and Election`,
+`Circumcision`, `Slavery and Servitude`, `Seeing and Being Seen`, `Blessing`, `Faith`,
+`The Nations`, `Land and Sojourning`, `Life and Death`, `Marriage`, `Prophecy and Vision`, and
+`Remembrance`; and the people, places, themes, and connections indexes.
+
+### Judgment calls made without asking
+
+1. **The pericope was kept whole at 21:1–21 rather than split at 21:8.** There is a real seam there
+   — verses 1–7 are a birth notice and 8–21 an expulsion, with different casts — and a defensible
+   plan would separate them. It was kept together because the second half is caused by the first
+   (the feast is Isaac's, the demand is about Isaac's inheritance, and the participle that triggers
+   it is Isaac's name in the intensive), and because 21:22 begins something genuinely separate. The
+   alternative is stated on the passage page rather than hidden. **No unchecked boxes were redrawn.**
+2. **No new person page was created.** Ishmael's Egyptian wife (21:21) is unnamed, has no act, and
+   is not referred to again; she is recorded on `people/Hagar`, `people/Ishmael`, and `places/Egypt`
+   rather than given a page, on the same footing as the Egyptian midwives and other unnamed
+   one-clause figures ahead. No new *theme* page either: a **Laughter** page was considered and
+   rejected, because `Laughter and the Name Isaac` already carries the whole *ṣ-ḥ-q* thread and a
+   theme page would duplicate it verse for verse.
+3. **Two new place pages.** `Beersheba` is created here even though the place is not *named* until
+   21:31, because 21:14 uses the name (*"the wilderness of Beersheba"*) exactly as 14:14 uses *Dan*
+   — the narrator's later name for the country — and because Beersheba is one of the most heavily
+   used places in the rest of Genesis. `Paran` is the weaker case at first sight, since Genesis uses
+   it twice; it was created because the second use (21:21) is a permanent address rather than a
+   bearing, because Numbers 10–13 makes it the wilderness generation's country, and because 14:6's
+   *El Paran* had been sitting in the plain-text overflow list on
+   `The Rescue of Lot and Melchizedek` waiting for exactly this. That line was rewritten this pass
+   rather than left contradicting the new page.
+4. **Two new connection pages.** `Yahweh Visited Sarah - Paqad and the Visitations of God` carries
+   the pericope's largest single fact — that *pāqad* enters Scripture at 21:1 with a barren womb as
+   its object, and that Genesis 50:24 and Exodus 3:16 cash the same verb for a nation — and it
+   includes the verb's other half, the visiting of iniquity, rather than splitting the word in two.
+   `Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac` sets 21:8–21 beside
+   22:1–19: the same opening Hebrew clause, the only two calls *out of the sky* in Genesis besides
+   19:24's rain, and two rescues that consist of somebody being made to see something already there.
+   Genesis 22 is not yet ingested, so that page's references to it are scripture references, not
+   links.
+5. **Genesis 21:9's *məṣaḥēq* is recorded as underdetermined.** The Masoretic participle has no
+   object; the Septuagint and Vulgate supply *with Isaac her son*, Galatians 4:29 reads
+   *persecuting*, and the midrash supplies idolatry and worse. The passage page keeps the bare
+   participle, lists the fillings-in as reception, and says the cause of the expulsion is not
+   recoverable from the text.
+6. **The chronological difficulty of 21:14–15 is stated, not harmonized.** Ishmael is at least
+   sixteen on the book's own numbers (16:16; 17:25; 21:5), and the verbs describe a child carried on
+   a shoulder and laid under a bush. Both the source-critical answer (an E episode that knows
+   nothing of P's chronology) and the literary answer (*yeled* used loosely; the verbs describing a
+   mother's despair) are recorded, and neither is adopted — the same treatment the wiki gives the
+   two creation accounts.
+7. **Sarah's demand is called an overreach against the surrounding law, and God's endorsement of it
+   is left unreconciled.** The passage page cites Hammurabi §§170–171 and Deuteronomy 21:15–17 on
+   one side and 21:12 on the other, and says Genesis does not put them together. This is a judgment
+   about what the text declines to do, not a verdict on Sarah; the wiki has now taken the same line
+   for five consecutive pericopes.
+8. **The divine-name distribution is again recorded as the standard critical account and not
+   adopted.** *Yahweh* twice in 21:1 and *ʾĕlōhîm* for the other twenty verses, including *the angel
+   of God* at 21:17 against *Yahweh's angel* at 16:7 — verifiable from the raw file, and the textbook
+   continuation of the E block that chapter 20 began. What it does not decide is whether 16 and 21
+   are one tradition told twice.
+
+### Quote accuracy
+
+The thirty-four block quotes of Genesis 21 on the passage page were extracted by script and compared
+whole against `raw/bible/Genesis.md`: **all thirty-four verbatim, no mismatches.** Every italic-quoted
+span in text added this pass (176 spans across 41 changed files) was then extracted and checked the
+same way. Findings, all introduced this pass and all fixed before commit:
+
+- **Three quotations opened with a capital the WEB does not have at that point in the verse.**
+  *"Rose up early in the morning"*, *"Wandered"*, and *"Where he is"* on the passage page — all
+  mid-verse, all now lower case, matching the raw text rather than the sentence they sit in.
+- **Two more of the same class, in the other direction from the standing lint item.**
+  *"Your offspring will be named through Isaac"* (on `people/God` and `themes/Call and Election`) and
+  *"Your son, your only son, whom you love, even Isaac"* (on `people/Isaac` and the new
+  `Two Sons Nearly Lost` page) both capitalize a word the WEB has in lower case mid-verse; both
+  corrected. The passage page's own copy already carried its *For*, which is the better fix and is
+  what the previous entry recommended.
+- **One WEB rendering difference stated too strongly and then narrowed.** The passage page first said
+  *"the identical clause opens Genesis 22:3"* of *"Abraham rose up early in the morning"*; the WEB
+  renders 22:3 *"Abraham rose early in the morning"*. The Hebrew clause is the same
+  (*wayyaškēm ʾAbrāhām babbōqer*) and the page now says so and gives the WEB's other wording.
+
+**The pre-existing capitalization class is still open and is still the next lint's first item** —
+this is the fifth consecutive entry to flag it. The five corrections above are all of new text; the
+habit in older pages is untouched.
+
+Quotations of Exodus, Leviticus, Numbers, Deuteronomy, Ruth, 1 Samuel, 1 Kings, 2 Kings, Amos,
+Habakkuk, Isaiah, Jeremiah, Luke, Romans, Galatians, and Hebrews remain unverifiable against any
+source in this repo, as elsewhere in the wiki; Job 7:18 was checked against `raw/bible/Job.md` and is
+verbatim. The Septuagint's *"playing with Isaac her son"*, the identification of Tel Beersheba, the
+Hammurabi and Lipit-Ishtar provisions, the etymology of *Pāʾrān*, the rabbinic material on
+*ba-ʾăšer hû šām*, and the Islamic identifications of the well and of Paran are all external and are
+stated as reception or as identifications rather than as findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 21:22–34; 22; 24; 25; 26; 28; 46) are written as plain scripture references or
+carry an explicit *(not yet ingested)* marker. Three stale *(not yet ingested)* markers for this
+pericope were cleared, on `themes/Barrenness`, `themes/Slavery and Servitude`, and
+`places/The Negev`.
+
+**Note on branch state.** The same environment quirk, for the seventh run in a row: the session
+started on a **detached HEAD** at `2ee1637` with a clean tree, and the local `main` ref was stale at
+`ee8f435` — thirteen commits behind. `git fetch origin main` advanced `origin/main` to `2ee1637`,
+confirming the previous run's push landed and that the stale ref was local only; `git checkout -B
+main` moved the branch onto HEAD **before** any work, so this ingest was committed on `main` rather
+than on a detached HEAD. Seven consecutive runs have now hit it, and it still wants the user's
+attention as an environment quirk rather than a one-off.

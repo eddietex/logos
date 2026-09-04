@@ -56,6 +56,11 @@ encounter is the ordinary Genesis pattern (*Bethel*, 28:19; *Yahweh Will Provide
 - [[Shur]] — the road it sits on, running from Canaan to the Egyptian frontier
 - [[The Negev]] — *the land of the South*, the country it lies in and Isaac's address
 - [[Egypt]] — where the road goes, and where Hagar was heading
+- [[Beersheba]] — the wilderness of the second flight, where the water gives out and God opens her
+  eyes to another well. **Hagar is given water twice in this desert and keeps neither place**: the
+  first well passes to Isaac, and the second is not named. See
+  [[The Birth of Isaac and the Sending of Hagar]]
+- [[Paran]] — where she and her son end up, further south
 
 ## Events here
 

@@ -193,6 +193,11 @@ the rest of the canon.
   *zeraʿ*, *keep seed alive*, the phrase of Genesis 7:3, *"to keep seed alive on the surface of all
   the earth"*. The theme's strongest vocabulary, in the mouths of two women in a cave, about their
   father
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:15–19: a child laid under a bush with
+  the water gone, and a mother sitting a bowshot away because *"Don't let me see the death of the
+  child."* Nothing in the scene is metaphorical, and the reprieve is a well she had not noticed. It
+  is the closest Genesis comes to a child's death before the knife of 22:10, and the two rescues are
+  built the same way
 ## Related themes
 
 - [[Creation]]

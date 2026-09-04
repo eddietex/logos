@@ -66,5 +66,6 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   [[Abram and Lot Separate]]
 - Abraham settles between Kadesh and Shur, and sojourns in Gerar — Genesis 20:1,
   [[Abraham and Abimelech]]
-- Hagar and Ishmael in the wilderness of Beersheba — Genesis 21:14–21 *(not yet ingested)*
+- Hagar and Ishmael in the wilderness of [[Beersheba]], and Ishmael's life afterwards in [[Paran]]
+  — Genesis 21:14–21, [[The Birth of Isaac and the Sending of Hagar]]
 - Isaac's wells and the promise renewed at Beersheba — Genesis 26:23–25 *(not yet ingested)*

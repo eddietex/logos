@@ -68,10 +68,6 @@ The first appearance, and the details are worth having exactly.
   Yahweh who spoke to her, 'You are a God who sees.'"* The one who spoke was introduced as the angel;
   the one she names is Yahweh.
 
-He appears to her once more, at 21:17, where he is *"the angel of God"* rather than of Yahweh, calls
-from the sky rather than standing at a spring, and hears the boy rather than the mother. Hagar is the
-only person in Genesis he appears to twice.
-
 ### The same problem without the title — Genesis 18:1–19:1
 
 Genesis 18 never uses the phrase *malʾak YHWH*, and it is the chapter where the alternation is
@@ -112,6 +108,29 @@ can. 19:21's *"I will not overthrow the city"* pulls the other way inside the sa
 **Genesis 19 does not resolve the seam; it demonstrates it twice more and moves on.** See
 [[The Destruction of Sodom and Gomorrah]].
 
+### In this pericope — Genesis 21:17–19
+
+He comes to the same woman a second time, and almost nothing about the appearance is the same.
+
+- **He is *the angel of God*** — *malʾak ʾĕlōhîm*, not *malʾak YHWH*. It is the only place in Genesis
+  the title takes this form, and it matches the chapter's exclusive use of *ʾĕlōhîm* from 21:2 on.
+- **He calls out of the sky, and this is the first voice from heaven in Scripture.** In chapter
+  16 he *found* her, at a spring, on the ground; the only other occurrences of *min-haššāmayim* in
+  Genesis are the two calls at the binding (22:11, 15).
+- **The seam is here too.** He speaks about God in the third person — *"For God has heard the voice of
+  the boy where he is"* (21:17) — and then in the first: *"For I will make him a great nation"*
+  (21:18). One verse apart, in the same speech. This is the clearest single instance in Genesis of the
+  alternation the table above sets out, and it favours neither reading: 21:17 is reading 1 and 21:18
+  is reading 2.
+- **He addresses her by name again** — *"What ails you, Hagar?"* — as at 16:8, and he is still the
+  only one in Scripture who does.
+- **What he does not do is provide.** The rescue in 21:19 is credited to God directly and consists of
+  opening her eyes to a well that was already there.
+
+**Hagar is the only person in Genesis he appears to twice**, and both times in a desert, and both
+times about the same boy. See [[The Birth of Isaac and the Sending of Hagar]] and
+[[The Two Flights of Hagar]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -122,8 +141,9 @@ can. 19:21's *"I will not overthrow the city"* pulls the other way inside the sa
 - As *"the two angels"* in one verse and *"the men"* in every verse after: received at the gate of
   Sodom, blinds the mob, pulls Lot's household out by the hand, grants Zoar, and destroys the cities
   — Genesis 19:1–25, [[The Destruction of Sodom and Gomorrah]]
-- Calls to Hagar out of the sky at Beersheba and opens her eyes to a well — Genesis 21:17–19
-  *(not yet ingested)*
+- Calls to Hagar out of the sky in the wilderness of Beersheba — the first voice from heaven in
+  Scripture — and speaks of God in the third person and then in the first, one verse apart — Genesis
+  21:17–18, [[The Birth of Isaac and the Sending of Hagar]]
 - Calls to Abraham from the sky at the binding of Isaac, twice, and swears by himself — Genesis
   22:11–18 *(not yet ingested)*
 - Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6
@@ -146,6 +166,8 @@ can. 19:21's *"I will not overthrow the city"* pulls the other way inside the sa
   the next verse of narrative
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–25; called angels once and men five
   times, sent by Yahweh in 19:13 and speaking as Yahweh in 19:21
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:17–18; as *the angel of God*, calling
+  out of the sky for the first time in Scripture, to the only person in Genesis he comes to twice
 
 ## Related people
 

@@ -18,7 +18,8 @@ tags: [connection]
 - **Genesis 16:3** — *"Sarai, Abram's wife, took Hagar the Egyptian, her servant … and gave her to
   Abram her husband to be his wife."*
 - **Genesis 21:12** — *"God said to Abraham, 'Don't let it be grievous in your sight because of the
-  boy … In all that Sarah says to you, listen to her voice.'"*
+  boy … In all that Sarah says to you, listen to her voice.'"* See
+  [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 3:16** and **Genesis 16:10** — *harbâ ʾarbeh*, *I will greatly multiply*, of a woman's
   pain and of a slave's offspring.
 

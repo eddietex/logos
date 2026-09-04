@@ -129,6 +129,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   written! … That with an iron pen and lead they were engraved in the rock forever!"* (19:23–24).
   Job wants a record rather than a memorial, because a record can still be entered as evidence — and
   the book the reader is holding is the outcome of that exchange
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1, the theme's sister verb. *Pāqad*,
+  *visited*, enters Scripture here and does for Sarah what *zākar* did for Noah at 8:1 and for
+  Abraham at 19:29: it names the moment God turns back toward something he had left alone for a long
+  time. The two verbs run in parallel through the Old Testament and meet in the exodus, where God
+  both *remembers* his covenant (Exodus 2:24) and *visits* his people (Exodus 3:16; 4:31). See
+  [[Yahweh Visited Sarah - Paqad and the Visitations of God]]
 
 ## Related themes
 

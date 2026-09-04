@@ -16,7 +16,7 @@ tags: [connection]
   laugh," for she was afraid. He said, "No, but you did laugh."* See
   [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 21:6** — after the birth: *"God has made me laugh. Everyone who hears will laugh with
-  me."*
+  me."* See [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 21:9** — *"Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham,
   mocking"* — one Hebrew participle, *məṣaḥēq*, from the same root, and the reason Ishmael is
   expelled.

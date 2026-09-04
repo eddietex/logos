@@ -182,6 +182,11 @@ costly.
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
   head of livestock), assembled in one verse so that the rest of the book can take it away; and the
   accuser's charge that a blessing this visible makes devotion unreadable
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:13, 18: *"I will also make a nation of
+  the son of the servant"*, and from the sky *"I will make him a great nation"* — *gôy gādôl*, the
+  exact phrase of 12:2, given to the son who has just been disinherited, in the same chapter that
+  restricts the covenant to the other one. And then the plainest form of blessing the book has:
+  *"God was with the boy, and he grew"* (21:20), the formula's first occurrence in Genesis
 
 ## Related themes
 

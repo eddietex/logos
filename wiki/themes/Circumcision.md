@@ -95,6 +95,11 @@ a mark that can be perfectly kept and entirely missed.
 - [[The Sign and the Seal - Genesis 17 in Romans 4]] — the order of the chapters, and what Paul builds
   on it
 - [[Hagar and Sarah in Galatians]] — the letter in which the whole question comes to a head
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:4, *"Abraham circumcised his son,
+  Isaac, when he was eight days old, as God had commanded him"*. **The first eighth-day circumcision
+  in Scripture**, executing 17:12 exactly and establishing the age the law will fix at Leviticus 12:3.
+  His father had been ninety-nine and his brother thirteen; Isaac is the first person to receive the
+  sign before he can know what it is, which is the whole of what the wiki says about him elsewhere
 
 ## Related themes
 

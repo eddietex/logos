@@ -122,6 +122,14 @@ the others.
   may command his children … to do righteousness and justice."* Not a land, not a rite, and not a
   nation — a household taught justice; and the immediate use Abraham makes of it is to hold God to
   the same standard six verses later
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:12–13, 18, 20, where the split is
+  executed rather than announced. *"your offspring will be named through Isaac"* and *"I will also
+  make a nation of the son of the servant, because he is your child"* stand in consecutive verses;
+  the excluded son then receives the promise of 12:2 in its own words from the sky (*"I will make him
+  a great nation"*), and **the formula for providential favour is used of him before it is used of
+  anyone in the covenant line** — *"God was with the boy"* (21:20), two verses before Abimelech says
+  it of Abraham. Genesis separates blessing from covenant here more cleanly than anywhere else, and
+  gives no reason for the line it draws
 - Genesis 22:1–19 — the second *lek-ləkā* *(not yet ingested)*
 - Exodus 3–4 — the call that is argued with
 - Deuteronomy 7:6–8 — election stated, and its reason declined

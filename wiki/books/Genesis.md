@@ -124,7 +124,24 @@ even fratricidal betrayal into rescue (Joseph).
   that the ruse has been standing policy since the day he was called — which he describes, in the
   book's least flattering phrase for its own founding event, as the day *"God caused me to wander
   from my father's house"*. The foreigner ends the chapter having paid a thousand pieces of silver,
-  offered the run of his country, and pronounced the pericope's only verdict.
+  offered the run of his country, and pronounced the pericope's only verdict. Then, in
+  [[The Birth of Isaac and the Sending of Hagar]], the thing the whole book has been waiting for
+  happens in one verse and costs a household. *"Yahweh visited Sarah as he had said"* — *pāqad*, the
+  Bible's first use of the verb, on the womb that has been the obstacle since 11:30 — and the son
+  arrives on the date God set twice, is named as instructed, and is circumcised on the eighth day,
+  the first person in Scripture to be. Sarah takes back the laugh she denied and makes God its
+  subject: *"God has made me laugh. Everyone who hears will laugh with me."* And then the weaning
+  feast, and one ambiguous participle — Ishmael *məṣaḥēq*, *laughing*, in the root of his brother's
+  name, with no object in the Hebrew and nothing else said about what he did — and Sarah demands that
+  the slave and her son be cast out, in words that use neither of their names. Abraham grieves *very*,
+  is told to comply, rises early, and sends a woman into a desert with bread and a skin of water; and
+  Genesis then leaves him at the tent and follows her for eight verses. The boy is never named again
+  in the chapter, and the chapter turns on his name: *"God heard the voice of the boy"*, of a child
+  who is not recorded saying anything. A voice calls from the sky, for the first time in the Bible;
+  the rescue is not a well made but a well seen, *"God opened her eyes"*; and *"God was with the boy"*
+  — the formula's first occurrence in Genesis, spent on the son who has just been disinherited, two
+  verses before a foreign king says the same words to Abraham. She takes him a wife out of Egypt,
+  which no other mother in the Bible does for her son.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -164,7 +181,7 @@ merge, or reorder them freely.
 - [x] [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29
 - [x] [[Lot and His Daughters]] — Genesis 19:30–38
 - [x] [[Abraham and Abimelech]] — Genesis 20:1–18
-- [ ] The Birth of Isaac and the Sending of Hagar — Genesis 21:1–21
+- [x] [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21
 - [ ] The Treaty at Beersheba — Genesis 21:22–34
 - [ ] The Binding of Isaac — Genesis 22:1–19
 - [ ] Nahor's Line and the Burial of Sarah — Genesis 22:20–23:20
@@ -304,3 +321,5 @@ merge, or reorder them freely.
 - [[Ammon]]
 - [[Gerar]]
 - [[Kadesh]]
+- [[Beersheba]]
+- [[Paran]]

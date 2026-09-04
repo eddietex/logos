@@ -142,6 +142,12 @@ where that starts, in a sentence about a family that got halfway.
   before you. Dwell where it pleases you"* (20:15) — **Abram's own words to Lot at 13:9, given back
   to him by a king who actually owns the ground**. The man promised the land is granted permission to
   live on part of it by its holder, and he takes it
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:14, 20–21. The heir of the land
+  promise is born to a man who owns none of it and is at this point living as a foreigner in Gerar;
+  and the other son is put out into a wilderness that **will** belong to his descendants (25:18).
+  Hagar *"wandered"* — *wattētaʿ*, from *tāʿâ*, the verb Abraham had used one chapter earlier of his
+  own call: *"When God caused me to wander from my father's house"* (20:13). The same word for the
+  journey he was sent on and the journey he sends her on
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

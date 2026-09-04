@@ -59,6 +59,49 @@ him. Sarai is not mentioned in the last two verses.
 **What is remarkable about the chapter is the address list.** Between the covenant of 15:21 and the
 appearance of 17:1, the only human being God speaks to in Genesis is this woman.
 
+### In this pericope — Genesis 21:1–21
+
+**The second expulsion, and this time she does not come back.**
+
+She does not appear until verse 9, and then only as the mother of somebody: *"the son of Hagar the
+Egyptian, whom she had borne to Abraham"*. [[Sarah]] demands *"Cast out this servant and her son!"*
+and uses neither name; Abraham grieves *"on account of his son"* and does not mention her. **The one
+person in the chapter who puts her back into the sentence is God** — *"because of the boy, and
+because of your servant"* (21:12) — correcting the count in the first clause of his reply.
+
+**She is sent, not fleeing.** *Šālaḥ*, not the *bāraḥ* of 16:6. She leaves with bread and a skin of
+water from a man who at 13:2 was *"very rich in livestock, in silver, and in gold"* and had just been
+paid in sheep, cattle, and servants at 20:14. Genesis reports the provisions and says nothing about
+them.
+
+**Then, in the wilderness of [[Beersheba]], she becomes the subject of every verb in the story.** She
+wanders (*wattētaʿ*, from *tāʿâ* — the verb Abraham had used of his own call one chapter earlier at
+20:13), puts the child under a bush, walks off a bowshot, sits down opposite, says the one sentence
+she speaks in the chapter, lifts up her voice, and weeps.
+
+***"Don't let me see the death of the child"*** (21:16). **The woman who named God *ʾĒl Rŏʾî*, *a God
+who sees*, asks not to see** — and the rescue, when it comes, is exactly that: *"God opened her eyes,
+and she saw a well of water"* (21:19). Nothing is created. The water was there. See
+[[Seeing and Being Seen]].
+
+**Three things about the intervention are different from chapter 16.**
+
+- It is ***the angel of God***, not *Yahweh's angel* — the chapter's divine name holds throughout.
+- He calls ***out of the sky***, *min-haššāmayim*, and **this is the first voice from heaven in
+  Scripture**; at 16:7 the messenger *found* her, on the ground, at a spring.
+- **It is the boy who is heard, not her.** *"God heard the voice of the boy"* — twice in one verse —
+  while the voice the narrator has just reported is hers. The name given at 16:11 for the hearing of
+  *her* affliction is cashed here on his account, in an episode that never once says it.
+
+She is still addressed by name: *"What ails you, Hagar?"* Nobody in Abraham's household ever has.
+
+**And she ends the story with a household.** *"He lived in the wilderness of Paran. His mother took a
+wife for him out of the land of Egypt"* (21:21). **No other mother in the Bible takes a wife for her
+son** — Abraham sends a servant for Isaac (24:4), Isaac instructs Jacob (28:1–2), Judah takes one for
+Er (38:6). She has no husband and no man to do it, so she does it, and she goes back to her own
+country for it. The Egyptian slave's line begins with an Egyptian daughter-in-law. See
+[[The Birth of Isaac and the Sending of Hagar]] and [[The Two Flights of Hagar]].
+
 ### Where the rest of her is
 
 - **Genesis 17** — she is not in the chapter and it is entirely about the arrangement she was used
@@ -67,13 +110,6 @@ appearance of 17:1, the only human being God speaks to in Genesis is this woman.
   (17:18–21), and gives her son the whole blessing except the covenant. Her son is circumcised at
   thirteen in the same day as the rest of the household — inside the sign and outside the thing it
   signs. See [[Circumcision, the Sign of the Covenant]].
-- **Genesis 17:20; 21:9–21** — the second expulsion, which is not a flight and from which she does
-  not return. Sarah sees Ishmael *"mocking"* and demands that both be cast out; God tells Abraham to
-  listen to his wife's voice again (21:12, the same idiom as 16:2); Hagar and the boy nearly die of
-  thirst; *"God heard the voice of the boy"* (21:17); a well is opened; and she ends the episode free
-  in the wilderness of Paran, choosing an Egyptian wife for her son. She is the only woman in Genesis
-  who acquires a wife for her child — a father's prerogative everywhere else in the book. See
-  [[The Two Flights of Hagar]].
 - **Genesis 25:12** — named one last time, in the heading of Ishmael's *toledot*: *"whom Hagar the
   Egyptian, Sarah's servant, bore to Abraham"*. Still the Egyptian, still the servant.
 - **Galatians 4:21–31** — Paul's allegory, the only mention of her in the New Testament, in which she
@@ -98,10 +134,13 @@ appearance of 17:1, the only human being God speaks to in Genesis is this woman.
   — Genesis 16:9–12
 - Names God *ʾĒl Rŏʾî*, *a God who sees*; the well is called Beer Lahai Roi — Genesis 16:13–14
 - Bears Ishmael when Abram is eighty-six — Genesis 16:15–16
-- Cast out with Ishmael after Isaac's weaning; nearly dies in the wilderness of Beersheba; God hears
-  the boy and opens her eyes to a well — Genesis 21:9–19 *(not yet ingested)*
-- Settles with Ishmael in the wilderness of Paran and takes him a wife out of Egypt — Genesis
-  21:20–21 *(not yet ingested)*
+- Sent away with Ishmael after Isaac's weaning, with bread and a skin of water — Genesis 21:9–14,
+  [[The Birth of Isaac and the Sending of Hagar]]
+- Lays the child under a bush a bowshot away and weeps; *"God heard the voice of the boy"*; the angel
+  of God calls out of the sky, the first voice from heaven in Scripture — Genesis 21:15–18
+- Has her eyes opened to a well that was already there — Genesis 21:19
+- Settles with Ishmael in the wilderness of [[Paran]] and takes him a wife out of Egypt, the only
+  mother in the Bible to do a father's job — Genesis 21:20–21
 - Named in the heading of Ishmael's genealogy — Genesis 25:12 *(not yet ingested)*
 
 ## Appears in
@@ -109,6 +148,10 @@ appearance of 17:1, the only human being God speaks to in Genesis is this woman.
 - [[Hagar and Ishmael]] — Genesis 16:1–16; given, used, afflicted, and driven out without a word, and
   then found in a desert by God, promised a multitude, and left holding a name for him that nobody
   else in Scripture supplies
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:9–21; sent out with bread and a skin
+  of water, put back into a sentence by God after both her owners had left her out of it, addressed
+  by name from the sky, given eyes for a well that was already there, and left free in a wilderness
+  of her own with a son and a daughter-in-law
 
 ## Related people
 

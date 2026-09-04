@@ -56,10 +56,40 @@ He is not called *Isaac* in this chapter, and the verb that is his name is used 
 old?'"* (18:13). The second of the four laughs, and the only one anybody is questioned about. See
 [[Laughter and the Name Isaac]] and [[The Three Visitors and Abraham's Intercession]].
 
+### In this pericope — Genesis 21:1–21
+
+**He exists**, and the chapter reports it in the flattest sentence available: *"Sarah conceived, and
+bore Abraham a son in his old age, at the set time of which God had spoken to him"* (21:2). No
+description, no scene, no reaction from his father. Everything Genesis is interested in is that the
+schedule held.
+
+**Every specification of 17:12–21 is executed and marked as executed.** The set time (17:21), the
+name (17:19), the eighth day (17:12), the hundred years (17:17) — four clauses, four fulfilments, and
+the narrator ties each one back with *as God had said* or *as God had commanded him*. **He is the
+first person in Scripture circumcised on the eighth day**, which will become the law's fixed age
+(Leviticus 12:3); his father was ninety-nine and his brother thirteen.
+
+**He does two things in the pericope: he grows, and he is weaned.** The feast is his, and it is what
+brings the house down. *"Sarah saw the son of Hagar the Egyptian … mocking"* — *məṣaḥēq*, the
+intensive of the verb that is his own name — and the expulsion that follows is demanded in his
+interest and in his name: *"the son of this servant will not be heir with my son, Isaac"* (21:10).
+**The only two verses in the pericope where he is named after his circumcision are the two that
+remove his brother** (21:10, 12). He is a passive party to the most consequential thing done for him
+in his life, which is the pattern the wiki has already noted for the binding, the wife, and the
+covenant itself.
+
+***"For your offspring will be named through Isaac"*** (21:12). *Kî bə-Yiṣḥāq yiqqārēʾ ləkā zāraʿ* —
+the sharpest statement in Genesis of which son the line runs through, spoken by God to settle a
+household argument, and quoted twice in the New Testament as the definition of election (Romans 9:7;
+Hebrews 11:18). It does not deny that Ishmael is Abraham's; the next verse affirms it. See
+[[Call and Election]] and [[The Birth of Isaac and the Sending of Hagar]].
+
+And the expulsion is what makes the next chapter's sentence possible. *"your son, your only son,
+whom you love, even Isaac"* (22:2) is exact, and only becomes true at 21:14. See
+[[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]].
+
 ### Where the rest of him is
 
-- **Genesis 21:1–7** — born at the appointed time, when Abraham is a hundred and Sarah ninety;
-  circumcised on the eighth day; the occasion of Sarah's second laugh.
 - **Genesis 22:1–19** — the binding. He carries the wood, asks *"where is the lamb for a burnt
   offering?"*, is bound and laid on the altar, and does not speak again in the chapter.
 - **Genesis 24** — a wife found for him at his father's instruction, without his presence; he is
@@ -83,8 +113,12 @@ old?'"* (18:13). The second of the four laughs, and the only one anybody is ques
   17:19, 21, [[Circumcision, the Sign of the Covenant]]
 - The birth promised again and dated again, this time in his mother's hearing — Genesis 18:10, 14,
   [[The Three Visitors and Abraham's Intercession]]
-- Born at the set time; Abraham a hundred, Sarah ninety — Genesis 21:1–5 *(not yet ingested)*
-- Circumcised on the eighth day — Genesis 21:4 *(not yet ingested)*
+- Born at the set time; Abraham a hundred, Sarah ninety — Genesis 21:1–5,
+  [[The Birth of Isaac and the Sending of Hagar]]
+- Circumcised on the eighth day, the first person in Scripture to be — Genesis 21:4
+- Weaned, and a great feast made on the day — Genesis 21:8
+- His inheritance made the ground of Ishmael's expulsion; *"your offspring will be named through
+  Isaac"* — Genesis 21:10, 12
 - Bound on the mountain in the land of Moriah — Genesis 22:1–19 *(not yet ingested)*
 - Marries Rebekah, brought to him from his father's kindred — Genesis 24:67 *(not yet ingested)*
 - Buries Abraham with Ishmael, and settles at Beer Lahai Roi — Genesis 25:9–11 *(not yet ingested)*
@@ -99,6 +133,9 @@ old?'"* (18:13). The second of the four laughs, and the only one anybody is ques
   before he is conceived
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:9–15; the promise repeated and
   re-dated, and the first time his mother is in earshot of it
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21; born on the date, named as
+  instructed, circumcised on the eighth day, weaned at a feast that ends with his brother in a
+  desert, and made the sole line of the promise in a sentence he is far too young to hear
 
 ## Related people
 

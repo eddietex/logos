@@ -86,6 +86,13 @@ will finally go both ways.
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:17, 26, 28: a prohibition on looking, a
   woman who looks in the verb she was forbidden to look in, and Abraham looking at the same fire
   from forty miles off and learning nothing from it. See [[Remember Lot's Wife]]
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:9, 16, 19. Sarah **sees** Ishmael
+  *mocking* and the household breaks; Hagar asks the opposite — *"Don't let me see the death of the
+  child"* (21:16) — and walks a bowshot off so that she will not; and the rescue is neither a well
+  dug nor water made, but *"God opened her eyes, and she saw a well of water"* (21:19). **The woman
+  who named God *a God who sees* is the one person in Scripture whose own seeing God has to repair**,
+  and the same mechanism saves the other son one chapter later, when Abraham *lifts up his eyes* and
+  sees the ram (22:13)
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

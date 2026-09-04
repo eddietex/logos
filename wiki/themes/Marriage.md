@@ -146,6 +146,11 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   the two rescues (12:17; 20:18) precisely where the husband has suppressed it.** Genesis 20:12 also
   supplies the one detail the wife-sister episodes turn on — that she is his half-sister, a union
   Leviticus 18:9 and 20:17 forbid and Deuteronomy 27:22 curses, narrated here without comment
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:21, *"His mother took a wife for him
+  out of the land of Egypt."* **No other mother in the Bible does this.** Abraham sends a servant for
+  Isaac's wife (24:4), Isaac instructs Jacob (28:1–2), Judah takes one for Er (38:6) — the act belongs
+  to fathers everywhere else in Genesis. Hagar has no husband and no household to do it for her, so
+  she does it, and she goes back to her own country for it
 
 ## Related themes
 

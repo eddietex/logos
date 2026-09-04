@@ -107,7 +107,14 @@ addressing a slave by name and no one else in the story doing so.
   same formula as 12:16 — and three verses later the household's *"female servants"* are named among
   those whose wombs God had shut and then healed. **They are counted in the compensation and counted
   in the damage, and nobody asks them anything in either place**
-- Genesis 21:9–21 — the same woman expelled, and left free *(not yet ingested)*
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:9–21, the arrangement of Genesis 16
+  ended by expulsion. Sarah says *"this servant"* and *"the son of this servant"* and never a name;
+  the demand is that an acknowledged, circumcised firstborn be disinherited, which the second-
+  millennium codes and Deuteronomy 21:15–17 would both have refused her; **God endorses it, and in
+  the same breath puts the slave back into the sentence her owner and her master had both left her
+  out of** — *"because of the boy, and because of your servant"* (21:12). She leaves with bread and a
+  skin of water from a household Genesis has twice called rich, and ends the chapter free, with a
+  wilderness of her own and a daughter-in-law she chose
 - Genesis 37; 39–41 — Joseph sold, enslaved, imprisoned, and raised to rule the country that bought
   him *(not yet ingested)*
 - Exodus 1–15 — the affliction, and the deliverance that becomes the Old Testament's defining act

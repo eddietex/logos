@@ -11,7 +11,7 @@ tags: [connection]
 - **Genesis 17:15–21; 18:9–15; 21:1–7** — Sarah renamed, promised, laughing, and bearing Isaac at
   ninety.
 - **Genesis 21:8–14** — *"Cast out this servant and her son! For the son of this servant will not be
-  heir with my son, Isaac."*
+  heir with my son, Isaac."* See [[The Birth of Isaac and the Sending of Hagar]].
 - **Galatians 4:21–31** — *"Abraham had two sons, one by the servant, and one by the free woman …
   These things contain an allegory, for these are two covenants."*
 - **Isaiah 54:1** — *"Rejoice, you barren who don't bear … for the children of the desolate are more

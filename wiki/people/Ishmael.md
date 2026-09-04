@@ -73,12 +73,45 @@ permanently inside the mark and outside the thing it marks, which is the chapter
 fact. The Arab custom of circumcising boys at thirteen is standardly traced to this verse. See
 [[Circumcision, the Sign of the Covenant]] and [[Circumcision]].
 
+### In this pericope — Genesis 21:8–21
+
+**The chapter that removes him never says his name.**
+
+From 21:9 to 21:21 he is *the son of Hagar the Egyptian*, *her son*, *the son of this servant*, *the
+boy*, *the son of the servant*, *the child*, and *him* — thirteen designations and not one
+*Ishmael*, in a book that names him freely in chapters 16 and 17 and will name him again at 25:9.
+**And his name means *God hears*.** So the pericope's hinge — *"God heard the voice of the boy … For
+God has heard the voice of the boy where he is"* (21:17) — is his name unpacked into a sentence by a
+narrator who has stopped using it. It is the third time the name is cashed: for his mother's
+affliction at 16:11, for his father's plea at 17:20, and here for himself.
+
+***Məṣaḥēq*** (21:9). One participle, from the root behind *Isaac*, **with no object in the Hebrew**,
+and the whole expulsion rests on it. The WEB has *mocking*; the Septuagint supplies *"playing with
+Isaac her son"*; Galatians 4:29 reads *persecuting*; the midrash supplies worse. **Genesis does not
+say what he did.** The wiki records the cause as underdetermined and declines every filling-in. See
+[[Laughter and the Name Isaac]].
+
+**What he is offered instead of the covenant is stated twice.** *"I will also make a nation of the
+son of the servant, because he is your child"* (21:13), and from the sky, *"I will make him a great
+nation"* (21:18) — *gôy gādôl*, the exact phrase of the promise to Abram at 12:2. Genesis holds the
+two promises side by side and never explains how they sit together.
+
+**He does not speak, and he is heard.** Genesis reports no cry from him; it reports that God heard
+one. The voice the reader actually hears in verse 16 is his mother's.
+
+***"God was with the boy, and he grew"*** (21:20). **This is the first occurrence in Genesis of the
+formula for providential favour** — before Abimelech says it of Abraham two verses later (21:22),
+before Laban's people say it of Isaac (26:28), before God says it to Jacob (28:15), and before the
+narrator says it four times of Joseph in Egypt (39:2, 3, 21, 23). **The Bible says *God was with him*
+of the disinherited son first.**
+
+He grows up an archer — at a bowshot's distance, which is the unit his mother used to measure how far
+she walked away (21:16) — in the wilderness of [[Paran]], and his mother takes him a wife out of
+Egypt. See [[The Birth of Isaac and the Sending of Hagar]] and
+[[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]].
+
 ### Where the rest of him is
 
-- **Genesis 21:8–21** — expelled with his mother after Isaac's weaning for *"mocking"* (21:9, a
-  single Hebrew participle, *məṣaḥēq*, from the root behind *Isaac*, and the reason for the expulsion
-  is famously underdetermined); rescued when *"God heard the voice of the boy"* (21:17); grows up in
-  the wilderness of Paran as an archer, with an Egyptian wife.
 - **Genesis 25:9** — he and Isaac bury Abraham together at Machpelah. Genesis says nothing about the
   reconciliation and simply puts them at the same grave.
 - **Genesis 25:12–18** — his *toledot*: twelve princes (Nebaioth, Kedar, Adbeel, Mibsam and the rest),
@@ -107,9 +140,13 @@ fact. The Arab custom of circumcising boys at thirteen is standardly traced to t
 - Blessed and promised twelve princes and a great nation, and excluded from the covenant — Genesis
   17:20–21
 - Circumcised at thirteen with his father's whole household — Genesis 17:23–26
-- Cast out with Hagar; God hears him in the wilderness — Genesis 21:9–19 *(not yet ingested)*
-- Grows up an archer in the wilderness of Paran; marries an Egyptian — Genesis 21:20–21
-  *(not yet ingested)*
+- Seen *mocking* at Isaac's weaning feast and sent away with his mother, unnamed throughout —
+  Genesis 21:9–14, [[The Birth of Isaac and the Sending of Hagar]]
+- Laid under a bush with the water gone; *"God heard the voice of the boy"*, though he says nothing —
+  Genesis 21:15–19
+- Promised a great nation from the sky, in the words of 12:2 — Genesis 21:18
+- *"God was with the boy"* — the formula's first occurrence in Genesis; grows up an archer in the
+  wilderness of [[Paran]] and marries an Egyptian — Genesis 21:20–21
 - Buries Abraham with Isaac at Machpelah — Genesis 25:9 *(not yet ingested)*
 - Dies at a hundred thirty-seven, father of twelve princes — Genesis 25:17 *(not yet ingested)*
 
@@ -120,6 +157,9 @@ fact. The Arab custom of circumcising boys at thirteen is standardly traced to t
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17:18–26; asked for by his father, blessed by
   name, given twelve princes and a great nation, refused the covenant, and circumcised at thirteen on
   the same day
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:8–21; expelled over one ambiguous
+  participle, never named in the thirteen verses that remove him, heard without speaking, promised a
+  great nation from the sky, and the first person in Genesis of whom it is said that God was with him
 
 ## Related people
 

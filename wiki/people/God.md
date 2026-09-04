@@ -571,6 +571,49 @@ patriarch once.**
   at 12:17. In both rescues he acts on a relationship the husband had suppressed, and in neither is
   he asked to. See [[Abraham and Abimelech]] and [[The Names of God]].
 
+### He keeps a dated promise, endorses a cruelty, and hears a boy who says nothing — Genesis 21:1–21
+
+*"Yahweh visited Sarah as he had said, and Yahweh did to Sarah as he had spoken"* (21:1). **The first
+occurrence of *pāqad* in the Bible, and its object is a barren woman.** It is not the ordinary verb
+for God arriving: it means to turn one's attention to someone with consequences — to attend to, to
+muster, to call in — and the rest of the Torah will use it for the moment he turns back toward a
+people he had left alone (Genesis 50:24; Exodus 3:16; 4:31). See
+[[Yahweh Visited Sarah - Paqad and the Visitations of God]].
+
+**Everything in the first seven verses is about the reliability of his own words.** *As he had said*
+… *as he had spoken* … *at the set time of which God had spoken to him* … *as God had commanded him*.
+Twenty-five years of promise, dated twice (17:21; 18:14) and laughed at twice, and the fulfilment is
+reported in one clause with three attributions attached.
+
+**Then the other half, and it is harder.**
+
+- **He endorses a demand the surrounding law would have refused.** *"In all that Sarah says to you,
+  listen to her voice"* (21:12) — the third and last time Genesis uses that idiom (3:17 in the curse;
+  16:2 producing Ishmael), and the only time he commands it. What she asked for was the
+  disinheriting of an acknowledged, circumcised firstborn.
+- **And in the same breath he corrects the arithmetic of grief.** Abraham grieved *"on account of his
+  son"* (21:11); God says *"because of the boy, and because of your servant"* — restoring the slave
+  to a sentence both her owners had left her out of, exactly as the narrator restored *Abram's wife*
+  at 12:17 and 20:18.
+- **He divides the promise cleanly and does not explain it.** *"your offspring will be named through
+  Isaac"*, and one verse later *"I will also make a nation of the son of the servant, because he is
+  your child"* — the exclusion and the concession in consecutive verses, the second conceding exactly
+  what Sarah denied. See [[Call and Election]].
+- **He hears somebody who does not speak.** *"God heard the voice of the boy"* (21:17), twice in one
+  verse, while the voice the narrator has just reported is Hagar's. No cry from Ishmael is recorded.
+- **He calls out of the sky for the first time in Scripture.** *Min-haššāmayim*, and the only other
+  occurrences in Genesis are 22:11 and 22:15. Every earlier messenger was on the ground.
+- **And he rescues by opening eyes rather than by providing.** *"God opened her eyes, and she saw a
+  well of water"* (21:19). The water was there. So was the ram at 22:13.
+
+***"God was with the boy"*** (21:20) — **the first use in Genesis of the formula for providential
+favour**, said of the son who has just been disinherited, two verses before Abimelech says it of
+Abraham (21:22) and long before it is said of Isaac, Jacob, or Joseph.
+
+**On the names:** *Yahweh* twice in verse 1 and *ʾĕlōhîm* for the remaining twenty verses, including
+*the angel of God* at 21:17 where chapter 16 had *Yahweh's angel*. It is the inverse of chapter 20's
+distribution. See [[The Names of God]] and [[The Birth of Isaac and the Sending of Hagar]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -700,6 +743,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   innocence in the first clause of the reply, claims the man's restraint as his own doing, calls the
   patriarch who deceived him *a prophet* — the word's first occurrence — and makes the king's life
   depend on that man's prayer, which he then accepts — [[Abraham and Abimelech]]
+- *Visits* a barren woman — the verb's first occurrence in Scripture — and delivers on a date he had
+  set twice; then overrules a father's grief, endorses an expulsion the law would not have granted,
+  puts the slave back into the sentence, hears a boy who says nothing, calls from the sky for the
+  first time in the Bible, opens a woman's eyes to water that was already there, and is *with* the
+  son he has just excluded — [[The Birth of Isaac and the Sending of Hagar]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -776,6 +824,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   a single exchange; he takes credit for the innocence he is conceding; he names the prophetic office
   for the first time in Scripture and defines it by prayer; and he closes wombs, and opens them, on
   account of a woman nobody in the chapter consults
+- [[The Birth of Isaac and the Sending of Hagar]] — *Yahweh* twice in one verse and *ʾĕlōhîm* for the
+  other twenty. He *visits* — the verb's first occurrence — and a twenty-five-year promise closes on
+  the day it was set for; and then he tells a father to do the thing that has just been called *very
+  evil in his eyes*, adds the slave back into the count, hears an unrecorded cry, speaks from heaven
+  for the first time in Scripture, and is with the son he has excluded
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

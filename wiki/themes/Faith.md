@@ -103,6 +103,12 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   argument, including the half of it that was already in Psalm 106:31
 - [[Blameless Before Anyone Is Watching]] — Job 1:1 and Genesis 6:9, and what a verdict about a man
   is worth before he has been tested
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–2, where the word is not used and
+  the thing is settled. *As he had said* … *as he had spoken* … *at the set time of which God had
+  spoken to him*: three attributions on one birth notice, twenty-five years after the promise and
+  after both parents have laughed at it. Romans 4:19–21 and Hebrews 11:11–12 build their whole
+  account of Abraham's faith on this verse's arithmetic, and Genesis itself makes nothing of the
+  laughing — it names the child after it
 
 ## Related themes
 

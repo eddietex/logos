@@ -115,6 +115,13 @@ happens.
   [[A Prophet Who Prays - The First Nabi in Scripture]]
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, a human being pronouncing an oracle over
   the future of three peoples, with no claim that God said it
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:17, **the first voice from heaven in
+  Scripture**. *"The angel of God called to Hagar out of the sky"* — *min-haššāmayim*, whose only
+  other occurrences in Genesis are the two calls at the binding (22:11, 15). Every earlier messenger
+  in the book is on the ground: he *finds* Hagar at a spring (16:7), eats under a tree (18:8), takes
+  Lot by the hand (19:16). And the speech alternates inside two verses — *"God has heard"* in the
+  third person at 21:17, *"I will make him a great nation"* in the first at 21:18. See
+  [[The Angel of Yahweh]]
 
 ## Related themes
 

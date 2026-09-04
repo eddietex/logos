@@ -263,11 +263,60 @@ and answers it in the same breath.
 Her age is the chapter's standing difficulty: she is eighty-nine or ninety here, on 17:17 and 21:5,
 and she is taken for her desirability. The text reports both and notices no problem.
 
+### In this pericope — Genesis 21:1–21
+
+**She gets what the whole book has been about, and eight verses later she is at her worst.**
+
+*"Yahweh visited Sarah as he had said"* (21:1). The verb is *pāqad*, its first occurrence in the
+Bible, and its object is her — the closed womb of 11:30, attended to at last and on the day it was
+promised. See [[Yahweh Visited Sarah - Paqad and the Visitations of God]].
+
+**Then she speaks, and it is the best thing she says in Scripture.**
+
+> **6** Sarah said, “God has made me laugh. Everyone who hears will laugh with me.”
+> **7** She said, “Who would have said to Abraham, that Sarah would nurse children? For I have borne
+> him a son in his old age.”
+
+**She takes back the laugh she denied at 18:15 and makes God its subject** — *ṣəḥōq ʿāśâ lî ʾĕlōhîm*,
+*laughter God has made for me* — and then turns a private, embarrassed noise into a public one:
+*everyone who hears will laugh with me*. The Hebrew of that clause is ambiguous between *with me* and
+*at me*, which is a fair description of her position, and three verses later somebody does laugh.
+Verse 7 is her one composed utterance in the Bible: short cola, a rhetorical question, and *millēl*,
+a poetic verb for *say* that belongs to Job and the Psalms rather than to narrative. See
+[[Laughter and the Name Isaac]].
+
+**And then verse 9.** *"Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham,
+mocking"* — she sees, as she saw at 16:4 and 16:5, and what she does with what she sees is a demand:
+
+> **10** Therefore she said to Abraham, “Cast out this servant and her son! For the son of this
+> servant will not be heir with my son, Isaac.”
+
+- ***Gārēš*, cast out** — the verb of the expulsion from the garden (3:24) and of Cain's sentence
+  (4:14), and the Torah's word for divorcing a wife.
+- **She uses no names.** *This servant*, *her son*, *the son of this servant* — against *my son,
+  Isaac*. She has never once said Hagar's name, in either chapter, and here she will not say
+  Ishmael's either.
+- **Her ground is inheritance, and the surrounding law is against her.** *He will not inherit* is a
+  legal claim; the Code of Hammurabi provides a share for the acknowledged sons of a slave woman, and
+  Deuteronomy 21:15–17 will protect the firstborn of the unloved wife. Ishmael was named by Abraham,
+  circumcised into the household, and prayed for by his father. **She asks for more than the law
+  would give her, and God tells Abraham to do it.**
+
+***"In all that Sarah says to you, listen to her voice"*** (21:12). **The third and last time Genesis
+uses that idiom** — 3:17 had it in the curse, 16:2 had it produce Ishmael, and here God commands it.
+The wiki records the pattern and does not resolve it. See
+[[Listening to the Voice - Genesis 3 and Genesis 16]].
+
+**She is not mentioned again after verse 12**, and the narrator spends the remaining nine verses with
+the woman she expelled. Genesis reports her demand, God's endorsement of it, and her husband's grief,
+and then walks out of the tent behind Hagar. **The sympathy and the authority are in different
+places, and the book does not reconcile them.** See
+[[The Birth of Isaac and the Sending of Hagar]].
+
 ### Where the rest of her is
 
-Ahead, in pericopes not yet ingested:
-the birth of Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah
-(23). She is
+Ahead, in a pericope not yet ingested: her death at Kiriath Arba and the purchase of Machpelah (23).
+She is
 the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
 exemplar. None of that is legible from Genesis 11, where she is a name, a marriage, and an absence.
 
@@ -301,7 +350,12 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - Addressed by Abimelech, the only person in the chapter who speaks to her, and given a thousand
   pieces of silver as *a covering of the eyes* — Genesis 20:16
 - Named as the cause of the closed wombs of Abimelech's household — Genesis 20:18
-- Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
+- *"Yahweh visited Sarah"*, and she bears Isaac at ninety, at the set time — Genesis 21:1–2,
+  [[The Birth of Isaac and the Sending of Hagar]]
+- Takes back the laugh and makes God its subject: *"God has made me laugh"* — Genesis 21:6–7
+- Sees Ishmael *mocking* at the weaning feast and demands that he and his mother be cast out —
+  Genesis 21:9–10
+- God tells Abraham to listen to her voice, the third and last use of the idiom — Genesis 21:12
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
 
 ## Appears in
@@ -322,6 +376,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Abraham and Abimelech]] — Genesis 20:1–18; handed over a second time and silent again, but this
   time declared untouched before anything else is said, addressed by the king rather than by her
   husband, and named as the reason a whole household's wombs are shut
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–12; visited, delivered on the date,
+  and given the one composed speech she has in Scripture — and then, eight verses later, the demand
+  that expels a slave and a boy whose names she will not say
 
 ## Related people
 

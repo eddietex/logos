@@ -169,6 +169,12 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   Revelation
 - [[Remembrance]] — *zākar*, the verb that governs what God does with a covenant once he has made
   one
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:12, *"For your offspring will be named
+  through Isaac"* — the sharpest statement in Genesis of which son the covenant line runs through, and
+  it is spoken to settle a domestic quarrel rather than in a covenant scene. The New Testament quotes
+  it twice as the definition of election (Romans 9:7; Hebrews 11:18). One verse later the excluded son
+  is given a nation *"because he is your child"*: the promise divided in consecutive verses, with no
+  attempt to reconcile the halves
 
 ## Related themes
 

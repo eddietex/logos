@@ -103,7 +103,13 @@ the women than the frame they are written in.
   hers is opened at 21:1–2. The verb is the one Sarai used of herself at 16:2 (*ʿāṣar*, to restrain
   or shut up), here in an infinitive-absolute doubling — *shut, and shut hard*. Genesis sets the two
   events side by side and does not comment
-- Genesis 21:1–7 — the birth *(not yet ingested)*
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–7, **the answer**, twenty-five years
+  and ten chapters after 11:30. The verb is *pāqad*, *visited*, in its first occurrence in Scripture,
+  and its object is the womb the whole book has been waiting on; everything else in the verse is about
+  the promise having been kept on the date it was given (17:21; 18:14). The theme's template closes
+  here — and it closes eleven verses after a household's wombs were shut and opened on this same
+  woman's account (20:18), and eight verses before the fertile slave the wait produced is sent into a
+  desert. See [[Yahweh Visited Sarah - Paqad and the Visitations of God]]
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
 - Judges 13 — Manoah's wife

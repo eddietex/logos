@@ -83,6 +83,10 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   told that Egypt will afflict his offspring for four hundred years, his household afflicts an
   Egyptian with the same verb, and she flees toward the country the covenant has just named as the
   house of bondage. See [[Affliction and Flight - Hagar and the Exodus]]
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:21, the story's last word on the
+  subject: expelled for good, settled in [[Paran]] on the Egyptian frontier, the Egyptian slave
+  *"took a wife for him out of the land of Egypt"*. **Ishmael's line begins three-quarters Egyptian**,
+  and the traders who carry Joseph down to Egypt at 37:25–28 are Ishmaelites
 
 ## Related places
 
@@ -92,6 +96,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Shur]] — its northeastern frontier, and the road between the two countries in both directions
 - [[Beer Lahai Roi]] — the well on that road, named by an Egyptian slave who was turned back before
   she reached the border
+- [[Paran]] — the wilderness on its northeastern approach, where that slave's son settles and where
+  she fetches him an Egyptian wife
+- [[Beersheba]] — the wilderness she is sent into on the second expulsion, north of Paran
 - [[Assyria]] — the other great power Israel lives between
 - **Cush** and **Put** — Nubia and Libya, its neighbours south and west, and Ham's other two sons
 

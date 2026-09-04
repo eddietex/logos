@@ -12,7 +12,8 @@ tags: [connection]
   offspring; Ishmael is born.
 - **Genesis 21:8–21** — Sarah sees Ishmael *"mocking"* at Isaac's weaning feast and demands that both
   be cast out; Abraham complies at God's word; Hagar and the boy run out of water in the wilderness of
-  Beersheba; *"God heard the voice of the boy"*; a well is opened; they settle in Paran.
+  Beersheba; *"God heard the voice of the boy"*; a well is opened; they settle in Paran. See
+  [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 25:12–18** — Ishmael's twelve princes and their territory *"from Havilah to Shur"*.
 
 ## Analysis

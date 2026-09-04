@@ -395,9 +395,40 @@ leaves richer — six chapters after refusing to take a thread or a sandal strap
 so that nobody could say they had made him rich (14:22–23). Genesis sets the two scenes down and says
 nothing. See [[Not a Thread nor a Sandal Strap]] and [[Abraham and Abimelech]].
 
+### In this pericope — Genesis 21:1–21
+
+**Twenty-one verses, and he does not say one word.**
+
+He is the subject of nine verbs and the speaker of none. He names the son (21:3), circumcises him on
+the eighth day (21:4), makes a great feast (21:8), grieves (21:11), rises early, takes bread and
+water, loads a woman's shoulder, gives her the child, and sends her away (21:14). **The narrator
+reports his feelings once and God overrules them in the next verse.**
+
+**The first half is the most obedient stretch in his life.** Every instruction of chapter 17 is
+executed and marked as executed: the name (17:19), the eighth day (17:12), the date (17:21), the
+hundred years (17:17). Nothing is improvised, nothing is negotiated, and nothing is said.
+
+**The second half is the hardest thing he has done, and he does not argue.** *"The thing was very
+grievous in Abraham's sight on account of his son"* (21:11) — *wayyēraʿ … məʾōd*, *it was very evil
+in his eyes*, the strongest report of anyone's feelings in the whole cycle. **The man who argued six
+rounds with God over strangers in Sodom (18:23–33) says nothing at all about his own son.** God's
+reply corrects him in its first clause — Abraham had grieved *"on account of his son"*, and God says
+*"because of the boy, and because of your servant"*, putting [[Hagar]] back into a sentence her owner
+and her master had both left her out of.
+
+**And the provisions are almost nothing.** Bread and a skin of water, from a man Genesis has twice
+called rich (13:2) and who had just been paid in sheep, cattle, and slaves at 20:14. The book reports
+the amount without comment, as it reports everything else here.
+
+***"Abraham rose up early in the morning"*** (21:14) — the same Hebrew clause that opens Genesis 22:3
+when he takes the other son to a mountain. Both mornings he is silent, both mornings he loads what
+the journey needs, both times a voice from the sky stops the loss at the last moment. See
+[[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] and
+[[The Birth of Isaac and the Sending of Hagar]].
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: the birth of Isaac (21),
+Much of what the Bible says about Abraham is still ahead of this page:
 the treaty at Beersheba (21:22–34), the binding (22), and his death
 and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
@@ -479,6 +510,11 @@ it (Galatians 3:8). This page grows as those arrive.
 - Takes livestock and slaves from the man he deceived, and is offered the run of his land — Genesis
   20:14–15
 - Prays — the Bible's first use of the verb — and Abimelech's household is healed — Genesis 20:17
+- At a hundred years old, sees Isaac born at the set time; names him and circumcises him on the
+  eighth day — Genesis 21:2–5, [[The Birth of Isaac and the Sending of Hagar]]
+- Makes a great feast on the day Isaac is weaned — Genesis 21:8
+- Grieved *very* at Sarah's demand, and told to comply — *"listen to her voice"* — Genesis 21:11–13
+- Rises early, gives Hagar bread and water, and sends her and the boy away — Genesis 21:14
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -507,6 +543,10 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Abraham and Abimelech]] — Genesis 20:1–18; the ruse a second time, in a place he wrongly judges
   godless; called *a prophet* for the first time in Scripture, rebuked by the king he deceived,
   paid by him anyway, and then praying the Bible's first prayer on his behalf
+- [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:1–21; twenty-one verses in which he
+  does not speak: the promised son named, circumcised, and feasted, and then a grief the narrator
+  calls *very evil in his eyes* overruled in one verse, and a woman and a boy sent into a desert with
+  bread and a skin of water
 
 ## Related people
 

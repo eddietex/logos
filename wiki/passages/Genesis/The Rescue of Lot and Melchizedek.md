@@ -377,7 +377,9 @@ chapter's readers pass over.
   Salem identification. No page yet.
 - [[Kadesh]] — named here as *En Mishpat*, the spring of judgment, on the coalition's turn back north.
   It took its own page at Genesis 20:1, where Abraham settles *"between Kadesh and Shur"*.
-- **Ashteroth Karnaim, Ham, Shaveh Kiriathaim, Mount Seir, El Paran, Hazazon Tamar, Hobah,
+- [[Paran]] — named here as *El Paran*, the far southern point of the sweep, *"which is by the
+  wilderness"*. It took its own page at Genesis 21:21, where Ishmael settles in it.
+- **Ashteroth Karnaim, Ham, Shaveh Kiriathaim, Mount Seir, Hazazon Tamar, Hobah,
   Bela/Zoar, Admah, Zeboiim, Ellasar, Goiim** — the campaign itinerary and the rest of the king list.
   Named in plain text rather than linked, and each earns a page when it does work of its own: Seir
   with Esau at Genesis 32, Zoar at Genesis 19:18–23, Admah and Zeboiim in Deuteronomy 29:23 and
