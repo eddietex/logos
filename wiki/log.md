@@ -2517,3 +2517,147 @@ finally gets a border and ten peoples.
 `scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
 dangling links were left deliberately; the ten peoples of judgment call 1 and the river of Egypt of
 judgment call 2 are written in plain text rather than linked.
+
+## [2026-09-04] ingest | Genesis 16.1-16 — Hagar and Ishmael
+
+Unattended run (`/ingest auto`, no target). Genesis is the first `in-progress` book in
+`wiki/books/index.md` and *Hagar and Ishmael* was the first unchecked box on its page.
+`raw/bible/Genesis.md` was already present, so no fetch. Working tree was clean at start, on `main`.
+Step 2's discussion went into the passage page.
+
+**The pericope.** One chapter after a covenant sworn in fire, the household stops waiting. Genesis 15
+never named Sarai in twenty-one verses about an heir, and 16:1 opens on exactly that: *"Now Sarai,
+Abram's wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar."* Sarai is
+the first person in Scripture to say God has closed a womb — *"Yahweh has restrained me from
+bearing"* — and her plan, *ʾûlay ʾibbāneh mimmennâ*, *perhaps I shall be built up from her*, is a
+normal legal instrument (Code of Hammurabi §§144–147) that Rachel and Leah will both use at 30:1–13
+with four tribes as the result. Then Genesis lends the scene Eden's verbs: she **saw**, she **took**,
+she **gave** to *her husband*, and *"Abram listened to the voice of Sarai"* — a clause that occurs
+once elsewhere in the book, in the curse of 3:17. Hagar conceives, lets her contempt show, and Sarai
+brings a lawsuit formula against her own husband with *ḥāmās*, the flood's word for violence, in it.
+Abram's one sentence in the chapter hands a pregnant woman over: *"Behold, your maid is in your hand.
+Do to her whatever is good in your eyes."* Sarai **afflicts** her — *ʿānâ*, 15:13's verb for what
+Egypt will do to Israel — and she **flees** (*bāraḥ*, Moses's verb at Exodus 2:15) toward Shur, which
+is the road to Egypt.
+
+Everything then reverses. *Yahweh's angel* **finds** her — the figure's first appearance in the Bible,
+and it is to a foreign slave rather than a patriarch. She is addressed by name, asked the third divine
+question in Genesis, told to return and submit (16:9, unmitigated), and given the offspring promise in
+the covenant's own grammar: *harbâ ʾarbeh*, which Genesis uses only here, at 3:16 of the woman's pain,
+and at 22:17 of Abraham. She receives Scripture's first annunciation, and her son is named for the
+fact that *"Yahweh has heard your affliction"* — *ʿŏnî*, the noun of Exodus 3:7. His oracle makes him
+a *pereʾ*, the wild donkey God boasts of having set free at Job 39:5–8: the untamable animal, given
+to the son of a slave. And she names God — *ʾĒl Rŏʾî*, *a God who sees* — which nobody else in the
+Bible does. Between 15:21 and 17:1 she is the only human being God speaks to.
+
+**Created**
+
+- `wiki/passages/Genesis/Hagar and Ishmael.md`
+- `wiki/people/Hagar.md` — the seven namings by the narrator against zero by her owners; the
+  *šipḥâ* status; the unique naming-of-God construction; Genesis 21 and Galatians 4 flagged forward;
+  Jewish and Islamic reception recorded as reception.
+- `wiki/people/Ishmael.md` — the *ʾĒl*/*Yahweh* mismatch in name and explanation, the *pereʾ* read
+  through Job 39 rather than as an insult, and 16:12's last clause set beside its verbatim repeat at
+  25:18.
+- `wiki/people/The Angel of Yahweh.md` — the identity problem tabled across five scenes, with the
+  three standing readings (messenger-speech convention, a mode of divine presence, a distinct
+  figure) laid out and none adopted; the pre-incarnate-Son reading recorded as later Christian
+  reading and checked against Acts 7:30–38, Galatians 3:19, and Hebrews 1.
+- `wiki/places/Shur.md` — *wall*, most plausibly Egypt's own frontier forts; the four appearances
+  that make it a threshold from both directions, including Exodus 15:22.
+- `wiki/places/Beer Lahai Roi.md` — the only place in the Bible named by a woman, and Isaac's address
+  at 24:62 and 25:11.
+- `wiki/themes/Slavery and Servitude.md` — *ʿebed*/*šipḥâ* vocabulary, Genesis 16 as the founding
+  narrative, the Torah's regulations pulling both ways (Exodus 21; Leviticus 25:39–46 against
+  Deuteronomy 23:15–16), and the New Testament's handling, with no abolitionist verdict claimed for
+  a text that does not give one.
+- `wiki/themes/Seeing and Being Seen.md` — the three *in the eyes* judgments of 16:4–6 against
+  *ʾĒl Rŏʾî*; God's seeing as the move before an intervention; the *seeing God and living* thread.
+- `wiki/connections/Listening to the Voice - Genesis 3 and Genesis 16.md`
+- `wiki/connections/Affliction and Flight - Hagar and the Exodus.md`
+- `wiki/connections/The Two Flights of Hagar.md`
+- `wiki/connections/Hagar and Sarah in Galatians.md`
+
+**Revised**
+
+- `wiki/books/Genesis.md` (box checked and linked, Abraham-section overview extended, three people,
+  two places, two themes added), `wiki/books/index.md` (20 / 58).
+- `wiki/people/Abraham.md` (new pericope section, three timeline entries, two related people, two
+  themes), `wiki/people/Sarah.md` (new pericope section, two timeline entries, two related people,
+  two themes), `wiki/people/God.md` (new section *He speaks to a slave, and lets her name him*,
+  timeline entry, Appears-in entry, two related people, two themes).
+- `wiki/places/Egypt.md` (Egypt as identity rather than location; the 12:16 → 16:1 inference),
+  `wiki/places/Canaan.md` (16:3's ten-year clock).
+- `wiki/themes/Barrenness.md`, `Blessing.md`, `Marriage.md`, `The Names of God.md`,
+  `Land and Sojourning.md`, `Strife and Peacemaking.md`, `Prophecy and Vision.md`, `Faith.md`,
+  `The Nations.md`.
+- `wiki/connections/Dust, Stars, and Sand - The Offspring Promises.md` (16:10 added as the fourth
+  recipient, with its own section: the formula with no image, no land, and a woman as the addressee),
+  `wiki/connections/Down to Egypt and Up Again - Abram's Descent as Proto-Exodus.md` (the coda in
+  which the household changes seats).
+- `wiki/passages/Genesis/The Covenant Between the Pieces.md` (its Genesis 16 cross-reference is now
+  a link).
+- All five indexes and `wiki/index.md`'s counts (26 passages · 58 people · 32 places · 46 themes ·
+  66 connections).
+
+**Judgment calls made unattended**
+
+1. **Three new people pages, and one deliberately not made.** Hagar, Ishmael, and the angel of Yahweh
+   all earn pages — the angel because 16:7 is the figure's first appearance in Scripture and the
+   identity problem starts here. Isaac does **not** get one: he is mentioned only as the later
+   resident of Beer Lahai Roi, and 21:1–7 is where he is born. `[[Isaac]]` was written into the
+   passage page's Beer Lahai Roi paragraph and then removed rather than leaving a dangling link.
+2. **Kadesh and Bered left without pages, consistent with the Genesis 14 pass.** 16:14 uses both only
+   to locate the well. Kadesh was already deferred to Numbers 13 by the Genesis 14 ingest and stays
+   deferred; Bered is a hapax and unidentified. Both are named in plain text under `## Places`.
+3. **The angel's identity treated as a person page rather than a connection page.** The thread runs
+   across Genesis 22, Exodus 3, Numbers 22, Judges 6 and 13, and Zechariah 3, which argues for a
+   connection page — but the wiki's person pages already carry Appears-in lists and the alternative
+   would have duplicated the table. If the figure gets a dedicated connection page later, the table
+   moves there.
+4. **Genesis 16:9 stated flatly and not softened, on four pages.** The command to return to the
+   household that afflicted her is recorded as the passage's hard edge, with what accompanies it
+   (the promise, the name, the release in Genesis 21) noted and not offered as compensation. The
+   passage page also says explicitly that reading it as an endorsement of endurance in abuse is a use
+   the chapter does not authorize, and that Deuteronomy 23:15–16 eventually legislates the opposite.
+5. **16:12 handled as description rather than verdict.** *Pereʾ ʾādām* is read through Job 39:5–8,
+   where the wild donkey is God's own example of a creature he set free; *"he will live opposite all
+   of his brothers"* is left ambiguous between *in defiance of* and *alongside*, on the evidence of
+   25:18's verbatim repetition. The pages say plainly that the verse has been used as a permanent
+   verdict on a people and that the Hebrew does not support it.
+6. **Galatians 4:21–31 given its own page, with four explicit limits.** Paul announces an allegory;
+   the page says so, refuses to let the diagram overwrite the woman, and names the anti-Jewish
+   reading as a use the letter does not license.
+7. **The doublet question recorded, not resolved.** Genesis 16 and 21:9–21 are laid side by side in
+   a twelve-row table; the J/E assignment and the toddler problem at 21:14–15 are both stated, and
+   the wiki reads the two as first-and-answer without needing the source question settled.
+8. **Reception history included and labelled.** Rabbinic identification of Hagar with Keturah, and
+   the Islamic Hājar/Ismāʿīl tradition (Zamzam, the *saʿy*, the son of the sacrifice at Qurʾān
+   37:99–113, where the son is unnamed), are recorded on the passage and person pages as reception
+   rather than exegesis.
+9. **No pericope boundaries redrawn.** 16:1–16 is a clean unit; 17:1 opens with a new theophany and
+   a thirteen-year jump. The existing plan already had the break there.
+10. **The Masoretic *puncta extraordinaria* over 16:5's *ûbênêkā* mentioned without a theory.** The
+    dots are in the standard text and the tradition's reason for them is not recoverable; the page
+    says only that they are a very old signal that a scribe found the verse hard.
+11. **Quote accuracy.** All sixteen block-quoted verses under `## Key verses` were verified
+    character-for-character against `raw/bible/Genesis.md` by script, and every italic quotation of
+    Genesis and Job on every page touched this pass was checked the same way. Seven slips were caught
+    and fixed: Genesis 4:9 on `God` as *"Where is Abel your brother?"* (WEB has a comma —
+    *"Where is Abel, your brother?"*); Genesis 13:9 lowercased mid-quote as *"if you go to the left
+    hand"* (WEB: *"If you go…"*); Genesis 15:13 lowercased as *"they will afflict them four hundred
+    years"* (WEB: *"They will afflict them…"*); Genesis 16:6 on `Slavery and Servitude` re-punctuated
+    as *"your maid is in your hand, do to her…"* (WEB: *"Behold, your maid is in your hand. Do to
+    her…"*); Genesis 17:21 on `Ishmael` as *"my covenant I will establish with Isaac"* (WEB: *"my
+    covenant I establish with Isaac"*); Genesis 21:11 on `The Two Flights of Hagar` lowercased as
+    *"the thing was very grievous"*; and Genesis 9:25 on `Slavery and Servitude` given in a
+    non-WEB rendering, *"Cursed be Canaan"* (WEB: *"Canaan is cursed."*). Genesis 38:7 was also
+    quoted from memory as *"the thing that Er did was evil in Yahweh's sight"* and replaced with the
+    WEB text, *"Er, Judah's firstborn, was wicked in Yahweh's sight."* One rendering of my own,
+    *perhaps I shall be built up from her*, was presented once as a quotation and is now a gloss.
+    Quotations of Exodus, the prophets, and the New Testament remain unverifiable against any source
+    in this repo, as elsewhere in the wiki.
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 (unchanged — no new book page this pass). No
+dangling links were left deliberately; Kadesh and Bered of judgment call 2 are written in plain text
+rather than linked, and Isaac is named in prose without a link until Genesis 21 creates his page.

@@ -405,6 +405,42 @@ to him for righteousness"* (15:6) — the crediting is his, the accounting verb 
 credits is a man leaning on a promise about a son who does not exist. See [[Faith]] and
 [[Righteousness]].
 
+### He speaks to a slave, and lets her name him — Genesis 16:1–16
+
+**Between the covenant of 15:21 and the appearance of 17:1, the only human being he addresses in the
+book of Genesis is a runaway Egyptian slave girl.** He does not speak to Abram in chapter 16 at all.
+That is the fact the chapter is built to produce, and everything else in it follows from it.
+
+He arrives as ***Yahweh's angel*** (16:7), the **first appearance of that figure in Scripture**, and
+the chapter never separates the messenger from the sender: at 16:10 the angel speaks in the divine
+first person, and at 16:13 Hagar names *Yahweh who spoke to her*. See [[The Angel of Yahweh]].
+
+Four things he does here he has not done before.
+
+- **He finds someone nobody is looking for.** The verb is *māṣāʾ*. Adam and Cain were sought and
+  questioned in their own place; Hagar is found at the last spring before the Egyptian frontier.
+- **He asks the third divine question in Genesis.** *"Where did you come from? Where are you going?"*
+  (16:8), after *"Where are you?"* (3:9) and *"Where is Abel, your brother?"* (4:9). She answers half.
+- **He gives the offspring promise to a woman, in the covenant's own grammar.** *Harbâ ʾarbeh* —
+  *"I will greatly multiply your offspring, that they will not be counted for multitude"* (16:10). The
+  formula belongs to 22:17 and to the patriarchs; no other woman in Scripture receives it directly.
+- **He announces a birth, names the child, and gives the reason** (16:11) — Scripture's first
+  annunciation, four chapters before Sarah is told anything, and the reason is that he *heard her
+  affliction*, using the noun Exodus 3:7 will use of Israel in Egypt. Nobody reported the affliction
+  to him.
+
+And **he does the one thing here that is hardest to hold**: *"Return to your mistress, and submit
+yourself under her hands"* (16:9), sending her back to the household that afflicted her, with no
+rebuke of Sarai and no term set. The wiki states it plainly rather than smoothing it. What he sends
+her back with is a promise, a name, and — five chapters later — a release he does not make her earn
+(21:17–21).
+
+He ends the chapter named. *"She called the name of Yahweh who spoke to her, 'You are a God who
+sees'"* (16:13). **This is the only place in the Bible where a human being gives God a name**, and the
+name is *ʾĒl Rŏʾî* — the God who sees. It is given by a slave with no altar, no covenant, no standing
+in the household, and no husband of her own, in a book where the men who do have all of those build
+altars and call *on* his name instead. See [[Seeing and Being Seen]] and [[The Names of God]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -514,6 +550,12 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   guilt is complete, and then passes between the pieces alone as fire and smoke — swearing a
   self-curse over a sleeping man who has undertaken nothing —
   [[The Covenant Between the Pieces]]
+- Says nothing to the man he has just sworn a covenant to, and instead — as *Yahweh's angel*, his
+  first appearance under that title — finds a runaway Egyptian slave at a spring on the Egyptian
+  road, calls her by name, gives her the offspring promise in its own covenant grammar, announces her
+  son's birth and names him for the affliction he has heard, sends her back to the household that
+  afflicted her, and lets her name him *a God who sees* — the only time in Scripture a human being
+  gives God a name — [[Hagar and Ishmael]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -569,6 +611,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   gives the Bible's first predictive oracle, and then — in the only self-description Genesis ever
   supplies of what he looked like — passes between the halves of five animals as a smoking furnace
   and a flaming torch, alone, while the other party to the covenant sleeps.
+- [[Hagar and Ishmael]] — as *Yahweh's angel*, the title's first appearance, and as the only speaker
+  God has in the chapter: he addresses nobody in Abram's household and everything he says he says to
+  a slave. He hears an affliction no one reported, gives a woman the offspring promise, delivers
+  Scripture's first annunciation, sends her back under the verb the exodus uses for slavery, and is
+  named by her for seeing.
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
@@ -599,6 +646,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   him, the first he calls righteous, and the first he offers a covenant
 - [[Abraham]] — the first man he calls, and the first he appears to; chosen out of the seventy
   nations for the sake of *"all the families of the earth"*, on grounds never stated
+- [[Hagar]] — the first person the angel of Yahweh appears to, the first woman since Eve he speaks
+  to, and the only human being in the Bible who gives him a name
+- [[Ishmael]] — named by him before birth for the fact that he heard; blessed, made a nation, and
+  kept outside the covenant
 - [[Shem]], [[Ham]], and [[Japheth]] — carried through the flood with their father, and the three
   from whom he repopulates the earth
 - [[Job (person)]] — who accuses him, appeals to him, and is finally answered by him, and of whom he
@@ -639,3 +690,5 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Prophecy and Vision]]
 - [[Oaths and Vows]]
 - [[The Names of God]]
+- [[Seeing and Being Seen]]
+- [[Slavery and Servitude]]

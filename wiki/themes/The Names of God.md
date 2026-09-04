@@ -82,7 +82,14 @@ and it is what Abram folds the others into.
   standing address. See [[The Covenant Between the Pieces]]
 - Genesis 15:7 — *"I am Yahweh who brought you out of Ur of the Chaldees"*: the self-presentation
   formula's first occurrence, in the shape Exodus 20:2 will use with Egypt in place of Ur
-- Genesis 16:13 — Hagar names God
+- Genesis 16:13 — ***ʾĒl Rŏʾî***, *a God who sees*. **The only place in the Bible where a human being
+  gives God a name.** Everyone else in Genesis calls *on* the name (4:26; 12:8) or names a place for
+  what happened there (22:14; 28:19; 32:30); the construction here — *she called the name of Yahweh
+  who spoke to her* — has God as the direct object of the naming and no parallel in Scripture. It is
+  done by an Egyptian slave with no altar, no covenant, and no standing, and the well keeps the name
+  as *Beer Lahai Roi*, *the well of the Living One who sees me*. It is also the middle of three *ʾĒl*
+  titles in four chapters — *ʿElyôn* (14:18), *Rŏʾî* (16:13), *Šadday* (17:1) — two of them supplied
+  by people outside the covenant line. See [[Hagar and Ishmael]] and [[Seeing and Being Seen]]
 - Genesis 17:1; 21:33; 22:14 — *Šadday*, *ʿÔlām*, *Yirʾeh*
 - Exodus 3:13–15 — I AM
 - Exodus 6:2–3 — the name not known to the fathers

@@ -90,6 +90,9 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Covenant Between the Pieces]] — Genesis 15:7, 18–21: the first time the promise has an edge
   rather than a gesture, drawn from the river of Egypt to the Euphrates and inventoried by ten
   peoples — the largest territorial claim in the Bible, and one Israel never holds
+- [[Hagar and Ishmael]] — Genesis 16:3, where the land appears as a clock: *"after Abram had lived
+  ten years in the land of Canaan"*. It is the only thing the verse measures, and it is the reason
+  the chapter happens — ten years in the country he was promised, and no child in it
 
 ## Related places
 
@@ -125,3 +128,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   command — Genesis 13:14–17, [[Abram and Lot Separate]]
 - Given a border for the first time — from the river of Egypt to the Euphrates — and inventoried by
   ten peoples — Genesis 15:18–21, [[The Covenant Between the Pieces]]
+- Ten years of Abram's residence in it pass without a child, and his household turns to a slave —
+  Genesis 16:3, [[Hagar and Ishmael]]

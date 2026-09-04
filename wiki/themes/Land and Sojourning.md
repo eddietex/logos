@@ -108,6 +108,13 @@ where that starts, in a sentence about a family that got halfway.
   title, zero possession, and a stated reason for the delay
 - [[From the River of Egypt to the Euphrates]] — the largest land claim in Scripture against the
   smaller map Numbers 34 and Ezekiel 47 actually work from
+- [[Hagar and Ishmael]] — Genesis 16, where the theme turns around and looks at the household from
+  outside. *"after Abram had lived ten years in the land of Canaan"* (16:3) is the verse's only
+  measurement, and it is a measurement of waiting. And the pericope's other traveller is going the
+  other way: an Egyptian slave on *"the way to Shur"*, the road out of the promised land and back to
+  the country the covenant has just called four hundred years of servitude (15:13). She is stopped at
+  the frontier and sent back; her son ends up ranging *"from Havilah to Shur"* (25:18), on the desert
+  margin of a land he has no share in
 - Genesis 23 — Machpelah, the only ground Abraham owns *(not yet ingested)*
 - Leviticus 25:23 — *"the land is mine; for you are strangers"*
 - Deuteronomy 34:1–5 — Moses outside the land

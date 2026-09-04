@@ -82,6 +82,12 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   founding text; and 15:8, the request for a sign that the same chapter does not treat as its
   opposite
 - [[The Call of Abram]] — Genesis 12:4: faith as a verb of motion, with no interior reported
+- [[Hagar and Ishmael]] — Genesis 16, the counterweight, and the reason this theme cannot be read off
+  15:6 alone. The man credited with righteousness for believing a promise about his own body spends
+  the next chapter carrying out his wife's plan to secure it by other means, without one recorded
+  word — and Genesis places the two chapters back to back and passes no comment on either. Whatever
+  *heʾĕmin* meant at 15:6, it plainly did not mean a settled state that made 16:2 impossible.
+  Hebrews 11:11–12 and Romans 4:19–21 tell the story with chapter 16 left out; Genesis does not
 - [[Noah and the Flood]] — obedience before there is a word for it, and what Hebrews 11:7 calls it
 - [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] — the whole downstream
   argument, including the half of it that was already in Psalm 106:31

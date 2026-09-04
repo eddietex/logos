@@ -78,7 +78,14 @@ the women than the frame they are written in.
   correction about whose body the heir will come from — *"he who will come out of your own body"* —
   which conspicuously does not say *hers*. Sarai is not named once in the chapter, and Genesis 16:1
   opens on exactly that omission
-- Genesis 16; 17:15–21; 18:9–15; 21:1–7 — Sarah, from Hagar to Isaac *(not yet ingested)*
+- [[Hagar and Ishmael]] — Genesis 16, where the barrenness stops being a fact and becomes a decision.
+  Sarai is the **first person in Scripture to attribute a closed womb to God** — *"Yahweh has
+  restrained me from bearing"* (16:2) — and she is right by the standards of the rest of the Bible
+  (29:31; 30:2, 22; 1 Samuel 1:5). What she does with the diagnosis is the theme's most important
+  demonstration: the legally available solution **works**. A child is born, the household has an heir,
+  and he is the wrong one. Barrenness in Genesis is not a puzzle to be solved but a wait to be
+  endured, and chapter 16 is where the book proves it by showing the solution succeed
+- Genesis 17:15–21; 18:9–15; 21:1–7 — Sarah, from the renaming to Isaac *(not yet ingested)*
 - Genesis 25:21 — Rebekah *(not yet ingested)*
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
 - Judges 13 — Manoah's wife
@@ -99,10 +106,13 @@ the women than the frame they are written in.
 - [[Marriage]]
 - [[Favor and Grace]] — the child is given, never achieved
 - [[Faith]] — what the barren womb is the standing evidence against, and what Genesis 15:6 credits
+- [[Slavery and Servitude]] — whose body the household reaches for when the wait becomes intolerable
 
 ## Related people
 
 - [[Sarah]] — the first, and the pattern
 - [[Abraham]] — promised a nation four verses after his wife is called barren
+- [[Hagar]] — the fertile one, and what the arrangement costs her
+- [[Ishmael]] — the child the human solution produces
 - [[Eliezer of Damascus]] — the heir barrenness produces, and whom Genesis 15:4 removes
 - [[Terah]] — in whose household the sentence is first recorded

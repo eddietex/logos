@@ -11,6 +11,8 @@ tags: [connection]
   count the dust of the earth, then your offspring may also be counted."*
 - **Genesis 15:5** — *"Look now toward the sky, and count the stars, if you are able to count
   them."* … *"So will your offspring be."*
+- **Genesis 16:10** (to Hagar) — *"I will greatly multiply your offspring, that they will not be
+  counted for multitude."*
 - **Genesis 22:17** — *"I will multiply your offspring greatly like the stars of the heavens, and
   like the sand which is on the seashore."*
 - **Genesis 26:4** (to Isaac) — *"I will multiply your offspring as the stars of the sky."*
@@ -84,6 +86,32 @@ gathers two of the three back onto Abraham himself: *"there were fathered as man
 sky in multitude, and as innumerable as the sand which is by the sea shore"* — from *"one, and him as
 good as dead."*
 
+### The one without a material — Genesis 16:10
+
+Between the stars and the sand, the promise is made a fourth time, and to somebody else.
+
+*"I will greatly multiply your offspring, that they will not be counted for multitude"* (16:10) has
+the formula's two load-bearing parts — *harbâ ʾarbeh*, the infinitive-absolute *I will greatly
+multiply*, and the refusal of a count — and **no image at all.** No dust, no stars, no sand. Whatever
+else it is, it is not a casual sentence: *harbâ ʾarbeh* occurs in Genesis exactly three times, at
+3:16 of the woman's pain in childbirth, here, and at 22:17 of Abraham after the binding of Isaac. The
+covenant's own grammar, in the middle of the desert, spoken to a pregnant slave.
+
+Three things follow from that, and the wiki keeps all three.
+
+- **It is the only time in Scripture a woman receives the offspring promise in her own right.** Sarah
+  is told at 17:16 that she will be *"a mother of nations"*, but the sentence is addressed to Abraham
+  about her; Rebekah's oracle at 25:23 is about which of two sons will serve the other, not about a
+  multitude. Hagar is spoken to.
+- **It is given outside the covenant line and never withdrawn.** Genesis 17:20 restates it — *"I have
+  blessed him, and will make him fruitful, and will multiply him exceedingly"* — in the same breath
+  as *"But my covenant I will establish with Isaac."*
+- **It does not come with land.** The three material promises to Abram, Isaac, and Jacob are always
+  attached to a country. Hagar's is attached to nothing; her son's descendants end up ranging
+  *"from Havilah to Shur"* (25:18), on the margin of a land they have no share in.
+
+See [[Hagar and Ishmael]].
+
 ## Significance
 
 - **13:16 is where the offspring promise first becomes a quantity.** Genesis 12:2 said *"a great
@@ -93,6 +121,9 @@ good as dead."*
 - **15:5 is where it becomes an argument.** The dust of 13:16 was given to a man who had said
   nothing; the stars are given to a man who has just objected, and are followed immediately by the
   Bible's first use of the verb *believe*. See [[The Covenant Between the Pieces]] and [[Faith]].
+- **16:10 is where it escapes the line it was promised to.** The same formula, the same refusal of a
+  count, no image, no land, and a recipient with no covenant and no standing. Genesis says it and
+  does not take it back.
 - **The images are not interchangeable.** Dust is the ground, mortality, and the curse; stars are the
   sky, night, and a man who has run out of patience; sand is the sea, an oath, and a son given back.
   Reading them as three ways of saying *lots* loses the argument each one is making.

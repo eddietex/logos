@@ -448,7 +448,9 @@ it in every direction.
 - [[Not a Thread nor a Sandal Strap]] — 14:23's refused *rəkūš* and 15:14's promised *rəkūš gādôl*.
 - Genesis 2:21 — *"Yahweh God caused the man to fall into a deep sleep"*: the only other *tardēmâ* in
   Genesis, and the only other time God does something decisive to a man who cannot watch.
-- Genesis 16:1–4 — the chapter that walks into 15:4's silence about Sarai, four verses later.
+- [[Hagar and Ishmael]] — Genesis 16, the chapter that walks into 15:4's silence about Sarai four
+  verses later, and answers the offspring promise with a slave; 15:13's *afflict* is the verb Sarai
+  uses on her at 16:6.
 - Genesis 17:1–14 — the covenant re-given with a sign and, for the first time, a stipulation:
   *"Walk before me, and be blameless."*
 - Genesis 22:15–18 — the promise sworn by oath after the binding, the only other time God swears to

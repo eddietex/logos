@@ -55,7 +55,15 @@ even fratricidal betrayal into rescue (Joseph).
   pass between the halves **alone**: God swears the self-curse the rite exists to enact, and Abram
   undertakes nothing. The chapter contains the Bible's first *cut a covenant*, its first prophetic
   formula, its first *"Don't be afraid"*, its first prediction of the exodus, and the first border
-  the land promise is ever given.
+  the land promise is ever given. And then, immediately, *[[Hagar and Ishmael]]* shows what a
+  household does with a promise it is tired of waiting for. Genesis 15 never mentioned Sarai; Genesis
+  16 opens on that omission, and its solution is a woman the household owns. The chapter passes no
+  verdict on anybody — it simply imports Eden's four verbs (*see, take, give, listen to the voice of
+  your wife*), the flood's word for violence, and the exodus's word for affliction, and lets the
+  reader do the arithmetic. Its centre is the reversal: between the covenant of 15:21 and the
+  appearance of 17:1, the only person God speaks to in Genesis is a runaway Egyptian slave, who is
+  given the offspring promise in its own covenant grammar, told her son's name in Scripture's first
+  annunciation, and becomes the only human being in the Bible to give God a name.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -89,7 +97,7 @@ merge, or reorder them freely.
 - [x] [[Abram and Lot Separate]] — Genesis 13:1–18
 - [x] [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–24
 - [x] [[The Covenant Between the Pieces]] — Genesis 15:1–21
-- [ ] Hagar and Ishmael — Genesis 16:1–16
+- [x] [[Hagar and Ishmael]] — Genesis 16:1–16
 - [ ] Circumcision, the Sign of the Covenant — Genesis 17:1–27
 - [ ] The Three Visitors and Abraham's Intercession — Genesis 18:1–33
 - [ ] The Destruction of Sodom and Gomorrah — Genesis 19:1–29
@@ -164,6 +172,8 @@ merge, or reorder them freely.
 - [[Deception]]
 - [[Faith]]
 - [[Prophecy and Vision]]
+- [[Slavery and Servitude]]
+- [[Seeing and Being Seen]]
 
 ## Key people
 
@@ -189,6 +199,9 @@ merge, or reorder them freely.
 - [[Sarah]]
 - [[Lot]]
 - [[Pharaoh (of Abram's time)]]
+- [[Hagar]]
+- [[Ishmael]]
+- [[The Angel of Yahweh]]
 
 ## Key places
 
@@ -208,3 +221,5 @@ merge, or reorder them freely.
 - [[Bethel]]
 - [[Ai]]
 - [[The Negev]]
+- [[Shur]]
+- [[Beer Lahai Roi]]

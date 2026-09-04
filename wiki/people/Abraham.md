@@ -230,9 +230,33 @@ exactly that gap. And nothing in the chapter is a sacrifice — five clean speci
 with fire arriving, and no altar, no burning, and no offering. See
 [[The Covenant Between the Pieces]].
 
+### In this pericope — Genesis 16:1–16
+
+**He listens, complies, and says one sentence in sixteen verses.**
+
+*"Abram listened to the voice of Sarai"* (16:2). The clause occurs once elsewhere in Genesis, in the
+sentence that curses the ground: *"Because you have listened to your wife's voice, and ate from the
+tree"* (3:17). He is not recorded answering her, agreeing, hesitating, or praying about it; the man
+who argued with God twice in the previous chapter says nothing at all here about a plan to produce
+the heir God has just promised him.
+
+*"Behold, your maid is in your hand. Do to her whatever is good in your eyes"* (16:6). **His only
+speech in the chapter, and it hands a pregnant woman to the person who resents her.** Set it beside
+his only speech at 13:8–9, where he ended a quarrel by giving away his own claim to a country: the
+same generosity of form, put to the opposite use. There it cost him everything and kept the peace;
+here it costs him nothing and keeps the peace by conceding a person.
+
+**God does not speak to him in this chapter.** It is the only chapter in the Abraham cycle in which
+God speaks and Abram is not the one addressed — the divine speech goes entirely to an Egyptian slave
+in a desert. He does not learn what she was told from God; he learns it from her, which is the
+inference behind 16:15: the angel told **Hagar** to name the child *Ishmael*, and it is Abram who does
+the naming, so she came back and told him.
+
+He is eighty-six (16:16). For the next fourteen years he has a son, and it is the wrong one.
+
 ### Where the rest of him is
 
-Almost everything the Bible says about Abraham is still ahead of this page: Hagar (16), circumcision and
+Almost everything the Bible says about Abraham is still ahead of this page: circumcision and
 the new name (17), the intercession for Sodom (18), the ruse repeated at Gerar (20), the birth of
 Isaac (21), the binding (22), and his death and burial at Machpelah (25). The New Testament
 makes him the pattern case for faith reckoned as righteousness (Romans 4; Galatians 3), for going
@@ -279,6 +303,12 @@ it (Galatians 3:8). This page grows as those arrive.
 - Falls into a deep sleep, and is told of four hundred years of slavery and his own peaceful death —
   Genesis 15:12–16
 - Yahweh cuts a covenant with him, passing between the pieces alone — Genesis 15:17–21
+- Listens to Sarai's voice and takes her Egyptian slave as a second wife, in his tenth year in Canaan
+  — Genesis 16:2–3, [[Hagar and Ishmael]]
+- Gives Sarai unlimited discretion over the pregnant Hagar, in his one sentence of the chapter —
+  Genesis 16:6
+- Names his firstborn Ishmael at eighty-six, with a name only Hagar could have told him — Genesis
+  16:15–16
 - Renamed Abraham — Genesis 17:5 *(not yet ingested)*
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
@@ -293,6 +323,8 @@ it (Galatians 3:8). This page grows as those arrive.
   tithe, and the first refusal
 - [[The Covenant Between the Pieces]] — Genesis 15:1–21; his first words to God are a complaint, he
   is credited with righteousness for believing, and then he sleeps through his own covenant
+- [[Hagar and Ishmael]] — Genesis 16:1–16; he listens, complies, says one sentence that hands a woman
+  over, is not spoken to by God at all, and ends the chapter naming a son he was not told to name
 
 ## Related people
 
@@ -315,6 +347,8 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Mamre (person)]], [[Eshcol]], and [[Aner]] — his Amorite covenant-partners
 - [[Chedorlaomer]] — the overlord he defeats with three hundred eighteen men
 - [[Eliezer of Damascus]] — his steward and, until Genesis 15:4, his heir
+- [[Hagar]] — his second wife, whose name he never says and to whom he never speaks
+- [[Ishmael]] — his firstborn, his only son for fourteen years, and the one he will plead for at 17:18
 
 ## Themes associated
 
@@ -335,3 +369,5 @@ it (Galatians 3:8). This page grows as those arrive.
 - [[Faith]]
 - [[Righteousness]]
 - [[Prophecy and Vision]]
+- [[Slavery and Servitude]]
+- [[Marriage]]

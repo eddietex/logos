@@ -100,6 +100,14 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   the families of the earth would be blessed through the man receiving it (12:3). Genesis holds the
   two without comment — and two of the ten, the Kenites and the Kenizzites, turn out to be on
   Israel's side when the land is actually taken
+- [[Hagar and Ishmael]] — Genesis 16:10–12, where a nation is promised **inside** the family rather
+  than around it. Ishmael is the first of the peoples Genesis derives from Abraham outside the
+  covenant line (with Esau's Edom at 36, and Keturah's sons at 25:1–4), and the only one to receive
+  the offspring promise in the covenant's own formula. His mother is Egyptian, his wife will be
+  Egyptian (21:21), his twelve princes answer Israel's twelve tribes (25:12–16), and 16:12's *"he
+  will live opposite all of his brothers"* is repeated word for word of his descendants at 25:18.
+  Genesis blesses him, makes him a nation, and gives the covenant to someone else, without ever
+  explaining how the two sit together
 - [[The Rescue of Lot and Melchizedek]] — the first chapter in which Abram actually deals with the
   nations rather than being promised them: an Elamite overlord, a king of *Goiim* (*nations*, with no
   country attached), three Amorite covenant-partners, a Canaanite priest of God Most High whose

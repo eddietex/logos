@@ -94,6 +94,23 @@ king killing sons and a return out of it, and quotes Hosea 11:1 — *"Out of Egy
 a verse that in its own context is about the nation. Matthew reads the pattern as one thing running
 through Abram, Israel, and Jesus, which is the same move Ramban made, from the other direction.
 
+### What came up out of Egypt with him
+
+The pattern has a coda four chapters later, and it runs in the opposite direction.
+
+Among the wages Abram took for his wife at 12:16 were *"male servants, female servants"*. At 16:1 he
+has in his household *"a servant, an Egyptian, whose name was Hagar"* — and Genesis, which is not in
+the habit of explaining where people come from, has already supplied the likeliest answer. The
+descent into Egypt did not only produce livestock and silver; on the plainest reading it produced the
+woman the next chapter's crisis is built on.
+
+And then the vocabulary flips. Abram is told at 15:13 that his offspring will be **afflicted**
+(*ʿānâ*) in a land that is not theirs. One chapter later his wife **afflicts** (*ʿānâ*) the Egyptian,
+who **flees** (*bāraḥ*, the verb of Moses at Exodus 2:15) into the wilderness toward Egypt, meets God
+at water, is given a promise of innumerable offspring — and is sent back. The proto-exodus of Genesis
+12 has Abram in Israel's seat; Genesis 16 puts his household in Pharaoh's. See
+[[Affliction and Flight - Hagar and the Exodus]] and [[Hagar and Ishmael]].
+
 ## Significance
 
 The parallel does two things at once.

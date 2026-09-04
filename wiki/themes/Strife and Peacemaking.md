@@ -73,6 +73,12 @@ the land.
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14–16, the counterpart: one chapter after
   avoiding a fight by giving away what was his, he starts one to recover what is not, for the same
   nephew. The wiki reads the two chapters as a single argument about what Abram will spend himself on
+- [[Hagar and Ishmael]] — Genesis 16:5–6, the third quarrel in the household and the one that shows
+  what the founding case at 13:8–9 was actually made of. The form is identical: Abram is presented
+  with a dispute and responds by conceding rather than adjudicating — *"Behold, your maid is in your
+  hand. Do to her whatever is good in your eyes."* But at 13:9 what he gave away was his own claim to
+  a country, and here what he gives away is a pregnant woman who is not consulted. Same generosity,
+  opposite cost, and the peace it buys is bought with someone else's money
 - Genesis 26:17–22 — Isaac's wells, conceded twice *(not yet ingested)*
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*

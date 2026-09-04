@@ -75,12 +75,23 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   is not theirs"*, four hundred years of affliction, a judged nation, a departure *"with great
   wealth"* — the exodus announced to a childless man four centuries early; and *"the river of Egypt"*
   as the promise's southern boundary
+- [[Hagar and Ishmael]] — Genesis 16, where Egypt is not a location but a person's identity.
+  *"an Egyptian, whose name was Hagar"* (16:1), *"Hagar the Egyptian"* (16:3), and still *"Hagar the
+  Egyptian"* nine chapters later at 25:12. She is most plausibly one of the *"female servants"* Abram
+  was paid for his wife at 12:16 — which makes the whole chapter a delayed consequence of the descent
+  into Egypt. And when she runs, she runs *"on the way to Shur"*: home. One chapter after Abram is
+  told that Egypt will afflict his offspring for four hundred years, his household afflicts an
+  Egyptian with the same verb, and she flees toward the country the covenant has just named as the
+  house of bondage. See [[Affliction and Flight - Hagar and the Exodus]]
 
 ## Related places
 
 - [[Canaan]] — its neighbour to the north-east, and Ham's other great territory; the land that
   starves while this one eats
 - [[The Negev]] — the dry corridor between the two, and the road down
+- [[Shur]] — its northeastern frontier, and the road between the two countries in both directions
+- [[Beer Lahai Roi]] — the well on that road, named by an Egyptian slave who was turned back before
+  she reached the border
 - [[Assyria]] — the other great power Israel lives between
 - **Cush** and **Put** — Nubia and Libya, its neighbours south and west, and Ham's other two sons
 
@@ -93,6 +104,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - Yahweh afflicts Pharaoh's house with great plagues; Abram is questioned and escorted out of the
   country — Genesis 12:17–20
 - Abram goes up out of Egypt very rich — Genesis 13:1–2, [[Abram and Lot Separate]]
+- An Egyptian slave in Abram's household is given to him as a wife, afflicted, and driven out; she
+  flees back toward Egypt and is turned around at the frontier — Genesis 16:1–9,
+  [[Hagar and Ishmael]]
+- Foretold, unnamed, as the land where Abram's offspring will be foreigners and slaves for four
+  hundred years — Genesis 15:13–14, [[The Covenant Between the Pieces]]
 - Foretold, without being named, as the land of four hundred years' affliction, the nation God will
   judge, and the country his offspring leave with great wealth — Genesis 15:13–14,
   [[The Covenant Between the Pieces]]

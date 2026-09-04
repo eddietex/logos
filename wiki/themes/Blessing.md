@@ -159,6 +159,12 @@ costly.
   than merely announced. It is also the chapter where the blessing is protested: *"what will you give
   me, since I go childless"* is a man saying, four chapters after 12:2, that the blessing has not
   arrived
+- [[Hagar and Ishmael]] — Genesis 16:10: *"I will greatly multiply your offspring, that they will not
+  be counted for multitude"*. The offspring blessing in its own Hebrew formula (*harbâ ʾarbeh*, used
+  in Genesis only here, at 3:16 of the woman's pain, and at 22:17 of Abraham) — spoken not to a
+  patriarch under the stars but to a pregnant slave at a desert spring, and the only time in Scripture
+  a woman receives it in her own right. The blessing arrives outside the line it was promised to and
+  is not taken back from it
 - [[The Sons of God and the Corruption of the Earth]] — *"when men began to multiply"*: the blessing
   working, and the world it fills condemned four verses later
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand

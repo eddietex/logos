@@ -119,6 +119,12 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   one of them barren
 - [[Abram in Egypt]] — Genesis 12:10–20: a wife given out as a sister, taken into a king's house,
   paid for, and returned by a plague
+- [[Hagar and Ishmael]] — Genesis 16:3: Sarai *"took Hagar the Egyptian, her servant … and gave her
+  to Abram her husband to be his wife"* — *lə-ʾiššâ*, wife, not concubine — so that the first wife
+  can count the child as hers. The Bible's first polygamous household outside the line of Cain, and
+  the first of three in Genesis built this way; the passage page sets out the ancient Near Eastern
+  law (Code of Hammurabi §§144–147) that makes it ordinary, and what Genesis shows it doing to the
+  two women involved
 - [[The Wife-Sister Episodes]] — the same ruse three times, and what changes between the tellings
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — how the New Testament argues from
   2:24

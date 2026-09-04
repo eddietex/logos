@@ -85,6 +85,13 @@ happens.
 - [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] — the Bible's first
   forward-looking oracle, spoken as a sentence in a courtroom rather than as a revelation to a
   prophet
+- [[Hagar and Ishmael]] — Genesis 16:11–12, **the Bible's first birth annunciation**, and the form it
+  fixes for good: *you are with child, you will bear a son, you shall call his name X, because Y.*
+  Judges 13:3–5 (Samson), Isaiah 7:14 (Immanuel), and Luke 1:13, 31 (John and Jesus) all reuse it,
+  and the first recipient is a slave rather than a matriarch — the annunciation reaches Hagar four
+  chapters before it reaches Sarah. It also carries the first oracle in Scripture about an unborn
+  child's character and descendants (16:12), which is delivered as description rather than as
+  sentence, and has been read as a verdict far more often than the Hebrew allows
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, a human being pronouncing an oracle over
   the future of three peoples, with no claim that God said it
 

@@ -122,9 +122,48 @@ sequence without deciding whether Genesis intends it as an indictment of her or 
 plain is that the chapter that settles everything else leaves her out of it, and the chapter after it is
 about what she does with that. See [[The Covenant Between the Pieces]].
 
+### In this pericope — Genesis 16:1–16
+
+**She speaks first, she acts, and for the first time in the wiki she is a person with a plan.** After
+five pericopes in which she is named, moved, handed over, paid for, and left unmentioned, Genesis 16
+opens with her voice.
+
+*"See now, Yahweh has restrained me from bearing"* (16:2). **The first time in Scripture anyone
+attributes a closed womb to God**, and by the standards of the rest of the Bible she is right (29:31;
+30:2, 22; 1 Samuel 1:5). This is not a lament. It is a premise: if the obstacle is God's, then the
+promise will have to arrive some other way, and 15:4 — *"he who will come out of your own body"* —
+conspicuously said nothing about hers.
+
+*"Please go in to my servant. It may be that I will obtain children by her."* The Hebrew is
+*ʾibbāneh mimmennâ*, ***perhaps I shall be built up from her***, punning *bānâ*, build, on *bēn*,
+son. The arrangement is a normal legal instrument of the period — the Code of Hammurabi §§144–147
+covers it, and Rachel and Leah will both use it at 30:3–13 with four of the twelve tribes as the
+result. Sarai is not improvising a sin; she is exercising an option.
+
+**And then Genesis lends her Eve's verbs.** She *saw*, she *took*, she *gave* to *her husband*, and
+*"Abram listened to the voice of Sarai"* — the last clause occurring elsewhere in Genesis only at
+3:17, in the curse. Nobody in chapter 16 is rebuked and no verdict is passed; the judgment is entirely
+in the vocabulary. See [[Listening to the Voice - Genesis 3 and Genesis 16]].
+
+*"This wrong is your fault … Yahweh judge between me and you"* (16:5). Her Hebrew is *ḥămāsî
+ʿālêkā* — *my violence be upon you* — using the word for the violence that filled the earth before
+the flood (6:11), in a lawsuit formula, against the husband who did exactly what she told him to.
+Nothing in the speech concerns Hagar; all of it concerns her own standing. Then *"Sarai dealt harshly
+with her"* — *wattəʿannehā*, from **ʿānâ**, the verb Genesis 15:13 used one chapter earlier of Egypt
+afflicting Israel.
+
+**She never says Hagar's name, never speaks to her, and is absent from the chapter's last two
+verses.** The woman who said *perhaps I shall be built up from her* is not in the sentence where the
+building happens: *"Hagar bore a son for Abram"*, twice, and *his son*. She reappears at 17:15 with a
+new name and a promise of her own.
+
+The wiki neither excuses her nor convicts her. What it records is that Genesis 15 left her out of the
+one chapter that was entirely about an heir, that she read the omission correctly, that the legal
+solution she reached for worked, and that the cost of it fell entirely on someone who was never asked.
+
 ### Where the rest of her is
 
-Ahead, in pericopes not yet ingested: Hagar (16), the renaming
+Ahead, in pericopes not yet ingested: the renaming
 and the promise (17:15–21), the laughter behind the tent flap (18:9–15), Abimelech (20), the birth of
 Isaac and the sending away of Hagar (21), and her death and the purchase of Machpelah (23). She is
 the only matriarch God addresses directly, and 1 Peter 3:6 and Hebrews 11:11 both make her an
@@ -143,6 +182,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - Returned to Abram after Yahweh afflicts Pharaoh's household — Genesis 12:17–19
 - Unmentioned in the covenant chapter, whose whole subject is an heir — Genesis 15:1–21,
   [[The Covenant Between the Pieces]]
+- Says that Yahweh has closed her womb, and gives her Egyptian slave to Abram as a wife — Genesis
+  16:2–3, [[Hagar and Ishmael]]
+- Blames Abram for the result, afflicts Hagar, and drives her out — Genesis 16:5–6
 - Renamed Sarah and promised a son — Genesis 17:15–21 *(not yet ingested)*
 - Bears Isaac at ninety — Genesis 21:1–7 *(not yet ingested)*
 - Dies at a hundred twenty-seven at Kiriath Arba — Genesis 23:1 *(not yet ingested)*
@@ -155,6 +197,8 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Abram in Egypt]] — Genesis 12:11–20; handed over, taken, paid for, and returned, without a word
 - [[The Covenant Between the Pieces]] — Genesis 15; by her absence. Twenty-one verses about an heir,
   and she is not named in any of them
+- [[Hagar and Ishmael]] — Genesis 16:1–6; her first plan, her first grievance, and her first act of
+  cruelty, in the chapter that opens on the omission the last one ended with
 
 ## Related people
 
@@ -167,6 +211,9 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
   back
 - [[Eliezer of Damascus]] — the heir her barrenness would have produced, named and set aside in a
   chapter that never mentions her
+- [[Hagar]] — her slave, whose name she never says; given away as a wife, resented, afflicted, and
+  driven out
+- [[Ishmael]] — the son her plan produced, and whom she will demand be cast out at 21:10
 
 ## Themes associated
 
@@ -175,3 +222,5 @@ exemplar. None of that is legible from Genesis 11, where she is a name, a marria
 - [[Land and Sojourning]]
 - [[Blessing]]
 - [[Deception]]
+- [[Slavery and Servitude]]
+- [[Seeing and Being Seen]]
