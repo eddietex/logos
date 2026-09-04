@@ -160,6 +160,13 @@ has been argued.
   agents who carry out the sentence (*"the outcry against them has grown so great before Yahweh"*),
   so that what is punished is grounded in what was done to people. What the text disputes among its
   own readers is *which* sin; the range of scriptural answers is set out at [[Sodom]]
+
+- [[Lot and His Daughters]] — Genesis 19:30–38: the hardest ungraded scene in the book. Incest,
+  intoxication administered twice to a man the text says did not know, and two national etymologies
+  hung on the result — and not one word of the theme's vocabulary anywhere in the nine verses. No
+  character is condemned, none is excused, and God is not named. The verdict readers supply here
+  says more about them than the passage does, which is exactly the position [[The Tower of Babel]]
+  leaves them in
 ## Related themes
 
 - [[Curse]] — the counter-word this act calls down

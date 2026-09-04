@@ -7,7 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
-- Genesis 13:10–13; 14:12; 19:1–29; 19:30–38 — everything Genesis records about Lot
+- [[Abram and Lot Separate]]; [[The Rescue of Lot and Melchizedek]];
+  [[The Destruction of Sodom and Gomorrah]]; [[Lot and His Daughters]] — Genesis 13:10–13; 14:12;
+  19:1–29; 19:30–38, everything Genesis records about Lot
 - Genesis 18:23–33 — *ṣaddîq* seven times in eleven verses, and never once of him
 - Genesis 19:29 — the reason the rescue is given: *"God remembered Abraham"*
 - Wisdom 10:6 — the deuterocanonical *"righteous man"* rescued from the fire

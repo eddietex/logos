@@ -187,6 +187,12 @@ the rest of the canon.
   iniquity of the city"*, and the one member of the household who does not get out. Abraham's
   problem at 18:25 — the righteous swept away with the wicked — is answered by removal rather than
   by sparing, and the removal is not complete
+
+- [[Lot and His Daughters]] — Genesis 19:32, 34: *"that we may preserve our father's family line"*,
+  said twice in identical words. The Hebrew is the ark's own idiom — *ḥāyâ* in the piel with
+  *zeraʿ*, *keep seed alive*, the phrase of Genesis 7:3, *"to keep seed alive on the surface of all
+  the earth"*. The theme's strongest vocabulary, in the mouths of two women in a cave, about their
+  father
 ## Related themes
 
 - [[Creation]]

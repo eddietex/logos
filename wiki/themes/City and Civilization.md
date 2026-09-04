@@ -114,6 +114,11 @@ rather than achieved.
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19: the first city Genesis destroys and the
   only one it takes the reader inside. The offence is committed by the town acting as one body, and
   the sentence falls on the town
+
+- [[Lot and His Daughters]] — Genesis 19:30: the arc run backwards in one verse. The only man
+  Genesis followed all the way into a city leaves the last surviving one out of fear and lives in a
+  cave, and what he founds there is not a city but two nations. Genesis's cities run Enoch, Babel,
+  Sodom; its one urban biography ends underground
 ## Related themes
 
 - [[Work]] — the trades of 4:20–22 as the first specialized and inherited vocations

@@ -228,6 +228,12 @@ rule are the conditions the rest of Scripture is set in.
   are removed instead of the place being spared, the execution waits on one man reaching shelter,
   and the vocabulary it leaves behind — *sulfur and fire*, *the overthrow* — becomes the canon's
   standing language for the thing
+
+- [[Lot and His Daughters]] — Genesis 19:30–38: the aftershock, and the one pericope in the chapter
+  where God does not appear at all. Nine verses with no divine name, no speech, and no act,
+  immediately after twenty-nine that had Yahweh in almost every one. What the rescued household does
+  in the country the fire left behind is reported and not judged — which is its own statement about
+  what judgment does and does not accomplish
 ## Related themes
 
 - [[Covenant]] — what God binds himself with, first spoken inside a sentence of universal death

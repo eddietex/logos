@@ -10,7 +10,8 @@ tags: [connection]
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:20–21, the first vineyard and the first
   drunkenness
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:18, bread and wine brought out by a priest
-- Genesis 19:30–38 — Lot made drunk and uncovered
+- [[Lot and His Daughters]] — Genesis 19:30–38, Lot made drunk on two consecutive nights and, twice,
+  not knowing
 - Genesis 49:11–12 — Judah's blessing: *"He has washed his garments in wine… his eyes will be red with
   wine"*
 - Numbers 6:1–4 — the Nazirite, separated from wine, vinegar, grapes, skins, and seeds
@@ -51,7 +52,8 @@ the good reading, the comfort his father hoped for arrives as a crop. See
 
 **Wine as stupor and exposure.** Then the same verse's crop lays him out uncovered in his tent, and
 the Bible's first vineyard produces its first drunkenness eleven Hebrew words later. The pairing of
-drink with shameful exposure recurs deliberately: Lot in the cave (Genesis 19:33, 35), Habakkuk 2:15's
+drink with shameful exposure recurs deliberately: Lot in the cave (Genesis 19:33, 35 — see
+[[The Drunkenness of Noah and the Drunkenness of Lot]]), Habakkuk 2:15's
 woe on *"him who gives his neighbor drink… that you may gaze at their naked bodies"*, Lamentations
 4:21's Edom *"drunken, and… naked"*, and Nahum 3:5. Proverbs 23:29–35 is the extended portrait, and it
 ends with the drunkard planning the next one. Whatever Genesis 9 declines to say about Noah, the rest

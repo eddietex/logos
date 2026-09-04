@@ -82,3 +82,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[Gibeah and Sodom - Judges 19 as a Retelling]] | parallel | Genesis 19:1–11 · Judges 19:11–30 · Judges 20–21 · Hosea 9:9; 10:9 |
 | [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |
+| [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
+| [[Moab and Ammon - The Two Nations Born in the Cave]] | thread | Genesis 19:30–38 · Deuteronomy 2:9, 19; 23:3–6 · Numbers 22–25 · Judges 3:12–30; 11:4–33 · 1 Samuel 11; 22:3–4 · 2 Samuel 10 · 1 Kings 11:5–7; 14:21 · Jeremiah 48; 49:1–6 · Zephaniah 2:8–11 · Ruth 1:4; 4:13–22 · Nehemiah 13:1–3 · Matthew 1:5 |

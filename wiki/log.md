@@ -3035,3 +3035,110 @@ confirming that the previous run's push did land and that the stale ref was loca
 moved onto HEAD with `git checkout -B main` **before** any work, so this ingest was committed on the
 branch rather than on a detached HEAD. Four consecutive runs have now hit it; it is worth the user's
 attention as an environment quirk rather than a one-off.
+
+## [2026-09-04] ingest | Genesis 19.30-38 — Lot and His Daughters
+
+Unattended run (`/ingest auto`, no target). Resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and 19:30–38 was the first unchecked box on its page.
+Step 2's discussion is written into the passage page rather than spoken, per the skill's `auto`
+mode. `raw/bible/Genesis.md` was already present; no fetch.
+
+**Created (7).** `wiki/passages/Genesis/Lot and His Daughters.md`; `wiki/people/Moab (person).md`;
+`wiki/people/Ben Ammi.md`; `wiki/places/Moab (place).md`; `wiki/places/Ammon.md`; and two
+connection pages — `The Drunkenness of Noah and the Drunkenness of Lot` and
+`Moab and Ammon - The Two Nations Born in the Cave`.
+
+**Revised (21).** `books/Genesis` (box checked, the Abraham-cycle overview extended through the
+cave, and two people and two places added to its key lists); `books/index` (24 / 58); `index`
+(counts: 30 passages, 63 people, 35 places, 80 connections); `people/Lot` (a new pericope section,
+timeline, appears-in, related people, and a new paragraph in the verdict section);
+`people/Lot's Daughters` (the placeholder *what they do next* replaced with a full treatment);
+`places/Zoar`; connections `The Vine and the Cup`, `Naked and Ashamed - Genesis 3 and Genesis 9`,
+and `Righteous Lot - 2 Peter's Verdict and Genesis's Silence`; themes `Life and Death`,
+`The Nations`, `Marriage`, `City and Civilization`, `Land and Sojourning`, `Judgment`, `Sin`, and
+`Deception`; and the people, places, themes, and connections indexes.
+
+### Judgment calls made without asking
+
+1. **Two new place pages, for nations rather than for a site.** Genesis 19:37–38 names two peoples
+   and no territory, so `Moab (place)` and `Ammon` are pages for countries the passage does not
+   describe. They were created anyway, on the `Assyria` / `Elam` precedent from the Table of
+   Nations: both will be linked constantly from here to the prophets, and the alternative was to
+   leave the two most consequential facts in the pericope — that these are Israel's neighbours, and
+   that Deuteronomy grants them their land by name — with nowhere to live.
+2. **The person/place collision was handled up front, per the schema.** Moab is both a man and a
+   country, so both pages take a qualifier: `Moab (person)` and `Moab (place)`, written out in
+   links and never piped. Ammon needs none — the man is `Ben Ammi` and the country is `Ammon`, and
+   a bare `Moab.md` would have been silently ambiguous to Obsidian and invisible to
+   `scripts/link-check.sh`, which resolves by basename.
+3. **The two readings of *"there is not a man in the earth"* (19:31) are both recorded and neither
+   adopted.** *ʾEreṣ* is *earth* and *land* equally. The global reading (they believe the world has
+   ended) is supported by the strongest verbal evidence in the passage — *"that we may preserve our
+   father's family line"* renders *ûnəḥayyeh … zeraʿ*, the *keep seed alive* of Genesis 7:3, which
+   the raw text confirms is the only other place in the book with that pairing. The local reading
+   (no man *for them*) is supported by the plot: they have just walked out of a populated Zoar. The
+   passage page states both and says the text does not adjudicate.
+4. **Neither the polemic reading nor the sympathetic one is adopted.** That the pericope is a
+   birth-slur on two rival nations is the standard critical account and is recorded as such; so is
+   the Jewish tradition that reads the sisters as acting to save the human race (*Genesis Rabbah*
+   51; *Nazir* 23a–b), and the *Bava Kamma* 38b reading of the two names as a measure of the two
+   sisters. Both are marked as reception. The wiki's stated reason for adopting neither is that the
+   canon itself runs in two directions — Deuteronomy 23:3 excludes Moab and Ammon, Deuteronomy 2:9
+   and 2:19 protect their territory by divine grant and call them *"the children of Lot"*, and Ruth
+   the Moabitess is David's great-grandmother. That tension is the whole subject of the new
+   `Moab and Ammon` connection page.
+5. **The Septuagint plus at 19:37–38 is recorded as a plus.** The Hebrew glosses *Ben Ammi* by
+   being transparent and does not gloss *Moab* at all; the LXX supplies both naming clauses
+   outright. The pages say the *mē-ʾāb* reading is traditional and at least as old as the Greek,
+   and decline to settle the philology.
+6. **No new theme page.** Wine and intoxication were the obvious candidate, and the existing
+   connection page `The Vine and the Cup` already carries that thread end to end, so it was
+   extended rather than duplicated. Incest likewise: it is one clause of `Marriage` here, and a
+   theme page for it would have exactly one Genesis instance until 35:22 and 38.
+7. **`Lot's Daughters` was rewritten rather than appended to.** Its `### What they do next` section
+   was a placeholder written during the 19:1–29 pass, ending *"That scene has its own page when it
+   is ingested."* It is now `### In the cave — Genesis 19:30–38` plus a section on the two sons'
+   names. No boundaries were redrawn this pass.
+
+### Quote accuracy
+
+Every italic-quoted span on the pages touched this pass (397 in total) was extracted by script and
+compared against `raw/bible/Genesis.md`. The nine block quotes of 19:30–38 under `## Key verses`
+were copied from the raw file directly. Findings, all introduced this pass and all fixed before
+commit:
+
+- **Four quotations truncated with a period the WEB does not have.** *"Lot went up out of Zoar, and
+  lived in the mountain."* (the verse continues *"and his two daughters with him"*), *"Come, let's
+  make our father drink wine."*, *"we will lie with him."*, and the same on `people/Lot`'s timeline
+  as *"and he didn't know"* for the WEB's *"He didn't know"*. All four now end where the quotation
+  ends, with the sentence punctuation moved outside the italics.
+- **Three re-capitalizations, fixed.** *"That we may preserve our father's family line"* (twice, on
+  the passage page and `people/Lot's Daughters`), *"You may do to them what seems good to you"*, and
+  *"To this day"*. The WEB has all three in lower case mid-verse.
+
+**The pre-existing capitalization class is still open and is still the next lint's first item.**
+Quoting a sentence-initial word in lower case mid-sentence — this pass's own
+*"the land was not able to bear them"* for the WEB's *"The land was not able to bear them"* (13:6) —
+runs through the whole wiki, and new text continues to follow the existing habit rather than
+diverging from it mid-wiki. This is the third consecutive entry to flag it.
+
+Quotations of Deuteronomy, Numbers, Judges, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, Isaiah, Jeremiah,
+Ezekiel, Amos, Zephaniah, Ruth, Nehemiah, Matthew, 2 Peter, and the rabbinic literature remain
+unverifiable against any source in this repo, as elsewhere in the wiki. The Mesha Stele reference on
+`places/Moab (place)` is likewise external, and is stated with its contested line 31 marked as
+contested.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 20:1; 23:3–20; Leviticus 18) are written as plain scripture references rather than
+as links to pages that do not exist.
+
+**Note on branch state.** The same environment quirk, for the fifth run in a row: the session
+started on a **detached HEAD** at `origin/main` (`c614cda`) with a clean tree, and the local `main`
+ref was stale at `ee8f435`. `git fetch origin main` advanced `origin/main` to `c614cda`, confirming
+the previous run's push landed and that the stale ref was local only; `git checkout -B main` moved
+the branch onto HEAD **before** any work, so this ingest was committed on `main` rather than on a
+detached HEAD. Five consecutive runs have now hit it, and it still wants the user's attention as an
+environment quirk rather than a one-off.

@@ -164,6 +164,37 @@ cities of the plain, God remembered Abraham, and sent Lot out of the middle of t
 he was — but because God remembered the man who had argued for the place and never mentioned him.
 See [[The Destruction of Sodom and Gomorrah]].
 
+### In this pericope — Genesis 19:30–38
+
+**His last scene, and he does not say a word in it.**
+
+*"Lot went up out of Zoar, and lived in the mountain, and his two daughters with him; for he was
+afraid to live in Zoar. He lived in a cave with his two daughters"* (19:30). **He ends up in the
+mountain the angel sent him to at 19:17 and that he refused at 19:19, having cost the narrative a
+spared city to avoid it.** What he is afraid of Genesis does not say — the same withholding it used
+for his wife's turn of the head. The town he pleaded for, and that is named forever out of his
+plea, is the town he will not live in. See [[Zoar]].
+
+**The drift that ran from the plain to the gate ends underground.** *Məʿārâ*, cave, is a first in
+Scripture here; the word's next occurrences in Genesis are all Machpelah, the plot Abraham buys at
+full price in public so that he will own something in the land (23:3–20). The uncle and the nephew
+of Genesis 13 both end in caves and the two caves are not the same kind of thing.
+
+**Then his daughters make him drink, twice, and Genesis says twice that he did not know.** *"He
+didn't know when she lay down, nor when she arose"* (19:33); *"He didn't know when she lay down, nor
+when she got up"* (19:35). The verb is *yādaʿ* — the verb the mob used at 19:5, and the verb of
+*"virgin daughters"* at 19:8. **He is the third party in the chapter to be defined by it, and the
+only one it is negated for.** Whatever else the reader is meant to conclude, Genesis puts the man
+who said *"you may do to them what seems good to you"* (19:8) at the receiving end of the same
+grammar eleven verses later, and does not comment.
+
+**And then he stops.** Genesis 19:36 is the last verse in the Bible to name him in a narrative. He
+gets no death notice — not the *"died in a good old age"* of 25:8, not Terah's one-line burial at
+11:32, nothing. He is unconscious in the second-to-last sentence about him. Abraham is never told
+that he survived, never told about the cave, and the two men have not spoken since 13:9.
+
+See [[Lot and His Daughters]] and [[The Drunkenness of Noah and the Drunkenness of Lot]].
+
 ### What his presence sets up
 
 Everything that follows from Genesis 12 to 19 depends on his being here. He goes out of Haran with
@@ -200,7 +231,11 @@ caravan.
 - Bargains for [[Zoar]] rather than flee to the hills, and is granted it — Genesis 19:18–23
 - Loses his wife on the road — Genesis 19:26, [[Lot's Wife]]
 - Sent out of the overthrow because *"God remembered Abraham"* — Genesis 19:29
-- Fathers Moab and Ammon — Genesis 19:30–38 *(not yet ingested)*
+- Leaves Zoar in fear and goes up to a cave in the mountain — Genesis 19:30,
+  [[Lot and His Daughters]]
+- Made drunk on two consecutive nights and fathers [[Moab (person)]] and [[Ben Ammi]] by his
+  daughters, *"He didn't know"* — Genesis 19:31–38
+- Leaves the narrative without a death notice; last named at Genesis 19:36
 
 ## Appears in
 
@@ -215,6 +250,8 @@ caravan.
   bargains for his city for eleven verses and never mentions him
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29; the gate, the mob, the offer of his
   daughters, the hand on his wrist, and the town he talks his way into instead of the hills
+- [[Lot and His Daughters]] — Genesis 19:30–38; the cave, the wine, the twice-stated *he didn't
+  know*, and two nations. His last scene, and he is silent throughout it
 
 ## The verdict Genesis withholds
 
@@ -233,6 +270,14 @@ later law would permit, shutting the door behind him against his own neighbours 
 the city is hours from burning he has to be taken out by the wrist (19:16), then argues that the
 hills are too far (19:19–20). The chapter's one evaluative clause is about God, not about him:
 *"Yahweh being merciful to him"*.
+
+**And the last nine verses add the hardest item of all, in a form that makes grading him almost
+impossible.** In the cave he is not an agent: the wine is administered to him, and Genesis says
+twice that he did not know (19:33, 35). A reader who wants him condemned for it has to convict a
+man the text says was unconscious; a reader who wants him excused has to account for how he came to
+be in that cave at all, which is a chain of choices the book has been laying out since 13:11.
+**Genesis supplies neither verdict and supplies both of the facts that make each one hard.** See
+[[Lot and His Daughters]].
 
 **And the omission in the surrounding chapters is conspicuous.** *Ṣaddîq*, righteous, occurs seven
 times in eleven verses at 18:23–33 — in a negotiation about his city, conducted by his uncle — and
@@ -255,8 +300,10 @@ at [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]].
 - [[Milcah]] and [[Iscah]] — his sisters
 - [[Nahor (brother of Abram)]] — his uncle, and his brother-in-law
 - [[Lot's Wife]] — taken out of Sodom by the hand with him, and lost on the road
-- [[Lot's Daughters]] — offered to the mob at 19:8, and the only members of his household who reach
-  Zoar with him
+- [[Lot's Daughters]] — offered to the mob at 19:8, the only members of his household who reach
+  Zoar with him, and the only people in his story who act on him rather than for him
+- [[Moab (person)]] and [[Ben Ammi]] — his sons and his grandsons, and the two nations he ends the
+  book as the father of
 
 ## Themes associated
 
@@ -269,3 +316,5 @@ at [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]].
 - [[Hospitality]]
 - [[Mediation and Advocacy]]
 - [[Righteousness]]
+- [[The Nations]]
+- [[Deception]]

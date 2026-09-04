@@ -130,6 +130,12 @@ where that starts, in a sentence about a family that got halfway.
   foreigner, and he appoints himself a judge."* The *gēr* charge in the mouth of a mob, thrown at a
   man after twenty years in the town — and the reason Israel's law will ground protection of the
   resident alien in memory rather than in pity
+
+- [[Lot and His Daughters]] — Genesis 19:30: the end of the line. A *gēr* in Sodom, a refugee in
+  Zoar, and a cave-dweller in the hills, holding nothing and buying nothing. His descendants are
+  given their territory by divine grant in Deuteronomy 2:9 and 2:19, identified as *"the children of
+  Lot"*; he himself never owns a foot of ground, where his uncle's one purchase is a cave and a field
+  bought in public at full price (23:3–20)
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

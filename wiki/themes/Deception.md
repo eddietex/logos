@@ -46,6 +46,10 @@ else. See [[The Fall]].
 - **Genesis 12:10–20** — Abram's sister ruse in Egypt, and his first recorded speech in Scripture.
   The half-truth as policy: 20:13 has him admit it was a standing arrangement made at the start of
   the journey. See [[Abram in Egypt]].
+- **Genesis 19:30–38** — the daughters in the cave, and the one deception in Genesis worked with no
+  words spoken to the person deceived at all: *"Come, let's make our father drink wine"* is said to
+  a sister, and Lot is told nothing on either night. *"He didn't know when she lay down, nor when
+  she arose"*, twice. See [[Lot and His Daughters]].
 - **Genesis 20:1–18** — the same ruse in Gerar, with Abraham's defence: *"she is indeed my sister"*,
   and *"Surely the fear of God is not in this place"*. Abimelech's reply is the one moral vocabulary
   in the episode: *"In the integrity of my heart and the innocence of my hands I have done this"*
@@ -96,6 +100,10 @@ has become a nation.
   characteristic form
 - [[The Fall]] — Genesis 3:1–13, where the method is introduced by the serpent
 - [[Cain and Abel]] — Genesis 4:9, the first lie told directly to God
+- [[Lot and His Daughters]] — Genesis 19:32–35, the Genesis shape at its barest: nothing false is
+  said because nothing is said at all. The wine is administered on two consecutive nights, and the
+  narrator records the result twice in almost identical words — *"He didn't know when she lay down,
+  nor when she arose"*
 - Genesis 20:1–18; 26:6–11 — the ruse twice more *(not yet ingested)*
 - Genesis 27:1–45 — the stolen blessing, and the one flat lie in the sequence *(not yet ingested)*
 - Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*

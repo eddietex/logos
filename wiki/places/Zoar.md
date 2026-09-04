@@ -40,6 +40,18 @@ daughters with him; for he was afraid to live in Zoar"* (19:30) — the mountain
 and the fear he had just used as an argument, reversed inside one verse. The city he saved is the
 city he then will not live in.
 
+**What he was afraid of Genesis does not say**, and the wiki will not supply it. The candidates are
+all reasonable and none is in the text: that the fire would reach the fifth city after all, since
+the concession was granted to one man and not to the town; that a place full of survivors had no use
+for the refugee whose arrival coincided with the end of their neighbours; that the whole plain was
+uninhabitable. The narrator gives the fear and withholds its object, exactly as he gave the wife's
+backward look and withheld her motive. See [[Lot and His Daughters]].
+
+**One consequence is worth keeping.** Zoar is spared for the sake of a man who does not stay in it,
+and it outlasts him by centuries — still a functioning town in Deuteronomy 34:3, Isaiah 15:5, and
+Jeremiah 48:34, where it is a refuge for fugitives from **Moab**: the nation conceived in the hills
+above it, nine verses after it was spared.
+
 ### Where it was, and afterwards
 
 Zoar is the one city of the plain that outlives the chapter, and the later books treat it as an
@@ -62,6 +74,8 @@ region's geography is contested.
   joins the revolt against Chedorlaomer and loses in the valley of Siddim
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:20–23, spared at Lot's request and named
   out of his plea
+- [[Lot and His Daughters]] — Genesis 19:30, abandoned by the man it was spared for, *"for he was
+  afraid to live in Zoar"*
 
 ## Related places
 
@@ -69,6 +83,8 @@ region's geography is contested.
 - [[The Plain of the Jordan]] — the *kikkar* it stands at the edge of, and the only part of it left
 - [[The Salt Sea]] — the sea at whose southeastern foot the traditional site lies
 - [[Canaan]] — the land whose southern border runs past it
+- [[Moab (place)]] — the country that grows up in the hills above it, and whose fugitives run to it
+  in Isaiah 15:5 and Jeremiah 48:34
 
 ## Events here
 
@@ -77,4 +93,5 @@ region's geography is contested.
 - Spared from the overthrow at Lot's request, and named from the word he pleaded with — Genesis
   19:20–23, [[The Destruction of Sodom and Gomorrah]]
 - Lot arrives at sunrise — Genesis 19:23
-- Lot leaves it out of fear and goes up to the hills — Genesis 19:30 *(not yet ingested)*
+- Lot leaves it out of fear and goes up to a cave in the mountain — Genesis 19:30,
+  [[Lot and His Daughters]]

@@ -100,7 +100,14 @@ even fratricidal betrayal into rescue (Joseph).
   clause for the woman who looked back. The last verse is the chapter's whole theology and it hands
   the credit past everybody in it: *"God remembered Abraham, and sent Lot out of the middle of the
   overthrow."* Abraham, standing at dawn on the ridge he argued from, sees the smoke and is told
-  nothing.
+  nothing. And then *[[Lot and His Daughters]]* undoes the whole rescue in nine verses: the man who
+  bargained a city into existence to avoid the hills leaves it out of a fear the text will not
+  explain, ends in the first cave in Scripture, and is made drunk on two consecutive nights by the
+  two daughters he had offered to a mob — *"He didn't know when she lay down, nor when she arose"*,
+  twice — so that the last thing the Sodom cycle produces is [[Moab (person)]] and [[Ben Ammi]], the
+  fathers of the two nations Israel will fight for six hundred years and marry into twice. God is
+  not named once in the passage, nobody is graded, and Lot leaves the Bible's narrative asleep and
+  without a death notice.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -138,7 +145,7 @@ merge, or reorder them freely.
 - [x] [[Circumcision, the Sign of the Covenant]] — Genesis 17:1–27
 - [x] [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33
 - [x] [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29
-- [ ] Lot and His Daughters — Genesis 19:30–38
+- [x] [[Lot and His Daughters]] — Genesis 19:30–38
 - [ ] Abraham and Abimelech — Genesis 20:1–18
 - [ ] The Birth of Isaac and the Sending of Hagar — Genesis 21:1–21
 - [ ] The Treaty at Beersheba — Genesis 21:22–34
@@ -245,6 +252,8 @@ merge, or reorder them freely.
 - [[The Angel of Yahweh]]
 - [[Lot's Wife]]
 - [[Lot's Daughters]]
+- [[Moab (person)]]
+- [[Ben Ammi]]
 
 ## Key places
 
@@ -273,3 +282,5 @@ merge, or reorder them freely.
 - [[Zoar]]
 - [[The Plain of the Jordan]]
 - [[The Salt Sea]]
+- [[Moab (place)]]
+- [[Ammon]]

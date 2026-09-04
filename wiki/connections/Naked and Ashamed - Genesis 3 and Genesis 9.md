@@ -37,10 +37,17 @@ the first time in Scripture. The primeval history has handed the whole apparatus
 the result is worse: God's curse in Genesis 3 fell on a serpent and on soil and spared the couple,
 while Noah's falls on a grandson who was not in the room.
 
-**A third scene completes the group.** Genesis 19:30–38 has Lot made drunk in a cave by his daughters
-and uncovered, producing Moab and Ammon — Israel's other two neighbours explained by a drunkenness.
-The Bible's second and third episodes of intoxication both end in an etiology of a hostile people, and
-both are told without a word of narratorial comment.
+**A third scene completes the group.** [[Lot and His Daughters]] — Genesis 19:30–38 — has Lot made
+drunk in a cave by his daughters, producing Moab and Ammon: Israel's other two neighbours explained
+by a drunkenness. The Bible's second and third episodes of intoxication both end in an etiology of a
+hostile people, and both are told without a word of narratorial comment.
+
+**The third scene drops one beat, and it is the covering.** Genesis 3 has coats of skins made by God
+(3:21); Genesis 9 has a garment carried in backwards by two brothers (9:23). **Nobody covers Lot.**
+What fills the place the garment held is a pregnancy, and then two national etymologies. The full
+comparison of the second and third scenes, including the one difference that changes what each
+father does next — Noah wakes and *knows*, Lot never does — is at
+[[The Drunkenness of Noah and the Drunkenness of Lot]].
 
 ## Significance
 

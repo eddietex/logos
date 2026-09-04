@@ -126,6 +126,14 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   blessing he takes, and a Sodomite king whose money he refuses. It is also where an outsider first
   needs a word for him, and uses *the Hebrew* (14:13)
 
+- [[Lot and His Daughters]] — Genesis 19:37–38: two peoples given an origin, an etymology, and a
+  *"to this day"*. Where the Table produces a nation as a name in a list, this produces one with a
+  scene attached, and the scene is the ugliest in the Abraham cycle. What the canon then does with
+  the two is not what a slur would do: Deuteronomy 2:9 and 2:19 grant Moab and Ammon their
+  territory in the formula used of Israel's own inheritance and call them *"the children of Lot"*,
+  and Ruth the Moabitess is David's great-grandmother. See
+  [[Moab and Ammon - The Two Nations Born in the Cave]]
+
 ## Related themes
 
 - [[Blessing]] — the command of 9:1 that 10:32 reports fulfilled, and the promise of 12:3 that the
