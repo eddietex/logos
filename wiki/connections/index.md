@@ -78,3 +78,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
 | [[Is Anything Too Hard for Yahweh]] | thread | Genesis 18:14 · Jeremiah 32:17, 27 · Zechariah 8:6 · Job 42:2 · Luke 1:37 · Matthew 19:26 |
 | [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 |
+| [[Remember Lot's Wife]] | allusion | Genesis 19:17, 26 · Wisdom 10:6–7 · Luke 17:26–33 · 1 Clement 11 |
+| [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
+| [[Gibeah and Sodom - Judges 19 as a Retelling]] | parallel | Genesis 19:1–11 · Judges 19:11–30 · Judges 20–21 · Hosea 9:9; 10:9 |
+| [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |

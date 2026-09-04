@@ -71,7 +71,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   world once is here attached to an object and given a trigger. See [[The Covenant with Noah]] and
   [[The Bow in the Cloud]].
 - **Genesis 19:29** — *"God remembered Abraham, and sent Lot out of the middle of the overthrow"*:
-  a man rescued because of somebody else's standing.
+  a man rescued because of somebody else's standing. The verse is the closest parallel in Genesis to
+  8:1 — both use *wayyizkōr ʾĕlōhîm* to close a total judgment by naming the one person on the other
+  side of it, and in both the remembering *is* the rescue rather than a feeling that precedes it.
+  What is distinctive here is that the person remembered is not the person saved: Abraham is forty
+  miles away, is never told, and is not the one in danger. See
+  [[The Destruction of Sodom and Gomorrah]].
 - **Genesis 30:22** — *"God remembered Rachel… and opened her womb"*.
 - **Exodus 2:24; 6:5** — *"God remembered his covenant with Abraham, with Isaac, and with Jacob"*:
   four hundred years of silence end in this verb, and the exodus follows from it.

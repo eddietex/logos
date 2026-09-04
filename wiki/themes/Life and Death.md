@@ -183,6 +183,10 @@ the rest of the canon.
 - [[Zophar's Second Speech]] — 20:11's *"His bones are full of his youth, but youth shall lie down
   with him in the dust"*: a man dying with his strength still in him
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:15, 26: *"lest you be consumed in the
+  iniquity of the city"*, and the one member of the household who does not get out. Abraham's
+  problem at 18:25 — the righteous swept away with the wicked — is answered by removal rather than
+  by sparing, and the removal is not complete
 ## Related themes
 
 - [[Creation]]

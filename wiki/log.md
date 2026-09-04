@@ -2913,3 +2913,125 @@ on the detached HEAD and `git checkout -B main` then moved the branch onto it, a
 from `origin/main`; the push went through with no merge and no commits were lost. Three consecutive
 runs have now hit it, so it is worth the user's attention as an environment quirk rather than a
 one-off.
+
+## [2026-09-04] ingest | Genesis 19.1-29 — The Destruction of Sodom and Gomorrah
+
+Unattended run (`/ingest auto`, no target). Resolved mechanically: Genesis is the first
+`in-progress` book in `wiki/books/index.md`, and 19:1–29 was the first unchecked box on its page.
+Step 2's discussion is written into the passage page rather than spoken, per the skill's `auto`
+mode. `raw/bible/Genesis.md` was already present; no fetch.
+
+**Created (7).** `wiki/passages/Genesis/The Destruction of Sodom and Gomorrah.md`;
+`wiki/people/Lot's Wife.md`; `wiki/people/Lot's Daughters.md`; `wiki/places/Zoar.md`; and four
+connection pages — `Remember Lot's Wife`, `Fire and Sulfur from the Sky`,
+`Gibeah and Sodom - Judges 19 as a Retelling`, and
+`Righteous Lot - 2 Peter's Verdict and Genesis's Silence`.
+
+**Revised (24).** `books/Genesis` (box checked, the Abraham-cycle overview extended, and
+`Hospitality`, `Mediation and Advocacy`, five places and two people added to its key lists);
+`books/index` (23 / 58); `index` (counts); `people/Lot` (a new pericope section, timeline,
+appears-in, related people, and the verdict section); `people/Abraham`; `people/God`;
+`people/The Angel of Yahweh`; `places/Sodom`; `places/Gomorrah`; `places/The Plain of the Jordan`;
+`places/The Salt Sea`; themes `Hospitality`, `Judgment`, `Remembrance`, `Righteousness`, `Sin`,
+`Favor and Grace`, `City and Civilization`, `Seeing and Being Seen`, `Mediation and Advocacy`,
+`Land and Sojourning`, `Life and Death`; and the people, places, and connections indexes.
+
+### Judgment calls made without asking
+
+1. **The pericope ends at 19:29, not 19:38.** 19:29 is a summary verse, it returns to Abraham, it
+   switches to *ʾĕlōhîm*, and 19:30 opens a new scene in a new place. The counter-argument — that
+   19:30 immediately cancels the concession Lot won at 19:21, so the two belong together — is
+   recorded on the passage page rather than acted on. The existing plan already drew the boundary
+   here; this pass confirmed it rather than redrawing it. **No boundaries were redrawn this pass.**
+2. **Two new person pages for unnamed figures, and one deliberate omission.** `Lot's Wife` and
+   `Lot's Daughters` were created on the `Job's Children` precedent — a figure with no name but with
+   narrative weight gets a page. The **sons-in-law were not given one**: they have one clause, no
+   act of their own, and nothing outside Genesis, so they are covered on `Lot` and on
+   `Lot's Daughters`. This can be revisited.
+3. **`Zoar` gets a page and `Bela` does not.** The two are the same town; Genesis itself supplies the
+   later name in a parenthesis at 14:2 and 14:8, and 19:22 makes Zoar the name the etiology hangs on.
+   The alternate name is recorded in the page's `also_known_as` frontmatter instead of as a second
+   page. `places/Sodom`'s "no page yet" placeholder for Zoar is now a live link.
+4. **Four connection pages, chosen to avoid duplicating `Sodom`.** That page already carries the
+   full range of scriptural answers to *what was Sodom's sin* and the byword survey, so neither was
+   turned into a connection page. The four created are ones the place page does not hold: Luke 17:32
+   and the tradition behind it; the *sulfur and fire* vocabulary from 19:24 to Revelation; Judges 19
+   as a clause-by-clause retelling; and the 2 Peter / Genesis disagreement about Lot.
+5. **No new theme page.** Everything the pericope raises is covered by existing themes; a
+   *deliverance* or *rescue* theme was considered and rejected as too close to `Judgment` and
+   `Remembrance` as they now stand.
+6. **The doubled divine name at 19:24 is read as idiom, and the two-figures reading recorded as
+   reception.** Justin Martyr (*Dialogue* 56, 129) is cited by name, on the same terms the Genesis 17
+   and 18 passes used for the Trinitarian reading of the three visitors: the wiki reports the
+   reception history and does not adopt it as exegesis.
+7. **19:8 is left ungraded, and said to be ungraded.** Genesis passes no comment on Lot offering his
+   daughters, and the wiki does not supply one. What the pages do add is what the text supplies
+   around it: the guest obligation he names, the mob's refusal, and Judges 19 running the same scene
+   to its end.
+8. **The sin of Sodom is recorded as genuinely contested and not adjudicated**, consistent with the
+   existing `Sodom` page. The passage page adds one observation to that survey: what chapter 19
+   actually narrates is at once a sexual crime, a total collapse of the guest obligation, and a
+   demonstration of the *cry* of 18:20, and each of the three standard readings takes one of the
+   three.
+9. **Whether the intercession succeeded is left open.** Both readings are set out — that it failed
+   (the place burned) and that it was answered past its terms (the righteous were taken out and a
+   further city spared) — with the note that 19:29 credits Abraham without saying his prayer was
+   answered, and that he is never told.
+10. **Lot is not graded, and the Genesis / 2 Peter tension is flagged rather than dissolved.**
+    Carried over from the existing `Lot` page and given its own connection page, which sets out the
+    three standard reconciliations and says none is compelled by the texts.
+
+### Quote accuracy
+
+All twenty-nine block-quoted verses under `## Key verses` were checked against
+`raw/bible/Genesis.md` by script — extracted from the page, re-parsed, and compared verse by verse.
+Every italic-quoted span on every page touched this pass (703 in total) was then run against the
+raw file by the same method. Findings:
+
+- **One real misquotation, introduced this pass and fixed before commit.** The passage page argued
+  the *yādaʿ* point by quoting daughters *"who have not known a man"* at 19:8. **The WEB does not
+  say that** — it renders the clause *"two virgin daughters"*. The sentence now gives the Hebrew
+  (*ʾăšer lōʾ-yādəʿû ʾîš*) and quotes the WEB correctly.
+- **One pre-existing misquotation on a page this pass touched, fixed.** `people/Lot` twice quoted
+  *"sitting in the gate of Sodom"* / *"sitting in the gate"* (19:1). The WEB reads *"Lot sat in the
+  gate of Sodom"*. Both are corrected. It was written before the raw text of chapter 19 was ever
+  read, which is why it survived two link-checks.
+- **One pre-existing slip in the `Hospitality` comparison table, fixed.** Its Genesis 19 column gave
+  *"he rose up to meet them … bowed"*; the WEB has *"rose up to meet them"* and *"bowed himself"*.
+- **Eight re-casings caught and fixed** where a quotation had been re-capitalized or de-capitalized to
+  suit the sentence around it: *both young and old* (19:4), *he seemed to his sons-in-law* (19:14),
+  *isn't it a little one* (19:20), *Therefore the name of the city* (19:22), *and that which grew on
+  the ground* (19:25), *the smoke of the land* (19:28), plus the same on `places/Sodom` and
+  `people/Lot's Daughters`.
+- **One elided quotation made honest.** Genesis 13:10's *"well-watered everywhere"* and *"like the
+  garden of Yahweh"* are not contiguous — *"before Yahweh destroyed Sodom and Gomorrah"* sits between
+  them. The passage page now marks the ellipsis and `places/The Plain of the Jordan` quotes the two
+  phrases separately.
+
+**One class was left alone deliberately, and it wants a decision at lint.** Quoting a
+sentence-initial word in lower case mid-sentence — *"the two angels"* for the WEB's *"The two
+angels"*, *"leave your country"* for *"Leave your country"*, *"when Abram heard"* for *"When Abram
+heard"* — runs through the whole wiki and is not confined to pages this pass touched. The Genesis 17
+and 18 entries flagged individual instances of it as slips and recommended a whole-wiki
+capitalization sweep; that sweep has still not happened, and doing it inside an ingest would put a
+few hundred unrelated edits in a pericope commit. **It is the next lint's first item.** New text
+this pass follows the existing pages' habit rather than diverging from it mid-wiki.
+
+Quotations of Deuteronomy, Judges, Isaiah, Jeremiah, Ezekiel, Amos, Jonah, Hosea, Wisdom, 1 Clement,
+Josephus, and the New Testament remain unverifiable against any source in this repo, as elsewhere in
+the wiki.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Two forward references to the next pericope
+(Genesis 19:30–38) are written as plain scripture references rather than as links to a page that
+does not exist yet, per the convention the earlier entries set.
+
+**Note on branch state.** The same environment quirk, for the fourth run in a row: the session
+started on a **detached HEAD** at `origin/main` (`1bdb6c7`) with a clean tree, and the local `main`
+ref was stale at `ee8f435`. This time `git fetch origin main` advanced `origin/main` to `1bdb6c7`,
+confirming that the previous run's push did land and that the stale ref was local only. `main` was
+moved onto HEAD with `git checkout -B main` **before** any work, so this ingest was committed on the
+branch rather than on a detached HEAD. Four consecutive runs have now hit it; it is worth the user's
+attention as an environment quirk rather than a one-off.

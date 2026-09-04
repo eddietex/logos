@@ -45,6 +45,8 @@ for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of t
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:20; named with Sodom in the charge
   — *"the cry of Sodom and Gomorrah is great"* — and then dropped. The eleven verses of bargaining
   that follow are about one city, and it is not this one
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:24, 28; destroyed in the same clause as
+  Sodom, and seen burning in the same look, with no scene of its own in between
 
 ## Related places
 
@@ -63,4 +65,8 @@ for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of t
   [[The Rescue of Lot and Melchizedek]]
 - Named in the charge whose *cry* has come up before God, and then absent from the negotiation —
   Genesis 18:20, [[The Three Visitors and Abraham's Intercession]]
-- Destroyed with Sodom — Genesis 19:24–25 *(not yet ingested)*
+- Destroyed with Sodom — *"Then Yahweh rained on Sodom and on Gomorrah sulfur and fire from Yahweh
+  out of the sky"* — Genesis 19:24–25, [[The Destruction of Sodom and Gomorrah]]. **The chapter that
+  destroys it never once takes the reader inside it**, which completes the pattern: it is named
+  nine times in Genesis and is a setting in none of them.
+- Seen burning from the ridge above Hebron — Genesis 19:28

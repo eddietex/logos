@@ -129,9 +129,19 @@ rule are the conditions the rest of Scripture is set in.
   verses earlier. God then concedes six times without objecting. See
   [[The Three Visitors and Abraham's Intercession]] and
   [[Shall Not the Judge of All the Earth Do Right]].
-- **Genesis 19:1–29** *(not yet ingested)* — the sentence carried out, and the answer to the
-  bargain that is not in its terms: ten are not found, and *"God remembered Abraham, and sent Lot
-  out"* (19:29). Note that Genesis 8:21 gives the verdict of 6:5
+- **Genesis 19:1–29** — the sentence carried out, and the answer to the bargain that is not in its
+  terms: ten are not found, and *"God remembered Abraham, and sent Lot out"* (19:29). **The chapter
+  is the Old Testament's template for judgment, and every part of the template is visible in it.**
+  The charge is investigated before it is executed (18:21) and the agents report the investigation
+  as done (19:13). The evidence is a crowd — *"both young and old, all the people from every
+  quarter"* (19:4) — so that the reader learns the verdict by counting rather than by being told it.
+  The righteous are removed rather than left in, which is not what Abraham asked for. And the
+  execution is held up by one man's exposure: *"I can't do anything until you get there"* (19:22),
+  which is 18:25's principle stated as an operating limit on the executioner rather than as a
+  question. The vocabulary it leaves behind — *sulfur and fire*, *the overthrow* — becomes the
+  standing language of judgment for the rest of the canon. See
+  [[The Destruction of Sodom and Gomorrah]] and [[Fire and Sulfur from the Sky]].
+- Note that Genesis 8:21 gives the verdict of 6:5
   again — *"the imagination of man's heart is evil from his youth"* — as the reason for **never**
   doing this again, so the same fact grounds both the flood and the promise against it.
 - **Genesis 12:17** — the shortest judgment scene in the book, and the one with none of the
@@ -213,6 +223,11 @@ rule are the conditions the rest of Scripture is set in.
   in the dialogue that comes true (*"that you may know there is a judgment"*, 19:29, against
   42:7)
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29: the template's fullest run. The
+  charge is investigated first, the evidence is a crowd rather than a pronouncement, the righteous
+  are removed instead of the place being spared, the execution waits on one man reaching shelter,
+  and the vocabulary it leaves behind — *sulfur and fire*, *the overthrow* — becomes the canon's
+  standing language for the thing
 ## Related themes
 
 - [[Covenant]] — what God binds himself with, first spoken inside a sentence of universal death

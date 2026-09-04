@@ -87,7 +87,20 @@ even fratricidal betrayal into rescue (Joseph).
   justice"* — four verses before Abraham turns that same standard on him. The result is Scripture's
   first intercession and its first argument about justice: not a plea for mercy but a case, made for
   a Canaanite city by a man who never mentions the nephew inside it, from fifty righteous down to
-  ten. God concedes every time without objecting, and the one who stops is Abraham.
+  ten. God concedes every time without objecting, and the one who stops is Abraham. Then
+  *[[The Destruction of Sodom and Gomorrah]]* answers the question chapter 18 refused to answer, and
+  does it as a headcount: *"all the people from every quarter"* are at Lot's door, so there were not
+  ten. The chapter is built as the previous one run again in a worse town — the same day, two of the
+  same visitors, a man who sees them and rises and bows and presses food on them, and then a mob
+  demanding the guests. Lot honours the guest obligation at a price the book reports without
+  grading, offering his daughters and shutting the door behind him; the visitors pull him out of the
+  city by the wrist over his own hesitation; he refuses the terms of his rescue and haggles a fifth
+  city into being spared because the hills are too far, and gets it, where his uncle had argued from
+  justice and got nothing. Then sulfur and fire, the plain burned down to what grew on it, and one
+  clause for the woman who looked back. The last verse is the chapter's whole theology and it hands
+  the credit past everybody in it: *"God remembered Abraham, and sent Lot out of the middle of the
+  overthrow."* Abraham, standing at dawn on the ridge he argued from, sees the smoke and is told
+  nothing.
 - **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
@@ -124,7 +137,7 @@ merge, or reorder them freely.
 - [x] [[Hagar and Ishmael]] — Genesis 16:1–16
 - [x] [[Circumcision, the Sign of the Covenant]] — Genesis 17:1–27
 - [x] [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33
-- [ ] The Destruction of Sodom and Gomorrah — Genesis 19:1–29
+- [x] [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29
 - [ ] Lot and His Daughters — Genesis 19:30–38
 - [ ] Abraham and Abimelech — Genesis 20:1–18
 - [ ] The Birth of Isaac and the Sending of Hagar — Genesis 21:1–21
@@ -199,6 +212,8 @@ merge, or reorder them freely.
 - [[Slavery and Servitude]]
 - [[Seeing and Being Seen]]
 - [[Circumcision]]
+- [[Hospitality]]
+- [[Mediation and Advocacy]]
 
 ## Key people
 
@@ -228,6 +243,8 @@ merge, or reorder them freely.
 - [[Ishmael]]
 - [[Isaac]]
 - [[The Angel of Yahweh]]
+- [[Lot's Wife]]
+- [[Lot's Daughters]]
 
 ## Key places
 
@@ -249,3 +266,10 @@ merge, or reorder them freely.
 - [[The Negev]]
 - [[Shur]]
 - [[Beer Lahai Roi]]
+- [[Hebron]]
+- [[Mamre (place)]]
+- [[Sodom]]
+- [[Gomorrah]]
+- [[Zoar]]
+- [[The Plain of the Jordan]]
+- [[The Salt Sea]]

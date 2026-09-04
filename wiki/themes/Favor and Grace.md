@@ -59,11 +59,17 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   connective still withheld. See [[Noah and the Flood]].
 - **Genesis 6:18** — the first covenant, offered to the man who was given favor, and offered inside
   the sentence rather than instead of it. See [[Covenant]].
-- **Genesis 18:3; 19:19; 30:27; 32:5; 33:8; 39:4, 21; 47:29** *(not yet ingested)* — the idiom then
-  runs through Genesis in both directions, human and divine, more often than in any other book:
-  Abraham to the visitors, Lot pleading for Zoar, Joseph in Potiphar's house and then in the prison
-  where *"Yahweh was with Joseph and showed kindness to him, and gave him favor in the sight of the
-  keeper of the prison"*.
+- **Genesis 18:3; 19:19; 30:27; 32:5; 33:8; 39:4, 21; 47:29** — the idiom then runs through Genesis
+  in both directions, human and divine, more often than in any other book: Abraham to the visitors,
+  Lot pleading for Zoar, Joseph in Potiphar's house and then in the prison where *"Yahweh was with
+  Joseph and showed kindness to him, and gave him favor in the sight of the keeper of the prison"*.
+- **Genesis 19:19** deserves its own line, because of where it sits. *"Your servant has found favor
+  in your sight, and you have magnified your loving kindness, which you have shown to me in saving
+  my life"* — *ḥēn* and *ḥesed* in the same sentence, and the sentence is the preamble to **refusing
+  the terms of the rescue**. A man being carried out of a burning city acknowledges grace at its
+  fullest and then argues that the destination is too far. The wiki notes that Genesis reports this
+  without irony, and that 19:16 has already given the same event a different name: *"Yahweh being
+  merciful to him"*. See [[The Destruction of Sodom and Gomorrah]].
 - **Exodus 33:12–17; 34:6–7** *(not yet ingested)* — the theological centre of the word in the Old
   Testament. Moses asks on the strength of *"you have found favor in my sight"*, and receives the
   self-description Israel quotes for the rest of Scripture: *"Yahweh, Yahweh, a merciful and

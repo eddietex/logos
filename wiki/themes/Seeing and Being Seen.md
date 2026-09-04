@@ -83,6 +83,9 @@ will finally go both ways.
 - Luke 1:48 — *"he has looked at the humble state of his servant"*, in Hagar's grammar
 - 1 Corinthians 13:12; Revelation 22:4 — face to face
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:17, 26, 28: a prohibition on looking, a
+  woman who looks in the verb she was forbidden to look in, and Abraham looking at the same fire
+  from forty miles off and learning nothing from it. See [[Remember Lot's Wife]]
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

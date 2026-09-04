@@ -87,6 +87,31 @@ Reading 1 above (an envoy speaking in his sender's voice) accounts for 19:1; rea
 God's own presence) accounts for a meal eaten under a tree by someone the narrator calls Yahweh. See
 [[The Three Visitors and Abraham's Intercession]] and [[Entertaining Angels Unawares]].
 
+### And the label does not hold — Genesis 19:1–29
+
+**19:1 is the only verse in the two chapters that calls them angels, and the chapter drops the word
+immediately.** *"The two angels came to Sodom at evening"* — *hammalʾākîm* — and then for the rest
+of the pericope they are *"the men"*: 19:5 (*"the men who came in to you this night"*), 19:8, 19:10
+(*"the men reached out their hand"*), 19:12, 19:16. The narrator labels them once, in the opening
+clause, and reverts.
+
+**The grammatical number fails inside nine verses**, and this time in direct speech rather than in
+narration:
+
+| | |
+|---|---|
+| 19:13 | *"**we** will destroy this place … Yahweh has sent **us** to destroy it"* — plural, and explicitly sent |
+| 19:17 | *"**he** said, 'Escape for your life!'"* — the plural party, one singular speaker |
+| 19:18 | *"Lot said to **them**, 'Oh, not so, my lord'"* — plural addressed, singular addressee |
+| 19:21 | *"**I** have granted your request … **I** will not overthrow the city"* — a first person that only God can use of this |
+| 19:22 | *"**I** can't do anything until you get there"* |
+
+19:13 is the strongest evidence anywhere in Genesis for reading 1 — an envoy speaking in his
+sender's voice, since *"Yahweh has sent us"* distinguishes sender from sent as plainly as language
+can. 19:21's *"I will not overthrow the city"* pulls the other way inside the same conversation.
+**Genesis 19 does not resolve the seam; it demonstrates it twice more and moves on.** See
+[[The Destruction of Sodom and Gomorrah]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -94,6 +119,9 @@ God's own presence) accounts for a meal eaten under a tree by someone the narrat
 - Not named as such, but present in the widest form of the same alternation: three men at Mamre, one
   of whom is Yahweh and two of whom reach Sodom as *"the two angels"* — Genesis 18:1–19:1,
   [[The Three Visitors and Abraham's Intercession]]
+- As *"the two angels"* in one verse and *"the men"* in every verse after: received at the gate of
+  Sodom, blinds the mob, pulls Lot's household out by the hand, grants Zoar, and destroys the cities
+  — Genesis 19:1–25, [[The Destruction of Sodom and Gomorrah]]
 - Calls to Hagar out of the sky at Beersheba and opens her eyes to a well — Genesis 21:17–19
   *(not yet ingested)*
 - Calls to Abraham from the sky at the binding of Isaac, twice, and swears by himself — Genesis
@@ -116,6 +144,8 @@ God's own presence) accounts for a meal eaten under a tree by someone the narrat
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–33; the title is absent and the
   problem is at its widest: three men are fed, one of them is Yahweh, and two of them are angels by
   the next verse of narrative
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–25; called angels once and men five
+  times, sent by Yahweh in 19:13 and speaking as Yahweh in 19:21
 
 ## Related people
 

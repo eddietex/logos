@@ -40,7 +40,7 @@ because the later scenes are legible as variations on it.
 |---|---|---|---|---|
 | Host | Abraham, at the tent door | Lot, in the city gate | Manoah and his wife, in a field | an old man in the square at Gibeah |
 | Time | *"the heat of the day"* | *"at evening"* | daytime | nightfall |
-| First move | *"he ran to meet them"* | *"he rose up to meet them … bowed"* | she runs to tell her husband | *"Don't sleep in the street"* |
+| First move | *"he ran to meet them"* | *"rose up to meet them … bowed himself"* | she runs to tell her husband | *"Don't sleep in the street"* |
 | The meal | curds, milk, veal, twenty litres of flour | unleavened bread, *"a feast"* | a kid, which the visitor refuses | bread, wine, fodder |
 | The town | no town | the men of Sodom at the door | — | the men of Gibeah at the door |
 | Outcome | a son promised | the guests rescue the host | a son promised | a woman handed out and killed |
@@ -48,7 +48,15 @@ because the later scenes are legible as variations on it.
 The two annunciation scenes and the two door scenes are matched pairs, and Judges 19 is
 transparently written against Genesis 19 — same demand at the door, same offer of women in
 substitution, and no angels in it. The book of Judges uses the comparison to say that Israel has
-become the city Abraham argued for.
+become the city Abraham argued for. The correspondence runs to the wording, and it is set out clause
+by clause at [[Gibeah and Sodom - Judges 19 as a Retelling]].
+
+**One row of that table is worth reading on its own.** In both Genesis 18 and Genesis 19 the host is
+someone who has no standing where he is: Abraham is a sojourner at Mamre, Lot is a *gēr* the town
+throws the word at (*"This one fellow came in to live as a foreigner"*, 19:9), and the old man at
+Gibeah is an Ephraimite among Benjaminites. **In every full version of the scene, the person who
+keeps the obligation is the one who is not from there** — which is exactly the logic the law will
+use when it grounds protection of the *gēr* in Israel's own memory of being one.
 
 ### Washing feet
 
@@ -62,9 +70,13 @@ theme, and its last appearance inverts who performs it.
 - **Genesis 18:1–8** — the founding scene: an offer of *"a little water"* and *"a morsel of bread"*,
   answered with three seahs of flour, a calf, and curds, served standing by a hundred-year-old man
   who ran twice in the noon heat.
-- **Genesis 19:1–11** *(not yet ingested)* — the same courtesy in a city that will not tolerate it;
-  Lot presses the visitors indoors, and the town comes for them. The refusal of hospitality and the
-  violence are one act.
+- **Genesis 19:1–11** — the same courtesy in a city that will not tolerate it. Lot *"urged them
+  greatly"* rather than let them sleep in the square — and the pressing is the narrator's whole
+  description of what the city is, made three verses before the mob arrives. Then *"all the people
+  from every quarter"* come for the guests, and the refusal of hospitality and the violence turn out
+  to be one act. **The verse that damns the town is the same verse that answers Abraham**: the
+  crowd count at 19:4 is how the reader learns there were not ten. See
+  [[The Destruction of Sodom and Gomorrah]].
 - **Genesis 24:15–33** *(not yet ingested)* — Rebekah waters ten camels unasked, which is roughly
   two hundred litres drawn by hand, and it is the sign the servant prayed for. Hospitality as a
   test of character, and the woman is the one who passes it.
@@ -127,6 +139,9 @@ theme, and its last appearance inverts who performs it.
   an army coming home, and the first blessing one man speaks over another follows it
 - [[Abram in Egypt]] — the theme's shadow: a household received into Pharaoh's house on a lie, and
   sent away under escort
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–11; the theme's dark half, in which a
+  town's treatment of two strangers is the case against it, and the host protects them at a cost the
+  chapter reports without grading
 - [[Hagar and Ishmael]] — Genesis 16:7, the spring on the road to Shur; the traveller nobody
   received, met by God at the last water before the desert
 
@@ -152,5 +167,6 @@ theme, and its last appearance inverts who performs it.
 - [[Abraham]] — who ran, and served standing
 - [[Sarah]] — who made the bread and stayed in the tent
 - [[Lot]] — who does the same thing in a city that will not have it
+- [[Lot's Daughters]] — offered in substitution at 19:8, and refused by the mob
 - [[Melchizedek]] — bread and wine brought out to a returning army
 - [[God]] — the guest at Mamre, and in Matthew 25 the stranger at every door

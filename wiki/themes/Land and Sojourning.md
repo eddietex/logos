@@ -126,6 +126,10 @@ where that starts, in a sentence about a family that got halfway.
 - Deuteronomy 34:1–5 — Moses outside the land
 - Hebrews 11:8–16 — the patriarchs as pilgrims looking for a city
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:9: *"This one fellow came in to live as a
+  foreigner, and he appoints himself a judge."* The *gēr* charge in the mouth of a mob, thrown at a
+  man after twenty years in the town — and the reason Israel's law will ground protection of the
+  resident alien in memory rather than in pity
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

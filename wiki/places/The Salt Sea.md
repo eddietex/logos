@@ -46,6 +46,8 @@ an image that depends entirely on the reader knowing nothing lives in it.
 
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:3, 8, 10; the valley of Siddim, its tar pits,
   and the rout of the five kings
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:24–26; the region supplies the chapter its
+  sulfur, its bitumen, and the salt that [[Lot's Wife]] becomes
 
 ## Related places
 
@@ -57,4 +59,9 @@ an image that depends entirely on the reader knowing nothing lives in it.
 
 - The four kings defeat the five in the valley of Siddim — Genesis 14:8–11,
   [[The Rescue of Lot and Melchizedek]]
-- The destruction of the cities of the plain — Genesis 19:24–29 *(not yet ingested)*
+- The destruction of the cities of the plain, by *"sulfur and fire … out of the sky"* — Genesis
+  19:24–25, [[The Destruction of Sodom and Gomorrah]]
+- [[Lot's Wife]] becomes *"a pillar of salt"* — Genesis 19:26. The salt dome at Mount Sodom, at the
+  sea's southwestern foot, throws up standing columns of rock salt as the softer marl erodes from
+  around them; Josephus claims to have seen the pillar (*Antiquities* 1.11.4). See
+  [[Remember Lot's Wife]].

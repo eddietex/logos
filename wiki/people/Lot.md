@@ -52,7 +52,7 @@ What the text does instead is bracket his look with two pieces of information ad
 over his head — *before Yahweh destroyed Sodom and Gomorrah* (13:10), and *"the men of Sodom were
 exceedingly wicked and sinners against Yahweh"* (13:13), the second placed one verse *after* the
 choice — and then set his stopping-places out in order: the plain, the cities of the plain, *"moved
-his tent as far as Sodom"* (13:12), and eventually *"sitting in the gate of Sodom"* (19:1). A tent
+his tent as far as Sodom"* (13:12), and eventually *"Lot sat in the gate of Sodom"* (19:1). A tent
 drifting toward a city over six chapters.
 
 **Two details are worth keeping.** He *"traveled east"* (13:11), and eastward movement in Genesis is
@@ -79,7 +79,7 @@ the same point: the goods are why he went east.
 **He is an object throughout.** He is *taken* (14:12) and *brought back* (14:16), and he is the
 reason for every verb Abram performs in the chapter — the treaty called on, the three hundred
 eighteen armed, the march to Dan, the night attack, the pursuit past Damascus. He does not speak,
-does not thank anyone, and is not recorded leaving Sodom. By 19:1 he is *"sitting in the gate"*.
+does not thank anyone, and is not recorded leaving Sodom. By 19:1, *"Lot sat in the gate of Sodom"*.
 
 **The relationship is named the way chapter 13 named it.** *Abram's brother's son* (14:12) is the
 same careful apposition Genesis 11:31 used, and 13:8 had Abram calling him simply *brother*. The
@@ -105,6 +105,64 @@ the city is destroyed, so ten were not found, and the righteous man is taken out
 remembered Abraham, and sent Lot out of the middle of the overthrow"* (19:29). The intercession is
 answered by the rescue of the man it never named. See
 [[The Three Visitors and Abraham's Intercession]].
+
+### In this pericope — Genesis 19:1–29
+
+The chapter he has been walking toward since 13:11, and the only one in which he does most of the
+talking.
+
+**It opens on the last step of the drift.** *"Lot sat in the gate of Sodom"* (19:1). The gate is
+where a town does its business — elders sit in it (Ruth 4:1–2), lawsuits are brought to it
+(Deuteronomy 21:19), a man is known by it (Proverbs 31:23). Genesis has moved him from the plain
+(13:11) to outside the walls (13:12) to inside them (14:12) to the civic centre, and has never once
+narrated a move. Whether he holds any office there the book does not say, and the townsmen's own
+answer says he does not: *"This one fellow came in to live as a foreigner, and he appoints himself a
+judge"* (19:9). He is *gēr*, a resident alien, in a town 14:12 already had him living in.
+
+**He does everything Abraham did the same morning, and the chapter is built so the reader will
+notice.** He sees, rises, meets, bows his face to the earth, offers a bed and washing, is refused,
+*"urged them greatly"*, and bakes. **The pressing is the tell**: they intend to sleep in the square,
+and he will not have it — which is the narrator's most economical statement of what the city is,
+made three verses before the mob arrives and without a word of description.
+
+**Then 19:8, which is the ugliest verse in the Abraham cycle.** *"See now, I have two virgin
+daughters. Please let me bring them out to you, and you may do to them what seems good to you. Only
+don't do anything to these men, because they have come under the shadow of my roof."* Genesis passes
+no comment on it — not on him, not on the guest obligation being honoured at his children's expense.
+The wiki does not smooth it and does not supply the verdict the book withholds. What the chapter
+does supply is that the mob refuses the offer, so the daughters are never handed over, and that
+Judges 19 will run the same scene without that mercy. See [[Lot's Daughters]] and
+[[Gibeah and Sodom - Judges 19 as a Retelling]].
+
+**He is not believed, and he does not move.** His sons-in-law take him for a joker — *kim-ṣaḥēq*,
+the laughter root of 17:17 and 18:12 (see [[Laughter and the Name Isaac]]) — and when morning comes
+*"he lingered"* (19:16). The rescue is then carried out physically over his hesitation: *"the men
+grabbed his hand, his wife's hand, and his two daughters' hands, **Yahweh being merciful to him**;
+and they took him out."* Genesis states the cause of the rescue in the same clause, and the cause is
+nothing he does.
+
+**And then he bargains — which is the chapter's structural rhyme with his uncle's, with the terms
+inverted.**
+
+| | Abraham, 18:23–33 | Lot, 19:18–22 |
+|---|---|---|
+| For | a city he has no tie to | himself |
+| On the ground that | *"Shouldn't the Judge of all the earth do right?"* | *"I can't escape to the mountain, lest evil overtake me"* |
+| Outcome | the city burns | a city is spared, and named from his plea |
+
+He gets what he asks for — *"I have granted your request concerning this thing also"* (19:21) — and
+[[Zoar]] is called *Littleness* forever out of the word he pleaded with. In the next pericope he
+leaves it anyway, *"for he was afraid to live in Zoar"* (19:30), for the mountain he had just
+refused.
+
+**He loses his wife on the way and Genesis does not record him reacting.** She looks back and becomes
+salt (19:26); he neither speaks of her again nor is said to notice. See [[Lot's Wife]].
+
+**And the chapter's summary verse gives the credit to somebody else.** *"When God destroyed the
+cities of the plain, God remembered Abraham, and sent Lot out of the middle of the overthrow"*
+(19:29). Not because ten righteous were found, not because Lot was one of them — Genesis never says
+he was — but because God remembered the man who had argued for the place and never mentioned him.
+See [[The Destruction of Sodom and Gomorrah]].
 
 ### What his presence sets up
 
@@ -135,7 +193,13 @@ caravan.
   Genesis 14:12–16, [[The Rescue of Lot and Melchizedek]]
 - Unnamed while Abraham argues for the sparing of the city he lives in — Genesis 18:22–33,
   [[The Three Visitors and Abraham's Intercession]]
-- Brought out of Sodom — Genesis 19:1–29 *(not yet ingested)*
+- Sitting in the gate of Sodom; receives the two visitors and shields them from the town; offers his
+  daughters to the mob — Genesis 19:1–11, [[The Destruction of Sodom and Gomorrah]]
+- Disbelieved by his sons-in-law; lingers, and is pulled out of the city by the hand — Genesis
+  19:14–16
+- Bargains for [[Zoar]] rather than flee to the hills, and is granted it — Genesis 19:18–23
+- Loses his wife on the road — Genesis 19:26, [[Lot's Wife]]
+- Sent out of the overthrow because *"God remembered Abraham"* — Genesis 19:29
 - Fathers Moab and Ammon — Genesis 19:30–38 *(not yet ingested)*
 
 ## Appears in
@@ -149,6 +213,8 @@ caravan.
   returned to it without a line of dialogue
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, by his absence; his uncle
   bargains for his city for eleven verses and never mentions him
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29; the gate, the mob, the offer of his
+  daughters, the hand on his wrist, and the town he talks his way into instead of the hills
 
 ## The verdict Genesis withholds
 
@@ -162,11 +228,24 @@ overthrow"* (19:29).
 Genesis 14 adds one more item to the first list, and it is a silence: recovered at the cost of a
 three-hundred-mile campaign, he says nothing and goes back to the city he was carried out of.
 
+Genesis 19 adds two more, and they cut opposite ways. He keeps the guest obligation at a price no
+later law would permit, shutting the door behind him against his own neighbours (19:6–8); and when
+the city is hours from burning he has to be taken out by the wrist (19:16), then argues that the
+hills are too far (19:19–20). The chapter's one evaluative clause is about God, not about him:
+*"Yahweh being merciful to him"*.
+
+**And the omission in the surrounding chapters is conspicuous.** *Ṣaddîq*, righteous, occurs seven
+times in eleven verses at 18:23–33 — in a negotiation about his city, conducted by his uncle — and
+is never once applied to him. Genesis 19:29 then gives the rescue a cause that is not his character:
+*"God remembered Abraham."*
+
 The New Testament supplies the verdict the narrative withholds, and it is generous: *"righteous
 Lot, very distressed by the lustful life of the wicked … tormented in his righteous soul from day to
 day with seeing and hearing lawless deeds"* (2 Peter 2:7–8). This wiki flags the tension rather than
 resolving it. Both accounts are canonical, they are not obviously the same portrait, and the honest
-description is that Genesis narrates without grading and 2 Peter grades without narrating.
+description is that Genesis narrates without grading and 2 Peter grades without narrating. The three
+standard ways of holding them together, and why none of them is compelled by the texts, are set out
+at [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]].
 
 ## Related people
 
@@ -175,6 +254,9 @@ description is that Genesis narrates without grading and 2 Peter grades without 
 - [[Abraham]] — his uncle, and his companion for eight chapters
 - [[Milcah]] and [[Iscah]] — his sisters
 - [[Nahor (brother of Abram)]] — his uncle, and his brother-in-law
+- [[Lot's Wife]] — taken out of Sodom by the hand with him, and lost on the road
+- [[Lot's Daughters]] — offered to the mob at 19:8, and the only members of his household who reach
+  Zoar with him
 
 ## Themes associated
 

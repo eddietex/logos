@@ -118,6 +118,9 @@ what Job is asking for.
   who stands between, blessing a man on God's behalf and God on the man's. Hebrews 7:25 takes the
   same figure as the answer to Job's search. See [[Priesthood]]
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:29, the founding intercession's answer,
+  and it is not in the terms it was asked in: the place is not spared, the man the advocate never
+  named is carried out of it, and the advocate is never told
 ## Related themes
 
 - [[Judgment]] — the proceeding all of this presupposes

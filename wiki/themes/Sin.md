@@ -156,6 +156,10 @@ has been argued.
 - [[Bildad's Second Speech]] — sin assumed everywhere and specified nowhere: twenty-one verses of
   punishment with no offence named, from which the offence is to be inferred
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:4–13: the charge stated as a *cry* by the
+  agents who carry out the sentence (*"the outcry against them has grown so great before Yahweh"*),
+  so that what is punished is grounded in what was done to people. What the text disputes among its
+  own readers is *which* sin; the range of scriptural answers is set out at [[Sodom]]
 ## Related themes
 
 - [[Curse]] — the counter-word this act calls down

@@ -81,6 +81,8 @@ and salt over. See [[The Plain of the Jordan]].
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:16–33; the charge given its first
   content as a *cry*, the sentence explicitly deferred until God goes down to look, and eleven
   verses of bargaining that end without a verdict
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:1–29; the whole male population at Lot's
+  door, the blinding, the household pulled out, and the sulfur and fire
 
 ## Related places
 
@@ -89,7 +91,8 @@ and salt over. See [[The Plain of the Jordan]].
   deliberate contrast to this one
 - [[The Salt Sea]] — the valley of Siddim, where its army is destroyed
 - [[The Plain of the Jordan]] — the *kikkar* it stands in, and the reason Lot chose it
-- **Zoar** — the smallest of the five cities, spared at Lot's request (19:20–22); no page yet
+- [[Zoar]] — the smallest of the five cities, Bela at 14:2, spared at Lot's request and named out of
+  his plea (19:20–22); the only one of them still standing afterwards
 - [[Canaan]] — the land whose southeastern border it fixes at 10:19
 - [[Egypt]] — its co-simile at 13:10 and its pairing in Revelation 11:8
 
@@ -107,4 +110,12 @@ and salt over. See [[The Plain of the Jordan]].
   Genesis 18:20–21, [[The Three Visitors and Abraham's Intercession]]
 - Abraham argues with Yahweh over whether it can be spared for ten righteous, and the chapter ends
   without saying whether ten were found — Genesis 18:22–33
-- Destroyed with Gomorrah; Lot brought out — Genesis 19:1–29 *(not yet ingested)*
+- Two of the three visitors arrive at evening and are taken into Lot's house — Genesis 19:1–3,
+  [[The Destruction of Sodom and Gomorrah]]
+- *"the men of the city, the men of Sodom … both young and old, all the people from every quarter"*
+  surround the house and demand the guests; they are struck with blindness — Genesis 19:4–11. The
+  crowd count is the verdict chapter 18 withheld: there are not ten.
+- Lot's household is pulled out of it at dawn — Genesis 19:15–16
+- Destroyed with Gomorrah by sulfur and fire, together with the whole plain and what grew on it —
+  Genesis 19:24–25
+- Its smoke seen from the ridge above Hebron *"as the smoke of a furnace"* — Genesis 19:27–28

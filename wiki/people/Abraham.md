@@ -328,6 +328,29 @@ because *"his relative was taken captive"*. What answers the intercession, one c
 that *"God remembered Abraham, and sent Lot out"* (19:29): not the bargain he made, but the nephew
 he did not name. See [[The Three Visitors and Abraham's Intercession]].
 
+### In this pericope — Genesis 19:1–29, off-stage and then on a ridge
+
+**He is absent for twenty-six verses of the chapter he set in motion, and when he reappears he does
+three things: he gets up, he looks, and he goes home.**
+
+*"Abraham got up early in the morning to the place where he had stood before Yahweh"* (19:27) — back
+to the exact spot 18:22 left him standing on, some forty miles from the plain. *"He looked toward
+Sodom and Gomorrah … and saw that the smoke of the land went up as the smoke of a furnace"* (19:28).
+
+**Then nothing.** He does not speak, is not spoken to, and is told nothing. He never learns whether
+ten righteous were found; he is not informed that Lot is alive; he never mentions Sodom again in the
+book. **The outcome of Scripture's first intercession is disclosed to the reader and withheld from
+the man who made it** — which is the more striking because 19:29 says that he is the reason it
+turned out as it did: *"When God destroyed the cities of the plain, God remembered Abraham, and sent
+Lot out of the middle of the overthrow."*
+
+That verse credits the rescue to him and not to Lot, and it does so in the Priestly *God remembered*
+formula that Genesis reserves for the moment God acts on a standing obligation (8:1; 30:22; Exodus
+2:24). What Abraham asked for — that the place be spared for the righteous in it — did not happen.
+What happened is that the righteous was taken out of it, on his account. The wiki records that the
+chapter supports reading this as a failed intercession and as one answered past its terms, and
+settles neither. See [[The Destruction of Sodom and Gomorrah]].
+
 ### Where the rest of him is
 
 Almost everything the Bible says about Abraham is still ahead of this page: the ruse repeated at
@@ -400,6 +423,9 @@ it (Galatians 3:8). This page grows as those arrive.
   righteousness and justice — Genesis 18:17–21
 - Argues that the Judge of all the earth must do right, and bargains Sodom down from fifty righteous
   to ten — Genesis 18:22–33
+- Returns at dawn to the ridge where he had stood, sees the smoke of the plain, and is told nothing —
+  Genesis 19:27–28, [[The Destruction of Sodom and Gomorrah]]
+- Named as the reason Lot survives: *"God remembered Abraham"* — Genesis 19:29
 - Dies at a hundred seventy-five — Genesis 25:7 *(not yet ingested)*
 
 ## Appears in
@@ -422,6 +448,9 @@ it (Galatians 3:8). This page grows as those arrive.
   strangers a banquet he described as a morsel, serves them standing, and then becomes the first
   person in Scripture to argue with God about justice — on the standard God had just given him,
   without once naming the nephew inside the city
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:27–29; off-stage for the whole catastrophe,
+  back on his ridge at dawn to look at smoke, told nothing, and named in the summary verse as the
+  reason anyone came out alive
 
 ## Related people
 

@@ -58,6 +58,10 @@ The wiki endorses neither; see [[Sodom]].
 
 - [[Abram and Lot Separate]] — Genesis 13:10–12, the ground Lot chooses and the boundary it puts him
   outside of
+- [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–12, the valley of Siddim and the battle of
+  the four kings against the five
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19:25, 28–29; overthrown entire, *"all the
+  plain, all the inhabitants of the cities, and that which grew on the ground"*
 
 ## Related places
 
@@ -71,6 +75,10 @@ The wiki endorses neither; see [[Sodom]].
 
 - Lot lifts his eyes, sees it well-watered, and chooses it — Genesis 13:10–11,
   [[Abram and Lot Separate]]
-- The battle of the four kings against the five, in the Valley of Siddim — Genesis 14:1–12
-  *(not yet ingested)*
-- The overthrow of the cities of the plain — Genesis 19:24–29 *(not yet ingested)*
+- The battle of the four kings against the five, in the Valley of Siddim — Genesis 14:1–12,
+  [[The Rescue of Lot and Melchizedek]]
+- The overthrow: *"He overthrew those cities, all the plain, all the inhabitants of the cities, and
+  that which grew on the ground"* — Genesis 19:25, [[The Destruction of Sodom and Gomorrah]]. The
+  ground Lot chose for being *"well-watered everywhere"* and *"like the garden of Yahweh"* (13:10) loses
+  its vegetation in the same verse as its people, and the Eden simile is closed off with it. Only
+  [[Zoar]], at its edge, is left.

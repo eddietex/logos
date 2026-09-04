@@ -503,6 +503,41 @@ firsts.
   [[Shall Not the Judge of All the Earth Do Right]] and
   [[The Three Visitors and Abraham's Intercession]].
 
+### He acts through agents, and is named twice in one clause — Genesis 19:1–29
+
+**The chapter after the argument is the one in which he barely speaks.** He is quoted directly only
+once in the whole pericope — *"I have granted your request concerning this thing also"* (19:21) —
+and even that is on the lips of a figure the chapter has been calling one of *"the men"*.
+
+- **He goes down, as he said he would, and it is the messengers who arrive.** *"I will go down now,
+  and see"* (18:21) is reported as accomplished by the two: *"the outcry against them has grown so
+  great before Yahweh that Yahweh has **sent us** to destroy it"* (19:13). The warrant is the *cry* —
+  what was done to people — and the agents state it as their commission.
+- **The grammatical number goes on failing, and now in one sentence.** They speak as *"we will
+  destroy this place"* (19:13) and as *"I will not overthrow the city"* (19:21) nine verses apart.
+  See [[The Angel of Yahweh]].
+- **He is merciful to a man who will not move.** *"But he lingered; and the men grabbed his hand …
+  Yahweh being merciful to him"* (19:16). *Bəḥemlat YHWH ʿālāyw* — the verse gives the cause of the
+  rescue in the same clause that reports the resistance to it, and the cause is nothing the rescued
+  man does.
+- **He grants the one thing he is asked for in the chapter, and it is trivial.** Abraham asked for a
+  city on the ground of justice and did not get it; Lot asks for a nearer town because he is afraid
+  of the hills, and gets it (19:21). Genesis reports the asymmetry without comment.
+- **He is constrained by the presence of one man outside shelter.** *"Hurry, escape there, for I
+  can't do anything until you get there"* (19:22). It is the nearest the book comes to conceding
+  18:25 — the principle stated by Abraham as a question turns up here as an operating limit on the
+  executioner. See [[Shall Not the Judge of All the Earth Do Right]].
+- **He is named twice in one clause.** *"Then Yahweh rained on Sodom and on Gomorrah sulfur and fire
+  from Yahweh out of the sky"* (19:24). The wiki reads the doubling as the ordinary Hebrew habit of
+  a repeated proper name where English would use a reflexive, and records the two-figures reading
+  (Justin Martyr, *Dialogue* 56, 129) as reception, on the same terms as the three visitors of
+  chapter 18. See [[Fire and Sulfur from the Sky]].
+- **And in the last verse he is *ʾĕlōhîm*, and he remembers.** *"When God destroyed the cities of
+  the plain, God remembered Abraham, and sent Lot out of the middle of the overthrow"* (19:29) — the
+  chapter's only two uses of *God* rather than *Yahweh*, in the formula of 8:1 and Exodus 2:24. He
+  acts on account of the intercessor, and never tells him. See [[Remembrance]] and
+  [[The Destruction of Sodom and Gomorrah]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -623,6 +658,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   aloud about whether to tell his friend what he is about to do, goes down to look before he
   sentences, and then concedes six times running to a man who apologizes for asking —
   [[The Three Visitors and Abraham's Intercession]]
+- Destroys two cities through two agents while saying almost nothing himself; is *"merciful"* to a
+  man who has to be pulled out by the wrist, grants a frightened request he was not obliged to,
+  says he can do nothing until the man is under shelter, is named twice in the same clause, and in
+  the last verse remembers somebody who is forty miles away and never finds out —
+  [[The Destruction of Sodom and Gomorrah]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -691,6 +731,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Three Visitors and Abraham's Intercession]] — he appears as one and is fed as three, eats a
   meal under a tree, speaks to Sarah in the only verse where he does, overhears himself deciding to
   take Abraham into his confidence, and gives way six times without an argument
+- [[The Destruction of Sodom and Gomorrah]] — he acts almost entirely through two agents, is quoted
+  once, is *"merciful"* to a man who will not move, says he can do nothing until that man is under
+  shelter, is named twice in one clause at 19:24, and closes the chapter by remembering Abraham
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

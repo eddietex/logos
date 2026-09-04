@@ -81,7 +81,17 @@ rather than achieved.
   men of Sodom (13:13), not about cities. Hebrews 11:9–10 reads the contrast as deliberate and then
   reverses it — the tent-dweller is the one *"looking for the city which has foundations, whose
   builder and maker is God"*. See [[Abram and Lot Separate]] and [[Sodom]].
-- Strands to trace as ingestion reaches them: Sodom (Genesis 18–19); the cities of refuge as civilization
+- **Genesis 19:1–29** — the theme's first destroyed city, and the only one Genesis takes the reader
+  inside. Three of Genesis's cities are now on the page and none of them ends well: Enoch, built by
+  a fratricide (4:17); Babel, abandoned in confusion (11:8); Sodom, burned. **What the chapter
+  indicts is specifically urban, and it is the crowd.** The offence is committed by *"the men of the
+  city … both young and old, all the people from every quarter"* (19:4) — a whole population acting
+  as one body against two strangers — and the sentence falls on the town rather than on individuals.
+  Genesis's picture of the city is not that building is wrong but that a city can act, and that when
+  it does there is nobody left to appeal to. Lot's own arc completes here: tent to gate to a cave
+  above [[Zoar]], the one man in Genesis who moves into a city and the one who has to be dragged out
+  of one. See [[The Destruction of Sodom and Gomorrah]].
+- Strands to trace as ingestion reaches them: the cities of refuge as civilization
   domesticating blood vengeance (Numbers 35); Jerusalem as the chosen city (2 Samuel 5, Psalms
   46, 48, 122); Babylon as the archetype of the city against God (Isaiah 13, Jeremiah 50–51,
   Revelation 17–18); Jeremiah 29:7, on seeking the welfare of the city you are exiled to;
@@ -101,6 +111,9 @@ rather than achieved.
   back. The chapter also puts two cities' kings side by side — [[Salem]], whose king brings out bread
   and wine, and [[Sodom]], whose king asks
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19: the first city Genesis destroys and the
+  only one it takes the reader inside. The offence is committed by the town acting as one body, and
+  the sentence falls on the town
 ## Related themes
 
 - [[Work]] — the trades of 4:20–22 as the first specialized and inherited vocations

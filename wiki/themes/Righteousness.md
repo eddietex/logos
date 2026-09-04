@@ -138,6 +138,10 @@ about.
   that I have erred, my error remains with myself"* is not a confession and not a denial; it is a
   refusal of the friends' standing to hear either
 
+- [[The Destruction of Sodom and Gomorrah]] — Genesis 19: the word's conspicuous absence. *Ṣaddîq*
+  occurs seven times in the eleven verses immediately before, in a negotiation about this city, and
+  is never applied to the one man taken out of it; 19:29 credits the rescue to Abraham instead. See
+  [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]]
 ## Related themes
 
 - [[Favor and Grace]] — the other term in the 6:8 / 6:9 pair, and the question of which grounds which
