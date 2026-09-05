@@ -5007,8 +5007,16 @@ deathbed verdict on the bread he asked for conditionally).
 Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
 its first unchecked box read `Jacob, Leah, and Rachel — Genesis 29:1–30`. `raw/bible/Genesis.md` was
 already present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the
-passage page. The tree was clean at the start of the session, on `main` at `8e5d224`, and nothing
-needed committing separately first. **The boundary was used as drawn and needed no revision.**
+passage page. The tree was clean at the start of the session and nothing needed committing separately
+first. **The boundary was used as drawn and needed no revision.**
+
+**The session again started on a detached HEAD** at `origin/main` (8e5d224), with local `main`
+twenty-five commits behind it and no commits of its own — the same condition the previous run
+recorded. The ingest was committed on the detached HEAD; `main` was then checked out and
+fast-forwarded onto it (`git merge --ff-only`, verified an ancestor first, so nothing was discarded)
+and pushed. Nothing was stashed, dropped, or rewritten. **This is now the second consecutive run to
+hit it, so it is worth a look: the container appears to check the repo out detached rather than on
+`main`.**
 
 ### What the pericope is
 
