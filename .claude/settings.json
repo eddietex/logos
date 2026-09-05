@@ -1,4 +1,16 @@
 {
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh"
+          }
+        ]
+      }
+    ]
+  },
   "permissions": {
     "allow": [
       "Bash(git status:*)",
@@ -8,9 +20,19 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(git pull:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git merge:*)",
+      "Bash(git branch:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(git rev-list:*)",
+      "Bash(git merge-base:*)",
+      "Bash(git symbolic-ref:*)",
       "Bash(scripts/fetch-book.sh:*)",
       "Bash(scripts/link-check.sh:*)",
-      "Bash(./scripts/link-check.sh:*)"
+      "Bash(./scripts/link-check.sh:*)",
+      "Bash(scripts/git-preflight.sh:*)",
+      "Bash(./scripts/git-preflight.sh:*)"
     ],
     "deny": []
   }
