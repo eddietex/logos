@@ -52,6 +52,10 @@ monarchy, when Asa's army pursues the Cushites *"to Gerar"* and plunders the tow
 - [[The Treaty at Beersheba]] — Genesis 21:22–34; its king and his army commander travel inland to
   swear, and return here
 - [[The Table of Nations]] — Genesis 10:19, as a point on the Canaanite border
+- [[Isaac in Gerar]] — Genesis 26:1–22; Isaac is sent here instead of Egypt in a famine, repeats his
+  father's ruse and is caught at a window, sows a crop and reaps a hundredfold, is envied, has his
+  father's wells filled in with earth, and is told to leave; then encamps in the valley outside it
+  and loses two more wells to its herdsmen
 
 ## Related places
 
@@ -64,6 +68,8 @@ monarchy, when Asa's army pursues the Cushites *"to Gerar"* and plunders the tow
 - [[Beersheba]] — the well inland where both of its treaties are actually sworn
 - [[The Land of the Philistines]] — the country Genesis says it belongs to, by a name several
   centuries early
+- [[Esek]], [[Sitnah]], and [[Rehoboth]] — the three wells dug in its valley, two of them lost to its
+  herdsmen and the third left alone
 
 ## Events here
 
@@ -72,5 +78,10 @@ monarchy, when Asa's army pursues the Cushites *"to Gerar"* and plunders the tow
 - Abraham and Abimelech swear a treaty over a well at Beersheba, and return to *"the land of the
   Philistines"* — Genesis 21:22–34, [[The Treaty at Beersheba]]
 - Isaac is told not to go to Egypt, settles in Gerar, repeats his father's ruse, and reaps a
-  hundredfold — Genesis 26:1–33 *(not yet ingested)*
+  hundredfold — Genesis 26:1–14, [[Isaac in Gerar]]
+- Its king expels him — *"Go away from us, for you are much mightier than we"* — and he encamps in
+  **the valley of Gerar**, the wadi outside the town, where his servants dig [[Esek]], [[Sitnah]],
+  and [[Rehoboth]] — Genesis 26:16–22
+- Its king, counsellor, and general travel inland from here to swear the second treaty at Beersheba —
+  Genesis 26:26–31
 - Asa pursues the Cushite army as far as Gerar — 2 Chronicles 14:13–14

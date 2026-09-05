@@ -483,8 +483,8 @@ handed the job.**
   lines are separated and followed unequally.
 - Genesis 4:1–16 — Cain and Abel: two brothers, unequal reception, and a killing; the pattern this
   pericope reruns and then does not complete.
-- Genesis 26:1–35 — Isaac's own chapter, God's first words to him at 26:2, and Esau's Hittite wives at
-  26:34–35 *(not yet ingested)*.
+- [[Isaac in Gerar]] — Genesis 26:1–35, Isaac's own chapter: God's first words to him at 26:2, the
+  covenant grounded on his father's obedience at 26:5, and Esau's Hittite wives at 26:34–35.
 - Genesis 27:1–45 — the blessing, stolen with goat skins on the arms and game in the mouth; 27:36 is
   Esau's own reading of both transactions *(not yet ingested)*.
 - Genesis 29:21–30 — Laban substitutes the elder daughter for the younger, and Jacob wakes up married

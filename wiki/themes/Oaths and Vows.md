@@ -111,6 +111,15 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   shrug into an irrevocable transfer of an inheritance. The two before it were extracted by Abraham
   from a servant (24:3) and sworn to a king (21:24); **this one is extracted by a younger brother
   from an elder, at a cooking pot, and the narrator does not comment on it**
+- [[Isaac in Gerar]] — Genesis 26:28–33, **the same oath as Genesis 21, at the same well, one
+  generation later — and cheaper.** Abraham's version needed a complaint, sheep and cattle handed
+  over, and seven ewe lambs set apart as a witness to his digging; **Isaac's needs a feast.** No
+  consideration is paid, no witness object is set out, and no grievance about the stopped wells is
+  entered. *Wayyišbəʿû ʾîš ləʾāḥîw* — *they swore, each man to his brother* — and *"they departed from
+  him in peace"*. The oath is also God's own word in this chapter: 26:3 has him *"establish the oath
+  which I swore to Abraham"*, the self-sworn oath of 22:16. **And 26:33 explains the name Beersheba a
+  second time from the same root**, which the book does not notice. See
+  [[The Wells of Abraham and the Wells of Isaac]]
 
 ## Related themes
 

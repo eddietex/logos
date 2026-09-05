@@ -17,8 +17,9 @@ tags: [connection]
 - **Genesis 21:33** — *"Abraham planted a tamarisk tree in Beersheba, and called there on the name of
   Yahweh, the Everlasting God."* The only occurrence attached to a **tree** rather than an altar, and
   the only one that adds a divine name to the formula — [[The Treaty at Beersheba]]
-- **Genesis 26:25** *(not yet ingested)* — Isaac at the same place: *"He built an altar there, and
-  called on Yahweh's name, and pitched his tent there."*
+- **Genesis 26:25** — Isaac at the same place: *"He built an altar there, and called on Yahweh's
+  name, and pitched his tent there."* **The only occurrence attached to Isaac**, and the only altar
+  he builds in the Bible — [[Isaac in Gerar]]
 - **Exodus 6:2–3** *(not yet ingested)* — *"I am Yahweh. I appeared to Abraham, to Isaac, and to
   Jacob, as God Almighty; but by my name Yahweh I was not known to them."*
 - **Joel 2:32** — *"whoever will call on Yahweh's name shall be saved"*

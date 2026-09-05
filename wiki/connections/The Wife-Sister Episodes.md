@@ -12,8 +12,9 @@ tags: [connection]
 - **Genesis 20:1–18** — Abraham in Gerar. *"She is my sister"*, Sarah taken by Abimelech, God in a
   dream by night, Abraham called a prophet, a thousand pieces of silver, and Abraham praying for the
   man who took his wife — [[Abraham and Abimelech]]
-- **Genesis 26:6–11** — Isaac in Gerar. *"She is my sister"*, nobody taken, and Abimelech looking out
-  of a window *(not yet ingested)*
+- **Genesis 26:6–11** — Isaac in Gerar. *"She is my sister"*, nobody taken, Abimelech looking out of
+  a window, and a royal edict making it a capital offence to touch either of them —
+  [[Isaac in Gerar]]
 - **Genesis 20:12** — *"she is indeed my sister, the daughter of my father, but not the daughter of
   my mother"*, which is the fact the whole set turns on
 - **Genesis 20:13** — *"When God caused me to wander from my father's house … Everywhere that we go,
@@ -59,7 +60,7 @@ tests of how they read Genesis generally.
 | Consummation | **the text says nothing** | explicitly denied — *"Abimelech had not come near her"* (20:4) | never arises |
 | Does God speak? | no — one act, no words | yes — a dream, a warning, a negotiation (20:3–7) | not in the episode |
 | Divine sanction | plagues on the household | barrenness on the household, lifted by prayer (20:17–18) | none; the king forbids his people to touch them |
-| Is the half-sister fact stated? | no | yes — 20:12 | not applicable; Rebekah is a cousin |
+| Is the half-sister fact stated? | no | yes — 20:12 | **not available; Rebekah is his cousin's daughter, so the claim is simply false** |
 | Does the patriarch answer? | **no — not one word** | yes — a three-part defence (20:11–13) | yes — one sentence (26:9) |
 | Patriarch's standing at the end | escorted out of the country | called *"a prophet"*, and prays for the king | invited to stay, under royal protection |
 
@@ -70,6 +71,15 @@ God's protection, a verse confirming the wife was untouched, an explanation from
 the ruse a reasonable precaution among godless people and technically true besides, and a closing
 scene in which the offender intercedes for the offended. Genesis 26 removes the offence altogether —
 nobody takes Rebekah, and the whole episode is a near-miss.
+
+**But the rehabilitation is not total, and one column runs the other way.** Genesis 20:12 is what
+makes Abraham's version half true; **Isaac has no such fact available.** Rebekah is Bethuel's
+daughter and so his father's cousin's daughter, and *"She is my sister"* is simply false. **The
+episode in which the patriarch comes off best is also the one in which the lie is flattest**, and it
+is the one God does nothing about: no dream, no plague, no closed wombs, no word to anyone. **The
+king finds out by looking out of a window** (26:8), and the verb he sees Isaac performing is the
+intensive of the root Isaac is named for — *Yiṣḥāq məṣaḥēq*, the same participle that got Ishmael
+expelled at 21:9. See [[Isaac in Gerar]] and [[Laughter and the Name Isaac]].
 
 ### The two readings
 

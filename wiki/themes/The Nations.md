@@ -183,6 +183,15 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   is what makes Deuteronomy 23:7 (*"You shall not abhor an Edomite"*) and Obadiah's charge of
   fratricide two halves of the same fact. See [[Edom]] and
   [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]]
+- [[Isaac in Gerar]] — Genesis 26:4, 10–16, 28–29; **the promise that *"all the nations of the
+  earth"* will be blessed in his offspring, restated to a man living among them and being pushed
+  around by them.** The Philistine king protects the household by capital edict, expels it for
+  outgrowing his kingdom, and then comes to sign with it because *"we saw plainly that Yahweh was
+  with you"*. **The chapter's foreigners are, in order, better behaved than the patriarch, frightened
+  of him, and finally dependent on his goodwill** — the three postures Genesis gives the nations
+  around this family, all inside thirty-three verses. And the last two verses run it the other way:
+  Esau marries into the nations, and his parents grieve. See [[Envy]] and
+  [[Mightier Than We - Isaac in Gerar and Israel in Egypt]]
 
 ## Related themes
 

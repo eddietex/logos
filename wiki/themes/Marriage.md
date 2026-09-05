@@ -172,6 +172,16 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   sentence altogether. The pericope also closes the book's longest marriage: *"Abraham was buried
   there with Sarah, his wife"*
 
+- [[Isaac in Gerar]] — Genesis 26:7–11, 34–35: **the theme at both ends of one chapter, and they are
+  opposites.** In the first, a husband denies the marriage to strangers and a foreign king has to
+  restore it by decree — *"He who touches this man or his wife will surely be put to death"* — after
+  working out from a window that they are married at all. In the last two verses, **Esau at forty
+  takes two wives of the land on his own initiative**, at exactly the age his father was married by
+  proxy to a woman fetched four hundred miles under an oath forbidding precisely this (24:3). *"They
+  grieved Isaac's and Rebekah's spirits"* is the whole comment, and it is the only feeling the cycle
+  records the two parents sharing. See [[Not from the Daughters of the Canaanites]] and
+  [[The Names of Esau's Wives - Genesis 26 and Genesis 36]]
+
 ## Related themes
 
 - [[Creation]]

@@ -17,7 +17,9 @@ tags: [connection]
   unquantified form, quoted by God to himself. See [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 22:17** — *"I will multiply your offspring greatly like the stars of the heavens, and
   like the sand which is on the seashore."* See [[The Binding of Isaac]].
-- **Genesis 26:4** (to Isaac) — *"I will multiply your offspring as the stars of the sky."*
+- **Genesis 26:4** (to Isaac) — *"I will multiply your offspring as the stars of the sky."* The
+  second generation gets the stars and not the dust or the sand, in a speech that reuses every other
+  clause of the promise unchanged — [[Isaac in Gerar]]
 - **Genesis 28:14** (to Jacob) — *"Your offspring will be as the dust of the earth, and you will
   spread abroad to the west, and to the east, and to the north, and to the south."*
 - **Genesis 32:12** (Jacob praying it back) — *"make your offspring as the sand of the sea, which

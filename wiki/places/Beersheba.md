@@ -80,6 +80,11 @@ every one of them.
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:2, by its absence; 22:19 left Abraham living
   here, and when Sarah dies at Hebron twenty-five miles north the verse has to say he *came* to mourn
   her. Genesis does not explain the distance
+- [[Isaac in Gerar]] — Genesis 26:23–33; where Isaac goes up to after [[Rehoboth]], is met by God the
+  same night in the first *"I am the God of Abraham your father"* in Scripture, builds the only altar
+  of his life, calls on Yahweh's name, receives the delegation from Gerar, swears the second treaty,
+  and names a well *Shibah* — the town's second etiology, and the only verse in Genesis that calls
+  Beersheba a *city*
 
 ## Related places
 
@@ -87,6 +92,8 @@ every one of them.
 - [[Gerar]] — the Philistine-country town to the west whose king comes here to swear
 - [[The Land of the Philistines]] — the country Abimelech and Phicol return to, and in which Abraham
   then lives as a foreigner *many days*
+- [[Esek]], [[Sitnah]], and [[Rehoboth]] — the three wells in the valley of Gerar that Isaac digs on
+  the way here, two of them conceded
 - [[Beer Lahai Roi]] — the other patriarchal well in this desert, named by Hagar, and Isaac's home
 - [[Paran]] — the wilderness further south, where the boy left in this one grows up
 - [[Kadesh]] and [[Shur]] — the two bearings Genesis gives for the same frontier
@@ -105,8 +112,12 @@ every one of them.
   Genesis 21:22–34, [[The Treaty at Beersheba]]
 - Abraham returns from Moriah and settles; the verse names the place twice — Genesis 22:19,
   [[The Binding of Isaac]]
-- Isaac is met by God, builds an altar, digs a well, and names it Shibah — Genesis 26:23–33
-  *(not yet ingested)*
+- Isaac is met by God the night he arrives, builds the one altar of his life, calls on Yahweh's name,
+  pitches his tent, and digs — Genesis 26:23–25, [[Isaac in Gerar]]
+- Abimelech, Ahuzzath, and Phicol come from Gerar; a feast, an oath sworn at dawn, and a departure in
+  peace — Genesis 26:26–31
+- Water is found the same day; the well is named **Shibah**, and *"Therefore the name of the city is
+  Beersheba to this day"* — the second of the two etiologies — Genesis 26:32–33
 - Jacob departs from here for Haran — Genesis 28:10 *(not yet ingested)*
 - Jacob sacrifices here and is given leave to go down to Egypt — Genesis 46:1–5 *(not yet ingested)*
 - Elijah leaves his servant here and goes on into the wilderness — 1 Kings 19:3–4

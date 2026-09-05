@@ -128,6 +128,14 @@ everlasting possession, by treaty with its current occupant.
 - [[The Binding of Isaac]] — Genesis 22:14, *Yhwh Yirʾeh*, which names a **place** rather than God,
   and does it in the verb the whole chapter is built on; the same pericope divides *ʾĕlōhîm* (the
   command) from *YHWH* (the rescue) along a clean line, and contains the only *nəʾum YHWH* in Genesis
+- [[Isaac in Gerar]] — Genesis 26:24, ***"I am the God of Abraham your father"*** — ***ʾĀnōkî ʾĕlōhê
+  ʾAbrāhām ʾābîkā***, **the first time in Scripture God identifies himself by the name of an
+  ancestor.** Abraham's servant had prayed to *"Yahweh, the God of my master Abraham"* (24:12), but a
+  man's description of God is not God's self-introduction. From here it becomes the standing formula:
+  to Jacob at Bethel (28:13), again at 31:42 and 46:3, and out of a bush at Exodus 3:6, the verse
+  Jesus argues the resurrection from (Matthew 22:32). **The divine name acquires a genealogy, and
+  this is the verse it starts in** — unlike *ʾĒl Šadday*, *ʾĒl ʿÔlām*, or *ʾĒl Rŏʾî*, it is not a new
+  name but a new kind of identification, tying God to a person rather than to an attribute or a place
 - Exodus 3:13–15 — I AM
 - Exodus 6:2–3 — the name not known to the fathers
 - Exodus 20:7; Leviticus 19:12 — guarding the name

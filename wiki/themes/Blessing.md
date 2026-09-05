@@ -221,6 +221,15 @@ costly.
   **Esau is the character who fuses them** — *"He took away my birthright. See, now he has taken away
   my blessing"* (27:36) — and the book keeps them apart until he does. See
   [[Birthright and the Firstborn]]
+- [[Isaac in Gerar]] — Genesis 26:3, 12, 24, 29; **the theme stated four times, by three different
+  mouths, about one man.** God says it twice (*"I will be with you, and will bless you"*, 26:3;
+  *"will bless you, and multiply your offspring for my servant Abraham's sake"*, 26:24); the narrator
+  says it once, as the explanation for a hundredfold harvest reaped in a famine (*"Yahweh blessed
+  him"*, 26:12); and a Philistine embassy says it last — *"You are now the blessed of Yahweh"*
+  (26:29), the third time in the book that a foreigner pronounces the family blessed, after
+  Melchizedek at 14:19 and Laban's household at 24:31. **What the chapter adds to the theme is the
+  cost**: the harvest is followed immediately by envy, filled wells, and an eviction, and the man who
+  has just been told *all these lands* are his leaves without protest. See [[Envy]]
 
 ## Related themes
 

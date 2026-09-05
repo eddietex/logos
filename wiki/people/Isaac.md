@@ -274,11 +274,90 @@ Rebekah's *"loved Jacob"* with no clause at all. **He is the first parent in Scr
 favouritism is stated**, and the taste that grounds it is the machinery chapter 27 runs on: game,
 prepared and brought to him, while he is blind.
 
+### In this pericope — Genesis 26:1–35
+
+**The only chapter in the Bible that is his, and God speaks to him in it for the first time.**
+
+**He is sixty years past the promise of him.** Named before conception (17:19), circumcised before
+consent (21:4), bound without a word (22:9), married by errand (24), blessed in four words after his
+father's funeral (25:11) — and finally addressed at Gerar, in a famine, on his way somewhere he is
+about to be forbidden to go. **His wife had heard from God a chapter earlier** (25:23). Genesis never
+comments on the order.
+
+> **2** Yahweh appeared to him, and said, “Don’t go down into Egypt. Live in the land I will tell you
+> about.
+
+***"Don't go down into Egypt"* is the only prohibition in the patriarchal promises**, and it is the
+divine form of the clause his father had already made a servant swear twice about Mesopotamia
+(24:6, 8). **He is the one patriarch who never leaves the land, and those two verses are jointly
+why.** His grandson will be told the opposite at the same well — *"Don't be afraid to go down into
+Egypt"* (46:3). See [[Egypt]].
+
+**The promise is handed to him entire and not one term of it is new** — *I will be with you*, *bless
+you*, *all these lands*, *the oath which I swore to Abraham*, *offspring as the stars of the sky*,
+*in your offspring will all the nations of the earth be blessed* — **and the reason given is his
+father.** *"because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes,
+and my laws"* (26:5), and again at 26:24, *"for my servant Abraham's sake."* **Nothing in either
+speech is grounded in anything Isaac has done**, and the chapter's next act is his lie. See
+[[Because Abraham Obeyed My Voice - Law Before Sinai]] and [[Call and Election]].
+
+**Then he does his father's ruse, and he has no half-truth to stand on.** Sarah was Abraham's
+half-sister (20:12); **Rebekah is his cousin's daughter.** He gives the same motive in the same
+words — *"the men of the place might kill me for Rebekah, because she is beautiful to look at"*
+(26:7) — and, unlike his father, **he is never asked to explain himself at length and is never
+required to leave.** See [[The Wife-Sister Episodes]] and [[Deception]].
+
+**And the word that catches him out is his own name.** *"Isaac was caressing Rebekah, his wife"*
+(26:8) — ***Yiṣḥāq məṣaḥēq***, *Isaac Isaac-ing* — the intensive of *ṣāḥaq*, the root his parents
+laughed with and he is named for, and **the same participle that got Ishmael expelled at 21:9.**
+Genesis does not point it out. See [[Laughter and the Name Isaac]].
+
+> **12** Isaac sowed in that land, and reaped in the same year one hundred times what he planted.
+> Yahweh blessed him.
+
+**He is the only patriarch in Genesis reported planting a crop.** Abraham and Jacob keep tents and
+flocks; Isaac puts seed in ground — a settled man's act, requiring a whole season in one place — and
+does it **in a famine, on land he does not own, having just been told to live there as a resident
+alien.** It is the second of the two things he does on his own initiative in the whole book, the
+first being a prayer for his wife's womb. The hundredfold is the only yield figure in Genesis. See
+[[Work]] and [[Blessing]].
+
+**What follows is the cost.** The Philistines envy him — the Bible's first *qānāʾ* (26:14) — his
+father's wells are filled in with earth, and a king tells him *"Go away from us, for you are much
+mightier than we"* (26:16), in the wording a later king will use of his descendants (Exodus 1:9).
+**He goes, without protest, without appeal to the promise of 26:3, and without mentioning the edict
+that had just been issued to protect him.** See [[Envy]] and
+[[Mightier Than We - Isaac in Gerar and Israel in Egypt]].
+
+**His method is to move.** [[Esek]], then [[Sitnah]], both dug and both conceded to the herdsmen of
+Gerar without an argument; then [[Rehoboth]], unopposed, and the only thing he says in the whole
+sequence: *"For now Yahweh has made room for us, and we will be fruitful in the land"* (26:22).
+**Two wells lost and a third kept is not a defeat**; it is what his father did with Lot at 13:9, and
+it is the closest thing to a virtue the book credits him with. See [[Strife and Peacemaking]].
+
+> **25** He built an altar there, and called on Yahweh’s name, and pitched his tent there. There
+> Isaac’s servants dug a well.
+
+**This is the only altar he builds in the Bible.** Abraham builds four; Jacob builds two and a
+pillar; **Isaac builds one**, at Beersheba, on the night God calls himself *"the God of Abraham your
+father"* for the first time in Scripture — and Genesis records no sacrifice on it. The four verbs of
+the verse are a settlement in order: altar, name, tent, well. See
+[[Calling on the Name of Yahweh]] and [[The Names of God]].
+
+**And he makes his father's treaty again.** The same king, the same general, the same well, one
+extra courtier — and the one sharp thing he says in thirty-five verses: *"Why have you come to me,
+since you hate me, and have sent me away from you?"* (26:27). **Then he makes them a feast, swears in
+the morning, and lets their account of their own conduct stand uncontested.** See
+[[The Wells of Abraham and the Wells of Isaac]] and [[Oaths and Vows]].
+
+**The chapter's last word about him is a grief he shares with his wife**, and it is the only one they
+are ever recorded sharing: Esau at forty marries two Hittite women of the neighbourhood — the age
+Isaac himself was married, by proxy, to a woman fetched four hundred miles under an oath excluding
+exactly this — and *"They grieved Isaac's and Rebekah's spirits"* (26:35). **It is the grief Rebekah
+will use at 27:46**, and he acts on it at once.
+
 ### Where the rest of him is
 
-- **Genesis 26** — the only chapter that is his own: the wife-sister ruse repeated at Gerar, the wells
-  re-dug and renamed, and the covenant promise restated to him directly (26:2–5, 24). See
-  [[The Wife-Sister Episodes]].
 - **Genesis 27** — old, blind, and deceived into blessing the younger son; the chapter's whole
   machinery runs past him.
 - **Genesis 35:28–29** — dies at a hundred eighty, buried by Esau and Jacob.
@@ -324,8 +403,19 @@ prepared and brought to him, while he is blind.
 - Absent from the inquiry and from the oracle his wife receives — Genesis 25:22–23
 - Sixty at the birth of the twins — Genesis 25:26
 - Loves Esau, *"because he ate his venison"* — Genesis 25:28
-- Repeats his father's ruse at Gerar, and is given the promise in his own right — Genesis 26
-  *(not yet ingested)*
+- Told in a famine not to go down to Egypt, and given the whole Abrahamic promise — the first time
+  God has ever spoken to him — Genesis 26:2–5, [[Isaac in Gerar]]
+- Repeats his father's ruse at Gerar, and is caught by a king at a window in a verb that is his own
+  name — Genesis 26:7–11
+- Sows a crop in a famine and reaps a hundredfold; grows very great, and is envied — Genesis 26:12–14
+- Evicted: *"Go away from us, for you are much mightier than we"* — Genesis 26:16
+- Re-digs his father's wells and restores their names; concedes [[Esek]] and [[Sitnah]] and keeps
+  [[Rehoboth]] — Genesis 26:18–22
+- Met at Beersheba the same night by *"the God of Abraham your father"*; builds the only altar of his
+  life and calls on Yahweh's name — Genesis 26:23–25
+- Swears his father's treaty again with Abimelech, Ahuzzath, and Phicol; the well is named Shibah —
+  Genesis 26:26–33
+- Grieved, with Rebekah, by Esau's two Hittite wives — Genesis 26:34–35
 - Deceived into blessing Jacob — Genesis 27 *(not yet ingested)*
 - Dies at a hundred eighty — Genesis 35:28–29 *(not yet ingested)*
 
@@ -357,6 +447,12 @@ prepared and brought to him, while he is blind.
   takes the initiative, and it is a prayer for his wife's womb; then absent from the inquiry and from
   the oracle, still unaddressed by God, and by the end of the pericope a man who loves the son who
   brings him game
+- [[Isaac in Gerar]] — Genesis 26:1–35; the only chapter in the Bible that is his — God speaks to him
+  for the first time and grounds the covenant on his father twice; he repeats his father's ruse and
+  is caught by a verb that is his own name; he is the one patriarch who sows a crop, and reaps a
+  hundredfold in a famine on ground he does not own; he is envied, evicted, and pushed off two wells
+  without contesting either; he builds the one altar of his life; and he ends the chapter grieving,
+  with his wife, over his elder son's marriages
 
 ## Related people
 
@@ -374,6 +470,12 @@ prepared and brought to him, while he is blind.
 - [[Esau]] — his firstborn, whom he loves for his hunting, and whom he will bless second and with
   nothing left
 - [[Jacob]] — his younger son, ranked above the elder in an oracle given to his wife and not to him
+- [[Abimelech (of Isaac's time)]] — the king of Gerar who shelters him, catches his lie from a window,
+  protects him and Rebekah by capital edict, expels him for growing too strong, and then comes to
+  Beersheba to ask him for an oath
+- [[Ahuzzath]] and [[Phicol]] — the counsellor and the general of that embassy, both silent
+- [[Judith]] and [[Basemath (daughter of Elon)]] — his elder son's Hittite wives, and the only grief
+  Genesis ever records him sharing with his wife
 
 ## Themes associated
 
@@ -391,3 +493,9 @@ prepared and brought to him, while he is blind.
 - [[Prayer]]
 - [[Birthright and the Firstborn]]
 - [[Strife and Peacemaking]]
+- [[Deception]]
+- [[Envy]]
+- [[Oaths and Vows]]
+- [[Work]]
+- [[The Nations]]
+- [[The Names of God]]

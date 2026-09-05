@@ -90,6 +90,14 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:12, 18; still *"Hagar the Egyptian"*
   in the heading of her son's genealogy, thirty-eight years after the death of the owner she is also
   still identified by, and the country [[Shur]] fronts in the description of his descendants' range
+- [[Isaac in Gerar]] — Genesis 26:2; **named once, and nobody goes there.** *"Don't go down into
+  Egypt"* is **the only prohibition in the patriarchal promises**, and it is why Isaac is the one
+  patriarch who never leaves the land. Abram went down in the first famine (12:10) and came out rich
+  and rebuked; Jacob will be told at this same well, in almost the same grammar, the exact
+  opposite — *"Don't be afraid to go down into Egypt"* (46:3) — and the difference between the two
+  verses is the difference between a sojourn and an exodus. See
+  [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] for what happens to the family in Gerar
+  instead
 
 ## Related places
 

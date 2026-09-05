@@ -9,8 +9,10 @@ tags: [connection]
 
 - **Genesis 24:3–4** — Abraham's oath: *"you shall not take a wife for my son of the daughters of the
   Canaanites … But you shall go to my country, and to my relatives"* — [[A Wife for Isaac]]
-- **Genesis 26:34–35; 27:46** — Esau marries two Hittite women, and Rebekah uses the fact as her
-  argument *(not yet ingested)*
+- **Genesis 26:34–35** — Esau, at forty, marries [[Judith]] and [[Basemath (daughter of Elon)]], both
+  Hittites, and *"They grieved Isaac's and Rebekah's spirits"* — [[Isaac in Gerar]]
+- **Genesis 27:46** — Rebekah uses that grief as her argument for sending Jacob away
+  *(not yet ingested)*
 - **Genesis 28:1–2** — Isaac repeats his father's charge to Jacob, almost word for word
   *(not yet ingested)*
 - **Genesis 34** — Dinah, Shechem, and a proposal of general intermarriage answered with a massacre
@@ -50,9 +52,18 @@ prohibits both what Genesis 24 forbids and what it prescribes**, and Genesis nev
 ### The rule hardening
 
 **Isaac restates it as a command** (28:1–2), and the trigger is a real grievance: Esau's two Hittite
-wives were *"a grief of mind to Isaac and to Rebekah"* (26:35), and Rebekah's argument for sending
-Jacob away is that if he does the same, *"what good will my life do me?"* (27:46). She is quoting
-Abraham's principle at Isaac to solve a problem that is actually about Esau's knife. See [[Rebekah]].
+wives, of whom Genesis says *"They grieved Isaac's and Rebekah's spirits"* — *mōrat rûaḥ*, a
+**bitterness of spirit** (26:35) — and Rebekah's argument for sending Jacob away is that if he does
+the same, *"what good will my life do me?"* (27:46). She is quoting Abraham's principle at Isaac to
+solve a problem that is actually about Esau's knife. See [[Rebekah]] and [[Isaac in Gerar]].
+
+**And 26:34–35 is where the rule first visibly fails inside the family.** Esau is forty — the age his
+father was when a servant fetched him a wife from four hundred miles away under this very oath
+(24:3; 25:20) — and he marries two women of the neighbourhood with no journey, no negotiation, and no
+consent scene. **Genesis reports the marriages in one sentence and their effect in another, and
+passes no verdict on him**, exactly as it will later pass none on Judah and Joseph. His own attempt
+to correct it, at 28:9, is to marry a daughter of [[Ishmael]] — joining the two lines the covenant
+had passed over.
 
 **Then the book breaks it.** Judah marries *"the daughter of a certain Canaanite"* (38:2) and the
 line of David runs through his son by Tamar; Joseph marries Asenath, daughter of the priest of On

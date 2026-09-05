@@ -228,6 +228,17 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   *bəkōrâ* with no theology attached to it at all. The covenant word to Isaac himself is still
   outstanding here and does not arrive until 26:2–5, where its stated ground is *"because Abraham
   obeyed my voice"*
+- [[Isaac in Gerar]] — Genesis 26:2–5, 24; **the covenant handed to the second generation without a
+  single new term, and given a reason it has never been given before.** Every clause of 26:3–4 is a
+  quotation: *I will be with you*, *bless you*, *all these lands* to you and your offspring, *the
+  oath which I swore to Abraham*, *offspring as the stars of the sky*, *in your offspring will all
+  the nations of the earth be blessed*. **Nothing is renegotiated, nothing is added, and nothing is
+  asked of Isaac** — no *walk before me*, no sign, no circumcision clause. What is new is 26:5:
+  *"because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my
+  laws"*, **the only place in Genesis where the promise's continuation is grounded in obedience**, in
+  four terms that are the Deuteronomic formula for keeping the Sinai law. **Genesis 15:17 has God
+  pass between the pieces alone and undertake everything; the wiki keeps the two verses side by
+  side.** See [[Because Abraham Obeyed My Voice - Law Before Sinai]]
 
 ## Related themes
 

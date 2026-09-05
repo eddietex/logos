@@ -110,3 +110,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
 | [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |
+| [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 |
+| [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] | parallel | Genesis 26:12–17 · Exodus 1:7–14 · Genesis 12:10–20 · Genesis 47:27 · Exodus 12:35–36 |
+| [[The Names of Esau's Wives - Genesis 26 and Genesis 36]] | parallel | Genesis 26:34–35 · Genesis 28:6–9 · Genesis 36:2–3 · Genesis 27:46 |

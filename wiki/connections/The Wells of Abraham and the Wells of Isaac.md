@@ -9,9 +9,9 @@ tags: [connection]
 
 - **Genesis 21:22–34** — Abimelech and Phicol come to Abraham; a seized well; seven ewe lambs; a
   covenant; the naming of Beersheba. See [[The Treaty at Beersheba]].
-- **Genesis 26:12–33** *(not yet ingested)* — the Philistines stop up Abraham's wells; Isaac digs
-  them again; Esek, Sitnah, Rehoboth; Abimelech, Ahuzzath, and Phicol come to Isaac at Beersheba; an
-  oath; a well named Shibah.
+- **Genesis 26:12–33** — the Philistines stop up Abraham's wells; Isaac digs them again and restores
+  their old names; [[Esek]], [[Sitnah]], [[Rehoboth]]; Abimelech, [[Ahuzzath]], and Phicol come to
+  Isaac at Beersheba; an oath; a well named Shibah. See [[Isaac in Gerar]].
 - **Genesis 16:7, 14** — the spring in the wilderness on the way to Shur, and *Beer Lahai Roi*, named
   by Hagar. See [[Hagar and Ishmael]].
 - **Genesis 21:19** — *"God opened her eyes, and she saw a well of water"* — eleven verses before
@@ -60,6 +60,13 @@ and which the wiki treats the same way. See [[The Wife-Sister Episodes]].
    Abraham"* (26:1), and *"He called their names after the names by which his father had called
    them"* (26:18).
 
+**And the ingested chapter adds one row to the table above.** Genesis 26's embassy has **three**
+members where Genesis 21's had two — the king, his general, and *Ahuzzath his friend*, which is a
+court office rather than a personal remark — and **the settlement is cheaper**: Abraham paid sheep,
+cattle, and seven ewe lambs to get his digging on the record, and Isaac pays nothing and sets out no
+witness object. He also enters no complaint about the filled wells, which is the one grievance the
+delegation's *"we have not touched you"* (26:29) passes over.
+
 **That last verse is the crux, and it cuts both ways.** 26:18 has the book explicitly presenting
 Isaac's wells as a re-excavation of Abraham's, with the old names deliberately restored — which is
 either the redactional stitch that harmonizes two traditions, or the point of the whole episode.
@@ -85,12 +92,14 @@ side.
 Genesis names five bodies of water in the patriarchal narratives, and **every one of them is named
 for something that happened rather than for the water**:
 
-- **Beer Lahai Roi** — *the well of the Living One who sees me* (16:14), named by a runaway slave.
-- **Beersheba** — *well of the oath* / *well of seven* (21:31), named for a swearing.
-- **Esek** — *contention*, because the herdsmen contended (26:20).
-- **Sitnah** — *hostility*, for the same reason again (26:21).
-- **Rehoboth** — *room*, *"For now Yahweh has made room for us"* (26:22).
-- **Shibah** — the second Beersheba etiology (26:33).
+- [[Beer Lahai Roi]] — *the well of the Living One who sees me* (16:14), named by a runaway slave.
+- [[Beersheba]] — *well of the oath* / *well of seven* (21:31), named for a swearing.
+- [[Esek]] — *ʿēśeq*, **contention**, because the herdsmen contended (26:20).
+- [[Sitnah]] — *śiṭnâ*, **hostility**, for the same reason again (26:21) — and the first occurrence in
+  the Bible of the noun behind *śāṭān*, the accuser.
+- [[Rehoboth]] — *room*, *"For now Yahweh has made room for us"* (26:22).
+- **Shibah** — the second Beersheba etiology (26:33), and the reason this wiki keeps it on the
+  [[Beersheba]] page rather than giving it one of its own.
 
 **Esek, Sitnah, Rehoboth is a sequence with an argument in it**: two wells lost without a fight, and a
 third kept — Isaac's method being simply to move rather than to contend, which is the closest thing

@@ -13,8 +13,8 @@ a king of Gerar in Isaac's episode a generation later (26:1), by Gideon's son wh
 brothers in Judges 9, and — in the superscription of Psalm 34 — by the Philistine king 1 Samuel 21
 calls Achish. That last case is the clearest evidence that the word was used as a royal title rather
 than only as a personal name, and it is why this wiki qualifies the page by the patriarch he appears
-with, exactly as it does for [[Pharaoh (of Abram's time)]]. The Abimelech of Genesis 26 takes his own
-page when that chapter is ingested. Whether the two are one long-lived man, father and son, or one
+with, exactly as it does for [[Pharaoh (of Abram's time)]]. The Abimelech of Genesis 26 has his own page at
+[[Abimelech (of Isaac's time)]]. Whether the two are one long-lived man, father and son, or one
 office is not answerable from Genesis, and the wiki does not decide it.
 
 ### In this pericope — Genesis 20:1–18
@@ -71,9 +71,10 @@ house of Abimelech, because of Sarah, Abraham's wife."* See
 
 **He is the second outsider in nine chapters to out-behave a patriarch, and the pattern is by now too
 regular to be accidental.** Pharaoh asked the moral questions in Egypt; Abimelech asks them in Gerar
-and adds a plea, a settlement, and an invitation; and an Abimelech will ask them a third time of
-Isaac at 26:9–11 and then issue a royal edict protecting the couple. **The chosen family is never the
-one with the moral vocabulary in these stories.** See [[The Wife-Sister Episodes]].
+and adds a plea, a settlement, and an invitation; and an Abimelech asks them a third time of Isaac at
+26:9–11 and then makes touching the couple a capital offence. **The chosen family is never the one
+with the moral vocabulary in these stories.** See [[The Wife-Sister Episodes]] and
+[[Abimelech (of Isaac's time)]].
 
 **He is also the Bible's first test case for guilt without intent.** He does a thing that carries a
 death sentence, with no way of knowing, on information supplied by God's own prophet — and the
@@ -163,6 +164,8 @@ by his own men, and finally bound by an oath he had to ask for.
 - [[Pharaoh (of Abram's time)]] — his predecessor in the role: the foreign king who asks the moral
   questions and gives the wife back
 - [[Isaac]] — whose own Gerar episode at Genesis 26 involves a king of the same name
+- [[Abimelech (of Isaac's time)]] — that king; the same town, the same general, the same well, and the
+  same habit of being right, one generation later
 - [[Phicol]] — the captain of his army, who comes with him to both treaties and never speaks
 
 ## Themes associated

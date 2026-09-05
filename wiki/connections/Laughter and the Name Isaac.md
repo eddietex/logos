@@ -21,7 +21,7 @@ tags: [connection]
   mocking"* — one Hebrew participle, *məṣaḥēq*, from the same root, and the reason Ishmael is
   expelled.
 - **Genesis 26:8** — Isaac *"caressing"* Rebekah, seen through a window by Abimelech: the same verb
-  again, in its third sense, and it exposes another wife-sister ruse.
+  again, in its third sense, and it exposes another wife-sister ruse — [[Isaac in Gerar]].
 
 ## Analysis
 
@@ -81,6 +81,15 @@ Then the root's last appearance in the cycle, at 26:8, catches Isaac himself: Ab
 a window and sees him *məṣaḥēq* with Rebekah, which proves she is his wife and not his sister. The
 name that began as a joke about whether he could be conceived ends as evidence that he is married.
 See [[The Wife-Sister Episodes]].
+
+**And 26:8 has a bearing on 21:9 that is worth stating.** The two verses use the **same intensive
+participle**, five chapters apart, in the same family — and in 26:8 **the context fixes the sense
+beyond argument**, because the whole point of the verse is that what the king sees is conjugal.
+**That does not settle 21:9**, where the participle has no object and the reason for the expulsion
+stays underdetermined; **what it does settle is that *məṣaḥēq* does not carry a hostile sense on its
+own**, and that the WEB's *mocking* at 21:9 is a translator's choice rather than a reading forced by
+the word. The wiki notes the two occurrences together and does not use either to close the other.
+See [[Isaac in Gerar]].
 
 ## Significance
 

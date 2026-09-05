@@ -4350,3 +4350,214 @@ user's attention.
 `694ca13` ("Adjust naming for passge"), is still there, unchanged for fourteen runs. It belongs
 nowhere in the directory map and is one `git rm` away whenever the user wants it gone; it was left
 alone again so this ingest's commit stays just the ingest.
+
+## [2026-09-05] ingest | Genesis 26.1-35 — Isaac in Gerar
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+`Isaac in Gerar — Genesis 26:1–35` was the first unchecked box on its page. `raw/bible/Genesis.md`
+was already present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the
+passage page.
+
+### What the pericope is
+
+**The only chapter in the Bible that belongs to Isaac, and almost everything in it has happened
+before.** A famine the narrator explicitly measures against Abraham's; a wife called a sister; a king
+called Abimelech who finds out and delivers the rebuke; a quarrel about wells; a treaty at Beersheba
+with the same king and the same general; an altar and a calling on the name; and the name Beersheba
+explained a second time by the same root. **The two places the chapter does not repeat are where its
+argument sits.**
+
+- **26:1.** *"Besides the first famine that was in the days of Abraham"* — **Genesis
+  cross-referencing itself in its opening clause.** Whatever the relation between this chapter and
+  the Abraham material, the book is not hiding it; 26:18 does the same thing again.
+- **26:2–5.** **God's first words to Isaac, sixty years after scheduling his birth.** *"Don't go down
+  into Egypt"* is **the only prohibition in the patriarchal promises**, and it is why he is the one
+  patriarch who never leaves the land; Jacob is told the opposite at the same well at 46:3. The
+  promise is restated with **not one new term** — and then given a ground it has never had:
+  ***"because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my
+  laws"***. *Mišmartî, miṣwōtay, ḥuqqôtay, wətôrōtāy* is **the standard Deuteronomic formula for
+  keeping the Sinai law, four hundred years early**, and 26:5 is the only verse in Genesis where the
+  promise's continuation rests on obedience — against 15:17, where God passes between the pieces
+  alone and Abram undertakes nothing.
+- **26:6–11.** The third wife-sister episode, **and the first with no half-truth available**: Sarah
+  was Abraham's half-sister (20:12), Rebekah is his cousin's daughter. **God does nothing in it** — no
+  dream, no plague, no closed wombs — and it is the only one of the three in which nobody is taken.
+  The king finds out **by looking out of a window**, and the verb he sees is ***məṣaḥēq***, the
+  intensive of the root Isaac is named for and **the same participle that got Ishmael expelled at
+  21:9**. Abimelech answers with *môt yûmāt*, **the first royal decree in Scripture**, and its content
+  is protection for a resident alien and his wife.
+- **26:12–17.** *"Isaac sowed in that land"* — **the only patriarch in Genesis reported planting a
+  crop**, in a famine, on ground he does not own, having just been told to live there as a *gēr*.
+  The hundredfold is **the only agricultural yield figure in the book**. Then *"The Philistines envied
+  him"*, **the first occurrence of *qānāʾ* in the Bible**; then the wells filled in with earth, which
+  destroys the asset rather than transferring it; then *"Go away from us, for you are much mightier
+  than we"* — *ʿāṣamtā mimmennû məʾōd*, within a word of Exodus 1:9.
+- **26:18–22.** Esek, Sitnah, Rehoboth. **Two conceded and a third kept**, with no claim of prior
+  right, no appeal to the treaty of chapter 21, and no reference to the promise of *all these lands*
+  given nineteen verses earlier. *Śiṭnâ* is **the first occurrence in the Bible of the noun behind
+  *śāṭān***.
+- **26:23–25.** ***"I am the God of Abraham your father"*** — **the first time in Scripture God
+  identifies himself by the name of an ancestor**, and the beginning of the formula that reaches
+  Exodus 3:6. Then **the only altar Isaac builds in the Bible**, with no sacrifice recorded on it.
+- **26:26–33.** The Genesis 21 embassy with a third man added — [[Ahuzzath]], *"his friend"*, an ANE
+  court office — and **a cheaper settlement**: a feast, no consideration, no witness object, and no
+  complaint entered about the wells. *Shibah*, and **the second etiology of Beersheba**, which the
+  book does not notice it has given twice.
+- **26:34–35.** Esau at forty — **his father's age at marriage** — takes two Hittite women of the
+  neighbourhood, and *"They grieved Isaac's and Rebekah's spirits."* **The only sentence in the cycle
+  in which Isaac and Rebekah are recorded feeling the same thing**, and the pretext Rebekah uses at
+  27:46.
+
+### Judgment calls made unattended
+
+- **Boundaries: the box stands as drawn, and no unchecked boxes were redrawn.** Two alternatives were
+  considered and **rejected**. Splitting at 26:33 to hold 26:34–35 for the chapter 27 unit is
+  defensible — those verses are Esau's — but the chapter division keeps them here, 27:1 opens with a
+  fresh time marker, and the grief reads as this chapter's closing note. Splitting at 26:11 was
+  rejected because 26:12's *"Yahweh blessed him"* is the chapter's answer to 26:7 and depends on
+  standing next to it.
+- **Title: the plan's *Isaac in Gerar* was kept**, although a third of the chapter is at Beersheba.
+  *Isaac at Gerar and Beersheba* is more accurate and less useful — Gerar is where the problem is
+  set, and [[The Treaty at Beersheba]] already holds the other half of that title. **Recorded on the
+  passage page so a later pass can revisit rather than rediscover it.**
+- **New pages made.** One passage; six people (`Abimelech (of Isaac's time)`, `Ahuzzath`, `Judith`,
+  `Basemath (daughter of Elon)`, `Beeri the Hittite`, `Elon the Hittite`); three places (`Esek`,
+  `Sitnah`, `Rehoboth`); one theme (`Envy`); three connections
+  (`Because Abraham Obeyed My Voice - Law Before Sinai`,
+  `Mightier Than We - Isaac in Gerar and Israel in Egypt`,
+  `The Names of Esau's Wives - Genesis 26 and Genesis 36`).
+- **`Abimelech (of Isaac's time)` was created per the note already standing on
+  `people/Abimelech (of Abraham's time)`**, which had explicitly reserved the page. That note has
+  been rewritten to point at it, and neither page decides whether the two kings are one man, two
+  men, or one office.
+- **`Basemath` was qualified from the start rather than left bare.** Genesis 36:3 names a second
+  Basemath (Ishmael's daughter), so the page is `Basemath (daughter of Elon)`. **This departs from
+  the retrospective-rename pattern `AGENTS.md` gives for the person/place collision**, and was chosen
+  because the collision is certain, is documented inside this pericope's own cross-references, had no
+  inbound links to break, and fails silently at both ends. **The counterpart page, when Genesis 36 is
+  ingested, is `Basemath (daughter of Ishmael)`.**
+- **`Beeri the Hittite` and `Elon the Hittite` were given pages** although they are pure patronyms
+  named once, on the wiki's existing practice for `Iscah`, `Reumah`, and `Aner`. Elon recurs at
+  36:2.
+- **Shibah deliberately did *not* get a place page** and is folded into `places/Beersheba`, because
+  26:33 is an etiology of that town's name rather than a separate site. **The valley of Gerar** was
+  folded into `places/Gerar` for the same reason. **The next agent should not create `Shibah.md`.**
+- **`Envy` was made a theme rather than a connection** because *qānāʾ* runs from 26:14 through 30:1
+  and 37:11 into Exodus 20:5's *ʾĒl qannāʾ* and the New Testament vice lists — a thread through
+  Scripture rather than a link between two passages.
+- **Two contradictions are flagged rather than resolved.** (1) The two lists of Esau's wives: 26:34
+  gives Basemath as Elon's daughter and Judith as Beeri's; 36:2–3 gives Adah as Elon's daughter,
+  Oholibamah as Anah's, and Basemath as Ishmael's — **the same name attached to two different
+  fathers, and a wife in each list absent from the other.** Three standing explanations are set out on
+  the new connection page and none is adopted. (2) 26:5's conditional grounding of the promise
+  against 15:17's unilateral covenant; both are recorded side by side, on the principle the wiki
+  applies to the creation accounts.
+- **Chronology flagged, not corrected.** Genesis gives no age for Isaac in 26:1–33, and the ruse at
+  26:7 is easier to picture with no twins in the household — which would place the Gerar material
+  before 25:19–26 in time — while 26:34 jumps to Esau at forty. **Recorded as an observation about
+  the arrangement of a block of Isaac tradition, not as a claim that any event is out of order.**
+- **A pre-existing misquotation was corrected.**
+  `connections/Not from the Daughters of the Canaanites` had 26:35 as *"a grief of mind to Isaac and
+  to Rebekah"*; the WEB reads *"They grieved Isaac's and Rebekah's spirits."* Fixed, with the Hebrew
+  *mōrat rûaḥ* added.
+
+### Pages created or revised
+
+`passages/Genesis/Isaac in Gerar` (new); `books/Genesis` (box checked; the Isaac and Jacob structure
+bullet extended; the new theme, six people, and three places added to the key lists); `books/index`
+(33 / 58); `wiki/index` (counts: 39 passages, 81 people, 48 places, 53 themes, 109 connections).
+
+New: `people/Abimelech (of Isaac's time)`, `people/Ahuzzath`, `people/Judith`,
+`people/Basemath (daughter of Elon)`, `people/Beeri the Hittite`, `people/Elon the Hittite`;
+`places/Esek`, `places/Sitnah`, `places/Rehoboth`; `themes/Envy`;
+`connections/Because Abraham Obeyed My Voice - Law Before Sinai`,
+`connections/Mightier Than We - Isaac in Gerar and Israel in Egypt`,
+`connections/The Names of Esau's Wives - Genesis 26 and Genesis 36`.
+
+Revised: `people/Isaac` (new pericope section, eight timeline entries, appears-in, related people,
+six themes), `people/Rebekah`, `people/Esau`, `people/God` (new pericope section, three timeline
+entries, appears-in), `people/Abraham` (new off-stage section, appears-in), `people/Phicol`,
+`people/Abimelech (of Abraham's time)`; `places/Gerar`, `places/Beersheba`,
+`places/The Land of the Philistines`, `places/The Negev`, `places/Egypt`; `themes/Deception`,
+`themes/Strife and Peacemaking`, `themes/Blessing`, `themes/Covenant`, `themes/Land and Sojourning`,
+`themes/Oaths and Vows`, `themes/Marriage`, `themes/The Nations`, `themes/Work`,
+`themes/Sacrifice and Offering`, `themes/The Names of God`;
+`connections/The Wife-Sister Episodes`, `connections/The Wells of Abraham and the Wells of Isaac`,
+`connections/Calling on the Name of Yahweh`,
+`connections/All the Families of the Earth - Genesis 12.3 in the New Testament`,
+`connections/Dust, Stars, and Sand - The Offspring Promises`,
+`connections/Not from the Daughters of the Canaanites`,
+`connections/Laughter and the Name Isaac`;
+`passages/Genesis/Jacob and Esau and the Sold Birthright` (its forward reference to this chapter
+turned into a link); and all four category indexes.
+
+Stale *(not yet ingested)* markers were cleared on `places/The Negev` (26:23–25),
+`places/The Land of the Philistines` (26:1–22), `places/Gerar` (26:1–33), `places/Beersheba`
+(26:23–33), `themes/Deception` (26:6–11), `themes/Strife and Peacemaking` (26:17–22),
+`connections/The Wife-Sister Episodes` (26:6–11),
+`connections/The Wells of Abraham and the Wells of Isaac` (26:12–33),
+`connections/Calling on the Name of Yahweh` (26:25),
+`connections/All the Families of the Earth` (26:4, split so the marker stays on 28:14),
+`connections/Not from the Daughters of the Canaanites` (26:34–35, split so the marker stays on
+27:46), `people/Isaac` (26), `people/Rebekah` (26:7), `people/Esau` (26:34–35), and `people/Phicol`
+(26:26) — **sixteen in all.**
+
+### Verification
+
+Every WEB blockquote in the new and revised pages was parsed verse by verse and checked
+programmatically against `raw/bible/Genesis.md`; **28 quoted verses, all matching** after normalising
+curly quotes and dashes. All 615 inline italic-quoted fragments in the changed files were checked the
+same way; every fragment attributed to Genesis matched, and the misses were all non-Genesis
+quotations (Job, Exodus, Deuteronomy, Proverbs, the Gospels, Paul) plus one pre-existing partial
+quotation of 25:11 on `people/God` that is verbatim as far as it goes.
+
+**Five capitalisation errors written during the pass were caught and corrected before commit**, all
+of them sentence-initial capitals imposed on mid-verse fragments: *"Because Abraham obeyed…"* and
+*"My servant Abraham"* on `people/Abraham` (26:5, 26:24 read *because* and *my*), *"In the valley"*
+on `places/Esek` (26:19 reads *in the valley*), *"And we will be fruitful…"* on `places/Rehoboth`
+(26:22 reads *and we*), and *"therefore the name of the city…"* on `places/Beersheba` (26:33 reads
+*Therefore*).
+
+The claim that **26:14 is the first *qānāʾ* in the Bible** was checked against the raw text for the
+book: Genesis has the root at 26:14, 30:1, and 37:11 in that order and nowhere earlier. Job 5:2 uses
+the cognate noun *qinʾâ*, which is later in canonical order.
+
+Quotations from Exodus, Deuteronomy, Joshua, Samuel, Kings, Chronicles, Ezra, Nehemiah, Ruth, the
+Psalms, Proverbs, Ecclesiastes, Hosea, Zechariah, the Gospels, Acts, Romans, Corinthians, Galatians,
+James, and Hebrews are unverifiable here, as elsewhere in the wiki, and are given as references
+rather than as checked text.
+
+External and non-textual claims — the Deuteronomic character of *mišmartî / miṣwōtay / ḥuqqôtay /
+tôrōtāy*, the court-office sense of *rēaʿ ha-melek*, the Middle Bronze identification of Tel Haror,
+the 1200 BC arrival of the Philistines, the Wadi Ruheibeh proposal for Rehoboth, and the etymologies
+of *Ahuzzath*, *Beeri*, *Basemath*, *Judith*, and *Elon* — are stated as attributions or proposals
+rather than as findings. **The Wadi Ruheibeh identification is explicitly recorded as resting on the
+name alone.**
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, **baseline 64 — unchanged**, since no new book page was
+created this pass. **No dangling links were left deliberately.** Forward references to material not
+yet ingested (Genesis 27; 28; 30; 36; 37; 46; 47) are written as plain scripture references or carry
+an explicit *(not yet ingested)* marker. Prospective references to Adah, Oholibamah, Anah, Zibeon,
+Mahalath, and Nebaioth were written as plain text because their pages do not exist and are not being
+created here; they belong to Genesis 28 and 36.
+
+**Note on branch state.** The fourteenth run in a row to start on a **detached HEAD**, this time at
+`725b8d0` with a clean tree, and the local `main` ref stale behind it. `git fetch origin` showed
+`origin/main` already at `725b8d0`, so the previous run's push had landed and only the local ref was
+stale; `git checkout -B main origin/main` moved the branch onto HEAD before any work, its upstream was
+set to `origin/main`, and this ingest was committed on `main`. **Fourteen consecutive runs have now
+started detached.** It has cost nothing so far, because every previous push had in fact landed, but it
+remains an environment quirk that wants the user's attention.
+
+**Also noticed, not acted on.** The tracked, empty `Exodus.md` at the repository root, added by commit
+`694ca13` ("Adjust naming for passge"), is still there, unchanged for fifteen runs. It belongs nowhere
+in the directory map and is one `git rm` away whenever the user wants it gone; it was left alone again
+so this ingest's commit stays just the ingest.
+
+**And four unmerged `claude/*` branches are on the remote** — `claude/ingest-auto-4q3uek`,
+`claude/ingest-auto-jobs-18-20-vholye`, `claude/ingest-auto-kllgcw`, and
+`claude/unmerged-branches-audit-xt7o4j`. They were not inspected or touched this pass; they are noted
+here because the last of them is named for an audit of exactly this, and the user may want to close
+them out.

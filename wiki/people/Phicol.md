@@ -61,19 +61,26 @@ shows the book knows it is telling a second version of something. See
   [[The Treaty at Beersheba]]
 - Leaves with Abimelech for the land of the Philistines after the covenant at Beersheba —
   Genesis 21:32
-- Comes with Abimelech and Ahuzzath to Isaac at Beersheba for a second treaty — Genesis 26:26
-  *(not yet ingested)*
+- Comes with Abimelech and Ahuzzath to Isaac at Beersheba for a second treaty — Genesis 26:26,
+  [[Isaac in Gerar]]
+- Present, silent, at the feast and the swearing, and departs in peace — Genesis 26:30–31
 
 ## Appears in
 
 - [[The Treaty at Beersheba]] — Genesis 21:22–34; present at both ends of the scene and silent
   throughout
+- [[Isaac in Gerar]] — Genesis 26:26–31; the same name and the same title one patriarch later, at the
+  same well, in an embassy of three rather than two, and silent again
 
 ## Related people
 
 - [[Abimelech (of Abraham's time)]] — the king he serves, and the only one of the two who speaks
+- [[Abimelech (of Isaac's time)]] — the king of the second scene, bearing the same name; whether the
+  two officers are one man is as unanswerable as whether the two kings are
+- [[Ahuzzath]] — *the king's friend*, the third member of the second embassy and the one element the
+  two treaty scenes do not share
 - [[Abraham]] — the man his king comes to swear with
-- [[Isaac]] — who will receive the same delegation at the same well
+- [[Isaac]] — who receives the same delegation at the same well a generation later
 - [[Chedorlaomer]] — the other named military commander of the Abraham cycle, and the measure of the
   difference: an army that comes to make war, against an army officer who comes to sign
 

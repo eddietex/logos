@@ -193,6 +193,17 @@ where that starts, in a sentence about a family that got halfway.
   the son who was put out of the household ranges over four hundred miles of country the covenant
   never claimed
 
+- [[Isaac in Gerar]] — Genesis 26:2–3, 15–22: **the theme's sharpest statement, and God makes it.**
+  *"Live in this land"* — ***gûr***, to sojourn as a resident alien — is what the heir of the land
+  promise is told to do in the land, in the same breath as *"I will give to you, and to your
+  offspring, all these lands"*. **The chapter then itemizes the difference between the two verbs.** He
+  farms ground he does not own and reaps a hundredfold; his father's wells are filled in with earth,
+  which destroys the asset rather than transferring it and is therefore eviction rather than theft; a
+  king tells him to leave and he leaves without invoking the promise; and his herdsmen lose two
+  springs to a counter-claim he never contests. **He ends the chapter with a tent, an altar, a well,
+  and a treaty — and no title to anything.** The only prohibition in the patriarchal promises is in
+  the same speech: *"Don't go down into Egypt"*
+
 ## Related themes
 
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and

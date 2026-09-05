@@ -51,6 +51,9 @@ Genesis 10:14 already names in the Table of Nations.
   Abraham then sojourns *many days*
 - [[The Table of Nations]] — Genesis 10:14, the name's only prior occurrence, in the line of Egypt:
   *"Casluhim (which the Philistines descended from), and Caphtorim"*
+- [[Isaac in Gerar]] — Genesis 26:1, 8, 14–18; *"Abimelech king of the Philistines"*, whose people
+  envy Isaac's harvest — the first *qānāʾ* in the Bible — and stop his father's wells with earth;
+  the only place in Scripture where Philistines are shown as herdsmen quarrelling over water
 
 ## Related places
 
@@ -67,8 +70,9 @@ Genesis 10:14 already names in the Table of Nations.
 - Abimelech and Phicol return here after the covenant at Beersheba — Genesis 21:32,
   [[The Treaty at Beersheba]]
 - Abraham lives here as a foreigner *many days* — Genesis 21:34
-- Isaac comes to Abimelech king of the Philistines at Gerar in a famine, and its herdsmen stop up his
-  father's wells — Genesis 26:1–22 *(not yet ingested)*
+- Isaac comes to Abimelech king of the Philistines at Gerar in a famine; its people envy him, its
+  herdsmen stop up his father's wells and contest two of his own, and its king expels him and then
+  travels inland to swear a treaty with him — Genesis 26:1–33, [[Isaac in Gerar]]
 - Israel is led out of Egypt away from *"the way of the land of the Philistines, although that was
   near"* — Exodus 13:17
 - Named in the boundary lists of the unconquered land — Joshua 13:2–3; Judges 3:1–3

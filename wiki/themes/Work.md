@@ -84,6 +84,14 @@ the seventh day a blessing. See [[Sabbath]].
 - [[Zophar's Second Speech]] — 20:18's *"That for which he labored he shall restore, and shall not
   swallow it down"*: labour whose fruit is confiscated before it can be enjoyed, the wisdom
   tradition's recurring nightmare (Ecclesiastes 2:18–21, Deuteronomy 28:30–33)
+- [[Isaac in Gerar]] — Genesis 26:12, 18–22, 25: **the only crop any patriarch is reported planting,
+  and the only yield figure in the book.** *"Isaac sowed in that land, and reaped in the same year one
+  hundred times what he planted"* — sown during a famine, on ground he does not own, by a man who has
+  just been told to live there as a resident alien. **The chapter's other labour is digging**, four
+  wells' worth, two of them lost to a counter-claim and one of them a re-excavation of his father's
+  work with his father's names restored. **Both kinds of work in the chapter are done on land the
+  worker has no title to**, and the harvest is credited in the same sentence to God: *"Yahweh blessed
+  him."* See [[Land and Sojourning]] and [[Blessing]]
 
 ## Related themes
 

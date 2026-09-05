@@ -72,4 +72,5 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   [[Abraham and Abimelech]]
 - Hagar and Ishmael in the wilderness of [[Beersheba]], and Ishmael's life afterwards in [[Paran]]
   — Genesis 21:14–21, [[The Birth of Isaac and the Sending of Hagar]]
-- Isaac's wells and the promise renewed at Beersheba — Genesis 26:23–25 *(not yet ingested)*
+- Isaac's wells in the valley of Gerar — [[Esek]], [[Sitnah]], [[Rehoboth]] — and the promise renewed
+  at Beersheba the night he arrives — Genesis 26:17–25, [[Isaac in Gerar]]

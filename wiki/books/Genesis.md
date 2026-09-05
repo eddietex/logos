@@ -243,7 +243,28 @@ even fratricidal betrayal into rescue (Joseph).
   instead of food, and is not released until he has sworn. He eats, drinks, rises, and goes. **The
   narrator's one verdict in thirty-four verses falls on the seller** — *"So Esau despised his
   birthright"* — and says nothing at all about the buyer, which is the register the whole Jacob cycle
-  is written in.
+  is written in. Then the cycle pauses for a chapter, and *[[Isaac in Gerar]]* is the only one in the
+  Bible that belongs to Isaac — **and almost everything in it has happened before.** A famine the
+  narrator explicitly measures against Abraham's; a wife called a sister; the same royal name and the
+  same rebuke; the same wells; the same treaty at the same well with the same general; an altar and
+  a calling on the name; and the place-name Beersheba explained a second time and by the same root.
+  **The two places it does not repeat are where its argument is.** God speaks to Isaac for the first
+  time in sixty years and hands over the covenant without changing a term of it — and then gives it a
+  ground it has never had: *"because Abraham obeyed my voice, and kept my requirements, my
+  commandments, my statutes, and my laws"*, **four Deuteronomic terms four hundred years early, and
+  the only place in Genesis where the promise's continuation rests on obedience.** And then the man
+  plants a crop. **Isaac is the only patriarch Genesis reports farming**, he does it in a famine on
+  ground he does not own, and he reaps a hundredfold — after which the Philistines envy him in the
+  Bible's first *qānāʾ*, fill his father's wells with earth, and a king tells him *"Go away from us,
+  for you are much mightier than we"*, in the wording a later king will use of his descendants. **He
+  goes.** He concedes Esek, concedes Sitnah, keeps Rehoboth, and says the only thing he says in the
+  sequence: *"For now Yahweh has made room for us."* At Beersheba God calls himself *"the God of
+  Abraham your father"* — **the first time in Scripture he names himself by an ancestor** — and Isaac
+  builds the one altar of his life. **Nothing in the chapter is a test or a great deed; it is a man
+  being blessed and being pushed around, and the two are not separable.** Its last two verses are the
+  hinge into the next: Esau at forty marries two Hittite women of the neighbourhood, and *"They
+  grieved Isaac's and Rebekah's spirits"* — the only feeling the cycle ever records his parents
+  sharing, and the pretext his mother will use.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -292,7 +313,7 @@ merge, or reorder them freely.
 ### Isaac and Jacob (25:19–36)
 
 - [x] [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34
-- [ ] Isaac in Gerar — Genesis 26:1–35
+- [x] [[Isaac in Gerar]] — Genesis 26:1–35
 - [ ] The Stolen Blessing — Genesis 27:1–45
 - [ ] Jacob's Ladder at Bethel — Genesis 27:46–28:22
 - [ ] Jacob, Leah, and Rachel — Genesis 29:1–30
@@ -363,6 +384,7 @@ merge, or reorder them freely.
 - [[The Fear of God]]
 - [[Burial and the Grave]]
 - [[Birthright and the Firstborn]]
+- [[Envy]]
 
 ## Key people
 
@@ -406,6 +428,12 @@ merge, or reorder them freely.
 - [[Keturah]]
 - [[Jacob]]
 - [[Esau]]
+- [[Abimelech (of Isaac's time)]]
+- [[Ahuzzath]]
+- [[Judith]]
+- [[Basemath (daughter of Elon)]]
+- [[Beeri the Hittite]]
+- [[Elon the Hittite]]
 
 ## Key places
 
@@ -445,3 +473,6 @@ merge, or reorder them freely.
 - [[Havilah]]
 - [[Aram Naharaim]]
 - [[Edom]]
+- [[Esek]]
+- [[Sitnah]]
+- [[Rehoboth]]

@@ -748,6 +748,70 @@ passes the only verdict in the pericope** (25:34), and it is not attributed to G
 
 See [[Jacob and Esau and the Sold Birthright]].
 
+### He speaks to the heir at last, and both times about the father — Genesis 26:1–35
+
+**Two speeches, one chapter, and the first of them is the first thing he has ever said to Isaac.**
+
+> **2** Yahweh appeared to him, and said, “Don’t go down into Egypt. Live in the land I will tell you
+> about.
+
+**Sixty years after the birth he scheduled, he speaks to the man.** He named him before conception
+(17:19), dated him (17:21), demanded him (22:2), stopped the knife (22:12), and blessed him in four
+words after Abraham's funeral (25:11) — **and 26:2 is the first time he addresses him.** He had
+spoken to Isaac's wife a chapter earlier (25:23), about their sons. Genesis does not comment.
+
+***"Don't go down into Egypt"* is the only prohibition in the patriarchal promises.** Everything else
+he says to Abraham, Isaac, and Jacob is a command to go, a promise, or a demand for a sacrifice; this
+is the one thing he forbids. **And he will reverse it for the next generation at the same well** —
+*"Don't be afraid to go down into Egypt"* (46:3).
+
+**He restates the covenant entire and adds nothing.** *I will be with you*; *bless you*; *all these
+lands* to you and your offspring; *the oath which I swore to Abraham*; *offspring as the stars of the
+sky*; *in your offspring will all the nations of the earth be blessed*. **Every clause is quoted from
+what he had already said to the father** — and then he gives a reason he had never given before:
+
+> **5** because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and
+> my laws.”
+
+**It is the only place in Genesis where he grounds the promise's continuation in obedience**, and the
+four terms he uses are the standard Deuteronomic vocabulary for keeping the Sinai law, four hundred
+years early. **The God who at 15:17 passed between the pieces alone, binding himself and asking
+nothing, here gives the covenant to the second generation because the first kept his statutes.** The
+wiki records both sentences and reconciles neither. See
+[[Because Abraham Obeyed My Voice - Law Before Sinai]].
+
+**Then, for the whole wife-sister episode, he does nothing.** No dream, no plague, no closed wombs,
+no word to anyone. **In Egypt he struck Pharaoh's house; in Gerar he came to Abimelech at night and
+negotiated; here a king looks out of a window.** Genesis 26:6–11 is the only one of the three
+episodes in which he does not act, and it is the one in which nothing goes wrong. See
+[[The Wife-Sister Episodes]].
+
+**He is credited, though, by the narrator and by foreigners.** *"Yahweh blessed him"* (26:12) is the
+narrator's explanation of a hundredfold harvest; *"now Yahweh has made room for us"* (26:22) is
+Isaac's of an uncontested well; *"We saw plainly that Yahweh was with you"* (26:28) is a Philistine
+court's of the whole chapter. **He acts three times in this chapter according to people who did not
+see him do it.**
+
+> **24** Yahweh appeared to him the same night, and said, “I am the God of Abraham your father. Don’t
+> be afraid, for I am with you, and will bless you, and multiply your offspring for my servant
+> Abraham’s sake.”
+
+***"I am the God of Abraham your father."*** ***ʾĀnōkî ʾĕlōhê ʾAbrāhām ʾābîkā*** — **the first time
+in the Bible he identifies himself by the name of an ancestor.** Abraham's servant had prayed to
+*"Yahweh, the God of my master Abraham"* (24:12), but that is a man's description; **this is his own
+self-introduction**, and from here it becomes the standing one: to Jacob at Bethel (28:13), at 31:42
+and 46:3, and out of a bush — *"I am the God of your father, the God of Abraham, the God of Isaac,
+and the God of Jacob"* (Exodus 3:6). **His name in the Hebrew Bible acquires a genealogy, and this
+verse is where it starts.** See [[The Names of God]].
+
+**And the second speech grounds the blessing in the father too** — *"for my servant Abraham's
+sake"* — which is the second time in twenty-two verses. ***ʿAbdî*, my servant, is used here as a
+title of honour for the first time in Scripture**, the word that will belong to Moses, David, the
+prophets, and the figure of Isaiah 40–55.
+
+**Isaac's response is the only altar he builds in his life**, and God is not reported saying anything
+about it. See [[Isaac in Gerar]] and [[Calling on the Name of Yahweh]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -893,6 +957,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Blesses Isaac in four words after Abraham's funeral — his first recorded act toward the heir, and
   the only thing he does in eighteen verses in which nobody, human or divine, speaks —
   [[The Death of Abraham and the Line of Ishmael]]
+- Speaks to Isaac for the first time, sixty years after scheduling his birth: forbids the descent to
+  Egypt — the only prohibition in the patriarchal promises — restates the whole covenant without a new
+  term, and grounds it on *"because Abraham obeyed my voice"* in the vocabulary of a law not yet
+  given — Genesis 26:2–5, [[Isaac in Gerar]]
+- Does nothing at all in the third wife-sister episode — no dream, no plague, no closed wombs — and it
+  is the one of the three in which nobody is taken — Genesis 26:6–11
+- Appears a second time the same night at Beersheba and names himself by an ancestor for the first
+  time in Scripture: *"I am the God of Abraham your father"* — Genesis 26:24
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -913,6 +985,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   of *ʿātar*, and then four lines of poetry spoken to Rebekah at her own inquiry — the only divine
   speech in the pericope, delivered to the matriarch a chapter before he addresses the patriarch, and
   ranking two children before either has done anything
+- [[Isaac in Gerar]] — Genesis 26:2–5, 24; **he speaks to Isaac for the first time in sixty years,
+  and both speeches are about Abraham.** The first forbids the descent to Egypt — the only
+  prohibition in the patriarchal promises — restates the covenant without a single new term, and
+  grounds it on *"because Abraham obeyed my voice, and kept my requirements, my commandments, my
+  statutes, and my laws"*, four Deuteronomic terms four hundred years early. The second names him
+  *"the God of Abraham your father"*, **the first time in Scripture he identifies himself by an
+  ancestor**. And in between he does nothing at all: the one wife-sister episode with no dream, no
+  plague, and no closed wombs is the one in which nobody is taken
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

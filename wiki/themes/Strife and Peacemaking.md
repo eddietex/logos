@@ -105,7 +105,16 @@ the land.
   And then it is transacted: a price named to a starving man, an oath extracted, and an inheritance
   moved. **Nobody in this pericope makes peace** — Abram at 13:8–9 ended a quarrel by conceding what
   was his, and here his grandson ends one by taking what was not
-- Genesis 26:17–22 — Isaac's wells, conceded twice *(not yet ingested)*
+- [[Isaac in Gerar]] — Genesis 26:17–33; **the theme's clearest single case, and it is Isaac's.** He
+  is expelled from Gerar without a hearing, digs [[Esek]] and is contested, digs [[Sitnah]] and is
+  contested again, and both times **leaves without an argument** — no claim of prior right, no appeal
+  to his father's treaty at this same well, no reference to the promise of *all these lands* he had
+  been given nineteen verses earlier. Then [[Rehoboth]], unopposed, and the one thing he says in the
+  sequence: *"For now Yahweh has made room for us"* (26:22). **It is Abram's method at 13:9 —
+  concede, and let God do the arithmetic — run three times in six verses**, and it ends the way 21:22–34
+  ended, with the king who caused the trouble travelling inland to ask for an oath. Isaac makes them
+  a feast, does not contest their account of their own conduct, and *"they departed from him in
+  peace"*
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation
@@ -116,7 +125,10 @@ the land.
 - [[Vengeance]] — what strife turns into when nobody stops it
 - [[War]] — strife between peoples rather than households, which Genesis 14 introduces
 - [[Retribution]] — the accounting Abram declines to demand
-- [[Blessing]] — the wealth that causes the quarrel at 13:6
+- [[Blessing]] — the wealth that causes the quarrel at 13:6, and the harvest that causes the one at
+  26:14
+- [[Envy]] — the feeling the quarrels of Genesis 26, 30, and 37 all start from, and whose first
+  occurrence in the Bible is a well dispute
 - [[Land and Sojourning]] — what is actually being fought over
 - [[Favor and Grace]] — the enlarged promise that follows the concession, unearned and unexplained
 - [[Mediation and Advocacy]] — standing between parties, which Abram will do for Sodom five chapters
@@ -131,4 +143,8 @@ the land.
   litigant
 - [[Lot]] — who takes what he is offered
 - [[Abimelech (of Abraham's time)]] — the other party to the one dispute in Genesis settled by treaty
+- [[Isaac]] — who concedes two wells and keeps the third, and credits the room to God; the closest
+  thing to a virtue Genesis attributes to him
+- [[Abimelech (of Isaac's time)]] — who evicts a household and then travels to its camp to ask for
+  peace
 - [[Cain]] and [[Abel]] — the case the theme is defined against

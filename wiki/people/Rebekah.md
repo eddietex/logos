@@ -142,8 +142,10 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - Receives the oracle of the two nations, a chapter before God speaks to her husband — Genesis 25:23
 - Bears twins at Isaac's sixtieth year; loves Jacob, for no reason the narrator gives — Genesis
   25:24–28
-- Called Isaac's sister before Abimelech, the third wife-sister episode — Genesis 26:7
-  *(not yet ingested)*
+- Called Isaac's sister at Gerar without being consulted, the third wife-sister episode, and the only
+  one of the three wives who is never taken — Genesis 26:7–11, [[Isaac in Gerar]]
+- Grieved, with Isaac, by Esau's two Hittite wives — the only feeling the cycle ever records the two
+  of them sharing — Genesis 26:35
 - Devises the stolen blessing and sends Jacob to Haran — Genesis 27:5–17, 42–46 *(not yet ingested)*
 - Buried in the cave of Machpelah; named only in Jacob's burial instructions — Genesis 49:31
   *(not yet ingested)*
@@ -163,6 +165,11 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   then the pericope's centre: she asks a question the Hebrew leaves without a verb, goes to inquire of
   Yahweh on nobody's instruction, receives the only divine speech in the passage a chapter before her
   husband is spoken to at all, and loves the younger son without a reason given
+- [[Isaac in Gerar]] — Genesis 26:7–11, 34–35; named four times and silent throughout. She is called
+  his sister to strangers without being asked, is the reason a foreign king issues a death penalty,
+  and — unlike Sarah in both earlier episodes — **is never taken**. The chapter's last word about her
+  is the grief she and her husband share over their elder son's wives, which is the only thing the
+  two of them are ever recorded feeling together, and which she will use at 27:46
 
 ## Related people
 
@@ -182,6 +189,11 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[Esau]] — her elder son, ranked below his brother in the oracle she is given before either is born
 - [[Hagar]] — the only other woman in Genesis told what her unborn son will become, three chapters
   into the cycle and at a spring in the desert
+- [[Abimelech (of Isaac's time)]] — the king of Gerar who works out that she is Isaac's wife by
+  looking out of a window, and makes touching her a capital offence; he never speaks to her, which is
+  what separates his scene from his namesake's with Sarah
+- [[Judith]] and [[Basemath (daughter of Elon)]] — her elder son's Hittite wives, and the stated
+  reason she gives at 27:46 for sending Jacob out of the country
 
 ## Themes associated
 

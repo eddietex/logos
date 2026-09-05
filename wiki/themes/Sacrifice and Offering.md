@@ -135,6 +135,11 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   the hand on the head in Leviticus 1:4, and the two goats of Leviticus 16
 - [[Child Sacrifice and the Redemption of the Firstborn]] — what the Bible says about the practice
   Genesis 22 stops, and the seam between Exodus 22:29 and Exodus 13:13
+- [[Isaac in Gerar]] — Genesis 26:25: **the only altar Isaac builds in the Bible, and nothing is
+  offered on it.** Abraham builds four (12:7, 12:8, 13:18, 22:9) and Jacob will build two and a
+  pillar; **Isaac builds one**, at Beersheba, on the night God appears to him at his own address, and
+  the verse pairs it with *calling on Yahweh's name* rather than with a victim. It is the theme's
+  clearest case of the altar as a marker of a place God has been rather than as equipment for a rite
 - [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
   household head who acts as priest with no law behind him
 

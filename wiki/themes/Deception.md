@@ -56,8 +56,12 @@ else. See [[The Fall]].
   **It is also where Genesis supplies the theme's own definition of the method**: the half was true,
   and God nonetheless treats what the king believed as false enough to kill him for — *"Behold, you
   are a dead man … For she is a man's wife"* (20:3). See [[Abraham and Abimelech]].
-- **Genesis 26:6–11** — Isaac does it too, in the same town, and Abimelech catches him at a window.
-  The trait is inherited before Jacob is old enough to demonstrate it *(not yet ingested)*.
+- **Genesis 26:6–11** — Isaac does it too, in the same town, in the same words, and **with no
+  half-truth left to stand on**: Sarah was Abraham's half-sister (20:12), and Rebekah is his cousin's
+  daughter. Abimelech catches him from a window, and the verb that catches him is his own name —
+  *Yiṣḥāq məṣaḥēq*, the intensive of the root he is named for. **God does not act in this one at
+  all**, which is also the only one of the three in which nobody is taken. The trait is inherited
+  before Jacob is old enough to demonstrate it. See [[Isaac in Gerar]].
 - **Genesis 27** — Rebekah and Jacob, goatskins on the arms and Esau's clothes on the back: *"I am
   Esau your firstborn"*, which is the one place in the sequence where a flat lie is told, and the
   blind man's four senses are worked one at a time *(not yet ingested)*.
@@ -116,7 +120,6 @@ has become a nation.
   (Exodus 20:16) and Leviticus 19:11's *"you shall not deal falsely"*. **The man who asks for the
   oath is the man who was deceived one chapter earlier, and the oath is what he now needs instead of
   trust.** Genesis does not connect the two scenes out loud; it puts them eleven verses apart
-- Genesis 26:6–11 — the ruse a third time, inherited *(not yet ingested)*
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:27–34, **the machinery assembled, one chapter
   early.** Nothing here is a lie: Jacob makes an offer, Esau accepts it, and the transaction is
   sworn and honoured. But every part chapter 27 will run on is put in place — the favouritism and its
@@ -124,6 +127,12 @@ has become a nation.
   mother who prefers the younger, and **the birthright already gone before the blessing is asked
   for**. The wiki notes what the narrator does and does not say: he condemns Esau in 25:34 and says
   nothing at all about Jacob, here or anywhere in the chapter
+- [[Isaac in Gerar]] — Genesis 26:6–11, **the ruse a third time and the trait shown to be
+  inherited.** Isaac gives his father's motive in his father's words, has no half-truth available
+  because Rebekah is not his sister in any sense, is caught by a king looking out of a window, and is
+  answered with a capital edict protecting him. **He profits by it two verses later** — the
+  hundredfold harvest at 26:12 — as Abram profited at 12:16 and Abraham at 20:14–16, and the narrator
+  passes no verdict on any of the three
 - Genesis 27:1–45 — the stolen blessing, and the one flat lie in the sequence *(not yet ingested)*
 - Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*
 - Genesis 37:31–33 — the coat, the goat, and the father deceived by his own devices *(not yet

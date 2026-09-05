@@ -16,7 +16,11 @@ tags: [connection]
   have obeyed my voice"*: the fifth and final restatement to Abraham, now *the nations* rather than
   *the families*, now running through the offspring rather than through him, and now grounded in
   obedience. See [[The Binding of Isaac]].
-- **Genesis 26:4; 28:14** — the same clause restated to Isaac and to Jacob *(not yet ingested)*
+- **Genesis 26:4** — *"In your offspring will all the nations of the earth be blessed"*, restated to
+  Isaac in the first words God ever speaks to him, and grounded — like 22:18 — in Abraham's
+  obedience, here spelled out as four terms of Torah vocabulary. See [[Isaac in Gerar]] and
+  [[Because Abraham Obeyed My Voice - Law Before Sinai]].
+- **Genesis 28:14** — the same clause restated to Jacob at Bethel *(not yet ingested)*
 - **Genesis 10:5, 18, 20, 31, 32** — *mišpəḥōt*, the families of the nations —
   [[The Table of Nations]]
 - **Psalm 72:17** — *"men shall be blessed by him. All nations will call him blessed"*, of the king

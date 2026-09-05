@@ -669,6 +669,36 @@ when he left Haran (12:4). **Jacob and Esau are fifteen**, on 25:26's own number
 his grandsons, and the narrative order hides it completely by burying him at 25:10 before going back
 to open their story at 25:19.
 
+### Off-stage, and holding the chapter together — Genesis 26:1–35
+
+**He is dead, he is named nine times, and the chapter does not work without him.**
+
+Isaac's one chapter is built out of his father's life at every point: *"besides the first famine that
+was in the days of Abraham"* (26:1); *"the oath which I swore to Abraham your father"* (26:3);
+*"because Abraham obeyed my voice"* (26:5); *"the wells which his father's servants had dug in the
+days of Abraham his father"* (26:15); *"He called their names after the names by which his father had
+called them"* (26:18); *"I am the God of Abraham your father"* (26:24); *"for my servant Abraham's
+sake"* (26:24). **A famine, an oath, an obedience, some wells, their names, a divine self-description,
+and a title of honour — all of them his, and he is in none of the scenes.**
+
+**Two of those verses are doing something the rest of Genesis does not.**
+
+***"because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my
+laws"*** (26:5) is **the only place in the book where the promise's continuation is grounded in his
+obedience**, and its four terms are the standard Deuteronomic vocabulary for keeping the Sinai law —
+applied to a man who lived before any of it was given. Its first clause is quoted from 22:18, where
+the referent is one act on one mountain. **Genesis 15:17 has God pass between the pieces alone,
+binding himself and asking nothing; 26:5 gives the covenant to the next generation because this man
+kept statutes.** The wiki keeps both and reconciles neither. See
+[[Because Abraham Obeyed My Voice - Law Before Sinai]].
+
+***"my servant Abraham"*** (26:24) is **the first use in Scripture of *ʿebed* as a title of honour**
+— the word that becomes the standing designation of Moses, David, the prophets, and the figure of
+Isaiah 40–55. He is given it after he is dead, in a sentence spoken to his son.
+
+**And what his son does with the inheritance is re-dig it and give it back its old names.** See
+[[Isaac in Gerar]] and [[The Wells of Abraham and the Wells of Isaac]].
+
 ### Where the rest of him is
 
 His story in Genesis is complete as of [[The Death of Abraham and the Line of Ishmael]] — after which
@@ -857,6 +887,13 @@ arrive.
   his son's *toledot* — *"Isaac, Abraham's son. Abraham became the father of Isaac"* — a redundancy the
   book does not explain. On its own arithmetic he was alive until the twins of this pericope were
   fifteen, which Genesis never states and the narrative order conceals by burying him at 25:10
+- [[Isaac in Gerar]] — Genesis 26:1, 3, 5, 15, 18, 24; **dead, named nine times, and the reason the
+  chapter holds together.** His famine is cross-referenced in the opening clause, his oath is what
+  God says he is establishing, his wells are what his son re-digs and re-names, his God is how God
+  introduces himself, and his obedience is the stated ground of the promise to his son — in four
+  Deuteronomic terms that make 26:5 the one verse in Genesis where the covenant is continued
+  *because* a man kept statutes. He is also called *my servant* here, the first honorific use of the
+  word in Scripture
 
 ## Related people
 

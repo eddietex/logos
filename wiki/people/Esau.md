@@ -86,7 +86,9 @@ Israel."*
 - Sells his birthright to [[Jacob]] under oath for bread and lentil stew; *"So Esau despised his
   birthright"* — Genesis 25:29–34
 - Called **Edom** from the red stew — Genesis 25:30
-- Marries Judith and Basemath, Hittite women, at forty — Genesis 26:34–35 *(not yet ingested)*
+- Marries [[Judith]] and [[Basemath (daughter of Elon)]], Hittite women, at forty — the age his
+  father was married to a woman fetched four hundred miles under an oath excluding exactly this — and
+  they grieve his parents' spirits — Genesis 26:34–35, [[Isaac in Gerar]]
 - Loses the blessing; the bitter cry, and the yoke he will one day shake off — Genesis 27:30–40
   *(not yet ingested)*
 - Plans to kill Jacob when Isaac is mourned — Genesis 27:41 *(not yet ingested)*
@@ -100,6 +102,11 @@ Israel."*
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; the elder twin of the oracle, born
   red and hairy into two etymologies that are not his own name, loved by his father for his venison,
   and the subject of the only sentence in the pericope in which the narrator says what he thinks
+- [[Isaac in Gerar]] — Genesis 26:34–35; two verses at the end of his father's one chapter, and they
+  are the hinge of the next. At forty he takes two Hittite women of the neighbourhood on his own
+  initiative — no journey, no servant, no oath, no well, none of the apparatus of Genesis 24 — and
+  Genesis reports the marriage and its effect in one sentence each. The grief is what his mother uses
+  at 27:46 to get his brother out of the country
 
 ## Related people
 
@@ -114,6 +121,11 @@ Israel."*
 - [[God]] — who ranks him below his brother before he is born, and does not speak to him in Genesis
 - [[Eliphaz the Temanite]] — Job's first friend, whose gentilic points at Esau's country; Genesis
   36:11 makes Teman the grandson of Esau through a son also named Eliphaz
+- [[Judith]] — his first wife, daughter of [[Beeri the Hittite]], named once and absent from the
+  register at 36:2–3
+- [[Basemath (daughter of Elon)]] — his second wife, called Adah by that same register
+- [[Elon the Hittite]] and [[Beeri the Hittite]] — his two fathers-in-law, and the only one of the
+  pair Genesis 36 remembers is the first
 
 ## Themes associated
 
