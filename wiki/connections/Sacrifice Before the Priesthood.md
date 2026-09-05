@@ -19,7 +19,10 @@ tags: [connection]
 - **Genesis 22:9, 13** — the altar on Moriah, and the ram offered on it *"instead of his son"*: the
   first burnt offering in Genesis since Noah's, and the only one the Abraham cycle completes —
   [[The Binding of Isaac]]
-- **Genesis 31:54; 35:1–7** *(not yet ingested)* — the rest of the patriarchs' altars.
+- **Genesis 31:54** — ***wayyizbaḥ yaʿăqōb zebaḥ***, **the first *zebaḥ* in Scripture** and the first
+  covenant meal: a sacrifice that is eaten rather than burnt, on a mountain, with no altar named and
+  no priest — [[Jacob's Flight from Laban]].
+- **Genesis 35:1–7** *(not yet ingested)* — the rest of the patriarchs' altars.
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.

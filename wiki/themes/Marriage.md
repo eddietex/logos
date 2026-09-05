@@ -204,6 +204,13 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   addresses at her husband are the record of what she is not getting: *now my husband will love me*,
   *will be joined to me*, *will live with me*. **Eleven of the twelve tribes come out of it**, and the
   book neither commends nor condemns the arrangement
+- [[Jacob's Flight from Laban]] — Genesis 31:14–16, 50; **the bride-price named as a grievance, and
+  the first prohibition of an additional wife in Scripture.** Two daughters say their father *"sold
+  us, and has also used up our money"* — the *mōhar* that should have secured them, paid in fourteen
+  years of labour and consumed as a working asset. And the treaty's protection clause — *"if you
+  afflict my daughters, or if you take wives besides my daughters"* (31:50) — **is extracted by
+  private oath from a man who already has four women in his tents**, centuries before any law says
+  anything of the kind
 
 ## Related themes
 

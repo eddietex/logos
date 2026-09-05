@@ -114,6 +114,13 @@ noticing into doctrine.
   father has just done. Elsewhere in Genesis parents name children and people name places; here the
   naming runs the other way, and one chapter earlier a slave had named God (16:13)
 - [[The Creation of the World]] — Genesis 1: the world made by speech
+- [[Jacob's Flight from Laban]] — Genesis 31:47; **the only non-Hebrew utterance in the Torah.**
+  Laban names the heap ***Jegar Sahadutha*** in Aramaic and Jacob names it ***Galeed*** in Hebrew,
+  and the two phrases mean the same thing — *heap of witness*. **Genesis translates neither**, and
+  lets the reader hear that four generations after Terah's household split at Haran the two halves
+  need an interpreter. **It is Babel's consequence, arriving inside one family**, and the book makes
+  the point by adding no comment at all. See
+  [[Jegar Sahadutha - The Only Aramaic in the Torah]]
 
 ## Related themes
 

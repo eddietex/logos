@@ -176,6 +176,33 @@ are set beside each other here so that the difference is not lost**, and the New
 See [[Jacob's Ladder at Bethel]] and
 [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]].
 
+### In this pericope — Genesis 31:11–13
+
+**The plainest alternation in Genesis, and it happens inside reported speech.**
+
+Jacob, arguing his case to his wives in a field, recalls a dream: ***"The angel of God said to me in
+the dream, 'Jacob,' and I said, 'Here I am.'"*** ***Malʾak hāʾĕlōhîm***, and ***hinnēnî*** — **the
+vocative-and-answer of Genesis 22:1 and 22:11**, and the first *hinnēnî* this man has given anyone.
+
+**Two verses later the same speaker says *"I am the God of Bethel, where you anointed a pillar,
+where you vowed a vow to me."*** **The vow of 28:20–22 was made to God, and the angel of God claims
+it in the first person.** There is no transition sentence, no *and God said*, and no seam of any kind
+— **the messenger simply becomes the sender in mid-speech.**
+
+**Three features make this the page's clearest instance.**
+
+- **The title is *malʾak ʾĕlōhîm*, not *malʾak YHWH***, as at 21:17. **The alternation is not confined
+  to the Yahweh form.**
+- **The claim is not a promise but an identity**, and it is anchored to a place and to two acts of
+  the hearer's own — **the most specific self-identification in the book.**
+- **It is all inside a character's speech.** **The narrator never reports this dream**, so the
+  alternation reaches the reader at one remove, in a man's account of his own history, given as an
+  argument to two women he is asking to leave home. **The wiki records that and does not discount the
+  dream for it.**
+
+See [[Jacob's Flight from Laban]], [[Two Explanations for One Flock - The Rods and the Dream]], and
+[[The Names of God]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -225,6 +252,12 @@ See [[Jacob's Ladder at Bethel]] and
   ʾĕlōhîm* on the stairway are plural, silent, and anonymous, and raise none of this page's problem.
   The singular figure returns at 31:11–13, in a dream, saying *"I am the God of Bethel, where you
   anointed a pillar"* — the alternation at its plainest, and the ground of the command to go home
+- [[Jacob's Flight from Laban]] — Genesis 31:11–13; **the alternation at its plainest, and entirely
+  inside a character's speech.** He calls Jacob by name and is answered ***hinnēnî***, as at 22:11;
+  he says *"I have seen all that Laban does to you"*; and then, with no seam at all, **he says *"I am
+  the God of Bethel, where you anointed a pillar, where you vowed a vow to me"*** — **claiming in the
+  first person a vow that was made to God.** He is *malʾak ʾĕlōhîm*, not *malʾak YHWH*, and the
+  narrator never reports the dream: it reaches the reader only in Jacob's account of it
 
 ## Related people
 

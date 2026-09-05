@@ -155,6 +155,11 @@ addressing a slave by name and no one else in the story doing so.
   Bible never quotes. **And no later list distinguishes them**: 35:23–26 groups the twelve by mother and
   then says flatly, *"These are the sons of Jacob, who were born to him."* See
   [[The Twelve Sons and the Lists That Reorder Them]]
+- [[Jacob's Flight from Laban]] — Genesis 31:15, 33, 41; ***mākar***, *he sold us* — **two free
+  daughters of the household use the verb for selling a slave about their own father**, and it is the
+  verb Joseph's brothers will use of him at 37:28. Meanwhile [[Zilpah]] and [[Bilhah]] appear as
+  *"the tent of the two female servants"*, unnamed, searched, and silent. **And Jacob's own twenty
+  years are summed up in the noun Exodus reserves for Egypt**: ***ʿŏnî***, affliction (31:42)
 
 ## Related themes
 

@@ -10,7 +10,8 @@ tags: [connection]
 - **Genesis 30:27** — *"I have divined that Yahweh has blessed me for your sake"* — [[Jacob's Flocks]]
 - **Genesis 44:5, 15** — *"Isn't this that in which my lord drinks, and by which he indeed divines?"*;
   *"Don't you know that such a man as I can indeed divine?"* *(not yet ingested)*
-- **Genesis 31:19, 30–35** — Laban's *teraphim*, stolen and sat on *(not yet ingested)*
+- **Genesis 31:19, 30–35** — Laban's *teraphim*, stolen and sat on — [[Jacob's Flight from Laban]],
+  and see [[The Teraphim - Household Gods in Genesis and After]]
 - **Genesis 40–41** — dream interpretation credited to God: *"Don't interpretations belong to God?"*
   (40:8), *"It is not in me. God will give Pharaoh an answer"* (41:16) *(not yet ingested)*
 - **Leviticus 19:26; Deuteronomy 18:9–14** — the prohibition, and *"you shall be blameless with

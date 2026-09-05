@@ -16,7 +16,8 @@ tags: [connection]
   so in our place, to give the younger before the firstborn.'"*
 - **Genesis 25:20; 27:43** — Laban planted in a pedigree that did not need him, and named as the
   destination of the flight.
-- **Genesis 31:7, 41** — *"Your father has deceived me, and changed my wages ten times."*
+- **Genesis 31:7, 41** — [[Jacob's Flight from Laban]] — *"Your father has deceived me, and changed
+  my wages ten times."*
 - **Genesis 12:18; 20:9; 26:10** — *"What is this you have done to me?"*, the question three foreign
   kings put to this family before Jacob puts it to his uncle.
 
@@ -119,3 +120,11 @@ took at 27:19–24. Neither man in the exchange has any standing.
   exactly what *"it is not done so in our place"* did to the seven years.** Jacob answers in kind and
   wins. **The man who explained the custom is beaten by a rule kept to the letter**, and Genesis
   narrates that with the same flat neutrality it gave the wedding.
+- **And the losing is completed by his daughters.** In [[Jacob's Flight from Laban]] the two women
+  the house rule was invoked over answer as one voice and dispose of the household's whole claim:
+  *"Is there yet any portion or inheritance for us in our father's house? … he has sold us, and has
+  also used up our money"* (31:14–15). **The custom that put the elder before the younger is
+  answered, seven verses later, by both of them at once**, and neither the narrator nor their father
+  disputes the accounting. Laban's last recorded appeal to any principle is *"the daughters are my
+  daughters, the children are my children"* (31:43), **and he follows it with *"what can I do
+  today?"***

@@ -401,6 +401,29 @@ in the Bible where a blessing runs out.**
 He appears twice more — sending Jacob away with the Abrahamic blessing at 28:1–5, and dead at 35:29 —
 and speaks in only the first of them.
 
+### Off-stage — Genesis 31:1–55
+
+**He is alive, he is the stated destination, and he becomes a name for God.**
+
+*"To go to **Isaac his father**, to the land of Canaan"* (31:18) — **the first time he is named since
+28:5**, and the land is the apposition rather than the object. **Jacob is not going to Canaan; he is
+going to his father**, and he will not get there for two more chapters. Isaac does not die until
+35:29, so **the twenty years in Paddan Aram have not outlived him**, and Rebekah's *"a few days"*
+(27:44) has stretched to a lifetime without producing the funeral Esau was waiting for (27:41).
+
+***"The fear of Isaac."*** ***Paḥad yiṣḥāq*** (31:42, 53). **A divine title that occurs twice in
+Scripture and both times in this chapter**, and it is **the only name for God in the Bible built on a
+patriarch's fear rather than on a covenant, a place, or an attribute.** Its sense is uncertain: the
+ordinary meaning of *paḥad* is **dread**, giving *the Dread that Isaac feared*; a long-standing
+alternative reads it against Arabic *faḫd*, thigh and hence clan, giving ***the Kinsman of Isaac***.
+**The wiki records the second as a proposal and adopts neither.**
+
+**What is not uncertain is the use Jacob puts it to.** [[Laban]] offers a joint formula — *"the God of
+Abraham, and the God of Nahor, the God of their father"* — **which would put the two branches' gods on
+one footing**; Jacob swears instead by his father's title alone, **and Nahor is not in it.** **A man
+who has not seen Isaac in twenty years takes an oath in a name that belongs to nobody else.** See
+[[Jacob's Flight from Laban]], [[The Names of God]], and [[The Fear of God]].
+
 ### Where the rest of him is
 
 - **Genesis 28:1–5** — the same blessing given again, deliberately and to the right son: *"give you
@@ -474,6 +497,10 @@ and speaks in only the first of them.
   himself — Genesis 28:1–5, [[Isaac Sends Jacob to Paddan Aram]]
 - Named second in God's self-introduction at Bethel, and his own *"I am with you"* from 26:3 and 26:24
   is the phrase Jacob is given — Genesis 28:13, 15, [[Jacob's Ladder at Bethel]]
+- Named as the destination of Jacob's flight, still alive after twenty years — Genesis 31:18,
+  [[Jacob's Flight from Laban]]
+- Becomes a name for God: ***the fear of Isaac***, sworn by his son at the boundary heap, and found
+  nowhere else in Scripture — Genesis 31:42, 53
 - Dies at a hundred eighty — Genesis 35:28–29 *(not yet ingested)*
 
 ## Appears in

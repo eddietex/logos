@@ -130,6 +130,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   the body of a sleeping man, against the four horizons Abram was told to look across at 13:14 — and
   then *"I will bring you again into this land"*, a clause the promise had never needed before,
   because **Jacob is the first bearer of it to leave the country carrying it**
+- [[Jacob's Flight from Laban]] — Genesis 31:3, 13, 18; **the return clause of 28:15 turned into an
+  order.** *"Return to the land of your fathers"*, *"return to the land of your birth"* — and when the
+  narrator states the destination it is not the land at all but a man: *"to go to **Isaac his
+  father**, to the land of Canaan."* **The country is the apposition**, and the chapter ends with the
+  household still east of the Jordan, on a border it has just agreed never to recross
 
 ## Related places
 
@@ -173,3 +178,7 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   Genesis 16:3, [[Hagar and Ishmael]]
 - Sarah dies at Kiriath Arba *"in the land of Canaan"*, and Abraham buys the field of Machpelah from
   Ephron the Hittite — Genesis 23:2, 19, [[Nahor's Line and the Burial of Sarah]]
+- Named as the destination of Jacob's flight, in apposition to his father — *"to go to Isaac his
+  father, to the land of Canaan"* — Genesis 31:18, [[Jacob's Flight from Laban]]
+- The return promised at 28:15 is commanded: *"return to the land of your fathers"* — Genesis 31:3,
+  13, [[Jacob's Flight from Laban]]

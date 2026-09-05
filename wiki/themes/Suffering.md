@@ -87,6 +87,12 @@ requires only that you be standing outside it.
   catalogue attributed to God (19:13)
 - [[Bildad's Second Speech]] and [[Zophar's Second Speech]] — suffering read as a portrait of the
   sufferer, item by item, and delivered to him as general doctrine
+- [[Jacob's Flight from Laban]] — Genesis 31:40, 42; **the only description of physical hardship any
+  patriarch gives of himself**, and it is about weather: *"in the day the drought consumed me, and
+  the frost by night; and my sleep fled from my eyes."* **Abraham is never cold in Genesis and Isaac
+  is never tired.** And the noun he sums it up with is ***ʿŏnî***, affliction — **the word of Hagar
+  in the desert (16:11), of Leah at Reuben's birth (29:32), and of Israel in Egypt (Exodus 3:7)** —
+  applied to twenty years of employment by a man who left rich
 
 ## Related themes
 

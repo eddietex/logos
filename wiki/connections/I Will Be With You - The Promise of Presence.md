@@ -9,7 +9,7 @@ tags: [connection]
 
 - Genesis 26:3, 24 — to Isaac, in a famine and at Beersheba
 - Genesis 28:15 — to Jacob at Bethel: *"I am with you, and will keep you, wherever you go"*
-- Genesis 31:3 — to Jacob again, sending him home
+- Genesis 31:3 — to Jacob again, sending him home — [[Jacob's Flight from Laban]]
 - Genesis 39:2, 21, 23 — *"Yahweh was with Joseph"*, in a house and in a prison
 - Exodus 3:12 — to Moses at the bush
 - Joshua 1:5, 9 — *"I will not fail you, nor forsake you"*

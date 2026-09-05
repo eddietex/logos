@@ -248,11 +248,58 @@ your father's livestock and given them to me"* (31:9–12). **The rods are not i
 is not in this one**, and the wiki reconciles neither. See
 [[Two Explanations for One Flock - The Rods and the Dream]].
 
+### In this pericope — Genesis 31:1–55
+
+**He is angry for the second time in his life, and it is the first time it is justified.**
+
+**God speaks to him for the first time since Bethel** — six years, two chapters, twelve children, and
+not one word in between — and what he is given is the clause he was given there: *"Return to the land
+of your fathers, and to your relatives, **and I will be with you**"* (31:3). **He asked to go home at
+30:25 and a man refused him; he goes now because God tells him to.**
+
+**His case to his wives is the second account of the flocks, and it is not the narrator's.** He says
+his wages were changed ten times, that an angel of God showed him the streaked goats in a dream, and
+that ***"God has taken away your father's livestock, and given them to me"*** (31:9) — **the sentence
+[[Jacob's Flocks]] does not contain**, from the man who cut the rods. The wiki holds both accounts and
+harmonises neither. See [[Two Explanations for One Flock - The Rods and the Dream]].
+
+**Then he steals a heart.** ***Wayyignōb yaʿăqōb ʾet-lēb lābān*** (31:20) — *he stole the heart of
+Laban*, which the WEB renders *deceived*, **and which uses the same verb the narrator has just used of
+his wife two verses earlier.** He leaves without notice, crosses the River, and is overtaken in
+[[Gilead]] after seven days.
+
+**He pronounces a death sentence over his own wife without knowing it.** *"Anyone you find your gods
+with shall not live"* (31:32) — **and Genesis stops to say that he did not know**, which it almost
+never does. See [[Rachel]] and [[Oaths and Vows]].
+
+**And then he makes the longest speech he makes in Genesis** (31:36–42), and it is a lawsuit —
+***rîb***, the prophets' word for bringing a charge — with witnesses asked for and empanelled. **He
+itemises twenty years**: no miscarriages, no rams eaten, losses from predators absorbed against the
+custom of the trade, theft charged to him by day and by night, drought, frost, and no sleep. **It is
+the only description of physical hardship any patriarch gives of himself**, and the only legally
+technical paragraph in the book. See
+[[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] and [[Work]].
+
+***"Surely now you would have sent me away empty"*** — ***rêqām*** — **and *"God has seen my
+affliction"*, *ʿŏnî*. **Two words of Exodus 3, in a private complaint about an employer**, six
+generations early. See [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] and
+[[Suffering]].
+
+**He raises his second pillar** (31:45), **and it is the only one of his four that is not for God** —
+a border marker with a man. **He swears by *the fear of his father Isaac*** (31:53) where Laban has
+just offered *the God of Abraham and the God of Nahor* jointly, **which quietly refuses to put the
+two branches' gods on the same footing**, and neither man remarks on it. **And he offers the first
+*zebaḥ* in Scripture** (31:54) — a sacrifice that is eaten, and the first covenant meal in the Bible.
+See [[The Names of God]], [[The Fear of God]], and
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]].
+
+**He gets everything and asks for nothing, and he never finds out about the *teraphim*.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He leaves under pursuit (31). He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
+He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
 away (32:22–32). He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
 and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
 the years of my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
@@ -309,7 +356,21 @@ is carried back to Machpelah.
 - The peeled rods in the watering-troughs, and the breeding of the strong only — Genesis 30:37–42
 - ***The man burst out exceedingly*** — the verb of the Bethel promise, applied to livestock —
   Genesis 30:43
-- Leaves Laban under pursuit; the boundary heap at Galeed — Genesis 31 *(not yet ingested)*
+- Told by Yahweh to return — *"and I will be with you"*, the clause of 28:15, and the first divine
+  speech to him in six years — Genesis 31:3, [[Jacob's Flight from Laban]]
+- Lays his case before [[Rachel]] and [[Leah]] in the field: ten changed wages, the angel in the
+  dream, and *"I am the God of Bethel"* — Genesis 31:4–13
+- Leaves without notice; ***steals Laban's heart***, crosses the River, and heads for [[Gilead]] —
+  Genesis 31:20–21
+- Overtaken after seven days; pronounces death on whoever holds the household gods, not knowing it is
+  his wife — Genesis 31:23, 32
+- Brings a lawsuit — ***rîb*** — and delivers **the longest speech he makes in Genesis**: twenty
+  years, the shepherd's absorbed losses, drought and frost, and *"you would have sent me away
+  empty"* — Genesis 31:36–42
+- Raises his second pillar, this one for a border rather than a theophany; the heap named in two
+  languages — Genesis 31:45–48, [[Galeed]]
+- Swears by ***the fear of his father Isaac***, declining Laban's joint formula, and offers the first
+  *zebaḥ* in Scripture — Genesis 31:53–54
 - Wrestles until daybreak at the Jabbok, is renamed **Israel**, and is left limping — Genesis
   32:22–32 *(not yet ingested)*
 - Reconciled with Esau, who runs to meet him — Genesis 33:1–17 *(not yet ingested)*
@@ -362,6 +423,15 @@ is carried back to Machpelah.
   with three plays on his father-in-law's name in the verse that starts it. **Nothing he does is
   illegal and nothing is condemned.** He does not pray, build, vow, or mention the promise, and the
   book describes his prosperity in the verb God used of his offspring at Bethel
+- [[Jacob's Flight from Laban]] — Genesis 31:1–55; **commanded home in the clause he was promised at
+  Bethel, and given it six years after he asked a man for it.** He argues the flocks to his wives as
+  God's doing where the narrator gave rods; he *steals Laban's heart* and flees; he pronounces death
+  over a thief who is his own wife, in a sentence Genesis stops to say he did not understand; and then
+  he brings a **lawsuit** and itemises twenty years of somebody else's sheep — losses the law of
+  Exodus 22 would not have charged him, drought, frost, no sleep, and wages changed ten times.
+  ***Rêqām*** and ***ʿŏnî***, two words of Exodus 3, in a private grievance. He raises the one pillar
+  of his four that is not for God, **swears by a divine title that excludes his uncle's line**, and
+  offers the Bible's first *zebaḥ*. **He never learns about the *teraphim***
 
 ## Related people
 
@@ -412,3 +482,8 @@ is carried back to Machpelah.
 - [[Prophecy and Vision]]
 - [[The Fear of God]]
 - [[Tithing]]
+- [[Suffering]]
+- [[The Names of God]]
+- [[Seeing and Being Seen]]
+- [[Language and Speech]]
+- [[Sacrifice and Offering]]

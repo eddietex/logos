@@ -125,21 +125,65 @@ none of it.** See [[Jacob's Flocks]] and [[Names and Naming]].
 their complaint that opens the next chapter: *"Jacob has taken away all that was our father's"*
 (31:1). They get no page; they are carried here.
 
+### In this pericope — Genesis 31:1–55
+
+**He loses, concedes nothing, and leaves the book kissing his grandchildren.**
+
+**His face changes before he says a word.** *"The expression on Laban's face… was not toward him as
+before"* (31:2), after his sons complain that Jacob has taken *"all this **glory**"* — ***kābôd***,
+the heaviest noun in the theological vocabulary, used of a herd count. **It is the sequel that
+followed Isaac's enrichment at 26:13–14, one generation on.** See [[Envy]].
+
+**God stops him on the road, and he obeys instantly.** *"God came to Laban, the Syrian, in a dream of
+the night"* (31:24) — **the same formula, almost word for word, used of [[Abimelech (of Abraham's time)]]
+at 20:3, and used nowhere else in the Bible.** The instruction is **his own idiom from Genesis 24:50**:
+*"be careful that you don't speak to Jacob either good or bad."* **His first recorded position in
+Scripture and his last are the same sentence, and the second time it is imposed on him.** See
+[[Warned in a Dream - Abimelech and Laban]].
+
+**The one wholly honest thing he says is a confession of intent.** *"It is in the power of my hand to
+hurt you, but the God of your father spoke to me last night"* (31:29) — **he would have, and he was
+stopped**, and he gets the title right without claiming it.
+
+***"Why have you stolen my gods?"*** ***ʾĔlōhāy.*** **A man who has named Yahweh correctly three
+times** — *"the thing proceeds from Yahweh"* (24:50), *"come in, you blessed of Yahweh"* (24:31),
+*"Yahweh has blessed me for your sake"* (30:27) — **calls a set of portable figures *my gods*, and
+Genesis prints it without a syllable of comment.** He then searches four tents on his hands and knees
+and is defeated by his younger daughter sitting on a camel saddle and pleading her period. **The gods
+are never recovered.** See [[Idolatry]] and [[The Teraphim - Household Gods in Genesis and After]].
+
+**His grievance is real and it is contradicted by his own daughters.** *"You have… carried away my
+daughters like captives of the sword"* (31:26), *"that I might have sent you away with mirth and with
+songs, with tambourine and with harp"* (31:27) — **and the verb in that last sentence is *šālaḥ*, the
+exact release he refused to grant at 30:27.** Eleven verses earlier [[Rachel]] and [[Leah]] have told
+the reader ***"he has sold us, and has also used up our money"*** (31:15). **Genesis prints both and
+adjudicates neither**, and the wiki flags the contradiction rather than resolving it.
+
+**He proposes the covenant himself** (31:44), **and gets the last clause in it.** The heap he names in
+**Aramaic** — ***Jegar Sahadutha***, against Jacob's Hebrew ***Galeed*** — **the only Aramaic in the
+Torah, and the moment the book lets the reader hear that the two branches of Terah's family no longer
+speak the same language.** He adds *Mizpah*, a watchpost, and the clause behind it is a surveillance
+agreement rather than a blessing. **And he secures for his daughters a protection no law of the period
+gave them**: *"if you afflict my daughters, or if you take wives besides my daughters"* (31:50) —
+**the first prohibition of an additional wife anywhere in Scripture.** See
+[[Jegar Sahadutha - The Only Aramaic in the Torah]],
+[[The Mizpah Benediction - Genesis 31.49 and How It Is Read]], and [[Galeed]].
+
+***"The God of Abraham, and the God of Nahor, the God of their father, judge between us"*** (31:53),
+**with a plural verb in the Hebrew** — ***yišpəṭû***. **The Samaritan text and the Septuagint read a
+singular; the Masoretic Text does not.** On one reading this is the Bible's single glimpse of what the
+branch that stayed in Mesopotamia held; on another the plural is grammatical agreement with a compound
+subject. **The wiki reports the plural and adopts neither reading.** **Jacob answers by swearing on
+*the fear of his father Isaac* alone**, which declines the joint formula, and neither man remarks on
+it. See [[Nahor (brother of Abram)]] and [[The Names of God]].
+
+**Then he kisses his sons and daughters, blesses them, and goes home** (31:55) — **the same three
+verbs Genesis introduced him with at the spring** (24:29–31) **and at the door** (29:13), **and the
+only time he does them with nothing to gain.** He never appears again.
+
 ### What is still ahead
 
-This page grows as those pericopes arrive; what follows is the shape of it.
-
-Wages changed
-*"ten times"* (31:7, 41), and a face that stops being *"toward him as before"* (31:2). A seven-day
-pursuit across the hill country after his stolen household gods, ending in a
-heap of stones, a shared meal, a boundary oath, and — *"The God of Abraham, and the God of Nahor, the
-God of their father, judge between us"* (31:53) — the closest thing in Scripture to a glimpse of what
-the branch that stayed in Mesopotamia worshipped. Jacob pointedly swears by *"the fear of his father
-Isaac"* instead. See [[Nahor (brother of Abram)]].
-
-He kisses his daughters and grandchildren goodbye at 31:55 and leaves the book.
-
-**Genesis calls him *"the Syrian"* — *hāʾărammî*, the Aramean — four times** (25:20; 28:5; 31:20, 24),
+He is done. **Genesis calls him *"the Syrian"* — *hāʾărammî*, the Aramean — four times** (25:20; 28:5; 31:20, 24),
 which is how the book marks the branch that never crossed into Canaan as having become another
 people. Deuteronomy 26:5 keeps the memory in Israel's own confession: *"A Syrian ready to perish was
 my father."* See [[The Nations]].
@@ -178,9 +222,23 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - Accepts Jacob's terms in five words, then removes every odd-coloured animal from the flock the same
   day and puts it three days off in his sons' hands — Genesis 30:34–36
 - Out-bred, in a verse that puns three times on his name — Genesis 30:37–43
-- Changes Jacob's wages ten times — Genesis 31:7, 41 *(not yet ingested)*
-- Pursues Jacob for the stolen household gods; the covenant heap at Mizpah — Genesis 31:22–55
-  *(not yet ingested)*
+- His sons complain that Jacob has taken *"all this glory"*, and his face changes — Genesis 31:1–2,
+  [[Jacob's Flight from Laban]]
+- Accused by Jacob of changing his wages ten times; the charge is never confirmed or denied by him —
+  Genesis 31:7, 41
+- Away shearing when Jacob leaves; [[Rachel]] takes his *teraphim* — Genesis 31:19
+- Pursues for seven days into [[Gilead]], and is stopped in a night dream: *"don't speak to Jacob
+  either good or bad"* — Genesis 31:22–24
+- *"It is in the power of my hand to hurt you"* — the threat and its cancellation in one sentence —
+  Genesis 31:29
+- *"Why have you stolen my gods?"*; searches four tents and finds nothing — Genesis 31:30–35
+- Answers the lawsuit with four possessive claims and a surrender: *"what can I do today?"* — Genesis
+  31:43
+- Proposes the covenant; names the heap **Jegar Sahadutha** in Aramaic — Genesis 31:44–47,
+  [[Galeed]]
+- The *Mizpah* clause, and a protection for his daughters against a further wife — Genesis 31:49–50
+- *"The God of Abraham, and the God of Nahor… judge between us"*, with a plural verb — Genesis 31:53
+- Kisses and blesses his daughters and grandchildren, and leaves the book — Genesis 31:55
 
 ## Appears in
 
@@ -216,6 +274,16 @@ built on the same root, for its snow. Genesis makes nothing of it.
   five words; and then strips every animal that could pay those wages out of the flock the same day,
   three days' journey off, into his sons' hands. **Genesis reports it and never calls it anything.**
   He is the only man in the book to name Yahweh while holding a man against his will
+- [[Jacob's Flight from Laban]] — Genesis 31:1–55; **his last chapter, and he loses it without ever
+  conceding a point.** He is stopped by God in a night dream in the same formula used of Abimelech at
+  20:3, admits he had the power and the intent to do harm, calls a set of figurines ***my gods***,
+  and searches four tents on his knees for objects his daughter is sitting on. His complaint —
+  *"carried away my daughters like captives of the sword"* — **is contradicted eleven verses earlier
+  by the daughters themselves**, who say he sold them and ate their bride-price. **He proposes the
+  covenant, names the heap in Aramaic** — the only Aramaic in the Torah — **and secures a clause
+  protecting his daughters against a further wife, the first such prohibition in Scripture.** He
+  invokes *the God of Abraham and the God of Nahor* in a plural verb and is answered with a title
+  naming only Isaac. **He goes out kissing grandchildren**
 
 ## Related people
 
@@ -250,3 +318,9 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - [[Blessing]]
 - [[Deception]]
 - [[Oaths and Vows]]
+- [[Covenant]]
+- [[Idolatry]]
+- [[The Names of God]]
+- [[Language and Speech]]
+- [[Envy]]
+- [[Strife and Peacemaking]]

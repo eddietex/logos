@@ -187,6 +187,15 @@ has become a nation.
   passage contains no *mirmâ*, no disguise, and no false word; **it is the family's method with the
   falsehood removed, and Genesis grades it exactly as it graded the others — not at all.** The one
   verdict anywhere in the cycle is Jacob's own, at 31:7, and it is about Laban
+- [[Jacob's Flight from Laban]] — Genesis 31:19–20, 26, 30–35; **the chapter built out of a single
+  root.** ***Gānab***, *steal*, runs seven times through it: Rachel steals the *teraphim* (31:19),
+  Jacob ***steals Laban's heart*** (31:20, 26 — the idiom the WEB renders *deceived*), Laban asks
+  *"why have you stolen my gods?"* (31:30), Jacob pronounces death on whoever holds them (31:32), and
+  in his own defence he counts the animals *"stolen by day or stolen by night"* that he paid for
+  (31:39). **Everyone in the chapter is inside the verb and nobody is charged with it**, and the one
+  real theft is never discovered, confessed, or mentioned again. **A separate verb, *tālal*, *to
+  trifle with*, enters Scripture here** for what Laban did to Jacob's wages (31:7) — a different word
+  from the *rāmâ* of 29:25, from the same man about the same man
 
 ## Related themes
 

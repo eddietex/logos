@@ -96,6 +96,12 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   *"my own place, and my country"*. **The overview's point holds again: God is named three times here
   and never as the subject of a verb**, and the one man who claims direct knowledge of him got it by
   divination
+- [[Jacob's Flight from Laban]] — Genesis 31:1–55; **the country is left, and the leaving is made
+  permanent.** Jacob is told to *"return to the land of your fathers"*, crosses the River in secret,
+  and is pursued out of it; **the region's language is heard on the page for the only time in the
+  Torah** (*Jegar Sahadutha*, 31:47); its household gods are carried off and never given back; and
+  the chapter ends with a border neither side may cross. **After 31:55 nobody in the covenant line
+  goes back to Paddan Aram**, and the branch that stayed becomes, from here on, a foreign people
 
 ## Related places
 
@@ -121,4 +127,9 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   [[The Birth of Jacob's Children]]
 - Jacob asks to be released and is refused; the wage contract, the rods, and the flocks divided —
   Genesis 30:25–43, [[Jacob's Flocks]]
-- Jacob leaves, is pursued by Laban, and swears the boundary oath — Genesis 31 *(not yet ingested)*
+- Jacob leaves in secret with his wives, children and herds, and is pursued for seven days —
+  Genesis 31:17–23, [[Jacob's Flight from Laban]]
+- The region's language is heard on the page for the only time in the Torah: ***Jegar Sahadutha*** —
+  Genesis 31:47, [[Jegar Sahadutha - The Only Aramaic in the Torah]]
+- The boundary oath at [[Galeed]] fixes the family on the far side of it, and **nobody in the covenant
+  line ever returns** — Genesis 31:51–55

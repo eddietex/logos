@@ -71,7 +71,8 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
   Rebekah's father — Genesis 22:20–24, [[Nahor's Line and the Burial of Sarah]]
 - His city is where Abraham's servant finds Rebekah, and 24:15 identifies her by him rather than by
   her father — Genesis 24:10, 15, [[A Wife for Isaac]]
-- Named in Laban's oath alongside Abraham — Genesis 31:53 *(not yet ingested)*
+- Named in Laban's oath alongside Abraham, under a plural verb, and pointedly excluded from Jacob's
+  answering oath — Genesis 31:53, [[Jacob's Flight from Laban]]
 
 ## Appears in
 
@@ -89,6 +90,13 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
   being identified by its head of line, which is how a stranger asking directions would be answered.
   **Neither requires an error and the wiki adopts neither**; it records that Genesis uses two
   filiations for the same man five chapters apart and offers no gloss
+- [[Jacob's Flight from Laban]] — Genesis 31:53; **his one appearance in an oath, and the verb is
+  plural.** *"The God of Abraham, and the God of Nahor, the God of their father, ***judge*** between
+  us"* — ***yišpəṭû***, plural in the Masoretic Text, singular in the Samaritan Pentateuch and the
+  Septuagint. **Whether Laban is naming one God under two descriptions or two family gods side by
+  side is not settled by the verse**, and the wiki adopts neither reading. **What is not in doubt is
+  Jacob's answer**: he swears by ***the fear of his father Isaac***, naming his own line only and
+  declining the joint formula, and neither man remarks on it
 
 ## Related people
 
@@ -108,3 +116,6 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 - [[Marriage]]
 - [[The Nations]]
 - [[Land and Sojourning]]
+- [[The Names of God]]
+- [[Idolatry]]
+- [[Oaths and Vows]]

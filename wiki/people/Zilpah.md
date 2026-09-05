@@ -50,6 +50,8 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
 - Given by Leah to [[Jacob]] as a wife when Leah stops bearing — Genesis 30:9,
   [[The Birth of Jacob's Children]]
 - Bears [[Gad]] and [[Asher]], named by Leah — Genesis 30:10–13
+- Her tent searched for the missing household gods; she is named only as one of *"the two female
+  servants"* — Genesis 31:33, [[Jacob's Flight from Laban]]
 - Listed among the mothers of the twelve — Genesis 35:26; 46:18 *(not yet ingested)*
 
 ## Appears in
@@ -61,6 +63,10 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
   is **not barren** and is matching her sister's move. She bears two of the twelve tribes, and the two
   names Leah gives them are **the only namings in the passage that mention neither God nor an act of
   his**
+- [[Jacob's Flight from Laban]] — Genesis 31:33; **half a phrase.** Laban searches four tents and the
+  third is *"the tent of the two female servants"* — **she and [[Bilhah]] share one, and neither is
+  named.** They are moved, searched, and taken out of Paddan Aram without a word spoken to them or by
+  them, exactly as they were brought into the household
 
 ## Related people
 

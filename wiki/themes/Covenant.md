@@ -262,6 +262,13 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   leave you*. Those four exist because **Jacob is the first bearer of the promise to leave the land
   carrying it**, and they are what makes the covenant portable. See
   [[I Will Be With You - The Promise of Presence]].
+- [[Jacob's Flight from Laban]] — Genesis 31:43–54; **the first *bərît* in Genesis between two men
+  who have wronged each other**, and the fullest procedure the book records: a proposal, a pillar, a
+  heap of stones named in two languages, a witness clause repeated five times, a protection clause
+  for the daughters, a boundary sworn in both directions, a sacrifice, and **a shared meal** — the
+  first covenant meal in Scripture. **There is no divine party to it.** God is invoked as *witness*
+  and *judge* (31:49–53), not as a partner, **which is the opposite of every covenant Genesis has
+  narrated so far**, where the initiative and the self-obligation are his
 
 ## Related themes
 

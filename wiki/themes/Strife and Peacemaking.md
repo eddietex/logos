@@ -122,7 +122,7 @@ the land.
   inverse of what Abraham did with Lot at 13:9 and Isaac did with the herdsmen of Gerar at 26:22, and
   it is the only quarrel in the cycle that ends in flight. The reconciliation is twenty years and six
   chapters away, and **it is the wronged brother who runs to make it** (33:4)
-- Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
+- Genesis 32–33 — Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation
 - Matthew 5:9; Romans 12:18; 1 Corinthians 6:7; Philippians 2:3–4 — the New Testament's
@@ -141,6 +141,13 @@ the land.
   and Leah has a husband whose preference she has never had. **The quarrel is settled by a trade** — a
   night for a plant — **which is the only conflict resolution anyone in the passage attempts**, and it
   produces two more children and no peace
+- [[Jacob's Flight from Laban]] — Genesis 31:36–54; **the fullest peacemaking procedure in Genesis,
+  and it begins as a lawsuit.** ***Rîb*** (31:36) is the legal word for bringing a charge, and Jacob
+  asks for witnesses to be empanelled — *"set it here before my relatives and your relatives, that
+  they may judge between us two"* (31:37). **What ends the quarrel is not agreement.** Neither man
+  concedes a point: Laban says *"the daughters are my daughters… and all that you see is mine"* and
+  then asks *"what can I do today?"* **The settlement is a border, a heap of stones appointed as
+  witness, and a meal** — and the peace it makes is permanent because it is a separation
 
 ## Related themes
 

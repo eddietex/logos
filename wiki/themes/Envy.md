@@ -100,6 +100,12 @@ judgment about a motive.**
   [[The Prosperity of the Wicked]]
 - Mark 15:10; Acts 7:9; Romans 1:29; Galatians 5:21; James 3:14–16 — the New Testament's use
 - 2 Corinthians 11:2 — the sense turned around and claimed as proper
+- [[Jacob's Flight from Laban]] — Genesis 31:1–2; **the complaint and the changed face, in the exact
+  sequence that followed Isaac's enrichment.** *"Jacob has taken away all that was our father's"*
+  from Laban's sons, and then *"the expression on Laban's face… was not toward him as before"* —
+  against 26:13–14, where *"the man became great"* is followed immediately by *"the Philistines
+  envied him."* **The last face Genesis reported falling belonged to [[Cain]]** (4:5), also over an
+  offering and a brother's success
 
 ## Related themes
 

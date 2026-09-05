@@ -87,12 +87,43 @@ She names [[Joseph]] twice over in two verses: *"God has taken away my reproach"
 looks forward** — she names her first son for a second one she does not have — **and she gets him, and
 it kills her.**
 
+### In this pericope — Genesis 31:1–55
+
+**She speaks about something other than children for the first and only time, and she commits the
+chapter's one real theft.**
+
+***"Rachel and Leah answered him."*** **A single verb with two subjects, and it is the only time in
+Genesis the two sisters are given one voice.** Everything either of them has said until now has been
+about a child or about the other one; **here they answer as one and the subject is money.**
+*"Is there yet any portion or inheritance for us in our father's house? Aren't we considered as
+**foreigners** by him? For he has **sold** us, and has also **used up our money**"* (31:14–15).
+***Nokriyyôt*** is the sharpest word the Bible has for an outsider with no claim, and ***mākar*** is
+the ordinary verb for selling a slave — **the verb [[Joseph]]'s brothers will use of him at 37:28.**
+**It is the harshest verdict anyone in Scripture passes on [[Laban]], and it comes from his
+daughters.** See [[Marriage]], [[Slavery and Servitude]], and [[Wealth and Possessions]].
+
+**Then she steals the *teraphim*** (31:19), ***wattignōb*** — **the Bible's first household gods**,
+taken while her father is away shearing, **and Genesis gives her no motive whatever.** The standing
+explanations are three — their value, a claim on the estate, or their protection — **and the wiki
+adopts none of them.** See [[The Teraphim - Household Gods in Genesis and After]] and [[Idolatry]].
+
+**Her husband pronounces death over her without knowing it.** *"Anyone you find your gods with shall
+not live"* (31:32), **and the narrator adds a clause it almost never adds**: *"for Jacob didn't know
+that Rachel had stolen them."* **The ancient reading that connects this to her death at 35:16–19 is
+widespread and is not the text's**; Genesis draws no line between the two verses, and the wiki records
+the reading as a reading.
+
+**She stops the search sitting down.** The *teraphim* go into a camel's saddle, she sits on it, and
+when her father gropes through the tent she tells him *"don't let my lord be angry that I can't rise
+up before you; for I'm having my period"* (31:35). **Her tent is searched last of four, which is
+where the reader knows the gods are**, and the scene is narrated as farce. **They are never found,
+never returned, and never mentioned again.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-She steals her father's household gods and sits on them (31:19, 34), and Jacob,
-not knowing, pronounces a death sentence over whoever has them (31:32). She dies on the road to
+She dies on the road to
 Ephrath bearing that second son, names him **Ben Oni**, *son of my sorrow*, with her last breath, and
 is overruled: *"his father called him Benjamin"* (35:18). **Jacob buries her where she falls and sets
 up a pillar** — the fourth and last of his standing stones — and she is the one matriarch not carried
@@ -121,7 +152,11 @@ over the killing of the infants at Bethlehem. See
 - *"God remembered Rachel"*; the birth of [[Joseph]] — Genesis 30:22–24
 - Named in a dating clause — *"when Rachel had borne Joseph"* — as the moment Jacob asks to go home;
   she says nothing and is not consulted — Genesis 30:25, [[Jacob's Flocks]]
-- Steals Laban's household gods and hides them — Genesis 31:19, 34–35 *(not yet ingested)*
+- Answers Jacob in the field together with [[Leah]], in one voice: *"he has sold us, and has also used
+  up our money"* — Genesis 31:14–16, [[Jacob's Flight from Laban]]
+- Steals her father's *teraphim* while he is away shearing — Genesis 31:19
+- Unknowingly placed under her husband's death sentence — Genesis 31:32
+- Hides the gods in a camel's saddle, sits on them, and stops the search — Genesis 31:34–35
 - Dies bearing Benjamin on the road to Ephrath; the pillar over her grave — Genesis 35:16–20 *(not yet
   ingested)*
 
@@ -140,6 +175,13 @@ over the killing of the infants at Bethlehem. See
   Joseph, Jacob said to Laban, 'Send me away'"* — **the birth of the loved wife's first son is what
   makes the household complete enough to leave**, and Genesis chooses that event rather than any of
   the eleven before it to start the departure. She is not consulted and says nothing until 31:14
+- [[Jacob's Flight from Laban]] — Genesis 31:14–16, 19, 32–35; **she finally speaks, and it is with
+  her sister, in one voice, about money.** *"He has sold us, and has also used up our money"* is the
+  harshest sentence anyone in Scripture passes on her father. Then **she commits the chapter's one
+  actual theft** — the Bible's first *teraphim* — **and Genesis supplies no motive for it at all.**
+  Her husband pronounces death on the unknown thief, and the narrator stops to note that he did not
+  know. **She hides the gods in a camel's saddle, sits on them, and defeats the search with a
+  sentence about her own body.** They are never found
 
 ## Related people
 
@@ -170,3 +212,6 @@ over the killing of the infants at Bethlehem. See
 - [[Remembrance]]
 - [[Names and Naming]]
 - [[Prayer]]
+- [[Idolatry]]
+- [[Wealth and Possessions]]
+- [[Oaths and Vows]]

@@ -6,7 +6,7 @@ Links resolve once a book's page is created — unresolved links below are books
 ## Old Testament
 
 ### Law
-- [ ] [[Genesis]] — in-progress (39 / 59 pericopes)
+- [ ] [[Genesis]] — in-progress (40 / 59 pericopes)
 - [ ] [[Exodus]] — not-started
 - [ ] [[Leviticus]] — not-started
 - [ ] [[Numbers]] — not-started

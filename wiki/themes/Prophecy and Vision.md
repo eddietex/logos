@@ -163,6 +163,13 @@ happens.
   Abimelech at 20:3, a dream to Laban himself at 31:24, an omen here — and the covenant line's own
   dreams are given, not solicited. See
   [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
+- [[Jacob's Flight from Laban]] — Genesis 31:10–13, 24; **two dreams, and neither is interpreted.**
+  The first is recalled inside a speech: the angel of God shows Jacob the streaked goats and says *"I
+  am the God of Bethel"* — **a dream that arrives at the reader only through a character's account of
+  it, given as an argument.** The second is narrated: *"God came to Laban, the Syrian, in a dream of
+  the night"* (31:24), **the same formula used of Abimelech at 20:3 and nowhere else in the Bible.**
+  Both are instructions rather than symbols; **nobody in Genesis 31 needs an interpreter**, which is
+  the opposite of everything the Joseph cycle will do with dreams
 
 ## Related themes
 

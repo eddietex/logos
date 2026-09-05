@@ -119,6 +119,13 @@ the promise is repeatedly mistaken for.
   removed it
 - [[Zophar's Second Speech]] — the wisdom tradition's nightmare: *"That for which he labored he shall
   restore, and shall not swallow it down"*
+- [[Jacob's Flight from Laban]] — Genesis 31:1, 14–16, 18, 42; **the herd argued over by four
+  parties.** Laban's sons call it *"all this ***glory***"* (***kābôd***, the heaviest noun in the
+  theological vocabulary, used of livestock); Jacob calls it what *"God has taken away from your
+  father"*; **the daughters call it their consumed dowry** — *"he has sold us, and has also used up
+  our money"* — and reassign it to themselves and their children; and Laban's last word on it is
+  *"the flocks are my flocks… and all that you see is mine."* **Four claims and no adjudication.**
+  The chapter's own summary of the alternative is one adverb: ***rêqām***, *empty* (31:42)
 
 ## Related themes
 

@@ -967,6 +967,48 @@ livestock and given them to me"* (31:9). **The same six years, told twice, with 
 one telling and absent from the other** — and the wiki reconciles them nowhere. See
 [[Two Explanations for One Flock - The Rods and the Dream]].
 
+### He speaks three times, and all three are travel instructions — Genesis 31:1–55
+
+**The silence breaks after six years, and everything he says is about somebody moving.**
+
+*"Yahweh said to Jacob, 'Return to the land of your fathers, and to your relatives, **and I will be
+with you**'"* (31:3). **The first divine speech to this man since the stairway at Bethel**, and its
+last clause is Bethel's own (28:15). **God is not making a new promise; he is calling in an old one**,
+at the moment leaving becomes dangerous — and **six years after Jacob asked a man for the same thing
+and was refused** (30:25). See [[I Will Be With You - The Promise of Presence]].
+
+**He appears a second time inside reported speech**, as ***the angel of God*** in a dream Jacob
+recalls: *"I am the God of Bethel, where you anointed a pillar, where you vowed a vow to me"*
+(31:11–13). **Two things about it are unique in Scripture.** The first is the title: **God identifies
+himself by a place, and he does it nowhere else** — not *the God of your father*, not *God Almighty*,
+but a hillside in Canaan and two things a man did on it. The second is that **the vow of 28:20–22 is
+quoted back to the man who made it, by God, who was never offered it as a bargain and is now treating
+it as one.** And the seam runs through the middle of the sentence: **the angel of God speaks, and by
+31:13 the speaker is saying *you vowed a vow to me*.** See [[The Angel of Yahweh]] and
+[[Jacob's Ladder at Bethel]].
+
+**The third is spoken to a foreigner, in the night, on a road.** *"God came to Laban, the Syrian, in a
+dream of the night, and said to him, 'Be careful that you don't speak to Jacob either good or bad'"*
+(31:24). **The formula is almost word for word the one used of [[Abimelech (of Abraham's time)]] at
+20:3 and occurs nowhere else in the Bible** — and the difference between the two scenes is the point.
+**Abimelech is told he is innocent and was kept from sin; Laban is told nothing of the kind.** He is
+told to keep his mouth shut, and his own next speech concedes that he had the power and the intention
+to do harm (31:29). See [[Warned in a Dream - Abimelech and Laban]].
+
+**His characteristic verb in this chapter is *see*.** *"I have **seen** all that Laban does to you"*
+(31:12); *"God has **seen** my affliction and the labor of my hands"* (31:42), where ***ʿŏnî*** is the
+noun of Exodus 3:7. **Both sentences are about a person being used**, and the second is spoken by a
+man about his own employer. See [[Seeing and Being Seen]] and
+[[Served, Released, Pursued - The Laban Years as Proto-Exodus]].
+
+**And he is named four ways in one chapter, none of them by himself except at Bethel**: *the God of my
+father*, *the God of Abraham*, ***the fear of Isaac*** — a title found only here and at 31:53 —
+and, in Laban's mouth, ***the God of Nahor***, **paired with Abraham's under a plural verb**
+(***yišpəṭû***, 31:53; the Samaritan text and the Septuagint read a singular, the Masoretic Text does
+not). **Genesis prints the plural and explains nothing.** **The same chapter has Laban call a set of
+stolen figurines ***my gods*** (31:30), in the identical noun.** See [[The Names of God]] and
+[[Idolatry]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -1144,6 +1186,15 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Named three times in nineteen verses and **the subject of no verb in any of them**: credited by an
   Aramean who divined it and by the man it works through, in a wage negotiation neither of them
   brings him into — Genesis 30:27, 30, [[Jacob's Flocks]]
+- Speaks to Jacob for the first time in six years, and calls in Bethel's own clause: *"Return to the
+  land of your fathers… and I will be with you"* — Genesis 31:3, [[Jacob's Flight from Laban]]
+- Recalled inside a dream as ***the angel of God***, and then as ***the God of Bethel*** — **the only
+  place-name title he gives himself in Scripture** — quoting a man's own vow back to him — Genesis
+  31:11–13
+- Stops a pursuing Aramean in a night dream, in the formula used of Abimelech at 20:3 and nowhere else
+  — Genesis 31:24, [[Warned in a Dream - Abimelech and Laban]]
+- Invoked under four titles in one chapter, including ***the fear of Isaac***, found only here, and
+  ***the God of Nahor***, paired with Abraham's under a plural verb — Genesis 31:42, 53
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -1212,6 +1263,15 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   passage** — *the man burst out exceedingly* — **with nobody in it noticing.** One chapter later
   Jacob will attribute the whole six years to an angel and to God, and the book never reconciles the
   two accounts
+- [[Jacob's Flight from Laban]] — Genesis 31:1–55; **he speaks three times and every one is an
+  instruction about movement.** He commands the return in Bethel's own clause; he is recalled inside
+  a dream as *the angel of God* and then as ***the God of Bethel*** — **the only place-name title he
+  takes anywhere in Scripture** — quoting the vow of 28:20–22 back to the man who swore it; and **he
+  stops a pursuing Aramean at night in the formula used of Abimelech at 20:3 and nowhere else.** His
+  verb in the chapter is ***see***, twice, both times of a person being used. He is invoked under four
+  titles, one of which — ***the fear of Isaac*** — occurs only here, and one of which is paired with
+  ***the God of Nahor*** under a plural verb. **In the same chapter a man calls a set of stolen
+  figurines *my gods*, in the identical noun, and Genesis says nothing**
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

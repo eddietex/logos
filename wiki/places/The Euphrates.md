@@ -55,6 +55,12 @@ and at the sixth bowl, *"that the way might be prepared for the kings that come 
   without a description
 - [[The Covenant Between the Pieces]] — Genesis 15:18; the northern boundary of the land sworn to
   Abram, and the first border the promise is ever given
+- [[Jacob's Flight from Laban]] — Genesis 31:21; ***"he rose up, passed over the River"*** — the only
+  time in Genesis anyone is said to cross it, and **the definite noun with no qualifier is enough to
+  name it.** It is Terah's journey reversed by a great-grandson going the other way, and **the
+  geography does not work as a week**: the crossing and the arrival in [[Gilead]] are some four
+  hundred miles apart, with a three-day head start and a seven-day pursuit. The wiki states the
+  difficulty and does not resolve it
 
 ## Related places
 
@@ -72,6 +78,8 @@ and at the sixth bowl, *"that the way might be prepared for the kings that come 
 - Named as the fourth river out of Eden — Genesis 2:14, [[The Garden of Eden]]
 - Made the northern boundary of the land promised to Abram's offspring — Genesis 15:18,
   [[The Covenant Between the Pieces]]
+- Crossed westward by Jacob, fleeing Laban with his household and herds — Genesis 31:21,
+  [[Jacob's Flight from Laban]]
 - The boundary formula repeated to Israel — Exodus 23:31; Deuteronomy 1:7, 11:24; Joshua 1:4
 - David strikes Hadadezer *"as he went to recover his dominion at the River"* — 2 Samuel 8:3
 - Solomon's rule reaches from it to the border of Egypt — 1 Kings 4:21, 24

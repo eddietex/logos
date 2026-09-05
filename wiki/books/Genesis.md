@@ -350,7 +350,34 @@ even fratricidal betrayal into rescue (Joseph).
   the promise's own verb**: *"you will **spread abroad**"* (28:14) becomes ***the man burst out
   exceedingly*** (30:43), **applied to livestock, with nobody in the passage noticing.** And Genesis
   will tell the same six years over again one chapter later, as an angel and a dream, and never
-  reconcile the two accounts.
+  reconcile the two accounts. Which is what *[[Jacob's Flight from Laban]]* does, in **the longest
+  pericope in the book so far** — fifty-five verses that close the twenty years and separate the two
+  branches of Terah's family for good. **Its keyword is *steal*:** ***gānab*** runs **seven times**
+  and its objects keep changing — [[Rachel]] steals her father's ***teraphim***, **the first
+  household gods in the Bible** (31:19); Jacob ***steals Laban's heart*** (31:20, 26); Laban demands
+  *"why have you stolen my gods?"*; and Jacob's own defence counts the animals *"stolen by day or
+  stolen by night"* that he paid for himself. **Nobody is innocent of the verb and nobody is charged
+  with it**, and the one real theft is never discovered. **God speaks for the first time since
+  Bethel** — *"return to the land of your fathers… **and I will be with you**"*, 28:15's own clause
+  called in six years after Jacob asked a man for the same thing and was refused — **and identifies
+  himself by a place**, *"I am the God of Bethel, where you anointed a pillar, where you vowed a vow
+  to me"* (31:13), **which he does nowhere else in Scripture.** Then **[[Rachel]] and [[Leah]] speak
+  with one voice for the only time in Genesis**, and the subject is not children: *"Aren't we
+  considered as **foreigners** by him? For he has **sold** us, and has also used up our money"* —
+  **the harshest verdict anyone passes on [[Laban]], delivered by his daughters**, and set eleven
+  verses from his own *"you carried away my daughters like captives of the sword"*, **with the
+  narrator adjudicating neither.** The flight is stopped by **a night dream to a foreigner** in the
+  formula used of Abimelech at 20:3 and nowhere else (31:24), and the search that follows is farce:
+  four tents, a camel saddle, and a woman who cannot rise. **What Jacob answers with is a lawsuit** —
+  ***rîb***, witnesses empanelled — and **the longest speech he makes in the book**: twenty years,
+  fourteen for two wives and six for a flock, drought, frost, no sleep, and **a shepherd's liability
+  the law of Exodus 22 will refuse to impose.** ***"Surely now you would have sent me away
+  ***empty***"*** and ***"God has seen my affliction"*** are **two words of Exodus 3 in a private
+  complaint about an employer.** It ends in the fullest peacemaking procedure in Genesis — a heap of
+  stones named ***Jegar Sahadutha*** in Aramaic and ***Galeed*** in Hebrew, **the only Aramaic in the
+  Torah**; a *Mizpah* clause that is a surveillance agreement rather than a blessing; a boundary
+  sworn on two incompatible titles for God, one of them with **a plural verb**; **the first *zebaḥ*
+  in Scripture and the first covenant meal**; and a man kissing his grandchildren goodbye.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -406,7 +433,7 @@ merge, or reorder them freely.
 - [x] [[Jacob, Leah, and Rachel]] — Genesis 29:1–30
 - [x] [[The Birth of Jacob's Children]] — Genesis 29:31–30:24
 - [x] [[Jacob's Flocks]] — Genesis 30:25–43
-- [ ] Jacob's Flight from Laban — Genesis 31:1–55
+- [x] [[Jacob's Flight from Laban]] — Genesis 31:1–55
 - [ ] Wrestling at the Jabbok — Genesis 32:1–32
 - [ ] The Reconciliation with Esau — Genesis 33:1–20
 - [ ] Dinah and Shechem — Genesis 34:1–31
@@ -474,6 +501,8 @@ merge, or reorder them freely.
 - [[Envy]]
 - [[Names and Naming]]
 - [[Wealth and Possessions]]
+- [[Idolatry]]
+- [[Language and Speech]]
 
 ## Key people
 
@@ -565,3 +594,5 @@ merge, or reorder them freely.
 - [[Esek]]
 - [[Sitnah]]
 - [[Rehoboth]]
+- [[Gilead]]
+- [[Galeed]]

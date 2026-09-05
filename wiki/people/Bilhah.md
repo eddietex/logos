@@ -56,6 +56,8 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 - Given by Rachel to [[Jacob]] *as wife*; *"that she may bear on my knees"* — Genesis 30:3–4,
   [[The Birth of Jacob's Children]]
 - Bears [[Dan (person)]] and [[Naphtali]], named by Rachel — Genesis 30:5–8
+- Her tent searched for the missing household gods; she is named only as one of *"the two female
+  servants"* — Genesis 31:33, [[Jacob's Flight from Laban]]
 - Reuben lies with her; Israel hears of it — Genesis 35:22 *(not yet ingested)*
 - Named in Jacob's deathbed disinheriting of Reuben — Genesis 49:3–4 *(not yet ingested)*
 
@@ -68,6 +70,10 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
   precedent Genesis 16 set and nobody cites. She bears two of the twelve tribes and **her mistress names
   them both**, as verdicts in a dispute with her own sister; **Bilhah is not recorded saying anything at
   either birth**
+- [[Jacob's Flight from Laban]] — Genesis 31:33; **half a phrase.** Laban searches four tents and the
+  third is *"the tent of the two female servants"* — **she and [[Zilpah]] share one, and neither is
+  named.** They are moved out of Paddan Aram and searched for stolen property without a word spoken to
+  them or by them
 
 ## Related people
 

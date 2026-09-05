@@ -10,9 +10,11 @@ tags: [connection]
 - **Genesis 30:37–43** — peeled rods in the watering-troughs, selective breeding, and *"the man
   increased exceedingly"* — [[Jacob's Flocks]]
 - **Genesis 31:4–13** — Jacob to Leah and Rachel: *"God has taken away your father's livestock and
-  given them to me"*, and the angel in the dream with the streaked goats *(not yet ingested)*
+  given them to me"*, and the angel in the dream with the streaked goats —
+  [[Jacob's Flight from Laban]]
 - **Genesis 31:38–42** — Jacob to Laban: twenty years, ten changes of wages, and *"unless the God of
-  my father… had been with me, surely now you would have sent me away empty"* *(not yet ingested)*
+  my father… had been with me, surely now you would have sent me away empty"* —
+  [[Jacob's Flight from Laban]]
 - **Genesis 45:5–8; 50:20** — the same double account in the next generation: *"you sold me"* and
   *"God sent me"* *(not yet ingested)*
 

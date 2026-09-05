@@ -94,6 +94,36 @@ records no prayer from her** — as it records none behind *"Yahweh has heard th
 Her last child is [[Dinah]], in one clause with no etymology and no speech — **the only birth in the
 passage without a gloss**, in the chapter that supplies eleven.
 
+### In this pericope — Genesis 31:1–55
+
+**She is given a voice, and she has to share it.**
+
+***"Rachel and Leah answered him"*** (31:14). **One verb, two subjects, and it is the only time in
+Genesis the sisters speak as a unit.** Every word Leah has said in the book until now has been a
+naming speech or a line in the quarrel with [[Rachel]] — *"God has given me my hire"*, *"is it a small
+matter that you have taken away my husband?"* — **and here, for three verses, the two of them agree
+about their father and say so in one sentence.**
+
+*"Is there yet any portion or inheritance for us in our father's house? Aren't we considered as
+foreigners by him? For he has sold us, and has also used up our money"* (31:14–15). ***Ḥēleq
+wənaḥălâ*** is the legal pair for a share in an estate; ***nokriyyôt*** is the Bible's word for an
+alien with no claim; ***mākar*** is the verb for selling a slave. **It is the harshest verdict passed
+on [[Laban]] anywhere in Scripture, and the two women who pass it are the only lifelong witnesses to
+his household the book ever puts on the record.** See [[Wealth and Possessions]] and
+[[Slavery and Servitude]].
+
+**What they are describing is the *mōhar*.** Jacob paid fourteen years of labour rather than silver
+(29:18, 27), **so the bride-price that should have secured them was consumed as a working asset** —
+which is exactly what Genesis 29–30 narrates. **The charge is precise and the narrator does not
+dispute it.**
+
+*"Now then, whatever God has said to you, do."* **The last thing she says in Genesis**, and it is a
+ruling rather than a submission: **they have just established that the herd is their inheritance, and
+therefore that leaving with it is not theft.**
+
+**Her tent is searched third of four** (31:33), between Jacob's and the slaves', and she is not named
+again in the chapter.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
@@ -121,6 +151,9 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   you"* — Genesis 30:14–16
 - *"God listened to Leah"*; [[Issachar]] and [[Zebulun]] — Genesis 30:17–20
 - Bears [[Dinah]], the one birth in the passage with no etymology — Genesis 30:21
+- Answers Jacob in the field with her sister, in one voice: *"he has sold us, and has also used up our
+  money"* — Genesis 31:14–16, [[Jacob's Flight from Laban]]
+- Her tent searched third of four for the missing household gods — Genesis 31:33
 - Placed ahead of Rachel, behind the slaves, at the meeting with Esau — Genesis 33:1–2 *(not yet
   ingested)*
 - Buried at Machpelah; *"there I buried Leah"* — Genesis 49:31 *(not yet ingested)*
@@ -137,6 +170,13 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   argument with a husband who is present for none of it; she matches her sister slave for slave without
   being barren, accuses her of theft, sells her a night, and is heard by God twice with no prayer
   recorded either time
+- [[Jacob's Flight from Laban]] — Genesis 31:14–16, 33; **the only time in Genesis she and her sister
+  speak with one voice**, and the only thing she says in the book that is not about a child or a
+  husband's affection. *"Is there yet any portion or inheritance for us in our father's house? …
+  he has sold us, and has also used up our money."* **It is the harshest sentence anyone in Scripture
+  passes on Laban**, it is about a consumed bride-price, and the narrator lets it stand against her
+  father's *"you carried away my daughters like captives of the sword"* eleven verses later without
+  adjudicating between them
 
 ## Related people
 
@@ -165,3 +205,5 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - [[Names and Naming]]
 - [[Prayer]]
 - [[Barrenness]]
+- [[Wealth and Possessions]]
+- [[Land and Sojourning]]

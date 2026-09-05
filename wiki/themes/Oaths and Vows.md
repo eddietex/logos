@@ -137,6 +137,14 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   *"and Yahweh will be my God"* inside the condition, the KJV and others begin the promise there, and
   the wiki adopts neither. **Genesis 31:13 has God cite the vow back to him**, and 35:1 sends him to
   keep it
+- [[Jacob's Flight from Laban]] — Genesis 31:13, 32, 44–54; **four oaths, and a heap of stones
+  appointed as the court.** God quotes the Bethel *neder* back to the man who swore it — *"where you
+  vowed a vow to me"* (31:13), **the only time in Scripture a vow is recited by the one it was made
+  to.** Jacob swears death on an unknown thief who is his own wife, in a sentence the narrator marks
+  as spoken in ignorance (31:32). And the boundary covenant is sworn twice over, on two
+  incompatible formulas — Laban's *"the God of Abraham, and the God of Nahor… judge between us"*
+  against Jacob's *"the fear of his father, Isaac"* (31:53). ***ʿĒd***, *witness*, occurs **five
+  times in eight verses**, because there is no king, no priest, and no third party on the mountain
 
 ## Related themes
 

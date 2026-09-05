@@ -117,6 +117,13 @@ the seventh day a blessing. See [[Sabbath]].
   one instead, and attaches an audit clause to it — *"so my righteousness will answer for me"*. **The
   employer honours the terms and hollows them out the same day**, and the worker out-engineers him.
   See [[Wealth and Possessions]]
+- [[Jacob's Flight from Laban]] — Genesis 31:38–41; **the fullest account of a labour contract in
+  Scripture, delivered as a complaint.** Twenty years, stated twice; fourteen for two wives and six
+  for a flock; wages changed ten times; no miscarriages in the herd and no rams eaten; drought by
+  day, frost by night, and no sleep. **And one clause of technical liability**: *"that which was torn
+  of animals, I didn't bring to you. I bore its loss"* — **the loss the law of Exodus 22:13 says a
+  keeper does not have to bear.** See
+  [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]]
 
 ## Related themes
 

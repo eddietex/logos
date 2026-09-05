@@ -133,6 +133,12 @@ five times**, and each is a covenant hinge.
 - 1 Samuel 25:25 — *"as his name is, so is he"*
 - Matthew 1:21; 16:18; Revelation 2:17; 3:12 — the formula kept, and a name promised that argues with
   nobody
+- [[Jacob's Flight from Laban]] — Genesis 31:47–49; **one heap, three names, two languages, and an
+  etiology printed for each.** ***Jegar Sahadutha*** (Aramaic) and ***Galeed*** (Hebrew) both mean
+  *heap of witness*; ***Mizpah***, *watchpost*, is explained by the clause that follows it — *"Yahweh
+  ***watch*** between me and you"*, ***yiṣep***. **And *galʿēd* is one vowel from *gilʿād*, the region
+  they are standing in**, which Genesis has already named twice before the heap exists. **The book
+  supplies the wordplay and makes no claim from it**
 
 ## Related themes
 

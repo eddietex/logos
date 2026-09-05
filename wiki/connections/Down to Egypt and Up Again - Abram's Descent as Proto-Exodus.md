@@ -146,6 +146,15 @@ pursues** (31:23), and **God intervenes on the road to stop him** (31:24). What 
 in outline — go down, be afflicted, be enriched, be sent away — the Laban years give **in full,
 outside Egypt, with a named term of service and a wage dispute attached.**
 
+**And the second run has two shared words the first one does not.** ***Rêqām***, *empty* — *"surely
+now you would have sent me away **empty**"* (31:42) against *"when you go, you shall not go
+**empty**"* (Exodus 3:21) — and ***ʿŏnî***, affliction: *"God has **seen my affliction** and the labor
+of my hands"* (31:42) against *"I have surely **seen the affliction** of my people"* (Exodus 3:7).
+**Abram's descent supplies the plot and almost none of the vocabulary; the Laban years supply the
+vocabulary.** The full correspondence, verb by verb, is set out on
+[[Served, Released, Pursued - The Laban Years as Proto-Exodus]], which this page defers to for the
+second rehearsal.
+
 **The wiki keeps the two rehearsals distinct rather than merging them.** Abram's is the plot of the
 Exodus; Jacob's is its labour relations. **And Deuteronomy 26:5 puts the second one, not the first,
 into Israel's own confession**: *"A Syrian ready to perish was my father, and he went down into

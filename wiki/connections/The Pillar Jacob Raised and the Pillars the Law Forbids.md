@@ -8,7 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 28:18, 22 — the stone at Bethel set up and anointed
-- Genesis 31:45–52 — the pillar and the heap at Galeed, as a boundary witness
+- Genesis 31:45–52 — the pillar and the heap at Galeed, as a boundary witness —
+  [[Jacob's Flight from Laban]], [[Galeed]]
 - Genesis 35:14, 20 — the pillar at Bethel again, with a drink offering; and the one over Rachel's
   grave
 - Exodus 24:4 — Moses builds an altar and **twelve pillars** at Sinai

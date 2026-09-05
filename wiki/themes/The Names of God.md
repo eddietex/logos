@@ -161,6 +161,15 @@ everlasting possession, by treaty with its current occupant.
   nothing.** A fourth-name curiosity sits inside it: 30:8's *naptûlê **ʾĕlōhîm*** is rendered *"mighty
   wrestlings"* by the WEB, **translating the divine name as an intensifier** — see
   [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]]
+- [[Jacob's Flight from Laban]] — Genesis 31:13, 29, 42, 53; **four titles in one chapter, and two of
+  them occur nowhere else.** ***"I am the God of Bethel"*** (31:13) is **the only place-name title God
+  gives himself in Scripture**. ***The fear of Isaac***, ***paḥad yiṣḥāq*** (31:42, 53), occurs twice
+  and both times here; *dread* is its ordinary sense, and the reading against Arabic *faḫd*, clan,
+  giving *the Kinsman of Isaac*, is a proposal the wiki records and does not adopt. **Laban offers
+  *"the God of Abraham, and the God of Nahor, the God of their father"* under a plural verb**
+  (***yišpəṭû***; singular in the Samaritan text and the Septuagint), **and Jacob answers with a
+  title naming his own line only.** In the same chapter Laban calls a set of stolen figurines ***my
+  gods*** (31:30), in the identical noun, and Genesis says nothing
 
 ## Related themes
 

@@ -130,6 +130,13 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   been fear **produced by** an act (Abraham at 22:12) or fear **claimed absent** in a foreign city
   (20:11); here it is simple proximity — nothing has been asked of him and nothing threatened, and
   the reaction to being addressed at all is dread
+- [[Jacob's Flight from Laban]] — Genesis 31:42, 53; ***paḥad yiṣḥāq***, ***the fear of Isaac*** —
+  **a divine title occurring twice in Scripture and both times in this chapter**, and **the only name
+  for God in the Bible built on a patriarch's fear rather than on a covenant, a place, or an
+  attribute.** Jacob swears by it in preference to the joint formula Laban has just offered, which
+  would have set *the God of Nahor* beside the God of Abraham. **The reading against Arabic *faḫd*,
+  thigh and hence clan — *the Kinsman of Isaac* — is a proposal the wiki records and does not
+  adopt.** *"Because I was afraid"* (31:31) is also, by Jacob's own account, why he ran
 
 ## Related themes
 

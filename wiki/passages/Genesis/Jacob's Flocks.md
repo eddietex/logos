@@ -476,16 +476,13 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
   cuts**, against the oaks and tamarisks the patriarchs camp and pray under.
 - [[The Betrothal at the Well]] — the trough as the family's place of meeting, now a breeding pen.
 - [[The Wells of Abraham and the Wells of Isaac]] — water and property, one generation earlier.
-- Genesis 31:1–2 — Laban's sons complain and Laban's face changes: the sequel this passage sets up
-  *(not yet ingested)*.
-- Genesis 31:3 — *"Return to the land of your fathers"*, the command that arrives six years after
-  Jacob asked *(not yet ingested)*.
-- Genesis 31:7, 41 — *"changed my wages ten times"*, and *"six years for your flock"*, Jacob's own
-  accounting of this pericope *(not yet ingested)*.
-- Genesis 31:9–12 — the angel, the dream, and the streaked goats: the passage's other explanation
-  *(not yet ingested)*.
-- Genesis 31:19, 30–35 — Laban's *teraphim*, and the household that divines *(not yet ingested)*.
-- Genesis 31:23 — the seven-day pursuit across the three days' journey of 30:36 *(not yet ingested)*.
+- [[Jacob's Flight from Laban]] — Genesis 31:1–55; the sequel this passage sets up, and the chapter
+  that re-narrates its six years. Laban's sons complain and Laban's face changes (31:1–2); *"return
+  to the land of your fathers"* arrives six years after Jacob asked (31:3); the wages *"changed ten
+  times"* and the *"six years for your flock"* are Jacob's own accounting of this pericope (31:7,
+  41); the angel, the dream and the streaked goats are its other explanation (31:9–12); the household
+  that divines turns out to keep *teraphim* (31:19, 30–35); and the seven-day pursuit crosses the
+  three days' journey of 30:36 (31:23).
 - Genesis 32:5, 13–21 — the flocks of this passage counted out as a present for Esau *(not yet
   ingested)*.
 - Genesis 39:5 — *"Yahweh blessed the Egyptian's house for Joseph's sake"* *(not yet ingested)*.

@@ -5447,3 +5447,159 @@ book's only other *nāḥaš*), and 47:6, 27 (the family settled in Goshen).
 
 **Quotation check.** Every WEB verse quoted on the passage page was compared against
 `raw/bible/Genesis.md` character by character; all nineteen match verbatim.
+
+## [2026-09-05] ingest | Genesis 31.1-55 — Jacob's Flight from Laban
+
+Unattended run (`/ingest auto`), no target argument. `wiki/books/index.md` gave **Genesis** as the
+first `in-progress` book and its page gave **Jacob's Flight from Laban — Genesis 31:1–55** as the
+first unchecked box. `raw/bible/Genesis.md` was already present, so `scripts/fetch-book.sh` was not
+run. Step 2's discussion is written into the passage page rather than spoken.
+
+**The longest pericope ingested so far** — fifty-five verses, and the one that closes the twenty
+Laban years and separates the two branches of Terah's family permanently.
+
+### Judgment calls made in this pass
+
+- **The boundary was used as drawn, and kept whole.** 31:1 opens on new speakers and 31:55 closes on
+  Laban leaving the narrative for good. **Splits at 31:24 and at 31:36 were considered and
+  rejected**: the pursuit, the search, the apologia and the treaty are one continuous scene on one
+  mountain over two days, and the *gānab* chain runs across all of them. At fifty-five verses it is
+  long, and dividing it would have separated the theft from the search and the complaint from the
+  covenant. **The remaining boxes were left as drawn.**
+- **The title was kept from the plan.** Alternatives rejected: *The Covenant at Mizpah* (names only
+  the last twelve verses, and the popular association of *Mizpah* would mislead), *Laban Overtakes
+  Jacob* (puts the pursuer in the subject position for a chapter he loses), *The Stolen Gods* (names
+  the sub-plot the text never resolves). No other book has a passage page by this title.
+- **The English versification was followed and the difference recorded.** **Genesis 31:55 in the
+  English tradition is Genesis 32:1 in the Hebrew Bible**, so the two traditions put the chapter
+  break on opposite sides of Laban's farewell. The wiki follows the WEB throughout; this is noted on
+  the passage page because it moves the pericope's end by one verse.
+- **Two place pages were judged warranted.** [[Gilead]] (the chapter's whole stage, and a region the
+  rest of the Bible returns to constantly) and [[Galeed]] (the heap). **They were kept separate on
+  purpose**: *Galeed*, *Jegar Sahadutha* and *Mizpah* all name the same pile of stones and none of
+  them names the region, and *galʿēd* being one vowel from *gilʿād* is a pun Genesis supplies without
+  claiming the region was named from the heap — it uses *Gilead* twice (31:21, 23) before the heap
+  exists.
+- **One theme page was judged warranted.** [[Idolatry]] — the *teraphim* are the Bible's first
+  household gods, the wiki had no page for the subject, Laban's *"my gods"* and the plural verb at
+  31:53 belong somewhere, and Genesis 35:2–4 will need it. **The page's own point is that Genesis
+  says almost nothing on the subject**: no commandment, no denunciation, nobody condemned.
+- **Six connection pages were created.** [[Served, Released, Pursued - The Laban Years as Proto-Exodus]]
+  — **deferred from the previous pass on the explicit ground that the shape only completes in Genesis
+  31**, and it does: the pursuit, the intervention on the road, ***rêqām*** against Exodus 3:21, and
+  ***ʿŏnî*** against Exodus 3:7. Then
+  [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]],
+  [[The Teraphim - Household Gods in Genesis and After]],
+  [[Jegar Sahadutha - The Only Aramaic in the Torah]], [[Warned in a Dream - Abimelech and Laban]],
+  and [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]].
+- **No page was created for Laban's sons**, who speak once, are never named, and stay carried on
+  [[Laban]] as they have been since 30:35. **No page for *the fear of Isaac*** — the title occurs
+  twice in one chapter and the material sits on [[The Names of God]] and [[The Fear of God]]. **No
+  connection page for the *gānab* chain**, which is confined to this pericope and is treated on the
+  passage page.
+
+### Things flagged rather than resolved
+
+- **31:15 against 31:26.** The daughters say *"he has sold us, and has also used up our money"*; their
+  father says Jacob *"carried away my daughters like captives of the sword."* **Both are direct
+  speech, both are self-interested, and the narrator supports neither.** Recorded as a contradiction
+  on the passage page and on [[Laban]], [[Rachel]] and [[Leah]].
+- **The ten changed wages are testimony, not narration.** Genesis 30 shows one wage agreement and no
+  changes to it; the ten appear twice (31:7, 41), both times in Jacob's mouth in an argument, and
+  Laban never confirms or denies them.
+- ***Paḥad yiṣḥāq***. *The fear of Isaac* (31:42, 53) occurs nowhere else in Scripture. The natural
+  reading is *dread*; the alternative built on Arabic *faḫd* (thigh, hence clan) giving *the Kinsman
+  of Isaac* is **recorded as a proposal and not adopted**.
+- **The plural verb at 31:53.** ***Yišpəṭû*** is plural in the Masoretic Text, singular in the
+  Samaritan Pentateuch and the Septuagint. Both standing explanations — two family gods, or
+  grammatical agreement with a compound subject — are given, and **neither is adopted**.
+- **Rachel's *teraphim* have no stated motive.** Three explanations are standing (value, an
+  inheritance claim on the Nuzi reading, protection); **all three are listed and none adopted**, and
+  the page notes that Genesis supplies no motive for her at all.
+- **Rachel's death is not connected to 31:32 here.** The old and widespread reading that Jacob's
+  *"anyone you find your gods with shall not live"* is fulfilled at 35:16–19 is recorded **as a
+  reading**; Genesis draws no line between the verses. To be revisited when Genesis 35 is ingested.
+- **The geography does not work as a week.** The Euphrates to Gilead is some four hundred miles, and
+  31:21–23 gives a three-day head start and a seven-day pursuit. **The difficulty is stated and not
+  resolved** on the passage page and on [[The Euphrates]].
+- **31:35 and Leviticus 15:19–23.** The resonance — a menstruating woman sitting on household gods —
+  is stated and explicitly **not** made the point, since the text's own point is that they were not
+  found.
+
+### Pages touched
+
+**Created (10).** `wiki/passages/Genesis/Jacob's Flight from Laban.md`; places [[Gilead]] and
+[[Galeed]]; theme [[Idolatry]]; connections
+[[Served, Released, Pursued - The Laban Years as Proto-Exodus]],
+[[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]],
+[[The Teraphim - Household Gods in Genesis and After]],
+[[Jegar Sahadutha - The Only Aramaic in the Torah]], [[Warned in a Dream - Abimelech and Laban]],
+[[The Mizpah Benediction - Genesis 31.49 and How It Is Read]].
+
+**Revised (36).** People (10): [[Jacob]] (new in-pericope section, nine timeline entries, an
+appearance note, five themes), [[Laban]] (a full in-pericope section replacing the *what is still
+ahead* stub — **he is finished in Genesis as of this chapter** — twelve timeline entries, an
+appearance note, six themes), [[Rachel]] and [[Leah]] (new in-pericope sections on the joint speech
+and, for Rachel, the theft and the search; timeline and appearance entries; themes), [[God]] (a new
+numbered section on the three interventions, four timeline entries, an appearance note),
+[[The Angel of Yahweh]] (a new section on 31:11–13 as the plainest alternation in the book),
+[[Isaac]] (an *off-stage* section on the destination and on *paḥad yiṣḥāq*, two timeline entries),
+[[Nahor (brother of Abram)]] (the oath, the plural verb, three themes), [[Zilpah]] and [[Bilhah]]
+(the unnamed shared tent at 31:33). Places (4): [[Bethel]], [[The Euphrates]], [[Aram Naharaim]] and
+[[Canaan]], each with an appearance note and events entries. Themes (19): [[Deception]],
+[[Oaths and Vows]], [[Covenant]], [[Work]], [[Wealth and Possessions]], [[Marriage]],
+[[Slavery and Servitude]], [[Land and Sojourning]], [[The Names of God]], [[Prophecy and Vision]],
+[[Seeing and Being Seen]], [[Suffering]], [[Strife and Peacemaking]], [[The Nations]],
+[[Language and Speech]], [[The Fear of God]], [[Envy]], [[Names and Naming]],
+[[Sacrifice and Offering]]. Connections (6, plus the stale-marker fixes below):
+[[Two Explanations for One Flock - The Rods and the Dream]] (**both halves now ingested**),
+[[Divination in Genesis - Laban's Nahash and Joseph's Cup]], [[Sacrifice Before the Priesthood]]
+(31:54 promoted from a forward reference to the first *zebaḥ* in Scripture),
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]],
+[[I Will Be With You - The Promise of Presence]],
+[[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] (a new paragraph deferring the
+second rehearsal to the new page), and
+[[The Younger Before the Firstborn - Jacob and Laban]] (a new closing bullet: the house rule is
+answered by the two daughters it was invoked over).
+
+**Stale forward references corrected.** Six `*(not yet ingested)*` markers pointing into Genesis 31
+were live before this pass and are now resolved — five in [[Jacob's Flocks]]' cross-references
+(collapsed into a single entry linking the new page), two in
+[[Two Explanations for One Flock - The Rods and the Dream]], one in
+[[Divination in Genesis - Laban's Nahash and Joseph's Cup]], one in
+[[Sacrifice Before the Priesthood]], and one in [[Strife and Peacemaking]] (split, so that Esau's
+embrace stays marked and Laban's heap does not).
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary, [[Idolatry]] and [[Language and Speech]] added to key themes, [[Gilead]] and [[Galeed]] to
+key places), `wiki/books/index.md` (**39 / 59 → 40 / 59**), ten rows extended in
+`wiki/people/index.md`, four extended and two new rows in `wiki/places/index.md`, nineteen extended
+and one new row in `wiki/themes/index.md`, six new rows in `wiki/connections/index.md`.
+`wiki/index.md` now reads **46 passages · 98 people · 50 places · 57 themes · 133 connections**,
+counted against what is on disk.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**, clean on the first run this pass. No wrapped links, no dangling
+targets; the expected baseline is **64** not-yet-started book pages, unchanged, since no new book
+page was created.
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather than
+wikilinks, so none is a finding: 32:1–2 (Mahanaim and the angels), 32:22–32 (the Jabbok and the new
+name), 33 (the meeting with Esau), 35:2–4 (the foreign gods buried under the oak at Shechem —
+**the one disposal of household gods Genesis records**), 35:16–20 (Rachel's death and the fourth
+pillar), 35:29 (Isaac's death), 37:28 (***mākar***, the verb the daughters use of themselves, used of
+Joseph), 42:7 (Joseph *made himself strange*, from the root of *nokriyyôt* at 31:15), and 46:1 (the
+next *zebaḥ*).
+
+**Quotation check.** Every WEB verse quoted on the passage page was compared against
+`raw/bible/Genesis.md` mechanically, block by block: **67 quoted verse-blocks, 0 mismatches.**
+
+**Note on branch state.** The session started on a **detached HEAD** again — `HEAD detached from
+refs/heads/main` — with local `main` twenty-nine commits behind at `ee8f435` and nothing uncommitted.
+`git fetch origin main` showed `origin/main` already at `ac712d9`, the previous run's commit, so that
+push had landed and only the local ref was stale. Handled as before: `main` was checked out and
+fast-forwarded onto HEAD after verifying it was an ancestor, and the ingest was committed on `main`.
+Nothing was stashed, dropped, or rewritten. **This has now been the standing condition for many
+consecutive runs** — the container checks the repo out detached rather than on `main` — and it has
+still cost nothing, because every previous push had in fact landed.

@@ -65,6 +65,11 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   12:8**, and this verse admits it: *"the name of the city was Luz at the first."* Six occurrences of
   ***māqôm*** in twelve verses, which is the Hebrew word for a sanctuary site, applied to a field
   before anybody knows it is one
+- [[Jacob's Flight from Laban]] — Genesis 31:13; **not visited, and turned into a name for God.**
+  ***"I am the God of Bethel, where you anointed a pillar, where you vowed a vow to me"*** —
+  **the only place-name title God takes anywhere in Scripture.** Six years and four hundred miles
+  from the hillside, the vow of 28:20–22 is quoted back to the man who swore it, by the one it was
+  sworn to, as the ground of the command to go home
 
 ## Related places
 
@@ -81,6 +86,8 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   [[Abram and Lot Separate]]
 - Jacob's dream of the stairway, the pillar and the oil, the vow, and the naming of the place —
   Genesis 28:10–22, [[Jacob's Ladder at Bethel]]
+- Invoked in absentia as a divine title — *"I am the God of Bethel"* — and the vow made here recalled
+  as the reason to leave Paddan Aram — Genesis 31:13, [[Jacob's Flight from Laban]]
 - Jacob builds the altar he was sent back for — Genesis 35:1–15 *(not yet ingested)*
 - Jeroboam sets up a golden calf — 1 Kings 12:28–29
 - Amos is expelled by Amaziah its priest — Amos 7:10–13

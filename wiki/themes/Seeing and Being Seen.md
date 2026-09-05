@@ -141,6 +141,12 @@ will finally go both ways.
   firstborn's name: ***Reuben***, *rəʾû bēn*, *see, a son*, glossed by his mother not with *bēn* but
   with *"Yahweh has looked at my affliction"* — **the same *ʿŏnî* Genesis 16:11 used of [[Hagar]] and
   Exodus 3:7 will use of a nation.** See [[Names and Naming]]
+- [[Jacob's Flight from Laban]] — Genesis 31:2, 12, 42; **the chapter's theology is a verb of
+  sight, twice, and both times about a person being used.** *"I have ***seen*** all that Laban does
+  to you"* (31:12), from the angel in the dream; and *"God has ***seen*** my affliction and the labor
+  of my hands"* (31:42), where ***ʿŏnî*** is the noun of Exodus 3:7. **The human seeing in the
+  chapter is the opposite**: Jacob *sees the expression on Laban's face* (31:2), and Laban gropes
+  through four tents and finds nothing (31:34–35)
 
 ## Related themes
 

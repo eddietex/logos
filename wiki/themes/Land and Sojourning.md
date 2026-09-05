@@ -224,6 +224,12 @@ where that starts, in a sentence about a family that got halfway.
   collect, six years before God commands the return at 31:3. **He is refused**, and the refusal is
   the theme's first case of a foreign household declining to release the family — the thing Exodus
   will be about. See [[Oaths and Vows]] and [[Blessed for His Sake - Laban's House and Potiphar's]]
+- [[Jacob's Flight from Laban]] — Genesis 31:3, 13, 18; **the return commanded, six years after it
+  was refused.** *"Return to the land of your fathers, and to your relatives, and I will be with
+  you"* (31:3) discharges the last clause of 28:15, and the destination the narrator states is not a
+  country but a man — *"to go to Isaac his father, to the land of Canaan"* (31:18). **The pericope
+  ends with the household still outside the land**, on a border in [[Gilead]] it has just sworn never
+  to recross
 
 ## Related themes
 

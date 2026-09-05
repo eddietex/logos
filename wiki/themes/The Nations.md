@@ -213,6 +213,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   only one of them who acts on it by refusing to let the carrier go**, which is what [[Egypt]] will
   do at national scale. See [[Blessed for His Sake - Laban's House and Potiphar's]] and
   [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
+- [[Jacob's Flight from Laban]] — Genesis 31:20, 24, 47, 53; **the branch that stayed behind is
+  finally shown to be another people.** Genesis calls Laban ***the Aramean*** twice more here, and
+  then **lets him speak Aramaic on the page** — *Jegar Sahadutha* against Jacob's *Galeed*, **the only
+  Aramaic in the Torah** — and lets him swear by *"the God of Nahor"* beside the God of Abraham under
+  a plural verb. **Language, gods, and a border, in twelve verses.** Deuteronomy 26:5 keeps the whole
+  of it in one line of Israel's creed: *"A Syrian ready to perish was my father"*
 
 ## Related themes
 

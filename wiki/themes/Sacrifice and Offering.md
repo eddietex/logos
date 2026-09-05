@@ -149,6 +149,13 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   exactly that: *"where you anointed a pillar."* The law will later hate standing stones outright
   (Deuteronomy 16:22), which is a tension this wiki records without resolving; see
   [[The Pillar Jacob Raised and the Pillars the Law Forbids]]
+- [[Jacob's Flight from Laban]] — Genesis 31:54; ***wayyizbaḥ yaʿăqōb zebaḥ*** — **the first *zebaḥ*
+  in Scripture**, noun and verb, and **the first covenant meal in the Bible.** Every offering Genesis
+  has recorded until now goes up whole — Noah's *ʿōlâ* (8:20), the ram at Moriah (22:13) — **and this
+  one is eaten**: *"called his relatives to eat bread. They ate bread, and stayed all night in the
+  mountain."* **There is no altar named, no priest, and no stated recipient**; what the rite ratifies
+  is an agreement between two men. **His grandfather's covenant was cut with halved animals and
+  fire** (15:9–17); **this one is dinner**
 
 ## Related themes
 
