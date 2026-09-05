@@ -115,6 +115,13 @@ the land.
   ended, with the king who caused the trouble travelling inland to ask for an oath. Isaac makes them
   a feast, does not contest their account of their own conduct, and *"they departed from him in
   peace"*
+- [[The Stolen Blessing]] — Genesis 27:1–45; **the household of 25:28 detonating.** Two parents who
+  each love a different son, a mother who acts entirely for one of them, a father who tries to bless
+  the other behind her back, and a brother who leaves the chapter planning to kill the one who is
+  left. **Nothing in the chapter is negotiated and nobody concedes anything** — which is the exact
+  inverse of what Abraham did with Lot at 13:9 and Isaac did with the herdsmen of Gerar at 26:22, and
+  it is the only quarrel in the cycle that ends in flight. The reconciliation is twenty years and six
+  chapters away, and **it is the wronged brother who runs to make it** (33:4)
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation

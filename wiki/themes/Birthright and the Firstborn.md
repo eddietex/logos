@@ -72,8 +72,18 @@ holds up Esau as the warning.
   laid on Ham's son
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:5–6; *"Abraham gave all that he had to
   Isaac"*, and seven other sons given gifts and a direction
-- Genesis 27:1–40 — the blessing taken in disguise, and Esau fusing the two losses at 27:36
-  *(not yet ingested)*
+- [[The Stolen Blessing]] — Genesis 27:1–45; **the blessing taken in disguise, and the one place a
+  character fuses it with the birthright.** *"Isn't he rightly named Jacob? For he has supplanted me
+  these two times. He took away my birthright. See, now he has taken away my blessing"* (27:36) —
+  and the count is Esau's, not the book's: **the *bəkōrâ* was sold to him under oath by a man who
+  despised it, and the *bərākâ* was taken from a blind man by disguise.** Two words, two chapters,
+  two mechanisms. **Jacob never once produces the birthright he legally owns**, which is the sharpest
+  thing the chapter says about him. And the blessing's central line — *"Be lord over your brothers.
+  Let your mother's sons bow down to you"* — is the oracle of 25:23 in the imperative, spoken by the
+  one man in the family who was trying to prevent it
+- [[The Younger Before the Firstborn - Jacob and Laban]] — Genesis 29:26, where a Mesopotamian
+  household states the ordinary rule out loud, in the feminine of the cycle's own two words: *"It is
+  not done so in our place, to give the **younger** before the **firstborn**"*
 - Genesis 48:13–20 — Jacob crosses his hands over Ephraim and Manasseh and will not be corrected
   *(not yet ingested)*
 - Genesis 49:3–4 — Reuben, *"my firstborn, my might"*, loses the pre-eminence *(not yet ingested)*

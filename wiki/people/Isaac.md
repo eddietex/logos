@@ -356,10 +356,55 @@ Isaac himself was married, by proxy, to a woman fetched four hundred miles under
 exactly this — and *"They grieved Isaac's and Rebekah's spirits"* (26:35). **It is the grief Rebekah
 will use at 27:46**, and he acts on it at once.
 
+### In this pericope — Genesis 27:1–45
+
+**He goes blind, and the family's inheritance turns on what he cannot check.**
+
+> **1** When Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder
+> son, and said to him, “My son?” He said to him, “Here I am.”
+
+***Wattikhênā ʿênāyw mērəʾōt.*** **He is the first person in Scripture said to have lost his sight** —
+*kāhâ* is the verb used later of Eli (1 Samuel 3:2) and denied of Moses (Deuteronomy 34:7) —
+and the irony is exact: **the man whose lie was exposed one chapter earlier because a king looked out
+of a window is now the one who cannot see.** See [[Seeing and Being Seen]].
+
+**He runs a test, gets the right answer, and overrules it.** Four senses are worked on him one at a
+time — touch (goat skins), taste (two kids cooked as game), smell (Esau's clothes) — and **hearing
+reports correctly**: *"The voice is Jacob's voice, but the hands are the hands of Esau"* (27:22),
+said aloud, to the man's face. He asks *"Are you really my son Esau?"* twice (27:21, 24), is lied to
+twice, and blesses. **Genesis gives him no interior life in these verses at all**, and every proposal
+about what he suspected is a reconstruction.
+
+**The blessing he gives is a firstborn's, not the covenant.** Fertility, dominion, and the Genesis
+12:3 clause — *"Cursed be everyone who curses you. Blessed be everyone who blesses you"* — and **no
+land, no offspring promise, and no mention of his father.** He hands over *"the blessing of Abraham
+… that you may inherit the land where you travel"* three verses into the next chapter (28:4),
+knowingly, to a son he has correctly identified. **The wiki keeps the two transfers apart.**
+
+> **33** Isaac trembled violently, and said, “Who, then, is he who has taken venison, and brought it
+> me, and I have eaten of all before you came, and have blessed him? Yes, he will be blessed.”
+
+***Wayyeḥĕrad … ḥărādâ gədōlâ ʿad-məʾōd*** — **a very great trembling**, and it is the most violent
+emotion Genesis ever attributes to him. **Then he ratifies the fraud.** He has reconstructed the
+whole thing in one sentence, and his conclusion is not *it does not count* but ***gam-bārûk yihyeh***,
+*indeed, blessed he shall be.* **The defrauded party is the one who confirms the blessing stands**,
+because in this book a blessing is a released word and not a correctable wish. See
+[[Yes, He Will Be Blessed - The Irrevocable Word]] and [[Blessing]].
+
+**And then he tells his elder son there is nothing left.** He names the deceit — *"Your brother came
+with deceit"*, *bəmirmâ*, **the narrator's verdict supplied by a character** — inventories what has
+already been spent (*"I have made him your lord … What then will I do for you, my son?"*), and gives
+Esau a sword, a servitude, and a yoke that will one day come off. **Genesis 27:37 is the only place
+in the Bible where a blessing runs out.**
+
+**These are his last recorded words to Esau, and the chapter is the last thing he does in the book.**
+He appears twice more — sending Jacob away with the Abrahamic blessing at 28:1–5, and dead at 35:29 —
+and speaks in only the first of them.
+
 ### Where the rest of him is
 
-- **Genesis 27** — old, blind, and deceived into blessing the younger son; the chapter's whole
-  machinery runs past him.
+- **Genesis 28:1–5** — the same blessing given again, deliberately and to the right son: *"give you
+  the blessing of Abraham … that you may inherit the land where you travel."*
 - **Genesis 35:28–29** — dies at a hundred eighty, buried by Esau and Jacob.
 - **Later in Scripture** — *"the God of Abraham, Isaac, and Jacob"* becomes the standing formula
   (Exodus 3:6; Matthew 22:32); Romans 9:7–9 and Galatians 4:28 make him the child *"of promise"*
@@ -416,7 +461,16 @@ will use at 27:46**, and he acts on it at once.
 - Swears his father's treaty again with Abimelech, Ahuzzath, and Phicol; the well is named Shibah —
   Genesis 26:26–33
 - Grieved, with Rebekah, by Esau's two Hittite wives — Genesis 26:34–35
-- Deceived into blessing Jacob — Genesis 27 *(not yet ingested)*
+- Blind, and the first person in Scripture whose eyes are said to have failed — Genesis 27:1,
+  [[The Stolen Blessing]]
+- Tests the son in front of him by touch, hears his voice correctly, says so aloud, and blesses him
+  anyway — Genesis 27:21–29
+- Trembles *"a very great trembling"*, reconstructs the fraud, and ratifies it: *"Yes, he will be
+  blessed"* — Genesis 27:33
+- Names the deceit to Esau, tells him the supply is spent, and gives him a sword and a yoke —
+  Genesis 27:35–40
+- Sends Jacob to Paddan Aram with *"the blessing of Abraham"*, knowingly this time — Genesis 28:1–5
+  *(not yet ingested)*
 - Dies at a hundred eighty — Genesis 35:28–29 *(not yet ingested)*
 
 ## Appears in
@@ -453,6 +507,13 @@ will use at 27:46**, and he acts on it at once.
   hundredfold in a famine on ground he does not own; he is envied, evicted, and pushed off two wells
   without contesting either; he builds the one altar of his life; and he ends the chapter grieving,
   with his wife, over his elder son's marriages
+- [[The Stolen Blessing]] — Genesis 27:1–45; blind, and worked through his four remaining senses one
+  at a time. His hearing identifies Jacob correctly and he overrules it; he asks the identity
+  question twice and is lied to twice; he blesses. Then he trembles violently, reconstructs the whole
+  fraud in a single sentence, and confirms it — *"Yes, he will be blessed"* — which is the Bible's
+  clearest statement that a blessing cannot be recalled, made by the man it was stolen from. **The
+  blessing he gives contains no land, no offspring, and no mention of Abraham**; he hands the
+  covenant over knowingly at 28:3–4
 
 ## Related people
 

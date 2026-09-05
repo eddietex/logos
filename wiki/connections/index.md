@@ -113,3 +113,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 |
 | [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] | parallel | Genesis 26:12–17 · Exodus 1:7–14 · Genesis 12:10–20 · Genesis 47:27 · Exodus 12:35–36 |
 | [[The Names of Esau's Wives - Genesis 26 and Genesis 36]] | parallel | Genesis 26:34–35 · Genesis 28:6–9 · Genesis 36:2–3 · Genesis 27:46 |
+| [[A Garment and a Goat - Jacob Deceives and Is Deceived]] | parallel | Genesis 27:9, 15–16 · Genesis 37:31–33 · Genesis 38:14, 17, 20 · Genesis 3:21 · Genesis 39:12 · Genesis 44:1–13 |
+| [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
+| [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |

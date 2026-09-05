@@ -123,9 +123,28 @@ costly.
   will make its downward half a priest's standing office. It is also the first visible cashing of
   12:3's *"I will bless those who bless you"* — by a stranger, in a chapter where God says nothing.
   See [[Priesthood]] and [[The Rescue of Lot and Melchizedek]].
-- To trace as ingestion reaches them: the promise repeated to Abraham, Isaac, and Jacob (18:18;
-  22:18; 26:4; 28:14), the patriarchal blessings that drive the Jacob narrative (27, 48, 49), and the
-  covenant blessings-and-curses of Deuteronomy 28.
+- **Genesis 27:1–45** — and here the theme acquires its definition, under maximum pressure. Four
+  things the chapter establishes that nothing before it had:
+  **(1) A blessing is spent, not wished.** *"That my soul may bless you"* — *təbārekəkā napšî*,
+  four times — treats it as something drawn out of a body, requiring a meal, an appetite, and the
+  person present. **(2) It is finite.** *"Have you but one blessing, my father?"* (27:38) is answered
+  by an inventory of what has already gone: *"I have made him your lord … I have sustained him with
+  grain and new wine. What then will I do for you, my son?"* **Genesis 27 is the only place in the
+  Bible where a blessing runs out** — Jacob will bless fourteen people in two chapters (48–49)
+  without exhausting anything. **(3) It is irrevocable, and the deceived party is the one who says
+  so.** *"Yes, he will be blessed"* — ***gam-bārûk yihyeh*** (27:33) — spoken after Isaac has
+  reconstructed the entire fraud aloud. **A performative word does not travel with its speaker's
+  intention**, and the rest of the canon agrees: Balaam cannot reverse it (Numbers 23:20), Joshua
+  honours a treaty obtained by fraud (Joshua 9:19), Paul calls God's own gifts *ametamélēta* (Romans
+  11:29). **(4) It is not the covenant.** 27:27–29 has fertility, dominion, and the Genesis 12:3
+  clause with its two halves reversed — and **no land, no offspring, and no mention of Abraham.**
+  Those are handed over knowingly at 28:3–4. **The book keeps *bərākâ* and *bərît* apart even here**,
+  which is the answer to whether the covenant was obtained by fraud. See
+  [[Yes, He Will Be Blessed - The Irrevocable Word]] and [[The Stolen Blessing]].
+- To trace as ingestion reaches them: the promise given to Jacob in his own right at Bethel (28:14),
+  the blessing demanded rather than stolen at the Jabbok (*"I won't let you go, unless you bless me"*,
+  32:26), the deathbed blessings of Genesis 48 and 49, and the covenant blessings-and-curses of
+  Deuteronomy 28.
 
 ## Key passages
 
@@ -230,6 +249,13 @@ costly.
   Melchizedek at 14:19 and Laban's household at 24:31. **What the chapter adds to the theme is the
   cost**: the harvest is followed immediately by envy, filled wells, and an eviction, and the man who
   has just been told *all these lands* are his leaves without protest. See [[Envy]]
+- [[The Stolen Blessing]] — Genesis 27:1–45; **the chapter that defines the word.** A blessing is
+  spent out of a body (*"that my soul may bless you"*), it is finite (*"Have you but one blessing, my
+  father?"* — and the answer is yes), it is **irrevocable** (*"Yes, he will be blessed"*, said by the
+  man who has just worked out that he was defrauded), and **it is not the covenant** — 27:27–29 has
+  no land, no offspring, and no Abraham in it, and 28:3–4 supplies all three deliberately. **The most
+  consequential blessing in Genesis is obtained by disguise and a flat lie, and nobody takes it
+  back.** See [[Yes, He Will Be Blessed - The Irrevocable Word]]
 
 ## Related themes
 
@@ -257,3 +283,6 @@ costly.
 - [[Japheth]]
 - [[Jacob]] — who buys a birthright and then steals a blessing, and knows the difference
 - [[Esau]] — who loses both, and is the one who names them together
+- [[Isaac]] — who spends his one blessing on the wrong son, discovers it, and confirms it anyway
+- [[Rebekah]] — who arranges the transfer and never once cites the oracle that had already promised
+  it

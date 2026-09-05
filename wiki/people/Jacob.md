@@ -56,11 +56,50 @@ person's weakness into a sworn instrument**, and the narrator does not say a thi
 is the one who puts them together** — *"He took away my birthright. See, now he has taken away my
 blessing"* — and it is the closest Genesis comes to an indictment.
 
+### In this pericope — Genesis 27:1–45
+
+**He tells the one flat lie in the family's whole repertoire, twice, under direct questioning.**
+
+**His single recorded objection is operational, not moral.** *"Esau my brother is a hairy man, and I
+am a smooth man. What if my father touches me? I will seem to him as a deceiver, and I would bring a
+curse on myself, and not a blessing"* (27:11–12). **He is not troubled that it is wrong; he is
+troubled that it might not work** — and the wiki states that as what the text says rather than as a
+charge the text makes.
+
+***"I am Esau your firstborn."*** ***ʾĀnōkî ʿĒśāw bəkōrekā*** (27:19). **The family's method up to
+this point had been the true statement aimed to mislead** — *"she is my sister"* is defensible of
+Sarah (20:12) and is performed three times. Here five words are simply untrue, and they are untrue
+about identity. He repeats it at 27:24 when asked outright: *"Are you really my son Esau?" "I am."*
+See [[Deception]].
+
+***"Because Yahweh your God gave me success"*** (27:20). **The fastest cover story in Genesis**, and
+two things about it. It is **the only place in the chapter a character invokes God as an agent, and
+it is inside a lie.** And the pronoun is ***your*** — *ʾĕlōhêkā*, not *my God* — **he does not put
+himself inside the relationship he is borrowing.** He will not do so until Bethel: *"If God will be
+with me … then Yahweh will be my God"* (28:20–21).
+
+**He never produces the birthright he legally owns.** He bought it under oath at 25:33 and could have
+argued from it; instead he dresses as his brother. **And nobody in the chapter — not him, not his
+mother — mentions the oracle of 25:23**, which had already ranked him above Esau before either was
+born.
+
+**What he receives is a firstborn's blessing, not the covenant.** Fertility, dominion, and the
+Genesis 12:3 clause; **no land, no offspring promise, no mention of Abraham.** Those come at 28:3–4,
+handed over knowingly by a father who has correctly identified him. **The common statement that Jacob
+stole the covenant is not what Genesis 27 says.**
+
+**He leaves with a blessing, a death threat, and nothing else.** His brother plans to kill him after
+their father's funeral (27:41); his mother sends him to Haran for *"a few days"* that will be twenty
+years; and **the next twenty years are spent on the receiving end of exactly this technique** — a
+veil, a dark room, and an elder sibling passed off as a younger one, run by his mother's brother
+(29:23–26). See [[The Younger Before the Firstborn - Jacob and Laban]] and
+[[A Garment and a Goat - Jacob Deceives and Is Deceived]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He takes the blessing in goatskins while his father is blind (27), flees to Paddan Aram, and is met
+He flees to Paddan Aram and is met
 at Bethel by a stairway and by the Abrahamic promise given to him directly for the first time
 (28:13–15). He works fourteen years for two sisters and is himself substituted younger-for-elder on
 his wedding night — **the deception he ran, run back on him, by his mother's brother** (29:23–25). He
@@ -79,9 +118,14 @@ is carried back to Machpelah.
 - Born second, holding [[Esau]]'s heel, and named for the grip; Isaac is sixty — Genesis 25:26
 - *ʾÎš tām*, a man of the tents, and his mother's favourite — Genesis 25:27–28
 - Buys the birthright from Esau for bread and lentil stew, under oath — Genesis 25:29–34
-- Takes the blessing in his brother's clothes and goatskins — Genesis 27:1–29 *(not yet ingested)*
-- Sent to Paddan Aram to escape Esau and to marry within the family — Genesis 27:42–28:5
-  *(not yet ingested)*
+- Objects to the plan on the ground that he might be caught, not that it is wrong — Genesis 27:11–12,
+  [[The Stolen Blessing]]
+- Takes the blessing in his brother's clothes and goatskins; *"I am Esau your firstborn"*, and God's
+  name used as cover — Genesis 27:15–29
+- Named a supplanter by his brother, in the second and harsher etymology of his own name —
+  Genesis 27:36
+- Sent to [[Laban]] in [[Haran (city)]] to escape a death threat, for *"a few days"* that become
+  twenty years — Genesis 27:42–45
 - The stairway at Bethel, and the promise given to him in his own right — Genesis 28:10–22
   *(not yet ingested)*
 - Married to Leah in Rachel's place, and serves fourteen years — Genesis 29:15–30 *(not yet ingested)*
@@ -102,6 +146,11 @@ is carried back to Machpelah.
   born, born holding a heel, described with the adjective the Bible uses of Noah and Job, loved by
   his mother for no stated reason, and shown buying his brother's inheritance under oath in a scene
   the narrator declines to judge
+- [[The Stolen Blessing]] — Genesis 27:1–45; his one recorded objection is that he might be caught.
+  He tells the flat lie the family's method had always avoided — *"I am Esau your firstborn"* —
+  repeats it under direct questioning, and uses God's name as cover with the pronoun ***your***. He
+  never produces the birthright he legally holds, never mentions the oracle, and leaves the chapter
+  with a blessing, a death threat, and nothing else
 
 ## Related people
 

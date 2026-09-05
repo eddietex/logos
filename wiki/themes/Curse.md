@@ -116,6 +116,18 @@ the same verses that put the tree of life back in reach (see
   show it operating in a case where the ledger runs the other way, without softening either half.
   Genesis 20:18 does the same thing at Gerar, closing every womb in Abimelech's house, and again the
   offended party is the one struck. See [[Abram in Egypt]].
+- **Genesis 27:12–13, 29** — and here the theme is handled as a live hazard by people inside the
+  story. Jacob's one objection to the disguise is a fear of the wrong word landing on him: *"I will
+  seem to him as a deceiver, and I would bring a curse on myself, and not a blessing."* **He is right
+  to be afraid** — Genesis has already shown a father's word settling permanently on a grandson who
+  did nothing (9:25) — and the reply is the strangest sentence in the chapter: ***"Let your curse be
+  on me, my son"*** — ***ʿālay qilləlātəkā bənî***. **[[Rebekah]] is the only person in Genesis who
+  volunteers to take another person's curse.** She is not offering a substitution before God — God is
+  neither present nor consulted anywhere in the chapter — she is telling her son that she will absorb
+  the household consequence, and Genesis never says whether the offer is called in. **Then the
+  blessing itself carries the counter-clause**: *"Cursed be everyone who curses you. Blessed be
+  everyone who blesses you"* (27:29) is Genesis 12:3 with the two halves reversed, spoken over the
+  wrong son by a father who cannot see which one is in front of him. See [[The Stolen Blessing]].
 - Strands to trace as ingestion reaches them: Balaam, hired to curse and unable to (Numbers
   22–24); the covenant curses of Deuteronomy 27–28 and the ceremony at Ebal and Gerizim (Joshua
   8:30–35); Jeremiah 17:5–8, the cursed and blessed man side by side; Malachi 4:6, the last word
@@ -141,6 +153,10 @@ the same verses that put the tree of life back in reach (see
   treated Abram generously, and no curse pronounced on anyone
 - [[The Call of Abram]] — 12:3, blessing and cursing paired again, with the mild verb on one side and
   the heavy one on the other
+- [[The Stolen Blessing]] — Genesis 27:12–13, 29; the risk of a misdirected curse named by the man
+  running the deception, and **the only offer in Genesis to take somebody else's curse** — *"Let your
+  curse be on me, my son."* And 12:3's clause reversed and put inside a blessing given to the wrong
+  son
 - [[The Tree of Life - Eden and the New Jerusalem]] — where the curse is lifted
 - [[Bildad's Second Speech]] — covenant-curse vocabulary borrowed without the covenant: sulfur
   scattered on the habitation (18:15, against Deuteronomy 29:23), roots dried beneath and branch cut
@@ -162,3 +178,5 @@ the same verses that put the tree of life back in reach (see
 - [[Cain]]
 - [[Noah]] — the first human being to pronounce one
 - [[Canaan (son of Ham)]] — the first person cursed for someone else's act
+- [[Rebekah]] — the only person in Genesis who offers to take one on herself
+- [[Jacob]] — who fears one and receives the blessing instead

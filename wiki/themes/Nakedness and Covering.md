@@ -82,6 +82,14 @@ nakedness may not be revealed"* (Revelation 3:18).
 - [[The Fall]] — 3:7 and 3:21: the inadequate covering and the given one
 - [[Noah's Sons and the Curse of Canaan]] — 9:20–23, the whole sequence repeated among human beings
 - [[Naked and Ashamed - Genesis 3 and Genesis 9]] — the two scenes set against each other
+- [[The Stolen Blessing]] — Genesis 27:15–16; **clothing turned from covering into disguise.** The
+  first garments in Scripture are God's, made of animal skins to cover a shame the couple had already
+  failed to cover (3:21); here a mother puts her elder son's *"good clothes"* on her younger and ties
+  goat skins to his hands and neck, and **the skins are used to make a man be someone else rather
+  than to make him decent.** From this point almost every significant garment in Genesis produces a
+  false belief: Joseph's coat in blood (37:31), Tamar's veil in place of widow's clothes (38:14),
+  Joseph's cloak in Potiphar's wife's hand (39:12). See
+  [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
 
 ## Related themes
 

@@ -162,6 +162,15 @@ the others.
   *ləʾummîm*), not souls; and *"Esau I hated"* is Malachi's sentence about a country in ruins, not
   Genesis's about a boy. See
   [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]]
+- [[The Stolen Blessing]] — Genesis 27:1–45; **the choice announced before birth, and then obtained
+  by fraud.** The oracle of 25:23 had already ranked the twins, and the birthright had already been
+  sold under oath — **so nothing in this chapter was necessary, and no character in it mentions
+  either fact.** Rebekah, who holds the oracle, behaves as though the promise will fail unless she
+  engineers it; Jacob, who holds the birthright, lies rather than produce it; Isaac, who was told,
+  tries to bless the elder anyway. **Four people act as if God has no means of his own, and the
+  result matches what he said.** The two standing readings — that the deception was superfluous, and
+  that providence runs through human wrongdoing without being laundered by it — are both available in
+  the text, and **Genesis supplies no verdict on either**
 
 ## Related themes
 

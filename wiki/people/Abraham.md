@@ -894,6 +894,12 @@ arrive.
   Deuteronomic terms that make 26:5 the one verse in Genesis where the covenant is continued
   *because* a man kept statutes. He is also called *my servant* here, the first honorific use of the
   word in Scripture
+- [[The Stolen Blessing]] — Genesis 27:29; **not named once, and one of his sentences is in the
+  room.** *"Cursed be everyone who curses you. Blessed be everyone who blesses you"* is Genesis 12:3
+  — the clause the whole call was for — with its two halves reversed, spoken over the wrong son by a
+  father who cannot see which one is in front of him. **Nothing else of his is in the blessing**: no
+  land, no offspring like the stars, no covenant, and no use of his name. Those arrive at 28:4, where
+  Isaac says *"the blessing of Abraham"* out loud and means it
 
 ## Related people
 

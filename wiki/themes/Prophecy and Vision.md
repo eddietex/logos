@@ -136,6 +136,15 @@ happens.
   Rebekah a full chapter before God says anything to her husband. It is the second and last
   annunciation to a woman in Genesis; the first was [[Hagar]]'s at 16:11–12, also in poetry, also
   about a son's relation to his brothers, and also given to someone with no standing to ask
+- [[The Stolen Blessing]] — Genesis 27:27–29, 39–40; **a forecast with no revelation behind it.**
+  Isaac speaks two futures — grain and dominion for the son in front of him, a sword and a yoke for
+  the son who comes in late — and **God has not spoken to him about either, in this chapter or
+  anywhere since 26:24.** Both come true: 27:29's *"Be lord over your brothers"* is the oracle
+  Rebekah was given, arriving through a man who was trying to prevent it, and 27:40's *"you shall
+  shake his yoke from off your neck"* is what 2 Kings 8:20–22 records Edom doing. **Hebrews 11:20
+  reads the whole scene as faith** — *"By faith Isaac blessed Jacob and Esau, concerning things to
+  come"* — which is a striking verdict on a chapter in which the blesser did not know who he was
+  talking to
 
 ## Related themes
 

@@ -106,14 +106,63 @@ faintly ridiculous; hers is not given at all** — and a reader four verses from
 one the narrator will not. It is the first stated parental favouritism in Scripture, and it splits the
 household that chapter 27 then blows apart.
 
+### In this pericope — Genesis 27:1–45
+
+**The chapter is hers, and she runs it from the moment she is overheard listening.**
+
+***Wə-Ribqâ šōmaʿat*** (27:5) — **a participle: she was listening**, not she happened to hear. She
+does it again at 27:42, when what reaches her is Esau's plan to kill. **Both turns of the plot start
+with her in earshot of a conversation she is not in.**
+
+**Her report of what she heard adds two words her husband did not say.** Isaac said *"that my soul
+may bless you before I die"* (27:4); she reports *"and bless you **before Yahweh** before my death"*
+(27:7). ***Lipnê YHWH*** is not in the original speech, and it is **the only place in the chapter
+where anyone links the blessing to God.** Three readings — a summarized original, a deliberate
+escalation, and her own conviction about what is at stake — are set out on
+[[The Stolen Blessing]] and none is adopted.
+
+**Then four verbs, all hers.** *She made, she took, she put, she gave.* She cooks the goats, dresses
+Jacob in Esau's clothes, ties the skins on his hands and neck, and puts the dish in his hand; **he
+fetches and carries and does nothing else.** It is the same construction the book used at 3:6 (*she
+took, she gave*) and at 16:3 (*Sarai took … and gave her to Abram*), and **it is the most active she
+has been since she watered ten camels.**
+
+***"Let your curse be on me, my son."*** ***ʿĀlay qilləlātəkā bənî*** (27:13) — **nobody else in
+Genesis says anything like it.** She is the only person in the book who volunteers to take another
+person's curse onto herself. **She is not offering a substitution before God** — God is not in the
+room and is not consulted — she is telling her son she will absorb the household consequence. See
+[[Curse]].
+
+***"Obey my voice."*** ***Šəmaʿ bəqōlî***, three times (27:8, 13, 43), and the third one means *run*.
+**It is one of the most theologically loaded idioms in Genesis** — *"because you have listened to
+your wife's voice"* (3:17), *"Abram listened to the voice of Sarai"* (16:2), *"in all that Sarah says
+to you, listen to her voice"* (21:12), *"because Abraham obeyed my voice"* (22:18; 26:5) — **and here
+a mother uses it three times to direct a fraud.** See
+[[Listening to the Voice - Genesis 3 and Genesis 16]].
+
+**And she never mentions the oracle.** The woman who was told *"the elder will serve the younger"*
+before either child was born behaves throughout as though the outcome depends entirely on her, and
+**25:23 is not quoted by her or by anyone else in the chapter.** Whether that is unbelief, prudence,
+or simply what Genesis declines to narrate, the book does not say.
+
+**Her last three sentences to Jacob are all wrong in some way.** *"Stay with him a few days"* (27:44)
+— ***yāmîm ʾăḥādîm*** — is twenty years (31:38, 41). *"Then I will send, and get you from there"* —
+**she never does**; Genesis records no message, no reunion, and no death for her. *"Why should I be
+bereaved of you both in one day?"* (27:45) is exact blood-vengeance arithmetic and **half right**: she
+loses Jacob, and does not lose Esau.
+
+**Four verses later she gives her husband a different reason entirely** — *"I am weary of my life
+because of the daughters of Heth"* (27:46), the grief of 26:35 produced as a pretext for a flight
+whose real cause is a death threat. **Genesis never has her and Isaac speak about what happened**,
+and after 27:46 she is named once more in the whole Bible, as an occupant of a cave (49:31).
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-She is called Isaac's sister before Abimelech, the third of the wife-sister episodes (26:7). She
-engineers the stolen blessing in chapter 27, sends Jacob away to save his life, and never sees him
-again. Genesis records no death scene for her; she is named only as an occupant of the grave, in
-Jacob's instructions at 49:31.
+She persuades Isaac to send Jacob to Paddan Aram (27:46–28:5), and drops out of the narrative. Genesis
+records no death scene for her; she is named only as an occupant of the grave, in Jacob's instructions
+at 49:31. Her nurse Deborah is given a burial notice (35:8) that she is not.
 
 **She and Isaac are the only patriarchal couple in Genesis with no second woman in the household**,
 and Genesis 26:8 gives them the one glimpse of affection in the cycle — *"Isaac was caressing
@@ -146,7 +195,15 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   one of the three wives who is never taken — Genesis 26:7–11, [[Isaac in Gerar]]
 - Grieved, with Isaac, by Esau's two Hittite wives — the only feeling the cycle ever records the two
   of them sharing — Genesis 26:35
-- Devises the stolen blessing and sends Jacob to Haran — Genesis 27:5–17, 42–46 *(not yet ingested)*
+- Overhears Isaac's instruction to Esau, quotes it back to Jacob with *"before Yahweh"* added, and
+  issues the plan — Genesis 27:5–10, [[The Stolen Blessing]]
+- Takes her son's curse onto herself: *"Let your curse be on me, my son"* — Genesis 27:13
+- Cooks the goats, dresses Jacob in Esau's clothes, and ties the skins on his hands and neck —
+  Genesis 27:14–17
+- Overhears Esau's plan a second time and sends Jacob to [[Laban]] in [[Haran (city)]] for *"a few
+  days"* — Genesis 27:42–45
+- Gives Isaac the Hittite wives as her reason, never the blessing — Genesis 27:46
+  *(not yet ingested)*
 - Buried in the cave of Machpelah; named only in Jacob's burial instructions — Genesis 49:31
   *(not yet ingested)*
 
@@ -170,6 +227,12 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   and — unlike Sarah in both earlier episodes — **is never taken**. The chapter's last word about her
   is the grief she and her husband share over their elder son's wives, which is the only thing the
   two of them are ever recorded feeling together, and which she will use at 27:46
+- [[The Stolen Blessing]] — Genesis 27:1–45; the chapter is hers. She is listening at 27:5 and again
+  at 27:42; she quotes her husband with *"before Yahweh"* added; she cooks, dresses, and dispatches
+  her son, and answers his one objection by taking his curse onto herself — **the only offer of its
+  kind in Genesis.** She says *"obey my voice"* three times, never once mentions the oracle she was
+  given, estimates the exile at *"a few days"*, promises to send for him and never does, and gives
+  her husband a different reason for the flight than the true one
 
 ## Related people
 
@@ -208,3 +271,5 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[Prophecy and Vision]]
 - [[Birthright and the Firstborn]]
 - [[Strife and Peacemaking]]
+- [[Curse]]
+- [[Language and Speech]]

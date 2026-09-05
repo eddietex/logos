@@ -90,6 +90,16 @@ noticing into doctrine.
 
 ## Key passages
 
+- [[The Stolen Blessing]] — Genesis 27:1–45, **the performative word at full strength.** A whole
+  chapter of people talking while one of them cannot see: a flat lie about identity told twice, a
+  quotation with two words added that the speaker never said (*"before Yahweh"*, 27:7 against 27:4),
+  God's name used as a cover story, an idiom of obedience — *šəmaʿ bəqōlî*, *obey my voice* — used
+  three times to direct a fraud, and a name re-derived as an accusation (*"Isn't he rightly named
+  Jacob? For he has supplanted me"*, 27:36). **And then the chapter's point: what was said cannot be
+  unsaid.** Isaac reconstructs the whole deception aloud and concludes *"Yes, he will be blessed"* —
+  **the speaker's intention does not travel with the word he has released**, which is the same logic
+  that binds Balaam (Numbers 23:20), Joshua's leaders (Joshua 9:19), and Jephthah (Judges 11:35). See
+  [[Yes, He Will Be Blessed - The Irrevocable Word]]
 - [[The Tower of Babel]] — Genesis 11:1–9: one lip, confused; the only divine intervention in
   language itself
 - [[The Table of Nations]] — Genesis 10:5, 20, 31: language as one of the four axes the seventy are
@@ -121,3 +131,5 @@ noticing into doctrine.
 - [[The Serpent]] — whose one contribution is a question about what was said
 - [[Noah]] — silent until the words he speaks are a curse
 - [[Lamech (son of Methushael)]] — the first man to sing about himself
+- [[Isaac]] — who says the word he cannot take back, and then says so
+- [[Rebekah]] — who quotes her husband with an addition, and says *obey my voice* three times

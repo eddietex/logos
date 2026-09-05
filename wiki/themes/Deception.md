@@ -62,9 +62,18 @@ else. See [[The Fall]].
   *Yiṣḥāq məṣaḥēq*, the intensive of the root he is named for. **God does not act in this one at
   all**, which is also the only one of the three in which nobody is taken. The trait is inherited
   before Jacob is old enough to demonstrate it. See [[Isaac in Gerar]].
-- **Genesis 27** — Rebekah and Jacob, goatskins on the arms and Esau's clothes on the back: *"I am
-  Esau your firstborn"*, which is the one place in the sequence where a flat lie is told, and the
-  blind man's four senses are worked one at a time *(not yet ingested)*.
+- **Genesis 27:1–45** — Rebekah and Jacob, goatskins on the arms and Esau's clothes on the back, and
+  **the one place in the whole sequence where a flat lie is told.** *"I am Esau your firstborn"*
+  (27:19) is five untrue Hebrew words about identity, repeated under direct questioning at 27:24 —
+  and the family's method up to here had been so consistently the true statement wrongly framed that
+  the departure is the chapter's signature. **A blind man's four remaining senses are worked one at a
+  time**, and the only one that reports correctly is the one he overrules: *"The voice is Jacob's
+  voice, but the hands are the hands of Esau"* (27:22). **God's name is used as cover** — *"Because
+  Yahweh **your** God gave me success"* (27:20), the only invocation of God as an agent in the chapter
+  and the fastest cover story in Genesis. The verdict is supplied by a character, as always: *"Your
+  brother came with deceit"* — ***bəmirmâ*** (27:35) — **and this time the person who names it is
+  inside the family.** And the outcome is not reversed: *"Yes, he will be blessed."* See
+  [[The Stolen Blessing]].
 - **Genesis 29:21–27** — Laban substitutes Leah for Rachel in the dark, and the deceiver is deceived
   by the same device he used, an older sibling passed off as a younger one: *"It is not done so in
   our place, to give the younger before the firstborn"* *(not yet ingested)*.
@@ -133,7 +142,21 @@ has become a nation.
   answered with a capital edict protecting him. **He profits by it two verses later** — the
   hundredfold harvest at 26:12 — as Abram profited at 12:16 and Abraham at 20:14–16, and the narrator
   passes no verdict on any of the three
-- Genesis 27:1–45 — the stolen blessing, and the one flat lie in the sequence *(not yet ingested)*
+- [[The Stolen Blessing]] — Genesis 27:1–45, **the theme's centre and its one departure from its own
+  method.** Everywhere else in Genesis the deception is the true statement aimed to mislead; here
+  *"I am Esau your firstborn"* is flatly false, is about identity rather than a fact, and is repeated
+  when challenged. The apparatus is physical — two goats, their skins, a brother's clothes kept at
+  his mother's, a dish cooked to a blind man's taste — and it is worked sense by sense on a father
+  who **catches it by ear, says so out loud, and blesses anyway**. God's name appears once as an
+  agent and it is inside the lie. **And the outcome stands**: Isaac names the deceit, tells Esau the
+  supply is spent, and confirms the blessing. **Nothing in Genesis is clawed back from a deceiver**,
+  which is the theme's most uncomfortable datum and is stated most plainly here
+- [[A Garment and a Goat - Jacob Deceives and Is Deceived]] — the props: Esau's clothes and two kids
+  at 27:15–16, Joseph's coat and a goat's blood at 37:31–33, and the family's habit of deceiving with
+  arranged objects rather than with sentences
+- [[The Younger Before the Firstborn - Jacob and Laban]] — Genesis 29:21–27, where the same
+  substitution is worked back on Jacob in the dark, and where he asks the outsiders' question —
+  *"What is this you have done to me? … Why then have you deceived me?"* — as the injured party
 - Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*
 - Genesis 37:31–33 — the coat, the goat, and the father deceived by his own devices *(not yet
   ingested)*
@@ -163,6 +186,11 @@ has become a nation.
 - [[Abimelech (of Abraham's time)]] — the second, and the only one who gets an answer; he also
   supplies the theme's one Genesis verdict, *"You have done deeds to me that ought not to be done!"*
 - [[Jacob]] — whose first transaction is not a deception and whose second is; the narrator judges
-  neither
-- [[Rebekah]] — who loves the younger son for no stated reason, and will dress him in the elder's
-  clothes
+  neither, and both of them come back on him
+- [[Rebekah]] — who loves the younger son for no stated reason, dresses him in the elder's clothes,
+  and answers his one objection by offering to take his curse
+- [[Isaac]] — deceived by his own senses and by his own appetite, and the character who supplies the
+  word *mirmâ* for what was done to him
+- [[Esau]] — the only person in the book to name the family's habit as a habit: *"he has supplanted
+  me these two times"*
+- [[Laban]] — who runs the same substitution back on the deceiver, and calls it a local custom

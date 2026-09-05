@@ -85,6 +85,11 @@ every one of them.
   of his life, calls on Yahweh's name, receives the delegation from Gerar, swears the second treaty,
   and names a well *Shibah* — the town's second etiology, and the only verse in Genesis that calls
   Beersheba a *city*
+- [[The Stolen Blessing]] — Genesis 27:1–45; **unnamed, and almost certainly the setting.** 26:23–33
+  has settled the household here, and 28:10 has Jacob *"went out from Beersheba"* on the journey this
+  chapter starts, so the blindness, the goat skins, the trembling, and the death threat all belong to
+  the town whose name means *well of the oath*. **Genesis does not say so**, and the wiki records the
+  location as an inference from the two verses on either side
 
 ## Related places
 
@@ -118,6 +123,8 @@ every one of them.
   peace — Genesis 26:26–31
 - Water is found the same day; the well is named **Shibah**, and *"Therefore the name of the city is
   Beersheba to this day"* — the second of the two etiologies — Genesis 26:32–33
+- Isaac, blind, is deceived into blessing Jacob, and Esau plans a murder — Genesis 27:1–45 (the town
+  is unnamed, and inferred from 26:23–33 and 28:10), [[The Stolen Blessing]]
 - Jacob departs from here for Haran — Genesis 28:10 *(not yet ingested)*
 - Jacob sacrifices here and is given leave to go down to Egypt — Genesis 46:1–5 *(not yet ingested)*
 - Elijah leaves his servant here and goes on into the wilderness — 1 Kings 19:3–4

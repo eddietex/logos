@@ -106,6 +106,17 @@ will finally go both ways.
   *remaining silent*, through the whole watering; Laban is introduced by *when he saw the ring*; Isaac
   and Rebekah *lift up their eyes* in consecutive verses, the only mutual instance of the formula in
   Genesis; and the chapter that worked hardest to make a woman visible ends with her behind a veil
+- [[The Stolen Blessing]] — Genesis 27:1, 21–27: **the theme inverted, and the sense simply
+  withdrawn.** *"His eyes were dim, so that he could not see"* — *wattikhênā ʿênāyw mērəʾōt* — makes
+  Isaac **the first person in Scripture said to have lost his sight** (*kāhâ*, the verb used of Eli
+  at 1 Samuel 3:2 and denied of Moses at Deuteronomy 34:7). Genesis has spent fourteen chapters on
+  eyes that lift up, look steadfastly, and find God looking back; here sight is gone and **the other
+  four senses are worked against their owner** one at a time — touch, taste, smell deceived, and
+  hearing correct. *"The voice is Jacob's voice, but the hands are the hands of Esau"* (27:22) is a
+  true forensic report that its speaker states aloud and then overrules. **The irony is exact**: the
+  man whose lie was exposed one chapter earlier because a king looked out of a window (26:8) is the
+  man who cannot look. And Jacob will do the same thing in reverse at 48:10, *"the eyes of Israel
+  were dim for age, so that he couldn't see"*, and cross his hands **on purpose**
 
 ## Related themes
 
@@ -126,3 +137,5 @@ will finally go both ways.
 - [[Lot]] — who lifts up his eyes and sees water
 - [[Abraham]] — who is told to lift up his eyes and look in four directions at ground he does not own
 - [[Job (person)]] — who asks both to be let alone and to be vindicated in sight of everyone
+- [[Isaac]] — the first blind person in the Bible, and the only one whose blindness is the mechanism
+  of a plot

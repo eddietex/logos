@@ -812,6 +812,41 @@ prophets, and the figure of Isaiah 40–55.
 **Isaac's response is the only altar he builds in his life**, and God is not reported saying anything
 about it. See [[Isaac in Gerar]] and [[Calling on the Name of Yahweh]].
 
+### He is named in four verses and does nothing — Genesis 27:1–45
+
+**The chapter in which the covenant line changes hands is a chapter he is entirely absent from.**
+
+**No theophany, no dream, no speech, no act, and nobody prays.** The divine name appears in four of
+the forty-five verses — *Yahweh* at 27:7, 20, and 27, *ʾĕlōhîm* at 27:20 and 28 — and **every
+occurrence is inside a human sentence**:
+
+| verse | who says it | what it is doing |
+|---|---|---|
+| **27:7** | Rebekah, quoting Isaac | ***"bless you before Yahweh"*** — **words Isaac did not say** at 27:4 |
+| **27:20** | Jacob, lying | *"Because Yahweh **your** God gave me success"* — **the only invocation of him as an agent, and it is a cover story** |
+| **27:27** | Isaac, smelling clothes | *"the smell of a field which Yahweh has blessed"* — a simile |
+| **27:28** | Isaac, blessing | *"God give you of the dew of the sky"* — the blessing's opening petition |
+
+**And the oracle he gave at 25:23 is never quoted by anybody** — not by Isaac, who is trying to
+contradict it; not by Jacob, who benefits from it; **not by Rebekah, who received it**, and who
+behaves throughout as though the outcome depends entirely on her arrangements. **Four people act as
+if he has no means of his own, and the result matches what he said.**
+
+**Genesis does not tell the reader how to divide the credit**, and the wiki does not either. The two
+standing readings — that the deception was superfluous and the word would have held without it, and
+that providence runs through human wrongdoing without being laundered by it — are both fully
+available in the chapter, and it supplies no verdict on either. **This is the same silence the book
+kept at 25:34**, where it condemned the seller and said nothing about the buyer.
+
+**The one thing the chapter does establish about him is indirect**: a blessing spoken in his name
+holds even when it was obtained by fraud, and the man who was defrauded is the one who says so —
+*"Yes, he will be blessed"* (27:33). See [[The Stolen Blessing]] and
+[[Yes, He Will Be Blessed - The Irrevocable Word]].
+
+**His next words in Genesis are to Jacob, alone, on the road out** (28:13–15) — the promise given to
+the third generation directly, for the first time, to a man running from a brother who wants to kill
+him.
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -965,6 +1000,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   is the one of the three in which nobody is taken — Genesis 26:6–11
 - Appears a second time the same night at Beersheba and names himself by an ancestor for the first
   time in Scripture: *"I am the God of Abraham your father"* — Genesis 26:24
+- Absent from the chapter in which the covenant line changes hands: named in four verses, always inside a
+  human sentence, and once inside a lie — Genesis 27:7, 20, 27, 28, [[The Stolen Blessing]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -993,6 +1030,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   *"the God of Abraham your father"*, **the first time in Scripture he identifies himself by an
   ancestor**. And in between he does nothing at all: the one wife-sister episode with no dream, no
   plague, and no closed wombs is the one in which nobody is taken
+- [[The Stolen Blessing]] — Genesis 27:1–45; **named in four verses and present nowhere.** Every
+  occurrence is in a human mouth — Rebekah's quotation with two words added (27:7), Jacob's lie
+  (27:20), Isaac's simile (27:27), Isaac's petition (27:28) — and **the one invocation of him as an
+  agent is a cover story.** He does not speak, act, appear, or get asked; the oracle he gave at 25:23
+  is cited by nobody, including the woman he gave it to; and the outcome matches what he said anyway.
+  **The chapter's one indirect claim about him is that a blessing spoken in his name holds even when
+  it was procured by fraud**, and it is the defrauded party who says so
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

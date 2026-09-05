@@ -63,6 +63,13 @@ story is on the throne of Jacob's.
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:23, 25, 30; forecast as one of the *two
   nations*, seeded by the *ʾadmônî* and *śēʿār* of the birth notice, and named outright from the red
   stew
+- [[The Stolen Blessing]] — Genesis 27:39–40; **its charter, spoken over its ancestor as what is left
+  after the blessing has been spent.** Fertile country or arid country depending on a single Hebrew
+  preposition — *min* is both *some of* and *away from*, and the WEB, KJV, and LXX take the first
+  while most modern versions take the second, which decides whether Esau is blessed at all. Then
+  *"By your sword will you live, and you will serve your brother"*, and *"when you will break loose,
+  … you shall shake his yoke from off your neck"* — **both halves of which the historical books
+  record**, in that order
 
 ## Related places
 
@@ -79,6 +86,8 @@ story is on the throne of Jacob's.
 
 - Named, before it exists, from a bowl of red stew — Genesis 25:30,
   [[Jacob and Esau and the Sold Birthright]]
+- Given its charter — the sword, the service, and the yoke that comes off — in what is left of
+  Isaac's blessing — Genesis 27:39–40, [[The Stolen Blessing]]
 - Esau settles in Seir, having taken his household away from Jacob — Genesis 36:6–8
   *(not yet ingested)*
 - The chiefs and kings of Edom, *"before any king reigned over the children of Israel"* — Genesis 36

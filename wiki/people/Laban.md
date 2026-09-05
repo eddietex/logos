@@ -84,6 +84,8 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - Blesses her with the promise sworn at Moriah — Genesis 24:60
 - Named again, for no reason the passage needs, in the pedigree at the head of Isaac's *toledot* —
   Genesis 25:20, [[Jacob and Esau and the Sold Birthright]]
+- Named as the destination of the flight — *"flee to Laban, my brother, in Haran"* — Genesis 27:43,
+  [[The Stolen Blessing]]
 - Receives Jacob, fleeing Esau, at the same house — Genesis 29:1–14 *(not yet ingested)*
 - Substitutes Leah for Rachel; fourteen years' service — Genesis 29:15–30 *(not yet ingested)*
 - Changes Jacob's wages ten times — Genesis 31:7, 41 *(not yet ingested)*
@@ -99,6 +101,12 @@ built on the same root, for its snow. Genesis makes nothing of it.
   *toledot* pedigree names him twice over — *"the sister of Laban the Syrian"* — four chapters before
   he takes over the life of the younger twin about to be born, and repays the younger-for-elder
   substitution in kind
+- [[The Stolen Blessing]] — Genesis 27:43; one clause, and it is the last practical instruction
+  Rebekah ever gives. *"Flee to Laban, my brother, in Haran"* sends her son, for what she calls *"a
+  few days"*, to the man who will run her own technique back on him — a younger sibling substituted
+  for an elder, in the dark, with the two words of the oracle in his mouth: *"It is not done so in
+  our place, to give the younger before the firstborn"* (29:26). See
+  [[The Younger Before the Firstborn - Jacob and Laban]]
 
 ## Related people
 

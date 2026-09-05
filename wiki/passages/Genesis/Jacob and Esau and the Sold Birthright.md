@@ -511,7 +511,7 @@ handed the job.**
   are dead.
 - Romans 9:10–13 — Paul on Rebekah's conception, the children *"not yet born, neither having done
   anything good or bad"*, and the oracle quoted alongside Malachi.
-- Hebrews 11:20 — *"By faith Isaac blessed Jacob and Esau, concerning things to come."*
+- Hebrews 11:20 — *"By faith, Isaac blessed Jacob and Esau, even concerning things to come."*
 - Hebrews 12:16–17 — *"a profane person, who sold his own birthright for one meal"*, and *"he found no
   place for a change of mind"*.
 

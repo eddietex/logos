@@ -239,6 +239,16 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   four terms that are the Deuteronomic formula for keeping the Sinai law. **Genesis 15:17 has God
   pass between the pieces alone and undertake everything; the wiki keeps the two verses side by
   side.** See [[Because Abraham Obeyed My Voice - Law Before Sinai]]
+- [[The Stolen Blessing]] — Genesis 27:27–29; **the theme by what is missing from it.** The blessing
+  Jacob takes by disguise contains fertility (*dew of the sky, fatness of the earth, grain and new
+  wine*), dominion (*peoples serve you, be lord over your brothers*), and the Genesis 12:3 clause
+  with its halves reversed (*"Cursed be everyone who curses you. Blessed be everyone who blesses
+  you"*). **It contains no land, no offspring promise, and no mention of Abraham or of a covenant at
+  all.** Those arrive three verses into the next chapter, from an Isaac who has correctly identified
+  the son in front of him: *"and give you the blessing of Abraham, to you, and to your offspring with
+  you, that you may inherit the land where you travel, which God gave to Abraham"* (28:4). **Genesis
+  keeps *bərākâ* and *bərît* apart even in the chapter where one of them is stolen**, and the common
+  statement that Jacob stole the covenant is not what the text says
 
 ## Related themes
 

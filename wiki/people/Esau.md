@@ -61,15 +61,46 @@ better.**
 reaction reported, no regret, and no second thought. **The transaction of his life takes him less
 time than the negotiation did.**
 
+### In this pericope — Genesis 27:1–45
+
+**He comes in from the hunt one sentence too late and says truly the line his brother said falsely.**
+
+*"Who are you?"* — *"I am your son, your firstborn, Esau"* (27:32), ***ʾĂnî binkā bəkōrəkā ʿĒśāw***:
+**the same words, in the same order, as the lie at 27:19**, arriving after the blessing instead of
+before it. Genesis gives the liar's sentence to the man it belongs to, one scene late, and does not
+comment.
+
+***"He cried with an exceeding great and bitter cry."*** ***Ṣəʿāqâ gədōlâ ûmārâ ʿad-məʾōd*** (27:34).
+***Ṣəʿāqâ*** is not an ordinary word for weeping — **it is the outcry word**, used of Sodom (*"the
+cry of Sodom and Gomorrah is great"*, 18:20) and of Israel under the taskmasters (Exodus 3:7). **In
+every other occurrence it is a cry that reaches God and is acted on.** Here it reaches a blind old man
+with nothing left. And ***mārâ***, bitter, is from the root behind *mōrat rûaḥ*, the bitterness his
+own wives caused his parents one chapter earlier (26:35).
+
+***"Isn't he rightly named Jacob? For he has supplanted me these two times."*** ***Wayyaʿqəbēnî zeh
+paʿămāyim*** (27:36). **He supplies the second and harsher etymology of his brother's name** — from
+*ʿāqab*, **to supplant, to overreach** — against the neutral *ʿāqēb*, *heel*, Genesis gave at 25:26.
+**Hosea 12:3 keeps his version, not the narrator's.** And he is the character who **fuses the
+birthright and the blessing** into one grievance: *bəkōrâ* was sold under oath, *bərākâ* was taken by
+disguise, and only Esau counts them as one thing. See [[Birthright and the Firstborn]].
+
+***"Have you but one blessing, my father?"*** (27:38) — **and the chapter answers yes.** Isaac's
+inventory at 27:37 is not rhetoric: lordship given, brothers assigned, grain and wine spent.
+**Genesis 27 is the only place in the Bible where a blessing runs out.** What is left for him is
+27:39–40 — fertile land or arid land depending on one Hebrew preposition, life by the sword, service
+to his brother, and *"you shall shake his yoke from off your neck"*, which 2 Kings 8:20–22 records
+happening. See [[Edom]].
+
+***Wayyiśṭōm ʿĒśāw ʾet-Yaʿăqōb*** (27:41) — **he bore a grudge**, from *śāṭam*, cousin to the *śiṭnâ*
+that named a well one chapter earlier. **He is the fourth fratricide in Genesis and the only one who
+plans it, dates it to his father's funeral, waits, and never does it.** Twenty years later he runs to
+meet his brother and weeps on his neck (33:4). See [[Vengeance]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He marries two Hittite women at forty, and *"They grieved Isaac's and Rebekah's spirits"*
-(26:34–35). He comes in from the hunt to find the blessing gone and cries *"with an exceeding great
-and bitter cry"* — *"Bless me, even me also, my father."* — and Isaac has nothing left to give him
-but a hard prophecy and a yoke he will one day shake off (27:30–40). He plans to kill Jacob after the
-mourning for their father (27:41), which is why Rebekah sends him away. He then marries Ishmael's daughter
+After Jacob is sent away he marries Ishmael's daughter
 Mahalath, joining the two non-covenant lines (28:9). Twenty years later he comes to meet Jacob with
 four hundred men and embraces him instead (33:1–4), refuses the gift and then takes it, and goes back
 to Seir. **He takes his household away from his brother because the land could not hold both of
@@ -89,9 +120,14 @@ Israel."*
 - Marries [[Judith]] and [[Basemath (daughter of Elon)]], Hittite women, at forty — the age his
   father was married to a woman fetched four hundred miles under an oath excluding exactly this — and
   they grieve his parents' spirits — Genesis 26:34–35, [[Isaac in Gerar]]
-- Loses the blessing; the bitter cry, and the yoke he will one day shake off — Genesis 27:30–40
-  *(not yet ingested)*
-- Plans to kill Jacob when Isaac is mourned — Genesis 27:41 *(not yet ingested)*
+- Arrives seconds late and says truly the sentence his brother said falsely — Genesis 27:31–32,
+  [[The Stolen Blessing]]
+- Loses the blessing; the *"exceeding great and bitter cry"*, and *"Have you but one blessing, my
+  father?"* — Genesis 27:34–38
+- Re-derives his brother's name as *supplanter* and fuses the birthright and the blessing into one
+  grievance — Genesis 27:36
+- Given the sword, the service, and the yoke he will one day shake off — Genesis 27:39–40
+- Plans to kill Jacob when Isaac is mourned, and never does it — Genesis 27:41
 - Marries Mahalath, daughter of [[Ishmael]] and sister of Nebaioth — Genesis 28:9 *(not yet ingested)*
 - Comes with four hundred men, and runs to embrace his brother — Genesis 33:1–17 *(not yet ingested)*
 - Buries Isaac with Jacob, named first — Genesis 35:29 *(not yet ingested)*
@@ -107,6 +143,12 @@ Israel."*
   initiative — no journey, no servant, no oath, no well, none of the apparatus of Genesis 24 — and
   Genesis reports the marriage and its effect in one sentence each. The grief is what his mother uses
   at 27:46 to get his brother out of the country
+- [[The Stolen Blessing]] — Genesis 27:1–45; he comes in one sentence too late and says truly the
+  line his brother said falsely. He cries an outcry Genesis otherwise reserves for Sodom and for
+  Israel in Egypt; he supplies the harsher etymology of *Jacob*; he fuses the birthright and the
+  blessing into *"these two times"*; and he asks the question the chapter answers with a yes —
+  *"Have you but one blessing, my father?"* Then he plans a murder for after his father's funeral and
+  never carries it out
 
 ## Related people
 
@@ -137,3 +179,5 @@ Israel."*
 - [[Deception]]
 - [[The Nations]]
 - [[Marriage]]
+- [[Vengeance]]
+- [[Curse]]

@@ -90,6 +90,17 @@ verdicts.
 
 ## Key passages
 
+- [[The Stolen Blessing]] — Genesis 27:1–45, and **the theme in the one form Genesis will actually
+  narrate: measure for measure, unannounced.** Jacob passes himself off as the firstborn to a father
+  who cannot see, and twenty years later an elder sister is passed off as a younger one to him in the
+  dark (29:23–26); he takes a blessing with a garment and a goat, and his sons take his favourite son
+  from him with a garment and a goat (37:31–33). **Genesis states none of it.** There is no narrator's
+  aside, no divine speech, no remark from Jacob linking the scenes — **the only verbal link is Laban
+  saying, without irony, *"It is not done so in our place, to give the younger before the firstborn"***
+  (29:26), in the feminine of the two words the whole cycle runs on. **The wiki records the pattern as
+  a pattern and marks the moral inference as the reader's, not the book's.** See
+  [[The Younger Before the Firstborn - Jacob and Laban]] and
+  [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
 - [[Job of Uz]] — the doctrine's premises assembled without being stated: a blameless man, an
   itemised fortune, and the correlation between them that the friends will read backwards once the
   fortune is gone

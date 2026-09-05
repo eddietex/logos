@@ -67,6 +67,17 @@ for revenge becomes its measure for pardon. See
 
 ## Key passages
 
+- [[The Stolen Blessing]] — Genesis 27:41–45, **the fourth fratricide in the book and the only one
+  that is planned, dated, and abandoned.** ***Wayyiśṭōm ʿĒśāw ʾet-Yaʿăqōb*** — *Esau bore a grudge
+  against Jacob* — from *śāṭam*, cousin to the *śiṭnâ* whose first occurrence in the Bible was a well
+  one chapter earlier, and the verb that will close the book: *"It may be that Joseph will hate us"*
+  (50:15). **He says it *"in his heart"***, which is where Genesis puts the thought Cain acted on in
+  a field (4:8), and he defers it out of filial scruple — *"The days of mourning for my father are at
+  hand"* — mistiming it by more than forty years. **He never carries it out**; at 33:4 he runs to
+  meet his brother and weeps on his neck. And Rebekah's answer is the theme's own arithmetic: *"Why
+  should I be bereaved of you both in one day?"* (27:45) — **a killing costs two sons, the murdered
+  one and the one who must answer for the blood**, which is the world of 4:14 and of 9:6. See
+  [[Whoever Sheds Man's Blood]]
 - [[Cain and Abel]] — the sevenfold guarantee that keeps a murderer alive
 - [[The Line of Cain and the Birth of Seth]] — Lamech taking the number for himself and inflating it
 - [[The Covenant with Noah]] — the rule that cancels both numbers with one, and hands the requiring of
@@ -98,3 +109,5 @@ for revenge becomes its measure for pardon. See
 - [[Lamech (son of Methushael)]]
 - [[Tubal Cain]]
 - [[Noah]] — the first person given a standing rule about killing, and given it without a court
+- [[Esau]] — who plans a fratricide, dates it to his father's funeral, and does not do it
+- [[Rebekah]] — who states the arithmetic: a killing inside a family costs two sons, not one

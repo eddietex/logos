@@ -59,6 +59,11 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
   city of Nahor* — the standing candidate for that city, and the house Jacob will be sent back to
 - [[The Call of Abram]] — Genesis 12:1–5; where the call is delivered, on Genesis's arrangement, and
   the journey resumes
+- [[The Stolen Blessing]] — Genesis 27:43; **named as a refuge for the first time.** *"Arise, flee to
+  Laban, my brother, in Haran"* is Rebekah's last practical instruction, and it sends the third
+  patriarch back to the town the first one was called out of. Abraham left it at seventy-five and was
+  told never to send his son back (24:6, 8); his grandson is sent back to it in a hurry, for what his
+  mother calls *"a few days"* and what turns out to be twenty years
 
 ## Related places
 
@@ -77,4 +82,5 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 - Abram is called out of it at seventy-five — Genesis 12:1–4, [[The Call of Abram]]
 - Abraham's servant comes back for Rebekah, if *the city of Nahor* is this city — Genesis 24,
   [[A Wife for Isaac]]
+- Jacob is sent there to escape Esau's threat — Genesis 27:43, [[The Stolen Blessing]]
 - Jacob serves Laban twenty years and marries Leah and Rachel — Genesis 29–31 *(not yet ingested)*

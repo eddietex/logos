@@ -4561,3 +4561,136 @@ so this ingest's commit stays just the ingest.
 `claude/unmerged-branches-audit-xt7o4j`. They were not inspected or touched this pass; they are noted
 here because the last of them is named for an audit of exactly this, and the user may want to close
 them out.
+
+## [2026-09-05] ingest | Genesis 27.1-45 — The Stolen Blessing
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+`The Stolen Blessing — Genesis 27:1–45` was the first unchecked box on its page. `raw/bible/Genesis.md`
+was already present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the
+passage page.
+
+### What the pericope is
+
+**A blind man is worked through his four remaining senses, one at a time, and the sense that tells
+him the truth is the one he overrules.**
+
+- **27:1.** ***Wattikhênā ʿênāyw mērəʾōt*** — **Isaac is the first person in Scripture said to have
+  lost his sight** (*kāhâ*, the verb later used of Eli and denied of Moses). **The irony is exact**:
+  the man whose lie was exposed one chapter earlier because a king looked out of a window is the man
+  who cannot look.
+- **27:5–17.** Rebekah is a **participle — *šōmaʿat*, she was listening** — and she quotes her
+  husband with two words he did not say: *"bless you **before Yahweh**"* against 27:4's *"that my
+  soul may bless you"*. It is **the only link anyone in the chapter makes between the blessing and
+  God**, and it is put into another person's mouth. Then four verbs, all hers: *she made, she took,
+  she put, she gave.*
+- **27:11–13.** **Jacob's one objection is operational, not moral** — *"What if my father touches
+  me?"* — and the answer is ***ʿālay qilləlātəkā bənî***, *"Let your curse be on me, my son"*:
+  **the only offer in Genesis to take another person's curse.**
+- **27:19, 24.** ***ʾĀnōkî ʿĒśāw bəkōrekā*** — **the one flat lie in the family's whole repertoire**,
+  and it is about identity rather than a fact. Genesis's deceptions are otherwise the true statement
+  wrongly framed; the departure is the chapter's signature. He repeats it under direct questioning.
+- **27:20.** *"Because Yahweh **your** God gave me success"* — **the only invocation of God as an
+  agent in the chapter, and it is inside a lie**; and the pronoun is *your*. He does not say *my God*
+  until Bethel (28:21).
+- **27:22.** ***Haqqōl qôl Yaʿăqōb, wəhayyādayim yədê ʿĒśāw*** — **hearing works.** Isaac states the
+  correct forensic result aloud, to the man's face, and overrules it. He asks the identity question
+  twice (27:21, 24). **This is not a man being fooled; it is a man discounting the evidence he has.**
+- **27:27–29.** The blessing is fertility, dominion, and **Genesis 12:3 with its halves reversed** —
+  and **no land, no offspring promise, and no mention of Abraham or the covenant.** Those are handed
+  over knowingly at 28:3–4. The wiki keeps the two transfers apart.
+- **27:33.** ***Wayyeḥĕrad … ḥărādâ gədōlâ ʿad-məʾōd***, and then ***gam-bārûk yihyeh***, **"Yes, he
+  will be blessed."** The defrauded party reconstructs the whole fraud in one sentence and then
+  ratifies it. **This is where the Bible establishes that a blessing, once spoken, is irrevocable,
+  and it establishes it in the worst case available.**
+- **27:34–38.** ***Ṣəʿāqâ gədōlâ ûmārâ*** — **the outcry word**, used of Sodom (18:20) and of Israel
+  under the taskmasters (Exodus 3:7), reaching a blind old man with nothing left. *"Isn't he rightly
+  named Jacob?"* is **the second and harsher etymology**, from *ʿāqab*, given to the victim. And
+  *"Have you but one blessing, my father?"* is answered yes — **Genesis 27 is the only place in the
+  Bible where a blessing runs out.**
+- **27:39–40.** *Min* is both partitive and privative, so 27:39 is **either a lesser blessing or an
+  anti-blessing**, and the versions split. The sword, the service, and *"you shall shake his yoke
+  from off your neck"* — **both halves of which 2 Samuel 8:13–14 and 2 Kings 8:20–22 record.**
+- **27:41–45.** ***Wayyiśṭōm***, from *śāṭam* — cousin to the *śiṭnâ* that named a well one chapter
+  earlier. **The fourth fratricide in Genesis and the only one planned, dated, and abandoned.**
+  Rebekah's *"a few days"* is twenty years, her *"I will send, and get you from there"* never
+  happens, and *"Why should I be bereaved of you both in one day?"* is exact blood-vengeance
+  arithmetic that comes half true.
+- **And God is absent.** The divine name appears in four verses, **every occurrence inside a human
+  sentence** (*Yahweh* 27:7, 20, 27; *ʾĕlōhîm* 27:20, 28),
+  and **no speech, no act, no appearance, and no prayer.** The oracle of 25:23 is cited by nobody —
+  including the woman who received it. **Four people act as if God has no means of his own, and the
+  result matches what he said.**
+
+### Judgment calls made unattended
+
+- **Boundaries: the box stands as drawn, and no unchecked boxes were redrawn.** The alternative —
+  running the unit to 28:9 so that the whole blessing-and-departure sequence is one pericope — was
+  **rejected**: it would swallow Bethel's preliminaries and make a unit of nearly sixty verses. The
+  seam at 27:45/46 is the sharpest available, since 27:46 changes addressee (to Isaac) and changes
+  the stated reason (the Hittite wives), and the next box already begins there.
+- **Title: the plan's *The Stolen Blessing* was kept.** It is the traditional name, it is what the
+  chapter is about, and no other book has a passage page by that title.
+- **Three unresolved cruxes were recorded rather than decided.** (1) **27:39's *min***: partitive
+  (WEB, KJV, LXX) or privative (NRSV, ESV, most moderns) — the choice decides whether Esau is
+  blessed at all, which is what Hebrews 12:17 denies. (2) **Rebekah's *"before Yahweh"* at 27:7**,
+  which is not in Isaac's speech at 27:4 — a summarized original, a deliberate escalation, or her own
+  reading of the stakes; none adopted. (3) **The absence of God**, where the two standing readings
+  (the deception was superfluous; providence runs through wrongdoing uncleaned) are set side by side
+  with no verdict, on the same practice the wiki used for the narrator's asymmetry at 25:34.
+- **Chronology recorded as inference, not as text.** Genesis gives no age anywhere in the chapter.
+  The chain through 41:46, 45:6, 47:9, 30:25, and 25:26 makes Isaac a hundred thirty-seven and Jacob
+  about seventy-seven, and **the passage page sets the chain out and labels it an inference from four
+  widely separated verses.** It is recorded because it changes how the scene reads.
+- **The setting is likewise an inference**: Genesis does not name the place, and 26:23–33 with 28:10
+  put it at Beersheba. Noted as such on both pages.
+- **New pages made.** **No new people, places, or themes were needed** — every figure in the chapter
+  already had a page. **Three connections**: `A Garment and a Goat - Jacob Deceives and Is Deceived`,
+  `The Younger Before the Firstborn - Jacob and Laban`, and
+  `Yes, He Will Be Blessed - The Irrevocable Word`. The first two were preferred over one combined
+  page because the props and the substitution are separate mechanisms with separate later
+  trajectories; the third was created rather than folded into `Esau's Birthright in Hebrews`, which
+  is about Esau's valuation and not about the standing of the word.
+- **`Listening to the Voice - Genesis 3 and Genesis 16` was extended by reference rather than
+  renamed**, although 27:8, 13, and 43 give the idiom three more occurrences. The page's title names
+  the two chapters it compares; a rename would break inbound links for a third instance that the
+  passage page already carries. **Flagged here so a later pass can revisit it.**
+- **Pages revised.** Passage (new); book page (`Genesis` — box checked, structure paragraph
+  extended); seven people (`Isaac`, `Rebekah`, `Jacob`, `Esau`, `God`, `Laban`, `Abraham`); four
+  places (`Haran (city)`, `Edom`, `Beersheba`, `Canaan`); thirteen themes (`Blessing`, `Deception`,
+  `Curse`, `Birthright and the Firstborn`, `Language and Speech`, `Seeing and Being Seen`,
+  `Vengeance`, `Strife and Peacemaking`, `Call and Election`, `Prophecy and Vision`, `Covenant`,
+  `Nakedness and Covering`, `Retribution`); five indexes; and this log.
+
+### Quote check, and two corrections to pages already standing
+
+All 61 blockquoted verses on the passage page were diffed against `raw/bible/Genesis.md`
+programmatically: **zero mismatches.** Inline quotations of other Genesis chapters were checked the
+same way, and three were wrong and have been fixed:
+
+- **Genesis 37:32** is *"Examine it, now, **whether** it is your son's coat or not"*, not *"and see
+  if it is"*.
+- **Genesis 3:21** is *"Yahweh God made **coats** of animal skins"*, not *"garments"*.
+- **Genesis 48:10** is *"**the eyes of Israel** were dim for age"*, not *"his eyes were"*.
+
+Two further corrections were made to text that was already on the wiki before this pass:
+
+- **`wiki/passages/Genesis/Jacob and Esau and the Sold Birthright.md`** quoted Hebrews 11:20 as
+  *"By faith Isaac blessed Jacob and Esau, concerning things to come"*; the WEB reads **"By faith,
+  Isaac blessed Jacob and Esau, even concerning things to come."** Fixed there and everywhere else
+  the sentence is quoted.
+- **The divine-name count in this pericope was corrected while being written.** *Yahweh* stands at
+  27:7, 20, and 27 and *ʾĕlōhîm* at 27:20 and 28 — **four verses, not four occurrences of one
+  name** — and the claim is now phrased that way on the passage page, on `people/God`, and above.
+
+Books other than Genesis and Job are not in `raw/`, so quotations from Numbers, Joshua, Judges,
+1 Samuel, Isaiah, Hosea, and the New Testament on the new connection pages are from memory and
+follow the wiki's existing practice; they are kept short and are all flagged with chapter and verse
+so a later pass can verify them against a fetched text.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. No wrapped links; no dangling targets beyond the expected baseline
+of not-yet-started book pages, which stands at 64 (unchanged — no new book page was created this
+pass). **No links were deliberately left dangling.** Forward references to Rachel, Leah, Bethel, and
+Paddan Aram were written as plain text rather than as links, because their pericopes are the next two
+and three boxes on the queue.

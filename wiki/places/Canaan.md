@@ -112,6 +112,13 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18; the cycle about this land ends
   with the man who was promised it buried in the one field he bought, his other seven sons sent
   *"eastward, to the east country"* out of it, and his heir living at a desert well
+- [[The Stolen Blessing]] — Genesis 27:1–45; **the land is not in the blessing.** What Jacob takes by
+  disguise is fertility, dominion, and the Genesis 12:3 clause — *"Cursed be everyone who curses you.
+  Blessed be everyone who blesses you"* — and **there is no territorial grant in 27:27–29 at all.**
+  The land arrives three verses into the next chapter, from an Isaac who knows exactly which son he
+  is speaking to: *"that you may inherit the land where you travel, which God gave to Abraham"*
+  (28:4). **The one thing in this family that cannot be stolen is the thing the whole cycle is
+  about**
 
 ## Related places
 

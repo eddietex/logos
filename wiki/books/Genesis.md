@@ -264,7 +264,28 @@ even fratricidal betrayal into rescue (Joseph).
   being blessed and being pushed around, and the two are not separable.** Its last two verses are the
   hinge into the next: Esau at forty marries two Hittite women of the neighbourhood, and *"They
   grieved Isaac's and Rebekah's spirits"* — the only feeling the cycle ever records his parents
-  sharing, and the pretext his mother will use.
+  sharing, and the pretext his mother will use. Then *[[The Stolen Blessing]]* takes the hinge and
+  turns it. **Isaac goes blind — the first person in Scripture whose eyes are said to have failed —
+  and the family's inheritance turns on what he cannot check.** He is worked through the four senses
+  he has left, one at a time: goat skins for touch, two kids cooked as game for taste, his elder
+  son's clothes for smell, and **hearing, which reports correctly and which he overrules out loud**:
+  *"The voice is Jacob's voice, but the hands are the hands of Esau."* He asks the identity question
+  twice and is answered twice with the family's **one flat lie** — *"I am Esau your firstborn"* —
+  from a book whose deceptions are otherwise always half true; and the only invocation of God as an
+  agent in the whole chapter is the cover story inside it, *"Because Yahweh **your** God gave me
+  success."* **God does not speak, act, or appear anywhere in these forty-five verses**, and the
+  oracle he gave at 25:23 is cited by nobody — least of all by the woman he gave it to, who quotes
+  her husband with two words added, cooks and dresses and dispatches her son, and answers his one
+  objection by taking his curse onto herself: *"Let your curse be on me, my son."* **And then the
+  chapter does the thing that makes it load-bearing.** Isaac finds out, *"trembled violently"*,
+  reconstructs the entire fraud in one sentence — **and confirms it**: ***"Yes, he will be
+  blessed."*** The defrauded party ratifies the fraud, because in this book a blessing is a released
+  word and not a correctable wish. **What is transferred is a firstborn's blessing and not the
+  covenant** — there is no land and no offspring promise in 27:27–29, and Isaac hands those over
+  knowingly at 28:3–4 — but the transfer stands, and the cost is itemized for eleven chapters: Esau's
+  outcry, the only blessing in the Bible that runs out, a murder planned for after a funeral, *"a few
+  days"* in Haran that become twenty years, and a mother who says *"then I will send, and get you
+  from there"* and never appears again.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -314,7 +335,7 @@ merge, or reorder them freely.
 
 - [x] [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34
 - [x] [[Isaac in Gerar]] — Genesis 26:1–35
-- [ ] The Stolen Blessing — Genesis 27:1–45
+- [x] [[The Stolen Blessing]] — Genesis 27:1–45
 - [ ] Jacob's Ladder at Bethel — Genesis 27:46–28:22
 - [ ] Jacob, Leah, and Rachel — Genesis 29:1–30
 - [ ] The Birth of Jacob's Children — Genesis 29:31–30:24
