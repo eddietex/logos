@@ -56,6 +56,9 @@ tension. See [[The Children of Heth]] and [[Ephron the Hittite]].
 
 - [[Isaac in Gerar]] — Genesis 26:34–35; one clause, and the grief that becomes Rebekah's pretext for
   sending Jacob away
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46; 28:9; unnamed in both verses and present in
+  both. She is one of *"the daughters of Heth"* Rebekah says she loathes her life over, and she is
+  one of the wives Esau keeps when he marries [[Mahalath]] *"besides the wives that he had"*
 
 ## Related people
 

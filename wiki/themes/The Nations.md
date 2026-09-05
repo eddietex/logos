@@ -192,6 +192,10 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   around this family, all inside thirty-three verses. And the last two verses run it the other way:
   Esau marries into the nations, and his parents grieve. See [[Envy]] and
   [[Mightier Than We - Isaac in Gerar and Israel in Egypt]]
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:3: ***qəhal ʿammîm***, *a company of peoples*,
+  and ***qāhāl*** here is **its first occurrence in the Hebrew Bible** — the assembly word the
+  Septuagint renders *ekklēsia*, appearing first as a father's wish over a fugitive. God grants it in
+  the same terms at 35:11, *"a nation and a company of nations."*
 
 ## Related themes
 

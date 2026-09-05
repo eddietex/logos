@@ -285,7 +285,16 @@ even fratricidal betrayal into rescue (Joseph).
   knowingly at 28:3–4 — but the transfer stands, and the cost is itemized for eleven chapters: Esau's
   outcry, the only blessing in the Bible that runs out, a murder planned for after a funeral, *"a few
   days"* in Haran that become twenty years, and a mother who says *"then I will send, and get you
-  from there"* and never appears again.
+  from there"* and never appears again. **And then the book hands the blessing over a second time,
+  in the open.** *[[Isaac Sends Jacob to Paddan Aram]]* has Rebekah give her husband a reason for the
+  journey that is not the reason — Hittite daughters-in-law, not a death threat — and it is **the
+  last thing she ever says in Scripture.** Isaac then *calls* Jacob by name, knowing exactly who is
+  in front of him, and gives him what chapter 27 did not contain: *ʾĒl Šadday*, *be fruitful and
+  multiply*, a *company of peoples* — the first *qāhāl* in the Bible — and *"the blessing of
+  Abraham"* with the land attached. **The covenant was not stolen; it is handed on here, deliberately,
+  by the man who had already worked out that he was defrauded.** Esau, watching, reasons his way
+  correctly to the family's actual policy and then marries a daughter of Ishmael **besides the wives
+  he had**, joining the two lines the promise had already passed over.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -336,7 +345,8 @@ merge, or reorder them freely.
 - [x] [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34
 - [x] [[Isaac in Gerar]] — Genesis 26:1–35
 - [x] [[The Stolen Blessing]] — Genesis 27:1–45
-- [ ] Jacob's Ladder at Bethel — Genesis 27:46–28:22
+- [x] [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9
+- [ ] Jacob's Ladder at Bethel — Genesis 28:10–22
 - [ ] Jacob, Leah, and Rachel — Genesis 29:1–30
 - [ ] The Birth of Jacob's Children — Genesis 29:31–30:24
 - [ ] Jacob's Flocks — Genesis 30:25–43

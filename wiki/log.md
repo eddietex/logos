@@ -4694,3 +4694,162 @@ of not-yet-started book pages, which stands at 64 (unchanged — no new book pag
 pass). **No links were deliberately left dangling.** Forward references to Rachel, Leah, Bethel, and
 Paddan Aram were written as plain text rather than as links, because their pericopes are the next two
 and three boxes on the queue.
+
+## [2026-09-05] ingest | Genesis 27.46-28.9 — Isaac Sends Jacob to Paddan Aram
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md`, and
+its first unchecked box read `Jacob's Ladder at Bethel — Genesis 27:46–28:22`. **That box was split**
+(see below) and the first half of it ingested. `raw/bible/Genesis.md` was already present, so
+`scripts/fetch-book.sh` was not run. Step 2's discussion is written into the passage page.
+
+### What the pericope is
+
+**The blessing is given a second time, and this time nobody is deceived.**
+
+- **27:46.** ***Qaṣtî bəḥayyay*** — *I loathe my life*; *qûṣ* is the verb of revulsion (Exodus 1:12;
+  Leviticus 20:23), stronger than the WEB's *weary*. Rebekah gives Isaac **a marriage problem instead
+  of a death threat**: four verses earlier she told Jacob that Esau meant to kill him (27:42). She
+  never mentions the murder and never mentions the blessing, and **Genesis never once has Isaac and
+  Rebekah speak to each other about what happened in the tent.** Nothing she says is false. **This is
+  the last thing she says in the Bible.**
+- **28:1.** ***Wayyəbārek ʾōtô wayṣawwēhû*** — he *calls* Jacob, which means he knows who is in front
+  of him. **Everything in chapter 27 depended on Isaac not knowing; nothing here does.**
+- **28:1–2.** Abraham's oath of 24:3 restated as a father's command, almost word for word — **with
+  the machinery stripped out** (no oath, no sanction, no servant, no camels) **and its one unreleased
+  clause reversed**: Abraham twice forbade Isaac ever to make the journey (24:6, 8), and Isaac sends
+  his own son. *"The daughters of Laban"* is plural, providing for two wives before either is named.
+- **28:3.** ***ʾĒl Šadday***, whose six Genesis occurrences are **all at transfers of the promise**;
+  ***yaprəkā wəyarbekā***, the creation blessing of 1:28; and ***qəhal ʿammîm***, in which
+  ***qāhāl*** is **its first occurrence in the Hebrew Bible.** God grants the same in the same words
+  at 35:11.
+- **28:4.** ***Birkat ʾAbrāhām*** — **the exact phrase occurs here and nowhere else in Genesis**, and
+  in the New Testament only at Galatians 3:14. **And it carries the land**: *ʾereṣ məgurêkā*, the
+  land of your sojournings, the phrase of 17:8, which describes the country by the word for not
+  owning it. **27:27–29 had no territorial grant at all.** The wiki had flagged that in advance on
+  the previous page and records it here as delivered: **the covenant was not stolen; what was stolen
+  was a firstborn's portion.**
+- **28:5.** A genealogical trailer repeating 25:20 verbatim in substance. The WEB's *"Rebekah's
+  brother, Jacob's and Esau's mother"* is tangled English for appositives that stack onto their
+  nearest owners. **The younger son is named first** — against 35:29's *"Esau and Jacob"*.
+- **28:6–8.** ***Wayyarʾ ʿĒśāw***, twice, governing four clauses: **the only place in Genesis where
+  the narrator works from inside Esau's head**, and what it finds is inference rather than
+  resentment. His conclusion is correct. Inside his field of view sits *"Jacob obeyed his father and
+  his mother"* — *šāmaʿ*, the loaded idiom of chapter 27 — **one verse after Jacob lied twice to one
+  of them.** Genesis does not flag it.
+- **28:9.** He marries [[Mahalath]], daughter of Ishmael, **his first cousin out of the branch the
+  covenant had already passed over** — the two elder sons who lost an inheritance, joined — and
+  ***ʿal-nāšāyw***, *besides the wives that he had*: **the correction is additive, which is what
+  stops it being one.** The Hittite wives stay.
+
+### Judgment calls made unattended
+
+- **Boundary redrawn — this is the one substantive plan change this pass.** The box read
+  *Jacob's Ladder at Bethel — Genesis 27:46–28:22*: twenty-seven verses under a title describing only
+  its second half. **It was split into two boxes**, `Isaac Sends Jacob to Paddan Aram — Genesis
+  27:46–28:9` (ingested, checked) and `Jacob's Ladder at Bethel — Genesis 28:10–22` (left unchecked,
+  next in the queue). Grounds: 28:6–9 closes on Esau and **28:10 restarts with a fresh itinerary
+  formula** — *"Jacob went out from Beersheba, and went toward Haran"* — new subject, new place, new
+  genre; and **27:46–28:9 is framed by marriage at both ends** (daughters of Heth at 27:46, daughters
+  of Canaan at 28:8). The previous pericope's notes had already forecast this split and the plan had
+  not been updated to match. Genesis's pericope count therefore goes 58 → 59, and
+  `wiki/books/index.md` now reads **35 / 59**.
+- **Title.** *Isaac Sends Jacob to Paddan Aram* names the passage's own event rather than Rebekah's
+  pretext or Esau's coda; no other book has a passage page by that title. *The Second Blessing* was
+  considered and rejected as too interpretive for a filename.
+- **The two reasons for one journey are recorded and not resolved.** The source-critical reading —
+  that 27:46–28:9 is Priestly and knows nothing of the deception — is set out with its markers named
+  (*Paddan Aram*, *ʾĒl Šadday*, *be fruitful and multiply*, *qəhal ʿammîm*, pedigree rather than
+  scene) and **is not adopted**, on the same practice the wiki used for the two creation accounts and
+  the two flights of Hagar. What is checkable without any source theory is that the book supplies two
+  reasons for one journey four verses apart and never lets the parents discuss it.
+- **The chronology of 28:9 is recorded as inference, not as contradiction.** Ishmael is dead by
+  roughly thirteen years here on the book's own numbers (16:16; 21:5; 25:17, with the reckoning that
+  puts Isaac at a hundred thirty-seven). Genesis states none of it in the passage, the arithmetic
+  runs through four widely separated verses, and *"went to Ishmael"* reads ordinarily as *went to
+  Ishmael's household*. Same footing as Isaac's age at 27:1.
+- ***qāhāl* at 28:3 is claimed as the word's first occurrence in the Hebrew Bible**, stated as a
+  distribution fact with nothing theological built on it here.
+- **New pages made — one person, one connection.** `Mahalath`, because she is named, married, and
+  disputed between two registers, which is the standard applied to `Judith` and
+  `Basemath (daughter of Elon)`. `Two Errands to Paddan Aram - Genesis 24 and Genesis 28`, comparing
+  the two sendings to the same country for the same reason — servant against son, ten camels against
+  nothing, gifts against fourteen years of labour, one journey against twenty years.
+- **New pages deliberately not made.** **Nebaioth** — bare genealogical name, per the rule set at
+  `The Table of Nations` and restated at `The Death of Abraham and the Line of Ishmael`; if Isaiah 60
+  or 21 is ever ingested the page should be `Nebaioth (son of Ishmael)`. **Paddan Aram** —
+  `Aram Naharaim` carries it in `also_known_as`, a decision recorded at `A Wife for Isaac` and
+  repeated on the passage page so it is not undone. **A separate Galatians 3:14 connection page** —
+  `All the Families of the Earth - Genesis 12.3 in the New Testament` already carries the Galatians 3
+  thread, and a second page would restate it around one phrase; the phrase is recorded on the passage
+  page instead.
+- **Mahalath took the bare filename.** No collision: the wiki has no other Mahalath, and the two
+  others in Scripture (a Psalm-heading term, and Rehoboam's wife at 2 Chronicles 11:18) are not
+  people this wiki will page under that name. Recorded here in case one ever needs qualifying.
+- **Pages revised.** Passage (new); book page (`Genesis` — box split and checked, structure paragraph
+  extended); twelve people (`Isaac`, `Rebekah`, `Jacob`, `Esau`, `Ishmael`, `Laban`, `Bethuel`,
+  `The Children of Heth`, `Abraham`, `God`, `Judith`, `Basemath (daughter of Elon)`) plus the new
+  `Mahalath`; two places (`Aram Naharaim`, `Canaan`); ten themes (`Blessing`, `Covenant`, `Marriage`,
+  `Land and Sojourning`, `Call and Election`, `The Nations`, `The Names of God`, `Deception`,
+  `Birthright and the Firstborn`, `Oaths and Vows`); three existing connections
+  (`Not from the Daughters of the Canaanites`, `The Names of Esau's Wives - Genesis 26 and Genesis
+  36`, `God Almighty - El Shaddai in Genesis and Exodus`) plus the new one; three passage pages whose
+  forward references to this pericope were converted from *(not yet ingested)* markers into links
+  (`The Stolen Blessing`, `Isaac in Gerar`, `A Wife for Isaac`); six indexes; and this log.
+
+### Quote check, and corrections made while writing
+
+All 18 blockquoted verses on the passage page were diffed against `raw/bible/Genesis.md`
+programmatically: **zero mismatches**, after one editorial closing quotation mark was removed from
+28:2, which in the WEB runs on into 28:3–4. Inline quotations of other Genesis chapters were checked
+the same way, and **four were wrong and were fixed before commit**:
+
+- **Genesis 21:12** is *"your offspring will be named through Isaac"*; the page had quoted the
+  Romans 9:7 form, *"in Isaac will your offspring be called"*, against a Genesis reference.
+- **Genesis 17:8** is *"the land where you are traveling"*. The page had quoted it as *"the land of
+  your sojournings"*, which is a gloss of *ʾereṣ məgurêkā* and not the WEB; the Hebrew claim stands
+  and is now stated as a claim about the Hebrew.
+- **Genesis 24:10** is *"a variety of good things of his master's"*, not *"all his master's goods"*.
+- **Genesis 32:10** is *"with just my staff I **crossed** over this Jordan"*, not *"passed over"*.
+
+**Genesis 24:8** was also corrected to *"then you shall be clear from this oath to me"*, and
+**24:50** to *"The thing proceeds from Yahweh. We can't speak to you bad or good."* — the connection
+page had joined the two sentences with a semicolon.
+
+Books other than Genesis and Job are not in `raw/`, so the quotations of Deuteronomy 26:5 and
+Galatians 3:14, and the summary of Hosea 12:12, follow the wiki's existing practice: short, flagged
+with chapter and verse, and verifiable by a later pass against a fetched text. **Hosea 12:12 was
+deliberately reworded from a quotation into a summary** because its exact WEB wording could not be
+checked from `raw/`.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. No wrapped links; no dangling targets beyond the expected baseline
+of not-yet-started book pages, which stands at **64 — unchanged**, since no new book page was created
+this pass. **No links were deliberately left dangling.** Forward references to Rachel, Leah, Bethel,
+and Nebaioth were written as plain text rather than as links; their pages do not exist and, for
+Nebaioth, deliberately will not until a prophetic book is ingested.
+
+### Fixed before the ingest, in its own commit
+
+**The previous run left literal `</content>` and `</invoke>` lines at the end of four files it
+wrote** — `wiki/passages/Genesis/The Stolen Blessing.md` and the three connection pages it created.
+They were stripped in a separate commit before this ingest began, so the ingest commit stays just the
+ingest. **This is the second time this has happened** — the log at the Genesis 11:10–32 pass records
+sixteen files with the same stray `</content>` line — so it is a recurring failure mode of the
+writing step rather than a one-off, and it is worth a `grep -rn '</content>\|</invoke>' wiki/` at the
+end of any future pass. This run's own first write of the passage page reproduced it and was caught
+and fixed before commit.
+
+**Branch state, unchanged from the last fifteen runs.** The session started on a **detached HEAD** at
+`ef9d4cd` with a clean tree, and the local `main` ref stale behind it at `ee8f435`. `git fetch origin
+main` showed `origin/main` already at `ef9d4cd`, so the previous run's push had landed and only the
+local ref was stale; `git checkout -B main origin/main` moved the branch onto HEAD before any work,
+its upstream was set, and both commits from this run are on `main`. **Sixteen consecutive runs have
+now started detached.** It has still cost nothing, and it still wants the user's attention.
+
+**Also still noticed, still not acted on.** The tracked, empty `Exodus.md` at the repository root
+(commit `694ca13`) is unchanged, and four unmerged `claude/*` branches remain on the remote —
+`claude/ingest-auto-3oz4au`, `claude/ingest-auto-4q3uek`, `claude/ingest-auto-jobs-18-20-vholye`, and
+`claude/ingest-auto-kllgcw`, plus `claude/unmerged-branches-audit-xt7o4j`. All are one command away
+from cleanup whenever the user wants them gone; none was touched, so this ingest's commit stays just
+the ingest.

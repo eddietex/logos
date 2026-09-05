@@ -140,6 +140,10 @@ everlasting possession, by treaty with its current occupant.
 - Exodus 6:2–3 — the name not known to the fathers
 - Exodus 20:7; Leviticus 19:12 — guarding the name
 - Philippians 2:9–11 — *"the name which is above every name"*
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:3, ***ʾĒl Šadday*** — the second of the name's
+  six occurrences in Genesis, every one of them at a transfer of the promise. Its meaning is
+  genuinely unknown, and the English *Almighty* descends from the least defensible of the four
+  standing etymologies. See [[God Almighty - El Shaddai in Genesis and Exodus]].
 
 ## Related themes
 

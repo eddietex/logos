@@ -1002,6 +1002,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   time in Scripture: *"I am the God of Abraham your father"* — Genesis 26:24
 - Absent from the chapter in which the covenant line changes hands: named in four verses, always inside a
   human sentence, and once inside a lie — Genesis 27:7, 20, 27, 28, [[The Stolen Blessing]]
+- Invoked as ***ʾĒl Šadday*** at the second, knowing transfer of the promise — asked to bless, make
+  fruitful, multiply, and give *"the blessing of Abraham"* — and he neither speaks nor appears
+  — Genesis 28:3–4, [[Isaac Sends Jacob to Paddan Aram]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -1037,6 +1040,12 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   is cited by nobody, including the woman he gave it to; and the outcome matches what he said anyway.
   **The chapter's one indirect claim about him is that a blessing spoken in his name holds even when
   it was procured by fraud**, and it is the defrauded party who says so
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:3–4; **asked for, and still silent.** Isaac calls
+  him ***ʾĒl Šadday*** — the name Genesis reserves for transfers of the promise — and petitions him
+  for fruitfulness, a *company of peoples*, the blessing of Abraham, and the land. **It is a wish,
+  not a report**: he does not speak, appear, or act anywhere in these nine verses. Four verses later,
+  on a road out of Beersheba, he grants every item of it directly and unasked, and adds one Isaac did
+  not think to request — *"Behold, I am with you, and will keep you, wherever you go"*
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

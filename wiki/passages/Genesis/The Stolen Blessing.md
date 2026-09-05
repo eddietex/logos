@@ -721,8 +721,8 @@ alone, on a road north. See
   cover story for the flight.
 - [[Laughter and the Name Isaac]] — Genesis's habit of building theology out of name-puns, and the
   second and harsher derivation of *Yaʿăqōb* at 27:36.
-- Genesis 27:46–28:9 — Rebekah's stated reason, Isaac's knowing transfer of *"the blessing of
-  Abraham"*, and Esau marrying Ishmael's daughter *(not yet ingested)*.
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9; Rebekah's stated reason, Isaac's knowing
+  transfer of *"the blessing of Abraham"*, and Esau marrying Ishmael's daughter.
 - Genesis 28:10–22 — Bethel, and the first time God speaks to Jacob; *"then Yahweh will be my God"*
   answers the *your God* of 27:20 *(not yet ingested)*.
 - Genesis 29:21–27 — Laban's substitution, and *"It is not done so in our place, to give the younger

@@ -116,3 +116,4 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[A Garment and a Goat - Jacob Deceives and Is Deceived]] | parallel | Genesis 27:9, 15–16 · Genesis 37:31–33 · Genesis 38:14, 17, 20 · Genesis 3:21 · Genesis 39:12 · Genesis 44:1–13 |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
 | [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |
+| [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]] | parallel | Genesis 24:1–67 · Genesis 27:46–28:9 · Genesis 29:1–30 · Genesis 32:10 · Hosea 12:12 |

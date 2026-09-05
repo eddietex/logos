@@ -120,6 +120,11 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   which I swore to Abraham"*, the self-sworn oath of 22:16. **And 26:33 explains the name Beersheba a
   second time from the same root**, which the book does not notice. See
   [[The Wells of Abraham and the Wells of Isaac]]
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:1–2, **an oath surviving as a command.** Abraham
+  bound a servant by Yahweh, hand under thigh, with a release clause, to fetch a wife from his own
+  country (24:3–4); Isaac restates the same prohibition and the same destination to his son with no
+  oath, no sanction, and no release — **and reverses the one clause Abraham refused to release**,
+  that the son must never make the journey himself.
 
 ## Related themes
 

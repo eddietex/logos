@@ -249,6 +249,11 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   you, that you may inherit the land where you travel, which God gave to Abraham"* (28:4). **Genesis
   keeps *bərākâ* and *bərît* apart even in the chapter where one of them is stolen**, and the common
   statement that Jacob stole the covenant is not what the text says
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:3–4; **the covenant proper, handed on
+  deliberately.** *Birkat ʾAbrāhām* — the exact phrase occurring here and nowhere else in Genesis —
+  carries the land, the fruitfulness, and offspring as a *qəhal ʿammîm*, and the man giving it has
+  already reconstructed the fraud of the previous chapter out loud. **The covenant was not stolen**,
+  which is what the wiki had flagged in advance at 27:27–29 and records here as delivered.
 
 ## Related themes
 

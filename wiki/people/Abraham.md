@@ -900,6 +900,12 @@ arrive.
   father who cannot see which one is in front of him. **Nothing else of his is in the blessing**: no
   land, no offspring like the stars, no covenant, and no use of his name. Those arrive at 28:4, where
   Isaac says *"the blessing of Abraham"* out loud and means it
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:1–4; **dead for years, named three times in five
+  verses, and the authority the whole passage runs on.** The blessing is *his* — *birkat ʾAbrāhām*,
+  the exact phrase occurring here and nowhere else in Genesis, and in the New Testament only at
+  Galatians 3:14. The land was given to *him*. And the marriage rule Isaac issues as a command is
+  *his oath* at 24:3, restated almost word for word — with the one clause he refused to release, that
+  his son must never make the journey, reversed by his son for his grandson
 
 ## Related people
 

@@ -101,7 +101,7 @@ meet his brother and weeps on his neck (33:4). See [[Vengeance]].
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
 After Jacob is sent away he marries Ishmael's daughter
-Mahalath, joining the two non-covenant lines (28:9). Twenty years later he comes to meet Jacob with
+[[Mahalath]], joining the two non-covenant lines (28:9). Twenty years later he comes to meet Jacob with
 four hundred men and embraces him instead (33:1–4), refuses the gift and then takes it, and goes back
 to Seir. **He takes his household away from his brother because the land could not hold both of
 them** (36:6–8) — the fourth and last time Genesis clears a brother off the stage — and his *toledot*
@@ -128,7 +128,11 @@ Israel."*
   grievance — Genesis 27:36
 - Given the sword, the service, and the yoke he will one day shake off — Genesis 27:39–40
 - Plans to kill Jacob when Isaac is mourned, and never does it — Genesis 27:41
-- Marries Mahalath, daughter of [[Ishmael]] and sister of Nebaioth — Genesis 28:9 *(not yet ingested)*
+- Watches his brother be blessed and sent, and reasons his way to the family's marriage policy — the
+  longest stretch of reported thinking Genesis ever gives him — Genesis 28:6–8,
+  [[Isaac Sends Jacob to Paddan Aram]]
+- Marries [[Mahalath]], daughter of [[Ishmael]] and sister of Nebaioth, **besides the wives he had** —
+  Genesis 28:9
 - Comes with four hundred men, and runs to embrace his brother — Genesis 33:1–17 *(not yet ingested)*
 - Buries Isaac with Jacob, named first — Genesis 35:29 *(not yet ingested)*
 - Settles in Seir; his *toledot*, chiefs, and kings — Genesis 36 *(not yet ingested)*
@@ -149,6 +153,12 @@ Israel."*
   blessing into *"these two times"*; and he asks the question the chapter answers with a yes —
   *"Have you but one blessing, my father?"* Then he plans a murder for after his father's funeral and
   never carries it out
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:6–9; **the only place in Genesis where the
+  narrator works from inside Esau's head.** Two occurrences of *Esau saw* govern four clauses — the
+  blessing, the sending, the errand, the prohibition, his brother's obedience — and the conclusion he
+  draws is right: *"the daughters of Canaan didn't please Isaac, his father."* The remedy is not. He
+  goes to Ishmael's house and marries [[Mahalath]], his first cousin out of the branch the covenant
+  had already passed over, **and keeps the Hittite wives the correction was for**
 
 ## Related people
 
@@ -158,7 +168,9 @@ Israel."*
 - [[Rebekah]] — his mother, who receives the oracle against him and engineers the blessing away from
   him
 - [[Ishmael]] — the previous elder son passed over, and later his father-in-law: Esau marries
-  Mahalath at 28:9, joining the two non-covenant lines
+  [[Mahalath]] at 28:9, joining the two non-covenant lines
+- [[Mahalath]] — his third wife, added to and not substituted for the first two; the register at
+  Genesis 36:3 calls her Basemath
 - [[Abraham]] — his grandfather, alive until he was fifteen on the book's own arithmetic
 - [[God]] — who ranks him below his brother before he is born, and does not speak to him in Genesis
 - [[Eliphaz the Temanite]] — Job's first friend, whose gentilic points at Esau's country; Genesis

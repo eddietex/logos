@@ -524,9 +524,11 @@ interpret. **Genesis 24 is where the book learns to do that.**
 - Genesis 25:20 — *"Isaac was forty years old when he took Rebekah … the daughter of Bethuel the
   Syrian of Paddan Aram, the sister of Laban the Syrian, to be his wife"*, the only date this
   marriage gets, and it comes four chapters later.
-- Genesis 27:46–28:5 — Rebekah, decades on, using the same argument Abraham used, to get her own son
-  sent to the same house: *"If Jacob takes a wife of the daughters of Heth … what good will my life do
-  me?"*
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:5; Rebekah, decades on, using the same
+  argument Abraham used, to get her own son sent to the same house: *"If Jacob takes a wife of the
+  daughters of Heth … what good will my life do me?"* — and Isaac reversing the one clause of the
+  oath that had no release, by sending the son himself. See
+  [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]].
 - Genesis 29:1–30 — Jacob at a well outside the same city, with the same family, negotiating with the
   same man, and cheated with a veil.
 - Genesis 31:24, 29 — *"speak neither good nor bad"*, the idiom Laban uses here at 24:50, said to

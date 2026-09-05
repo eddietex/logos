@@ -10,12 +10,13 @@ tags: [connection]
 - **Genesis 26:34–35** — *"he took as wife Judith, the daughter of Beeri the Hittite, and Basemath,
   the daughter of Elon the Hittite. They grieved Isaac's and Rebekah's spirits."* — [[Isaac in Gerar]]
 - **Genesis 28:6–9** — Esau, seeing that Canaanite wives displease his father, marries *"Mahalath the
-  daughter of Ishmael, Abraham's son, the sister of Nebaioth"* *(not yet ingested)*
+  daughter of Ishmael, Abraham's son, the sister of Nebaioth"* —
+  [[Isaac Sends Jacob to Paddan Aram]] and [[Mahalath]]
 - **Genesis 36:2–3** — *"Esau took his wives from the daughters of Canaan: Adah the daughter of Elon
   the Hittite; and Oholibamah the daughter of Anah, the daughter of Zibeon the Hivite; and Basemath,
   Ishmael's daughter, sister of Nebaioth."* *(not yet ingested)*
 - **Genesis 27:46** — Rebekah's *"I am weary of my life because of the daughters of Heth"*, which is
-  what 26:35 is for *(not yet ingested)*
+  what 26:35 is for — [[Isaac Sends Jacob to Paddan Aram]]
 
 ## Analysis
 
@@ -76,7 +77,8 @@ about the significance.** See [[Not from the Daughters of the Canaanites]] and [
 
 **And both agree that he corrected it in the wrong direction.** At 28:9, on seeing that the Canaanite
 marriages displeased his father, he marries a daughter of [[Ishmael]] — **joining the two lines the
-covenant passed over**, and doing it after the blessing has already gone.
+covenant passed over**, and doing it after the blessing has already gone. **He also keeps the first
+two**: *"besides the wives that he had."* See [[Mahalath]].
 
 ## Significance
 

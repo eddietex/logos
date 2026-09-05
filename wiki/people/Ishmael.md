@@ -201,6 +201,9 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
   father — Genesis 25:17, [[Gathered to His People]]
 - His descendants' range given as *"from Havilah to Shur"*, closing with the phrase the oracle at
   16:12 ended on — Genesis 25:18
+- Named as the father-in-law [[Esau]] goes to, roughly thirteen years after the book's own arithmetic
+  buries him; his daughter [[Mahalath]] marries the second elder son to be passed over — Genesis
+  28:9, [[Isaac Sends Jacob to Paddan Aram]]
 
 ## Appears in
 
@@ -218,6 +221,10 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
   bury his father beside the brother who displaced him, given the *toledot* formula the book spends on
   major figures, his twelve princes delivered exactly as promised at 17:20, and then the same death
   formula as Abraham — the only person outside the covenant line ever given it
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:9; named once, as a household rather than a man.
+  *"Esau went to Ishmael"* is said thirteen years after 25:17 buried him on the book's own numbers,
+  and is ordinarily read as *went to Ishmael's household*. **The elder son sent away at 21:12
+  receives the elder son passed over at 27:33**, and Genesis lets the symmetry stand without a word
 
 ## Related people
 
@@ -229,6 +236,8 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
   to someone else
 - [[Isaac]] — his half-brother, named a year before conception and given what he is refused; the two
   bury Abraham together at 25:9
+- [[Mahalath]] — his daughter, married to Esau at 28:9 and called Basemath by the register at 36:3
+- [[Esau]] — his son-in-law, and the next elder son to lose an inheritance to a younger brother
 
 ## Themes associated
 

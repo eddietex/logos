@@ -86,6 +86,9 @@ built on the same root, for its snow. Genesis makes nothing of it.
   Genesis 25:20, [[Jacob and Esau and the Sold Birthright]]
 - Named as the destination of the flight — *"flee to Laban, my brother, in Haran"* — Genesis 27:43,
   [[The Stolen Blessing]]
+- Named as the house Jacob is sent to for a wife, and named twice as *the Syrian* in the trailer at
+  the sending — *"take a wife from there from the daughters of Laban, your mother's brother"* —
+  Genesis 28:2, 5, [[Isaac Sends Jacob to Paddan Aram]]
 - Receives Jacob, fleeing Esau, at the same house — Genesis 29:1–14 *(not yet ingested)*
 - Substitutes Leah for Rachel; fourteen years' service — Genesis 29:15–30 *(not yet ingested)*
 - Changes Jacob's wages ten times — Genesis 31:7, 41 *(not yet ingested)*
@@ -107,6 +110,12 @@ built on the same root, for its snow. Genesis makes nothing of it.
   for an elder, in the dark, with the two words of the oracle in his mouth: *"It is not done so in
   our place, to give the younger before the firstborn"* (29:26). See
   [[The Younger Before the Firstborn - Jacob and Laban]]
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:2, 5; the destination stated a second time, now
+  by Isaac and as an instruction rather than an escape route. *"The daughters of Laban"* is the whole
+  of the marriage brief, and **it is plural** — a sentence that provides for two wives before either
+  is named. He is also the only man in the book to be sent to twice for a bride: once for a servant
+  with ten camels, once for a nephew with nothing. See
+  [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]]
 
 ## Related people
 

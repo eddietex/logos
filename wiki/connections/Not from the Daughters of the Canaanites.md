@@ -11,10 +11,12 @@ tags: [connection]
   Canaanites … But you shall go to my country, and to my relatives"* — [[A Wife for Isaac]]
 - **Genesis 26:34–35** — Esau, at forty, marries [[Judith]] and [[Basemath (daughter of Elon)]], both
   Hittites, and *"They grieved Isaac's and Rebekah's spirits"* — [[Isaac in Gerar]]
-- **Genesis 27:46** — Rebekah uses that grief as her argument for sending Jacob away
-  *(not yet ingested)*
-- **Genesis 28:1–2** — Isaac repeats his father's charge to Jacob, almost word for word
-  *(not yet ingested)*
+- **Genesis 27:46** — Rebekah uses that grief as her argument for sending Jacob away —
+  [[Isaac Sends Jacob to Paddan Aram]]
+- **Genesis 28:1–2** — Isaac repeats his father's charge to Jacob, almost word for word —
+  [[Isaac Sends Jacob to Paddan Aram]]
+- **Genesis 28:6–9** — Esau works out the rule from watching it applied to his brother, and marries
+  a daughter of [[Ishmael]] — [[Isaac Sends Jacob to Paddan Aram]]
 - **Genesis 34** — Dinah, Shechem, and a proposal of general intermarriage answered with a massacre
   *(not yet ingested)*
 - **Genesis 38:2; 41:45; 46:10** — Judah marries a Canaanite, Joseph an Egyptian priest's daughter,
@@ -51,7 +53,10 @@ prohibits both what Genesis 24 forbids and what it prescribes**, and Genesis nev
 
 ### The rule hardening
 
-**Isaac restates it as a command** (28:1–2), and the trigger is a real grievance: Esau's two Hittite
+**Isaac restates it as a command** (28:1–2), and **the restatement drops the machinery and keeps the
+rule**: no oath, no sanction, no release clause, no servant, no camels — and the one term Abraham
+would not release, that his son must never make the journey, is reversed by that son for his own.
+See [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]]. The trigger is a real grievance: Esau's two Hittite
 wives, of whom Genesis says *"They grieved Isaac's and Rebekah's spirits"* — *mōrat rûaḥ*, a
 **bitterness of spirit** (26:35) — and Rebekah's argument for sending Jacob away is that if he does
 the same, *"what good will my life do me?"* (27:46). She is quoting Abraham's principle at Isaac to

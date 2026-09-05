@@ -126,6 +126,9 @@ is carried back to Machpelah.
   Genesis 27:36
 - Sent to [[Laban]] in [[Haran (city)]] to escape a death threat, for *"a few days"* that become
   twenty years — Genesis 27:42–45
+- Blessed a second time, knowingly, and given *"the blessing of Abraham"* with the land attached;
+  sent to Paddan Aram for a wife, silent throughout and carrying nothing the text names — Genesis
+  28:1–5, [[Isaac Sends Jacob to Paddan Aram]]
 - The stairway at Bethel, and the promise given to him in his own right — Genesis 28:10–22
   *(not yet ingested)*
 - Married to Leah in Rachel's place, and serves fourteen years — Genesis 29:15–30 *(not yet ingested)*
@@ -151,6 +154,12 @@ is carried back to Machpelah.
   repeats it under direct questioning, and uses God's name as cover with the pronoun ***your***. He
   never produces the birthright he legally holds, never mentions the oracle, and leaves the chapter
   with a blessing, a death threat, and nothing else
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9; **he says nothing.** He is called,
+  blessed, commanded, and sent, and Genesis records no reply and no baggage — no camels, no gifts, no
+  servant, against the ten camels his father's bride was fetched with. What he receives is the part
+  of the promise chapter 27 did not contain: *ʾĒl Šadday*, fruitfulness, a *company of peoples*, the
+  land of his sojournings, and *"the blessing of Abraham"* by name. The only thing said about him
+  from outside is Esau's observation that he *obeyed his father and his mother*
 
 ## Related people
 

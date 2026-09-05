@@ -85,8 +85,9 @@ observation about the negotiation's form, not as an identification of these peop
   [[The Death of Abraham and the Line of Ishmael]]
 - Sell to Abraham the field Jacob's sons are later told to bury him in — Genesis 49:29–32
   *(not yet ingested)*
-- Esau marries two Hittite women, to Isaac and Rebekah's grief — Genesis 26:34–35; 27:46
-  *(not yet ingested)*
+- Esau marries two Hittite women, to Isaac and Rebekah's grief — Genesis 26:34–35, [[Isaac in Gerar]]
+- *"The daughters of Heth"*, twice in one verse, are the argument Rebekah gives Isaac for sending
+  Jacob out of the country — Genesis 27:46, [[Isaac Sends Jacob to Paddan Aram]]
 
 ## Appears in
 
@@ -95,6 +96,12 @@ observation about the negotiation's form, not as an identification of these peop
   the refusal wrapped in an offer, and the witnessing that makes the deed hold
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:10; named once more as the vendors,
   in the clause that records where the buyer was buried
+- [[Isaac in Gerar]] — Genesis 26:34–35; [[Judith]] and [[Basemath (daughter of Elon)]], the two
+  women of this people whom Esau marries at forty, and the *bitterness of spirit* they cause
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46; **named twice in one verse as a reason to
+  leave the country.** The people who sold Abraham the only ground his family owns are, one
+  generation later, the grievance that gets his grandson sent four hundred miles away for a wife.
+  Genesis does not connect the two and the wiki notes that it does not
 
 ## Related people
 

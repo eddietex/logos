@@ -162,6 +162,11 @@ has become a nation.
   ingested)*
 - Exodus 1:15–21 — the midwives, and God dealing well with them
 - John 8:44 — *"the father of lies"*
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46, **the theme at its quietest and in a form the
+  book has not used before.** Rebekah says nothing false: the Hittite daughters-in-law are real, the
+  grief is four verses old, and 26:35 records it. **What is withheld is that a man means to kill her
+  son.** This is not a half-truth aimed at a stranger but a true grievance offered to a husband as a
+  whole reason, and it is the last thing she says in Scripture.
 
 ## Related themes
 

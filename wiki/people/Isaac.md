@@ -469,8 +469,9 @@ and speaks in only the first of them.
   blessed"* — Genesis 27:33
 - Names the deceit to Esau, tells him the supply is spent, and gives him a sword and a yoke —
   Genesis 27:35–40
-- Sends Jacob to Paddan Aram with *"the blessing of Abraham"*, knowingly this time — Genesis 28:1–5
-  *(not yet ingested)*
+- Sends Jacob to Paddan Aram with *"the blessing of Abraham"*, knowingly this time; restates his
+  father's marriage oath as his own command and reverses its one unreleased clause by sending the son
+  himself — Genesis 28:1–5, [[Isaac Sends Jacob to Paddan Aram]]
 - Dies at a hundred eighty — Genesis 35:28–29 *(not yet ingested)*
 
 ## Appears in
@@ -514,6 +515,13 @@ and speaks in only the first of them.
   clearest statement that a blessing cannot be recalled, made by the man it was stolen from. **The
   blessing he gives contains no land, no offspring, and no mention of Abraham**; he hands the
   covenant over knowingly at 28:3–4
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9; **the transfer done in the open.** He
+  *calls* Jacob, blesses him a second time, and gives him what 27:27–29 did not have: *ʾĒl Šadday*,
+  *be fruitful and multiply*, a *company of peoples*, the land of his sojournings, and *"the blessing
+  of Abraham"* by name. He restates his father's oath at 24:3 as a command, and reverses the one
+  clause of it that had no release — that the son must never make the journey — by sending Jacob
+  himself, alone. **These are his last recorded words to Jacob**, and he does not speak again until
+  his burial notice
 
 ## Related people
 

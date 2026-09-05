@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 17:1** — *"I am God Almighty. Walk before me, and be blameless."* The name's first
   occurrence in Scripture. See [[Circumcision, the Sign of the Covenant]].
 - **Genesis 28:3** — Isaac sending Jacob to Paddan Aram: *"May God Almighty bless you, and make you
-  fruitful, and multiply you."*
+  fruitful, and multiply you."* See [[Isaac Sends Jacob to Paddan Aram]].
 - **Genesis 35:11** — at Bethel, with Jacob's renaming: *"I am God Almighty. Be fruitful and multiply.
   A nation and a company of nations will be from you, and kings will come out of your body."*
 - **Genesis 43:14** — Jacob sending his sons back to Egypt: *"May God Almighty give you mercy before

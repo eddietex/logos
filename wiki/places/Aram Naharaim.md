@@ -69,6 +69,12 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   *"Rebekah, the daughter of Bethuel the Syrian of Paddan Aram, the sister of Laban the Syrian"*. The
   *toledot* form files a generation with its parentage — and the verse also **plants [[Laban]]**, four
   chapters before he takes over the life of the son about to be born
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:2, 5–7; **four occurrences of *Paddan Aram* in
+  nine verses**, more than anywhere else in the book, and the region named as an instruction for the
+  second time: *"Arise, go to Paddan Aram, to the house of Bethuel your mother's father."* What has
+  changed since 24:10 is who travels. **Abraham's oath forbade Isaac ever to come here, twice over
+  (24:6, 8); Isaac sends his own son, alone and carrying nothing the text names.** See
+  [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]]
 
 ## Related places
 
@@ -86,6 +92,8 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
 - Abraham's servant arrives at the well outside the city of Nahor and meets [[Rebekah]] —
   Genesis 24:10–27, [[A Wife for Isaac]]
 - Rebekah's family agrees, blesses her, and sends her to Canaan — Genesis 24:50–61
+- Jacob is sent here for a wife from the daughters of [[Laban]] — Genesis 28:2, 5,
+  [[Isaac Sends Jacob to Paddan Aram]]
 - Jacob arrives, serves fourteen years, and marries Leah and Rachel — Genesis 29 *(not yet ingested)*
 - Eleven of Jacob's twelve sons are born — Genesis 29:31–30:24 *(not yet ingested)*
 - Jacob leaves, is pursued by Laban, and swears the boundary oath — Genesis 31 *(not yet ingested)*

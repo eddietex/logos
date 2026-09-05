@@ -56,7 +56,9 @@ follow too.
   Genesis 24:53, 55
 - Called *the Syrian* — *the Aramean* — and named as the father of Rebekah, in the pedigree at the
   head of Isaac's *toledot* — Genesis 25:20, [[Jacob and Esau and the Sold Birthright]]
-- Named again as Jacob is sent back to his house for a wife — Genesis 28:2, 5 *(not yet ingested)*
+- Named again, and named as alive, when Jacob is sent back to his house for a wife; **the last
+  mention of him in the Bible**, and he is nowhere in the household Jacob actually reaches at 29:13 —
+  Genesis 28:2, 5, [[Isaac Sends Jacob to Paddan Aram]]
 
 ## Appears in
 
@@ -66,6 +68,11 @@ follow too.
   turns on his daughter and hands the negotiation to his son
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:20; off-stage, and named in a pedigree the
   reader already has, because the *toledot* form files a generation with its parentage
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:2, 5; *"the house of Bethuel your mother's
+  father"* is the address Jacob is given, which makes this the one verse that treats him as a living
+  head of household. **It is also the last time Scripture mentions him.** Genesis narrates no death
+  for him, and when Jacob arrives it is [[Laban]] who runs out, embraces him, and takes him in
+  (29:13–14)
 
 ## Related people
 

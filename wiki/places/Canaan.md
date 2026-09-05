@@ -119,6 +119,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   is speaking to: *"that you may inherit the land where you travel, which God gave to Abraham"*
   (28:4). **The one thing in this family that cannot be stolen is the thing the whole cycle is
   about**
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:1, 4, 8; **the land promised and its daughters
+  forbidden, in the same speech.** Isaac gives Jacob *"the land where you travel, which God gave to
+  Abraham"* — *ʾereṣ məgurêkā*, the land of your sojournings, the phrase that describes it by the
+  word for not owning it — and in the previous breath forbids him *"a wife of the daughters of
+  Canaan."* Esau, watching, draws the correct conclusion from the second half and marries into
+  Ishmael's line instead
 
 ## Related places
 

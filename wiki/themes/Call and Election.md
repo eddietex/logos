@@ -171,6 +171,10 @@ the others.
   result matches what he said.** The two standing readings — that the deception was superfluous, and
   that providence runs through human wrongdoing without being laundered by it — are both available in
   the text, and **Genesis supplies no verdict on either**
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:1–5, 9; **the two passed-over branches converge.**
+  The promise goes north with the younger son, openly conferred this time; and [[Esau]], the second
+  elder son in the book to lose an inheritance, marries the daughter of [[Ishmael]], the first.
+  Genesis reports the symmetry in one verse and passes no verdict on it.
 
 ## Related themes
 

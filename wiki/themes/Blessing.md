@@ -256,6 +256,11 @@ costly.
   no land, no offspring, and no Abraham in it, and 28:3–4 supplies all three deliberately. **The most
   consequential blessing in Genesis is obtained by disguise and a flat lie, and nobody takes it
   back.** See [[Yes, He Will Be Blessed - The Irrevocable Word]]
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:1, 3–4; **the same blessing given a second time,
+  in the open, to a son the giver can identify.** *ʾĒl Šadday*, *be fruitful and multiply*, a
+  *company of peoples*, the land of his sojournings, and *"the blessing of Abraham"* by name —
+  every item chapter 27 lacked. **The one thing this book says a blessing cannot be is recalled**;
+  what it can be, apparently, is repeated and completed.
 
 ## Related themes
 

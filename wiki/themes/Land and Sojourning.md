@@ -203,6 +203,11 @@ where that starts, in a sentence about a family that got halfway.
   springs to a counter-claim he never contests. **He ends the chapter with a tent, an altar, a well,
   and a treaty — and no title to anything.** The only prohibition in the patriarchal promises is in
   the same speech: *"Don't go down into Egypt"*
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:4: ***ʾereṣ məgurêkā***, *the land of your
+  sojournings*, promised as an inheritance in the same clause that describes it by the word for not
+  owning it. The phrase is God's own at 17:8; here a father uses it over a son who is about to leave
+  the country for twenty years, and whose family will still hold nothing in it but a cave when
+  Genesis ends.
 
 ## Related themes
 

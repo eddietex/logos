@@ -181,6 +181,12 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   grieved Isaac's and Rebekah's spirits"* is the whole comment, and it is the only feeling the cycle
   records the two parents sharing. See [[Not from the Daughters of the Canaanites]] and
   [[The Names of Esau's Wives - Genesis 26 and Genesis 36]]
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46; 28:1–2, 6–9: **endogamy as covenant policy,
+  and both sons acting on it in the same passage.** Rebekah spends a real grievance about Hittite
+  daughters-in-law as the whole reason for a journey; Isaac restates Abraham's oath as a command and
+  names the bride's household in advance — *"the daughters of Laban"*, plural, for a man being sent
+  for one wife; and Esau, having correctly worked out the rule, marries [[Mahalath]] out of
+  [[Ishmael]]'s line **besides the wives he already had**.
 
 ## Related themes
 

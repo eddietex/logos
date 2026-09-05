@@ -91,6 +91,10 @@ holds up Esau as the warning.
 - Exodus 4:22; 13:2, 13; 34:20; Numbers 3:11–13 — the firstborn as God's claim, and their redemption
 - Hebrews 12:16–17, 23 — Esau as the warning, and *"the assembly of the firstborn"* in the same
   chapter
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:9; **the elder brother's answer to having lost
+  both.** Having forfeited the *bəkōrâ* and the *bərākâ*, [[Esau]] marries the daughter of
+  [[Ishmael]] — the previous elder son to be passed over — and keeps the wives whose marriages caused
+  the trouble. The correction is additive, which is what stops it being one.
 
 ## Related themes
 

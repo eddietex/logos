@@ -58,6 +58,10 @@ scene — the whole apparatus of chapter 24 absent in one verse. See
 
 - [[Isaac in Gerar]] — Genesis 26:34–35; one clause, and half of the grief that sets chapter 27's
   ending going
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46; 28:9; the other half of *"the daughters of
+  Heth"*, and one of the wives Esau adds to rather than replaces. **28:9 is where her name goes
+  missing**: the woman Esau marries there is called Mahalath, and the register at 36:3 gives
+  *Basemath* to that woman and *Adah* to this one
 
 ## Related people
 
@@ -67,6 +71,7 @@ scene — the whole apparatus of chapter 24 absent in one verse. See
 - [[Isaac]] and [[Rebekah]] — her parents-in-law
 - [[Ishmael]] — whose daughter Esau marries at 28:9 to correct the fault of this marriage, and to
   whom the second list attaches this name
+- [[Mahalath]] — that daughter, who carries this page's name in the register at 36:3
 
 ## Themes associated
 

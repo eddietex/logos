@@ -202,8 +202,9 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   Genesis 27:14–17
 - Overhears Esau's plan a second time and sends Jacob to [[Laban]] in [[Haran (city)]] for *"a few
   days"* — Genesis 27:42–45
-- Gives Isaac the Hittite wives as her reason, never the blessing — Genesis 27:46
-  *(not yet ingested)*
+- Gives Isaac the Hittite wives as her reason, never the blessing or the murder plot; *qaṣtî
+  bəḥayyay*, *I loathe my life* — **her last recorded words in Scripture** — Genesis 27:46,
+  [[Isaac Sends Jacob to Paddan Aram]]
 - Buried in the cave of Machpelah; named only in Jacob's burial instructions — Genesis 49:31
   *(not yet ingested)*
 
@@ -233,6 +234,12 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   kind in Genesis.** She says *"obey my voice"* three times, never once mentions the oracle she was
   given, estimates the exile at *"a few days"*, promises to send for him and never does, and gives
   her husband a different reason for the flight than the true one
+- [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46; **one verse, and it is the last she ever
+  speaks.** She takes a four-verse-old grievance — the Hittite daughters-in-law of 26:35 — and spends
+  it as the whole reason for a journey whose actual cause is a death threat she has just been told
+  about. *Qaṣtî bəḥayyay*, *I loathe my life*, is stronger than the WEB's *weary*, and it works
+  inside one verse. **Nothing she says is false and nothing she says is the reason**, and Genesis
+  never lets her and Isaac discuss what happened in the tent
 
 ## Related people
 
