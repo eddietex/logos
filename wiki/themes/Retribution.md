@@ -101,6 +101,12 @@ verdicts.
   a pattern and marks the moral inference as the reader's, not the book's.** See
   [[The Younger Before the Firstborn - Jacob and Laban]] and
   [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
+- [[Jacob, Leah, and Rachel]] — Genesis 29:23–26; **the other half of that scene, now ingested.** The
+  substitution happens, Jacob discovers it in the morning, and **Genesis supplies no comment of any
+  kind** — no narrator's aside, no divine speech, and not a word from Jacob connecting his wedding
+  night to his father's bedside. **The one voice that speaks in the passage is Laban's, and Laban is
+  explaining a custom.** The measure-for-measure reading is the reader's inference and the book
+  permits it; the wiki files it as an inference
 - [[Job of Uz]] — the doctrine's premises assembled without being stated: a blameless man, an
   itemised fortune, and the correlation between them that the friends will read backwards once the
   fortune is gone

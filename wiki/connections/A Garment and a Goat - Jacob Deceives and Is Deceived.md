@@ -90,6 +90,10 @@ changes of clothing (45:22) in the chapter where he stops hiding. See [[Nakednes
   who has read both**, which is the register the whole Jacob cycle is written in. See
   [[The Stolen Blessing]] and [[Jacob]].
 - **It is the second of three times the family's method comes back on its user.** The other two are
-  Laban substituting the elder daughter for the younger (29:23–26), and Judah being told *"She is
-  more righteous than I"* by a woman who used a veil and a pledge (38:26). See
-  [[The Younger Before the Firstborn - Jacob and Laban]].
+  Laban substituting the elder daughter for the younger (29:23–26, now on the page at
+  [[Jacob, Leah, and Rachel]]), and Judah being told *"She is more righteous than I"* by a woman who
+  used a veil and a pledge (38:26). See [[The Younger Before the Firstborn - Jacob and Laban]].
+- **The Genesis 29 instance is the one without a prop**, which is worth noting on a page about props.
+  There is no garment and no goat on the wedding night — **no veil is mentioned in the text at all** —
+  and the deception is carried entirely by darkness, a drinking feast, and the fact that nobody in the
+  town says anything. **The family's technique works here with nothing in its hands.**

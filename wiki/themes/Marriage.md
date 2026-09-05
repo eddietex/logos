@@ -188,6 +188,15 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   for one wife; and Esau, having correctly worked out the rule, marries [[Mahalath]] out of
   [[Ishmael]]'s line **besides the wives he already had**.
 
+- [[Jacob, Leah, and Rachel]] — Genesis 29:15–30; **the book's most complicated marriage and the one
+  Israel comes out of.** A bride-price paid in labour rather than goods — Jacob has no ***mōhar***, so
+  he names seven years and then serves seven more; a bride substituted on the wedding night and a
+  second bride delivered a week later; two slaves handed over as part of the transfer; and **two
+  sisters married to one living man, which Leviticus 18:18 forbids by name and for a stated reason**,
+  *to be a rival*. The chapter also puts Adam's *"bone of my bones, and flesh of my flesh"* (2:23)
+  into a second mouth — Laban's, about a nephew — where it is a claim of kinship rather than of
+  marriage. See [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]]
+
 ## Related themes
 
 - [[Creation]]

@@ -157,6 +157,13 @@ theme, and its last appearance inverts who performs it.
   the pattern from the other side**: *"I will not eat until I have told my message"*, reversing the
   order every hospitality scene in the book has kept, in which the meal comes first
 
+- [[Jacob, Leah, and Rachel]] — Genesis 29:13–15; **the welcome that turns into an account.** Laban
+  runs, embraces, kisses, and takes his nephew home, exactly as he did for the servant at 24:29–31 —
+  **but the causal clause the narrator supplied there is withheld here**, because this guest has no
+  gold on him. What arrives instead, one month later, is *"Because you are my brother, should you
+  therefore serve me for nothing? Tell me, what will your wages be?"* **The hospitality is real and it
+  is also the opening of a ledger**, and the wiki reads it as both rather than choosing
+
 ## Related themes
 
 - [[Judgment]] — which in Genesis 19 and Luke 10 turns on how visitors were treated

@@ -1,6 +1,6 @@
 ---
 type: place
-also_known_as: [Mesopotamia, Paddan Aram, Aram of the two rivers, the city of Nahor]
+also_known_as: [Mesopotamia, Paddan Aram, Aram of the two rivers, the city of Nahor, the land of the children of the east]
 tags: [place]
 ---
 # Aram Naharaim
@@ -79,6 +79,14 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   Jacob to *Paddan Aram*; five verses later he *"went toward Haran"*. The narrative register uses the
   town, the genealogical register uses the region, and Genesis puts them in adjacent verses without
   reconciling them
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1; **a third name for the same destination, in the third
+  consecutive chapter to name it.** 28:5 sent him to *Paddan Aram*, 28:10 had him walking toward
+  *Haran*, and 29:1 has him arrive in ***the land of the children of the east***, ***ʾereṣ
+  bənê-qedem*** — **the phrase's only occurrence in Genesis**, and a designation wide enough that the
+  Bible's other notable son of the east is [[Job (person)]], *"the greatest of all the children of the
+  east"* (Job 1:3). **It gets no page of its own**, on the decision already recorded for *Paddan
+  Aram*: one country under four labels. And the pericope bears out what this page's overview says
+  about the region — **thirty verses set here, and God is not named in any of them**
 
 ## Related places
 

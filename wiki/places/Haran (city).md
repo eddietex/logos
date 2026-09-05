@@ -68,6 +68,12 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
   destination — **against 28:5's regional *Paddan Aram*, five verses earlier.** The two registers sit
   in adjacent verses and Genesis reconciles neither; the town is where [[Laban]] is actually found
   (29:4–5)
+- [[Jacob, Leah, and Rachel]] — Genesis 29:4; **the arrival, confirmed by strangers rather than by the
+  narrator.** Jacob asks a group of shepherds at a well where they are from and they say *"We are from
+  Haran"* — **which is how the reader learns he has got there**, since 29:1 places him only in *the
+  land of the children of the east*. The next question settles it: *"Do you know Laban?"* *"We know
+  him."* **The town that Abraham was called out of and Rebekah was fetched from is, for the next
+  twenty years, simply where Jacob lives**
 
 ## Related places
 

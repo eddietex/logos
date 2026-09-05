@@ -96,6 +96,17 @@ holds up Esau as the warning.
   [[Ishmael]] — the previous elder son to be passed over — and keeps the wives whose marriages caused
   the trouble. The correction is additive, which is what stops it being one.
 
+- [[Jacob, Leah, and Rachel]] — Genesis 29:26; **the ordinary rule stated out loud, once, by a
+  foreigner, to the standing exception to it.** *"It is not done so in our place, to give the younger
+  before the firstborn"* — ***haṣṣəʿîrâ*** before ***habbəkîrâ***, the feminine of the two nouns the
+  whole Jacob cycle runs on, and **not the vocabulary the narrator used four verses earlier**, where
+  the sisters were *the big one* and *the little one* (29:16). **Jacob asks in the narrator's register
+  and is refused in the oracle's**, by a man explaining a wedding who has no idea what he is saying.
+  The household this produces is then the one Deuteronomy 21:15–17 legislates: a loved wife, a hated
+  wife, and a firstborn who loses the double portion anyway. See
+  [[The Younger Before the Firstborn - Jacob and Laban]] and
+  [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]]
+
 ## Related themes
 
 - [[Call and Election]] — the choice with no stated ground, and the same texts

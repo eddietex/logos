@@ -136,6 +136,15 @@ addressing a slave by name and no one else in the story doing so.
   and decades after the expulsion that ended the arrangement. Genesis never stops identifying her by
   the woman who owned her, and never remarks on it
 
+- [[Jacob, Leah, and Rachel]] — Genesis 29:24, 29; **two women given away in two matching verses**, as
+  part of a wedding settlement: [[Zilpah]] to [[Leah]], [[Bilhah]] to [[Rachel]], each named and each
+  the object of the sentence rather than its subject. ***Šipḥâ*** is the word used of [[Hagar]] at
+  16:1, and within one chapter both will be given again — this time to Jacob, by their mistresses,
+  on the Genesis 16 precedent — and **four of the twelve tribes will descend from them.** The same
+  passage has a free man contract fourteen years of his own labour because he has nothing else to pay
+  with, which is the theme's other half: **the household's slaves are property, and the son-in-law is
+  wages**
+
 ## Related themes
 
 - [[Land and Sojourning]] — the other half of Israel's self-description: strangers and slaves

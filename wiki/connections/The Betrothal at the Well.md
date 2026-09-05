@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - **Genesis 24:10–61** — the servant and [[Rebekah]] outside the city of Nahor — [[A Wife for Isaac]]
-- **Genesis 29:1–20** — Jacob and Rachel at the well in the east *(not yet ingested)*
+- **Genesis 29:1–20** — Jacob and Rachel at the well in the east — [[Jacob, Leah, and Rachel]]
 - **Exodus 2:15–21** — Moses and Zipporah at the well in Midian
 - **John 4:1–42** — Jesus and the Samaritan woman at Jacob's well
 - Compare **1 Samuel 9:11–13** — Saul meets young women drawing water, and the scene declines to
@@ -48,6 +48,16 @@ of the woman**, and she is the one who passes it.
 away, and the man at the well is a proxy who cannot marry anybody. **The pattern's protagonist has
 been replaced by a servant**, which is of a piece with everything else Genesis does with Isaac: named
 before conception, bound without speaking, married by errand. See [[Isaac]].
+
+**Genesis 29 sharpens two of the elements now that it is on the page.** The girl is announced
+**inside a sentence about something else** — Jacob asks whether Laban is well, and the shepherds
+begin *"It is well"* and break off to point: *"See, Rachel, his daughter, is coming with the sheep"*
+(29:6) — which is the same interruption as 24:15's *"before he had finished speaking"*, with a
+shepherd's report standing in for a prayer. And **the feat is performed against a stated
+impossibility**: verses 3 and 8 both say the stone waits for all the flocks and all the men, and
+verse 10 has Jacob roll it off alone, with *"his mother's brother"* repeated three times in the one
+verse. **Genesis calls it neither a miracle nor a display**, and none of the watching shepherds says
+a word about it. See [[Rachel]].
 
 **Genesis 29 is the same well, the same family, and the same house — and it goes wrong.** Jacob
 arrives at a well in the same country and is met by [[Laban]], who welcomed the servant twenty-odd

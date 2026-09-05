@@ -122,3 +122,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[I Will Be With You - The Promise of Presence]] | thread | Genesis 26:3, 24 · Genesis 28:15 · Genesis 39:2, 21 · Exodus 3:12 · Joshua 1:5 · Judges 6:16 · Isaiah 41:10; 43:2 · Jeremiah 1:8 · Haggai 1:13 · Matthew 1:23; 28:20 · Hebrews 13:5 |
 | [[The Pillar Jacob Raised and the Pillars the Law Forbids]] | tension | Genesis 28:18, 22 · Genesis 31:45 · Genesis 35:14, 20 · Exodus 24:4 · Leviticus 26:1 · Deuteronomy 16:22 · Joshua 24:26–27 · 2 Kings 18:4 · Isaiah 19:19 |
 | [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 |
+| [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] | law-and-narrative | Genesis 29:23–30 · Genesis 30:1–24 · Leviticus 18:18 · Genesis 20:12 · Exodus 6:20 |
+| [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] | law-and-narrative | Genesis 29:30–33 · Genesis 35:22 · Genesis 49:3–4 · Deuteronomy 21:15–17 · 1 Chronicles 5:1–2 · Malachi 1:2–3 · Romans 9:13 |
+| [[Like Rachel and Like Leah - The Builders of the House of Israel]] | quotation | Genesis 29:16–30 · Genesis 35:16–20 · Genesis 49:31 · Ruth 4:11–12 · Jeremiah 31:15 · Matthew 2:18 |

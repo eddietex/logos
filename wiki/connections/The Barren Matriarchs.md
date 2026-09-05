@@ -73,9 +73,11 @@ Hebrew narrative is an annunciation formula**, and a reader who meets one knows 
   numerous as the stars begins three times over with a woman who cannot have a child. **The
   genealogies run on biology and the covenant does not.**
 - **It is also where the book's women act.** Sarai gives Hagar to Abram and then drives her out;
-  Rebekah goes to inquire of Yahweh and is given the oracle; Rachel and Leah conduct a decade-long
-  contest with servants and mandrakes. **The most consequential decisions in Genesis taken by women
-  are all taken inside this problem.**
+  Rebekah goes to inquire of Yahweh and is given the oracle; [[Rachel]] and [[Leah]] conduct a
+  decade-long contest with servants and mandrakes. **The most consequential decisions in Genesis taken
+  by women are all taken inside this problem** — and in Rachel's case the problem is announced in the
+  verse immediately after the one that ranks her above her sister, which is the arrangement
+  [[Jacob, Leah, and Rachel]] sets up and 29:31 springs.
 - **The pattern becomes a figure for the people.** Isaiah 54:1 — *"Sing, barren, you who didn't
   bear"* — addresses exiled Zion in the matriarchs' language, and Paul quotes it in the middle of an
   argument about Sarah and Hagar (Galatians 4:27). See [[Hagar and Sarah in Galatians]].

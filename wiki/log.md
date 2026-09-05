@@ -5001,3 +5001,141 @@ wikilinks, so none is a finding: 31:11–13 (the angel citing the vow, and *"I a
 32:24–31 (the second night alone and the sunrise at Peniel), 35:1–15 (the return, the buried gods,
 and the second pillar), 46:1–4 (Beersheba again, on the way down to Egypt), and 48:15–16 (Jacob's
 deathbed verdict on the bread he asked for conditionally).
+
+## [2026-09-05] ingest | Genesis 29.1-30 — Jacob, Leah, and Rachel
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+its first unchecked box read `Jacob, Leah, and Rachel — Genesis 29:1–30`. `raw/bible/Genesis.md` was
+already present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the
+passage page. The tree was clean at the start of the session, on `main` at `8e5d224`, and nothing
+needed committing separately first. **The boundary was used as drawn and needed no revision.**
+
+### What the pericope is
+
+**God is not in it — and the technique of chapter 27 is run back on the man who used it.**
+
+- **The absence is the page's organising claim and it is checkable.** *Yahweh* and *ʾĕlōhîm* do not
+  occur in 29:1–30; the first divine name in the chapter is at 29:31, *"Yahweh saw."* **No speech, no
+  dream, no altar, no vow, no prayer** — four verses after *"I am with you, and will keep you,
+  wherever you go."* Genesis has left God out of a passage before (14; 19:30–38), but **never
+  immediately after a theophany**, and this is the first time.
+- **29:1–8.** ***Wayyiśśāʾ raglāyw***, *he lifted his feet* — an idiom that occurs **once in the
+  Hebrew Bible** — against 28:11's *wayyipgaʿ*, *he ran into the place*. ***ʾEreṣ bənê-qedem***, the
+  land of the children of the east, is a **third name for the destination in three chapters** (after
+  *Paddan Aram*, 28:5, and *Haran*, 28:10) and its **only occurrence in Genesis**; the wiki's other
+  son of the east is Job 1:3. The stone is established **twice** (vv. 3, 8) as requiring all the
+  flocks and all the men.
+- **29:5.** ***"Laban, the son of Nahor"*** — against 22:22–23, 24:24, and 28:2, which make him
+  Bethuel's son and Nahor's great-grandson. **Recorded as a contradiction between passages and not
+  resolved**; both standing explanations (*bēn* as *descendant*, as at 2 Kings 9:2, 20; identification
+  by head of line) are on the page and on `Nahor (brother of Abram)`, and neither is adopted.
+- **29:10–12.** ***ʾĂḥî ʾimmô***, *his mother's brother*, **three times in one verse** and required by
+  nothing — at the daughter, the sheep, and the flock, at the exact moment he does the work. He rolls
+  the stone **alone**: the only feat of physical strength attributed to any patriarch, and Genesis
+  gives no reaction from the watching shepherds. He kisses her **before** naming himself — and
+  *"lifted up his voice, and wept"* is **the third and last occurrence of that formula in Genesis and
+  the only one that is not grief** (21:16 Hagar; 27:38 Esau; verified by grep). His credential is
+  *"Rebekah's son"*, and **it is her last appearance in the narrative of his life.**
+- **29:14.** ***ʿAṣmî ûbśārî*** — **the second occurrence of the idiom in the Bible**, after Adam's at
+  2:23. The formula of the first marriage, spoken by an uncle about a nephew, one verse before the
+  wages question.
+- **29:17.** ***Rakkôt*** — *soft, tender, delicate*. **Both readings on the page and neither
+  adopted**: the LXX's *weak* (which the WEB follows) and the reading that takes it as Leah's one
+  compliment, outbid in the same sentence. What is not in doubt is the structure — one feature against
+  a whole person, joined adversatively.
+- **29:18, 20, 30.** ***ʾĀhab*** three times in thirteen verses. **29:18 is the first love in the
+  Bible that precedes a marriage rather than following it** — 24:67 has Isaac take Rebekah *and then*
+  love her, and 22:2 is the verb's first occurrence in Scripture. And **29:20's *kəyāmîm ʾăḥādîm* is
+  Rebekah's own phrase from 27:44**, the *few days* she sent him away for.
+- **29:22–25.** ***Mišteh*** is a **drinking** feast, from *šātâ*, and this is the second time Genesis
+  puts a *mišteh*, a night, and an unrecognised woman in one paragraph (19:30–38 is the first).
+  **Genesis never explains the mechanism — there is no veil in the text**, and readers import it from
+  24:65. ***Rimmîtānî*** is from the root of Isaac's ***mirmâ*** at 27:35, and *"What is this you have
+  done to me?"* is the formula three foreign kings used on Abram, Abraham, and Isaac — **the first
+  time a member of the family asks it rather than answering it.**
+- **29:26.** The vocabulary switch, which is new on this page: **the narrator's pair at 29:16 is
+  *haggədōlâ / haqqəṭannâ*, and Jacob uses it at 29:18** (*bitəkā haqqəṭannâ*). **Laban answers with
+  *haṣṣəʿîrâ / habbəkîrâ***, which is not the chapter's vocabulary but the oracle's (25:23) and the
+  birthright's. **Jacob asks in the neutral register and is refused in the register of his own life.**
+- **29:27–28.** ***Šābuaʿ*** is the **bridal week**, seven days (Judges 14:12). **He waits seven years
+  and one week for Rachel, not fourteen years** — the second seven are served afterwards — and the
+  page says so explicitly because the fourteen-year version is what most readers arrive with.
+- **29:30.** *"He loved also Rachel more than Leah"* — **the narrator's own voice**, and the exact
+  construction Deuteronomy 21:15–17 legislates.
+
+### Judgment calls made unattended
+
+- **Boundary kept as planned (29:1–30).** 29:1 opens with a fresh itinerary formula; 29:31 restarts
+  with God as subject and begins the births. **The alternative split — 29:1–14 arrival, 29:15–30
+  marriages — was considered and rejected**: the well scene and the wages are one negotiation, and
+  29:14's *"my bone and my flesh"* is what makes 29:15 possible.
+- **Title kept as planned.** *Jacob, Leah, and Rachel* — the order is the passage's own, not
+  chronology's. *Jacob Serves for Rachel* and *Leah for Rachel* were considered and each names only
+  one of the two women the rest of the book runs on. **No title collision with any other book.**
+- **`Beersheba` was deliberately dropped from the passage's Places list** and demoted to a note,
+  because it is not named anywhere in 29:1–30; the places index was not touched for it. The chapter
+  invites the link (a well, and *well of seven*) and the page says so in prose instead.
+- **`God` is not listed in the passage's People section as an appearance**, only as an absence, and
+  `wiki/people/God.md` was not edited and not given a new key-passage row. **A page with no divine
+  name in it does not get counted as an appearance**, and the log records this as the rule applied.
+- **`Envy` and `Barrenness` got related-people links only, not key-passage entries** — Rachel's
+  barrenness and *qānāʾ* are 29:31 and 30:1, next pericope — so neither row was touched in
+  `wiki/themes/index.md`.
+- **Four person pages created, including two for women named once.** `Zilpah` and `Bilhah` get pages
+  on the wiki's standing practice for anyone Genesis names (cf. `Ahuzzath`, `Iscah`, `Reumah`), and
+  because both are mothers of tribes within one chapter.
+- **One theme page created: `Love`.** ***ʾĀhab*** has been in the book since 22:2 with no page, and
+  this is the pericope that forces one. The alternative — folding it into `Marriage` and `Favor and
+  Grace` — was rejected because the verb's Genesis behaviour is *ranking*, which neither of those
+  pages tracks.
+- **No page for *the land of the children of the east***, which is a loose regional label rather than
+  a locatable place. It is carried in `Aram Naharaim`'s `also_known_as` and appearance note, **on the
+  same decision recorded for *Paddan Aram* at `A Wife for Isaac` and for *Luz* at `Jacob's Ladder at
+  Bethel`.** **No page for the shepherds of 29:4–8**, who are a chorus.
+- **No connection page for the *mišteh* parallel** with Genesis 19:30–38. The observation is real but
+  narrow — shared vocabulary and shared sequence, with no verdict available — so it went into a new
+  section on the existing `The Drunkenness of Noah and the Drunkenness of Lot` instead of becoming a
+  page of its own.
+- **The measure-for-measure reading is filed as the reader's inference, not the book's claim**, on the
+  passage page and on `Retribution`, consistent with what those pages already said.
+
+### Pages touched
+
+**Created (9).** `wiki/passages/Genesis/Jacob, Leah, and Rachel.md`; people `Rachel`, `Leah`,
+`Zilpah`, `Bilhah`; theme `Love`; connections
+`Two Sisters - The Marriage Genesis Records and Leviticus Forbids`,
+`Loved and Hated - Genesis 29 and Deuteronomy 21.15-17`,
+`Like Rachel and Like Leah - The Builders of the House of Israel`.
+
+**Revised (25).** People: `Jacob` (new pericope section, six timeline entries, four related people,
+six themes), `Laban` (new pericope section, six timeline entries), `Rebekah`, `Bethuel` (the
+absence), `Nahor (brother of Abram)` (the 29:5 filiation). Places: `Aram Naharaim` (third name, plus
+`also_known_as`), `Haran (city)`. Themes: `Deception` (and its 29:21–27 forward reference resolved),
+`Marriage`, `Work`, `Birthright and the Firstborn`, `Slavery and Servitude`, `Retribution`,
+`Hospitality`, `Seeing and Being Seen` (forward reference narrowed to 29:31), `Strife and
+Peacemaking`, `Envy`, `Barrenness`. Connections: `The Betrothal at the Well` (its *(not yet
+ingested)* line resolved, plus a new paragraph), `The Younger Before the Firstborn - Jacob and Laban`
+(the vocabulary switch, and the missing veil), `A Garment and a Goat - Jacob Deceives and Is
+Deceived`, `Two Errands to Paddan Aram - Genesis 24 and Genesis 28`, `Not from the Daughters of the
+Canaanites`, `The Drunkenness of Noah and the Drunkenness of Lot`, `The Barren Matriarchs`.
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended),
+`wiki/books/index.md` (**36 / 59 → 37 / 59**), four new rows in `wiki/people/index.md`, one in
+`wiki/themes/index.md`, three in `wiki/connections/index.md`, and `Jacob, Leah, and Rachel` appended
+to the key-passages column of sixteen existing rows across the people, places, and themes indexes.
+`wiki/index.md` now reads **43 passages · 86 people · 48 places · 54 themes · 121 connections**,
+counted against what is on disk.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**. No wrapped links, no dangling targets; the expected baseline is
+**64** not-yet-started book pages, unchanged, since no new book page was created this pass. One
+wrapped link *was* produced during the pass — a `[[...]]` broken across the ~100-column wrap on
+`Like Rachel and Like Leah` — **and the script caught it before the commit**, which is the case check
+1 exists for.
+
+**Links deliberately left for later pericopes** — all of them plain scripture references rather than
+wikilinks, so none is a finding: 29:31–30:24 (*"Yahweh saw that Leah was hated"*, the births, and the
+mandrakes), 30:25–43 (the wages and the flocks), 31:19–35 (the stolen household gods) and 31:38–42
+(*"twenty years in your house"*), 35:16–20 (Rachel's death and her pillar), 35:22 with 49:3–4 (Reuben
+and Bilhah, and the birthright forfeited), and 49:31 (Leah buried at Machpelah).

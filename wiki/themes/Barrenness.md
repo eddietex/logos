@@ -165,3 +165,9 @@ the women than the frame they are written in.
 - [[Isaac]] — who prays, in the one verse of Genesis where he takes the initiative
 - [[Jacob]] and [[Esau]] — what twenty years of waiting produces, and they are struggling before they
   are born
+- [[Rachel]] — the third matriarch, and the only one whose barrenness is announced in the same verse
+  that says her sister's womb was opened (29:31); the loved wife, and the one who has to wait
+- [[Leah]] — the counterpart the pattern needs: the un-preferred wife who bears immediately, and who
+  names four sons after what she is still not getting
+- [[Bilhah]] and [[Zilpah]] — the slaves the barrenness is solved with, on the precedent [[Hagar]]
+  set at 16:2

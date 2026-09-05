@@ -122,3 +122,10 @@ What Genesis 24 itself establishes is narrower and stranger than what it is usua
 man who has been promised a country tells his servant that his son must not marry into it, and must
 never under any circumstances leave it.** The line is to live among the Canaanites, own nothing but a
 grave, and marry four hundred miles away. See [[Land and Sojourning]] and [[The Nations]].
+
+**And the rule is kept, in the generation that had the least to keep it with.** Genesis 28:1–2 gave
+Jacob the whole marriage brief in one clause — *"take a wife from there from the daughters of Laban
+your mother's brother"* — **and it is plural.** At 29:23–30 both daughters are married, in the order
+the brief did not specify and by a route nobody intended. **The endogamy requirement is satisfied
+exactly; everything else about the marriage is a disaster**, and Genesis reports the two facts in the
+same sentences without ranking them. See [[Jacob, Leah, and Rachel]].

@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 27:19** — *"Jacob said to his father, 'I am Esau your firstborn.'"*
 - **Genesis 27:35** — *"He said, 'Your brother came with deceit, and has taken away your
   blessing.'"*
-- **Genesis 29:23–26** — *"In the evening, he took Leah his daughter, and brought her to him. He went
+- **Genesis 29:23–26** — [[Jacob, Leah, and Rachel]] — *"In the evening, he took Leah his daughter, and brought her to him. He went
   in to her. … In the morning, behold, it was Leah! He said to Laban, 'What is this you have done to
   me? Didn't I serve with you for Rachel? Why then have you deceived me?' Laban said, 'It is not done
   so in our place, to give the younger before the firstborn.'"*
@@ -37,6 +37,13 @@ the younger"** (25:23).
 **Laban is stating, as a local custom and as a rebuke, the exact rule Jacob spent chapter 27
 breaking.** He does not know he is doing it. He is explaining a wedding-night substitution to a
 son-in-law and he happens to use the two words that name that son-in-law's entire life.
+
+**And the vocabulary is his, not the chapter's** — which is the sharpest form of the point and is
+easy to miss in translation. **The narrator's own words for the sisters at 29:16 are *haggədōlâ* and
+*haqqəṭannâ*, the big one and the little one**, and Jacob uses the narrator's word when he names his
+price: *"Rachel, your **younger** daughter"*, ***bitəkā haqqəṭannâ*** (29:18). **Nobody in the chapter
+says *firstborn* until Laban says it in the refusal.** Jacob asks in the neutral register and is
+answered in the register of the oracle, by the one man in the scene with no reason to know it exists.
 
 ### The correspondence, line by line
 
@@ -83,9 +90,13 @@ took at 27:19–24. Neither man in the exchange has any standing.
   Genesis planted Laban at 25:20 in a pedigree that had no need of him, three chapters before he was
   wanted. **The book has been holding him in reserve since before the twins were born.** See
   [[Laban]].
-- **It does not make Leah an accomplice or a victim, because Genesis does not say.** She is given no
-  word in the chapter, no consent scene, and no reaction. The book that recorded Rebekah's *"I will
+- **It does not make [[Leah]] an accomplice or a victim, because Genesis does not say.** She is given
+  no word in the chapter, no consent scene, and no reaction. The book that recorded Rebekah's *"I will
   go"* records nothing at all here, and the wiki notes the silence rather than filling it.
+- **The mechanism is not explained either.** There is no veil in the text — readers import it from
+  24:65 — and no drug, no enjoined silence, and no described darkness. **What Genesis gives is a
+  *mišteh*, a drinking feast, then evening, then morning**, and it leaves the rest to the reader,
+  which is the same restraint it showed at 19:33–35. See [[Deception]].
 
 ## Significance
 

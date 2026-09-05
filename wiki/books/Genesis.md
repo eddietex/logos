@@ -303,7 +303,20 @@ even fratricidal betrayal into rescue (Joseph).
   specifically needs, because **he is the first bearer of the promise to leave the land carrying
   it** — *I am with you, I will keep you wherever you go, I will bring you again into this land.* His
   answer is the first vow in the Bible, which hands each promise back with an *if* on it, adds bread
-  and clothing, and drops the land and the nations altogether.
+  and clothing, and drops the land and the nations altogether. Then *[[Jacob, Leah, and Rachel]]*
+  arrives in Paddan Aram and **God disappears from the book for thirty verses** — no speech, no dream,
+  no altar, no prayer, and not one occurrence of *Yahweh* or *ʾĕlōhîm*, in the chapter immediately
+  after the promise of presence — and **what fills the silence is an invoice.** Jacob has no
+  bride-price, so his body is the bride-price: a free month, seven years, a bridal week, seven years
+  more, with ***ʿābad***, *serve*, running seven times through sixteen verses. He rolls a well-stone
+  the text twice says takes a crowd, kisses [[Rachel]] before naming himself, and introduces himself
+  by his mother; the seven years pass *"like a few days"*, in [[Rebekah]]'s own phrase from 27:44,
+  which had promised him a short exile. **Then the technique of chapter 27 is run back on him** — an
+  elder sibling passed off as a younger one, in the dark, discovered too late to reverse — and the
+  rebuke he gets is a house rule stated in the two nouns of the oracle he was born under: *"It is not
+  done so in our place, to give the younger before the firstborn."* He accepts in three words. **The
+  pericope ends on the sentence the rest of the book runs on**, *"he loved also Rachel more than
+  Leah"*, and the next verse opens *"Yahweh saw."*
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -356,7 +369,7 @@ merge, or reorder them freely.
 - [x] [[The Stolen Blessing]] — Genesis 27:1–45
 - [x] [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9
 - [x] [[Jacob's Ladder at Bethel]] — Genesis 28:10–22
-- [ ] Jacob, Leah, and Rachel — Genesis 29:1–30
+- [x] [[Jacob, Leah, and Rachel]] — Genesis 29:1–30
 - [ ] The Birth of Jacob's Children — Genesis 29:31–30:24
 - [ ] Jacob's Flocks — Genesis 30:25–43
 - [ ] Jacob's Flight from Laban — Genesis 31:1–55

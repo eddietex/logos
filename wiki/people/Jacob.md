@@ -132,13 +132,56 @@ first tenth promised rather than paid: *"Of all that you will give me I will sur
 you."* **Genesis never records him paying it.** See [[Jacob's Ladder at Bethel]],
 [[The Pillar Jacob Raised and the Pillars the Law Forbids]], and [[The Tithe Before the Law]].
 
+### In this pericope — Genesis 29:1–30
+
+**The technique is run back on him, and God says nothing at all.**
+
+**There is no divine speech, dream, altar, or prayer in the thirty verses after Bethel** — *Yahweh*
+and *ʾĕlōhîm* do not occur once — and the promise of 28:15 is neither repeated nor referred to.
+**What fills the silence is an invoice.** A free month, then seven years, then a bridal week, then
+seven years more; ***ʿābad***, *serve*, runs **seven times** through 29:15–30, and the man doing the
+serving is the one told at 27:29 that nations would serve him.
+
+**He arrives with nothing and pays with his body.** His father's bride was fetched with ten camels of
+silver, gold, and clothing; Jacob has no ***mōhar***, so **he names seven years and nobody haggles**.
+Before that he tells a group of local shepherds their business, and then **rolls off a well-stone the
+narrator has twice said takes a crowd** — the only feat of physical strength attributed to any
+patriarch — with *"his mother's brother"* repeated three times in the one verse that describes it.
+**He is working for family property before anyone has asked him to.**
+
+**He kisses [[Rachel]] before telling her who he is**, and then *"lifted up his voice, and wept"* —
+**the third and last use of that formula in Genesis and the only one that is not grief**; [[Hagar]]
+used it over a dying child (21:16) and [[Esau]] used it after this man took his blessing (27:38). And
+the credential he leads with is **his mother's name**: *"he was Rebekah's son."* It is the last
+appearance [[Rebekah]] makes in the narrative of his life.
+
+***"Jacob loved Rachel"*** (29:18) — **the first love in the Bible that comes before a marriage
+rather than after it** (against 24:67, where Isaac takes Rebekah and *then* loves her). It is also
+the passage's one sentence about his interior life: seven years *"seemed to him but a few days"* —
+***yāmîm ʾăḥādîm***, **his mother's own phrase** from 27:44, where the *few days* she sent him away
+for became twenty years. See [[Love]].
+
+**Then the morning.** *"In the morning, behold, it was Leah!"* — and his three questions are all about
+the contract: *what is this you have done to me*, *didn't I serve for Rachel*, *why have you deceived
+me*. ***Rimmîtānî*** is from the root of the ***mirmâ*** Isaac used of him at 27:35, and **the formula
+he opens with is the one Pharaoh used on Abram and Abimelech used on Abraham and Isaac** — the first
+time a member of this family asks it rather than answering it. **He asks nothing about [[Leah]] and
+nothing about where Rachel is.** Then he accepts the revised terms in three words: *"Jacob did so."*
+
+**And he is refused in the vocabulary of his own life.** He asked for *"your **younger** daughter"* in
+the narrator's register (*qəṭannâ*); Laban answers in the oracle's — ***"to give the younger before
+the firstborn"***, *ṣəʿîrâ* before *bəkîrâ*, the two nouns of 25:23. **Laban is explaining a house
+rule and does not know what he is saying.** See [[Jacob, Leah, and Rachel]],
+[[The Younger Before the Firstborn - Jacob and Laban]], and [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]].
+
+**He leaves the pericope with two wives, two slaves, and fourteen years owed or spent**, and the last
+thing the narrator says about him is a ranking: *"he loved also Rachel more than Leah."*
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He works fourteen years for two sisters and is himself substituted younger-for-elder on
-his wedding night — **the deception he ran, run back on him, by his mother's brother** (29:23–25). He
-fathers eleven sons and a daughter in Paddan Aram, out-breeds Laban's flocks, and leaves under
+He fathers eleven sons and a daughter in Paddan Aram, out-breeds Laban's flocks, and leaves under
 pursuit (30–31). He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
 away (32:22–32). He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
 and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
@@ -172,7 +215,14 @@ is carried back to Machpelah.
   Genesis 28:16–19
 - Sets up his first pillar, pours the Bible's first oil on it, and vows the Bible's first vow — bread,
   clothing, a safe return, and a tenth — Genesis 28:18–22
-- Married to Leah in Rachel's place, and serves fourteen years — Genesis 29:15–30 *(not yet ingested)*
+- Arrives in the east country; rolls the well-stone alone, waters Laban's flock, and kisses Rachel —
+  Genesis 29:1–12, [[Jacob, Leah, and Rachel]]
+- Received by [[Laban]] — *"Surely you are my bone and my flesh"* — and put on wages after a month —
+  Genesis 29:13–15
+- Loves [[Rachel]] and names his own price: seven years — Genesis 29:18–20
+- Given [[Leah]] in the dark; *"Why then have you deceived me?"* — Genesis 29:23–25
+- Refused in the oracle's own vocabulary, and accepts seven more years — Genesis 29:26–28
+- Loves Rachel more than Leah — Genesis 29:30
 - Eleven sons and Dinah born in Paddan Aram — Genesis 29:31–30:24 *(not yet ingested)*
 - Leaves Laban under pursuit; the boundary heap at Galeed — Genesis 31 *(not yet ingested)*
 - Wrestles until daybreak at the Jabbok, is renamed **Israel**, and is left limping — Genesis
@@ -208,6 +258,14 @@ is carried back to Machpelah.
   promises back with an *if*, narrows each, adds bread and clothing, and drops the land and the
   nations. He says *my God* for the first time, raises his first pillar, and pours the Bible's first
   oil
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1–30; **the deception he ran, run back on him.** He arrives
+  with nothing, corrects other men's work, rolls a stone off a well single-handed, kisses a woman
+  before naming himself, and introduces himself by his mother. He names his own bride-price and
+  nobody haggles; the seven years pass *like a few days* in his mother's phrase; and then an elder
+  sibling is substituted for a younger one in the dark and he wakes up asking the question three
+  foreign kings asked his father and grandfather — **as the injured party, for the first time in the
+  family's history.** He is refused in the vocabulary of the oracle he was born under, accepts in
+  three words, and ends the pericope ranking two wives. **God is not named in the passage**
 
 ## Related people
 
@@ -223,10 +281,22 @@ is carried back to Machpelah.
 - [[God]] — who names the outcome before the twins are born, speaks it to his mother rather than to
   him, and does not address him until Bethel, where the first thing he says is his own name and the
   last thing he says is *"I will not leave you"*
+- [[Rachel]] — his cousin, seen first at a well, loved before she is married, and paid for with seven
+  years and then seven more
+- [[Leah]] — her elder sister, given to him under her name; his first wife, the mother of half the
+  tribes, and the one he is said to love less
+- [[Zilpah]] — [[Leah]]'s slave, handed over at the wedding
+- [[Bilhah]] — [[Rachel]]'s slave, handed over a week later
 - [[Bethuel]] — his maternal grandfather
 
 ## Themes associated
 
+- [[Love]]
+- [[Marriage]]
+- [[Work]]
+- [[Retribution]]
+- [[Slavery and Servitude]]
+- [[Hospitality]]
 - [[Birthright and the Firstborn]]
 - [[Call and Election]]
 - [[Blessing]]

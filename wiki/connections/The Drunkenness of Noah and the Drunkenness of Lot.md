@@ -104,3 +104,18 @@ the same shape, with the same silences in the same places, is not an accident of
 is how this book tells you where a people came from: **it gives you the scene and refuses you the
 judgment**, and then leaves the canon four hundred years to decide — which, in the case of Moab, it
 never entirely does. See [[Moab and Ammon - The Two Nations Born in the Cave]].
+
+### A third scene that shares the vocabulary
+
+**Genesis 29:22–25 is not a drunkenness story and it is built out of the same three parts.** Laban
+*"made a feast"* — ***mišteh***, from ***šātâ***, *to drink*, the noun this book uses for Isaac's
+weaning banquet (21:8) and nothing else before it — then *"in the evening, he took Leah his
+daughter"*, and then *"in the morning, behold, it was Leah!"* **A drinking feast, a night, and a man
+who did not know which woman he was with.**
+
+**The text never says Jacob was drunk**, and the wiki does not say it either; what it records is that
+this is the second time Genesis assembles a *mišteh*, a night, and an unrecognised woman, and that
+the first time it did so it stated the not-knowing outright, twice — *"He didn't know when she lay
+down, nor when she arose"* (19:33, 35). **The parallel is in the furniture and the sequence, not in a
+verdict**, and the pericope page keeps it at exactly that width. See [[Jacob, Leah, and Rachel]] and
+[[Deception]].

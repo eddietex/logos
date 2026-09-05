@@ -93,6 +93,14 @@ the seventh day a blessing. See [[Sabbath]].
   worker has no title to**, and the harvest is credited in the same sentence to God: *"Yahweh blessed
   him."* See [[Land and Sojourning]] and [[Blessing]]
 
+- [[Jacob, Leah, and Rachel]] — Genesis 29:15–30; **the Bible's first employment contract, and it buys
+  a wife.** ***ʿābad***, *serve*, runs **seven times** through sixteen verses, and the arrangement is
+  labour in place of a bride-price by a man who has nothing else to pay with: seven years, then seven
+  more, and at 31:41 his own accounting of it — *"twenty years in your house."* The passage also
+  contains **the only feat of physical strength attributed to any patriarch**, the well-stone at
+  29:10, and a scene in which a newcomer tells experienced shepherds how to do their job and is
+  answered with the rule, twice, patiently (29:7–8)
+
 ## Related themes
 
 - [[Sabbath]] — the rest that defines and limits work

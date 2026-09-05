@@ -73,7 +73,14 @@ will finally go both ways.
   that is an inquiry rather than an observation
 - Genesis 22:8, 14 — *"God will provide"*, which in Hebrew is *God will see for himself*, and
   *Yahweh Yireh* on the mountain *(not yet ingested)*
-- Genesis 29:31–32 — God sees that Leah is hated *(not yet ingested)*
+- [[Jacob, Leah, and Rachel]] — Genesis 29:2, 25; ***hinnēh*** three times, and the last one is the
+  disaster. The word that opens the passage on a well — *behold, a well … behold, three flocks* — is
+  the word that opens the morning after the wedding: ***"In the morning, behold, it was Leah!"***
+  **Two chapters running now have turned on a man who could not see who he was dealing with** — a
+  blind father blessing the wrong son, and a son marrying the wrong daughter in the dark — and
+  Genesis draws the parallel with a pronoun and no commentary
+- Genesis 29:31–32 — *"Yahweh saw that Leah was hated"*: the first thing God is said to see in the
+  Jacob cycle, and it is the un-preferred wife *(not yet ingested)*
 - Exodus 2:23–25; 3:7 — God sees the affliction and hears the cry
 - Exodus 33:18–23 — the face nobody may see, and the back
 - Judges 13:22 — *"We shall surely die, because we have seen God"*

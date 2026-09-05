@@ -240,6 +240,13 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   about. *Qaṣtî bəḥayyay*, *I loathe my life*, is stronger than the WEB's *weary*, and it works
   inside one verse. **Nothing she says is false and nothing she says is the reason**, and Genesis
   never lets her and Isaac discuss what happened in the tent
+- [[Jacob, Leah, and Rachel]] — Genesis 29:12; **her name is her son's credential and this is its last
+  appearance in his story.** Jacob introduces himself at the well as *"Rebekah's son"*, in the house
+  she left at 24:58 with a one-word answer, and **Genesis never brings them back together.** It
+  records no death for her, no message, and no reunion; she is mentioned again only as a body at
+  Machpelah (49:31). **And her phrase measures the cost**: the *"few days"* she told him to stay
+  (27:44, *yāmîm ʾăḥādîm*) is the idiom 29:20 uses for the seven years he served, and they become
+  twenty
 
 ## Related people
 

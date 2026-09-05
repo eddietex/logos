@@ -45,17 +45,47 @@ answer either way. **God will use the same idiom on him** a generation later: *"
 don't speak to Jacob either good or bad"* (31:24, repeated by Laban himself at 31:29). His first
 recorded position and his last are both that there is nothing he can say.
 
+### In this pericope — Genesis 29:1–30
+
+**He runs to meet a nephew with no gold on him, and the narrator does not explain why.**
+
+Genesis 24 gave the causal clause immediately and in the order that mattered — *"when he saw the
+ring, and the bracelets … and when he heard the words"*. **Here there is a report, a penniless
+relative, and the same running, embracing, kissing, and taking home** (29:13), with the motive
+withheld. **The equivalent sentence arrives two verses later**, and it is a question: *"Because you
+are my brother, should you therefore serve me for nothing? Tell me, what will your wages be?"*
+(29:15). **The affection and the accounting are in the same speech**, exactly as at 24:29–31, and the
+month of unpaid labour he has just had is what the question converts into an employment.
+
+***"Surely you are my bone and my flesh"*** (29:14) — ***ʾaṣmî ûbśārî***, **the second occurrence of
+the idiom in the Bible** after Adam's at 2:23. **He uses the formula of the first marriage on a
+nephew**, and it is the last warm thing he says before the wages question.
+
+**He never names Rachel in the sentence that promises her.** *"It is better that I give **her** to
+you, than that I should give her to another man. Stay with me"* (29:19) — a comparison and an
+invitation, and **no undertaking at all.** Read back after 29:25 the sentence is perfectly true and
+commits him to nothing, which is the construction of *"we can't speak to you bad or good"* (24:50).
+**The wiki does not claim he planned the substitution from this verse**, because Genesis does not say
+when he decided.
+
+**Then he gathers the whole town, holds a *mišteh* — a drinking feast — and delivers the wrong
+daughter.** Challenged in the morning, **he does not apologise.** *"It is not done so in our place, to
+give the younger before the firstborn"* (29:26) is a statement of custom, offered without
+embarrassment, seven years after it would have been useful. **And he states it in the oracle's
+vocabulary** — *ṣəʿîrâ* before *bəkîrâ*, where the narrator's own words for the sisters at 29:16 were
+*the big one* and *the little one*. **He is explaining a wedding and he happens to use the two nouns
+that name his son-in-law's entire life.** See
+[[The Younger Before the Firstborn - Jacob and Laban]].
+
+**The counter-offer is generous on its face and doubles his labour supply**: the bridal week, then
+Rachel, then seven more years. **He gives a slave away with each daughter** — [[Zilpah]] at 29:24,
+[[Bilhah]] at 29:29 — in two matching verses that pause for neither woman.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Rebekah sends Jacob to him to escape Esau (27:43), and Genesis 29–31 is the longest sustained
-portrait of a household in the book. He meets Jacob at the same kind of well, embraces him, and says
-*"Surely you are my bone and my flesh"* (29:14) — and then, a month later: *"Because you are my
-brother, should you therefore serve me for nothing? Tell me, what will your wages be?"* (29:15).
-**The affection and the accounting are in the same speech**, which is the same construction as 24:30.
-
-Seven years for Rachel, and Leah in the tent in the morning (29:23–25). Seven more. Wages changed
+Wages changed
 *"ten times"* (31:7, 41). Speckled and spotted flocks, and a son-in-law who out-manoeuvres him
 (30:31–43). A seven-day pursuit across the hill country after his stolen household gods, ending in a
 heap of stones, a shared meal, a boundary oath, and — *"The God of Abraham, and the God of Nahor, the
@@ -89,8 +119,15 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - Named as the house Jacob is sent to for a wife, and named twice as *the Syrian* in the trailer at
   the sending — *"take a wife from there from the daughters of Laban, your mother's brother"* —
   Genesis 28:2, 5, [[Isaac Sends Jacob to Paddan Aram]]
-- Receives Jacob, fleeing Esau, at the same house — Genesis 29:1–14 *(not yet ingested)*
-- Substitutes Leah for Rachel; fourteen years' service — Genesis 29:15–30 *(not yet ingested)*
+- Named by shepherds at the well as the man of the place; called *"the son of Nahor"* against the
+  book's own genealogy — Genesis 29:5, [[Jacob, Leah, and Rachel]]
+- Runs to meet Jacob, embraces and kisses him — *"Surely you are my bone and my flesh"* — Genesis
+  29:13–14
+- Turns *brother* into a wages question after a free month — Genesis 29:15
+- Agrees to seven years for Rachel without naming her — Genesis 29:18–19
+- Gathers the town, makes a drinking feast, and substitutes [[Leah]] — Genesis 29:22–24
+- Cites the rule of the firstborn, and sells the second daughter for seven more years — Genesis
+  29:26–29
 - Changes Jacob's wages ten times — Genesis 31:7, 41 *(not yet ingested)*
 - Pursues Jacob for the stolen household gods; the covenant heap at Mizpah — Genesis 31:22–55
   *(not yet ingested)*
@@ -116,6 +153,12 @@ built on the same root, for its snow. Genesis makes nothing of it.
   is named. He is also the only man in the book to be sent to twice for a bride: once for a servant
   with ten camels, once for a nephew with nothing. See
   [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]]
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1–30; **the same run, the same embrace, and no gold to
+  explain it.** He speaks Adam's *bone and flesh* over his nephew and turns *brother* into a wages
+  question in the next verse; agrees to seven years without ever naming Rachel; and then hands over
+  the elder daughter at a drinking feast and answers the charge with a house rule he could have
+  stated at any point in the preceding seven years. **His refusal is delivered in the two nouns of
+  the oracle Jacob was born under**, and his counter-offer doubles the labour he is owed
 
 ## Related people
 
@@ -129,10 +172,17 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - [[Jacob]] — his sister's younger son, named in the same *toledot* heading he is; later his
   nephew, employee, son-in-law twice over, and adversary
 - [[Esau]] — his sister's elder son, and the reason Jacob is sent to him
+- [[Leah]] — his elder daughter, given away without telling either party
+- [[Rachel]] — his younger daughter, whom he does not name in the verse that promises her
+- [[Zilpah]] — his slave, given to Leah at her wedding
+- [[Bilhah]] — his slave, given to Rachel a week later
 
 ## Themes associated
 
 - [[Hospitality]]
+- [[Work]]
+- [[Slavery and Servitude]]
+- [[Birthright and the Firstborn]]
 - [[Marriage]]
 - [[The Nations]]
 - [[Blessing]]

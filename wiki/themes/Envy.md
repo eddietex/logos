@@ -118,3 +118,6 @@ judgment about a motive.**
 - [[Esau]] — envied nothing and lost everything; the one brother in Genesis whose resentment the text
   attributes to a grievance rather than to *qānāʾ*
 - [[Jacob]] — around whom the book's other two occurrences of the root turn, as husband and as father
+- [[Rachel]] — the subject of the second *qānāʾ* in Genesis, and the wife whose rank the passage
+  before it establishes
+- [[Leah]] — the object of it, and the sister who has what is envied

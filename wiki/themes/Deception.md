@@ -157,7 +157,8 @@ has become a nation.
 - [[The Younger Before the Firstborn - Jacob and Laban]] — Genesis 29:21–27, where the same
   substitution is worked back on Jacob in the dark, and where he asks the outsiders' question —
   *"What is this you have done to me? … Why then have you deceived me?"* — as the injured party
-- Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*
+- Genesis 31:19–35 — Rachel steals the household gods and sits on them; Laban searches and finds
+  nothing *(not yet ingested)*
 - Genesis 37:31–33 — the coat, the goat, and the father deceived by his own devices *(not yet
   ingested)*
 - Exodus 1:15–21 — the midwives, and God dealing well with them
@@ -167,6 +168,16 @@ has become a nation.
   grief is four verses old, and 26:35 records it. **What is withheld is that a man means to kill her
   son.** This is not a half-truth aimed at a stranger but a true grievance offered to a husband as a
   whole reason, and it is the last thing she says in Scripture.
+
+- [[Jacob, Leah, and Rachel]] — Genesis 29:21–27; **the method run back on its user**, and the wiki's
+  clearest case of the theme's Genesis shape. Nothing false is said: there is a drinking feast
+  (*mišteh*, the same noun as Genesis 19:33–35), an evening, and a morning, and **the book never
+  explains the mechanism** — no veil is mentioned, and the veil readers supply comes from 24:65. The
+  charge Jacob brings, ***rimmîtānî***, is from the root of the ***mirmâ*** Isaac used of him at
+  27:35, and the formula he opens with — *"What is this you have done to me?"* — is the one Pharaoh
+  and Abimelech used on his father and grandfather. **This is the first time a member of the family
+  asks it rather than answering it.** And the answer he gets is not an apology but a custom: *"It is
+  not done so in our place, to give the younger before the firstborn"*
 
 ## Related themes
 

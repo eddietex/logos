@@ -113,3 +113,10 @@ errand was a journey God managed; the second is a journey God accompanies.** See
   met at [[Bethel]] by the promise itself — *"I am with you, and will keep you, wherever you go"*
   (28:15). **The errand's two provisions are an estate and a sentence.** See
   [[Jacob's Ladder at Bethel]].
+- **The arrival settles what the empty hands cost, and it is fourteen years.** The servant's errand
+  closed in a day: he prayed, the girl came, the family conceded it to Yahweh, and he refused to eat
+  before stating his case and refused to stay after settling it. **Jacob's takes seven years, a
+  substituted bride, and seven more**, because he has no ***mōhar*** and must pay in labour — and the
+  same host who blessed Rebekah with the Moriah oath asks Jacob *"what will your wages be?"* **The
+  difference between the two errands, in the end, is not the ceremony but the currency.** See
+  [[Jacob, Leah, and Rachel]].

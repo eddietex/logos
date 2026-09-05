@@ -127,6 +127,13 @@ the land.
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation
 - Matthew 5:9; Romans 12:18; 1 Corinthians 6:7; Philippians 2:3–4 — the New Testament's
 
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1–30; **the one well in Genesis nobody fights over**, in
+  the chapter that starts a rivalry lasting two generations. Abraham's wells were seized (21:25),
+  Isaac's were stopped up and claimed twice over (26:15–22), and here the only dispute at the water
+  is about *when* to draw it — settled by the newcomer simply doing it. **The quarrel this pericope
+  actually begins is domestic**, and its terms are set in the last verse: *"he loved also Rachel more
+  than Leah."* See [[Envy]]
+
 ## Related themes
 
 - [[Vengeance]] — what strife turns into when nobody stops it

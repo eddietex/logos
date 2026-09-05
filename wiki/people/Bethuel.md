@@ -73,6 +73,12 @@ follow too.
   head of household. **It is also the last time Scripture mentions him.** Genesis narrates no death
   for him, and when Jacob arrives it is [[Laban]] who runs out, embraces him, and takes him in
   (29:13–14)
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1–30; **by absence, and the absence is total.** He is not
+  named once in the chapter that marries off two of his granddaughters. The shepherds identify the
+  household by [[Nahor (brother of Abram)]] rather than by him (29:5); [[Rachel]] runs to *her
+  father*, who is [[Laban]]; and it is Laban who receives Jacob, sets his wages, gives away both
+  daughters, and speaks the house rule. **The man Genesis 24 kept alive, present, and named second
+  has become a name the book stops using**, and Genesis never says why
 
 ## Related people
 
