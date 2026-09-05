@@ -38,25 +38,36 @@ both modes.
 ## 0.5 Get onto `main` before anything else
 
 ```
-scripts/git-preflight.sh
+scripts/git-preflight.sh                # interactive
+scripts/git-preflight.sh --force-main   # unattended (`/ingest auto`) — always use the flag
 ```
 
 Run this **first, before reading anything or writing a single page.** A scheduled run's container
-checks the repo out on a **detached HEAD** rather than on `main`, and its cached clone carries a
-local `main` ref frozen many commits back. On a detached HEAD there is no current branch, so both
-of the git commands this skill used to end on fail outright:
+does not put the session on `main`, and its cached clone carries a local `main` ref frozen many
+commits back. Which wrong place it starts in depends on the routine's outcome-branch setting, and
+both are fatal in their own way:
 
 ```
-git push          → fatal: You are not currently on a branch.
-git pull --rebase → You are not currently on a branch.
+detached HEAD      git push          → fatal: You are not currently on a branch.
+                   git pull --rebase → You are not currently on a branch.
+throwaway branch   git push origin main → pushes a stale `main` that lacks the ingest;
+                                          the work is stranded on a branch nobody merges.
 ```
 
 The script puts the session on `main` tracking `origin/main`, and it is safe in every state: it
 moves `main` only to a commit git has confirmed loses nothing, touches the working tree only when
-it is clean, and leaves a feature branch alone entirely. It prints one line saying what it did.
-The `SessionStart` hook in `.claude/hooks/` already runs it, so in a normal session this step is a
-confirming no-op — run it anyway, because the ingest must not be built on a base you have not
-checked.
+it is clean, and prints one line saying what it did.
+
+**In unattended mode, always pass `--force-main`.** Without it the script leaves any non-`main`
+branch alone — the guard that stops a session-start hook from yanking an interactive session off
+its own working branch. A scheduled run has no such branch to protect: whatever it starts on is a
+container artifact, and the wiki lives on `main` and nowhere else. The flag routes that branch
+through the same lossless logic the detached case uses, so a commit already sitting on it is
+carried onto `main` rather than abandoned. Interactive runs omit the flag.
+
+The `SessionStart` hook in `.claude/hooks/` already runs the script (without the flag, because it
+cannot know which kind of session it is), so this step is never redundant — run it anyway, because
+the ingest must not be built on a base you have not checked.
 
 **If it exits non-zero, stop and report.** It exits non-zero only for the two states it must not
 resolve on its own — a tree dirty in a way that blocks the checkout, and a HEAD that has diverged

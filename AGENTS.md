@@ -293,25 +293,35 @@ runs both, and why a clean check 2 is never grounds for skipping check 1.
 
 ## Branch state
 
-A scheduled run's container checks the repo out on a **detached HEAD** rather than on `main`, and
-its cached clone carries a local `main` ref frozen many commits back — it read as 29 commits stale
-by the time this was written, and it grows by one every direct push. On a detached HEAD there is no
-current branch, so `git push` and `git pull --rebase` both fail outright, which is why the ingest
-skill's step 0.5 exists.
+A scheduled run's container does not put the session on `main`, and its cached clone carries a
+local `main` ref frozen many commits back — it read as 29 commits stale by the time this was
+written, and it grows by one every direct push. Where it *does* start depends on the routine's
+outcome-branch setting, and both possibilities break the ingest:
+
+- **No outcome branch → a detached HEAD.** There is no current branch, so `git push` and
+  `git pull --rebase` fail outright.
+- **An outcome branch that is not `main` → a throwaway branch.** Those succeed, and strand the
+  ingest somewhere nobody merges. `git push origin main` then pushes the *stale local `main`*,
+  which does not contain the ingest at all.
+
+That is why the ingest skill's step 0.5 exists.
 
 ```bash
-scripts/git-preflight.sh
+scripts/git-preflight.sh                # interactive
+scripts/git-preflight.sh --force-main   # unattended
 ```
 
 It puts the session on `main` tracking `origin/main`. `.claude/hooks/session-start.sh` runs it at
-session start, so it is normally a no-op by the time an ingest reaches step 0.5 — run it there
-anyway rather than assuming, because an ingest built on the wrong base is discovered at push time,
-after all the work is done.
+session start without the flag, because a hook cannot tell an unattended run from someone working
+on a feature branch — so step 0.5 runs it again with the flag rather than assuming, and an ingest
+built on the wrong base is caught before the work instead of at push time after it.
 
 Every path through it is non-destructive: `main` moves only to a commit git has confirmed loses
-nothing (`git merge-base --is-ancestor`), the working tree is touched only when clean, and a
-feature branch is left alone. It exits non-zero for exactly the two states it must not resolve on
-its own — a dirty tree blocking the checkout, and a HEAD diverged from `origin/main` — having
+nothing (`git merge-base --is-ancestor`), the working tree is touched only when clean, and without
+`--force-main` a feature branch is left alone. `--force-main` routes a non-`main` branch through
+that same lossless logic — a commit already on it is carried onto `main`, never abandoned — and it
+does not weaken any check: it still exits non-zero for exactly the two states it must not resolve
+on its own — a dirty tree blocking the checkout, and a HEAD diverged from `origin/main` — having
 changed nothing. Both are for the user, not for an unattended run.
 
 **Two rules follow from this, and they are load-bearing:**
