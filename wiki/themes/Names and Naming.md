@@ -111,6 +111,14 @@ five times**, and each is a covenant hinge.
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:25–26, 30; *Esau*, *Jacob*, and *Edom*, three
   glosses in two verses, and one of them is a prophecy of the plot
 - [[Jacob's Ladder at Bethel]] — Genesis 28:19, a place renamed, and the name outliving what it meant
+- [[Jacob's Flocks]] — Genesis 30:37; **the theme in its purely silent form: a pun Genesis makes and
+  never glosses.** The verse that begins Laban's undoing contains the root ***l-b-n*** three times —
+  ***libneh*** (the white poplar or storax), ***ləbānôt*** (the *white* streaks peeled into it), and
+  ***hallābān*** (*the white* made to appear) — and ***Lābān*** is that adjective exactly. **A man
+  strips bark to bare pale wood in order to strip *White* of a herd**, and the narrator says nothing.
+  The same verse cuts rods of ***lûz***, *almond*, **which is the name Bethel went by before this man
+  renamed it** (28:19). **Genesis glosses names when a mother speaks and withholds the gloss when the
+  wordplay is its own**
 - [[Lot and His Daughters]] — Genesis 19:37–38, Moab and Ben-Ammi, the two glosses Genesis gives without
   comment
 - Genesis 32:28, 30 — **Israel** and **Peniel**, the two namings at the Jabbok *(not yet ingested)*

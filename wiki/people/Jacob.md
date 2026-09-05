@@ -207,12 +207,52 @@ this passage and is quoted by nobody in it.** *"Your offspring will be as the du
 mentions Bethel, the land, the covenant, or *I am with you*. **The wiki records that Genesis declines to
 connect them.**
 
+### In this pericope — Genesis 30:25–43
+
+**The first passage of his life he ends in control of, and the first in which he owns anything.**
+
+**He resigns.** *"Send me away, that I may go to my own place, and to my country"* (30:25) —
+***šalləḥēnî***, **the verb Moses will use on Pharaoh** — and the sentence is a move to collect on
+the last clause of his own Bethel vow, *"so that I come again to my father's house in peace"*
+(28:21). **He asks six years before God commands it** (31:3), and he is refused.
+
+**His complaint is that after twenty years he owns nothing.** *"It was little which you had before I
+came, and it has increased to a multitude… Now when will I provide for my own house also?"*
+(30:30). ***Bêtî***, *my house* — **the first thing in the Jacob cycle he calls his own**, and
+[[Laban]] disputes none of the audit.
+
+**Then he refuses a wage.** *"You shall not give me anything"* (30:31) is Abram's formula to the king
+of Sodom (14:23), and what he asks for instead is the odd-coloured minority of two herds, **with an
+audit clause attached**: any plain animal in his fold counts as stolen. ***"So my righteousness will
+answer for me"*** (30:33), ***ṣidqātî*** — **the man who once dressed in his brother's clothes has
+designed a contract in which appearance is proof.**
+
+**Laban empties it the same day**, removing every animal that could produce the wage and putting it
+three days off in his sons' hands (30:35–36), **and Jacob says nothing.** What he does instead is
+seven verses of husbandry: peeled rods of **poplar, almond and plane** in the watering-troughs
+(30:37–39, where ***libneh***, ***ləbānôt*** and ***hallābān*** play three times on his
+father-in-law's name), and then **the move that actually works** — the rods used on the strong
+animals and withheld from the feeble, *"so the feebler were Laban's, and the stronger Jacob's"*
+(30:42). **Nothing in the nineteen verses is a lie, a theft, or a broken term**, and Genesis passes
+no verdict on any of it. See [[Jacob's Flocks]] and [[Deception]].
+
+**He does not pray, build, vow, or mention the promise** — and the last verse describes him with the
+promise's own verb: ***wayyipṛōṣ hāʾîš məʾōd məʾōd***, *the man burst out exceedingly* (30:43),
+against *"you will **spread abroad** to the west, and to the east"* at 28:14. **He is called *the
+man*, not *Jacob*, in the same construction Genesis used of his father at the moment of his
+enrichment** (26:13) — and the envy that followed there follows here too, two verses later. See
+[[Isaac in Gerar]] and [[Wealth and Possessions]].
+
+**One chapter on he will say the increase was God's** — an angel, a dream, and *"God has taken away
+your father's livestock and given them to me"* (31:9–12). **The rods are not in that account and God
+is not in this one**, and the wiki reconciles neither. See
+[[Two Explanations for One Flock - The Rods and the Dream]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He out-breeds Laban's flocks and leaves under
-pursuit (30–31). He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
+He leaves under pursuit (31). He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
 away (32:22–32). He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
 and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
 the years of my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
@@ -258,6 +298,17 @@ is carried back to Machpelah.
 - Handed [[Bilhah]] and then [[Zilpah]] without being consulted — Genesis 30:4, 9
 - Hired for a night with his son's mandrakes; *"I have surely hired you"* — Genesis 30:16
 - Eleven sons and [[Dinah]] born in Paddan Aram, and **he names none of them** — Genesis 29:31–30:24
+- Asks to be released — *"Send me away, that I may go to my own place, and to my country"* — and is
+  refused; Joseph's birth is the trigger — Genesis 30:25–27, [[Jacob's Flocks]]
+- States the audit no one disputes, and asks *"when will I provide for my own house also?"* — his
+  first claim to anything of his own — Genesis 30:29–30
+- Refuses a wage and takes the speckled and spotted instead, with a self-auditing clause — Genesis
+  30:31–33
+- Left with a flock stripped of every animal that could pay him, three days from the rest — Genesis
+  30:35–36
+- The peeled rods in the watering-troughs, and the breeding of the strong only — Genesis 30:37–42
+- ***The man burst out exceedingly*** — the verb of the Bethel promise, applied to livestock —
+  Genesis 30:43
 - Leaves Laban under pursuit; the boundary heap at Galeed — Genesis 31 *(not yet ingested)*
 - Wrestles until daybreak at the Jabbok, is renamed **Israel**, and is left limping — Genesis
   32:22–32 *(not yet ingested)*
@@ -305,6 +356,12 @@ is carried back to Machpelah.
   father did (25:21); no prayers; no naming rights over any of the twelve; two slaves handed to him
   without consultation; and one evening for which he is hired with his own son's mandrakes. **The
   promise of offspring like the dust is being kept in every verse and quoted by nobody**
+- [[Jacob's Flocks]] — Genesis 30:25–43; **the first pericope he ends up in charge of.** He resigns in
+  the Exodus's own verb, states an audit nobody contests, refuses a wage in Abram's formula, designs a
+  contract that audits itself, absorbs Laban's pre-emption without a word, and then out-breeds him —
+  with three plays on his father-in-law's name in the verse that starts it. **Nothing he does is
+  illegal and nothing is condemned.** He does not pray, build, vow, or mention the promise, and the
+  book describes his prosperity in the verb God used of his offspring at Bethel
 
 ## Related people
 
@@ -348,6 +405,8 @@ is carried back to Machpelah.
 - [[Strife and Peacemaking]]
 - [[Barrenness]]
 - [[Land and Sojourning]]
+- [[Wealth and Possessions]]
+- [[Righteousness]]
 - [[The Nations]]
 - [[Favor and Grace]]
 - [[Prophecy and Vision]]

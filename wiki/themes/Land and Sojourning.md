@@ -215,6 +215,15 @@ where that starts, in a sentence about a family that got halfway.
   did not buy in a field whose name he does not know. And because he is the first bearer of the
   promise to leave the country carrying it, the promise acquires a clause it never needed before:
   ***wahăšibōtîkā ʾel-hāʾădāmâ hazzōʾt***, *I will bring you again into this land.*
+- [[Jacob's Flocks]] — Genesis 30:25: **the first time the bearer of the promise asks to go back, and
+  he asks a man rather than God.** *"**Send me away**, that I may go to **my own place, and to my
+  country**"* — ***šalləḥēnî***, the piel of *šālaḥ* that Moses will use on Pharaoh — and **the land
+  is named by nothing but two possessive pronouns.** No *Canaan*, no *the land of your sojournings*,
+  no reference to 28:13 or 28:15. **What he is invoking is his own vow rather than God's promise**:
+  28:21's *"so that I come again to my father's house in peace"* is the clause he is moving to
+  collect, six years before God commands the return at 31:3. **He is refused**, and the refusal is
+  the theme's first case of a foreign household declining to release the family — the thing Exodus
+  will be about. See [[Oaths and Vows]] and [[Blessed for His Sake - Laban's House and Potiphar's]]
 
 ## Related themes
 

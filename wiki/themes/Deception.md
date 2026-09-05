@@ -178,6 +178,15 @@ has become a nation.
   and Abimelech used on his father and grandfather. **This is the first time a member of the family
   asks it rather than answering it.** And the answer he gets is not an apology but a custom: *"It is
   not done so in our place, to give the younger before the firstborn"*
+- [[Jacob's Flocks]] — Genesis 30:31–43; **the theme's limit case, and the reason the wiki keeps
+  saying Genesis describes rather than judges.** **Neither man lies, breaches a term, or takes
+  anything he was not granted.** Jacob names a wage that looks worthless and attaches an audit clause
+  to it — *"every one that is not speckled and spotted… will be considered stolen"* — and **Laban
+  honours the contract by emptying it**, removing the qualifying animals the same day and putting
+  them three days off in his sons' hands. **Jacob then honours it too, and out-breeds him.** The
+  passage contains no *mirmâ*, no disguise, and no false word; **it is the family's method with the
+  falsehood removed, and Genesis grades it exactly as it graded the others — not at all.** The one
+  verdict anywhere in the cycle is Jacob's own, at 31:7, and it is about Laban
 
 ## Related themes
 

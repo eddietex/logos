@@ -153,6 +153,16 @@ happens.
   ancient practice of sleeping at a shrine to solicit a dream is available to this story and Genesis
   refuses it: *wayyipgaʿ*, he runs into the place, stops because it is dark, and discovers afterwards
   what he was lying on
+- [[Jacob's Flocks]] — Genesis 30:27; **the theme's shadow side enters the Bible here.** *"I have
+  divined"*, ***niḥaštî***, is the first occurrence of ***nāḥaš*** in Scripture — omen-reading, the
+  practice Leviticus 19:26 and Deuteronomy 18:10 will forbid outright and Deuteronomy 18:9–14 will
+  set a prophet up as the alternative to. **It is spoken by an Aramean, about the covenant family,
+  and what he divined is true**: *Yahweh has blessed me for your sake.* **Genesis attaches no comment
+  to the method or the result**, exactly as it attaches none to his *teraphim* at 31:19. **The
+  book's foreigners keep receiving accurate knowledge by whatever means are to hand** — a dream to
+  Abimelech at 20:3, a dream to Laban himself at 31:24, an omen here — and the covenant line's own
+  dreams are given, not solicited. See
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
 
 ## Related themes
 
@@ -174,3 +184,5 @@ happens.
   God tells what a prophet is for
 - [[Noah]] — who receives detailed instructions and an announcement of the future and is never called
   a prophet
+- [[Laban]] — the Bible's first diviner, who gets the right answer by a means the law will forbid and
+  is never told so

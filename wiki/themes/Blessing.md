@@ -268,6 +268,15 @@ costly.
   it, which is the wiki's standing observation that Genesis keeps *bərākâ* and *bərît* apart. The one
   place the root does appear is where the passage quotes 12:3: *"in you and in your offspring will
   all the families of the earth be blessed."*
+- [[Jacob's Flocks]] — Genesis 30:27, 30; **the blessing observed from outside, by its beneficiary,
+  and treated as an asset.** *"I have divined that **Yahweh has blessed me for your sake**"* —
+  ***biglālekā*** — is [[The Call of Abram]]'s stated purpose (12:3) in an Aramean's mouth, arrived at
+  by **divination**, and used as an argument for **not letting the man it works through leave.** Jacob
+  agrees with the diagnosis and draws the opposite conclusion: *"Yahweh has blessed you wherever I
+  turned. Now when will I provide for my own house also?"* **Two men in a wage negotiation attribute
+  an entire estate to Yahweh working through one of them, and neither mentions Bethel, the covenant,
+  or the promise.** The same preposition governs Potiphar's house at 39:5. See
+  [[Blessed for His Sake - Laban's House and Potiphar's]]
 
 ## Related themes
 

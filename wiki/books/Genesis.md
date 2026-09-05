@@ -331,7 +331,26 @@ even fratricidal betrayal into rescue (Joseph).
   **God is said to hear these women three times and Genesis prints none of their prayers.** The
   promise of offspring like the dust is being kept in every verse and **quoted by nobody in the
   passage**, which closes on the one naming speech that looks forward — *"May Yahweh add another son to
-  me"* — and on the divine name returning for the first time since 29:35.
+  me"* — and on the divine name returning for the first time since 29:35. Then *[[Jacob's Flocks]]*
+  turns from the household to the herd, and **God vanishes from the narration entirely**: he is named
+  three times in nineteen verses and every one is inside a human sentence, with **no verb in the
+  pericope taking him as its subject.** Jacob asks to be released — ***šalləḥēnî***, *send me away*,
+  **the verb Moses will use on Pharaoh** — and [[Laban]] refuses him with a supplicant's formula and a
+  confession: *"I have **divined** that Yahweh has blessed me **for your sake**"*, **the Bible's first
+  *nāḥaš*, producing a correct reading of Genesis 12:3 and used as an argument for detention.** What
+  follows is the book's only sustained description of a trade. Jacob refuses a wage in Abram's own
+  formula (*"you shall not give me anything"*, against 14:23), takes the odd-coloured minority of both
+  herds instead, and attaches an audit clause — *"so my **righteousness** will answer for me"* — and
+  **Laban keeps the contract to the letter and empties it the same day**, moving every qualifying
+  animal three days off into his sons' hands. **Nothing in the passage is a lie, a theft, or a broken
+  term, and nothing in it is judged.** Jacob answers with peeled rods of poplar, almond and plane in
+  the watering-troughs — ***libneh***, ***ləbānôt***, ***hallābān***, **three plays on his
+  father-in-law's name in the verse that begins his undoing** — and then with the move that actually
+  works, breeding the strong animals and withholding the rods from the feeble. **The pericope ends on
+  the promise's own verb**: *"you will **spread abroad**"* (28:14) becomes ***the man burst out
+  exceedingly*** (30:43), **applied to livestock, with nobody in the passage noticing.** And Genesis
+  will tell the same six years over again one chapter later, as an angel and a dream, and never
+  reconcile the two accounts.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -386,7 +405,7 @@ merge, or reorder them freely.
 - [x] [[Jacob's Ladder at Bethel]] — Genesis 28:10–22
 - [x] [[Jacob, Leah, and Rachel]] — Genesis 29:1–30
 - [x] [[The Birth of Jacob's Children]] — Genesis 29:31–30:24
-- [ ] Jacob's Flocks — Genesis 30:25–43
+- [x] [[Jacob's Flocks]] — Genesis 30:25–43
 - [ ] Jacob's Flight from Laban — Genesis 31:1–55
 - [ ] Wrestling at the Jabbok — Genesis 32:1–32
 - [ ] The Reconciliation with Esau — Genesis 33:1–20
@@ -453,6 +472,8 @@ merge, or reorder them freely.
 - [[Burial and the Grave]]
 - [[Birthright and the Firstborn]]
 - [[Envy]]
+- [[Names and Naming]]
+- [[Wealth and Possessions]]
 
 ## Key people
 

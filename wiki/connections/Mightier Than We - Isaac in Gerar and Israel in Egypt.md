@@ -105,3 +105,29 @@ king cannot simply do what the first did. See
   prohibition in the patriarchal promises, and the chapter that contains it is the one in which the
   family gets the Egypt experience without going to Egypt. **When Jacob is finally told at the same
   well to go down (46:3), the brakes come off.**
+
+## The middle term — Jacob in Paddan Aram
+
+**The pattern has a third instance between the two, and it is the closest of the three to Exodus.**
+
+[[Jacob's Flocks]] ends ***wayyipṛōṣ hāʾîš məʾōd məʾōd***, *the man burst out exceedingly* (30:43) —
+**and Genesis 26:13 had said *"the man became great, and grew more and more until he became very
+great."*** **Both verses call the patriarch *the man*, not by name, at the moment of his
+enrichment**, and both are immediately followed by the host's resentment: *"the Philistines envied
+him"* (26:14), and *"Jacob has taken away all that was our father's"* with a face that is no longer
+*"toward him as before"* (31:1–2).
+
+**Where the three cases diverge is what the host then does.**
+
+| | the host's diagnosis | the host's response |
+|---|---|---|
+| **Isaac in Gerar** | *"We saw plainly that Yahweh was with you"* (26:28) | **expel**, then sue for a treaty |
+| **Jacob and Laban** | *"Yahweh has blessed me for your sake"* (30:27) | **detain** — *"stay here"* |
+| **Israel in Egypt** | *"the people… are more and mightier than we"* (Exodus 1:9) | **enslave** |
+
+**All three read the situation correctly and none of them is glad of it.** And the middle one is
+where the Exodus vocabulary first appears: Jacob's request at 30:25 is ***šalləḥēnî***, *send me
+away* — **the verb of Exodus 5:1** — refused by a master who has just admitted that God is prospering
+him through the man he is refusing to release. See
+[[Blessed for His Sake - Laban's House and Potiphar's]] and
+[[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]].

@@ -5308,3 +5308,142 @@ Rachel's death answering her own prayer at 30:24), 35:22 and 49:3–4 (Reuben an
 birthright forfeited), 35:22–26 (the twelve listed by mother), 37:11 (the third *qānāʾ*), 49 (Jacob's
 blessing, which re-puns every name given here), and 50:19, 23 (*"Am I in the place of God?"*, and the
 knees).
+
+## [2026-09-05] ingest | Genesis 30.25-43 — Jacob's Flocks
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+its first unchecked box read `Jacob's Flocks — Genesis 30:25–43`. `raw/bible/Genesis.md` was already
+present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the passage
+page. The tree was clean at the start of the session and nothing needed committing separately first.
+**The boundary was used as drawn and needed no revision.**
+
+**The session started on a detached HEAD again** — `HEAD detached from refs/heads/main`, with local
+`main` behind at `ee8f435` and no commits of its own — **the fourth consecutive run to hit this.**
+`origin/main` was fetched first and came back at `d38899c`, identical to HEAD, so nothing had moved
+remotely. Handled as before: the ingest was committed on the detached HEAD, then `main` was checked
+out and fast-forwarded onto it after verifying it was an ancestor, and pushed. Nothing was stashed,
+dropped, or rewritten. **This is now a standing condition of the container rather than an accident,
+and the handling is settled.**
+
+### What the pericope is
+
+**A man asks to go home, is talked into staying for wages, and then takes the flock apart.**
+
+Nineteen verses, six years (31:41), and **the most technical passage in Genesis outside the ark's
+specifications and the brickmaking at Babel** — a resignation, a counter-offer, a contract with an
+audit clause, a pre-emption, and seven verses of animal husbandry.
+
+- **God does not act in it.** He is named three times and **every one is inside a human sentence**:
+  *"Yahweh has blessed me for your sake"* (Laban, 30:27) and *"Yahweh has blessed you wherever I
+  turned"* (Jacob, 30:30). **No verb in the pericope takes him as its subject.** The whole of the
+  theology is deployed by two men negotiating wages, and neither mentions Bethel, the covenant, or
+  the promise.
+- **The promise is nonetheless kept in it, in its own verb.** Bethel gave Jacob ***ûpāraṣtā***,
+  *you will spread abroad* (28:14); 30:43 is ***wayyipṛōṣ hāʾîš məʾōd məʾōd***, *the man burst out
+  exceedingly.* **The page states the verbal link and states equally that no character in the passage
+  makes it.**
+- **The Bible's first *nāḥaš*.** *"I have divined"* (30:27) is the root Leviticus 19:26 and
+  Deuteronomy 18:10 forbid, **and what Laban divined is orthodox and correct** — Genesis 12:3 in the
+  mouth of a beneficiary, used as an argument for **not releasing** the man the blessing works
+  through. Genesis comments on neither the method nor the result.
+- **Nothing in the passage is a lie, a theft, or a broken term.** Jacob refuses a wage in Abram's
+  formula (*"you shall not give me anything"*, against 14:23), names the odd-coloured minority of
+  both herds instead, and attaches a self-auditing clause — *"so my righteousness will answer for
+  me"*. **Laban keeps the contract to the letter and empties it the same day**, moving every
+  qualifying animal three days off into his sons' hands (30:35). Jacob answers in kind. **The wiki
+  records that the family's method appears here with the falsehood removed, and that Genesis grades
+  it exactly as it graded the others — not at all.**
+- **Two mechanisms are distinguished for the first time in the wiki.** The peeled rods (30:37–39) are
+  **maternal impression**, a folk belief the text neither endorses nor mocks; the use of the rods on
+  the strong animals only (30:41–42) is **selective breeding**, and it works. **Genesis narrates them
+  as one continuous procedure and draws no line between them**; the passage page draws it and says
+  the book does not.
+- **The *lābān* pun is the page's main philological claim.** Genesis 30:37 carries the root *l-b-n*
+  three times — ***libneh*** (white poplar), ***ləbānôt*** (the white streaks), ***hallābān*** (the
+  white made to appear) — in the operation that strips *Lābān* of a herd, and the second tree is
+  ***lûz***, **the name Bethel went by before Jacob renamed it** (28:19). **Both are stated as
+  wordplay and neither is argued from**, because Genesis glosses neither.
+- **The parallel with Isaac is structural, not thematic.** 30:43's ***hāʾîš***, *the man*, matches
+  26:13's *"the man became great"* — **both patriarchs are called *the man* at the moment of
+  enrichment abroad**, and both are followed immediately by the host's resentment (26:14; 31:1–2).
+
+### Judgment calls made unattended
+
+- **The subject of 30:35 is read as Laban, and the ambiguity is flagged rather than hidden.** The
+  Hebrew names no subject where Jacob had said at 30:32 that *he* would do the removing. The page
+  adopts the standing reading on the two grounds the text supplies — the sons are Laban's, and
+  nothing in 30:37–42 works if Jacob already held the animals — **and says explicitly that Genesis
+  does not spell it out.**
+- **30:40 is left obscure.** It is among the hardest sentences in the book and translations diverge
+  on whose animals face whose. The page states the difficulty, gives the WEB's reading **as the
+  WEB's**, and rests its paragraph on the clause every reading shares.
+- **The two accounts of the same six years are not harmonised.** This pericope credits nothing to
+  God; 31:9–12 credits everything to him, in Jacob's own mouth. **The wiki does not treat the later
+  speech as the narrator's view, does not treat the earlier silence as a denial, and does not choose
+  between them** — three standing readings are set out on the connection page and none is adopted.
+- **The title was kept from the plan.** *Jacob's Flocks*, over *The Speckled and the Spotted* (names
+  only the second half), *Jacob's Wages* (near-duplicate of material already under
+  `Jacob, Leah, and Rachel`), and *The Rods in the Troughs* (names the one element the text declines
+  to explain). No other book has a passage page by that title.
+- **`Laban`'s sons get no page.** They hold animals at 30:35 and speak at 31:1; they are carried on
+  `Laban` until that pericope arrives.
+- **A new theme page was judged warranted.** `Wealth and Possessions` — Genesis has tracked
+  livestock, silver, gold, slaves, and one purchased grave since 12:5, three patriarchs have been
+  enriched abroad by foreign patrons, and the wiki had no page for any of it. This pericope is the
+  most detailed instance in the book.
+- **`ʿErmôn` and `ʿārûm` are noted as a resemblance and pressed no further.** The plane tree's
+  consonants are the serpent's adjective at 3:1; **Genesis draws no line between them and neither
+  does the page.**
+- **No connection page was made for *šalləḥēnî* and the Exodus.** The proto-exodus shape of the Laban
+  years only completes in Genesis 31 (service, release refused, departure with wealth, pursuit,
+  divine intervention on the road); a section was added to the existing
+  `Down to Egypt and Up Again - Abram's Descent as Proto-Exodus` instead.
+
+### Pages touched
+
+**Created (5).** `wiki/passages/Genesis/Jacob's Flocks.md`; theme `Wealth and Possessions`;
+connections `Blessed for His Sake - Laban's House and Potiphar's`,
+`Two Explanations for One Flock - The Rods and the Dream`, and
+`Divination in Genesis - Laban's Nahash and Joseph's Cup`.
+
+**Revised (21).** People: `Jacob` (new in-pericope section, seven timeline entries, an appearance
+note, two themes), `Laban` (new in-pericope section, four timeline entries, an appearance note, an
+unnamed-sons entry under related people, three themes), `God` (a new numbered section on the total
+absence of divine agency, a timeline entry, an appearance note), `Rachel` and `Joseph` (the dating
+clause at 30:25, timeline and appearance entries each). Places: `Aram Naharaim` (two appearance
+notes, and **two stale *(not yet ingested)* markers corrected** — Genesis 29 and 29:31–30:24 had
+both been ingested and the events list still said otherwise). Themes: `Work`, `Blessing`,
+`Deception`, `Prophecy and Vision` (plus `Laban` added to its related people),
+`Land and Sojourning`, `Favor and Grace`, `The Nations`, `Names and Naming`, `Righteousness`.
+Connections: `Not a Thread nor a Sandal Strap` (a new section on the grandson's version of the
+refusal), `Mightier Than We - Isaac in Gerar and Israel in Egypt` (a new section on the middle term,
+with a three-row table of hosts and responses), `The Trees of the Patriarchs` (the one patriarch who
+cuts them), `Dust, Stars, and Sand - The Offspring Promises` (a new section on *pāraṣ* at 28:14 and
+30:43), `A Garment and a Goat - Jacob Deceives and Is Deceived`,
+`The Younger Before the Firstborn - Jacob and Laban`,
+`Down to Egypt and Up Again - Abram's Descent as Proto-Exodus`.
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary, `Names and Naming` and `Wealth and Possessions` added to key themes),
+`wiki/books/index.md` (**38 / 59 → 39 / 59**), five rows extended in `wiki/people/index.md`, one row
+extended in `wiki/places/index.md`, one new row and nine extended rows in `wiki/themes/index.md`,
+three new rows in `wiki/connections/index.md`. `wiki/index.md` now reads **45 passages · 98 people ·
+48 places · 56 themes · 127 connections**, counted against what is on disk.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**, clean on the first run this pass. No wrapped links, no dangling
+targets; the expected baseline is **64** not-yet-started book pages, unchanged, since no new book
+page was created.
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather
+than wikilinks, so none is a finding: 31:1–2 (Laban's sons complain and Laban's face changes), 31:3
+(*"return to the land of your fathers"*, arriving six years after Jacob asked), 31:7 and 31:41 (the
+wages changed ten times, and *"six years for your flock"*), 31:9–12 (the angel and the dream — the
+passage's other explanation), 31:19 and 31:30–35 (Laban's *teraphim*), 31:23 (the seven-day pursuit
+across the three days' journey of 30:36), 32:13–21 (these flocks counted out as a present for Esau),
+39:5 (*"Yahweh blessed the Egyptian's house for Joseph's sake"*), 44:5 and 44:15 (Joseph's cup, the
+book's only other *nāḥaš*), and 47:6, 27 (the family settled in Goshen).
+
+**Quotation check.** Every WEB verse quoted on the passage page was compared against
+`raw/bible/Genesis.md` character by character; all nineteen match verbatim.

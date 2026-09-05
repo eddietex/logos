@@ -113,3 +113,9 @@ took at 27:19–24. Neither man in the exchange has any standing.
   state the ordinary rule out loud — *the younger is not given before the firstborn* — and the man
   who hears it is the standing exception to it. See [[Birthright and the Firstborn]] and
   [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]].
+- **And the rule-citer ends up on the losing end of a technicality.** In [[Jacob's Flocks]] Laban
+  accepts a contract in five words and hollows it out the same day by removing every animal that
+  could pay it (30:35–36) — **a manoeuvre that keeps the letter and empties the substance, which is
+  exactly what *"it is not done so in our place"* did to the seven years.** Jacob answers in kind and
+  wins. **The man who explained the custom is beaten by a rule kept to the letter**, and Genesis
+  narrates that with the same flat neutrality it gave the wedding.

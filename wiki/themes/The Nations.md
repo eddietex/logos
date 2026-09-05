@@ -204,6 +204,15 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   the grandson. And the same verse promises Jacob ***ûpāraṣtā***, bursting out in four directions:
   **the scattering Babel organised a civilisation to prevent, given as a blessing.** See
   [[Babel and the Gate of Heaven]].
+- [[Jacob's Flocks]] — Genesis 30:27: **an Aramean says *Yahweh*, reads providence correctly, and
+  arrives at it by divination.** *"I have divined that Yahweh has blessed me for your sake"* is
+  Genesis 12:3 stated by a beneficiary rather than by God, **and it is used as a reason to detain the
+  man the blessing runs through.** [[Laban]] joins [[Melchizedek]],
+  [[Abimelech (of Abraham's time)]], and [[Abimelech (of Isaac's time)]] in the book's standing habit
+  of handing accurate theology to outsiders and never explaining where they got it — **and he is the
+  only one of them who acts on it by refusing to let the carrier go**, which is what [[Egypt]] will
+  do at national scale. See [[Blessed for His Sake - Laban's House and Potiphar's]] and
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
 
 ## Related themes
 

@@ -938,6 +938,35 @@ situation, prayed (25:21). See
 tribes arrive out of a contest between two sisters, and **God's whole recorded participation is three
 clauses.**
 
+### He is named only inside other people's sentences — Genesis 30:25–43
+
+**The silence resumes, and this time it is total.** The three acts of 29:31–30:24 stop at Joseph's
+birth, and across the nineteen verses of [[Jacob's Flocks]] **no verb in the passage has God as its
+subject.** He is named three times and every one is reported speech:
+
+- *"I have divined that **Yahweh has blessed me** for your sake"* — [[Laban]], 30:27
+- *"**Yahweh has blessed you** wherever I turned"* — [[Jacob]], 30:30
+
+**Both sentences are true, both are about somebody else's estate, and both are arguments.** Laban's
+is a reason for detaining a man; Jacob's is a reason for releasing him. **The only theology in the
+pericope is deployed by two men negotiating wages**, and the narrator adds nothing to it.
+
+**Two things follow.** First, **the divine name is on an Aramean's lips**, obtained by *nāḥaš*,
+divination — the first in the Bible, and a practice Deuteronomy 18:10 forbids. **Genesis lets a
+prohibited method produce a correct result and says nothing about either half.** See
+[[Divination in Genesis - Laban's Nahash and Joseph's Cup]].
+
+Second, **the promise is kept in the passage without him being said to keep it.** *"You will spread
+abroad"* (28:14) is ***ûpāraṣtā***; 30:43 is ***wayyipṛōṣ hāʾîš məʾōd məʾōd***, *the man burst out
+exceedingly.* **The verb of the Bethel promise turns up as the last clause of a livestock report, and
+Genesis does not connect them.**
+
+**What makes this a genuine problem rather than a stylistic observation is Genesis 31.** There Jacob
+tells his wives that an angel of God appeared in a dream, and that *"God has taken away your father's
+livestock and given them to me"* (31:9). **The same six years, told twice, with God the sole agent in
+one telling and absent from the other** — and the wiki reconciles them nowhere. See
+[[Two Explanations for One Flock - The Rods and the Dream]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -1112,6 +1141,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   unloved wife's womb as compensation for a husband's coldness**; then listens to her, and finally
   *remembers* Rachel — **three acts, no speech, and three petitions heard that the book never prints**
   — Genesis 29:31; 30:17, 22, [[The Birth of Jacob's Children]]
+- Named three times in nineteen verses and **the subject of no verb in any of them**: credited by an
+  Aramean who divined it and by the man it works through, in a wage negotiation neither of them
+  brings him into — Genesis 30:27, 30, [[Jacob's Flocks]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -1172,6 +1204,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   once by Jacob as a reason to do nothing (*"Am I in God's place?"*); and the divine names divide
   cleanly — five *Yahweh* at the two ends of the pericope, eight *ʾĕlōhîm* through the middle.
   **Eleven of the twelve tribes arrive, and nothing in the household is corrected or blessed**
+- [[Jacob's Flocks]] — Genesis 30:25–43; **the silence resumes and is total.** He is named three times
+  and **no verb in the pericope has him as its subject** — *Yahweh has blessed me for your sake*
+  (Laban), *Yahweh has blessed you wherever I turned* (Jacob), both of them arguments in a wage
+  negotiation. **The Aramean got his correct theology by divination**, the Bible's first *nāḥaš*, and
+  Genesis comments on neither the method nor the result. **The Bethel promise's own verb closes the
+  passage** — *the man burst out exceedingly* — **with nobody in it noticing.** One chapter later
+  Jacob will attribute the whole six years to an angel and to God, and the book never reconciles the
+  two accounts
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

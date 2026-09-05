@@ -149,6 +149,14 @@ about.
   occurs seven times in the eleven verses immediately before, in a negotiation about this city, and
   is never applied to the one man taken out of it; 19:29 credits the rescue to Abraham instead. See
   [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]]
+- [[Jacob's Flocks]] — Genesis 30:33: ***wəʿāntâ-bî ṣidqātî***, *my righteousness will answer for
+  me.* **The noun of 15:6 and 18:19 in its most mundane possible sense** — *my books will bear
+  inspection* — used by a man designing a wage he can be audited on: any plain-coloured animal in his
+  fold counts as stolen, by his own prior admission. **The word that named Abram's faith names
+  Jacob's paperwork**, and Genesis puts it in the mouth of the one patriarch whose reputation rests
+  on disguises. **The wiki records the range rather than harmonising it**: *ṣədāqâ* in Genesis covers
+  a reckoning credited by God, a way to be taught to children, and a colour-coded audit trail
+
 ## Related themes
 
 - [[Favor and Grace]] — the other term in the 6:8 / 6:9 pair, and the question of which grounds which

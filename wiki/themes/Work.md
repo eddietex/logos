@@ -106,6 +106,17 @@ the seventh day a blessing. See [[Sabbath]].
   son's mandrakes"* (***śākōr śəkartîkā***, infinitive absolute), and then *"God has given me my
   **hire**"* (30:18), which names [[Issachar]]. **The man Laban put on wages is put on wages again by
   Leah**, and Genesis gives him no reply to either
+- [[Jacob's Flocks]] — Genesis 30:25–43; **the only sustained description of a trade anywhere in
+  Genesis.** ***ʿĀbad*** three times in one verse (30:26, of the service that bought two wives),
+  ***śākār*** three times in the contract (30:28, 32, 33), and then **seven verses of husbandry** —
+  peeled rods in the watering-troughs, the young separated, and the rods used on the strong animals
+  and withheld from the feeble. **The book that gives Isaac's hundredfold one clause gives Jacob's
+  breeding programme a paragraph**, and the only comparable technical passages in it are the ark's
+  specifications and the brickmaking at Babel. **It also contains the theme's one worker-designed
+  contract**: a man who refuses a wage (*"you shall not give me anything"*), names an unpayable-looking
+  one instead, and attaches an audit clause to it — *"so my righteousness will answer for me"*. **The
+  employer honours the terms and hollows them out the same day**, and the worker out-engineers him.
+  See [[Wealth and Possessions]]
 
 ## Related themes
 
@@ -115,6 +126,7 @@ the seventh day a blessing. See [[Sabbath]].
 - [[Curse]] — what falls on the ground the work is done in
 - [[Sacrifice and Offering]] — where the produce of work is brought back to God
 - [[City and Civilization]] — what specialized, inherited work builds
+- [[Wealth and Possessions]] — what the work produces, and who ends up holding it
 
 ## Related people
 

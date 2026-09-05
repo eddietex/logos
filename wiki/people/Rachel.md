@@ -119,6 +119,8 @@ over the killing of the infants at Bethlehem. See
 - Gives [[Bilhah]] to Jacob; names [[Dan (person)]] and [[Naphtali]] — Genesis 30:3–8
 - Buys the mandrakes with a night of her husband, and stays barren — Genesis 30:14–16
 - *"God remembered Rachel"*; the birth of [[Joseph]] — Genesis 30:22–24
+- Named in a dating clause — *"when Rachel had borne Joseph"* — as the moment Jacob asks to go home;
+  she says nothing and is not consulted — Genesis 30:25, [[Jacob's Flocks]]
 - Steals Laban's household gods and hides them — Genesis 31:19, 34–35 *(not yet ingested)*
 - Dies bearing Benjamin on the road to Ephrath; the pillar over her grave — Genesis 35:16–20 *(not yet
   ingested)*
@@ -134,6 +136,10 @@ over the killing of the infants at Bethlehem. See
   the pattern's exact inversion. She gives an ultimatum, is answered with anger, produces a slave, names
   two sons she did not bear as verdicts against her sister, buys a fertility drug that does nothing, and
   is finally *remembered* — then names her first son for a second one she does not have
+- [[Jacob's Flocks]] — Genesis 30:25; **one clause, and it is a date.** *"When Rachel had borne
+  Joseph, Jacob said to Laban, 'Send me away'"* — **the birth of the loved wife's first son is what
+  makes the household complete enough to leave**, and Genesis chooses that event rather than any of
+  the eleven before it to start the departure. She is not consulted and says nothing until 31:14
 
 ## Related people
 

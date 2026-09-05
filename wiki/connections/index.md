@@ -128,3 +128,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
 | [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] | parallel | Genesis 30:1–2 · Genesis 50:18–20 · Genesis 25:21 |
 | [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 |
+| [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
+| [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
+| [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] | thread | Genesis 30:27 · Genesis 31:19, 30–35 · Genesis 44:5, 15 · Leviticus 19:26 · Deuteronomy 18:9–14 · Numbers 22–24 · Numbers 23:23 |

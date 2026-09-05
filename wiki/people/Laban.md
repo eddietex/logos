@@ -81,13 +81,57 @@ that name his son-in-law's entire life.** See
 Rachel, then seven more years. **He gives a slave away with each daughter** — [[Zilpah]] at 29:24,
 [[Bilhah]] at 29:29 — in two matching verses that pause for neither woman.
 
+### In this pericope — Genesis 30:25–43
+
+**He gets the theology right and uses it as a reason not to let the man go.**
+
+Handed a resignation, he answers with **the formula of a petitioner to a superior** — *"If now I have
+found favor in your eyes"*, ***ʾim-nāʾ māṣāʾtî ḥēn bəʿênêkā*** (30:27), the words Abraham used to the
+three visitors and Lot to the angels. **An employer asks a favour of his employee**, and that is the
+first sign the balance has moved. See [[Favor and Grace]].
+
+***"For I have divined."*** ***Niḥaštî*** — **the first occurrence of *nāḥaš* in the Bible**, the
+root of augury, and a practice Leviticus 19:26 and Deuteronomy 18:10 will forbid outright.
+**Genesis reports it with no comment whatever**, from the man whose household turns out to keep
+*teraphim* (31:19). **And what he divined is correct**: *"Yahweh has blessed me **for your
+sake**"*, ***biglālekā*** — an Aramean speaking the covenant name and reading his own prosperity as
+someone else's blessing overflowing, which is [[The Call of Abram]]'s stated purpose (12:3) in the
+mouth of a beneficiary. **The same idiom will govern Potiphar's house** (39:5). See
+[[Divination in Genesis - Laban's Nahash and Joseph's Cup]] and
+[[Blessed for His Sake - Laban's House and Potiphar's]].
+
+**He opens the wages negotiation with the same move as 29:15.** *"Appoint me your wages, and I will
+give it"* (30:28) — ***noqbâ śəkārəkā ʿālay***, *name your price against me* — **the identical
+invitation that cost Jacob seven years the first time.** He disputes not one word of Jacob's audit at
+30:29–30, and accepts the terms in five Hebrew words: *"Behold, let it be according to your word"*
+(30:34). **On their face the terms cost him almost nothing**, since the speckled sheep and dark goats
+are the minority in both herds.
+
+**And then, the same day, he removes them himself.** *"That day, **he** removed the male goats that
+were streaked and spotted… and gave them into the hand of his sons"*, and *"set three days' journey
+between himself and Jacob"* (30:35–36). **The Hebrew names no subject**; the standing reading is
+Laban, on the two grounds the text supplies — the sons are his, and nothing in 30:37–42 works if
+Jacob already held the animals. **It is not a breach and it is not theft.** He does exactly what the
+contract said would happen, and does it in a way that leaves his shepherd tending a flock engineered
+to owe him nothing. **Genesis records the manoeuvre in one verse and never calls it anything**;
+the nearest thing to a verdict in the book is Jacob's own, at 31:7 — *"changed my wages ten times."*
+
+**He is out-bred, and does not know it yet.** The verse that begins his undoing plays three times on
+his name — ***libneh*** (poplar), ***ləbānôt*** (white), ***hallābān*** (the white) — in a passage
+where a man strips bark to expose pale wood in order to strip *Lābān* of a herd. **Genesis glosses
+none of it.** See [[Jacob's Flocks]] and [[Names and Naming]].
+
+***"Into the hand of his sons."*** **The first the reader hears that he has grown sons**, and it is
+their complaint that opens the next chapter: *"Jacob has taken away all that was our father's"*
+(31:1). They get no page; they are carried here.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
 Wages changed
-*"ten times"* (31:7, 41). Speckled and spotted flocks, and a son-in-law who out-manoeuvres him
-(30:31–43). A seven-day pursuit across the hill country after his stolen household gods, ending in a
+*"ten times"* (31:7, 41), and a face that stops being *"toward him as before"* (31:2). A seven-day
+pursuit across the hill country after his stolen household gods, ending in a
 heap of stones, a shared meal, a boundary oath, and — *"The God of Abraham, and the God of Nahor, the
 God of their father, judge between us"* (31:53) — the closest thing in Scripture to a glimpse of what
 the branch that stayed in Mesopotamia worshipped. Jacob pointedly swears by *"the fear of his father
@@ -128,6 +172,12 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - Gathers the town, makes a drinking feast, and substitutes [[Leah]] — Genesis 29:22–24
 - Cites the rule of the firstborn, and sells the second daughter for seven more years — Genesis
   29:26–29
+- Refuses to release Jacob, petitioning him with *"if now I have found favor in your eyes"*, and
+  admits to divining — *"Yahweh has blessed me for your sake"* — Genesis 30:27, [[Jacob's Flocks]]
+- Opens a second wages negotiation with the move of 29:15 — *"Appoint me your wages"* — Genesis 30:28
+- Accepts Jacob's terms in five words, then removes every odd-coloured animal from the flock the same
+  day and puts it three days off in his sons' hands — Genesis 30:34–36
+- Out-bred, in a verse that puns three times on his name — Genesis 30:37–43
 - Changes Jacob's wages ten times — Genesis 31:7, 41 *(not yet ingested)*
 - Pursues Jacob for the stolen household gods; the covenant heap at Mizpah — Genesis 31:22–55
   *(not yet ingested)*
@@ -159,6 +209,13 @@ built on the same root, for its snow. Genesis makes nothing of it.
   the elder daughter at a drinking feast and answers the charge with a house rule he could have
   stated at any point in the preceding seven years. **His refusal is delivered in the two nouns of
   the oracle Jacob was born under**, and his counter-offer doubles the labour he is owed
+- [[Jacob's Flocks]] — Genesis 30:25–43; **he diagnoses the blessing correctly and responds by
+  refusing to release its carrier.** He petitions his own hired man in the formula of a supplicant,
+  admits he has been **divining** — the Bible's first *nāḥaš* — and gets the right answer by it;
+  opens a second wages negotiation with the move that cost Jacob seven years; accepts the terms in
+  five words; and then strips every animal that could pay those wages out of the flock the same day,
+  three days' journey off, into his sons' hands. **Genesis reports it and never calls it anything.**
+  He is the only man in the book to name Yahweh while holding a man against his will
 
 ## Related people
 
@@ -176,11 +233,16 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - [[Rachel]] — his younger daughter, whom he does not name in the verse that promises her
 - [[Zilpah]] — his slave, given to Leah at her wedding
 - [[Bilhah]] — his slave, given to Rachel a week later
+- **His sons** — unnamed, given the odd-coloured flock to hold at 30:35 and the complaint that opens
+  Genesis 31; they have no page of their own
 
 ## Themes associated
 
 - [[Hospitality]]
 - [[Work]]
+- [[Wealth and Possessions]]
+- [[Prophecy and Vision]]
+- [[Favor and Grace]]
 - [[Slavery and Servitude]]
 - [[Birthright and the Firstborn]]
 - [[Marriage]]

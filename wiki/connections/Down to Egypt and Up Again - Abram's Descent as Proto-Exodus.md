@@ -127,3 +127,26 @@ promise runs through her. Exodus says the same thing at national scale: Israel i
 because of a covenant with the fathers (Exodus 2:24), not because of anything Israel did in Egypt.
 The first exodus in Scripture is a rescue of a man from a mess of his own making, and that is
 probably the point.
+
+## The second rehearsal — Jacob and Laban
+
+**Genesis runs the shape a second time in the Jacob cycle, and the second run supplies the pieces the
+first one lacked: years of service, a release requested and refused, and a pursuit.**
+
+The verb is the giveaway. **Jacob's request at 30:25 is ***šalləḥēnî*** — the piel of *šālaḥ*, *send
+me away* — which is the verb of Exodus 5:1**, *šallaḥ ʾet-ʿammî*, and he attaches to it *"give me my
+wives and my children **for whom I have served you**"*, ***ʿābadtîkā***, the root that runs seven
+times through the marriage contract and supplies Exodus its word for both slavery and worship.
+**Laban's answer is to admit that God has been prospering him through this man and to keep him
+anyway** (30:27) — the same reasoning Exodus 1:9–10 gives Pharaoh, with the arithmetic reversed. See
+[[Jacob's Flocks]] and [[Blessed for His Sake - Laban's House and Potiphar's]].
+
+Then the rest of the shape arrives in order: **the man leaves enriched** (30:43; 31:18), **the master
+pursues** (31:23), and **God intervenes on the road to stop him** (31:24). What Abram's descent gave
+in outline — go down, be afflicted, be enriched, be sent away — the Laban years give **in full,
+outside Egypt, with a named term of service and a wage dispute attached.**
+
+**The wiki keeps the two rehearsals distinct rather than merging them.** Abram's is the plot of the
+Exodus; Jacob's is its labour relations. **And Deuteronomy 26:5 puts the second one, not the first,
+into Israel's own confession**: *"A Syrian ready to perish was my father, and he went down into
+Egypt."*

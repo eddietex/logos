@@ -97,3 +97,9 @@ changes of clothing (45:22) in the chapter where he stops hiding. See [[Nakednes
   There is no garment and no goat on the wedding night — **no veil is mentioned in the text at all** —
   and the deception is carried entirely by darkness, a drinking feast, and the fact that nobody in the
   town says anything. **The family's technique works here with nothing in its hands.**
+- **The third act in the sequence has no prop and no lie at all.** In [[Jacob's Flocks]] Jacob
+  proposes a wage contract, Laban accepts it and empties it the same day (30:35), and Jacob then
+  out-breeds him inside its terms — **goats again, appearance again, and this time nothing false is
+  said by anybody.** The clause he uses to guarantee his honesty is *"so my **righteousness** will
+  answer for me"* (30:33): **an audit by colour, proposed by the man who once made himself feel like
+  his brother with a goatskin.** Genesis grades it exactly as it graded the first two — not at all.

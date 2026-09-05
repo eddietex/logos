@@ -87,3 +87,20 @@ material and declines to draw the conclusion.
 
 See [[The Rescue of Lot and Melchizedek]], [[Abram in Egypt]], [[Abraham]], [[Bera]], and
 [[Oaths and Vows]].
+
+## The grandson's version — Genesis 30:31
+
+**Jacob uses the same formula on Laban and means something different by it.**
+
+> **30:31** *"What shall I give you?" Jacob said, "**You shall not give me anything.** If you will do
+> this thing for me, I will again feed your flock and keep it."*
+
+***Lōʾ-titten-lî məʾûmâ*** against Abram's ***ʾim-miḥûṭ wəʿad śərôk-naʿal wəʾim-ʾeqqaḥ***. **Both are
+refusals of a patron's payment by a man who is about to become rich anyway**, and **both are about
+attribution** — Abram will not let a king say *"I have made Abram rich"*, and Jacob will not take a
+wage his employer can later revalue. **The difference is what follows the refusal.** Abram walks away
+with nothing but his allies' share; **Jacob names an alternative in the same breath and then
+engineers it** (30:32–43). See [[Jacob's Flocks]].
+
+**Genesis draws no line between them.** The formula travels two generations, keeps its logic, and
+loses its self-denial, and the book does not remark on either half.

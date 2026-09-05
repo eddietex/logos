@@ -87,6 +87,15 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   east"* (Job 1:3). **It gets no page of its own**, on the decision already recorded for *Paddan
   Aram*: one country under four labels. And the pericope bears out what this page's overview says
   about the region — **thirty verses set here, and God is not named in any of them**
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **eleven of the twelve tribes of Israel
+  are born in this country**, to four women, in a household that keeps *teraphim*, with no altar and
+  no sanctuary anywhere in it
+- [[Jacob's Flocks]] — Genesis 30:25–43; **the region's economy, in the book's only sustained
+  description of a trade.** No place inside it is named — the only geography the pericope supplies is
+  ***three days' journey*** between two flocks — and the country Jacob wants to leave for is given as
+  *"my own place, and my country"*. **The overview's point holds again: God is named three times here
+  and never as the subject of a verb**, and the one man who claims direct knowledge of him got it by
+  divination
 
 ## Related places
 
@@ -106,6 +115,10 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
 - Rebekah's family agrees, blesses her, and sends her to Canaan — Genesis 24:50–61
 - Jacob is sent here for a wife from the daughters of [[Laban]] — Genesis 28:2, 5,
   [[Isaac Sends Jacob to Paddan Aram]]
-- Jacob arrives, serves fourteen years, and marries Leah and Rachel — Genesis 29 *(not yet ingested)*
-- Eleven of Jacob's twelve sons are born — Genesis 29:31–30:24 *(not yet ingested)*
+- Jacob arrives, serves fourteen years, and marries Leah and Rachel — Genesis 29:1–30,
+  [[Jacob, Leah, and Rachel]]
+- Eleven of Jacob's twelve sons and his one named daughter are born — Genesis 29:31–30:24,
+  [[The Birth of Jacob's Children]]
+- Jacob asks to be released and is refused; the wage contract, the rods, and the flocks divided —
+  Genesis 30:25–43, [[Jacob's Flocks]]
 - Jacob leaves, is pursued by Laban, and swears the boundary oath — Genesis 31 *(not yet ingested)*

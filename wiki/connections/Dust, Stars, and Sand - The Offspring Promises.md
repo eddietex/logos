@@ -138,3 +138,24 @@ See [[Hagar and Ishmael]].
   and then, of everyone who believes, *"If you are Christ's, then you are Abraham's offspring, heirs
   according to promise"* (3:29). Revelation 7:9 ends with the count refused one more time: *"a great
   multitude which no man could count."*
+
+## The promise's verb, spent on livestock — Genesis 28:14 and 30:43
+
+**Jacob's version of the dust promise carries a verb the others do not, and Genesis cashes it in the
+least dignified place available.**
+
+> **28:14** Your offspring will be as the dust of the earth, and **you will spread abroad** to the
+> west, and to the east, and to the north, and to the south. (***ûpāraṣtā***)
+
+> **30:43** **The man increased exceedingly**, and had large flocks, female servants and male
+> servants, and camels and donkeys. (***wayyipṛōṣ hāʾîš məʾōd məʾōd***)
+
+***Pāraṣ*** — *burst out, break through, spread* — **is promised to Jacob at Bethel and next appears
+in his life as the summary verb of a livestock inventory.** **The wiki states the verbal link and
+states equally that no character makes it**: nobody in [[Jacob's Flocks]] mentions Bethel, the
+ladder, the vow, or the dust, though [[The Birth of Jacob's Children]] has just delivered eleven
+sons and this pericope delivers the herds.
+
+**Two pericopes of household arithmetic and animal husbandry, and the promise of 28:13–15 is kept in
+both without being quoted in either.** It is the same construction the wiki notes at 16:10 and 21:1:
+**Genesis prefers to let a promise arrive unannounced and let the reader do the matching.**

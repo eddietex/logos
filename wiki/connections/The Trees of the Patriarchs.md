@@ -126,3 +126,22 @@ Abimelech's coronation — which is why the wiki treats that site separately. Se
   wiki keeps that unresolved. It is one of the clearest places where the Pentateuch's narrative and
   its legislation describe two different worlds, and neither book shows any awareness of the other's
   discomfort.
+
+## The one patriarch who cuts them — Genesis 30:37
+
+**Every other tree in this thread is stood under, camped beside, planted, or buried at. Jacob's are
+cut and peeled.**
+
+> **30:37** Jacob took to himself rods of fresh **poplar**, **almond**, **plane tree**, peeled white
+> streaks in them, and made the white appear which was in the rods.
+
+***Libneh***, ***lûz***, ***ʿermôn*** — **three species named in one verse, which is more botanical
+detail than the whole rest of Genesis contains**, and **none of them is a cult site, an altar, a
+grave, or an address.** They are raw material. **The book that will not say what Abraham's oak at
+Mamre was for describes exactly what Jacob did to three trees and why**, and there is no religion in
+it anywhere. See [[Jacob's Flocks]].
+
+**Two of the names still carry the thread's memory.** ***Libneh*** is built on *l-b-n*, *white*, and
+so is ***Lābān*** — the wordplay of the pericope. ***Lûz***, the almond, **is the name Bethel went by
+before Jacob renamed it** (28:19), which puts a tree's name on the one place in this thread the
+patriarch met God rather than camped. **Genesis supplies both and glosses neither.**
