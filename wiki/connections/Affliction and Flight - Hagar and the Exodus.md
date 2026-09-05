@@ -72,6 +72,30 @@ at Horeb. Israel, coming out, will walk into the wilderness of Shur itself (Exod
 water for three days. The Bible's God is met at the edge of the desert by people who are running, and
 it happens for the first time to a slave nobody is looking for.
 
+### The third woman, and the noun that links them
+
+**Genesis uses *ʿŏnî* of exactly two women, and both of them are second in a household.**
+
+- **[[Hagar]], 16:11** — *"Yahweh has heard your **affliction**"*, said by the angel and made permanent
+  in a boy's name.
+- **[[Leah]], 29:32** — *"Yahweh has looked at my **affliction**; for now my husband will love me"*,
+  said by the mother and made permanent in [[Reuben]]'s.
+
+**And Exodus 3:7 does both verbs at once, of a nation**: *"I have surely **seen** the affliction of my
+people who are in Egypt, and have **heard** their cry."* **Hagar gets the hearing, Leah gets the
+seeing, and Israel gets both.**
+
+**The parallel is worth stating exactly and not further.** These are not the same situation: Hagar is a
+slave who has run, Leah is a wife who cannot leave; Hagar is sent back to her affliction, Leah is given
+children inside hers. **What they share is the noun, the second position in a household, and a son whose
+name is a permanent record that God noticed.** See [[The Birth of Jacob's Children]] and
+[[Names and Naming]].
+
+**One thing the pairing sharpens.** Leah's naming speeches use the exodus's other verb too — *"Yahweh
+has **heard** that I am hated"* (29:33), which names [[Simeon]] — **so the two verbs Exodus 3:7 pairs
+are already paired here, in a bedroom in Paddan Aram, four hundred years early and about a marriage.**
+Genesis makes nothing of it, and neither does Exodus.
+
 ## Significance
 
 - **It makes Genesis 16 the exodus in miniature and in reverse**, which is a strong claim to hang on

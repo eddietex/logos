@@ -51,16 +51,52 @@ very next verse turns the comparative into a flat word: *"Yahweh saw that Leah w
 first thing God is said to see in the Jacob cycle is her.** See [[Love]] and
 [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]].
 
+### In this pericope — Genesis 29:31–30:24
+
+***"Yahweh saw that Leah was hated, and he opened her womb"*** (29:31). **The first divine name in
+Genesis 29 arrives in its thirty-first verse, and its object is her.** The narrator's word is
+***śənûʾâ***, *hated* — not a softening of 29:30's *loved more than* but a flat restatement of it, and
+in Hebrew law a category: Deuteronomy 21:15–17 legislates for the household with one loved wife and one
+hated one. **Nobody in the household ever says it out loud**; Leah says *"I am hated"* once, at 29:33,
+and attributes the knowledge to God rather than to anyone she lives with.
+
+**And what God does about it is not to change Jacob's mind.** He opens a womb. **She is no more loved at
+the end of the passage than at the start**, and the compensation Genesis records is seven children.
+
+**She names them all, and the names are a diary.** Reuben, *see, a son* — *"Yahweh has looked at my
+affliction; for now my husband will love me"*; Simeon, *heard* — *"Yahweh has heard that I am hated"*;
+Levi, *joined* — *"now this time will my husband be joined to me"*; and then Judah — *"this time will I
+praise Yahweh"*, **the first of her speeches that asks Jacob for nothing** (29:32–35). Then she stops
+bearing.
+
+**The tidy reading of that arc is only half true, and the wiki says so.** Six children in, at 30:20, she
+is back to *"now my husband will live with me, because I have borne him six sons."* **Leah's naming
+speeches move toward God and then move back**, and Genesis narrates both directions without comment. See
+[[Names and Naming]].
+
+**She is not barren, and she matches her sister anyway.** When she *"saw that she had finished
+bearing"* she gives [[Zilpah]] to Jacob (30:9) — copying the move [[Rachel]] made out of necessity —
+and names both of Zilpah's sons herself. ***Gad*, *fortune has come*, and *Asher*, *the daughters will
+call me happy*, are the only two namings in the passage with no divine name and no divine act in
+them.** Luck, and reputation. See [[Envy]].
+
+**Then the mandrakes**, and the only conversation the two sisters have anywhere in the Bible. Her line
+is an accusation of theft — *"Is it a small matter that you have taken away my husband?"* (30:15) —
+**from the woman who was put into Rachel's wedding.** Both sisters believe the other has taken
+something, and **both are right by their own accounting.** She sells the night, meets Jacob in the field
+and tells him he is hired (*śākōr śəkartîkā*, 30:16), **and then credits the resulting son to something
+else entirely**: *"God has given me my hire, because I gave my servant to my husband"* (30:18).
+
+***"God listened to Leah"*** (30:17). **The second of the passage's three divine acts, and Genesis
+records no prayer from her** — as it records none behind *"Yahweh has heard that I am hated"* either.
+**She is heard twice in one pericope with nothing printed on the other side of it.** See [[Prayer]].
+
+Her last child is [[Dinah]], in one clause with no etymology and no speech — **the only birth in the
+passage without a gloss**, in the chapter that supplies eleven.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
-
-God opens her womb and she names four sons in five verses, and **the names are a diary**: Reuben,
-*see, a son* — *"Yahweh has looked at my affliction; for now my husband will love me"*; Simeon,
-*heard* — *"Yahweh has heard that I am hated"*; Levi, *joined* — *"now this time will my husband be
-joined to me"*; and then Judah — *"this time will I praise Yahweh"*, **the first name in the list that
-asks her husband for nothing** (29:32–35). She gives Zilpah to Jacob when she stops bearing, buys a
-night with him from her sister for her son's mandrakes, and bears two more sons and Dinah.
 
 She is named second when Jacob divides his household to meet Esau and puts them furthest from danger
 after the slaves (33:2). She dies before the descent into Egypt, unrecorded, and Jacob mentions her
@@ -77,10 +113,14 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - Jacob discovers the substitution; Laban cites the rule of the firstborn — Genesis 29:25–26
 - Her bridal week fulfilled; her sister married to the same man — Genesis 29:27–28
 - *"He loved also Rachel more than Leah"* — Genesis 29:30
-- *"Yahweh saw that Leah was hated, and he opened her womb"*; Reuben, Simeon, Levi, Judah — Genesis
-  29:31–35 *(not yet ingested)*
-- Gives Zilpah to Jacob; the mandrakes; Issachar, Zebulun, and Dinah — Genesis 30:9–21 *(not yet
-  ingested)*
+- *"Yahweh saw that Leah was hated, and he opened her womb"* — Genesis 29:31,
+  [[The Birth of Jacob's Children]]
+- Bears and names [[Reuben]], [[Simeon]], [[Levi]], [[Judah]]; then stops bearing — Genesis 29:32–35
+- Gives [[Zilpah]] to Jacob and names her two sons, [[Gad]] and [[Asher]] — Genesis 30:9–13
+- The mandrakes; *"Is it a small matter that you have taken away my husband?"*; *"I have surely hired
+  you"* — Genesis 30:14–16
+- *"God listened to Leah"*; [[Issachar]] and [[Zebulun]] — Genesis 30:17–20
+- Bears [[Dinah]], the one birth in the passage with no etymology — Genesis 30:21
 - Placed ahead of Rachel, behind the slaves, at the meeting with Esau — Genesis 33:1–2 *(not yet
   ingested)*
 - Buried at Machpelah; *"there I buried Leah"* — Genesis 49:31 *(not yet ingested)*
@@ -92,6 +132,11 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   the text describes in six words, and the man who wakes beside her asks three questions, none of
   them about her. **She has no line, no consent scene, and no reaction in the entire pericope**, and
   the passage ends by ranking her second
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **the first person God is said to see in the
+  Jacob cycle**, and the mother of half the tribes. Seven children, seven namings, and a running
+  argument with a husband who is present for none of it; she matches her sister slave for slave without
+  being barren, accuses her of theft, sells her a night, and is heard by God twice with no prayer
+  recorded either time
 
 ## Related people
 
@@ -102,6 +147,10 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - [[Zilpah]] — her slave, given to her at the wedding and given by her to Jacob
 - [[Bilhah]] — her sister's slave
 - [[Rebekah]] — her husband's mother, whose technique her father repeats on her husband
+- [[Reuben]], [[Simeon]], [[Levi]], [[Judah]], [[Issachar]], [[Zebulun]] — her six sons, and half the
+  tribes of Israel; the priesthood and the kingship are both hers
+- [[Dinah]] — her daughter, and the only one of Jacob's daughters the Bible names
+- [[Gad]] and [[Asher]] — Zilpah's sons, borne for her and named by her
 
 ## Themes associated
 
@@ -113,3 +162,6 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - [[Envy]]
 - [[Slavery and Servitude]]
 - [[Burial and the Grave]]
+- [[Names and Naming]]
+- [[Prayer]]
+- [[Barrenness]]

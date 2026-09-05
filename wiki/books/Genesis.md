@@ -316,7 +316,22 @@ even fratricidal betrayal into rescue (Joseph).
   rebuke he gets is a house rule stated in the two nouns of the oracle he was born under: *"It is not
   done so in our place, to give the younger before the firstborn."* He accepts in three words. **The
   pericope ends on the sentence the rest of the book runs on**, *"he loved also Rachel more than
-  Leah"*, and the next verse opens *"Yahweh saw."*
+  Leah"*, and the next verse opens *"Yahweh saw."* Then
+  *[[The Birth of Jacob's Children]]* answers it: **eleven of the twelve tribes arrive in twenty-six
+  verses, to four women, outside the land, and God never speaks.** He acts three times and that is all
+  — *he opened her womb* (29:31), *God listened to Leah* (30:17), *God remembered Rachel* (30:22) — and
+  **the first of them is compensation for a husband's coldness**, the one womb in Genesis opened
+  because a wife was *hated*. **Everything else in the passage is two sisters counting.** There are
+  **twelve naming speeches, every one spoken by a woman**, and the tribal map of Israel is laid down in
+  the vocabulary of a household quarrel: *he has judged me*, *there is hire*, *fortune has come*, *I
+  have wrestled with my sister and have prevailed.* [[Jacob]] speaks once, in anger — *"Am I in God's
+  place?"*, where his father had prayed (25:21) — **names none of his children, is handed two slaves
+  without being consulted, and is hired for a night with his own son's mandrakes.** The drug does
+  nothing: Rachel buys it and stays barren, Leah gives it away and conceives, and the text credits God.
+  **God is said to hear these women three times and Genesis prints none of their prayers.** The
+  promise of offspring like the dust is being kept in every verse and **quoted by nobody in the
+  passage**, which closes on the one naming speech that looks forward — *"May Yahweh add another son to
+  me"* — and on the divine name returning for the first time since 29:35.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -370,7 +385,7 @@ merge, or reorder them freely.
 - [x] [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9
 - [x] [[Jacob's Ladder at Bethel]] — Genesis 28:10–22
 - [x] [[Jacob, Leah, and Rachel]] — Genesis 29:1–30
-- [ ] The Birth of Jacob's Children — Genesis 29:31–30:24
+- [x] [[The Birth of Jacob's Children]] — Genesis 29:31–30:24
 - [ ] Jacob's Flocks — Genesis 30:25–43
 - [ ] Jacob's Flight from Laban — Genesis 31:1–55
 - [ ] Wrestling at the Jabbok — Genesis 32:1–32

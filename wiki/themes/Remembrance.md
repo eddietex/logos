@@ -77,7 +77,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   What is distinctive here is that the person remembered is not the person saved: Abraham is forty
   miles away, is never told, and is not the one in danger. See
   [[The Destruction of Sodom and Gomorrah]].
-- **Genesis 30:22** — *"God remembered Rachel… and opened her womb"*.
+- **Genesis 30:22** — *"God remembered Rachel, and God listened to her, and opened her womb."* **The
+  fourth and last *wayyizkōr ʾĕlōhîm* in Genesis, and the only one whose object is a woman in her own
+  right** rather than a covenant or a righteous man interceding for someone else. The verse triples the
+  attribution — *remembered*, *listened*, *opened* — **in a chapter where a fertility drug has just
+  changed hands and is never mentioned again.** See [[The Birth of Jacob's Children]].
 - **Exodus 2:24; 6:5** — *"God remembered his covenant with Abraham, with Isaac, and with Jacob"*:
   four hundred years of silence end in this verb, and the exodus follows from it.
 - **Exodus 20:8; Deuteronomy 5:15; 8:18; 15:15; 16:12** — the command in its human form: remember
@@ -149,6 +153,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   calf in it and when Amos has to make a pun to say it has come to nothing. See
   [[Bethel from Jacob's Pillar to Jeroboam's Calf]] and
   [[The Pillar Jacob Raised and the Pillars the Law Forbids]]
+- [[The Birth of Jacob's Children]] — Genesis 30:22, the verb's fourth and last appearance in Genesis
+  with God as subject, **and the one that completes the set the book has been building**: he remembers
+  Noah and the flood turns (8:1), he remembers Abraham and Lot is pulled out (19:29), he remembers his
+  covenant and the exodus begins (Exodus 2:24) — **and he remembers Rachel, and the twelfth tribe's
+  father is born.** The pattern's three beats run exactly as the theme describes: a situation with no
+  way out of itself, *God remembered X*, and an action in the same verse. **What is distinctive here is
+  the object.** Noah is a righteous man, Abraham is an intercessor forty miles away, the covenant is an
+  oath — **Rachel is simply a woman who has waited**, and the sentence turns toward her by name
 
 ## Related themes
 
@@ -169,4 +181,5 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 - [[God]] — the subject of the verb in almost every occurrence that matters
 - [[Noah]] — the first person God is said to remember
+- [[Rachel]] — the last person God is said to remember in Genesis, and the only woman
 - [[Job (person)]] — who asks to be remembered after death, and cannot see how it could work

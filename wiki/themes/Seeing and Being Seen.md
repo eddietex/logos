@@ -132,6 +132,15 @@ will finally go both ways.
   nothing, sees in the dark, and confesses the ignorance afterwards. **The man whose whole method has
   been knowing more than the person in front of him opens his account with God by saying he did not
   know**
+- [[The Birth of Jacob's Children]] — Genesis 29:31; 30:1, 9. ***Rāʾâ*** three times, and **each
+  occurrence starts a move.** *Yahweh saw that Leah was hated*, and a womb opens; *Rachel saw that she
+  bore Jacob no children*, and a slave is produced; *Leah saw that she had finished bearing*, and a
+  second slave is produced. **The narrator uses one verb for God's compassion and for two women's
+  arithmetic**, and the first of the three is the first thing God is recorded seeing in the whole Jacob
+  cycle — **after thirty verses in which he is not named at all.** The theme's other half is in the
+  firstborn's name: ***Reuben***, *rəʾû bēn*, *see, a son*, glossed by his mother not with *bēn* but
+  with *"Yahweh has looked at my affliction"* — **the same *ʿŏnî* Genesis 16:11 used of [[Hagar]] and
+  Exodus 3:7 will use of a nation.** See [[Names and Naming]]
 
 ## Related themes
 

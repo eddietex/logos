@@ -106,6 +106,14 @@ holds up Esau as the warning.
   wife, and a firstborn who loses the double portion anyway. See
   [[The Younger Before the Firstborn - Jacob and Laban]] and
   [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]]
+- [[The Birth of Jacob's Children]] — Genesis 29:32–30:24, **the birth order the rest of the Bible
+  spends its time rearranging.** [[Reuben]] is born first here and loses the double portion at 49:3–4,
+  with 1 Chronicles 5:1–2 stating the transfer outright; [[Simeon]] and [[Levi]] are cursed together at
+  49:5–7; **[[Judah]], the fourth son, takes the kingship, and [[Joseph]], the eleventh, takes the
+  double portion.** **Three of the first four are demoted and the fourth is the one the line runs
+  through** — and all four are the sons of the hated wife, which is the precise configuration
+  Deuteronomy 21:15–17 was written to prevent. See
+  [[The Twelve Sons and the Lists That Reorder Them]]
 
 ## Related themes
 

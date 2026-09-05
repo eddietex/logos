@@ -133,6 +133,14 @@ the land.
   is about *when* to draw it — settled by the newcomer simply doing it. **The quarrel this pericope
   actually begins is domestic**, and its terms are set in the last verse: *"he loved also Rachel more
   than Leah."* See [[Envy]]
+- [[The Birth of Jacob's Children]] — Genesis 30:14–16, **the only conversation the two sisters have
+  anywhere in the Bible, and it is an exchange of theft accusations.** *"Is it a small matter that you
+  have taken away my husband? Would you take away my son's mandrakes, also?"* — from the woman who was
+  substituted into her sister's wedding. **Both of them are right by their own accounting**, and
+  Genesis adjudicates neither: [[Rachel]] was married a week late to a man already given to [[Leah]],
+  and Leah has a husband whose preference she has never had. **The quarrel is settled by a trade** — a
+  night for a plant — **which is the only conflict resolution anyone in the passage attempts**, and it
+  produces two more children and no peace
 
 ## Related themes
 

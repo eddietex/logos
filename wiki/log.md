@@ -5147,3 +5147,164 @@ wikilinks, so none is a finding: 29:31–30:24 (*"Yahweh saw that Leah was hated
 mandrakes), 30:25–43 (the wages and the flocks), 31:19–35 (the stolen household gods) and 31:38–42
 (*"twenty years in your house"*), 35:16–20 (Rachel's death and her pillar), 35:22 with 49:3–4 (Reuben
 and Bilhah, and the birthright forfeited), and 49:31 (Leah buried at Machpelah).
+
+## [2026-09-05] ingest | Genesis 29.31-30.24 — The Birth of Jacob's Children
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+its first unchecked box read `The Birth of Jacob's Children — Genesis 29:31–30:24`.
+`raw/bible/Genesis.md` was already present, so `scripts/fetch-book.sh` was not run. Step 2's
+discussion is written into the passage page. The tree was clean at the start of the session and
+nothing needed committing separately first. **The boundary was used as drawn and needed no
+revision.**
+
+**The session started on a detached HEAD again**, at `origin/main` (`def063b`), with local `main`
+twenty-six commits behind and no commits of its own — **the third consecutive run to hit this.** It
+was handled the same way: the ingest was committed on the detached HEAD, then `main` was checked out
+and fast-forwarded onto it (`git merge --ff-only`, after verifying `main` was an ancestor, so nothing
+could be discarded) and pushed. Nothing was stashed, dropped, or rewritten. `origin/main` was fetched
+first and confirmed identical to HEAD before any of this. **The container is evidently checking the
+repo out detached rather than on `main`, and it is now a standing condition rather than an
+accident.**
+
+### What the pericope is
+
+**Israel is born here, and it is born out of a grudge.**
+
+Eleven of the twelve tribes arrive in twenty-six verses, to four women, outside the land, over roughly
+seven years. No altar, no promise repeated, no covenant mentioned, **and God never speaks.** What the
+passage has instead is **twelve naming speeches, every one spoken by a woman about her own position in
+the household** — and the tribal map of Israel is laid down in the vocabulary of a domestic quarrel.
+
+- **It is the direct answer to the sentence the previous pericope ended on.** 29:30 closed *"he loved
+  also Rachel more than Leah"*; 29:31 opens *"Yahweh saw that Leah was hated"* — **the first divine
+  name in Genesis 29, arriving in its thirty-first verse**, after the thirty verses `Jacob, Leah, and
+  Rachel` is built on. **And what God does about the ranking is not to change Jacob's mind.** He opens
+  a womb. Leah is no more loved at 30:20 (*"now my husband will live with me"*) than at 29:31.
+- **Three divine acts are the passage's entire structure** — *he opened her womb* (29:31), *God
+  listened to Leah* (30:17), *God remembered Rachel* (30:22). **Everything between them is two women
+  counting.**
+- **The divine names divide cleanly, and the distribution was counted against the raw text rather than
+  asserted.** *Yahweh* five times — 29:31, 32, 33, 35, and then the pericope's last clause at 30:24.
+  *ʾĔlōhîm* eight times through the middle — 30:2, 6, 8, 17, 18, 20, 22 (twice), 23. **Eighteen verses
+  of *God* bracketed by *Yahweh*.** Both standard explanations (source-critical and literary) are
+  given on the passage page and on `The Names of God`, **and neither is adopted**, on the practice used
+  for *"Laban, the son of Nahor"* at 29:5.
+- **Three hearings, and Genesis prints none of the prayers.** *"Yahweh has heard that I am hated"*
+  (29:33), *"has also heard my voice"* (30:6), *"God listened to Leah"* (30:17). **The book reports the
+  answers to petitions it never records**, which is the mirror image of the gap `Prayer` usually
+  tracks. The observation is new this pass and was added to `Prayer`, stated as a feature of the
+  narration rather than as evidence about whether the women prayed.
+- **Jacob is the most passive person in the chapter that founds his twelve tribes.** One speech, in
+  anger — *"Am I in God's place, who has withheld from you the fruit of the womb?"* (30:2) — where his
+  father had prayed (25:21). **He names none of the twelve.** He is handed two slaves without being
+  consulted, and **hired for a night by his own wife** (*śākōr śəkartîkā*, 30:16), with the same root
+  Laban put him on wages with at 29:15.
+- **The mandrakes do nothing, and the text says so silently.** Rachel acquires the fertility drug and
+  stays barren; Leah gives it away and conceives that night; **and when the son arrives Leah credits
+  giving Zilpah away, not the night she bought** (30:18). Rachel conceives seven verses later and the
+  reason given is *"God remembered Rachel."* Genesis never mentions the mandrakes again. **Recorded as
+  what the text does, not as an argument the text makes.**
+- **The passage's own name for the contest is Rachel's**: *"I have wrestled **with my sister** with
+  mighty wrestlings, and have prevailed"* (30:8). Not a woman contending with God for a child — two
+  women contending with each other and counting children as points.
+
+### Judgment calls made (unattended, no sign-off)
+
+- **The boundary was used as drawn.** 29:31 is the cleanest break in the chapter — it restarts the
+  narrative with God as subject — and 30:25 opens a new subject, a new interlocutor, and the wages
+  negotiation the next box covers. **A split at the chapter division (29:31–35 / 30:1–24) was
+  considered and rejected**: it would separate Leah's four sons from her last three and put the two
+  halves of one contest on different pages.
+- **Title kept from the plan.** Alternatives rejected: *The Twelve Sons* (there are eleven here, and a
+  daughter), *Leah and Rachel's Contest* (editorial), *The Birth of the Tribes* (imports a category the
+  passage does not use — Genesis says *sons*). No other book has a page by this title.
+- **Twelve person pages created**, on the wiki's standing practice of giving a page to anyone Genesis
+  names, and because eleven of them are tribes: `Reuben`, `Simeon`, `Levi`, `Judah`, `Dan (person)`,
+  `Naphtali`, `Gad`, `Asher`, `Issachar`, `Zebulun`, `Dinah`, `Joseph`. **`Dan (person)` takes the
+  qualifier because `Dan (city)` already exists**, per the person/place collision rule in `AGENTS.md`;
+  the place page's line *"Dan the man is Jacob's son"* now links to it. **No other new name collided**
+  — there is no book, place, or person page called Judah, Levi, Joseph, Gad, or Asher yet, so all took
+  bare titles.
+- **One theme page created: `Names and Naming`.** Genesis glosses roughly forty names and had no page
+  for the practice; this pericope supplies twelve at once. **Folding it into `Language and Speech` was
+  rejected** — that page tracks speech as a medium and the Babel break, not the etymology formula — and
+  so was folding it into `The Names of God`, which is about the divine names specifically.
+- **Three connection pages created.** `The Twelve Sons and the Lists That Reorder Them` (the birth
+  order here against the seven or so later lists that rearrange, split, or omit — Levi out, Joseph
+  split, Simeon missing from Deuteronomy 33, Dan missing from Revelation 7); `Am I in God's Place -
+  Jacob at 30.2 and Joseph at 50.19` (the same idiom from father and son, declining opposite things —
+  the power to help, and the right to punish); `Wrestlings of God - Rachel at Naphtali's Birth and
+  Jacob at the Jabbok` (*naptûlê ʾĕlōhîm* and *yākōl* at 30:8 against *"you have fought with God… and
+  have prevailed"* at 32:28, **filed as a verbal parallel and not a quotation**, since the roots for
+  *wrestle* differ — *patal* against *ʾābaq*).
+- **No connection page for Leah and Hagar's shared *ʿŏnî*.** A section was added to the existing
+  `Affliction and Flight - Hagar and the Exodus` instead, which already ran the noun through to Exodus
+  3:7; **Leah's *"Yahweh has looked at my affliction"* (29:32) and *"Yahweh has heard that I am hated"*
+  (29:33) put both of Exodus 3:7's verbs in one household four hundred years early**, and duplicating
+  the page for a third leg would have split the chain.
+- **No connection page for the mandrakes and Song of Songs 7:13** — a shared rare noun and nothing
+  else. Carried on the passage page and `Names and Naming`.
+- **No place page**, because the passage names no place. The setting is Laban's household in Paddan
+  Aram and the only location given is *the field* (30:14, 16), unnamed. **The passage page says so
+  explicitly rather than listing `Aram Naharaim` as if it were named.**
+- **The chronology is flagged, not fixed.** Genesis 31:41 allows about seven years for these births,
+  and read strictly in narrative order the sequence needs appreciably more. **The passage is arranged
+  by mother rather than by date**, with the maidservants' births overlapping Leah's, and Genesis
+  narrates it serially anyway. **No reconstruction of the actual order is offered**, because the text
+  supplies none.
+- **Levi's passive naming (29:34) is recorded as a textual anomaly with the variant noted and no
+  reading adopted.** The Masoretic Text has *qārāʾ* with no stated subject where the other eleven have
+  *she named him*; the Samaritan Pentateuch, Septuagint, and Vulgate read *she called*. **That the
+  anomaly falls on the priestly tribe is offered as a coincidence the text supplies, not as a claim
+  about intent.**
+- **Leah's naming arc is stated honestly rather than tidily.** The popular reading — a woman who
+  begins wanting her husband and ends praising God at Judah — **is only half supported**: 30:20 goes
+  back to *"now my husband will live with me."* The passage page, `Leah`, `Judah`, and `Zebulun` all
+  say so.
+- **`Dinah`'s missing gloss is left missing.** The page records that her name is the feminine of *Dan*,
+  that the same passage glosses *Dan*, and that *ḥerpâ* (30:23) recurs in Genesis only at 34:14 — and
+  fills in nothing else.
+
+### Pages touched
+
+**Created (16).** `wiki/passages/Genesis/The Birth of Jacob's Children.md`; twelve people — `Reuben`,
+`Simeon`, `Levi`, `Judah`, `Dan (person)`, `Naphtali`, `Gad`, `Asher`, `Issachar`, `Zebulun`, `Dinah`,
+`Joseph`; theme `Names and Naming`; connections `The Twelve Sons and the Lists That Reorder Them`,
+`Am I in God's Place - Jacob at 30.2 and Joseph at 50.19`, and
+`Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok`.
+
+**Revised (24).** People: `Leah` and `Rachel` (each gained a full in-pericope section, timeline
+entries, an appearance note, related people and themes), `Bilhah`, `Zilpah`, `Jacob` (new section, four
+timeline entries, twelve related people), `God` (a new numbered section covering both the thirty-verse
+absence and the three acts, plus timeline and appearance entries). Places: `Dan (city)`. Themes:
+`Barrenness` (its *(not yet ingested)* line resolved into the theme's inverted third run), `Envy` (the
+same), `Remembrance`, `Prayer`, `Seeing and Being Seen`, `The Names of God`, `Slavery and Servitude`,
+`Marriage`, `Love`, `Work`, `Strife and Peacemaking`, `Birthright and the Firstborn`. Connections:
+`The Barren Matriarchs` (a new section on the inversion, and Rachel's row linked),
+`Affliction and Flight - Hagar and the Exodus` (the third woman),
+`Loved and Hated - Genesis 29 and Deuteronomy 21.15-17`,
+`Like Rachel and Like Leah - The Builders of the House of Israel`,
+`Twelve Sons - Nahor, Ishmael, and Jacob`,
+`Two Sisters - The Marriage Genesis Records and Leviticus Forbids`.
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary), `wiki/books/index.md` (**37 / 59 → 38 / 59**), twelve new rows in `wiki/people/index.md`
+with six existing rows extended, one new row and twelve extended rows in `wiki/themes/index.md`, three
+new rows in `wiki/connections/index.md`. `wiki/index.md` now reads **44 passages · 98 people · 48
+places · 55 themes · 124 connections**, counted against what is on disk.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**, clean on the first run this pass. No wrapped links, no dangling
+targets; the expected baseline is **64** not-yet-started book pages, unchanged, since no new book page
+was created.
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather than
+wikilinks, so none is a finding: 30:25–43 (the wages and the flocks, beginning in the verse after this
+pericope), 31:41 (*"twenty years… fourteen years for your two daughters"*, the span these births
+occupy), 32:22–32 (the eleven sons at the Jabbok, and *"you have fought with God… and have
+prevailed"*), 34 (Dinah at Shechem, and *ḥerpâ* in her brothers' mouths), 35:16–20 (Benjamin, and
+Rachel's death answering her own prayer at 30:24), 35:22 and 49:3–4 (Reuben and Bilhah, and the
+birthright forfeited), 35:22–26 (the twelve listed by mother), 37:11 (the third *qānāʾ*), 49 (Jacob's
+blessing, which re-puns every name given here), and 50:19, 23 (*"Am I in the place of God?"*, and the
+knees).

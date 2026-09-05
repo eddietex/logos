@@ -100,6 +100,12 @@ the seventh day a blessing. See [[Sabbath]].
   contains **the only feat of physical strength attributed to any patriarch**, the well-stone at
   29:10, and a scene in which a newcomer tells experienced shepherds how to do their job and is
   answered with the rule, twice, patiently (29:7–8)
+- [[The Birth of Jacob's Children]] — Genesis 30:16, 18; **the wages theme moved indoors.**
+  ***Śākar*** is the root of Laban's question at 29:15 and of the fourteen years it produced — and here
+  it is used of a husband, by his wife, twice in three verses: *"I have surely **hired** you with my
+  son's mandrakes"* (***śākōr śəkartîkā***, infinitive absolute), and then *"God has given me my
+  **hire**"* (30:18), which names [[Issachar]]. **The man Laban put on wages is put on wages again by
+  Leah**, and Genesis gives him no reply to either
 
 ## Related themes
 

@@ -42,16 +42,56 @@ was barren"* (29:31).
 life runs on**, and Genesis states it in the narrator's own voice rather than through a character. See
 [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]].
 
+### In this pericope — Genesis 29:31–30:24
+
+***"But Rachel was barren"*** (29:31). ***ʿĂqārâ*** — the word of 11:30 and 25:21, **and she is the
+third and last matriarch to carry it.** Sarah waited twenty-five years from the promise and Rebekah
+twenty; **Genesis gives Rachel no duration at all, and measures her wait in her sister's children**,
+which is the cruellest unit available and the one the chapter counts in. **She is also the pattern's
+one inversion**: Sarah, Rebekah, and Hannah are barren *and* preferred, and here the preference and the
+fertility come apart and land on different women. See [[The Barren Matriarchs]].
+
+***"Rachel envied her sister"*** (30:1). ***Wattəqannēʾ*** — **the second occurrence of *qānāʾ* in the
+Bible**, after the Philistines and Isaac's harvest at 26:14, and before *"his brothers envied him"*
+(37:11), which is about her own son. See [[Envy]].
+
+***"Give me children, or else I will die."*** **Four words in Hebrew, and the most desperate sentence
+any matriarch speaks.** Genesis has the construction once before, from [[Esau]] over a bowl of stew
+(25:32) — **the only two people in the book who say they will die if they do not get something are a
+hungry hunter and a childless wife**, and one of them is answered on the spot. **She is answered with
+anger**: *"Am I in God's place, who has withheld from you the fruit of the womb?"* — **which is true,
+and is not help.** His father had prayed in the same situation (25:21). See
+[[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]].
+
+**Then she does what Sarai did at 16:2**, in a household that had watched it produce the wrong son:
+*"Behold, my maid Bilhah… that she may bear on my knees"* (30:3) — **an adoption formula Genesis uses
+only here and at 50:23.** She names both of [[Bilhah]]'s sons and **[[Bilhah]] says nothing at either
+birth.** Both names are scoreboard entries: *"God has judged me"* — ***Dan***, a ruling in her favour —
+and *"I have wrestled with my sister with mighty wrestlings, and have prevailed"* — ***Naphtali***,
+where the WEB's *mighty* is translating ***ʾĕlōhîm***, and where the verb *yākōl* is the one her husband
+will use of himself at the Jabbok. See
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
+
+**She buys a fertility drug and it does nothing.** She trades a night with her husband for [[Reuben]]'s
+mandrakes (30:14–16); **Leah, who gives them away, conceives that night, and Rachel, who gets them,
+stays barren for another seven verses.** Genesis never mentions them again.
+
+***"God remembered Rachel, and God listened to her, and opened her womb"*** (30:22). **The verb is
+*zākar*, which in Scripture is never recollection but action** — the verb of *"God remembered Noah"*
+(8:1) and *"God remembered his covenant"* (Exodus 2:24), **and hers is the only one of those whose
+object is a woman in her own right.** The verse triples the attribution — *remembered*, *listened*,
+*opened* — **as if to make sure nobody credits the mandrakes.** See [[Remembrance]].
+
+She names [[Joseph]] twice over in two verses: *"God has taken away my reproach"* (***ʾāsap***) and
+*"May Yahweh add another son to me"* (***yōsēp***). **It is the only naming speech in the passage that
+looks forward** — she names her first son for a second one she does not have — **and she gets him, and
+it kills her.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-She is barren while her sister bears four sons in four verses, and says the most desperate sentence
-any matriarch speaks: *"Give me children, or else I will die"* (30:1) — and Jacob answers with anger,
-not prayer, which is what his father did do for his mother (25:21). She gives Bilhah to him and names
-the sons herself; she trades a night with her husband for mandrakes (30:14–16); and then *"God
-remembered Rachel … and opened her womb"* (30:22), and she names her son **Joseph**, *may he add*, and
-asks for another. She steals her father's household gods and sits on them (31:19, 34), and Jacob,
+She steals her father's household gods and sits on them (31:19, 34), and Jacob,
 not knowing, pronounces a death sentence over whoever has them (31:32). She dies on the road to
 Ephrath bearing that second son, names him **Ben Oni**, *son of my sorrow*, with her last breath, and
 is overruled: *"his father called him Benjamin"* (35:18). **Jacob buries her where she falls and sets
@@ -73,11 +113,12 @@ over the killing of the infants at Bethlehem. See
 - Named as the price: seven years' service — Genesis 29:18–20
 - Withheld on the wedding night; given a week later, with [[Bilhah]] — Genesis 29:23, 28–29
 - Loved more than her sister — Genesis 29:30
-- Barren — Genesis 29:31 *(not yet ingested)*
-- *"Give me children, or else I will die"*; gives Bilhah to Jacob — Genesis 30:1–8 *(not yet
-  ingested)*
-- The mandrakes — Genesis 30:14–16 *(not yet ingested)*
-- *"God remembered Rachel"*; the birth of Joseph — Genesis 30:22–24 *(not yet ingested)*
+- Barren, in the verse that opens her sister's womb — Genesis 29:31,
+  [[The Birth of Jacob's Children]]
+- *"Give me children, or else I will die"*, and Jacob's *"Am I in God's place?"* — Genesis 30:1–2
+- Gives [[Bilhah]] to Jacob; names [[Dan (person)]] and [[Naphtali]] — Genesis 30:3–8
+- Buys the mandrakes with a night of her husband, and stays barren — Genesis 30:14–16
+- *"God remembered Rachel"*; the birth of [[Joseph]] — Genesis 30:22–24
 - Steals Laban's household gods and hides them — Genesis 31:19, 34–35 *(not yet ingested)*
 - Dies bearing Benjamin on the road to Ephrath; the pillar over her grave — Genesis 35:16–20 *(not yet
   ingested)*
@@ -89,6 +130,10 @@ over the killing of the infants at Bethlehem. See
   seven-year price, is not named by her father in the sentence that sells her, and is delivered a week
   late. **She speaks no word in the passage**, and the first thing Genesis says about her after it is
   that she was barren
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **loved, preferred, and barren**, which is
+  the pattern's exact inversion. She gives an ultimatum, is answered with anger, produces a slave, names
+  two sons she did not bear as verdicts against her sister, buys a fertility drug that does nothing, and
+  is finally *remembered* — then names her first son for a second one she does not have
 
 ## Related people
 
@@ -101,6 +146,10 @@ over the killing of the infants at Bethlehem. See
 - [[Rebekah]] — her husband's mother and her father's sister; the woman who left this house a
   generation earlier on the same errand, in the other direction
 - [[Zilpah]] — her sister's slave
+- [[Joseph]] — her first son, born after *"God remembered Rachel"*, and the one she names for a second
+  son she does not have
+- [[Dan (person)]] and [[Naphtali]] — Bilhah's sons, borne for her and named by her as two rulings in
+  her favour
 
 ## Themes associated
 
@@ -112,3 +161,6 @@ over the killing of the infants at Bethlehem. See
 - [[Slavery and Servitude]]
 - [[Deception]]
 - [[Burial and the Grave]]
+- [[Remembrance]]
+- [[Names and Naming]]
+- [[Prayer]]

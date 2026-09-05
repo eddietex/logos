@@ -74,6 +74,24 @@ ninety after twenty-five years and an angelic announcement; Rebekah is barren tw
 is barren until she is not. **The branch with no promise multiplies effortlessly, and the branch with
 the promise has to be given every child it gets.** Genesis 22:20 puts the first half of that
 sentence four verses before Sarah's death notice and does not connect them. See [[Barrenness]].
+### The third twelve, now on the page
+
+**[[The Birth of Jacob's Children]] gives eleven of Jacob's twelve, and it is nothing like the other two
+registers.** Nahor's twelve (22:20–24) and Ishmael's twelve (25:13–16) are lists — names, in order, with
+a summary formula and no incident. **Jacob's twelve arrive one at a time over twenty-six verses, each
+with a naming speech**, and the speeches are about a marriage.
+
+**Three differences worth stating.**
+
+- **Four mothers, not two.** Nahor's twelve are eight by Milcah and four by a concubine, Reumah;
+  Ishmael's are undifferentiated. **Jacob's are six by [[Leah]], two by [[Rachel]], two by [[Bilhah]]
+  and two by [[Zilpah]]** — and **no biblical list ever distinguishes the slaves' sons from the wives'.**
+- **The names carry sentences.** *He has judged me*, *there is hire*, *fortune has come*, *I have
+  prevailed.* **The other two registers gloss nothing.**
+- **This is the only twelve that becomes a nation**, and Genesis has by now spent three chapters showing
+  that the count itself is not the promise — Nahor and Ishmael both got there without a covenant.
+
+See [[The Twelve Sons and the Lists That Reorder Them]] for what happens to the order afterwards.
 
 ## Significance
 

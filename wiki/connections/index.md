@@ -125,3 +125,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] | law-and-narrative | Genesis 29:23–30 · Genesis 30:1–24 · Leviticus 18:18 · Genesis 20:12 · Exodus 6:20 |
 | [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] | law-and-narrative | Genesis 29:30–33 · Genesis 35:22 · Genesis 49:3–4 · Deuteronomy 21:15–17 · 1 Chronicles 5:1–2 · Malachi 1:2–3 · Romans 9:13 |
 | [[Like Rachel and Like Leah - The Builders of the House of Israel]] | quotation | Genesis 29:16–30 · Genesis 35:16–20 · Genesis 49:31 · Ruth 4:11–12 · Jeremiah 31:15 · Matthew 2:18 |
+| [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
+| [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] | parallel | Genesis 30:1–2 · Genesis 50:18–20 · Genesis 25:21 |
+| [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 |

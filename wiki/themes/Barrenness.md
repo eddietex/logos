@@ -121,7 +121,18 @@ the women than the frame they are written in.
   his wife's womb**; Abraham never does, and Jacob refuses (30:2). And the resolution is not the end
   of the trouble: the children *crush one another* inside her, and she asks a question the Hebrew
   leaves without a verb. See [[The Barren Matriarchs]]
-- Genesis 29:31–30:24 — Rachel *(not yet ingested)*
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24, **the theme's third and last run in Genesis,
+  and the only inverted one.** Sarah, Rebekah, Manoah's wife, and Hannah are all barren *and* preferred;
+  here the preference and the fertility come apart and are given to different women, and **the womb that
+  opens first opens as compensation for a husband's coldness** — *"Yahweh saw that Leah was hated, and
+  he opened her womb, but Rachel was barren"* (29:31). **Rachel is also the one barren matriarch whose
+  wait Genesis gives no duration for**; it is measured in her sister's children instead. The chapter
+  then runs every response the theme has: **envy** (30:1, the Bible's second *qānāʾ*), **the slave
+  solution twice over** (30:3, 30:9, on [[Hagar]]'s precedent and with nobody citing it), **a husband
+  who refuses to pray where his father prayed** (30:2 against 25:21), and **a fertility drug that does
+  nothing** — Rachel acquires the mandrakes and stays barren, Leah gives them away and conceives, and
+  the text credits *"God remembered Rachel"* seven verses later. See [[The Barren Matriarchs]] and
+  [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]]
 - Judges 13 — Manoah's wife
 - 1 Samuel 1–2 — Hannah, and the song
 - Isaiah 54:1; Galatians 4:27 — the barren woman as the covenant people

@@ -892,6 +892,52 @@ comes twenty years late and from an unexpected direction: at 31:13 he identifies
 own stone — *"I am the God of Bethel, where you anointed a pillar, where you vowed a vow to me"* —
 and at 35:1 he sends him back to keep it. See [[Jacob's Ladder at Bethel]] and [[Favor and Grace]].
 
+### He disappears for thirty verses, then acts three times without speaking — Genesis 29:1–30:24
+
+**Genesis 29:1–30 contains no divine name at all.** No *Yahweh*, no *ʾĕlōhîm*, no speech, no dream, no
+altar, no vow, no prayer — **four verses after *"I am with you, and will keep you, wherever you go"***.
+The wiki verified the absence against the raw text rather than asserting it, and records it as the
+book's sharpest unexplained silence: **the promise of presence is followed immediately by the longest
+stretch of the Jacob cycle in which God is not mentioned.** See [[Jacob, Leah, and Rachel]].
+
+**Then 29:31 restarts the narrative with him as the subject of a verb of sight** — ***wayyarʾ YHWH***,
+*Yahweh saw* — **and the first thing he is recorded seeing in this cycle is the wife nobody chose.**
+
+**In [[The Birth of Jacob's Children]] he acts three times and speaks none of them.**
+
+| verse | what he does | who for |
+|---|---|---|
+| **29:31** | *saw that Leah was hated*, and **opened her womb** | the unloved wife |
+| **30:17** | ***listened to Leah*** | the same woman, after she has bought a night |
+| **30:22** | ***remembered Rachel***, listened, and opened her womb | the loved and barren one |
+
+**Three things about that are worth holding.**
+
+**1. The stated cause of the first act is a husband's coldness.** Not merit, not prayer, not a promise —
+*"Yahweh saw that Leah was **hated**"*. **It is the one womb in Genesis opened as compensation**, and
+Genesis neither praises nor criticises the arrangement it compensates for.
+
+**2. He hears three petitions the book does not print.** *"Yahweh has heard that I am hated"* (29:33),
+*"has also heard my voice"* (30:6), *"God listened to Leah"* (30:17). **Genesis reports the answers to
+prayers it never records**, from two women whose only quoted speech is to each other and about their
+sons. See [[Prayer]].
+
+**3. The names divide, and the wiki states the distribution without explaining it.** ***Yahweh*** occurs
+five times, all in 29:31–35 and again in the pericope's last clause (30:24); ***ʾĕlōhîm*** occurs
+through the eighteen verses between. **The source-critical and the literary readings of that pattern are
+both available and neither is adopted here.** See [[The Names of God]].
+
+**And he is invoked once as a reason to do nothing.** *"Am I in God's place, who has withheld from you
+the fruit of the womb?"* (30:2) — **Jacob's only speech in the passage, and it agrees with the
+narrator.** 29:31 says God opened one womb, 30:22 says he opened another; **the household is unanimous
+about who is responsible and divided about what anyone should do next.** [[Isaac]], in the identical
+situation, prayed (25:21). See
+[[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]].
+
+**Nothing is corrected, nobody repents, and the arrangement is never blessed.** Eleven of the twelve
+tribes arrive out of a contest between two sisters, and **God's whole recorded participation is three
+clauses.**
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -1059,6 +1105,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Says nothing in reply to the vow that answers him; identifies himself twenty years later by Jacob's
   own stone, *"I am the God of Bethel, where you anointed a pillar"* — Genesis 31:13
   *(not yet ingested)*
+- **Absent from thirty consecutive verses** — no name, no speech, no dream, no altar, no prayer — in
+  the chapter immediately after the promise of presence — Genesis 29:1–30,
+  [[Jacob, Leah, and Rachel]]
+- Returns as the subject of a verb of sight, *"Yahweh saw that Leah was hated"*, and **opens the
+  unloved wife's womb as compensation for a husband's coldness**; then listens to her, and finally
+  *remembers* Rachel — **three acts, no speech, and three petitions heard that the book never prints**
+  — Genesis 29:31; 30:17, 22, [[The Birth of Jacob's Children]]
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -1108,6 +1161,17 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   patriarch before Jacob had been given: presence *wherever you go*, keeping, and a return. **He
   makes no answer to the vow Jacob offers back**, and his next word on it, twenty years later, is to
   call himself *the God of Bethel*
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1–30; **thirty verses with no divine name in them at all**,
+  four verses after *"I am with you, and will keep you, wherever you go."* No speech, no dream, no
+  altar, no vow, no prayer. **The wiki's sharpest instance of Genesis leaving a silence unexplained**,
+  and it is placed exactly over the fourteen years the promise costs
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **he acts three times and speaks none of
+  them.** *Yahweh saw that Leah was hated*, and opened her womb — **the one womb in Genesis opened as
+  compensation for a husband's coldness.** Then *God listened to Leah*, and then *God remembered
+  Rachel*. **Three petitions are said to have been heard and none of them is printed**; he is invoked
+  once by Jacob as a reason to do nothing (*"Am I in God's place?"*); and the divine names divide
+  cleanly — five *Yahweh* at the two ends of the pericope, eight *ʾĕlōhîm* through the middle.
+  **Eleven of the twelve tribes arrive, and nothing in the household is corrected or blessed**
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]

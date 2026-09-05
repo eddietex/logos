@@ -111,6 +111,14 @@ implied and never stated: *"We love him, because he first loved us."* 1 Corinthi
 - 1 Corinthians 13 — the New Testament's definition by description
 - 1 John 4:8–19 — *"God is love"*, and *"we love him, because he first loved us"*
 - John 15:13 — the measure, set at the point Genesis 22 raised
+- [[The Birth of Jacob's Children]] — Genesis 29:31, where **the comparative of 29:30 becomes an
+  absolute.** *"He loved also Rachel more than Leah"* is restated in the next verse as *"Yahweh saw that
+  Leah was **hated**"* — ***śənûʾâ***, the narrator's own word, and in Hebrew law half of a pair
+  (*ʾăhûbâ / śənûʾâ*) that Deuteronomy 21:15–17 legislates for. **Ranked love and hatred are the same
+  thing in this idiom**, which is the sharpest thing the Bible says about what preference does inside a
+  household. **Nobody in the family ever says it aloud**; Leah says *"I am hated"* once, at 29:33, and
+  credits God with knowing it rather than anyone she lives with. See
+  [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]]
 
 ## Related themes
 

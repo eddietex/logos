@@ -177,11 +177,41 @@ rule and does not know what he is saying.** See [[Jacob, Leah, and Rachel]],
 **He leaves the pericope with two wives, two slaves, and fourteen years owed or spent**, and the last
 thing the narrator says about him is a ranking: *"he loved also Rachel more than Leah."*
 
+### In this pericope — Genesis 29:31–30:24
+
+**Eleven of his twelve sons and his one named daughter are born here, and he is the most passive person
+in the chapter.**
+
+**He speaks once.** *"Am I in God's place, who has withheld from you the fruit of the womb?"* (30:2) —
+**his first recorded anger in the Bible**, directed at the woman he served fourteen years for, and
+delivered instead of a prayer. **His father, faced with the identical problem, prayed** — *"Isaac
+entreated Yahweh for his wife, because she was barren"* (25:21) — and [[Abraham]] prayed for a foreign
+king's household while his own wife was childless (20:17). **Jacob is the only one of the three asked
+directly, and the only one who declines.** Genesis passes no verdict. See
+[[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] and [[Prayer]].
+
+**He names no child.** All twelve namings in the passage belong to women — [[Leah]] seven, [[Rachel]]
+three (two of them over sons she did not bear), and one passive form at [[Levi]]'s birth with no stated
+subject. **The founder of the twelve tribes does not name one of them**, and the only naming he ever
+overrules is Rachel's last, at 35:18.
+
+**He is handed two slaves without being consulted** (30:4, 30:9), and **he is hired for a night by his
+own wife**: *"You must come in to me; for I have surely hired you with my son's mandrakes"* (30:16),
+***śākōr śəkartîkā***. **The man Laban put on wages at 29:15 is put on wages by Leah at 30:16, and the
+root is the same one.** Genesis gives him no reply — *"He lay with him that night"* — and the son born
+of it is named *there is hire*. See [[Work]] and [[Issachar]].
+
+**And the promise he was given four verses before Genesis 29 opened is being kept in every verse of
+this passage and is quoted by nobody in it.** *"Your offspring will be as the dust of the earth"*
+(28:14) — **here is the dust arriving, one child at a time, named after grievances** — and no character
+mentions Bethel, the land, the covenant, or *I am with you*. **The wiki records that Genesis declines to
+connect them.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He fathers eleven sons and a daughter in Paddan Aram, out-breeds Laban's flocks, and leaves under
+He out-breeds Laban's flocks and leaves under
 pursuit (30–31). He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
 away (32:22–32). He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
 and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
@@ -223,7 +253,11 @@ is carried back to Machpelah.
 - Given [[Leah]] in the dark; *"Why then have you deceived me?"* — Genesis 29:23–25
 - Refused in the oracle's own vocabulary, and accepts seven more years — Genesis 29:26–28
 - Loves Rachel more than Leah — Genesis 29:30
-- Eleven sons and Dinah born in Paddan Aram — Genesis 29:31–30:24 *(not yet ingested)*
+- Refuses Rachel a prayer; *"Am I in God's place?"* — his first recorded anger — Genesis 30:1–2,
+  [[The Birth of Jacob's Children]]
+- Handed [[Bilhah]] and then [[Zilpah]] without being consulted — Genesis 30:4, 9
+- Hired for a night with his son's mandrakes; *"I have surely hired you"* — Genesis 30:16
+- Eleven sons and [[Dinah]] born in Paddan Aram, and **he names none of them** — Genesis 29:31–30:24
 - Leaves Laban under pursuit; the boundary heap at Galeed — Genesis 31 *(not yet ingested)*
 - Wrestles until daybreak at the Jabbok, is renamed **Israel**, and is left limping — Genesis
   32:22–32 *(not yet ingested)*
@@ -266,6 +300,11 @@ is carried back to Machpelah.
   foreign kings asked his father and grandfather — **as the injured party, for the first time in the
   family's history.** He is refused in the vocabulary of the oracle he was born under, accepts in
   three words, and ends the pericope ranking two wives. **God is not named in the passage**
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **eleven sons and a daughter are born and he
+  is the most passive figure in the chapter.** One speech, given in anger, declining to do what his
+  father did (25:21); no prayers; no naming rights over any of the twelve; two slaves handed to him
+  without consultation; and one evening for which he is hired with his own son's mandrakes. **The
+  promise of offspring like the dust is being kept in every verse and quoted by nobody**
 
 ## Related people
 
@@ -288,6 +327,9 @@ is carried back to Machpelah.
 - [[Zilpah]] — [[Leah]]'s slave, handed over at the wedding
 - [[Bilhah]] — [[Rachel]]'s slave, handed over a week later
 - [[Bethuel]] — his maternal grandfather
+- [[Reuben]], [[Simeon]], [[Levi]], [[Judah]], [[Dan (person)]], [[Naphtali]], [[Gad]], [[Asher]],
+  [[Issachar]], [[Zebulun]], [[Joseph]] — his eleven sons born in Paddan Aram, **none of whom he names**
+- [[Dinah]] — his one named daughter
 
 ## Themes associated
 

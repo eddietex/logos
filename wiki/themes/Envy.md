@@ -84,7 +84,13 @@ judgment about a motive.**
   supplies no vocabulary at all — see [[Cain and Abel]]
 - Genesis 21:9–10 — Sarah watching Ishmael at Isaac's feast, and the expulsion she demands; again the
   thing without the word — see [[The Birth of Isaac and the Sending of Hagar]]
-- Genesis 30:1 — *"Rachel envied her sister"* *(not yet ingested)*
+- [[The Birth of Jacob's Children]] — Genesis 30:1, **the Bible's second *qānāʾ***, between two sisters
+  in one household, with fertility rather than property as its object. **What the passage adds to the
+  theme is that the envy outlives the shortage**: [[Leah]] is not barren, has borne four sons, and
+  produces a slave anyway the moment she *"saw that she had finished bearing"* (30:9) — **matching her
+  sister's move rather than solving a problem.** The object of *qānāʾ* here is standing, not children,
+  and the passage's own word for the contest is [[Rachel]]'s: *"I have wrestled **with my sister**…
+  and have prevailed"* (30:8)
 - Genesis 37:11 — *"His brothers envied him"* *(not yet ingested)*
 - Exodus 1:9–11 — the same fear of a prospering household, and a labour draft instead of an eviction
 - Exodus 20:5; 34:14; Deuteronomy 4:24 — *ʾĒl qannāʾ*, and *Jealous* given as a divine name

@@ -16,14 +16,26 @@ her servant"* (29:29). **She is named, and that is all the pericope gives her.**
 the one Genesis 16 already ran and did not commend. **The name's meaning is unknown**; connections to
 a root for *trouble* or *timidity* are guesses, and Genesis does not gloss it.
 
-### What is still ahead
+### In this pericope — Genesis 29:31–30:24
 
 Rachel, barren while her sister bears, produces her at 30:3 with the Bible's strangest formula:
 *"Behold, my maid Bilhah. Go in to her, that she may bear on my knees, and I also may obtain children
-by her"* — **the same solution Sarai proposed at 16:2, in a household that had watched it go wrong.**
-Bilhah bears **Dan** and **Naphtali**, and Rachel names both and reads them as verdicts in her own
-favour: *"God has judged me"*, *"I have wrestled with my sister … and have prevailed."* **Bilhah says
-nothing at either birth.**
+by her"* — **the same solution Sarai proposed at 16:2, in a household that had watched it go wrong**,
+and nobody in Genesis 30 mentions Genesis 16. ***ʿAl-birkay***, *on my knees*, **is an adoption formula
+Genesis uses exactly twice**: here, and at 50:23, where Machir's children are *"born on Joseph's
+knees"* — **the second performed by the son this same passage ends with.**
+
+She is given *"as wife"* — ***ləʾiššâ*** (30:4) — **and Genesis will call her a *concubine* at 35:22 and
+a *wife* again at 37:2 without reconciling the terms.** The wiki flags the inconsistency and adopts
+neither.
+
+Bilhah bears **[[Dan (person)]]** and **[[Naphtali]]**, and [[Rachel]] names both and reads them as
+verdicts in her own favour: *"God has judged me"*, *"I have wrestled with my sister … and have
+prevailed."* **Bilhah says nothing at either birth**, as [[Zilpah]] says nothing at hers. **Four of the
+twelve tribes are named by women who did not bear them**, and the two who did are not recorded speaking
+anywhere in Scripture. See [[The Birth of Jacob's Children]].
+
+### What is still ahead
 
 Then, in one verse with no lead-up and no aftermath, *"Reuben went and lay with Bilhah, his father's
 concubine, and Israel heard of it"* (35:22) — and Genesis breaks off mid-sentence to count the sons.
@@ -41,9 +53,9 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 
 - Given by [[Laban]] to [[Rachel]] at Rachel's wedding, a week after Leah's — Genesis 29:29,
   [[Jacob, Leah, and Rachel]]
-- Given by Rachel to [[Jacob]]; *"that she may bear on my knees"* — Genesis 30:3–4 *(not yet
-  ingested)*
-- Bears Dan and Naphtali, named by Rachel — Genesis 30:5–8 *(not yet ingested)*
+- Given by Rachel to [[Jacob]] *as wife*; *"that she may bear on my knees"* — Genesis 30:3–4,
+  [[The Birth of Jacob's Children]]
+- Bears [[Dan (person)]] and [[Naphtali]], named by Rachel — Genesis 30:5–8
 - Reuben lies with her; Israel hears of it — Genesis 35:22 *(not yet ingested)*
 - Named in Jacob's deathbed disinheriting of Reuben — Genesis 49:3–4 *(not yet ingested)*
 
@@ -52,6 +64,10 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 - [[Jacob, Leah, and Rachel]] — Genesis 29:29; one verse, matching Zilpah's five lines earlier, in
   which she is given from a father to a daughter as part of a delivery seven years and one week
   overdue. **The passage records nothing about her but the transfer**
+- [[The Birth of Jacob's Children]] — Genesis 30:3–8; given a second time, now to Jacob, on the
+  precedent Genesis 16 set and nobody cites. She bears two of the twelve tribes and **her mistress names
+  them both**, as verdicts in a dispute with her own sister; **Bilhah is not recorded saying anything at
+  either birth**
 
 ## Related people
 
@@ -61,6 +77,7 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
   chapters
 - [[Zilpah]] — Leah's slave, and her exact counterpart in the chapter's construction
 - [[Hagar]] — the *šipḥâ* of Genesis 16, and the precedent for what is done with both of them
+- [[Dan (person)]] and [[Naphtali]] — her two sons, two of the twelve tribes, both named by Rachel
 
 ## Themes associated
 
@@ -68,3 +85,5 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 - [[Marriage]]
 - [[Barrenness]]
 - [[Birthright and the Firstborn]]
+- [[Names and Naming]]
+- [[Envy]]

@@ -114,6 +114,18 @@ already did.
 - Matthew 6:5–15; Luke 11:1–13; 18:1–14 — the instruction, the model, and the two parables about
   persistence and posture
 - Romans 8:26–27; Hebrews 4:14–16 — praying badly, and being represented anyway
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24, **the theme's clearest structural gap in
+  Genesis.** God is said to *hear* three times in twenty-six verses — *"Yahweh has heard that I am
+  hated"* (29:33), *"has also heard my voice"* (30:6), *"God listened to Leah"* (30:17) — **and Genesis
+  records not one word of prayer from either sister.** The book reports the answers to petitions it does
+  not print, which is the mirror image of the problem this page tracks elsewhere: usually Genesis gives
+  the human speech and leaves the answer implicit. **And the one person in the passage who is asked to
+  pray refuses.** [[Rachel]] says *"Give me children, or else I will die"* to her husband, and Jacob
+  answers *"Am I in God's place, who has withheld from you the fruit of the womb?"* (30:2) — **true, and
+  not what *ʿātar* did for his mother at 25:21.** Abraham never prayed for Sarah's womb but did pray for
+  a foreign king's household (20:17); Isaac prayed; **Jacob is the only one of the three asked directly,
+  and the only one who declines.** See
+  [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]]
 
 ## Related themes
 

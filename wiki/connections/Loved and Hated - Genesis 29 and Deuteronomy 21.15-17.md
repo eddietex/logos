@@ -86,6 +86,27 @@ descent runs through the woman Jacob did not choose.
   that the portion lands where the law says it must not.
 - **Nobody in Genesis is condemned for any of it.** The narrator states the ranking at 29:30 and 37:3
   and reports what followed. **The verdicts are all in the plot.** See [[Retribution]].
+### The narrator says it flatly one verse later
+
+**Genesis does not leave *loved more than* as a comparative for long.** 29:30 ranks the two wives;
+**29:31 restates the ranking as an absolute, in the narrator's own voice** — *"Yahweh saw that Leah was
+**hated**"*, ***śənûʾâ***, **which is the exact word Deuteronomy 21:15 uses for the legal category.**
+The law's two nouns, *ʾăhûbâ* and *śənûʾâ*, are on the page in consecutive verses of Genesis before the
+law exists.
+
+**And the household then does everything the statute forbids.** Deuteronomy 21:16–17 says the father
+*"may not… prefer the son of the beloved before the son of the hated, who is the firstborn"*, and must
+give the hated wife's firstborn *"a double portion of all that he has."* **[[Reuben]], the hated wife's
+firstborn, is born at 29:32** — and at 49:3–4 he is passed over, with 1 Chronicles 5:1–2 stating the
+mechanism outright: *"his birthright was given to the sons of Joseph"*, **the loved wife's son.** See
+[[The Birth of Jacob's Children]] and
+[[The Twelve Sons and the Lists That Reorder Them]].
+
+**Two things the wiki keeps carefully apart.** The Torah legislates against this outcome and Genesis
+narrates it happening; **Genesis nowhere condemns it**, and the deathbed reason given at 49:4 is
+Reuben's own conduct at 35:22, not Jacob's preference. **Whether the law is a rebuke of this household
+or simply describes a common situation is not decidable from either text**, and neither reading is
+adopted here.
 
 ## Significance
 

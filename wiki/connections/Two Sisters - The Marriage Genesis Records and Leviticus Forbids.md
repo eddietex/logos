@@ -64,6 +64,19 @@ The Damascus Document (CD 4:20–5:2) uses 18:18 in an argument against polygamy
 elsewhere an idiom for *one to another*. **On that reading the verse is not about siblings at all.**
 The wiki records the reading because it is ancient and because it is the one place the ambiguity has
 consequences; the plain sense, and the one every English version takes, is literal sisters.
+### The rivalry the statute names, run at full length
+
+**Leviticus 18:18 is the one prohibition in the incest code that gives a reason** — ***liṣrōr***, *to be
+a rival* — **and [[The Birth of Jacob's Children]] is that reason narrated.** The chapter supplies:
+envy stated by the narrator (30:1, the Bible's second *qānāʾ*); two slaves produced as counters, one of
+them by a woman who is not even barren (30:9); an exchange of theft accusations (30:15); a husband
+traded for a plant (30:16); and **two sons named explicitly as verdicts against the other sister** —
+*"God has judged me"* and *"I have wrestled **with my sister**… and have prevailed"* (30:6, 30:8).
+
+**What the wiki notes is the direction the reason runs.** Leviticus forbids the marriage **for the
+women's sake** — the rivalry is the harm, and the prohibition protects the first wife from being made
+one. **Genesis records the harm in detail and passes no judgment on the arrangement**, and then builds
+Israel out of it: eleven of the twelve tribes are born inside the union the law will name.
 
 ## Significance
 

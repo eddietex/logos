@@ -150,6 +150,17 @@ everlasting possession, by treaty with its current occupant.
   of Exodus 3:6. Jacob's answer names the site twice over — ***bêt ʾĕlōhîm***, house of God, which is
   what *Bethel* means, and ***šaʿar haššāmayim***, the gate of heaven, which is what the Babylonians
   took *Babel* to mean and what Genesis 11:9 refused them. See [[Babel and the Gate of Heaven]].
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24, **the book's cleanest distribution of the
+  two names, and the wiki states it without explaining it.** ***Yahweh*** occurs five times, all at the
+  two ends: 29:31 (the narrator), 29:32, 29:33 and 29:35 (Leah's first four naming speeches), and then
+  once more in **the pericope's last clause** — *"May Yahweh add another son to me"* (30:24).
+  ***ʾĔlōhîm*** fills everything between: 30:2, 30:6, 30:8, 30:17, 30:18, 30:20, 30:22 twice, and
+  30:23. **Eighteen verses of *God* bracketed by *Yahweh*.** The source-critical reading assigns the two
+  sets to different hands; the literary reading takes *ʾĕlōhîm* as the name used where God is a party to
+  a contest rather than to a covenant. **Both are available, neither is required, and Genesis says
+  nothing.** A fourth-name curiosity sits inside it: 30:8's *naptûlê **ʾĕlōhîm*** is rendered *"mighty
+  wrestlings"* by the WEB, **translating the divine name as an intensifier** — see
+  [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]]
 
 ## Related themes
 

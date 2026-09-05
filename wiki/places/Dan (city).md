@@ -13,7 +13,8 @@ The northern limit of Abram's pursuit, and the clearest anachronism in Genesis.
 Dan"* (Genesis 14:14). The town is called **Laish** at the time of the judges, and it is renamed only
 when the migrating tribe of Dan captures it: *"They called the name of the city Dan, after the name
 of Dan their father"* (Judges 18:29; the parallel at Joshua 19:47 has *Leshem*). Dan the man is
-Jacob's son, five generations after Abram. See [[The Rescue of Lot and Melchizedek]].
+Jacob's son, five generations after Abram — see [[Dan (person)]], born at Genesis 30:6 and named
+*"God has judged me"*. See [[The Rescue of Lot and Melchizedek]].
 
 **This is a narrator's gloss, not an error in the story.** Genesis names places by the names its
 readers use, openly and often — [[Bethel]] at 12:8 and 13:3, sixteen chapters before 28:19 gives it

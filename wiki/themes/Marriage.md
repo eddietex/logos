@@ -196,6 +196,14 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   *to be a rival*. The chapter also puts Adam's *"bone of my bones, and flesh of my flesh"* (2:23)
   into a second mouth — Laban's, about a nephew — where it is a claim of kinship rather than of
   marriage. See [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]]
+- [[The Birth of Jacob's Children]] — Genesis 29:31–30:24, **the household of four women and one man,
+  seen from the inside.** The husband is allocated by negotiation between wives (30:15), told rather
+  than asked (*"You must come in to me; for I have surely hired you"*, 30:16), handed two slaves as
+  wives without being consulted, and given exactly one speech, in anger. **Genesis reports no affection
+  anywhere in the passage** — 29:31's *hated* is the last word on it — and the six naming speeches Leah
+  addresses at her husband are the record of what she is not getting: *now my husband will love me*,
+  *will be joined to me*, *will live with me*. **Eleven of the twelve tribes come out of it**, and the
+  book neither commends nor condemns the arrangement
 
 ## Related themes
 

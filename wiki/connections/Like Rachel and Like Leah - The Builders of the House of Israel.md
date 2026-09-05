@@ -71,6 +71,22 @@ texts that use her that way are the two places the road matters.
 **Leah gets the tomb and the line.** She lies in the cave Abraham bought, the only patriarchal
 property in Canaan, and the tribes that carry Israel's institutions are hers. **Genesis gives her one
 sentence about it and Jacob is the one who says it**: *"there I buried Leah"* (49:31).
+### The building, now that the wiki has it
+
+**Ruth 4:11's *"which two built the house of Israel"* is a summary of one pericope**, and
+[[The Birth of Jacob's Children]] is it: eleven sons and a daughter in twenty-six verses, all named by
+women. **The blessing's verb, *bānâ*, is the chapter's own** — Rachel's *"that I also may obtain
+children by her"* (30:3) is *ʾibbāneh*, *I may be built up*, and Sarai used the same form at 16:2.
+
+**And the blessing names Rachel first, which the wiki has always flagged as the harder half.** This
+pericope adds two reasons it is harder than it looks. **[[Leah]] bears six of the twelve, and both
+institutions come out of her** — [[Levi]] the priesthood, [[Judah]] the kingship and Boaz's own line,
+which is the line the blessing is being spoken over. **And [[Rachel]] bears one son here and one more at
+the cost of her life.** So Ruth 4:11's order is not a count; whatever it is doing, it is not arithmetic.
+
+**One thing the pericope adds that the blessing leaves out.** *"Which **two** built the house"* — but
+four women bore the twelve. **[[Bilhah]] and [[Zilpah]] are the mothers of a third of the tribes and
+neither Ruth 4:11 nor any other blessing formula names them.** See [[Slavery and Servitude]].
 
 ## Significance
 

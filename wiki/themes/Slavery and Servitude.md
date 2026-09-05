@@ -144,6 +144,17 @@ addressing a slave by name and no one else in the story doing so.
   passage has a free man contract fourteen years of his own labour because he has nothing else to pay
   with, which is the theme's other half: **the household's slaves are property, and the son-in-law is
   wages**
+- [[The Birth of Jacob's Children]] — Genesis 30:3–13, **the arrangement of Genesis 16 run twice more
+  in one chapter, by a household that had watched it produce the wrong son.** [[Rachel]] gives
+  [[Bilhah]] with the adoption formula *"that she may bear on my knees"* (30:3); [[Leah]] gives
+  [[Zilpah]] four verses later — **and Leah is not barren.** She has borne four sons and has merely
+  stopped, so **the second transfer is a move in a contest rather than a remedy for anything.** Both
+  women are handed over ***ləʾiššâ***, *as wife*, and Genesis then calls them *concubine* at 35:22 and
+  *wife* again at 37:2 without reconciling the terms. **Their mistresses name all four sons and neither
+  slave is recorded speaking at any birth** — four of Israel's twelve tribes descend from two women the
+  Bible never quotes. **And no later list distinguishes them**: 35:23–26 groups the twelve by mother and
+  then says flatly, *"These are the sons of Jacob, who were born to him."* See
+  [[The Twelve Sons and the Lists That Reorder Them]]
 
 ## Related themes
 

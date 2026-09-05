@@ -31,7 +31,7 @@ offspring; the obstacle, every time, is offspring.
 |---|---|---|---|---|
 | **[[Sarah]]** | 11:30, before the call | **~25 years** from the promise at 12:2 | a dated annunciation and a birth *"at the set time"* (21:2) | Hagar, Ishmael, an expulsion, and a laugh in three registers |
 | **[[Rebekah]]** | 25:21, inside the *toledot* | **20 years** (25:20 with 25:26) | **prayer** — the only patriarchal prayer for a wife's conception | twins, an oracle, and a family split down the middle |
-| **Rachel** | 29:31, on arrival | years, undated | *"God remembered Rachel"* (30:22) | two sisters, two servants, and twelve sons by four women |
+| **[[Rachel]]** | 29:31, on arrival | **years, undated** | *"God remembered Rachel"* (30:22) | two sisters, two servants, and twelve sons by four women |
 
 **The three are told at three different lengths, and the shrinking is the point.** Sarah's occupies
 ten chapters, generates the Hagar crisis and the covenant, and gets two annunciations. Rebekah's is
@@ -60,6 +60,24 @@ story at full length once and then assumes the reader has it.**
 attributing it.** *Pāqad* and *zākar* — *visited*, *remembered* — are the verbs, and neither means
 recollection after forgetting; both mean acting on a commitment. See [[Remembrance]] and
 [[Yahweh Visited Sarah - Paqad and the Visitations of God]].
+
+### The inversion, which only shows up once Rachel's chapter is read
+
+**Sarah, Rebekah, Manoah's wife, Hannah, and Elizabeth are all barren *and* preferred.** Hannah's case
+states it outright — *"to Hannah he gave a double portion, for he loved Hannah, but Yahweh had shut up
+her womb"* (1 Samuel 1:5) — and Peninnah, the fertile rival, is the one who provokes.
+
+**Rachel is the only one where the preference and the fertility land on different women, and Genesis
+puts both facts in one verse**: *"Yahweh saw that Leah was hated, and he opened her womb, but Rachel
+was barren"* (29:31). **So the theme's usual consolation is unavailable to both sisters at once** — one
+has the husband and no children, the other has the children and not the husband — and **the compensation
+God is recorded giving is to the unloved one, not the barren one.** [[Leah]] is opened *because* she is
+hated; Rachel waits.
+
+**And Rachel's is the only barrenness in the Bible whose duration is never stated.** Sarah's is
+twenty-five years from the promise, Rebekah's twenty by the arithmetic of 25:20 and 25:26. **Rachel's is
+counted in her sister's children instead** — four, then two, then two, then two more — which is the
+cruellest available unit and the one the chapter uses. See [[The Birth of Jacob's Children]].
 
 **And the child of the delayed womb is always the one the line runs through.** Isaac, not Ishmael;
 Jacob, not Esau — and here the pattern doubles back on itself, because Rebekah's twins are *both* the
