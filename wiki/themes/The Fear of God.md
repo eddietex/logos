@@ -123,6 +123,13 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[Bildad's Second Speech]] — the exact inverse of 1:1, delivered as a verdict: *"This is the
   place of him who doesn't know God"* (18:21), spoken in a room containing one candidate and the
   wrong one
+- [[Jacob's Ladder at Bethel]] — Genesis 28:17, ***"How dreadful is this place!"*** — ***mah-nôrāʾ
+  hammāqôm hazzeh***, the niphal of *yārēʾ*, *awe-inspiring*; the WEB's *dreadful* is the old sense,
+  *full of dread*, not *bad*. **It is his first response to an unconditional promise**, and it comes
+  before anything else he says about the place is true. The theme's Genesis instances until now have
+  been fear **produced by** an act (Abraham at 22:12) or fear **claimed absent** in a foreign city
+  (20:11); here it is simple proximity — nothing has been asked of him and nothing threatened, and
+  the reaction to being addressed at all is dread
 
 ## Related themes
 

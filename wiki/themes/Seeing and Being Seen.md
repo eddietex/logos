@@ -117,6 +117,14 @@ will finally go both ways.
   man whose lie was exposed one chapter earlier because a king looked out of a window (26:8) is the
   man who cannot look. And Jacob will do the same thing in reverse at 48:10, *"the eyes of Israel
   were dim for age, so that he couldn't see"*, and cross his hands **on purpose**
+- [[Jacob's Ladder at Bethel]] — Genesis 28:12, 16: **seeing with the eyes shut, and not knowing with
+  them open.** Genesis has given visions, appearances, and lifted eyes; here it gives a **dream** —
+  the first inside the covenant line — and the man does his seeing asleep. Then he wakes into the
+  theme's sharpest sentence: ***"Surely Yahweh is in this place, and I didn't know it."* The reverse
+  of Abram at 13:14**, who was told to lift his eyes and look in four directions; Jacob is told
+  nothing, sees in the dark, and confesses the ignorance afterwards. **The man whose whole method has
+  been knowing more than the person in front of him opens his account with God by saying he did not
+  know**
 
 ## Related themes
 

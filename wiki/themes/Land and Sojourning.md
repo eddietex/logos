@@ -208,6 +208,13 @@ where that starts, in a sentence about a family that got halfway.
   owning it. The phrase is God's own at 17:8; here a father uses it over a son who is about to leave
   the country for twenty years, and whose family will still hold nothing in it but a cave when
   Genesis ends.
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13, 15: **the grant at its smallest, and the first
+  promise of a return.** *"The land whereon you lie, to you will I give it"* — measured by the body
+  of a sleeping man, against the four horizons Abram was told to look across and then walk (13:14–17).
+  **Jacob is horizontal, unconscious, and in the dark**, and what he owns at that moment is a stone he
+  did not buy in a field whose name he does not know. And because he is the first bearer of the
+  promise to leave the country carrying it, the promise acquires a clause it never needed before:
+  ***wahăšibōtîkā ʾel-hāʾădāmâ hazzōʾt***, *I will bring you again into this land.*
 
 ## Related themes
 

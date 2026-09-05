@@ -419,8 +419,9 @@ been set aside. **Genesis hands out the promise and the consequences in the same
   standing practice on doubled accounts, applied here to two reasons for one journey.
 - [[Call and Election]] and [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]]
   — the passed-over elder sons, whose two lines marry at 28:9.
-- Genesis 28:10–22 — Bethel, the stairway, and God saying directly to Jacob what Isaac has just asked
-  for on his behalf *(not yet ingested)*.
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10–22; Bethel, the stairway, and God granting directly —
+  four verses later, and unasked — what Isaac has just petitioned *ʾĒl Šadday* for on his behalf,
+  with the presence clauses added.
 - Genesis 29:1–30 — the house of Laban, the two daughters of 28:2, and fourteen years of service in
   place of a bride-price *(not yet ingested)*.
 - Genesis 32:10 — *"with just my staff I crossed over this Jordan"*, Jacob's own account of what he

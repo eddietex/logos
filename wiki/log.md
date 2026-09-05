@@ -4853,3 +4853,151 @@ now started detached.** It has still cost nothing, and it still wants the user's
 `claude/ingest-auto-kllgcw`, plus `claude/unmerged-branches-audit-xt7o4j`. All are one command away
 from cleanup whenever the user wants them gone; none was touched, so this ingest's commit stays just
 the ingest.
+
+## [2026-09-05] ingest | Genesis 28.10-22 — Jacob's Ladder at Bethel
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+its first unchecked box read `Jacob's Ladder at Bethel — Genesis 28:10–22`. `raw/bible/Genesis.md`
+was already present, so `scripts/fetch-book.sh` was not run. Step 2's discussion is written into the
+passage page. **The boundary the previous pass drew was used as drawn** and needed no revision: 28:10
+opens with a fresh itinerary formula, 28:22 closes on the vow, and 29:1 restarts with *"Then Jacob
+went on his journey"*.
+
+**The session started on a detached HEAD** at `origin/main` (8c61454), with local `main` twenty-four
+commits behind and the tree clean. `main` was checked out and fast-forwarded to `origin/main` — a
+verified fast-forward, no commits discarded — and the ingest committed on `main`. Nothing was
+stashed, dropped, or rewritten.
+
+### What the pericope is
+
+**God speaks to Jacob for the first time, and says nothing about chapter 27.**
+
+- **28:10–11.** ***Wayyipgaʿ bammāqôm*** — *he ran into the place*, the verb of unintended encounter,
+  with the definite article. **The ancient practice of sleeping at a shrine to solicit a dream is
+  available to this story and Genesis refuses it**: Jacob stops because the sun has set, sleeps on a
+  stone picked out of a field, and finds out afterwards what he was lying on. ***Māqôm*** runs **six
+  times in twelve verses** and is the standing Hebrew term for a sanctuary site — **the narrator
+  calls it a shrine before Jacob knows it is one.** And the sunset frames the whole twenty years: it
+  sets on him here and rises on him at 32:31 as he limps away from Peniel.
+- **28:12.** ***Sullām*** is **a hapax legomenon** — once in the Hebrew Bible — usually derived from
+  *sālal*, *to cast up a roadway*, hence the WEB's **stairway** against the KJV's *ladder*. Its
+  *"top reached to heaven"* is **Babel's idiom** (11:4), and these are the only two places in the
+  book where something's *head* reaches the sky. The angels go **up** first. ***Bô*** is
+  masculine and so is Jacob: *on it* or *on him*, and the same ambiguity sits on ***ʿālāyw*** at
+  28:13.
+- **28:13–14.** The first divine speech to Jacob, and it is a self-introduction: *"the God of Abraham
+  your father, and the God of Isaac"* — **the formula being assembled**, one name short of Exodus
+  3:6 and of the sentence Jesus argues the resurrection from. The land is granted at its smallest —
+  ***"the land whereon you lie"***, against the four horizons Abram was told to look across and walk
+  (13:14–17) — with the **dust** of 13:16, and *"all the families of the earth"*, which is **the
+  fifth and last statement of that promise in Genesis and the only one after the first to use the
+  first one's noun** (*mišpəḥōt hāʾădāmâ*, as at 12:3, against *the nations* at 18:18, 22:18, 26:4).
+- **28:15.** **Four clauses none of the patriarchs before him received** — *I am with you*, *I will
+  keep you wherever you go*, *I will bring you again into this land*, *I will not leave you* —
+  because **Jacob is the first bearer of the promise to leave the land carrying it.** Abraham was
+  called into it and forbade Isaac ever to leave; Isaac was forbidden Egypt (26:2). **No condition
+  anywhere in the speech, and no reference to the deception.**
+- **28:16–17.** ***"And I didn't know it."*** The man whose whole method has been knowing more than
+  the person in front of him. Then ***nôrāʾ*** — the WEB's *dreadful* in its old sense — and two
+  names before the naming: ***bêt ʾĕlōhîm*** and ***šaʿar haššāmayim***, the second of which is what
+  Babylon took *Babel* to mean and what Genesis 11:9 refused it.
+- **28:18–19.** ***Maṣṣēbâ***, from the same root as the ***niṣṣāb*** of 28:13: what stood over the
+  stairway is answered by a stone standing on the ground. **The first oil in the Bible** and its
+  first anointing, performed on a rock by a man with no office. The naming admits the book's own
+  anachronism — 12:8 and 13:3–4 called the site Bethel *"but the name of the city was Luz at the
+  first."*
+- **28:20–22.** **The first *neder* in Scripture**, and its conditions are God's own unconditional
+  promises handed back with an *if* on them. He **narrows** each (*wherever you go* → *this way that
+  I go*; *this land* → *my father's house*), **adds** bread and clothing, and **drops the land, the
+  offspring, and the nations entirely.** The tenth is the Bible's second and second pre-Mosaic one,
+  pledged on what he does not have, with no priest and no sanctuary, and **Genesis never records him
+  paying it.**
+
+### Judgment calls made unattended
+
+- **The title was kept as the plan had it**, *Jacob's Ladder at Bethel*, although the page argues
+  throughout that *sullām* is more probably a **stairway or ramp** and the WEB translates it so.
+  Grounds: it is the name the episode carries in every index a reader would arrive from, and *The
+  Stairway at Bethel* buys precision at the cost of findability. **The philological point is made in
+  the body rather than in the filename.** No other book has a passage page by this title.
+- **Two grammatical ambiguities recorded and neither resolved.** ***Bô*** at 28:12 (*on it* / *on
+  him*) and ***ʿālāyw*** at 28:13 (*above it* / *beside him*) are genuine in the Hebrew. The WEB
+  takes both as the stairway; the rabbinic tradition preserved the other reading; John 1:51 puts the
+  angels on a person. **Both readings are on the page.**
+- **Where the vow's apodosis begins is recorded and not resolved.** *"And Yahweh will be my God"*
+  (28:21b) sits inside the condition in the WEB and begins the promise in the KJV and others; **the
+  Hebrew marks neither**, and the theological difference is large. The wiki adopts neither and
+  records what holds on both readings: **it is the first time Jacob says *my* God**, against the
+  *"Yahweh **your** God"* he used to Isaac while lying at 27:20.
+- ***ʿAd ʾăšer* at 28:15 is read in the ordinary way** — the *until* fixes the guarantee to the
+  completion of the promise rather than terminating it — and **stated as a choice** rather than
+  smuggled in, with 35:9–12 noted as Genesis's own answer.
+- **The Babel parallel is new on this page and its claim is deliberately narrow.** 11:4 and 28:12 are
+  the only two places in the book where something's *top* reaches the sky; *the gate of heaven*
+  stands beside the popular etymology of *Babel* that 11:9 itself declines. **The wiki does not claim
+  Genesis 28 was composed as a reply to Genesis 11**, and says so on both pages. **The scattering
+  verbs are noted as different roots** — *pûṣ* at 11:4, *pāraṣ* at 28:14 — rather than made into a
+  pun.
+- ***Sullām* as a hapax and *šemen* at 28:18 as the Bible's first oil** are both recorded as
+  distribution facts. The oil claim was **verified against `raw/bible/Genesis.md`** rather than
+  asserted from memory; nothing theological is built on it beyond the observation that the first
+  anointing in Scripture is of a stone, by a layman.
+- **New pages made — five connections, no new people, places, or themes.**
+  `Babel and the Gate of Heaven` (backwards, into chapter 11);
+  `Bethel from Jacob's Pillar to Jeroboam's Calf` (forwards, into Kings and the prophets — kept
+  separate from the Babel page because they run in opposite directions);
+  `Angels Ascending and Descending - Genesis 28.12 in John 1.51` (including the Nathanael frame:
+  *"an Israelite indeed, in whom is no deceit"* uses the Septuagint's word at 27:35);
+  `I Will Be With You - The Promise of Presence` (28:15 as the head of the commissioning formula
+  through Moses, Joshua, Gideon, Jeremiah, and the last verse of Matthew);
+  `The Pillar Jacob Raised and the Pillars the Law Forbids` (*maṣṣēbâ* commended in Genesis and
+  hated at Deuteronomy 16:22 — **three readings set out and none adopted**).
+- **New pages deliberately not made.** **Luz** — Bethel's earlier name, carried in that page's
+  `also_known_as`, on the same decision recorded for **Paddan Aram** at `A Wife for Isaac`. **The
+  angels of 28:12** — plural, silent, and unindividuated; `The Angel of Yahweh` now carries a section
+  distinguishing them from the singular figure, and pointing at 31:11–13, where the singular says
+  *"I am the God of Bethel."* **No new theme page**: *presence* and *dreams* were both considered and
+  are covered by `Covenant`, `Walking with God`, and `Prophecy and Vision`.
+- **Esau was kept in the passage's People list although he is named nowhere in the twelve verses**,
+  because 35:7 makes him the stated reason for the theophany. **Laban was dropped from that list**
+  for the opposite reason: he is not named either, and nothing in the passage turns on him.
+
+### Pages touched
+
+**Created (6).** `wiki/passages/Genesis/Jacob's Ladder at Bethel.md`; connections
+`Babel and the Gate of Heaven`, `Bethel from Jacob's Pillar to Jeroboam's Calf`,
+`Angels Ascending and Descending - Genesis 28.12 in John 1.51`,
+`I Will Be With You - The Promise of Presence`,
+`The Pillar Jacob Raised and the Pillars the Law Forbids`.
+
+**Revised (34).** People: `Jacob` (new pericope section, four timeline entries, four themes),
+`God` (new section, two timeline entries), `Abraham`, `Isaac`, `Esau`, `The Angel of Yahweh` (new
+section on the plural). Places: `Bethel` (the naming, plus the post-exilic postscript), `Beersheba`,
+`Haran (city)`, `Canaan`, `Aram Naharaim`. Themes: `Covenant`, `Call and Election`,
+`Favor and Grace`, `Land and Sojourning`, `Prophecy and Vision`, `Seeing and Being Seen`,
+`The Fear of God`, `Oaths and Vows`, `Tithing`, `Sacrifice and Offering`, `Priesthood`,
+`The Names of God`, `The Nations`, `Remembrance`, `Blessing`. Connections: `The Tithe Before the
+Law`, `Dust, Stars, and Sand`, `All the Families of the Earth`, `Lift Up Your Eyes`,
+`Sacrifice Before the Priesthood`, `A Name for Ourselves and a Great Name`,
+`The Hope of Resurrection in the Old Testament`, `Two Errands to Paddan Aram`,
+`Babel and Babylon the Great`. Passages: `The Tower of Babel`, `The Stolen Blessing`, and
+`Isaac Sends Jacob to Paddan Aram` — the last two had forward references to this pericope marked
+*(not yet ingested)*, now resolved into links.
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, overview paragraph extended),
+`wiki/books/index.md` (**35 / 59 → 36 / 59**), five new rows in `wiki/connections/index.md`, and
+`Jacob's Ladder at Bethel` appended to the key-passages column of twenty-six rows across
+`wiki/people/index.md`, `wiki/places/index.md`, and `wiki/themes/index.md`. `wiki/index.md` now
+reads **42 passages · 82 people · 48 places · 53 themes · 118 connections**, verified against what
+is on disk.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**. No wrapped links, no dangling targets; the expected baseline is
+**64** not-yet-started book pages, unchanged, since no new book page was created this pass.
+
+**Links deliberately left for later pericopes** — all of them plain scripture references rather than
+wikilinks, so none is a finding: 31:11–13 (the angel citing the vow, and *"I am the God of Bethel"*),
+32:24–31 (the second night alone and the sunrise at Peniel), 35:1–15 (the return, the buried gods,
+and the second pillar), 46:1–4 (Beersheba again, on the way down to Egypt), and 48:15–16 (Jacob's
+deathbed verdict on the bread he asked for conditionally).

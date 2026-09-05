@@ -317,6 +317,9 @@ Israel — an etymology that is an interpretation. See [[Babel]].
   runs from the Nephilim to Philippians 2:9.
 - [[Let Us Go Down - The Divine Plural in Genesis]] — 1:26, 3:22, 11:7, and what the plural is doing.
 - [[Babel and Babylon the Great]] — the city from this verse to Revelation 18.
+- [[Babel and the Gate of Heaven]] — Genesis 28:10–22 against this passage: the only other thing in
+  the book whose *top* reaches heaven, the scattering feared here and promised there, and the title
+  *gate of heaven* refused to this city and given to a field.
 - [[The Table of Nations at Pentecost]] — Acts 2 read against Genesis 10 and 11, and what "the
   reversal of Babel" does and does not mean.
 - [[Nimrod and the Kingdoms of Shinar and Assyria]] — why the tower-builder of tradition is not the

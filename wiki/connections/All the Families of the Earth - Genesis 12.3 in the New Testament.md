@@ -20,7 +20,12 @@ tags: [connection]
   Isaac in the first words God ever speaks to him, and grounded — like 22:18 — in Abraham's
   obedience, here spelled out as four terms of Torah vocabulary. See [[Isaac in Gerar]] and
   [[Because Abraham Obeyed My Voice - Law Before Sinai]].
-- **Genesis 28:14** — the same clause restated to Jacob at Bethel *(not yet ingested)*
+- **Genesis 28:14** — *"In you and in your offspring will all the families of the earth be blessed"*,
+  to Jacob at Bethel: **the fifth and last statement of it in Genesis, and the only one after the
+  first to return to the first one's noun.** 12:3 and 28:14 both have ***mišpəḥōt hāʾădāmâ***, *the
+  families of the earth*; 18:18, 22:18, and 26:4 have *the nations*. **And it is the only one of the
+  five with no ground attached** — no *because you have obeyed*, no reason of any kind. See
+  [[Jacob's Ladder at Bethel]].
 - **Genesis 10:5, 18, 20, 31, 32** — *mišpəḥōt*, the families of the nations —
   [[The Table of Nations]]
 - **Psalm 72:17** — *"men shall be blessed by him. All nations will call him blessed"*, of the king

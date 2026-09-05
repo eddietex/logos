@@ -141,6 +141,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   15:15, where God promises it in the dark, and here, where it is paid. **The narrator does not say
   that it is the same phrase.** And the formula the verse ends on — *gathered to his people* — is
   itself a remembrance device, naming a man's dead as the thing he arrives at
+- [[Jacob's Ladder at Bethel]] — Genesis 28:18–19, 22; **a stone set up so that a night has a
+  monument, and a name that outlives the event by a thousand years.** The *maṣṣēbâ* is the theme's
+  purest object: an altar is equipment, but **a standing stone does nothing except stay where it is
+  put.** Jacob raises four of them and three mark a departure, a boundary, or a return. And the
+  memory holds better than the meaning — the town is still called *house of God* when Jeroboam puts a
+  calf in it and when Amos has to make a pun to say it has come to nothing. See
+  [[Bethel from Jacob's Pillar to Jeroboam's Calf]] and
+  [[The Pillar Jacob Raised and the Pillars the Law Forbids]]
 
 ## Related themes
 

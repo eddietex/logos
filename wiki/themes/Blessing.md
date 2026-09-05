@@ -261,6 +261,13 @@ costly.
   *company of peoples*, the land of his sojournings, and *"the blessing of Abraham"* by name —
   every item chapter 27 lacked. **The one thing this book says a blessing cannot be is recalled**;
   what it can be, apparently, is repeated and completed.
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13–15; **a third time in one night's walk, and this time
+  from the source.** Isaac had petitioned *ʾĒl Šadday* for exactly this at 28:3–4; four verses later
+  God grants every item of it directly and adds one Isaac did not think to ask for. **The word
+  *bārak* is not used** — nothing in 28:13–15 is called a blessing — and the content is the whole of
+  it, which is the wiki's standing observation that Genesis keeps *bərākâ* and *bərît* apart. The one
+  place the root does appear is where the passage quotes 12:3: *"in you and in your offspring will
+  all the families of the earth be blessed."*
 
 ## Related themes
 

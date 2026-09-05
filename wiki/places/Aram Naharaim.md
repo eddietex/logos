@@ -75,6 +75,10 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   changed since 24:10 is who travels. **Abraham's oath forbade Isaac ever to come here, twice over
   (24:6, 8); Isaac sends his own son, alone and carrying nothing the text names.** See
   [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]]
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10; **the seam between the region's two names.** 28:5 sent
+  Jacob to *Paddan Aram*; five verses later he *"went toward Haran"*. The narrative register uses the
+  town, the genealogical register uses the region, and Genesis puts them in adjacent verses without
+  reconciling them
 
 ## Related places
 

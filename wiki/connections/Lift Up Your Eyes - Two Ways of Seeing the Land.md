@@ -87,6 +87,12 @@ being shown a land and told he may not have it.
 - **It refuses the easy moral.** Genesis never says Lot sinned by looking, and Yahweh commands Abram
   to do the identical thing. What separates them is not the act but its authorization and its
   horizon — one valley chosen, or a whole land given.
+- **Genesis 28:13 does it a third way: with the eyes shut.** Abram is told to lift his eyes and look
+  in four directions, and then to walk the land in its length and its width; Lot lifts his eyes and
+  picks a valley. **Jacob is given the land lying down, unconscious, and at night** — *"the land
+  whereon you lie, to you will I give it"* — and the same speech supplies the four directions from
+  the other side, as the promise that he will *spread abroad* to them. **The two ways of seeing
+  become three, and the third involves no seeing at all.** See [[Jacob's Ladder at Bethel]].
 - **It sets up the New Testament's reading of Abraham.** Hebrews 11:9–10 has him dwelling in tents in
   the land of promise *"as in a land not his own"* because *"he looked for the city which has
   foundations"*. The epistle keeps the verb and moves the object: the man who was told to lift his

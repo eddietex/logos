@@ -154,6 +154,28 @@ the identity problem in the book.**
 
 See [[The Binding of Isaac]] and [[I Have Sworn by Myself - The Oath at Moriah]].
 
+### Not this — the plural of Genesis 28:12
+
+**The *malʾăkê ʾĕlōhîm* on the stairway at Bethel are a different thing, and the wiki keeps them
+separate.**
+
+They are **plural**, they are **silent**, they do nothing, and they are not individuated: *"the angels
+of God ascending and descending on it."* Nothing about them raises the identity problem this page
+exists for — none of them speaks, so none of them can slide between the third person and the first.
+**They are traffic**, and the point of them is that there is traffic between the ground and heaven
+over a man who did not know where he was.
+
+**But the singular does turn up in the same story, three chapters later.** At 31:11–13 *"the angel of
+God"* speaks to Jacob in a dream, says *"Jacob"* and is answered *"Here I am"* — the vocative-and-
+*hinnēnî* pattern of 22:11 — and then says ***"I am the God of Bethel, where you anointed a pillar,
+where you vowed a vow to me."* **That is the alternation at its plainest**: the angel of God,
+identifying himself as the God the vow was made to. **The plural of 28:12 and the singular of 31:13
+are set beside each other here so that the difference is not lost**, and the New Testament's use of
+28:12 puts the ascending and descending on a person rather than on either.
+
+See [[Jacob's Ladder at Bethel]] and
+[[Angels Ascending and Descending - Genesis 28.12 in John 1.51]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -199,6 +221,10 @@ See [[The Binding of Isaac]] and [[I Have Sworn by Myself - The Oath at Moriah]]
   happened; the narrator reports no angel, and no divine speech or act of any kind, in the whole
   chapter. It is the first *angel sent before you* in Scripture, and Exodus 23:20, 32:34, and 33:2
   will make the sentence a formula for the nation's march
+- [[Jacob's Ladder at Bethel]] — Genesis 28:12; **by contrast, and deliberately.** The *malʾăkê
+  ʾĕlōhîm* on the stairway are plural, silent, and anonymous, and raise none of this page's problem.
+  The singular figure returns at 31:11–13, in a dream, saying *"I am the God of Bethel, where you
+  anointed a pillar"* — the alternation at its plainest, and the ground of the command to go home
 
 ## Related people
 

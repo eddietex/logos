@@ -63,7 +63,11 @@ asked for.
 ## Key passages
 
 - Genesis 14:18–20 — the first tithe, [[The Rescue of Lot and Melchizedek]]
-- Genesis 28:20–22 — Jacob's vow at Bethel
+- Genesis 28:20–22 — Jacob's vow at Bethel, [[Jacob's Ladder at Bethel]]: ***ʿaśśēr ʾăʿaśrennû lāk***,
+  infinitive absolute, *tithing I will tithe it.* **The second tenth in Scripture and the second
+  pre-Mosaic one, and it differs from Abram's at every point** — a tenth of what he has not got yet,
+  pledged to God directly with no priest and no sanctuary, conditional on a safe return, and **never
+  recorded as paid**
 - Leviticus 27:30–33 — a tenth is holy to Yahweh
 - Numbers 18:21–32 — Levi's inheritance, and the tithe of the tithe
 - Deuteronomy 14:22–29; 26:12–15 — the eaten tithe and the third-year tithe

@@ -90,6 +90,11 @@ every one of them.
   chapter starts, so the blindness, the goat skins, the trembling, and the death threat all belong to
   the town whose name means *well of the oath*. **Genesis does not say so**, and the wiki records the
   location as an inference from the two verses on either side
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10; ***"Jacob went out from Beersheba"*** — the verse that
+  names the town the previous two chapters only implied, and the last time Jacob is in it. **He does
+  not come back to it**: when he returns from Paddan Aram his father's house is at Mamre (35:27), and
+  the next time Genesis brings anyone here it is Jacob on his way down to Egypt, offering sacrifices
+  and being told *"don't be afraid to go down"* (46:1–4)
 
 ## Related places
 
@@ -125,7 +130,7 @@ every one of them.
   Beersheba to this day"* — the second of the two etiologies — Genesis 26:32–33
 - Isaac, blind, is deceived into blessing Jacob, and Esau plans a murder — Genesis 27:1–45 (the town
   is unnamed, and inferred from 26:23–33 and 28:10), [[The Stolen Blessing]]
-- Jacob departs from here for Haran — Genesis 28:10 *(not yet ingested)*
+- Jacob departs from here for Haran — Genesis 28:10, [[Jacob's Ladder at Bethel]]
 - Jacob sacrifices here and is given leave to go down to Egypt — Genesis 46:1–5 *(not yet ingested)*
 - Elijah leaves his servant here and goes on into the wilderness — 1 Kings 19:3–4
 - Condemned as a pilgrimage shrine — Amos 5:5; 8:14

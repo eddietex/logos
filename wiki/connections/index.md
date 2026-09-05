@@ -117,3 +117,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
 | [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |
 | [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]] | parallel | Genesis 24:1–67 · Genesis 27:46–28:9 · Genesis 29:1–30 · Genesis 32:10 · Hosea 12:12 |
+| [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |
+| [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]] | quotation | Genesis 28:12 · John 1:43–51 · Genesis 27:35 · Genesis 32:28 · Hosea 12:3–4 |
+| [[I Will Be With You - The Promise of Presence]] | thread | Genesis 26:3, 24 · Genesis 28:15 · Genesis 39:2, 21 · Exodus 3:12 · Joshua 1:5 · Judges 6:16 · Isaiah 41:10; 43:2 · Jeremiah 1:8 · Haggai 1:13 · Matthew 1:23; 28:20 · Hebrews 13:5 |
+| [[The Pillar Jacob Raised and the Pillars the Law Forbids]] | tension | Genesis 28:18, 22 · Genesis 31:45 · Genesis 35:14, 20 · Exodus 24:4 · Leviticus 26:1 · Deuteronomy 16:22 · Joshua 24:26–27 · 2 Kings 18:4 · Isaiah 19:19 |
+| [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 |

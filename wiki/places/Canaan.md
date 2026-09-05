@@ -125,6 +125,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   word for not owning it — and in the previous breath forbids him *"a wife of the daughters of
   Canaan."* Esau, watching, draws the correct conclusion from the second half and marries into
   Ishmael's line instead
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13, 15; **the grant at its smallest and the return
+  promised for the first time.** *"The land whereon you lie, to you will I give it"* — measured by
+  the body of a sleeping man, against the four horizons Abram was told to look across at 13:14 — and
+  then *"I will bring you again into this land"*, a clause the promise had never needed before,
+  because **Jacob is the first bearer of it to leave the country carrying it**
 
 ## Related places
 

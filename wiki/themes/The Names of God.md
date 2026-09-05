@@ -144,6 +144,12 @@ everlasting possession, by treaty with its current occupant.
   six occurrences in Genesis, every one of them at a transfer of the promise. Its meaning is
   genuinely unknown, and the English *Almighty* descends from the least defensible of the four
   standing etymologies. See [[God Almighty - El Shaddai in Genesis and Exodus]].
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13, 17, 19: **three names in twelve verses, and one of
+  them is a place.** God's self-introduction, *"I am Yahweh, the God of Abraham your father, and the
+  God of Isaac"*, **adds the second ancestor to the formula 26:24 began** and leaves it one name short
+  of Exodus 3:6. Jacob's answer names the site twice over — ***bêt ʾĕlōhîm***, house of God, which is
+  what *Bethel* means, and ***šaʿar haššāmayim***, the gate of heaven, which is what the Babylonians
+  took *Babel* to mean and what Genesis 11:9 refused them. See [[Babel and the Gate of Heaven]].
 
 ## Related themes
 

@@ -64,6 +64,9 @@ something comes down through him. That two-way motion is what the word adds. See
 ## Key passages
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
+- Genesis 28:18 — **the first anointing**, [[Jacob's Ladder at Bethel]]: before any priest, king,
+  tabernacle, or vessel is anointed, a fugitive with no office pours oil on a stone. It is also the
+  first occurrence of *šemen* in Scripture, and God later refers to the act approvingly (31:13)
 - Exodus 19:6 — a kingdom of priests
 - Exodus 28–29; Leviticus 8–9 — Aaron and his sons consecrated
 - Numbers 3:5–13; Deuteronomy 33:8–11 — Levi set apart

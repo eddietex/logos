@@ -175,6 +175,12 @@ the others.
   The promise goes north with the younger son, openly conferred this time; and [[Esau]], the second
   elder son in the book to lose an inheritance, marries the daughter of [[Ishmael]], the first.
   Genesis reports the symmetry in one verse and passes no verdict on it.
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13–15; **the theme's clearest instance in the book.** The
+  promise arrives on a man who has just lied to his blind father, taken a blessing under a disguise,
+  and is walking north because his brother means to kill him — **and there is no condition in the
+  speech, no requirement, and no reference to any of it.** He is not seeking it either: *wayyipgaʿ*,
+  he runs into the place, stops because the sun has set, and finds out afterwards what he was lying
+  on. **Election here is not a reward and not a response**, and Genesis offers no explanation for it.
 
 ## Related themes
 

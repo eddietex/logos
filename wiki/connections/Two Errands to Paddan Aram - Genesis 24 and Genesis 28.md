@@ -108,3 +108,8 @@ errand was a journey God managed; the second is a journey God accompanies.** See
   sons, and enough livestock to send ahead as a gift in droves (32:13–16) — and meets, at the far end
   of it, the brother he ran from. **The errand that began as a flight ends as the making of the
   household Israel is named after.** See [[Land and Sojourning]] and [[Blessing]].
+- **And what he carries instead is given to him on the first night out.** The servant travelled with
+  ten camels, the master's goods, and a prayer answered at a well; Jacob travels with nothing and is
+  met at [[Bethel]] by the promise itself — *"I am with you, and will keep you, wherever you go"*
+  (28:15). **The errand's two provisions are an estate and a sentence.** See
+  [[Jacob's Ladder at Bethel]].

@@ -95,13 +95,48 @@ veil, a dark room, and an elder sibling passed off as a younger one, run by his 
 (29:23–26). See [[The Younger Before the Firstborn - Jacob and Laban]] and
 [[A Garment and a Goat - Jacob Deceives and Is Deceived]].
 
+### In this pericope — Genesis 28:10–22
+
+**God speaks to him for the first time in his life, and says nothing about chapter 27.**
+
+Everything Jacob has held until this night came to him from somebody else: a birthright bought off
+his brother, a blessing taken off his father in the dark, a covenant handed on by Isaac reciting
+Abraham's formulas. **Nothing had come to him from God.** At Bethel it does — land, offspring, the
+families of the earth in the exact words of 12:3, and three clauses no patriarch before him
+received: ***I am with you***, ***I will keep you***, ***I will bring you back.*** **There is no
+condition anywhere in the speech and no reference to the deception.**
+
+**And he is not looking for it.** ***Wayyipgaʿ bammāqôm*** — *he ran into the place* — the verb of
+unintended encounter; he stops because the sun has set, sleeps on a stone he picks out of a field,
+and learns afterwards what he was lying on. **His first words on waking are a confession of
+ignorance**: *"Surely Yahweh is in this place, and I didn't know it."* The man whose whole method has
+been knowing more than the person in front of him. His second response is ***nôrāʾ*** — fear.
+
+**Then he answers, and it is the most calculating speech in the passage.** The first *neder* in
+Scripture, and its conditions are God's own promises handed back with an *if* on them: *"**If** God
+will be with me, and will keep me **in this way that I go** … so that I come again to **my father's
+house** in peace."* **He narrows each one**, adds two God never mentioned — **bread and clothing** —
+and **leaves out the land, the offspring, and the nations entirely.** The vow is the promise reduced
+to what a frightened man can check inside his own lifetime.
+
+**But he says *my God*, and it is the first time.** At 27:20, lying to Isaac, he had said *"Yahweh
+**your** God gave me success"* — the pronoun that kept him outside the relationship he was borrowing.
+Here it is *"Yahweh will be my God."* **Where the vow's *if* stops and its *then* begins is genuinely
+undetermined in the Hebrew**, and the wiki adopts neither reading; what is true on both is the
+pronoun.
+
+**He also does three things first.** The first pillar of his four (28:18; then 31:45, 35:14, 35:20) —
+**he is the only patriarch who raises standing stones rather than building altars.** The first
+anointing in the Bible, and the first oil in it, poured on a rock by a man with no office. And the
+first tenth promised rather than paid: *"Of all that you will give me I will surely give a tenth to
+you."* **Genesis never records him paying it.** See [[Jacob's Ladder at Bethel]],
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]], and [[The Tithe Before the Law]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He flees to Paddan Aram and is met
-at Bethel by a stairway and by the Abrahamic promise given to him directly for the first time
-(28:13–15). He works fourteen years for two sisters and is himself substituted younger-for-elder on
+He works fourteen years for two sisters and is himself substituted younger-for-elder on
 his wedding night — **the deception he ran, run back on him, by his mother's brother** (29:23–25). He
 fathers eleven sons and a daughter in Paddan Aram, out-breeds Laban's flocks, and leaves under
 pursuit (30–31). He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
@@ -129,8 +164,14 @@ is carried back to Machpelah.
 - Blessed a second time, knowingly, and given *"the blessing of Abraham"* with the land attached;
   sent to Paddan Aram for a wife, silent throughout and carrying nothing the text names — Genesis
   28:1–5, [[Isaac Sends Jacob to Paddan Aram]]
-- The stairway at Bethel, and the promise given to him in his own right — Genesis 28:10–22
-  *(not yet ingested)*
+- Leaves Beersheba for Haran alone; runs into *the place* after sunset and sleeps on a stone —
+  Genesis 28:10–11, [[Jacob's Ladder at Bethel]]
+- The stairway, the angels, and God's first words to him: the promise given in his own right, with
+  *"I am with you … and will bring you again into this land"* attached — Genesis 28:12–15
+- *"Surely Yahweh is in this place, and I didn't know it"*; fear, and the naming of **Bethel** —
+  Genesis 28:16–19
+- Sets up his first pillar, pours the Bible's first oil on it, and vows the Bible's first vow — bread,
+  clothing, a safe return, and a tenth — Genesis 28:18–22
 - Married to Leah in Rachel's place, and serves fourteen years — Genesis 29:15–30 *(not yet ingested)*
 - Eleven sons and Dinah born in Paddan Aram — Genesis 29:31–30:24 *(not yet ingested)*
 - Leaves Laban under pursuit; the boundary heap at Galeed — Genesis 31 *(not yet ingested)*
@@ -160,6 +201,13 @@ is carried back to Machpelah.
   of the promise chapter 27 did not contain: *ʾĒl Šadday*, fruitfulness, a *company of peoples*, the
   land of his sojournings, and *"the blessing of Abraham"* by name. The only thing said about him
   from outside is Esau's observation that he *obeyed his father and his mother*
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10–22; **God addresses him for the first time**, without
+  condition and without mentioning the deception, and adds to the inherited promise the clauses that
+  make leaving the land survivable. He does not seek the place — *wayyipgaʿ*, he runs into it — and
+  confesses on waking that he did not know. His reply is the first vow in Scripture, which hands the
+  promises back with an *if*, narrows each, adds bread and clothing, and drops the land and the
+  nations. He says *my God* for the first time, raises his first pillar, and pours the Bible's first
+  oil
 
 ## Related people
 
@@ -173,7 +221,8 @@ is carried back to Machpelah.
 - [[Laban]] — his mother's brother, named in 25:20 for no reason this pericope needs; his employer,
   father-in-law, and the man who does the younger-for-elder substitution back to him
 - [[God]] — who names the outcome before the twins are born, speaks it to his mother rather than to
-  him, and does not address him until Bethel
+  him, and does not address him until Bethel, where the first thing he says is his own name and the
+  last thing he says is *"I will not leave you"*
 - [[Bethuel]] — his maternal grandfather
 
 ## Themes associated
@@ -188,3 +237,7 @@ is carried back to Machpelah.
 - [[Barrenness]]
 - [[Land and Sojourning]]
 - [[The Nations]]
+- [[Favor and Grace]]
+- [[Prophecy and Vision]]
+- [[The Fear of God]]
+- [[Tithing]]

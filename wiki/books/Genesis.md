@@ -294,7 +294,16 @@ even fratricidal betrayal into rescue (Joseph).
   Abraham"* with the land attached. **The covenant was not stolen; it is handed on here, deliberately,
   by the man who had already worked out that he was defrauded.** Esau, watching, reasons his way
   correctly to the family's actual policy and then marries a daughter of Ishmael **besides the wives
-  he had**, joining the two lines the promise had already passed over.
+  he had**, joining the two lines the promise had already passed over. Then, on the first night of
+  the journey, *[[Jacob's Ladder at Bethel]]* has **God speak to Jacob for the first time in his
+  life** — a stairway with its top in heaven, in the idiom Genesis used only of Babel's tower, and a
+  promise with no condition in it and **no mention of the deception four verses behind it.** The
+  inherited half is Abraham's: the land, narrowed to *"the land whereon you lie"*, the dust of 13:16,
+  and *"all the families of the earth"* in the exact wording of 12:3. The new half is what Jacob
+  specifically needs, because **he is the first bearer of the promise to leave the land carrying
+  it** — *I am with you, I will keep you wherever you go, I will bring you again into this land.* His
+  answer is the first vow in the Bible, which hands each promise back with an *if* on it, adds bread
+  and clothing, and drops the land and the nations altogether.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -346,7 +355,7 @@ merge, or reorder them freely.
 - [x] [[Isaac in Gerar]] — Genesis 26:1–35
 - [x] [[The Stolen Blessing]] — Genesis 27:1–45
 - [x] [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9
-- [ ] Jacob's Ladder at Bethel — Genesis 28:10–22
+- [x] [[Jacob's Ladder at Bethel]] — Genesis 28:10–22
 - [ ] Jacob, Leah, and Rachel — Genesis 29:1–30
 - [ ] The Birth of Jacob's Children — Genesis 29:31–30:24
 - [ ] Jacob's Flocks — Genesis 30:25–43

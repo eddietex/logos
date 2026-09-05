@@ -21,7 +21,9 @@ tags: [connection]
   second generation gets the stars and not the dust or the sand, in a speech that reuses every other
   clause of the promise unchanged — [[Isaac in Gerar]]
 - **Genesis 28:14** (to Jacob) — *"Your offspring will be as the dust of the earth, and you will
-  spread abroad to the west, and to the east, and to the north, and to the south."*
+  spread abroad to the west, and to the east, and to the north, and to the south."* **The third
+  generation is given the dust — the first image, not the second or the third — while lying in it**,
+  and it is the last of the three images to be issued in Genesis. See [[Jacob's Ladder at Bethel]].
 - **Genesis 32:12** (Jacob praying it back) — *"make your offspring as the sand of the sea, which
   can't be counted because there are so many."*
 - **Numbers 23:10** — *"Who can count the dust of Jacob, or count the fourth part of Israel?"*

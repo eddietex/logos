@@ -110,5 +110,13 @@ is the man God will only be approached through in chapter 42.
   intuition that drives Psalm 51:16–17, Jeremiah 31:33, and the Sermon on the Mount, and it is why
   the burnt offerings have to be repeated *continually*.
 
+- **And the first anointing has no office behind it either.** Genesis 28:18 has Jacob pour oil on a
+  stone at Bethel — **the first *šemen* in Scripture** — centuries before any priest, king, or vessel
+  is anointed, and God himself later refers to the act without qualification: *"where you anointed a
+  pillar"* (31:13). **Nothing is killed and nothing is burned**, which makes it the theme's cleanest
+  case: a cultic act performed correctly by a man who holds no position and has been given no rite.
+  See [[Jacob's Ladder at Bethel]] and
+  [[The Pillar Jacob Raised and the Pillars the Law Forbids]].
+
 Related: [[Sacrifice and Offering]] · [[Sin]] · [[Righteousness]] · [[A Pleasing Aroma]] ·
 [[Job of Uz]] · [[The Waters Recede]] · [[Cain and Abel]] · [[Job (person)]] · [[Job's Children]]

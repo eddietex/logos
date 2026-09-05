@@ -95,3 +95,8 @@ It also fixes what the symbol means. Babylon in Scripture is not principally a b
 or cruelty, or wealth, though it acquires all three. It is the name for a human project that
 organizes everything it has toward its own permanence and does not consult God, and its standing
 literary form is a construction site with the work stopped.
+
+Genesis's own counter-image to it arrives seventeen chapters later, and it is the reverse in every
+term: a structure nobody built, seen by a man asleep, whose top reaches heaven and which he calls
+*the gate of heaven* — the title the city on the plain had claimed and been refused. See
+[[Babel and the Gate of Heaven]].

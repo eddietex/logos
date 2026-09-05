@@ -142,6 +142,13 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   clearest case of the altar as a marker of a place God has been rather than as equipment for a rite
 - [[Sacrifice Before the Priesthood]] — the uncommanded offerings of Genesis and Job, and the
   household head who acts as priest with no law behind him
+- [[Jacob's Ladder at Bethel]] — Genesis 28:18: **a pillar and oil instead of an altar and a victim,
+  and nothing is killed.** Abraham built four altars and Isaac one; **Jacob raises a standing stone**
+  — the first of four — and pours ***šemen*** on it, which is **the first oil in the Bible** and the
+  first anointing in it, performed on a rock by a man with no office. Genesis 31:13 has God call it
+  exactly that: *"where you anointed a pillar."* The law will later hate standing stones outright
+  (Deuteronomy 16:22), which is a tension this wiki records without resolving; see
+  [[The Pillar Jacob Raised and the Pillars the Law Forbids]]
 
 ## Related themes
 

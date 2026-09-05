@@ -254,6 +254,14 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   carries the land, the fruitfulness, and offspring as a *qəhal ʿammîm*, and the man giving it has
   already reconstructed the fraud of the previous chapter out loud. **The covenant was not stolen**,
   which is what the wiki had flagged in advance at 27:27–29 and records here as delivered.
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13–15; **the covenant transmitted to the third generation
+  by God directly, with no human intermediary and no condition.** The inherited half is Abraham's
+  restated — the land, the **dust** of 13:16, and *"all the families of the earth"* in the exact
+  wording of 12:3, its fifth and last occurrence in Genesis. **The new half has no precedent**: *I am
+  with you*, *I will keep you wherever you go*, *I will bring you again into this land*, *I will not
+  leave you*. Those four exist because **Jacob is the first bearer of the promise to leave the land
+  carrying it**, and they are what makes the covenant portable. See
+  [[I Will Be With You - The Promise of Presence]].
 
 ## Related themes
 

@@ -472,6 +472,8 @@ and speaks in only the first of them.
 - Sends Jacob to Paddan Aram with *"the blessing of Abraham"*, knowingly this time; restates his
   father's marriage oath as his own command and reverses its one unreleased clause by sending the son
   himself — Genesis 28:1–5, [[Isaac Sends Jacob to Paddan Aram]]
+- Named second in God's self-introduction at Bethel, and his own *"I am with you"* from 26:3 and 26:24
+  is the phrase Jacob is given — Genesis 28:13, 15, [[Jacob's Ladder at Bethel]]
 - Dies at a hundred eighty — Genesis 35:28–29 *(not yet ingested)*
 
 ## Appears in
@@ -522,6 +524,11 @@ and speaks in only the first of them.
   clause of it that had no release — that the son must never make the journey — by sending Jacob
   himself, alone. **These are his last recorded words to Jacob**, and he does not speak again until
   his burial notice
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13, 15; **named, absent, and quoted.** God introduces
+  himself as *"the God of Abraham your father, and the God of Isaac"* — the second name in a formula
+  Exodus 3:6 completes — and **the clause he added to Isaac's own promise is the one Isaac had heard
+  twice**: *"I am with you"* (26:3, 24). Isaac had petitioned *ʾĒl Šadday* for all of this four
+  verses earlier; God grants it directly, and adds what Isaac did not think to ask
 
 ## Related people
 

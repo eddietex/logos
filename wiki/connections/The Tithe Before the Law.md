@@ -76,5 +76,11 @@ what he is entitled to and returns the other nine. What the law will later organ
 support for a landless tribe begins as a gesture by someone with no obligation, to a priest he had
 never met, on a day he had already decided to keep nothing.
 
-See [[The Rescue of Lot and Melchizedek]], [[Tithing]], [[Priesthood]], [[Melchizedek]], and
-[[Not a Thread nor a Sandal Strap]].
+**And the second tenth is the mirror image of the first.** Abram gives a tenth of what he already
+holds, to a priest standing in front of him, having just refused to keep anything for himself. Jacob
+pledges a tenth of what he does not yet have, to God directly, with no priest and no sanctuary, as
+the back half of a bargain that also asks for bread and clothing — and **Genesis never records him
+paying it.** Two tenths, and neither one looks like the practice the law will legislate.
+
+See [[The Rescue of Lot and Melchizedek]], [[Jacob's Ladder at Bethel]], [[Tithing]],
+[[Priesthood]], [[Melchizedek]], and [[Not a Thread nor a Sandal Strap]].

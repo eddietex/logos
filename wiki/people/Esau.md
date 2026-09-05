@@ -159,6 +159,10 @@ Israel."*
   draws is right: *"the daughters of Canaan didn't please Isaac, his father."* The remedy is not. He
   goes to Ishmael's house and marries [[Mahalath]], his first cousin out of the branch the covenant
   had already passed over, **and keeps the Hittite wives the correction was for**
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10–22; **named nowhere in it, and the reason for all of
+  it.** Genesis 35:7 supplies the gloss the passage itself withholds — God appeared to Jacob *"when he
+  fled from the face of his brother"* — and the promise Jacob receives at Bethel is given to a man
+  running from him
 
 ## Related people
 

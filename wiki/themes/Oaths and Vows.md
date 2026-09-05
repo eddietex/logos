@@ -125,6 +125,18 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   country (24:3–4); Isaac restates the same prohibition and the same destination to his son with no
   oath, no sanction, and no release — **and reverses the one clause Abraham refused to release**,
   that the son must never make the journey himself.
+- [[Jacob's Ladder at Bethel]] — Genesis 28:20–22, **the first *neder* in Scripture**, and the
+  institution enters the Bible in the mouth of a man negotiating. ***Wayyiddar Yaʿăqōb neder*** — the
+  cognate accusative the law will later legislate (Numbers 30; Deuteronomy 23:21–23) and Ecclesiastes
+  5:4–5 will warn about. **Its conditions are God's own unconditional promises, handed back with an
+  *if* on them**: *"If God will be with me, and will keep me in this way that I go … so that I come
+  again to my father's house in peace."* He **narrows** each — *wherever you go* becomes *this way
+  that I go*, *this land* becomes *my father's house* — **adds** two items God never mentioned, bread
+  and clothing, and **drops** the land, the offspring, and the nations entirely. The consideration is
+  a tenth. **Where the *if* stops and the *then* begins is undetermined in the Hebrew**: the WEB puts
+  *"and Yahweh will be my God"* inside the condition, the KJV and others begin the promise there, and
+  the wiki adopts neither. **Genesis 31:13 has God cite the vow back to him**, and 35:1 sends him to
+  keep it
 
 ## Related themes
 

@@ -90,6 +90,13 @@ of Jacob"* — and reasons that God *"is not the God of the dead, but of the liv
 is not lexical; it is exactly the psalms' move, that a covenant relationship implies its own
 continuation.
 
+**And Genesis shows the formula being assembled.** Its first two terms appear at 26:24, *"I am the
+God of Abraham your father"*, spoken to Isaac; the second is added at 28:13, *"the God of Abraham
+your father, and the God of Isaac"*, spoken to Jacob at Bethel; **the third name is earned in that
+verse and does not appear until Exodus 3:6.** The sentence Jesus argues from is built one patriarch
+at a time, across four hundred years of narrative, out of nothing more than God introducing himself
+to the next man in the line. See [[Isaac in Gerar]] and [[Jacob's Ladder at Bethel]].
+
 ## Significance
 
 The thread matters for reading Job honestly, and it cuts against the grain of how Job 19 is usually

@@ -77,6 +77,12 @@ builders get neither the name nor the unity they wanted. Three verses later God 
 project from the other end, unasked, with a childless man of seventy-five, and states the outcome as
 a promise rather than a plan.
 
+**And the pairing recurs, in the same book, over a different sleeper.** At Bethel God introduces
+himself before anybody names anything — *"I am Yahweh, the God of Abraham your father, and the God of
+Isaac"* — and the only name Jacob makes is for the ground: ***bêt ʾĕlōhîm***, house of God, which is
+the reverse of the house Babel wanted with its own name on it. See
+[[Jacob's Ladder at Bethel]] and [[Babel and the Gate of Heaven]].
+
 It also supplies the standing biblical answer to the ambition itself, which is not that greatness is
 wrong but that it is not something you can build for yourself. *"What do you have that you didn't
 receive?"* (1 Corinthians 4:7) is the same argument in one line, and Philippians 2 is the same

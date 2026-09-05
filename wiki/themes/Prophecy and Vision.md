@@ -145,6 +145,14 @@ happens.
   reads the whole scene as faith** — *"By faith Isaac blessed Jacob and Esau, concerning things to
   come"* — which is a striking verdict on a chapter in which the blesser did not know who he was
   talking to
+- [[Jacob's Ladder at Bethel]] — Genesis 28:12–15; **the first dream given to anyone inside the
+  covenant line**, and the beginning of the family Genesis will characterise by dreams. Not the
+  book's first dream — [[Abimelech (of Abraham's time)]] had one at 20:3, and it went to a foreigner —
+  but the first that carries the promise, and after it the mode never stops: Jacob again at 31:10–13,
+  Laban at 31:24, Joseph twice, a cupbearer, a baker, and a Pharaoh. **And it is unsought.** The
+  ancient practice of sleeping at a shrine to solicit a dream is available to this story and Genesis
+  refuses it: *wayyipgaʿ*, he runs into the place, stops because it is dark, and discovers afterwards
+  what he was lying on
 
 ## Related themes
 

@@ -906,6 +906,13 @@ arrive.
   Galatians 3:14. The land was given to *him*. And the marriage rule Isaac issues as a command is
   *his oath* at 24:3, restated almost word for word — with the one clause he refused to release, that
   his son must never make the journey, reversed by his son for his grandson
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13–14; **God names himself by him first** — *"I am
+  Yahweh, the God of Abraham your father"* — and the formula being assembled here reaches its final
+  form at Exodus 3:6 and is the sentence Jesus argues the resurrection from at Matthew 22:32. The
+  land grant, the **dust** of 13:16, and *"all the families of the earth"* in the exact wording of
+  12:3 are all his, restated to his grandson. **And the site is his**: he pitched between Bethel and
+  Ai and built an altar there at 12:8, came back to it at 13:3–4, and **Genesis never says whether
+  Jacob knew**
 
 ## Related people
 

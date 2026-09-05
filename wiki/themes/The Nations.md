@@ -196,6 +196,14 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   and ***qāhāl*** here is **its first occurrence in the Hebrew Bible** — the assembly word the
   Septuagint renders *ekklēsia*, appearing first as a father's wish over a fugitive. God grants it in
   the same terms at 35:11, *"a nation and a company of nations."*
+- [[Jacob's Ladder at Bethel]] — Genesis 28:14: ***"In you and in your offspring will all the families
+  of the earth be blessed"* — the fifth and last statement of the promise to the nations in Genesis**
+  (12:3, 18:18, 22:18, 26:4, 28:14), and **the only one after the first to use the first one's
+  noun.** 12:3 and 28:14 both have ***mišpəḥōt hāʾădāmâ***, *the families of the earth*; 22:18 and
+  26:4 have *the nations of the earth*. The promise ends, verbally, where it began — in the mouth of
+  the grandson. And the same verse promises Jacob ***ûpāraṣtā***, bursting out in four directions:
+  **the scattering Babel organised a civilisation to prevent, given as a blessing.** See
+  [[Babel and the Gate of Heaven]].
 
 ## Related themes
 

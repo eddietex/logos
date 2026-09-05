@@ -47,12 +47,24 @@ armies keep passing through it.
 The arc from 12:8 to 2 Kings 23 is the reason Bethel is worth a page in its own right. It is
 Scripture's standing demonstration that a place where God really did appear can become the thing
 most needing to be pulled down, and that the name it keeps the whole way through is *house of God*.
+The arc is set out in full at [[Bethel from Jacob's Pillar to Jeroboam's Calf]].
+
+**And the last word on it is a census number.** Ezra 2:28 counts two hundred and twenty-three men of
+Bethel and Ai among the returnees, and Nehemiah 11:31 has Benjaminites living there. No sanctuary, no
+altar, no comment: the gate of heaven finishes the Old Testament as a town on a ridge.
 
 ## Appears in
 
 - [[The Call of Abram]] — Genesis 12:8, the ridge Abram pitches on and his second altar
 - [[Abram and Lot Separate]] — Genesis 13:3–4, the altar he comes back to after Egypt and calls on
   Yahweh's name at a second time
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10–22, **where it gets the name.** Jacob runs into the
+  site after dark — ***wayyipgaʿ bammāqôm***, he does not choose it — sleeps on one of its stones,
+  and wakes saying *"Surely Yahweh is in this place, and I didn't know it … This is none other than
+  God's house, and this is the gate of heaven."* **The narrator has been calling it Bethel since
+  12:8**, and this verse admits it: *"the name of the city was Luz at the first."* Six occurrences of
+  ***māqôm*** in twelve verses, which is the Hebrew word for a sanctuary site, applied to a field
+  before anybody knows it is one
 
 ## Related places
 
@@ -67,7 +79,8 @@ most needing to be pulled down, and that the name it keeps the whole way through
   [[The Call of Abram]]
 - Abram returns to the same altar after Egypt and calls on Yahweh's name — Genesis 13:3–4,
   [[Abram and Lot Separate]]
-- Jacob's dream of the ladder, and the naming of the place — Genesis 28:10–22 *(not yet ingested)*
+- Jacob's dream of the stairway, the pillar and the oil, the vow, and the naming of the place —
+  Genesis 28:10–22, [[Jacob's Ladder at Bethel]]
 - Jacob builds the altar he was sent back for — Genesis 35:1–15 *(not yet ingested)*
 - Jeroboam sets up a golden calf — 1 Kings 12:28–29
 - Amos is expelled by Amaziah its priest — Amos 7:10–13

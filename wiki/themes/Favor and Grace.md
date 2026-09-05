@@ -106,6 +106,12 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   asked for by a slave on his master's behalf, twice paired with *ʾemet* — ***ḥesed we-ʾemet***, the
   pair God will use of himself at Exodus 34:6 — and once the request is granted it becomes the word
   he thanks God in
+- [[Jacob's Ladder at Bethel]] — Genesis 28:13–15: **the most one-sided speech in the Jacob cycle,
+  made over the least deserving man in it, on the night he is running away.** No *if*, no
+  requirement, no rebuke, and no mention of the deception four verses behind it. The vocabulary of
+  favour is absent — neither *ḥēn* nor *ḥesed* appears — and what the passage supplies instead is the
+  structure of it: **everything given, nothing asked, and the recipient asleep.** His answer is to
+  hand the promises back with an *if* on them, and Genesis records no divine reaction to that either
 
 ## Related themes
 

@@ -847,6 +847,51 @@ holds even when it was obtained by fraud, and the man who was defrauded is the o
 the third generation directly, for the first time, to a man running from a brother who wants to kill
 him.
 
+### He commits to everything and asks for nothing — Genesis 28:10–22
+
+**The most one-sided speech he makes in the Jacob cycle is made over the least deserving man in it,
+on the night he is running away.**
+
+**There is no condition in it, and no reference to the last chapter.** No *if*, no requirement, no
+mention of the goatskins, the lie, or the brother — and no rebuke. **The wiki records the absence
+rather than filling it**: Genesis neither excuses the deception nor makes the promise contingent on
+anything, and it does not explain the omission.
+
+**He introduces himself, which he has not had to do before.** *"I am Yahweh, the God of Abraham your
+father, and the God of Isaac"* — and **the formula is being assembled in front of the reader.** It
+reaches its final shape at Exodus 3:6, *the God of Abraham, the God of Isaac, and the God of Jacob*,
+which is the name he gives Moses at the bush and the sentence Jesus argues the resurrection from
+(Matthew 22:32). **The third name in that formula is earned in this verse.**
+
+**What he gives divides in two.** The inherited half is Abraham's, restated: the land — narrowed,
+startlingly, to ***"the land whereon you lie"***, the patch of ground under a sleeping man, against
+the four horizons Abram was told to look across at 13:14 — the **dust** of 13:16, and ***"all the
+families of the earth"***, which is the exact wording of 12:3 and its **fifth and last occurrence in
+Genesis.** The new half is four clauses none of the patriarchs before Jacob received:
+
+| | |
+|---|---|
+| ***hinnēh ʾānōkî ʿimmāk*** | *behold, I am with you* |
+| ***ûšmartîkā bəkōl ʾăšer tēlēk*** | *and will keep you, wherever you go* |
+| ***wahăšibōtîkā*** | *and will bring you again into this land* |
+| ***lōʾ ʾeʿĕzobkā*** | *I will not leave you* |
+
+**They exist because of the recipient's situation.** Abraham was called into the land; Isaac was
+forbidden to leave it. **Jacob is the first bearer of the promise to carry it out of the country**,
+and everything added here is about absence. See
+[[I Will Be With You - The Promise of Presence]].
+
+**He is also, for the first time in the book, positionally ambiguous.** ***Niṣṣāb ʿālāyw*** — *stood
+above it*, over the stairway, or *stood beside him*, over Jacob; the Hebrew allows both and the WEB
+takes the first. **The angels are his and are not him** — *malʾăkê ʾĕlōhîm*, plural, silent, and
+distinct from the singular [[The Angel of Yahweh]] who spoke to Hagar and stopped a knife.
+
+**And he says nothing about the vow that answers him.** Jacob hands the promises back with an *if* on
+them, narrows them, and adds bread and clothing; **Genesis records no divine response.** The reply
+comes twenty years late and from an unexpected direction: at 31:13 he identifies himself by Jacob's
+own stone — *"I am the God of Bethel, where you anointed a pillar, where you vowed a vow to me"* —
+and at 35:1 he sends him back to keep it. See [[Jacob's Ladder at Bethel]] and [[Favor and Grace]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -1005,6 +1050,15 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Invoked as ***ʾĒl Šadday*** at the second, knowing transfer of the promise — asked to bless, make
   fruitful, multiply, and give *"the blessing of Abraham"* — and he neither speaks nor appears
   — Genesis 28:3–4, [[Isaac Sends Jacob to Paddan Aram]]
+- Stands over a stairway in a dream and speaks to Jacob for the first time in his life: names
+  himself by two ancestors, grants the ground the man is lying on, restates the dust and *"all the
+  families of the earth"* in the wording of 12:3, and adds four clauses about absence — *I am with
+  you*, *I will keep you wherever you go*, *I will bring you back*, *I will not leave you*. **No
+  condition, no rebuke, and no mention of the deception** — Genesis 28:13–15,
+  [[Jacob's Ladder at Bethel]]
+- Says nothing in reply to the vow that answers him; identifies himself twenty years later by Jacob's
+  own stone, *"I am the God of Bethel, where you anointed a pillar"* — Genesis 31:13
+  *(not yet ingested)*
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -1046,6 +1100,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   not a report**: he does not speak, appear, or act anywhere in these nine verses. Four verses later,
   on a road out of Beersheba, he grants every item of it directly and unasked, and adds one Isaac did
   not think to request — *"Behold, I am with you, and will keep you, wherever you go"*
+- [[Jacob's Ladder at Bethel]] — Genesis 28:10–22; **he speaks to the third patriarch directly for
+  the first time, and the speech has no condition in it and no reference to chapter 27.** He
+  introduces himself by the names of Abraham and Isaac — the formula Exodus 3:6 completes and Matthew
+  22:32 argues the resurrection from — grants *"the land whereon you lie"*, restates the dust of
+  13:16 and *"all the families of the earth"* in the exact wording of 12:3, and then adds what no
+  patriarch before Jacob had been given: presence *wherever you go*, keeping, and a return. **He
+  makes no answer to the vow Jacob offers back**, and his next word on it, twenty years later, is to
+  call himself *the God of Bethel*
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]
