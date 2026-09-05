@@ -102,4 +102,3 @@ took at 27:19–24. Neither man in the exchange has any standing.
   state the ordinary rule out loud — *the younger is not given before the firstborn* — and the man
   who hears it is the standing exception to it. See [[Birthright and the Firstborn]] and
   [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]].
-</content>

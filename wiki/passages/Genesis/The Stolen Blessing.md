@@ -801,5 +801,3 @@ alone, on a road north. See
   Laban's substitution (29:21–27); the Jabbok, where a blessing is demanded instead of stolen (32:26);
   the reconciliation (33:1–4); and the coat and the goat (37:31–33). All are referenced and none is
   developed. **No dangling links were left.**
-</content>
-</invoke>

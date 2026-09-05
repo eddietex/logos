@@ -113,4 +113,3 @@ person who wants it changed is the one who has to live with it. See
   gets eight verses; Jacob loses twenty years, his mother, and eventually a hip. **The word stands
   and the cost is charged**, and Genesis holds both without reconciling them. See [[Deception]] and
   [[Retribution]].
-</content>

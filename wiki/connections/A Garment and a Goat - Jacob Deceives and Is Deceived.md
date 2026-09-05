@@ -93,4 +93,3 @@ changes of clothing (45:22) in the chapter where he stops hiding. See [[Nakednes
   Laban substituting the elder daughter for the younger (29:23–26), and Judah being told *"She is
   more righteous than I"* by a woman who used a veil and a pledge (38:26). See
   [[The Younger Before the Firstborn - Jacob and Laban]].
-</content>
