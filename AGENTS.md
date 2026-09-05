@@ -26,11 +26,14 @@ raw/
 scripts/
   fetch-book.sh            pulls one book's WEB text from bible-api.com into raw/bible/
   link-check.sh            both wikilink checks (see `## Link checks` below)
+  git-preflight.sh         puts the session on `main` at `origin/main` before any work starts
+                           (see `## Branch state` below)
 templates/                 one template per wiki page type (see below)
 .claude/skills/ingest/     the `/ingest` skill — resolves the next pericope, then runs the
                            ingest workflow below; `/ingest auto` runs it unattended
-.claude/settings.json      permission allowlist that lets an unattended run commit and push on
-                           its own
+.claude/hooks/             `session-start.sh`, the SessionStart hook that runs git-preflight.sh
+.claude/settings.json      the hook registration, and the permission allowlist that lets an
+                           unattended run do its own git
 wiki/
   index.md                 top-level dashboard, links out to the five category indexes
   log.md                   append-only chronological record of every operation
@@ -287,6 +290,43 @@ for a later pericope, which belongs in the ingest's log entry.
 Note that check 2 cannot find what check 1 finds: a wrapped link is not a malformed link, it is
 not a link at all, so nothing that searches for `[[...]]` will ever see it. That is why the script
 runs both, and why a clean check 2 is never grounds for skipping check 1.
+
+## Branch state
+
+A scheduled run's container checks the repo out on a **detached HEAD** rather than on `main`, and
+its cached clone carries a local `main` ref frozen many commits back — it read as 29 commits stale
+by the time this was written, and it grows by one every direct push. On a detached HEAD there is no
+current branch, so `git push` and `git pull --rebase` both fail outright, which is why the ingest
+skill's step 0.5 exists.
+
+```bash
+scripts/git-preflight.sh
+```
+
+It puts the session on `main` tracking `origin/main`. `.claude/hooks/session-start.sh` runs it at
+session start, so it is normally a no-op by the time an ingest reaches step 0.5 — run it there
+anyway rather than assuming, because an ingest built on the wrong base is discovered at push time,
+after all the work is done.
+
+Every path through it is non-destructive: `main` moves only to a commit git has confirmed loses
+nothing (`git merge-base --is-ancestor`), the working tree is touched only when clean, and a
+feature branch is left alone. It exits non-zero for exactly the two states it must not resolve on
+its own — a dirty tree blocking the checkout, and a HEAD diverged from `origin/main` — having
+changed nothing. Both are for the user, not for an unattended run.
+
+**Two rules follow from this, and they are load-bearing:**
+
+- **Push by name — `git push origin main`, never a bare `git push`.** A bare push follows whatever
+  branch the container created. When that was a per-run throwaway branch, three separate ingests of
+  Genesis 9:1–17 landed on three branches nobody merged, and were redone by hand; two connection
+  pages from the recovery attempt are still not on `main`.
+- **Never run `git checkout -B main origin/main` after committing.** On a detached HEAD it discards
+  the commit you just made. Moving the branch belongs to the preflight, before the work.
+
+The state of the branch is not worth a paragraph in `wiki/log.md`. It was recorded in fifteen
+consecutive ingest entries, each one concluding it had cost nothing; the three stranded branches
+say otherwise. `wiki/log.md` is a record of the wiki's content — if the preflight reports something
+it could not resolve, that belongs in the report to the user, not in the log.
 
 ## Log format
 

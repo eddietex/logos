@@ -32,8 +32,40 @@ treat whatever follows as the target. In unattended mode:
 Without the keyword, run interactively: the discussion in step 2 happens as written, and a real
 ambiguity is worth a question.
 
-Everything else — steps 1 through 5 below, and the whole `AGENTS.md` workflow — is identical in
+Everything else — steps 0.5 through 5 below, and the whole `AGENTS.md` workflow — is identical in
 both modes.
+
+## 0.5 Get onto `main` before anything else
+
+```
+scripts/git-preflight.sh
+```
+
+Run this **first, before reading anything or writing a single page.** A scheduled run's container
+checks the repo out on a **detached HEAD** rather than on `main`, and its cached clone carries a
+local `main` ref frozen many commits back. On a detached HEAD there is no current branch, so both
+of the git commands this skill used to end on fail outright:
+
+```
+git push          → fatal: You are not currently on a branch.
+git pull --rebase → You are not currently on a branch.
+```
+
+The script puts the session on `main` tracking `origin/main`, and it is safe in every state: it
+moves `main` only to a commit git has confirmed loses nothing, touches the working tree only when
+it is clean, and leaves a feature branch alone entirely. It prints one line saying what it did.
+The `SessionStart` hook in `.claude/hooks/` already runs it, so in a normal session this step is a
+confirming no-op — run it anyway, because the ingest must not be built on a base you have not
+checked.
+
+**If it exits non-zero, stop and report.** It exits non-zero only for the two states it must not
+resolve on its own — a tree dirty in a way that blocks the checkout, and a HEAD that has diverged
+from `origin/main` — and in both it has changed nothing. Resolving a divergence unattended is
+worse than leaving it for the user.
+
+**Never run `git checkout -B main origin/main` yourself after committing.** On a detached HEAD
+that command discards the commit you just made, silently and unrecoverably from the log alone.
+Moving the branch is the preflight's job, it happens before the work, and it never happens twice.
 
 ## 1. Resolve the target
 
@@ -130,20 +162,27 @@ git commit -m "$(cat <<'EOF'
 Co-Authored-By: <the agent running this skill>
 EOF
 )"
-git push
+git push origin main
 ```
 
-Subject line follows the existing history: `Genesis 1.1-2.3 ingested`. Commit and push on the
-current branch. Fill the `Co-Authored-By:` trailer with your own agent identity — name and
-contact address — not a hardcoded one; drop the line entirely if your harness already appends
-its own trailer.
+Subject line follows the existing history: `Genesis 1.1-2.3 ingested`. Fill the
+`Co-Authored-By:` trailer with your own agent identity — name and contact address — not a
+hardcoded one; drop the line entirely if your harness already appends its own trailer.
+
+**Push to `origin main` by name, never a bare `git push`.** The wiki lives on `main` and nowhere
+else. A bare push follows whatever branch the container happens to have created, and when that was
+a per-run throwaway branch it silently landed three separate ingests on three branches nobody ever
+merged — `61a0c63`, `02b94e3` and `11a71f6`, all of them `Genesis 9.1-17 ingested`. Naming the
+refspec is what makes that impossible rather than unlikely.
 
 If `git status` is dirty *before* you start — uncommitted work from a previous run or from the
 user editing in Obsidian — commit it separately first with its own message, so the ingest commit
 stays just the ingest.
 
 **If the push is rejected** because the remote has moved ahead — the user pushing Obsidian edits
-from another machine is the usual cause — run `git pull --rebase` and push again. If that also
+from another machine is the usual cause — run `git pull --rebase origin main` and push again.
+Name the remote and branch here too: bare `git pull --rebase` needs an upstream, and the whole
+point of step 0.5 is that you cannot assume the session started with one. If the rebase also
 fails, stop and report it. The commit is safe on the local branch, and a scheduled run resolving a
 merge conflict unattended is worse than one that leaves the conflict for the user.
 
