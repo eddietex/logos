@@ -70,15 +70,50 @@ will let one sister be married in another's place (29:23–25).
 name three years on. Genesis reports the succession in eleven words, and adds the sentence that is
 **the first time in the Bible a husband is said to love his wife**.
 
+### In this pericope — Genesis 25:19–34
+
+**Barren for twenty years, and Genesis reports the whole of it in a subordinate clause.** Isaac was
+forty when he took her (25:20) and sixty when she bore (25:26); between those two numbers there is
+one verse, and in it her husband prays and she conceives. **No complaint from her is recorded, no
+substitute wife is taken, and there is no household quarrel** — the book told that story at full
+length for Sarah and declines to tell it again. See [[The Barren Matriarchs]].
+
+**Then the pregnancy goes wrong and she speaks for the first time since *"I will go."*** *"The
+children struggled together within her"* — *wayyitrōṣăṣû*, from a root for **crushing** — *"She said,
+'If it is so, why do I live?'"* The Hebrew is four words with **no verb in them**:
+***ʾim-kēn lāmmâ zeh ʾānōkî***, *if so, why this — I?* Every version supplies something; the WEB's
+rendering is the strongest available, and the wiki records that the Hebrew does not settle it. What
+is not in doubt is that the last thing she said was one word of consent to a journey, and the next
+thing she says is a question about whether the journey was worth making.
+
+***"She went to inquire of Yahweh."*** ***Lidrōš ʾet-YHWH*** — **the first occurrence in the Bible of
+the idiom that becomes the standard Old Testament phrase for seeking an oracle.** Genesis does not
+say where she went, whom she asked, or what the procedure was: no altar, no priest, no shrine, no
+messenger. **And nobody sent her.** Isaac prayed for the pregnancy; the inquiry about it is entirely
+her own, and he is not in the verse.
+
+**She receives the only divine speech in the pericope, and she hears from God before her husband
+does.** Yahweh does not address Isaac until 26:2, a chapter and a famine later. **The second matriarch
+is given four lines of poetry about the future of two nations at a point when the second patriarch has
+never been spoken to at all.** She is also the second woman in Genesis told what her unborn son will
+be, and the first was [[Hagar]] — a runaway slave, at a spring, three chapters into the cycle. See
+[[Prophecy and Vision]] and
+[[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]].
+
+**And the last thing said about her here is a preference with no reason attached.** *"Now Isaac loved
+Esau, because he ate his venison. Rebekah loved Jacob"* (25:28). **Isaac's motive is given, and it is
+faintly ridiculous; hers is not given at all** — and a reader four verses from the oracle can supply
+one the narrator will not. It is the first stated parental favouritism in Scripture, and it splits the
+household that chapter 27 then blows apart.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-She is barren for twenty years (25:21), is the only woman in Genesis to receive an oracle about her own pregnancy — *"Two nations are in your womb …
-The elder will serve the younger"* (25:23) — and is the only matriarch whose favouritism the
-narrator states outright: *"Rebekah loved Jacob"* (25:28). She engineers the stolen blessing in
-chapter 27, sends Jacob away to save his life, and never sees him again. Genesis records no death
-scene for her; she is named only as an occupant of the grave, in Jacob's instructions at 49:31.
+She is called Isaac's sister before Abimelech, the third of the wife-sister episodes (26:7). She
+engineers the stolen blessing in chapter 27, sends Jacob away to save his life, and never sees him
+again. Genesis records no death scene for her; she is named only as an occupant of the grave, in
+Jacob's instructions at 49:31.
 
 **She and Isaac are the only patriarchal couple in Genesis with no second woman in the household**,
 and Genesis 26:8 gives them the one glimpse of affection in the cycle — *"Isaac was caressing
@@ -100,8 +135,13 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - Off-stage while Abraham dies and Isaac inherits everything; on the book's arithmetic she has been
   married thirty-five years at that point and has no children — Genesis 25:5–11,
   [[The Death of Abraham and the Line of Ishmael]]
-- Barren twenty years; Isaac prays and she conceives — Genesis 25:21 *(not yet ingested)*
-- Receives the oracle of the two nations — Genesis 25:23 *(not yet ingested)*
+- Barren twenty years; Isaac prays and she conceives — Genesis 25:21,
+  [[Jacob and Esau and the Sold Birthright]]
+- Asks *"If it is so, why do I live?"* and goes to inquire of Yahweh, in the Bible's first use of
+  that idiom — Genesis 25:22
+- Receives the oracle of the two nations, a chapter before God speaks to her husband — Genesis 25:23
+- Bears twins at Isaac's sixtieth year; loves Jacob, for no reason the narrator gives — Genesis
+  25:24–28
 - Called Isaac's sister before Abimelech, the third wife-sister episode — Genesis 26:7
   *(not yet ingested)*
 - Devises the stolen blessing and sends Jacob to Haran — Genesis 27:5–17, 42–46 *(not yet ingested)*
@@ -119,6 +159,10 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–18; off-stage, and the reason the
   next pericope exists: her husband inherits everything, is blessed by God, and settles at a desert
   well, and the childlessness the book opens on at 25:21 is already thirty-five years old
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; barren twenty years in one verse,
+  then the pericope's centre: she asks a question the Hebrew leaves without a verb, goes to inquire of
+  Yahweh on nobody's instruction, receives the only divine speech in the passage a chapter before her
+  husband is spoken to at all, and loves the younger son without a reason given
 
 ## Related people
 
@@ -133,6 +177,11 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[Abraham]] — her great-uncle, and her father-in-law
 - [[Sarah]] — her mother-in-law, who dies before she is fetched; Genesis 24:67 says Isaac was
   comforted after his mother's death, which is the only thing it ever puts between the two women
+- [[Jacob]] — her younger son, whom she loves for no stated reason, and whom she will dress in his
+  brother's clothes and then send four hundred miles away to keep alive
+- [[Esau]] — her elder son, ranked below his brother in the oracle she is given before either is born
+- [[Hagar]] — the only other woman in Genesis told what her unborn son will become, three chapters
+  into the cycle and at a spring in the desert
 
 ## Themes associated
 
@@ -144,3 +193,6 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[Blessing]]
 - [[Deception]]
 - [[Call and Election]]
+- [[Prophecy and Vision]]
+- [[Birthright and the Firstborn]]
+- [[Strife and Peacemaking]]

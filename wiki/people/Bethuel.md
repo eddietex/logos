@@ -54,8 +54,9 @@ follow too.
 - Answers the servant jointly with Laban, in the only words attributed to him — Genesis 24:50
 - Not named in the verse that distributes the gifts, nor in the one that asks for a delay —
   Genesis 24:53, 55
-- Called *the Aramean*, and named as the father of Rebekah and of Laban — Genesis 25:20; 28:5
-  *(not yet ingested)*
+- Called *the Syrian* — *the Aramean* — and named as the father of Rebekah, in the pedigree at the
+  head of Isaac's *toledot* — Genesis 25:20, [[Jacob and Esau and the Sold Birthright]]
+- Named again as Jacob is sent back to his house for a wife — Genesis 28:2, 5 *(not yet ingested)*
 
 ## Appears in
 
@@ -63,6 +64,8 @@ follow too.
   clause the list was assembled to deliver
 - [[A Wife for Isaac]] — Genesis 24:15, 24, 50; alive, present, and named second, in the chapter that
   turns on his daughter and hands the negotiation to his son
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:20; off-stage, and named in a pedigree the
+  reader already has, because the *toledot* form files a generation with its parentage
 
 ## Related people
 
@@ -75,6 +78,9 @@ follow too.
 - [[Laban]] — his son, who answers before him at 24:50 and takes the gifts at 24:53
 - [[Abraham's Servant]] — the envoy who came to deal with him and dealt with his son
 - [[Reumah]] — his father's concubine, and the mother of four of his half-brothers
+- [[Jacob]] — his grandson, sent back to his house for a wife two generations after his daughter left
+  it
+- [[Esau]] — his grandson, who marries outside the family and grieves his parents for it
 
 ## Themes associated
 

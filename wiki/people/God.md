@@ -711,6 +711,43 @@ the one divine act in it is reported in a subordinate position, between a funera
 
 See [[The Death of Abraham and the Line of Ishmael]] and [[Blessing]].
 
+### He answers a prayer and tells a woman what her sons will be — Genesis 25:19–34
+
+**He does two things in this pericope and speaks only once, to Rebekah.**
+
+**First he is *entreated*, and the verb is the whole report.** *"Isaac entreated Yahweh for his wife,
+because she was barren. Yahweh was entreated by him"* (25:21) — ***wayyeʿtar … wayyēʿāter lô***, the
+same root active and then passive, and **the first occurrence of *ʿātar* in the Bible.** No speech is
+quoted, no appearance is made, no promise is cited. **Twenty years of a barren womb end in a
+grammatical form.** See [[Prayer]] and [[The Barren Matriarchs]].
+
+**Then he speaks — four lines of poetry, to a woman, at a place the text does not name.**
+
+> **23** Yahweh said to her, “Two nations are in your womb. Two peoples will be separated from your
+> body. The one people will be stronger than the other people. The elder will serve the younger.”
+
+**Three things about that speech are worth separating.**
+
+- **It comes to [[Rebekah]], and he has still never spoken to [[Isaac]].** The first divine word to
+  the second patriarch waits until 26:2, after a famine. **The matriarch is given the future of two
+  nations a chapter before her husband is addressed at all**, and she is the second woman in Genesis
+  to receive an annunciation — the first was [[Hagar]], a runaway slave, at a spring (16:11–12).
+- **She had to go and ask.** *"She went to inquire of Yahweh"* — ***lidrōš ʾet-YHWH***, **the Bible's
+  first use of that idiom**, and Genesis records no altar, no priest, no shrine, and no messenger.
+  He answers a question that was put to him by someone nobody sent.
+- **The choice is announced before either child has done anything.** Not merit, not age, not the
+  mother's standing, not a response of faith — and no reason at all is given. It is the sharpest
+  instance in Genesis of the pattern he set at 17:20–21, and Paul's summary of the silence is
+  accurate: *"not yet born, neither having done anything good or bad"* (Romans 9:11). See
+  [[Call and Election]] and
+  [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]].
+
+**And then he is absent for the rest of it.** The characterisation, the favouritism, the stew, the
+oath, and the sale all happen with no divine word, no divine act, and no comment. **The narrator
+passes the only verdict in the pericope** (25:34), and it is not attributed to God.
+
+See [[Jacob and Esau and the Sold Birthright]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -872,6 +909,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   all**: *"After the death of Abraham, God blessed Isaac, his son."* The first act he is ever
   recorded directing at Isaac, a blessing rather than a covenant word, in the only pericope in the
   Abraham cycle where nobody speaks
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:21, 23; *entreated* in the Bible's first use
+  of *ʿātar*, and then four lines of poetry spoken to Rebekah at her own inquiry — the only divine
+  speech in the pericope, delivered to the matriarch a chapter before he addresses the patriarch, and
+  ranking two children before either has done anything
 - [[The Creation of the World]]
 - [[The Garden of Eden]]
 - [[The Fall]]
@@ -991,6 +1032,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Isaac]] — named and dated by him a year before conception, and the one the covenant is
   established with
 - [[Sarah]] — the only woman in the Bible he renames, and the only one promised nations and kings
+- [[Rebekah]] — who goes to inquire of him unbidden, and to whom he speaks the only oracle in Genesis
+  about a pregnancy already under way
+- [[Jacob]] — ranked above his twin before birth, and not addressed directly until Bethel
+- [[Esau]] — ranked below his twin before birth, and never spoken to in Genesis
 - [[Shem]], [[Ham]], and [[Japheth]] — carried through the flood with their father, and the three
   from whom he repopulates the earth
 - [[Job (person)]] — who accuses him, appeals to him, and is finally answered by him, and of whom he

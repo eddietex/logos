@@ -127,6 +127,15 @@ happens.
   Ezekiel hundreds of times, marking a prophet quoting God, is used once in the Torah's first book,
   and it is spoken by an angel who is already speaking in God's first person. The chapter also
   carries two of the book's three voices *out of the sky* (22:11, 15)
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:22–23, **the Bible's first *inquiry of Yahweh*, and
+  its answer.** ***Lidrōš ʾet-YHWH*** — *to seek Yahweh* — is the standard Old Testament expression
+  for going to get an oracle (1 Samuel 9:9; 1 Kings 22:8; 2 Kings 22:13), and **this is where it
+  enters Scripture.** Everything about the mechanics is withheld: Genesis names no altar, no priest,
+  no shrine, no messenger, and no place. What it does report is that **the inquirer is a woman, that
+  nobody sent her, and that she is answered in poetry** — four lines about two nations, delivered to
+  Rebekah a full chapter before God says anything to her husband. It is the second and last
+  annunciation to a woman in Genesis; the first was [[Hagar]]'s at 16:11–12, also in poetry, also
+  about a son's relation to his brothers, and also given to someone with no standing to ask
 
 ## Related themes
 

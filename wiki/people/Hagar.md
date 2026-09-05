@@ -112,6 +112,12 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
   signs. See [[Circumcision, the Sign of the Covenant]].
 - **Genesis 25:12** — named one last time, in the heading of Ishmael's *toledot*: *"whom Hagar the
   Egyptian, Sarah's servant, bore to Abraham"*. Still the Egyptian, still the servant.
+- **Genesis 25:22–23** — not present, and the only comparison the wiki has for what happens there.
+  [[Rebekah]] goes to inquire of Yahweh and is told in poetry what her unborn sons will be. **Hagar
+  is the only other woman in Genesis given an annunciation** (16:11–12) — also in poetry, also about a
+  son's relation to his brothers — and hers came first, at a spring, to a runaway with no standing to
+  ask. **The two annunciations to women in this book are to a matriarch and to a slave.** See
+  [[Jacob and Esau and the Sold Birthright]].
 - **Galatians 4:21–31** — Paul's allegory, the only mention of her in the New Testament, in which she
   stands for Sinai, slavery, and the present Jerusalem. It is an argument about covenants that uses
   her name, not a reading of her story. See [[Hagar and Sarah in Galatians]].

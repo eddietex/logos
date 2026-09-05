@@ -107,3 +107,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]] | prophecy → fulfillment | Genesis 15:15 · Genesis 25:7–10 · Genesis 47:9 · Job 42:17 · Hebrews 11:13 |
 | [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 |
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
+| [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
+| [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
+| [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |

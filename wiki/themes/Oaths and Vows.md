@@ -104,6 +104,13 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 - Genesis 24:2–9 — the master–servant oath, with the gesture the Bible uses twice, a stated sanction,
   a release clause for one term and none at all for the other, and a swearer who negotiates before he
   swears; see [[A Wife for Isaac]] and [[Put Your Hand Under My Thigh]]
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:33, **the third oath in four chapters and the
+  only one sworn between brothers.** *"Jacob said, 'Swear to me first.' He swore to him."* No God is
+  invoked, no gesture is described, no sanction is stated, and no witness is present — **it is the
+  barest oath in Genesis**, and it is the one that does the most work: it converts a famished man's
+  shrug into an irrevocable transfer of an inheritance. The two before it were extracted by Abraham
+  from a servant (24:3) and sworn to a king (21:24); **this one is extracted by a younger brother
+  from an elder, at a cooking pot, and the narrator does not comment on it**
 
 ## Related themes
 

@@ -97,6 +97,14 @@ the land.
   the only one in which he neither concedes nor argues but files a complaint and takes a settlement.
   See also [[The Wells of Abraham and the Wells of Isaac]] for the dispute's second run, a generation
   later, at the same well
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:22–34; **the theme relocated inside a
+  body.** *"The children struggled together within her"* — *wayyitrōṣăṣû*, from *rāṣaṣ*, the verb for
+  **crushing** — and the oracle explains the sensation by forecasting two nations. Then the strife is
+  institutionalised by the parents: *"Isaac loved Esau … Rebekah loved Jacob"* (25:28), **the first
+  stated parental favouritism in Scripture**, with a reason given for one side and none for the other.
+  And then it is transacted: a price named to a starving man, an oath extracted, and an inheritance
+  moved. **Nobody in this pericope makes peace** — Abram at 13:8–9 ended a quarrel by conceding what
+  was his, and here his grandson ends one by taking what was not
 - Genesis 26:17–22 — Isaac's wells, conceded twice *(not yet ingested)*
 - Genesis 31:44–54; 32–33 — Laban's heap, and Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*

@@ -226,7 +226,24 @@ even fratricidal betrayal into rescue (Joseph).
   him at Hagar's well; and the next verse opens the genealogy of Hagar's son. **The cycle that began
   with a childless man ends by counting his descendants and following none of them**, and the book
   starts over at 25:19 with another barren wife.
-- **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile.
+- **25:19–36 Isaac and Jacob** — the promise carried through struggle, deception, and exile. It opens
+  in *[[Jacob and Esau and the Sold Birthright]]* with the book's habitual method inverted: **twenty
+  years of barrenness pass in one verse and a bowl of lentils takes six.** Isaac is the only
+  patriarch who prays for his wife's conception, and the verb of his prayer is used actively and
+  passively in the same sentence — *he entreated, and he was entreated.* The children *crush one
+  another* in the womb; Rebekah asks a question the Hebrew leaves without a verb, goes to
+  **inquire of Yahweh** in the Bible's first use of that idiom, and receives the only divine speech
+  in the pericope — four lines of poetry, **a chapter before God speaks to her husband at all**. The
+  twins are born into two etymologies that are not their own names: *red* seeds Edom and *hairy*
+  seeds Seir, while *ʿĒśāw* is left unexplained. Jacob comes out holding a heel. Then twenty-nine
+  words split the household — a hunter, a man of the tents, and two parents who each love a different
+  son — and the sale is built out of those twenty-nine words exactly: the man of the field comes in
+  from the field, asks for *this red, red* — an adjective doubled, with no noun — in a verb used of
+  feeding animals, is met with a price
+  instead of food, and is not released until he has sworn. He eats, drinks, rises, and goes. **The
+  narrator's one verdict in thirty-four verses falls on the seller** — *"So Esau despised his
+  birthright"* — and says nothing at all about the buyer, which is the register the whole Jacob cycle
+  is written in.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -274,7 +291,7 @@ merge, or reorder them freely.
 
 ### Isaac and Jacob (25:19–36)
 
-- [ ] Jacob and Esau and the Sold Birthright — Genesis 25:19–34
+- [x] [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34
 - [ ] Isaac in Gerar — Genesis 26:1–35
 - [ ] The Stolen Blessing — Genesis 27:1–45
 - [ ] Jacob's Ladder at Bethel — Genesis 27:46–28:22
@@ -345,6 +362,7 @@ merge, or reorder them freely.
 - [[Testing]]
 - [[The Fear of God]]
 - [[Burial and the Grave]]
+- [[Birthright and the Firstborn]]
 
 ## Key people
 
@@ -386,6 +404,8 @@ merge, or reorder them freely.
 - [[Ephron the Hittite]]
 - [[The Children of Heth]]
 - [[Keturah]]
+- [[Jacob]]
+- [[Esau]]
 
 ## Key places
 
@@ -423,3 +443,5 @@ merge, or reorder them freely.
 - [[The Land of the Philistines]]
 - [[Machpelah]]
 - [[Havilah]]
+- [[Aram Naharaim]]
+- [[Edom]]

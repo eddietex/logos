@@ -32,8 +32,9 @@ not be had.
   behind the tent flap (18:12), and Isaac at ninety (21:2). Hers is the longest and the theme's
   template: the wait is twenty-five years, and the human attempt to solve it produces Ishmael.
 - **Rebekah** — Genesis 25:21. *"Isaac entreated Yahweh for his wife, because she was barren."*
-  Twenty years, resolved by prayer in a single verse, and the twins in her womb struggle before they
-  are born.
+  Twenty years, resolved by prayer in a single verse — **the only one of the three cases a husband
+  prays about** — and then the twins in her womb struggle before they are born, and the pregnancy she
+  waited two decades for is the thing that makes her ask *"If it is so, why do I live?"*
 - **Rachel** — Genesis 29:31; 30:1–24. *"Give me children, or else I die."* The only case in Genesis
   where the barren wife is loved and the fertile one is not, and the rivalry produces most of the
   twelve tribes.
@@ -110,7 +111,16 @@ the women than the frame they are written in.
   here — and it closes eleven verses after a household's wombs were shut and opened on this same
   woman's account (20:18), and eight verses before the fertile slave the wait produced is sent into a
   desert. See [[Yahweh Visited Sarah - Paqad and the Visitations of God]]
-- Genesis 25:21 — Rebekah *(not yet ingested)*
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:21, **the theme's second run, told in
+  fifteen words.** Isaac is forty at the marriage (25:20) and sixty at the birth (25:26), so the wait
+  is **twenty years** — and Genesis puts the whole of it in a subordinate clause, with no complaint
+  from Rebekah, no substitute wife, no household quarrel, and no scene. **The book told this story at
+  full length once and declines to tell it again.** What is new is the husband: *"Isaac entreated
+  Yahweh for his wife"* — ***wayyeʿtar … wayyēʿāter lô***, the same rare verb active and then passive
+  in one sentence, and its first occurrence in the Bible. **Isaac is the only patriarch who prays for
+  his wife's womb**; Abraham never does, and Jacob refuses (30:2). And the resolution is not the end
+  of the trouble: the children *crush one another* inside her, and she asks a question the Hebrew
+  leaves without a verb. See [[The Barren Matriarchs]]
 - Genesis 29:31–30:24 — Rachel *(not yet ingested)*
 - Judges 13 — Manoah's wife
 - 1 Samuel 1–2 — Hannah, and the song
@@ -138,6 +148,8 @@ the women than the frame they are written in.
 - [[Favor and Grace]] — the child is given, never achieved
 - [[Faith]] — what the barren womb is the standing evidence against, and what Genesis 15:6 credits
 - [[Slavery and Servitude]] — whose body the household reaches for when the wait becomes intolerable
+- [[Prayer]] — the only means by which a barren womb is opened in Genesis at a husband's request
+- [[Birthright and the Firstborn]] — what the long-awaited children then fight over
 
 ## Related people
 
@@ -149,3 +161,7 @@ the women than the frame they are written in.
 - [[Terah]] — in whose household the sentence is first recorded
 - [[Abimelech (of Abraham's time)]] — whose household is struck with it on Sarah's account, and
   healed of it by Abraham's prayer
+- [[Rebekah]] — the second, twenty years, and the only one whose husband prays
+- [[Isaac]] — who prays, in the one verse of Genesis where he takes the initiative
+- [[Jacob]] and [[Esau]] — what twenty years of waiting produces, and they are struggling before they
+  are born

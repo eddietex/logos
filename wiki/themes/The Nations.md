@@ -175,6 +175,14 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   Sheba and Dedan are already filed under Ham at 10:7, which is what a genealogy of peoples does. And
   Isaiah 60:6–7 brings five of these names back to Zion with gold and incense; see
   [[Abraham's Other Sons in Isaiah 60]]
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:23, where a nation is forecast from inside a
+  womb. ***Šənê gôyîm*** — *two nations* — and *ləʾōm miləʾōm*, *people against people*: **the
+  oracle's own vocabulary is national, not personal**, and what it predicts is a political relation
+  that 2 Samuel 8:13–14 records and 2 Kings 8:20–22 records ending. Then 25:30 names the nation from
+  a bowl of stew. **Edom is the one neighbour the Hebrew Bible consistently calls *brother***, which
+  is what makes Deuteronomy 23:7 (*"You shall not abhor an Edomite"*) and Obadiah's charge of
+  fratricide two halves of the same fact. See [[Edom]] and
+  [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]]
 
 ## Related themes
 
@@ -198,3 +206,4 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[Eber]]
 - [[Peleg]]
 - [[Canaan (son of Ham)]]
+- [[Esau]] — Edom, forecast as a nation before birth and named from a meal

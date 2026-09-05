@@ -4163,3 +4163,190 @@ commit `694ca13` ("Adjust naming for passge"), is still there. It belongs nowher
 map and is one `git rm` away whenever the user wants it gone; it was left alone again so this
 ingest's commit stays just the ingest. Also still open: five unmerged `claude/*` branches on the
 remote, one of which (`claude/ingest-auto-jobs-18-20-vholye`) is the already-merged PR #1.
+
+## [2026-09-05] ingest | Genesis 25.19-34 — Jacob and Esau and the Sold Birthright
+
+Unattended `/ingest auto` run. Genesis is the first `in-progress` book in `wiki/books/index.md` and
+`Jacob and Esau and the Sold Birthright — Genesis 25:19–34` was the first unchecked box on its page —
+the **first pericope of the Isaac and Jacob division**, opened by the *toledot* heading at 25:19.
+`raw/bible/Genesis.md` was already present, so `scripts/fetch-book.sh` was not run. Step 2's
+discussion is written into the passage page.
+
+### What the pericope is
+
+**Twenty years pass in one verse and a bowl of lentils takes six.** That is the whole method: the
+book opens its third patriarchal cycle with a genealogy heading, disposes of two decades of
+childlessness in a sentence, hands out the oracle that governs the next twenty-five chapters in four
+poetic lines, delivers twins, characterises them in twenty-nine words — and then slows almost to a
+stop for a domestic transaction over a pot of stew.
+
+- **25:19–20.** The *toledot* of Isaac, seven verses after Ishmael's, exactly as the book's habit
+  requires. The heading's second clause is famously redundant (*"Abraham's son. Abraham became the
+  father of Isaac"*); three proposals are recorded and none adopted. 25:20 restates Rebekah's pedigree
+  in four identifiers the reader already has, gives ***Paddan Aram*** its **first of ten occurrences
+  in Genesis**, and **plants [[Laban]]** four chapters before he takes over Jacob's life.
+- **25:21.** *"Isaac entreated Yahweh for his wife … Yahweh was entreated by him"* —
+  ***wayyeʿtar … wayyēʿāter lô***, the same rare root active and then passive in one sentence, and
+  **the first occurrence of *ʿātar* in the Bible**. **Isaac is the only patriarch who prays for his
+  wife's conception**; Abraham never does and Jacob refuses (30:2). Twenty years of barrenness, from
+  40 (25:20) to 60 (25:26), reported in a subordinate clause.
+- **25:22.** *Wayyitrōṣăṣû* — the children **crush one another**. Rebekah's *"If it is so, why do I
+  live?"* is four Hebrew words **with no verb in them**. Then *"She went to inquire of Yahweh"* —
+  ***lidrōš ʾet-YHWH***, **the Bible's first use of that idiom**, with no altar, priest, shrine,
+  place, or messenger named, and nobody sending her.
+- **25:23.** The only divine speech in the pericope, in poetry, **to a woman** — and Yahweh has not
+  yet said anything to Isaac, who waits until 26:2. Rebekah is the second woman in Genesis given an
+  annunciation; the first was [[Hagar]], a runaway slave.
+- **25:24–26.** Two etymologies, **and neither is for *Esau***: *ʾadmônî* (red) seeds Edom, *śēʿār*
+  (hair) seeds Seir, and *ʿĒśāw* is left unexplained in a book that explains almost every name.
+  *Yaʿăqōb* from *ʿāqēb*, heel — the neutral pun, with the hostile one (*ʿāqab*, supplant) held back
+  for Esau's mouth at 27:36.
+- **25:27–28.** Twenty-nine words for two men the book follows for twenty-five chapters, and **the
+  first stated parental favouritism in Scripture** — with a motive given for Isaac (venison) and none
+  at all for Rebekah.
+- **25:29–34.** *Halʿîṭēnî* — **a verb the Hebrew Bible uses only here**, cognate with feeding
+  animals — and an object that is an adjective doubled with no noun. The oath converts a shrug into an
+  irrevocable transfer. The stew turns out to be lentils, which are not red, and bread was in the
+  house anyway. Then five verbs and **the pericope's only evaluative sentence**: *"So Esau despised
+  his birthright."*
+
+### Judgment calls made unattended
+
+- **Boundaries: the box stands as drawn, and no unchecked boxes were redrawn.** 25:19 is the book's
+  own opening (a *toledot* heading) and 26:1 begins with a fresh time marker. The alternative split —
+  25:19–28 and 25:29–34 — was considered and **rejected**: the sale scene is built out of 25:27's two
+  characterisations word for word (the man of the field comes in from the field), so separating them
+  removes the reason the transaction works.
+- **New pages made.** Two people (`Jacob`, `Esau`), one place (`Edom`), one theme
+  (`Birthright and the Firstborn`), three connections.
+- **`Edom` was created now rather than at Genesis 36**, because 25:23 is an oracle *about* the nation
+  and 25:30 supplies its name, and because `places/Teman` had been referring to Edom in plain text
+  since the Job material with an explicit note that a page would follow. That note has been replaced
+  with the link; `Uz`, referenced in the same list with the same kind of note, was linked at the same
+  time since its page already exists.
+- **`Paddan Aram` deliberately did *not* get a page.** `places/Aram Naharaim` already states as a
+  settled convention that the wiki keeps the region's two names on one page; that page was extended
+  instead. **The next agent should not create `Paddan Aram.md`.**
+- **`Birthright and the Firstborn` was made a theme rather than a connection** because it runs
+  through six generations of Genesis, the Exodus firstborn legislation, and the New Testament's
+  *"assembly of the firstborn"*, which is wider than any one text pair.
+- **No page for Seir, Leah, or Rachel.** All three are named only in this page's forward references;
+  their pericopes are ahead. When Seir gets a page it should be `places/Seir`, and `Edom` already
+  carries it as an alias.
+
+### Tensions flagged and not resolved
+
+- ***Rab yaʿăbōd ṣāʿîr* (25:23).** Three words, **no object marker on either noun**, and Hebrew poetic
+  word order does not force the reading; the line is grammatically construable as *the elder will
+  serve the younger* or as *the elder — the younger shall serve*. **The standard reading is adopted**
+  (every ancient version, every later biblical use, and the narrative itself), and **the ambiguity is
+  recorded** because the cycle it opens is about two parents who heard the oracle differently.
+- ***Tām* at 25:27.** The adjective applied to Jacob is the one applied to [[Noah]] (*tāmîm*, 6:9) and
+  to [[Job (person)]] (*tām wəyāšār*, Job 1:1), where it means **blameless**. The WEB has *quiet*;
+  other versions have *mild*, *plain*, *civilised*, *blameless*. **Both the moral and the
+  way-of-life readings are recorded and neither is adopted.**
+- ***ʾIm-kēn lāmmâ zeh ʾānōkî* (25:22).** No verb in the Hebrew. Four renderings are set out; the
+  WEB's *"why do I live?"* is the strongest available. **Recorded as a translation crux, not as a
+  correction to the WEB.**
+- ***"Behold, I am about to die"* (25:32).** Hyperbole, or a hunter's real calculation that an
+  inheritance is worthless to a dead man. **Neither adopted**; noted that 25:34's *despised* fits the
+  second better.
+- **The narrator's asymmetry.** Genesis condemns Esau at 25:34 and says **nothing about Jacob** in the
+  whole chapter. The wiki **states this as a fact about the text** and resolves it in neither
+  direction — it does not exonerate Jacob (chapters 27, 29, and 32 do not read as approval) and it
+  does not import the verdicts of Esau (27:36), Laban (29:25), or Hosea (12:3) into a narrator who
+  withheld them.
+- **The redundancy at 25:19.** Three proposals (the *toledot* form's own shape; a claim against a
+  doubt about Isaac's paternity raised by 20:2–7; a source seam). **None adopted.**
+- **What the birthright was.** *Bəkōrâ* is undefined in Genesis. Double portion (Deuteronomy 21:17),
+  family headship (inferred), and the covenant line (what the reader knows and nobody in the scene
+  mentions) are **kept distinct**, and the birthright is kept distinct from the **blessing**, which
+  chapter 27 transfers separately.
+- **Romans 9 and Malachi.** The connection page states plainly that Malachi 1:2–3 argues from
+  sixth-century ruins back to a preference, not forward from Genesis, and that Paul's subject across
+  Romans 9–11 is corporate Israel. Whether the passage also bears on individual election is recorded
+  as **a live argument made from Paul, not something Genesis 25:23 supplies.**
+
+### A correction made during this pass
+
+A draft of the passage page said *ʿātar* at 25:21 was its second occurrence in Genesis, citing
+Abraham's prayer for Abimelech at 20:17. **That is wrong and was fixed before commit**: 20:17's verb
+is *pālal* (*hitpallēl*), which is that root's own first occurrence in Scripture, and *ʿātar* occurs
+in Genesis only at 25:21. `themes/Prayer` already had this right and was not the source of the error.
+
+### Pages created
+
+- `wiki/passages/Genesis/Jacob and Esau and the Sold Birthright.md`
+- `wiki/people/Jacob.md`
+- `wiki/people/Esau.md`
+- `wiki/places/Edom.md`
+- `wiki/themes/Birthright and the Firstborn.md`
+- `wiki/connections/The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans.md` — the
+  syntactic ambiguity of the fourth line, the political forecast and its end at 2 Kings 8:20–22, and
+  why Malachi and Romans are three steps and fifteen hundred years downstream
+- `wiki/connections/Esau's Birthright in Hebrews.md` — *bebēlos*, the two readings of *"found no place
+  for a change of mind"*, and the fact that Hebrews preserves Genesis's silence about Jacob
+- `wiki/connections/The Barren Matriarchs.md` — Sarah, Rebekah, Rachel; the shrinking length of the
+  three tellings, and the three husbands who pray, do not pray, and refuse to
+
+### Pages revised
+
+`books/Genesis` (box checked; the Isaac and Jacob division's structure bullet opened; Jacob, Esau,
+Edom, Aram Naharaim, and the new theme added to the key lists), `books/index` (32 / 58), `wiki/index`
+(counts: 38 passages, 75 people, 45 places, 52 themes, 106 connections), and: `people/Isaac` (new
+pericope section, timeline, appears-in, related people, themes), `people/Rebekah` (new pericope
+section replacing the forward-looking sketch), `people/God` (new pericope section and appears-in
+entry), `people/Abraham`, `people/Laban`, `people/Bethuel`, `people/Hagar`; `places/Aram Naharaim`,
+`places/Teman`; `themes/Barrenness`, `themes/Prayer`, `themes/Call and Election`,
+`themes/Prophecy and Vision`, `themes/Strife and Peacemaking`, `themes/Oaths and Vows`,
+`themes/Blessing`, `themes/Deception`, `themes/The Nations`, `themes/Covenant`; and all four category
+indexes.
+
+Stale *(not yet ingested)* markers were cleared on `people/Rebekah` (two: 25:21 and 25:23),
+`themes/Barrenness` (25:21), `themes/Prayer` (25:21), and `people/Bethuel` (25:20, which was split so
+that the marker stays on 28:5) — five in all, exactly the ones the previous entry said were being
+left for this box.
+
+### Verification
+
+Every WEB blockquote in the new and revised pages was parsed verse by verse and checked
+programmatically against `raw/bible/Genesis.md`; all matched after normalising curly quotes and
+dashes. Inline quoted fragments in this pass's diff were checked the same way, and **four errors
+written during the pass were caught and corrected before commit**: *"and they grieved the spirits of
+Isaac and Rebekah"* (26:35 reads *"They grieved Isaac's and Rebekah's spirits"*); *"a great and
+exceedingly bitter cry"* and *"exceedingly great and bitter cry"* (27:34 reads *"an exceeding great
+and bitter cry"*); *"you will break his yoke from off your neck"* (27:40 reads *"you shall shake his
+yoke from off your neck"*); and an exclamation mark added to *"Bless me, even me also, my father."*
+A fifth correction removed quotation marks from *"this red red"*, which is this wiki's literal
+rendering of *hā-ʾādōm hā-ʾādōm* and not a WEB quotation — the same class of error the previous
+entry recorded for *"old and satisfied"*.
+
+Quotations from Malachi, Romans, Hebrews, Hosea, Obadiah, Amos, the Psalms, Deuteronomy, Numbers,
+Samuel, and Kings are unverifiable here, as elsewhere in the wiki, and are given as references rather
+than as checked text; Job 1:1 was checked against `raw/bible/Job.md`.
+
+External and non-textual claims — the attestation of *Yaʿaqōb-ʾēl* in second-millennium sources, the
+hapax status of *lāʿaṭ* and of *ʿāqad*, the location of Edom and the Idumean identification of Herod,
+and the reception history of *tām* — are stated as attributions or proposals rather than findings.
+
+### Links
+
+`scripts/link-check.sh` clean, exit 0, baseline 64 — unchanged, since no new book page was created
+this pass. **No dangling links were left deliberately.** Forward references to material not yet
+ingested (Genesis 26; 27; 28; 29; 30; 31; 32; 33; 35; 36; 48; 49) are written as plain scripture
+references or carry an explicit *(not yet ingested)* marker. Prospective links to Seir, Leah, and
+Rachel were written as plain text because their pages do not exist and are not being created here.
+
+**Note on branch state.** The thirteenth run in a row to start on a **detached HEAD**, this time at
+`fb92c84` with a clean tree and the local `main` ref stale at `ee8f435` — still the merge commit of
+PR #1, now nineteen commits behind. `git fetch origin main` showed `origin/main` already at `fb92c84`,
+so the previous run's push had landed and only the local ref was stale; `git checkout -B main fb92c84`
+moved the branch onto HEAD before any work, its upstream was set to `origin/main`, and this ingest was
+committed on `main`. Thirteen consecutive runs have now started detached. It has cost nothing so far,
+because every previous push had in fact landed, but it remains an environment quirk that wants the
+user's attention.
+
+**Also noticed, not acted on.** The tracked, empty `Exodus.md` at the repository root, added by commit
+`694ca13` ("Adjust naming for passge"), is still there, unchanged for fourteen runs. It belongs
+nowhere in the directory map and is one `git rm` away whenever the user wants it gone; it was left
+alone again so this ingest's commit stays just the ingest.

@@ -43,10 +43,10 @@ that pair it with Bozrah as though the two were distinguishable.
 
 ## Related places
 
-- **Edom / the mountain of Esau** — the territory Teman belongs to; gets its page when Genesis 36
-  or the prophets are ingested.
-- **Uz** — Job's own land, named at 1:1 and located vaguely to the east or south-east; a page
-  follows when Job 1 is ingested.
+- [[Edom]] — the territory Teman belongs to, named in Genesis 25:30 from a bowl of red stew and
+  called *the mountain of Esau* by Obadiah.
+- [[Uz]] — Job's own land, named at 1:1 and located vaguely to the east or south-east; Lamentations
+  4:21 addresses the daughter of Edom as dwelling in it.
 - **Shuah and Naamah** — the homelands implied by [[Bildad the Shuhite]] and
   [[Zophar the Naamathite]], neither securely located, and both pointing the same direction.
 - [[Sheol]] — the only other location the ingested Job passages name.

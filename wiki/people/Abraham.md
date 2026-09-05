@@ -671,7 +671,10 @@ to open their story at 25:19.
 
 ### Where the rest of him is
 
-His story in Genesis is complete as of [[The Death of Abraham and the Line of Ishmael]]. What remains
+His story in Genesis is complete as of [[The Death of Abraham and the Line of Ishmael]] — after which
+he is named once more, twice over, in the heading of his son's *toledot* at 25:19, and the book's own
+numbers put his death fifteen years after the birth of the grandsons it then goes back to introduce.
+What remains
 is what the rest of the Bible does with him: the standing formula *"the God of Abraham, Isaac, and
 Jacob"* (Exodus 3:6; Matthew 22:32); the pattern case for faith reckoned as righteousness (Romans 4;
 Galatians 3); the man who went out *"not knowing where he went"* (Hebrews 11:8) and died *"not having
@@ -850,6 +853,10 @@ arrive.
   pointed east, and then a death notice that quotes a promise made to him sixty years earlier, the
   Bible's first *gathered to his people*, and two estranged sons at one grave — and he does not speak
   in any of it
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19; dead, and named twice in the heading of
+  his son's *toledot* — *"Isaac, Abraham's son. Abraham became the father of Isaac"* — a redundancy the
+  book does not explain. On its own arithmetic he was alive until the twins of this pericope were
+  fifteen, which Genesis never states and the narrative order conceals by burying him at 25:10
 
 ## Related people
 

@@ -82,6 +82,8 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - Answers, before his father, that *"the thing proceeds from Yahweh"* — Genesis 24:50–51
 - Receives gifts with his mother; asks for a delay; agrees to let Rebekah decide — Genesis 24:53–58
 - Blesses her with the promise sworn at Moriah — Genesis 24:60
+- Named again, for no reason the passage needs, in the pedigree at the head of Isaac's *toledot* —
+  Genesis 25:20, [[Jacob and Esau and the Sold Birthright]]
 - Receives Jacob, fleeing Esau, at the same house — Genesis 29:1–14 *(not yet ingested)*
 - Substitutes Leah for Rachel; fourteen years' service — Genesis 29:15–30 *(not yet ingested)*
 - Changes Jacob's wages ten times — Genesis 31:7, 41 *(not yet ingested)*
@@ -93,6 +95,10 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - [[A Wife for Isaac]] — Genesis 24:29–60; an exemplary host introduced by what he noticed, who runs
   his father's negotiation, concedes it to Yahweh, and pronounces the Moriah oath over his sister
   without knowing it
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:20; off-stage, and **planted**: the
+  *toledot* pedigree names him twice over — *"the sister of Laban the Syrian"* — four chapters before
+  he takes over the life of the younger twin about to be born, and repays the younger-for-elder
+  substitution in kind
 
 ## Related people
 
@@ -103,6 +109,9 @@ built on the same root, for its snow. Genesis makes nothing of it.
 - [[Abraham's Servant]] — his guest and his counterpart across the table
 - [[Isaac]] — his brother-in-law, whom he never meets
 - [[Abraham]] — the *master* the whole negotiation is conducted on behalf of
+- [[Jacob]] — his sister's younger son, named in the same *toledot* heading he is; later his
+  nephew, employee, son-in-law twice over, and adversary
+- [[Esau]] — his sister's elder son, and the reason Jacob is sent to him
 
 ## Themes associated
 

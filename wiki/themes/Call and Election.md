@@ -150,6 +150,18 @@ the others.
   exactly kept promise, and his father's own death formula. **Genesis gives the passed-over line
   everything except the covenant, and gives no reason.** See
   [[The Other Line First - The Order of the Toledot in Genesis]]
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:23, **the theme's sharpest text in the Bible.**
+  Two children, one mother, one conception, and the ranking is announced **before either of them is
+  born**: *"The elder will serve the younger."* Every earlier case in Genesis had something a reader
+  could take hold of — Isaac had a different mother from Ishmael, Shem was listed first, Abel brought
+  a different offering. **Here there is nothing**: no difference of age worth naming, no difference of
+  standing, no conduct at all. Genesis gives no reason and does not seem to feel the absence.
+  Paul's summary of the silence is exact — *"not yet born, neither having done anything good or
+  bad"* (Romans 9:11) — and it is why Romans 9 argues from this pair and not from the previous one.
+  Two cautions the wiki keeps on the page: the oracle's own terms are **nations** (*gôyîm*,
+  *ləʾummîm*), not souls; and *"Esau I hated"* is Malachi's sentence about a country in ruins, not
+  Genesis's about a boy. See
+  [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]]
 
 ## Related themes
 

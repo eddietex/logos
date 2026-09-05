@@ -221,6 +221,13 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   the wiki has tracked since 17:20 — blessed against covenanted — holds at both ends of this
   pericope. See
   [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]]
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34, **the covenant in transit and never
+  mentioned.** The line passes from Isaac to Jacob in this pericope — by an oracle before birth and
+  then by a sale — and **not one character refers to it.** God's four lines to Rebekah speak of
+  nations and strength and service, not of promise, land, or offspring; the brothers negotiate a
+  *bəkōrâ* with no theology attached to it at all. The covenant word to Isaac himself is still
+  outstanding here and does not arrive until 26:2–5, where its stated ground is *"because Abraham
+  obeyed my voice"*
 
 ## Related themes
 
@@ -260,3 +267,6 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[Abimelech (of Abraham's time)]] — the other party to Scripture's first human covenant, and the
   one who asks for it
 - [[Phicol]] — the witness of rank at its swearing
+- [[Jacob]] — the third bearer, who acquires the birthright by contract before he is ever addressed
+  by God
+- [[Rebekah]] — told the order of the two nations before either child is born

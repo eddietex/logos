@@ -117,6 +117,13 @@ has become a nation.
   oath is the man who was deceived one chapter earlier, and the oath is what he now needs instead of
   trust.** Genesis does not connect the two scenes out loud; it puts them eleven verses apart
 - Genesis 26:6–11 — the ruse a third time, inherited *(not yet ingested)*
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:27–34, **the machinery assembled, one chapter
+  early.** Nothing here is a lie: Jacob makes an offer, Esau accepts it, and the transaction is
+  sworn and honoured. But every part chapter 27 will run on is put in place — the favouritism and its
+  motive (*"Isaac loved Esau, because he ate his venison"*), the hunter and the man of the tents, the
+  mother who prefers the younger, and **the birthright already gone before the blessing is asked
+  for**. The wiki notes what the narrator does and does not say: he condemns Esau in 25:34 and says
+  nothing at all about Jacob, here or anywhere in the chapter
 - Genesis 27:1–45 — the stolen blessing, and the one flat lie in the sequence *(not yet ingested)*
 - Genesis 29:21–27 — Laban's substitution, and the deceiver deceived *(not yet ingested)*
 - Genesis 37:31–33 — the coat, the goat, and the father deceived by his own devices *(not yet
@@ -146,3 +153,7 @@ has become a nation.
   first to say so
 - [[Abimelech (of Abraham's time)]] — the second, and the only one who gets an answer; he also
   supplies the theme's one Genesis verdict, *"You have done deeds to me that ought not to be done!"*
+- [[Jacob]] — whose first transaction is not a deception and whose second is; the narrator judges
+  neither
+- [[Rebekah]] — who loves the younger son for no stated reason, and will dress him in the elder's
+  clothes

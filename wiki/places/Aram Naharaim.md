@@ -64,6 +64,11 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
 
 - [[A Wife for Isaac]] — Genesis 24:10; the servant's destination, reached with ten camels, and the
   country Isaac is forbidden to enter
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:20, **the first of the ten occurrences of
+  *Paddan Aram* in Genesis**, in a pedigree that repeats what chapter 24 already gave at length:
+  *"Rebekah, the daughter of Bethuel the Syrian of Paddan Aram, the sister of Laban the Syrian"*. The
+  *toledot* form files a generation with its parentage — and the verse also **plants [[Laban]]**, four
+  chapters before he takes over the life of the son about to be born
 
 ## Related places
 

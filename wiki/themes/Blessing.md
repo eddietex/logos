@@ -214,6 +214,13 @@ costly.
   at Isaac personally**, he is seventy-five, and it is a blessing and not a covenant word — God does
   not speak to him until 26:2. And 25:12–16 delivers the other half of 17:20's blessing exactly:
   twelve princes, by name, to the son the covenant was refused to
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34, where the theme is conspicuous by its
+  absence. **The pericope transfers an inheritance and never once blesses anybody.** What changes
+  hands is the ***bəkōrâ***, the birthright, sold under oath for a meal; the ***bərākâ*** is a
+  separate thing, and Genesis holds it back for two chapters and then has it taken by disguise.
+  **Esau is the character who fuses them** — *"He took away my birthright. See, now he has taken away
+  my blessing"* (27:36) — and the book keeps them apart until he does. See
+  [[Birthright and the Firstborn]]
 
 ## Related themes
 
@@ -239,3 +246,5 @@ costly.
   breath
 - [[Shem]]
 - [[Japheth]]
+- [[Jacob]] — who buys a birthright and then steals a blessing, and knows the difference
+- [[Esau]] — who loses both, and is the one who names them together

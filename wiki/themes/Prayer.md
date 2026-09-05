@@ -52,7 +52,27 @@ answer *and* a recorded thanksgiving. See [[A Wife for Isaac]] and [[Abraham's S
 man has no name, no standing, and no promise; he asks for nothing for himself; and the book gives him
 the first prayer, the first sign asked for, and the first answer.
 
-**The rest of Genesis, briefly.** Isaac entreats Yahweh for barren Rebekah and is answered (25:21).
+**Genesis 25:21 — the shortest prayer in the book, and its answer is stated in the same word.**
+*"Isaac entreated Yahweh for his wife, because she was barren. Yahweh was entreated by him, and
+Rebekah his wife conceived."* ***Wayyeʿtar … wayyēʿāter lô*** — ***ʿātar*** active and then passive
+inside one sentence, and **its first occurrence in the Bible.** Nothing is quoted: no words, no
+proposed sign, no divine reply, no thanksgiving. **The petition and the answer are the same verb, and
+that is the whole report.**
+
+Three things distinguish it from what came before. **It is the first prayer in Scripture offered by a
+husband for his wife**, and Isaac is the only patriarch who prays for a womb — Abraham never does,
+and Jacob refuses to (30:2). **It is unbidden**, unlike Abraham's intercession at 20:17, which God
+instructed. And **it is answered without speech**, unlike the servant's at 24:12–14, where the answer
+walks out of the city gate mid-sentence; here the narrator simply reports that God was entreated.
+See [[Jacob and Esau and the Sold Birthright]] and [[The Barren Matriarchs]].
+
+**And the pericope contains a second approach to God that is not a prayer.** Rebekah *"went to
+inquire of Yahweh"* (25:22) — ***lidrōš ʾet-YHWH***, **the Bible's first use of that idiom**, and it
+is oracle-seeking rather than petition: she asks a question and is answered in poetry. Genesis names
+no altar, priest, shrine, or procedure. **The book's first inquiry of Yahweh and its first *ʿātar*
+are in consecutive verses**, and neither is described. See [[Prophecy and Vision]].
+
+**The rest of Genesis, briefly.**
 Jacob prays at the Jabbok in the book's first prayer that argues from a promise back to God —
 *"Deliver me, I pray you … you said, 'I will surely do you good'"* (32:9–12) — and then wrestles
 until dawn for a blessing he asks for out loud (32:26). Nothing in the Joseph cycle is a prayer at
@@ -80,8 +100,10 @@ already did.
   reported to have had an effect
 - [[Calling on the Name of Yahweh]] — Genesis 4:26; 12:8; 13:4; 21:33: invocation, which is the
   book's other religious speech and is not petition
-- Genesis 25:21 — Isaac entreats Yahweh for Rebekah, and the answer is Jacob and Esau
-  *(not yet ingested)*
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:21–22; *ʿātar* used actively and passively
+  in one sentence, in the Bible's first occurrence of the verb and its only patriarchal prayer for a
+  wife's womb — and, in the next verse, the Bible's first *inquiry of Yahweh*, which is a question
+  rather than a request and is answered in four lines of poetry
 - Genesis 32:9–12, 26 — Jacob at the Jabbok: the first prayer that quotes God's own promise back to
   him *(not yet ingested)*
 - Exodus 32:11–14; Numbers 14:13–19 — Moses arguing from God's reputation
@@ -111,4 +133,6 @@ already did.
 - [[Abraham's Servant]] — the first person in Scripture to pray a petition of his own
 - [[Abraham]] — the first intercessor, and the first man God tells to pray for somebody
 - [[Isaac]] — entreats for his wife; the one thing Genesis records him doing on his own initiative
+- [[Rebekah]] — who does not petition but **inquires**, in the Bible's first use of that idiom, and
+  is the only person in Genesis answered with an oracle she went looking for
 - [[God]] — who answers this theme's founding prayer without saying anything

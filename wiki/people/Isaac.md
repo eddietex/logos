@@ -240,6 +240,40 @@ nothing. See [[Beer Lahai Roi]] and [[The Death of Abraham and the Line of Ishma
 left Haran (12:4). And he has been married to [[Rebekah]] for thirty-five years at this point (25:20
 with 21:5 and 25:7) **with no children**, which is the problem the next pericope opens on.
 
+### In this pericope — Genesis 25:19–34
+
+**The one thing he initiates in Genesis is a prayer for his wife.**
+
+> **21** Isaac entreated Yahweh for his wife, because she was barren. Yahweh was entreated by him, and
+> Rebekah his wife conceived.
+
+***Wayyeʿtar … wayyēʿāter lô*** — **the same verb, active and then passive, in one sentence**: he
+entreated, and he was entreated by him. *ʿĀtar* is a rare word for supplication and **this is its
+first occurrence in the Bible.** No divine speech is quoted; God does not say yes, and the narrator
+says he was entreated.
+
+**He is the only patriarch who prays for his wife's conception.** Abraham never does — in twenty-five
+years he complains about an heir (15:2), takes a second woman (16:2), and laughs and asks for the son
+he has (17:17), and the one womb he prays for is [[Abimelech (of Abraham's time)]]'s household
+(20:17). Jacob refuses outright: *"Am I in God's place, who has withheld from you the fruit of the
+womb?"* (30:2). **Between the two of them stands one verse of Isaac's**, and it is close to the whole
+of his recorded initiative in the book. See [[Prayer]] and [[The Barren Matriarchs]].
+
+**And then he disappears from his own chapter.** He is not in 25:22, where Rebekah goes to inquire of
+Yahweh; he is not in 25:23, where she is given the oracle. **God has still not spoken to him** — that
+waits for 26:2 — **so his wife hears from God about their sons before he has ever been addressed at
+all.**
+
+**He is sixty when the twins are born** (25:26), twenty years after the marriage at forty (25:20).
+On the book's arithmetic Abraham was still alive and the boys were fifteen when he was buried, which
+Genesis supplies and never states.
+
+**The last thing said about him here is a preference, and the motive is food.** *"Now Isaac loved
+Esau, because he ate his venison"* (25:28) — the reason given in a subordinate clause, against
+Rebekah's *"loved Jacob"* with no clause at all. **He is the first parent in Scripture whose
+favouritism is stated**, and the taste that grounds it is the machinery chapter 27 runs on: game,
+prepared and brought to him, while he is blind.
+
 ### Where the rest of him is
 
 - **Genesis 26** — the only chapter that is his own: the wife-sister ruse repeated at Gerar, the wells
@@ -285,6 +319,11 @@ with 21:5 and 25:7) **with no children**, which is the problem the next pericope
 - Buries Abraham with Ishmael at Machpelah, the two brothers named in one clause — Genesis 25:9
 - Blessed by God — the first act of God directed at him personally — and settles at
   [[Beer Lahai Roi]] — Genesis 25:11
+- Prays for his barren wife, in the Bible's first use of *ʿātar*; Rebekah conceives after twenty
+  years — Genesis 25:21, [[Jacob and Esau and the Sold Birthright]]
+- Absent from the inquiry and from the oracle his wife receives — Genesis 25:22–23
+- Sixty at the birth of the twins — Genesis 25:26
+- Loves Esau, *"because he ate his venison"* — Genesis 25:28
 - Repeats his father's ruse at Gerar, and is given the promise in his own right — Genesis 26
   *(not yet ingested)*
 - Deceived into blessing Jacob — Genesis 27 *(not yet ingested)*
@@ -314,6 +353,10 @@ with 21:5 and 25:7) **with no children**, which is the problem the next pericope
   seventy-five, standing at his father's grave beside the brother he displaced with no word recorded
   between them, and then blessed by God in four words — the first thing God is ever reported doing to
   him directly, and it happens after his father is buried
+- [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; the one verse in Genesis where he
+  takes the initiative, and it is a prayer for his wife's womb; then absent from the inquiry and from
+  the oracle, still unaddressed by God, and by the end of the pericope a man who loves the son who
+  brings him game
 
 ## Related people
 
@@ -328,6 +371,9 @@ with 21:5 and 25:7) **with no children**, which is the problem the next pericope
 - [[Abraham's Servant]] — the unnamed steward who chooses his wife, and to whom he becomes *my
   master* in the chapter's last exchange
 - [[Keturah]] — his father's second wife, and the mother of the six half-brothers paid off at 25:6
+- [[Esau]] — his firstborn, whom he loves for his hunting, and whom he will bless second and with
+  nothing left
+- [[Jacob]] — his younger son, ranked above the elder in an oracle given to his wife and not to him
 
 ## Themes associated
 
@@ -343,3 +389,5 @@ with 21:5 and 25:7) **with no children**, which is the problem the next pericope
 - [[Burial and the Grave]]
 - [[Marriage]]
 - [[Prayer]]
+- [[Birthright and the Firstborn]]
+- [[Strife and Peacemaking]]
