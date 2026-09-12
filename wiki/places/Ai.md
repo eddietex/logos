@@ -39,7 +39,7 @@ because Ai is small, and is routed — *"the hearts of the people melted, and be
 (Joshua 7:5). The cause turns out to be Achan, who had taken devoted things from Jericho, and the
 campaign does not resume until he is dealt with. The second assault succeeds by ambush, the city is
 burned, its king hanged on a tree until evening (8:29), and immediately afterward Joshua builds an
-altar on Mount Ebal and reads the blessings and the curses at [[Shechem]] (8:30–35).
+altar on Mount Ebal and reads the blessings and the curses at [[Shechem (city)]] (8:30–35).
 
 So the two places Abram stops between in Genesis 12 are, in Joshua, the site of the conquest's one
 disaster and the site of its covenant renewal — and the order runs the same way both times.
@@ -52,7 +52,7 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 ## Related places
 
 - [[Bethel]] — the town on the western side of Abram's camp
-- [[Shechem]] — twenty miles north, where the altar and the covenant renewal both happen
+- [[Shechem (city)]] — twenty miles north, where the altar and the covenant renewal both happen
 - [[Canaan]] — the land both towns sit in
 
 ## Events here

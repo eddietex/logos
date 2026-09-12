@@ -396,7 +396,21 @@ even fratricidal betrayal into rescue (Joseph).
   brothers part for different destinations, one of which — Seir — Jacob says he is coming to and
   Genesis never shows him reaching. He buys land for the first time in his life at Shechem and builds
   an altar naming God by his own new name, *ʾĒl ʾĕlōhê Yiśrāʾēl*, two chapters before God repeats that
-  name of him.
+  name of him. Then *[[Dinah and the Massacre at Shechem]]* takes that bought ground and makes it
+  unlivable. **It is the first chapter in the book with no divine name in it anywhere**, and it is the
+  one in which the covenant sign is proposed as a commercial term, performed on an entire Canaanite
+  town, and used on the third day as the means of killing it. The chapter is conducted wholly between
+  men: Dinah is named six times, is the object of nearly every verb, and is never quoted; her father
+  hears and *"held his peace"*; the negotiation is taken over by his sons and answered ***bĕmirmâ***,
+  *with deceit*, in the narrator's own word — **the noun Isaac used of Jacob at 27:35, now inherited
+  and used at the scale of a town.** Both sides argue two ways to two audiences, and only the
+  Israelite side is labelled for it. **The offer on the table was, in the Torah's own later terms, the
+  remedy the law would prescribe** (the bride-price and marriage of Exodus 22:16–17 and Deuteronomy
+  22:28–29); the answer was every male of the city dead, its wealth taken, and its women and children
+  carried off. Jacob's objection is about the household's safety and names neither his daughter nor a
+  wrong, and the brothers end the chapter on a question — *"Should he deal with our sister as with a
+  prostitute?"* — that **Genesis does not answer until the deathbed, fifteen chapters later, and then
+  answers by cursing their anger rather than by ruling on the act** (49:5–7).
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -455,7 +469,7 @@ merge, or reorder them freely.
 - [x] [[Jacob's Flight from Laban]] — Genesis 31:1–55
 - [x] [[Wrestling at the Jabbok]] — Genesis 32:1–32
 - [x] [[The Reconciliation with Esau]] — Genesis 33:1–20
-- [ ] Dinah and Shechem — Genesis 34:1–31
+- [x] [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31
 - [ ] Return to Bethel; the Deaths of Rachel and Isaac — Genesis 35:1–29
 - [ ] The Descendants of Esau — Genesis 36:1–43
 
@@ -573,6 +587,10 @@ merge, or reorder them freely.
 - [[Beeri the Hittite]]
 - [[Elon the Hittite]]
 - [[Hamor]]
+- [[Shechem (son of Hamor)]]
+- [[Dinah]]
+- [[Simeon]]
+- [[Levi]]
 
 ## Key places
 
@@ -588,7 +606,7 @@ merge, or reorder them freely.
 - [[Egypt]]
 - [[Ur of the Chaldees]]
 - [[Haran (city)]]
-- [[Shechem]]
+- [[Shechem (city)]]
 - [[Bethel]]
 - [[Ai]]
 - [[The Negev]]

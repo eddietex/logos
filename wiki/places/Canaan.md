@@ -52,12 +52,12 @@ and he does not arrive. The land enters the story as a place a family failed to 
 
 **And then somebody arrives.** *"They went to go into the land of Canaan. **They entered into the
 land of Canaan**"* (Genesis 12:5). The second clause is the one 11:31 never got to write. Abram
-crosses it from top to bottom — [[Shechem]] in the northern highlands, the ridge between [[Bethel]]
-and [[Ai]], then south into [[The Negev]] — building an altar at the first two stops and pitching a
-tent. Two things are established in the same breath and neither is softened: the land is promised
-(*"I will give this land to your offspring"*, 12:7), and it is occupied (*"At that time, Canaanites
-were in the land"*, 12:6). Abram is given a promise about his descendants and no ground at all —
-*"no inheritance in it, no, not enough to set his foot on"*, as Acts 7:5 puts it. See
+crosses it from top to bottom — [[Shechem (city)]] in the northern highlands, the ridge between
+[[Bethel]] and [[Ai]], then south into [[The Negev]] — building an altar at the first two stops and
+pitching a tent. Two things are established in the same breath and neither is softened: the land is
+promised (*"I will give this land to your offspring"*, 12:7), and it is occupied (*"At that time,
+Canaanites were in the land"*, 12:6). Abram is given a promise about his descendants and no ground
+at all — *"no inheritance in it, no, not enough to set his foot on"*, as Acts 7:5 puts it. See
 [[The Call of Abram]] and [[Land and Sojourning]].
 
 **And it starves.** Four verses after the land is promised to Abram's offspring, *"There was a famine
@@ -135,12 +135,19 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   narrator states the destination it is not the land at all but a man: *"to go to **Isaac his
   father**, to the land of Canaan."* **The country is the apposition**, and the chapter ends with the
   household still east of the Jordan, on a border it has just agreed never to recross
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:30; **the land seen from inside it, as a
+  population count against the household.** *"You have troubled me, to make me odious to the
+  inhabitants of the land, among the Canaanites and the Perizzites. I am few in number."* It is the
+  first time a patriarch names the inhabitants as a military threat rather than as the people the
+  ground currently belongs to, and the phrase ***mĕtê mispār***, *few in number*, is the one
+  Psalm 105:12 uses of the patriarchs as a whole. **The promise's own bearer is counting the odds
+  and does not like them** — and the chapter never mentions the God who made the promise
 
 ## Related places
 
 - [[Ur of the Chaldees]] and [[Haran (city)]] — the two Mesopotamian cities the family that is aimed
   at Canaan comes from and stops in
-- [[Shechem]], [[Bethel]], [[Ai]], and [[The Negev]] — the stages of Abram's first transit of it
+- [[Shechem (city)]], [[Bethel]], [[Ai]], and [[The Negev]] — the stages of Abram's first transit of it
 - [[Egypt]] — its neighbour to the south-west, and the other of Ham's two great territories
 - [[The Euphrates]] — the northern limit of the land as Genesis 15:18 draws it, and a border no
   Israel except Solomon's ever approaches
@@ -182,3 +189,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   father, to the land of Canaan"* — Genesis 31:18, [[Jacob's Flight from Laban]]
 - The return promised at 28:15 is commanded: *"return to the land of your fathers"* — Genesis 31:3,
   13, [[Jacob's Flight from Laban]]
+- Jacob counts his household against *"the Canaanites and the Perizzites"* after the sack of Shechem
+  — Genesis 34:30, [[Dinah and the Massacre at Shechem]]

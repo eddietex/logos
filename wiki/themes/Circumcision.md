@@ -100,6 +100,22 @@ a mark that can be perfectly kept and entirely missed.
   in Scripture**, executing 17:12 exactly and establishing the age the law will fix at Leviticus 12:3.
   His father had been ninety-nine and his brother thirteen; Isaac is the first person to receive the
   sign before he can know what it is, which is the whole of what the wiki says about him elsewhere
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:13–25: **the rite's first appearance after
+  Genesis 17, and it is a trap.** Jacob's sons make it the sole condition of a marriage settlement —
+  *"Only on this condition will we consent to you. If you will be as we are, that every male of you be
+  circumcised"* (34:15) — and the narrator has already called the answer *"deceit"* two verses
+  earlier. **A whole Gentile town accepts, on its ruler's word and for a commercial reason it states
+  out loud** (*"Won't their livestock and their possessions and all their animals be ours?"*, 34:23),
+  and on the third day, when they are *sore*, [[Simeon]] and [[Levi]] kill every male of it. **Genesis
+  17's *cut off from his people* becomes Genesis 34's *cut down*.**
+
+  **Two things about the episode are worth stating precisely.** First, **the reason the lie works is
+  that the policy behind it is real**: the household genuinely does not marry out (24:3; 27:46; 28:1),
+  and *"that is a reproach to us"* (34:14, ***ḥerpâ***) is what it would actually have said. Second,
+  **Genesis 34 never names God** — the sign is invoked, negotiated, performed and weaponized in a
+  chapter with no divine name in it anywhere, the first such chapter in the book. **The wiki records
+  no verdict from the text on the misuse**, because the text gives none until 49:5–7, and that curse
+  is on the killing rather than on the rite
 
 ## Related themes
 
@@ -109,6 +125,8 @@ a mark that can be perfectly kept and entirely missed.
   this rite
 - [[Slavery and Servitude]] — the covenant sign put on bodies that were bought, said four times in one
   chapter
+- [[Deception]] — the rite proposed *bĕmirmâ* at Genesis 34:13, in the narrator's own word
+- [[Vengeance]] — what the third day of it is used for
 - [[The Nations]] — the boundary the rite draws, and the door Exodus 12:48 makes of it
 - [[Righteousness]] — what Romans 4 says the sign seals and does not create
 - [[Faith]] — the thing Genesis 15:6 credits, and which Paul dates before the sign

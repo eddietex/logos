@@ -219,6 +219,16 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   Aramaic in the Torah** — and lets him swear by *"the God of Nahor"* beside the God of Abraham under
   a plural verb. **Language, gods, and a border, in twelve verses.** Deuteronomy 26:5 keeps the whole
   of it in one line of Israel's creed: *"A Syrian ready to perish was my father"*
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **a Canaanite town given speech, motive, a
+  ruler, an assembly, and a unanimous decision — and then destroyed.** The [[Shechem (city)]] Hivites
+  are the most fully drawn foreign community in Genesis outside Egypt: [[Hamor]] argues a policy of
+  full integration (*"we will become one people"*, 34:16, 22), the gate assembly deliberates and
+  votes, and **the one frankly acquisitive line in the chapter is theirs** — *"Won't their livestock
+  and their possessions and all their animals be ours?"* (34:23). **Both peoples in the chapter act in
+  bad faith and only the Israelite side is labelled** *bĕmirmâ* **by the narrator.** The episode is
+  also the theme's hard case in the other direction: **the covenant sign, which Genesis 17 explicitly
+  opens to outsiders and Exodus 12:48 will make the door into the people, is here used to shut a whole
+  town out of existence.** See [[Circumcision]] and [[Deception]]
 
 ## Related themes
 

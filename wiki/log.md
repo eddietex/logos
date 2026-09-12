@@ -5791,7 +5791,7 @@ Genesis 34 — all confirmed as the working line before any page was written.
 one placeholder, an appearance note, one related person), [[Esau]] (new in-pericope section
 replacing part of the "what is still ahead" prose, three timeline entries replacing one placeholder,
 an appearance note), [[Leah]], [[Rachel]], [[Joseph]] (one timeline entry and one appearance note
-each, on the household's approach order). Places (1): [[Shechem]] (appearance note and events-here
+each, on the household's approach order). Places (1): [[Shechem (city)]] (appearance note and events-here
 entry, its own *(not yet ingested)* marker cleared). Themes (6): [[Favor and Grace]] (the three-fold
 *find favor* formula), [[Seeing and Being Seen]] (the *pānîm* thread's completion),
 [[Names and Naming]] (two namings for what had just happened), [[Strife and Peacemaking]] (the
@@ -5817,7 +5817,7 @@ hit, and fixed the same way, by moving the whole link onto one line rather than 
 the wrap. The expected baseline is **64** not-yet-started book pages, unchanged, since no new book
 page was created. Stale *(not yet ingested)* markers pointing at some or all of Genesis 33 were
 swept and cleared across the wiki, not only on the pages this pericope's own workflow required
-touching: [[Jacob]], [[Esau]], [[Leah]], [[Shechem]],
+touching: [[Jacob]], [[Esau]], [[Leah]], [[Shechem (city)]],
 [[The Altar at Shechem and the Covenant at Shechem]],
 [[Jacob and Esau and the Sold Birthright]], [[The Stolen Blessing]], [[Wrestling at the Jabbok]].
 
@@ -5834,3 +5834,114 @@ than copied. Fixed verse by verse and re-checked clean.
 
 **Branch state.** Preflight was clean at both checks this pass (session start and step 0.5): `on
 main, already at origin/main`, no divergence, nothing to report.
+
+## [2026-09-12] ingest | Genesis 34.1-31 — Dinah and the Massacre at Shechem
+
+Unattended run (`/ingest auto`, no target argument), so step 2's discussion was written into the
+passage page rather than held with the user. `wiki/books/index.md` gave **Genesis** as the first
+`in-progress` book and its page gave the first unchecked box at Genesis 34:1–31.
+`raw/bible/Genesis.md` was already present; `scripts/fetch-book.sh` was not needed.
+
+### Judgment calls made in this pass
+
+- **The boundary was used as drawn, and kept whole.** 34:1 opens on a new character and a different
+  town's business; 34:31 ends on an unanswered question, with 35:1 opening on a direct command from
+  God. **A split at 34:24 — the negotiation from the massacre — was considered and rejected**: the
+  circumcision is only intelligible as the first half of the killing.
+- **The title was redrawn.** The plan's box read *Dinah and Shechem*; the page is
+  [[Dinah and the Massacre at Shechem]]. Two reasons: *Dinah and Shechem* reads as a pairing of two
+  people rather than as what the chapter is, and after this pass "Shechem" alone is ambiguous between
+  [[Shechem (city)]] and [[Shechem (son of Hamor)]]. **Alternatives rejected**: *The Rape of Dinah*
+  (names the first four verses and not the other twenty-seven) and *The Defiling of Dinah* (adopts
+  the chapter's own loaded verb as the wiki's).
+- **The person/place collision the schema requires was resolved this pass, as scheduled.**
+  `wiki/places/Shechem.md` → `wiki/places/Shechem (city).md`, and the man became
+  `wiki/people/Shechem (son of Hamor).md`. **The patronymic was chosen over a bare `(person)`** on
+  the `Enoch (son of Cain)` / [[Enoch (city)]] precedent, which `AGENTS.md` gives as its worked
+  example for exactly this case; [[Hamor]]'s page, written at the 33:19 ingest, had anticipated a
+  `(person)`-style qualifier, which is what a patronymic is. Both pages open with a
+  do-not-confuse paragraph naming the other.
+- **Four things the chapter does not say were kept open rather than filled**: whether Dinah was held
+  against her will between 34:3 and 34:26; whether her going out is being blamed (later readers
+  supply the blame — *Jubilees* 30 and a strand of midrash — and Genesis does not); whether Shechem's
+  later love mitigates anything; and whether Jacob's silence is prudence, paralysis, or indifference.
+- **The legal tension was recorded and not adjudicated.** By Exodus 22:16–17 and Deuteronomy
+  22:28–29 — four books later, and cited by nobody in the chapter — Shechem's offer of the
+  bride-price and marriage is the remedy the Torah itself prescribes; the brothers refuse it and
+  apply a penalty no law states. Both halves are true and Genesis rules on neither. Stated on the
+  passage page, on [[Vengeance]], and on
+  [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
+- **A contradiction was flagged explicitly rather than harmonized**, as `AGENTS.md` requires: Jacob
+  **bought** the Shechem parcel (33:19, repeated at Joshua 24:32), his sons **sacked** the city and
+  he disowned it (34:27–30), and he tells Joseph he **took** it *"with my sword and with my bow"*
+  (48:22). Four standing readings are set out on the new connection page and none is adopted.
+- **No `Tamar` page was created**, although 2 Samuel 13 is the chapter's closest parallel and is used
+  heavily. Creating one for David's daughter would force a rename at *Judah and Tamar* (Genesis
+  38:1–30), four pericopes away, where Genesis's own Tamar has the better claim on the bare title.
+  She is named in plain prose and distinguished by patronymic on the connection page, so nothing
+  dangles and nothing has to be renamed later.
+- **Four connection pages were judged warranted** — more than usual for one pericope, because three
+  of the four are threads the chapter opens rather than readings of it: a formula with six later
+  occurrences, a full-length parallel narrative, a curse whose two halves resolve in opposite
+  directions, and a three-way contradiction about one piece of ground.
+
+### Pages touched
+
+**Created (5).** `wiki/passages/Genesis/Dinah and the Massacre at Shechem.md`;
+`wiki/people/Shechem (son of Hamor).md`; and four connection pages —
+`wiki/connections/Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13.md` (the phrase's first
+occurrence, its anachronism, and the seven-entry table of its career),
+`wiki/connections/Dinah and Tamar - Two Rapes and Two Avenging Brothers.md` (a thirteen-row
+comparison of Genesis 34 and 2 Samuel 13),
+`wiki/connections/Simeon and Levi - The Sword at Shechem and the Deathbed Curse.md` (the deed, the
+curse on the *anger*, and the same sentence producing the priesthood for one tribe and
+disappearance for the other), and
+`wiki/connections/Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem.md`.
+
+**Renamed (1).** `wiki/places/Shechem.md` → `wiki/places/Shechem (city).md`, with all **26** inbound
+`[[Shechem]]` links rewritten across 21 files. Two of the 26 were live links inside the previous
+ingest's own log entry; they were repointed rather than left to dangle, since they name the same
+page under its new title. Five paragraphs were re-wrapped where the longer target overran the
+column.
+
+**Revised.** People (7): [[Dinah]] (the "what is still ahead" section replaced by her chapter),
+[[Hamor]] (same), [[Simeon]], [[Levi]], [[Jacob]] (a new *in this pericope* section, plus the 48:22
+contradiction), [[Leah]] (named once at 34:1 and absent thereafter — and the avengers are hers),
+[[God]] (**absent**: a new section on the first chapter in Genesis with no divine name in it).
+Places (2): [[Shechem (city)]] (renamed, disambiguated, and filled out for 34), [[Canaan]] (34:30's
+Canaanites and Perizzites). Themes (9): [[Circumcision]], [[Deception]], [[Vengeance]],
+[[Marriage]], [[War]], [[The Nations]], [[Land and Sojourning]],
+[[Strife and Peacemaking]], [[Wealth and Possessions]].
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary, four names added to key people), `wiki/books/index.md` (**42 / 59 → 43 / 59**), seven rows
+extended and one new row in `wiki/people/index.md`, two rows extended in `wiki/places/index.md`
+(one of them renamed), nine rows extended in `wiki/themes/index.md`, four new rows in
+`wiki/connections/index.md`. `wiki/index.md` now reads **49 passages · 100 people · 54 places · 57
+themes · 139 connections**, counted against what is on disk and matching exactly.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**. The expected baseline is **64** not-yet-started book pages,
+unchanged, since no new book page was created.
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather
+than wikilinks, so none is a finding: 35:1–5 (Bethel, and the terror that answers 34:30), 49:5–7
+(the deathbed curse), 48:22 (the sword and the bow), 46:15 (Dinah counted among Leah's children).
+
+**Quotation check.** Every WEB verse quoted in a block quote was compared against
+`raw/bible/Genesis.md` mechanically, by a script that re-parsed the blockquotes and diffed them
+against the raw verse text: **31 verse-blocks on the passage page, 0 mismatches**, and the
+two-verse block on `Shechem (son of Hamor)` and the 49:5–7 block on the Simeon-and-Levi connection
+page likewise. The block quotes were generated from the raw file rather than typed, which is what
+avoided this pass's version of the curly-quote problem the last two entries both hit. Quotations
+from books not in `raw/` (2 Samuel, Joshua, Judges, Jeremiah, Psalms, Exodus, Numbers, Deuteronomy)
+were checked by eye against the WEB and three were corrected in draft — Jeremiah 29:23's clause
+order, Joshua 19:1's *"in the middle of the inheritance"*, and Psalm 105:12's *"foreigners in it"*.
+
+### Noted for a later lint, not fixed here
+
+`wiki/people/God.md` has per-pericope sections running from Genesis 2 to 31:1–55 and then jumping to
+Job; **the sections for Genesis 32 and 33 were never written**, and its `## Appears in` list is
+missing a number of entries it should have. This pass added the Genesis 34 section in reference
+order and did not backfill the gap, which is a lint job rather than an ingest one.

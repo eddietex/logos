@@ -83,7 +83,7 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 - [[Canaan]] — where they were going, and did not arrive
 - [[Assyria]] — the empire whose last capital it became
 - [[Nineveh]] — the Assyrian capital whose fall in 612 BC left Haran holding the remnant
-- [[Shechem]] — four hundred miles south-west, and the first place Abram stops after leaving here
+- [[Shechem (city)]] — four hundred miles south-west, and the first place Abram stops after leaving here
 
 ## Events here
 

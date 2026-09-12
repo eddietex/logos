@@ -73,7 +73,7 @@ Genesis through one verse of Chronicles, and the wiki says so.
 - [[Salem]] — Melchizedek's city at 14:18, and Jerusalem if the Chronicles identification holds;
   Genesis never connects the two
 - [[Canaan]] — the land the region sits in, none of which Abraham owns
-- [[Shechem]] — beside the oak of *Moreh*, the Samaritan Pentateuch's reading of this name
+- [[Shechem (city)]] — beside the oak of *Moreh*, the Samaritan Pentateuch's reading of this name
 
 ## Events here
 

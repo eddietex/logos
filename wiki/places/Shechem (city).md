@@ -3,7 +3,15 @@ type: place
 also_known_as: [Sichem, Sychem, Sychar, Tell Balata]
 tags: [place]
 ---
-# Shechem
+# Shechem (city)
+
+The town in the pass between Gerizim and Ebal. Not to be confused with
+[[Shechem (son of Hamor)]], the man Genesis 34 names after it — or it after him; the text does not
+say which way round, and the wiki does not decide. **Both pages carry qualifiers**, as `AGENTS.md`
+requires when a person and a place share a name, because `scripts/link-check.sh` resolves by
+basename and Obsidian picks between two files called `Shechem.md` by an unstated rule. The
+collision was flagged on [[Hamor]]'s page when he was created at 33:19, one pericope ahead of the
+man himself.
 
 ## Overview
 
@@ -39,7 +47,11 @@ Shechem's list is unusually violent for a place the Bible treats as sacred.
   Elohe Israel* — *God, the God of Israel* (33:18–20). It is the second piece of ground a patriarch
   ever purchases, after Machpelah.
 - **Dinah is raped and the city is massacred** by Simeon and Levi (34), the episode Jacob is still
-  condemning on his deathbed (49:5–7).
+  condemning on his deathbed (49:5–7) — and the town's own gate assembly is what carries the
+  circumcision proposal that makes the massacre possible (34:20–24). **The field Jacob bought here
+  in peace one chapter earlier is the ground his sons make him *odious* on**, and he leaves it for
+  Bethel in the next chapter under an explicit terror of reprisal (35:5). See
+  [[Dinah and the Massacre at Shechem]].
 - **Joseph is sent to his brothers there** and is sold on from nearby Dothan (37:12–14); his bones
   are eventually buried in Jacob's field (Joshua 24:32).
 - **The blessings and the curses** are read out from Gerizim and Ebal on either side of the town
@@ -64,6 +76,12 @@ same spot.
 - [[The Reconciliation with Esau]] — Genesis 33:18–20; Jacob arrives *"in peace"*, buys the field
   from the sons of [[Hamor]] for a hundred pieces of silver, and builds the altar *El Elohe Israel* —
   named for his own new name rather than for the place
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **the town is a character here and not a
+  backdrop**. Its prince seizes Jacob's daughter, its ruler offers intermarriage and open trade, its
+  gate assembly votes itself circumcised for the livestock it expects to absorb, and two of Jacob's
+  sons kill every male in it on the third day. **The Bible's first city to be destroyed by Israelites
+  is destroyed four centuries before the conquest, by two men, over one woman, and Genesis passes no
+  verdict on it in the chapter itself**
 
 ## Related places
 
@@ -79,7 +97,9 @@ same spot.
   [[The Call of Abram]]
 - Jacob buys a field and builds the altar *El Elohe Israel* — Genesis 33:18–20,
   [[The Reconciliation with Esau]]
-- Dinah, and the massacre by Simeon and Levi — Genesis 34 *(not yet ingested)*
+- Dinah is seized by the city's prince, the whole town is circumcised on Jacob's sons' terms, and
+  Simeon and Levi kill every male of it on the third day — Genesis 34:1–31,
+  [[Dinah and the Massacre at Shechem]]
 - Jacob buries the household's foreign gods under the oak — Genesis 35:4 *(not yet ingested)*
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
 - Joshua's covenant renewal — Joshua 24:1–27

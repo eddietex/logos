@@ -150,7 +150,7 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
 - [[Canaan]] — entered for the first time by anybody in the Bible: *"they went to go into the land of
   Canaan. They entered into the land of Canaan"* (12:5), the second clause doing what 11:31's never
   got to do.
-- [[Shechem]] — the first place in the land Abram stops, at *the oak of Moreh*; a Canaanite sanctuary
+- [[Shechem (city)]] — the first place in the land Abram stops, at *the oak of Moreh*; a Canaanite sanctuary
   before it is anything of Israel's, and the site Joshua will choose for the covenant renewal.
 - [[Bethel]] and [[Ai]] — the two towns Abram pitches between, twenty miles south. Bethel becomes
   Jacob's ladder and Jeroboam's calf; Ai becomes Joshua's one defeat. Abram is standing between them

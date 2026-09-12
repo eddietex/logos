@@ -78,6 +78,21 @@ for revenge becomes its measure for pardon. See
   should I be bereaved of you both in one day?"* (27:45) — **a killing costs two sons, the murdered
   one and the one who must answer for the blood**, which is the world of 4:14 and of 9:6. See
   [[Whoever Sheds Man's Blood]]
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:25–31, **the theme's largest Genesis case and
+  the one the book never totals.** One act against one woman is answered by **every male of a town**,
+  its flocks, herds and donkeys, its wealth, and its women and children taken captive (34:25–29).
+  **Set against the theme's arithmetic** — Cain's sevenfold as a protection, Lamech's
+  seventy-sevenfold as a boast, and Noah's exactly one-for-one at 9:6 — **Genesis 34 states no ratio
+  at all**, and the two brothers who act give the only justification in the chapter as a question:
+  *"Should he deal with our sister as with a prostitute?"* (34:31). **Nobody answers it.** Three
+  further things the wiki holds together without resolving them: the narrator endorses their reading
+  of the offence (*folly in Israel*, 34:7) and never endorses their response; **the remedy the Torah
+  will later prescribe was on the table** (the bride-price and marriage of Exodus 22:16–17 and
+  Deuteronomy 22:28–29, offered at 34:11–12) **and was refused**; and [[Jacob]]'s objection at 34:30
+  is about danger, not about proportion, so that **the book's verdict has to wait until 49:5–7 and
+  falls on the *anger*, not on the killing's scale**. See
+  [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] and
+  [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]]
 - [[Cain and Abel]] — the sevenfold guarantee that keeps a murderer alive
 - [[The Line of Cain and the Birth of Seth]] — Lamech taking the number for himself and inflating it
 - [[The Covenant with Noah]] — the rule that cancels both numbers with one, and hands the requiring of
@@ -109,5 +124,8 @@ for revenge becomes its measure for pardon. See
 - [[Lamech (son of Methushael)]]
 - [[Tubal Cain]]
 - [[Noah]] — the first person given a standing rule about killing, and given it without a court
+- [[Simeon]] and [[Levi]] — who take the largest revenge in Genesis and are cursed for the anger
+  behind it fifteen chapters later
+- [[Dinah]] — in whose name it is taken, and who is never recorded saying anything about it
 - [[Esau]] — who plans a fratricide, dates it to his father's funeral, and does not do it
 - [[Rebekah]] — who states the arithmetic: a killing inside a family costs two sons, not one

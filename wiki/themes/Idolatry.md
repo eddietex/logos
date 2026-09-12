@@ -43,9 +43,9 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
   religion of the branch that stayed in Mesopotamia; on another the plural is grammatical agreement
   and means nothing. **The wiki adopts neither.** See [[The Names of God]].
 - **The one purge, at 35:2–4.** *"Put away the foreign gods that are among you"* — Jacob collects them
-  along with the earrings and buries them under the oak at [[Shechem]]. **Genesis does not say whose
-  they were, does not name the *teraphim*, and does not say the burial was commanded.** *(Not yet
-  ingested.)*
+  along with the earrings and buries them under the oak at [[Shechem (city)]]. **Genesis does not
+  say whose they were, does not name the *teraphim*, and does not say the burial was commanded.**
+  *(Not yet ingested.)*
 - **Egypt, throughout the Joseph cycle** — a court, a priesthood at On, and a priest's daughter
   married into the covenant line (41:45), **all reported without a word of religious comment.**
 

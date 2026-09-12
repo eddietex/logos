@@ -358,6 +358,39 @@ exactly as spoken. See [[Deception]].
 altar he names *ʾĒl ʾĕlōhê Yiśrāʾēl* — **attaching his own new name to God two chapters before God
 uses it of him again** (35:10). See [[Names and Naming]] and [[The Names of God]].
 
+### In this pericope — Genesis 34:1–31
+
+**He hears, and does nothing that the chapter records.** *"Now Jacob heard that he had defiled Dinah,
+his daughter; and his sons were with his livestock in the field. Jacob held his peace until they
+came"* (34:5) — ***heḥĕrîš***, *he kept silent*. **Genesis gives him a circumstance and no interior**,
+and the silence is the same one he keeps when Reuben sleeps with Bilhah at 35:22. **He is absent from
+the negotiation his sons conduct in his name**: [[Hamor]] comes out to talk with him (34:6), and from
+34:8 on it is the sons who answer, propose, and swear.
+
+**His one recorded objection contains no moral term.** *"You have troubled me, to make me odious to
+the inhabitants of the land, among the Canaanites and the Perizzites. I am few in number. They will
+gather themselves together against me and strike me, and I will be destroyed, I and my house"*
+(34:30) — ***ʿăkartem***, *you have troubled*, the verb behind Achan's valley of Achor, and
+***lĕhabʾîšēnî***, *to make me stink*. **It is entirely about the household's safety. He says nothing
+about Dinah, nothing about the town, and nothing about the oath his sons swore and broke.** The
+brothers answer with the chapter's last line and he does not reply.
+
+**His answer arrives fifteen chapters later, from his deathbed** — *"Cursed be their anger, for it
+was fierce; and their wrath, for it was cruel"* (49:7) — **and by then the ground has moved**: at
+34:30 the complaint was danger, at 49:6 it is *"in their anger they killed men"*. See
+[[Dinah and the Massacre at Shechem]] and
+[[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
+
+**And the fear he states at 34:30 is answered in the next chapter without his asking**: *"a terror of
+God was on the cities that were around them, and they didn't pursue the sons of Jacob"* (35:5). **The
+protection he calculated he had lost is supplied by the God the whole of chapter 34 never names.**
+
+**One further claim of his does not fit this chapter or the one before it.** At 48:22 he tells Joseph
+he gave him *"one portion above your brothers, which I took out of the hand of the Amorite with my
+sword and with my bow"* — **against the purchase at 33:19 and against his own repudiation at 34:30**.
+The wiki flags the contradiction and harmonizes nothing; see
+[[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
@@ -451,6 +484,8 @@ is carried back to Machpelah.
   then Shechem instead — Genesis 33:14–18
 - Buys land for the first time in his life, at Shechem, and builds the altar *El Elohe Israel* —
   Genesis 33:19–20
+- Hears that Dinah has been defiled and holds his peace; objects to the massacre only on grounds of
+  the household's safety — Genesis 34:5, 30, [[Dinah and the Massacre at Shechem]]
 - Buries Rachel; loses Joseph; goes down to Egypt at a hundred thirty — Genesis 35; 37; 46
   *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
@@ -522,9 +557,17 @@ is carried back to Machpelah.
   God"* — completing the word Peniel was named for. He calls the gift he presses on Esau *my
   blessing*, states a plan to follow him to Seir that the text never shows him keeping, and ends the
   chapter buying land for the first time and naming an altar after his own new name
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **he is barely in his own chapter.** He
+  hears and holds his peace, is displaced from the negotiation by his sons, and objects afterwards on
+  grounds of safety alone — no moral term, no mention of his daughter, no reply to the question the
+  brothers end on. **His verdict comes fifteen chapters later**, and his one claim to have taken this
+  ground by sword and bow (48:22) fits neither his purchase at 33:19 nor his repudiation here
 
 ## Related people
 
+- [[Dinah]] — his only named daughter, whose defiling he hears about and says nothing about
+- [[Shechem (son of Hamor)]] and [[Hamor]] — the prince who takes her and the father who negotiates
+  for him; both killed by two of Jacob's sons while he is silent
 - [[Esau]] — his twin, elder by moments; the brother whose heel he holds at birth, whose birthright
   he buys, whose blessing he takes, and who runs to embrace him twenty years later
 - [[Isaac]] — his father, who prayed for the pregnancy that produced him and then loved the other son

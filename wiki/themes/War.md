@@ -66,7 +66,15 @@ what is withheld, which is Genesis's habit with its patriarchs.
   of his army*, is named twice and does nothing**; he is the standing reminder of what the king could
   do instead, and the entire function of his rank in the scene is that it is not used. A seized well,
   a formal complaint, and a general in the room — settled with sheep, seven lambs, and an oath
-- Genesis 34:25–30; 49:5–7 — Shechem, and the curse on it
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:25–30; **the first time Israelites take a city,
+  four centuries before the conquest.** It is fought by two men, not an army; the weapon is a treaty
+  and a covenant rite rather than a siege; the city is taken ***beṭaḥ***, *unsuspecting*, in the state
+  the treaty produced; and the spoil is inventoried in the vocabulary the conquest narratives will use
+  — flocks, herds, donkeys, wealth, wives and little ones (34:28–29). **Genesis 34 also contains the
+  Bible's first taking of captives.** Against Genesis 14, where Abram fights a coalition to recover a
+  kinsman and refuses every thread of the spoil, **this is a raid that keeps everything**, and the
+  book's verdict on it comes from Jacob's deathbed at 49:5–7: *"their swords are weapons of
+  violence"*. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 - Exodus 14:14; 15:3 — Yahweh fights
 - Deuteronomy 20:1–20 — the laws of war, with their exemptions
 - Deuteronomy 7:1–5; Joshua 6:17–21 — the *ḥērem*

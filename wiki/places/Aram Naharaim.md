@@ -112,7 +112,7 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
 - [[Canaan]] — the promised country, four hundred miles south-west, and the one this region's
   daughters all move to
 - [[Damascus]] — the other Aramean city Genesis names
-- [[Shechem]] — where Jacob arrives *"in peace … when he came from Paddan Aram"* (33:18)
+- [[Shechem (city)]] — where Jacob arrives *"in peace … when he came from Paddan Aram"* (33:18)
 
 ## Events here
 

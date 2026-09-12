@@ -242,7 +242,7 @@ Genesis 34 will make him a central figure. See [[Hamor]].
   now**: Exodus 12:37 names a different Succoth, the Israelites' first stop out of Egypt, and the two
   are not the same place. When Exodus is ingested this page and that one will need the `(place)`-style
   qualifiers the schema uses for name collisions.
-- [[Shechem]] — updated. Already on the wiki from [[The Call of Abram]] as the first stop in the land
+- [[Shechem (city)]] — updated. Already on the wiki from [[The Call of Abram]] as the first stop in the land
   Abram made; this pericope adds Jacob's purchase and altar, the second event in the thread the
   connection page below already anticipated.
 - [[Edom]] — Esau's destination, Seir, already on the wiki; not a new page.
@@ -328,7 +328,7 @@ Genesis 34 will make him a central figure. See [[Hamor]].
   [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]], tracing 33:4's five verbs
   through Joseph's two reunions (45:14–15; 46:29–30, not yet ingested) into Luke 15:20, where the
   Septuagint's Greek and the parable's Greek are close to identical.
-- **On what was updated rather than created.** [[Shechem]], whose page already anticipated this
+- **On what was updated rather than created.** [[Shechem (city)]], whose page already anticipated this
   purchase from [[The Call of Abram]]'s ingest; and the connection page
   [[The Altar at Shechem and the Covenant at Shechem]], whose *(not yet ingested)* marker on
   33:18–20 is now cleared.

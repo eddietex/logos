@@ -162,6 +162,15 @@ the land.
   concedes a point: Laban says *"the daughters are my daughters… and all that you see is mine"* and
   then asks *"what can I do today?"* **The settlement is a border, a heap of stones appointed as
   witness, and a meal** — and the peace it makes is permanent because it is a separation
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:8–26; **the theme's counter-case, and the wiki's
+  clearest one.** Everything the successful settlements of Genesis contain is present here: a stated
+  grievance, a negotiation, terms, a public ratification at the city gate, and a rite to seal it.
+  **Against [[Abram and Lot Separate]] (13:8–9), [[The Treaty at Beersheba]] (21:22–34) and the heap
+  at [[Galeed]] (31:44–54), where the settlement is honoured and the parties separate, this one is
+  agreed in order to be broken.** The difference is not in the procedure but in the intent, which the
+  narrator states before the procedure begins: *"with deceit"* (34:13). **Genesis 34 is what the
+  peacemaking chapters look like when one party never meant it** — and the peace it destroys was
+  offered on terms more generous than any patriarch had yet been given
 
 ## Related themes
 

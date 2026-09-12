@@ -11,10 +11,10 @@ A grove of trees at [[Hebron]], and the most fixed address in the Abraham cycle.
 
 *"Abram moved his tent, and came and lived by the oaks of Mamre, which are in Hebron, and built an
 altar there to Yahweh"* (Genesis 13:18). The Hebrew is *ʾēlōnê Mamrēʾ* — *oaks* or *terebinths*, the
-same class of word as the *oak of Moreh* at [[Shechem]] where he built his first altar (12:6–7). Big
-solitary trees are landmarks in a country without them, and in Canaanite practice they are also
-sanctuaries; Genesis has Abram camping and sacrificing at two of them and never once explains the
-choice. See [[Abram and Lot Separate]].
+same class of word as the *oak of Moreh* at [[Shechem (city)]] where he built his first altar
+(12:6–7). Big solitary trees are landmarks in a country without them, and in Canaanite practice they
+are also sanctuaries; Genesis has Abram camping and sacrificing at two of them and never once
+explains the choice. See [[Abram and Lot Separate]].
 
 **Everything stationary in the rest of his life happens here.** Yahweh appears to him *"by the oaks
 of Mamre, as he sat in the tent door in the heat of the day"* when the three visitors come and Sarah
@@ -51,7 +51,7 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
 - [[Hebron]] — the town it belongs to; Genesis 13:18 defines Mamre by it
 - [[Machpelah]] — the field it stands in front of, in the phrase Genesis repeats five times
 - [[Damascus]] — the far end of the pursuit that starts from this grove (14:14–15)
-- [[Shechem]] — the other tree-sanctuary, and the site of his first altar
+- [[Shechem (city)]] — the other tree-sanctuary, and the site of his first altar
 - [[Canaan]] — the land it sits in
 
 ## Events here

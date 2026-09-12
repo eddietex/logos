@@ -211,6 +211,18 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   afflict my daughters, or if you take wives besides my daughters"* (31:50) — **is extracted by
   private oath from a man who already has four women in his tents**, centuries before any law says
   anything of the kind
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:4, 8–12, 16; **a marriage proposal that is also a
+  treaty of assimilation, and the theme's sharpest collision in Genesis.** [[Hamor]] asks not for one
+  marriage but for connubium in both directions — *"Make marriages with us. Give your daughters to us,
+  and take our daughters for yourselves"* (34:9) — with residence, trade and property attached, and
+  the goal stated twice: *"we will become one people"* (34:16, 22). **It is exactly what the covenant
+  household's marriage policy exists to prevent** (24:3; 27:46; 28:1), which is why the refusal can be
+  delivered as a lie and still be true. **[[Shechem (son of Hamor)]]'s own offer is the law's**:
+  *"Ask me a great amount for a dowry, and I will give whatever you ask of me"* (34:12) — ***mōhar***
+  and ***mattān***, which is the remedy Exodus 22:16–17 and Deuteronomy 22:28–29 will prescribe for
+  this case, **offered by the man who committed it and refused by the family it was owed to.** The
+  wiki records the tension and adopts no ruling; and it notes that **Dinah, the one person being
+  married in the chapter, is never addressed by anybody in it**
 
 ## Related themes
 

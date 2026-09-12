@@ -117,5 +117,5 @@ ends with a conversation about whether the place matters, held at the place.
   becomes a site of murder, idolatry, and schism. The Bible neither denies the revelation nor
   protects the place because of it.
 
-Related: [[Shechem]] · [[The Call of Abram]] · [[Canaan]] · [[Call and Election]] ·
+Related: [[Shechem (city)]] · [[The Call of Abram]] · [[Canaan]] · [[Call and Election]] ·
 [[Sacrifice and Offering]]

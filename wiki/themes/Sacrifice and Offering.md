@@ -70,7 +70,7 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   sends the three friends to Job with their bulls and rams and accepts his prayer for them. See
   [[Job of Uz]] and [[Sacrifice Before the Priesthood]].
 - **Genesis 12:7–8** — the first patriarchal altars, and the pattern they set. Abram builds at
-  [[Shechem]] *"to Yahweh, who had appeared to him"* — the altar answers a theophany — and again on
+  [[Shechem (city)]] *"to Yahweh, who had appeared to him"* — the altar answers a theophany — and again on
   the ridge by [[Bethel]], where he *"called on Yahweh's name"*. **Neither verse mentions a victim, a
   burning, or an aroma.** That silence is consistent across the patriarchal altars (12:7, 12:8,
   13:18, 26:25, 33:20) and is a sharp break from Noah at 8:20–21, where the whole point was what went

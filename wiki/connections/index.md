@@ -139,3 +139,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
 | [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:13–15 · Judges 13:17–18 |
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
+| [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
+| [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
+| [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] | thread | Genesis 34:13–31 · Genesis 49:5–7 · Exodus 32:26–29 · Numbers 25:6–13 · Deuteronomy 33:8–11 · Joshua 19:1, 9 · Numbers 26:14 · Numbers 35:1–8 |
+| [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |

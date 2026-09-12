@@ -21,38 +21,63 @@ rather than a slur (donkeys are sacrificed in Mari and Amorite covenant-ratifica
 supplies no etymology for it, unlike its usual practice with names that matter to the story; the
 wiki records the outside evidence as background rather than as an explanation the text itself gives.
 
-### What is still ahead
+### Genesis 34 — the negotiator who never mentions the offence
 
-This page grows when Genesis 34 arrives; what follows is the shape of it, not a substitute for it.
+**He is the Hivite ruler of the town, and his one speech in the Bible is a treaty proposal with the
+reason for it left out.** *"The soul of my son, Shechem, longs for your daughter. Please give her to
+him as a wife. Make marriages with us… You shall dwell with us, and the land will be before you.
+Live and trade in it, and get possessions in it"* (34:8–10). **Nothing in it acknowledges what his
+son has done.** He offers connubium in both directions, residence, freedom of movement, and property
+— **the substance of the promise, offered as a commercial arrangement by the people who hold the
+land.** It is also the precise thing the covenant line has refused three times (24:3; 27:46; 28:1).
 
-He is the city's ruler at Shechem, and Genesis 34 gives him the negotiation with Jacob's sons after
-his son Shechem seizes Dinah — a marriage proposal, an open offer of intermarriage and land, and a
-demand for circumcision met in bad faith by Simeon and Levi, who kill him and his son on the third
-day and plunder the city (34:1–29). Joshua 24:32 remembers the field bought here as *"the parcel of
-ground… which Jacob bought of the sons of Hamor the father of Shechem"* — the purchase this page
-already records, cited three books later as an established fact.
+**He argues the same deal twice, to two audiences, on two different grounds.** To Jacob's sons it is
+kinship and shared land. To his own citizens at the gate it is an investment: *"Won't their livestock
+and their possessions and all their animals be ours? Only let us give our consent to them, and they
+will dwell with us"* (34:23). **The narrator calls only the Israelite side's answer deceit** (34:13,
+***bĕmirmâ***) and passes no comment on this. See [[Deception]].
+
+**He carries the city with him and it costs the city everything.** *"All who went out of the gate of
+his city listened to Hamor, and to Shechem his son; and every male was circumcised"* (34:24) — a
+whole town's unanimous consent to major surgery on its ruler's word, with no objection recorded.
+**Three days later he and his son are the two named dead**: *"They killed Hamor and Shechem, his son,
+with the edge of the sword"* (34:26). See [[Dinah and the Massacre at Shechem]].
+
+**The field survives him under his own name.** Joshua 24:32 buries Joseph's bones in *"the parcel of
+ground which Jacob bought of the sons of Hamor the father of Shechem for a hundred pieces of money"*
+— **the purchase of 33:19, cited three books later as the settled title to the ground**, with no
+mention of the sack. See
+[[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]].
 
 ## Timeline / key events
 
 - Named as Shechem's father and the seller of Jacob's field at Shechem, for one hundred pieces of
   money — Genesis 33:19, [[The Reconciliation with Esau]]
-- Negotiates with Jacob's sons after his son Shechem seizes Dinah; killed with his son by Simeon and
-  Levi on the third day — Genesis 34:1–29 *(not yet ingested)*
+- Negotiates with Jacob's sons after his son seizes Dinah, and carries the city gate on the
+  circumcision terms; killed with his son by [[Simeon]] and [[Levi]] on the third day — Genesis
+  34:6–26, [[Dinah and the Massacre at Shechem]]
 
 ## Appears in
 
 - [[The Reconciliation with Esau]] — Genesis 33:19; named once, to identify whose land Jacob buys.
   He is not shown acting or speaking; the sale is reported entirely from Jacob's side
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:6–26; **the chapter's negotiator**, who opens
+  with his son's longing and never names his son's act, offers intermarriage and open land, sells the
+  terms to his own assembly on the livestock, and is killed with him on the third day
 
 ## Related people
 
 - [[Jacob]] — buys the field from his sons
-- **Shechem, his son** — not yet a page; Genesis 34 will require the `(person)`-style qualifier
-  against the existing place page [[Shechem]], on the schema's rule for a name shared between a
-  person and a place
+- [[Shechem (son of Hamor)]] — his son, whose page was created at the Genesis 34 ingest; the
+  collision this page flagged at 33:19 was resolved then, with the place renamed
+  [[Shechem (city)]] and all inbound links fixed in the same pass
 - [[Dinah]] — Jacob's daughter, seized by Hamor's son in the chapter this page is still waiting for
 
 ## Themes associated
 
 - [[Land and Sojourning]]
 - [[Strife and Peacemaking]]
+- [[The Nations]]
+- [[Deception]]
+- [[Circumcision]]
+- [[Wealth and Possessions]]

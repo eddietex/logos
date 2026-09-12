@@ -11,11 +11,11 @@ The hill town Abram moves to at the end of Genesis 13 and never really leaves �
 address, their graveyard, and later David's first capital.
 
 **He arrives by tent.** *"Abram moved his tent, and came and lived by the oaks of Mamre, which are in
-Hebron, and built an altar there to Yahweh"* (13:18). Third altar, after [[Shechem]] (12:7) and the
-ridge between [[Bethel]] and [[Ai]] (12:8), and the one he settles at. Everything the rest of the
-Abraham cycle does in a fixed location happens here: the three visitors and the promise of a son
-(18:1), the intercession for Sodom (18:16–33), and the purchase of the cave of Machpelah *"before
-Mamre"* (23:17–20). See [[Abram and Lot Separate]].
+Hebron, and built an altar there to Yahweh"* (13:18). Third altar, after [[Shechem (city)]] (12:7)
+and the ridge between [[Bethel]] and [[Ai]] (12:8), and the one he settles at. Everything the rest
+of the Abraham cycle does in a fixed location happens here: the three visitors and the promise of a
+son (18:1), the intercession for Sodom (18:16–33), and the purchase of the cave of Machpelah
+*"before Mamre"* (23:17–20). See [[Abram and Lot Separate]].
 
 **Where it is.** About nineteen miles south-southwest of Jerusalem, high in the Judean hill country
 at roughly 3,000 feet — one of the highest towns in the land, on the ridge road, and dry. Genesis

@@ -48,7 +48,7 @@ another in the book. [[The Rescue of Lot and Melchizedek]] already cross-referen
 - [[The Jabbok]] — the river the site sits near the mouth of
 - [[Edom]] — Seir, Esau's destination the same verse, and the place Jacob's own itinerary at 33:14
   names and does not reach
-- [[Shechem]] — Jacob's next and final stop in this pericope, further still into Canaan
+- [[Shechem (city)]] — Jacob's next and final stop in this pericope, further still into Canaan
 
 ## Events here
 

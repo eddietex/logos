@@ -230,6 +230,15 @@ where that starts, in a sentence about a family that got halfway.
   country but a man — *"to go to Isaac his father, to the land of Canaan"* (31:18). **The pericope
   ends with the household still outside the land**, on a border in [[Gilead]] it has just sworn never
   to recross
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:10, 21, 30; **the promise's substance offered as
+  a commercial arrangement by the people who currently hold it.** [[Hamor]] says *"the land will be
+  before you. Live and trade in it, and get possessions in it"* (34:10), and tells his own citizens
+  *"the land is large enough for them"* (34:21) — **an open invitation to settle, which is more than
+  God's promise has yet delivered to anyone in the family, and it is refused.** And the pericope ends
+  on the sojourner's standing fear stated plainly: *"I am few in number. They will gather themselves
+  together against me and strike me"* (34:30) — ***mĕtê mispār***, the phrase Psalm 105:12 uses of the
+  patriarchs as a whole. **Jacob had bought his first piece of ground one chapter earlier (33:19); by
+  the end of this one he cannot stay on it**, and the next chapter moves the household to Bethel
 
 ## Related themes
 

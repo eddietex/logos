@@ -182,6 +182,11 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   is the middle group, safer than the servants and more exposed than Rachel. The same ranking of
   exposure implied by *"he loved also Rachel more than Leah"* (29:30), now expressed in logistics.
   She bows with her children and does not speak
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:1; named once, in the chapter's first clause, to
+  identify her daughter — *"Dinah, the daughter of Leah, whom she bore to Jacob"* — and not again.
+  **She is absent from every scene of the chapter her daughter is in**, and the two brothers who
+  avenge Dinah are specified as *Dinah's brothers* (34:25) rather than as Jacob's sons, which is to
+  say: **the avengers are Leah's, and the narrator says so without drawing the inference**
 
 ## Related people
 
@@ -194,7 +199,9 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - [[Rebekah]] — her husband's mother, whose technique her father repeats on her husband
 - [[Reuben]], [[Simeon]], [[Levi]], [[Judah]], [[Issachar]], [[Zebulun]] — her six sons, and half the
   tribes of Israel; the priesthood and the kingship are both hers
-- [[Dinah]] — her daughter, and the only one of Jacob's daughters the Bible names
+- [[Dinah]] — her daughter, and the only one of Jacob's daughters the Bible names; Genesis identifies
+  her through Leah both at her birth (30:21) and at Genesis 34:1, and counts her among Leah's
+  children at 46:15
 - [[Gad]] and [[Asher]] — Zilpah's sons, borne for her and named by her
 
 ## Themes associated

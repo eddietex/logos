@@ -203,6 +203,19 @@ has become a nation.
   statement of present fact** — no disguise, no direct lie under questioning — so the wiki does not
   file it as a *mirmâ* alongside 27:19 or 27:24. It is recorded instead as a stated intention the
   text does not show fulfilled, in a family whose words have not always meant what they said
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:13; ***bĕmirmâ***, **and this time the narrator
+  says it before the reader can work it out**: *"The sons of Jacob answered Shechem and Hamor his
+  father with deceit."* **It is the same noun Isaac used of Jacob** — *"Your brother came with deceit,
+  and has taken away your blessing"* (27:35) — **passed to the next generation and used at the scale
+  of a town.** Three features make it the theme's most developed Genesis instance. **The lie is built
+  on a true policy**: the household really does refuse to marry out (24:3; 27:46; 28:1), so
+  *"we can't do this thing, to give our sister to one who is uncircumcised"* (34:14) is what the
+  family would have said anyway. **The instrument is the covenant sign itself**, agreed as a term of
+  trade and then used as an incapacitation on the third day. And **the other side deceives too and is
+  not labelled for it**: [[Hamor]] and [[Shechem (son of Hamor)]] argue intermarriage and shared land
+  to Jacob's sons (34:9–10) and argue livestock to their own citizens at the gate (34:23). **Genesis
+  names only the Israelite deceit as deceit**, and the wiki notes the asymmetry without explaining it
+  away
 
 ## Related themes
 

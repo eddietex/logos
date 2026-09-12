@@ -63,12 +63,12 @@ when their turn comes. He is seventy-five. He takes Sarai, Lot, the property, an
 acquired in Haran, covers roughly four hundred miles, and enters [[Canaan]] — the first person in
 the Bible to arrive there.
 
-What he does in the land is walk down it and build on it twice. An altar at [[Shechem]], beside a
-Canaanite oracle tree, in answer to the first theophany granted to a named individual in Scripture
-(12:7); an altar on the ridge between [[Bethel]] and [[Ai]], with the name of Yahweh proclaimed at
-it (12:8); then south, *"still going on"*, into [[The Negev]]. He builds no house and buys no field.
-The land is promised not to him but to his offspring — *"I will give this land to your offspring"* —
-and he has none.
+What he does in the land is walk down it and build on it twice. An altar at [[Shechem (city)]],
+beside a Canaanite oracle tree, in answer to the first theophany granted to a named individual in
+Scripture (12:7); an altar on the ridge between [[Bethel]] and [[Ai]], with the name of Yahweh
+proclaimed at it (12:8); then south, *"still going on"*, into [[The Negev]]. He builds no house and
+buys no field. The land is promised not to him but to his offspring — *"I will give this land to
+your offspring"* — and he has none.
 
 **Two things about him are set here that the rest of the Bible will argue from.** The first is that
 his obedience is narrated without an interior: Genesis gives the command four verses and the

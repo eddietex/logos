@@ -74,7 +74,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 ## Related places
 
 - [[Ai]] — the town on the other side of Abram's camp, a mile or two east
-- [[Shechem]] — his first stop, twenty miles north along the same ridge
+- [[Shechem (city)]] — his first stop, twenty miles north along the same ridge
 - [[Canaan]] — the land both sit in
 - [[The Negev]] — where he goes next
 

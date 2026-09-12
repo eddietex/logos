@@ -126,6 +126,14 @@ the promise is repeatedly mistaken for.
   our money"* — and reassign it to themselves and their children; and Laban's last word on it is
   *"the flocks are my flocks… and all that you see is mine."* **Four claims and no adjudication.**
   The chapter's own summary of the alternative is one adverb: ***rêqām***, *empty* (31:42)
+- [[Dinah and the Massacre at Shechem]] — Genesis 34:23, 28–29; **the same inventory read from both
+  sides, twelve verses apart.** At the gate, [[Hamor]] sells the merger to his citizens on what they
+  stand to absorb — *"Won't their livestock and their possessions and all their animals be ours?"*
+  (34:23). **Three days later the list belongs to the other party**: *"They took their flocks, their
+  herds, their donkeys, that which was in the city, that which was in the field, and all their
+  wealth"* (34:28–29). **Each side's reason for the treaty was the other side's property**, and
+  Genesis reports both without comment. It also records, flatly and for the first time in the Bible,
+  **people counted as plunder**: *"they took captive all their little ones and their wives"*
 
 ## Related themes
 

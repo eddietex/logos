@@ -57,7 +57,7 @@ Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes**
   Jacob is going
 - [[Aram Naharaim]] — the country left behind; Gilead is where the two branches of the family agree
   never to cross to each other
-- [[Shechem]] — the next place named on this journey, once the Jordan is behind him
+- [[Shechem (city)]] — the next place named on this journey, once the Jordan is behind him
 
 ## Events here
 

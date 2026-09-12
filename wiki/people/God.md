@@ -1009,6 +1009,32 @@ not). **Genesis prints the plural and explains nothing.** **The same chapter has
 stolen figurines ***my gods*** (31:30), in the identical noun.** See [[The Names of God]] and
 [[Idolatry]].
 
+### He is not there at all — Genesis 34:1–31
+
+**The first chapter in Genesis in which the divine name never appears.** Not *ʾĕlōhîm*, not *YHWH*,
+not *ʾĒl*, not in the narrator's voice and not in any character's — **and there are only four such
+chapters in the book (34, 36, 37, 47), of which this is the first and the only one that is a
+developed narrative rather than a register or an administrative summary.**
+
+**It is a sharper absence than Genesis 9:18–29, 14, 21:22–34 or 27**, where he is at least talked
+about, invoked, or inferred. **Here nobody swears by him, appeals to him, blames him, or thanks
+him.** The household that has had a theophany in each of the last six chapters — the ladder, the
+flocks, the instruction to leave Laban, the camp of angels, the man at the Jabbok, the face like the
+face of God — **conducts a marriage negotiation, a covenant rite, and a massacre without one
+reference to him.**
+
+**And the sign that is used is his.** [[Circumcision]] was given at 17:9–14 as *"the token of the
+covenant between me and you"*, with an explicit provision for outsiders bought into the household.
+**Genesis 34 proposes it as a commercial term, performs it on an entire Gentile town, and uses the
+third day of it as a weapon — and never names the God whose token it is.** The wiki states the
+absence and declines to read a verdict out of it: **Genesis does not say the brothers acted without
+him, only that nobody in the chapter mentions him.**
+
+**He returns immediately, unasked, and does the thing Jacob feared he could not do.** *"They
+traveled, and a terror of God was on the cities that were around them, and they didn't pursue the
+sons of Jacob"* (35:5) — **answering 34:30's *"they will gather themselves together against me"*
+without a prayer having been recorded.** See [[Dinah and the Massacre at Shechem]].
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -1354,6 +1380,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   promised, is named *ʾĕlōhîm* through the command and *YHWH* in the rescue, says *"now I know"* of
   something the reader assumed he knew, provides a ram that was already in the thicket, and swears by
   himself for the only time in Genesis
+- [[Dinah and the Massacre at Shechem]] — **not at all.** The first of the four chapters in Genesis
+  with no divine name in them, and the only developed narrative among them: his covenant sign is
+  proposed, agreed, performed on a town and used to destroy it, and he is neither named, invoked, nor
+  said to act. He supplies the protection Jacob fears he has lost one chapter later, unasked (35:5)
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
