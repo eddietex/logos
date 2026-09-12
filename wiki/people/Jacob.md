@@ -295,12 +295,43 @@ See [[The Names of God]], [[The Fear of God]], and
 
 **He gets everything and asks for nothing, and he never finds out about the *teraphim*.**
 
+### In this pericope — Genesis 32:1–32
+
+**He prays for the first time in his life, and wrestles something until it changes his name.**
+
+**Angels meet him unsought, in the same verb Bethel used** — *wayyipgəʿû*, against *wayyipgaʿ*
+(28:11) — and he names the place **Mahanaim**, *two camps*, before he has divided anything into two.
+The division comes five verses later, out of fear: word that Esau is coming with four hundred men,
+and Jacob splits his people so that *"the company which is left will escape."* **He also, for the
+first time, addresses his brother as *my lord* and himself as *your servant*** — reversing the
+oracle of 25:23 in his own mouth, unprompted.
+
+**Then he prays**, in the sense [[Prayer]] tracks the word: unbidden, addressed to God rather than
+about him, and asking for something. Every earlier crisis produced a scheme or a complaint instead —
+refusing to pray for Rachel's womb (30:2), arguing the flocks to his wives rather than to God
+(31:4–13). Here he quotes God's own words back (*"you said, 'Return to your country'"*, 31:3) and
+calls himself, for the first time, *unworthy* — *qāṭōntî mikkōl haḥăsādîm*, against the audit of
+Laban's household he gave without a trace of humility two chapters earlier (30:30). **The prayer does
+not replace the plan**: he stages a five-wave gift of five hundred and eighty animals in the same
+night, each herd scripted to repeat his brother's new title back to him before he ever appears.
+
+**Then, alone at the Jabbok after sending everyone else across, he is seized by *a man* and wrestles
+him until daybreak.** The man cannot defeat him and disables him instead, touching his hip; Jacob
+will not release his grip without a blessing, and gets one — extracted by main force this time,
+against the blessing he once took by disguise from a father who could not see him (27:1–45). Asked
+his name, he answers honestly for the only time all night; he asks the same question back and is
+refused. **He is renamed Israel** — *for you have fought (śārîtā) with God and with men, and have
+prevailed* — a rename that, unlike Abram's or Sarai's, comes with a verdict on the past and no
+promise attached to the future. He names the place **Peniel**, *face of God*, for having seen God and
+lived, and passes over it at sunrise limping — the last physical description of him before the
+brother the whole night was about. See [[Wrestling at the Jabbok]] and
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He wrestles a man at the Jabbok until daybreak, is renamed **Israel**, and limps
-away (32:22–32). He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
+He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
 and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
 the years of my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
 **crossing his hands over Ephraim and Manasseh to put the younger first on purpose** (48:13–20) — and
@@ -371,8 +402,16 @@ is carried back to Machpelah.
   languages — Genesis 31:45–48, [[Galeed]]
 - Swears by ***the fear of his father Isaac***, declining Laban's joint formula, and offers the first
   *zebaḥ* in Scripture — Genesis 31:53–54
+- Sends messengers to Esau, hears of four hundred men, and divides his camp in two out of fear —
+  Genesis 32:3–8
+- Prays for the first time in his life, quoting the promise back to God and calling himself unworthy
+  — Genesis 32:9–12
+- Stages a five-wave gift of five hundred eighty animals, scripted to call Esau *lord* before he
+  arrives — Genesis 32:13–21
+- Sends his entire household across the Jabbok by night and stays behind alone — Genesis 32:22–23
 - Wrestles until daybreak at the Jabbok, is renamed **Israel**, and is left limping — Genesis
-  32:22–32 *(not yet ingested)*
+  32:24–32, [[Wrestling at the Jabbok]]
+- Names the place Peniel — *"I have seen God face to face, and my life is preserved"* — Genesis 32:30
 - Reconciled with Esau, who runs to meet him — Genesis 33:1–17 *(not yet ingested)*
 - Buries Rachel; loses Joseph; goes down to Egypt at a hundred thirty — Genesis 35; 37; 46
   *(not yet ingested)*
@@ -432,6 +471,13 @@ is carried back to Machpelah.
   ***Rêqām*** and ***ʿŏnî***, two words of Exodus 3, in a private grievance. He raises the one pillar
   of his four that is not for God, **swears by a divine title that excludes his uncle's line**, and
   offers the Bible's first *zebaḥ*. **He never learns about the *teraphim***
+- [[Wrestling at the Jabbok]] — Genesis 32:1–32; **he prays for the first time in his life, and is
+  renamed by force in the same night.** He reverses the birth oracle in his own mouth, calling
+  himself servant and Esau lord; prays, quoting the promise back and calling himself unworthy for the
+  first time; stages a five-wave gift while the prayer is still fresh; and then, alone at the Jabbok,
+  wrestles a man till daybreak, is crippled, and extracts a blessing he will not release his grip
+  without. **Renamed Israel, with no promise attached to the name**, and left limping into the
+  chapter that was the reason for all of it
 
 ## Related people
 
@@ -487,3 +533,5 @@ is carried back to Machpelah.
 - [[Seeing and Being Seen]]
 - [[Language and Speech]]
 - [[Sacrifice and Offering]]
+- [[Prayer]]
+- [[Names and Naming]]

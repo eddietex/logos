@@ -489,7 +489,8 @@ handed the job.**
   Esau's own reading of both transactions *(not yet ingested)*.
 - Genesis 29:21–30 — Laban substitutes the elder daughter for the younger, and Jacob wakes up married
   to Leah *(not yet ingested)*.
-- Genesis 32:22–32 — the night at the Jabbok, the new name, and the hip *(not yet ingested)*.
+- [[Wrestling at the Jabbok]] — Genesis 32:22–32; the night at the Jabbok, the new name given with a
+  verdict on the past rather than a promise for the future, and the hip he carries the injury from.
 - Genesis 33:1–20 — Esau runs to meet him, embraces him, and weeps *(not yet ingested)*.
 - Genesis 36:1–43 — Esau's *toledot*, his settlement in Seir, and the kings of Edom
   *(not yet ingested)*.

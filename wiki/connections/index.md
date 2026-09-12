@@ -137,3 +137,4 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · Deuteronomy 26:5 · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 |
 | [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
+| [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:13–15 · Judges 13:17–18 |

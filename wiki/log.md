@@ -5603,3 +5603,128 @@ fast-forwarded onto HEAD after verifying it was an ancestor, and the ingest was 
 Nothing was stashed, dropped, or rewritten. **This has now been the standing condition for many
 consecutive runs** — the container checks the repo out detached rather than on `main` — and it has
 still cost nothing, because every previous push had in fact landed.
+
+## [2026-09-11] ingest | Genesis 32.1-32 — Wrestling at the Jabbok
+
+Interactive run, no target argument. `wiki/books/index.md` gave **Genesis** as the first
+`in-progress` book and its page gave **Wrestling at the Jabbok — Genesis 32:1–32** as the first
+unchecked box. `raw/bible/Genesis.md` was already present. Discussed with the user before drafting:
+the structure (fear/prayer/gift, the crossing, the wrestling, Peniel, the etiology), the identity of
+the wrestler, the *Yiśrāʾēl* etymology, and the *pānîm* thread running from the staged gift to the
+naming — all confirmed as the working line before any page was written.
+
+**A chapter heavily pre-annotated by earlier ingests.** Six pages already carried forward references
+into Genesis 32 with real content attached — most notably
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]], written during the
+Genesis 30 pass, which had already worked out the *ʾābaq*/*pātal* verb comparison and the *yākōl*
+outcome this page relies on — and [[The Angel of Yahweh]], whose identity-problem table and method
+were extended rather than duplicated.
+
+### Judgment calls made in this pass
+
+- **The boundary was used as drawn, and kept whole.** 32:1 opens on a new location and threat (Laban
+  is gone, Esau is the subject from the first verse) and 32:32 closes on an etiology reaching past the
+  narrative into the reader's present. **A split at 32:22 — diplomacy from wrestling — was considered
+  and rejected**: the keyword *pānîm* crosses that boundary (32:20 into 32:30), and the wrestling only
+  makes sense as the night between a prayer and a dreaded meeting.
+- **The title was kept from the plan.** Alternatives rejected: *Peniel* (names only the last third),
+  *Jacob Becomes Israel* (front-loads a twenty-nine-verse-delayed outcome), *The Night Before Esau*
+  (true of half the chapter only).
+- **The identity of the wrestler was not resolved**, following [[The Angel of Yahweh]]'s standing
+  practice: *ʾîš*, then *ʾĕlōhîm* and men in one clause, then Jacob's own claim to have seen God — three
+  descriptions, no narratorial adjudication.
+- **Hosea 12:3–4's relocation to Bethel was recorded as a discrepancy, not harmonised.** Hosea supplies
+  the title *the angel* and moves the site; both are treated as the prophetic gloss's own contribution,
+  not as corrections to Genesis.
+- **The *Yiśrāʾēl* etymology was treated as the speaker's pun, not as settled linguistics** — the same
+  caution already standing for *Yaʿăqōb* and *Yiṣḥāq* — and the competing *God rules* reading was
+  recorded rather than adopted.
+- **The Hebrew's two spellings of Peniel/Penuel (32:30 vs. 32:31) were kept as a philological note**
+  rather than silently normalised; the WEB renders both *Peniel* and the page's title follows the WEB.
+- **One new connection page was judged warranted.**
+  [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] — the closest verbal parallel to
+  32:29 anywhere in the Old Testament is Judges 13:17–18, and Exodus 3:13–15 supplies the third case
+  where the question is answered by being complied with rather than refused. Filed as a connection
+  page rather than folded entirely into [[The Angel of Yahweh]], on the same logic as
+  [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]]: a verbal/thematic parallel
+  across non-adjacent texts gets its own page even when a person page also discusses the instance.
+- **Three place pages were judged warranted.** [[Mahanaim]], [[The Jabbok]], and [[Peniel]] — the
+  chapter's two namings and the water between them, none previously covered.
+- **No page was created for the four hundred men** — never confirmed as hostile, never appearing on
+  screen even in the reconciliation pericope's plan, carried on [[Esau]]. **No separate page for
+  Seir** — named once, already covered as Esau's territory on [[Edom]].
+
+### Things flagged rather than resolved
+
+- **Whether the prayer (32:9–12) or the staged gift (32:13–21) is what Jacob is actually trusting.**
+  Both answer the same fear in the same night; the narrator ranks neither and the gift is dispatched
+  before the reader is told the prayer has finished.
+- **Whether the four hundred men were ever a real threat.** Reported once, never confirmed, and Esau's
+  actual arrival — outside this pericope's scope — runs to embrace rather than attack.
+- **The motive for *"let me go, for the day breaks"* (32:26)** — stated by the wrestler and left
+  unglossed by the narrator.
+- **Dinah's absence from the crossing count at 32:22**, against eleven named sons — recorded as an
+  omission the text gives no reason for, not explained away.
+
+### Pages touched
+
+**Created (5).** `wiki/passages/Genesis/Wrestling at the Jabbok.md`; places [[Mahanaim]],
+[[The Jabbok]], [[Peniel]]; connection
+[[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]].
+
+**Revised (17).** People (3): [[Jacob]] (new in-pericope section, six timeline entries replacing one
+placeholder, an appearance note, two new themes), [[Esau]] (an off-stage appearance note and timeline
+entry — present in every consequence and absent from every verse), [[The Angel of Yahweh]] (a new
+subsection extending the identity-problem argument to 32:24–30, a table-adjacent timeline entry, an
+appearance note). Themes (6): [[Prayer]] (the placeholder instance written up in full, plus a related
+person added), [[Names and Naming]] (the placeholder instance written up in full), [[Blessing]] (the
+"to trace" placeholder resolved into a key passage), [[Seeing and Being Seen]] (a new key passage on
+the *pānîm* thread), [[Strife and Peacemaking]] (the bundled *Genesis 32–33* placeholder split so 32
+is resolved and 33 stays marked), [[The Fear of God]] (a new key passage contrasting named human fear
+with unnamed survival of a theophany). Connections (4):
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]],
+[[Angels Ascending and Descending - Genesis 28.12 in John 1.51]],
+[[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]] (two placeholders resolved),
+[[Dust, Stars, and Sand - The Offspring Promises]] — each given a link to the new passage page where
+it previously cited the verse as plain text. Passage pages (4, cross-reference placeholders resolved):
+[[Jacob's Flocks]], [[Jacob's Flight from Laban]] (two placeholders, plus a stale note in ## Notes
+corrected), [[Jacob and Esau and the Sold Birthright]], [[The Stolen Blessing]],
+[[The Birth of Jacob's Children]], [[Jacob's Ladder at Bethel]].
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary, [[Prayer]] added to key themes, [[Mahanaim]]/[[The Jabbok]]/[[Peniel]] added to key places),
+`wiki/books/index.md` (**40 / 59 → 41 / 59**), three rows extended in `wiki/people/index.md`, one row
+extended and three new rows in `wiki/places/index.md`, six rows extended in `wiki/themes/index.md`,
+one new row in `wiki/connections/index.md`. `wiki/index.md` now reads **47 passages · 98 people · 53
+places · 57 themes · 134 connections**, counted against what is on disk and matching exactly.
+
+**A file unrelated to wiki content was also committed separately before this pass**, per the ingest
+skill's instruction to keep a pre-existing dirty tree out of the ingest commit — not itself a wiki
+change and not detailed further here.
+
+### Link check
+
+`scripts/link-check.sh` exits **0** on the final run this pass, after three rounds of
+self-correction: the first run caught two wrapped links in the new passage page (a wikilink target
+split across the ~100-column wrap in two places); a later run, taken after this very log entry was
+drafted, caught a third wrapped link inside the entry's own **Pages touched** paragraph. All three
+were fixed the same way — moving the whole `[[...]]` onto one line rather than letting it straddle
+the wrap — which is itself the log's demonstration of why the script runs after every pass rather
+than being assumed clean. The expected baseline is **64** not-yet-started book pages, unchanged,
+since no new book page was created.
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather than
+wikilinks, so none is a finding: 33:1–20 (the meeting with Esau), 35:10–12 (the name Israel repeated
+by God with the promise attached), 48:15–16 (Jacob's own retrospective naming of *"the angel who has
+redeemed me"*).
+
+**Quotation check.** Every WEB verse quoted on the passage page was compared against
+`raw/bible/Genesis.md` mechanically, block by block: **32 quoted verse-blocks, 0 mismatches** after
+one round of correction — the first draft had silently straightened the raw text's curly quotation
+marks and apostrophes when it was typed rather than copied, which the mechanical comparison caught
+and a second pass fixed verse by verse.
+
+**Branch state.** Preflight was already clean at session start (`on main, already at origin/main`),
+with one note: the working tree was dirty from an untracked Obsidian theme folder, committed
+separately with its own message before this ingest began, exactly as the skill's step 5 requires when
+`git status` is dirty going in.

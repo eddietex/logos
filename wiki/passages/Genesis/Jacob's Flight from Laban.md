@@ -797,8 +797,10 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   one here.
 - [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] — the ranking that this speech briefly
   suspends.
-- Genesis 32:1–2 — the angels at Mahanaim, the next thing that happens to him *(not yet ingested)*.
-- Genesis 32:22–32 — the Jabbok, and the second night encounter on this journey *(not yet ingested)*.
+- [[Wrestling at the Jabbok]] — Genesis 32:1–2; the angels at Mahanaim, the next thing that happens
+  to him, and the second unsought encounter this journey gives him (compare 28:11, *wayyipgaʿ*).
+- [[Wrestling at the Jabbok]] — Genesis 32:9–12; the prayer that quotes 31:3 back to God almost
+  verbatim, the first time he has ever addressed God rather than reported on him.
 - Genesis 35:2–4 — *"put away the foreign gods that are among you"*, buried under the oak at Shechem
   *(not yet ingested)*.
 - Genesis 35:16–20 — Rachel's death, and the reading that connects it to 31:32 *(not yet ingested)*.
@@ -902,10 +904,11 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   of Isaac*** — the title occurs twice, in one chapter, and the material sits on
   [[The Names of God]] and [[The Fear of God]] rather than carrying a page of its own. **No connection
   page for the *gānab* chain**, which is confined to this pericope and is treated on this page.
-- **What was left for later pericopes.** Mahanaim and the angels (32:1–2); the Jabbok and the new name
-  (32:22–32); the meeting with Esau (33); the foreign gods buried at Shechem (35:2–4); Rachel's death
-  and the fourth pillar (35:16–20); Isaac's death (35:29); Joseph *sold* and Joseph *made strange*
-  (37:28; 42:7); and the *zebaḥ* at Beersheba (46:1). **All are given as plain scripture references
-  rather than wikilinks, so none is a dangling link.**
+- **What was left for later pericopes.** The meeting with Esau (33); the foreign gods buried at
+  Shechem (35:2–4); Rachel's death and the fourth pillar (35:16–20); Isaac's death (35:29); Joseph
+  *sold* and Joseph *made strange* (37:28; 42:7); and the *zebaḥ* at Beersheba (46:1). **All are given
+  as plain scripture references rather than wikilinks, so none is a dangling link.** Mahanaim and the
+  Jabbok (32:1–2, 22–32), left this way when this note was written, are now ingested — see
+  [[Wrestling at the Jabbok]].
 </content>
 </invoke>

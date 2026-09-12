@@ -11,7 +11,8 @@ tags: [connection]
 - John 1:43–51 — Nathanael under the fig tree, and *"the angels of God ascending and descending on
   the Son of Man"*
 - Genesis 27:35 — *"Your brother came with deceit"*
-- Genesis 32:28 — *"Your name will no longer be called Jacob, but Israel"*
+- Genesis 32:28 — *"Your name will no longer be called Jacob, but Israel"* —
+  [[Wrestling at the Jabbok]]
 - Hosea 12:3–4 — the prophets' summary of Jacob's two nights
 - Genesis 35:1–15 — the return to Bethel
 

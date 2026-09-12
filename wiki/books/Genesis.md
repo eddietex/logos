@@ -377,7 +377,15 @@ even fratricidal betrayal into rescue (Joseph).
   stones named ***Jegar Sahadutha*** in Aramaic and ***Galeed*** in Hebrew, **the only Aramaic in the
   Torah**; a *Mizpah* clause that is a surveillance agreement rather than a blessing; a boundary
   sworn on two incompatible titles for God, one of them with **a plural verb**; **the first *zebaḥ*
-  in Scripture and the first covenant meal**; and a man kissing his grandchildren goodbye.
+  in Scripture and the first covenant meal**; and a man kissing his grandchildren goodbye. Then
+  *[[Wrestling at the Jabbok]]* gives him, in one night, both things he has never done before: **he
+  prays**, quoting the promise back to God and calling himself unworthy for the first time, and **he
+  is renamed by force** after wrestling an unidentified *man* until daybreak. The chapter's keyword is
+  ***pānîm***, *face* — driven through the staged gift he sends ahead to *"cover"* his brother's face,
+  and landing on **Peniel**, *face of God*, the name he gives the ford for having survived seeing it.
+  He is crippled in the same act that blesses him, and the sentence Genesis uses for the rename —
+  *"you have fought with God and with men, and have prevailed"* — supplies a verdict on the past and,
+  unlike every earlier rename in the family, no promise for the future.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -434,7 +442,7 @@ merge, or reorder them freely.
 - [x] [[The Birth of Jacob's Children]] — Genesis 29:31–30:24
 - [x] [[Jacob's Flocks]] — Genesis 30:25–43
 - [x] [[Jacob's Flight from Laban]] — Genesis 31:1–55
-- [ ] Wrestling at the Jabbok — Genesis 32:1–32
+- [x] [[Wrestling at the Jabbok]] — Genesis 32:1–32
 - [ ] The Reconciliation with Esau — Genesis 33:1–20
 - [ ] Dinah and Shechem — Genesis 34:1–31
 - [ ] Return to Bethel; the Deaths of Rachel and Isaac — Genesis 35:1–29
@@ -503,6 +511,7 @@ merge, or reorder them freely.
 - [[Wealth and Possessions]]
 - [[Idolatry]]
 - [[Language and Speech]]
+- [[Prayer]]
 
 ## Key people
 
@@ -596,3 +605,6 @@ merge, or reorder them freely.
 - [[Rehoboth]]
 - [[Gilead]]
 - [[Galeed]]
+- [[Mahanaim]]
+- [[The Jabbok]]
+- [[Peniel]]

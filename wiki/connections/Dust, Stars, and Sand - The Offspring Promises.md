@@ -25,7 +25,7 @@ tags: [connection]
   generation is given the dust — the first image, not the second or the third — while lying in it**,
   and it is the last of the three images to be issued in Genesis. See [[Jacob's Ladder at Bethel]].
 - **Genesis 32:12** (Jacob praying it back) — *"make your offspring as the sand of the sea, which
-  can't be counted because there are so many."*
+  can't be counted because there are so many."* — [[Wrestling at the Jabbok]]
 - **Numbers 23:10** — *"Who can count the dust of Jacob, or count the fourth part of Israel?"*
 - **Deuteronomy 1:10; 10:22; 1 Kings 4:20; Hebrews 11:12** — the promise reported as fulfilled.
 

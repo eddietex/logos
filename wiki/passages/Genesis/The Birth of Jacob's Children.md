@@ -628,8 +628,9 @@ twelve tribes of Israel are born outside the land**, in a country the book never
   *(not yet ingested)*.
 - Genesis 31:41 — Jacob's own accounting: *"twenty years… fourteen years for your two daughters"*, the
   span these births occupy *(not yet ingested)*.
-- Genesis 32:22–32 — the eleven sons crossing the Jabbok, and *"you have fought with God… and have
-  prevailed"* *(not yet ingested)*.
+- [[Wrestling at the Jabbok]] — Genesis 32:22–32; the eleven sons and their mothers counted crossing
+  the Jabbok, sent ahead before their father is left alone to be told *"you have fought with God…
+  and have prevailed."*
 - Genesis 34 — Dinah, and *ḥerpâ* in her brothers' mouths *(not yet ingested)*.
 - Genesis 35:16–20 — the twelfth son, Ben Oni renamed Benjamin, and Rachel's death answering her own
   prayer at 30:24 *(not yet ingested)*.

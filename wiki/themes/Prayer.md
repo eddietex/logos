@@ -72,11 +72,20 @@ is oracle-seeking rather than petition: she asks a question and is answered in p
 no altar, priest, shrine, or procedure. **The book's first inquiry of Yahweh and its first *ʿātar*
 are in consecutive verses**, and neither is described. See [[Prophecy and Vision]].
 
-**The rest of Genesis, briefly.**
-Jacob prays at the Jabbok in the book's first prayer that argues from a promise back to God —
-*"Deliver me, I pray you … you said, 'I will surely do you good'"* (32:9–12) — and then wrestles
-until dawn for a blessing he asks for out loud (32:26). Nothing in the Joseph cycle is a prayer at
-all, which is consistent with a narrative that reports no divine speech to Joseph either.
+**Genesis 32:9–12 — the first prayer Jacob ever prays, and the first in Scripture built entirely out
+of quotation.** Every earlier crisis of his produced a scheme or a complaint instead — he refused to
+pray for Rachel's womb (30:2), and argued the flocks to his wives rather than to God (31:4–13). Here,
+facing Esau, he addresses God directly for the first time, opens with his father's and grandfather's
+formula, quotes God's own words back (*"you said, 'Return to your country'"*, 31:3), and closes by
+quoting the offspring promise itself (28:14) rather than asking for anything not already promised.
+He also calls himself unworthy for the first time — *qāṭōntî mikkōl haḥăsādîm* — against the audit of
+Laban's household he gave two chapters earlier without a trace of humility. **The prayer does not
+replace the plan**: the elaborate staged gift of 32:13–21 is dispatched the same night, and Genesis
+does not rank the two responses to the same fear. He then wrestles until dawn for a blessing demanded
+rather than asked for — *"I won't let you go, unless you bless me"* (32:26) — the one time in the
+book a blessing is extracted by force rather than requested in words. See
+[[Wrestling at the Jabbok]]. Nothing in the Joseph cycle is a prayer at all, which is consistent with
+a narrative that reports no divine speech to Joseph either.
 
 **Afterwards.** The sign-asking form recurs at Judges 6:36–40 (Gideon's fleece) and 1 Samuel 14:8–10
 (Jonathan at Michmash), both reported without comment. Moses' intercessions (Exodus 32:11–14;
@@ -104,8 +113,10 @@ already did.
   in one sentence, in the Bible's first occurrence of the verb and its only patriarchal prayer for a
   wife's womb — and, in the next verse, the Bible's first *inquiry of Yahweh*, which is a question
   rather than a request and is answered in four lines of poetry
-- Genesis 32:9–12, 26 — Jacob at the Jabbok: the first prayer that quotes God's own promise back to
-  him *(not yet ingested)*
+- [[Wrestling at the Jabbok]] — Genesis 32:9–12, 26; **the founding instance of Jacob praying at
+  all.** Unbidden, addressed to God rather than about him, built entirely from quoted promises, and
+  followed in the same night by the staged gift the prayer does not replace. The blessing demanded at
+  32:26 is the one time in Genesis a blessing is taken by force rather than words
 - Exodus 32:11–14; Numbers 14:13–19 — Moses arguing from God's reputation
 - 1 Samuel 1:10–17 — Hannah, silent, and misread
 - 1 Kings 8:22–53 — Solomon, and the temple as an address
@@ -147,4 +158,6 @@ already did.
 - [[Isaac]] — entreats for his wife; the one thing Genesis records him doing on his own initiative
 - [[Rebekah]] — who does not petition but **inquires**, in the Bible's first use of that idiom, and
   is the only person in Genesis answered with an oracle she went looking for
+- [[Jacob]] — refuses to pray at 30:2 and prays for the first time at 32:9–12, quoting the promise
+  back to God rather than asking for anything new
 - [[God]] — who answers this theme's founding prayer without saying anything

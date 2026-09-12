@@ -141,10 +141,8 @@ costly.
   Those are handed over knowingly at 28:3–4. **The book keeps *bərākâ* and *bərît* apart even here**,
   which is the answer to whether the covenant was obtained by fraud. See
   [[Yes, He Will Be Blessed - The Irrevocable Word]] and [[The Stolen Blessing]].
-- To trace as ingestion reaches them: the promise given to Jacob in his own right at Bethel (28:14),
-  the blessing demanded rather than stolen at the Jabbok (*"I won't let you go, unless you bless me"*,
-  32:26), the deathbed blessings of Genesis 48 and 49, and the covenant blessings-and-curses of
-  Deuteronomy 28.
+- To trace as ingestion reaches them: the deathbed blessings of Genesis 48 and 49, and the covenant
+  blessings-and-curses of Deuteronomy 28.
 
 ## Key passages
 
@@ -277,6 +275,13 @@ costly.
   an entire estate to Yahweh working through one of them, and neither mentions Bethel, the covenant,
   or the promise.** The same preposition governs Potiphar's house at 39:5. See
   [[Blessed for His Sake - Laban's House and Potiphar's]]
+- [[Wrestling at the Jabbok]] — Genesis 32:26, 29; **demanded rather than stolen, and extracted by
+  force rather than requested in words.** *"I won't let you go, unless you bless me"* — the mirror
+  image of [[The Stolen Blessing]], where Jacob took a blessing by disguise from a father who could
+  not see him. Here the giver could disable him and could not simply make him release his grip, and
+  the blessing is granted in the same verse he is renamed: *bārak* and a new name, delivered
+  together, with no inventory of land, offspring, or nations attached — unlike every prior blessing
+  in the book
 
 ## Related themes
 

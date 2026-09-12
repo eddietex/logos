@@ -12,7 +12,7 @@ tags: [connection]
 - **Genesis 32:24–28** — *"Jacob was left alone, and wrestled with a man there until the breaking of the
   day. When he saw that he didn't prevail against him, he touched the hollow of his thigh… 'Your name
   will no longer be called Jacob, but Israel; for you have fought with God and with men, and have
-  prevailed.'"*
+  prevailed.'"* — [[Wrestling at the Jabbok]]
 - Genesis 32:22 — *"his eleven sons"* cross the ford: the children of 29:31–30:24, present for the second
   scene
 - Hosea 12:3–4 — the prophets' reading: *"in his manhood he contended with God… he struggled with the

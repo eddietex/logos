@@ -147,6 +147,13 @@ will finally go both ways.
   of my hands"* (31:42), where ***ʿŏnî*** is the noun of Exodus 3:7. **The human seeing in the
   chapter is the opposite**: Jacob *sees the expression on Laban's face* (31:2), and Laban gropes
   through four tents and finds nothing (31:34–35)
+- [[Wrestling at the Jabbok]] — Genesis 32:20, 30; ***pānîm***, *face*, driven through the chapter
+  until the name absorbs it. Jacob plans three times over to *"cover his face"* with a gift, *"see his
+  face"*, and have his own face *lifted* (32:20) — all about the brother he has not yet met — and then
+  names the place of the wrestling **Peniel**, *face of God*, for a face he did not choose to see:
+  *"I have seen God face to face, and my life is preserved"* (32:30). **The word built into every
+  calculation about managing Esau is the word the chapter ends on, applied to God instead**, and
+  Genesis does not say whether that is correction, coincidence, or the same fear under two names
 
 ## Related themes
 

@@ -483,8 +483,8 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
   41); the angel, the dream and the streaked goats are its other explanation (31:9–12); the household
   that divines turns out to keep *teraphim* (31:19, 30–35); and the seven-day pursuit crosses the
   three days' journey of 30:36 (31:23).
-- Genesis 32:5, 13–21 — the flocks of this passage counted out as a present for Esau *(not yet
-  ingested)*.
+- [[Wrestling at the Jabbok]] — Genesis 32:5, 13–21; the flocks of this passage counted out again,
+  in five staggered herds, as a present sent ahead of Jacob to *"cover"* Esau's face.
 - Genesis 39:5 — *"Yahweh blessed the Egyptian's house for Joseph's sake"* *(not yet ingested)*.
 - Genesis 44:5, 15 — Joseph's cup, and the only other *nāḥaš* in the book *(not yet ingested)*.
 - Genesis 47:6, 27 — the family settled in Goshen, fruitful and multiplying in a foreign estate

@@ -137,6 +137,14 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   would have set *the God of Nahor* beside the God of Abraham. **The reading against Arabic *faḫd*,
   thigh and hence clan — *the Kinsman of Isaac* — is a proposal the wiki records and does not
   adopt.** *"Because I was afraid"* (31:31) is also, by Jacob's own account, why he ran
+- [[Wrestling at the Jabbok]] — Genesis 32:7, 30; **the vocabulary runs the theme's usual pattern
+  backward.** *Yārēʾ*, the ordinary verb, names Jacob's fear of a brother who turns out not to be a
+  threat (32:7, 11) — a fear the chapter spends thirty verses on and never confirms was warranted.
+  **The encounter that actually was dangerous, by the book's own logic — wrestling a figure Jacob
+  will call God — produces no fear-vocabulary at all**, only a claim to have survived: *"my life is
+  preserved"* (32:30). Contrast 28:17's *mah-nôrāʾ*, dread named as the immediate response to a far
+  gentler theophany. **The chapter names fear where the danger is uncertain and states only survival
+  where, on Jacob's own account, it was greatest**
 
 ## Related themes
 

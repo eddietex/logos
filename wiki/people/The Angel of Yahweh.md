@@ -203,6 +203,36 @@ it in the first person.** There is no transition sentence, no *and God said*, an
 See [[Jacob's Flight from Laban]], [[Two Explanations for One Flock - The Rods and the Dream]], and
 [[The Names of God]].
 
+### The same problem without the title, and refusing to be named — Genesis 32:24–30
+
+**Genesis itself never calls this figure *malʾāk* — the title is supplied only by Hosea, three
+centuries or more after the fact — and the scene adds a feature none of the others has: asked for a
+name, he declines to give one.**
+
+- **He is introduced as *ʾîš*, a man** (32:24), the plainest label this page's whole gallery ever
+  receives. Not *Yahweh's angel*, not *the angel of God*, not *three men* who turn out to include
+  Yahweh — simply *a man*, with no narratorial signal that anything unusual is happening until the
+  fight cannot be won.
+- **The alternation still happens, inside one verse of the wrestler's own speech.** *"You have fought
+  with God [*ʾĕlōhîm*] and with men, and have prevailed"* (32:28) puts *ʾĕlōhîm* and *ʾănāšîm* in the
+  same clause as two comparable opponents, spoken by the opponent himself about himself.
+- **Jacob supplies the identification the text withholds**, exactly as Hagar did at 16:13: *"I have
+  seen God face to face, and my life is preserved"* (32:30). As at 16:13, **the narrator does not
+  correct him and does not confirm him.**
+- **And here, for the first time in this page's gallery, the figure is asked his name and refuses it
+  outright** — *"Why is it that you ask what my name is?"* (32:29) — rather than answering ambiguously
+  or taking the divine first person unprompted. **This is the closest verbal parallel anywhere in the
+  Old Testament to Judges 13:17–18**, where Manoah asks the same question of *malʾak YHWH* by name and
+  is told his name is *incomprehensible*. See
+  [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]].
+- **Hosea 12:3–4 is the only text that supplies the missing title, and it also moves the location**:
+  *"he had power over the angel [*malʾāk*], and prevailed… he found him at Bethel."* Genesis says the
+  Jabbok. **The wiki records the prophetic gloss and the geographic discrepancy it introduces, and
+  does not harmonise either.**
+
+See [[Wrestling at the Jabbok]] and
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -219,6 +249,9 @@ See [[Jacob's Flight from Laban]], [[Two Explanations for One Flock - The Rods a
 - Calls to Abraham from the sky at the binding of Isaac, twice; stops the knife, says *"you have not
   withheld your son… from me"*, and swears in God's own first person with *nəʾum YHWH*, the only
   occurrence of the prophetic formula in Genesis — Genesis 22:11–18, [[The Binding of Isaac]]
+- Wrestles Jacob at the Jabbok until daybreak as *a man*, is credited in his own speech with having
+  been fought as *ʾĕlōhîm* and as men, refuses to give his name, and is identified — by Jacob, not by
+  the narrator — as God, seen face to face — Genesis 32:24–30, [[Wrestling at the Jabbok]]
 - Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6
 - Goes before Israel in the wilderness, with the warning *"my name is in him"* — Exodus 23:20–23
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
@@ -258,6 +291,12 @@ See [[Jacob's Flight from Laban]], [[Two Explanations for One Flock - The Rods a
   the God of Bethel, where you anointed a pillar, where you vowed a vow to me"*** — **claiming in the
   first person a vow that was made to God.** He is *malʾak ʾĕlōhîm*, not *malʾak YHWH*, and the
   narrator never reports the dream: it reaches the reader only in Jacob's account of it
+- [[Wrestling at the Jabbok]] — Genesis 32:24–30; **the plainest label in the whole gallery — *a
+  man* — and the first outright refusal of a name.** Credited in his own speech with having been
+  fought as *ʾĕlōhîm* and as men; disables Jacob rather than losing to him; and when asked his name,
+  answers *"why is it that you ask"* instead of anything Manoah or Moses receive. **Jacob, not the
+  narrator, supplies the identification** — *"I have seen God face to face"* — and Hosea 12:3–4 later
+  calls him *the angel* while moving the encounter to Bethel
 
 ## Related people
 

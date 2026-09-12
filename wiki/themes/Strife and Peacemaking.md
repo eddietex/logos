@@ -122,7 +122,14 @@ the land.
   inverse of what Abraham did with Lot at 13:9 and Isaac did with the herdsmen of Gerar at 26:22, and
   it is the only quarrel in the cycle that ends in flight. The reconciliation is twenty years and six
   chapters away, and **it is the wronged brother who runs to make it** (33:4)
-- Genesis 32–33 — Esau's embrace *(not yet ingested)*
+- [[Wrestling at the Jabbok]] — Genesis 32:3–8; **the theme reduced to arithmetic, with no combatant
+  named.** Word of Esau's four hundred men produces fear and a division of the camp into two
+  companies, on the sole logic that *"if Esau comes to the one company… the company which is left
+  will escape."* **No attack happens in this pericope and none is confirmed as coming** — the entire
+  peacemaking apparatus of the chapter (the division, the prayer, the staged gift) answers a threat
+  the text never lets the reader verify. The wrestling that follows is a genuine contest, but not with
+  Esau
+- Genesis 33 — Esau's embrace *(not yet ingested)*
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation
 - Matthew 5:9; Romans 12:18; 1 Corinthians 6:7; Philippians 2:3–4 — the New Testament's

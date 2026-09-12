@@ -133,6 +133,9 @@ Israel."*
   [[Isaac Sends Jacob to Paddan Aram]]
 - Marries [[Mahalath]], daughter of [[Ishmael]] and sister of Nebaioth, **besides the wives he had** —
   Genesis 28:9
+- Reported coming to meet Jacob with four hundred men — the report that produces the fear, the
+  divided camp, the first prayer, and the staged gift of Genesis 32, without Esau saying or doing
+  anything on screen — Genesis 32:6, [[Wrestling at the Jabbok]]
 - Comes with four hundred men, and runs to embrace his brother — Genesis 33:1–17 *(not yet ingested)*
 - Buries Isaac with Jacob, named first — Genesis 35:29 *(not yet ingested)*
 - Settles in Seir; his *toledot*, chiefs, and kings — Genesis 36 *(not yet ingested)*
@@ -163,6 +166,11 @@ Israel."*
   it.** Genesis 35:7 supplies the gloss the passage itself withholds — God appeared to Jacob *"when he
   fled from the face of his brother"* — and the promise Jacob receives at Bethel is given to a man
   running from him
+- [[Wrestling at the Jabbok]] — Genesis 32:1–32; **offstage for all thirty-two verses, and the entire
+  reason for them.** A report that he is coming with four hundred men — never confirmed as hostile —
+  produces his brother's fear, a divided camp, the first prayer Jacob ever prays, and a staged gift of
+  five hundred eighty animals sent ahead to *"cover his face."* He says and does nothing; the chapter
+  ends with Jacob renamed and still facing a meeting that has not happened yet
 
 ## Related people
 

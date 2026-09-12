@@ -728,8 +728,9 @@ alone, on a road north. See
   speech mentions this chapter.**
 - Genesis 29:21–27 — Laban's substitution, and *"It is not done so in our place, to give the younger
   before the firstborn"* *(not yet ingested)*.
-- Genesis 32:22–32 — the night at the Jabbok, where a blessing is demanded rather than stolen: *"I
-  won't let you go, unless you bless me"* *(not yet ingested)*.
+- [[Wrestling at the Jabbok]] — Genesis 32:22–32; the night at the Jabbok, where a blessing is
+  demanded rather than stolen: *"I won't let you go, unless you bless me."* The giver this time
+  could disable him and could not simply make him release his grip.
 - Genesis 33:1–4 — Esau runs, embraces, and weeps *(not yet ingested)*.
 - Genesis 37:31–33 — the coat and the goat's blood, worked on Jacob *(not yet ingested)*.
 - Genesis 48:13–20 — Jacob crosses his hands over Ephraim and Manasseh, seeing badly himself

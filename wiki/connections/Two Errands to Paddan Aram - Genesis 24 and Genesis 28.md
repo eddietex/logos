@@ -13,9 +13,9 @@ tags: [connection]
 - **Genesis 27:46–28:9** — Isaac sends Jacob to the same country, on the same errand, alone —
   [[Isaac Sends Jacob to Paddan Aram]]
 - **Genesis 29:1–30** — Jacob arrives at the same well, meets a daughter of the same house, and pays
-  in fourteen years of labour *(not yet ingested)*
-- **Genesis 31:38–42; 32:10** — his own accounting of what it cost and what he set out with
-  *(not yet ingested)*
+  in fourteen years of labour — [[Jacob, Leah, and Rachel]]
+- **Genesis 31:38–42; 32:10** — his own accounting of what it cost and what he set out with —
+  [[Jacob's Flight from Laban]] and [[Wrestling at the Jabbok]]
 - **Hosea 12:12** — the prophets' one-verse summary of the second errand: Jacob fled to the country
   of Aram, and Israel served for a wife, and for a wife kept sheep
 

@@ -536,8 +536,9 @@ warrant they all appeal to**, and nothing in Genesis 28 authorises any of it. Se
   against Jacob's with a stone for a pillow.
 - Genesis 31:11–13 — *"I am the God of Bethel, where you anointed a pillar, where you vowed a vow to
   me"*; God identifying himself by this stone *(not yet ingested)*.
-- Genesis 32:24–31 — the second night alone, the second naming of a place, and the sun rising on him
-  as he limps away *(not yet ingested)*.
+- [[Wrestling at the Jabbok]] — Genesis 32:24–31; the second night alone, the second naming of a
+  place, and the sun rising on him as he limps away — entered running from one brother, left about
+  to face the other.
 - Genesis 35:1–15 — sent back to Bethel; the foreign gods buried, the altar built, and the pillar set
   up again with a drink offering *(not yet ingested)*.
 - Genesis 48:15–16 — *"the God who has fed me all my life long"*, Jacob's own verdict on the bread he

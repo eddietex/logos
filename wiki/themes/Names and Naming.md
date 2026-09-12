@@ -121,7 +121,14 @@ five times**, and each is a covenant hinge.
   wordplay is its own**
 - [[Lot and His Daughters]] — Genesis 19:37–38, Moab and Ben-Ammi, the two glosses Genesis gives without
   comment
-- Genesis 32:28, 30 — **Israel** and **Peniel**, the two namings at the Jabbok *(not yet ingested)*
+- [[Wrestling at the Jabbok]] — Genesis 32:2, 28, 30; **three namings in one chapter, and two of them
+  frame it.** *Mahanaim* is coined at the opening for a division that has not happened yet; *Israel*
+  is given in the middle with a verdict on the past (*"you have fought… and have prevailed"*) and,
+  unlike every earlier rename in the family, no promise attached to the future; *Peniel* closes the
+  chapter for what has just happened. **The renaming's own etymology — from *śārâ*, to strive — is the
+  speaker's pun inside the story, not settled linguistics**, treated exactly as *Yaʿăqōb* and *Yiṣḥāq*
+  are elsewhere on this page. And the Hebrew spells *Peniel* two ways in the two verses that name it
+  (*Pənîʾēl*, 32:30; *Pənûʾēl*, 32:31)
 - Genesis 35:18 — Ben Oni renamed Benjamin: **the one naming in Genesis that is overruled** *(not yet
   ingested)*
 - Genesis 41:45, 51–52 — an Egyptian name imposed, and two Hebrew names given in reply *(not yet
