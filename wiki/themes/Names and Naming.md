@@ -146,6 +146,11 @@ five times**, and each is a covenant hinge.
   ***watch*** between me and you"*, ***yiṣep***. **And *galʿēd* is one vowel from *gilʿād*, the region
   they are standing in**, which Genesis has already named twice before the heap exists. **The book
   supplies the wordplay and makes no claim from it**
+- [[The Reconciliation with Esau]] — Genesis 33:17, 20; **two namings, both for what has just
+  happened**, against Mahanaim's naming for what had not (32:2). Succoth, *booths*, for the shelters
+  Jacob builds there; and the altar at Shechem, *ʾĒl ʾĕlōhê Yiśrāʾēl*, which is the first time
+  *Yiśrāʾēl* appears in the text as anything but the man's own name — **Jacob attaches his own new
+  name to God two chapters before God repeats it of him** (35:10)
 
 ## Related themes
 

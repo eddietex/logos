@@ -96,14 +96,35 @@ that named a well one chapter earlier. **He is the fourth fratricide in Genesis 
 plans it, dates it to his father's funeral, waits, and never does it.** Twenty years later he runs to
 meet his brother and weeps on his neck (33:4). See [[Vengeance]].
 
+### In this pericope — Genesis 33:1–20
+
+**He runs, embraces, weeps, and is generous, with no scene bridging the twenty years between this
+man and the one who planned a murder for after his father's funeral.**
+
+**Five finite verbs before Jacob's third bow could have finished**: *"Esau ran to meet him, embraced
+him, fell on his neck, kissed him, and they wept"* (33:4). Genesis gives no report of a change of
+heart, no reconciling word, nothing — the same silence it kept about what happened to him in the
+interval since 28:9. See [[The Reconciliation with Esau]] and, for the same five verbs recurring
+twice more in this family and once in a New Testament parable, the new connection page
+[[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]].
+
+**His first words are a plain question, not an accusation** — *"What do you mean by all this company
+which I met?"* (33:8) — he does not yet know what the staged herds of chapter 32 were for. He
+refuses the gift once, generously (*"I have enough, my brother; let that which you have be
+yours"*, 33:9), and takes it only once Jacob presses it a second time, having called it — in a word
+Esau does not remark on — *his blessing* (33:11). See [[Blessing]].
+
+**He offers his company twice and is declined twice, without apparent offense.** He proposes to
+travel ahead of Jacob (33:12) and then to leave an escort (33:15); both times Jacob gives a reason
+and Esau accepts it. **The last thing he does in the pericope is keep the plan he stated**: he
+*"returned that day on his way to Seir"* (33:16) — in contrast to his brother, whose stated plan to
+follow him there Genesis does not show carried out. See [[Deception]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-After Jacob is sent away he marries Ishmael's daughter
-[[Mahalath]], joining the two non-covenant lines (28:9). Twenty years later he comes to meet Jacob with
-four hundred men and embraces him instead (33:1–4), refuses the gift and then takes it, and goes back
-to Seir. **He takes his household away from his brother because the land could not hold both of
+**He takes his household away from his brother because the land could not hold both of
 them** (36:6–8) — the fourth and last time Genesis clears a brother off the stage — and his *toledot*
 at chapter 36 gives Edom its chiefs and its kings, *"before any king reigned over the children of
 Israel."*
@@ -136,7 +157,12 @@ Israel."*
 - Reported coming to meet Jacob with four hundred men — the report that produces the fear, the
   divided camp, the first prayer, and the staged gift of Genesis 32, without Esau saying or doing
   anything on screen — Genesis 32:6, [[Wrestling at the Jabbok]]
-- Comes with four hundred men, and runs to embrace his brother — Genesis 33:1–17 *(not yet ingested)*
+- Comes with four hundred men, runs to embrace his brother, and weeps — Genesis 33:1–4,
+  [[The Reconciliation with Esau]]
+- Asks a plain question about the staged gift, refuses it once, and takes it once pressed a second
+  time — Genesis 33:8–11
+- Offers his company twice, is declined twice, and returns to Seir as he said he would — Genesis
+  33:12–16
 - Buries Isaac with Jacob, named first — Genesis 35:29 *(not yet ingested)*
 - Settles in Seir; his *toledot*, chiefs, and kings — Genesis 36 *(not yet ingested)*
 
@@ -171,6 +197,12 @@ Israel."*
   produces his brother's fear, a divided camp, the first prayer Jacob ever prays, and a staged gift of
   five hundred eighty animals sent ahead to *"cover his face."* He says and does nothing; the chapter
   ends with Jacob renamed and still facing a meeting that has not happened yet
+- [[The Reconciliation with Esau]] — Genesis 33:1–20; **runs, embraces, and weeps, with no scene
+  explaining the change from the brother who planned a murder for after their father's funeral.** His
+  first words are a plain question rather than an accusation; he refuses the staged gift once and
+  takes it once pressed, called by a word — *blessing* — he does not remark on. He offers his company
+  twice, is declined twice without apparent offense, and is the only one of the two brothers whose
+  stated plan for the road ahead — back to Seir — the text actually shows him keeping
 
 ## Related people
 

@@ -119,6 +119,13 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   and the reason he gives is that God has been enriching him through the man he is asking to keep.
   **The one place in Genesis where *ḥēn* runs from the powerful to the powerless**, and it is a
   negotiating posture rather than a gift
+- [[The Reconciliation with Esau]] — Genesis 33:5, 8, 10, 15: **the formula's densest run in
+  Genesis**, ***māṣāʾtî ḥēn bəʿênêkā***, *I have found favor in your eyes*, spoken by Jacob to Esau
+  three times over (33:8, 10, 15) — the petitioner's idiom of 18:3 and 19:19, now aimed at a brother
+  rather than at God or an angel — plus *ḥānan* once more at 33:5, where Jacob credits his children
+  to God in the same breath he calls himself Esau's servant. **The theme's language of favor,
+  usually addressed upward to God or a superior, here does both jobs in the same conversation**:
+  crediting one relationship while performing deference in the other
 
 ## Related themes
 

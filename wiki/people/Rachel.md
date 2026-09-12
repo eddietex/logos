@@ -157,6 +157,8 @@ over the killing of the infants at Bethlehem. See
 - Steals her father's *teraphim* while he is away shearing — Genesis 31:19
 - Unknowingly placed under her husband's death sentence — Genesis 31:32
 - Hides the gods in a camel's saddle, sits on them, and stops the search — Genesis 31:34–35
+- Placed with Joseph at the rear of the household, the position of least exposure, at the meeting
+  with Esau — Genesis 33:2, 7, [[The Reconciliation with Esau]]
 - Dies bearing Benjamin on the road to Ephrath; the pillar over her grave — Genesis 35:16–20 *(not yet
   ingested)*
 
@@ -182,6 +184,9 @@ over the killing of the infants at Bethlehem. See
   Her husband pronounces death on the unknown thief, and the narrator stops to note that he did not
   know. **She hides the gods in a camel's saddle, sits on them, and defeats the search with a
   sentence about her own body.** They are never found
+- [[The Reconciliation with Esau]] — Genesis 33:2, 7; placed with [[Joseph]] at the rear of the
+  household as it approaches Esau — the position of least exposure, and consistent with *"he loved
+  also Rachel more than Leah"* (29:30). She does not speak or act
 
 ## Related people
 

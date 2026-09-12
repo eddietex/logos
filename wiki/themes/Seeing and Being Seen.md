@@ -154,6 +154,13 @@ will finally go both ways.
   *"I have seen God face to face, and my life is preserved"* (32:30). **The word built into every
   calculation about managing Esau is the word the chapter ends on, applied to God instead**, and
   Genesis does not say whether that is correction, coincidence, or the same fear under two names
+- [[The Reconciliation with Esau]] — Genesis 33:10; **the word Peniel was named for, spoken to the
+  person it was managing.** *"I have seen your face, as one sees the face of God, and you were
+  pleased with me"* answers 32:30 directly — not *cover my face so he cannot see it*, which is what
+  the staged gift of chapter 32 assumed, but *your face is like the face I have already survived
+  seeing.* The same formula recurs a third time in this family, at 46:30, when Jacob tells Joseph
+  *"since I have seen your face, that you are still alive"* — see
+  [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]]
 
 ## Related themes
 

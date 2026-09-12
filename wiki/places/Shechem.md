@@ -61,6 +61,9 @@ same spot.
 
 - [[The Call of Abram]] — Genesis 12:6–7, the first stop in the land and the site of Abram's first
   altar
+- [[The Reconciliation with Esau]] — Genesis 33:18–20; Jacob arrives *"in peace"*, buys the field
+  from the sons of [[Hamor]] for a hundred pieces of silver, and builds the altar *El Elohe Israel* —
+  named for his own new name rather than for the place
 
 ## Related places
 
@@ -74,7 +77,8 @@ same spot.
 
 - Abram stops at the oak of Moreh, Yahweh appears to him, and he builds an altar — Genesis 12:6–7,
   [[The Call of Abram]]
-- Jacob buys a field and builds the altar *El Elohe Israel* — Genesis 33:18–20 *(not yet ingested)*
+- Jacob buys a field and builds the altar *El Elohe Israel* — Genesis 33:18–20,
+  [[The Reconciliation with Esau]]
 - Dinah, and the massacre by Simeon and Levi — Genesis 34 *(not yet ingested)*
 - Jacob buries the household's foreign gods under the oak — Genesis 35:4 *(not yet ingested)*
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35

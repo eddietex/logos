@@ -385,7 +385,18 @@ even fratricidal betrayal into rescue (Joseph).
   and landing on **Peniel**, *face of God*, the name he gives the ford for having survived seeing it.
   He is crippled in the same act that blesses him, and the sentence Genesis uses for the rename —
   *"you have fought with God and with men, and have prevailed"* — supplies a verdict on the past and,
-  unlike every earlier rename in the family, no promise for the future.
+  unlike every earlier rename in the family, no promise for the future. Then
+  *[[The Reconciliation with Esau]]* lets all of it turn out to have answered a threat that was never
+  real: Esau runs, embraces, and weeps before a word of the staged diplomacy can be spoken, and asks
+  a plain question rather than an accusation about the herds he does not yet understand. **The
+  chapter completes the previous one's keyword** — *"I have seen your face, as one sees the face of
+  God"* (33:10) answers Peniel directly — and Jacob presses the gift on Esau under a second name,
+  ***birkātî***, *my blessing*, the same word for what was taken by disguise in chapter 27. **The
+  reconciliation is real and also partial**: Esau's two offers of company are both declined, and the
+  brothers part for different destinations, one of which — Seir — Jacob says he is coming to and
+  Genesis never shows him reaching. He buys land for the first time in his life at Shechem and builds
+  an altar naming God by his own new name, *ʾĒl ʾĕlōhê Yiśrāʾēl*, two chapters before God repeats that
+  name of him.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -443,7 +454,7 @@ merge, or reorder them freely.
 - [x] [[Jacob's Flocks]] — Genesis 30:25–43
 - [x] [[Jacob's Flight from Laban]] — Genesis 31:1–55
 - [x] [[Wrestling at the Jabbok]] — Genesis 32:1–32
-- [ ] The Reconciliation with Esau — Genesis 33:1–20
+- [x] [[The Reconciliation with Esau]] — Genesis 33:1–20
 - [ ] Dinah and Shechem — Genesis 34:1–31
 - [ ] Return to Bethel; the Deaths of Rachel and Isaac — Genesis 35:1–29
 - [ ] The Descendants of Esau — Genesis 36:1–43
@@ -561,6 +572,7 @@ merge, or reorder them freely.
 - [[Basemath (daughter of Elon)]]
 - [[Beeri the Hittite]]
 - [[Elon the Hittite]]
+- [[Hamor]]
 
 ## Key places
 
@@ -608,3 +620,4 @@ merge, or reorder them freely.
 - [[Mahanaim]]
 - [[The Jabbok]]
 - [[Peniel]]
+- [[Succoth]]

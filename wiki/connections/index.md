@@ -138,3 +138,4 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 |
 | [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
 | [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:13–15 · Judges 13:17–18 |
+| [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |

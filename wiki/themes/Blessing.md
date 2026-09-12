@@ -282,6 +282,12 @@ costly.
   the blessing is granted in the same verse he is renamed: *bārak* and a new name, delivered
   together, with no inventory of land, offspring, or nations attached — unlike every prior blessing
   in the book
+- [[The Reconciliation with Esau]] — Genesis 33:11; **the word itself, offered back.** Jacob presses
+  the herds of chapter 32 on Esau and calls them, in this verse only, ***birkātî***, *my blessing* —
+  not the ***minḥâ***, *present*, used of the same gift everywhere else in chapters 32–33. Most
+  translations, including the WEB, render both words *gift*, flattening a distinction the Hebrew
+  keeps. **What was taken by disguise in chapter 27 is what Jacob now calls the animals he gives
+  back unprompted**, and Genesis records neither brother remarking on the word
 
 ## Related themes
 

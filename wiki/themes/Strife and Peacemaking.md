@@ -129,7 +129,14 @@ the land.
   peacemaking apparatus of the chapter (the division, the prayer, the staged gift) answers a threat
   the text never lets the reader verify. The wrestling that follows is a genuine contest, but not with
   Esau
-- Genesis 33 — Esau's embrace *(not yet ingested)*
+- [[The Reconciliation with Esau]] — Genesis 33:1–20; **the reconciliation the whole cycle from
+  chapter 27 has been building toward, and it is resolved in four verses with no negotiation at all.**
+  Esau runs, embraces, and weeps before Jacob's diplomacy can be deployed; neither brother mentions
+  the birthright, the blessing, or the twenty years apart. **What follows is not total agreement** —
+  Esau's two offers of company are both declined, and the brothers part for different destinations,
+  one of which (Seir) Jacob had said he would come to and Genesis never shows him reaching. The
+  chapter's peace is real and also partial: real enough to end the danger, partial enough that the
+  two men do not end up living near each other
 - Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation
 - Matthew 5:9; Romans 12:18; 1 Corinthians 6:7; Philippians 2:3–4 — the New Testament's

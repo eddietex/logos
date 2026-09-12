@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Genesis 12:6–7** — Abram at *the oak of Moreh*, the first theophany in the land, and his first
   altar — [[The Call of Abram]]
-- **Genesis 33:18–20** — Jacob buys a field at Shechem and builds *El Elohe Israel* *(not yet
-  ingested)*
+- **Genesis 33:18–20** — Jacob buys a field at Shechem and builds *El Elohe Israel* —
+  [[The Reconciliation with Esau]]
 - **Genesis 35:4** — the household's foreign gods buried *"under the oak which was by Shechem"*
   *(not yet ingested)*
 - **Deuteronomy 11:29–30** — Gerizim and Ebal located *"beside the oaks of Moreh"*

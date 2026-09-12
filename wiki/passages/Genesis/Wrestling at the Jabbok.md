@@ -382,8 +382,9 @@ which makes this verse a report of a practice rather than a law establishing one
   two other Old Testament instances.
 - [[Dust, Stars, and Sand - The Offspring Promises]] — the sand image, given at 28:14 and prayed back
   here at 32:12.
-- Genesis 33:1–20 — the meeting the whole chapter prepares for, and Esau's answer to it
-  *(not yet ingested)*.
+- [[The Reconciliation with Esau]] — Genesis 33:1–20; the meeting the whole chapter prepares for,
+  and Esau's answer to it — every element of the staged diplomacy turns out to answer a threat that
+  was never real.
 - Genesis 35:10–12 — the name Israel repeated by God directly, with the promise this chapter withheld
   from it *(not yet ingested)*.
 - Genesis 48:15–16 — Jacob's own retrospective blessing, naming *"the angel who has redeemed me from

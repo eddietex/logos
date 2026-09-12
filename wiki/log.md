@@ -5728,3 +5728,109 @@ and a second pass fixed verse by verse.
 with one note: the working tree was dirty from an untracked Obsidian theme folder, committed
 separately with its own message before this ingest began, exactly as the skill's step 5 requires when
 `git status` is dirty going in.
+
+## [2026-09-11] ingest | Genesis 33.1-20 — The Reconciliation with Esau
+
+Interactive run, no target argument. `wiki/books/index.md` gave **Genesis** as the first
+`in-progress` book and its page gave **The Reconciliation with Esau — Genesis 33:1–20** as the first
+unchecked box. `raw/bible/Genesis.md` was already present. Discussed with the user before drafting:
+the *pānîm* thread completing Peniel, whether the unfulfilled promise to follow Esau to Seir counts
+as this family's usual deception, and the plan to create [[Hamor]] thin now rather than wait for
+Genesis 34 — all confirmed as the working line before any page was written.
+
+### Judgment calls made in this pass
+
+- **The boundary was used as drawn, and kept whole.** 33:1 opens on Esau's arrival, the event the
+  previous chapter spent thirty-two verses dreading, and 33:20 closes on an altar, with 34:1 opening
+  on a different character and location. **A split at 33:17 — the meeting from the Shechem
+  purchase — was considered and rejected**: the altar name is built on *Yiśrāʾēl*, which only makes
+  sense as the far side of the reconciliation the chapter is named for.
+- **The title was kept from the plan.** Alternatives rejected: *The Face of God and the Face of Esau*
+  (imports an interpretive claim the plainer title doesn't need) and *El Elohe Israel* (names only
+  the last three verses).
+- **The unfulfilled promise to follow Esau to Seir (33:14) was flagged and not adjudicated.** Three
+  readings — an abandoned plan, an unpressed courtesy, or the family's pattern continued with a
+  technically true statement — are all recorded and none is adopted. Unlike 27:19 or 27:24, nothing
+  here is a false statement of present fact, so it was not filed under [[Deception]] as a *mirmâ* on
+  the same footing as the flat lies elsewhere in this family, but as an open question in its own
+  right, on both [[Jacob]]'s page and the theme page.
+- **Hamor was created now, thin, rather than held for Genesis 34** — on the precedent of [[Dinah]],
+  who was created at her one-clause birth notice eleven chapters before her own chapter. He is named
+  once, as *"Shechem's father"*, with no action of his own in this pericope.
+- **One new connection page was judged warranted.**
+  [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] — 33:4's five verbs recur,
+  in part, at both of Joseph's reunions (45:14–15; 46:29–30) and the Septuagint's Greek of this verse
+  is close enough to Luke 15:20's prodigal-son verbs to be the same sentence. Filed as a connection
+  page on the same logic as prior instances of a verbal parallel crossing non-adjacent texts: it gets
+  its own page even though [[Jacob]], [[Esau]], and [[Seeing and Being Seen]] each also discuss the
+  verse.
+- **One new place page.** [[Succoth]], named for the shelters Jacob builds the day he leaves Esau —
+  and flagged in its own text, in advance, for the collision Exodus 12:37's differently located
+  Succoth will produce when Exodus is ingested.
+- **No page was created for the four hundred men** — they simply arrive as reported and do nothing;
+  the number is already carried on [[Esau]] from the previous ingest. **No separate page for Seir** —
+  already covered as Esau's territory on [[Edom]].
+
+### Things flagged rather than resolved
+
+- **The unfulfilled Seir promise**, per the judgment call above.
+- **Why Esau's character changes with no bridging scene.** The man who planned murder for after his
+  father's funeral (27:41) runs to embrace the brother who wronged him, twenty years and no narrated
+  event later. Genesis supplies no reason and the wiki records none.
+- **Whether Jacob's own words to Esau — *my blessing* for the gift he presses on him (33:11) — are a
+  deliberate callback to chapter 27 or simply the ordinary sense of a word that also means gift.**
+  Recorded as an observation about the Hebrew, not as a claim about authorial intent.
+
+### Pages touched
+
+**Created (4).** `wiki/passages/Genesis/The Reconciliation with Esau.md`; place [[Succoth]]; person
+[[Hamor]]; connection
+[[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]].
+
+**Revised (13).** People (5): [[Jacob]] (new in-pericope section, five timeline entries replacing
+one placeholder, an appearance note, one related person), [[Esau]] (new in-pericope section
+replacing part of the "what is still ahead" prose, three timeline entries replacing one placeholder,
+an appearance note), [[Leah]], [[Rachel]], [[Joseph]] (one timeline entry and one appearance note
+each, on the household's approach order). Places (1): [[Shechem]] (appearance note and events-here
+entry, its own *(not yet ingested)* marker cleared). Themes (6): [[Favor and Grace]] (the three-fold
+*find favor* formula), [[Seeing and Being Seen]] (the *pānîm* thread's completion),
+[[Names and Naming]] (two namings for what had just happened), [[Strife and Peacemaking]] (the
+bundled placeholder resolved), [[Blessing]] (the *birkātî*/*minḥâ* distinction), [[Deception]] (the
+unfulfilled Seir promise, flagged and not adopted). Connections (1):
+[[The Altar at Shechem and the Covenant at Shechem]] (its 33:18–20 marker cleared). Passage
+cross-references (3, stale forward-reference markers resolved):
+[[Jacob and Esau and the Sold Birthright]], [[The Stolen Blessing]], [[Wrestling at the Jabbok]].
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary, [[Hamor]] added to key people, [[Succoth]] added to key places), `wiki/books/index.md`
+(**41 / 59 → 42 / 59**), six rows extended and one new row in `wiki/people/index.md`, one row
+extended and one new row in `wiki/places/index.md`, six rows extended in `wiki/themes/index.md`, one
+new row in `wiki/connections/index.md`. `wiki/index.md` now reads **48 passages · 99 people · 54
+places · 57 themes · 135 connections**, counted against what is on disk and matching exactly.
+
+### Link check
+
+`scripts/link-check.sh` exits **0** on the second run this pass: the first caught one wrapped link,
+`[[Names and Naming]]` split across two lines in this entry's own **Pages touched** paragraph while
+it was still being drafted — the same self-referential finding the previous ingest's log entry also
+hit, and fixed the same way, by moving the whole link onto one line rather than letting it straddle
+the wrap. The expected baseline is **64** not-yet-started book pages, unchanged, since no new book
+page was created. Stale *(not yet ingested)* markers pointing at some or all of Genesis 33 were
+swept and cleared across the wiki, not only on the pages this pericope's own workflow required
+touching: [[Jacob]], [[Esau]], [[Leah]], [[Shechem]],
+[[The Altar at Shechem and the Covenant at Shechem]],
+[[Jacob and Esau and the Sold Birthright]], [[The Stolen Blessing]], [[Wrestling at the Jabbok]].
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather
+than wikilinks, so none is a finding: 34:1–31 (Dinah and the sons of Hamor by name), 35:1–7 (Jacob's
+return to Bethel), 36:1–43 (Esau's *toledot* and settlement in Seir), 45:14–15 and 46:29–30
+(Joseph's two reunions, cited already on the new connection page).
+
+**Quotation check.** Every WEB verse quoted on the passage page was compared against
+`raw/bible/Genesis.md` block by block, mechanically: **20 quoted verse-blocks, 0 mismatches** after
+one round of correction — the first draft had, again, silently straightened ten verses' worth of the
+raw text's curly quotation marks and one curly apostrophe (*Shechem's*) when they were typed rather
+than copied. Fixed verse by verse and re-checked clean.
+
+**Branch state.** Preflight was clean at both checks this pass (session start and step 0.5): `on
+main, already at origin/main`, no divergence, nothing to report.

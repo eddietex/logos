@@ -154,8 +154,8 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - Answers Jacob in the field with her sister, in one voice: *"he has sold us, and has also used up our
   money"* — Genesis 31:14–16, [[Jacob's Flight from Laban]]
 - Her tent searched third of four for the missing household gods — Genesis 31:33
-- Placed ahead of Rachel, behind the slaves, at the meeting with Esau — Genesis 33:1–2 *(not yet
-  ingested)*
+- Placed ahead of Rachel, behind the slaves, at the meeting with Esau — Genesis 33:1–2,
+  [[The Reconciliation with Esau]]
 - Buried at Machpelah; *"there I buried Leah"* — Genesis 49:31 *(not yet ingested)*
 
 ## Appears in
@@ -177,6 +177,11 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   passes on Laban**, it is about a consumed bride-price, and the narrator lets it stand against her
   father's *"you carried away my daughters like captives of the sword"* eleven verses later without
   adjudicating between them
+- [[The Reconciliation with Esau]] — Genesis 33:1–2, 6–7; the household approaches Esau in three
+  groups — servants and their children first, Leah and hers second, Rachel and Joseph last — and she
+  is the middle group, safer than the servants and more exposed than Rachel. The same ranking of
+  exposure implied by *"he loved also Rachel more than Leah"* (29:30), now expressed in logistics.
+  She bows with her children and does not speak
 
 ## Related people
 

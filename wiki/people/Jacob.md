@@ -327,11 +327,42 @@ lived, and passes over it at sunrise limping — the last physical description o
 brother the whole night was about. See [[Wrestling at the Jabbok]] and
 [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
 
+### In this pericope — Genesis 33:1–20
+
+**He crosses the chapter from vassal to landowner, and the man he spent a whole night preparing to
+appease turns out not to have needed any of it.**
+
+**He bows seven times before he speaks a word** — Ancient Near Eastern court protocol, the same
+gesture Canaanite vassals perform before Pharaoh in the Amarna letters — and walks ahead of the
+household he has just arranged by rank, servants first and Rachel and Joseph last, **the position of
+greatest danger given to those he values least.** Esau runs before the third bow could have
+finished, embraces him, and weeps, for reasons Genesis never supplies. **Every element of the staged
+diplomacy from chapter 32 turns out to answer a threat that was never real.**
+
+***"I have seen your face, as one sees the face of God"*** (33:10) — the noun he spent 32:20
+managing on Esau's behalf, spoken to him directly, and read on this wiki as [[Peniel]]'s payoff. See
+[[Wrestling at the Jabbok]] and [[Seeing and Being Seen]].
+
+**He calls the gift *birkātî*, *my blessing*** (33:11), not the *minḥâ*, *present*, of every earlier
+reference to it in chapter 32 — offering Esau, unprompted, the word for the thing he took by
+disguise twenty years earlier. Genesis records neither brother remarking on it. See [[Blessing]] and
+[[The Stolen Blessing]].
+
+**He states one plan — to follow Esau *"to Seir"* (33:14) — and the text never shows him keeping
+it.** Esau leaves for Seir the same verse; Jacob goes to Succoth, then Shechem. **The wiki does not
+call this a lie** — nothing in it is a false statement of present fact, unlike 27:19 or 27:24 — but
+it is the fourth or fifth stated word in this man's life that the text does not show fulfilled
+exactly as spoken. See [[Deception]].
+
+**He buys land for the first time in his life**, a hundred pieces of silver at Shechem, and builds an
+altar he names *ʾĒl ʾĕlōhê Yiśrāʾēl* — **attaching his own new name to God two chapters before God
+uses it of him again** (35:10). See [[Names and Naming]] and [[The Names of God]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He meets Esau expecting an army and is embraced (33). He loses Rachel at Bethlehem
+He loses Rachel at Bethlehem
 and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
 the years of my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
 **crossing his hands over Ephraim and Manasseh to put the younger first on purpose** (48:13–20) — and
@@ -412,7 +443,14 @@ is carried back to Machpelah.
 - Wrestles until daybreak at the Jabbok, is renamed **Israel**, and is left limping — Genesis
   32:24–32, [[Wrestling at the Jabbok]]
 - Names the place Peniel — *"I have seen God face to face, and my life is preserved"* — Genesis 32:30
-- Reconciled with Esau, who runs to meet him — Genesis 33:1–17 *(not yet ingested)*
+- Bows seven times to Esau, who runs, embraces, and weeps before a word of diplomacy is spoken —
+  Genesis 33:1–4, [[The Reconciliation with Esau]]
+- Calls the gift he presses on Esau *my blessing*, and tells him *"I have seen your face, as one sees
+  the face of God"* — Genesis 33:10–11
+- States a plan to follow Esau to Seir that the text never shows him keeping; goes to Succoth and
+  then Shechem instead — Genesis 33:14–18
+- Buys land for the first time in his life, at Shechem, and builds the altar *El Elohe Israel* —
+  Genesis 33:19–20
 - Buries Rachel; loses Joseph; goes down to Egypt at a hundred thirty — Genesis 35; 37; 46
   *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
@@ -478,6 +516,12 @@ is carried back to Machpelah.
   wrestles a man till daybreak, is crippled, and extracts a blessing he will not release his grip
   without. **Renamed Israel, with no promise attached to the name**, and left limping into the
   chapter that was the reason for all of it
+- [[The Reconciliation with Esau]] — Genesis 33:1–20; **every element of the previous chapter's
+  diplomacy turns out to answer a threat that was never real.** He bows seven times, is run to and
+  embraced before he can finish, and tells Esau *"I have seen your face, as one sees the face of
+  God"* — completing the word Peniel was named for. He calls the gift he presses on Esau *my
+  blessing*, states a plan to follow him to Seir that the text never shows him keeping, and ends the
+  chapter buying land for the first time and naming an altar after his own new name
 
 ## Related people
 
@@ -499,6 +543,7 @@ is carried back to Machpelah.
   tribes, and the one he is said to love less
 - [[Zilpah]] — [[Leah]]'s slave, handed over at the wedding
 - [[Bilhah]] — [[Rachel]]'s slave, handed over a week later
+- [[Hamor]] — sells him the field at Shechem; does not speak or act on screen
 - [[Bethuel]] — his maternal grandfather
 - [[Reuben]], [[Simeon]], [[Levi]], [[Judah]], [[Dan (person)]], [[Naphtali]], [[Gad]], [[Asher]],
   [[Issachar]], [[Zebulun]], [[Joseph]] — his eleven sons born in Paddan Aram, **none of whom he names**

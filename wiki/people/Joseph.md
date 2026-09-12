@@ -60,6 +60,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   30:22–24, [[The Birth of Jacob's Children]]
 - His birth is the trigger for Jacob's request to go home — *"When Rachel had borne Joseph, Jacob
   said to Laban, 'Send me away'"* — Genesis 30:25, [[Jacob's Flocks]]
+- Placed with Rachel at the rear of the household, the position of least exposure, at the meeting
+  with Esau — Genesis 33:2, 7, [[The Reconciliation with Esau]]
 - Loved more than his brothers; the coat and the dreams — Genesis 37:1–11 *(not yet ingested)*
 - Sold into Egypt on Judah's proposal — Genesis 37:25–36 *(not yet ingested)*
 - Potiphar's house, the prison, and the dreams of the cupbearer and the baker — Genesis 39–40 *(not yet
@@ -83,6 +85,9 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   blessing spills over onto its foreign patron does it again in his generation** — *"Yahweh blessed
   the Egyptian's house **for Joseph's sake**"* (39:5), the same idiom Laban uses of Jacob at 30:27.
   See [[Blessed for His Sake - Laban's House and Potiphar's]]
+- [[The Reconciliation with Esau]] — Genesis 33:2, 7; placed with [[Rachel]] at the rear of the
+  household as it approaches Esau — the position of least exposure, and consistent with *"he loved
+  also Rachel more than Leah"* (29:30). He does not speak or act
 
 ## Related people
 

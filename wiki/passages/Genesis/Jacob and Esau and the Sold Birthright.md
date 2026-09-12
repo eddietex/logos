@@ -491,7 +491,7 @@ handed the job.**
   to Leah *(not yet ingested)*.
 - [[Wrestling at the Jabbok]] — Genesis 32:22–32; the night at the Jabbok, the new name given with a
   verdict on the past rather than a promise for the future, and the hip he carries the injury from.
-- Genesis 33:1–20 — Esau runs to meet him, embraces him, and weeps *(not yet ingested)*.
+- [[The Reconciliation with Esau]] — Genesis 33:1–20; Esau runs to meet him, embraces him, and weeps.
 - Genesis 36:1–43 — Esau's *toledot*, his settlement in Seir, and the kings of Edom
   *(not yet ingested)*.
 - Genesis 48:13–20 — Jacob crosses his hands over Ephraim and Manasseh, and does deliberately what was

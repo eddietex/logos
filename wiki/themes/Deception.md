@@ -196,6 +196,13 @@ has become a nation.
   real theft is never discovered, confessed, or mentioned again. **A separate verb, *tālal*, *to
   trifle with*, enters Scripture here** for what Laban did to Jacob's wages (31:7) — a different word
   from the *rāmâ* of 29:25, from the same man about the same man
+- [[The Reconciliation with Esau]] — Genesis 33:14; **a genuinely open case, and the wiki does not
+  close it.** Jacob tells Esau he will *"lead on gently… until I come to my lord to Seir"*; Esau
+  leaves for Seir the same verse, and Jacob goes to Succoth and then Shechem instead, with no later
+  chapter recording him at Seir at all. **Unlike every instance above, nothing here is a false
+  statement of present fact** — no disguise, no direct lie under questioning — so the wiki does not
+  file it as a *mirmâ* alongside 27:19 or 27:24. It is recorded instead as a stated intention the
+  text does not show fulfilled, in a family whose words have not always meant what they said
 
 ## Related themes
 
