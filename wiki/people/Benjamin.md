@@ -97,6 +97,12 @@ Paul, who carries Saul's name.
   Genesis that is overruled** — *Ben Oni*, son of my sorrow or son of my strength, replaced with
   *Benjamin* over his mother's body. The roster four verses later says all twelve were born in Paddan
   Aram, which he was not
+- [[Joseph Sold into Slavery]] — Genesis 37:3; **absent, and the reason the chapter's stated motive does
+  not add up.** Jacob loves Joseph *"because he was the son of his old age"* — ***ben-zəqūnîm*** — **and
+  Benjamin is younger**, by the birth that killed their shared mother two chapters earlier. The wiki takes
+  37:3 as the narrator reporting Jacob's own account of himself rather than as arithmetic, and notes that
+  **Jacob applies the same phrase to Benjamin at 44:20.** The *eleven stars* of 37:9 include him, and he is
+  the one brother who never bows to Joseph as a stranger
 
 ## Related people
 

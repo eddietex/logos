@@ -910,5 +910,3 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   as plain scripture references rather than wikilinks, so none is a dangling link.** Mahanaim and the
   Jabbok (32:1–2, 22–32), left this way when this note was written, are now ingested — see
   [[Wrestling at the Jabbok]].
-</content>
-</invoke>

@@ -59,6 +59,10 @@ named in the New Testament as a living identity.**
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:26; **a name in a list**, and the
   last of the twelve in it. The roster ends on him and then declares that all twelve *"were born to
   him in Paddan Aram"* — which [[Benjamin]], born seven verses earlier in Canaan, was not
+- [[Joseph Sold into Slavery]] — Genesis 37:2; **not named individually, and one of the four sons of
+  [[Bilhah]] and [[Zilpah]] the *evil report* concerned.** The clause that identifies them is also the one
+  that calls their mothers Jacob's *wives*, against *concubine* and *servant* two verses apart in the
+  previous chapter. **He neither speaks nor is singled out in the chapter**
 
 ## Related people
 

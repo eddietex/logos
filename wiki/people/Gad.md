@@ -57,6 +57,10 @@ of Genesis attested outside the Bible.**
   God in them**
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:26; **a name in a list.** First of
   Zilpah's two, in the last verse of the Bible's first complete roster of the twelve
+- [[Joseph Sold into Slavery]] — Genesis 37:2; **not named, and one of the four the *evil report* was
+  about** — *"the sons of Bilhah and Zilpah, his father's wives"*, the brothers with the least standing in
+  the household. **Genesis records no grievance on either side and does not say whether the report was
+  true.** He acts only as one of *his brothers* thereafter
 
 ## Related people
 

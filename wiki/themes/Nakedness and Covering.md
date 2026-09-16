@@ -90,6 +90,13 @@ nakedness may not be revealed"* (Revelation 3:18).
   false belief: Joseph's coat in blood (37:31), Tamar's veil in place of widow's clothes (38:14),
   Joseph's cloak in Potiphar's wife's hand (39:12). See
   [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
+- [[Joseph Sold into Slavery]] — Genesis 37:3, 23, 31–33; **a garment given, stripped, dipped, and
+  delivered — and it does all the work the chapter needs.** ***Kətōnet passîm***: the noun is **God's own
+  word for what he made Adam and Eve** (3:21) and **the priest's tunic** (Exodus 28:4), and *passîm* occurs
+  in this sense in only one other place in the Bible — **on Tamar at 2 Samuel 13:18–19, who tears hers after
+  Amnon rapes her.** *"They stripped Joseph of his coat"* is the first thing the brothers do, **before the
+  pit**; the coat is the cause at 37:3–4 and the instrument at 37:31–33; and the boy goes to Egypt without
+  it. See [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
 
 ## Related themes
 

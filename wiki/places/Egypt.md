@@ -98,6 +98,14 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   verses is the difference between a sojourn and an exodus. See
   [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] for what happens to the family in Gerar
   instead
+- [[Joseph Sold into Slavery]] — Genesis 37:25, 28, 36; **named three times and always as a destination
+  for freight.** The caravan is *"going to carry it down to Egypt"* with spices out of [[Gilead]]; *"they
+  brought Joseph into Egypt"*; and *"the Midianites sold him into Egypt to Potiphar."* **Every other
+  descent in Genesis is a decision** — Abram's at 12:10, the household's at 46:6 — **and this one is a
+  consignment.** The first Israelite in Egypt arrives as a seventeen-year-old bought for twenty shekels,
+  and the sojourn Genesis 15:13 predicted starts here. See
+  [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] and
+  [[Four Hundred Years - The Sojourn and the Exodus]]
 
 ## Related places
 

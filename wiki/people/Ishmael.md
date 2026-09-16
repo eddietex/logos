@@ -233,6 +233,13 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
   *"Esau went to Ishmael"* is said thirteen years after 25:17 buried him on the book's own numbers,
   and is ordinarily read as *went to Ishmael's household*. **The elder son sent away at 21:12
   receives the elder son passed over at 27:33**, and Genesis lets the symmetry stand without a word
+- [[Joseph Sold into Slavery]] — Genesis 37:25, 27, 28; **his descendants carry Joseph out of the land of
+  promise.** *"A caravan of Ishmaelites was coming from Gilead, with their camels bearing spices and balm
+  and myrrh, going to carry it down to Egypt"* — **the resin trade of the eastern highlands, and the men
+  [[Judah]] proposes selling his brother to.** The same caravan is called *Midianite* at 37:28 and 37:36
+  and *Ishmaelite* again at 39:1; see
+  [[Ishmaelites or Midianites - The Caravan That Bought Joseph]]. **Abraham's firstborn line takes
+  Abraham's great-grandson to Egypt for twenty shekels**, and Genesis does not remark on it
 
 ## Related people
 

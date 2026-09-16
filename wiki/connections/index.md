@@ -149,3 +149,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
 | [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
+| [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 42:6, 9 · Genesis 43:26 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 |
+| [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 |
+| [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
+| [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 |

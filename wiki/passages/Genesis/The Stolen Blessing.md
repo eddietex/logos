@@ -732,7 +732,11 @@ alone, on a road north. See
   demanded rather than stolen: *"I won't let you go, unless you bless me."* The giver this time
   could disable him and could not simply make him release his grip.
 - [[The Reconciliation with Esau]] — Genesis 33:1–4; Esau runs, embraces, and weeps.
-- Genesis 37:31–33 — the coat and the goat's blood, worked on Jacob *(not yet ingested)*.
+- [[Joseph Sold into Slavery]] — Genesis 37:31–33; **the coat and the goat's blood, worked on Jacob from
+  the other side.** Two kids' skins and a borrowed garment took a blessing from a father who could not see;
+  one goat's blood and a stripped garment take a son from one who can. **The question is the same shape
+  too** — *"are you really my son Esau?"* (27:24) against *hakker-nāʾ*, *"whether it is your son's coat or
+  not"* (37:32) — **and both fathers answer it wrong.**
 - Genesis 48:13–20 — Jacob crosses his hands over Ephraim and Manasseh, seeing badly himself
   (48:10), and refuses to be corrected *(not yet ingested)*.
 - Genesis 49:31 — Rebekah named as an occupant of the cave, the only further mention of her

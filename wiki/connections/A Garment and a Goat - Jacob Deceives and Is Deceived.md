@@ -11,11 +11,11 @@ tags: [connection]
   *"Rebekah took the good clothes of Esau, her elder son, which were with her in the house, and put
   them on Jacob, her younger son. She put the skins of the young goats on his hands, and on the
   smooth of his neck."*
-- **Genesis 37:31–33** — *"They took Joseph's coat, and killed a male goat, and dipped the coat in
-  the blood. They took the coat of many colors, and they brought it to their father, and said, 'We
-  have found this. Examine it, now, whether it is your son's coat or not.' He recognized it, and
-  said, 'It is my son's coat. An evil animal has devoured him. Joseph is without doubt torn in
-  pieces.'"*
+- **Genesis 37:31–33**, now on the page at [[Joseph Sold into Slavery]] — *"They took Joseph's coat, and
+  killed a male goat, and dipped the coat in the blood. They took the coat of many colors, and they brought
+  it to their father, and said, 'We have found this. Examine it, now, whether it is your son's coat or not.'
+  He recognized it, and said, 'It is my son's coat. An evil animal has devoured him. Joseph is without doubt
+  torn in pieces.'"*
 - **Genesis 38:17, 20** — Judah promises *"a young goat from the flock"* to a veiled woman at the
   roadside and cannot find her to deliver it.
 - **Genesis 3:21** — *"Yahweh God made coats of animal skins for Adam and for his wife, and
@@ -39,6 +39,13 @@ man from both sides, and never once says so.
 | **the question** | *"Are you really my son Esau?"* (27:24) | *"whether it is your son's coat or not"* (37:32) |
 | **the verdict** | *"So he blessed him"* (27:23) | *"He recognized it"* (37:33) |
 | **what is lost** | the elder son's blessing | the favoured son, for twenty-two years |
+
+**And the Genesis 37 half has a refinement the Genesis 27 half does not: the brothers tell no lie.** They
+say *we have found this*, which is false only by implication, and then hand their father a question —
+***hakker-nāʾ***, *examine it, now.* **The sentence they had drafted eleven verses earlier** — *"we will
+say, 'An evil animal has devoured him'"* (37:20) — **comes out of his own mouth at 37:33, unprompted and
+verbatim.** In chapter 27 Jacob had to say *"I am Esau your firstborn"* out loud, twice, under direct
+questioning. **His sons improved the method to the point where the deceived party performs it.**
 
 **The symmetry that matters is in the question.** Both scenes turn on a father being asked to
 identify a son by an object, and both fathers get it wrong — **the blind one by overruling the sense

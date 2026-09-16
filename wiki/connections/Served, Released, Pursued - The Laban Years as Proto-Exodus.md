@@ -79,4 +79,3 @@ and rebuked you last night"* (31:42) is the whole of Exodus 3:7–9 spoken by a 
 private grievance, **six generations early.**
 
 See [[Work]], [[Slavery and Servitude]], [[Suffering]], and [[Land and Sojourning]].
-</content>

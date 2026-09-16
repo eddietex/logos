@@ -142,6 +142,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   ground currently belongs to, and the phrase ***mĕtê mispār***, *few in number*, is the one
   Psalm 105:12 uses of the patriarchs as a whole. **The promise's own bearer is counting the odds
   and does not like them** — and the chapter never mentions the God who made the promise
+- [[Joseph Sold into Slavery]] — Genesis 37:1; *"Jacob lived in the land of his father's travels, in the
+  land of Canaan"* — **the verse that sets one brother against the other after Genesis 36 has just made
+  Esau a country.** *Məgûrê ʾābîw*, **the land of his father's *sojournings***, is the book's standing
+  description of what the patriarchs have in Canaan; and **the pericope's action is a boy being carried out
+  of it against his will**, the only involuntary departure Genesis records. See [[Land and Sojourning]]
 
 ## Related places
 

@@ -6201,3 +6201,159 @@ third quotes the verse in full. This is the same defect the previous entry noted
 
 `scripts/link-check.sh` exits 0. Genesis stands at 45 / 59 pericopes; the next is *Joseph Sold into
 Slavery*, Genesis 37:1–36, which opens the last cycle of the book.
+
+## [2026-09-16] ingest | Genesis 37.1-36 — Joseph Sold into Slavery
+
+Unattended run (`/ingest auto`). Step 2's discussion is written into the passage page rather than
+spoken. The pericope boundary was taken from the book page's plan unchanged: 37:1–2 open the book's
+**tenth and last *toledot***, 37:36 closes on Potiphar, and 38:1 turns to Judah and Tamar and does not
+come back for a chapter. A split at 37:11/37:12 — the dreams, then the errand — was considered and
+rejected, because the dreams are the stated reason for the conspiracy (*"we will see what will become
+of his dreams"*) and the two halves lose that link read apart.
+
+**Created — passage.** `wiki/passages/Genesis/Joseph Sold into Slavery.md`. The page is organised
+around two facts about the chapter that the wiki records and does not argue from. **First, God is
+absent** — neither divine name occurs in thirty-six verses, the only comparable chapter in the cycle
+being [[Dinah and the Massacre at Shechem]], and 39:2's *"Yahweh was with Joseph"* is the sentence
+this chapter withholds. **Second, the narration blames nobody**: the one verdict in the chapter is
+Jacob's and it is wrong, and it is a sentence his sons drafted at 37:20 and never had to speak — they
+hand him a coat and the question *hakker-nāʾ* and he supplies their line verbatim at 37:33. Also
+tracked: the *šālôm* of 37:4 against the *šəlôm ʾaḥeykā* errand of 37:14; the four-step escalation
+*hated* → *hated all the more* → *hated all the more* → *envied*; Moriah's *hinnēnî*, *naʿar*, and
+*"lay no hand on him"* redistributed through a chapter with no voice from heaven in it; and the
+verb *nākar* planted in a lie about a coat and later governing the reunion (42:7–8).
+
+**Created — people (2).** [[Potiphar]] — the first Egyptian personal name in the Bible, *sārîs* and
+*śar haṭṭabbāḥîm*, *chief of the slaughterers*, with the *Potiphera* of 41:45 kept as a separate man.
+[[Pharaoh (of Joseph's time)]] — see **Judgment calls** below.
+
+**Created — places (1).** [[Dothan]] — where the whole of the pericope's action happens, and the
+setting of the one other Dothan narrative, Elisha and the blinded Aramean army at 2 Kings 6:8–23.
+
+**Created — connections (4).**
+[[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] — the two dreams, the four bowings of
+42:6 / 43:26 / 44:14 / 50:18, and the fact that **the first dream is fulfilled to the letter and the
+second is not**, because the sun and the moon never bow (47:31 is worship, not submission).
+[[Twenty Pieces of Silver - The Price of a Brother]] — 37:28 against Leviticus 27:5, which fixes the
+valuation of a male aged five to twenty at exactly twenty shekels, and against the thirty of
+Zechariah 11:12 and Matthew 26:15, **which the page declines to equate.**
+[[Ishmaelites or Midianites - The Caravan That Bought Joseph]] — the seam inside 37:28.
+[[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] — how the rest of Scripture narrates
+this chapter, and that **each summary supplies the thing Genesis 37 leaves out**: the psalm an agent,
+Stephen a motive.
+
+**Revised.** People: [[Joseph]], [[Jacob]], [[Reuben]], [[Judah]] (new pericope sections, timelines,
+appears-in); [[Bilhah]], [[Zilpah]] (new pericope sections — 37:2 is the verse the Genesis 35 entry
+pointed forward to); [[Dan (person)]], [[Naphtali]], [[Gad]], [[Asher]], [[Rachel]], [[Leah]],
+[[Benjamin]], [[Dinah]], [[Ishmael]], [[Keturah]]. Places: [[Shechem (city)]], [[Hebron]],
+[[Canaan]], [[Egypt]], [[Gilead]], [[Midian]], [[Sheol]] (the last of which had cited 37:35 in prose
+since the Job ingests but had no Genesis entry; **it is the word's first occurrence in the Bible**).
+Themes (17): [[Envy]], [[Deception]], [[Slavery and Servitude]], [[Prophecy and Vision]], [[Love]],
+[[Blood]], [[Nakedness and Covering]], [[Strife and Peacemaking]], [[Suffering]],
+[[Mediation and Advocacy]], [[Language and Speech]], [[Birthright and the Firstborn]],
+[[Burial and the Grave]], [[Life and Death]], [[Sin]], [[Kingship and Empire]],
+[[Wealth and Possessions]]. Connections: [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
+(a new paragraph on the refinement the Genesis 37 half adds — in chapter 27 Jacob had to say *"I am
+Esau your firstborn"* out loud twice; his sons improved the method until the deceived party performs
+it), [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]], [[Do Not Cover My Blood]],
+[[The Other Line First - The Order of the Toledot in Genesis]],
+[[Blessed for His Sake - Laban's House and Potiphar's]]. Plus [[The Stolen Blessing]], the Genesis
+book page's Joseph-cycle overview, and all five indexes.
+
+### Contradictions and doublings, flagged and not resolved
+
+- **Joseph's mother at 37:10.** [[Rachel]] died at 35:19; Jacob's rebuke speaks of *"your mother"* as
+  a future participant in the bowing. **Four readings are set out and none adopted**: the rebuke
+  recites the dream's own figure without asserting who is alive; [[Leah]] is the mother meant (which
+  requires supplying something Genesis never says); composite sources, as with Benjamin's birthplace
+  at 35:26; and the dream is a promise about a household rather than a guest list. **The fourth is the
+  one the sequel vindicates** — the brothers bow four times and the father never does — and the wiki
+  notes that without adopting it.
+- **Who bought Joseph.** *Ishmaelites* at 37:25, 27, 28b and 39:1; *Midianites* at 37:28a and 37:36.
+  Three readings on the new connection page and none adopted. What is worth recording is that **the
+  composite reading explains a narrative feature and not merely a word**: [[Reuben]]'s astonishment at
+  the empty pit (37:29–30) is hard to place if he was present when his brothers agreed to a sale. And
+  the harmonising reading has a real proof text — **Judges 8:24 calls Midianites Ishmaelites in a
+  single clause** — which is more than most such cases offer. Genesis 42:21–22 and 45:4–5 both have the
+  brothers own the sale; that is recorded as the book's final position, not as a resolution of the
+  textual question.
+- **Bilhah and Zilpah's status, carried forward and now complete.** *Wife* (30:4, 9), *concubine*
+  (35:22), *servant* (35:25, 26), *wives* (37:2). **Four terms, and this pericope supplies the one the
+  Genesis 35 entry said was coming.** Still unreconciled, on both pages.
+- **A tension recorded rather than flagged.** *"The son of his old age"* (37:3) is not true in the
+  plain sense; [[Benjamin]] is younger. Treated as **the narrator reporting Jacob's own account of
+  himself**, and noted alongside 44:20, where Jacob applies the identical phrase to Benjamin.
+
+### Judgment calls
+
+- **[[Pharaoh (of Joseph's time)]] was created on a possessive** — *"an officer of Pharaoh's"* — which
+  is the call most open to revision in this pass. `AGENTS.md` requires the period qualifier from the
+  **first** appearance rather than retrospectively, and this is it; waiting for 39:1 or 41:1 would have
+  meant either a dangling link now or a bare mention with nowhere to hang. The page is deliberately
+  thin, follows [[Pharaoh (of Abram's time)]] exactly, and **states that Genesis never marks a change
+  of reign across the thirteen years between the sale and the promotion**, so whether one king or a
+  succession is meant is not decidable.
+- **The man in the field (37:15–17) gets no page**, although he is the hinge of the chapter — without
+  his overheard *"let us go to Dothan"*, Joseph turns round and goes home. The wiki's standing practice
+  for anonymous single-line figures, set at the midwife of 35:17, is to keep them on the passage page.
+  **The rabbinic identification of him as an angel is recorded and not adopted.**
+- **No connection page for Jacob's Sheol refrain**, which starts at 37:35 and is completed at 42:38,
+  44:29, and 44:31, where [[Judah]] turns it into the argument that breaks Joseph. A page written now
+  would be three-quarters forward reference; it is left for the pericope that closes it and tracked on
+  [[Sheol]] and [[Jacob]] meanwhile. **Same reasoning for the *hakker-nāʾ* pairing** — 37:32 and
+  38:25 — which belongs to the Judah-and-Tamar pericope, next in the plan, and is stated on the
+  passage page and on [[Judah]] so it is not lost.
+- **[[Simeon]] and [[Levi]] were not given appears-in entries**, although their chapter is the reason
+  Shechem is a strange errand. They are not named in Genesis 37; the observation lives on the passage
+  page and on [[Shechem (city)]] instead.
+- **The four sons of the slave women did get entries** — [[Dan (person)]], [[Naphtali]], [[Gad]],
+  [[Asher]] — even though they too are unnamed, because 37:2 identifies them collectively as the
+  subject of the *evil report*, which is the only grievance the chapter names between Joseph and any
+  particular brothers.
+- **[[Joseph]]'s *dibbâ rāʿâ* is left uncharacterised.** The Hebrew permits *a slanderous report* and
+  *a true report of evil things* equally, and the wiki adopts neither — noting that Genesis declines to
+  characterise the first thing it records this man saying, thirteen chapters before it establishes that
+  he tells the truth about dreams.
+- **No `Ishmaelites` or `Midianites` group page.** [[Ishmael]], [[Midian]], and [[Keturah]] hold that
+  material and the textual problem has its own page.
+
+### Links deliberately left for later pericopes
+
+All given as plain scripture references rather than wikilinks, so none is a link-check finding:
+**38:25–26** (*hakker-nāʾ* returned to Judah); **39:1–5, 20** (Potiphar named again, the caravan called
+Ishmaelite again, and *"Yahweh was with Joseph"*); **41:45–46** (*Potiphera*; Joseph at thirty);
+**42:6–9, 21, 36–38**; **43:11, 26**; **44:14, 29, 31, 34**; **45:4–8, 26**; **47:31**; **50:18, 20**.
+Quotations from books not in `raw/` — Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges,
+1–2 Samuel, 1–2 Kings, 1 Chronicles, Psalms, Proverbs, Isaiah, Jeremiah, Ezekiel, Zechariah, Matthew,
+Luke, Acts, and Revelation — were checked by eye against the WEB.
+
+### Quotation check
+
+The same verse-by-verse diff script the Genesis 36 pass used was re-run against
+`raw/bible/Genesis.md` over every block quote on the pages created here: **39 Genesis 37 verse-blocks,
+0 mismatches.** The passage page quotes all thirty-six verses of the chapter across its eight
+verse-sections.
+
+### Pre-existing findings noted, not fixed
+
+**Fixed: ten more files carrying the stray `</content>` line.** The failure mode this log has now
+recorded twice — a literal closing tag from the writing step left at the end of a file — was still
+present in [[Galeed]], [[Jacob's Flight from Laban]] (which had `</content>` *and* `</invoke>`),
+[[Idolatry]], [[Jegar Sahadutha - The Only Aramaic in the Torah]],
+[[Warned in a Dream - Abimelech and Laban]],
+[[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]],
+[[The Mizpah Benediction - Genesis 31.49 and How It Is Read]],
+[[The Teraphim - Household Gods in Genesis and After]],
+[[Served, Released, Pursued - The Laban Years as Proto-Exodus]], and [[Gilead]] — **all ten from the
+Genesis 31 cycle, so it was one bad pass rather than a standing drip.** They are all removed, and
+`grep -rn '^</content>$\|^</invoke>$' wiki/` is now clean. The earlier entry's advice to run that grep
+at the end of each pass is worth following literally; this pass did, and it is how these were found.
+
+**Not fixed, outside this pericope's scope.** A stale *(not yet ingested)* marker on
+[[The Tower of Babel]] still points at Genesis 19:1–29, which was ingested as
+[[The Destruction of Sodom and Gomorrah]]; and the `wiki/people/God.md` truncation at 25:11 that the
+Genesis 35 entry flagged is **still open.** [[God]] is, notably, the one page this pericope gave no
+entry at all: **Genesis 37 never names him.**
+
+`scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. Genesis
+stands at 46 / 59 pericopes; the next is *Judah and Tamar*, Genesis 38:1–30.

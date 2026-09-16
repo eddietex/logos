@@ -38,6 +38,18 @@ divine act in them** — *"How fortunate!"* and *"Happy am I, for the daughters 
 (30:11, 13). **Luck, and reputation**, in a chapter that credits God with every other conception. See
 [[The Birth of Jacob's Children]] and [[Names and Naming]].
 
+### In this pericope — Genesis 37:1–36
+
+**She and [[Bilhah]] are *"his father's wives"*** (37:2) — ***nəšê ʾābîw*** — **which is the fourth term
+Genesis has used for the pair in eight chapters**: *wife* at 30:9, *servant* at 35:26, *concubine* of
+Bilhah at 35:22, and *wives* here. **The wiki flags the inconsistency and adopts none of the terms.**
+
+**And the same clause makes her sons the subject of the chapter's first grievance.** Joseph's *evil
+report* — ***dibbâ rāʿâ*** — is about *"the sons of Bilhah and Zilpah"*: [[Gad]] and [[Asher]] with
+[[Dan (person)]] and [[Naphtali]], **the four brothers with the least standing in the household.**
+Genesis does not say what the report alleged, whether it was true, or what the four had done. **Neither
+Zilpah nor any of her sons speaks in the chapter.** See [[Joseph Sold into Slavery]].
+
 ### What is still ahead
 
 Genesis calls her Jacob's **wife** at 37:2 and lists her sons among the twelve without qualification
@@ -54,6 +66,8 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
   servants"* — Genesis 31:33, [[Jacob's Flight from Laban]]
 - Listed among the mothers of the twelve, as *"Leah's servant"* — Genesis 35:26,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Called one of *"his father's wives"* in the verse naming whose sons Joseph informed on — Genesis 37:2,
+  [[Joseph Sold into Slavery]]
 - Her sons and grandsons counted at the descent into Egypt — Genesis 46:18 *(not yet ingested)*
 
 ## Appears in
@@ -73,6 +87,10 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
   *"The sons of Zilpah (Leah's servant): Gad and Asher"* — her two counted among the twelve without
   qualification, and her own status attached to her name in a parenthesis. **She says nothing, here
   or anywhere in Scripture**
+- [[Joseph Sold into Slavery]] — Genesis 37:2; **named once, in the plural, and given a fourth status
+  term.** She and [[Bilhah]] are *"his father's wives"*, and **their four sons are who the *evil report*
+  was about** — the only grievance the chapter offers between Joseph and any particular brothers, and one
+  the Hebrew declines to characterise as slander or as fact
 
 ## Related people
 

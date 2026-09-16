@@ -216,6 +216,14 @@ has become a nation.
   to Jacob's sons (34:9–10) and argue livestock to their own citizens at the gate (34:23). **Genesis
   names only the Israelite deceit as deceit**, and the wiki notes the asymmetry without explaining it
   away
+- [[Joseph Sold into Slavery]] — Genesis 37:20, 31–33; **the most efficient deception in Genesis, because
+  the deceived party performs it.** The brothers draft the sentence at 37:20 — *"we will say, 'An evil
+  animal has devoured him'"* — **and then never say it.** They dip the coat in goat's blood, present it with
+  *"we have found this"*, and hand him a question: ***hakker-nāʾ***, *"examine it, now, whether it is your
+  son's coat or not."* **Jacob supplies their line himself, verbatim** (37:33). Nothing false is asserted;
+  **the lie is a true statement, a real object, and a correct inference from it to a wrong conclusion.** And
+  the props are the family's own — a garment and a goat, the two things that took the blessing from a blind
+  father at 27:9–16. See [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
 
 ## Related themes
 

@@ -108,4 +108,3 @@ imperative in the epistles: *"Little children, keep yourselves from idols"* (1 J
 - [[Terah]] — the father Joshua 24:2 says served other gods, and Genesis does not
 - [[Nahor (brother of Abram)]] — whose God is invoked beside Abraham's in a plural verb
 - [[Jacob]] — who buries the foreign gods at Shechem (35:2–4), the one purge in the book
-</content>

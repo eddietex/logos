@@ -105,6 +105,12 @@ gathers Kedar and Nebaioth from Ishmael's line. **All five names are from this o
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:1–4; her whole presence in Genesis,
   nine words of introduction and four verses of descendants, in the pericope that closes the Abraham
   cycle by counting what the promise produced off the main line
+- [[Joseph Sold into Slavery]] — Genesis 37:28, 36; **her son [[Midian]]'s descendants are half the
+  caravan.** *"Midianites who were merchants passed by, and they drew and lifted up Joseph out of the
+  pit"*, and *"the Midianites sold him into Egypt to Potiphar"* — **against *Ishmaelites* at 37:25, 27, 28b
+  and 39:1.** The two names are used of the same traders and the wiki adopts no resolution; see
+  [[Ishmaelites or Midianites - The Caravan That Bought Joseph]]. **Both of Abraham's non-covenant lines
+  are on the road to Egypt in this chapter**
 
 ## Related people
 

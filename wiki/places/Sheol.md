@@ -72,6 +72,13 @@ to go.
   ended the previous speech at 17:16.
 - [[Bildad's Second Speech]] — not named either, and the source of the book's one crowned Death,
   *"the king of terrors"* (18:14).
+- [[Joseph Sold into Slavery]] — Genesis 37:35; **the word's first occurrence in the Bible.** *"For I will
+  go down to Sheol to my son mourning"* — ***ʾērēd … šəʾōlâ*** — spoken by [[Jacob]] over a coat, about a
+  son who is alive, in a chapter in which God is never named. **Everything this page says about Sheol is
+  already in that one sentence**: it is *down*, one *goes* to it, the righteous expect to arrive there, and
+  it holds no correction of anything. **Jacob says it twice more, both times about [[Benjamin]]** (42:38;
+  44:29), and [[Judah]] quotes it back to Joseph as the argument that breaks him (44:31, 34) — **so the
+  Hebrew Bible's first named Sheol is also the refrain the Joseph cycle ends on**
 
 ## Related places
 

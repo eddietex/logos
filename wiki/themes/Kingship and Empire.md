@@ -109,6 +109,13 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   David and a good illustration of why Deuteronomy 17:14–20 hedges the office instead of simply
   granting it. The dating clause at 36:31 is also one of the most discussed verses in the Torah. See
   [[Kings Will Come Out of You]], [[Bela (son of Beor)]], and [[Hadar]]
+- [[Joseph Sold into Slavery]] — Genesis 37:8; ***"will you indeed reign over us? Or will you indeed have
+  dominion over us?"*** — ***hămālōk timlōk … ʾim-māšôl timšōl***, two infinitive-absolute constructions,
+  **the Hebrew of scorn. And it is the first time *mālak*, to reign as king, is used of a descendant of
+  Abraham.** The kings-promise has been made three times — 17:6, 17:16, and 35:11, *"kings will come out of
+  your body"* — **and the first Israelite the verb lands on is a seventeen-year-old, sarcastically, by the
+  men about to sell him.** *Māšal* is also **the Eden verb** (3:16; 4:7), the vocabulary of contested
+  mastery inside a family. See [[Kings Will Come Out of You]]
 
 ## Related themes
 

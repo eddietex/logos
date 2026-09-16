@@ -119,6 +119,13 @@ implied and never stated: *"We love him, because he first loved us."* 1 Corinthi
   household. **Nobody in the family ever says it aloud**; Leah says *"I am hated"* once, at 29:33, and
   credits God with knowing it rather than anyone she lives with. See
   [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]]
+- [[Joseph Sold into Slavery]] — Genesis 37:3–4; **the same two verbs, one generation on.** *"Now Israel
+  **loved** Joseph more than all his children … and they **hated** him"* — ***ʾāhab*** and ***śānēʾ***,
+  **the exact pair the narrator used of this man's own marriage**: *"he loved also Rachel more than Leah"*
+  (29:30), and Leah's *"Yahweh has heard that I am hated"* (29:33). **Jacob reproduces in his household the
+  configuration that made his household miserable**, and Genesis reports it without comment. **The reason
+  he gives is also not true in the plain sense** — *"the son of his old age"*, when [[Benjamin]] is younger.
+  See [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]]
 
 ## Related themes
 

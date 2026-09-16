@@ -91,7 +91,16 @@ judgment about a motive.**
   sister's move rather than solving a problem.** The object of *qānāʾ* here is standing, not children,
   and the passage's own word for the contest is [[Rachel]]'s: *"I have wrestled **with my sister**…
   and have prevailed"* (30:8)
-- Genesis 37:11 — *"His brothers envied him"* *(not yet ingested)*
+- [[Joseph Sold into Slavery]] — Genesis 37:4, 5, 8, 11; **the third *qānāʾ* in Genesis, and the only one
+  the narrator builds up to in stages.** *Hated* (37:4), *hated all the more* (37:5), *hated all the more*
+  again (37:8), and then ***wayqannəʾû-bô***, *they envied him* (37:11) — **four escalations in eight
+  verses, each one following a fresh display of what the envied party has.** The object is neither property
+  nor fertility but **a father's preference**, and the wiki notes that the pattern of the other two holds
+  exactly: **the envy is immediately followed by the removal of the envied party** — the wells stopped, the
+  sister out-borne, and here a brother sold. **Acts 7:9 supplies the diagnosis Genesis 37 declines to
+  state**: *"the patriarchs, moved with jealousy against Joseph, sold him into Egypt"* — *zēlōsantes*, the
+  Septuagint's word for this verb. See
+  [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]]
 - Exodus 1:9–11 — the same fear of a prospering household, and a labour draft instead of an eviction
 - Exodus 20:5; 34:14; Deuteronomy 4:24 — *ʾĒl qannāʾ*, and *Jealous* given as a divine name
 - Numbers 5:11–31 — the law of jealousy, the one ordeal in the Torah, built on the same root
@@ -133,3 +142,5 @@ judgment about a motive.**
 - [[Rachel]] — the subject of the second *qānāʾ* in Genesis, and the wife whose rank the passage
   before it establishes
 - [[Leah]] — the object of it, and the sister who has what is envied
+- [[Joseph]] — the third object of the root in Genesis, and the only one who is envied for being loved
+  rather than for what he owns or has borne

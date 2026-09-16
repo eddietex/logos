@@ -12,7 +12,7 @@ tags: [connection]
 - **Genesis 30:27, 30** — *"Yahweh has blessed me **for your sake**"*; *"Yahweh has blessed you
   wherever I turned"* — [[Jacob's Flocks]]
 - **Genesis 39:5** — *"Yahweh blessed the Egyptian's house **for Joseph's sake**"* *(not yet
-  ingested)*
+  ingested)*. **The Egyptian is [[Potiphar]], named at 37:36** — see [[Joseph Sold into Slavery]]
 - **Genesis 26:12–14** — Isaac's hundredfold in Gerar, and the envy that follows it —
   [[Isaac in Gerar]]
 - **Genesis 41:53–57; 47:13–26** — a famine survived by a whole region because of the same man

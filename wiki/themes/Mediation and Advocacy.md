@@ -128,6 +128,13 @@ what Job is asking for.
   answered. Two things make it unlike Genesis 18: the advocate is the guilty party, and the
   beneficiary is an outsider. See
   [[A Prophet Who Prays - The First Nabi in Scripture]]
+- [[Joseph Sold into Slavery]] — Genesis 37:21–22, 26–27; **two interventions, and between them they show
+  how little advocacy can accomplish.** [[Reuben]] argues three times — *"let's not take his life … shed no
+  blood … lay no hand on him"* — **and the last clause is the angel's at Moriah** (22:12), spoken here by a
+  brother in the one chapter of the cycle where no divine voice speaks. **He wins on the letter and the
+  narrator has to supply the intention his speech does not contain.** Then [[Judah]] argues from *mah-beṣaʿ*,
+  *what profit*, and *"his brothers listened to him"* — **which the chapter never says of Reuben.** The
+  successful advocate saves a life by arranging a sale; the sincere one comes back to an empty pit
 
 ## Related themes
 

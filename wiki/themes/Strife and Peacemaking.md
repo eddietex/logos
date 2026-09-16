@@ -171,6 +171,13 @@ the land.
   narrator states before the procedure begins: *"with deceit"* (34:13). **Genesis 34 is what the
   peacemaking chapters look like when one party never meant it** — and the peace it destroys was
   offered on terms more generous than any patriarch had yet been given
+- [[Joseph Sold into Slavery]] — Genesis 37:4, 14; ***šālôm*** **used three times in a chapter that has
+  none of it, and the arrangement is the cruellest thing in it.** The brothers *"couldn't speak peaceably to
+  him"* — ***lə-šālōm*** (37:4) — and ten verses later their father sends the boy sixty-five miles to
+  *"see whether it is well with your brothers, and well with the flock"* — ***šəlôm ʾaḥeykā*** (37:14).
+  **The errand is, literally, to inspect the peace of men the narrator has just said cannot speak peace to
+  him**, and Genesis does not point it out. **Both enquiries come back false**: the flock is fine, the
+  brothers are not, and the word that comes back is brought by somebody else and is a lie
 
 ## Related themes
 

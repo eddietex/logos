@@ -121,6 +121,13 @@ holds up Esau as the warning.
   Three verses later: ***"Reuben (Jacob's firstborn)"***. **Genesis comments on neither**, and the
   verdict waits fourteen chapters (49:3–4), with 1 Chronicles 5:1–2 stating the transfer outright.
   See [[Lying with the Father's Concubine - A Claim on the Succession]]
+- [[Joseph Sold into Slavery]] — Genesis 37:21–22, 27; **the succession moves in this chapter and Genesis
+  does not announce it.** [[Reuben]], the firstborn, intervenes and **the narrator has to explain what he
+  meant**; [[Judah]], the fourth son, proposes a sale and ***"his brothers listened to him."*** **The
+  chapter never says that of Reuben.** Reuben is also the one who comes back to the empty pit and asks
+  *"where will I go?"* — **the eldest son's exposure, named before the boy's fate.** The redistribution is
+  stated outright only much later (49:3–4, 8–10; 1 Chronicles 5:1–2), but **the men who act like the
+  firstborn from 37:26 on are Judah and, in Egypt, Joseph**
 
 ## Related themes
 

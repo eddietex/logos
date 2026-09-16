@@ -63,6 +63,11 @@ been explained by any text. See
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:25; **a name in a list**, and a
   demotion in it. Strict birth order makes him fifth of the twelve; the roster's by-mother
   arrangement puts him ninth, behind both of [[Rachel]]'s sons and all six of [[Leah]]'s
+- [[Joseph Sold into Slavery]] — Genesis 37:2; **not named, and one of the four the *evil report* was
+  about.** *"He was a boy with the sons of Bilhah and Zilpah, his father's wives. Joseph brought an evil
+  report of them to their father"* — **the only grievance the chapter names between Joseph and any
+  particular brothers**, and Genesis says neither what it alleged nor whether it was true. He is among
+  *his brothers* for the rest of the chapter and is never distinguished from them
 
 ## Related people
 

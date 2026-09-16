@@ -58,6 +58,21 @@ burial** and nowhere else, and Bilhah is Rachel's slave — so an old line of Je
 [[Reuben]] as acting on [[Leah]]'s behalf, against the loved wife's household now that the loved wife
 is gone. **Genesis supplies no motive at all**, and the wiki adopts none.
 
+### In this pericope — Genesis 37:1–36
+
+**One clause, and it is the third designation.**
+
+*"He was a boy with the sons of Bilhah and Zilpah, **his father's wives**"* (37:2) — ***nəšê ʾābîw***.
+**So the tally now reads: *wife* at 30:4, *concubine* at 35:22, *servant* at 35:25, *wife* again here.**
+This verse is the one [[Return to Bethel; the Deaths of Rachel and Isaac]] pointed forward to, and **it
+supplies the third term without reconciling the three.** The wiki continues to adopt none.
+
+**And it is the verse that identifies who [[Joseph]] was informing on.** The *evil report* — ***dibbâ
+rāʿâ*** — is about **the sons of Bilhah and Zilpah**: [[Dan (person)]], [[Naphtali]], [[Gad]], and
+[[Asher]], **the four brothers with the least standing in the household**, reported on by the son of the
+loved wife. **The Hebrew will not say whether the report was slander or true**, and Genesis names no
+grievance on either side. See [[Joseph Sold into Slavery]].
+
 ### What is still ahead
 
 **Jacob does not speak about 35:22 for fourteen chapters**, and when he does, from his deathbed, it costs
@@ -83,6 +98,8 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
   Genesis 35:22, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Named in the roster of the twelve as *"Rachel's servant"*, mother of Dan and Naphtali —
   Genesis 35:25
+- Called one of *"his father's wives"* — her third designation — in the verse naming whose sons Joseph
+  informed on — Genesis 37:2, [[Joseph Sold into Slavery]]
 - Named in Jacob's deathbed disinheriting of Reuben — Genesis 49:3–4 *(not yet ingested)*
 
 ## Appears in
@@ -103,6 +120,11 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
   Hebrew breaks the sentence off rather than say what Jacob thought of it; and she is listed among the
   mothers of the twelve as *"Rachel's servant"* — **her third designation in two chapters**, against
   *concubine* at 35:22 and *wife* at 37:2. **Nothing is recorded about her consent or her account**
+- [[Joseph Sold into Slavery]] — Genesis 37:2; **one clause, and it closes the triple designation.** She
+  and [[Zilpah]] are *"his father's wives"* here, against *concubine* and *servant* three verses apart in
+  the previous chapter — **and the same clause names her sons as the subject of Joseph's *evil report***,
+  which is the only motive the chapter comes near supplying for the brothers' hatred and which it does not
+  characterise as true or false
 
 ## Related people
 

@@ -24,15 +24,43 @@ the northern one by a century and a half; the province *Yehud*, from which the w
 genealogies of Matthew 1:2–3 and Luke 3:33. **All of it comes out of a naming speech by a wife nobody
 chose.**
 
+### In this pericope — Genesis 37:1–36
+
+**He proposes the sale, and he argues it on money.**
+
+> **26** Judah said to his brothers, “What profit is it if we kill our brother and conceal his blood?
+> **27** Come, and let’s sell him to the Ishmaelites, and not let our hand be on him; for he is our
+> brother, our flesh.” His brothers listened to him.
+
+***Mah-beṣaʿ*** — ***beṣaʿ*** is **gain, and characteristically dishonest gain**: the word in the
+qualification for judges, *"men of truth, hating unjust gain"* (Exodus 18:21), and in the prophets'
+complaints about men *"greedy for gain"*. **His objection to murdering his brother is that murder is
+unremunerative.** He then adds the chapter's **only appeal to kinship** — *"he is our brother, our
+flesh"*, *ʾāḥînû bəśārēnû*, the idiom Laban used of Jacob at 29:14 — **and deploys it in favour of a
+sale.**
+
+***"Conceal his blood."*** ***Wəkissînû ʾet-dāmô*** — **and covering blood is the one thing Genesis has
+already said the ground will not do.** Abel's blood *"cries to me from the ground"* (4:10). **Judah
+proposes exactly the operation Scripture says is impossible.** See [[Do Not Cover My Blood]] and
+[[Blood]].
+
+***"His brothers listened to him."*** **The chapter never says that of [[Reuben]]**, whose intervention
+had to be narrated as an intention because the speech did not contain one. **The succession is moving in
+this verse and Genesis does not announce it** — the speaker the brothers obey is the fourth son, not the
+first. See [[Birthright and the Firstborn]].
+
+**And the question he hands his father is the question Tamar will hand him.** *"Examine it, now"* —
+***hakker-nāʾ*** (37:32) — **is what the brothers say when they deliver the coat, and *hakker-nāʾ*,
+*"discern, please, whose are these"*, is what Tamar says when she returns his pledge one chapter later**
+(38:25). **The man who composed the first is answered with the second**, and the placement of Genesis 38
+is probably the reason. **Genesis draws no line between them.** See
+[[Twenty Pieces of Silver - The Price of a Brother]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**He is the brother who proposes selling [[Joseph]]** — *"What profit is it if we kill our brother and
-conceal his blood? Come, and let's sell him to the Ishmaelites"* (37:26–27) — which saves Joseph's life
-and is not why he says it.
-
-**Then Genesis 38 stops the Joseph story to give him a chapter of his own.** He marries a Canaanite,
+**Genesis 38 stops the Joseph story to give him a chapter of his own.** He marries a Canaanite,
 loses two sons, withholds the third from Tamar, and is caught by the daughter-in-law he took for a
 prostitute at a roadside: she produces his signet, cord, and staff, and he says **the first
 unqualified confession of fault in the book — *"She is more righteous than I"*** (38:26). The twins born
@@ -54,7 +82,8 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
   [[The Birth of Jacob's Children]]
 - Listed among the twelve, fourth of [[Leah]]'s six sons — Genesis 35:23,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Proposes selling Joseph to the Ishmaelites — Genesis 37:26–27 *(not yet ingested)*
+- Proposes selling Joseph to the Ishmaelites on *mah-beṣaʿ*, *what profit*; *"his brothers listened to
+  him"* — Genesis 37:26–27, [[Joseph Sold into Slavery]]
 - Tamar, the pledge, and *"She is more righteous than I"*; Perez and Zerah — Genesis 38 *(not yet
   ingested)*
 - Stands surety for Benjamin, and offers himself in his place — Genesis 43:8–9; 44:18–34 *(not yet
@@ -73,6 +102,11 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list**, and the last
   of Leah's six before the roster turns to [[Rachel]]'s two. The tribe that takes the kingship is
   fourth in the only ordering Genesis gives
+- [[Joseph Sold into Slavery]] — Genesis 37:26–27, 32; **his first words in the Bible, and they are a
+  costing.** *"What profit is it if we kill our brother and conceal his blood?"* — and then the chapter's
+  one appeal to kinship, used to argue for a sale rather than against one. **"His brothers listened to
+  him"**, which the chapter never says of the firstborn. **The *hakker-nāʾ* he helps hand his father at
+  37:32 is the phrase Tamar hands him at 38:25**
 
 ## Related people
 

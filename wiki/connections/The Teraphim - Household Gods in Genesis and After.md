@@ -89,4 +89,3 @@ enter Scripture as a woman's private theft and leave it as a category.**
 
 See [[Idolatry]], [[Divination in Genesis - Laban's Nahash and Joseph's Cup]],
 [[Prophecy and Vision]], [[Rachel]], and [[Laban]].
-</content>

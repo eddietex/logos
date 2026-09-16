@@ -11,7 +11,10 @@ tags: [connection]
 - **Genesis 10:2–20 / 10:21–31** — Japheth and Ham, then Shem
 - **Genesis 25:12–18 / 25:19** — *"the generations of Ishmael"*, then *"the generations of Isaac"*
 - **Genesis 36:1–43 / 37:2** — a whole chapter of *"the generations of Esau"*, then *"the generations
-  of Jacob"* — [[The Descendants of Esau]]
+  of Jacob"* — [[The Descendants of Esau]] and [[Joseph Sold into Slavery]]. **And the last of the
+  formulas is the only one that does not deliver a genealogy**: *"This is the history of the generations
+  of Jacob"* is followed by fourteen chapters of narrative about his eleventh son, in which Jacob himself
+  is mostly offstage. **The device that has structured the book by lists closes it by opening a story**
 - **Genesis 35:28–29** — the same device applied to a death rather than a genealogy: Isaac's dying is
   reported here, at the close of his account, **though the book's own arithmetic places it about
   twelve years after the selling of Joseph** — exactly as Ishmael's death is reported at 25:17 before

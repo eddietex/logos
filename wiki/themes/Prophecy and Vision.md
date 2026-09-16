@@ -170,6 +170,14 @@ happens.
   the night"* (31:24), **the same formula used of Abimelech at 20:3 and nowhere else in the Bible.**
   Both are instructions rather than symbols; **nobody in Genesis 31 needs an interpreter**, which is
   the opposite of everything the Joseph cycle will do with dreams
+- [[Joseph Sold into Slavery]] — Genesis 37:5–11; **two dreams that come true and that the text never
+  attributes to God.** No *"God came to him in a dream"* as at 20:3, no *"behold, Yahweh stood above it"* as
+  at 28:13 — **and every other dream in the Joseph cycle is attributed explicitly** (40:8; 41:16, 25, 32).
+  **They are also the Bible's first dreams that predict rather than instruct**, and the only interpretation
+  offered in the chapter comes from the people the dreams are against: *"will you indeed reign over us?"*
+  (37:8) — **which is correct.** The first dream is fulfilled to the letter in four bowings (42:6; 43:26;
+  44:14; 50:18); **the second is not, because the sun and the moon never bow.** See
+  [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]]
 
 ## Related themes
 

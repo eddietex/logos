@@ -47,6 +47,12 @@ Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes**
   his face toward it; Laban overtakes him on it after seven days; both camp on it; the search, the
   lawsuit, the covenant, the sacrifice and the meal all happen on it; and Laban leaves it in the
   morning. **Nobody who lives there appears, and the only structure in the story is a pile of stones.**
+- [[Joseph Sold into Slavery]] — Genesis 37:25; **the caravan's point of origin, and the reason it has
+  anything to sell.** *"A caravan of Ishmaelites was coming from Gilead, with their camels bearing spices
+  and balm and myrrh, going to carry it down to Egypt"* — ***nəkōʾt ûṣərî wālōṭ***, and ***ṣŏrî*** **is the
+  balm of Jeremiah's question**, *"Is there no balm in Gilead?"* (8:22). **The same three commodities are
+  what Jacob sends back down this road as a gift when he finally has to deal with Egypt** (43:11). The
+  region contributes the freight and the traders and appears in one verse
 
 ## Related places
 
@@ -67,4 +73,5 @@ Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes**
 - The search of the tents, and Jacob's lawsuit — Genesis 31:33–42
 - The heap, the pillar, the boundary oath, and the sacrifice and meal — Genesis 31:43–54
 - Laban rises early, kisses his daughters and grandchildren, and goes home — Genesis 31:55
-</content>
+- A caravan carrying spices, balm, and myrrh sets out from here for Egypt and passes [[Dothan]] — Genesis
+  37:25

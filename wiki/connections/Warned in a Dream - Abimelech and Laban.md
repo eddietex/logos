@@ -73,4 +73,3 @@ warns a foreigner off this family, the next thing that happens is a border being
 borders are still standing when the book ends.
 
 See [[Prophecy and Vision]], [[Covenant]], and [[Oaths and Vows]].
-</content>

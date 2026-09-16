@@ -54,16 +54,49 @@ twelve"*, and then the roster — in which he is named first and titled: ***"Reu
 firstborn)"*** (35:23). **Genesis states the rank and the disqualification back to back and comments
 on neither.** See [[Birthright and the Firstborn]].
 
+### In this pericope — Genesis 37:1–36
+
+**He wins the argument and loses the boy, and the chapter is careful to show that those are two different
+things.**
+
+> **21** Reuben heard it, and delivered him out of their hand, and said, “Let’s not take his life.”
+> **22** Reuben said to them, “Shed no blood. Throw him into this pit that is in the wilderness, but lay no
+> hand on him”—that he might deliver him out of their hand, to restore him to his father.
+
+**He does not say *don't do it*.** He says *not blood* — and proposes the cistern **the others had already
+named as the disposal method** (37:20). **The speech contains no rescue**, and the narrator has to supply
+one: *"that he might deliver him out of their hand, to restore him to his father."* **It is the only motive
+Genesis states for anybody in the chapter, and it belongs to the plan that fails.**
+
+***"Lay no hand on him."*** ***ʾAl-tišləḥû-bô yād*** — **the angel's clause at Moriah**, where the voice
+from heaven stops Abraham with *"don't lay your hand on the boy"* (22:12), **and the boy there and the boy
+here are both a *naʿar*.** At Moriah a divine voice arrests the knife; **here the eldest brother speaks the
+same words in a chapter where no divine voice speaks at all**, and what they buy is not a rescue but a
+slave sale. See [[Mediation and Advocacy]].
+
+**He is not present for the sale.** *"Reuben returned to the pit; and saw that Joseph wasn't in the pit;
+and he tore his clothes"* (37:29) — **and his surprise is the strongest narrative evidence for the reading
+that two accounts of the sale have been interleaved here**, one in which the brothers sell Joseph and one
+in which Midianites take him out of a pit the brothers had only meant to leave him in. See
+[[Ishmaelites or Midianites - The Caravan That Bought Joseph]].
+
+***"The child is no more; and I, where will I go?"*** ***Hayyeled ʾên wa-ʾănî ʾānâ ʾănî-bāʾ*** — **and the
+grammar of the grief is about himself.** The boy is gone, and *where do I go?* **It is the eldest son's
+exposure he names, not the boy's fate**, and Jacob will use the first clause back at him at 42:36.
+
+**Then his silence, and it is total.** He tears his clothes at 37:29; his father tears his clothes at
+37:34; **the same gesture, five verses apart, for the same boy — and the firstborn who knows the boy is
+alive stands among *"all his sons"* comforting a father he could undeceive in one sentence** (37:35).
+**Genesis gives him no further word in the chapter, and no word about it for the rest of the book.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-He is the brother who tries to save [[Joseph]] and fails by half-measures: *"Let's not take his
-life… Shed no blood. Throw him into this pit"* — and the narrator supplies the motive, *"that he might
-deliver him out of their hand, to restore him to his father"* (37:21–22). **He comes back to an empty
-pit and tears his clothes** (37:29). Later he offers Jacob his own two sons as surety for Benjamin, in
-the most extravagant and least persuasive guarantee anyone in Genesis makes (42:37), and Jacob refuses
-him.
+He offers Jacob his own two sons as surety for Benjamin, in the most extravagant and least persuasive
+guarantee anyone in Genesis makes (42:37), and Jacob refuses him. **At 42:22 he is the one who says *"Didn't
+I tell you … 'Don't sin against the child'?"*** — a line the narration of chapter 37 does not record him
+saying.
 
 **Jacob says nothing about 35:22 for fourteen chapters**, and then, from his deathbed:
 
@@ -90,7 +123,8 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
 - Lies with [[Bilhah]]; *"Israel heard of it"*, and the Hebrew breaks the verse off mid-sentence —
   Genesis 35:22, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Named first and titled *"Jacob's firstborn"* in the roster, one verse later — Genesis 35:23
-- Proposes the pit instead of murder, intending a rescue — Genesis 37:21–22, 29 *(not yet ingested)*
+- Proposes the pit instead of murder, intending a rescue; returns to find it empty and tears his clothes —
+  Genesis 37:21–22, 29–30, [[Joseph Sold into Slavery]]
 - Offers his two sons as surety for Benjamin — Genesis 42:37 *(not yet ingested)*
 - Disinherited from the birthright at Jacob's deathbed — Genesis 49:3–4; 1 Chronicles 5:1–2 *(not yet
   ingested)*
@@ -105,6 +139,12 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   burial; his father hears and says nothing for fourteen chapters; **the Masoretic scribes break the
   verse off mid-sentence rather than finish it**; and the next verse names him first in the roster of
   the twelve and titles him *"Jacob's firstborn"*
+- [[Joseph Sold into Slavery]] — Genesis 37:21–22, 29–30; **the one intervention anybody attempts, and it
+  succeeds at preventing a murder and nothing else.** He amends the plan to the cistern the others had
+  already proposed; the narrator has to state the rescue his speech does not contain; **he is absent for
+  the sale**, comes back to an empty pit, and then stands among the sons comforting the father. **His
+  three clauses include the angel's words from Moriah** — *"lay no hand on him"* — **in the one chapter of
+  the cycle where heaven says nothing**
 
 ## Related people
 

@@ -230,6 +230,13 @@ over the killing of the infants at Bethlehem. See
   **is overruled in the same verse**, the one naming in Genesis that is; and she is buried where she
   fell under the last of her husband's four pillars, **the one matriarch not carried to Machpelah**.
   The chapter also purges the household's foreign gods without ever mentioning the ones she stole
+- [[Joseph Sold into Slavery]] — Genesis 37:3, 10; **dead for two chapters and spoken of as living.**
+  [[Jacob]]'s rebuke of the second dream asks *"Will I and **your mother** and your brothers indeed come to
+  bow ourselves down to you to the earth?"* — and she died on the road to Ephrath at 35:19. **Four readings
+  of the discrepancy are set out on the passage page and the wiki adopts none.** She is also the unnamed
+  reason for the whole chapter: the loved wife whose son is loved *"more than all his children"*, in the
+  same comparative the narrator used of her over [[Leah]] at 29:30. **On the dream's own terms the moon
+  never does bow**
 
 ## Related people
 

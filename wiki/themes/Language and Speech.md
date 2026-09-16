@@ -121,6 +121,13 @@ noticing into doctrine.
   need an interpreter. **It is Babel's consequence, arriving inside one family**, and the book makes
   the point by adding no comment at all. See
   [[Jegar Sahadutha - The Only Aramaic in the Torah]]
+- [[Joseph Sold into Slavery]] — Genesis 37:2, 19, 32; **three pieces of speech, and each one does
+  something the plain sense does not.** ***Dibbâ rāʿâ***, the *evil report*: **a word that means *whispering*
+  or *defamation*** — what the spies bring back at Numbers 14:36–37 — **and the Hebrew will not say whether
+  Joseph's report was slander or a true account of evil things.** ***Baʿal ha-ḥălōmôt***, *master of the
+  dreams* (37:19): **a phrase found nowhere else in the Bible**, and from that verse **nobody in the family
+  says his name again.** And ***hakker-nāʾ***, *"examine it, now"* (37:32): **a question that does the work
+  of a lie**, since the sentence the brothers wanted said is then said by the man they said it to
 
 ## Related themes
 

@@ -103,6 +103,12 @@ with that scope.
   standing rule the church kept
 - [[The Redeemer and the Avenger of Blood]] — the *gōʾēl haddām* behind Job 19:25, and the thread
   from Genesis 4:10's crying blood through Job 16:18's uncovered blood to Revelation 6:9–10
+- [[Joseph Sold into Slavery]] — Genesis 37:22, 26, 31; **three uses of the word and two of them are about
+  hiding it.** [[Reuben]] says ***"shed no blood"*** and gets the pit instead of the knife; [[Judah]] asks
+  *"what profit is it if we kill our brother and **conceal his blood**?"* — ***wəkissînû ʾet-dāmô***, **the
+  one operation Genesis has already said the ground refuses**, since Abel's blood *"cries to me from the
+  ground"* (4:10) and Job will demand *"earth, don't cover my blood"* (16:18). **Then a goat's blood does
+  the concealing instead**, on a coat, and the deception works. See [[Do Not Cover My Blood]]
 
 ## Related themes
 

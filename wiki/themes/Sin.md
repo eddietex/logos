@@ -182,6 +182,13 @@ has been argued.
   supplies *"and it appeared evil before him"*, which the wiki records as a reading rather than a
   recovered clause. Genesis's verdict arrives fourteen chapters later, at 49:4, and calls the act
   ***defilement*** of a bed rather than a wrong done to a woman who is not consulted
+- [[Joseph Sold into Slavery]] — Genesis 37:18–33; **attempted fratricide, a sale, and a sustained lie, and
+  the narration passes no verdict on any of it.** No divine name occurs in the chapter; nobody is rebuked;
+  **the only judgement anybody makes is Jacob's and it is factually wrong.** The wiki notes that **the
+  verdict has to come from elsewhere in the canon**: Exodus 21:16 and Deuteronomy 24:7 make the sale
+  capital, and Acts 7:9 names the motive — *"the patriarchs, moved with jealousy against Joseph, sold him
+  into Egypt."* **Genesis's own retrospect is put in Joseph's mouth rather than the narrator's** —
+  *"you meant evil against me, but God meant it for good"* (50:20)
 
 ## Related themes
 

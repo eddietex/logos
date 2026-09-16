@@ -65,6 +65,12 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   foreigners"* — the only place in the book that gives the grove, the old town name, and the gloss
   together, and it does so to say that two generations **sojourned** there. Jacob reaches his father
   here after twenty years; [[Isaac]] dies at a hundred eighty and is buried by [[Esau]] and [[Jacob]]
+- [[Joseph Sold into Slavery]] — Genesis 37:14; ***"the valley of Hebron"*** — ***ʿēmeq ḥebrôn***, **a
+  phrase that occurs nowhere else in the Bible**, for a town some three thousand feet up in the hill
+  country that Genesis has otherwise called *Mamre* and *Kiriath Arba*. **It is where Jacob has just buried
+  [[Isaac]]** (35:27–29), where the journey to [[Dothan]] begins — sixty-five miles north — and where the
+  bloodied coat is brought back to him. **The chapter's grief happens here and its violence happens at the
+  other end of the road**
 
 ## Related places
 
@@ -91,6 +97,9 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   [[The Death of Abraham and the Line of Ishmael]]
 - Jacob reaches Isaac here; Isaac dies at a hundred eighty and is buried by both sons — Genesis
   35:27–29, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Jacob sends Joseph out of *"the valley of Hebron"* to look for his brothers at Shechem — Genesis 37:14
+- The bloodied coat is brought back to him here; he puts on the first sackcloth in Scripture — Genesis
+  37:32–35
 - Isaac, Rebekah, Leah, and Jacob buried there — Genesis 49:31; 50:13 *(not yet ingested)*
 - The spies find the Anakim in it — Numbers 13:22
 - Caleb takes it and is given it as an inheritance — Joshua 14:13–15; 15:13–14

@@ -72,4 +72,3 @@ the jewellers.** But it is at 31:55, and the *Mizpah* clause is at 31:49, **and 
 distance between a farewell and a surveillance agreement.**
 
 See [[Strife and Peacemaking]], [[Covenant]], [[Laban]], and [[Names and Naming]].
-</content>

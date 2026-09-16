@@ -194,6 +194,12 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   Zebulun"* — **six of the twelve, more than the other three mothers together**, in the Bible's first
   complete roster. She does not speak. Her sister dies on a roadside three verses later and Leah is
   the one eventually buried with the patriarchs
+- [[Joseph Sold into Slavery]] — Genesis 37:3–4, 10, 35; **not named, and present in the chapter by
+  inference twice.** The *loved* and *hated* of 37:3–4 are the verbs her own marriage was described with
+  (29:30–33), **now reproduced by her husband in the next generation and against her sons**; and **one
+  reading of Jacob's *"your mother"* at 37:10 makes her the mother meant**, since [[Rachel]] has been dead
+  since 35:19 — **a reading the wiki records without adopting, because Genesis never calls her Joseph's
+  mother.** The *"all his daughters"* who come to comfort Jacob at 37:35 are hers on any reading
 
 ## Related people
 

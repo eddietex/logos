@@ -141,6 +141,13 @@ the promise is repeatedly mistaken for.
   is distance. The difference from chapter 13 is that Abram spoke and offered Lot the choice, and
   here nobody says anything at all. See
   [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]]
+- [[Joseph Sold into Slavery]] — Genesis 37:26–28; ***mah-beṣaʿ***, ***what profit*** — **and it is offered
+  as the reason not to commit a murder.** ***Beṣaʿ*** is gain, and characteristically **dishonest** gain:
+  the word in the qualification for judges, *"men of truth, hating unjust gain"* (Exodus 18:21), and in the
+  prophets' complaints about men *"greedy for gain"*. **[[Judah]]'s objection to killing his brother is that
+  killing him pays nothing**, and he closes the argument with the chapter's one appeal to kinship. **Twenty
+  shekels is the only price Genesis ever puts on a person**, and the chapter does not say who took it. See
+  [[Twenty Pieces of Silver - The Price of a Brother]]
 
 ## Related themes
 

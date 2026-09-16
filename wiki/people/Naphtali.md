@@ -63,6 +63,10 @@ ministry begins in.**
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:25; **a name in a list.** Second of
   Bilhah's two in the Bible's first complete roster of the twelve, which puts the slaves' four sons
   after the wives' eight regardless of birth order
+- [[Joseph Sold into Slavery]] — Genesis 37:2; **not named individually, and one of the four sons of the
+  slave women the *evil report* was about.** ***Dibbâ rāʿâ*** — a word that means *slander* as readily as
+  *report* — and the Hebrew will not say which it was. **From 37:18 he is one of *his brothers* and does
+  nothing the text distinguishes**
 
 ## Related people
 

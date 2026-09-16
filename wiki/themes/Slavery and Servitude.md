@@ -160,6 +160,14 @@ addressing a slave by name and no one else in the story doing so.
   verb Joseph's brothers will use of him at 37:28. Meanwhile [[Zilpah]] and [[Bilhah]] appear as
   *"the tent of the two female servants"*, unnamed, searched, and silent. **And Jacob's own twenty
   years are summed up in the noun Exodus reserves for Egypt**: ***ʿŏnî***, affliction (31:42)
+- [[Joseph Sold into Slavery]] — Genesis 37:27–28, 36; **the Bible's only priced brother, and the price is
+  ordinary.** *"Sold Joseph to the Ishmaelites for twenty pieces of silver"* — **the sanctuary tariff's
+  exact valuation for a male between five and twenty years old** (Leviticus 27:5), and Joseph is seventeen.
+  **The law that supplies the figure also makes the act capital**: *"He who kidnaps a man and sells him …
+  shall surely be put to death"* (Exodus 21:16; Deuteronomy 24:7). **Genesis passes no verdict at all**, and
+  never says who took the money. He arrives in Egypt as the property of [[Potiphar]], *śar haṭṭabbāḥîm*,
+  and the first Israelite in Egypt is a slave. See
+  [[Twenty Pieces of Silver - The Price of a Brother]]
 
 ## Related themes
 

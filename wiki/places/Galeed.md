@@ -83,4 +83,3 @@ does not identify them.
 - *"The God of Abraham, and the God of Nahor… judge between us"*; Jacob swears by the fear of Isaac —
   Genesis 31:53
 - The first *zebaḥ* in Scripture, and a covenant meal eaten on the mountain — Genesis 31:54
-</content>

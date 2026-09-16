@@ -443,12 +443,54 @@ his father, to Mamre"* (35:27) — **completing 28:21's *"so that I come again t
 peace"* seven chapters after 33:18 gave him the word *šālēm***. **No word passes between them on the
 page**, and then [[Isaac]] dies and *"Esau and Jacob, his sons, buried him"*, the elder named first.
 
+### In this pericope — Genesis 37:1–36
+
+**He makes the coat, keeps the dream, sends the boy to Shechem, and then speaks the lie himself.**
+
+***"Now Israel loved Joseph more than all his children … and they hated him"*** (37:3–4). **The two verbs
+are the ones the narrator used of his own marriage** — *"he loved also Rachel more than Leah"* (29:30),
+and Leah's *"Yahweh has heard that I am hated"* (29:33). **He reproduces in his household the exact
+configuration that made his household miserable**, and Genesis reports it without a word of comment. See
+[[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]].
+
+***"Because he was the son of his old age."*** **Not true in the plain sense** — [[Benjamin]] is younger,
+and his birth killed the same mother. **The wiki takes 37:3 as the narrator reporting Jacob's own account
+of himself**, and notes that he calls Benjamin *"the child of his old age"* in the same words at 44:20.
+
+***"His father rebuked him"*** (37:10) — **and then *"his father kept this saying in mind"*** (37:11),
+***šāmar ʾet-haddābār***. **The same gesture as 35:22's *"Israel heard of it"***: he takes in information
+about his sons and keeps it. **The one time he acts on this word he acts against it**, by sending the
+dreamer to the dreamers alone. His rebuke also speaks of *"your mother"*, and **[[Rachel]] has been dead
+since 35:19** — a discrepancy with four readings and no resolution, set out on
+[[Joseph Sold into Slavery]].
+
+**The errand is the cruellest thing in the chapter and he does not know it.** *"Go now, see whether it is
+well with your brothers"* — ***šəlôm ʾaḥeykā*** (37:14) — **from the father whose narrator has just said
+they *"couldn't speak peaceably to him"***, *lə-šālōm* (37:4). **And he sends him to Shechem**, the town
+[[Simeon]] and [[Levi]] emptied three chapters ago, alone, sixty-five miles, at seventeen. **Genesis
+records no misgiving.** See [[Dinah and the Massacre at Shechem]].
+
+***"He recognized it, and said, 'It is my son's coat. An evil animal has devoured him.'"*** **The first
+sentence is true and everything he infers from it is false.** And **the second sentence is one his sons
+drafted at 37:20 and never had to say** — they hand him a bloodied coat and the question *hakker-nāʾ*,
+*"examine it, now"*, and he supplies their line verbatim. **It is the most efficient deception in Genesis
+because the deceived party performs it**, and it is worked with the two props he once used himself:
+a garment and a goat. See [[A Garment and a Goat - Jacob Deceives and Is Deceived]] and
+[[The Stolen Blessing]].
+
+**His mourning gives Scripture two firsts.** *"Jacob tore his clothes, and put sackcloth on his waist"* —
+***śaq***, **the first sackcloth in the Bible** — and *"I will go down to Sheol to my son mourning"*,
+***šəʾōlâ***, **the first occurrence of *Sheol* in the Bible.** He *"refused to be comforted"*, by a
+household that includes the ten men who sold the boy and the one who knows they did. **He will say the
+Sheol sentence twice more, both times about [[Benjamin]]** (42:38; 44:29), and [[Judah]] will quote it
+back to Joseph's face as the argument that breaks him (44:31). See [[Sheol]] and [[Suffering]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He loses Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
-the years of my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
+He mourns Joseph for twenty-two years and tells Pharaoh *"Few and evil have been the days of the years of
+my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
 **crossing his hands over Ephraim and Manasseh to put the younger first on purpose** (48:13–20) — and
 is carried back to Machpelah.
 
@@ -552,7 +594,15 @@ is carried back to Machpelah.
   Genesis 35:22
 - Reaches [[Isaac]] at Mamre, completing 28:21; buries him with [[Esau]], who is named first —
   Genesis 35:27–29
-- Loses Joseph; goes down to Egypt at a hundred thirty — Genesis 37; 46 *(not yet ingested)*
+- Makes [[Joseph]] a *kətōnet passîm*, rebukes his second dream, and *keeps the saying* — Genesis 37:3,
+  10–11, [[Joseph Sold into Slavery]]
+- Sends him alone from the valley of [[Hebron]] to [[Shechem (city)]] to enquire after his brothers'
+  *šālôm* — Genesis 37:13–14
+- Is handed the bloodied coat and supplies the sentence his sons had drafted: *"an evil animal has devoured
+  him"* — Genesis 37:32–33
+- Tears his clothes, puts on **the first sackcloth in Scripture**, refuses comfort, and names
+  **the first [[Sheol]] in Scripture** — Genesis 37:34–35
+- Goes down to Egypt at a hundred thirty — Genesis 46 *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
   *(not yet ingested)*
 - Dies in Egypt and is carried to Machpelah — Genesis 49:33–50:13 *(not yet ingested)*
@@ -635,6 +685,13 @@ is carried back to Machpelah.
   he overrules his dying wife's naming of their twelfth son, buries her on a roadside instead of at
   Machpelah, hears what his firstborn has done and keeps the same silence he kept at 34:5, and reaches
   his father's house at last without a word passing between them
+- [[Joseph Sold into Slavery]] — Genesis 37:3–4, 10–14, 32–35; **he reproduces his own marriage in his
+  household** — *loved* one son *more than all his children*, and the brothers *hated* him, the same pair
+  of verbs the narrator used at 29:30–33 — **gives him a garment he cannot work in, rebukes his dream and
+  then *keeps the saying*, and sends him alone to the town two of his sons had emptied**, to ask after the
+  *šālôm* of men who cannot speak peace to him. **He is handed a coat and a question and speaks his sons'
+  prepared sentence for them.** His mourning gives Scripture its first sackcloth and its first *Sheol*, and
+  he refuses to be comforted by a household that includes everyone who knows the boy is alive
 
 ## Related people
 

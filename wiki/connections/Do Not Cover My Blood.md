@@ -18,7 +18,8 @@ tags: [connection]
 - **Isaiah 26:21** — *"the earth will also disclose her blood, and will no longer cover her slain."*
 - **Ezekiel 24:6–8** — blood set on bare rock, deliberately not covered with dust, *"that it may
   cause wrath to come up to take vengeance"*
-- **Genesis 37:26** — Judah: *"What profit is it if we kill our brother and conceal his blood?"*
+- **Genesis 37:26**, now on the page at [[Joseph Sold into Slavery]] — Judah: *"What profit is it if we
+  kill our brother and conceal his blood?"*
 - **Hebrews 12:24** — *"the blood of sprinkling that speaks better than that of Abel"*
 - **Revelation 6:9–10** — *"How long, Master … until you judge and avenge our blood on those who
   dwell on the earth?"*

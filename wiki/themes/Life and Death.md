@@ -228,6 +228,13 @@ the rest of the canon.
   description of dying as something leaving the body. [[Deborah (Rebekah's nurse)]] dies between two
   theophanies; [[Isaac]] *"gave up the spirit, and died, and was gathered to his people, old and full
   of days"* at a hundred eighty, **the longest of the three patriarchal lives**
+- [[Joseph Sold into Slavery]] — Genesis 37:20, 24, 30, 33, 35; **a death that everybody in the chapter
+  believes in and that does not happen.** A murder is planned (*"let's kill him"*), commuted to a waterless
+  cistern — **the narrator says twice that there was no water in it, which is the verse's only
+  reassurance** — and then converted into a sale. *"The child is no more"* is said by [[Reuben]] of a boy he
+  knows is alive (37:30) and *"Joseph is without doubt torn in pieces"* by his father of the same boy
+  (37:33). **And *Sheol* is named for the first time in Scripture** by a man who expects to arrive there
+  mourning (37:35). See [[Sheol]]
 
 ## Related themes
 

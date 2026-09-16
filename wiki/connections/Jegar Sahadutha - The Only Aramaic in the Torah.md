@@ -69,4 +69,3 @@ does not say the two branches were now separate peoples — it lets Deuteronomy 
 line, to be recited over a basket of fruit**: *"A Syrian ready to perish was my father."*
 
 See [[Galeed]], [[Gilead]], [[Names and Naming]], and [[Nahor (brother of Abram)]].
-</content>

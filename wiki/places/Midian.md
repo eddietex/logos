@@ -61,6 +61,13 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   only clause of the chapter that describes a battle
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:2; a son of Abraham by [[Keturah]],
   and one of the six who are given gifts and sent east
+- [[Joseph Sold into Slavery]] — Genesis 37:28, 36; **the Midianites buy or carry Joseph, and the chapter
+  cannot decide which.** *"Midianites who were merchants passed by, and they drew and lifted up Joseph out
+  of the pit, and sold Joseph to the Ishmaelites"*, then *"the Midianites sold him into Egypt to
+  Potiphar"* — **against *Ishmaelites* at 37:25, 27, 28b and again at 39:1.** Three readings are set out on
+  [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] and the wiki adopts none; **Judges 8:24
+  calls Midianites Ishmaelites in a single clause**, which is the harmonising reading's proof text. **This
+  is Midian's first appearance as a people doing anything**
 
 ## Related places
 

@@ -81,4 +81,3 @@ runs because the sheep are not his, and Jacob's whole complaint is that for twen
 not his and he did not run.
 
 See [[Work]], [[Wealth and Possessions]], and [[Suffering]].
-</content>

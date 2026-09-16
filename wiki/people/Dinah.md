@@ -88,6 +88,11 @@ which has something to say about ten of his sons, does not mention her at all.
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **her chapter, and she has no line in it.**
   Named six times, the object of nearly every verb, held in Shechem's house through the whole
   negotiation, and taken out of it at the end without a word recorded either way
+- [[Joseph Sold into Slavery]] — Genesis 37:35; **not named, and counted in a plural.** *"All his sons and
+  all his daughters rose up to comfort him"* — **the roster of 35:23–26 had counted twelve sons and no
+  daughters at all**, and she is the only daughter of Jacob the book ever names. The chapter also sends
+  Joseph alone to [[Shechem (city)]], **the town her brothers emptied three chapters earlier**, and
+  mentions neither her nor what happened there
 
 ## Related people
 

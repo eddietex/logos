@@ -439,7 +439,23 @@ even fratricidal betrayal into rescue (Joseph).
   words about Esau are a definition, *"This is Esau, the father of the Edomites."* The next verse has
   Jacob living *in the land of his father's travels* — **one brother becomes a country, the other
   stays a sojourner.**
-- **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
+- **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with. Opened in
+  the wiki with *[[Joseph Sold into Slavery]]*, which puts the book's **tenth and last *toledot*** over
+  the story it least resembles: *"This is the history of the generations of Jacob"*, followed not by a
+  genealogy but by fourteen chapters about his eleventh son. **And it is the one Genesis chapter in this
+  cycle in which God neither speaks, acts, nor is named** — thirty-six verses in which a boy is given a
+  coat he cannot work in, volunteers two dreams nobody asked for, is sent alone to the town his brothers
+  had emptied, is stripped, dropped in a waterless cistern, and sold to a passing caravan for twenty
+  shekels, **which is the sanctuary tariff's exact valuation for a male of seventeen** (Leviticus 27:5).
+  The narration blames nobody. **The only verdict in the chapter is the father's, and it is a sentence
+  his sons drafted and never had to speak** — they compose *"an evil animal has devoured him"* at 37:20,
+  hand him a bloodied coat, ask *"examine it, now"*, and he supplies the line himself. Two brothers
+  intervene and neither succeeds: **Reuben amends murder to a cistern** and comes back to an empty one,
+  and **Judah argues the sale on *mah-beṣaʿ*, *what profit*** — and *"his brothers listened to him"*,
+  which the chapter never says of Reuben. The cycle's whole machinery is set here: the dreams the
+  brothers swear to disprove and then fulfil four times over by bowing; the verb *recognise* that will
+  govern the reunion, planted in a lie about a garment; and **the Bible's first *Sheol* and first
+  sackcloth**, both belonging to a man mourning a son who is alive.
 
 ## Pericopes
 
@@ -503,7 +519,7 @@ merge, or reorder them freely.
 
 ### Joseph (37–50)
 
-- [ ] Joseph Sold into Slavery — Genesis 37:1–36
+- [x] [[Joseph Sold into Slavery]] — Genesis 37:1–36
 - [ ] Judah and Tamar — Genesis 38:1–30
 - [ ] Joseph in Potiphar's House — Genesis 39:1–23
 - [ ] The Cupbearer and the Baker — Genesis 40:1–23

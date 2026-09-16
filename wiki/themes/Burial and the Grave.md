@@ -107,6 +107,12 @@ assumption is that a body left out is a person left out.**
 - Deuteronomy 34:5–6 — the unlocated grave of Moses
 - Jeremiah 22:19; 2 Kings 9:34–37 — the curse of the unburied
 - Ezekiel 37:12–13 — the graves opened
+- [[Joseph Sold into Slavery]] — Genesis 37:34–35; **a full mourning for a body that does not exist.** Torn
+  clothes, **the Bible's first sackcloth** (*śaq*), many days, a household assembled to comfort — **and no
+  grave, no bier, and no corpse.** *"I will go down to Sheol to my son mourning"* is **the first occurrence
+  of *šəʾôl* in the Bible**, and it is a father assuming his son has arrived somewhere he has not. **The
+  chapter's only actual burial is a metaphor** — a boy lowered into a dry cistern and taken out again. See
+  [[Sheol]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

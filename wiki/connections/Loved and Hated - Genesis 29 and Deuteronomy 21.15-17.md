@@ -19,7 +19,8 @@ tags: [connection]
   portion of all that he has."*
 - **Genesis 35:22; 49:3–4** — Reuben, the hated wife's firstborn, and what he loses
 - **1 Chronicles 5:1–2** — *"his birthright was given to the sons of Joseph"*, stated outright
-- Compare **Genesis 37:3–4** — the same construction one generation on: *loved more*, then *hated*
+- Compare **Genesis 37:3–4**, now on the page at [[Joseph Sold into Slavery]] — the same construction one
+  generation on: *loved more*, then *hated*
 - Compare **Malachi 1:2–3; Romans 9:13** — *"I loved Jacob; but Esau I hated"*, the same idiom applied
   to God
 

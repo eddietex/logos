@@ -93,6 +93,13 @@ requires only that you be standing outside it.
   is never tired.** And the noun he sums it up with is ***ʿŏnî***, affliction — **the word of Hagar
   in the desert (16:11), of Leah at Reuben's birth (29:32), and of Israel in Egypt (Exodus 3:7)** —
   applied to twenty years of employment by a man who left rich
+- [[Joseph Sold into Slavery]] — Genesis 37:34–35; **the Bible's first sackcloth, worn for a son who is
+  alive.** ***Śaq*** enters Scripture here and becomes the standard dress of mourning and repentance for the
+  rest of the canon. Jacob *"refused to be comforted"* — ***wayməʾēn ləhitnaḥēm***, from *nāḥam*, the verb
+  Genesis uses of God at 6:6 — **by a household that includes the ten men who sold the boy and the one who
+  knows they did**, and he is still refusing at 42:38 and 45:28, **twenty-two years later.** **And the
+  suffering the chapter does not show is Joseph's**: he is silent from 37:17, and his pleading from the
+  cistern is supplied only at 42:21, in the mouths of the men who ignored it
 
 ## Related themes
 

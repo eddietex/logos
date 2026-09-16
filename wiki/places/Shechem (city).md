@@ -88,6 +88,13 @@ same spot.
   **on the field he bought at 33:19 and is now abandoning.** The town he paid for, built an altar at,
   and made unlivable is left with an idol hoard under its landmark tree, and Genesis never says whose
   the gods were
+- [[Joseph Sold into Slavery]] — Genesis 37:12–14; **the errand's stated destination, and the strangest
+  place in Genesis to send a boy alone.** *"His brothers went to feed their father's flock in Shechem"* —
+  **the town [[Simeon]] and [[Levi]] emptied of every male three chapters earlier**, and whose neighbours
+  Jacob had said would *"gather themselves together against me and strike me"* (34:30). **His sons are
+  pasturing on it and he sends his seventeen-year-old there by himself.** Genesis records no misgiving from
+  anyone. **The brothers have already moved on to [[Dothan]]**, and Joseph finds that out only because a
+  man in a field overheard them say so
 
 ## Related places
 
@@ -109,6 +116,10 @@ same spot.
 - Jacob buries the household's foreign gods and earrings under the oak, on his own bought field, on
   the way out to Bethel — Genesis 35:4,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Jacob's sons pasture the flock here, three chapters after two of them killed every male in the town —
+  Genesis 37:12
+- Joseph arrives alone from the valley of Hebron, finds nobody, and is redirected to [[Dothan]] by a
+  stranger in a field — Genesis 37:14–17
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
 - Joshua's covenant renewal — Joshua 24:1–27
 - Abimelech's kingship and the destruction of the city — Judges 9
