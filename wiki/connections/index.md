@@ -153,3 +153,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 |
 | [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
 | [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 |
+| [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
+| [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |
+| [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
+| [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 |

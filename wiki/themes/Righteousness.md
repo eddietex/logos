@@ -156,6 +156,16 @@ about.
   Jacob's paperwork**, and Genesis puts it in the mouth of the one patriarch whose reputation rests
   on disguises. **The wiki records the range rather than harmonising it**: *ṣədāqâ* in Genesis covers
   a reckoning credited by God, a way to be taught to children, and a colour-coded audit trail
+- [[Judah and Tamar]] — Genesis 38:26: ***ṣādəqâ mimmennî***, *"she is more righteous than I."* **The
+  first time in Scripture one person declares another more in the right than himself**, and the only
+  unqualified admission of fault by anyone in Genesis. The comparative can also be read as an absolute
+  — ***she* is in the right, not I** — and the grammar permits both. **What is not ambiguous is the
+  ground [[Judah]] gives**: not the sex, not the deception, but *"because I didn't give her to Shelah,
+  my son"* — **a broken obligation, which is the one part of the affair he transacted with his eyes
+  open.** He does not plead the veil, though the veil is what fooled him. **The word that named Abram's
+  faith and Jacob's paperwork here names a woman who disguised herself, solicited her father-in-law,
+  and conceived by him** — and Genesis records no penance, no rebuke, and no divine comment, only the
+  verdict of the man she deceived. See [[Tamar]]
 
 ## Related themes
 

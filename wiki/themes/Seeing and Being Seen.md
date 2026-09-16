@@ -161,6 +161,17 @@ will finally go both ways.
   seeing.* The same formula recurs a third time in this family, at 46:30, when Jacob tells Joseph
   *"since I have seen your face, that you are still alive"* — see
   [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]]
+- [[Judah and Tamar]] — Genesis 38:14–15, 25–26; **a chapter built on what a man can and cannot make
+  out.** [[Tamar]] sits at *petaḥ ʿênayim*, **the opening of [[Enaim]] — and *ʿênayim* is the Hebrew
+  for *two eyes*** — and Judah *"thought that she was a prostitute, **for she had covered her face**."*
+  **Genesis never says a veil marked a prostitute; it says he could not see her face**, and supplies
+  the grounds of his inference so the reader can weigh them. **The chapter turns when he is finally
+  shown something identifiable**: *hakker-nāʾ*, *"discern, please, whose are these"* — and the verb is
+  ***nākar***, which governs the whole cycle. **[[Isaac]] fails to recognise Jacob (27:23); [[Jacob]]
+  recognises the coat and concludes falsely (37:33); [[Judah]] recognises the pledge and concludes
+  rightly (38:26); [[Joseph]] recognises his brothers while they do not recognise him (42:7–8).**
+  Three of the four get it wrong, and the one who gets it right is the one being convicted. See
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
 
 ## Related themes
 

@@ -148,6 +148,15 @@ the promise is repeatedly mistaken for.
   killing him pays nothing**, and he closes the argument with the chapter's one appeal to kinship. **Twenty
   shekels is the only price Genesis ever puts on a person**, and the chapter does not say who took it. See
   [[Twenty Pieces of Silver - The Price of a Brother]]
+- [[Judah and Tamar]] — Genesis 38:17–23; **a transaction in which every item is misvalued.** A young
+  goat is offered as a price; **the *ʿērābôn* taken as security against it is [[Judah]]'s signet,
+  cord, and staff** — the instruments by which he signs contracts and holds standing, and worth
+  incomparably more than the fee they secure. **He surrenders them without hesitation and then declines
+  to redeem them**: *"Let her keep it, lest we be shamed."* **He writes off his own identity to avoid
+  being laughed at**, which is the same calculation, in a smaller currency, as *mah-beṣaʿ* — *what
+  profit is it if we kill our brother* — one chapter earlier. **The man who priced a brother at twenty
+  shekels prices his seal at the cost of an embarrassment**, and three months later it is the whole of
+  the evidence against him
 
 ## Related themes
 

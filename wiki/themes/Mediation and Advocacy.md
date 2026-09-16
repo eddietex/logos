@@ -135,6 +135,17 @@ what Job is asking for.
   narrator has to supply the intention his speech does not contain.** Then [[Judah]] argues from *mah-beṣaʿ*,
   *what profit*, and *"his brothers listened to him"* — **which the chapter never says of Reuben.** The
   successful advocate saves a life by arranging a sale; the sincere one comes back to an empty pit
+- [[Judah and Tamar]] — Genesis 38:11, 14, 25; **the theme by its absence, which is the sharpest form
+  the wiki has recorded it in.** [[Tamar]] is owed a son by a household that will not produce one, and
+  **there is nobody to take her part**: no brother, no father who acts, no elder, no forum. **The
+  remedy that will eventually exist is the one Deuteronomy 25:7–10 creates — and it makes the widow her
+  own advocate**, bringing the refusing brother before the elders herself, pulling off his sandal,
+  spitting, and fixing a name of contempt on his house. **None of that machinery exists yet**, and
+  Genesis 38 is what the same situation looks like without it. **So she advocates for herself in the
+  only forum available**, which is a road, and **the brief she files is three objects and six words**:
+  *"by the man, whose these are, I am with child."* She does not name him, in private, while under
+  sentence of death — **giving the man who could burn her the chance to convict himself instead.** See
+  [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
 
 ## Related themes
 

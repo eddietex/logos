@@ -235,6 +235,15 @@ the rest of the canon.
   knows is alive (37:30) and *"Joseph is without doubt torn in pieces"* by his father of the same boy
   (37:33). **And *Sheol* is named for the first time in Scripture** by a man who expects to arrive there
   mourning (37:35). See [[Sheol]]
+- [[Judah and Tamar]] — Genesis 38:7, 10, 12, 27–30; **three deaths in eleven verses and two births in
+  the last four.** Two of the deaths are divine acts — **the only individual killings the narrator
+  attributes to Yahweh in Genesis** — and the third, [[Shua's Daughter]]'s, occupies half a clause and
+  starts the plot. **What the chapter is actually about is the survival of a name**, which is the only
+  form of continuation the levirate institution can offer: *"raise up offspring for your brother"*
+  (38:8), and Deuteronomy's *"that his name not be blotted out of Israel"* (25:6). **That is why the
+  Sadducees could think the law a decisive argument against resurrection** (Matthew 22:23–33) — and
+  why the answer they get is not about levirate law at all. See
+  [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
 
 ## Related themes
 

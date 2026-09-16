@@ -68,7 +68,7 @@ children of Eber"* — and the reader who has no idea yet what an Eberite is fin
 ## Related people
 
 - [[Shem]] — his great-grandfather, introduced by reference to him
-- [[Arpachshad]] and [[Shelah]] — his grandfather and father, names only
+- [[Arpachshad]] and [[Shelah (son of Arpachshad)]] — his grandfather and father, names only
 - [[Peleg]] — his son, through whom the line runs to Abram
 - **Joktan** — his other son, ancestor of thirteen Arabian peoples
 - [[Noah]] — five generations back

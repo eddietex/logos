@@ -17,6 +17,13 @@ tags: [connection]
 
 ## Analysis
 
+**A note on the name before anything else.** The Tamar of this page is **David's daughter**, 2 Samuel
+13 — **not [[Tamar]], the daughter-in-law of [[Judah]] in Genesis 38**, who has her own page in this
+wiki and no connection to this story beyond the name and a sheep-shearing. **The two are different
+women four hundred years apart**, and the wiki keeps them apart deliberately: when Samuel is ingested,
+the Genesis page is renamed `Tamar (daughter-in-law of Judah)` and David's daughter becomes
+`Tamar (daughter of David)`, with the inbound links fixed in the same pass, per `AGENTS.md`.
+
 **These are the Hebrew Bible's two full-length rape narratives, and they are built from the same
 parts in a different order.**
 

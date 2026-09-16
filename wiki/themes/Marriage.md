@@ -223,6 +223,16 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   this case, **offered by the man who committed it and refused by the family it was owed to.** The
   wiki records the tension and adopts no ruling; and it notes that **Dinah, the one person being
   married in the chapter, is never addressed by anybody in it**
+- [[Judah and Tamar]] — Genesis 38:2, 6–11; **three marriages and a duty, and not one of them works as
+  intended.** Judah takes [[Shua's Daughter]] in three verbs and no negotiation — *"he saw … he took …
+  he went in to her"* — **breaking the rule of 24:3 that the book spent four chapters establishing**
+  (see [[Not from the Daughters of the Canaanites]]). **Then comes Scripture's first levirate
+  marriage**: ***yabbēm***, *perform the duty of a husband's brother*, issued as though it needed no
+  explanation four books before Deuteronomy 25:5–10 codifies it. **[[Onan]] takes the right and
+  withholds what it was for**; Judah then holds [[Tamar]] in the worst position the culture had —
+  **sent home but not released**, so she can neither remarry nor bear, **with no forum in which to
+  compel performance**, the release ceremony of Deuteronomy 25:7–10 being centuries away. See
+  [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
 
 ## Related themes
 

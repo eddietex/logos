@@ -122,6 +122,14 @@ verdicts.
   destroys the inference it was supposed to license
 - [[I Know That My Redeemer Lives]] — the doctrine not attacked but bypassed: Job's answer to a
   portrait of the wicked man's ruin is to display his own and ask what it proves
+- [[Judah and Tamar]] — Genesis 38:7, 10: *"Yahweh killed him"*, and *"he killed him also."* **The only
+  two occasions in Genesis where the narrator says Yahweh killed a named individual**, three verses
+  apart, and they are the two men standing between [[Tamar]] and an heir. **The asymmetry between them
+  is the point**: [[Onan]]'s offence is stated inside the same sentence as his act — *"lest he should
+  give offspring to his brother"* — while **[[Er]] is *"wicked in Yahweh's sight"* and no charge is
+  ever specified**, here or at 1 Chronicles 2:3. **The book that supplies a reason for the flood, for
+  Sodom, and for Babel supplies none for its first individual execution.** The wiki records this as a
+  fact about the text and **does not argue from it**
 
 ## Related themes
 

@@ -171,8 +171,8 @@ Acts pull in opposite directions on it — see the note on Terah's 205 years bel
 - [[Arpachshad]] — Shem's third-listed son (10:22) and the one the line runs through, born two
   years after the flood; the first person in the Bible born into the new world. The Septuagint puts
   an extra generation, Cainan, immediately after him, and Luke 3:36 follows the Greek.
-- [[Shelah]] — the third generation, and a name that is also the second element of *Methuselah*.
-  Given 433 years and nothing else.
+- [[Shelah (son of Arpachshad)]] — the third generation, and a name that is also the second element
+  of *Methuselah*. Given 433 years and nothing else.
 - [[Eber]] — already introduced four generations early at 10:21, as the descendant Shem's entire
   branch was named by. Here he gets his numbers: 464 years, the longest life in the register after
   Shem's, and on these figures the last of them to die.

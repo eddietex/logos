@@ -252,6 +252,14 @@ where that starts, in a sentence about a family that got halfway.
   verses**: 36:43 closes *"This is Esau, the father of the Edomites"*, and 37:1 has Jacob living *"in
   the land of his father's travels"*, ***məgûrê***, his **sojournings**. Esau possesses; Jacob
   sojourns. See [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] and [[Edom]]
+- [[Judah and Tamar]] — Genesis 38:1–5; **the first son of Jacob to live apart from the household.**
+  *"Judah went down from his brothers"* — ***wayyēred***, topographically correct for the descent from
+  the Hebron ridge into the Shephelah, **and the same verb the book is using in the same week for
+  Joseph's descent to Egypt** (37:25; 39:1). **One goes down under his own power and one is carried.**
+  What he goes down into is Canaanite country: a Canaanite friend at [[Adullam]], a Canaanite wife,
+  and three sons born in Canaanite towns, one of them at [[Chezib]]. **The covenant line is not living
+  among the nations here so much as inside them** — and **the line of David is conceived there**, which
+  Genesis reports without a syllable of comment. See [[Not from the Daughters of the Canaanites]]
 
 ## Related themes
 

@@ -224,6 +224,16 @@ has become a nation.
   **the lie is a true statement, a real object, and a correct inference from it to a wrong conclusion.** And
   the props are the family's own — a garment and a goat, the two things that took the blessing from a blind
   father at 27:9–16. See [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
+- [[Judah and Tamar]] — Genesis 38:5, 11, 14–19, 25; **the family's technique used on the family's
+  most reliable practitioner of it.** A garment and a goat took the blessing off a blind father (27:9,
+  15–16) and a son off a sighted one (37:31); **here a garment and a goat are run against [[Judah]] by
+  his daughter-in-law**, and the goat is the only one of the three that never gets delivered. **He is
+  also deceived in the ordinary way, by an excuse**: *"until Shelah, my son, is grown up"*, with the
+  narrator supplying the intention the sentence omits — **and Genesis records that the withheld son was
+  born at [[Chezib]], from the root *kāzab*, *to lie***, in a clause that does nothing else. **What
+  breaks the deception is not a confession but a question**: *hakker-nāʾ*, the phrase Judah's own
+  brothers used on Jacob one chapter earlier. See
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
 
 ## Related themes
 

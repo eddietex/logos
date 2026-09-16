@@ -128,6 +128,16 @@ holds up Esau as the warning.
   *"where will I go?"* — **the eldest son's exposure, named before the boy's fate.** The redistribution is
   stated outright only much later (49:3–4, 8–10; 1 Chronicles 5:1–2), but **the men who act like the
   firstborn from 37:26 on are Judah and, in Egypt, Joseph**
+- [[Judah and Tamar]] — Genesis 38:6–10, 27–30; **the theme worked twice in one chapter, at both
+  ends.** It opens on a firstborn, [[Er]], who dies childless, and on [[Onan]]'s refusal to raise
+  offspring for him — **a refusal whose stated motive is inheritance**: *"Onan knew that the offspring
+  wouldn't be his."* **It closes on the book's second set of twins.** A hand comes out, the midwife
+  ties a scarlet thread to it *"saying, 'This came out first'"* — **a legal record, since primogeniture
+  turns on order of birth** — **and then the hand goes back in.** [[Perez]] comes through the breach;
+  [[Zerah]] is first by the evidence and second by the birth. **Unlike Jacob and Esau, nobody arranges
+  it**: no oracle, no bargain, no disguise, and **Zerah does nothing wrong at all.** The line of David
+  runs through the one who came second. See
+  [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]]
 
 ## Related themes
 

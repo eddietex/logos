@@ -240,7 +240,18 @@ rule are the conditions the rest of Scripture is set in.
   converted into a condition (*"restore the man's wife … and you will live"*). **The chapter after
   the fire falls on a city that never argued shows a king who does, and it takes him one exchange.**
   The sanction meanwhile is neither fire nor plague but withheld fertility, disclosed only in the
-  last verse, and lifted by prayer
+  last verse, and lifted by prayer- [[Judah and Tamar]] — Genesis 38:24–26; **a capital sentence pronounced on hearsay and reversed by
+  the defendant's evidence in two verses.** *"Bring her out, and let her be burned"* — **no hearing, no
+  witnesses, no interval, and no jurisdiction**: [[Tamar]] is living in her father's house, not
+  Judah's, and Judah is a resident alien at [[Adullam]] with no office at all. **He pronounces, and it
+  is carried out** — she is brought out. **The penalty is also the severest the Torah knows**, reserved
+  there for a priest's daughter (Leviticus 21:9) and for a man who marries a woman and her mother
+  (Leviticus 20:14); **the ordinary penalty for adultery is stoning** (Deuteronomy 22:23–24), and Judah
+  reaches past it. **And the charge presupposes the tie he had declined to honour**: she can only be
+  guilty if she is bound to his house. **The same man reverses himself in one verse**, on evidence he
+  is handed privately — which is the wiki's clearest instance of judgment in Genesis being a person
+  rather than a procedure
+
 ## Related themes
 
 - [[Covenant]] — what God binds himself with, first spoken inside a sentence of universal death

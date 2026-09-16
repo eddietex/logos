@@ -3,7 +3,7 @@ type: person
 also_known_as: [Salah, Sala]
 tags: [person]
 ---
-# Shelah
+# Shelah (son of Arpachshad)
 
 ## Overview
 
@@ -19,8 +19,16 @@ genealogy of Jesus (Luke 3:35).
 **The name.** *Šelaḥ* is from a root meaning *to send*; as a noun it can mean a missile or weapon,
 and it is the second element of *Metûšelaḥ*, [[Methuselah]] — one of several near-echoes between the
 two ten-generation registers. It is also the name of the pool of Siloam (*šilōaḥ*, "sent", the
-conduit; Nehemiah 3:15, John 9:7) and, in a different vocalization, of Judah's third son in Genesis
-38. None of these is the same person, and Genesis draws no connection between any of them.
+conduit; Nehemiah 3:15, John 9:7) and, in a different vocalization, of
+[[Shelah (son of Judah)]], the third son of Judah in Genesis 38. None of these is the same person,
+and Genesis draws no connection between any of them.
+
+**This page was `Shelah.md` until Genesis 38 was ingested.** Judah's son arrives with the same
+English spelling — *Šelaḥ* here, *Šēlâ* there, indistinguishable once the vowels are dropped — and
+`scripts/link-check.sh` resolves targets by basename, so two files called `Shelah.md` would have
+passed the check while Obsidian silently picked one of them for every `[[Shelah]]` in the vault.
+Per `AGENTS.md`, neither name is fixed by the directory map, so **both pages take a qualifier** and
+the older one was renamed in the same pass that created the newer.
 
 **The two 403s.** His remainder of four hundred three years is identical to his father
 [[Arpachshad]]'s — the only repeated figure in the register apart from Peleg's and Reu's matching

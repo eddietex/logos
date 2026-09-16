@@ -31,8 +31,8 @@ guesses of varying seriousness and none has carried the field. He is one of the 
 register that Genesis makes no play on at all.
 
 **The Septuagint puts a son of his into the Bible that the Hebrew does not have.** Between Arpachshad
-and [[Shelah]], the Greek text inserts **Cainan**, with a hundred and thirty years of his own, and
-Luke 3:36 follows it: *"the son of Shelah, the son of Cainan, the son of Arphaxad."* The Hebrew of
+and [[Shelah (son of Arpachshad)]], the Greek text inserts **Cainan**, with a hundred and thirty
+years of his own, and Luke 3:36 follows it: *"the son of Shelah, the son of Cainan, the son of Arphaxad."* The Hebrew of
 Genesis 10:24 and 11:12–13 has Arpachshad fathering Shelah directly, as does 1 Chronicles 1:18, 24.
 It is the clearest single instance in Scripture of the genealogies disagreeing about how many
 generations there were.
@@ -45,7 +45,7 @@ own descendants.
 
 - Named third among Shem's five sons — Genesis 10:22, [[The Table of Nations]]
 - Born two years after the flood, when Shem was a hundred — Genesis 11:10, [[From Shem to Abram]]
-- Fathers [[Shelah]] at thirty-five and lives four hundred three years after — Genesis 11:12–13
+- Fathers [[Shelah (son of Arpachshad)]] at thirty-five and lives four hundred three years after — Genesis 11:12–13
 - Named in the Chronicler's list (1 Chronicles 1:17–18, 24) and in Luke's genealogy of Jesus
   (Luke 3:36, with Cainan interposed)
 
@@ -59,7 +59,7 @@ own descendants.
 
 - [[Shem]] — his father
 - [[Noah]] — his grandfather, alive for the whole of his life on the register's numbers
-- [[Shelah]] — his son
+- [[Shelah (son of Arpachshad)]] — his son
 - [[Eber]] — his grandson, and the name the whole branch is introduced by
 - **Elam, Asshur, Lud, and Aram** — his brothers, given no page and no descendants beyond
   Genesis 10

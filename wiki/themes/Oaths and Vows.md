@@ -145,6 +145,18 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   incompatible formulas — Laban's *"the God of Abraham, and the God of Nahor… judge between us"*
   against Jacob's *"the fear of his father, Isaac"* (31:53). ***ʿĒd***, *witness*, occurs **five
   times in eight verses**, because there is no king, no priest, and no third party on the mountain
+- [[Judah and Tamar]] — Genesis 38:17–20, 25: the ***ʿērābôn***, **a word that occurs in the Hebrew
+  Bible only in this chapter.** [[Tamar]] declines the offered price and asks for security instead, and
+  **what she asks for is not money but identity**: the ***signet, cord, and staff*** — the seal that
+  signs a man's contracts, worn at the neck, and the staff that shows his standing in the open.
+  Scripture's image for what is most inalienably one's own is exactly this object (*"set me as a seal
+  on your heart"*, Song of Songs 8:6; *"though Coniah were the signet on my right hand"*, Jeremiah
+  22:24) — **and Judah hands it to a stranger for a night and then writes it off rather than be laughed
+  at.** Three months later it is the entire evidence in a capital case. **The word has an extraordinary
+  afterlife**: it passes into Greek as ***ἀρραβών*** and the New Testament uses it three times for the
+  Holy Spirit as God's down payment on an unpaid promise (2 Corinthians 1:22; 5:5; Ephesians 1:14).
+  **The theological term for a guarantee enters Scripture as the security a woman takes from a man who
+  is not coming back**
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

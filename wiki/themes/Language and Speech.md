@@ -128,6 +128,18 @@ noticing into doctrine.
   dreams* (37:19): **a phrase found nowhere else in the Bible**, and from that verse **nobody in the family
   says his name again.** And ***hakker-nāʾ***, *"examine it, now"* (37:32): **a question that does the work
   of a lie**, since the sentence the brothers wanted said is then said by the man they said it to
+- [[Judah and Tamar]] — Genesis 38:15, 21–22, 25; **a chapter in which the choice of word is the
+  evidence.** At 38:15 [[Judah]] takes her for a ***zônâ***, an ordinary prostitute; **when
+  [[Hirah the Adullamite]] is sent back with the goat he goes looking for a *qədēšâ*** — a *consecrated
+  woman*, from *qādaš*, *to be holy* — **the errand dignified in the telling by the man sent to run
+  it.** (Whether *qədēšâ* implies sacred prostitution at all is disputed; Deuteronomy 23:17–18 forbids
+  the office under both forms, and the wiki does not settle what it was.) **The townsmen's answer is
+  literally true twice over**: *"there has been no prostitute here"* — there had been a widow in a
+  veil. **And the chapter's hinge is a question rather than a statement**: *hakker-nāʾ*, *"discern,
+  please, whose are these"*, which is the phrase Judah's own brothers used on their father one chapter
+  earlier to install a conclusion they never had to assert. **Used once to make a lie unnecessary, and
+  once to make a confession unavoidable.** See
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
 
 ## Related themes
 

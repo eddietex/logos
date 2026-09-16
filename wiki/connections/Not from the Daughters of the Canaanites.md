@@ -17,10 +17,12 @@ tags: [connection]
   [[Isaac Sends Jacob to Paddan Aram]]
 - **Genesis 28:6–9** — Esau works out the rule from watching it applied to his brother, and marries
   a daughter of [[Ishmael]] — [[Isaac Sends Jacob to Paddan Aram]]
-- **Genesis 34** — Dinah, Shechem, and a proposal of general intermarriage answered with a massacre
-  *(not yet ingested)*
-- **Genesis 38:2; 41:45; 46:10** — Judah marries a Canaanite, Joseph an Egyptian priest's daughter,
-  and Simeon has a son by a Canaanite woman: the rule broken three times inside the same book
+- **Genesis 34** — Dinah, Shechem, and a proposal of general intermarriage answered with a massacre —
+  [[Dinah and the Massacre at Shechem]]
+- **Genesis 38:2** — Judah marries [[Shua's Daughter]], *"a certain Canaanite"* — and the line of
+  David runs out of that household, through [[Tamar]] and [[Perez]] — [[Judah and Tamar]]
+- **Genesis 41:45; 46:10** — Joseph marries an Egyptian priest's daughter, and Simeon has a son by a
+  Canaanite woman: the rule broken three times inside the same book *(not yet ingested)*
 - **Exodus 34:15–16; Deuteronomy 7:1–4** — the prohibition made law, with a reason attached
 - **Judges 3:5–6; 1 Kings 11:1–8** — the reason demonstrated
 - **Ezra 9–10; Nehemiah 13:23–27** — the prohibition enforced after the exile, at its harshest
@@ -74,6 +76,14 @@ had passed over.
 line of David runs through his son by Tamar; Joseph marries Asenath, daughter of the priest of On
 (41:45), and the tribes of Ephraim and Manasseh descend from her. **Genesis reports both without
 censure**, in the same book that opened the theme with an oath.
+
+**And the Judah case is worse than it first looks, which is part of why it is worth stating exactly.**
+He does not merely marry a Canaanite; **he leaves the household to do it**, settling at [[Adullam]]
+with a Canaanite friend (38:1), and **the son he needs comes from a second woman whose nationality
+Genesis pointedly refuses to state at all** — [[Tamar]] is given no father, no town, and no people.
+**Both facts survive into the genealogies.** 1 Chronicles 2:3 names *"Bath-shua the Canaanitess"*
+rather than dropping her, and Matthew 1:3 names Tamar. See
+[[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] and [[Judah and Tamar]].
 
 **Exodus and Deuteronomy turn it into law, and supply the reason Genesis omitted.** *"Neither shall
 you make marriages with them … for he will turn away your son from following me"* (Deuteronomy

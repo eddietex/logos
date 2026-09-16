@@ -456,6 +456,16 @@ even fratricidal betrayal into rescue (Joseph).
   brothers swear to disprove and then fulfil four times over by bowing; the verb *recognise* that will
   govern the reunion, planted in a lie about a garment; and **the Bible's first *Sheol* and first
   sackcloth**, both belonging to a man mourning a son who is alive.
+  Then the cycle stops dead for a chapter. *[[Judah and Tamar]]* sits between the sale in 37:36 and the
+  purchase in 39:1, **and neither Joseph nor Jacob is named in it** — thirty verses on the brother who
+  proposed the sale, who goes down from his brothers, marries a Canaanite, buries two sons God is
+  reported as killing, withholds the third from his widowed daughter-in-law, and is caught by her at a
+  roadside with his own signet in her hand. **The strongest evidence that the interruption is placed
+  rather than stray is a phrase**: *hakker-nāʾ*, *discern, please* — **the words Judah's own party used
+  on Jacob over a bloodied coat at 37:32**, and the words Tamar sends back to Judah with his pledge at
+  38:25. **He answers with the first unqualified admission of fault in the book** — *"she is more
+  righteous than I"* — and the chapter closes on a second set of twins, a reversed birth order, and
+  **[[Perez]], who heads the genealogy that ends on David.**
 
 ## Pericopes
 
@@ -520,7 +530,7 @@ merge, or reorder them freely.
 ### Joseph (37–50)
 
 - [x] [[Joseph Sold into Slavery]] — Genesis 37:1–36
-- [ ] Judah and Tamar — Genesis 38:1–30
+- [x] [[Judah and Tamar]] — Genesis 38:1–30
 - [ ] Joseph in Potiphar's House — Genesis 39:1–23
 - [ ] The Cupbearer and the Baker — Genesis 40:1–23
 - [ ] Pharaoh's Dreams and Joseph's Rise — Genesis 41:1–57

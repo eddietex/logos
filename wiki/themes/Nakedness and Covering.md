@@ -97,6 +97,15 @@ nakedness may not be revealed"* (Revelation 3:18).
   Amnon rapes her.** *"They stripped Joseph of his coat"* is the first thing the brothers do, **before the
   pit**; the coat is the cause at 37:3–4 and the instrument at 37:31–33; and the boy goes to Egypt without
   it. See [[A Garment and a Goat - Jacob Deceives and Is Deceived]]
+- [[Judah and Tamar]] — Genesis 38:14, 19; **the garments of widowhood put off and put back on within
+  six verses**, with the whole plot in between. What goes on over them is the ***ṣāʿîp***, **a veil the
+  Hebrew Bible mentions in only one other place — [[Rebekah]]'s at 24:65**, where she covers herself on
+  first seeing the man she is to marry. **The same rare word does bridal modesty in one chapter and
+  roadside anonymity in another**, and both times it is a woman putting cloth between herself and a man
+  she is about to be joined to. **What the veil does here is the opposite of what tradition says it
+  does**: Genesis never claims a veil marked a prostitute — it says [[Judah]] *"thought that she was a
+  prostitute, **for she had covered her face**."* **The inference is his, and the narrator gives the
+  grounds so the reader can see how thin they are**
 
 ## Related themes
 

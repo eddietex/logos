@@ -163,6 +163,16 @@ five times**, and each is a covenant hinge.
   Jacob builds there; and the altar at Shechem, *ʾĒl ʾĕlōhê Yiśrāʾēl*, which is the first time
   *Yiśrāʾēl* appears in the text as anything but the man's own name — **Jacob attaches his own new
   name to God two chapters before God repeats it of him** (35:10)
+- [[Judah and Tamar]] — Genesis 38:3–5, 29–30; **six namings in thirty verses, and at least four are
+  wordplays the narrator never acknowledges.** ***ʿĒr*** is the consonants of ***raʿ***, *evil*,
+  reversed — **the word the very next clause uses of him** — and sits one letter from ***ʿărîrî***,
+  *childless*, which is how he dies. ***ʾÔnān*** is from ***ʾôn***, *generative strength*, the word in
+  *"Reuben … the beginning of my strength"* (49:3): **the son named for generation is the one who
+  refuses to generate.** ***Šēlâ*** is left unglossed, and **is born at [[Chezib]], from *kāzab*, *to
+  lie*** — the son withheld by an excuse. **The two that Genesis does gloss are the twins**:
+  ***Pereṣ***, *breach*, from the midwife's own exclamation *"why have you made a breach for
+  yourself?"*, and ***Zeraḥ***, *shining*, plausibly for the scarlet that showed first. **The chapter
+  names people the way it does everything else — without comment**
 
 ## Related themes
 

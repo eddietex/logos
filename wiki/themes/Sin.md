@@ -189,6 +189,15 @@ has been argued.
   capital, and Acts 7:9 names the motive — *"the patriarchs, moved with jealousy against Joseph, sold him
   into Egypt."* **Genesis's own retrospect is put in Joseph's mouth rather than the narrator's** —
   *"you meant evil against me, but God meant it for good"* (50:20)
+- [[Judah and Tamar]] — Genesis 38:7, 10, 26; **three wrongs named in one chapter, ranked by nobody.**
+  [[Er]] is *raʿ bəʿênê YHWH* with **no offence specified**; [[Onan]]'s is specified in the same
+  sentence as his act — *"lest he should give offspring to his brother"* — and [[Judah]]'s is specified
+  by himself: *"because I didn't give her to Shelah, my son."* **The deceptions [[Tamar]] commits are
+  never named as wrong at all**, by the narrator or by God, and the only verdict in the chapter goes
+  the other way. **On Onan, the wiki states plainly what the verse contains**: the act described is
+  coitus interruptus and **the reason given is the defrauded brother**, not the spilled seed; the later
+  moral tradition built on it is real, old, and outside what Genesis reports. **The wiki records the
+  chapter's refusal to rank any of this** rather than supplying the ranking
 
 ## Related themes
 

@@ -6357,3 +6357,136 @@ entry at all: **Genesis 37 never names him.**
 
 `scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. Genesis
 stands at 46 / 59 pericopes; the next is *Judah and Tamar*, Genesis 38:1–30.
+
+## [2026-09-16] ingest | Genesis 38.1-30 — Judah and Tamar
+
+Unattended run (`/ingest auto`). Genesis 38, the chapter that stops the Joseph narrative dead between
+the sale in 37:36 and the purchase in 39:1 — **thirty verses in which neither Joseph nor Jacob is
+named**, and in which God speaks not a word but acts twice.
+
+### Created
+
+**Passage** — [[Judah and Tamar]], quoting all thirty verses of the chapter across five
+verse-sections.
+
+**People (8)** — [[Tamar]], [[Er]], [[Onan]], [[Shelah (son of Judah)]], [[Perez]], [[Zerah]],
+[[Shua's Daughter]], [[Hirah the Adullamite]].
+
+**Places (4)** — [[Adullam]], [[Chezib]], [[Timnah]], [[Enaim]].
+
+**Connections (4)** — [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]],
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]],
+[[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]],
+[[Two Sets of Twins - Jacob and Esau, Perez and Zerah]].
+
+### Revised
+
+[[Judah]] (a full in-pericope section, four timeline entries, an appears-in entry, and six related
+people — **this is the only chapter in Genesis that is his**); [[Genesis]] (box checked, and the
+Joseph paragraph in `## Structure` extended to cover the interruption);
+[[Not from the Daughters of the Canaanites]] (two stale *(not yet ingested)* markers cleared — one
+pointed at Genesis 34, ingested sixteen pericopes ago — and a paragraph on how far the Judah case
+actually goes);
+[[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] (a note at the head distinguishing its Tamar
+from this one); [[Shelah (son of Arpachshad)]] (renamed — see below). **Sixteen theme pages** took a
+keyed entry: [[Righteousness]], [[Marriage]], [[Deception]], [[Birthright and the Firstborn]],
+[[Judgment]], [[Retribution]], [[Names and Naming]], [[Seeing and Being Seen]],
+[[Nakedness and Covering]], [[Oaths and Vows]], [[Wealth and Possessions]], [[Life and Death]],
+[[Sin]], [[Land and Sojourning]], [[Mediation and Advocacy]], [[Language and Speech]]. All five
+indexes and [[index|the dashboard]] counts updated.
+
+### A silent name collision found and fixed
+
+**Judah's third son collides with the post-flood patriarch of Genesis 10:24 and 11:14–15.** Same
+English spelling, different Hebrew vocalisation — *Šēlâ* against *Šelaḥ*. `scripts/link-check.sh`
+resolves link targets by basename and **would have passed two files called `Shelah.md` without a
+word**, while Obsidian picked one of them for every inbound link: the double-silent failure the
+`AGENTS.md` qualifier rule exists for. Neither name is fixed by the directory map, so **both pages
+take a qualifier**: the existing page was renamed to [[Shelah (son of Arpachshad)]] with `git mv`, its
+six inbound links fixed and two of them rewrapped, and the new page is [[Shelah (son of Judah)]].
+
+Worth recording that **the old page had itself predicted this collision** — its note on the name
+already said the word was *"in a different vocalization, of Judah's third son in Genesis 38"* — **and
+predicting it did not prevent it.** The rename is cheap in the pass that causes it and expensive
+later.
+
+### Judgment calls
+
+- **`Tamar.md` is left unqualified, deliberately.** 2 Samuel 13's Tamar will force a rename, and she
+  is already discussed by name on [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] — but
+  `AGENTS.md` disambiguates on an actual collision between pages, and only one Tamar page exists.
+  **The alternative was pre-emptive qualification**, which the `Shelah` experience above argues for and
+  which was rejected because it makes every link in the wiki read
+  `[[Tamar (daughter-in-law of Judah)]]` on the strength of a book that has not been opened. **When
+  Samuel arrives both pages take a qualifier and the inbound links are fixed in the same pass**; the
+  plan is written onto [[Tamar]], onto the connection page, and here, so it is not a surprise.
+- **[[Hirah the Adullamite]] is qualified from the start**, though nothing collides with him yet —
+  Genesis identifies him that way itself at 38:12 and 38:20, and *Ḥîrâ* is one consonant from Hiram of
+  Tyre.
+- **[[Shua's Daughter]] is filed under the designation Genesis uses**, not under 1 Chronicles 2:3's
+  *Bath-shua*, which is the same two words read as a name. Precedent: [[Lot's Wife]],
+  [[Abraham's Servant]], [[Job's Children]].
+- **The boundary was used as drawn** and the title kept from the plan. The chapter opens with *"at that
+  time"* and a departure and closes on a birth; no character crosses either edge.
+- **No page for the midwife (38:28–29)**, though she ties the thread and speaks the name that sticks —
+  same footing as the midwife of 35:17. **No page for Shua**, named twice and a patronymic both times.
+- **No `Prostitution` theme page.** The chapter's material distributes to [[Marriage]], [[Sin]], and
+  [[Language and Speech]], and a theme page would be built almost entirely from books not yet ingested.
+  Worth opening when Hosea arrives.
+- **No page for the four women of Matthew 1**, and none for the *ʿērābôn*/*ἀρραβών* loanword. The first
+  would be three-quarters forward reference; the second is a dictionary entry, and sits on the passage
+  page and [[Oaths and Vows]].
+
+### Contradictions and tensions flagged, not resolved
+
+- **Tamar's nationality.** Genesis names Judah's wife a Canaanite in the same breath as her father and
+  **gives Tamar no father, no town, and no people** — the only person in the chapter whose origin is
+  withheld. Jubilees 41:1 and the rabbinic readings supply opposite answers; **the wiki adopts
+  neither.**
+- **The levirate against Leviticus.** Judah orders at 38:8 exactly what Leviticus 18:16 and 20:21
+  forbid, with childlessness attached as the penalty, and what Deuteronomy 25:5–10 commands. **Three
+  texts set side by side on the connection page without harmonising.**
+- **Onan.** The wiki states what the verse contains — the act is coitus interruptus and **the reason
+  the text itself gives is the defrauded brother** — notes that the English word derived from his name
+  is not what he is condemned for, and **does not adjudicate the later moral tradition.**
+- **The two executions**, 38:7 and 38:10, are recorded as **the only occasions in Genesis where the
+  narrator says Yahweh killed a named individual**, with a charge supplied for one and none for the
+  other. Stated as a fact about the text; **not argued from.**
+- **The placement of the chapter.** Two standard explanations (an independent Judah tradition; a
+  deliberate foil to Genesis 39) are set out and **neither is adopted**; the *hakker-nāʾ* pairing is
+  recorded as the strongest internal evidence that the placement is deliberate, which is what the
+  Genesis 37 entry left this pericope to do.
+
+### Links deliberately left for later pericopes
+
+All given as plain scripture references rather than wikilinks, so none is a link-check finding:
+**39:1–23** (*"Yahweh was with Joseph"*, and the second sexual proposition in as many chapters);
+**41:45**; **43:8–9**; **44:18–34**; **46:12** (the five sons in the Egypt roster); **49:8–12**.
+Quotations from books not in `raw/` — Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges,
+1–2 Samuel, 2 Chronicles, Nehemiah, Psalms, Ecclesiastes, Song of Songs, Jeremiah, Micah, Malachi,
+Matthew, Mark, Luke, Romans, 1–2 Corinthians, and Ephesians — were checked by eye against the WEB.
+
+### Quotation check
+
+The verse-by-verse diff script was re-run against `raw/bible/Genesis.md` over every block quote on the
+pages created here: **30 Genesis 38 verse-blocks on the passage page, 0 mismatches — the whole chapter
+quoted verbatim** — and 17 more verse-blocks across the new person and place pages, of which the five
+that carry a deliberate `…` elision or a trailing verse reference were re-checked as exact substrings
+and all five passed.
+
+The same script was run over the **entire** wiki as a regression pass: **1,152 verse-blocks matched
+exactly**, and the 19 it flagged are all in pages from earlier ingests and are all intentional —
+ellipses, italicised re-quotes, clause-length truncations, and one quote of Genesis 13:6 carried into
+[[The Descendants of Esau]] with an inline attribution. **No corrupted quotation anywhere in `wiki/`.**
+
+### Pre-existing findings noted, not fixed
+
+`grep -rn '^</content>$\|^</invoke>$' wiki/` is clean — the failure this log has recorded three times
+has not recurred. **Still open from earlier entries**: the stale *(not yet ingested)* marker on
+[[The Tower of Babel]] pointing at Genesis 19:1–29, which was ingested as
+[[The Destruction of Sodom and Gomorrah]]; and the `wiki/people/God.md` truncation at 25:11 first
+flagged in the Genesis 35 entry. **[[God]] again gets no entry from this pericope** — he acts twice in
+it and is never quoted, named as a speaker, or addressed.
+
+`scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. Genesis
+stands at 47 / 59 pericopes; the next is *Joseph in Potiphar's House*, Genesis 39:1–23.
