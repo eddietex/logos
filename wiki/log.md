@@ -6490,3 +6490,139 @@ it and is never quoted, named as a speaker, or addressed.
 
 `scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. Genesis
 stands at 47 / 59 pericopes; the next is *Joseph in Potiphar's House*, Genesis 39:1–23.
+
+## [2026-09-16] ingest | Genesis 39.1-23 — Joseph in Potiphar's House
+
+Unattended run (`/ingest auto`). Genesis 39 — **the chapter that says the sentence Genesis 37 withheld
+for thirty-six verses**, and says it four times: *"Yahweh was with Joseph."*
+
+### Created
+
+**Passage** — [[Joseph in Potiphar's House]], quoting all twenty-three verses of the chapter across six
+verse-sections.
+
+**People (1)** — [[Potiphar's Wife]].
+
+**Themes (1)** — [[Sexual Sin]].
+
+**Connections (2)** — [[A Garment Used as Evidence - The Coat and the Cloak]],
+[[Sin Against God - Joseph at 39.9 and David at Psalm 51]].
+
+### Revised
+
+[[Joseph]] (a full in-pericope section, four timeline entries, an appears-in entry, a related person,
+three themes); [[Potiphar]] (his forward-looking *"what is still ahead"* section replaced with the
+ingested account, plus a section on the 39:19 ambiguity); [[Pharaoh (of Joseph's time)]];
+[[Rachel]] (an appears-in entry for a chapter she is not in — see below); [[Egypt]];
+[[Genesis]] (box checked, `## Structure` paragraph extended). **Four connection pages that had been
+written forward against this chapter** were updated rather than duplicated:
+[[Blessed for His Sake - Laban's House and Potiphar's]] (39:5 markers cleared, and the divine-name
+asymmetry added), [[I Will Be With You - The Promise of Presence]] (the point that **Joseph is the one
+bearer of the promise God never speaks to**),
+[[Ishmaelites or Midianites - The Caravan That Bought Joseph]] (39:1 as the tightest form of the
+problem), [[Abram the Hebrew - The First Use of the Name]]
+(39:14 as the word's first contemptuous use). **Thirteen theme pages** took a keyed entry. All five
+indexes and [[index|the dashboard]] counts updated.
+
+### The finding this pass turned on: a counted, not remembered, divine-name distribution
+
+The passage page opens on a table produced by **counting occurrences in `raw/bible/Genesis.md` chapter
+by chapter**, not from memory:
+
+- **Genesis 37: no divine name at all** — zero *Yahweh*, zero *God*.
+- **Genesis 38: three *Yahweh*, all in verses 7 and 10, and all of Yahweh killing a man.**
+- **Genesis 39: eight *Yahweh*** — and one *God*, which is **Joseph's**, not the narrator's (39:9).
+- **Genesis 40–50: *Yahweh* once**, at 49:18, inside a line of Jacob's blessing. Thirty-three *God*.
+
+So **the covenant name enters the Joseph cycle in one concentrated burst and is spent on a slave in a
+foreign house who owns nothing** — not on the dreams, the famine, or the throne. It is reported as a
+fact about the text; **no source-critical conclusion is argued from it**, because the concentration is
+equally compatible with a deliberate authorial frame and with a strand that used the name.
+
+### Judgment calls
+
+- **[[Sexual Sin]] created as a new theme, the largest call in this pass.** Genesis has been
+  accumulating this material since chapter 19 with nowhere to file it — Sodom, Lot's daughters, the
+  three wife-sister episodes, Dinah, Reuben and Bilhah, Er and Onan, Judah and Tamar — and neither
+  existing page covers it: **[[Marriage]] is the ordinance and not its violation, and [[Testing]]
+  explicitly excludes temptation in its own summary line.** Opened here rather than retrofitted to
+  Genesis 19 because **39:9 is the first time the category is named from inside the story** by the
+  person facing the act. **Older passage pages were not retro-linked to it** — the theme page carries
+  the full passage list itself, so nothing is lost, but the inbound links from those seven older
+  passages are left for a lint pass. Recorded as debt, not as done.
+- **[[Potiphar's Wife]] kept unnamed**, titled by whom she appears with, per the `AGENTS.md` convention
+  for figures known only by a relation or title. **The tradition's names for her — Zuleika in the
+  Persian and Islamic retellings, Asenath's mother in some Jewish ones — are recorded on the page as
+  reception history and not adopted.** Genesis withholds the name deliberately.
+- **[[Rachel]] given an appears-in entry for a chapter she is not in.** 39:6's *"well-built and
+  handsome"* is ***yəpēh-tōʾar wîpēh marʾeh***, **the exact pair used of her at 29:17** — the son
+  described in the mother's words, in both cases immediately before the trouble the description causes.
+  The entry says plainly that she is not present.
+- **No page for the keeper of the prison.** Unnamed, no speech, no motive, and **structurally a
+  repetition of Potiphar rather than a character** — the standing practice set at the midwife of 35:17
+  and the man in the field of 37:15.
+- **No connection page for the Egyptian *Tale of Two Brothers*** (Papyrus D'Orbiney), whose Bata
+  refuses his elder brother's wife and is falsely accused by her. **The parallel is real and is noted on
+  the passage page**, but `AGENTS.md` defines a connection page as a link *within* Scripture, and a
+  shared folk-tale pattern is not a dependence claim this wiki can make in either direction.
+- **Title kept from the plan.** *Joseph and Potiphar's Wife* was rejected for reducing the chapter to
+  the scene everyone remembers when its own emphasis is the *Yahweh was with Joseph* frame around it;
+  *The False Accusation* covers thirteen of twenty-three verses. **No other book has a passage page by
+  this title**, so no `(Book)` qualifier.
+- **Boundary used as drawn.** 39:2 and 39:21 open matching paragraphs with the same four Hebrew words
+  and 40:1 starts a new cast, so the chapter is a clean unit. A split at 39:20 was rejected: **the
+  prison paragraph is the point**, being the house paragraph restated clause for clause after the
+  disaster.
+
+### Ambiguities flagged and not resolved
+
+- **Did Potiphar believe his wife?** *"His wrath was kindled"* (39:19) has **no object in the Hebrew**.
+  The evidence for doubt is entirely from what does not happen — no execution of a slave accused of
+  assaulting the master's wife, no sale, and confinement in the royal prison **inside Potiphar's own
+  house** (40:3). He has no line of dialogue anywhere in Genesis. **Both readings set out, neither
+  adopted.**
+- ***"Except for the food which he ate"*** **(39:6).** Either the Egyptian dietary boundary Genesis
+  states itself at 43:32, or the old euphemistic reading in which *bread* means *his wife*. **The first
+  adopted as plainer because the book supplies it; the second recorded because it explains the clause's
+  position.**
+- **Who sold Joseph, carried forward not newly created.** 39:1 says **Ishmaelites** of the same purchase
+  by the same buyer that 37:36 credits to **Midianites** — **one verse apart in narrative sequence.**
+  Set out on [[Ishmaelites or Midianites - The Caravan That Bought Joseph]]; **none of the three
+  readings adopted.**
+
+### Links deliberately left for later pericopes
+
+All given as plain scripture references rather than wikilinks, so none is a link-check finding:
+**40:3, 15** (the prison located in Potiphar's house, and *"the land of the Hebrews"*); **41:9–14**
+(the cupbearer's memory); **41:45** (*Potiphera*); **43:32** (the Egyptians refusing to eat with
+Hebrews); **49:18** (the last *Yahweh* in the book); **50:20**. Quotations from books not in `raw/` —
+Exodus, Leviticus, Deuteronomy, Judges, 1–2 Samuel, Psalms, Proverbs, Luke, Acts, 1 Corinthians and
+2 Timothy — were checked by eye against the WEB.
+
+### Quotation check
+
+A verse-by-verse diff script was rebuilt in the scratchpad (the previous run's was not kept) and run
+against `raw/bible/Genesis.md` over every block quote on the pages created and revised here:
+**30 Genesis verse-blocks, 0 mismatches — the whole of chapter 39 quoted verbatim**, plus the 37:36 and
+29:17 re-quotes. The non-Genesis quotations above were checked by eye, the books not being in `raw/`.
+
+A whole-wiki regression was also run. **The rebuilt script is cruder than the one used for the Genesis
+38 entry** — it does not tolerate `…` elisions, trailing multi-verse range markers, or inline bold
+inside a quote — so its raw flag count is not comparable with that entry's 19, and **an elision-tolerant
+second pass was still running when this ingest was committed.** What is established is the part that
+matters for this pass: **every quotation on the new pages is exact.** Re-running a tolerant regression
+over the whole wiki is left for a lint pass.
+
+### Pre-existing findings noted, not fixed
+
+`grep -rn '^</content>$\|^</invoke>$' wiki/` is clean. **Still open from earlier entries**: the stale
+*(not yet ingested)* marker on [[The Tower of Babel]] pointing at Genesis 19:1–29, ingested as
+[[The Destruction of Sodom and Gomorrah]]; and the `wiki/people/God.md` truncation at 25:11 first
+flagged in the Genesis 35 entry. **[[God]] again gets no entry from this pericope** — the chapter's
+eight *Yahweh*s are all the narrator's, and God neither speaks nor is addressed in it.
+
+`scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. It caught
+one real finding on the way — **a wikilink wrapped across lines 17–18 of the new passage page**, which
+renders as literal `[[` text and would have vanished from the graph and from backlinks with nothing
+else in the repository able to see it. Fixed and the paragraph rewrapped. Genesis stands at
+48 / 59 pericopes; the next is *The Cupbearer and the Baker*, Genesis 40:1–23.

@@ -24,7 +24,10 @@ tags: [connection]
 run from a battle. It does not occur again until Potiphar's wife uses it, and the pattern of its
 occurrences is unusually consistent:
 
-- **Foreigners use it of Israelites.** Potiphar's wife (39:14, 17), the cupbearer describing Joseph
+- **Foreigners use it of Israelites.** [[Potiphar's Wife]] (39:14, 17) — **the first time in Scripture
+  the word is spoken with contempt**, and the contempt is the reason for choosing it: it marks the
+  accused as foreign in front of an Egyptian household that had been taking his orders. See
+  [[Joseph in Potiphar's House]]. Then the cupbearer describing Joseph
   (41:12), Pharaoh's daughter (Exodus 2:6), the Philistines throughout 1 Samuel — *"Let the Hebrews
   hear"*, *"the Hebrews are coming out of the holes"*.
 - **Israelites use it of themselves when speaking to foreigners.** Joseph explaining himself to the

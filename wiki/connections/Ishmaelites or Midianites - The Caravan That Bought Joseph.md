@@ -13,7 +13,11 @@ tags: [connection]
   of the pit, and sold Joseph to the **Ishmaelites** for twenty pieces of silver."*
 - **Genesis 37:36** — *"The **Midianites** sold him into Egypt to Potiphar."*
 - **Genesis 39:1** — *"Potiphar … bought him from the hand of the **Ishmaelites** who had brought him
-  down there."*
+  down there."* — [[Joseph in Potiphar's House]]. **This is the same buyer and the same purchase as
+  37:36, one verse later in narrative sequence and one chapter later on the page**, and the seller's
+  name has changed. **The two verses are the tightest form the problem takes anywhere in Genesis**, and
+  39:1 is also a resumptive repetition of 37:36 — it restates the sale to pick the thread back up after
+  [[Judah and Tamar]], **and restates it differently.**
 - **Genesis 16:15; 25:12–18** — Ishmael, Abraham's son by Hagar, and his twelve princes.
 - **Genesis 25:1–4** — Midian, Abraham's son by Keturah.
 - **Judges 8:22–24** — *"for they had golden earrings, because they were **Ishmaelites**"* — said of the

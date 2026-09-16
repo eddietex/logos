@@ -466,6 +466,19 @@ even fratricidal betrayal into rescue (Joseph).
   38:25. **He answers with the first unqualified admission of fault in the book** — *"she is more
   righteous than I"* — and the chapter closes on a second set of twins, a reversed birth order, and
   **[[Perez]], who heads the genealogy that ends on David.**
+  Then *[[Joseph in Potiphar's House]]* picks the thread back up by restating 37:36 almost verbatim, and
+  **says the sentence chapter 37 withheld for thirty-six verses**: *"Yahweh was with Joseph."* It says it
+  four times, and the chapter is built as one paragraph written twice — the estate Joseph is given to run
+  and, after the false charge, **the prison, described in the same five clauses in the same order.** The
+  covenant name occurs **eight times here and exactly once more in the remaining eleven chapters of the
+  book** (49:18); everywhere else the Joseph cycle says *ʾĕlōhîm*. **Genesis spends *Yahweh* on the
+  thirteen years nobody would have picked** — a slave in a foreign house, then a prisoner — and never
+  once lets God speak to him. The chapter also gives Joseph **his longest speech so far and his first
+  words since 37:16**, and it is a refusal argued three-quarters from his master's trust and one quarter
+  from God: *"How then can I do this great wickedness, and sin against God?"* — **the first time anyone
+  facing the act names the category, in a book with no commandment in it yet.** Then a garment is taken
+  off him and produced as evidence for the second time in three chapters, **and for the second time he is
+  not recorded as saying a word in his own defence.**
 
 ## Pericopes
 
@@ -531,7 +544,7 @@ merge, or reorder them freely.
 
 - [x] [[Joseph Sold into Slavery]] — Genesis 37:1–36
 - [x] [[Judah and Tamar]] — Genesis 38:1–30
-- [ ] Joseph in Potiphar's House — Genesis 39:1–23
+- [x] [[Joseph in Potiphar's House]] — Genesis 39:1–23
 - [ ] The Cupbearer and the Baker — Genesis 40:1–23
 - [ ] Pharaoh's Dreams and Joseph's Rise — Genesis 41:1–57
 - [ ] The Brothers' First Journey to Egypt — Genesis 42:1–38

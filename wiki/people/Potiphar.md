@@ -33,32 +33,55 @@ the bodyguard**, and **Genesis 40:3 puts the royal prison inside his house**, wh
 chapter that begins with a father sewing a coat ends with the name of a man whose job title contains a
 slaughterhouse.**
 
-### What is still ahead
+### In Genesis 39 — a master with no dialogue
 
-This page grows as those pericopes arrive; what follows is the shape of it.
+**He appears in one chapter and disappears from the book**, and **Genesis never gives him a line of
+speech anywhere.** Everything he does is reported.
 
-**He appears in one chapter and disappears from the book.** Genesis 39 makes him Joseph's master, and
-the arrangement is the most successful thing in Joseph's first thirteen years in Egypt: *"Yahweh was
-with Joseph, and he was a prosperous man"* (39:2), and **the blessing spreads to the household that owns
-him** — *"Yahweh blessed the Egyptian's house for Joseph's sake"* (39:5), **the same idiom Laban used of
-Jacob at 30:27.** See [[Blessed for His Sake - Laban's House and Potiphar's]]. He hands over everything
-he has except the food he eats, *"and he didn't know anything that was with him"* (39:6).
+**He buys, sees, promotes, and stops counting.** *"His master saw that Yahweh was with him"* (39:3) —
+**an Egyptian slaveholder diagnosing the God of Abraham correctly, by name**, which is a habit Genesis
+gives its foreigners without ever explaining. He makes Joseph *"overseer over his house"* — *imy-r pr*,
+the steward of an Egyptian private estate, a real office often held by foreigners — and then hands over
+everything: *"He left all that he had in Joseph's hand. He didn't concern himself with anything, except
+for the food which he ate"* (39:6).
 
-Then his wife's accusation, and **the text is careful about what he does and does not do.** *"His wrath
-was kindled"* (39:19) — and he puts Joseph in **his own house's prison** (39:20) rather than executing a
-slave accused of assaulting his wife, which is what the charge would ordinarily buy. **Genesis does not
-say whether he believed her**, and it never gives him a line of dialogue. **He is not named again after
-Genesis 39**, and the keeper of the prison, not Potiphar, is the man Joseph deals with from 39:21 on.
+**The blessing spreads to the household that owns him** — *"Yahweh blessed the Egyptian's house for
+Joseph's sake"* (39:5), ***biglal Yôsēp***, **the same rare construction [[Laban]] used of Jacob at
+30:27** and the only two places Genesis uses it. See
+[[Blessed for His Sake - Laban's House and Potiphar's]].
+
+***"Except for the food which he ate."*** **Either the dietary boundary Genesis itself states at 43:32**
+— *"the Egyptians don't eat bread with the Hebrews"* — **or the old euphemistic reading in which *bread*
+means *his wife***, which would make verse 6 a single sentence containing the exception and the reason it
+fails. The wiki takes the first as plainer and records the second.
+
+### Did he believe her?
+
+**Genesis will not say.** *"His wrath was kindled"* (39:19) — ***wayyiḥar ʾappô*** — **and the Hebrew
+gives the clause no object.**
+
+**What the text gives is entirely a list of things that do not happen.**
+
+- **He does not execute him.** A slave charged with assaulting his owner's wife would be killed;
+  Potiphar holds the title ***śar haṭṭabbāḥîm***, *chief of the slaughterers*, **and does not use it.**
+- **He does not sell him either**, which would recover the price and remove the problem.
+- **He confines him inside his own establishment.** 40:3 places the royal prison *"in the house of the
+  captain of the guard"* — **so Joseph moves from one part of Potiphar's house to another**, into the
+  facility holding Pharaoh's own detainees rather than a slave pen.
+- **No hearing, no verdict, and no word from Joseph either.**
+
+**Reading him as privately unconvinced is a reasonable inference and it is an inference.** The wiki
+records it as one and **adopts no reading of 39:19.** He is not named again after Genesis 39, and from
+39:21 the man Joseph deals with is the keeper of the prison.
 
 ## Timeline / key events
 
 - Buys Joseph from the traders; *sārîs* of Pharaoh and captain of the guard — Genesis 37:36,
   [[Joseph Sold into Slavery]]
-- Named again as the purchaser, *"from the hand of the Ishmaelites"* — Genesis 39:1 *(not yet ingested)*
-- His house prospers *"for Joseph's sake"*; he hands over everything — Genesis 39:2–6 *(not yet
-  ingested)*
+- Named again as the purchaser, *"from the hand of the Ishmaelites"* — Genesis 39:1,
+  [[Joseph in Potiphar's House]]
+- His house prospers *"for Joseph's sake"*; he hands over everything — Genesis 39:2–6
 - His wife's accusation; his anger; Joseph imprisoned in his house rather than killed — Genesis 39:19–20
-  *(not yet ingested)*
 - The royal prison is in his house, where the cupbearer and the baker are held — Genesis 40:3 *(not yet
   ingested)*
 
@@ -67,11 +90,16 @@ Genesis 39**, and the keeper of the prison, not Potiphar, is the man Joseph deal
 - [[Joseph Sold into Slavery]] — Genesis 37:36; **the chapter's last five words are his name and his
   titles.** He does not speak, act, or appear; he is the destination. **The first Egyptian personal name
   in Scripture**, and the point at which the Joseph narrative stops being about a family
+- [[Joseph in Potiphar's House]] — Genesis 39:1–23; **his one chapter, and he does not speak in it.** He
+  buys, sees that Yahweh is with the man, promotes him to steward of the whole estate, hands over
+  everything but his own table, hears an accusation, and imprisons rather than kills. **His anger at
+  39:19 is given no object**, and the prison he chooses is inside his own house
 
 ## Related people
 
 - [[Joseph]] — the slave he buys for twenty pieces of silver's worth of boy, and puts in charge of
   everything he owns
+- [[Potiphar's Wife]] — unnamed; the accusation he acts on without Genesis saying whether he believed it
 - [[Pharaoh (of Joseph's time)]] — his master, named here only as the possessor of his office
 - [[Ishmael]], [[Keturah]] — through the traders of 37:25–28, whose two designations Genesis uses
   interchangeably; Potiphar buys from Midianites at 37:36 and from Ishmaelites at 39:1
@@ -84,3 +112,5 @@ Genesis 39**, and the keeper of the prison, not Potiphar, is the man Joseph deal
 - [[Favor and Grace]]
 - [[The Nations]]
 - [[Work]]
+- [[Judgment]]
+- [[Sexual Sin]]

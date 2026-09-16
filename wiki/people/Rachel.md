@@ -237,6 +237,12 @@ over the killing of the infants at Bethlehem. See
   reason for the whole chapter: the loved wife whose son is loved *"more than all his children"*, in the
   same comparative the narrator used of her over [[Leah]] at 29:30. **On the dream's own terms the moon
   never does bow**
+- [[Joseph in Potiphar's House]] — Genesis 39:6; **not present, and quoted anyway.** *"Joseph was
+  well-built and handsome"* is ***yəpēh-tōʾar wîpēh marʾeh***, **the exact pair Genesis used of her at
+  29:17** — *"Rachel was beautiful in form and attractive"*, *yəpat-tōʾar wîpat marʾeh*. **The book
+  describes her son in her own words**, and in both places the clause stands immediately before the
+  trouble it causes: a fourteen-year betrothal there, a false charge and thirteen years in prison here.
+  **Genesis uses the formula of nobody else in the patriarchal narratives**
 
 ## Related people
 

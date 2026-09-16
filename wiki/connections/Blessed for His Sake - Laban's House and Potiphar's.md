@@ -11,8 +11,9 @@ tags: [connection]
   be blessed"*: the promise that makes one man's blessing spill outward — [[The Call of Abram]]
 - **Genesis 30:27, 30** — *"Yahweh has blessed me **for your sake**"*; *"Yahweh has blessed you
   wherever I turned"* — [[Jacob's Flocks]]
-- **Genesis 39:5** — *"Yahweh blessed the Egyptian's house **for Joseph's sake**"* *(not yet
-  ingested)*. **The Egyptian is [[Potiphar]], named at 37:36** — see [[Joseph Sold into Slavery]]
+- **Genesis 39:5** — *"Yahweh blessed the Egyptian's house **for Joseph's sake**"* —
+  [[Joseph in Potiphar's House]]. **The Egyptian is [[Potiphar]], named at 37:36** — see
+  [[Joseph Sold into Slavery]]
 - **Genesis 26:12–14** — Isaac's hundredfold in Gerar, and the envy that follows it —
   [[Isaac in Gerar]]
 - **Genesis 41:53–57; 47:13–26** — a famine survived by a whole region because of the same man
@@ -27,7 +28,7 @@ lives of a father and a son.**
 > **30:27** Laban said to him, “If now I have found favor in your eyes, stay here, for I have divined
 > that **Yahweh has blessed me for your sake**.”
 
-> **39:5** Yahweh blessed the Egyptian’s house **for Joseph’s sake**. (*not yet ingested*)
+> **39:5** Yahweh blessed the Egyptian’s house **for Joseph’s sake**.
 
 The Hebrew in both is ***biglal*** — *on account of, because of.* ***Biglālekā*** at 30:27,
 ***biglal yôsēp*** at 39:5. **It is not a common construction, and Genesis puts it in exactly these
@@ -49,6 +50,13 @@ rich by luck; he attributes it to *Yahweh*, by name, and to the presence of one 
 *"saw that Yahweh was with him"*. **Neither master is converted, and neither is condemned.** Genesis
 gives them the right diagnosis and lets them act on it in the way a proprietor would: **acquire more
 of the asset.**
+
+**One asymmetry the table understates.** Laban *"divined"* it — *niḥaštî* — and says so in his own
+voice, negotiating. **Potiphar's recognition is reported by the narrator in the same breath as the
+blessing itself**, and the chapter that reports it says *Yahweh* eight times, **which is eight more than
+the whole of Genesis 37 and one more than the remaining eleven chapters of the book put together.**
+Genesis spends the covenant name on this arrangement and on almost nothing else in the Joseph cycle. See
+[[Joseph in Potiphar's House]].
 
 **And in both, the blessing's carrier owns nothing.** Jacob's complaint at 30:30 is *"when will I
 provide for my own house also?"*; Joseph is in charge of a house that is not his and is described in

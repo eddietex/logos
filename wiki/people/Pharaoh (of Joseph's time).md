@@ -67,6 +67,8 @@ reached.**
 
 - Named only as the possessor of Potiphar's office; Joseph enters his household's ownership — Genesis
   37:36, [[Joseph Sold into Slavery]]
+- His officer's estate prospers; his prison receives Joseph — *"the place where the king's prisoners
+  were bound"* — Genesis 39:1, 20, [[Joseph in Potiphar's House]]
 - His cupbearer and baker offend him and are imprisoned in the captain of the guard's house — Genesis
   40:1–3 *(not yet ingested)*
 - The birthday verdict: the cupbearer restored, the baker hanged — Genesis 40:20–22 *(not yet ingested)*
@@ -86,6 +88,12 @@ reached.**
   Pharaoh's"* is the chapter's only reference to Egypt's king, and the only thing it tells us is that
   Joseph's new owner is a court official rather than a private householder. **The institution he heads is
   what the rest of Joseph's life happens inside**
+- [[Joseph in Potiphar's House]] — Genesis 39:1, 20; **still an institution rather than a person.**
+  Potiphar is *"an officer of Pharaoh's"* again in the chapter's first verse, and the cell Joseph is put
+  in at 39:20 is *"the place where the king's prisoners were bound"* — **not a slave pen but the royal
+  prison.** A false charge is what puts a Hebrew slave into the same building as the king's own
+  servants, and **the cupbearer held there is the man who eventually says his name to this Pharaoh**
+  (41:9–14)
 
 ## Related people
 

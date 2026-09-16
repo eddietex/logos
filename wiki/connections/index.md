@@ -157,3 +157,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 |
+| [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 |
+| [[Sin Against God - Joseph at 39.9 and David at Psalm 51]] | thread | Genesis 20:6, 9 · Genesis 39:9 · Genesis 42:22; 44:16 · Exodus 20:14 · 2 Samuel 12:13 · Psalm 51:4 · Luke 15:18, 21 |

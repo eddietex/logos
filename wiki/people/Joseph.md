@@ -71,13 +71,45 @@ male of exactly his age (Leviticus 27:5) — **and Genesis never says who took t
 [[Twenty Pieces of Silver - The Price of a Brother]] and
 [[Ishmaelites or Midianites - The Caravan That Bought Joseph]].
 
+### In this pericope — Genesis 39:1–23
+
+**The chapter that says what chapter 37 would not: *Yahweh was with Joseph*, four times.**
+
+**And Genesis says it about a man it never lets God speak to.** **Joseph is the only major figure in the
+book who receives no theophany, no covenant word, and no dream from God** — Abraham, Isaac and Jacob all
+get spoken to directly, and Joseph gets a narrator. *"Yahweh was with Joseph"* (39:2, 21) is **reported
+about him and never said to him.** The formula was a promise in the future tense to [[Isaac]] (26:3, 24)
+and to [[Jacob]] (28:15; 31:3); **here it is a statement of fact about a slave.** See
+[[I Will Be With You - The Promise of Presence]].
+
+***"Joseph was well-built and handsome"*** (39:6) — ***yəpēh-tōʾar wîpēh marʾeh***, **the exact pair
+Genesis used of [[Rachel]] at 29:17.** **He is described in his mother's words**, and in both places the
+clause sits immediately before the trouble it causes.
+
+**His refusal is his longest speech in Genesis and his first words since 37:16.** Between *"I am looking
+for my brothers"* and this he has been stripped, pitted, priced and shipped, and the book gives him
+nothing to say. **Then it hands him a moral argument, and three quarters of it is about his master's
+trust** — *he has put all that he has into my hand … he has not kept back anything from me but you* —
+**before the one clause that changes court**: *"How then can I do this great wickedness, and sin against
+God?"* (39:9). **He says *ʾĕlōhîm*, to an Egyptian, in a chapter where the narrator says *Yahweh* eight
+times.** See [[Sin Against God - Joseph at 39.9 and David at Psalm 51]] and [[Sexual Sin]].
+
+**Then a garment is taken off him and produced as evidence, for the second time in three chapters, and
+for the second time he says nothing.** He leaves the *beged* in her hand and runs (39:12); she tells the
+household before she tells her husband; **and from that moment to the end of the chapter Joseph has no
+line.** **Genesis never records him answering the charge and never records him being cleared of it.** See
+[[A Garment Used as Evidence - The Coat and the Cloak]].
+
+**What the chapter does instead of exonerating him is repeat itself.** The prison paragraph
+(39:21–23) restates the estate paragraph (39:2–6) clause for clause — the formula, the master's notice,
+the total delegation, the prospering — **in a worse building.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**A quarter of Genesis is his.** Potiphar's house, the false charge, and the prison. The cupbearer and
-the baker; Pharaoh's dreams; the rise to second in Egypt, a new name, an Egyptian wife, and seven years
-of grain.
+**A quarter of Genesis is his.** The cupbearer and the baker; Pharaoh's dreams; the rise to second in
+Egypt, a new name, an Egyptian wife, and seven years of grain.
 
 Then the brothers arrive to buy food and do not know him, and the book spends five chapters on
 recognition. He tests them, weeps repeatedly, plants a cup on Benjamin, and breaks when Judah offers
@@ -111,8 +143,13 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - Stripped, thrown into a waterless cistern, and sold for twenty pieces of silver on [[Judah]]'s
   proposal — Genesis 37:23–28
 - Sold in Egypt to [[Potiphar]], captain of the guard — Genesis 37:36
-- Potiphar's house, the prison, and the dreams of the cupbearer and the baker — Genesis 39–40 *(not yet
-  ingested)*
+- *"Yahweh was with Joseph"*; overseer of Potiphar's whole estate — Genesis 39:1–6,
+  [[Joseph in Potiphar's House]]
+- Refuses [[Potiphar's Wife]] — *"how then can I do this great wickedness, and sin against God?"* —
+  Genesis 39:7–12
+- Falsely accused, and imprisoned rather than executed; the prison prospers in his hand — Genesis
+  39:13–23
+- The dreams of the cupbearer and the baker — Genesis 40 *(not yet ingested)*
 - Pharaoh's dreams; made second in Egypt — Genesis 41 *(not yet ingested)*
 - The brothers in Egypt; the tests, and the disclosure — Genesis 42–45 *(not yet ingested)*
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
@@ -147,6 +184,13 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   four times and not once after verse 16**, and his pleading from the cistern is withheld until 42:21 and
   then put in the mouths of the men who ignored it. **The chapter never mentions God**, never attributes
   the dreams, and passes no verdict on the sale
+- [[Joseph in Potiphar's House]] — Genesis 39:1–23; **the chapter that supplies the sentence the last one
+  withheld**, four times over, and spends the covenant name on the thirteen years nobody would have
+  picked. He runs an Egyptian estate, refuses his master's wife *day by day*, makes **the longest speech
+  he has made in the book** and his first since 37:16, leaves a garment in her hand and runs, **and is
+  never recorded as answering the charge or being cleared of it.** He is described in the words Genesis
+  used of his mother (39:6 against 29:17). **The chapter ends by saying about a prison exactly what it
+  said about the house**
 
 ## Related people
 
@@ -163,6 +207,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   whom he brings an *evil report* about. **Called his father's *wives* in that verse**, which is the third
   designation Genesis has used for them in three chapters
 - [[Potiphar]] — his owner from 37:36, who puts everything he has in Joseph's hands and then imprisons him
+- [[Potiphar's Wife]] — unnamed; the one person in Genesis he argues with, and the one who costs him
+  thirteen years
 - [[Pharaoh (of Joseph's time)]] — the king whose court he enters as a captain of the guard's property
 
 ## Themes associated
@@ -176,3 +222,6 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Love]]
 - [[Slavery and Servitude]]
 - [[Nakedness and Covering]]
+- [[Sexual Sin]]
+- [[Favor and Grace]]
+- [[Work]]

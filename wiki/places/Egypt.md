@@ -106,6 +106,15 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   and the sojourn Genesis 15:13 predicted starts here. See
   [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] and
   [[Four Hundred Years - The Sojourn and the Exodus]]
+- [[Joseph in Potiphar's House]] — Genesis 39:1–23; **the first Egyptian interior the Bible describes,
+  and it is described from inside the servants' quarters.** The word ***Egyptian*** occurs four times in
+  five verses — *"my master the Egyptian"*, *"the Egyptian's house"* — **and the blessing of 39:5 falls
+  on the nationality rather than on Potiphar by name.** Genesis gives a private estate with a steward
+  (*imy-r pr*), an agricultural holding (*"in the house and in the field"*), a dietary boundary it
+  explains itself at 43:32, and **a royal prison inside a court official's residence** (39:20; 40:3).
+  **Egypt is also where *ʿibrî*, Hebrew, first becomes a slur** (39:14) — spoken by an Egyptian woman to
+  an Egyptian household, and from there it runs straight into Exodus. **The country that will enslave
+  Israel is introduced as the country a single Israelite slave makes rich**
 
 ## Related places
 

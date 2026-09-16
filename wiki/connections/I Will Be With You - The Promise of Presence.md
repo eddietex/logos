@@ -10,7 +10,8 @@ tags: [connection]
 - Genesis 26:3, 24 — to Isaac, in a famine and at Beersheba
 - Genesis 28:15 — to Jacob at Bethel: *"I am with you, and will keep you, wherever you go"*
 - Genesis 31:3 — to Jacob again, sending him home — [[Jacob's Flight from Laban]]
-- Genesis 39:2, 21, 23 — *"Yahweh was with Joseph"*, in a house and in a prison
+- Genesis 39:2, 3, 21, 23 — *"Yahweh was with Joseph"*, in a house and in a prison —
+  [[Joseph in Potiphar's House]]
 - Exodus 3:12 — to Moses at the bush
 - Joshua 1:5, 9 — *"I will not fail you, nor forsake you"*
 - Judges 6:12, 16 — to Gideon in a winepress
@@ -67,6 +68,19 @@ Jacob does not even raise an objection — he is asleep.
 prison, and both times the sentence is immediately followed by an account of Joseph prospering **in
 a place he did not choose to be**. **It is Genesis's own commentary on 28:15**: the phrase that was a
 promise to the grandfather is a statement of fact about the great-grandson, made about a slave.
+
+**And it is the only form of it Joseph ever gets.** **Genesis never has God speak to him** — no
+theophany, no covenant word, no dream from God, anywhere in the fourteen chapters that are his.
+Abraham, Isaac and Jacob are all addressed directly and told *I am with you*; **Joseph is the one bearer
+of the promise who is never told, and the only one about whom the narrator says it instead.** The
+formula moves from second person to third at exactly the point the family stops being spoken to, and
+**it does not come back.**
+
+**The four occurrences also frame a reversal, which is the sharpest thing the chapter does with it.**
+39:2–3 open the estate; 39:21–23 open the prison; **and the second paragraph restates the first clause
+for clause** — the formula, the master's notice, the total delegation, the prospering. **The sentence
+that was true of a man running a great house is repeated, unchanged, about a man who has just been
+convicted without a hearing.**
 
 ### Immanuel
 
