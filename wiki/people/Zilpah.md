@@ -52,7 +52,9 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
 - Bears [[Gad]] and [[Asher]], named by Leah — Genesis 30:10–13
 - Her tent searched for the missing household gods; she is named only as one of *"the two female
   servants"* — Genesis 31:33, [[Jacob's Flight from Laban]]
-- Listed among the mothers of the twelve — Genesis 35:26; 46:18 *(not yet ingested)*
+- Listed among the mothers of the twelve, as *"Leah's servant"* — Genesis 35:26,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Her sons and grandsons counted at the descent into Egypt — Genesis 46:18 *(not yet ingested)*
 
 ## Appears in
 
@@ -67,6 +69,10 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
   third is *"the tent of the two female servants"* — **she and [[Bilhah]] share one, and neither is
   named.** They are moved, searched, and taken out of Paddan Aram without a word spoken to them or by
   them, exactly as they were brought into the household
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:26; **named once, as a possessive.**
+  *"The sons of Zilpah (Leah's servant): Gad and Asher"* — her two counted among the twelve without
+  qualification, and her own status attached to her name in a parenthesis. **She says nothing, here
+  or anywhere in Scripture**
 
 ## Related people
 

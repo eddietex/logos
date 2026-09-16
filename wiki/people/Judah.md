@@ -52,6 +52,8 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
   [[The Birth of Jacob's Children]]
+- Listed among the twelve, fourth of [[Leah]]'s six sons — Genesis 35:23,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Proposes selling Joseph to the Ishmaelites — Genesis 37:26–27 *(not yet ingested)*
 - Tamar, the pledge, and *"She is more righteous than I"*; Perez and Zerah — Genesis 38 *(not yet
   ingested)*
@@ -68,6 +70,9 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
   the passage with no husband in it.** His mother stops bearing in the same verse, and the name she
   gives him is the one the kingship, the surviving kingdom, and the genealogies of the Gospels are built
   on
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list**, and the last
+  of Leah's six before the roster turns to [[Rachel]]'s two. The tribe that takes the kingship is
+  fourth in the only ordering Genesis gives
 
 ## Related people
 

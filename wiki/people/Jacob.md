@@ -391,12 +391,63 @@ sword and with my bow"* — **against the purchase at 33:19 and against his own 
 The wiki flags the contradiction and harmonizes nothing; see
 [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]].
 
+### In this pericope — Genesis 35:1–29
+
+**He obeys on the first line and buries on the last**, and the chapter is the end of him as the
+book's acting centre.
+
+**God's command identifies itself by the flight it repays** — *"go up to Bethel … to God, who
+appeared to you when you fled from the face of Esau your brother"* (35:1) — **a reproach with no
+reproachful word in it**, since this is the second command; 31:13 already quoted the vow back to him
+and he went to Shechem instead. **Jacob's paraphrase back to his household is warmer and vaguer**:
+*"who answered me in the day of my distress, and was with me on the way which I went"* (35:3).
+
+**The purge is his own addition.** God says *arise, go up, live there, build an altar*, and Jacob
+opens his reply with a command God did not give: *"Put away the foreign gods that are among you,
+purify yourselves, change your garments"* (35:2) — **the only religious reform any patriarch
+conducts**, and in the exact vocabulary Exodus 19:10, 14 uses to prepare Israel for Sinai. **He hides
+the gods rather than destroying them**, under the oak on the field he bought at 33:19. See
+[[Idolatry]], [[Clean and Unclean]], and
+[[The Teraphim - Household Gods in Genesis and After]] — Genesis never says whether [[Rachel]]'s
+stolen *teraphim* were among them.
+
+**The fear he stated at 34:30 is answered without his asking.** *"A terror of God was on the cities
+that were around them"* (35:5) — ***ḥittat ʾĕlōhîm***, a phrase found nowhere else in the Bible —
+**and he is never shown learning that it happened.** See [[The Fear of God]].
+
+**He names an altar, receives his own name a second time, and keeps a twenty-year-old vow without
+anyone in the text remarking on it.** *ʾĒl Bêt-ʾĒl* (35:7) follows *ʾĒl ʾĕlōhê Yiśrāʾēl* at 33:20 —
+**he is the only patriarch who titles his altars.** Then God renames him *Israel* a second time
+(35:10), this time in daylight, with no reason given and with everything the Jabbok withheld
+attached: *ʾĒl Šadday*, *be fruitful and multiply*, a company of nations, kings, the land. See
+[[Renamed and Still Called Jacob - The Two Namings of Israel]] and
+[[God Almighty - El Shaddai in Genesis and Exodus]]. **And he sets his fourth pillar and pours the
+Bible's first drink offering on it** (35:14) — the vow of 28:20–22 discharged at last, and **Genesis
+does not say so.** See [[Oaths and Vows]] and
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]].
+
+**Then he overrules a dying woman.** *"She named him Benoni, but his father named him Benjamin"*
+(35:18) — **the only one of his twelve sons he names, and the only naming in Genesis that is
+overturned.** He buries [[Rachel]] where she falls rather than carrying her to Machpelah, and marks
+it with the last of his standing stones. See [[Benjamin]] and [[Names and Naming]].
+
+**And he hears, again, and says nothing, again.** *"Reuben went and lay with Bilhah, his father's
+concubine, and Israel heard of it"* (35:22) — ***wayyišmaʿ***, the verb of 34:5, where *"Jacob heard
+… and held his peace."* **Twice in two chapters Genesis tells us what he heard and refuses to tell us
+what he thought**, and here the Masoretic scribes break the verse off mid-sentence rather than
+finish it. **His answer comes fourteen chapters later, from the deathbed** (49:3–4). See [[Reuben]]
+and [[Lying with the Father's Concubine - A Claim on the Succession]].
+
+**He reaches his father's house in the second-to-last verse of the chapter** — *"Jacob came to Isaac
+his father, to Mamre"* (35:27) — **completing 28:21's *"so that I come again to my father's house in
+peace"* seven chapters after 33:18 gave him the word *šālēm***. **No word passes between them on the
+page**, and then [[Isaac]] dies and *"Esau and Jacob, his sons, buried him"*, the elder named first.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He loses Rachel at Bethlehem
-and Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
+He loses Joseph, as he believes, to a wild animal, and tells Pharaoh *"Few and evil have been the days of
 the years of my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
 **crossing his hands over Ephraim and Manasseh to put the younger first on purpose** (48:13–20) — and
 is carried back to Machpelah.
@@ -486,8 +537,22 @@ is carried back to Machpelah.
   Genesis 33:19–20
 - Hears that Dinah has been defiled and holds his peace; objects to the massacre only on grounds of
   the household's safety — Genesis 34:5, 30, [[Dinah and the Massacre at Shechem]]
-- Buries Rachel; loses Joseph; goes down to Egypt at a hundred thirty — Genesis 35; 37; 46
-  *(not yet ingested)*
+- Commanded back to Bethel a second time; purges the household's foreign gods and hides them under the
+  oak at Shechem — Genesis 35:1–4,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Builds and names the altar *El Beth El*; a terror of God keeps the cities from pursuing —
+  Genesis 35:5–7
+- Renamed **Israel** a second time, by God, with *ʾĒl Šadday*, a company of nations, kings, and the
+  land attached — Genesis 35:9–12
+- Sets his fourth pillar, pours the Bible's first drink offering on it, and discharges the vow of
+  28:20–22 — Genesis 35:14–15
+- Overrules Rachel's dying naming of *Ben Oni* to [[Benjamin]]; buries her on the road to Ephrath
+  under his last pillar — Genesis 35:18–20
+- Hears that [[Reuben]] has lain with [[Bilhah]] and says nothing for fourteen chapters —
+  Genesis 35:22
+- Reaches [[Isaac]] at Mamre, completing 28:21; buries him with [[Esau]], who is named first —
+  Genesis 35:27–29
+- Loses Joseph; goes down to Egypt at a hundred thirty — Genesis 37; 46 *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
   *(not yet ingested)*
 - Dies in Egypt and is carried to Machpelah — Genesis 49:33–50:13 *(not yet ingested)*
@@ -562,6 +627,14 @@ is carried back to Machpelah.
   grounds of safety alone — no moral term, no mention of his daughter, no reply to the question the
   brothers end on. **His verdict comes fifteen chapters later**, and his one claim to have taken this
   ground by sword and bow (48:22) fits neither his purchase at 33:19 nor his repudiation here
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1–29; **the last chapter in which
+  he is the book's acting centre, and he spends it burying.** He obeys a second command on the first
+  line, adds to it the one religious purge any patriarch conducts, names an altar, is renamed Israel
+  a second time and given everything the Jabbok withheld, sets his fourth pillar and pours the Bible's
+  first drink offering — **discharging a vow twenty years old that nobody in the text mentions.** Then
+  he overrules his dying wife's naming of their twelfth son, buries her on a roadside instead of at
+  Machpelah, hears what his firstborn has done and keeps the same silence he kept at 34:5, and reaches
+  his father's house at last without a word passing between them
 
 ## Related people
 
@@ -590,6 +663,10 @@ is carried back to Machpelah.
 - [[Bethuel]] — his maternal grandfather
 - [[Reuben]], [[Simeon]], [[Levi]], [[Judah]], [[Dan (person)]], [[Naphtali]], [[Gad]], [[Asher]],
   [[Issachar]], [[Zebulun]], [[Joseph]] — his eleven sons born in Paddan Aram, **none of whom he names**
+- [[Benjamin]] — the twelfth and last, born in Canaan; **the only one of the twelve he does name**, and
+  he does it by overruling the mother dying in front of him
+- [[Deborah (Rebekah's nurse)]] — his mother's nurse, who dies in his household by a route Genesis
+  never describes, and is buried under an oak below Bethel
 - [[Dinah]] — his one named daughter
 
 ## Themes associated

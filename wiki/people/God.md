@@ -1035,6 +1035,44 @@ traveled, and a terror of God was on the cities that were around them, and they 
 sons of Jacob"* (35:5) — **answering 34:30's *"they will gather themselves together against me"*
 without a prayer having been recorded.** See [[Dinah and the Massacre at Shechem]].
 
+### He commands, appears again, gives everything, and goes up — Genesis 35:1–29
+
+**He opens the chapter the previous one never mentioned him in, and the first thing he does is name
+the debt.** *"Arise, go up to Bethel, and live there. Make there an altar to God, **who appeared to
+you when you fled from the face of Esau your brother**"* (35:1). **He identifies himself by an event
+rather than by a title**, and the event he picks is the one Jacob was running for his life through —
+**a reproach with no reproachful word in it**, and the second time he has sent this man back (31:13
+was the first, and Jacob went to Shechem instead).
+
+**He does not ask for the purge.** The command is four imperatives and none of them is about idols;
+*"Put away the foreign gods that are among you"* is Jacob's own addition (35:2). See [[Idolatry]].
+
+**He acts once without speaking, and it answers a complaint nobody addressed to him.** *"A terror of
+God was on the cities that were around them"* (35:5) — ***ḥittat ʾĕlōhîm***, **a phrase that occurs
+nowhere else in the Bible**, and Jacob is never shown learning it happened. See [[The Fear of God]].
+
+**Then the chapter's one extended speech, and it is the fullest thing he has ever said to this man.**
+*"God appeared to Jacob ***again***, when he came from Paddan Aram, and blessed him"* (35:9) —
+**the adverb is the narrator conceding that this has been done before.** He renames him *Israel* a
+second time, **with no reason given**, against 32:28's *"you have fought with God and with men, and
+have prevailed"*; and then, as ***ʾĒl Šadday*** — **the last time he speaks the title in Genesis** —
+he hands over everything the Jabbok withheld: the creation blessing *be fruitful and multiply*, *a
+nation and a company of nations*, *kings will come out of your body*, and the land *"which I gave to
+Abraham and Isaac"*. **This is the grant of Isaac's petition at 28:3, in the same divine name and the
+same verbs**, seven chapters later. See
+[[Renamed and Still Called Jacob - The Two Namings of Israel]],
+[[God Almighty - El Shaddai in Genesis and Exodus]], and [[Kings Will Come Out of You]].
+
+***"God went up from him in the place where he spoke with him"*** (35:13). ***Wayyaʿal*** — **the
+verb the angels used on the stairway at this same site** (28:12), and **the only time in Genesis the
+narrator describes his departure as an ascent.**
+
+**And then he is gone for the rest of the chapter.** [[Rachel]] dies, [[Reuben]] does what he does,
+and [[Isaac]] is buried, and **he is not named in any of it** — not in the midwife's *"don't be
+afraid"*, not over the grave, not at the funeral. **The chapter that opens with him commanding ends
+with three deaths he is not said to have anything to do with.** He does use the old name again, long
+after giving the new one: *"God spoke to **Israel** … and said, '**Jacob, Jacob**'"* (46:2).
+
 ## He is argued about, and then argued with — Job
 
 The Job passages give this page a problem the Genesis passages did not, and it is worth stating
@@ -1221,6 +1259,15 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   — Genesis 31:24, [[Warned in a Dream - Abimelech and Laban]]
 - Invoked under four titles in one chapter, including ***the fear of Isaac***, found only here, and
   ***the God of Nahor***, paired with Abraham's under a plural verb — Genesis 31:42, 53
+- Sends Jacob back to Bethel a second time, identifying himself by the flight the site repays —
+  Genesis 35:1, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Puts ***a terror of God*** on the surrounding cities, unasked, answering Jacob's complaint at 34:30
+  — Genesis 35:5
+- Appears *"again"*, renames Jacob **Israel** a second time with no reason attached, and gives as
+  ***ʾĒl Šadday*** the promise the Jabbok withheld — a nation, a company of nations, kings, the land —
+  Genesis 35:9–12
+- *"God went up from him"* — ***wayyaʿal***, the stairway's own verb, and the only ascent the narrator
+  gives him in Genesis — Genesis 35:13
 - Feared and offered to before he has said anything, by a man in a land outside the covenant —
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
@@ -1384,6 +1431,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   with no divine name in them, and the only developed narrative among them: his covenant sign is
   proposed, agreed, performed on a town and used to destroy it, and he is neither named, invoked, nor
   said to act. He supplies the protection Jacob fears he has lost one chapter later, unasked (35:5)
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1–13; **he opens the chapter the last
+  one left him out of, and gives more in one speech than in any other in the cycle.** He commands the
+  return by naming the flight it repays; puts a terror on the cities without being asked and without
+  anyone being told; appears *"again"* and renames Jacob **Israel** a second time **with no reason
+  attached**; speaks *ʾĒl Šadday* for the last time in the book and grants the creation blessing, a
+  company of nations, kings, and the land; and then *"went up from him"*, the stairway's verb. **He is
+  named in none of the three deaths that follow**
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend

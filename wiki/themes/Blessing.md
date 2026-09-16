@@ -288,6 +288,12 @@ costly.
   translations, including the WEB, render both words *gift*, flattening a distinction the Hebrew
   keeps. **What was taken by disguise in chapter 27 is what Jacob now calls the animals he gives
   back unprompted**, and Genesis records neither brother remarking on the word
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:9, 11; ***"and blessed him"***, then
+  the content: *"Be fruitful and multiply"* — ***pərû ûrəbû***, **the creation blessing of 1:28 and
+  9:1, spoken now to one man with twelve sons.** The command that opened the world and re-opened it
+  after the flood is narrowed onto a household, and the narrowing is the covenant's whole method. The
+  verse also supplies what the Jabbok withheld: 32:28 renamed him and blessed him **without saying
+  what the blessing was**
 
 ## Related themes
 

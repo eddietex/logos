@@ -129,8 +129,20 @@ five times**, and each is a covenant hinge.
   speaker's pun inside the story, not settled linguistics**, treated exactly as *Yaʿăqōb* and *Yiṣḥāq*
   are elsewhere on this page. And the Hebrew spells *Peniel* two ways in the two verses that name it
   (*Pənîʾēl*, 32:30; *Pənûʾēl*, 32:31)
-- Genesis 35:18 — Ben Oni renamed Benjamin: **the one naming in Genesis that is overruled** *(not yet
-  ingested)*
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:7, 8, 10, 15, 18; **five namings in
+  one chapter, and three of them are second attempts.** *ʾĒl Bêt-ʾĒl*, an altar named for a place, on
+  the pattern of *ʾĒl ʾĕlōhê Yiśrāʾēl* at 33:20. *ʾAllôn Bākût*, **oak of weeping**, the only tree in
+  Scripture named for a funeral, with no mourner identified. *Israel* given a second time, now by God
+  and **with no reason attached** — against 32:28's *"you have fought… and have prevailed"* — and
+  *Bethel* named a second time by the same man who named it at 28:19, which Genesis does not remark
+  on. And **the one naming in Genesis that is overruled**: *"she named him Benoni, but his father
+  named him Benjamin"* (35:18). ***Ben-ʾônî*** is genuinely two words — *ʾôn*, **vigour**, the noun of
+  49:3's *"the beginning of my strength"*, and *ʾāwen*, **sorrow** — so a dying woman's last word is
+  either *son of my strength* or *son of my sorrow*, **and the man who overrules it is the one who
+  will use the other sense about [[Reuben]]**. ***Bin-yāmîn*** is *son of the right hand* or *son of
+  the south*, and the tribe's land makes both true. See
+  [[Renamed and Still Called Jacob - The Two Namings of Israel]] for what the book does with *Israel*
+  afterwards, which is to go on calling him Jacob
 - Genesis 41:45, 51–52 — an Egyptian name imposed, and two Hebrew names given in reply *(not yet
   ingested)*
 - Genesis 49 — Jacob's blessing, which re-puns most of the twelve names given at 29:31–30:24 *(not yet

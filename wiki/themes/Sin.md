@@ -175,6 +175,14 @@ has been argued.
   than against the injured husband**, and it would have been incurred without intent — which is the
   situation Leviticus 4 and Numbers 15:22–31 build the category of the *šəgāgâ* around. See
   [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]]
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:22; **an offence reported in one
+  clause with no verdict, no motive, and no sentence finished.** *"Reuben went and lay with Bilhah,
+  his father's concubine, and Israel heard of it"* — and the Masoretic Text breaks the verse in the
+  middle rather than say what Jacob thought. **No moral term appears anywhere in it**; the Septuagint
+  supplies *"and it appeared evil before him"*, which the wiki records as a reading rather than a
+  recovered clause. Genesis's verdict arrives fourteen chapters later, at 49:4, and calls the act
+  ***defilement*** of a bed rather than a wrong done to a woman who is not consulted
+
 ## Related themes
 
 - [[Curse]] — the counter-word this act calls down

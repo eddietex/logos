@@ -35,12 +35,33 @@ prevailed."* **Bilhah says nothing at either birth**, as [[Zilpah]] says nothing
 twelve tribes are named by women who did not bear them**, and the two who did are not recorded speaking
 anywhere in Scripture. See [[The Birth of Jacob's Children]].
 
+### In this pericope — Genesis 35:1–29
+
+**She is acted upon in one verse and given a third job title in another, and she says nothing in
+either.**
+
+*"Reuben went and lay with Bilhah, **his father's concubine**, and Israel heard of it"* (35:22) —
+***pîlegeš***, concubine. Three verses later: *"The sons of **Bilhah (Rachel's servant)**: Dan and
+Naphtali"* (35:25) — ***šipḥâ***, slave. And at 37:2 she and [[Zilpah]] will be *"his father's
+**wives**"*. **Three designations in one chapter and the next, and Genesis reconciles none of them.**
+The wiki has flagged this since [[The Birth of Jacob's Children]] and continues to adopt none.
+
+**The verse about her is the one the Hebrew will not finish.** A *piska bĕʾemṣaʿ pasuq* — a section
+break in the middle of a verse, one of very few in the Bible — falls after *"Israel heard of it"*, and
+the Septuagint fills it with *"and it appeared evil before him."* **Nothing is recorded about her
+consent, her account, or what became of her.** She is the object of the verb and the reason another
+man loses his inheritance, and she is not asked. See
+[[Lying with the Father's Concubine - A Claim on the Succession]] and [[Slavery and Servitude]].
+
+**One reading of the placement is worth recording**: the verse sits **three verses after [[Rachel]]'s
+burial** and nowhere else, and Bilhah is Rachel's slave — so an old line of Jewish commentary reads
+[[Reuben]] as acting on [[Leah]]'s behalf, against the loved wife's household now that the loved wife
+is gone. **Genesis supplies no motive at all**, and the wiki adopts none.
+
 ### What is still ahead
 
-Then, in one verse with no lead-up and no aftermath, *"Reuben went and lay with Bilhah, his father's
-concubine, and Israel heard of it"* (35:22) — and Genesis breaks off mid-sentence to count the sons.
-**Jacob does not speak about it for fourteen chapters**, and when he does, from his deathbed, it costs
-Leah's firstborn the double portion: *"unstable as water, you shall not excel … you went up to your
+**Jacob does not speak about 35:22 for fourteen chapters**, and when he does, from his deathbed, it costs
+Leah's firstborn the double portion: *"Boiling over like water, you shall not excel … you went up to your
 father's bed"* (49:4). **The son of the hated wife loses the birthright over the slave of the loved
 one**, which is the exact configuration Deuteronomy 21:15–17 was written about. See
 [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] and [[Birthright and the Firstborn]].
@@ -58,7 +79,10 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 - Bears [[Dan (person)]] and [[Naphtali]], named by Rachel — Genesis 30:5–8
 - Her tent searched for the missing household gods; she is named only as one of *"the two female
   servants"* — Genesis 31:33, [[Jacob's Flight from Laban]]
-- Reuben lies with her; Israel hears of it — Genesis 35:22 *(not yet ingested)*
+- [[Reuben]] lies with her; Israel hears of it, and the Hebrew breaks the verse off mid-sentence —
+  Genesis 35:22, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Named in the roster of the twelve as *"Rachel's servant"*, mother of Dan and Naphtali —
+  Genesis 35:25
 - Named in Jacob's deathbed disinheriting of Reuben — Genesis 49:3–4 *(not yet ingested)*
 
 ## Appears in
@@ -74,6 +98,11 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
   third is *"the tent of the two female servants"* — **she and [[Zilpah]] share one, and neither is
   named.** They are moved out of Paddan Aram and searched for stolen property without a word spoken to
   them or by them
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:22, 25; **acted upon in one verse
+  and catalogued in another.** [[Reuben]] lies with her three verses after her mistress's burial; the
+  Hebrew breaks the sentence off rather than say what Jacob thought of it; and she is listed among the
+  mothers of the twelve as *"Rachel's servant"* — **her third designation in two chapters**, against
+  *concubine* at 35:22 and *wife* at 37:2. **Nothing is recorded about her consent or her account**
 
 ## Related people
 

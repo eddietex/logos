@@ -156,6 +156,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   mountain."* **There is no altar named, no priest, and no stated recipient**; what the rite ratifies
   is an agreement between two men. **His grandfather's covenant was cut with halved animals and
   fire** (15:9–17); **this one is dinner**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1–3, 14; **an altar commanded rather
+  than volunteered, and the Bible's first drink offering.** Every patriarchal altar before this one is
+  built on the builder's own initiative after a theophany; **here God orders it in advance** —
+  *"Make there an altar to God, who appeared to you when you fled"* — which is the pattern the
+  Levitical system will run on. Then ***nesek***: *"He poured out a drink offering on it"* (35:14),
+  **the word's first occurrence in Scripture**, poured by a herdsman onto a standing stone with no
+  priest, no tabernacle, and nothing said about what was in it. The law will make it a fixed adjunct
+  to the burnt offering, always wine, always priestly (Exodus 29:40; Numbers 15:5–10). See
+  [[Sacrifice Before the Priesthood]]
 
 ## Related themes
 

@@ -5945,3 +5945,146 @@ order, Joshua 19:1's *"in the middle of the inheritance"*, and Psalm 105:12's *"
 Job; **the sections for Genesis 32 and 33 were never written**, and its `## Appears in` list is
 missing a number of entries it should have. This pass added the Genesis 34 section in reference
 order and did not backfill the gap, which is a lint job rather than an ingest one.
+
+## [2026-09-16] ingest | Genesis 35.1-29 — Return to Bethel; the Deaths of Rachel and Isaac
+
+Unattended run (`/ingest auto`). Step 2's discussion is written into the passage page rather than
+spoken. **Boundary and title both taken from the plan unrevised.** A three-way split — 1–15 (Bethel),
+16–22a (Rachel and Reuben), 22b–29 (the roster and Isaac) — was considered and rejected: the
+chapter's unity is its ledger rather than its plot, **four burials and a birth**, and each third
+loses its force read apart from the other two. 35:1 opens on a direct command from God, which chapter
+34 conspicuously lacked; 36:1 opens a *toledot* on a different subject.
+
+**The pericope's spine, as the page reads it.** Four things go into the ground in twenty-nine verses
+— the household's foreign gods under the oak at Shechem (35:4), [[Deborah (Rebekah's nurse)]] under
+the oak below Bethel (35:8), [[Rachel]] on the road to Ephrath (35:19), [[Isaac]] at Machpelah by
+implication (35:29) — and one child is born, [[Benjamin]], whose birth kills his mother. **The
+chapter completes the house and empties it in the same breath**: 35:23–26 is the Bible's first
+complete roster of the twelve, and it is printed immediately after the verse in which the firstborn
+disqualifies himself.
+
+### Judgment calls, recorded for review
+
+- **[[Deborah (Rebekah's nurse)]] created under exactly the qualifier
+  [[A Wife for Isaac]]'s notes specified in advance**, so Deborah the prophetess and judge (Judges
+  4–5) can take the bare name or her own qualifier later. A bare `Deborah.md` would be a silent
+  basename collision of the kind `AGENTS.md` makes the qualifier rules mandatory for.
+- **[[Bethlehem]] titled by the name that carries the rest of Scripture**, not by *Ephrath*, which
+  goes in `also_known_as` alongside *Ephrathah* — following [[Bethel]], which holds *Luz* the same
+  way.
+- **[[The Tower of Eder]] created thin**, on the [[Esek]] / [[Sitnah]] precedent: a named site that
+  occurs once, that later Scripture picks up (Micah 4:8), and that would otherwise have nowhere to
+  hang.
+- **Deliberately *not* created.** *Allon Bacuth* — a tree, not a settlement, occurring once, already
+  tracked by [[The Trees of the Patriarchs]]. *El Beth El* — an altar name, like *El Elohe Israel* at
+  33:20; altar names live on [[The Names of God]]. **The midwife of 35:17** — unnamed, one line, and
+  the wiki's practice for anonymous single-line figures is to leave them on the passage page. **No
+  `Paddan Aram.md`**, per the standing instruction on [[A Wife for Isaac]].
+
+### Contradictions flagged, none resolved
+
+- **Benjamin's birthplace.** 35:16–19 has him born in Canaan on the road to Ephrath; 35:26 says all
+  twelve *"were born to him in Paddan Aram."* **An internal contradiction inside a single chapter**,
+  which is rarer than the cross-chapter kind. Three readings set out on the passage page —
+  generalizing summary, composite sources, deliberate rounding — and none adopted. Also recorded on
+  [[Aram Naharaim]], [[Canaan]], [[Asher]] (the roster's last name, on whom the formula falls), and
+  [[Benjamin]].
+- **Where Rachel is buried.** Genesis 35:19 and 48:7 gloss *Ephrath* as *Bethlehem*, six miles south
+  of Jerusalem; 1 Samuel 10:2 puts the tomb *"in the border of Benjamin at Zelzah"* and Jeremiah
+  31:15 hears her at Ramah, both ten or more miles north. The new connection page lays out all three
+  locations and four readings and adopts none; it notes only that Matthew 2:18 works on the southern
+  identification.
+- **Bilhah's status, carried forward not newly created.** *Concubine* (35:22), *servant* (35:25),
+  *wife* (30:4; 37:2). This chapter supplies two of the three four verses apart and still does not
+  reconcile them.
+- **The Masoretic break at 35:22**, recorded as a scribal fact. The *piska bĕʾemṣaʿ pasuq* after
+  *"Israel heard of it"* is one of the few mid-verse section breaks in the Hebrew Bible, and the
+  Septuagint's *"and it appeared evil before him"* is an ancient completion of it. **The Greek is
+  recorded as a reading of the break, not as a recovered Hebrew clause** — the footing the wiki
+  already gives the Septuagint's *a field* at 21:33.
+- **Isaac's death reported out of order**, about twelve years after the selling of Joseph on the
+  book's own arithmetic. **Not treated as an error**: it is the *toledot* structure doing what it did
+  with Ishmael at 25:17, and it is now recorded on
+  [[The Other Line First - The Order of the Toledot in Genesis]].
+
+### Pages
+
+**Created (7).** Passage: [[Return to Bethel; the Deaths of Rachel and Isaac]]. People (2):
+[[Benjamin]], [[Deborah (Rebekah's nurse)]]. Places (2): [[Bethlehem]], [[The Tower of Eder]].
+Connections (3): [[Renamed and Still Called Jacob - The Two Namings of Israel]] (the doubled naming
+at 32:28 and 35:10, and the fact that the narrator goes on saying *Jacob* to the end of the book,
+where *Abram* never recurs after 17:5); [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]];
+[[Lying with the Father's Concubine - A Claim on the Succession]] (35:22 with Abner, Absalom, and
+Adonijah, where the later books state the political meaning Genesis withholds).
+
+**Updated (44).** People (21): [[Jacob]], [[Rachel]], [[Isaac]], [[Esau]], [[Reuben]], [[Bilhah]],
+[[Rebekah]], [[God]] (a new per-pericope section), [[Leah]], [[Zilpah]], [[Simeon]], [[Levi]],
+[[Judah]], [[Joseph]], [[Issachar]], [[Zebulun]], [[Dan (person)]], [[Naphtali]], [[Gad]],
+[[Asher]] — the last ten mostly for the roster at 35:23–26, the Bible's first complete list of the
+twelve. Places (7): [[Bethel]], [[Shechem (city)]], [[Mamre (place)]], [[Hebron]], [[Machpelah]],
+[[Canaan]], [[Aram Naharaim]]. Themes (17): [[Idolatry]], [[Names and Naming]],
+[[Burial and the Grave]], [[Oaths and Vows]], [[The Names of God]], [[Sacrifice and Offering]],
+[[Birthright and the Firstborn]], [[Clean and Unclean]], [[Life and Death]], [[The Fear of God]],
+[[Kingship and Empire]], [[Covenant]], [[Blessing]], [[Land and Sojourning]], [[The Nations]],
+[[Sin]], [[Prayer]]. Connections (12): [[The Trees of the Patriarchs]],
+[[Sacrifice Before the Priesthood]], [[The Teraphim - Household Gods in Genesis and After]],
+[[Kings Will Come Out of You]], [[God Almighty - El Shaddai in Genesis and Exodus]],
+[[The Pillar Jacob Raised and the Pillars the Law Forbids]], [[Gathered to His People]],
+[[Buried at Machpelah - The Six Graves of Genesis]],
+[[The Twelve Sons and the Lists That Reorder Them]],
+[[The Altar at Shechem and the Covenant at Shechem]],
+[[Bethel from Jacob's Pillar to Jeroboam's Calf]],
+[[The Other Line First - The Order of the Toledot in Genesis]],
+[[Like Rachel and Like Leah - The Builders of the House of Israel]].
+
+**Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
+summary), `wiki/books/index.md` (**43 / 59 → 44 / 59**), two new rows and twenty rows extended in
+`wiki/people/index.md`, two new rows and seven rows extended in `wiki/places/index.md`, seventeen
+rows extended in `wiki/themes/index.md`, three new rows in `wiki/connections/index.md`.
+`wiki/index.md` now reads **50 passages · 102 people · 56 places · 57 themes · 142 connections**,
+counted against what is on disk and matching exactly.
+
+### Link check
+
+`scripts/link-check.sh` exits **0**. The expected baseline is **64** not-yet-started book pages,
+unchanged, since no new book page was created.
+
+**Links deliberately left for later pericopes** — all given as plain scripture references rather than
+wikilinks, so none is a finding: 36:1–43 (Esau's *toledot*); 37:2 (Bilhah called a *wife* again);
+48:7 (Jacob's own retelling of Rachel's death); 49:3–4, 31, 33 (Reuben disinherited, Rebekah's only
+named burial, Jacob gathered to his people); 42–45 and 49:27 on [[Benjamin]].
+
+**Quotation check.** All twenty-nine verses of Genesis 35 are block-quoted on the passage page and
+were compared against `raw/bible/Genesis.md` mechanically, by a script that re-parsed the block
+quotes and diffed them verse by verse: **29 verse-blocks, 0 mismatches.** The same script was then
+run over every block quote in every file this pass touched, which caught four things worth recording:
+
+- **A block quote must be verbatim, so emphasis does not belong inside one.** Bolding added inside
+  the 35:19 quote on [[Bethlehem]] and inside both quotes on [[Deborah (Rebekah's nurse)]] was
+  removed; the emphasis is now in the prose around them.
+- **The wiki's convention is curly quotes inside block quotes and straight ones in inline quotes.**
+  That is not written down anywhere, but it holds across 89 inline instances on pages this pass
+  barely touched, so it was treated as settled rather than "fixed". One block quote added this pass
+  (35:22 on [[Reuben]]) had a straight apostrophe and was corrected to match every other block quote
+  in the wiki.
+- **Two pre-existing misquotations of the WEB at 49:4, corrected on pages this pass was already
+  editing.** [[Reuben]]'s block quote read *"Boiling over **as** water"* and dropped the verse's last
+  clause; the WEB reads *"Boiling over **like** water … He went up to my couch."* [[Bilhah]] quoted
+  *"unstable as water"*, which is the KJV, attributed to the WEB. Both now match `raw/`. The same
+  phrase was corrected in this pass's own draft of the passage page before commit.
+- **Genesis 24:59 was being quoted from memory.** *"They sent away Rebekah their sister, and her
+  nurse"* is not the WEB, which reads *"They sent away Rebekah, their sister, with her nurse,
+  Abraham's servant, and his men."* Corrected on the passage page and quoted in full on
+  [[Deborah (Rebekah's nurse)]].
+
+Quotations from books not in `raw/` (Exodus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1–2 Samuel,
+1–2 Kings, 1 Chronicles, Micah, Jeremiah, Hosea, Matthew, Philippians) were checked by eye against
+the WEB.
+
+### Noted for a later lint, not fixed here
+
+`wiki/people/God.md` block-quotes Genesis 25:11 as *"After the death of Abraham, God blessed Isaac,
+his son."* and stops there; the verse continues *"Isaac lived by Beer Lahai Roi."* It is a clean
+truncation at a sentence boundary rather than a misquotation, but it carries no ellipsis, and the
+same page's Genesis 32 and 33 sections are still missing — a gap the previous entry already recorded
+and this pass again did not backfill, having added the Genesis 35 section in reference order.

@@ -410,7 +410,23 @@ even fratricidal betrayal into rescue (Joseph).
   carried off. Jacob's objection is about the household's safety and names neither his daughter nor a
   wrong, and the brothers end the chapter on a question — *"Should he deal with our sister as with a
   prostitute?"* — that **Genesis does not answer until the deathbed, fifteen chapters later, and then
-  answers by cursing their anger rather than by ruling on the act** (49:5–7).
+  answers by cursing their anger rather than by ruling on the act** (49:5–7). Then
+  *[[Return to Bethel; the Deaths of Rachel and Isaac]]* closes the cycle by burying it. **Four things
+  go into the ground in twenty-nine verses** — the household's foreign gods under the oak at Shechem,
+  Rebekah's nurse under the oak below Bethel, Rachel on the road to Ephrath, and Isaac at Machpelah —
+  **and one child is born, the birth that kills his mother.** God's command at 35:1 identifies itself
+  by the flight it repays, and the vow sworn at 28:20–22 is finally discharged: the pillar is raised
+  on the ground it was promised for, twenty years and two divine commands late, after a massacre made
+  Shechem unlivable. **The renaming to Israel is performed a second time, now by God and with the
+  promise the Jabbok withheld** — *ʾĒl Šadday*, a company of nations, kings, the land — and the
+  narrator goes on calling him Jacob to the end of the book. Then the losses: Rachel dies bearing the
+  twelfth son, names him *Ben Oni* with her last breath and is overruled, and is the one matriarch left
+  outside the family tomb; Reuben lies with Bilhah in a single sentence the Hebrew scribes break off
+  mid-verse, forfeiting a birthright nobody mentions for fourteen chapters; the twelve are listed by
+  mother for the first time in Scripture, in a roster that says all of them were born in Paddan Aram
+  four verses after one of them was not; and Isaac dies at a hundred eighty, buried by **Esau and
+  Jacob**, the elder named first, in a notice the book's own arithmetic places long after the events
+  of chapter 37.
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -470,7 +486,7 @@ merge, or reorder them freely.
 - [x] [[Wrestling at the Jabbok]] — Genesis 32:1–32
 - [x] [[The Reconciliation with Esau]] — Genesis 33:1–20
 - [x] [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31
-- [ ] Return to Bethel; the Deaths of Rachel and Isaac — Genesis 35:1–29
+- [x] [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1–29
 - [ ] The Descendants of Esau — Genesis 36:1–43
 
 ### Joseph (37–50)

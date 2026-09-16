@@ -239,6 +239,12 @@ where that starts, in a sentence about a family that got halfway.
   together against me and strike me"* (34:30) — ***mĕtê mispār***, the phrase Psalm 105:12 uses of the
   patriarchs as a whole. **Jacob had bought his first piece of ground one chapter earlier (33:19); by
   the end of this one he cannot stay on it**, and the next chapter moves the household to Bethel
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:12, 27; **the promise and the reality
+  in one chapter.** God says *"the land which I gave to Abraham and Isaac, I will give it to you"*
+  (35:12); twenty verses later Jacob arrives at Mamre, *"where Abraham and Isaac lived as
+  **foreigners**"* — ***gār***, the sojourner's verb — **on ground of which the two of them owned one
+  cave.** And [[Rachel]] is buried by the roadside between the two statements, on land nobody in the
+  family has title to. See [[A Stranger and a Foreigner - The Sojourner's Confession]]
 
 ## Related themes
 

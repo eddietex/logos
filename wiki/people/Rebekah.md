@@ -247,6 +247,13 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   Machpelah (49:31). **And her phrase measures the cost**: the *"few days"* she told him to stay
   (27:44, *yāmîm ʾăḥādîm*) is the idiom 29:20 uses for the seven years he served, and they become
   twenty
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:8, 27; **named once, as a
+  possessive, in a verse about someone else's funeral.** *"Deborah, **Rebekah's** nurse, died"* — the
+  anonymous *ʾōmenet* who left Paddan Aram with her at 24:59 is given a name, a burial, and a tree
+  called *oak of weeping*. **Genesis never narrates Rebekah's own death.** Jacob reaches Mamre twenty
+  verses later, and the book does not say whether she was alive, does not report her dying, and does
+  not record them meeting. **Her nurse gets a death notice in this chapter; she gets a list entry at
+  49:31**
 
 ## Related people
 
@@ -258,6 +265,9 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[Laban]] — her brother, who runs the negotiation, takes the gifts, and tries to keep her ten more
   days; she will send her own son to him a lifetime later
 - [[Abraham's Servant]] — the unnamed man who prays for her arrival and hands her over in one clause
+- [[Deborah (Rebekah's nurse)]] — the woman who left Paddan Aram with her, unnamed; **named at her own
+  burial below Bethel at 35:8, in the only death notice anyone attached to this household gets and
+  Rebekah does not**
 - [[Abraham]] — her great-uncle, and her father-in-law
 - [[Sarah]] — her mother-in-law, who dies before she is fetched; Genesis 24:67 says Isaac was
   comforted after his mother's death, which is the only thing it ever puts between the two women

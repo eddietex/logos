@@ -43,8 +43,9 @@ of Genesis attested outside the Bible.**
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"How fortunate!"* — Genesis 30:10–11,
   [[The Birth of Jacob's Children]]
-- Listed among the twelve; seven sons at the descent into Egypt — Genesis 35:26; 46:16 *(not yet
-  ingested)*
+- Listed among the twelve, first of [[Zilpah]]'s two sons — Genesis 35:26,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Seven sons at the descent into Egypt — Genesis 46:16 *(not yet ingested)*
 - Blessed at Jacob's deathbed; the troop and the heel — Genesis 49:19 *(not yet ingested)*
 - Numbers 32 — the request for land east of the Jordan; Deuteronomy 33:20–21 — Moses' blessing
 - Isaiah 65:11 — *Gad* as a deity with a table prepared for him
@@ -54,6 +55,8 @@ of Genesis attested outside the Bible.**
 - [[The Birth of Jacob's Children]] — Genesis 30:10–11; the seventh son, borne by a slave produced to
   match a sister's move, and named with a word for luck. **One of the two namings in the passage with no
   God in them**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:26; **a name in a list.** First of
+  Zilpah's two, in the last verse of the Bible's first complete roster of the twelve
 
 ## Related people
 

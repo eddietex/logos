@@ -11,7 +11,9 @@ tags: [connection]
   Kings will come out of you"*, and of Sarah, *"Kings of peoples will come from her."* The Bible's
   first promise of monarchy. See [[Circumcision, the Sign of the Covenant]].
 - **Genesis 35:11** — the same promise transferred to Jacob at Bethel, under the same divine name:
-  *"I am God Almighty … and kings will come out of your body."*
+  *"I am God Almighty … and kings will come out of your body."* **The third and last of its three
+  Genesis occurrences**, and the only one given to a man who already has the twelve sons the kings
+  will descend from. See [[Return to Bethel; the Deaths of Rachel and Isaac]].
 - **Genesis 36:31** — the note that dates the whole thread: *"These are the kings who reigned in the
   land of Edom, before any king reigned over the children of Israel."*
 - **Genesis 49:10** — *"The scepter will not depart from Judah, nor the ruler's staff from between

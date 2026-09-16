@@ -145,6 +145,15 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   preserved"* (32:30). Contrast 28:17's *mah-nôrāʾ*, dread named as the immediate response to a far
   gentler theophany. **The chapter names fear where the danger is uncertain and states only survival
   where, on Jacob's own account, it was greatest**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:5; ***ḥittat ʾĕlōhîm***, **a phrase
+  that occurs nowhere else in the Bible.** *"A terror of God was on the cities that were around them,
+  and they didn't pursue the sons of Jacob."* The root *ḥ-t-t* is the conquest vocabulary — *"I will
+  send my terror before you"* (Exodus 23:27), *"all the inhabitants of the land melt away"* (Joshua
+  2:9) — **spent here on a single family fleeing a town its own sons have just sacked.** Nobody asks
+  for it, nobody is told about it, Genesis reports it in a subordinate clause, and **[[Jacob]] is
+  never shown learning it happened.** It is the exact answer to his complaint at 34:30, which named no
+  wrong and asked for nothing. **This is the fear of God as something God puts on other people**,
+  distinct from every other use on this page
 
 ## Related themes
 

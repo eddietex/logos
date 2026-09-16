@@ -96,6 +96,13 @@ These are not exclusive, and the third is the one the text argues for by itself.
   which bird gets sent where
 - [[The Covenant with Noah]] — the distinction conspicuously *not* invoked: every moving thing granted
   as food, with blood as the only restriction
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2; **the Sinai preparation performed
+  four centuries early by a householder.** *"Put away the foreign gods that are among you, ***purify
+  yourselves***, change your garments"* — ***hiṭṭahărû***, the *ṭ-h-r* root that Leviticus will build
+  its whole vocabulary on, **here in its first imperative use in Scripture** — and the pairing with
+  changed garments is exactly Exodus 19:10, 14, where Israel is consecrated before the mountain.
+  **There is no priest, no sanctuary, and no law**, and Genesis does not say what the purification
+  consisted of
 
 ## Related themes
 

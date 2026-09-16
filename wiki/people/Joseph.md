@@ -62,6 +62,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   said to Laban, 'Send me away'"* — Genesis 30:25, [[Jacob's Flocks]]
 - Placed with Rachel at the rear of the household, the position of least exposure, at the meeting
   with Esau — Genesis 33:2, 7, [[The Reconciliation with Esau]]
+- Listed among the twelve, first of [[Rachel]]'s two sons — Genesis 35:24,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Loved more than his brothers; the coat and the dreams — Genesis 37:1–11 *(not yet ingested)*
 - Sold into Egypt on Judah's proposal — Genesis 37:25–36 *(not yet ingested)*
 - Potiphar's house, the prison, and the dreams of the cupbearer and the baker — Genesis 39–40 *(not yet
@@ -88,6 +90,11 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[The Reconciliation with Esau]] — Genesis 33:2, 7; placed with [[Rachel]] at the rear of the
   household as it approaches Esau — the position of least exposure, and consistent with *"he loved
   also Rachel more than Leah"* (29:30). He does not speak or act
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:17–18, 24; **named at his brother's
+  birth without being present for it.** The midwife's *"now you will have another son"* is [[Rachel]]'s
+  own naming of him quoted back at her as it kills her — *yōsēp*, *may Yahweh add* (30:24) — and the
+  son she is granted is [[Benjamin]], his only full brother. **In the roster four verses later the
+  by-mother ordering moves him from eleventh by birth to seventh**
 
 ## Related people
 
@@ -97,6 +104,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   used of his wives
 - [[Judah]] — who proposes selling him and who eventually offers himself in Benjamin's place
 - [[Reuben]] — who tries to save him from the pit, and whose birthright he receives
+- [[Benjamin]] — **his only full brother**, born of the *"another son"* Rachel asked for in naming
+  him; the whole second half of the Joseph narrative is a test built around him
 - [[Leah]] — his aunt, whose six sons precede him
 - [[Bilhah]] and [[Zilpah]] — the mothers of four of his brothers, whose sons he is with at 37:2
 

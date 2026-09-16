@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Genesis 29:31–30:24; 35:16–18** — the births, in the order they happen: eleven sons and a daughter
   in Paddan Aram, and Benjamin on the road to Ephrath
-- **Genesis 35:22–26** — the first list, **grouped by mother**
+- **Genesis 35:22–26** — **the first complete list**, grouped by mother: wives before slaves,
+  birth order within each. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - **Genesis 46:8–25** — the descent into Egypt, by mother with grandsons counted, totalling seventy
 - **Genesis 49:1–28** — Jacob's blessing, and its own order
 - **Exodus 1:1–5** — the eleven who came with Jacob, with Joseph already in Egypt

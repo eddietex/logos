@@ -9,8 +9,10 @@ tags: [connection]
 
 - **Genesis 31:19, 30–35** — Rachel steals her father's *teraphim*, hides them in a camel's saddle,
   and sits on them through a search — [[Jacob's Flight from Laban]]
-- **Genesis 35:2–4** — *"put away the foreign gods that are among you"*, buried under the oak at
-  Shechem *(not yet ingested)*
+- **Genesis 35:2–4** — *"put away the foreign gods that are among you"*, surrendered with the
+  household's earrings and ***hidden*** — not destroyed — under the oak at Shechem. **Genesis never
+  says whether Rachel's stolen *teraphim* were among them**, and never mentions them again —
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - **Judges 17:5; 18:14–20** — Micah's household shrine, with an ephod and *teraphim*, and the Danites
   who carry the lot of it off
 - **1 Samuel 15:23** — *"stubbornness is as idolatry and teraphim"*

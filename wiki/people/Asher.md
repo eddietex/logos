@@ -43,7 +43,9 @@ named in the New Testament as a living identity.**
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"the daughters will call me happy"* — Genesis 30:12–13,
   [[The Birth of Jacob's Children]]
-- Listed among the twelve; four sons and a daughter, Serah — Genesis 35:26; 46:17 *(not yet ingested)*
+- Listed among the twelve, last of [[Zilpah]]'s two sons — Genesis 35:26,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Four sons and a daughter, Serah, at the descent into Egypt — Genesis 46:17 *(not yet ingested)*
 - Blessed at Jacob's deathbed; *"his food will be rich"* — Genesis 49:20 *(not yet ingested)*
 - Deuteronomy 33:24–25; Joshua 19:24–31; Judges 1:31–32; 5:17 — the oil, the coast, and the tribe that
   stayed at the harbours
@@ -54,6 +56,9 @@ named in the New Testament as a living identity.**
 - [[The Birth of Jacob's Children]] — Genesis 30:12–13; the eighth son, and the second of the two
   namings in the passage that mention neither God nor Jacob. **His mother names him for a future
   reputation**, in the middle of a contest she is conducting with her sister
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:26; **a name in a list**, and the
+  last of the twelve in it. The roster ends on him and then declares that all twelve *"were born to
+  him in Paddan Aram"* — which [[Benjamin]], born seven verses earlier in Canaan, was not
 
 ## Related people
 

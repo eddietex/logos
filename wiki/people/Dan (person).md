@@ -47,7 +47,9 @@ been explained by any text. See
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
   [[The Birth of Jacob's Children]]
-- Listed among the twelve; one son, Hushim — Genesis 35:25; 46:23 *(not yet ingested)*
+- Listed among the twelve, first of [[Bilhah]]'s two sons — Genesis 35:25,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- One son, Hushim, at the descent into Egypt — Genesis 46:23 *(not yet ingested)*
 - Blessed at Jacob's deathbed; the judge and the serpent — Genesis 49:16–18 *(not yet ingested)*
 - Judges 13–16 — Samson, the tribe's one judge; Judges 18 — the migration, the stolen idols, and the
   renaming of Laish
@@ -58,6 +60,9 @@ been explained by any text. See
 - [[The Birth of Jacob's Children]] — Genesis 30:5–6; the fifth son, borne by a slave and named by her
   mistress as a ruling in a family dispute. **Rachel's first of two verdicts**, and the first of four
   tribes named by women who did not bear them
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:25; **a name in a list**, and a
+  demotion in it. Strict birth order makes him fifth of the twelve; the roster's by-mother
+  arrangement puts him ninth, behind both of [[Rachel]]'s sons and all six of [[Leah]]'s
 
 ## Related people
 

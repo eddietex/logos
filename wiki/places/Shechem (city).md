@@ -82,6 +82,12 @@ same spot.
   sons kill every male in it on the third day. **The Bible's first city to be destroyed by Israelites
   is destroyed four centuries before the conquest, by two men, over one woman, and Genesis passes no
   verdict on it in the chapter itself**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4; **the last thing the household
+  does here is bury something.** Ordered to Bethel, Jacob collects the foreign gods and the earrings
+  and ***hides*** them — not burns, not grinds to powder — *"under the oak which was by Shechem"*,
+  **on the field he bought at 33:19 and is now abandoning.** The town he paid for, built an altar at,
+  and made unlivable is left with an idol hoard under its landmark tree, and Genesis never says whose
+  the gods were
 
 ## Related places
 
@@ -100,7 +106,9 @@ same spot.
 - Dinah is seized by the city's prince, the whole town is circumcised on Jacob's sons' terms, and
   Simeon and Levi kill every male of it on the third day — Genesis 34:1–31,
   [[Dinah and the Massacre at Shechem]]
-- Jacob buries the household's foreign gods under the oak — Genesis 35:4 *(not yet ingested)*
+- Jacob buries the household's foreign gods and earrings under the oak, on his own bought field, on
+  the way out to Bethel — Genesis 35:4,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
 - Joshua's covenant renewal — Joshua 24:1–27
 - Abimelech's kingship and the destruction of the city — Judges 9

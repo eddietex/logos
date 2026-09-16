@@ -163,7 +163,8 @@ Israel."*
   time — Genesis 33:8–11
 - Offers his company twice, is declined twice, and returns to Seir as he said he would — Genesis
   33:12–16
-- Buries Isaac with Jacob, named first — Genesis 35:29 *(not yet ingested)*
+- Buries Isaac with Jacob, named first — Genesis 35:29,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Settles in Seir; his *toledot*, chiefs, and kings — Genesis 36 *(not yet ingested)*
 
 ## Appears in
@@ -203,6 +204,12 @@ Israel."*
   takes it once pressed, called by a word — *blessing* — he does not remark on. He offers his company
   twice, is declined twice without apparent offense, and is the only one of the two brothers whose
   stated plan for the road ahead — back to Seir — the text actually shows him keeping
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:29; **one clause, and it is a
+  funeral.** *"Esau and Jacob, his sons, buried him"* — **the elder named first**, against 28:5's
+  *"Jacob and Esau"*, against 25:9's *"Isaac and Ishmael"* where the covenant son came first at the
+  previous patriarch's grave, and against everything the cycle has done with these two since the
+  oracle. **The last thing the brothers do together in Genesis gives him the precedence the whole book
+  took from him**, and he does not speak
 
 ## Related people
 

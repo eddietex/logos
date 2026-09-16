@@ -137,6 +137,12 @@ already did.
   a foreign king's household (20:17); Isaac prayed; **Jacob is the only one of the three asked directly,
   and the only one who declines.** See
   [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]]
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:17; **a request granted, quoted back
+  to the requester, and fatal.** [[Rachel]] named [[Joseph]] for a prayer — *"may Yahweh **add**
+  another son to me"* (30:24) — and the midwife delivers the answer in those terms: *"Don't be afraid,
+  for now you will have another son."* **The comfort is factually correct and useless**, in the
+  register of her husband's *"Am I in God's place?"* at 30:2. **The one prayer of hers Genesis records
+  being answered in the words she used is the one that kills her.**
 
 ## Related themes
 

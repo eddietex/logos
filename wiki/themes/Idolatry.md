@@ -81,6 +81,16 @@ imperative in the epistles: *"Little children, keep yourselves from idols"* (1 J
   reason in the text.
 
 ## Related themes
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any
+  patriarch conducts, and God did not ask for it.** The command was *arise, go up, live there, build
+  an altar*; Jacob's reply to his household opens with a fifth imperative — *"Put away the foreign
+  gods that are among you, purify yourselves, change your garments"* — in the vocabulary Exodus
+  19:10, 14 will use for Sinai. **He hides them rather than destroying them**, under the oak at
+  Shechem, where Moses grinds the calf to powder (Exodus 32:20) and Josiah burns bones on the altar
+  (2 Kings 23:15–16). **And Genesis never says whose gods they were**, four chapters after telling us
+  [[Rachel]] stole her father's. The earrings surrendered with them are *nəzāmîm* — **the word of
+  Exodus 32:2–3**, where the same ornaments are collected and made into a calf, which ends up in this
+  same town (1 Kings 12:28–29)
 
 - [[Prophecy and Vision]] — divination as the practice the law will class with false prophecy
 - [[The Names of God]] — the titles Genesis lets outsiders use, correctly and incorrectly

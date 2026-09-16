@@ -65,6 +65,16 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   12:8**, and this verse admits it: *"the name of the city was Luz at the first."* Six occurrences of
   ***māqôm*** in twelve verses, which is the Hebrew word for a sanctuary site, applied to a field
   before anybody knows it is one
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1–15; **the vow comes due.** God
+  sends him back by naming the flight the site repays — *"who appeared to you when you fled from the
+  face of Esau your brother"* — and Jacob, who had gone to Shechem instead and stayed there through a
+  massacre, moves the same day. **He adds a purge nobody commanded**, surrenders the household's
+  foreign gods and earrings under the oak at [[Shechem (city)]], travels under *a terror of God*, and
+  builds and names an altar **El Beth El**. Then God appears *"again"*, renames him Israel a second
+  time with *ʾĒl Šadday* and the promise the Jabbok withheld, **and he sets his fourth pillar and
+  pours the Bible's first drink offering on it** — 28:20–22 discharged at last, twenty years late,
+  with no one in the text remarking on it. The town is glossed *"Luz (that is, Bethel)"* a second
+  time, and named by him a second time
 - [[Jacob's Flight from Laban]] — Genesis 31:13; **not visited, and turned into a name for God.**
   ***"I am the God of Bethel, where you anointed a pillar, where you vowed a vow to me"*** —
   **the only place-name title God takes anywhere in Scripture.** Six years and four hundred miles
@@ -74,7 +84,10 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 ## Related places
 
 - [[Ai]] — the town on the other side of Abram's camp, a mile or two east
-- [[Shechem (city)]] — his first stop, twenty miles north along the same ridge
+- [[Shechem (city)]] — his first stop, twenty miles north along the same ridge; where the foreign gods
+  are buried before the household comes here
+- [[Bethlehem]] — fifteen miles south; **[[Rachel]] dies on the road between the two sanctuaries of
+  the Jacob cycle**
 - [[Canaan]] — the land both sit in
 - [[The Negev]] — where he goes next
 
@@ -88,7 +101,11 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   Genesis 28:10–22, [[Jacob's Ladder at Bethel]]
 - Invoked in absentia as a divine title — *"I am the God of Bethel"* — and the vow made here recalled
   as the reason to leave Paddan Aram — Genesis 31:13, [[Jacob's Flight from Laban]]
-- Jacob builds the altar he was sent back for — Genesis 35:1–15 *(not yet ingested)*
+- Jacob builds the altar he was sent back for and names it *El Beth El*; the second naming of the
+  town; the fourth pillar and the Bible's first drink offering; the second renaming to Israel —
+  Genesis 35:1–15, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- [[Deborah (Rebekah's nurse)]] buried under the oak below the town, which is named *Allon Bacuth*,
+  oak of weeping — Genesis 35:8
 - Jeroboam sets up a golden calf — 1 Kings 12:28–29
 - Amos is expelled by Amaziah its priest — Amos 7:10–13
 - Josiah destroys the altar — 2 Kings 23:15–16

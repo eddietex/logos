@@ -79,6 +79,11 @@ recorded here as such.
   a rhetorical question, weighed out in silver, itemized like a deed, and witnessed at the gate
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9–10; the buyer laid in it by two
   estranged sons, with the field, the cave, Ephron, Mamre, and the children of Heth all named again
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:19–20, 29; **the chapter that
+  supplies the cave's third occupant and its one permanent absentee.** [[Isaac]] dies at Mamre and is
+  buried by both sons — **the cave is not named**, and only 49:31 confirms it — while [[Rachel]] dies
+  on the road to Ephrath and is buried where she fell under a pillar, twenty miles short of it.
+  **The loved wife is the one matriarch never carried here**
 
 ## Related places
 
@@ -96,6 +101,8 @@ recorded here as such.
 - Sarah is buried — Genesis 23:19
 - Abraham is buried by Isaac and Ishmael, and the deed is recited in full for the third of five
   times — Genesis 25:9–10, [[The Death of Abraham and the Line of Ishmael]]
+- Isaac dies at Mamre and is buried by Esau and Jacob; **the cave is not named in the notice**, and
+  49:31 is what places him here — Genesis 35:29, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Isaac, Rebekah, and Leah are buried; Jacob recites the deed and makes his sons swear — Genesis
   49:29–32 *(not yet ingested)*
 - Jacob is carried up from Egypt and buried — Genesis 50:13 *(not yet ingested)*

@@ -60,6 +60,11 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   negotiation at the city gate makes Abraham the owner of a field in it
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9–10; the second of its six graves,
   and the town is not named — Genesis located it once, at 23:19, and never repeats the gloss
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:27–29; **all three of its names in one
+  verse.** *"To Mamre, to Kiriath Arba (which is Hebron), where Abraham and Isaac lived as
+  foreigners"* — the only place in the book that gives the grove, the old town name, and the gloss
+  together, and it does so to say that two generations **sojourned** there. Jacob reaches his father
+  here after twenty years; [[Isaac]] dies at a hundred eighty and is buried by [[Esau]] and [[Jacob]]
 
 ## Related places
 
@@ -84,6 +89,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   shekels, witnessed at the city gate — Genesis 23:1–20, [[Nahor's Line and the Burial of Sarah]]
 - Abraham buried there by Isaac and Ishmael — Genesis 25:9–10,
   [[The Death of Abraham and the Line of Ishmael]]
+- Jacob reaches Isaac here; Isaac dies at a hundred eighty and is buried by both sons — Genesis
+  35:27–29, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Isaac, Rebekah, Leah, and Jacob buried there — Genesis 49:31; 50:13 *(not yet ingested)*
 - The spies find the Anakim in it — Numbers 13:22
 - Caleb takes it and is given it as an inheritance — Joshua 14:13–15; 15:13–14

@@ -13,6 +13,9 @@ tags: [connection]
   fruitful, and multiply you."* See [[Isaac Sends Jacob to Paddan Aram]].
 - **Genesis 35:11** — at Bethel, with Jacob's renaming: *"I am God Almighty. Be fruitful and multiply.
   A nation and a company of nations will be from you, and kings will come out of your body."*
+  **The last time God speaks the title in Genesis**, and **it grants Isaac's petition at 28:3 in the
+  same name and the same verbs** — *bless*, *make fruitful*, *multiply*, *a company of peoples*. See
+  [[Return to Bethel; the Deaths of Rachel and Isaac]].
 - **Genesis 43:14** — Jacob sending his sons back to Egypt: *"May God Almighty give you mercy before
   the man."*
 - **Genesis 48:3; 49:25** — Jacob's last two uses, quoting Bethel and blessing Joseph.

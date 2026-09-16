@@ -45,7 +45,9 @@ ground Jesus' ministry begins on.
 
 - Born to [[Leah]], her sixth son; *"God has endowed me with a good dowry"* — Genesis 30:19–20,
   [[The Birth of Jacob's Children]]
-- Listed among the twelve; three sons — Genesis 35:23; 46:14 *(not yet ingested)*
+- Listed among the twelve, last of [[Leah]]'s six sons — Genesis 35:23,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Three sons at the descent into Egypt — Genesis 46:14 *(not yet ingested)*
 - Blessed at Jacob's deathbed; *"the haven of the sea"* — Genesis 49:13 *(not yet ingested)*
 - Judges 5:14, 18 — the tribe that jeopardized its life on the heights
 - Isaiah 9:1; Matthew 4:13–16 — Zebulun and Naphtali, contempt and then a great light
@@ -55,6 +57,9 @@ ground Jesus' ministry begins on.
 - [[The Birth of Jacob's Children]] — Genesis 30:19–20; the tenth son, and **the only name in the
   passage given two Hebrew roots in one verse.** His mother's speech is also the one that shows her
   returning to the argument she had seemed to leave behind at Judah's birth
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list.** Last of
+  Leah's six in the Bible's first complete roster of the twelve, which orders the sons by mother
+  rather than by age
 
 ## Related people
 

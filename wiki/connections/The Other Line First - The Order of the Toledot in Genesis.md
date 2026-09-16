@@ -12,6 +12,10 @@ tags: [connection]
 - **Genesis 25:12–18 / 25:19** — *"the generations of Ishmael"*, then *"the generations of Isaac"*
 - **Genesis 36:1–43 / 37:2** — a whole chapter of *"the generations of Esau"*, then *"the generations
   of Jacob"*
+- **Genesis 35:28–29** — the same device applied to a death rather than a genealogy: Isaac's dying is
+  reported here, at the close of his account, **though the book's own arithmetic places it about
+  twelve years after the selling of Joseph** — exactly as Ishmael's death is reported at 25:17 before
+  the Jacob narrative begins. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Genesis 11:10, 27 — the two *toledot* of the transitional pericope, and the one Genesis never gives
 - Genesis 2:4; 5:1; 6:9 — the other four occurrences of the formula
 

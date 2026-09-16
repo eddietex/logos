@@ -61,6 +61,8 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   [[The Birth of Jacob's Children]]
 - With [[Levi]], proposes the circumcision and destroys Shechem after the rape of [[Dinah]] — Genesis
   34:13–31, [[Dinah and the Massacre at Shechem]]
+- Listed among the twelve, second of [[Leah]]'s six sons — Genesis 35:23,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Bound by Joseph and held in Egypt as security — Genesis 42:24, 36; 43:23 *(not yet ingested)*
 - Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
   ingested)*
@@ -73,6 +75,9 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:13–31; **one of the two who plan it, wait three
   days, and carry it out**, and one of the two voices in the chapter's unanswered last line. The
   chapter gives him no speech of his own — the brothers speak in the plural throughout
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list.** Second of
+  Leah's six in the Bible's first complete roster of the twelve, one chapter after the massacre at
+  Shechem and with no reference to it
 
 ## Related people
 

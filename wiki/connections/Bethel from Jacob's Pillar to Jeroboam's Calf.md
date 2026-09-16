@@ -10,7 +10,10 @@ tags: [connection]
 - Genesis 12:8; 13:3–4 — Abram's altar on the ridge, at a site the narrator calls Bethel before it is
   named
 - Genesis 28:10–22 — the stairway, the pillar, and the naming
-- Genesis 35:1–15 — sent back; the foreign gods buried, the altar built, the pillar raised again
+- Genesis 35:1–15 — sent back; the foreign gods **and the household's earrings** surrendered and
+  buried, the altar built and named *El Beth El*, the pillar raised again with a drink offering. The
+  earrings are ***nəzāmîm*** — **the word of Exodus 32:2–3**, where the same ornaments are collected
+  and cast into a calf, and the calf ends up in this town. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Judges 20:18, 26–28 — the ark at Bethel, and Israel enquiring of God there
 - 1 Samuel 7:16 — Bethel on Samuel's circuit
 - 1 Kings 12:26–33 — Jeroboam's two calves, and the one at Bethel

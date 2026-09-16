@@ -22,7 +22,12 @@ tags: [connection]
 - **Genesis 31:54** — ***wayyizbaḥ yaʿăqōb zebaḥ***, **the first *zebaḥ* in Scripture** and the first
   covenant meal: a sacrifice that is eaten rather than burnt, on a mountain, with no altar named and
   no priest — [[Jacob's Flight from Laban]].
-- **Genesis 35:1–7** *(not yet ingested)* — the rest of the patriarchs' altars.
+- **Genesis 35:1–3, 7, 14** — the altar at Bethel, **the only patriarchal altar God orders in
+  advance** rather than receiving after the fact; and ***nesek***, **the first drink offering in
+  Scripture**, poured on a standing stone by a herdsman — a rite the law will make priestly and
+  invariable (Exodus 29:40; Numbers 15:5–10). The household is also told to *purify yourselves* and
+  *change your garments*, which is Exodus 19:10, 14's preparation for Sinai performed without a
+  priest — [[Return to Bethel; the Deaths of Rachel and Isaac]].
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.

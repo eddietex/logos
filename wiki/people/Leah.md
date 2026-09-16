@@ -156,6 +156,8 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - Her tent searched third of four for the missing household gods — Genesis 31:33
 - Placed ahead of Rachel, behind the slaves, at the meeting with Esau — Genesis 33:1–2,
   [[The Reconciliation with Esau]]
+- Named in the roster of the twelve as mother of six of them — Genesis 35:23,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Buried at Machpelah; *"there I buried Leah"* — Genesis 49:31 *(not yet ingested)*
 
 ## Appears in
@@ -187,6 +189,11 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   **She is absent from every scene of the chapter her daughter is in**, and the two brothers who
   avenge Dinah are specified as *Dinah's brothers* (34:25) rather than as Jacob's sons, which is to
   say: **the avengers are Leah's, and the narrator says so without drawing the inference**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **named once, as the head of the
+  longest column.** *"The sons of Leah: Reuben (Jacob's firstborn), Simeon, Levi, Judah, Issachar, and
+  Zebulun"* — **six of the twelve, more than the other three mothers together**, in the Bible's first
+  complete roster. She does not speak. Her sister dies on a roadside three verses later and Leah is
+  the one eventually buried with the patriarchs
 
 ## Related people
 

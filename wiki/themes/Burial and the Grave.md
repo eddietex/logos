@@ -109,6 +109,14 @@ assumption is that a body left out is a person left out.**
 - Ezekiel 37:12–13 — the graves opened
 
 ## Related themes
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into
+  the ground in twenty-nine verses, more than any other chapter in the book.** The household's foreign
+  gods under the oak at Shechem; [[Deborah (Rebekah's nurse)]] under the oak below Bethel, at a tree
+  renamed ***ʾAllôn Bākût***, oak of weeping — **the only tree in Scripture named for a funeral**;
+  [[Rachel]] where she fell on the road to Ephrath, under a pillar the narrator says stands *"to this
+  day"*, **the one matriarch never carried to [[Machpelah]]**; and [[Isaac]], *gathered to his people*
+  and buried by both sons with the elder named first. **A nurse gets a death notice and a named grave
+  in this chapter and [[Rebekah]] never gets one at all**
 
 - [[Life and Death]] — the dying; this theme is what happens next
 - [[Land and Sojourning]] — the grave as the only executed clause of the land promise

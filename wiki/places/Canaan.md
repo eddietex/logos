@@ -191,3 +191,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   13, [[Jacob's Flight from Laban]]
 - Jacob counts his household against *"the Canaanites and the Perizzites"* after the sack of Shechem
   — Genesis 34:30, [[Dinah and the Massacre at Shechem]]
+- *"So Jacob came to Luz (that is, Bethel), **which is in the land of Canaan**"*; the land promised to
+  Abraham and Isaac is given again, in the perfect tense, to a man who owns one field in it — Genesis
+  35:6, 12, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- [[Benjamin]] is born on the road to Ephrath — **the only one of the twelve born in the land**, four
+  verses before the roster says all twelve were born in Paddan Aram — Genesis 35:16–19, 26

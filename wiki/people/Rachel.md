@@ -119,15 +119,50 @@ up before you; for I'm having my period"* (31:35). **Her tent is searched last o
 where the reader knows the gods are**, and the scene is narrated as farce. **They are never found,
 never returned, and never mentioned again.**
 
+### In this pericope — Genesis 35:1–29
+
+**She dies getting exactly what she asked for.**
+
+When she named [[Joseph]] she named him for a second son she did not have — *"May Yahweh **add**
+another son to me"* (30:24). **Here a midwife quotes the request back to her at the moment it is
+granted**: *"Don't be afraid, for now you will have another son"* (35:17). **The comfort is
+factually correct and useless**, in the register of her husband's *"Am I in God's place?"* eleven
+verses of her life earlier. See [[Prayer]] and
+[[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]].
+
+***"There was still some distance to come to Ephrath"*** ***Kibrat hāʾāreṣ***, **an unknown unit
+used three times in the Bible and all three about this same stretch of road** (35:16; 48:7; 2 Kings
+5:19). The one measurement Genesis gives for where she dies is a word the language did not keep.
+
+***"As her soul was departing (for she died), she named him Benoni, but his father named him
+Benjamin"*** (35:18). **The one naming in Genesis that is overruled, and the only one performed by a
+dying woman.** ***Ben-ʾônî*** is genuinely ambiguous: *ʾôn* is **vigour, strength** — the noun in
+*"Reuben … the beginning of my strength"* (49:3) — and *ʾāwen* is **sorrow, trouble**, which is the
+sense nearly every translation takes. **Son of my strength or son of my sorrow**, spoken with her
+last breath, and replaced by [[Jacob]] in the same verse. See [[Benjamin]] and [[Names and Naming]].
+
+***"Rachel died, and was buried on the way to Ephrath (also called Bethlehem)."*** **She is the one
+matriarch not carried to Machpelah.** Sarah, Abraham, Rebekah, Isaac, Leah, and Jacob all go into the
+cave; **she is buried where she falls**, under the last of Jacob's four pillars — **the only one he
+sets over a person** — and the narrator adds *"to this day."* **The loved wife is left on the
+roadside and the unloved one is buried with the patriarchs.** See
+[[Buried at Machpelah - The Six Graves of Genesis]] and [[Leah]].
+
+**And where that roadside is, is disputed.** 1 Samuel 10:2 puts her tomb *"in the border of Benjamin
+at Zelzah"* and Jeremiah 31:15 hears her at **Ramah**, both ten miles north of Bethlehem and on the
+other side of Jerusalem; Matthew 2:18 reads the southern identification. **The wiki lays out all
+three and adopts none**; see [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and [[Bethlehem]].
+
+**Two things this chapter does not say about her.** The household purges its *"foreign gods"* at 35:2–4
+and **Genesis never accounts for the *teraphim* she stole at 31:19** — a purge of household gods four
+chapters after a theft of household gods, and the book declines to connect them. And **the ancient
+reading that Jacob's *"anyone you find your gods with shall not live"* (31:32) is discharged here is
+not the text's**; Genesis draws no line between the two verses, and the wiki records the reading as a
+reading.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
-
-She dies on the road to
-Ephrath bearing that second son, names him **Ben Oni**, *son of my sorrow*, with her last breath, and
-is overruled: *"his father called him Benjamin"* (35:18). **Jacob buries her where she falls and sets
-up a pillar** — the fourth and last of his standing stones — and she is the one matriarch not carried
-to Machpelah.
 
 Her name outlives all of it. Ruth 4:11 blesses a bride *"like Rachel and like Leah, which two built
 the house of Israel"* — **and names her first**, though the royal line comes through her sister. And
@@ -159,8 +194,10 @@ over the killing of the infants at Bethlehem. See
 - Hides the gods in a camel's saddle, sits on them, and stops the search — Genesis 31:34–35
 - Placed with Joseph at the rear of the household, the position of least exposure, at the meeting
   with Esau — Genesis 33:2, 7, [[The Reconciliation with Esau]]
-- Dies bearing Benjamin on the road to Ephrath; the pillar over her grave — Genesis 35:16–20 *(not yet
-  ingested)*
+- Dies bearing [[Benjamin]] on the road to Ephrath; names him *Ben Oni* and is overruled; the fourth
+  pillar set over her grave — Genesis 35:16–20,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Named in the roster of the twelve as mother of Joseph and Benjamin — Genesis 35:24
 
 ## Appears in
 
@@ -187,6 +224,12 @@ over the killing of the infants at Bethlehem. See
 - [[The Reconciliation with Esau]] — Genesis 33:2, 7; placed with [[Joseph]] at the rear of the
   household as it approaches Esau — the position of least exposure, and consistent with *"he loved
   also Rachel more than Leah"* (29:30). She does not speak or act
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:16–20, 24; **she dies getting
+  exactly what she asked for.** A midwife quotes her own naming of Joseph back to her — *"now you will
+  have another son"* — as the labour kills her; she names the child *Ben Oni* with her last breath and
+  **is overruled in the same verse**, the one naming in Genesis that is; and she is buried where she
+  fell under the last of her husband's four pillars, **the one matriarch not carried to Machpelah**.
+  The chapter also purges the household's foreign gods without ever mentioning the ones she stole
 
 ## Related people
 
@@ -201,6 +244,8 @@ over the killing of the infants at Bethlehem. See
 - [[Zilpah]] — her sister's slave
 - [[Joseph]] — her first son, born after *"God remembered Rachel"*, and the one she names for a second
   son she does not have
+- [[Benjamin]] — the second son she names him for; she gets him, names him *Ben Oni* as she dies, and
+  is overruled by his father in the same verse
 - [[Dan (person)]] and [[Naphtali]] — Bilhah's sons, borne for her and named by her as two rulings in
   her favour
 

@@ -133,3 +133,8 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   Genesis 31:47, [[Jegar Sahadutha - The Only Aramaic in the Torah]]
 - The boundary oath at [[Galeed]] fixes the family on the far side of it, and **nobody in the covenant
   line ever returns** — Genesis 31:51–55
+- Named twice in the chapter that closes the Jacob cycle: *"God appeared to Jacob again, when he came
+  from Paddan Aram"* (35:9), and the roster's closing formula, *"These are the sons of Jacob, who were
+  born to him in Paddan Aram"* (35:26) — **which [[Benjamin]], born seven verses earlier in Canaan,
+  was not.** The contradiction is internal to one chapter and the wiki adopts no resolution of it —
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]

@@ -143,3 +143,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] | thread | Genesis 34:13–31 · Genesis 49:5–7 · Exodus 32:26–29 · Numbers 25:6–13 · Deuteronomy 33:8–11 · Joshua 19:1, 9 · Numbers 26:14 · Numbers 35:1–8 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
+| [[Renamed and Still Called Jacob - The Two Namings of Israel]] | parallel | Genesis 32:28 · Genesis 35:9–10 · Genesis 17:5, 15 · Genesis 35:21–22 · Genesis 46:2 · Hosea 12:2–4 |
+| [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] | prophecy → fulfillment | Genesis 35:19–20 · Genesis 48:7 · 1 Samuel 10:2 · Jeremiah 31:15–17 · Matthew 2:16–18 · Ruth 4:11 |
+| [[Lying with the Father's Concubine - A Claim on the Succession]] | thread | Genesis 35:22 · Genesis 49:3–4 · 1 Chronicles 5:1–2 · 2 Samuel 3:7–8 · 2 Samuel 16:21–22 · 1 Kings 2:13–25 · Leviticus 18:8 · Deuteronomy 27:20 · 1 Corinthians 5:1 |

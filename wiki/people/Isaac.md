@@ -424,11 +424,50 @@ one footing**; Jacob swears instead by his father's title alone, **and Nahor is 
 who has not seen Isaac in twenty years takes an oath in a name that belongs to nobody else.** See
 [[Jacob's Flight from Laban]], [[The Names of God]], and [[The Fear of God]].
 
+### In this pericope — Genesis 35:1–29
+
+**He dies in three verses, silent, in the house he never left.**
+
+*"Jacob came to Isaac his father, to Mamre, to Kiriath Arba (which is Hebron), where Abraham and
+Isaac lived as foreigners"* (35:27). **Three names for one place, and a verb for what two generations
+did there**: ***gār***, *sojourned* — the sojourner's word, used of the men who owned exactly one
+cave between them. See [[Land and Sojourning]] and
+[[A Stranger and a Foreigner - The Sojourner's Confession]].
+
+**Jacob reaches him and Genesis records no word between them.** Isaac's last recorded speech is
+28:1–5, the sending; **he does not speak again in Scripture.** The son who left to escape a death
+threat arrives back twenty years later with twelve children and a new name, and the book gives the
+reunion one clause and no dialogue.
+
+***"The days of Isaac were one hundred eighty years."*** **The longest life of the three patriarchs**
+— Abraham 175, Jacob 147 — **and the least eventful.** He is on stage for parts of nine chapters,
+speaks fewer lines than his wife, and is the only patriarch who never leaves Canaan.
+
+***"Gave up the spirit, and died, and was gathered to his people, old and full of days."*** **The
+three-verb formula in its third of four Genesis occurrences** (25:8; 25:17; here; 49:33), with the
+gathering again listed as a separate event from the dying and placed before the burial. See
+[[Gathered to His People]].
+
+***"Esau and Jacob, his sons, buried him."*** **The elder is named first.** At Abraham's grave it was
+*"Isaac and Ishmael his sons"* (25:9) — **covenant son before firstborn** — and here the order is
+reversed, against 28:5's *"Jacob and Esau"* and against everything the book has done with these two
+since 25:23. **The last thing the brothers do together in Genesis is a funeral**, and it gives Esau
+the precedence the whole cycle took from him.
+
+**And the notice is out of order.** By Genesis's own arithmetic Isaac is 60 at the twins' birth
+(25:26) and Jacob is 130 at 47:9, so Isaac dies when Jacob is 120 — **about twelve years after Joseph
+is sold, and roughly ten before the descent into Egypt.** The book closes the Isaac account here
+because it is finished with the Isaac account, exactly as it finished Ishmael at 25:17. See
+[[The Other Line First - The Order of the Toledot in Genesis]].
+
+**[[Rebekah]] is not mentioned.** Jacob returns to the house she sent him from, and Genesis does not
+say whether she was alive, does not report her death, and does not record them meeting. **Her nurse
+gets a death notice in this same chapter** (35:8); she does not.
+
 ### Where the rest of him is
 
 - **Genesis 28:1–5** — the same blessing given again, deliberately and to the right son: *"give you
   the blessing of Abraham … that you may inherit the land where you travel."*
-- **Genesis 35:28–29** — dies at a hundred eighty, buried by Esau and Jacob.
 - **Later in Scripture** — *"the God of Abraham, Isaac, and Jacob"* becomes the standing formula
   (Exodus 3:6; Matthew 22:32); Romans 9:7–9 and Galatians 4:28 make him the child *"of promise"*
   against the child of the flesh; Hebrews 11:17–19 reads the binding as Abraham's belief in
@@ -501,7 +540,10 @@ who has not seen Isaac in twenty years takes an oath in a name that belongs to n
   [[Jacob's Flight from Laban]]
 - Becomes a name for God: ***the fear of Isaac***, sworn by his son at the boundary heap, and found
   nowhere else in Scripture — Genesis 31:42, 53
-- Dies at a hundred eighty — Genesis 35:28–29 *(not yet ingested)*
+- Reached at last by Jacob at Mamre, twenty years after sending him away; no word passes between them
+  — Genesis 35:27, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Dies at a hundred eighty, *gathered to his people*, and is buried by [[Esau]] and [[Jacob]] with the
+  elder named first — Genesis 35:28–29
 
 ## Appears in
 
@@ -556,6 +598,13 @@ who has not seen Isaac in twenty years takes an oath in a name that belongs to n
   Exodus 3:6 completes — and **the clause he added to Isaac's own promise is the one Isaac had heard
   twice**: *"I am with you"* (26:3, 24). Isaac had petitioned *ʾĒl Šadday* for all of this four
   verses earlier; God grants it directly, and adds what Isaac did not think to ask
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:11, 27–29; **his petition granted
+  and his life ended, in one chapter.** God gives Jacob *ʾĒl Šadday*, fruitfulness, and *"a company of
+  nations"* at 35:11 — **the exact terms Isaac asked for at 28:3, in the same divine name** — and
+  twenty verses later Jacob finally arrives at Mamre. **No word passes between father and son**, and
+  Isaac dies at a hundred eighty, *gathered to his people*, buried by both sons with **the elder named
+  first**. The notice closes the Isaac account rather than dating it: by the book's own arithmetic he
+  outlives the selling of Joseph by about twelve years
 
 ## Related people
 

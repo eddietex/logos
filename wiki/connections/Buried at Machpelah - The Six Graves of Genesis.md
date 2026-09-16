@@ -10,10 +10,13 @@ tags: [connection]
 - **Genesis 23:1–20** — Abraham buys the field of Ephron for four hundred shekels and buries Sarah
 - **Genesis 25:7–10** — Abraham is buried there by Isaac and Ishmael. See
   [[The Death of Abraham and the Line of Ishmael]]
-- **Genesis 35:27–29** — Isaac dies at Mamre, Kiriath Arba, and is buried by Esau and Jacob
+- **Genesis 35:27–29** — Isaac dies at Mamre, Kiriath Arba, and is buried by Esau and Jacob — **the
+  cave is not named in the notice**, and only 49:31 places him in it. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - **Genesis 49:29–32** — Jacob's burial instructions, which recite the deed and name the occupants
 - **Genesis 50:12–14** — Jacob carried up from Egypt and buried in the field
-- Genesis 35:19–20 — Rachel buried on the way to Ephrath, with a pillar and no purchase
+- Genesis 35:19–20 — Rachel buried on the way to Ephrath, with a pillar and no purchase; **the one
+  matriarch who never arrives here**, and the one whose grave later Scripture disputes the location
+  of. See [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]
 - Genesis 33:19; Joshua 24:32 — Jacob's *other* purchase, at Shechem, and Joseph's bones
 - Acts 7:16 — Stephen's version, which merges the two purchases
 

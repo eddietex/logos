@@ -147,6 +147,14 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   times in eight verses**, because there is no king, no priest, and no third party on the mountain
 
 ## Related themes
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22
+  discharged, and nobody in the text says so.** God sends him back a second time (31:13 was the
+  first), and Jacob sets a pillar on the ground the vow promised would be *"God's house"*, pours oil
+  on it as at 28:18, and adds **the Bible's first drink offering**. **Every clause of the condition
+  has by now been met** — God was with him, kept him, fed and clothed him, and brought him back — and
+  the chapter records the performance without a word from Jacob or the narrator acknowledging that a
+  vow is being paid. **The tenth he promised is never mentioned again anywhere in Scripture.** See
+  [[The Tithe Before the Law]]
 
 - [[Covenant]] — an oath with a sign and a sanction, made structural
 - [[Language and Speech]] — words that do something rather than describe something

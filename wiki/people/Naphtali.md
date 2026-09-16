@@ -47,7 +47,9 @@ ministry begins in.**
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"I have wrestled with my sister… and have prevailed"* —
   Genesis 30:7–8, [[The Birth of Jacob's Children]]
-- Listed among the twelve — Genesis 35:25; 46:24 *(not yet ingested)*
+- Listed among the twelve, second of [[Bilhah]]'s two sons — Genesis 35:25,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Four sons at the descent into Egypt — Genesis 46:24 *(not yet ingested)*
 - Blessed at Jacob's deathbed; *"a doe set free"* — Genesis 49:21 *(not yet ingested)*
 - Judges 4:6; 5:18 — Barak, and the tribe that risked its life on the heights
 - 2 Kings 15:29; Isaiah 9:1; Matthew 4:13–16 — deported early, and named in the prophecy Matthew puts
@@ -58,6 +60,9 @@ ministry begins in.**
 - [[The Birth of Jacob's Children]] — Genesis 30:7–8; the sixth son, named in a sentence that pairs
   *ʾĕlōhîm* with a claim to have prevailed, **two chapters before his father is renamed in a sentence
   that does the same thing**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:25; **a name in a list.** Second of
+  Bilhah's two in the Bible's first complete roster of the twelve, which puts the slaves' four sons
+  after the wives' eight regardless of birth order
 
 ## Related people
 

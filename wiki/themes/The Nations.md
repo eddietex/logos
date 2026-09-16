@@ -229,6 +229,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   also the theme's hard case in the other direction: **the covenant sign, which Genesis 17 explicitly
   opens to outsiders and Exodus 12:48 will make the door into the people, is here used to shut a whole
   town out of existence.** See [[Circumcision]] and [[Deception]]
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:11; ***gôy ûqəhal gôyim***, *"a nation
+  and a company of nations will be from you"* — **granting the exact request [[Isaac]] made at 28:3**,
+  *qəhal ʿammîm*, in the same divine name he made it in. The covenant line is told for the first time
+  that it will be **plural**: not one people but an assembly of them, with kings, in a book whose
+  seventy nations at chapter 10 were the problem the call of Abram answered
 
 ## Related themes
 

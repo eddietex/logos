@@ -11,7 +11,7 @@ tags: [connection]
   of years, and was gathered to his people"* — **the first occurrence in the Bible**
 - **Genesis 25:17** — Ishmael: *"He gave up his spirit and died, and was gathered to his people"*
 - **Genesis 35:29** — Isaac: *"gave up the spirit, and died, and was gathered to his people, old and
-  full of days"*
+  full of days"*; see [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - **Genesis 49:29, 33** — Jacob, who announces it before it happens: *"I am to be gathered to my
   people"*, and then *"was gathered to his people"*
 - Numbers 20:24, 26; 27:13; Deuteronomy 32:50 — Aaron and Moses, the only two outside Genesis

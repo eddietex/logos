@@ -170,6 +170,14 @@ everlasting possession, by treaty with its current occupant.
   (***yišpəṭû***; singular in the Samaritan text and the Septuagint), **and Jacob answers with a
   title naming his own line only.** In the same chapter Laban calls a set of stolen figurines ***my
   gods*** (31:30), in the identical noun, and Genesis says nothing
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:7, 11; **two names in one chapter, one
+  God's and one an altar's.** ***ʾĒl Šadday*** is spoken by God himself for **the last time in
+  Genesis** — *"I am God Almighty. Be fruitful and multiply"* (35:11) — granting in the same title
+  what [[Isaac]] had petitioned it for at 28:3. And Jacob calls his altar ***ʾĒl Bêt-ʾĒl***, *God of
+  the house of God* (35:7), on the pattern of *ʾĒl ʾĕlōhê Yiśrāʾēl* at 33:20: **he is the only
+  patriarch who titles his altars**, and this one turns a place-name into a divine one — which
+  [[Bethel]] already was at 31:13, *"I am the God of Bethel"*, **the only place-name title God takes
+  anywhere in Scripture**
 
 ## Related themes
 

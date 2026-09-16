@@ -220,6 +220,14 @@ the rest of the canon.
   attached to the word — the only person in Scripture so described — and 15:15's *"a good old age"*
   is paid back in its own words. Set it against Jacob at 47:9: *"Few and evil have been the days of
   the years of my life."* See [[Gathered to His People]]
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:8, 16–19, 29; **three deaths and one
+  birth in one chapter, and the birth causes one of the deaths.** [[Rachel]] dies bearing the son she
+  named her first son for — *"may Yahweh **add** another son to me"* (30:24) — and the midwife's
+  comfort, *"now you will have another son"*, **is her own prayer quoted back at her as it kills
+  her.** *"As her **soul was departing** (for she died)"*, ***bĕṣēʾt napšāh***, is the Bible's first
+  description of dying as something leaving the body. [[Deborah (Rebekah's nurse)]] dies between two
+  theophanies; [[Isaac]] *"gave up the spirit, and died, and was gathered to his people, old and full
+  of days"* at a hundred eighty, **the longest of the three patriarchal lives**
 
 ## Related themes
 

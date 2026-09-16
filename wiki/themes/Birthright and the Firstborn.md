@@ -114,6 +114,13 @@ holds up Esau as the warning.
   through** — and all four are the sons of the hated wife, which is the precise configuration
   Deuteronomy 21:15–17 was written to prevent. See
   [[The Twelve Sons and the Lists That Reorder Them]]
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:22–23; **the verse that costs the
+  Bible's first firstborn his rank, and the verse that states the rank, printed back to back.**
+  *"Reuben went and lay with Bilhah, his father's concubine, and Israel heard of it"* — no scene, no
+  motive, no reply, and **the Hebrew scribes break the verse off mid-sentence** rather than finish it.
+  Three verses later: ***"Reuben (Jacob's firstborn)"***. **Genesis comments on neither**, and the
+  verdict waits fourteen chapters (49:3–4), with 1 Chronicles 5:1–2 stating the transfer outright.
+  See [[Lying with the Father's Concubine - A Claim on the Succession]]
 
 ## Related themes
 

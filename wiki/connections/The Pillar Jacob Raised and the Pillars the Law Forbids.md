@@ -10,8 +10,10 @@ tags: [connection]
 - Genesis 28:18, 22 — the stone at Bethel set up and anointed
 - Genesis 31:45–52 — the pillar and the heap at Galeed, as a boundary witness —
   [[Jacob's Flight from Laban]], [[Galeed]]
-- Genesis 35:14, 20 — the pillar at Bethel again, with a drink offering; and the one over Rachel's
-  grave
+- Genesis 35:14, 20 — **the third and fourth of Jacob's four**: the pillar at Bethel again, set on
+  the ground the first one stood on and given oil **and the Bible's first drink offering**; and the
+  one over Rachel's grave, **the only one he sets over a person**, which the narrator says stands
+  *"to this day"* — [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Exodus 24:4 — Moses builds an altar and **twelve pillars** at Sinai
 - Exodus 23:24; 34:13; Deuteronomy 7:5; 12:3 — smash the Canaanite pillars
 - Leviticus 26:1 — *"you shall not rear up for yourselves … a standing stone"*

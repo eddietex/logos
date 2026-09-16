@@ -45,6 +45,11 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
   benchmark in a legal document, twice in three verses, and three more times later in the book
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9; the third of those five
   recitations, fixing the cave Abraham himself is laid in
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:27–29; **the end of the journey
+  that began at 28:5.** *"Jacob came to Isaac his father, to Mamre, to Kiriath Arba (which is
+  Hebron), where Abraham and Isaac lived as **foreigners**"* — three names for one site and the
+  sojourner's verb, *gār*, for what two generations did on ground they owned one cave of. **No word
+  passes between father and son on the page**, and [[Isaac]] dies in the next verse
 
 ## Related places
 
@@ -65,4 +70,6 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
 - Abraham walks out from the grove toward Sodom and argues for the city — Genesis 18:16–33
 - The field and cave of [[Machpelah]], bought *before Mamre* for four hundred shekels, and Sarah
   buried in it — Genesis 23:17–20, [[Nahor's Line and the Burial of Sarah]]
-- Jacob returns to Isaac at Mamre — Genesis 35:27 *(not yet ingested)*
+- Jacob reaches Isaac here at last, twenty years after being sent away; Isaac dies at a hundred
+  eighty and is buried by both sons — Genesis 35:27–29,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]

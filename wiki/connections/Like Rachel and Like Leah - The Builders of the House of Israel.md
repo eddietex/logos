@@ -14,7 +14,10 @@ tags: [connection]
   May Yahweh make the woman who has come into your house like Rachel and like Leah, which two built
   the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem. Let your house
   be like the house of Perez, whom Tamar bore to Judah.'"*
-- **Genesis 35:19; 48:7** — Rachel buried *"on the way to Ephrath (also called Bethlehem)"*
+- **Genesis 35:19; 48:7** — Rachel buried *"on the way to Ephrath (also called Bethlehem)"* — **the
+  blessing at Ruth 4:11 invokes her by name in the town Genesis says she is buried outside**, and
+  1 Samuel 10:2 puts the grave ten miles north instead. See [[Return to Bethel; the Deaths of Rachel and Isaac]] and
+  [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]
 - **Jeremiah 31:15; Matthew 2:18** — Rachel weeping at Ramah for children who *"are no more"*
 - **Ruth 4:17–22; Matthew 1:3–6** — the line from Perez to David, and past him
 

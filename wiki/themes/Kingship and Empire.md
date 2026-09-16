@@ -95,6 +95,12 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   the empire that collects tribute (14:1–11), the priest-king who blesses (14:18–20), the vassal who
   bargains for bodies (14:21), and the small king who buys peace with a sojourner by treaty. Only the
   last one is still standing at the end of his chapter
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:11; ***"kings will come out of your
+  body"*** — **the third and last of the promise's three occurrences in Genesis**, after 17:6 to
+  Abraham and 17:16 to Sarah. **All three are made to people who will never see one**, and the promise
+  sits unredeemed for the whole of the Torah and the conquest. Paired here with *"a nation and a
+  company of nations"*, it makes the covenant line's future political shape explicit for the first
+  time since chapter 17. See [[Kings Will Come Out of You]]
 
 ## Related themes
 

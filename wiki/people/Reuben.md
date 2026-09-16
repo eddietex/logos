@@ -25,6 +25,35 @@ starts the only conversation the two sisters have in the Bible. **Genesis gives 
 mandrakes are traded for a night with his father, and the son born of that night is named for the
 transaction rather than for the plant. See [[The Birth of Jacob's Children]].
 
+### In this pericope — Genesis 35:1–29
+
+**One sentence, with no preparation, no scene, and no consequence — and it costs him everything.**
+
+> **22** While Israel lived in that land, Reuben went and lay with Bilhah, his father’s concubine,
+> and Israel heard of it. Now the sons of Jacob were twelve.
+
+***Wayyišmaʿ*** — *he heard* — **is the verb from the previous chapter**, where *"Jacob heard that he
+had defiled Dinah … and held his peace"* (34:5). **Twice in two chapters Genesis tells us what this
+father heard and refuses to tell us what he thought.** And here the Hebrew text itself will not finish
+the sentence: **a *piska bĕʾemṣaʿ pasuq*, a section break in the middle of a verse**, falls after
+*"Israel heard of it"*, one of very few in the Bible. The Septuagint supplies *"and it appeared evil
+before him"*; **the wiki records that as an ancient reading of the break, not as a recovered Hebrew
+clause.**
+
+**The act is not only a sexual offence; it is how the Bible's later politics announces a claim on a
+man's position** — Abner with Saul's concubine (2 Samuel 3:7–8), Absalom with David's ten on the
+palace roof *"in the sight of all Israel"* (2 Samuel 16:21–22), Adonijah executed for merely asking
+for Abishag (1 Kings 2:22). **Genesis supplies none of that apparatus for Reuben**: no counsellor, no
+audience, no stated motive. See
+[[Lying with the Father's Concubine - A Claim on the Succession]], which sets out the three readings
+the wiki holds open — a bid for the succession, an act on [[Leah]]'s behalf now that [[Rachel]] is
+three verses dead, and the narrator simply recording an offence without a motive.
+
+**And the verse that ruins him is the verse that completes the house.** *"Now the sons of Jacob were
+twelve"*, and then the roster — in which he is named first and titled: ***"Reuben (Jacob's
+firstborn)"*** (35:23). **Genesis states the rank and the disqualification back to back and comments
+on neither.** See [[Birthright and the Firstborn]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
@@ -36,13 +65,11 @@ pit and tears his clothes** (37:29). Later he offers Jacob his own two sons as s
 the most extravagant and least persuasive guarantee anyone in Genesis makes (42:37), and Jacob refuses
 him.
 
-**And in one verse with no lead-up he forfeits everything.** *"Reuben went and lay with Bilhah, his
-father's concubine, and Israel heard of it"* (35:22) — and Genesis breaks off mid-sentence to count the
-sons. **Jacob says nothing for fourteen chapters**, and then, from his deathbed:
+**Jacob says nothing about 35:22 for fourteen chapters**, and then, from his deathbed:
 
-> **3** Reuben, you are my firstborn, my might, and the beginning of my strength; excelling in dignity,
-> and excelling in power. **4** Boiling over as water, you shall not excel; because you went up to your
-> father's bed, then defiled it. (49:3–4)
+> **3** “Reuben, you are my firstborn, my might, and the beginning of my strength; excelling in
+> dignity, and excelling in power. **4** Boiling over like water, you shall not excel; because you went
+> up to your father’s bed, then defiled it. He went up to my couch. (49:3–4)
 
 **The double portion goes to Joseph, the priesthood to [[Levi]], the kingship to [[Judah]]** — and 1
 Chronicles 5:1–2 states the redistribution outright: *"he was the firstborn; but… his birthright was
@@ -60,7 +87,9 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
 - Born to Leah, the firstborn of the twelve; *"see, a son"* — Genesis 29:32,
   [[The Birth of Jacob's Children]]
 - Finds mandrakes at the wheat harvest and brings them to his mother — Genesis 30:14
-- Lies with [[Bilhah]]; *"Israel heard of it"* — Genesis 35:22 *(not yet ingested)*
+- Lies with [[Bilhah]]; *"Israel heard of it"*, and the Hebrew breaks the verse off mid-sentence —
+  Genesis 35:22, [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Named first and titled *"Jacob's firstborn"* in the roster, one verse later — Genesis 35:23
 - Proposes the pit instead of murder, intending a rescue — Genesis 37:21–22, 29 *(not yet ingested)*
 - Offers his two sons as surety for Benjamin — Genesis 42:37 *(not yet ingested)*
 - Disinherited from the birthright at Jacob's deathbed — Genesis 49:3–4; 1 Chronicles 5:1–2 *(not yet
@@ -71,6 +100,11 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
 - [[The Birth of Jacob's Children]] — Genesis 29:32; 30:14. **The firstborn, named in an argument about
   his mother's marriage, and the only child in the passage who acts.** He brings home the mandrakes that
   buy his father for a night, and the son conceived that night is named *there is hire*
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:22–23; **one sentence, and it is
+  the end of him as firstborn.** He lies with his father's concubine three verses after [[Rachel]]'s
+  burial; his father hears and says nothing for fourteen chapters; **the Masoretic scribes break the
+  verse off mid-sentence rather than finish it**; and the next verse names him first in the roster of
+  the twelve and titles him *"Jacob's firstborn"*
 
 ## Related people
 

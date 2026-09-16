@@ -44,7 +44,9 @@ byword for discernment**, and it has no narrative attached to it anywhere.
 
 - Born to [[Leah]] after *"God listened to Leah"*; *"God has given me my hire"* — Genesis 30:17–18,
   [[The Birth of Jacob's Children]]
-- Listed among the twelve; four sons — Genesis 35:23; 46:13 *(not yet ingested)*
+- Listed among the twelve, fifth of [[Leah]]'s six sons — Genesis 35:23,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Four sons at the descent into Egypt — Genesis 46:13 *(not yet ingested)*
 - Blessed at Jacob's deathbed; the donkey and the forced labour — Genesis 49:14–15 *(not yet ingested)*
 - Judges 5:15 — the princes of Issachar with Deborah; 1 Chronicles 12:32 — *"understanding of the
   times"*
@@ -54,6 +56,9 @@ byword for discernment**, and it has no narrative attached to it anywhere.
 - [[The Birth of Jacob's Children]] — Genesis 30:17–18; the ninth son, born of the night his mother
   bought with [[Reuben]]'s mandrakes and named for a hire his mother attributes to a different
   transaction entirely. **The birth that follows the passage's second divine act**
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list.** Fifth of
+  Leah's six in the Bible's first complete roster of the twelve, which orders the sons by mother
+  rather than by age
 
 ## Related people
 

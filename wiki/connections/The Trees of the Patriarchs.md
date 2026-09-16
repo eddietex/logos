@@ -16,8 +16,10 @@ tags: [connection]
   [[The Three Visitors and Abraham's Intercession]].
 - **Genesis 21:33** — *"Abraham planted a tamarisk tree in Beersheba, and called there on the name of
   Yahweh, the Everlasting God."* See [[The Treaty at Beersheba]].
-- **Genesis 35:4, 8** *(not yet ingested)* — the foreign gods buried *"under the oak which was by
-  Shechem"*, and Deborah buried *"below Bethel under the oak"* at *Allon Bacuth*, the oak of weeping.
+- **Genesis 35:4, 8** — the foreign gods buried *"under the oak which was by Shechem"*, and
+  [[Deborah (Rebekah's nurse)]] buried *"below Bethel under the oak"* at ***ʾAllôn Bākût***, **the
+  oak of weeping — the only tree in Scripture named for a funeral**, and Genesis does not say who
+  wept. See [[Return to Bethel; the Deaths of Rachel and Isaac]].
 - **Joshua 24:26** — Joshua sets a great stone *"under the oak that was by the sanctuary of Yahweh"*
   at Shechem, at the covenant renewal.
 - **Judges 6:11, 19; 9:6, 37** — the oak at Ophrah; the oak of the pillar at Shechem where Abimelech

@@ -11,7 +11,8 @@ tags: [connection]
   altar — [[The Call of Abram]]
 - **Genesis 33:18–20** — Jacob buys a field at Shechem and builds *El Elohe Israel* —
   [[The Reconciliation with Esau]]
-- **Genesis 35:4** — the household's foreign gods buried *"under the oak which was by Shechem"*
+- **Genesis 35:4** — the household's foreign gods buried *"under the oak which was by Shechem"*, on
+  the field Jacob had bought, as he abandons it. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
   *(not yet ingested)*
 - **Deuteronomy 11:29–30** — Gerizim and Ebal located *"beside the oaks of Moreh"*
 - **Deuteronomy 27:1–26** — the blessings and the curses to be pronounced from the two mountains

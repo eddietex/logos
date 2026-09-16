@@ -269,6 +269,12 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   first covenant meal in Scripture. **There is no divine party to it.** God is invoked as *witness*
   and *judge* (31:49–53), not as a partner, **which is the opposite of every covenant Genesis has
   narrated so far**, where the initiative and the self-obligation are his
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:11–12; **the land promise repeated in
+  the perfect tense to a tenant.** *"The land which I ***gave*** to Abraham and Isaac, I will give it
+  to you"* — said to a man who has just paid cash for one field (33:19) and is on his way to bury his
+  father in a cave his grandfather also paid cash for. The speech is the covenant's full Jacob-form:
+  the divine name *ʾĒl Šadday*, the creation blessing, a company of nations, kings, and the land, **all
+  of it attached to the name *Israel* at last** — which 32:28 gave him with nothing attached at all
 
 ## Related themes
 

@@ -63,6 +63,8 @@ the same willingness to use a sword to a different use.
   [[The Birth of Jacob's Children]]
 - With [[Simeon]], proposes the circumcision and destroys Shechem after the rape of [[Dinah]] —
   Genesis 34:13–31, [[Dinah and the Massacre at Shechem]]
+- Listed among the twelve, third of [[Leah]]'s six sons — Genesis 35:23,
+  [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Listed among the seventy who go down to Egypt; his three sons Gershon, Kohath, Merari — Genesis
   46:11 *(not yet ingested)*
 - Cursed with Simeon at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
@@ -78,6 +80,9 @@ the same willingness to use a sword to a different use.
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:13–31; **the proposal, the three days, and the
   swords.** The chapter gives him no speech of his own — Jacob's sons speak in the plural throughout —
   and it is the only thing Genesis ever records him doing
+- [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list.** Third of
+  Leah's six in the Bible's first complete roster of the twelve, one chapter after the massacre at
+  Shechem and with no reference to it
 
 ## Related people
 
