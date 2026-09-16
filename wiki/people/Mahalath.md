@@ -50,7 +50,9 @@ David, and unrelated.** The etymologies are recorded here as attributions, not f
 - Married by [[Esau]] after he sees that Canaanite wives displease his father, in addition to the
   wives he already had — Genesis 28:9, [[Isaac Sends Jacob to Paddan Aram]]
 - Listed as **Basemath**, *"Ishmael's daughter, sister of Nebaioth"*, in the register of Esau's wives
-  — Genesis 36:3 *(not yet ingested)*
+  — Genesis 36:3, [[The Descendants of Esau]]
+- Her son [[Reuel (son of Esau)]] heads one of the two Edomite branches with descendants, and four of
+  the fourteen chiefs — Genesis 36:10, 13, 17
 
 ## Appears in
 

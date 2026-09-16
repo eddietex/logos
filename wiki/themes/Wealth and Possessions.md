@@ -134,6 +134,13 @@ the promise is repeatedly mistaken for.
   wealth"* (34:28–29). **Each side's reason for the treaty was the other side's property**, and
   Genesis reports both without comment. It also records, flatly and for the first time in the Bible,
   **people counted as plunder**: *"they took captive all their little ones and their wives"*
+- [[The Descendants of Esau]] — Genesis 36:6–7: **prosperity as the thing that breaks a household
+  up**, in the same two clauses Genesis 13:6 used of Abram and Lot — *"their substance was too great
+  for them to dwell together, and the land of their travels couldn't bear them because of their
+  livestock."* **Genesis's recurring difficulty is not famine but success**, and the recurring remedy
+  is distance. The difference from chapter 13 is that Abram spoke and offered Lot the choice, and
+  here nobody says anything at all. See
+  [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]]
 
 ## Related themes
 

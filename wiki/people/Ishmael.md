@@ -204,6 +204,14 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
 - Named as the father-in-law [[Esau]] goes to, roughly thirteen years after the book's own arithmetic
   buries him; his daughter [[Mahalath]] marries the second elder son to be passed over — Genesis
   28:9, [[Isaac Sends Jacob to Paddan Aram]]
+- His daughter named **Basemath** rather than Mahalath in the register of Esau's line, and his
+  firstborn Nebaioth named as her brother for the second time — Genesis 36:3,
+  [[The Descendants of Esau]]
+- His grandson [[Reuel (son of Esau)]] heads the junior Edomite branch — Genesis 36:13, 17
+- **His seven-verse register at 25:12–18 and Esau's forty-three-verse one at 36:1–43 are the same
+  device at six times the length**, and the two of them are the third and fourth runs of the book's
+  habit of closing out the passed-over line before resuming the chosen one —
+  [[The Other Line First - The Order of the Toledot in Genesis]]
 
 ## Appears in
 

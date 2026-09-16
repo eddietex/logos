@@ -430,7 +430,8 @@ been set aside. **Genesis hands out the promise and the consequences in the same
   in the words Isaac used here *(not yet ingested)*.
 - Genesis 35:29 — *"Esau and Jacob"* bury Isaac, the elder named first, against 28:5's order
   *(not yet ingested)*.
-- Genesis 36:2–3 — the register that calls Ishmael's daughter Basemath *(not yet ingested)*.
+- Genesis 36:2–3 — the register that calls Ishmael's daughter Basemath, at
+  [[The Descendants of Esau]].
 - Genesis 49:31 — Rebekah named as an occupant of the cave, the only mention of her after this
   passage *(not yet ingested)*.
 - Deuteronomy 7:1–4 — the marriage prohibition made national law, with the theological reason Genesis

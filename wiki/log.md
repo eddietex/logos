@@ -6088,3 +6088,116 @@ his son."* and stops there; the verse continues *"Isaac lived by Beer Lahai Roi.
 truncation at a sentence boundary rather than a misquotation, but it carries no ellipsis, and the
 same page's Genesis 32 and 33 sections are still missing — a gap the previous entry already recorded
 and this pass again did not backfill, having added the Genesis 35 section in reference order.
+
+## [2026-09-16] ingest | Genesis 36.1-43 — The Descendants of Esau
+
+Unattended run (`/ingest auto`). Step 2's discussion is written into the passage page rather than
+spoken. The pericope boundary was taken from the book page's plan unchanged — Genesis 36 is a single
+*toledot* unit bounded by 35:29 on one side and 37:2 on the other, and nothing in the text argued for
+splitting it.
+
+**Created — passage.** `wiki/passages/Genesis/The Descendants of Esau.md`. Forty-three verses, some
+ninety names, and one sentence in which a human being does anything: Anah finds *hayyēmim* in the
+wilderness while feeding his father's donkeys (36:24). The page is built around the eleven `ʾēlleh`
+("these are") headings that segment the chapter, and it treats the register as an **anthology** —
+Esau gets two *toledot* headings (36:1, 36:9), which no one else in Genesis does, and the internal
+disagreements follow from that reading rather than needing separate excuses.
+
+**Created — people (13).** [[Adah (wife of Esau)]], [[Oholibamah]], [[Eliphaz (son of Esau)]],
+[[Reuel (son of Esau)]], [[Timna]], [[Amalek]], [[Seir the Horite]], [[Anah]],
+[[Bela (son of Beor)]], [[Jobab]], [[Hadad (son of Bedad)]], [[Hadar]], [[Mehetabel]].
+
+**Created — places (3).** [[Bozrah]], [[Rehoboth by the River]], [[Midian]].
+
+**Created — connections (3).** [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]]
+(Genesis 13:6 and 36:7 are the same two clauses in the same causal order);
+[[Amalek - From a Concubine's Son to Israel's First Enemy]] (nine words here, and Exodus 17,
+Deuteronomy 25, the fall of Saul, and the plot of Esther after them);
+[[Jobab of Bozrah and the Septuagint's Job]] (four of the book of Job's names sit in this one
+chapter, and a Greek translator drew the obvious conclusion).
+
+**Revised.** [[Esau]] (new pericope section, timeline, appears-in, and ten new related-people
+entries); [[Edom]] (appears-in, five new events, three new related places); [[Teman]], [[Uz]],
+[[Eliphaz the Temanite]], [[Job (person)]] (the Genesis 36 / book of Job overlap, now stateable
+exactly); [[Basemath (daughter of Elon)]], [[Mahalath]], [[Judith]], [[Elon the Hittite]],
+[[Ishmael]]; [[Rehoboth]] (a note distinguishing it from the Edomite town);
+[[The Names of Esau's Wives - Genesis 26 and Genesis 36]],
+[[The Other Line First - The Order of the Toledot in Genesis]], [[Kings Will Come Out of You]];
+themes [[The Nations]], [[Kingship and Empire]], [[Land and Sojourning]],
+[[Wealth and Possessions]]; the Genesis book page's Jacob-cycle overview; all five indexes.
+
+### Contradictions and doublings, flagged and not resolved
+
+Four, all of them internal to the chapter or between it and chapter 26, and none smoothed over:
+
+1. **Esau's wives.** Already the wiki's standing flagged contradiction; both halves are now ingested,
+   so the connection page's `*(not yet ingested)*` marker is gone and its table now links the five
+   women's pages. Two things were **added** to it: the third wife, Oholibamah, is the discrepancy no
+   two-names harmonisation can reach, because she has no counterpart in the earlier list to be
+   renamed into; and the textual-transmission explanation can now be stated precisely, since 36:2 is
+   demonstrably unstable in the versions while the *Basemath* transfer is attested in all of them.
+2. **Chief Korah at 36:16** is filed under Adah's line though Korah is Oholibamah's son at 36:5, 14,
+   and 18. The Samaritan Pentateuch and part of the Greek tradition omit him there. Recorded on the
+   passage page and on both mothers' pages; not chosen between.
+3. **Anah** is Zibeon's son at 36:24 and appears to be his daughter at 36:2. The Samaritan, Greek,
+   and Syriac all read *son*. The wiki takes the one-man reading and says the Masoretic text at 36:2
+   is awkward.
+4. **Seir** is derived twice — from the hair on a newborn at 25:25, and from a Horite ancestor at
+   36:20 who would have carried the name generations earlier. Genesis states both and notices
+   neither, as with Beersheba. Recorded on [[Seir the Horite]].
+
+### Judgment calls
+
+- **Which of ~90 names got pages.** The test applied was: does the name do something, matter
+  elsewhere in Scripture, or already have inbound links in this wiki? That yielded the thirteen
+  above. **Deliberately not given pages:** the bare names in the chief lists (Omar, Zepho, Gatam,
+  Jeush, Jalam, Korah, Nahath, Shammah, Mizzah, Alvah, Jetheth, Elah, Pinon, Mibzar, Magdiel, Iram
+  and the rest), the Horite grandsons, and four of the eight kings (Husham, Samlah, Shaul, Baal
+  Hanan) whose entries contain nothing but a name, a town, and a death. **Kenaz** is the closest
+  call — the Kenizzites produce Caleb and Othniel — and he is covered in full on
+  [[Eliphaz (son of Esau)]] instead, because everything to say about him is about his descendants
+  rather than him. **The four unlocated royal cities** (Dinhabah, Avith, Masrekah, Pau) got no place
+  pages for the same reason: each would hold one sentence saying it is named once and cannot be
+  found.
+- **No person page for Teman.** He is a name in a list, and everything the wiki has to say about him
+  is the eponym relationship [[Teman]] already describes. Splitting him off would force that page to
+  become `Teman (place)` and every inbound link to be rewritten, for no gain. Recorded on the page
+  itself so a later pass does not redo the reasoning.
+- **No person page for the Uz of 36:28**, consistent with the existing decision about the Uz of
+  22:21. [[Uz]] now records that if a later pass makes one it must be `Uz (son of Dishan)`.
+- **`Adah (wife of Esau)` is qualified although no other Adah page exists.** Lamech's wife at 4:19 is
+  in already-ingested text, so the name collides in substance even though it does not yet collide on
+  disk. Both pages' qualifiers are noted as mutually required on the new page — the failure the rule
+  prevents is silent at both ends, since `link-check.sh` resolves by basename and would pass two
+  files called `Adah.md`.
+- **`Rehoboth by the River` is a separate page from [[Rehoboth]]**, not a section of it. Genesis
+  36:37's town and Isaac's well at 26:22 are different places days apart, and two files named
+  `Rehoboth.md` would pass the link check and then be silently collapsed by Obsidian. A
+  cross-reference was added to the existing page.
+- **`Reuel (son of Esau)`, `Eliphaz (son of Esau)`, `Bela (son of Beor)`, `Hadad (son of Bedad)`**
+  are all qualified against namesakes elsewhere in Scripture (Jethro, Job's friend, Balaam's
+  patronymic, Ishmael's son and Solomon's adversary) rather than left bare.
+
+### Links deliberately left for later pericopes
+
+All given as plain scripture references rather than wikilinks, so none is a link-check finding:
+**37:1–2** (Jacob's *toledot*, and *"the land of his father's travels"*, quoted on four pages as the
+counterweight to 36:43); **37:25–28** (the Midianite and Ishmaelite traders — the next pericope, and
+the seam this pass's [[Midian]] page anticipates); **38** and **49:5–7**. Quotations from books not
+in `raw/` — Exodus, Numbers, Deuteronomy, Joshua, Judges, 1–2 Samuel, 1–2 Kings, 1 Chronicles,
+Esther, Isaiah, Jeremiah, Lamentations, Amos, Obadiah, Revelation, and the Septuagint's appendix to
+Job — were checked by eye against the WEB.
+
+### Quotation check
+
+All Genesis block quotes on pages this pass touched were re-parsed and diffed verse by verse against
+`raw/bible/Genesis.md` by script: the passage page's **22 verse-blocks, 0 mismatches**. The same
+script was then run over every block quote in the whole of `wiki/`, which caught **two truncations in
+this pass's own new pages** — Genesis 36:4 on [[Adah (wife of Esau)]] and 36:12 on
+[[Eliphaz (son of Esau)]] both stopped at a sentence boundary with no ellipsis, and 36:35 on
+[[Midian]] dropped *"The name of his city was Avith."* The first two now carry an ellipsis and the
+third quotes the verse in full. This is the same defect the previous entry noted on
+`wiki/people/God.md` at 25:11 and left for a later lint; that one is still open.
+
+`scripts/link-check.sh` exits 0. Genesis stands at 45 / 59 pericopes; the next is *Joseph Sold into
+Slavery*, Genesis 37:1–36, which opens the last cycle of the book.

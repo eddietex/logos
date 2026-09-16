@@ -25,7 +25,9 @@ The Bible gives three kinds of evidence and they do not fully agree.
 
 **Two genealogical Uzzes, pointing different ways.** Genesis 10:23 makes Uz a son of Aram, which
 points north-east, to Aramean territory in Syria near Damascus. Genesis 36:28 makes Uz a Horite
-name in the line of Seir, and 1 Chronicles 1:42 repeats it — which points south, into Edom. A
+name in the line of [[Seir the Horite]] — *"These are the children of Dishan: Uz and Aran"*, now
+ingested at [[The Descendants of Esau]] — and 1 Chronicles 1:42 repeats it, which points south, into
+Edom. A
 third, Genesis 22:21, gives Uz as Nahor's firstborn, Abraham's nephew, which points north-east
 again — a verse now ingested at [[Nahor's Line and the Burial of Sarah]], where the whole of Nahor's
 twelve reads as a map of the Aramean and north Arabian tribes rather than as a family. **No person
@@ -44,15 +46,26 @@ children comes *"from the wilderness"* (1:19).
 
 The consensus reconstruction, held loosely, is somewhere in the northern Arabian desert margin
 south-east of the Dead Sea, in or adjacent to Edom. The Septuagint's appendix to Job goes further
-and identifies Job with Jobab king of Edom (Genesis 36:33), placing him *"on the borders of Idumea
-and Arabia"* — a harmonisation, not evidence. A rival tradition, preserved in Josephus and still
+and identifies Job with [[Jobab]] king of Edom (Genesis 36:33), placing him *"on the borders of
+Idumea and Arabia"* — a harmonisation, not evidence, and now given its own page at
+[[Jobab of Bozrah and the Septuagint's Job]]. A rival tradition, preserved in Josephus and still
 attached to a shrine at Jabal Sheikh Saad in the Syrian Hauran, follows the Aramean line instead.
+
+**With Genesis 36 ingested the coincidence can be counted.** That one chapter contains a **Uz**
+(36:28), an **Eliphaz** (36:4), a **Teman** (36:11), and a **Jobab** (36:33) — four of the book of
+Job's names in forty-three verses. **It is the strongest single argument for the Edomite setting and
+the weakest possible argument for the identification of any particular man**, because a shared
+onomastic pool is exactly what one expects of two texts about the same region.
 
 ## Appears in
 
 - [[Job of Uz]] — named in the opening clause, as the man's only address.
 - [[The Table of Nations]] — Genesis 10:23, where Uz is Aram's firstborn: the first of the three
   genealogical Uzzes, and the one that points north-east rather than to Edom.
+- [[The Descendants of Esau]] — Genesis 36:28, where Uz is a son of Dishan in the Horite line of
+  Seir: the second of the three, and the one that points into Edom. **No person page was created for
+  him either**; like the Uz of 22:21 he is a name in a list, and if a later pass makes one it must be
+  `Uz (son of Dishan)`, so that this page keeps the bare name.
 
 ## Related places
 
@@ -60,6 +73,9 @@ attached to a shrine at Jabal Sheikh Saad in the Syrian Hauran, follows the Aram
   where the book thinks it is set.
 - [[Sheol]] — the only other location the book of Job describes at any length, and it is not on the
   map either.
+- [[Edom]] — the country Lamentations 4:21 places Uz in, and the subject of the Genesis chapter that
+  holds four of Job's names.
+- [[Bozrah]] — [[Jobab]]'s city, and so the address the Septuagint's appendix effectively gives Job.
 
 ## Events here
 

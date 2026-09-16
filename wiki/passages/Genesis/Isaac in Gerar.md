@@ -683,7 +683,8 @@ use.
 - [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9; Rebekah's *"I am weary of my life
   because of the daughters of Heth"*, and Esau marrying Ishmael's daughter to correct the fault of
   26:34.
-- Genesis 36:1–8 — the register that names Esau's wives differently *(not yet ingested)*.
+- Genesis 36:1–8 — the register that names Esau's wives differently, at
+  [[The Descendants of Esau]].
 - Genesis 46:1–5 — Jacob at this same well, told *"Don't be afraid to go down into Egypt"* — the
   exact reversal of 26:2 *(not yet ingested)*.
 - Exodus 1:8–14 — *"the people of the children of Israel are more and mightier than we"*, and what a

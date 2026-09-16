@@ -52,6 +52,12 @@ Shaul (36:37; 1 Chronicles 1:48). **A common word makes a common place name.** S
 - [[Gerar]] — the town whose herdsmen contested the other two and left this one alone
 - [[Beersheba]] — where he goes up from here, is met by God the same night, and swears the treaty
 - [[Beer Lahai Roi]] — his own address, and the wiki's other well named for what God did at it
+- [[Rehoboth by the River]] — **a different place with the same name**: the town one of Edom's eight
+  kings comes from at Genesis 36:37, several days' travel away and not a well. *Rəḥōbôt* means
+  **broad places**, which is exactly the sort of name that gets reused; a third, *Rehoboth Ir*, sits
+  in Nimrod's Assyrian city list at 10:11. **The pages are titled distinctly on purpose** — Obsidian
+  resolves wikilinks by basename, so two files called `Rehoboth.md` would pass
+  `scripts/link-check.sh` and then be silently collapsed into one by the vault
 
 ## Events here
 

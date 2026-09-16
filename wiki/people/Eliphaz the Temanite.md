@@ -90,11 +90,17 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 - **Elihu** — the fourth speaker, who at 32:9 (*"It is not the great who are wise, nor the aged who
   understand justice"*) contradicts the credential Eliphaz claims at 15:10, and who is nonetheless
   not included in God's rebuke at 42:7.
-- **Eliphaz son of Esau** — Genesis 36:4, 10–11 names a son of Esau called Eliphaz whose own son is
-  **Teman**. The overlap of both names is striking, and it is the main evidence that the book
-  places its cast in Edomite tradition; whether the two Eliphazes are meant as the same man is not
-  determinable, and Job never claims a genealogy. The Genesis figures get their pages when Genesis
-  36 is ingested.
+- [[Eliphaz (son of Esau)]] — Genesis 36:4, 10–11 names a son of Esau called Eliphaz whose own son is
+  **Teman**. The overlap of both names is striking, and it is the main evidence that the book places
+  its cast in Edomite tradition; whether the two Eliphazes are meant as the same man is not
+  determinable, and Job never claims a genealogy. **Genesis 36 is now ingested** at
+  [[The Descendants of Esau]], and it turns out to hold four of this book's names — Uz at 36:28,
+  Eliphaz at 36:4, Teman at 36:11, and a [[Jobab]] at 36:33 whom the Septuagint's appendix identifies
+  with Job. **The wiki reads the coincidence as evidence of a setting and not of an
+  identification**; the case is at [[Jobab of Bozrah and the Septuagint's Job]].
+- [[Timna]] — the Genesis Eliphaz's concubine, and the mother of [[Amalek]]. Nothing in the book of
+  Job corresponds to her; she is listed here only to mark how far the two Eliphazes' families
+  diverge once the genealogy is actually read.
 
 ## Themes associated
 

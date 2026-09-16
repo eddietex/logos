@@ -146,6 +146,12 @@ speeches; each becomes a linked passage page as it is ingested.
   save only themselves; see [[Noah]] and
   [[Blameless Before Anyone Is Watching]]. The pairing is the earliest evidence outside this book
   that Job was a known figure of proverbial righteousness.
+- [[Jobab]] — the second king of Edom at Genesis 36:33, whom **the Septuagint's appendix to this book
+  says is Job**, supplying the genealogy, nationality, and throne the Hebrew text withholds. **The
+  wiki records the identification and does not adopt it**: Job is never called a king, his father is
+  never named, Edom is never mentioned, and chapter 1's exhaustive inventory of his losses has no
+  kingdom in it. What the overlap does support is the book's Edomite *setting* — see
+  [[Jobab of Bozrah and the Septuagint's Job]], [[Uz]], and [[The Descendants of Esau]].
 
 ## Themes associated
 

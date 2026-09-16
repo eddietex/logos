@@ -426,7 +426,19 @@ even fratricidal betrayal into rescue (Joseph).
   mother for the first time in Scripture, in a roster that says all of them were born in Paddan Aram
   four verses after one of them was not; and Isaac dies at a hundred eighty, buried by **Esau and
   Jacob**, the elder named first, in a notice the book's own arithmetic places long after the events
-  of chapter 37.
+  of chapter 37. Then *[[The Descendants of Esau]]* closes the cycle a second way, by register rather
+  than by burial: **forty-three verses, some ninety names, and one sentence in which anybody does
+  anything** — a man out feeding his father's donkeys finds hot springs in the wilderness (36:24).
+  Esau's household leaves *"because their substance was too great for them to dwell together"*, in the
+  same two clauses Genesis 13:6 used of Abram and Lot, and the brother who was cheated twice makes
+  room without a word being spoken. **Genesis then grants Edom everything except the covenant** —
+  chiefs, a national register, and eight kings *"before any king reigned over the children of
+  Israel"* — which is the fourth and last run of the book's oldest structural habit: the line that is
+  not the subject dealt with first, in full, and then closed. Amalek is born in a subordinate clause;
+  the Horites who held the country first get eleven verses of genealogy and no epitaph; and the last
+  words about Esau are a definition, *"This is Esau, the father of the Edomites."* The next verse has
+  Jacob living *in the land of his father's travels* — **one brother becomes a country, the other
+  stays a sojourner.**
 - **37–50 Joseph** — the family preserved in Egypt, setting up the bondage Exodus opens with.
 
 ## Pericopes
@@ -487,7 +499,7 @@ merge, or reorder them freely.
 - [x] [[The Reconciliation with Esau]] — Genesis 33:1–20
 - [x] [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31
 - [x] [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1–29
-- [ ] The Descendants of Esau — Genesis 36:1–43
+- [x] [[The Descendants of Esau]] — Genesis 36:1–43
 
 ### Joseph (37–50)
 

@@ -70,6 +70,12 @@ story is on the throne of Jacob's.
   *"By your sword will you live, and you will serve your brother"*, and *"when you will break loose,
   … you shall shake his yoke from off your neck"* — **both halves of which the historical books
   record**, in that order
+- [[The Descendants of Esau]] — Genesis 36:1–43; **its founding document, and the fullest national
+  register Genesis gives anyone outside the covenant line.** The country acquires, in one chapter, a
+  ruling family, fourteen clan-chiefs, eleven districts, a displaced predecessor population, and
+  eight kings before Israel has one — and the chapter's own vocabulary is Edomite: ***ʾallûp̄***,
+  *chief*, occurs here and in the Chronicler's copy of this list more than in the rest of the Hebrew
+  Bible together. **God is not mentioned anywhere in it**
 
 ## Related places
 
@@ -81,6 +87,12 @@ story is on the throne of Jacob's.
 - [[Kadesh]] — where Israel is camped when it asks Edom for passage (Numbers 20:14–16)
 - [[Moab (place)]] — its northern neighbour, and the Bible's other *brother* nation by descent from
   Lot
+- [[Bozrah]] — its chief city, the one royal seat of Genesis 36 that can still be located, and the
+  city Isaiah 63:1 has the figure in blood-stained garments coming up from
+- [[Rehoboth by the River]] — another of the eight royal seats, unlocated, and not Isaac's well of
+  the same name
+- [[Midian]] — struck by an Edomite king in the field of Moab at Genesis 36:35, in the only battle
+  the chapter records
 
 ## Events here
 
@@ -88,9 +100,14 @@ story is on the throne of Jacob's.
   [[Jacob and Esau and the Sold Birthright]]
 - Given its charter — the sword, the service, and the yoke that comes off — in what is left of
   Isaac's blessing — Genesis 27:39–40, [[The Stolen Blessing]]
-- Esau settles in Seir, having taken his household away from Jacob — Genesis 36:6–8
-  *(not yet ingested)*
-- The chiefs and kings of Edom, *"before any king reigned over the children of Israel"* — Genesis 36
-  *(not yet ingested)*
+- Esau settles in Seir, having taken his household away from Jacob because the land could not carry
+  both — Genesis 36:6–8, [[The Descendants of Esau]]
+- The Horites *"the inhabitants of the land"* given eleven verses of genealogy, and displaced
+  according to Deuteronomy 2:12 — Genesis 36:20–30
+- Fourteen chiefs of Esau by mother, and eleven more *"according to their habitations"* — Genesis
+  36:15–19, 40–43
+- Eight kings, no dynasty, eight cities, *"before any king reigned over the children of Israel"* —
+  Genesis 36:31–39
+- Hadad son of Bedad strikes [[Midian]] in the field of [[Moab (place)]] — Genesis 36:35
 - Refuses Israel passage on the King's Highway — Numbers 20:14–21
 - Garrisoned by David; revolts under Jehoram — 2 Samuel 8:13–14; 2 Kings 8:20–22

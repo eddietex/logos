@@ -245,6 +245,13 @@ where that starts, in a sentence about a family that got halfway.
   **foreigners**"* — ***gār***, the sojourner's verb — **on ground of which the two of them owned one
   cave.** And [[Rachel]] is buried by the roadside between the two statements, on land nobody in the
   family has title to. See [[A Stranger and a Foreigner - The Sojourner's Confession]]
+- [[The Descendants of Esau]] — Genesis 36:6–8, 43: **the one man in Genesis who separates from the
+  covenant line and gains a country by it.** Esau leaves because the land cannot carry two
+  households, and Deuteronomy 2:5 makes the move permanent in the same voice that grants Canaan —
+  *"I have given Mount Seir to Esau for a possession."* **The contrast is drawn in consecutive
+  verses**: 36:43 closes *"This is Esau, the father of the Edomites"*, and 37:1 has Jacob living *"in
+  the land of his father's travels"*, ***məgûrê***, his **sojournings**. Esau possesses; Jacob
+  sojourns. See [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] and [[Edom]]
 
 ## Related themes
 

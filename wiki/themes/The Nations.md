@@ -234,6 +234,14 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   *qəhal ʿammîm*, in the same divine name he made it in. The covenant line is told for the first time
   that it will be **plural**: not one people but an assembly of them, with kings, in a book whose
   seventy nations at chapter 10 were the problem the call of Abram answered
+- [[The Descendants of Esau]] — Genesis 36:1–43: **the fullest national register Genesis gives
+  anyone outside the covenant line**, and the last of the four times the book deals with the
+  passed-over branch first. Edom receives a ruling family, fourteen clan-chiefs by mother, eleven
+  districts, and eight kings *"before any king reigned over the children of Israel"* — and the
+  chapter grants it all without a word of disparagement, in Edom's own political vocabulary
+  (***ʾallûp̄***, *clan-chief*). **It also registers the people Edom displaced**: eleven verses for
+  the Horites, whom the rest of the Torah mentions only to say they were destroyed. See
+  [[Seir the Horite]] and [[Edom]]
 
 ## Related themes
 

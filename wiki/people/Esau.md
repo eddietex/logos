@@ -120,14 +120,45 @@ and Esau accepts it. **The last thing he does in the pericope is keep the plan h
 *"returned that day on his way to Seir"* (33:16) — in contrast to his brother, whose stated plan to
 follow him there Genesis does not show carried out. See [[Deception]].
 
-### What is still ahead
+### In this pericope — Genesis 36:1–43
 
-This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
+**He stops being a brother and becomes a country, and it takes forty-three verses of register to do
+it.**
 
-**He takes his household away from his brother because the land could not hold both of
-them** (36:6–8) — the fourth and last time Genesis clears a brother off the stage — and his *toledot*
-at chapter 36 gives Edom its chiefs and its kings, *"before any king reigned over the children of
-Israel."*
+**He is given two *toledot* headings — 36:1 and 36:9 — and no one else in Genesis gets two.** The
+duplication is the clearest sign that the chapter is an anthology of separate Edomite registers set
+side by side, which is also the best account of its internal disagreements: three wives whose names
+do not match the three of 26:34 and 28:9, a *chief Korah* filed under two different mothers, and an
+[[Anah]] who is Zibeon's son at 36:24 and appears to be his daughter at 36:2.
+
+**He leaves without speaking.** *"Esau took his wives, his sons, his daughters, and all the members of
+his household … and went into a land away from his brother Jacob. For their substance was too great
+for them to dwell together"* (36:6–7) — **which is Genesis 13:6 with the names changed**, the same two
+clauses in the same causal order that sent Lot to the plain of the Jordan. **The difference is that
+Abram spoke and offered Lot the choice, and here nobody says anything at all.** The brother who was
+cheated twice removes himself, one chapter after the two of them buried their father, and the
+narrator does not pause over it. See
+[[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]].
+
+**What he gains by it is the thing his brother never gets.** Deuteronomy 2:5 makes the move permanent
+from the other side — *"I have given Mount Seir to Esau for a possession"* — **a land grant in the
+same voice that grants Canaan.** And Genesis 37:1, the verse after his register ends, has Jacob
+living *"in the land of his father's travels"*, ***məgûrê***, the land of his **sojournings**.
+**Esau possesses; Jacob sojourns**, in consecutive verses, and the book leaves it there.
+
+**Genesis grants his line everything except the covenant.** Fourteen chiefs by mother, eleven more by
+district, and **eight kings *"before any king reigned over the children of Israel"*** (36:31) — the
+promise of 17:6 and 35:11 collected on by the other brother first. **Not one of the eight succeeds
+his father**, and each comes from a different town, which is a good sign the list is genuine Edomite
+material rather than an Israelite construction. See [[Kings Will Come Out of You]] and
+[[The Other Line First - The Order of the Toledot in Genesis]].
+
+**And the chapter never mentions God.** No blessing, promise, altar, or appearance occurs anywhere in
+it — **the only chapter in the Jacob cycle with none** — so the charter of 27:39–40, the sword and
+the service and the yoke that comes off, is never connected to the nation that results from it.
+
+**The last words about him in Genesis are a definition rather than a farewell**: *"This is Esau, the
+father of the Edomites"* (36:43). **After it he is not mentioned in the book again.**
 
 ## Timeline / key events
 
@@ -165,7 +196,15 @@ Israel."*
   33:12–16
 - Buries Isaac with Jacob, named first — Genesis 35:29,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Settles in Seir; his *toledot*, chiefs, and kings — Genesis 36 *(not yet ingested)*
+- Takes his household away from Jacob because the land cannot carry both, in the words Genesis 13:6
+  used of Abram and Lot; settles in the hill country of Seir — Genesis 36:6–8,
+  [[The Descendants of Esau]]
+- Given two *toledot* headings, the only man in Genesis with two — Genesis 36:1, 9
+- His three wives named differently from the way 26:34 and 28:9 named them — Genesis 36:2–3,
+  [[The Names of Esau's Wives - Genesis 26 and Genesis 36]]
+- [[Amalek]] born to his firstborn's concubine, in a subordinate clause — Genesis 36:12
+- Fourteen chiefs by mother, eight kings of Edom, and eleven chiefs by district — Genesis 36:15–43
+- *"This is Esau, the father of the Edomites"* — his last words in the book — Genesis 36:43
 
 ## Appears in
 
@@ -210,6 +249,13 @@ Israel."*
   previous patriarch's grave, and against everything the cycle has done with these two since the
   oracle. **The last thing the brothers do together in Genesis gives him the precedence the whole book
   took from him**, and he does not speak
+- [[The Descendants of Esau]] — Genesis 36:1–43; **the chapter that converts him from a brother into
+  an ancestor, and the last he appears in.** He leaves the land without a word because prosperity
+  has made the country too small for two households — the wording Genesis used of Abram and Lot —
+  and Genesis answers by giving his line chiefs, a national register, and kings before Israel has
+  any. It is the fourth and last run of the book's habit of dealing with the other line first, and
+  the longest by six times. **God is not mentioned in it**, and the charter of 27:39–40 is never
+  connected to the nation that fulfils it
 
 ## Related people
 
@@ -231,6 +277,19 @@ Israel."*
 - [[Basemath (daughter of Elon)]] — his second wife, called Adah by that same register
 - [[Elon the Hittite]] and [[Beeri the Hittite]] — his two fathers-in-law, and the only one of the
   pair Genesis 36 remembers is the first
+- [[Adah (wife of Esau)]] — Elon's daughter under the name the register of Genesis 36 gives her
+- [[Oholibamah]] — his third wife in that register, of the Horite house of Seir, and named nowhere
+  before it
+- [[Eliphaz (son of Esau)]] and [[Reuel (son of Esau)]] — his two sons with descendants; between them
+  they supply eleven of the fourteen chiefs
+- [[Timna]] — his firstborn's concubine, and a Horite noblewoman
+- [[Amalek]] — his great-grandson, and the ancestor of the one nation Israel is told to blot out
+- [[Seir the Horite]] — the eponym of the country he moves into, and the father of the people his
+  descendants displaced
+- [[Anah]] — his father-in-law by Oholibamah, and the one person in Genesis 36 who does anything
+- [[Bela (son of Beor)]], [[Jobab]], [[Hadad (son of Bedad)]], and [[Hadar]] — four of the eight kings
+  who reign in his country before Israel has one
+- [[Mehetabel]] — the last king's wife, and the only queen Genesis names
 
 ## Themes associated
 

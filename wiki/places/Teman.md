@@ -26,10 +26,22 @@ alone the land was given, and no stranger passed among them"* (15:18–19). Whet
 intended the irony cannot be proven. It is available: the man from the town famous for wisdom
 appeals to that wisdom, and God tells him at 42:7 that he did not speak rightly.
 
-Genesis 36:11, 15 names Teman as the firstborn son of Esau's son Eliphaz, and 36:42 lists a chief
-Teman — the standard biblical pattern of a place named for an ancestor, or an ancestor named for a
-place. The overlap with the friend's name and gentilic is close enough that the book's cast is
-generally read as deliberately Edomite; see the note on [[Eliphaz the Temanite]].
+Genesis 36:11, 15 names Teman as the firstborn son of Esau's son [[Eliphaz (son of Esau)]], and 36:42
+lists a chief Teman — the standard biblical pattern of a place named for an ancestor, or an ancestor
+named for a place. The overlap with the friend's name and gentilic is close enough that the book's
+cast is generally read as deliberately Edomite; see the note on [[Eliphaz the Temanite]].
+
+**Now that Genesis 36 is ingested, the overlap can be stated exactly: four of the book of Job's names
+sit in that one chapter** — Uz at 36:28, Eliphaz at 36:4, Teman at 36:11, and a Jobab at 36:33 whom
+the Septuagint's appendix to Job identifies with Job himself. **The wiki takes the coincidence as
+evidence of a setting rather than of an identification**, and the case is laid out at
+[[Jobab of Bozrah and the Septuagint's Job]].
+
+**No separate person page is kept for Teman son of Eliphaz.** He is a name in a list with no act and
+no speech, and everything the wiki has to say about him is the eponym relationship this page already
+describes; splitting him off would force this page to become `Teman (place)` and every inbound link
+to be rewritten, for no gain. **The third king of Edom is *"Husham of the land of the Temanites"***
+(36:34) — the district standing in for a man's origin, which is the same pattern again.
 
 Location is not fixed. Proposals have included Tawilan near Petra and Bozrah, and some scholars
 read Teman as a district of Edom rather than a single town, which would suit the several verses
@@ -40,11 +52,16 @@ that pair it with Bozrah as though the two were distinguishable.
 - [[Eliphaz's Second Speech]] — carried in the gentilic, and standing behind the appeal to
   ancestral wisdom in 15:17–19.
 - [[Miserable Comforters and the Witness in Heaven]] — the same, in the speaker Job answers.
+- [[The Descendants of Esau]] — Genesis 36:11, 15, 34, 42; a grandson of Esau, a chief twice over,
+  and the district the third king of Edom comes from. **The place and the person are the same name
+  doing two jobs**, which is what the whole final register of that chapter does at scale.
 
 ## Related places
 
 - [[Edom]] — the territory Teman belongs to, named in Genesis 25:30 from a bowl of red stew and
   called *the mountain of Esau* by Obadiah.
+- [[Bozrah]] — Edom's chief city, and the name the prophetic oracles pair Teman with: *"I will send a
+  fire on Teman, and it will devour the palaces of Bozrah"* (Amos 1:12).
 - [[Uz]] — Job's own land, named at 1:1 and located vaguely to the east or south-east; Lamentations
   4:21 addresses the daughter of Edom as dwelling in it.
 - **Shuah and Naamah** — the homelands implied by [[Bildad the Shuhite]] and

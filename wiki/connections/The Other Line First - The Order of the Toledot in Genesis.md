@@ -11,7 +11,7 @@ tags: [connection]
 - **Genesis 10:2–20 / 10:21–31** — Japheth and Ham, then Shem
 - **Genesis 25:12–18 / 25:19** — *"the generations of Ishmael"*, then *"the generations of Isaac"*
 - **Genesis 36:1–43 / 37:2** — a whole chapter of *"the generations of Esau"*, then *"the generations
-  of Jacob"*
+  of Jacob"* — [[The Descendants of Esau]]
 - **Genesis 35:28–29** — the same device applied to a death rather than a genealogy: Isaac's dying is
   reported here, at the close of his account, **though the book's own arithmetic places it about
   twelve years after the selling of Joseph** — exactly as Ishmael's death is reported at 25:17 before
@@ -32,9 +32,17 @@ in full, and then closed.**
 | **Esau** — chiefs, kings, and a full national register | 43 verses | **Jacob**, 37:2 | 37:2, the formula itself |
 
 **Four times, and in the same order every time.** The book never opens the chosen line first and then
-doubles back. In the first two cases the passed-over branch is given its space inside a shared
-register and the chosen branch's own *toledot* heading follows a chapter later; from Genesis 25 on,
-the two branches get separate headings back to back.
+doubles back.
+
+**The fourth case has a wrinkle the other three do not: Esau is given the formula twice**, at 36:1 and
+again at 36:9. **No one else in Genesis gets two**, and the duplication is the plainest sign that
+chapter 36 is an anthology of separate Edomite registers set side by side rather than a single
+document — which is also the best account of its internal disagreements over Esau's wives, over
+*chief Korah*, and over whether [[Anah]] is Zibeon's son or his daughter.
+
+In the first two cases the passed-over branch is given its space inside a shared register and the
+chosen branch's own *toledot* heading follows a chapter later; from Genesis 25 on, the two branches
+get separate headings back to back.
 
 ### What the order actually accomplishes
 
@@ -43,6 +51,12 @@ the two branches get separate headings back to back.
 are numerous, they are related to us, here is who they are — and then never returns to them. **After
 25:18 Ishmael appears in Genesis exactly twice more**, both times as a father-in-law (28:9) or as the
 tribe that buys Joseph (37:25–28). After chapter 36, Esau appears not at all.
+
+**And in the fourth case it clears the stage twice over.** Genesis 36 closes out not only Esau but
+**the Horites**, the people his descendants displaced — eleven verses of genealogy for a population
+the rest of the Torah mentions only to say they were destroyed (Deuteronomy 2:12, 22). **The book
+extends the same courtesy to the line that lost the country to the line that lost the covenant.** See
+[[Seir the Horite]].
 
 **It also refuses to make the other line villainous.** This is the part most easily missed. Cain's
 descendants invent metallurgy, music, and the city; Ham's produce the first empire; Ishmael's produce
@@ -80,7 +94,9 @@ brother returns happens immediately before or after his line's genealogy.**
 - Isaac and Ishmael bury Abraham at 25:9; Ishmael's *toledot* follows three verses later, and closes
   him out.
 - Esau and Jacob bury Isaac at 35:29; Esau's *toledot* follows immediately, filling all of chapter 36,
-  and closes him out.
+  and closes him out. **Its last words are a definition rather than a farewell** — *"This is Esau, the
+  father of the Edomites"* (36:43) — and the next verse has Jacob *"in the land of his father's
+  travels."* **One brother becomes a country; the other stays a sojourner**, in consecutive verses.
 
 **In both cases the estranged brother is brought back for the funeral, given his register, and
 released from the book.** Genesis never says a word about how either reconciliation came about. See

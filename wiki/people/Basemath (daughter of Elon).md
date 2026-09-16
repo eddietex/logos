@@ -24,10 +24,10 @@ nothing of it.
 
 | | **Genesis 26:34; 28:9** | **Genesis 36:2–3** |
 |---|---|---|
-| daughter of **Elon the Hittite** | **Basemath** | **Adah** |
-| daughter of **Beeri the Hittite** | Judith | — |
-| daughter of Anah | — | Oholibamah |
-| daughter of **Ishmael** | **Mahalath** (28:9) | **Basemath** |
+| daughter of **[[Elon the Hittite]]** | **Basemath** | **[[Adah (wife of Esau)]]** |
+| daughter of **[[Beeri the Hittite]]** | [[Judith]] | — |
+| daughter of [[Anah]] | — | [[Oholibamah]] |
+| daughter of **[[Ishmael]]** | **[[Mahalath]]** (28:9) | **Basemath** |
 
 **The name *Basemath* is attached to Elon's daughter in one list and to Ishmael's daughter in the
 other**, and the woman Elon's daughter is called in the second list, *Adah*, appears nowhere in the
@@ -52,7 +52,9 @@ scene — the whole apparatus of chapter 24 absent in one verse. See
 - Married by [[Esau]] in his fortieth year, with [[Judith]] — Genesis 26:34, [[Isaac in Gerar]]
 - Named as a bitterness of spirit to Isaac and Rebekah — Genesis 26:35
 - Called *Adah the daughter of Elon the Hittite* in the register of Esau's line — Genesis 36:2, on
-  the ordinary identification *(not yet ingested)*
+  the ordinary identification; [[The Descendants of Esau]] and [[Adah (wife of Esau)]]
+- Her son [[Eliphaz (son of Esau)]] heads the senior Edomite branch and supplies seven of the
+  fourteen chiefs, and [[Amalek]] is counted in her line — Genesis 36:10–12, 15–16
 
 ## Appears in
 

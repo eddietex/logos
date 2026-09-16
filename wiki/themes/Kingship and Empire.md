@@ -101,6 +101,14 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   sits unredeemed for the whole of the Torah and the conquest. Paired here with *"a nation and a
   company of nations"*, it makes the covenant line's future political shape explicit for the first
   time since chapter 17. See [[Kings Will Come Out of You]]
+- [[The Descendants of Esau]] — Genesis 36:31–39: **eight kings in Edom before Israel has one**, and
+  the Bible's only sustained description of how a neighbouring monarchy actually worked. **No son
+  succeeds a father anywhere in the list** — the formula is *X died, and Y reigned in his place*,
+  with a fresh patronymic or home town each time and eight different cities — so this is an elective
+  or imposed chieftainship rather than a dynasty, which is a poor model for what 2 Samuel 7 promises
+  David and a good illustration of why Deuteronomy 17:14–20 hedges the office instead of simply
+  granting it. The dating clause at 36:31 is also one of the most discussed verses in the Torah. See
+  [[Kings Will Come Out of You]], [[Bela (son of Beor)]], and [[Hadar]]
 
 ## Related themes
 

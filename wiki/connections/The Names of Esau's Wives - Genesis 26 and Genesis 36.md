@@ -14,7 +14,7 @@ tags: [connection]
   [[Isaac Sends Jacob to Paddan Aram]] and [[Mahalath]]
 - **Genesis 36:2–3** — *"Esau took his wives from the daughters of Canaan: Adah the daughter of Elon
   the Hittite; and Oholibamah the daughter of Anah, the daughter of Zibeon the Hivite; and Basemath,
-  Ishmael's daughter, sister of Nebaioth."* *(not yet ingested)*
+  Ishmael's daughter, sister of Nebaioth."* — [[The Descendants of Esau]]
 - **Genesis 27:46** — Rebekah's *"I am weary of my life because of the daughters of Heth"*, which is
   what 26:35 is for — [[Isaac Sends Jacob to Paddan Aram]]
 
@@ -24,10 +24,10 @@ tags: [connection]
 
 | father | **Genesis 26:34; 28:9** | **Genesis 36:2–3** |
 |---|---|---|
-| Elon the Hittite | **Basemath** | **Adah** |
-| Beeri the Hittite | **Judith** | — |
-| Anah / Zibeon the Hivite | — | **Oholibamah** |
-| Ishmael | **Mahalath** (28:9) | **Basemath** |
+| [[Elon the Hittite]] | **[[Basemath (daughter of Elon)]]** | **[[Adah (wife of Esau)]]** |
+| [[Beeri the Hittite]] | **[[Judith]]** | — |
+| [[Anah]] / Zibeon the Hivite | — | **[[Oholibamah]]** |
+| [[Ishmael]] | **[[Mahalath]]** (28:9) | **Basemath** |
 
 **Three discrepancies, and they are of different kinds.**
 
@@ -36,7 +36,9 @@ tags: [connection]
 2. **The same name, two fathers.** *Basemath* is Elon's daughter in the first list and Ishmael's in
    the second — and Ishmael's daughter is called *Mahalath* in the first.
 3. **A wife who appears in only one list each way.** Judith daughter of Beeri is absent from Genesis
-   36; Oholibamah daughter of Anah is absent from Genesis 26 and 28.
+   36; Oholibamah daughter of Anah is absent from Genesis 26 and 28. **This is the discrepancy the
+   two-names harmonisation cannot reach at all**, because neither woman has a counterpart in the
+   other list to be renamed into.
 
 **Genesis states both lists flatly and never notices**, in exactly the way it explains the name
 Beersheba twice (21:31; 26:33) without noticing. See
@@ -58,6 +60,15 @@ Beersheba twice (21:31; 26:33) without noticing. See
   the Samaritan Pentateuch and the Septuagint differ from the Masoretic text at points in Genesis
   36:2 — so part of the divergence may be a copying history rather than an authorial one. **This
   explains some of it and not the *Basemath* transfer.**
+
+**Now that Genesis 36 is ingested, the textual point can be made precisely, and it cuts both ways.**
+36:2's *"Oholibamah the daughter of Anah, the daughter of Zibeon"* reads as though [[Anah]] were
+Zibeon's daughter, while 36:24 makes him Zibeon's son — and the Samaritan Pentateuch, the Septuagint,
+and the Syriac all read *son* at 36:2. **So the verse that carries the third wife's name is
+demonstrably unstable in transmission**, which strengthens the copying-history account for her entry
+and does nothing at all for *Basemath*, whose transfer is attested in every witness. The chapter has
+a second seam of the same kind at 36:16, where a *chief Korah* is filed under the wrong mother; see
+[[The Descendants of Esau]].
 
 ### Why the wiki flags it rather than settling it
 

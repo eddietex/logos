@@ -15,7 +15,7 @@ tags: [connection]
   Genesis occurrences**, and the only one given to a man who already has the twelve sons the kings
   will descend from. See [[Return to Bethel; the Deaths of Rachel and Isaac]].
 - **Genesis 36:31** — the note that dates the whole thread: *"These are the kings who reigned in the
-  land of Edom, before any king reigned over the children of Israel."*
+  land of Edom, before any king reigned over the children of Israel."* — [[The Descendants of Esau]]
 - **Genesis 49:10** — *"The scepter will not depart from Judah, nor the ruler's staff from between
   his feet"*: the promise narrowed to one tribe.
 - **Numbers 24:17** — Balaam, an outsider: *"A star will come out of Jacob. A scepter will rise out
@@ -71,6 +71,37 @@ directly, and it is the sharpest sign of what the chapter is doing. Genesis 15 p
 from Abraham's body and said nothing about hers; Genesis 16 filled the gap with a slave. Genesis 17
 puts the dynasty in the barren woman, twice, and gives her a new name in the same speech. See
 [[Sarah]] and [[Barrenness]].
+
+### Edom collects first
+
+**The promise is made to Abraham at 17:6, repeated to Jacob at 35:11 — and the very next chapter
+hands eight kings to the other brother.**
+
+> **31** These are the kings who reigned in the land of Edom, before any king reigned over the
+> children of Israel.
+
+**The placement is brutal and almost certainly deliberate.** 35:11's *"kings will come out of your
+body"* is the last thing God says to Jacob in the cycle; 36:31 is thirty-one verses later. See
+[[Return to Bethel; the Deaths of Rachel and Isaac]] and [[The Descendants of Esau]].
+
+**It is of a piece with everything the *toledot* order does.** The passed-over line always gets its
+credentials on the page first — Cain's crafts, Ham's empire, Ishmael's twelve princes — and here it
+gets the institution Israel has been promised and will not have for four hundred years. **Genesis
+grants Edom everything except the covenant**, and does not explain the difference. See
+[[The Other Line First - The Order of the Toledot in Genesis]].
+
+**And the clause is a dating formula, which is why it is one of the most discussed verses in the
+Torah.** *Before any king reigned over the children of Israel* assumes a reader who knows there were
+kings in Israel; written before Saul it is a prediction, written after it is a retrospect, and the
+plain sense is the second. It is among the verses Ibn Ezra hinted at in *the secret of the twelve*,
+and it became a standard pillar of the case that the Pentateuch reached its final form long after
+Moses. **The thread above does not depend on how that question is settled** — the promise and the
+irony sit in the text either way.
+
+**Note also what kind of monarchy Edom's is.** Eight kings, no son succeeding a father, eight
+different cities. **It is an elective or imposed chieftainship, not a dynasty** — which makes it a
+poor model for what 2 Samuel 7 eventually promises David, and a good illustration of why Deuteronomy
+17:14–20 has to hedge the office rather than simply grant it.
 
 ### The narrowing
 

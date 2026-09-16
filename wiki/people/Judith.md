@@ -50,7 +50,10 @@ tension. See [[The Children of Heth]] and [[Ephron the Hittite]].
 
 - Married by [[Esau]] in his fortieth year — Genesis 26:34, [[Isaac in Gerar]]
 - Named, with Basemath, as a bitterness of spirit to Isaac and Rebekah — Genesis 26:35
-- Absent from the list of Esau's wives at Genesis 36:2–3 *(not yet ingested)*
+- **Absent from the list of Esau's wives at Genesis 36:2–3** — the one of the four women the later
+  register does not carry in any form, and the discrepancy no two-names harmonisation reaches;
+  [[The Descendants of Esau]] and
+  [[The Names of Esau's Wives - Genesis 26 and Genesis 36]]
 
 ## Appears in
 

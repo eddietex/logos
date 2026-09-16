@@ -146,3 +146,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Renamed and Still Called Jacob - The Two Namings of Israel]] | parallel | Genesis 32:28 · Genesis 35:9–10 · Genesis 17:5, 15 · Genesis 35:21–22 · Genesis 46:2 · Hosea 12:2–4 |
 | [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] | prophecy → fulfillment | Genesis 35:19–20 · Genesis 48:7 · 1 Samuel 10:2 · Jeremiah 31:15–17 · Matthew 2:16–18 · Ruth 4:11 |
 | [[Lying with the Father's Concubine - A Claim on the Succession]] | thread | Genesis 35:22 · Genesis 49:3–4 · 1 Chronicles 5:1–2 · 2 Samuel 3:7–8 · 2 Samuel 16:21–22 · 1 Kings 2:13–25 · Leviticus 18:8 · Deuteronomy 27:20 · 1 Corinthians 5:1 |
+| [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
+| [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
+| [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |

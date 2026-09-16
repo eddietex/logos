@@ -32,8 +32,9 @@ daughters the marriage rule of 24:3 was designed to exclude. See [[The Children 
 ## Timeline / key events
 
 - His daughter is married by [[Esau]] — Genesis 26:34, [[Isaac in Gerar]]
-- Named again in the register of Esau's line, with a different daughter's name — Genesis 36:2
-  *(not yet ingested)*
+- Named again in the register of Esau's line, with a different daughter's name — Genesis 36:2,
+  [[The Descendants of Esau]]; the daughter is [[Adah (wife of Esau)]] there and
+  [[Basemath (daughter of Elon)]] at 26:34
 
 ## Appears in
 
