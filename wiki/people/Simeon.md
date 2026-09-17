@@ -39,10 +39,6 @@ them the last word and withholds its verdict for fifteen chapters. See
 
 This page grows as the remaining pericopes arrive; what follows is the shape of them.
 
-He is the brother [[Joseph]] binds before the others' eyes and keeps in Egypt as security (42:24) —
-**Genesis does not say why him**, and the readings range from second-eldest after the disqualified
-[[Reuben]] to the Dinah affair to nothing at all.
-
 **Jacob's deathbed puts him and Levi in a single curse**, the only two of the twelve to share one:
 
 > **5** Simeon and Levi are brothers. Their swords are weapons of violence. **6** My soul, don't come
@@ -63,7 +59,9 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   34:13–31, [[Dinah and the Massacre at Shechem]]
 - Listed among the twelve, second of [[Leah]]'s six sons — Genesis 35:23,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Bound by Joseph and held in Egypt as security — Genesis 42:24, 36; 43:23 *(not yet ingested)*
+- Bound by [[Joseph]] before his brothers' eyes and left in Egypt as security — Genesis 42:24, 36,
+  [[The Brothers' First Journey to Egypt]]
+- Released on the second journey — Genesis 43:23 *(not yet ingested)*
 - Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
   ingested)*
 
@@ -78,6 +76,15 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list.** Second of
   Leah's six in the Bible's first complete roster of the twelve, one chapter after the massacre at
   Shechem and with no reference to it
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:24, 36; **the chapter's price, and he has no
+  speech in it.** [[Joseph]] *"took Simeon from among them, and bound him before their eyes"* — **the
+  binding is staged, as the stripping of the coat was** — and he stays in Egypt when the other nine go
+  home. **Genesis gives no reason for choosing him.** The sequence invites one: [[Reuben]] identifies
+  himself two verses earlier as the brother who objected, and **Joseph has just learned through an
+  interpreter which of them tried to stop it**; the next brother in birth order is seized. Others read
+  it back to Genesis 34. **The text supplies the order of events and no motive.** His brothers leave
+  without a recorded word about him, and [[Jacob]] counts him with the dead: *"Joseph is no more, Simeon
+  is no more"* (42:36)
 
 ## Related people
 

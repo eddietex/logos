@@ -14,8 +14,12 @@ tags: [connection]
   rebuked him … "Will I and your mother and your brothers indeed come to bow ourselves down to you to the
   earth?"*
 - **Genesis 37:19–20** — *"Behold, this dreamer comes … We will see what will become of his dreams."*
-- **Genesis 42:6, 9** — *"Joseph's brothers came, and bowed themselves down to him with their faces to
-  the earth. Joseph remembered the dreams which he dreamed about them."*
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:6, 9**: *"Joseph's brothers came, and bowed
+  themselves down to him with their faces to the earth. Joseph remembered the dreams which he dreamed
+  about them."* **The first fulfilment, now ingested — and it is partial.** Ten brothers bow, not
+  eleven; [[Benjamin]] is in Canaan and [[Jacob]] is with him, **so the first dream is short a sheaf and
+  the second has neither the sun nor the moon.** Genesis spends eleven words on the moment, adds no
+  comment, and **has the dreamer respond by accusing the dreamers of espionage**
 - **Genesis 43:26**; **44:14**; **50:18** — the second, third, and fourth bowings.
 - **Genesis 47:31** — *"Israel bowed himself on the bed's head"* — the father's one bow, and it is not to
   his son.

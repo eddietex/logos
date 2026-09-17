@@ -161,6 +161,10 @@ what Job is asking for.
   own starving subjects cry to him for bread and he answers ***"Go to Joseph. What he says to you, do"***
   (41:55) — **a king referring his people to an intermediary**, which is where the rest of the book's
   brother-scenes begin
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:23, 37; ***mēlîṣ***, the noun that elsewhere means *mediator* (Job 33:23), **here
+  reduced to a court functionary** — and the chapter's plot depends entirely on him. **[[Reuben]]'s
+  surety at 42:37 is advocacy that fails** because it offers the wrong collateral (two grandsons), and
+  it sets up [[Judah]]'s offer of himself at 43:9, which is the one that works
 
 ## Related themes
 

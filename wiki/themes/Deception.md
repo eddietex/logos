@@ -234,6 +234,11 @@ has become a nation.
   breaks the deception is not a confession but a question**: *hakker-nāʾ*, the phrase Judah's own
   brothers used on Jacob one chapter earlier. See
   [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:7–23; **the cycle's third long deception and the first one [[Joseph]] runs.**
+  Jacob deceived Isaac with a garment, the brothers deceived Jacob with a garment; **Joseph deceives
+  the brothers with a costume, an accent, an oath by a foreign king, and a translator he does not
+  need.** ***Wayyitnakkēr*** — *he made himself unrecognisable* — **is the deception in one word, and
+  it is the same root as the recognition standing beside it** (42:7)
 
 ## Related themes
 

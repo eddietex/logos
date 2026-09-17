@@ -124,6 +124,8 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
 - The pledge at [[Enaim]]; the death sentence; *hakker-nāʾ*; *"She is more righteous than I"* —
   Genesis 38:14–26
 - [[Perez]] and [[Zerah]] born — Genesis 38:27–30
+- Silent through the first journey to Egypt, in a chapter that turns on the verb his brothers obeyed
+  at 37:27 — Genesis 42, [[The Brothers' First Journey to Egypt]]
 - Stands surety for Benjamin, and offers himself in his place — Genesis 43:8–9; 44:18–34 *(not yet
   ingested)*
 - Blessed at Jacob's deathbed; the lion, the sceptre, and the second pun on his name — Genesis 49:8–12
@@ -150,6 +152,13 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
   hands his seal to a veiled woman at a gate, sentences her to burn without a hearing, and — shown his
   own signet — says the first unqualified admission of fault in the book. **The line of David starts in
   the last four verses**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42; **not named once, and the silence is loud.**
+  He had said *"he is our brother, our flesh"* (37:27) as an argument for selling rather than killing,
+  **and *"his brothers listened to him"*** — ***šāmaʿ***, the exact verb whose failure they confess at
+  42:21 (*"he begged us, and we wouldn't listen"*). **They could hear a sales pitch and not a boy, and
+  the pitch was his.** He takes no part in the confession, the report, or [[Reuben]]'s failed surety;
+  **he speaks first thing in the next chapter, and what he offers is himself** (43:9). Genesis puts his
+  silence exactly where Reuben's self-justification is
 
 ## Related people
 

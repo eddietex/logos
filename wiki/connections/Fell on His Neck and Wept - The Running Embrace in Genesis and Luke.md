@@ -14,6 +14,11 @@ tags: [connection]
 - **Genesis 46:29–30** — Joseph *"fell on his neck, and wept"*; Jacob answers, *"since I have seen
   your face, that you are still alive"* *(not yet ingested)*
 - **Luke 15:20** — the father of the prodigal son *"ran, and fell on his neck, and kissed him"*
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:24**: **the first of [[Joseph]]'s seven
+  weepings, and the only one he hides completely.** *"He turned himself away from them, and wept. Then
+  he returned to them"* — **there is no embrace, and the men he is weeping for do not know it
+  happened.** The sequence that ends in 45:14's neck and 46:29's *"wept on his neck a good while"*
+  starts here, **behind a door, immediately before he puts [[Simeon]] in chains**
 
 ## Analysis
 

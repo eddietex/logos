@@ -130,6 +130,12 @@ verdicts.
   ever specified**, here or at 1 Chronicles 2:3. **The book that supplies a reason for the flood, for
   Sodom, and for Babel supplies none for its first individual execution.** The wiki records this as a
   fact about the text and **does not argue from it**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:21–22; **the doctrine put into the mouths of the guilty, about themselves, and
+  the reader knows it is wrong.** *"Therefore this distress has come upon us"* — ***ṣārâ*** for their
+  punishment and ***ṣārâ*** for the anguish they caused, in a single verse. **They read an Egyptian
+  interrogation as a divine reckoning**; it is in fact their living victim running a test. [[Reuben]]
+  raises it to covenant law with *"his blood is required"* (9:5). **Genesis prints the theory, lets it
+  produce a true confession from a false premise, and never endorses it**
 
 ## Related themes
 

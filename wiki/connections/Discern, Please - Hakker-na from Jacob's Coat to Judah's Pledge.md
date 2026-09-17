@@ -17,6 +17,13 @@ tags: [connection]
   [[The Stolen Blessing]]
 - **Genesis 31:32** — Jacob to Laban about the teraphim: *"discern what is yours with me, and take
   it"* — [[Jacob's Flight from Laban]]
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:7–8**: ***nkr* four times in two verses, the
+  densest use of the root in the Bible, and the only place it runs in both directions at once.** *"He
+  **recognized** them"* (*wayyakkēr*), *"but **acted like a stranger** to them"* (*wayyitnakkēr*) —
+  **same root, two stems, consecutive clauses** — then *"Joseph **recognized** his brothers, but they
+  didn't **recognize** him."* **The verb the brothers used to make their father identify a dead son
+  (*hakker-nāʾ*, 37:32) is now the verb by which the living son identifies them and refuses to be
+  identified**
 
 ## Analysis
 

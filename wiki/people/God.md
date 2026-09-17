@@ -1449,6 +1449,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   if the Redeemer is God — the officer Job asks to take his case against God
 - [[Zophar's Second Speech]] — purely as executioner: he empties the belly, rains the wrath, and
   appoints the heritage
+- [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
+  from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
+  reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to
+  us?"*** (42:28) — **the first time anyone but Joseph mentions him in the whole cycle** — reads a
+  returned purse as a punishment. **The narrator says nothing**, for the third consecutive chapter —
+  the narration is silent about him from 39:23 until 46:1–2.
+  Nothing in Genesis 42 is attributed to God by anyone who is right about it, and everything in it is
+  his doing; see [[Providence]]
 
 ## Related people
 

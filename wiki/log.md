@@ -6998,3 +6998,150 @@ literal `[[` text and would have vanished from the graph and from backlinks with
 repository able to see it. Fixed and the paragraph rewrapped.
 
 Genesis stands at 50 / 59 pericopes; the next is *The Brothers' First Journey to Egypt*, Genesis 42:1–38.
+
+## [2026-09-17] ingest | Genesis 42.1-38 — The Brothers' First Journey to Egypt
+
+Unattended run (`/ingest auto`). Genesis 42 in one pass — the pericope the book page had queued, taken
+whole because the chapter is a single unbroken movement from Jacob's first order to his last refusal,
+and every proposed internal break (after the three days, after the confession, after the road home)
+cuts a verbal echo of Genesis 37 in half.
+
+### The passage page
+
+[[The Brothers' First Journey to Egypt]], `wiki/passages/Genesis/`, built around four findings.
+
+**1. The chapter is Genesis 37 replayed with the parts exchanged, and the replay is lexical rather than
+thematic.** Tabulated on the page: the bowing of 37:7 at 42:6; *hakker-nāʾ* (37:32) answered by
+*wayyakkēr* / *wayyitnakkēr* (42:7); the pit (37:24) answered by the *mišmār* (42:17) — **which is the
+word for the place Joseph himself was held at 40:3**; Reuben's *"shed no blood"* (37:22) answered by
+his own *"his blood is required"* (42:22); and 37:35's Sheol vow repeated almost verbatim at 42:38.
+
+**2. *ʾênennû*.** Reuben coins *"the child is no more"* at the empty pit (37:30); the brothers use it
+to Joseph's face at 42:13 and 42:32; **Jacob says it twice in one breath at 42:36**, over Joseph and
+over Simeon. Three men across twenty-two years, each refusing to name what happened.
+
+**3. Genesis 42:21 discloses a fact the narrator withheld for five chapters.** *"He begged us, and we
+wouldn't listen"* — **Genesis 37 never records Joseph speaking in the pit**; it reports the stripping
+and the throwing and goes straight to *"they sat down to eat bread."* The pleading exists only in the
+memory of the men who ignored it. Filed as its own connection page (below) because the technique, not
+just the content, is the point. The linking verb is *šāmaʿ*: *"his brothers **listened** to him"*
+(37:27, the sale) against *"we **wouldn't listen**"* (42:21).
+
+**4. *ʾăšēmîm* (42:21) is the only occurrence of the root in Genesis** — the guilt-offering word, legal
+rather than emotional. The brothers say *we owe*, not *we are sorry*, and they say it believing no one
+is listening.
+
+### Judgment calls made without the user (unattended mode)
+
+- **Title kept as the book page had it**, `The Brothers' First Journey to Egypt` — no collision with any
+  existing passage title in Genesis or Job.
+- **No page for the interpreter of 42:23**, despite his being the mechanism the whole chapter runs on.
+  Follows the standing practice on unnamed functionaries with no recorded speech (the keeper of the
+  prison, Egypt's magicians). Recorded explicitly in the passage page's Notes so the decision is visible
+  rather than implicit. **Reuben's two sons (42:37) likewise get no page.**
+- **No motive asserted for Joseph's cruelty.** Revenge, testing and getting at Benjamin each fail on
+  some part of the text (the returned money, the pointless three days, the fact that the demand precedes
+  the confession). The page states the sequence — he sees them, he remembers the dreams, he accuses them
+  — and stops there.
+- **No motive asserted for the choice of Simeon.** The page gives the sequence that invites the
+  second-eldest-after-the-disqualified-Reuben reading, notes the Genesis 34 reading, and says the text
+  supplies neither.
+- **Three new themes rather than one.** [[Guilt and Conscience]] was unavoidable — 42:21 is its
+  foundation text and nothing existing covered it ([[Sin]] is the act, [[Retribution]] is the brothers'
+  own mistaken theory). [[Providence]] turned out not to exist at all, which was a real gap: 42:36 is
+  its hardest case and 45:5–8 / 50:20 are four pericopes away. [[Brotherhood]] likewise — *ʾāḥ* governs
+  the chapter end to end and [[Envy]] and [[Strife and Peacemaking]] between them were not carrying it.
+  A fourth, *Family Conflict*, was considered and dropped as redundant against [[Envy]].
+
+### Pages created (7)
+
+- Passage: [[The Brothers' First Journey to Egypt]]
+- Themes: [[Guilt and Conscience]] · [[Providence]] · [[Brotherhood]]
+- Connections: [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] ·
+  [[His Blood Is Required - Darash and the Reckoning for Blood]] ·
+  [[By the Life of Pharaoh - Oaths Sworn by a King]]
+
+The *Darash* page traces *dāraš* + *dām* from 9:5 through 42:22 to Ezekiel 33:6 and Luke 11:50–51, and
+its point is that **the idiom's development runs from the killer to the bystander** — Ezekiel's watchman
+is liable for having seen and not spoken, which is exactly the offence the brothers name against
+themselves at 42:21. The *By the Life of Pharaoh* page records that *ḥê parʿōh* is **the only oath in
+Scripture sworn on an Egyptian king**, that Joseph swears it twice in two verses to guarantee two
+statements he knows to be false, and that Israelite usage always doubles the king-oath with *ḥay-YHWH*
+rather than replacing it.
+
+### Pages revised (49)
+
+- **People (15)**: [[Joseph]], [[Jacob]], [[Benjamin]], [[Reuben]], [[Simeon]], [[Judah]] in full;
+  [[Levi]], [[Dan (person)]], [[Naphtali]], [[Gad]], [[Asher]], [[Issachar]], [[Zebulun]] with the
+  shared entry the chapter's grammar actually warrants — **the ten act and speak only as a plural, and
+  the confession of 42:21 is attributed to no one**; plus [[Pharaoh (of Joseph's time)]] and [[God]].
+  The `(not yet ingested)` markers pointing at 42 on Joseph, Jacob, Benjamin, Reuben, Simeon and Judah
+  were converted; Simeon's `## What is still ahead` paragraph anticipating 42:24 was removed as now
+  redundant with the body.
+- **Places (3)**: [[Egypt]], [[Canaan]], [[Sheol]].
+- **Themes (17)**: [[Retribution]], [[Prophecy and Vision]], [[Testing]], [[Deception]],
+  [[Remembrance]], [[Language and Speech]], [[Seeing and Being Seen]], [[Famine and Plenty]],
+  [[Suffering]], [[Envy]], [[The Fear of God]], [[Mediation and Advocacy]],
+  [[Nakedness and Covering]], [[Oaths and Vows]], [[Slavery and Servitude]], [[Life and Death]],
+  [[Land and Sojourning]].
+- **Connections (7)**: [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] (the fulfilment
+  happens here and is **partial** — ten sheaves, not eleven, and neither the sun nor the moon, which is
+  the mechanical reason chapters 43–45 exist); [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
+  (42:7–8 is the densest *nkr* in the Bible and the only place it runs both directions at once);
+  [[Whoever Sheds Man's Blood]]; [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]];
+  [[Renamed and Still Called Jacob - The Two Namings of Israel]];
+  [[Twenty Pieces of Silver - The Price of a Brother]];
+  [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]].
+- **Indexes (6) and the book page**: [[books/index|Books]] (Genesis 51 / 59), [[people/index|People]],
+  [[places/index|Places]], [[themes/index|Themes]], [[connections/index|Connections]], [[index]]
+  (57 passages · 132 people · 66 places · 62 themes · 167 connections), and the [[Genesis]] book page —
+  box checked and the chapter added to the book-level overview.
+
+### Corrections made to the wiki's own claims
+
+**Two overstatements were caught and fixed before commit, both of mine from this pass.**
+
+- The passage page and `wiki/people/God.md` each said Genesis 42 was **the fourth consecutive chapter**
+  in which every attribution to God sits inside quotation marks. **It is the third** — 39:2, 3, 5, 21
+  and 23 are the narrator's own. Corrected on both, with the actual span named: **the narration is
+  silent about God from 39:23 until 46:1–2.**
+- The new [[Providence]] page opened by claiming the narrator attributes nothing to God *from 37:1 to
+  50:26*, which the same page contradicted twenty lines later. **Rewritten to the verifiable claim**
+  (39:23 → 46:1) with the bracketing narrator-verses — 38:7, 38:10, 39:2–23, 46:2 — named explicitly.
+
+### Quotation check
+
+Every block quote on the seven new pages was diffed against `raw/bible/Genesis.md` by a scratchpad
+script: **0 mismatches.** The inline italic quotations were then checked the same way, which caught
+**fourteen inexact renderings**, all fixed against the raw file:
+
+- 45:2 was quoted *"he wept aloud, and the Egyptians heard"* — the WEB has two sentences,
+  *"He wept aloud. The Egyptians heard."*
+- 41:57 was quoted *"all countries came into Egypt to buy grain"*, dropping *"to Joseph"*.
+- 41:51 was quoted *"God has made me forget all my father's house"*, dropping *"all my toil, and"*.
+- 43:9 was quoted *"I will be collateral for him"*; the WEB has *"I'll be collateral for him."*
+- 45:8 was quoted *"it was not you"*; the WEB has *"it wasn't you."*
+- 45:4, 4:8, 9:5, 20:5, 37:4 and 42:22 were each missing an internal comma or clause.
+- Two paraphrases were sitting inside quotation marks as though they were text — *"I told you so"* of
+  Reuben and *"Didn't I tell you?"* — and have been replaced by the verbatim 42:22 or by unquoted prose.
+
+**One further fault, and it is the kind that reads as correct:** [[Jacob]] and [[Life and Death]] both
+quoted 42:38 as *"you will bring down my gray hairs with sorrow to [[Sheol]]"* — **a wikilink inside a
+scripture quotation**, which silently edits the quoted text into something the WEB does not say. The
+links were moved outside the quotation marks on both pages. Worth a standing note: nothing mechanical
+catches this, because the link is valid and the quote still looks verbatim.
+
+### Link check
+
+`scripts/link-check.sh` exits 0, expected baseline 64 not-yet-started book pages. No wrapped links and
+no dangling targets. **No links were deliberately left for a later pericope this pass** — 43:9, 44:2,
+44:16, 44:20, 45:1–3 and 50:15–21 are all named in prose and marked `*(not yet ingested)*` rather than
+linked, since their passage pages do not exist yet.
+
+### Pre-existing findings, still open
+
+Unchanged from the last entry and not touched this pass: the stale `*(not yet ingested)*` marker on
+[[The Tower of Babel]] pointing at Genesis 19:1–29; the `wiki/people/God.md` truncation at 25:11; and
+the seven older passage pages not yet retro-linked to [[Sexual Sin]].
+
+Genesis stands at 51 / 59 pericopes; the next is *The Second Journey*, Genesis 43:1–34.

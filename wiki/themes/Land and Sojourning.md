@@ -268,6 +268,10 @@ where that starts, in a sentence about a family that got halfway.
   12:10 and was forbidden to move [[Isaac]] at 26:2 — **and this is the famine that moves the whole
   household permanently**, since 41:57's *"all countries came into Egypt"* is what puts Jacob's sons on
   the road in 42:1. See [[Famine and Plenty]]
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:2–5, 34; **the first descent of the sons of Israel into Egypt as a group**, in
+  the verb ***yārad*** that carries every descent in the book (12:10; 39:1; 46:3). *"You shall trade in
+  the land"* (42:34) — **a promise Joseph never made, invented by the brothers in the retelling** — is
+  the first hint of the settlement 47:27 will report
 
 ## Related themes
 

@@ -63,6 +63,13 @@ named in the New Testament as a living identity.**
   [[Bilhah]] and [[Zilpah]] the *evil report* concerned.** The clause that identifies them is also the one
   that calls their mothers Jacob's *wives*, against *concubine* and *servant* two verses apart in the
   previous chapter. **He neither speaks nor is singled out in the chapter**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38; **one of the ten who go down, and he
+  acts and speaks only as part of a plural.** The chapter gives *"they said"* and *"they said to one
+  another"* and never separates them: **the protest of innocence, the words *"we are twelve brothers…
+  and one is no more"*, and the confession of 42:21 — *"we are certainly guilty concerning our
+  brother"* — are all spoken by the group and attributed to no one.** Only [[Reuben]] and [[Simeon]]
+  are singled out. He bows to [[Joseph]] without recognising him (42:6–8), spends three days in
+  custody, and carries home grain and money he did not expect
 
 ## Related people
 

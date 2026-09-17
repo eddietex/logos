@@ -115,6 +115,10 @@ requires only that you be standing outside it.
   prophecy his family is about to live inside, and Genesis does not point it out.** The other half of
   the same breath is 41:51 — *"God has made me forget all my toil"*, ***ʿămālî*** — **thirteen years and
   a father put in one clause and given thanks for as a thing lifted**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:21; ***ṣārat napšô***, *"the distress of his soul"* — **the only description
+  anywhere in Scripture of what the pit was like for the boy inside it.** It is four words long, it is
+  twenty-two years late, **and it is given in a confession rather than a narration**, by the men who
+  watched it happen
 
 ## Related themes
 

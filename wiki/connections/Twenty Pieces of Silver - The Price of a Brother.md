@@ -19,6 +19,12 @@ tags: [connection]
   with them.
 - **Genesis 37:26** — *"What profit is it if we kill our brother and conceal his blood?"* — ***mah-beṣaʿ***,
   *what gain*.
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:25–28, 35**: **the silver comes back, and it
+  terrifies them.** [[Joseph]] orders the purchase money returned into their sacks; **one man finds his
+  at the lodging place and *"their hearts failed them"*** (42:28), and **the rest of it comes out in
+  front of their father** (42:35). They sold a brother for twenty pieces and told [[Jacob]] nothing;
+  **twenty-two years later unexplained silver is emptied onto the floor in his sight** — and the
+  question they ask is *"What is this that God has done to us?"*
 
 ## Analysis
 

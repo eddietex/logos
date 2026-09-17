@@ -156,6 +156,12 @@ noticing into doctrine.
   ***hayʾōr*** and ***ḥarṭummîm*** are **Egyptian loanwords used as though they were Hebrew.** **Set
   against that, the chapter's most precise verbal effect is a repetition**: Pharaoh's *"it couldn't be
   known"* (41:21), ***lōʾ nôdaʿ***, handed back to him ten verses later as ***lōʾ-yiwwādaʿ*** (41:31)
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:23; **the only verse in Genesis where the barrier between two parties is
+  linguistic and is deliberately maintained by the one man who could remove it.** *"They didn't know
+  that Joseph understood them; for there was an interpreter between them"* — ***mēlîṣ***, a rare noun
+  that elsewhere means *mediator* (Job 33:23; Isaiah 43:27). **He speaks *roughly* (42:7, literally
+  *hard things*), swears in Egyptian court idiom, and withholds the one sentence in his own language
+  that would end the chapter**
 
 ## Related themes
 

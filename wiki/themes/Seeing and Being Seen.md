@@ -187,6 +187,11 @@ will finally go both ways.
   is the confession that follows: *"Because God has ***shown*** you all of this"* (41:39), which is
   Joseph's own word at 41:25 and 41:28. **What God does in this chapter, on the chapter's own account, is
   show somebody something**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1, 7, 9, 21; **the chapter's sin is a thing that was watched.** Jacob *saw*
+  there was grain (42:1); Joseph *saw* his brothers and made himself unseeable (42:7); the espionage
+  charge is about *seeing* *"the nakedness of the land"* (42:9, 12); **and the confession is
+  *"we saw the distress of his soul… and we wouldn't listen"*** (42:21). **Seeing without acting is
+  what they finally name as the offence**
 
 ## Related themes
 

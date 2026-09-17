@@ -125,7 +125,10 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
 - Named first and titled *"Jacob's firstborn"* in the roster, one verse later — Genesis 35:23
 - Proposes the pit instead of murder, intending a rescue; returns to find it empty and tears his clothes —
   Genesis 37:21–22, 29–30, [[Joseph Sold into Slavery]]
-- Offers his two sons as surety for Benjamin — Genesis 42:37 *(not yet ingested)*
+- *"Didn't I tell you… 'Don't sin against the child'?"*; invokes the Noahic *"his blood is required"*
+  over a brother standing in the room — Genesis 42:22, [[The Brothers' First Journey to Egypt]]
+- Offers his father the lives of his own two sons as surety for [[Benjamin]], and is not answered —
+  Genesis 42:37
 - Disinherited from the birthright at Jacob's deathbed — Genesis 49:3–4; 1 Chronicles 5:1–2 *(not yet
   ingested)*
 
@@ -145,6 +148,16 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   the sale**, comes back to an empty pit, and then stands among the sons comforting the father. **His
   three clauses include the angel's words from Moriah** — *"lay no hand on him"* — **in the one chapter of
   the cycle where heaven says nothing**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:22, 37; **two speeches, and both of them are
+  Reuben entire: the right instinct delivered uselessly.** At 42:22 he answers the first genuine
+  confession any of them has ever made with ***"didn't I tell you"*** — **and misquotes himself to do
+  it.** *"Don't sin against the child"* is not what 37:22 records; what he said was *"shed no blood…
+  throw him into this pit"*, the sentence of a man amending a murder into an abandonment. **Twenty-two
+  years on he has upgraded it into a moral stand.** He then quotes the Noahic charter — *"his blood is
+  required"* (9:5) — **about a man who is alive, six feet away, and listening.** At 42:37 he offers
+  [[Jacob]] the lives of two grandsons as collateral for a third son; **Jacob does not reply.** The
+  firstborn's authority is visibly finished, and [[Judah]] takes the role in the next chapter. See
+  [[His Blood Is Required - Darash and the Reckoning for Blood]]
 
 ## Related people
 

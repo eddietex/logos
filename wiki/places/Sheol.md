@@ -79,6 +79,12 @@ to go.
   it holds no correction of anything. **Jacob says it twice more, both times about [[Benjamin]]** (42:38;
   44:29), and [[Judah]] quotes it back to Joseph as the argument that breaks him (44:31, 34) — **so the
   Hebrew Bible's first named Sheol is also the refrain the Joseph cycle ends on**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:38; **[[Jacob]]'s stated destination for the
+  second time in six chapters, and the chapter ends on it.** *"You will bring down my gray hairs with
+  sorrow to Sheol"* is **37:35's vow repeated almost word for word** — the same descent, the same
+  refusal to be comforted — except that the tally has gone from one son to two and he is being asked to
+  risk a third. **Both of Genesis's first two Sheol sentences are in Jacob's mouth, both are about a
+  son, and neither mentions God**
 
 ## Related places
 

@@ -523,6 +523,27 @@ even fratricidal betrayal into rescue (Joseph).
   affliction***"*, **the creation verb of Genesis 1 and the root the Exodus is built on, in one breath.**
   **He does not send word to Canaan, and Genesis neither explains the silence nor flags it.**
 
+**[[The Brothers' First Journey to Egypt]]** — **the dream of 37:7 comes true in verse 6 and the man it
+comes true for puts his brothers in prison.** Ten of them bow to the ground in front of an Egyptian
+governor to buy grain; **he knows them at once and they do not know him at all** — *wayyakkēr* and
+*wayyitnakkēr*, **one root in two directions in a single verse.** He calls them spies, **jails them in
+the same word he was jailed in** (*mišmār*, 40:3), swears twice by Pharaoh's life — **the only such oath
+in Scripture** — and keeps [[Simeon]] in chains. **Almost every cruelty in the chapter is a cruelty
+from the pit handed back**, and not as symbol but as vocabulary: the bowing of 37:7, the *hakker-nāʾ* of
+37:32, [[Reuben]]'s *"shed no blood"* become *"his blood is required"*, **the *ʾênеnnû* he coined at the
+empty pit** (37:30) **returning first in the brothers' mouths and then, twice in one breath, in their
+father's** (42:36), and 37:35's vow about [[Sheol]] repeated word for word at 42:38. **The chapter's
+centre is a sentence nobody in it is meant to hear.** *"We are certainly guilty concerning our brother,
+in that we saw the distress of his soul, when he begged us, and we wouldn't listen"* (42:21) is
+***ʾāšēm***, the guilt-offering root and **its only occurrence in Genesis** — **and it discloses a fact
+the narrator withheld for five chapters, because Genesis 37 never records Joseph saying a word in the
+pit.** **The begging existed only in the memory of the men who ignored it.** They say it believing they
+are alone; *"they didn't know that Joseph understood them; for there was an interpreter between them"*
+(42:23), **and he turns away and weeps for the first time in the book and comes back and binds a man.**
+The chapter ends in Canaan with the returned money emptied out in front of [[Jacob]] and **the most
+comprehensively false sentence in Genesis** — ***"all these things are against me"*** — said by a man
+every item of whose evidence is mercy, **which the book does not correct for five more chapters.**
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -590,7 +611,7 @@ merge, or reorder them freely.
 - [x] [[Joseph in Potiphar's House]] — Genesis 39:1–23
 - [x] [[The Cupbearer and the Baker]] — Genesis 40:1–23
 - [x] [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57
-- [ ] The Brothers' First Journey to Egypt — Genesis 42:1–38
+- [x] [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38
 - [ ] The Second Journey — Genesis 43:1–34
 - [ ] The Silver Cup and Judah's Plea — Genesis 44:1–34
 - [ ] Joseph Reveals Himself — Genesis 45:1–28

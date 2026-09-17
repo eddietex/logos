@@ -259,6 +259,11 @@ the rest of the canon.
   *"God sent me before you to preserve life"*. **And the dream's image of death is the cruellest in
   Genesis**: seven fat years eaten with nothing to show for it, *"it couldn't be known that they had
   eaten them, but they were still ugly, as at the beginning"* (41:21)
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:2, 20, 38; **the chapter states its stakes at both ends and they are
+  literal.** *"So that we may live, and not die"* opens it (42:2) and *"you won't die"* closes Joseph's
+  terms (42:20); **Jacob's last word is his own grave**, [[Sheol]] — *"you will bring
+  down my gray hairs with sorrow to Sheol"* — **and the son he is mourning is alive and sent the
+  food**
 
 ## Related themes
 

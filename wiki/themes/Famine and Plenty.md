@@ -114,6 +114,10 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
 - [[Abram and Lot Separate]] — Genesis 13:5–12; **the opposite problem** — *"the land was not able to
   bear them"*
 - [[Jacob's Flocks]] — Genesis 30:25–43; abundance as the thing two men fight over
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1–5; **41:57's *"all countries came into Egypt"* becomes ten specific men with
+  donkeys.** The famine is stated of [[Canaan]] by name (42:5), it is what puts the brothers in front
+  of Joseph, **and it is what will overrule Jacob's refusal two verses into the next chapter.** *"Go
+  down there, and buy for us… so that we may live, and not die"* (42:2) states the stakes plainly
 
 ## Related themes
 

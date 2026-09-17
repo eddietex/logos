@@ -115,6 +115,11 @@ judgment about a motive.**
   against 26:13–14, where *"the man became great"* is followed immediately by *"the Philistines
   envied him."* **The last face Genesis reported falling belonged to [[Cain]]** (4:5), also over an
   offering and a brother's success
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:4, 38; **the favouritism of 37:3 has simply relocated one place down.** Jacob
+  withholds [[Benjamin]] by name — whom the narrator calls *"Joseph's brother"* rather than Jacob's son
+  — and ends the chapter saying ***"he only is left"*** **in front of the other ten.** Nothing in
+  twenty-two years has changed the household's basic arrangement, **and Genesis does not say what the
+  ten make of hearing it**
 
 ## Related themes
 

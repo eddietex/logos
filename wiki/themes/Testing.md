@@ -99,6 +99,11 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - **Matthew 4:1–11; Luke 22:31–32** — Jesus tested, and Simon sifted like wheat
 - **James 1:2–4, 12–15; 1 Peter 1:6–7; Hebrews 11:17** — endurance, the crown, and the line between
   test and temptation
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:15–16; ***bāḥan*** twice, **a verb for assaying metal**, and the stated test is
+  not the real one. Joseph says he is testing whether their story about a youngest brother is true;
+  **what the next three chapters test is whether ten men who sold one favoured son will do it again to
+  another.** The pattern is also inverted: **in Genesis it is God who tests a man** (22:1), and here it
+  is a man, in disguise, testing his brothers
 
 ## Related themes
 

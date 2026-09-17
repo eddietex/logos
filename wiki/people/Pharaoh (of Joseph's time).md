@@ -156,6 +156,13 @@ reached.**
   his signet, his linen, his gold, his second chariot, a name, and a wife, **reserving only the throne**,
   and at the famine's height **sends his own people to Joseph.** **He is the one foreign king in Genesis
   who is neither lied to nor warned nor plagued**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:15, 16; **present only as the thing [[Joseph]]
+  swears by.** ***Ḥê parʿōh***, *"by the life of Pharaoh"*, twice in two verses — **the only oath
+  sworn on an Egyptian king anywhere in Scripture**, and Joseph uses it to guarantee two statements he
+  knows to be false. He does nothing in the chapter and is not consulted. **The oath is the measure of
+  how completely Joseph now wears the office**: the man who told this king *"it isn't in me; God will
+  give Pharaoh an answer of peace"* (41:16) **names the king and not God in front of his own family.**
+  See [[By the Life of Pharaoh - Oaths Sworn by a King]]
 
 ## Related people
 

@@ -602,6 +602,12 @@ is carried back to Machpelah.
   him"* — Genesis 37:32–33
 - Tears his clothes, puts on **the first sackcloth in Scripture**, refuses comfort, and names
   **the first [[Sheol]] in Scripture** — Genesis 37:34–35
+- Sends ten sons to Egypt for grain and keeps [[Benjamin]] home *"lest perhaps harm happen to him"* —
+  Genesis 42:1–4, [[The Brothers' First Journey to Egypt]]
+- Hears an edited report, watches silver come out of his sons' sacks, and says *"You have bereaved me of
+  my children… all these things are against me"* — Genesis 42:29–36
+- Refuses [[Reuben]]'s surety and repeats 37:35's vow to [[Sheol]] almost word for word: *"you will
+  bring down my gray hairs with sorrow to Sheol"* — Genesis 42:37–38
 - Goes down to Egypt at a hundred thirty — Genesis 46 *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
   *(not yet ingested)*
@@ -692,6 +698,17 @@ is carried back to Machpelah.
   *šālôm* of men who cannot speak peace to him. **He is handed a coat and a question and speaks his sons'
   prepared sentence for them.** His mourning gives Scripture its first sackcloth and its first *Sheol*, and
   he refuses to be comforted by a household that includes everyone who knows the boy is alive
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1–4, 29–38; **he opens the chapter and
+  closes it, and never leaves Canaan.** The first line is an old man's irritation — *"Why do you look at
+  one another?"* — and **the fourth verse names what the chapter is about**: he keeps back the son the
+  narrator calls, pointedly, ***"Joseph's brother."*** **The favouritism of 37:3 has simply moved down
+  one place.** He hears a report that omits the three days in custody and the binding of [[Simeon]];
+  **he watches the money come out of the sacks in front of him** — twenty-two years after his sons
+  brought him a coat and a story; **and he says *ʾênеnnû* twice in one breath**, over Joseph and over
+  Simeon, in the word [[Reuben]] coined at the empty pit. ***"All these things are against me"*** (42:36)
+  **is the most comprehensively false sentence in Genesis** — every item on the list is mercy — and the
+  book does not correct it for five chapters. His last words repeat 37:35 exactly, **and *"he only is
+  left"* is said in front of ten sons**
 
 ## Related people
 

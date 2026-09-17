@@ -154,6 +154,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   never shown learning it happened.** It is the exact answer to his complaint at 34:30, which named no
   wrong and asked for nothing. **This is the fear of God as something God puts on other people**,
   distinct from every other use on this page
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:18; ***"Do this, and live, for I fear God"*** — **Joseph's only theological
+  sentence in the chapter**, offered to frightened foreigners as a guarantee of restraint, in the same
+  breath that keeps [[Simeon]] in chains. **It is the phrase's Genesis function exactly**: at 20:11
+  Abraham said its absence was why he lied. **Joseph names God to his brothers once and names Pharaoh
+  twice**
 
 ## Related themes
 

@@ -137,6 +137,13 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   *"there was famine in all lands, but in all the land of Egypt there was bread"* (41:54) — **so that
   *"all countries came into Egypt … to buy grain"*** (41:57). **The name occurs fourteen times**, and
   **the country that will enslave Israel first feeds the world**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38; **the destination of ***yārad*** for the
+  first time as a family errand rather than one man's flight or one man's sale.** It is where the grain
+  is (*"there is grain in Egypt"*, twice in two verses), where the *šallîṭ* sits, where the *mišmār*
+  is, **and where one of the twelve is now being held.** Genesis has been narrowing toward this:
+  [[Abraham]] went down alone as Abram and came back (12:10–20), [[Joseph]] was carried down as property
+  (37:28), **and here ten free men go down and only nine come home.** The name occurs some twenty times
+  in the chapter, against **not one occurrence of *Yahweh***
 
 ## Related places
 

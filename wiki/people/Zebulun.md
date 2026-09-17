@@ -60,6 +60,13 @@ ground Jesus' ministry begins on.
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:23; **a name in a list.** Last of
   Leah's six in the Bible's first complete roster of the twelve, which orders the sons by mother
   rather than by age
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38; **one of the ten who go down, and he
+  acts and speaks only as part of a plural.** The chapter gives *"they said"* and *"they said to one
+  another"* and never separates them: **the protest of innocence, the words *"we are twelve brothers…
+  and one is no more"*, and the confession of 42:21 — *"we are certainly guilty concerning our
+  brother"* — are all spoken by the group and attributed to no one.** Only [[Reuben]] and [[Simeon]]
+  are singled out. He bows to [[Joseph]] without recognising him (42:6–8), spends three days in
+  custody, and carries home grain and money he did not expect
 
 ## Related people
 

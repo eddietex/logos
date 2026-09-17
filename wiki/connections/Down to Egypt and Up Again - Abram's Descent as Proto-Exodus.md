@@ -30,6 +30,12 @@ tags: [connection]
 - **Psalm 105:12–15** — *"He allowed no one to do them wrong. Yes, he reproved kings for their
   sakes."*
 - **Matthew 2:13–21** — a descent into Egypt to escape a killing of sons, and a return
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:2–3**: ***yārad* because of a famine, for the
+  third time in the book and the first as a family errand.** *"Go **down** there, and buy for us"* —
+  Abram went down alone (12:10), [[Joseph]] was carried down as property (39:1), **and here ten free men
+  go down together.** The chapter closes on the same verb twice over in [[Jacob]]'s refusal: *"my son
+  shall not **go down** with you… you will **bring down** my gray hairs"* (42:38) — **and he will go
+  down himself four chapters later** (46:3)
 
 ## Analysis
 

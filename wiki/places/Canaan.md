@@ -154,6 +154,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   every other designation Genesis uses, and the family that holds the promise to it owns one field and
   a cave. **The only man who ever calls it the Hebrews' land is a slave who has been carried out of
   it.** See [[Abram the Hebrew - The First Use of the Name]]
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:5, 7, 13, 29, 32; **the land with no food, and
+  the first word [[Joseph]] hears from his brothers.** Asked *"Where did you come from?"* they answer
+  *"From the land of Canaan to buy food"* (42:7). **The famine is stated of Canaan specifically** (42:5),
+  and the chapter returns to it twice — for the report and for the refusal — **resolving nothing there
+  both times.** The land of promise is now the land people leave to eat
 
 ## Related places
 

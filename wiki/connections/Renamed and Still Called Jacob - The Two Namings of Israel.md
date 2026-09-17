@@ -21,6 +21,12 @@ tags: [connection]
   own voice, sometimes in adjacent verses.
 - **Genesis 46:2** — *"God spoke to Israel in the visions of the night, and said, '**Jacob, Jacob**.'"*
 - **Exodus 3:6; 1 Kings 18:31; Hosea 12:2–4** — the later tradition, which keeps both names in play.
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:5, 29, 36**: **the alternation inside a
+  single chapter, and the pattern is legible.** *Jacob* saw, *Jacob* said, *Jacob* withheld Benjamin
+  (42:1–4); ***"the sons of **Israel** came to buy"*** the moment they cross out of Canaan (42:5); **and
+  he is *Jacob* again for the whole of the grieving** — *"they came to **Jacob** their father"* (42:29),
+  *"**Jacob**, their father, said… all these things are against me"* (42:36). **The covenant name travels
+  with the twelve; the personal name stays with the frightened man**
 
 ## Analysis
 

@@ -188,6 +188,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   making him forget his father's house** (41:51) — *"forgetting is this cycle's standing form of
   loss"*, and here it is received as a mercy. See
   [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:9, 21; **two memories drive the chapter and neither is affectionate.** *"Joseph
+  remembered the dreams"* precedes the charge of espionage; **the brothers remember the pit** and
+  describe a scene Genesis never narrated — *"he begged us, and we wouldn't listen."* **After 40:23's
+  *"didn't remember"* and 41:9's *"I remember my faults today"*, this is the cycle's third consecutive
+  chapter organised by *zākar* and its failures**
 
 ## Related themes
 

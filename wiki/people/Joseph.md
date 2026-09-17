@@ -263,7 +263,15 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Manasseh]] and [[Ephraim]] born and named — *forgetting*, and *fruitfulness in the land of my
   affliction* — Genesis 41:50–52
 - The famine arrives *"just as Joseph had said"*; *"Go to Joseph"* — Genesis 41:53–57
-- The brothers in Egypt; the tests, and the disclosure — Genesis 42–45 *(not yet ingested)*
+- Ten brothers bow to him and he does not tell them who he is; accuses them of espionage, jails them
+  three days, swears twice *"by the life of Pharaoh"* — Genesis 42:6–17,
+  [[The Brothers' First Journey to Egypt]]
+- *"Do this, and live, for I fear God"*; overhears the confession of 42:21 through an interpreter,
+  **turns away and weeps for the first time**, and binds [[Simeon]] before their eyes — Genesis
+  42:18–24
+- Returns their money into their sacks in secret; keeps [[Benjamin]] as the condition of their return —
+  Genesis 42:25–34
+- The second journey, the silver cup, and the disclosure — Genesis 43–45 *(not yet ingested)*
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
   50:19–20 *(not yet ingested)*
@@ -322,6 +330,18 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   God"*), not by the narrator, who **never mentions God at all.** He is **thirty**. And he names his sons
   for **forgetting his father's house** and for **being made fruitful in *the land of my affliction*** —
   **and does not send word to Canaan, which Genesis neither explains nor flags**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38; **the chapter he has waited
+  twenty-two years for, and he spends it in costume.** He is *"the governor over the land"*, the first
+  person in the room to recognise anyone, and **he makes his own face strange** — *wayyakkēr* and
+  *wayyitnakkēr*, one root in two directions, in a single verse (42:7). **He accuses them of spying,
+  jails them in the same word he was jailed in** (*mišmār*, 40:3 → 42:17), **and swears twice by
+  Pharaoh's life** — the only such oath in Scripture, and the one item of the Egyptian disguise he
+  supplies himself. Then the terms soften, he says *"I fear God"*, and **he overhears the sentence the
+  whole cycle turns on** (*"we are certainly guilty concerning our brother"*) **while standing behind an
+  interpreter he does not need.** **He turns away and weeps — the first of his seven weepings — and
+  comes back and binds [[Simeon]].** He returns their money, which is the chapter's one clear kindness
+  and reaches them as a terror. **He does not say who he is, does not ask after his father, and sends no
+  word to Canaan**, which is 41:53–57's silence sustained in front of the people it costs
 
 ## Related people
 

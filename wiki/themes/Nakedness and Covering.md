@@ -106,6 +106,10 @@ nakedness may not be revealed"* (Revelation 3:18).
   does**: Genesis never claims a veil marked a prostitute — it says [[Judah]] *"thought that she was a
   prostitute, **for she had covered her face**."* **The inference is his, and the narrator gives the
   grounds so the reader can see how thin they are**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:9, 12; ***ʿerwat hāʾāreṣ***, *"the nakedness of the land"* — **Noah's word
+  (9:22–23) applied to a country's undefended border.** It makes the espionage charge an accusation of
+  shameful exposure, **levelled by the one man in the room with something to hide**, at the ten men who
+  once uncovered a brother and left him in a pit
 
 ## Related themes
 

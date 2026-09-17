@@ -211,6 +211,11 @@ happens.
   which Joseph hands straight back at 41:31. **The narrator never once attributes the dream to God**:
   all nine occurrences of *ʾĕlōhîm* in the chapter are inside quotation marks. See
   [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]]
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:6, 9; **the dream of 37:7 comes true and the text spends eleven words on it.**
+  *"Joseph's brothers came, and bowed themselves down to him with their faces to the earth"* — no
+  *and so it was fulfilled*, **no indication anyone but the reader notices.** *"Joseph remembered the
+  dreams"* (42:9) is the whole commentary, and what he does next is accuse them of espionage. **Only
+  ten of the eleven sheaves are present**, which is why there are three more chapters
 
 ## Related themes
 

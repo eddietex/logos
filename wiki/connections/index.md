@@ -168,3 +168,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 |
 | [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] | parallel | Genesis 41:42–43 · Esther 3:10 · Esther 6:6–11 · Esther 8:2, 15 · Esther 10:3 · Daniel 2:48 · Daniel 5:7, 29 |
 | [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] | thread | Genesis 41:8, 24 · Exodus 7:11, 22 · Exodus 8:7, 18–19 · Exodus 9:11 · Daniel 1:20 · Daniel 2:2, 10–11 · Isaiah 19:11–14 · Isaiah 47:12–13 · 2 Timothy 3:8 |
+| [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 |
+| [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
+| [[By the Life of Pharaoh - Oaths Sworn by a King]] | idiom | Genesis 22:16 · Genesis 42:15–16 · 1 Samuel 17:55 · 1 Samuel 20:3 · 1 Samuel 25:26 · 2 Samuel 11:11 · 2 Samuel 15:21 · Matthew 5:34–37 |

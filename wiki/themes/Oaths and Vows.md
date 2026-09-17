@@ -157,6 +157,11 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   Holy Spirit as God's down payment on an unpaid promise (2 Corinthians 1:22; 5:5; Ephesians 1:14).
   **The theological term for a guarantee enters Scripture as the security a woman takes from a man who
   is not coming back**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:15–16, 37; ***ḥê parʿōh***, *"by the life of Pharaoh"*, twice — **the only
+  oath in Scripture sworn on an Egyptian king**, replacing *ḥay-YHWH* entirely, **and used to guarantee
+  two statements Joseph knows to be false.** [[Reuben]]'s forfeit of his own two sons at 42:37 is the
+  chapter's other vow, **and Jacob declines to accept it.** See
+  [[By the Life of Pharaoh - Oaths Sworn by a King]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

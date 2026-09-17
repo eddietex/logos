@@ -184,6 +184,10 @@ addressing a slave by name and no one else in the story doing so.
   the fifth part of 41:34, which by 47:19–25 has the Egyptians saying *"buy us and our land for bread,
   and we and our land will be servants to Pharaoh."* **The book that opens Israel's bondage in Exodus 1
   has an Israelite design the machinery**
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:10–13; **the brothers call themselves *"your servants"* — *ʿăbādeyḵā* — five
+  times over four verses, to the brother they sold into servitude.** It is ordinary deference to a
+  foreign official and Genesis does not comment on it once. **The man receiving it was bought for
+  twenty pieces of silver by the men offering it**
 
 ## Related themes
 

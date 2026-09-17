@@ -24,6 +24,12 @@ tags: [connection]
 - **Romans 13:4** — the magistrate who *"doesn't bear the sword in vain"*
 - **James 3:9** — cursing *"men who are made in the image of God"*
 - **Revelation 13:10** — *"If anyone is to be killed with the sword, he must be killed"*
+- [[The Brothers' First Journey to Egypt]] — **Genesis 42:22**: [[Reuben]] quotes the charter at his
+  brothers — ***dāmô nidrāš***, *"his blood is required"*, the passive of the *ʾdrōš* God uses
+  three times in 9:5 — **and applies *"at the hand of every man's brother"* to his own brothers.** He
+  has found the one clause of the Noahic covenant written for his exact situation, **and he is wrong
+  about the fact**: [[Joseph]] is alive, standing in the room, listening through an interpreter. See
+  [[His Blood Is Required - Darash and the Reckoning for Blood]]
 
 ## Analysis
 

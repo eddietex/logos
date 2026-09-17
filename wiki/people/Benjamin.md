@@ -84,8 +84,11 @@ Paul, who carries Saul's name.
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Named **Ben Oni** by his dying mother and **Benjamin** by his father, in one verse — Genesis 35:18
 - Listed among the twelve, second of Rachel's sons — Genesis 35:24
-- Kept back from Egypt by Jacob; produced under compulsion; the cup planted in his sack — Genesis
-  42:4, 38; 43:1–34; 44:1–17 *(not yet ingested)*
+- Kept back from Egypt by [[Jacob]] — *"lest perhaps harm happen to him"* — and demanded by Joseph as
+  the condition of the brothers' return — Genesis 42:4, 15, 20, 34, 38,
+  [[The Brothers' First Journey to Egypt]]
+- Produced under compulsion; the portion five times the others'; the cup planted in his sack — Genesis
+  43:1–34; 44:1–17 *(not yet ingested)*
 - Judah offers himself as a slave in his place — Genesis 44:18–34 *(not yet ingested)*
 - Joseph falls on his neck and weeps — Genesis 45:14 *(not yet ingested)*
 - Blessed as a ravenous wolf — Genesis 49:27 *(not yet ingested)*
@@ -103,6 +106,13 @@ Paul, who carries Saul's name.
   37:3 as the narrator reporting Jacob's own account of himself rather than as arithmetic, and notes that
   **Jacob applies the same phrase to Benjamin at 44:20.** The *eleven stars* of 37:9 include him, and he is
   the one brother who never bows to Joseph as a stranger
+- [[The Brothers' First Journey to Egypt]] — Genesis 42:4, 13, 15, 20, 34, 38; **the chapter's subject,
+  and he is not in it.** Named six times and present for none of them: withheld at 42:4, described to
+  Joseph as *"the youngest… today with our father"* (42:13), **demanded under oath** (42:15), made the
+  condition of Simeon's release (42:20, 34), and refused at 42:38. **He is the missing eleventh sheaf of
+  37:7** — only ten brothers bow, so the dream is unfinished and the story is not over. **The narrator
+  calls him *"Joseph's brother"* rather than Jacob's son** (42:4), which is the whole explanation of why
+  he is kept home. **He still does not speak**
 
 ## Related people
 
