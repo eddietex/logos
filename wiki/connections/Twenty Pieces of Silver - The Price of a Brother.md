@@ -25,6 +25,15 @@ tags: [connection]
   front of their father** (42:35). They sold a brother for twenty pieces and told [[Jacob]] nothing;
   **twenty-two years later unexplained silver is emptied onto the floor in his sight** — and the
   question they ask is *"What is this that God has done to us?"*
+- [[The Second Journey]] — **Genesis 43:12, 15, 21–23**: **the silver goes back down, doubled.**
+  [[Jacob]] tells them to *"take double money in your hand, and take back the money that was returned in
+  the mouth of your sacks"*, and invents a word for how it got there — ***mišgeh***, *oversight*,
+  **found nowhere else in the Hebrew Bible.** They rehearse the restitution at the door — *"our money in
+  full weight. We have brought it back in our hand"* (43:21) — **and it is refused**:
+  [[Joseph's Steward]] tells them their God put treasure in their sacks and that he was paid anyway
+  (43:23).
+  **Men who once took twenty pieces for a brother cannot now give money back for grain**, and 44:1–2
+  will return it a third time with a silver cup on top
 
 ## Analysis
 

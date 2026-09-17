@@ -612,7 +612,7 @@ merge, or reorder them freely.
 - [x] [[The Cupbearer and the Baker]] — Genesis 40:1–23
 - [x] [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57
 - [x] [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38
-- [ ] The Second Journey — Genesis 43:1–34
+- [x] [[The Second Journey]] — Genesis 43:1–34
 - [ ] The Silver Cup and Judah's Plea — Genesis 44:1–34
 - [ ] Joseph Reveals Himself — Genesis 45:1–28
 - [ ] Jacob's Family Settles in Egypt — Genesis 46:1–47:12

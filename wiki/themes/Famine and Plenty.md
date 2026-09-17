@@ -118,6 +118,12 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
   donkeys.** The famine is stated of [[Canaan]] by name (42:5), it is what puts the brothers in front
   of Joseph, **and it is what will overrule Jacob's refusal two verses into the next chapter.** *"Go
   down there, and buy for us… so that we may live, and not die"* (42:2) states the stakes plainly
+- [[The Second Journey]] — Genesis 43:1–2, 16, 31–34; **the famine wins the argument that ten sons could
+  not.** *"The famine was severe in the land"* (43:1) is four words, and it reverses [[Jacob]]'s
+  *"My son shall not go down with you"* (42:38) without anyone persuading him of anything — *"When they
+  had eaten up the grain … 'Go again.'"* **Then the chapter ends in a banquet**: an animal butchered, bread
+  at noon, portions sent from the governor's table, **and men who came to beg for food drinking until they
+  are merry**
 
 ## Related themes
 

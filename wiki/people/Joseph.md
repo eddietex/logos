@@ -271,7 +271,14 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   42:18–24
 - Returns their money into their sacks in secret; keeps [[Benjamin]] as the condition of their return —
   Genesis 42:25–34
-- The second journey, the silver cup, and the disclosure — Genesis 43–45 *(not yet ingested)*
+- Sees [[Benjamin]] and orders a feast instead of a disclosure; asks twice after his father; blesses
+  the boy — *"God be gracious to you, my son"* — Genesis 43:16, 27–29, [[The Second Journey]]
+- *Nikmərû raḥămāyw* — **his compassions grow hot**; he leaves the room, weeps behind a door, washes
+  his face, and forces himself back (***wayyitʾappaq***, the verb that fails at 45:1) — Genesis
+  43:30–31
+- Eats at a table of his own because Egyptians will not eat with Hebrews; seats eleven men in birth
+  order; gives Benjamin five times anyone else's portion — Genesis 43:32–34
+- The silver cup and the disclosure — Genesis 44–45 *(not yet ingested)*
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
   50:19–20 *(not yet ingested)*
@@ -342,6 +349,17 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   comes back and binds [[Simeon]].** He returns their money, which is the chapter's one clear kindness
   and reaches them as a terror. **He does not say who he is, does not ask after his father, and sends no
   word to Canaan**, which is 41:53–57's silence sustained in front of the people it costs
+- [[The Second Journey]] — Genesis 43:16–34; **he speaks eight times and never to the point.** He sees
+  [[Benjamin]] and turns to a servant about lunch (43:16); **he asks after his father twice in two
+  verses** — *"Is your father well, the old man of whom you spoke? Is he yet alive?"* — and takes the
+  answer without comment; he calls Benjamin *"my son"* and blesses him with ***ḥānan***, and then has
+  to leave the building. ***Nikmərû raḥămāyw*** (43:30) **is the first look inside him since 42:24**,
+  and it is the answer to a prayer his father prayed at 43:14 in the same noun. **The weeping needs a
+  closed door this time**, and ***wayyitʾappaq*** — *he forced himself* — **is the verb that will fail
+  at 45:1.** Then he sits alone at a third table because Egyptians will not eat with Hebrews, **seats
+  eleven men in the exact order of their births**, and **gives Benjamin five portions in front of the
+  ten who once solved that problem with a caravan.** The recognition is not withheld this time by
+  roughness but by hospitality
 
 ## Related people
 

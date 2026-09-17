@@ -144,6 +144,15 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   [[Abraham]] went down alone as Abram and came back (12:10–20), [[Joseph]] was carried down as property
   (37:28), **and here ten free men go down and only nine come home.** The name occurs some twenty times
   in the chapter, against **not one occurrence of *Yahweh***
+- [[The Second Journey]] — Genesis 43:15–34; **the second descent, and the first that ends indoors.**
+  *Yārad* again (43:15), but the destination this time is not a granary: it is ***Joseph's house***,
+  named seven times in nineteen verses and **the most repeated noun in the chapter.** The brothers are
+  brought into it expecting to be enslaved and are given **water for their feet and fodder for their
+  donkeys** instead. **And the chapter closes on the one thing Egypt will not do**: *"the Egyptians
+  don't eat bread with the Hebrews, for that is an abomination to the Egyptians"* (43:32), ***tôʿēbâ*,
+  the word's first occurrence in Scripture** — **the fact that keeps Israel from dissolving into the
+  country that feeds it.** See
+  [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]]
 
 ## Related places
 

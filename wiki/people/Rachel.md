@@ -243,6 +243,13 @@ over the killing of the infants at Bethlehem. See
   describes her son in her own words**, and in both places the clause stands immediately before the
   trouble it causes: a fourteen-year betrothal there, a false charge and thirteen years in prison here.
   **Genesis uses the formula of nobody else in the patriarchal narratives**
+- [[The Second Journey]] — Genesis 43:29; **dead twenty years and invoked without her name.** *"He
+  lifted up his eyes, and saw Benjamin, his brother, **his mother's son**"* — **the narrator's phrase,
+  not [[Joseph]]'s** — is what makes the chapter's climax work: of eleven men in the room, one is
+  hers, and the recognition that cannot be spoken is a family relation nobody present will say aloud.
+  **It is the same device as 42:4's *"Benjamin, Joseph's brother"***. Her death at 35:19 is also why
+  the second dream cannot complete: **the sheaves bow at 43:26, and the moon of 37:9 is in a grave on
+  the road to Ephrath**
 
 ## Related people
 

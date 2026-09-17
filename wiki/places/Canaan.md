@@ -159,6 +159,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   *"From the land of Canaan to buy food"* (42:7). **The famine is stated of Canaan specifically** (42:5),
   and the chapter returns to it twice — for the report and for the refusal — **resolving nothing there
   both times.** The land of promise is now the land people leave to eat
+- [[The Second Journey]] — Genesis 43:1–14; **never named in the chapter, and the omission is
+  structural.** It is where the grain ran out, where [[Jacob]] stays, and **where the narrative does not
+  return until 45:25.** What it still produces is *"the choice fruits of the land"* — ***zimrat
+  hāʾāreṣ***, balm, honey, spices, myrrh, nuts and almonds (43:11) — **sent out of a famine as a bribe**,
+  and the last thing Genesis records it yielding. **From verse 15 the story is in Egypt and the land of
+  promise is offstage**
 
 ## Related places
 

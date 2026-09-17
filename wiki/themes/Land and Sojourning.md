@@ -272,6 +272,12 @@ where that starts, in a sentence about a family that got halfway.
   the verb ***yārad*** that carries every descent in the book (12:10; 39:1; 46:3). *"You shall trade in
   the land"* (42:34) — **a promise Joseph never made, invented by the brothers in the retelling** — is
   the first hint of the settlement 47:27 will report
+- [[The Second Journey]] — Genesis 43:11, 15, 32; **the second descent in two chapters, and the first
+  that ends indoors.** *Yārad* again (43:15), but the destination is no longer a granary — it is a house,
+  named seven times in nineteen verses. **The *"choice fruits of the land"* leave Canaan in a famine**
+  (43:11), and the chapter closes on the fact that the two peoples cannot share a table (43:32) —
+  **the first statement of the separateness that keeps Israel distinct through four hundred years of
+  living in somebody else's country**
 
 ## Related themes
 

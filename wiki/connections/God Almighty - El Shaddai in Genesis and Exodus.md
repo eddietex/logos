@@ -16,8 +16,13 @@ tags: [connection]
   **The last time God speaks the title in Genesis**, and **it grants Isaac's petition at 28:3 in the
   same name and the same verbs** — *bless*, *make fruitful*, *multiply*, *a company of peoples*. See
   [[Return to Bethel; the Deaths of Rachel and Isaac]].
-- **Genesis 43:14** — Jacob sending his sons back to Egypt: *"May God Almighty give you mercy before
-  the man."*
+- [[The Second Journey]] — **Genesis 43:14**: Jacob sending his sons back to Egypt — *"May God Almighty
+  give you mercy before the man, that he may release to you your other brother and Benjamin."*
+  **His only prayer in the Joseph cycle, and the only use of the name in Genesis that is a petition
+  rather than a blessing or a self-disclosure.** The symmetry is exact: **[[Isaac]] spoke *ʾĒl Šadday*
+  over him the last time he was sent away from home** (28:3), and **he speaks it over the sons he is
+  now sending away.** What he asks for is ***raḥămîm***, and it is granted at 43:30 in the same noun,
+  in a room he will never enter — see [[Compassion and Mercy]]
 - **Genesis 48:3; 49:25** — Jacob's last two uses, quoting Bethel and blessing Joseph.
 - **Exodus 6:2–3** — *"I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my name
   Yahweh I was not known to them."*

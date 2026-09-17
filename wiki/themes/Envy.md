@@ -120,6 +120,12 @@ judgment about a motive.**
   — and ends the chapter saying ***"he only is left"*** **in front of the other ten.** Nothing in
   twenty-two years has changed the household's basic arrangement, **and Genesis does not say what the
   ten make of hearing it**
+- [[The Second Journey]] — Genesis 43:34; **the pit's cause reconstructed at a dinner table.**
+  *"Benjamin's portion was five times as much as any of theirs"* — **one son of [[Rachel]], conspicuously
+  preferred, in front of the other ten** — is 37:3–4 restaged with the same ingredients by the man it was
+  done to. **Genesis does not say [[Joseph]] is watching for the reaction**, and it does not record one:
+  *"They drank, and were merry with him."* **The silence of the ten is the chapter's most important
+  non-event**, and 44:1–2 only works as a test if this was one
 
 ## Related themes
 

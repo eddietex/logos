@@ -608,6 +608,11 @@ is carried back to Machpelah.
   my children… all these things are against me"* — Genesis 42:29–36
 - Refuses [[Reuben]]'s surety and repeats 37:35's vow to [[Sheol]] almost word for word: *"you will
   bring down my gray hairs with sorrow to Sheol"* — Genesis 42:37–38
+- Gives way when the grain runs out and [[Judah]] offers himself as surety; packs a *minḥâ* of balm,
+  honey, spices, myrrh, nuts and almonds, and double money — Genesis 43:1–13, [[The Second Journey]]
+- Prays the only prayer he offers in the Joseph cycle — *"May God Almighty give you mercy before the
+  man"* — and concedes the outcome in advance: *"If I am bereaved of my children, I am bereaved"* —
+  Genesis 43:14
 - Goes down to Egypt at a hundred thirty — Genesis 46 *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
   *(not yet ingested)*
@@ -709,6 +714,20 @@ is carried back to Machpelah.
   **is the most comprehensively false sentence in Genesis** — every item on the list is mercy — and the
   book does not correct it for five chapters. His last words repeat 37:35 exactly, **and *"he only is
   left"* is said in front of ten sons**
+- [[The Second Journey]] — Genesis 43:1–14; **he gives in, and it is the famine that does it, not an
+  argument.** *"Go again, buy us **a little** more food"* (43:2) is a man still trying to make the
+  errand small enough not to require [[Benjamin]]. **His grievance — *"Why did you treat me so badly,
+  telling the man that you had another brother?"* — is the last thing he has**, and [[Judah]]'s
+  ***ʿārab*** answers it. Then he does what he has always done when he cannot control an outcome:
+  **he packs.** A *minḥâ* of balm, honey, spices, myrrh, nuts and almonds — **the same noun and the
+  same tactic as the droves he sent ahead to [[Esau]] at 32:13–21**, and three of the items are the
+  cargo the caravan carried Joseph down with (37:25), **which he cannot know.** He invents a word for
+  the money in the sacks — ***mišgeh***, *oversight*, **found nowhere else in the Hebrew Bible** —
+  because the alternative is unbearable. **His prayer is his only one in the whole cycle** (43:14):
+  ***ʾĒl Šadday***, **the name [[Isaac]] blessed him with the last time he was sent from home**
+  (28:3), and ***raḥămîm*** — which is granted sixteen verses later, in a room he will never enter,
+  and he never learns it. *"If I am bereaved of my children, I am bereaved"* is his last word in the
+  chapter, **and the verb is the one he used to accuse his sons at 42:36**
 
 ## Related people
 

@@ -264,6 +264,12 @@ the rest of the canon.
   terms (42:20); **Jacob's last word is his own grave**, [[Sheol]] — *"you will bring
   down my gray hairs with sorrow to Sheol"* — **and the son he is mourning is alive and sent the
   food**
+- [[The Second Journey]] — Genesis 43:8, 14; **both men state the stakes in the same exchange and
+  neither is talking about the same danger.** [[Judah]]: *"so that we may live, and not die, both we,
+  and you, and also our little ones"* — **[[Jacob]]'s own phrase from 42:2, handed back to him widened
+  to three generations.** Jacob: *"If I am bereaved of my children, I am bereaved"* — ***šākōltî
+  šākāltî***, **the doubled perfect of a man conceding the worst outcome in advance.** See
+  [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]]
 
 ## Related themes
 

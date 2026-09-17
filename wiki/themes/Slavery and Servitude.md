@@ -188,6 +188,11 @@ addressing a slave by name and no one else in the story doing so.
   times over four verses, to the brother they sold into servitude.** It is ordinary deference to a
   foreign official and Genesis does not comment on it once. **The man receiving it was bought for
   twenty pieces of silver by the men offering it**
+- [[The Second Journey]] — Genesis 43:18, 28; **they fear being made what they made him.** *"That he may
+  seek occasion against us, attack us, and **seize us as slaves**, along with our donkeys"* (43:18) — said
+  by the ten men who sold a brother into servitude, **about the brother they sold**, in a chapter where
+  they also call themselves *"your servants"* to his face (43:28). **Genesis does not point at it**, and
+  44:16 will turn it into their own verdict: *"we are my lord's slaves"*
 
 ## Related themes
 

@@ -7145,3 +7145,164 @@ Unchanged from the last entry and not touched this pass: the stale `*(not yet in
 the seven older passage pages not yet retro-linked to [[Sexual Sin]].
 
 Genesis stands at 51 / 59 pericopes; the next is *The Second Journey*, Genesis 43:1–34.
+
+## [2026-09-17] ingest | Genesis 43.1-34 — The Second Journey
+
+Unattended run (`/ingest auto`). Genesis 43 whole, as the book page had it queued. The chapter is one
+movement — Jacob's refusal broken, the journey made, the feast held — and every candidate internal
+break (after the surety, after the door, after the weeping) separates a word from the place it is
+answered.
+
+### The passage page
+
+[[The Second Journey]], `wiki/passages/Genesis/`, built around five findings.
+
+**1. A prayer answered in its own vocabulary, with no narrator between the two halves.** [[Jacob]] at
+43:14: *"May God Almighty give you **mercy** before the man"* — ***raḥămîm***. [[Joseph]] at 43:30:
+*"his **heart yearned** over his brother"* — ***nikmərû raḥămāyw***, *his compassions grew hot*, the
+same root. **Sixteen verses, one border, and Genesis does not connect them.** The man who prayed it
+never learns it was answered. This is the cycle's method in the stretch where the narrator says
+nothing about God at all (39:23 → 46:2), and it is why the new [[Compassion and Mercy]] page exists.
+
+**2. Jacob's present is the caravan's cargo coming back.** 37:25 itemises what the Ishmaelites were
+carrying — ***spices and balm and myrrh*** — and 43:11 itemises what Jacob sends down: *"a little
+balm, a little honey, **spices and myrrh**, nuts, and almonds."* **These are the only two itemised
+cargoes in Genesis, and *nəkōʾt* and *lōṭ* occur nowhere else in the Hebrew Bible.** Nobody in the
+story can see it: Jacob does not know a caravan was involved, the brothers who ate bread beside it say
+nothing, and Joseph never mentions the present. Filed as
+[[Balm, Spices, and Myrrh - The Caravan's Cargo and Jacob's Present]].
+
+**3. ***ʿĀrab***, and the succession from [[Reuben]] to [[Judah]] in one verb.** Reuben offers two of
+his sons (42:37) and Jacob does not reply; Judah offers *"I'll be collateral for him … let me bear the
+blame forever"* (43:9) and Jacob says *"If it must be so, then do this."* **The difference is
+collateral you own against collateral you are** — and Judah's other pledge, the ***ʿērābôn*** he left
+with [[Tamar]] at 38:17–20, is the one he wrote off rather than be laughed at. He keeps this one at
+44:32–33. Filed as
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]].
+
+**4. The sheaf dream completes and the text says nothing.** Eleven brothers bow at 43:26 and again at
+43:28. At 42:6 the narrator at least added *"Joseph remembered the dreams"*; **here there is not even
+that.** The fulfilment of the image the whole cycle turns on is narrated as household manners. The
+second dream's sun and moon cannot now be met as 37:9 describes them — [[Rachel]] has been dead since
+35:19.
+
+**5. ***Tôʿēbâ*** enters the Bible as an Egyptian dining custom.** *"The Egyptians don't eat bread with
+the Hebrews, for that is an abomination to the Egyptians"* (43:32) is **the word's first occurrence in
+Scripture**, and it carries no divine judgment at all. Joseph will weaponise the same revulsion at
+46:34 to get his family Goshen; Moses will argue from it at Exodus 8:26; and Leviticus and Deuteronomy
+will take the word over. **The separateness that keeps Israel a nation in Egypt begins as somebody
+else's distaste.** Filed as
+[[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]].
+
+### Judgment calls made without the user (unattended mode)
+
+- **Title kept as the book page had it** — `The Second Journey`. No collision with any existing passage
+  title in Genesis or Job. It is thin as titles go, but it is the one the plan already carried and the
+  chapter has no better single handle; the alternative (`Benjamin Goes Down to Egypt`) buries the fact
+  that the chapter is about Judah.
+- **A page created for [[Joseph's Steward]]**, against the standing line that unnamed functionaries get
+  none. **He speaks** — 43:23 is the truest sentence about God in the chapter and he is an Egyptian
+  servant saying it — **and 44:1–12 gives him a role of his own.** The comparison is
+  [[Abraham's Servant]]: unnamed, chief of a household, trusted with the errand that decides a family's
+  future. The Egyptians at the second table (43:32) get no page, consistent with the interpreter of
+  42:23 and the magicians of 41:8; both decisions are written into the passage page's Notes.
+- **[[Compassion and Mercy]] created as a theme rather than folded into [[Favor and Grace]].** *Ḥēn*
+  and *raḥămîm* are different words doing different work — favour from a superior against kinship felt
+  as physical distress — and Genesis 43 is the only chapter that uses both. The existing page keeps
+  *ḥēn*/*ḥānan*; the new one takes *raḥămîm* and *nikmərû*. **Forgiveness deliberately has no page
+  yet**: Genesis's only explicit forgiveness is 50:17–21, and the material sits on the new page until
+  that pericope arrives.
+- **No verdict on whether 43:33–34 is a test.** Genesis reports the birth-order seating and the
+  fivefold portion and records no intent. The page states what makes them read as tests
+  retrospectively — 44:1–2 only works on men who have already been shown a favoured brother and done
+  nothing — **without asserting that Joseph planned it.**
+- **No verdict on *"You shall not see my face"* (43:3, 5).** The phrase is not in Joseph's recorded
+  terms at 42:15–20. Either Judah is glossing or chapter 42 compressed the interview; the brothers have
+  demonstrably edited a report before (42:29–34). Both readings are set out and neither adopted.
+- **[[Reuben]] given an `Appears in` entry for a chapter he is not named in**, because being unnamed is
+  the substantive fact about him here and 43:33 does seat him first *"according to his birthright."*
+
+### Pages touched
+
+- **Passage (1)**: [[The Second Journey]].
+- **New people (1)**: [[Joseph's Steward]].
+- **New theme (1)**: [[Compassion and Mercy]].
+- **New connections (5)**:
+  [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]];
+  [[Balm, Spices, and Myrrh - The Caravan's Cargo and Jacob's Present]];
+  [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] (*kaʾăšer šākōltî šākāltî* against Esther
+  4:16's *kaʾăšer ʾābadtî ʾābādtî* — the doubled-perfect surrender, and the observation that Jacob is
+  the only one of these speakers not risking himself);
+  [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]];
+  [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] (32:13–21 against
+  43:11–26 — same noun, same tactic, same man, **and in both the mercy arrives ahead of the tribute
+  and owes it nothing**).
+- **People revised (8)**: [[Judah]] (a full *In this pericope* section — the one part of the page that
+  is not yet retrospective), [[Jacob]], [[Joseph]], [[Benjamin]], [[Simeon]], [[Reuben]], [[Rachel]],
+  [[God]].
+- **Places revised (2)**: [[Egypt]] (the house, named seven times, and the three tables), [[Canaan]]
+  (unnamed in the chapter, and offstage until 45:25).
+- **Themes revised (20)**: [[Mediation and Advocacy]], [[Providence]], [[Prayer]], [[Testing]],
+  [[Envy]], [[Brotherhood]], [[Guilt and Conscience]], [[Hospitality]], [[Clean and Unclean]],
+  [[Famine and Plenty]], [[Favor and Grace]], [[Deception]], [[Prophecy and Vision]],
+  [[Seeing and Being Seen]], [[Slavery and Servitude]], [[Life and Death]], [[Land and Sojourning]],
+  [[Language and Speech]], [[The Names of God]], [[Wealth and Possessions]].
+- **Connections revised (5)**: [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] (the
+  eleventh sheaf arrives); [[God Almighty - El Shaddai in Genesis and Exodus]] (43:14 is the only
+  petition among the name's five uses); [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]]
+  (the second weeping, and the first that needs a door);
+  [[Twenty Pieces of Silver - The Price of a Brother]] (the silver goes back down, doubled, and is
+  refused); [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] (*yārad* the third time
+  for famine).
+- **Indexes (6) and the book page**: [[books/index|Books]] (Genesis 52 / 59), [[people/index|People]],
+  [[places/index|Places]], [[themes/index|Themes]], [[connections/index|Connections]], [[index]]
+  (58 passages · 133 people · 66 places · 63 themes · 172 connections), and the [[Genesis]] book page —
+  box checked and pointed at the new passage page.
+
+### One retro-link made
+
+[[The Reconciliation with Esau]] gained a [[Compassion and Mercy]] entry in its Themes list. **Esau's
+run, embrace and weeping at 33:4 is Genesis's first unambiguous human mercy**, and the new theme page
+cites it as a key passage; without the retro-link the citation ran one way only.
+
+### Quotation check
+
+Every block quote on the new and revised pages was diffed against `raw/bible/Genesis.md` by a
+scratchpad script: **68 quoted verse segments, 0 mismatches** (the one flagged hit was a pre-existing
+elided quote of 49:6 on [[Simeon]], correct as written).
+
+The inline italic quotations were then swept the same way, which caught **one fault of the kind the
+mechanical checks are for**: the passage page had ***"Joseph by himself"*** in quotation marks as the
+chapter's stage-direction for the solitary table. **The WEB does not say that.** 43:32 reads *"They
+served him by himself"*; the phrase in quotes was the wiki's own summary wearing scripture's clothes.
+Corrected. [[Joseph's Steward]]'s `also_known_as` had the same problem — *the man over Joseph's house*
+is not a WEB phrase — and now carries *the steward of his house* and *his steward*, which are.
+
+Worth adding to the standing note from the last entry (a wikilink inside a quotation silently edits
+the quoted text): **a paraphrase inside quotation marks is the same failure with nothing to catch it.**
+The block-quote diff does not see it, because it is not in a block quote; the link check does not see
+it, because there is no link. Only reading each quoted fragment back against the raw file finds it.
+
+### Link check
+
+`scripts/link-check.sh` exits 0, expected baseline 64 not-yet-started book pages. No wrapped links and
+no dangling targets. **One wrapped link was introduced and caught during the pass** — `[[Joseph's`
+/ `Steward]]` split across the ~100-column wrap in
+[[Twenty Pieces of Silver - The Price of a Brother]] — and fixed before commit, which is exactly the
+failure mode `AGENTS.md` warns is invisible to everything else.
+
+**No links were deliberately left dangling for a later pericope.** 44:1–2, 44:16, 44:32–33, 45:1–3,
+45:22 and 46:34 are all named in prose and marked `*(not yet ingested)*` rather than linked.
+
+### Pre-existing findings, still open
+
+Unchanged and not touched this pass: the stale `*(not yet ingested)*` marker on [[The Tower of Babel]]
+pointing at Genesis 19:1–29; the `wiki/people/God.md` truncation at 25:11; and the seven older passage
+pages not yet retro-linked to [[Sexual Sin]].
+
+**One new one, noticed and not fixed:** `wiki/people/Jacob.md` renders *ʾênennû* at 42:36 with a
+Cyrillic *е* inside the transliteration, which will not match a search for the Latin spelling. It is a
+single character in one line of prose and was left alone rather than edited in an ingest commit; it
+belongs in the next lint.
+
+Genesis stands at 52 / 59 pericopes; the next is *The Silver Cup and Judah's Plea*, Genesis 44:1–34.

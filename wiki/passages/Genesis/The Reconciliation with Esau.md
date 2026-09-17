@@ -265,6 +265,11 @@ Genesis 34 will make him a central figure. See [[Hamor]].
 - [[Deception]] — the unfulfilled itinerary to Seir, flagged and not adopted as a verdict; see the
   Notes.
 - [[The Names of God]] — *ʾĒl ʾĕlōhê Yiśrāʾēl*, the altar name built on Jacob's own new name.
+- [[Compassion and Mercy]] — *retro-link added with Genesis 43.* **Esau's run, embrace and weeping at
+  33:4 is Genesis's first unambiguous human mercy**, and it arrives before the *minḥâ* Jacob had spent
+  a night arranging — the same sequence as [[The Second Journey]], where the compassion is already
+  there and the present is never mentioned again. See
+  [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]].
 
 ## Cross-references
 

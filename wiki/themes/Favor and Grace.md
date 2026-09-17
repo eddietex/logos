@@ -140,6 +140,11 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   credits an argument rather than a disposition**, and **the credit Pharaoh gives is to God, not to
   Joseph.** Acts 7:10 reads it back the other way — *"gave him favor and wisdom before Pharaoh king of
   Egypt"* — **supplying the word Genesis withholds**
+- [[The Second Journey]] — Genesis 43:29; ***ḥānan*** — *"God be gracious to you, my son"* — **[[Joseph]]'s
+  blessing on the brother he cannot claim**, and the closest the chapter comes to the disclosure.
+  **It is the counterpart to the *raḥămîm* [[Jacob]] asks for fifteen verses earlier** (43:14): the two
+  roots that Exodus 34:6 binds together as God's own name, **here split between a father in Canaan and a
+  son in Egypt who cannot be in the same sentence.** See [[Compassion and Mercy]]
 
 ## Related themes
 

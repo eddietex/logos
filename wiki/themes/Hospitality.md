@@ -163,6 +163,12 @@ theme, and its last appearance inverts who performs it.
   gold on him. What arrives instead, one month later, is *"Because you are my brother, should you
   therefore serve me for nothing? Tell me, what will your wages be?"* **The hospitality is real and it
   is also the opening of a ledger**, and the wiki reads it as both rather than choosing
+- [[The Second Journey]] — Genesis 43:16, 24–25, 31–34; **the fullest hospitality in Genesis, and it
+  cannot seat the guests with the host.** The formula of 18:4–8 and 24:31–32 run inside an Egyptian
+  house: an animal butchered, water, washed feet, **fodder for the donkeys**, and bread at noon — all of
+  it performed by [[Joseph's Steward]] for men who believe they are about to be enslaved. **Then it
+  breaks at the last step**: three tables, *"because the Egyptians don't eat bread with the Hebrews"*
+  (43:32), **and the host eats alone**
 
 ## Related themes
 

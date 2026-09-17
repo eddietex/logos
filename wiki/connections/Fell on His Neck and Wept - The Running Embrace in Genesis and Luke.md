@@ -19,6 +19,14 @@ tags: [connection]
   he returned to them"* — **there is no embrace, and the men he is weeping for do not know it
   happened.** The sequence that ends in 45:14's neck and 46:29's *"wept on his neck a good while"*
   starts here, **behind a door, immediately before he puts [[Simeon]] in chains**
+- [[The Second Journey]] — **Genesis 43:30–31**: **the second weeping, and it needs a room.** *"Joseph
+  hurried, for his heart yearned over his brother; and he sought a place to weep. He entered into his
+  room, and wept there. He washed his face, and came out. He controlled himself."* ***Nikmərû
+  raḥămāyw*** — *his compassions grew hot* — **is the trigger, and it is the first of the seven prompted
+  by seeing rather than hearing**: at 42:24 he had overheard a confession; here he has looked at
+  [[Benjamin]]. **Still no embrace, and still concealed** — but where 42:24 needed only to turn away,
+  this one needs a door, a washed face, and ***wayyitʾappaq***, *he forced himself*, **the verb that
+  fails at 45:1.** The concealment is one room thinner every time
 
 ## Analysis
 

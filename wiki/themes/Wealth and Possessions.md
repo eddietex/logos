@@ -168,6 +168,13 @@ the promise is repeatedly mistaken for.
   eventually costs — money, livestock, land, and finally the people themselves. **Genesis reports the
   whole sequence as good government and does not moralise about it.** Joseph's own wealth is stated
   entirely in regalia: a signet, fine linen, and a gold chain (41:42)
+- [[The Second Journey]] — Genesis 43:11–12, 15, 21–23; **the chapter's economy runs one way and
+  everyone in it is wrong about the accounts.** [[Jacob]] sends *"the choice fruits of the land"* —
+  balm, honey, spices, myrrh, nuts, almonds — **from a land with no food, to the man who owns all the
+  grain**; they are not provisions but the last good things in the house. He adds **double money**, and
+  the returned silver, which he calls a ***mišgeh***, an *oversight*, **a noun found nowhere else in the
+  Hebrew Bible.** Three sums are in motion and the chapter never balances them: [[Joseph's Steward]]
+  calls the first *treasure* from their God and says he was paid anyway
 
 ## Related themes
 

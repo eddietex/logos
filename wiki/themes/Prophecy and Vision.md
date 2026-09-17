@@ -216,6 +216,12 @@ happens.
   *and so it was fulfilled*, **no indication anyone but the reader notices.** *"Joseph remembered the
   dreams"* (42:9) is the whole commentary, and what he does next is accuse them of espionage. **Only
   ten of the eleven sheaves are present**, which is why there are three more chapters
+- [[The Second Journey]] — Genesis 43:26, 28; **the sheaf dream of 37:7 is completed and the text says
+  nothing at all.** Eleven brothers bow, twice, with [[Benjamin]] among them. At 42:6 there were ten and
+  the narrator at least noted that *"Joseph remembered the dreams"*; **here there is not even that.**
+  The fulfilment of the image the whole cycle turns on is narrated as household manners. **The second
+  dream's sun and moon (37:9) remain outstanding and cannot be met** — Jacob is in Canaan and [[Rachel]]
+  has been dead since 35:19
 
 ## Related themes
 

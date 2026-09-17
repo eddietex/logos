@@ -20,7 +20,15 @@ tags: [connection]
   eleven; [[Benjamin]] is in Canaan and [[Jacob]] is with him, **so the first dream is short a sheaf and
   the second has neither the sun nor the moon.** Genesis spends eleven words on the moment, adds no
   comment, and **has the dreamer respond by accusing the dreamers of espionage**
-- **Genesis 43:26**; **44:14**; **50:18** — the second, third, and fourth bowings.
+- [[The Second Journey]] — **Genesis 43:26, 28**: *"they brought him the present which was in their
+  hand into the house, and bowed themselves down to the earth before him"*, and again two verses later,
+  *"They bowed down humbly."* **The second and third bowings, and the first dream is now complete** —
+  [[Benjamin]] is standing among them, so there are eleven sheaves. **Genesis marks it with nothing at
+  all.** At 42:6 the narrator at least added *"Joseph remembered the dreams"*; **here the fulfilment of
+  the image the whole cycle turns on is reported as household manners.** The second dream's sun and moon
+  remain outstanding and now cannot be met as 37:9 describes them: [[Jacob]] is in Canaan and
+  [[Rachel]] has been dead since 35:19
+- **Genesis 44:14**; **50:18** — the fourth and fifth bowings.
 - **Genesis 47:31** — *"Israel bowed himself on the bed's head"* — the father's one bow, and it is not to
   his son.
 - [[The Cupbearer and the Baker]] — **Genesis 40:5, 8, 12, 18**: the cycle's second pair of dreams, the

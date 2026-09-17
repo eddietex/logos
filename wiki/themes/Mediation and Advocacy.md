@@ -165,6 +165,14 @@ what Job is asking for.
   reduced to a court functionary** — and the chapter's plot depends entirely on him. **[[Reuben]]'s
   surety at 42:37 is advocacy that fails** because it offers the wrong collateral (two grandsons), and
   it sets up [[Judah]]'s offer of himself at 43:9, which is the one that works
+- [[The Second Journey]] — Genesis 43:8–10, 23; **the book's turning point for the theme.** [[Judah]]'s
+  ***ʿārab*** at 43:9 — *"I'll be collateral for him. From my hand will you require him"* — is
+  **the first voluntary suretyship in Scripture**: a man interposing himself, by name and in advance,
+  between a debt and the one who would otherwise pay it. Set against [[Reuben]]'s offer of two grandsons
+  (42:37), **which Jacob does not dignify with a reply**, it establishes the difference between
+  collateral you own and collateral you are. **And [[Joseph's Steward]] stands between the parties in
+  both directions** — *"Peace be to you. Don't be afraid"* (43:23), and then the cup at 44:1–12. See
+  [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]
 
 ## Related themes
 

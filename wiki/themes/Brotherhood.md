@@ -98,6 +98,12 @@ resolve it.**
 - Genesis 44:33; 45:4; 50:15–21 — the resolution *(not yet ingested)*
 - Leviticus 19:17; Deuteronomy 15:7–11 — *your brother* as a legal category
 - Matthew 5:23–24; 18:21–22; 1 John 3:12–15
+- [[The Second Journey]] — Genesis 43:3–9, 29–30, 34; **a chapter conducted entirely in the vocabulary
+  of brotherhood by a brother in disguise.** *"Our brother"*, *"your brother"*, *"his brother"* eleven
+  times in thirty-four verses. [[Judah]] pledges himself for one brother (43:9); the narrator calls
+  [[Benjamin]] *"his brother, **his mother's son**"* (43:29); **[[Joseph]]'s compassions grow hot over a
+  brother he cannot name**; and he ends the meal by favouring one brother in front of ten, **which is
+  exactly what started all of it** (37:3–4)
 
 ## Related themes
 

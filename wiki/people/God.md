@@ -1457,6 +1457,17 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   the narration is silent about him from 39:23 until 46:1–2.
   Nothing in Genesis 42 is attributed to God by anyone who is right about it, and everything in it is
   his doing; see [[Providence]]
+- [[The Second Journey]] — ***ʾĕlōhîm* three times, all inside quotation marks, and one of the
+  speakers is Egyptian.** [[Jacob]] prays ***ʾĒl Šadday*** over the departing sons and asks him for
+  ***raḥămîm*** *"before the man"* (43:14) — **the only prayer in Genesis that asks God to change a
+  third party's feelings**, and it is answered at 43:30 in the same noun, in a room the man who prayed
+  it will never enter. [[Joseph]] says *"God be gracious to you, my son"* over [[Benjamin]] (43:29),
+  ***ḥānan***. **And [[Joseph's Steward]] — a household servant of a foreign court — says the truest
+  sentence about him in the chapter**: *"Your God, and the God of your father, has given you treasure
+  in your sacks"* (43:23), **correctly identifying [[Providence]] in an event he was not told the
+  reason for.** The narrator still says nothing, as he has said nothing since 39:23. **The chapter's
+  one act of divine mercy is reported as an involuntary physical sensation** — *nikmərû raḥămāyw*,
+  *his compassions grew hot* — **with no agent named at all.** See [[Compassion and Mercy]]
 
 ## Related people
 

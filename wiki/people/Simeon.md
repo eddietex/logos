@@ -61,7 +61,8 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Bound by [[Joseph]] before his brothers' eyes and left in Egypt as security — Genesis 42:24, 36,
   [[The Brothers' First Journey to Egypt]]
-- Released on the second journey — Genesis 43:23 *(not yet ingested)*
+- Released in four words by [[Joseph's Steward]], with nothing said to him or about him — Genesis
+  43:23, [[The Second Journey]]
 - Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
   ingested)*
 
@@ -85,6 +86,13 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   it back to Genesis 34. **The text supplies the order of events and no motive.** His brothers leave
   without a recorded word about him, and [[Jacob]] counts him with the dead: *"Joseph is no more, Simeon
   is no more"* (42:36)
+- [[The Second Journey]] — Genesis 43:23; **released, and the release is four words long.** *"He
+  brought Simeon out to them"* — **no greeting, no question, no recorded reaction from any of the ten
+  men who left him there**, and the sentence is a subordinate clause at the end of a servant's speech
+  about money. He has been held since 42:24, **for however long it took one household in Canaan to eat
+  a load of grain.** He presumably bows at 43:26 and sits second at 43:33, *"the firstborn according to
+  his birthright"* having gone to [[Reuben]]. **He says nothing here, as he says nothing at Shechem and
+  nothing anywhere else in Genesis**
 
 ## Related people
 

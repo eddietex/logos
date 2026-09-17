@@ -57,7 +57,8 @@ He becomes the fulcrum of the Joseph story without doing anything. [[Jacob]] wil
 to Egypt — *"if harm should happen to him… you would bring down my gray hairs with sorrow to Sheol"*
 (42:38) — and the entire second half of the Joseph narrative is a test built around him: the demand
 that he be produced (42:20), [[Reuben]]'s absurd offer of his own two sons as surety (42:37),
-[[Judah]]'s pledge of himself instead (43:9), the portion five times everyone else's at Joseph's
+[[Judah]]'s pledge of himself instead (43:9, see [[The Second Journey]]), the portion five times
+everyone else's at Joseph's
 table (43:34), the silver cup planted in his sack (44:2), and Judah's speech offering to be enslaved
 in his place (44:18–34) — **the speech that breaks Joseph and ends the concealment.**
 
@@ -87,8 +88,10 @@ Paul, who carries Saul's name.
 - Kept back from Egypt by [[Jacob]] — *"lest perhaps harm happen to him"* — and demanded by Joseph as
   the condition of the brothers' return — Genesis 42:4, 15, 20, 34, 38,
   [[The Brothers' First Journey to Egypt]]
-- Produced under compulsion; the portion five times the others'; the cup planted in his sack — Genesis
-  43:1–34; 44:1–17 *(not yet ingested)*
+- Taken down to Egypt at last, on [[Judah]]'s surety; seen, blessed — *"God be gracious to you, my
+  son"* — wept over from another room, seated last by right of youth, and served five times anyone
+  else's portion — Genesis 43:15, 16, 29–30, 33–34, [[The Second Journey]]
+- The cup planted in his sack — Genesis 44:1–17 *(not yet ingested)*
 - Judah offers himself as a slave in his place — Genesis 44:18–34 *(not yet ingested)*
 - Joseph falls on his neck and weeps — Genesis 45:14 *(not yet ingested)*
 - Blessed as a ravenous wolf — Genesis 49:27 *(not yet ingested)*
@@ -113,6 +116,16 @@ Paul, who carries Saul's name.
   37:7** — only ten brothers bow, so the dream is unfinished and the story is not over. **The narrator
   calls him *"Joseph's brother"* rather than Jacob's son** (42:4), which is the whole explanation of why
   he is kept home. **He still does not speak**
+- [[The Second Journey]] — Genesis 43:15, 16, 29–30, 33–34; **present at last, and he still says
+  nothing.** He is third in a packing list — *"the present … the money … and Benjamin"* (43:15) — and
+  every verb in the chapter happens to him: **he is taken, seen, blessed, wept over from behind a
+  door, seated, and served.** *"He lifted up his eyes, and saw Benjamin, his brother, **his mother's
+  son**"* (43:29) is the narrator naming [[Rachel]] without naming her; *"God be gracious to you, my
+  son"* is the only thing anyone says to him in Genesis. **His arrival completes the eleven sheaves of
+  37:7** (43:26, 28) **and the text does not remark on it.** Then he is given five times the others'
+  portion — **[[Joseph]] reproducing, at a table, the favouritism that put him in a pit** — and the ten
+  men watching it do nothing. **Everyone still calls him *the boy*, *hannaʿar*, though 46:21 gives him
+  ten sons**
 
 ## Related people
 
@@ -135,3 +148,6 @@ Paul, who carries Saul's name.
 - [[Birthright and the Firstborn]]
 - [[Love]]
 - [[Suffering]]
+- [[Compassion and Mercy]] — **its object twice in one chapter and unaware both times**: the
+  *raḥămîm* [[Jacob]] asks for him at 43:14 and the *raḥămîm* kindled over him at 43:30
+- [[Envy]] — **the five portions at 43:34 restage 37:3–4 with him in Joseph's place**

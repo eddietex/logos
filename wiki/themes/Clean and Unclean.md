@@ -103,6 +103,13 @@ These are not exclusive, and the third is the one the text argues for by itself.
   changed garments is exactly Exodus 19:10, 14, where Israel is consecrated before the mountain.
   **There is no priest, no sanctuary, and no law**, and Genesis does not say what the purification
   consisted of
+- [[The Second Journey]] — Genesis 43:32; ***tôʿēbâ*, the Bible's first *abomination*, and it belongs to
+  the Egyptians.** *"The Egyptians don't eat bread with the Hebrews, for that is an abomination to the
+  Egyptians"* — **not a divine prohibition but a national distaste**, reported by the narrator without
+  judgment. The word that will govern Israel's own table, diet and sexual law enters Scripture
+  describing somebody else's dining custom, and **the separateness it produces is what keeps the family
+  a family in Egypt.** See
+  [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]]
 
 ## Related themes
 

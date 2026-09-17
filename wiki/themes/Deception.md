@@ -239,6 +239,12 @@ has become a nation.
   the brothers with a costume, an accent, an oath by a foreign king, and a translator he does not
   need.** ***Wayyitnakkēr*** — *he made himself unrecognisable* — **is the deception in one word, and
   it is the same root as the recognition standing beside it** (42:7)
+- [[The Second Journey]] — Genesis 43:7, 21, 23, 27–31; **the impersonation continues and the method
+  changes.** Joseph maintains it **without a single false statement** — he asks after *"the old man"*,
+  calls [[Benjamin]] *"my son"*, and weeps behind a door — where in 42 he had accused, sworn and jailed.
+  **The brothers do the lying this time**, merging the two separate discoveries of the money (42:27 and
+  42:35) into one account at 43:21; **and [[Joseph's Steward]] says *"I received your money"* about money
+  he was ordered to return.** Every deception in the chapter is performed by someone being kind
 
 ## Related themes
 

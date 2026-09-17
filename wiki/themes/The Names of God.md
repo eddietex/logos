@@ -178,6 +178,13 @@ everlasting possession, by treaty with its current occupant.
   patriarch who titles his altars**, and this one turns a place-name into a divine one — which
   [[Bethel]] already was at 31:13, *"I am the God of Bethel"*, **the only place-name title God takes
   anywhere in Scripture**
+- [[The Second Journey]] — Genesis 43:14; ***ʾĒl Šadday***, **spoken by the man God spoke it to.**
+  [[Jacob]] heard it from [[Isaac]] the last time he was sent away from home — *"May God Almighty bless
+  you"* (28:3) — and from God himself at Bethel, *"I am God Almighty"* (35:11); **he says it once more at
+  48:3, telling [[Joseph]] where he got it.** Here he uses the covenant name to commission a grocery run,
+  **which is the measure of what he thinks is at stake.** It is the only one of his five uses that is a
+  petition rather than a blessing or a self-disclosure. See
+  [[God Almighty - El Shaddai in Genesis and Exodus]]
 
 ## Related themes
 

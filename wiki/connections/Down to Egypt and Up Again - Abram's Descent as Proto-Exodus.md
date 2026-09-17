@@ -18,6 +18,12 @@ tags: [connection]
   times for the plunder Abram refused to keep; and 15:14's *"I will also judge that nation"* is the
   first announced judgment on Egypt, four hundred years before the plagues. See also
   [[Four Hundred Years - The Sojourn and the Exodus]]
+- [[The Second Journey]] — **Genesis 43:15**: ***yārad* for the third time in Genesis because of a
+  famine** (12:10; 42:2–3; 43:15), and the second by this family in two chapters. *"They took double
+  money in their hand, and Benjamin; and got up, went down to Egypt, and stood before Joseph."*
+  **The descent has stopped being an errand**: the last son [[Jacob]] was holding back is now in Egypt,
+  and the family is three verses of narrative from a meal in a governor's house. **Nobody goes up again
+  in this chapter**
 - **Genesis 46:1–4** — Jacob told *"Don't be afraid to go down into Egypt … I will also surely bring
   you up again"* *(not yet ingested)*
 - **Exodus 1:22** — *"every son who is born you shall cast into the river, and every daughter you

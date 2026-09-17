@@ -162,6 +162,11 @@ noticing into doctrine.
   that elsewhere means *mediator* (Job 33:23; Isaiah 43:27). **He speaks *roughly* (42:7, literally
   *hard things*), swears in Egyptian court idiom, and withholds the one sentence in his own language
   that would end the chapter**
+- [[The Second Journey]] — Genesis 43:3, 7, 16; **three intensified infinitives in fifteen verses** —
+  *hāʿēd hēʿid*, *"solemnly warned"*; *šāʾôl šāʾal*, *"asked directly"*; *ṭĕbōaḥ ṭebaḥ*, *"butcher an
+  animal"* — **two of them the brothers' account of a conversation the reader has already watched.**
+  And **the *mēlîṣ* of 42:23 is never mentioned again**, though nothing says he has gone: the chapter
+  runs its whole conversation without telling the reader which language it is in
 
 ## Related themes
 

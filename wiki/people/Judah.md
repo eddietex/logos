@@ -95,14 +95,52 @@ what fooled him. See [[Righteousness]] and [[Judah and Tamar]].
 Ruth and opens Matthew.** See
 [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]].
 
+### In this pericope — Genesis 43:1–34
+
+**The chapter is his, and it is where the succession that began at 37:27 completes.**
+
+[[Jacob]] has refused to let [[Benjamin]] go (42:38) and [[Reuben]] has already offered two of his own
+sons as forfeit and been answered with nothing (42:37). **Judah waits until the grain runs out, states
+the condition twice without embellishment, and then makes the offer that moves his father.**
+
+> **8** Judah said to Israel, his father, "Send the boy with me, and we'll get up and go, so that we
+> may live, and not die, both we, and you, and also our little ones. **9** I'll be collateral for him.
+> From my hand will you require him. If I don't bring him to you, and set him before you, then let me
+> bear the blame forever, **10** for if we hadn't delayed, surely we would have returned a second time
+> by now."
+
+***ʾĀnōkî ʾeʿerbennû*** — ***ʿārab***, **to stand surety for another man's debt**, with the pronoun
+supplied when the verb did not need it. **He is not promising to try; he is putting himself on the
+note.** And *"let me bear the blame forever"* — ***wəḥāṭāʾtî ləkā kol-hayyāmîm***, *I shall have
+sinned against you all the days* — **is not a penalty he will pay but a status he will occupy.**
+Reuben offered a transaction in lives he did not own; **Judah offers to become, permanently, the man
+who did this.** Jacob's answer is *"If it must be so, then do this"* (43:11). See
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]].
+
+**The verse has a precedent in his own history, and it is the opposite of this one.** ***ʿĒrābôn*** —
+*pledge* — is what he hands [[Tamar]] at [[Enaim]]: his signet, his cord and his staff, **security he
+leaves behind for a goat he never delivers** (38:17–20). **The first time Judah gives a pledge it is
+his identity, and he writes it off rather than be laughed at. The second time it is himself, and he
+keeps it** (44:32–33).
+
+**Verse 8 is also an argument, and it is his father's own.** *"So that we may live, and not die"* is
+Jacob's phrase from 42:2, **handed back to him widened from one household to three generations** —
+*"both we, and you, and also our little ones."* **Verse 10 is the only sharp thing he says**, and it
+is true: the delay was Jacob's, and [[Simeon]] has been in an Egyptian prison for the length of the
+argument.
+
+**Nothing else in the chapter is his.** He is one of the eleven who bow at 43:26, one of the men
+seated in birth order at 43:33 — fourth — and one of those who drink at 43:34. **His next words are
+the longest speech in Genesis.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**He becomes the brother who offers himself.** He gives Jacob a personal surety for Benjamin
-where [[Reuben]] had offered his own sons and been refused (43:8–9), and at 44:18–34 makes the longest
-speech in Genesis, ending *"let your servant stay instead of the boy, a slave to my lord"* — **a
-substitution offered by the man who once proposed a sale.** It is what breaks Joseph.
+**He keeps the pledge.** At 44:18–34 he makes the longest speech in the book, quotes 43:9 back
+verbatim (44:32), and ends *"please let your servant stay instead of the boy, my lord's slave; and
+let the boy go up with his brothers"* — **a substitution offered by the man who once proposed a
+sale.** It is what breaks Joseph: 45:1 follows immediately.
 
 **Jacob's blessing re-puns the name in his own mouth** — *"Judah, your brothers will **praise** you"*
 (49:8), the only one of the twelve names Genesis glosses twice — and attaches the sceptre to it:
@@ -126,7 +164,9 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
 - [[Perez]] and [[Zerah]] born — Genesis 38:27–30
 - Silent through the first journey to Egypt, in a chapter that turns on the verb his brothers obeyed
   at 37:27 — Genesis 42, [[The Brothers' First Journey to Egypt]]
-- Stands surety for Benjamin, and offers himself in his place — Genesis 43:8–9; 44:18–34 *(not yet
+- Stands surety for Benjamin — ***ʿārab***, *"I'll be collateral for him … let me bear the blame
+  forever"* — and so ends Jacob's refusal — Genesis 43:8–10, [[The Second Journey]]
+- Offers himself in Benjamin's place; the longest speech in Genesis — Genesis 44:18–34 *(not yet
   ingested)*
 - Blessed at Jacob's deathbed; the lion, the sceptre, and the second pun on his name — Genesis 49:8–12
   *(not yet ingested)*
@@ -159,6 +199,12 @@ substitution offered by the man who once proposed a sale.** It is what breaks Jo
   the pitch was his.** He takes no part in the confession, the report, or [[Reuben]]'s failed surety;
   **he speaks first thing in the next chapter, and what he offers is himself** (43:9). Genesis puts his
   silence exactly where Reuben's self-justification is
+- [[The Second Journey]] — Genesis 43:3–10; **the chapter where he takes the cycle over.** He states
+  Joseph's condition twice and does not argue it (*"You shall not see my face, unless your brother is
+  with you"*), answers his father's grievance, and then offers ***ʿārab*** — **himself, not his sons,
+  and *forever*, not until the boy is back.** Jacob, who did not reply to [[Reuben]] at all, replies
+  *"If it must be so, then do this."* **It is the same root as the *ʿērābôn* he left with [[Tamar]] at
+  38:17–20**, and the first time he offers collateral he cannot walk away from
 
 ## Related people
 

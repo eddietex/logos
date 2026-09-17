@@ -102,6 +102,12 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 - Leviticus 5:14–6:7; Numbers 5:6–7 — the guilt offering and spoken confession
 - Psalm 32:3–5; Psalm 51 — silence, and what it costs
 - Romans 2:15; 1 Timothy 4:2; Hebrews 10:22 — *syneidēsis*
+- [[The Second Journey]] — Genesis 43:18–23; **every kindness in the chapter frightens them.** Brought
+  to the governor's house for dinner, they conclude they are being arrested over the money and will be
+  *"seized as slaves, along with our donkeys"* (43:18); **they rehearse a defence at the door before
+  anybody has accused them** (43:19–22); and the answer they get is *"Peace be to you. Don't be afraid."*
+  **The confession of 42:21 has not made them easier — it has made them legible to themselves**, and men
+  carrying an unconfessed crime read hospitality as a trap
 
 ## Related themes
 

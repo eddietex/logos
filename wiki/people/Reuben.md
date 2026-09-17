@@ -129,6 +129,8 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   over a brother standing in the room — Genesis 42:22, [[The Brothers' First Journey to Egypt]]
 - Offers his father the lives of his own two sons as surety for [[Benjamin]], and is not answered —
   Genesis 42:37
+- Not named at all in the chapter where [[Judah]]'s surety succeeds; seated first at Joseph's table
+  *"according to his birthright"* — Genesis 43:33, [[The Second Journey]]
 - Disinherited from the birthright at Jacob's deathbed — Genesis 49:3–4; 1 Chronicles 5:1–2 *(not yet
   ingested)*
 
@@ -158,6 +160,14 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   [[Jacob]] the lives of two grandsons as collateral for a third son; **Jacob does not reply.** The
   firstborn's authority is visibly finished, and [[Judah]] takes the role in the next chapter. See
   [[His Blood Is Required - Darash and the Reckoning for Blood]]
+- [[The Second Journey]] — Genesis 43:33; **absent from the chapter that replaces him, and the absence
+  is the point.** He is not named once in thirty-four verses. **[[Judah]] makes the same offer he made
+  at 42:37 — a surety for [[Benjamin]] — and Jacob, who did not reply to Reuben at all, answers
+  *"If it must be so, then do this."*** The difference is what is pledged: **Reuben offered two of his
+  sons; Judah offers himself** (see
+  [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]). His one appearance is
+  as furniture — *"the firstborn according to his birthright"*, seated first at Joseph's table (43:33)
+  — **a birthright the narrative has already given away and 49:3–4 will formally strip**
 
 ## Related people
 

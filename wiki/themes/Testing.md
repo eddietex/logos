@@ -104,6 +104,12 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   **what the next three chapters test is whether ten men who sold one favoured son will do it again to
   another.** The pattern is also inverted: **in Genesis it is God who tests a man** (22:1), and here it
   is a man, in disguise, testing his brothers
+- [[The Second Journey]] — Genesis 43:33–34; **a test that is never called one.** Joseph seats eleven men
+  in birth order and watches; he gives [[Benjamin]] five times anyone else's portion and watches; **and
+  Genesis reports neither as a trial and records no reaction beyond amazement and drinking.** The proof
+  that they were tests is 44:1–2: **a cup planted on the favoured brother only works on men who have
+  already been shown a favoured brother and done nothing.** The chapter also supplies the answer in
+  advance — [[Judah]]'s ***ʿārab*** at 43:9 — **before the test that calls it in**
 
 ## Related themes
 

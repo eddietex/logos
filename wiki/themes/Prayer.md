@@ -143,6 +143,14 @@ already did.
   for now you will have another son."* **The comfort is factually correct and useless**, in the
   register of her husband's *"Am I in God's place?"* at 30:2. **The one prayer of hers Genesis records
   being answered in the words she used is the one that kills her.**
+- [[The Second Journey]] — Genesis 43:14; **[[Jacob]]'s only prayer in the Joseph cycle, and the only
+  prayer in Genesis that asks God to change a third party's feelings.** *"May God Almighty give you mercy
+  before the man, that he may release to you your other brother and Benjamin. If I am bereaved of my
+  children, I am bereaved."* Four clauses: **the covenant name, the petition, the purpose, and a
+  pre-emptive surrender.** Compare his prayer at the Jabbok (32:9–12), **which argued from the promises
+  God had made him**; this one argues from nothing. **It is answered sixteen verses later in its own
+  noun** — *raḥămîm* at 43:14, *nikmərû raḥămāyw* at 43:30 — **and he never finds out.** See
+  [[Compassion and Mercy]] and [[Providence]]
 
 ## Related themes
 

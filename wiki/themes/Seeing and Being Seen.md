@@ -192,6 +192,12 @@ will finally go both ways.
   charge is about *seeing* *"the nakedness of the land"* (42:9, 12); **and the confession is
   *"we saw the distress of his soul… and we wouldn't listen"*** (42:21). **Seeing without acting is
   what they finally name as the offence**
+- [[The Second Journey]] — Genesis 43:16, 29, 33; **the chapter's sight is all one-way.** *"When Joseph
+  **saw** Benjamin with them"* (43:16) — and he turns to a servant about lunch. *"He **lifted up his
+  eyes**, and **saw** Benjamin, his brother, his mother's son"* (43:29) — and he leaves the room.
+  **Meanwhile eleven men are seated in the exact order of their births by a foreigner who has never met
+  them, and *"the men marveled one with another"*** (43:33): **they look straight at the evidence and
+  cannot read it**
 
 ## Related themes
 

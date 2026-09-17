@@ -111,6 +111,13 @@ human one innocent.** *"You meant evil"* stands. See
 - Genesis 45:5–8; 50:19–20 — the correction *(not yet ingested)*
 - Ruth 2:3; Esther 4:14 — the method without the vocabulary
 - Psalm 105:16–22; Acts 7:9–10; Romans 8:28
+- [[The Second Journey]] — Genesis 43:14, 23, 30; **the chapter's method is to answer a prayer and not
+  mention that it has.** [[Jacob]] asks God for ***raḥămîm*** *"before the man"* (43:14); sixteen verses
+  later the man's ***raḥămîm*** grow hot and he leaves the room to hide it (43:30). **No narrator, no
+  character, no comment** — the opposite of 45:5–8 and 50:20, where the doctrine is finally stated aloud.
+  **The one person who states it here is an Egyptian servant**: *"Your God, and the God of your father,
+  has given you treasure in your sacks"* (43:23), **correct about an event he was never told the reason
+  for.** See [[Compassion and Mercy]] and [[Joseph's Steward]]
 
 ## Related themes
 
