@@ -123,9 +123,22 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   a birthday feast for the whole staff, **a muster of servants described with the census idiom**, and an
   execution by exposure. **The king never appears, speaks, or knows that a prisoner predicted his own
   verdicts**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:37–57, **the Bible's first investiture scene and its most
+  complete.** The signet ring off the king's own hand (*ṭabbaʿat*, the power to sign in his name), robes
+  of fine linen, a gold chain, **the second chariot**, and a herald crying ***ʾabrēk*** — **and the one
+  thing reserved is the throne**: *"only in the throne I will be greater than you"* (41:40). **The same
+  regalia recur for Mordecai and Daniel**; see
+  [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]]. **What the chapter shows
+  about monarchy is how much of it is delegable**: Pharaoh gives away the administration, the grain, a
+  name, and a wife in one afternoon, and at the famine's height **sends his own starving people to
+  someone else** — *"Go to Joseph. What he says to you, do"* (41:55). **And the state's reach is
+  established by a tax**: the fifth part of 41:34, proposed by a prisoner, which 47:20–26 turns into the
+  permanent law of Egypt after the crown has bought the population. **Genesis reports all of it as
+  competent government and passes no verdict**
 
 ## Related themes
 
+- [[Famine and Plenty]] — the crisis that turns a crown into a landlord
 - [[City and Civilization]] — the eight cities the first kingdom is made of
 - [[The Nations]] — the seventy, of whom some become empires
 - [[Judgment]] — what the prophets do with those empires

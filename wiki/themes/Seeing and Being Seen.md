@@ -178,6 +178,15 @@ will finally go both ways.
   who notices.** Then the seeing runs the other way and costs someone: *"when the chief baker **saw**
   that the interpretation was good"* (40:16) is why he volunteers. **And the man Joseph reads correctly
   does not see him at all** (40:23)
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:19, 21, 37, **the chapter's argument runs on verbs of
+  perception.** Pharaoh's retelling turns on what he ***saw***: *"such as I never saw in all the land of
+  Egypt for ugliness"* (41:19) — **a superlative the narrator's own account does not contain** — and on
+  what could ***not be known***: *"it couldn't be known that they had eaten them"* (41:21), **the clause
+  the interpretation turns on**, returned to him at 41:31. The verdict on Joseph's advice is visual —
+  *"the thing was **good in the eyes** of Pharaoh, and in the eyes of all his servants"* (41:37) — and so
+  is the confession that follows: *"Because God has ***shown*** you all of this"* (41:39), which is
+  Joseph's own word at 41:25 and 41:28. **What God does in this chapter, on the chapter's own account, is
+  show somebody something**
 
 ## Related themes
 

@@ -130,9 +130,18 @@ the seventh day a blessing. See [[Sabbath]].
   intrusion — birds eating out of the top basket — is the whole of the second interpretation. **And the
   restoration is described entirely as the resumption of a task**: *"he gave the cup into Pharaoh's
   hand"*, the same clause the dream ended on
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:33–36, 46–49, **the longest description of administrative labour in the
+  Torah, and the chapter treats competence as evidence.** The programme is unglamorous and complete:
+  an officer, ***pəqidim*** (overseers, from *pāqad*), a twenty per cent levy, gathering, **storage city
+  by city** — *"the food of the field, which was around every city, he laid up in the same"* (41:48) —
+  and distribution by sale. **Joseph *"went throughout all the land of Egypt"*** and *"laid up grain as
+  the sand of the sea, very much, **until he stopped counting**"* (41:49). **The proof that the
+  interpretation was true is seven years of successful logistics**, not a sign; **the food was never
+  multiplied, it was stored.** See [[Famine and Plenty]]
 
 ## Related themes
 
+- [[Famine and Plenty]] — the forecast the labour of Genesis 41 exists to answer
 - [[Sabbath]] — the rest that defines and limits work
 - [[Creation]]
 - [[Image of God]] — the ground of the dominion that work exercises

@@ -21,8 +21,11 @@ tags: [connection]
   his son.
 - [[The Cupbearer and the Baker]] — **Genesis 40:5, 8, 12, 18**: the cycle's second pair of dreams, the
   first that need an interpreter, and the first attributed to God.
-- **Genesis 41:32** — *"the dream was doubled to Pharaoh, because the thing is established by God, and
-  God will shortly bring it to pass."*
+- [[Pharaoh's Dreams and Joseph's Rise]] — **Genesis 41:32**: *"the dream was doubled to Pharaoh,
+  because the thing is established by God, and God will shortly bring it to pass"* — **the cycle's own
+  explanation of its pairs, given at the third pair and applying retroactively to the first.** **41:43's
+  *"Bow the knee!"* is also the first bowing the cycle actually delivers**, five chapters before the
+  brothers do it
 - **Revelation 12:1** — *"a woman clothed with the sun, and the moon under her feet, and on her head a
   crown of twelve stars."*
 

@@ -16,8 +16,10 @@ tags: [connection]
   [[Joseph Sold into Slavery]]
 - **Genesis 26:12–14** — Isaac's hundredfold in Gerar, and the envy that follows it —
   [[Isaac in Gerar]]
-- **Genesis 41:53–57; 47:13–26** — a famine survived by a whole region because of the same man
-  *(not yet ingested)*
+- **Genesis 41:53–57** — *"there was famine in all lands, but in all the land of Egypt there was
+  bread"*, and *"all countries came into Egypt, to Joseph, to buy grain"*: **the pattern's third and
+  largest instance — a household, then an estate, then a kingdom, and through it the whole earth** —
+  [[Pharaoh's Dreams and Joseph's Rise]]. Continued at **47:13–26** *(not yet ingested)*
 - **2 Samuel 6:11** — *"Yahweh blessed Obed-Edom and all his house"* while the ark stayed there
 
 ## Analysis

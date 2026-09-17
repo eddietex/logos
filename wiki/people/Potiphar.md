@@ -14,10 +14,12 @@ tags: [person]
 
 **The name is Egyptian and its meaning is not in doubt.** ***Pôṭîpar*** is a shortened form of
 *pꜣ-dj-pꜣ-Rꜥ*, **"he whom Ra has given"** — a common New Kingdom theophoric formation. **Genesis
-supplies the unshortened form itself four chapters later**, as *Potiphera*, **priest of On and the
-father of Joseph's wife Asenath** (41:45). **They are two different men with effectively the same
+supplies the unshortened form itself four chapters later**, as [[Potiphera]], **priest of [[On]] and the
+father of Joseph's wife [[Asenath]]** (41:45). **They are two different men with effectively the same
 name**, and the wiki keeps them apart on the page rather than harmonising them, as some ancient
-retellings do.
+retellings do — which would make Asenath the daughter of [[Potiphar's Wife]] and turn Joseph's reward
+into a marriage into the house that framed him. **Genesis offers no support**: different spellings,
+different offices, different cities.
 
 ### His two titles
 
@@ -87,6 +89,8 @@ records it as one and **adopts no reading of 39:19.** He is not named again afte
 - His wife's accusation; his anger; Joseph imprisoned in his house rather than killed — Genesis 39:19–20
 - The royal prison is stated to be in his house; he places two of Pharaoh's officers in it and assigns
   Joseph to wait on them — Genesis 40:3–4, [[The Cupbearer and the Baker]]
+- Referred to twice by office in the cupbearer's speech to Pharaoh, and named no further in Genesis —
+  Genesis 41:10, 12, [[Pharaoh's Dreams and Joseph's Rise]]
 
 ## Appears in
 
@@ -104,6 +108,12 @@ records it as one and **adopts no reading of 39:19.** He is not named again afte
   king's own servants is either an administrative fact with nothing behind it or **the clearest
   circumstantial support for the reading that he did not believe her**; the wiki, as at 39:19, sets it
   out and adopts neither
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:10, 12; **his last appearance in Genesis, and it is
+  by office in someone else's mouth.** The cupbearer tells Pharaoh he was held *"in the house of the
+  captain of the guard"* and that the interpreter was *"servant to the captain of the guard"* — **so the
+  final thing the book says about Potiphar is that Joseph belonged to him**, in the speech that ends
+  Joseph's belonging to anyone. **The name is not used**, and the chapter never says what became of the
+  ownership
 
 ## Related people
 
@@ -116,6 +126,8 @@ records it as one and **adopts no reading of 39:19.** He is not named again afte
 - [[Ishmael]], [[Keturah]] — through the traders of 37:25–28, whose two designations Genesis uses
   interchangeably; Potiphar buys from Midianites at 37:36 and from Ishmaelites at 39:1
 - [[Jacob]] — who will never learn that his son was owned by this man
+- [[Potiphera]] — **the same Egyptian name in its full form**, priest of [[On]] and Joseph's
+  father-in-law; **a different man, on the evidence, and joined to him only by later tradition**
 
 ## Themes associated
 

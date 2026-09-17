@@ -178,6 +178,16 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   chapter shows a man unable to supply**: the verb is an act, and the act does not come.
   Ecclesiastes 9:15 states the same outcome as a general law — *"yet no one remembered that same poor
   man"*. See [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:9, 30, 51, **the answer to 40:23, and it is grudging in every
+  direction.** *"I remember my faults today"* (41:9) is ***mazkîr***, **the causative of the verb Joseph
+  gave the cupbearer at 40:14** (*wəhizkartanî*, *cause Pharaoh to remember me*) — **and the object is
+  not Joseph, it is the speaker's own offences.** He then describes Joseph to Pharaoh as *a young man, a
+  Hebrew, a slave*, **without using his name.** Whether *my faults* means his old offence against the
+  king or his two-year silence **is left open by the text.** And **the chapter's other memory verb is
+  *šākaḥ*, twice**: the plenty *"will be forgotten"* in the famine (41:30), and **Joseph thanks God for
+  making him forget his father's house** (41:51) — *"forgetting is this cycle's standing form of
+  loss"*, and here it is received as a mercy. See
+  [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
 
 ## Related themes
 

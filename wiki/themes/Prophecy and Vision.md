@@ -197,6 +197,20 @@ happens.
   professionals of 41:8 fail for lack of access rather than lack of skill.** And the content is
   ordinary: **two Egyptian officials dream their own jobs**, and what makes one dream a death sentence is
   a flock of birds. See [[Do Not Interpretations Belong to God - Joseph and Daniel]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57, **the cycle's third dream pair and the only one whose device the text
+  explains.** *"The dream was doubled to Pharaoh, because the thing is established by God, and God will
+  shortly bring it to pass"* (41:32) — ***nākôn***, *fixed*, and ***māhar***, *shortly*: **the doubling
+  certifies both the certainty and the imminence**, and it applies retroactively to Joseph's own two
+  dreams at 37:5–11 and the officers' two at 40:5. **The disclaimer of 40:8 is repeated in a throne
+  room** — *"It isn't in me. God will give Pharaoh an answer of peace"* (41:16). And **three structural
+  claims are made here for the first time**: that **a professional guild cannot do this** (41:8, 24 —
+  every magician and wise man in Egypt, given two plain agricultural dreams, with nothing to say); that
+  **the interpreter may know the dream better than the dreamer** — Joseph collapses two dreams into one
+  (41:25) — and that **the dreamer may know it better than he realises**, since Pharaoh's retelling adds
+  *"it couldn't be known that they had eaten them"* (41:21), **the clause the interpretation turns on**,
+  which Joseph hands straight back at 41:31. **The narrator never once attributes the dream to God**:
+  all nine occurrences of *ʾĕlōhîm* in the chapter are inside quotation marks. See
+  [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]]
 
 ## Related themes
 

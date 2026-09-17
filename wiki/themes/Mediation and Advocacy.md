@@ -152,6 +152,15 @@ what Job is asking for.
   to a king.** The advocacy eventually arrives two years late and **from a man confessing a fault**:
   *"I remember my faults today"* (41:9). **The theme's usual shape in Genesis is intercession offered
   unasked**; this is the one place it is asked for and withheld
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:9–13, 55, **the advocacy of 40:14 arrives two years
+  late, in the wrong frame, and it works.** The cupbearer speaks **only after the king's own
+  establishment has failed publicly**, opens with ***"I remember my faults today"*** — **his own
+  offences, not Joseph's case** — and **describes the man without naming him**: *a young man, a Hebrew,
+  servant to the captain of the guard.* **It is the thinnest possible advocacy and it is sufficient.**
+  Then the role inverts: **by the end of the chapter Joseph is the one people are sent to.** Pharaoh's
+  own starving subjects cry to him for bread and he answers ***"Go to Joseph. What he says to you, do"***
+  (41:55) — **a king referring his people to an intermediary**, which is where the rest of the book's
+  brother-scenes begin
 
 ## Related themes
 

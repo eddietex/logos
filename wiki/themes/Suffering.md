@@ -106,6 +106,15 @@ requires only that you be standing outside it.
   **The *gam*, *also*, quietly claims he had done nothing in the other place either**, without
   relitigating it. He calls the prison ***habbôr***, *the pit* — **his brothers' word for the cistern at
   37:24**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:52, **the chapter's sting, and it is one word.** ***ʾEreṣ ʿonyî***,
+  ***the land of my affliction*** — **said by the second man in Egypt, with a new name, a wife, a signet
+  ring, a chariot and a country.** At the peak of everything the chapter gives him, **Joseph's own word
+  for the place is *affliction***. The root is ***ʿānâ***, **and it is the root the Exodus is built
+  on**: Genesis 15:13's *"they will afflict them four hundred years"* and Exodus 3:7's *"I have surely
+  seen the affliction of my people who are in Egypt."* **Joseph names a son with the word of the
+  prophecy his family is about to live inside, and Genesis does not point it out.** The other half of
+  the same breath is 41:51 — *"God has made me forget all my toil"*, ***ʿămālî*** — **thirteen years and
+  a father put in one clause and given thanks for as a thing lifted**
 
 ## Related themes
 

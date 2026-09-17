@@ -94,6 +94,14 @@ is close because you cannot bear to sit in the dark with him.
   word happened, and Yahweh's word proved him true"* is the only line in Scripture that reads the delay
   as anything. **Genesis simply ends the chapter on the forgetting** and lets 41:1's *"two full years"*
   stand unexplained
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1, **two full years, measured to the day, between being right about
+  everything and anything happening about it.** ***Miqqēṣ šənātayim yāmîm*** — *two years of days*, the
+  idiom for two complete years — **is the whole content of the interval**, and **Genesis offers no
+  account of what it was for.** No divine speech, no narratorial comment, no suggestion that Joseph
+  prayed or despaired or waited well. **Psalm 105:19 remains the only text in Scripture that says
+  anything about it** — *"until the time that his word happened, and Yahweh's word proved him true"* —
+  and it is a verdict imposed from outside, centuries later. **The relief, when it comes, comes through a
+  man's insomnia and a courtier's self-interest**
 
 ## Related themes
 

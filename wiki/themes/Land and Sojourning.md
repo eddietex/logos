@@ -260,9 +260,18 @@ where that starts, in a sentence about a family that got halfway.
   and three sons born in Canaanite towns, one of them at [[Chezib]]. **The covenant line is not living
   among the nations here so much as inside them** — and **the line of David is conceived there**, which
   Genesis reports without a syllable of comment. See [[Not from the Daughters of the Canaanites]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:46–57, **the chapter in which Egypt becomes *the land*.**
+  ***ʾEreṣ*** saturates it — *the land of Egypt* a dozen times over — **and [[Canaan]] is not named
+  once.** **The sojourner is now the governor**: *"Joseph went out from the presence of Pharaoh, and went
+  throughout all the land of Egypt"* (41:46). **And he still calls it *"the land of my affliction"***
+  (41:52). **Famine is the reason anyone in Genesis ever leaves anywhere** — it moved [[Abraham]] at
+  12:10 and was forbidden to move [[Isaac]] at 26:2 — **and this is the famine that moves the whole
+  household permanently**, since 41:57's *"all countries came into Egypt"* is what puts Jacob's sons on
+  the road in 42:1. See [[Famine and Plenty]]
 
 ## Related themes
 
+- [[Famine and Plenty]] — the commonest reason anyone in Genesis leaves anywhere
 - [[City and Civilization]] — the counter-image: Babel builds a city to avoid being scattered, and
   Abraham lives in tents looking for one *"whose builder and maker is God"*
 - [[Covenant]] — land is one of the covenant's two contents, alongside offspring

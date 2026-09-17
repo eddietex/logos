@@ -9,8 +9,10 @@ tags: [connection]
 
 - [[The Cupbearer and the Baker]] — Genesis 40:5–8, 12, 18, 22: *"Don't interpretations belong to God?
   Please tell it to me"*
-- Genesis 41:8, 15–16, 25, 32, 38–39 — the magicians fail, and *"It is not in me: God will give Pharaoh
-  an answer of peace"*
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:8, 15–16, 25, 32, 38–39: the magicians fail, and
+  *"It isn't in me. God will give Pharaoh an answer of peace"*. **41:8's *wattippāʿem rûḥô*, *his spirit
+  was troubled*, is the same verb and stem as Daniel 2:1** — see
+  [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]]
 - Daniel 2:1–11 — Nebuchadnezzar's dream, and a demand no professional can meet
 - Daniel 2:27–30, 45, 47 — *"there is a God in heaven who reveals secrets"*, and *"as for me, this
   secret is not revealed to me for any wisdom that I have more than any living"*

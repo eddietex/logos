@@ -126,9 +126,23 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Egyptological detail is dense and correct — stacked baskets carried on the head, grapes for the king's
   cup, a court that detains at the king's displeasure — **and the word *Egypt* itself occurs three
   times, always as *the king of Egypt***
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57; **the chapter in which Egypt stops being a
+  setting and becomes a system.** It supplies **the river the whole country runs on** — *hayʾōr*, an
+  Egyptian loanword entering Scripture here and the Bible's word for [[The Nile]] ever after — **the east
+  wind that ruins a crop**, **a state dream-interpretation profession** (*ḥarṭummîm*, a word used
+  elsewhere only in Exodus 7–9 and Daniel), **a shaved court**, **fine linen** (*šēš*, the tabernacle's
+  fabric), **a signet ring**, **chariots**, **granary cities**, **a twenty per cent levy**, and
+  **[[On]], the sun-cult centre whose priest becomes Joseph's father-in-law.** Four Egyptian proper nouns
+  appear in verse 45 alone. **And the chapter establishes the fact the rest of Genesis depends on** —
+  *"there was famine in all lands, but in all the land of Egypt there was bread"* (41:54) — **so that
+  *"all countries came into Egypt … to buy grain"*** (41:57). **The name occurs fourteen times**, and
+  **the country that will enslave Israel first feeds the world**
 
 ## Related places
 
+- [[The Nile]] — *hayʾōr*, the river that is the country in any practical sense, and the setting of both
+  of Pharaoh's dreams
+- [[On]] — Heliopolis, the cult centre of Ra at the apex of the Delta, and the home of Joseph's wife
 - [[Canaan]] — its neighbour to the north-east, and Ham's other great territory; the land that
   starves while this one eats
 - [[The Negev]] — the dry corridor between the two, and the road down
@@ -162,3 +176,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - Two of Pharaoh's household officers offend him and are jailed in the captain of the guard's house,
   where a Hebrew prisoner reads their dreams — Genesis 40:1–8, [[The Cupbearer and the Baker]]
 - Pharaoh's birthday feast, and the two verdicts given at it — Genesis 40:20–22
+- Pharaoh dreams of seven fat cattle and seven lean coming up out of [[The Nile]]; every magician and
+  wise man in the country fails — Genesis 41:1–8, [[Pharaoh's Dreams and Joseph's Rise]]
+- A Hebrew prisoner is shaved, dressed, and made second in the kingdom in a single audience — Genesis
+  41:14–45
+- Joseph marries [[Asenath]], daughter of [[Potiphera]] priest of [[On]] — Genesis 41:45
+- Seven years of plenty; grain stored city by city *"as the sand of the sea"* — Genesis 41:47–49
+- The famine begins; *"in all the land of Egypt there was bread"*, and all countries come to buy —
+  Genesis 41:53–57

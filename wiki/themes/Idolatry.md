@@ -79,6 +79,15 @@ imperative in the epistles: *"Little children, keep yourselves from idols"* (1 J
   Genesis leaves unstated and Joshua 24:2 names.
 - [[The Call of Abram]] — Genesis 12:1–9; the departure from that household, given without a religious
   reason in the text.
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:45, **the theme's loudest silence in Genesis.** The verse names
+  **[[On]]**, the cult centre of Ra; makes **[[Potiphera]]**, a priest of it, Joseph's father-in-law;
+  gives Joseph a wife whose name, ***ʾĀsənat***, is most likely ***she belongs to Neith***; and gives
+  Joseph himself an Egyptian throne-name, ***Ṣāpənat Paʿnēaḥ***, **which probably contains an Egyptian
+  god** (*ḏd-pȝ-nṯr-iw.f-ʿnḫ*, *the god speaks and he lives*). **Both Egyptian households Joseph enters
+  are named for the sun**: [[Potiphar]] and [[Potiphera]] are the same name, *he whom Ra has given*.
+  **Genesis comments on none of it** — no condemnation, no defence, no note that any of it was imposed
+  rather than chosen — **in a book that condemned Esau's Hittite wives in a clause** (26:35). **The wiki
+  records the silence as a silence and declines to fill it in either direction**
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

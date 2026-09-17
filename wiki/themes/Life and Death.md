@@ -250,9 +250,19 @@ the rest of the canon.
   lift up your head **from off you**"*. **Scripture makes a pun carry a death sentence**, and the
   interpreter does not soften, delay, or decline it. See
   [[Lift Up Your Head - One Idiom and Two Verdicts]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:36, 54–57, **famine as the form death takes in this book.**
+  Joseph's stated purpose for the whole programme is ***"that the land not perish through the famine"***
+  (41:36) — ***wəlōʾ-tikkārēt hāʾāreṣ***, *that the land not be **cut off*** — **and *kārat* is the
+  covenant verb**, the one used of *cutting* a covenant and, in the passive, of a line being
+  extinguished. **It is applied here to a nation outside the covenant**, by a man who does not yet know
+  the policy will also keep his own family alive. **45:5 and 50:20 are where he says what it was for** —
+  *"God sent me before you to preserve life"*. **And the dream's image of death is the cruellest in
+  Genesis**: seven fat years eaten with nothing to show for it, *"it couldn't be known that they had
+  eaten them, but they were still ugly, as at the beginning"* (41:21)
 
 ## Related themes
 
+- [[Famine and Plenty]] — *"that the land not perish through the famine"*
 - [[Creation]]
 - [[Blessing]]
 - [[Sin]]

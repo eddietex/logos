@@ -248,6 +248,16 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   30:27 — **and here it reaches two palace servants in a jail.** What is new is that **the outsiders
   need an Israelite to read it**, and that the Israelite tells them where the reading comes from without
   ever saying the covenant name to them: he says ***ʾĕlōhîm***, as he did at 39:9 and will at 41:16
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:38, 45, 57, **the theme's high-water mark in Genesis.** **A pagan
+  king makes the strongest theological confession in the book** — *"Can we find such a one as this, a man
+  in whom is the Spirit of God?"* (41:38) — **and he makes it about a foreign convict, as a question to
+  his own courtiers, on empirical grounds**; see [[A Man in Whom Is the Spirit of God]]. **An Egyptian
+  court receives a true revelation in its sleep**, as [[Abimelech (of Abraham's time)]] did at 20:3 and
+  [[Laban]] did at 31:24, **and needs an Israelite to read it.** **Joseph marries into the priesthood of
+  the Egyptian sun cult at [[On]] and Genesis does not comment.** And at 41:57 ***"all countries came
+  into Egypt, to Joseph, to buy grain"*** — **the promise of 12:3 operating before anyone in the chapter
+  knows it is a promise**, and the only time in Genesis that the whole earth is fed through a son of
+  Abraham
 
 ## Related themes
 

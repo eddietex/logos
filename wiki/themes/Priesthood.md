@@ -75,6 +75,15 @@ something comes down through him. That two-way motion is what the word adds. See
 - Hosea 4:6; Malachi 2:1–9 — the indictment
 - Hebrews 5:1–10; 7:1–28 — the argument from Genesis 14
 - 1 Peter 2:5, 9; Revelation 1:6; 5:10 — the priesthood of the whole people
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:45, 50, **the Bible's first named foreign priesthood after
+  [[Melchizedek]], and a patriarch marries into it.** [[Potiphera]] is ***kōhēn ʾŌn*** — **and *kōhēn*
+  is the ordinary Hebrew word for priest, the one used of Aaron and of Melchizedek at 14:18.** **Genesis
+  does not reach for a pejorative**, and states the office flatly, twice, with no qualification. **[[On]]
+  is Heliopolis, the principal cult centre of Ra**, whose high priest bore the title *greatest of seers*
+  — **which is to say Joseph marries into precisely the profession that failed at 41:8.** The one later
+  echo is **47:22, 26**, where **the priests of Egypt are the single class exempted from Joseph's land
+  reform**, *"because the priests had a portion from Pharaoh"* — **his father-in-law's caste keeps its
+  land while everyone else sells theirs**
 
 ## Related themes
 

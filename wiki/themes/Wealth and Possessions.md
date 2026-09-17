@@ -157,9 +157,21 @@ the promise is repeatedly mistaken for.
   profit is it if we kill our brother* — one chapter earlier. **The man who priced a brother at twenty
   shekels prices his seal at the cost of an embarrassment**, and three months later it is the whole of
   the evidence against him
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:34, 42, 48–49, 56, **the chapter in which a state
+  becomes rich on a forecast.** ***Wəḥimmēš***, *take up the fifth part* (41:34) — **a verb coined from
+  the numeral five and used this way nowhere else in the Hebrew Bible** — is **twenty per cent of a
+  nation's harvest for seven years, proposed by a prisoner and collected by the same man once he is
+  appointed.** The grain is *"as the sand of the sea"* (41:49), **the covenant simile for offspring**
+  (22:17; 32:12) **spent on an Egyptian crop** — see
+  [[Dust, Stars, and Sand - The Offspring Promises]]. And **the storehouses are opened to *sell***
+  (41:56), not to distribute: **the relief is a market**, and 47:13–26 will show what the market
+  eventually costs — money, livestock, land, and finally the people themselves. **Genesis reports the
+  whole sequence as good government and does not moralise about it.** Joseph's own wealth is stated
+  entirely in regalia: a signet, fine linen, and a gold chain (41:42)
 
 ## Related themes
 
+- [[Famine and Plenty]] — where the grain goes, and what a nation eventually pays for it
 - [[Blessing]] — what the inventories are offered as evidence of
 - [[Work]] — how the goods are got
 - [[Land and Sojourning]] — the one kind of property the patriarchs are promised and never hold

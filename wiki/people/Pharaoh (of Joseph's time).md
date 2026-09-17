@@ -56,19 +56,45 @@ of his being born, **the only explicit birthday celebration in the Hebrew Bible.
 **The man he restores is the man who will say Joseph's name to him, two years late** (41:9–13). **The
 chapter's whole significance for him is that he gets his cupbearer back.**
 
+### In Genesis 41 — the chapter in which he becomes a person
+
+**He is the most attractive foreign ruler in Genesis, and the only one in the book who is never deceived
+by an Israelite.** Abram lied to [[Pharaoh (of Abram's time)]] about his wife; Isaac lied to
+[[Abimelech (of Isaac's time)]] about his. **This Pharaoh is told the truth — including seven years of
+famine — and acts on it the same day.**
+
+**He dreams, and Genesis gives him the dream twice.** Once in the narrator's voice (41:1–7) and once in
+his own (41:17–24) — **and the two are not the same.** **He editorialises** (*"such as I never saw in all
+the land of Egypt for ugliness"*), and **he adds the detail the whole interpretation turns on**:
+*"it couldn't be known that they had eaten them"* (41:21), which **Joseph quotes back to him at 41:31.**
+**The dreamer supplies the decisive clause without knowing what it is for.**
+
+**He summons his entire professional establishment and it produces nothing** (41:8) — see
+[[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] — **and then listens to a
+cupbearer's confession and sends for a convict.**
+
+**Then he says the highest thing anyone says about anyone in Genesis**: ***"Can we find such a one as
+this, a man in whom is the Spirit of God?"*** (41:38). **It is a pagan king, not Joseph, who draws the
+theological conclusion** — Joseph's own line is *"It isn't in me"* — **and it is a question put to his own
+courtiers.** See [[A Man in Whom Is the Spirit of God]].
+
+**What follows is an investiture in full**: the signet ring off his own hand, robes of fine linen, a gold
+chain, **the second chariot**, a herald crying *ʾabrēk*, a throne-name, and a dynastic marriage into the
+priesthood of [[On]] (41:42–45). **The one thing reserved is the throne itself**: *"only in the throne I
+will be greater than you."* **Nobody objects** — *"the thing was good in the eyes of Pharaoh, and in the
+eyes of all his servants."* See
+[[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]].
+
+**And at the famine's height he refuses to govern**: *"Go to Joseph. What he says to you, do"* (41:55).
+**His own starving people cry to him for bread and he refers them to a foreigner he bought out of a
+prison.**
+
+**He is never punished, never corrected, and never asks for anything** — **which makes him unique among
+Genesis's foreign kings**, all of whom are either plagued, warned in a dream, or made to swear an oath.
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
-
-**He is the most cooperative foreign king in Genesis, and the only one who is never deceived by an
-Israelite.** Abram lied to [[Pharaoh (of Abram's time)]] about his wife; Isaac lied to
-[[Abimelech (of Isaac's time)]] about his. **This Pharaoh is told the truth, twice, and acts on it.**
-
-**Then he dreams himself** — seven fat cows and seven lean, seven good ears and seven blighted — and his
-wise men fail (41:1–8). **He hears Joseph say *"It is not in me: God will give Pharaoh an answer"***
-(41:16), and then says the thing no other king in Genesis says: ***"Can we find such a one as this, a
-man in whom is the Spirit of God?"*** (41:38). **He hands over the country** — his signet ring, fine
-linen, a gold chain, a new name, an Egyptian wife, and the whole administration of the famine (41:40–45).
 
 He invites Jacob's household into the best of the land, **unprompted and generously** (45:17–20), gives
 Joseph's family Goshen and makes them royal herdsmen (47:5–6), is blessed by Jacob (47:7–10), and grants
@@ -91,10 +117,13 @@ reached.**
   house — Genesis 40:1–3, [[The Cupbearer and the Baker]]
 - The birthday verdict: a feast for all his servants, the cupbearer restored, the baker hanged —
   Genesis 40:20–22
-- His two dreams; the magicians fail; Joseph is brought from the dungeon — Genesis 41:1–14 *(not yet
-  ingested)*
-- *"Can we find such a one as this, a man in whom is the Spirit of God?"*; Joseph made second in Egypt —
-  Genesis 41:38–45 *(not yet ingested)*
+- His two dreams; every magician and wise man in Egypt fails — Genesis 41:1–8,
+  [[Pharaoh's Dreams and Joseph's Rise]]
+- Sends for Joseph, and retells the dream with two details the narrator omitted — Genesis 41:14, 17–24
+- *"Can we find such a one as this, a man in whom is the Spirit of God?"* — Genesis 41:38
+- The investiture: signet, linen, gold, the second chariot, a new name, and [[Asenath]] — Genesis
+  41:39–45
+- Refers his own starving people to Joseph — *"Go to Joseph. What he says to you, do"* — Genesis 41:55
 - Invites Jacob's household and gives them the best of the land — Genesis 45:17–20 *(not yet ingested)*
 - Settles them in Goshen; is blessed by Jacob — Genesis 47:5–10 *(not yet ingested)*
 - Acquires all Egypt through Joseph's grain administration — Genesis 47:13–26 *(not yet ingested)*
@@ -119,6 +148,14 @@ reached.**
   learn that a prisoner predicted both verdicts three days in advance.** The feast supplies **the only
   explicit birthday in the Hebrew Bible**, and the idiom the verse uses of both men — *lifted up the
   head* — is the census formula, which holds the outcome open for one more clause
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57; **the chapter in which he acquires a voice,
+  and he uses it better than anyone else in it.** He dreams twice, retells the dream in his own words
+  **and improves it**, summons a profession that fails him, listens to a slave, and **hands over his
+  country before nightfall.** He speaks **two of the chapter's nine occurrences of *ʾĕlōhîm*** and
+  **makes the strongest confession in Genesis** — *"a man in whom is the Spirit of God"*. He gives away
+  his signet, his linen, his gold, his second chariot, a name, and a wife, **reserving only the throne**,
+  and at the famine's height **sends his own people to Joseph.** **He is the one foreign king in Genesis
+  who is neither lied to nor warned nor plagued**
 
 ## Related people
 
@@ -126,7 +163,9 @@ reached.**
 - [[The Chief Cupbearer]] — the officer whose disgrace, imprisonment and restoration he orders, and the
   only person who ever tells him about Joseph
 - [[The Chief Baker]] — the officer he hangs at his own birthday feast
-- [[Joseph]] — whose dreams he will need and whose interpretation he will believe
+- [[Joseph]] — whose interpretation he believes on the spot, whom he renames, marries off and installs
+  over the country, and to whom he sends his own starving people
+- [[Asenath]] and [[Potiphera]] — the wife he gives Joseph and the priest of [[On]] whose daughter she is
 - [[Pharaoh (of Abram's time)]] — the earlier bearer of the same title, who was lied to about a wife,
   struck with plagues, and sent the patriarch away; **the contrast between the two is the sharpest
   Genesis draws between two holders of one office**
@@ -141,3 +180,6 @@ reached.**
 - [[Prophecy and Vision]]
 - [[Slavery and Servitude]]
 - [[Favor and Grace]]
+- [[Wisdom]]
+- [[Famine and Plenty]]
+- [[Names and Naming]]

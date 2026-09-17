@@ -496,6 +496,32 @@ even fratricidal betrayal into rescue (Joseph).
   stolen without saying by whom.** Both interpretations come true inside three days. **Then the chapter
   ends on seven words that say the same thing twice** — *"didn't remember Joseph, but forgot him"* —
   **and the book waits two years before returning to him.**
+  Then *[[Pharaoh's Dreams and Joseph's Rise]]* undoes thirteen years in a morning and **spends
+  fifty-seven verses on the day** — the longest chapter in the cycle. **Its method is to tell the dream
+  twice and not the same way**: the narrator's account (41:1–7) and Pharaoh's own (41:17–24) differ, and
+  **the king's retelling adds the clause the whole interpretation turns on** — *"it couldn't be known
+  that they had eaten them"* (41:21) — **which Joseph hands straight back to him** as *"the plenty will
+  not be known in the land"* (41:31). **The dreamer has been carrying the decisive datum without knowing
+  what it was for.** Every magician and wise man in Egypt is summoned and produces nothing, **which is
+  not a claim that the dream was hard** — seven cows and seven ears, in a country of cattle and grain —
+  **but that the profession was beside the point.** Joseph repeats 40:8's disclaimer in a throne room
+  (*"It isn't in me"*), collapses two dreams into one, **explains why dreams double** (41:32, the cycle's
+  only account of its own device) — **and then keeps talking**, appending four verses of policy nobody
+  asked for, **to which Genesis attaches no divine warrant at all.** Whether he was angling for the post
+  he is handed six verses later is the chapter's oldest question and **the book passes no verdict.**
+  What follows is **the Bible's first investiture scene** — signet, linen, gold, the second chariot, a
+  herald crying the untranslatable *ʾabrēk*, **an Egyptian name Genesis never uses again**, and an
+  Egyptian wife who is a priest's daughter of the sun cult at [[On]], **on which the book that swore an
+  oath over Isaac's wife says nothing whatever.** **The chapter's verdict on Joseph is spoken by
+  Pharaoh** — ***"a man in whom is the Spirit of God"*** (41:38), the highest thing said about anyone in
+  Genesis, **and the phrase's only previous occurrence in the book is over the waters at 1:2** — because
+  **the narrator of Genesis 41 never mentions God at all**: all nine occurrences of *ʾĕlōhîm* sit inside
+  quotation marks, seven Joseph's and two Pharaoh's. He is **thirty**, thirteen years after the coat.
+  And the two sentences he speaks about himself are the naming of his sons: **[[Manasseh]]**, *"God has
+  made me forget all my toil, and all my father's house"* — **a thanksgiving for an erasure, falsified by
+  the same man at 45:3** — and **[[Ephraim]]**, *"God has made me fruitful in ***the land of my
+  affliction***"*, **the creation verb of Genesis 1 and the root the Exodus is built on, in one breath.**
+  **He does not send word to Canaan, and Genesis neither explains the silence nor flags it.**
 
 ## Pericopes
 
@@ -563,7 +589,7 @@ merge, or reorder them freely.
 - [x] [[Judah and Tamar]] — Genesis 38:1–30
 - [x] [[Joseph in Potiphar's House]] — Genesis 39:1–23
 - [x] [[The Cupbearer and the Baker]] — Genesis 40:1–23
-- [ ] Pharaoh's Dreams and Joseph's Rise — Genesis 41:1–57
+- [x] [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57
 - [ ] The Brothers' First Journey to Egypt — Genesis 42:1–38
 - [ ] The Second Journey — Genesis 43:1–34
 - [ ] The Silver Cup and Judah's Plea — Genesis 44:1–34
@@ -630,25 +656,52 @@ merge, or reorder them freely.
 - [[The Serpent]]
 - [[Cain]]
 - [[Abel]]
+- [[Enoch (son of Cain)]]
+- [[Lamech (son of Methushael)]]
+- [[Jabal]]
+- [[Jubal]]
+- [[Tubal Cain]]
 - [[Seth]]
+- [[Enosh]]
+- [[Kenan]]
+- [[Mahalalel]]
+- [[Jared]]
 - [[Enoch (son of Jared)]]
 - [[Methuselah]]
+- [[Lamech (father of Noah)]]
 - [[Noah]]
+- [[The Sons of God]]
+- [[The Nephilim]]
 - [[Shem]]
 - [[Ham]]
 - [[Japheth]]
 - [[Canaan (son of Ham)]]
 - [[Nimrod]]
+- [[Arpachshad]]
+- [[Shelah (son of Arpachshad)]]
 - [[Eber]]
 - [[Peleg]]
+- [[Reu]]
+- [[Serug]]
+- [[Nahor (son of Serug)]]
 - [[Terah]]
 - [[Abraham]]
 - [[Sarah]]
 - [[Lot]]
+- [[Nahor (brother of Abram)]]
+- [[Milcah]]
+- [[Iscah]]
+- [[Haran (son of Terah)]]
 - [[Pharaoh (of Abram's time)]]
+- [[Chedorlaomer]]
+- [[Bera]]
+- [[Melchizedek]]
+- [[Aner]]
+- [[Eshcol]]
+- [[Mamre (person)]]
+- [[Eliezer of Damascus]]
 - [[Hagar]]
 - [[Ishmael]]
-- [[Isaac]]
 - [[The Angel of Yahweh]]
 - [[Lot's Wife]]
 - [[Lot's Daughters]]
@@ -656,11 +709,14 @@ merge, or reorder them freely.
 - [[Ben Ammi]]
 - [[Abimelech (of Abraham's time)]]
 - [[Phicol]]
+- [[Isaac]]
 - [[Bethuel]]
-- [[Rebekah]]
 - [[Reumah]]
 - [[Ephron the Hittite]]
 - [[The Children of Heth]]
+- [[Abraham's Servant]]
+- [[Rebekah]]
+- [[Laban]]
 - [[Keturah]]
 - [[Jacob]]
 - [[Esau]]
@@ -670,23 +726,72 @@ merge, or reorder them freely.
 - [[Basemath (daughter of Elon)]]
 - [[Beeri the Hittite]]
 - [[Elon the Hittite]]
-- [[Hamor]]
-- [[Shechem (son of Hamor)]]
-- [[Dinah]]
+- [[Mahalath]]
+- [[Leah]]
+- [[Rachel]]
+- [[Bilhah]]
+- [[Zilpah]]
+- [[Reuben]]
 - [[Simeon]]
 - [[Levi]]
+- [[Judah]]
+- [[Dan (person)]]
+- [[Naphtali]]
+- [[Gad]]
+- [[Asher]]
+- [[Issachar]]
+- [[Zebulun]]
+- [[Dinah]]
+- [[Joseph]]
+- [[Deborah (Rebekah's nurse)]]
+- [[Benjamin]]
+- [[Hamor]]
+- [[Shechem (son of Hamor)]]
+- [[Adah (wife of Esau)]]
+- [[Oholibamah]]
+- [[Eliphaz (son of Esau)]]
+- [[Reuel (son of Esau)]]
+- [[Timna]]
+- [[Amalek]]
+- [[Anah]]
+- [[Seir the Horite]]
+- [[Bela (son of Beor)]]
+- [[Jobab]]
+- [[Hadad (son of Bedad)]]
+- [[Hadar]]
+- [[Mehetabel]]
+- [[Hirah the Adullamite]]
+- [[Shua's Daughter]]
+- [[Er]]
+- [[Onan]]
+- [[Shelah (son of Judah)]]
+- [[Tamar]]
+- [[Perez]]
+- [[Zerah]]
+- [[Potiphar]]
+- [[Potiphar's Wife]]
+- [[Pharaoh (of Joseph's time)]]
+- [[The Chief Cupbearer]]
+- [[The Chief Baker]]
+- [[Asenath]]
+- [[Potiphera]]
+- [[Manasseh]]
+- [[Ephraim]]
 
 ## Key places
 
 - [[Eden]]
+- [[Havilah]]
+- [[The Euphrates]]
 - [[Nod]]
 - [[Enoch (city)]]
 - [[Ararat]]
-- [[Canaan]]
 - [[Shinar]]
 - [[Babel]]
 - [[Assyria]]
 - [[Nineveh]]
+- [[Elam]]
+- [[Canaan]]
 - [[Egypt]]
 - [[Ur of the Chaldees]]
 - [[Haran (city)]]
@@ -694,26 +799,28 @@ merge, or reorder them freely.
 - [[Bethel]]
 - [[Ai]]
 - [[The Negev]]
-- [[Shur]]
-- [[Beer Lahai Roi]]
-- [[Hebron]]
-- [[Mamre (place)]]
 - [[Sodom]]
 - [[Gomorrah]]
 - [[Zoar]]
 - [[The Plain of the Jordan]]
 - [[The Salt Sea]]
-- [[Moab (place)]]
-- [[Ammon]]
+- [[Dan (city)]]
+- [[Damascus]]
+- [[Salem]]
+- [[Shur]]
+- [[Beer Lahai Roi]]
 - [[Gerar]]
 - [[Kadesh]]
 - [[Beersheba]]
 - [[Paran]]
 - [[The Land of the Philistines]]
+- [[Moriah]]
+- [[Hebron]]
+- [[Mamre (place)]]
 - [[Machpelah]]
-- [[Havilah]]
 - [[Aram Naharaim]]
-- [[Edom]]
+- [[Moab (place)]]
+- [[Ammon]]
 - [[Esek]]
 - [[Sitnah]]
 - [[Rehoboth]]
@@ -723,3 +830,19 @@ merge, or reorder them freely.
 - [[The Jabbok]]
 - [[Peniel]]
 - [[Succoth]]
+- [[Bethlehem]]
+- [[The Tower of Eder]]
+- [[Sheol]]
+- [[Edom]]
+- [[Bozrah]]
+- [[Teman]]
+- [[Rehoboth by the River]]
+- [[Midian]]
+- [[Dothan]]
+- [[Adullam]]
+- [[Chezib]]
+- [[Enaim]]
+- [[Timnah]]
+- [[On]]
+- [[The Nile]]
+

@@ -104,9 +104,23 @@ close to the book's whole point about who may speak for the tradition. See
   point is that it is not in the manual. **This is the origin of a biblical type — the exile who reads
   what the empire's own experts cannot** — and Daniel inherits both the career and the disclaimer. See
   [[Do Not Interpretations Belong to God - Joseph and Daniel]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:8, 33, 39, **the theme's sharpest statement and its sharpest limit.**
+  **Egypt's entire learned establishment is summoned in full** — *ḥarṭummîm* and *ḥăkāmîm*, the lector
+  priests and the wise men — **and produces nothing**, on a dream about seven cows and seven ears of
+  grain in a country whose whole economy is cattle and grain. **The failure is not of intelligence but of
+  access**, which is the doctrine of 40:8 demonstrated with the professionals in the room. Then Joseph
+  recommends ***ʾîš nābôn wəḥākām***, *a discreet and wise man* (41:33) — **the standard Israelite wisdom
+  pair**, the same two words as Solomon's gift at 1 Kings 3:12 and Moses' requirement at
+  Deuteronomy 1:13 — **as a qualification for running a country**, and **Pharaoh applies them back to
+  him verbatim** (41:39). **Joseph is Scripture's first wise man at a foreign court and the pattern for
+  every later one**; note that neither he nor Daniel wins by being untrained, and that the same word
+  *ḥākām* describes both the guild that fails and the man who succeeds. **Wisdom here is entirely
+  practical** — a forecast, a levy, a bureaucracy, and seven years of storage that work. See
+  [[A Man in Whom Is the Spirit of God]]
 
 ## Related themes
 
+- [[Famine and Plenty]] — the emergency that a forecast and a policy are wisdom *for*
 - [[Retribution]] — the wisdom tradition's central working rule, and what Job puts on trial
 - [[Suffering]] — the datum the tradition could not fit
 - [[Judgment]] — what wisdom claims to be able to anticipate

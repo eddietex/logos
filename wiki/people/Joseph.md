@@ -149,14 +149,63 @@ the interval**; Psalm 105:19's *"until the time that his word happened, and Yahw
 true"* is the only line in Scripture that does. Whether 40:14 was a failure of faith is an old reading
 and **the wiki adopts neither it nor its denial** — see [[The Cupbearer and the Baker]].
 
+### In this pericope — Genesis 41:1–57
+
+**Thirteen years end between two verses, and he says less about it than his employer does.**
+
+**He comes out of the *bôr* for the last time** (41:14) — the word for his brothers' cistern, used of the
+Egyptian prison at 40:15 and here of the place he is pulled out of — **and they make him run.** Then he
+**shaves**, which for a Semite in an Egyptian court is not grooming but assimilation, **and changes his
+clothes for the third time in the story and the first time by his own hand.**
+
+**His first words to a king are 40:8 said again**: *"It isn't in me. God will give Pharaoh an answer of
+peace"* (41:16) — ***bilʿāday***, *apart from me*. **He says *ʾĕlōhîm*, as he does to every Egyptian he
+ever speaks to.**
+
+**Then he does something the chapter is careful not to explain.** He reads the dream — **collapsing two
+into one, and quoting back to Pharaoh the clause Pharaoh added to his own retelling** (41:21's *"it
+couldn't be known"* returned at 41:31) — and **explains why dreams come in pairs** (41:32), which is the
+cycle's only account of its own device. **And then he keeps talking.** Verses 33–36 are **unrequested
+policy advice from a foreign convict to a head of state**: an officer, a bureaucracy, a fifth part, and
+granary cities. **Genesis attaches no divine warrant to them.** Whether he was angling for the post he is
+given six verses later **is the oldest question about the chapter, and the wiki adopts neither answer** —
+see [[Pharaoh's Dreams and Joseph's Rise]].
+
+**What he is given is total and it is described in props**: a signet ring, fine linen, a gold chain, the
+second chariot, a herald shouting an untranslatable word, **an Egyptian name he is never once called by
+again**, and **an Egyptian wife who is a priest's daughter of the sun cult at [[On]].** See
+[[Zaphenath-Paneah - Renaming at a Foreign Court]] and
+[[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]].
+
+**He is thirty** (41:46). **He was seventeen at 37:2, and Genesis leaves the reader to do the
+subtraction.**
+
+**The verdict on him is Pharaoh's, not his own**: ***"a man in whom is the Spirit of God"*** (41:38) —
+**the highest thing said about anyone in Genesis, spoken by a pagan king**, and **the phrase's only
+previous occurrence in the book is over the waters at 1:2.** See
+[[A Man in Whom Is the Spirit of God]].
+
+**And then the two naming speeches, which are the only things in the chapter he says about himself.**
+
+- **[[Manasseh]]** — *"God has made me forget all my toil, and all my father's house"* (41:51). **He
+  thanks God for the erasure of his family**, and puts the thirteen years and the father in one clause.
+- **[[Ephraim]]** — *"God has made me fruitful in the land of my affliction"* (41:52). ***ʿOnyî*** —
+  **he calls Egypt an affliction while ruling it**, in the root the Exodus is built on (Exodus 3:7;
+  Genesis 15:13).
+
+**The name is falsified by the man who gave it.** At 42:9 he *"remembered the dreams"*; at 45:3 the first
+thing he says after disclosing himself is *"Does my father still live?"*
+
+**And the chapter's largest silence is one Genesis never addresses: he does not send word.** **Seven
+years of plenty, absolute authority over Egypt, and Hebron about nine days away** — **no message, no
+attempt, and no reason given.** The motives readers supply (fear of his brothers, waiting on the dreams,
+a grief too large to reopen) **are all imported; the wiki records the silence as a silence.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**A quarter of Genesis is his.** Pharaoh's dreams; the rise to second in Egypt, a new name, an Egyptian
-wife, and seven years of grain.
-
-Then the brothers arrive to buy food and do not know him, and the book spends five chapters on
+The brothers arrive to buy food and do not know him, and the book spends five chapters on
 recognition. He tests them, weeps repeatedly, plants a cup on Benjamin, and breaks when Judah offers
 himself as a slave in the boy's place (44:18–34). His verdict on the whole of it is given twice —
 *"God sent me before you to preserve life"* (45:5) and *"you meant evil against me, but God meant it
@@ -201,7 +250,19 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - Asks the cupbearer to remember him, and protests his innocence for the only time in the book —
   Genesis 40:14–15
 - Forgotten — *"didn't remember Joseph, but forgot him"* — Genesis 40:23
-- Pharaoh's dreams; made second in Egypt — Genesis 41 *(not yet ingested)*
+- Brought out of the *bôr* and shaved for the throne room, two years later — Genesis 41:14,
+  [[Pharaoh's Dreams and Joseph's Rise]]
+- *"It isn't in me. God will give Pharaoh an answer of peace"*; reads both dreams as one — Genesis
+  41:16–32
+- Proposes a famine policy nobody asked him for — Genesis 41:33–36
+- *"A man in whom is the Spirit of God"*; signet, linen, gold, the second chariot — Genesis 41:38–43
+- Renamed Zaphenath-Paneah and given [[Asenath]], daughter of [[Potiphera]] priest of [[On]] — Genesis
+  41:45
+- **Thirty years old**, thirteen years after the coat; stores grain *"as the sand of the sea"* — Genesis
+  41:46–49
+- [[Manasseh]] and [[Ephraim]] born and named — *forgetting*, and *fruitfulness in the land of my
+  affliction* — Genesis 41:50–52
+- The famine arrives *"just as Joseph had said"*; *"Go to Joseph"* — Genesis 41:53–57
 - The brothers in Egypt; the tests, and the disclosure — Genesis 42–45 *(not yet ingested)*
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
@@ -251,6 +312,16 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   prison ***the pit*** — his brothers' word — and his homeland ***the land of the Hebrews***, a phrase
   found nowhere else in Scripture. **Both interpretations come true in three days, and he is forgotten
   for two years**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57; **the chapter that reverses everything, in
+  which he is the least talkative person present.** He is run out of the pit, shaved into an Egyptian,
+  and **repeats 40:8's disclaimer to a king**; he collapses two dreams into one, **hands the dreamer back
+  a clause the dreamer had supplied without knowing what it was for**, and **explains why dreams
+  double** — and then **adds four verses of policy nobody asked for**, which is what gets him a country.
+  He takes **a name Genesis never uses again**, an Egyptian wife from a sun-cult priesthood, and a fifth
+  of the harvest; **the chapter's verdict on him is spoken by Pharaoh** (*"a man in whom is the Spirit of
+  God"*), not by the narrator, who **never mentions God at all.** He is **thirty**. And he names his sons
+  for **forgetting his father's house** and for **being made fruitful in *the land of my affliction*** —
+  **and does not send word to Canaan, which Genesis neither explains nor flags**
 
 ## Related people
 
@@ -269,7 +340,13 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Potiphar]] — his owner from 37:36, who puts everything he has in Joseph's hands and then imprisons him
 - [[Potiphar's Wife]] — unnamed; the one person in Genesis he argues with, and the one who costs him
   thirteen years
-- [[Pharaoh (of Joseph's time)]] — the king whose court he enters as a captain of the guard's property
+- [[Pharaoh (of Joseph's time)]] — the king whose court he enters as a captain of the guard's property,
+  and who hands him the country in an afternoon; **the only person in Genesis who says what Joseph is**
+- [[Asenath]] — his wife, given to him by Pharaoh, daughter of a priest of [[On]]; **Genesis records no
+  negotiation, no consent and no objection**
+- [[Potiphera]] — his father-in-law, *priest of On*, **whose name is the full form of [[Potiphar]]'s**
+- [[Manasseh]] — his firstborn, named for forgetting the house Joseph then spent five chapters recovering
+- [[Ephraim]] — his second son, named with the creation verb in a country he calls an affliction
 - [[The Chief Cupbearer]] — the prisoner he waits on, reads correctly, and asks for help; **the only
   person he ever asks for anything**, and the one who forgets him for two years and then says his name
   to a king
@@ -292,3 +369,7 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Wisdom]]
 - [[Mediation and Advocacy]]
 - [[Hope]]
+- [[Kingship and Empire]]
+- [[The Nations]]
+- [[Famine and Plenty]]
+- [[Suffering]]

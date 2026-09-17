@@ -18,6 +18,11 @@ tags: [connection]
 - **Genesis 45:4–8** — *"I am Joseph, your brother, whom you sold into Egypt. … it was not you that sent
   me here, but God."*
 - **Genesis 50:20** — *"you meant evil against me, but God meant it for good."*
+- [[Pharaoh's Dreams and Joseph's Rise]] — **Genesis 41:14, 40–43**: the half of Psalm 105:20–22 that
+  Genesis narrates — *"the king sent and freed him … made him lord of his house, and ruler of all of his
+  possessions"* — and the *"favor and wisdom before Pharaoh"* of Acts 7:10. **Psalm 105:19's *"until the
+  time that his word happened"* is the only text in Scripture that accounts for the two years of
+  41:1**
 
 ## Analysis
 

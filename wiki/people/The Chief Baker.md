@@ -77,8 +77,8 @@ and he hanged him"* (41:13).
 - Told the three baskets are three days, and that Pharaoh will lift up his head *from off him* —
   Genesis 40:18–19
 - Hanged on the third day, at Pharaoh's birthday feast — Genesis 40:20, 22
-- Cited by the restored cupbearer as proof that the Hebrew's readings held — Genesis 41:13 *(not yet
-  ingested)*
+- Cited by the restored cupbearer as proof that the Hebrew's readings held — Genesis 41:13,
+  [[Pharaoh's Dreams and Joseph's Rise]]
 
 ## Appears in
 
@@ -87,6 +87,10 @@ and he hanged him"* (41:13).
   same sentence with two Hebrew words added, and is disposed of in half a verse. **His is the only
   judicial execution actually carried out in Genesis** — [[Judah]] sentences [[Tamar]] to burning at
   38:24 and revokes it — and the narration gives him no last word
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:13; **half a clause, two years after his death, and
+  it is the reason a king sends for a prisoner.** The cupbearer's case for Joseph is *"as he interpreted
+  to us, so it was"* — **and the proof he offers is the execution**: *"he restored me to my office, and
+  he hanged him."* **The dead man is the evidence**
 
 ## Related people
 

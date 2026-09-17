@@ -294,9 +294,19 @@ costly.
   after the flood is narrowed onto a household, and the narrowing is the covenant's whole method. The
   verse also supplies what the Jabbok withheld: 32:28 renamed him and blessed him **without saying
   what the blessing was**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:49, 52, **the vocabulary of blessing used entirely outside the
+  covenant's frame.** ***Pārâ***, *"God has made me fruitful"* (41:52), is **the verb of 1:22 and 1:28,
+  reissued after the flood at 9:1, and spoken by God to Abram at 17:6 and to Jacob at 35:11** — and
+  **Joseph applies it to two sons born to an Egyptian priest's daughter, in a land he calls an
+  affliction, with no covenant word ever having been spoken over him.** **It is the most confident
+  theological claim he makes about his own life and he makes it in a birth announcement.** And the grain
+  is *"as the sand of the sea"* (41:49), ***kəḥôl hayyām*** — **the offspring simile of 22:17 and
+  32:12** — **spent on an Egyptian harvest in a chapter with no promise in it.** See
+  [[Dust, Stars, and Sand - The Offspring Promises]]
 
 ## Related themes
 
+- [[Famine and Plenty]] — fruitfulness as a gift, and the years it is withheld
 - [[Creation]]
 - [[Image of God]]
 - [[Sabbath]]

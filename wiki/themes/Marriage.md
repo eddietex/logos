@@ -233,6 +233,17 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   **sent home but not released**, so she can neither remarry nor bear, **with no forum in which to
   compel performance**, the release ceremony of Deuteronomy 25:7–10 being centuries away. See
   [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:45, 50, **the covenant line's marriage rule broken in half a verse,
+  with no comment of any kind.** *"He gave him [[Asenath]], the daughter of [[Potiphera]] priest of
+  [[On]] as a wife"* — **an Egyptian wife, a priest's daughter, and a priest of the sun cult at that.**
+  Measured against the rest of the book this is extraordinary: **Genesis spends a whole chapter sourcing
+  a wife for [[Isaac]] from the right family** (24:3–4), **records [[Esau]]'s Hittite marriages as a
+  grief** (26:35), and **has [[Isaac]] repeat his father's charge to [[Jacob]] almost word for word**
+  (28:1–2). **Here there is no negotiation, no bride-price, no oath, no journey, no consent recorded
+  from either party, and no objection or defence** — **the wife is a term of an employment package**,
+  granted by a king in the same verse as a name and a chariot. **The silence is the observation**, and
+  the wiki records it as a gap rather than filling it. See
+  [[Not from the Daughters of the Canaanites]]
 
 ## Related themes
 

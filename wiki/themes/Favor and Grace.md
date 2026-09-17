@@ -131,6 +131,15 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   is toward Israel and what kin owe each other** — requested by a Hebrew slave from an Egyptian court
   official who owes him nothing but the truth about a dream. **It is the only thing Joseph ever asks
   anyone for in Genesis**, and 40:23 is the answer
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:37–45, **and the notable thing is what is missing.** ***Ḥēn***
+  **does not occur in this chapter**: the formula that governed 39:4 and 39:21 — *"Joseph found favor in
+  his sight"*, *"Yahweh … gave him favor in the sight of the keeper of the prison"* — **is not used of
+  the greatest advancement in his life.** What replaces it is **Pharaoh's own judgment**, *"the thing was
+  good in the eyes of Pharaoh, and in the eyes of all his servants"* (41:37), **and a reason**: *"Because
+  God has shown you all of this, there is no one so discreet and wise as you"* (41:39). **The chapter
+  credits an argument rather than a disposition**, and **the credit Pharaoh gives is to God, not to
+  Joseph.** Acts 7:10 reads it back the other way — *"gave him favor and wisdom before Pharaoh king of
+  Egypt"* — **supplying the word Genesis withholds**
 
 ## Related themes
 

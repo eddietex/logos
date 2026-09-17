@@ -174,6 +174,16 @@ addressing a slave by name and no one else in the story doing so.
   entirely on whether a restored courtier will mention a slave's name to a king**, which is the exact
   measure of what a slave could and could not do for himself; and Joseph's own account of how he got
   here is *gunnōb gunnabtî*, *I was indeed stolen* — **the verb Exodus 21:16 makes a capital crime**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:12, 40–44, **a slave is introduced to a king by his
+  owner's title and is running the country forty verses later.** The cupbearer's *"a young man, a Hebrew,
+  ***servant to the captain of the guard***"* (41:12) is **the last time Joseph's legal status is stated
+  in Genesis**, and **the book never says he was manumitted** — it says he was promoted, which is not the
+  same thing and which Genesis does not pause to reconcile. **The inversion is total**: the man who
+  belonged to [[Potiphar]] is now the man *"without [whom] shall no man lift up his hand or his foot in
+  all the land of Egypt"* (41:44). **And the chapter plants the instrument of a much larger servitude** —
+  the fifth part of 41:34, which by 47:19–25 has the Egyptians saying *"buy us and our land for bread,
+  and we and our land will be servants to Pharaoh."* **The book that opens Israel's bondage in Exodus 1
+  has an Israelite design the machinery**
 
 ## Related themes
 

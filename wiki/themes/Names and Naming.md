@@ -173,6 +173,16 @@ five times**, and each is a covenant hinge.
   ***Pereṣ***, *breach*, from the midwife's own exclamation *"why have you made a breach for
   yourself?"*, and ***Zeraḥ***, *shining*, plausibly for the scarlet that showed first. **The chapter
   names people the way it does everything else — without comment**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:45, 51, 52, **three namings in one chapter, more than any
+  other chapter in Genesis.** **[[Zaphenath-Paneah - Renaming at a Foreign Court]]** — a name given by an
+  employer rather than by God, **the only renaming in the Bible the text does not translate**, and
+  **a name Genesis never uses again**: the narrator goes on calling him Joseph for nine more chapters.
+  **[[Manasseh]]**, from *nāšâ*, *to forget* — *"God has made me forget all my toil, and all my father's
+  house"* — **a thanksgiving for an erasure, given by a man who demonstrably has not forgotten** (42:9;
+  45:3). **[[Ephraim]]**, from *pārâ*, *to be fruitful* — **the creation verb of 1:22 and 1:28 and the
+  covenant verb of 17:6** — spoken over two half-Egyptian sons in *"the land of my affliction"*. **Two
+  of the three are etymologised in the verse and the Egyptian one is not**, which is the chapter's whole
+  attitude to Egyptian words in miniature
 
 ## Related themes
 

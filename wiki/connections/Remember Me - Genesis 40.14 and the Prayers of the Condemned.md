@@ -9,7 +9,8 @@ tags: [connection]
 
 - [[The Cupbearer and the Baker]] — Genesis 40:14, 23: *"remember me when it will be well with you"*, and
   *"didn't remember Joseph, but forgot him"*
-- Genesis 41:9 — *"I remember my faults today"*
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:9: *"I remember my faults today"* — ***mazkîr***,
+  **the causative of 40:14's verb, with the speaker's own offences as its object rather than Joseph**
 - Judges 16:28 — Samson: *"Lord Yahweh, remember me, please, and strengthen me, please, only this once"*
 - 1 Samuel 1:11 — Hannah: *"if you will… remember me, and not forget your servant"*
 - Nehemiah 5:19; 13:14, 22, 31 — *"Remember me, my God, for good"*, four times, closing a book

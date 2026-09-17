@@ -146,6 +146,16 @@ noticing into doctrine.
   the first with *mēʿāleykā*, *from off you*, added.** The chapter also holds **two words found nowhere
   else in the Hebrew Bible**, *pātar* and *pitrôn*, and **one phrase found nowhere else at all**,
   *"the land of the Hebrews"* (40:15). See [[Lift Up Your Head - One Idiom and Two Verdicts]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — **a chapter built on words nobody can construe, and Genesis lets them
+  stand.** ***ʾAbrēk*** (41:43) is **a hapax legomenon** — Hebrew *bārak*, *kneel*; Egyptian *ib r.k*,
+  *attention*; or Akkadian *abarakku*, *steward* — **and the WEB's *"Bow the knee!"* is a guess.**
+  ***Yiššaq*** (41:40) is a crux: the root ordinarily means ***to kiss***, and *"according to your word
+  will all my people be ruled"* is one of several defensible renderings of a verb translators have been
+  disagreeing about for two thousand years. ***Ṣāpənat Paʿnēaḥ*** (41:45) is **the only renaming in the
+  Bible the text does not translate.** ***Wəḥimmēš*** (41:34) is **a verb coined from a numeral.** And
+  ***hayʾōr*** and ***ḥarṭummîm*** are **Egyptian loanwords used as though they were Hebrew.** **Set
+  against that, the chapter's most precise verbal effect is a repetition**: Pharaoh's *"it couldn't be
+  known"* (41:21), ***lōʾ nôdaʿ***, handed back to him ten verses later as ***lōʾ-yiwwādaʿ*** (41:31)
 
 ## Related themes
 

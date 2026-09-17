@@ -6818,3 +6818,183 @@ one real finding on the way — **a wikilink to [[Abimelech (of Abraham's time)]
 wrap** by a reflow, which renders as literal `[[` text and would have vanished from the graph and from
 backlinks with nothing else in the repository able to see it. Fixed and the paragraph rewrapped.
 Genesis stands at 49 / 59 pericopes; the next is *Pharaoh's Dreams and Joseph's Rise*, Genesis 41:1–57.
+
+## [2026-09-17] ingest | Genesis 41.1-57 — Pharaoh's Dreams and Joseph's Rise
+
+Unattended `/ingest auto`. Fiftieth pericope of Genesis, and the longest chapter in the Joseph cycle.
+Created [[Pharaoh's Dreams and Joseph's Rise]], four person pages, two place pages, one theme page and
+four connection pages; revised twenty-two theme pages, six existing connection pages, [[Joseph]],
+[[Pharaoh (of Joseph's time)]], [[The Chief Cupbearer]], [[The Chief Baker]], [[Potiphar]], [[Egypt]],
+the book page and all five indexes.
+
+### What the chapter turned out to be about
+
+**1. The narrator never mentions God.** ***ʾĔlōhîm*** occurs **nine times** — 41:16, 25, 28, 32 (twice),
+38, 39, 51, 52 — **and every one is inside quotation marks**: seven Joseph's, two Pharaoh's. ***Yahweh*
+does not occur at all.** This continues the count run since the Genesis 39 entry: **the eight *Yahweh*s
+of chapter 39 stop at the chapter break and the covenant name appears exactly once more in the rest of
+the book** (49:18). **The Joseph cycle's method is to let its characters assert providence and then
+report, without comment, that they were right.**
+
+**2. The dream is told twice and not the same way.** The narrator's account (41:1–7) and Pharaoh's
+(41:17–24) differ, and **the differences are the chapter's method rather than noise.** Pharaoh adds a
+superlative (*"such as I never saw in all the land of Egypt for ugliness"*) and, decisively, **adds
+*"it couldn't be known that they had eaten them"*** (41:21) — ***lōʾ nôdaʿ***, a clause the narrator did
+not report — **which Joseph hands straight back to him at 41:31** as *"the plenty will **not be known** in
+the land"*, ***lōʾ-yiwwādaʿ***, same verb, same stem. **The dreamer has been carrying the interpretation's
+load-bearing clause around for two nights and supplies it as an aside.**
+
+**3. The paragraph nobody asked for.** The interpretation ends at 41:32. **Verses 33–36 are unrequested
+policy advice from a foreign convict to a head of state**, and **Genesis attaches no divine warrant to
+them** — no *God has shown*, nothing. **The four verses that change his life are the four in which he
+speaks entirely for himself**, and Pharaoh fills the post six verses later using **Joseph's own two
+adjectives** (*nābôn wəḥākām*, 41:33 → 41:39).
+
+**4. The confession is Pharaoh's.** ***"A man in whom is the Spirit of God"*** (41:38) is **the highest
+thing said about anyone in Genesis, and a pagan king says it** — as a question, to his own courtiers, on
+empirical grounds. **Joseph's own line is a denial** (*"It isn't in me"*, 41:16, which is 40:8 repeated in
+a throne room). ***Rûaḥ ʾĕlōhîm* has occurred once before in Genesis, at 1:2, over an unformed world;
+its second occurrence is a person.**
+
+**5. Two sons, and the chapter's sting.** [[Manasseh]] — *"God has made me forget all my toil, and all my
+father's house"* — **a thanksgiving for an erasure**, which **the man who gave it falsifies at 42:9 and
+45:3**. [[Ephraim]] — *"God has made me fruitful in ***the land of my affliction***"* — **the creation
+verb *pārâ* of 1:22 and 17:6 applied to two half-Egyptian sons**, in a sentence where the second man in
+Egypt calls the country ***ʿonyî***, **the root of Genesis 15:13 and Exodus 3:7**.
+
+**6. The Egyptian surface is the densest in Scripture.** *Yeʾōr* (the Nile, entering the Bible here),
+*ḥarṭummîm*, the shaving, *šēš*, *ʾabrēk*, *ḥimmēš*, and four Egyptian proper nouns in verse 45 alone.
+**[[Potiphar]] and [[Potiphera]] are the same Egyptian name in two forms** — *he whom Ra has given* —
+and **both households Joseph enters in Egypt are named for the sun god.**
+
+### Judgment calls
+
+- **Boundary and title both used as drawn.** 41:1's *"at the end of two full years"* and 42:1's shift of
+  scene and cast to Canaan seal the chapter at both ends. **A split at 41:36 or 41:45 was considered and
+  rejected** — interpretation and elevation are one causal chain with no seam — **and a merger with 42
+  was rejected** because 41:57 and 42:1 report the same fact from two countries and **the change of
+  viewpoint is the boundary.** *Joseph Before Pharaoh* and *Seven Years of Plenty and Seven of Famine*
+  were rejected as titles; *Zaphenath-Paneah* was rejected because **Genesis itself never uses the name
+  again.** No other book has a passage page by this title, so no `(Book)` qualifier.
+- **[[Asenath]], [[Potiphera]], [[Manasseh]] and [[Ephraim]] all got pages.** All four are named, which is
+  the wiki's ordinary threshold, and three recur at 46:20 and 48:1–20.
+- **[[Manasseh]] and [[Ephraim]] are deliberately left unqualified, and this is flagged debt.** Both names
+  will later belong to tribes and a territory, and *Manasseh* to a king of Judah, **so a collision is
+  certain once the wiki reaches Kings.** `AGENTS.md` qualifies in the pass that creates the second page
+  rather than in anticipation, **so a note saying so is written at the top of each page** for whichever
+  pass hits the collision.
+- **[[The Nile]] got a page.** *Yeʾōr* enters Scripture here, occurs five times in the chapter, and is the
+  setting of both dreams; [[The Euphrates]] and [[The Jabbok]] already have pages. **[[On]] got one** as a
+  named settlement with a named institution, on the same footing as [[Enaim]] or [[Chezib]].
+- **[[Famine and Plenty]] is a new theme page, and it is the call that could have gone the other way.**
+  Last pericope declined a `Dreams` page **because [[Prophecy and Vision]] already held that material**.
+  **Nothing held famine** — it appears in passing on [[Land and Sojourning]], [[Wealth and Possessions]],
+  [[Work]], [[Blessing]], [[Priesthood]] and [[Favor and Grace]] and is owned by none of them — **and it
+  is about to be the organising fact of nine consecutive chapters.** A page was created rather than a
+  sixth passing mention added.
+- **Four connection pages.** [[A Man in Whom Is the Spirit of God]] (41:38 against 1:2, Bezalel, Joshua,
+  Balaam, Daniel); [[Zaphenath-Paneah - Renaming at a Foreign Court]] (41:45 against Daniel 1:7,
+  2 Kings 23:34; 24:17, Esther 2:7);
+  [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] (41:42–43 against Esther and
+  Daniel 5); [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] (41:8, 24 against
+  Exodus 7–9 and Daniel 1–2). **The last three all point at Daniel and Esther and are kept separate
+  because they are three different kinds of evidence** — a name, a ceremony, and a professional guild —
+  **and a reader chasing one should not have to read the other two.**
+- **[[Not from the Daughters of the Canaanites]] gained a section rather than a line.** 41:45 was already
+  on that page as *(not yet ingested)*; **the marriage is the book's loudest unremarked breach of its own
+  standing concern**, and the new section sets out what the silence is and is not — **not approval, not a
+  lapse the narrative punishes, and not a rule that had lapsed** — and notes that **the later tradition's
+  eagerness to fix it (Asenath as [[Dinah]]'s daughter; *Joseph and Aseneth*) is itself evidence the gap
+  was felt.**
+- **The book page's `## Key people` and `## Key places` lists were rebuilt, which is a repair rather than
+  an ingest step.** They had been recorded as debt in the last two entries — *"ends at [[Levi]] … belongs
+  to a lint pass"* — and by this pericope the gap was **76 people and 19 places**, including [[Joseph]],
+  [[Judah]], [[Rachel]], [[Leah]], [[Laban]], [[Melchizedek]], [[Tamar]] and nine of the twelve sons.
+  **Adding [[Asenath]] to a list that does not contain [[Joseph]] was not a coherent option**, so both
+  lists were rewritten in narrative order under one checkable rule: **every person and place with a page
+  that appears in Genesis, and nothing else.** A script verified the result — **no duplicates, every
+  listed name resolves to a file, and every Genesis page is listed** (127 people, 65 places); Job-only
+  figures were excluded. **This debt is now closed.**
+
+### Ambiguities flagged and not resolved
+
+- **Is Joseph angling for the job at 41:33–36?** He appends unrequested policy, describes the ideal
+  appointee in two words, and is appointed in those exact two words six verses later. **Against it**: a
+  famine forecast without a policy is useless, he names no candidate, and nothing in the advice is to his
+  stated advantage — his stated interest in chapter 40 was to be got out of a building. **Genesis attaches
+  no warrant and passes no verdict. Both readings set out; neither adopted.**
+- **Whose faults does the cupbearer confess at 41:9?** *Ḥăṭāʾay* is the root of the officers' offence at
+  40:1, **so the plain reading is his old offence against Pharaoh**, raised to explain how he knows a
+  prisoner; the other is that he is confessing the two-year silence. **Both recorded; neither adopted.**
+- **What does *ʾabrēk* mean?** Hebrew *bārak* (*kneel*), Egyptian *ib r.k* (*attention*), Akkadian
+  *abarakku* (*steward*). **All three recorded, none adopted.** Likewise ***yiššaq*** at 41:40, where the
+  WEB's *"be ruled"* renders a verb that ordinarily means *kiss* and which translators have disagreed
+  about for two thousand years.
+- **Why does Joseph never send word to Canaan?** **Seven years of plenty, absolute authority over Egypt,
+  and Hebron about nine days away.** Genesis records no message, no attempt and no reason — **and does not
+  present the silence as a problem either.** Every motive on offer is imported. **Recorded as a silence.**
+- **Is [[Potiphera]] the same man as [[Potiphar]]?** **The same Egyptian name in two forms**, and later
+  tradition identified them and made [[Asenath]] the daughter of [[Potiphar's Wife]]. **Genesis gives no
+  support**: different spellings, offices and cities. **Recorded as a name coincidence; not adopted.**
+
+### What was deliberately not created
+
+- **No page for Egypt's magicians and wise men.** A plural institution with **no recorded speech and no
+  individual named**, which is the standing test that also kept out the keeper of the prison and the
+  midwife of 35:17. The material went to the connection page.
+- **No connection page for John 2:5.** The Septuagint of 41:55 (*"Go to Joseph. What he says to you,
+  do"*) and Mary's sentence at Cana are all but identical in Greek, **and the observation is recorded on
+  the passage page** because a reader will make it. **It was not made a page because there is no thread
+  to trace**: the words are an unremarkable Greek sentence, the contexts share only a shortage, and no New
+  Testament writer draws the link. **This is the opposite call from last pericope's
+  [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]]**, and the stated difference is that
+  **the two birthdays are a closed set a reader can check and find exhaustive, whereas a common Greek
+  idiom is not a set at all.**
+- **No connection page for the Egyptian Famine Stela** (Sehel Island), which recounts a seven-year famine
+  under Djoser relieved by royal decree. **The parallel is real and noted on the passage page**, but it is
+  a **Ptolemaic** inscription — roughly fifteen hundred years after any date proposed for Joseph — and is
+  itself temple propaganda about a much older king; and `AGENTS.md` defines a connection page as a link
+  *within* Scripture. **Same reasoning as the Chester Beatty III dream papyrus last pericope.**
+- **[[God]] again gets no entry.** He does not speak, appear or act on the page, and the narrator does not
+  mention him; all nine *ʾĕlōhîm*s are in characters' mouths. **The page also remains truncated at
+  25:11**, which is still open debt from earlier entries.
+
+### Links deliberately left for later pericopes
+
+All given as plain scripture references rather than wikilinks, so none is a link-check finding: **42:1–6**
+(the brothers arrive and bow); **45:5–8** and **50:20** (Joseph's own interpretation of this chapter);
+**45:6**; **46:20**; **47:13–26** (the fifth part made permanent, and the priests exempted); **48:5, 14,
+19** (the adoption and the crossed hands). **Goshen** is referred to by name without a link on
+[[The Nile]], since it has no page yet. Quotations from books not in `raw/` — Exodus, Numbers,
+Deuteronomy, Joshua, Judges, 1–2 Samuel, 1–2 Kings, Ezra, Nehemiah, Esther, Psalms, Isaiah, Jeremiah,
+Ezekiel, Hosea, Amos, Micah, Jonah, Haggai, Daniel, Ruth, Matthew, Luke, John, Acts, 1 Corinthians,
+2 Timothy and Revelation — were checked by eye against the WEB.
+
+### Quotation check
+
+The scratchpad verse-diff script was rerun and taught to strip a trailing citation (`(41:12–13)`,
+`(Genesis 40:14)`) before comparing, which had been producing two false positives. Run over every block
+quote on the pages created and revised in this pass: **61 Genesis verse-blocks, 0 mismatches — the whole
+of chapter 41 quoted verbatim**, plus the re-quotes of 37:36, 40:14 and 41:12–13 on other pages.
+
+**One real fidelity slip was found and fixed on the way**: [[The Chief Cupbearer]] quoted 41:12 as
+*"a young man there with us, a Hebrew, servant to the captain of the guard"*, **which reorders the WEB's
+*"There was with us there a young man, a Hebrew…"***. Replaced with the verbatim block quote of
+41:12–13.
+
+### Pre-existing findings noted, not fixed
+
+- **Still open from earlier entries**: the stale *(not yet ingested)* marker on [[The Tower of Babel]]
+  pointing at Genesis 19:1–29; the `wiki/people/God.md` truncation at 25:11; and the seven older passage
+  pages not yet retro-linked to [[Sexual Sin]].
+- **The `## Key people` / `## Key places` debt recorded in the last two entries is closed** — see the
+  judgment calls above.
+
+`scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. It caught
+one real finding on the way — **a wikilink to
+[[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] broken across a line wrap** on the new
+[[Famine and Plenty]] page, which renders as
+literal `[[` text and would have vanished from the graph and from backlinks with nothing else in the
+repository able to see it. Fixed and the paragraph rewrapped.
+
+Genesis stands at 50 / 59 pericopes; the next is *The Brothers' First Journey to Egypt*, Genesis 42:1–38.

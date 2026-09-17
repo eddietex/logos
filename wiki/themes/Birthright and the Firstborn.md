@@ -138,6 +138,15 @@ holds up Esau as the warning.
   it**: no oracle, no bargain, no disguise, and **Zerah does nothing wrong at all.** The line of David
   runs through the one who came second. See
   [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]]
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:51, **the position is created here so that
+  chapter 48 can take it away.** [[Manasseh]] is introduced as ***the firstborn***, *habbəkôr*, **in the
+  verse that names him** — and at 48:13–20 the blind [[Jacob]] crosses his hands, puts his right on
+  [[Ephraim]], and refuses to move it when Joseph objects *"Not so, my father, for this is the
+  firstborn"*. **It is the book's fourth reversal of birth order** — after [[Isaac]] over [[Ishmael]],
+  [[Jacob]] over [[Esau]], and [[Perez]] over [[Zerah]] — **and the only one accomplished without
+  deceit, purchase or violence**: an old blind man does deliberately what an old blind man was once
+  tricked into doing. **Both boys are adopted by Jacob as his own** (48:5), **which is how the
+  firstborn's double portion reaches Joseph** (1 Chronicles 5:1–2)
 
 ## Related themes
 

@@ -68,15 +68,34 @@ and an action in the next clause every time** — the flood turns, Lot is pulled
 
 > **9** Then the chief cup bearer spoke to Pharaoh, saying, “I remember my faults today. (41:9)
 
-***Ḥăṭāʾay*** — **the same root as the offence that put him in the prison at 40:1**, now used of what he
-did to the man who was in it with him. **He is the only person in Genesis who gets Joseph in front of
-Pharaoh**, and his testimony is exact: *"a young man there with us, a Hebrew, servant to the captain of
-the guard … as he interpreted to us, so it was"* (41:12–13).
+***Ḥăṭāʾay*** — **the same root as the offence that put him in the prison at 40:1**, now used in the
+causative of the very verb Joseph gave him. **Joseph asked to be *caused to be remembered*
+(*wəhizkartanî*, 40:14); the cupbearer says *I am causing to be remembered* — and the object is not
+Joseph, it is his own offences.**
+
+**Whose faults he means is genuinely ambiguous.** ***Ḥăṭāʾay*** is the root of the two officers'
+offence at 40:1, **so the plain reading is his old offence against Pharaoh**, raised to explain how he
+comes to know a man in a prison. **The other reading is that he is confessing his two-year silence.**
+**The wiki records both and adopts neither.**
+
+**He is the only person in Genesis who gets Joseph in front of Pharaoh**, and his testimony is exact and
+exactly unhelpful:
+
+> **12** There was with us there a young man, a Hebrew, servant to the captain of the guard, and we told
+> him, and he interpreted to us our dreams. To each man according to his dream he interpreted.
+> **13** As he interpreted to us, so it was. He restored me to my office, and he hanged him.” (41:12–13)
+
+**Three descriptions and all three are disqualifications** — ***naʿar***, a youth; ***ʿibrî***, the word
+[[Potiphar's Wife]] used as a slur at 39:14; ***ʿebed***, a slave, and somebody else's. **He does not say
+Joseph's name.** And **his evidence for the interpreter's reliability is the corpse of his colleague**:
+*"and he hanged him."*
 
 **Genesis passes no verdict on him.** It does not call the forgetting ingratitude, it does not say God
 used it, and it does not say the two years were for anything. **The only line of interpretation anywhere
 in Scripture is Psalm 105:19** — *"until the time that his word happened, and Yahweh's word proved him
 true"* — **and it is about Joseph, not about him.**
+
+**After 41:13 Scripture never mentions him again.**
 
 ## Timeline / key events
 
@@ -90,8 +109,8 @@ true"* — **and it is about Joseph, not about him.**
 - Restored on the third day, at Pharaoh's birthday feast; *"he gave the cup into Pharaoh's hand"* —
   Genesis 40:20–21
 - *"Didn't remember Joseph, but forgot him"* — Genesis 40:23
-- Two years later, tells Pharaoh *"I remember my faults today"* and names the Hebrew in the prison —
-  Genesis 41:9–13 *(not yet ingested)*
+- Two years later, tells Pharaoh *"I remember my faults today"* and describes — without naming — the
+  Hebrew in the prison — Genesis 41:9–13, [[Pharaoh's Dreams and Joseph's Rise]]
 
 ## Appears in
 
@@ -100,6 +119,13 @@ true"* — **and it is about Joseph, not about him.**
   will be restored in three days, is restored in three days, **and does not do the one thing he was
   asked.** He speaks once. **The chapter that proves Joseph's interpretations true is also the chapter
   that shows the proof buying him nothing**
+- [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:9–13; **five verses, and they are the hinge of the
+  whole Joseph cycle.** He speaks up only when the king's own establishment has failed publicly, frames
+  it as ***"I remember my faults today"*** — **the causative of the verb Joseph gave him, with his own
+  offences as its object** — and **introduces Joseph to Pharaoh as a youth, a Hebrew and somebody else's
+  slave, without using his name.** **He is right about everything and Scripture never mentions him
+  again.** Whether *my faults* means his old offence against the king or his silence toward Joseph
+  **is left open by the text and by this wiki**
 
 ## Related people
 

@@ -21,8 +21,11 @@ tags: [connection]
   [[Dinah and the Massacre at Shechem]]
 - **Genesis 38:2** — Judah marries [[Shua's Daughter]], *"a certain Canaanite"* — and the line of
   David runs out of that household, through [[Tamar]] and [[Perez]] — [[Judah and Tamar]]
-- **Genesis 41:45; 46:10** — Joseph marries an Egyptian priest's daughter, and Simeon has a son by a
-  Canaanite woman: the rule broken three times inside the same book *(not yet ingested)*
+- **Genesis 41:45** — Joseph marries [[Asenath]], daughter of [[Potiphera]] **priest of [[On]]**, the
+  sun-cult centre — **given to him by Pharaoh in the same verse as an Egyptian throne-name** —
+  [[Pharaoh's Dreams and Joseph's Rise]]
+- **Genesis 46:10** — Simeon has a son by a Canaanite woman: the rule broken three times inside the same
+  book *(not yet ingested)*
 - **Exodus 34:15–16; Deuteronomy 7:1–4** — the prohibition made law, with a reason attached
 - **Judges 3:5–6; 1 Kings 11:1–8** — the reason demonstrated
 - **Ezra 9–10; Nehemiah 13:23–27** — the prohibition enforced after the exile, at its harshest
@@ -105,6 +108,32 @@ statement of covenant loyalty in the Hebrew Bible: *"your people will be my peop
 God"* (1:16). Rahab of Jericho is the other case. **Matthew's genealogy names both of them, plus
 Tamar, in four verses** (1:3–6), which is a deliberate choice by a writer who could have left every
 woman out.
+
+### The exception Genesis makes no argument about
+
+**The rule is broken three times inside Genesis itself, and the third break is the loudest.**
+[[Judah]] marries [[Shua's Daughter]], *"a certain Canaanite"* (38:2), **and the narrative that follows
+is not kind to him** — though the line of David runs out of that household anyway. Simeon has a son by a
+Canaanite woman (46:10), recorded in a list and nowhere else.
+
+**And [[Joseph]] marries [[Asenath]], daughter of [[Potiphera]] priest of [[On]]** (41:45) — **not a
+Canaanite but an Egyptian, and not merely an Egyptian but the daughter of a priest of the sun cult at
+Heliopolis.** **Genesis says nothing at all.**
+
+**The silence is worth stating precisely, because it is easy to over-read in either direction.**
+
+- **It is not approval.** Genesis does not call the marriage good, arranged by God, or a fulfilment of
+  anything. It is reported in a subordinate clause of a verse about a promotion.
+- **It is not a lapse the narrative punishes.** Nothing goes wrong because of it. **Joseph is the one
+  major figure in Genesis the book never criticises**, and **his two sons by this marriage are adopted by
+  [[Jacob]] as his own** (48:5) and become two tribes of Israel.
+- **It is not that the rule had lapsed.** [[Isaac]] restated it to [[Jacob]] thirteen chapters earlier
+  (28:1–2), and the book has just shown what Judah's Canaanite marriage cost him.
+
+**What the wiki records is a gap**: the book's own standing concern, applied nowhere near the place a
+reader most expects it. **The later tradition could not leave it alone** — rabbinic sources make Asenath
+a daughter of [[Dinah]], and *Joseph and Aseneth* gives her a conversion — **which is itself evidence
+that the silence was felt.** **Genesis leaves it open, and so does this page.**
 
 ### The New Testament
 
