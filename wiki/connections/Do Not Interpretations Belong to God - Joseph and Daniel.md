@@ -43,7 +43,7 @@ as though it were a dream about the present.)
 |---|---|---|
 | how he arrives | carried to a foreign capital against his will, a slave | deported to a foreign capital, conscripted into palace service |
 | the professionals | *"there is no one who can interpret it"* (40:8); the magicians and wise men fail (41:8) | *"the Chaldeans answered… there is no other who can show it before the king"* (2:10–11); the enchanters fail (4:7) |
-| the disclaimer | *"Don't interpretations belong to God?"* (40:8); *"It is not in me"* (41:16) | *"this secret is not revealed to me for any wisdom that I have more than any living"* (2:30) |
+| the disclaimer | *"Don't interpretations belong to God?"* (40:8); *"It isn't in me"* (41:16) | *"this secret is not revealed to me for any wisdom that I have more than any living"* (2:30) |
 | the pattern of two | two officers' dreams, then Pharaoh's doubled pair (41:32) | a dream in chapter 2, another in chapter 4, a wall in chapter 5 |
 | the reward | signet ring, linen, gold chain, second in the kingdom (41:42–43) | purple, a gold chain, third ruler in the kingdom (5:29) |
 | the king's confession | *"a man in whom is the Spirit of God"* (41:38) | *"your God is the God of gods… a revealer of secrets"* (2:47) |

@@ -97,7 +97,8 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 - Genesis 38:26 — *"She is more righteous than I"* — [[Judah and Tamar]]
 - **Genesis 42:21–22 — *"We are certainly guilty concerning our brother"*** —
   [[The Brothers' First Journey to Egypt]]
-- Genesis 44:16 — *"God has found out the iniquity of your servants"* *(not yet ingested)*
+- Genesis 44:16 — *"God has found out the iniquity of your servants"* —
+  [[The Silver Cup and Judah's Plea]]
 - Genesis 50:15–17 — the brothers' fear after Jacob's death *(not yet ingested)*
 - Leviticus 5:14–6:7; Numbers 5:6–7 — the guilt offering and spoken confession
 - Psalm 32:3–5; Psalm 51 — silence, and what it costs
@@ -108,6 +109,16 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
   anybody has accused them** (43:19–22); and the answer they get is *"Peace be to you. Don't be afraid."*
   **The confession of 42:21 has not made them easier — it has made them legible to themselves**, and men
   carrying an unconfessed crime read hospitality as a trap
+
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:16; **the confession of 42:21 said out loud, to
+  the man it is about, and attached to the wrong crime.** ***"God has found out the iniquity of your
+  servants"*** — ***hāʾĕlōhîm māṣāʾ ʾet-ʿăwōn ʿăbādeykā*** — **is [[Judah]]'s answer to a charge of
+  theft, and it concedes nothing about the theft.** *ʿĀwōn* is guilt-as-liability, the standing left
+  behind by an act, **and the act is twenty-two years old.** He asks *how shall we clear ourselves* —
+  ***niṣṭaddāq***, **a reflexive of *ṣādēq* found nowhere else in the Hebrew Bible**, and the root of
+  his own *"she is more righteous than I"* at 38:26 — **and then volunteers the whole company for
+  slavery.** **Men who have carried something for two decades will confess it to the first authority
+  that corners them, about whatever they happen to be accused of**
 
 ## Related themes
 

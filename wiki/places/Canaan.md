@@ -165,6 +165,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   hāʾāreṣ***, balm, honey, spices, myrrh, nuts and almonds (43:11) — **sent out of a famine as a bribe**,
   and the last thing Genesis records it yielding. **From verse 15 the story is in Egypt and the land of
   promise is offstage**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:8, 18–34; **named once, and present in every verse
+  after 18.** The brothers cite it as a character reference (*"we brought again to you out of the land
+  of Canaan"*, 44:8), **and then [[Judah]]'s whole speech is about a tent in it** — an old man, a boy
+  who must be returned, and a grief that will arrive there if the sentence stands. **The chapter's
+  events are entirely in Egypt and its stakes are entirely in Canaan**, which is the arrangement the
+  rest of the book runs on
 
 ## Related places
 

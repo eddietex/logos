@@ -1468,6 +1468,14 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   reason for.** The narrator still says nothing, as he has said nothing since 39:23. **The chapter's
   one act of divine mercy is reported as an involuntary physical sensation** — *nikmərû raḥămāyw*,
   *his compassions grew hot* — **with no agent named at all.** See [[Compassion and Mercy]]
+- [[The Silver Cup and Judah's Plea]] — ***ʾĕlōhîm* once, in one clause, and it is a confession to a
+  crime nobody charged.** *"God has found out the iniquity of your servants"* (44:16) is [[Judah]]'s,
+  spoken over a planted cup about a twenty-two-year-old sale. ***Māṣāʾ***, *find*, **is the chapter's
+  own verb** — the steward finds a goblet, God finds an *ʿāwōn*, and the last thing found is the grief
+  that will *"come on my father"* (44:34). **The sentence is accurate about the reckoning and mistaken
+  about every particular of the instrument**, which is the nearest thing to theology anyone in Genesis
+  44 says. The narrator's silence, unbroken since 39:23, continues; see [[Providence]] and
+  [[Guilt and Conscience]]
 
 ## Related people
 

@@ -271,6 +271,14 @@ the rest of the canon.
   šākāltî***, **the doubled perfect of a man conceding the worst outcome in advance.** See
   [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]]
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:9, 20, 22, 31; **four deaths in the chapter: one
+  proposed, one believed, two predicted — and none of them occurs.** The brothers swear *"let him
+  die"* over a cup none of them took (44:9); [[Judah]] reports *"his brother is dead"* to the brother
+  (44:20); he quotes the family's answer that *"his father would die"* if the boy leaves (44:22); and
+  he predicts it outright — *"when he sees that the boy is no more, that he will die"* (44:31).
+  **[[Joseph's Steward]] converts the first into slavery (44:10) and [[Joseph]]'s disclosure cancels
+  the rest.** The chapter's stakes are entirely mortal and its body count is zero
+
 ## Related themes
 
 - [[Famine and Plenty]] — *"that the land not perish through the famine"*

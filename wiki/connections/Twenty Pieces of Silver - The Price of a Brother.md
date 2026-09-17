@@ -32,8 +32,12 @@ tags: [connection]
   full weight. We have brought it back in our hand"* (43:21) — **and it is refused**:
   [[Joseph's Steward]] tells them their God put treasure in their sacks and that he was paid anyway
   (43:23).
-  **Men who once took twenty pieces for a brother cannot now give money back for grain**, and 44:1–2
-  will return it a third time with a silver cup on top
+  **Men who once took twenty pieces for a brother cannot now give money back for grain**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:1–2; **silver's fourth movement, and the only one
+  nobody in the story ever mentions again.** The money goes back into the sacks a second time —
+  **and this time a silver *gābîaʿ* goes in on top of it.** The returned money terrified them at
+  42:28 and produced a rehearsed speech at 43:19–22; **here it is simply never spoken of.** The cup
+  takes all the attention, **which is what it was for**
 
 ## Analysis
 

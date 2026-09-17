@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Genesis 43:8–10** — [[The Second Journey]]; [[Judah]]: *"I'll be collateral for him. From my hand
   will you require him."*
-- **Genesis 44:32–33** *(not yet ingested)* — the pledge called in
+- **Genesis 44:32–33** — [[The Silver Cup and Judah's Plea]]; the pledge called in
 - **Genesis 42:37** — [[The Brothers' First Journey to Egypt]]; [[Reuben]]'s rejected offer
 - **Genesis 38:17–18, 20** — [[Judah and Tamar]]; **Judah's other *ʿārab***
 - **Job 17:3; Psalm 119:122; Proverbs 6:1–5; 11:15; 17:18; 20:16; 22:26–27**
@@ -69,7 +69,10 @@ reckoning that will happen to somebody; Judah names the hand it comes out of.**
 > (44:32–33)
 
 **He repeats 43:9 almost verbatim and then draws the conclusion it entails** — *let your servant stay
-instead of the boy.* **The man who said *"what profit is it if we kill our brother"* and sold him for
+instead of the boy* (see [[The Silver Cup and Judah's Plea]]). **Nobody in Egypt can enforce the
+pledge**: it was made to his father in a tent, to win an argument, with no oath, no witness and no
+jurisdiction that reaches across a border. **He performs it anyway, in front of a court that has just
+declared him *blameless* and offered him the road home** (44:10, 17). **The man who said *"what profit is it if we kill our brother"* and sold him for
 twenty pieces (37:26–28) offers to take a favoured younger son's sentence.** Whether or not Joseph
 designed the cup as a test, **this is the answer to it**, and 45:1 follows immediately: the disguise
 does not survive the speech. See [[Mediation and Advocacy]] and [[Testing]].

@@ -163,6 +163,12 @@ reached.**
   how completely Joseph now wears the office**: the man who told this king *"it isn't in me; God will
   give Pharaoh an answer of peace"* (41:16) **names the king and not God in front of his own family.**
   See [[By the Life of Pharaoh - Oaths Sworn by a King]]
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:18; **invoked once, as a measure of power.**
+  [[Judah]] opens the longest speech in Genesis with *"don't let your anger burn against your servant;
+  for you are even as Pharaoh"* — ***kî kāmôkā kəparʿōh*** — **the highest comparison a foreigner can
+  make, and a statement about his own position: you can do anything to me.** [[Joseph]] does not swear
+  by his life here as he did twice at 42:15–16; **the chapter's whole exercise of authority happens in
+  a private house**, and the king is a yardstick rather than a party
 
 ## Related people
 

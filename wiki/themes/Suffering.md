@@ -120,6 +120,14 @@ requires only that you be standing outside it.
   twenty-two years late, **and it is given in a confession rather than a narration**, by the men who
   watched it happen
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:29–34; **a grief argued in advance, by a man who
+  helped cause the last one.** [[Judah]]'s whole case is a prediction about [[Jacob]]: *"his life is
+  bound up in the boy's life … when he sees that the boy is no more, that he will die"* (44:30–31).
+  **He quotes the father's *Sheol* refrain twice** (44:29, 31) — **the vow of 37:35, which Judah's own
+  proposal at 37:26–27 produced** — **and then concedes the agency the second time**: *your servants
+  will bring down the gray hairs of your servant, our father.* **The speech ends on the thing he
+  cannot face**, *"lest I see the evil that will come on my father"*
+
 ## Related themes
 
 - [[Retribution]] — the account of suffering the book of Job is written against

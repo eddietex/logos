@@ -127,6 +127,15 @@ implied and never stated: *"We love him, because he first loved us."* 1 Corinthi
   he gives is also not true in the plain sense** — *"the son of his old age"*, when [[Benjamin]] is younger.
   See [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]]
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:20; ***"and his father loves him"*** —
+  ***wəʾābîw ʾăhēbô***, **the verb of 37:3–4**, *"his brothers saw that their father loved him more
+  than all his brothers, and they hated him."* **[[Judah]] offers paternal favouritism in mitigation,
+  to the man that same favouritism nearly killed**, and he does not know it. He describes
+  [[Benjamin]] in the narrator's words for [[Joseph]] — ***yeled zəqūnîm***, *a child of his old age*
+  — **and argues that this is the reason the boy cannot be lost.** **Genesis passes no judgement on
+  the love, only records what it costs each time.** See
+  [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]]
+
 ## Related themes
 
 - [[Envy]] — what a stated preference produces in the person who is not preferred

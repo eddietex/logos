@@ -95,7 +95,8 @@ resolve it.**
 - Genesis 34:25 — *"Dinah's brothers"* — [[Dinah and the Massacre at Shechem]]
 - Genesis 37:4, 27 — hatred, and *"he is our brother, our flesh"* — [[Joseph Sold into Slavery]]
 - **Genesis 42:4, 13, 21, 32, 38 — the reckoning** — [[The Brothers' First Journey to Egypt]]
-- Genesis 44:33; 45:4; 50:15–21 — the resolution *(not yet ingested)*
+- Genesis 44:33 — *"let your servant stay instead of the boy"* — [[The Silver Cup and Judah's Plea]]
+- Genesis 45:4; 50:15–21 — the resolution *(not yet ingested)*
 - Leviticus 19:17; Deuteronomy 15:7–11 — *your brother* as a legal category
 - Matthew 5:23–24; 18:21–22; 1 John 3:12–15
 - [[The Second Journey]] — Genesis 43:3–9, 29–30, 34; **a chapter conducted entirely in the vocabulary
@@ -104,6 +105,14 @@ resolve it.**
   [[Benjamin]] *"his brother, **his mother's son**"* (43:29); **[[Joseph]]'s compassions grow hot over a
   brother he cannot name**; and he ends the meal by favouring one brother in front of ten, **which is
   exactly what started all of it** (37:3–4)
+
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:13, 20, 33; **the theme's turning point, narrated
+  as logistics.** Offered a road home without [[Benjamin]] and a court's word that they are
+  *blameless*, **ten men tear their clothes and go back** (44:13) — **Genesis 37 refused in nine
+  words.** [[Judah]] then tells [[Joseph]] that *"his brother is dead"* (44:20), **not knowing he is
+  saying it to him**, and ends by asking that *"the boy go up with his brothers"* while he stays
+  (44:33). **The chapter is a negotiation over the custody of one brother, conducted by a second, in
+  front of a third who is pretending not to be one**
 
 ## Related themes
 

@@ -93,6 +93,10 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   a load of grain.** He presumably bows at 43:26 and sits second at 43:33, *"the firstborn according to
   his birthright"* having gone to [[Reuben]]. **He says nothing here, as he says nothing at Shechem and
   nothing anywhere else in Genesis**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:7–13; **one of the plural again.** He is among the
+  brothers who protest, swear the death oath over the cup (44:9), tear their clothes when it is found
+  in [[Benjamin]]'s sack, **and load their donkeys to go back to a city they had already left.** He is
+  second in the search order at 44:12 and says nothing, as everywhere
 
 ## Related people
 

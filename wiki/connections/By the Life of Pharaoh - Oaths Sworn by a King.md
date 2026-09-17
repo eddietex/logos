@@ -86,6 +86,9 @@ king-oath twice for dramatic irony and both instances are among its best-made sc
 **The most solemn form of speech available to him is used twice, in two verses, for two falsehoods** —
 by a man who is at that moment concealing his identity from his own family, and who in the next chapter
 will have a steward lie on his behalf about the money (43:23) and will plant a cup in a sack (44:2).
+**And at 44:18 the king returns as a yardstick rather than an oath** — [[Judah]] opens the longest
+speech in Genesis with *"for you are even as Pharaoh"*, ***kî kāmôkā kəparʿōh***, **naming the power
+he is addressing instead of swearing by it.** See [[The Silver Cup and Judah's Plea]].
 **Genesis records the whole of it and passes no judgment**, exactly as it passed none on the deceptions
 of [[Jacob]], [[Rebekah]], [[Laban]] and [[Tamar]] before it. See [[Deception]] and [[Oaths and Vows]].
 

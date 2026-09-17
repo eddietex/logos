@@ -11,7 +11,8 @@ tags: [connection]
   [[Joseph Sold into Slavery]]
 - **Genesis 42:21–22** — the same scene, as the men who did it remember it —
   [[The Brothers' First Journey to Egypt]]
-- Genesis 44:16 — *"God has found out the iniquity of your servants"* *(not yet ingested)*
+- Genesis 44:16 — [[The Silver Cup and Judah's Plea]]; *"God has found out the iniquity of your
+  servants"*
 - Genesis 50:15–17 — the brothers' third and final reckoning *(not yet ingested)*
 
 ## Analysis
@@ -113,6 +114,17 @@ jail. See [[Guilt and Conscience]].
 | **50:17** | *"Please forgive the disobedience of your brothers, and their sin"* | **Joseph, by name, after their father's death** |
 
 **Each one is made to a wider audience and each one costs more.** And **Joseph weeps at all three.**
+
+**The second is the strangest of them, and the wiki reads it as the pivot.** At 44:16 [[Judah]] is
+being accused of stealing a silver cup, and **he does not answer the charge at all** — neither denying
+it nor admitting it. *"What will we tell my lord? What will we speak? Or how will we clear
+ourselves?"* is ***niṣṭaddāq***, **a reflexive of *ṣādēq* that occurs nowhere else in the Hebrew
+Bible**, and what follows it is a confession to something twenty-two years old: ***ʿāwōn***,
+guilt-as-liability, *found out* by God. **The verb is *māṣāʾ*, the chapter's own word for the search
+that has just gone through eleven sacks** — [[Joseph's Steward]] found a goblet and Judah answers that
+God found something else. **The men who whispered 42:21 in a language they believed the Egyptian could
+not follow say it to his face, in the third person, about a cup.** See
+[[The Silver Cup and Judah's Plea]].
 
 ### Elsewhere in Scripture
 

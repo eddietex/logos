@@ -543,6 +543,24 @@ are alone; *"they didn't know that Joseph understood them; for there was an inte
 The chapter ends in Canaan with the returned money emptied out in front of [[Jacob]] and **the most
 comprehensively false sentence in Genesis** — ***"all these things are against me"*** — said by a man
 every item of whose evidence is mercy, **which the book does not correct for five more chapters.**
+  Then **[[The Second Journey]]** and **[[The Silver Cup and Judah's Plea]]** hand the cycle to
+  [[Judah]]. **The famine, not an argument, breaks Jacob's refusal** (*"Go again, buy us a little more
+  food"*, 43:2), and Judah wins the boy with one commercial verb — ***ʿārab***, *"I'll be collateral
+  for him … let me bear the blame forever"* (43:9) — **where [[Reuben]]'s offer of two grandsons had
+  been met with no reply at all** (42:37). The chapter that follows is **a test Genesis never calls
+  one**: a silver *gābîaʿ* in [[Benjamin]]'s sack, a scripted accusation on the road (*"Why have you
+  rewarded evil for good?"*, 44:4 — **the phrase's first occurrence in Scripture, false as charged and
+  exact as stated**), a search run *"beginning with the oldest, and ending at the youngest"*, and a
+  ruling improvised by a servant that frees ten men and enslaves one (44:10). ***"Go up in peace to
+  your father"*** **is Genesis 37 offered back to them with the guilt subtracted, and they refuse it in
+  nine words** — *"each man loaded his donkey, and returned to the city"* (44:13). [[Judah]] then
+  speaks for **seventeen verses, the longest speech in the book**, and it is almost entirely other
+  men's words: Joseph's own terms, and *"my wife bore me two sons"*, *"surely he is torn in pieces"*
+  and the *Sheol* vow quoted back from [[Jacob]]. **He asks for nothing, denies nothing, and ends by
+  offering to serve the sentence himself** — ***taḥat hannaʿar***, *instead of the boy* — **which is
+  the man who proposed the sale at 37:26 keeping a pledge no court in Egypt could enforce.** **Genesis
+  names God once in the chapter** (44:16, in Judah's mouth) **and reports the whole of it without a
+  word about what Joseph intended.**
 
 ## Pericopes
 
@@ -613,7 +631,7 @@ merge, or reorder them freely.
 - [x] [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:1–57
 - [x] [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38
 - [x] [[The Second Journey]] — Genesis 43:1–34
-- [ ] The Silver Cup and Judah's Plea — Genesis 44:1–34
+- [x] [[The Silver Cup and Judah's Plea]] — Genesis 44:1–34
 - [ ] Joseph Reveals Himself — Genesis 45:1–28
 - [ ] Jacob's Family Settles in Egypt — Genesis 46:1–47:12
 - [ ] Joseph and the Famine — Genesis 47:13–31

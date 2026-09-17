@@ -22,7 +22,8 @@ tags: [connection]
   clothed them."* The first garments in Scripture, and the first animal skins.
 - **Genesis 39:12** — *"She caught him by his garment … and he ran outside"*, and the garment is
   produced as evidence of a thing that did not happen.
-- **Genesis 44:1–13** — the silver cup in Benjamin's sack: a planted object, one generation on.
+- **Genesis 44:1–13** — [[The Silver Cup and Judah's Plea]]; the silver cup in Benjamin's sack: a
+  planted object, one generation on.
 
 ## Analysis
 

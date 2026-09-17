@@ -17,7 +17,8 @@ tags: [connection]
 - **Daniel 5:7, 16, 29** — scarlet, a chain of gold about the neck, and *"the third ruler in the
   kingdom"*
 - **Daniel 2:48** — Daniel made *"ruler over the whole province of Babylon"* after reading a dream
-- **Genesis 44:1–13** — Joseph's own *gābîaʿ*, the cup planted in Benjamin's sack *(not yet ingested)*
+- **Genesis 44:1–13** — [[The Silver Cup and Judah's Plea]]; Joseph's own *gābîaʿ*, the cup planted
+  in Benjamin's sack
 
 ## Analysis
 

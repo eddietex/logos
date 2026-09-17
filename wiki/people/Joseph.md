@@ -278,6 +278,9 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   43:30–31
 - Eats at a table of his own because Egyptians will not eat with Hebrews; seats eleven men in birth
   order; gives Benjamin five times anyone else's portion — Genesis 43:32–34
+- Plants his silver cup in Benjamin's sack, scripts the accusation on the road, claims to divine, and
+  offers the other ten a free road home — *"go up in peace to your father"* — Genesis 44:1–5, 15, 17,
+  [[The Silver Cup and Judah's Plea]]
 - The silver cup and the disclosure — Genesis 44–45 *(not yet ingested)*
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
@@ -360,6 +363,16 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   eleven men in the exact order of their births**, and **gives Benjamin five portions in front of the
   ten who once solved that problem with a caravan.** The recognition is not withheld this time by
   roughness but by hospitality
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:1–17; **he speaks four times and every word is part
+  of a machine.** He has his own *gābîaʿ* planted in [[Benjamin]]'s sack (44:2), scripts an accusation
+  for [[Joseph's Steward]] to deliver on the road — *"Why have you rewarded evil for good?"* (44:4) —
+  **and claims a divining power he has twice disclaimed in his own voice** (44:15; cf. 40:8, 41:16).
+  **He waits in the house for them to come back** (*"and he was still there"*, 44:14). Then he makes
+  the offer the whole apparatus exists to make: one son of [[Rachel]] enslaved, ten brothers
+  *blameless*, and ***"go up in peace to your father"*** (44:17) — **Genesis 37 handed back with the
+  guilt subtracted.** **Genesis never says he is testing them and never says what he would have done
+  if they had gone.** What it says is that after [[Judah]]'s speech the verb that held at 43:31 fails
+  (45:1) and his next recorded words are *"I am Joseph"*
 
 ## Related people
 

@@ -153,6 +153,13 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   the word's first occurrence in Scripture** — **the fact that keeps Israel from dissolving into the
   country that feeds it.** See
   [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]]
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:3–17; **the only chapter of the cycle that leaves
+  the city, and it measures the distance on purpose.** *"When they had gone out of the city, and were
+  not yet far off"* (44:4) — **far enough that turning around is a decision, near enough that they
+  can.** The chapter then fixes the family's vocabulary of direction for good: everything toward
+  Canaan is ***ʿālâ***, *go up* (44:17, 33, 34), against the *yārad* of 42:3 and 43:15. **Egypt is
+  where a court can declare ten foreigners *blameless* and keep one**, and the ruling that does it is
+  pronounced by a household servant on a road (44:10)
 
 ## Related places
 

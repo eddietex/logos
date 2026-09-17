@@ -59,8 +59,9 @@ to Egypt — *"if harm should happen to him… you would bring down my gray hair
 that he be produced (42:20), [[Reuben]]'s absurd offer of his own two sons as surety (42:37),
 [[Judah]]'s pledge of himself instead (43:9, see [[The Second Journey]]), the portion five times
 everyone else's at Joseph's
-table (43:34), the silver cup planted in his sack (44:2), and Judah's speech offering to be enslaved
-in his place (44:18–34) — **the speech that breaks Joseph and ends the concealment.**
+table (43:34), the silver cup planted in his sack ([[The Silver Cup and Judah's Plea]]), and Judah's
+speech offering to be enslaved in his place — **the speech that breaks Joseph and ends the
+concealment.**
 
 At the reunion, *"he fell on his brother Benjamin's neck and wept, and Benjamin wept on his neck"*
 (45:14) — **in the verbs of 33:4**; see
@@ -91,8 +92,10 @@ Paul, who carries Saul's name.
 - Taken down to Egypt at last, on [[Judah]]'s surety; seen, blessed — *"God be gracious to you, my
   son"* — wept over from another room, seated last by right of youth, and served five times anyone
   else's portion — Genesis 43:15, 16, 29–30, 33–34, [[The Second Journey]]
-- The cup planted in his sack — Genesis 44:1–17 *(not yet ingested)*
-- Judah offers himself as a slave in his place — Genesis 44:18–34 *(not yet ingested)*
+- The cup planted in his sack, found there last, and a slavery sentence pronounced over him twice —
+  Genesis 44:2, 12, 10, 17, [[The Silver Cup and Judah's Plea]]
+- Judah offers himself as a slave in his place — ***taḥat hannaʿar*** — Genesis 44:18–34,
+  [[The Silver Cup and Judah's Plea]]
 - Joseph falls on his neck and weeps — Genesis 45:14 *(not yet ingested)*
 - Blessed as a ravenous wolf — Genesis 49:27 *(not yet ingested)*
 
@@ -126,6 +129,16 @@ Paul, who carries Saul's name.
   portion — **[[Joseph]] reproducing, at a table, the favouritism that put him in a pit** — and the ten
   men watching it do nothing. **Everyone still calls him *the boy*, *hannaʿar*, though 46:21 gives him
   ten sons**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:2, 9–12, 17–34; **framed, searched last, sentenced
+  twice, and silent throughout.** [[Joseph's Steward]] puts the *gābîaʿ* in his sack (44:2); his ten
+  brothers swear a death sentence over an object none of them knows is there (44:9) — **the second
+  time this family has sworn that oath over a hidden thing in a bag, and the first fell on
+  [[Rachel]]** (31:32); and the search runs *"beginning with the oldest, and ending at the youngest"*
+  (44:12), **the seating plan of 43:33 used as a stage direction.** [[Judah]] then describes him to
+  Joseph as ***yeled zəqūnîm***, *a child of his old age* (44:20) — **the narrator's phrase for
+  [[Joseph]] at 37:3** — calls him *the boy* eight times, and offers to be enslaved *instead of* him.
+  **Every consequential act in the chapter happens to him and none of it is his**, and Genesis still
+  records no word he speaks
 
 ## Related people
 

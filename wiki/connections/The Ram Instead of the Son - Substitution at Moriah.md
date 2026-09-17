@@ -11,6 +11,9 @@ tags: [connection]
   instead of his son"* — *taḥat bənô*. See [[The Binding of Isaac]].
 - **Genesis 22:8** — *"God will provide himself the lamb for a burnt offering"* — a **lamb** promised,
   a **ram** supplied
+- **Genesis 44:33** — [[The Silver Cup and Judah's Plea]]; *"please let your servant stay **instead of
+  the boy**"* — ***taḥat hannaʿar***, **the preposition's other Genesis use, and the only one in which
+  the substitute is the one who proposes it**
 - **Exodus 13:13; 34:20** — *"Every firstborn of a donkey you shall redeem with a lamb… All the
   firstborn of your sons you shall redeem"*
 - **Leviticus 1:1–17** — the *ʿōlâ*, the whole burnt offering, and the hand laid on its head

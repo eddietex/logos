@@ -108,5 +108,13 @@ verdict against himself without bargaining.** See [[Righteousness]] and [[Decept
 **It is also the moment the succession becomes intelligible.** Genesis has been moving the birthright
 toward Judah without announcing it — *"his brothers listened to him"* at 37:27, which the book never
 says of [[Reuben]] — and the man who will make the longest speech in Genesis offering himself as a
-slave in Benjamin's place (44:18–34) **is first shown learning, on a road in the Shephelah, what it
-costs to be handed your own seal.** See [[Birthright and the Firstborn]] and [[Judah]].
+slave in Benjamin's place ([[The Silver Cup and Judah's Plea]]) **is first shown learning, on a road
+in the Shephelah, what it costs to be handed your own seal.** See [[Birthright and the Firstborn]]
+and [[Judah]].
+
+**The *nkr* root is absent from Genesis 44 and the absence is structural.** What [[Judah]] quotes to
+[[Joseph]] instead is the sentence the coat and its *hakker-nāʾ* produced: ***"Surely he is torn in
+pieces"*** (44:28), **[[Jacob]]'s exact words at 37:33, delivered to the man they were about.** **The
+examination the brothers demanded of their father at 37:32 is thus reported back to its subject, in
+his own audience chamber, by one of the men who staged it** — and the root that would name the
+recognition does not appear, because the recognition does not happen until 45:1.

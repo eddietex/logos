@@ -167,6 +167,14 @@ about.
   and conceived by him** — and Genesis records no penance, no rebuke, and no divine comment, only the
   verdict of the man she deceived. See [[Tamar]]
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:16; ***niṣṭaddāq***, *how shall we clear
+  ourselves*, **a reflexive of *ṣādēq* that occurs nowhere else in the Hebrew Bible** — **and it is
+  [[Judah]]'s word twice over**, the man who said *ṣādəqâ mimmennî*, *"she is more righteous than I"*,
+  at 38:26. **The answer he gives to his own question is that they cannot, and that this is not the
+  charge anyway**: *"God has found out the iniquity of your servants."* **The one man in Genesis who
+  has stated a verdict against himself does it a second time, in a foreign court, about a different
+  crime**
+
 ## Related themes
 
 - [[Favor and Grace]] — the other term in the 6:8 / 6:9 pair, and the question of which grounds which

@@ -199,6 +199,15 @@ will finally go both ways.
   them, and *"the men marveled one with another"*** (43:33): **they look straight at the evidence and
   cannot read it**
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:21–34; **five verbs of sight in seventeen verses,
+  and the man being addressed is the one nobody has recognised.** *"That I may set my eyes on him"*
+  (44:21); *"you will see my face no more"* (44:23); *"I haven't seen him since"* (44:28); *"when he
+  sees that the boy is no more"* (44:31); *"lest I see the evil"* (44:34). **[[Judah]] is arguing
+  entirely about what one absent old man will and will not see**, in front of the son that man has
+  not seen in twenty-two years. **And the search at 44:12 is looking run as theatre** — *"beginning
+  with the oldest, and ending at the youngest"* — **by the only person in the scene who knows what is
+  in the sacks**
+
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

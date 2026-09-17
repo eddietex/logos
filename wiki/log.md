@@ -7306,3 +7306,173 @@ single character in one line of prose and was left alone rather than edited in a
 belongs in the next lint.
 
 Genesis stands at 52 / 59 pericopes; the next is *The Silver Cup and Judah's Plea*, Genesis 44:1–34.
+
+## [2026-09-17] ingest | Genesis 44.1-34 — The Silver Cup and Judah's Plea
+
+Unattended run (`/ingest auto`). Genesis 44 whole, as the book page had it queued. The chapter has one
+obvious internal seam — the cup found at 44:13, Judah's speech beginning at 44:18 — and it is a seam
+rather than a boundary: the speech exists to answer the verdict, and the verdict exists to provoke the
+speech. Kept as one pericope.
+
+### The passage page
+
+[[The Silver Cup and Judah's Plea]], `wiki/passages/Genesis/`, built around five findings.
+
+**1. The chapter is a verb.** ***Māṣāʾ***, *find*, **runs eight times in twenty-seven verses.** Seven
+of them are about the cup — *found* in the sacks, *found* with whomever, *found* in Benjamin's sack,
+*found* in his hand, three times over — and the eighth is [[Judah]]'s last clause: *"lest I see the
+evil that will come on my father"*, ***yimṣāʾ***, *that will find him.* **44:16 is the hinge and it is
+a deliberate pun**: the steward has found a goblet; Judah answers that *"God has found out the
+iniquity of your servants."* **The search that began in eleven sacks ends by finding Jacob.**
+
+**2. What [[Joseph]] builds is Genesis 37 with the guilt removed.** One son of [[Rachel]] enslaved,
+ten brothers free, a father in Canaan who will have to be told — **and a court's word that they are
+*blameless*.** *"Go up in peace to your father"* (44:17) is not a concession; it is the offer of 37:28
+with the culpability subtracted. **They refuse it in nine words with no adjective in them**: *"each
+man loaded his donkey, and returned to the city"* (44:13). Genesis reports the setup and the outcome
+and **never supplies a word for the thing between them** — no *nissâ*, no narratorial aside, no
+statement of intent. The page reads it as a test from the shape of the trap and **flags the reading as
+inference**, since a Joseph who has simply not decided how to stop is not excluded by the text.
+
+**3. The most consequential act in the chapter is a servant's, and nothing in his orders covers it.**
+The brothers swear death for the thief and slavery for all of them (44:9). [[Joseph's Steward]] says
+*"Now also let it be according to your words"* and then states different words: *"he with whom it is
+found will be my slave; and you will be blameless"* (44:10). **He halves the penalty and dissolves the
+solidarity** — and the second change is the one that matters, because a death sentence on
+[[Benjamin]] would have bound all eleven, while one slave and ten innocent men is the only
+configuration in which the test can run at all. **Genesis does not say whether it was his idea.**
+
+**4. Every clause of 44:20 is a knife the speaker cannot see.** *"A child of his old age"* —
+***yeled zəqūnîm*** — is the narrator's phrase for Joseph at 37:3, the stated cause of the hatred;
+*"his brother is dead"* is said to the brother; *"he alone is left of his mother"* is true only if
+that is so; and *"his father loves him"* is the verb of 37:3–4, **offering paternal favouritism in
+mitigation to the man it nearly killed.** Filed as
+[[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]].
+
+**5. Judah's speech is almost entirely other men's words.** Seventeen verses — the longest in Genesis
+— quoting Joseph's own terms three times, [[Jacob]] three times (*"my wife bore me two sons"*,
+*"surely he is torn in pieces"*, the *Sheol* vow), and himself once, as a debt (43:9 at 44:32). **He
+says *the boy* eight times and *my father* fifteen.** He asks for no mercy and disputes nothing; his
+single premise is *"his life is bound up in the boy's life"* (44:30), and his single request is to
+serve the sentence — ***taḥat hannaʿar***, *instead of the boy*, the preposition of the ram at 22:13.
+**The last thing he says is about his father's face**, and the next verse is 45:1.
+
+### Judgment calls made without asking
+
+- **Boundary kept at 44:1–34**, as planned. No redraw.
+- **No new person pages.** Everyone in the chapter already has one; the only candidate was the
+  brothers as a group, and the standing line on unnamed collectives holds.
+- **Four new connection pages rather than two or six.** Cut from the list: a page on *ḥālîlâ*
+  (said twice in the chapter, at 44:7 and 44:17, but with only Genesis 18:25 behind it), and one on
+  *"you are even as Pharaoh"* (44:18), which [[By the Life of Pharaoh - Oaths Sworn by a King]] now
+  absorbs in three sentences instead.
+- **The book-level overview had no paragraph for Genesis 43.** Wrote one covering 43–44 together,
+  since they are one movement and the gap was otherwise going to widen.
+
+### New connection pages (4)
+
+- [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] — **the chapter's strongest
+  unremarked parallel.** 31:32, *"Anyone you find your gods with shall not live"*, sworn by [[Jacob]]
+  in ignorance about a household containing [[Rachel]]; 44:9, *"let him die"*, sworn by his sons in
+  ignorance about a party containing her surviving son. **Both searches run in a stated order and put
+  the true holder last** — tent by tent at 31:33, *"beginning with the oldest, and ending at the
+  youngest"* at 44:12. Neither oath operates: the first search fails, and the second sentence is
+  rewritten by a servant. With Jephthah, Saul's oath and Jonathan, Leviticus 5:4 and Matthew 5:34–37.
+- [[Rewarding Evil for Good - A False Charge That Is Exactly True]] — ***šillamtem rāʿâ taḥat
+  ṭôbâ*** (44:4) **is the phrase's first occurrence in Scripture**, and everywhere else in the canon
+  (1 Samuel 24:17; 25:21; Psalms 35, 38, 109; Proverbs 17:13; Jeremiah 18:20) it is the cry of someone
+  genuinely wronged. **Here it is scripted by a man who planted the evidence and is exactly true of
+  the men it is delivered to.** Proverbs 17:13 supplies the only consequence clause the idiom gets —
+  *evil will not depart from his house* — and 44:13 is the one place Scripture shows it departing.
+- [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] — 37:3 and 44:20, **the phrase's
+  only two uses of a son in Genesis**, both of [[Rachel]]'s children. The arithmetic does not work
+  (Benjamin is younger) and the page declines to fix it, noting only that the household used the
+  phrase of both.
+- [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] — ***napšô qəšûrâ bənapšô***
+  (44:30) and *"the soul of Jonathan was knit with the soul of David"* (1 Samuel 18:1), **the idiom's
+  only two occurrences**, with Abigail's *bundle of life* (1 Samuel 25:29) as the third turn of the
+  same verb. One bond involuntary, one chosen, one in God's keeping.
+
+### Pages revised
+
+- **People (17)**: [[Judah]] (new pericope section — the speech, the confession, the substitution),
+  [[Joseph]], [[Benjamin]], [[Joseph's Steward]] (new section on the ruling at 44:10), [[Jacob]],
+  [[Reuben]], [[Rachel]], [[Simeon]], [[God]], [[Pharaoh (of Joseph's time)]], and the seven who act
+  only as a plural — [[Levi]], [[Dan (person)]], [[Naphtali]], [[Gad]], [[Asher]], [[Issachar]],
+  [[Zebulun]].
+- **Places (3)**: [[Egypt]], [[Canaan]], [[Sheol]].
+- **Themes (17)**: [[Testing]], [[Mediation and Advocacy]], [[Guilt and Conscience]],
+  [[Slavery and Servitude]], [[Brotherhood]], [[Deception]], [[Providence]], [[Oaths and Vows]],
+  [[Righteousness]], [[Retribution]], [[Love]], [[Suffering]], [[Prophecy and Vision]],
+  [[Seeing and Being Seen]], [[Life and Death]], [[Language and Speech]], [[Envy]].
+- **Connections revised (11)**:
+  [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]] (the pledge performed,
+  and the point that nobody in Egypt could have enforced it);
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] (the claim is load-bearing for the trick
+  and the brothers never engage with it);
+  [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] (44:16 as the pivot of
+  the three confessions);
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] (the *nkr* root stays absent and
+  *ṭārōp ṭōrāp* arrives instead);
+  [[A Garment Used as Evidence - The Coat and the Cloak]] (the planted object without a garment);
+  [[Twenty Pieces of Silver - The Price of a Brother]] (silver's fourth movement, and the only one
+  nobody mentions again); [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] (the fourth
+  bowing); [[The Ram Instead of the Son - Substitution at Moriah]] (*taḥat* at 22:13 and 44:33);
+  [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] (*"my wife bore me two sons"*);
+  [[By the Life of Pharaoh - Oaths Sworn by a King]] (44:18 as a yardstick rather than an oath);
+  [[A Garment and a Goat - Jacob Deceives and Is Deceived]].
+- **Indexes (6) and the book page**: [[books/index|Books]] (Genesis 53 / 59), [[people/index|People]],
+  [[places/index|Places]], [[themes/index|Themes]], [[connections/index|Connections]], [[index]]
+  (59 passages · 133 people · 66 places · 63 themes · 176 connections), and the [[Genesis]] book page —
+  box checked, pointed at the new passage page, and the overview extended through 43–44.
+
+### Quotation check
+
+Block quotes on the new pages were diffed against `raw/bible/Genesis.md` by a scratchpad script: **37
+quoted verse segments, 0 mismatches.** The inline italic quotations were then swept the same way —
+128 fragments on the lines this pass added, **all of them verbatim apart from marked elisions and
+quotations from outside Genesis.**
+
+The sweep caught **three pre-existing misquotes, all of the paraphrase-in-quotation-marks kind the
+last entry warned about**, and all three are fixed:
+
+- ***"It is not in me"*** for Genesis 41:16. **The WEB reads *"It isn't in me."*** The wrong form was
+  in five places — [[The Cupbearer and the Baker]],
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]],
+  [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+  [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] and
+  [[Do Not Interpretations Belong to God - Joseph and Daniel]] — **and would have become six.**
+- ***"Isn't this that in which my lord drinks"*** (44:5) on
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]. WEB: *"that **from** which."*
+- ***"fell before him on the ground"*** (44:14) on
+  [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]]. WEB: *"fell **on the ground before
+  him**."*
+
+**The general lesson stands and is now demonstrated twice.** A fragment that is nearly right reads as
+correct on the page, survives every mechanical check the repo has, and propagates by being copied from
+one wiki page to another rather than from the raw file. **Only diffing each quoted fragment against
+`raw/bible/` finds it**, and it is worth doing on the inline quotations of pages a pass merely touches,
+not only on the pages it writes.
+
+### Link check
+
+`scripts/link-check.sh` exits 0, expected baseline 64 not-yet-started book pages. **One wrapped link
+was introduced and caught before commit** — `[[The Chief` / `Cupbearer]]` split across the ~100-column
+wrap in the new passage page — which is now the second consecutive ingest in which the wrap has broken
+a long link target and the script has been the only thing to see it.
+
+**No links were deliberately left dangling.** 45:1–3, 45:14, 45:22, 49:8–12 and 50:15–17 are named in
+prose and marked `*(not yet ingested)*` rather than linked.
+
+### Findings left for the next lint
+
+- **The seven plural brothers had no [[The Second Journey]] entry**, though `wiki/people/index.md`
+  lists that passage under them. This pass added their Genesis 44 entries but did not backfill 43;
+  the index and the pages disagree for one pericope on seven pages.
+- **Unchanged from the last entry**: the stale `*(not yet ingested)*` marker on [[The Tower of Babel]]
+  pointing at Genesis 19:1–29; the `wiki/people/God.md` truncation at 25:11; the seven older passage
+  pages not retro-linked to [[Sexual Sin]]; and the Cyrillic *е* inside *ʾênennû* in
+  `wiki/people/Jacob.md` — **which turns out to be in `wiki/books/Genesis.md` as well**, in the
+  Genesis 42 paragraph. Both were left alone rather than edited in an ingest commit.
+
+Genesis stands at 53 / 59 pericopes; the next is *Joseph Reveals Himself*, Genesis 45:1–28.

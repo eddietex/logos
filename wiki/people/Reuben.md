@@ -168,6 +168,12 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]). His one appearance is
   as furniture — *"the firstborn according to his birthright"*, seated first at Joseph's table (43:33)
   — **a birthright the narrative has already given away and 49:3–4 will formally strip**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:12, 14; **not named once, and the group is renamed
+  around him.** *"Judah and his brothers came to Joseph's house"* (44:14) — ***yəhûdâ wəʾeḥāyw*** —
+  **is the first time Genesis attaches the brothers to somebody other than the firstborn**, and it is
+  done without comment. He is the eldest sack in the search (*"beginning with the oldest"*, 44:12) and
+  has no recorded word in the chapter. **The two-grandsons surety he offered at 42:37 is the offer
+  [[Judah]]'s speech is the answer to**, and it is not mentioned either
 
 ## Related people
 

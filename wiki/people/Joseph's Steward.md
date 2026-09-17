@@ -69,6 +69,43 @@ funds and the sentence is literally true.** Genesis does not say.
 marks (41:16, 25, 32; 42:18, 28; 43:14, 29). **The most accurate of them all is spoken by an Egyptian
 butler to men who do not believe him.**
 
+## The ruling at 44:10
+
+**The single most consequential act by a minor character in Genesis, and nothing in his orders covers
+it.**
+
+[[Joseph]]'s instructions (44:4–5) are an accusation and nothing more: *"Why have you rewarded evil
+for good? Isn't this that from which my lord drinks, and by which he indeed divines?"* **No penalty,
+no procedure, no sentence.** The brothers then supply one themselves —
+
+> **9** With whomever of your servants it is found, let him die, and we also will be my lord's slaves.
+
+— **and he accepts their terms and states different ones.**
+
+> **10** He said, "Now also let it be according to your words: he with whom it is found will be my
+> slave; and you will be blameless."
+
+| | the brothers' oath | the steward's ruling |
+|---|---|---|
+| **the thief** | *let him die* | *"will be my slave"* |
+| **the others** | *"we also will be my lord's slaves"* | *"you will be blameless"* — ***nəqiyyim*** |
+
+***"Now also let it be according to your words"*** **is a courtesy, and what follows is not their
+words at all.** **He halves the penalty and dissolves the solidarity in one sentence** — and **the
+second change is the one the chapter turns on.** A death sentence on [[Benjamin]] would have bound all
+eleven men to a single outcome. **One enslaved brother, ten men legally declared innocent, and an open
+road to Canaan is the exact configuration of Genesis 37**, and it is the only ruling under which the
+brothers can be tested at all.
+
+**Genesis does not say whether this was his own judgement or an instruction given off-page.** If it is
+[[Joseph]]'s design, the narrator withheld it; **if it is the steward's, then the legal move that
+makes the whole test possible was improvised by a servant with no name.** See [[Testing]] and
+[[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]].
+
+**It is also the only place in Genesis where anyone edits an oath before it can operate.** Jacob's at
+31:32 was never enforced because the search failed; **this one is defused deliberately, by the man
+conducting the search.**
+
 ## Related people
 
 - [[Joseph]] — his master, and **the man whose own career began in this job** (39:4). Every order the
@@ -86,7 +123,12 @@ butler to men who do not believe him.**
 ## Appears in
 
 - [[The Second Journey]] — Genesis 43:16–17, 19–25
-- **Genesis 44:1–13** *(not yet ingested)* — the silver cup, the pursuit, and the amended sentence
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:1–12; **the silver cup, the pursuit, and the
+  amended sentence.** He fills the sacks and plants the *gābîaʿ* (*"He did according to the word that
+  Joseph had spoken"* — **the formula of exact obedience from 43:17, now serving a frame-up**), rides
+  the brothers down and delivers a scripted accusation he has no evidence for, **then declines their
+  death oath and issues a ruling of his own that frees ten men and enslaves one** (44:10), and searches
+  the sacks from the eldest to the youngest. **His ruling is what makes the chapter a test**
 
 ## Themes associated
 

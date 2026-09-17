@@ -8,8 +8,9 @@ tags: [connection]
 ## Passages involved
 
 - **Genesis 30:27** — *"I have divined that Yahweh has blessed me for your sake"* — [[Jacob's Flocks]]
-- **Genesis 44:5, 15** — *"Isn't this that in which my lord drinks, and by which he indeed divines?"*;
-  *"Don't you know that such a man as I can indeed divine?"* *(not yet ingested)*
+- **Genesis 44:5, 15** — [[The Silver Cup and Judah's Plea]]; *"Isn't this that from which my lord
+  drinks, and by which he indeed divines?"*; *"Don't you know that such a man as I can indeed
+  divine?"*
 - **Genesis 31:19, 30–35** — Laban's *teraphim*, stolen and sat on — [[Jacob's Flight from Laban]],
   and see [[The Teraphim - Household Gods in Genesis and After]]
 - [[The Cupbearer and the Baker]] — **Genesis 40:8**: dream interpretation credited to God — *"don't
@@ -57,9 +58,16 @@ scripted by Joseph as part of a staged accusation; at 44:15 they are **Joseph's 
 brothers who do not know who he is. **Every sentence he says in that scene is part of a performance
 he is directing**, which is precisely why the wiki does not read it as a straight report of his
 practice. **Against it stands everything he says when he is not performing**: *"Don't interpretations
-belong to God?"* (40:8) and *"It is not in me. God will give Pharaoh an answer of peace"* (41:16) —
+belong to God?"* (40:8) and *"It isn't in me. God will give Pharaoh an answer of peace"* (41:16) —
 **two flat refusals of exactly the credit 44:15 claims.** The cup may be a prop, a reputation, or a
-real instrument, and **Genesis never says.**
+real instrument, and **Genesis never says.** See [[The Silver Cup and Judah's Plea]].
+
+**What the chapter does establish is that the claim is load-bearing for the trick and worthless
+otherwise.** The accusation at 44:5 needs the cup to be valuable enough that stealing it is a capital
+matter; **44:15 needs Joseph to have known it was gone without being told.** **Both are stage
+business**, and the brothers never engage with either — **their entire defence is about the money**
+(44:8), and after the cup is found [[Judah]] answers with *ʿāwōn* rather than with a word about
+divination at all.
 
 **The two uses frame the family's foreign chapters.** Divination is what the household Jacob married
 into does, and divination is what the household Jacob's son ran an empire from is credited with.

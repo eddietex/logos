@@ -18,6 +18,9 @@ tags: [connection]
   the firstborn: but he shall acknowledge the firstborn, the son of the hated, by giving him a double
   portion of all that he has."*
 - **Genesis 35:22; 49:3–4** — Reuben, the hated wife's firstborn, and what he loses
+- **Genesis 44:27** — [[The Silver Cup and Judah's Plea]]; [[Jacob]] quoted by [[Judah]]: *"You know
+  that **my wife** bore me two sons"* — **the arithmetic stated in a single possessive**, said of four
+  women and twelve sons, **and repeated without protest by one of [[Leah]]'s six**
 - **1 Chronicles 5:1–2** — *"his birthright was given to the sons of Joseph"*, stated outright
 - Compare **Genesis 37:3–4**, now on the page at [[Joseph Sold into Slavery]] — the same construction one
   generation on: *loved more*, then *hated*

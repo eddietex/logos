@@ -28,7 +28,8 @@ tags: [connection]
   the image the whole cycle turns on is reported as household manners.** The second dream's sun and moon
   remain outstanding and now cannot be met as 37:9 describes them: [[Jacob]] is in Canaan and
   [[Rachel]] has been dead since 35:19
-- **Genesis 44:14**; **50:18** — the fourth and fifth bowings.
+- **Genesis 44:14** — [[The Silver Cup and Judah's Plea]]; **50:18** — the fourth and fifth
+  bowings.
 - **Genesis 47:31** — *"Israel bowed himself on the bed's head"* — the father's one bow, and it is not to
   his son.
 - [[The Cupbearer and the Baker]] — **Genesis 40:5, 8, 12, 18**: the cycle's second pair of dreams, the
@@ -70,7 +71,9 @@ out of the picture and the picture bows to him.** And the second dream is the on
 - **42:6** — they bow *"with their faces to the earth"*, not knowing who he is; **the verse Genesis pairs
   with the dream three verses later.**
 - **43:26** — they bow again, having brought the boy and the money, still not knowing.
-- **44:14** — they *"fell before him on the ground"* over the planted cup, with [[Judah]] speaking.
+- **44:14** — they *"fell on the ground before him"* over the planted cup, with [[Judah]] speaking;
+  **eleven men in torn clothes, and the narrator marks it with nothing** —
+  [[The Silver Cup and Judah's Plea]].
 - **50:18** — after Jacob's death they bow a fourth time and **say the thing the first dream implied**:
   *"Behold, we are your servants."*
 
@@ -95,7 +98,7 @@ vindicates, since the brothers bow and the parents never do.
 **This is the point most retellings supply and the text withholds.** The narrator gives no formula —
 no *"God came to Joseph in a dream"* as at 20:3 with Abimelech, no *"behold, Yahweh stood above it"* as at
 28:13 with Jacob. **Compare what Genesis does say about the other dreams in the cycle**: Joseph tells the
-cupbearer and baker *"Don't interpretations belong to God?"* (40:8), and tells Pharaoh *"It is not in me:
+cupbearer and baker *"Don't interpretations belong to God?"* (40:8), and tells Pharaoh *"It isn't in me:
 God will give Pharaoh an answer"* (41:16), and Pharaoh's two dreams are declared *"one"* and *"established
 by God"* (41:25, 32). **Every dream in the cycle is attributed to God except the two the cycle opens
 with.**

@@ -613,6 +613,9 @@ is carried back to Machpelah.
 - Prays the only prayer he offers in the Joseph cycle — *"May God Almighty give you mercy before the
   man"* — and concedes the outcome in advance: *"If I am bereaved of my children, I am bereaved"* —
   Genesis 43:14
+- Absent, and quoted to Joseph by [[Judah]] — *"my wife bore me two sons"*, *"surely he is torn in
+  pieces"*, and the *Sheol* vow a third time — Genesis 44:27–29,
+  [[The Silver Cup and Judah's Plea]]
 - Goes down to Egypt at a hundred thirty — Genesis 46 *(not yet ingested)*
 - Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
   *(not yet ingested)*
@@ -728,6 +731,16 @@ is carried back to Machpelah.
   (28:3), and ***raḥămîm*** — which is granted sixteen verses later, in a room he will never enter,
   and he never learns it. *"If I am bereaved of my children, I am bereaved"* is his last word in the
   chapter, **and the verb is the one he used to accuse his sons at 42:36**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:20, 27–29, 30–34; **absent, quoted three times, and
+  the entire subject of the longest speech in the book.** [[Judah]] reports him to [[Joseph]] as *"a
+  father, an old man"* whose youngest is *"a child of his old age"* — ***yeled zəqūnîm***, **the
+  narrator's phrase for Joseph at 37:3** — and then quotes him directly: ***"You know that my wife
+  bore me two sons"*** (44:27), **a sentence that excludes [[Leah]], [[Bilhah]], [[Zilpah]] and ten of
+  his twelve sons, repeated without protest by one of the ten**; ***"Surely he is torn in pieces"***
+  (44:28), **his exact cry over the coat at 37:33, delivered to the son it was about**; and the *Sheol*
+  vow of 37:35 and 42:38 a third time. **The argument that saves Benjamin is a claim about him** —
+  *"his life is bound up in the boy's life … he will die"* (44:30–31) — **and the chapter's last clause
+  is about his face.** He is named fifteen times in seventeen verses and knows none of it has happened
 
 ## Related people
 

@@ -163,6 +163,16 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   chapter's other vow, **and Jacob declines to accept it.** See
   [[By the Life of Pharaoh - Oaths Sworn by a King]]
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:9–10; **a rash oath sworn over a hidden object in
+  a bag, for the second time in this family.** *"With whomever of your servants it is found, let him
+  die, and we also will be my lord's slaves"* is sworn by ten men certain of their innocence — **as
+  [[Jacob]] swore *"Anyone you find your gods with shall not live"* at 31:32 about a household that
+  contained [[Rachel]].** **Both oaths are aimed, without the speaker knowing it, at her.** This one
+  is defused: [[Joseph's Steward]] answers *"Now also let it be according to your words"* and then
+  states different words (44:10), **halving the penalty and dissolving the solidarity** — **the only
+  place in Genesis where anyone edits an oath before it can operate.** See
+  [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]]
+
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22
   discharged, and nobody in the text says so.** God sends him back a second time (31:13 was the

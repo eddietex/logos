@@ -208,7 +208,7 @@ Three things are worth holding apart.
 2. **He denies that the skill is his and then exercises it in the next breath.** *"Please tell it to
    me"* — ***sapərû-nāʾ lî*** — follows the disclaimer immediately. **The disclaimer is not modesty and
    it is not a refusal**; it is a claim about where the answer comes from, made by the man about to give
-   it. He repeats it verbatim in a throne room: *"It is not in me: God will give Pharaoh an answer of
+   it. He repeats it verbatim in a throne room: *"It isn't in me: God will give Pharaoh an answer of
    peace"* (41:16).
 3. **It is the first thing anyone in Genesis says about how dreams work.** [[Abraham and Abimelech]]
    had the Bible's first dream at 20:3 and nobody in it needed an interpreter; the dreams of
@@ -543,7 +543,7 @@ two verses to say so.**
   Joseph brought *"out of the dungeon"*, *bôr* a third time *(not yet ingested)*
 - Genesis 41:8, 24 — Egypt's magicians and wise men, who cannot do what a prisoner did *(not yet
   ingested)*
-- Genesis 41:16 — *"It is not in me: God will give Pharaoh an answer of peace"*, 40:8 repeated in a
+- Genesis 41:16 — *"It isn't in me: God will give Pharaoh an answer of peace"*, 40:8 repeated in a
   throne room *(not yet ingested)*
 - Genesis 41:32 — *"the dream was doubled … because the thing is established by God"*, the cycle's own
   explanation of its pairs *(not yet ingested)*

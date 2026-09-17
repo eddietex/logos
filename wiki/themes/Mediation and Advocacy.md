@@ -174,6 +174,15 @@ what Job is asking for.
   both directions** — *"Peace be to you. Don't be afraid"* (43:23), and then the cup at 44:1–12. See
   [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:18–34; **advocacy that turns into substitution in
+  its last sentence, and the theme's high point in the Old Testament.** [[Judah]] ***draws near***
+  (***wayyiggaš***, 44:18, the verb of [[Abraham]] at 18:23) and speaks for seventeen verses — **the
+  longest speech in Genesis** — **without once disputing the charge.** He argues from a third party
+  who is not present and cannot be produced: *"his life is bound up in the boy's life … he will die"*
+  (44:30–31). **Then he stops advocating and offers to be the defendant**: *"please let your servant
+  stay instead of the boy"* — ***taḥat hannaʿar*** (44:33), **the preposition of the ram at 22:13.**
+  An advocate who cannot win the case takes the sentence, and the disguise does not survive it (45:1)
+
 ## Related themes
 
 - [[Judgment]] — the proceeding all of this presupposes

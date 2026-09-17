@@ -176,3 +176,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] | parallel | Genesis 42:36 · Genesis 43:14 · Esther 4:16 · 2 Samuel 15:25–26 · 2 Kings 7:3–4 · Daniel 3:17–18 |
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 |
 | [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] | literary parallel | Genesis 4:3–5 · Genesis 32:13–21 · Genesis 33:8–11 · Genesis 43:11–15, 25–26 |
+| [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
+| [[Rewarding Evil for Good - A False Charge That Is Exactly True]] | idiom | Genesis 37:3–4, 18–28 · Genesis 44:4 · 1 Samuel 24:17; 25:21 · Psalm 35:12; 38:20; 109:4–5 · Proverbs 17:13 · Jeremiah 18:20 · Romans 12:17, 21 · 1 Thessalonians 5:15 · 1 Peter 3:9 |
+| [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] | literary parallel | Genesis 21:2, 7 · Genesis 37:3–4 · Genesis 43:34 · Genesis 44:20 · Genesis 45:22 |
+| [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |

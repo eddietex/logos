@@ -85,6 +85,15 @@ to go.
   refusal to be comforted — except that the tally has gone from one son to two and he is being asked to
   risk a third. **Both of Genesis's first two Sheol sentences are in Jacob's mouth, both are about a
   son, and neither mentions God**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:29, 31; **the vow's third and fourth occurrences,
+  and the first time it is spoken by somebody other than [[Jacob]].** [[Judah]] quotes it once as his
+  father's words (*"you will bring down my gray hairs with sorrow to Sheol"*, 44:29) **and once as his
+  own prediction** (*"Your servants will bring down the gray hairs of your servant, our father, with
+  sorrow to Sheol"*, 44:31) — **and the second is an admission of agency: *your servants will bring
+  down*.** **The word Jacob used to describe his own grief becomes, in his son's mouth, the name of
+  what the brothers will have done.** It is the premise the whole speech rests on, together with
+  *"his life is bound up in the boy's life"* (44:30); see
+  [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]]
 
 ## Related places
 

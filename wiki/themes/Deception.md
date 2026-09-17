@@ -246,6 +246,14 @@ has become a nation.
   42:35) into one account at 43:21; **and [[Joseph's Steward]] says *"I received your money"* about money
   he was ordered to return.** Every deception in the chapter is performed by someone being kind
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:1–17; **the most elaborate single deception in
+  Genesis, and the victim runs it.** A planted object, an accusation scripted for somebody else to
+  deliver (44:4–6), a claim of divination [[Joseph]] has twice disclaimed in his own voice (44:15; cf.
+  40:8, 41:16), and a judicial ruling built to produce one particular moral choice. **He tells no
+  outright lie about himself in the chapter** — **a cup, a servant and a sentence do it for him.**
+  Against which the brothers' single deception, at 43:21, looks like bookkeeping. See
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
+
 ## Related themes
 
 - [[Language and Speech]] — words as the medium of blessing, curse, and creation, and here of

@@ -194,6 +194,15 @@ addressing a slave by name and no one else in the story doing so.
   they also call themselves *"your servants"* to his face (43:28). **Genesis does not point at it**, and
   44:16 will turn it into their own verdict: *"we are my lord's slaves"*
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:9–33; ***ʿebed* saturates the chapter in both of
+  its senses.** *Your servants* is court courtesy, said a dozen times; ***slave* is the actual
+  sentence**, pronounced four (44:9, 10, 16, 17). **The men who sold a brother into Egyptian slavery
+  offer themselves for it collectively** — *"we are my lord's slaves"* (44:16) — **and are refused**;
+  [[Joseph's Steward]] has already narrowed the penalty to one man and declared the rest *blameless*
+  (44:10), **which is the ruling that makes the chapter work.** And it ends with [[Judah]] asking to
+  be that one man: *"let your servant stay instead of the boy, my lord's slave"* (44:33). **The
+  vocabulary they feared at 43:18 is the vocabulary he volunteers in**
+
 ## Related themes
 
 - [[Land and Sojourning]] — the other half of Israel's self-description: strangers and slaves

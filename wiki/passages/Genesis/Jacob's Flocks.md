@@ -486,7 +486,8 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
 - [[Wrestling at the Jabbok]] — Genesis 32:5, 13–21; the flocks of this passage counted out again,
   in five staggered herds, as a present sent ahead of Jacob to *"cover"* Esau's face.
 - Genesis 39:5 — *"Yahweh blessed the Egyptian's house for Joseph's sake"* *(not yet ingested)*.
-- Genesis 44:5, 15 — Joseph's cup, and the only other *nāḥaš* in the book *(not yet ingested)*.
+- Genesis 44:5, 15 — Joseph's cup, and the only other *nāḥaš* in the book —
+  [[The Silver Cup and Judah's Plea]].
 - Genesis 47:6, 27 — the family settled in Goshen, fruitful and multiplying in a foreign estate
   *(not yet ingested)*.
 - Exodus 1:7–14 — the household that grows too large for its host, and is kept rather than released.

@@ -18,6 +18,10 @@ tags: [connection]
 - **Exodus 22:13** — *"if it is torn in pieces, let him bring it for evidence"*: the herdsman's defence,
   which is a garment-as-proof rule in all but name
 - **2 Samuel 13:18–19** — Tamar's *kətōnet passîm*, torn by the woman wearing it
+- **Genesis 44:1–13** — [[The Silver Cup and Judah's Plea]]; **the planted object without a garment**:
+  a silver *gābîaʿ* put into [[Benjamin]]'s sack and produced as proof of a theft that did not happen.
+  **The third object in the cycle to be arranged as evidence and believed**, and the first one
+  arranged by [[Joseph]]
 
 ## Analysis
 

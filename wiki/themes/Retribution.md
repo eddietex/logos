@@ -137,6 +137,15 @@ verdicts.
   raises it to covenant law with *"his blood is required"* (9:5). **Genesis prints the theory, lets it
   produce a true confession from a false premise, and never endorses it**
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:16; **the brothers read a planted cup as an
+  accounting**, exactly as they read the returned money at 42:28 and the prison at 42:21. ***"God has
+  found out the iniquity of your servants"*** **treats an entirely staged event as a reckoning coming
+  due** — and they are right that one is in progress and wrong about every particular of it. **The
+  chapter's opening line is the canon's first *"Why have you rewarded evil for good?"*** (44:4),
+  **false as charged and exact as stated**; Proverbs 17:13 supplies the only consequence clause the
+  idiom ever gets, *evil will not depart from his house*. See
+  [[Rewarding Evil for Good - A False Charge That Is Exactly True]]
+
 ## Related themes
 
 - [[Suffering]] — what the doctrine claims to explain

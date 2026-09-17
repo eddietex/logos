@@ -119,6 +119,13 @@ human one innocent.** *"You meant evil"* stands. See
   has given you treasure in your sacks"* (43:23), **correct about an event he was never told the reason
   for.** See [[Compassion and Mercy]] and [[Joseph's Steward]]
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:16; **the chapter's only theology, and it is
+  correct about the mechanism and wrong about every particular.** ***"God has found out the iniquity
+  of your servants"*** is [[Judah]] reading a staged discovery as divine bookkeeping: **the iniquity
+  is real, the cup is not evidence of it, and the agent is a brother rather than a court.** The
+  narrator, silent about God since 39:23, **adds nothing.** Genesis 44 is the book's cleanest case of
+  a true doctrine derived from a false premise
+
 ## Related themes
 
 - [[Call and Election]] — what providence is in service of

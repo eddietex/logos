@@ -111,6 +111,16 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   already been shown a favoured brother and done nothing.** The chapter also supplies the answer in
   advance — [[Judah]]'s ***ʿārab*** at 43:9 — **before the test that calls it in**
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:1–17; **the theme's Genesis summit, and the book
+  never uses the word.** [[Joseph]] plants a cup, scripts an accusation, and lets [[Joseph's Steward]]
+  issue a ruling that enslaves one son of [[Rachel]] and declares the other ten *blameless* (44:10).
+  Then he offers them the road: ***"go up in peace to your father"*** (44:17). **It is Genesis 37 with
+  the guilt subtracted** — the same outcome, arrived at legally, with nothing for them to do but
+  leave. **The result is nine words with no adjective in them**: *"each man loaded his donkey, and
+  returned to the city"* (44:13). **Genesis reports the setup and the outcome and supplies no term for
+  the thing between them** — no *nissâ*, no narratorial aside, and no statement of what Joseph
+  intended. The wiki reads it as a test from the shape of the trap and flags the reading as inference
+
 ## Related themes
 
 - [[The Fear of God]] — what testing is for: *"now I know that you fear God"*

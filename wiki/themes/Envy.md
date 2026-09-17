@@ -127,6 +127,14 @@ judgment about a motive.**
   *"They drank, and were merry with him."* **The silence of the ten is the chapter's most important
   non-event**, and 44:1–2 only works as a test if this was one
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:13, 20; **the answer to 37:3–4, and Genesis does
+  not say so.** The favouritism is restated in court — *"a child of his old age … and his father loves
+  him"* (44:20), **the narrator's own causal chain from 37:3–4 repeated by one of the brothers it
+  excluded** — **and this time it is offered as a reason to spare the favourite rather than as a
+  reason to be rid of him.** Then ten men with a free road home turn their donkeys around for him
+  (44:13). **The envy that opened the cycle is answered by an act the text records without a single
+  adjective**
+
 ## Related themes
 
 - [[Strife and Peacemaking]] — what envy becomes when it is acted on, and the much smaller set of

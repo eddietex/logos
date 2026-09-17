@@ -76,6 +76,14 @@ been explained by any text. See
   are singled out. He bows to [[Joseph]] without recognising him (42:6–8), spends three days in
   custody, and carries home grain and money he did not expect
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:7–13; **one of the plural, and the plural does the
+  chapter's most important thing.** He protests the theft, joins the oath that would have killed
+  whoever held the cup (*"With whomever of your servants it is found, let him die"*, 44:9), tears his
+  clothes when it is found in [[Benjamin]]'s sack, **and turns his donkey around** — with the road to
+  Canaan open, a court's word that he is *blameless*, and nothing but [[Benjamin]] to go back for
+  (44:13). **Genesis records the decision in nine words and attributes it to no one.** After 44:13 the
+  ten have no further speech; [[Judah]] speaks for all of them
+
 ## Related people
 
 - [[Bilhah]] — his mother, who is not recorded speaking at his birth

@@ -223,6 +223,14 @@ happens.
   dream's sun and moon (37:9) remain outstanding and cannot be met** — Jacob is in Canaan and [[Rachel]]
   has been dead since 35:19
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:14; **the fourth bowing, and the narrator says
+  nothing for the third chapter running.** *"They fell on the ground before him"* — eleven men, in
+  torn clothes, on the floor of a house — **completes the sheaf image a second time and Genesis marks
+  it with the word *"they fell."*** And the chapter's only claim to supernatural sight is a lie:
+  *"such a man as I can indeed divine"* (44:15), from the man who said *"don't interpretations belong
+  to God?"* (40:8). **The one true prediction in it is [[Judah]]'s** — that a father in Canaan will
+  not survive the sentence — **and he has no way to prove it**
+
 ## Related themes
 
 - [[Language and Speech]] — words as the medium of everything God does in Genesis

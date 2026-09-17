@@ -250,6 +250,13 @@ over the killing of the infants at Bethlehem. See
   **It is the same device as 42:4's *"Benjamin, Joseph's brother"***. Her death at 35:19 is also why
   the second dream cannot complete: **the sheaves bow at 43:26, and the moon of 37:9 is in a grave on
   the road to Ephrath**
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:9, 20; **dead, unnamed, and the reason every stake
+  in the chapter is what it is.** [[Judah]] tells the governor that the boy *"alone is left of his
+  mother"* (44:20) — **a sentence true only if [[Joseph]] is dead, said to Joseph.** And the oath her
+  brothers-in-law swear at 44:9 — *"With whomever of your servants it is found, let him die"* — **is
+  the oath [[Jacob]] swore over her at 31:32**, when the hidden thing was under her on a camel's
+  saddle. **Both times the search ends at her household, and both times the sentence fails to
+  operate**; see [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]]
 
 ## Related people
 

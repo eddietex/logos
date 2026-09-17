@@ -168,6 +168,14 @@ noticing into doctrine.
   And **the *mēlîṣ* of 42:23 is never mentioned again**, though nothing says he has gone: the chapter
   runs its whole conversation without telling the reader which language it is in
 
+- [[The Silver Cup and Judah's Plea]] — Genesis 44:4–6, 18–34; **a chapter made almost entirely of
+  quotation, and no interpreter is mentioned.** [[Joseph]]'s accusation is delivered by
+  [[Joseph's Steward]] in Joseph's own words (44:4–6); **[[Judah]]'s seventeen verses are built out of Joseph's terms,
+  [[Jacob]]'s three sayings, and his own 43:9 pledge**, with one sentence of his own at the end. The
+  *mēlîṣ* of 42:23 is never named again and **the reader is not told how the longest speech in Genesis
+  crosses the wall Joseph built.** *"What will we tell my lord? What will we speak? Or how will we
+  clear ourselves?"* (44:16) is **three verbs of speech collapsing into one of law**
+
 ## Related themes
 
 - [[The Nations]] — the seventy, distinguished by language among other things
