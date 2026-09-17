@@ -6626,3 +6626,195 @@ one real finding on the way — **a wikilink wrapped across lines 17–18 of the
 renders as literal `[[` text and would have vanished from the graph and from backlinks with nothing
 else in the repository able to see it. Fixed and the paragraph rewrapped. Genesis stands at
 48 / 59 pericopes; the next is *The Cupbearer and the Baker*, Genesis 40:1–23.
+
+## [2026-09-17] ingest | Genesis 40.1-23 — The Cupbearer and the Baker
+
+Unattended run (`/ingest auto`). Genesis 40 — **the chapter where Joseph stops being the object of his
+own story and starts reading it.** From 37:18 to the end of 39 he is acted on in almost every verse;
+here he is handed a competence, and Genesis gives that competence a vocabulary it uses for two chapters
+and then retires.
+
+### Created
+
+**Passage** — [[The Cupbearer and the Baker]], quoting all twenty-three verses of the chapter across six
+verse-sections.
+
+**People (2)** — [[The Chief Cupbearer]], [[The Chief Baker]].
+
+**Connections (5)** — [[Do Not Interpretations Belong to God - Joseph and Daniel]],
+[[Lift Up Your Head - One Idiom and Two Verdicts]],
+[[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]],
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]],
+[[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]].
+
+**Themes (0)** — see the judgment calls below.
+
+### Revised
+
+[[Joseph]] (a full in-pericope section, five timeline entries, an appears-in entry, two related people,
+three themes); [[Pharaoh (of Joseph's time)]] (his first *acting* chapter, moved out of the
+forward-looking section); [[Potiphar]] (40:3–4 added to the *did he believe her?* evidence, and an
+appears-in entry for a chapter that uses his title and not his name); [[Egypt]]; [[Canaan]];
+[[Genesis]] (box checked, `## Structure` extended). **Seventeen theme pages** took a keyed entry, two of
+them substantial — [[Prophecy and Vision]] and [[Remembrance]], which are the two the chapter is
+actually about. **Four existing connection pages were extended rather than duplicated**:
+[[The Vine and the Cup]] (a new paragraph on the one cup in Scripture that is neither wrath nor
+covenant), [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] (a table of the cycle's three
+pairs of dreams, and why the middle pair works differently from the other two),
+[[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] (Psalm 105:19 as the only comment in
+Scripture on the two years of 40:23–41:1), and
+[[Divination in Genesis - Laban's Nahash and Joseph's Cup]] (a distinction rather than a link — see
+below). All five indexes and [[index|the dashboard]] counts updated.
+
+### The findings this pass turned on
+
+**1. Two words that occur in two chapters of the Bible and nowhere else.** ***Pātar***, to interpret,
+and ***pitrôn***, an interpretation — **fourteen occurrences, all of them in Genesis 40 and 41**
+(40:5, 8 twice, 12, 16, 18, 22; 41:8, 11, 12 twice, 13, 15 twice), checked against the WEB text in
+`raw/bible/Genesis.md`. **No prophet uses them; no wisdom book uses them.** And Genesis marks the
+boundary itself: when Joseph needs a *translator* at 42:23 the text says *mēlîṣ*, a different root.
+**The Aramaic cognate *pəšar* is Daniel's word for the same job**, which is what
+[[Do Not Interpretations Belong to God - Joseph and Daniel]] is for.
+
+**2. One idiom, three uses, two opposite verdicts.** *Nāśāʾ rōʾš*, *lift up the head*, at 40:13
+(reinstatement), 40:19 (decapitation), and 40:20 (the census idiom, *taking the sum* of the palace
+staff). **Verse 19 is verse 13 with *mēʿāleykā*, *from off you*, added** — and verse 20 runs the neutral
+sense past the reader for one more clause before 21–22 split the two men. **The same three words close
+the history of Judah**: 2 Kings 25:27 has Jehoiachin's head *lifted up out of prison* by a Babylonian
+king, in the favourable sense, in the last four verses of the book.
+
+**3. The chapter's last verse is the theme page's negative.** *Zākar* twice in 40:14, in two stems
+(*zəkartanî*, *wəhizkartanî*), and then *lōʾ-zākar … wayyiškāḥēhû* — **a negative and its positive twin,
+which Hebrew does not usually bother with** — as the closing seven words. In Genesis the verb has had
+God as subject four times and **an act in the following clause every time**. Here it is handed to a man
+and produces two years of nothing.
+
+**4. Two words the English hides.** *"They should put me into the **dungeon**"* (40:15) is ***habbôr***,
+**the same word as the waterless cistern of 37:24**, which the WEB renders *pit*; **Joseph's own name
+for the Egyptian prison is his brothers' word.** And *"the land of the Hebrews"* (40:15) is
+***ʾereṣ hāʿibrîm***, **which occurs here and nowhere else in the Bible** — Joseph making a country's
+name out of the word [[Potiphar's Wife]] used against him as a slur at 39:14.
+
+**5. God is named once in the chapter, and Joseph is the one who names him.** Continuing the divine-name
+count established in the Genesis 39 entry: **the narrator of Genesis 40 never mentions God at all.** The
+chapter's only theological claim is a prisoner's rhetorical question, and it says *ʾĕlōhîm* — as Joseph
+does to Potiphar's wife at 39:9 and to Pharaoh at 41:16. **He never speaks the covenant name to an
+Egyptian anywhere in Genesis.**
+
+### Judgment calls
+
+- **[[The Chief Cupbearer]] and [[The Chief Baker]] both got pages, against the standing practice.** The
+  wiki does not make pages for unnamed single-scene functionaries — the keeper of the prison, the midwife
+  of 35:17, the man in the field of 37:15 — **and that practice does not fit these two.** Both have
+  direct speech, both have dreams reported at length in the first person, **the chapter's entire content
+  is what happens to them**, and the cupbearer recurs at 41:9–13 as the one person who moves Joseph from
+  the prison to the throne room. The baker's page is shorter and exists because **the chapter's
+  demonstration needs both halves**: an interpreter who is right only when the news is good has proved
+  nothing.
+- **Titled by office, with no period qualifier.** *Pharaoh* and *Abimelech* take *(of X's time)* because
+  Genesis narrates several of each. **Scripture has exactly one anonymous chief cupbearer and one
+  anonymous chief baker**, and the one other biblical officer with the title — the Assyrian *rab šāqê*,
+  literally *chief cupbearer*, of 2 Kings 18:17 — **reaches the English Bible as a proper name,
+  Rabshakeh.** No collision is foreseeable; if one ever arises the `AGENTS.md` rule applies and both
+  pages get qualified in the pass that creates the second. **The reasoning is written onto the cupbearer's
+  page** so a later agent does not have to reconstruct it.
+- **No `Dreams` theme page.** [[Prophecy and Vision]] already tracks every dream in Genesis by verse and
+  defines itself as *"God putting words in a human mouth, and showing a human being something"*.
+  **Splitting dreams out would divide one body of material at exactly the point where the cycle makes
+  dreams the dominant mode.** The theme page took a long keyed entry instead. **This is the reverse of
+  last pericope's call on [[Sexual Sin]]**, and the difference is that there was no existing page holding
+  the material and here there is.
+- **Five connection pages, which is more than a usual pass.** Four are word-level threads that start in
+  this chapter — *pātar*/*pəšar*, *nāśāʾ rōʾš*, *tālâ ʿal-ʿēṣ*, and *zākar*/*mnēsthēti mou*. **The
+  fifth, [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]], is a coincidence rather than a
+  thread and says so in its first line** — it exists because the observation (Scripture's only two
+  birthday parties, and a head comes off at both) is striking enough that a reader will make it, **and
+  should find that the wiki has already checked it and declined the inference** rather than rediscovering
+  it and assuming it means something.
+- **A distinction recorded rather than a link made.** The cup of 40:11 is ***kôs***; the divining cup of
+  44:2, 5 is ***gābîaʿ***. **Different words**, and nothing in Genesis 40 connects dream-reading to
+  divination — quite the reverse. Noted on
+  [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] because the English *cup* in both places
+  invites a link the Hebrew does not make.
+- **No connection page for the Egyptian dream manuals** (Chester Beatty III and its kin), whose
+  two-column *if a man sees X, it means Y* format is the professional apparatus the chapter's prisoners
+  are cut off from. **The parallel is real and is noted on the passage page**, but `AGENTS.md` defines a
+  connection page as a link *within* Scripture — **the same reasoning that kept the *Tale of Two
+  Brothers* off the wiki last pericope.**
+- **Boundary and title both used as drawn.** 40:1 opens *"after these things"* with a new cast and 41:1
+  says *"after two full years"*, so **the two-year gap is the one boundary marker Genesis states in
+  words.** A merger with chapter 41 was considered — 40:23 is a cliffhanger 41 resolves — and rejected:
+  **40 is a complete demonstration in itself** (prediction, three-day interval, fulfilment, verdict) and
+  41 is 57 verses. *Joseph Interprets Two Dreams* was rejected for putting the interpreter at the centre
+  of a chapter whose last verse is about him being forgotten. **No other book has a passage page by this
+  title**, so no `(Book)` qualifier.
+
+### Ambiguities flagged and not resolved
+
+- **Is 40:14 a failure of faith?** The devotional tradition reads Joseph's request as self-help that God
+  corrected with two extra years, and **Genesis Rabbah ties the two years of 41:1 to the two forms of
+  *zākar* in the verse**, one year per stem. **The text says none of it**: no narrator's comment, no
+  divine speech, no consequence named as a consequence, and **40:23's grammatical subject is the
+  cupbearer.** Set beside Samson, Hannah, Job and Nehemiah, asking to be remembered is what people in
+  Scripture do when they have no leverage. **Both readings set out, neither adopted** — the same posture
+  taken on *did Potiphar believe his wife?* last pericope.
+- **Who is in charge of the prison?** 39:22–23 gives the whole facility into Joseph's hand and says *the
+  keeper of the prison* stopped looking at anything; **40:3–4 has *the captain of the guard* place the
+  officers and assign Joseph to them, with no keeper mentioned.** The accounts are compatible — a keeper
+  running the building under the minister who owns it — **and they are also the sort of seam that could
+  mark two hands.** Recorded; nothing argued from it.
+- **Does Potiphar's use of Joseph at 40:4 bear on 39:19?** The man who imprisoned him for assaulting his
+  wife details him to attend the king's own household officers. **Either an administrative fact with
+  nothing behind it, or the clearest circumstantial support for the reading that he did not believe
+  her.** Added to the evidence list on [[Potiphar]]; **no reading adopted.**
+- **The baker's basket.** *Sallê ḥōrî* is *white bread* or *wicker/openwork*; **both recorded, neither
+  adopted.**
+
+### Links deliberately left for later pericopes
+
+All given as plain scripture references rather than wikilinks, so none is a link-check finding:
+**41:1** (*"after two full years"*); **41:8, 24** (the magicians who fail); **41:9–14** (*"I remember my
+faults today"*, and *bôr* a third time); **41:16** (40:8 repeated in a throne room); **41:32** (the
+doubling explained); **42:23** (*mēlîṣ*); **45:4**. Quotations from books not in `raw/` — Exodus,
+Numbers, Deuteronomy, Joshua, Judges, 1–2 Samuel, 1 Kings, 2 Kings, Nehemiah, Esther, Psalms,
+Ecclesiastes, Isaiah, Jeremiah, Daniel, Matthew, Mark, Luke, John, Acts, Galatians and 1 Peter — were
+checked by eye against the WEB.
+
+### Quotation check
+
+The verse-diff script was rebuilt in the scratchpad and made **tolerant of `…` elisions, of trailing
+citations, and of straight-vs-curly quote marks**, and taught to skip block quotes whose citation names
+a book not in `raw/`. Run over every block quote on the pages created and revised here:
+**51 Genesis verse-blocks, 0 mismatches — the whole of chapter 40 quoted verbatim**, plus the 41:9
+re-quote. It caught four real fidelity slips on the way, **all of them fixed before commit**: two
+partial verses quoted without an elision marker, one dropped closing quotation mark, and one closing
+quotation mark added where the WEB has none.
+
+A whole-wiki regression was also run, now loading `raw/bible/Job.md` as well as Genesis:
+**1471 / 1515 verse-blocks match exactly.** **Every one of the 44 flagged blocks that was inspected is
+an artefact of the checker, not a misquotation** — 30 are verbatim fragments of the right verse quoted
+without an elision marker (an older page convention: quote the speech, drop the *and he said*), and the
+rest have citations the script does not recognise, such as an em-dash reference (`— Genesis 8:4` on
+[[Ararat]]) or an italicised one (`*(Genesis 13:6, of Abram and Lot)*` on
+[[The Descendants of Esau]]), or wrap the whole verse in asymmetric quote marks.
+**Two were checked against `raw/` by hand and are exact.** Deciding whether the older fragment
+convention should be normalised is left for a lint pass.
+
+### Pre-existing findings noted, not fixed
+
+- **[[Genesis]]'s `## Key people` list is stale.** It ends at [[Levi]] and **has not been extended since
+  the Joseph cycle began** — [[Judah]], [[Tamar]], [[Joseph]], [[Potiphar]], [[Potiphar's Wife]],
+  [[Pharaoh (of Joseph's time)]] and now these two are all missing from it, although every one of them
+  has a page and an index row. **Not fixed here**, because the gap spans five pericopes and belongs to a
+  lint pass rather than to an ingest; recorded as debt.
+- **Still open from earlier entries**: the stale *(not yet ingested)* marker on [[The Tower of Babel]]
+  pointing at Genesis 19:1–29; the `wiki/people/God.md` truncation at 25:11; and the seven older passage
+  pages not yet retro-linked to [[Sexual Sin]].
+- **[[God]] again gets no entry from this pericope.** He does not speak, appear, or act in the chapter,
+  and the narrator does not mention him; the single *ʾĕlōhîm* is Joseph's.
+
+`scripts/link-check.sh` exits 0, with the expected baseline at 64 not-yet-started book pages. It caught
+one real finding on the way — **a wikilink to [[Abimelech (of Abraham's time)]] broken across a line
+wrap** by a reflow, which renders as literal `[[` text and would have vanished from the graph and from
+backlinks with nothing else in the repository able to see it. Fixed and the paragraph rewrapped.
+Genesis stands at 49 / 59 pericopes; the next is *Pharaoh's Dreams and Joseph's Rise*, Genesis 41:1–57.

@@ -97,6 +97,13 @@ close to the book's whole point about who may speak for the tradition. See
   them; Job answers in chapter 21 by counting
 - [[The Lamp of the Wicked Put Out]] — a Proverbs sentence read backwards, and the fifteen degrees
   that separate wisdom from accusation
+- [[The Cupbearer and the Baker]] — Genesis 40:8; **the Bible's first professional competence claimed
+  for God in the act of using it.** *"Don't interpretations belong to God?"* is [[Joseph]]'s disclaimer,
+  issued to two Egyptians in the sentence before he interprets, and repeated verbatim to a king at
+  41:16 — *"it is not in me"*. **Egypt had a trained apparatus for this work** and the chapter's whole
+  point is that it is not in the manual. **This is the origin of a biblical type — the exile who reads
+  what the empire's own experts cannot** — and Daniel inherits both the career and the disclaimer. See
+  [[Do Not Interpretations Belong to God - Joseph and Daniel]]
 
 ## Related themes
 

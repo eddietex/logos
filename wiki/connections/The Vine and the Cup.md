@@ -12,6 +12,8 @@ tags: [connection]
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:18, bread and wine brought out by a priest
 - [[Lot and His Daughters]] — Genesis 19:30–38, Lot made drunk on two consecutive nights and, twice,
   not knowing
+- [[The Cupbearer and the Baker]] — Genesis 40:9–11, 21, the vine in a prisoner's dream and the cup put
+  into a king's hand
 - Genesis 49:11–12 — Judah's blessing: *"He has washed his garments in wine… his eyes will be red with
   wine"*
 - Numbers 6:1–4 — the Nazirite, separated from wine, vinegar, grapes, skins, and seeds
@@ -49,6 +51,18 @@ Genesis 9:20 is where this begins, and it begins in the right place: **Noah is n
 relief from the ground Yahweh cursed**, and the first thing the relieved ground gives him is wine. On
 the good reading, the comfort his father hoped for arrives as a crop. See
 [[Comfort from the Cursed Ground - Naming Noah]].
+
+**The cup that is only a cup.** Between the provisioning and the wrath there is one occurrence that
+carries no freight at all, and it is worth marking precisely because everything around it does.
+Genesis 40:9–11 has a prisoner dream a vine with three branches that buds, blossoms and ripens in a
+single clause, *"and I took the grapes, and pressed them into Pharaoh's cup, and I gave the cup into
+Pharaoh's hand."* **It is the Bible's only cup that is neither blessing nor judgment nor covenant —
+it is a job description.** The clause repeats three times in eleven verses, in the dream, in the
+interpretation (40:13), and in the fulfilment (40:21), and **what it signifies each time is
+reinstatement to an office.** Two details are worth keeping: **the growing season compressed into one
+motion is what tells Joseph the interval is days and not years**, and **pressing fresh grapes straight
+into a cup is not how anyone made wine** — Egyptian or otherwise — which marks the whole image as dream
+logic rather than viticulture. See [[The Cupbearer and the Baker]].
 
 **Wine as stupor and exposure.** Then the same verse's crop lays him out uncovered in his tent, and
 the Bible's first vineyard produces its first drunkenness eleven Hebrew words later. The pairing of

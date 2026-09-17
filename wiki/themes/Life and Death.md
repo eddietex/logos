@@ -244,6 +244,12 @@ the rest of the canon.
   Sadducees could think the law a decisive argument against resurrection** (Matthew 22:23–33) — and
   why the answer they get is not about levirate law at all. See
   [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
+- [[The Cupbearer and the Baker]] — Genesis 40:9–19; **two dreams given on the same night in the same
+  room, one a job and one a corpse, and the difference between the two interpretations is two Hebrew
+  words.** *"Pharaoh will lift up your head, and restore you to your office"* becomes *"Pharaoh will
+  lift up your head **from off you**"*. **Scripture makes a pun carry a death sentence**, and the
+  interpreter does not soften, delay, or decline it. See
+  [[Lift Up Your Head - One Idiom and Two Verdicts]]
 
 ## Related themes
 

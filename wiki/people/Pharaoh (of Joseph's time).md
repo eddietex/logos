@@ -37,6 +37,25 @@ have been proposed from the Twelfth Dynasty through the Hyksos period; **none is
 Scripture**, and the naming convention exists precisely so that a filename does not smuggle a chronology
 in.
 
+### In Genesis 40 — the first thing he does
+
+**Three chapters in, he acquires a verb.**
+
+**He is angry** — ***wayyiqṣōp***, 40:2 — at two household officers for an offence Genesis never states,
+and he imprisons them without a hearing that the text reports. **Then he holds a birthday feast for his
+whole staff and issues two opposite verdicts in one sentence** (40:20–22): the cupbearer restored to the
+cup, the baker hanged on a tree.
+
+**He is still not a character.** He does not appear on the page, speak a word, or learn that anyone in
+his prison predicted either outcome. **What the chapter gives is the institution operating** — arbitrary
+detention at the king's displeasure, a muster of servants at a feast, and an execution by public
+exposure — **and the one Egyptian custom Scripture records nowhere else**: ***yôm hulledet***, the day
+of his being born, **the only explicit birthday celebration in the Hebrew Bible.** See
+[[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]].
+
+**The man he restores is the man who will say Joseph's name to him, two years late** (41:9–13). **The
+chapter's whole significance for him is that he gets his cupbearer back.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
@@ -45,7 +64,6 @@ This page grows as those pericopes arrive; what follows is the shape of it.
 Israelite.** Abram lied to [[Pharaoh (of Abram's time)]] about his wife; Isaac lied to
 [[Abimelech (of Isaac's time)]] about his. **This Pharaoh is told the truth, twice, and acts on it.**
 
-His cupbearer and baker dream in Potiphar's prison and he executes one and restores the other (40:20–22).
 **Then he dreams himself** — seven fat cows and seven lean, seven good ears and seven blighted — and his
 wise men fail (41:1–8). **He hears Joseph say *"It is not in me: God will give Pharaoh an answer"***
 (41:16), and then says the thing no other king in Genesis says: ***"Can we find such a one as this, a
@@ -69,9 +87,10 @@ reached.**
   37:36, [[Joseph Sold into Slavery]]
 - His officer's estate prospers; his prison receives Joseph — *"the place where the king's prisoners
   were bound"* — Genesis 39:1, 20, [[Joseph in Potiphar's House]]
-- His cupbearer and baker offend him and are imprisoned in the captain of the guard's house — Genesis
-  40:1–3 *(not yet ingested)*
-- The birthday verdict: the cupbearer restored, the baker hanged — Genesis 40:20–22 *(not yet ingested)*
+- His cupbearer and baker offend him; he is angry, and imprisons them in the captain of the guard's
+  house — Genesis 40:1–3, [[The Cupbearer and the Baker]]
+- The birthday verdict: a feast for all his servants, the cupbearer restored, the baker hanged —
+  Genesis 40:20–22
 - His two dreams; the magicians fail; Joseph is brought from the dungeon — Genesis 41:1–14 *(not yet
   ingested)*
 - *"Can we find such a one as this, a man in whom is the Spirit of God?"*; Joseph made second in Egypt —
@@ -94,10 +113,19 @@ reached.**
   prison.** A false charge is what puts a Hebrew slave into the same building as the king's own
   servants, and **the cupbearer held there is the man who eventually says his name to this Pharaoh**
   (41:9–14)
+- [[The Cupbearer and the Baker]] — Genesis 40:1–3, 20–22; **the first chapter in which he acts.** He is
+  angry, he imprisons two household officers for an offence Genesis withholds, and at his birthday feast
+  he restores one and hangs the other. **He never appears on the page, speaks no word, and does not
+  learn that a prisoner predicted both verdicts three days in advance.** The feast supplies **the only
+  explicit birthday in the Hebrew Bible**, and the idiom the verse uses of both men — *lifted up the
+  head* — is the census formula, which holds the outcome open for one more clause
 
 ## Related people
 
 - [[Potiphar]] — his *sārîs* and captain of the guard, who buys Joseph
+- [[The Chief Cupbearer]] — the officer whose disgrace, imprisonment and restoration he orders, and the
+  only person who ever tells him about Joseph
+- [[The Chief Baker]] — the officer he hangs at his own birthday feast
 - [[Joseph]] — whose dreams he will need and whose interpretation he will believe
 - [[Pharaoh (of Abram's time)]] — the earlier bearer of the same title, who was lied to about a wife,
   struck with plagues, and sent the patriarch away; **the contrast between the two is the sharpest

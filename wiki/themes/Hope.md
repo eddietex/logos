@@ -88,6 +88,12 @@ is close because you cannot bear to sit in the dark with him.
 - [[Bildad's Second Speech]] — the counter-image. Job had said at 14:7 that a felled tree has hope
   of sprouting; 18:16 dries the roots and cuts the branch, and 19:10 concedes the picture and names
   the gardener
+- [[The Cupbearer and the Baker]] — Genesis 40:14, 23; **a man makes the only request he ever makes,
+  is right about everything, and waits two more years.** The chapter gives the request and its failure
+  nine verses apart and **passes no comment on the interval**; Psalm 105:19's *"until the time that his
+  word happened, and Yahweh's word proved him true"* is the only line in Scripture that reads the delay
+  as anything. **Genesis simply ends the chapter on the forgetting** and lets 41:1's *"two full years"*
+  stand unexplained
 
 ## Related themes
 

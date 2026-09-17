@@ -116,6 +116,13 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   your body"* — **and the first Israelite the verb lands on is a seventeen-year-old, sarcastically, by the
   men about to sell him.** *Māšal* is also **the Eden verb** (3:16; 4:7), the vocabulary of contested
   mastery inside a family. See [[Kings Will Come Out of You]]
+- [[The Cupbearer and the Baker]] — Genesis 40:1–4, 20–22; **the first interior view of a royal
+  household in Scripture.** Two named offices — the chief cupbearer, who handles what the king drinks
+  and is therefore the last defence against poison, and the chief baker — a court that detains at the
+  king's displeasure with no hearing recorded, **a royal prison inside a minister's private residence**,
+  a birthday feast for the whole staff, **a muster of servants described with the census idiom**, and an
+  execution by exposure. **The king never appears, speaks, or knows that a prisoner predicted his own
+  verdicts**
 
 ## Related themes
 

@@ -198,6 +198,12 @@ has been argued.
   coitus interruptus and **the reason given is the defrauded brother**, not the spilled seed; the later
   moral tradition built on it is real, old, and outside what Genesis reports. **The wiki records the
   chapter's refusal to rank any of this** rather than supplying the ranking
+- [[The Cupbearer and the Baker]] — Genesis 40:1; 41:9; ***ḥāṭāʾ* at both ends of the episode, and
+  Genesis never says what either offence was.** Two officers *"offended their lord"* (40:1) — the plain
+  verb *sinned* — and the text supplies no act, no trial, and no proportion between the two sentences
+  handed down. **Then the restored officer uses the same root of himself**, about what he did to a
+  prisoner: *"I remember my faults today"* (41:9). **The chapter that opens with men sinning against a
+  king closes with a man sinning against a slave**, and only the second is ever named as such
 
 ## Related themes
 

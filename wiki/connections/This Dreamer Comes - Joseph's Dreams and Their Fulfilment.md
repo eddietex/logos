@@ -19,6 +19,10 @@ tags: [connection]
 - **Genesis 43:26**; **44:14**; **50:18** — the second, third, and fourth bowings.
 - **Genesis 47:31** — *"Israel bowed himself on the bed's head"* — the father's one bow, and it is not to
   his son.
+- [[The Cupbearer and the Baker]] — **Genesis 40:5, 8, 12, 18**: the cycle's second pair of dreams, the
+  first that need an interpreter, and the first attributed to God.
+- **Genesis 41:32** — *"the dream was doubled to Pharaoh, because the thing is established by God, and
+  God will shortly bring it to pass."*
 - **Revelation 12:1** — *"a woman clothed with the sun, and the moon under her feet, and on her head a
   crown of twelve stars."*
 
@@ -86,6 +90,29 @@ combination — unattributed dreams in a chapter with no God in it — **as a fe
 reticence rather than as an argument that the dreams were merely ambitious.** The book's own retrospect,
 when it finally comes, is put in Joseph's mouth and not the narrator's: *"God sent me before you to
 preserve life"* (45:5), *"you meant evil against me, but God meant it for good"* (50:20).
+
+### The cycle dreams in pairs, and only the third pair is explained
+
+**Three pairs of dreams, in three chapters, and Genesis states the rule only at the last one.**
+
+| | **the dreamer** | **needs an interpreter?** | **attributed to God?** |
+|---|---|---|---|
+| **37:5–11** | Joseph, twice | **no** — the brothers read it correctly and unprompted | **no** |
+| **40:5–19** | the cupbearer and the baker, **one dream each, in one night** | **yes** — *"there is no one who can interpret it"* | **yes**, by the interpreter: *"don't interpretations belong to God?"* |
+| **41:1–32** | Pharaoh, twice | **yes** — the magicians fail | **yes**, explicitly: *"God has shown Pharaoh what he is about to do"* |
+
+**The rule, when it finally comes, is about the doubling itself**: *"the dream was doubled to Pharaoh,
+because the thing is established by God, and God will shortly bring it to pass"* (41:32). **Read
+backwards, it certifies Joseph's own two** — and it certifies them without anybody in Genesis 37 knowing
+it.
+
+**But the middle pair works differently from the other two, and the difference is deliberate.** Joseph's
+pair and Pharaoh's are **one dreamer's dream said twice in two images**. [[The Cupbearer and the Baker]]
+is **two dreamers, one night, one dream each** — and the two interpretations are **identical in form and
+opposite in content**, right down to sharing an idiom: *"Pharaoh will lift up your head"* (40:13) and
+*"Pharaoh will lift up your head **from off you**"* (40:19). **Doubling here does not confirm a message;
+it sets restoration and execution in the same grammar** and lets the reader watch the same three words
+mean two things. See [[Lift Up Your Head - One Idiom and Two Verdicts]].
 
 ### *Baʿal ha-ḥălōmôt*
 

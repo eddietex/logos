@@ -479,6 +479,23 @@ even fratricidal betrayal into rescue (Joseph).
   facing the act names the category, in a book with no commandment in it yet.** Then a garment is taken
   off him and produced as evidence for the second time in three chapters, **and for the second time he is
   not recorded as saying a word in his own defence.**
+  Then *[[The Cupbearer and the Baker]]* turns him from the object of the sentences into their subject.
+  **The book gives the change its own vocabulary**: *pātar*, to interpret, and *pitrôn*, an
+  interpretation, **occur fourteen times in chapters 40 and 41 and nowhere else in the Hebrew Bible.**
+  Two of Pharaoh's household officers dream on one night in the prison inside Potiphar's house, and
+  **the first thing anyone in Scripture says about how dreams work is said by the slave waiting on
+  them**: *"don't interpretations belong to God?"* (40:8) — **a disclaimer he issues in the sentence
+  before he exercises the skill**, and repeats verbatim in a throne room at 41:16. The two
+  interpretations are **the same sentence with two Hebrew words added**: *"Pharaoh will lift up your
+  head, and restore you to your office"* becomes *"Pharaoh will lift up your head **from off you**"*,
+  and **the chapter runs the idiom past the reader a third time, in the census sense, before splitting
+  the two men at the birthday feast.** In between sits the hinge: **the only request Joseph makes of
+  anyone in the book** — *"remember me when it will be well with you"* — and **his only protest of
+  innocence**, in which he calls the prison *the pit*, his brothers' word for the cistern, names his
+  homeland ***the land of the Hebrews***, a phrase found nowhere else in Scripture, and **says he was
+  stolen without saying by whom.** Both interpretations come true inside three days. **Then the chapter
+  ends on seven words that say the same thing twice** — *"didn't remember Joseph, but forgot him"* —
+  **and the book waits two years before returning to him.**
 
 ## Pericopes
 
@@ -545,7 +562,7 @@ merge, or reorder them freely.
 - [x] [[Joseph Sold into Slavery]] — Genesis 37:1–36
 - [x] [[Judah and Tamar]] — Genesis 38:1–30
 - [x] [[Joseph in Potiphar's House]] — Genesis 39:1–23
-- [ ] The Cupbearer and the Baker — Genesis 40:1–23
+- [x] [[The Cupbearer and the Baker]] — Genesis 40:1–23
 - [ ] Pharaoh's Dreams and Joseph's Rise — Genesis 41:1–57
 - [ ] The Brothers' First Journey to Egypt — Genesis 42:1–38
 - [ ] The Second Journey — Genesis 43:1–34

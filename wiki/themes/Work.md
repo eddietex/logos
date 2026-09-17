@@ -124,6 +124,12 @@ the seventh day a blessing. See [[Sabbath]].
   of animals, I didn't bring to you. I bore its loss"* — **the loss the law of Exodus 22:13 says a
   keeper does not have to bear.** See
   [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]]
+- [[The Cupbearer and the Baker]] — Genesis 40:9–11, 16–17, 21; **both dreams are simply the job being
+  done.** The cupbearer presses grapes and puts the cup in the king's hand; the baker carries the king's
+  bread on his head. **Neither dream contains a symbol that is not an office**, which is why the one
+  intrusion — birds eating out of the top basket — is the whole of the second interpretation. **And the
+  restoration is described entirely as the resumption of a task**: *"he gave the cup into Pharaoh's
+  hand"*, the same clause the dream ended on
 
 ## Related themes
 

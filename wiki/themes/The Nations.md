@@ -242,6 +242,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   (***ʾallûp̄***, *clan-chief*). **It also registers the people Edom displaced**: eleven verses for
   the Horites, whom the rest of the Torah mentions only to say they were destroyed. See
   [[Seir the Horite]] and [[Edom]]
+- [[The Cupbearer and the Baker]] — Genesis 40:5–8; **Egyptians receive true revelation in their
+  sleep and cannot read it.** The pattern is Genesis's most consistent and least explained habit — a
+  dream to [[Abimelech (of Abraham's time)]] at 20:3, a dream to [[Laban]] at 31:24, an accurate omen at
+  30:27 — **and here it reaches two palace servants in a jail.** What is new is that **the outsiders
+  need an Israelite to read it**, and that the Israelite tells them where the reading comes from without
+  ever saying the covenant name to them: he says ***ʾĕlōhîm***, as he did at 39:9 and will at 41:16
 
 ## Related themes
 

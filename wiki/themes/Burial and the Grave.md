@@ -113,6 +113,13 @@ assumption is that a body left out is a person left out.**
   of *šəʾôl* in the Bible**, and it is a father assuming his son has arrived somewhere he has not. **The
   chapter's only actual burial is a metaphor** — a boy lowered into a dry cistern and taken out again. See
   [[Sheol]]
+- [[The Cupbearer and the Baker]] — Genesis 40:19; ***"the birds will eat your flesh from off you"*** —
+  **the Bible's first threat of a body left unburied**, and the horror in the sentence is not the dying.
+  Hanging on a tree in the Old Testament is display rather than method, **and what the display denies is
+  burial** — which is why Deuteronomy 21:22–23 will time-limit it to one day and require the body taken
+  down. The same image runs through Deuteronomy 28:26, Goliath's boast at 1 Samuel 17:44, Jeremiah 7:33,
+  and **Rizpah's months-long vigil keeping the birds off seven bodies** (2 Samuel 21:10). See
+  [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

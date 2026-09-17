@@ -168,6 +168,12 @@ addressing a slave by name and no one else in the story doing so.
   never says who took the money. He arrives in Egypt as the property of [[Potiphar]], *śar haṭṭabbāḥîm*,
   and the first Israelite in Egypt is a slave. See
   [[Twenty Pieces of Silver - The Price of a Brother]]
+- [[The Cupbearer and the Baker]] — Genesis 40:4, 14–15; **the slave waits on the men who wait on the
+  king.** *Wayšāret*, *ministered* — **the verb of 39:4**, used a third time of Joseph in two chapters,
+  now of a convicted man attending two of Pharaoh's household officers. **The chapter's plot turns
+  entirely on whether a restored courtier will mention a slave's name to a king**, which is the exact
+  measure of what a slave could and could not do for himself; and Joseph's own account of how he got
+  here is *gunnōb gunnabtî*, *I was indeed stolen* — **the verb Exodus 21:16 makes a capital crime**
 
 ## Related themes
 

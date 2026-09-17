@@ -115,6 +115,17 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   **Egypt is also where *ʿibrî*, Hebrew, first becomes a slur** (39:14) — spoken by an Egyptian woman to
   an Egyptian household, and from there it runs straight into Exodus. **The country that will enslave
   Israel is introduced as the country a single Israelite slave makes rich**
+- [[The Cupbearer and the Baker]] — Genesis 40:1–23; **the closest look Scripture ever takes at the
+  inside of an Egyptian court.** Two named household offices — ***śar hammašqîm*** and
+  ***śar hāʾôpîm***, the chief cupbearer and the chief baker, both real posts, **and between them
+  responsible for everything that goes into the king's mouth**; a royal detention facility inside a
+  minister's residence, with a name — ***bêt hassōhar*** — **found only in this narrative and probably
+  an Egyptian loanword**; a birthday feast for the whole palace staff, which supplies **the only
+  explicit birthday in the Hebrew Bible**; execution by exposure on a tree; and **a dream culture with
+  professionals in it**, whose absence from the prison is what makes the chapter possible. The
+  Egyptological detail is dense and correct — stacked baskets carried on the head, grapes for the king's
+  cup, a court that detains at the king's displeasure — **and the word *Egypt* itself occurs three
+  times, always as *the king of Egypt***
 
 ## Related places
 
@@ -148,3 +159,6 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   judge, and the country his offspring leave with great wealth — Genesis 15:13–14,
   [[The Covenant Between the Pieces]]
 - Hagar, an Egyptian, in Abram's household — Genesis 16:1 *(not yet ingested)*
+- Two of Pharaoh's household officers offend him and are jailed in the captain of the guard's house,
+  where a Hebrew prisoner reads their dreams — Genesis 40:1–8, [[The Cupbearer and the Baker]]
+- Pharaoh's birthday feast, and the two verdicts given at it — Genesis 40:20–22

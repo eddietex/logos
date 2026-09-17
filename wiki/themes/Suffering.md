@@ -100,6 +100,12 @@ requires only that you be standing outside it.
   knows they did**, and he is still refusing at 42:38 and 45:28, **twenty-two years later.** **And the
   suffering the chapter does not show is Joseph's**: he is silent from 37:17, and his pleading from the
   cistern is supplied only at 42:21, in the mouths of the men who ignored it
+- [[The Cupbearer and the Baker]] — Genesis 40:15; ***"here also I have done nothing"*** — **Joseph's
+  only protest of innocence in the whole book**, made to a fellow prisoner rather than to a court, and
+  never repeated. He said nothing after the charge in chapter 39 and is never recorded as cleared of it.
+  **The *gam*, *also*, quietly claims he had done nothing in the other place either**, without
+  relitigating it. He calls the prison ***habbôr***, *the pit* — **his brothers' word for the cistern at
+  37:24**
 
 ## Related themes
 

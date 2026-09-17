@@ -104,12 +104,57 @@ line.** **Genesis never records him answering the charge and never records him b
 (39:21–23) restates the estate paragraph (39:2–6) clause for clause — the formula, the master's notice,
 the total delegation, the prospering — **in a worse building.**
 
+### In this pericope — Genesis 40:1–23
+
+**The chapter where he stops being acted on and starts reading.**
+
+**From 37:18 to the end of 39 he is the object of almost every verb in his own story.** Genesis 40 hands
+him a competence, and it is one the book has a special vocabulary for: ***pātar***, to interpret, and
+***pitrôn***, an interpretation, **occur fourteen times in Genesis 40–41 and nowhere else in the Hebrew
+Bible.**
+
+**He does four things here he has never done.**
+
+**He notices.** *"Joseph came in to them in the morning, and saw them, and saw that they were sad"*
+(40:6) — and asks the chapter's only question, *"why do you look so sad today?"* **A prisoner attending
+two of Pharaoh's senior officers reads their faces before he reads their dreams.**
+
+**He states a doctrine.** *"Don't interpretations belong to God?"* (40:8) — ***hălôʾ lēʾlōhîm
+pitrōnîm***, **the first thing anyone in Scripture says about how dreams work**, and a disclaimer he
+issues in the sentence before he does the thing he is disclaiming. **He says *ʾĕlōhîm* to an Egyptian,
+exactly as at 39:9 and exactly as he will at 41:16**; he never speaks the covenant name to an Egyptian
+anywhere in Genesis.
+
+**He passes a death sentence without softening it.** The baker's interpretation is the cupbearer's with
+two Hebrew words added — *mēʿāleykā*, *from off you* — and Joseph gives it whole. See
+[[Lift Up Your Head - One Idiom and Two Verdicts]].
+
+**And he asks for something.** *"Remember me when it will be well with you"* (40:14) — ***zəkartanî***,
+and then the causative ***wəhizkartanî***, *cause Pharaoh to remember me*. **It is the only request
+Joseph makes of anyone in the book**, and **40:23 is its answer**: *"the chief cup bearer didn't remember
+Joseph, but forgot him."* See [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]].
+
+**Verse 15 is his only protest of innocence in Genesis**, and both halves of it are remarkable.
+***"I was stolen away"*** is *gunnōb gunnabtî*, an emphatic passive of ***gānab*** — **the verb
+Exodus 21:16 makes a capital crime** — **and it names no one.** He tells the truth about what was done to
+him and withholds his brothers; nobody in Egypt learns he has any until 45:4. ***"Out of the land of the
+Hebrews"*** is ***ʾereṣ hāʿibrîm***, **a phrase that occurs here and nowhere else in the Bible** — and
+it is his answer to 39:14, where the word was spat at him as an insult. And ***"they should put me into
+the dungeon"*** is ***habbôr***, **the same word as the waterless cistern of 37:24.** The English has
+*pit* there and *dungeon* here; **the Hebrew does not change, and *the pit* is Joseph's own name for
+thirteen years of his life.**
+
+**He is right about everything and it buys him two more years** (41:1). **Genesis offers no comment on
+the interval**; Psalm 105:19's *"until the time that his word happened, and Yahweh's word proved him
+true"* is the only line in Scripture that does. Whether 40:14 was a failure of faith is an old reading
+and **the wiki adopts neither it nor its denial** — see [[The Cupbearer and the Baker]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**A quarter of Genesis is his.** The cupbearer and the baker; Pharaoh's dreams; the rise to second in
-Egypt, a new name, an Egyptian wife, and seven years of grain.
+**A quarter of Genesis is his.** Pharaoh's dreams; the rise to second in Egypt, a new name, an Egyptian
+wife, and seven years of grain.
 
 Then the brothers arrive to buy food and do not know him, and the book spends five chapters on
 recognition. He tests them, weeps repeatedly, plants a cup on Benjamin, and breaks when Judah offers
@@ -149,7 +194,13 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   Genesis 39:7–12
 - Falsely accused, and imprisoned rather than executed; the prison prospers in his hand — Genesis
   39:13–23
-- The dreams of the cupbearer and the baker — Genesis 40 *(not yet ingested)*
+- Assigned to wait on Pharaoh's imprisoned cupbearer and baker — Genesis 40:4,
+  [[The Cupbearer and the Baker]]
+- *"Don't interpretations belong to God?"*; he reads two dreams and both come true in three days —
+  Genesis 40:8–22
+- Asks the cupbearer to remember him, and protests his innocence for the only time in the book —
+  Genesis 40:14–15
+- Forgotten — *"didn't remember Joseph, but forgot him"* — Genesis 40:23
 - Pharaoh's dreams; made second in Egypt — Genesis 41 *(not yet ingested)*
 - The brothers in Egypt; the tests, and the disclosure — Genesis 42–45 *(not yet ingested)*
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
@@ -191,6 +242,15 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   never recorded as answering the charge or being cleared of it.** He is described in the words Genesis
   used of his mother (39:6 against 29:17). **The chapter ends by saying about a prison exactly what it
   said about the house**
+- [[The Cupbearer and the Baker]] — Genesis 40:1–23; **the chapter that gives him the skill the rest of
+  his life runs on**, in a vocabulary the Hebrew Bible uses only here and in the next chapter. He waits
+  on two of Pharaoh's officers, notices their faces, asks the chapter's only question, **denies that
+  interpretation is his and performs it in the next breath**, and delivers a death sentence in the same
+  words as a reprieve with two syllables added. **He makes the only request he makes of anyone in
+  Genesis** (40:14) and **protests his innocence for the only time in the book** (40:15), calling his
+  prison ***the pit*** — his brothers' word — and his homeland ***the land of the Hebrews***, a phrase
+  found nowhere else in Scripture. **Both interpretations come true in three days, and he is forgotten
+  for two years**
 
 ## Related people
 
@@ -210,6 +270,10 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Potiphar's Wife]] — unnamed; the one person in Genesis he argues with, and the one who costs him
   thirteen years
 - [[Pharaoh (of Joseph's time)]] — the king whose court he enters as a captain of the guard's property
+- [[The Chief Cupbearer]] — the prisoner he waits on, reads correctly, and asks for help; **the only
+  person he ever asks for anything**, and the one who forgets him for two years and then says his name
+  to a king
+- [[The Chief Baker]] — the man he tells, without softening it, that he will be dead in three days
 
 ## Themes associated
 
@@ -225,3 +289,6 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Sexual Sin]]
 - [[Favor and Grace]]
 - [[Work]]
+- [[Wisdom]]
+- [[Mediation and Advocacy]]
+- [[Hope]]

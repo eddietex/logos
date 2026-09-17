@@ -147,6 +147,13 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   Esau a country.** *Məgûrê ʾābîw*, **the land of his father's *sojournings***, is the book's standing
   description of what the patriarchs have in Canaan; and **the pericope's action is a boy being carried out
   of it against his will**, the only involuntary departure Genesis records. See [[Land and Sojourning]]
+- [[The Cupbearer and the Baker]] — Genesis 40:15; **called *"the land of the Hebrews"*, and the phrase
+  occurs here and nowhere else in the Bible.** ***ʾEreṣ hāʿibrîm*** is Joseph's own name for home, spoken
+  to an Egyptian prisoner, **and it is built out of the word an Egyptian woman used against him as a
+  slur one chapter earlier** (39:14, 17). **There is no country of that name**: the land is Canaan by
+  every other designation Genesis uses, and the family that holds the promise to it owns one field and
+  a cave. **The only man who ever calls it the Hebrews' land is a slave who has been carried out of
+  it.** See [[Abram the Hebrew - The First Use of the Name]]
 
 ## Related places
 

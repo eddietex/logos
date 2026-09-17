@@ -126,6 +126,11 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   to God in the same breath he calls himself Esau's servant. **The theme's language of favor,
   usually addressed upward to God or a superior, here does both jobs in the same conversation**:
   crediting one relationship while performing deference in the other
+- [[The Cupbearer and the Baker]] — Genesis 40:14; ***ḥesed* asked horizontally, and not given.**
+  *"Please show kindness to me"* — **covenant loyalty, the word the Old Testament reserves for what God
+  is toward Israel and what kin owe each other** — requested by a Hebrew slave from an Egyptian court
+  official who owes him nothing but the truth about a dream. **It is the only thing Joseph ever asks
+  anyone for in Genesis**, and 40:23 is the answer
 
 ## Related themes
 

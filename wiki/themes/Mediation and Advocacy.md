@@ -146,6 +146,12 @@ what Job is asking for.
   *"by the man, whose these are, I am with child."* She does not name him, in private, while under
   sentence of death — **giving the man who could burn her the chance to convict himself instead.** See
   [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
+- [[The Cupbearer and the Baker]] — Genesis 40:14; 41:9–13; **a man asks for an advocate and does not
+  get one.** Joseph's request is precisely for representation — *"make mention of me to Pharaoh"*,
+  ***wəhizkartanî***, cause the king to remember me — **from the one person in the building with access
+  to a king.** The advocacy eventually arrives two years late and **from a man confessing a fault**:
+  *"I remember my faults today"* (41:9). **The theme's usual shape in Genesis is intercession offered
+  unasked**; this is the one place it is asked for and withheld
 
 ## Related themes
 

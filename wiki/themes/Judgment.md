@@ -251,6 +251,12 @@ rule are the conditions the rest of Scripture is set in.
   guilty if she is bound to his house. **The same man reverses himself in one verse**, on evidence he
   is handed privately — which is the wiki's clearest instance of judgment in Genesis being a person
   rather than a procedure
+- [[The Cupbearer and the Baker]] — Genesis 40:1–3, 19–22; **two sentences delivered in identical
+  grammar, and the offence that earned either is never stated.** A king is angry, two officers are
+  imprisoned without a hearing the text reports, and at a birthday feast one is restored and one hanged.
+  **The chapter's interest is entirely in whether the verdicts were correctly foretold, not in whether
+  they were just** — *"as Joseph had interpreted to them"* is the whole of its comment. **Genesis gives
+  the reader no basis for thinking either man deserved what he got**
 
 ## Related themes
 

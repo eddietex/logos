@@ -12,8 +12,9 @@ tags: [connection]
   *"Don't you know that such a man as I can indeed divine?"* *(not yet ingested)*
 - **Genesis 31:19, 30–35** — Laban's *teraphim*, stolen and sat on — [[Jacob's Flight from Laban]],
   and see [[The Teraphim - Household Gods in Genesis and After]]
-- **Genesis 40–41** — dream interpretation credited to God: *"Don't interpretations belong to God?"*
-  (40:8), *"It is not in me. God will give Pharaoh an answer"* (41:16) *(not yet ingested)*
+- [[The Cupbearer and the Baker]] — **Genesis 40:8**: dream interpretation credited to God — *"don't
+  interpretations belong to God?"*; and 41:16, *"it is not in me. God will give Pharaoh an answer"*
+  *(41 not yet ingested)*
 - **Leviticus 19:26; Deuteronomy 18:9–14** — the prohibition, and *"you shall be blameless with
   Yahweh your God"*
 - **Numbers 22–24** — Balaam, hired for divination and made to bless
@@ -64,6 +65,13 @@ real instrument, and **Genesis never says.**
 into does, and divination is what the household Jacob's son ran an empire from is credited with.
 **Both are outside the land, and neither is inside the narrator's voice** — every occurrence of the
 root in Genesis is in a character's mouth.
+
+**And the two cups are not the same word.** The cup [[The Chief Cupbearer]] dreams and puts into
+Pharaoh's hand at 40:11 is ***kôs***, the ordinary drinking cup; the cup planted in Benjamin's sack and
+said to be used for divining at 44:2, 5 is ***gābîaʿ***, a goblet or bowl. **Nothing in Genesis 40
+connects reading a dream to reading a vessel** — quite the reverse, since 40:8 is the first of the two
+refusals above. **The wiki notes the distinction because the English *cup* in both places invites a
+link the Hebrew does not make.** See [[The Cupbearer and the Baker]].
 
 ## Significance
 

@@ -82,6 +82,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   right** rather than a covenant or a righteous man interceding for someone else. The verse triples the
   attribution — *remembered*, *listened*, *opened* — **in a chapter where a fertility drug has just
   changed hands and is never mentioned again.** See [[The Birth of Jacob's Children]].
+- **Genesis 40:14, 23; 41:9** — **the verb handed to a human being, and dropped.** Joseph asks a fellow
+  prisoner to *remember* him and to *cause Pharaoh to remember* him — *zəkartanî* and *wəhizkartanî*,
+  **the root twice in one verse, in two stems** — and the chapter's last line is *"the chief cup bearer
+  didn't remember Joseph, but forgot him."* **The negative and its positive twin, which Hebrew does not
+  usually bother with**, as the last seven words of a chapter. **Genesis has used *zākar* with God as its
+  subject four times and never once without an act in the following clause**; here it is asked of a man
+  and produces two years of silence, until 41:9's *"I remember my faults today"*. See
+  [[The Cupbearer and the Baker]].
 - **Exodus 2:24; 6:5** — *"God remembered his covenant with Abraham, with Isaac, and with Jacob"*:
   four hundred years of silence end in this verb, and the exodus follows from it.
 - **Exodus 20:8; Deuteronomy 5:15; 8:18; 15:15; 16:12** — the command in its human form: remember
@@ -161,6 +169,15 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   way out of itself, *God remembered X*, and an action in the same verse. **What is distinctive here is
   the object.** Noah is a righteous man, Abraham is an intercessor forty miles away, the covenant is an
   oath — **Rachel is simply a woman who has waited**, and the sentence turns toward her by name
+- [[The Cupbearer and the Baker]] — Genesis 40:14, 23; **the theme's negative, and the Bible's first
+  request to be remembered.** Every other one in Scripture is addressed to God — Samson at the pillars,
+  Hannah at Shiloh, Job wanting to be hidden in Sheol and recalled, Nehemiah four times, and the man
+  dying beside Jesus. **Joseph's is the only one aimed at a human being, and the only one that fails.**
+  The chapter puts the request and the failure nine verses apart and **states the failure twice over**,
+  *lōʾ-zākar … wayyiškāḥēhû*, as its closing line. **What the theme says about God is exactly what the
+  chapter shows a man unable to supply**: the verb is an act, and the act does not come.
+  Ecclesiastes 9:15 states the same outcome as a general law — *"yet no one remembered that same poor
+  man"*. See [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
 
 ## Related themes
 
@@ -183,3 +200,6 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - [[Noah]] — the first person God is said to remember
 - [[Rachel]] — the last person God is said to remember in Genesis, and the only woman
 - [[Job (person)]] — who asks to be remembered after death, and cannot see how it could work
+- [[Joseph]] — who asks a man rather than God, and is forgotten for two years
+- [[The Chief Cupbearer]] — **the one person in Scripture asked to remember somebody who simply does
+  not**, and who names it himself two years later as *"my faults"*

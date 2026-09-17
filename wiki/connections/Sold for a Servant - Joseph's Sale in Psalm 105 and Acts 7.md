@@ -51,6 +51,13 @@ what the brothers said they wanted to see the outcome of (*"we will see what wil
 37:20) — **and gives the dreams the divine attribution Genesis 37 declined to give them.** See
 [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] and [[Testing]].
 
+**And it is the only comment anywhere in Scripture on the two years of Genesis 40:23–41:1.** The chapter
+ends on *"the chief cup bearer didn't remember Joseph, but forgot him"* and the next opens on *"after two
+full years"* — **and Genesis says nothing about the interval, does not call it a delay, and does not
+attribute it to anyone.** Psalm 105:19 is the only verse in the Bible that reads those years as
+*for* something. **The wiki notes that the reading is the psalm's and not Genesis's**, exactly as it
+notes that the irons are. See [[The Cupbearer and the Baker]].
+
 ### Acts 7 — the sale as the patriarchs' act
 
 **Stephen's speech goes the other way, and it is the only text in Scripture that names the motive.**

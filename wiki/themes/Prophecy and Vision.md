@@ -46,7 +46,10 @@ happens.
   prayer rather than by speech**. See [[Abraham and Abimelech]].
 - **Genesis 37; 40–41** — dreams as revelation, read by Joseph, given to a foreign king and his
   servants. Revelation in Genesis reaches outsiders as readily as insiders — the pattern Genesis 20:3
-  opens.
+  opens. **And Genesis 40–41 have a vocabulary of their own**: ***pātar***, to interpret, and
+  ***pitrôn***, an interpretation, occur fourteen times across those two chapters and **nowhere else in
+  the Hebrew Bible.** The Aramaic cognate *pəšar* is Daniel's word for the same work. See
+  [[Do Not Interpretations Belong to God - Joseph and Daniel]].
 - **Numbers 12:6–8** — the Torah's own taxonomy: to a prophet God makes himself known *"in a vision"*
   and speaks *"in a dream"*, but with Moses *"mouth to mouth, even plainly, and not in riddles."*
   Genesis 15:1's *maḥăzeh* is the lower of the two registers, and the same rare word recurs in
@@ -178,6 +181,22 @@ happens.
   (37:8) — **which is correct.** The first dream is fulfilled to the letter in four bowings (42:6; 43:26;
   44:14; 50:18); **the second is not, because the sun and the moon never bow.** See
   [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]]
+- [[The Cupbearer and the Baker]] — Genesis 40:5–8, 12–13, 18–19; **the first symbolic dreams in
+  Scripture, and the first statement anywhere in the Bible of how dreams work.** Every earlier dream in
+  Genesis is either speech — God says something and the dreamer wakes knowing it (20:3; 28:13; 31:24) —
+  or self-evident to everyone present (37:5–11, where the brothers supply the reading themselves and are
+  right). **These two need a reader**, and Genesis marks the difference with a vocabulary it uses for two
+  chapters and never again: ***pātar*** and ***pitrôn***, fourteen occurrences in Genesis 40–41 and none
+  in the rest of the Hebrew Bible. When the book needs a *translator* at 42:23 it reaches for a different
+  word, *mēlîṣ* — **it does not confuse converting a language with receiving a disclosure.**
+  **The doctrine is stated in eight Hebrew words by a prisoner**: ***hălôʾ lēʾlōhîm pitrōnîm***, *"don't
+  interpretations belong to God?"* (40:8) — **a disclaimer issued in the sentence before the skill is
+  exercised**, and repeated verbatim in a throne room at 41:16. **40:5 makes the same claim
+  structurally**: *"each man according to the interpretation of his dream"* says the dreams already had
+  interpretations before anyone read them, **so the meaning is a property of the sender and the
+  professionals of 41:8 fail for lack of access rather than lack of skill.** And the content is
+  ordinary: **two Egyptian officials dream their own jobs**, and what makes one dream a death sentence is
+  a flock of birds. See [[Do Not Interpretations Belong to God - Joseph and Daniel]]
 
 ## Related themes
 
@@ -201,3 +220,8 @@ happens.
   a prophet
 - [[Laban]] — the Bible's first diviner, who gets the right answer by a means the law will forbid and
   is never told so
+- [[Joseph]] — the first interpreter in Scripture, and the first person to say where an interpretation
+  comes from; **the only major figure in Genesis God never speaks to, given the job of telling other
+  people what God has said to them**
+- [[The Chief Cupbearer]] and [[The Chief Baker]] — two Egyptian officials who receive true revelation
+  in their sleep and cannot read it

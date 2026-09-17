@@ -68,6 +68,9 @@ gives the clause no object.**
 - **He confines him inside his own establishment.** 40:3 places the royal prison *"in the house of the
   captain of the guard"* — **so Joseph moves from one part of Potiphar's house to another**, into the
   facility holding Pharaoh's own detainees rather than a slave pen.
+- **He then puts him in charge of the king's own officers.** *"The captain of the guard assigned them to
+  Joseph, and he took care of them"* (40:4) — ***wayyipqōd***, appointed — **which is a use of the
+  convicted man, not a punishment of him.**
 - **No hearing, no verdict, and no word from Joseph either.**
 
 **Reading him as privately unconvinced is a reasonable inference and it is an inference.** The wiki
@@ -82,8 +85,8 @@ records it as one and **adopts no reading of 39:19.** He is not named again afte
   [[Joseph in Potiphar's House]]
 - His house prospers *"for Joseph's sake"*; he hands over everything — Genesis 39:2–6
 - His wife's accusation; his anger; Joseph imprisoned in his house rather than killed — Genesis 39:19–20
-- The royal prison is in his house, where the cupbearer and the baker are held — Genesis 40:3 *(not yet
-  ingested)*
+- The royal prison is stated to be in his house; he places two of Pharaoh's officers in it and assigns
+  Joseph to wait on them — Genesis 40:3–4, [[The Cupbearer and the Baker]]
 
 ## Appears in
 
@@ -94,12 +97,21 @@ records it as one and **adopts no reading of 39:19.** He is not named again afte
   buys, sees that Yahweh is with the man, promotes him to steward of the whole estate, hands over
   everything but his own table, hears an accusation, and imprisons rather than kills. **His anger at
   39:19 is given no object**, and the prison he chooses is inside his own house
+- [[The Cupbearer and the Baker]] — Genesis 40:3–4; **present only as a title, and his name is not used.**
+  *"The captain of the guard"* places two of Pharaoh's household officers *"in the house of the captain
+  of the guard"* — **the verse that states outright what 39:20 implied** — and **assigns Joseph to wait
+  on them.** That the man who imprisoned Joseph for assaulting his wife then details him to attend the
+  king's own servants is either an administrative fact with nothing behind it or **the clearest
+  circumstantial support for the reading that he did not believe her**; the wiki, as at 39:19, sets it
+  out and adopts neither
 
 ## Related people
 
 - [[Joseph]] — the slave he buys for twenty pieces of silver's worth of boy, and puts in charge of
   everything he owns
 - [[Potiphar's Wife]] — unnamed; the accusation he acts on without Genesis saying whether he believed it
+- [[The Chief Cupbearer]], [[The Chief Baker]] — the two of Pharaoh's officers he places in his own
+  house's prison and assigns to Joseph's care
 - [[Pharaoh (of Joseph's time)]] — his master, named here only as the possessor of his office
 - [[Ishmael]], [[Keturah]] — through the traders of 37:25–28, whose two designations Genesis uses
   interchangeably; Potiphar buys from Midianites at 37:36 and from Ishmaelites at 39:1

@@ -140,6 +140,12 @@ noticing into doctrine.
   earlier to install a conclusion they never had to assert. **Used once to make a lie unnecessary, and
   once to make a confession unavoidable.** See
   [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
+- [[The Cupbearer and the Baker]] — Genesis 40:13, 19, 20; **a chapter built on a pun that decides who
+  lives.** ***Nāśāʾ rōʾš***, *lift up the head*, three times in eight verses in three senses —
+  reinstatement, decapitation, and the neutral census idiom of *taking the sum* — **and the second is
+  the first with *mēʿāleykā*, *from off you*, added.** The chapter also holds **two words found nowhere
+  else in the Hebrew Bible**, *pātar* and *pitrôn*, and **one phrase found nowhere else at all**,
+  *"the land of the Hebrews"* (40:15). See [[Lift Up Your Head - One Idiom and Two Verdicts]]
 
 ## Related themes
 

@@ -172,6 +172,12 @@ will finally go both ways.
   rightly (38:26); [[Joseph]] recognises his brothers while they do not recognise him (42:7–8).**
   Three of the four get it wrong, and the one who gets it right is the one being convicted. See
   [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]
+- [[The Cupbearer and the Baker]] — Genesis 40:6–7, 16; **Joseph reads two faces before he reads two
+  dreams.** *"He saw them, and saw that they were sad"* — *zōʿăpîm* — and then asks the chapter's only
+  question, *"why are your faces evil today?"* **The man with the least standing in the room is the one
+  who notices.** Then the seeing runs the other way and costs someone: *"when the chief baker **saw**
+  that the interpretation was good"* (40:16) is why he volunteers. **And the man Joseph reads correctly
+  does not see him at all** (40:23)
 
 ## Related themes
 

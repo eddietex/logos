@@ -40,7 +40,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
 | [[The Table of Nations at Pentecost]] | typology | Genesis 10:1–32 · Genesis 11:1–9 · Acts 2:5–11 · Revelation 5:9 · Revelation 7:9 · Revelation 14:6 |
 | [[Nimrod and the Kingdoms of Shinar and Assyria]] | thread | Genesis 6:4 · Genesis 10:8–12 · Genesis 11:1–9 · 1 Chronicles 1:10 · Micah 5:6 · 2 Kings 17:5–23 · Daniel 1:1–2 |
-| [[The Vine and the Cup]] | thread | Genesis 9:20–21 · Genesis 19:30–38 · Numbers 6:1–4 · Psalm 104:15 · Proverbs 23:29–35 · Isaiah 5:1–7 · Jeremiah 25:15–29 · John 2:1–11 · John 15:1–8 · Matthew 26:27–29 · Ephesians 5:18 |
+| [[The Vine and the Cup]] | thread | Genesis 9:20–21 · Genesis 19:30–38 · Genesis 40:9–11 · Numbers 6:1–4 · Psalm 104:15 · Proverbs 23:29–35 · Isaiah 5:1–7 · Jeremiah 25:15–29 · John 2:1–11 · John 15:1–8 · Matthew 26:27–29 · Ephesians 5:18 |
 | [[A Name for Ourselves and a Great Name]] | parallel | Genesis 6:4 · Genesis 11:4 · Genesis 12:2 · 2 Samuel 7:9 · Isaiah 56:5 · Philippians 2:6–11 |
 | [[Let Us Go Down - The Divine Plural in Genesis]] | thread | Genesis 1:26 · Genesis 3:22 · Genesis 11:7 · Genesis 6:2 · Job 1:6 · Isaiah 6:8 · 1 Kings 22:19–22 · Psalm 82:1 |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
@@ -130,7 +130,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
 | [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
-| [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] | thread | Genesis 30:27 · Genesis 31:19, 30–35 · Genesis 44:5, 15 · Leviticus 19:26 · Deuteronomy 18:9–14 · Numbers 22–24 · Numbers 23:23 |
+| [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] | thread | Genesis 30:27 · Genesis 40:8, 11 · Genesis 31:19, 30–35 · Genesis 44:5, 15 · Leviticus 19:26 · Deuteronomy 18:9–14 · Numbers 22–24 · Numbers 23:23 |
 | [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Deuteronomy 26:5–9 |
 | [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Amos 3:12 · John 10:11–13 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
@@ -149,13 +149,18 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
 | [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
-| [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 42:6, 9 · Genesis 43:26 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 |
+| [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 |
 | [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 |
 | [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
-| [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 |
+| [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 40:23–41:1 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
 | [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 |
 | [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 |
 | [[Sin Against God - Joseph at 39.9 and David at Psalm 51]] | thread | Genesis 20:6, 9 · Genesis 39:9 · Genesis 42:22; 44:16 · Exodus 20:14 · 2 Samuel 12:13 · Psalm 51:4 · Luke 15:18, 21 |
+| [[Do Not Interpretations Belong to God - Joseph and Daniel]] | parallel | Genesis 40:5–8 · Genesis 41:8, 15–16, 25, 38–39 · Genesis 42:23 · Daniel 1:17–20 · Daniel 2:1–11, 27–30, 47 · Daniel 4:4–9 · Daniel 5:7–12 |
+| [[Lift Up Your Head - One Idiom and Two Verdicts]] | thread | Genesis 40:13, 19, 20 · Exodus 30:12 · Numbers 1:2 · Judges 8:28 · 2 Kings 25:27–30 · Psalm 3:3 · Psalm 27:6 · Psalm 110:7 · Jeremiah 52:31–34 |
+| [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]] | thread | Genesis 40:19, 22 · Numbers 25:4 · Deuteronomy 21:22–23 · Joshua 8:29 · Joshua 10:26–27 · 2 Samuel 21:9–13 · Esther 7:9–10 · John 19:31 · Acts 5:30 · Galatians 3:13 · 1 Peter 2:24 |
+| [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]] | thread | Genesis 40:14, 23 · Genesis 41:9 · Judges 16:28 · 1 Samuel 1:11 · Nehemiah 5:19; 13:14 · Job 14:13 · Psalm 106:4 · Isaiah 38:3 · Ecclesiastes 9:15 · Luke 23:42 |
+| [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
