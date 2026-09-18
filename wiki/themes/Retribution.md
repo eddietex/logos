@@ -117,6 +117,12 @@ verdicts.
   ruin, the accuser infers hire from prosperity. **The premise is discredited in chapter 1, before a
   friend has opened his mouth**, and the reader spends twenty-five chapters watching four men reason
   from it anyway
+- [[The Second Test]] — **the doctrine arrives as a disease, and makes the friends' case before they
+  speak.** *Šəḥîn rāʿ*, a malignant boil *"from the sole of his foot to his head"* (2:7), is the
+  affliction of Deuteronomy 28:35's curse list, word for word and limit for limit. **The men who
+  arrive four verses later are not being obtuse: they are reading a symptom the Torah designates as
+  the mark of a covenant-breaker, and the rules return a false verdict.** This is why 42:7 is hard —
+  God does not rebuke them for stupidity. See [[The Boil of Deuteronomy 28 on a Blameless Man]]
 - [[Eliphaz's Second Speech]] — the doctrine's fullest statement in the book, and 15:6's method for
   making it immune to counter-evidence
 - [[Miserable Comforters and the Witness in Heaven]] — 16:8, the sufferer watching his own body

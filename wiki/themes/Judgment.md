@@ -177,6 +177,12 @@ rule are the conditions the rest of Scripture is set in.
 - [[The Wager in Heaven and the Four Messengers]] — a court in session with a prosecutor in it and
   **no representation for the man whose case is being heard**, who is not told the proceeding
   happened. [[The Witness in Heaven]] traces what Job starts asking for once he begins asking
+- [[The Second Test]] — the court reconvened with the same composition, and a verdict already
+  returned: God announces at 2:3 that Job has held. **A proceeding that reopens after its own finding
+  is not gathering evidence**, and the book offers no account of why the first result was
+  insufficient — only that the prosecutor amended the charge. The passage also puts a *second* kind
+  of judgment on the page without a court: the boil of Deuteronomy 28, **a sentence written on a body
+  and read by everyone who sees it** — see [[The Boil of Deuteronomy 28 on a Blameless Man]]
 - [[Cain and Abel]] — the template run again, escalated, with a warning added at the front and a
   protective sign at the end
 - [[The Line of Cain and the Birth of Seth]] — the template withheld: eight verses of escalation

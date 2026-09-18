@@ -70,6 +70,10 @@ are reading this passage, or the *1 Enoch* elaboration of it, or something else,
   assembly**: they *"present themselves before Yahweh"*, in the courtier's idiom *hityaṣṣēb ʿal*, and
   the accuser comes *among* them. They do nothing else — the scene assembles them and then moves
   past them to the one member who speaks. See [[The Divine Council]]
+- [[The Second Test]] — Job 2:1, their second and last appearance in the prose frame, staged in the
+  same words as 1:6 with one difference: the accuser now comes *"to present himself before Yahweh"*
+  in his own right, taking the courtier's idiom that 1:6 applied only to the assembly. They turn up
+  once more in the book at 38:7, where they *"shouted for joy"* at the founding of the earth
 
 ## Related people
 

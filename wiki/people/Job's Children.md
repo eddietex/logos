@@ -82,6 +82,10 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   clause, by a wind that strikes *"the four corners of the house"*. They are the climax of a list
   that runs draft animals, flocks, caravan capital, children — **the only item on it that the
   epilogue cannot give back.**
+- [[The Second Test]] — not mentioned, and present in two places anyway. **The accuser's *"all that
+  a man has he will give for his life"* (2:4) is a valuation of them**, offered to their father's
+  face in a market idiom; and Job's answer to his wife is in the **first person plural**, which is
+  the only moment in the book that registers that [[Job's Wife]] buried the same ten children.
 - [[Bildad's Second Speech]] — 18:19, the second use of their deaths as evidence, now anonymous.
 - [[I Know That My Redeemer Lives]] — 19:17, and the empty place their absence leaves where a
   *gōʾēl* would have to stand.

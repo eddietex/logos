@@ -82,6 +82,13 @@ requires only that you be standing outside it.
   thousand animals, an unnumbered household and ten funerals — and the cost falls entirely on a man
   who is never consulted and never told. **Job's suffering is caused by his righteousness, not
   despite it**, which is the sentence the rest of the book exists to make sayable
+- [[The Second Test]] — **the point at which the suffering moves inside the man.** Everything taken
+  in chapter 1 was external; from 2:7 it is a body, permanently, and one whose symptom the law
+  itself reads as a verdict. Two features of the passage are the wiki's sharpest statement of what
+  the theme costs. **God announces at 2:3 that the first test has been passed, and the second is run
+  anyway** — so at least one round of this suffering demonstrably settles nothing that was still
+  open. And **God calls it what it is**: *ballaʿ*, swallowed up, and *ḥinnām*, without cause,
+  refusing on his own behalf the explanation the friends will supply for him
 - [[Miserable Comforters and the Witness in Heaven]] — the Bible's most violent description of
   God's hand on a sufferer, spoken by a man certified innocent
 - [[Eliphaz's Second Speech]] — suffering treated purely as evidence, with the consolation of the

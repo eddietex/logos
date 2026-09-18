@@ -276,8 +276,9 @@ quietly making room for chapter 3.
 - [[Bildad's Second Speech]] — 18:19's itemising of a childless line among a wicked man's expected
   losses, which is 1:18–19 turned into a doctrine and read back to the father.
 - [[The Prosperity of the Wicked]] — the inverse case, which Job will put frontally in chapter 21.
-- **Job 2:1–7** — the second council, which repeats this one almost verbatim and then goes past the
-  limit set at 1:12.
+- [[The Second Test]] — Job 2:1–10, the second council, which repeats this one almost verbatim and
+  then goes past the limit set at 1:12. It is also where the narrowed certification of 2:10 and
+  God's *"you incited me against him"* are handled at length.
 - **Job 3:23; 19:8** — the hedge from the inside: *"a man whose way is hidden, whom God has hedged
   in"*, and *"He has walled up my way"*. The accuser's image for protection becomes Job's image for
   imprisonment.

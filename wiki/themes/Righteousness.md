@@ -113,6 +113,12 @@ about.
   statement in the book and one that no human being inside the book ever hears. And then the
   verdict is made the *reason* for the disaster rather than a defence against it: **Job is selected
   because he is blameless**
+- [[The Second Test]] — the verdict a **fourth** time, and the first time it is given as
+  *demonstrated* rather than asserted: *"He still maintains his integrity"* (2:3). **Four
+  certifications, from the narrator and from God, and not one of them audible to any human being in
+  the book.** The passage also separates two words English runs together: God's *ṣaddîq*-adjacent
+  verdict on Job's conduct, and the *tummâ* — the wholeness — that the second test is designed to
+  price. See [[Integrity]]
 - [[Noah's Sons and the Curse of Canaan]] — the same man in the tent: the verdict of 6:9 left standing
   beside a scene it does not fit, with no attempt to reconcile them
 - [[Job of Uz]] — Job 1:1's *tām wə-yāšār*, blameless and upright, declared of a man before he is

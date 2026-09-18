@@ -8,7 +8,11 @@ tags: [connection]
 ## Passages involved
 
 - **Job 1:6–12; 2:1–7** — *haśśāṭān* among the sons of God; *"Does Job fear God for nothing?"* —
-  [[The Wager in Heaven and the Four Messengers]]
+  [[The Wager in Heaven and the Four Messengers]] and [[The Second Test]]
+- **Job 2:3** — *"you **incited** me against him, to ruin him without cause"*: ***hēsît***, the same
+  verb as 1 Chronicles 21:1 and 2 Samuel 24:1 below, **with the accuser as subject and God as
+  object** — the one verse in Scripture that puts both halves of the Chronicles/Samuel problem into
+  a single sentence
 - **Zechariah 3:1–5** — *"He showed me Joshua the high priest standing before Yahweh's angel, and
   Satan standing at his right hand to be his adversary. Yahweh said to Satan, 'Yahweh rebuke you,
   Satan!'"*

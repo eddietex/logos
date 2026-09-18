@@ -110,6 +110,13 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 ## Key passages
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
+- [[The Second Test]] — **the bleakest marital exchange in Scripture, and the only conversation
+  between husband and wife in the book of Job.** She says *"Renounce God, and die"*; he answers
+  *"You speak as one of the foolish women would speak"* — **convicting the sentence and pointedly
+  not the woman** — and then puts the theology in the **first person plural**: *shall **we** receive
+  good… and shall **we** not receive evil*. She has buried the same ten children, and that plural is
+  the only place the book registers it. She is named again once, at 19:17, and is absent from the
+  restoration that gives Job ten more children without saying by whom. See [[Job's Wife]]
 - [[The Fall]] — the union fractured, and 3:16
 - [[The Sons of God and the Corruption of the Earth]] — taking *"any that they wanted"*, in the
   grammar of Genesis 3:6

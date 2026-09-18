@@ -134,6 +134,12 @@ the rest of the canon.
   survivor, with no explanation offered to anyone inside the book; and Job's *"naked shall I return
   there"*, whose destination the Hebrew genuinely leaves open between the earth, [[Sheol]], and a
   bare *thither*
+- [[The Second Test]] — ***nepeš*** at 2:6, *"only spare his life"*, the last thing the hedge
+  protects after the property line and the skin have both been given away; and ***wāmūt*** at 2:9,
+  *"and die"*, in the mouth of [[Job's Wife]]. **She offers him the one exit the accuser has just
+  been forbidden to take**, and the text does not say whether she knows it. From here the book will
+  not stop talking about death: chapter 3 wishes it backwards, chapter 14 asks whether a man lives
+  again, and 19:25–27 answers in a grammar nobody has ever fully parsed
 - [[The Fall]] — the return to dust, and the tree of life barred
 - [[Cain and Abel]] — the first death, and the first blood to cry out
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted of; and a birth named for

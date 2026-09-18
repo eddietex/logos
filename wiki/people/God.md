@@ -1104,6 +1104,15 @@ party who is never consulted. At 2:3 he says so in the plainest available terms:
 against him, to ruin him without cause."* **He concedes the incitement and keeps the verb.** The
 wiki records this without softening it; see [[The Divine Council]] and [[Satan]].
 
+- **The God of [[The Second Test]]** is the most exposed God in the Old Testament. He raises Job a
+  second time, announces the first test passed — *"He still maintains his integrity"* — and then says
+  the sentence: *"although you incited me against him, to ruin him without cause."* **Four things are
+  in it and none of them is a defence.** He attributes the initiative to the accuser, which sits
+  awkwardly against 1:8 where he raised Job first. He keeps the verb of ruin for himself. He calls
+  what was done ***ballaʿ***, to swallow up — not discipline, not refining. And he calls it
+  ***ḥinnām***, without cause, which is the one word that could have justified it. **God declines,
+  about his own act, the explanation the friends will spend twenty-five chapters supplying on his
+  behalf** — and then authorises a second round in the next breath. See [[Providence]].
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1456,6 +1465,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Wager in Heaven and the Four Messengers]] — his first speech in the book, and the only place
   in Scripture where **God himself puts a righteous man forward to be tested**; he names Job, quotes
   the narrator's verdict, grants the permission, and sets the limit
+- [[The Second Test]] — his second and last speech in the prologue: the announcement that Job has
+  held, the concession *"you incited me against him"*, the verdict *ḥinnām* on his own act, and a
+  second permission with the hedge moved from the man's property to his breath
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

@@ -124,6 +124,12 @@ has been argued.
   **impropriety** to God. Not that he said nothing about God; he named God as the one who took. The
   narrator's certification narrows one degree at 2:10 to *"didn't sin with his lips"*, and readers
   have argued for two millennia over whether the narrowing makes room for chapter 3
+- [[The Second Test]] — where that narrowing actually happens: *"In all this Job didn't sin **with
+  his lips**"* (2:10), *biśpātāyw*. Three readings — prose variation on 1:22; a deliberate
+  reservation that acquits the speech and says nothing about the man; or a marker that the *patient*
+  Job of the prose frame ends here. **The Targum to Job settles it in one direction by adding a gloss
+  the Hebrew does not have** — *but in his thoughts he already harboured words*. Chapter 3 begins
+  eleven verses later, and 42:7 commends the man who speaks in it
 - [[Cain and Abel]] — the word's first appearance, crouching at a door, and the first murder
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted about rather than hidden,
   and the first passage God is absent from

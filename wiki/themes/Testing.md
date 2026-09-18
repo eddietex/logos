@@ -94,6 +94,13 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   asks whether Abraham will obey, Job 1 asks whether anyone obeys *ḥinnām*, for nothing. And unlike
   every other test in Scripture, this one is **never disclosed to its subject afterwards** — not in
   the whirlwind, not in the epilogue, not by anyone
+- [[The Second Test]] — Job 2:1–10; **the instalment that exposes the structure.** God announces at
+  2:3 that the first test has been passed, and a second is run at 2:6 anyway. **A test whose result
+  has already been declared is not gathering evidence in any ordinary sense** — what changed is not
+  the man but the claim, and the accuser changed that himself, retreating from *does anyone fear God
+  for nothing* to *what will a man trade for his own body*. Note also the two limits: the hedge moves
+  from Job's property (1:12) to his skin (2:6), and stops at his *nepeš*. **The instrument is
+  calibrated to take everything short of the result that would end the experiment**
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16–17; what being tested looks like from
   inside, with the cause invisible
 - [[I Know That My Redeemer Lives]] — Job 19; the answer a tested man arrives at without being told
@@ -134,6 +141,8 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[Suffering]] — one of its five accounts in the wiki's reckoning, and the one Job's prologue
   supplies while denying the sufferer access to it
 - [[Righteousness]] — a standing verdict, which a test converts into a demonstrated one
+- [[Integrity]] — the specific property under test in Job: not whether Job is good but whether he is
+  of one piece, and what it costs him to keep hold of it
 - [[Covenant]] — obedience has no page of its own in this wiki, and the material sits here, because
   Genesis 22:18 makes obedience the ground of a promise that had been unconditional
 - [[Sacrifice and Offering]] — the form Abraham's test takes

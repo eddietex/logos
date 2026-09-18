@@ -123,6 +123,11 @@ the promise is repeatedly mistaken for.
   a denial that possessions matter — the epilogue counts them back carefully — but a claim about
   **tenure**, and it is aimed at 1:10, where the accuser reads the same fortune as a wage. See
   [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]]
+- [[The Second Test]] — **the accuser's reply to 1:21, and a concession disguised as an argument.**
+  *"Skin for skin. Yes, all that a man has he will give for his life"* (2:4) grants that Job
+  surrendered the inventory without breaking and claims that the inventory was never the price. It
+  is a market idiom — *ʿôr bəʿad-ʿôr*, hide for hide — **used about a man's dead children**, and it
+  is the last valuation anyone in the book puts on Job's possessions until the epilogue doubles them
 - [[Zophar's Second Speech]] — the wisdom tradition's nightmare: *"That for which he labored he shall
   restore, and shall not swallow it down"*
 - [[Jacob's Flight from Laban]] — Genesis 31:1, 14–16, 18, 42; **the herd argued over by four

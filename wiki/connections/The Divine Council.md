@@ -8,7 +8,9 @@ tags: [connection]
 ## Passages involved
 
 - **Job 1:6; 2:1** — *"Now on the day when God's sons came to present themselves before Yahweh,
-  Satan also came among them."* — [[The Wager in Heaven and the Four Messengers]]
+  Satan also came among them."* — [[The Wager in Heaven and the Four Messengers]] and
+  [[The Second Test]]; the book's two sessions are staged in almost identical words, and the second
+  adds only that the accuser now comes *"to present himself before Yahweh"* in his own right
 - **Job 38:7** — *"when the morning stars sang together, and all the sons of God shouted for joy"*,
   at the founding of the earth
 - **Genesis 1:26; 3:22; 11:7** — *"Let us make man in our image"*; *"the man has become like one of

@@ -63,6 +63,10 @@ onomastic pool is exactly what one expects of two texts about the same region.
 - [[The Wager in Heaven and the Four Messengers]] — unnamed in the passage and nonetheless its
   setting from 1:13 on; the two raids and the desert wind are the internal evidence this page's
   *"Where was it?"* section leans on.
+- [[The Second Test]] — unnamed again, and the passage supplies the only physical detail the book
+  gives of the place: **ashes, sat among.** The Septuagint relocates even that, putting Job *"on the
+  dung-heap outside the city"* — which imports a city the Hebrew never mentions. See
+  [[Sitting in Dust and Ashes]].
 - [[The Table of Nations]] — Genesis 10:23, where Uz is Aram's firstborn: the first of the three
   genealogical Uzzes, and the one that points north-east rather than to Edom.
 - [[The Descendants of Esau]] — Genesis 36:28, where Uz is a son of Dishan in the Horite line of

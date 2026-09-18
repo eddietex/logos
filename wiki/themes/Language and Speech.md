@@ -90,6 +90,14 @@ noticing into doctrine.
 
 ## Key passages
 
+- [[The Second Test]] — **one passage, three separate things done with words.** *Bārak* used twice
+  more to mean its opposite (2:5, 2:9), so that the prologue's most loaded verb has now inverted
+  three times. Job's rebuke built to convict an *utterance* rather than a person —
+  *kədabbēr ʾaḥat hannəbālôt*, *you speak as one of the foolish women would speak*. And the
+  narrator's acquittal narrowed to a body part: *"Job didn't sin **with his lips**"* (2:10), which
+  says nothing about the man. **His wife's nine words, meanwhile, are made entirely of other
+  people's sentences** — God's *maintains his integrity* from 2:3, and the accuser's *bārak* from
+  1:11 and 2:5 — quoted accurately by someone who cannot have heard either
 - [[The Stolen Blessing]] — Genesis 27:1–45, **the performative word at full strength.** A whole
   chapter of people talking while one of them cannot see: a flat lie about identity told twice, a
   quotation with two words added that the speaker never said (*"before Yahweh"*, 27:7 against 27:4),

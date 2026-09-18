@@ -84,6 +84,13 @@ figure with a will of his own, a kingdom, and an end.
 
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22; his entrance, his question, the
   first permission, and its execution.
+- [[The Second Test]] — Job 2:1–10; his **last appearance in the book and in the Hebrew Bible's
+  earliest extended treatment of him**. He is told at 2:3 that he was wrong and that God calls the
+  ruin *ḥinnām*, and **he neither concedes nor repeats his claim — he substitutes a smaller one.**
+  *"Does Job fear God for nothing?"* was a claim that disinterested piety does not exist; *"all that
+  a man has he will give for his life"* is a claim about self-preservation that nobody would dispute
+  and that quietly grants the first round. He is granted the body, strikes it **himself** with no
+  Sabeans, fire, Chaldeans or wind in between, and exits mid-verse at 2:7.
 
 ## Related people
 
@@ -98,6 +105,10 @@ figure with a will of his own, a kingdom, and an end.
   by Genesis.
 - [[The Angel of Yahweh]] — who is himself called a *śāṭān* at Numbers 22:22, which is the single
   hardest fact for any reading that treats the word as a name.
+- [[Job's Wife]] — who says at 2:9 the words he predicted twice at 1:11 and 2:5, in his own verb,
+  two verses after he has left and without ever having met him. **If she is his instrument, she is
+  one the text never shows him arranging** — see
+  [[Renounce God and Die - The Euphemism and the Accuser's Prediction]].
 
 ## Themes associated
 
@@ -130,7 +141,22 @@ figure with a will of his own, a kingdom, and an end.
   to shield the next. The gloss that follows it in the verse is unambiguous whichever way the idiom
   runs: *"all that a man has he will give for his life."* The challenge has narrowed from *does he
   love God for nothing* to *does he love anything more than his own body*, which is a smaller claim
-  and a nastier one.
+  and a nastier one. **And the narrowing is a retreat.** God has just told him the first claim
+  failed; he does not defend it, withdraw it, or say a word about it, and the proverb does the work
+  of pretending the second claim was the point all along. **He is never refuted in the book because
+  he never stands still long enough to be** — and after 2:7 he has no further proposal available,
+  since the only thing left to take is the life the hedge protects. See [[The Second Test]].
+
+- **"You incited me against him" (2:3), and 1 Chronicles 21:1.** The verb God uses of the accuser is
+  ***hēsît*** — to incite, entice, stir up against — and its usual company in Scripture is seduction
+  to evil: the family member who entices toward other gods at Deuteronomy 13:6, the Rabshakeh
+  enticing Jerusalem at 2 Kings 18:32, Jeremiah 38:22. **The single closest parallel is the one place
+  outside Job where *śāṭān* appears in a divine context**: 1 Chronicles 21:1, where he *"stood up
+  against Israel and incited David"* — *wayyāset* — to number the people, against 2 Samuel 24:1,
+  where Yahweh's anger *incited* David to do the identical thing with the identical verb. **In Job
+  2:3 both subjects are in one sentence**: the accuser incites, and God is the one incited, and God
+  states it about himself. See
+  [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]].
 
 - **The Septuagint and the devil.** The Greek translates *haśśāṭān* as *ho diabolos*, *the slanderer*
   — with the article, faithfully — and it is that word, not a transliteration, that the New Testament

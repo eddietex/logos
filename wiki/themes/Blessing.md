@@ -206,6 +206,13 @@ costly.
   says *"Blessed be Yahweh's name"* (1:21, the ordinary sense again, at the exact moment blessing
   has visibly stopped being paid). **The accuser's prediction comes true in its letter and is
   destroyed in its meaning by the same verb**
+- [[The Second Test]] — the fourth and fifth *bārak* of the prologue, **both of them the euphemism**:
+  the accuser's second prediction that Job will *bārak* God to his face (2:5), and then his wife's
+  imperative *bārēk ʾĕlōhîm* at 2:9. **The verb has now meant its opposite three times and itself
+  twice inside two chapters**, and the last of the three is the only one spoken by a human being on
+  earth. The same substitution appears at 1 Kings 21:10, 13, where false witnesses accuse Naboth of
+  having *blessed* God and the king. See
+  [[Renounce God and Die - The Euphemism and the Accuser's Prediction]]
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:13, 18: *"I will also make a nation of
   the son of the servant"*, and from the sky *"I will make him a great nation"* — *gôy gādôl*, the
   exact phrase of 12:2, given to the son who has just been disinherited, in the same chapter that

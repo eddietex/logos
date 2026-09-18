@@ -8656,3 +8656,139 @@ scripture citations rather than links, since none of those books has been starte
   markers pointing at unopened books — plus the stray empty `Exodus.md` at the repository root, the
   [[The Jordan]] retro-linking, and the `wiki/themes/index.md` *Key passages* column, which **this
   pass again appended to rather than rebuilding**, for the fifth entry running.
+
+## [2026-09-18] ingest | Job 2.1-10 — The Second Test
+
+Unattended run (`/ingest auto`). Target resolved mechanically: Genesis is `complete`, [[Job]] is the
+only `in-progress` book in `wiki/books/index.md`, and the first unchecked box on its page was Job
+2:1–10. **Boundary unchanged. Title unchanged** — a richer title along the lines of the previous
+pericope's was considered (the passage has a heaven half and an earth half, like 1:6–22) and rejected
+as churn: *The Second Test* was already in the queue, reads as prose in a link, and is what a reader
+scanning the checklist will look for. **Job is at 8 / 32.**
+
+### The passage page
+
+[[The Second Test]], `wiki/passages/Job/`. The discussion step was written into the page, as
+unattended mode requires. Built around these findings:
+
+**1. The passage is a deliberate near-copy, so the edits are the content.** 2:1 is 1:6 plus one
+clause, 2:2 is 1:7 verbatim, 2:3a is 1:8 verbatim — and then the copying stops. **Four things change:
+a sentence God adds, a claim the accuser substitutes, a limit moved one notch inward, and a voice
+that has not spoken before.** The page is organised on that frame.
+
+**2. God's 2:3 is the hardest sentence in the prologue, and it has four parts that should not be
+run together.** He attributes the initiative to the accuser (*hēsît*, **the verb of seduction** —
+Deuteronomy 13:6, 2 Kings 18:32, and above all **1 Chronicles 21:1, where *śāṭān* incites David and
+2 Samuel 24:1 has Yahweh's anger do it**); he keeps the verb of ruin for himself; he calls the act
+*ballaʿ*, swallowed up; and he calls it *ḥinnām*, **denying his own act the one justification that
+would settle the book.** The *hēsît* parallel is new to the wiki and has been carried onto [[Satan]]
+and [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]].
+
+**3. The accuser's second claim is a retreat, and the page says so plainly.** *"Does Job fear God for
+nothing?"* (1:9) claims disinterested piety does not exist. *"Skin for skin… all that a man has he
+will give for his life"* (2:4) claims only that a man values his own body — **a proposition nobody
+disputes, which concedes the first round without admitting it.** He is never refuted in the book
+because he never stands still long enough to be, and after 2:7 he has no proposal left: the only
+thing remaining is the *nepeš* the hedge protects.
+
+**4. The disease is a covenant curse, and it makes the friends' case before they speak.** *Šəḥîn
+rāʿ* *"from the sole of his foot to his head"* (2:7) is **Deuteronomy 28:35 word for word and limit
+for limit** — the same affliction as the sixth plague (Exodus 9:8–11) and the eruption a priest
+inspects for uncleanness (Leviticus 13:18–23). **Eliphaz, Bildad and Zophar are not being obtuse:
+they read a symptom the Torah designates as the mark of a covenant-breaker, and the rules return a
+false verdict.** This is the wiki's answer to why 42:7 is hard, and it got its own connection page.
+
+**5. Job's wife quotes two people who were not in the room with her.** *"Do you still maintain your
+integrity?"* is 2:3's *maḥăzîq bətummātô* with the pronoun turned — **Yahweh and Job's wife are the
+only speakers in the book who use the phrase.** *"Renounce God"* is *bārēk ʾĕlōhîm*, the imperative
+of the accuser's verb from 1:11 and 2:5. **The accuser's prediction is spoken aloud on earth two
+verses after he leaves, by someone who has never heard of him.**
+
+**6. Job convicts the sentence and not the woman, and the Hebrew is the evidence.**
+*Kədabbēr ʾaḥat hannəbālôt* — *you speak as one of the foolish women would speak* — puts the whole
+weight on the utterance, and then he answers **in the first person plural**. She buried the same ten
+children, and that plural is the only place the book registers it.
+
+**7. The narrator's acquittal narrows to *with his lips*, and the page does not resolve it.** Three
+readings recorded — prose variation on 1:22, a deliberate reservation for chapter 3, and a marker
+that the *patient* Job of the prose frame ends here — with the note that the **Targum to Job settles
+it in one direction** by glossing *but in his thoughts he already harboured words*.
+
+### Judgment calls made unattended
+
+- **A page for Job's wife was created as `Job's Wife`**, the form the previous entry predicted, on
+  the [[Potiphar's Wife]] / [[Lot's Wife]] precedent for an unnamed figure known by relation. No
+  schema change was needed; the existing naming rules cover it by analogy rather than by letter.
+- **The page states both readings of her and adjudicates neither.** The hostile tradition (Augustine's
+  *diaboli adiutrix*, Chrysostom, Calvin) has the vocabulary on its side; the narrative has the other
+  side — she is never shown with the accuser, never named as an agent, and **42:7 rebukes three men
+  by name for exactly the offence she is accused of and says nothing about her.** The Septuagint's
+  six-verse expansion, which turns her into a second victim, is recorded as evidence that the
+  Hebrew's silence was felt as a difficulty very early.
+- **A new theme page, [[Integrity]], was created** rather than folding *tummâ* into
+  [[Righteousness]]. The root carries the book's second test (2:3, 2:9, 27:5) and has real Genesis
+  anchors — Noah *tāmîm* at 6:9, Abram commanded at 17:1, **Abimelech's *tom-ləbābî* at 20:5–6, the
+  only integrity God confirms to a man's face in Genesis**, and *ʾîš tām* of Jacob at 25:27, which
+  the page flags as the hardest data point for any tidy definition. This is a new page of an
+  existing type, so no `AGENTS.md` change was required.
+- **Four connection pages, not two.** The Deuteronomy 28 boil and the *weal and woe from one hand*
+  thread were unavoidable; [[Sitting in Dust and Ashes]] earned one because 2:8 and 42:6 bracket the
+  whole book in the same substance and **42:6's Hebrew is genuinely undecided between "repent in
+  dust and ashes" and "am comforted concerning dust and ashes"**, which changes what the ending
+  means; and the *bārak* euphemism page exists to hold the Eve comparison **and the case against it**
+  in one place rather than letting it sit unexamined on a person page.
+- **No page was made for the three friends' arrival** (2:11–13) — that is the next pericope's box.
+
+### Pages created
+
+Passage: [[The Second Test]].
+Person: [[Job's Wife]].
+Theme: [[Integrity]].
+Connections: [[The Boil of Deuteronomy 28 on a Blameless Man]],
+[[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]], [[Sitting in Dust and Ashes]],
+[[Renounce God and Die - The Euphemism and the Accuser's Prediction]].
+
+### Pages revised
+
+Book: [[Job]] (box checked and linked; [[Integrity]] added to Key themes, [[Job's Wife]] to Key
+people).
+People: [[Job (person)]], [[Satan]], [[God]], [[The Sons of God]], [[Job's Children]].
+Places: [[Uz]].
+Passage: [[The Wager in Heaven and the Four Messengers]] (its forward reference to *Job 2:1–7* was a
+plain citation and is now a link).
+Connections: [[The Divine Council]], [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]].
+Themes: [[Testing]], [[Suffering]], [[Retribution]], [[The Fear of God]], [[Righteousness]],
+[[Sin]], [[Blessing]], [[Life and Death]], [[Judgment]], [[Providence]], [[Marriage]],
+[[Language and Speech]], [[Clean and Unclean]], [[Wealth and Possessions]].
+
+Plus [[books/index|Books]], [[people/index|People]], [[places/index|Places]],
+[[themes/index|Themes]], [[connections/index|Connections]] and [[index|the top-level index]].
+
+### Link check
+
+`scripts/link-check.sh` exits 0, baseline 64. **No links were deliberately left dangling.**
+Deuteronomy, Exodus, Leviticus, Kings, Chronicles, Samuel, Esther, Jonah, Ezekiel, Jeremiah, Daniel,
+Isaiah, Lamentations, Amos, Ecclesiastes and the New Testament references are given as plain
+scripture citations rather than links, since none of those books has been started.
+
+### Findings left for the next lint
+
+- **[[Marriage]] and [[Clean and Unclean]] now carry Job material and were written as Genesis
+  pages.** Neither's `## Development across Scripture` section mentions Job at all; the new entries
+  sit in `## Key passages` only. Bringing the prose into line is a lint job.
+- **[[Integrity]] is a new theme with heavy Genesis content that the Genesis pages do not link
+  back to.** [[Noah]], [[Abraham]], [[Jacob]] and [[Abimelech (of Abraham's time)]] all have *t-m-m*
+  material in their text and no link to the theme page. Same for the passage pages it cites.
+- **Job's wife's absence from the restoration is stated on three pages and verified on none**,
+  because Job 42 is not yet ingested. When *The Restoration of Job* (Job 42:7–17, still unchecked on
+  the book page) is written, check that [[Job's Wife]], [[Job (person)]] and [[Marriage]] say what
+  42:10–17 actually says.
+- **Unchanged from the last entry**, and now overdue: the three friends' pages
+  ([[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]]) still do not record
+  that they and the accuser hold the same doctrine; [[The Witness in Heaven]] still cites Job 1:6–12
+  by reference rather than linking [[The Wager in Heaven and the Four Messengers]]; the whole-book
+  Genesis lint that became due when Genesis completed — orphan pages, stale
+  `### What is still ahead` sections, `*(not yet ingested)*` markers — is still outstanding, as are
+  the stray empty `Exodus.md` at the repository root and the [[The Jordan]] retro-linking.
+- **`wiki/themes/index.md`'s *Key passages* column was again appended to rather than rebuilt**, for
+  the sixth entry running. The [[Blessing]] row is now well past the width at which anyone reads it.

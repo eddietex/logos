@@ -79,7 +79,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [x] [[Job of Uz]] — Job 1:1–5
 - [x] [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22
-- [ ] The Second Test — Job 2:1–10
+- [x] [[The Second Test]] — Job 2:1–10
 - [ ] Seven Days of Silence — Job 2:11–13
 
 ### Job's Opening Lament (3)
@@ -141,6 +141,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [[Suffering]]
 - [[Retribution]]
+- [[Integrity]] — *tummâ*, the word of 2:3 and 2:9 and of Job's oath at 27:5; the thing the second
+  test is designed to find the price of
 - [[The Fear of God]]
 - [[Wisdom]]
 - [[Hope]]
@@ -158,6 +160,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Eliphaz the Temanite]]
 - [[Bildad the Shuhite]]
 - [[Zophar the Naamathite]]
+- [[Job's Wife]] — unnamed, one sentence at 2:9 and one mention at 19:17, and the largest
+  interpretive tradition attached to any minor figure in Scripture
 - [[Job's Children]]
 - [[God]]
 

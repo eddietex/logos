@@ -84,9 +84,11 @@ speeches; each becomes a linked passage page as it is ingested.
   the accuser, raises Job's name; the accuser's question *"Does Job fear God for nothing?"*; four
   messengers in one afternoon; all his livestock, servants, and ten children destroyed. He tears his
   robe, shaves his head, worships, and says *"Yahweh gave, and Yahweh has taken away."*
-- **Job 2:1–10** — the second council and the loss of his health; his wife's *"Do you still maintain
-  your integrity? Renounce God, and die"*; his reply, and the narrator's second verdict that *"Job
-  didn't sin with his lips."*
+- **Job 2:1–10** — [[The Second Test]]. The second council, God's announcement that Job *"still
+  maintains his integrity"* and that he was *incited to ruin him without cause*; the accuser's
+  *"skin for skin"*; the sores from sole to head; the potsherd and the ashes; his wife's *"Do you
+  still maintain your integrity? Renounce God, and die"*; his reply, and the narrator's second
+  verdict that *"Job didn't sin with his lips."*
 - **Job 2:11–13** — Eliphaz, Bildad, and Zophar arrive and sit with him seven days in silence,
   *"for they saw that his grief was very great."* This is the last thing the friends do that the
   book approves.
@@ -123,6 +125,13 @@ speeches; each becomes a linked passage page as it is ingested.
   **and then one act nobody required**, worship. He names no human agent for losses that were two
   thirds armed robbery, and the narrator certifies that naming Yahweh instead was not a charge of
   wrongdoing.
+- [[The Second Test]] — Job 2:1–10. **The passage takes away the body chapter 1 left him.** At 1:20
+  he could stand, tear his robe and worship; here he can scrape with a potsherd and sit. He is
+  struck with the named disease of Deuteronomy 28's curse list, which makes him legible to everyone
+  who will look at him and legible wrongly. His answer to his wife — *"Shall we receive good at the
+  hand of God, and shall we not receive evil?"* — is **the position he never abandons**, stated in
+  the first person plural, and the last thing he says before chapter 3 turns the volume up for
+  twenty-eight chapters.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the
@@ -153,10 +162,13 @@ speeches; each becomes a linked passage page as it is ingested.
   the accuser names Job four times and Job never names him once, in forty-two chapters.
 - [[Job's Children]] — seven sons and three daughters, unnamed until the epilogue; the reason for
   the first sacrifice in the book and the worst of his losses.
-- **His wife** — two lines and no name: 2:9, where she tells him to renounce God and die, and
+- [[Job's Wife]] — two lines and no name: 2:9, where she tells him to renounce God and die, and
   19:17, where *"My breath is offensive to my wife."* She is the only person in the book who tells
   him to stop, and Job's answer to her (*"Shall we receive good at the hand of God, and shall we not
-  receive evil?"*) is the book's first statement of the position he never abandons.
+  receive evil?"*) is the book's first statement of the position he never abandons. **He does not
+  call her foolish** — the Hebrew convicts her sentence and not her — **and he answers in the
+  plural**, which is the only acknowledgement anywhere in the book that she buried the same ten
+  children.
 - **Elihu** — a fourth speaker, introduced at 32:2 without warning and unmentioned in the epilogue.
 - **Noah and Daniel** — named with Job at Ezekiel 14:14, 20 as three men whose righteousness would
   save only themselves; see [[Noah]] and
@@ -178,6 +190,9 @@ speeches; each becomes a linked passage page as it is ingested.
 - [[Retribution]] — the doctrine his case is built to break.
 - [[Righteousness]] — declared of him by the narrator and by God before he does anything, and then
   disbelieved by everyone in the room.
+- [[Integrity]] — *tummâ*, what God says he is still holding at 2:3, what his wife asks him to drop
+  at 2:9, and what he swears to keep at 27:5. **It is the one thing the friends' offer would cost
+  him**, since a confession would buy restoration at the price of a false account of himself.
 - [[Mediation and Advocacy]] — the four legal officers he reaches for, from 9:33 to 19:25.
 - [[Hope]] — 17:15's *"where then is my hope?"*, asked rather than answered, and 19:10's *"My hope
   he has plucked up like a tree"*, followed fifteen verses later by *I know*.

@@ -145,6 +145,13 @@ human one innocent.** *"You meant evil"* stands. See
   passage also refuses to make the attribution simple: 1:12 puts everything *"in your power"* —
   literally *in your hand* — and 2:3 has God say *"you incited me against him."* **Four statements
   of agency stand in seventeen verses and the text reconciles none of them**
+- [[The Second Test]] — **the theme's flattest statement and its most complicated one, nine verses
+  apart.** At 2:10 Job says *"Shall we receive good at the hand of God, and shall we not receive
+  evil?"* — one hand, both outcomes — and the narrator certifies it as not a sin. At 2:3 God says
+  *"you incited me against him, to ruin him without cause"* — an external mover conceded, the act
+  kept, and the justification explicitly denied. **The man with no information states it simply; the
+  one with all of it does not.** See
+  [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]]
 - Genesis 22:8, 14 — *"God will provide himself the lamb"* — [[The Binding of Isaac]] and
   [[Yahweh Will Provide - Moriah and the Temple Mount]]
 - Genesis 24:12–27 — the servant at the well, and providence openly credited — [[A Wife for Isaac]]

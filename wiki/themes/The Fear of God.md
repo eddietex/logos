@@ -97,6 +97,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   unpurchased, and the rest of the book is the answer. Note what the question concedes: **nobody
   disputes that Job fears God.** The attack is on the motive, and therefore not really on Job — a God
   who can only be feared for pay has never been feared at all
+- [[The Second Test]] — **the question quietly withdrawn.** God repeats the fourfold description at
+  2:3, *"one who fears God, and turns away from evil"*, for the third and last time in the book — and
+  the accuser's reply does not mention the fear of God at all. *"Skin for skin… all that a man has he
+  will give for his life"* (2:4) asks what a man will trade, not what he loves without pay. **The
+  second question is answerable and the first one is not, which is why the first one is the book**
 - [[Noah and the Flood]] — Genesis 6:9's *"walked with God"* is the Genesis idiom for the same
   settled orientation, in a book that does not yet use this vocabulary
 - [[Abram in Egypt]] — Genesis 12:10–20, where the phrase is absent but the reasoning behind it is

@@ -92,6 +92,12 @@ These are not exclusive, and the third is the one the text argues for by itself.
 
 - [[Noah and the Flood]] — the distinction's first appearance in Scripture, assumed without
   definition nine centuries before Leviticus defines it
+- [[The Second Test]] — Job 2:7's ***šəḥîn***, the eruption of Leviticus 13:18–23 that a priest
+  examines and pronounces clean or unclean. **The book of Job has no priest, no law and no Israel**,
+  so the contamination Job carries is social rather than cultic — nobody can declare him anything.
+  He sits outside among the ashes (the Septuagint makes it a dung-heap outside the city), and the
+  three men who arrive at 2:12 *"didn't recognize him"*. See
+  [[The Boil of Deuteronomy 28 on a Blameless Man]]
 - [[The Waters Recede]] — the distinction load-bearing at last: what 7:2's surplus was for, and
   which bird gets sent where
 - [[The Covenant with Noah]] — the distinction conspicuously *not* invoked: every moving thing granted

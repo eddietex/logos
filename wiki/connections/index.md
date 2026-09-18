@@ -213,3 +213,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Divine Council]] | thread | Job 1:6; 2:1 · Job 38:7 · Genesis 1:26; 6:1–4 · 1 Kings 22:19–23 · Psalm 82 · Psalm 89:5–7 · Deuteronomy 32:8 · Isaiah 6:1–8 · Zechariah 3:1–5 · Daniel 7:9–10 · Revelation 4–5 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] | thread | Job 1:21 · Ecclesiastes 5:15 · Psalm 49:16–17 · 1 Timothy 6:7 · Genesis 3:19 · Luke 12:16–21 |
+| [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 35 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
+| [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] | thread | Job 2:10 · Job 1:21 · Isaiah 45:7 · Lamentations 3:37–38 · Amos 3:6 · Deuteronomy 32:39 · 1 Samuel 2:6–7 · Ecclesiastes 7:14 · Genesis 50:20 · 2 Corinthians 12:7–9 |
+| [[Sitting in Dust and Ashes]] | thread | Job 2:8 · Job 42:6 · Genesis 18:27 · Genesis 3:19 · Esther 4:1–3 · Jonah 3:6 · 2 Samuel 13:19 · Jeremiah 6:26 · Ezekiel 27:30 · Daniel 9:3 · Isaiah 61:3 · Matthew 11:21 |
+| [[Renounce God and Die - The Euphemism and the Accuser's Prediction]] | parallel | Job 2:9 · Job 1:5, 11, 21 · Job 2:3, 5 · Genesis 3:1–6, 17 · 1 Kings 21:10, 13 |
