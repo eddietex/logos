@@ -208,6 +208,16 @@ will finally go both ways.
   with the oldest, and ending at the youngest"* — **by the only person in the scene who knows what is
   in the sacks**
 
+- [[Joseph Reveals Himself]] — Genesis 45:12–13, 16, 27–28; **the chapter that ends the concealment is
+  built out of eyes, and the decisive sight is of an object.** *"Your eyes see, and the eyes of my
+  brother [[Benjamin]], that it is my mouth that speaks to you"* (45:12) **offers sight and hearing
+  together as the proof of identity**; *"all that you have seen"* (45:13) is what [[Jacob]] is to be
+  told; *"it pleased Pharaoh well"* (45:16) is literally *good in the eyes of*. **Then the words fail
+  and the looking works**: *"when he saw the wagons… the spirit of Jacob, their father, revived"*
+  (45:27). **The man who was convinced of a death by looking at a coat is convinced of a life by
+  looking at a cart**, and what he asks for is more of the same: *"I will go and see him before I
+  die"*
+
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

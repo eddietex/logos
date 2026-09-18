@@ -96,8 +96,9 @@ Genesis's foreign kings**, all of whom are either plagued, warned in a dream, or
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-He invites Jacob's household into the best of the land, **unprompted and generously** (45:17–20), gives
-Joseph's family Goshen and makes them royal herdsmen (47:5–6), is blessed by Jacob (47:7–10), and grants
+He has invited Jacob's household into the best of the land, **unprompted and generously** (45:16–20,
+[[Joseph Reveals Himself]]). He gives
+Joseph's family [[Goshen]] and makes them royal herdsmen (47:5–6), is blessed by Jacob (47:7–10), and grants
 Joseph leave to carry his father's body back to Canaan with an Egyptian state escort (50:4–9). **The
 land-reform of 47:13–26, in which the whole of Egypt sells itself to the crown for grain, is conducted on
 his behalf by Joseph** and is the one part of his reign a reader might find troubling — and **Genesis
@@ -124,7 +125,9 @@ reached.**
 - The investiture: signet, linen, gold, the second chariot, a new name, and [[Asenath]] — Genesis
   41:39–45
 - Refers his own starving people to Joseph — *"Go to Joseph. What he says to you, do"* — Genesis 41:55
-- Invites Jacob's household and gives them the best of the land — Genesis 45:17–20 *(not yet ingested)*
+- Hears of the brothers' arrival, is *pleased*, and invites Jacob's whole household on terms more
+  generous than Joseph's, commanding wagons for them — Genesis 45:16–20,
+  [[Joseph Reveals Himself]]
 - Settles them in Goshen; is blessed by Jacob — Genesis 47:5–10 *(not yet ingested)*
 - Acquires all Egypt through Joseph's grain administration — Genesis 47:13–26 *(not yet ingested)*
 - Permits the funeral caravan to Canaan — Genesis 50:4–9 *(not yet ingested)*
@@ -169,6 +172,20 @@ reached.**
   make, and a statement about his own position: you can do anything to me.** [[Joseph]] does not swear
   by his life here as he did twice at 42:15–16; **the chapter's whole exercise of authority happens in
   a private house**, and the king is a yardstick rather than a party
+- [[Joseph Reveals Himself]] — Genesis 45:16–20; **his longest speech since 41:38–44, and he outbids
+  his own vizier in it.** He learns of the brothers' arrival secondhand, through a palace that
+  overheard the weeping (45:2, 16), and *"it pleased Pharaoh well, and his servants"* — ***wayyîṭab
+  bəʿênê parʿōh***, **the exact formula of 41:37**, there about a famine policy and here about a piece
+  of domestic news. **Every term he sets is more generous than Joseph's**: Joseph had offered
+  [[Goshen]] (45:10), Pharaoh offers *"the good of the land of Egypt"* and *"the fat of the land"*
+  (45:18, 20); Joseph mentioned no transport, **Pharaoh commands wagons** (45:19) — **the one object
+  in the cycle that persuades [[Jacob]]** (45:27); and *"don't concern yourselves about your
+  belongings"* (45:20) tells them to leave the furniture. **He has met none of them** — that waits
+  until 47:1–10 *(not yet ingested)* — **so the invitation that brings Israel into Egypt is issued
+  sight unseen.** Genesis records his pleasure and assigns him no motive; **the wiki notes the
+  political reading — a vizier whose family lives in Egypt at royal expense has nowhere to go back to
+  — and does not adopt it.** This is the friendliest Egypt ever is to Israel, and **Exodus 1:8's
+  *"there arose a new king over Egypt, who didn't know Joseph"* is written against this chapter**
 
 ## Related people
 

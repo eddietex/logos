@@ -120,6 +120,16 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
   slavery.** **Men who have carried something for two decades will confess it to the first authority
   that corners them, about whatever they happen to be accused of**
 
+- [[Joseph Reveals Himself]] — Genesis 45:3–5, 26; **the chapter hands the brothers their guilt back
+  disposed of, and they never touch it.** [[Joseph]] names the act once — *"whom you sold into Egypt"*
+  (45:4) — and then tells them ***"don't be grieved, nor angry with yourselves"*** (45:5), **absorbing
+  a confession that has not been made.** They say nothing at all between 45:3 and 45:15; *"after that
+  his brothers talked with him"* is the entire report of the conversation; **and the one sentence they
+  deliver to their father leaves the sale out** — *"Joseph is still alive, and he is ruler over all the
+  land of Egypt"* (45:26). **Genesis never records them telling [[Jacob]] what they did**, and 50:15
+  — *"it may be that Joseph will hate us"* — **is the proof that a guilt somebody else has settled on
+  your behalf does not stay settled**
+
 ## Related themes
 
 - [[Sin]] — the act; guilt is the standing it creates

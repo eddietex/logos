@@ -15,6 +15,12 @@ tags: [connection]
 - **Job 17:3; Psalm 119:122; Proverbs 6:1–5; 11:15; 17:18; 20:16; 22:26–27**
 - **Isaiah 38:14; Hebrews 7:22**
 
+- [[Joseph Reveals Himself]] — **Genesis 45:24**: **the pledge is discharged and nobody says so.**
+  [[Judah]] made himself ***ʿārēb*** for [[Benjamin]] at 43:9 and called it in at 44:32–33; **45:24
+  sends the brothers home with the boy among them**, which is exactly what he asked for, **and Judah is
+  not named anywhere in Genesis 45.** The guarantor is released not by paying but because the creditor
+  turns out to be his brother
+
 ## Analysis
 
 ### The verb

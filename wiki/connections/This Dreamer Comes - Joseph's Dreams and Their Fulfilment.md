@@ -42,6 +42,13 @@ tags: [connection]
 - **Revelation 12:1** — *"a woman clothed with the sun, and the moon under her feet, and on her head a
   crown of twelve stars."*
 
+- [[Joseph Reveals Himself]] — **Genesis 45:9**: **the dreams' content is finally stated as a fact by
+  the dreamer, and still nobody connects it to them.** *"God has made me lord of all Egypt"* is the
+  sheaf and the star image in plain prose, said to the brothers who once asked *"will you indeed reign
+  over us?"* (37:8). **[[Joseph]] does not mention the dreams; the brothers do not mention them; the
+  narrator does not mention them** — for the fourth consecutive pericope, and this time in the chapter
+  where the concealment ends and there is nothing left to hide
+
 ## Analysis
 
 **Genesis states a dream, has every character in the room contradict it, and then reports its fulfilment

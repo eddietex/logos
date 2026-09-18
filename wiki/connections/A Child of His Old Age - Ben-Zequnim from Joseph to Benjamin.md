@@ -17,8 +17,9 @@ tags: [connection]
   in his old age"*
 - **Genesis 37:4** — *"His brothers saw that their father loved him more than all his brothers, and
   they hated him"*
-- **Genesis 43:34; 45:22** — the fivefold portion and the five changes of clothing *(45 not yet
-  ingested)*
+- **Genesis 43:34** — the fivefold portion at the table — [[The Second Journey]]
+- **Genesis 45:22** — five changes of clothing and three hundred pieces of silver —
+  [[Joseph Reveals Himself]]; see [[Five Changes of Clothing - The Coat Given Again]]
 
 ## Analysis
 

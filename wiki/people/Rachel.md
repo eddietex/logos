@@ -257,6 +257,13 @@ over the killing of the infants at Bethlehem. See
   the oath [[Jacob]] swore over her at 31:32**, when the hidden thing was under her on a camel's
   saddle. **Both times the search ends at her household, and both times the sentence fails to
   operate**; see [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]]
+- [[Joseph Reveals Himself]] — Genesis 45:12, 14, 22; **unnamed, and every asymmetry in the chapter
+  runs along the line of her two sons.** [[Joseph]] calls [[Benjamin]] ***"my brother"*** at 45:12 in
+  a room containing ten other brothers; he falls on Benjamin's neck first and kisses the rest second
+  (45:14–15); **and he gives Benjamin five changes of clothing and three hundred pieces of silver where
+  the ten get one garment each** (45:22). **The preference that killed the cycle at 37:3 is performed
+  once more in the chapter that ends it, by its victim, on her surviving son** — and Genesis passes it
+  without a word. See [[Five Changes of Clothing - The Coat Given Again]]
 
 ## Related people
 

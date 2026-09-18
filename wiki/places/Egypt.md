@@ -161,6 +161,15 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   where a court can declare ten foreigners *blameless* and keep one**, and the ruling that does it is
   pronounced by a household servant on a road (44:10)
 
+- [[Joseph Reveals Himself]] — Genesis 45:4, 8, 13, 17–20, 25–26; **named ten times in twenty-eight
+  verses, more than in any chapter since 41, and the chapter is where Israel decides to move there.**
+  It is what [[Joseph]] was *sold into* (45:4), what he is *ruler over* (45:8, 26), the country whose
+  *glory* he wants reported to his father (45:13), and whose *good* and *fat* are offered away
+  unprompted by [[Pharaoh (of Joseph's time)]] (45:18, 20). **The direction vocabulary of 44 holds**:
+  the family will *come down* (45:9) and the brothers *go up out of Egypt* (45:25). **This is the
+  friendliest Egypt ever is to Israel** — a king commanding wagons for a foreign household he has not
+  met — **and the address he is inviting them to is [[Goshen]]**, which Exodus will open in
+
 ## Related places
 
 - [[The Nile]] — *hayʾōr*, the river that is the country in any practical sense, and the setting of both

@@ -279,6 +279,14 @@ the rest of the canon.
   **[[Joseph's Steward]] converts the first into slavery (44:10) and [[Joseph]]'s disclosure cancels
   the rest.** The chapter's stakes are entirely mortal and its body count is zero
 
+- [[Joseph Reveals Himself]] — Genesis 45:5, 7, 26–28; **five statements about being alive in a
+  chapter whose premise is a man everyone believed dead.** ***Ləmiḥyâ***, *to preserve life* (45:5);
+  ***ûləhaḥăyôt***, *to save you alive* (45:7); *"Joseph is still alive"* twice (45:26, 28); and
+  ***wattəḥî rúḥ yaʿăqōb***, *"the spirit of Jacob… revived"* (45:27). **The chapter also contains the
+  book's most precise description of a body giving out** — ***wayyāpag libbô***, *his heart fainted*,
+  from a rare verb for going slack — **and its recovery is caused by the sight of a cart.** See
+  [[The Spirit of Jacob Revived - Ruach Returning]]
+
 ## Related themes
 
 - [[Famine and Plenty]] — *"that the land not perish through the famine"*

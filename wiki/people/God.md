@@ -1477,6 +1477,21 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   44 says. The narrator's silence, unbroken since 39:23, continues; see [[Providence]] and
   [[Guilt and Conscience]]
 
+- [[Joseph Reveals Himself]] — ***ʾĕlōhîm* four times in twenty-eight verses, all four in one man's
+  mouth, and the narrator still says nothing.** [[Joseph]] names him at 45:5, 7, 8 and 9, and the four
+  statements are the most explicit account of divine agency in Genesis: ***"God sent me before you to
+  preserve life"***, ***"God sent me before you to preserve for you a remnant in the earth"***,
+  ***"it wasn't you who sent me here, but God"***, and *"God has made me lord of all Egypt."*
+  ***Šālaḥ*** **three times with God as subject, against *mākar* twice with the brothers as subject**
+  — **the same act, two agents, and Joseph stops using the brothers' verb after 45:5.** The word he
+  coins for the purpose is ***šəʾērît***, *a remnant*, **its first appearance in Scripture**. **None
+  of this is the narrator's.** The silence that began at 39:23 runs through the disclosure, the
+  reunion, Pharaoh's invitation and Jacob's revival, and does not break until *"God spoke to Israel in
+  the visions of the night"* at 46:2 — **so Genesis's great providence text is a character's
+  testimony that the book neither confirms nor disputes.** See [[Providence]],
+  [[God Sent Me Before You - The Verb That Replaces the Sale]] and
+  [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]]
+
 ## Related people
 
 - Humanity, made in his image — see [[Image of God]]

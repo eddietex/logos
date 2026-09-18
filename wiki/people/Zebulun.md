@@ -76,6 +76,16 @@ ground Jesus' ministry begins on.
   (44:13). **Genesis records the decision in nine words and attributes it to no one.** After 44:13 the
   ten have no further speech; [[Judah]] speaks for all of them
 
+- [[Joseph Reveals Himself]] — Genesis 45:3–4, 15, 21–26; **one of the plural, and the plural is
+  silent for twelve verses.** He cannot answer when the governor says *"I am Joseph"* — ***nibhălû***,
+  *they were terrified at his presence* (45:3) — comes near when told to (45:4), is kissed and wept on
+  (45:15), takes **one change of clothing** where [[Benjamin]] takes five and three hundred pieces of
+  silver (45:22), and is told *"see that you don't quarrel on the way"* (45:24). **Genesis records not
+  one word of his spoken in Egypt.** *"After that his brothers talked with him"* (45:15) **is the whole
+  of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
+  *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
+  the sale**, which is the omission 50:15 is still living off twenty years later
+
 ## Related people
 
 - [[Leah]] — his mother, who names him twice over in a single sentence

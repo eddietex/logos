@@ -172,6 +172,14 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   events are entirely in Egypt and its stakes are entirely in Canaan**, which is the arrangement the
   rest of the book runs on
 
+- [[Joseph Reveals Himself]] — Genesis 45:17, 25–28; **where the chapter's last movement happens and
+  where the family is about to stop living.** The brothers *"went up out of Egypt, and came into the
+  land of Canaan, to Jacob their father"* (45:25) carrying a true report that fails and a line of
+  wagons that works. **The invitation they carry is an invitation out of the land of the promise**,
+  issued by the one member of the household who has not lived in it for twenty-two years — *"Come down
+  to me. Don't wait"* (45:9). **Genesis records no one raising the difficulty**; it waits for 46:2–4,
+  where God does
+
 ## Related places
 
 - [[Ur of the Chaldees]] and [[Haran (city)]] — the two Mesopotamian cities the family that is aimed

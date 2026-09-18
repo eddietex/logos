@@ -24,6 +24,14 @@ tags: [connection]
   time that his word happened"* is the only text in Scripture that accounts for the two years of
   41:1**
 
+- [[Joseph Reveals Himself]] — **Genesis 45:5, 7, 8**: **Psalm 105:17's reading of the sale as a
+  sending is [[Joseph]]'s own.** ***Šālaḥ*** three times in four verses, with God as subject, against
+  ***mākar*** twice with the brothers as subject — **and the psalm keeps both verbs in one line**:
+  *"he sent a man before them; Joseph was sold for a servant."* **Acts 7:13 renders 45:1 as *"Joseph
+  was made known to his brothers"*** and adds a detail Genesis does not report — *"Joseph's race was
+  revealed to Pharaoh"* — where Genesis has the palace simply overhear the weeping (45:2, 16). See
+  [[God Sent Me Before You - The Verb That Replaces the Sale]]
+
 ## Analysis
 
 **Two later texts narrate Genesis 37, and both of them put God in it.**

@@ -28,6 +28,14 @@ tags: [connection]
   *"**Jacob**, their father, said… all these things are against me"* (42:36). **The covenant name travels
   with the twelve; the personal name stays with the frightened man**
 
+- [[Joseph Reveals Himself]] — **Genesis 45:21, 27–28**: **the switch lands on a verse boundary, at the
+  exact moment of the recovery.** *"The spirit of **Jacob**, their father, revived. **Israel** said,
+  'It is enough.'"* **The narrator uses the old name for the man things happen to and the new one for
+  the man who decides something**, and does not mark the change. **The chapter also gives the brothers
+  their national designation for the first time in a while** — *"the sons of Israel did so"* (45:21),
+  ***bənê yiśrāʾēl*** — **in a verse about loading carts.** See
+  [[The Spirit of Jacob Revived - Ruach Returning]]
+
 ## Analysis
 
 ### The same renaming, done twice, in two completely different registers

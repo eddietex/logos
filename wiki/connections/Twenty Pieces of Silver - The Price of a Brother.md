@@ -39,6 +39,13 @@ tags: [connection]
   42:28 and produced a rehearsed speech at 43:19–22; **here it is simply never spoken of.** The cup
   takes all the attention, **which is what it was for**
 
+- [[Joseph Reveals Himself]] — **Genesis 45:22**: **silver's last movement in the cycle, and it runs
+  the opposite way.** Twenty pieces out (37:28), returned in the sacks (42:25), carried down doubled
+  (43:12), planted back with the cup (44:1) — **and here three hundred pieces given to [[Benjamin]],
+  fifteen times the sale price, to the brother who was not sold.** Whether the number is aimed at the
+  price or simply at the boy, Genesis does not say; see
+  [[Five Changes of Clothing - The Coat Given Again]]
+
 ## Analysis
 
 **Genesis names a price for a human being exactly once, and it is the price the law will later fix for a

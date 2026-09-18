@@ -125,6 +125,15 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
   at noon, portions sent from the governor's table, **and men who came to beg for food drinking until they
   are merry**
 
+- [[Joseph Reveals Himself]] — Genesis 45:6, 11, 18, 23; **the chapter's engine, and the verse that
+  puts a clock on it.** *"For these two years the famine has been in the land, and there are yet five
+  years, in which there will be no plowing and no harvest"* (45:6) — **the seven of 41:30 with two
+  spent** — and every imperative in the chapter is urgent because of it. **The economics of the cycle
+  reverse here**: the brothers came down with silver to buy grain (42:3) and go home with *"the fat of
+  the land"* (45:18), twenty loaded donkeys (45:23) and a promise of maintenance — ***wəkilkaltî***,
+  *"there I will nourish you"* (45:11). **The famine that emptied Canaan is what moves Israel into
+  Egypt**
+
 ## Related themes
 
 - [[Wealth and Possessions]] — where the grain goes, and who owns the land at the end of it

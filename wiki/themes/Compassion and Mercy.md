@@ -101,6 +101,15 @@ name, and gives the name to a father who cannot see it work.**
 - **Genesis 50:19–21** *(not yet ingested)* — the cycle's answer
 - **Exodus 34:6; Psalm 103:13; Isaiah 49:15; Luke 15:20**
 
+- [[Joseph Reveals Himself]] — Genesis 45:1, 5, 9–11; **the mercy in this chapter is structural rather
+  than stated.** *"Cause everyone to go out from me!"* (45:1) **empties an Egyptian court before
+  [[Joseph]] says *"whom you sold into Egypt"*** — **a confession of their crime made where no Egyptian
+  can hear the charge**, and the exact reverse of the instinct at 42:7. The rest follows the same shape:
+  *"don't be grieved, nor angry with yourselves"* (45:5), a message dictated for an old man who will
+  not believe it, provisions for the road, and ***"there I will nourish you"*** (45:11). **Nobody in
+  the chapter names any of it as mercy**, and the word [[Jacob]] prayed for at 43:14 — ***raḥămîm*** —
+  does not appear
+
 ## Related themes
 
 - [[Favor and Grace]] — ***ḥēn*** and ***ḥānan***, the other half of the pair, **and the theme Joseph's

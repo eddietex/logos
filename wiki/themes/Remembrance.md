@@ -194,6 +194,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   *"didn't remember"* and 41:9's *"I remember my faults today"*, this is the cycle's third consecutive
   chapter organised by *zākar* and its failures**
 
+- [[Joseph Reveals Himself]] — Genesis 45:9, 13, 26–27; **a chapter full of recitation and empty of
+  remembering.** [[Joseph]] wants his father told *"of all my glory in Egypt, and of all that you have
+  seen"* (45:13), and the brothers do it — *"they told him all the words of Joseph"* (45:27) — **and
+  the telling does not work.** **Nobody is asked to recall anything**: not the pit, not the dreams
+  (which go unmentioned although 45:9's *"God has made me lord of all Egypt"* states their content as
+  fact), not the coat. **Joseph recites the past once, in four words, in order to close it**; see
+  [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]]
+
 ## Related themes
 
 - [[Covenant]] — the usual object of the verb: what God remembers is what he swore

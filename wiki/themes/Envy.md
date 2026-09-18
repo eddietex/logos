@@ -135,6 +135,14 @@ judgment about a motive.**
   (44:13). **The envy that opened the cycle is answered by an act the text records without a single
   adjective**
 
+- [[Joseph Reveals Himself]] — Genesis 45:22, 24; **the cause of Genesis 37 is reproduced in the
+  chapter that resolves it, by the man it was used against.** [[Joseph]] gives the ten one change of
+  clothing each and [[Benjamin]] **five, with three hundred pieces of silver** — ***śəmālôt***, the
+  same class of object as the coat of 37:3, in the same asymmetry, to the other son of [[Rachel]].
+  **Then he says *"see that you don't quarrel on the way"*** (45:24), **which is either an afterthought
+  or an admission that he knows exactly what he has just handed them.** Genesis records no quarrel and
+  offers no comment on either verse; see [[Five Changes of Clothing - The Coat Given Again]]
+
 ## Related themes
 
 - [[Strife and Peacemaking]] — what envy becomes when it is acted on, and the much smaller set of

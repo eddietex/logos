@@ -7476,3 +7476,185 @@ prose and marked `*(not yet ingested)*` rather than linked.
   Genesis 42 paragraph. Both were left alone rather than edited in an ingest commit.
 
 Genesis stands at 53 / 59 pericopes; the next is *Joseph Reveals Himself*, Genesis 45:1–28.
+
+## [2026-09-18] ingest | Genesis 45.1-28 — Joseph Reveals Himself
+
+Unattended run (`/ingest auto`). Genesis 45 whole, as the book page had it queued. The chapter has
+three internal movements under three different speakers — the disclosure (45:1–15), Pharaoh's
+invitation (45:16–24), and Canaan (45:25–28) — but they are one action and the last two are
+consequences of the first. Kept as one pericope, boundary unchanged.
+
+### The passage page
+
+[[Joseph Reveals Himself]], `wiki/passages/Genesis/`, built around six findings.
+
+**1. The chapter swaps one verb for another in the open.** ***Mākar***, *you sold*, **twice** (45:4,
+5); ***šālaḥ***, ***"God sent me before you"***, **three times** (45:5, 7, 8), same man as object.
+**[[Joseph]] does not deny the sale** — 45:4 is the only accusation he makes in the chapter and he
+makes it before any of the consolation — **but he stops using the brothers' verb after 45:5.** Read
+flatly, *"it wasn't you who sent me here, but God"* (45:8) contradicts the verse before it; the page
+sets out three readings (the Hebrew comparative, deliberate overstatement aimed at terrified men, and
+a claim about the order of causes) and **adopts none**, on the ground that Genesis 50:20 restates the
+same doctrine in a form that concedes the brothers' intention rather than dissolving it.
+
+**2. Genesis names God four times and the narrator is not one of the speakers.** All four are
+Joseph's (45:5, 7, 8, 9). **The narratorial silence that began at 39:23 runs unbroken through the
+disclosure, the reunion, Pharaoh's invitation and Jacob's revival**, and ends at 46:2. **The book's
+most explicit statement of providence is therefore testimony, not verdict** — which discharges the
+`*(not yet ingested)*` marker [[Providence]] has been carrying on 45:5–8.
+
+**3. There is no confession and no pardon in the chapter.** The brothers say nothing at all between
+45:3 and 45:15; *"after that his brothers talked with him"* (45:15) is the entire report of the
+conversation; **and their one quoted sentence, delivered in Canaan, leaves the sale out** — *"Joseph
+is still alive, and he is ruler over all the land of Egypt"* (45:26). Joseph never says he forgives;
+he says *"don't be grieved, nor angry with yourselves"* (45:5), **which absorbs a guilt that has not
+been confessed.** 50:15 is the evidence it did not hold.
+
+**4. Five changes of clothing.** At 45:22 Joseph gives ten men one garment each and [[Benjamin]]
+**five, plus three hundred pieces of silver — fifteen times the twenty he was sold for** — and two
+verses later tells them not to quarrel on the road. **This is 37:3 and 43:34 performed a third time,
+by the man the first two were performed on**, and Genesis passes it without a word where it had
+stated the cause of the hatred outright at 37:4. Filed as
+[[Five Changes of Clothing - The Coat Given Again]] with three readings held open.
+
+**5. The words fail and an object works.** [[Jacob]] is told the truth and *"his heart fainted, for
+he didn't believe them"* (45:26) — ***wayyāpāg***, a rare verb for going slack. **Then *"when he saw
+the wagons… the spirit of Jacob, their father, revived"*** (45:27). **The same man was convinced of
+his son's death by a bloodied coat and is convinced of his life by a cart**, with the human testimony
+discounted both times — **and the wagons were [[Pharaoh (of Joseph's time)]]'s idea, not Joseph's**
+(45:19). The name switches across the verse boundary onto the recovery: *the spirit of **Jacob**
+revived; **Israel** said*.
+
+**6. A remnant.** ***Šəʾērît*** (45:7) **is the word's first appearance in Scripture**, with
+***pəlêṭâ gədōlâ*** beside it, **about a household of seventy in a famine** — no judgment survived,
+no nation sifted. Every later use has the element this one lacks.
+
+### Judgment calls made without asking
+
+- **Boundary kept at 45:1–28.** No redraw.
+- **One new place page, [[Goshen]]**, created at its first mention (45:10) rather than deferred to
+  46–47 where the family actually settles. The wiki's standing practice is to open a page at first
+  appearance.
+- **No new person pages.** Everyone named has one. The only candidate was the Egyptians who overhear
+  the weeping (45:2), and the standing line on unnamed collectives holds.
+- **Four new connection pages rather than two or six.** Cut from the list: a page on ***ʾāb
+  ləparʿōh*** (45:8), which [[Kingship and Empire]] now absorbs in four sentences; and one on
+  *"see that you don't quarrel on the way"* (45:24), which
+  [[Five Changes of Clothing - The Coat Given Again]] carries as its open question instead.
+- **[[Joseph's Steward]] was deliberately not given a Genesis 45 entry**, nor a row in
+  `wiki/people/index.md` for it. He is *absent* from the chapter — *"cause everyone to go out from
+  me"* (45:1) includes him — and the passage page says so under People, but a page whose "Appears in"
+  list claims a pericope he is not in would be wrong.
+- **Pharaoh's motive left unassigned.** The political reading — a vizier whose family lives in Egypt
+  at royal expense has nowhere to go back to — is noted on the passage page and on
+  [[Pharaoh (of Joseph's time)]] and **explicitly not adopted**, because the text supports it only by
+  the shape of the situation and Exodus 1:8 is a different king.
+
+### New connection pages (4)
+
+- [[God Sent Me Before You - The Verb That Replaces the Sale]] — ***mākar*** twice against ***šālaḥ***
+  three times in five verses, with Psalm 105:17 (which keeps **both** verbs in one line), Acts 7:9–10
+  (which supplies the motive Genesis withheld — *moved with jealousy*), and Genesis 50:20. **The
+  page's argument is that 50:20 is the controlling statement and 45:8 its warmer first draft**, and
+  that the difference matters: a reader who has only 45:8 has a doctrine usable to tell victims their
+  injury was an errand.
+- [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] — ***šəʾērît*** in its first
+  occurrence, with ***pəlêṭâ*** beside it and ***happālîṭ*** at 14:13 behind it, through Isaiah
+  10:20–22, Amos 5:15 (***šəʾērît yôsēp***, the same noun Joseph coined, applied to a kingdom named
+  after him), Micah 2:12, Ezra 9:8 (**the closest verbal relative in the canon**, pairing both of
+  45:7's nouns) and Romans 11:5. **Genesis's remnant is the only unqualified one in Scripture —
+  the whole family, nobody lost.**
+- [[Five Changes of Clothing - The Coat Given Again]] — 37:3, 43:34 and 45:22. **Three readings held
+  open**: unreflective repetition, a last provocation, or restitution aimed at the sale price rather
+  than at the boy. 45:24 is what keeps the question open, since ***ʾal-tirgəzû badderek*** carries
+  both *don't be afraid* and *don't fall out with each other*.
+- [[The Spirit of Jacob Revived - Ruach Returning]] — ***wattəḥî rûaḥ*** (45:27) with Judges 15:19
+  and 1 Samuel 30:12. **In the other two the reviving agent is water or food; here it is a line of
+  carts**, and the page sets it against 37:31–33, where an object also did the persuading.
+
+### New place page (1)
+
+- [[Goshen]] — **first mention in Scripture at 45:10, and Genesis never explains it**: no etymology,
+  no naming speech, no location. What the text gives is relational — near Joseph, good pasture, far
+  enough out that shepherds can live there (46:34), on the road in from Canaan. **The page declines to
+  commit to the eastern-delta identification as geography** while noting it fits every condition, and
+  keeps the southern-Canaanite Goshen of Joshua 10:41 separate.
+
+### Pages revised
+
+Book: [[Genesis]] (box checked, a Genesis 45 paragraph added to the structure overview),
+`wiki/books/index.md` (54 / 59), `wiki/index.md` counts.
+People (17): [[Joseph]], [[Jacob]], [[Benjamin]], [[Judah]], [[Pharaoh (of Joseph's time)]],
+[[Rachel]], [[God]], [[Reuben]], and the eight plural brothers.
+Places (3): [[Egypt]], [[Canaan]], [[Sheol]].
+Themes (16): [[Providence]], [[Brotherhood]], [[Guilt and Conscience]], [[Deception]],
+[[Famine and Plenty]], [[Land and Sojourning]], [[Life and Death]], [[Seeing and Being Seen]],
+[[Language and Speech]], [[Envy]], [[Favor and Grace]], [[Hope]], [[Suffering]],
+[[Compassion and Mercy]], [[Kingship and Empire]], [[Remembrance]].
+Connections (12): [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]],
+[[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]],
+[[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+[[Twenty Pieces of Silver - The Price of a Brother]],
+[[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]],
+[[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]],
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]],
+[[A Garment Used as Evidence - The Coat and the Cloak]],
+[[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]],
+[[Renamed and Still Called Jacob - The Two Namings of Israel]],
+[[If I Am Bereaved, I Am Bereaved - Jacob and Esther]],
+[[Zaphenath-Paneah - Renaming at a Foreign Court]],
+plus [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]]'s stale 45 marker discharged.
+All four category indexes updated.
+
+### Quotation check against `raw/bible/`
+
+Every fragment quoted in the new pages was diffed against `raw/bible/Genesis.md` rather than read on
+the page. **Five wrong fragments were caught, and only one of the five was pre-existing.**
+
+- ***"He made himself strange to them"*** for 42:7. **The WEB reads *"acted like a stranger to
+  them."*** This one was **pre-existing and had propagated**: it is quoted as WEB on
+  [[Joseph Sold into Slavery]] and
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]], and it had been copied into
+  the new passage page from there. Fixed in the new page and in [[Deception]]; **the two older pages
+  still carry it and are left for a lint**, since they are outside this pericope.
+- ***"a little of the best fruits in the land"*** for 43:11 — **invented from memory in this pass.**
+  WEB: *"Take from the **choice fruits of the land** in your bags."* The committed
+  [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] had it **right**, so
+  this was a fresh error, not propagation.
+- ***"nuts and almonds"*** for 43:11. WEB: *"nuts, and almonds."*
+- ***"one who had escaped came and told Abram the Hebrew"*** for 14:13. WEB: *"**One** who had
+  escaped came and told Abram, **the Hebrew**"* — the comma is the text's.
+- ***"the spirit of Jacob revived"*** for 45:27. WEB: *"the spirit of Jacob, **their father**,
+  revived."*
+
+**The lesson from the last two entries holds and now has a second shape.** Last time the bad
+fragments propagated between wiki pages; **this time four of the five were newly invented by the
+ingesting agent and only one was inherited.** Both failure modes are invisible to every mechanical
+check the repo has, and **both are caught only by diffing each quoted fragment against the raw file.**
+
+### Link check
+
+`scripts/link-check.sh` exits 0, expected baseline 64 not-yet-started book pages. **One wrapped link
+was introduced and caught before commit** — `[[Pharaoh (of Joseph's` / `time)]]` split across the
+~100-column wrap in `wiki/places/Egypt.md` — which is the **third consecutive ingest** in which a long
+link target has been broken by the wrap and the script has been the only thing to see it.
+
+**No links were deliberately left dangling.** 46:2–4, 46:28–47:6, 47:1–10, 47:12, 47:28 and 50:15–21
+are named in prose and marked `*(not yet ingested)*` rather than linked.
+
+### Findings left for the next lint
+
+- **The 42:7 fragment above**, still wrong on [[Joseph Sold into Slavery]] and
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]. [[Joseph Sold into Slavery]]
+  also spells it *recognised*, which the WEB does not.
+- **Unchanged from the last entry**: the stale `*(not yet ingested)*` marker on [[The Tower of Babel]]
+  pointing at Genesis 19:1–29; the seven older passage pages not retro-linked to [[Sexual Sin]]; the
+  seven plural brothers' missing [[The Second Journey]] entries; and the Cyrillic *е* inside
+  *ʾênennû* in `wiki/people/Jacob.md` and `wiki/books/Genesis.md`. All left alone rather than edited
+  in an ingest commit.
+- **`wiki/people/God.md` is not truncated at 25:11** as the previous two entries recorded. Its
+  *Appears in* list was current through Genesis 44 and took a Genesis 45 entry normally. Whatever the
+  earlier finding referred to, it is not that section; **the finding is retired as stated.**
+
+Genesis stands at 54 / 59 pericopes; the next is *Jacob's Family Settles in Egypt*, Genesis
+46:1–47:12.

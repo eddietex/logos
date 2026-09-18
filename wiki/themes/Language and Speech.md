@@ -176,6 +176,15 @@ noticing into doctrine.
   crosses the wall Joseph built.** *"What will we tell my lord? What will we speak? Or how will we
   clear ourselves?"* (44:16) is **three verbs of speech collapsing into one of law**
 
+- [[Joseph Reveals Himself]] — Genesis 45:1–15, 24, 26; **the chapter in which the language barrier
+  comes down and the most important thing still goes unsaid.** *"It is my mouth that speaks to you"*
+  (45:12) **is offered as evidence of identity**, and it is the answer to *"there was an interpreter
+  between them"* (42:23). The chapter is also **the book's densest run of imperatives** — *come near,
+  don't be grieved, hurry, go up, tell him, come down, don't wait, tell my father, don't quarrel*.
+  **Against all that speech stand two silences**: the brothers say nothing for twelve verses (45:3–15),
+  and *"after that his brothers talked with him"* (45:15) **is the entire record of a conversation
+  twenty-two years in coming.** Their one quoted sentence (45:26) omits the sale
+
 ## Related themes
 
 - [[The Nations]] — the seventy, distinguished by language among other things

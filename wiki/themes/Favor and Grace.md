@@ -146,6 +146,14 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   roots that Exodus 34:6 binds together as God's own name, **here split between a father in Canaan and a
   son in Egypt who cannot be in the same sentence.** See [[Compassion and Mercy]]
 
+- [[Joseph Reveals Himself]] — Genesis 45:16–20; **the most generous speech any foreign king makes in
+  Genesis, and it is unprompted and unearned.** [[Pharaoh (of Joseph's time)]] hears secondhand that
+  his vizier's brothers have arrived, is *pleased* — ***wayyîṭab bəʿênê parʿōh***, **the formula of
+  41:37** — **and then raises every term [[Joseph]] had just set**: *"the good of the land of Egypt"*
+  and *"the fat of the land"* against Joseph's [[Goshen]], wagons by royal command, and *"don't
+  concern yourselves about your belongings."* **He has met none of them.** Genesis assigns him no
+  motive at all, which is how the book treats every other kindness in the cycle
+
 ## Related themes
 
 - [[Righteousness]] — the term 6:9 supplies, which this theme is permanently unjoined to

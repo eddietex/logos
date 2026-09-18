@@ -279,6 +279,15 @@ where that starts, in a sentence about a family that got halfway.
   **the first statement of the separateness that keeps Israel distinct through four hundred years of
   living in somebody else's country**
 
+- [[Joseph Reveals Himself]] — Genesis 45:9–11, 18–20; **the invitation out of the land of the
+  promise, and nobody in the chapter raises the difficulty.** *"Come down to me. Don't wait"* (45:9) is
+  issued by the one member of the family who has not lived in [[Canaan]] for twenty-two years, and the
+  address he assigns is [[Goshen]] — **the word's first appearance in Scripture** (45:10).
+  [[Pharaoh (of Joseph's time)]] widens it to *"the good of the land of Egypt"* and tells them to leave
+  their belongings behind (45:18, 20). **A household called out of Ur and promised Canaan is invited to
+  abandon its possessions and move to Egypt**, and Genesis lets the whole chapter pass without a word
+  about the promise; **that waits for 46:2–4**
+
 ## Related themes
 
 - [[Famine and Plenty]] — the commonest reason anyone in Genesis leaves anywhere

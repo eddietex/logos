@@ -741,6 +741,21 @@ is carried back to Machpelah.
   vow of 37:35 and 42:38 a third time. **The argument that saves Benjamin is a claim about him** —
   *"his life is bound up in the boy's life … he will die"* (44:30–31) — **and the chapter's last clause
   is about his face.** He is named fifteen times in seventeen verses and knows none of it has happened
+- [[Joseph Reveals Himself]] — Genesis 45:3, 9–13, 19, 23, 25–28; **absent for twenty-five verses, the
+  object of nearly every sentence in them, and given the chapter's last word.** *"Does my father still
+  live?"* is the first thing [[Joseph]] asks after naming himself (45:3), and the message dictated for
+  him is nine imperatives long. **Then the news reaches him and fails**: *"Joseph is still alive, and
+  he is ruler over all the land of Egypt"* produces ***wayyāpāg libbô*** — *his heart fainted* — *"for
+  he didn't believe them"* (45:26). **What works is an object.** *"When he saw the wagons which Joseph
+  had sent to carry him, the spirit of Jacob, their father, revived"* (45:27) — ***wattəḥî rûaḥ***,
+  **the idiom Scripture uses for Samson at the spring and a starving man given figs**, and **the same
+  mechanism that convinced him of the death**: a bloodied coat at 37:33, a cart here, **and the human
+  testimony discounted both times.** See [[The Spirit of Jacob Revived - Ruach Returning]] and
+  [[A Garment Used as Evidence - The Coat and the Cloak]]. **The narrator's name for him changes across
+  the verse boundary** — *the spirit of **Jacob** revived; **Israel** said* — and the man who vowed
+  three times to go down to [[Sheol]] mourning (37:35; 42:38; 44:29) says instead: ***"It is enough.
+  Joseph my son is still alive. I will go and see him before I die."*** ***Rab***, *enough*, **is a
+  word about quantity**: he does not say he believes them, he says the evidence has become sufficient
 
 ## Related people
 

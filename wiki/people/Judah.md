@@ -264,6 +264,14 @@ This page grows as those pericopes arrive; what follows is the shape of it.
   defence**; his single argument is that *"his life is bound up in the boy's life"* (44:30), and his
   single request is to serve the sentence himself — ***taḥat hannaʿar***, *instead of the boy* (44:33).
   **The last thing he says is about his father's face**, and the next verse is 45:1
+- [[Joseph Reveals Himself]] — Genesis 45; **not named once, and the chapter is the answer to him.**
+  *"Then Joseph couldn't control himself"* (45:1) follows directly on *"lest I see the evil that will
+  come on my father"* (44:34), **and the verb of his approach — *wayyiggaš*, 44:18 — comes back as the
+  invitation**: ***gəšû-nāʾ ʾēlay***, *"Come near to me, please"* (45:4). **Everything he asked for at
+  44:33 happens**: the boy goes up with his brothers (45:24), the father is fetched, and the sentence
+  is never carried out. **Genesis gives him no line, no reaction and no acknowledgement**, and the
+  surety of 43:9 is discharged without the word being used. See
+  [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]
 
 ## Related people
 

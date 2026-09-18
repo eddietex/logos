@@ -16,6 +16,14 @@ tags: [connection]
 - Genesis 25:21 — *"Isaac entreated Yahweh for his wife, because she was barren"*
 - 2 Kings 5:7 — *"Am I God, to kill and to make alive?"*, the king of Israel on receiving Naaman
 
+- [[Joseph Reveals Himself]] — **Genesis 45:5–8**: **the first of [[Joseph]]'s two verdicts, and the
+  softer one.** *"It wasn't you who sent me here, but God"* (45:8) states the doctrine by **replacing**
+  the brothers' agency; 50:20's *"you meant evil against me, but God meant it for good"* states it by
+  **setting two intentions side by side and keeping both.** **The difference matters because the
+  brothers need it said twice** — 45:5's *"don't be grieved, nor angry with yourselves"* does not
+  survive their father's death (50:15). See
+  [[God Sent Me Before You - The Verb That Replaces the Sale]]
+
 ## Analysis
 
 **The same four words, from a father and his son, twenty chapters apart, refusing opposite things.**

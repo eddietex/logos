@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 33:4** — Esau *"ran to meet him, embraced him, fell on his neck, kissed him, and they
   wept"* — [[The Reconciliation with Esau]]
 - **Genesis 45:14–15** — Joseph *"fell on his brother Benjamin's neck, and wept… kissed all his
-  brothers, and wept on them"* *(not yet ingested)*
+  brothers, and wept on them"* — [[Joseph Reveals Himself]]
 - **Genesis 46:29–30** — Joseph *"fell on his neck, and wept"*; Jacob answers, *"since I have seen
   your face, that you are still alive"* *(not yet ingested)*
 - **Luke 15:20** — the father of the prodigal son *"ran, and fell on his neck, and kissed him"*
@@ -27,6 +27,15 @@ tags: [connection]
   [[Benjamin]]. **Still no embrace, and still concealed** — but where 42:24 needed only to turn away,
   this one needs a door, a washed face, and ***wayyitʾappaq***, *he forced himself*, **the verb that
   fails at 45:1.** The concealment is one room thinner every time
+
+- [[Joseph Reveals Himself]] — **Genesis 45:2, 14–15**: **the third and fourth weepings, and the first
+  that is not hidden.** 42:24 needed only a turned back; 43:30 needed a door, a washed face and
+  ***wayyitʾāppaq***; **45:1–2 takes the wall down** — *"he wept aloud. The Egyptians heard, and the
+  house of Pharaoh heard."* **The concealment has been one room thinner each time and here there is no
+  room left.** Then the embrace arrives at last, and **it arrives in two grades**: [[Benjamin]] gets the
+  neck and the reciprocal weeping (45:14, **the only act Genesis records Benjamin performing**), and the
+  other ten get a kiss and are wept *on* (45:15). **The formula is performed on every damaged
+  relationship in the story, but not equally**
 
 ## Analysis
 

@@ -562,6 +562,30 @@ every item of whose evidence is mercy, **which the book does not correct for fiv
   names God once in the chapter** (44:16, in Judah's mouth) **and reports the whole of it without a
   word about what Joseph intended.**
 
+  **[[Joseph Reveals Himself]]** is the answer to that speech and it begins in its next sentence.
+  ***Wayyitʾappaq***, the verb that held at 43:31, **is negated in the chapter's first clause**; he
+  clears the room, weeps loudly enough that *"the Egyptians heard, and the house of Pharaoh heard"*,
+  and says ***"I am Joseph"*** twice — **once as a name and once with the crime attached**, *"your
+  brother, whom you sold into Egypt"* (45:4). **That is the only accusation he makes**, and he spends
+  the next four verses taking the act off them: ***mākar***, *you sold*, **twice**, against
+  ***šālaḥ***, ***"God sent me before you"***, **three times** (45:5, 7, 8). **It is the book's
+  explicit statement of providence and it is a character's, not the narrator's** — **God is named four
+  times in twenty-eight verses and every one is in Joseph's mouth**, the silence unbroken since 39:23.
+  The word he coins for what is being saved is ***šəʾērît***, **a remnant — its first appearance in
+  Scripture**, about a household of seventy. **What the chapter conspicuously lacks is a confession and
+  a pardon.** The brothers say nothing at all between 45:3 and 45:15; **their one recorded sentence,
+  delivered in Canaan, leaves the sale out** (45:26), and it is that gap which makes 50:15 possible.
+  [[Pharaoh (of Joseph's time)]] then **outbids his own vizier** — Joseph had offered [[Goshen]], and
+  Pharaoh offers *"the fat of the land"* and commands wagons — **and Joseph gives ten men one garment
+  each and [[Benjamin]] five, with three hundred pieces of silver**, which is 37:3 and 43:34 performed
+  a third time by the man they were performed on, **and then tells them not to quarrel on the road.**
+  In Canaan the news fails and an object works: *"his heart fainted, for he didn't believe them"*
+  (45:26), **and then *"when he saw the wagons… the spirit of Jacob, their father, revived"*** — **the
+  same man persuaded of his son's death by a bloodied coat and of his life by a cart.** The name
+  switches across the verse boundary, and **[[Jacob]], who has said three times that he would go down
+  to [[Sheol]] mourning, says instead: *"It is enough. Joseph my son is still alive. I will go and see
+  him before I die."***
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -632,7 +656,7 @@ merge, or reorder them freely.
 - [x] [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38
 - [x] [[The Second Journey]] — Genesis 43:1–34
 - [x] [[The Silver Cup and Judah's Plea]] — Genesis 44:1–34
-- [ ] Joseph Reveals Himself — Genesis 45:1–28
+- [x] [[Joseph Reveals Himself]] — Genesis 45:1–28
 - [ ] Jacob's Family Settles in Egypt — Genesis 46:1–47:12
 - [ ] Joseph and the Famine — Genesis 47:13–31
 - [ ] Jacob Blesses Ephraim and Manasseh — Genesis 48:1–22

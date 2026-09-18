@@ -12,6 +12,13 @@ tags: [connection]
 - **Genesis 43:11–15, 25–26** — [[The Second Journey]]; the present carried down to [[Joseph]]
 - **Genesis 4:3–5** — the word's first use, of [[Cain]]'s and [[Abel]]'s offerings
 
+- [[Joseph Reveals Himself]] — **Genesis 45:23**: **the present comes back down the road multiplied.**
+  [[Jacob]] scraped together *"a little balm, a little honey, spices and myrrh, nuts, and almonds"*
+  from *"the choice fruits of the land"* (43:11), sent in fear to a governor. **The answer is
+  twenty donkeys**: ten *"loaded with the good things of Egypt"* and ten with *"grain and bread and
+  provision for his father by the way"* — **and this time the gift travels toward Canaan and is not
+  a propitiation of anything**
+
 ## Analysis
 
 ### The same noun, the same tactic, twenty years apart

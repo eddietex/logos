@@ -16,6 +16,13 @@ tags: [connection]
 - **2 Samuel 15:25–26** — David sending the ark back
 - **Genesis 32:9–12** — [[Wrestling at the Jabbok]]; Jacob's other prayer, which argues
 
+- [[Joseph Reveals Himself]] — **Genesis 45:25–28**: **the bereavement [[Jacob]] accepted in advance at
+  43:14 does not arrive.** Both sons come back, the wagons come with them, and **the man who had
+  written off the loss in a subjunctive is given more than he surrendered** — *"It is enough. Joseph my
+  son is still alive."* **Esther's *"if I perish, I perish"* has no such answering scene**; the book
+  ends without ever telling the reader what it cost her. **Genesis answers its formula and Esther
+  leaves hers standing**
+
 ## Analysis
 
 ### The construction

@@ -103,6 +103,14 @@ is close because you cannot bear to sit in the dark with him.
   and it is a verdict imposed from outside, centuries later. **The relief, when it comes, comes through a
   man's insomnia and a courtier's self-interest**
 
+- [[Joseph Reveals Himself]] — Genesis 45:27–28; ***"It is enough"*** — ***rab*** — **a word about
+  quantity, and the whole of [[Jacob]]'s recovery.** He is told the truth and does not believe it
+  (45:26); he sees the wagons and his spirit revives (45:27); **and what he says is not that he
+  believes but that the evidence has become sufficient.** *"Joseph my son is still alive. I will go and
+  see him before I die."* **The man who said three times that he was going down to [[Sheol]] mourning
+  names a different journey in the same grammar of descent** — and what he wants at the end of it is
+  not an explanation but a sight
+
 ## Related themes
 
 - [[Suffering]] — the condition hope is asked about from

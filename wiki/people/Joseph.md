@@ -205,11 +205,9 @@ a grief too large to reopen) **are all imported; the wiki records the silence as
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-The brothers arrive to buy food and do not know him, and the book spends five chapters on
-recognition. He tests them, weeps repeatedly, plants a cup on Benjamin, and breaks when Judah offers
-himself as a slave in the boy's place (44:18–34). His verdict on the whole of it is given twice —
-*"God sent me before you to preserve life"* (45:5) and *"you meant evil against me, but God meant it
-for good"* (50:20) — **and the sentence that introduces the second one is his father's, turned around**:
+His verdict on the whole of it is given twice — *"God sent me before you to preserve life"* (45:5,
+[[Joseph Reveals Himself]]) and *"you meant evil against me, but God meant it for good"* (50:20) —
+**and the sentence that introduces the second one is his father's, turned around**:
 ***"Am I in the place of God?"*** (50:19), the identical idiom Jacob used at 30:2 to refuse Rachel help.
 See [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]].
 
@@ -281,7 +279,15 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - Plants his silver cup in Benjamin's sack, scripts the accusation on the road, claims to divine, and
   offers the other ten a free road home — *"go up in peace to your father"* — Genesis 44:1–5, 15, 17,
   [[The Silver Cup and Judah's Plea]]
-- The silver cup and the disclosure — Genesis 44–45 *(not yet ingested)*
+- ***Wayyitʾappaq*** **fails**; he clears the room, is heard weeping by the whole house of Pharaoh, and
+  says *"I am Joseph, your brother, whom you sold into Egypt"* — Genesis 45:1–4,
+  [[Joseph Reveals Himself]]
+- *"God sent me before you to preserve life"*, three times in four verses, against *you sold me*
+  twice; *a father to Pharaoh*; ***šəʾērît***, *a remnant* — Genesis 45:5–8
+- Sends for [[Jacob]] and assigns him [[Goshen]]; falls on [[Benjamin]]'s neck; kisses the ten —
+  Genesis 45:9–15
+- Gives ten brothers one change of clothing each and Benjamin five with three hundred pieces of
+  silver, then *"see that you don't quarrel on the way"* — Genesis 45:22, 24
 - Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
   50:19–20 *(not yet ingested)*
@@ -373,6 +379,22 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   guilt subtracted.** **Genesis never says he is testing them and never says what he would have done
   if they had gone.** What it says is that after [[Judah]]'s speech the verb that held at 43:31 fails
   (45:1) and his next recorded words are *"I am Joseph"*
+- [[Joseph Reveals Himself]] — Genesis 45:1–24; **the chapter in which he stops performing and talks
+  more than in any other in Genesis.** ***Wayyitʾappaq*** **is negated in its first clause**; he clears
+  an Egyptian court so that the sentence *"whom you sold into Egypt"* will have no Egyptian witness,
+  and then weeps loudly enough that the palace hears anyway (45:1–2). **He says *"I am Joseph"* twice
+  — once as a name and once with the crime attached** — **and that is the whole of his accusation.**
+  The four verses after it reassign the act: ***mākar*** *you sold* twice, against ***šālaḥ*** ***"God
+  sent me before you"*** three times (45:5, 7, 8), with ***šəʾērît***, *a remnant* — **the word's first
+  appearance in Scripture** — as the purpose. **He never says he forgives and never asks for an
+  apology**; he tells them not to grieve, which is a different transaction, **and 50:15 is the evidence
+  that it did not settle.** He claims *father to Pharaoh, lord of all his house, ruler over all the
+  land of Egypt* (45:8), **offers his own mouth as proof of identity** (45:12) — **the interpreter of
+  42:23 finally set aside** — assigns [[Goshen]] before Pharaoh has offered anything, falls on
+  [[Benjamin]]'s neck and kisses the ten. Then **he gives the son of [[Rachel]] five changes of
+  clothing and three hundred pieces of silver in front of ten men who get one garment each** (45:22),
+  **which is 37:3 performed by the man it was performed on**, and tells them not to quarrel on the
+  road. **Genesis reports all of it and comments on none of it**
 
 ## Related people
 

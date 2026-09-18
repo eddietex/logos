@@ -136,6 +136,15 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   permanent law of Egypt after the crown has bought the population. **Genesis reports all of it as
   competent government and passes no verdict**
 
+- [[Joseph Reveals Himself]] — Genesis 45:8, 16–20, 26; ***"a father to Pharaoh, lord of all his
+  house, and ruler over all the land of Egypt"*** (45:8) — **three titles, and the first is an office.**
+  ***ʾĀb ləparʿōh*** is the vizier as the king's counsellor, the usage Isaiah gives to Eliakim (22:21),
+  **and Genesis sets it four words away from *my father*** — a father to the king of Egypt and a son to
+  a man in Canaan who believes him dead. **The chapter's imperial power is exercised entirely as
+  hospitality**: the king above him raises every term (45:18–20), and the brothers' report home names
+  the rank before anything else, *"he is ruler over all the land of Egypt"* (45:26). **This is the
+  friendliest Egypt ever is to Israel, and Exodus 1:8 is written against it**
+
 ## Related themes
 
 - [[Famine and Plenty]] — the crisis that turns a crown into a landlord

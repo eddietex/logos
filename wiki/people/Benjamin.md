@@ -63,12 +63,9 @@ table (43:34), the silver cup planted in his sack ([[The Silver Cup and Judah's 
 speech offering to be enslaved in his place — **the speech that breaks Joseph and ends the
 concealment.**
 
-At the reunion, *"he fell on his brother Benjamin's neck and wept, and Benjamin wept on his neck"*
-(45:14) — **in the verbs of 33:4**; see
-[[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]].
-
-**Genesis records no word he ever speaks.** He is talked about, bargained for, wept over, and given
-five portions, and the book never once quotes him.
+**Genesis records no word he ever speaks.** He is talked about, bargained for, wept over, embraced,
+and given five portions and then five garments, and the book never once quotes him — see
+[[Joseph Reveals Himself]].
 
 Jacob's deathbed blessing makes him a predator: *"Benjamin is a ravenous wolf. In the morning he will
 devour the prey. At evening he will divide the plunder"* (49:27) — **the shortest and most violent of
@@ -96,7 +93,10 @@ Paul, who carries Saul's name.
   Genesis 44:2, 12, 10, 17, [[The Silver Cup and Judah's Plea]]
 - Judah offers himself as a slave in his place — ***taḥat hannaʿar*** — Genesis 44:18–34,
   [[The Silver Cup and Judah's Plea]]
-- Joseph falls on his neck and weeps — Genesis 45:14 *(not yet ingested)*
+- Joseph falls on his neck and weeps, and he weeps back — **the only act Genesis records him
+  performing in the Joseph cycle** — Genesis 45:14, [[Joseph Reveals Himself]]
+- Given five changes of clothing and three hundred pieces of silver where his brothers get one garment
+  each — Genesis 45:22
 - Blessed as a ravenous wolf — Genesis 49:27 *(not yet ingested)*
 
 ## Appears in
@@ -139,6 +139,19 @@ Paul, who carries Saul's name.
   [[Joseph]] at 37:3** — calls him *the boy* eight times, and offers to be enslaved *instead of* him.
   **Every consequential act in the chapter happens to him and none of it is his**, and Genesis still
   records no word he speaks
+- [[Joseph Reveals Himself]] — Genesis 45:12, 14, 22; **named as a witness, embraced first, given five
+  times what anyone else gets, and silent again.** *"Your eyes see, and the eyes of my brother
+  Benjamin, that it is my mouth that speaks to you"* (45:12) **makes him the second pair of eyes on the
+  proof and does not address him.** Then 45:14: *"He fell on his brother Benjamin's neck, and wept,
+  and Benjamin wept on his neck"* — **the only action Genesis records him performing in the entire
+  Joseph cycle**, and it is a reciprocal one. **He is embraced before the other ten, who get a kiss.**
+  At 45:22 he receives **five changes of clothing and three hundred pieces of silver** where his
+  brothers receive one garment each — **the fivefold portion of 43:34 repeated in the currency of
+  37:3, by the man whose own coat caused all of it** — and two verses later Joseph tells them not to
+  quarrel on the way. See [[Five Changes of Clothing - The Coat Given Again]]. **The surety [[Judah]]
+  gave for him at 43:9 and called in at 44:32 is discharged in this chapter without being mentioned**,
+  and Benjamin, who has now been the object of a death oath, two slavery sentences, an embrace and a
+  fortune, **has still not spoken**
 
 ## Related people
 

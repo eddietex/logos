@@ -128,6 +128,15 @@ requires only that you be standing outside it.
   will bring down the gray hairs of your servant, our father.* **The speech ends on the thing he
   cannot face**, *"lest I see the evil that will come on my father"*
 
+- [[Joseph Reveals Himself]] — Genesis 45:5–8, 26; **twenty-two years summarised by the man who lived
+  them in four words** — *"whom you sold into Egypt"* — **and then reassigned to God as an errand.**
+  [[Joseph]] does not mention the pit, the caravan, [[Potiphar]]'s house, the false charge, or the two
+  forgotten years; he says ***"don't be grieved, nor angry with yourselves"*** (45:5). **The wiki reads
+  this as pastoral rather than complete**, on the evidence of 50:15–21, where the same ground has to be
+  covered again in harder words. **[[Jacob]]'s suffering gets the chapter's only physical description**:
+  ***wayyāpag libbô***, *his heart fainted* (45:26), **the language Scripture uses of a body that has
+  run out**
+
 ## Related themes
 
 - [[Retribution]] — the account of suffering the book of Job is written against

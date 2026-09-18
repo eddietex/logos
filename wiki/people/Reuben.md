@@ -174,6 +174,12 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   done without comment. He is the eldest sack in the search (*"beginning with the oldest"*, 44:12) and
   has no recorded word in the chapter. **The two-grandsons surety he offered at 42:37 is the offer
   [[Judah]]'s speech is the answer to**, and it is not mentioned either
+- [[Joseph Reveals Himself]] — Genesis 45:3–4, 15, 21–26; **not named again, and the chapter does not
+  need him.** He is one of the ten who cannot answer *"I am Joseph"* (45:3), one of the ten kissed and
+  wept on (45:15), one of the ten given a single change of clothing while [[Benjamin]] is given five
+  (45:22), **and one of the eleven who deliver a report to their father that omits the sale** (45:26).
+  **The firstborn who tried to save [[Joseph]] at 37:21–22 and found the pit empty is present for the
+  disclosure and is given nothing to say about it.** His last recorded words in Genesis remain 42:37
 
 ## Related people
 

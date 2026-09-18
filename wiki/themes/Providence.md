@@ -68,6 +68,45 @@ the son he is mourning. **Genesis prints the sentence and does not correct it fo
 a grieving man say the most false sentence in Genesis and moves on. See
 [[The Brothers' First Journey to Egypt]].
 
+### Genesis 45 — the doctrine stated aloud, by a character
+
+**[[Joseph Reveals Himself]] is where the cycle finally says what it has been doing, and the manner of
+the saying is as important as the content.**
+
+**Genesis 45 names God four times in twenty-eight verses and every one of them is in Joseph's mouth**
+(45:5, 7, 8, 9). **The narrator still says nothing** — the silence that began at 39:23 runs unbroken
+through the disclosure, the reunion, Pharaoh's invitation and Jacob's revival, and does not end until
+*"God spoke to Israel in the visions of the night"* at 46:2. **The book's most explicit statement of
+providence is therefore testimony, not verdict.** Genesis reports that Joseph said it and declines to
+say whether it is so.
+
+**The speech works by swapping one verb for another in front of the reader.**
+
+> **45:4** …I am Joseph, your brother, whom you **sold** into Egypt. **5** Now don't be grieved, nor
+> angry with yourselves, that you **sold** me here, for **God sent me** before you to preserve life.
+> … **7** **God sent me** before you to preserve for you a remnant… **8** So now **it wasn't you who
+> sent me here, but God**…
+
+***Mākar*** **twice, *šālaḥ* three times, same man as object.** **Joseph does not deny the sale** —
+45:4 is the only accusation in the chapter and he makes it before he makes any of the consolation —
+**but he stops using the verb after 45:5.** *"It wasn't you who sent me here"* read flatly contradicts
+the verse before it; **read as the Hebrew comparative, or as deliberate overstatement aimed at eleven
+men who *"couldn't answer him; for they were terrified at his presence"* (45:3), it does not.** See
+[[God Sent Me Before You - The Verb That Replaces the Sale]].
+
+**What the chapter also supplies is the theme's vocabulary.** ***Šəʾērît***, *a remnant in the earth*
+(45:7), **is the word's first appearance in Scripture**, and ***pəlêṭâ gədōlâ***, *a great deliverance*,
+stands beside it — **the survival of a household of seventy described in the terms the prophets will
+use for the survival of a nation.** See
+[[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]].
+
+**And the chapter supplies the theme's limit.** **Joseph's reframing does not hold.** The brothers say
+nothing at all between 45:3 and 45:15; their one recorded sentence to their father omits the sale
+entirely (45:26); **and at 50:15, after Jacob dies, they are still afraid** — *"It may be that Joseph
+will hate us, and will fully pay us back for all the evil which we did to him."* **A guilt disposed of
+on someone's behalf does not stay disposed of**, which is why 50:19–20 has to say it again in a form
+that concedes the brothers' intention rather than dissolving it. See [[Guilt and Conscience]].
+
 ### The correction, three times
 
 **Joseph supplies the doctrine himself, in three statements that get progressively harder.**
@@ -108,7 +147,8 @@ human one innocent.** *"You meant evil"* stands. See
 - Genesis 41:32 — *"the thing is established by God"* — [[Pharaoh's Dreams and Joseph's Rise]]
 - **Genesis 42:28, 36 — providence misread from both sides** —
   [[The Brothers' First Journey to Egypt]]
-- Genesis 45:5–8; 50:19–20 — the correction *(not yet ingested)*
+- **Genesis 45:5–8 — the doctrine stated aloud, three times, by a character and not the narrator** —
+  [[Joseph Reveals Himself]]; 50:19–20 is the harder restatement *(not yet ingested)*
 - Ruth 2:3; Esther 4:14 — the method without the vocabulary
 - Psalm 105:16–22; Acts 7:9–10; Romans 8:28
 - [[The Second Journey]] — Genesis 43:14, 23, 30; **the chapter's method is to answer a prayer and not

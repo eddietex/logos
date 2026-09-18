@@ -95,6 +95,14 @@ to go.
   *"his life is bound up in the boy's life"* (44:30); see
   [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]]
 
+- [[Joseph Reveals Himself]] — Genesis 45:28; **not named, and the chapter is aimed at it.** [[Jacob]]
+  has said three times that he is going down to Sheol on account of [[Joseph]] — *"I will go down to
+  Sheol to my son mourning"* (37:35), and the *gray hairs* vow at 42:38 and 44:29 — **and here, with
+  his spirit revived by a cart, he names a different destination in the same grammar of descent**:
+  ***"It is enough. Joseph my son is still alive. I will go and see him before I die."*** **The
+  journey he has been describing as a death becomes a journey to Egypt**, and the verb is *see*. The
+  vow is not retracted, it is redirected; he will in fact die there (49:33), having seen him
+
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,

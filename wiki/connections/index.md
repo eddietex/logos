@@ -126,7 +126,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] | law-and-narrative | Genesis 29:30–33 · Genesis 35:22 · Genesis 49:3–4 · Deuteronomy 21:15–17 · 1 Chronicles 5:1–2 · Malachi 1:2–3 · Romans 9:13 |
 | [[Like Rachel and Like Leah - The Builders of the House of Israel]] | quotation | Genesis 29:16–30 · Genesis 35:16–20 · Genesis 49:31 · Ruth 4:11–12 · Jeremiah 31:15 · Matthew 2:18 |
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
-| [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] | parallel | Genesis 30:1–2 · Genesis 50:18–20 · Genesis 25:21 |
+| [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] | parallel | Genesis 30:1–2 · Genesis 50:18–20 · Genesis 25:21 · Genesis 45:5–8 |
 | [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
 | [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
@@ -143,21 +143,21 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] | thread | Genesis 34:13–31 · Genesis 49:5–7 · Exodus 32:26–29 · Numbers 25:6–13 · Deuteronomy 33:8–11 · Joshua 19:1, 9 · Numbers 26:14 · Numbers 35:1–8 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
-| [[Renamed and Still Called Jacob - The Two Namings of Israel]] | parallel | Genesis 32:28 · Genesis 35:9–10 · Genesis 17:5, 15 · Genesis 35:21–22 · Genesis 46:2 · Hosea 12:2–4 |
+| [[Renamed and Still Called Jacob - The Two Namings of Israel]] | parallel | Genesis 32:28 · Genesis 35:9–10 · Genesis 17:5, 15 · Genesis 35:21–22 · Genesis 46:2 · Hosea 12:2–4 · Genesis 45:21, 27–28 |
 | [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] | prophecy → fulfillment | Genesis 35:19–20 · Genesis 48:7 · 1 Samuel 10:2 · Jeremiah 31:15–17 · Matthew 2:16–18 · Ruth 4:11 |
 | [[Lying with the Father's Concubine - A Claim on the Succession]] | thread | Genesis 35:22 · Genesis 49:3–4 · 1 Chronicles 5:1–2 · 2 Samuel 3:7–8 · 2 Samuel 16:21–22 · 1 Kings 2:13–25 · Leviticus 18:8 · Deuteronomy 27:20 · 1 Corinthians 5:1 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
 | [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
-| [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 |
-| [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 |
+| [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 · Genesis 45:9 |
+| [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 |
 | [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
-| [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 40:23–41:1 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 |
+| [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 40:23–41:1 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 · Genesis 45:5, 7, 8 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
 | [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 |
-| [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 |
+| [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 · Genesis 45:22, 27 |
 | [[Sin Against God - Joseph at 39.9 and David at Psalm 51]] | thread | Genesis 20:6, 9 · Genesis 39:9 · Genesis 42:22; 44:16 · Exodus 20:14 · 2 Samuel 12:13 · Psalm 51:4 · Luke 15:18, 21 |
 | [[Do Not Interpretations Belong to God - Joseph and Daniel]] | parallel | Genesis 40:5–8 · Genesis 41:8, 15–16, 25, 38–39 · Genesis 42:23 · Daniel 1:17–20 · Daniel 2:1–11, 27–30, 47 · Daniel 4:4–9 · Daniel 5:7–12 |
 | [[Lift Up Your Head - One Idiom and Two Verdicts]] | thread | Genesis 40:13, 19, 20 · Exodus 30:12 · Numbers 1:2 · Judges 8:28 · 2 Kings 25:27–30 · Psalm 3:3 · Psalm 27:6 · Psalm 110:7 · Jeremiah 52:31–34 |
@@ -165,18 +165,22 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]] | thread | Genesis 40:14, 23 · Genesis 41:9 · Judges 16:28 · 1 Samuel 1:11 · Nehemiah 5:19; 13:14 · Job 14:13 · Psalm 106:4 · Isaiah 38:3 · Ecclesiastes 9:15 · Luke 23:42 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
 | [[A Man in Whom Is the Spirit of God]] | thread | Genesis 1:2 · Genesis 41:38 · Exodus 31:1–5 · Numbers 24:2 · Numbers 27:18 · Judges 3:10; 6:34 · 1 Samuel 16:13–14 · Daniel 4:8–9 · Daniel 5:11–14 · Isaiah 11:2; 61:1 · Luke 4:18–21 |
-| [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 |
+| [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 · Genesis 45:3–4, 16 |
 | [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] | parallel | Genesis 41:42–43 · Esther 3:10 · Esther 6:6–11 · Esther 8:2, 15 · Esther 10:3 · Daniel 2:48 · Daniel 5:7, 29 |
 | [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] | thread | Genesis 41:8, 24 · Exodus 7:11, 22 · Exodus 8:7, 18–19 · Exodus 9:11 · Daniel 1:20 · Daniel 2:2, 10–11 · Isaiah 19:11–14 · Isaiah 47:12–13 · 2 Timothy 3:8 |
-| [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 |
+| [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[By the Life of Pharaoh - Oaths Sworn by a King]] | idiom | Genesis 22:16 · Genesis 42:15–16 · 1 Samuel 17:55 · 1 Samuel 20:3 · 1 Samuel 25:26 · 2 Samuel 11:11 · 2 Samuel 15:21 · Matthew 5:34–37 |
-| [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]] | thread | Genesis 38:17–20 · Genesis 42:37 · Genesis 43:8–10 · Genesis 44:32–33 · Job 17:3 · Psalm 119:122 · Proverbs 6:1–5; 11:15; 17:18; 20:16 · Isaiah 38:14 · Hebrews 7:22 |
+| [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]] | thread | Genesis 38:17–20 · Genesis 42:37 · Genesis 43:8–10 · Genesis 44:32–33 · Job 17:3 · Psalm 119:122 · Proverbs 6:1–5; 11:15; 17:18; 20:16 · Isaiah 38:14 · Hebrews 7:22 · Genesis 45:24 |
 | [[Balm, Spices, and Myrrh - The Caravan's Cargo and Jacob's Present]] | literary parallel | Genesis 37:25, 28 · Genesis 43:11 · Jeremiah 8:22; 46:11; 51:8 · Ezekiel 27:17 |
-| [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] | parallel | Genesis 42:36 · Genesis 43:14 · Esther 4:16 · 2 Samuel 15:25–26 · 2 Kings 7:3–4 · Daniel 3:17–18 |
+| [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] | parallel | Genesis 42:36 · Genesis 43:14 · Esther 4:16 · 2 Samuel 15:25–26 · 2 Kings 7:3–4 · Daniel 3:17–18 · Genesis 45:25–28 |
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 |
-| [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] | literary parallel | Genesis 4:3–5 · Genesis 32:13–21 · Genesis 33:8–11 · Genesis 43:11–15, 25–26 |
+| [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] | literary parallel | Genesis 4:3–5 · Genesis 32:13–21 · Genesis 33:8–11 · Genesis 43:11–15, 25–26 · Genesis 45:23 |
 | [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
 | [[Rewarding Evil for Good - A False Charge That Is Exactly True]] | idiom | Genesis 37:3–4, 18–28 · Genesis 44:4 · 1 Samuel 24:17; 25:21 · Psalm 35:12; 38:20; 109:4–5 · Proverbs 17:13 · Jeremiah 18:20 · Romans 12:17, 21 · 1 Thessalonians 5:15 · 1 Peter 3:9 |
 | [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] | literary parallel | Genesis 21:2, 7 · Genesis 37:3–4 · Genesis 43:34 · Genesis 44:20 · Genesis 45:22 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |
+| [[God Sent Me Before You - The Verb That Replaces the Sale]] | theological thread | Genesis 37:28, 36 · Genesis 45:4–8 · Genesis 50:19–20 · Psalm 105:17 · Acts 7:9–10 · Acts 2:23 · Romans 8:28 |
+| [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
+| [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
+| [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |

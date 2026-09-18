@@ -96,7 +96,8 @@ resolve it.**
 - Genesis 37:4, 27 — hatred, and *"he is our brother, our flesh"* — [[Joseph Sold into Slavery]]
 - **Genesis 42:4, 13, 21, 32, 38 — the reckoning** — [[The Brothers' First Journey to Egypt]]
 - Genesis 44:33 — *"let your servant stay instead of the boy"* — [[The Silver Cup and Judah's Plea]]
-- Genesis 45:4; 50:15–21 — the resolution *(not yet ingested)*
+- **Genesis 45:4, 14–15, 22, 24** — ***"I am Joseph, your brother"***, and a reunion asymmetric in
+  every detail — [[Joseph Reveals Himself]]; 50:15–21 *(not yet ingested)*
 - Leviticus 19:17; Deuteronomy 15:7–11 — *your brother* as a legal category
 - Matthew 5:23–24; 18:21–22; 1 John 3:12–15
 - [[The Second Journey]] — Genesis 43:3–9, 29–30, 34; **a chapter conducted entirely in the vocabulary
@@ -113,6 +114,15 @@ resolve it.**
   saying it to him**, and ends by asking that *"the boy go up with his brothers"* while he stays
   (44:33). **The chapter is a negotiation over the custody of one brother, conducted by a second, in
   front of a third who is pretending not to be one**
+
+- [[Joseph Reveals Himself]] — Genesis 45:4, 14–15, 22, 24; **the reunion, and it is asymmetric in
+  every detail the book bothers to record.** ***"I am Joseph, your brother"*** (45:4) is the first time
+  he has used the word to them; *brother* and *brothers* run twelve times through the chapter. **One
+  brother is embraced and wept on; the other ten are kissed as a set** (45:14–15). **One brother gets
+  five changes of clothing and three hundred pieces of silver; the ten get one garment each** (45:22).
+  **And the last thing he says to them is *"see that you don't quarrel on the way"*** (45:24) — which,
+  read against what is in their bags, is a warning about the effect of his own generosity. **The
+  brotherhood restored in this chapter is restored on exactly the terms that broke it**
 
 ## Related themes
 

@@ -20,6 +20,13 @@ tags: [connection]
 - **Ezra 1:8; 5:14** — Sheshbazzar, a Babylonian name borne by a prince of Judah
 - **Isaiah 62:2; 65:15; Revelation 2:17; 3:12** — a new name given by God at the end
 
+- [[Joseph Reveals Himself]] — **Genesis 45:3–4, 16**: **the Egyptian name is absent from the one
+  chapter where his family is in the room.** He introduces himself as ***ʾănî yôsēp*** twice (45:3, 4),
+  dictates a message signed *"your son Joseph"* (45:9), **and even the Egyptian court calls him by the
+  Hebrew name**: *"Joseph's brothers have come"* (45:16). **Genesis uses *Zaphenath-Paneah* once, at
+  41:45, and never again** — and the chapter that undoes the disguise is where the disuse becomes
+  conspicuous
+
 ## Analysis
 
 **Genesis has renamed people before, and the difference is who does it.**

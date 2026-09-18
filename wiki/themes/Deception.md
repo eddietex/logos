@@ -254,6 +254,13 @@ has become a nation.
   Against which the brothers' single deception, at 43:21, looks like bookkeeping. See
   [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
 
+- [[Joseph Reveals Himself]] — Genesis 45:1–4, 12, 26; **one deception ends in this chapter and the
+  other is left standing.** The disguise built at 42:7 — *wayyitnakkēr*, *"acted like a stranger to
+  them"* — comes off in its opposite: *"Joseph made himself known to his brothers"* (45:1). **The
+  interpreter of 42:23 is dismissed with *"it is my mouth that speaks to you"*** (45:12). **But the lie
+  of 37:32 is never retracted.** The brothers report to [[Jacob]] that Joseph is alive and a ruler
+  (45:26) **and do not say how he got there**, and Genesis records no scene in which they ever do
+
 ## Related themes
 
 - [[Language and Speech]] — words as the medium of blessing, curse, and creation, and here of

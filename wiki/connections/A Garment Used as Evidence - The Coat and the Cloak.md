@@ -23,6 +23,15 @@ tags: [connection]
   **The third object in the cycle to be arranged as evidence and believed**, and the first one
   arranged by [[Joseph]]
 
+- [[Joseph Reveals Himself]] — **Genesis 45:22, 27**: **the motif's last two turns, and the second one
+  inverts it.** At 45:22 [[Joseph]] hands out ***śəmālôt***, the class of object his own coat belonged
+  to, **five to [[Benjamin]] and one to each of the ten** — the gift that caused the hatred, given
+  again by its victim. **And at 45:27 the pattern of object-as-testimony is completed by something that
+  is not a garment at all**: the brothers tell [[Jacob]] the truth and he does not believe them, **and
+  then he sees the wagons.** **A bloodied coat persuaded him of a death and a cart persuades him of a
+  life** — **the object believed both times and the people discounted both times.** See
+  [[The Spirit of Jacob Revived - Ruach Returning]]
+
 ## Analysis
 
 **Twice in three chapters, a garment is taken off Joseph and produced as proof of something that did not

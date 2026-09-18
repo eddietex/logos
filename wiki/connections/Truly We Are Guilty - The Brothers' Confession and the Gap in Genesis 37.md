@@ -15,6 +15,14 @@ tags: [connection]
   servants"*
 - Genesis 50:15–17 — the brothers' third and final reckoning *(not yet ingested)*
 
+- [[Joseph Reveals Himself]] — **Genesis 45:3–15, 26**: **the third confession is the one that does
+  not happen.** 42:21 was private and in Hebrew; 44:16 was public and about the wrong crime; **here
+  they are told who he is, given the fact plainly — *"whom you sold into Egypt"* — and say nothing
+  for twelve verses.** *"After that his brothers talked with him"* (45:15) is all Genesis reports.
+  **Then they go home and tell [[Jacob]] two true things that leave the sale out** (45:26), **and the
+  book never records them telling him at all.** That gap is what makes 50:15–17 possible: they invent
+  a deathbed message from their father rather than say it themselves
+
 ## Analysis
 
 ### What Genesis 37 says
