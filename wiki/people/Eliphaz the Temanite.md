@@ -55,8 +55,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 
 ## Timeline / key events
 
-- **Job 2:11–13** — arrives with Bildad and Zophar, tears his robe, throws dust on his head, and
-  sits with Job seven days and seven nights without speaking a word.
+- **Job 2:11–13** — [[Seven Days of Silence]]. Hears of the disaster in [[Teman]], sends word to two
+  other countries, arranges a meeting, travels, fails to recognise Job from a distance, weeps, tears
+  his robe, throws dust over his head, and sits on the ground with him seven days and seven nights
+  without speaking. **Named first here, as he will be at 42:9 and as he will speak first at 4:1.**
 - **Job 4:1–5:27** — the first speech: the night vision (*"a spirit passed before my face. The hair
   of my flesh stood up"*), the first *"what is man"* passage at 4:17–19, and the offer of
   restoration.
@@ -73,6 +75,12 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 
 ## Appears in
 
+- [[Seven Days of Silence]] — Job 2:11–13, his first appearance and **the only thing he does in the
+  book that God does not rebuke.** Read the invented charges of 22:6–9 — stripping the naked,
+  withholding bread from the hungry — against a man who crossed a desert to sit in another man's
+  ashes for a week, and the book's real subject comes into view: **not a cruel man, but a decent one
+  whose doctrine required him to become cruel.** The trajectory begins the moment he opens his mouth
+  at 4:1, and not before.
 - [[Eliphaz's Second Speech]] — his own chapter, and the wiki's fullest treatment of his method.
 - [[Miserable Comforters and the Witness in Heaven]] — as the speaker being answered, and as one of
   the three *"miserable comforters"*.

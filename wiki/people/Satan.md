@@ -91,6 +91,12 @@ figure with a will of his own, a kingdom, and an end.
   a man has he will give for his life"* is a claim about self-preservation that nobody would dispute
   and that quietly grants the first round. He is granted the body, strikes it **himself** with no
   Sabeans, fire, Chaldeans or wind in between, and exits mid-verse at 2:7.
+- [[Seven Days of Silence]] — Job 2:11–13, **the first scene of the book he is not in, and the shape
+  of every scene after it.** Four verses after he walks out, three men walk in who have never heard
+  of him and never will. **The argument that occupies the next forty chapters is conducted by people
+  who do not know the question was asked**, and the epilogue attributes the whole affair to Yahweh
+  without naming him (42:11). The accuser's disappearance is not a loose end; it is the condition the
+  rest of the book runs under.
 
 ## Related people
 

@@ -102,6 +102,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   the accuser's reply does not mention the fear of God at all. *"Skin for skin… all that a man has he
   will give for his life"* (2:4) asks what a man will trade, not what he loves without pay. **The
   second question is answerable and the first one is not, which is why the first one is the book**
+- [[Seven Days of Silence]] — Job 2:11–13; **the theme's conspicuous absence, and the reason it is
+  worth logging.** Three men arrive who will argue about Job for twenty-five chapters, and **not one
+  of them ever raises the accuser's question.** They ask what Job did; they never ask what his piety
+  is for. The one term the narrator, God, and the accuser all agree is the point of the book drops
+  out of the dialogue the moment human beings take it over, and does not return until God speaks
 - [[Noah and the Flood]] — Genesis 6:9's *"walked with God"* is the Genesis idiom for the same
   settled orientation, in a book that does not yet use this vocabulary
 - [[Abram in Egypt]] — Genesis 12:10–20, where the phrase is absent but the reasoning behind it is

@@ -117,6 +117,14 @@ verdicts.
   ruin, the accuser infers hire from prosperity. **The premise is discredited in chapter 1, before a
   friend has opened his mouth**, and the reader spends twenty-five chapters watching four men reason
   from it anyway
+- [[Seven Days of Silence]] — Job 2:11–13; **the doctrine's three spokesmen introduced before they
+  hold it.** Nothing in the passage is doctrinal. Three men travel, weep, mourn, and sit in silence
+  for a week, and every one of them behaves impeccably. **This is what makes the theme's case study
+  uncomfortable rather than simple**: the friends are not callous, not lazy, and not insincere, and
+  the wiki reads their collapse as caused by the doctrine rather than revealed by it. **The turn
+  happens at 4:1, when someone starts explaining what he saw at 2:12** — a man marked with the boil
+  of Deuteronomy 28, which under every rule they have means exactly one thing. See
+  [[The Boil of Deuteronomy 28 on a Blameless Man]]
 - [[The Second Test]] — **the doctrine arrives as a disease, and makes the friends' case before they
   speak.** *Šəḥîn rāʿ*, a malignant boil *"from the sole of his foot to his head"* (2:7), is the
   affliction of Deuteronomy 28:35's curse list, word for word and limit for limit. **The men who

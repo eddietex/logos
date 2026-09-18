@@ -21,9 +21,12 @@ the only friend to say so. He then demands repentance in the plainest terms of a
 man's triumph — the sweetness of evil turning to the venom of asps in his belly, riches swallowed
 and vomited up.
 
-He is a **Naamathite**, from a Naamah otherwise unlocated; the Naamah of Joshua 15:41 is in the
+He is a **Naamathite**, from a [[Naamah]] otherwise unlocated; the Naamah of Joshua 15:41 is in the
 Judean lowlands and does not suit the book's eastern setting, so the place is usually taken to be a
-site in northern Arabia or Edom that has left no other trace.
+site in northern Arabia or Edom that has left no other trace. **The Septuagint makes him king of the
+Minaeans**, a real south-Arabian people — worth recording as evidence that the Greek tradition read
+the friends' origins the same direction the Hebrew gentilics point, and worth discounting as one of
+three royal titles that translator handed out.
 
 ## In the ingested passages
 
@@ -65,7 +68,9 @@ than his iniquity deserves. The reader knows which of the two is right.
 
 ## Timeline / key events
 
-- **Job 2:11–13** — arrives with the others and sits seven days in silence.
+- **Job 2:11–13** — [[Seven Days of Silence]]. Comes from [[Naamah]] by arrangement with the other
+  two, fails to recognise Job, weeps, tears his robe, throws dust over his head, and sits on the
+  ground seven days and seven nights without speaking.
 - **Job 11:1–20** — the first speech: God knows worthless men, you are getting less than you
   deserve, put away iniquity and you will forget your misery.
 - **Job 15–17** — silent, and included in the friends' *"we"* and Job's *"you all"*.
@@ -80,6 +85,10 @@ than his iniquity deserves. The reader knows which of the two is right.
 
 ## Appears in
 
+- [[Seven Days of Silence]] — Job 2:11–13. **The friend who will tell Job that God exacts less than
+  his iniquity deserves (11:6) kept the same silent week as the other two**, having travelled
+  further than either if the Minaean identification is anything at all. Nothing separates him from
+  Eliphaz and Bildad until they start talking, and then he goes furthest.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Zophar's Second Speech]] — his own, and his last.

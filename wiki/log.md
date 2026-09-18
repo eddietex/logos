@@ -8792,3 +8792,171 @@ scripture citations rather than links, since none of those books has been starte
   the stray empty `Exodus.md` at the repository root and the [[The Jordan]] retro-linking.
 - **`wiki/themes/index.md`'s *Key passages* column was again appended to rather than rebuilt**, for
   the sixth entry running. The [[Blessing]] row is now well past the width at which anyone reads it.
+
+## [2026-09-18] ingest | Job 2.11-13 — Seven Days of Silence
+
+Unattended run (`/ingest auto`). Target resolved mechanically: Genesis is `complete`, [[Job]] is the
+only `in-progress` book in `wiki/books/index.md`, and the first unchecked box on its page was Job
+2:11–13. **Boundary unchanged, title unchanged.** Three verses is the shortest pericope the wiki has
+ingested, and the case for leaving them attached to 2:1–10 was considered and rejected: **the cast,
+the location of the action and the register all change at 2:11** — the accuser and the council are
+gone for good, the scene is on the ground in [[Uz]] for the remaining forty chapters, and three
+characters who will speak for thirty of them walk in. Folding them into the second test also buries
+the fact the whole passage turns on, which is that **these are the last prose verses before the
+poetry, and the poetry starts because this silence ends.** **Job is at 9 / 32.**
+
+### The passage page
+
+[[Seven Days of Silence]], `wiki/passages/Job/`. The discussion step was written into the page, as
+unattended mode requires. Built around these findings:
+
+**1. This is the only thing the three friends do that the book does not condemn, and the page leads
+with it.** Everything they say from 4:1 to 25:6 is repudiated by name at 42:7; everything they do in
+these three verses is exemplary. **They heard, they sent word between three countries, they fixed a
+meeting (*wayyiwwāʿădû yaḥdāw*, from *yāʿad* — a set time and place), they travelled, they wept, they
+tore their robes, and they sat on the ground in a diseased man's ashes for a week without speaking.**
+The wiki therefore reads their collapse as **caused by the doctrine rather than revealed by it**, and
+says so on [[Retribution]] as well. The popular reading of them as callous from the start is
+back-formed from chapters 4–25 and is not in chapter 2.
+
+**2. The two verbs of 2:11 come back twice, and the second time they work.** *Lānûd lô ûlənaḥămô* —
+to condole with him and to comfort him. At 16:2 Job calls them *mənaḥămê ʿāmāl*, **comforters of
+trouble**, built on the second verb. At **42:11 his brothers and sisters *"comforted him"* —
+*wayyānudû lô wayənaḥămû ʾōtô*, the identical pair in the identical order**, and no speech of theirs
+is recorded at all. **The book opens and closes its account of human consolation with the same two
+words.** This is the single best finding of the pass and it got its own connection page.
+
+**3. *Nûd* is the same physical motion as mockery, and Job weaponises that.** Head-shaking beside a
+mourner (Jeremiah 16:5, 22:10; Isaiah 51:19) and head-shaking in derision (Psalm 44:14; Jeremiah
+18:16) are one gesture read off context — and at 16:4–5 Job says he could do either: *"I could shake
+my head at you."* **He uses their arrival verb against them**, which is an exact miniature of the
+friends' whole problem.
+
+**4. *"Didn't recognize him"* is the book's only external description of Job.** *Wəlōʾ hikkîrūhû*
+(2:12). Every other account of the disease is Job's own (7:5, 19:20, 30:30); **this one is three
+acquaintances failing to place his face from a distance**, and it does the work a physical
+description would. Genesis 42:8 is the closest verbal parallel and inverts the cause — Joseph is
+unrecognisable through *elevation*; Isaiah 52:14 is the closest parallel in substance. **The wiki
+states the Isaiah parallel as a shared mechanism — a body read as evidence, and read wrongly — and
+explicitly declines the identification of Job with the servant.**
+
+**5. They hold a funeral for a living man.** Raised voices, torn robes, dust over the head and
+**seven days and seven nights** are the rites and the term for the dead (Genesis 50:10, 1 Samuel
+31:13, Ezekiel 3:15). There is no corpse. **Job's condition is stated in the form of a customary
+mourning term applied to someone who can hear it being kept**, and eleven verses later he asks for
+the grave himself.
+
+**6. The narrator's reason for the silence is that their sight was accurate.** *"For they saw that
+his grief was very great"* — *kəʾēb*, a word that covers physical pain and mental anguish without
+separating them. **The same eyes that misread him for twenty-five chapters read him correctly here,
+and the difference is that here they are looking rather than interpreting.** The passage's two acts
+of sight go opposite ways in consecutive verses, which is now the hinge of [[Seeing and Being Seen]].
+
+### Judgment calls made unattended
+
+- **Three connection pages, not one.** [[Comforters Who Do Not Comfort]] exists to hold the 2:11 /
+  16:2 / 42:11 verb triangle in one place along with Scripture's other failed comforters, which sort
+  into two kinds the friends are neither of (the comforters who are absent — Psalm 69:20,
+  Lamentations 1, Ecclesiastes 4:1; and the mourner who refuses comfort — Jacob at Genesis 37:35).
+  [[Seven Days and Seven Nights - The Week of Mourning]] collects the term and records the
+  **rabbinic derivation of the shiva rule from the second half of 2:13** — that a visitor does not
+  speak until the mourner does (b. *Moʿed Qatan* 28b), with 3:1 read as the mourner opening. That is
+  filed as **reception, not as the text's own claim**, since the narrator gives a different reason.
+  [[They Didn't Recognize Him - Marred Beyond Knowing]] carries the Isaiah 53 comparison, which
+  needed somewhere to be stated *and* limited.
+- **A new theme page, [[Mourning and Lament]], was created** rather than splitting the material
+  between [[Suffering]] and [[Burial and the Grave]]. The rite is a discrete thing with a wardrobe, a
+  posture, a substance and a clock, it already had heavy ingested Genesis anchors that nothing
+  gathered ([[Joseph Sold into Slavery]] 37:34–35, [[The Deaths of Jacob and Joseph]] 50:3, 10), Job
+  uses it three times in two chapters, and **Job 3 — the next pericope — is lament and nothing else.**
+  New page of an existing type, so no `AGENTS.md` change was required.
+- **[[Shuah]] and [[Naamah]] were created as place pages.** [[Teman]] already had one, and 2:11 is
+  the verse that introduces all three gentilics together; leaving two of the three as bold text on
+  other people's pages made the *"three men from three countries"* point unciteable. Both pages are
+  honest that the places cannot be located — Shuah has two candidates (Keturah's son sent east at
+  Genesis 25:2, 6; Assyrian Sūḫu on the middle Euphrates) and **Naamah has none**, the Judean Naamah
+  of Joshua 15:41 being in the wrong country. The Septuagint's *king of the Minaeans* for
+  *Naamathite* is recorded and discounted, since that translator hands all three friends royal
+  titles.
+- **`Naamah.md` and `Shuah.md` were created bare, and both carry a collision warning.** Neither
+  namesake has a page — Shuah son of Keturah, Naamah sister of Tubal Cain (Genesis 4:22), Naamah the
+  Ammonitess (1 Kings 14:21) — so no `AGENTS.md` person/place collision exists **yet**. Per the rule
+  for a collision that arrives one pericope ahead of itself, both pages say in their own text that
+  **if any of those three ever gets a person page, both pages take qualifiers**, because
+  `scripts/link-check.sh` resolves by basename and would pass two files called `Naamah.md` in
+  silence while Obsidian picked one by an unstated rule.
+- **No entry was added to [[God]]'s page.** He is listed under the passage's `## People` because his
+  absence from the scene is worth noting there, but he does not appear in these verses, and an
+  `## Appears in` entry recording a non-appearance on a page of that size is noise. [[Satan]],
+  [[Job's Wife]] and [[Job's Children]] *did* get entries, because in each case the absence is
+  itself the finding — the accuser's exit is the condition the rest of the book runs under, and the
+  woman who buried the same ten children is not recorded sitting the week.
+- **A hostile reading of the seven days was considered and rejected on the page.** Nothing supports
+  reading the silence as a judgmental wait for a confession: the narrator supplies a compassionate
+  motive in the same verse, the accompanying acts are mourning acts, and every complaint Job later
+  makes about the friends is about something they *said*.
+
+### Pages created
+
+Passage: [[Seven Days of Silence]].
+Theme: [[Mourning and Lament]].
+Places: [[Shuah]], [[Naamah]].
+Connections: [[Seven Days and Seven Nights - The Week of Mourning]],
+[[They Didn't Recognize Him - Marred Beyond Knowing]], [[Comforters Who Do Not Comfort]].
+
+### Pages revised
+
+Book: [[Job]] (box checked and linked; [[Mourning and Lament]] added to Key themes, [[Shuah]] and
+[[Naamah]] to Key places).
+People: [[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]],
+[[Job (person)]], [[Job's Wife]], [[Job's Children]], [[Satan]]. The three friends' Overview
+sections were also revised to link their new homeland pages.
+Places: [[Teman]] (its bold *"Shuah and Naamah"* line is now two links), [[Uz]].
+Passages: [[The Second Test]] (its forward reference to the friends arriving at 2:11 is now a link),
+[[Miserable Comforters and the Witness in Heaven]] (its plain citation of Job 2:11–13 is now a link,
+with the 42:11 verb pair added).
+Connections: [[Sitting in Dust and Ashes]].
+Themes: [[Compassion and Mercy]], [[Language and Speech]], [[Seeing and Being Seen]], [[Suffering]],
+[[Wisdom]], [[Retribution]], [[Strife and Peacemaking]], [[Burial and the Grave]], [[Hospitality]],
+[[The Fear of God]], [[Integrity]].
+
+Plus [[books/index|Books]], [[people/index|People]], [[places/index|Places]],
+[[themes/index|Themes]], [[connections/index|Connections]] and [[index|the top-level index]].
+
+### Link check
+
+`scripts/link-check.sh` exits 0, baseline 64 — unchanged, since no new book page was created this
+pass. **No links were deliberately left dangling.** Deuteronomy, Joshua, Samuel, Kings, Esther,
+Jonah, Ezekiel, Jeremiah, Isaiah, Lamentations, Psalms, Proverbs, Ecclesiastes, Sirach, Judith and
+the New Testament references are given as plain scripture citations rather than links, since none of
+those books has been started.
+
+### Findings left for the next lint
+
+- **[[Hospitality]] and [[Strife and Peacemaking]] now carry Job material and were written as
+  Genesis pages.** Neither's prose sections mention Job; the new entries sit in `## Key passages`
+  only. Same defect the last entry logged for [[Marriage]] and [[Clean and Unclean]], now on two
+  more pages.
+- **[[Mourning and Lament]] is a new theme with heavy Genesis content that the Genesis pages do not
+  link back to.** [[Jacob]], [[Joseph]], [[Reuben]], [[Joseph Sold into Slavery]] and
+  [[The Deaths of Jacob and Joseph]] all have mourning material in their text and no link to the
+  theme page. This is the identical finding logged for [[Integrity]] one entry ago and not yet
+  actioned — **two consecutive new theme pages are now orphaned from the Genesis material they
+  summarise.**
+- **The claim that 42:11 reuses 2:11's verb pair is asserted on four pages and verified on none**,
+  because Job 42 is not ingested. When *The Restoration of Job* (Job 42:7–17) is written, check
+  [[Comforters Who Do Not Comfort]], [[Seven Days of Silence]],
+  [[Miserable Comforters and the Witness in Heaven]] and [[Compassion and Mercy]] against what
+  42:11 actually says.
+- **Unchanged and now two entries overdue**: the three friends' pages still do not record that they
+  and the accuser hold the same doctrine from opposite ends; [[The Witness in Heaven]] still cites
+  Job 1:6–12 by reference rather than linking
+  [[The Wager in Heaven and the Four Messengers]]; the whole-book Genesis lint that became due when
+  Genesis completed — orphan pages, stale `### What is still ahead` sections, `*(not yet ingested)*`
+  markers — is still outstanding, as are the stray empty `Exodus.md` at the repository root and the
+  [[The Jordan]] retro-linking.
+- **`wiki/themes/index.md`'s *Key passages* column was again appended to rather than rebuilt**, for
+  the seventh entry running, and eleven rows were widened this pass. The [[Blessing]],
+  [[Life and Death]] and [[Suffering]] rows are all now far past the width at which anyone reads
+  them. **This should be the next lint's first job**, because appending is cheap and the column is
+  the only navigational thing on the page.

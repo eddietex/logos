@@ -235,7 +235,7 @@ words*. **Chapter 3 begins eleven verses later.**
 - [[Clean and Unclean]] — *šəḥîn* is the eruption of Leviticus 13:18–23, which the priest examines
   and may declare unclean. **The book of Job has no priest, no law, and no Israel**, so the
   contamination Job carries is social rather than cultic — and the friends, arriving at 2:12, will
-  not recognise him.
+  not recognise him. See [[Seven Days of Silence]].
 - [[Blessing]] — the fourth and fifth *bārak* of the prologue, both euphemisms: the accuser's
   prediction at 2:5 and the wife's imperative at 2:9. The word has now meant its opposite three
   times and itself twice, inside two chapters.
@@ -282,6 +282,9 @@ words*. **Chapter 3 begins eleven verses later.**
   disease as verdict delivered to a man covered in sores.
 - [[What Is Man That He Should Be Clean]] — the friends' anthropology, which makes 2:3's
   certification unintelligible to them in advance.
+- [[Seven Days of Silence]] — Job 2:11–13, the next three verses: three men arrive, cannot recognise
+  the figure in the ashes, mourn him as dead, and keep seven days of silence. **The last prose before
+  the poetry**, and the only thing the friends ever do that God does not rebuke.
 - **Job 3:1–26** — eleven verses later, the same mouth the narrator has just acquitted curses the
   day it was born in.
 - **Job 7:5** — *"My flesh is clothed with worms and clods of dust. My skin closes up, and breaks

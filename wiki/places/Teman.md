@@ -49,6 +49,10 @@ that pair it with Bozrah as though the two were distinguishable.
 
 ## Appears in
 
+- [[Seven Days of Silence]] — Job 2:11, **the one verse in Scripture that gives the gentilic a
+  narrative setting**: *"Eliphaz the Temanite… came from his own place"*, alongside [[Shuah]] and
+  [[Naamah]]. The three homelands are given instead of fathers, and they are the book's only
+  statement of where its cast is from.
 - [[Eliphaz's Second Speech]] — carried in the gentilic, and standing behind the appeal to
   ancestral wisdom in 15:17–19.
 - [[Miserable Comforters and the Witness in Heaven]] — the same, in the speaker Job answers.
@@ -64,8 +68,10 @@ that pair it with Bozrah as though the two were distinguishable.
   fire on Teman, and it will devour the palaces of Bozrah"* (Amos 1:12).
 - [[Uz]] — Job's own land, named at 1:1 and located vaguely to the east or south-east; Lamentations
   4:21 addresses the daughter of Edom as dwelling in it.
-- **Shuah and Naamah** — the homelands implied by [[Bildad the Shuhite]] and
-  [[Zophar the Naamathite]], neither securely located, and both pointing the same direction.
+- [[Shuah]] and [[Naamah]] — the homelands implied by [[Bildad the Shuhite]] and
+  [[Zophar the Naamathite]], neither securely located, and both pointing the same direction. **Teman
+  is the only one of the three that can be placed on a map, and the only one with a reputation** —
+  which is why the book's most confident traditionalist is the one who comes from it.
 - [[Sheol]] — the only other location the ingested Job passages name.
 
 ## Events here

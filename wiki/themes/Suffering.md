@@ -89,6 +89,15 @@ requires only that you be standing outside it.
   anyway** — so at least one round of this suffering demonstrably settles nothing that was still
   open. And **God calls it what it is**: *ballaʿ*, swallowed up, and *ḥinnām*, without cause,
   refusing on his own behalf the explanation the friends will supply for him
+- [[Seven Days of Silence]] — Job 2:11–13; **the theme measured from outside for the only time in the
+  book.** Three men who knew Job cannot identify him, weep, perform the rites for the dead over a
+  living man, and then sit on the ground for seven days and seven nights unable to say anything. The
+  narrator's reason is *"they saw that his grief was very great"* — *kəʾēb*, a word that covers
+  physical pain and mental anguish without distinguishing them, which is the right word for a man who
+  has both. **Every other account of the suffering in this book is Job's own**; this is what it
+  looked like to people who had seen him before. It is also the wiki's clearest statement that **the
+  right response to suffering is available and is not an explanation** — see
+  [[Mourning and Lament]] and [[Comforters Who Do Not Comfort]]
 - [[Miserable Comforters and the Witness in Heaven]] — the Bible's most violent description of
   God's hand on a sufferer, spoken by a man certified innocent
 - [[Eliphaz's Second Speech]] — suffering treated purely as evidence, with the consolation of the
@@ -164,6 +173,8 @@ requires only that you be standing outside it.
 ## Related themes
 
 - [[Retribution]] — the account of suffering the book of Job is written against
+- [[Mourning and Lament]] — the rite and the speech a sufferer's household performs around it, and
+  Job's own progression from the one to the other between 1:20 and chapter 3
 - [[Hope]] — what Job asks after at 17:15 and cannot locate
 - [[Mediation and Advocacy]] — what a sufferer who cannot get a hearing reaches for
 - [[Judgment]] — the frame in which suffering becomes a verdict

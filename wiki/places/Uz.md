@@ -67,6 +67,11 @@ onomastic pool is exactly what one expects of two texts about the same region.
   gives of the place: **ashes, sat among.** The Septuagint relocates even that, putting Job *"on the
   dung-heap outside the city"* — which imports a city the Hebrew never mentions. See
   [[Sitting in Dust and Ashes]].
+- [[Seven Days of Silence]] — Job 2:11–13, which adds the one thing the rest of the book never
+  supplies: **Uz is reachable, and news gets out of it.** Three men in three other countries hear
+  what happened, send word to each other, fix a meeting, and arrive. The place is still not named, not
+  described, and not given a road — but it is now somewhere with neighbours. See [[Teman]],
+  [[Shuah]] and [[Naamah]].
 - [[The Table of Nations]] — Genesis 10:23, where Uz is Aram's firstborn: the first of the three
   genealogical Uzzes, and the one that points north-east rather than to Edom.
 - [[The Descendants of Esau]] — Genesis 36:28, where Uz is a son of Dishan in the Horite line of
@@ -96,8 +101,11 @@ onomastic pool is exactly what one expects of two texts about the same region.
   and still not a single place name.
 - **Job 2:7–8** — Job struck with sores, sitting among the ashes; the ash heap outside the
   settlement is where the rest of the book takes place.
-- **Job 2:11–42:6** — the arrival of the three friends and the whole of the dialogue, conducted in
-  one location that is never once described.
+- **Job 2:11–13** — [[Seven Days of Silence]]. The three friends arrive from three other countries,
+  fail to recognise Job *"from a distance"*, and sit on the ground with him for seven days and seven
+  nights. **The one implied fact about the country is that it can be reached and left.**
+- **Job 3:1–42:6** — the whole of the dialogue, conducted in one location that is never once
+  described.
 - **Job 42:10–17** — Job's restoration, his brothers and sisters returning to eat with him, and his
   death *"old and full of days"*.
 

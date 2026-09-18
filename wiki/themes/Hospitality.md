@@ -135,6 +135,13 @@ theme, and its last appearance inverts who performs it.
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which
   the offer and the table are two different sizes and the host does not sit down
+- [[Seven Days of Silence]] — Job 2:11–13; **the founding scene inverted, and worth setting directly
+  beside it.** Three men again arrive at a household, and this time the host has nothing: no tent, no
+  calf, no curds, no servants, no standing to receive anyone. **The guests supply the whole
+  transaction** — they travel, they bring their own grief, and they sit down on the ground in a sick
+  man's ashes for a week. Genesis 18's visit ends in an announcement and an intercession; this one
+  ends in twenty-five chapters of accusation. **The theme's ordinary direction of obligation runs
+  backwards here**, and the book never uses its vocabulary at all
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:18, where a king brings out bread and wine to
   an army coming home, and the first blessing one man speaks over another follows it
 - [[Abram in Egypt]] — the theme's shadow: a household received into Pharaoh's house on a lie, and

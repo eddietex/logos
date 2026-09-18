@@ -48,6 +48,12 @@ omission.
 - [[The Second Test]] — Job 2:1–10. Her whole speaking part, and its two quotations. **She arrives
   in the narrative at exactly the moment the accuser leaves it**, and says, in his vocabulary, what
   he twice predicted. Job answers the sentence and not the woman.
+- [[Seven Days of Silence]] — Job 2:11–13, **by absence, and the absence is worth marking.** Three
+  men arrive from three countries two verses after she speaks, mourn Job as dead, and sit with him
+  for a week; **she is not named among them and is not recorded mourning the ten children she also
+  buried.** The book records her presence in the house only to record what she said, and then drops
+  her until 19:17. Whether the silence is the narrator's economy or a portrait of a household in
+  which she has already been left alone, the text does not say.
 
 ## Related people
 

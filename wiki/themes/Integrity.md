@@ -117,6 +117,12 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   as Job 1:1, rendered *quiet* by WEB
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16:17; *"there is no violence in my hands,
   and my prayer is pure"*, the claim stated in its narrowest and most defensible form
+- [[Seven Days of Silence]] — Job 2:11–13; **the word is absent, and the men who will spend the book
+  trying to make Job put it down are introduced here doing nothing of the kind.** *Tummâ* is the
+  issue at 2:3 and 2:9 and will be Job's oath-word at 27:5; between those points three friends arrive
+  with no position on it at all, and their first act is to mourn him. **The theme's antagonists are
+  established before they have a doctrine**, which is what makes their eventual demand — confess, and
+  be restored — a matter of argument rather than of character
 - **Job 27:5–6** — *"until I die I will not put away my integrity from me"*: the oath, and the thing
   the friends' offer would cost
 - **Job 31:6** — *"let him weigh me in an even balance, that God may know my integrity"*: the oath of

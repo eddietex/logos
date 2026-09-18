@@ -197,7 +197,10 @@ the earth under him, and heaven above.
 - [[Eliphaz's Second Speech]] — Job 15, the speech being answered.
 - [[Cain and Abel]] — Genesis 4:1–16, whose crying blood 16:18 assumes the reader knows.
 - [[Abel]] — the first innocent blood, and the first cry from the ground.
-- Job 2:11–13 — the friends coming *"to sympathize with him and to comfort him"*, against 16:2.
+- [[Seven Days of Silence]] — Job 2:11–13, the friends coming *"to sympathize with him and to comfort
+  him"*, against 16:2. **The two verbs of 2:11 are *nûd* and *nāḥam*, and 42:11 will use the same
+  pair of the relatives who succeed where they failed**; the wiki holds all three occurrences at
+  [[Comforters Who Do Not Comfort]].
 - Job 9:32–33 — *"There is no umpire between us, that might lay his hand on us both"*, the first
   reach for the figure of 16:19.
 - Job 19:25–27 — *"I know that my Redeemer lives"*, the same appeal at its most confident.

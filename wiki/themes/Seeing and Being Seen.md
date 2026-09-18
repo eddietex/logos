@@ -71,6 +71,15 @@ will finally go both ways.
   Sodom"*, and God declining to sentence a city on a report — *"I will go down now, and see"*. The
   theme's two halves in one chapter: human sight that misses who is at the door, and divine sight
   that is an inquiry rather than an observation
+- [[Seven Days of Silence]] — Job 2:12–13; **two acts of sight in consecutive verses, going opposite
+  ways.** The friends *"lifted up their eyes from a distance, and didn't recognize him"* — *nākar*
+  negated, the verb Genesis reserves for identifying a man from a token, used here of the man himself
+  and failing. Then *"they saw that his grief was very great"*, and that sight is accurate and buys a
+  week of silence. **The first is the theme's clearest failure and the second its quietest success**,
+  and the difference between them is that the second is looking rather than interpreting: from 4:1
+  the same eyes read the same body as a verdict and are wrong for twenty-five chapters. Job ends the
+  book at 42:5 with *"now my eye sees you."* See
+  [[They Didn't Recognize Him - Marred Beyond Knowing]]
 - Genesis 22:8, 14 — *"God will provide"*, which in Hebrew is *God will see for himself*, and
   *Yahweh Yireh* on the mountain *(not yet ingested)*
 - [[Jacob, Leah, and Rachel]] — Genesis 29:2, 25; ***hinnēh*** three times, and the last one is the

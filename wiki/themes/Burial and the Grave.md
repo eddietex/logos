@@ -103,6 +103,12 @@ assumption is that a body left out is a person left out.**
   the deed recited for the third time, and the Bible's first *gathered to his people* — given twice
   in nine verses, to a patriarch and to the son who was sent into a desert
 - [[Gathered to His People]] — the formula's six uses, and why it is not a synonym for being buried
+- [[Seven Days of Silence]] — Job 2:12–13; **funeral rites and a funeral term kept over a man who is
+  alive.** Torn robes, raised voices, dust thrown over the head, sitting on the ground, and **seven
+  days and seven nights** — the standard mourning week of Genesis 50:10 and 1 Samuel 31:13 — all
+  performed beside a man who can hear them do it. **There is no corpse**, and eleven verses later
+  Job asks for the grave himself: *"Why didn't I die from the womb?"* (3:11). See
+  [[Seven Days and Seven Nights - The Week of Mourning]] and [[Mourning and Lament]]
 - Genesis 50:24–26; Exodus 13:19; Joshua 24:32 — Joseph's bones, and an oath kept across four
   centuries — [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 - Deuteronomy 34:5–6 — the unlocated grave of Moses
@@ -163,6 +169,8 @@ assumption is that a body left out is a person left out.**
   in this chapter and [[Rebekah]] never gets one at all**
 
 - [[Life and Death]] — the dying; this theme is what happens next
+- [[Mourning and Lament]] — the rite performed around the grave, its stated terms, and the two
+  occasions in the wiki where it is kept for someone who is not in one
 - [[Land and Sojourning]] — the grave as the only executed clause of the land promise
 - [[Covenant]] — a burial place as a covenant's smallest visible instalment
 - [[Remembrance]] — a marked grave is a device for outlasting memory, like the seven ewe lambs and

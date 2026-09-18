@@ -82,6 +82,10 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   clause, by a wind that strikes *"the four corners of the house"*. They are the climax of a list
   that runs draft animals, flocks, caravan capital, children — **the only item on it that the
   epilogue cannot give back.**
+- [[Seven Days of Silence]] — Job 2:11–13, unmentioned, and standing behind every gesture in it. The
+  friends perform the rites for the dead and keep the mourning week — **the eleventh funeral in this
+  household inside two chapters, and the only one held over someone still alive.** Bildad, who tears
+  his robe here, will explain their deaths at 8:4 as a sentence they earned.
 - [[The Second Test]] — not mentioned, and present in two places anyway. **The accuser's *"all that
   a man has he will give for his life"* (2:4) is a valuation of them**, offered to their father's
   face in a market idiom; and Job's answer to his wife is in the **first person plural**, which is

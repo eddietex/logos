@@ -78,6 +78,11 @@ the land.
 ## Key passages
 
 - [[Cain and Abel]] — Genesis 4:1–16; the quarrel nobody stops
+- [[Seven Days of Silence]] — Job 2:11–13; **the last peace in the book of Job.** From 3:1 to 42:6
+  there is no scene in it in which two people present are not arguing, and the theme's usual
+  machinery — a dispute, a concession, a settlement — never appears again. What ends the peace is not
+  an injury but an account: three men who sat a week in silence begin explaining, and the book
+  becomes twenty-five chapters of quarrel between people who came to help
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:23–24; Lamech's escalation
 - [[Abram and Lot Separate]] — Genesis 13:5–12; the first quarrel anybody stops, and its terms
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14–16, the counterpart: one chapter after

@@ -47,7 +47,8 @@ what he is made of in order to say what he has no standing to do. It reaches bac
 At **2:8** he sits *bətôk-hāʾēper*, among the ashes, and every marker says mourning: he has buried
 ten children, he is diseased, and the friends who arrive four verses later will sit down in the same
 dirt with him and sprinkle dust on their own heads (2:12–13). **Nothing in chapter 2 suggests
-repentance, and the narrator explicitly denies that there is anything to repent of.**
+repentance, and the narrator explicitly denies that there is anything to repent of.** See
+[[Seven Days of Silence]] for the arrival, and [[Mourning and Lament]] for the rite in full.
 
 At **42:6** he says *"I repent in dust and ashes"* — *ʿāpār wāʾēper*, Abraham's pair, not chapter 2's
 single word. **The substance has not changed and the act has.** And the change is not a confession

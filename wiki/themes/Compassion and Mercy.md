@@ -100,6 +100,15 @@ name, and gives the name to a father who cannot see it work.**
 - **Genesis 21:17** — [[The Birth of Isaac and the Sending of Hagar]]
 - **Genesis 50:19–21**, [[The Deaths of Jacob and Joseph]] — the cycle's answer
 - **Exodus 34:6; Psalm 103:13; Isaiah 49:15; Luke 15:20**
+- [[Seven Days of Silence]] — Job 2:11–13; **the theme's high-water mark in Scripture, performed by
+  the three men who will become its standing counter-example.** Three men in three countries hear,
+  send word to each other, fix a meeting, and travel; they weep at the sight of him, mourn him with
+  the rites for the dead, and sit on the ground in his ashes for seven days and seven nights without
+  speaking. **The stated verbs are *nûd* and *nāḥam*, to condole and to comfort**, and 42:11 will use
+  the identical pair of the brothers and sisters who finally get it right. Everything Romans 12:15
+  and Galatians 6:2 ask of a comforter is done here and undone from chapter 4 onward — **not by
+  losing the compassion but by adding an explanation to it.** See
+  [[Comforters Who Do Not Comfort]]
 
 - [[Joseph Reveals Himself]] — Genesis 45:1, 5, 9–11; **the mercy in this chapter is structural rather
   than stated.** *"Cause everyone to go out from me!"* (45:1) **empties an Egyptian court before

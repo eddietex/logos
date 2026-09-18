@@ -89,9 +89,10 @@ speeches; each becomes a linked passage page as it is ingested.
   *"skin for skin"*; the sores from sole to head; the potsherd and the ashes; his wife's *"Do you
   still maintain your integrity? Renounce God, and die"*; his reply, and the narrator's second
   verdict that *"Job didn't sin with his lips."*
-- **Job 2:11–13** — Eliphaz, Bildad, and Zophar arrive and sit with him seven days in silence,
-  *"for they saw that his grief was very great."* This is the last thing the friends do that the
-  book approves.
+- **Job 2:11–13** — [[Seven Days of Silence]]. Eliphaz, Bildad, and Zophar arrive from three
+  countries, fail to recognise him, mourn him with the rites for the dead, and sit with him seven
+  days in silence, *"for they saw that his grief was very great."* This is the last thing the friends
+  do that the book approves.
 - **Job 3** — he breaks the silence by cursing the day of his birth. The poetry begins here, and
   so does the argument.
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
@@ -132,6 +133,12 @@ speeches; each becomes a linked passage page as it is ingested.
   hand of God, and shall we not receive evil?"* — is **the position he never abandons**, stated in
   the first person plural, and the last thing he says before chapter 3 turns the volume up for
   twenty-eight chapters.
+- [[Seven Days of Silence]] — Job 2:11–13, and **the only portrait of him in the book drawn from
+  outside.** He says nothing and is not described; what the reader gets is three men who knew him
+  failing to recognise him from a distance, performing the death rites over him, and then sitting on
+  the ground for a week unable to think of anything to say. **His condition is measured entirely in
+  other people's reactions to it**, and the measurement is the most reliable one in the book, because
+  it is the last thing the friends do before they begin explaining.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the
@@ -194,6 +201,8 @@ speeches; each becomes a linked passage page as it is ingested.
   at 2:9, and what he swears to keep at 27:5. **It is the one thing the friends' offer would cost
   him**, since a confession would buy restoration at the price of a false account of himself.
 - [[Mediation and Advocacy]] — the four legal officers he reaches for, from 9:33 to 19:25.
+- [[Mourning and Lament]] — mourner at 1:20, mourned as though dead at 2:12–13, and the speaker of
+  Scripture's most extreme lament at 3:1–26.
 - [[Hope]] — 17:15's *"where then is my hope?"*, asked rather than answered, and 19:10's *"My hope
   he has plucked up like a tree"*, followed fifteen verses later by *I know*.
 - [[Wisdom]] — he is the counter-example the wisdom tradition had to absorb, and the reason

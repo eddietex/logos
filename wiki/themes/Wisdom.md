@@ -88,6 +88,13 @@ close to the book's whole point about who may speak for the tradition. See
 - [[Eliphaz's Second Speech]] — wisdom claimed by age and by uncontaminated tradition, and used to
   deny a sufferer standing to speak
 - [[Miserable Comforters and the Witness in Heaven]] — *"I shall not find a wise man among you"*
+- [[Seven Days of Silence]] — Job 2:11–13; **three men from the wisdom lands, and the wisest thing
+  any of them ever does contains no words.** The gentilics are the point: [[Teman]] is proverbial for
+  counsel (Jeremiah 49:7, Obadiah 8), [[Shuah]] and [[Naamah]] point the same direction into the
+  eastern and Arabian tradition the book belongs to, and all three men keep a seven-day silence that
+  God never faults. **Job 28 will ask where wisdom is found; chapter 2 has already shown one place it
+  was, and the men sitting in it did not notice.** Set against Proverbs 17:28, and against 13:5,
+  where Job tells them their wisdom was in the week they have already left behind
 - [[The Fall]] — the first desire for wisdom, and its cost
 - [[Job of Uz]] — the test case placed at the head of *"the children of the east"* (1:3), the
   territory the Old Testament associates with international wisdom (1 Kings 4:30)

@@ -22,9 +22,11 @@ twenty-two verses in chapter 8, twenty-one in chapter 18, and six in chapter 25 
 them is the clearest sign that the friends have run out of material. Whether the brevity of chapter
 25 is design or textual damage is disputed; see the Notes.
 
-He is a **Shuhite**, most often connected with Shuah, a son of Abraham by Keturah sent *"eastward,
-to the east country"* (Genesis 25:2, 6) — which would place him, like the rest of the cast, among
-the peoples east and south-east of Canaan rather than in Israel.
+He is a **Shuhite**, most often connected with [[Shuah]], a son of Abraham by [[Keturah]] sent
+*"eastward, to the east country"* (Genesis 25:2, 6) — which would place him, like the rest of the
+cast, among the peoples east and south-east of Canaan rather than in Israel. The other standing
+candidate is Assyrian Sūḫu on the middle Euphrates; neither can be confirmed, and the book never
+uses the word as a place name at all.
 
 ## In the ingested passages
 
@@ -70,7 +72,9 @@ book, and Bildad's name survives inside them.
 
 ## Timeline / key events
 
-- **Job 2:11–13** — arrives with the others and sits seven days in silence.
+- **Job 2:11–13** — [[Seven Days of Silence]]. Comes from [[Shuah]] by arrangement with the other
+  two, fails to recognise Job, weeps, tears his robe, throws dust over his head, and sits on the
+  ground seven days and seven nights without speaking.
 - **Job 8:1–22** — the first speech: God does not pervert justice; your children got what they
   earned; inquire of past generations; the hypocrite's hope perishes.
 - **Job 15–17** — silent, but included in Eliphaz's *"we"* and in Job's *"you all"*.
@@ -85,6 +89,10 @@ book, and Bildad's name survives inside them.
 
 ## Appears in
 
+- [[Seven Days of Silence]] — Job 2:11–13. **The man who will explain ten dead children as a sentence
+  they earned (8:4) tore his own robe for them first**, and kept the full seven-day mourning term on
+  the ground beside their father. The book records both and reconciles neither, and the gap between
+  them is the clearest measure it gives of what the doctrine costs the man who holds it.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.

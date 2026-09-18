@@ -98,6 +98,14 @@ noticing into doctrine.
   says nothing about the man. **His wife's nine words, meanwhile, are made entirely of other
   people's sentences** — God's *maintains his integrity* from 2:3, and the accuser's *bārak* from
   1:11 and 2:5 — quoted accurately by someone who cannot have heard either
+- [[Seven Days of Silence]] — Job 2:11–13; **the theme's one great silence, and the structural claim
+  the book makes with it.** Three men sit with Job for a week and *"no one spoke a word to him"*, and
+  it is the only conduct of theirs God never rebukes. **The disaster in Job is not that the friends
+  came; it is that they eventually spoke** — Job says so himself at 13:5, *"Oh that you would be
+  completely silent! Then you would be wise"*, and again at 21:34, *"how can you comfort me with
+  nonsense?"* **The friends' verbs of arrival are undone by their mouths**, and the whole forty
+  chapters of poetry begin because the silence breaks from the inside: *"After this Job opened his
+  mouth"* (3:1). Set beside Proverbs 17:28
 - [[The Stolen Blessing]] — Genesis 27:1–45, **the performative word at full strength.** A whole
   chapter of people talking while one of them cannot see: a flat lie about identity told twice, a
   quotation with two words added that the speaker never said (*"before Yahweh"*, 27:7 against 27:4),

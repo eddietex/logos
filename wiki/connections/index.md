@@ -217,3 +217,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] | thread | Job 2:10 · Job 1:21 · Isaiah 45:7 · Lamentations 3:37–38 · Amos 3:6 · Deuteronomy 32:39 · 1 Samuel 2:6–7 · Ecclesiastes 7:14 · Genesis 50:20 · 2 Corinthians 12:7–9 |
 | [[Sitting in Dust and Ashes]] | thread | Job 2:8 · Job 42:6 · Genesis 18:27 · Genesis 3:19 · Esther 4:1–3 · Jonah 3:6 · 2 Samuel 13:19 · Jeremiah 6:26 · Ezekiel 27:30 · Daniel 9:3 · Isaiah 61:3 · Matthew 11:21 |
 | [[Renounce God and Die - The Euphemism and the Accuser's Prediction]] | parallel | Job 2:9 · Job 1:5, 11, 21 · Job 2:3, 5 · Genesis 3:1–6, 17 · 1 Kings 21:10, 13 |
+| [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |
+| [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
+| [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 |

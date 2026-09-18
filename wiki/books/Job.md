@@ -80,7 +80,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [x] [[Job of Uz]] — Job 1:1–5
 - [x] [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22
 - [x] [[The Second Test]] — Job 2:1–10
-- [ ] Seven Days of Silence — Job 2:11–13
+- [x] [[Seven Days of Silence]] — Job 2:11–13
 
 ### Job's Opening Lament (3)
 
@@ -147,6 +147,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Wisdom]]
 - [[Hope]]
 - [[Mediation and Advocacy]]
+- [[Mourning and Lament]] — the rite at 1:20, the ashes at 2:8, a funeral held over a living man at
+  2:12–13, and then the whole of chapter 3, where the rite's silence turns into its speech
 - [[Righteousness]]
 - [[Sin]]
 - [[Judgment]]
@@ -168,5 +170,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ## Key places
 
 - [[Uz]]
-- [[Teman]]
+- [[Teman]] — Eliphaz's, and the only one of the three friends' homelands that can be located
+- [[Shuah]] — Bildad's; usually the Shuah of Genesis 25:2, sometimes Assyrian Sūḫu, certainly neither
+- [[Naamah]] — Zophar's, unattested anywhere else and unlocated
 - [[Sheol]]
