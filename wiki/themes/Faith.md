@@ -136,7 +136,14 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   belated**, and Genesis reports the sequence without comment. **What he is given is not a reason but a
   companion** — *"I will go down with you into Egypt"* — **and the thing he acts on is a promise about
   a return he will not live to see**
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:1–22; **the one scene from [[Jacob]]'s whole life
+  that Hebrews 11 selects.** *"By faith, Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped,
+  leaning on the top of his staff"* (Hebrews 11:21). **The New Testament's verdict on Jacob rests on this
+  chapter** — **not on [[Bethel]], not on [[The Jabbok]], not on the twenty years at
+  [[Laban]]'s** — **and Hebrews 11:20 credits [[Isaac]]'s blessing in the previous verse on the same
+  ground, though Isaac did not know which son he was blessing.** **What Jacob acts on here is a promise
+  about a return he will not live to see** (48:21). See
+  [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]]
 ## Related themes
 
 - [[Righteousness]] — what faith is credited as, by an accounting verb

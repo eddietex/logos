@@ -95,7 +95,12 @@ with God goes with not being destroyed.
   with a different preposition and turned from a description into a command
 - [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] — what Hebrews and Jude make of it, and
   the Septuagint's *"pleased God"*
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:15; ***"the God before whom my fathers Abraham and Isaac
+  walked"*** — **the idiom's last appearance in Genesis, and [[Jacob]] assigns it to his fathers and does
+  not claim it for himself.** **It is the *hithallēk* of [[Enoch (son of Jared)]] and [[Noah]] and of the
+  command at 17:1**, *"I am God Almighty. Walk before me, and be blameless"* — **the one other verse where
+  the verb and *El Shaddai* stand together, and 48:3 supplies the name.** **The man declining the verb is
+  the one who has just called God his shepherd and his redeemer in the same sentence**
 ## Related themes
 
 - [[Righteousness]] — the word 6:9 pairs it with, and the one the rest of Scripture develops instead

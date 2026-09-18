@@ -63,6 +63,17 @@ than he"* (48:19).
 See [[Birthright and the Firstborn]] and
 [[The Younger Before the Firstborn - Jacob and Laban]].
 
+**What he keeps is worth stating, because it distinguishes him from every other passed-over elder son in
+the book.** **He is not cursed, not sent away, and not disinherited**: *"He also will become a people,
+and he also will be great"* (48:19). **[[Ishmael]] is put out with a skin of water, [[Esau]] gets a
+blessing that is a description of subjection, [[Zerah]] gets nothing but a scarlet thread** — **Manasseh
+loses precedence and keeps a future.** See
+[[Two Blind Fathers - Genesis 27 and Genesis 48]].
+
+**And he is named in the formula anyway.** *"God make you as Ephraim and as Manasseh"* (48:20) **puts
+both brothers into the blessing Israel says over its sons**, in the order the chapter established. See
+[[God Make You as Ephraim and as Manasseh - The Blessing Formula]].
+
 ### What becomes of the name
 
 **A tribe, and the only one settled on both banks of the Jordan** — half in Gilead and Bashan
@@ -78,9 +89,11 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - Named *"God has made me forget all my toil, and all my father's house"* — Genesis 41:51
 - Listed among the seventy who go down to Egypt — Genesis 46:20,
   [[Jacob's Family Settles in Egypt]]
-- Adopted by [[Jacob]] as his own son, *"even as Reuben and Simeon"* — Genesis 48:5 *(not yet ingested)*
-- Passed over for the right hand; *"his younger brother will be greater than he"* — Genesis 48:13–20
-  *(not yet ingested)*
+- Adopted by [[Jacob]] as his own son, *"even as Reuben and Simeon"* — Genesis 48:5,
+  [[Jacob Blesses Ephraim and Manasseh]]
+- Passed over for the right hand; *"his younger brother will be greater than he"*, and *"he also will
+  become a people, and he also will be great"* — Genesis 48:13–20,
+  [[Jacob Blesses Ephraim and Manasseh]]
 
 ## Appears in
 
@@ -92,6 +105,14 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
   border.** He and [[Ephraim]] *"were born to him in Egypt"*, **so they are among the seventy without
   being among the sixty-six who travelled** (46:26–27). **The register calls them [[Joseph]]'s sons;
   [[Jacob]] will call them his own at 48:5**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5, 13–14, 18–20; **the chapter that adopts him and
+  demotes him in the same scene.** **The narrator calls him *the firstborn* inside the verse that puts
+  the left hand on his head** (48:14) **and his father says it in protest** — *"Not so, my father; for
+  this is the firstborn"* (48:18) — **and is answered *"I know, my son, I know."*** **He is the measure of
+  what the chapter is not**: *"He also will become a people, and he also will be great"* (48:19). **A
+  tribe on both banks of the Jordan comes out of it** (Numbers 32:33; Joshua 17:7–10), **and 1 Chronicles
+  5:1–2 reads the whole scene as [[Reuben]]'s forfeited birthright arriving.** See
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and [[Adoption]]
 
 ## Related people
 
@@ -109,6 +130,7 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - [[Names and Naming]]
 - [[Remembrance]]
 - [[Birthright and the Firstborn]]
+- [[Adoption]]
 - [[Suffering]]
 - [[Blessing]]
 </content>

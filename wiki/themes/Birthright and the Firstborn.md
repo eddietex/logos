@@ -84,8 +84,19 @@ holds up Esau as the warning.
 - [[The Younger Before the Firstborn - Jacob and Laban]] — Genesis 29:26, where a Mesopotamian
   household states the ordinary rule out loud, in the feminine of the cycle's own two words: *"It is
   not done so in our place, to give the **younger** before the **firstborn**"*
-- Genesis 48:13–20 — Jacob crosses his hands over Ephraim and Manasseh and will not be corrected
-  *(not yet ingested)*
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5, 13–20; **the theme's fourth and cleanest
+  reversal, and the only one with no victim.** **The narrator puts the fact inside the sentence that
+  overrides it** — *"laid it on Ephraim's head, who was the younger … **guiding his hands knowingly, for
+  Manasseh was the firstborn**"* (48:14) — **and the verb is one about insight**, so the reader cannot
+  read a second Genesis 27. [[Joseph]] states the rule as an objection (*"Not so, my father; for this is
+  the firstborn"*, 48:18) **and is answered *"I know, my son, I know."*** **Nothing is taken from the
+  elder but precedence**: *"He also will become a people, and he also will be great"* (48:19), **which is
+  what distinguishes this from [[Ishmael]] put out with a skin of water and [[Esau]] given a blessing
+  that describes subjection.** **And the precedence is stated three times** — the adoption order (48:5),
+  the right hand (48:14), and *"He set Ephraim before Manasseh"* (48:20). **1 Chronicles 5:1–2 reads the
+  whole thing as [[Reuben]]'s forfeited *bekōrâ* arriving at [[Joseph]]**, which is the only verse in
+  Scripture that says so. See [[Two Blind Fathers - Genesis 27 and Genesis 48]] and
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
 - Genesis 49:3–4 — Reuben, *"my firstborn, my might"*, loses the pre-eminence *(not yet ingested)*
 - Deuteronomy 21:15–17 — the law of the double portion, prohibiting the patriarchs' practice
 - Exodus 4:22; 13:2, 13; 34:20; Numbers 3:11–13 — the firstborn as God's claim, and their redemption
@@ -150,6 +161,8 @@ holds up Esau as the warning.
 
 ## Related themes
 
+- [[Adoption]] — **Genesis 48 confers sonship and rank in the same sentence**, and the rank is defined by
+  naming [[Reuben]] and [[Simeon]]
 - [[Call and Election]] — the choice with no stated ground, and the same texts
 - [[Blessing]] — the other transferable thing, and a different word for a different transaction
 - [[Covenant]] — what the birthright carries in this family, unmentioned in the scene that sells it

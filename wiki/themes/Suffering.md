@@ -141,7 +141,13 @@ requires only that you be standing outside it.
   **He says it in the month he gets his son back, to a foreign king, unprompted**, and he is right on
   the arithmetic — a hundred and thirty against [[Abraham]]'s hundred and seventy-five and [[Isaac]]'s
   hundred and eighty. **Genesis neither rebukes the verdict nor endorses it**
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:16; ***"the angel who has redeemed me from all evil."***
+  ***Mikkol-rāʿ*** — **and *raʿ* is the word he used of his own years to [[Pharaoh (of Joseph's time)]]
+  eleven verses earlier**, *"few and **evil** have been the days of the years of my life"* (47:9).
+  **The same man calls his life evil to a king and calls himself redeemed from all evil to God, one
+  chapter apart, and Genesis reconciles the two not at all.** **Between them sits the third verdict** —
+  *"the God who has fed me all my life long to this day"* (48:15). **The wiki records all three and
+  harmonises none**
 ## Related themes
 
 - [[Retribution]] — the account of suffering the book of Job is written against

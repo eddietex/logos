@@ -63,7 +63,16 @@ offspring will become a multitude of nations"* (48:19).
 **It is the fourth reversal of birth order in Genesis** — [[Isaac]] over [[Ishmael]], [[Jacob]] over
 [[Esau]], [[Perez]] over [[Zerah]] — **and the only one accomplished without deceit, purchase, or
 violence.** **An old blind man does deliberately what an old blind man was once tricked into doing**
-(27:1–29); see [[The Stolen Blessing]] and [[Birthright and the Firstborn]].
+(27:1–29); see [[The Stolen Blessing]], [[Birthright and the Firstborn]] and
+[[Two Blind Fathers - Genesis 27 and Genesis 48]].
+
+### And his name goes into the formula
+
+**48:20 makes the two boys the words Israel says over its sons**: *"In you will Israel bless, saying,
+'God make you as Ephraim and as Manasseh.'"* **Ephraim is named first there too**, and the narrator
+closes the verse with *"He set Ephraim before Manasseh."* **Three statements of the same precedence in
+one chapter** — the adoption order (48:5), the right hand (48:14), and this. See
+[[God Make You as Ephraim and as Manasseh - The Blessing Formula]].
 
 ### What becomes of the name
 
@@ -79,10 +88,10 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
 - Named *"God has made me fruitful in the land of my affliction"* — Genesis 41:52
 - Listed among the seventy who go down to Egypt — Genesis 46:20,
   [[Jacob's Family Settles in Egypt]]
-- Adopted by [[Jacob]] as his own son, and named **before** his elder brother — Genesis 48:5 *(not yet
-  ingested)*
-- Given the right hand and the greater blessing over Joseph's objection — Genesis 48:13–20 *(not yet
-  ingested)*
+- Adopted by [[Jacob]] as his own son, and named **before** his elder brother — Genesis 48:5,
+  [[Jacob Blesses Ephraim and Manasseh]]
+- Given the right hand and the greater blessing over Joseph's objection; *"his offspring will become a
+  multitude of nations"* — Genesis 48:13–20, [[Jacob Blesses Ephraim and Manasseh]]
 
 ## Appears in
 
@@ -93,6 +102,15 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:20, 27; **one of the two *"sons of Joseph, who were born to him
   in Egypt"*** — counted into the seventy and out of the sixty-six. **Genesis names [[Manasseh]] first
   here, as it did at 41:51–52**, and the order will be reversed by a pair of crossed hands at 48:14
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5, 13–14, 19, 20; **the chapter that turns him from
+  a grandson into a tribe.** **He is adopted** (*"Ephraim and Manasseh, even as [[Reuben]] and
+  [[Simeon]], will be mine"*, 48:5, **named first, seven verses before the crossed hands**), **given the
+  right hand over his elder brother against his father's objection** (48:14, 17–18), **promised
+  *məlōʾ haggôyim*, a multitude of nations** (48:19), **and written into a blessing formula that names
+  him before [[Manasseh]]** (48:20). **He speaks no word and performs no act in the whole chapter; it is
+  entirely done to him**, and Genesis states the precedence three times so the reader cannot take it for
+  an accident. See
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and [[Adoption]]
 
 ## Related people
 
@@ -108,6 +126,7 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
 - [[Names and Naming]]
 - [[Blessing]]
 - [[Birthright and the Firstborn]]
+- [[Adoption]]
 - [[Suffering]]
 - [[The Nations]]
 </content>

@@ -184,6 +184,14 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   time, in the country that has just sold itself.** **Egypt also becomes, at 47:29–30, the first
   place a member of this family refuses to be buried in**: *"Please don't bury me in Egypt … you
   shall carry me out"*
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5, 21; **twice, and the first of them is the
+  pericope's most consequential clause.** *"Your two sons, who were born to you **in the land of Egypt**
+  before I came to you **into Egypt**, are mine"* — **so [[Ephraim]] and [[Manasseh]] are the only tribes
+  of Israel born outside the land**, to [[Asenath]], daughter of a priest of [[On]] (41:45, 50), **and the
+  verse that adopts them names their birthplace in the same breath.** **Egypt supplies two of the twelve
+  tribes.** **And 48:21 is the country stated as temporary once more** — *"I am dying, but God will be
+  with you, and bring you again to the land of your fathers"* — **46:4's promise handed from God's mouth
+  to Jacob's, and [[Joseph]] will hand it on again at 50:24**
 
 ## Related places
 

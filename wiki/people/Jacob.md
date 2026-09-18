@@ -491,8 +491,9 @@ This page grows as those pericopes arrive; what follows is the shape of it, not 
 
 He mourns Joseph for twenty-two years and tells Pharaoh *"Few and evil have been the days of the years of
 my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
-**crossing his hands over Ephraim and Manasseh to put the younger first on purpose** (48:13–20) — and
-is carried back to Machpelah.
+**the grandsons in [[Jacob Blesses Ephraim and Manasseh]], where he crosses his hands to put the younger
+first on purpose** (48:13–20) — and is carried back to Machpelah. What remains ahead of the wiki is
+Genesis 49–50: the twelve-son poem, the instruction about the cave, and the funeral convoy.
 
 ## Timeline / key events
 
@@ -616,9 +617,13 @@ is carried back to Machpelah.
 - Absent, and quoted to Joseph by [[Judah]] — *"my wife bore me two sons"*, *"surely he is torn in
   pieces"*, and the *Sheol* vow a third time — Genesis 44:27–29,
   [[The Silver Cup and Judah's Plea]]
-- Goes down to Egypt at a hundred thirty — Genesis 46 *(not yet ingested)*
-- Blesses Ephraim over Manasseh with crossed hands, and then his twelve sons — Genesis 48–49
-  *(not yet ingested)*
+- Goes down to Egypt at a hundred thirty — Genesis 46:1–7, [[Jacob's Family Settles in Egypt]]
+- **Adopts [[Ephraim]] and [[Manasseh]] as his own sons**, *"even as Reuben and Simeon"* — Genesis 48:5,
+  [[Jacob Blesses Ephraim and Manasseh]]
+- Crosses his hands *"knowingly"* to put [[Ephraim]] under the right one, refuses [[Joseph]]'s
+  correction, and names God three ways — Genesis 48:14–19,
+  [[Jacob Blesses Ephraim and Manasseh]]
+- Blesses his twelve sons — Genesis 49:1–28 *(not yet ingested)*
 - Dies in Egypt and is carried to Machpelah — Genesis 49:33–50:13 *(not yet ingested)*
 
 ## Appears in
@@ -778,6 +783,23 @@ is carried back to Machpelah.
   their burying place."* **The man who has just been given a freehold in the best of Egypt** (47:11)
   **uses his last strength arranging not to lie in it.** Then *"Israel bowed himself on the bed's
   head"* (47:31), **which the Septuagint and Hebrews 11:21 read as *on the top of his staff***
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:1–22; **blind, propped on a bed, and doing the
+  most consequential legal act of his life.** **The chapter names him *Jacob* twice and *Israel* nine
+  times, and divides the two exactly**: *Jacob* is told he has a visitor and quotes God from memory
+  (48:2–4); *Israel* strengthens himself, sees, blesses, and pronounces. **He recites the [[Bethel]]
+  promise of 35:11–12 inexactly** — turning *be fruitful* into *I will make you fruitful*, dropping the
+  kings, and adding *"for an everlasting possession"* from [[Abraham]]'s covenant (17:8) — **and calls
+  the place by the name it had before he renamed it, *Luz*.** **Then he adopts two grandsons in four
+  Hebrew words** (*"they are mine"*, 48:5), **measured against [[Reuben]] and [[Simeon]], the two sons
+  he is about to demote** (49:3–7). **48:7, the sentence about [[Rachel]]'s grave, is the premise of it.**
+  **He crosses his hands *"knowingly"*** (48:14, *śikkēl*) — **the blind man who once exploited a blind
+  man is not mistaken** — **and answers his son's protest with three words**: *"I know, my son, I know."*
+  **His names for God are the most personal in Genesis**: the God *before whom* Abraham and Isaac
+  walked, **the God *who has fed me all my life long* — Scripture's first shepherd-God** — and **the
+  angel *who has redeemed me from all evil*, the first *gōʾēl* in the Bible.** **He ends by claiming
+  ground at [[Shechem (city)]] *"with my sword and with my bow"*** (48:22), **for a field the narrator
+  says he bought** (33:19). See [[Two Blind Fathers - Genesis 27 and Genesis 48]],
+  [[The God Who Has Fed Me - The First Time God Is a Shepherd]] and [[Adoption]]
 
 ## Related people
 

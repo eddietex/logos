@@ -80,10 +80,10 @@ a father, a father's office, a city, and two sons.
 - Given to Joseph by Pharaoh on the day of his elevation — Genesis 41:45,
   [[Pharaoh's Dreams and Joseph's Rise]]
 - Bears [[Manasseh]] and [[Ephraim]] during the seven years of plenty — Genesis 41:50–52
-- Named a third and last time in the roster of the seventy who go down to Egypt — Genesis 46:20
-  *(not yet ingested)*
-- Her two sons adopted by [[Jacob]] as his own, and blessed with the hands crossed — Genesis 48:5, 14
-  *(not yet ingested)*
+- Named a third and last time in the roster of the seventy who go down to Egypt — Genesis 46:20,
+  [[Jacob's Family Settles in Egypt]]
+- Her two sons adopted by [[Jacob]] as his own, and blessed with the hands crossed — Genesis 48:5, 14,
+  [[Jacob Blesses Ephraim and Manasseh]]
 
 ## Appears in
 
@@ -98,6 +98,13 @@ a father, a father's office, a city, and two sons.
   to nobody else in it. **It flags [[Shaul (son of Simeon)]]'s Canaanite mother, honours her, and passes
   over [[Shua's Daughter]] in silence** — **three foreign mothers, three treatments, and Genesis offers
   no rule**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5; **not named, and the chapter is about her sons.**
+  *"Your two sons, who were born to you **in the land of Egypt** before I came to you into Egypt, are
+  mine"* **is as close as the pericope comes to her**: [[Jacob]] identifies the boys by their birthplace
+  and never by their mother. **The register at 46:20 gave her a full pedigree; the adoption that makes her
+  children into two of Israel's twelve tribes does not mention her at all.** **Two tribes of Israel have
+  an Egyptian mother and a priest of [[On]] for a grandfather**, and after 46:20 Scripture does not say
+  her name again. See [[Adoption]] and [[The Nations]]
 
 ## Related people
 

@@ -95,6 +95,16 @@ same spot.
   pasturing on it and he sends his seventeen-year-old there by himself.** Genesis records no misgiving from
   anyone. **The brothers have already moved on to [[Dothan]]**, and Joseph finds that out only because a
   man in a field overheard them say so
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:22; **not named, and unmistakably meant.** *"I have
+  given to you **one portion** above your brothers, which I took out of the hand of the Amorite with my
+  sword and with my bow."* ***Šəkem ʾeḥād*** **is *one shoulder*, a share of land — and also *one
+  Shechem***, **and Joshua 24:32 buries [[Joseph]]'s bones here, *"in the parcel of ground which Jacob
+  bought of the sons of [[Hamor]]"*.** **The double meaning is almost certainly intended.** **So is the
+  problem**: Genesis narrates a purchase (33:19) and a massacre [[Jacob]] disowned (34:30), **and no
+  battle he fought.** **His deathbed calls the previous occupants *Amorite* where the narrative said
+  Hivite** (34:2). **Three accounts of how he came to hold this ground, and the book withdraws none of
+  them** — see
+  [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]]
 
 ## Related places
 

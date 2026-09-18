@@ -188,7 +188,14 @@ five times**, and each is a covenant hinge.
   repeats and takes its Hebrew title, *Šəmôt*, from.** **The wives present are named collectively and
   counted out** (46:7, 26); **one granddaughter, [[Serah]], is named and nothing is said about her**;
   **[[Rachel]], eleven chapters dead, is the only mother called *wife***
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:2–5, 16, 20; **four operations on names in one chapter.**
+  **[[Bethel]] is called by the name it had before Jacob renamed it** (*Luz*, 48:3, as at 35:6);
+  **[[Ephraim]] and [[Manasseh]] are put in a new order and kept in it three times** (48:5, 14, 20);
+  ***"let my name be named on them, and the name of my fathers Abraham and Isaac"*** (48:16) **performs the
+  adoption as a naming**; **and 48:20 turns two personal names into a formula Israel says over its sons.**
+  **The chapter also divides its own subject's two names by function** — *Jacob* is told and quotes,
+  *Israel* sees and blesses, **and 48:2 puts both in one sentence.** See
+  [[Renamed and Still Called Jacob - The Two Namings of Israel]]
 ## Related themes
 
 - [[The Names of God]] — the same practice turned on its most difficult object, where Genesis's habit of

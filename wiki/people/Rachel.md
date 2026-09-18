@@ -198,6 +198,8 @@ over the killing of the infants at Bethlehem. See
   pillar set over her grave — Genesis 35:16–20,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Named in the roster of the twelve as mother of Joseph and Benjamin — Genesis 35:24
+- Recalled by [[Jacob]] as he adopts her two grandsons — *"Rachel died by me in the land of Canaan on
+  the way"* — Genesis 48:7, [[Jacob Blesses Ephraim and Manasseh]]
 
 ## Appears in
 
@@ -269,6 +271,17 @@ over the killing of the infants at Bethlehem. See
   [[Zilpah]] and [[Bilhah]] get a provenance instead** — *whom Laban gave* — **so the favouritism that
   drove chapter 37 is still operating inside the sentence structure of a genealogy.** Her line is
   fourteen: [[Joseph]] with [[Manasseh]] and [[Ephraim]], and [[Benjamin]] with ten sons
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:7; **one verse, thirty years dead, and the only
+  time [[Jacob]] speaks of her burial in his own voice.** ***"As for me, when I came from Paddan, Rachel
+  died by me in the land of Canaan on the way, when there was still some distance to come to Ephrath, and
+  I buried her there on the way to Ephrath."*** ***By me*** **is *ʿālay* — *on me*, *to my cost* — and
+  the sentence sits, without a connective, in the middle of the adoption of her two grandsons.** **The
+  wiki reads it as the premise of that adoption**: she bore two sons where [[Leah]] bore six, **and the
+  double portion Jacob is handing to her firstborn is the share she did not live to bear.** **It is also
+  the verse that shows what 47:29–30 costs him** — he has just made [[Joseph]] swear to lay him in
+  [[Machpelah]], **where [[Leah]] is buried and she is not** (49:31). See
+  [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
 
 ## Related people
 

@@ -185,7 +185,15 @@ everlasting possession, by treaty with its current occupant.
   **which is the measure of what he thinks is at stake.** It is the only one of his five uses that is a
   petition rather than a blessing or a self-disclosure. See
   [[God Almighty - El Shaddai in Genesis and Exodus]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3, 15–16; **four designations in four verses, and three of
+  them are relational participles rather than titles.** ***God Almighty*** (48:3) **is the fourth of five
+  *El Shaddai*s in Genesis and the only one spoken by a human being** rather than announced by God.
+  **Then, in one sentence**: *"the God **before whom** my fathers Abraham and Isaac walked"*, *"the God
+  **who has fed me** all my life long to this day"* — ***hārōʿeh ʾōtî***, **Scripture's first shepherd-God**
+  — **and *"the angel **who has redeemed me** from all evil"***, ***haggōʾēl***, **the first *gāʾal* in the
+  Bible.** **All three govern one singular imperative**, *bless*, **and the third of them is an angel.**
+  See [[The God Who Has Fed Me - The First Time God Is a Shepherd]] and
+  [[The Redeemer and the Avenger of Blood]]
 ## Related themes
 
 - [[Language and Speech]] — naming as an act, throughout Genesis

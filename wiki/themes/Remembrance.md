@@ -208,7 +208,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   concerning the land of Egypt to this day, that Pharaoh should have the fifth."* **The clause dates
   the telling rather than the event**, and it is the only thing in Genesis that the narrator reports
   as still legally in force
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3–7, 15–16, 22; **the pericope is almost entirely
+  recollection, and the book lets it stand uncorrected.** **A theophany at Luz, quoted inexactly**
+  (48:3–4, against 35:11–12); **a death on the road to Ephrath thirty years back** (48:7); **a lifetime of
+  being shepherded and a rescue from all evil** (48:15–16); **and a battle against an Amorite that Genesis
+  never narrates** (48:22). **[[Jacob]] is the only character in the book given a long speech that is
+  nothing but memory**, and **the narrator checks none of it**
 ## Related themes
 
 - [[Covenant]] — the usual object of the verb: what God remembers is what he swore

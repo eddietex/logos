@@ -682,7 +682,7 @@ merge, or reorder them freely.
 - [x] [[Joseph Reveals Himself]] — Genesis 45:1–28
 - [x] [[Jacob's Family Settles in Egypt]] — Genesis 46:1–47:12
 - [x] [[Joseph and the Famine]] — Genesis 47:13–31
-- [ ] Jacob Blesses Ephraim and Manasseh — Genesis 48:1–22
+- [x] [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:1–22
 - [ ] Jacob Blesses His Sons — Genesis 49:1–33
 - [ ] The Deaths of Jacob and Joseph — Genesis 50:1–26
 

@@ -195,3 +195,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] | law-and-narrative | Genesis 23:3–20 · Genesis 47:18–23 · Leviticus 25:8–34, 39–43 · 1 Kings 21:1–4 · Isaiah 5:8 · Micah 2:1–2 |
 | [[The Priests Who Kept Their Land and the Levites Who Got None]] | parallel | Genesis 47:22, 26 · Numbers 18:20–24 · Numbers 35:1–8 · Deuteronomy 10:9; 18:1–2 · Joshua 13:14, 33 · Joshua 21 |
 | [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]] | textual-problem | Genesis 47:31 · Genesis 48:1–2 · 1 Kings 1:47 · Hebrews 11:21 |
+| [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |
+| [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] | thread | Genesis 35:22 · Genesis 48:5–6 · Genesis 49:3–7 · Numbers 1:10, 32–35 · Numbers 26:28–37 · Deuteronomy 33:13–17 · Joshua 14:3–4 · Joshua 16–17 · 1 Chronicles 5:1–2 · Ezekiel 47:13 · Revelation 7:5–8 |
+| [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
+| [[God Make You as Ephraim and as Manasseh - The Blessing Formula]] | parallel | Genesis 48:20 · Ruth 4:11–12 · Jeremiah 29:22 |
+| [[Hands on the Head - The First Blessing by Touch]] | thread | Genesis 27:21–27 · Genesis 48:13–18 · Leviticus 1:4; 16:21 · Numbers 8:10; 27:18–23 · Deuteronomy 34:9 · Mark 10:16 · Acts 6:6; 13:3 · 1 Timothy 4:14 · Hebrews 6:2 |

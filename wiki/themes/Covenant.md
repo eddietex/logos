@@ -288,7 +288,15 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   nation."* **The promise that was about a land is discharged outside it**, and Exodus 1:7 repeats
   the sentence in five verbs immediately before *"there arose a new king over Egypt, who didn't know
   Joseph."* See [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3–4, 16, 21; **the covenant transmitted by quotation rather than
+  by theophany, and the quotation is inexact.** **God does not speak in this pericope**; [[Jacob]] recites
+  35:11–12 from memory, **turning the imperative *be fruitful* into the promise *I will make you
+  fruitful*, dropping *"kings will come out of your body"*, and adding *"for an everlasting possession"* —
+  *ʾăḥuzzat ʿôlām*, which belongs to [[Abraham]]'s covenant** (17:8) **and not to his own.** **Then he
+  extends the covenant line by declaration**: *"let my name be named on them, and the name of my fathers
+  Abraham and Isaac"* (48:16) — **two boys born in [[Egypt]] to an Egyptian priest's daughter written into
+  it by a sentence.** **And 46:4's return promise is handed on in the second person** (48:21). See
+  [[Adoption]]
 ## Related themes
 
 - [[Judgment]] — what the first covenant is spoken inside of

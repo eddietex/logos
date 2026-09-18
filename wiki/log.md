@@ -8035,3 +8035,143 @@ normal compression. Filed as
 
 Genesis stands at 56 / 59 pericopes; the next is *Jacob Blesses Ephraim and Manasseh*,
 Genesis 48:1–22.
+
+## [2026-09-18] ingest | Genesis 48.1-22 — Jacob Blesses Ephraim and Manasseh
+
+Unattended run (`/ingest auto`). The book page had the pericope queued as Genesis 48:1–22 and the
+boundary was kept. **The temptation here is to run 48 and 49 together as one deathbed**, since 48:5's
+*"even as Reuben and Simeon"* only pays off at 49:3–7; **that would produce a fifty-five-verse pericope
+in which the adoption and the crossed hands disappear into the tribal poem.** Chapter 48 is a
+self-contained scene with its own cast, and 49:1 opens a new one by summoning all twelve sons.
+**Boundary unchanged; the two are cross-linked instead, with 48:5 flagged as the hinge on both pages
+once 49 is ingested.**
+
+### The passage page
+
+[[Jacob Blesses Ephraim and Manasseh]], `wiki/passages/Genesis/`, built around seven findings.
+
+**1. The chapter is Genesis 27 run again with the deception taken out.** A father whose eyes have
+failed, a blessing, the younger son under the hand that should have covered the elder, a protest, and
+an irrevocable word — **every element of the theft of Esau's blessing is present, and the one thing
+missing is the lie.** ***Śikkēl ʾet-yādāyw***, *"guiding his hands knowingly"* (48:14), **is the
+narrator's insurance against the obvious reading**, and it is placed immediately before the clause it
+contradicts, *"for Manasseh was the firstborn."* Filed as
+[[Two Blind Fathers - Genesis 27 and Genesis 48]], which sets the two scenes out in eleven rows; nine
+of them match, and the two that do not are Jacob's knowledge and Manasseh's future.
+
+**2. 48:5 is the Bible's first adoption and its only formula spoken by the adopting parent.**
+***Lî-hēm***, *they are mine*, said twice, with three mechanisms in one scene: the declaration (48:5),
+the knees (48:12), and the naming (48:16). **A new theme page, [[Adoption]], was created for it** —
+the first theme page added since [[Compassion and Mercy]] — because the concept recurs across Scripture
+(Moses at Exodus 2:10, Esther 2:7, Psalm 2:7, 2 Samuel 7:14, Exodus 4:22, and Paul's *huiothesia*) and
+because Genesis's three near-misses before it (Eliezer at 15:2–3, and the surrogacy arrangements of
+16:2 and 30:3) **are something else and should not be filed under the same word.**
+
+**3. The comparison in 48:5 names the two sons Jacob is about to curse.** *"Even as Reuben and
+Simeon"* confers first and second rank — **and [[Reuben]] has lain with [[Bilhah]]** (35:22) **and
+[[Simeon]] has sacked [[Shechem (city)]]** (34:25), **and 49:3–7 takes both positions away.**
+1 Chronicles 5:1–2 is the only verse in Scripture that reads the chapter as a penalty transfer;
+**Genesis gives no motive at all**, and the wiki keeps the two apart. Filed as
+[[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]], which also works the arithmetic:
+Joseph becomes two, so Levi must come out of every list counted as territory, and Revelation 7:5–8
+breaks the pattern in both directions.
+
+**4. 48:15 is the first time in Scripture that God is the subject of *rāʿâ*, to shepherd**, and the man
+who says it spent twenty years as a hired shepherd and itemised the job under oath at 31:38–40.
+**Psalm 23:1 is the next verse in the Bible to make God the shepherd of one person.** Filed as
+[[The God Who Has Fed Me - The First Time God Is a Shepherd]]. **The same sentence also contains the
+first *gāʾal* in the Bible** — *"the angel who has redeemed me from all evil"*, the only occurrence of
+the root in Genesis — **and its subject is an angel**; that was added to the head of
+[[The Redeemer and the Avenger of Blood]] rather than given its own page.
+
+**5. 48:14 is the first hand laid on a head in Scripture, and Genesis 27 does not use the gesture** —
+Isaac's hands are *felt*, and the blessing itself is a kiss (27:26). Filed as
+[[Hands on the Head - The First Blessing by Touch]], which keeps the gesture's three later offices
+apart (liability, appointment, blessing) and notes that Genesis 48 belongs to the third and is the only
+Old Testament instance of it, with Mark 10:16 its nearest parallel anywhere.
+
+**6. 48:20 is the first of only three *make-you-like* formulae in the Hebrew Bible**, with Ruth 4:11–12
+and, as a curse, Jeremiah 29:22. **All three name a pair.** Filed as
+[[God Make You as Ephraim and as Manasseh - The Blessing Formula]].
+
+**7. 48:7 is read as the premise of the adoption rather than as a digression, and the reading is
+marked as a reading.** [[Rachel]] bore two sons and died; [[Leah]] bore six; **the double portion
+Jacob is handing to Rachel's firstborn is the share she did not live to bear.** Genesis supplies the
+verse and no connective, and the competing readings (free association, an editorial seam, a note
+explaining who will have to bury him) are all defensible. **The wiki states its preference and the
+alternatives.**
+
+### Judgment calls made without asking
+
+- **Four new connection pages, not five.** The *gāʾal* thread was folded into the existing
+  [[The Redeemer and the Avenger of Blood]] instead of getting a page, because that page already
+  exists for the word and 48:16 is properly its head rather than a parallel to it.
+- **A new theme page was created.** `AGENTS.md`'s growth trigger requires a template and a schema
+  section before a new *page type*; [[Adoption]] is an ordinary theme and needed neither. The lint
+  question it raises is whether the surrogacy passages (16:2; 30:3, 9) should be retro-linked to it —
+  **they are linked from the theme page, but their own passage pages do not yet list it.**
+- ***Məlōʾ haggôyim*** **at 48:19 and *plērōma tōn ethnōn* at Romans 11:25 are the same two words in
+  two languages, each occurring once in its testament.** The wiki records the echo on the passage page
+  and in [[The Nations]] **and refuses the inference**: Paul does not cite Genesis 48, and *plērōma* is
+  ordinary Greek.
+- **Whose knees at 48:12 is left open, with a stated preference.** Jacob's, on the strength of 30:3 and
+  the ancient Near Eastern gesture, but not treated as settled.
+- **No new person or place pages.** Every figure in the chapter already had one, *Luz* is an alias on
+  [[Bethel]], *Ephrath* on [[Bethlehem]], and *Paddan* on [[Aram Naharaim]] — **48:7 is the only place
+  in Genesis where the region's name is shortened**, and that is noted on the place page rather than
+  given a page of its own. [[Asenath]] is not named in the chapter and is recorded as absent.
+- **[[God]] got an entry although there is no divine speech.** The silence resumed at 46:5 holds all
+  the way through 48; the entry exists because the chapter gives four designations in four verses, all
+  of them in a human mouth.
+
+### Pages touched
+
+**New (7)**: the passage page; the theme page [[Adoption]]; and the connection pages
+[[Two Blind Fathers - Genesis 27 and Genesis 48]],
+[[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]],
+[[The God Who Has Fed Me - The First Time God Is a Shepherd]],
+[[God Make You as Ephraim and as Manasseh - The Blessing Formula]] and
+[[Hands on the Head - The First Blessing by Touch]] — five connections, so seven new files.
+
+**Revised**: [[Genesis]] (box checked); people — [[Jacob]], [[Joseph]], [[Ephraim]], [[Manasseh]],
+[[Rachel]], [[Reuben]], [[Simeon]], [[Abraham]], [[Isaac]], [[Asenath]], [[God]],
+[[The Angel of Yahweh]]; places — [[Bethel]], [[Canaan]], [[Egypt]], [[Bethlehem]],
+[[Aram Naharaim]], [[Shechem (city)]]; themes — [[Birthright and the Firstborn]], [[Blessing]],
+[[Covenant]], [[Names and Naming]], [[Providence]], [[Walking with God]], [[The Names of God]],
+[[Prophecy and Vision]], [[Land and Sojourning]], [[Burial and the Grave]],
+[[Seeing and Being Seen]], [[The Nations]], [[Suffering]], [[Remembrance]], [[Faith]]; connections —
+[[The Redeemer and the Avenger of Blood]]. Plus [[books/index|Books]], [[people/index|People]],
+[[places/index|Places]], [[themes/index|Themes]], [[connections/index|Connections]] and
+[[index|the top-level index]].
+
+**Eight stale `*(not yet ingested)*` markers pointing at this pericope were resolved**, on
+[[Ephraim]] (two), [[Manasseh]] (two), [[Jacob]], [[Joseph]], [[Asenath]] (two, one of them for
+46:20 rather than 48) and [[Bethlehem]], and one on
+[[Birthright and the Firstborn]] — ten in all.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. **No links were deliberately left dangling.** Genesis 49:3–7,
+49:22–26, 49:29–32, 50:13 and 50:24–25, and Joshua 24:32, are named in prose and dated rather than
+linked — their passage pages do not exist yet.
+
+### Findings left for the next lint
+
+- **Unchanged from the last entry**: the stray empty `Exodus.md` at the repository root (`53be57b`);
+  the ***"He made himself strange to them"*** fragment for 42:7 on [[Joseph Sold into Slavery]] and
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]; the stale marker on
+  [[The Tower of Babel]]; the seven older passage pages not retro-linked to [[Sexual Sin]]; the seven
+  plural brothers' missing [[The Second Journey]] entries; the Cyrillic *е* inside *ʾênennû* in
+  `wiki/people/Jacob.md` and `wiki/books/Genesis.md`; the stale markers on
+  [[The Cupbearer and the Baker]] and [[The Nations]].
+- **`wiki/themes/index.md`'s *Key passages* column is still stale for several themes**, for the same
+  reason as before — this pass appended to the rows rather than rebuilding them. Rebuilding that
+  column is a lint job.
+- **New**: [[Hagar and Ishmael]] and [[The Birth of Jacob's Children]] are listed as key passages on
+  [[Adoption]] but do not list [[Adoption]] among their own themes; the same is true of
+  [[The Covenant Between the Pieces]]. **Retro-linking a new theme backwards through the passages it
+  claims is a lint job**, and it is the second instance of this pattern.
+- **`wiki/books/Genesis.md`'s `## Structure` prose stops at 47:12**, two pericopes behind the
+  checklist. The Joseph paragraph has not been extended since [[Jacob's Family Settles in Egypt]].
+
+Genesis stands at 57 / 59 pericopes; the next is *Jacob Blesses His Sons*, Genesis 49:1–33.

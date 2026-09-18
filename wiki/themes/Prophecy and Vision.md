@@ -236,7 +236,12 @@ happens.
   vocative of the Akedah**: *"Jacob, Jacob!" He said, "Here I am."* **The one vision in the Joseph
   cycle that is not a dream needing interpretation is the one that comes to the dreamer's father.** See
   [[Jacob, Jacob - The Doubled Name and Hinneni]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:19, 21; **prediction without any of the theme's
+  machinery.** **No dream, no vision, no *"God spoke"*, no formula** — **a dying man simply says what will
+  happen**: *"his younger brother will be greater than he, and his offspring will become a multitude of
+  nations"* (48:19), and *"God will be with you, and bring you again to the land of your fathers"* (48:21).
+  **Both came true**, and Jeremiah 31:9 will call [[Ephraim]] *"my firstborn"* eight centuries later.
+  **The book's last predictive speech before the poem of chapter 49 is introduced as nothing at all**
 ## Related themes
 
 - [[Language and Speech]] — words as the medium of everything God does in Genesis

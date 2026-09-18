@@ -252,6 +252,9 @@ See [[Wrestling at the Jabbok]] and
 - Wrestles Jacob at the Jabbok until daybreak as *a man*, is credited in his own speech with having
   been fought as *ʾĕlōhîm* and as men, refuses to give his name, and is identified — by Jacob, not by
   the narrator — as God, seen face to face — Genesis 32:24–30, [[Wrestling at the Jabbok]]
+- Invoked by the dying Jacob, in apposition with *the God*, as *"the angel who has redeemed me from all
+  evil"* — **the first *gōʾēl* in Scripture** — and asked to bless [[Ephraim]] and [[Manasseh]] —
+  Genesis 48:15–16, [[Jacob Blesses Ephraim and Manasseh]]
 - Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6
 - Goes before Israel in the wilderness, with the warning *"my name is in him"* — Exodus 23:20–23
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
@@ -297,6 +300,17 @@ See [[Wrestling at the Jabbok]] and
   answers *"why is it that you ask"* instead of anything Manoah or Moses receive. **Jacob, not the
   narrator, supplies the identification** — *"I have seen God face to face"* — and Hosea 12:3–4 later
   calls him *the angel* while moving the encounter to Bethel
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:15–16; **his last appearance in Genesis, and the
+  only time anyone asks him to do anything.** [[Jacob]] names God three ways in one sentence — *"the God
+  before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,
+  **the angel who has redeemed me from all evil**"* — **and then gives all three a single verb in the
+  singular: *bless the lads*.** **The apposition is the alternation at its most compressed**: two *the
+  God*s and one *the angel*, and no seam between them. **It is the same speaker who reported *"the angel
+  of God said to me in the dream … I am the God of Bethel"*** (31:11–13) **and who said *"I have seen God
+  face to face"* of a man who wrestled him** (32:30). ***Haggōʾēl***, *the one redeeming*, **is the first
+  occurrence of *gāʾal* in the Bible**, and its subject is this figure — **before the exodus, the law of
+  the kinsman, or the prophetic title have any use for the word.** See
+  [[The Redeemer and the Avenger of Blood]] and [[The Names of God]]
 
 ## Related people
 
@@ -304,6 +318,9 @@ See [[Wrestling at the Jabbok]] and
 - [[Ishmael]] — whose name and oracle he delivers before the boy is born
 - [[God]] — whose messenger he is, and whose first person he speaks in
 - [[Abraham]] — whom he stops at Genesis 22:11, and to whom he swears by God's own self
+- [[Jacob]] — who calls him *the God of Bethel* in a dream (31:13), wrestles him (32:24–30), and on his
+  deathbed asks him to bless two children (48:16)
+- [[Ephraim]] and [[Manasseh]] — the only people in Scripture a blessing is asked of him for
 
 ## Themes associated
 

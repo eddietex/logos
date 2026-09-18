@@ -212,8 +212,9 @@ His verdict on the whole of it is given twice — *"God sent me before you to pr
 See [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]].
 
 **He gets the birthright [[Reuben]] loses** — 1 Chronicles 5:1–2 says so outright — in the form of a
-double portion: **Ephraim and Manasseh are adopted by Jacob as his own** (48:5) and counted as two
-tribes, which is why most later lists have twelve names without Joseph's own. He sees his
+double portion: **[[Ephraim]] and [[Manasseh]] are adopted by Jacob as his own** (48:5, in
+[[Jacob Blesses Ephraim and Manasseh]]) and counted as two tribes, which is why most later lists have
+twelve names without Joseph's own. He sees his
 great-grandchildren *"born on Joseph's knees"* (50:23), **the only other use in Genesis of the adoption
 idiom Rachel used of [[Bilhah]] at 30:3.** He dies at a hundred and ten, makes Israel swear to carry
 his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
@@ -288,7 +289,11 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   Genesis 45:9–15
 - Gives ten brothers one change of clothing each and Benjamin five with three hundred pieces of
   silver, then *"see that you don't quarrel on the way"* — Genesis 45:22, 24
-- Ephraim and Manasseh adopted as Jacob's own; the double portion — Genesis 48 *(not yet ingested)*
+- Brings both sons to his dying father, is overruled on which head gets the right hand, and bows to the
+  ground — Genesis 48:1–2, 12–18, [[Jacob Blesses Ephraim and Manasseh]]
+- [[Ephraim]] and [[Manasseh]] adopted as Jacob's own; the double portion, and *"one portion above your
+  brothers"* at [[Shechem (city)]] — Genesis 48:5, 22,
+  [[Jacob Blesses Ephraim and Manasseh]]
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
   50:19–20 *(not yet ingested)*
 - Dies at a hundred and ten; the oath about his bones — Genesis 50:24–26; Exodus 13:19; Joshua 24:32
@@ -413,6 +418,21 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   on him by the people who paid their liberty for it.** Then his father asks him to swear, with
   [[Abraham]]'s gesture, not to bury him in Egypt, **and the vizier of the country he has just bought
   answers in five words**: *"I will do as you have said"* (47:30)
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:1–22; **the one scene in his life where he is
+  wrong about something and loses.** He brings both sons on hearing his father is sick (48:1), answers
+  the identification with a legal sentence — *"They are my sons, whom God has given me here"* (48:9) —
+  **and bows with his face to the earth** (48:12), the third bow in three pericopes and this time his
+  own. **Then he stages the blessing**: Ephraim to his father's left, Manasseh to his father's right, so
+  that a blind man's right hand falls on the elder without being aimed (48:13). **Jacob crosses his
+  arms, and *"it displeased him"*** — ***wayyēraʿ bəʿênāyw***, **the construction Genesis uses of Yahweh
+  at 38:10** — **so he takes hold of his father's hand to move it** (48:17), **the only person in
+  Scripture who physically contests a blessing while it is being given.** *"Not so, my father; for this
+  is the firstborn"* (48:18) is answered *"I know, my son, I know"* (48:19). **He gains far more than he
+  loses**: two of his sons become tribes (48:5), he is the grammatical object of the blessing — *"He
+  blessed **Joseph**"* (48:15) — **though nothing is said over him**, and he is given *"one portion above
+  your brothers"* at [[Shechem (city)]] (48:22), where Joshua 24:32 will bury his bones. See
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and
+  [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]]
 
 ## Related people
 
@@ -449,6 +469,7 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Remembrance]]
 - [[Barrenness]]
 - [[Birthright and the Firstborn]]
+- [[Adoption]]
 - [[Envy]]
 - [[Prophecy and Vision]]
 - [[Love]]

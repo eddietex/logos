@@ -610,6 +610,16 @@ gets a death notice in this same chapter** (35:8); she does not.
   with *"I am God, the God of your father."*** **Isaac is the patriarch who was told *"Don't go down
   into Egypt"*** (26:2) **and who received his own night theophany at this same Beersheba** (26:24);
   **his son puts the question to that God, at that place, and is given the opposite answer**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:15–16; **named twice, both times beside
+  [[Abraham]], in the blessing of two great-grandsons he never saw.** *"The God before whom my fathers
+  Abraham and Isaac walked"*, and *"the name of my fathers Abraham and Isaac"* — **so the adoption of
+  48:5 is executed by attaching three names to two Egyptian-born boys, and his is the middle one.**
+  **The chapter is also his own scene run again with the deception taken out**: **a father whose eyes
+  have failed, a blessing, the younger son under the hand that should have covered the elder, and a
+  protest that changes nothing.** **The difference is that he did not know** — *"Yes, he will be
+  blessed"* (27:33) — **and his son does**: *"I know, my son, I know"* (48:19). **Hebrews 11:20–21 names
+  the two blessings in consecutive verses and credits both to faith.** See
+  [[Two Blind Fathers - Genesis 27 and Genesis 48]] and [[The Stolen Blessing]]
 
 ## Related people
 

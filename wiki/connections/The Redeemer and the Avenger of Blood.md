@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- **Genesis 48:16** — *"the angel who has **redeemed** me from all evil, bless the lads"* — ***the first
+  occurrence of *gāʾal* in the Bible***, and the only one in Genesis —
+  [[Jacob Blesses Ephraim and Manasseh]]
 - **Job 16:18–19** — *"Earth, don't cover my blood. Let my cry have no place to rest. Even now,
   behold, my witness is in heaven."* —
   [[Miserable Comforters and the Witness in Heaven]]
@@ -31,6 +34,30 @@ tags: [connection]
 - **Revelation 6:9–10** — *"How long, Master … until you judge and avenge our blood?"*
 
 ## Analysis
+
+### Where the word enters Scripture
+
+**Before any of the law, and with no legal content at all.** ***Gāʾal*** **occurs once in Genesis**, at
+48:16, **in a dying man's blessing over two children**: *"the angel who has redeemed me from all evil,
+bless the lads."* **Three things about that are worth keeping.**
+
+**The subject is an angel.** It stands in apposition to two *the God*s and governs the same singular
+imperative (see [[The Angel of Yahweh]] and [[The Names of God]]). **So the word's first subject in
+Scripture is the figure whose relation to God the book never settles** — **and its first human object is
+[[Jacob]], who is not redeemed from a creditor, a slaver or a killer, but *mikkol-rāʿ*, from all evil.**
+
+**There is no kinsman in it.** **The whole apparatus below — the land, the slave, the widow, the
+blood — is Levitical and later.** **Genesis 48:16 has the verb without the institution**, which means
+the theological use is not, in canonical order, an extension of the legal one: **the legal one arrives
+second.** Exodus 6:6's *"I will redeem you with an outstretched arm"* is the next occurrence, **and it is
+also God.**
+
+**And the man saying it has no kinsman who ever did the office for him.** He fled a brother who meant to
+kill him, worked twenty years for an uncle who cheated him, and is dying in a foreign country.
+**Like [[Job (person)]] at Job 19:25, he names the officer in the gap where the officer should have
+been** — and unlike Job, he names him in a blessing rather than in a complaint. See [[Suffering]].
+
+### The law
 
 **The word is family law, not courtroom law.** A *gōʾēl* — the participle of *gāʾal*, to redeem or
 reclaim — is the nearest able kinsman of a man in trouble, and Israelite law lays four duties on

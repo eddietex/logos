@@ -913,6 +913,16 @@ arrive.
   12:3 are all his, restated to his grandson. **And the site is his**: he pitched between Bethel and
   Ai and built an altar there at 12:8, came back to it at 13:3–4, and **Genesis never says whether
   Jacob knew**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:4, 15–16; **absent, dead for nearly two centuries,
+  and named twice in one sentence — both times paired with [[Isaac]], and both times as a qualification
+  of somebody else.** *"The God before whom my fathers Abraham and Isaac walked"* **assigns him
+  *hithallēk*, the verb of [[Enoch (son of Jared)]] and [[Noah]] and the command he was given at 17:1**,
+  *"Walk before me, and be blameless"* — **the one other verse in Scripture where that verb and *El
+  Shaddai* stand together, and Genesis 48:3 supplies the name.** Then *"let my name be named on them,
+  and the name of my fathers Abraham and Isaac"* (48:16) **writes two boys born in [[Egypt]] to a priest
+  of [[On]]'s daughter into his line by declaration.** **And the promise Jacob recites at 48:4 borrows
+  his covenant's phrase** — ***ʾăḥuzzat ʿôlām***, *an everlasting possession* (17:8) — **which 35:11–12,
+  the speech he is quoting, does not contain.** See [[Adoption]] and [[Walking with God]]
 
 ## Related people
 

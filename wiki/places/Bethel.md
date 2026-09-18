@@ -80,6 +80,14 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   **the only place-name title God takes anywhere in Scripture.** Six years and four hundred miles
   from the hillside, the vow of 28:20–22 is quoted back to the man who swore it, by the one it was
   sworn to, as the ground of the command to go home
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3–4; **not visited, quoted from, and called *Luz*
+  by the man who renamed it.** *"God Almighty appeared to me at **Luz** in the land of [[Canaan]], and
+  blessed me"* — **so the last mention of the place in Genesis uses the Canaanite name he replaced at
+  28:19**, exactly as the narrator did at 35:6. **What he quotes is 35:11–12, the second and greater
+  theophany here, and he quotes it inexactly**: the imperative *be fruitful* becomes the promise *I will
+  make you fruitful*, the kings are dropped, and *"for an everlasting possession"* is imported from
+  [[Abraham]]'s covenant (17:8). **The hillside's promise is what gets handed to [[Ephraim]] and
+  [[Manasseh]]**, and it reaches them as a dying man's recollection
 
 ## Related places
 

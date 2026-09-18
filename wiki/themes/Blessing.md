@@ -308,7 +308,14 @@ costly.
   famine relief blesses the most powerful man on earth and the book states it as a matter of
   protocol** — **12:3 operating in plain sight**, and the exact reversal of 14:19, where a king blessed
   a patriarch. See [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3, 9, 15–16, 20; ***bārak*** **six times in
+  twenty-two verses, in four different senses.** **God blessed Jacob at Luz** (48:3); **Jacob intends to bless the boys** (48:9);
+  **he *"blessed [[Joseph]]"* by praying over his sons and says nothing over Joseph at all** (48:15);
+  **and 48:20 turns two names into a standing liturgy**: *"In you will Israel bless, saying, 'God make you
+  as Ephraim and as Manasseh.'"* **This is also the first blessing in Scripture given by a hand laid on a
+  head** (48:14) — **Genesis 27 uses a kiss** — **and the only one anyone tries to physically move while
+  it is happening** (48:17). See [[Hands on the Head - The First Blessing by Touch]] and
+  [[God Make You as Ephraim and as Manasseh - The Blessing Formula]]
 ## Related themes
 
 - [[Famine and Plenty]] — fruitfulness as a gift, and the years it is withheld

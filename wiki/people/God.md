@@ -1498,6 +1498,23 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   you a great nation*, *I will go down with you… I will also surely bring you up again*, and *Joseph
   will close your eyes*. **After 46:4 the narratorial silence that began at 39:23 resumes and is never
   broken again in Genesis**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3–4, 9, 11, 15–16, 20–21; **named seven times in
+  twenty-two verses, entirely in other people's mouths, and given four designations in four verses.** **He
+  does not speak**: the silence resumed at 46:5 holds, **so everything said about him here is [[Jacob]]'s
+  or [[Joseph]]'s testimony.** *"**God Almighty** appeared to me at Luz"* (48:3) **is the fourth of five
+  *El Shaddai*s in Genesis and the only one spoken by a human being** rather than announced by God
+  himself — **and the promise Jacob attributes to him is not quite the promise 35:11–12 records**: a
+  command becomes a guarantee, the kings are dropped, and *"for an everlasting possession"* is imported
+  from [[Abraham]]'s covenant (17:8). **Then the three titles of 48:15–16, all participles, none of them a
+  standing formula**: *"the God before whom my fathers Abraham and Isaac walked"* — **the verb of
+  [[Enoch (son of Jared)]], [[Noah]], and the command at 17:1, claimed for his fathers and not for
+  himself** — *"the God who has fed me all my life long to this day"*, ***hārōʿeh ʾōtî***, **the first
+  time in Scripture that God shepherds anyone** — and *"the angel who has redeemed me from all evil"*,
+  ***haggōʾēl***, **the first *gāʾal* in the Bible.** **All three govern one singular imperative**,
+  *bless*. **[[Joseph]] names him twice, both times as the giver of children** (48:9, 11), **and 48:21
+  hands on 46:4 in the second person**: *"God will be with you, and bring you again to the land of your
+  fathers."* See [[The Names of God]], [[Providence]] and
+  [[The God Who Has Fed Me - The First Time God Is a Shepherd]]
 
 ## Related people
 

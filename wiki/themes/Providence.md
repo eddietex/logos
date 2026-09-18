@@ -180,7 +180,14 @@ human one innocent.** *"You meant evil"* stands. See
   servitude** (47:19, 25). **Genesis records the verdict and neither endorses nor withdraws it**, and
   offers no adverb at all for the transaction that earned it. See
   [[God Sent Me Before You - The Verb That Replaces the Sale]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:15–16; ***"the God who has fed me all my life long to this
+  day"*** — ***hārōʿeh ʾōtî***, **the first time in Scripture that God shepherds anyone**, and **the whole
+  of Genesis 25–48 summarised in nine words by the man who lived them.** **The clause makes no
+  exceptions**: it covers the twenty years at [[Laban]]'s, the limp, [[Dinah]], the bloodied coat and the
+  famine. **And it sits eleven verses after *"few and evil have been the days of the years of my life"***
+  (47:9) **and immediately before *"redeemed me from all evil"*** (48:16). **Three verdicts on one life,
+  two of them contradictory, and Genesis harmonises none of them.** See
+  [[The God Who Has Fed Me - The First Time God Is a Shepherd]]
 ## Related themes
 
 - [[Call and Election]] — what providence is in service of

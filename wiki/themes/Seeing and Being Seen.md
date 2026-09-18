@@ -223,7 +223,15 @@ will finally go both ways.
   seen your face, that you are still alive"*** (46:30): **[[Jacob]] disbelieved the report at 45:26,
   was persuaded by the wagons at 45:27, and is released by the face here.** **Testimony is the one
   stage that failed.** See [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:8–11; **a blind man's chapter, and the three verses
+  contradict each other on purpose.** *"**Israel saw** Joseph's sons, and said, 'Who are these?'"* (48:8);
+  *"the eyes of Israel were dim for age, **so that he couldn't see**"* (48:10); **and between them**
+  *"**God has let me see** your offspring also"* (48:11). **The question is not ignorance** — he has named
+  both boys in 48:5 — **it is the formal identification of the parties**, which is why [[Joseph]] answers
+  with a legal sentence rather than with names. ***"Who are these?"*** **is [[Esau]]'s question to Jacob
+  about his children at 33:5**, answered then with the same theology from the other side of the family.
+  **And what the eyes cannot do the hands do** — *"guiding his hands knowingly"* (48:14). See
+  [[Two Blind Fathers - Genesis 27 and Genesis 48]]
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and

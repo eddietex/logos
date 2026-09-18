@@ -301,7 +301,13 @@ where that starts, in a sentence about a family that got halfway.
   refusing to be buried on it**: *"Please don't bury me in Egypt … bury me in their burying place"*
   (47:29–30). **The only land this family has ever owned in [[Canaan]] is a tomb, and it is the land
   that gets the oath.** See [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:4, 21–22; **three claims on ground, from a man dying in
+  [[Egypt]].** God gave the land *"for an everlasting possession"* (48:4); God will *"bring you again"* to
+  it (48:21); **and *"I have given to you one portion above your brothers, which I took out of the hand of
+  the Amorite with my sword and with my bow"*** (48:22) — **the only conquest [[Jacob]] ever claims, for
+  ground the narrator says he bought** (33:19). **Meanwhile the land appears in the pericope only as a
+  theophany and a grave** (48:3, 7). See
+  [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]]
 ## Related themes
 
 - [[Famine and Plenty]] — the commonest reason anyone in Genesis leaves anywhere

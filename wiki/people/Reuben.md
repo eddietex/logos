@@ -131,6 +131,8 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   Genesis 42:37
 - Not named at all in the chapter where [[Judah]]'s surety succeeds; seated first at Joseph's table
   *"according to his birthright"* — Genesis 43:33, [[The Second Journey]]
+- Named, with [[Simeon]], as the measure of the rank [[Jacob]] confers on [[Ephraim]] and [[Manasseh]] —
+  Genesis 48:5, [[Jacob Blesses Ephraim and Manasseh]]
 - Disinherited from the birthright at Jacob's deathbed — Genesis 49:3–4; 1 Chronicles 5:1–2 *(not yet
   ingested)*
 
@@ -184,6 +186,16 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   and for the last time straight.** 49:3–4 will keep the word and remove the thing. **His four sons are
   Hanoch, Pallu, Hezron and Carmi**, and his Hezron is not [[Hezron (son of Perez)]]; **two men of that
   name enter Egypt in the same paragraph.** [[Judah]], not he, is sent ahead to find the way (46:28)
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5; **named once, as a unit of measurement.**
+  *"Ephraim and Manasseh, even as **Reuben and Simeon**, will be mine"* — **so the rank conferred on two
+  Egyptian-born grandsons is first and second, and it is defined by reference to him.** **He is not
+  present, not addressed, and given no reason**; **one chapter later the position itself is taken off
+  him**: *"you shall not excel; because you went up to your father's bed"* (49:4). **1 Chronicles 5:1–2
+  reads the two chapters together and states the transfer outright** — *"because he defiled his father's
+  couch, his birthright was given to the sons of Joseph"* — **which is the only verse in Scripture that
+  says what Genesis 48:5 was.** **Genesis itself gives no motive.** See
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and
+  [[Lying with the Father's Concubine - A Claim on the Succession]]
 
 ## Related people
 

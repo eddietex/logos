@@ -63,6 +63,8 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   [[The Brothers' First Journey to Egypt]]
 - Released in four words by [[Joseph's Steward]], with nothing said to him or about him — Genesis
   43:23, [[The Second Journey]]
+- Named, with [[Reuben]], as the measure of the rank [[Jacob]] confers on [[Ephraim]] and [[Manasseh]] —
+  Genesis 48:5, [[Jacob Blesses Ephraim and Manasseh]]
 - Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
   ingested)*
 
@@ -111,6 +113,14 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   ethnic annotation** — **[[Shaul (son of Simeon)]], *"the son of a Canaanite woman."*** **No other man
   in seventy names is given one**, though [[Judah]]'s five sons are Canaanite-born too and the register
   passes over it. **The clause is reproduced word for word at Exodus 6:15**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:5; **named once, and only as a benchmark**:
+  *"Ephraim and Manasseh, even as Reuben and **Simeon**, will be mine."* **Being the second son, he
+  supplies the second rank** — **and one chapter later [[Jacob]] takes it from him for [[Shechem (city)]]**:
+  *"cursed be their anger … I will divide them in Jacob, and scatter them in Israel"* (49:7). **He is
+  absent, unaddressed, and unexplained in both verses**, and the sequence is the strongest internal reason
+  to read Genesis 48 and 49 as one deathbed. See
+  [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and
+  [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Related people
 

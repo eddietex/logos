@@ -128,7 +128,14 @@ assumption is that a body left out is a person left out.**
   **is the idiom's first appearance in the Bible**, and it becomes the standing formula for a king's
   death through Kings and Chronicles. **[[Jacob]] is the only one of [[Machpelah]]'s six occupants
   who has to secure the place first, because he is the only one dying outside the land**
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:7; ***"Rachel died by me in the land of Canaan on the
+  way … and I buried her there on the way to Ephrath."*** **The one thing [[Jacob]] says about [[Rachel]]
+  in the whole pericope is where she is lying**, and it is the only time he speaks of that burial himself.
+  ***By me*** **is *ʿālay*, *to my cost*.** **Set between his oath about [[Machpelah]]** (47:29–30) **and
+  his instruction about it** (49:29–32), **it names the one grave in the family he does not ask to share**:
+  **[[Leah]] is in the cave and she is not** (49:31). **The wiki reads the verse as the premise of the
+  adoption it interrupts** — two sons against Leah's six — **and marks that as a reading.** See
+  [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into
   the ground in twenty-nine verses, more than any other chapter in the book.** The household's foreign

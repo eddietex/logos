@@ -271,7 +271,15 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   population the book has put on the page since chapter 10** — **on it in order to be bought.**
   **The one Egyptian group Genesis distinguishes is the priesthood**, exempted at 47:22, **and the
   one Egyptian it has named is [[Potiphera]], whose daughter is the mother of two tribes of Israel**
-
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:4, 5, 19; **two of Israel's twelve tribes are
+  constituted out of foreigners, by declaration.** *"Your two sons, who were born to you **in the land of Egypt** … are
+  mine"* (48:5) — **their mother is [[Asenath]], daughter of a priest of [[On]]** (41:45) — **and the
+  household that would not marry Canaanite women adopts her children without mentioning her.**
+  ***Məlōʾ haggôyim***, *a multitude of nations* (48:19), **occurs only here in the Hebrew Bible and is
+  promised to the younger of the two**; **Romans 11:25's *"fullness of the Gentiles"* is the same two
+  words in Greek, and the wiki records the echo without claiming a citation.** *"A company of peoples"*
+  (48:4) is the promise to Jacob himself. See [[Adoption]] and
+  [[Not from the Daughters of the Canaanites]]
 ## Related themes
 
 - [[Blessing]] — the command of 9:1 that 10:32 reports fulfilled, and the promise of 12:3 that the

@@ -102,6 +102,12 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   Torah** (*Jegar Sahadutha*, 31:47); its household gods are carried off and never given back; and
   the chapter ends with a border neither side may cross. **After 31:55 nobody in the covenant line
   goes back to Paddan Aram**, and the branch that stayed becomes, from here on, a foreign people
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:7; **its last mention in Genesis, and the only time
+  the name is shortened.** *"As for me, when I came from **Paddan**, [[Rachel]] died by me in the land of
+  [[Canaan]] on the way"* — **everywhere else the book writes *Paddan Aram* in full** (25:20; 28:2, 5–7;
+  31:18; 33:18; 35:9, 26; 46:15), **and here, in direct speech, a dying man clips it.** **The region
+  enters the pericope only as the thing he was travelling home from when his wife died**, which is what
+  the verse is in the chapter to establish
 
 ## Related places
 

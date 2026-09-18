@@ -74,6 +74,13 @@ long established.** It is still shown there.
   *Ephrath***, in the verse that buries [[Rachel]] on the road outside it and raises the last of
   [[Jacob]]'s four pillars over her. **The one matriarch not carried to [[Machpelah]]** is left here,
   and the narrator adds *"to this day"*
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:7; **named the same way a second time, thirteen
+  chapters later, in [[Jacob]]'s own voice** — *"on the way to Ephrath (also called Bethlehem)"* —
+  **with *Ephrath* twice and the later name supplied in a parenthesis for the reader, exactly as at
+  35:19.** **It is the only thing he says about [[Rachel]] in the chapter that adopts her two
+  grandsons**, and the wiki reads the verse as the premise of that adoption rather than as a digression.
+  **The man speaking has, four verses earlier, put [[Joseph]] under oath to bury him at [[Machpelah]]**
+  (47:29–30), **where [[Leah]] is and she is not**
 
 ## Related places
 
@@ -90,8 +97,8 @@ long established.** It is still shown there.
 
 - Rachel dies on the road to Ephrath bearing [[Benjamin]], and is buried with a pillar over the grave
   — Genesis 35:16–20, [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Jacob retells the burial to Joseph, using the same obscure distance-word — Genesis 48:7 *(not yet
-  ingested)*
+- Jacob retells the burial to Joseph, using the same obscure distance-word — Genesis 48:7,
+  [[Jacob Blesses Ephraim and Manasseh]]
 - Naomi's family leaves in a famine; Ruth returns; the elders bless Boaz's bride at the gate —
   Ruth 1:1–2; 4:11
 - Samuel anoints David at Jesse's house — 1 Samuel 16:1–13

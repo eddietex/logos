@@ -190,6 +190,13 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   paying tribute to Egypt, and it is a grain bill**; and at 47:30 it is *"their burying place"*,
   the thing [[Jacob]] extracts a sworn promise about. **The land of the promise appears in this
   pericope as a famine zone, a revenue source and a graveyard, and in no other capacity**
+- [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:3, 7; **twice, and both times at a distance of
+  decades.** It is where *"God Almighty appeared to me at Luz **in the land of Canaan**"* (48:3) and where
+  *"[[Rachel]] died by me **in the land of Canaan** on the way"* (48:7). **In the whole pericope the land
+  of the promise is a memory of a theophany and a memory of a grave, and nothing else.** **The land itself
+  is present only as a thing promised** — *"will give this land to your offspring after you for an
+  everlasting possession"* (48:4) — **and as a thing to be returned to**: *"God will be with you, and
+  bring you again to the land of your fathers"* (48:21). **Nobody in the chapter is in it**
 
 ## Related places
 
