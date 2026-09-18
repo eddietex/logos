@@ -13,7 +13,7 @@ tags: [connection]
   [[The Brothers' First Journey to Egypt]]
 - Genesis 44:16 — [[The Silver Cup and Judah's Plea]]; *"God has found out the iniquity of your
   servants"*
-- Genesis 50:15–17 — the brothers' third and final reckoning *(not yet ingested)*
+- Genesis 50:15–17 — the brothers' third and final reckoning — [[The Deaths of Jacob and Joseph]]
 
 - [[Joseph Reveals Himself]] — **Genesis 45:3–15, 26**: **the third confession is the one that does
   not happen.** 42:21 was private and in Hebrew; 44:16 was public and about the wrong crime; **here

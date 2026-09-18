@@ -66,7 +66,8 @@ assumption is that a body left out is a person left out.**
   matriarch not at Machpelah; Jacob is still explaining it at 48:7. *(not yet ingested)*
 - **Genesis 47:29–31; 49:29–32; 50:1–14** — Jacob embalmed in Egypt, mourned seventy days, and
   carried back to Hebron with chariots and horsemen: **the largest procession in Genesis, mounted to
-  execute a deed made three generations earlier.** *(not yet ingested)*
+  execute a deed made three generations earlier** — [[Joseph and the Famine]],
+  [[Jacob Blesses His Sons]], [[The Deaths of Jacob and Joseph]]
 - **Genesis 50:24–26; Exodus 13:19; Joshua 24:32** — Joseph's bones: an oath at the end of Genesis,
   kept at the exodus, discharged at Shechem after the conquest.
 - **Deuteronomy 34:5–6** — Moses buried by God in a valley in Moab, *"but no man knows where his tomb
@@ -103,7 +104,7 @@ assumption is that a body left out is a person left out.**
   in nine verses, to a patriarch and to the son who was sent into a desert
 - [[Gathered to His People]] — the formula's six uses, and why it is not a synonym for being buried
 - Genesis 50:24–26; Exodus 13:19; Joshua 24:32 — Joseph's bones, and an oath kept across four
-  centuries *(not yet ingested)*
+  centuries — [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 - Deuteronomy 34:5–6 — the unlocated grave of Moses
 - Jeremiah 22:19; 2 Kings 9:34–37 — the curse of the unburied
 - Ezekiel 37:12–13 — the graves opened
@@ -144,6 +145,12 @@ assumption is that a body left out is a person left out.**
   Genesis says where [[Isaac]] was laid.** **The wife Jacob loved is not in the list**; he accounted
   for that one chapter earlier (48:7) and does not mention it here. **This is the second time in three
   chapters he has asked** (47:29–31), **which is the measure of how far he trusts Egypt to do it**
+- **Genesis 50:1–14 — the book's largest funeral**: an Egyptian embalming, seventy days of national
+  mourning, a state cortege, seven days at [[Abel Mizraim]], and the sixth body in [[Machpelah]] —
+  [[The Deaths of Jacob and Joseph]]
+- **Genesis 50:26 — the one grave Genesis leaves open**: Joseph embalmed and *"put in a coffin in
+  Egypt"*, unburied for four hundred years by his own request — same pericope, and
+  [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

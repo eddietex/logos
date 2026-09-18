@@ -86,6 +86,11 @@ Hittites.
   cites the seller by name and nationality, the field, the cave, the buyer and the purpose** — **a
   title deed read out from a bed in Egypt, thirty-eight chapters after the sale.** **The man who once
   asked four hundred shekels as though it were nothing is now simply the provenance of a grave**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:13; **named a fifth and final time**, in the burial
+  of [[Jacob]], because the title to the cave still runs in his name twenty-seven chapters after he
+  sold it. **The deed of 23:17–20 is quoted almost word for word** — *"which Abraham bought with the
+  field, as a possession for a burial site, from Ephron the Hittite, near [[Mamre (place)]]"* —
+  **the last legal sentence in Genesis**
 
 ## Related people
 

@@ -98,7 +98,7 @@ name, and gives the name to a father who cannot see it work.**
 - **Genesis 33:4** — [[The Reconciliation with Esau]]; **the mercy Genesis shows without naming**
 - **Genesis 19:16** — [[The Destruction of Sodom and Gomorrah]]; *"Yahweh being merciful to him"*
 - **Genesis 21:17** — [[The Birth of Isaac and the Sending of Hagar]]
-- **Genesis 50:19–21** *(not yet ingested)* — the cycle's answer
+- **Genesis 50:19–21**, [[The Deaths of Jacob and Joseph]] — the cycle's answer
 - **Exodus 34:6; Psalm 103:13; Isaiah 49:15; Luke 15:20**
 
 - [[Joseph Reveals Himself]] — Genesis 45:1, 5, 9–11; **the mercy in this chapter is structural rather
@@ -109,6 +109,8 @@ name, and gives the name to a father who cannot see it work.**
   not believe it, provisions for the road, and ***"there I will nourish you"*** (45:11). **Nobody in
   the chapter names any of it as mercy**, and the word [[Jacob]] prayed for at 43:14 — ***raḥămîm*** —
   does not appear
+- **Genesis 50:21 — *wayḏabbēr ʿal-libbām*, *he spoke upon their heart***; the idiom's only previous
+  use in Genesis is [[Shechem (son of Hamor)]]'s at 34:3 — [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 
@@ -123,6 +125,7 @@ name, and gives the name to a father who cannot see it work.**
 - [[Strife and Peacemaking]] — [[Esau]] at 33:4, and the steward's *šālôm lākem* at 43:23
 - **Forgiveness has no page of its own yet and does not need one**: Genesis's only explicit
   forgiveness is 50:17–21, and until that pericope is ingested the material belongs here
+- [[Forgiveness]] — the word Genesis withholds until its last chapter
 
 ## Related people
 

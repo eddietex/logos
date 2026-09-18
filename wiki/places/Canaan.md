@@ -203,6 +203,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   sons who own none of it** — [[Zebulun]]'s haven, [[Issachar]]'s pleasant land, [[Asher]]'s rich food,
   [[Joseph]]'s ancient hills — **and the only square foot of it the family actually holds is the one
   the dying man asks to be carried to.** **Nobody in the chapter is in the land**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:5, 13; **entered once in the chapter and only to dig
+  a grave.** [[Jacob]]'s sons carry him *"into the land of Canaan"* to [[Machpelah]] and then
+  everybody goes back to Egypt in the next verse. **[[Joseph]]'s last words name it as *"the land which
+  he swore to Abraham, to Isaac, and to Jacob"*** (50:24) — **Genesis closes with the promise recited in
+  full and nobody standing in it**
 
 ## Related places
 

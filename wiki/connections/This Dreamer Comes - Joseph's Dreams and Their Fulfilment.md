@@ -28,8 +28,9 @@ tags: [connection]
   the image the whole cycle turns on is reported as household manners.** The second dream's sun and moon
   remain outstanding and now cannot be met as 37:9 describes them: [[Jacob]] is in Canaan and
   [[Rachel]] has been dead since 35:19
-- **Genesis 44:14** — [[The Silver Cup and Judah's Plea]]; **50:18** — the fourth and fifth
-  bowings.
+- **Genesis 44:14** — [[The Silver Cup and Judah's Plea]]; **50:18**,
+  [[The Deaths of Jacob and Joseph]] — the fourth and fifth bowings, **and the fifth is the only one
+  where all eleven are present and say the word *servants* out loud.**
 - **Genesis 47:31** — *"Israel bowed himself on the bed's head"* — the father's one bow, and it is not to
   his son.
 - [[The Cupbearer and the Baker]] — **Genesis 40:5, 8, 12, 18**: the cycle's second pair of dreams, the

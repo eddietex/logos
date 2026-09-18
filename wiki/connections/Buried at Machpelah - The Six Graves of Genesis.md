@@ -15,7 +15,9 @@ tags: [connection]
 - **Genesis 47:29–31** — **the request, made under oath to Joseph seventeen years earlier**:
   *"Please don't bury me in Egypt … bury me in their burying place"* — [[Joseph and the Famine]]
 - **Genesis 49:29–32** — Jacob's burial instructions, which recite the deed and name the occupants
-- **Genesis 50:12–14** — Jacob carried up from Egypt and buried in the field
+- **Genesis 50:12–14** — Jacob carried up from Egypt and buried in the field, **the sixth and last**;
+  the deed is recited a fifth time and *"his sons carried him"* twice in two verses —
+  [[The Deaths of Jacob and Joseph]]
 - Genesis 35:19–20 — Rachel buried on the way to Ephrath, with a pillar and no purchase; **the one
   matriarch who never arrives here**, and the one whose grave later Scripture disputes the location
   of. See [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]

@@ -13,7 +13,9 @@ tags: [connection]
   before you to preserve life… **God sent me** before you to preserve for you a remnant… **it wasn't
   you who sent me here, but God**"* — [[Joseph Reveals Himself]]
 - **Genesis 50:19–20** — *"You meant evil against me, but God meant it for good"* — ***ḥāšab*** twice
-  *(not yet ingested)*
+  — [[The Deaths of Jacob and Joseph]] and
+  [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]]. **The second answer keeps the
+  brothers' verb where this one drops it**
 - **Psalm 105:17** — *"He **sent** a man before them; Joseph was **sold** for a servant"* — **both
   verbs in one verse, in that order**
 - **Acts 7:9–10** — *"The patriarchs, moved with jealousy against Joseph, sold him into Egypt. God was

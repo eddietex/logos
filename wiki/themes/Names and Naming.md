@@ -204,6 +204,9 @@ five times**, and each is a covenant hinge.
   [[Leah]] praised *Yahweh* at Judah's birth; Jacob redirects the praising to the man. **Gad's line is
   the densest wordplay in the Bible**, four of five words from one set of consonants. **The chapter
   also coins four names for God** (49:24–25), **three of them the Bible's first**
+- **Genesis 50:11 — the only place name in Genesis given by Canaanites**, and they give it for a
+  misreading: *[[Abel Mizraim]]*, *mourning of Egypt*, on a pun with *ʾābēl*, *meadow* —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

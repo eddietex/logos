@@ -148,7 +148,8 @@ human one innocent.** *"You meant evil"* stands. See
 - **Genesis 42:28, 36 — providence misread from both sides** —
   [[The Brothers' First Journey to Egypt]]
 - **Genesis 45:5–8 — the doctrine stated aloud, three times, by a character and not the narrator** —
-  [[Joseph Reveals Himself]]; 50:19–20 is the harder restatement *(not yet ingested)*
+  [[Joseph Reveals Himself]]; 50:19–20 is the harder restatement, in
+  [[The Deaths of Jacob and Joseph]]
 - Ruth 2:3; Esther 4:14 — the method without the vocabulary
 - Psalm 105:16–22; Acts 7:9–10; Romans 8:28
 - [[The Second Journey]] — Genesis 43:14, 23, 30; **the chapter's method is to answer a prayer and not
@@ -188,6 +189,11 @@ human one innocent.** *"You meant evil"* stands. See
   (47:9) **and immediately before *"redeemed me from all evil"*** (48:16). **Three verdicts on one life,
   two of them contradictory, and Genesis harmonises none of them.** See
   [[The God Who Has Fed Me - The First Time God Is a Shepherd]]
+- **Genesis 50:20 — the book's summary sentence**: *"you meant evil against me, but God meant it for
+  good"*, ***ḥāšab*** **in both clauses — one act, two intentions, neither cancelled** —
+  [[The Deaths of Jacob and Joseph]] and
+  [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]]
+
 ## Related themes
 
 - [[Call and Election]] — what providence is in service of

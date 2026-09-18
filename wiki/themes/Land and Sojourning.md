@@ -315,6 +315,9 @@ where that starts, in a sentence about a family that got halfway.
   chapter names the only ground the family actually holds** — the cave and field at [[Machpelah]],
   bought and paid for (49:30) — **and the only use it is put to is burial.** **Twelve tribal
   territories assigned in twenty-five verses, and the one deed anyone can produce is for a grave**
+- **Genesis 50:13, 24 — the promise recited in full with nobody standing in it**: the land is entered
+  once in the book's last chapter and only to dig a grave, and the family leaves it in the next verse
+  — [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

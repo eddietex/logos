@@ -5,7 +5,7 @@ genre: Narrative / Law (Torah)
 author: Traditionally Moses; composite sources in critical scholarship
 canonical_order: 1
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Genesis
 
@@ -629,14 +629,38 @@ every item of whose evidence is mercy, **which the book does not correct for fiv
   sentence of forced labour.** **The chapter closes on a grave**: four verses reciting the deed to
   [[Machpelah]] and naming five people in it, **[[Leah]] among them, in the only report of her burial
   anywhere in the Bible** — and then *"he gathered up his feet into the bed, and yielded up the
-  spirit."* **A book that opened on the whole earth ends by describing one field, bought and paid
-  for.**
+  spirit."* **A book that opened on the whole earth has narrowed to one field, bought and paid for.**
+
+  **[[The Deaths of Jacob and Joseph]] closes the book, and it closes it twice.** **The first
+  fourteen verses get a body out of Egypt** — embalming, seventy days of Egyptian mourning, a vizier
+  petitioning a king through courtiers for leave, a state cortege with chariots, seven days of
+  lamentation at a threshing floor *beyond the Jordan* that the Canaanites rename
+  ***[[Abel Mizraim]]***, *mourning of Egypt*, **for the funeral they misread** — and then *"his sons
+  carried him into the land of Canaan"* to Machpelah, **the only thing the twelve ever do together
+  and get right**, followed immediately by *"Joseph returned into Egypt."* **The land is entered once
+  in this chapter and only to dig a grave.** **The middle section is the book's summing-up.** The
+  brothers wait until their father is dead to ask whether they are forgiven, send a message rather
+  than come, and quote a command from Jacob **that Genesis never records him giving**; [[Joseph]]
+  weeps for the seventh and last time; they fall down and say *"we are your servants"*, **completing
+  the dream of 37:7 in the one form he will not accept**; and he answers with the two sentences the
+  rest of Scripture builds on — ***"Am I in the place of God?"***, his father's idiom from 30:2
+  turned from a refusal of help into a refusal of judgement, and ***"you meant evil against me, but
+  God meant it for good"***, **one verb, *ḥāšab*, used twice for two intentions attached to the same
+  act.** **The last section is a death**: a hundred and ten years, the Egyptian ideal lifespan;
+  [[Ephraim]]'s children to the third generation and [[Machir]]'s born on Joseph's knees, **the
+  adoption idiom's second and last use in the book**; ***pāqōd yipqōd*** — *God will surely visit
+  you* — **said twice by the one patriarch God never speaks to**; an oath about bones that Exodus
+  13:19 and Joshua 24:32 take four hundred years to keep; and a coffin. **The book's last three words
+  in Hebrew are *in a coffin in Egypt*.**
 
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
+
+**All fifty-nine are ingested. Genesis is complete**, from [[The Creation of the World]] to
+[[The Deaths of Jacob and Joseph]].
 
 ### Primeval history (1–11)
 
@@ -707,7 +731,7 @@ merge, or reorder them freely.
 - [x] [[Joseph and the Famine]] — Genesis 47:13–31
 - [x] [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:1–22
 - [x] [[Jacob Blesses His Sons]] — Genesis 49:1–33
-- [ ] The Deaths of Jacob and Joseph — Genesis 50:1–26
+- [x] [[The Deaths of Jacob and Joseph]] — Genesis 50:1–26
 
 ## Key themes
 

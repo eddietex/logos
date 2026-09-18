@@ -98,6 +98,9 @@ Testament out of it**, since Genesis 48 is a single case and the Torah legislate
   borne**
 - [[The Covenant Between the Pieces]] — Genesis 15:2–4. **[[Eliezer of Damascus]] as heir, and God's
   refusal of the arrangement**
+- **Genesis 50:23 — the idiom's second and last use in Genesis**: [[Machir]]'s children *"born on
+  Joseph's knees"*, the phrase [[Rachel]] used of [[Bilhah]] at 30:3 —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

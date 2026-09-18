@@ -137,7 +137,8 @@ the land.
   one of which (Seir) Jacob had said he would come to and Genesis never shows him reaching. The
   chapter's peace is real and also partial: real enough to end the danger, partial enough that the
   two men do not end up living near each other
-- Genesis 50:15–21 — Joseph and his brothers *(not yet ingested)*
+- Genesis 50:15–21 — Joseph and his brothers, and the book's last quarrel settled —
+  [[The Deaths of Jacob and Joseph]]
 - Proverbs 15:1; 17:14; 20:3 — the Wisdom formulation
 - Matthew 5:9; Romans 12:18; 1 Corinthians 6:7; Philippians 2:3–4 — the New Testament's
 

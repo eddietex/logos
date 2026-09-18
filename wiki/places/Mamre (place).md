@@ -55,6 +55,10 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
   Canaan."* **The grove where [[Abraham]] pitched his tent, argued with God over Sodom and entertained
   three visitors is now, in Genesis's last use of the name but one, purely a surveyor's fix** — **the
   same phrase as 23:17, 23:19 and 25:9, recited from a deathbed in [[Egypt]]**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:13; **named in the deed one last time** — *"the cave
+  of the field of Machpelah … near Mamre"* — **the locating clause carried over verbatim from 23:17,
+  twenty-seven chapters and four burials later.** **Its final function in Genesis is as a survey
+  landmark**
 
 ## Related places
 

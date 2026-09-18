@@ -111,6 +111,10 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
   entirely done to him**, and Genesis states the precedence three times so the reader cannot take it for
   an accident. See
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and [[Adoption]]
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:23; *"Joseph saw Ephraim's children to the third
+  generation"* — **the mark of a completed life** (compare Job 42:16; Psalm 128:6), **and the last
+  thing Genesis records about him.** The verse counts his descendants and then names
+  [[Manasseh]]'s grandson instead
 
 ## Related people
 

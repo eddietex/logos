@@ -8359,3 +8359,168 @@ exist yet, and it is the last one in the book.
 
 Genesis stands at 58 / 59 pericopes; the next and last is *The Deaths of Jacob and Joseph*,
 Genesis 50:1–26.
+
+## [2026-09-18] ingest | Genesis 50.1-26 — The Deaths of Jacob and Joseph
+
+Unattended run (`/ingest auto`). **The last pericope of Genesis.** The book page had it queued as
+Genesis 50:1–26 and the boundary was kept: 49:33 closes on Jacob's death, 50:1 opens on Joseph's
+reaction to it, and nothing after 50:26 exists to run into. **Splitting the chapter into its three
+scenes — burial, forgiveness, death — was considered and refused**, because it would separate 50:20
+from the fear that provokes it and from the death that follows it. **Boundary unchanged. Genesis is
+complete at 59 / 59.**
+
+### The passage page
+
+[[The Deaths of Jacob and Joseph]], `wiki/passages/Genesis/`, built around nine findings.
+
+**1. The chapter's organising verb is *ʿālâ*, *to go up*, seven times in twenty-six verses.** Five
+are about moving a corpse (50:5, 6, 7, 9, 14) and two are about moving a nation (50:24, 25), and
+nothing in between explains how one becomes the other. **The chapter is the exodus with the ending
+reversed** — *"Joseph returned into Egypt"* (50:14).
+
+**2. Joseph quotes his father saying something Genesis never records.** At 47:30 and 49:29–32 Jacob
+asked to be laid *"with my fathers"* in the cave *"which Abraham bought"*; at 50:5 Joseph reports him
+as saying *"my grave which I have dug for myself."* ***Kārîtî*** **is ordinarily *I dug*, and in a
+second attested sense — Hosea 3:2 — *I acquired by purchase*, which would harmonise it.** A third
+reading makes the difference Joseph's diplomacy: a private grave is a family matter, a purchased
+holding in Canaan is a land claim, and a vizier asking a foreign king for leave has reason to prefer
+the first. **The page sets out all three and adopts none.**
+
+**3. *"Only their little ones, their flocks, and their herds, they left in the land of Goshen"*
+(50:8) is the arrangement Moses refuses at Exodus 10:8–11 and 10:24.** Same three nouns, *ṭappēnû*,
+*ṣōʾn*, *bāqār*; here Israel proposes it and comes back, there Pharaoh proposes it and Moses will not
+leave a deposit. Filed as
+[[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]], **which states
+explicitly that the hostage reading is Exodus 10 read back into Genesis and that Genesis itself
+passes no comment.**
+
+**4. *Beyond the Jordan* (50:10, 11) does not fit the journey.** No road from Egypt to Hebron crosses
+the Jordan. **Three readings are recorded and none adopted**: loose usage for the Jordan valley; an
+eastern standpoint making *beyond* the west bank; or a deliberate eastern approach on the road
+Joshua will take. The third is the most interesting and the least demonstrable, and the page says so.
+
+**5. Genesis 50:17 is the first time in the Bible one human being asks another for forgiveness.**
+***Śāʾ nāʾ pešaʿ … wəḥaṭṭāʾtām*** — **and *nāśāʾ* with those nouns is the formula Sinai will reserve
+for God at Exodus 34:7.** The brothers route the request through a command from their dead father
+that **Genesis, which has just given him two full chapters of deathbed dialogue, never records.**
+The page leaves the gap open in both directions and notes the symmetry with the bloodied coat of
+37:31–33 if the quotation is invented.
+
+**6. 50:20 is the book's summary sentence, and *ḥāšab* is the verb in both clauses.** Not *you did
+evil and God repaired it* — **one act, two concurrent intentions, neither cancelled.** The same verb
+credits righteousness at 15:6. *Ləhaḥăyōt ʿam-rāb*, *to save many people alive*, is the hiphil the
+Hebrew midwives get at Exodus 1:17–18. Filed as
+[[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]], **which also tabulates how the
+second verdict differs from the first at 45:5–8: the earlier one relieves them by relocating the act,
+the later one names it and forgives it.**
+
+**7. The dream of 37:7 completes at 50:18 in the form Joseph refuses.** All eleven prostrate, saying
+*ʿăbādîm*, *servants* — **the offer Judah made at 44:16 and was refused, made again and refused
+again.**
+
+**8. A hundred and ten is the Egyptian ideal lifespan**, and the shortest of the four patriarchs'
+(175, 180, 147, 110). **[[Machir]]'s children *"born on Joseph's knees"* is the adoption idiom's
+second and last use in Genesis**, after Rachel and Bilhah at 30:3.
+
+**9. *Ḥānaṭ*, to embalm, occurs three times in the Hebrew Bible and all three are in this chapter.**
+**There are exactly two mummies in Scripture and they are the last two men in Genesis.** And
+***ʾārôn***, the chapter's last noun, **is the word the Torah will use three hundred-odd times for the
+ark of the covenant.** The book's last three Hebrew words are *in a coffin in Egypt*.
+
+### Pages created
+
+- **Passage** — [[The Deaths of Jacob and Joseph]]
+- **Person** — [[Machir]], **the last person named in Genesis**; his clan takes Gilead in Numbers 32
+  and Joshua 17, so the final name in a book about a promised land belongs to the family that settles
+  outside it
+- **Places** — [[Abel Mizraim]] (the threshing floor of Atad, and the one Genesis place name given by
+  Canaanites, for a misreading); [[The Jordan]], **which the wiki has been referring to since Genesis
+  13 without a page**
+- **Theme** — [[Forgiveness]]. **Judgment call, recorded here for review**: the word arrives in
+  Genesis only in its last chapter, and the wiki had `Compassion and Mercy`, `Guilt and Conscience`,
+  `Vengeance` and `Retribution` but nothing for the thing 50:17–21 actually does. The page is built on
+  *nāśāʾ* and on the fact that Genesis settles every earlier wrong by marks, treaties, stones and
+  silence instead
+- **Connections** — [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]],
+  [[Carry Up My Bones - Joseph's Oath and Its Keeping]],
+  [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]],
+  [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]]
+
+### Pages revised
+
+[[Genesis]] (the Joseph section of `## Structure` extended through chapter 50; the last box checked;
+status `complete`), [[books/index|Books]] (Genesis → `complete`, 59 / 59).
+
+People: [[Joseph]] (the `### What is still ahead` section replaced by a full
+`### In this pericope — Genesis 50:1–26`, eleven timeline entries in place of two placeholders, an
+`## Appears in` entry, [[Machir]] added to related people, five themes added), [[Jacob]] (same
+treatment — `### What is still ahead` replaced by `### In this pericope — Genesis 50:1–14`),
+[[Manasseh]], [[Ephraim]], [[Pharaoh (of Joseph's time)]], [[Ephron the Hittite]], [[Abraham]],
+[[Isaac]].
+
+Places: [[Machpelah]] (the sixth grave, and its two stale event markers discharged), [[Egypt]],
+[[Canaan]], [[Goshen]], [[Mamre (place)]], [[Hebron]].
+
+Themes: [[Providence]], [[Burial and the Grave]], [[Oaths and Vows]], [[Guilt and Conscience]],
+[[Brotherhood]], [[Adoption]], [[Hope]], [[Land and Sojourning]], [[Compassion and Mercy]],
+[[Slavery and Servitude]], [[Faith]], [[Names and Naming]], [[Life and Death]], [[Covenant]],
+[[The Fear of God]], [[Curse]], [[Deception]], [[Seeing and Being Seen]], [[Vengeance]],
+[[Retribution]], [[Strife and Peacemaking]].
+
+Connections: [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]],
+[[Buried at Machpelah - The Six Graves of Genesis]], [[Gathered to His People]],
+[[Yahweh Visited Sarah - Paqad and the Visitations of God]],
+[[God Sent Me Before You - The Verb That Replaces the Sale]],
+[[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+[[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]],
+[[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]].
+
+Plus [[people/index|People]], [[places/index|Places]], [[themes/index|Themes]],
+[[connections/index|Connections]] and [[index|the top-level index]].
+
+### Stale markers discharged
+
+**Ten `*(not yet ingested)*` markers that pointed at Genesis 50 were cleared** and replaced with
+links: [[Hebron]]'s burial event, [[Guilt and Conscience]], [[Brotherhood]],
+[[Compassion and Mercy]], [[Providence]], [[Strife and Peacemaking]],
+[[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]],
+[[Pharaoh (of Joseph's time)]], [[God Sent Me Before You - The Verb That Replaces the Sale]], and two
+on [[Burial and the Grave]]. **Markers pointing at books other than Genesis were left alone** — they
+are a lint job, not this ingest's.
+
+### Link check
+
+`scripts/link-check.sh` exits 0, baseline 64. **No links were deliberately left dangling.** Moses is
+named in prose on the passage page and on [[The Jordan]] without a link, since Exodus has not been
+started and a person page for him would be built entirely out of unread books.
+
+### Findings left for the next lint
+
+- **[[The Jordan]] is linked forward but not backward.** Its `## Appears in` names
+  [[Abram and Lot Separate]] and [[Wrestling at the Jabbok]], and **neither of those passage pages
+  links to it**, because both were written before the page existed. **Retro-linking them is a lint
+  job** and is the honest cost of creating the page in this pass rather than deferring it again.
+- **Unchanged from the last entry**: the stray empty `Exodus.md` at the repository root (`53be57b`);
+  the ***"He made himself strange to them"*** fragment for 42:7; the stale marker on
+  [[The Tower of Babel]]; the seven older passage pages not retro-linked to [[Sexual Sin]]; the seven
+  plural brothers' missing [[The Second Journey]] entries; the Cyrillic *е* inside *ʾênennû* in
+  `wiki/people/Jacob.md` and `wiki/books/Genesis.md`; the stale markers on
+  [[The Cupbearer and the Baker]] and [[The Nations]]; the [[Adoption]] retro-linking;
+  [[Benjamin]]'s duplicated `### What is still ahead (continued)` heading; the possibility of stale
+  `### What is still ahead` sections on the other sons' pages; and the twelve birth-narrative pages
+  not linking forward to the Genesis 49 sayings.
+- **`wiki/themes/index.md`'s *Key passages* column is still stale for several themes**, for the fourth
+  entry running, and for the same reason: this pass appended to rows rather than rebuilding them.
+  **Rebuilding that column is overdue.**
+- **New**: [[Forgiveness]] is a theme page created at the very end of a book, so **its Genesis
+  coverage is thin by construction** — four of its six key passages are there to show the theme's
+  *absence*. It will need rewriting once Exodus 34:6–7 and Leviticus 16 are in the wiki.
+- **New**: **now that Genesis is complete, a whole-book lint is worth running before Job or Exodus
+  goes further** — orphan pages, the `### What is still ahead` sections that no longer have anything
+  ahead of them, and the accumulated `*(not yet ingested)*` markers that point at books nobody has
+  opened.
+
+**Genesis is complete: 59 / 59 pericopes, from [[The Creation of the World]] to
+[[The Deaths of Jacob and Joseph]].** The next `/ingest` resolves to [[Job]], not Exodus —
+`wiki/books/index.md` carries Job as `in-progress` at 6 / 32, and an open book outranks an earlier
+unopened one.

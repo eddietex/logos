@@ -90,6 +90,15 @@ the promise made to him at 15:15.
 The contrast is sharpest here: Genesis gives the gathering to Abraham and to the son he sent into a
 desert, and gives the nephew he rescued from four kings nothing.
 
+**[[Joseph]] does not get it either, and his is the most pointed omission in the list.** **He dies
+four verses after his father's burial, in the same chapter, and Genesis 50:26 says only *"so Joseph
+died, being one hundred ten years old, and they embalmed him, and he was put in a coffin in
+Egypt"*** — [[The Deaths of Jacob and Joseph]]. **No gathering, and no burial: he is the one
+patriarch the formula and the grave are both withheld from**, and he withheld the grave himself
+(50:25). **If the phrase means death as an arrival, the book declines to say it over the man whose
+last act was to insist he had not arrived.** See
+[[Carry Up My Bones - Joseph's Oath and Its Keeping]].
+
 ## Significance
 
 **It is the Torah's one piece of vocabulary for death as an arrival rather than an ending**, and the

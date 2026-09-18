@@ -60,8 +60,11 @@ Joseph summons his father and all his relatives, seventy-five souls — **speaki
 Greek-speaking Diaspora audience, quoting the Bible they used.**
 
 **The five extra are supplied by the Septuagint's longer version of 46:20**, which gives [[Joseph]]
-grandsons and great-grandsons in Egypt — Machir, Gilead, and the sons of Ephraim — **where the Hebrew
-gives him only [[Manasseh]] and [[Ephraim]].**
+grandsons and great-grandsons in Egypt — [[Machir]], Gilead, and the sons of Ephraim — **where the
+Hebrew gives him only [[Manasseh]] and [[Ephraim]].** **The Hebrew does name Machir, but four
+chapters later and outside any count** — at 50:23, where his children are born on Joseph's knees
+([[The Deaths of Jacob and Joseph]]) — **so the Septuagint is not inventing a person, it is moving
+one into the register.**
 
 | | Genesis 46:27 | Exodus 1:5 | Deuteronomy 10:22 | Acts 7:14 |
 |---|---|---|---|---|

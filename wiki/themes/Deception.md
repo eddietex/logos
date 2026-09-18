@@ -260,6 +260,9 @@ has become a nation.
   interpreter of 42:23 is dismissed with *"it is my mouth that speaks to you"*** (45:12). **But the lie
   of 37:32 is never retracted.** The brothers report to [[Jacob]] that Joseph is alive and a ruler
   (45:26) **and do not say how he got there**, and Genesis records no scene in which they ever do
+- **Genesis 50:5, 16–17 — two quotations of a dead man that Genesis does not corroborate**: the grave
+  Jacob *"dug for myself"*, and the command to forgive that his last two chapters never record —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

@@ -180,6 +180,11 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   (47:30): *"He said, 'Swear to me,' and he swore to him"* (47:31). **A man who bargained his whole
   life takes the promise and then takes it again under oath**, and what he buys with it is a grave in
   a country he has left. See [[Put Your Hand Under My Thigh]]
+- **Genesis 50:5–6 — an oath overrules a king's convenience**: Pharaoh grants the funeral leave
+  *"just like he made you swear"* — [[The Deaths of Jacob and Joseph]]
+- **Genesis 50:25 — the longest-running oath in Scripture**: sworn by the whole house of Israel,
+  kept at Exodus 13:19, discharged at Joshua 24:32 —
+  [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

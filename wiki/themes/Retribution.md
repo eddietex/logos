@@ -153,6 +153,8 @@ verdicts.
   chapters withheld**, fourteen and fifteen chapters late, **and in Simeon and Levi's case adds a
   charge the narrative never made** — *"in their self-will they hamstrung cattle."* **The sentences
   are carried out in the tribal history and never revisited in Genesis**
+- **Genesis 50:15, 19–20 — the payment expected and refused**: *wəhāšēb yāšîb*, *he will fully pay us
+  back*, answered with *"am I in the place of God?"* — [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 
@@ -166,6 +168,7 @@ verdicts.
 - [[Sin]] — which the doctrine requires to be present wherever suffering is
 - [[The Fear of God]] — which the doctrine makes unreadable: where piety is reliably paid, no one
   can tell devotion from investment, which is the accuser's whole case at 1:9
+- [[Forgiveness]] — the word Genesis withholds until its last chapter
 
 ## Related people
 

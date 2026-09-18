@@ -99,7 +99,7 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
   [[The Brothers' First Journey to Egypt]]
 - Genesis 44:16 — *"God has found out the iniquity of your servants"* —
   [[The Silver Cup and Judah's Plea]]
-- Genesis 50:15–17 — the brothers' fear after Jacob's death *(not yet ingested)*
+- Genesis 50:15–17 — the brothers' fear after Jacob's death — [[The Deaths of Jacob and Joseph]]
 - Leviticus 5:14–6:7; Numbers 5:6–7 — the guilt offering and spoken confession
 - Psalm 32:3–5; Psalm 51 — silence, and what it costs
 - Romans 2:15; 1 Timothy 4:2; Hebrews 10:22 — *syneidēsis*
@@ -129,6 +129,9 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
   land of Egypt"* (45:26). **Genesis never records them telling [[Jacob]] what they did**, and 50:15
   — *"it may be that Joseph will hate us"* — **is the proof that a guilt somebody else has settled on
   your behalf does not stay settled**
+- **Genesis 50:15–17 — seventeen fed years have not touched it**: *"It may be that Joseph will hate
+  us, and will fully pay us back"*, and a request for forgiveness routed through a command from a dead
+  man that Genesis never records him giving — [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 
@@ -140,6 +143,7 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 - [[Righteousness]] — Judah's *"she is more righteous than I"* is a confession framed as a comparison
 - [[Deception]] — every Genesis confession follows a concealment
 - [[Mediation and Advocacy]] — who stands between the liable and the wronged
+- [[Forgiveness]] — the word Genesis withholds until its last chapter
 
 ## Related people
 

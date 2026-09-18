@@ -159,6 +159,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   breath that keeps [[Simeon]] in chains. **It is the phrase's Genesis function exactly**: at 20:11
   Abraham said its absence was why he lied. **Joseph names God to his brothers once and names Pharaoh
   twice**
+- **Genesis 50:19, 21 — *ʾal-tîrāʾû*, *don't be afraid*, twice**: in Genesis this is God's line
+  (15:1; 21:17; 26:24; 46:3), and [[Joseph]] is the first human being in the book to say it —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

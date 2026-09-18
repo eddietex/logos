@@ -130,6 +130,9 @@ is close because you cannot bear to sit in the dark with him.
   saying it is five verses from his death, in a foreign country, having buried one wife by a road and
   mourned a living son for twenty years.** See
   [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]]
+- **Genesis 50:24–25 — *pāqōd yipqōd*, *God will surely visit you***, said twice by the one patriarch
+  God never speaks to, about a departure he is given no date for and will not see —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

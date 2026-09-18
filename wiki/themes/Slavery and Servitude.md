@@ -218,6 +218,9 @@ addressing a slave by name and no one else in the story doing so.
   Exodus 1:11 sets *taskmasters*, *śārê missîm*, over Israel — **and it is what Solomon puts the
   surviving Canaanites under** (1 Kings 9:21). **The word is spoken in Egypt, by a man whose
   descendants are four hundred years from hearing it applied to all of them**
+- **Genesis 50:18 — *"behold, we are your servants"*, offered and refused for the second time**
+  (compare 44:16–17): the dream of 37:7 completes in the one form [[Joseph]] will not accept —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

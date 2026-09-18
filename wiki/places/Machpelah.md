@@ -99,6 +99,11 @@ recorded here as such.
   in the Bible that reports where [[Rebekah]] and [[Leah]] are buried.** **The whole chapter is spoken
   in [[Egypt]] about a plot of ground four hundred miles away, and the only use it is put to is
   burial**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:12–13; **the sixth burial, and the deed's fifth and
+  final recitation.** **The cortege that brings him is Egyptian — Pharaoh's court, elders, chariots,
+  horsemen — but *"his sons carried him into the land of Canaan"*, and the Egyptians do not enter the
+  record of the burial.** **After it, everybody goes back to Egypt** (50:14), **and the family owns a
+  cave in a country it does not live in for four hundred years**
 
 ## Related places
 
@@ -119,5 +124,8 @@ recorded here as such.
 - Isaac dies at Mamre and is buried by Esau and Jacob; **the cave is not named in the notice**, and
   49:31 is what places him here — Genesis 35:29, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Isaac, Rebekah, and Leah are buried; Jacob recites the deed and makes his sons swear — Genesis
-  49:29–32 *(not yet ingested)*
-- Jacob is carried up from Egypt and buried — Genesis 50:13 *(not yet ingested)*
+  49:29–32, [[Jacob Blesses His Sons]]
+- **Jacob is carried up from Egypt and buried — the sixth and last** — Genesis 50:12–13,
+  [[The Deaths of Jacob and Joseph]]. **His own twelve sons carry him the final stretch**, and
+  **verse 13 reproduces the conveyancing language of 23:17–20 almost word for word**, seventy-seven
+  years on, **because the cave is still the only property the family holds in [[Canaan]]**

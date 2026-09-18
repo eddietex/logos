@@ -12,7 +12,7 @@ tags: [connection]
   womb?'"*
 - **Genesis 50:18–20** — *"His brothers also went and fell down before his face… Joseph said to them,
   'Don't be afraid, for **am I in the place of God**? As for you, you meant evil against me, but God
-  meant it for good.'"*
+  meant it for good.'"* — [[The Deaths of Jacob and Joseph]]
 - Genesis 25:21 — *"Isaac entreated Yahweh for his wife, because she was barren"*
 - 2 Kings 5:7 — *"Am I God, to kill and to make alive?"*, the king of Israel on receiving Naaman
 

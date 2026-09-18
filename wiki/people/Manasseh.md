@@ -113,6 +113,9 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
   tribe on both banks of the Jordan comes out of it** (Numbers 32:33; Joshua 17:7–10), **and 1 Chronicles
   5:1–2 reads the whole scene as [[Reuben]]'s forfeited birthright arriving.** See
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and [[Adoption]]
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:23; **named once, as [[Machir]]'s father**, in the
+  verse that gives [[Joseph]] his third generation. **The line Genesis follows to the very end is
+  his, not [[Ephraim]]'s** — the demoted brother supplies the book's last name
 
 ## Related people
 
@@ -124,6 +127,7 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - [[Reuben]] — the firstborn whose birthright passes to Joseph, and so to these two sons
   (1 Chronicles 5:1–2)
 - [[Esau]], [[Ishmael]], [[Zerah]] — the book's other displaced elder sons
+- [[Machir]] — his son, born in Egypt, **the last person named in Genesis**; his clan will take Gilead
 
 ## Themes associated
 

@@ -297,6 +297,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   Abraham and Isaac"* (48:16) — **two boys born in [[Egypt]] to an Egyptian priest's daughter written into
   it by a sentence.** **And 46:4's return promise is handed on in the second person** (48:21). See
   [[Adoption]]
+- **Genesis 50:24 — the land oath recited one last time**, *"which he swore to Abraham, to Isaac, and
+  to Jacob"*, **the first appearance of the three-name formula with the oath attached** —
+  [[The Deaths of Jacob and Joseph]]
+
 ## Related themes
 
 - [[Judgment]] — what the first covenant is spoken inside of

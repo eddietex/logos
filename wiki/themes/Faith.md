@@ -144,6 +144,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   ground, though Isaac did not know which son he was blessing.** **What Jacob acts on here is a promise
   about a return he will not live to see** (48:21). See
   [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]]
+- **Genesis 50:24–25 — the only act Hebrews 11 credits to [[Joseph]]**: not the dreams, not the
+  famine policy, not the forgiveness, but instructions about his bones (Hebrews 11:22) —
+  [[The Deaths of Jacob and Joseph]]
+
 ## Related themes
 
 - [[Righteousness]] — what faith is credited as, by an accounting verb

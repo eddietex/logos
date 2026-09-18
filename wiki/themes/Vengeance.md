@@ -104,6 +104,9 @@ for revenge becomes its measure for pardon. See
   three chapters earlier. Job calls for the officer the dead are entitled to, while still alive
 - [[The Redeemer and the Avenger of Blood]] — the two offices the one Hebrew word carries, and the
   line from Abel's blood through Job's to the souls under the altar
+- **Genesis 50:15 — *lû yiśṭəmēnû*, *should Joseph hate us***: the brothers quote the verb of
+  [[Esau]]'s grudge at 27:41, and the timing — *"the days of mourning for my father"* — with it —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 
@@ -116,6 +119,7 @@ for revenge becomes its measure for pardon. See
 - [[City and Civilization]] — the culture Lamech's family builds, and the song it ends in
 - [[Strife and Peacemaking]] — the alternative Genesis first shows at 13:8–9, nine chapters after
   Lamech's boast
+- [[Forgiveness]] — the word Genesis withholds until its last chapter
 
 ## Related people
 

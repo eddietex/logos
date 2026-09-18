@@ -240,23 +240,62 @@ at once**, and **Deuteronomy 33:16 repeats the phrase over him word for word.** 
 the sentence his own dreams made about himself — **and 1 Chronicles 5:2 is the only verse in Scripture
 that states the division: the birthright to Joseph, the prince from Judah.**
 
-### What is still ahead
+### In this pericope — Genesis 50:1–26
 
-This page grows as those pericopes arrive; what follows is the shape of it.
+**The book's last chapter is his, from the first verb to the last, and he spends it burying one
+father, forgiving eleven brothers, and arranging not to be buried himself.**
 
-His verdict on the whole of it is given twice — *"God sent me before you to preserve life"* (45:5,
-[[Joseph Reveals Himself]]) and *"you meant evil against me, but God meant it for good"* (50:20) —
-**and the sentence that introduces the second one is his father's, turned around**:
-***"Am I in the place of God?"*** (50:19), the identical idiom Jacob used at 30:2 to refuse Rachel help.
-See [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]].
+**His verdict on the whole of it is given twice and the second time is not the first.** At 45:5, in
+[[Joseph Reveals Himself]], it was *"God sent me before you to preserve life"* — **the sale
+subordinated and the sending given the weight.** **At 50:20 it is *"you meant evil against me, but
+God meant it for good"***, ***ḥāšab*** **in both clauses**: **one act, two intentions, neither
+cancelled.** **Seventeen years later, with his father dead and nothing left to protect, he names the
+crime for the first time and forgives it anyway.** Filed as
+[[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]]; see
+[[God Sent Me Before You - The Verb That Replaces the Sale]].
+
+**And the sentence that introduces it is his father's, turned around**:
+***"Am I in the place of God?"*** (50:19), **the identical idiom Jacob used at 30:2 to refuse
+[[Rachel]] help** — **a refusal to help, reused as a refusal to judge.** See
+[[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]]. **He also says *"don't be afraid"*
+twice** (50:19, 21), **which in Genesis is God's line** (15:1; 21:17; 26:24; 46:3) — **and he is the
+first human being in the book to say it.**
+
+***"Joseph wept when they spoke to him"*** (50:17). **The seventh and last time he weeps** (42:24;
+43:30; 45:2, 14–15; 46:29; 50:1; 50:17), **and the narrator gives no reason.** The reading the wiki
+prefers is the plainest one: **after seventeen years of being fed by him they are still afraid of
+him, and they think forgiveness is something you get a dead man to ask for.**
+
+**What he does administratively is worth keeping in view.** **The second man in Egypt cannot get an
+audience with the first** — he speaks *to the house of Pharaoh* and asks them to *speak in the ears
+of Pharaoh* (50:4), opening with ***"if I have found favor in your eyes"***, ***ḥēn***, **the word
+that has followed him since 39:4.** **He quotes his father's burial instruction in a form Genesis
+never records** — *"my grave which I have dug for myself"* (50:5) **against the purchased cave of
+49:29–32** — **and the wiki flags the difference rather than harmonising it.** **He volunteers
+*"I will come again"* before anyone asks**, and he leaves the children and the herds in [[Goshen]]
+(50:8), which is the arrangement Moses will refuse four hundred years later
+([[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]]).
 
 **He gets the birthright [[Reuben]] loses** — 1 Chronicles 5:1–2 says so outright — in the form of a
-double portion: **[[Ephraim]] and [[Manasseh]] are adopted by Jacob as his own** (48:5, in
+double portion: **[[Ephraim]] and [[Manasseh]] were adopted by Jacob as his own** (48:5, in
 [[Jacob Blesses Ephraim and Manasseh]]) and counted as two tribes, which is why most later lists have
-twelve names without Joseph's own. He sees his
-great-grandchildren *"born on Joseph's knees"* (50:23), **the only other use in Genesis of the adoption
-idiom Rachel used of [[Bilhah]] at 30:3.** He dies at a hundred and ten, makes Israel swear to carry
-his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
+twelve names without Joseph's own. **He sees his great-grandchildren *"born on Joseph's knees"***
+(50:23) — [[Machir]]'s children — **the only other use in Genesis of the adoption idiom [[Rachel]]
+used of [[Bilhah]] at 30:3.**
+
+**He dies at a hundred and ten, which is the Egyptian ideal lifespan and the shortest of the four
+patriarchs'** (Abraham 175, Isaac 180, Jacob 147). **And then he does the one thing Hebrews 11
+credits him with.** ***"God will surely visit you"*** — ***pāqōd yipqōd***, **twice** (50:24, 25),
+**the phrase the elders of Israel will recognise at Exodus 4:31** — **and *"you shall carry up my
+bones from here."*** **He could have had his father's funeral; the cortege existed and the king had
+already said yes once.** **He asks instead to be left above ground in Egypt until the people go.**
+**Exodus 13:19 records Moses collecting the coffin on the night of the departure and Joshua 24:32
+buries him at [[Shechem (city)]]**, in the parcel Jacob gave him at 48:22. Filed as
+[[Carry Up My Bones - Joseph's Oath and Its Keeping]].
+
+**He is the only patriarch God never speaks to** — no theophany, no covenant speech, no night vision
+— **and the only one who dies with the promise word-perfect on his lips, naming the three men it was
+sworn to and not himself.**
 
 ## Timeline / key events
 
@@ -335,10 +374,24 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   [[Jacob Blesses Ephraim and Manasseh]]
 - Blessed at the deathbed in the poem's longest saying; the archers, the Mighty One of Jacob, the
   shepherd, the stone of Israel — Genesis 49:22–26, [[Jacob Blesses His Sons]]
-- *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
-  50:19–20 *(not yet ingested)*
-- Dies at a hundred and ten; the oath about his bones — Genesis 50:24–26; Exodus 13:19; Joshua 24:32
-  *(not yet ingested)*
+- Falls on his dead father's face and weeps; orders the physicians to embalm *Israel* — Genesis
+  50:1–3, [[The Deaths of Jacob and Joseph]]
+- Petitions the court for leave to bury his father, through intermediaries, on the strength of the
+  oath; *"I will come again"* — Genesis 50:4–6
+- Leads the cortege up with Pharaoh's court, chariots and horsemen; the little ones and the herds stay
+  in [[Goshen]]; seven days of mourning at [[Abel Mizraim]] — Genesis 50:7–11
+- **His brothers carry Jacob to [[Machpelah]]**, the sixth grave; *"Joseph returned into Egypt"* —
+  Genesis 50:12–14
+- Receives a message quoting a command from his father that Genesis never records, and **weeps for the
+  seventh and last time** — Genesis 50:16–17
+- Refuses the brothers' offer of servitude for the second time (compare 44:16–17) — Genesis 50:18
+- *"Am I in the place of God? … you meant evil against me, but God meant it for good, to save many
+  people alive"*; *"I will nourish you and your little ones"* — Genesis 50:19–21
+- Lives a hundred and ten years; sees [[Ephraim]]'s third generation, and [[Machir]]'s children
+  *"born on Joseph's knees"* — Genesis 50:22–23
+- *"God will surely visit you"*, twice; the oath about his bones — Genesis 50:24–25
+- Dies, is embalmed, and is put in a coffin in Egypt — **the last verse of Genesis** — Genesis 50:26;
+  the bones are collected at Exodus 13:19 and buried at Joshua 24:32
 
 ## Appears in
 
@@ -481,6 +534,18 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   that held, four divine titles, and blessings of sky, abyss and body.** **Seven of the chapter's nine
   occurrences of *bless* are in his five verses**, and **eleven brothers receive none of them.**
   ***Nəzîr ʾeḥāyw***, *separated from his brothers*, **is the last thing his father says about him**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:1–26; **the whole chapter, and the end of the book.**
+  He weeps on the body, embalms *Israel* by Egyptian craft, petitions a king through courtiers, leads
+  a state funeral into Canaan and comes straight back out of it, and then faces eleven men who have
+  waited seventeen years to find out whether he meant it. **He refuses the judge's seat**
+  (*"am I in the place of God?"*, 50:19, his father's idiom from 30:2), **names the crime for the first
+  time and forgives it** (*"you meant evil against me, but God meant it for good"*, 50:20), **refuses
+  their servitude for the second time**, and repeats the promise of 45:11 word for word —
+  *"I will nourish you and your little ones."* **He dies at a hundred and ten, the Egyptian ideal
+  span**, having seen [[Ephraim]]'s third generation and taken [[Machir]]'s children on his knees,
+  **and his last act is to decline a grave**: *pāqōd yipqōd*, *God will surely visit you*, and
+  *"you shall carry up my bones from here."* **Hebrews 11:22 credits him with that one thing and
+  nothing else**
 
 ## Related people
 
@@ -505,6 +570,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   negotiation, no consent and no objection**
 - [[Potiphera]] — his father-in-law, *priest of On*, **whose name is the full form of [[Potiphar]]'s**
 - [[Manasseh]] — his firstborn, named for forgetting the house Joseph then spent five chapters recovering
+- [[Machir]] — his grandson through Manasseh, **the last person named in Genesis**; Joseph takes his
+  children onto his knees at 50:23
 - [[Ephraim]] — his second son, named with the creation verb in a country he calls an affliction
 - [[The Chief Cupbearer]] — the prisoner he waits on, reads correctly, and asks for help; **the only
   person he ever asks for anything**, and the one who forgets him for two years and then says his name
@@ -533,3 +600,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[The Nations]]
 - [[Famine and Plenty]]
 - [[Suffering]]
+- [[Forgiveness]]
+- [[Providence]]
+- [[Burial and the Grave]]
+- [[Oaths and Vows]]
+- [[Faith]]

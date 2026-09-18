@@ -97,7 +97,7 @@ resolve it.**
 - **Genesis 42:4, 13, 21, 32, 38 — the reckoning** — [[The Brothers' First Journey to Egypt]]
 - Genesis 44:33 — *"let your servant stay instead of the boy"* — [[The Silver Cup and Judah's Plea]]
 - **Genesis 45:4, 14–15, 22, 24** — ***"I am Joseph, your brother"***, and a reunion asymmetric in
-  every detail — [[Joseph Reveals Himself]]; 50:15–21 *(not yet ingested)*
+  every detail — [[Joseph Reveals Himself]]; 50:15–21, [[The Deaths of Jacob and Joseph]]
 - Leviticus 19:17; Deuteronomy 15:7–11 — *your brother* as a legal category
 - Matthew 5:23–24; 18:21–22; 1 John 3:12–15
 - [[The Second Journey]] — Genesis 43:3–9, 29–30, 34; **a chapter conducted entirely in the vocabulary
@@ -135,6 +135,11 @@ resolve it.**
   relation a hierarchy.** And ***nəzîr ʾeḥāyw***, *"him who is separated from his brothers"* (49:26),
   **makes it a distance** — **the word behind *Nazirite*, meaning both *set apart* and *cut off*, and
   [[Joseph]]'s life makes both true**
+- **Genesis 50:12–13 — the twelve act as one, once**: *"his sons carried him into the land of
+  Canaan"*, the only thing they do together in the book and get right —
+  [[The Deaths of Jacob and Joseph]]
+- **Genesis 50:15–21 — the relationship's last scene**: eleven men face down on the ground offering
+  themselves as slaves, and the twelfth refuses the offer and feeds them — same pericope
 
 ## Related themes
 
@@ -148,6 +153,7 @@ resolve it.**
 - [[Mediation and Advocacy]] — Judah's substitution at 44:33
 - [[Love]] — Jacob's, which is always partial and always destructive
 - [[Marriage]] — the polygamous households every one of these rivalries comes out of
+- [[Forgiveness]] — the word Genesis withholds until its last chapter
 
 ## Related people
 

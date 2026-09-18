@@ -206,3 +206,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] | word | Genesis 49:18 · Exodus 14:13; 15:2 · Psalm 3:8 · Psalm 119:166 · Isaiah 12:2–3 · Jonah 2:9 · Luke 2:30 |
 | [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |
 | [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]] | parallel | Genesis 48:5 · Genesis 49:1–28 · Deuteronomy 33:1–29 · Judges 5:14–18 |
+| [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 |
+| [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
+| [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
+| [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |

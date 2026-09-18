@@ -100,7 +100,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 - Jacob sends Joseph out of *"the valley of Hebron"* to look for his brothers at Shechem — Genesis 37:14
 - The bloodied coat is brought back to him here; he puts on the first sackcloth in Scripture — Genesis
   37:32–35
-- Isaac, Rebekah, Leah, and Jacob buried there — Genesis 49:31; 50:13 *(not yet ingested)*
+- Isaac, Rebekah, Leah, and Jacob buried there — Genesis 49:31, [[Jacob Blesses His Sons]];
+  50:13, [[The Deaths of Jacob and Joseph]]
 - The spies find the Anakim in it — Numbers 13:22
 - Caleb takes it and is given it as an inheritance — Joshua 14:13–15; 15:13–14
 - David anointed king over Judah, and reigns there seven and a half years — 2 Samuel 2:1–4; 5:5

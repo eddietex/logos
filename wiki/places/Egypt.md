@@ -192,6 +192,13 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   tribes.** **And 48:21 is the country stated as temporary once more** — *"I am dying, but God will be
   with you, and bring you again to the land of your fathers"* — **46:4's promise handed from God's mouth
   to Jacob's, and [[Joseph]] will hand it on again at 50:24**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:1–26; **the country the whole last chapter begins
+  and ends in.** Its physicians embalm [[Jacob]]; its people weep seventy days, a king's period; its
+  court grants the funeral leave and sends the whole administration along with chariots and horsemen;
+  and *"Joseph returned into Egypt"* (50:14) **after the one visit Israel pays the promised land in
+  the book's final hundred and fifty years.** ***Bəmiṣrāyim*, *in Egypt*, is the last word of
+  Genesis** — *"he was put in a coffin in Egypt"* — and the book ends with a Hebrew body preserved on
+  Egyptian soil awaiting a departure nobody has been given a date for
 
 ## Related places
 

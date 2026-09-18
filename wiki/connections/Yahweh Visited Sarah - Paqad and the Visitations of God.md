@@ -11,8 +11,10 @@ tags: [connection]
   spoken."* The verb's first occurrence in the Bible. See
   [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 50:24–25** — *"God will surely visit you, and bring you up out of this land to the land
-  which he swore to Abraham, to Isaac, and to Jacob"* — Joseph's last words, and the last words of
-  Genesis but three.
+  which he swore to Abraham, to Isaac, and to Jacob"* — ***pāqōd yipqōd***, **said twice on a
+  deathbed** — Joseph's last words, and the last words of Genesis but three. See
+  [[The Deaths of Jacob and Joseph]] and
+  [[Carry Up My Bones - Joseph's Oath and Its Keeping]].
 - **Exodus 3:16; 4:31; 13:19** — the promise cashed: *"I have surely visited you, and seen that which
   is done to you in Egypt"*, and the people believing *"when they heard that Yahweh had visited the
   children of Israel"*.

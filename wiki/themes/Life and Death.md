@@ -308,6 +308,8 @@ the rest of the canon.
   **said here of a man about to be buried four hundred miles from all of them.** **The chapter records
   no reaction from anyone**: nobody weeps and nobody speaks, and the mourning waits for 50:1. See
   [[Gathered to His People]]
+- **Genesis 50:20 — *ləhaḥăyōt ʿam-rāb*, *to save many people alive***, said over a coffin; the same
+  hiphil the Hebrew midwives get at Exodus 1:17–18 — [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

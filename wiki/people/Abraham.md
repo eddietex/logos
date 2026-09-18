@@ -929,6 +929,14 @@ arrive.
   is a recitation of his one completed purchase** — **the single clause of the land promise that has
   been executed** — **and the wiki notes that Genesis ends the patriarchal narratives by having a
   dying man read out a receipt.** See [[Machpelah]] and [[Land and Sojourning]]
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:13, 24; **named twice in the book's last chapter,
+  both times in a formula.** At 50:13 the deed is recited one final time — *"the cave of the field of
+  Machpelah, which **Abraham** bought with the field, as a possession for a burial site, from Ephron
+  the Hittite"* — **as [[Jacob]] becomes the sixth body in it.** At 50:24 [[Joseph]] names him first
+  in the oath the land was sworn on: *"the land which he swore to **Abraham**, to Isaac, and to
+  Jacob."* **The last words of the promise in Genesis are his name and two others', spoken by a man
+  in Egypt who will not live to see any of it.** See [[Covenant]] and
+  [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]]
 
 ## Related people
 

@@ -169,6 +169,9 @@ the same verses that put the tree of life back in reach (see
   Jacob, and scatter them in Israel."* **The distinction is real and it does not spare the tribes** —
   **and it is the reason the sentence can later be converted for one of them without being lifted.**
   **The chapter that contains this curse is the one the narrator calls a blessing** (49:28)
+- **Genesis 50:10 — the mourning for Israel is held on a threshing floor named for a thorn**:
+  *ʾāṭād*, the bramble, the plant the ground was cursed to grow at 3:18 —
+  [[The Deaths of Jacob and Joseph]]
 
 ## Related themes
 

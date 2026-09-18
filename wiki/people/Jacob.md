@@ -528,12 +528,57 @@ reacts**; the weeping is in the next one. See [[Gathered to His People]].
 (49:7, 24). See [[Renamed and Still Called Jacob - The Two Namings of Israel]] and
 [[Jacob Blesses His Sons]].
 
-### What is still ahead
+### In this pericope — Genesis 50:1–14
 
-This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
+**He is dead before the chapter opens, and it is about him for fourteen verses.** **His own last act
+was 49:33; everything here is done to his body.**
 
-What remains ahead of the wiki is Genesis 50: the embalming, the funeral convoy back to
-[[Machpelah]], and the burial itself.
+**The first sentence of the chapter is a promise being kept.** At 46:4, at [[Beersheba]], on the
+night he was told it was safe to go down, God said *"Joseph will close your eyes"*
+([[Jacob's Family Settles in Egypt]]). **The closing of the eyes is not narrated; *"Joseph fell on
+his father's face, wept on him, and kissed him"* is.** See
+[[I Will Be With You - The Promise of Presence]].
+
+***"The physicians embalmed Israel"*** (50:2). ***Ḥānaṭ*** **occurs three times in the Hebrew Bible
+and all three are in this chapter** — twice of him, once of [[Joseph]]. **He is one of the only two
+embalmed bodies in Scripture**, and **the name the verse uses for the body on the table is the
+covenant one**: Joseph orders the embalming of *his father*; what the physicians embalm is *Israel*.
+Filed as [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]]; see
+[[Renamed and Still Called Jacob - The Two Namings of Israel]].
+
+***Seventy days.*** **Egypt weeps for him for seventy days** — **a king's period of national
+mourning**, **and more than twice the thirty days Israel will give Aaron** (Numbers 20:29) **and
+Moses** (Deuteronomy 34:8). **A Hebrew shepherd who told Pharaoh his own years had been *"few and
+evil"* (47:9) gets an Egyptian state funeral.**
+
+**The oath he extracted at 47:29–31 is what pries the cortege out of Egypt.** Pharaoh's whole answer
+is five Hebrew words and the operative one is the oath: *"Go up, and bury your father, just like he
+made you swear"* (50:6). See [[Oaths and Vows]].
+
+**What Joseph reports him saying is not what Genesis records him saying.** **At 47:30 and 49:29–32
+he asked to be laid *"with my fathers"* in the cave *"which Abraham bought"*; at 50:5 Joseph quotes
+him as saying *"my grave which I have dug for myself."*** ***Kārîtî*** **is ordinarily *I dug*, and
+in a second attested sense *I acquired by purchase* (Hosea 3:2), which would harmonise it.** **The
+wiki flags the difference and adopts neither reading**; see
+[[The Deaths of Jacob and Joseph]].
+
+***"His sons did to him just as he commanded them … for his sons carried him"*** (50:12–13). **Twice
+in two verses, and the subject is the twelve.** **The Egyptian state escorts the body to the river;
+his own sons carry it the rest of the way** — **the one thing the twelve brothers do together in
+Genesis and get right.** **Verse 13 then reproduces the conveyancing language of 23:17–20 almost
+word for word**, seventy-seven years on, **because the cave is the only property the family holds in
+Canaan and burying him in it is what makes the purchase mean anything.** **He is the sixth and last
+of the six**: [[Sarah]], [[Abraham]], [[Isaac]], [[Rebekah]], [[Leah]], Jacob. See
+[[Buried at Machpelah - The Six Graves of Genesis]] and
+[[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]].
+
+**Seven days of mourning are held for him at a threshing floor *beyond the Jordan*, and the
+Canaanites who watch it name the place [[Abel Mizraim]], *mourning of Egypt*** — **they look at the
+funeral of the man their country was promised to and see Egyptians.**
+
+**And then his family leaves.** *"Joseph returned into Egypt — he, and his brothers, and all that
+went up with him"* (50:14). **Jacob is the last member of his house to be in the land of the promise
+for four hundred years, and he is dead when he gets there.**
 
 ## Timeline / key events
 
@@ -669,7 +714,12 @@ What remains ahead of the wiki is Genesis 50: the embalming, the funeral convoy 
   Genesis 49:29–32, [[Jacob Blesses His Sons]]
 - Draws up his feet, yields up the spirit, and is gathered to his people — Genesis 49:33,
   [[Jacob Blesses His Sons]]
-- Carried to Machpelah and buried — Genesis 50:1–14 *(not yet ingested)*
+- Embalmed by Egyptian physicians; forty days of embalming and seventy of Egyptian mourning — Genesis
+  50:2–3, [[The Deaths of Jacob and Joseph]]
+- Carried up by a state cortege on the strength of the oath he extracted at 47:29–31; seven days of
+  mourning at [[Abel Mizraim]] — Genesis 50:4–11
+- **Carried by his own twelve sons** into Canaan and buried at [[Machpelah]], the sixth of six —
+  Genesis 50:12–13
 
 ## Appears in
 
@@ -853,6 +903,13 @@ What remains ahead of the wiki is Genesis 50: the embalming, the funeral convoy 
   (49:24–25), **recites the deed to [[Machpelah]] and names five people in it** (49:29–32), **and lies
   down** (49:33). **He is *Jacob* five times and *Israel* five times.** **The chapter records no
   reaction from anyone to any of it**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:1–14; **dead before it opens, and its subject for
+  fourteen verses.** **Embalmed as *Israel*** by Egyptian physicians — **one of the only two mummies
+  in Scripture** — **wept over by Egypt for seventy days**, carried up on the strength of the oath he
+  extracted at 47:29–31, mourned seven days at [[Abel Mizraim]] by a cortege the Canaanites take for
+  Egyptians, **carried the last stretch by his own twelve sons**, and laid in [[Machpelah]] under the
+  deed of 23:17–20 quoted back almost verbatim. **The sixth of the six buried there.** **And then
+  everyone who brought him goes back to Egypt**
 
 ## Related people
 

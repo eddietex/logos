@@ -48,6 +48,11 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
   **The verse sits immediately after the one in which the Egyptians become Pharaoh's servants**
   (47:25–26), **and Exodus 1:7 repeats it in five verbs before *"there arose a new king over Egypt,
   who didn't know Joseph."*** **Goshen is where Israel stops being a household and becomes a nation**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:8; **its last appearance in Genesis, and it is where
+  the children stay.** *"Only their little ones, their flocks, and their herds, they left in the land
+  of Goshen"* — **the arrangement that makes the funeral convoy a leave of absence rather than an
+  emigration**, and the one Moses refuses point-blank at Exodus 10:8–11 and 10:24. Filed as
+  [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]]
 
 ## Related places
 

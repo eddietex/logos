@@ -132,7 +132,8 @@ reached.**
   [[Jacob's Family Settles in Egypt]]
 - Acquires all Egypt through Joseph's grain administration — Genesis 47:13–26,
   [[Joseph and the Famine]]
-- Permits the funeral caravan to Canaan — Genesis 50:4–9 *(not yet ingested)*
+- Permits the funeral caravan to Canaan, on the strength of the oath — Genesis 50:4–6,
+  [[The Deaths of Jacob and Joseph]]
 - Succeeded by a king *"who didn't know Joseph"* — Exodus 1:8 *(not yet ingested)*
 
 ## Appears in
@@ -203,6 +204,12 @@ reached.**
   foreign ex-convict his signet ring in an afternoon** (41:42) **receives a country back for it**,
   and Genesis gives him no line of thanks, no ceremony, and no reaction. **The one class his vizier
   leaves untouched is the priesthood, on the ground that Pharaoh was already feeding it** (47:22)
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:4–6; **his last appearance, and it is one sentence
+  of assent**: *"Go up, and bury your father, just like he made you swear."* **He lets the second man
+  in the kingdom, his whole court and the elders of the country leave for a foreign funeral on the
+  strength of an oath sworn to a dead shepherd** — and the request reaches him secondhand, because
+  [[Joseph]] petitions *the house of Pharaoh* rather than the king. **Exodus 1:8, *"a new king over
+  Egypt, who didn't know Joseph"*, is the mirror of this verse**
 
 ## Related people
 

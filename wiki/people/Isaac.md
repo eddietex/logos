@@ -624,6 +624,11 @@ gets a death notice in this same chapter** (35:8); she does not.
   the list of the cave's occupants. **Genesis reported his death and burial at 35:29** — *"his sons
   Esau and Jacob buried him"* — **without saying where**; **this verse supplies the place**, and it is
   the only one that does. **[[Rebekah]]'s burial is reported here and nowhere else at all**
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:24; **named once, in the middle of the oath
+  formula** — *"the land which he swore to Abraham, to **Isaac**, and to Jacob"* — **the first
+  appearance in Scripture of the three-name sequence with the land oath attached**, which Exodus 33:1
+  and Deuteronomy will repeat as a fixed phrase. **His last mention in Genesis is as the middle term
+  of a list.** See [[Covenant]]
 
 ## Related people
 

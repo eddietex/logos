@@ -232,6 +232,9 @@ will finally go both ways.
   about his children at 33:5**, answered then with the same theology from the other side of the family.
   **And what the eyes cannot do the hands do** — *"guiding his hands knowingly"* (48:14). See
   [[Two Blind Fathers - Genesis 27 and Genesis 48]]
+- **Genesis 50:11 — the Canaanites watch the funeral of the man their land was promised to and see
+  Egyptians**, and name the place for what they saw — [[The Deaths of Jacob and Joseph]]
+
 ## Related themes
 
 - [[The Names of God]] — *ʾĒl Rŏʾî* is the only name in Scripture given to God by a human being, and
