@@ -51,7 +51,9 @@ treatment of the friends' speeches is written knowing that sentence is coming.
 ## Structure
 
 - **1–2 Prologue (prose)** — Job introduced, the heavenly court, two catastrophes, three friends.
-- **3 Job's opening lament** — the poetry begins; Job curses the day he was born.
+- **3 Job's opening lament** — the poetry begins; Job curses the day he was born. **He does not curse
+  God**, which is the accuser's prediction failing in the verse that most resembles its fulfilment,
+  and the speech is addressed to nobody — not to God and not to the three men who answer it.
 - **4–14 First cycle of speeches** — Eliphaz, Bildad, Zophar, each answered by Job.
 - **15–21 Second cycle** — the same order, the consolations withdrawn, the accusations sharper.
   This is also where the friends stop arguing: chapters 18 and 20 are two set-piece portraits of
@@ -84,7 +86,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Job's Opening Lament (3)
 
-- [ ] Let the Day Perish — Job 3:1–26
+- [x] [[Let the Day Perish]] — Job 3:1–26
 
 ### First cycle (4–14)
 
@@ -149,6 +151,9 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Mediation and Advocacy]]
 - [[Mourning and Lament]] — the rite at 1:20, the ashes at 2:8, a funeral held over a living man at
   2:12–13, and then the whole of chapter 3, where the rite's silence turns into its speech
+- [[Light and Darkness]] — the book's controlling image, and the one Job and God both reach for
+  first: chapter 3 asks for a day to be given back to darkness, and 38:2 opens the whirlwind by
+  accusing Job of *darkening counsel*
 - [[Righteousness]]
 - [[Sin]]
 - [[Judgment]]

@@ -32,7 +32,9 @@ speak of it as the place where the relationship with God stops.
 ## In Job
 
 Sheol is named eight times in Job, and its function in the argument is structural rather than
-decorative. **Because Sheol offers no correction of earthly verdicts, Job's vindication has to
+decorative. **The book's fullest picture of it does not use the word at all** — Job 3:13–19, in
+[[Let the Day Perish]], where the place is reached by a wish rather than named, and is commended for
+exactly the properties the rest of Scripture protests. **Because Sheol offers no correction of earthly verdicts, Job's vindication has to
 happen before he dies or not at all.** There is no assize down there in which the record is set
 straight. That is the pressure behind the urgency of his appeals — the witness of 16:19 is needed
 *now*, because 16:22 says *"when a few years have come, I shall go the way of no return"* — and it
@@ -66,6 +68,19 @@ to go.
 
 ## Appears in
 
+- [[Let the Day Perish]] — Job 3:13–19; **not named, and described at greater length than anywhere
+  else in the book.** Every property this page lists is present, and all of them are presented as
+  attractions. It is where one **lies down, is quiet, sleeps, and is at rest** (3:13); it is
+  **populated by rank and indifferent to it** — kings, counselors, princes with gold and silver, and
+  *"infants who never saw light"*, in the same sentence; and its defining social fact is that
+  **every hierarchy has stopped working**: *"There the wicked cease from troubling. There the weary
+  are at rest. There the prisoners are at ease together. They don't hear the voice of the taskmaster.
+  The small and the great are there. The servant is free from his master."* **Three times *there*,
+  and each time what is named is a relation that has lapsed.** The word Job uses is *"the grave"*
+  (*qeber*, 3:22). **This is the one passage in Scripture that makes Sheol's emptiness the argument
+  for it** — precisely because there is no assize down there, nothing is owed, demanded, or
+  enforced, and the administrative blankness the Psalms protest is here the whole appeal. At
+  17:13–16 he will take the same place as a residence rather than a wish.
 - [[Miserable Comforters and the Witness in Heaven]] — Job 17:13, 16, closing the speech.
 - [[I Know That My Redeemer Lives]] — not named, but the passage that most tests what the wiki says
   here: 19:25's Redeemer standing *"upon the earth"* is literally *upon dust*, the same word that

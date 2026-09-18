@@ -170,6 +170,15 @@ requires only that you be standing outside it.
   chapter apart, and Genesis reconciles the two not at all.** **Between them sits the third verdict** —
   *"the God who has fed me all my life long to this day"* (48:15). **The wiki records all three and
   harmonises none**
+- [[Let the Day Perish]] — Job 3:1–26; **the first account of the suffering from inside, and it is
+  four lines long.** Chapters 1–2 reported what was done to him and 2:12–13 reported what he looked
+  like to three witnesses; **3:24–26 is the only description of what it is like to be him**: *"my
+  sighing comes before I eat. My groanings are poured out like water… I am not at ease, neither am I
+  quiet, neither have I rest; but trouble comes."* The chapter also contains **the book's one
+  admission of a dread that predates the disaster** — *"the thing which I fear comes on me"* (3:25) —
+  which reads back against the continual burnt offerings of 1:5, and which Eliphaz answers four
+  verses later by telling Job his piety should have been his confidence (4:6)
+
 ## Related themes
 
 - [[Retribution]] — the account of suffering the book of Job is written against

@@ -201,6 +201,16 @@ noticing into doctrine.
   and *"after that his brothers talked with him"* (45:15) **is the entire record of a conversation
   twenty-two years in coming.** Their one quoted sentence (45:26) omits the sale
 
+- [[Let the Day Perish]] — Job 3:1–26; **the silence broken, and the book's hinge.** Seven days of
+  saying nothing produce twenty-six verses, and the twenty-six verses produce twenty-five chapters
+  of argument. **Three features of the speech are all about speech.** It is addressed to nobody —
+  not to God, who is spoken of in the third person, and not to the friends, who answer as though it
+  had been. **It curses a day rather than a person**, and with *qālal*, the mild verb, where the
+  prologue's whole tension was over whether Job would use the other word about God. And it
+  **personifies the night as an announcer** — *"the night which said, 'There is a boy conceived'"*
+  (3:3) — so that a piece of news becomes the thing punishable. Job's own account of why he spoke
+  comes at 7:11: *"Therefore I will not keep silent"*
+
 ## Related themes
 
 - [[The Nations]] — the seventy, distinguished by language among other things

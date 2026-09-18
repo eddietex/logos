@@ -91,6 +91,15 @@ Genesis 1 sets four load-bearing claims:
 - [[The Sons of God and the Corruption of the Earth]] — 6:5–7, Genesis 1 quoted back in order to be
   undone
 
+- [[Let the Day Perish]] — Job 3:1–26; **Genesis 1 spoken backwards by a man with no power to
+  perform it.** *"Let that day be darkness"* (3:4) is *yəhî ḥōšek* against *yəhî ʾôr*, and the
+  chapter runs on through the division of light from darkness, the calendar function of 1:14, the
+  blessing of fertility, and the bounded deep — asking for each to be undone for the space of one
+  day and one night. **The wiki's other un-creation, [[The Flood as Un-Creation]], is one God
+  performs**; this is one a man requests and does not get. See
+  [[Let That Day Be Darkness - Job 3 as Counter-Creation]] and
+  [[The Whirlwind Answers Chapter 3]], where the same inventory comes back in God's mouth
+
 ## Related themes
 
 - [[Image of God]]

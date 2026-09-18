@@ -79,6 +79,10 @@ onomastic pool is exactly what one expects of two texts about the same region.
   him either**; like the Uz of 22:21 he is a name in a list, and if a later pass makes one it must be
   `Uz (son of Dishan)`, so that this page keeps the bare name.
 
+- [[Let the Day Perish]] — Job 3:1–26; the setting unchanged and unnamed, the ash-heap of 2:8 with
+  three men still sitting on the ground beside it. **The chapter's only geography is elsewhere**: the
+  calendar Job wants his birthday struck from, and the country of the dead in 3:13–19. See [[Sheol]]
+
 ## Related places
 
 - [[Teman]] — Eliphaz's town, Edomite, and proverbial for wisdom; the strongest internal pointer to

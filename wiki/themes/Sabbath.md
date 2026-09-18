@@ -42,6 +42,13 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 - [[The Waters Recede]] — the flood's one surviving human rhythm: *"He waited yet another seven
   days"*, twice (8:10, 8:12), a man measuring a new world by the week
 
+- [[Let the Day Perish]] — Job 3:1–26, obliquely and by way of one word. ***Nûaḥ*, the verb under
+  the Sabbath command and under Noah's name, occurs three times in the chapter and every one of them
+  is in the grave**: *"I should have slept, then I would have been at rest"* (3:13), *"there the
+  weary are at rest"* (3:17), and then the last line of the speech, *"neither have I rest"* (3:26).
+  **The chapter opens a place where rest exists, spends seven verses furnishing it, and closes by
+  saying he is not in it** — which is the Sabbath's promise stated as its absence
+
 ## Related themes
 
 - [[Creation]]

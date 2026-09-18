@@ -89,6 +89,14 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   19:29.
 - [[Zophar's Second Speech]] — where the charge he will personalise at 22:6–9 is first drafted.
 
+- [[Let the Day Perish]] — Job 3:1–26; **silent here, and what he says next is the measure of him.**
+  Chapter 3 contains no claim about God's justice, Job's innocence, or the cause of anything.
+  **Eliphaz opens at 4:1 with a complete doctrine of retribution** (4:7, *"who ever perished, being
+  innocent?"*), and his first words to Job — *"isn't your piety your confidence? Isn't the integrity
+  of your ways your hope?"* (4:6) — answer 3:25's *"the thing which I fear comes on me"* as though it
+  were a theological error rather than a confession. **He is the first person in the book to hear a
+  lament and reply to an argument**, and the other two follow him
+
 ## Related people
 
 - [[Job (person)]] — the man he came to comfort and stayed to prosecute.

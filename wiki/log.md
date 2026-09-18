@@ -8960,3 +8960,192 @@ those books has been started.
   [[Life and Death]] and [[Suffering]] rows are all now far past the width at which anyone reads
   them. **This should be the next lint's first job**, because appending is cheap and the column is
   the only navigational thing on the page.
+
+## [2026-09-18] ingest | Job 3.1-26 — Let the Day Perish
+
+Unattended run (`/ingest auto`). Target resolved mechanically: Genesis is `complete`, [[Job]] is the
+only `in-progress` book in `wiki/books/index.md`, and the first unchecked box on its page was Job
+3:1–26. **Boundary unchanged, title unchanged.** The chapter is taken whole and there was nothing to
+decide: it opens with its own narrative frame (*"After this Job opened his mouth"*) and 4:1 begins
+*"Then Eliphaz the Temanite answered"*, so the chapter division and the discourse unit coincide
+exactly — one of the few places in Job where they do. **Job is at 10 / 32.**
+
+### The passage page
+
+[[Let the Day Perish]], `wiki/passages/Job/`. The discussion step was written into the page, as
+unattended mode requires. Built around these findings:
+
+**1. The accuser's prediction fails in the verse that most resembles its fulfilment, and the
+narrator makes sure of it.** Two chapters have been aimed at one act — *"he will renounce you to
+your face"* (1:11, 2:5), *"renounce God, and die"* (2:9). **At 3:1 Job curses, and the object is
+named in the same sentence: *the day of his birth*.** Not God, and the fifteen verses that follow do
+not address God at all. **The verb is *qālal* too**, the mild make-light-of word — Genesis 8:21's
+verb, and the weak half of the pair at Genesis 12:3 — not the judicial *ʾārar* of Genesis 3:14, 4:11
+and 9:25, and not the loaded *bārak* the prologue uses four times as a euphemism. **The Bible's most
+famous curse is one of its most carefully limited**, and it is aimed at something that cannot be
+harmed. This is now the lead of both the passage page and [[Curse]].
+
+**2. The hedge. This is the pass's best finding and it got its own page.** The accuser's opening
+complaint at 1:10 is that God has *"made a hedge around him"*; Job's closing question at 3:23 is
+*"why is light given to a man… whom God has hedged in?"* **Same verb (*śûk / sûk*, written with śin
+then samek), same preposition and suffix (*baʿadô*), and these are its only two occurrences in the
+book.** The accuser sees a fence keeping harm out; Job describes a fence keeping him in. **Both want
+it taken down, and they are the only two characters who ask.** Job cannot know he is quoting — he
+was not in the council and nobody ever tells him — so **he has put his finger on the exact mechanism
+of his own story and has it precisely upside down: he complains of a hedge that was in fact removed
+on his behalf.** See [[The Hedge Around Him - Job 1.10 and Job 3.23]].
+
+**3. Chapter 3 is Genesis 1 run backwards, in Genesis 1's own grammar.** *"Let that day be
+darkness"* (3:4) is *yəhî ḥōšek* against *yəhî ʾôr*; 3:5 reverses the division of 1:4; 3:6 attacks
+the calendar function of 1:14; 3:7's barren night answers the fertility blessing; 3:8's Leviathan
+attacks the bounded deep. **What separates it from [[The Flood as Un-Creation]] is that this is an
+un-creation a man *requests* and does not get** — nothing in the chapter happens. **And the scale is
+deliberately mismatched**: the whole vocabulary of Genesis 1, deployed against one date.
+
+**4. Yahweh's whirlwind speeches answer chapter 3, not the lawsuit.** 38:2's *"who is this who
+**darkens** counsel"* is the chapter's own verb turned on the speaker, and it is the first thing God
+says to Job in thirty-five chapters. Then 38:8–10's doors shut on a womb answers 3:10's doors that
+stayed open; 38:12's commanded morning answers 3:9's eyelids of the morning; 38:17's gates of the
+shadow of death answers 3:5; 38:19–20's *"as for darkness, where is its place?"* answers 3:4–6;
+38:21's *"you were born then"* is the speech's one sarcasm and it is about Job's birth; and
+**Leviathan, whom Job asks to have roused at 3:8, appears in exactly one other place in the book —
+chapter 41, where the speeches end on him** — with 41:18 giving back *the eyelids of the morning*
+as his eyes. See [[The Whirlwind Answers Chapter 3]].
+
+**5. The chapter's picture of death is the most attractive in the Hebrew Bible, and it is about
+rank, not oblivion.** 3:13–19 furnishes Sheol without naming it: lying down, quiet, asleep, at rest,
+with kings and counselors and princes on one side and stillborn infants on the other, **and three
+times *there*, each time naming a hierarchy that has stopped working** — the wicked ceasing, the
+weary resting, prisoners at ease, no taskmaster's voice, small and great together, *"the servant is
+free from his master."* **The one place in Scripture where death is commended specifically for
+abolishing slavery**, said by a man who had owned a very great household. **Sheol's administrative
+emptiness, which the Psalms protest, is here the whole appeal.**
+
+**6. *Rest* is the chapter's hidden keyword and the last line takes it away.** *Nûaḥ* three times —
+3:13, 3:17, and then 3:26's *"neither have I rest"*. **The chapter opens a place where rest exists,
+spends seven verses furnishing it, and closes by saying he is not in it.**
+
+**7. 3:25 is the book's only admission of a dread predating the disaster** — *"the thing which I
+fear comes on me"* — which reads back against the *continual* burnt offerings of 1:5. **Eliphaz
+answers it four verses later by telling Job his piety should have been his confidence (4:6)**,
+which is the first of many times the friends reply to something Job did not say.
+
+**8. Nothing in the chapter is addressed to anybody.** God is spoken of in the third person five
+times and to never; the friends are not addressed either. **It is the only substantial speech of
+Job's that is neither prayer nor argument — he is talking to a day** — and the friends answer it as
+though a thesis had been proposed. That mismatch is the engine of the next twenty-two chapters.
+
+### Judgment calls made unattended
+
+- **A new theme page, [[Light and Darkness]].** Job 3 is the wiki's densest text on the pair — five
+  words for darkness in three verses, and then *light* used twice to mean simply *being alive*
+  (3:20, 3:23) — and the anchor it needs, Genesis 1:3–5, has been ingested since the wiki's first
+  pericope with nothing gathering it. The page also picks up Genesis 15:12 and 19:11, 23, and Job
+  10:21–22, 17:12–13, 18:5–6, 19:8, 38:2, 38:19 and 41:18. New page of an existing type, so no
+  `AGENTS.md` change was required.
+- **Four connection pages, not one.** The hedge (finding 2) and the whirlwind (finding 4) are
+  independent and each needed somewhere to be stated in full.
+  [[Let That Day Be Darkness - Job 3 as Counter-Creation]] is separated from
+  [[Light and Darkness]] because the theme page is about the pair across the canon and the
+  connection page is about one chapter's lexical relationship to one other chapter.
+  [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] exists mainly to make an argument the
+  passage page only gestures at: **that Job 3 is a genre and not a breakdown**, which the Jeremiah
+  parallel is the only evidence for.
+- **The Leviathan material was merged into the whirlwind page rather than given its own.** 3:8 and
+  41:1 are the book's only two Leviathans, and 3:9 and 41:18 its only two *eyelids of the morning*;
+  both are instances of the same thing — the whirlwind handing chapter 3 its images back — and split
+  across two pages neither half would have been worth reading.
+- **The wiki declines two standard readings, on the page and here.** (a) **That chapter 3 is the sin
+  the narrator stopped certifying**, the *"didn't sin with his lips"* formula not recurring after
+  2:10. The narrator says nothing and is not shy about verdicts; **the formula's job was to answer
+  the accuser's prediction and the accuser is gone**; and 42:7 commends the man who said all of
+  this. (b) **That chapter 3 is a death wish.** Job asks that a past day be annulled, asks why he
+  did not die at birth, and asks — in the third person, about other people — why the suicidal are
+  kept alive. **He never asks God to kill him and never contemplates killing himself.** The wish
+  does develop (6:8–9 to God, 7:15's *"my soul chooses strangling"*), and chapter 3 is not yet it.
+- **Job 3:8's Leviathan is recorded with both readings and neither adopted** — rhetorical extremity,
+  or live chaos-mythology (Psalm 74:14, Isaiah 27:1) in which rousing the monster is un-creation by
+  another route. The page says reading (2) is what makes the chapter cohere and stops short of
+  asserting it. The *yām*-for-*yôm* emendation is noted and declined for lack of manuscript support.
+- **No new person or place pages.** The chapter introduces nobody and names nowhere. [[Sheol]] took
+  the 3:13–19 material as its longest `## Appears in` entry despite the word not occurring, because
+  **the book's fullest picture of the place does not use its name.**
+- **[[Job's Children]] got an entry recording a silence.** Ten of them died in chapter 1 and the
+  chapter does not mention them; **Job mourns his own birth, not their deaths**, and a lament for
+  the dead would have named them. Same reasoning as the last pass's absence entries.
+- **[[Mourning and Lament]] said Job 3 was "forty-two verses". It is twenty-six.** Corrected.
+
+### Pages created
+
+Passage: [[Let the Day Perish]].
+Theme: [[Light and Darkness]].
+Connections: [[The Hedge Around Him - Job 1.10 and Job 3.23]],
+[[Let That Day Be Darkness - Job 3 as Counter-Creation]],
+[[Cursing the Day of Birth - Job 3 and Jeremiah 20]], [[The Whirlwind Answers Chapter 3]].
+
+### Pages revised
+
+Book: [[Job]] (box checked and linked; `## Structure`'s chapter-3 line now records that he does not
+curse God and addresses nobody; [[Light and Darkness]] added to Key themes).
+People: [[Job (person)]] (new `## Appears in` entry and timeline entry, [[Light and Darkness]] added
+to themes), [[Satan]], [[Job's Children]], [[Job's Wife]], [[Eliphaz the Temanite]].
+Places: [[Sheol]] (`## In Job` and a new `## Appears in` entry), [[Uz]].
+Themes: [[Mourning and Lament]] (plus the verse-count fix), [[Curse]], [[Life and Death]],
+[[Hope]], [[Suffering]], [[Language and Speech]], [[Burial and the Grave]], [[Creation]],
+[[Sabbath]], [[Slavery and Servitude]], [[Wealth and Possessions]], [[Retribution]], [[Prayer]].
+
+Plus [[books/index|Books]], [[people/index|People]], [[places/index|Places]],
+[[themes/index|Themes]], [[connections/index|Connections]] and [[index|the top-level index]].
+
+### Link check
+
+`scripts/link-check.sh` exits 0, baseline 64 — unchanged, since no new book page was created this
+pass. **No links were deliberately left dangling.** Jeremiah, Ecclesiastes, Jonah, Kings, Psalms,
+Lamentations, Isaiah, Amos, Hosea, Proverbs and the New Testament references are given as plain
+scripture citations, since none of those books has been started.
+
+### Findings left for the next lint
+
+- **bible-api.com is unreachable from the scheduled-run container.** `curl` to it returns a 403 at
+  the agent proxy's CONNECT, and the proxy's own status endpoint records the denial, so
+  `scripts/fetch-book.sh` **cannot fetch any new book from this environment**. This pass survived it
+  only because `raw/bible/Job.md` was already present. **The next ingest that reaches a new book —
+  Exodus, when Job finishes — will fail at step 2 unless the network policy is changed or the raw
+  file is added another way.** Worth the user's attention before it blocks a run rather than after.
+- **Consequence for this pass, recorded on the pages themselves**: no WEB text outside Genesis and
+  Job could be verified, and the wiki's rule forbids quoting it from memory. **So Jeremiah 20:14–18
+  is described rather than quoted on
+  [[Cursing the Day of Birth - Job 3 and Jeremiah 20]]**, whose comparison table has a *(quoted)*
+  column and a *(described)* column and a note saying so; Hosea 2:6 on
+  [[The Hedge Around Him - Job 1.10 and Job 3.23]], John 1:5 and Jeremiah 4:23–26 on
+  [[Let That Day Be Darkness - Job 3 as Counter-Creation]], and the whole non-Genesis-and-Job half
+  of [[Light and Darkness]]'s `## Development across Scripture` are the same. **Every one of those
+  is to be replaced with quotation when the books are available**, and the descriptions checked.
+  This is a new class of finding and it will recur on every pass until the fetch works.
+- **[[The Whirlwind Answers Chapter 3]] asserts a relationship to two pericopes that do not yet have
+  passage pages** (Job 38:1–40:5 and 40:6–41:34), on the strength of verses read from the raw text.
+  **Its strongest claim — that the whirlwind's first eight questions track chapter 3's order — is
+  also its most overstatable**, and the page says so and asks to be re-checked when those two are
+  ingested. Same class of debt as the 42:11 verb-pair claim logged last pass, which is still
+  outstanding.
+- **[[Sabbath]] is 53 lines and now carries Job material.** It was written as a Genesis page, its
+  prose sections do not mention Job, and the new *nûaḥ* entry sits in `## Key passages` only. **This
+  is the same defect logged for [[Hospitality]] and [[Strife and Peacemaking]] one entry ago, for
+  [[Integrity]] two ago, and for [[Marriage]] and [[Clean and Unclean]] three ago** — five entries
+  running, now on six pages. It is no longer a stray observation.
+- **[[Light and Darkness]] is the third consecutive new theme page orphaned from its Genesis
+  material.** [[The Creation of the World]], [[The Covenant Between the Pieces]] and
+  [[The Destruction of Sodom and Gomorrah]] all have light/darkness content in their text and no
+  link to the new theme page — exactly as [[Mourning and Lament]] and [[Integrity]] were left. **The
+  retro-linking backlog is now three theme pages deep** and should be done in one pass rather than
+  three.
+- **`wiki/themes/index.md`'s *Key passages* column was appended to rather than rebuilt for the
+  eighth entry running**, and thirteen rows were widened this pass plus one row added. **The
+  [[Life and Death]] row is now 38 links long.** The last entry said this should be the next lint's
+  first job and it was not done; repeating it.
+- **Unchanged and now three entries overdue**: the three friends' pages still do not record that
+  they and the accuser hold the same doctrine from opposite ends; [[The Witness in Heaven]] still
+  cites Job 1:6–12 by reference rather than linking
+  [[The Wager in Heaven and the Four Messengers]]; the whole-book Genesis lint that became due when
+  Genesis completed is still outstanding, as are the stray empty `Exodus.md` at the repository root
+  and the [[The Jordan]] retro-linking.

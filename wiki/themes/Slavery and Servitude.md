@@ -222,6 +222,14 @@ addressing a slave by name and no one else in the story doing so.
   (compare 44:16–17): the dream of 37:7 completes in the one form [[Joseph]] will not accept —
   [[The Deaths of Jacob and Joseph]]
 
+- [[Let the Day Perish]] — Job 3:18–19; **the one place in Scripture where death is commended
+  specifically for abolishing slavery.** *"There the prisoners are at ease together. They don't hear
+  the voice of the taskmaster. The small and the great are there. The servant is free from his
+  master."* The taskmaster (*nōgēś*) is the Exodus word for Israel's overseers in Egypt, and Job
+  reaches for it to describe what the grave has none of. **It is said by a man who had *"a very
+  great household"* of servants** (1:3) and had just lost most of them to raiders and fire in a
+  single afternoon
+
 ## Related themes
 
 - [[Land and Sojourning]] — the other half of Israel's self-description: strangers and slaves

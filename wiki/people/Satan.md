@@ -98,6 +98,14 @@ figure with a will of his own, a kingdom, and an end.
   without naming him (42:11). The accuser's disappearance is not a loose end; it is the condition the
   rest of the book runs under.
 
+- [[Let the Day Perish]] — Job 3:1–26; **gone since 2:7, and refuted in the chapter he never hears.**
+  His prediction, made twice and staked on, was that Job would *"renounce you to your face"* (1:11,
+  2:5). **Chapter 3 is the moment that most resembles its arrival and is not it**: Job curses his
+  birthday, in the third person, with the mild verb, and says nothing to God at all. **No one in the
+  book ever notes the failure**, because no one on the ground knows a prediction was made. Job also
+  quotes him without knowing it — the *hedge* of 1:10 comes back at 3:23 with its meaning inverted;
+  see [[The Hedge Around Him - Job 1.10 and Job 3.23]]
+
 ## Related people
 
 - [[God]] — who raises Job's name before the accuser has mentioned it, grants both permissions, sets

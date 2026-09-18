@@ -93,8 +93,9 @@ speeches; each becomes a linked passage page as it is ingested.
   countries, fail to recognise him, mourn him with the rites for the dead, and sit with him seven
   days in silence, *"for they saw that his grief was very great."* This is the last thing the friends
   do that the book approves.
-- **Job 3** — he breaks the silence by cursing the day of his birth. The poetry begins here, and
-  so does the argument.
+- **Job 3:1–26** — [[Let the Day Perish]]. He breaks the silence by cursing the day of his birth —
+  **his day, not God** — in a speech addressed to no one, and asks not to die but never to have been
+  born. The poetry begins here, and so does the argument.
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
   umpire between us"* at 9:33.
@@ -139,6 +140,18 @@ speeches; each becomes a linked passage page as it is ingested.
   the ground for a week unable to think of anything to say. **His condition is measured entirely in
   other people's reactions to it**, and the measurement is the most reliable one in the book, because
   it is the last thing the friends do before they begin explaining.
+- [[Let the Day Perish]] — Job 3:1–26, **his first words in the poetry and the furthest thing in the
+  book from his last words in the prose.** Nineteen verses after *"shall we receive good at the hand
+  of God, and shall we not receive evil?"* he is asking that his birthday be struck out of the
+  calendar, in the grammar of Genesis 1. **Three things the chapter establishes about him hold for
+  the rest of the book.** He curses **his day and not God**, with the mild verb *qālal*, which is the
+  accuser's prediction failing at the moment it looks fulfilled. **He does not ask to die** — he asks
+  never to have been born, and asks in the third person why the suicidal are kept alive. And he says
+  God has *"hedged"* him in (3:23), **using the accuser's own word from 1:10 with its meaning
+  reversed**, without any possibility of knowing he is quoting; see
+  [[The Hedge Around Him - Job 1.10 and Job 3.23]]. The narrator's formula *"Job didn't sin with his
+  lips"* is not repeated after this chapter, and the wiki reads the silence as the formula's job
+  having ended with the accuser rather than as a verdict.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the
@@ -202,7 +215,11 @@ speeches; each becomes a linked passage page as it is ingested.
   him**, since a confession would buy restoration at the price of a false account of himself.
 - [[Mediation and Advocacy]] — the four legal officers he reaches for, from 9:33 to 19:25.
 - [[Mourning and Lament]] — mourner at 1:20, mourned as though dead at 2:12–13, and the speaker of
-  Scripture's most extreme lament at 3:1–26.
+  Scripture's most extreme lament at 3:1–26; see [[Let the Day Perish]].
+- [[Light and Darkness]] — his native vocabulary. He asks for darkness in five words in three verses
+  (3:4–6), uses *light* to mean *being alive* (3:20, 3:23), calls Sheol *"the land of darkness"*
+  (10:21), says God *"has set darkness in my paths"* (19:8), and is told at 38:2 that what he has
+  darkened is counsel.
 - [[Hope]] — 17:15's *"where then is my hope?"*, asked rather than answered, and 19:10's *"My hope
   he has plucked up like a tree"*, followed fifteen verses later by *I know*.
 - [[Wisdom]] — he is the counter-example the wisdom tradition had to absorb, and the reason

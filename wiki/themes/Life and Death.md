@@ -321,6 +321,16 @@ the rest of the canon.
 - **Genesis 50:20 — *ləhaḥăyōt ʿam-rāb*, *to save many people alive***, said over a coffin; the same
   hiphil the Hebrew midwives get at Exodus 1:17–18 — [[The Deaths of Jacob and Joseph]]
 
+- [[Let the Day Perish]] — Job 3:1–26; **the Bible's most attractive description of death, spoken by
+  a living man who is not asking to die.** The distinction is exact and usually lost. Job asks that
+  he had never been born (3:3–10), that he had died at birth (3:11–19), and — of other people, in
+  the third person — why those who *"long for death"* are kept alive (3:20–22). **He never asks God
+  to kill him and never contemplates killing himself.** What 3:13–19 commends is not extinction but
+  **rest and the end of rank**: *"There the wicked cease from troubling. There the weary are at
+  rest… The small and the great are there. The servant is free from his master."* And the word
+  *light* does duty for *life* twice (3:20, 3:23), so that the complaint is framed as one about an
+  unwanted gift rather than an unbearable state
+
 ## Related themes
 
 - [[Famine and Plenty]] — *"that the land not perish through the famine"*

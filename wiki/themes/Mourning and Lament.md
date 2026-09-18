@@ -13,7 +13,7 @@ the head, the voice is raised, the mourner sits or lies on the ground, food is r
 thing runs for a stated term — most often seven days.
 
 **Lament is the speech half of it**, and it is a distinct act. Mourning is what the body does;
-lament is what the mouth does, and the Bible's laments run from a single cry to the forty-two verses
+lament is what the mouth does, and the Bible's laments run from a single cry to the twenty-six verses
 of Job 3 and the five acrostic poems of Lamentations. **The wiki keeps the two together on one page
 because Job holds them apart so deliberately**: chapter 2 is mourning with no words in it at all, and
 chapter 3 is lament with nothing else.
@@ -69,7 +69,17 @@ accurate estimate of the situation. See [[Seven Days of Silence]] and
 **Then chapter 3 turns mourning into lament**, and the book's second half begins. *"Let the day
 perish in which I was born"* is the rite's speech act pushed past every boundary the rite has: not a
 lament for the dead but a lament that a living man was ever born, and its closest relative in
-Scripture is Jeremiah 20:14–18, which says almost the same thing in almost the same order.
+Scripture is Jeremiah 20:14–18, which says almost the same thing in almost the same order. See
+[[Let the Day Perish]] and [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].
+
+**And the two chapters together are the wiki's clearest statement of the distinction this page is
+built on.** Chapter 2 is the rite with no words in it — torn robes, dust, the ground, a seven-day
+term, and *"no one spoke a word to him."* **Chapter 3 is the words with no rite**: Job tears
+nothing, puts nothing on his head, and performs no gesture at all. **The body has finished and the
+mouth has started**, and the book arranges the seam so the difference cannot be missed. **Note also
+what the lament is not about.** Ten of Job's children died in chapter 1, and chapter 3 does not
+mention them. **He does not mourn the dead here; he mourns that he was ever born to lose them**,
+which is what separates a lament of this kind from the funeral rite it grows out of.
 
 **The rest of the Hebrew Bible fills the pattern out.** Ashes and sackcloth in Esther 4, Jonah 3,
 Daniel 9; dust on the head at Joshua 7:6, 1 Samuel 4:12, 2 Samuel 1:2, Lamentations 2:10; the
@@ -95,6 +105,10 @@ regulating it.
 - [[The Second Test]] — Job 2:8: the ashes as a residence.
 - [[Seven Days of Silence]] — Job 2:12–13: the rite performed for a living man, and the wiki's
   anchor text for the whole pattern.
+- [[Let the Day Perish]] — Job 3:1–26: **the wiki's anchor text for lament as distinct from
+  mourning**, and Scripture's most extreme instance of it.
+- [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] — the birth-curse as a form with conventions,
+  performed twice in the Hebrew Bible and nowhere else.
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16–17, the lament from inside, and Job's
   own sackcloth at 16:15.
 - [[I Know That My Redeemer Lives]] — Job 19:13–20, the catalogue of everyone who has gone.
@@ -110,6 +124,8 @@ regulating it.
   2:11–13 and at their worst four chapters later. See [[Comforters Who Do Not Comfort]].
 - [[Language and Speech]] — the difference between the silent week and chapter 3, which is the whole
   architecture of the book of Job.
+- [[Curse]] — the birth-curse's verb, and how carefully both Job and Jeremiah choose their target.
+- [[Light and Darkness]] — the material Job 3's lament is made out of.
 - [[Hope]] — 1 Thessalonians 4:13's qualifier, and Job 19:25 reached from inside a lament.
 - [[Prayer]] — lament's near neighbour; much of the Psalter is both at once.
 - [[Remembrance]] — what the rite is partly for, and what Bildad threatens to take away at 18:17.

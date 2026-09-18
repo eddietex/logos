@@ -177,6 +177,13 @@ verdicts.
 - **Genesis 50:15, 19–20 — the payment expected and refused**: *wəhāšēb yāšîb*, *he will fully pay us
   back*, answered with *"am I in the place of God?"* — [[The Deaths of Jacob and Joseph]]
 
+- [[Let the Day Perish]] — Job 3:1–26; **the doctrine conspicuously absent from the speech that
+  provokes it.** Job does not argue that he is innocent, does not ask what he has done, does not
+  accuse God of injustice, and makes no claim about how the world is governed. **The doctrine enters
+  the book with Eliphaz at 4:7, not here** — which means the friends spend twenty-two chapters
+  answering a case that had not been made, and forced Job into making it. **They cannot hear a
+  lament as a lament, because their theology has no category for suffering that is not evidence**
+
 ## Related themes
 
 - [[Suffering]] — what the doctrine claims to explain

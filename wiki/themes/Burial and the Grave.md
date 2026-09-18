@@ -158,6 +158,15 @@ assumption is that a body left out is a person left out.**
   Egypt"*, unburied for four hundred years by his own request — same pericope, and
   [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 
+- [[Let the Day Perish]] — Job 3:1–26; **the grave asked for by name, and described at more length
+  than anywhere else in the book.** *"Who long for death, but it doesn't come; and dig for it more
+  than for hidden treasures, who rejoice exceedingly, and are glad, when they can find the grave"*
+  (3:21–22) — *qeber*, and the only place in Scripture where finding a grave is put as a joy.
+  Verses 13–19 furnish it: lying down, quiet, asleep, at rest, **in the company of kings, counselors
+  and princes on one side and stillborn infants on the other**, with prisoners at ease and slaves
+  out from under their masters. **Eleven verses after three men held a funeral over him, Job asks
+  for the grave himself**
+
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into
   the ground in twenty-nine verses, more than any other chapter in the book.** The household's foreign

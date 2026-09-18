@@ -196,6 +196,14 @@ the promise is repeatedly mistaken for.
   precisely what Joseph does in Egypt** (Leviticus 25:23). See
   [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
 
+- [[Let the Day Perish]] — Job 3:14–15; **the rich listed among the dead as company rather than as a
+  contrast.** *"with kings and counselors of the earth, who built up waste places for themselves; or
+  with princes who had gold, who filled their houses with silver."* **The waste places are the
+  point** — what the great built is ruins now, and Job, who had been the greatest man of the east
+  (1:3), names their society as the one he would have preferred to join at birth. Set against
+  3:19's *"the small and the great are there"*, the passage is the wisdom tradition's levelling
+  argument in its bleakest form
+
 ## Related themes
 
 - [[Famine and Plenty]] — where the grain goes, and what a nation eventually pays for it

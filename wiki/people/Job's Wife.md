@@ -55,6 +55,12 @@ omission.
   her until 19:17. Whether the silence is the narrator's economy or a portrait of a household in
   which she has already been left alone, the text does not say.
 
+- [[Let the Day Perish]] — Job 3:1–26; **absent, and her one sentence is answered by the whole
+  chapter without being addressed.** She told him at 2:9 to *renounce God, and die*. **Chapter 3 is
+  twenty-six verses of wanting to be dead with no renunciation anywhere in it** — Job takes the
+  second half of her instruction as far as language can and declines the first entirely, and never
+  refers to her. She is not mentioned again until 19:17
+
 ## Related people
 
 - [[Job (person)]] — who does not call her foolish. *Kədabbēr ʾaḥat hannəbālôt*, *you speak as one

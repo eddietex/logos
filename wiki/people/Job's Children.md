@@ -94,6 +94,13 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
 - [[I Know That My Redeemer Lives]] — 19:17, and the empty place their absence leaves where a
   *gōʾēl* would have to stand.
 
+- [[Let the Day Perish]] — Job 3:1–26, **by a silence.** Ten of them died in chapter 1, and their
+  father's first speech in the poetry does not mention them. **He mourns his own birth and not their
+  deaths** — *"why didn't I die from the womb?"* rather than *why did they?* — which is the sharpest
+  available statement of what the chapter is and is not. **A lament for the dead would have named
+  them.** The nearest the chapter comes is 3:16's *"infants who never saw light"*, and those are
+  hypothetical infants standing in for himself
+
 ## Related people
 
 - [[Job (person)]] — their father, who offers for them before any offence is known and whose worst

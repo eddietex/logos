@@ -134,6 +134,13 @@ is close because you cannot bear to sit in the dark with him.
   God never speaks to, about a departure he is given no date for and will not see —
   [[The Deaths of Jacob and Joseph]]
 
+- [[Let the Day Perish]] — Job 3:1–26; **the floor.** There is no petition in the chapter, no
+  expectation, and no addressee: Job speaks of God in the third person throughout and asks nothing
+  of him. **Everything the book later reaches for — the umpire of 9:33, the witness of 16:19, the
+  Redeemer of 19:25 — is built on ground this chapter cleared completely**, which is why the wiki
+  reads Job's trajectory as ascent rather than collapse. Set against 17:15's *"where then is my
+  hope?"*, which is at least a question addressed to someone
+
 ## Related themes
 
 - [[Suffering]] — the condition hope is asked about from

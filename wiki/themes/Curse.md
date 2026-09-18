@@ -172,6 +172,17 @@ the same verses that put the tree of life back in reach (see
 - **Genesis 50:10 — the mourning for Israel is held on a threshing floor named for a thorn**:
   *ʾāṭād*, the bramble, the plant the ground was cursed to grow at 3:18 —
   [[The Deaths of Jacob and Joseph]]
+- [[Let the Day Perish]] — Job 3:1; **the Bible's most famous curse, and one of its most carefully
+  limited.** The prologue has spent two chapters on a single question — whether Job will *bārak*
+  God, the euphemism used four times (1:5, 1:11, 2:5, 2:9) for a word the book will not print beside
+  the divine name. **At 3:1 Job curses, and the narrator names the target in the same breath: *the
+  day of his birth*.** The verb is *qālal*, to make light of — the mild half of the pair at Genesis
+  12:3 and the verb God used at 8:21 when undertaking not to curse the ground again — **not the
+  judicial *ʾārar* of 3:14, 4:11 and 9:25.** **Job reaches for the weakest curse-word available and
+  aims it at something that cannot be harmed**, and the accuser's prediction fails in the verse that
+  most resembles its fulfilment. Jeremiah does the same thing with the heavy verb and a human
+  target; see [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] and
+  [[Renounce God and Die - The Euphemism and the Accuser's Prediction]]
 
 ## Related themes
 

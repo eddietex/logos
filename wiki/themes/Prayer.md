@@ -152,6 +152,14 @@ already did.
   noun** — *raḥămîm* at 43:14, *nikmərû raḥămāyw* at 43:30 — **and he never finds out.** See
   [[Compassion and Mercy]] and [[Providence]]
 
+- [[Let the Day Perish]] — Job 3:1–26; **by its absence, and the book puts it first.** This is the
+  one substantial speech of Job's that is not addressed to God: he is spoken *about* five times —
+  seeking the day (3:4), giving light (3:20, 3:23), hedging the man in (3:23) — and never spoken
+  *to*. **Job's lament is not yet a prayer**, and the change is traceable: at 6:8–9 the same wish
+  becomes a petition (*"oh that I might have my request"*), and by 10:18 the question of chapter 3
+  is being asked of God directly — *"why, then, have you brought me out of the womb?"* **The book's
+  movement is from a man talking to a day to a man talking to God**
+
 ## Related themes
 
 - [[Mediation and Advocacy]] — praying *for* someone, which in Genesis arrives before praying *for
