@@ -18,6 +18,9 @@ tags: [connection]
 - **Numbers 32:13; Judges 11:26; 1 Kings 6:1** — the other chronological anchors, and they do not all
   agree.
 - **Acts 7:6** — Stephen quotes the round four hundred.
+- **Genesis 47:27** — [[Joseph and the Famine]]. **Where the count starts running in earnest**:
+  *"Israel lived in the land of Egypt … and were fruitful, and multiplied exceedingly."* Exodus 1:7
+  picks the sentence up on the far side of the gap.
 - **Galatians 3:16–17** — Paul counts four hundred thirty years *from the promise to the law*, which
   is a different span from Exodus 12:40's.
 - **Genesis 46:3–4** — [[Jacob's Family Settles in Egypt]]. **15:13–16 gave

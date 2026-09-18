@@ -184,6 +184,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   of Canaan"*, [[Er]] and [[Onan]] who *"died in the land of Canaan"*, a family that has *"come out of
   the land of Canaan"*, and *"the famine is severe in the land of Canaan."* **The land of the promise
   is, in this pericope, the place the family is getting away from**
+- [[Joseph and the Famine]] — Genesis 47:13, 14, 30; **three mentions, and each is a different kind
+  of absence.** It *faints* under the famine alongside [[Egypt]] (47:13); **its money goes into
+  Pharaoh's house with everyone else's** (47:14) — **the one verse in Scripture that records Canaan
+  paying tribute to Egypt, and it is a grain bill**; and at 47:30 it is *"their burying place"*,
+  the thing [[Jacob]] extracts a sworn promise about. **The land of the promise appears in this
+  pericope as a famine zone, a revenue source and a graveyard, and in no other capacity**
 
 ## Related places
 

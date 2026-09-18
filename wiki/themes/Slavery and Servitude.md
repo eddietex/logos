@@ -202,6 +202,15 @@ addressing a slave by name and no one else in the story doing so.
   (44:10), **which is the ruling that makes the chapter work.** And it ends with [[Judah]] asking to
   be that one man: *"let your servant stay instead of the boy, my lord's slave"* (44:33). **The
   vocabulary they feared at 43:18 is the vocabulary he volunteers in**
+- [[Joseph and the Famine]] — Genesis 47:18–26; **the theme turns around and takes the Egyptians.**
+  ***ʿĂbādîm*** **has run in one direction for ten chapters** — a boy sold for twenty pieces of
+  silver (37:28), *"an Egyptian's slave"* (39:1), eleven brothers offering themselves as *"my lord's
+  slaves"* and being refused (44:16). **At 47:19 a nation offers itself to Pharaoh and is accepted**:
+  *"Buy us and our land for bread, and we and our land will be servants to Pharaoh."* **They propose
+  it, they repeat it as gratitude** — *"You have saved our lives! … we will be Pharaoh's servants"*
+  (47:25) — **and the man who was sold buys.** **Exodus 1:11–14 turns the same machinery on Israel**,
+  and Deuteronomy 6:21 gives the phrase back to Israel as its own memory: *"We were Pharaoh's slaves
+  in Egypt."* See [[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]]
 
 ## Related themes
 

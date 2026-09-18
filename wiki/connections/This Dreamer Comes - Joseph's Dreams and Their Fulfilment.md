@@ -53,6 +53,11 @@ tags: [connection]
   is *carried* in Egyptian wagons, is embraced rather than obeisanced to, and blesses the throne**;
   **the eleventh sheaf and the star-dream of 37:9 are never cashed in as a scene.** **The dreams are
   not mentioned in this pericope either** — the fifth running
+- **Genesis 47:31** — [[Joseph and the Famine]]. ***"Israel bowed himself on the bed's head"*** —
+  ***šāḥâ***, **the verb of the sheaves and the stars** (37:7, 9, 10) — **and it is the nearest
+  Genesis ever comes to staging the second dream**: the father bowing in the son's presence, after
+  the son has promised to bury him properly. **The text gives no sign of intending it and the wiki
+  does not claim the identification.** The dreams go unmentioned for the sixth pericope running
 
 ## Analysis
 

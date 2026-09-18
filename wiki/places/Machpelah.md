@@ -84,6 +84,13 @@ recorded here as such.
   buried by both sons — **the cave is not named**, and only 49:31 confirms it — while [[Rachel]] dies
   on the road to Ephrath and is buried where she fell under a pillar, twenty miles short of it.
   **The loved wife is the one matriarch never carried here**
+- [[Joseph and the Famine]] — Genesis 47:29–30; **not named, and unmistakably meant.** *"Please don't
+  bury me in Egypt, but when I sleep with my fathers, you shall carry me out of Egypt, and bury me in
+  their burying place"* — **the only claim on this field that Genesis records being made in advance
+  and under oath.** Every other burial here is reported after the fact; **[[Jacob]] is the only one
+  of the six who has to secure it first**, because he is the only one dying outside [[Canaan]].
+  49:29–31 will name the cave, [[Ephron the Hittite]] and the Hittites explicitly, for the fourth of
+  five times
 
 ## Related places
 

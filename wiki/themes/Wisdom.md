@@ -117,6 +117,13 @@ close to the book's whole point about who may speak for the tradition. See
   *ḥākām* describes both the guild that fails and the man who succeeds. **Wisdom here is entirely
   practical** — a forecast, a levy, a bureaucracy, and seven years of storage that work. See
   [[A Man in Whom Is the Spirit of God]]
+- [[Joseph and the Famine]] — Genesis 47:13–26; ***ḥākām wənābôn*** **was Pharaoh's verdict at
+  41:39, and this is what it looked like over seven years.** **The plan works completely**: nobody
+  starves, the seed is issued, four parts in five are left to the farmer, and the beneficiaries thank
+  him. **It also ends with a free peasantry holding no land and paying a fifth for ever** (47:20,
+  26). **Genesis supplies no adverb for any of it** — **the book that says *"the thing which he did
+  was evil in Yahweh's sight"* about a much smaller matter** (38:10) **reports this transaction, the
+  people's gratitude, and stops.** **The wiki records the silence and does not fill it**
 
 ## Related themes
 

@@ -149,6 +149,15 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   **offers Hebrew shepherds charge of the royal livestock** (47:6) — **the trade he is said to find
   abominable** — **and takes a blessing from a landless old man without recorded reaction** (47:7, 10).
   **The address he hands over is [[Rameses]]**, which Exodus will make a store-city built by slaves
+- [[Joseph and the Famine]] — Genesis 47:13–26; **the clearest description in the Bible of how an
+  absolute monarchy is actually assembled.** A crisis, a state monopoly on grain, four instalments,
+  and a statute: **the money into the king's house** (47:14), **the herds** (47:17), ***"the land
+  became Pharaoh's"*** (47:20), **the people his servants** (47:19, 25), **and a permanent fifth**
+  (47:26). **[[Pharaoh (of Joseph's time)]] is named eleven times in nineteen verses and does not
+  appear, order anything, or say a word** — **the whole transfer is conducted for him by someone
+  else.** **1 Samuel 8:11–18 is this passage in the future tense and at half the rate**, and 1 Kings
+  12:4 is the same demand producing the opposite result. See
+  [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]]
 
 ## Related themes
 

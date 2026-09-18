@@ -355,7 +355,7 @@ about your belongings*** — **leave the furniture.**
 **Two readings and the wiki holds both.** **A generous king**, which is how the chapter reads it. **And
 a shrewd one**: **a vizier whose family is resident in Egypt at the king's invitation and at the king's
 expense is a vizier with no country to go back to**, seven years into a famine that has made Pharaoh
-the owner of Egypt by 47:20 *(not yet ingested)*. **Genesis says only that it pleased him.** See
+the owner of Egypt by 47:20, [[Joseph and the Famine]]. **Genesis says only that it pleased him.** See
 [[Kingship and Empire]] and [[Favor and Grace]].
 
 **Note also who is speaking.** **This is the most Pharaoh has said since 41:44**, and **he speaks to

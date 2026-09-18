@@ -172,6 +172,14 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   states different words (44:10), **halving the penalty and dissolving the solidarity** — **the only
   place in Genesis where anyone edits an oath before it can operate.** See
   [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]]
+- [[Joseph and the Famine]] — Genesis 47:29–31; **the last oath in Genesis before the deathbed
+  chapters, and the second and final use of the hand-under-the-thigh gesture in Scripture.** *"If now
+  I have found favor in your sight, please put your hand under my thigh, and deal kindly and truly
+  with me"* — ***ḥesed we-ʾemet***, **the pair the servant used twice in the only other scene that
+  uses this gesture** (24:27, 49). **[[Jacob]] is not satisfied with *"I will do as you have said"***
+  (47:30): *"He said, 'Swear to me,' and he swore to him"* (47:31). **A man who bargained his whole
+  life takes the promise and then takes it again under oath**, and what he buys with it is a grave in
+  a country he has left. See [[Put Your Hand Under My Thigh]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

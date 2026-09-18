@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - **Genesis 24:2–3, 9** — Abraham and his servant, on the marriage of Isaac — [[A Wife for Isaac]]
-- **Genesis 47:29–31** — Jacob and Joseph, on the burial of Jacob *(not yet ingested)*
+- **Genesis 47:29–31** — Jacob and Joseph, on the burial of Jacob — [[Joseph and the Famine]]
 - Compare **Genesis 21:22–34** — the Bible's first oath between two men, sworn with no gesture but
   with seven ewe lambs — [[The Treaty at Beersheba]]
 - Compare **Genesis 14:22** — *"I have lifted up my hand to Yahweh"*: the ordinary gesture

@@ -201,6 +201,13 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   (which go unmentioned although 45:9's *"God has made me lord of all Egypt"* states their content as
   fact), not the coat. **Joseph recites the past once, in four words, in order to close it**; see
   [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]]
+- [[Joseph and the Famine]] — Genesis 47:26; ***"to this day"*** — **the seventh and last time the
+  narrator of Genesis says it**, after Moab and Ammon (19:37–38), Yahweh Will Provide (22:14),
+  [[Beersheba]] (26:33), the sinew of the hip (32:32) and [[Rachel]]'s pillar (35:20). **Six of the
+  seven explain a name or a custom. The seventh explains a tax**: *"Joseph made it a statute
+  concerning the land of Egypt to this day, that Pharaoh should have the fifth."* **The clause dates
+  the telling rather than the event**, and it is the only thing in Genesis that the narrator reports
+  as still legally in force
 
 ## Related themes
 

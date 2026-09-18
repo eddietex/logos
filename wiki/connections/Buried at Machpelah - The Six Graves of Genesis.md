@@ -12,6 +12,8 @@ tags: [connection]
   [[The Death of Abraham and the Line of Ishmael]]
 - **Genesis 35:27–29** — Isaac dies at Mamre, Kiriath Arba, and is buried by Esau and Jacob — **the
   cave is not named in the notice**, and only 49:31 places him in it. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- **Genesis 47:29–31** — **the request, made under oath to Joseph seventeen years earlier**:
+  *"Please don't bury me in Egypt … bury me in their burying place"* — [[Joseph and the Famine]]
 - **Genesis 49:29–32** — Jacob's burial instructions, which recite the deed and name the occupants
 - **Genesis 50:12–14** — Jacob carried up from Egypt and buried in the field
 - Genesis 35:19–20 — Rachel buried on the way to Ephrath, with a pillar and no purchase; **the one

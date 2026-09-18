@@ -172,6 +172,14 @@ human one innocent.** *"You meant evil"* stands. See
   into Egypt. I will also surely bring you up again."* **The providence of Genesis 45 was
   retrospective; this is prospective, and it is a command.** **After 46:4 the narrator's silence about
   God resumes and is never broken again in Genesis**
+- [[Joseph and the Famine]] — Genesis 47:25; **the doctrine is spoken back to [[Joseph]] by the
+  people who paid for it.** ***"You have saved our lives!"*** — ***heḥĕyitānû***, **the Hiphil of
+  *ḥāyâ*, and it is his own verb**: *"God sent me before you to preserve life"* (45:5), *"to save you
+  alive by a great deliverance"* (45:7), *"to save many people alive"* (50:20). **The Egyptians
+  pronounce Joseph's theology over Joseph, in his vocabulary, in the act of selling themselves into
+  servitude** (47:19, 25). **Genesis records the verdict and neither endorses nor withdraws it**, and
+  offers no adverb at all for the transaction that earned it. See
+  [[God Sent Me Before You - The Verb That Replaces the Sale]]
 
 ## Related themes
 

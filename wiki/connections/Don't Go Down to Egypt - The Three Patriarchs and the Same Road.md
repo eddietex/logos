@@ -13,6 +13,9 @@ tags: [connection]
   Isaac stays and is blessed in the land.
 - **Genesis 46:1–7** — [[Jacob's Family Settles in Egypt]]. A famine; Jacob stops at [[Beersheba]] and
   sacrifices; God answers by night and sends him down with a promise.
+- **Genesis 47:29–31** — [[Joseph and the Famine]]. Seventeen years after the descent God
+  authorised, Jacob puts his son under oath not to leave his body in the country: **the first act by
+  anyone in the family that treats the stay as temporary.**
 - **Isaiah 30:1–2; 31:1** and **Jeremiah 42:13–43:7** — going down to Egypt as the standing prophetic
   image of a people trusting the wrong thing.
 

@@ -115,6 +115,13 @@ is close because you cannot bear to sit in the dark with him.
   carried back as a body (50:13). **The promise is made to both the individual and the nation in the
   same pronoun**, and only one of them collects it. At 46:30 he asks for nothing further: *"Now let me
   die, since I have seen your face"*
+- [[Joseph and the Famine]] — Genesis 47:29–30; **the oath is an act of it.** **A
+  hundred-and-forty-seven-year-old in the richest province of the world's greatest power, holding the
+  only freehold his family has ever been given** (47:11), **makes his son swear to carry him out of
+  it** — **which is only sane if 46:4 is true.** *"I will also surely bring you up again"* was spoken
+  to him at [[Beersheba]]; **47:29 is the first act by anyone in the family that treats the descent
+  as temporary**, and it comes seventeen years after the settling and two verses after the report
+  that they were multiplying exceedingly
 
 ## Related themes
 

@@ -143,6 +143,13 @@ the seventh day a blessing. See [[Sabbath]].
   coaches them to say *keepers of livestock* because *"every shepherd is an abomination to the
   Egyptians"*** (46:34); **they say *shepherds* anyway** (47:3); **and [[Pharaoh (of Joseph's time)]]
   grants [[Goshen]] and then offers them charge of his own herds** (47:6)
+- [[Joseph and the Famine]] — Genesis 47:23–24; **the terms of tenancy, stated in full.** *"Behold,
+  here is seed for you, and you shall sow the land … you shall give a fifth to Pharaoh, and four
+  parts will be your own, for seed of the field, for your food, for them of your households, and for
+  food for your little ones."* **The Egyptians go back to the same fields they owned the year
+  before**, and the provision Joseph itemises for them — households and little ones — **is word for
+  word the provision he gave his own family for nothing** (47:12). **The theme's one Scriptural
+  account of a whole nation's labour being repriced in a single decree**
 
 ## Related themes
 

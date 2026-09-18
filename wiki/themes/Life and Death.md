@@ -292,6 +292,14 @@ the rest of the canon.
   to be subtracted from it** (46:12). ***"Now let me die, since I have seen your face"*** (46:30), and
   ***"few and evil have been the days of the years of my life"*** (47:9) — **a release and a verdict,
   from a man who then lives another seventeen years**
+- [[Joseph and the Famine]] — Genesis 47:15, 19, 29; ***die*** **five times in nineteen verses, and
+  four of them are Egyptian.** *"Give us bread, for why should we die in your presence?"* (47:15);
+  *"Why should we die before your eyes, both we and our land? … Give us seed, that we may live, and
+  not die"* (47:19). **The appeal is not to justice or to mercy but to the vizier's sightline**, and
+  it works twice. **The fifth is [[Jacob]]'s** — *"The time came near that Israel must die"* (47:29),
+  **the narrator's sentence, not his** — **and where a country begs not to die and sells itself, the
+  patriarch takes it as settled and arranges the freight.** **A nation buys life with its liberty in
+  the same paragraph in which an old man spends his last strength on a grave**
 
 ## Related themes
 

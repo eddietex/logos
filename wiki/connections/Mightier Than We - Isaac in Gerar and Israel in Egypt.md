@@ -15,7 +15,8 @@ tags: [connection]
 - **Genesis 12:10–20** — the first descent, the first enrichment in a foreign country, and the first
   escorted expulsion — [[Abram in Egypt]]
 - **Genesis 47:27** — the family in Goshen: *"they got themselves possessions therein, and were
-  fruitful, and multiplied exceedingly"* *(not yet ingested)*
+  fruitful, and multiplied exceedingly"* — [[Joseph and the Famine]]. **Exodus 1:7 repeats the
+  sentence in five verbs, and Exodus 1:9's *"mightier than we"* is the next thing said**
 - **Exodus 12:35–36** — the departure with the Egyptians' silver, gold, and clothing
 
 ## Analysis

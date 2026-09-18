@@ -403,6 +403,16 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   Goshen (47:1), **so that the grant at 47:6 ratifies a fait accompli.** He presents five of the eleven
   (47:2), brings his father in (47:7), settles them in [[Rameses]], **and *nourished* them** (47:12) —
   ***wayəkalkēl***, **the verb of his own promise at 45:11**
+- [[Joseph and the Famine]] — Genesis 47:13–31; **the only extended account in Scripture of how he
+  actually governed, and the one stretch of his life the narrator declines to grade.** He takes
+  Egypt's money into Pharaoh's house (47:14), proposes the livestock himself (47:16), **accepts the
+  people's own offer of their bodies and their fields** (47:19–20), relocates the population to the
+  cities (47:21), **exempts the priesthood he married into** (47:22), issues seed against a permanent
+  fifth (47:23–24) **and makes it statute *to this day*** (47:26). **He is thanked for it** — *"You
+  have saved our lives!"* (47:25), ***heḥĕyitānû***, **his own verb from 45:5 and 50:20 turned back
+  on him by the people who paid their liberty for it.** Then his father asks him to swear, with
+  [[Abraham]]'s gesture, not to bury him in Egypt, **and the vizier of the country he has just bought
+  answers in five words**: *"I will do as you have said"* (47:30)
 
 ## Related people
 

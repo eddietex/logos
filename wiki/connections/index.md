@@ -189,3 +189,9 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |
 | [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]] | typology | Genesis 45:28 · Genesis 46:29–30 · Luke 2:25–32 |
 | [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]] | theological | Genesis 12:2–3 · Genesis 14:18–20 · Genesis 47:7, 10 · Hebrews 7:7 |
+| [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
+| [[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]] | parallel | Genesis 15:13–14 · Genesis 44:9–33 · Genesis 47:18–27 · Exodus 1:8–14 · Exodus 5:6–19 · Deuteronomy 6:21; 15:15; 24:18 |
+| [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |
+| [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] | law-and-narrative | Genesis 23:3–20 · Genesis 47:18–23 · Leviticus 25:8–34, 39–43 · 1 Kings 21:1–4 · Isaiah 5:8 · Micah 2:1–2 |
+| [[The Priests Who Kept Their Land and the Levites Who Got None]] | parallel | Genesis 47:22, 26 · Numbers 18:20–24 · Numbers 35:1–8 · Deuteronomy 10:9; 18:1–2 · Joshua 13:14, 33 · Joshua 21 |
+| [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]] | textual-problem | Genesis 47:31 · Genesis 48:1–2 · 1 Kings 1:47 · Hebrews 11:21 |

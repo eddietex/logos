@@ -815,7 +815,8 @@ now go to Egypt to buy from him**, and **the sheaves of 37:7 bow in 42:6.** See
   *(not yet ingested)*
 - Genesis 46:20 — Manasseh and Ephraim listed among the seventy, with their mother named a third time
   *(not yet ingested)*
-- Genesis 47:13–26 — **the fifth part made permanent**, and the priests exempted *(not yet ingested)*
+- Genesis 47:13–26 — **the fifth part made permanent**, and the priests exempted —
+  [[Joseph and the Famine]]
 - Genesis 48:5, 14, 19 — **the adoption and the crossed hands** *(not yet ingested)*
 - Exodus 1:8 — *"a new king over Egypt, who didn't know Joseph"*
 - Exodus 3:7; 4:31 — *ʿŏnî*, the affliction seen

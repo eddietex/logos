@@ -281,6 +281,13 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   rather than a hope: *"I will also surely bring you up again."* **15:13–16 had given the span and
   withheld the country; this gives the country and adds the way out.** See
   [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]]
+- [[Joseph and the Famine]] — Genesis 47:27; ***"were fruitful, and multiplied exceedingly"***,
+  ***wayyiprû wayyirbû məʾōd*** — **the creation blessing of 1:28 and 9:1 and the patriarchal promise
+  of 17:6, 28:3 and 35:11, reported for the first time in Genesis as an accomplished fact.** **It
+  happens in [[Goshen]]**, which is exactly what 46:3 said: *"there I will make of you a great
+  nation."* **The promise that was about a land is discharged outside it**, and Exodus 1:7 repeats
+  the sentence in five verbs immediately before *"there arose a new king over Egypt, who didn't know
+  Joseph."* See [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]]
 
 ## Related themes
 

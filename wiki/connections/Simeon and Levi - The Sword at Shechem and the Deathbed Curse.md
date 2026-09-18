@@ -20,6 +20,9 @@ tags: [connection]
 - Numbers 26:14 — Simeon the smallest tribe at the second census
 - Numbers 35:1–8; Deuteronomy 18:1–2 — Levi given forty-eight towns and no territory, because
   *"Yahweh is their inheritance"*
+- Genesis 47:22, 26 — **the one priesthood Genesis actually shows**, and it keeps its land while
+  everyone else sells theirs — the mirror image of Levi's portion. See
+  [[The Priests Who Kept Their Land and the Levites Who Got None]]
 
 ## Analysis
 

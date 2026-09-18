@@ -138,6 +138,15 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
   severe in the land of Canaan"* (47:4). **The pericope ends on a ration** — *"Joseph nourished his
   father, his brothers, and all of his father's household, with bread, according to their families"*
   (47:12), ***wayəkalkēl***, **the verb of his promise at 45:11**
+- [[Joseph and the Famine]] — Genesis 47:13–26; **the theme's terminal statement, and the only place
+  in Scripture that shows what a famine administration actually does to a country.** *"There was no
+  bread in all the land; for the famine was very severe"* (47:13) **is the last time Genesis says
+  it.** The seven years announced at 41:30 are collected in four instalments — **the money** (47:14),
+  **the livestock** (47:16–17), **the land and the people** (47:18–21), **and a fifth of every
+  harvest for ever** (47:23–26) — **and what the famine finally produces is not starvation but a
+  change in the ownership of Egypt.** **Nobody dies**; *"You have saved our lives!"* (47:25) is the
+  people's own verdict, **spoken as they become Pharaoh's servants.** See
+  [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]]
 
 ## Related themes
 

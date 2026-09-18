@@ -175,6 +175,15 @@ the promise is repeatedly mistaken for.
   the returned silver, which he calls a ***mišgeh***, an *oversight*, **a noun found nowhere else in the
   Hebrew Bible.** Three sums are in motion and the chapter never balances them: [[Joseph's Steward]]
   calls the first *treasure* from their God and says he was paid anyway
+- [[Joseph and the Famine]] — Genesis 47:13–27; **the pericope is a ledger, and it itemises
+  everything an Egyptian owns as it changes hands**: *money* six times, *livestock* five, *seed*
+  three, *the fifth* twice, and *land* **twenty-three times in nineteen verses.** *"Joseph gathered
+  up all the money that was found in the land of Egypt, and in the land of Canaan … and brought the
+  money into Pharaoh's house"* (47:14) — **not a treasury, the king's household.** **The only
+  property Genesis reports being *acquired* here is Israel's** (47:27), ***wayyēʾāḥăzû***, **from the
+  root of the *ʾăḥuzzâ* at 47:11** — **and the law given to Israel later forbids in its own land
+  precisely what Joseph does in Egypt** (Leviticus 25:23). See
+  [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
 
 ## Related themes
 

@@ -767,6 +767,17 @@ is carried back to Machpelah.
   the king twice, with no content reported** (47:7, 10), **and calls his own hundred and thirty years
   *"few and evil"*** (47:9) — **the only verdict a patriarch passes on his own life in Genesis, and the
   book does not correct it**
+- [[Joseph and the Famine]] — Genesis 47:27–31; **three verses, and he spends them on his funeral.**
+  He lives seventeen years in Egypt and dies at a hundred and forty-seven (47:28) — **the arithmetic
+  he had implicitly forecast to Pharaoh at 47:9**, and **seventeen is also [[Joseph]]'s age when he
+  was sold** (37:2), **a symmetry Genesis states twice and never remarks on.** *"The time came near
+  that Israel must die"* (47:29) **is the narrator's sentence, not his**, and what he does with the
+  time is put his son under oath with [[Abraham]]'s gesture, the hand under the thigh (24:2; 47:29):
+  ***ḥesed we-ʾemet***, *"please don't bury me in Egypt"*, ***"when I sleep with my fathers"*** —
+  **the idiom's first appearance in the Bible** — *"you shall carry me out of Egypt, and bury me in
+  their burying place."* **The man who has just been given a freehold in the best of Egypt** (47:11)
+  **uses his last strength arranging not to lie in it.** Then *"Israel bowed himself on the bed's
+  head"* (47:31), **which the Septuagint and Hebrews 11:21 read as *on the top of his staff***
 
 ## Related people
 

@@ -16,6 +16,10 @@ tags: [connection]
 - Amos 4:4; Malachi 3:8–10 — the prophets on both ends of it
 - Matthew 23:23; Luke 11:42; 18:12 — mint, dill, and cumin
 - Hebrews 7:1–10 — Levi tithed in Abraham's body
+- **Genesis 47:24, 26** — [[Joseph and the Famine]]. **Not a tithe and not religious**, but the only
+  other fixed proportional levy Genesis records: **a fifth of every Egyptian harvest to Pharaoh, in
+  perpetuity** — **twice the rate of the two tenths [[Abraham]] and [[Jacob]] promised God**, and
+  twice the rate 1 Samuel 8:15 warns a king will take
 
 ## Analysis
 

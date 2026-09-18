@@ -89,6 +89,15 @@ something comes down through him. That two-way motion is what the word adds. See
   Kohath's line produces Moses and Aaron.** **Genesis says none of that.** **The only man actually
   called a priest in the pericope is [[Potiphera]], *priest of On*** (46:20), **and his daughter is the
   mother of two tribes of Israel**
+- [[Joseph and the Famine]] — Genesis 47:22, 26; **the only institution in Egypt that comes through
+  the famine owning what it owned before.** *"Only he didn't buy the land of the priests, for the
+  priests had a portion from Pharaoh, and ate their portion which Pharaoh gave them."* ***Ḥōq***,
+  **an allotted due — the Torah's own word for the priests' share of the offerings** (Leviticus 6:18;
+  7:34). **Israel's arrangement is the exact negative**: its priests are fed by the altar *because*
+  they are given no land at all — *"I am your portion and your inheritance among the children of
+  Israel"* (Numbers 18:20). **One priesthood is exempted from a nation's dispossession; the other is
+  dispossessed so the nation is not.** See
+  [[The Priests Who Kept Their Land and the Levites Who Got None]]
 
 ## Related themes
 

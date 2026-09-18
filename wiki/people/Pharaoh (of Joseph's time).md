@@ -100,9 +100,9 @@ He has invited Jacob's household into the best of the land, **unprompted and gen
 [[Joseph Reveals Himself]]). He gives
 Joseph's family [[Goshen]] and makes them royal herdsmen (47:5–6), is blessed by Jacob (47:7–10), and grants
 Joseph leave to carry his father's body back to Canaan with an Egyptian state escort (50:4–9). **The
-land-reform of 47:13–26, in which the whole of Egypt sells itself to the crown for grain, is conducted on
-his behalf by Joseph** and is the one part of his reign a reader might find troubling — and **Genesis
-reports it as competent government.**
+land-reform of [[Joseph and the Famine]], Genesis 47:13–26, in which the whole of Egypt sells itself to
+the crown for grain, is conducted on his behalf by Joseph** and is the one part of his reign a reader
+might find troubling — and **Genesis reports it without an adverb of any kind.**
 
 **Exodus 1:8 is where the arrangement ends**: *"Now there arose a new king over Egypt, who didn't know
 Joseph."* **The Pharaoh of the Exodus is a different figure and gets his own page when Exodus is
@@ -130,7 +130,8 @@ reached.**
   [[Joseph Reveals Himself]]
 - Settles them in Goshen; is blessed by Jacob — Genesis 47:5–10,
   [[Jacob's Family Settles in Egypt]]
-- Acquires all Egypt through Joseph's grain administration — Genesis 47:13–26 *(not yet ingested)*
+- Acquires all Egypt through Joseph's grain administration — Genesis 47:13–26,
+  [[Joseph and the Famine]]
 - Permits the funeral caravan to Canaan — Genesis 50:4–9 *(not yet ingested)*
 - Succeeded by a king *"who didn't know Joseph"* — Exodus 1:8 *(not yet ingested)*
 
@@ -194,6 +195,14 @@ reached.**
   abominable** (46:34). **[[Jacob]] he does not interview**: the old man blesses him on the way in,
   is asked his age, answers with a complaint, and blesses him again on the way out (47:7–10). **Genesis
   assigns him no reaction to any of it**
+- [[Joseph and the Famine]] — Genesis 47:13–26; **named eleven times in nineteen verses and never
+  once on the page.** **The money of Egypt and [[Canaan]] comes into his house** (47:14), **the
+  livestock becomes his** (47:17), ***"the land became Pharaoh's"*** (47:20), **the people become his
+  servants by their own petition** (47:19, 25), **and a fifth of every harvest is his in perpetuity**
+  (47:24, 26). **He orders none of it, is not consulted, and says nothing.** **The king who handed a
+  foreign ex-convict his signet ring in an afternoon** (41:42) **receives a country back for it**,
+  and Genesis gives him no line of thanks, no ceremony, and no reaction. **The one class his vizier
+  leaves untouched is the priesthood, on the ground that Pharaoh was already feeding it** (47:22)
 
 ## Related people
 

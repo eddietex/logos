@@ -42,6 +42,12 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
   (47:4); **and the king grants it** (47:6). **The instrument that secures it is Egyptian contempt for
   shepherds** (46:34). 47:11 settles them in *"the land of [[Rameses]]"*, **which Genesis treats as the
   same country under another name**
+- [[Joseph and the Famine]] — Genesis 47:27; **one mention, and it is the most consequential sentence
+  ever written about the place.** *"Israel lived in the land of Egypt, in the land of Goshen; and
+  they got themselves possessions therein, and were fruitful, and multiplied exceedingly."*
+  **The verse sits immediately after the one in which the Egyptians become Pharaoh's servants**
+  (47:25–26), **and Exodus 1:7 repeats it in five verbs before *"there arose a new king over Egypt,
+  who didn't know Joseph."*** **Goshen is where Israel stops being a household and becomes a nation**
 
 ## Related places
 
@@ -55,7 +61,10 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
 
 - **Israel settles in Goshen and is given it by Pharaoh** — Genesis 46:28–47:6,
   [[Jacob's Family Settles in Egypt]]
-- **Jacob lives there seventeen years and dies there** — Genesis 47:28 *(not yet ingested)*
+- **Israel takes possession there and multiplies exceedingly** — Genesis 47:27,
+  [[Joseph and the Famine]]
+- **Jacob lives there seventeen years, to a hundred and forty-seven** — Genesis 47:28,
+  [[Joseph and the Famine]]
 - **The plagues fall on Egypt and not on Goshen** — Exodus 8:22; 9:26 — *"I will set apart in that day
   the land of Goshen, in which my people dwell, that no swarms of flies shall be there"*
 - **Israel leaves from Rameses, in the same district** — Exodus 12:37; Genesis 47:11 calls the

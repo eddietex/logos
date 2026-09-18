@@ -294,6 +294,13 @@ where that starts, in a sentence about a family that got halfway.
   place.** **Then [[Joseph]] gives them *"a possession"* in Egypt** (47:11), ***ʾăḥuzzâ***, **a word
   Genesis has used only of the cave at [[Machpelah]]**: **the family's first freehold anywhere but a
   grave is in [[Rameses]]**
+- [[Joseph and the Famine]] — Genesis 47:20, 27, 29–30; **two freeholds move in opposite directions
+  in seven verses.** *"The land became Pharaoh's"* (47:20) — **every field in Egypt, in perpetuity**;
+  and *"they got themselves possessions therein"* (47:27), ***wayyēʾāḥăzû bāh***, **Israel taking
+  hold of one.** **Then the head of the household with the new freehold spends his last scene
+  refusing to be buried on it**: *"Please don't bury me in Egypt … bury me in their burying place"*
+  (47:29–30). **The only land this family has ever owned in [[Canaan]] is a tomb, and it is the land
+  that gets the oath.** See [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
 
 ## Related themes
 

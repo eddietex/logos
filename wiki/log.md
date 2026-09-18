@@ -7892,3 +7892,146 @@ Genesis 12:10 pericope is [[Abram in Egypt]].**
   remain.
 
 Genesis stands at 55 / 59 pericopes; the next is *Joseph and the Famine*, Genesis 47:13–31.
+
+## [2026-09-18] ingest | Genesis 47.13-31 — Joseph and the Famine
+
+Unattended run (`/ingest auto`). The book page had the pericope queued as Genesis 47:13–31 and the
+boundary was kept, **although 47:27–31 is a coda rather than famine narrative**. Splitting it would
+leave five verses homeless: 48:1 opens a new scene with a new cast (*"someone said to Joseph,
+'Behold, your father is sick'"*), and 47:27's report of Israel multiplying belongs with the famine it
+survived rather than with the blessing of Ephraim and Manasseh. **Boundary unchanged; the page treats
+47:27 as the hinge between the two halves and says so.**
+
+### The passage page
+
+[[Joseph and the Famine]], `wiki/passages/Genesis/`, built around six findings.
+
+**1. The pericope's structural fact is that 47:26 and 47:27 are adjacent.** *"We will be Pharaoh's
+servants"* and *"Joseph made it a statute"* are immediately followed by *"Israel lived in the land of
+Egypt … and they got themselves possessions therein, and were fruitful, and multiplied exceedingly."*
+**A nation becomes property in one verse and a household becomes a nation in the next, and the same
+man is responsible for both.** **Genesis supplies no connective and no adverb.** The wiki records the
+silence and does not fill it — **and notes that the book is elsewhere willing to say *evil in
+Yahweh's sight*** (38:10) **about a much smaller matter.**
+
+**2. The famine is collected in four instalments and three of them are the people's own idea.**
+Money (47:14–15), livestock (47:16–17, Joseph's proposal), **land and persons** (47:18–21), and a
+permanent fifth of the harvest (47:23–26). ***"Buy us and our land for bread, and we and our land
+will be servants to Pharaoh"*** (47:19) **is spoken by the Egyptians, not imposed on them**, and
+47:25 repeats it as thanks. **Genesis stages the enslavement of a country as a petition.**
+
+**3. The rate is the number every later king in the Bible is measured by.** 41:34 proposed a fifth as
+a seven-year emergency levy on a bumper crop from freeholders; **47:24–26 makes the same fifth
+permanent, on tenants, and calls it statute *to this day*.** **1 Samuel 8:14–17's warning about what
+a king does — fields, flocks, a tenth of the seed, *"and you shall be his servants"* — is Genesis 47
+in the future tense and at half the rate**, and the people of Egypt call theirs salvation. Filed as
+[[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]], with Rehoboam at 1 Kings 12:4 as
+the counter-case.
+
+**4. Leviticus 25:23 forbids, clause by clause, what Joseph does at 47:20.** *"The land shall not be
+sold in perpetuity, for the land is mine"* — **and the reason the law gives for the companion
+prohibition on enslaving an Israelite debtor is the exodus itself**: *"they are my servants, whom I
+brought out of the land of Egypt"* (25:42). **The condition Israel may not be reduced to is, in so
+many words, the condition Genesis 47 reduced Egypt to.** Filed as
+[[The Land Is Mine - Pharaoh's Freehold and the Jubilee]], with Naboth (1 Kings 21:3) as the
+demonstration that the law was understood this way.
+
+**5. The priests' exemption is the exact mirror of Levi's portion.** *"The priests had a portion from
+Pharaoh"* (47:22) — ***ḥōq***, **the Torah's own word for the priests' share of the offerings** —
+**so they never had to sell their fields; Israel's priests are fed by the offerings *because* they
+are given no fields at all** (Numbers 18:20; Joshua 13:14, 33). **One priesthood is exempted from a
+nation's dispossession, the other is dispossessed so that the nation is not.** Filed as
+[[The Priests Who Kept Their Land and the Levites Who Got None]]. **[[Potiphera]] is noted there and
+on the passage page**: the class Joseph exempts is the class he married into, **the reason Genesis
+gives is sufficient without that**, and no motive is alleged.
+
+**6. 47:31's last word is unpointed and the New Testament reads it the other way.** **The consonants
+are מטה**: *miṭṭâ*, a bed, in the Masoretic tradition and the WEB; *maṭṭeh*, a staff, in the
+Septuagint and the Vulgate, **and Hebrews 11:21 quotes the Greek** — *"leaning on the top of his
+staff."* **Neither is a variant in the letters, so no manuscript can settle it.** **Hebrews has also
+moved the gesture from the oath of chapter 47 to the blessing of chapter 48**, which is the epistle's
+normal compression. Filed as
+[[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]].
+
+### Judgment calls made without asking
+
+- **The Egyptians were given no page**, although they are the collective protagonist of 47:13–26 and
+  get **three direct speeches — more than most named characters in Genesis.** **The text treats them
+  as one body and never individuates them**, and a page whose whole content is *"the population of
+  Egypt, which sold itself at 47:19"* duplicates the passage page. They are listed under **People**
+  on it, as is **the priestly class of 47:22**. Reversible if the user wants either.
+- **No new people, place or theme pages were created.** The pericope names only [[Joseph]],
+  [[Pharaoh (of Joseph's time)]] and [[Jacob]], and every theme it touches already had a page.
+  **Six connection pages were created** and that is where the pericope's new material went.
+- **47:21 was left as the WEB has it.** The Masoretic *heʿĕbîr* (*he removed them to the cities*) and
+  the Samaritan/Greek/Latin *heʿĕbid* (*he made them servants*) **differ by one consonant**, and the
+  wiki follows the WEB and records the other reading in the **Notes** without adopting it. **The
+  choice changes nothing substantive**, since 47:19–20 and 47:23 state the purchase of the people
+  outright in every witness.
+- **The seventeen-year symmetry was recorded as arithmetic, not design.** [[Joseph]] is seventeen
+  when sold (37:2); [[Jacob]] lives seventeen years in Egypt (47:28). **Genesis states both and never
+  places them together**, and the wiki declines to make it a doctrine.
+- **[[Joseph]]'s policy was not graded.** Five things are in the text — the plan worked, nobody
+  starved, the people initiated three of four instalments, they thanked him, and a free peasantry
+  ended as tenants at twenty per cent — **and no evaluation is.** The page states all five and stops.
+
+### Pages touched
+
+**Created (7):** the passage page and six connections —
+[[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]],
+[[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]],
+[[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]],
+[[The Land Is Mine - Pharaoh's Freehold and the Jubilee]],
+[[The Priests Who Kept Their Land and the Levites Who Got None]],
+[[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]].
+
+**Revised:** [[Joseph]], [[Jacob]], [[Pharaoh (of Joseph's time)]], [[Potiphera]]; [[Egypt]],
+[[Goshen]], [[Canaan]], [[Machpelah]]; seventeen theme pages ([[Famine and Plenty]],
+[[Slavery and Servitude]], [[Kingship and Empire]], [[Wealth and Possessions]],
+[[Land and Sojourning]], [[Providence]], [[Priesthood]], [[Wisdom]], [[Oaths and Vows]],
+[[Burial and the Grave]], [[Life and Death]], [[Favor and Grace]], [[Work]], [[Covenant]], [[Hope]],
+[[The Nations]], [[Remembrance]]); nine existing connections
+([[Put Your Hand Under My Thigh]], [[Buried at Machpelah - The Six Graves of Genesis]],
+[[Gathered to His People]], [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]],
+[[Mightier Than We - Isaac in Gerar and Israel in Egypt]],
+[[God Sent Me Before You - The Verb That Replaces the Sale]],
+[[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]],
+[[A Stranger and a Foreigner - The Sojourner's Confession]],
+[[Four Hundred Years - The Sojourn and the Exodus]], plus
+[[The Tithe Before the Law]], [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+[[By the Life of Pharaoh - Oaths Sworn by a King]],
+[[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] and
+[[Blessed for His Sake - Laban's House and Potiphar's]]); the passage pages
+[[Jacob's Family Settles in Egypt]], [[Joseph Reveals Himself]] and
+[[Pharaoh's Dreams and Joseph's Rise]]; [[Genesis]], [[books/index|Books]],
+[[people/index|People]], [[places/index|Places]], [[themes/index|Themes]],
+[[connections/index|Connections]] and [[index|the top-level index]].
+
+**Five stale `*(not yet ingested)*` markers pointing at this pericope were resolved**, on
+[[Put Your Hand Under My Thigh]], [[Blessed for His Sake - Laban's House and Potiphar's]],
+[[Joseph Reveals Himself]], [[Pharaoh's Dreams and Joseph's Rise]] and
+[[Pharaoh (of Joseph's time)]], **and one on
+[[Mightier Than We - Isaac in Gerar and Israel in Egypt]]** — six in all.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. **No links were deliberately left dangling.** Genesis 48:1–4, 48:15,
+49:5–7, 49:29–33, 50:5–14, 50:20 and 50:25 are named in prose and dated rather than linked, as are
+[[Machpelah]]'s remaining two burials.
+
+### Findings left for the next lint
+
+- **Unchanged from the last entry**: the stray empty `Exodus.md` at the repository root (`53be57b`);
+  the ***"He made himself strange to them"*** fragment for 42:7 on [[Joseph Sold into Slavery]] and
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]; the stale marker on
+  [[The Tower of Babel]]; the seven older passage pages not retro-linked to [[Sexual Sin]]; the seven
+  plural brothers' missing [[The Second Journey]] entries; the Cyrillic *е* inside *ʾênennû* in
+  `wiki/people/Jacob.md` and `wiki/books/Genesis.md`; the stale markers on
+  [[The Cupbearer and the Baker]] and [[The Nations]].
+- **`wiki/themes/index.md`'s *Key passages* column is still stale for several themes**, for the same
+  reason as before — **this pass appended to the rows rather than rebuilding them**, so the existing
+  gaps (e.g. [[Blessing]] omitting Genesis 42–45) survive. **Rebuilding that column is a lint job,
+  not an ingest one.**
+
+Genesis stands at 56 / 59 pericopes; the next is *Jacob Blesses Ephraim and Manasseh*,
+Genesis 48:1–22.

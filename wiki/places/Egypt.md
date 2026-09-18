@@ -174,6 +174,16 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   on the far side** (46:26–27), **and the family is given a legal possession in [[Rameses]]** (47:11)
   — **the first freehold it has ever held anywhere except a grave.** **Egypt is at its most hospitable
   here**: a king who grants land unasked, offers employment, and takes a blessing from a foreigner
+- [[Joseph and the Famine]] — Genesis 47:13–31; **bought.** Named twelve times in nineteen verses,
+  and the country changes owner inside them: at 47:13 it *faints* under the famine, at 47:14 its
+  money is in Pharaoh's house, at 47:17 its herds are, **at 47:20 *"the land became Pharaoh's"***, at
+  47:21 its population is moved into the towns, and at 47:26 it has a permanent tax code —
+  **a fifth of every harvest, *to this day*.** **The only class untouched is the priesthood**
+  (47:22). **And in the middle of it Israel *"got themselves possessions therein, and were fruitful,
+  and multiplied exceedingly"*** (47:27) — **the creation blessing reported as fact for the first
+  time, in the country that has just sold itself.** **Egypt also becomes, at 47:29–30, the first
+  place a member of this family refuses to be buried in**: *"Please don't bury me in Egypt … you
+  shall carry me out"*
 
 ## Related places
 

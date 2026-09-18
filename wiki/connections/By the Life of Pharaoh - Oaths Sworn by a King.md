@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Genesis 42:15, 16** — Joseph swears twice — [[The Brothers' First Journey to Egypt]]
 - Genesis 24:2–9; 47:29–31 — the patriarchal oath, sworn with a hand under the thigh —
-  [[Put Your Hand Under My Thigh]]
+  [[Put Your Hand Under My Thigh]] and [[Joseph and the Famine]]. **[[Joseph]] swore by the king's
+  life; his father makes him swear by a gesture that has nothing to do with Egypt at all**
 - 1 Samuel 17:55; 20:3; 25:26; 2 Samuel 11:11; 15:21 — the formula in the Israelite monarchy
 - Matthew 5:34–37 — *"don't swear at all"*
 

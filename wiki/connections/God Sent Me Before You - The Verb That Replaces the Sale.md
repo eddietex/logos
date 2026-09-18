@@ -18,6 +18,10 @@ tags: [connection]
   verbs in one verse, in that order**
 - **Acts 7:9–10** — *"The patriarchs, moved with jealousy against Joseph, sold him into Egypt. God was
   with him, and delivered him out of all his afflictions"*
+- **Genesis 47:25** — [[Joseph and the Famine]]. ***"You have saved our lives!"*** —
+  ***heḥĕyitānû***, **the Egyptians using Joseph's own verb of preservation about themselves**, in
+  the act of becoming Pharaoh's servants. **The doctrine he states twice about his own life is
+  stated back to him once, by the people it cost their land**
 
 ## Analysis
 

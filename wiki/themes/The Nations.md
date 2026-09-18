@@ -264,6 +264,13 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   [[Shua's Daughter]], the Canaanite mother of five of the seventy, is not mentioned.** **Genesis
   supplies no rule that accounts for all three.** The household then takes up formal residence inside
   an empire, with a grant of land from its king
+- [[Joseph and the Famine]] — Genesis 47:13–26; **an entire foreign nation, addressed collectively,
+  given three speeches and not one name.** *"Give us bread, for why should we die in your presence?"*
+  (47:15); *"Buy us and our land for bread"* (47:19); *"You have saved our lives!"* (47:25). **It is
+  more direct speech than most named characters in Genesis get**, and **the largest non-Israelite
+  population the book has put on the page since chapter 10** — **on it in order to be bought.**
+  **The one Egyptian group Genesis distinguishes is the priesthood**, exempted at 47:22, **and the
+  one Egyptian it has named is [[Potiphera]], whose daughter is the mother of two tribes of Israel**
 
 ## Related themes
 

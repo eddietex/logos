@@ -153,6 +153,13 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   and *"the fat of the land"* against Joseph's [[Goshen]], wagons by royal command, and *"don't
   concern yourselves about your belongings."* **He has met none of them.** Genesis assigns him no
   motive at all, which is how the book treats every other kindness in the cycle
+- [[Joseph and the Famine]] — Genesis 47:25, 29; ***nimṣāʾ-ḥēn*** **twice in four verses, from
+  opposite ends of the world, and both addressed to [[Joseph]].** *"Let us find favor in the sight of
+  my lord, and we will be Pharaoh's servants"* (47:25) — **a nation, in the act of selling itself**;
+  *"If now I have found favor in your sight, please put your hand under my thigh"* (47:29) — **his own
+  father, asking for a grave.** **The courtesy formula that has run through the book since 18:3 is
+  used by an entire country and by a patriarch in the same paragraph**, to a man who was a slave in
+  that country twenty years earlier
 
 ## Related themes
 

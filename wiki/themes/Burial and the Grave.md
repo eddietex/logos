@@ -120,6 +120,14 @@ assumption is that a body left out is a person left out.**
   down. The same image runs through Deuteronomy 28:26, Goliath's boast at 1 Samuel 17:44, Jeremiah 7:33,
   and **Rizpah's months-long vigil keeping the birds off seven bodies** (2 Samuel 21:10). See
   [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]]
+- [[Joseph and the Famine]] — Genesis 47:29–31; **the theme's pivot from record-keeping to
+  claim-making.** **Every burial in Genesis so far has been reported after the fact; this one is
+  negotiated in advance, under oath, by the man whose body it concerns.** *"Please don't bury me in
+  Egypt, but when I sleep with my fathers, you shall carry me out of Egypt, and bury me in their
+  burying place"* (47:29–30). ***"When I sleep with my fathers"*** — ***wəšākabtî ʿim-ʾăbōtay*** —
+  **is the idiom's first appearance in the Bible**, and it becomes the standing formula for a king's
+  death through Kings and Chronicles. **[[Jacob]] is the only one of [[Machpelah]]'s six occupants
+  who has to secure the place first, because he is the only one dying outside the land**
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

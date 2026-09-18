@@ -17,6 +17,10 @@ tags: [connection]
 - Numbers 20:24, 26; 27:13; Deuteronomy 32:50 — Aaron and Moses, the only two outside Genesis
 - Genesis 15:15 — *"you will go to your fathers in peace"*, the promise the formula answers
 - Judges 2:10; 2 Kings 22:20 — *"gathered to their fathers"*, the later variant
+- **Genesis 47:30** — ***"when I sleep with my fathers"***, ***wəšākabtî ʿim-ʾăbōtay*** — **a
+  different idiom, used here for the first time in the Bible**, and the one Kings and Chronicles
+  adopt for a royal death. **[[Jacob]] uses it two chapters before Genesis reverts to *gathered to
+  his people* for his actual dying** (49:29, 33) — [[Joseph and the Famine]]
 
 ## Analysis
 

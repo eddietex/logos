@@ -77,6 +77,13 @@ land**, and Genesis reports that without comment either. See [[Priesthood]] and
   book never once criticises
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:20; **named a third time, and a third time by his office** —
   *"priest of On."* **He is the only priest named in the pericope, and he is Egyptian**
+- [[Joseph and the Famine]] — Genesis 47:22, 26; **not named, and his caste is the only one in Egypt
+  that keeps its land.** *"Only he didn't buy the land of the priests, for the priests had a portion
+  from Pharaoh."* **The class [[Joseph]] exempts from the land reform is the class he married into**,
+  and **Genesis, which mentioned the marriage three times, says nothing at all about the
+  exemption.** **The reason it does give — a standing royal stipend — is sufficient on its own**,
+  and the wiki records the coincidence without alleging a motive. See
+  [[The Priests Who Kept Their Land and the Levites Who Got None]]
 
 ## Related people
 

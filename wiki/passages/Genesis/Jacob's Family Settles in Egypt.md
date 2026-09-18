@@ -719,8 +719,9 @@ of the register's names were given pages**, on the grounds that Scripture itself
 [[Shaul (son of Simeon)]]. **Note also that *Hezron* and *Bela* and *Elon* each occur twice in
 Genesis with two different referents**, which is why the page created here is qualified.
 
-**Links left for later pericopes.** Joseph's land policy and the sale of Egypt (47:13–26), Jacob's
-oath about his burial (47:29–31), *"the God who has fed me all my life long"* (48:15), the blessings
+**Links left for later pericopes.** Joseph's land policy and the sale of Egypt (47:13–26) and Jacob's
+oath about his burial (47:29–31) **are now [[Joseph and the Famine]]**; *"the God who has fed me all
+my life long"* (48:15), the blessings
 of 49, the death and the carrying-up (49:33–50:14), and *"I will nourish you and your little ones"*
 (50:21) **are named above in prose and marked or dated rather than linked** — their passage pages do
 not exist yet.

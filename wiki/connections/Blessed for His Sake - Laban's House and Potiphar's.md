@@ -19,7 +19,7 @@ tags: [connection]
 - **Genesis 41:53–57** — *"there was famine in all lands, but in all the land of Egypt there was
   bread"*, and *"all countries came into Egypt, to Joseph, to buy grain"*: **the pattern's third and
   largest instance — a household, then an estate, then a kingdom, and through it the whole earth** —
-  [[Pharaoh's Dreams and Joseph's Rise]]. Continued at **47:13–26** *(not yet ingested)*
+  [[Pharaoh's Dreams and Joseph's Rise]]. Continued at **47:13–26**, [[Joseph and the Famine]]
 - **2 Samuel 6:11** — *"Yahweh blessed Obed-Edom and all his house"* while the ark stayed there
 
 ## Analysis
