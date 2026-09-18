@@ -20,6 +20,11 @@ tags: [connection]
 - **Acts 7:6** — Stephen quotes the round four hundred.
 - **Galatians 3:16–17** — Paul counts four hundred thirty years *from the promise to the law*, which
   is a different span from Exodus 12:40's.
+- **Genesis 46:3–4** — [[Jacob's Family Settles in Egypt]]. **15:13–16 gave
+  the span, the fourth generation and the promise of a return, and withheld the country.** **This
+  supplies it and repeats the return in the Exodus's own two verbs**: *"I will go down with you into
+  Egypt. I will also surely bring you up again."* ***Yārad*** and ***ʿālâ***, **in one sentence, spoken
+  at the border, before the descent is complete**
 
 ## Analysis
 

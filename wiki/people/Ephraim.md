@@ -77,7 +77,8 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
   [[Pharaoh's Dreams and Joseph's Rise]]
 - Named *"God has made me fruitful in the land of my affliction"* — Genesis 41:52
-- Listed among the seventy who go down to Egypt — Genesis 46:20 *(not yet ingested)*
+- Listed among the seventy who go down to Egypt — Genesis 46:20,
+  [[Jacob's Family Settles in Egypt]]
 - Adopted by [[Jacob]] as his own son, and named **before** his elder brother — Genesis 48:5 *(not yet
   ingested)*
 - Given the right hand and the greater blessing over Joseph's objection — Genesis 48:13–20 *(not yet
@@ -89,6 +90,9 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
   of plenty, and the one whose name carries the chapter's sting.** The naming speech uses **the creation
   and covenant verb *pārâ*** of two half-Egyptian children, and **calls the country that made his father
   its governor *the land of my affliction*** — a word whose root runs straight to Exodus 3:7
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:20, 27; **one of the two *"sons of Joseph, who were born to him
+  in Egypt"*** — counted into the seventy and out of the sixty-six. **Genesis names [[Manasseh]] first
+  here, as it did at 41:51–52**, and the order will be reversed by a pair of crossed hands at 48:14
 
 ## Related people
 

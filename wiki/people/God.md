@@ -1491,6 +1491,13 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   testimony that the book neither confirms nor disputes.** See [[Providence]],
   [[God Sent Me Before You - The Verb That Replaces the Sale]] and
   [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:2–4; **the only divine speech in the whole Joseph cycle**, three verses
+  long, at [[Beersheba]], at night. **He identifies himself as *"the God of your father"*** — [[Isaac]],
+  the one patriarch forbidden to go down to Egypt — **calls [[Jacob]] by the old name twice in a verse
+  that opens *"God spoke to Israel"***, and says four things: *don't be afraid*, *there I will make of
+  you a great nation*, *I will go down with you… I will also surely bring you up again*, and *Joseph
+  will close your eyes*. **After 46:4 the narratorial silence that began at 39:23 resumes and is never
+  broken again in Genesis**
 
 ## Related people
 

@@ -47,7 +47,8 @@ ground Jesus' ministry begins on.
   [[The Birth of Jacob's Children]]
 - Listed among the twelve, last of [[Leah]]'s six sons — Genesis 35:23,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Three sons at the descent into Egypt — Genesis 46:14 *(not yet ingested)*
+- Three sons at the descent into Egypt — Genesis 46:14,
+  [[Jacob's Family Settles in Egypt]]
 - Blessed at Jacob's deathbed; *"the haven of the sea"* — Genesis 49:13 *(not yet ingested)*
 - Judges 5:14, 18 — the tribe that jeopardized its life on the heights
 - Isaiah 9:1; Matthew 4:13–16 — Zebulun and Naphtali, contempt and then a great light
@@ -85,6 +86,9 @@ ground Jesus' ministry begins on.
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:14; **three sons: Sered, Elon and Jahleel.** **His Elon is not
+  [[Elon the Hittite]]**, [[Esau]]'s father-in-law — one of three names in this register that occur
+  twice in Genesis with different referents
 
 ## Related people
 

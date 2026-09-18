@@ -165,6 +165,13 @@ human one innocent.** *"You meant evil"* stands. See
   is real, the cup is not evidence of it, and the agent is a brother rather than a court.** The
   narrator, silent about God since 39:23, **adds nothing.** Genesis 44 is the book's cleanest case of
   a true doctrine derived from a false premise
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:2–4; **the theme's only direct divine statement in the Joseph
+  cycle.** Where 45:5–8 gave the doctrine as [[Joseph]]'s testimony, **this gives it as God's own
+  speech** — and **what it authorises is the descent into the country of the bondage**: *"Don't be
+  afraid to go down into Egypt, for there I will make of you a great nation. I will go down with you
+  into Egypt. I will also surely bring you up again."* **The providence of Genesis 45 was
+  retrospective; this is prospective, and it is a command.** **After 46:4 the narrator's silence about
+  God resumes and is never broken again in Genesis**
 
 ## Related themes
 

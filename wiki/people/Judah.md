@@ -272,6 +272,12 @@ This page grows as those pericopes arrive; what follows is the shape of it.
   is never carried out. **Genesis gives him no line, no reaction and no acknowledgement**, and the
   surety of 43:9 is discharged without the word being used. See
   [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:12, 28; **the family sends him ahead**, *"to show the way before him
+  to Goshen"* (46:28) — ***ləhôrōt***, from the root behind *tôrâ* — **which is the household's own
+  verdict on what the man who proposed the sale at 37:26 has become.** **His branch of the register runs
+  a generation deeper than any other** (46:12), through [[Perez]] to [[Hezron (son of Perez)]] and
+  [[Hamul]], **and it is the only branch that stops to report deaths**: *"but Er and Onan died in the
+  land of Canaan"*
 
 ## Related people
 

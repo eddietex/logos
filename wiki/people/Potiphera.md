@@ -63,7 +63,8 @@ land**, and Genesis reports that without comment either. See [[Priesthood]] and
 - His daughter [[Asenath]] given to Joseph by Pharaoh — Genesis 41:45,
   [[Pharaoh's Dreams and Joseph's Rise]]
 - Named again as his grandsons are born — Genesis 41:50
-- Named a third and last time in the roster of the seventy — Genesis 46:20 *(not yet ingested)*
+- Named a third and last time in the roster of the seventy — Genesis 46:20,
+  [[Jacob's Family Settles in Egypt]]
 - The priests of Egypt exempted from the land reform his son-in-law administers — Genesis 47:22, 26
   *(not yet ingested)*
 
@@ -74,6 +75,8 @@ land**, and Genesis reports that without comment either. See [[Priesthood]] and
   and the only one Genesis makes a patriarch's relative. **The text neither defends the connection nor
   apologises for it**, and the son-in-law who marries into his house is the one figure in Genesis the
   book never once criticises
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:20; **named a third time, and a third time by his office** —
+  *"priest of On."* **He is the only priest named in the pericope, and he is Egyptian**
 
 ## Related people
 

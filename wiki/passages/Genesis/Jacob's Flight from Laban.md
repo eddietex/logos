@@ -808,7 +808,8 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   ingested)*.
 - Genesis 42:7 — Joseph *made himself strange*, from the root of *nokriyyôt* at 31:15 *(not yet
   ingested)*.
-- Genesis 46:1 — the next *zebaḥ*, offered at Beersheba on the way down to Egypt *(not yet ingested)*.
+- Genesis 46:1 — the next *zebaḥ*, offered at Beersheba on the way down to Egypt,
+  [[Jacob's Family Settles in Egypt]].
 - Exodus 3:7 — *"I have surely seen the affliction of my people"*, the ***ʿŏnî*** of 31:42.
 - Exodus 3:21–22; 12:35–36 — *"you shall not go empty"*, and the plundering of Egypt.
 - Exodus 14:8–9 — the pursuit.

@@ -14,6 +14,11 @@ tags: [connection]
 - **1 Chronicles 2:3–5** — Judah's line restated, with *Bath-shua the Canaanitess* and Er's verdict
 - **Matthew 1:3** — *"Judah became the father of Perez and Zerah by Tamar"*
 - **Luke 3:33** — Perez in the other genealogy, with no woman named
+- **Genesis 46:12** — [[Jacob's Family Settles in Egypt]].
+  **The first list in Scripture to carry [[Perez]]'s sons**: *"The sons of Perez were Hezron and
+  Hamul."* **Ruth 4:18 begins its genealogy to David from exactly this point**, and
+  [[Hezron (son of Perez)]] is the second name in it. **[[Tamar]] is not mentioned in the register**,
+  and her five stepsons and sons are counted into the seventy with [[Er]] and [[Onan]] struck off
 
 ## Analysis
 

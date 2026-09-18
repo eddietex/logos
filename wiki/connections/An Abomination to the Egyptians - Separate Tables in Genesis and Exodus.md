@@ -10,7 +10,8 @@ tags: [connection]
 - **Genesis 43:32** — [[The Second Journey]]; *"because the Egyptians don't eat bread with the
   Hebrews, for that is an abomination to the Egyptians"* — ***tôʿēbâ***, **the word's first
   occurrence in Scripture**
-- **Genesis 46:31–34** *(not yet ingested)* — *"every shepherd is an abomination to the Egyptians"*
+- **Genesis 46:31–34** — [[Jacob's Family Settles in Egypt]]. *"every shepherd is an abomination to
+  the Egyptians"*
 - **Exodus 8:26** — *"we shall sacrifice the abomination of the Egyptians before their eyes"*
 - **Leviticus 18:22–30; Deuteronomy 7:25–26; 14:3** — the word turned round
 - **Genesis 39:14, 17; 40:15; 41:12** — *"Hebrew"* as the Egyptians' word for Joseph
@@ -61,6 +62,14 @@ is being described, in its own book, in the vocabulary of the people who will en
 a distance**, so that Pharaoh will settle them in Goshen — **separate land on the strength of the same
 revulsion that produced separate tables.** The prejudice of 43:32 becomes, three chapters later,
 **the instrument by which Israel is given a territory of its own inside Egypt.**
+
+**And the brothers do not use the script.** **Joseph's wording is *"keepers of livestock"***
+(***ʾanšê miqneh***, 46:34); **what they actually say to Pharaoh is *"Your servants are shepherds,
+both we, and our fathers"*** (47:3) — **the very word the coaching was built to avoid.** They then add
+a request Joseph never gave them: *"Now therefore, please let your servants dwell in the land of
+Goshen"* (47:4). **It works anyway** (47:6), **which is either the plan succeeding through the blunt
+version or the plan having been unnecessary.** **Genesis reports the discrepancy and does not comment
+on it**, exactly as it declines to comment on the clause at 46:34 itself.
 
 **This is the mechanism Exodus depends on.** A family of seventy that assimilates does not come out
 four hundred years later as a nation. **Genesis names the thing that keeps them distinct, and it is

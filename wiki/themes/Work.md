@@ -138,6 +138,11 @@ the seventh day a blessing. See [[Sabbath]].
   the sand of the sea, very much, **until he stopped counting**"* (41:49). **The proof that the
   interpretation was true is seven years of successful logistics**, not a sign; **the food was never
   multiplied, it was stored.** See [[Famine and Plenty]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:32–34; 47:3–6; ***"What is your occupation?"*** **The family's trade
+  is simultaneously the thing that wins it land and the thing that makes it untouchable.** **[[Joseph]]
+  coaches them to say *keepers of livestock* because *"every shepherd is an abomination to the
+  Egyptians"*** (46:34); **they say *shepherds* anyway** (47:3); **and [[Pharaoh (of Joseph's time)]]
+  grants [[Goshen]] and then offers them charge of his own herds** (47:6)
 
 ## Related themes
 

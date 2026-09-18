@@ -131,6 +131,11 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   Abraham argues from what God has already done to what he will do. And 24:21, 49 — the servant asks
   for a sign, refuses to conclude anything until it has finished happening, and builds a way of being
   told no into his own request: *"that I may turn to the right hand, or to the left"*
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:1–5; **[[Jacob]] sacrifices and waits for an answer before crossing
+  a border he has already announced he is crossing** (45:28). **The obedience is real and it is also
+  belated**, and Genesis reports the sequence without comment. **What he is given is not a reason but a
+  companion** — *"I will go down with you into Egypt"* — **and the thing he acts on is a promise about
+  a return he will not live to see**
 
 ## Related themes
 

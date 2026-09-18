@@ -48,6 +48,11 @@ tags: [connection]
   over us?"* (37:8). **[[Joseph]] does not mention the dreams; the brothers do not mention them; the
   narrator does not mention them** — for the fourth consecutive pericope, and this time in the chapter
   where the concealment ends and there is nothing left to hide
+- **Genesis 46:29–47:12** — [[Jacob's Family Settles in Egypt]].
+  **The sun and the moon arrive in Egypt and Genesis does not stage the bow.** **[[Jacob]] comes down,
+  is *carried* in Egyptian wagons, is embraced rather than obeisanced to, and blesses the throne**;
+  **the eleventh sheaf and the star-dream of 37:9 are never cashed in as a scene.** **The dreams are
+  not mentioned in this pericope either** — the fifth running
 
 ## Analysis
 

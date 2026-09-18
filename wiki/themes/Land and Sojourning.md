@@ -287,6 +287,13 @@ where that starts, in a sentence about a family that got halfway.
   their belongings behind (45:18, 20). **A household called out of Ur and promised Canaan is invited to
   abandon its possessions and move to Egypt**, and Genesis lets the whole chapter pass without a word
   about the promise; **that waits for 46:2–4**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:3–4; 47:9, 11; **the pericope where the covenant
+  family leaves the land of the promise with God's explicit permission.** **[[Jacob]] calls his own
+  hundred and thirty years *"my pilgrimage"*** — ***məgûray***, the noun Genesis uses for the
+  patriarchs' whole tenure in Canaan (17:8; 28:4; 37:1) — **and applies it to a lifespan rather than a
+  place.** **Then [[Joseph]] gives them *"a possession"* in Egypt** (47:11), ***ʾăḥuzzâ***, **a word
+  Genesis has used only of the cave at [[Machpelah]]**: **the family's first freehold anywhere but a
+  grave is in [[Rameses]]**
 
 ## Related themes
 

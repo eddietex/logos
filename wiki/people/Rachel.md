@@ -264,6 +264,11 @@ over the killing of the infants at Bethlehem. See
   the ten get one garment each** (45:22). **The preference that killed the cycle at 37:3 is performed
   once more in the chapter that ends it, by its victim, on her surviving son** — and Genesis passes it
   without a word. See [[Five Changes of Clothing - The Coat Given Again]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:19–22; ***"the sons of Rachel, Jacob's wife."*** **She has been
+  dead since 35:19 and she is the only one of the four mothers the register calls a wife.** **[[Leah]],
+  [[Zilpah]] and [[Bilhah]] get a provenance instead** — *whom Laban gave* — **so the favouritism that
+  drove chapter 37 is still operating inside the sentence structure of a genealogy.** Her line is
+  fourteen: [[Joseph]] with [[Manasseh]] and [[Ephraim]], and [[Benjamin]] with ten sons
 
 ## Related people
 

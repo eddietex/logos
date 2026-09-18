@@ -76,7 +76,8 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
   [[Pharaoh's Dreams and Joseph's Rise]]
 - Named *"God has made me forget all my toil, and all my father's house"* — Genesis 41:51
-- Listed among the seventy who go down to Egypt — Genesis 46:20 *(not yet ingested)*
+- Listed among the seventy who go down to Egypt — Genesis 46:20,
+  [[Jacob's Family Settles in Egypt]]
 - Adopted by [[Jacob]] as his own son, *"even as Reuben and Simeon"* — Genesis 48:5 *(not yet ingested)*
 - Passed over for the right hand; *"his younger brother will be greater than he"* — Genesis 48:13–20
   *(not yet ingested)*
@@ -87,6 +88,10 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
   and named for what that power cost.** The speech is **one of only two Joseph makes in the chapter that
   are about himself**, and both credit God. **He is called *the firstborn* in the verse that names him**,
   which is the designation chapter 48 exists to reverse
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:20, 27; **counted into the seventy from the far side of the
+  border.** He and [[Ephraim]] *"were born to him in Egypt"*, **so they are among the seventy without
+  being among the sixty-six who travelled** (46:26–27). **The register calls them [[Joseph]]'s sons;
+  [[Jacob]] will call them his own at 48:5**
 
 ## Related people
 

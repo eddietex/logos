@@ -395,6 +395,14 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   clothing and three hundred pieces of silver in front of ten men who get one garment each** (45:22),
   **which is 37:3 performed by the man it was performed on**, and tells them not to quarrel on the
   road. **Genesis reports all of it and comments on none of it**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:28–47:12; **he stage-manages the arrival and never consults anyone
+  about it.** He harnesses his own chariot, meets his father in [[Goshen]], **and weeps on his neck *a
+  good while*** (46:29) — the fifth and longest of his seven weepings — **and then immediately starts
+  briefing his brothers on what to tell the king** (46:31–34). **He edits his own script between the
+  rehearsal and the delivery**, dropping the word *shepherds* and adding that the family is already in
+  Goshen (47:1), **so that the grant at 47:6 ratifies a fait accompli.** He presents five of the eleven
+  (47:2), brings his father in (47:7), settles them in [[Rameses]], **and *nourished* them** (47:12) —
+  ***wayəkalkēl***, **the verb of his own promise at 45:11**
 
 ## Related people
 

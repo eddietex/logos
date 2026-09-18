@@ -19,6 +19,12 @@ tags: [connection]
 - **1 Peter 2:11** — *"Beloved, I beg you as foreigners and pilgrims, to abstain from fleshly
   lusts."*
 - Acts 7:5 — *"He gave him no inheritance in it, no, not so much as to set his foot on."*
+- **Genesis 47:9** — [[Jacob's Family Settles in Egypt]]. ***"The
+  days of the years of my pilgrimage are one hundred thirty years."*** ***Məgûray*** — **the noun this
+  whole theme is built on, and [[Jacob]] applies it to a lifespan rather than to a piece of land.**
+  **Where [[Abraham]] called himself *"a stranger and a foreigner"* in order to buy a grave** (23:4),
+  **Jacob uses the word to a foreign king in answer to a question about his age**, and adds *"few and
+  evil"*
 
 ## Analysis
 

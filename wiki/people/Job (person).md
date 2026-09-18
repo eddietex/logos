@@ -126,6 +126,10 @@ speeches; each becomes a linked passage page as it is ingested.
 - [[The Binding of Isaac]] — not in the chapter, and its closest structural relative: Genesis 22 and
   Job 1–2 are the Bible's two narratives in which the reader is told the test and the man is not, and
   *"you fear God"* is said of both men.
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:13 *(by exclusion)*; **the WEB spells [[Issachar]]'s third
+  son *Iob*, and he is not this man.** The name there is *yôb* (Numbers 26:24 reads *Jashub*); **the
+  Job of the book is *ʾiyyôb*, a different word.** **This is the second false lead the wiki has had to
+  disarm around the name**, after the Septuagint's identification of [[Jobab]] with Job at 36:33
 
 ## Related people
 

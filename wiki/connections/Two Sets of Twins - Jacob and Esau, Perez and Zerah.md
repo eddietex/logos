@@ -13,6 +13,11 @@ tags: [connection]
 - **Genesis 25:29–34; 27:1–40** — how the first reversal was completed — [[The Stolen Blessing]]
 - **Genesis 48:13–20** — Jacob crosses his hands over Ephraim and Manasseh *(not yet ingested)*
 - **Malachi 1:2–3; Romans 9:10–13** — what the first pair became an argument for
+- **Genesis 46:12** — [[Jacob's Family Settles in Egypt]]. **Both twins
+  are in the register and only one of them has sons listed.** [[Perez]] is given
+  [[Hezron (son of Perez)]] and [[Hamul]]; **[[Zerah]], who put out the hand first, is given none** —
+  **the last word
+  the book has on a birth order that was decided twice**
 
 ## Analysis
 

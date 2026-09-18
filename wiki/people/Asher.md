@@ -45,7 +45,8 @@ named in the New Testament as a living identity.**
   [[The Birth of Jacob's Children]]
 - Listed among the twelve, last of [[Zilpah]]'s two sons — Genesis 35:26,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Four sons and a daughter, Serah, at the descent into Egypt — Genesis 46:17 *(not yet ingested)*
+- Four sons and a daughter, Serah, at the descent into Egypt — Genesis 46:17,
+  [[Jacob's Family Settles in Egypt]]
 - Blessed at Jacob's deathbed; *"his food will be rich"* — Genesis 49:20 *(not yet ingested)*
 - Deuteronomy 33:24–25; Joshua 19:24–31; Judges 1:31–32; 5:17 — the oil, the coast, and the tribe that
   stayed at the harbours
@@ -88,6 +89,10 @@ named in the New Testament as a living identity.**
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:17; **four sons, two grandsons, and a daughter.** *"Serah their
+  sister"* — **[[Serah]] is the only granddaughter named anywhere in the register of seventy**, and
+  **Scripture never says why**; it names her twice more (Numbers 26:46; 1 Chronicles 7:30) in lists
+  that had no need of her
 
 ## Related people
 

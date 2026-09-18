@@ -169,6 +169,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   the family will *come down* (45:9) and the brothers *go up out of Egypt* (45:25). **This is the
   friendliest Egypt ever is to Israel** — a king commanding wagons for a foreign household he has not
   met — **and the address he is inviting them to is [[Goshen]]**, which Exodus will open in
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:1–47:12; **entered to stay.** Named eleven times in the pericope.
+  **God authorises the descent** (46:3–4), **sixty-six people cross the border and seventy are counted
+  on the far side** (46:26–27), **and the family is given a legal possession in [[Rameses]]** (47:11)
+  — **the first freehold it has ever held anywhere except a grave.** **Egypt is at its most hospitable
+  here**: a king who grants land unasked, offers employment, and takes a blessing from a foreigner
 
 ## Related places
 

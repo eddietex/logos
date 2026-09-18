@@ -36,6 +36,11 @@ tags: [connection]
   neck and the reciprocal weeping (45:14, **the only act Genesis records Benjamin performing**), and the
   other ten get a kiss and are wept *on* (45:15). **The formula is performed on every damaged
   relationship in the story, but not equally**
+- **Genesis 46:29** —
+  [[Jacob's Family Settles in Egypt]]. **The idiom's third occurrence in Genesis**, after 33:4 and 45:14: *"He presented himself to
+  him, and fell on his neck, and wept on his neck a good while."* **It is the only one of the three
+  that measures the weeping**, and **as in the other two only one of the pair is said to weep** —
+  **Genesis does not say [[Jacob]] wept.** He speaks instead, and what he says is *"Now let me die"*
 
 ## Analysis
 

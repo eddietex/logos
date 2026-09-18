@@ -133,6 +133,11 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
   the land"* (45:18), twenty loaded donkeys (45:23) and a promise of maintenance — ***wəkilkaltî***,
   *"there I will nourish you"* (45:11). **The famine that emptied Canaan is what moves Israel into
   Egypt**
+- [[Jacob's Family Settles in Egypt]] — Genesis 47:4, 12; **the famine is still the engine and it surfaces
+  in the brothers' own mouths**: *"there is no pasture for your servants' flocks. For the famine is
+  severe in the land of Canaan"* (47:4). **The pericope ends on a ration** — *"Joseph nourished his
+  father, his brothers, and all of his father's household, with bread, according to their families"*
+  (47:12), ***wayəkalkēl***, **the verb of his promise at 45:11**
 
 ## Related themes
 

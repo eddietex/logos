@@ -144,6 +144,11 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   hospitality**: the king above him raises every term (45:18–20), and the brothers' report home names
   the rank before anything else, *"he is ruler over all the land of Egypt"* (45:26). **This is the
   friendliest Egypt ever is to Israel, and Exodus 1:8 is written against it**
+- [[Jacob's Family Settles in Egypt]] — Genesis 47:1–11; **the family meets the throne, and Egypt is as
+  hospitable here as it will ever be.** [[Pharaoh (of Joseph's time)]] grants [[Goshen]] unasked,
+  **offers Hebrew shepherds charge of the royal livestock** (47:6) — **the trade he is said to find
+  abominable** — **and takes a blessing from a landless old man without recorded reaction** (47:7, 10).
+  **The address he hands over is [[Rameses]]**, which Exodus will make a store-city built by slaves
 
 ## Related themes
 

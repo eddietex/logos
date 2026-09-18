@@ -152,6 +152,10 @@ Paul, who carries Saul's name.
   gave for him at 43:9 and called in at 44:32 is discharged in this chapter without being mentioned**,
   and Benjamin, who has now been the object of a death oath, two slavery sentences, an embrace and a
   fortune, **has still not spoken**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:19–21; **ten sons — Bela, Becher, Ashbel, Gera, Naaman, Ehi,
+  Rosh, Muppim, Huppim and Ard — more than any of his brothers**, from the man the last three chapters
+  have treated as a boy who needs a guarantor. **Genesis says nothing about it**, and **as everywhere
+  else in the cycle he does not speak.** His Bela is not [[Bela (son of Beor)]] of Edom
 
 ## Related people
 

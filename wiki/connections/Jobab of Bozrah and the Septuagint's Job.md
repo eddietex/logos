@@ -15,6 +15,11 @@ tags: [connection]
 - **Job 2:11** — *"**Eliphaz the Temanite**, Bildad the Shuhite, and Zophar the Naamathite"*
 - **Lamentations 4:21** — *"daughter of Edom, that dwells in the land of Uz"*
 - **Septuagint, Job 42:17b–e** — the translators' appendix, identifying Job with Jobab
+- **Genesis 46:13** — [[Jacob's Family Settles in Egypt]]; **a second false lead
+  around the same name, and the wiki disarms it.** **The WEB spells [[Issachar]]'s third son *Iob***,
+  which looks like *Job* and is not: the name is *yôb*, read *Jashub* at Numbers 26:24, **while
+  [[Job (person)]] is *ʾiyyôb*.** **Where 36:33 required the Septuagint to make the identification, this
+  one needs only an English transcription**
 
 ## Analysis
 

@@ -183,6 +183,11 @@ five times**, and each is a covenant hinge.
   covenant verb of 17:6** — spoken over two half-Egyptian sons in *"the land of my affliction"*. **Two
   of the three are etymologised in the verse and the Egyptian one is not**, which is the chapter's whole
   attitude to Egyptian words in miniature
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:8–27; **seventy names, and the listing is the whole
+  method.** ***"These are the names of the children of Israel"*** (46:8) **is the sentence Exodus 1:1
+  repeats and takes its Hebrew title, *Šəmôt*, from.** **The wives present are named collectively and
+  counted out** (46:7, 26); **one granddaughter, [[Serah]], is named and nothing is said about her**;
+  **[[Rachel]], eleven chapters dead, is the only mother called *wife***
 
 ## Related themes
 

@@ -20,6 +20,11 @@ tags: [connection]
   sends the brothers home with the boy among them**, which is exactly what he asked for, **and Judah is
   not named anywhere in Genesis 45.** The guarantor is released not by paying but because the creditor
   turns out to be his brother
+- **Genesis
+  46:28** — [[Jacob's Family Settles in Egypt]]. **The pledge is long discharged and the standing it produced remains.** *"He sent
+  Judah before him to Joseph, to show the way before him to Goshen"* — **the family, without comment,
+  sends the fourth son ahead of the firstborn to find the road into Egypt.** **Genesis never says why**
+  and chapter 44 is the only explanation there is
 
 ## Analysis
 

@@ -56,7 +56,8 @@ this and does not celebrate it either.**
 
 - Born to [[Tamar]] by [[Judah]], second conceived and first delivered; named for the breach —
   Genesis 38:27–29, [[Judah and Tamar]]
-- Goes down to Egypt with his sons Hezron and Hamul — Genesis 46:12 *(not yet ingested)*
+- Goes down to Egypt with his sons Hezron and Hamul — Genesis 46:12,
+  [[Jacob's Family Settles in Egypt]]
 - Numbers 26:20–21 — the Perezites counted
 - Ruth 4:12, 18–22 — the blessing at Bethlehem, and the genealogy to David
 - 1 Chronicles 2:4–5; 9:4 · Nehemiah 11:4–6 — the register, and the return
@@ -67,6 +68,10 @@ this and does not celebrate it either.**
 - [[Judah and Tamar]] — Genesis 38:27–30; **the second twin out, named by the midwife for the wall he
   came through.** The chapter opened on a firstborn who died childless and closes on a firstborn
   decided twice — **and the second decision is the one the rest of Scripture builds on**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:12; ***"The sons of Perez were Hezron and Hamul."*** **His is the
+  only branch of the register that runs to a fourth generation**, and **Ruth 4:18 starts its genealogy
+  to David from exactly this point.** [[Hezron (son of Perez)]] carries the line to David and into both
+  Gospel genealogies; [[Hamul]] carries a clan and stops
 
 ## Related people
 

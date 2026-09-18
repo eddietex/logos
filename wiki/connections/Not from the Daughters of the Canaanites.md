@@ -32,6 +32,12 @@ tags: [connection]
 - **Ruth 1:16–17; 4:13–22** — a Moabite woman married into the line of David, and the book's answer
 - **Matthew 1:3, 5** — Tamar, Rahab, and Ruth in the genealogy of Jesus
 - **1 Corinthians 7:12–16; 2 Corinthians 6:14** — the New Testament's two positions
+- **Genesis 46:10, 12, 20** — [[Jacob's Family Settles in Egypt]]. **The founding
+  register of Israel contains Canaanite mothers and an Egyptian one, and annotates exactly one of
+  them.** **[[Shaul (son of Simeon)]] is *"the son of a Canaanite woman"***; **[[Judah]]'s five sons
+  by [[Shua's Daughter]] are listed without the note**; **[[Asenath]] is given her father's name and
+  his priestly office.** **The prohibition of 24:3 and 28:1 is nowhere in sight**, and the wiki records
+  that Genesis states the pedigrees and passes no verdict
 
 ## Analysis
 

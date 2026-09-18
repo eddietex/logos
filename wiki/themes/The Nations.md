@@ -258,6 +258,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   into Egypt, to Joseph, to buy grain"*** — **the promise of 12:3 operating before anyone in the chapter
   knows it is a promise**, and the only time in Genesis that the whole earth is fed through a son of
   Abraham
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:10, 12, 20; **three foreign mothers in one register, handled
+  three different ways.** **[[Shaul (son of Simeon)]] is flagged as *"the son of a Canaanite woman"***;
+  **[[Asenath]] the Egyptian is given her father's name and his priestly office**; **and
+  [[Shua's Daughter]], the Canaanite mother of five of the seventy, is not mentioned.** **Genesis
+  supplies no rule that accounts for all three.** The household then takes up formal residence inside
+  an empire, with a grant of land from its king
 
 ## Related themes
 

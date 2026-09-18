@@ -125,6 +125,9 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
   the previous chapter — **and the same clause names her sons as the subject of Joseph's *evil report***,
   which is the only motive the chapter comes near supplying for the brothers' hatred and which it does not
   characterise as true or false
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:23–25; **seven souls, the smallest of the four lines** —
+  [[Dan (person)]] with one son and [[Naphtali]] with four. **Identified as *"whom Laban gave to
+  Rachel, his daughter"***, in the same formula as [[Zilpah]]
 
 ## Related people
 

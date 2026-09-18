@@ -275,6 +275,12 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   father in a cave his grandfather also paid cash for. The speech is the covenant's full Jacob-form:
   the divine name *ʾĒl Šadday*, the creation blessing, a company of nations, kings, and the land, **all
   of it attached to the name *Israel* at last** — which 32:28 gave him with nothing attached at all
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:3–4; ***"there I will make of you a great nation"*** — ***gôy
+  gādôl***, **the exact phrase of 12:2, relocated from Canaan to Egypt.** **The nation-making promise
+  is detached from the land it was made about**, and the return is attached to it as a covenant term
+  rather than a hope: *"I will also surely bring you up again."* **15:13–16 had given the span and
+  withheld the country; this gives the country and adds the way out.** See
+  [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]]
 
 ## Related themes
 

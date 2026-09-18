@@ -303,6 +303,11 @@ costly.
   is *"as the sand of the sea"* (41:49), ***kəḥôl hayyām*** — **the offspring simile of 22:17 and
   32:12** — **spent on an Egyptian harvest in a chapter with no promise in it.** See
   [[Dust, Stars, and Sand - The Offspring Promises]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 47:7, 10; ***"Jacob blessed Pharaoh."*** **Twice, bracketing the
+  audience, and Genesis reports no content either time.** **A landless hundred-and-thirty-year-old on
+  famine relief blesses the most powerful man on earth and the book states it as a matter of
+  protocol** — **12:3 operating in plain sight**, and the exact reversal of 14:19, where a king blessed
+  a patriarch. See [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]]
 
 ## Related themes
 

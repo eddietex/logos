@@ -586,6 +586,29 @@ every item of whose evidence is mercy, **which the book does not correct for fiv
   to [[Sheol]] mourning, says instead: *"It is enough. Joseph my son is still alive. I will go and see
   him before I die."***
 
+  **[[Jacob's Family Settles in Egypt]]** takes the family across the border, and it contains **the
+  only divine speech in the whole Joseph cycle.** [[Jacob]] stops at [[Beersheba]] — where [[Abraham]]
+  planted a tamarisk, where [[Isaac]] was granted a night theophany, and where Jacob himself left the
+  land the first time (28:10) — **and sacrifices *"to the God of his father, Isaac"***, **the patriarch
+  who had been forbidden to make this journey** (26:2). **That night the formula of the Akedah
+  returns** — *"Jacob, Jacob!" He said, "Here I am"* — **and the answer is four verses long**:
+  ***"Don't be afraid to go down into Egypt, for there I will make of you a great nation. I will go
+  down with you into Egypt. I will also surely bring you up again. Joseph will close your eyes."*** The
+  *great nation* of 12:2 **is relocated to foreign soil, the Exodus is promised before the descent has
+  finished, and a deathbed is guaranteed.** After 46:4 the narrator's silence resumes and is never
+  broken again in the book. Then comes **the Bible's first register of Israel** — thirty-three,
+  sixteen, fourteen and seven, **seventy souls**, the wives counted out by name (46:26) and one
+  granddaughter, [[Serah]], counted in. **[[Judah]] is sent ahead to find the way** (46:28), which is
+  the family's own verdict on what he has become; [[Joseph]] weeps on his father's neck *a good while*;
+  and [[Jacob]] says ***"Now let me die, since I have seen your face"***. **The audience with
+  [[Pharaoh (of Joseph's time)]] is two scenes in opposite registers**: the brothers are interviewed
+  and granted [[Goshen]], **using the very word — *shepherds* — Joseph had coached them to avoid**
+  (46:34; 47:3); the old man is not interviewed at all, **blesses the king twice with no content
+  reported** (47:7, 10), and calls his own hundred and thirty years ***"few and evil."*** They are
+  settled *"in the best of the land, in the land of [[Rameses]]"* — **the store-city of Exodus 1:11 and
+  the starting line of Exodus 12:37** — and given a ***possession***, the word Genesis has used only of
+  a grave.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -657,7 +680,7 @@ merge, or reorder them freely.
 - [x] [[The Second Journey]] — Genesis 43:1–34
 - [x] [[The Silver Cup and Judah's Plea]] — Genesis 44:1–34
 - [x] [[Joseph Reveals Himself]] — Genesis 45:1–28
-- [ ] Jacob's Family Settles in Egypt — Genesis 46:1–47:12
+- [x] [[Jacob's Family Settles in Egypt]] — Genesis 46:1–47:12
 - [ ] Joseph and the Famine — Genesis 47:13–31
 - [ ] Jacob Blesses Ephraim and Manasseh — Genesis 48:1–22
 - [ ] Jacob Blesses His Sons — Genesis 49:1–33

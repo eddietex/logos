@@ -605,6 +605,11 @@ gets a death notice in this same chapter** (35:8); she does not.
   Isaac dies at a hundred eighty, *gathered to his people*, buried by both sons with **the elder named
   first**. The notice closes the Isaac account rather than dating it: by the book's own arithmetic he
   outlives the selling of Joseph by about twelve years
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:1, 3; **dead eleven chapters and named twice, and the naming is the
+  point.** [[Jacob]] sacrifices at [[Beersheba]] *"to the God of his father, Isaac"*, **and God opens
+  with *"I am God, the God of your father."*** **Isaac is the patriarch who was told *"Don't go down
+  into Egypt"*** (26:2) **and who received his own night theophany at this same Beersheba** (26:24);
+  **his son puts the question to that God, at that place, and is given the opposite answer**
 
 ## Related people
 

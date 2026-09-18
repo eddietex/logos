@@ -46,7 +46,8 @@ byword for discernment**, and it has no narrative attached to it anywhere.
   [[The Birth of Jacob's Children]]
 - Listed among the twelve, fifth of [[Leah]]'s six sons — Genesis 35:23,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Four sons at the descent into Egypt — Genesis 46:13 *(not yet ingested)*
+- Four sons at the descent into Egypt — Genesis 46:13,
+  [[Jacob's Family Settles in Egypt]]
 - Blessed at Jacob's deathbed; the donkey and the forced labour — Genesis 49:14–15 *(not yet ingested)*
 - Judges 5:15 — the princes of Issachar with Deborah; 1 Chronicles 12:32 — *"understanding of the
   times"*
@@ -84,6 +85,9 @@ byword for discernment**, and it has no narrative attached to it anywhere.
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:13; **four sons: Tola, Puvah, Iob and Shimron.** **The WEB's
+  *Iob* invites a collision with the book of Job and there is none** — the name is *yôb*, read *Jashub*
+  at Numbers 26:24, **and [[Job (person)]] is a different word**
 
 ## Related people
 

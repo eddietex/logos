@@ -49,7 +49,8 @@ been explained by any text. See
   [[The Birth of Jacob's Children]]
 - Listed among the twelve, first of [[Bilhah]]'s two sons — Genesis 35:25,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- One son, Hushim, at the descent into Egypt — Genesis 46:23 *(not yet ingested)*
+- One son, Hushim, at the descent into Egypt — Genesis 46:23,
+  [[Jacob's Family Settles in Egypt]]
 - Blessed at Jacob's deathbed; the judge and the serpent — Genesis 49:16–18 *(not yet ingested)*
 - Judges 13–16 — Samson, the tribe's one judge; Judges 18 — the migration, the stolen idols, and the
   renaming of Laish
@@ -93,6 +94,9 @@ been explained by any text. See
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:23; ***"The son of Dan: Hushim."*** **One son, the shortest
+  entry in the register** — **and Dan will be the second-largest tribe at the first census of Numbers.**
+  **The list's proportions have nothing to do with what the tribes become**
 
 ## Related people
 

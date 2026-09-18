@@ -103,7 +103,8 @@ schema's instruction is to state that rather than resolve it.
 - Sentenced to burn; returns the pledge with *hakker-nāʾ*; *"she is more righteous than I"* —
   Genesis 38:24–26
 - Bears [[Perez]] and [[Zerah]] — Genesis 38:27–30
-- Named in Genesis 46:12 and Numbers 26:20–21 through her sons *(not yet ingested)*
+- Named in Genesis 46:12 and Numbers 26:20–21 through her sons,
+  [[Jacob's Family Settles in Egypt]]
 - Ruth 4:12 — the elders of Bethlehem bless a marriage in her name
 - 1 Chronicles 2:4 — *"Tamar his daughter-in-law bore him Perez and Zerah"*
 - Matthew 1:3 — named in the genealogy of Jesus

@@ -286,6 +286,12 @@ the rest of the canon.
   book's most precise description of a body giving out** — ***wayyāpag libbô***, *his heart fainted*,
   from a rare verb for going slack — **and its recovery is caused by the sight of a cart.** See
   [[The Spirit of Jacob Revived - Ruach Returning]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:4, 12, 30; 47:9; **four deaths handled in a pericope where
+  nobody dies.** ***"Joseph will close your eyes"*** (46:4) — **the only tender sentence God speaks in
+  the cycle**, and a promise about a bedside. **[[Er]] and [[Onan]] are named in the register in order
+  to be subtracted from it** (46:12). ***"Now let me die, since I have seen your face"*** (46:30), and
+  ***"few and evil have been the days of the years of my life"*** (47:9) — **a release and a verdict,
+  from a man who then lives another seventeen years**
 
 ## Related themes
 

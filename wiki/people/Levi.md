@@ -66,7 +66,8 @@ the same willingness to use a sword to a different use.
 - Listed among the twelve, third of [[Leah]]'s six sons — Genesis 35:23,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Listed among the seventy who go down to Egypt; his three sons Gershon, Kohath, Merari — Genesis
-  46:11 *(not yet ingested)*
+  46:11,
+  [[Jacob's Family Settles in Egypt]]
 - Cursed with Simeon at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
   ingested)*
 - Exodus 32:26–29 — the tribe ordained at Sinai; Numbers 18; Deuteronomy 33:8–11 — the priesthood and
@@ -108,6 +109,11 @@ the same willingness to use a sword to a different use.
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:11; ***"The sons of Levi: Gershon, Kohath, and Merari."*** **One
+  clause, three names, and it is the entire administrative structure of the tabernacle.**
+  [[Gershon]]'s house will carry the fabric, [[Kohath]]'s the ark and the holy vessels, [[Merari]]'s
+  the frames — **and Kohath's grandsons are Moses and Aaron.** **Genesis records it as a list item on a
+  journey and says none of that**
 
 ## Related people
 
@@ -119,6 +125,8 @@ the same willingness to use a sword to a different use.
 - [[Judah]] — his younger brother; between them they take the priesthood and the kingship, and both are
   [[Leah]]'s
 - [[Reuben]] — the eldest, and the first of the four Leah sons to lose his standing
+- [[Gershon]], [[Kohath]], [[Merari]] — his three sons, named together at 46:11 and nowhere else in
+  Genesis; the three houses of the tabernacle, and Kohath's line produces Moses and Aaron
 
 ## Themes associated
 

@@ -756,6 +756,17 @@ is carried back to Machpelah.
   three times to go down to [[Sheol]] mourning (37:35; 42:38; 44:29) says instead: ***"It is enough.
   Joseph my son is still alive. I will go and see him before I die."*** ***Rab***, *enough*, **is a
   word about quantity**: he does not say he believes them, he says the evidence has become sufficient
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:1–47:12; **the journey out of the land, and the only time God speaks to
+  him after Bethel.** He stops at [[Beersheba]] and sacrifices *"to the God of his father, Isaac"*
+  (46:1) — **the patriarch who had been forbidden this exact journey** (26:2) — **and is answered that
+  night in the doubled vocative of the Akedah**: *"Jacob, Jacob!" He said, "Here I am."* **The answer
+  relocates the *great nation* of 12:2 to Egypt, promises the return, and guarantees him a deathbed**
+  (46:3–4). He is then *carried* in Egyptian wagons (46:5), **counted as the thirty-third of [[Leah]]'s
+  line** (46:15), wept on by [[Joseph]] in [[Goshen]], and says ***"Now let me die, since I have seen
+  your face, that you are still alive"*** (46:30). **Before [[Pharaoh (of Joseph's time)]] he blesses
+  the king twice, with no content reported** (47:7, 10), **and calls his own hundred and thirty years
+  *"few and evil"*** (47:9) — **the only verdict a patriarch passes on his own life in Genesis, and the
+  book does not correct it**
 
 ## Related people
 

@@ -200,6 +200,10 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   reading of Jacob's *"your mother"* at 37:10 makes her the mother meant**, since [[Rachel]] has been dead
   since 35:19 — **a reading the wiki records without adopting, because Genesis never calls her Joseph's
   mother.** The *"all his daughters"* who come to comfort Jacob at 37:35 are hers on any reading
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:15; **the largest of the four lines — thirty-three souls — and the
+  only subtotal in the register whose arithmetic requires [[Jacob]] himself to close.** She is named as
+  the mother who bore them *"in Paddan Aram"*, **with [[Dinah]] counted in**, and **she is not called
+  *wife*** — that word goes to [[Rachel]] at 46:19, eleven chapters after her death
 
 ## Related people
 

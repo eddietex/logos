@@ -45,7 +45,8 @@ of Genesis attested outside the Bible.**
   [[The Birth of Jacob's Children]]
 - Listed among the twelve, first of [[Zilpah]]'s two sons — Genesis 35:26,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Seven sons at the descent into Egypt — Genesis 46:16 *(not yet ingested)*
+- Seven sons at the descent into Egypt — Genesis 46:16,
+  [[Jacob's Family Settles in Egypt]]
 - Blessed at Jacob's deathbed; the troop and the heel — Genesis 49:19 *(not yet ingested)*
 - Numbers 32 — the request for land east of the Jordan; Deuteronomy 33:20–21 — Moses' blessing
 - Isaiah 65:11 — *Gad* as a deity with a table prepared for him
@@ -86,6 +87,9 @@ of Genesis attested outside the Bible.**
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:16; **seven sons — Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi and Areli
+  — the longest son-list of any of the twelve except [[Benjamin]]'s.** **With [[Asher]] he accounts for
+  [[Zilpah]]'s sixteen**, and none of the seven is heard from again outside the tribal censuses
 
 ## Related people
 

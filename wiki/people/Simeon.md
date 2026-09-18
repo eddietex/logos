@@ -107,6 +107,10 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:10; **six sons, and the last of them carries the register's only
+  ethnic annotation** — **[[Shaul (son of Simeon)]], *"the son of a Canaanite woman."*** **No other man
+  in seventy names is given one**, though [[Judah]]'s five sons are Canaanite-born too and the register
+  passes over it. **The clause is reproduced word for word at Exodus 6:15**
 
 ## Related people
 

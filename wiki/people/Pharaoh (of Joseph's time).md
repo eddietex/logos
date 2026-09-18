@@ -128,7 +128,8 @@ reached.**
 - Hears of the brothers' arrival, is *pleased*, and invites Jacob's whole household on terms more
   generous than Joseph's, commanding wagons for them — Genesis 45:16–20,
   [[Joseph Reveals Himself]]
-- Settles them in Goshen; is blessed by Jacob — Genesis 47:5–10 *(not yet ingested)*
+- Settles them in Goshen; is blessed by Jacob — Genesis 47:5–10,
+  [[Jacob's Family Settles in Egypt]]
 - Acquires all Egypt through Joseph's grain administration — Genesis 47:13–26 *(not yet ingested)*
 - Permits the funeral caravan to Canaan — Genesis 50:4–9 *(not yet ingested)*
 - Succeeded by a king *"who didn't know Joseph"* — Exodus 1:8 *(not yet ingested)*
@@ -181,11 +182,18 @@ reached.**
   (45:18, 20); Joseph mentioned no transport, **Pharaoh commands wagons** (45:19) — **the one object
   in the cycle that persuades [[Jacob]]** (45:27); and *"don't concern yourselves about your
   belongings"* (45:20) tells them to leave the furniture. **He has met none of them** — that waits
-  until 47:1–10 *(not yet ingested)* — **so the invitation that brings Israel into Egypt is issued
+  until 47:1–10 — **so the invitation that brings Israel into Egypt is issued
   sight unseen.** Genesis records his pleasure and assigns him no motive; **the wiki notes the
   political reading — a vizier whose family lives in Egypt at royal expense has nowhere to go back to
   — and does not adopt it.** This is the friendliest Egypt ever is to Israel, and **Exodus 1:8's
   *"there arose a new king over Egypt, who didn't know Joseph"* is written against this chapter**
+- [[Jacob's Family Settles in Egypt]] — Genesis 47:1–11; **he finally meets the family he invited
+  sight unseen at 45:17–20.** He asks the five brothers the one question [[Joseph]] predicted verbatim
+  — *"What is your occupation?"* (47:3; cf. 46:33) — **grants [[Goshen]], and offers them charge of the
+  royal livestock** (47:6), **which is a job offer made to men whose trade he is said to find
+  abominable** (46:34). **[[Jacob]] he does not interview**: the old man blesses him on the way in,
+  is asked his age, answers with a complaint, and blesses him again on the way out (47:7–10). **Genesis
+  assigns him no reaction to any of it**
 
 ## Related people
 

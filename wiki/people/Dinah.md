@@ -78,7 +78,8 @@ which has something to say about ten of his sons, does not mention her at all.
   [[The Birth of Jacob's Children]]
 - Seized by [[Shechem (son of Hamor)]]; the circumcision demanded in bad faith, and the massacre by
   Simeon and Levi on the third day — Genesis 34:1–31, [[Dinah and the Massacre at Shechem]]
-- Counted among Leah's children in the descent into Egypt — Genesis 46:15 *(not yet ingested)*
+- Counted among Leah's children in the descent into Egypt — Genesis 46:15,
+  [[Jacob's Family Settles in Egypt]]
 
 ## Appears in
 
@@ -93,6 +94,10 @@ which has something to say about ten of his sons, does not mention her at all.
   daughters at all**, and she is the only daughter of Jacob the book ever names. The chapter also sends
   Joseph alone to [[Shechem (city)]], **the town her brothers emptied three chapters earlier**, and
   mentions neither her nor what happened there
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:15; **counted.** *"With his daughter Dinah"* — **she is one of only
+  two women inside the seventy**, the other being her niece [[Serah]], **and the register explicitly
+  counts out the wives who are actually on the road** (46:26). **It is the last mention of her in
+  Scripture, and it is a number**
 
 ## Related people
 

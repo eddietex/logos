@@ -123,6 +123,11 @@ resolve it.**
   **And the last thing he says to them is *"see that you don't quarrel on the way"*** (45:24) — which,
   read against what is in their bags, is a warning about the effect of his own generosity. **The
   brotherhood restored in this chapter is restored on exactly the terms that broke it**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:28; 47:2; **eleven men travel together and five are chosen to
+  stand before a king** (47:2), **and Genesis does not say which five or how the other six took it.**
+  **[[Judah]] is sent ahead to find the way** (46:28) — **the family's own verdict on the man who
+  proposed the sale** — **and the text does not record [[Reuben]] noticing.** [[Joseph]] weeps on his
+  father's neck and briefs his brothers in the next breath
 
 ## Related themes
 

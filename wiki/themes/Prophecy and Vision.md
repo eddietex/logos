@@ -230,6 +230,12 @@ happens.
   *"such a man as I can indeed divine"* (44:15), from the man who said *"don't interpretations belong
   to God?"* (40:8). **The one true prediction in it is [[Judah]]'s** — that a father in Canaan will
   not survive the sentence — **and he has no way to prove it**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:2; ***"God spoke to Israel in the visions of the
+  night"*** — ***marʾōt hallaylâ***, **a phrase used nowhere else in the Torah.** **It is Genesis's
+  last theophany and the only divine speech in chapters 37–50**, and **it opens with the doubled
+  vocative of the Akedah**: *"Jacob, Jacob!" He said, "Here I am."* **The one vision in the Joseph
+  cycle that is not a dream needing interpretation is the one that comes to the dreamer's father.** See
+  [[Jacob, Jacob - The Doubled Name and Hinneni]]
 
 ## Related themes
 

@@ -68,7 +68,8 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Called one of *"his father's wives"* in the verse naming whose sons Joseph informed on — Genesis 37:2,
   [[Joseph Sold into Slavery]]
-- Her sons and grandsons counted at the descent into Egypt — Genesis 46:18 *(not yet ingested)*
+- Her sons and grandsons counted at the descent into Egypt — Genesis 46:18,
+  [[Jacob's Family Settles in Egypt]]
 
 ## Appears in
 
@@ -91,6 +92,9 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
   term.** She and [[Bilhah]] are *"his father's wives"*, and **their four sons are who the *evil report*
   was about** — the only grievance the chapter offers between Joseph and any particular brothers, and one
   the Hebrew declines to characterise as slander or as fact
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:16–18; **sixteen souls, through [[Gad]] and [[Asher]]**, and the
+  only line that produces a named granddaughter, [[Serah]] (46:17). **She is identified as *"whom Laban
+  gave to Leah, his daughter"*** — thirty years and a border later, still by the transaction
 
 ## Related people
 

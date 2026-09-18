@@ -7658,3 +7658,237 @@ are named in prose and marked `*(not yet ingested)*` rather than linked.
 
 Genesis stands at 54 / 59 pericopes; the next is *Jacob's Family Settles in Egypt*, Genesis
 46:1–47:12.
+
+## [2026-09-18] ingest | Genesis 46.1-47.12 — Jacob's Family Settles in Egypt
+
+Unattended run (`/ingest auto`). The book page had the pericope queued as Genesis 46:1–47:12 and the
+boundary was kept. It is a long unit with four movements — the night at [[Beersheba]], the register,
+the reunion in [[Goshen]], and the audience with Pharaoh — but they are one action, the crossing, and
+47:13 starts a different subject (the land policy). **Boundary unchanged.**
+
+### The passage page
+
+[[Jacob's Family Settles in Egypt]], `wiki/passages/Genesis/`, built around seven findings.
+
+**1. Genesis 46:2–4 is the only time God speaks in the entire Joseph cycle.** Verified against the raw
+text rather than asserted: `grep` for narrated divine speech across chapters 37–50 returns exactly one
+hit, 46:2. **The narratorial silence that began at 39:23 breaks for three verses and closes again for
+the rest of the book** — 48:3's *"God Almighty appeared to me at Luz"* is [[Jacob]] quoting, not the
+narrator. **Genesis's most explicit statement of providence is a character's (45:5–8); its only divine
+utterance in fourteen chapters is a permission to leave the land.**
+
+**2. Beersheba is the same place, the same hour and the same opening formula as Isaac's theophany, with
+the instruction reversed.** 26:23–24 has [[Isaac]] at Beersheba, *"the same night"*, told *"I am the
+God of Abraham your father. Don't be afraid, for I am with you"* — and at 26:2 told outright
+*"Don't go down into Egypt."* 46:1–3 has [[Jacob]] at Beersheba, *"in the visions of the night"*, told
+*"I am God, the God of your father. Don't be afraid to go down into Egypt."* **And 46:1 specifies that
+he sacrificed *"to the God of his father, Isaac"* — not of Abraham.** He puts the question to the
+deity on record as having prohibited the journey, at the town where the prohibition's companion
+promise was given. Filed as
+[[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]], with [[Abraham]]'s unasked
+descent at 12:10 as the third term.
+
+**3. The arithmetic of the seventy closes exactly, and only if Jacob is counted once.** Zilpah's
+sixteen, Rachel's fourteen and Bilhah's seven reproduce name-for-name. **[[Leah]]'s section prints
+thirty-two living people** once [[Er]] and [[Onan]] are removed as 46:12 directs, **and the verse says
+thirty-three.** 46:8 puts Jacob inside the register's scope — *"the children of Israel, who came into
+Egypt, Jacob and his sons"* — and 46:26–27's sixty-six and seventy reconcile on no other reading:
+70 − Jacob − Joseph − Manasseh − Ephraim = 66, and 66 + 2 + Joseph + Jacob = 70. **The wiki adopts
+that and records the transmission-loss alternative as possible and unprovable.** Filed with the
+Septuagint/Acts variant as
+[[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]].
+
+**4. The register flags one foreign mother, honours a second and passes over a third.**
+[[Shaul (son of Simeon)]] is *"the son of a Canaanite woman"* (46:10) — **the only ethnic annotation in
+seventy names**, and Exodus 6:15 reproduces it. [[Asenath]] is given her father and his priestly office
+(46:20). **[[Judah]]'s five sons by [[Shua's Daughter]], a Canaanite (38:2), get no such note** — and
+theirs is the branch the register follows furthest. **Genesis supplies no rule and the wiki does not
+invent one.**
+
+**5. The brothers do not use Joseph's script, and it works anyway.** He coaches them to say *"keepers
+of livestock"* precisely because *"every shepherd is an abomination to the Egyptians"* (46:34); at 47:3
+they say *"Your servants are shepherds"* — **the forbidden word** — and add a request he never gave
+them, *"please let your servants dwell in the land of Goshen"* (47:4). **Pharaoh grants it** (47:6).
+The discrepancy is visible in the WEB's own English. Added to
+[[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]], which had already
+anticipated 46:34.
+
+**6. Jacob blesses Pharaoh twice and Genesis reports no content either time** (47:7, 10). **A landless
+hundred-and-thirty-year-old on famine relief blesses the most powerful man on earth, and the narrator
+states it as protocol** — 12:3 operating in plain sight, and the exact reversal of 14:19 where a king
+blessed a patriarch. Hebrews 7:7 supplies the principle. Filed as
+[[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]]. **Between the two blessings sits
+*"few and evil have been the days of the years of my life"* (47:9)** — the only self-assessment a
+patriarch gives in Genesis, delivered to a king, unprompted, in the month he got his son back.
+**The page takes it at face value and notes that the book neither rebukes nor endorses it.**
+
+**7. The address is [[Rameses]].** 47:11 settles them *"in the best of the land, in the land of
+Rameses"* — **the store-city of Exodus 1:11 and the starting line of Exodus 12:37** — and calls it a
+***possession***, ***ʾăḥuzzâ***, **a word Genesis has used only of the cave at [[Machpelah]]**. The
+family's first freehold anywhere but a grave is in Egypt, and it is the ground of the bondage.
+
+### Judgment calls made without asking
+
+- **Roughly fifty names in the register were given no page.** Hanoch, Pallu, Carmi, Jemuel, Jamin,
+  Ohad, Jachin, Zohar, Tola, Puvah, Sered, Jahleel, Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, Areli,
+  Imnah, Ishvah, Ishvi, Beriah, Heber, Malchiel, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim,
+  Huppim, Ard, Hushim, Jahzeel, Guni, Jezer, Shillem and the rest appear here and in the tribal
+  censuses and nowhere else. **A page whose entire content is *"a son of Gad, named at 46:16"* makes
+  the wiki harder to read, not richer.** They are listed on the passage page and in their fathers'
+  entries. **This is the largest deliberate non-creation the wiki has made and it is recorded here so
+  the user can overrule it.**
+- **Seven of the register's names did get pages**, on the ground that Scripture itself develops them:
+  [[Gershon]], [[Kohath]] and [[Merari]] (the three Levitical houses, and Kohath's grandsons are Moses
+  and Aaron); [[Serah]] (the only granddaughter named, and kept by two later registers that had no need
+  of her); [[Hezron (son of Perez)]] and [[Hamul]] (the register's only fourth generation, and the line
+  to David and Matthew 1); [[Shaul (son of Simeon)]] (the one ethnic annotation).
+- **[[Hezron (son of Perez)]] is qualified from the start.** **Two men named Hezron enter Egypt in the
+  same paragraph** — [[Reuben]]'s third son at 46:9 and [[Perez]]'s at 46:12 — and the same doubling
+  happens with *Bela* (46:21 against 36:32) and *Elon* (46:14 against 26:34). **Only the one that got a
+  page needed the qualifier**; the other two are noted on the passage page so a later ingest does not
+  create a bare collision.
+- **[[Shua's Daughter]] was deliberately given no Genesis 46 entry.** She is the mother of five of the
+  seventy and **the text does not mention her**; the passage page discusses her absence under People,
+  but an *Appears in* list claiming a pericope she is not named in would be wrong. **Same rule as
+  [[Joseph's Steward]] at Genesis 45.** [[Isaac]] *was* given one: he is dead, but he is named twice,
+  and the naming is the scene's argument.
+- **Five new connection pages rather than three or eight.** Cut from the list: a page on ***ʾăḥuzzâ***
+  (47:11 against 23:9, 20), which [[Land and Sojourning]] and [[Rameses]] now carry between them; and
+  one on ***wayyērāʾ ʾēlāyw*** at 46:29, which is held as a note on the passage page rather than a
+  page of its own, because the coincidence of form is exact and the evidence for an allusion is nil.
+- **The five brothers of 47:2 were not reconstructed.** Genesis does not say which five or why five,
+  and the page says so.
+- **Jacob's *"few and evil"* is not softened.** It is not read as a pious formula, as ingratitude, or
+  as a foil. The page states that Genesis supplies every one of the evils in question and lets the
+  verdict stand.
+
+### New connection pages (5)
+
+- [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] — 12:10, 26:1–6 and 46:1–7 as
+  three answers to one question, with Isaiah 30:1–2, 31:1 and Jeremiah 42:13–43:7, where the descent
+  becomes the standing image of faithlessness. **The page's argument is that Genesis is not teaching a
+  geography**: what distinguishes the three is whether the man asked. Abram did not and was not
+  forbidden; Isaac did not need to and was stopped; Jacob asked and was sent.
+- [[Jacob, Jacob - The Doubled Name and Hinneni]] — the seven doubled vocatives (22:11; 46:2; Exodus
+  3:4; 1 Samuel 3:10; Luke 10:41; 22:31; Acts 9:4), the four Old Testament ones all answered
+  ***hinnēnî***, and Genesis's own distribution of that word: three times to God, three times to a
+  human father, **and one of the three to a father is a lie** (27:18). **The doubling is not a warning
+  formula** — at 22:11 the man is stopped and at 46:2 he is released.
+- [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] — the arithmetic in full,
+  the Septuagint's and Qumran's seventy-five, Stephen at Acts 7:14, and the seventy of Genesis 10
+  against the seventy of Genesis 46. **Acts is not in error; it is quoting the text in front of it.**
+- [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]] — 46:30 with Luke 2:25–32. **Two old men
+  released by one act of sight, and neither dies in his scene.** The page tracks Jacob's three
+  statements — *before I die* (45:28), *now let me die* (46:30), and the *going down to Sheol* of 37:35
+  — and notes that **the stage that failed was testimony** (45:26).
+- [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]] — 47:7, 10 with 12:3, 14:18–20 and
+  Hebrews 7:7. **The two royal audiences in Genesis have the blessing running in opposite directions
+  and the goods running the same way both times.**
+
+### New place page (1)
+
+- [[Rameses]] — first and only use in Genesis, at 47:11. The page records the three biblical uses (a
+  gift, a work camp, a starting line), **states the anachronism plainly** and reads it as a later name
+  for an older place, as with *Dan* at 14:14, **and takes it as the same district as [[Goshen]] under
+  another label**, which 47:6, 47:11 and 47:27 treat as interchangeable without saying so.
+
+### New person pages (7)
+
+[[Gershon]], [[Kohath]], [[Merari]], [[Serah]], [[Hezron (son of Perez)]], [[Hamul]],
+[[Shaul (son of Simeon)]] — reasons under *Judgment calls* above.
+
+### Pages revised
+
+Book: [[Genesis]] (box checked, a Genesis 46–47 paragraph added to the structure overview),
+`wiki/books/index.md` (55 / 59), `wiki/index.md` counts (61 passages · 140 people · 68 places ·
+63 themes · 185 connections).
+People (31): [[Jacob]], [[Joseph]], [[God]], [[Pharaoh (of Joseph's time)]], [[Judah]], [[Isaac]],
+[[Leah]], [[Rachel]], [[Zilpah]], [[Bilhah]], [[Dinah]], and the twelve sons, [[Perez]], [[Zerah]],
+[[Shelah (son of Judah)]], [[Er]], [[Onan]], [[Manasseh]], [[Ephraim]], [[Asenath]], [[Potiphera]],
+[[Job (person)]].
+Places (5): [[Beersheba]], [[Egypt]], [[Canaan]], [[Goshen]], [[On]].
+Themes (18): [[Providence]], [[Covenant]], [[Land and Sojourning]], [[Blessing]],
+[[Prophecy and Vision]], [[Sacrifice and Offering]], [[Famine and Plenty]], [[Kingship and Empire]],
+[[Life and Death]], [[Names and Naming]], [[Seeing and Being Seen]], [[Suffering]], [[Faith]],
+[[Work]], [[The Nations]], [[Brotherhood]], [[Priesthood]], [[Hope]].
+Connections (12): [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]],
+[[Renamed and Still Called Jacob - The Two Namings of Israel]],
+[[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]],
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]],
+[[Four Hundred Years - The Sojourn and the Exodus]],
+[[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]],
+[[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]],
+[[Two Sets of Twins - Jacob and Esau, Perez and Zerah]],
+[[A Stranger and a Foreigner - The Sojourner's Confession]],
+[[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+[[Not from the Daughters of the Canaanites]],
+[[The Twelve Sons and the Lists That Reorder Them]],
+plus [[Jobab of Bozrah and the Septuagint's Job]]'s second false lead. All four category indexes
+updated.
+
+**Twenty-seven stale `*(not yet ingested)*` markers pointing into 46:1–47:12 were discharged** across
+[[Beersheba]], [[Goshen]], [[Joseph Reveals Himself]], [[Jacob's Flight from Laban]],
+[[The Reconciliation with Esau]], [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]],
+and sixteen person pages. **Markers pointing at 47:13–26, 47:28 and 47:29–31 were left in place**, since
+those verses are not in this pericope.
+
+### Quotation check against `raw/bible/`
+
+Every fragment quoted in the new pages was diffed against `raw/bible/Genesis.md` rather than trusted.
+**Three wrong fragments were caught before commit, all three newly invented in this pass**, which
+matches the last entry's finding that fresh invention now outruns propagation.
+
+- ***"Joseph fell on his father's face, and wept on him, and kissed him"*** for 50:1. **The WEB has no
+  *and* before *wept*:** *"Joseph fell on his father's face, wept on him, and kissed him."*
+- ***"unstable as water, you shall not excel"*** for 49:4 — **the King James, not the WEB**, which
+  reads ***"Boiling over like water, you shall not excel."***
+- ***"a possession of a burying place"*** for 23:9, 20. **23:20 reads *"as a possession for a burial
+  place"***; the *burying-place* form belongs to 23:4 and is hyphenated there.
+
+**Three further fragments from books with no raw file were de-quoted rather than risked.** Deuteronomy
+10:22, Exodus 1:11 and Exodus 12:37 were paraphrased with references instead, and Acts 7:14 likewise.
+**`raw/bible/` holds Genesis and Job only**, so any non-Genesis wording in this wiki is unverifiable by
+the method above; **the standing practice of quoting other books from memory is the wiki's largest
+remaining quotation risk**, and it is noted here rather than fixed.
+
+**Two claims were checked mechanically and one was narrowed.** *"The only divine speech in the Joseph
+cycle"* was verified by grepping chapters 37–50 for narrated speech (one hit, 46:2). The
+***wayyērāʾ ʾēlāyw*** claim originally listed 35:1 among the parallels; **35:1 has the verb in a
+relative clause, not as the main verb**, and the list was corrected to 12:7, 17:1, 18:1, 26:2, 26:24,
+35:9 and 48:3, with 35:1 noted separately.
+
+### Link check
+
+`scripts/link-check.sh` exits 0, expected baseline 64 not-yet-started book pages. **Three wrapped
+links were caught and fixed before commit** — `[[Dan (person)]]` split across the wrap twice, in the
+bullets written for [[Bilhah]] and [[Naphtali]], and `[[Hezron (son of Perez)]]` split in
+[[Two Sets of Twins - Jacob and Esau, Perez and Zerah]]. **That is the fourth consecutive ingest in
+which a long link target has been broken by the ~100-column wrap.** Three dangling links were also
+caught and removed before they reached disk: `[[Naomi]]`, `[[Saul]]` and
+`[[The Famine and the Descent to Egypt]]` — **the last of which is not a page name at all; the
+Genesis 12:10 pericope is [[Abram in Egypt]].**
+
+**No links were deliberately left dangling.** 47:13–26, 47:29–31, 48:3–5, 48:14–15, 49:3–7, 49:33,
+50:1, 50:9, 50:13, 50:21 and 50:25 are named in prose and marked or dated rather than linked.
+
+### Findings left for the next lint
+
+- **A stray empty `Exodus.md` at the repository root**, committed in `53be57b` (the Genesis 11:10–32
+  ingest) and tracked ever since. It is zero bytes, it is not `raw/bible/Exodus.md`, and it is almost
+  certainly a misfired `fetch-book.sh`. **Left alone rather than deleted inside an ingest commit.**
+- **Unchanged from the last entry**: the ***"He made himself strange to them"*** fragment for 42:7,
+  still wrong on [[Joseph Sold into Slavery]] and
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]], with *recognised* on the former;
+  the stale `*(not yet ingested)*` marker on [[The Tower of Babel]] pointing at Genesis 19:1–29; the
+  seven older passage pages not retro-linked to [[Sexual Sin]]; the seven plural brothers' missing
+  [[The Second Journey]] entries; and the Cyrillic *е* inside *ʾênennû* in `wiki/people/Jacob.md` and
+  `wiki/books/Genesis.md`.
+- **Two more stale markers found this pass and left**: [[The Cupbearer and the Baker]] carries
+  `*(not yet ingested)*` on Genesis 41:16 and 41:32, **and Genesis 41 was ingested long ago**;
+  [[The Nations]] carries one on Genesis 12:1–3, **which is [[The Call of Abram]]**.
+- **`wiki/themes/index.md`'s *Key passages* column is stale for several themes** — [[Blessing]]'s row,
+  for instance, stops at [[Pharaoh's Dreams and Joseph's Rise]] and omits Genesis 42–45 entirely, even
+  though the theme page itself carries them. **The rows were appended to, not rebuilt**, so the gaps
+  remain.
+
+Genesis stands at 55 / 59 pericopes; the next is *Joseph and the Famine*, Genesis 47:13–31.

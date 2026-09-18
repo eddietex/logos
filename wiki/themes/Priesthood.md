@@ -84,6 +84,11 @@ something comes down through him. That two-way motion is what the word adds. See
   echo is **47:22, 26**, where **the priests of Egypt are the single class exempted from Joseph's land
   reform**, *"because the priests had a portion from Pharaoh"* — **his father-in-law's caste keeps its
   land while everyone else sells theirs**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:11, 20; **[[Gershon]], [[Kohath]] and [[Merari]] enter
+  Scripture as three names in one clause** — **the three houses that will carry the tabernacle, and
+  Kohath's line produces Moses and Aaron.** **Genesis says none of that.** **The only man actually
+  called a priest in the pericope is [[Potiphera]], *priest of On*** (46:20), **and his daughter is the
+  mother of two tribes of Israel**
 
 ## Related themes
 

@@ -19,6 +19,11 @@ tags: [connection]
 - **Joshua 13–19** — the allotments, with **no territory for Levi**
 - **Ezekiel 48:1–35** — the eschatological land, and the twelve gates
 - **Revelation 7:5–8** — the sealed, with **Dan missing** and **Manasseh in his place**
+- **Genesis 46:8–25** — [[Jacob's Family Settles in Egypt]]. **The register
+  of the seventy lists them by mother, in the order [[Leah]] – [[Zilpah]] – [[Rachel]] – [[Bilhah]]**
+  — **which is neither birth order, nor the order of Genesis 49, nor the order of any list in
+  Numbers.** **It is the only list that gives each son's own sons**, and the only one whose subtotals
+  are arithmetic rather than rhetorical
 
 ## Analysis
 

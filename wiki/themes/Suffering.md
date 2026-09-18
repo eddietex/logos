@@ -136,6 +136,11 @@ requires only that you be standing outside it.
   covered again in harder words. **[[Jacob]]'s suffering gets the chapter's only physical description**:
   ***wayyāpag libbô***, *his heart fainted* (45:26), **the language Scripture uses of a body that has
   run out**
+- [[Jacob's Family Settles in Egypt]] — Genesis 47:9; ***"Few and evil have been the days of the years of my
+  life."*** **The only time a patriarch is asked to assess his own life, and the assessment is bleak.**
+  **He says it in the month he gets his son back, to a foreign king, unprompted**, and he is right on
+  the arithmetic — a hundred and thirty against [[Abraham]]'s hundred and seventy-five and [[Isaac]]'s
+  hundred and eighty. **Genesis neither rebukes the verdict nor endorses it**
 
 ## Related themes
 

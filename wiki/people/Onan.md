@@ -75,6 +75,9 @@ first is his brother. Both are in this paragraph, three verses apart. See [[Retr
 - [[Judah and Tamar]] — Genesis 38:4, 8–10; **the Bible's first levirate summons and its first
   refusal.** He takes the right and withholds the duty, repeatedly, and **the verse that condemns him
   states his reason in the same breath as his act**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **listed and subtracted in the same verse**, with [[Er]]: *"but
+  Er and Onan died in the land of Canaan."* **The two of them are the only deaths the register
+  reports**
 
 ## Related people
 

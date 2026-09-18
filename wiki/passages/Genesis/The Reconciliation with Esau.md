@@ -331,7 +331,7 @@ Genesis 34 will make him a central figure. See [[Hamor]].
   collision with the Exodus 12:37 site of the same name. **One person page**, [[Hamor]], deliberately
   thin. **One connection page**,
   [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]], tracing 33:4's five verbs
-  through Joseph's two reunions (45:14–15; 46:29–30, not yet ingested) into Luke 15:20, where the
+  through Joseph's two reunions (45:14–15; 46:29–30) into Luke 15:20, where the
   Septuagint's Greek and the parable's Greek are close to identical.
 - **On what was updated rather than created.** [[Shechem (city)]], whose page already anticipated this
   purchase from [[The Call of Abram]]'s ingest; and the connection page

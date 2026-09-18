@@ -35,6 +35,11 @@ tags: [connection]
   their national designation for the first time in a while** — *"the sons of Israel did so"* (45:21),
   ***bənê yiśrāʾēl*** — **in a verse about loading carts.** See
   [[The Spirit of Jacob Revived - Ruach Returning]]
+- **Genesis 46:1–5** — [[Jacob's Family Settles in Egypt]]. **The
+  alternation runs four times in five verses** — *Israel traveled* (46:1), *God spoke to Israel* (46:2),
+  *Jacob rose up* (46:5), *the sons of Israel carried Jacob* (46:5) — **and God, in the one speech He
+  makes in the whole Joseph cycle, uses the old name twice**: *"Jacob, Jacob!"* **The narrator says
+  *Israel* in the same verse in which the voice says *Jacob*, and Genesis does not remark on it**
 
 ## Analysis
 

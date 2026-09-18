@@ -179,6 +179,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   issued by the one member of the household who has not lived in it for twenty-two years — *"Come down
   to me. Don't wait"* (45:9). **Genesis records no one raising the difficulty**; it waits for 46:2–4,
   where God does
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:6, 12, 31; 47:1, 4; **left, and named five times in the pericope,
+  every one of them in the past tense or a complaint**: the goods *"which they had gotten in the land
+  of Canaan"*, [[Er]] and [[Onan]] who *"died in the land of Canaan"*, a family that has *"come out of
+  the land of Canaan"*, and *"the famine is severe in the land of Canaan."* **The land of the promise
+  is, in this pericope, the place the family is getting away from**
 
 ## Related places
 

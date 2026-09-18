@@ -34,8 +34,14 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
   is proximity: *"you will be near to me, you, your children, your children's children, your flocks,
   your herds, and all that you have."* **[[Pharaoh (of Joseph's time)]]'s counter-offer eight verses
   later is wider and vaguer** — *"the good of the land of Egypt"*, *"the fat of the land"* (45:18, 20)
-  — **and Goshen is the one that actually happens** (47:6, *not yet ingested*). The chapter names it
+  — **and Goshen is the one that actually happens** (47:6). The chapter names it
   once and never again
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:28–47:6; 47:11; **granted, and occupied before it is granted.**
+  [[Judah]] is sent ahead to find the way there (46:28); the family arrives; **[[Joseph]] tells
+  [[Pharaoh (of Joseph's time)]] they are already in it** (47:1); the brothers ask for it themselves
+  (47:4); **and the king grants it** (47:6). **The instrument that secures it is Egyptian contempt for
+  shepherds** (46:34). 47:11 settles them in *"the land of [[Rameses]]"*, **which Genesis treats as the
+  same country under another name**
 
 ## Related places
 
@@ -47,7 +53,8 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
 
 ## Events here
 
-- **Israel settles in Goshen and is given it by Pharaoh** — Genesis 46:28–47:6 *(not yet ingested)*
+- **Israel settles in Goshen and is given it by Pharaoh** — Genesis 46:28–47:6,
+  [[Jacob's Family Settles in Egypt]]
 - **Jacob lives there seventeen years and dies there** — Genesis 47:28 *(not yet ingested)*
 - **The plagues fall on Egypt and not on Goshen** — Exodus 8:22; 9:26 — *"I will set apart in that day
   the land of Goshen, in which my people dwell, that no swarms of flies shall be there"*

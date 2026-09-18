@@ -41,7 +41,7 @@ way — and the line runs through [[Perez]], the fourth son of his father by a d
 - Given [[Tamar]] as a wife — Genesis 38:6
 - *"Wicked in Yahweh's sight. Yahweh killed him"* — Genesis 38:7
 - Listed among those who went down to Egypt, with the note that he *"died in the land of Canaan"* —
-  Genesis 46:12; Numbers 26:19 *(not yet ingested)*
+  Genesis 46:12, [[Jacob's Family Settles in Egypt]]; Numbers 26:19
 - 1 Chronicles 2:3 — the verdict restated
 
 ## Appears in
@@ -49,6 +49,10 @@ way — and the line runs through [[Perez]], the fourth son of his father by a d
 - [[Judah and Tamar]] — Genesis 38:3, 6–7; **two verses, a wife, and an execution with no charge.**
   The firstborn of the tribe that takes the kingship, dead childless before the chapter is a quarter
   through
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **named in a list of people going into Egypt in order to say that
+  he is not.** ***"But Er and Onan died in the land of Canaan"*** — **the register's only report of a
+  death, and its one backward glance, and it lands on chapter 38.** **The subtraction is what makes
+  [[Leah]]'s thirty-three arithmetically awkward**
 
 ## Related people
 

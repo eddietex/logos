@@ -49,7 +49,8 @@ ministry begins in.**
   Genesis 30:7–8, [[The Birth of Jacob's Children]]
 - Listed among the twelve, second of [[Bilhah]]'s two sons — Genesis 35:25,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Four sons at the descent into Egypt — Genesis 46:24 *(not yet ingested)*
+- Four sons at the descent into Egypt — Genesis 46:24,
+  [[Jacob's Family Settles in Egypt]]
 - Blessed at Jacob's deathbed; *"a doe set free"* — Genesis 49:21 *(not yet ingested)*
 - Judges 4:6; 5:18 — Barak, and the tribe that risked its life on the heights
 - 2 Kings 15:29; Isaiah 9:1; Matthew 4:13–16 — deported early, and named in the prophecy Matthew puts
@@ -92,6 +93,8 @@ ministry begins in.**
   of the reunion conversation the book reports.** The single sentence the ten deliver, in Canaan, is
   *"Joseph is still alive, and he is ruler over all the land of Egypt"* (45:26) — **and it leaves out
   the sale**, which is the omission 50:15 is still living off twenty years later
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:24; **four sons: Jahzeel, Guni, Jezer and Shillem.** With
+  [[Dan (person)]] he makes up [[Bilhah]]'s seven, **the smallest of the four lines**
 
 ## Related people
 

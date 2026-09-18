@@ -180,6 +180,10 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   (45:22), **and one of the eleven who deliver a report to their father that omits the sale** (45:26).
   **The firstborn who tried to save [[Joseph]] at 37:21–22 and found the pit empty is present for the
   disclosure and is given nothing to say about it.** His last recorded words in Genesis remain 42:37
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:8–9; ***"Reuben, Jacob's firstborn"*** — **the title given in full,
+  and for the last time straight.** 49:3–4 will keep the word and remove the thing. **His four sons are
+  Hanoch, Pallu, Hezron and Carmi**, and his Hezron is not [[Hezron (son of Perez)]]; **two men of that
+  name enter Egypt in the same paragraph.** [[Judah]], not he, is sent ahead to find the way (46:28)
 
 ## Related people
 

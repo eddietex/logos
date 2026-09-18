@@ -95,6 +95,13 @@ every one of them.
   not come back to it**: when he returns from Paddan Aram his father's house is at Mamre (35:27), and
   the next time Genesis brings anyone here it is Jacob on his way down to Egypt, offering sacrifices
   and being told *"don't be afraid to go down"* (46:1–4)
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:1–5; **the last stop in the land, and the site of the only
+  divine speech in the Joseph cycle.** [[Jacob]] *"came to Beersheba, and offered sacrifices to the God
+  of his father, Isaac"* (46:1) — **to the God who told [[Isaac]] not to make this journey** (26:2),
+  **at the town where that God appeared to Isaac by night** (26:23–24). **The answer comes the same
+  way, in the same place, and says the opposite**: *"Don't be afraid to go down into Egypt"* (46:3).
+  **He leaves the land from here for the second time in his life** — 28:10 was the first — and Genesis
+  does not name the town again
 
 ## Related places
 
@@ -131,6 +138,7 @@ every one of them.
 - Isaac, blind, is deceived into blessing Jacob, and Esau plans a murder — Genesis 27:1–45 (the town
   is unnamed, and inferred from 26:23–33 and 28:10), [[The Stolen Blessing]]
 - Jacob departs from here for Haran — Genesis 28:10, [[Jacob's Ladder at Bethel]]
-- Jacob sacrifices here and is given leave to go down to Egypt — Genesis 46:1–5 *(not yet ingested)*
+- Jacob sacrifices here and is given leave to go down to Egypt — Genesis 46:1–5,
+  [[Jacob's Family Settles in Egypt]]
 - Elijah leaves his servant here and goes on into the wilderness — 1 Kings 19:3–4
 - Condemned as a pilgrimage shrine — Amos 5:5; 8:14

@@ -110,6 +110,11 @@ is close because you cannot bear to sit in the dark with him.
   see him before I die."* **The man who said three times that he was going down to [[Sheol]] mourning
   names a different journey in the same grammar of descent** — and what he wants at the end of it is
   not an explanation but a sight
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:4; ***"I will also surely bring you up again."*** **The sentence the
+  rest of the Pentateuch is the working-out of**, spoken to a man who will die in Egypt (49:33) and be
+  carried back as a body (50:13). **The promise is made to both the individual and the nation in the
+  same pronoun**, and only one of them collects it. At 46:30 he asks for nothing further: *"Now let me
+  die, since I have seen your face"*
 
 ## Related themes
 

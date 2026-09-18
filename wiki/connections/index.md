@@ -184,3 +184,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
+| [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
+| [[Jacob, Jacob - The Doubled Name and Hinneni]] | motif | Genesis 22:11 · Genesis 46:2 · Exodus 3:4 · 1 Samuel 3:10 · Luke 10:41 · Luke 22:31 · Acts 9:4 |
+| [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |
+| [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]] | typology | Genesis 45:28 · Genesis 46:29–30 · Luke 2:25–32 |
+| [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]] | theological | Genesis 12:2–3 · Genesis 14:18–20 · Genesis 47:7, 10 · Hebrews 7:7 |

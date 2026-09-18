@@ -58,6 +58,9 @@ of what Egyptian religion is** — **and possibly also of what it might become.*
   wife, **the three of them together making up the chapter's act of naturalisation.** **Genesis offers no
   comment at all on a patriarch's household being joined to the cult of the sun** — the most conspicuous
   silence in the chapter, and the wiki records it as a silence
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:20; **named a third and last time, in the register of the seventy**,
+  as [[Potiphera]]'s city and priesthood. **[[Asenath]] is the only woman in Israel's founding roll
+  given a full pedigree, and the pedigree is Egyptian**
 
 ## Related places
 

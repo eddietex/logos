@@ -93,6 +93,11 @@ a father, a father's office, a city, and two sons.
   before, was the shaving. **She bears two sons in the years of plenty and the text names her by her
   father's office even then.** Her sons' naming speeches are Joseph's and mention God twice; **they do
   not mention her**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:20; ***"Asenath, the daughter of Potiphera, priest of On."***
+  **The register gives an Egyptian woman a full pedigree inside Israel's founding roll**, and gives one
+  to nobody else in it. **It flags [[Shaul (son of Simeon)]]'s Canaanite mother, honours her, and passes
+  over [[Shua's Daughter]] in silence** — **three foreign mothers, three treatments, and Genesis offers
+  no rule**
 
 ## Related people
 

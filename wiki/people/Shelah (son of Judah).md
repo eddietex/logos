@@ -51,7 +51,8 @@ double failure that `AGENTS.md` makes the qualifier mandatory for.**
 - Withheld from [[Tamar]]: *"until Shelah, my son, is grown up"* — Genesis 38:11
 - Grown, and still not given — Genesis 38:14
 - Named in Judah's confession — Genesis 38:26
-- Goes down to Egypt in the roster — Genesis 46:12 *(not yet ingested)*
+- Goes down to Egypt in the roster — Genesis 46:12,
+  [[Jacob's Family Settles in Egypt]]
 - Numbers 26:20 — the Shelanites; 1 Chronicles 4:21–23 — the linen-workers
 
 ## Appears in
@@ -59,6 +60,9 @@ double failure that `AGENTS.md` makes the qualifier mandatory for.**
 - [[Judah and Tamar]] — Genesis 38:5, 11, 14, 26; **four mentions, no lines, and the whole plot.** The
   third son, born at a town called *lie*, promised to his brothers' widow and never given to her —
   **and the reason his father gives for the wrong he admits**
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **listed among the seventy, third of
+  [[Judah]]'s five and the one who lived.** **Genesis 38's unpaid obligation is not mentioned**, and no
+  sons are recorded for him here; Numbers 26:20 makes him a clan
 
 ## Related people
 

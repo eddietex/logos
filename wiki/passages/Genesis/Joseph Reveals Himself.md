@@ -300,7 +300,8 @@ it will have to be brought out of.** See [[Land and Sojourning]].
 > **13** You shall tell my father of all my glory in Egypt, and of all that you have seen. You shall
 > hurry and bring my father down here."
 
-***"I will nourish you"*** — ***wəkilkaltî*** — **the same verb as 47:12** *(not yet ingested)*, and
+***"I will nourish you"*** — ***wəkilkaltî*** — **the same verb as 47:12**, discharged in
+[[Jacob's Family Settles in Egypt]], and
 **the reversal of the cycle's opening economics**: **the brothers came to Egypt with silver to buy
 grain** (42:3), **and now the grain is a gift and the silver goes home with them.**
 
@@ -501,7 +502,7 @@ See [[Sheol]] and [[Hope]].
   chapter is the hinge between Genesis's Egypt — a granary and a refuge — and Exodus's**
 - [[Goshen]] — **enters Scripture at 45:10** and is named without explanation. Joseph assigns it before
   Pharaoh has offered anything, and Pharaoh's counter-offer (*"the good of the land of Egypt"*, 45:18)
-  is wider; **the family ends up in Goshen anyway** (47:6, *not yet ingested*). **It is where Israel
+  is wider; **the family ends up in Goshen anyway** (47:6). **It is where Israel
   will live for four hundred years and where the plagues will not fall**
 - [[Canaan]] — **where the chapter's last movement happens and where its stakes have been the whole
   time.** The brothers *go up out of Egypt* (45:25) and arrive to find a man who does not believe them.

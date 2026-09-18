@@ -20,6 +20,11 @@ tags: [connection]
   Israel."*
 - **Luke 10:1, 17** — seventy (or seventy-two) sent out ahead of Jesus, two by two, into every city he
   was about to enter.
+- **Genesis 46:27** — [[Jacob's Family Settles in Egypt]]. **The
+  other seventy.** **The Table of Nations counts the world; the register at 46:8–27 counts a
+  household** — *"All the souls of the house of Jacob, who came into Egypt, were seventy"* — **and
+  walks it into one of the nations.** **Deuteronomy 32:8 is the verse that puts the two numbers
+  together.** See [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]]
 
 ## Analysis
 

@@ -217,6 +217,12 @@ will finally go both ways.
   (45:27). **The man who was convinced of a death by looking at a coat is convinced of a life by
   looking at a cart**, and what he asks for is more of the same: *"I will go and see him before I
   die"*
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:29–30; 47:2; ***"he presented himself to him"***
+  (46:29) is ***wayyērāʾ ʾēlāyw***, **the Niphal of *rāʾâ* — the verb-form that in every other
+  occurrence in Genesis has God as its subject** (12:7; 17:1; 18:1; 26:2, 24; 35:9; 48:3). **Here it is a son getting down from a chariot.** Then ***"since I have
+  seen your face, that you are still alive"*** (46:30): **[[Jacob]] disbelieved the report at 45:26,
+  was persuaded by the wagons at 45:27, and is released by the face here.** **Testimony is the one
+  stage that failed.** See [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]]
 
 ## Related themes
 

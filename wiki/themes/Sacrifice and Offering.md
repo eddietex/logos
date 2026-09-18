@@ -165,6 +165,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   priest, no tabernacle, and nothing said about what was in it. The law will make it a fixed adjunct
   to the burnt offering, always wine, always priestly (Exodus 29:40; Numbers 15:5–10). See
   [[Sacrifice Before the Priesthood]]
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:1; ***"came to Beersheba, and offered sacrifices
+  to the God of his father, Isaac."*** **The last sacrifice in Genesis, and it functions as a
+  question.** **[[Jacob]] has already decided to go** (45:28); **he stops at the border town and
+  sacrifices to the God who forbade this journey to [[Isaac]]** (26:2), **and the answer comes that
+  night.** **No altar is named, no reason is given, and the text does not call it an enquiry** — **but
+  it is the only sacrifice in the book immediately followed by a theophany**
 
 ## Related themes
 

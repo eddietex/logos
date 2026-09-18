@@ -57,7 +57,8 @@ own, so **no collision arises here**; if he is ever given one, both take a quali
 
 - Born to [[Tamar]] by [[Judah]]; the hand, the scarlet thread, and the second delivery —
   Genesis 38:27–30, [[Judah and Tamar]]
-- Goes down to Egypt in the roster — Genesis 46:12 *(not yet ingested)*
+- Goes down to Egypt in the roster — Genesis 46:12,
+  [[Jacob's Family Settles in Egypt]]
 - Numbers 26:20 — the Zerahites counted
 - Joshua 7:1, 18 — Achan, four generations down
 - 1 Chronicles 2:6 — five sons, including Ethan and Heman
@@ -68,6 +69,9 @@ own, so **no collision arises here**; if he is ever given one, both take a quali
 - [[Judah and Tamar]] — Genesis 38:27–30; **the hand that came out first and the boy who came out
   second.** The thread is the Bible's first attempt at documentary evidence, and it is wrong within a
   verse
+- [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **listed among the seventy, with no sons given.** **His twin
+  [[Perez]] is given two in the same verse** — **the register's last word on a birth order that was
+  settled twice**
 
 ## Related people
 
