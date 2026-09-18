@@ -89,20 +89,23 @@ exposure he names, not the boy's fate**, and Jacob will use the first clause bac
 alive stands among *"all his sons"* comforting a father he could undeceive in one sentence** (37:35).
 **Genesis gives him no further word in the chapter, and no word about it for the rest of the book.**
 
-### What is still ahead
-
-This page grows as those pericopes arrive; what follows is the shape of it.
-
-He offers Jacob his own two sons as surety for Benjamin, in the most extravagant and least persuasive
-guarantee anyone in Genesis makes (42:37), and Jacob refuses him. **At 42:22 he is the one who says *"Didn't
-I tell you … 'Don't sin against the child'?"*** — a line the narration of chapter 37 does not record him
-saying.
+### In this pericope — Genesis 49:3–4
 
 **Jacob says nothing about 35:22 for fourteen chapters**, and then, from his deathbed:
 
 > **3** “Reuben, you are my firstborn, my might, and the beginning of my strength; excelling in
 > dignity, and excelling in power. **4** Boiling over like water, you shall not excel; because you went
 > up to your father’s bed, then defiled it. He went up to my couch. (49:3–4)
+
+**Verse 3 is the fullest statement of firstborn right anywhere in Genesis and verse 4 removes it.**
+***Rēʾšît ʾônî***, *the beginning of my strength*, **is the technical phrase Deuteronomy 21:17 uses in
+the law forbidding exactly this transfer**, and the wiki records the collision without resolving it.
+***Paḥaz kammayim***, WEB *"Boiling over like water"*, **is a hapax** — *unstable*, *reckless*,
+*wanton* and *frothing* are all readings of a word that occurs once.
+
+**The harshest thing in it is the grammar.** **Jacob addresses him as *you* — *you went up to your
+father's bed* — and then stops**: ***"He went up to my couch."*** **The father turns from second
+person to third mid-verse and finishes the sentence to the room.** Genesis offers no comment.
 
 **The double portion goes to Joseph, the priesthood to [[Levi]], the kingship to [[Judah]]** — and 1
 Chronicles 5:1–2 states the redistribution outright: *"he was the firstborn; but… his birthright was
@@ -111,9 +114,15 @@ loved one**, which is the configuration Deuteronomy 21:15–17 was written about
 [[Birthright and the Firstborn]] and
 [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]].
 
+### What is still ahead
+
+This page grows as those pericopes arrive; what follows is the shape of it.
+
 The tribe settles east of the Jordan (Numbers 32), is reproached by Deborah for staying home
 (Judges 5:15–16), and produces no judge, no king, and no prophet. **Moses' blessing gives it four
-words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
+words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6) — **the barest saying in that poem**, and
+the counterpart to the barest in this one. See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
 
 ## Timeline / key events
 
@@ -133,8 +142,8 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   *"according to his birthright"* — Genesis 43:33, [[The Second Journey]]
 - Named, with [[Simeon]], as the measure of the rank [[Jacob]] confers on [[Ephraim]] and [[Manasseh]] —
   Genesis 48:5, [[Jacob Blesses Ephraim and Manasseh]]
-- Disinherited from the birthright at Jacob's deathbed — Genesis 49:3–4; 1 Chronicles 5:1–2 *(not yet
-  ingested)*
+- Disinherited from the birthright at Jacob's deathbed; *"you shall not excel"* — Genesis 49:3–4;
+  1 Chronicles 5:1–2, [[Jacob Blesses His Sons]]
 
 ## Appears in
 
@@ -196,6 +205,13 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6).
   says what Genesis 48:5 was.** **Genesis itself gives no motive.** See
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and
   [[Lying with the Father's Concubine - A Claim on the Succession]]
+- [[Jacob Blesses His Sons]] — Genesis 49:3–4; **addressed first, at greatest honour, for one verse.**
+  *"My firstborn, my might, and the beginning of my strength; excelling in dignity, and excelling in
+  power"* — **four titles, and then *"you shall not excel"*.** **The charge is named** (*"because you
+  went up to your father's bed"*), **which is more than 35:22 ever supplied**, and **the last clause
+  stops speaking to him**: *"He went up to my couch."* **He does not reply, and Genesis records no
+  reaction from him or from anyone.** **His is the only saying in the poem that recites what is being
+  taken before taking it**
 
 ## Related people
 

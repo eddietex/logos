@@ -194,6 +194,17 @@ everlasting possession, by treaty with its current occupant.
   Bible.** **All three govern one singular imperative**, *bless*, **and the third of them is an angel.**
   See [[The God Who Has Fed Me - The First Time God Is a Shepherd]] and
   [[The Redeemer and the Avenger of Blood]]
+- [[Jacob Blesses His Sons]] — Genesis 49:24–25; **four designations in two verses, and three of them
+  are the Bible's first.** ***ʾĂbîr yaʿăqōb***, *the Mighty One of Jacob* — **a man coining a name for
+  God out of his own name, on his deathbed**, which Isaiah is still using seven centuries later
+  (49:26; 60:16) and Psalm 132:2, 5 with it. ***Hārōʿeh***, *the shepherd* — **the noun to 48:15's
+  participle**, and the last thing Jacob calls God. ***ʾEben yiśrāʾēl***, *the stone of Israel* — **a
+  construction that occurs nowhere else in the Bible.** And ***El Shaddai*** (49:25), **the fifth and
+  final occurrence in Genesis.** **All four are inside [[Joseph]]'s saying**; the other eleven sons get
+  animals, land and verdicts. **God is named only three times in the whole chapter** — *Yahweh* at
+  49:18, *the God of your father* and *the Almighty* at 49:25 — **against seven times in the
+  twenty-two verses of chapter 48.** See [[The Mighty One of Jacob and the Stone of Israel]]
+
 ## Related themes
 
 - [[Language and Speech]] — naming as an act, throughout Genesis

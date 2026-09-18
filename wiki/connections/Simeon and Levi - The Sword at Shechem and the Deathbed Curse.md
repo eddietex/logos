@@ -86,3 +86,10 @@ shape of an office.
 Kishon, and the Maccabean literature that cites Levi approvingly all stand downstream of a text that
 cursed the anger and kept the man. See [[Dinah and the Massacre at Shechem]], [[Vengeance]],
 [[Priesthood]], [[Simeon]], and [[Levi]].
+
+**Genesis 49:5–7 is now ingested**, in [[Jacob Blesses His Sons]]. **Two details the deathbed adds to
+Genesis 34 are worth holding onto**: ***"in their self-will they hamstrung cattle"***, **which chapter
+34 does not report** — it reports the brothers *taking* the flocks and herds (34:28) — **and
+*məkērōtêhem*, WEB *"their swords"*, a word that occurs once in the Bible** and has been read as
+*wares*, *bargains*, *dwellings* and *plans* as well. **Jacob's account of Shechem is harsher than the
+narrator's, and Genesis lets both stand.**

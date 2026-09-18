@@ -26,13 +26,25 @@ Rachel and like Leah, which two built the house of Israel"*. See
 
 [[Zilpah]], who bore him, says nothing at either of her sons' births.
 
+### In this pericope — Genesis 49:20
+
+> **20** “Asher’s food will be rich. He will produce royal dainties. (49:20)
+
+**One line about food, and it is the only saying in the poem with no animal, no weapon, no territory
+and no verdict.** ***Maʿădannê-melek***, *royal dainties* — **produce good enough for a king's table.**
+
+**The name means *happy*, and [[Leah]] coined it at 30:13** — *"Happy am I! For the daughters will call
+me happy"* — **but the saying does not pun on it**, which makes him one of the eight sons whose name
+the poem leaves alone. **Moses' blessing says the same thing in oil**: *"let him dip his foot in oil"*
+(Deuteronomy 33:24), **and the allotment on the slopes north of Carmel is olive country**, which is
+what both poems are about. See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Jacob's blessing gives him one line about food: *"Asher's food will be rich. He will produce royal
-dainties"* (49:20). Moses' blessing extends it — *"let him dip his foot in oil"* (Deuteronomy 33:24) —
-and the tribe's allotment is the fertile coastal strip north of Carmel (Joshua 19:24–31), olive country,
+The tribe's allotment is the fertile coastal strip north of Carmel (Joshua 19:24–31), olive country,
 which is what both blessings are about. **Judges 1:31–32 records that it failed to drive out the
 inhabitants and lived among them**, and Deborah's song reproaches it for staying at the harbours
 (5:17). Its one memorable descendant is **Anna the prophetess**, *"of the tribe of Asher"*, who is in
@@ -47,7 +59,7 @@ named in the New Testament as a living identity.**
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Four sons and a daughter, Serah, at the descent into Egypt — Genesis 46:17,
   [[Jacob's Family Settles in Egypt]]
-- Blessed at Jacob's deathbed; *"his food will be rich"* — Genesis 49:20 *(not yet ingested)*
+- Blessed at Jacob's deathbed; *"his food will be rich"* — Genesis 49:20, [[Jacob Blesses His Sons]]
 - Deuteronomy 33:24–25; Joshua 19:24–31; Judges 1:31–32; 5:17 — the oil, the coast, and the tribe that
   stayed at the harbours
 - Luke 2:36 — Anna the prophetess, *"of the tribe of Asher"*
@@ -93,6 +105,10 @@ named in the New Testament as a living identity.**
   sister"* — **[[Serah]] is the only granddaughter named anywhere in the register of seventy**, and
   **Scripture never says why**; it names her twice more (Numbers 26:46; 1 Chronicles 7:30) in lists
   that had no need of her
+- [[Jacob Blesses His Sons]] — Genesis 49:20; **one line, about food.** **The only saying in the poem
+  with nothing in it to fight, fear or lose** — no animal, no weapon, no territory and no verdict —
+  **and one of the eight whose name goes unpunned.** *"Royal dainties"* is the promise, and
+  Deuteronomy 33:24 makes the same promise in oil
 
 ## Related people
 

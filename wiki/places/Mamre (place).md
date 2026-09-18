@@ -50,6 +50,11 @@ and both pages carry qualifiers as `AGENTS.md` requires — this one and [[Mamre
   Hebron), where Abraham and Isaac lived as **foreigners**"* — three names for one site and the
   sojourner's verb, *gār*, for what two generations did on ground they owned one cave of. **No word
   passes between father and son on the page**, and [[Isaac]] dies in the next verse
+- [[Jacob Blesses His Sons]] — Genesis 49:30; **the landmark a grave is measured from, for the fourth
+  time.** *"In the cave that is in the field of Machpelah, which is before Mamre, in the land of
+  Canaan."* **The grove where [[Abraham]] pitched his tent, argued with God over Sodom and entertained
+  three visitors is now, in Genesis's last use of the name but one, purely a surveyor's fix** — **the
+  same phrase as 23:17, 23:19 and 25:9, recited from a deathbed in [[Egypt]]**
 
 ## Related places
 

@@ -201,6 +201,45 @@ years of plenty, absolute authority over Egypt, and Hebron about nine days away*
 attempt, and no reason given.** The motives readers supply (fear of his brothers, waiting on the dreams,
 a grief too large to reopen) **are all imported; the wiki records the silence as a silence.**
 
+### In this pericope — Genesis 49:22–26
+
+**Five verses, tied with [[Judah]]'s for the longest in the poem, and they contain nine-tenths of the
+chapter's blessing vocabulary.**
+
+> **22** “Joseph is a fruitful vine, a fruitful vine by a spring. His branches run over the wall.
+> **23** The archers have severely grieved him, shot at him, and persecuted him:
+> **24** But his bow remained strong. The arms of his hands were made strong, by the hands of the
+> Mighty One of Jacob, (from there is the shepherd, the stone of Israel), (49:22–24)
+
+***"The archers have severely grieved him."*** **The only backward glance in the poem, and Genesis
+narrates no archers.** **It narrates a pit, a sale, a false accusation and a prison** — **and the
+father describes his son's life in the vocabulary of an ambush, naming nobody, with the men who did it
+standing in the room.** **The wiki records the verse as figurative and notes that nothing in the
+narrative supplies the figure.** **48:22's *"with my sword and with my bow"* is the same phenomenon in
+the same deathbed.**
+
+**The four names of God in 49:24–25 are all in his saying, and three of them are firsts.**
+***ʾĂbîr yaʿăqōb***, **the Mighty One of Jacob** — a title Isaiah still uses seven centuries later
+(49:26; 60:16). ***Hārōʿeh***, **the shepherd** — **the noun to 48:15's participle**, and the last
+thing Jacob calls God. ***ʾEben yiśrāʾēl***, **the stone of Israel** — **a construction that occurs
+nowhere else in the Bible.** And ***El Shaddai*** at 49:25, **the fifth and final occurrence in
+Genesis.** Filed as [[The Mighty One of Jacob and the Stone of Israel]]; see
+[[The God Who Has Fed Me - The First Time God Is a Shepherd]] and
+[[God Almighty - El Shaddai in Genesis and Exodus]].
+
+**The blessings come in three pairs and they map the cosmos** — *heaven above*, *the deep that lies
+below* (***təhôm***, the word of Genesis 1:2), and *the breasts and the womb*. **Sky, abyss, body:
+rain, springs and children.**
+
+***Nəzîr ʾeḥāyw*** — **WEB *"him who is separated from his brothers"*** — **is the noun behind
+*Nazirite*** (Numbers 6), **and it means both *set apart* and *cut off*.** **His life makes both true
+at once**, and **Deuteronomy 33:16 repeats the phrase over him word for word.** See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
+**What he does not get here is the scepter.** **49:8 gives [[Judah]]'s brothers bowing to Judah** —
+the sentence his own dreams made about himself — **and 1 Chronicles 5:2 is the only verse in Scripture
+that states the division: the birthright to Joseph, the prince from Judah.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
@@ -294,6 +333,8 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
 - [[Ephraim]] and [[Manasseh]] adopted as Jacob's own; the double portion, and *"one portion above your
   brothers"* at [[Shechem (city)]] — Genesis 48:5, 22,
   [[Jacob Blesses Ephraim and Manasseh]]
+- Blessed at the deathbed in the poem's longest saying; the archers, the Mighty One of Jacob, the
+  shepherd, the stone of Israel — Genesis 49:22–26, [[Jacob Blesses His Sons]]
 - *"Am I in the place of God? … you meant evil against me, but God meant it for good"* — Genesis
   50:19–20 *(not yet ingested)*
 - Dies at a hundred and ten; the oath about his bones — Genesis 50:24–26; Exodus 13:19; Joshua 24:32
@@ -433,6 +474,13 @@ his bones up, and Exodus 13:19 and Joshua 24:32 record that they did.
   your brothers"* at [[Shechem (city)]] (48:22), where Joshua 24:32 will bury his bones. See
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and
   [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]]
+- [[Jacob Blesses His Sons]] — Genesis 49:22–26; **the poem's longest saying with [[Judah]]'s, and the
+  only one made mostly of names for God.** **He is present and silent throughout the chapter** — **the
+  vizier of Egypt, listening to his father hand the kingship to a brother in a sentence his own dreams
+  had made about himself** (49:8; compare 37:7–10). **What he is given is a vine by a spring, a bow
+  that held, four divine titles, and blessings of sky, abyss and body.** **Seven of the chapter's nine
+  occurrences of *bless* are in his five verses**, and **eleven brothers receive none of them.**
+  ***Nəzîr ʾeḥāyw***, *separated from his brothers*, **is the last thing his father says about him**
 
 ## Related people
 

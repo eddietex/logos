@@ -158,6 +158,14 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   else.** **1 Samuel 8:11–18 is this passage in the future tense and at half the rate**, and 1 Kings
   12:4 is the same demand producing the opposite result. See
   [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]]
+- [[Jacob Blesses His Sons]] — Genesis 49:8–10; ***"The scepter will not depart from Judah, nor the
+  ruler's staff from between his feet"*** — **the Bible's first attachment of rule to a named tribe.**
+  **[[Abraham]] was told *"kings will come out of you"*** (17:6) **and [[Jacob]] the same** (35:11),
+  **with no tribe named**; **49:10 gives the promise an address**, three centuries before Israel has a
+  king and spoken by a man dying in [[Egypt]]. **The saying also puns the throne into the tribe**:
+  ***šēbeṭ*** is both *scepter* and *tribe*. **What the verse's last three words say is genuinely
+  undecided** — see [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] — **but what they
+  attach is not**
 
 ## Related themes
 

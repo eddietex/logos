@@ -300,6 +300,14 @@ the rest of the canon.
   **the narrator's sentence, not his** — **and where a country begs not to die and sells itself, the
   patriarch takes it as settled and arranges the freight.** **A nation buys life with its liberty in
   the same paragraph in which an old man spends his last strength on a grave**
+- [[Jacob Blesses His Sons]] — Genesis 49:33; **a man speaks for thirty-two verses and dies in the
+  thirty-third, with no narration in between.** ***"He gathered up his feet into the bed, and yielded
+  up the spirit, and was gathered to his people"*** — **three verbs, and the first is physical.** **He
+  has been sitting on the edge of that bed since 48:2**, and **the last thing he does is lie down.**
+  ***Wayyigwaʿ wayyēʾāsep*** **is the formula used of [[Abraham]]** (25:8) **and [[Isaac]]** (35:29),
+  **said here of a man about to be buried four hundred miles from all of them.** **The chapter records
+  no reaction from anyone**: nobody weeps and nobody speaks, and the mourning waits for 50:1. See
+  [[Gathered to His People]]
 
 ## Related themes
 

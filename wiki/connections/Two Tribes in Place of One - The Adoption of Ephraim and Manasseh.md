@@ -117,3 +117,10 @@ dying man said *they are mine* about two boys born in [[Egypt]] to an Egyptian p
 wife.** [[Rachel]] bore two sons where [[Leah]] bore six; **Joseph receives two shares of the land
 through his own two sons**, and Genesis 48:7 — the abrupt sentence about Rachel's grave — **sits in the
 middle of the adoption for that reason.** See [[Birthright and the Firstborn]].
+
+**Genesis 49 is now ingested**, in [[Jacob Blesses His Sons]], **and it supplies both halves of the
+hinge this page turns on.** **49:3–7 vacates the two positions 48:5 measured the adoption against** —
+*"even as [[Reuben]] and [[Simeon]]"* — **and 49:28 then counts twelve tribes with [[Joseph]] as one
+and [[Levi]] in**, eight verses after the chapter that made that count impossible to keep. **1
+Chronicles 5:1–2 reads the two chapters together and is the only verse in Scripture that states what
+they did.**

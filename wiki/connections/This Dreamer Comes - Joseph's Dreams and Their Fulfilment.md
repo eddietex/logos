@@ -183,3 +183,9 @@ sentence they add, *"we will see what will become of his dreams"* (37:20), **is 
   sarcastically, by the men about to sell him, nine verses of narrative after God promised Jacob that
   *"kings will come out of your body"* (35:11). See [[Kings Will Come Out of You]] and
   [[Kingship and Empire]].
+
+**Genesis 49:8 is now ingested**, in [[Jacob Blesses His Sons]] — **and it says of [[Judah]] what
+37:7–10 said of [[Joseph]]**: *"Your father's sons will bow down before you."* **It is spoken in
+Joseph's hearing, by the father who rebuked him for the dream** (37:10), **and Genesis never
+reconciles the two claims.** **1 Chronicles 5:2 is the only verse in Scripture that states both and
+divides them** — the birthright to Joseph, the prince from Judah.

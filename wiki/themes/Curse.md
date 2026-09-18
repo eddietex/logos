@@ -161,6 +161,14 @@ the same verses that put the tree of life back in reach (see
 - [[Bildad's Second Speech]] — covenant-curse vocabulary borrowed without the covenant: sulfur
   scattered on the habitation (18:15, against Deuteronomy 29:23), roots dried beneath and branch cut
   off above, and a name erased from the street
+- [[Jacob Blesses His Sons]] — Genesis 49:7; ***"Cursed be their anger, for it was fierce"*** — **the
+  only *ʾārûr* one human being pronounces over another party in Genesis apart from [[Noah]]'s on a
+  grandson** (9:25) — **12:3 and 27:29 use the word in conditional formulas, not as a verdict** —
+  **and it is the only curse in the Bible aimed at a disposition rather than at a person.** **[[Jacob]] curses
+  the *anger* of [[Simeon]] and [[Levi]] and then sentences the men anyway**: *"I will divide them in
+  Jacob, and scatter them in Israel."* **The distinction is real and it does not spare the tribes** —
+  **and it is the reason the sentence can later be converted for one of them without being lifted.**
+  **The chapter that contains this curse is the one the narrator calls a blessing** (49:28)
 
 ## Related themes
 

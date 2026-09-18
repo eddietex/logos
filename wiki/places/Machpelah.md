@@ -91,6 +91,14 @@ recorded here as such.
   of the six who has to secure it first**, because he is the only one dying outside [[Canaan]].
   49:29–31 will name the cave, [[Ephron the Hittite]] and the Hittites explicitly, for the fourth of
   five times
+- [[Jacob Blesses His Sons]] — Genesis 49:29–32; **the fourth and fullest recitation of the deed, and
+  the only one that lists the occupants.** **Four of the chapter's last five verses are about this
+  field**: the cave, [[Ephron the Hittite]] named twice, [[Mamre (place)]], the land of [[Canaan]], the
+  purchase, and [[The Children of Heth]]. **[[Jacob]] has now asked for it twice in three chapters** —
+  under oath to one son at 47:29–31, and here as a charge to all twelve. **And 49:31 is the only verse
+  in the Bible that reports where [[Rebekah]] and [[Leah]] are buried.** **The whole chapter is spoken
+  in [[Egypt]] about a plot of ground four hundred miles away, and the only use it is put to is
+  burial**
 
 ## Related places
 

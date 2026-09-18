@@ -197,6 +197,12 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   is present only as a thing promised** — *"will give this land to your offspring after you for an
   everlasting possession"* (48:4) — **and as a thing to be returned to**: *"God will be with you, and
   bring you again to the land of your fathers"* (48:21). **Nobody in the chapter is in it**
+- [[Jacob Blesses His Sons]] — Genesis 49:30; **named once in thirty-three verses, as the country a
+  grave is in.** *"In the land of Canaan, which Abraham bought with the field from Ephron the Hittite
+  as a burial place."* **The whole chapter assigns coastlines, hills, pastures and a harbour to twelve
+  sons who own none of it** — [[Zebulun]]'s haven, [[Issachar]]'s pleasant land, [[Asher]]'s rich food,
+  [[Joseph]]'s ancient hills — **and the only square foot of it the family actually holds is the one
+  the dying man asks to be carried to.** **Nobody in the chapter is in the land**
 
 ## Related places
 

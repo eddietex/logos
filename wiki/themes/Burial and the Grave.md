@@ -136,6 +136,15 @@ assumption is that a body left out is a person left out.**
   **[[Leah]] is in the cave and she is not** (49:31). **The wiki reads the verse as the premise of the
   adoption it interrupts** — two sons against Leah's six — **and marks that as a reading.** See
   [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]
+- [[Jacob Blesses His Sons]] — Genesis 49:29–32; **four of the chapter's last five verses are about a
+  grave, and they are the theme's fullest statement in Genesis.** **[[Jacob]] recites the deed** — the
+  cave, the field, [[Ephron the Hittite]] named twice, [[Mamre (place)]], the land of [[Canaan]], the
+  purchase from [[The Children of Heth]] — **and then lists the occupants** (49:31). **That verse is
+  the only report in the Bible of where [[Rebekah]] and [[Leah]] are buried**, and **the only place
+  Genesis says where [[Isaac]] was laid.** **The wife Jacob loved is not in the list**; he accounted
+  for that one chapter earlier (48:7) and does not mention it here. **This is the second time in three
+  chapters he has asked** (47:29–31), **which is the measure of how far he trusts Egypt to do it**
+
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into
   the ground in twenty-nine verses, more than any other chapter in the book.** The household's foreign

@@ -158,6 +158,14 @@ holds up Esau as the warning.
   deceit, purchase or violence**: an old blind man does deliberately what an old blind man was once
   tricked into doing. **Both boys are adopted by Jacob as his own** (48:5), **which is how the
   firstborn's double portion reaches Joseph** (1 Chronicles 5:1–2)
+- [[Jacob Blesses His Sons]] — Genesis 49:3–4, 8; **the theme's demolition scene, and it is done in
+  public with the rule quoted.** ***Rēʾšît ʾônî***, *the beginning of my strength* (49:3), **is
+  Deuteronomy 21:17's own technical phrase in the law that forbids exactly this transfer** — and
+  **49:4 makes the transfer**: *"you shall not excel."* **[[Reuben]] is the fourth and last elder
+  brother Genesis passes over, and the only one told to his face why.** **Then the inheritance is
+  split two ways**: the double portion to [[Joseph]] by the adoption of 48:5, and the rule to
+  [[Judah]] at 49:8–10. **1 Chronicles 5:1–2 is the only verse in Scripture that states both halves
+  and names the reason**
 
 ## Related themes
 

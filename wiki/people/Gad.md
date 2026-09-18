@@ -27,13 +27,30 @@ produced at 30:9 because Leah has *stopped* bearing, not because she cannot.**
 
 Zilpah, who bore him, is not recorded saying anything at either of her sons' births.
 
+### In this pericope — Genesis 49:19
+
+> **19** “A troop will press on Gad, but he will press on their heel. (49:19)
+
+**Five Hebrew words, four of them built out of his name, and it is the densest wordplay in the
+Bible:** ***gād gədûd yəgûdennû wəhûʾ yāgud ʿāqēb.*** **The pun is on a second root** — ***gədûd***, a
+raiding band — **where his mother's naming at 30:11 heard *gād*, *fortune*.** **The line turns on
+itself**: *raiders will raid him, and he will raid their heel.*
+
+***ʿĀqēb***, *heel*, **is the word of [[Jacob]]'s own birth and his own name** (25:26; 27:36) — **the
+heel he was born holding and the pun [[Esau]] mocked him with.** **He uses it once in the poem, of
+somebody else's enemies**, and Genesis does not remark on it.
+
+**The saying suits the allotment.** **Gad settles east of the Jordan** (Numbers 32:34–36), **exposed
+on the frontier and raided from it for most of its history**; **1 Chronicles 12:8 calls its men
+*"mighty men of valour… whose faces were like the faces of lions"*.** **Moses' blessing keeps the
+predatory image and upgrades it** — *"he dwells as a lioness, and tears the arm"* (Deuteronomy
+33:20–21). See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Jacob's blessing puns the name three more times in one verse, on a second root — ***gədûd***, a raiding
-band: *"A troop will press on **Gad**, but he will press on their heel"* (49:19). Moses' blessing keeps
-the predatory image (Deuteronomy 33:20–21). **The tribe takes land east of the Jordan** — with Reuben
+**The tribe takes land east of the Jordan** — with Reuben
 and half of Manasseh, on their own request, in the negotiation of Numbers 32 — **and so is one of the
 tribes settled outside the land the promise names.** The Mesha Stele, a Moabite inscription from the
 ninth century, mentions the men of Gad living in Ataroth *"from of old"*: **one of the few tribal names
@@ -47,7 +64,7 @@ of Genesis attested outside the Bible.**
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Seven sons at the descent into Egypt — Genesis 46:16,
   [[Jacob's Family Settles in Egypt]]
-- Blessed at Jacob's deathbed; the troop and the heel — Genesis 49:19 *(not yet ingested)*
+- Blessed at Jacob's deathbed; the troop and the heel — Genesis 49:19, [[Jacob Blesses His Sons]]
 - Numbers 32 — the request for land east of the Jordan; Deuteronomy 33:20–21 — Moses' blessing
 - Isaiah 65:11 — *Gad* as a deity with a table prepared for him
 
@@ -90,6 +107,10 @@ of Genesis attested outside the Bible.**
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:16; **seven sons — Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi and Areli
   — the longest son-list of any of the twelve except [[Benjamin]]'s.** **With [[Asher]] he accounts for
   [[Zilpah]]'s sixteen**, and none of the seven is heard from again outside the tribal censuses
+- [[Jacob Blesses His Sons]] — Genesis 49:19; **one line, and the tightest wordplay in the Bible** —
+  four of its five words are his name. **The only saying in the poem whose subject is a raid**, and the
+  only one in which the son is attacked first and answers. ***ʿĀqēb***, *heel*, **is [[Jacob]]'s own
+  birth-word** (25:26), **used here of somebody else's enemies**
 
 ## Related people
 

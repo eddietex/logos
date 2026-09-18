@@ -35,21 +35,40 @@ them the last word and withholds its verdict for fifteen chapters. See
 [[Dinah and the Massacre at Shechem]] and
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
 
+### In this pericope — Genesis 49:5–7
+
+**Jacob's deathbed puts him and Levi in a single curse**, the only two of the twelve to share one:
+
+> **5** “Simeon and Levi are brothers. Their swords are weapons of violence.
+> **6** My soul, don’t come into their council. My glory, don’t be united to their assembly; for in
+> their anger they killed men. In their self-will they hamstrung cattle.
+> **7** Cursed be their anger, for it was fierce; and their wrath, for it was cruel. I will divide them
+> in Jacob, and scatter them in Israel. (49:5–7)
+
+***"Simeon and Levi are brothers"*** **is a flat statement and a verdict.** All twelve are brothers;
+**these two are *brothers* in the sense that they act as one**, which is what 34:25 said of them.
+***Məkērōtêhem***, WEB *"their swords"*, **occurs once in the Bible** and has been read as *wares*,
+*bargains*, *dwellings* and *plans* as well as *swords*.
+
+**The account is harsher than the narrator's.** ***"In their self-will they hamstrung cattle"*** —
+**Genesis 34 reports that the brothers *took* the flocks and herds** (34:28), **not that anyone
+crippled them.** And **Jacob's ground has moved**: at 34:30 his objection was that the massacre made
+him *"a stench to the inhabitants of the land"*; **at 49:6 it is that *"in their anger they killed
+men."*** **The deathbed supplies the moral term the chapter withheld**, fifteen chapters late.
+
+**The curse falls on the anger and the sentence falls on the men** — ***ʾārûr ʾappām***, *cursed be
+their anger*, and then *"I will divide them in Jacob."* **The distinction is real and it does not save
+the tribe.** See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
+
 ### What is still ahead
 
 This page grows as the remaining pericopes arrive; what follows is the shape of them.
 
-**Jacob's deathbed puts him and Levi in a single curse**, the only two of the twelve to share one:
-
-> **5** Simeon and Levi are brothers. Their swords are weapons of violence. **6** My soul, don't come
-> into their council… for in their anger they killed men. **7** Cursed be their anger, for it was
-> fierce; and their wrath, for it was cruel. I will divide them in Jacob, and scatter them in Israel.
-> (49:5–7)
-
-**The scattering happens to both and means opposite things.** Levi is scattered and becomes the
+**The scattering happens to both and means opposite things.** [[Levi]] is scattered and becomes the
 priesthood; **Simeon is scattered and disappears** — its allotment is a set of towns inside Judah's
 territory (Joshua 19:1, 9), it is the smallest tribe by the second census (Numbers 26:14), and **it is
-missing from Moses' blessing in Deuteronomy 33 altogether.**
+missing from Moses' blessing in Deuteronomy 33 altogether** — **the only son of Jacob with no saying
+there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
 
 ## Timeline / key events
 
@@ -65,8 +84,8 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   43:23, [[The Second Journey]]
 - Named, with [[Reuben]], as the measure of the rank [[Jacob]] confers on [[Ephraim]] and [[Manasseh]] —
   Genesis 48:5, [[Jacob Blesses Ephraim and Manasseh]]
-- Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
-  ingested)*
+- Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7,
+  [[Jacob Blesses His Sons]]
 
 ## Appears in
 
@@ -121,6 +140,12 @@ missing from Moses' blessing in Deuteronomy 33 altogether.**
   to read Genesis 48 and 49 as one deathbed. See
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] and
   [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
+- [[Jacob Blesses His Sons]] — Genesis 49:5–7; **the only saying in the poem addressed to two sons at
+  once, and the only curse.** His name comes first in it and nothing in the three verses is said about
+  him alone. **The deathbed adds a detail Genesis 34 does not report** — *"they hamstrung cattle"* —
+  **and changes the charge from imprudence to killing.** **What he is sentenced to, [[Levi]] is
+  sentenced to in the same breath**, and the two outcomes could not be further apart: **Levi gets
+  forty-eight cities and an office; Simeon gets absorbed into [[Judah]]** and is gone from the lists
 
 ## Related people
 

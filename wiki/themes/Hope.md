@@ -122,6 +122,14 @@ is close because you cannot bear to sit in the dark with him.
   to him at [[Beersheba]]; **47:29 is the first act by anyone in the family that treats the descent
   as temporary**, and it comes seventeen years after the settling and two verses after the report
   that they were multiplying exceedingly
+- [[Jacob Blesses His Sons]] — Genesis 49:18; ***"I have waited for your salvation, Yahweh"*** — **the
+  first occurrence in the Bible of the noun *yəšûʿâ*, salvation**, and **the only prayer in a
+  thirty-three-verse chapter.** ***Qiwwîtî*** **is the waiting that strains toward**, the verb of
+  Psalm 130:5 and Isaiah 40:31, **and the tense is perfect**: he is reporting a lifetime of it, not
+  beginning one. **Genesis supplies no object** — no *from what* and no *for whom* — **and the man
+  saying it is five verses from his death, in a foreign country, having buried one wife by a road and
+  mourned a living son for twenty years.** See
+  [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]]
 
 ## Related themes
 

@@ -70,7 +70,8 @@ Hittites.
 - Receives the silver, weighed to the merchants' standard; the field, cave, and trees are deeded to
   Abraham — Genesis 23:16–18
 - Named again as the field's former owner when Abraham is buried in it — Genesis 25:9–10,
-  [[The Death of Abraham and the Line of Ishmael]]; and twice more at 49:29–30 and 50:13
+  [[The Death of Abraham and the Line of Ishmael]]; named twice in two verses in Jacob's burial
+  instruction — Genesis 49:29–30, [[Jacob Blesses His Sons]]; and once more at 50:13
   *(not yet ingested)*
 
 ## Appears in
@@ -79,6 +80,12 @@ Hittites.
   only land transfer in the patriarchal narratives
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:9–10; named in the third of five
   recitations of the deed, as the buyer is laid in the cave
+- [[Jacob Blesses His Sons]] — Genesis 49:29–30; **named twice in two verses, in the fourth recitation
+  of the deed and the fullest.** *"The cave that is in the field of Ephron the Hittite… which Abraham
+  bought with the field from Ephron the Hittite as a burial place."* **[[Jacob]]'s last instruction
+  cites the seller by name and nationality, the field, the cave, the buyer and the purpose** — **a
+  title deed read out from a bed in Egypt, thirty-eight chapters after the sale.** **The man who once
+  asked four hundred shekels as though it were nothing is now simply the provenance of a grave**
 
 ## Related people
 

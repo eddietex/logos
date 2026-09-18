@@ -8175,3 +8175,187 @@ linked — their passage pages do not exist yet.
   checklist. The Joseph paragraph has not been extended since [[Jacob's Family Settles in Egypt]].
 
 Genesis stands at 57 / 59 pericopes; the next is *Jacob Blesses His Sons*, Genesis 49:1–33.
+
+## [2026-09-18] ingest | Genesis 49.1-33 — Jacob Blesses His Sons
+
+Unattended run (`/ingest auto`). The book page had the pericope queued as Genesis 49:1–33 and the
+boundary was kept. Two splits were considered and refused. **Running 49 and 50 together as *the death
+of Jacob*** would bury the twelve sayings inside a funeral; **splitting 49:1–27 from 49:28–33** would
+separate the poem from the sentence that calls it a blessing, which is the pericope's central problem.
+**Boundary unchanged.** Genesis 50 is now the last unchecked box in the book.
+
+### The passage page
+
+[[Jacob Blesses His Sons]], `wiki/passages/Genesis/`, built around eight findings.
+
+**1. The narrator calls the whole chapter a blessing and three of the twelve sayings are not one.**
+*"He blessed everyone according to his blessing"* (49:28) covers [[Reuben]]'s *"you shall not excel"*
+(49:4), [[Simeon]] and [[Levi]]'s *"cursed be their anger"* (49:7), and [[Issachar]]'s *"a servant
+doing forced labor"* (49:15). **The wiki reads *"according to his blessing"* as definitional rather
+than descriptive** — what each son received *is* his blessing — **and flags it as a reading**, with the
+three competing readings (loose summary; *bārak* as *took formal leave of*; verses 3–7 as a later
+insertion) recorded and none adopted.
+
+**2. 49:1 is the first *bəʾaḥărît hayyāmîm* in the Bible.** **The phrase Genesis uses for *later on*
+becomes the prophets' formula for the consummation** — Numbers 24:14, Deuteronomy 4:30 and 31:29,
+Isaiah 2:2, Micah 4:1, Hosea 3:5, Daniel 2:28 and 10:14 — **and the Septuagint's rendering is what
+Acts 2:17 and Hebrews 1:2 mean by *the last days*.** **Nothing in Genesis 49 requires the later
+sense**: what follows is territorial, military and political. Filed as
+[[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]], which measures the distance
+rather than collapsing it.
+
+**3. 49:10 is the most disputed sentence in Genesis and the page sets out four readings without
+choosing between the Hebrews.** ***ʿAd kî-yābōʾ šîlōh*** is read as *šellōh* (*that which is his*),
+*šay lōh* (*tribute to him*), the place name Shiloh, or a personal title. **The wiki adopts the WEB's
+*"until he comes to whom it belongs"***, which follows the Septuagint's *ta apokeimena autō* and the
+echo at Ezekiel 21:27 (*"until he comes whose right it is"*), **and states that the consonants do not
+decide.** **It records that all four have been read messianically and does not adjudicate that
+either.** Filed as [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]].
+
+**4. 49:18 is the first *yəšûʿâ* in the Bible, and it interrupts.** Five words, first person,
+addressed to God, between [[Dan (person)]]'s serpent and [[Gad]]'s raiders — **the only prayer in the
+chapter and the only occurrence of the name *Yahweh* in it.** **Three placements are on record** (it
+belongs to Dan's saying; it divides the poem at its midpoint; it is unplaced), **and the wiki adopts
+none.** The noun is the root of *Joshua*, *Isaiah*, *Hosea* and *Jesus*, and Psalm 119:166 is close
+enough to be an echo — **recorded as an echo, not a citation.** Filed as
+[[I Have Waited for Your Salvation - The First Yeshuah in Scripture]].
+
+**5. 49:24 coins three divine titles and all three are firsts.** ***ʾĂbîr yaʿăqōb***, *the Mighty One
+of Jacob*, which Isaiah 49:26 and 60:16 and Psalm 132 still use; ***hārōʿeh***, *the shepherd*, **the
+noun to 48:15's participle**; and ***ʾeben yiśrāʾēl***, *the stone of Israel*, **which occurs nowhere
+else in the Bible.** **The stone texts the New Testament collects — Psalm 118:22, Isaiah 8:14 and
+28:16, Daniel 2 — do not include this one**, and the page records the priority without claiming
+influence. Filed as [[The Mighty One of Jacob and the Stone of Israel]]; the shepherd half was added to
+[[The God Who Has Fed Me - The First Time God Is a Shepherd]] rather than duplicated.
+
+**6. The lion of 49:9 grows through three nouns in one verse and has a long afterlife.** *Gûr ʾaryēh*
+→ *ʾaryēh* → *lābîʾ*, ending on the poem's only rhetorical question. **Balaam quotes the line almost
+verbatim at Numbers 24:9**, Hosea 5:14 gives the lion to God and Judah's house to the prey,
+**Ezekiel 19 makes the lioness the royal house taken in a pit**, and Revelation 5:5 is the only New
+Testament verse naming tribe and animal together — **and substitutes a Lamb in the next verse.** Filed
+as [[The Lion of Judah - Genesis 49.9 and Revelation 5.5]].
+
+**7. Genesis 49 and Deuteronomy 33 are the Bible's two tribal poems and they disagree.** **[[Simeon]]
+is absent from Deuteronomy 33 altogether**, the only son with no saying there. **[[Levi]] is cursed
+here and given the Urim, the teaching office and the altar there.** **[[Benjamin]]'s ravenous wolf
+becomes *the beloved of Yahweh*, and [[Dan (person)]]'s serpent becomes a lion's cub** — **the lion
+Genesis gave to [[Judah]], whose five verses Deuteronomy cuts to one.** **[[Joseph]]'s two sayings
+share whole phrases** — *nəzîr ʾeḥāyw* and *the deep that couches beneath* — **which is the strongest
+evidence either way that one poem knows the other.** Filed as
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]], with Judges 5:14–18 as
+the third member of the set and the only one that grades the tribes on conduct.
+
+**8. Two verses report burials that Scripture reports nowhere else.** **49:31 is the only record of
+[[Rebekah]]'s burial and the only record of [[Leah]]'s**, and the only verse that places [[Isaac]] in
+the cave. **Rebekah's is also the last mention of her in the Bible** — Genesis never narrates her
+death, while it gives her nurse [[Deborah (Rebekah's nurse)]] a death notice and a named tree (35:8).
+**And *"there I buried Leah"* is the other half of 48:7**: the wife Jacob was tricked into is in the
+grave he is asking to be carried to, and the wife he worked fourteen years for is beside a road.
+Both were filed onto [[Buried at Machpelah - The Six Graves of Genesis]] and
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]].
+
+### Judgment calls made without asking
+
+- **No `Divided in Jacob and Scattered in Israel` connection page was created.** The obvious page for
+  49:7 — Levi's curse becoming the priesthood while Simeon's identical sentence erases him — **already
+  exists as [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]**, written when Genesis
+  34 was ingested and already carrying Exodus 32:26–29, Numbers 25, Deuteronomy 33:8–11 and Joshua
+  19 and 21. **It was extended rather than duplicated**, with the two details the deathbed adds to
+  chapter 34: the hamstrung cattle, which 34:28 does not report, and *məkērōtêhem*, a word that occurs
+  once in the Bible.
+- **The new place page is [[Sidon (city)]], not `Sidon`.** Genesis 10:15 makes Sidon the firstborn of
+  [[Canaan (son of Ham)]], and [[The Table of Nations]] deliberately left both pages unmade. **A bare
+  `Sidon.md` would collide silently** — `scripts/link-check.sh` resolves by basename and Obsidian picks
+  one by an unstated rule — **so the city takes its kind as a qualifier now**, per the person/place rule
+  in `AGENTS.md`, and the person will be `Sidon (son of Canaan)` when he gets a page. **No rename of an
+  existing page was needed.**
+- **Six connection pages were created rather than four or nine.** The four rejected candidates were a
+  page for Issachar's *mas-ʿōbēd* (absorbed into [[Slavery and Servitude]]), one for Benjamin's wolf
+  (absorbed into the Deuteronomy 33 comparison), one for the vine and the wine (already covered by
+  [[The Vine and the Cup]], which was extended), and one for Reuben's *rēʾšît ʾônî* against
+  Deuteronomy 21:17 (already covered by
+  [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]], also extended).
+- **Three textual cruxes were recorded with all readings and a stated preference, not resolved.**
+  *Šîlōh* (49:10), *məkērōtêhem* (49:5), and Naphtali's *ʾimrê-šāper* (49:21), where WEB's *beautiful
+  fawns*, the Septuagint's *goodly boughs* and the plain consonants' *words of beauty* are all
+  defensible. **The WEB's rendering is adopted in each case and the alternatives are named.**
+- **Zebulun's coastline is recorded as a mismatch, not harmonised.** 49:13 gives him a haven and a
+  border on Sidon; **Joshua 19:10–16 puts him inland in lower Galilee and reaches neither.** Neither
+  book remarks on it and the wiki does not invent a reconciliation.
+
+### Pages touched
+
+**Created (8):** [[Jacob Blesses His Sons]]; [[Sidon (city)]];
+[[The Scepter and Shiloh - Genesis 49.10 and Its Readings]],
+[[The Lion of Judah - Genesis 49.9 and Revelation 5.5]],
+[[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]],
+[[I Have Waited for Your Salvation - The First Yeshuah in Scripture]],
+[[The Mighty One of Jacob and the Stone of Israel]],
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
+**Revised — people (20):** all twelve sons — [[Reuben]], [[Simeon]], [[Levi]], [[Judah]],
+[[Zebulun]], [[Issachar]], [[Dan (person)]], [[Gad]], [[Asher]], [[Naphtali]], [[Joseph]],
+[[Benjamin]] — plus [[Jacob]], [[Leah]], [[Rebekah]], [[Abraham]], [[Sarah]], [[Isaac]],
+[[Ephron the Hittite]] and [[The Children of Heth]]. **Fifteen of those pages gained a
+`### In this pericope — Genesis 49` section**, carved out of the `### What is still ahead` material
+that had been anticipating this chapter, and **thirteen stale `*(not yet ingested)*` markers pointing
+at this pericope were resolved** — **two new ones were written in their place**, on [[Jacob]] and
+[[Ephron the Hittite]], both pointing at Genesis 50.
+
+**Revised — places (3):** [[Machpelah]], [[Mamre (place)]], [[Canaan]].
+
+**Revised — the book page:** [[Genesis]]'s `## Structure` prose **had stopped at 47:12**, a standing
+finding from the last two entries; it now runs to the end of the book's narrative, covering the three
+pericopes of the deathbed.
+
+**Revised — themes (16):** [[Blessing]], [[Curse]], [[Prophecy and Vision]],
+[[Birthright and the Firstborn]], [[Kingship and Empire]], [[Names and Naming]], [[The Names of God]],
+[[Burial and the Grave]], [[Hope]], [[Priesthood]], [[Slavery and Servitude]], [[Retribution]],
+[[Life and Death]], [[Brotherhood]], [[War]], [[Land and Sojourning]].
+
+**Revised — connections (15):** [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]],
+[[Buried at Machpelah - The Six Graves of Genesis]], [[Gathered to His People]],
+[[The Twelve Sons and the Lists That Reorder Them]], [[The Vine and the Cup]],
+[[Kings Will Come Out of You]], [[Lying with the Father's Concubine - A Claim on the Succession]],
+[[The God Who Has Fed Me - The First Time God Is a Shepherd]],
+[[God Almighty - El Shaddai in Genesis and Exodus]],
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]],
+[[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+[[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]],
+[[Bethel from Jacob's Pillar to Jeroboam's Calf]],
+[[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]],
+[[Renamed and Still Called Jacob - The Two Namings of Israel]].
+
+Plus [[books/index|Books]], [[people/index|People]], [[places/index|Places]],
+[[themes/index|Themes]], [[connections/index|Connections]] and [[index|the top-level index]].
+
+### Link check
+
+`scripts/link-check.sh` exits 0. **No links were deliberately left dangling.** Genesis 50:1–14,
+50:15–21 and 50:22–26 are named in prose and dated rather than linked — their passage page does not
+exist yet, and it is the last one in the book.
+
+### Findings left for the next lint
+
+- **Unchanged from the last entry**: the stray empty `Exodus.md` at the repository root (`53be57b`);
+  the ***"He made himself strange to them"*** fragment for 42:7 on [[Joseph Sold into Slavery]] and
+  [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]]; the stale marker on
+  [[The Tower of Babel]]; the seven older passage pages not retro-linked to [[Sexual Sin]]; the seven
+  plural brothers' missing [[The Second Journey]] entries; the Cyrillic *е* inside *ʾênennû* in
+  `wiki/people/Jacob.md` and `wiki/books/Genesis.md`; the stale markers on
+  [[The Cupbearer and the Baker]] and [[The Nations]]; the [[Adoption]] retro-linking noted last time.
+- **`wiki/themes/index.md`'s *Key passages* column is still stale for several themes**, for the third
+  entry running, and for the same reason: this pass appended to rows rather than rebuilding them.
+  **Rebuilding that column is a lint job and is now overdue.**
+- **New**: [[Benjamin]]'s page now has a `### What is still ahead (continued)` heading, an artefact of
+  splitting a long anticipation section around the Genesis 49 material. **It should be folded back into
+  one heading.**
+- **New**: [[Reuben]]'s `### What is still ahead` still described Genesis 42, which was ingested six
+  pericopes ago; that part was moved out in this pass, but **the same staleness may be present in other
+  sons' pages** and was not audited.
+- **New**: eight of the twelve sons now have a Genesis 49 section quoting the poem, and **none of the
+  twelve passage pages for the birth narratives links forward to it.** Retro-linking
+  [[The Birth of Jacob's Children]] to the twelve sayings is a lint job.
+
+Genesis stands at 58 / 59 pericopes; the next and last is *The Deaths of Jacob and Joseph*,
+Genesis 50:1–26.

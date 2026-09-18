@@ -26,15 +26,37 @@ of three hearings in the pericope with nothing printed on the other side of them
 bought it are never mentioned again in the Bible. **[[Rachel]], who acquired them, stays barren for
 another five verses**, and when she conceives the reason given is *"God remembered Rachel"* (30:22).
 
+### In this pericope — Genesis 49:14–15
+
+> **14** “Issachar is a strong donkey, lying down between the saddlebags.
+> **15** He saw a resting place, that it was good, the land, that it was pleasant. He bows his shoulder
+> to the burden, and becomes a servant doing forced labor. (49:14–15)
+
+Jacob's blessing gives him a fourth pun on the same root and **the least flattering line in the
+chapter** — **a tribe named *hire* that ends up as *mas*, the corvée.**
+
+***Ḥămōr gārem*** is literally *a bony donkey*, meaning raw-boned and strong — **and the strength is
+the setup for the humiliation.** ***Bên hammišpətayim***, WEB *"between the saddlebags"*, is obscure:
+*two sheepfolds*, *two burdens*, *two hearthstones* have all been proposed. **What is not obscure is
+the transaction of verse 15**: he sees that rest is good and the land is pleasant, **and pays for both
+with his back.**
+
+***Mas-ʿōbēd***, *a serving levy*, **is the Egyptian bondage's own vocabulary** — Exodus 1:11 sets
+*"taskmasters"*, *śārê missîm*, over Israel — **and it is what Solomon puts the surviving Canaanites
+under** (1 Kings 9:21). **He is the only one of the twelve told in advance that he will choose comfort
+and pay in forced labour**, and **the only saying in the poem that is bad news without being a
+punishment for anything.** See [[Slavery and Servitude]] and [[Work]].
+
+**Judges 5:15 is the counter-evidence and the wiki records it**: *"the princes of Issachar were with
+Deborah… into the valley they rushed forth at his feet."* **Moses' blessing pairs him with
+[[Zebulun]] and reproaches him with nothing** (Deuteronomy 33:18). See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Jacob's blessing gives him a fourth pun on the same root and the least flattering line in the chapter:
-*"Issachar is a strong donkey, lying down between the saddlebags. He saw a resting place, that it was
-good… so he bows his shoulder to the burden, and becomes a servant doing forced labor"* (49:14–15) —
-**a tribe named *hire* that ends up as *mas*, the corvée.** The territory is the Jezreel valley, the
-best farmland in the north and the most fought-over.
+The territory is the Jezreel valley, the best farmland in the north and the most fought-over.
 
 The tribe's one moment of standing is 1 Chronicles 12:32: *"of the children of Issachar, men who had
 understanding of the times, to know what Israel ought to do"* — **the verse that made the name a
@@ -48,7 +70,8 @@ byword for discernment**, and it has no narrative attached to it anywhere.
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Four sons at the descent into Egypt — Genesis 46:13,
   [[Jacob's Family Settles in Egypt]]
-- Blessed at Jacob's deathbed; the donkey and the forced labour — Genesis 49:14–15 *(not yet ingested)*
+- Blessed at Jacob's deathbed; the donkey and the forced labour — Genesis 49:14–15,
+  [[Jacob Blesses His Sons]]
 - Judges 5:15 — the princes of Issachar with Deborah; 1 Chronicles 12:32 — *"understanding of the
   times"*
 
@@ -88,6 +111,12 @@ byword for discernment**, and it has no narrative attached to it anywhere.
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:13; **four sons: Tola, Puvah, Iob and Shimron.** **The WEB's
   *Iob* invites a collision with the book of Job and there is none** — the name is *yôb*, read *Jashub*
   at Numbers 26:24, **and [[Job (person)]] is a different word**
+- [[Jacob Blesses His Sons]] — Genesis 49:14–15; **two verses, and the poem's only saying that is bad
+  news without being a sentence.** [[Reuben]] is demoted for 35:22 and [[Simeon]] and [[Levi]] are
+  cursed for 34:25; **he is told he will sell his strength for a comfortable valley, and nothing he has
+  done is named.** ***Mas-ʿōbēd***, *forced labour*, **is the word Exodus 1:11 will use of Israel in
+  Egypt** — **applied to a tribe of Israel by its own father, in Egypt, four hundred years early.**
+  **Judges 5:15 and 1 Chronicles 12:32 both record the tribe doing better than the saying allows**
 
 ## Related people
 

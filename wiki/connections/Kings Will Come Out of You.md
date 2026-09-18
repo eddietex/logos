@@ -122,3 +122,9 @@ before Jacob's does, which is the same pattern the book uses for Ishmael's twelv
 - **And it is given to two people who have no children.** The Bible's first sentence about kings is
   addressed to a hundred-year-old man and a ninety-year-old woman, which is the chapter's method in
   miniature: every promise in it is made to somebody with no visible means of receiving it.
+
+**Genesis 49:10 is now ingested**, in [[Jacob Blesses His Sons]] — **the verse where the promise
+acquires an address.** [[Abraham]] and [[Jacob]] were told kings would come from them with no tribe
+named; 49:10 attaches the rule to [[Judah]] three centuries before Israel has a king. **What its last
+three words actually say is undecided** — see
+[[The Scepter and Shiloh - Genesis 49.10 and Its Readings]].

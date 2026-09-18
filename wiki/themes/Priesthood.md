@@ -98,6 +98,15 @@ something comes down through him. That two-way motion is what the word adds. See
   Israel"* (Numbers 18:20). **One priesthood is exempted from a nation's dispossession; the other is
   dispossessed so the nation is not.** See
   [[The Priests Who Kept Their Land and the Levites Who Got None]]
+- [[Jacob Blesses His Sons]] — Genesis 49:5–7; **the priesthood's origin is a curse, and Genesis does
+  not know it.** *"Cursed be their anger… I will divide them in Jacob, and scatter them in Israel"* is
+  a sentence of dispersal on [[Levi]] for the sword at [[Shechem (city)]] — **and the dispersal is
+  carried out to the letter**: no territory, forty-eight towns through every other tribe (Joshua 21;
+  Numbers 35:1–8). **What changes is what it means.** **At Exodus 32:26–29 the tribe takes up a sword
+  again, at Moses' order, and is ordained for it**; Deuteronomy 33:8–11 grounds the teaching office
+  and the altar in the same disposition Genesis cursed. **[[Simeon]], under the identical sentence,
+  simply disappears.** **No text in the Bible explains the difference**, and the wiki does not supply
+  one. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Related themes
 

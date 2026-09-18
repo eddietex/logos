@@ -107,3 +107,9 @@ number.
 See [[Jacob's Ladder at Bethel]], [[Bethel]], [[The Call of Abram]], [[Abram and Lot Separate]],
 [[The Pillar Jacob Raised and the Pillars the Law Forbids]], [[Kingship and Empire]], [[Judgment]],
 and [[Remembrance]].
+
+**Genesis 49:16–17 is now ingested**, in [[Jacob Blesses His Sons]] — **the saying that belongs to the
+tribe which will supply the other half of Jeroboam's pair.** **[[Dan (person)]]'s serpent on the trail
+belongs to the tribe that steals a Levite and a graven image in Judges 18** and gives its name to
+[[Dan (city)]], **where 1 Kings 12:29 puts the second calf.** **Genesis says none of that**, and the
+wiki records the trajectory rather than reading it into the verse.

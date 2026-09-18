@@ -111,3 +111,9 @@ together, without adjudication, in the same verse that names the craft. The forg
 sits four verses from the Song of the Sword (4:22–24); the first city is built by a man sentenced to
 wander (4:17); and the first vineyard is planted by the only man in the book called blameless. See
 [[City and Civilization]].
+
+**Genesis 49:11–12 is now ingested**, in [[Jacob Blesses His Sons]] — **the Old Testament's most
+extravagant vine image**, a man rich enough to tether a donkey to a vine and launder in the vintage.
+**Read forward it stops being comfortable**: Isaiah 63:1–3 puts a figure in garments stained red from
+a winepress and calls it the day of vengeance, and Revelation 19:13, 15 clothes the rider in *"a
+garment sprinkled with blood"*. **Genesis 49:11 is the seed of both and commits to neither.**

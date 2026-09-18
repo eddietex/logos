@@ -308,6 +308,14 @@ where that starts, in a sentence about a family that got halfway.
   ground the narrator says he bought** (33:19). **Meanwhile the land appears in the pericope only as a
   theophany and a grave** (48:3, 7). See
   [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]]
+- [[Jacob Blesses His Sons]] — Genesis 49:13, 15, 26, 29–32; **a man dying in [[Egypt]] distributes
+  land he does not own.** [[Zebulun]] gets a harbour and a border on [[Sidon (city)]] **that Joshua
+  19:10–16 does not give him**; [[Issachar]] gets a pleasant land and pays for it in forced labour;
+  [[Asher]] gets rich food; [[Joseph]] gets *"the boundaries of the ancient hills."* **Then the
+  chapter names the only ground the family actually holds** — the cave and field at [[Machpelah]],
+  bought and paid for (49:30) — **and the only use it is put to is burial.** **Twelve tribal
+  territories assigned in twenty-five verses, and the one deed anyone can produce is for a grave**
+
 ## Related themes
 
 - [[Famine and Plenty]] — the commonest reason anyone in Genesis leaves anywhere

@@ -102,3 +102,7 @@ happens to had spent his whole life a thousand miles from the people it names. *
 formula standing unexplained**, exactly as it leaves *lāśûaḥ*, *məṣaḥēq*, and the last clause of
 25:18 standing unexplained. See [[The Hope of Resurrection in the Old Testament]] and
 [[Burial and the Grave]].
+
+**Genesis 49:29 and 49:33 are now ingested**, in [[Jacob Blesses His Sons]] — **the only place in
+Scripture where the formula is used twice of the same man in four verses, once by him and once about
+him**, and where the *gather* of 49:1–2's summons turns out to be the same root.

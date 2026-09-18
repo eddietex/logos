@@ -211,6 +211,13 @@ addressing a slave by name and no one else in the story doing so.
   (47:25) — **and the man who was sold buys.** **Exodus 1:11–14 turns the same machinery on Israel**,
   and Deuteronomy 6:21 gives the phrase back to Israel as its own memory: *"We were Pharaoh's slaves
   in Egypt."* See [[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]]
+- [[Jacob Blesses His Sons]] — Genesis 49:15; ***mas-ʿōbēd***, *a serving levy* — **the corvée, and
+  the only time in Genesis a son of Jacob is told he will be put under one.** **[[Issachar]] sees that
+  rest is good and the land is pleasant, and pays for both with his back**: *"He bows his shoulder to
+  the burden, and becomes a servant doing forced labor."* **The noun is the Egyptian bondage's own** —
+  Exodus 1:11 sets *taskmasters*, *śārê missîm*, over Israel — **and it is what Solomon puts the
+  surviving Canaanites under** (1 Kings 9:21). **The word is spoken in Egypt, by a man whose
+  descendants are four hundred years from hearing it applied to all of them**
 
 ## Related themes
 

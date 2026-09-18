@@ -82,6 +82,13 @@ what is withheld, which is Genesis's habit with its patriarchs.
 - Psalm 20:7; 33:16–17; 1 Chronicles 22:8 — the distrust of arms
 - Isaiah 2:4; Micah 4:3; Zechariah 9:10 — the swords beaten down
 - Matthew 26:52; 2 Corinthians 10:3–5; Ephesians 6:10–17 — the weapons reassigned
+- [[Jacob Blesses His Sons]] — Genesis 49:5–27; **six of the twelve sayings are military, and the one
+  that is not is about being conquered.** Swords called *weapons of violence* (49:5), a lion from the
+  prey (49:9), a serpent that drops a rider (49:17), a raiding troop raided back (49:19), a bow that
+  held against archers (49:23–24), and **a wolf dividing plunder** (49:27) — **against [[Issachar]]
+  under forced labour** (49:15). **Genesis narrates none of it**: there is no battle of Jacob's, no
+  archer in [[Joseph]]'s story, and the one massacre the book does narrate (34:25–29) is the thing
+  49:5–7 curses. **The chapter's vocabulary is the conquest's, spoken in Egypt before any of it**
 
 ## Related themes
 

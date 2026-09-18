@@ -113,3 +113,9 @@ See [[Names and Naming]].
 - **And it makes the wiki's caution explicit.** A reader who wants *the* order of the tribes will find
   one in whichever list they open first. **The honest answer is that the Bible keeps changing it, and
   that the changes are the argument.**
+
+**Genesis 49:1–28 is now ingested**, in [[Jacob Blesses His Sons]]. **49:28 is where the phrase *the
+twelve tribes of Israel* — *šibṭê yiśrāʾēl* — enters the Bible**, and **the list that produces it
+counts [[Joseph]] as one and includes [[Levi]]** — **the arrangement 48:5 had made untenable eight
+verses earlier.** **Genesis sets the two side by side and reconciles neither**, which is the problem
+every later roster inherits.

@@ -119,3 +119,9 @@ how a New Testament writer reads an Old Testament verse forward.
   promise about return; Matthew uses it as the dark half of a nativity; and it is quoted almost
   everywhere as unrelieved grief, with verses 16 and 17 left off. **Both prophets who use her know
   she is the mother who did not live to raise her son.** See [[Hope]] and [[Suffering]].
+
+**Genesis 49:31 is now ingested**, in [[Jacob Blesses His Sons]] — **the other half of 48:7.** *"And
+there I buried Leah"* is the only report of [[Leah]]'s burial in the Bible, **and it places the wife
+Jacob was tricked into in the cave he is asking to be carried to, while [[Rachel]] stays beside a road
+to Ephrath.** **Genesis states both facts, one chapter apart, in Jacob's own voice, and comments on
+neither.**

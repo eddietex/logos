@@ -620,6 +620,10 @@ gets a death notice in this same chapter** (35:8); she does not.
   blessed"* (27:33) — **and his son does**: *"I know, my son, I know"* (48:19). **Hebrews 11:20–21 names
   the two blessings in consecutive verses and credits both to faith.** See
   [[Two Blind Fathers - Genesis 27 and Genesis 48]] and [[The Stolen Blessing]]
+- [[Jacob Blesses His Sons]] — Genesis 49:31; **named once, as *"Isaac and Rebekah, his wife"***, in
+  the list of the cave's occupants. **Genesis reported his death and burial at 35:29** — *"his sons
+  Esau and Jacob buried him"* — **without saying where**; **this verse supplies the place**, and it is
+  the only one that does. **[[Rebekah]]'s burial is reported here and nowhere else at all**
 
 ## Related people
 

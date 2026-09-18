@@ -609,6 +609,29 @@ every item of whose evidence is mercy, **which the book does not correct for fiv
   the starting line of Exodus 12:37** — and given a ***possession***, the word Genesis has used only of
   a grave.
 
+  **The last three pericopes are one long deathbed and the book's summing-up.**
+  **[[Joseph and the Famine]]** buys Egypt for [[Pharaoh (of Joseph's time)]] — money, livestock, land
+  and persons, with only the priests' estate exempt — **and ends on the opposite transaction**: an old
+  man extracting an oath, hand under the thigh, that he will not be buried where he is.
+  **[[Jacob Blesses Ephraim and Manasseh]]** is the book's fourth reversal of elder and younger, **and
+  the only one performed in the open, with no deceit, no purchase, and nobody disinherited** — and it
+  adopts two half-Egyptian grandsons into Israel by a four-word formula, ***lî-hēm***, *they are mine*.
+  **Then [[Jacob Blesses His Sons]] turns twelve men into twelve tribes.** **It is the longest poem in
+  Genesis and the longest human speech in it**, framed by eight verses of prose and delivered without a
+  dream, a vision, a messenger or a *thus says Yahweh*: **a dying man simply says what will happen *in
+  the days to come*** — ***bəʾaḥărît hayyāmîm***, **the phrase's first appearance in the Bible and the
+  prophets' standing formula ever after.** **The first three sayings settle old accounts** — [[Reuben]]
+  for 35:22, [[Simeon]] and [[Levi]] for 34:25 — **and in clearing the first three positions they hand
+  the rule to the fourth**: *"The scepter will not depart from Judah"* (49:10), **the Bible's first
+  attachment of kingship to a named tribe** and the most disputed sentence in the book. **The double
+  portion goes to [[Joseph]]**, whose five verses hold four names for God, three of them Scripture's
+  first. **And the narrator calls all of it blessing** (49:28), **over a demotion, a curse and a
+  sentence of forced labour.** **The chapter closes on a grave**: four verses reciting the deed to
+  [[Machpelah]] and naming five people in it, **[[Leah]] among them, in the only report of her burial
+  anywhere in the Bible** — and then *"he gathered up his feet into the bed, and yielded up the
+  spirit."* **A book that opened on the whole earth ends by describing one field, bought and paid
+  for.**
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -683,7 +706,7 @@ merge, or reorder them freely.
 - [x] [[Jacob's Family Settles in Egypt]] — Genesis 46:1–47:12
 - [x] [[Joseph and the Famine]] — Genesis 47:13–31
 - [x] [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:1–22
-- [ ] Jacob Blesses His Sons — Genesis 49:1–33
+- [x] [[Jacob Blesses His Sons]] — Genesis 49:1–33
 - [ ] The Deaths of Jacob and Joseph — Genesis 50:1–26
 
 ## Key themes

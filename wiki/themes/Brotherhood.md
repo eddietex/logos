@@ -128,6 +128,13 @@ resolve it.**
   **[[Judah]] is sent ahead to find the way** (46:28) — **the family's own verdict on the man who
   proposed the sale** — **and the text does not record [[Reuben]] noticing.** [[Joseph]] weeps on his
   father's neck and briefs his brothers in the next breath
+- [[Jacob Blesses His Sons]] — Genesis 49:5, 8, 26; **the noun does three opposite jobs in twenty
+  verses.** ***"Simeon and Levi are brothers"*** (49:5) **is the chapter's flattest sentence and its
+  bitterest** — all twelve are brothers; **these two are *brothers* in the sense that they act as
+  one**, which is what 34:25 said of them. ***"Your brothers will praise you"*** (49:8) **makes the
+  relation a hierarchy.** And ***nəzîr ʾeḥāyw***, *"him who is separated from his brothers"* (49:26),
+  **makes it a distance** — **the word behind *Nazirite*, meaning both *set apart* and *cut off*, and
+  [[Joseph]]'s life makes both true**
 
 ## Related themes
 

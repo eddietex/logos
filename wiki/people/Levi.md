@@ -34,11 +34,20 @@ sword, came upon the unsuspecting city, and killed all the males"* (34:25). **Th
 proposed as the terms is the incapacitation he used as the method**, in a chapter that never once
 names the God whose sign it is. See [[Dinah and the Massacre at Shechem]] and [[Circumcision]].
 
+### In this pericope — Genesis 49:5–7
+
 **Jacob's deathbed pairs the two of them in the only shared verdict among the twelve** — *"Cursed be
 their anger, for it was fierce… I will divide them in Jacob, and scatter them in Israel"* (49:5–7) —
 **and the curse falls on the anger rather than on the men**, which is why it can later be converted
 rather than merely served. See
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
+
+**Three things in the three verses bear on him specifically.** **His name is second and he is never
+addressed alone**; **the sword he took at 34:25 is called *məkērōtêhem*, a word that occurs once in
+the Bible and that every version renders differently**; **and the penalty named is dispersal —
+*"scatter them in Israel"* — which is precisely the arrangement the Torah will later describe as his
+inheritance.** **Nothing in Genesis anticipates the reversal**, and the wiki does not read it back
+into 49:7. See [[Jacob Blesses His Sons]] and [[Priesthood]].
 
 ### What is still ahead
 
@@ -68,8 +77,8 @@ the same willingness to use a sword to a different use.
 - Listed among the seventy who go down to Egypt; his three sons Gershon, Kohath, Merari — Genesis
   46:11,
   [[Jacob's Family Settles in Egypt]]
-- Cursed with Simeon at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7 *(not yet
-  ingested)*
+- Cursed with Simeon at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7,
+  [[Jacob Blesses His Sons]]
 - Exodus 32:26–29 — the tribe ordained at Sinai; Numbers 18; Deuteronomy 33:8–11 — the priesthood and
   the teaching office
 
@@ -114,6 +123,13 @@ the same willingness to use a sword to a different use.
   [[Gershon]]'s house will carry the fabric, [[Kohath]]'s the ark and the holy vessels, [[Merari]]'s
   the frames — **and Kohath's grandsons are Moses and Aaron.** **Genesis records it as a list item on a
   journey and says none of that**
+- [[Jacob Blesses His Sons]] — Genesis 49:5–7; **named second in the poem's only shared saying and its
+  only curse.** *"Cursed be their anger… I will divide them in Jacob, and scatter them in Israel."*
+  **He is not present, not addressed alone, and given no reply.** **The sentence is dispersal, and it
+  is carried out exactly** — forty-eight towns through every other tribe, and no land of his own
+  (Joshua 21) — **while its meaning is turned inside out.** **The tribe that is cursed here for using a
+  sword is ordained at Exodus 32:26–29 for using one.** **Genesis says nothing of that**, and the wiki
+  records the reversal as the Torah's, not as this chapter's
 
 ## Related people
 

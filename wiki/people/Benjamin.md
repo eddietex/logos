@@ -67,9 +67,28 @@ concealment.**
 and given five portions and then five garments, and the book never once quotes him — see
 [[Joseph Reveals Himself]].
 
-Jacob's deathbed blessing makes him a predator: *"Benjamin is a ravenous wolf. In the morning he will
-devour the prey. At evening he will divide the plunder"* (49:27) — **the shortest and most violent of
-the twelve**, and the tribe lives up to it. Ehud the left-handed judge is a Benjaminite (Judges 3:15),
+### In this pericope — Genesis 49:27
+
+> **27** “Benjamin is a ravenous wolf. In the morning he will devour the prey. At evening he will
+> divide the plunder.” (49:27)
+
+Jacob's deathbed blessing makes him a predator — **the shortest of the twelve sayings, the most violent
+of them, and the last word of the poem.**
+
+**The contrast with everything the book has said about him is total.** **He is the child [[Jacob]]
+would not send, the one [[Judah]] stood surety for, the one whose sack the cup was planted in** — **a
+possession to be protected for eleven chapters, and never once quoted.** **The last thing his father
+says about him is *plunder*.**
+
+**Nothing in Genesis prepares it and the rest of Scripture obliges it.** Ehud, Gibeah, Saul, and the
+man who was *"ravaging the assembly"* before Damascus (Acts 8:3) are all Benjamites. **Moses' blessing
+says the opposite** — *"the beloved of Yahweh will dwell in safety by him"* (Deuteronomy 33:12) —
+**which is the sharpest single disagreement between the two tribal poems after [[Levi]]'s.** See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
+### What is still ahead (continued)
+
+Ehud the left-handed judge is a Benjaminite (Judges 3:15),
 as are the seven hundred left-handed slingers who *"could sling a stone at a hair and not miss"*
 (Judges 20:16) — **left-handed men from the tribe of the right hand.** The tribe is nearly
 exterminated at Gibeah (Judges 19–21), a story told in the vocabulary of Sodom; see
@@ -97,7 +116,7 @@ Paul, who carries Saul's name.
   performing in the Joseph cycle** — Genesis 45:14, [[Joseph Reveals Himself]]
 - Given five changes of clothing and three hundred pieces of silver where his brothers get one garment
   each — Genesis 45:22
-- Blessed as a ravenous wolf — Genesis 49:27 *(not yet ingested)*
+- Blessed as a ravenous wolf; the poem's last word — Genesis 49:27, [[Jacob Blesses His Sons]]
 
 ## Appears in
 
@@ -156,6 +175,13 @@ Paul, who carries Saul's name.
   Rosh, Muppim, Huppim and Ard — more than any of his brothers**, from the man the last three chapters
   have treated as a boy who needs a guarantor. **Genesis says nothing about it**, and **as everywhere
   else in the cycle he does not speak.** His Bela is not [[Bela (son of Beor)]] of Edom
+- [[Jacob Blesses His Sons]] — Genesis 49:27; **nine Hebrew words, the shortest of the twelve sayings,
+  and the last line of the poem.** ***"A ravenous wolf"*** — **the youngest son, the one the book has
+  spent eleven chapters protecting, described as a predator who eats in the morning and shares out
+  loot at night.** **He does not speak here either**; **Genesis quotes him nowhere, from his mother's
+  death at his birth to his father's death in this chapter.** **Deuteronomy 33:12 calls him *the
+  beloved of Yahweh*, dwelling in safety** — the flattest contradiction between the two tribal poems
+  outside [[Levi]]'s
 
 ## Related people
 

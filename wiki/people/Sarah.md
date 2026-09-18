@@ -475,6 +475,11 @@ stopped. See [[A Wife for Isaac]] and [[Rebekah]].
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:10, 12; the last clause of Abraham's
   burial puts him in the ground *"with Sarah, his wife"*, and two verses later she is named once more
   as the owner of a slave who has been free for thirty-eight years
+- [[Jacob Blesses His Sons]] — Genesis 49:31; **named once, as *"Abraham and Sarah, his wife"*** — the
+  first of the three couples [[Jacob]] lists in the cave. **The chapter she is named in is the one
+  that turns her husband's twelve great-grandsons into tribes**, and **the field she was the occasion
+  of buying** (23:1–20) **is the only ground the family owns when it does.** See
+  [[Buried at Machpelah - The Six Graves of Genesis]]
 
 ## Related people
 

@@ -30,13 +30,32 @@ statement of what the whole birth sequence is — not a woman contending with Go
 women contending with each other and counting children as points. [[Bilhah]], who bore him, says
 nothing.
 
+### In this pericope — Genesis 49:21
+
+> **21** “Naphtali is a doe set free, who bears beautiful fawns. (49:21)
+
+**Four words in Hebrew, and among the most obscure in the chapter** — **an image with no narrative
+behind it anywhere in Genesis.**
+
+***ʾAyyālâ šəluḥâ hannōtēn ʾimrê-šāper.*** **The first half is uncontested**: *a doe let loose*. **The
+second half is the problem.** ***ʾImrê*** is the ordinary plural construct of ***ʾēmer***, *word* or
+*saying*, and ***šāper*** is *beauty* — **so the natural reading is *who gives words of beauty*, which
+does not obviously suit a deer.** **Three solutions are on record:**
+
+- **WEB, with most modern versions, repoints to get *fawns*** — a freed doe with handsome young.
+- **The Septuagint and Vulgate read the whole line as a tree** — *a spreading terebinth putting forth
+  goodly boughs* — **which requires taking *ʾayyālâ* as *ʾēlâ*.**
+- **The plain consonants give speech**, and some read the line of a tribe that speaks well.
+
+**The wiki adopts the WEB's and records the other two.** **There is no episode in Scripture that
+settles it**, which is itself the point: **he is one of four sons the poem gives an image and no
+history.**
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Jacob's blessing is four words in Hebrew and among the most obscure in the chapter: *"Naphtali is a
-doe set free, who bears beautiful fawns"* (49:21) — an image with no narrative behind it anywhere in
-Genesis. Moses' blessing gives the tribe *"the west and the south"* (Deuteronomy 33:23). Its territory
+Moses' blessing gives the tribe *"the west and the south"* (Deuteronomy 33:23). Its territory
 is the far north-west of the land, around Galilee; **Barak, who fights Sisera, is from Kedesh in
 Naphtali** (Judges 4:6), and Deborah's song singles the tribe out for risking its life on the heights
 (5:18). Tiglath-Pileser deports it early (2 Kings 15:29), which is what Isaiah 9:1 is about — **and
@@ -51,7 +70,7 @@ ministry begins in.**
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Four sons at the descent into Egypt — Genesis 46:24,
   [[Jacob's Family Settles in Egypt]]
-- Blessed at Jacob's deathbed; *"a doe set free"* — Genesis 49:21 *(not yet ingested)*
+- Blessed at Jacob's deathbed; *"a doe set free"* — Genesis 49:21, [[Jacob Blesses His Sons]]
 - Judges 4:6; 5:18 — Barak, and the tribe that risked its life on the heights
 - 2 Kings 15:29; Isaiah 9:1; Matthew 4:13–16 — deported early, and named in the prophecy Matthew puts
   over Galilee
@@ -95,6 +114,11 @@ ministry begins in.**
   the sale**, which is the omission 50:15 is still living off twenty years later
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:24; **four sons: Jahzeel, Guni, Jezer and Shillem.** With
   [[Dan (person)]] he makes up [[Bilhah]]'s seven, **the smallest of the four lines**
+- [[Jacob Blesses His Sons]] — Genesis 49:21; **one line, and the versions cannot agree what is in
+  it** — a freed doe with fawns, a spreading tree with goodly boughs, or something that speaks well.
+  **The last of the four short sayings**, and **the last saying before the poem turns to [[Joseph]] and
+  runs for five verses.** **His name is not punned**, though 30:8's *wrestlings of God* was the densest
+  naming speech in the birth narrative
 
 ## Related people
 

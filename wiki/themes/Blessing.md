@@ -316,6 +316,16 @@ costly.
   head** (48:14) — **Genesis 27 uses a kiss** — **and the only one anyone tries to physically move while
   it is happening** (48:17). See [[Hands on the Head - The First Blessing by Touch]] and
   [[God Make You as Ephraim and as Manasseh - The Blessing Formula]]
+- [[Jacob Blesses His Sons]] — Genesis 49:25–26, 28; ***bārak*** **nine times in thirty-three verses,
+  and seven of the nine are inside [[Joseph]]'s five verses.** **The other eleven sayings never use the
+  word.** **The theme's hardest verse is the narrator's summary**: *"this is what their father spoke to
+  them and blessed them. He blessed everyone according to his blessing"* (49:28) — **said over a
+  demotion** (*"you shall not excel"*, 49:4), **a curse** (*"cursed be their anger"*, 49:7) **and a
+  sentence of forced labour** (49:15). **The wiki reads *"according to his blessing"* as definitional
+  rather than descriptive** — what each son received *is* his blessing — **and flags it as a reading.**
+  **On any reading, Genesis's last and largest act of blessing is the one in which the word has to
+  stretch furthest**
+
 ## Related themes
 
 - [[Famine and Plenty]] — fruitfulness as a gift, and the years it is withheld

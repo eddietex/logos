@@ -103,3 +103,8 @@ See [[The Names of God]] and [[Calling on the Name of Yahweh]].
 - **And the English word is a translation of a guess.** *Almighty* has shaped how the name is heard in
   every English-speaking pulpit for four hundred years, and it rests on the least defensible of the
   four etymologies. Where it matters, this wiki gives the Hebrew.
+
+**Genesis 49:25 is now ingested**, in [[Jacob Blesses His Sons]] — **the fifth and final occurrence in
+Genesis** (17:1; 28:3; 35:11; 48:3; 49:25), **and the second spoken by [[Jacob]] in two chapters.**
+**Like 48:3 it is a human being using the name rather than God announcing it**, and here it stands
+beside three further titles coined in the same two verses.

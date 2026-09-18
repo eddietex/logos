@@ -196,6 +196,15 @@ five times**, and each is a covenant hinge.
   **The chapter also divides its own subject's two names by function** — *Jacob* is told and quotes,
   *Israel* sees and blesses, **and 48:2 puts both in one sentence.** See
   [[Renamed and Still Called Jacob - The Two Namings of Israel]]
+- [[Jacob Blesses His Sons]] — Genesis 49:8, 13, 16, 19; **four of the twelve sayings pun on the son's
+  name, and three of the four replay the etymology his mother gave at his birth.** [[Judah]]/*praise*
+  (49:8, after 29:35), [[Zebulun]]/*dwell* (49:13, after 30:20), [[Dan (person)]]/*judge* (49:16,
+  after 30:6), and [[Gad]]/*troop* (49:19, **on a second root**, where 30:11 heard *fortune*). **A
+  dying father plays his wives' naming speeches back at their children** — **and changes one of them**:
+  [[Leah]] praised *Yahweh* at Judah's birth; Jacob redirects the praising to the man. **Gad's line is
+  the densest wordplay in the Bible**, four of five words from one set of consonants. **The chapter
+  also coins four names for God** (49:24–25), **three of them the Bible's first**
+
 ## Related themes
 
 - [[The Names of God]] — the same practice turned on its most difficult object, where Genesis's habit of

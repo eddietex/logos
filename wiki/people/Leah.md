@@ -124,13 +124,32 @@ therefore that leaving with it is not theft.**
 **Her tent is searched third of four** (31:33), between Jacob's and the slaves', and she is not named
 again in the chapter.
 
+### In this pericope — Genesis 49:31
+
+> **31** There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife,
+> and there I buried Leah: (49:31)
+
+**Four words, in the last instruction of Jacob's life, and they are the only report of her burial in
+the Bible.** ***"And there I buried Leah"*** — **first person, in a list otherwise in the third**:
+*they* buried [[Abraham]] and [[Sarah]], *they* buried [[Isaac]] and [[Rebekah]], **and *I* buried
+her.**
+
+**It is the only sentence [[Jacob]] is ever given about her.** **He does not say when, or where they
+were, or that he mourned** — **and Genesis, which narrated [[Rachel]]'s death and burial in full**
+(35:16–20), **never narrated Leah's at all.** **This clause is the whole of it, supplied
+retrospectively in direct speech decades later.**
+
+**And the placement is the point.** **She is in the cave with the patriarchs; her sister is beside a
+road to Ephrath**, which Jacob explained one chapter earlier (48:7) and does not mention here. **The
+wife he was tricked into is buried where he is asking to be taken; the wife he worked fourteen years
+for is not.** **Genesis reports both facts and comments on neither.** See
+[[Buried at Machpelah - The Six Graves of Genesis]],
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and [[Love]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-She is named second when Jacob divides his household to meet Esau and puts them furthest from danger
-after the slaves (33:2). She dies before the descent into Egypt, unrecorded, and Jacob mentions her
-once from his deathbed — *"there I buried Leah"* (49:31) — in the only sentence he is given about her.
 **Ruth 4:11 blesses a bride to be *"like Rachel and like Leah, which two built the house of
 Israel"***, and the child that blessing produces is Obed, David's grandfather, out of Judah:
 **Leah's line.** See [[Like Rachel and Like Leah - The Builders of the House of Israel]].
@@ -158,7 +177,7 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   [[The Reconciliation with Esau]]
 - Named in the roster of the twelve as mother of six of them — Genesis 35:23,
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Buried at Machpelah; *"there I buried Leah"* — Genesis 49:31 *(not yet ingested)*
+- Buried at [[Machpelah]]; *"there I buried Leah"* — Genesis 49:31, [[Jacob Blesses His Sons]]
 
 ## Appears in
 
@@ -204,6 +223,12 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   only subtotal in the register whose arithmetic requires [[Jacob]] himself to close.** She is named as
   the mother who bore them *"in Paddan Aram"*, **with [[Dinah]] counted in**, and **she is not called
   *wife*** — that word goes to [[Rachel]] at 46:19, eleven chapters after her death
+- [[Jacob Blesses His Sons]] — Genesis 49:31; **four words, and they are the only record of her burial
+  in the Bible.** ***"And there I buried Leah"*** — **the one sentence [[Jacob]] is ever given about
+  her**, in the first person where the rest of the list is in the third, **and the only one of the six
+  Machpelah burials that Genesis never narrated.** **She is in the cave with the patriarchs; her
+  sister is not.** **The verse also carries her six sons' futures in the twenty-eight before it** —
+  three demoted or cursed, one given the kingship, and two given a coastline and a corvée
 
 ## Related people
 

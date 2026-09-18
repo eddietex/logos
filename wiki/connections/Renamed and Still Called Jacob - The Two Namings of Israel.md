@@ -130,3 +130,11 @@ was supposed to retire, in the sentence about the wrestling.**
 - **And the alternation afterwards is the book refusing to let the man become a symbol.** *Israel* is
   the nation; *Jacob* is the one who bought a birthright with soup, and Genesis will not stop saying
   so.
+
+**Genesis 49 is now ingested**, in [[Jacob Blesses His Sons]], **and it is the book's most balanced
+use of the two names: five *Jacob* and five *Israel* in thirty-three verses.** **Twice they stand in
+one line** — *"I will divide them in **Jacob**, and scatter them in **Israel**"* (49:7) **and *"the
+Mighty One of **Jacob** … the stone of **Israel**"*** (49:24). **49:2 inverts 48:2's division**: there
+*Jacob* was told and *Israel* sat up; here the sons summoned are *Jacob's* and the father they are to
+hear is *Israel*. **And the death is the plain name**: *"When **Jacob** finished charging his sons"*
+(49:33).

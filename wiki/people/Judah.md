@@ -186,14 +186,51 @@ brother; *"he alone is left of his mother"* is true only if that is so; **and *"
 offers paternal favouritism as grounds for mercy to the man it nearly killed.** See
 [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]].
 
+### In this pericope — Genesis 49:8–12
+
+**Five verses, the longest saying in the poem alongside [[Joseph]]'s, and the one the rest of the
+Bible builds on.**
+
+> **8** “Judah, your brothers will praise you. Your hand will be on the neck of your enemies. Your
+> father’s sons will bow down before you.
+> **9** Judah is a lion’s cub. From the prey, my son, you have gone up. He stooped down, he crouched as
+> a lion, as a lioness. Who will rouse him up?
+> **10** The scepter will not depart from Judah, nor the ruler’s staff from between his feet, until he
+> comes to whom it belongs. To him will the obedience of the peoples be. (49:8–10)
+
+**Jacob's blessing re-puns the name in his own mouth** — ***yəhûdâ ʾattâ yôdûkā ʾaḥeykā***, *"Judah,
+your brothers will **praise** you"* (49:8), **the only one of the twelve names Genesis glosses twice**
+— **and it changes the object.** [[Leah]] praised *Yahweh* at 29:35; **the father redirects the
+praising to the man.** See [[Names and Naming]].
+
+***"Your father's sons will bow down before you."*** **This is [[Joseph]]'s dream, said about a
+different brother, in Joseph's hearing, by the father who rebuked him for dreaming it** (37:10).
+**Genesis never reconciles the two claims**; 1 Chronicles 5:2 is the only verse in Scripture that
+states both and divides them — *"Judah prevailed above his brothers, and from him came the prince; but
+the birthright was Joseph's."*
+
+**The lion grows through 49:9 in three nouns** — *gûr ʾaryēh*, the cub; *ʾaryēh*, the lion; *lābîʾ*,
+the lioness — **and ends on the poem's only rhetorical question**, which assumes the answer *nobody*.
+Filed as [[The Lion of Judah - Genesis 49.9 and Revelation 5.5]].
+
+**49:10 is the most disputed sentence in Genesis.** ***ʿAd kî-yābōʾ šîlōh*** is read four
+incompatible ways — *that which is his*, *tribute to him*, the place Shiloh, or a personal title —
+**and the WEB's *"until he comes to whom it belongs"* follows the Septuagint and the echo at
+Ezekiel 21:27.** Filed as [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]]; see
+[[Kingship and Empire]] and [[Kings Will Come Out of You]].
+
+**And 49:11–12 is the most extravagant image in the poem** — **a man rich enough in vines to tether a
+donkey to one and launder in the vintage.** **Read forward it is not comfortable**: Isaiah 63:1–3 and
+Revelation 19:13, 15 put the same stained garments on a figure treading a winepress of wrath. See
+[[The Vine and the Cup]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**Jacob's blessing re-puns the name in his own mouth** — *"Judah, your brothers will **praise** you"*
-(49:8), the only one of the twelve names Genesis glosses twice — and attaches the sceptre to it:
-*"The sceptre will not depart from Judah… until he comes to whom it belongs"* (49:10). See
-[[Kingship and Empire]] and [[Names and Naming]].
+**Moses' blessing gives him one verse and it is a plea for help** (Deuteronomy 33:7) — **the sharpest
+reversal of proportion between the two tribal poems.** See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
 
 ## Timeline / key events
 
@@ -218,8 +255,8 @@ This page grows as those pericopes arrive; what follows is the shape of it.
   — Genesis 44:14–16, [[The Silver Cup and Judah's Plea]]
 - Offers himself in Benjamin's place — ***taḥat hannaʿar*** — in the longest speech in Genesis —
   Genesis 44:18–34, [[The Silver Cup and Judah's Plea]]
-- Blessed at Jacob's deathbed; the lion, the sceptre, and the second pun on his name — Genesis 49:8–12
-  *(not yet ingested)*
+- Blessed at Jacob's deathbed; the lion, the scepter, and the second pun on his name — Genesis 49:8–12,
+  [[Jacob Blesses His Sons]]
 - Ruth 4:12, 18–22; 1 Samuel 16 — Perez to Boaz to David
 - Matthew 1:2–3; Luke 3:33; Hebrews 7:14; Revelation 5:5 — the tribe in the New Testament
 
@@ -278,6 +315,13 @@ This page grows as those pericopes arrive; what follows is the shape of it.
   a generation deeper than any other** (46:12), through [[Perez]] to [[Hezron (son of Perez)]] and
   [[Hamul]], **and it is the only branch that stops to report deaths**: *"but Er and Onan died in the
   land of Canaan"*
+- [[Jacob Blesses His Sons]] — Genesis 49:8–12; **five verses, and every one of them is given away
+  later in Scripture.** The second pun on his name (49:8), **his brothers bowing where [[Joseph]]'s
+  dreams said they would bow to Joseph**, the lion that nobody rouses (49:9), **the scepter and
+  *šîlōh*** (49:10), and the vine, the wine and the blood of grapes (49:11–12). **He is the fourth
+  son, addressed fourth, and the first three sayings are a demotion and a curse** — **so the poem's
+  order is itself the argument: the rule comes to him because it has been taken off everyone ahead of
+  him.** **He says nothing**, as he has said nothing since 44:34
 
 ## Related people
 

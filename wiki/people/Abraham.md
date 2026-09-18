@@ -923,6 +923,12 @@ arrive.
   of [[On]]'s daughter into his line by declaration.** **And the promise Jacob recites at 48:4 borrows
   his covenant's phrase** — ***ʾăḥuzzat ʿôlām***, *an everlasting possession* (17:8) — **which 35:11–12,
   the speech he is quoting, does not contain.** See [[Adoption]] and [[Walking with God]]
+- [[Jacob Blesses His Sons]] — Genesis 49:30–31; **named twice, as the buyer of a field and as the
+  first man buried in it.** *"Which **Abraham** bought with the field from Ephron the Hittite as a
+  burial place. There they buried **Abraham** and Sarah, his wife."* **His grandson's last instruction
+  is a recitation of his one completed purchase** — **the single clause of the land promise that has
+  been executed** — **and the wiki notes that Genesis ends the patriarchal narratives by having a
+  dying man read out a receipt.** See [[Machpelah]] and [[Land and Sojourning]]
 
 ## Related people
 

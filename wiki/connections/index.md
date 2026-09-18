@@ -200,3 +200,9 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
 | [[God Make You as Ephraim and as Manasseh - The Blessing Formula]] | parallel | Genesis 48:20 · Ruth 4:11–12 · Jeremiah 29:22 |
 | [[Hands on the Head - The First Blessing by Touch]] | thread | Genesis 27:21–27 · Genesis 48:13–18 · Leviticus 1:4; 16:21 · Numbers 8:10; 27:18–23 · Deuteronomy 34:9 · Mark 10:16 · Acts 6:6; 13:3 · 1 Timothy 4:14 · Hebrews 6:2 |
+| [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
+| [[The Lion of Judah - Genesis 49.9 and Revelation 5.5]] | image | Genesis 49:9 · Numbers 23:24; 24:9 · Deuteronomy 33:20, 22 · Hosea 5:14 · Ezekiel 19:1–9 · Amos 3:8 · Revelation 5:5–6 |
+| [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] | phrase | Genesis 49:1 · Numbers 24:14 · Deuteronomy 4:30; 31:29 · Isaiah 2:2 · Micah 4:1 · Hosea 3:5 · Daniel 2:28; 10:14 · Acts 2:17 · Hebrews 1:2 |
+| [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] | word | Genesis 49:18 · Exodus 14:13; 15:2 · Psalm 3:8 · Psalm 119:166 · Isaiah 12:2–3 · Jonah 2:9 · Luke 2:30 |
+| [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |
+| [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]] | parallel | Genesis 48:5 · Genesis 49:1–28 · Deuteronomy 33:1–29 · Judges 5:14–18 |

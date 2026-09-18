@@ -145,6 +145,14 @@ verdicts.
   **false as charged and exact as stated**; Proverbs 17:13 supplies the only consequence clause the
   idiom ever gets, *evil will not depart from his house*. See
   [[Rewarding Evil for Good - A False Charge That Is Exactly True]]
+- [[Jacob Blesses His Sons]] — Genesis 49:3–7; **three sons are told what their own acts cost them,
+  decades after the acts, by a father who said nothing at the time.** **[[Reuben]] for 35:22** — whose
+  entire narrative record is *"and Israel heard of it"*, followed by a break in the verse — **and
+  [[Simeon]] and [[Levi]] for 34:25–29**, where Jacob's only objection was that the massacre had made
+  him *"a stench to the inhabitants of the land"* (34:30). **The deathbed supplies the moral term both
+  chapters withheld**, fourteen and fifteen chapters late, **and in Simeon and Levi's case adds a
+  charge the narrative never made** — *"in their self-will they hamstrung cattle."* **The sentences
+  are carried out in the tribal history and never revisited in Genesis**
 
 ## Related themes
 

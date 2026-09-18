@@ -24,15 +24,40 @@ pursues to at 14:14, which Judges 18:29 says was renamed *"after the name of Dan
 the tribe captured it. **The city is named for this man**, five generations later, which is why Genesis
 14:14 is the clearest anachronism in the book.
 
+### In this pericope — Genesis 49:16–18
+
+> **16** “Dan will judge his people, as one of the tribes of Israel.
+> **17** Dan will be a serpent on the trail, an adder in the path, That bites the horse’s heels, so
+> that his rider falls backward.
+> **18** I have waited for your salvation, Yahweh. (49:16–18)
+
+**Jacob's blessing takes his name back to the root it came from** — ***dān yādîn***, *Dan will judge*
+— **the pun [[Rachel]] built into it at 30:6**, *"God has judged me."* ***"As one of the tribes of
+Israel"*** **is a small and slightly strange reassurance**: the son of a maidservant is told he counts.
+**No other saying in the poem finds it necessary to say so.**
+
+**Then the poem's one animal of ambush.** ***Šəpîpōn***, WEB *"an adder"*, **occurs once in the
+Bible**, and **the tactic described is a small thing bringing a large one down from below** — which is
+how the tribe fights in Judges. **Samson, the one judge Dan produces, wins every fight by trickery and
+dies pulling a building onto himself** (Judges 13–16).
+
+**And then verse 18 stops the poem dead.** ***"I have waited for your salvation, Yahweh"*** — **five
+Hebrew words, first person, addressed to God, sitting between Dan's serpent and [[Gad]]'s raiders.**
+**It is the only prayer in the chapter and the only occurrence of the name *Yahweh* in it**, and it
+contains **the first appearance of the noun *yəšûʿâ*, salvation, in the Bible.** **Whether it belongs
+to Dan's saying, divides the poem in half, or is simply a dying man's interjection, the text does not
+say.** Filed as [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]].
+
+**Moses' blessing gives Dan a lion's cub leaping out of Bashan** (Deuteronomy 33:22) — **the animal
+Genesis gave to [[Judah]]**, and not a snake. See
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Dan is listed among the twelve at 35:25 and 46:23 — where he has **one son**, Hushim, the smallest
-entry in the register — and Jacob's blessing takes his name back to the root it came from:
-*"**Dan** will **judge** his people, as one of the tribes of Israel. Dan will be a serpent in the way,
-a viper in the path, that bites the horse's heels, so that his rider falls backward"* (49:16–17).
-**Samson, the one judge the tribe produces, is a Danite** (Judges 13:2).
+Dan is listed among the twelve at 35:25 and 46:23, where he has **one son**, Hushim, the smallest entry
+in the register.
 
 **And the tribe's later history is the darkest of the twelve.** Judges 18 has six hundred armed Danites
 migrate north, steal a household's idols and its Levite on the way, and put up a graven image at Laish
@@ -51,7 +76,8 @@ been explained by any text. See
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - One son, Hushim, at the descent into Egypt — Genesis 46:23,
   [[Jacob's Family Settles in Egypt]]
-- Blessed at Jacob's deathbed; the judge and the serpent — Genesis 49:16–18 *(not yet ingested)*
+- Blessed at Jacob's deathbed; the judge, the serpent, and the prayer that follows — Genesis 49:16–18,
+  [[Jacob Blesses His Sons]]
 - Judges 13–16 — Samson, the tribe's one judge; Judges 18 — the migration, the stolen idols, and the
   renaming of Laish
 - 1 Kings 12:29–30 — Jeroboam's calf at Dan; Revelation 7:5–8 — the tribe omitted
@@ -97,6 +123,12 @@ been explained by any text. See
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:23; ***"The son of Dan: Hushim."*** **One son, the shortest
   entry in the register** — **and Dan will be the second-largest tribe at the first census of Numbers.**
   **The list's proportions have nothing to do with what the tribes become**
+- [[Jacob Blesses His Sons]] — Genesis 49:16–18; **the seventh saying, the fourth pun on a son's name,
+  and the only one that pauses to tell him he counts** — *"as one of the tribes of Israel."* **The
+  serpent on the trail is the poem's one ambush**, and the tribe's history in Judges obliges it twice
+  over. **And the verse that follows him is the chapter's only prayer** (49:18), **which the rabbinic
+  tradition attaches to his saying and the wiki files as unplaced.** See
+  [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]]
 
 ## Related people
 

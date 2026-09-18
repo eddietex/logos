@@ -102,6 +102,11 @@ observation about the negotiation's form, not as an identification of these peop
   leave the country.** The people who sold Abraham the only ground his family owns are, one
   generation later, the grievance that gets his grandson sent four hundred miles away for a wife.
   Genesis does not connect the two and the wiki notes that it does not
+- [[Jacob Blesses His Sons]] — Genesis 49:32; **the last mention of them in Genesis, and it is a
+  clause in a title deed.** *"The field and the cave that is therein, which was purchased from the
+  children of Heth."* **The assembly that sat in the gate of [[Hebron]] and watched
+  [[Ephron the Hittite]] name his price** (23:10–18) **survives in the book's memory as the counterparty
+  to a sale**, recited by a dying man in [[Egypt]] to establish that the grave is legally his
 
 ## Related people
 

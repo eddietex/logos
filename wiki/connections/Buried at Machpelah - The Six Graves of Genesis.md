@@ -129,3 +129,8 @@ down payment and a burial as a claim.**
 Hebrews 11:13 reads the whole strand in one sentence: *"These all died in faith, not having received
 the promises, but having seen them and embraced them from afar."* See
 [[A Stranger and a Foreigner - The Sojourner's Confession]].
+
+**Genesis 49:29–32 is now ingested**, in [[Jacob Blesses His Sons]] — **the fourth and fullest
+recitation of the deed, and the only one that lists the occupants.** **49:31 remains the only verse in
+the Bible that reports where [[Rebekah]] and [[Leah]] are buried**, and the only one that places
+[[Isaac]] in the cave. **One grave in the table is still ahead**: Jacob's own, at 50:13.

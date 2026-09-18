@@ -109,3 +109,9 @@ majesty and get applied to individuals.** **It begins as one man's account of hi
 forty-seven years** (47:28), **and is afterwards enlarged to a nation** (Psalm 80:1), **to a polemic
 against Israel's rulers** (Ezekiel 34), **and at last to a person who says *"I am the good shepherd"***
 (John 10:11). **The man who starts it is the one member of the family who did the job for wages.**
+
+**Genesis 49:24 is now ingested**, in [[Jacob Blesses His Sons]] — **the noun to 48:15's participle.**
+At 48:15 God is ***hārōʿeh ʾōtî***, *the one shepherding me*; **here the participle stands alone as
+*the shepherd***, and it is the last thing [[Jacob]] calls God. **It sits in the same four-word
+parenthesis as *the stone of Israel*, which occurs nowhere else in the Bible.** See
+[[The Mighty One of Jacob and the Stone of Israel]].

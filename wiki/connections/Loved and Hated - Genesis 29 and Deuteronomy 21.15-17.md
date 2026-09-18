@@ -125,3 +125,8 @@ adopted here.
 - **And it is the seam where the two halves of Israel's future part.** Priesthood and kingship come out
   of the hated wife; the double portion comes out of the loved one. **Genesis arranges that in a
   chapter with no divine speech in it at all**, and then opens the next verse with *"Yahweh saw."*
+
+**Genesis 49:3 is now ingested**, in [[Jacob Blesses His Sons]] — **and it uses Deuteronomy 21:17's
+own technical phrase in the verse before the transfer the law forbids.** ***Rēʾšît ʾônî***, *the
+beginning of my strength*, **is exactly what the law says the firstborn is and why his double portion
+cannot be moved**; **49:4 moves it.** **The wiki records the collision and adopts neither side.**

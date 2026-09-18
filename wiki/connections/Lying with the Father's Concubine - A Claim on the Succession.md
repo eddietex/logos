@@ -125,3 +125,8 @@ offence, and a church told to act on it because *"even the Gentiles don't do thi
   sentence with no scene attached to it redraws the map of Israel.** See
   [[Birthright and the Firstborn]] and
   [[The Twelve Sons and the Lists That Reorder Them]].
+
+**Genesis 49:3–4 is now ingested**, in [[Jacob Blesses His Sons]] — **the sentence 35:22 never
+passed.** *"Because you went up to your father's bed, then defiled it. He went up to my couch"*,
+fourteen chapters late. **And the last clause is in the third person**: [[Jacob]] stops addressing
+[[Reuben]] mid-verse and finishes the sentence to the room.

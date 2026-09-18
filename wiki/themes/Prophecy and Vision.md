@@ -242,6 +242,17 @@ happens.
   nations"* (48:19), and *"God will be with you, and bring you again to the land of your fathers"* (48:21).
   **Both came true**, and Jeremiah 31:9 will call [[Ephraim]] *"my firstborn"* eight centuries later.
   **The book's last predictive speech before the poem of chapter 49 is introduced as nothing at all**
+- [[Jacob Blesses His Sons]] — Genesis 49:1–27; **the longest sustained prediction in Genesis and the
+  one with the least apparatus.** **No *thus says Yahweh*, no dream, no vision, no messenger, no
+  altar** — **a dying man says what will happen to twelve tribes and the book files it under
+  blessing.** **49:1 supplies the vocabulary the prophets will live on**: ***bəʾaḥărît hayyāmîm***, *in
+  the days to come*, **its first occurrence in the Bible**, and afterwards the standing formula of
+  Numbers 24:14, Deuteronomy 4:30, Isaiah 2:2, Micah 4:1, Hosea 3:5 and Daniel 2:28. **What Genesis
+  means by it is territorial and political, not eschatological**, which is the distance
+  [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] measures. **The most
+  consequential of the twelve predictions is 49:10**, and **it is also the least decipherable** — see
+  [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]]
+
 ## Related themes
 
 - [[Language and Speech]] — words as the medium of everything God does in Genesis

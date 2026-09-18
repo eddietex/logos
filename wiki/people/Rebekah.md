@@ -156,13 +156,27 @@ because of the daughters of Heth"* (27:46), the grief of 26:35 produced as a pre
 whose real cause is a death threat. **Genesis never has her and Isaac speak about what happened**,
 and after 27:46 she is named once more in the whole Bible, as an occupant of a cave (49:31).
 
+### In this pericope — Genesis 49:31
+
+> **31** There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife,
+> and there I buried Leah: (49:31)
+
+**This is the last mention of her in the Bible, and it is the only report of her burial.**
+
+**Genesis narrates [[Sarah]]'s death and funeral across a whole chapter** (23), **[[Abraham]]'s in two
+verses** (25:8–9), **and [[Isaac]]'s in one** (35:29). **It never narrates hers.** **She persuades
+Isaac to send Jacob to Paddan Aram at 27:46–28:5 and drops out of the narrative**, and **the book does
+not say whether she was alive when Jacob came back to [[Mamre (place)]] twenty verses later, does not
+report her dying, and does not record them meeting again.**
+
+**Her nurse is given more.** *"Deborah, Rebekah's nurse, died, and she was buried below Bethel under
+the oak"* (35:8) — **a name, a death notice, and a tree called *oak of weeping*.** **[[Rebekah]]
+herself gets four words inside somebody else's sentence**, spoken by the son she sent away and never
+saw again. See [[Buried at Machpelah - The Six Graves of Genesis]] and [[Burial and the Grave]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
-
-She persuades Isaac to send Jacob to Paddan Aram (27:46–28:5), and drops out of the narrative. Genesis
-records no death scene for her; she is named only as an occupant of the grave, in Jacob's instructions
-at 49:31. Her nurse Deborah is given a burial notice (35:8) that she is not.
 
 **She and Isaac are the only patriarchal couple in Genesis with no second woman in the household**,
 and Genesis 26:8 gives them the one glimpse of affection in the cycle — *"Isaac was caressing
@@ -205,8 +219,8 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - Gives Isaac the Hittite wives as her reason, never the blessing or the murder plot; *qaṣtî
   bəḥayyay*, *I loathe my life* — **her last recorded words in Scripture** — Genesis 27:46,
   [[Isaac Sends Jacob to Paddan Aram]]
-- Buried in the cave of Machpelah; named only in Jacob's burial instructions — Genesis 49:31
-  *(not yet ingested)*
+- Buried in the cave of [[Machpelah]]; named only in Jacob's burial instructions, in the last mention
+  of her in the Bible — Genesis 49:31, [[Jacob Blesses His Sons]]
 
 ## Appears in
 
@@ -254,6 +268,11 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
   verses later, and the book does not say whether she was alive, does not report her dying, and does
   not record them meeting. **Her nurse gets a death notice in this chapter; she gets a list entry at
   49:31**
+- [[Jacob Blesses His Sons]] — Genesis 49:31; **four words, inside her son's burial instruction, and
+  they are the last mention of her in Scripture.** *"There they buried Isaac and Rebekah, his wife."*
+  **It is the only report of her burial anywhere in the Bible** — **the one member of the family whose
+  death Genesis never narrates and whose grave it supplies only in retrospect**, in direct speech, by
+  the son she sent to Paddan Aram and never saw again
 
 ## Related people
 

@@ -485,15 +485,55 @@ household that includes the ten men who sold the boy and the one who knows they 
 Sheol sentence twice more, both times about [[Benjamin]]** (42:38; 44:29), and [[Judah]] will quote it
 back to Joseph's face as the argument that breaks him (44:31). See [[Sheol]] and [[Suffering]].
 
+### In this pericope — Genesis 49:1–33
+
+**He speaks for thirty-two verses and dies in the thirty-third.** **It is the longest continuous
+speech any human being makes in Genesis, and the last thing he does.**
+
+**He summons all twelve with two verbs and announces what kind of speech it is** — ***bəʾaḥărît
+hayyāmîm***, *"in the days to come"*, **the phrase's first occurrence in the Bible** (49:1). Then
+twelve sayings of wildly uneven length, **and only in the first three does he settle accounts**:
+[[Reuben]] for 35:22, [[Simeon]] and [[Levi]] for 34:25. **The man who said nothing at the time says
+it all now**, fourteen and fifteen chapters late, from a bed.
+
+**Three features of the speech belong to him rather than to his sons.**
+
+**1. He turns from *you* to *he* mid-verse.** *"Because you went up to your father's bed, then defiled
+it. **He** went up to my couch"* (49:4). **The only place in Genesis where a father stops addressing a
+son in the middle of a sentence.**
+
+**2. He prays once, and it is the only time anyone addresses God in the chapter.** *"I have waited for
+your salvation, Yahweh"* (49:18) — **five words, in the middle of a speech to his children, with no
+object and no explanation.** Filed as
+[[I Have Waited for Your Salvation - The First Yeshuah in Scripture]].
+
+**3. He coins four names for God, all in [[Joseph]]'s saying**, and three of them are the Bible's
+first: **the Mighty One of Jacob, the shepherd, the stone of Israel** (49:24), **plus *El Shaddai* for
+the last time in Genesis** (49:25). **He names God out of his own name.** See
+[[The Mighty One of Jacob and the Stone of Israel]].
+
+**Then he recites the title deed to a grave** (49:29–32) — the cave, the field, [[Ephron the Hittite]],
+[[Mamre (place)]], the land of [[Canaan]] — **and names five people buried in it**, including
+***"and there I buried Leah"***, **the only report of her burial in Scripture and the last thing he
+says about either wife.** **He has now asked to be taken to [[Machpelah]] twice in three chapters**
+(47:29–31; 49:29). **[[Rachel]] is not in the cave, which he explained at 48:7 and does not mention
+here.**
+
+***"He gathered up his feet into the bed, and yielded up the spirit, and was gathered to his
+people"*** (49:33). **He has been sitting on the edge of that bed since 48:2** — *"Israel strengthened
+himself, and sat on the bed"* — **and the last thing he does is lie down.** **Nobody in the chapter
+reacts**; the weeping is in the next one. See [[Gathered to His People]].
+
+**Across the chapter he is called *Jacob* five times and *Israel* five times**, twice in the same line
+(49:7, 24). See [[Renamed and Still Called Jacob - The Two Namings of Israel]] and
+[[Jacob Blesses His Sons]].
+
 ### What is still ahead
 
 This page grows as those pericopes arrive; what follows is the shape of it, not a substitute for it.
 
-He mourns Joseph for twenty-two years and tells Pharaoh *"Few and evil have been the days of the years of
-my life"* (47:9). He dies in Egypt after blessing twelve sons and two grandsons —
-**the grandsons in [[Jacob Blesses Ephraim and Manasseh]], where he crosses his hands to put the younger
-first on purpose** (48:13–20) — and is carried back to Machpelah. What remains ahead of the wiki is
-Genesis 49–50: the twelve-son poem, the instruction about the cave, and the funeral convoy.
+What remains ahead of the wiki is Genesis 50: the embalming, the funeral convoy back to
+[[Machpelah]], and the burial itself.
 
 ## Timeline / key events
 
@@ -623,8 +663,13 @@ Genesis 49–50: the twelve-son poem, the instruction about the cave, and the fu
 - Crosses his hands *"knowingly"* to put [[Ephraim]] under the right one, refuses [[Joseph]]'s
   correction, and names God three ways — Genesis 48:14–19,
   [[Jacob Blesses Ephraim and Manasseh]]
-- Blesses his twelve sons — Genesis 49:1–28 *(not yet ingested)*
-- Dies in Egypt and is carried to Machpelah — Genesis 49:33–50:13 *(not yet ingested)*
+- Blesses his twelve sons; *"in the days to come"*; the only prayer in the chapter — Genesis 49:1–28,
+  [[Jacob Blesses His Sons]]
+- Charges all twelve with his burial at [[Machpelah]] and names five graves, [[Leah]]'s among them —
+  Genesis 49:29–32, [[Jacob Blesses His Sons]]
+- Draws up his feet, yields up the spirit, and is gathered to his people — Genesis 49:33,
+  [[Jacob Blesses His Sons]]
+- Carried to Machpelah and buried — Genesis 50:1–14 *(not yet ingested)*
 
 ## Appears in
 
@@ -800,6 +845,14 @@ Genesis 49–50: the twelve-son poem, the instruction about the cave, and the fu
   ground at [[Shechem (city)]] *"with my sword and with my bow"*** (48:22), **for a field the narrator
   says he bought** (33:19). See [[Two Blind Fathers - Genesis 27 and Genesis 48]],
   [[The God Who Has Fed Me - The First Time God Is a Shepherd]] and [[Adoption]]
+- [[Jacob Blesses His Sons]] — Genesis 49:1–33; **thirty-two verses of speech and a death in the
+  thirty-third** — **the longest continuous human speech in Genesis.** **He opens the Bible's
+  vocabulary of prophetic futurity** (*bəʾaḥărît hayyāmîm*, 49:1), **settles the two accounts he let
+  stand for fourteen and fifteen chapters** (49:3–7), **hands the kingship to his fourth son**
+  (49:8–12), **prays once and only once** (49:18), **coins four names for God in one son's saying**
+  (49:24–25), **recites the deed to [[Machpelah]] and names five people in it** (49:29–32), **and lies
+  down** (49:33). **He is *Jacob* five times and *Israel* five times.** **The chapter records no
+  reaction from anyone to any of it**
 
 ## Related people
 
