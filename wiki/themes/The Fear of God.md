@@ -90,6 +90,13 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 
 - [[Job of Uz]] — the phrase in its first Joban form, as one of four terms in the narrator's
   verdict, and shown in practice in the sacrifices of 1:5
+- [[The Wager in Heaven and the Four Messengers]] — **Job 1:9 is the only verse in the Bible that
+  asks what the fear of God is *for*.** *"Does Job fear God for nothing?"* — Hebrew *ḥinnām*,
+  gratis, without return. Everywhere else in Scripture the fear of God is commanded, commended, or
+  described; here a member of the heavenly court asks whether the thing has ever once existed
+  unpurchased, and the rest of the book is the answer. Note what the question concedes: **nobody
+  disputes that Job fears God.** The attack is on the motive, and therefore not really on Job — a God
+  who can only be feared for pay has never been feared at all
 - [[Noah and the Flood]] — Genesis 6:9's *"walked with God"* is the Genesis idiom for the same
   settled orientation, in a book that does not yet use this vocabulary
 - [[Abram in Egypt]] — Genesis 12:10–20, where the phrase is absent but the reasoning behind it is

@@ -55,6 +55,17 @@ What Genesis insists on either way is that temptation reached the humans from *i
 created order, through something under God's authority — which is why the chapter can hold
 anyone responsible at all.
 
+**What the two figures share is a method, and it is worth being exact about it.** Now that Job 1 is
+in the wiki at [[The Wager in Heaven and the Four Messengers]], the parallel can be stated without
+the identification. In Genesis 3:1–5 a question is put about **God's** motive for a prohibition —
+*"God knows that in the day you eat it… you will be like God"*. In Job 1:9 a question is put about a
+**man's** motive for obedience — *"Does Job fear God for nothing?"* **Neither figure makes an
+accusation; both make one available**, and in both cases the insinuation is that the relationship
+between God and the human is a transaction with a hidden price list. That is a real and specific
+resemblance, and it is not evidence that the two are one being. See [[Satan]] and
+[[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] for what the Old Testament's *śāṭān*
+actually is.
+
 ## Timeline / key events
 
 - Questions the command, contradicts the consequence, and is cursed to the belly and to hostility
@@ -70,6 +81,8 @@ anyone responsible at all.
 - [[Eve]] — the one it addresses; *"The serpent deceived me, and I ate"* (3:13)
 - [[Adam]] — present through the conversation and never addressed by it
 - [[God]] — who made it, and who sentences it without questioning it
+- [[Satan]] — the Old Testament's *haśśāṭān*, identified with this serpent by Revelation 12:9 and by
+  nothing in the Hebrew Bible
 
 ## Themes associated
 

@@ -1091,6 +1091,19 @@ verses — but the terms in which he is feared are the terms the accuser will co
 inventory of blessing in 1:3 is the evidence the accuser will point at. Whatever else the prologue
 does, it makes God a party with something at stake in the answer.
 
+**At 1:7 he speaks for the first time in the book, and what he does with the speech is the hardest
+thing in it.** In [[The Wager in Heaven and the Four Messengers]] God presides over a court, asks a
+member of it where he has been, and then — unprompted, with no accusation on the table — **raises
+Job himself**: *"Have you considered my servant, Job?"* He quotes the narrator's verdict of 1:1 back
+word for word, gives Job the honorific *ʿabdî*, **my servant**, that elsewhere belongs to Abraham,
+Moses and David, and hands over everything Job has with one exclusion. **This God is conversational,
+specific, willing to be questioned by a subordinate, and unwilling to settle a question about
+himself by assertion** — the accuser's claim is that nobody loves God for nothing, and an assertion
+from God would prove nothing, so what follows is a demonstration whose entire cost falls on a third
+party who is never consulted. At 2:3 he says so in the plainest available terms: *"you incited me
+against him, to ruin him without cause."* **He concedes the incitement and keeps the verb.** The
+wiki records this without softening it; see [[The Divine Council]] and [[Satan]].
+
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1440,6 +1453,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   named in none of the three deaths that follow**
 - [[Job of Uz]] — as *ʾĕlōhîm*, the object of Job's fear and of the renunciation he hopes his
   children have not committed; he neither speaks nor is spoken to
+- [[The Wager in Heaven and the Four Messengers]] — his first speech in the book, and the only place
+  in Scripture where **God himself puts a righteous man forward to be tested**; he names Job, quotes
+  the narrator's verdict, grants the permission, and sets the limit
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

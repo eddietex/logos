@@ -79,6 +79,11 @@ nakedness may not be revealed"* (Revelation 3:18).
 ## Key passages
 
 - [[The Garden of Eden]] — 2:25, nakedness without shame
+- [[The Wager in Heaven and the Four Messengers]] — Job 1:21's *ʿārōm*, **the theme's one use that
+  has nothing to do with shame**: *"Naked I came out of my mother's womb, and naked shall I return
+  there."* Here the word marks the two ends of a life and the symmetry between what a person brings
+  and what a person takes; Genesis 3:19's *"to dust you shall return"* stands behind it. See
+  [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]]
 - [[The Fall]] — 3:7 and 3:21: the inadequate covering and the given one
 - [[Noah's Sons and the Curse of Canaan]] — 9:20–23, the whole sequence repeated among human beings
 - [[Naked and Ashamed - Genesis 3 and Genesis 9]] — the two scenes set against each other

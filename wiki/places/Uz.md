@@ -60,6 +60,9 @@ onomastic pool is exactly what one expects of two texts about the same region.
 ## Appears in
 
 - [[Job of Uz]] — named in the opening clause, as the man's only address.
+- [[The Wager in Heaven and the Four Messengers]] — unnamed in the passage and nonetheless its
+  setting from 1:13 on; the two raids and the desert wind are the internal evidence this page's
+  *"Where was it?"* section leans on.
 - [[The Table of Nations]] — Genesis 10:23, where Uz is Aram's firstborn: the first of the three
   genealogical Uzzes, and the one that points north-east rather than to Edom.
 - [[The Descendants of Esau]] — Genesis 36:28, where Uz is a son of Dishan in the Horite line of
@@ -81,7 +84,12 @@ onomastic pool is exactly what one expects of two texts about the same region.
 
 - **Job 1:1–5** — Job's household, wealth, and standing practice of sacrifice.
 - **Job 1:13–19** — the Sabean and Chaldean raids, the fire from the sky, the wind from the
-  wilderness, and the deaths of his ten children.
+  wilderness, and the deaths of his ten children —
+  [[The Wager in Heaven and the Four Messengers]]. **The four messages are the closest thing to a
+  description of the country the book ever gives**: raiders arriving from the south-west Arabian
+  and the Mesopotamian directions in a single afternoon, and a wind coming *"from the wilderness"*
+  (*mēʿēber hammidbār*, from across the desert). A caravan corridor with open desert on one side,
+  and still not a single place name.
 - **Job 2:7–8** — Job struck with sores, sitting among the ashes; the ash heap outside the
   settlement is where the rest of the book takes place.
 - **Job 2:11–42:6** — the arrival of the three friends and the whole of the dialogue, conducted in

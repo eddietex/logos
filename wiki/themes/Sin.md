@@ -119,6 +119,11 @@ has been argued.
 ## Key passages
 
 - [[The Fall]] — the first disobedience and its anatomy
+- [[The Wager in Heaven and the Four Messengers]] — 1:22's verdict, and the precise definition of
+  what Job does not do: *"did not sin, nor charge God with wrongdoing"* — *nātan tiplâ*, to assign
+  **impropriety** to God. Not that he said nothing about God; he named God as the one who took. The
+  narrator's certification narrows one degree at 2:10 to *"didn't sin with his lips"*, and readers
+  have argued for two millennia over whether the narrowing makes room for chapter 3
 - [[Cain and Abel]] — the word's first appearance, crouching at a door, and the first murder
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted about rather than hidden,
   and the first passage God is absent from

@@ -117,6 +117,12 @@ the promise is repeatedly mistaken for.
   contract, seven verses of husbandry, and the promise's own verb applied to a herd
 - [[Job of Uz]] — the inventory as a character's introduction, and the man who blesses the God who
   removed it
+- [[The Wager in Heaven and the Four Messengers]] — the inventory removed in four sentences, and
+  **1:21 as the Bible's most concentrated statement of what ownership is worth at the ends of a
+  life**: *"Naked I came out of my mother's womb, and naked shall I return there."* The line is not
+  a denial that possessions matter — the epilogue counts them back carefully — but a claim about
+  **tenure**, and it is aimed at 1:10, where the accuser reads the same fortune as a wage. See
+  [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]]
 - [[Zophar's Second Speech]] — the wisdom tradition's nightmare: *"That for which he labored he shall
   restore, and shall not swallow it down"*
 - [[Jacob's Flight from Laban]] — Genesis 31:1, 14–16, 18, 42; **the herd argued over by four

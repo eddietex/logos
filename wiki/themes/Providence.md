@@ -138,6 +138,13 @@ human one innocent.** *"You meant evil"* stands. See
 
 ## Key passages
 
+- [[The Wager in Heaven and the Four Messengers]] — ***"Yahweh gave, and Yahweh has taken away"***
+  (1:21), **said of four events of which two were armed robbery.** Job names neither the Sabeans nor
+  the Chaldeans nor an accuser he has not heard of; he goes straight past every proximate cause, and
+  the next verse certifies that in doing so he *"did not sin, nor charge God with wrongdoing."* The
+  passage also refuses to make the attribution simple: 1:12 puts everything *"in your power"* —
+  literally *in your hand* — and 2:3 has God say *"you incited me against him."* **Four statements
+  of agency stand in seventeen verses and the text reconciles none of them**
 - Genesis 22:8, 14 — *"God will provide himself the lamb"* — [[The Binding of Isaac]] and
   [[Yahweh Will Provide - Moriah and the Temple Mount]]
 - Genesis 24:12–27 — the servant at the well, and providence openly credited — [[A Wife for Isaac]]

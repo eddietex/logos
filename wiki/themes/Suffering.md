@@ -76,6 +76,12 @@ requires only that you be standing outside it.
 
 ## Key passages
 
+- [[The Wager in Heaven and the Four Messengers]] — **the wiki's one passage where the cause of a
+  suffering is disclosed**, and the disclosure turns out not to be an explanation. Knowing *that* a
+  question was asked in a heavenly court does not tell the reader why the answer required eleven
+  thousand animals, an unnumbered household and ten funerals — and the cost falls entirely on a man
+  who is never consulted and never told. **Job's suffering is caused by his righteousness, not
+  despite it**, which is the sentence the rest of the book exists to make sayable
 - [[Miserable Comforters and the Witness in Heaven]] — the Bible's most violent description of
   God's hand on a sufferer, spoken by a man certified innocent
 - [[Eliphaz's Second Speech]] — suffering treated purely as evidence, with the consolation of the

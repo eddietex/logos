@@ -210,3 +210,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
+| [[The Divine Council]] | thread | Job 1:6; 2:1 · Job 38:7 · Genesis 1:26; 6:1–4 · 1 Kings 22:19–23 · Psalm 82 · Psalm 89:5–7 · Deuteronomy 32:8 · Isaiah 6:1–8 · Zechariah 3:1–5 · Daniel 7:9–10 · Revelation 4–5 |
+| [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
+| [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] | thread | Job 1:21 · Ecclesiastes 5:15 · Psalm 49:16–17 · 1 Timothy 6:7 · Genesis 3:19 · Luke 12:16–21 |

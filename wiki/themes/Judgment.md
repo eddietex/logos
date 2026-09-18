@@ -174,6 +174,9 @@ rule are the conditions the rest of Scripture is set in.
 ## Key passages
 
 - [[The Fall]] — the first judgment scene, and the template
+- [[The Wager in Heaven and the Four Messengers]] — a court in session with a prosecutor in it and
+  **no representation for the man whose case is being heard**, who is not told the proceeding
+  happened. [[The Witness in Heaven]] traces what Job starts asking for once he begins asking
 - [[Cain and Abel]] — the template run again, escalated, with a warning added at the front and a
   protective sign at the end
 - [[The Line of Cain and the Birth of Seth]] — the template withheld: eight verses of escalation

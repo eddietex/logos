@@ -65,6 +65,11 @@ are reading this passage, or the *1 Enoch* elaboration of it, or something else,
 
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:2 and 6:4, their only two
   appearances in the book
+- [[The Wager in Heaven and the Four Messengers]] — Job 1:6, the phrase's other narrative use, and
+  the one that decides most of the argument above. **Here they are unambiguously a heavenly
+  assembly**: they *"present themselves before Yahweh"*, in the courtier's idiom *hityaṣṣēb ʿal*, and
+  the accuser comes *among* them. They do nothing else — the scene assembles them and then moves
+  past them to the one member who speaks. See [[The Divine Council]]
 
 ## Related people
 
@@ -77,6 +82,8 @@ are reading this passage, or the *1 Enoch* elaboration of it, or something else,
 - [[Noah]] — the one man in the generation that follows who is exempted from its sentence
 - [[The Serpent]] — the other non-human agent in Genesis whose nature the text declines to specify,
   and which later Scripture identifies where Genesis does not
+- [[Satan]] — *haśśāṭān*, who at Job 1:6 comes *among* them: the only member of the assembly in
+  either testament whom a narrative shows speaking
 
 ## Themes associated
 

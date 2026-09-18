@@ -199,6 +199,13 @@ costly.
 - [[Job of Uz]] — the fullest inventory of material blessing in the wiki (ten children, ten thousand
   head of livestock), assembled in one verse so that the rest of the book can take it away; and the
   accuser's charge that a blessing this visible makes devotion unreadable
+- [[The Wager in Heaven and the Four Messengers]] — ***bārak* used in three incompatible senses in
+  twelve verses**, which is unmatched anywhere else in Scripture. God has *"blessed the work of his
+  hands"* (1:10, the ordinary sense, and offered as evidence for the prosecution); the accuser
+  predicts Job will *bārak* God to his face (1:11, the scribal euphemism for its opposite); and Job
+  says *"Blessed be Yahweh's name"* (1:21, the ordinary sense again, at the exact moment blessing
+  has visibly stopped being paid). **The accuser's prediction comes true in its letter and is
+  destroyed in its meaning by the same verb**
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:13, 18: *"I will also make a nation of
   the son of the servant"*, and from the sky *"I will make him a great nation"* — *gôy gādôl*, the
   exact phrase of 12:2, given to the son who has just been disinherited, in the same chapter that

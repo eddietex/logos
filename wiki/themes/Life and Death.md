@@ -130,6 +130,10 @@ the rest of the canon.
 ## Key passages
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
+- [[The Wager in Heaven and the Four Messengers]] — **ten deaths in a single clause**, reported by a
+  survivor, with no explanation offered to anyone inside the book; and Job's *"naked shall I return
+  there"*, whose destination the Hebrew genuinely leaves open between the earth, [[Sheol]], and a
+  bare *thither*
 - [[The Fall]] — the return to dust, and the tree of life barred
 - [[Cain and Abel]] — the first death, and the first blood to cry out
 - [[The Line of Cain and the Birth of Seth]] — the second killing, boasted of; and a birth named for

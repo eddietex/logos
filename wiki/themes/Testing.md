@@ -88,6 +88,12 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[The Binding of Isaac]] — Genesis 22:1–19; the first *nissâ* in Scripture, and the one every later
   instance is measured against
 - [[Job of Uz]] — Job 1–2; the prologue that gives the reader the frame and the sufferer nothing
+- [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22; **the mechanism of Genesis 22 with
+  the reasons argued out loud.** Both narratives tell the reader in advance and tell the man
+  nothing, and both use *fears God* as the thing measured. What Job 1 adds is **motive**: Genesis 22
+  asks whether Abraham will obey, Job 1 asks whether anyone obeys *ḥinnām*, for nothing. And unlike
+  every other test in Scripture, this one is **never disclosed to its subject afterwards** — not in
+  the whirlwind, not in the epilogue, not by anyone
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16–17; what being tested looks like from
   inside, with the cause invisible
 - [[I Know That My Redeemer Lives]] — Job 19; the answer a tested man arrives at without being told

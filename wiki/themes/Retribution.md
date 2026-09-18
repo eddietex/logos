@@ -110,6 +110,13 @@ verdicts.
 - [[Job of Uz]] — the doctrine's premises assembled without being stated: a blameless man, an
   itemised fortune, and the correlation between them that the friends will read backwards once the
   fortune is gone
+- [[The Wager in Heaven and the Four Messengers]] — **the doctrine stated aloud, in heaven, by its
+  sharpest critic.** *"Haven't you made a hedge around him… You have blessed the work of his hands"*
+  (1:10). The accuser and the three friends hold **the identical theory of the world** — prosperity
+  tracks righteousness — and differ only in the direction they run it: the friends infer sin from
+  ruin, the accuser infers hire from prosperity. **The premise is discredited in chapter 1, before a
+  friend has opened his mouth**, and the reader spends twenty-five chapters watching four men reason
+  from it anyway
 - [[Eliphaz's Second Speech]] — the doctrine's fullest statement in the book, and 15:6's method for
   making it immune to counter-evidence
 - [[Miserable Comforters and the Witness in Heaven]] — 16:8, the sufferer watching his own body

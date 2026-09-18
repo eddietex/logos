@@ -26,8 +26,10 @@ God he argues with is named *ʾĒl*, *ʾĔlôah*, and *Šadday* almost throughou
 belongs to the prose frame. This gives the book its reach: the problem is posed as a human problem
 before it is a covenantal one.
 
-The wiki has him from two directions so far: the five verses of [[Job of Uz]] that introduce him
-before anything happens, and then, forty chapters of argument in, the second cycle of the dialogue
+The wiki has him from two directions so far: the prologue — the five verses of [[Job of Uz]] that
+introduce him before anything happens, and
+[[The Wager in Heaven and the Four Messengers]], where everything is taken and he blesses the name
+of the one who took it — and then, forty chapters of argument in, the second cycle of the dialogue
 — the man on the other end of three friends' speeches and the speaker of the two replies that run
 from Job 16:1 to 17:16 and through the whole of chapter 19. Those replies are where the two poles
 of his character are furthest apart. He accuses God of tearing him like a beast, dashing him to
@@ -78,9 +80,10 @@ speeches; each becomes a linked passage page as it is ingested.
 - **Job 1:1–5** — [[Job of Uz]]. Introduced in [[Uz]]: blameless and upright, seven sons and three
   daughters, immense flocks, and a standing practice of offering burnt offerings on his children's
   behalf *"It may be that my sons have sinned, and renounced God in their hearts."*
-- **Job 1:6–22** — the heavenly council; the accuser's question *"Does Job fear God for nothing?"*;
-  four messengers in one afternoon; all his livestock, servants, and ten children destroyed. He
-  tears his robe, shaves his head, worships, and says *"Yahweh gave, and Yahweh has taken away."*
+- **Job 1:6–22** — [[The Wager in Heaven and the Four Messengers]]. The heavenly council; God, not
+  the accuser, raises Job's name; the accuser's question *"Does Job fear God for nothing?"*; four
+  messengers in one afternoon; all his livestock, servants, and ten children destroyed. He tears his
+  robe, shaves his head, worships, and says *"Yahweh gave, and Yahweh has taken away."*
 - **Job 2:1–10** — the second council and the loss of his health; his wife's *"Do you still maintain
   your integrity? Renounce God, and die"*; his reply, and the narrator's second verdict that *"Job
   didn't sin with his lips."*
@@ -114,6 +117,12 @@ speeches; each becomes a linked passage page as it is ingested.
 
 - [[Job of Uz]] — his introduction: the narrator's fourfold verdict, the household, the wealth, and
   the burnt offerings offered for sins his children may not have committed.
+- [[The Wager in Heaven and the Four Messengers]] — silent while his case is argued in a room he
+  does not know exists, then given the eighteen Hebrew words of 1:21. **The first thing he is shown
+  doing after total loss is a full mourning rite** — robe torn, head shaved, face to the ground —
+  **and then one act nobody required**, worship. He names no human agent for losses that were two
+  thirds armed robbery, and the narrator certifies that naming Yahweh instead was not a charge of
+  wrongdoing.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the
@@ -139,6 +148,9 @@ speeches; each becomes a linked passage page as it is ingested.
   throughout Job 16–17.
 - [[God]] — Job's real interlocutor from chapter 3 onward. He speaks *about* the friends and *to*
   God, and the friends do the reverse.
+- [[Satan]] — *haśśāṭān*, who asks at 1:9 whether Job fears God *for nothing*, and whom Job never
+  hears of. **The single most important thing about the relationship is that it is one-directional**:
+  the accuser names Job four times and Job never names him once, in forty-two chapters.
 - [[Job's Children]] — seven sons and three daughters, unnamed until the epilogue; the reason for
   the first sacrifice in the book and the worst of his losses.
 - **His wife** — two lines and no name: 2:9, where she tells him to renounce God and die, and

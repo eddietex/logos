@@ -108,6 +108,11 @@ about.
 
 - [[Noah and the Flood]] — *ṣaddîq*'s first occurrence in Scripture, declared of a man before he is
   shown doing anything, and restated by God at 7:1
+- [[The Wager in Heaven and the Four Messengers]] — the narrator's verdict of Job 1:1 **quoted back
+  by God, word for word, at 1:8 and again at 2:3**, which makes it the most heavily attested
+  statement in the book and one that no human being inside the book ever hears. And then the
+  verdict is made the *reason* for the disaster rather than a defence against it: **Job is selected
+  because he is blameless**
 - [[Noah's Sons and the Curse of Canaan]] — the same man in the tent: the verdict of 6:9 left standing
   beside a scene it does not fit, with no attempt to reconcile them
 - [[Job of Uz]] — Job 1:1's *tām wə-yāšār*, blameless and upright, declared of a man before he is

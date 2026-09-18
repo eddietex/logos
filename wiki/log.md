@@ -8524,3 +8524,135 @@ started and a person page for him would be built entirely out of unread books.
 [[The Deaths of Jacob and Joseph]].** The next `/ingest` resolves to [[Job]], not Exodus —
 `wiki/books/index.md` carries Job as `in-progress` at 6 / 32, and an open book outranks an earlier
 unopened one.
+
+## [2026-09-18] ingest | Job 1.6-22 — The Wager in Heaven and the Four Messengers
+
+Unattended run (`/ingest auto`). Target resolved mechanically: Genesis is `complete`, [[Job]] is the
+only `in-progress` book in `wiki/books/index.md`, and the first unchecked box on its page was Job
+1:6–22. **Note for a reader scanning the Job checklist: it is checked out of order** — 1:1–5 and then
+the whole second cycle (15–20) — because earlier sessions ingested the second cycle first. The
+mechanical rule still lands correctly on the earliest unchecked box, and the prologue is now being
+filled in behind the dialogue. **Boundary unchanged; Job is at 7 / 32.**
+
+### The passage page
+
+[[The Wager in Heaven and the Four Messengers]], `wiki/passages/Job/`. The discussion step was
+written into the page, as unattended mode requires. Built around these findings:
+
+**1. *Ḥinnām* is the prologue's hinge, and it is said twice from opposite sides.** The accuser asks
+*"Does Job fear God for nothing?"* (1:9) — *ḥinnām*, gratis, without return. At 2:3 God uses the same
+word of what was done to Job: *"you incited me against him, to ruin him **without cause**."* **The
+wager and the objection to the wager are stated in identical Hebrew**, and Job picks the word up
+himself at 9:17 without any way of knowing he is right. The page makes this the centre.
+
+**2. *Bārak* runs in both directions inside twelve verses, and the wager is answered in its own
+vocabulary.** At 1:5 Job feared his children had *bārak*-ed God in their hearts and at 1:11 the
+accuser predicts Job will *bārak* God to his face — both the scribal euphemism for *curse*, already
+documented at [[Job of Uz]]. At 1:21 Job says *"Blessed be Yahweh's name"* in the plain sense. **The
+prediction is fulfilled to the letter and destroyed in its meaning by the same verb.**
+
+**3. God raises Job, not the accuser.** *"Have you considered my servant, Job?"* (1:8) follows a
+patrol report containing no accusation. The page states this plainly rather than softening it, and
+carries it onto [[God]]: the prologue's God is conversational, willing to be questioned by a
+subordinate, and unwilling to settle a question about himself by assertion — and the cost of the
+demonstration falls entirely on a third party who is never consulted.
+
+**4. The accuser is an officer of the court, and *haśśāṭān* is a title.** All fourteen occurrences in
+Job 1–2 carry the definite article, and Hebrew proper names do not. He comes *among* the sons of God,
+is questioned, acts only under a stated limit, and is refused nothing he asks for.
+
+**5. The four messengers alternate agency.** Sabean raid, *"the fire of God"*, Chaldean raid, wind
+from the wilderness — earth, heaven, earth, heaven — each arriving *"while he was still speaking"*
+and each closing with the same six Hebrew words. **Two of the four are crimes by identifiable people
+whom Job's verdict at 1:21 does not mention.** The servants die in three of the four reports and are
+never mentioned again in the book, including in the restoration; the page notes them as the losses
+nobody in the book counts.
+
+**6. The mourning rite has something extra on the end.** Robe torn, head shaved, face to the ground —
+three conventional acts of grief — *"and worshiped"*, which is not one. The page resists the reading
+in which Job skips the grief.
+
+**7. 1:22's verdict is narrow and exact.** *Nātan tiplâ*, to assign **impropriety** to God — not a
+statement that Job said nothing about God, since he named God as the one who took. The narrowing at
+2:10 to *"with his lips"* is flagged as contested rather than resolved.
+
+### Judgment calls made unattended
+
+- **The page keeps the book page's title, *The Wager in Heaven*, and argues against the word in a
+  note.** The text names no stakes and nothing is owed to a winner; the English habit of calling the
+  prologue a wager owes a good deal to *Faust*. Retitling was considered and refused — it is how the
+  episode is known, and the alternatives were worse — so the objection is recorded on the page
+  instead of being silently absorbed.
+- **[[Satan]] created under that filename, with the page's own opening paragraph saying the spelling
+  is the one thing on it not to trust.** *The Accuser* is the better translation; *Satan* is what the
+  WEB prints fourteen times in two chapters and therefore what a reader arriving from
+  `raw/bible/Job.md` will search for. `also_known_as` carries the alternatives.
+- **No pages for the Sabeans, the Chaldeans, or the four messengers.** The first two are raiding
+  peoples rather than individuals, handled in the passage's `## People` section with prose and a
+  pointer to [[Ur of the Chaldees]]; this follows the precedent [[Uz]] set for the Genesis 10:23 and
+  36:28 Uzzes, who are names in a list and got no page. The messengers are a narrative device.
+- **No page for heaven.** The text gives it no name, no description and no location — it is *"the
+  presence of Yahweh"* and nothing more — so the material went to [[The Divine Council]] instead of
+  into a place page built out of one preposition.
+- **The accuser is not allowed to absorb the blame.** 2:3 has God concede the incitement and keep the
+  verb, 42:11 calls it *"all the evil that Yahweh had brought on him"*, and no character ever learns
+  the accuser existed. Recorded on the passage page, on [[Satan]], and on
+  [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]].
+
+### Pages created
+
+- [[The Wager in Heaven and the Four Messengers]] — the passage page
+- [[Satan]] — the accuser: the article, the word's ordinary uses, the three heavenly passages, the
+  non-identification with [[The Serpent]], and where the figure goes after 2:7
+- [[The Divine Council]] — Job 1:6 beside 1 Kings 22:19–23, Psalm 82, Isaiah 6, Zechariah 3 and
+  Daniel 7. **Job's innovation is formal**: every other council scene is a vision given to a human
+  being who then reports it, and Job's is given to nobody but the reader
+- [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] — the word's movement from office
+  toward name, with 2 Samuel 24:1 beside 1 Chronicles 21:1 and Job 2:3 sitting between them
+- [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] — one arithmetic, four
+  uses: Job's about tenure, Qoheleth's as a complaint, Psalm 49's as reassurance, 1 Timothy's as an
+  instruction
+
+### Pages revised
+
+Book: [[Job]] (box checked; a paragraph added to the overview on the prologue being shown to no one;
+[[Satan]] added to key people) and [[books/index|Books]] (Job 6 → 7 / 32).
+
+People: [[Job (person)]], [[Job's Children]], [[God]] (a new paragraph on his first speech in the
+book), [[The Sons of God]] (Job 1:6 as the phrase's unambiguous heavenly use), [[The Serpent]] (the
+shared *method* stated without the identification).
+
+Places: [[Uz]] — the four messages as the closest thing to a description of the country.
+
+Themes: [[Testing]], [[The Fear of God]], [[Blessing]], [[Retribution]], [[Wealth and Possessions]],
+[[Suffering]], [[Providence]], [[Nakedness and Covering]], [[Life and Death]], [[Righteousness]],
+[[Judgment]], [[Sin]].
+
+Plus [[people/index|People]], [[places/index|Places]], [[themes/index|Themes]],
+[[connections/index|Connections]] and [[index|the top-level index]].
+
+### Link check
+
+`scripts/link-check.sh` exits 0, baseline 64. **No links were deliberately left dangling.** Zechariah,
+Chronicles, Samuel, Numbers, Psalms, Ecclesiastes and the New Testament references are given as plain
+scripture citations rather than links, since none of those books has been started.
+
+### Findings left for the next lint
+
+- **[[Retribution]] now has the accuser and the friends holding the same doctrine, and the three
+  friends' pages do not say so.** [[Eliphaz the Temanite]], [[Bildad the Shuhite]] and
+  [[Zophar the Naamathite]] were written before 1:9–10 was in the wiki. Adding the observation to
+  each is a lint job.
+- **[[The Witness in Heaven]] already cited Job 1:6–12 as *"the heavenly court, containing an accuser
+  and no advocate"* before that court had a passage page.** It now resolves to one by scripture
+  reference only; **retro-linking it to [[The Wager in Heaven and the Four Messengers]] is a lint
+  job**, as is the same for the several Genesis-era pages that mention Job 1 in passing.
+- **The wiki still has no page for Job's wife**, who is named in the checklist's next pericope
+  (2:1–10) and already appears in prose on [[Job (person)]]. She will need one then, and the
+  `(person)` / bare-name rules do not obviously cover an unnamed figure known only by relation — the
+  Genesis precedent is [[Potiphar's Wife]], so `Job's Wife` is the likely form.
+- **Unchanged from the last entry**: the whole-book Genesis lint that became due when Genesis
+  completed — orphan pages, stale `### What is still ahead` sections, and `*(not yet ingested)*`
+  markers pointing at unopened books — plus the stray empty `Exodus.md` at the repository root, the
+  [[The Jordan]] retro-linking, and the `wiki/themes/index.md` *Key passages* column, which **this
+  pass again appended to rather than rebuilding**, for the fifth entry running.

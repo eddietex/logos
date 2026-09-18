@@ -17,6 +17,14 @@ suffering *because* he is blameless, not despite it. Then forty poetic chapters 
 five men reason about his case from the evidence available on the ground — and every one of them,
 Job included, reasons without the one fact that would settle it.
 
+The mechanism of that withholding is worth stating early, because it is unique in Scripture. Other
+books show the heavenly court to a human being — Micaiah sees it, Isaiah sees it, Zechariah sees it —
+and the seer then reports what he saw. **Job 1:6–12 is shown to no one.** There is no vision, no
+dream, and no prophet; the narrator simply tells the reader, and then keeps the information out of
+the story for forty-one chapters. The accuser who asks the question that starts everything leaves at
+2:7 and is never named again by anyone, in heaven or on earth, and the epilogue attributes the whole
+affair to Yahweh without mentioning him (42:11). See [[The Divine Council]] and [[Satan]].
+
 The book's central target is the doctrine of **retribution**: the conviction that suffering is
 payment for sin, so that a man's circumstances are a readable index of his standing with God.
 That doctrine is not a straw man. It is the working assumption of much of Deuteronomy and
@@ -70,7 +78,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### Prologue (1–2)
 
 - [x] [[Job of Uz]] — Job 1:1–5
-- [ ] The Wager in Heaven and the Four Messengers — Job 1:6–22
+- [x] [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22
 - [ ] The Second Test — Job 2:1–10
 - [ ] Seven Days of Silence — Job 2:11–13
 
@@ -145,6 +153,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 ## Key people
 
 - [[Job (person)]]
+- [[Satan]] — *haśśāṭān*, the accuser; present in two scenes of the prologue and in no other verse
+  of the book
 - [[Eliphaz the Temanite]]
 - [[Bildad the Shuhite]]
 - [[Zophar the Naamathite]]

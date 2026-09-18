@@ -30,7 +30,11 @@ details in Scripture.
   hearts."* Nothing in the text says they had.
 - **Job 1:13, 18–19** — they are eating and drinking in the oldest brother's house when a great
   wind from the wilderness strikes the four corners of it and kills all ten. This is the fourth and
-  final message, held to last.
+  final message, held to last — and **told twice**: verse 13 opens the scene by placing them at the
+  feast, and verse 18 opens the fourth messenger's report with the same clause word for word, so
+  that the reader knows where they are through three other catastrophes before hearing what happened
+  to them. It is the only piece of dramatic technique in the prologue and it is spent on them. See
+  [[The Wager in Heaven and the Four Messengers]].
 - **Job 8:4** — Bildad: *"If your children have sinned against him, he has delivered them into the
   hand of their disobedience."* The friends' theology applied to ten dead young people, offered as
   consolation.
@@ -74,6 +78,10 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
 ## Appears in
 
 - [[Job of Uz]] — introduced, feasting, and the object of their father's standing sacrifice.
+- [[The Wager in Heaven and the Four Messengers]] — killed in the fourth and last message, in one
+  clause, by a wind that strikes *"the four corners of the house"*. They are the climax of a list
+  that runs draft animals, flocks, caravan capital, children — **the only item on it that the
+  epilogue cannot give back.**
 - [[Bildad's Second Speech]] — 18:19, the second use of their deaths as evidence, now anonymous.
 - [[I Know That My Redeemer Lives]] — 19:17, and the empty place their absence leaves where a
   *gōʾēl* would have to stand.
