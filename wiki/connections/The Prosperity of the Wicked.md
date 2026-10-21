@@ -28,8 +28,8 @@ tags: [connection]
   the widow's pledged ox, the starving harvesters, and the murderer, adulterer and burglar of the
   night, all unpunished; *"God gives them security, and they rest in it"* (24:23) —
   [[Oh That I Knew Where I Might Find Him]]
-- **Job 27:13–23** — the same doctrine as the friends', in Job's mouth, in the disturbed third cycle
-  *(not yet ingested)*
+- **Job 27:13–23** — the same doctrine as the friends', in Job's mouth, in the disturbed third cycle:
+  *"This is the portion of a wicked man with God"* — [[I Will Not Put Away My Integrity]]
 - **Psalm 37:1–2, 9–11, 35–36** — *"Don't fret because of evildoers … for they shall soon be cut
   down like the grass"*
 - **Psalm 73:1–28** — *"my feet were almost gone … For I was envious of the arrogant, when I saw the
@@ -119,6 +119,16 @@ eyes are on their ways"* (24:22–23). The section that follows, 24:18–20, sou
 portrait of the wicked man's ruin; the wiki reads it as either a citation of their view or Job's
 imprecation, answered by 24:24 — the wicked are cut off *"as all others"*, at the same harvest as
 everyone. See [[Oh That I Knew Where I Might Find Him]] for the crux.
+**Chapter 27 then puts the friends' portrait in Job's own mouth, and the wiki flags the result as a
+contradiction rather than resolving it.** *"This is the portion of a wicked man with God"* (27:13)
+is Zophar's closing line (20:29), and what follows reverses chapter 21 point by point: the children
+multiplied *"for the sword"* (27:14), the man who *"lies down rich"* and wakes to nothing (27:19), and
+*"A storm steals him away in the night"* (27:20) — the very phrase, *gənābattû sûpâ*, of 21:18's
+sceptical *"how often?"* Either the section is Zophar's missing third speech, or Job is wishing the
+friends' doctrine on his accuser (*"Let my enemy be as the wicked"*, 27:7), or conceding its end-point
+while denying its inference, or reciting it back to them. See [[I Will Not Put Away My Integrity]] and
+[[The Portion of a Wicked Man - Job 20.29 and Job 27.13]]. **On any reading, this is the last time
+the portrait is painted in the dialogue.**
 
 ## Significance
 

@@ -375,7 +375,7 @@ in effect, without an answer to this chapter.
 - [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] — the other half of
   Job's use of Psalm 139.
 - [[Bildad's Third Speech]] — Job 25:1–6, Bildad's reply, which does not answer 24:25.
-- Job 27:13–23 — the second passage of the friends' doctrine in Job's mouth.
+- [[I Will Not Put Away My Integrity]] — Job 27:13–23, the second passage of the friends' doctrine in Job's mouth.
 - Job 31 — the oath that answers the charges directly.
 - Job 38:12–15 — God on the dawn that shakes the wicked out of the earth, *"From the wicked, their
   light is withheld"*: God's reply to 24:13–17.

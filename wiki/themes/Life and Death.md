@@ -361,6 +361,10 @@ the rest of the canon.
   cited or cursed — and then Job's own: the mighty *"are taken out of the way as all others, and are
   cut off as the tops of the ears of grain"*. Death as the harvest that takes everyone, as at
   21:23–26.
+- [[I Will Not Put Away My Integrity]] — Job 26:5–6; 27:3, 5; the shades (*rəpāʾîm*) trembling
+  beneath the waters and Sheol naked before God; *"the length of my life is still in me, and the spirit
+  of God is in my nostrils"* — life as God's breath, Genesis 2:7 — and *"Until I die"* as the term of
+  the oath
 
 ## Related themes
 

@@ -320,8 +320,10 @@ a valley floor where a burial could actually be dug. No named place.
   and 21:14 and 21:16 quoted back.
 - [[Oh That I Knew Where I Might Find Him]] — Job 23–24, the second speech in a row that never
   addresses God; 24:1–17 extends this chapter's case to the victims, and 24:24 repeats 21:23–26.
-- Job 27:13–23 — the friends' portrait of the wicked man, in Job's mouth, in the disturbed third
-  cycle: the speech that most directly contradicts this one.
+- [[I Will Not Put Away My Integrity]] — Job 27:13–23, the friends' portrait of the wicked man, in Job's mouth, in
+  the disturbed third cycle: the speech that most directly contradicts this one — 27:20's *"A storm
+  steals him away in the night"* is 21:18's *gənābattû sûpâ* asserted rather than questioned. See
+  [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
 - Job 30:31 — *"my harp is turned to mourning"*.
 - Job 40:4 — *"I lay my hand on my mouth."*
 - Exodus 23:26; Deuteronomy 28:4 — the covenant blessings of fertility, behind 21:10.

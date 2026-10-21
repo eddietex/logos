@@ -216,8 +216,8 @@ plenty the wicked man is not allowed to look at.
   direct denial of 20:5: his *ʿădê-rāgaʿ* becomes the wicked man's *bəregaʿ* descent to Sheol (21:13).
 - [[Eliphaz's Third Speech]] — Job 22:6–9, Eliphaz turning 20:19's charge into a personal
   indictment.
-- Job 27:13–23 — the same portrait of the wicked man's portion, in Job's mouth, in the disturbed
-  third cycle; one of the main pieces of evidence that material has been displaced there.
+- [[I Will Not Put Away My Integrity]] — Job 27:13–23, the same portrait of the wicked man's portion, in Job's mouth, in the
+  disturbed third cycle, opening with this speech's last line (20:29) at 27:13; one of the main pieces of evidence that material has been displaced there.
 - Job 1:16, 19 — the fire from the sky and the collapsed house behind 20:26's unfanned fire
   consuming *"that which is left in his tent"*.
 - Genesis 11:4 — *"a tower whose top reaches to the sky"*.

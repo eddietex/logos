@@ -126,6 +126,11 @@ than his iniquity deserves. The reader knows which of the two is right.
 - **Job 25:1–6** — silent through [[Bildad's Third Speech]], where his turn should follow and does
   not. **He has no third speech**; whether that is design or damage (27:13–23 is the usual candidate
   for a lost Zophar speech) is recorded on [[Bildad's Third Speech]] and [[Bildad the Shuhite]].
+- **Job 26–27** — silent through [[I Will Not Put Away My Integrity]], where Job speaks twice in a row
+  (*"Job again took up his parable"*, 27:1) in the place of his third speech. **Quoted at 27:13**: his
+  closing line of 20:29, *"This is the portion of a wicked man from God"*, with two words changed, opens
+  the portrait of 27:13–23 that some reconstructions give back to him. See
+  [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
   be prayed for by Job.
 
@@ -170,6 +175,9 @@ than his iniquity deserves. The reader knows which of the two is right.
   the original speaker of 24:18–24, a reading the wiki records but does not adopt.
 - [[Bildad's Third Speech]] — Job 25, silent; Bildad's six verses are the last the friends say, and
   the place in the cycle where Zophar's third speech would follow is empty.
+- [[I Will Not Put Away My Integrity]] — Job 26–27, silent; his 20:29 repeated at 27:13, and the ten
+  verses after it (27:14–23) the usual candidate for his lost third speech. The wiki records the
+  reconstruction and keeps the received arrangement.
 
 ## Related people
 

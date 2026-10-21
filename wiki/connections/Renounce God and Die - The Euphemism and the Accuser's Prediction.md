@@ -16,6 +16,8 @@ tags: [connection]
 - **Job 1:5** — *"It may be that my sons have sinned, and renounced God in their hearts"* —
   [[Job of Uz]]
 - **Job 1:21** — *"Blessed be Yahweh's name."*
+- **Job 27:5–6** — *"Until I die I will not put away my integrity from me. I hold fast to my
+  righteousness, and will not let it go."* — [[I Will Not Put Away My Integrity]]
 - **Genesis 3:1–6, 17** — the serpent's question, the woman's giving, and *"because you have
   listened to your wife's voice"* — [[The Fall]]
 - **1 Kings 21:10, 13** — the two false witnesses against Naboth: *"You blasphemed God and the
@@ -102,3 +104,8 @@ voice"*. **Job listens and declines. Adam does not listen; he obeys and then bla
 - **It marks the difference between the two great temptation scenes in the Hebrew Bible.** One is
   answered by eating; the other by a question about what a person may reasonably expect from God.
   See [[The Second Test]] and [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]].
+- **It is answered, in the end, in its own words.** *"Do you still maintain (maḥăzîq) your
+  integrity (tummâ)? … and die"* (2:9) receives its reply at 27:5–6: *"Until I die I will not put
+  away my integrity (tummātî) … I hold fast (heḥĕzaqtî) to my righteousness."* The noun, the verb, and
+  the death are all there. Job keeps the integrity and accepts the dying, and declines only the
+  renouncing. See [[I Will Not Put Away My Integrity]].

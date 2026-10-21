@@ -1222,6 +1222,13 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   light that reaches everyone — and before him the moon is dim and the stars impure (25:5). Every line
   is orthodox, and none of it touches the man on the ash heap; it is the last portrait of God the
   friends offer, and the one God answers at 42:7.
+- **The God of [[I Will Not Put Away My Integrity]]** is sworn by and accused in one breath: *"As God
+  lives, who has taken away my right"* (27:2). Job's hymn makes him master of everything Bildad's left
+  out — Sheol *"naked before"* him, the earth hung on nothing, the waters bound in clouds, the pillars
+  of heaven trembling at his rebuke, Rahab and the fleeing serpent struck through (26:5–13) — and then
+  says that all of it is *"the outskirts of his ways"*, a *"whisper"*, and that *"the thunder of his
+  power"* no one understands (26:14). The friends spoke of God as known; Job's last hymn speaks of him
+  as almost wholly unknown, and swears by him anyway.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1579,6 +1586,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   without charging them (24:12, 23)
 - [[Bildad's Third Speech]] — ruling, dreaded, making peace in the heights, attended by uncountable
   troops, his light rising on all (25:2–3); before him even the moon has no brightness (25:5)
+- [[I Will Not Put Away My Integrity]] — Sheol naked before him (26:6), the earth hung on nothing
+  (26:7), Rahab struck through (26:12), known only at his edges (26:14); sworn by as the one *"who has
+  taken away my right"* (27:2), and the giver of the breath in Job's nostrils (27:3)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

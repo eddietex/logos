@@ -140,6 +140,9 @@ raw text.)*
   people on whom, in every practical sense, God's light did not rise — the rebels against the light and
   their victims (24:13–17). Compare Matthew 5:45, the sun rising on evil and good, used there as a
   reason for mercy.
+- [[I Will Not Put Away My Integrity]] — Job 26:10; 27:20; *"He has described a boundary on the
+  surface of the waters, and to the confines of light and darkness"*: the limit of light drawn by God
+  as a circle on the sea; and the night in which the storm steals the wicked man away
 
 ## Related themes
 

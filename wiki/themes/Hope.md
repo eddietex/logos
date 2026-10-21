@@ -170,6 +170,10 @@ is close because you cannot bear to sit in the dark with him.
   *wait*, the verb Job had refused at 6:11. See
   [[Though He Slay Me - The Written and the Read Text of Job 13.15]] and
   [[There Is Hope for a Tree - The Stump That Sprouts]]
+- [[I Will Not Put Away My Integrity]] — Job 27:8–10; ***"For what is the hope of the godless, when
+  he is cut off?"*** Hope defined by its object: *"Will God hear his cry … Will he delight himself in
+  the Almighty, and call on God at all times?"* The test Job has been passing all through the dialogue,
+  calling on God continually, and the one the friends have never sat — none of them addresses God once
 
 ## Related themes
 

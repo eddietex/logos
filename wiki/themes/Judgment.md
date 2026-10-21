@@ -295,6 +295,9 @@ rule are the conditions the rest of Scripture is set in.
   times of judgment and *his days* the days of reckoning; Job's complaint widens from his own unheard
   case (23:3–7) to a universe whose docket is never called, and 24:2–17 is the list of cases waiting.
   At 23:7 Job expects to be *"delivered forever from my judge"* — acquitted by God from God.
+- [[I Will Not Put Away My Integrity]] — Job 27:2; ***"who has taken away my right (mišpāṭî)"***.
+  *Mišpāṭ* as Job's case, his due in court, removed by the judge himself; the lawsuit of chapters 9,
+  13 and 23 reduced to one clause, inside an oath that appeals to the same God for the truth
 
 ## Related themes
 

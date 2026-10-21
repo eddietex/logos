@@ -58,7 +58,8 @@ it would require him to affirm something he believes false about himself and abo
 He will not, and his refusal costs him his last comfort, since a confession would at least have
 made the world legible again. In the ingested speech this is why 16:8 stings — *"You have shriveled
 me up. This is a witness against me"* — his ruined body is being read as the confession he declines
-to make.
+to make. At 27:5–6 the refusal becomes an oath: *"Far be it from me that I should justify you. Until
+I die I will not put away my integrity from me."* See [[I Will Not Put Away My Integrity]].
 
 **What he wants is a hearing, not relief.** Every legal figure he reaches for — the umpire of 9:33,
 the witness and voucher of 16:19, the surety of 17:3, the Redeemer of 19:25 — is an officer of a
@@ -161,7 +162,13 @@ speeches; each becomes a linked passage page as it is ingested.
   his own 9:2 quoted back in the same Hebrew with its lawsuit sense removed, his dread (23:15) made an
   attribute of God (25:2), and his worm (7:5; 17:14) made a definition of man (25:6). The last word
   any friend speaks.
-- **Job 22–31** — the third cycle collapsing, the hymn to wisdom, and Job's closing oath of
+- **Job 26:1–27:23** — [[I Will Not Put Away My Integrity]]. Speaks twice in succession where Zophar
+  should have spoken. Mocks Bildad's help (26:2–4), outbids his hymn with one that runs from Sheol to
+  the heavens and ends *"How small a whisper do we hear of him!"* (26:14), and swears: *"As God lives,
+  who has taken away my right … Until I die I will not put away my integrity from me"* (27:2, 5). Then,
+  as the text stands, recites the wicked man's ruin (27:13–23) in terms that contradict his own
+  chapter 21.
+- **Job 28–31** — the hymn to wisdom, and Job's closing oath of
   innocence, in which he calls down curses on himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
@@ -299,6 +306,16 @@ speeches; each becomes a linked passage page as it is ingested.
   25:2, God's *troops* encamped around his tent (19:12) as an uncountable host at 25:3, and the worm
   he used of his sores and his grave (7:5; 17:14; 21:26; 24:20) as what a living man is (25:6). See
   [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
+- [[I Will Not Put Away My Integrity]] — Job 26:1–27:23; **the oath on which the whole case rests.**
+  He swears by the God he accuses (*ḥay-ʾēl … hēsîr mišpāṭî*, 27:2), and answers God's *removing* his
+  right with his own refusal to *remove* his integrity — the same verb, *sûr*, at 27:2 and 27:5. The
+  prologue's *tummâ* and *ḥāzaq* (2:3, 9) are in his mouth for the first time: **his wife's question
+  answered in her own words, and God's verdict confirmed by a man who never heard it.**
+  **Contradiction flagged:** 27:13–23, as received, says the storm steals the wicked man away by night
+  (*gənābattû sûpâ*, 27:20) — the exact phrase of 21:18, where Job asked *"how often?"* and implied
+  *rarely*. The wiki keeps both claims in his mouth and records the four readings (Zophar's lost
+  speech; imprecation on his accusers, 27:7; concession of the end but not the inference; citation)
+  on the passage page and at [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
 
 ## Related people
 

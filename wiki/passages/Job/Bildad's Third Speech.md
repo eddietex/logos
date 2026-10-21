@@ -189,7 +189,7 @@ heaven — set against the ground Job sits on, and the distance between them is 
 - [[I Know That My Redeemer Lives]] — Job 19:12, God's *troops* encamped around Job's tent.
 - [[Bildad's First Speech]] and [[Bildad's Second Speech]] — Job 8 and 18, twenty-two and twenty-one
   verses, to this one's six.
-- Job 26:1–14 — Job's reply (next pericope), opening *"How have you helped him who is without power!"*
+- [[I Will Not Put Away My Integrity]] — Job 26:1–27:23, Job's reply, opening *"How have you helped him who is without power!"*
   and continuing with a hymn on God's power over Sheol, the waters and Rahab that some read as the rest
   of Bildad's speech; see the Notes.
 - Job 38:7 — *"when the morning stars sang together"*: the stars in God's own speech.
@@ -220,7 +220,8 @@ heaven — set against the ground Job sits on, and the distance between them is 
   bottom of an argument that has been going down since 4:17.
   **The wiki keeps the received arrangement**, because the WEB and the Hebrew text both give 26:1 as
   *"Then Job answered"*, and records both readings here. The question will come up again at chapter
-  26, where the passage page should weigh whether 26:5–14 reads as Job's or Bildad's.
+  26, where the passage page should weigh whether 26:5–14 reads as Job's or Bildad's. (It does, at
+  [[I Will Not Put Away My Integrity]], and reads it as Job's.)
 - **Nothing in the speech is false, and that is not a defence.** Every clause of 25:2–6 has a
   counterpart in a book no one calls heterodox: God's dominion and the dread of him, the heavenly host,
   universal light, the impossibility of a human being pure before God (Psalm 143:2 and Romans 3 are the

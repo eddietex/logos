@@ -85,6 +85,12 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   Bildad's reply (25) is six verses and has no *you* in it: a hymn to God's dominion and a descent
   from moon and stars to *"man, who is a worm"* (25:6) — Job's own 9:2 and his own worm handed back as
   a definition, and the last word any of the friends speaks.
+  Job's reply (26–27) is spoken twice over in the place where Zophar should answer — *"Job again took
+  up his parable"* (27:1). It mocks Bildad's help, outbids his hymn with one that runs from Sheol to
+  the heavens and ends *"How small a whisper do we hear of him!"* (26:14), and swears the oath the
+  whole case rests on: *"As God lives, who has taken away my right … Until I die I will not put away my
+  integrity from me"* (27:2, 5). Its last section (27:13–23) recites the wicked man's ruin in words
+  that contradict Job's own chapter 21 — Zophar's lost third speech, on one reconstruction.
 - **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
@@ -136,7 +142,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [x] [[Eliphaz's Third Speech]] — Job 22:1–30
 - [x] [[Oh That I Knew Where I Might Find Him]] — Job 23:1–24:25
 - [x] [[Bildad's Third Speech]] — Job 25:1–6
-- [ ] Job's Final Reply to the Friends — Job 26:1–27:23
+- [x] [[I Will Not Put Away My Integrity]] — Job 26:1–27:23
 
 ### Interlude (28)
 

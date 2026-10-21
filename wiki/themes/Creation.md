@@ -116,6 +116,13 @@ Genesis 1 sets four load-bearing claims:
   worm. *"He makes peace in his high places"* (25:2) presupposes the cosmic conflict Job's poetry knows
   (Rahab, 9:13; 26:12). The whirlwind will give the stars another character: they *sang* (38:7). See
   [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]].
+- [[I Will Not Put Away My Integrity]] — Job 26:7–13; 27:3; **Job's cosmos, from the shades to the
+  heavens.** The north stretched over *tōhû* — Genesis 1:2's *formless* — and the earth hung *"on
+  nothing"* (26:7); the waters bound in the clouds (26:8); a circle drawn on the waters *"to the
+  confines of light and darkness"* (26:10; compare Proverbs 8:27); the sea stirred, Rahab struck, the
+  fleeing serpent pierced (26:12–13). Creation as combat and as order, ending in *"these are but the
+  outskirts of his ways"* (26:14). And Genesis 2:7 in Job's oath: *"the spirit of God is in my
+  nostrils"* (27:3)
 
 ## Related themes
 

@@ -153,13 +153,19 @@ to go.
   ***"It is enough. Joseph my son is still alive. I will go and see him before I die."*** **The
   journey he has been describing as a death becomes a journey to Egypt**, and the verb is *see*. The
   vow is not retracted, it is redirected; he will in fact die there (49:33), having seen him
+- [[I Will Not Put Away My Integrity]] — Job 26:5–6; ***"Sheol is naked before God, and Abaddon has
+  no covering."*** **The hymn's first claim is that the deepest place is exposed.** The *rəpāʾîm*, the
+  shades, *"tremble"* beneath the waters (26:5), and Sheol is *ʿārôm*, naked — the word of 1:21's
+  *"Naked I came out of my mother's womb"*. Job, who wished to be hidden there (14:13), now says
+  nothing there is hidden. See [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
 
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,
   *"for you are dust, and to dust you shall return"*, on [[The Garden of Eden]] and [[The Fall]].
 - **The pit** (*šaḥat*, *bôr*) and **Abaddon** (*destruction*, Job 26:6, 28:22, 31:12) — near
-  synonyms used in parallel with Sheol.
+  synonyms used in parallel with Sheol. Abaddon has no page of its own; its six occurrences are
+  traced at [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
 - **Hades** — the Septuagint's rendering of *Sheol*, and the word the New Testament inherits; see
   the Notes.
 

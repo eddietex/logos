@@ -181,6 +181,9 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
 - [[Bildad's Third Speech]] — Job 25, silent; his *"What is he who is born of a woman, that he
   should be righteous?"* (15:14) reused at 25:4, and his a-fortiori from the heavens (4:17–19;
   15:15–16) carried down to its last step. See [[What Is Man That He Should Be Clean]].
+- [[I Will Not Put Away My Integrity]] — Job 26–27, silent; *"Whose spirit came out of you?"*
+  (26:4) asks Bildad where his words came from, and the answer is Eliphaz's night spirit (4:15–19),
+  passed on second-hand.
 - [[Why Do the Wicked Live]] — Job 21, answering the second cycle's three portraits, his first among
   them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
   and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See

@@ -222,6 +222,11 @@ about.
   9:2 in the same Hebrew, with the lawsuit taken out of it.** Job asked whether a man could win his
   case against God, and by 23:7 thought the upright might; Bildad turns *be in the right* into *be
   clean* (the second half of the verse) and so answers a question Job had not asked.
+- [[I Will Not Put Away My Integrity]] — Job 27:5–6; ***"Far be it from me that I should justify
+  (ʾaṣdîq) you … I hold fast to my righteousness (ṣidqātî)."*** The forensic verb and the personal
+  noun in consecutive verses: Job refuses to declare the friends in the right, and refuses to let go of
+  his own. The answer to Bildad's *"How then can man be just (yiṣdaq) with God?"* (25:4) is not an
+  argument but an oath
 
 ## Related themes
 

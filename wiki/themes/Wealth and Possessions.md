@@ -212,6 +212,11 @@ the promise is repeatedly mistaken for.
   dust, the gold of Ophir among the stones of the brooks. The Almighty will be your treasure"* — a
   pun on *beṣer*, ore, and *ṣûr*, rock, and a charge that Job's wealth had become his god. Job
   answers it under oath at 31:24–25. See [[Ophir]].
+- [[I Will Not Put Away My Integrity]] — Job 27:16–19; silver heaped *"as the dust"* and clothing
+  *"as the clay"*, worn by the just and divided by the innocent; the house of a moth; *"He lies down
+  rich, but he shall not do so again."* The transfer of the wicked man's wealth to the righteous, as in
+  Proverbs 13:22 and Ecclesiastes 2:26 — and in contradiction of Job's own 21:7–13 (flagged on
+  [[Retribution]])
 
 ## Related themes
 

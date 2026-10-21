@@ -245,6 +245,15 @@ verdicts.
   It answers Job's dare (24:25) by making his particular case irrelevant, and in doing so gives up the
   ground the friends had held since chapter 4: retribution needed Job to be guilty of something;
   universal impurity does not need anything.
+- [[I Will Not Put Away My Integrity]] — Job 27:13–23; **the doctrine in Job's mouth, and a flagged
+  contradiction.** *"This is the portion of a wicked man with God"* (27:13) repeats Zophar's 20:29,
+  and the portrait that follows contradicts Job's chapter 21 point by point — children *"for the
+  sword"* (27:14) against children *"established"* (21:8); *"A storm steals him away in the night"*
+  (27:20) against *"How often is it that they are … as chaff that the storm carries away?"* (21:18),
+  the same Hebrew phrase. **Both claims stand in the received text under Job's name.** Readings
+  (Zophar's lost speech; imprecation on the false accuser, 27:7; concession of the end without the
+  inference; citation) are on the passage page and at
+  [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]]; the wiki does not choose between them
 
 ## Related themes
 

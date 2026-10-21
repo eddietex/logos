@@ -9971,3 +9971,76 @@ rows), connections (+1 row, 3 rows extended), `wiki/index.md` (79 passages, 245 
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 26.1-27.23 — I Will Not Put Away My Integrity
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 26:1–27:23.
+**Boundary unchanged; title changed** from the plan's provisional *Job's Final Reply to the Friends*
+to [[I Will Not Put Away My Integrity]], per the book page's convention that Job's replies take a
+phrase from the speech — 27:5, the oath at the centre of it. No collision with any other book. **Job
+is at 21 / 32.** No discussion step; it is written into the passage page.
+
+### The passage page
+
+Built around four findings:
+
+**1. 26:2–4 is addressed to Bildad alone** (singular *you*), and *"Whose spirit (nišmâ) came out of
+you?"* calls his speech borrowed breath — Eliphaz's night spirit (4:15–19) at second hand.
+
+**2. 26:5–14 outbids Bildad's hymn and reverses its conclusion.** It starts at the bottom (the shades;
+*"Sheol is naked before God, and Abaddon has no covering"*), rises through the north stretched over
+*tōhû* (Genesis 1:2's *formless*), the circle on the waters, Rahab and the fleeing serpent
+(*nāḥāš bārîaḥ*, Isaiah 27:1's phrase), and ends *"these are but the outskirts of his ways. How small
+a whisper do we hear of him!"* — the limit of knowledge, not the lowliness of man.
+
+**3. The oath (27:2–6).** Sworn by the God accused in the same clause (*ḥay-ʾēl … hēsîr mišpāṭî*);
+God *hēsîr* (removed) Job's right, Job *lōʾ-ʾāsîr* (will not remove) his integrity — the same verb,
+*sûr*; *tummâ* and *ḥāzaq* from 2:3 and 2:9 in Job's mouth for the first time; *"the spirit of God is
+in my nostrils"* as Genesis 2:7; *"justify (ʾaṣdîq) you"* answering Bildad's *yiṣdaq* (25:4).
+
+**4. 27:13–23 is Zophar's formula and contradicts chapter 21.** 27:13 is 20:29 with two words
+changed; 27:20's *gənābattû sûpâ* is 21:18's *"how often"* phrase asserted.
+
+**Judgment calls.** **26:5–14 read as Job's**, keeping the received arrangement and resolving the
+question [[Bildad's Third Speech]] left for this page (the case for Bildad recorded). **27:13–23:
+contradiction flagged, not resolved** — four readings recorded (Zophar's lost speech; imprecation on
+the accuser of 27:7; concession of the end-point without the inference; citation), and the flag
+carried on [[Retribution]], [[The Prosperity of the Wicked]], [[Job (person)]] and the new
+connection page. **Abaddon given no page of its own** — it is a near-synonym of [[Sheol]] and its six
+occurrences are traced on a connection page instead; revisit if it gathers more weight. No new
+person or place pages. The 26:7 *"hangs the earth on nothing"* modern-cosmology citation noted and not
+adopted. *Rāgaʿ* (26:12) recorded as *stir up* or *still*.
+
+### Connection pages
+
+Created (2): [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] and
+[[The Portion of a Wicked Man - Job 20.29 and Job 27.13]]. Every non-Job quotation on them and on the
+passage page was checked against the WEB from bible-api.com before writing (Proverbs 15:11; 27:20;
+Psalm 88:11; Revelation 9:11; Proverbs 8:27–29; Isaiah 27:1; 40:22; Lamentations 2:15; Proverbs
+13:22; Ecclesiastes 2:26; Numbers 23:7 and Isaiah 14:13, cited not quoted); Job and Genesis texts
+against `raw/bible/`. Not-yet-ingested texts are marked as such.
+
+Revised (4): [[Am I a Sea or a Sea Monster - The Guard on the Waters]] (26:12–13 linked; paragraph on
+the fleeing serpent), [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]]
+(26:5–6, 14 added; Zophar's *"deeper than Sheol"* turned over), [[The Prosperity of the Wicked]]
+(27:13–23 linked, *not yet ingested* removed; contradiction paragraph),
+[[Renounce God and Die - The Euphemism and the Accuser's Prediction]] (27:5–6 as the answer to 2:9).
+
+### Pages created or revised
+
+Created (3): the passage page and the two connections. People (5): [[Job (person)]] (timeline,
+position section, appears-in with the contradiction flag), [[Bildad the Shuhite]],
+[[Zophar the Naamathite]], [[Eliphaz the Temanite]], [[God]]. Places (1): [[Sheol]]. Themes (11): [[Integrity]]
+(the plain 27:5–6 bullet linked and expanded), [[Oaths and Vows]], [[Retribution]], [[Creation]],
+[[Righteousness]], [[Wisdom]], [[Judgment]], [[Life and Death]], [[Wealth and Possessions]],
+[[Light and Darkness]], [[Hope]]. Connections revised (4). Passages revised (5): plain *Job 26/27*
+cross-references linked on [[Bildad's Third Speech]] (and its chapter-26 note closed),
+[[Zophar's Second Speech]], [[Why Do the Wicked Live]], [[Oh That I Knew Where I Might Find Him]],
+[[The Second Test]]. Book page: box checked and retitled, structure note for 22–27 extended.
+Indexes: books (21 / 32), people (5 rows), places (1), themes (11), connections (+2 rows, 3 rows
+extended), `wiki/index.md` (80 passages, 247 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

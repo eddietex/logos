@@ -123,6 +123,10 @@ book, and Bildad's name survives inside them.
   how can he who is born of a woman be clean? … How much less man, who is a worm, the son of man, who
   is a worm!"* The last thing any of the friends says, and the only one of their speeches with no
   *you* in it.
+- **Job 26:1–4** — answered by [[I Will Not Put Away My Integrity]]: *"How have you helped him who is
+  without power!"* — a singular *you*, and the end of his part in the dialogue. *"Whose spirit came out
+  of you?"* (26:4) calls his last speech borrowed breath. On one reconstruction 26:5–14 is the rest of
+  his speech; the wiki reads it as Job's.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked with Eliphaz, and required to bring
   sacrifices and be prayed for by Job.
 
@@ -172,6 +176,11 @@ book, and Bildad's name survives inside them.
   *"man, who is a worm"*. Job's 9:2 quoted word for word with its lawsuit sense removed, Job's dread
   (23:15) and God's troops (19:12) reassigned, and Psalm 8's moon, stars, man and son of man run to the
   opposite conclusion. See [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
+- [[I Will Not Put Away My Integrity]] — Job 26–27, the reply to his six verses, and the only speech
+  in the third cycle addressed to him alone (26:2–4). His hymn (25:2–3) is outbid by one that starts
+  in Sheol and ends with God known only at *"the outskirts of his ways"* (26:14), and his *"how can
+  man be just (yiṣdaq) with God?"* (25:4) is answered by *"Far be it from me that I should justify
+  (ʾaṣdîq) you"* (27:5).
 
 ## Related people
 
@@ -209,7 +218,8 @@ book, and Bildad's name survives inside them.
   breakdown *is* the point, dramatizing the exhaustion of the friends' position, with Bildad
   managing a short reprise and Zophar unable to speak at all. The wiki takes no position and will
   record the arguments on the passage pages when chapters 25–27 are ingested (chapter 25's are now on
-  [[Bildad's Third Speech]], which keeps the received arrangement); the observation worth
+  [[Bildad's Third Speech]], which keeps the received arrangement, and chapters 26–27's on
+  [[I Will Not Put Away My Integrity]], which reads 26:5–14 as Job's); the observation worth
   keeping now is that the second cycle, where Job 15–17 sits, is the last one in which the *pattern*
   is intact — the three speakers all speak, in order, at length. The *argument*, on the wiki's
   reading, has already failed by then: chapters 18 and 20 are two recitations of the same doctrine

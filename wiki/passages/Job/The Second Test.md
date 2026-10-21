@@ -290,8 +290,8 @@ words*. **Chapter 3 begins eleven verses later.**
 - **Job 7:5** — *"My flesh is clothed with worms and clods of dust. My skin closes up, and breaks
   out afresh"* ([[The Arrows of the Almighty]]); **Job 30:30** — *"My skin grows black and peels from me"*: the only descriptions of
   the disease from inside it, and both are Job's.
-- **Job 27:5** — *"until I die I will not put away my integrity from me"*: *tummâ* again, and the
-  answer to 2:9 given twenty-five chapters later under oath.
+- [[I Will Not Put Away My Integrity]] — Job 27:5, *"Until I die I will not put away my integrity from me"*: *tummâ*
+  again, and the answer to 2:9 given twenty-five chapters later under oath.
 - **Job 42:11** — *"all the evil that Yahweh had brought on him"*, the epilogue's attribution, with
   the accuser unmentioned and 2:3's *you incited me* unrepeated.
 - **1 Chronicles 21:1 · 2 Samuel 24:1** — *hēsît* in both, with different subjects.

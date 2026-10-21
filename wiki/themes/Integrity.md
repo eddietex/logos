@@ -68,7 +68,7 @@ and at **2:9** Job's wife throws the identical phrase back as an objection: *"Do
 your integrity? Renounce God, and die."* **Six verses apart, in the only two mouths in the book that
 use the word, as praise and as reproach.** See [[The Second Test]] and [[Job's Wife]].
 
-**Job then makes it his oath.** *"Far be it from me that I should justify you. Until I die I will
+**Job then makes it his oath** ([[I Will Not Put Away My Integrity]]). *"Far be it from me that I should justify you. Until I die I will
 not put away my integrity from me. I hold fast to my righteousness, and will not let it go"*
 (27:5–6). This is the position he refuses to trade: the friends offer restoration in exchange for a
 confession, and taking it would require him to say something about himself he believes false.
@@ -123,8 +123,12 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   with no position on it at all, and their first act is to mourn him. **The theme's antagonists are
   established before they have a doctrine**, which is what makes their eventual demand — confess, and
   be restored — a matter of argument rather than of character
-- **Job 27:5–6** — *"until I die I will not put away my integrity from me"*: the oath, and the thing
-  the friends' offer would cost
+- [[I Will Not Put Away My Integrity]] — Job 27:2–6; *"Until I die I will not put away my integrity
+  from me. I hold fast to my righteousness"*: the oath, and the thing the friends' offer would cost.
+  **The prologue's noun and verb in Job's own mouth for the first time** — *tummātî* and
+  *heḥĕzaqtî*, answering *maḥăzîq bətummātô* at 2:3 and 2:9 — and set against God's act two verses
+  earlier: God *hēsîr*, removed, Job's right (27:2); Job *lōʾ-ʾāsîr*, will not remove, his integrity
+  (27:5). Integrity as the one thing left that is his to give up
 - **Job 31:6** — *"let him weigh me in an even balance, that God may know my integrity"*: the oath of
   innocence, and the honest weights of Deuteronomy 25:13–15 turned on the man himself
 - **Psalm 15:1–2; 25:21; 26:1–3, 11; 41:12; 101:2** — integrity as the condition of dwelling with God

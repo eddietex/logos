@@ -13,7 +13,8 @@ tags: [connection]
 - **Genesis 1:2, 9–10, 21** — the deep, the gathered waters, and *"God created the large sea
   creatures (hattannînim)"* — [[The Creation of the World]]
 - **Job 9:8, 13; 26:12–13** — God who *"treads on the waves of the sea"*, the *"helpers of Rahab"*,
-  and the sea stirred up and Rahab struck — [[There Is No Umpire Between Us]] and Job 26
+  and the sea stirred up and Rahab struck — [[There Is No Umpire Between Us]] and
+  [[I Will Not Put Away My Integrity]]
 - **Job 38:8–11** — *"Who shut up the sea with doors, when it broke out of the womb … and said,
   'Here you may come, but no further. Here your proud waves shall be stayed'?"*
 - **Job 40:15–41:34** — Behemoth and Leviathan
@@ -60,6 +61,12 @@ and delights in: *"I will not keep silence concerning his limbs, nor his mighty 
 goodly frame"* (41:12). Psalm 104:26 had already said it: *"Leviathan, whom you formed to play
 there."* **Job asked whether he was a monster under guard. God's answer is to show him a monster
 that is not under guard at all, and is not a threat to God, and is admired.**
+**Job's last hymn (26:12–13) uses the imagery without complaint.** *"He stirs up the sea with his
+power, and by his understanding he strikes through Rahab … His hand has pierced the swift serpent."*
+The *swift* or *fleeing serpent* is *nāḥāš bārîaḥ*, the exact phrase of Isaiah 27:1's *"leviathan,
+the fleeing serpent"*, so the creature of 3:8 is in view by another name. Where 7:12 put Job in the
+monster's place, 26:12–13 puts the monster where the combat tradition keeps it, under God's hand —
+and then calls all of it *"the outskirts of his ways"* (26:14). See [[I Will Not Put Away My Integrity]].
 
 ## Significance
 

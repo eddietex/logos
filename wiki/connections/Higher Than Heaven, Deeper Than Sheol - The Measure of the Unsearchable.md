@@ -13,6 +13,9 @@ tags: [connection]
 - **Job 5:9; 9:10** — *"who does great things that can't be fathomed"* (*ʾên ḥēqer*), said by
   Eliphaz and repeated word for word by Job — [[Eliphaz's First Speech]],
   [[There Is No Umpire Between Us]]
+- **Job 26:5–6, 14** — *"Sheol is naked before God, and Abaddon has no covering"*; *"Behold, these
+  are but the outskirts of his ways. How small a whisper do we hear of him!"* —
+  [[I Will Not Put Away My Integrity]]
 - **Job 28:3, 12–14, 21–22** — the miner who *"searches out, to the furthest bound"* (*taklît*), and
   wisdom that the deep and the sea say is not in them *(not yet ingested)*
 - **Job 38:16–18** — God: *"Have you walked in the recesses (ḥēqer) of the deep? Have the gates of
@@ -76,6 +79,13 @@ four dimensions — *width and length and height and depth* — are Zophar's fou
 and they measure something Zophar did not name: *"Christ's love which surpasses knowledge."* The
 frame is the same — a measure beyond measuring — and it is turned, again, from a reason for silence
 to a reason for prayer (Ephesians 3:14).
+**Job 26 takes Zophar's measure and turns it over.** Zophar had said God's limits are *"deeper than
+Sheol. What can you know?"* (11:8) — Sheol as the image of what man cannot reach. Job's hymn begins
+at the same depth and says the opposite thing about it: *"Sheol is naked before God"* (26:6). The
+deep is unsearchable to man and transparent to God, and Job's conclusion — that all of it is only
+*"the outskirts of his ways"* (26:14) — accepts Zophar's premise and denies Zophar the use he made of
+it, since on Job's terms the friends do not know enough about God to convict anyone. See
+[[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
 
 ## Significance
 

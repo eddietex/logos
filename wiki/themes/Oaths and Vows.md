@@ -188,6 +188,11 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 - [[Eliphaz's Third Speech]] — Job 22:27, ***"You shall pay your vows"*** — the vow fulfilled as the
   sign of a restored relationship, promised to Job on condition of a repentance he will refuse; his
   own oath, chapter 31, will answer the charges of this speech one by one
+- [[I Will Not Put Away My Integrity]] — Job 27:2–6; ***ḥay-ʾēl***, *"As God lives, who has taken away
+  my right"*. **An oath sworn by God against God**: the guarantor invoked is the one accused in the
+  same clause of denying Job justice. What is sworn is negative — *"my lips shall not speak
+  unrighteousness, neither shall my tongue utter deceit"* (27:4) — an oath not to confess what is not
+  true. The first of Job's two oaths; the second, the self-curses of chapter 31, closes his defence
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

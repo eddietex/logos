@@ -160,6 +160,11 @@ close to the book's whole point about who may speak for the tradition. See
   who have been somewhere and seen. Depth of time against breadth of observation, and the observers
   win at 42:7. And 21:22's *"Shall any teach God knowledge?"* is Isaiah 40:14's question, aimed at the
   men who presume to know what God must do.
+- [[I Will Not Put Away My Integrity]] — Job 26:3, 14; *"How have you counseled him who has no
+  wisdom"* — sarcasm at Bildad's expense — and ***"Behold, these are but the outskirts of his ways. How
+  small a whisper do we hear of him!"*** **The limit of knowledge, stated on the eve of the hymn to
+  wisdom (Job 28).** The friends reasoned from God's character as if they had heard the thunder; Job
+  says no one has
 
 ## Related themes
 
