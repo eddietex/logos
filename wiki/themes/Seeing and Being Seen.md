@@ -243,6 +243,12 @@ will finally go both ways.
   [[Two Blind Fathers - Genesis 27 and Genesis 48]]
 - **Genesis 50:11 — the Canaanites watch the funeral of the man their land was promised to and see
   Egyptians**, and name the place for what they saw — [[The Deaths of Jacob and Joseph]]
+- [[The Arrows of the Almighty]] — Job 7:7–21, **a prayer made of eyes.** *"My eye shall no more see
+  good"*; *"the eye of him who sees me shall see me no more. Your eyes shall be on me, but I shall
+  not be"*; *"how long will you not look away from me?"* **Job is the one lamenter in Scripture who
+  asks God to stop looking** — the reversal of *"how long will you hide your face?"* (Psalm 13:1).
+  And his last line imagines God looking for him and finding nothing (7:21). See
+  [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]]
 
 ## Related themes
 

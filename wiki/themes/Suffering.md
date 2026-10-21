@@ -187,6 +187,12 @@ requires only that you be standing outside it.
   it of this case**: God called Job's affliction *ḥinnām*, *without cause* (2:3), and correction
   with nothing to correct is not correction. See
   [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]]
+- [[The Arrows of the Almighty]] — Job 6:1–7:21; **the sufferer's own account, and for the first
+  time an argument rather than a cry.** The suffering has a weight — *"heavier than the sand of the
+  seas"* (6:3) — a cause, *"the arrows of the Almighty"* (6:4), and a duration, *"months of misery"*
+  (7:3), the book's only clue to how long it has lasted. And it has an author: chapter 3 named God
+  once in passing (3:23); here he is the archer, and Job the target. Job's complaint is not that God
+  is absent but that he will not look away (7:19)
 
 ## Related themes
 

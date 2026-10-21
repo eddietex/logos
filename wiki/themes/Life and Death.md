@@ -330,6 +330,12 @@ the rest of the canon.
   rest… The small and the great are there. The servant is free from his master."* And the word
   *light* does duty for *life* twice (3:20, 3:23), so that the complaint is framed as one about an
   unwanted gift rather than an unbearable state
+- [[The Arrows of the Almighty]] — Job 6:8–9 and 7:15–16, **the death wish that chapter 3 did not
+  contain, now stated and addressed.** *"That it would please God to crush me"*; *"my soul chooses
+  strangling, death rather than my bones. I loathe my life. I don't want to live forever."* That
+  last phrase is the tree of life's (*ləʿōlām*, Genesis 3:22). And 7:9–10 states Sheol as a one-way
+  road — *"he who goes down to Sheol shall come up no more"* — the floor from which 14:14 and 19:25
+  will rise. Job still never speaks of taking his own life; he asks God to take it
 
 ## Related themes
 

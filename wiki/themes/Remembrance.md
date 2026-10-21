@@ -214,6 +214,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   being shepherded and a rescue from all evil** (48:15–16); **and a battle against an Amorite that Genesis
   never narrates** (48:22). **[[Jacob]] is the only character in the book given a long speech that is
   nothing but memory**, and **the narrator checks none of it**
+- [[The Arrows of the Almighty]] — Job 7:7, ***"Oh remember that my life is a breath"*** — *zəkōr*,
+  **Job's first word to God in the poetry**, and the verb of *"God remembered Noah"* (Genesis 8:1).
+  What Job asks God to remember is that he will soon not exist: *"you will seek me diligently, but I
+  shall not be"* (7:21). Seven chapters later the request becomes a wish to be hidden in Sheol and
+  remembered afterwards (14:13)
 ## Related themes
 
 - [[Covenant]] — the usual object of the verb: what God remembers is what he swore

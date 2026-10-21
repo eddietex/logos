@@ -18,7 +18,8 @@ tags: [connection]
 - **Leviticus 13:18–23** — the priest's examination of a *šəḥîn* that has healed and broken out
   again, and the verdict *clean* or *unclean*
 - **2 Kings 20:7 · Isaiah 38:21** — Hezekiah's *šəḥîn*, and the cake of figs
-- **Job 7:5 · 30:30** — the disease described from inside it, both times by Job
+- **Job 7:5 · 30:30** — the disease described from inside it, both times by Job; 7:5 is in
+  [[The Arrows of the Almighty]]
 - **Job 42:7** — *"you have not spoken of me the thing that is right, as my servant Job has"*
 
 ## Analysis

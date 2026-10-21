@@ -96,6 +96,10 @@ book, and Bildad's name survives inside them.
 - [[Eliphaz's First Speech]] — Job 4:1–5:27, silent, and inside the *"we"* of 5:27: *"we have
   searched it, so it is."* Eliphaz's 5:4, the fool's children *"crushed in the gate"*, stops short of
   naming Job's; **Bildad's first speech will not stop short** (8:4).
+- [[The Arrows of the Almighty]] — Job 6:1–7:21, inside the plural of 6:21–29: *"You see a terror,
+  and are afraid"*, *"Teach me"*, *"Please return."* Job's *"my brothers have dealt deceitfully as a
+  brook"* (6:15) is the first time he indicts the three together, and Bildad's reply opens on it:
+  *"How long will you speak these things? Shall the words of your mouth be a mighty wind?"* (8:2).
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.

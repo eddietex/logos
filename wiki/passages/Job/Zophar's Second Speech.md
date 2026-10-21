@@ -207,6 +207,10 @@ plenty the wicked man is not allowed to look at.
 - [[Miserable Comforters and the Witness in Heaven]] — Job 16:18–19, whose heaven and earth 20:27
   calls as witnesses for the other side.
 - [[The Tower of Babel]] — Genesis 11:1–9, the ascent to the heavens that 20:6 assumes.
+- [[The Arrows of the Almighty]] — Job 7:8, 10, 14, the source of 20:8–9: Job's *"the eye of him who
+  sees me shall see me no more"*, his *"neither shall his place know him any more"*, and his dreams
+  and *"visions"* of the night, all three taken over by Zophar for the wicked man's disappearance.
+  **Zophar's portrait of the wicked is built partly out of Job's lament for himself.**
 - Job 11:1–20 — Zophar's first speech, with the repentance offer that chapter 20 withdraws.
 - Job 21:1–34 — Job's answer to chapters 18 and 20 together, and the direct denial of 20:5.
 - Job 22:6–9 — Eliphaz turning 20:19's charge into a personal indictment.

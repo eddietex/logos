@@ -66,6 +66,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   passed before my face. The hair of my flesh stood up"*), the first *"what is man"* passage at
   4:17–19, the dismissal of any heavenly advocate (5:1), the discipline saying (5:17), and the
   offer of restoration that the epilogue will fulfil by another road.
+- **Job 6:1–7:21** — answered in [[The Arrows of the Almighty]], word by word and never by name:
+  his *kaʿas* (5:2) weighed, his holy ones (5:1) answered with *the Holy One* (6:10), his stones of
+  the field (5:23) refused, his night visions (4:13) turned into nightmares (7:14), and his *"do not
+  despise"* (5:17) turned into *"I loathe my life"* (7:16).
 - **Job 15:1–35** — [[Eliphaz's Second Speech]], the consolations withdrawn.
 - **Job 16:1–17:16** — answered in [[Miserable Comforters and the Witness in Heaven]], and told at
   17:10 *"I shall not find a wise man among you"*.
@@ -90,6 +94,13 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]],
   [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]], and
   [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]].
+- [[The Arrows of the Almighty]] — Job 6:1–7:21, **his speech answered by the closest reading anyone
+  in the dialogue gives another's words.** Job does not name him, and picks up at least six of his
+  terms and turns each: *kaʿas*, the holy ones, the stones of the field, *tiqwâ*, the night visions,
+  and *māʾas*. **His vision of 4:12–21 is the one Job answers most pointedly**: Eliphaz's
+  *ḥezyōnôt* brought him doctrine; Job's *ḥezyōnôt* (7:14) bring only terror. And Job's request —
+  *"Teach me… cause me to understand wherein I have erred"* (6:24) — is the one Eliphaz will finally
+  answer in chapter 22, with charges the book gives no evidence for.
 - [[Seven Days of Silence]] — Job 2:11–13, his first appearance and **the only thing he does in the
   book that God does not rebuke.** Read the invented charges of 22:6–9 — stripping the naked,
   withholding bread from the hungry — against a man who crossed a desert to sit in another man's

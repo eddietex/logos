@@ -220,6 +220,12 @@ has been argued.
   Mortals live *"in houses of clay, whose foundation is in the dust"*. And 4:8's *"those who plow
   iniquity, and sow trouble, reap the same"* — sin as a crop, the image Hosea 8:7 and Galatians 6:7
   will use. See [[What Is Man That He Should Be Clean]]
+- [[The Arrows of the Almighty]] — Job 6:24 and 7:20–21; **sin invited and sin hypothesised, never
+  confessed and never denied in principle.** *"Cause me to understand wherein I have erred"* uses
+  *šāgâ*, the inadvertent fault of Leviticus 4 — Job is open to an error he does not know of, as at
+  1:5. And *"If I have sinned, what do I do to you?… Why do you not pardon my disobedience?"* is the
+  first time Job uses the vocabulary of sin of himself, and it is conditional. See
+  [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]]
 
 ## Related themes
 

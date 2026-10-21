@@ -150,6 +150,11 @@ the seventh day a blessing. See [[Sabbath]].
   before**, and the provision Joseph itemises for them — households and little ones — **is word for
   word the provision he gave his own family for nothing** (47:12). **The theme's one Scriptural
   account of a whole nation's labour being repriced in a single decree**
+- [[The Arrows of the Almighty]] — Job 7:1–2, ***"Isn't a man forced to labor on earth? Aren't his
+  days like the days of a hired hand? As a servant who earnestly desires the shadow, as a hireling
+  who looks for his wages…"*** — human life as *ṣābāʾ*, conscript service, and the sufferer as a day
+  labourer whose evening never comes. Job uses *ṣābāʾ* of his own life again at 14:14, *"all the
+  days of my warfare"*
 
 ## Related themes
 

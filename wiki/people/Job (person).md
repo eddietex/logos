@@ -100,6 +100,11 @@ speeches; each becomes a linked passage page as it is ingested.
   who knew him: a teacher who *"strengthened the weak hands"* and *"made firm the feeble knees"*
   (4:3–4). Told that his fear of God should be his confidence, that the innocent never perish, and
   that he is being corrected and should not despise it.
+- **Job 6:1–7:21** — [[The Arrows of the Almighty]]. His first reply to anyone: his anguish weighed,
+  God named as the archer (6:4), the friends a dry wadi (6:15–20), *"Teach me… wherein I have
+  erred"* (6:24), the weaver's shuttle (7:6), and then **his first words to God** — *"Oh remember that
+  my life is a breath"* (7:7) — ending in Psalm 8 reversed (7:17–18) and *"why do you not pardon my
+  disobedience?"* (7:21).
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
   umpire between us"* at 9:33.
@@ -163,6 +168,19 @@ speeches; each becomes a linked passage page as it is ingested.
   two things God boasted of in the council, offered back to him as a *confidence* and a *hope* that
   should be paying out** (4:6). His reply in chapter 6 begins on Eliphaz's word *kaʿas*,
   resentment, and asks only that it be weighed.
+- [[The Arrows of the Almighty]] — Job 6:1–7:21, **his second speech and the first one addressed to
+  anyone, and by its end the first addressed to God.** Three things begin here and continue to
+  chapter 31. **He names God as the cause** — *"the arrows of the Almighty are within me"* (6:4) —
+  where chapter 3 had said only that God had hedged him in. **He refuses a confession he cannot make
+  specific**: he asks to be taught his error (6:24), swears to the friends' faces that he will not
+  lie (6:28, in the accuser's own oath formula from 1:11), and says *"my cause is righteous"* (6:29).
+  **And he turns to God**: from 7:7 every *you* is God's, and the complaint is not absence but
+  surveillance — *"what is man, that you should… visit him every morning, and test him every
+  moment?"* (7:17–18). He is the first character in the book to use the word *test*, and he is
+  right. His consolation is not hope, which he refuses (6:11; 7:6), but integrity: *"I have not
+  denied the words of the Holy One"* (6:10). See
+  [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] and
+  [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]].
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the

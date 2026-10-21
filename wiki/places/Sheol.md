@@ -81,6 +81,11 @@ to go.
   for it** — precisely because there is no assize down there, nothing is owed, demanded, or
   enforced, and the administrative blankness the Psalms protest is here the whole appeal. At
   17:13–16 he will take the same place as a residence rather than a wish.
+- [[The Arrows of the Almighty]] — Job 7:9–10, **the book's first use of the name, and it is a
+  one-way road**: *"As the cloud is consumed and vanishes away, so he who goes down to Sheol shall
+  come up no more. He shall return no more to his house, neither shall his place know him any
+  more."* What chapter 3 offered as rest is here simply an exit, and Job uses it as an argument to
+  God — remember me now, because *"you will seek me diligently, but I shall not be"* (7:21).
 - [[Miserable Comforters and the Witness in Heaven]] — Job 17:13, 16, closing the speech.
 - [[I Know That My Redeemer Lives]] — not named, but the passage that most tests what the wiki says
   here: 19:25's Redeemer standing *"upon the earth"* is literally *upon dust*, the same word that

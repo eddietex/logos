@@ -10,6 +10,9 @@ tags: [connection]
 - **Genesis 5:21–24** — *"Enoch walked with God, and he was not found, for God took him"* —
   [[From Adam to Noah]]
 - **2 Kings 2:1–12** *(not yet ingested)* — Elijah taken up, the Bible's only comparable departure
+- **Job 7:8, 21** — *"Your eyes shall be on me, but I shall not be"* — *wəʾênennî*, the first-person
+  form of Genesis 5:24's *wəʾênennû*, *"he was not."* Job uses Enoch's word for a disappearance with
+  no one taking him: *"You will seek me diligently, but I shall not be."* — [[The Arrows of the Almighty]]
 - **Psalm 49:15; 73:24** — the psalmist's hope that God will *take* him, using the same verb
 - **Sirach 44:16; 49:14** — the earliest surviving comment on the verse, in a Jewish text of c. 180
   BC

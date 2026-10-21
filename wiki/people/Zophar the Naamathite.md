@@ -92,6 +92,11 @@ than his iniquity deserves. The reader knows which of the two is right.
 - [[Eliphaz's First Speech]] — Job 4:1–5:27, silent, and inside the *"we"* of 5:27. The conditional
   promise Eliphaz makes at 5:19–26 is the one Zophar will repeat at 11:13–19, the last time any
   friend offers Job a future.
+- [[The Arrows of the Almighty]] — Job 6:1–7:21, inside the plural of 6:21–29, and **the speech he
+  will plunder.** At 20:8–9 Zophar describes the wicked man's end in three images taken from Job 7:
+  the dream and the vision of the night (7:14), the eye that saw him and sees him no more (7:8), and
+  the place that knows him no more (7:10). Job's lament for himself becomes Zophar's portrait of the
+  wicked.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Zophar's Second Speech]] — his own, and his last.

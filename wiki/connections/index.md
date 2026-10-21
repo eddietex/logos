@@ -16,7 +16,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
 | [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]] | allusion | Genesis 4:15 · Genesis 4:23–24 · Matthew 18:21–22 |
 | [[Calling on the Name of Yahweh]] | thread | Genesis 4:26 · Genesis 12:8 · Exodus 6:2–3 · Joel 2:32 · Acts 2:21 · Romans 10:13 |
-| [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
+| [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · Job 7:8, 21 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
 | [[The Sons of God and the Angels That Sinned]] | thread | Genesis 6:1–4 · Job 1:6 · Deuteronomy 32:8 · *1 Enoch* 6–16 · Jude 6 · 2 Peter 2:4 · Matthew 22:30 |
@@ -24,7 +24,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
-| [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Romans 3:10–23 · Job 42:7 |
+| [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 |
 | [[Do Not Cover My Blood]] | allusion | Genesis 4:10–11 · Job 16:18 · Leviticus 17:13 · Deuteronomy 21:1–9 · Isaiah 26:21 · Ezekiel 24:6–8 · Hebrews 12:24 · Revelation 6:9–10 |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 |
@@ -85,7 +85,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
 | [[Moab and Ammon - The Two Nations Born in the Cave]] | thread | Genesis 19:30–38 · Deuteronomy 2:9, 19; 23:3–6 · Numbers 22–25 · Judges 3:12–30; 11:4–33 · 1 Samuel 11; 22:3–4 · 2 Samuel 10 · 1 Kings 11:5–7; 14:21 · Jeremiah 48; 49:1–6 · Zephaniah 2:8–11 · Ruth 1:4; 4:13–22 · Nehemiah 13:1–3 · Matthew 1:5 |
 | [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
-| [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]] | thread | Genesis 20:3–9 · Genesis 12:17 · Leviticus 4:1–5:19 · Numbers 15:22–31 · Numbers 35:9–34 · Deuteronomy 19:1–13; 21:1–9 · Joshua 20 · 1 Samuel 14:24–45 · 2 Samuel 6:6–7 · Psalm 19:12–13 · Luke 23:34 · Acts 3:17 · 1 Timothy 1:13 |
+| [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]] | thread | Genesis 20:3–9 · Genesis 12:17 · Leviticus 4:1–5:19 · Job 6:24 · Numbers 15:22–31 · Numbers 35:9–34 · Deuteronomy 19:1–13; 21:1–9 · Joshua 20 · 1 Samuel 14:24–45 · 2 Samuel 6:6–7 · Psalm 19:12–13 · Luke 23:34 · Acts 3:17 · 1 Timothy 1:13 |
 | [[Yahweh Visited Sarah - Paqad and the Visitations of God]] | thread | Genesis 21:1 · Genesis 50:24–25 · Exodus 3:16 · Exodus 4:31 · Ruth 1:6 · 1 Samuel 2:21 · Job 7:18 · Amos 3:2 · Luke 1:68, 78 · Luke 7:16 |
 | [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] | parallel | Genesis 21:8–21 · Genesis 22:1–19 |
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
@@ -227,3 +227,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19; 22:21–30 · Genesis 35:29 |
+| [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 |
+| [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |
+| [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 |

@@ -138,6 +138,11 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
 - [[Eliphaz's First Speech]] — Job 4:6, *tōm dərākekā*, *the integrity of your ways*: the prologue's
   word in the mouth of a man who never heard the prologue, and treated as an asset — something that
   should be Job's *hope* — rather than as the thing under test
+- [[The Arrows of the Almighty]] — Job 6:10, *"that I have not denied the words of the Holy One"*:
+  **integrity held as consolation, not as hope.** Eliphaz had told Job his integrity should be his
+  hope (4:6); Job says it is the one thing he can die holding. In the same speech he swears to the
+  friends' faces that he will not lie (6:28) and says *"my cause is righteous"* (6:29) — the
+  beginnings of the oath of chapter 27 and the defence of chapter 31
 
 ## Related themes
 

@@ -21,6 +21,8 @@ tags: [connection]
 - **Genesis 6:5** — *"every imagination of the thoughts of man's heart was continually only evil"* —
   [[The Sons of God and the Corruption of the Earth]]
 - **Psalm 8:4** — *"What is man, that you think of him?"* — the same question, opposite key
+- **Job 7:17–18** — Job's own *what is man*, which is neither the friends' nor the psalm's —
+  [[The Arrows of the Almighty]]
 - **Psalm 130:3; 143:2; Proverbs 20:9; Ecclesiastes 7:20; 1 Kings 8:46** — the canon's other
   statements that no one is clean
 - **Romans 3:10–12, 23** — Paul's catena, and *"all have sinned"*
@@ -83,6 +85,12 @@ The comparison with **Psalm 8:4** is the cleanest illustration of the point. *"W
 think of him? What is the son of man, that you care for him?"* is the same question in the same
 words, asked in wonder, and it arrives at *"you have crowned him with glory and honor"*. The
 sentence is not the problem. The use is.
+
+**Job asks the question too**, before Eliphaz's second version and in a third key: *"What is man,
+that you should magnify him… that you should visit him every morning, and test him every
+moment?"* (7:17–18). Where the friends use it to make man too low to complain, and the psalm to
+marvel that God crowns him, Job uses it to ask why God will not leave so small a thing alone. See
+[[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]].
 
 ## Significance
 

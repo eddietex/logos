@@ -288,7 +288,7 @@ words*. **Chapter 3 begins eleven verses later.**
 - **Job 3:1–26** — eleven verses later, the same mouth the narrator has just acquitted curses the
   day it was born in.
 - **Job 7:5** — *"My flesh is clothed with worms and clods of dust. My skin closes up, and breaks
-  out afresh"*; **Job 30:30** — *"My skin grows black and peels from me"*: the only descriptions of
+  out afresh"* ([[The Arrows of the Almighty]]); **Job 30:30** — *"My skin grows black and peels from me"*: the only descriptions of
   the disease from inside it, and both are Job's.
 - **Job 27:5** — *"until I die I will not put away my integrity from me"*: *tummâ* again, and the
   answer to 2:9 given twenty-five chapters later under oath.

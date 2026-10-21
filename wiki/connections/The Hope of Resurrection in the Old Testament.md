@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - **Job 7:9** — *"As the cloud is consumed and vanishes away, so he who goes down to Sheol shall
-  come up no more."* *(not yet ingested)*
+  come up no more."* — [[The Arrows of the Almighty]]
 - **Job 14:7–14** — *"There is hope for a tree, If it is cut down … But man dies, and is laid low …
   If a man dies, shall he live again?"* *(not yet ingested)*
 - **Job 19:25–27** — *"I know that my Redeemer lives … After my skin is destroyed, then in my flesh

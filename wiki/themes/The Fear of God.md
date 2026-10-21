@@ -184,6 +184,12 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   asked whether Job's fear was bought (*"for nothing?"*, 1:9), Eliphaz assumes it should pay, and
   counsels Job to rely on the return. The book's whole test is whether Job's fear is anything other
   than a confidence, and the first piece of pastoral advice he receives is that it should be one
+- [[The Arrows of the Almighty]] — Job 6:14, *"To him who is ready to faint, kindness should be
+  shown from his friend; even to him who forsakes the fear of the Almighty."* **The fear of God
+  comes back into the dialogue as the condition the friends have attached to their loyalty.**
+  Whatever the verse's exact sense — the Hebrew is hard, and an older reading makes the man who
+  withholds kindness the one who forsakes the fear — it sets friendship's *ḥesed* beside *yirʾâ* and
+  says the first should not wait on the second
 
 ## Related themes
 

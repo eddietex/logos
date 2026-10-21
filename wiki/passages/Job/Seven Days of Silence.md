@@ -238,8 +238,9 @@ curse**, and forty chapters of argument follow from it.
   is total.
 - [[The Prosperity of the Wicked]] — where the friends' doctrine goes once the week is over.
 - **Job 3:1** — *"After this Job opened his mouth"*: the silence broken, and by whom.
-- **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
-  brothers have dealt deceitfully as a brook"*: Job's own account of what the visit turned into.
+- [[The Arrows of the Almighty]] — Job 6:14–15, *"To him who is ready to faint, kindness should be
+  shown from his friend… My brothers have dealt deceitfully as a brook"*: Job's own account of what
+  the visit turned into.
 - **Job 13:5** — *"Oh that you would be completely silent! Then you would be wise."* **Job tells them
   to go back to 2:13.**
 - **Job 19:13–19** — the catalogue of everyone who has left, in which *"my friends have all become

@@ -9220,3 +9220,94 @@ now link the new page.
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 6.1-7.21 — The Arrows of the Almighty
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 6:1–7:21. **Boundary
+unchanged. Title changed** from the placeholder *Job's Reply to Eliphaz* to
+**[[The Arrows of the Almighty]]** (6:4), following the book page's convention that Job's replies
+take a phrase from the speech. Considered and rejected: *My Days Are Swifter Than a Weaver's
+Shuttle* (too long), and anything built on *What is man* (too easily confused with the existing
+[[What Is Man That He Should Be Clean]]). **Job is at 12 / 32.** No discussion step; it is written
+into the passage page.
+
+### The passage page
+
+[[The Arrows of the Almighty]], `wiki/passages/Job/`. Built around these findings:
+
+**1. 7:7 is the first time anyone in the poetry speaks to God.** Chapter 3 is addressed to nobody,
+6:8–9 still speaks of God in the third person, and 6:21–30's *you* is the friends. From 7:7's
+*"Oh remember"* every *you* is God's. The friends never address God at all.
+
+**2. Job answers Eliphaz word by word without naming him**: *kaʿas* (5:2 → 6:2), the holy ones
+(5:1 → *the Holy One*, 6:10, the book's first use of the title), the stones of the field (5:23 →
+6:12), *tiqwâ* (4:6 → 6:11, 7:6), the night visions (*ḥezyōnôt*, 4:13 → 7:14), and *māʾas* (5:17's
+*"do not despise"* → 7:16's *"I loathe my life"*, and on to 9:21 and 42:6).
+
+**3. 6:28 uses the accuser's oath form** — *ʾim* + *ʿal-pānîm*, *to your face*, as at 1:11 and 2:5.
+
+**4. 7:6's *tiqwâ* is also a cord** (Joshua 2:18): the shuttle runs out of thread.
+
+**5. 7:17–18 is Psalm 8 reversed**, and *"set your mind on him"* is the idiom of God's *"have you
+considered (set your heart on) my servant Job?"* (1:8). Job is the first in the book to say *test*
+(*bāḥan*), and is right.
+
+**6. 7:21 asks forgiveness in the creed's vocabulary** — *nāśāʾ* + *pešaʿ*, hiphil *ʿābar* +
+*ʿāwōn*, the pair of Micah 7:18 and the language of Exodus 34:7 — and Zechariah 3:4 has God perform
+exactly the second verb with the accuser standing by.
+
+Also recorded: *"months"* (7:3) as the dialogue's only time indicator; 7:20 as a *tiqqûn sōpərîm*
+with Septuagint support; Zophar's borrowing of 7:8, 10, 14 at 20:8–9; Elihu's answers to 7:14
+(33:15–18) and 7:20 (35:6); Jeremiah 15:18's deceitful brook aimed at God.
+
+### Connection pages (3 new)
+
+- [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] — table of Psalm 8:4, Psalm
+  144:3 and Job 7:17; *pāqad*; 1:8's *set your heart*; the friends' *what is man* contrasted;
+  Hebrews 2:5–9.
+- [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] — Exodus 34:7,
+  Micah 7:18, 2 Samuel 12:13 and 24:10, Zechariah 3:4, and *nāśāʾ pānîm* at 42:8.
+- [[Am I a Sea or a Sea Monster - The Guard on the Waters]] — *yām*, *tannîn*, *mišmār*; the combat
+  motif against Genesis 1:21; answered by 38:8–11 (the sea as a newborn) and chapter 41.
+
+### Pages created or revised
+
+Places: **[[Tema]] created.** Named bare, following the [[Teman]] precedent: Tema son of Ishmael
+(Genesis 25:15) gets no person page, so no collision exists and no qualifier is needed. If he ever
+gets one, both pages take qualifiers under the person/place rule. **Sheba deliberately given no page
+yet**, consistent with the Sabeans at 1:15; it will earn one at 1 Kings 10 (a Sheba page will also
+have to deal with the three persons named Sheba in Genesis 10 and 25). [[Sheol]] revised (7:9–10,
+the book's first use of the name). [[Ishmael]] and [[The Death of Abraham and the Line of Ishmael]]
+now link Tema.
+
+People (5): [[Job (person)]] (timeline and appears-in), [[Eliphaz the Temanite]],
+[[Bildad the Shuhite]], [[Zophar the Naamathite]], [[God]] (a new portrait — *the archer, the guard, and the
+watcher* — and an appears-in entry). Themes (15): [[Suffering]], [[Hope]], [[Life and Death]],
+[[Mourning and Lament]], [[Integrity]], [[Prayer]], [[Testing]], [[Sin]], [[Forgiveness]],
+[[Seeing and Being Seen]], [[Brotherhood]], [[The Fear of God]], [[Retribution]], [[Remembrance]],
+[[Work]]. Connections revised (9): [[What Is Man That He Should Be Clean]],
+[[Comforters Who Do Not Comfort]], [[Yahweh Visited Sarah - Paqad and the Visitations of God]],
+[[The Hope of Resurrection in the Old Testament]] (stale *(not yet ingested)* on 7:9 cleared),
+[[The Boil of Deuteronomy 28 on a Blameless Man]],
+[[Sinning Unwittingly - Integrity, Ignorance, and Guilt]],
+[[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]],
+[[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]],
+[[Let That Day Be Darkness - Job 3 as Counter-Creation]]. Passages revised (5), plain-text
+references to Job 6–7 now linked: [[Let the Day Perish]], [[Eliphaz's First Speech]],
+[[Seven Days of Silence]], [[The Second Test]], [[Zophar's Second Speech]] (20:8–9's borrowing).
+Book page: box checked, structure note on the first cycle extended, Tema added to key places.
+
+### Corrections, flagged rather than overwritten
+
+- **[[Prayer]]** said Job's first direct address to God was 10:18. It is 7:7. Corrected with a note
+  in the entry.
+- **[[Let the Day Perish]]** called 6:8–9 *"this time addressed"*. It still speaks of God in the third
+  person; the first address is 7:7. Corrected with a note in the entry; a sentence in its Notes
+  (*"comes later and to God"*) reworded to *"is made of God"*.
+- **[[Hope]]**: the [[Eliphaz's First Speech]] entry ended mid-sentence (*"asking where his hope
+  is"*); completed with *"at all"*, the wording used on the passage page.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

@@ -270,7 +270,7 @@ men* predicted for them.
 
 **Several of the twelve are attested as North Arabian peoples elsewhere in Scripture.** *Kedar* and
 *Nebaioth* are the flocks of Isaiah 60:7 and the tents of Psalm 120:5 and Song of Songs 1:5; *Tema*
-is a caravan stop in Job 6:19 and Isaiah 21:14; *Dumah* has an oracle of its own at Isaiah 21:11;
+is a caravan stop in Job 6:19 and Isaiah 21:14 (see [[Tema]]); *Dumah* has an oracle of its own at Isaiah 21:11;
 *Jetur* and *Naphish* are fought by the Transjordanian tribes at 1 Chronicles 5:19; *Massa* may stand
 behind the headings of Proverbs 30:1 and 31:1. **The list is a real map**, and the wiki records the
 identifications as identifications rather than as certainties.

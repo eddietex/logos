@@ -54,7 +54,9 @@ treatment of the friends' speeches is written knowing that sentence is coming.
 - **3 Job's opening lament** — the poetry begins; Job curses the day he was born. **He does not curse
   God**, which is the accuser's prediction failing in the verse that most resembles its fulfilment,
   and the speech is addressed to nobody — not to God and not to the three men who answer it.
-- **4–14 First cycle of speeches** — Eliphaz, Bildad, Zophar, each answered by Job.
+- **4–14 First cycle of speeches** — Eliphaz, Bildad, Zophar, each answered by Job. Job's first
+  reply (6–7) is where he first names God as his assailant and, at 7:7, **first speaks to God** —
+  the turn the friends never make in any of their speeches.
 - **15–21 Second cycle** — the same order, the consolations withdrawn, the accusations sharper.
   This is also where the friends stop arguing: chapters 18 and 20 are two set-piece portraits of
   the wicked man's ruin that answer nothing Job has said, and Job settles both at once in
@@ -91,7 +93,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### First cycle (4–14)
 
 - [x] [[Eliphaz's First Speech]] — Job 4:1–5:27
-- [ ] Job's Reply to Eliphaz — Job 6:1–7:21
+- [x] [[The Arrows of the Almighty]] — Job 6:1–7:21
 - [ ] Bildad's First Speech — Job 8:1–22
 - [ ] There Is No Umpire Between Us — Job 9:1–10:22
 - [ ] Zophar's First Speech — Job 11:1–20
@@ -175,6 +177,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ## Key places
 
 - [[Uz]]
+- [[Tema]] — the oasis whose caravans die at the dry wadi of 6:19; not to be confused with Teman
 - [[Teman]] — Eliphaz's, and the only one of the three friends' homelands that can be located
 - [[Shuah]] — Bildad's; usually the Shuah of Genesis 25:2, sometimes Assyrian Sūḫu, certainly neither
 - [[Naamah]] — Zophar's, unattested anywhere else and unlocated

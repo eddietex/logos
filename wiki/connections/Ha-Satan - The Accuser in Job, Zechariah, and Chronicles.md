@@ -15,7 +15,9 @@ tags: [connection]
   a single sentence
 - **Zechariah 3:1–5** — *"He showed me Joshua the high priest standing before Yahweh's angel, and
   Satan standing at his right hand to be his adversary. Yahweh said to Satan, 'Yahweh rebuke you,
-  Satan!'"*
+  Satan!'"* — and 3:4, *"I have caused your iniquity to pass from you"*, the verb Job asked God for
+  at Job 7:21; see
+  [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]]
 - **1 Chronicles 21:1** — *"Satan stood up against Israel, and moved David to number Israel."*
 - **2 Samuel 24:1** — the same census: *"Again Yahweh's anger burned against Israel, and he moved
   David against them, saying, 'Go, count Israel and Judah.'"*

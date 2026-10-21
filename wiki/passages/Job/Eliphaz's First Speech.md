@@ -231,8 +231,10 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
 - [[The Wager in Heaven and the Four Messengers]] — 1:8–9, *"my servant Job"* and *"does Job fear
   God for nothing?"*, against 4:6 and 4:18.
 - [[The Second Test]] — 2:3, *ḥinnām*, *without cause*: the word that rules out correction.
-- Job 6:2 — *"Oh that my anguish were weighed"*: Job's reply begins on the *kaʿas*, *resentment*,
-  that Eliphaz said kills the fool (5:2).
+- [[The Arrows of the Almighty]] — Job 6:1–7:21, the reply. *"Oh that my anguish were weighed"*
+  (6:2) begins on the *kaʿas*, *resentment*, that Eliphaz said kills the fool (5:2), and the speech
+  goes on to answer his holy ones (6:10), his stones (6:12), his visions (7:14) and his *"do not
+  despise"* (7:16).
 - Job 9:2 — *"how can man be just with God?"*, Job taking up 4:17.
 - Job 9:10 — *"He does great things past finding out; yes, marvelous things without number"*, Job
   quoting 5:9 almost word for word, about a God he can neither see nor summon.

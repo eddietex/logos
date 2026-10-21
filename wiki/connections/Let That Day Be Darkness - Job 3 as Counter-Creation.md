@@ -72,7 +72,9 @@ woken up.** If the bounding of chaos is what made a habitable world, then rousin
 un-creation by the other route — and it puts the two halves of Job's request together: **unmake the
 light, and unleash what the light was imposed on.** See the Notes on [[Let the Day Perish]] for the
 reading that takes the day-cursers as literal professionals, and the reading that takes them as
-rhetoric.
+rhetoric. Four chapters later Job asks whether he himself is being treated as one of those powers —
+*"Am I a sea, or a sea monster, that you put a guard over me?"* (7:12); see
+[[Am I a Sea or a Sea Monster - The Guard on the Waters]].
 
 **What distinguishes this from the flood, and it is the whole point.**
 [[The Flood as Un-Creation]] is an un-creation God performs. **Job 3 is an un-creation a man

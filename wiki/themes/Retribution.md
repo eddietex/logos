@@ -190,6 +190,11 @@ verdicts.
   **The same speech then promises the doctrine's reward** (5:19–26), and the epilogue pays it in
   full (42:10–17) — **to the man who refused the doctrine, after God has said its spokesman was
   wrong.** See [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
+- [[The Arrows of the Almighty]] — Job 6:21, ***"You see a terror, and are afraid."*** **The
+  doctrine diagnosed as the friends' own protection.** If Job is innocent and suffering anyway,
+  nothing keeps it from happening to them; the doctrine is a wall around the men who hold it as much
+  as an explanation of the man it is applied to. Job asks to be shown his fault (6:24) and nobody
+  shows him one
 
 ## Related themes
 

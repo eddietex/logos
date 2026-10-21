@@ -1121,6 +1121,18 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   and it fails**: the only servant God has been heard to speak of is *"my servant Job"*, trusted
   enough to be wagered on. And the physician's premise — that the wound is correction — is the one
   God himself excluded at 2:3 with *ḥinnām*.
+- **The God of [[The Arrows of the Almighty]]** is the first God of the book's poetry who is
+  *spoken to*, and Job's first portrait of him is of **an archer, a guard, and a watcher**. The arrows
+  of *Šadday* are in Job and he drinks their poison (6:4); a *mišmār* is set over him as over the sea
+  and the dragon (7:12); and God is *nōṣēr hāʾādām*, *watcher of men* (7:20) — a title that in
+  Proverbs 24:12 means the keeper of the soul and here means the jailer. **What is missing from the
+  portrait is absence.** Job's God is not hidden; he visits *"every morning"* and tests *"every
+  moment"* (7:18), which is Psalm 8's attention felt as a siege. And Job addresses him with
+  Exodus 34's own vocabulary — *"why do you not pardon (tiśśāʾ) my disobedience?"* (7:21) — asking
+  why the God who said he forgives is not acting like himself. In the same speech he is named, for
+  the first time in the book, **the Holy One** (6:10), whose words Job says he has not denied. See
+  [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] and
+  [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]].
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1479,6 +1491,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Eliphaz's First Speech]] — the subject of three portraits in two chapters: the breath of anger
   that consumes the wicked (4:9), the Maker who trusts no servant (4:18), and the healer who wounds
   to bind up (5:18). Named *ʾĕlôah*, *ʾēl* and *Šadday*, never *Yahweh*
+- [[The Arrows of the Almighty]] — addressed for the first time in the poetry (7:7–21): the archer of
+  6:4, the guard on the sea of 7:12, the *watcher of men* of 7:20, and the Holy One of 6:10. Named
+  *Šadday*, *ʾĕlôah*, and *qādôš*
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

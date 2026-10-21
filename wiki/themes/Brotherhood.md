@@ -140,6 +140,10 @@ resolve it.**
   [[The Deaths of Jacob and Joseph]]
 - **Genesis 50:15–21 — the relationship's last scene**: eleven men face down on the ground offering
   themselves as slaves, and the twelfth refuses the offer and feeds them — same pericope
+- [[The Arrows of the Almighty]] — Job 6:15, ***"My brothers have dealt deceitfully as a brook"*** —
+  the friends called *brothers* in the verse that accuses them, and compared to a wadi that runs
+  full in winter and is dry when the caravans arrive. Job's actual brothers are *"far from me"* at
+  19:13 and come back, with comfort and a piece of silver, at 42:11
 
 ## Related themes
 

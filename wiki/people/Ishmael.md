@@ -146,7 +146,7 @@ born. **It is the most precisely kept promise in the Abraham cycle and it was ma
 covenant was refused to.** They live *"by their villages, and by their encampments"* — unwalled
 settlements and camps, the pastoral confederation 16:12's *wild donkey among men* predicted. Several
 of the twelve are attested as North Arabian peoples elsewhere: Kedar and Nebaioth in Isaiah 60:7,
-Tema in Job 6:19, Dumah in Isaiah 21:11, Jetur and Naphish at 1 Chronicles 5:19. See
+[[Tema]] in Job 6:19, Dumah in Isaiah 21:11, Jetur and Naphish at 1 Chronicles 5:19. See
 [[Twelve Sons - Nahor, Ishmael, and Jacob]] and [[Abraham's Other Sons in Isaiah 60]].
 
 ***"He gave up his spirit and died, and was gathered to his people"*** (25:17), at a hundred

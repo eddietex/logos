@@ -81,6 +81,12 @@ practical.**
   Eden**
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:23–24; Lamech's seventy-sevenfold, the
   counter-text
+- [[The Arrows of the Almighty]] — Job 7:21, ***"Why do you not pardon (tiśśāʾ) my disobedience, and
+  take away (taʿăbîr) my iniquity?"*** — the two verbs of Micah 7:18 and the creed of Exodus 34:7,
+  asked of God as a question by a man who has confessed no specific sin. The verb *ʿābar* returns at
+  Zechariah 3:4, in the accuser's other courtroom scene, as God's own act: *"I have caused your
+  iniquity to pass from you."* See
+  [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]]
 
 ## Related themes
 

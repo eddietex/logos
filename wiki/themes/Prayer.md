@@ -156,9 +156,17 @@ already did.
   one substantial speech of Job's that is not addressed to God: he is spoken *about* five times —
   seeking the day (3:4), giving light (3:20, 3:23), hedging the man in (3:23) — and never spoken
   *to*. **Job's lament is not yet a prayer**, and the change is traceable: at 6:8–9 the same wish
-  becomes a petition (*"oh that I might have my request"*), and by 10:18 the question of chapter 3
-  is being asked of God directly — *"why, then, have you brought me out of the womb?"* **The book's
-  movement is from a man talking to a day to a man talking to God**
+  becomes a petition (*"oh that I might have my request"*), still spoken *about* God; at 7:7 Job
+  addresses him for the first time (*"Oh remember that my life is a breath"*); and by 10:18 the
+  question of chapter 3 itself is being asked of God directly — *"why, then, have you brought me out
+  of the womb?"* **The book's movement is from a man talking to a day to a man talking to God.**
+  *(Corrected at the ingest of Job 6–7: this entry previously made 10:18 the first direct address,
+  passing over 7:7–21.)*
+- [[The Arrows of the Almighty]] — Job 7:7–21; **the first words in the book's poetry addressed to
+  God**, and the template for Job's later prayers. It opens with *zəkōr*, *remember* — *"Oh remember
+  that my life is a breath"* — and from 7:12 every *you* is God's. Its petitions are to be
+  remembered, to be let alone (7:16, 19), and to be told why he is not forgiven (7:21, in Exodus
+  34's vocabulary). **The friends, who speak about God for twenty-nine chapters, never once pray**
 
 ## Related themes
 

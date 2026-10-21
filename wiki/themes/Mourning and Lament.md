@@ -114,6 +114,10 @@ regulating it.
 - [[I Know That My Redeemer Lives]] — Job 19:13–20, the catalogue of everyone who has gone.
 - [[The Silver Cup and Judah's Plea]] — Genesis 44:13, the brothers tearing their clothes.
 - [[Joseph Reveals Himself]] — Genesis 45:2, weeping loud enough that the house of Pharaoh hears.
+- [[The Arrows of the Almighty]] — Job 7:11, ***"Therefore I will not keep silent. I will speak in
+  the anguish of my spirit. I will complain in the bitterness of my soul."*** Lament claimed as a
+  right, and the seven days of silence (2:13) formally ended; the same chapter is where the lament
+  first turns into address to God (7:7)
 
 ## Related themes
 

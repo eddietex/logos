@@ -254,9 +254,13 @@ speech that starts the quarrel is not addressed to anyone in it.
   about the death.
 - [[Eliphaz's First Speech]] — Job 4:1–5:27; *"Isn't your piety your confidence?"* (4:6):
   Eliphaz's opening, and the first reply.
-- **Job 6:8–9** — *"Oh that I might have my request… that it would please God to crush me"*: the wish
-  of chapter 3 restated as a petition, and this time addressed.
-- **Job 7:11** — *"Therefore I will not keep silent"*: Job's own account of why chapter 3 happened.
+- [[The Arrows of the Almighty]] — Job 6:1–7:21. *"Oh that I might have my request… that it would
+  please God to crush me"* (6:8–9): the wish of chapter 3 restated as a petition, though still
+  speaking of God in the third person; then at 7:7, *"Oh remember that my life is a breath"*, **the
+  first words in the poetry addressed to God.** *(This entry previously called 6:8–9 addressed; the
+  first address is 7:7.)*
+- Job 7:11 — *"Therefore I will not keep silent"*: Job's own account of why chapter 3 happened, in
+  the same speech.
 - **Job 10:18–19** — *"Why, then, have you brought me out of the womb?… I should have been carried
   from the womb to the grave"*: the same question asked again, and this time asked *of God*.
 - **Job 13:5** — *"Oh that you would be completely silent!"*
@@ -329,7 +333,7 @@ books are not in `raw/bible/`, and the wiki does not quote WEB text from memory.
   to die, and that is not what the text says. **Verses 3–10 ask that a past day be annulled; 11–19 ask
   why he did not die at birth; 20–23 ask why the suicidal are kept alive — in the third person, about
   other people.** Job never asks God to kill him here and never contemplates killing himself. The
-  request to be crushed comes later and to God (6:8–9), and by 7:15 he is saying that his soul
+  request to be crushed comes later and is made of God (6:8–9), and by 7:15 he is saying that his soul
   *chooses* strangling — so the wish does develop. **But chapter 3 is a complaint about the
   beginning, not about the continuation**, and the distinction is the reason the chapter can be read
   as lament rather than as despair.

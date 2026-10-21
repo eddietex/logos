@@ -42,7 +42,8 @@ is close because you cannot bear to sit in the dark with him.
   whether it comes back, three times at seven-day intervals, until the day she does not. See
   [[The Waters Recede]]. The chapter's larger point about hope is that Noah's did not turn anything;
   8:1 did, before he sent a single bird.
-- **Job 6:11; 7:6; 14:7–12, 19** — the earlier statements. 14:7 is the sharpest: *"there is hope for
+- **Job 6:11; 7:6; 14:7–12, 19** — the earlier statements; for 6:11 and 7:6 see
+  [[The Arrows of the Almighty]]. 14:7 is the sharpest: *"there is hope for
   a tree … that it will sprout again"* — and then the flat comparison, *"but man
   dies, and is laid low."*
 - **Job 13:15** — *"Though he slay me, yet will I wait for him"*, the most famous statement of hope
@@ -144,6 +145,12 @@ is close because you cannot bear to sit in the dark with him.
   book**: *"Isn't the integrity of your ways your hope?"* and *"So the poor has hope."* Hope offered
   to Job as the yield of his integrity, and then as a future (5:19–26). Job's reply is immediate —
   *"What is my strength, that I should wait?"* (6:11) — and by 17:15 he is asking where his hope is
+  at all
+- [[The Arrows of the Almighty]] — Job 6:11 and 7:6, **hope refused and then declared spent.**
+  *"What is my strength, that I should wait?"* answers Eliphaz's 4:6 directly, and 7:6 — *"My days
+  are swifter than a weaver's shuttle, and are spent without hope"* — turns on the noun's other
+  sense: *tiqwâ* is also a *cord* (Joshua 2:18), and the shuttle has run to the end of the thread.
+  Job's consolation in the same speech is not hope but integrity (6:10)
 
 ## Related themes
 

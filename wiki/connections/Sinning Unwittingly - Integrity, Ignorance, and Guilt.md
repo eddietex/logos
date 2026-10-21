@@ -24,6 +24,9 @@ tags: [connection]
 - **1 Samuel 14:24–45** — Jonathan eats the honey without knowing his father's oath, and the lot
   falls on him anyway
 - **2 Samuel 6:6–7** — Uzzah steadies the ark, and dies for it
+- **Job 6:24** — *"Teach me, and I will hold my peace. Cause me to understand wherein I have erred
+  (šāgîtî)"*: the verb of the *šəgāgâ*, from a man who will not confess a sin he cannot name but is
+  willing to be shown one he did not know of — [[The Arrows of the Almighty]]
 - **Psalm 19:12–13** — *"Who can discern his errors? Forgive me from hidden errors. Keep back your
   servant also from presumptuous sins"*
 - **Luke 23:34; Acts 3:17; 1 Timothy 1:13** — *"they don't know what they are doing"*, and Paul

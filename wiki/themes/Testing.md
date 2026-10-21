@@ -133,6 +133,11 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   returned to the city"* (44:13). **Genesis reports the setup and the outcome and supplies no term for
   the thing between them** — no *nissâ*, no narratorial aside, and no statement of what Joseph
   intended. The wiki reads it as a test from the shape of the trap and flags the reading as inference
+- [[The Arrows of the Almighty]] — Job 7:18, *"that you should visit him every morning, and test
+  (bāḥan) him every moment"*. **Job is the first character in the book to use the word for what is
+  happening to him**, and he is right — it is a test, as the reader was told in 1:6–12. What he gets
+  wrong is its motive: he takes the tester's attention for hostility. See
+  [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]]
 
 ## Related themes
 

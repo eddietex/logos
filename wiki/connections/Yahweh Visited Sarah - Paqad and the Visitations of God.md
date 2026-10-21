@@ -22,7 +22,8 @@ tags: [connection]
 - **1 Samuel 2:21** — *"Yahweh visited Hannah, and she conceived"* — the other closed womb, opened in
   the same word.
 - **Job 7:18** — *"that you should visit him every morning, and test him every moment?"* — the same
-  verb, and Job does not want it.
+  verb, and Job does not want it — [[The Arrows of the Almighty]]; and see
+  [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]], where the verb is Psalm 8:4's.
 - **Exodus 20:5; 32:34; Amos 3:2; Jeremiah 5:9** — the other half of the word: *visiting the iniquity
   of the fathers*, *I will visit their sin on them*, *therefore I will visit on you all your
   iniquities*.
