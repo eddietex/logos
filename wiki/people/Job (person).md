@@ -96,6 +96,10 @@ speeches; each becomes a linked passage page as it is ingested.
 - **Job 3:1–26** — [[Let the Day Perish]]. He breaks the silence by cursing the day of his birth —
   **his day, not God** — in a speech addressed to no one, and asks not to die but never to have been
   born. The poetry begins here, and so does the argument.
+- **Job 4:1–5:27** — [[Eliphaz's First Speech]]. Silent, and described for the first time by someone
+  who knew him: a teacher who *"strengthened the weak hands"* and *"made firm the feeble knees"*
+  (4:3–4). Told that his fear of God should be his confidence, that the innocent never perish, and
+  that he is being corrected and should not despise it.
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
   umpire between us"* at 9:33.
@@ -152,6 +156,13 @@ speeches; each becomes a linked passage page as it is ingested.
   [[The Hedge Around Him - Job 1.10 and Job 3.23]]. The narrator's formula *"Job didn't sin with his
   lips"* is not repeated after this chapter, and the wiki reads the silence as the formula's job
   having ended with the accuser rather than as a verdict.
+- [[Eliphaz's First Speech]] — Job 4:1–5:27; silent, and **the first person in the book to be
+  described by a friend.** Eliphaz's portrait of him in 4:3–4 — a man whose words held up the
+  falling — agrees with the narrator's and anticipates Job's own in chapter 29. What follows is the
+  first of many readings of him from the outside, and the kindest: **his piety and integrity, the
+  two things God boasted of in the council, offered back to him as a *confidence* and a *hope* that
+  should be paying out** (4:6). His reply in chapter 6 begins on Eliphaz's word *kaʿas*,
+  resentment, and asks only that it be weighed.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the

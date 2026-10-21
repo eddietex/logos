@@ -90,6 +90,12 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   a man has he will give for his life"* (2:4) is a valuation of them**, offered to their father's
   face in a market idiom; and Job's answer to his wife is in the **first person plural**, which is
   the only moment in the book that registers that [[Job's Wife]] buried the same ten children.
+- [[Eliphaz's First Speech]] — Job 4:1–5:27, **unnamed and twice invoked.** 4:7's *"who ever
+  perished, being innocent?"* is asked of a household that has just buried ten, and 5:4's fool whose
+  *"children are far from safety. They are crushed in the gate"* is the first exemplum anyone builds
+  near their deaths. Eliphaz never says *your children*; Bildad will, at 8:4. The same speech's
+  promise of *"offspring … as the grass of the earth"* (5:25) is kept at 42:13–16 — and is not a
+  promise of these children back.
 - [[Bildad's Second Speech]] — 18:19, the second use of their deaths as evidence, now anonymous.
 - [[I Know That My Redeemer Lives]] — 19:17, and the empty place their absence leaves where a
   *gōʾēl* would have to stand.

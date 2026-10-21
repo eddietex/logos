@@ -89,6 +89,9 @@ than his iniquity deserves. The reader knows which of the two is right.
   his iniquity deserves (11:6) kept the same silent week as the other two**, having travelled
   further than either if the Minaean identification is anything at all. Nothing separates him from
   Eliphaz and Bildad until they start talking, and then he goes furthest.
+- [[Eliphaz's First Speech]] — Job 4:1–5:27, silent, and inside the *"we"* of 5:27. The conditional
+  promise Eliphaz makes at 5:19–26 is the one Zophar will repeat at 11:13–19, the last time any
+  friend offers Job a future.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Zophar's Second Speech]] — his own, and his last.

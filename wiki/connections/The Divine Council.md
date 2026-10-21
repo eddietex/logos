@@ -11,6 +11,10 @@ tags: [connection]
   Satan also came among them."* — [[The Wager in Heaven and the Four Messengers]] and
   [[The Second Test]]; the book's two sessions are staged in almost identical words, and the second
   adds only that the accuser now comes *"to present himself before Yahweh"* in his own right
+- **Job 4:18; 5:1** — the council described from outside, by a man who has never been in it:
+  God *"puts no trust in his servants. He charges his angels with error"*, and *"To which of the
+  holy ones will you turn?"* — [[Eliphaz's First Speech]]. The reader has been in the room, and
+  heard God say *"my servant Job"*
 - **Job 38:7** — *"when the morning stars sang together, and all the sons of God shouted for joy"*,
   at the founding of the earth
 - **Genesis 1:26; 3:22; 11:7** — *"Let us make man in our image"*; *"the man has become like one of

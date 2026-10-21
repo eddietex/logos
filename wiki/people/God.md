@@ -1113,6 +1113,14 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   ***ḥinnām***, without cause, which is the one word that could have justified it. **God declines,
   about his own act, the explanation the friends will spend twenty-five chapters supplying on his
   behalf** — and then authorises a second round in the next breath. See [[Providence]].
+- **The God of [[Eliphaz's First Speech]]** is a physician, and the kindest God the friends offer.
+  He is greater than can be fathomed (5:9), lifts the lowly and frustrates the crafty (5:11–13), and
+  *"wounds, and binds up"* (5:18) — so that the sufferer is *happy*, being corrected (5:17). Two
+  other faces sit beside it: the breath that consumes the wicked (4:9), and, in the night vision, a
+  Maker who *"puts no trust in his servants"* (4:18). **That last is the one the reader can test,
+  and it fails**: the only servant God has been heard to speak of is *"my servant Job"*, trusted
+  enough to be wagered on. And the physician's premise — that the wound is correction — is the one
+  God himself excluded at 2:3 with *ḥinnām*.
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1468,6 +1476,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Second Test]] — his second and last speech in the prologue: the announcement that Job has
   held, the concession *"you incited me against him"*, the verdict *ḥinnām* on his own act, and a
   second permission with the hedge moved from the man's property to his breath
+- [[Eliphaz's First Speech]] — the subject of three portraits in two chapters: the breath of anger
+  that consumes the wicked (4:9), the Maker who trusts no servant (4:18), and the healer who wounds
+  to bind up (5:18). Named *ʾĕlôah*, *ʾēl* and *Šadday*, never *Yahweh*
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Job 4:17–19** — Eliphaz, reporting his night vision: *"Shall mortal man be more just than God?
   Shall a man be more pure than his Maker? Behold, he puts no trust in his servants. He charges his
-  angels with error. How much more, those who dwell in houses of clay…"*
+  angels with error. How much more, those who dwell in houses of clay…"* —
+  [[Eliphaz's First Speech]]
 - **Job 15:14–16** — Eliphaz, second speech: *"What is man, that he should be clean? What is he who
   is born of a woman, that he should be righteous? … how much less one who is abominable and
   corrupt, a man who drinks iniquity like water!"* — [[Eliphaz's Second Speech]]
@@ -52,7 +53,12 @@ exists.
   (9:2); *"Who can bring a clean thing out of an unclean? Not one."* (14:4). He is not disputing the
   premise.
 - Paul quotes Eliphaz as scripture at 1 Corinthians 3:19 (from Job 5:13), which settles that the
-  friends' speeches are not simply a body of error.
+  friends' speeches are not simply a body of error. See
+  [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]].
+- **The first statement comes with the heaviest credentials.** 4:17–19 is not offered as Eliphaz's
+  opinion but as the words of a spirit in a night vision — dread, trembling, a form he could not
+  discern, a voice out of silence. The most solemn authority claimed by anyone in the dialogue is
+  attached to the most commonplace of its propositions, and the book never confirms the vision.
 
 **So what is wrong with it?** Three things, and it is worth being exact, because the popular
 summary — *the friends were wrong, so ignore what they said* — is not what the book supports.

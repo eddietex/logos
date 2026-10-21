@@ -182,6 +182,12 @@ what Job is asking for.
   (44:30–31). **Then he stops advocating and offers to be the defendant**: *"please let your servant
   stay instead of the boy"* — ***taḥat hannaʿar*** (44:33), **the preposition of the ram at 22:13.**
   An advocate who cannot win the case takes the sentence, and the disguise does not survive it (45:1)
+- [[Eliphaz's First Speech]] — Job 5:1, **the theme raised in Job in order to be dismissed**: *"Call
+  now; is there any who will answer you? To which of the holy ones will you turn?"* Every officer
+  Job later reaches for — umpire (9:33), witness (16:19), guarantor (17:3), redeemer (19:25) — is an
+  answer to this question. **And the book reverses it exactly at 42:8**: Eliphaz is sent to Job, *"my
+  servant Job shall pray for you"*, and the man told he had no one to turn to becomes the one his
+  counsellor must turn to. See [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
 
 ## Related themes
 

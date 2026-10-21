@@ -93,6 +93,9 @@ book, and Bildad's name survives inside them.
   they earned (8:4) tore his own robe for them first**, and kept the full seven-day mourning term on
   the ground beside their father. The book records both and reconciles neither, and the gap between
   them is the clearest measure it gives of what the doctrine costs the man who holds it.
+- [[Eliphaz's First Speech]] — Job 4:1–5:27, silent, and inside the *"we"* of 5:27: *"we have
+  searched it, so it is."* Eliphaz's 5:4, the fool's children *"crushed in the gate"*, stops short of
+  naming Job's; **Bildad's first speech will not stop short** (8:4).
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.

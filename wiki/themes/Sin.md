@@ -215,6 +215,11 @@ has been argued.
   handed down. **Then the restored officer uses the same root of himself**, about what he did to a
   prisoner: *"I remember my faults today"* (41:9). **The chapter that opens with men sinning against a
   king closes with a man sinning against a slave**, and only the second is ever named as such
+- [[Eliphaz's First Speech]] — Job 4:17–19, the first of the book's three *what is man* passages,
+  and the only one given the authority of a vision: *"Shall a man be more pure than his Maker?"*
+  Mortals live *"in houses of clay, whose foundation is in the dust"*. And 4:8's *"those who plow
+  iniquity, and sow trouble, reap the same"* — sin as a crop, the image Hosea 8:7 and Galatians 6:7
+  will use. See [[What Is Man That He Should Be Clean]]
 
 ## Related themes
 

@@ -53,6 +53,10 @@ that pair it with Bozrah as though the two were distinguishable.
   narrative setting**: *"Eliphaz the Temanite… came from his own place"*, alongside [[Shuah]] and
   [[Naamah]]. The three homelands are given instead of fathers, and they are the book's only
   statement of where its cast is from.
+- [[Eliphaz's First Speech]] — Job 4:1, the gentilic's first use as a speaker's label, and **the
+  speech in which Teman's wise man shows his credentials**: what he has seen (4:8; 5:3), what was
+  revealed to him by night (4:12–21), and what *"we have searched"* (5:27). Its one line quoted in the
+  New Testament, 5:13, is about the wise being caught in their own craftiness.
 - [[Eliphaz's Second Speech]] — carried in the gentilic, and standing behind the appeal to
   ancestral wisdom in 15:17–19.
 - [[Miserable Comforters and the Witness in Heaven]] — the same, in the speaker Job answers.

@@ -135,6 +135,9 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
 - **Deuteronomy 18:13; 2 Samuel 22:24; 1 Kings 9:4** — the command reissued to Israel, to David, and
   to Solomon
 - **Matthew 5:48; 6:22; James 1:4; 1 Peter 1:19** — *teleios*, *haplous*, and the unblemished lamb
+- [[Eliphaz's First Speech]] — Job 4:6, *tōm dərākekā*, *the integrity of your ways*: the prologue's
+  word in the mouth of a man who never heard the prologue, and treated as an asset — something that
+  should be Job's *hope* — rather than as the thing under test
 
 ## Related themes
 

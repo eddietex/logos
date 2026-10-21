@@ -179,6 +179,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - **Genesis 50:19, 21 — *ʾal-tîrāʾû*, *don't be afraid*, twice**: in Genesis this is God's line
   (15:1; 21:17; 26:24; 46:3), and [[Joseph]] is the first human being in the book to say it —
   [[The Deaths of Jacob and Joseph]]
+- [[Eliphaz's First Speech]] — Job 4:6, *"Isn't your piety (yirʾâ) your confidence? Isn't the
+  integrity of your ways your hope?"* **The accuser's question asked kindly.** Where the accuser
+  asked whether Job's fear was bought (*"for nothing?"*, 1:9), Eliphaz assumes it should pay, and
+  counsels Job to rely on the return. The book's whole test is whether Job's fear is anything other
+  than a confidence, and the first piece of pastoral advice he receives is that it should be one
 
 ## Related themes
 

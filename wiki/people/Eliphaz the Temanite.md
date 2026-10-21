@@ -37,8 +37,10 @@ This distinction is the reason his pages are worth reading carefully, and the wi
 explicit.
 
 **Much of what Eliphaz says is true, and some of it is quoted approvingly elsewhere in Scripture.**
-Paul quotes 5:13 — *"He takes the wise in their own craftiness"* — at 1 Corinthians 3:19, the only
-direct New Testament quotation of the book of Job, and quotes it as authority. His statement that
+Paul quotes 5:13 — *"He takes the wise in their own craftiness"* — at 1 Corinthians 3:19, one of
+the two direct New Testament quotations of the book of Job, and quotes it as authority. *(This page
+previously said "the only"; Romans 11:35 quotes Job 41:11, and the correction is recorded on
+[[Eliphaz's First Speech]]. Of the two, 5:13 is the only one taken from a speech God rebukes.)* His statement that
 no one born of a woman is clean (15:14) is broadly what Genesis 6:5, Psalm 143:2, and Romans
 3:10–23 say. His portrait of God's greatness in chapter 5 is unobjectionable.
 
@@ -59,9 +61,11 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   other countries, arranges a meeting, travels, fails to recognise Job from a distance, weeps, tears
   his robe, throws dust over his head, and sits on the ground with him seven days and seven nights
   without speaking. **Named first here, as he will be at 42:9 and as he will speak first at 4:1.**
-- **Job 4:1–5:27** — the first speech: the night vision (*"a spirit passed before my face. The hair
-  of my flesh stood up"*), the first *"what is man"* passage at 4:17–19, and the offer of
-  restoration.
+- **Job 4:1–5:27** — [[Eliphaz's First Speech]]: the apology for speaking, the praise of Job's past
+  ministry, the first statement of retribution in the dialogue (4:7), the night vision (*"a spirit
+  passed before my face. The hair of my flesh stood up"*), the first *"what is man"* passage at
+  4:17–19, the dismissal of any heavenly advocate (5:1), the discipline saying (5:17), and the
+  offer of restoration that the epilogue will fulfil by another road.
 - **Job 15:1–35** — [[Eliphaz's Second Speech]], the consolations withdrawn.
 - **Job 16:1–17:16** — answered in [[Miserable Comforters and the Witness in Heaven]], and told at
   17:10 *"I shall not find a wise man among you"*.
@@ -75,6 +79,17 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 
 ## Appears in
 
+- [[Eliphaz's First Speech]] — Job 4:1–5:27, **his own chapter, and his best.** Courteous, specific
+  about Job's past kindness, and generous with hope, and already built on a premise the reader
+  knows is false. **4:6 asks Job whether his *yirʾâ* and his *tōm* — the prologue's two words for
+  him — are not his *confidence* and his *hope*,** which is the accuser's question (*"Does Job fear
+  God for nothing?"*) asked in kindness. 4:18's God who *"puts no trust in his servants"* is the
+  God who said *"my servant Job"*; 5:1's *"To which of the holy ones will you turn?"* is reversed at
+  42:8, where Eliphaz must turn to Job; and the promise of 5:19–26 comes true in 42:10–17, after God
+  has said Eliphaz was wrong. See
+  [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]],
+  [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]], and
+  [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]].
 - [[Seven Days of Silence]] — Job 2:11–13, his first appearance and **the only thing he does in the
   book that God does not rebuke.** Read the invented charges of 22:6–9 — stripping the naked,
   withholding bread from the hungry — against a man who crossed a desert to sit in another man's
@@ -139,10 +154,13 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   trembling in all his bones, a form he could not discern standing before his eyes, silence, and
   then a voice. What the voice says — *"Shall mortal man be more just than God?"* — is a
   commonplace, and the mismatch between the apparatus and the content is one of the book's quieter
-  jokes. It is also the reason his shift to the authority of the aged in chapter 15 is worth
+  jokes. The vision's *"Silence, then I heard a voice"* (4:16) uses the two nouns of Elijah's *still
+  small voice* at Horeb (1 Kings 19:12) in reverse order, and Elihu repeats 4:13's *"when deep sleep
+  falls on men"* word for word at 33:15. It is also the reason his shift to the authority of the aged in chapter 15 is worth
   noticing: he does not repeat the vision after it fails to persuade.
-- **1 Corinthians 3:19.** Paul's citation of Job 5:13 raises a question the wiki flags rather than
-  settles: how a New Testament author can quote as authoritative a man God says did not speak
+- **1 Corinthians 3:19.** Paul's citation of Job 5:13 — worked through at
+  [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] — raises a question the
+  wiki flags rather than settles: how a New Testament author can quote as authoritative a man God says did not speak
   rightly. The usual answers are that a true proposition remains true in a wrong mouth, and that
   inspiration attaches to the book's report of the speech rather than to the speaker. Both are
   reasonable; neither is stated in either text. What the case does establish is that God's verdict

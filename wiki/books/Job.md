@@ -90,7 +90,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### First cycle (4–14)
 
-- [ ] Eliphaz's First Speech — Job 4:1–5:27
+- [x] [[Eliphaz's First Speech]] — Job 4:1–5:27
 - [ ] Job's Reply to Eliphaz — Job 6:1–7:21
 - [ ] Bildad's First Speech — Job 8:1–22
 - [ ] There Is No Umpire Between Us — Job 9:1–10:22

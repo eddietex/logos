@@ -252,7 +252,8 @@ speech that starts the quarrel is not addressed to anyone in it.
 - [[Joseph Sold into Slavery]] — Genesis 37:35, *"I will go down to Sheol to my son mourning"*: the
   Bible's first Sheol, spoken by another man who wanted to die of grief and, unlike Job, was wrong
   about the death.
-- **Job 4:6** — *"Isn't your piety your confidence?"*: Eliphaz's opening, and the first reply.
+- [[Eliphaz's First Speech]] — Job 4:1–5:27; *"Isn't your piety your confidence?"* (4:6):
+  Eliphaz's opening, and the first reply.
 - **Job 6:8–9** — *"Oh that I might have my request… that it would please God to crush me"*: the wish
   of chapter 3 restated as a petition, and this time addressed.
 - **Job 7:11** — *"Therefore I will not keep silent"*: Job's own account of why chapter 3 happened.

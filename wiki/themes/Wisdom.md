@@ -76,7 +76,7 @@ close to the book's whole point about who may speak for the tradition. See
 - **Isaiah 29:14** — *"the wisdom of their wise men will perish"*, quoted at 1 Corinthians 1:19.
 - **1 Corinthians 1:18–31; 3:18–20** — the wisdom of the world made foolish, Christ *"made to us
   wisdom from God"*, and Job 5:13 quoted as scripture: *"He has taken the wise in their craftiness"*.
-  See the note on [[Eliphaz the Temanite]] about that quotation.
+  See [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]].
 - **Colossians 2:3** — *"in whom all the treasures of wisdom and knowledge are hidden"*, which is
   the New Testament's answer to Job 28's question about where it is kept.
 - **James 1:5; 3:13–18** — wisdom to be asked for, and a wisdom *"from above"* distinguished from
@@ -131,6 +131,11 @@ close to the book's whole point about who may speak for the tradition. See
   26). **Genesis supplies no adverb for any of it** — **the book that says *"the thing which he did
   was evil in Yahweh's sight"* about a much smaller matter** (38:10) **reports this transaction, the
   people's gratitude, and stops.** **The wiki records the silence and does not fill it**
+- [[Eliphaz's First Speech]] — Job 4–5, **all three of the wise man's warrants in one speech**:
+  observation (*"According to what I have seen"*, 4:8), revelation (the night vision, 4:12–21), and
+  consensus (*"we have searched it, so it is"*, 5:27). And 5:13, *"He takes the wise in their own
+  craftiness"*, which Paul quotes as Scripture and which the book turns on its speaker. See
+  [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]]
 
 ## Related themes
 

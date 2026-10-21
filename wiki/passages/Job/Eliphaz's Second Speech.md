@@ -194,8 +194,8 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
 - [[Adam]] — the first man of 15:7.
 - [[The Sons of God and the Angels That Sinned]] — 15:15's *"holy ones"* whom God does not trust,
   alongside 4:18 and the wider question of the heavenly beings in Job.
-- Job 4:1–5:27 — Eliphaz's first speech: the night vision, the first *"what is man"*, and the
-  restoration offered here withdrawn.
+- [[Eliphaz's First Speech]] — Job 4:1–5:27: the night vision, the first *"what is man"*, and the
+  restoration offered there and withdrawn here.
 - Job 1:6–12; 2:1–6 — the *sôd* of 15:8, which the reader has attended and Eliphaz has not.
 - Job 21:1–34 — Job's direct rebuttal of 15:20, chapter for chapter.
 - Job 32:6–9 — Elihu against the authority of age that Eliphaz claims at 15:10.

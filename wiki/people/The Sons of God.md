@@ -74,6 +74,11 @@ are reading this passage, or the *1 Enoch* elaboration of it, or something else,
   same words as 1:6 with one difference: the accuser now comes *"to present himself before Yahweh"*
   in his own right, taking the courtier's idiom that 1:6 applied only to the assembly. They turn up
   once more in the book at 38:7, where they *"shouted for joy"* at the founding of the earth
+- [[Eliphaz's First Speech]] — Job 4:18 and 5:1, **not under this name**, but the same court
+  described from the floor by someone who has never been in it: God's *"servants"* whom he does not
+  trust, his *"angels"* (*malʾākāyw*) whom he *"charges with error"*, and the *"holy ones"*
+  (*qədōšîm*) to whom no sufferer can turn. The reader has been in the room, and the God there
+  trusted one servant enough to stake a wager on him
 
 ## Related people
 

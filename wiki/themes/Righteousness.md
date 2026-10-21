@@ -185,6 +185,10 @@ about.
   charge anyway**: *"God has found out the iniquity of your servants."* **The one man in Genesis who
   has stated a verdict against himself does it a second time, in a foreign court, about a different
   crime**
+- [[Eliphaz's First Speech]] — Job 4:17, *"Shall mortal man be more just (yiṣdāq) than God?"* — the
+  verb Job will take up at 9:2, *"how can man be just with God?"*, and turn from a rebuke into a
+  legal problem: not whether a man can be righteous, but whether he can be *found* righteous by a
+  God he cannot summon to court
 
 ## Related themes
 

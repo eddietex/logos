@@ -252,6 +252,13 @@ happens.
   [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] measures. **The most
   consequential of the twelve predictions is 49:10**, and **it is also the least decipherable** — see
   [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]]
+- [[Eliphaz's First Speech]] — Job 4:12–21, **the only revelation claimed by a human speaker in
+  Job**, and the most atmospheric night vision in the wisdom books: a word *"secretly brought"*, *"deep
+  sleep"* (*tardēmâ*, the word of Genesis 2:21 and 15:12), dread, trembling, *"a spirit passed before
+  my face"*, an indiscernible form, *"Silence, then I heard a voice"* — the two nouns of Elijah's
+  still small voice (1 Kings 19:12) in reverse. **The message is a commonplace, and the book never
+  confirms the vision**: God's verdict at 42:7 covers what Eliphaz said the spirit said. The theme's
+  first case of revelation claimed and not vouched for
 
 ## Related themes
 

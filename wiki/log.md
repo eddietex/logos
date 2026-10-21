@@ -9149,3 +9149,74 @@ scripture citations, since none of those books has been started.
   [[The Wager in Heaven and the Four Messengers]]; the whole-book Genesis lint that became due when
   Genesis completed is still outstanding, as are the stray empty `Exodus.md` at the repository root
   and the [[The Jordan]] retro-linking.
+
+## [2026-10-21] ingest | Job 4.1-5.27 — Eliphaz's First Speech
+
+Interactive run. Target resolved mechanically: [[Job]] is the only `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 4:1–5:27. **Boundary
+unchanged, title unchanged** — the planned *Eliphaz's First Speech* follows the book page's own
+convention of numbering the friends' speeches plainly. **Job is at 11 / 32.** The discussion step
+happened in chat; the user asked for all three proposed connection pages.
+
+### The passage page
+
+[[Eliphaz's First Speech]], `wiki/passages/Job/`. Built around these findings:
+
+**1. 4:6 uses the prologue's two words for Job without knowing it.** *Yirʾâ* and *tōm* — the fear of
+God and the integrity God boasted of at 1:8 and 2:3 — are offered back to Job as his *confidence* and
+his *hope*. **It is the accuser's *"for nothing?"* asked in kindness**: both men hold that fear should
+pay; one doubts Job with it, the other consoles him.
+
+**2. 4:7 is retribution's first statement in the dialogue, and it is offered as an observation**
+(*"According to what I have seen"*), over the graves of ten children.
+
+**3. The night vision has a reverse side.** 4:18's God who *"puts no trust in his servants"* is the
+God the reader heard say *"my servant Job"*; the visiting *rûaḥ* is the word of the wind that killed
+the children (1:19); and 4:16's *"silence, then … a voice"* is Elijah's *qôl dəmāmâ* (1 Kings 19:12)
+with the nouns reversed. Elihu repeats 4:13's second line word for word at 33:15.
+
+**4. 5:1 dismisses a heavenly advocate in advance** — every later officer Job reaches for answers it
+— **and 42:8 reverses it exactly**, sending Eliphaz to Job for intercession.
+
+**5. The speech's promise comes true by the other road.** 5:19–26, item for item, is 42:10–17 —
+delivered to the man who refused the diagnosis, after God says its author was wrong.
+
+### Connection pages (3 new)
+
+- [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] — Paul's *"it is
+  written"* over a rebuked friend's sentence; his Greek follows neither the Septuagint's verb nor its
+  noun; *ʿārûm* links the verse to the serpent of Genesis 3:1.
+- [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] — the shared
+  *mûsar … ʾal-timʾās*; what Proverbs and Hebrews have that Eliphaz's version lacks (the father); and
+  the book's refusal of the premise for this case, by *ḥinnām* at 2:3. Records the coincidence that
+  Hebrews 12:12 quotes Isaiah 35:3, the language of Job 4:3–4, six verses after quoting Proverbs 3.
+- [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] — a table of 5:19–26
+  against 42:10–17; 5:1 against 42:8; *kelaḥ* (5:26) and its one other use at 30:2.
+
+### Pages revised
+
+People (7): [[Eliphaz the Temanite]] (timeline entry linked and expanded, new appears-in entry, the
+night-vision note extended with 1 Kings 19:12 and Job 33:15), [[Job (person)]], [[Job's Children]],
+[[Bildad the Shuhite]], [[Zophar the Naamathite]], [[God]] (a new portrait in the Job section — *the
+physician* — and an appears-in entry), [[The Sons of God]]. Places (1): [[Teman]]. Themes (10):
+[[Retribution]], [[Sin]], [[Righteousness]], [[Suffering]], [[Wisdom]], [[Mediation and Advocacy]],
+[[The Fear of God]], [[Integrity]], [[Prophecy and Vision]] (its first Job entry), [[Hope]].
+Connections revised (3): [[What Is Man That He Should Be Clean]] (passage linked; a note on the
+vision's credentials), [[The Divine Council]] (4:18 and 5:1 added as the council seen from outside),
+[[The Sons of God and the Angels That Sinned]] (passage linked). Passages revised (2):
+[[Let the Day Perish]] and [[Eliphaz's Second Speech]], whose plain-text references to Job 4:1–5:27
+now link the new page.
+
+### Corrections and sweeps
+
+- **Correction, flagged rather than overwritten:** [[Eliphaz the Temanite]] called Job 5:13 *the only
+  direct New Testament quotation of the book of Job*. Romans 11:35 quotes Job 41:11 (Hebrew 41:3).
+  The page now says *one of two* and notes the change; the passage page records it; Romans 11:35 is
+  left for the ingest of chapter 41. What survives is that 5:13 is the only one taken from a speech
+  God rebukes. The same overstatement was made in the chat discussion before this ingest.
+- **Stale marker cleared:** [[The Sons of God and the Angels That Sinned]] still marked Job 1:6 and
+  2:1 *(not yet ingested)*; both are, and now link their passage pages.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

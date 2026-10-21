@@ -224,3 +224,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 |
 | [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] | parallel | Job 3:1–12 · Jeremiah 20:14–18 · Job 10:18–19 · Ecclesiastes 4:2–3; 6:3–5 · Jonah 4:3, 8 · 1 Kings 19:4 · Matthew 26:24 |
 | [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 18 · Genesis 1:1–2:3 |
+| [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 |
+| [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
+| [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19; 22:21–30 · Genesis 35:29 |

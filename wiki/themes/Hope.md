@@ -140,6 +140,10 @@ is close because you cannot bear to sit in the dark with him.
   Redeemer of 19:25 — is built on ground this chapter cleared completely**, which is why the wiki
   reads Job's trajectory as ascent rather than collapse. Set against 17:15's *"where then is my
   hope?"*, which is at least a question addressed to someone
+- [[Eliphaz's First Speech]] — Job 4:6 and 5:16, **the noun *tiqwâ*'s first two occurrences in the
+  book**: *"Isn't the integrity of your ways your hope?"* and *"So the poor has hope."* Hope offered
+  to Job as the yield of his integrity, and then as a future (5:19–26). Job's reply is immediate —
+  *"What is my strength, that I should wait?"* (6:11) — and by 17:15 he is asking where his hope is
 
 ## Related themes
 

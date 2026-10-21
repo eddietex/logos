@@ -183,6 +183,13 @@ verdicts.
   the book with Eliphaz at 4:7, not here** — which means the friends spend twenty-two chapters
   answering a case that had not been made, and forced Job into making it. **They cannot hear a
   lament as a lament, because their theology has no category for suffering that is not evidence**
+- [[Eliphaz's First Speech]] — Job 4:7–8, **the doctrine's first statement in the dialogue, and it is
+  offered as an observation**: *"who ever perished, being innocent? … According to what I have seen,
+  those who plow iniquity, and sow trouble, reap the same."* The reader has the counter-example on the
+  page already — ten children and a household of servants, belonging to a man God called blameless.
+  **The same speech then promises the doctrine's reward** (5:19–26), and the epilogue pays it in
+  full (42:10–17) — **to the man who refused the doctrine, after God has said its spokesman was
+  wrong.** See [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
 
 ## Related themes
 

@@ -13,7 +13,9 @@ once:
 - **Suffering as consequence** — the sentences of Genesis 3, the covenant curses, the harvest of
   Galatians 6:7. Real, and the account most often misapplied.
 - **Suffering as discipline** — Deuteronomy 8:5, Proverbs 3:11–12, Hebrews 12:5–11. Also real, and
-  the one [[Eliphaz the Temanite]] offers in his first speech (Job 5:17) before withdrawing it.
+  the one [[Eliphaz the Temanite]] offers in [[Eliphaz's First Speech]] (Job 5:17) before
+  withdrawing it. See
+  [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]].
 - **Suffering as test** — [[The Binding of Isaac]], Deuteronomy 8:2, and the prologue of Job. This is
   the one the reader of Job is given and the characters are not; Genesis 22:1 does the same thing in
   four words, and never lets Abraham in on it. See [[Testing]].
@@ -178,6 +180,13 @@ requires only that you be standing outside it.
   admission of a dread that predates the disaster** — *"the thing which I fear comes on me"* (3:25) —
   which reads back against the continual burnt offerings of 1:5, and which Eliphaz answers four
   verses later by telling Job his piety should have been his confidence (4:6)
+- [[Eliphaz's First Speech]] — Job 4–5; **the first account of the suffering given by someone other
+  than the sufferer, and it is the discipline account**: *"happy is the man whom God corrects.
+  Therefore do not despise the chastening of the Almighty. For he wounds, and binds up"* (5:17–18).
+  The teaching is Proverbs 3:11–12's and Hebrews 12:5–6's, and the book does not deny it. **It denies
+  it of this case**: God called Job's affliction *ḥinnām*, *without cause* (2:3), and correction
+  with nothing to correct is not correction. See
+  [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]]
 
 ## Related themes
 
