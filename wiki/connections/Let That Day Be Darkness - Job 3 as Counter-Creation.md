@@ -9,6 +9,9 @@ tags: [connection]
 
 - Genesis 1:1–2:3 — [[The Creation of the World]]
 - Job 3:1–10 — the first movement of Job's first speech — [[Let the Day Perish]]
+- Job 11:17 — Zophar promising the reversal back: *"Though there is darkness, it shall be as the
+  morning"*, answering 10:22's *"land dark as midnight"* and 3:9's day that would not see the
+  morning — [[Zophar's First Speech]]
 - Job 38:4–21 — the whirlwind's opening, which takes the same images back —
   [[The Whirlwind Answers Chapter 3]]
 - Genesis 6:9–8:22 — the wiki's other un-creation, and the nearest relative of this one —

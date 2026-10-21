@@ -10,6 +10,8 @@ tags: [connection]
 - **Job 15:7–8** — Eliphaz: *"Are you the first man who was born? Or were you brought out before the
   hills? Have you heard the secret counsel of God? Do you limit wisdom to yourself?"* —
   [[Eliphaz's Second Speech]]
+- **Job 11:5–9** — Zophar, earlier: *"oh that God would speak… that he would show you the secrets
+  (taʿălumôt) of wisdom!"*, and wisdom higher than heaven and deeper than Sheol — [[Zophar's First Speech]]
 - **Proverbs 8:22–31** — Wisdom personified: *"Before the mountains were settled in place, before
   the hills, I was brought forth… When he established the heavens, I was there."*
 - **Job 38:4, 21** — God, from the whirlwind: *"Where were you when I laid the foundations of the

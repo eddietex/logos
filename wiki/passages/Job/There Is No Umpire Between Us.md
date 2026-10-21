@@ -319,7 +319,7 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
   (4:17 → 9:2), the doxology (5:9 → 9:10), and the verb of the passing spirit (4:15 → 9:11). The
   *ḥadrê tēmān*, *the rooms of the south* (9:9), are literally *the chambers of Teman* — the word for
   south is the name of Eliphaz's homeland. Probably no more than the ordinary word; see the Notes.
-- [[Zophar the Naamathite]] — not addressed; he answers this speech next. *"Should a man full of
+- [[Zophar the Naamathite]] — not addressed; he answers this speech next, in [[Zophar's First Speech]]. *"Should a man full of
   talk be justified?"* (11:2) takes 9:2's *yiṣdaq*, and *"oh that God would speak, and open his lips
   against you"* (11:5) wishes for the hearing Job has just said cannot happen.
 
@@ -414,6 +414,9 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 - Job 38:31–33 — *"Can you bind the cluster of the Pleiades, or loosen the cords of Orion?"*, God's
   reply to 9:9.
 - Job 42:5 — *"now my eye sees you"*, against 9:11 and 9:16.
+- [[Zophar's First Speech]] — Job 11, the reply, built out of this speech's words: *yiṣdaq* (9:2 → 11:2), *mock* (9:23 →
+  11:3), *passes by* and *who can hinder him* (9:11–12 → 11:10), the unlifted head (10:15 → 11:15),
+  and the darkness (10:22 → 11:17).
 
 ## Notes
 

@@ -131,6 +131,9 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   question (4:17 → 9:2, *yiṣdaq*, moved from ethics to court), his doxology (5:9 → 9:10, comfort
   become threat), and the verb of the spirit that *passed* before his face (4:15 → 9:11, *ḥālap*) —
   used by Job of a God who passes and is not seen.
+- [[Zophar's First Speech]] — Job 11:1–20, silent; his *ʾên ḥēqer* (5:9) becomes Zophar's
+  *"Can you fathom (ḥēqer) the mystery of God?"* (11:7), and his conditional promise (5:19–26) is
+  compressed into 11:15–19, the last time any friend makes it.
 
 ## Related people
 

@@ -115,6 +115,11 @@ speeches; each becomes a linked passage page as it is ingested.
   *"there is no umpire between us"* (9:33), and to God, *"Show me why you contend with me"* (10:2),
   *"you know that I am not wicked"* (10:7), the hands that made him (10:8–12), and *"why, then, have
   you brought me out of the womb?"* (10:18).
+- **Job 11:1–20** — [[Zophar's First Speech]]. Told that he talks too much and mocks, misquoted as
+  claiming *"My doctrine is pure"* (11:4), and told that God *"exacts of you less than your iniquity
+  deserves"* (11:6); then promised, on condition of repentance, that he will lift up his face, forget
+  his misery, and *"lie down, and no one shall make you afraid"* (11:15–19) — almost all of which the
+  epilogue gives him without the repentance.
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
   umpire between us"* at 9:33.
@@ -206,6 +211,11 @@ speeches; each becomes a linked passage page as it is ingested.
   (9:17; 2:3), and that God knows he is not wicked (10:7; 1:8). **And he asks the potter's forbidden
   question** (9:12; 10:8–9) — *what are you doing with what you made?* — which the epilogue never
   rebukes.
+- [[Zophar's First Speech]] — addressed throughout, and **quoted back to himself**: his *yiṣdaq*
+  (9:2), his *mock* (9:23), his God who passes by and cannot be hindered (9:11–12), and his failing
+  wadi (6:15) all reappear in Zophar's mouth. His prayer *"you know that I am not wicked"* (10:7) is
+  reported as a boast of pure doctrine, and his *"I still shall not lift up my head"* (10:15) is
+  answered with a lifted face on condition he confess.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the

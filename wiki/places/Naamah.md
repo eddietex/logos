@@ -37,6 +37,8 @@ Job's three visitors outside Israel and into the international wisdom tradition 
 
 - [[Seven Days of Silence]] — Job 2:11, the gentilic's first occurrence, in the one verse that names
   all three friends and their three homes together.
+- [[Zophar's First Speech]] — Job 11:1, the gentilic's second occurrence, introducing his first
+  speech.
 - [[Zophar's Second Speech]] — Job 20:1, where the gentilic recurs as part of his name.
 - [[Eliphaz's Second Speech]] · [[Miserable Comforters and the Witness in Heaven]] ·
   [[Bildad's Second Speech]] · [[I Know That My Redeemer Lives]] — where Zophar is present and

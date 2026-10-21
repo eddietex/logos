@@ -19,6 +19,8 @@ tags: [connection]
   man, who is a worm!"*
 - **Job 9:2; 14:4** — Job saying much the same thing himself — [[There Is No Umpire Between Us]], where he concedes
   the point and asks the legal question underneath it instead
+- **Job 11:4** — Zophar attributing the opposite claim to Job: *"For you say, 'My doctrine is pure. I
+  am clean (bar) in your eyes.'"* Job never said it; the friends need him to have — [[Zophar's First Speech]]
 - **Genesis 6:5** — *"every imagination of the thoughts of man's heart was continually only evil"* —
   [[The Sons of God and the Corruption of the Earth]]
 - **Psalm 8:4** — *"What is man, that you think of him?"* — the same question, opposite key

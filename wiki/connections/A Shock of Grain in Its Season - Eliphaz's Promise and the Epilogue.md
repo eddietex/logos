@@ -19,8 +19,8 @@ tags: [connection]
 - **Job 42:10–17** — Job's restoration: *"Yahweh gave Job twice as much as he had before"*, fourteen
   thousand sheep, seven sons and three daughters, a hundred and forty years, four generations, and
   *"So Job died, being old and full of days."*
-- **Job 8:5–7; 11:13–19** — Bildad's and Zophar's shorter versions of the same conditional promise;
-  Bildad's is [[Bildad's First Speech]]
+- **Job 8:5–7; 11:13–19** — Bildad's and Zophar's shorter versions of the same conditional promise —
+  [[Bildad's First Speech]], [[Zophar's First Speech]]
 - **Job 22:21–30** — Eliphaz's last version of it, in his third speech
 
 ## Analysis
@@ -52,6 +52,20 @@ already *yāšār*, upright (1:1), and he did seek God, as a litigant rather tha
 closing line is fulfilled too, with an irony he could not see: *"Those who hate you shall be clothed
 with shame"* (8:22) — and at 42:7–9 the men who must be covered by Job's prayer are the three
 friends.
+
+**Zophar's version is fulfilled at Zophar's expense.** His promise is the most generous of the three
+and follows the harshest accusation — *"God exacts of you less than your iniquity deserves"* (11:6)
+— and two of its clauses come true in the epilogue with Zophar standing in them. *"Surely then you
+shall lift up your face (tiśśāʾ pānêkā) without spot"* (11:15): at 42:8 God says of Job *"I will
+accept him"*, *pānāyw ʾeśśāʾ*, **I will lift his face**, and 42:9 reports that it happened — *"So
+Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went… and Yahweh accepted
+Job."* And *"many shall court your favor"* (*ḥillû pānêkā*, 11:19), the idiom of petitioners
+approaching the great with a gift: the first to come to Job with offerings in hand are the three
+friends, with seven bulls and seven rams, because his prayer is the only thing that will turn God's
+wrath from them; then at 42:11 *"all his brothers, and all his sisters"*, each with a piece of money
+and a ring of gold. **Zophar promised Job a lifted face and a line of suppliants, and was in the
+line when the face was lifted.** The 11:6 half of his speech, meanwhile, is reversed: not less than
+his iniquity deserved, but *"twice as much as he had before"* (42:10).
 
 **5:1 is reversed exactly.** *"To which of the holy ones will you turn?"* — Eliphaz's dismissal of
 the idea that anyone could intercede for Job. In 42:8 God sends Eliphaz to find an intercessor for

@@ -92,6 +92,11 @@ to go.
   order*, occurs nowhere else — the land of the dead as the one place Genesis 1's ordering never
   reached, where even the light is dark. Job asks to be let alone a little *before* he goes there
   (10:20), because there is no return from it.
+- [[Zophar's First Speech]] — Job 11:8, *"deeper than Sheol"*; **the first time in the book it is
+  a dimension rather than a destination** — the floor of the cosmos, set against *"high as heaven"* as
+  the measure of what God exceeds. Zophar is answering 10:21–22, where it was the land Job was going
+  to. God's reply asks the same question of the same place: *"Have the gates of death been revealed
+  to you?"* (38:17).
 - [[Miserable Comforters and the Witness in Heaven]] — Job 17:13, 16, closing the speech.
 - [[I Know That My Redeemer Lives]] — not named, but the passage that most tests what the wiki says
   here: 19:25's Redeemer standing *"upon the earth"* is literally *upon dust*, the same word that

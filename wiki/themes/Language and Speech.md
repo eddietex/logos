@@ -210,6 +210,9 @@ noticing into doctrine.
   **personifies the night as an announcer** — *"the night which said, 'There is a boy conceived'"*
   (3:3) — so that a piece of news becomes the thing punishable. Job's own account of why he spoke
   comes at 7:11: *"Therefore I will not keep silent"*
+- [[Zophar's First Speech]] — Job 11:2–3; ***"Shouldn't the multitude of words be answered? Should a man full of
+  talk be justified?"*** — *ʾîš śəpātayim*, a man of lips. The friends' standing complaint that Job
+  talks too much, in a speech whose central wish is that God would talk (11:5)
 
 ## Related themes
 

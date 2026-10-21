@@ -178,6 +178,10 @@ already did.
   memory of *"life and loving kindness"* (10:12), and the last petition — *"Cease then. Leave me
   alone, that I may find a little comfort"* (10:20). Chapter 3's *why* is here finally put to God
   (10:18).
+- [[Zophar's First Speech]] — Job 11:13; ***"stretch out your hands toward him"***, the spread palms of Exodus 9:29 and
+  1 Kings 8:22, conditional on hands first cleared of iniquity (11:14; Isaiah 1:15). Offered to Job
+  as the way back, and fulfilled at 42:8–10 with the roles reversed: Job prays, and Zophar is prayed
+  for
 
 ## Related themes
 

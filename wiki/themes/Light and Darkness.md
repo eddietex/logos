@@ -114,6 +114,11 @@ raw text.)*
 - [[There Is No Umpire Between Us]] — Job 9:7 and 10:21–22; God *"commands the sun, and it doesn't rise, and seals up the
   stars"*, and the land of the dead is *ṣalmāwet* twice, *without any order*, where *"the light is
   as midnight."* The speech's last word is *ʾōpel*, gloom — Genesis 1:3 run backwards.
+- [[Zophar's First Speech]] — Job 11:17; ***"Though there is darkness, it shall be as the morning."*** **Zophar
+  reverses the last line he heard**: Job ended chapter 10 in *"the land dark as midnight"*
+  (*ʿêpātâ*), and Zophar's *darkness* (*tāʿupâ*) is the same root. It also undoes 3:9's day that
+  would never see *"the eyelids of the morning"*. Isaiah 58:8–10 makes the same promise on a
+  different condition
 
 ## Related themes
 

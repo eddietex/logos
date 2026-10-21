@@ -19,6 +19,9 @@ tags: [connection]
 - **Job 8:21–22** — *"He will still fill your mouth with laughter, your lips with shouting"*: the
   gentlest close any friend gives a speech, after its cruellest opening (8:4) —
   [[Bildad's First Speech]]
+- **Job 11:16** — *"you shall forget your misery. You shall remember it like waters that have passed
+  away"*: Job's image of the friends as a failing brook (6:15), turned by Zophar into a promise that
+  grief will pass the same way — [[Zophar's First Speech]]
 - **Job 13:4–5** — *"you are all worthless physicians. Oh that you would be completely silent!"*
 - **Genesis 37:35** — Jacob *"refused to be comforted"* — [[Joseph Sold into Slavery]]
 - **Psalm 69:20** — *"I looked for some to take pity, but there was none; for comforters, but I found

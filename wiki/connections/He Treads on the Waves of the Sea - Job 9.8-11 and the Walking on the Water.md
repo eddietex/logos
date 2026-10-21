@@ -12,6 +12,9 @@ tags: [connection]
   [[There Is No Umpire Between Us]]
 - **Job 4:15** — *"Then a spirit passed before my face."* Eliphaz's vision, with Job's second verb
   (*ḥālap*). — [[Eliphaz's First Speech]]
+- **Job 11:10** — *"If he passes by (yaḥălōp), or confines, or convenes a court, then who can oppose
+  him (mî yəšîbennû)?"* Zophar quoting 9:11–12, the passing God turned from absent to judging —
+  [[Zophar's First Speech]]
 - **Job 38:16** — *"Have you entered into the springs of the sea? Or have you walked in the recesses
   of the deep?"* God's question back.
 - **Exodus 33:19–23; 34:6** — *"I will make all my goodness pass before you… while my glory passes

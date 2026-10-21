@@ -222,6 +222,9 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - [[There Is No Umpire Between Us]] — Job 10:9, ***zəkor-nāʾ***, *"Remember, I beg you, that you have fashioned me as clay"*:
   Job's second request to be remembered, and this time what he asks God to recall is God's own
   workmanship.
+- [[Zophar's First Speech]] — Job 11:6, 16; God *forgetting* part of the iniquity, and Job promised that he will
+  *"remember it like waters that have passed away"* — **Job's own image of the friends as a failing
+  wadi (6:15), turned into a promise that grief will drain off the same way**
 
 ## Related themes
 

@@ -144,6 +144,10 @@ close to the book's whole point about who may speak for the tradition. See
 - [[There Is No Umpire Between Us]] — Job 9:4, *"wise in heart, and mighty in strength: who has hardened himself against him,
   and prospered?"* — God's wisdom cited not as a resource but as one more reason no man can win
   against him.
+- [[Zophar's First Speech]] — Job 11:6–9; ***"the secrets of wisdom"*** and **wisdom given four dimensions** — higher
+  than heaven, deeper than Sheol, longer than the earth, broader than the sea. Zophar's premise is
+  God's own (38:16–18, with the same *ḥēqer*); his inference, that Job should be silent, is not. See
+  [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]]
 
 ## Related themes
 

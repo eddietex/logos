@@ -270,6 +270,9 @@ rule are the conditions the rest of Scripture is set in.
   *mišpāṭ*, *"who will summon me?"* (9:19), *"that we should come together in judgment"* (9:32),
   *"show me why you contend with me"* (10:2), *"you renew your witnesses against me"* (10:17). God
   is plaintiff, judge, and stronger party at once, and no umpire stands over both (9:33).
+- [[Zophar's First Speech]] — Job 11:10; *"If he… convenes a court (yaqhîl), then who can oppose him?"* — **the court
+  Job said could not be convened (9:32–33), described as already in session**, in a verse built out
+  of Job's own 9:11–12
 
 ## Related themes
 

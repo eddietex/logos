@@ -199,6 +199,9 @@ about.
   answer him"* (9:15); *"though I am righteous, my own mouth shall condemn me"* (9:20); *"if I am
   righteous, I still shall not lift up my head"* (10:15). **Being righteous is not denied; it is
   declared useless**, because the procedure that would establish it does not exist.
+- [[Zophar's First Speech]] — Job 11:2; *"Should a man full of talk be justified (yiṣdaq)?"* — **Job's legal word of
+  9:2 turned against him**: the question was how a man can be just with God, and Zophar's answer is
+  that this one cannot, because he talks too much
 
 ## Related themes
 

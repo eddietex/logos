@@ -116,6 +116,10 @@ These are not exclusive, and the third is the one the text argues for by itself.
   describing somebody else's dining custom, and **the separateness it produces is what keeps the family
   a family in Egypt.** See
   [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]]
+- [[Zophar's First Speech]] — Job 11:4, 15; *zak* and *bar*, ***"My doctrine is pure. I am clean in your eyes"*** —
+  **a claim Job never made**, built from Bildad's *pure* (8:6) — and *mûm*, the blemish that
+  disqualifies a sacrifice (Leviticus 22:20–21), as what Job's face will be without once he
+  repents
 
 ## Related themes
 

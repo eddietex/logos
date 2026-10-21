@@ -155,6 +155,10 @@ is close because you cannot bear to sit in the dark with him.
   had just declared spent (7:6), made a mark of the godless.** The papyrus without water is its image.
   Job's answer comes at 14:7 — *"there is hope for a tree"* — and grants the plant a second life Bildad
   did not give it. See [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]].
+- [[Zophar's First Speech]] — Job 11:18, 20; ***"You shall be secure, because there is hope"*** — and three verses
+  later, *"Their hope shall be the giving up of the spirit."* **Zophar is the friend who sets the two
+  hopes side by side**, the penitent's and the wicked's, and the second is death. *Tiqwâ* has now
+  been used by all three friends (4:6; 8:13; 11:18)
 
 ## Related themes
 

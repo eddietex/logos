@@ -30,8 +30,36 @@ three royal titles that translator handed out.
 
 ## In the ingested passages
 
-His second and final speech is now ingested as [[Zophar's Second Speech]], and it is the last thing
-he ever says. Twenty-nine verses, and the only concession any of the three makes to being provoked:
+**Both of his speeches are now ingested.** The first is [[Zophar's First Speech]], Job 11:1–20, and
+it answers the prayer of chapters 9–10 as though it had been a boast. Four things in it define him.
+
+**He is the friend who says the quiet part.** *"Know therefore that God exacts of you less than your
+iniquity deserves"* (11:6) — or, on the other reading of *yaššeh*, *God has forgotten some of your
+iniquity*. Either way, the ten dead children and the sores are a discount. Eliphaz suggested
+discipline and Bildad blamed the children; Zophar enlarges Job's own guilt until it covers every
+fact, which is the doctrine's logic once a man refuses to confess.
+
+**He builds his rebuke out of Job's words.** *Yiṣdaq* (11:2) is Job's legal question of 9:2; *mock*
+(11:3) is what Job said God does (9:23); *"he passes by… who can hinder him?"* (11:10) is 9:11–12
+verbatim; and the misery that passes *"like waters that have passed away"* (11:16) is Job's own
+image of the friends as a failing wadi (6:15). And once he misquotes: *"For you say, 'My doctrine is
+pure. I am clean in your eyes'"* (11:4) puts Bildad's word *zak* (8:6) into a prayer Job addressed to
+God (10:7).
+
+**He wishes God would speak, in Job's own formula, and is granted it.** *Mî-yittēn*, *oh that*
+(11:5), is the shape of every wish Job makes (6:8; 14:13; 19:23; 23:3; 31:35). God does open his lips
+(38:1), and his wrath is against the friends (42:7).
+
+**And his offer is the most generous of the first cycle.** The face lifted without spot (11:15),
+fear removed, misery forgotten, darkness made morning (11:17, reversing 10:22), and the covenant's
+own *"you shall lie down, and no one shall make you afraid"* (11:19; Leviticus 26:6). Nearly every
+clause comes true in the epilogue, at his own expense: *"Yahweh accepted Job"* (42:9) is literally
+*Yahweh lifted Job's face*, in the verse that names Zophar among the three who need it, and *"many
+shall court your favor"* (11:19) begins with the friends bringing their bulls and rams to Job. See
+[[None Shall Make You Afraid - The Covenant Blessing of Security]] and
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]].
+
+His second and final speech is [[Zophar's Second Speech]], and it is the last thing he ever says. Twenty-nine verses, and the only concession any of the three makes to being provoked:
 *"I have heard the reproof which puts me to shame. The spirit of my understanding answers me"*
 (20:3), replying to Job's warning about the sword at 19:29.
 
@@ -71,8 +99,9 @@ than his iniquity deserves. The reader knows which of the two is right.
 - **Job 2:11–13** — [[Seven Days of Silence]]. Comes from [[Naamah]] by arrangement with the other
   two, fails to recognise Job, weeps, tears his robe, throws dust over his head, and sits on the
   ground seven days and seven nights without speaking.
-- **Job 11:1–20** — the first speech: God knows worthless men, you are getting less than you
-  deserve, put away iniquity and you will forget your misery.
+- **Job 11:1–20** — [[Zophar's First Speech]]: the multitude of words rebuked, the wish that God
+  would speak, *"less than your iniquity deserves"*, the God higher than heaven and deeper than
+  Sheol, the wild donkey's colt, and the last offer of a future any friend makes.
 - **Job 15–17** — silent, and included in the friends' *"we"* and Job's *"you all"*.
 - **Job 20:1–29** — [[Zophar's Second Speech]]. *"The triumphing of the wicked is short"*, and
   twenty-nine verses on how short: the ascent to the clouds and the fall to the dungheap, the
@@ -99,6 +128,8 @@ than his iniquity deserves. The reader knows which of the two is right.
   wicked.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
+- [[Zophar's First Speech]] — Job 11:1–20, his own and his first; harsher at the start and more
+  generous at the end than either of the others' first speeches.
 - [[Zophar's Second Speech]] — his own, and his last.
 - [[I Know That My Redeemer Lives]] — the speech whose closing threat (19:28–29) provokes him, and
   whose plea for pity (19:21) he ignores.
@@ -143,3 +174,6 @@ than his iniquity deserves. The reader knows which of the two is right.
   premise is correct and God will confirm it; his inference from it is that Job should stop
   talking, and God's inference from it is that Job should keep listening. The same doctrine of
   divine inscrutability functions in Zophar's mouth as a gag and in God's mouth as an invitation.
+  With chapter 11 ingested the overlap is visible in the vocabulary: *ḥēqer*, the searched-out depth
+  (11:7; 38:16), and the deep, Sheol, and the breadth of the earth (11:8–9; 38:16–18). See
+  [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].

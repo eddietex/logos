@@ -211,7 +211,7 @@ plenty the wicked man is not allowed to look at.
   sees me shall see me no more"*, his *"neither shall his place know him any more"*, and his dreams
   and *"visions"* of the night, all three taken over by Zophar for the wicked man's disappearance.
   **Zophar's portrait of the wicked is built partly out of Job's lament for himself.**
-- Job 11:1–20 — Zophar's first speech, with the repentance offer that chapter 20 withdraws.
+- [[Zophar's First Speech]] — Job 11:1–20, with the repentance offer that chapter 20 withdraws.
 - Job 21:1–34 — Job's answer to chapters 18 and 20 together, and the direct denial of 20:5.
 - Job 22:6–9 — Eliphaz turning 20:19's charge into a personal indictment.
 - Job 27:13–23 — the same portrait of the wicked man's portion, in Job's mouth, in the disturbed

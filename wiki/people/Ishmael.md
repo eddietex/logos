@@ -240,6 +240,9 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
   and *Ishmaelite* again at 39:1; see
   [[Ishmaelites or Midianites - The Caravan That Bought Joseph]]. **Abraham's firstborn line takes
   Abraham's great-grandson to Egypt for twenty shekels**, and Genesis does not remark on it
+- [[Zophar's First Speech]] — Job 11:12 *(by allusion)*; **the only other *pereʾ ʾādām* in the
+  Bible**, and it is an insult: a hollow man will get sense when a wild donkey is born a man. See
+  [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]].
 
 ## Related people
 

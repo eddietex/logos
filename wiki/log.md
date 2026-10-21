@@ -9461,3 +9461,80 @@ connections).
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 11.1-20 — Zophar's First Speech
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 11:1–20. **Boundary
+and title unchanged** — *Zophar's First Speech*, per the book page's convention that the friends'
+speeches are numbered plainly. No collision with any other book. **Job is at 15 / 32.** No
+discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Zophar's First Speech]], `wiki/passages/Job/`. Built around these findings:
+
+**1. Zophar answers the prayer of chapters 9–10 as if it were a boast**, and builds the rebuke out
+of Job's words: *yiṣdaq* (9:2 → 11:2), *lāʿag*, mock (9:23 → 11:3), *yaḥălōp* and *mî yəšîbennû*
+(9:11–12 → 11:10, verbatim). 11:4's *"My doctrine is pure. I am clean in your eyes"* is a
+misquotation — the *zak* is Bildad's (8:6), and *"in your eyes"* shows Zophar is reporting Job's
+address to God (10:7).
+
+**2. 11:5's *mî-yittēn* is Job's own wish formula** (6:8; 14:13; 19:23; 23:3; 31:35). The wish that
+God would speak is granted at 38:1 — against Zophar (42:7). The *"secrets of wisdom"* (11:6) set
+against the one secret the reader holds, 1:6–12.
+
+**3. 11:6, *"less than your iniquity deserves"***: the doctrine made unfalsifiable. Isaiah 40:2's
+*kiplayim*, *double for all her sins*, as the opposite verdict with Zophar's word.
+
+**4. 11:7–9's four dimensions** and *ḥēqer* (5:9; 9:10; 11:7; 38:16), with God's 38:16–18 asking
+about the deep, the gates of death, and the earth's breadth in Zophar's order.
+
+**5. The offer answers Job clause by clause**: the lifted face (10:15 → 11:15), *mūṣāq* and *lōʾ
+tîrāʾ* (3:25; 9:35), the waters that pass (Job's failing wadi of 6:15 turned into a promise, 11:16),
+darkness as morning (*tāʿupâ*, same root as 10:22's *ʿêpātâ*), *tiqwâ* twice (11:18, 20), and
+Leviticus 26:6's covenant formula (11:19). **Fulfilled at Zophar's expense**: 42:8–9's *"I will
+accept him"* is *nāśāʾ pānîm*, lifting Job's face, in the verse that names Zophar; *ḥillû pānêkā*
+(11:19) begins with the friends' bulls and rams.
+
+**Judgment calls.** 11:6's *yaššeh* given both derivations (*forget* / *exact*), noted as
+convergent; *kiplayim* kept as Masoretic, the *like wonders* emendation recorded. 11:11's *wəlōʾ
+yitbônān* recorded as statement or question. 11:12 read as an insult (impossibility), with the
+WEB's reversed construal and the minority hopeful reading noted. 11:18's *ḥāpartā* given both roots
+(*search* / *be ashamed*). **No new person or place pages**; [[Ishmael]] gains an appears-in entry
+by allusion only (*pereʾ ʾādām*).
+
+### Connection pages (3 new)
+
+- [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] — 11:7–9 with 5:9,
+  9:10, 28:3, 38:16–18, Psalm 139:7–10, Amos 9:2–3, Romans 11:33–35, and Ephesians 3:18–19; one map,
+  three readings (unknowable, inescapable in mercy, inescapable in judgment).
+- [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] — *pereʾ ʾādām*'s two occurrences, with
+  Job 6:5, 24:5, and God's boast at 39:5–8.
+- [[None Shall Make You Afraid - The Covenant Blessing of Security]] — *wəʾên maḥărîd* from
+  Leviticus 26:6 through Micah 4:4, Zephaniah 3:13, and Ezekiel 34, quoted by Zophar to a man outside
+  the covenant.
+
+### Pages created or revised
+
+People (6): [[Zophar the Naamathite]] (the first speech written into *In the ingested passages*,
+timeline linked, appears-in, notes), [[Job (person)]] (timeline and appears-in), [[God]] (new bullet
+in the Job section, appears-in), [[Eliphaz the Temanite]] and [[Bildad the Shuhite]] (appears-in),
+[[Ishmael]] (appears-in, by allusion). Places (2): [[Sheol]], [[Naamah]]. Themes (15):
+[[Retribution]], [[Wisdom]], [[Sin]], [[Forgiveness]], [[Prayer]], [[Hope]], [[Light and Darkness]],
+[[Clean and Unclean]], [[Language and Speech]], [[Seeing and Being Seen]], [[Remembrance]],
+[[The Fear of God]], [[Righteousness]], [[Judgment]], [[Life and Death]]. Connections revised (8):
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] (new paragraph on Zophar's
+promise and 42:8–11), [[Comforters Who Do Not Comfort]], [[The First Man and Wisdom Before the Hills]],
+[[Let That Day Be Darkness - Job 3 as Counter-Creation]], [[What Is Man That He Should Be Clean]],
+[[The Prosperity of the Wicked]],
+[[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]],
+[[The Divine Council]]. Passages revised (4): [[Zophar's Second Speech]] and
+[[There Is No Umpire Between Us]] (plain *Job 11* references now linked, cross-reference added),
+[[The Arrows of the Almighty]] and [[Hagar and Ishmael]] (cross-references). Book page: box checked,
+structure note for 4–14 extended. Indexes: books (15 / 32), themes (15 rows), people (6 rows),
+places (2 rows), connections (8 rows, +3 rows), `wiki/index.md` (74 passages, 233 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

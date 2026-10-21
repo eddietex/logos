@@ -128,6 +128,8 @@ book, and Bildad's name survives inside them.
   it is so"* (9:2) concedes 8:3; then Job takes Bildad's closing *tām* and *māʾas* (8:20) and returns
   both — *"I am blameless… I despise my life… he destroys the blameless and the wicked"* (9:21–22) —
   and turns to God for the rest of the speech.
+- [[Zophar's First Speech]] — Job 11:1–20, silent; his *zak*, *pure* (8:6), is put in Job's mouth
+  as a boast (11:4), and his one-verse close on the wicked (8:22) is the model for 11:20.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.

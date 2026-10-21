@@ -253,6 +253,9 @@ will finally go both ways.
   been unseen.** *"He goes by me, and I don't see him"*; *"Do you have eyes of flesh? Or do you see
   as man sees?"*; *"I wish… no eye had seen me."* The resolution is 42:5. See
   [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]].
+- [[Zophar's First Speech]] — Job 11:11; ***"He sees iniquity also"***: Zophar's answer to Job's *"Do you have eyes
+  of flesh?"* (10:4). God does not need to investigate; he sees at a glance — and what he sees,
+  Zophar is sure, is Job's guilt
 
 ## Related themes
 

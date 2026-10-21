@@ -87,6 +87,10 @@ practical.**
   Zechariah 3:4, in the accuser's other courtroom scene, as God's own act: *"I have caused your
   iniquity to pass from you."* See
   [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]]
+- [[Zophar's First Speech]] — Job 11:6, on one reading of *yaššeh*: ***"God has forgotten some of your iniquity."***
+  **The only mention of God's forgetting of sin in the friends' speeches, and it is an accusation** —
+  the forgetting proves the debt is larger than what has been paid. Set against Job's own plea for a
+  pardon he was not getting (7:21)
 
 ## Related themes
 

@@ -233,6 +233,9 @@ has been argued.
 - [[There Is No Umpire Between Us]] — Job 10:6, 14; **sin searched for and marked, never named.** *"You inquire after my
   iniquity, and search after my sin, although you know that I am not wicked"*; *"if I sin, then
   you mark me."* Job demands the charge (10:2) and does not receive it.
+- [[Zophar's First Speech]] — Job 11:6, 14; **sin as debt**, on which God the creditor has not yet collected in full,
+  and as a lodger — *"Don't let unrighteousness dwell in your tents"* — to be evicted before the
+  hands can be raised in prayer
 
 ## Related themes
 

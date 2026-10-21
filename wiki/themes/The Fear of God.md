@@ -190,6 +190,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   Whatever the verse's exact sense — the Hebrew is hard, and an older reading makes the man who
   withholds kindness the one who forsakes the fear — it sets friendship's *ḥesed* beside *yirʾâ* and
   says the first should not wait on the second
+- [[Zophar's First Speech]] — Job 11:15, 19; ***"you shall not fear"*** and ***"no one shall make you afraid"*** —
+  fear promised away, on condition of repentance, to the man God called *"one who fears God"* (1:8)
+  and who had said *"the thing which I fear comes on me"* (3:25). See
+  [[None Shall Make You Afraid - The Covenant Blessing of Security]]
 
 ## Related themes
 

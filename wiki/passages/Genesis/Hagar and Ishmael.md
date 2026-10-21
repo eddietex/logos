@@ -430,6 +430,8 @@ years he is, as far as Abram knows, the son.
   unbroken.
 - Isaiah 60:6–7; Jeremiah 49:28–33 — Kedar and Nebaioth, Ishmael's sons, as nations in the prophets.
 - Galatians 4:21–31 — Hagar, Sinai, and the two covenants.
+- [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] — *pereʾ ʾādām*'s only other occurrence,
+  in Zophar's insult at Job 11:12.
 
 ## Notes
 

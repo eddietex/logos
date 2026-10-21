@@ -205,6 +205,11 @@ verdicts.
   blameless and the wicked"* answers Bildad's *"God will not cast away a blameless man"* (8:20),
   and *"the earth is given into the hand of the wicked"* turns the friends' whole picture over.
   *"If not he, then who is it?"* — the prologue's answer is two-sided and Job never hears it.
+- [[Zophar's First Speech]] — Job 11:6, ***"God exacts of you less than your iniquity deserves."*** **The doctrine at
+  its most severe and least falsifiable**: Eliphaz and Bildad read suffering as the measure of sin;
+  Zophar says it *under*measures it, so no loss can ever be too large to count as deserved. The
+  epilogue answers at both ends — Job was wounded *"without cause"* (2:3) and is repaid *"twice as
+  much"* (42:10).
 
 ## Related themes
 

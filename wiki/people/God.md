@@ -1144,6 +1144,13 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   he wounds *ḥinnām* (9:17; God's own word at 2:3) and that he knows Job is not wicked (10:7). See
   [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] and
   [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]].
+- **The God of [[Zophar's First Speech]]** is **a creditor and a cosmos.** He has collected less
+  than Job owes (11:6); he sees iniquity at a glance (11:11); he convenes the court Job said could not
+  be convened (11:10). And he is beyond every measure the world offers — *"high as heaven… deeper than
+  Sheol… longer than the earth, and broader than the sea"* (11:8–9) — which is the one portrait in the
+  friends' speeches God will confirm in his own words (38:16–18). Zophar wishes he would speak
+  (11:5), and he does, against Zophar (42:7). See
+  [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1509,6 +1516,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   and in chapter 10 the maker addressed as *you* for twenty-one verses: framed, fashioned, knit,
   granted *ḥesed*, and suspected of having *"hid these things in your heart"* (10:13). Named *ʾēl*
   and *ʾĕlôah*
+- [[Zophar's First Speech]] — wished for as a speaker (11:5), measured against the four regions of
+  the cosmos (11:7–9), and cast as the creditor who has let Job off part of his debt (11:6). Named
+  *ʾĕlôah* and *Šadday*
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

@@ -339,6 +339,9 @@ the rest of the canon.
 - [[There Is No Umpire Between Us]] — Job 10:18–22; the death wish of chapter 3 put to God as a question, and the land of the
   dead described as the one place left uncreated — *"without any order, where the light is as
   midnight."*
+- [[Zophar's First Speech]] — Job 11:17, 20; *ḥeled*, *lifespan*, promised *"clearer than the noonday"* against
+  10:20's *"Aren't my days few?"*; and the wicked whose only hope is *mappaḥ-nāpeš*, *"the giving up
+  of the spirit"*
 
 ## Related themes
 

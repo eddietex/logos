@@ -60,6 +60,9 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   His second (9–10) is where the dialogue becomes a lawsuit: Bildad is conceded in one line, the
   friends are not addressed again until chapter 12, and Job asks for the trial he says cannot be
   held — *"there is no umpire between us"* (9:33).
+  Zophar's reply (11) closes the friends' first round at its harshest — *"God exacts of you less than
+  your iniquity deserves"* (11:6) — and with its most generous offer, the last future any friend
+  holds out to Job.
 - **15–21 Second cycle** — the same order, the consolations withdrawn, the accusations sharper.
   This is also where the friends stop arguing: chapters 18 and 20 are two set-piece portraits of
   the wicked man's ruin that answer nothing Job has said, and Job settles both at once in
@@ -99,7 +102,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [x] [[The Arrows of the Almighty]] — Job 6:1–7:21
 - [x] [[Bildad's First Speech]] — Job 8:1–22
 - [x] [[There Is No Umpire Between Us]] — Job 9:1–10:22
-- [ ] Zophar's First Speech — Job 11:1–20
+- [x] [[Zophar's First Speech]] — Job 11:1–20
 - [ ] Though He Slay Me — Job 12:1–14:22
 
 ### Second cycle (15–21)
