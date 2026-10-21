@@ -9311,3 +9311,67 @@ Book page: box checked, structure note on the first cycle extended, Tema added t
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 8.1-22 — Bildad's First Speech
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 8:1–22. **Boundary
+and title unchanged** — *Bildad's First Speech*, per the book page's convention that the friends'
+speeches are numbered plainly. No collision with any other book. **Job is at 13 / 32.** No
+discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Bildad's First Speech]], `wiki/passages/Job/`. Built around these findings:
+
+**1. 8:3 is Abraham's question with Abraham's nouns** (*mišpāṭ*, *ṣedeq*; Genesis 18:25), asked
+after the verdict to close the case rather than before it to open one. Job returns the verb
+*ʿāwat* at 19:6 (*"God has subverted me"*); Elihu restates 8:3 at 34:12.
+
+**2. Bildad turns three of Job's words from chapters 6–7**: *wind* (6:26 → 8:2, with the reader
+holding the *"great wind"* of 1:19), *šāḥar* *seek diligently* (7:21, God seeking Job → 8:5, Job
+seeking God), and *māʾas* (7:16 *"I loathe"* → 8:20 *"will not cast away"*). Job answers 8:20 at
+9:21–22 with both of its words, *tām* and *māʾas*.
+
+**3. 8:7 is fulfilled verbatim at 42:12** — *rēʾšît* / *ʾaḥărît*, beginning and latter end — the
+most exact fulfilled prediction any friend makes, and its maker is rebuked first. 8:22 (*"those who
+hate you shall be clothed with shame"*) describes the friends' own position at 42:7–9.
+
+**4. 8:4–6 read as a contrast between the dead and the living**: three conditionals, the children
+beyond help and the father not. The wiki's judgment that 8:4's *if* is not tactful (its conclusion
+is past tense) is recorded in the Notes.
+
+**5. The plants are Nile plants**: *gōmeʾ* (the papyrus of Exodus 2:3) and *ʾāḥû* (the marsh grass of
+Genesis 41:2, 18, an Egyptian loanword). *Spider's web* is *bêt ʿakkābîš*, a spider's *house*, paired
+with 8:15's house that does not stand.
+
+**Judgment calls.** 8:16–19 (the second plant) read as continuing the godless man — majority
+reading — with the minority *contrast* reading recorded in the Notes. No place page created: no place
+is named, and Egypt is evoked only through plant vocabulary; [[Shuah]] is mentioned on the page but
+not revised, since the speech adds nothing to its location. [[God]] not revised — the speech adds
+nothing to the existing Job material there beyond the divine names, which are noted on the passage
+page.
+
+### Connection pages (1 new)
+
+- [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] — the two-ways plant
+  image; shared *mibṭāḥ* with Jeremiah 17:7; Bildad reads the image from effect to cause; Job's three
+  answers (14:7–9, 19:10, 29:19); the chain of plant images through the dialogue.
+
+### Pages created or revised
+
+People (5): [[Bildad the Shuhite]] (new section on the first speech, timeline linked, appears-in,
+two themes), [[Job (person)]] (timeline and appears-in), [[Job's Children]] (timeline linked,
+appears-in), [[Eliphaz the Temanite]], [[Zophar the Naamathite]]. Themes (8): [[Retribution]],
+[[Wisdom]], [[Hope]], [[Integrity]], [[Righteousness]], [[Prayer]], [[Sin]], [[Suffering]].
+Connections revised (4): [[Shall Not the Judge of All the Earth Do Right]] (Bildad's use of the
+question), [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] (8:7 against
+42:12, and 8:22), [[The Prosperity of the Wicked]] (8:11–19 as the first sketch),
+[[Comforters Who Do Not Comfort]] (8:21–22). Passages revised (2): [[Bildad's Second Speech]] (plain
+*Job 8:1–22* now linked), [[The Arrows of the Almighty]] (forward cross-reference). Book page: box
+checked. Indexes: books (13 / 32), connections (+1 row), `wiki/index.md` (72 passages,
+227 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

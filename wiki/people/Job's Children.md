@@ -37,7 +37,7 @@ details in Scripture.
   [[The Wager in Heaven and the Four Messengers]].
 - **Job 8:4** — Bildad: *"If your children have sinned against him, he has delivered them into the
   hand of their disobedience."* The friends' theology applied to ten dead young people, offered as
-  consolation.
+  consolation. See [[Bildad's First Speech]].
 - **Job 18:19** — Bildad a second time, and this time without naming them: *"He shall have neither
   son nor grandson among his people, nor any remaining where he lived"*, listed among the standard
   fittings of a wicked man's ruin. See [[Bildad's Second Speech]].
@@ -96,6 +96,13 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   near their deaths. Eliphaz never says *your children*; Bildad will, at 8:4. The same speech's
   promise of *"offspring … as the grass of the earth"* (5:25) is kept at 42:13–16 — and is not a
   promise of these children back.
+- [[Bildad's First Speech]] — 8:4, **the first time anyone in the dialogue mentions them, and they
+  are mentioned as proof.** *Bəyad-pišʿām*, *into the hand of their disobedience*, makes their own
+  transgression the agent that killed them — two verses after Bildad has called Job's words *"a mighty
+  wind"* (8:2), in a book whose reader knows a *"great wind"* brought the house down on them (1:19).
+  The *if* of the verse is real grammar and no comfort: its conclusion is already in the past tense.
+  And the speech's one kindness depends on them — the dead are beyond help, the living father is not
+  (8:5–7).
 - [[Bildad's Second Speech]] — 18:19, the second use of their deaths as evidence, now anonymous.
 - [[I Know That My Redeemer Lives]] — 19:17, and the empty place their absence leaves where a
   *gōʾēl* would have to stand.

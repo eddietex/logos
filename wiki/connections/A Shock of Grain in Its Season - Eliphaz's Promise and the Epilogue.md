@@ -19,7 +19,8 @@ tags: [connection]
 - **Job 42:10–17** — Job's restoration: *"Yahweh gave Job twice as much as he had before"*, fourteen
   thousand sheep, seven sons and three daughters, a hundred and forty years, four generations, and
   *"So Job died, being old and full of days."*
-- **Job 8:5–7; 11:13–19** — Bildad's and Zophar's shorter versions of the same conditional promise
+- **Job 8:5–7; 11:13–19** — Bildad's and Zophar's shorter versions of the same conditional promise;
+  Bildad's is [[Bildad's First Speech]]
 - **Job 22:21–30** — Eliphaz's last version of it, in his third speech
 
 ## Analysis
@@ -40,6 +41,17 @@ Job did commit his cause to God (5:8) — more literally and more aggressively t
 lawsuit, demanding a hearing and an umpire. He never accepted the correction, because there was
 nothing to correct. And the restoration came anyway, after God had said Job *"spoke rightly"* and
 Eliphaz did not. **The friends' theology predicted the ending and misidentified its cause.**
+
+**Bildad's short version is the most exactly fulfilled of all.** *"Though your beginning
+(rēʾšîtkā) was small, yet your latter end (ʾaḥărîtkā) would greatly increase"* (8:7). The epilogue:
+*"So Yahweh blessed the latter end (ʾaḥărît) of Job more than his beginning (rēʾšît)"* (42:12). The
+same two nouns, the same contrast, the same direction — Eliphaz's promise is fulfilled item by item,
+but Bildad's is fulfilled in its own words. And its condition is the same as Eliphaz's and fails the
+same way: *"If you want to seek God diligently… If you were pure and upright"* (8:5–6). Job was
+already *yāšār*, upright (1:1), and he did seek God, as a litigant rather than a penitent. Bildad's
+closing line is fulfilled too, with an irony he could not see: *"Those who hate you shall be clothed
+with shame"* (8:22) — and at 42:7–9 the men who must be covered by Job's prayer are the three
+friends.
 
 **5:1 is reversed exactly.** *"To which of the holy ones will you turn?"* — Eliphaz's dismissal of
 the idea that anyone could intercede for Job. In 42:8 God sends Eliphaz to find an intercessor for

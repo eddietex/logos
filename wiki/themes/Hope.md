@@ -151,6 +151,10 @@ is close because you cannot bear to sit in the dark with him.
   are swifter than a weaver's shuttle, and are spent without hope"* — turns on the noun's other
   sense: *tiqwâ* is also a *cord* (Joshua 2:18), and the shuttle has run to the end of the thread.
   Job's consolation in the same speech is not hope but integrity (6:10)
+- [[Bildad's First Speech]] — Job 8:13, *"The hope of the godless man shall perish"*; **the noun Job
+  had just declared spent (7:6), made a mark of the godless.** The papyrus without water is its image.
+  Job's answer comes at 14:7 — *"there is hope for a tree"* — and grants the plant a second life Bildad
+  did not give it. See [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]].
 
 ## Related themes
 

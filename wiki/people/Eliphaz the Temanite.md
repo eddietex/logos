@@ -122,6 +122,11 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   of your ways your hope?"* (4:6) — answer 3:25's *"the thing which I fear comes on me"* as though it
   were a theological error rather than a confession. **He is the first person in the book to hear a
   lament and reply to an argument**, and the other two follow him
+- [[Bildad's First Speech]] — Job 8:1–22, silent; **his argument repeated in a harder voice.** He had
+  asked *"who ever perished, being innocent?"* (4:7) and let the fool's children be *"crushed in the
+  gate"* (5:4) without naming Job's; Bildad names them (8:4). His warrant was a night vision; Bildad's
+  is the fathers. And his next speech opens on Bildad's image — *"Should a wise man… fill himself
+  with the east wind?"* (15:2), after Bildad's *"mighty wind"* (8:2).
 
 ## Related people
 

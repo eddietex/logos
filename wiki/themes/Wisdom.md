@@ -136,6 +136,11 @@ close to the book's whole point about who may speak for the tradition. See
   consensus (*"we have searched it, so it is"*, 5:27). And 5:13, *"He takes the wise in their own
   craftiness"*, which Paul quotes as Scripture and which the book turns on its speaker. See
   [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]]
+- [[Bildad's First Speech]] — Job 8:8–10, **wisdom as inheritance, and the brevity of life as its
+  warrant.** *"We are but of yesterday, and know nothing, because our days on earth are a shadow"*:
+  one lifetime is too short to see the pattern, so ask the fathers, who saw more of it. Job shares the
+  premise and draws the opposite conclusion (7:6–7), and the parenthesis is the speech's one
+  accidentally true line — none of the men on the ash heap knows what was said in the council.
 
 ## Related themes
 

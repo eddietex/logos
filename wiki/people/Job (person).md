@@ -105,6 +105,10 @@ speeches; each becomes a linked passage page as it is ingested.
   erred"* (6:24), the weaver's shuttle (7:6), and then **his first words to God** — *"Oh remember that
   my life is a breath"* (7:7) — ending in Psalm 8 reversed (7:17–18) and *"why do you not pardon my
   disobedience?"* (7:21).
+- **Job 8:1–22** — [[Bildad's First Speech]]. Told that God does not pervert justice, that his
+  children were *"delivered … into the hand of their disobedience"* (8:4), that if he seeks God
+  early and is *"pure and upright"* his latter end will greatly increase (8:5–7), and that God will
+  not cast away a blameless man (8:20) — his own words *tām* and *yāšār*, set as conditions.
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
   umpire between us"* at 9:33.
@@ -181,6 +185,14 @@ speeches; each becomes a linked passage page as it is ingested.
   denied the words of the Holy One"* (6:10). See
   [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] and
   [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]].
+- [[Bildad's First Speech]] — Job 8:1–22, silent and addressed throughout, **and offered as
+  conditions the two things the narrator and God have already said he is**: *"if you were pure and
+  upright"* (8:6), *"God will not cast away a blameless man"* (8:20). His last words to God are taken
+  and turned: God seeking him *diligently* (7:21) becomes him seeking God *diligently* (8:5), and his
+  *"I loathe my life"* (7:16) becomes the verb of God's not rejecting the blameless. His reply in
+  chapter 9 completes the syllogism with both words: *"I am blameless… I despise my life… he destroys
+  the blameless and the wicked"* (9:21–22). And Bildad's *"your latter end would greatly increase"*
+  (8:7) is what 42:12 says happened to him, nearly word for word.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the

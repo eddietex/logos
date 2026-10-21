@@ -283,6 +283,8 @@ missing him.
 
 ## Cross-references
 
+- [[Bildad's First Speech]] — Job 8, the reply, which takes this speech's *wind* (6:26), its *seek
+  diligently* (7:21), and its *I loathe* (7:16) and turns each of them back on Job.
 - [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] — the parody, with Psalm 144:3–4
   and Hebrews 2:6–9.
 - [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] — *nāśāʾ* and *ʿābar*

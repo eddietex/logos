@@ -104,6 +104,9 @@ than his iniquity deserves. The reader knows which of the two is right.
   whose plea for pity (19:21) he ignores.
 - [[Bildad's Second Speech]] — the speech his own repeats in different imagery, with a matching
   closing formula.
+- [[Bildad's First Speech]] — Job 8:1–22, silent; the speech his own first one (chapter 11) follows
+  after Job's reply, with the same shape — a rebuke for Job's words, the claim that God's wisdom is
+  beyond him, and a closing offer of restoration on condition of repentance.
 
 ## Related people
 

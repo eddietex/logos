@@ -167,6 +167,11 @@ already did.
   that my life is a breath"* — and from 7:12 every *you* is God's. Its petitions are to be
   remembered, to be let alone (7:16, 19), and to be told why he is not forgiven (7:21, in Exodus
   34's vocabulary). **The friends, who speak about God for twenty-nine chapters, never once pray**
+- [[Bildad's First Speech]] — Job 8:5–6; **the friends' first instruction to pray, given to a man who
+  had started praying fifteen verses earlier.** *"If you want to seek God diligently (təšaḥēr), make
+  your supplication to the Almighty"* — the verb Job had just used of God seeking *him* (7:21). And
+  the promise that God *"would awaken for you"* borrows the lament psalms' *"Wake up!"* (Psalm 44:23)
+  as a guarantee rather than a plea.
 
 ## Related themes
 

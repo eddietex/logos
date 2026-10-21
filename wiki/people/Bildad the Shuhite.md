@@ -30,7 +30,27 @@ uses the word as a place name at all.
 
 ## In the ingested passages
 
-Bildad's second speech is now ingested as [[Bildad's Second Speech]], and it is the fullest sample
+His first speech is ingested as [[Bildad's First Speech]], and it is the shape of everything he will
+say. **One question, asked to close a case:** *"Does God pervert justice? Or does the Almighty
+pervert righteousness?"* (8:3) — Abraham's question at Sodom (Genesis 18:25), used not as a lever
+but as a lid. **One application:** the children died, so they sinned (8:4). **One offer:** Job is
+still alive, so he still has time — seek God early, be pure and upright, and *"your latter end would
+greatly increase"* (8:5–7). **One authority:** the fathers, because *"we are but of yesterday, and
+know nothing"* (8:8–10). **One image:** the papyrus that withers without water (8:11–19). **And one
+verdict:** *"God will not cast away a blameless man"* (8:20).
+
+Three things about it reach further than the speech. **He listens to Job closely and turns his words
+round.** *Seek diligently* (8:5) is the verb of Job's last line to God, *"You will seek me
+diligently, but I shall not be"* (7:21); *cast away* (8:20) is Job's *"I loathe my life"* (7:16);
+*a mighty wind* (8:2) is Job's own description of a desperate man's words (6:26). Chapter 18's
+reversal of *tear* (18:4 against 16:9) is the same habit, already formed. **His prediction comes
+true.** *"Your latter end would greatly increase"* is the most exactly fulfilled sentence any friend
+speaks — *"Yahweh blessed the latter end of Job more than his beginning"* (42:12), the same two
+nouns — and he is rebuked by God before it happens. **And his last line describes his own fate.**
+*"Those who hate you shall be clothed with shame"* (8:22): at 42:7–9 the men who must be covered by
+Job's prayer are the three friends.
+
+His second speech is ingested as [[Bildad's Second Speech]], and it is the fullest sample
 of him the wiki has. Four verses of irritation, seventeen verses on the fate of the wicked, and no
 reply of any kind to what Job had just said — not to the witness in heaven, not to the demand for a
 pledge, not to *"there is no violence in my hands"*, and not to the plea of a dying man. Chapter 8
@@ -75,8 +95,9 @@ book, and Bildad's name survives inside them.
 - **Job 2:11–13** — [[Seven Days of Silence]]. Comes from [[Shuah]] by arrangement with the other
   two, fails to recognise Job, weeps, tears his robe, throws dust over his head, and sits on the
   ground seven days and seven nights without speaking.
-- **Job 8:1–22** — the first speech: God does not pervert justice; your children got what they
-  earned; inquire of past generations; the hypocrite's hope perishes.
+- **Job 8:1–22** — [[Bildad's First Speech]]: God does not pervert justice; your children got what
+  they earned; seek God and your latter end will increase; inquire of past generations; the papyrus
+  without water; God will not cast away a blameless man.
 - **Job 15–17** — silent, but included in Eliphaz's *"we"* and in Job's *"you all"*.
 - **Job 18:1–21** — [[Bildad's Second Speech]]. Twenty-one verses on the fate of the wicked: the
   lamp put out, six snares in four verses, the firstborn of death, the march to the king of terrors,
@@ -100,6 +121,9 @@ book, and Bildad's name survives inside them.
   and are afraid"*, *"Teach me"*, *"Please return."* Job's *"my brothers have dealt deceitfully as a
   brook"* (6:15) is the first time he indicts the three together, and Bildad's reply opens on it:
   *"How long will you speak these things? Shall the words of your mouth be a mighty wind?"* (8:2).
+- [[Bildad's First Speech]] — Job 8:1–22, his own and his first: the children named as proof (8:4),
+  the conditional offer of restoration (8:5–7) that chapter 18 withdraws, the fathers (8:8–10), and
+  the papyrus (8:11–19). See [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]].
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.
@@ -118,6 +142,8 @@ book, and Bildad's name survives inside them.
 ## Themes associated
 
 - [[Retribution]] — stated in its purest and most pitiless form at 8:3–4.
+- [[Integrity]] — *tām* and *yāšār* (8:6, 20), the narrator's words for Job, offered as conditions.
+- [[Prayer]] — 8:5, the friends' first instruction to pray.
 - [[Wisdom]] — as pure inheritance: *"we are but of yesterday, and know nothing"* (8:9).
 - [[Sin]] — 25:4–6, the third and most extreme of the book's *"what is man"* statements; see
   [[What Is Man That He Should Be Clean]].

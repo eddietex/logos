@@ -143,6 +143,11 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   hope (4:6); Job says it is the one thing he can die holding. In the same speech he swears to the
   friends' faces that he will not lie (6:28) and says *"my cause is righteous"* (6:29) — the
   beginnings of the oath of chapter 27 and the defence of chapter 31
+- [[Bildad's First Speech]] — Job 8:6, 20; **the narrator's two words for Job in 1:1, set as
+  conditions.** *"If you were pure and upright (yāšār)"*; *"God will not cast away a blameless (tām)
+  man."* Bildad offers as an *if* what the reader has been told three times is a fact, and Job
+  completes the syllogism with Bildad's own words: *"I am blameless… I despise my life… he destroys
+  the blameless and the wicked"* (9:21–22).
 
 ## Related themes
 

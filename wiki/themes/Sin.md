@@ -226,6 +226,10 @@ has been argued.
   1:5. And *"If I have sinned, what do I do to you?… Why do you not pardon my disobedience?"* is the
   first time Job uses the vocabulary of sin of himself, and it is conditional. See
   [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]]
+- [[Bildad's First Speech]] — Job 8:4; ***"he has delivered them into the hand of their
+  disobedience (pišʿām)."*** **Sin as the agent of a death, inferred from the death.** No act of the
+  children's is named, here or anywhere; their transgression is deduced from a collapsed house, and
+  the reader knows the house fell for another reason.
 
 ## Related themes
 

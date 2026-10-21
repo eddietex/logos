@@ -30,7 +30,7 @@ tags: [connection]
 - **Ezekiel 18:1–32** — *"The soul who sins, he shall die. The son shall not bear the iniquity of
   the father."*
 - **Job 8:3; 9:22–24; 34:10–19** — the question asked at book length: *"Does God pervert justice?"*
-  and *"He destroys the blameless and the wicked."*
+  and *"He destroys the blameless and the wicked."* See [[Bildad's First Speech]].
 - **Romans 3:5–6** — *"Is God unrighteous who inflicts wrath? … For then how will God judge the
   world?"*
 - **Genesis 22:1–3** — the same man, four chapters later, given a command about his own son and
@@ -113,6 +113,13 @@ priest and not a king, but someone God has spoken to.
 - **Job** does it from the other side, as the innocent party rather than the advocate, and gets no
   concession at all — which is what makes his book the hardest test of Abraham's premise. *"He
   destroys the blameless and the wicked"* (9:22) is Genesis 18:25 denied.
+- **Bildad** asks Abraham's question with Abraham's pair of nouns — *"Does God pervert justice
+  (mišpāṭ)? Or does the Almighty pervert righteousness (ṣedeq)?"* (Job 8:3) — and turns it inside
+  out. Abraham asked it *before* the verdict, to hold God to a standard where the innocent were at
+  risk. Bildad asks it *after* the verdict, to prove the dead children guilty (8:4). **The same
+  sentence is a lever in Genesis and a lid in Job.** Job's reply takes Bildad's verb, *ʿāwat*, and
+  says what the question forbids: *"God has subverted me"* (19:6). Elihu restates Bildad at 34:12,
+  and God, at 42:7, sides with the man who said it had happened.
 - **Paul** uses the sentence as a premise rather than a plea. *"For then how will God judge the
   world?"* (Romans 3:6) assumes that God's judging the world is fixed and that anything implying he
   is unjust must therefore be false — the same move Abraham makes, in a syllogism instead of a

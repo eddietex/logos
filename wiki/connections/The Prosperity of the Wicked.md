@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- **Job 8:11–19** — Bildad's first sketch, before the cycle of full portraits: the papyrus that
+  withers without water, the trust that is a spider's web — [[Bildad's First Speech]]
 - **Job 15:20–35** — Eliphaz: *"The wicked man writhes in pain all his days"* —
   [[Eliphaz's Second Speech]]
 - **Job 18:5–21** — Bildad: the lamp put out, the six snares, the erased name —

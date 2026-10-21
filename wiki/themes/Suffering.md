@@ -193,6 +193,10 @@ requires only that you be standing outside it.
   (7:3), the book's only clue to how long it has lasted. And it has an author: chapter 3 named God
   once in passing (3:23); here he is the archer, and Job the target. Job's complaint is not that God
   is absent but that he will not look away (7:19)
+- [[Bildad's First Speech]] — Job 8:1–22; **suffering read backwards from its outcome.** The dead
+  must have sinned (8:4); the living sufferer is being given time (8:5–7). The speech divides the
+  household into the condemned and the still-redeemable, and offers the survivor his life back on
+  condition he accept his children's verdict.
 
 ## Related themes
 

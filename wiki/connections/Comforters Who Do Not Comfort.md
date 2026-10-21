@@ -16,6 +16,9 @@ tags: [connection]
 - **Job 42:11** — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
   brothers have dealt deceitfully as a brook"* — [[The Arrows of the Almighty]]
+- **Job 8:21–22** — *"He will still fill your mouth with laughter, your lips with shouting"*: the
+  gentlest close any friend gives a speech, after its cruellest opening (8:4) —
+  [[Bildad's First Speech]]
 - **Job 13:4–5** — *"you are all worthless physicians. Oh that you would be completely silent!"*
 - **Genesis 37:35** — Jacob *"refused to be comforted"* — [[Joseph Sold into Slavery]]
 - **Psalm 69:20** — *"I looked for some to take pity, but there was none; for comforters, but I found

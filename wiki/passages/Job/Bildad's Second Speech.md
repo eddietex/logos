@@ -187,7 +187,7 @@ world"* (18:18).
   tree (19:10), and his erased name (19:23–24) in turn.
 - [[Zophar's Second Speech]] — Job 20, the same argument again with a different set of images.
 - [[Eliphaz's Second Speech]] — Job 15:20–35, the catalogue of the wicked that Bildad is repeating.
-- Job 8:1–22 — Bildad's first speech, with the same opening formula and the same use of Job's
+- [[Bildad's First Speech]] — Job 8:1–22, with the same opening formula and the same use of Job's
   children.
 - Job 16:9 — *"He has torn me in his wrath"*, the verb 18:4 turns back on Job.
 - Job 14:7–9, 18 — *"there is hope for a tree"*, which if cut down will sprout again, and *"The

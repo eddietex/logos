@@ -189,6 +189,10 @@ about.
   verb Job will take up at 9:2, *"how can man be just with God?"*, and turn from a rebuke into a
   legal problem: not whether a man can be righteous, but whether he can be *found* righteous by a
   God he cannot summon to court
+- [[Bildad's First Speech]] — Job 8:3, *"Does God pervert justice (mišpāṭ)? Or does the Almighty
+  pervert righteousness (ṣedeq)?"* **Abraham's pair from Genesis 18:19, 25, and Abraham's question,
+  asked to close a case rather than to open one.** Job's answer at 19:6 reuses the verb: *"God has
+  subverted (ʿiwwətānî) me."* See [[Shall Not the Judge of All the Earth Do Right]].
 
 ## Related themes
 

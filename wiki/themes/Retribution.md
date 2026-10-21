@@ -195,6 +195,12 @@ verdicts.
   nothing keeps it from happening to them; the doctrine is a wall around the men who hold it as much
   as an explanation of the man it is applied to. Job asks to be shown his fault (6:24) and nobody
   shows him one
+- [[Bildad's First Speech]] — Job 8:3–7, 20; **the doctrine as a five-verse syllogism.** God does
+  not pervert justice (8:3); therefore the dead children sinned (8:4); therefore a pure man who seeks
+  God will be restored (8:5–7). **The children are its first casualties in the dialogue**, named as
+  proof by the first friend willing to name them. And its promise comes true verbatim — *"your latter
+  end would greatly increase"* (8:7) against *"Yahweh blessed the latter end of Job more than his
+  beginning"* (42:12) — for a reason the doctrine cannot supply.
 
 ## Related themes
 

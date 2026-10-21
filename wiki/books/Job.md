@@ -94,7 +94,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [x] [[Eliphaz's First Speech]] — Job 4:1–5:27
 - [x] [[The Arrows of the Almighty]] — Job 6:1–7:21
-- [ ] Bildad's First Speech — Job 8:1–22
+- [x] [[Bildad's First Speech]] — Job 8:1–22
 - [ ] There Is No Umpire Between Us — Job 9:1–10:22
 - [ ] Zophar's First Speech — Job 11:1–20
 - [ ] Though He Slay Me — Job 12:1–14:22
