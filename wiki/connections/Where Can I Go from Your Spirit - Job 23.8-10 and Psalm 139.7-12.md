@@ -17,11 +17,11 @@ tags: [connection]
   morning, and test him every moment? … you watcher of men"* — [[The Arrows of the Almighty]]
 - **Job 9:11** — *"Behold, he goes by me, and I don't see him. He passes on also, but I don't perceive
   him."* — [[There Is No Umpire Between Us]]
-- **Job 13:24** — *"Why do you hide your face, and consider me your enemy?"* — [[Though He Slay Me]]
+- **Job 13:24** — *"Why hide you your face, and hold me for your enemy?"* — [[Though He Slay Me]]
 - **Psalm 139:1–12** *(not yet ingested)* — *"Yahweh, you have searched me, and you know me … Where
   could I go from your Spirit? Or where could I flee from your presence? If I ascend up into heaven,
   you are there. If I make my bed in Sheol, behold, you are there! If I take the wings of the dawn,
-  and settle in the uttermost parts of the sea, even there your hand will lead me … the darkness
+  and settle in the uttermost parts of the sea; Even there your hand will lead me … the darkness
   doesn't hide from you"*
 - **Psalm 139:23–24** *(not yet ingested)* — *"Search me, God, and know my heart. Try me, and know my
   thoughts"*
@@ -29,8 +29,8 @@ tags: [connection]
   Carmel or at the bottom of the sea, and are found
 - **Jeremiah 23:23–24** *(not yet ingested)* — *"Am I a God at hand … and not a God afar off? Can
   anyone hide himself in secret places so that I can't see him? … Don't I fill heaven and earth?"*
-- **Isaiah 45:15** *(not yet ingested)* — *"Most certainly you are a God who hides yourself, God of
-  Israel, the Savior."*
+- **Isaiah 45:15** *(not yet ingested)* — *"Most certainly you are a God who has hidden yourself,
+  God of Israel, the Savior."*
 
 ## Analysis
 
@@ -72,5 +72,6 @@ does not see; it is that seeing and answering have come apart.
 - The shared *bāḥan* makes the parallel more than thematic: both texts end in a man submitting
   himself, willingly or not, to God's assay. See
   [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] and [[Testing]].
-- Isaiah 45:15's *"a God who hides yourself … the Savior"* holds the two together in one line, and is
-  the nearest the Hebrew Bible comes to Job's position stated as confession rather than complaint.
+- Isaiah 45:15's *"a God who has hidden yourself … the Savior"* holds the two together in one
+  line, and is the nearest the Hebrew Bible comes to Job's position stated as confession rather than
+  complaint.

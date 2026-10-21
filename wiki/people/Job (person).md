@@ -157,6 +157,10 @@ speeches; each becomes a linked passage page as it is ingested.
   way that I take. When he has tried me, I shall come out like gold"* (23:10); and is terrified
   (23:15–16). Then describes the poor, the robbed and the night's criminals, all unpunished, and
   dares the friends to prove him a liar (24:25).
+- **Job 25:1–6** — [[Bildad's Third Speech]]. Not addressed at all: six verses with no *you* in them,
+  his own 9:2 quoted back in the same Hebrew with its lawsuit sense removed, his dread (23:15) made an
+  attribute of God (25:2), and his worm (7:5; 17:14) made a definition of man (25:6). The last word
+  any friend speaks.
 - **Job 22–31** — the third cycle collapsing, the hymn to wisdom, and Job's closing oath of
   innocence, in which he calls down curses on himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
@@ -289,6 +293,12 @@ speeches; each becomes a linked passage page as it is ingested.
   others in the open (24:2–11), and his answer to Eliphaz's *"What does God know?"* (22:13) is that
   God sees them — *"His eyes are on their ways"* (24:23) — and does not put them down (24:12). See
   [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
+- [[Bildad's Third Speech]] — Job 25:1–6; **spoken past him.** His dare (24:25) is met with a hymn and
+  a definition of man, and none of his cases is mentioned. **Each of Bildad's lines takes something of
+  Job's and reverses it**: *"how can man be just with God?"* (9:2) at 25:4, the *paḥad* of 23:15 at
+  25:2, God's *troops* encamped around his tent (19:12) as an uncountable host at 25:3, and the worm
+  he used of his sores and his grave (7:5; 17:14; 21:26; 24:20) as what a living man is (25:6). See
+  [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
 
 ## Related people
 

@@ -111,6 +111,11 @@ Genesis 1 sets four load-bearing claims:
   the life of every living thing, and the breath of all mankind"* (12:9–10, Genesis 2:7's *nepeš* and
   6:17's *rûaḥ*). Then the waters withheld and sent to overturn the earth (12:15), and the chiefs led
   into *tōhû* (12:24), Genesis 1:2's formless waste. And *"the work of your hands"* (14:15)
+- [[Bildad's Third Speech]] — Job 25:2–3, 5–6; **Psalm 8's order of creation, inverted.** Moon and
+  stars, then *man*, then *son of man* — the psalm's sequence (8:3–4) — ending not in a crown but in a
+  worm. *"He makes peace in his high places"* (25:2) presupposes the cosmic conflict Job's poetry knows
+  (Rahab, 9:13; 26:12). The whirlwind will give the stars another character: they *sang* (38:7). See
+  [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]].
 
 ## Related themes
 

@@ -11,7 +11,7 @@ tags: [connection]
   him, that you should visit him every morning, and test him every moment?"* —
   [[The Arrows of the Almighty]]
 - **Psalm 8:3–8** — *"What is man, that you think of him? What is the son of man, that you care for
-  him? For you have made him a little lower than God, and crowned him with glory and honor. You make
+  him? For you have made him a little lower than the angels, and crowned him with glory and honor. You make
   him ruler over the works of your hands"*
 - **Psalm 144:3–4** — *"Yahweh, what is man, that you care for him? Or the son of man, that you
   think of him? Man is like a breath. His days are like a shadow that passes away."*
@@ -22,6 +22,8 @@ tags: [connection]
   of death"*
 - **Job 15:14; 25:4–6** — the friends' *what is man* —
   [[What Is Man That He Should Be Clean]]
+- **Job 25:5–6** — moon and stars, *man*, *son of man*, in Psalm 8's order, ending in a worm —
+  [[Bildad's Third Speech]]
 
 ## Analysis
 
@@ -72,9 +74,17 @@ smallness for granted and asks why God bothers. **The friends say man is too low
 says man is too small to be worth all this surveillance.** Psalm 8 says man is small and crowned.
 Nobody in the dialogue says that.
 
+**Bildad's last speech runs the psalm's sequence to the bottom.** Psalm 8:3–4 goes from *"the moon and
+the stars, which you have ordained"* to *ʾĕnôš* (*man*) to *ben-ʾādām* (*the son of man*). Job 25:5–6
+goes from *"even the moon has no brightness, and the stars are not pure in his sight"* to *ʾĕnôš* to
+*ben-ʾādām* — the same four terms in the same order — and its predicate is *worm*, twice. **So Psalm 8
+is parodied twice in Job, from opposite sides**: Job reads its attention as surveillance (7:17–18),
+Bildad reads its heavens as a scale on which man comes last (25:5–6). Neither keeps the crown. See
+[[Bildad's Third Speech]] and [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
+
 **Hebrews 2:5–9 puts suffering inside Psalm 8.** Hebrews quotes the psalm's *what is man* and its
-crowning, observes that *"we don't see all things subjected to him yet"*, and then: *"But we see
-him who has been made a little lower than the angels, Jesus, because of the suffering of death,
+crowning, observes that *"we don't see all things subjected to him, yet"*, and then: *"But we see
+him who has been made a little lower than the angels, Jesus, because of the suffering of death
 crowned with glory and honor."* Hebrews does not cite Job and is not answering him. But it does the
 thing neither the psalm nor Job does: it holds the glory and the suffering together in a single
 human being, and makes the suffering the road to the crown. **Psalm 8 had the crown without the

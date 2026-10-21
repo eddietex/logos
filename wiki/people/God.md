@@ -1216,6 +1216,12 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   them security (24:22–23), and does not *put down* the outrage of the poor (24:12, *tiplâ*, the word
   of 1:22). He is never addressed in the speech; Job says *he* throughout and *you* not once. See
   [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]].
+- **The God of [[Bildad's Third Speech]]** is defined by distance. *"Dominion and fear are with
+  him. He makes peace in his high places. Can his armies be counted? On whom does his light not
+  arise?"* (25:2–3) — sovereignty, dread, a peace settled in the heights, an uncountable host, and a
+  light that reaches everyone — and before him the moon is dim and the stars impure (25:5). Every line
+  is orthodox, and none of it touches the man on the ash heap; it is the last portrait of God the
+  friends offer, and the one God answers at 42:7.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1571,6 +1577,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Oh That I Knew Where I Might Find Him]] — not to be found in any direction (23:8–9), yet knowing
   Job's way and assaying him (23:10); keeping no days of judgment (24:1), and seeing the wicked
   without charging them (24:12, 23)
+- [[Bildad's Third Speech]] — ruling, dreaded, making peace in the heights, attended by uncountable
+  troops, his light rising on all (25:2–3); before him even the moon has no brightness (25:5)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

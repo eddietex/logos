@@ -124,6 +124,10 @@ These are not exclusive, and the third is the one the text argues for by itself.
   **The friends' anthropology (4:17–19) granted, and turned into a reason for God to look away**
   (14:6). The Septuagint expands it — *"not even if his life on earth be one day"* — and in that form
   it became a patristic text on inherited sin. See [[What Is Man That He Should Be Clean]]
+- [[Bildad's Third Speech]] — Job 25:4–5; *zākâ* and *zakkû*, *be clean* and *are not pure*,
+  **purity applied to the moon and stars** — which no law of purity covers — so that it can then be
+  denied to *"he who is born of a woman"*. The third and last of the friends' purity a-fortioris
+  (4:17–19; 15:14–16). See [[What Is Man That He Should Be Clean]]
 
 ## Related themes
 

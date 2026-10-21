@@ -218,6 +218,10 @@ about.
   should be delivered forever from my judge."* Righteousness as a case that would win if it could be
   heard — and, for the first time, without the umpire Job thought he needed in chapter 9. In chapter
   24 the righteous are *"those who know him"* who never *"see his days"* (24:1).
+- [[Bildad's Third Speech]] — Job 25:4; *"How then can man be just (yiṣdaq) with God?"* — **Job's
+  9:2 in the same Hebrew, with the lawsuit taken out of it.** Job asked whether a man could win his
+  case against God, and by 23:7 thought the upright might; Bildad turns *be in the right* into *be
+  clean* (the second half of the verse) and so answers a question Job had not asked.
 
 ## Related themes
 

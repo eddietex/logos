@@ -24,7 +24,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Job 22:15–17 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
-| [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 |
+| [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 · Job 9:2 (at 25:4) |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
 | [[Do Not Cover My Blood]] | allusion | Genesis 4:10–11 · Job 16:18 · Leviticus 17:13 · Deuteronomy 21:1–9 · Isaiah 26:21 · Ezekiel 24:6–8 · Hebrews 12:24 · Revelation 6:9–10 |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 |
@@ -210,7 +210,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
-| [[The Divine Council]] | thread | Job 1:6; 2:1 · Job 38:7 · Genesis 1:26; 6:1–4 · 1 Kings 22:19–23 · Psalm 82 · Psalm 89:5–7 · Deuteronomy 32:8 · Isaiah 6:1–8 · Zechariah 3:1–5 · Daniel 7:9–10 · Revelation 4–5 · Job 11:5–6 |
+| [[The Divine Council]] | thread | Job 1:6; 2:1 · Job 38:7 · Genesis 1:26; 6:1–4 · 1 Kings 22:19–23 · Psalm 82 · Psalm 89:5–7 · Deuteronomy 32:8 · Isaiah 6:1–8 · Zechariah 3:1–5 · Daniel 7:9–10 · Revelation 4–5 · Job 11:5–6 · Job 25:2–3 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] | thread | Job 1:21 · Ecclesiastes 5:15 · Psalm 49:16–17 · 1 Timothy 6:7 · Genesis 3:19 · Luke 12:16–21 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 35 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
@@ -227,7 +227,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |
-| [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 |
+| [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 · Job 25:5–6 |
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
@@ -248,3 +248,4 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] | thread | Job 22:2–4, 21 · Job 1:8–9; 2:3 · Job 7:20 · Job 21:15 · Job 35:6–8 · Job 41:11 · Romans 11:35 · Luke 17:10 |
 | [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] | literary-parallel | Job 23:3, 8–10 · Job 7:17–20 · Job 9:11 · Job 13:24 · Psalm 139:1–12, 23–24 · Amos 9:2–4 · Jeremiah 23:23–24 · Isaiah 45:15 |
 | [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] | thread | Job 23:10 · Job 7:18 · Job 1:12; 2:6 · Job 22:24–25 · Job 28:1, 15–19 · Psalm 66:10 · Proverbs 17:3 · Zechariah 13:9 · Malachi 3:2–3 · Isaiah 48:10 · 1 Peter 1:6–7 · James 1:2–4, 12; 5:11 |
+| [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]] | image | Job 25:5–6 · Job 7:5 · Job 17:14 · Job 21:26 · Job 24:20 · Psalm 22:1, 6 · Matthew 27:46 · Isaiah 41:14 · Isaiah 66:24 · Mark 9:48 · Acts 12:23 |

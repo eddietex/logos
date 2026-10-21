@@ -101,6 +101,9 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   (23:12), his gold in the wadi by *"I shall come out like gold"* (23:10), his invented charges by
   real oppressors (24:2–11), and his *"What does God know?"* by *"His eyes are on their ways"*
   (24:23).
+- **Job 25:1–6** — his anthropology repeated by Bildad as the friends' last word in
+  [[Bildad's Third Speech]]: *"born of a woman … clean"* is his 15:14, and the descent from heaven to
+  man is his 4:17–19 and 15:15–16, now without the night vision and ending in a worm.
 - **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job.
 
 ## Appears in
@@ -175,6 +178,9 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   answered without his name being used — the words treasured (23:12 against 22:22), the gold (23:10
   against 22:24–25), the charge sheet given real defendants (24:2–11), and a God who sees in the dark
   (24:23 against 22:13).
+- [[Bildad's Third Speech]] — Job 25, silent; his *"What is he who is born of a woman, that he
+  should be righteous?"* (15:14) reused at 25:4, and his a-fortiori from the heavens (4:17–19;
+  15:15–16) carried down to its last step. See [[What Is Man That He Should Be Clean]].
 - [[Why Do the Wicked Live]] — Job 21, answering the second cycle's three portraits, his first among
   them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
   and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See

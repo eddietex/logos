@@ -123,6 +123,9 @@ than his iniquity deserves. The reader knows which of the two is right.
 - **Job 23–24** — silent through [[Oh That I Knew Where I Might Find Him]]. On one textual hypothesis
   24:18–24, which sounds like the friends rather than Job, is a fragment of his missing third
   speech; the wiki records the hypothesis and reads the verses as Job's.
+- **Job 25:1–6** — silent through [[Bildad's Third Speech]], where his turn should follow and does
+  not. **He has no third speech**; whether that is design or damage (27:13–23 is the usual candidate
+  for a lost Zophar speech) is recorded on [[Bildad's Third Speech]] and [[Bildad the Shuhite]].
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
   be prayed for by Job.
 
@@ -165,6 +168,8 @@ than his iniquity deserves. The reader knows which of the two is right.
   promise of 11:15–19 repeated in its fullest form.
 - [[Oh That I Knew Where I Might Find Him]] — Job 23–24, silent; proposed by some reconstructions as
   the original speaker of 24:18–24, a reading the wiki records but does not adopt.
+- [[Bildad's Third Speech]] — Job 25, silent; Bildad's six verses are the last the friends say, and
+  the place in the cycle where Zophar's third speech would follow is empty.
 
 ## Related people
 

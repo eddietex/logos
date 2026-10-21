@@ -214,6 +214,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   reverence** — *bāhal* and *paḥad*, the *paḥad* of 3:25, not the *yirʾâ* the narrator credited Job
   with at 1:1. The man who wants to find God's seat is afraid of who sits in it, and does not
   withdraw the wish.
+- [[Bildad's Third Speech]] — Job 25:2; *"Dominion and fear (paḥad) are with him."* **Dread as an
+  attribute God possesses rather than a posture a man takes** — and the root of Job's *"I am afraid of
+  him"* (23:15), handed back as a reason for silence.
 
 ## Related themes
 

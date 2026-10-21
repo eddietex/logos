@@ -28,12 +28,12 @@ tags: [connection]
   and purifier of silver … and refine them as gold and silver"*
 - **Isaiah 48:10** *(not yet ingested)* — *"Behold, I have refined you, but not as silver; I have
   chosen you in the furnace of affliction."*
-- **1 Peter 1:6–7** *(not yet ingested)* — *"you have been grieved in various trials, that the proof
-  of your faith, which is more precious than gold that perishes even though it is tested by fire, may
-  be found to result in praise, glory, and honor at the revelation of Jesus Christ"*
-- **James 1:2–4, 12** *(not yet ingested)* — trials that produce endurance, and *"Blessed is a person
+- **1 Peter 1:6–7** *(not yet ingested)* — *"you have been put to grief in various trials, that the
+  proof of your faith, which is more precious than gold that perishes even though it is tested by fire,
+  may be found to result in praise, glory, and honor at the revelation of Jesus Christ"*
+- **James 1:2–4, 12** *(not yet ingested)* — trials that produce endurance, and *"Blessed is the man
   who endures temptation, for when he has been approved, he will receive the crown of life"*;
-  James 5:11 names *"the endurance of Job"*
+  James 5:11 names *"the perseverance of Job"*
 
 ## Analysis
 
@@ -68,8 +68,8 @@ place where wisdom is mined, and gold cannot buy it.
 **1 Peter turns the image into a pastoral programme.** *"The proof (dokimion) of your faith, which
 is more precious than gold that perishes even though it is tested by fire"* (1 Peter 1:7) is Job 23:10
 generalised: suffering as the assay of faith, and its result *"praise, glory, and honor"* at the end.
-James, in the same tradition, makes Job the named example (*"You have heard of the endurance of Job,
-and have seen the Lord in the outcome"*, James 5:11).
+James, in the same tradition, makes Job the named example (*"You have heard of the perseverance of
+Job, and have seen the Lord in the outcome"*, James 5:11).
 
 ## Significance
 

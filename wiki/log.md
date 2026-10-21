@@ -9872,3 +9872,102 @@ structure note for 22–27 extended. Indexes: books (19 / 32), people (5 rows), 
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 25.1-6 — Bildad's Third Speech
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 25:1–6.
+**Boundary and title unchanged** — the friends' speeches are numbered plainly, per the book page's
+convention. No collision with any other book. **Job is at 20 / 32.** No discussion step; it is
+written into the passage page.
+
+### Source check of the two connection pages from the previous ingest
+
+Requested for this run. Every scripture excerpt in
+[[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] and
+[[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] was checked — non-Job texts against
+the WEB retrieved from bible-api.com (`?translation=web`), Job texts against `raw/bible/Job.md`.
+**Correct as quoted:** Job 23:3, 8–10; 7:17–20; 9:11; 22:24–25; 28:1; Psalm 139:1–12, 23–24 (bar
+punctuation, below); Jeremiah 23:23–24; Amos 9:2–4 (paraphrased, accurately); Psalm 66:10; Proverbs
+17:3; Zechariah 13:9; Malachi 3:2–3; Isaiah 48:10; 1 Peter 1:7. **Corrected (6):**
+
+- Job 13:24 — was *"Why do you hide your face, and consider me your enemy?"*; the WEB reads *"Why hide
+  you your face, and hold me for your enemy?"*
+- Psalm 139:9–10 — *"sea, even there"* → *"sea; Even there"* (punctuation only).
+- Isaiah 45:15 — *"a God who hides yourself"* → *"a God who has hidden yourself"*, in both places on
+  the page.
+- 1 Peter 1:6 — *"you have been grieved in various trials"* → *"you have been put to grief in various
+  trials"*.
+- James 1:12 — *"Blessed is a person who endures"* → *"Blessed is the man who endures"*.
+- James 5:11 — *"the endurance of Job"* → *"the perseverance of Job"*, in both places on the page.
+
+The same two misquotations had spread to two passage pages and were fixed there too: Isaiah 45:15 in
+[[Oh That I Knew Where I Might Find Him]] and James 5:11 in [[The Second Test]] (where Psalm 13:1,
+quoted beside it, checked correct). [[The Wager in Heaven and the Four Messengers]] paraphrases James
+5:11 as *"the endurance of Job"* without quotation marks and was left as a paraphrase. No analysis
+changed; none of the corrections bore on an argument.
+
+While revising [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] for this ingest,
+its quotations were checked as well: Psalm 8:5 read *"a little lower than God"*, the WEB has *"a
+little lower than the angels"* — corrected; two commas in Hebrews 2:8–9 aligned to the WEB. Psalm
+8:3–6, 144:3–5 and the rest checked correct.
+
+### The passage page
+
+[[Bildad's Third Speech]] — built around these findings:
+
+**1. Nothing in it answers chapter 24.** No case, no rebuttal, no portrait of the wicked, no call to
+repent, no promise — and, unlike every other speech by the friends, **no second-person address at
+all**.
+
+**2. Each line reverses something of Job's.** *Paḥad* (25:2) is the root of Job's *"I am afraid of
+him"* (23:15), made an attribute of God; *gədûdāyw* (25:3) is God's troops encamped around Job's tent
+(19:12), made a cosmic host; *"How then can man be just with God?"* (25:4) is Job 9:2 in the same
+Hebrew, turned from forensic (*win a case*) to moral (*be clean*) by its second half, cancelling 23:7.
+
+**3. Psalm 8 run backwards.** Moon and stars, *ʾĕnôš*, *ben-ʾādām* — the four terms of Psalm 8:3–4 in
+the same order — ending in *worm* rather than a crown. Job and Bildad both parody the psalm, from
+opposite sides.
+
+**4. The worm.** *Rimmâ* is Job's word for decay (7:5; 17:14; 21:26; 24:20); Bildad makes it a
+definition of the living man.
+
+**5. "He makes peace in his high places"** — a peace that implies conflict above (9:13; 26:12), and
+the line that closes the Kaddish and the Amidah, which add the petition Bildad does not make.
+
+**Judgment calls.** **The truncation question**: textual disorder (26:5–14 as the rest of Bildad's
+speech; 27:13–23 as Zophar's) against deliberate collapse, both recorded; **the wiki keeps the
+received arrangement** because the text gives 26:1 to Job, and flags the question for the chapter 26
+ingest. The Genesis 1:16 echo in *hamšēl* is noted as possible, not asserted. *Yaʾăhîl* (25:5)
+recorded as a much-discussed form without choosing a reading. No new person or place pages; no
+contradiction between wiki pages found.
+
+### Connection pages
+
+Created (1): [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]] — the human being as a
+worm in contempt (Bildad), lament (Psalm 22) and comfort (Isaiah 41), with Job's worm of decay and the
+worm of judgment (Isaiah 66:24; Mark 9:48; Acts 12:23) distinguished. All non-Job texts marked *not
+yet ingested*, and every quotation in it checked against the WEB from bible-api.com before writing
+(Psalm 22:1, 6, 7–24; Isaiah 41:14; Isaiah 66:24; Mark 9:48; Acts 12:23; Matthew 27:46). The passage
+page's own non-Job quotations (Psalm 8:3–5; Isaiah 40:26; Matthew 5:45) were checked the same way.
+
+Revised (3): [[What Is Man That He Should Be Clean]] (passage linked; paragraph on 25:4 as a quotation
+of 9:2), [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] (paragraph on 25:5–6 as
+the psalm's sequence inverted; quotation corrections above), [[The Divine Council]] (25:2–3 added).
+Plus the two source-checked pages above.
+
+### Pages created or revised
+
+Created (2): the passage page and the worm connection. People (5): [[Bildad the Shuhite]] (third
+speech paragraph, timeline linked, appears-in, notes), [[Job (person)]], [[God]] (Job-section bullet
+and appears-in), [[Eliphaz the Temanite]], [[Zophar the Naamathite]] (no third speech recorded).
+Themes (8): [[Sin]], [[Righteousness]], [[Clean and Unclean]], [[Creation]], [[Light and Darkness]],
+[[The Fear of God]], [[Strife and Peacemaking]], [[Retribution]]. Connections revised (5, counting the
+two source-checked pages). Passages revised (2 for the source check, plus
+[[Oh That I Knew Where I Might Find Him]]'s plain *Job 25:1–6* cross-reference linked). Book page:
+box checked, structure note for 22–27 extended. Indexes: books (20 / 32), people (5 rows), themes (8
+rows), connections (+1 row, 3 rows extended), `wiki/index.md` (79 passages, 245 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

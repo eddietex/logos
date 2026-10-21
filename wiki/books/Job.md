@@ -82,6 +82,9 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   in any direction — *"When he has tried me, I shall come out like gold"* (23:10) — and then gives
   every one of Eliphaz's invented crimes a real, unpunished defendant, ending in a dare (24:25) that
   neither of the remaining friends takes up.
+  Bildad's reply (25) is six verses and has no *you* in it: a hymn to God's dominion and a descent
+  from moon and stars to *"man, who is a worm"* (25:6) — Job's own 9:2 and his own worm handed back as
+  a definition, and the last word any of the friends speaks.
 - **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
@@ -132,7 +135,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [x] [[Eliphaz's Third Speech]] — Job 22:1–30
 - [x] [[Oh That I Knew Where I Might Find Him]] — Job 23:1–24:25
-- [ ] Bildad's Third Speech — Job 25:1–6
+- [x] [[Bildad's Third Speech]] — Job 25:1–6
 - [ ] Job's Final Reply to the Friends — Job 26:1–27:23
 
 ### Interlude (28)

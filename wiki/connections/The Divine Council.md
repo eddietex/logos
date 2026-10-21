@@ -17,6 +17,8 @@ tags: [connection]
   heard God say *"my servant Job"*
 - **Job 11:5–6** — Zophar wishing God would *"show you the secrets of wisdom"*: the hidden things of
   God invoked against Job by a man who has never seen the one secret the reader has — [[Zophar's First Speech]]
+- **Job 25:2–3** — Bildad: *"He makes peace in his high places. Can his armies be counted?"* — the
+  heavenly host as uncountable troops, and a peace settled among them — [[Bildad's Third Speech]]
 - **Job 38:7** — *"when the morning stars sang together, and all the sons of God shouted for joy"*,
   at the founding of the earth
 - **Genesis 1:26; 3:22; 11:7** — *"Let us make man in our image"*; *"the man has become like one of

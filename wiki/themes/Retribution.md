@@ -240,6 +240,11 @@ verdicts.
   in the friends' own idiom. The wiki reads those verses as a citation of the friends or as Job's
   imprecation, answered by 24:22–24 — God gives the mighty security, and they die *"as all others"*.
   Other readings, including a displaced fragment of Zophar, are recorded on the passage page.
+- [[Bildad's Third Speech]] — Job 25:1–6; **the doctrine abandoned for a broader one.** No wicked
+  man, no portrait, no particular guilt — only the claim that no human being can be clean before God.
+  It answers Job's dare (24:25) by making his particular case irrelevant, and in doing so gives up the
+  ground the friends had held since chapter 4: retribution needed Job to be guilty of something;
+  universal impurity does not need anything.
 
 ## Related themes
 

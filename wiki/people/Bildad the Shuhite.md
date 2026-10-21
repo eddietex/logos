@@ -72,6 +72,14 @@ the narrator's opening verdict on Job, *"one who feared God, and turned away fro
 is not saying anything false about the wicked. He has no way to discover that he is not looking at
 one.
 
+His third speech is ingested as [[Bildad's Third Speech]], and it is the friends' last word. Six
+verses, no *you* in them, and nothing about the chapter of cases Job had just laid out.
+**He still argues by reversal**, now with nothing else left: *"How then can man be just with God?"*
+(25:4) is Job's own 9:2 in the same Hebrew, turned from *can a man win a hearing* into *can a man be
+clean*; *paḥad*, the dread Job confessed at 23:15, becomes an attribute God has (25:2); and *rimmâ*,
+the worm Job used of his own sores and his grave, becomes a definition of the living human being
+(25:6). The moon and stars that Psalm 8 sets above a crowned man (8:3–5) are set above a worm.
+
 In Job 15–17 he does not speak. He is present, and he is included twice.
 
 In [[Eliphaz's Second Speech]] he is inside Eliphaz's *"we"*: *"What do you know, that we don't
@@ -111,9 +119,10 @@ book, and Bildad's name survives inside them.
 - **Job 23–24** — silent through [[Oh That I Knew Where I Might Find Him]], whose last verse is a dare
   to the friends: *"who will prove me a liar?"* (24:25). His six verses are the only answer, and they
   do not take it up.
-- **Job 25:1–6** — the third speech, six verses: *"How then can man be just with God? Or how can he
-  who is born of a woman be clean? … how much less man, who is a worm, the son of man, who is a
-  worm!"* The last thing any of the friends says.
+- **Job 25:1–6** — [[Bildad's Third Speech]], six verses: *"How then can man be just with God? Or
+  how can he who is born of a woman be clean? … How much less man, who is a worm, the son of man, who
+  is a worm!"* The last thing any of the friends says, and the only one of their speeches with no
+  *you* in it.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked with Eliphaz, and required to bring
   sacrifices and be prayed for by Job.
 
@@ -158,6 +167,11 @@ book, and Bildad's name survives inside them.
   22:10 as the consequence of crimes Eliphaz invents.
 - [[Oh That I Knew Where I Might Find Him]] — Job 23–24, silent; the dare of 24:25 is the speech his
   25:1–6 replies to, without answering a single case in chapter 24.
+- [[Bildad's Third Speech]] — Job 25:1–6, his own and his last: a two-verse hymn (*"Dominion and fear
+  are with him. He makes peace in his high places"*) and a three-verse descent from moon and stars to
+  *"man, who is a worm"*. Job's 9:2 quoted word for word with its lawsuit sense removed, Job's dread
+  (23:15) and God's troops (19:12) reassigned, and Psalm 8's moon, stars, man and son of man run to the
+  opposite conclusion. See [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
 
 ## Related people
 
@@ -194,7 +208,8 @@ book, and Bildad's name survives inside them.
   reconstruction and various editions rearrange accordingly. **Deliberate collapse** — the
   breakdown *is* the point, dramatizing the exhaustion of the friends' position, with Bildad
   managing a short reprise and Zophar unable to speak at all. The wiki takes no position and will
-  record the arguments on the passage pages when chapters 25–27 are ingested; the observation worth
+  record the arguments on the passage pages when chapters 25–27 are ingested (chapter 25's are now on
+  [[Bildad's Third Speech]], which keeps the received arrangement); the observation worth
   keeping now is that the second cycle, where Job 15–17 sits, is the last one in which the *pattern*
   is intact — the three speakers all speak, in order, at length. The *argument*, on the wiki's
   reading, has already failed by then: chapters 18 and 20 are two recitations of the same doctrine

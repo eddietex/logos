@@ -135,6 +135,11 @@ raw text.)*
   them like thick darkness (ṣalmāwet)"* (24:17) — the first day of creation inverted, and John
   3:19–20's *"everyone who does evil hates the light"* in advance. Job himself, at 23:17, is in the
   *ḥōšek* and *ʾōpel* — cut off by it, or not silenced by it, depending on the reading.
+- [[Bildad's Third Speech]] — Job 25:3, 5; *"On whom does his light not arise?"* and *"even the moon
+  has no brightness"*. **Light as universal and as relative**, offered in reply to a speech about
+  people on whom, in every practical sense, God's light did not rise — the rebels against the light and
+  their victims (24:13–17). Compare Matthew 5:45, the sun rising on evil and good, used there as a
+  reason for mercy.
 
 ## Related themes
 

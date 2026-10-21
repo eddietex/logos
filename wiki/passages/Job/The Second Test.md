@@ -300,7 +300,7 @@ words*. **Chapter 3 begins eleven verses later.**
   2:5's use of it for a man's own body.
 - **Luke 22:31–32** — a request to sift, a permission implied, and an intercessor named in the same
   sentence; the New Testament's nearest thing to this scene, with the one element Job lacks.
-- **James 5:11 · 1 Peter 5:8** — *"the endurance of Job"*, and the adversary who walks around.
+- **James 5:11 · 1 Peter 5:8** — *"the perseverance of Job"*, and the adversary who walks around.
 - **2 Corinthians 12:7–9** — *"a thorn in the flesh, a messenger of Satan to torment me"*, followed
   by three refused requests and an answer that is not healing: a body afflicted by permission, with
   the permission disclosed to the sufferer.

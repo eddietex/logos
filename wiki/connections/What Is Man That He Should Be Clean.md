@@ -16,7 +16,7 @@ tags: [connection]
   corrupt, a man who drinks iniquity like water!"* — [[Eliphaz's Second Speech]]
 - **Job 25:4–6** — Bildad, third speech, the friends' last words: *"How then can man be just with
   God? Or how can he who is born of a woman be clean? … how much less man, who is a worm, the son of
-  man, who is a worm!"*
+  man, who is a worm!"* — [[Bildad's Third Speech]]
 - **Job 9:2; 14:4** — Job saying much the same thing himself — [[There Is No Umpire Between Us]] and
   [[Though He Slay Me]], where he concedes
   the point and asks the legal question underneath it instead
@@ -53,6 +53,14 @@ themselves, then the moon and stars — and the human term moves downward, from 
 house to a drinker of iniquity to a worm. Eliphaz's first version at least grants that the problem
 is creaturely fragility (*"houses of clay"*); by Bildad's version the problem is that the human
 being is disgusting. The friends' anthropology degrades as their patience does.
+
+**Bildad's version is also a quotation of Job.** Its first line, *"How then can man be just with
+God?"* (25:4), is Job 9:2 in the same Hebrew — *mah-yiṣdaq ʾĕnôš ʿim-ʾēl* — and its second, *"born of
+a woman"*, is Job's phrase from 14:1 by way of Eliphaz's 15:14. Job asked the first as a lawsuit
+question (*can a man win?*, 9:3) and by 23:7 had half-answered it (*"There the upright might reason
+with him"*). Bildad's second line turns it from forensic to moral — *just* becomes *clean* — and the
+a-fortiori then makes the answer *no* for everyone. See [[Bildad's Third Speech]] and, for the worm,
+[[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
 
 **And most of what they say is true.** This is the difficulty, and the reason this connection page
 exists.

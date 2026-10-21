@@ -374,7 +374,7 @@ in effect, without an answer to this chapter.
   against 24:24's cut ears.
 - [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] — the other half of
   Job's use of Psalm 139.
-- Job 25:1–6 — Bildad's reply, which does not answer 24:25.
+- [[Bildad's Third Speech]] — Job 25:1–6, Bildad's reply, which does not answer 24:25.
 - Job 27:13–23 — the second passage of the friends' doctrine in Job's mouth.
 - Job 31 — the oath that answers the charges directly.
 - Job 38:12–15 — God on the dawn that shakes the wicked out of the earth, *"From the wicked, their
@@ -439,5 +439,5 @@ in effect, without an answer to this chapter.
 - **Hidden, not absent.** The wiki's theme pages treat the *hiddenness of God* under
   [[Seeing and Being Seen]] rather than as a separate theme. Chapter 23 is its key text in the
   Wisdom literature, as Psalm 13 (*"How long will you hide your face from me?"*), Psalm 22:1–2 and
-  Isaiah 45:15 (*"Most certainly you are a God who hides yourself"*) are elsewhere. If the theme
+  Isaiah 45:15 (*"Most certainly you are a God who has hidden yourself"*) are elsewhere. If the theme
   recurs enough across the Psalms and Prophets to need its own page, this passage should anchor it.

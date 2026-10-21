@@ -184,6 +184,10 @@ the land.
   **The errand is, literally, to inspect the peace of men the narrator has just said cannot speak peace to
   him**, and Genesis does not point it out. **Both enquiries come back false**: the flock is fine, the
   brothers are not, and the word that comes back is brought by somebody else and is a lie
+- [[Bildad's Third Speech]] — Job 25:2; ***ʿōśeh šālôm bimrômāyw***, *"He makes peace in his high
+  places"* — **peace as a settlement in heaven**, implying a conflict above (Rahab's helpers, 9:13; the
+  sea under guard, 7:12). The line became the closing petition of the Jewish Kaddish and Amidah, which
+  add what Bildad does not: that the God who makes peace above make peace *for us*.
 
 ## Related themes
 

@@ -250,6 +250,11 @@ has been argued.
   all invented.** *"Isn't your wickedness great? Neither is there any end to your iniquities"* —
   then pledges, the naked stripped, bread and water withheld, widows, the fatherless. The book's
   verdict on the charges is given by the narrator (1:1) and by God (1:8; 2:3) before they are made.
+- [[Bildad's Third Speech]] — Job 25:4–6; **the friends' anthropology at its lowest.** Not *every man
+  sins* but *"man, who is a worm, the son of man, who is a worm!"* (25:6), set beneath a moon with no
+  brightness and stars that are not pure. No sin is named and no sinner; being human is the charge.
+  See [[What Is Man That He Should Be Clean]] and
+  [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
 
 ## Related themes
 
