@@ -198,6 +198,13 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   fall on you?"*** — Job telling the friends they do not fear God enough to stop lying for him, and
   then asking God to take his own terror away: *"don't let your terror make me afraid"* (13:21). The
   God-fearing man of 1:1 frightened of God, and warning God's defenders that they ought to be
+- [[Why Do the Wicked Live]] — Job 21:14–16; **the fear of God renounced, and paying.** *"They tell
+  God, 'Depart from us, for we don't want to know about your ways. What is the Almighty, that we
+  should serve him? What profit should we have, if we pray to him?'"* The accuser's question of 1:9,
+  *"for nothing?"*, asked by men who did the sum, concluded religion was unprofitable — and are
+  thriving. Job distances himself at once: *"The counsel of the wicked is far from me"* (21:16). The
+  fear of God that the prologue tested is shown here unrewarded in the one place the friends' theory
+  most needs it rewarded.
 
 ## Related themes
 

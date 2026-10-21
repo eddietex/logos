@@ -187,6 +187,12 @@ already did.
   in the hope of a man worn away like stone (14:19). In the middle, the most daring petition in the
   book so far: *"Oh that you would hide me in Sheol… and remember me!"* (14:13). The friends, who
   speak about God, are not addressed again
+- [[Why Do the Wicked Live]] — Job 21:14–15; **prayer weighed and found unprofitable, and the one
+  prayer granted to the wicked.** *"What profit should we have, if we pray to him?"* — prayer as an
+  investment, and the wicked decline it. And *"Depart from us"*: the prayer Job has prayed himself —
+  *"Let me alone"* (7:16), *"Leave me alone"* (10:20), *"Look away from him"* (14:6) — and has not had
+  answered. The wicked say it and are left in peace. **This is also Job's one reply in the first two
+  cycles, beside chapter 19, with no prayer in it at all.**
 
 ## Related themes
 

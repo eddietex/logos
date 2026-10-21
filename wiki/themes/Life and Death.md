@@ -348,6 +348,13 @@ the rest of the canon.
   (14:14), the resurrection question asked in so many words, expecting *no* and then imagining *yes*
   as a wish. Psalm 90:5–6, Psalm 103:15–16 and Isaiah 40:6–8 have the same flower. See
   [[The Hope of Resurrection in the Old Testament]]
+- [[Why Do the Wicked Live]] — Job 21:13, 23–26, 32–33; **two deaths, and death the only leveller.**
+  The wicked *"go down to Sheol"* *"in an instant"* (21:13) after a long life; one man *"dies in his
+  full strength, being wholly at ease"* — *bəʿeṣem tummô*, *in the bone of his completeness* — and
+  another *"in bitterness of soul, and never tastes of good"*, and *"They lie down alike in the dust.
+  The worm covers them"* (21:23–26). The leveller of Ecclesiastes 9:2–3, without Ecclesiastes'
+  shrug: for Job, a death that ignores the difference between men is the proof that nothing before it
+  marked the difference either.
 
 ## Related themes
 

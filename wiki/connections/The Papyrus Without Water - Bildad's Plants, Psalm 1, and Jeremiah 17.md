@@ -24,6 +24,8 @@ tags: [connection]
 - **Job 18:16** — Bildad again: *"His roots shall be dried up beneath. Above shall his branch be
   cut off."* — [[Bildad's Second Speech]]
 - **Job 19:10** — *"My hope he has plucked up like a tree."* — [[I Know That My Redeemer Lives]]
+- **Job 21:18** — *"How often is it that they are as stubble before the wind, as chaff that the storm
+  carries away?"*: Psalm 1:4's chaff, put to Job's count — [[Why Do the Wicked Live]]
 - **Job 29:19** — Job remembering his prosperity: *"My root is spread out to the waters. The dew
   lies all night on my branch."*
 - **Isaiah 59:5–6** — the wicked *"weave the spider's web… Their webs won't become garments."*

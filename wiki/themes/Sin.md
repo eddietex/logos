@@ -240,6 +240,12 @@ has been argued.
   iniquities and sins? Make me know"* (13:23); *"you… make me inherit the iniquities of my youth"*
   (13:26); and the record *"sealed up in a bag"* (14:17). 14:4, *"Who can bring a clean thing out of an
   unclean? Not one"*, later read as a text on original sin, is in context a plea for leniency
+- [[Why Do the Wicked Live]] — Job 21:19–21; **whether sin is inherited as a debt.** *"You say,
+  'God lays up his iniquity for his children.' Let him recompense it to himself, that he may know
+  it."* The friends' last retreat, and Job's refusal: sin should be paid by the sinner, and a dead
+  father will not feel what his sons suffer. The objection Jeremiah 31:29–30 and Ezekiel 18 later
+  make in God's name. See
+  [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
 
 ## Related themes
 

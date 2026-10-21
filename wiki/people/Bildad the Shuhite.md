@@ -102,6 +102,10 @@ book, and Bildad's name survives inside them.
 - **Job 18:1–21** — [[Bildad's Second Speech]]. Twenty-one verses on the fate of the wicked: the
   lamp put out, six snares in four verses, the firstborn of death, the march to the king of terrors,
   sulfur on the habitation, and a name erased from the street.
+- **Job 21:1–34** — [[Why Do the Wicked Live]]. His proverb put to a count: *"How often is it that
+  the lamp of the wicked is put out, that their calamity comes on them?"* (21:17, against 18:5–6,
+  12), his childless wicked man (18:19) answered by children established in their fathers' sight
+  (21:8), and his tent of the wicked (8:22; 18:21) quoted back as the friends' taunt (21:28).
 - **Job 25:1–6** — the third speech, six verses: *"How then can man be just with God? Or how can he
   who is born of a woman be clean? … how much less man, who is a worm, the son of man, who is a
   worm!"* The last thing any of the friends says.
@@ -142,6 +146,9 @@ book, and Bildad's name survives inside them.
   and his erased name.
 - [[Zophar's Second Speech]] — whose closing formula (*"the portion of a wicked man from God"*,
   20:29) matches his own at 18:21, and whose speech is his again in different imagery.
+- [[Why Do the Wicked Live]] — Job 21, the answer to his two portraits: the lamp, the calamity,
+  the vanished heirs and the vanished tent each quoted and checked against what travellers report
+  (21:17, 19, 28–29). See [[The Lamp of the Wicked Put Out]].
 
 ## Related people
 

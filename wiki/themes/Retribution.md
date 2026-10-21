@@ -216,6 +216,16 @@ verdicts.
   reversal-of-fortunes hymn of Psalm 107:40–41 with the reversal removed; and the friends' lies on
   God's behalf named as the thing God will punish (13:10). See
   [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
+- [[Why Do the Wicked Live]] — Job 21:1–34; **the frontal assault, and the first argued on the
+  doctrine's own ground.** The friends' three portraits (15:20–35; 18:5–21; 20:4–29) inverted line by
+  line: the wicked grow old, keep their children, live *"safe from fear"*, and go down to Sheol
+  *"in an instant"* (21:7–13). Bildad's lamp put to a count — *"How often…?"* (21:17). The fallback
+  that iniquity is stored up for the children refused as both unjust and useless, since the dead
+  father will not know (21:19–21). Two deaths, one whole and one bitter, and the same worm (21:23–26);
+  the wicked man's honoured burial (21:32–33). **Job does not claim the wicked are never punished,
+  only that it happens too seldom to read a life by** — which is all he needs to remove the inference
+  from his ruin to his guilt. See [[The Prosperity of the Wicked]] and
+  [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
 
 ## Related themes
 

@@ -23,6 +23,8 @@ tags: [connection]
 - Isaiah 5:1–7; Psalm 80:8–16 — Israel as the vineyard that yields wild grapes
 - Isaiah 25:6 — the feast of *"well-aged wines"* on the mountain
 - Jeremiah 25:15–29; Psalm 75:8; Revelation 14:10 — the cup of wrath, drunk to the dregs
+- Job 21:20 — *"Let him drink of the wrath of the Almighty"*: the cup demanded for the wicked man
+  himself rather than his children — [[Why Do the Wicked Live]]
 - Isaiah 63:1–6; Revelation 14:19–20; 19:15 — the winepress trodden in judgment
 - John 2:1–11 — water into wine at Cana, the first sign
 - John 15:1–8 — *"I am the true vine"*

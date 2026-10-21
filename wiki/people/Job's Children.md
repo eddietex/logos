@@ -46,6 +46,10 @@ details in Scripture.
   who it refers to is disputed — see the Notes. It is in any case a verse about Job's nearest
   surviving kin recoiling from him, in a chapter that then asserts a kinsman-redeemer; see
   [[I Know That My Redeemer Lives]].
+- **Job 21:8, 11–12, 19–21** — inverted onto the wicked: *"Their child is established with them in
+  their sight"*, little ones sent out like a flock, children dancing to tambourine, harp and pipe —
+  the feast of 1:4, 13 given to other men's sons. And at 21:19 Job refuses the friends' fallback that
+  *"God lays up his iniquity for his children"*. See [[Why Do the Wicked Live]].
 - **Job 29:5** — his lament for the days *"when the Almighty was yet with me, and my children were
   around me."*
 - **Job 42:13–15** — seven sons and three daughters again. Only here the daughters are named —
@@ -113,6 +117,14 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   available statement of what the chapter is and is not. **A lament for the dead would have named
   them.** The nearest the chapter comes is 3:16's *"infants who never saw light"*, and those are
   hypothetical infants standing in for himself
+- [[Why Do the Wicked Live]] — Job 21:8–12, 19–21; **unnamed, and the evidence of the whole first
+  movement.** The wicked keep their children *"in their sight"*, send them out *"like a flock"*, and
+  watch them dance — everything Job's household had at 1:4 and lost at 1:19. Then the friends'
+  retreat to the doctrine that the father's iniquity is stored up for his sons, which Job refuses
+  (21:19–21): punishing the children does not touch the father, who will not know. **It is the
+  first time in the dialogue that anyone argues the children should not pay for a parent**, and
+  the one arguing it is the only father in the book who has buried ten. See
+  [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
 
 ## Related people
 

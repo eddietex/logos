@@ -139,7 +139,12 @@ speeches; each becomes a linked passage page as it is ingested.
   one plea for pity, the wish for words cut into rock, and the living Redeemer.
 - **Job 20:1–29** — [[Zophar's Second Speech]]. The wicked man's brief triumph, and the first
   specific offence anyone in the book names.
-- **Job 21** — Job's frontal attack on retribution, answering chapters 18 and 20 together.
+- **Job 21:1–34** — [[Why Do the Wicked Live]]. The frontal attack on retribution, answering
+  chapters 15, 18 and 20 together and speaking to the friends throughout, never to God. The wicked
+  grow old with their children around them and their herds calving; they tell God *"Depart from
+  us"* and are left alone; their lamp goes out less often than Bildad says; their children should not
+  pay for them (21:19); and they die *"in an instant"*, whole, and are buried with a vigil and a
+  crowd. The man who *"dies in bitterness of soul"* (21:25) is himself.
 - **Job 22–31** — the third cycle collapsing, the hymn to wisdom, and Job's closing oath of
   innocence, in which he calls down curses on himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
@@ -249,6 +254,14 @@ speeches; each becomes a linked passage page as it is ingested.
   son *Iob*, and he is not this man.** The name there is *yôb* (Numbers 26:24 reads *Jashub*); **the
   Job of the book is *ʾiyyôb*, a different word.** **This is the second false lead the wiki has had to
   disarm around the name**, after the Septuagint's identification of [[Jobab]] with Job at 36:33
+- [[Why Do the Wicked Live]] — Job 21:1–34; **the one speech in which he argues the friends'
+  subject rather than his own, and it is still about him.** Every blessing he lists for the wicked —
+  children in sight, a house without fear, herds that do not miscarry, children dancing to harp and
+  pipe — is something he has lost, and the second of the two deaths of 21:23–26, *"in bitterness of
+  soul"*, is in his own words from 3:20, 7:11 and 10:1. Asks the friends for the one consolation of
+  listening (21:2) and for the silence of a hand on the mouth (21:5) that he will make himself at
+  40:4. Refuses to let the wicked man's children pay for him (21:19), with ten dead children of his
+  own.
 
 ## Related people
 

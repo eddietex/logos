@@ -111,8 +111,12 @@ than his iniquity deserves. The reader knows which of the two is right.
   twenty-nine verses on how short: the ascent to the clouds and the fall to the dungheap, the
   swallowed riches vomited up, wrath raining on a man mid-meal, and heaven and earth called as
   witnesses for the prosecution.
-- **Job 21:1–34** — answered directly by Job's *"Why do the wicked live, become old, yes, and grow
-  mighty in power?"*, which is the book's frontal rebuttal of everything Zophar has just said.
+- **Job 21:1–34** — [[Why Do the Wicked Live]]. Answered directly by Job's *"Why do the wicked live,
+  become old, yes, and grow mighty in power?"*, the book's frontal rebuttal of everything Zophar has
+  just said. Job's *"mock on"* (21:3) is singular, and Zophar's own charge of mocking (11:3) is the
+  likeliest reason; his *"for a moment"* (*ʿădê-rāgaʿ*, 20:5) becomes the wicked man's *"in an
+  instant"* (*bəregaʿ*, 21:13) descent to Sheol; and his children begging from the poor (20:10)
+  become children dancing to harp and pipe (21:11–12). He never replies.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
   be prayed for by Job.
 
@@ -148,6 +152,9 @@ than his iniquity deserves. The reader knows which of the two is right.
 - [[Bildad's First Speech]] — Job 8:1–22, silent; the speech his own first one (chapter 11) follows
   after Job's reply, with the same shape — a rebuke for Job's words, the claim that God's wisdom is
   beyond him, and a closing offer of restoration on condition of repentance.
+- [[Why Do the Wicked Live]] — Job 21, the answer to his last speech, which he does not answer:
+  his *short* triumph of the wicked (20:5) met by a long life, an easy death, and a well-attended
+  funeral.
 
 ## Related people
 

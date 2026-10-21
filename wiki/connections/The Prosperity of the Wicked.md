@@ -20,7 +20,7 @@ tags: [connection]
   [[Bildad's Second Speech]]
 - **Job 20:4–29** — Zophar: *"the triumphing of the wicked is short"* — [[Zophar's Second Speech]]
 - **Job 21:7–34** — Job's answer: *"Why do the wicked live, become old, yes, and grow mighty in
-  power?"* *(not yet ingested)*
+  power?"* — [[Why Do the Wicked Live]]
 - **Job 24:1–25** — Job again, on crimes that go unpunished in broad daylight *(not yet ingested)*
 - **Job 27:13–23** — the same doctrine as the friends', in Job's mouth, in the disturbed third cycle
   *(not yet ingested)*
@@ -72,7 +72,13 @@ neither is the rod of God upon them"* (21:7–9). He takes Bildad's own image an
 frequency question — *"How often is it that the lamp of the wicked is put out…"* (21:17); see
 [[The Lamp of the Wicked Put Out]] — and he finishes with the funeral: the wicked man is carried to
 the grave, a watch is kept over his tomb, *"the clods of the valley shall be sweet to him"*, and
-*"All men shall draw after him, as there were innumerable before him"* (21:32–33). The good death
+*"All men shall draw after him, as there were innumerable before him"* (21:32–33). Two words make the rebuttal exact. Zophar granted the wicked their joy *"for a moment"*, *ʿădê-rāgaʿ*
+(20:5); Job moves the moment to their death — *"In an instant (bəregaʿ) they go down to Sheol"*
+(21:13), a quick descent at the end of a long life. And the tomb over which the mourners keep watch
+is a *gādîš* (21:32), the *shock of grain* Eliphaz promised the righteous at 5:26; see
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]. When the doctrine retreats to
+the wicked man's children, Job refuses that too (21:19–21); see
+[[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]]. The good death
 is the detail that hurts. The friends can accommodate a wicked man who dies rich; they cannot
 accommodate one who dies rich, old, and mourned.
 
@@ -116,7 +122,7 @@ two monsters. Whatever the whirlwind does for Job, it does not do it by settling
 friends were trying to balance — and Job, who had demanded exactly that settlement for
 twenty-nine chapters, stops asking.
 
-Related pages: [[Bildad's Second Speech]], [[Zophar's Second Speech]],
+Related pages: [[Why Do the Wicked Live]], [[Bildad's Second Speech]], [[Zophar's Second Speech]],
 [[Eliphaz's Second Speech]], [[The Lamp of the Wicked Put Out]], [[Retribution]], [[Judgment]],
 [[Suffering]], [[Wisdom]], [[Job (person)]], [[Bildad the Shuhite]], and
 [[Zophar the Naamathite]].

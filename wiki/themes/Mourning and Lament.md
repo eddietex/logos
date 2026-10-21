@@ -118,6 +118,11 @@ regulating it.
   the anguish of my spirit. I will complain in the bitterness of my soul."*** Lament claimed as a
   right, and the seven days of silence (2:13) formally ended; the same chapter is where the lament
   first turns into address to God (7:7)
+- [[Why Do the Wicked Live]] — Job 21:12, 32–33; **music and a funeral, both given to the
+  wicked.** *"They sing to the tambourine and harp, and rejoice at the sound of the pipe"* — the harp
+  and pipe that Job will say at 30:31 have *"turned to mourning"*. And the wicked man's own death is
+  properly mourned: carried to the grave, watched, followed by *"all men"*. Job's mourning was held
+  over a living man (2:12–13); the wicked man's is held at the right time and by a crowd.
 
 ## Related themes
 

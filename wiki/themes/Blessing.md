@@ -339,6 +339,11 @@ costly.
   rather than descriptive** — what each son received *is* his blessing — **and flags it as a reading.**
   **On any reading, Genesis's last and largest act of blessing is the one in which the word has to
   stretch furthest**
+- [[Why Do the Wicked Live]] — Job 21:8–12; **the covenant blessings on the wrong household.**
+  Children established, houses safe, herds that breed and *"don't miscarry"* — the verb *šākal* of
+  Exodus 23:26, *"No one will miscarry or be barren in your land"*, and the fertility of Deuteronomy
+  28:4 — enjoyed by men who tell God *"Depart from us"* (21:14). Blessing, on Job's evidence, is not a
+  readable sign of standing with God, which is the inference the friends' whole case rests on.
 
 ## Related themes
 

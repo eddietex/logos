@@ -212,7 +212,8 @@ plenty the wicked man is not allowed to look at.
   and *"visions"* of the night, all three taken over by Zophar for the wicked man's disappearance.
   **Zophar's portrait of the wicked is built partly out of Job's lament for himself.**
 - [[Zophar's First Speech]] — Job 11:1–20, with the repentance offer that chapter 20 withdraws.
-- Job 21:1–34 — Job's answer to chapters 18 and 20 together, and the direct denial of 20:5.
+- [[Why Do the Wicked Live]] — Job 21:1–34, Job's answer to chapters 18 and 20 together, and the
+  direct denial of 20:5: his *ʿădê-rāgaʿ* becomes the wicked man's *bəregaʿ* descent to Sheol (21:13).
 - Job 22:6–9 — Eliphaz turning 20:19's charge into a personal indictment.
 - Job 27:13–23 — the same portrait of the wicked man's portion, in Job's mouth, in the disturbed
   third cycle; one of the main pieces of evidence that material has been displaced there.

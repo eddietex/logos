@@ -218,6 +218,12 @@ noticing into doctrine.
   ashes"* (13:12); their wisdom would be silence (13:5). Job asks for silence so that he can speak
   (13:13) and offers God the two orders of a hearing — *"call, and I will answer; or let me speak, and
   you answer me"* (13:22). *"Doesn't the ear try words?"* (12:11), which Elihu quotes (34:3)
+- [[Why Do the Wicked Live]] — Job 21:2–5, 14–16, 19, 28, 34; **speech quoted, and silence
+  asked for.** *"Listen diligently to my speech. Let this be your consolation"* (21:2) — listening as
+  the comfort; *"Lay your hand on your mouth"* (21:5), the gesture Job will make at 40:4 (see
+  [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]]); the wicked's speech quoted (21:14–15),
+  and the friends' (21:19, 28); and the verdict on their answers, *hebel* and *maʿal* — breath, and a
+  breach of faith (21:34). Eliphaz will quote this speech back at 22:17–18.
 
 ## Related themes
 

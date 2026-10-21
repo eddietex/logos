@@ -24,6 +24,9 @@ tags: [connection]
 - **Job 13:7–10** — Job warning the friends: *"Will you show partiality (tiśśāʾûn pānāyw) to him?…
   He will surely reprove you"* — the idiom God uses of Job at 42:8, *pānāyw ʾeśśāʾ*, *I will lift his
   face*. The friends lifted God's face, and God lifts Job's — [[Though He Slay Me]]
+- **Job 21:32** — the wicked man's tomb: *"Men shall keep watch over the tomb (gādîš)"* — Eliphaz's
+  *shock of grain* of 5:26, the same noun, now the grave-mound of a man who told God to depart —
+  [[Why Do the Wicked Live]]
 - **Job 22:21–30** — Eliphaz's last version of it, in his third speech
 
 ## Analysis
@@ -85,6 +88,13 @@ epilogue does not reuse the word. It uses the patriarchs' formula instead — *z
 29:28), and Jehoiada (2 Chronicles 24:15). Job's death is told in the vocabulary of the fathers of
 Israel, not of Eliphaz's harvest. See
 [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]].
+
+**Job had already taken the image away from Eliphaz.** The *shock of grain* of 5:26 is a *gādîš*,
+and the word occurs in Job only once more: at 21:32, of the wicked man's burial — *"Yet he will be
+borne to the grave. Men shall keep watch over the tomb (wəʿal-gādîš yišqôd)."* Eliphaz offered the
+heaped sheaf as the emblem of the righteous man's harvest-time death; Job points out that the wicked
+get the heap too, with a vigil kept over it and *"all men"* following the bier (21:33). The promise
+of 5:26 was true, and it was not evidence of anything — which is also how the epilogue keeps it.
 
 **The doubling is not complete, and Eliphaz's promise does not pretend it would be.** The livestock
 of 42:12 is exactly twice that of 1:3. The children are not: ten in chapter 1, ten in chapter 42.

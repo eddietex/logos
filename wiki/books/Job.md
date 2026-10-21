@@ -70,7 +70,9 @@ treatment of the friends' speeches is written knowing that sentence is coming.
 - **15–21 Second cycle** — the same order, the consolations withdrawn, the accusations sharper.
   This is also where the friends stop arguing: chapters 18 and 20 are two set-piece portraits of
   the wicked man's ruin that answer nothing Job has said, and Job settles both at once in
-  chapter 21.
+  chapter 21 — the one speech in which he takes up the friends' subject instead of his own, speaks to
+  them throughout and never to God, and puts their portraits to a count: the wicked grow old, keep
+  their children, die *"in an instant"*, and are buried with a vigil and a crowd.
 - **22–27 Third cycle** — the pattern breaks down; Bildad's speech is six verses and Zophar has none.
 - **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
@@ -116,7 +118,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [x] [[Bildad's Second Speech]] — Job 18:1–21
 - [x] [[I Know That My Redeemer Lives]] — Job 19:1–29
 - [x] [[Zophar's Second Speech]] — Job 20:1–29
-- [ ] Why Do the Wicked Live On? — Job 21:1–34
+- [x] [[Why Do the Wicked Live]] — Job 21:1–34
 
 ### Third cycle (22–27)
 

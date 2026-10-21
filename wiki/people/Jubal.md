@@ -36,6 +36,9 @@ the musician. Genesis prefers this kind of resonance to actual etymology through
 ## Appears in
 
 - [[The Line of Cain and the Birth of Seth]]
+- [[Why Do the Wicked Live]] — Job 21:12, by allusion: *"They sing to the tambourine and harp, and
+  rejoice at the sound of the pipe."* *Kinnôr* and *ʿûgāb*, his pair, are the music of the
+  prosperous godless — and at Job 30:31 Job's own harp and pipe have turned to mourning.
 
 ## Related people
 

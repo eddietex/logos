@@ -77,6 +77,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   [[I Know That My Redeemer Lives]] (19:2–5, 28–29). [[Zophar's Second Speech]] names the offence he
   will make personal: *"he has oppressed and forsaken the poor. He has violently taken away a
   house"* (20:19).
+- **Job 21:1–34** — answered in [[Why Do the Wicked Live]]: his *"consolations of God"* (15:11)
+  replaced by the consolation of listening (21:2), his terrors (15:21) by houses *"safe from fear"*
+  (21:9), and his *gādîš*, the *shock of grain* of the righteous man's death (5:26), turned into the
+  wicked man's honoured tomb (21:32). His reply will quote 21:14 and 21:16 back at Job (22:17–18).
 - **Job 22:1–30** — the third speech, and the fabricated charges — 22:6–9 is 20:19 with Job's name
   attached and details supplied that the book gives no evidence for.
 - **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job.
@@ -140,6 +144,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   and his *"born of a woman"* anthropology (4:17) is granted at 14:1–4 and turned into a plea for God
   to look away. His reply in chapter 15 answers this speech line for line: 15:2 (*vain knowledge*) to
   12:3, 15:9 to 13:2, 15:10 (*the gray-headed*) to 12:12, 15:14 to 14:1.
+- [[Why Do the Wicked Live]] — Job 21, answering the second cycle's three portraits, his first among
+  them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
+  and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See
+  [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]].
 
 ## Related people
 

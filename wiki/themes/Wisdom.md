@@ -154,6 +154,12 @@ close to the book's whole point about who may speak for the tradition. See
   hymn in which God's wisdom strips counselors and makes judges fools (12:17). The friends' one wise
   act is named: *"Oh that you would be completely silent! Then you would be wise"* (13:5). See
   [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
+- [[Why Do the Wicked Live]] — Job 21:22, 29; **two sources of knowledge set against each other.**
+  The friends' authority is the ancients — the fathers (8:8), the aged (15:10), what has been known
+  *"since man was placed on earth"* (20:4). Job's is the *"wayfaring men"* (21:29), *ʿôbrê dārek*,
+  who have been somewhere and seen. Depth of time against breadth of observation, and the observers
+  win at 42:7. And 21:22's *"Shall any teach God knowledge?"* is Isaiah 40:14's question, aimed at the
+  men who presume to know what God must do.
 
 ## Related themes
 

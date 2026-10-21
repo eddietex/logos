@@ -166,6 +166,13 @@ assumption is that a body left out is a person left out.**
   and princes on one side and stillborn infants on the other**, with prisoners at ease and slaves
   out from under their masters. **Eleven verses after three men held a funeral over him, Job asks
   for the grave himself**
+- [[Why Do the Wicked Live]] — Job 21:26, 32–33; **the good funeral, given to the wicked.** *"Yet he
+  will be borne to the grave. Men shall keep watch over the tomb. The clods of the valley shall be
+  sweet to him. All men shall draw after him."* Carried, watched, followed by a procession, laid in
+  soft valley earth: everything an honoured burial should be. The tomb is a *gādîš*, the *shock of
+  grain* Eliphaz promised the righteous man's death at 5:26 — see
+  [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] — and the worm that covers
+  both the whole man and the bitter one (21:26) is the grave's one impartiality.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

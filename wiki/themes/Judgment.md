@@ -279,6 +279,13 @@ rule are the conditions the rest of Scripture is set in.
   requested (13:23), the written indictment (13:26), the stocks (13:27), and the record sealed in a
   bag (14:17). And the friends warned that God judges partiality *for* himself (13:7–10) — which he
   does, at 42:7
+- [[Why Do the Wicked Live]] — Job 21:17, 19–22, 30; **judgment that does not show.** *"How often
+  is it … that God distributes sorrows in his anger?"* (21:17) asks about frequency, not existence.
+  Deferred judgment on the children is refused (21:19–21); *"Shall any teach God knowledge, since he
+  judges those who are high?"* (21:22) turns the friends' charge of presumption back on them. And
+  21:30 is the crux: the WEB's *"the evil man is reserved to the day of calamity"* makes the
+  travellers testify to a postponed judgment, while most modern translations read *"spared in the day
+  of calamity"*. The passage page reads *spared*, in context, and records both.
 
 ## Related themes
 

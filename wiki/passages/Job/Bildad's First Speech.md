@@ -246,7 +246,8 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
   8:8–10.
 - Job 14:2, 7–9 — the shadow, and the tree that buds *"through the scent of water"*.
 - Job 19:6 — *"God has subverted me"*, Bildad's verb *ʿāwat* returned.
-- Job 21:28 — *"Where is the tent in which the wicked lived?"*, Job quoting the friends' 8:22.
+- [[Why Do the Wicked Live]] — Job 21:28, *"Where is the tent in which the wicked lived?"*, Job
+  quoting the friends' 8:22.
 - Job 34:12 — Elihu: *"neither will the Almighty pervert justice"*, 8:3 restated.
 - Job 42:7–9, 12 — the friends rebuked; *"Yahweh blessed the latter end of Job more than his
   beginning."*

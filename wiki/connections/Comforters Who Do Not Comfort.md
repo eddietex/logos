@@ -11,8 +11,10 @@ tags: [connection]
   [[Seven Days of Silence]]
 - **Job 16:2** — *"I have heard many such things. Miserable comforters are you all!"* —
   *mənaḥămê ʿāmāl kullkem* — [[Miserable Comforters and the Witness in Heaven]]
-- **Job 21:34** — *"So how can you comfort me with nonsense, because in your answers there remains
-  only falsehood?"*
+- **Job 21:2, 34** — *"Listen diligently to my speech. Let this be your consolation"*, and *"So how
+  can you comfort me with nonsense, because in your answers there remains only falsehood?"*: a speech
+  bracketed by the comforters' own root, *nḥm*, with listening named as the only consolation left
+  and their answers named *hebel* and *maʿal*, breath and breach of faith — [[Why Do the Wicked Live]]
 - **Job 42:11** — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
   brothers have dealt deceitfully as a brook"* — [[The Arrows of the Almighty]]
@@ -55,7 +57,11 @@ and the qualifier is what they made of it.**
 **What went wrong is not obscure, because Job says it twice.** *"Oh that you would be completely
 silent! Then you would be wise"* (13:5), and *"how can you comfort me with nonsense?"* (21:34). **The
 complaint is never that they came, and never that they stayed. It is entirely about what they said.**
-For seven days and seven nights they were, by Job's own later standard, perfect comforters.
+For seven days and seven nights they were, by Job's own later standard, perfect comforters. At 21:2
+he says what the comfort would be now — *"Listen diligently to my speech. Let this be your
+consolation"* — turning Eliphaz's *"consolations of God"* (*tanḥumôt*, 15:11) into the plain request
+to be heard; and at 21:5 he asks for the silence back: *"Lay your hand on your mouth."* See
+[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
 
 **Scripture's other failed comforters divide into two kinds, and the friends are neither.**
 

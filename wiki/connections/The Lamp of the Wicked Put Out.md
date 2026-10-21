@@ -17,7 +17,8 @@ tags: [connection]
 - **Proverbs 24:20** — *"for there will be no reward to the evil man. The lamp of the wicked shall
   be snuffed out."*
 - **Job 21:17** — Job's reply: *"How often is it that the lamp of the wicked is put out, that their
-  calamity comes on them, that God distributes sorrows in his anger?"* *(not yet ingested)*
+  calamity comes on them, that God distributes sorrows in his anger?"* —
+  [[Why Do the Wicked Live]]
 - **Job 29:3** — Job on his own past: *"when his lamp shone on my head, and by his light I walked
   through darkness."* *(not yet ingested)*
 - **2 Samuel 21:17** — David's men swear he will not go out to battle again, *"that you don't quench
@@ -50,7 +51,8 @@ makes his use of it an offence is the direction of the inference. Proverbs state
 tendency and offers it as instruction for how to live. Bildad runs it backwards — this man's lamp
 has gone out, therefore he is wicked — and a proverb read backwards is a verdict.
 
-**Job answers with a count.** At 21:17 he takes the exact phrase and turns it into a question about
+**Job answers with a count.** At 21:17 he takes the exact phrase — the same verb, *dāʿak*, *put
+out*, and in the same breath Bildad's *ʾêd*, *calamity* (18:12) — and turns it into a question about
 frequency: *"How often is it that the lamp of the wicked is put out…"* The implied answer is *not
 often enough to infer anything*, and the rest of chapter 21 supplies the evidence — the wicked
 growing old, their children established, their houses safe, their herds calving without loss, and
@@ -85,7 +87,8 @@ Bildad's sentence — a line that will not be ended — and it is given not beca
 deserve it but because it was promised. Revelation 18:23 closes the figure by putting out the lamp
 of a city rather than a man.
 
-The wiki's related pages for this thread are [[Bildad's Second Speech]], where the proverb is
+The wiki's related pages for this thread are [[Why Do the Wicked Live]], where the proverb is
+put to a count; [[Bildad's Second Speech]], where the proverb is
 turned into a verdict; [[Zophar's Second Speech]], which performs the same operation two chapters
 later with different imagery; [[The Prosperity of the Wicked]], for Job's empirical answer and the
 psalms that work the same problem; and the themes [[Retribution]], [[Remembrance]] (the

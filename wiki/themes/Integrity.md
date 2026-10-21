@@ -157,6 +157,11 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   hopes in God. 13:16 makes it evidence: *"a godless man shall not come before him"*, so the
   readiness to appear is itself the defence. See
   [[Though He Slay Me - The Written and the Read Text of Job 13.15]]
+- [[Why Do the Wicked Live]] — Job 21:23; **the root of integrity used of a wicked man's body.**
+  *"One dies in his full strength"* — *bəʿeṣem tummô*, *in the very bone of his completeness*. *Tōm*
+  is the root of *tām* (1:1, 8; 2:3) and of the *tummâ* Job's wife told him to let go (2:9). The
+  wicked man dies *whole*, in the physical sense; the man who held on to wholeness in the moral sense
+  dies, as Job says of the second man, *"in bitterness of soul"* (21:25).
 
 ## Related themes
 

@@ -261,6 +261,11 @@ will finally go both ways.
   my paths"* (13:27), *"open[s] your eyes on such a one"* (14:3), and *"count[s] my steps"* (14:16).
   Job asks to be looked away from — *"Look away from him, that he may rest"* (14:6) — in the same
   breath as he complains of God's hidden face
+- [[Why Do the Wicked Live]] — Job 21:5, 8, 20, 29; **what the eyes are shown.** *"Look at me, and be
+  astonished"* (21:5): Job as the evidence. The wicked keep their offspring *"in their sight … before
+  their eyes"* (21:8) — the sight Job lost at 1:19. *"Let his own eyes see his destruction"* (21:20):
+  punishment should be seen by the one punished. And the witnesses who have seen the world, the
+  *"wayfaring men"* (21:29), against the friends who have only read about it.
 
 ## Related themes
 

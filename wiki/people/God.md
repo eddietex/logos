@@ -1193,6 +1193,13 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   three things: he empties the wicked man's belly of what he swallowed, he rains wrath on him
   mid-meal, and he appoints his heritage. Nothing else divine happens in twenty-nine verses. Where
   Eliphaz's God keeps accounts and Bildad's is a mechanism, Zophar's is purely an executioner.
+- **The God of [[Why Do the Wicked Live]]** is spoken about for thirty-four verses and never spoken
+  to — the first of Job's replies since chapter 19 with no word addressed to him. He is the God whose
+  *rod* is not on the wicked (21:9), whom they tell *"Depart from us"* and who departs (21:14), who
+  *"distributes sorrows in his anger"* less often than the friends claim (21:17), and who *"judges
+  those who are high"* and cannot be taught (21:22). Job's question is not whether God judges but why
+  his judgment is not visible where the friends say it is — and the whirlwind, when it comes, will
+  not answer that question either.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1541,6 +1548,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   if the Redeemer is God — the officer Job asks to take his case against God
 - [[Zophar's Second Speech]] — purely as executioner: he empties the belly, rains the wrath, and
   appoints the heritage
+- [[Why Do the Wicked Live]] — spoken about and never addressed: the God whose rod is absent from
+  the wicked, who leaves when they tell him to, and who *"judges those who are high"* (21:22)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

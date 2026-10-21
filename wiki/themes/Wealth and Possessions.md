@@ -203,6 +203,11 @@ the promise is repeatedly mistaken for.
   (1:3), names their society as the one he would have preferred to join at birth. Set against
   3:19's *"the small and the great are there"*, the passage is the wisdom tradition's levelling
   argument in its bleakest form
+- [[Why Do the Wicked Live]] — Job 21:7–13, 24; **wealth kept to the end.** *"Grow mighty in power"*
+  — *gābərû ḥāyil*, where *ḥayil* is both strength and wealth; bulls that breed, cows that calve and
+  *"don't miscarry"* (21:10, the covenant blessing of Exodus 23:26); pails full of milk; days spent *"in
+  prosperity"*. The direct counter to Zophar's swallowed riches vomited up (20:15): nothing is
+  surrendered, and the wealth goes to the grave with its owner.
 
 ## Related themes
 

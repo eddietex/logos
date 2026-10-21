@@ -109,6 +109,14 @@ to go.
   ended the previous speech at 17:16.
 - [[Bildad's Second Speech]] — not named either, and the source of the book's one crowned Death,
   *"the king of terrors"* (18:14).
+- [[Why Do the Wicked Live]] — Job 21:13, *"They spend their days in prosperity. In an instant they
+  go down to Sheol."* **The descent as a mercy, and given to the wrong men.** *Bəregaʿ*, *in an
+  instant*, is Zophar's word for how long the wicked man's joy lasts (20:5); Job moves it to his
+  death — no lingering, no disease, a step down at the end of a full life. For Job, Sheol has been a
+  long approach (17:13–16); for the wicked it is a threshold crossed without noticing. Their burial
+  follows at 21:32–33, and the two men of 21:23–26 *"lie down alike in the dust"*: Sheol, in this
+  speech, is the one place where the friends' distinction between the wicked and the righteous
+  disappears.
 - [[Joseph Sold into Slavery]] — Genesis 37:35; **the word's first occurrence in the Bible.** *"For I will
   go down to Sheol to my son mourning"* — ***ʾērēd … šəʾōlâ*** — spoken by [[Jacob]] over a coat, about a
   son who is alive, in a chapter in which God is never named. **Everything this page says about Sheol is

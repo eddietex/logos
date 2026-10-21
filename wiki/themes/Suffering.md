@@ -205,6 +205,12 @@ requires only that you be standing outside it.
   the dry stubble?"*; the moth-eaten garment (13:28); man *"full of trouble"* (14:1); and the dead
   man whose *"flesh on him has pain, and his soul within him mourns"* (14:22) — suffering imagined as
   outlasting even the awareness of anything else
+- [[Why Do the Wicked Live]] — Job 21:7–13, 23–26; **suffering shown by its negative.** Job
+  describes the wicked man's untroubled life, and every item is something he has lost: children in
+  sight, a house without fear, herds that do not miscarry, music. Then two deaths, one *"in his full
+  strength"* and one *"in bitterness of soul"* (21:23, 25) — his own phrase for himself (3:20; 7:11;
+  10:1). *"When I remember, I am troubled. Horror takes hold of my flesh"* (21:6): the argument
+  frightens the man making it.
 
 ## Related themes
 

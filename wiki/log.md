@@ -9637,3 +9637,79 @@ passages, 238 connections).
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 21.1-34 — Why Do the Wicked Live
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 21:1–34.
+**Boundary unchanged. Title revised** from the planned *Why Do the Wicked Live On?* to
+[[Why Do the Wicked Live]]: the WEB's own words at 21:7, per the book page's convention that Job's
+replies take a phrase from the speech, and without the question mark, which no filename in the wiki
+uses. The still-unchecked *Where Shall Wisdom Be Found?* and *Oh That I Knew Where I Might Find Him*
+will want the same treatment when they are reached. No collision with any other book. **Job is at
+17 / 32, and the second cycle is complete.** No discussion step; it is written into the passage page.
+
+### The passage page
+
+Built around these findings:
+
+**1. The consolation bracket**: *tanḥûmōtêkem* (21:2), against Eliphaz's *tanḥumôt ʾēl* (15:11),
+closed by *tənaḥămûnî hebel* (21:34); listening named as the only comfort left. 21:3's *talʿîg* is
+singular, read as aimed at Zophar (11:3). 21:5's hand on the mouth, which Job makes himself at 40:4.
+
+**2. The friends' three portraits inverted line by line (21:7–13)**, set out as a table. Zophar's
+*ʿădê-rāgaʿ*, *for a moment* (20:5), becomes the wicked man's *bəregaʿ* descent to Sheol (21:13).
+21:10's *šākal* is the covenant blessing of Exodus 23:26; 21:11's *ʿăwîlîm* are 19:18's; the *kinnôr*
+and *ʿûgāb* of 21:12 are Jubal's pair (Genesis 4:21) and Job's own at 30:31.
+
+**3. The wicked speak (21:14–16)**: the profit question as the accuser's *"for nothing"* (1:9);
+*"Depart from us"* as the prayer Job prayed (7:16; 10:20; 14:6) and the wicked are granted; 21:14 and
+21:16b quoted back by Eliphaz at 22:17–18.
+
+**4. The count (21:17–18)**: Bildad's *dāʿak* and *ʾêd* (18:5–6, 12); Psalm 1:4's chaff.
+
+**5. The children (21:19–21)**: transgenerational punishment refused, with 14:21 as the premise.
+
+**6. The two deaths (21:23–26)**: *bəʿeṣem tummô*, the *t-m-m* root of Job's integrity, used of the
+wicked man's bodily wholeness; *nepeš mārâ*, Job's phrase for himself.
+
+**7. The travellers and the funeral (21:27–33)**: *ʿôbrê dārek* against the friends' ancients; 21:31
+against 13:15's *dərākay ʾel-pānāyw*; **the tomb is a *gādîš*, Eliphaz's *shock of grain* of 5:26.**
+
+**8. The verdict (21:34)**: *hebel* and *maʿal*.
+
+**Judgment calls.** **21:30 read as *spared in* the day of calamity** (RSV, NIV, ESV, NJPS), against
+the WEB/KJV's *reserved to*, on the strength of context — 21:29 calls the travellers as Job's own
+witnesses — with *ḥāśak* at 38:23 and 33:18 recorded for both senses; the WEB reading is kept on the
+page, not overruled. 21:24's *ʿăṭînāyw* recorded as uncertain. The Jubal allusion presented as the
+canon's resonance, not Job's intent. The speech is noted as addressed wholly to the friends, with no
+word to God. **No new person or place pages**; [[Jubal]] gains an appears-in entry by allusion.
+
+### Connection pages (2 new)
+
+- [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] — Exodus 20:5,
+  Deuteronomy 24:16, 2 Kings 14:6, Lamentations 5:7, Jeremiah 31:29–30, Ezekiel 18, John 9:1–3.
+- [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] — the gesture that passes from what
+  Job demands, to what he was given, to what he gives. 29:9 and 40:4 are marked *not yet ingested*.
+
+### Pages created or revised
+
+People (7): [[Job (person)]] (timeline entry rewritten, appears-in), [[Zophar the Naamathite]],
+[[Bildad the Shuhite]], [[Eliphaz the Temanite]] (timeline, appears-in each), [[God]] (new bullet in
+the Job section, appears-in), [[Job's Children]] (timeline, appears-in), [[Jubal]] (appears-in).
+Places (1): [[Sheol]]. Themes (16): [[Retribution]], [[Suffering]], [[Life and Death]],
+[[Burial and the Grave]], [[Judgment]], [[Wisdom]], [[The Fear of God]], [[Prayer]],
+[[Wealth and Possessions]], [[Blessing]], [[Sin]], [[Integrity]], [[Mourning and Lament]],
+[[Language and Speech]], [[Seeing and Being Seen]], [[Light and Darkness]]. Connections revised (6):
+[[The Prosperity of the Wicked]] and [[The Lamp of the Wicked Put Out]] (*not yet ingested* markers
+replaced), [[Comforters Who Do Not Comfort]], [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
+(new paragraph on *gādîš*), [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]],
+[[The Vine and the Cup]]. Passages revised (5): plain *Job 21* cross-references linked in
+[[Zophar's Second Speech]], [[Eliphaz's Second Speech]], [[I Know That My Redeemer Lives]],
+[[Bildad's Second Speech]], [[Bildad's First Speech]]. Book page: box checked, structure note for
+15–21 extended. Indexes: books (17 / 32), themes (16 rows), people (7 rows), places (1 row),
+connections (6 rows extended, +2 rows), `wiki/index.md` (76 passages, 240 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
