@@ -251,3 +251,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]] | image | Job 25:5–6 · Job 7:5 · Job 17:14 · Job 21:26 · Job 24:20 · Psalm 22:1, 6 · Matthew 27:46 · Isaiah 41:14 · Isaiah 66:24 · Mark 9:48 · Acts 12:23 |
 | [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] | thread | Job 26:6 · Job 28:22 · Job 31:12 · Psalm 88:11 · Proverbs 15:11 · Proverbs 27:20 · Revelation 9:11 |
 | [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]] | literary-parallel | Job 20:29 · Job 27:13–23 · Job 21:7–18, 28 · Job 18:21 · Job 5:27 |
+| [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] | formula | Job 28:28 · Job 1:1, 8; 2:3 · Proverbs 1:7 · Proverbs 9:10 · Proverbs 15:33 · Psalm 111:10 · Ecclesiastes 12:13 · Isaiah 11:2 · Isaiah 33:6 |
+| [[Better Than Gold - The Price of Wisdom]] | thread | Job 28:1–11, 13, 15–19 · Proverbs 2:4–6 · Proverbs 3:13–15 · Proverbs 8:10–11, 19 · Proverbs 16:16 · Proverbs 20:15 · Psalm 19:10; 119:72 · Isaiah 33:6 · Matthew 13:44 · Colossians 2:3 · Job 22:24–25 · Job 23:10 |

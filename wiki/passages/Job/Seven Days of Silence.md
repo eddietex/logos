@@ -183,8 +183,8 @@ curse**, and forty chapters of argument follow from it.
 - [[Suffering]] — measured here by a third party for the first time. Chapters 1 and 2 reported what
   was done to Job; this verse reports what it looks like to people who knew him before.
 - [[Wisdom]] — three men from the wisdom lands, and the wisest thing any of them ever does is say
-  nothing for a week. **Job 28 will ask where wisdom is found; the book has already shown one place
-  it was, and the men who were sitting in it did not notice.**
+  nothing for a week. **Job 28 ([[Where Shall Wisdom Be Found]]) will ask where wisdom is found; the
+  book has already shown one place it was, and the men who were sitting in it did not notice.**
 - [[Retribution]] — not yet stated, and already arriving. **Nothing in these verses is doctrinal**,
   but three men have just performed the death rites over a man marked with the boil of Deuteronomy
   28, and they will spend twenty-five chapters saying what that must mean. See

@@ -66,7 +66,7 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   a reason to trust him. In both, the phrase functions as a claim about **ethics**, not piety.
 - **Job 1:1, 8, 9; 2:3** — the narrator's verdict, God's repetition of it twice, and the accuser's
   question about its motive.
-- **Job 28:28** — the hymn to wisdom ends where the book began.
+- **Job 28:28** — [[Where Shall Wisdom Be Found]]: the hymn to wisdom ends where the book began.
 - **Exodus 20:20** — the paradox stated outright at Sinai: *"Don't be afraid, for God has come to
   test you, and that his fear may be before you, that you won't sin."* Do not fear; fear.
 - **Deuteronomy 10:12** — fear, walk, love, serve: the four verbs given as one demand.
@@ -217,6 +217,13 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[Bildad's Third Speech]] — Job 25:2; *"Dominion and fear (paḥad) are with him."* **Dread as an
   attribute God possesses rather than a posture a man takes** — and the root of Job's *"I am afraid of
   him"* (23:15), handed back as a reason for silence.
+- [[Where Shall Wisdom Be Found]] — Job 28:28; ***"Behold, the fear of the Lord, that is wisdom. To depart from evil is
+  understanding."*** **Not the *beginning* of wisdom, as in Proverbs 1:7 and 9:10, but wisdom itself** —
+  the whole of what a human being is given, after a poem that has placed wisdom proper beyond reach. The
+  words are 1:1's: *yərēʾ ʾĕlōhîm wəsār mērāʿ* there, *yirʾat ʾădōnāy … wəsûr mērāʿ* here. **The hymn
+  defines wisdom as the thing the accuser said Job had only for pay (1:9)**, and the divine title is
+  *ʾădōnāy*, found nowhere else in the book. See
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]
 
 ## Related themes
 

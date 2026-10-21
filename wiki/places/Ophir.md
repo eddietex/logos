@@ -35,12 +35,16 @@ person/place rule in `AGENTS.md` applies and both pages take a qualifier.
   location:** *"Lay your treasure in the dust, the gold of Ophir among the stones of the brooks. The
   Almighty will be your treasure."* Eliphaz tells Job to throw the finest gold in the world into a
   wadi bed, on the assumption that wealth had become his god. Job answers under oath at 31:24–25.
-- Job 28:16 *(not yet ingested)* — wisdom *"can't be valued with the gold of Ophir"*: the same byword,
-  now as the measure of what cannot buy wisdom.
+- [[Where Shall Wisdom Be Found]] — Job 28:16, wisdom *"can't be valued with the gold of Ophir"*: the
+  same byword, now as the measure of what cannot buy wisdom. Six verses earlier the miner of 28:1–11
+  could have dug it out; the hymn's point is that what he can dig is not what is needed. See
+  [[Better Than Gold - The Price of Wisdom]].
 
 ## Related places
 
 - [[Havilah]] — the other gold country of Genesis, named beside Ophir among Joktan's sons.
+- [[Cush]] — whose *"topaz"* is named three verses after Ophir's gold in Job 28:19, the far south
+  beside the far east.
 - [[Uz]] — Job's land, whose name is also a genealogical entry in Genesis 10 and 36.
 
 ## Events here

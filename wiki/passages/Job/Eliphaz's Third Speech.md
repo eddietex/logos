@@ -243,7 +243,8 @@ it is false.
 
 - [[Ophir]] — the gold country, named for the first time in Job at 22:24: *"the gold of Ophir among
   the stones of the brooks."* It is a byword here, not a location: the finest gold there is, to be
-  thrown into a wadi bed. The book names it once more, in the hymn to wisdom (28:16).
+  thrown into a wadi bed. The book names it once more, in the hymn to wisdom (28:16), as
+  one of the things that cannot buy it — [[Where Shall Wisdom Be Found]].
 - [[Teman]] — in Eliphaz's gentilic at 22:1, for the last time until 42:7, 9.
 
 ## Themes

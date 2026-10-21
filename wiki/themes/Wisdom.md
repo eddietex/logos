@@ -65,8 +65,8 @@ close to the book's whole point about who may speak for the tradition. See
   Job at Job 1:3.
 - **Job 15:7–19** — [[Eliphaz's Second Speech]]: wisdom claimed as unmixed inheritance.
 - **Job 17:10** — [[Miserable Comforters and the Witness in Heaven]]: the claim refused.
-- **Job 28:1–28** — mining the earth for silver and iron, and finding that wisdom is not among the
-  things that can be mined.
+- **Job 28:1–28** — [[Where Shall Wisdom Be Found]]: mining the earth for silver and iron, and finding that wisdom is
+  not among the things that can be mined.
 - **Job 38–41** — the examination.
 - **Proverbs 1:7; 8:22–31; 9:10** — the fear of Yahweh, and Wisdom personified, brought forth before
   the hills and playing before God at the creation.
@@ -165,6 +165,17 @@ close to the book's whole point about who may speak for the tradition. See
   small a whisper do we hear of him!"*** **The limit of knowledge, stated on the eve of the hymn to
   wisdom (Job 28).** The friends reasoned from God's character as if they had heard the thunder; Job
   says no one has
+- [[Where Shall Wisdom Be Found]] — Job 28:1–28; **the theme's centre in Job, and the tradition's question asked of itself.**
+  The miner can find silver, gold, iron, copper and sapphire anywhere in the earth and bring *"the
+  thing that is hidden"* to light (28:11), but *"where shall wisdom be found? Where is the place of
+  understanding?"* (28:12, 20). Not in the land of the living, not in the deep or the sea, not for gold
+  of Ophir or topaz of Cush, and the underworld has only *"heard a rumor of it"* (28:22). **God alone
+  *"understands its way"*** (28:23), having seen and searched it out when he measured the wind and the
+  rain (28:25–27). What he gives man is not wisdom's location but its human form: *"the fear of the
+  Lord, that is wisdom. To depart from evil is understanding"* (28:28) — Job 1:1's description of Job.
+  The same verb, *ḥāqar*, is the miner's search (28:3) and God's (28:27). See
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] and
+  [[Better Than Gold - The Price of Wisdom]]
 
 ## Related themes
 

@@ -10044,3 +10044,82 @@ extended), `wiki/index.md` (80 passages, 247 connections).
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 28.1-28 — Where Shall Wisdom Be Found
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 28:1–28. **Boundary
+unchanged; title kept** from the plan, minus its question mark — `?` is not allowed in an Obsidian
+filename, and [[Why Do the Wicked Live]] set the precedent. No collision with any other book. **Job
+is at 22 / 32.** No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Where Shall Wisdom Be Found]], built around four findings:
+
+**1. Three movements, two refrains.** The miner finds everything in the earth (28:1–11); wisdom is
+found nowhere and bought with nothing (28:12–22, refrain at 12 and 20); God alone knows its way
+(28:23–27); and the coda, *"the fear of the Lord, that is wisdom. To depart from evil is
+understanding"* (28:28).
+
+**2. 28:28 is 1:1 made into a definition** — *yərēʾ ʾĕlōhîm wəsār mērāʿ* becomes *yirʾat ʾădōnāy …
+wəsûr mērāʿ*. By the hymn's own terms Job was wise before the book began. It is wisdom as a way to
+live, not an explanation, and chapters 29–31 resume the lawsuit at once.
+
+**3. Two searches with one verb, two hidden things with one root.** *Ḥāqar* is the miner's search
+(28:3) and God's (28:27); *ʿ-l-m* is the hidden thing the miner brings to light (28:11) and the
+hiddenness of wisdom (28:21).
+
+**4. The hymn anticipates the whirlwind.** 28:26b and 38:25b are the same Hebrew, *wəderek laḥăzîz
+qōlôt*; *bənê-šaḥaṣ* (28:8) recurs only at 41:34, the last line on Leviathan.
+
+**Judgment calls.** **Speaker: the received attribution to Job kept**, the chapter treated
+structurally as an interlude, and four readings recorded (Job; narrator; independent poem; friends'
+cycle). **The divine name *ʾădōnāy* at 28:28** recorded as its only occurrence in the book (with the
+manuscripts that read *Yahweh*), and with 12:9 the dialogue's only step outside *ʾĕlôah*/*ʾēl*/*Šadday*.
+**God's only reported words in the poetry**: stated with the qualification that 9:19 imagines him
+speaking. **Mining**: the Arabah copper sites (Timna, Faynan) named as the technology the poem
+describes, with Uz's Edomite location given as "the usual identification". **28:13's *price***: the
+Greek's *way* noted. **Cush given a page** (new place) rather than left as an unlinked name: it is
+named in Genesis 2:13 and 10:6–8 and now in Job, and was mentioned unlinked on six pages. It takes the
+bare name on the [[Ophir]]/[[Havilah]] precedent — Ham's son has no person page. Baruch 3 cited, not
+quoted, as outside the wiki's sixty-six books.
+
+### Connection pages
+
+Created (2): [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] and
+[[Better Than Gold - The Price of Wisdom]]. Every non-Job quotation on them, on the passage page and on
+[[Cush]] was checked against the WEB from bible-api.com before writing (Proverbs 1:7; 2:3–6; 3:13–15;
+8:10–11, 19, 22–23; 9:10; 15:33; 16:16; 20:15; Psalm 19:9–10; 111:10; 119:72; Ecclesiastes 12:13;
+Isaiah 11:2; 33:6; Jeremiah 10:12; Matthew 13:44; Colossians 2:3; 1 Corinthians 1:24, 30; Deuteronomy
+4:6 (checked, not used); Exodus 28:17; Ezekiel 28:13; Isaiah 18:1–2; Jeremiah 13:23 (checked, not
+used); Acts 8:27; Numbers 12:1; 2 Kings 19:9; Psalm 68:31 (checked, not used); Amos 9:7; Esther 1:1;
+Zephaniah 3:10). Job and Genesis texts checked against `raw/bible/`. Not-yet-ingested texts are marked
+as such.
+
+Revised (4): [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] (28:1, 15–19 linked; the
+Ophir gold paragraph), [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]]
+(*ḥāqar* at 28:3 and 28:27 against Zophar's *ḥēqer*),
+[[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] (28:22 linked),
+[[The First Man and Wisdom Before the Hills]] (28:25–27 as Proverbs 8 without the personification).
+
+### Pages created or revised
+
+Created (4): the passage page, the two connections, and [[Cush]]. People (3): [[Job (person)]]
+(timeline split into 28 and 29–31; appears-in), [[God]] (Job section and appears-in), [[Nimrod]] (his
+father linked to [[Cush]]). Places (4): [[Ophir]] (*not yet ingested* removed), [[Sheol]], [[Eden]],
+[[Havilah]]. Themes (10): [[Wisdom]], [[The Fear of God]], [[Sin]], [[Wealth and Possessions]], [[Work]],
+[[Light and Darkness]], [[Creation]], [[Seeing and Being Seen]], [[Life and Death]],
+[[The Names of God]]. Connections revised (4). Passages revised (6): [[I Will Not Put Away My Integrity]],
+[[Seven Days of Silence]], [[Eliphaz's Third Speech]], [[The Table of Nations]] and
+[[The Garden of Eden]] (Cush linked), with plain *Job 28* references linked. Book page: box checked,
+structure note for 28 expanded, Ophir and Cush added to key places. Indexes: books (22 / 32), people
+(2 rows), places (+1 row, 2 rows extended), themes (10 rows), connections (+2 rows), `wiki/index.md`
+(81 passages, 76 places, 249 connections).
+
+No contradiction between wiki pages found. The tension between 28:28's settled answer and the unsettled
+Job of 29–31 is recorded on the passage page as a question about the speaker.
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

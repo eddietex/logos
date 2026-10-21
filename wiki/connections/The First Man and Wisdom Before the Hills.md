@@ -17,7 +17,8 @@ tags: [connection]
 - **Job 38:4, 21** — God, from the whirlwind: *"Where were you when I laid the foundations of the
   earth? … Surely you know, for you were born then, and the number of your days is great!"*
 - **Genesis 2:7** — the forming of the first man — [[The Garden of Eden]]
-- **Job 28:12–28** — *"Where shall wisdom be found? … God understands its way"*
+- **Job 28:12–28** — *"Where shall wisdom be found? … God understands its way"* —
+  [[Where Shall Wisdom Be Found]]
 - **Ezekiel 28:12–15** — the figure in Eden, on the holy mountain, *"full of wisdom"*
 
 ## Analysis
@@ -68,7 +69,10 @@ counsel of God, and it is us, and what was said there destroys his argument.
 - **It ties Job to the wisdom tradition's own self-portrait.** Proverbs 8 is the tradition's highest
   claim: Wisdom present at creation, delighting in the inhabited world. Job 15:7 shows a
   representative of that tradition wielding the claim as a weapon, and Job 28 shows the tradition
-  concluding that wisdom is not findable by the living at all — *"It can't be gotten for gold"*.
+  concluding that wisdom is not findable by the living at all — *"It can't be gotten for gold"*. Its
+  creation scene (28:25–27) is Proverbs 8:22–31's with the personification removed: God *"saw it, and
+  declared it. He established it, yes, and searched it out"*, and wisdom is the thing seen, not the
+  one standing beside him.
   Between the two, the book has walked its own inheritance to the edge.
 - **It gives the whirlwind speeches a target.** God's questions in Job 38–41 are often read as
   overwhelming Job with irrelevance. Read against 15:7–8, they are precise: God is taking up the

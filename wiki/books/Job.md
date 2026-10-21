@@ -91,7 +91,15 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   whole case rests on: *"As God lives, who has taken away my right … Until I die I will not put away my
   integrity from me"* (27:2, 5). Its last section (27:13–23) recites the wicked man's ruin in words
   that contradict Job's own chapter 21 — Zophar's lost third speech, on one reconstruction.
-- **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
+- **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"* No heading follows 27:1, so
+  as received it is Job's; but it has no *I*, no *you* and no complaint, and it reads as a pause between
+  the failed debate and the speakers who will try to go past it. The miner finds every precious thing
+  in the earth and brings the hidden to light (28:1–11); wisdom is found nowhere, priced above the gold
+  of Ophir and the topaz of Cush, and known to Death only by rumour (28:12–22); God alone knows its
+  place, having seen it when he measured the wind and the rain (28:23–27). Then: *"the fear of the
+  Lord, that is wisdom. To depart from evil is understanding"* (28:28) — **1:1's description of Job,
+  made into a definition.** The hymn calls wise the man the friends call guilty, and its rain and
+  lightning (28:26) are the whirlwind's (38:25), in the same Hebrew.
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
@@ -146,7 +154,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Interlude (28)
 
-- [ ] Where Shall Wisdom Be Found? — Job 28:1–28
+- [x] [[Where Shall Wisdom Be Found]] — Job 28:1–28
 
 ### Job's final defense (29–31)
 
@@ -211,3 +219,5 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Shuah]] — Bildad's; usually the Shuah of Genesis 25:2, sometimes Assyrian Sūḫu, certainly neither
 - [[Naamah]] — Zophar's, unattested anywhere else and unlocated
 - [[Sheol]]
+- [[Ophir]] — the byword for fine gold, thrown in the wadi at 22:24 and outpriced by wisdom at 28:16
+- [[Cush]] — the WEB's *Ethiopia*; its topaz is the last precious thing named against wisdom (28:19)

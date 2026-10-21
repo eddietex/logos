@@ -1229,6 +1229,15 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   says that all of it is *"the outskirts of his ways"*, a *"whisper"*, and that *"the thunder of his
   power"* no one understands (26:14). The friends spoke of God as known; Job's last hymn speaks of him
   as almost wholly unknown, and swears by him anyway.
+- **The God of [[Where Shall Wisdom Be Found]]** is the only one who knows where wisdom is: *"God
+  understands its way, and he knows its place. For he looks to the ends of the earth, and sees under
+  the whole sky"* (28:23–24). He knew it when he weighed the wind, measured the waters, and made *"a
+  decree for the rain, and a way for the lightning of the thunder"* (28:25–26) — *"then he saw it, and
+  declared it. He established it, yes, and searched it out"* (28:27). **The only words the poetry reports
+  him as having actually said** (Job's 9:19 only imagines him speaking) **are addressed to no one in the
+  story but to *ʾādām*, mankind**: *"the fear of the Lord, that is
+  wisdom"* (28:28), under the title *ʾădōnāy*, found nowhere else in the book. The whirlwind speeches
+  will ask Job about the same rain and lightning in the same Hebrew (38:25).
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1589,6 +1598,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[I Will Not Put Away My Integrity]] — Sheol naked before him (26:6), the earth hung on nothing
   (26:7), Rahab struck through (26:12), known only at his edges (26:14); sworn by as the one *"who has
   taken away my right"* (27:2), and the giver of the breath in Job's nostrils (27:3)
+- [[Where Shall Wisdom Be Found]] — the one who *"understands its way"* (28:23), who sees under the
+  whole sky (28:24), who saw, declared, established and searched out wisdom at the founding of the world
+  (28:25–27), and who tells mankind that the fear of the Lord is wisdom (28:28)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

@@ -208,6 +208,10 @@ everlasting possession, by treaty with its current occupant.
   speeches of the dialogue** (3:1–37:24), where every speaker otherwise says *ʾĕlôah*, *ʾēl* or
   *Šadday*. Probably explained by its being a fixed phrase, found verbatim at Isaiah 41:20; some
   Hebrew manuscripts read *ʾĕlôah*. The same speech has *ʾĕlôah*, *ʾēl* and *Šadday* (12:4; 13:3)
+- [[Where Shall Wisdom Be Found]] — Job 28:28; ***ʾădōnāy***, *the Lord*, **its only occurrence in the book**, in the
+  formula *"the fear of the Lord, that is wisdom"* — Israel's wisdom motto (Proverbs 1:7; 9:10, with
+  *Yahweh*) in the one place the poetry of Job quotes God as having spoken. Some Hebrew manuscripts read
+  *Yahweh*; with 12:9, it is the dialogue's only departure from *ʾĕlôah*, *ʾēl* and *Šadday*
 
 ## Related themes
 

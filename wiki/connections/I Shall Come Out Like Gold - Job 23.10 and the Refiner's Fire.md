@@ -15,8 +15,8 @@ tags: [connection]
   [[The Wager in Heaven and the Four Messengers]], [[The Second Test]]
 - **Job 22:24–25** — Eliphaz: *"Lay your treasure in the dust, the gold of Ophir among the stones of
   the brooks. The Almighty will be your treasure"* — [[Eliphaz's Third Speech]]
-- **Job 28:1, 15–19** *(not yet ingested)* — *"Surely there is a mine for silver, and a place for gold
-  which they refine"*; wisdom that gold cannot buy
+- **Job 28:1, 15–19** — *"Surely there is a mine for silver, and a place for gold which they refine"*;
+  wisdom that gold cannot buy — [[Where Shall Wisdom Be Found]]
 - **Psalm 66:10** *(not yet ingested)* — *"For you, God, have tested us. You have refined us, as
   silver is refined."*
 - **Proverbs 17:3** *(not yet ingested)* — *"The refining pot is for silver, and the furnace for
@@ -62,8 +62,10 @@ remove a fault in it.
 
 **And it answers Eliphaz.** One chapter earlier Eliphaz told Job to throw his gold into the wadi
 (22:24–25), assuming wealth was Job's god. Job's reply makes himself the gold, and God the assayer.
-The hymn of chapter 28 will finish the thought: there is a place where gold is refined, but no
-place where wisdom is mined, and gold cannot buy it.
+The hymn of chapter 28 finishes the thought: there is a place where gold is refined (28:1), but no
+place where wisdom is mined, and neither gold nor *"the gold of Ophir"* can buy it (28:15–16). The
+same Ophir gold Eliphaz told Job to throw away is the gold the hymn says is worthless for the one thing
+that matters. See [[Better Than Gold - The Price of Wisdom]].
 
 **1 Peter turns the image into a pastoral programme.** *"The proof (dokimion) of your faith, which
 is more precious than gold that perishes even though it is tested by fire"* (1 Peter 1:7) is Job 23:10

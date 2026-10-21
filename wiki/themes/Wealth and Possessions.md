@@ -217,6 +217,12 @@ the promise is repeatedly mistaken for.
   rich, but he shall not do so again."* The transfer of the wicked man's wealth to the righteous, as in
   Proverbs 13:22 and Ecclesiastes 2:26 — and in contradiction of Job's own 21:7–13 (flagged on
   [[Retribution]])
+- [[Where Shall Wisdom Be Found]] — Job 28:1–2, 15–19; **the most precious things in the world, catalogued and set
+  aside.** The miner's silver, gold, iron and copper (28:1–2), and then gold in five words, silver
+  weighed, *"the gold of Ophir"*, onyx, sapphire, glass, coral, crystal, rubies and *"the topaz of
+  Ethiopia"* — none of which can buy wisdom: *"Man doesn't know its price"* (28:13). Spoken by a man
+  who has lost everything he owned, and who was wise, by 28:28's definition, before and after the loss.
+  See [[Better Than Gold - The Price of Wisdom]]
 
 ## Related themes
 

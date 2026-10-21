@@ -158,6 +158,11 @@ to go.
   shades, *"tremble"* beneath the waters (26:5), and Sheol is *ʿārôm*, naked — the word of 1:21's
   *"Naked I came out of my mother's womb"*. Job, who wished to be hidden there (14:13), now says
   nothing there is hidden. See [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
+- [[Where Shall Wisdom Be Found]] — Job 28:22; ***"Destruction and Death say, 'We have heard a rumor of
+  it with our ears.'"*** **The underworld given a voice, and what it says is that it does not know.**
+  Abaddon (*ʾăbaddôn*) and Death (*māwet*) stand in for Sheol at the bottom of a search that has already
+  failed in the land of the living (28:13), the deep and the sea (28:14), and the sky (28:21). The
+  realm that was *naked before God* two chapters earlier (26:6) has heard of wisdom only by report.
 
 ## Related places
 

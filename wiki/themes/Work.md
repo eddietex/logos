@@ -159,6 +159,13 @@ the seventh day a blessing. See [[Sabbath]].
   forage like wild donkeys and glean the vineyard of the wicked; then *"Being hungry, they carry the
   sheaves. They make oil within the walls of these men. They tread wine presses, and suffer thirst."*
   Deuteronomy 25:4 forbids muzzling the ox that treads the grain; these workers get less than the ox.
+- [[Where Shall Wisdom Be Found]] — Job 28:1–11; **the Bible's fullest description of a technology, and one of its
+  most admiring.** Shafts sunk far from where people live, men on ropes who *"hang far from men, they
+  swing back and forth"* (28:4), rock broken *"as it were by fire"* (28:5), channels cut and water
+  dammed (28:10–11) — copper and iron mining of the kind practised in the Arabah. The miner goes where
+  the falcon has not looked and the lion has not walked (28:7–8), and *"His eye sees every precious
+  thing"* (28:10). **The poem praises the skill without reservation, and then says what it cannot reach**:
+  wisdom (28:12)
 
 ## Related themes
 

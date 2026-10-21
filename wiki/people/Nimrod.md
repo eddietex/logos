@@ -101,7 +101,8 @@ remembers, and the rebel is an inference from two ambiguous words.**
 
 ## Related people
 
-- **Cush** — his father, Ham's firstborn; the Nubian branch of the Table
+- Cush — his father, Ham's firstborn; the Nubian branch of the Table. The man has no page; the land
+  does, at [[Cush]]
 - [[Ham]] — his grandfather
 - [[Noah]] — his great-grandfather
 - [[The Nephilim]] — not his kin, but the only other *gibbōrîm* in Genesis, and the reason 10:8 reads

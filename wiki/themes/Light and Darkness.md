@@ -143,6 +143,11 @@ raw text.)*
 - [[I Will Not Put Away My Integrity]] — Job 26:10; 27:20; *"He has described a boundary on the
   surface of the waters, and to the confines of light and darkness"*: the limit of light drawn by God
   as a circle on the sea; and the night in which the storm steals the wicked man away
+- [[Where Shall Wisdom Be Found]] — Job 28:3, 11; ***"Man sets an end to darkness"*** and ***"The thing that is hidden he
+  brings out to light."*** **Human skill as the bringing of light into darkness** — the miner's lamp in
+  *"the stones of obscurity and of thick darkness"* — in the book whose hero began by asking for his
+  birthday to be given back to the dark (3:4–6). The light reaches every ore and not wisdom, which is
+  *"hidden from the eyes of all living"* (28:21)
 
 ## Related themes
 

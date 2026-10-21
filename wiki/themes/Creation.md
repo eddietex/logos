@@ -123,6 +123,12 @@ Genesis 1 sets four load-bearing claims:
   fleeing serpent pierced (26:12–13). Creation as combat and as order, ending in *"these are but the
   outskirts of his ways"* (26:14). And Genesis 2:7 in Job's oath: *"the spirit of God is in my
   nostrils"* (27:3)
+- [[Where Shall Wisdom Be Found]] — Job 28:14, 24–27; **wisdom present at the measuring of the world.** God weighed the
+  wind, measured the waters, *"made a decree for the rain, and a way for the lightning of the thunder"*,
+  and *"then he saw it, and declared it. He established it, yes, and searched it out"* — Proverbs
+  8:22–31's scene without Proverbs 8's personification. The deep, *təhôm*, Genesis 1:2's word, says *"It
+  isn't in me"* (28:14). 28:26b and 38:25b are the same Hebrew, *wəderek laḥăzîz qōlôt*: the hymn
+  anticipates the whirlwind's catalogue
 
 ## Related themes
 

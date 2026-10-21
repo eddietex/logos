@@ -255,6 +255,9 @@ has been argued.
   brightness and stars that are not pure. No sin is named and no sinner; being human is the charge.
   See [[What Is Man That He Should Be Clean]] and
   [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]].
+- [[Where Shall Wisdom Be Found]] — Job 28:28; ***"To depart from evil is understanding."*** *Sûr mērāʿ*, the negative half
+  of the definition of wisdom, and the second half of Job's description at 1:1, 8 and 2:3. **Turning
+  from evil is made a form of knowledge** — *bînâ*, understanding — rather than only a moral act
 
 ## Related themes
 

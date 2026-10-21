@@ -10,7 +10,7 @@ tags: [connection]
 - **Job 26:6** — *"Sheol is naked before God, and Abaddon has no covering."* —
   [[I Will Not Put Away My Integrity]]
 - **Job 28:22** — *"Destruction and Death say, 'We have heard a rumor of it with our ears.'"* — the
-  same word, *ʾăbaddôn*, rendered *Destruction* by the WEB *(not yet ingested)*
+  same word, *ʾăbaddôn*, rendered *Destruction* by the WEB — [[Where Shall Wisdom Be Found]]
 - **Job 31:12** — *"For it is a fire that consumes to destruction"* — *ʿad-ʾăbaddôn*, adultery as a
   fire that burns all the way down to it *(not yet ingested)*
 - **Psalm 88:11** — *"Is your loving kindness declared in the grave? Or your faithfulness in

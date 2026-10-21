@@ -16,8 +16,9 @@ tags: [connection]
 - **Job 26:5–6, 14** — *"Sheol is naked before God, and Abaddon has no covering"*; *"Behold, these
   are but the outskirts of his ways. How small a whisper do we hear of him!"* —
   [[I Will Not Put Away My Integrity]]
-- **Job 28:3, 12–14, 21–22** — the miner who *"searches out, to the furthest bound"* (*taklît*), and
-  wisdom that the deep and the sea say is not in them *(not yet ingested)*
+- **Job 28:3, 12–14, 21–23, 27** — the miner who *"searches out, to the furthest bound"* (*taklît*),
+  wisdom that the deep and the sea say is not in them, and God who *"searched it out"* —
+  [[Where Shall Wisdom Be Found]]
 - **Job 38:16–18** — God: *"Have you walked in the recesses (ḥēqer) of the deep? Have the gates of
   death been revealed to you? … Have you comprehended the earth in its width?"* *(not yet ingested)*
 - **Psalm 139:7–10** — *"If I ascend up into heaven, you are there. If I make my bed in Sheol, behold,
@@ -71,7 +72,10 @@ same premise in Zophar's mouth is a gag, and in God's an invitation.**
 miner going down to *taklît*, the farthest bound (28:3; Zophar's *"the limits (taklît) of the
 Almighty"*, 11:7), the deep and the sea saying *"it isn't in me"* (28:14), Abaddon and Death having
 only heard a rumour of it (28:22) — and concludes that *"God understands its way"* (28:23). That is
-11:7–9 without 11:6: unsearchable, and without the accusation.
+11:7–9 without 11:6: unsearchable, and without the accusation. **The verb of the search is the noun of
+Zophar's question**: the miner *ḥôqēr*, *searches out* (28:3), and God, at the founding of the world,
+*ḥăqārāh*, *searched it out* (28:27) — the root of *ḥēqer*, *"Can you fathom (ḥēqer) the mystery of
+God?"* (11:7). The hymn grants both searches and lets only one of them reach wisdom.
 
 **Paul quotes Job and borrows Zophar.** Romans 11:33–35 is a doxology on God's *unsearchable*
 judgments, and 11:35 is a quotation of Job 41:11 (*"Who has first given to him?"*). Ephesians 3:18's

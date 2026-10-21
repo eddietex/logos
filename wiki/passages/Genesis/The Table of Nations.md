@@ -387,6 +387,8 @@ in the book is somewhere.
   1 Chronicles 1:42 give a Horite Uz in Edom, and Lamentations 4:21 — the only verse that puts Uz on
   a map — puts it in Edom too, which is why the southern location is generally preferred. Genesis
   asserts no connection to Job and neither does the wiki; see [[Uz]] for the three readings.
+- [[Cush]] — Ham's firstborn (10:6–8), the Nubian kingdom on the upper Nile, and Nimrod's father. Its
+  page came later, with *"the topaz of Ethiopia"* at Job 28:19.
 - [[Gerar]] — one end of the Canaanite border as it is drawn at 10:19, and later the town both
   Abraham and Isaac sojourn in; it took its own page at Genesis 20.
 - **Named but not given pages here** — Sidon, Gaza, Admah, Zeboiim, Lasha, Erech, Accad, Calneh,
@@ -462,7 +464,9 @@ in the book is somewhere.
 - Deuteronomy 7:1; Joshua 3:10 — the seven nations of Canaan, all of them in 10:15–18.
 - Deuteronomy 32:8 — the bounds of the peoples set *"according to the number of the children of
   Israel"*, and the Septuagint's *"sons of God"*.
-- 1 Kings 9:28; 10:11; Job 28:16 — Ophir, Joktan's son and the Bible's gold country.
+- 1 Kings 9:28; 10:11; Job 28:16 — Ophir, Joktan's son and the Bible's gold country; and Job 28:19,
+  the *"topaz of Ethiopia"* — [[Cush]], Ham's son — in the same catalogue
+  ([[Where Shall Wisdom Be Found]]).
 - 1 Chronicles 1:5–23 — the Table repeated almost verbatim, with the Nimrod narrative kept (1:10) and
   everything else stripped to names.
 - Isaiah 11:11; 66:19 — Pathros, Cush, Elam, Shinar, Tarshish, Put, Lud, Tubal, and Javan named

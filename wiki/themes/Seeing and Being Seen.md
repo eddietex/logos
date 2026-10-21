@@ -277,6 +277,11 @@ will finally go both ways.
   and Job answers *"His eyes are on their ways"* (24:23): against Eliphaz's misquotation (22:13), Job
   insists God does see — and does nothing. Psalm 139's inescapable God, turned inside out. See
   [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]].
+- [[Where Shall Wisdom Be Found]] — Job 28:7, 10, 21, 24, 27; **a search conducted as a contest of eyes.** The falcon's
+  eye has not seen the miner's path (28:7); the miner's eye *"sees every precious thing"* (28:10);
+  wisdom is *"hidden from the eyes of all living"* (28:21); God *"looks to the ends of the earth, and
+  sees under the whole sky"* (28:24), and at the creation *"saw it"* (28:27). Only one eye sees far
+  enough
 
 ## Related themes
 

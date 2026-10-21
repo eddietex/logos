@@ -365,6 +365,9 @@ the rest of the canon.
   beneath the waters and Sheol naked before God; *"the length of my life is still in me, and the spirit
   of God is in my nostrils"* — life as God's breath, Genesis 2:7 — and *"Until I die"* as the term of
   the oath
+- [[Where Shall Wisdom Be Found]] — Job 28:13, 22; wisdom *"not found in the land of the living"* — *ʾereṣ haḥayyîm* —
+  and the dead no better placed: *"Destruction and Death say, 'We have heard a rumor of it with our
+  ears.'"* **Neither side of the boundary holds it**
 
 ## Related themes
 

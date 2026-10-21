@@ -81,6 +81,7 @@ but the trade route is the same one.** See [[Abraham's Other Sons in Isaiah 60]]
 - [[Assyria]] — the far bearing at 25:18, *"as you go toward Assyria"*
 - [[Egypt]] — what Shur fronts, and the other end of the corridor
 - [[Eden]] — the region whose second river runs through Havilah at 2:11
+- [[Cush]] — Havilah's "father" at 10:7; the land the next river of Eden runs through (2:13)
 - [[The Negev]] — the dry country the corridor runs below
 
 ## Events here

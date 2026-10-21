@@ -168,8 +168,12 @@ speeches; each becomes a linked passage page as it is ingested.
   who has taken away my right … Until I die I will not put away my integrity from me"* (27:2, 5). Then,
   as the text stands, recites the wicked man's ruin (27:13–23) in terms that contradict his own
   chapter 21.
-- **Job 28–31** — the hymn to wisdom, and Job's closing oath of
-  innocence, in which he calls down curses on himself if the charges are true.
+- **Job 28:1–28** — [[Where Shall Wisdom Be Found]]. Still under the heading of 27:1, but with no *I*,
+  no *you*, and no complaint: a hymn on the miner who finds everything in the earth and the wisdom no
+  one can find or buy, ending *"the fear of the Lord, that is wisdom. To depart from evil is
+  understanding"* (28:28) — **the narrator's description of him at 1:1, turned into a definition.**
+- **Job 29–31** — Job's closing defence and oath of innocence, in which he calls down curses on
+  himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
@@ -316,6 +320,15 @@ speeches; each becomes a linked passage page as it is ingested.
   *rarely*. The wiki keeps both claims in his mouth and records the four readings (Zophar's lost
   speech; imprecation on his accusers, 27:7; concession of the end but not the inference; citation)
   on the passage page and at [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
+- [[Where Shall Wisdom Be Found]] — Job 28:1–28; **the hymn that names him without naming him.**
+  Wisdom cannot be mined, bought, or found in the deep, the sea, the sky or the underworld; God alone
+  knows its place; and to man God says *"the fear of the Lord, that is wisdom. To depart from evil is
+  understanding"* (28:28) — ***yirʾat ʾădōnāy … wəsûr mērāʿ***, the words of 1:1, *yərēʾ ʾĕlōhîm
+  wəsār mērāʿ*. **By the hymn's definition, the man the friends call a fool was the wisest man in the
+  book before the book began.** The poem is his only by the absence of a new heading; its calm sits
+  oddly between the oath of chapter 27 and the renewed complaint of 29–31, and the readings of who
+  speaks it (Job; the narrator; an independent poem) are recorded on the passage page. See
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
 
 ## Related people
 
