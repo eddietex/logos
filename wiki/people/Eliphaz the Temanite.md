@@ -134,6 +134,12 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 - [[Zophar's First Speech]] — Job 11:1–20, silent; his *ʾên ḥēqer* (5:9) becomes Zophar's
   *"Can you fathom (ḥēqer) the mystery of God?"* (11:7), and his conditional promise (5:19–26) is
   compressed into 11:15–19, the last time any friend makes it.
+- [[Though He Slay Me]] — Job 12:1–14:22, answered in the plural, and **his hymns are turned
+  against him.** His *"He takes the wise in their own craftiness"* and his groping at noon (5:13–14)
+  return in 12:17–25 as a doxology in which God humbles counselors and judges with no moral attached,
+  and his *"born of a woman"* anthropology (4:17) is granted at 14:1–4 and turned into a plea for God
+  to look away. His reply in chapter 15 answers this speech line for line: 15:2 (*vain knowledge*) to
+  12:3, 15:9 to 13:2, 15:10 (*the gray-headed*) to 12:12, 15:14 to 14:1.
 
 ## Related people
 

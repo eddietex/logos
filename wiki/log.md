@@ -9538,3 +9538,102 @@ places (2 rows), connections (8 rows, +3 rows), `wiki/index.md` (74 passages, 23
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 12.1-14.22 — Though He Slay Me
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 12:1–14:22.
+**Boundary and title unchanged**: *Though He Slay Me*, following the book page's convention that
+Job's replies take a phrase from the speech. The phrase is the KJV's, not the WEB's (see the
+correction below), and the passage page's Notes explain why the title keeps it anyway: it is the
+name the speech is known by. No collision with any other book. **Job is at 16 / 32, and the first
+cycle is complete.** No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Though He Slay Me]], `wiki/passages/Job/`. Built around these findings:
+
+**1. Chapter 12 takes wisdom from the friends**: *"wisdom shall die with you"* (12:2); *ṣaddîq
+tāmîm*, Noah's pair from Genesis 6:9, as a joke (12:4); four creatures against Zophar's four regions
+(12:7–8); **12:9's *Yahweh*, the only one in the dialogue's speeches** (a fixed phrase, also at
+Isaiah 41:20); *"With aged men is wisdom"* overruled by *"With God is wisdom"* (12:12–13).
+
+**2. The hymn of overthrow (12:13–25)**, ten classes of the powerful humbled with no moral attached.
+**12:21a + 12:24b are Psalm 107:40 word for word**, and the psalm's next verse raises the needy where
+Job's hymn has no next verse. 12:24's *tōhû* (Genesis 1:2) and 12:25's groping (Job 5:14;
+Deuteronomy 28:29).
+
+**3. The friends dismissed (13:1–12)**: *hôkēaḥ* (13:3, 10, 15), the root of 9:33's missing
+*mōkîaḥ* — Job will argue his own case. 13:8–10's ***nāśāʾ pānîm***, partiality for God, set against
+42:8's *pānāyw ʾeśśāʾ*: the friends lift God's face, God lifts Job's.
+
+**4. 13:15–19**: the Ketiv/Qere of 13:15, *"I have no hope"* or *"for him I will wait"*; 13:16's
+Septuagint quoted by Paul at Philippians 1:19; *ʾeṣdāq*, *"I know that I am righteous"* (13:18),
+answering 9:2; *"Who is he who will contend with me?"*, Isaiah 50:8.
+
+**5. 13:20–14:22, addressed to God**: the two procedures of 13:22, which the whirlwind takes up (38:3;
+40:7; 42:4); the *ʾôyēb/ʾiyyôb* pun (13:24); Elihu's later quotations of 12:11, 13:24 and 13:27 (34:3;
+33:10–11); man born of woman and the flower (14:1–2); 14:4 read as a plea rather than a doctrine; the
+tree's *gezaʿ* (shared only with Isaiah 11:1 and 40:24) and *ḥālap* (14:7, 14); and **14:13–15, the
+first time Job imagines God remembering him beyond death**, as an unreal wish withdrawn at 14:19.
+
+**Judgment calls.** 13:15 follows the **Ketiv and the WEB**, on the strength of *ʾak* and of *yāḥal*
+at 6:11; the Qere recorded as ancient and Masoretically preferred. 12:5–6's textual difficulties
+recorded, not resolved. 12:12 read as a position 12:13 overrules, with the question reading noted.
+14:4's later use as a text on original sin recorded without being read back into the verse. Boundary
+kept at 12:1–14:22 rather than divided at 13:20. **No new person or place pages**; [[Noah]] gains an
+appears-in entry by allusion (12:4; 14:13).
+
+### Correction flagged
+
+**[[Hope]] had the Ketiv and Qere of 13:15 reversed.** It said the marginal reading gives *"I have no
+hope"*; it is the written text that says so, and the margin that says *"for him"*. Corrected on the
+page with a visible note, and recorded on [[Though He Slay Me]] and on the new textual connection.
+
+### Connection pages (5 new)
+
+- [[Though He Slay Me - The Written and the Read Text of Job 13.15]] — *lōʾ* and *lô*, with Psalm
+  100:3, Isaiah 9:3, Isaiah 63:9, and Job 9:33.
+- [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] — the Septuagint quoted
+  by Paul in prison.
+- [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] — the defendant's challenge and the
+  moth-eaten garment, from self-vindication to *"It is God who justifies"*.
+- [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] — the reversal-of-fortunes hymn
+  with the reversal removed.
+- [[There Is Hope for a Tree - The Stump That Sprouts]] — Job 14:7–9 with Isaiah 6:13, 11:1, 53:2,
+  Daniel 4, and Ezekiel 17.
+
+### Pages created or revised
+
+People (6): [[Job (person)]] (timeline, appears-in), [[Zophar the Naamathite]] (timeline,
+appears-in), [[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Noah]] (appears-in), [[God]] (new
+bullet in the Job section, appears-in). Places (1): [[Sheol]]. Themes (20): [[Wisdom]], [[Hope]]
+(plus the correction), [[Life and Death]], [[Mediation and Advocacy]], [[Judgment]],
+[[Righteousness]], [[Integrity]], [[Retribution]], [[Sin]], [[Clean and Unclean]], [[Creation]],
+[[Kingship and Empire]], [[The Names of God]], [[Remembrance]], [[Light and Darkness]],
+[[Seeing and Being Seen]], [[Language and Speech]], [[The Fear of God]], [[Suffering]], [[Prayer]].
+Connections revised (13): [[The Hope of Resurrection in the Old Testament]] (the *not yet ingested*
+marker replaced, new paragraph on 14:13–15),
+[[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]],
+[[Comforters Who Do Not Comfort]],
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]],
+[[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]],
+[[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]],
+[[What Is Man That He Should Be Clean]], [[Sitting in Dust and Ashes]],
+[[The Prosperity of the Wicked]], [[Let That Day Be Darkness - Job 3 as Counter-Creation]],
+[[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] (Philippians 1:19 noted
+as a third, unmarked New Testament use of Job; its Significance line calling Romans 11:35 *the other*
+quotation still stands for marked quotations),
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]],
+[[I Have Waited for Your Salvation - The First Yeshuah in Scripture]]. Passages revised (9): plain
+*Job 12–14* references linked in [[Zophar's First Speech]], [[Bildad's First Speech]],
+[[Bildad's Second Speech]], [[Let the Day Perish]], [[Seven Days of Silence]],
+[[There Is No Umpire Between Us]], [[The Arrows of the Almighty]], [[I Know That My Redeemer Lives]];
+and [[Eliphaz's Second Speech]] given a cross-reference to the speech it answers, line by line. Book
+page: box checked, structure note for 4–14 extended. Indexes: books (16 / 32), themes (20 rows),
+people (6 rows), places (1 row), connections (8 rows extended, +5 rows), `wiki/index.md` (75
+passages, 238 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

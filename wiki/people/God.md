@@ -1151,6 +1151,15 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   friends' speeches God will confirm in his own words (38:16–18). Zophar wishes he would speak
   (11:5), and he does, against Zophar (42:7). See
   [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
+- **The God of [[Though He Slay Me]]** has all the wisdom the friends claim (*"With God is wisdom and
+  might"*, 12:13), and uses it to undo: he breaks down and no one rebuilds, he withholds and releases
+  the waters, he strips counselors, makes judges fools, loosens the belts of kings, and leads the
+  chiefs of the earth into the *tōhû* of Genesis 1:2 (12:14–25) — praised, but never said to do it
+  justly. **He is named *Yahweh* once (12:9), the only time in the dialogue's speeches.** He is a God
+  the friends lie for (13:7–10) and Job will argue with to his face even if it kills him (13:15); who
+  hides his face and counts Job his *ʾôyēb*, enemy, a pun on *ʾiyyôb* (13:24); and who, in the wish of
+  14:13–15, might hide Job in Sheol and then *remember* him, and *"have a desire to the work of your
+  hands."* See [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]].
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1519,6 +1528,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Zophar's First Speech]] — wished for as a speaker (11:5), measured against the four regions of
   the cosmos (11:7–9), and cast as the creditor who has let Job off part of his debt (11:6). Named
   *ʾĕlôah* and *Šadday*
+- [[Though He Slay Me]] — praised as the one with whom wisdom lies (12:13) and as the overturner of
+  every human authority (12:14–25); then addressed from 13:20 to the end, asked to withdraw his hand,
+  to call or to answer (13:22), to name the charge (13:23), and to look away (14:6). Named *ʾĕlôah*,
+  *ʾēl*, *Šadday*, and once *Yahweh* (12:9)
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

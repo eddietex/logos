@@ -14,7 +14,8 @@ tags: [connection]
 - Judges 16:28 — Samson: *"Lord Yahweh, remember me, please, and strengthen me, please, only this once"*
 - 1 Samuel 1:11 — Hannah: *"if you will… remember me, and not forget your servant"*
 - Nehemiah 5:19; 13:14, 22, 31 — *"Remember me, my God, for good"*, four times, closing a book
-- Job 14:13 — *"that you would appoint me a set time and remember me"*
+- Job 14:13 — *"that you would appoint me a set time and remember me"* — asked from inside Sheol,
+  imagined as a hiding place — [[Though He Slay Me]]
 - Isaiah 38:3 — Hezekiah: *"Remember now, Yahweh, I beg you, how I have walked before you"*
 - Psalm 25:6–7; 106:4 — *"remember your tender mercies"*; *"remember me, Yahweh, with the favor that you
   show to your people"*

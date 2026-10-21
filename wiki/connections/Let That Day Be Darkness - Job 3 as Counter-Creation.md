@@ -12,6 +12,10 @@ tags: [connection]
 - Job 11:17 — Zophar promising the reversal back: *"Though there is darkness, it shall be as the
   morning"*, answering 10:22's *"land dark as midnight"* and 3:9's day that would not see the
   morning — [[Zophar's First Speech]]
+- Job 12:15, 22–25 — the waters sent out to overturn the earth, the shadow of death brought to
+  light, and the chiefs of the earth led into *tōhû*, Genesis 1:2's formless waste, to *"grope in the
+  dark without light"*: counter-creation applied to the world's government — [[Though He Slay Me]];
+  see [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
 - Job 38:4–21 — the whirlwind's opening, which takes the same images back —
   [[The Whirlwind Answers Chapter 3]]
 - Genesis 6:9–8:22 — the wiki's other un-creation, and the nearest relative of this one —

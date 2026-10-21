@@ -63,6 +63,10 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   Zophar's reply (11) closes the friends' first round at its harshest — *"God exacts of you less than
   your iniquity deserves"* (11:6) — and with its most generous offer, the last future any friend
   holds out to Job.
+  Job's reply (12–14) ends the cycle and is its longest speech: the friends' wisdom taken from them in
+  a hymn where God overthrows every human authority, the friends dismissed as men who lie for God,
+  *"I know that I am righteous"* (13:18), and a prayer that grants hope to a felled tree and asks,
+  of a man, *"If a man dies, shall he live again?"* (14:14).
 - **15–21 Second cycle** — the same order, the consolations withdrawn, the accusations sharper.
   This is also where the friends stop arguing: chapters 18 and 20 are two set-piece portraits of
   the wicked man's ruin that answer nothing Job has said, and Job settles both at once in
@@ -103,7 +107,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [x] [[Bildad's First Speech]] — Job 8:1–22
 - [x] [[There Is No Umpire Between Us]] — Job 9:1–10:22
 - [x] [[Zophar's First Speech]] — Job 11:1–20
-- [ ] Though He Slay Me — Job 12:1–14:22
+- [x] [[Though He Slay Me]] — Job 12:1–14:22
 
 ### Second cycle (15–21)
 

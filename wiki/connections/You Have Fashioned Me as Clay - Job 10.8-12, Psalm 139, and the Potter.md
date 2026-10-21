@@ -24,7 +24,8 @@ tags: [connection]
 - **Jeremiah 18:1–6** — the potter's house: the vessel spoiled and reworked.
 - **Romans 9:20–21** — *"Will the thing formed ask him who formed it, 'Why did you make me like
   this?'"*
-- **Job 14:15; 31:15; 33:6** — *"the work of your hands"*; *"Didn't he who made me in the womb make
+- **Job 14:15; 31:15; 33:6** — *"the work of your hands"* (14:15, in [[Though He Slay Me]]: the potter
+  imagined, beyond death, *desiring* what he made); *"Didn't he who made me in the womb make
   him?"*; Elihu: *"I am also formed out of the clay."*
 - **Ecclesiastes 11:5; Ezekiel 37:6–8** — the forming of the body as mystery, and its re-forming, in
   sinews, flesh, and skin.

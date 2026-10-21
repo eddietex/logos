@@ -242,7 +242,7 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
 - Job 1:19 — the *"great wind"* and the fallen house, behind 8:2 and 8:15.
 - [[There Is No Umpire Between Us]] — Job 9:2, 21–22: *"Truly I know that it is so"*; *"I am blameless… I despise my life… he destroys
   the blameless and the wicked"*: Job's reply, with Bildad's words *tām* and *māʾas*.
-- Job 12:2–3, 12 — *"wisdom shall die with you"* and *"With aged men is wisdom"*, the reply to
+- [[Though He Slay Me]], Job 12:2–3, 12 — *"wisdom shall die with you"* and *"With aged men is wisdom"*, the reply to
   8:8–10.
 - Job 14:2, 7–9 — the shadow, and the tree that buds *"through the scent of water"*.
 - Job 19:6 — *"God has subverted me"*, Bildad's verb *ʿāwat* returned.

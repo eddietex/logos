@@ -120,6 +120,10 @@ These are not exclusive, and the third is the one the text argues for by itself.
   **a claim Job never made**, built from Bildad's *pure* (8:6) — and *mûm*, the blemish that
   disqualifies a sacrifice (Leviticus 22:20–21), as what Job's face will be without once he
   repents
+- [[Though He Slay Me]] — Job 14:4; ***"Who can bring a clean thing out of an unclean? Not one."***
+  **The friends' anthropology (4:17–19) granted, and turned into a reason for God to look away**
+  (14:6). The Septuagint expands it — *"not even if his life on earth be one day"* — and in that form
+  it became a patristic text on inherited sin. See [[What Is Man That He Should Be Clean]]
 
 ## Related themes
 

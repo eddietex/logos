@@ -196,6 +196,13 @@ what Job is asking for.
   letter's difference — which makes the absence a wish; the wiki keeps the Masoretic *there is not*
   as primary. Elihu answers the verse twice: as *"one among a thousand"* (33:23, picking up 9:3)
   and by offering himself, *"formed out of the clay"*, as the man-sized party (33:6–7).
+- [[Though He Slay Me]] — Job 13:3, 10, 15, 22; **the umpire's verb taken up by the defendant.**
+  *Mōkîaḥ*, the umpire Job said did not exist (9:33), is from *yākaḥ*; in chapter 13 Job uses the verb
+  himself — *"I desire to reason (hôkēaḥ) with God"* (13:3), *"I will maintain (ʾôkîaḥ) my ways
+  before him"* (13:15) — and warns the friends that God *"will surely reprove (hôkēaḥ yôkîaḥ)"* them
+  for advocating falsely on his behalf (13:10). Lacking an arbiter, he will plead his own case.
+  13:19's *"Who is he who will contend with me?"* is Isaiah 50:8's question, where the Servant has the
+  vindicator Job lacks. See [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]]
 
 ## Related themes
 

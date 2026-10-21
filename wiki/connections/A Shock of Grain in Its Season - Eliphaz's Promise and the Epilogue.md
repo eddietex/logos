@@ -21,6 +21,9 @@ tags: [connection]
   *"So Job died, being old and full of days."*
 - **Job 8:5–7; 11:13–19** — Bildad's and Zophar's shorter versions of the same conditional promise —
   [[Bildad's First Speech]], [[Zophar's First Speech]]
+- **Job 13:7–10** — Job warning the friends: *"Will you show partiality (tiśśāʾûn pānāyw) to him?…
+  He will surely reprove you"* — the idiom God uses of Job at 42:8, *pānāyw ʾeśśāʾ*, *I will lift his
+  face*. The friends lifted God's face, and God lifts Job's — [[Though He Slay Me]]
 - **Job 22:21–30** — Eliphaz's last version of it, in his third speech
 
 ## Analysis

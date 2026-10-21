@@ -242,7 +242,7 @@ curse**, and forty chapters of argument follow from it.
   shown from his friend… My brothers have dealt deceitfully as a brook"*: Job's own account of what
   the visit turned into.
 - **Job 13:5** — *"Oh that you would be completely silent! Then you would be wise."* **Job tells them
-  to go back to 2:13.**
+  to go back to 2:13.** — [[Though He Slay Me]]
 - **Job 19:13–19** — the catalogue of everyone who has left, in which *"my friends have all become
   strangers to me"* stands against the three who came.
 - **Job 42:11** — *"all his brothers, and all his sisters… comforted him"*, with the two verbs of

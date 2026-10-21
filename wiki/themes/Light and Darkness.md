@@ -119,6 +119,11 @@ raw text.)*
   (*ʿêpātâ*), and Zophar's *darkness* (*tāʿupâ*) is the same root. It also undoes 3:9's day that
   would never see *"the eyelids of the morning"*. Isaiah 58:8–10 makes the same promise on a
   different condition
+- [[Though He Slay Me]] — Job 12:22, 25; *"He uncovers deep things out of darkness, and brings out to
+  light the shadow of death"*, and the rulers who *"grope in the dark without light"* — Eliphaz's
+  groping at noon (5:14) and Deuteronomy 28:29's curse, applied to everyone in authority. The hymn's
+  close runs creation backward, as chapter 3 did. See
+  [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
 
 ## Related themes
 

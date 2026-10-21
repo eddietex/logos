@@ -342,6 +342,12 @@ the rest of the canon.
 - [[Zophar's First Speech]] — Job 11:17, 20; *ḥeled*, *lifespan*, promised *"clearer than the noonday"* against
   10:20's *"Aren't my days few?"*; and the wicked whose only hope is *mappaḥ-nāpeš*, *"the giving up
   of the spirit"*
+- [[Though He Slay Me]] — Job 14:1–14; ***"Man, who is born of a woman, is of few days, and full of
+  trouble"***, the flower cut down and the fleeing shadow (14:1–2); the tree that revives and the man
+  who *"lies down and doesn't rise"* (14:7–12); and ***"If a man dies, shall he live again?"***
+  (14:14), the resurrection question asked in so many words, expecting *no* and then imagining *yes*
+  as a wish. Psalm 90:5–6, Psalm 103:15–16 and Isaiah 40:6–8 have the same flower. See
+  [[The Hope of Resurrection in the Old Testament]]
 
 ## Related themes
 

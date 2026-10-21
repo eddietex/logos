@@ -210,6 +210,12 @@ verdicts.
   Zophar says it *under*measures it, so no loss can ever be too large to count as deserved. The
   epilogue answers at both ends — Job was wounded *"without cause"* (2:3) and is repaid *"twice as
   much"* (42:10).
+- [[Though He Slay Me]] — Job 12:6, 17–25; 13:7–10; **refuted by observation, by doxology, and by
+  turning it on the friends.** *"The tents of robbers prosper"* (12:6); a nine-verse hymn in which God
+  humbles counselors, judges, kings and priests with no word that they deserved it (12:17–25) — the
+  reversal-of-fortunes hymn of Psalm 107:40–41 with the reversal removed; and the friends' lies on
+  God's behalf named as the thing God will punish (13:10). See
+  [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
 
 ## Related themes
 

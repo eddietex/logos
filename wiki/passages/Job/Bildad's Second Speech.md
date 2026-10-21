@@ -190,10 +190,10 @@ world"* (18:18).
 - [[Bildad's First Speech]] — Job 8:1–22, with the same opening formula and the same use of Job's
   children.
 - Job 16:9 — *"He has torn me in his wrath"*, the verb 18:4 turns back on Job.
-- Job 14:7–9, 18 — *"there is hope for a tree"*, which if cut down will sprout again, and *"The
+- [[Though He Slay Me]], Job 14:7–9, 18 — *"there is hope for a tree"*, which if cut down will sprout again, and *"The
   rock is removed out of its place"*. Bildad takes both of Job's images and reverses them:
   the tree's roots dry up (18:16) and the rock does not move (18:4).
-- Job 12:7 — *"ask the animals, now, and they shall teach you"*, behind 18:3's complaint.
+- [[Though He Slay Me]], Job 12:7 — *"ask the animals, now, and they shall teach you"*, behind 18:3's complaint.
 - Job 21:17 — *"How often is it that the lamp of the wicked is put out…"*, Job's direct rebuttal.
 - Job 42:7 — the verdict on the men who spoke this way.
 - Genesis 19:24; Deuteronomy 29:23 — sulfur rained and sulfur scattered, behind 18:15.

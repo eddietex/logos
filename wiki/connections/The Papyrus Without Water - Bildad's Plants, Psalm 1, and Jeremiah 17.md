@@ -17,7 +17,8 @@ tags: [connection]
   desert"*; *"Blessed is the man who trusts in Yahweh, and whose confidence is in Yahweh. For he will
   be as a tree planted by the waters, who spreads out its roots by the river."*
 - **Job 14:7–9** — *"For there is hope for a tree, if it is cut down, that it will sprout again…
-  Though its root grows old in the earth… yet through the scent of water it will bud."* Job's reply.
+  Though its root grows old in the earth… yet through the scent of water it will bud."* Job's reply —
+  [[Though He Slay Me]]; see also [[There Is Hope for a Tree - The Stump That Sprouts]]
 - **Job 15:32–33** — Eliphaz: *"His branch shall not be green. He shall shake off his unripe grape
   as the vine."* — [[Eliphaz's Second Speech]]
 - **Job 18:16** — Bildad again: *"His roots shall be dried up beneath. Above shall his branch be

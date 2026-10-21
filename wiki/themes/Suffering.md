@@ -201,6 +201,10 @@ requires only that you be standing outside it.
   (1:9) and God's own (2:3), reached by the sufferer without having heard either. The suffering
   is now framed as a case that cannot be brought: the cause is undeserved and the court
   unavailable.
+- [[Though He Slay Me]] — Job 13:25–28; 14:1, 22; *"Will you harass a driven leaf? Will you pursue
+  the dry stubble?"*; the moth-eaten garment (13:28); man *"full of trouble"* (14:1); and the dead
+  man whose *"flesh on him has pain, and his soul within him mourns"* (14:22) — suffering imagined as
+  outlasting even the awareness of anything else
 
 ## Related themes
 

@@ -213,6 +213,11 @@ noticing into doctrine.
 - [[Zophar's First Speech]] — Job 11:2–3; ***"Shouldn't the multitude of words be answered? Should a man full of
   talk be justified?"*** — *ʾîš śəpātayim*, a man of lips. The friends' standing complaint that Job
   talks too much, in a speech whose central wish is that God would talk (11:5)
+- [[Though He Slay Me]] — Job 12:11; 13:4–6, 12–13, 17, 22; **speech for God and speech to God.**
+  The friends *"speak unrighteously for God"* (13:7) and their *"memorable sayings are proverbs of
+  ashes"* (13:12); their wisdom would be silence (13:5). Job asks for silence so that he can speak
+  (13:13) and offers God the two orders of a hearing — *"call, and I will answer; or let me speak, and
+  you answer me"* (13:22). *"Doesn't the ear try words?"* (12:11), which Elihu quotes (34:3)
 
 ## Related themes
 

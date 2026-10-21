@@ -182,6 +182,11 @@ already did.
   1 Kings 8:22, conditional on hands first cleared of iniquity (11:14; Isaiah 1:15). Offered to Job
   as the way back, and fulfilled at 42:8–10 with the roles reversed: Job prays, and Zophar is prayed
   for
+- [[Though He Slay Me]] — Job 13:20–14:22; **the first cycle ends in prayer.** Thirty-one verses
+  addressed to God, beginning with two conditions (13:21) and an offer of procedure (13:22) and ending
+  in the hope of a man worn away like stone (14:19). In the middle, the most daring petition in the
+  book so far: *"Oh that you would hide me in Sheol… and remember me!"* (14:13). The friends, who
+  speak about God, are not addressed again
 
 ## Related themes
 

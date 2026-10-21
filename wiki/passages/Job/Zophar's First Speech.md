@@ -285,7 +285,8 @@ of 11:13–19 is gone.
 - [[The First Man and Wisdom Before the Hills]] — 11:6's *secrets of wisdom*, before Eliphaz's *secret
   counsel* at 15:8.
 - [[The Divine Council]] — the one secret the reader has, and Zophar does not.
-- Job 12:1–3 — *"wisdom shall die with you"*: Job's reply.
+- [[Though He Slay Me]] — Job 12:1–14:22, Job's reply: *"wisdom shall die with you"* (12:2), the
+  four creatures against 11:8–9's four regions (12:7–8), and *mî-yittēn* taken back (13:5; 14:13).
 - Job 22:21–30 — Eliphaz's last offer, which repeats 11:15's *"lift up your face"* (22:26).
 - Job 31:7, 39 — the oath of innocence: *"if any defilement has stuck to my hands"* answers 11:14,
   and *"caused its owners to lose their life"* (*nepeš … hippāḥtî*) is 11:20's *mappaḥ-nāpeš*.

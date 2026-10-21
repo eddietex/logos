@@ -17,6 +17,9 @@ tags: [connection]
 - Isaiah 12:2–3; 52:10 — *"the wells of salvation"*; *"all the ends of the earth have seen the
   salvation of our God"*
 - Jonah 2:9 — *"Salvation belongs to Yahweh"*, from inside the fish
+- Job 13:16 — *"This also shall be my salvation (yəšûʿâ)"*: a defendant's vindication, which Paul
+  takes up from the Septuagint at Philippians 1:19 — [[Though He Slay Me]]; see
+  [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]]
 - Luke 2:30 — Simeon: *"my eyes have seen your salvation"*
 
 ## Analysis

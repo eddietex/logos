@@ -273,6 +273,12 @@ rule are the conditions the rest of Scripture is set in.
 - [[Zophar's First Speech]] — Job 11:10; *"If he… convenes a court (yaqhîl), then who can oppose him?"* — **the court
   Job said could not be convened (9:32–33), described as already in session**, in a verse built out
   of Job's own 9:11–12
+- [[Though He Slay Me]] — Job 13:7–28; 14:16–17; **the trial prepared.** *"I have set my cause in
+  order"* (*ʿāraktî mišpāṭ*, 13:18); the procedure offered (*"call, and I will answer; or let me
+  speak, and you answer me"*, 13:22), which the whirlwind adopts (38:3; 40:7); the charge sheet
+  requested (13:23), the written indictment (13:26), the stocks (13:27), and the record sealed in a
+  bag (14:17). And the friends warned that God judges partiality *for* himself (13:7–10) — which he
+  does, at 42:7
 
 ## Related themes
 

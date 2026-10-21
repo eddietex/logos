@@ -148,6 +148,12 @@ close to the book's whole point about who may speak for the tradition. See
   than heaven, deeper than Sheol, longer than the earth, broader than the sea. Zophar's premise is
   God's own (38:16–18, with the same *ḥēqer*); his inference, that Job should be silent, is not. See
   [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]]
+- [[Though He Slay Me]] — Job 12:2–3, 12–13; 13:5; **a dispute about who owns it.** *"No doubt, but
+  you are the people, and wisdom shall die with you"*; *"With aged men is wisdom"* — and then the
+  correction, ***"With God is wisdom and might. He has counsel and understanding"*** — followed by a
+  hymn in which God's wisdom strips counselors and makes judges fools (12:17). The friends' one wise
+  act is named: *"Oh that you would be completely silent! Then you would be wise"* (13:5). See
+  [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
 
 ## Related themes
 

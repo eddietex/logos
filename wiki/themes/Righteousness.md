@@ -202,6 +202,12 @@ about.
 - [[Zophar's First Speech]] — Job 11:2; *"Should a man full of talk be justified (yiṣdaq)?"* — **Job's legal word of
   9:2 turned against him**: the question was how a man can be just with God, and Zophar's answer is
   that this one cannot, because he talks too much
+- [[Though He Slay Me]] — Job 12:4; 13:18; ***ṣaddîq tāmîm***, *"the just, the blameless man"* —
+  Noah's pair at Genesis 6:9 — *"is a joke"*; and ***"I know that I am righteous (ʾeṣdāq)"***, **the
+  first-person answer to 9:2's *"how can man be just (yiṣdaq) with God?"*** and to Zophar's *"Should a
+  man full of talk be justified?"* (11:2). Isaiah 50:8 says the same with God as subject: *"He who
+  justifies me (maṣdîqî) is near."* See
+  [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]]
 
 ## Related themes
 

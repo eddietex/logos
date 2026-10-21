@@ -189,6 +189,11 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
   diagnosis.
 - [[The First Man and Wisdom Before the Hills]] — 15:7 against Proverbs 8:22–31 and against Job
   38:4, where God puts Eliphaz's taunt into his own mouth and aims it at Job.
+- [[Though He Slay Me]] — Job 12:1–14:22, the speech this one answers: *"Should a wise man answer
+  with vain knowledge?"* (15:2) after *"I am not inferior to you"* (12:3); *"What do you know, that we
+  don't know?"* (15:9) after *"What you know, I know also"* (13:2); *"the gray-headed and the very aged"*
+  (15:10) after *"With aged men is wisdom"* (12:12); *"born of a woman"* (15:14) after 14:1; and *"you
+  do away with fear"* (15:4) after Job's resolve to argue with God to his face (13:13–15).
 - [[Miserable Comforters and the Witness in Heaven]] — Job's answer, Job 16:1–17:16, which replies
   to this chapter point by point.
 - [[Adam]] — the first man of 15:7.

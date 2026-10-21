@@ -21,6 +21,11 @@ tags: [connection]
 - **Job 42:7** — *"you have not spoken of me the thing that is right, as my servant Job has"*
 - **Romans 11:35** — the other New Testament quotation of Job, from Job 41:11: *"Or who has first
   given to him, and it will be repaid to him again?"*
+- **Job 12:17–25** — Job's answering doxology: *"He leads counselors away stripped. He makes judges
+  fools"* — Eliphaz's hymn with the moral removed — [[Though He Slay Me]]
+- **Philippians 1:19** — a third New Testament use of Job, unmarked: *"this will turn out for my
+  deliverance"*, the Septuagint of Job 13:16 word for word, and drawn from Job's speech rather than a
+  friend's — see [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]]
 
 ## Analysis
 

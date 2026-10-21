@@ -236,7 +236,7 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 - [[Do Not Cover My Blood]] — 16:18, the verse the *gōʾēl* of 19:25 is the officer for.
 - Job 1:11; 2:5 — *"stretch out your hand now, and touch all that he has"*. 19:21's *"the hand of
   God has touched me"* is the accuser's own verb, in the mouth of a man who never heard it said.
-- Job 7:9; 14:7–14 — *"He who goes down to Sheol shall come up no more"*, and *"If a man dies, shall
+- Job 7:9; 14:7–14 ([[Though He Slay Me]]) — *"He who goes down to Sheol shall come up no more"*, and *"If a man dies, shall
   he live again?"*. Job's own position on death elsewhere, against which 19:26 has to be read.
 - Job 9:32–33 ([[There Is No Umpire Between Us]]); 16:19–21; 17:3; 33:23–24 — the other reaches for a mediating
   figure.

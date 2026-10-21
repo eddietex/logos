@@ -263,7 +263,7 @@ speech that starts the quarrel is not addressed to anyone in it.
   the same speech.
 - **Job 10:18–19**, in [[There Is No Umpire Between Us]] — *"Why, then, have you brought me out of the womb?… I should have been carried
   from the womb to the grave"*: the same question asked again, and this time asked *of God*.
-- **Job 13:5** — *"Oh that you would be completely silent!"*
+- **Job 13:5** — *"Oh that you would be completely silent!"* — [[Though He Slay Me]]
 - **Job 14:1–2** — *"Man, who is born of a woman, is of few days, and full of trouble"*: the chapter's
   complaint generalised from Job to everyone.
 - **Job 41:1, 41:18** — Leviathan, and *"his eyes are like the eyelids of the morning"*: the two

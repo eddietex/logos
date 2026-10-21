@@ -152,6 +152,11 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   himself, after the narrator (1:1), God (1:8; 2:3), and Bildad's conditional (8:20). He says it
   in the same breath as *"I despise my life"* and *"he destroys the blameless (tām) and the
   wicked."* Integrity held, and declared no protection.
+- [[Though He Slay Me]] — Job 12:4; 13:15–16; *tāmîm* (12:4), and ***"Nevertheless, I will maintain
+  my ways before him"*** — integrity held on either reading of 13:15, whether Job has no hope or
+  hopes in God. 13:16 makes it evidence: *"a godless man shall not come before him"*, so the
+  readiness to appear is itself the defence. See
+  [[Though He Slay Me - The Written and the Read Text of Job 13.15]]
 
 ## Related themes
 

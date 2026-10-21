@@ -166,6 +166,13 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   ***šēbeṭ*** is both *scepter* and *tribe*. **What the verse's last three words say is genuinely
   undecided** — see [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] — **but what they
   attach is not**
+- [[Though He Slay Me]] — Job 12:17–24; **the longest catalogue of the powerful humbled in the
+  Bible.** Counselors, judges, kings, priests, the mighty, the trusted, elders, princes, the strong,
+  and the chiefs of the earth — each stripped, unbelted, silenced, or sent wandering; *"He increases
+  the nations, and he destroys them"* (12:23). **Two of its half-verses are Psalm 107:40 word for
+  word**, where the next line raises the needy; Job's hymn has no next line. Hannah (1 Samuel 2:7–8),
+  Daniel 2:21 and Mary (Luke 1:52) belong to the same tradition. See
+  [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
 
 ## Related themes
 

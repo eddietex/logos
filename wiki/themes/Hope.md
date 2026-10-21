@@ -47,8 +47,11 @@ is close because you cannot bear to sit in the dark with him.
   a tree … that it will sprout again"* — and then the flat comparison, *"but man
   dies, and is laid low."*
 - **Job 13:15** — *"Though he slay me, yet will I wait for him"*, the most famous statement of hope
-  in the book and one of the most textually uncertain verses in it; the marginal Hebrew reading
-  gives the opposite sense, *"I have no hope"*. Treated when Job 13 is ingested.
+  in the book and one of the most textually uncertain verses in it. **The written Hebrew text (Ketiv)
+  reads *lōʾ*, giving *"Behold, he will kill me. I have no hope"* (WEB); the marginal reading (Qere)
+  reads *lô*, giving *"for him I will wait"* (KJV).** *This page earlier had the two the wrong way
+  round — corrected when Job 13 was ingested.* See [[Though He Slay Me]] and
+  [[Though He Slay Me - The Written and the Read Text of Job 13.15]].
 - **Job 17:15–16** — [[Miserable Comforters and the Witness in Heaven]], the question asked and left
   open.
 - **Job 19:25–27** — *"I know that my Redeemer lives"*, the counter-statement, in Hebrew almost as
@@ -159,6 +162,14 @@ is close because you cannot bear to sit in the dark with him.
   later, *"Their hope shall be the giving up of the spirit."* **Zophar is the friend who sets the two
   hopes side by side**, the penitent's and the wicked's, and the second is death. *Tiqwâ* has now
   been used by all three friends (4:6; 8:13; 11:18)
+- [[Though He Slay Me]] — Job 13:15; 14:7–19; **the speech in which hope is granted to a tree and
+  worn away from a man.** *"There is hope (tiqwâ) for a tree, if it is cut down, that it will sprout
+  again"* (14:7) — and *"so you destroy the hope of man"* (14:19), the same noun at either end of a
+  passage that imagines, in between, God hiding Job in Sheol and remembering him (14:13–15). 13:15 is
+  either *"I have no hope"* (Ketiv, WEB) or *"for him I will wait"* (Qere, KJV); the verb is *yāḥal*,
+  *wait*, the verb Job had refused at 6:11. See
+  [[Though He Slay Me - The Written and the Read Text of Job 13.15]] and
+  [[There Is Hope for a Tree - The Stump That Sprouts]]
 
 ## Related themes
 

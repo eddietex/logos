@@ -402,6 +402,8 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 - 1 Samuel 16:7 — *"man looks at the outward appearance, but Yahweh looks at the heart"*, against
   10:4.
 - Isaiah 1:18; Psalm 51:7; Jeremiah 2:22 — washing with snow and lye, against 9:30–31.
+- [[Though He Slay Me]] — Job 12–14, the next speech; *mōkîaḥ* (9:33) become *hôkēaḥ*, Job arguing
+  his own case (13:3, 15), and 9:2's question answered: *"I know that I am righteous"* (13:18).
 - Job 13:20–24 — the terms of 9:34 repeated (*"withdraw your hand… don't let your terror make me
   afraid"*), and 10:2's demand for the charge (*"make me know my disobedience and my sin"*).
 - Job 14:14–15 — *ṣābāʾ* and *ḥălîpâ* again; *"You would call, and I would answer you"*, 9:16

@@ -130,6 +130,11 @@ book, and Bildad's name survives inside them.
   and turns to God for the rest of the speech.
 - [[Zophar's First Speech]] — Job 11:1–20, silent; his *zak*, *pure* (8:6), is put in Job's mouth
   as a boast (11:4), and his one-verse close on the wicked (8:22) is the model for 11:20.
+- [[Though He Slay Me]] — Job 12:1–14:22, answered in the plural. His appeal to the aged (8:8–10)
+  is met by *"With aged men is wisdom… With God is wisdom and might"* (12:12–13); his shadow (8:9) by
+  man who *"flees like a shadow"* (14:2); and his papyrus that dies without water (8:11–13) by the
+  felled tree that revives *"through the scent of water"* (14:9). He answers 12:7's animals at 18:3:
+  *"Why are we counted as animals?"*
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.

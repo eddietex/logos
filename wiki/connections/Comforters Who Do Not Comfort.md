@@ -22,7 +22,9 @@ tags: [connection]
 - **Job 11:16** — *"you shall forget your misery. You shall remember it like waters that have passed
   away"*: Job's image of the friends as a failing brook (6:15), turned by Zophar into a promise that
   grief will pass the same way — [[Zophar's First Speech]]
-- **Job 13:4–5** — *"you are all worthless physicians. Oh that you would be completely silent!"*
+- **Job 13:4–5** — *"you are all worthless physicians. Oh that you would be completely silent!"* —
+  *rōpəʾê ʾĕlil*, *healers of nothing*, with the prophets' word for idols, and the week of 2:13 named
+  as the only wise thing they did — [[Though He Slay Me]]
 - **Genesis 37:35** — Jacob *"refused to be comforted"* — [[Joseph Sold into Slavery]]
 - **Psalm 69:20** — *"I looked for some to take pity, but there was none; for comforters, but I found
   none"*

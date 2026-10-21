@@ -314,7 +314,7 @@ missing him.
 - [[There Is No Umpire Between Us]] — Job 9–10, the next speech: *remember* (10:9), *visit* (10:12), *bitterness of
   my soul* (10:1), and *māʾas* twice (9:21; 10:3) all return from this one.
 - Job 9:21 and 42:6 — *māʾas* again, from *"I despise my life"* to *"I abhor myself."*
-- Job 14:14 — *ṣābāʾ*, *"all the days of my warfare"*, the conscript service of 7:1.
+- Job 14:14 — *ṣābāʾ*, *"all the days of my warfare"*, the conscript service of 7:1 — [[Though He Slay Me]].
 - Job 16:12 — *"he has also set me up for his target"*, the archer of 6:4 returning.
 - Job 33:14–18 — Elihu answering 7:14: God speaks *"in a dream, in a vision of the night"* to turn
   a man from pride.

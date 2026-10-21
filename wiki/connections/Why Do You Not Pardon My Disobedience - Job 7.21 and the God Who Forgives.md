@@ -26,7 +26,9 @@ tags: [connection]
   sin, then you mark me. You will not acquit me (lōʾ tənaqqēnî) from my iniquity."* The other half
   of Exodus 34:7 — *wənaqqēh lōʾ yənaqqeh*, *will by no means clear the guilty* — applied, Job
   says, to a man who is not guilty. — [[There Is No Umpire Between Us]]
-- **Job 13:23, 26; 14:16–17** — Job's later speeches on God's record-keeping
+- **Job 13:23, 26; 14:16–17** — Job's later speeches on God's record-keeping: the charge sheet asked
+  for, *"the iniquities of my youth"*, and *"My disobedience is sealed up in a bag"* —
+  [[Though He Slay Me]]
 - **Job 42:8–9** — *"my servant Job shall pray for you, for I will accept him"* — *pānāyw ʾeśśāʾ*
 
 ## Analysis

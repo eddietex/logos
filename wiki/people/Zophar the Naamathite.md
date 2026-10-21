@@ -102,6 +102,10 @@ than his iniquity deserves. The reader knows which of the two is right.
 - **Job 11:1–20** — [[Zophar's First Speech]]: the multitude of words rebuked, the wish that God
   would speak, *"less than your iniquity deserves"*, the God higher than heaven and deeper than
   Sheol, the wild donkey's colt, and the last offer of a future any friend makes.
+- **Job 12:1–14:22** — [[Though He Slay Me]]. Answered, in the plural with the other two: his
+  *"secrets of wisdom"* met with *"who doesn't know such things as these?"* (12:3), his four regions of
+  the cosmos with four classes of creature (12:7–8), and his *mî-yittēn* taken back by its owner
+  (13:5; 14:4, 13).
 - **Job 15–17** — silent, and included in the friends' *"we"* and Job's *"you all"*.
 - **Job 20:1–29** — [[Zophar's Second Speech]]. *"The triumphing of the wicked is short"*, and
   twenty-nine verses on how short: the ascent to the clouds and the fall to the dungheap, the
@@ -130,6 +134,12 @@ than his iniquity deserves. The reader knows which of the two is right.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Zophar's First Speech]] — Job 11:1–20, his own and his first; harsher at the start and more
   generous at the end than either of the others' first speeches.
+- [[Though He Slay Me]] — Job 12:1–14:22, the reply to his first speech, addressed to all three.
+  **The first sentence is aimed at him**: *"No doubt, but you are the people, and wisdom shall die
+  with you"* (12:2), after his *"secrets of wisdom"* (11:6). His four dimensions (11:8–9) are answered
+  by Job's four creatures (12:7–8); his tents (11:14) by the robbers' tents that prosper (12:6); his
+  wish that God would speak against Job (11:5) by Job's *"Will you show partiality to him?… He will
+  surely reprove you"* (13:8–10), which 42:7 fulfils against Zophar too.
 - [[Zophar's Second Speech]] — his own, and his last.
 - [[I Know That My Redeemer Lives]] — the speech whose closing threat (19:28–29) provokes him, and
   whose plea for pity (19:21) he ignores.

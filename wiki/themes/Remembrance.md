@@ -225,6 +225,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - [[Zophar's First Speech]] — Job 11:6, 16; God *forgetting* part of the iniquity, and Job promised that he will
   *"remember it like waters that have passed away"* — **Job's own image of the friends as a failing
   wadi (6:15), turned into a promise that grief will drain off the same way**
+- [[Though He Slay Me]] — Job 14:13; *"that you would appoint me a set time, and remember
+  (tizkərēnî) me!"* — the verb of Genesis 8:1, *"God remembered Noah"*, asked for by a man who wants to
+  be hidden in Sheol until the wrath is over and then recalled. And its opposite: *"His sons come to
+  honor, and he doesn't know it"* (14:21), the dead man who cannot remember the living. See
+  [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
 
 ## Related themes
 

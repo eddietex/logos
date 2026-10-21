@@ -10,6 +10,8 @@ tags: [connection]
 - **Job 2:8** — *"He took for himself a potsherd to scrape himself with, and he sat among the
   ashes."* — [[The Second Test]]
 - **Job 42:6** — *"Therefore I abhor myself, and repent in dust and ashes."*
+- **Job 13:12** — *"Your memorable sayings are proverbs of ashes (mišlê-ʾēper)"*: the friends'
+  wisdom made of the ash Job is sitting in — [[Though He Slay Me]]
 - **Genesis 18:27** — *"Behold now, I have taken it on myself to speak to the Lord, who am but dust
   and ashes"* — [[The Three Visitors and Abraham's Intercession]]
 - **Genesis 3:19** — *"for you are dust, and to dust you shall return"* — [[The Fall]]

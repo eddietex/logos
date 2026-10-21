@@ -256,6 +256,11 @@ will finally go both ways.
 - [[Zophar's First Speech]] — Job 11:11; ***"He sees iniquity also"***: Zophar's answer to Job's *"Do you have eyes
   of flesh?"* (10:4). God does not need to investigate; he sees at a glance — and what he sees,
   Zophar is sure, is Job's guilt
+- [[Though He Slay Me]] — Job 13:24, 27; 14:3, 6, 16; **the face hidden and the eyes fixed.** *"Why
+  hide you your face, and hold me for your enemy?"* (13:24), and in the same speech God *"mark[s] all
+  my paths"* (13:27), *"open[s] your eyes on such a one"* (14:3), and *"count[s] my steps"* (14:16).
+  Job asks to be looked away from — *"Look away from him, that he may rest"* (14:6) — in the same
+  breath as he complains of God's hidden face
 
 ## Related themes
 

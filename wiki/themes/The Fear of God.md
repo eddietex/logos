@@ -194,6 +194,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   fear promised away, on condition of repentance, to the man God called *"one who fears God"* (1:8)
   and who had said *"the thing which I fear comes on me"* (3:25). See
   [[None Shall Make You Afraid - The Covenant Blessing of Security]]
+- [[Though He Slay Me]] — Job 13:11, 21; ***"Shall not his majesty make you afraid, and his dread
+  fall on you?"*** — Job telling the friends they do not fear God enough to stop lying for him, and
+  then asking God to take his own terror away: *"don't let your terror make me afraid"* (13:21). The
+  God-fearing man of 1:1 frightened of God, and warning God's defenders that they ought to be
 
 ## Related themes
 

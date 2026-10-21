@@ -10,7 +10,8 @@ tags: [connection]
 - **Job 7:9** — *"As the cloud is consumed and vanishes away, so he who goes down to Sheol shall
   come up no more."* — [[The Arrows of the Almighty]]
 - **Job 14:7–14** — *"There is hope for a tree, If it is cut down … But man dies, and is laid low …
-  If a man dies, shall he live again?"* *(not yet ingested)*
+  If a man dies, shall he live again?"* — [[Though He Slay Me]]; and see
+  [[There Is Hope for a Tree - The Stump That Sprouts]]
 - **Job 19:25–27** — *"I know that my Redeemer lives … After my skin is destroyed, then in my flesh
   shall I see God."* — [[I Know That My Redeemer Lives]]
 - **Psalm 6:5; 88:10–12; 115:17** — the dead do not praise God; Sheol as the end of the relationship
@@ -55,7 +56,13 @@ condemned must be cleared before he dies or never, and everything the book's pro
 demand for a hearing, the urgency, the wish to have his words cut into rock so they outlast him —
 follows from that. Job states the default himself, twice and flatly: *"he who goes down to Sheol
 shall come up no more"* (7:9), and *"if a man dies, shall he live again?"* (14:14), which is a
-question with an expected answer of *no*.
+question with an expected answer of *no*. **But the question is asked inside a wish that imagines
+the answer *yes*** — *"Oh that you would hide me in Sheol… until your wrath is past… and remember
+me! … You would call, and I would answer you"* (14:13–15) — every clause an unreal conditional, and
+the whole taken back at 14:19, *"so you destroy the hope of man."* It is the first time in the book
+that a relationship with God is imagined continuing past death, and it is imagined as a relationship
+rather than a place: God calling, Job answering, God *desiring the work of his hands*. 19:25–27 rises
+from this floor.
 
 **Job 19:25–27 is therefore either the book's one breach of its own premise or it is not about the
 afterlife at all**, and the Hebrew is too damaged to settle it. The disputed clause is

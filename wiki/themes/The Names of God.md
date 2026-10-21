@@ -204,6 +204,10 @@ everlasting possession, by treaty with its current occupant.
   animals, land and verdicts. **God is named only three times in the whole chapter** — *Yahweh* at
   49:18, *the God of your father* and *the Almighty* at 49:25 — **against seven times in the
   twenty-two verses of chapter 48.** See [[The Mighty One of Jacob and the Stone of Israel]]
+- [[Though He Slay Me]] — Job 12:9; ***"Yahweh's hand has done this"*** — **the only *Yahweh* in the
+  speeches of the dialogue** (3:1–37:24), where every speaker otherwise says *ʾĕlôah*, *ʾēl* or
+  *Šadday*. Probably explained by its being a fixed phrase, found verbatim at Isaiah 41:20; some
+  Hebrew manuscripts read *ʾĕlôah*. The same speech has *ʾĕlôah*, *ʾēl* and *Šadday* (12:4; 13:3)
 
 ## Related themes
 

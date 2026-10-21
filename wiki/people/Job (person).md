@@ -120,9 +120,16 @@ speeches; each becomes a linked passage page as it is ingested.
   deserves"* (11:6); then promised, on condition of repentance, that he will lift up his face, forget
   his misery, and *"lie down, and no one shall make you afraid"* (11:15–19) — almost all of which the
   epilogue gives him without the repentance.
+- **Job 12:1–14:22** — [[Though He Slay Me]]. The longest speech of the first cycle and its close.
+  *"Wisdom shall die with you"* (12:2); himself as *"the just, the blameless man"* made a joke (12:4);
+  the animals who know *"Yahweh's hand has done this"* (12:9); a hymn in which God overthrows every
+  human authority (12:13–25). Then the friends dismissed as *"forgers of lies"* who show partiality to
+  God (13:4–10); *"Behold, he will kill me. I have no hope. Nevertheless, I will maintain my ways
+  before him"* (13:15); *"I know that I am righteous"* (13:18); and to God, man born of woman, the tree
+  that has hope, and *"If a man dies, shall he live again?"* (14:14).
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
-  umpire between us"* at 9:33.
+  umpire between us"* at 9:33, and *"I know that I am righteous"* at 13:18.
 - **Job 15** — [[Eliphaz's Second Speech]]. The consolations of the first cycle are withdrawn.
 - **Job 16:1–17:16** — [[Miserable Comforters and the Witness in Heaven]]. God as assailant, the
   cry that must not be covered, the witness in heaven, and hope descending to the gates of Sheol.
@@ -216,6 +223,16 @@ speeches; each becomes a linked passage page as it is ingested.
   wadi (6:15) all reappear in Zophar's mouth. His prayer *"you know that I am not wicked"* (10:7) is
   reported as a boast of pure doctrine, and his *"I still shall not lift up my head"* (10:15) is
   answered with a lifted face on condition he confess.
+- [[Though He Slay Me]] — Job 12:1–14:22, his fourth speech and the end of the first cycle. **Three
+  firsts.** The first time he turns on the friends' method itself — *"forgers of lies… physicians of
+  no value"* (13:4), men who *"show partiality"* (*nāśāʾ pānîm*) to God and will be reproved for it
+  (13:8–10), which is what 42:7–8 does, in the same idiom. The first time he says ***ʾeṣdāq***, *I am
+  righteous* (13:18), answering his own question of 9:2. And the first time he imagines God
+  remembering him beyond death — *"Oh that you would hide me in Sheol… and remember me!"* (14:13) —
+  as a wish, taken back five verses later. 13:15 is either *"I have no hope"* (the written text, WEB)
+  or *"yet will I trust in him"* (the read text, KJV); on both readings he will argue his ways to
+  God's face. He calls himself *ṣaddîq tāmîm* (12:4), Noah's epithet. See
+  [[Though He Slay Me - The Written and the Read Text of Job 13.15]].
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the

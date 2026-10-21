@@ -17,8 +17,13 @@ tags: [connection]
 - **Job 25:4–6** — Bildad, third speech, the friends' last words: *"How then can man be just with
   God? Or how can he who is born of a woman be clean? … how much less man, who is a worm, the son of
   man, who is a worm!"*
-- **Job 9:2; 14:4** — Job saying much the same thing himself — [[There Is No Umpire Between Us]], where he concedes
+- **Job 9:2; 14:4** — Job saying much the same thing himself — [[There Is No Umpire Between Us]] and
+  [[Though He Slay Me]], where he concedes
   the point and asks the legal question underneath it instead
+- **Job 14:1–4** — *"Man, who is born of a woman, is of few days, and full of trouble… Who can bring
+  a clean thing out of an unclean? Not one"*: **Job's first *yəlûd ʾiššâ*, used for brevity before
+  Eliphaz (15:14) and Bildad (25:4) use it for impurity**, and the impurity conceded as a reason for
+  God to *look away* (14:6) rather than to convict — [[Though He Slay Me]]
 - **Job 11:4** — Zophar attributing the opposite claim to Job: *"For you say, 'My doctrine is pure. I
   am clean (bar) in your eyes.'"* Job never said it; the friends need him to have — [[Zophar's First Speech]]
 - **Genesis 6:5** — *"every imagination of the thoughts of man's heart was continually only evil"* —

@@ -231,6 +231,9 @@ his own entry closed with; see
   of the two men
 - [[Sacrifice Before the Priesthood]] — his altar at 8:20 in the line of uncommanded offerings that
   runs on to Job 1:5
+- [[Though He Slay Me]] — Job 12:4, not named: Job calls himself *ṣaddîq tāmîm*, *"the just, the
+  blameless man"*, the exact pair of Genesis 6:9, as a laughing-stock; and 14:13's *"remember me"* is
+  the verb of Genesis 8:1, *"God remembered Noah"*
 
 ## Related people
 

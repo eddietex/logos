@@ -106,6 +106,11 @@ Genesis 1 sets four load-bearing claims:
   detailed account of formation in the womb, and ends *"Yet you hid these things in your heart"*
   (10:13). See [[The Bear, Orion, and the Pleiades]] and
   [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]].
+- [[Though He Slay Me]] — Job 12:7–10, 15, 22–24; 14:15; **creation as witness and creation
+  undone.** The beasts, birds, earth and fish know that *"Yahweh's hand has done this, in whose hand is
+  the life of every living thing, and the breath of all mankind"* (12:9–10, Genesis 2:7's *nepeš* and
+  6:17's *rûaḥ*). Then the waters withheld and sent to overturn the earth (12:15), and the chiefs led
+  into *tōhû* (12:24), Genesis 1:2's formless waste. And *"the work of your hands"* (14:15)
 
 ## Related themes
 

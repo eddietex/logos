@@ -97,6 +97,12 @@ to go.
   the measure of what God exceeds. Zophar is answering 10:21–22, where it was the land Job was going
   to. God's reply asks the same question of the same place: *"Have the gates of death been revealed
   to you?"* (38:17).
+- [[Though He Slay Me]] — Job 14:13, *"Oh that you would hide me in Sheol, that you would keep me
+  secret, until your wrath is past, that you would appoint me a set time, and remember me!"* **The
+  land of no return (7:9; 10:21) imagined as a hiding place** — a temporary shelter from God's anger,
+  from which God would *call* and Job *answer* (14:15). The only time in the book anyone asks to be
+  *kept* in Sheol rather than to end there, and it is a wish: the next verses say *"So you destroy the
+  hope of man"* (14:19). The floor from which 19:25–27 rises.
 - [[Miserable Comforters and the Witness in Heaven]] — Job 17:13, 16, closing the speech.
 - [[I Know That My Redeemer Lives]] — not named, but the passage that most tests what the wiki says
   here: 19:25's Redeemer standing *"upon the earth"* is literally *upon dust*, the same word that

@@ -236,6 +236,10 @@ has been argued.
 - [[Zophar's First Speech]] — Job 11:6, 14; **sin as debt**, on which God the creditor has not yet collected in full,
   and as a lodger — *"Don't let unrighteousness dwell in your tents"* — to be evicted before the
   hands can be raised in prayer
+- [[Though He Slay Me]] — Job 13:23, 26; 14:4, 16–17; **sin asked for by count.** *"How many are my
+  iniquities and sins? Make me know"* (13:23); *"you… make me inherit the iniquities of my youth"*
+  (13:26); and the record *"sealed up in a bag"* (14:17). 14:4, *"Who can bring a clean thing out of an
+  unclean? Not one"*, later read as a text on original sin, is in context a plea for leniency
 
 ## Related themes
 
