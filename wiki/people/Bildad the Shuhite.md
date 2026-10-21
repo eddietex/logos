@@ -106,6 +106,8 @@ book, and Bildad's name survives inside them.
   the lamp of the wicked is put out, that their calamity comes on them?"* (21:17, against 18:5–6,
   12), his childless wicked man (18:19) answered by children established in their fathers' sight
   (21:8), and his tent of the wicked (8:22; 18:21) quoted back as the friends' taunt (21:28).
+- **Job 22:1–30** — silent through [[Eliphaz's Third Speech]], which takes over his snares (18:8–10)
+  at 22:10 and turns the friends' generic portrait into named charges.
 - **Job 25:1–6** — the third speech, six verses: *"How then can man be just with God? Or how can he
   who is born of a woman be clean? … how much less man, who is a worm, the son of man, who is a
   worm!"* The last thing any of the friends says.
@@ -149,6 +151,8 @@ book, and Bildad's name survives inside them.
 - [[Why Do the Wicked Live]] — Job 21, the answer to his two portraits: the lamp, the calamity,
   the vanished heirs and the vanished tent each quoted and checked against what travellers report
   (21:17, 19, 28–29). See [[The Lamp of the Wicked Put Out]].
+- [[Eliphaz's Third Speech]] — Job 22, silent; his snares and *"sudden fear"* (18:8–11) reused at
+  22:10 as the consequence of crimes Eliphaz invents.
 
 ## Related people
 

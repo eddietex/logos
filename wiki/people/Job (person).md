@@ -145,6 +145,12 @@ speeches; each becomes a linked passage page as it is ingested.
   us"* and are left alone; their lamp goes out less often than Bildad says; their children should not
   pay for them (21:19); and they die *"in an instant"*, whole, and are buried with a vigil and a
   crowd. The man who *"dies in bitterness of soul"* (21:25) is himself.
+- **Job 22:1–30** — [[Eliphaz's Third Speech]]. Accused for the first time of specific crimes —
+  pledges taken from a brother *"for nothing"*, the naked stripped, bread and water withheld, widows
+  sent away empty, the fatherless broken — none of which the book supports; quoted falsely (*"What
+  does God know?"*, 22:13) and exactly (*"The counsel of the wicked is far from me"*, 22:18); and
+  promised that if he returns he will pray and be heard, and deliver *"him who is not innocent"*
+  through the cleanness of his hands (22:30), which he does for Eliphaz at 42:8.
 - **Job 22–31** — the third cycle collapsing, the hymn to wisdom, and Job's closing oath of
   innocence, in which he calls down curses on himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
@@ -262,6 +268,13 @@ speeches; each becomes a linked passage page as it is ingested.
   listening (21:2) and for the silence of a hand on the mouth (21:5) that he will make himself at
   40:4. Refuses to let the wicked man's children pay for him (21:19), with ten dead children of his
   own.
+- [[Eliphaz's Third Speech]] — Job 22:1–30; silent, and **for the first time charged with named
+  crimes.** The charges are the canonical description of the righteous man negated clause by clause,
+  and they contradict Eliphaz's own description of him at 4:3–4; he answers them in 24:2–12 by
+  pinning them on real oppressors, and in 29:12–17 and 31:16–22 by swearing to the opposite. The one
+  word of the charge sheet that rings is *ḥinnām*, *for nothing* (22:6) — the accuser's word about him
+  (1:9), God's (2:3), and his own (9:17). The speech's last promise describes what he will do in the
+  epilogue: deliver a guilty man by his prayer.
 
 ## Related people
 

@@ -74,6 +74,10 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   them throughout and never to God, and puts their portraits to a count: the wicked grow old, keep
   their children, die *"in an instant"*, and are buried with a vigil and a crowd.
 - **22–27 Third cycle** — the pattern breaks down; Bildad's speech is six verses and Zophar has none.
+  Eliphaz opens it by finally naming Job's crimes (22:6–9) — the canonical list of mercy negated
+  clause by clause, and supported by nothing — and closes it with the dialogue's warmest offer, whose
+  last line, *"He will even deliver him who is not innocent … through the cleanness of your hands"*
+  (22:30), the epilogue fulfils with Eliphaz as the guilty man and Job as the intercessor.
 - **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
@@ -122,7 +126,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Third cycle (22–27)
 
-- [ ] Eliphaz's Third Speech — Job 22:1–30
+- [x] [[Eliphaz's Third Speech]] — Job 22:1–30
 - [ ] Oh That I Knew Where I Might Find Him — Job 23:1–24:25
 - [ ] Bildad's Third Speech — Job 25:1–6
 - [ ] Job's Final Reply to the Friends — Job 26:1–27:23

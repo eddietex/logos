@@ -193,6 +193,10 @@ already did.
   *"Let me alone"* (7:16), *"Leave me alone"* (10:20), *"Look away from him"* (14:6) — and has not had
   answered. The wicked say it and are left in peace. **This is also Job's one reply in the first two
   cycles, beside chapter 19, with no prayer in it at all.**
+- [[Eliphaz's Third Speech]] — Job 22:27, 30; ***"You shall make your prayer to him, and he will
+  hear you."*** The promise is kept at 42:8–10, and the prayer that is heard is Job's prayer for
+  Eliphaz — who has just described it at 22:30 without knowing it: *"He will even deliver him who is
+  not innocent … through the cleanness of your hands."*
 
 ## Related themes
 

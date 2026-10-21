@@ -202,6 +202,8 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
 - [[Eliphaz's First Speech]] — Job 4:1–5:27: the night vision, the first *"what is man"*, and the
   restoration offered there and withdrawn here.
 - Job 1:6–12; 2:1–6 — the *sôd* of 15:8, which the reader has attended and Eliphaz has not.
+- [[Eliphaz's Third Speech]] — Job 22:1–30, where the indictment this chapter implies is made
+  explicit (22:6–9) and invented.
 - [[Why Do the Wicked Live]] — Job 21:1–34, Job's direct rebuttal of 15:20, chapter for chapter;
   15:11's *"consolations of God"* answered at 21:2.
 - Job 32:6–9 — Elihu against the authority of age that Eliphaz claims at 15:10.

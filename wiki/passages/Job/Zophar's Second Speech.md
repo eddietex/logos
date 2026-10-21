@@ -214,7 +214,8 @@ plenty the wicked man is not allowed to look at.
 - [[Zophar's First Speech]] — Job 11:1–20, with the repentance offer that chapter 20 withdraws.
 - [[Why Do the Wicked Live]] — Job 21:1–34, Job's answer to chapters 18 and 20 together, and the
   direct denial of 20:5: his *ʿădê-rāgaʿ* becomes the wicked man's *bəregaʿ* descent to Sheol (21:13).
-- Job 22:6–9 — Eliphaz turning 20:19's charge into a personal indictment.
+- [[Eliphaz's Third Speech]] — Job 22:6–9, Eliphaz turning 20:19's charge into a personal
+  indictment.
 - Job 27:13–23 — the same portrait of the wicked man's portion, in Job's mouth, in the disturbed
   third cycle; one of the main pieces of evidence that material has been displaced there.
 - Job 1:16, 19 — the fire from the sky and the collapsed house behind 20:26's unfanned fire

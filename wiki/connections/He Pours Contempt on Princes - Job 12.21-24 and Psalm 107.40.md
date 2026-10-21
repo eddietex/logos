@@ -15,6 +15,9 @@ tags: [connection]
   makes them stagger like a drunken man."* — [[Though He Slay Me]]
 - **Psalm 107:40–41** — *"He pours contempt on princes, and causes them to wander in a trackless
   waste. Yet he lifts the needy out of their affliction, and increases their families like a flock."*
+- **Psalm 107:42** — *"The upright will see it, and be glad. All the wicked will shut their mouths."*
+- **Job 22:19, 29** — Eliphaz: *"The righteous see it, and are glad"*, and *"When they cast down,
+  you shall say, 'be lifted up.' He will save the humble person."* — [[Eliphaz's Third Speech]]
 - **Job 5:11–16** — Eliphaz: *"He frustrates the devices of the crafty… He takes the wise in their
   own craftiness… They meet with darkness in the day time, and grope at noonday as in the night. But
   he saves… the needy… So the poor has hope."* — [[Eliphaz's First Speech]]
@@ -65,6 +68,16 @@ world's government. See [[Let That Day Be Darkness - Job 3 as Counter-Creation]]
 friends: the God they praise as the guarantor of moral order is, on their own hymnic evidence, the God
 who unmakes the wise and the judges — the kind of people the friends are — without an explanation.
 *"With God is wisdom and might"* (12:13), and the wisdom is not theirs.
+
+**Eliphaz supplies the psalm's ending twice.** Psalm 107 follows the humbling of princes with the
+lifting of the needy (107:41) and then with the spectators: *"The upright will see it, and be glad"*
+(107:42), *yirʾû yəšārîm wəyiśmāḥû*. Job 22:19 has *yirʾû ṣaddîqîm wəyiśmāḥû*, *"The righteous see
+it, and are glad"* — the same verbs, one synonym changed — and 22:29 has the lifting: *"When they
+cast down, you shall say, 'be lifted up.' He will save the humble person."* The second half of the
+reversal-of-fortunes hymn, which Job's version in chapter 12 left out, is restored by the friend
+who uses it against him. In Eliphaz's mouth Job is on the wrong side of both halves: among the
+cast-down whom the righteous laugh at, and, if he repents, the one who will speak the word that
+lifts others up.
 
 ## Significance
 

@@ -115,6 +115,10 @@ nakedness may not be revealed"* (Revelation 3:18).
   (9:22–23) applied to a country's undefended border.** It makes the espionage charge an accusation of
   shameful exposure, **levelled by the one man in the room with something to hide**, at the ten men who
   once uncovered a brother and left him in a pit
+- [[Eliphaz's Third Speech]] — Job 22:6; ***"stripped the naked of their clothing"*** — the pledged
+  cloak of Exodus 22:26–27, taken from a man with nothing else to sleep in. Job will answer that the
+  naked were *"warmed with my sheep's fleece"* (31:20) and that he himself *"put on righteousness,
+  and it clothed me"* (29:14)
 
 ## Related themes
 

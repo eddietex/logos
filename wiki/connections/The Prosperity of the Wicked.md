@@ -21,6 +21,9 @@ tags: [connection]
 - **Job 20:4–29** — Zophar: *"the triumphing of the wicked is short"* — [[Zophar's Second Speech]]
 - **Job 21:7–34** — Job's answer: *"Why do the wicked live, become old, yes, and grow mighty in
   power?"* — [[Why Do the Wicked Live]]
+- **Job 22:17–18** — Eliphaz's one-clause concession: the wicked said *"Depart from us"*, *"Yet he
+  filled their houses with good things"* — and then Job's own disclaimer, *"the counsel of the wicked
+  is far from me"*, turned against him — [[Eliphaz's Third Speech]]
 - **Job 24:1–25** — Job again, on crimes that go unpunished in broad daylight *(not yet ingested)*
 - **Job 27:13–23** — the same doctrine as the friends', in Job's mouth, in the disturbed third cycle
   *(not yet ingested)*
@@ -95,6 +98,14 @@ Psalm 37 takes the other route, counselling patience on a shorter horizon (*"the
 down like the grass"*), and is vulnerable to the objection Job makes: *soon* is doing a great deal
 of work. Jeremiah 12:1, Habakkuk 1:13, and Malachi 3:14–15 all put the question without softening
 it, and Habakkuk gets an answer that concerns the timetable rather than the principle.
+
+**The friends concede the point exactly once, and do not notice.** Eliphaz's reply to chapter 21
+grants it in a subordinate clause: the men who told God *"Depart from us"* are the men whose houses
+God *"filled … with good things"* (22:18). Then he moves on, to the Flood generation swept away
+(22:16) and the righteous laughing at the ruin of the wicked (22:19–20) — the portrait reasserted
+beside the concession that contradicts it. Job's answer in chapter 24 is to describe the wicked at
+work in the open, taking pledges from widows and clothes from the poor, and to say *"God doesn't
+regard the folly"* (24:12).
 
 ## Significance
 

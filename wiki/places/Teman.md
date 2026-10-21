@@ -60,6 +60,10 @@ that pair it with Bozrah as though the two were distinguishable.
 - [[Eliphaz's Second Speech]] — carried in the gentilic, and standing behind the appeal to
   ancestral wisdom in 15:17–19.
 - [[Miserable Comforters and the Witness in Heaven]] — the same, in the speaker Job answers.
+- [[Eliphaz's Third Speech]] — Job 22:1, the gentilic's last use as a speaker's label. Teman's wise
+  man ends his speeches by inventing the crimes his wisdom requires, and then by offering *tôrâ* and
+  promising Job a prayer that will be heard (22:22, 27). The gentilic does not recur until God uses it
+  at 42:7 to rebuke him.
 - [[The Descendants of Esau]] — Genesis 36:11, 15, 34, 42; a grandson of Esau, a chief twice over,
   and the district the third king of Edom comes from. **The place and the person are the same name
   doing two jobs**, which is what the whole final register of that chapter does at scale.

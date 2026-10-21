@@ -226,6 +226,13 @@ verdicts.
   only that it happens too seldom to read a life by** — which is all he needs to remove the inference
   from his ruin to his guilt. See [[The Prosperity of the Wicked]] and
   [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
+- [[Eliphaz's Third Speech]] — Job 22:1–30; **the doctrine generating its own evidence.**
+  *"Therefore snares are around you"* (22:10) runs the inference backwards from suffering to sin,
+  and 22:5–9 supplies the sins: the canonical list of mercy negated clause by clause, attached to
+  Job by name, and unsupported by anything in the book. The speech then offers the doctrine's reward
+  on its usual condition (22:21–30), and every reward is delivered in chapter 42 without the
+  condition. See
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 
 ## Related themes
 

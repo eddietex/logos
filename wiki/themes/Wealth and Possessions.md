@@ -208,6 +208,10 @@ the promise is repeatedly mistaken for.
   *"don't miscarry"* (21:10, the covenant blessing of Exodus 23:26); pails full of milk; days spent *"in
   prosperity"*. The direct counter to Zophar's swallowed riches vomited up (20:15): nothing is
   surrendered, and the wealth goes to the grave with its owner.
+- [[Eliphaz's Third Speech]] — Job 22:24–25; **gold into the wadi.** *"Lay your treasure in the
+  dust, the gold of Ophir among the stones of the brooks. The Almighty will be your treasure"* — a
+  pun on *beṣer*, ore, and *ṣûr*, rock, and a charge that Job's wealth had become his god. Job
+  answers it under oath at 31:24–25. See [[Ophir]].
 
 ## Related themes
 

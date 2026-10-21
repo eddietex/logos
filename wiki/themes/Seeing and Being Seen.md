@@ -266,6 +266,11 @@ will finally go both ways.
   their eyes"* (21:8) — the sight Job lost at 1:19. *"Let his own eyes see his destruction"* (21:20):
   punishment should be seen by the one punished. And the witnesses who have seen the world, the
   *"wayfaring men"* (21:29), against the friends who have only read about it.
+- [[Eliphaz's Third Speech]] — Job 22:12–14; **a God who cannot see, put in the mouth of a man who
+  complains that God never stops looking.** *"You say, 'What does God know? Can he judge through the
+  thick darkness?'"* — the practical atheist's creed of Psalm 10:11, 73:11 and 94:7, attributed to
+  the Job who called God *"you watcher of men"* (7:20) and asked *"Don't you watch over my sin?"*
+  (14:16). The *ʿărāpel* is Sinai's cloud (Exodus 20:21), where God is present, not absent.
 
 ## Related themes
 

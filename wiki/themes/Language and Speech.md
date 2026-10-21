@@ -224,6 +224,10 @@ noticing into doctrine.
   [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]]); the wicked's speech quoted (21:14–15),
   and the friends' (21:19, 28); and the verdict on their answers, *hebel* and *maʿal* — breath, and a
   breach of faith (21:34). Eliphaz will quote this speech back at 22:17–18.
+- [[Eliphaz's Third Speech]] — Job 22:13–14, 17–18; **misquotation and exact quotation in one
+  speech.** Job is made to say *"What does God know?"*, which he never said, and then quoted to the
+  letter — *"The counsel of the wicked is far from me"* (21:16 at 22:18) — so that his own
+  disclaimer becomes Eliphaz's.
 
 ## Related themes
 

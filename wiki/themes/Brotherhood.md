@@ -144,6 +144,9 @@ resolve it.**
   the friends called *brothers* in the verse that accuses them, and compared to a wadi that runs
   full in winter and is dry when the caravans arrive. Job's actual brothers are *"far from me"* at
   19:13 and come back, with comfort and a piece of silver, at 42:11
+- [[Eliphaz's Third Speech]] — Job 22:6, ***"you have taken pledges from your brother for
+  nothing"*** — the *ʾāḥ* the law singles out for open-handed lending (Deuteronomy 15:7–11;
+  24:10–13), and *ḥinnām*, the accuser's *for nothing* of 1:9, attached to a crime nobody saw
 
 ## Related themes
 

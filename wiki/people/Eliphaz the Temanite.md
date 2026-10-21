@@ -53,7 +53,17 @@ man in front of him and to keep being wrong more aggressively each time he was c
 the book's judgment falls there.
 
 The epilogue's remedy is exact: Eliphaz must take seven bulls and seven rams to Job and have Job
-pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his priest.
+pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his priest. **And
+Eliphaz has already described it.** The last sentence he speaks in the book is *"He will even
+deliver him who is not innocent. Yes, he shall be delivered through the cleanness of your hands"*
+(22:30) — meant as a promise to a penitent Job, fulfilled at 42:8 with Eliphaz as the one who is not
+innocent.
+
+**The wiki records one contradiction inside his own speeches.** At 4:3–4 he says Job *"strengthened
+the weak hands"* and *"supported him who was falling"*; at 22:9 he says *"the arms of the fatherless
+have been broken"* by him. The first is supported by the narrator (1:1), by God (1:8; 2:3), and by
+Job's own testimony (29:12–17); the second by nothing. Nothing about Job is learned between the two
+— only the doctrine's demand for a sin of the right size has grown.
 
 ## Timeline / key events
 
@@ -81,8 +91,11 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   replaced by the consolation of listening (21:2), his terrors (15:21) by houses *"safe from fear"*
   (21:9), and his *gādîš*, the *shock of grain* of the righteous man's death (5:26), turned into the
   wicked man's honoured tomb (21:32). His reply will quote 21:14 and 21:16 back at Job (22:17–18).
-- **Job 22:1–30** — the third speech, and the fabricated charges — 22:6–9 is 20:19 with Job's name
-  attached and details supplied that the book gives no evidence for.
+- **Job 22:1–30** — [[Eliphaz's Third Speech]], his last. A new subject (*"Can a man be profitable
+  to God?"*, 22:2); the fabricated charges (22:6–9), which are 20:19 with Job's name attached and
+  details supplied that the book gives no evidence for; a misquotation of Job (22:13–14) and an exact
+  quotation (21:14–16 at 22:17–18); and the most generous offer in the dialogue, ending on *"He will
+  even deliver him who is not innocent … through the cleanness of your hands"* (22:30).
 - **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job.
 
 ## Appears in
@@ -144,6 +157,15 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   and his *"born of a woman"* anthropology (4:17) is granted at 14:1–4 and turned into a plea for God
   to look away. His reply in chapter 15 answers this speech line for line: 15:2 (*vain knowledge*) to
   12:3, 15:9 to 13:2, 15:10 (*the gray-headed*) to 12:12, 15:14 to 14:1.
+- [[Eliphaz's Third Speech]] — Job 22:1–30, **his own chapter, and his last words.** The
+  trajectory completed: the charges named, all invented, and the inverse of the canonical list of
+  mercy (see
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]]). His profit
+  question (22:2–3) is the question the council in heaven has already answered (see
+  [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]]), and his *ḥinnām*,
+  *for nothing* (22:6), is the accuser's word of 1:9. Then 22:21–30, read as sincere: *tôrâ*, *return*,
+  the lifted face, prayer heard — every promise kept in chapter 42, the condition never met, and the
+  last line describing his own rescue.
 - [[Why Do the Wicked Live]] — Job 21, answering the second cycle's three portraits, his first among
   them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
   and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See
@@ -175,7 +197,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
 - [[Retribution]] — its principal spokesman in the book.
 - [[Wisdom]] — claimed by vision in chapter 4, by ancestry in chapter 15, and denied him by Job at
   17:10 and by God at 42:7.
-- [[Sin]] — 4:17–19 and 15:14–16, the friends' anthropology at its two most quotable statements.
+- [[Sin]] — 4:17–19 and 15:14–16, the friends' anthropology at its two most quotable statements;
+  and 22:5–9, the only specific sins any friend ever attributes to Job, all of them invented.
+- [[Mediation and Advocacy]] — denied at 5:1 (*"To which of the holy ones will you turn?"*),
+  described at 22:30, and received at 42:8.
 - [[Judgment]] — his catalogue of the wicked man's fate is a judgment scene stretched over a
   lifetime.
 - [[Suffering]] — which in his hands is never anything but evidence.

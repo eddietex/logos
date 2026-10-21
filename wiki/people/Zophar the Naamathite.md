@@ -117,6 +117,9 @@ than his iniquity deserves. The reader knows which of the two is right.
   likeliest reason; his *"for a moment"* (*ʿădê-rāgaʿ*, 20:5) becomes the wicked man's *"in an
   instant"* (*bəregaʿ*, 21:13) descent to Sheol; and his children begging from the poor (20:10)
   become children dancing to harp and pipe (21:11–12). He never replies.
+- **Job 22:1–30** — silent through [[Eliphaz's Third Speech]], which takes his third-person charge,
+  *"he has oppressed and forsaken the poor"* (20:19), and makes it second-person and specific
+  (22:6–9), and repeats his *"lift up your face"* (11:15) at 22:26. He does not speak again.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
   be prayed for by Job.
 
@@ -155,6 +158,8 @@ than his iniquity deserves. The reader knows which of the two is right.
 - [[Why Do the Wicked Live]] — Job 21, the answer to his last speech, which he does not answer:
   his *short* triumph of the wicked (20:5) met by a long life, an easy death, and a well-attended
   funeral.
+- [[Eliphaz's Third Speech]] — Job 22, silent; his charge of 20:19 named and fabricated, and his
+  promise of 11:15–19 repeated in its fullest form.
 
 ## Related people
 

@@ -208,6 +208,12 @@ about.
   man full of talk be justified?"* (11:2). Isaiah 50:8 says the same with God as subject: *"He who
   justifies me (maṣdîqî) is near."* See
   [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]]
+- [[Eliphaz's Third Speech]] — Job 22:2–3, 6–9; **righteousness priced, and its definition
+  inverted.** *"Is it any pleasure to the Almighty, that you are righteous?"* — asked in a book
+  whose prologue is God's boast of a righteous man. The charges of 22:6–9 are the standard
+  description of the *ṣaddîq* (Ezekiel 18:7; Isaiah 58:7; Matthew 25:35–36) with every clause
+  negated; Job's own account of his righteousness in 29:12–17 is the same list affirmed. See
+  [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]].
 
 ## Related themes
 

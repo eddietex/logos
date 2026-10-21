@@ -9713,3 +9713,82 @@ connections (6 rows extended, +2 rows), `wiki/index.md` (76 passages, 240 connec
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 22.1-30 — Eliphaz's Third Speech
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 22:1–30.
+**Boundary and title unchanged** — the friends' speeches are numbered plainly, per the book page's
+convention. No collision with any other book. **Job is at 18 / 32; the third cycle has begun.** No
+discussion step; it is written into the passage page.
+
+### The passage page
+
+Built around these findings:
+
+**1. The profit question (22:2–4)**: a new subject, chapter 21 unanswered. *Tattēm* (22:3) is the
+*t-m-m* root of Job's integrity; 22:4's *yirʾâ* is the prologue's word and Eliphaz's own at 4:6 —
+the one question in the dialogue whose true answer is yes.
+
+**2. The charge sheet (22:5–11)**, set out as a table against 29:12–17 and 31:16–22: the canonical
+list of mercy (Ezekiel 18:7; Isaiah 58:7; Matthew 25:35–36) negated clause by clause. *Ḥinnām*
+(22:6) is the accuser's word of 1:9, God's of 2:3, and Job's of 9:17. 22:10's *therefore* shows the
+inference running from suffering to sin. *Wəšipʿat-mayim təkassekkā* (22:11) recurs word for word
+at 38:34.
+
+**3. Misquotation and quotation (22:12–20)**: *"What does God know?"* is the Psalms' fool (10:11;
+73:11; 94:7), put in the mouth of the man who called God *"watcher of men"* (7:20); the *ʿărāpel* is
+Sinai's. Then 21:14–15 and 21:16b (*ʿăṣat rəšāʿîm rāḥăqâ mennî*) quoted exactly, Job's disclaimer
+taken from him. 22:19 against Psalm 107:42; 22:20's *kāḥad* against 4:7; *the fire* against 1:16.
+
+**4. The offer (22:21–30)**: *hasken* (22:21) on the root of 22:2's *yiskān*; *tôrâ*, its only
+occurrence in Job; the *beṣer*/*ṣûr* pun and Ophir; and **22:30, Eliphaz's last sentence, fulfilled
+at 42:8 with Eliphaz as *ʾî-nāqî*, the one not innocent**, delivered by Job's hands. *Bōr kappêkā*
+against the lye of 9:30.
+
+**5. Job's reply previewed**: chapter 24 gives every count of 22:6–9 a real defendant.
+
+**Judgment calls.** **22:21–30 read as sincere**, not sarcastic. **22:15–16 read as the Flood
+generation** — the majority reading, recorded as probable, not certain. **22:8** recorded as
+obscure, with the *zərôaʿ* wordplay to 22:9, 31:22 and 38:15. **22:30's *ʾî-nāqî*** kept as a
+negative, with the KJV's *island* and the emendation to *the innocent* recorded. *Tôrâ* stated as
+the word's only occurrence in Job. **Contradiction flagged** on [[Eliphaz the Temanite]]: 4:3–4
+(Job strengthened the weak) against 22:9 (the arms of the fatherless broken), with the sources for
+each — recorded as a contradiction inside Eliphaz's speeches, not between wiki pages.
+
+**New place page: [[Ophir]]**, bare name, following the [[Havilah]] / [[Uz]] / [[Tema]] precedent:
+Joktan's son (Genesis 10:29) has no person page. If one is ever made, both pages take qualifiers
+under the person/place rule. 28:16 is marked *not yet ingested*. **No new person pages.**
+
+### Connection pages (2 new)
+
+- [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] — the list
+  of mercy across the law, the prophets, and Matthew 25, and Job's three replies to its negation
+  (24, 29, 31). Chapters 24, 29, 31 and the non-Job texts are marked *not yet ingested*.
+- [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] — the profit question
+  in four mouths (1:9; 7:20; 21:15; 22:2–3), Elihu's repetition, and obligation against interest;
+  Job 35:6–8, 41:11, Romans 11:35, Luke 17:10 marked *not yet ingested*.
+
+### Pages created or revised
+
+Created (3 besides the passage page): [[Ophir]] and the two connections. People (5):
+[[Eliphaz the Temanite]] (timeline rewritten, appears-in, epilogue paragraph extended with 22:30,
+the 4:3–4 / 22:9 contradiction, two theme bullets), [[Job (person)]] (timeline, appears-in),
+[[God]] (Job-section bullet, appears-in), [[Bildad the Shuhite]], [[Zophar the Naamathite]]
+(timeline, appears-in). Places (1): [[Teman]]. Themes (17): [[Retribution]], [[Righteousness]],
+[[Integrity]], [[The Fear of God]], [[Sin]], [[Compassion and Mercy]], [[Nakedness and Covering]],
+[[Hospitality]], [[Brotherhood]], [[Wealth and Possessions]], [[Seeing and Being Seen]],
+[[Light and Darkness]], [[Prayer]], [[Oaths and Vows]], [[Mediation and Advocacy]], [[Judgment]],
+[[Language and Speech]]. Connections revised (4):
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] (new paragraph on
+22:26–30), [[The Prosperity of the Wicked]] (22:17–18), [[As It Was in the Days of Noah]]
+(22:15–17), [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] (Psalm 107:42 and
+22:19, 29). Passages revised (4): plain *Job 22* cross-references linked or added in
+[[Why Do the Wicked Live]], [[Zophar's Second Speech]], [[Zophar's First Speech]],
+[[Eliphaz's Second Speech]]. Book page: box checked, structure note for 22–27 extended. Indexes:
+books (18 / 32), people (5 rows), places (+1 row, 1 row extended), themes (17 rows), connections
+(4 rows extended, +2 rows), `wiki/index.md` (77 passages, 75 places, 242 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

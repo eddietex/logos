@@ -246,6 +246,10 @@ has been argued.
   father will not feel what his sons suffer. The objection Jeremiah 31:29–30 and Ezekiel 18 later
   make in God's name. See
   [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
+- [[Eliphaz's Third Speech]] — Job 22:5–9; **the first specific sins anyone attributes to Job, and
+  all invented.** *"Isn't your wickedness great? Neither is there any end to your iniquities"* —
+  then pledges, the naked stripped, bread and water withheld, widows, the fatherless. The book's
+  verdict on the charges is given by the narrator (1:1) and by God (1:8; 2:3) before they are made.
 
 ## Related themes
 

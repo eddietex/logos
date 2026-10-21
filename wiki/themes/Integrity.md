@@ -162,6 +162,10 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   is the root of *tām* (1:1, 8; 2:3) and of the *tummâ* Job's wife told him to let go (2:9). The
   wicked man dies *whole*, in the physical sense; the man who held on to wholeness in the moral sense
   dies, as Job says of the second man, *"in bitterness of soul"* (21:25).
+- [[Eliphaz's Third Speech]] — Job 22:3; ***tattēm dərākêkā***, *"that you make your ways perfect"*
+  — the *t-m-m* root in a question: does a man's blamelessness benefit God? Eliphaz assumes no. The
+  council of 1:8 and 2:3, where God boasts that Job *"still maintains his integrity"*, is the book's
+  answer.
 
 ## Related themes
 

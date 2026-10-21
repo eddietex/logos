@@ -1200,6 +1200,14 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   those who are high"* and cannot be taught (21:22). Job's question is not whether God judges but why
   his judgment is not visible where the friends say it is — and the whirlwind, when it comes, will
   not answer that question either.
+- **The God of [[Eliphaz's Third Speech]]** is the self-sufficient God: human righteousness is no
+  *profit* to him and no *pleasure* (22:2–3), he sits *"in the heights of heaven"* above the stars
+  (22:12), and his *ʿărāpel*, the thick darkness of Sinai, does not hide him (22:13). He gives *tôrâ*
+  (22:22, the word's only occurrence in Job), and hears the prayer of the man who returns (22:27). **The
+  prologue disagrees with the first of these claims and not the rest.** God is not enriched by Job's
+  integrity, but he is not indifferent to it either — he boasted of it twice in the council — and
+  that difference is the whole book; see
+  [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]].
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1550,6 +1558,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   appoints the heritage
 - [[Why Do the Wicked Live]] — spoken about and never addressed: the God whose rod is absent from
   the wicked, who leaves when they tell him to, and who *"judges those who are high"* (21:22)
+- [[Eliphaz's Third Speech]] — gains nothing from human righteousness (22:2–3), sees through the
+  thick darkness (22:13), gives *tôrâ* (22:22), and hears the penitent's prayer (22:27)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

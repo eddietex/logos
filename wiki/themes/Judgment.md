@@ -286,6 +286,10 @@ rule are the conditions the rest of Scripture is set in.
   21:30 is the crux: the WEB's *"the evil man is reserved to the day of calamity"* makes the
   travellers testify to a postponed judgment, while most modern translations read *"spared in the day
   of calamity"*. The passage page reads *spared*, in context, and records both.
+- [[Eliphaz's Third Speech]] — Job 22:4, 15–16; *"that he enters with you into judgment"* — the
+  courtroom Job has demanded since chapter 9, offered back as a sentence already passed — and the
+  wicked of *"the old way"*, *"snatched away before their time"*, most likely the Flood generation
+  used as an exemplum.
 
 ## Related themes
 

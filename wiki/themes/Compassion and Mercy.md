@@ -120,6 +120,12 @@ name, and gives the name to a father who cannot see it work.**
   does not appear
 - **Genesis 50:21 — *wayḏabbēr ʿal-libbām*, *he spoke upon their heart***; the idiom's only previous
   use in Genesis is [[Shechem (son of Hamor)]]'s at 34:3 — [[The Deaths of Jacob and Joseph]]
+- [[Eliphaz's Third Speech]] — Job 22:6–9; **the duties of mercy as a charge sheet.** The widow, the
+  fatherless, the hungry, the thirsty, the naked, the debtor whose cloak is his only covering — the
+  people the law and the prophets put in the righteous man's care, named as the people Job
+  neglected. Job answers by giving the list a real defendant (24:2–12), by recalling his own record
+  (29:12–17), and by an oath (31:16–22). See
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]]
 
 ## Related themes
 

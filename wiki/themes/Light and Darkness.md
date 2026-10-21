@@ -127,6 +127,9 @@ raw text.)*
 - [[Why Do the Wicked Live]] — Job 21:17; *"How often is it that the lamp of the wicked is put
   out?"* Bildad's four extinguishings (18:5–6) put to a count, with the same verb, *dāʿak*. The image
   is not denied; its frequency is. See [[The Lamp of the Wicked Put Out]].
+- [[Eliphaz's Third Speech]] — Job 22:11, 13–14, 28; darkness *"so that you can not see"* as the
+  sinner's punishment, the *ʿărāpel* God is wrongly said to hide behind, and *"Light shall shine on
+  your ways"* as the penitent's reward.
 
 ## Related themes
 

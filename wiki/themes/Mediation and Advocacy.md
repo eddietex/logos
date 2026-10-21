@@ -203,6 +203,11 @@ what Job is asking for.
   for advocating falsely on his behalf (13:10). Lacking an arbiter, he will plead his own case.
   13:19's *"Who is he who will contend with me?"* is Isaiah 50:8's question, where the Servant has the
   vindicator Job lacks. See [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]]
+- [[Eliphaz's Third Speech]] — Job 22:30; ***"He will even deliver him who is not innocent. Yes, he
+  shall be delivered through the cleanness of your hands."*** The friends' one statement of
+  intercession, made by the friend who denied at 5:1 that Job had anyone to turn to, and fulfilled
+  at 42:8 with Eliphaz as the guilty man delivered by Job's hands. See
+  [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
 
 ## Related themes
 

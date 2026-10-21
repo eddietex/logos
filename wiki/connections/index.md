@@ -21,7 +21,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
 | [[The Sons of God and the Angels That Sinned]] | thread | Genesis 6:1–4 · Job 1:6 · Deuteronomy 32:8 · *1 Enoch* 6–16 · Jude 6 · 2 Peter 2:4 · Matthew 22:30 |
 | [[The Nephilim and the Giants of Canaan]] | thread | Genesis 6:4 · Numbers 13:31–33 · Deuteronomy 2:10–11, 3:11 · Joshua 11:21–22 · 1 Samuel 17:4–7 · 2 Samuel 21:15–22 |
-| [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
+| [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Job 22:15–17 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
 | [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 |
@@ -49,7 +49,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 |
 | [[The Redeemer and the Avenger of Blood]] | thread | Job 16:18–19 · Job 19:25 · Leviticus 25:25, 47–49 · Numbers 35:12, 19–27 · Ruth 3:9–4:10 · Proverbs 23:10–11 · Exodus 6:6 · Isaiah 41:14; 43:14; 44:6 · Genesis 4:10 · Revelation 6:9–10 |
 | [[The Hope of Resurrection in the Old Testament]] | thread | Job 7:9 · Job 14:7–14 · Job 19:25–27 · Psalm 49:15 · Psalm 73:24 · Isaiah 25:8; 26:19 · Ezekiel 37:1–14 · Daniel 12:2–3 · Matthew 22:23–33 · 1 Corinthians 15:12–57 |
-| [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 · Job 11:20 · Job 12:6 · Job 21:13, 32 |
+| [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Job 22:17–18 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 · Job 11:20 · Job 12:6 · Job 21:13, 32 |
 | [[Leave Your Country - The Two Lek-Lekha Commands]] | parallel | Genesis 12:1 · Genesis 22:2 · Genesis 12:4 · Genesis 22:3 · Hebrews 11:8, 17–19 |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
@@ -226,7 +226,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 18 · Genesis 1:1–2:3 |
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
-| [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19; 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 |
+| [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 |
 | [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 |
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 |
@@ -240,7 +240,9 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Though He Slay Me - The Written and the Read Text of Job 13.15]] | textual-problem | Job 13:13–16 · Job 6:11 · Job 9:33 · Psalm 100:3 · Isaiah 9:3 · Isaiah 63:9 |
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |
 | [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] | allusion | Job 13:18–19, 28 · Job 9:2–3, 33 · Job 23:3–7 · Job 40:2 · Isaiah 50:7–9 · Isaiah 51:8 · Romans 8:31–34 |
-| [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] | quotation | Job 12:17–25 · Psalm 107:40–41 · Job 5:11–16 · Deuteronomy 28:28–29 · 1 Samuel 2:6–8 · Isaiah 40:23–24; 44:25 · Daniel 2:21 · Luke 1:51–53 · 1 Corinthians 1:19–20 · Genesis 1:2 |
+| [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] | quotation | Job 12:17–25 · Psalm 107:40–42 · Job 22:19, 29 · Job 5:11–16 · Deuteronomy 28:28–29 · 1 Samuel 2:6–8 · Isaiah 40:23–24; 44:25 · Daniel 2:21 · Luke 1:51–53 · 1 Corinthians 1:19–20 · Genesis 1:2 |
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] | thread | Job 21:19–21 · Job 14:21 · Job 5:4; 8:4; 18:19; 20:10 · Exodus 20:5–6; 34:6–7 · Deuteronomy 24:16 · 2 Kings 14:5–6 · Lamentations 5:7 · Jeremiah 31:29–30 · Ezekiel 18:1–4, 19–20 · John 9:1–3 |
 | [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] | literary-parallel | Job 21:5 · Job 29:9 · Job 40:4 · Job 2:13 · Job 13:5 · Judges 18:19 · Proverbs 30:32 · Micah 7:16 · Isaiah 52:15 |
+| [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] | thread | Job 22:6–9 · Job 4:3–4 · Job 20:19 · Job 24:3, 9–10 · Job 29:12–17 · Job 31:16–22 · Exodus 22:22–27 · Deuteronomy 24:6, 10–13, 17 · Isaiah 58:6–7 · Ezekiel 18:5–9, 16 · Matthew 25:35–36, 42–43 · James 2:15–16 |
+| [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] | thread | Job 22:2–4, 21 · Job 1:8–9; 2:3 · Job 7:20 · Job 21:15 · Job 35:6–8 · Job 41:11 · Romans 11:35 · Luke 17:10 |

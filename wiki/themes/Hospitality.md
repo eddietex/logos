@@ -176,6 +176,10 @@ theme, and its last appearance inverts who performs it.
   it performed by [[Joseph's Steward]] for men who believe they are about to be enslaved. **Then it
   breaks at the last step**: three tables, *"because the Egyptians don't eat bread with the Hebrews"*
   (43:32), **and the host eats alone**
+- [[Eliphaz's Third Speech]] — Job 22:7; ***"You haven't given water to the weary to drink, and you
+  have withheld bread from the hungry"*** — the most elementary duty of a house, charged as refused;
+  Job will swear that he never ate his morsel alone (31:17) and that *"the stranger has not lodged
+  in the street"* (31:32)
 
 ## Related themes
 

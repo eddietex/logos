@@ -205,6 +205,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   thriving. Job distances himself at once: *"The counsel of the wicked is far from me"* (21:16). The
   fear of God that the prologue tested is shown here unrewarded in the one place the friends' theory
   most needs it rewarded.
+- [[Eliphaz's Third Speech]] — Job 22:4; *"Is it for your piety (yirʾâ) that he reproves you?"* —
+  **the one question in the dialogue whose true answer is yes.** The test of the prologue exists
+  because the accuser disputed Job's *yirʾâ* (1:9), and Eliphaz, who had called the same piety Job's
+  *confidence* at 4:6, now treats it as the one possible cause he can rule out.
 
 ## Related themes
 

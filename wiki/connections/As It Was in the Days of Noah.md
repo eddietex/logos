@@ -10,6 +10,10 @@ tags: [connection]
 - Genesis 6:1–8 — [[The Sons of God and the Corruption of the Earth]]
 - Genesis 6:9–7:24 — [[Noah and the Flood]]: the ark, the waiting, and the flood
 - Genesis 8:20–22 — [[The Waters Recede]]: the promise never to do it this way again
+- Job 22:15–17 — *"Will you keep the old way, which wicked men have trodden, who were snatched away
+  before their time, whose foundation was poured out as a stream, who said to God, 'Depart from
+  us'"* — most likely the Flood generation, used as an exemplum against Job —
+  [[Eliphaz's Third Speech]]
 - Isaiah 54:9–10 — *"this is like the waters of Noah to me"*: the promise used as a guarantee
 - Matthew 24:37–39 *(not yet ingested)* — *"as the days of Noah were, so will the coming of the Son
   of Man be"*
@@ -55,6 +59,15 @@ eight persons *"saved through water"* become, in 1 Peter 3:21, a figure of bapti
 supplies the argument that Genesis 6:1–8 most naturally underwrites — that the world's continuance
 is not evidence that judgment will not come, because it has come once already, by water, on a world
 that had every reason to think it would not.
+
+**Eliphaz may be using the Flood as a warning already.** Job 22:15–17 does not name Noah
+or the Flood, but *"the old way"* of the wicked, men *"snatched away before their time, whose
+foundation was poured out as a stream"*, follows a threat of *"floods of waters"* (22:11), and most
+interpreters ancient and modern read it of Genesis 6–7. If so, the Flood is being used exactly as
+Jesus and 2 Peter will use it — as the precedent that proves judgment comes — and against a man
+who is not, in fact, one of that generation. Eliphaz also gives the generation a speech it does not
+have in Genesis: *"who said to God, 'Depart from us'"* (22:17), which is Job's quotation of the
+prosperous wicked at 21:14.
 
 **A note on 2 Peter 2:5's "preacher of righteousness".** Genesis says nothing about Noah preaching.
 The tradition that he warned his generation during the ark's construction is Second Temple Jewish

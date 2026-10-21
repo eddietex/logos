@@ -27,7 +27,9 @@ tags: [connection]
 - **Job 21:32** — the wicked man's tomb: *"Men shall keep watch over the tomb (gādîš)"* — Eliphaz's
   *shock of grain* of 5:26, the same noun, now the grave-mound of a man who told God to depart —
   [[Why Do the Wicked Live]]
-- **Job 22:21–30** — Eliphaz's last version of it, in his third speech
+- **Job 22:21–30** — Eliphaz's last version of it: *"You shall make your prayer to him, and he will
+  hear you … He will even deliver him who is not innocent. Yes, he shall be delivered through the
+  cleanness of your hands"* (22:27, 30) — [[Eliphaz's Third Speech]]
 
 ## Analysis
 
@@ -103,6 +105,20 @@ the first ten are counted as living, the naming of the daughters is the compensa
 none of them. Eliphaz's 5:25 promised *offspring* as the grass, not the children back. Nothing in
 his promise or in the epilogue makes the second family a replacement for the first, and Eliphaz,
 who had used the first family's deaths as an exemplum at 5:4, is in no position to offer one.
+
+**Eliphaz's last version of the promise describes the epilogue more exactly than his first, and
+casts him in it.** 22:21–30 is the fullest form the friends' promise ever takes, and its last three
+verses are the ones chapter 42 keeps most literally. *"You shall make your prayer to him, and he will
+hear you"* (22:27): at 42:8–9 Job prays and *"Yahweh accepted Job"*. *"You shall lift up your face to
+God"* (22:26) — Zophar's idiom from 11:15 — and God says of Job *pānāyw ʾeśśāʾ*, *I will lift his
+face* (42:8). And *"He will even deliver him who is not innocent (ʾî-nāqî). Yes, he shall be
+delivered through the cleanness of your hands"* (22:30): at 42:8 the man who is not innocent is
+Eliphaz, God's wrath is turned from him *"that I not deal with you according to your folly"*, and the
+hands whose cleanness delivers him are Job's. **5:1 had denied Job an intercessor; 22:30 promises
+that Job will be one; 42:8 makes him Eliphaz's.** The promise was true at every stage. Its condition
+— *"If you return to the Almighty … if you put away unrighteousness far from your tents"* (22:23),
+meaning the crimes of 22:6–9 — is the only part of it that never happens, because there was nothing
+to put away.
 
 ## Significance
 

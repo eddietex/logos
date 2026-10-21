@@ -185,6 +185,9 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 - **Genesis 50:25 — the longest-running oath in Scripture**: sworn by the whole house of Israel,
   kept at Exodus 13:19, discharged at Joshua 24:32 —
   [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
+- [[Eliphaz's Third Speech]] — Job 22:27, ***"You shall pay your vows"*** — the vow fulfilled as the
+  sign of a restored relationship, promised to Job on condition of a repentance he will refuse; his
+  own oath, chapter 31, will answer the charges of this speech one by one
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22
