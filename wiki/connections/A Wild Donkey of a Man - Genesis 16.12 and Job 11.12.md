@@ -13,7 +13,7 @@ tags: [connection]
   colt"* — *ʿayir pereʾ ʾādām* — [[Zophar's First Speech]]
 - **Job 6:5** — Job: *"Does the wild donkey bray when he has grass?"* — [[The Arrows of the Almighty]]
 - **Job 24:5** — the dispossessed poor, *"as wild donkeys in the desert, they go out to their work"*
-  *(not yet ingested)*
+  — [[Oh That I Knew Where I Might Find Him]]
 - **Job 39:5–8** — God: *"Who has set the wild donkey free? … He scorns the tumult of the city,
   neither does he hear the shouting of the driver"* *(not yet ingested)*
 - **Jeremiah 2:24; Hosea 8:9** — Israel as a wild donkey in heat, and *"a wild donkey wandering

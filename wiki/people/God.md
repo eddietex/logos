@@ -1208,6 +1208,14 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   integrity, but he is not indifferent to it either — he boasted of it twice in the council — and
   that difference is the whole book; see
   [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]].
+- **The God of [[Oh That I Knew Where I Might Find Him]]** is hidden. Job looks for his *seat*
+  (23:3) and finds him in no direction (23:8–9), yet *"he knows the way that I take"* and is assaying
+  Job like gold (23:10). He *"stands alone"*, does what his soul desires, and carries out what is
+  *"appointed"* (23:13–14), and the same sovereignty that grounds Job's hope makes him *"terrified at
+  his presence"* (23:15). In chapter 24 he keeps no court days (24:1), sees the wicked (24:23), gives
+  them security (24:22–23), and does not *put down* the outrage of the poor (24:12, *tiplâ*, the word
+  of 1:22). He is never addressed in the speech; Job says *he* throughout and *you* not once. See
+  [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]].
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1560,6 +1568,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   the wicked, who leaves when they tell him to, and who *"judges those who are high"* (21:22)
 - [[Eliphaz's Third Speech]] — gains nothing from human righteousness (22:2–3), sees through the
   thick darkness (22:13), gives *tôrâ* (22:22), and hears the penitent's prayer (22:27)
+- [[Oh That I Knew Where I Might Find Him]] — not to be found in any direction (23:8–9), yet knowing
+  Job's way and assaying him (23:10); keeping no days of judgment (24:1), and seeing the wicked
+  without charging them (24:12, 23)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

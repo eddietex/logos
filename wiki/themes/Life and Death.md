@@ -355,6 +355,12 @@ the rest of the canon.
   The worm covers them"* (21:23–26). The leveller of Ecclesiastes 9:2–3, without Ecclesiastes'
   shrug: for Job, a death that ignores the difference between men is the proof that nothing before it
   marked the difference either.
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:19–20, 24; **the forgetting womb and the common
+  harvest.** *"The womb shall forget him. The worm shall feed sweetly on him. He shall be no more
+  remembered"* — Sheol as the swallower of the wicked, in verses the wiki reads as the friends' view
+  cited or cursed — and then Job's own: the mighty *"are taken out of the way as all others, and are
+  cut off as the tops of the ears of grain"*. Death as the harvest that takes everyone, as at
+  21:23–26.
 
 ## Related themes
 

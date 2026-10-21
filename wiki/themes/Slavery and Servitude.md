@@ -229,6 +229,10 @@ addressing a slave by name and no one else in the story doing so.
   reaches for it to describe what the grave has none of. **It is said by a man who had *"a very
   great household"* of servants** (1:3) and had just lost most of them to raiders and fire in a
   single afternoon
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:9–11; *"There are those who pluck the
+  fatherless from the breast, and take a pledge of the poor"* — a nursing child seized for a debt, as
+  the creditor of 2 Kings 4:1 comes for the widow's two sons — and the labourers who make oil and
+  tread winepresses *"within the walls of these men"*, unpaid and thirsty.
 
 ## Related themes
 

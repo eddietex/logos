@@ -271,6 +271,12 @@ will finally go both ways.
   thick darkness?'"* — the practical atheist's creed of Psalm 10:11, 73:11 and 94:7, attributed to
   the Job who called God *"you watcher of men"* (7:20) and asked *"Don't you watch over my sin?"*
   (14:16). The *ʿărāpel* is Sinai's cloud (Exodus 20:21), where God is present, not absent.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:8–10; 24:13–17, 23; **the hidden God who
+  sees.** Job looks in every direction and *"can't catch a glimpse of him"* (23:9) — *"But he knows
+  the way that I take"* (23:10). In chapter 24 the adulterer says *"No eye shall see me"* (24:15),
+  and Job answers *"His eyes are on their ways"* (24:23): against Eliphaz's misquotation (22:13), Job
+  insists God does see — and does nothing. Psalm 139's inescapable God, turned inside out. See
+  [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]].
 
 ## Related themes
 

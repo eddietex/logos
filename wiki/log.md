@@ -9792,3 +9792,83 @@ books (18 / 32), people (5 rows), places (+1 row, 1 row extended), themes (17 ro
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 23.1-24.25 — Oh That I Knew Where I Might Find Him
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 23:1–24:25.
+**Boundary and title unchanged** — Job's replies take a phrase from the speech, per the book page's
+convention; chapters 23 and 24 kept together as one speech (one opening formula, one closing dare,
+24:1 the hinge). No collision with any other book. **Job is at 19 / 32.** No discussion step; it is
+written into the passage page.
+
+### The passage page
+
+Built around these findings:
+
+**1. The hearing without an umpire (23:2–7)**: *mî yittēn*, the wish-form of 6:8, 14:13, 19:23;
+*təkûnâ*, God's *seat*; 23:6 reverses 9:17–19, 33 — the obstacle has moved from God's power to God's
+absence, and no mediator is invoked. *Mišōpṭî*: acquitted by the judge from the judge.
+
+**2. The four directions (23:8–9)**: *qedem*/*ʾāḥôr*/*śəmōʾl*/*yāmîn*, the body's orientation; Psalm
+139:7–10 inverted; Amos 9:2–4 as the threatening version. Both Psalm 139:23 and Job 23:10 use
+*bāḥan* of God's knowledge of the speaker.
+
+**3. Gold (23:10–12)**: the one place Job names his ordeal a test, and he is right without being
+told; *bāḥan* as confidence against its complaint at 7:18. Answers Eliphaz's gold in the wadi
+(22:24–25), and 22:22's *"lay up his words"* with *ṣāpantî … ʾimrê-pîw* (23:12; Psalm 119:11).
+
+**4. Terror (23:13–17)**: *bəʾeḥād*; the *ḥōq* appointed; *bāhal*/*paḥad* rather than *yirʾâ*.
+
+**5–7. Chapter 24**: *ʿittîm*, the court with no sitting days; the oppressors set out as a table
+against the laws they break and against Eliphaz's 22:6–9 — **every count of the charge sheet given a
+real, unpunished defendant**; the ox unmuzzled and the harvester hungry (Deuteronomy 25:4); *tiplâ*
+(24:12) against 1:22; the rebels against the light, *ṣalmāwet* (3:5), John 3:19–20; and *"His eyes
+are on their ways"* (24:23) against Eliphaz's misquotation at 22:13 — Job's God sees and does not act.
+
+**8. The dare (24:25)**, which Bildad's six verses do not take up.
+
+**Judgment calls.** **The crux of 24:18–24**: four readings recorded (unmarked citation of the
+friends; Job's imprecation; displaced fragment of Zophar's missing third speech; Job's own view with
+24:22–24 as qualification). **The wiki reads 24:18–21 as citation or imprecation and 24:22–24 as Job's
+answer**, marked as a judgment. **23:2** follows the WEB (*rebellious*, *his hand*), with *mar* and
+*yādî* recorded. **23:12** *mēḥuqqî* and the Septuagint's *in my bosom*; **23:13** *bəʾeḥād* and the
+emendation *bāḥar*; **23:17** both readings recorded, neither chosen. The *hiddenness of God* is kept
+under [[Seeing and Being Seen]] rather than given a theme page; the passage page notes that this
+passage should anchor one if the Psalms and Prophets later warrant it. **No new person or place
+pages**; no contradiction between wiki pages found.
+
+### Connection pages (2 new)
+
+- [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] — the inescapable God and the
+  unfindable one, the shared *bāḥan*, Amos 9 and Jeremiah 23, Isaiah 45:15. Psalm 139, Amos,
+  Jeremiah and Isaiah marked *not yet ingested*.
+- [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] — the assay from Job to 1 Peter
+  and James; refining as purification (Zechariah, Malachi, Isaiah 48) against refining as proof (Job,
+  Proverbs 17, 1 Peter). Job 28 and all non-Job texts marked *not yet ingested*.
+
+### Pages created or revised
+
+Created (2 besides the passage page): the two connections. People (5): [[Job (person)]], [[God]],
+[[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]] (timeline and appears-in
+each; a Job-section bullet on [[God]]). Places (1): [[Sheol]]. Themes (21): [[Suffering]],
+[[Retribution]], [[Testing]], [[Integrity]], [[Walking with God]], [[Righteousness]], [[Judgment]],
+[[Mediation and Advocacy]], [[Providence]], [[The Fear of God]], [[Seeing and Being Seen]],
+[[Light and Darkness]], [[Compassion and Mercy]], [[Nakedness and Covering]], [[Work]],
+[[Land and Sojourning]], [[Slavery and Servitude]], [[Sexual Sin]], [[Life and Death]],
+[[Mourning and Lament]], [[Language and Speech]]. Connections revised (6):
+[[The Prosperity of the Wicked]] (24:1–25 linked, paragraph on the victims and the crux),
+[[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] (24:3, 9–10
+linked, 24:8, 11 added), [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] (23:6–7
+paragraph), [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] (24:5 linked),
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] (24:24 added),
+[[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] (pointer to the new
+Psalm 139 page). Passages revised (3): [[Eliphaz's Third Speech]] (plain Job 23/24 cross-references
+linked), [[Why Do the Wicked Live]] (cross-reference added),
+[[The Wager in Heaven and the Four Messengers]] (24:12 *tiplâ* linked). Book page: box checked,
+structure note for 22–27 extended. Indexes: books (19 / 32), people (5 rows), places (1 row), themes
+(21 rows), connections (+2 rows, 5 rows extended), `wiki/index.md` (78 passages, 244 connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

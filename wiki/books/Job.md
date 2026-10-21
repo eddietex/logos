@@ -78,6 +78,10 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   clause by clause, and supported by nothing — and closes it with the dialogue's warmest offer, whose
   last line, *"He will even deliver him who is not innocent … through the cleanness of your hands"*
   (22:30), the epilogue fulfils with Eliphaz as the guilty man and Job as the intercessor.
+  Job's reply (23–24) answers neither the charges nor the offer: it seeks a God who cannot be found
+  in any direction — *"When he has tried me, I shall come out like gold"* (23:10) — and then gives
+  every one of Eliphaz's invented crimes a real, unpunished defendant, ending in a dare (24:25) that
+  neither of the remaining friends takes up.
 - **28 Interlude** — the hymn to wisdom: *"Where shall wisdom be found?"*
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
@@ -127,7 +131,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### Third cycle (22–27)
 
 - [x] [[Eliphaz's Third Speech]] — Job 22:1–30
-- [ ] Oh That I Knew Where I Might Find Him — Job 23:1–24:25
+- [x] [[Oh That I Knew Where I Might Find Him]] — Job 23:1–24:25
 - [ ] Bildad's Third Speech — Job 25:1–6
 - [ ] Job's Final Reply to the Friends — Job 26:1–27:23
 

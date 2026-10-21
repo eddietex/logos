@@ -24,7 +24,10 @@ tags: [connection]
 - **Job 22:17–18** — Eliphaz's one-clause concession: the wicked said *"Depart from us"*, *"Yet he
   filled their houses with good things"* — and then Job's own disclaimer, *"the counsel of the wicked
   is far from me"*, turned against him — [[Eliphaz's Third Speech]]
-- **Job 24:1–25** — Job again, on crimes that go unpunished in broad daylight *(not yet ingested)*
+- **Job 24:1–25** — Job again: *"Why aren't times laid up by the Almighty?"* — the landmark-movers,
+  the widow's pledged ox, the starving harvesters, and the murderer, adulterer and burglar of the
+  night, all unpunished; *"God gives them security, and they rest in it"* (24:23) —
+  [[Oh That I Knew Where I Might Find Him]]
 - **Job 27:13–23** — the same doctrine as the friends', in Job's mouth, in the disturbed third cycle
   *(not yet ingested)*
 - **Psalm 37:1–2, 9–11, 35–36** — *"Don't fret because of evildoers … for they shall soon be cut
@@ -106,6 +109,16 @@ God *"filled … with good things"* (22:18). Then he moves on, to the Flood gene
 beside the concession that contradicts it. Job's answer in chapter 24 is to describe the wicked at
 work in the open, taking pledges from widows and clothes from the poor, and to say *"God doesn't
 regard the folly"* (24:12).
+
+**Chapter 24 adds the one thing chapter 21 left out: the victims.** Job's first answer counted the
+wicked's blessings; his second counts the cost of them to other people — the orphan's donkey, the
+widow's ox, the child taken from the breast for a debt, harvesters who carry sheaves hungry and tread
+winepresses thirsty (24:3–11). And it puts God closer to the prosperity than any other text in the
+thread: *"God preserves the mighty by his power … God gives them security, and they rest in it. His
+eyes are on their ways"* (24:22–23). The section that follows, 24:18–20, sounds like the friends'
+portrait of the wicked man's ruin; the wiki reads it as either a citation of their view or Job's
+imprecation, answered by 24:24 — the wicked are cut off *"as all others"*, at the same harvest as
+everyone. See [[Oh That I Knew Where I Might Find Him]] for the crux.
 
 ## Significance
 

@@ -117,6 +117,12 @@ to go.
   follows at 21:32–33, and the two men of 21:23–26 *"lie down alike in the dust"*: Sheol, in this
   speech, is the one place where the friends' distinction between the wicked and the righteous
   disappears.
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:19, *"Drought and heat consume the snow waters,
+  so does Sheol those who have sinned."* **Sheol as the swallower of the wicked**, as fast as summer
+  heat drinks meltwater — the friends' Sheol rather than Job's, in the speech's most disputed
+  section, and read on the passage page as either a citation of their view or Job's imprecation.
+  The next verses bring the worm (24:20) and then, at 24:24, the wicked cut off *"as all others"*:
+  Sheol takes them, but it takes everyone.
 - [[Joseph Sold into Slavery]] — Genesis 37:35; **the word's first occurrence in the Bible.** *"For I will
   go down to Sheol to my son mourning"* — ***ʾērēd … šəʾōlâ*** — spoken by [[Jacob]] over a coat, about a
   son who is alive, in a chapter in which God is never named. **Everything this page says about Sheol is

@@ -211,6 +211,12 @@ requires only that you be standing outside it.
   strength"* and one *"in bitterness of soul"* (21:23, 25) — his own phrase for himself (3:20; 7:11;
   10:1). *"When I remember, I am troubled. Horror takes hold of my flesh"* (21:6): the argument
   frightens the man making it.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:2, 15–17; 24:4–12; **the first suffering in the book
+  that is not Job's.** Chapter 23 is Job's own — a heavy hand, a fainting heart, terror at God's
+  presence — and then chapter 24 turns away from him to the poor driven off their land, the cold and
+  wet who *"embrace the rock for lack of a shelter"*, the harvesters who carry sheaves hungry, and the
+  wounded of the city who cry out (24:12). Job is the first speaker in the dialogue to describe anyone
+  else's pain at length, and he is the one the friends accused of causing it.
 
 ## Related themes
 

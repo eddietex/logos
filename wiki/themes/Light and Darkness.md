@@ -130,6 +130,11 @@ raw text.)*
 - [[Eliphaz's Third Speech]] — Job 22:11, 13–14, 28; darkness *"so that you can not see"* as the
   sinner's punishment, the *ʿărāpel* God is wrongly said to hide behind, and *"Light shall shine on
   your ways"* as the penitent's reward.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:17; 24:13–17; **the rebels against the light.**
+  The murderer, the adulterer and the burglar *"don't know the light"*; *"the morning is to all of
+  them like thick darkness (ṣalmāwet)"* (24:17) — the first day of creation inverted, and John
+  3:19–20's *"everyone who does evil hates the light"* in advance. Job himself, at 23:17, is in the
+  *ḥōšek* and *ʾōpel* — cut off by it, or not silenced by it, depending on the reading.
 
 ## Related themes
 

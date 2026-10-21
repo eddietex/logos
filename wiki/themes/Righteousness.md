@@ -214,6 +214,10 @@ about.
   description of the *ṣaddîq* (Ezekiel 18:7; Isaiah 58:7; Matthew 25:35–36) with every clause
   negated; Job's own account of his righteousness in 29:12–17 is the same list affirmed. See
   [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]].
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:7; *"There the upright might reason with him, so I
+  should be delivered forever from my judge."* Righteousness as a case that would win if it could be
+  heard — and, for the first time, without the umpire Job thought he needed in chapter 9. In chapter
+  24 the righteous are *"those who know him"* who never *"see his days"* (24:1).
 
 ## Related themes
 

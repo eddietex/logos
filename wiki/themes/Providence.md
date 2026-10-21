@@ -207,6 +207,11 @@ human one innocent.** *"You meant evil"* stands. See
   good"*, ***ḥāšab*** **in both clauses — one act, two intentions, neither cancelled** —
   [[The Deaths of Jacob and Joseph]] and
   [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]]
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:13–14; *"What his soul desires, even that he does. For he
+  performs that which is appointed for me. Many such things are with him."* **Providence as the
+  ground of both hope and terror.** The *ḥōq* appointed for Job is carried out by a God who *"stands
+  alone"*; three verses earlier the same sovereignty made Job sure he would come out like gold, and
+  in the next verse it makes him *"terrified at his presence"* (23:15).
 
 ## Related themes
 

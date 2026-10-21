@@ -96,6 +96,11 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   details supplied that the book gives no evidence for; a misquotation of Job (22:13–14) and an exact
   quotation (21:14–16 at 22:17–18); and the most generous offer in the dialogue, ending on *"He will
   even deliver him who is not innocent … through the cleanness of your hands"* (22:30).
+- **Job 23–24** — answered without being named, in [[Oh That I Knew Where I Might Find Him]]: his
+  *"lay up his words in your heart"* (22:22) met by *"I have treasured up the words of his mouth"*
+  (23:12), his gold in the wadi by *"I shall come out like gold"* (23:10), his invented charges by
+  real oppressors (24:2–11), and his *"What does God know?"* by *"His eyes are on their ways"*
+  (24:23).
 - **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job.
 
 ## Appears in
@@ -166,6 +171,10 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   *for nothing* (22:6), is the accuser's word of 1:9. Then 22:21–30, read as sincere: *tôrâ*, *return*,
   the lifted face, prayer heard — every promise kept in chapter 42, the condition never met, and the
   last line describing his own rescue.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23–24, silent; every part of his last speech
+  answered without his name being used — the words treasured (23:12 against 22:22), the gold (23:10
+  against 22:24–25), the charge sheet given real defendants (24:2–11), and a God who sees in the dark
+  (24:23 against 22:13).
 - [[Why Do the Wicked Live]] — Job 21, answering the second cycle's three portraits, his first among
   them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
   and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See

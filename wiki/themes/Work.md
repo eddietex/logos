@@ -155,6 +155,10 @@ the seventh day a blessing. See [[Sabbath]].
   who looks for his wages…"*** — human life as *ṣābāʾ*, conscript service, and the sufferer as a day
   labourer whose evening never comes. Job uses *ṣābāʾ* of his own life again at 14:14, *"all the
   days of my warfare"*
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:5–6, 10–11; **labour without its fruit.** The dispossessed
+  forage like wild donkeys and glean the vineyard of the wicked; then *"Being hungry, they carry the
+  sheaves. They make oil within the walls of these men. They tread wine presses, and suffer thirst."*
+  Deuteronomy 25:4 forbids muzzling the ox that treads the grain; these workers get less than the ox.
 
 ## Related themes
 

@@ -1,0 +1,84 @@
+---
+type: connection
+subtype: thread
+tags: [connection]
+---
+# I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire
+
+## Passages involved
+
+- **Job 23:10** — *"But he knows the way that I take. When he has tried me, I shall come out like
+  gold."* — [[Oh That I Knew Where I Might Find Him]]
+- **Job 7:18** — *"that you should visit him every morning, and test him every moment?"* — the same
+  verb, *bāḥan*, as complaint — [[The Arrows of the Almighty]]
+- **Job 1:12; 2:6** — the test the reader is shown and Job is not —
+  [[The Wager in Heaven and the Four Messengers]], [[The Second Test]]
+- **Job 22:24–25** — Eliphaz: *"Lay your treasure in the dust, the gold of Ophir among the stones of
+  the brooks. The Almighty will be your treasure"* — [[Eliphaz's Third Speech]]
+- **Job 28:1, 15–19** *(not yet ingested)* — *"Surely there is a mine for silver, and a place for gold
+  which they refine"*; wisdom that gold cannot buy
+- **Psalm 66:10** *(not yet ingested)* — *"For you, God, have tested us. You have refined us, as
+  silver is refined."*
+- **Proverbs 17:3** *(not yet ingested)* — *"The refining pot is for silver, and the furnace for
+  gold, but Yahweh tests the hearts."*
+- **Zechariah 13:9** *(not yet ingested)* — *"I will bring the third part into the fire, and will
+  refine them as silver is refined, and will test them like gold is tested. They will call on my
+  name, and I will hear them."*
+- **Malachi 3:2–3** *(not yet ingested)* — *"he is like a refiner's fire … he will sit as a refiner
+  and purifier of silver … and refine them as gold and silver"*
+- **Isaiah 48:10** *(not yet ingested)* — *"Behold, I have refined you, but not as silver; I have
+  chosen you in the furnace of affliction."*
+- **1 Peter 1:6–7** *(not yet ingested)* — *"you have been grieved in various trials, that the proof
+  of your faith, which is more precious than gold that perishes even though it is tested by fire, may
+  be found to result in praise, glory, and honor at the revelation of Jesus Christ"*
+- **James 1:2–4, 12** *(not yet ingested)* — trials that produce endurance, and *"Blessed is a person
+  who endures temptation, for when he has been approved, he will receive the crown of life"*;
+  James 5:11 names *"the endurance of Job"*
+
+## Analysis
+
+**The assay is the Bible's standard image for testing, and Job is its first speaker.** *Bāḥan* is
+the metallurgist's verb — to try ore in the fire and see what is left. Psalm 66, Proverbs 17,
+Zechariah 13 and Malachi 3 all use it of God's dealings with his people, and in every case the
+refining is purposive: dross removed, true metal left. Job 23:10 is the only text in the set spoken
+by the man in the crucible, about himself, in the middle of the fire, with no word from God that a
+test is under way.
+
+**Job is right, and does not know why he is right.** The prologue is the record of a test — the
+accuser's question (*"Does Job fear God for nothing?"*, 1:9) put to the proof. The reader knows that
+the whole of Job's suffering is an assay. Job has not been told. In chapter 7 he used *bāḥan* as a
+grievance: God tests him *"every moment"*, as a jailer checks a prisoner. In chapter 23 he uses the
+same verb as a confidence: the test has an end, and he will come through it as gold. **He arrives at
+the prologue's category by himself, and uses it not to explain his suffering but to predict its
+outcome.** The epilogue keeps the prediction — *"my servant Job"* four times in 42:7–8.
+
+**The image differs in one respect from the prophets'.** In Zechariah and Malachi the fire refines:
+the metal goes in impure and comes out pure, and the impurity is the people's sin. Job does not say
+the fire will purify him. He says he will *come out* as gold — that the test will reveal what he
+already is. That is the claim he has been making since chapter 6, and it is exactly the difference
+between Job's view of his ordeal and the friends' — Eliphaz's discipline (5:17) assumes dross. The
+prologue sides with Job: the test of 1:12 was set to find out whether Job's integrity was real, not to
+remove a fault in it.
+
+**And it answers Eliphaz.** One chapter earlier Eliphaz told Job to throw his gold into the wadi
+(22:24–25), assuming wealth was Job's god. Job's reply makes himself the gold, and God the assayer.
+The hymn of chapter 28 will finish the thought: there is a place where gold is refined, but no
+place where wisdom is mined, and gold cannot buy it.
+
+**1 Peter turns the image into a pastoral programme.** *"The proof (dokimion) of your faith, which
+is more precious than gold that perishes even though it is tested by fire"* (1 Peter 1:7) is Job 23:10
+generalised: suffering as the assay of faith, and its result *"praise, glory, and honor"* at the end.
+James, in the same tradition, makes Job the named example (*"You have heard of the endurance of Job,
+and have seen the Lord in the outcome"*, James 5:11).
+
+## Significance
+
+- Job 23:10 is the one place in the dialogue where Job's reading of his situation coincides with the
+  narrator's, and the coincidence is not explained — he is never told about the wager. See
+  [[Testing]].
+- The refining image carries two theologies — purification (Zechariah, Malachi, Isaiah 48) and
+  proof (Job 23, Proverbs 17, 1 Peter 1) — and Job's is the second. A reader of Job who brings the
+  first to it ends up on the friends' side.
+- The line is among the book's most quoted in Christian devotion, usually lifted out of a chapter
+  that goes on, five verses later, to *"I am terrified at his presence"* (23:15). The confidence and
+  the terror belong together; the assayer is also the fire.

@@ -120,6 +120,9 @@ than his iniquity deserves. The reader knows which of the two is right.
 - **Job 22:1–30** — silent through [[Eliphaz's Third Speech]], which takes his third-person charge,
   *"he has oppressed and forsaken the poor"* (20:19), and makes it second-person and specific
   (22:6–9), and repeats his *"lift up your face"* (11:15) at 22:26. He does not speak again.
+- **Job 23–24** — silent through [[Oh That I Knew Where I Might Find Him]]. On one textual hypothesis
+  24:18–24, which sounds like the friends rather than Job, is a fragment of his missing third
+  speech; the wiki records the hypothesis and reads the verses as Job's.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
   be prayed for by Job.
 
@@ -160,6 +163,8 @@ than his iniquity deserves. The reader knows which of the two is right.
   funeral.
 - [[Eliphaz's Third Speech]] — Job 22, silent; his charge of 20:19 named and fabricated, and his
   promise of 11:15–19 repeated in its fullest form.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23–24, silent; proposed by some reconstructions as
+  the original speaker of 24:18–24, a reading the wiki records but does not adopt.
 
 ## Related people
 

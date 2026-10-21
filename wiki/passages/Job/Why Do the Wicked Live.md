@@ -318,6 +318,8 @@ a valley floor where a burial could actually be dug. No named place.
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:21, the harp and pipe.
 - [[Eliphaz's Third Speech]] — Job 22:2–3, 6–9, 17–18, the reply: a new subject, invented crimes,
   and 21:14 and 21:16 quoted back.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23–24, the second speech in a row that never
+  addresses God; 24:1–17 extends this chapter's case to the victims, and 24:24 repeats 21:23–26.
 - Job 27:13–23 — the friends' portrait of the wicked man, in Job's mouth, in the disturbed third
   cycle: the speech that most directly contradicts this one.
 - Job 30:31 — *"my harp is turned to mourning"*.

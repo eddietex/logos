@@ -233,6 +233,13 @@ verdicts.
   on its usual condition (22:21–30), and every reward is delivered in chapter 42 without the
   condition. See
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:1–24; **the doctrine tested on everyone but Job,
+  and then apparently restated.** *"Why aren't times laid up by the Almighty?"* (24:1): the
+  oppressors of 24:2–11 and the night's criminals of 24:13–17 go unpunished, and *"God doesn't
+  regard the folly"* (24:12). Then 24:18–20 describes the wicked swept away and swallowed by Sheol,
+  in the friends' own idiom. The wiki reads those verses as a citation of the friends or as Job's
+  imprecation, answered by 24:22–24 — God gives the mighty security, and they die *"as all others"*.
+  Other readings, including a displaced fragment of Zophar, are recorded on the passage page.
 
 ## Related themes
 

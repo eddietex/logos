@@ -208,6 +208,12 @@ what Job is asking for.
   intercession, made by the friend who denied at 5:1 that Job had anyone to turn to, and fulfilled
   at 42:8 with Eliphaz as the guilty man delivered by Job's hands. See
   [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:3–7; **the hearing imagined without a
+  mediator.** In chapter 9 a trial with God was hopeless because God would overpower him, and Job
+  wished for an umpire (9:33); in chapters 16 and 19 he reached for a witness and a redeemer. Here he
+  wants only to find God's *seat*: *"Would he contend with me in the greatness of his power? No, but
+  he would listen to me"* (23:6). The obstacle has moved from God's power to God's absence, and no
+  third party is invoked. See [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]].
 
 ## Related themes
 

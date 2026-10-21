@@ -228,6 +228,10 @@ noticing into doctrine.
   speech.** Job is made to say *"What does God know?"*, which he never said, and then quoted to the
   letter — *"The counsel of the wicked is far from me"* (21:16 at 22:18) — so that his own
   disclaimer becomes Eliphaz's.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:4–5, 12; 24:25; *"I would set my cause in
+  order before him, and fill my mouth with arguments"* — speech as a brief that cannot be filed; the
+  words of God's mouth treasured *"more than my necessary food"*; and the dare, *"who will prove me a
+  liar, and make my speech worth nothing?"*, which none of the friends takes up.
 
 ## Related themes
 

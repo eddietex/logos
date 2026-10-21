@@ -116,7 +116,7 @@ gets there by using one verb in both directions inside seventeen verses.
 wrongdoing"* (1:22). Not that Job said nothing about God — he named God as the one who took — but
 that he charged him with nothing improper. The Hebrew noun is ***tiplâ***, a rare word for
 unseemliness or tastelessness, which Job will himself use at 24:12 of what God does not appear to
-notice. At 2:10 the same certification comes back one degree narrower — *"Job didn't sin with his
+notice (see [[Oh That I Knew Where I Might Find Him]]). At 2:10 the same certification comes back one degree narrower — *"Job didn't sin with his
 lips"* — and readers have argued for two millennia over whether the narrowing is stylistic or is
 quietly making room for chapter 3.
 

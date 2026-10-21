@@ -119,6 +119,10 @@ nakedness may not be revealed"* (Revelation 3:18).
   cloak of Exodus 22:26–27, taken from a man with nothing else to sleep in. Job will answer that the
   naked were *"warmed with my sheep's fleece"* (31:20) and that he himself *"put on righteousness,
   and it clothed me"* (29:14)
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:7–10; *"They lie all night naked without
+  clothing, and have no covering in the cold … So that they go around naked without clothing."* The
+  pledged cloak of Exodus 22:26–27, not returned at nightfall, and the poor who *"embrace the rock for
+  lack of a shelter"* — the nakedness Eliphaz falsely laid at Job's door (22:6).
 
 ## Related themes
 

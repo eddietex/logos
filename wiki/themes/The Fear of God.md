@@ -209,6 +209,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   **the one question in the dialogue whose true answer is yes.** The test of the prologue exists
   because the accuser disputed Job's *yirʾâ* (1:9), and Eliphaz, who had called the same piety Job's
   *confidence* at 4:6, now treats it as the one possible cause he can rule out.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:15–16; *"Therefore I am terrified at his presence.
+  When I consider, I am afraid of him … The Almighty has terrified me."* **Fear as terror, not
+  reverence** — *bāhal* and *paḥad*, the *paḥad* of 3:25, not the *yirʾâ* the narrator credited Job
+  with at 1:1. The man who wants to find God's seat is afraid of who sits in it, and does not
+  withdraw the wish.
 
 ## Related themes
 

@@ -166,6 +166,10 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   — the *t-m-m* root in a question: does a man's blamelessness benefit God? Eliphaz assumes no. The
   council of 1:8 and 2:3, where God boasts that Job *"still maintains his integrity"*, is the book's
   answer.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:11–12; *"My foot has held fast to his steps. I have kept
+  his way, and not turned away. I haven't gone back from the commandment of his lips."* The integrity
+  of 2:3 described by its holder, as a record God knows (23:10), and the answer to Eliphaz's
+  *"return"* (22:23): a man who says he never left. Chapter 31 will swear it under curse.
 
 ## Related themes
 

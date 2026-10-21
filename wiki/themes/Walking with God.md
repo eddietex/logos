@@ -101,6 +101,10 @@ with God goes with not being destroyed.
   command at 17:1**, *"I am God Almighty. Walk before me, and be blameless"* — **the one other verse where
   the verb and *El Shaddai* stand together, and 48:3 supplies the name.** **The man declining the verb is
   the one who has just called God his shepherd and his redeemer in the same sentence**
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:11; *"My foot has held fast to his steps. I have
+  kept his way, and not turned away"* — the walk of Enoch and Noah told by the walker himself, in the
+  chapter where he cannot find the one he walks after: God's *steps* are kept, and God is not in any
+  direction (23:8–9). *"He knows the way that I take"* (23:10).
 ## Related themes
 
 - [[Righteousness]] — the word 6:9 pairs it with, and the one the rest of Scripture develops instead

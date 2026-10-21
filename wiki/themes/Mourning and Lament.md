@@ -123,6 +123,10 @@ regulating it.
   and pipe that Job will say at 30:31 have *"turned to mourning"*. And the wicked man's own death is
   properly mourned: carried to the grave, watched, followed by *"all men"*. Job's mourning was held
   over a living man (2:12–13); the wicked man's is held at the right time and by a crowd.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:2; 24:12; *"Even today my complaint (śîḥî) is
+  rebellious. His hand is heavy in spite of my groaning"* — and, in chapter 24, the lament given to
+  other people: *"From out of the populous city, men groan. The soul of the wounded cries out, yet God
+  doesn't regard the folly."*
 
 ## Related themes
 

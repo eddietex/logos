@@ -29,6 +29,9 @@ tags: [connection]
   him?"*; Elihu: *"I am also formed out of the clay."*
 - **Ecclesiastes 11:5; Ezekiel 37:6–8** — the forming of the body as mystery, and its re-forming, in
   sinews, flesh, and skin.
+- **Job 23:8–10** — the other half of Job's use of Psalm 139: the God who cannot be escaped, turned
+  into the God who cannot be found —
+  [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]]
 
 ## Analysis
 

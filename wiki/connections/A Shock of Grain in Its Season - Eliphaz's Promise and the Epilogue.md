@@ -30,6 +30,8 @@ tags: [connection]
 - **Job 22:21–30** — Eliphaz's last version of it: *"You shall make your prayer to him, and he will
   hear you … He will even deliver him who is not innocent. Yes, he shall be delivered through the
   cleanness of your hands"* (22:27, 30) — [[Eliphaz's Third Speech]]
+- **Job 24:24** — Job of the wicked: *"they are taken out of the way as all others, and are cut off as
+  the tops of the ears of grain"* — [[Oh That I Knew Where I Might Find Him]]
 
 ## Analysis
 
@@ -119,6 +121,14 @@ that Job will be one; 42:8 makes him Eliphaz's.** The promise was true at every 
 — *"If you return to the Almighty … if you put away unrighteousness far from your tents"* (22:23),
 meaning the crimes of 22:6–9 — is the only part of it that never happens, because there was nothing
 to put away.
+
+**Job takes the harvest image back, for the wicked.** In 24:24 the men who moved the landmarks and
+starved the harvesters are *"cut off as the tops of the ears of grain"* — after a lifetime of the
+security God gave them (24:23), and *"as all others"*. Eliphaz's shock of grain came in *"in its
+season"* as the reward of the righteous; Job's ears of grain are cut at the same harvest as
+everyone's. Death is not the verdict Eliphaz made it; it is the reaping that takes the righteous and
+the wicked alike — the point Job made in 21:23–26 — and the epilogue's *"old and full of days"*
+(42:17) is the only place the book gives Eliphaz's image to a man as a blessing.
 
 ## Significance
 

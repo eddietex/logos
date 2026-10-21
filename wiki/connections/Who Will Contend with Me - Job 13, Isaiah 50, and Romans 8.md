@@ -26,7 +26,8 @@ tags: [connection]
   he can't answer him one time in a thousand… If it is a matter of justice, 'Who,' says he, 'will
   summon me?' … There is no umpire between us."* — [[There Is No Umpire Between Us]]
 - **Job 23:3–7** — *"Oh that I knew where I might find him!… I would set my cause in order before
-  him… There the upright might reason with him, so I should be delivered forever from my judge."*
+  him… There the upright might reason with him, so I should be delivered forever from my judge."* —
+  [[Oh That I Knew Where I Might Find Him]]
 - **Job 40:2** — *"Shall he who argues contend with the Almighty?"*
 
 ## Analysis
@@ -57,6 +58,13 @@ intercession for us."* That is the third party Job asked for in 9:33 and 16:19�
 three texts: Job's *I know I am righteous* (self-vindication, against God), the Servant's *he who
 justifies me is near* (vindication by God), and Paul's *it is God who justifies… Christ who
 intercedes* (vindication by God, with an advocate).
+
+**By chapter 23 Job no longer asks for an umpire.** *"Would he contend (yārîb) with me in the
+greatness of his power? No, but he would listen to me. There the upright might reason with him"*
+(23:6–7). The same verb, *rîb*, and the opposite fear: in chapter 9 a trial was hopeless because God
+would overpower him, and in chapter 23 it would be won if only God could be found. The obstacle has
+moved from God's power to God's absence, and the mediator of 9:33 drops out of the picture — the
+nearest Job comes to the Servant's *"He who justifies me is near"*, said of a God who is nowhere.
 
 **Job's challenge is answered, and not the way he expected.** At 40:2 God turns the verb on Job:
 *"Shall he who argues (rōb) contend with the Almighty?"* Job had asked who would contend with him;

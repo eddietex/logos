@@ -318,6 +318,11 @@ where that starts, in a sentence about a family that got halfway.
 - **Genesis 50:13, 24 — the promise recited in full with nobody standing in it**: the land is entered
   once in the book's last chapter and only to dig a grave, and the family leaves it in the next verse
   — [[The Deaths of Jacob and Joseph]]
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:2–5; *"There are people who remove the
+  landmarks"* — the boundary stone that Deuteronomy 19:14 and 27:17 protect and Proverbs 22:28 and
+  23:10 forbid moving, especially against the fatherless. The land-grab comes first in Job's list,
+  and its result follows: the poor *"all hide themselves"* and go out into the desert like wild
+  donkeys.
 
 ## Related themes
 

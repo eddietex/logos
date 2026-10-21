@@ -290,6 +290,11 @@ rule are the conditions the rest of Scripture is set in.
   courtroom Job has demanded since chapter 9, offered back as a sentence already passed — and the
   wicked of *"the old way"*, *"snatched away before their time"*, most likely the Flood generation
   used as an exemplum.
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:1; ***"Why aren't times laid up by the Almighty? Why don't
+  those who know him see his days?"*** **The court with no sitting days.** The *ʿittîm* are appointed
+  times of judgment and *his days* the days of reckoning; Job's complaint widens from his own unheard
+  case (23:3–7) to a universe whose docket is never called, and 24:2–17 is the list of cases waiting.
+  At 23:7 Job expects to be *"delivered forever from my judge"* — acquitted by God from God.
 
 ## Related themes
 

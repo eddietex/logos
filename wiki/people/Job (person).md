@@ -151,6 +151,12 @@ speeches; each becomes a linked passage page as it is ingested.
   does God know?"*, 22:13) and exactly (*"The counsel of the wicked is far from me"*, 22:18); and
   promised that if he returns he will pray and be heard, and deliver *"him who is not innocent"*
   through the cleanness of his hands (22:30), which he does for Eliphaz at 42:8.
+- **Job 23:1–24:25** — [[Oh That I Knew Where I Might Find Him]]. Answers neither the charges nor
+  the offer. Wishes he could find God's *seat* and argue his case there, sure that God *"would listen
+  to me"* (23:6); searches east, west, north and south and finds nobody (23:8–9); says *"he knows the
+  way that I take. When he has tried me, I shall come out like gold"* (23:10); and is terrified
+  (23:15–16). Then describes the poor, the robbed and the night's criminals, all unpunished, and
+  dares the friends to prove him a liar (24:25).
 - **Job 22–31** — the third cycle collapsing, the hymn to wisdom, and Job's closing oath of
   innocence, in which he calls down curses on himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
@@ -275,6 +281,14 @@ speeches; each becomes a linked passage page as it is ingested.
   word of the charge sheet that rings is *ḥinnām*, *for nothing* (22:6) — the accuser's word about him
   (1:9), God's (2:3), and his own (9:17). The speech's last promise describes what he will do in the
   epilogue: deliver a guilty man by his prayer.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:1–24:25; **a soliloquy, addressed to nobody
+  until the dare of the last verse.** The hearing he wants has no umpire in it now — he thinks he
+  would win alone (23:6–7) — and the obstacle is not God's power but God's absence. **23:10 is the one
+  place he calls his ordeal a test, and he is right**, without having been told; he uses the insight
+  to predict, not to explain. His answer to the charge sheet is to find its crimes committed by
+  others in the open (24:2–11), and his answer to Eliphaz's *"What does God know?"* (22:13) is that
+  God sees them — *"His eyes are on their ways"* (24:23) — and does not put them down (24:12). See
+  [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
 
 ## Related people
 

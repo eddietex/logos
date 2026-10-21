@@ -141,6 +141,13 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[There Is No Umpire Between Us]] — Job 9:23, *"he will mock at the trial (massat) of the innocent"* — if *massâ* is from
   *nāsâ*, the verb of Genesis 22:1, Job's second guess (after 7:18) that he is being tested. It may
   instead be from *māsas*, *despair*; the wiki records both.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23:10; ***"When he has tried me, I shall come out like gold."*** **The one
+  place in the poem where Job names his ordeal as a test — and he is right.** *Bāḥanî* is the
+  assayer's verb, the one Job used bitterly at 7:18; here it is confidence. The reader has known
+  since 1:12 that the whole affair is a test; Job has never been told, reaches the category by
+  himself, and uses it to predict the outcome rather than to explain the suffering. Unlike the
+  prophets' refining (Zechariah 13:9; Malachi 3:3), the fire here does not purify — it reveals. See
+  [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
 
 ## Related themes
 

@@ -18,9 +18,10 @@ tags: [connection]
   stripped the naked of their clothing. You haven't given water to the weary to drink, and you have
   withheld bread from the hungry … You have sent widows away empty, and the arms of the fatherless
   have been broken."* — [[Eliphaz's Third Speech]]
-- **Job 24:3, 9–10** *(not yet ingested)* — Job, of real oppressors: *"they take the widow's ox for a
+- **Job 24:3, 9–10** — Job, of real oppressors: *"they take the widow's ox for a
   pledge … There are those who pluck the fatherless from the breast, and take a pledge of the poor,
-  so that they go around naked without clothing. Being hungry, they carry the sheaves."*
+  so that they go around naked without clothing. Being hungry, they carry the sheaves."* —
+  [[Oh That I Knew Where I Might Find Him]]
 - **Job 29:12–17** *(not yet ingested)* — *"I delivered the poor who cried, and the fatherless also
   … I caused the widow's heart to sing for joy … I was eyes to the blind, and feet to the lame. I was
   a father to the needy."*
@@ -64,7 +65,9 @@ confess.
    torn from the breast, the poor who *"go around naked without clothing"* and carry sheaves while
    hungry — every count of 22:6–9 is there, committed by people who move landmarks and are never
    caught, and *"God doesn't regard the folly"* (24:12). Eliphaz had used the list to explain why God
-   was punishing Job; Job uses it to ask why God punishes no one.
+   was punishing Job; Job uses it to ask why God punishes no one. He adds what the charge sheet
+   left out — the thirst of the men who tread the winepress (24:11), the cold of the naked who
+   *"embrace the rock for lack of a shelter"* (24:8) — and he never says the list was aimed at him.
 2. **In chapter 29 he gives his own record**, positively: the poor delivered, the widow singing, a
    father to the needy, the jaws of the unrighteous broken. *"I put on righteousness, and it clothed
    me"* (29:14) — the man accused of stripping the naked describes himself as clothed in justice.

@@ -126,6 +126,12 @@ name, and gives the name to a father who cannot see it work.**
   neglected. Job answers by giving the list a real defendant (24:2–12), by recalling his own record
   (29:12–17), and by an oath (31:16–22). See
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]]
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:3–12; **the classes of mercy described from
+  their own side.** The fatherless whose donkey is driven off, the widow whose ox is pledged, the
+  needy pushed off the road, the child taken from the breast for a debt, the naked in the mountain
+  rain, the harvesters without bread and the winepress-treaders without drink — the exact list
+  Eliphaz charged Job with neglecting (22:6–9), given real oppressors. See
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 
 ## Related themes
 

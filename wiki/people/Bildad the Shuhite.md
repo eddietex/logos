@@ -108,6 +108,9 @@ book, and Bildad's name survives inside them.
   (21:8), and his tent of the wicked (8:22; 18:21) quoted back as the friends' taunt (21:28).
 - **Job 22:1–30** — silent through [[Eliphaz's Third Speech]], which takes over his snares (18:8–10)
   at 22:10 and turns the friends' generic portrait into named charges.
+- **Job 23–24** — silent through [[Oh That I Knew Where I Might Find Him]], whose last verse is a dare
+  to the friends: *"who will prove me a liar?"* (24:25). His six verses are the only answer, and they
+  do not take it up.
 - **Job 25:1–6** — the third speech, six verses: *"How then can man be just with God? Or how can he
   who is born of a woman be clean? … how much less man, who is a worm, the son of man, who is a
   worm!"* The last thing any of the friends says.
@@ -153,6 +156,8 @@ book, and Bildad's name survives inside them.
   (21:17, 19, 28–29). See [[The Lamp of the Wicked Put Out]].
 - [[Eliphaz's Third Speech]] — Job 22, silent; his snares and *"sudden fear"* (18:8–11) reused at
   22:10 as the consequence of crimes Eliphaz invents.
+- [[Oh That I Knew Where I Might Find Him]] — Job 23–24, silent; the dare of 24:25 is the speech his
+  25:1–6 replies to, without answering a single case in chapter 24.
 
 ## Related people
 

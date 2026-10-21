@@ -111,6 +111,10 @@ is the argument, and Genesis leaves it entirely to the reader.**
   nobody expects
 - [[Joseph in Potiphar's House]] — Genesis 39:7–20; **the refusal**, the naming of the category, and the
   flight that costs the man everything
+- [[Oh That I Knew Where I Might Find Him]] — Job 24:15; *"The eye also of the adulterer waits for the
+  twilight, saying, 'No eye shall see me.' He disguises his face."* Among the rebels against the
+  light, between the murderer and the burglar; Proverbs 7:9 sets the same scene *"in the twilight, in
+  the evening of the day"*. Job's answer comes at 24:23: *"His eyes are on their ways."*
 
 ## Related themes
 
