@@ -109,6 +109,12 @@ speeches; each becomes a linked passage page as it is ingested.
   children were *"delivered … into the hand of their disobedience"* (8:4), that if he seeks God
   early and is *"pure and upright"* his latter end will greatly increase (8:5–7), and that God will
   not cast away a blameless man (8:20) — his own words *tām* and *yāšār*, set as conditions.
+- **Job 9:1–10:22** — [[There Is No Umpire Between Us]]. Bildad conceded in a line, and then the case: *"how can man
+  be just with God?"* (9:2), the creation hymn turned to threat, *"he multiplies my wounds without
+  cause (ḥinnām)"* (9:17) — the prologue's word, which he never heard — *"I am blameless"* (9:21),
+  *"there is no umpire between us"* (9:33), and to God, *"Show me why you contend with me"* (10:2),
+  *"you know that I am not wicked"* (10:7), the hands that made him (10:8–12), and *"why, then, have
+  you brought me out of the womb?"* (10:18).
 - **Job 4–14** — the first cycle. Eliphaz's night vision, Bildad's appeal to the fathers, Zophar's
   demand that he repent; Job's replies grow from grief toward litigation, reaching *"there is no
   umpire between us"* at 9:33.
@@ -193,6 +199,13 @@ speeches; each becomes a linked passage page as it is ingested.
   chapter 9 completes the syllogism with both words: *"I am blameless… I despise my life… he destroys
   the blameless and the wicked"* (9:21–22). And Bildad's *"your latter end would greatly increase"*
   (8:7) is what 42:12 says happened to him, nearly word for word.
+- [[There Is No Umpire Between Us]] — Job 9:1–10:22, his third speech and **the first in which he does not address the
+  friends at all** after the opening line. He becomes a litigant: he calls himself *tām* for the first
+  time (9:21), names the umpire he lacks (9:33), and asks God for the charge (10:2). Twice he says
+  without knowing it what the reader knows to be true — that he is wounded *ḥinnām*, without cause
+  (9:17; 2:3), and that God knows he is not wicked (10:7; 1:8). **And he asks the potter's forbidden
+  question** (9:12; 10:8–9) — *what are you doing with what you made?* — which the epilogue never
+  rebukes.
 - [[Eliphaz's Second Speech]] — silent, addressed throughout, and portrayed without being named in
   the catalogue of the wicked at 15:20–35.
 - [[Miserable Comforters and the Witness in Heaven]] — his own reply, and the speech in which the

@@ -13,7 +13,7 @@ tags: [connection]
 - **Genesis 1:2, 9–10, 21** — the deep, the gathered waters, and *"God created the large sea
   creatures (hattannînim)"* — [[The Creation of the World]]
 - **Job 9:8, 13; 26:12–13** — God who *"treads on the waves of the sea"*, the *"helpers of Rahab"*,
-  and the sea stirred up and Rahab struck
+  and the sea stirred up and Rahab struck — [[There Is No Umpire Between Us]] and Job 26
 - **Job 38:8–11** — *"Who shut up the sea with doors, when it broke out of the womb … and said,
   'Here you may come, but no further. Here your proud waves shall be stayed'?"*
 - **Job 40:15–41:34** — Behemoth and Leviathan

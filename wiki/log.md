@@ -9375,3 +9375,89 @@ checked. Indexes: books (13 / 32), connections (+1 row), `wiki/index.md` (72 pas
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 9.1-10.22 — There Is No Umpire Between Us
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 9:1–10:22. **Boundary
+and title unchanged** — *There Is No Umpire Between Us*, per the book page's convention that Job's
+replies take a phrase from the speech. No collision with any other book. **Job is at 14 / 32.** No
+discussion step; it is written into the passage page.
+
+### The passage page
+
+[[There Is No Umpire Between Us]], `wiki/passages/Job/`. Built around these findings:
+
+**1. The speech is where the dialogue becomes a lawsuit.** Courtroom vocabulary throughout (*rîb*,
+*ʿānâ*, *mišpāṭ*, *yāʿad*, *ṣādaq*/*rāšaʿ*, *mōkîaḥ*, *ʿēdîm*), and **no plural address anywhere**:
+Bildad is conceded in one line (9:2) and the friends are not spoken to again until chapter 12.
+
+**2. Job unknowingly uses the prologue's word.** *"He multiplies my wounds without cause (ḥinnām)"*
+(9:17) — the accuser's word (1:9) and God's (2:3). And *"you know that I am not wicked"* (10:7) is
+exactly true of what God said at 1:8 and 2:3.
+
+**3. Three of Eliphaz's phrases are taken up unnamed**: 4:17's *yiṣdaq* (moved from ethics to
+court, 9:2), 5:9's doxology (comfort become threat, 9:10), and 4:15's *ḥālap* (the spirit that passed
+Eliphaz, now a God who passes unseen, 9:11). Bildad's *tām* and *māʾas* (8:20) are returned at
+9:21–22, Job's first *tām-ʾānî*.
+
+**4. Exodus 34:7's other half.** 9:28 and 10:14's *lōʾ tənaqqēnî* is the *"will by no means clear the
+guilty"* clause, applied (Job says) to a man who is not guilty — paired with 7:21's forgiving half.
+
+**5. Chapter 10's formation passage** shares Psalm 139:13's verb (*sākak/śākak*, knit) and Psalm
+119:73's opening clause, and turns on 10:12–14: *pāqad* as care (against 7:18's surveillance), and
+*šāmar* used two verses apart for God *preserving* Job's spirit and *marking* his sin. 9:12's *mah-taʿăśeh*
+is Isaiah 45:9's forbidden question of clay to potter, which Job then asks.
+
+**6. The ending**: *lōʾ sədārîm* (hapax), *"without any order"*, and *"the light is as midnight"* —
+Sheol as the one place left uncreated; the speech's last word is *ʾōpel*.
+
+**Judgment calls.** 9:2's *"Truly I know that it is so"* read as sincere, not sarcastic (Notes). 9:17
+*biśʿārâ* read as *storm* (linked to 38:1's whirlwind) with the *for a hair / trifle* reading noted.
+9:33 kept as the Masoretic *there is no umpire*; the LXX/Syriac *would that there were* is flagged on
+the passage page, [[The Witness in Heaven]], and [[Mediation and Advocacy]] — **a nuance, not a
+contradiction**: both pages said "stated as an absence", which remains the primary reading. 9:23
+*massat* given both derivations (*test* / *despair*). 10:16's lion simile recorded both ways. *Ḥadrê
+tēmān* (9:9) noted as literally *the chambers of Teman/south* without building on it. **No new person
+or place pages**: Rahab (9:13) is the sea-monster, not the Jericho woman, and stays on
+[[Am I a Sea or a Sea Monster - The Guard on the Waters]]; *"the rooms of the south"* is sky, not
+land. [[Zophar the Naamathite]] named on the page (his 11:2, 5 answer this speech) but not revised —
+nothing he says yet.
+
+### Connection pages (3 new)
+
+- [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] — LXX Job 9:8
+  (*walking on the sea as on dry ground*) and 9:11's *ʿābar* with Exodus 33–34, 1 Kings 19:11, Psalm
+  77:19, and Mark 6:48's *"he would have passed by them"*; God's reply at 38:16.
+- [[The Bear, Orion, and the Pleiades]] — the Hebrew Bible's three constellation texts (Job 9:9,
+  38:31–33, Amos 5:8): identifications, and the same stars used for justice (Amos), for its
+  impossibility (Job 9), and as law-governed (Job 38).
+- [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] — womb-formation and
+  the potter's question: Psalm 139, Psalm 119:73, Isaiah 45:9, Jeremiah 18, Romans 9:20–21, Genesis
+  3:19, and Job 14:15, 31:15, 33:6.
+
+### Pages created or revised
+
+People (4): [[Job (person)]] (timeline and appears-in), [[God]] (new bullet in the Job section,
+appears-in), [[Bildad the Shuhite]] and [[Eliphaz the Temanite]] (appears-in). Places (1): [[Sheol]]
+(appears-in: 10:21–22). Themes (16): [[Mediation and Advocacy]] (also the LXX note on 9:33),
+[[Righteousness]], [[Judgment]], [[Integrity]], [[Retribution]], [[Creation]], [[Prayer]],
+[[Suffering]], [[Life and Death]], [[Light and Darkness]], [[Seeing and Being Seen]],
+[[Remembrance]], [[Guilt and Conscience]] (its first Job entry), [[Testing]], [[Wisdom]], [[Sin]].
+Connections revised (8): [[The Witness in Heaven]] (link and the LXX note),
+[[Am I a Sea or a Sea Monster - The Guard on the Waters]], [[What Is Man That He Should Be Clean]],
+[[Shall Not the Judge of All the Earth Do Right]],
+[[Cursing the Day of Birth - Job 3 and Jeremiah 20]],
+[[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] (9:28 and 10:14 as
+the *nāqâ* clause), [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] (10:12's
+*pəquddâ* as care), [[Let That Day Be Darkness - Job 3 as Counter-Creation]] (9:7 and 10:22).
+Passages revised (6): [[Bildad's First Speech]], [[Eliphaz's First Speech]], [[Let the Day Perish]],
+[[The Arrows of the Almighty]], [[I Know That My Redeemer Lives]],
+[[Miserable Comforters and the Witness in Heaven]] — plain *Job 9–10* references now linked. Book
+page: box checked, structure note for 4–14 extended. Indexes: books (14 / 32), themes (7 rows),
+people (2 rows), places (1 row), connections (+3 rows), `wiki/index.md` (73 passages, 230
+connections).
+
+### Link check
+
+`scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.

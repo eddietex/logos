@@ -148,6 +148,10 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   man."* Bildad offers as an *if* what the reader has been told three times is a fact, and Job
   completes the syllogism with Bildad's own words: *"I am blameless… I despise my life… he destroys
   the blameless and the wicked"* (9:21–22).
+- [[There Is No Umpire Between Us]] — Job 9:20–22; ***tām-ʾānî*, "I am blameless"** — the first time Job says the word of
+  himself, after the narrator (1:1), God (1:8; 2:3), and Bildad's conditional (8:20). He says it
+  in the same breath as *"I despise my life"* and *"he destroys the blameless (tām) and the
+  wicked."* Integrity held, and declared no protection.
 
 ## Related themes
 

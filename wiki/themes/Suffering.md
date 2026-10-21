@@ -197,6 +197,10 @@ requires only that you be standing outside it.
   must have sinned (8:4); the living sufferer is being given time (8:5–7). The speech divides the
   household into the condemned and the still-redeemable, and offers the survivor his life back on
   condition he accept his children's verdict.
+- [[There Is No Umpire Between Us]] — Job 9:17; **"he multiplies my wounds without cause (ḥinnām)"** — the accuser's word
+  (1:9) and God's own (2:3), reached by the sufferer without having heard either. The suffering
+  is now framed as a case that cannot be brought: the cause is undeserved and the court
+  unavailable.
 
 ## Related themes
 

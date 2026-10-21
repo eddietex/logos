@@ -86,6 +86,12 @@ to go.
   come up no more. He shall return no more to his house, neither shall his place know him any
   more."* What chapter 3 offered as rest is here simply an exit, and Job uses it as an argument to
   God — remember me now, because *"you will seek me diligently, but I shall not be"* (7:21).
+- [[There Is No Umpire Between Us]] — Job 10:21–22, not named, and **the fullest description of it
+  in the book**: *"the land of darkness and of the shadow of death; the land dark as midnight, of the
+  shadow of death, without any order, where the light is as midnight."* *Lōʾ sədārîm*, *without any
+  order*, occurs nowhere else — the land of the dead as the one place Genesis 1's ordering never
+  reached, where even the light is dark. Job asks to be let alone a little *before* he goes there
+  (10:20), because there is no return from it.
 - [[Miserable Comforters and the Witness in Heaven]] — Job 17:13, 16, closing the speech.
 - [[I Know That My Redeemer Lives]] — not named, but the passage that most tests what the wiki says
   here: 19:25's Redeemer standing *"upon the earth"* is literally *upon dust*, the same word that

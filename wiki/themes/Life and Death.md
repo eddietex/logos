@@ -336,6 +336,9 @@ the rest of the canon.
   last phrase is the tree of life's (*ləʿōlām*, Genesis 3:22). And 7:9–10 states Sheol as a one-way
   road — *"he who goes down to Sheol shall come up no more"* — the floor from which 14:14 and 19:25
   will rise. Job still never speaks of taking his own life; he asks God to take it
+- [[There Is No Umpire Between Us]] — Job 10:18–22; the death wish of chapter 3 put to God as a question, and the land of the
+  dead described as the one place left uncreated — *"without any order, where the light is as
+  midnight."*
 
 ## Related themes
 

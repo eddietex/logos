@@ -201,6 +201,10 @@ verdicts.
   proof by the first friend willing to name them. And its promise comes true verbatim — *"your latter
   end would greatly increase"* (8:7) against *"Yahweh blessed the latter end of Job more than his
   beginning"* (42:12) — for a reason the doctrine cannot supply.
+- [[There Is No Umpire Between Us]] — Job 9:22–24; **the doctrine denied in its own vocabulary.** *"He destroys the
+  blameless and the wicked"* answers Bildad's *"God will not cast away a blameless man"* (8:20),
+  and *"the earth is given into the hand of the wicked"* turns the friends' whole picture over.
+  *"If not he, then who is it?"* — the prologue's answer is two-sided and Job never hears it.
 
 ## Related themes
 

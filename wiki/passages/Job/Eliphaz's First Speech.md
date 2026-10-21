@@ -235,7 +235,8 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
   (6:2) begins on the *kaʿas*, *resentment*, that Eliphaz said kills the fool (5:2), and the speech
   goes on to answer his holy ones (6:10), his stones (6:12), his visions (7:14) and his *"do not
   despise"* (7:16).
-- Job 9:2 — *"how can man be just with God?"*, Job taking up 4:17.
+- [[There Is No Umpire Between Us]] — Job 9:2, *"how can man be just with God?"*, Job taking up 4:17; and 9:11's
+  *yaḥălōp*, the verb of 4:15's passing spirit, used of a God who passes unseen.
 - Job 9:10 — *"He does great things past finding out; yes, marvelous things without number"*, Job
   quoting 5:9 almost word for word, about a God he can neither see nor summon.
 - Job 33:15 — Elihu's *"In a dream, in a vision of the night, when deep sleep falls on men"*, the

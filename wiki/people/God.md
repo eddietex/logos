@@ -1133,6 +1133,17 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   the first time in the book, **the Holy One** (6:10), whose words Job says he has not denied. See
   [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] and
   [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]].
+- **The God of [[There Is No Umpire Between Us]]** is **a litigant no court can summon, and a craftsman suspected of a
+  plot.** Chapter 9's hymn makes him the subject of every verb of power — removing mountains, sealing
+  stars, treading the sea — and then has him pass by unseen (9:11) and answer to no one: *"Who will
+  ask him, 'What are you doing?'"* (9:12); *"'Who,' says he, 'will summon me?'"* (9:19). *"He is not
+  a man, as I am"* (9:32), so there is no umpire. Chapter 10 then gives the most intimate portrait of
+  him in the book — the hands that poured, curdled, clothed and knit Job in the womb, *"life and loving
+  kindness"*, a *visitation* that preserved his spirit (10:8–12) — and ends it with *"Yet you hid these
+  things in your heart"* (10:13). Job says two things about him that the reader knows are true: that
+  he wounds *ḥinnām* (9:17; God's own word at 2:3) and that he knows Job is not wicked (10:7). See
+  [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] and
+  [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]].
 - **The God of [[Eliphaz's Second Speech]]** is a moral accountant. He is inaccessible (his *sôd*,
   the secret council of 15:8, cannot be attended), he distrusts even his holy ones (15:15), and his
   dealings are legible: the wicked man writhes all his days, and so a man who writhes may be read
@@ -1494,6 +1505,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Arrows of the Almighty]] — addressed for the first time in the poetry (7:7–21): the archer of
   6:4, the guard on the sea of 7:12, the *watcher of men* of 7:20, and the Holy One of 6:10. Named
   *Šadday*, *ʾĕlôah*, and *qādôš*
+- [[There Is No Umpire Between Us]] — the hymned power of 9:5–13, the opponent-at-law who cannot be summoned (9:19, 32–33),
+  and in chapter 10 the maker addressed as *you* for twenty-one verses: framed, fashioned, knit,
+  granted *ḥesed*, and suspected of having *"hid these things in your heart"* (10:13). Named *ʾēl*
+  and *ʾĕlôah*
 - [[Eliphaz's Second Speech]] — not as a character but as a subject: the God the friends defend
 - [[Miserable Comforters and the Witness in Heaven]] — assailant, witness, and guarantor in the same
   speech

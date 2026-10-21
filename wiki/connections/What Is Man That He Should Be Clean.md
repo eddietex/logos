@@ -17,7 +17,8 @@ tags: [connection]
 - **Job 25:4–6** — Bildad, third speech, the friends' last words: *"How then can man be just with
   God? Or how can he who is born of a woman be clean? … how much less man, who is a worm, the son of
   man, who is a worm!"*
-- **Job 9:2; 14:4** — Job saying much the same thing himself
+- **Job 9:2; 14:4** — Job saying much the same thing himself — [[There Is No Umpire Between Us]], where he concedes
+  the point and asks the legal question underneath it instead
 - **Genesis 6:5** — *"every imagination of the thoughts of man's heart was continually only evil"* —
   [[The Sons of God and the Corruption of the Earth]]
 - **Psalm 8:4** — *"What is man, that you think of him?"* — the same question, opposite key

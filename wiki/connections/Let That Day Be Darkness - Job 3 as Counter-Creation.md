@@ -106,6 +106,12 @@ inventory of chapter 3, item by item, in the order Job attacked it. See
 by a tour of creation**, and the wiki reads that as the book's structural claim: the answer to Job
 is not an argument but the thing itself.
 
+**Job takes the unmaking further in his next speech to God.** At 9:7 it is God himself who
+*"commands the sun, and it doesn't rise, and seals up the stars"*; and at 10:21–22 the land of the
+dead is *"without any order (lōʾ sədārîm), where the light is as midnight"* — not a day returned to
+darkness but a country where Genesis 1's ordering never reached, and where light itself shines dark.
+See [[There Is No Umpire Between Us]].
+
 Compare [[In the Beginning - Genesis 1 and John 1]] for the canon's other major rewriting of
 Genesis 1:1–5, which goes in the opposite direction: John 1:5 has the light shining in the darkness
 and the darkness failing to overcome it, where Job asks for the darkness to win one night back.

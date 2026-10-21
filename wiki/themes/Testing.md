@@ -138,6 +138,9 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   happening to him**, and he is right — it is a test, as the reader was told in 1:6–12. What he gets
   wrong is its motive: he takes the tester's attention for hostility. See
   [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]]
+- [[There Is No Umpire Between Us]] — Job 9:23, *"he will mock at the trial (massat) of the innocent"* — if *massâ* is from
+  *nāsâ*, the verb of Genesis 22:1, Job's second guess (after 7:18) that he is being tested. It may
+  instead be from *māsas*, *despair*; the wiki records both.
 
 ## Related themes
 

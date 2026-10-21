@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - **Job 9:32–33** — *"For he is not a man, as I am, that I should answer him … There is no umpire
-  between us, that might lay his hand on us both."*
+  between us, that might lay his hand on us both."* — [[There Is No Umpire Between Us]]
 - **Job 16:19–21** — *"Even now, behold, my witness is in heaven. He who vouches for me is on high …
   that he would maintain the right of a man with God, of a son of man with his neighbor!"* —
   [[Miserable Comforters and the Witness in Heaven]]
@@ -90,6 +90,11 @@ Three qualifications keep the reading honest.
   on the side of a guilty party, in a configuration where God is not the adversary. That is a
   different problem, differently solved. Reading 16:19 as a straightforward prophecy of 1 John 2:1
   loses the thing Job is actually saying.
+- **9:33 may already be a wish.** The Masoretic text reads *lōʾ yēš*, *there is not*; the
+  Septuagint (*eith' ēn*) and the Syriac read *lû yēš*, *would that there were* — one letter's
+  difference. The wiki keeps *there is not* as primary, so the thread still begins with an absence;
+  on the versional reading it begins with a wish, and the step to 16:19 is shorter. See
+  [[There Is No Umpire Between Us]].
 - **The book does not endorse the figure.** No character confirms him, God does not mention him in
   the whirlwind speeches, and the resolution at 42:7–10 comes by an entirely different route.
 - **The Hebrew of 19:25–27 is badly damaged** — *"after my skin is destroyed, then in my flesh shall

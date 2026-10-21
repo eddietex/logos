@@ -20,7 +20,8 @@ the party his advocate would have to argue against is God. Four legal offices ar
 across the book, escalating:
 
 1. **An umpire** — *"There is no umpire between us, that might lay his hand on us both"* (9:33).
-   *Môkîaḥ*, an arbitrator with authority over both parties. Job states this as an absence.
+   *Môkîaḥ*, an arbitrator with authority over both parties. Job states this as an absence — or,
+   on the Septuagint's reading (*lû* for *lōʾ*), as a wish. See [[There Is No Umpire Between Us]].
 2. **A witness and a voucher** — *"my witness is in heaven. He who vouches for me is on high"*
    (16:19), asked to *"maintain the right of a man with God"* (16:21). Job states this as a fact.
 3. **A guarantor** — *"Now give a pledge, be collateral for me with yourself. Who is there who will
@@ -188,6 +189,13 @@ what Job is asking for.
   answer to this question. **And the book reverses it exactly at 42:8**: Eliphaz is sent to Job, *"my
   servant Job shall pray for you"*, and the man told he had no one to turn to becomes the one his
   counsellor must turn to. See [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
+- [[There Is No Umpire Between Us]] — Job 9:32–35; **the first of the four officers, and the only one named as missing.** *"For he
+  is not a man, as I am… There is no umpire (mōkîaḥ) between us, that might lay his hand on us
+  both."* The problem is stated exactly: a dispute between two men goes to a third, and there is
+  no third above God. The Septuagint and Syriac read *"would that there were an umpire"* — one
+  letter's difference — which makes the absence a wish; the wiki keeps the Masoretic *there is not*
+  as primary. Elihu answers the verse twice: as *"one among a thousand"* (33:23, picking up 9:3)
+  and by offering himself, *"formed out of the clay"*, as the man-sized party (33:6–7).
 
 ## Related themes
 

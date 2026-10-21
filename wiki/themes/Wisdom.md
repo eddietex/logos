@@ -141,6 +141,9 @@ close to the book's whole point about who may speak for the tradition. See
   one lifetime is too short to see the pattern, so ask the fathers, who saw more of it. Job shares the
   premise and draws the opposite conclusion (7:6–7), and the parenthesis is the speech's one
   accidentally true line — none of the men on the ash heap knows what was said in the council.
+- [[There Is No Umpire Between Us]] — Job 9:4, *"wise in heart, and mighty in strength: who has hardened himself against him,
+  and prospered?"* — God's wisdom cited not as a resource but as one more reason no man can win
+  against him.
 
 ## Related themes
 

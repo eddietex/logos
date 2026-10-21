@@ -201,7 +201,7 @@ the earth under him, and heaven above.
   him"*, against 16:2. **The two verbs of 2:11 are *nûd* and *nāḥam*, and 42:11 will use the same
   pair of the relatives who succeed where they failed**; the wiki holds all three occurrences at
   [[Comforters Who Do Not Comfort]].
-- Job 9:32–33 — *"There is no umpire between us, that might lay his hand on us both"*, the first
+- [[There Is No Umpire Between Us]] — Job 9:32–33, *"There is no umpire between us, that might lay his hand on us both"*, the first
   reach for the figure of 16:19.
 - Job 19:25–27 — *"I know that my Redeemer lives"*, the same appeal at its most confident.
 - Job 33:23–24 — Elihu's *"angel, an interpreter, one among a thousand"*, offered as the answer

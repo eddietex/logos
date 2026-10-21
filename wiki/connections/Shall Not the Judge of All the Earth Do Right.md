@@ -30,7 +30,8 @@ tags: [connection]
 - **Ezekiel 18:1–32** — *"The soul who sins, he shall die. The son shall not bear the iniquity of
   the father."*
 - **Job 8:3; 9:22–24; 34:10–19** — the question asked at book length: *"Does God pervert justice?"*
-  and *"He destroys the blameless and the wicked."* See [[Bildad's First Speech]].
+  and *"He destroys the blameless and the wicked."* See [[Bildad's First Speech]] and
+  [[There Is No Umpire Between Us]].
 - **Romans 3:5–6** — *"Is God unrighteous who inflicts wrath? … For then how will God judge the
   world?"*
 - **Genesis 22:1–3** — the same man, four chapters later, given a command about his own son and

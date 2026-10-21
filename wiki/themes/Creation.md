@@ -99,6 +99,13 @@ Genesis 1 sets four load-bearing claims:
   performs**; this is one a man requests and does not get. See
   [[Let That Day Be Darkness - Job 3 as Counter-Creation]] and
   [[The Whirlwind Answers Chapter 3]], where the same inventory comes back in God's mouth
+- [[There Is No Umpire Between Us]] — Job 9:5–10 and 10:8–12; **creation praised twice, and both times turned into an
+  accusation.** The cosmic hymn (mountains, pillars, sun, stars, the sea trodden, the Bear and
+  Orion) is power that unmakes, and Job quotes Eliphaz's doxology (5:9 → 9:10) as a threat. The
+  personal hymn — milk, cheese, skin, flesh, bones, sinews, *ḥesed*, *pəquddâ* — is the Bible's most
+  detailed account of formation in the womb, and ends *"Yet you hid these things in your heart"*
+  (10:13). See [[The Bear, Orion, and the Pleiades]] and
+  [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]].
 
 ## Related themes
 

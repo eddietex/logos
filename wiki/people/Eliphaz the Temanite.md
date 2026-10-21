@@ -127,6 +127,10 @@ pray for him, *"for I will accept him"* (42:8). The man he diagnosed becomes his
   gate"* (5:4) without naming Job's; Bildad names them (8:4). His warrant was a night vision; Bildad's
   is the fathers. And his next speech opens on Bildad's image — *"Should a wise man… fill himself
   with the east wind?"* (15:2), after Bildad's *"mighty wind"* (8:2).
+- [[There Is No Umpire Between Us]] — Job 9:1–10:22, silent and **quoted three times without being named**: his spirit's
+  question (4:17 → 9:2, *yiṣdaq*, moved from ethics to court), his doxology (5:9 → 9:10, comfort
+  become threat), and the verb of the spirit that *passed* before his face (4:15 → 9:11, *ḥālap*) —
+  used by Job of a God who passes and is not seen.
 
 ## Related people
 

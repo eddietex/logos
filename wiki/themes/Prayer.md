@@ -172,6 +172,12 @@ already did.
   your supplication to the Almighty"* — the verb Job had just used of God seeking *him* (7:21). And
   the promise that God *"would awaken for you"* borrows the lament psalms' *"Wake up!"* (Psalm 44:23)
   as a guarantee rather than a plea.
+- [[There Is No Umpire Between Us]] — Job 10:2–22; **the longest continuous address to God in the book so far, and the
+  first in which the friends are not addressed at all.** *"I will tell God"* (10:2): a demand for
+  the charge, five questions about how God sees, the second *remember* (10:9, after 7:7), the
+  memory of *"life and loving kindness"* (10:12), and the last petition — *"Cease then. Leave me
+  alone, that I may find a little comfort"* (10:20). Chapter 3's *why* is here finally put to God
+  (10:18).
 
 ## Related themes
 

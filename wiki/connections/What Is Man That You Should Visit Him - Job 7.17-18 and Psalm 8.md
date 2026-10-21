@@ -36,6 +36,10 @@ would stop asking.**
 
 The verbal overlap with Psalm 8 is the opening formula, *mâ-ʾĕnôš kî*, and the verb *pāqad* — to
 visit, to attend to, to muster, to inspect. In the psalm *pāqad* is care. In Job it is inspection.
+**Job knows both senses.** Three chapters later he uses the noun for care — *"Your visitation
+(pəquddātəkā) has preserved my spirit"* (10:12) — and then, in the next breath, suspects the care
+was cover for the inspection: *"Yet you hid these things in your heart… if I sin, then you mark
+me"* (10:13–14). See [[There Is No Umpire Between Us]].
 **Job takes the most exalted thing the Psalter says about the human being and reads it as a
 description of his condition**: yes, God makes much of man; yes, God attends to him; that is
 exactly what is wrong. The psalm's *"crowned him with glory"* becomes Job's *magnify him* —

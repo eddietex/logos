@@ -240,7 +240,7 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
 - Job 1:1, 8; 2:3 — *tām* and *yāšār*, the narrator's and God's words for Job, set as conditions at
   8:6 and 8:20.
 - Job 1:19 — the *"great wind"* and the fallen house, behind 8:2 and 8:15.
-- Job 9:2, 21–22 — *"Truly I know that it is so"*; *"I am blameless… I despise my life… he destroys
+- [[There Is No Umpire Between Us]] — Job 9:2, 21–22: *"Truly I know that it is so"*; *"I am blameless… I despise my life… he destroys
   the blameless and the wicked"*: Job's reply, with Bildad's words *tām* and *māʾas*.
 - Job 12:2–3, 12 — *"wisdom shall die with you"* and *"With aged men is wisdom"*, the reply to
   8:8–10.

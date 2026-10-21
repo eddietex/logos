@@ -219,6 +219,10 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   What Job asks God to remember is that he will soon not exist: *"you will seek me diligently, but I
   shall not be"* (7:21). Seven chapters later the request becomes a wish to be hidden in Sheol and
   remembered afterwards (14:13)
+- [[There Is No Umpire Between Us]] — Job 10:9, ***zəkor-nāʾ***, *"Remember, I beg you, that you have fashioned me as clay"*:
+  Job's second request to be remembered, and this time what he asks God to recall is God's own
+  workmanship.
+
 ## Related themes
 
 - [[Covenant]] — the usual object of the verb: what God remembers is what he swore

@@ -193,6 +193,12 @@ about.
   pervert righteousness (ṣedeq)?"* **Abraham's pair from Genesis 18:19, 25, and Abraham's question,
   asked to close a case rather than to open one.** Job's answer at 19:6 reuses the verb: *"God has
   subverted (ʿiwwətānî) me."* See [[Shall Not the Judge of All the Earth Do Right]].
+- [[There Is No Umpire Between Us]] — Job 9:2, 15, 20; 10:15; **the word moved from ethics to court.** Eliphaz's spirit asked
+  whether a man could be *more just* than God (4:17); Job asks how a man can be *in the right*
+  against God — win a case — with the same verb, *yiṣdaq*. *"Though I were righteous, yet I wouldn't
+  answer him"* (9:15); *"though I am righteous, my own mouth shall condemn me"* (9:20); *"if I am
+  righteous, I still shall not lift up my head"* (10:15). **Being righteous is not denied; it is
+  declared useless**, because the procedure that would establish it does not exist.
 
 ## Related themes
 

@@ -266,6 +266,10 @@ rule are the conditions the rest of Scripture is set in.
   **The chapter's interest is entirely in whether the verdicts were correctly foretold, not in whether
   they were just** — *"as Joseph had interpreted to them"* is the whole of its comment. **Genesis gives
   the reader no basis for thinking either man deserved what he got**
+- [[There Is No Umpire Between Us]] — Job 9–10; **the trial without a venue.** Job's first full use of the courtroom: *rîb*,
+  *mišpāṭ*, *"who will summon me?"* (9:19), *"that we should come together in judgment"* (9:32),
+  *"show me why you contend with me"* (10:2), *"you renew your witnesses against me"* (10:17). God
+  is plaintiff, judge, and stronger party at once, and no umpire stands over both (9:33).
 
 ## Related themes
 

@@ -9,7 +9,8 @@ tags: [connection]
 
 - Job 3:1–12 — [[Let the Day Perish]]
 - Jeremiah 20:14–18 — the close of the last of Jeremiah's "confessions"
-- Job 10:18–19 — the same complaint restated, and this time addressed to God
+- Job 10:18–19 — the same complaint restated, and this time addressed to God —
+  [[There Is No Umpire Between Us]]
 - Ecclesiastes 4:2–3, 6:3–5 — the dead preferred to the living, the stillborn to both
 - Jonah 4:3, 8 · 1 Kings 19:4 — the Bible's other requests to die, which are a different request
 

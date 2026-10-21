@@ -111,6 +111,9 @@ raw text.)*
 - [[The Flood as Un-Creation]] — the other place Genesis 1's order is run backwards.
 - [[In the Beginning - Genesis 1 and John 1]] — where the canon takes Genesis 1:3–5 in the opposite
   direction from Job 3.
+- [[There Is No Umpire Between Us]] — Job 9:7 and 10:21–22; God *"commands the sun, and it doesn't rise, and seals up the
+  stars"*, and the land of the dead is *ṣalmāwet* twice, *without any order*, where *"the light is
+  as midnight."* The speech's last word is *ʾōpel*, gloom — Genesis 1:3 run backwards.
 
 ## Related themes
 

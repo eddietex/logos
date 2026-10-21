@@ -132,6 +132,11 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 - **Genesis 50:15–17 — seventeen fed years have not touched it**: *"It may be that Joseph will hate
   us, and will fully pay us back"*, and a request for forgiveness routed through a command from a dead
   man that Genesis never records him giving — [[The Deaths of Jacob and Joseph]]
+- [[There Is No Umpire Between Us]] — Job 9:27–31; **guilt as a verdict imposed from outside, which no conscience can
+  clear.** *"I know that you will not hold me innocent (lōʾ tənaqqēnî)"* — the *nāqâ* of Exodus
+  34:7's *"will by no means clear the guilty"*, applied to a man who is not. *"If I wash myself with
+  snow, and cleanse my hands with lye, yet you will plunge me in the ditch"*: Isaiah 1:18 and Psalm
+  51:7 reversed. The theme's first case where the conscience is clean and the verdict is not.
 
 ## Related themes
 

@@ -249,6 +249,10 @@ will finally go both ways.
   asks God to stop looking** — the reversal of *"how long will you hide your face?"* (Psalm 13:1).
   And his last line imagines God looking for him and finding nothing (7:21). See
   [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]]
+- [[There Is No Umpire Between Us]] — Job 9:11; 10:4, 18; **God unseen, God's sight questioned, and Job's wish to have
+  been unseen.** *"He goes by me, and I don't see him"*; *"Do you have eyes of flesh? Or do you see
+  as man sees?"*; *"I wish… no eye had seen me."* The resolution is 42:5. See
+  [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]].
 
 ## Related themes
 

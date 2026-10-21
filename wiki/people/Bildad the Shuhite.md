@@ -124,6 +124,10 @@ book, and Bildad's name survives inside them.
 - [[Bildad's First Speech]] — Job 8:1–22, his own and his first: the children named as proof (8:4),
   the conditional offer of restoration (8:5–7) that chapter 18 withdraws, the fathers (8:8–10), and
   the papyrus (8:11–19). See [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]].
+- [[There Is No Umpire Between Us]] — Job 9:1–10:22; **answered in one line and never addressed again.** *"Truly I know that
+  it is so"* (9:2) concedes 8:3; then Job takes Bildad's closing *tām* and *māʾas* (8:20) and returns
+  both — *"I am blameless… I despise my life… he destroys the blameless and the wicked"* (9:21–22) —
+  and turns to God for the rest of the speech.
 - [[Eliphaz's Second Speech]] — as part of Eliphaz's *"we"* and *"with us"*.
 - [[Miserable Comforters and the Witness in Heaven]] — as one of the three answered in the plural.
 - [[Bildad's Second Speech]] — his own, and the fullest statement of retribution in the book.

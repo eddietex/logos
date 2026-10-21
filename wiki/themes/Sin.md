@@ -230,6 +230,9 @@ has been argued.
   disobedience (pišʿām)."*** **Sin as the agent of a death, inferred from the death.** No act of the
   children's is named, here or anywhere; their transgression is deduced from a collapsed house, and
   the reader knows the house fell for another reason.
+- [[There Is No Umpire Between Us]] — Job 10:6, 14; **sin searched for and marked, never named.** *"You inquire after my
+  iniquity, and search after my sin, although you know that I am not wicked"*; *"if I sin, then
+  you mark me."* Job demands the charge (10:2) and does not receive it.
 
 ## Related themes
 
