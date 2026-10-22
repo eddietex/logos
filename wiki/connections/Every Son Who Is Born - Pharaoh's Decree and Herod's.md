@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Exodus 1:16, 22** — *"if it is a son, then you shall kill him"*; *"You shall cast every son who
   is born into the river"* — [[The Oppression in Egypt]]
-- **Exodus 2:1–10** — the son hidden and saved *(not yet ingested)*
+- **Exodus 2:1–10** — the son hidden three months, set in the river in an ark, and drawn out by
+  Pharaoh's own daughter — [[The Birth of Moses]]
 - **Exodus 2:15; 4:19** — *"he sought to kill Moses"*; *"Go, return into Egypt; for all the men who
   sought your life are dead"* *(not yet ingested)*
 - **Matthew 2:13–18** — the flight into Egypt; Herod *"killed all the male children who were in
@@ -39,6 +40,11 @@ with the plural kept though only Herod has died.
 the refuge from one, and *"Out of Egypt I called my son"* (Matthew 2:15) makes the child's return
 the Exodus. **The massacre has moved into the land of Israel, and the king who orders it is the king
 of the Jews.**
+
+**Exodus 2:1–10 sharpens the inversion.** Moses is saved *inside* the king's household — by his
+daughter, at his expense, with a Hebrew mother on the royal payroll (2:9); Jesus is saved by leaving
+the king's country altogether. **Both rescues are worked by people the king does not suspect**, and
+neither involves a confrontation with him. See [[The Birth of Moses]].
 
 **Stephen's retelling compresses Exodus 1 toward the same point**: the three measures become one —
 *"forced them to throw out their babies, so that they wouldn't stay alive"* (Acts 7:19) — and the

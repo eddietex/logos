@@ -40,7 +40,8 @@ first is pride; the second is pride with slaves.** See [[Pride and Self-Exaltati
 
 The Babel passage page notes that *ḥēmār*, *tar*, appears in the Torah only at Genesis 11:3, 14:10,
 and Exodus 2:3, the basket of the infant Moses. **So Babel's other material is the one that floats
-the child who will undo Egypt's bricks.** That is chapter 2's half of this link.
+the child who will undo Egypt's bricks.** That is chapter 2's half of this link — see
+[[The Birth of Moses]] and [[The Two Arks - Noah's Ship and Moses' Basket]].
 
 The wiki does not claim that Exodus 1 is written as a deliberate quotation of Genesis 11; the
 evidence is lexical and structural, and the page records it at that strength.

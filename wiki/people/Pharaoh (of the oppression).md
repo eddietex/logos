@@ -60,7 +60,8 @@ resolved.
 - Orders the Hebrew midwives to kill the sons at birth — Exodus 1:15–16
 - Summons the midwives and is answered with the *vigorous* Hebrew women — Exodus 1:18–19
 - Commands all his people to cast every son into the river — Exodus 1:22
-- *(ahead)* His daughter draws Moses out of the river — Exodus 2:5–10
+- His daughter draws Moses out of the river, hires his mother as nurse, and adopts him — Exodus
+  2:5–10, [[The Birth of Moses]]
 - *(ahead)* Seeks to kill Moses, who flees to Midian — Exodus 2:15
 - *(ahead)* Dies — Exodus 2:23
 
@@ -68,12 +69,17 @@ resolved.
 
 - [[The Oppression in Egypt]] — Exodus 1:8–22; **the three measures**, from forced labour to
   infanticide
+- [[The Birth of Moses]] — Exodus 2:1–10; **present only as a title, a decree, and a father.** His
+  river decree is obeyed to the letter by a Hebrew mother, defeated by an ark, and broken by his own
+  daughter, who pays the mother from his house and raises the deliverer in it
 
 ## Related people
 
 - [[Pharaoh (of Joseph's time)]] — the predecessor whose debt he does not acknowledge
 - [[Joseph]] — the man he *"didn't know"*
 - [[Shiphrah and Puah]] — the midwives who disobey him
+- [[Pharaoh's Daughter (of Moses' time)]] — his daughter, who draws Moses out of his river
+- [[Moses]] — the son his decree was meant to drown
 - [[Abimelech (of Isaac's time)]] — the first king to say *"mightier than we"* of this family
 - [[Pharaoh (of Abram's time)]] — the first Pharaoh, whose household Abram feared would kill him and
   keep his wife alive (Genesis 12:12)

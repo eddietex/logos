@@ -147,6 +147,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
 - **Genesis 50:24–25 — the only act Hebrews 11 credits to [[Joseph]]**: not the dreams, not the
   famine policy, not the forgiveness, but instructions about his bones (Hebrews 11:22) —
   [[The Deaths of Jacob and Joseph]]
+- [[The Birth of Moses]] — Exodus 2:1–3 with Hebrews 11:23; **the hiding of Moses read as faith** —
+  *"By faith, Moses, when he was born, was hidden for three months by his parents … and they were
+  not afraid of the king's commandment."* **Exodus records no promise or word from God to them**:
+  the faith Hebrews sees acts without one
 
 ## Related themes
 
@@ -168,3 +172,4 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
 - [[Noah]] — who is never said to believe and is called a man of faith by Hebrews 11:7
 - [[Job (person)]] — trust without an object he can locate, held through thirty-seven chapters of
   silence
+- [[Amram]] and [[Jochebed]] — Moses' parents, whose hiding of him Hebrews 11:23 calls faith

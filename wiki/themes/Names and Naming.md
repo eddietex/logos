@@ -214,6 +214,11 @@ five times**, and each is a covenant hinge.
 - [[The Oppression in Egypt]] — Exodus 1:1, 15; ***Shemot*, *names*, is the book's title**, and the chapter names the
   sons, the store-cities, and the two midwives — but never the king. **The powerless are named and
   the powerful anonymous.** See [[Shiphrah and Puah]]
+- [[The Birth of Moses]] — Exodus 2:1–10; **everyone unnamed except the child, and the child named
+  by the enemy's daughter.** *"She named him Moses, and said, 'Because I drew him out of the
+  water'"* — an explanation by what was done to him, in a name whose form (*mōšeh*, active) says
+  what he will do, and whose likely Egyptian root (*msy*) is the *-mses* of Raamses. See
+  [[Drawn Out of the Water - The Name of Moses]]
 
 ## Related themes
 
@@ -238,3 +243,4 @@ five times**, and each is a covenant hinge.
 - [[Joseph]] — glossed twice in two verses, in opposite directions, and later renamed by a Pharaoh
 - [[Levi]] — the naming with no agent
 - [[Dinah]] — the naming with no gloss
+- [[Moses]] — named by an Egyptian princess, *"Because I drew him out of the water"*

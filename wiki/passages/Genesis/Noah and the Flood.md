@@ -289,7 +289,9 @@ maximum: every high mountain under the whole sky, and one floating object with n
 - Genesis 9:8–17 — the covenant of 6:18 actually established, with the rainbow as its sign.
 - Genesis 9:25 — Noah's first recorded words in Scripture, after two chapters of silence.
 - Exodus 2:3, 5 — the *tēbâ* of Moses: the Bible's only other ark, also sealed with pitch, also
-  carrying one rescued life through a killing water.
+  carrying one rescued life through a killing water — [[The Birth of Moses]],
+  [[The Two Arks - Noah's Ship and Moses' Basket]]. (The pitch is the same in English, not in
+  Hebrew: *kōper* here, *ḥēmār* and *zepet* there.)
 - Leviticus 11; Deuteronomy 14:3–21 — the clean/unclean distinction that 7:2 assumes and these
   define.
 - Genesis 15:6 — *"He believed in Yahweh, who credited it to him for righteousness"*: the second

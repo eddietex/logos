@@ -298,6 +298,9 @@ verdicts.
   and [[Yahweh Turned the Captivity of Job - Restoration and the Double]].
 - [[The Oppression in Egypt]] — Exodus 1:22; **the river turned back.** What Egypt does to Israel's sons in the water,
   water will do to Egypt — the Nile to blood (7:20), and the sea where Pharaoh's army is cast (15:4)
+- [[The Birth of Moses]] — Exodus 2:3; **the *sûp*.** The infant is laid *"in the reeds"* — *bassûp*
+  — and the sea where *"Pharaoh's chariots and his army"* are cast is *yam sûp* (15:4). The water
+  meant for Hebrew sons receives Egypt's soldiers
 
 ## Related themes
 

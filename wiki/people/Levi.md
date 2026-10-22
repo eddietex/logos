@@ -135,6 +135,9 @@ the same willingness to use a sword to a different use.
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); third; **his is the house the next chapter begins with** — *"A man of the house of Levi went and took a daughter of Levi as his wife"* (2:1). Dead, with *"all that
   generation"*, by 1:6
+- [[The Birth of Moses]] — Exodus 2:1; **both of Moses' parents are *"of the house of Levi"***, said
+  twice in one verse. If *"a daughter of Levi"* is literal, as Numbers 26:59 reads it, Moses' mother
+  [[Jochebed]] is Levi's own daughter, born in Egypt
 
 ## Related people
 
@@ -148,6 +151,8 @@ the same willingness to use a sword to a different use.
 - [[Reuben]] — the eldest, and the first of the four Leah sons to lose his standing
 - [[Gershon]], [[Kohath]], [[Merari]] — his three sons, named together at 46:11 and nowhere else in
   Genesis; the three houses of the tabernacle, and Kohath's line produces Moses and Aaron
+- [[Amram]] and [[Jochebed]] — his grandson and (Numbers 26:59) his daughter, the parents of
+  [[Moses]]
 
 ## Themes associated
 

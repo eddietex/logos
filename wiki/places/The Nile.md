@@ -69,6 +69,10 @@ the Wadi el-Arish on the border rather than the Nile; see
   who is born into the river."* Egypt's source of life becomes the instrument of the decree — and
   the river will be where Moses is laid and drawn out (2:3–10), the first water turned to blood (7:20),
   and its counterpart the sea where *"Pharaoh's chariots and his army"* are cast (15:4)
+- [[The Birth of Moses]] — Exodus 2:3–10; **the decree's grave becomes the child's ark.** His
+  mother puts him into the river as ordered, in a sealed papyrus *tēbâ*, *"in the reeds by the
+  river's bank"* — *sûp*, the reed of the *yam sûp* he will lead Israel through; Pharaoh's daughter
+  comes down to bathe in it and draws him out. The papyrus (*gōmeʾ*) is the Nile marsh's own plant
 
 ## Related places
 
@@ -86,5 +90,5 @@ the Wadi el-Arish on the border rather than the Nile; see
   17–24, [[Pharaoh's Dreams and Joseph's Rise]]
 - Made the instrument of Pharaoh's decree: every son born to be cast into it — Exodus 1:22,
   [[The Oppression in Egypt]]
-- The infant Moses set among the reeds and drawn out — Exodus 2:1–10 *(not yet ingested)*
+- The infant Moses set among the reeds and drawn out — Exodus 2:1–10, [[The Birth of Moses]]
 - Turned to blood, the first plague — Exodus 7:17–21 *(not yet ingested)*

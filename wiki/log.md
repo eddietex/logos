@@ -11014,3 +11014,75 @@ linked in seven Genesis passage pages, plus the quotation corrections above. Ind
 `in-progress`, 1 / 53), people (+2 rows, 15 revised), places (+1, 4 revised), themes (17 revised),
 connections (+5), `wiki/index.md` (3 books started, 92 passages, 146 people, 78 places, 273
 connections). `scripts/link-check.sh` clean.
+
+## [2026-10-22] ingest | Exodus 2.1-10 — The Birth of Moses
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *The Birth of Moses — Exodus 2:1–10*.
+Boundary kept as planned. No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[The Birth of Moses]] — the third measure of Exodus 1 undone in ten verses, every act of rescue a
+woman's, and **God not mentioned once**. Findings: *mibbêt lēwî* answering the midwives' *bāttîm*;
+*kî-ṭôb* as Genesis 1:4's sentence; *tēbâ* as Noah's ark; *ḥēmār* as Babel's tar, not Noah's
+*kōper*; *sûp*, the reeds, as the *yam sûp*; *śîm* (put) against 1:22's *šālak* (cast); the sister's
+*lədēʿâ*, *to know*, against 1:8; *ḥāmal*, to spare; *ʿalmâ*; *śākār*, wages; *wayhî-lāh ləbēn* as
+adoption; *Mōšeh* as an active participle, *the one who draws out*, and the Egyptian *msy* derivation
+(given as the standard proposal, not settled). Joseph's inverse (a Hebrew made Egyptian by Pharaoh)
+noted.
+
+### Judgment calls
+
+- **Named pages for figures unnamed in the passage.** [[Jochebed]] and [[Amram]] take the names
+  Exodus 6:20 gives (verified against `raw/bible/Exodus.md`). The sister is filed as [[Miriam]]: the
+  identification rests on Numbers 26:59 listing only one sister and is **flagged as an inference** on
+  her page and the passage page.
+- **[[Pharaoh's Daughter (of Moses' time)]]** — the schema's narrative-keyed qualifier for a
+  title-only figure; collisions ahead with Solomon's wife (1 Kings 3:1) and Bithiah (1 Chronicles
+  4:18). Josephus's *Thermuthis* and the rabbinic Bithiah identification recorded, not adopted.
+- **No Aaron page yet** — he is not in the passage; his age (7:7) is noted only to say the narrative
+  strips the family to one birth.
+- **Jochebed as Levi's daughter** (Numbers 26:59 literal) added as a short-sojourn argument on
+  [[Four Hundred Years - The Sojourn and the Exodus]]; both readings recorded, none chosen.
+- No new place or theme pages.
+
+### Corrections
+
+- [[Compassion and Mercy]] called Exodus 2:6's verb *"the Joseph cycle's characteristic verb"*. The
+  Joseph cycle's word is *raḥămîm*; Exodus 2:6 has *ḥāmal*. Corrected in place, with a note.
+- **Refinement, not contradiction**: [[The Flood and Baptism]] and [[Noah and the Flood]] said both
+  arks were sealed with pitch. True in the WEB and in substance, but the Hebrew differs (*kōper* /
+  *ḥēmār* and *zepet*); a note was added to each, pointing to the new connection page.
+
+Quotations outside Genesis/Exodus checked against the WEB at bible-api.com before writing: Acts
+7:20–22; Hebrews 11:23–26; Psalm 18:16; 2 Samuel 22:17; Isaiah 63:11; Numbers 26:59; Numbers 12:1;
+Micah 6:4; 1 Kings 3:1; 1 Chronicles 4:18; 1 Samuel 15:9; 2 Samuel 12:6; Matthew 2:13–15. Leviticus
+18:12, Isaiah 7:14, Exodus 32:26–29, Numbers 20:1, and 1 Peter 3:20–21 cited by reference only.
+Genesis and Exodus texts checked against `raw/bible/`.
+
+### Connection pages
+
+Created (3): [[The Two Arks - Noah's Ship and Moses' Basket]],
+[[Watching from Far Off - Hagar and Moses' Sister]], and
+[[Drawn Out of the Water - The Name of Moses]]. Revised (6):
+[[Every Son Who Is Born - Pharaoh's Decree and Herod's]] (the *not yet ingested* marker removed, an
+Analysis paragraph added), [[The Flood and Baptism]], [[Come, Let Us - Babel's Bricks and Pharaoh's]],
+[[Abram the Hebrew - The First Use of the Name]], [[Four Hundred Years - The Sojourn and the Exodus]],
+and [[Affliction and Flight - Hagar and the Exodus]].
+
+### Pages created or revised
+
+Created (9): the passage page, [[Moses]], [[Jochebed]], [[Amram]], [[Miriam]],
+[[Pharaoh's Daughter (of Moses' time)]], and three connection pages. People revised (6): [[God]] (new
+*Exodus 2:1–10* subsection), [[Pharaoh (of the oppression)]] (the *ahead* item now ingested),
+[[Levi]], [[Kohath]], [[Hagar]], [[Noah]]. Places (2): [[The Nile]] (the *not yet ingested* marker
+removed), [[Egypt]]. Themes (14): [[Providence]], [[Life and Death]], [[Compassion and Mercy]],
+[[Adoption]], [[Names and Naming]], [[Seeing and Being Seen]], [[Creation]], [[Faith]],
+[[The Fear of God]], [[Deception]], [[Kingship and Empire]], [[Retribution]], [[Work]],
+[[Priesthood]]. Passages (5): [[The Oppression in Egypt]], [[Noah and the Flood]],
+[[The Tower of Babel]], [[The Birth of Isaac and the Sending of Hagar]],
+[[Bildad's First Speech]]. Book page: box checked, chapter 2 structure note, key people and themes.
+Indexes: books (Exodus 2 / 53), people (+5 rows, 3 revised), places (2 revised), themes (14
+revised), connections (+3), `wiki/index.md` (93 passages, 151 people, 276 connections).
+`scripts/link-check.sh` clean.

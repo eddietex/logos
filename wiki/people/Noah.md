@@ -250,6 +250,8 @@ his own entry closed with; see
   for the first and only time at 9:22–23, and he divides them by oracle three verses later
 - [[Canaan (son of Ham)]] — his grandson, cursed in the first words he speaks in Scripture, for an
   act attributed to the boy's father
+- [[Moses]] — the only other person carried in a *tēbâ*; see
+  [[The Two Arks - Noah's Ship and Moses' Basket]]
 - **His wife, and his sons' wives** — four of the eight in the ark, counted in every boarding list
   and unnamed anywhere in Scripture
 - [[Job (person)]] — introduced by the same move Noah is, a verdict of blamelessness delivered

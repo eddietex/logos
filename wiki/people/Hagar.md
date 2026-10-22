@@ -184,6 +184,8 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
   her back, and is named by her for seeing
 - [[Pharaoh (of Abram's time)]] — whose payment for Sarai is the most likely way an Egyptian slave
   came into the household
+- [[Miriam]] — the sister of Moses, who *"stood far off"* by the river as Hagar sat *"a good way
+  off"*; see [[Watching from Far Off - Hagar and Moses' Sister]]
 - [[Keturah]] — the other woman covered by *"Abraham's concubines"* at 25:6, whose sons are removed
   from Isaac by the same verb and with far more provision; an old rabbinic tradition identifies the
   two women, which 25:6's plural rules out

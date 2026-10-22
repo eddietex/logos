@@ -245,6 +245,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   narrator gives for God's acting in the chapter: *"Because the midwives feared God, he gave them
   families."* Compare Acts 5:29; and Leviticus 25:43, where *fear your God* is set against Egypt's
   *harshness*
+- [[The Birth of Moses]] — Exodus 2:1–10 with Hebrews 11:23; **the parents *"not afraid of the
+  king's commandment"*** — the midwives' fear of God (1:17) restated as the absence of the fear of
+  Pharaoh. Exodus itself names no fear in the passage
 
 ## Related themes
 

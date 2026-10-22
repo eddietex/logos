@@ -62,7 +62,8 @@ parallels inside and outside Scripture, and the wiki says so where it uses them.
 
 ### After Genesis
 
-- **Moses** — drawn from the river and *"he became her son"* (Exodus 2:10). **Adoption into a foreign
+- **[[Moses]]** — drawn from the river and *"he became her son"* (Exodus 2:10;
+  [[The Birth of Moses]]). **Adoption into a foreign
   royal house, and the reverse direction of Genesis 48.**
 - **Genubath** in Egypt (1 Kings 11:20), **Esther by Mordecai** — *"took her for his own daughter"*
   (Esther 2:7, 15) — **and Jehosheba hiding Joash** (2 Kings 11:2). **All outside the land or outside
@@ -101,6 +102,9 @@ Testament out of it**, since Genesis 48 is a single case and the Torah legislate
 - **Genesis 50:23 — the idiom's second and last use in Genesis**: [[Machir]]'s children *"born on
   Joseph's knees"*, the phrase [[Rachel]] used of [[Bilhah]] at 30:3 —
   [[The Deaths of Jacob and Joseph]]
+- [[The Birth of Moses]] — Exodus 2:10; ***"he became her son"*** — *wayhî-lāh ləbēn*. **A Hebrew
+  boy adopted into the royal house of the nation enslaving his people**, by the daughter of the king
+  who ordered him drowned; named by her, and (Hebrews 11:24) later refusing the sonship
 
 ## Related themes
 
@@ -126,3 +130,5 @@ Testament out of it**, since Genesis 48 is a single case and the Torah legislate
 - [[Rachel]], [[Bilhah]], [[Zilpah]], [[Leah]] — the surrogacy arrangements behind four tribes
 - [[Asenath]] — the mother nobody in Genesis 48 mentions
 - [[Eliezer of Damascus]] — the heir who was refused
+- [[Moses]] — *"he became her son"* (Exodus 2:10)
+- [[Pharaoh's Daughter (of Moses' time)]] — the adoptive mother

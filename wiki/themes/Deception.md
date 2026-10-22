@@ -267,6 +267,10 @@ has become a nation.
   women; for they are vigorous"* — a lie or a half-truth, told to a king trying to kill children, and
   **not judged**: the reward is given for the fear (1:17, 21). Three readings recorded; see
   [[The Midwives and Rahab - Deceiving the King to Save Life]]
+- [[The Birth of Moses]] — Exodus 2:3, 9; **the gentlest case the theme has.** The mother obeys the
+  decree to the letter — her son goes *into the river* — but *puts* (*śîm*) him there in an ark
+  instead of *casting* (*šālak*) him; and then she is hired, unrecognized or unquestioned, to nurse
+  her own son. No lie is spoken
 
 ## Related themes
 
@@ -299,3 +303,4 @@ has become a nation.
 - [[Esau]] — the only person in the book to name the family's habit as a habit: *"he has supplanted
   me these two times"*
 - [[Laban]] — who runs the same substitution back on the deceiver, and calls it a local custom
+- [[Jochebed]] — obeys the decree to the letter and is hired to nurse her own son (Exodus 2:3, 9)

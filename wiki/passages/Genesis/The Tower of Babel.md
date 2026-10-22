@@ -88,7 +88,8 @@ condescending: the greatest city in the world, made of mud.
 project is the builders' own opening line with its letters turned around.
 
 *Ḥēmār*, **tar** or bitumen, occurs three times in the Torah: here, in the tar pits the kings of
-Sodom and Gomorrah fall into (14:10), and on the basket that carries the infant Moses (Exodus 2:3).
+Sodom and Gomorrah fall into (14:10), and on the basket that carries the infant Moses (Exodus 2:3;
+[[The Birth of Moses]]).
 
 ### The plan (11:4)
 

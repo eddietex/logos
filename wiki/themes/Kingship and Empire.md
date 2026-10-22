@@ -194,6 +194,9 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   Joseph"*: acknowledgment withheld, a blessing read as a threat, and three measures each widening
   the guilt — officers, two midwives, then *"all his people"*. Nameless throughout. See
   [[Pharaoh (of the oppression)]] and [[Every Son Who Is Born - Pharaoh's Decree and Herod's]]
+- [[The Birth of Moses]] — Exodus 2:5–10; **the king's house rears the king's undoing.** Pharaoh's
+  own daughter breaks the decree, pays a Hebrew mother from the royal purse, and adopts the
+  deliverer; the king appears only as a title in *"Pharaoh's daughter"*
 
 ## Related themes
 

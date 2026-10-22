@@ -1342,6 +1342,17 @@ remember until 2:24–25**, after a generation. Psalm 105:25 makes him the autho
 (*"He turned their heart to hate his people"*); Exodus 1 does not, and the difference is recorded on
 [[The Oppression in Egypt]] rather than resolved. See [[Providence]] and [[The Fear of God]].
 
+### Not mentioned at all — Exodus 2:1–10
+
+**The birth of Moses does not name God once.** No promise to the parents, no word to the mother, no
+act in the rescue: the passage is a hidden child, a sealed basket, a sister on watch, and a princess
+who comes to bathe at the right moment and pities what she finds. **It is the Bible's purest
+narrative of providence without a divine verb** — the reader who has Genesis supplies what the
+narrator withholds, helped by the word *tēbâ*, Noah's ark, for the basket. Hebrews reads the
+parents' act as faith (11:23). His silence is broken at 2:23–25, where he hears, remembers, sees,
+and knows. See [[The Birth of Moses]] and
+[[The Two Arks - Noah's Ship and Moses' Basket]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1813,6 +1824,8 @@ remember until 2:24–25**, after a generation. Psalm 105:25 makes him the autho
 - [[The Oppression in Egypt]] — Exodus 1:17, 20–21; *ʾĕlōhîm*, **absent from 1:1–16 and silent throughout**; feared
   by the midwives, who disobey the king for his sake, and the one who *"dealt well"* with them and
   gave them *bāttîm*, households
+- [[The Birth of Moses]] — Exodus 2:1–10; **not mentioned.** The deliverer is preserved by three
+  women and a basket, and the narrator names no divine act
 
 ## Related people
 

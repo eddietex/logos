@@ -42,6 +42,10 @@ a travel document**, three names after [[Reuben]] and forty before the end of th
 ## Related people
 
 - [[Levi]] — his father
+- [[Amram]] — his son, the father of Moses and Aaron (Exodus 6:18, 20)
+- [[Jochebed]] — his sister, if Exodus 2:1 and Numbers 26:59 are read literally, and his
+  daughter-in-law (6:20)
+- [[Moses]] — his grandson
 - [[Gershon]], [[Merari]] — his brothers, and the other two Levitical houses
 - [[Jacob]] — his grandfather
 

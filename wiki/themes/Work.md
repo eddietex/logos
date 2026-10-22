@@ -169,6 +169,9 @@ the seventh day a blessing. See [[Sabbath]].
 - [[The Oppression in Egypt]] — Exodus 1:11–14; **work as bondage.** *"Hard service, in mortar and in brick, and in all
   kinds of service in the field"* — Babel's materials (Genesis 11:3), carried for someone else's
   storehouses. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
+- [[The Birth of Moses]] — Exodus 2:9; ***"I will give you your wages"*** — *śəkārēk*, Jacob and
+  Laban's word. **A Hebrew mother paid by Pharaoh's house** to keep alive the son Pharaoh ordered
+  drowned, in a book whose first chapter made Israel's labour unpaid
 
 ## Related themes
 

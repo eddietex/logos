@@ -51,8 +51,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   measure fails in the blessing's own words, and the second fails because two women *"feared
   God"* (1:17). **God acts once in the chapter, and only for the midwives** (1:20–21). See
   [[The Oppression in Egypt]].
-- **2 Moses' birth and flight** — the river decree defeated by a basket on the river; a Hebrew
-  raised as an Egyptian; a killing, a flight to Midian, and God hearing the groaning (2:23–25).
+- **2 Moses' birth and flight** — the river decree defeated by a basket on the river: a Levite
+  mother puts her son into the Nile as ordered, but in a *tēbâ*, the word for Noah's ark, and
+  Pharaoh's own daughter draws him out, pays his mother to nurse him, adopts him, and names him
+  *Moses* (2:1–10). **God is not mentioned once in the rescue.** See [[The Birth of Moses]]. Then a
+  Hebrew raised as an Egyptian; a killing, a flight to Midian, and God hearing the groaning
+  (2:23–25).
 - **3–4 The call** — the burning bush, the name *"I AM WHO I AM"* (3:14), Moses' objections, and
   the return to Egypt.
 - **5–7:13 The first confrontation** — bricks without straw, the name *Yahweh* reaffirmed (6:2–8),
@@ -84,7 +88,7 @@ for unit.
 ### The oppression and Moses (1–2)
 
 - [x] [[The Oppression in Egypt]] — Exodus 1:1–22
-- [ ] The Birth of Moses — Exodus 2:1–10
+- [x] [[The Birth of Moses]] — Exodus 2:1–10
 - [ ] Moses Flees to Midian — Exodus 2:11–25
 
 ### The call (3–4)
@@ -176,6 +180,8 @@ for unit.
 - [[Deception]]
 - [[Work]]
 - [[Names and Naming]]
+- [[Adoption]]
+- [[Compassion and Mercy]]
 
 ## Key people
 
@@ -184,6 +190,10 @@ for unit.
 - [[Joseph]] — dead in its sixth verse, and forgotten by its eighth
 - [[Pharaoh (of the oppression)]] — the king *"who didn't know Joseph"*
 - [[Shiphrah and Puah]] — the Hebrew midwives
+- [[Moses]] — drawn out of the river, and named for what he will do
+- [[Jochebed]] and [[Amram]] — his Levite parents, unnamed until 6:20
+- [[Miriam]] — his sister, who watches from far off
+- [[Pharaoh's Daughter (of Moses' time)]] — who spares, adopts, and names him
 
 ## Key places
 

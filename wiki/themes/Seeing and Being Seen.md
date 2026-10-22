@@ -303,6 +303,10 @@ will finally go both ways.
   generations"* — *rāʾâ* again, after *"now my eye sees you"* (42:5). Job had said the dead man's *"sons come to honor,
   and he doesn't know it"* (14:21), and that it was the wicked whose children were *"established with them in their
   sight"* (21:8). He is given the sight.
+- [[The Birth of Moses]] — Exodus 2:2–6; **a passage built of looking.** The mother *sees that he is
+  good* (*kî-ṭôb*, Genesis 1:4's verdict); the sister stands far off *to know* what will be done;
+  the princess *sees* the basket, opens it, *sees* the child — and then hears him. See
+  [[Watching from Far Off - Hagar and Moses' Sister]]
 
 ## Related themes
 

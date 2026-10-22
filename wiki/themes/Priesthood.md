@@ -107,6 +107,9 @@ something comes down through him. That two-way motion is what the word adds. See
   and the altar in the same disposition Genesis cursed. **[[Simeon]], under the identical sentence,
   simply disappears.** **No text in the Bible explains the difference**, and the wiki does not supply
   one. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
+- [[The Birth of Moses]] — Exodus 2:1; **both parents *"of the house of Levi"***, stated twice in
+  one verse and unexplained; the marriage that produces Moses and Aaron (6:20), and so the line of
+  Israel's priesthood
 
 ## Related themes
 

@@ -204,6 +204,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   [[Pithom]] and [[Rameses]] with their labour, and is made by royal decree — *"Pharaoh commanded all
   his people"* (1:22) — **a nation of executioners.** The book's word for it will be *"the house of
   bondage"* (20:2)
+- [[The Birth of Moses]] — Exodus 2:1–10; **Egypt's royal house raises Israel's deliverer.** Pharaoh's
+  daughter spares a Hebrew boy from her father's decree, pays his mother from the royal purse, and
+  adopts him — *"instructed in all the wisdom of the Egyptians"* in Stephen's telling (Acts 7:22)
 
 ## Related places
 
@@ -254,3 +257,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Genesis 41:53–57
 - A new king *"who didn't know Joseph"*; forced labour, the midwives' refusal, and the decree to
   cast every son into the river — Exodus 1:8–22, [[The Oppression in Egypt]]
+- Moses born, set in the Nile, drawn out by Pharaoh's daughter, and adopted into the royal house —
+  Exodus 2:1–10, [[The Birth of Moses]]

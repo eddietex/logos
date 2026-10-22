@@ -316,7 +316,7 @@ Israel's sons in water, water does to Egypt's army.** See [[The Nile]] and [[Ret
 
 **The chapter ends without a resolution.** The decree is in force and nothing is said to have
 stopped it. The next verse is *"A man of the house of Levi went and took a daughter of Levi as his
-wife"* (2:1) — another household — and the next birth is a son.
+wife"* (2:1) — another household — and the next birth is a son. See [[The Birth of Moses]].
 
 ## The king, the people, and God
 
@@ -426,7 +426,7 @@ the boys of a town (Matthew 2:16), and a child who escapes — by going *into* E
   *(new)*
 - Acts 5:29 — *"We must obey God rather than men"*
 - Acts 7:14–19 — Stephen's retelling
-- Hebrews 11:23 — Moses' parents *"not afraid of the king's commandment"*
+- Hebrews 11:23 — Moses' parents *"not afraid of the king's commandment"* — [[The Birth of Moses]]
 
 ## Notes
 

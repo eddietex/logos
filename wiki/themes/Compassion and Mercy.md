@@ -86,8 +86,11 @@ name, and gives the name to a father who cannot see it work.**
 - **50:19–21** — **the theme's settlement.** *"As for you, you meant evil against me, but God meant it
   for good"*, and then *"Now therefore don't be afraid. I will nourish you and your little ones."*
   **The same *don't be afraid* the steward used at 43:23**, now from the man himself
-- **Exodus 2:6** — **Pharaoh's daughter sees the child and *"had compassion on him"***; the Joseph
-  cycle's characteristic verb reappears at the opening of the book that undoes his settlement
+- **Exodus 2:6** — **Pharaoh's daughter sees the child and *"had compassion on him"***
+  ([[The Birth of Moses]]). **The verb is *ḥāmal*, to pity or spare — not the Joseph cycle's
+  *raḥămîm*.** This line formerly called it *"the Joseph cycle's characteristic verb"*; corrected on
+  ingesting Exodus 2. *Ḥāmal* is the sparing of one who has the power to kill (1 Samuel 15:9;
+  2 Samuel 12:6), and the princess has her father's decree in her hands
 
 ## Key passages
 
@@ -154,6 +157,10 @@ name, and gives the name to a father who cannot see it work.**
   rain *"for loving kindness"* (*ḥesed*, 37:13) — the covenant word, in a book set outside the covenant,
   listed beside *correction* (*šēbeṭ*, the rod) as one of the rain's three purposes. The event does not
   say which it is.
+- [[The Birth of Moses]] — Exodus 2:6; **Pharaoh's daughter *"had compassion on him"*** — *ḥāmal*,
+  to pity or spare, the verb of one with the power to kill who does not (1 Samuel 15:9; 2 Samuel
+  12:6). **Not the Joseph cycle's *raḥămîm***; the pity comes before her recognition that he is a
+  Hebrew, and survives it
 
 ## Related themes
 
@@ -181,3 +188,4 @@ name, and gives the name to a father who cannot see it work.**
 - [[Joseph's Steward]] — *"Peace be to you. Don't be afraid"* (43:23), **the only comfort anyone
   offers the brothers in two chapters**
 - [[Elihu the Buzite]] — the rain sent *"for loving kindness"* (Job 37:13)
+- [[Pharaoh's Daughter (of Moses' time)]] — *ḥāmal*, sparing the child her father condemned (Exodus 2:6)

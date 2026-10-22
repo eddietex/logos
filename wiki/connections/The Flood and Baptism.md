@@ -13,7 +13,7 @@ tags: [connection]
 - Matthew 3:16 — the Spirit descending *"as a dove"* at Jesus' baptism
 - 1 Corinthians 10:1–2 — Israel *"baptized into Moses in the cloud and in the sea"*
 - Romans 6:3–4 — baptism as burial into a death
-- Exodus 2:3, 5 — the other *tēbâ* in the Bible: the pitch-sealed basket that carries Moses through
+- Exodus 2:3, 5 — [[The Birth of Moses]]; the other *tēbâ* in the Bible: the pitch-sealed basket that carries Moses through
   the water
 
 ## Analysis
@@ -79,7 +79,10 @@ between sacramental and memorialist traditions runs straight through this verse.
   killing every other Hebrew boy. Two vessels, one word, both waterproofed the same way, both
   carrying a rescued figure through a judgment by water, and the second of them opening the exodus
   that 1 Corinthians 10:2 then calls a **baptism** — *"baptized into Moses in the cloud and in the
-  sea"*. Genesis, Exodus, and Paul are working the same figure in three registers.
+  sea"*. Genesis, Exodus, and Paul are working the same figure in three registers. **One
+  refinement since this was written**: the sealant is the same in the WEB's English (*pitch*) and in
+  substance, but not in Hebrew — Noah's is *kōper*, the basket's *ḥēmār* and *zepet*, Babel's tar.
+  Set out in [[The Two Arks - Noah's Ship and Moses' Basket]].
 
 ## Significance
 

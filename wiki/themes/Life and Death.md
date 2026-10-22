@@ -398,6 +398,10 @@ the rest of the canon.
 - [[The Oppression in Egypt]] — Exodus 1:16–22; ***ḥāyâ* runs the scene.** Pharaoh: *"if it is a daughter, then she
   shall live"*; the midwives *"saved the baby boys alive"* (Joseph's verb, Genesis 50:20); their
   excuse, that Hebrew women are *ḥāyôt*, *vigorous*. Then the river decree (1:22)
+- [[The Birth of Moses]] — Exodus 2:1–10; **the son put into the river of death and drawn out of
+  it.** The mother obeys 1:22 to the letter — the river — but in a sealed *tēbâ*, an ark; the
+  princess *spares* (*ḥāmal*) the child her father condemned; and his name says *the one who draws
+  out*
 
 ## Related themes
 
@@ -428,3 +432,4 @@ the rest of the canon.
 - [[Job (person)]]
 - [[Sarah]] — the only woman in Scripture given a lifespan, and the first person in it to be buried
 - [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered
+- [[Moses]] — put into the river of the decree and drawn out (Exodus 2:3–10)

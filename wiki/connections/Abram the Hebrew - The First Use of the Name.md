@@ -28,7 +28,8 @@ occurrences is unusually consistent:
   the word is spoken with contempt**, and the contempt is the reason for choosing it: it marks the
   accused as foreign in front of an Egyptian household that had been taking his orders. See
   [[Joseph in Potiphar's House]]. Then the cupbearer describing Joseph
-  (41:12), Pharaoh's daughter (Exodus 2:6), the Philistines throughout 1 Samuel — *"Let the Hebrews
+  (41:12), Pharaoh's daughter (Exodus 2:6, *"This is one of the Hebrews' children"* —
+  [[The Birth of Moses]]), the Philistines throughout 1 Samuel — *"Let the Hebrews
   hear"*, *"the Hebrews are coming out of the holes"*.
 - **Israelites use it of themselves when speaking to foreigners.** Joseph explaining himself to the
   cupbearer: *"I was stolen away out of the land of the Hebrews"* (40:15). Moses and Aaron to

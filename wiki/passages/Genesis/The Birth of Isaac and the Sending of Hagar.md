@@ -426,6 +426,8 @@ Genesis declines to grade the person it is following.
   place where somebody reclaims their own worst moment.
 - [[Yahweh Visited Sarah - Paqad and the Visitations of God]] — *pāqad* from Genesis 21:1 to Exodus
   and the Magnificat.
+- [[Watching from Far Off - Hagar and Moses' Sister]] — 21:16, *"a good way off"*, and the sister
+  of Moses who *"stood far off"* by the river (Exodus 2:4); [[The Birth of Moses]].
 - [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] — Genesis 21:14 and 22:3,
   the same morning, the same silence, and the same voice from the sky.
 - [[Hagar and Sarah in Galatians]] — Galatians 4:21–31, which quotes 21:10 and reads 21:9 as

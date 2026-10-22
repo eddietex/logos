@@ -253,7 +253,8 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
 - [[The Restoration of Job]] — Job 42:7–9, 12 — the friends rebuked; *"Yahweh blessed the latter end of Job more than his
   beginning."*
 - Genesis 18:25 — *"Shouldn't the Judge of all the earth do right?"*
-- Genesis 41:2, 18 and Exodus 2:3 — *ʾāḥû* and *gōmeʾ*, the marsh grass and the papyrus of Egypt.
+- Genesis 41:2, 18 and Exodus 2:3 — *ʾāḥû* and *gōmeʾ*, the marsh grass and the papyrus of Egypt;
+  the papyrus basket is [[The Birth of Moses]].
 - Deuteronomy 4:32; 32:7 — ask the days that are past; ask your father.
 - 1 Chronicles 29:15; Psalm 102:11; 144:4 — our days are a shadow.
 - Psalm 1:3–4; Jeremiah 17:5–8 — the watered tree and the dry shrub.

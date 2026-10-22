@@ -162,6 +162,10 @@ Genesis 1 sets four load-bearing claims:
   outside the dominion of Genesis 1:26, whose wake turns *təhôm*, the deep of Genesis 1:2, white (41:32). No
   combat: the chaos-monster is a creature, admired. See
   [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]].
+- [[The Birth of Moses]] — Exodus 2:2–3; ***"she saw that he was a fine child"*** — *wattēreʾ ʾōtô
+  kî-ṭôb hûʾ*, the sentence of Genesis 1:4 — and **the child laid in a *tēbâ*, the word used
+  otherwise only of Noah's ark.** A new beginning marked in the creation week's vocabulary and the
+  flood's. See [[The Two Arks - Noah's Ship and Moses' Basket]]
 
 ## Related themes
 

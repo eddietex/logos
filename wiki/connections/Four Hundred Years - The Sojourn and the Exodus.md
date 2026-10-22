@@ -13,6 +13,9 @@ tags: [connection]
 - **Exodus 12:40–41** — *"Now the time that the children of Israel lived in Egypt was four hundred
   thirty years."*
 - **Exodus 6:16–20** — Levi, Kohath, Amram, Moses: four names between the descent and the exodus.
+- **Exodus 2:1; Numbers 26:59** — Moses' mother *"a daughter of Levi"*, which Numbers reads
+  literally: *"Jochebed, the daughter of Levi, who was born to Levi in Egypt"* —
+  [[The Birth of Moses]], [[Jochebed]]
 - **Exodus 12:35–36** — the *"great wealth"* of Genesis 15:14, itemized as silver, gold, and
   clothing.
 - **Numbers 32:13; Judges 11:26; 1 Kings 6:1** — the other chronological anchors, and they do not all
@@ -63,6 +66,11 @@ thirty years in Egypt. The Septuagint and the Samaritan Pentateuch both read *"i
 and in the land of Canaan"*, which splits the total and gives roughly two hundred fifteen years in
 each — and two hundred fifteen years in Egypt fits the Levi–Kohath–Amram–Moses genealogy without
 strain, since Exodus 6 gives Kohath a hundred thirty-three years and Amram a hundred thirty-seven.
+**Moses' mother tightens it further.** If *"a daughter of Levi"* (Exodus 2:1) is Levi's own daughter,
+as Numbers 26:59 says, then Moses is Levi's grandson on his mother's side — one woman's lifetime
+from the descent to the deliverer's birth. That is the strongest single argument for a short sojourn
+in Egypt, and the readers who keep four hundred thirty years in Egypt take *daughter* as
+*descendant*. The wiki records both.
 
 **Paul follows the Greek.** Galatians 3:17 counts four hundred thirty years *"from the promise to the
 law"* — Abraham to Sinai, not Jacob to the exodus. That is only possible on the Septuagint's reading

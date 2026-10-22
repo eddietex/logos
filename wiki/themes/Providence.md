@@ -231,6 +231,10 @@ human one innocent.** *"You meant evil"* stands. See
   never speaks; the people multiply in the passive under every measure, and the one channel of his
   action is two women's fear. Psalm 105:25 attributes the Egyptians' hatred to God; Exodus 1 does
   not — recorded, not resolved
+- [[The Birth of Moses]] — Exodus 2:1–10; **providence with God wholly absent.** No divine word or
+  act in the whole rescue: a mother's improvised ark, a sister's watch, the timing of a princess's
+  bath, her pity, and a sister's quick tongue. **The deliverer is preserved by the enemy's own
+  household**, and the narrator leaves the reader to supply what Genesis 50:20 already said
 
 ## Related themes
 
@@ -253,3 +257,4 @@ human one innocent.** *"You meant evil"* stands. See
 - [[Abraham's Servant]] — the one character who names providence as it happens
 - [[Abraham]] — *"God will provide himself the lamb"*, said before he knew it was true
 - [[God]] — who does not appear in the Joseph cycle and is credited with all of it
+- [[Moses]] — preserved without a single divine verb (Exodus 2:1–10)
