@@ -92,10 +92,25 @@ will describe Pharaoh's heart (7:14). Stephen says the reverse: *"mighty in his 
 7:22). **The wiki records the tension and adopts neither standard reconciliation** (Stephen describes
 the man God's presence made; or *words* means the Torah he gave, not his delivery).
 
+**He goes back, and is nearly killed on the way.** He asks Jethro's leave to *"see whether"* his
+brothers *"are still alive"*, saying nothing of the bush, and is sent *"in peace"* (4:18); God tells him
+*"all the men who sought your life are dead"* (4:19) — the *bāqaš* of 2:15 — and he sets out with his
+wife and sons on a donkey and *"God's rod"* in his hand (4:20). On the road he is given the end of the
+contest before it starts: Pharaoh's heart will be hardened, and Pharaoh is to be told *"Israel is my
+son, my firstborn … I will kill your son, your firstborn"* (4:21–23). **Then, at a lodging place,
+*"Yahweh met Moses and wanted to kill him"*** — *bāqaš* again, five verses after the seekers were
+declared dead — **and it is [[Zipporah]], not Moses, who acts**: she circumcises their son with a flint,
+and *"he let him alone"* (4:24–26). The Hebrew names no one in 4:24, only *him*, and the wiki records
+both Moses and the son as the object. **Moses says nothing in the scene.** Then Aaron meets him at the
+mountain and kisses him, and before the elders it is Aaron who speaks and does the signs; *"the people
+believed"* (4:27–31) — **the third objection, *"they will not believe me"* (4:1), answered at the first
+telling.** His route home repeats Jacob's: sent back by God, leave of a father-in-law, attacked on the
+road, a brother's kiss. See [[Moses Returns to Egypt]] and
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
+
 ### What is ahead
 
-The return to Egypt, the circumcision at the lodging place, and the meeting with Aaron (4:18–31);
-the confrontation with Pharaoh and the plagues (5–11); the Passover, the sea, and the
+The confrontation with Pharaoh and the plagues (5–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -123,6 +138,13 @@ sections are written as their pericopes arrive.
 - Given three signs: the rod and the snake, the leprous hand, water to blood — Exodus 4:1–9
 - Pleads he is not eloquent, then asks God to send someone else; God's anger burns, and Aaron is
   appointed his mouth — Exodus 4:10–17
+- Takes leave of Jethro, *"Go in peace"*; told the men who sought his life are dead; sets out with
+  his wife, his sons, and God's rod — Exodus 4:18–20, [[Moses Returns to Egypt]]
+- Told that Pharaoh's heart will be hardened, and given the message *"Israel is my son, my
+  firstborn"* — Exodus 4:21–23
+- Attacked by Yahweh at a lodging place; Zipporah circumcises their son — Exodus 4:24–26
+- Met and kissed by Aaron at God's mountain; with Aaron gathers the elders, who believe and worship —
+  Exodus 4:27–31
 
 ## Appears in
 
@@ -135,6 +157,10 @@ sections are written as their pericopes arrive.
   *"Here I am"*, hides his face, and then objects five times — *who am I*, *what is his name*, *they
   will not believe*, *I am not eloquent*, *send someone else* — and is answered with *ʾehyeh*, the
   signs, Aaron, and the rod
+- [[Moses Returns to Egypt]] — Exodus 4:18–31; **sent home, and nearly killed on the road.** Takes
+  leave of Jethro without mentioning God, is given the message of the firstborn, is attacked by
+  Yahweh at a lodging place and saved by Zipporah's flint, is kissed by Aaron, and is believed — with
+  Aaron doing the speaking
 
 ## Related people
 
@@ -168,3 +194,5 @@ sections are written as their pericopes arrive.
 - [[Signs and Wonders]]
 - [[Language and Speech]]
 - [[Prophecy and Vision]]
+- [[Circumcision]]
+- [[Hardening of the Heart]]

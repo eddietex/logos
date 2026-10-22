@@ -68,7 +68,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   do**: *ʾehyeh ʿimmāk*, *"I will be with you"* (3:12); *"I AM WHO I AM"* and *Yahweh* (3:14–15); three
   signs; *"I will be with your mouth"*; and, in anger, Aaron as Moses' mouth (4:14–16). The refusal of
   Pharaoh and the plunder of Egypt are foretold before anything is asked. See [[The Burning Bush]].
-  Then the return to Egypt (4:18–31).
+  Then the return: Jethro's *"Go in peace"*; on the road, the end of the contest told in advance —
+  *"I will harden his heart"*, and ***"Israel is my son, my firstborn … I will kill your son, your
+  firstborn"*** (4:21–23), the tenth plague announced before the first; **then *"Yahweh met Moses and
+  wanted to kill him"***, and Zipporah's flint and *"bridegroom of blood"* end it (4:24–26). Aaron meets
+  Moses at the mountain with a kiss, speaks and does the signs, and *"the people believed"* (4:31) —
+  the third objection answered at the first telling. See [[Moses Returns to Egypt]].
 - **5–7:13 The first confrontation** — bricks without straw, the name *Yahweh* reaffirmed (6:2–8),
   the genealogy of Moses and Aaron, and the staff that becomes a serpent.
 - **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
@@ -104,7 +109,7 @@ for unit.
 ### The call (3–4)
 
 - [x] [[The Burning Bush]] — Exodus 3:1–4:17
-- [ ] Moses Returns to Egypt — Exodus 4:18–31
+- [x] [[Moses Returns to Egypt]] — Exodus 4:18–31
 
 ### The first confrontation (5–7:13)
 
@@ -199,6 +204,10 @@ for unit.
 - [[The Names of God]]
 - [[Call and Election]]
 - [[Language and Speech]]
+- [[Hardening of the Heart]]
+- [[Birthright and the Firstborn]]
+- [[Circumcision]]
+- [[Faith]]
 
 ## Key people
 

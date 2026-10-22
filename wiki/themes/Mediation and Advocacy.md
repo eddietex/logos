@@ -253,6 +253,9 @@ what Job is asking for.
   to him as God"* — God's words to Moses, Moses' to [[Aaron]], Aaron's to the people. **Moses the
   intercessor of later chapters begins as a man who asks to be excused from mediating at all** (*"Please
   send someone else"*), and is given a mediator of his own
+- [[Moses Returns to Egypt]] — Exodus 4:28–30; **the chain in use.** Moses tells Aaron *"all Yahweh's words"*, and
+  Aaron speaks them to the people and does the signs; Moses is silent in the scene. God → Moses →
+  Aaron → the people, exactly as 4:15–16 arranged
 
 ## Related themes
 

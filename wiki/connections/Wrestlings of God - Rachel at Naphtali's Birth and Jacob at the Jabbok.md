@@ -15,6 +15,8 @@ tags: [connection]
   prevailed.'"* — [[Wrestling at the Jabbok]]
 - Genesis 32:22 — *"his eleven sons"* cross the ford: the children of 29:31–30:24, present for the second
   scene
+- Exodus 4:24–26 — *"On the way at a lodging place, Yahweh met Moses and wanted to kill him"*; Zipporah's
+  flint — [[Moses Returns to Egypt]]
 - Hosea 12:3–4 — the prophets' reading: *"in his manhood he contended with God… he struggled with the
   angel, and prevailed"*
 
@@ -72,6 +74,21 @@ barren.** Naphtali is Bilhah's second son; Rachel's own does not arrive until 30
 the text credits *God remembered* rather than anything she prevailed at.** **The claim to have prevailed
 is made in the middle of a wait that is not over**, which is the honest reading of 30:8 and the one this
 page keeps.
+
+### A later echo — the lodging place (Exodus 4:24–26)
+
+**The Jabbok has a successor in Exodus, and it shares the shape rather than the wrestling.** Moses, like
+Jacob, is sent home by God (*"Return to the land of your fathers"*, Genesis 31:3; *"Go, return into
+Egypt"*, Exodus 4:19), takes leave of a father-in-law — stolen from Laban, given by Jethro — and is
+attacked on the road: *"a man wrestled with him"* (Genesis 32:24); *"Yahweh met him and wanted to kill
+him"* (Exodus 4:24). **Both scenes turn on the verb *nāgaʿ*, *to touch*** — the assailant *touched*
+the hollow of Jacob's thigh (32:25), Zipporah *touched* the foreskin to *"his feet"* (4:25, WEB
+*"cast"*) — and **both are followed by a brother coming to meet the returning man and kissing him**:
+Esau (33:4), Aaron (4:27). **Where Jacob prevails, Moses does nothing; a woman acts for him**, as
+Rachel's *"I have prevailed"* (30:8) put a woman's contest beside the patriarch's. The Hebrew forms
+were checked against the Westminster Leningrad Codex. The parallel is recorded as shape and vocabulary
+shared, not as a claim that one text was written with the other in view. See
+[[Moses Returns to Egypt]].
 
 ## Significance
 

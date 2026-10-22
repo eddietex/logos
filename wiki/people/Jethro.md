@@ -54,7 +54,7 @@ bare name *Reuel* also belongs to Esau's son, and the wiki keeps the two apart �
 
 ### What is ahead
 
-Jethro's flock on Horeb (3:1); his blessing on Moses' return, *"Go in peace"* (4:18); bringing
+Bringing
 Zipporah and the two sons back to Moses at the mountain of God, his confession and sacrifice, and his
 counsel on delegated judges (18:1–27). **The man who asked *"Why is it that you have left the man?"*
 will be the man who tells Moses he cannot judge the people alone** — the judge the Hebrews refused at
@@ -67,7 +67,7 @@ telling him how to do it.
 - Asks why they are home early; told *"An Egyptian delivered us"* — Exodus 2:18–19
 - Invites Moses to eat; Moses agrees to dwell with him; gives him Zipporah — Exodus 2:20–21
 - Moses keeps his flock, and leads it to Horeb — Exodus 3:1, [[The Burning Bush]]
-- *(ahead)* Sends Moses back to Egypt: *"Go in peace"* — Exodus 4:18
+- Sends Moses back to Egypt: *"Go in peace"* — Exodus 4:18, [[Moses Returns to Egypt]]
 - *(ahead)* Brings Zipporah and the sons, blesses Yahweh, sacrifices, and counsels Moses —
   Exodus 18:1–27
 
@@ -79,6 +79,10 @@ telling him how to do it.
 - [[The Burning Bush]] — Exodus 3:1; **named, as *"Jethro, his father-in-law, the priest of Midian"*,
   in the first verse.** The first use of the name *Jethro*; the flock Moses is grazing when God calls
   him is his
+- [[Moses Returns to Egypt]] — Exodus 4:18; **asked for leave, and gives it: *"Go in peace"*.** Moses
+  tells him only that he wants to see whether his brothers are alive, nothing of the bush. Named
+  *Yeter* and *Yitrô* in the same verse; and *ḥōtənô*, *his father-in-law*, shares its root with
+  Zipporah's *ḥătan-dāmîm* seven verses later. **The leave Laban never gave Jacob** (Genesis 31:20)
 
 ## Related people
 

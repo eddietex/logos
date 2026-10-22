@@ -17,7 +17,7 @@ tags: [connection]
   [[Carry Up My Bones - Joseph's Oath and Its Keeping]].
 - **Exodus 3:16; 4:31; 13:19** — the promise cashed: *"I have surely visited you, and seen that which
   is done to you in Egypt"*, and the people believing *"when they heard that Yahweh had visited the
-  children of Israel"*.
+  children of Israel"*. — [[The Burning Bush]], [[Moses Returns to Egypt]]
 - **Ruth 1:6** — *"Yahweh had visited his people in giving them bread."*
 - **1 Samuel 2:21** — *"Yahweh visited Hannah, and she conceived"* — the other closed womb, opened in
   the same word.

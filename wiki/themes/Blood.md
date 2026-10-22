@@ -109,6 +109,10 @@ with that scope.
   one operation Genesis has already said the ground refuses**, since Abel's blood *"cries to me from the
   ground"* (4:10) and Job will demand *"earth, don't cover my blood"* (16:18). **Then a goat's blood does
   the concealing instead**, on a coat, and the deception works. See [[Do Not Cover My Blood]]
+- [[Moses Returns to Egypt]] — Exodus 4:25–26; ***ḥătan-dāmîm*, *"a bridegroom of blood"*.** The first blood in Exodus
+  that turns away Yahweh's killing — the circumcision blood at the lodging place, eight chapters before
+  the Passover blood on the door posts (12:13, 23). The resonance is commonly drawn and not stated by
+  the text
 
 ## Related themes
 

@@ -39,6 +39,9 @@ Mountain"* (1 Kings 19:8) — and there God is not in the fire.
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
   is told to take off his sandals on holy ground, and is given the sign that Israel will serve God
   *"on this mountain"*
+- [[Moses Returns to Egypt]] — Exodus 4:27; **where the brothers meet.** Aaron, sent by Yahweh, meets
+  Moses *"on God's mountain"* and kisses him. The text does not say whether the mountain lay on Moses'
+  road or he returned to it; with its location unknown, the geography cannot settle it
 
 ## Related places
 
@@ -48,7 +51,7 @@ Mountain"* (1 Kings 19:8) — and there God is not in the fire.
 ## Events here
 
 - The burning bush; the call of Moses; the name *ʾehyeh ʾăšer ʾehyeh* — Exodus 3:1–4:17
-- *(ahead)* Aaron meets Moses *"on God's mountain"* — Exodus 4:27
+- Aaron meets Moses *"on God's mountain"* and kisses him — Exodus 4:27, [[Moses Returns to Egypt]]
 - *(ahead)* Water from the rock *"on the rock in Horeb"* — Exodus 17:6
 - *(ahead)* The covenant, the law, and the tabernacle, as *Sinai* — Exodus 19–40
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18

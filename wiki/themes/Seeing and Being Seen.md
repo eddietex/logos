@@ -316,6 +316,8 @@ will finally go both ways.
   *"for he was afraid to look at God"*, and God says he has seen: *rāʾōh rāʾîtî*, *"I have surely seen
   the affliction of my people"* — the narrator's *"God saw"* of 2:25 in God's own mouth. **The one who
   may not be looked at is the one who looks**
+- [[Moses Returns to Egypt]] — Exodus 4:31; ***"he had seen their affliction"*** — **3:7 in the third person, and
+  now heard by the people.** God's seeing is the reason they bow and worship
 
 ## Related themes
 

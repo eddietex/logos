@@ -269,6 +269,9 @@ happens.
   the words in his mouth"*. At 7:1 it is made explicit (*"Aaron your brother shall be your prophet"*), and
   Deuteronomy 18:18 and Jeremiah 1:9 repeat its terms: *"I will put my words in his mouth"*. And the
   sign of 3:12 is a prophetic sign — confirmed only by its fulfillment
+- [[Moses Returns to Egypt]] — Exodus 4:22; ***kōh ʾāmar YHWH*, *"Yahweh says"*** — **the messenger formula of the
+  prophets, first given to Moses**, to say to a king (its next use is 5:1). Checked against the
+  Westminster Leningrad Codex: not found in Genesis
 
 ## Related themes
 

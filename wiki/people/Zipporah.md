@@ -23,13 +23,27 @@ and [[Moses Flees to Midian]].
 Gershom is Moses' speech, not hers** — unlike the matriarchs of Genesis, who name most of Jacob's
 sons, she names neither child in the text.
 
+### The bridegroom of blood (Exodus 4:24–26)
+
+**Her only words in Scripture are spoken over her son's blood.** On the way back to Egypt, at a lodging
+place, *"Yahweh met Moses and wanted to kill him"*; *"Zipporah took a flint, and cut off the foreskin of
+her son, and cast it at his feet; and she said, 'Surely you are a bridegroom of blood to me'"*, and
+*"he let him alone"*. **The Midianite wife performs the covenant sign the Hebrew household has
+neglected**, and the attack stops — the first blood in Exodus that turns away Yahweh's killing. **She
+acts; Moses, in the scene, does nothing.** Almost everything else is ambiguous: the Hebrew of 4:24 says
+only *him*, not *Moses*; *"cast it at his feet"* is *nāgaʿ*, *touched* — the verb of the Jabbok — and
+whose feet is not said; and *ḥătan-dāmîm* may be said to Moses, to the child, or be an old formula the
+narrator glosses in 4:26b. ***Ḥātān* shares its root with *ḥōtēn*, the word that names her father
+Jethro as Moses' father-in-law four verses earlier.** The readings are recorded on
+[[Moses Returns to Egypt]]; none is adopted.
+
+**Her cutting is the verb of the penalty.** *Wattikrōt* — she *cut off* the foreskin — is *kārat*, the
+verb of Genesis 17:14, where the uncircumcised male *"shall be cut off from his people"*. See
+[[Circumcision]].
+
 ### What is ahead
 
-**Exodus 4:24–26**, the most obscure three verses in the book: on the way back to Egypt *"Yahweh met
-Moses and wanted to kill him"*, and *"Zipporah took a flint, and cut off the foreskin of her son, and
-cast it at his feet; and she said, 'Surely you are a bridegroom of blood to me'"*. **The Midianite
-wife performs the covenant sign the Hebrew husband has neglected**, and the attack stops. **Exodus
-18:2** has her sent back to her father at some point and returned at the mountain of God. **Numbers
+**Exodus 18:2** has her sent back to her father at some point and returned at the mountain of God. **Numbers
 12:1**, Miriam and Aaron speaking *"against Moses because of the Cushite woman whom he had
 married"*, is sometimes read as Zipporah (Midian and *Cushan* stand in parallel at Habakkuk 3:7) and
 sometimes as a second wife; the wiki will record both when Numbers is reached. These sections are
@@ -41,7 +55,9 @@ written as their pericopes arrive.
   rescued by Moses — Exodus 2:16–19
 - Given to Moses as his wife — Exodus 2:21
 - Bears Gershom — Exodus 2:22
-- *(ahead)* Circumcises her son at the lodging place — Exodus 4:24–26
+- Set on a donkey with her sons for the journey to Egypt — Exodus 4:20,
+  [[Moses Returns to Egypt]]
+- Circumcises her son with a flint at the lodging place; *"a bridegroom of blood"* — Exodus 4:24–26
 - *(ahead)* Sent away and brought back by Jethro — Exodus 18:2–6
 
 ## Appears in
@@ -49,6 +65,9 @@ written as their pericopes arrive.
 - [[Moses Flees to Midian]] — Exodus 2:16–22; **one of seven sisters at the well, then given in
   marriage and bearing a son, in three clauses and without a word.** The first bride of the
   well-scene from outside Abraham's household
+- [[Moses Returns to Egypt]] — Exodus 4:20, 24–26; **the flint and the bridegroom of blood.** When
+  Yahweh seeks to kill *him*, she circumcises her son and speaks her only words in Scripture; *"he let
+  him alone"*
 
 ## Related people
 
@@ -63,3 +82,4 @@ written as their pericopes arrive.
 - [[Marriage]]
 - [[The Nations]]
 - [[Circumcision]]
+- [[Blood]]

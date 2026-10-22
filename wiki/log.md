@@ -11268,3 +11268,98 @@ box checked, chapters 3–4 structure note, key people, places, and themes. Inde
 53), people (+2 rows, 8 revised), places (+1, 4 revised), themes (+2, 23 revised), connections (+4, 6
 rows' references extended), `wiki/index.md` (95 passages, 156 people, 79 places, 70 themes, 283
 connections).
+
+## [2026-10-22] ingest | Exodus 4.18-31 — Moses Returns to Egypt
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *Moses Returns to Egypt — Exodus
+4:18–31*. Boundary kept as planned: 4:18 leaves the mountain for Jethro's house, and 5:1 opens the
+first audience with Pharaoh. No discussion step; it is written into the passage page.
+
+### Source check carried over from the previous ingest
+
+The previous entry flagged the Greek of Mark 12:26 on
+[[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] as recalled, not checked. **Checked
+against the SBL Greek New Testament (2010, LogosBible/SBLGNT on GitHub): Mark 12:26 reads *Egō ho
+theos Abraam* with no verb, and Matthew 22:32 reads *Egō eimi ho theos Abraam*.** The claim stands.
+The SBLGNT apparatus was not consulted, so the page now says that a manuscript variant adding *eimi*
+in Mark is not ruled out, and names the edition at the point of the claim. *Epi tou batou* (Mark 12:26)
+was confirmed at the same time. The Hebrew of Exodus 3:6 (*ʾānōkî ʾĕlōhê ʾābîkā*, verbless) was
+checked against the Westminster Leningrad Codex and the page says so.
+
+### The passage page
+
+[[Moses Returns to Egypt]] — the leave from Jethro without a word of the bush; *"the men who sought
+your life are dead"* and Matthew 2:20; *"his sons"* before Eliezer is named; *"God's rod"*; *môpətîm*;
+*ʾăḥazzēq*, the first hardening statement; *kōh ʾāmar YHWH*, the first messenger formula; *"Israel is
+my son, my firstborn"*; *wəyaʿabdēnî*; the past-tense *wattəmāʾēn*; the death of the firstborn
+announced before the first plague; the lodging place (*pāgaš*, *bāqaš*, the object unnamed in 4:24,
+*kārat* against Genesis 17:14, *nāgaʿ* against Genesis 32:25, *ḥătan-dāmîm* and *ḥōtēn*, *lammûlōt*);
+a table setting the lodging place beside the Jabbok; Aaron's kiss; *"the people believed"* answering
+4:1; *pāqad*; *wayyiqqədû wayyištaḥăwû* (Genesis 24:26; Exodus 12:27); and a closing section on the
+three sons (Israel, Pharaoh's, Moses').
+
+### Judgment calls
+
+- **New theme [[Hardening of the Heart]]**, because the theme is introduced here and runs through
+  every plague to chapter 14. The occurrences of *ḥāzaq*, *kābēd*, and *qāšâ* with *lēb* were counted
+  from the WLC (whose Exodus 8 runs four verses ahead of the English). Three readings of the order of
+  agents recorded, none adopted.
+- **New connection [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]**. Three
+  readings of Matthew's use of Hosea recorded, none adopted. The Septuagint of Hosea 11:1 is described
+  only as *commonly reported* to read *his children*; it was not checked.
+- **No page for Eliezer**, implied by *"his sons"* (4:20) and named only at 18:4; or for the elders.
+- **Tensions recorded, not resolved**: whom Yahweh attacked (Moses or the son); why; the three readings
+  of *ḥătan-dāmîm*; whose *feet*; the order of 4:18 and 4:19; whether Horeb lay on Moses' road.
+- **The Arabic cognate of *ḥātan*** is cited on the passage page as commonly cited and not checked.
+
+### Corrections made while drafting
+
+- A draft called Aaron's kiss the first meeting of brothers in Scripture without a prior quarrel;
+  Joseph's meeting with Benjamin (Genesis 43:29–30; 45:14) has none. Reworded to compare Esau and
+  Joseph's brothers only.
+- A draft said Horeb does not lie on the road from Midian to Egypt; [[Horeb]] records the location as
+  unknown. Reworded.
+- A draft called God's rod the only thing named that Moses carries out of Midian besides his family;
+  the donkey is named too. Removed.
+- A draft on [[Marriage]] called Zipporah's words the only words a wife speaks to her husband in
+  Exodus; not checked, and the addressee is disputed. Removed.
+- A draft on [[God]] called the attack the *most* unexplained act of God in the Torah; softened to
+  *among the least explained*.
+- **[[Circumcision]] said Zipporah touched *Moses'* feet.** The text does not say whose; the line was
+  revised, with a note on the page that it was.
+
+Quotations outside Genesis/Exodus checked against the WEB at bible-api.com before writing: Matthew
+2:13–15, 19–21; Hosea 11:1–4; Jeremiah 31:9; Joshua 5:2–3; Romans 9:4, 17–18; Deuteronomy 10:16; 14:1;
+32:6; Jeremiah 4:4; Psalm 89:26–27; Psalm 95:8; Hebrews 3:8; Isaiah 6:10; Isaiah 63:16; Colossians
+1:15; Hebrews 12:23; Luke 3:38. Cited by reference or paraphrase only: Hosea 11:8–9; Acts 7:30
+(quoted in the previous ingest). Genesis and Exodus texts checked against `raw/bible/`. **Hebrew
+forms checked against the Westminster Leningrad Codex (Open Scriptures `morphhb`)**: Exodus 2:15;
+3:6, 20; 4:18–31; 7:3, 13–14; 9:12; 12:27; 18:4; the hardening verbs through 14:17; Genesis 17:14;
+24:26; 32:25–26 (Hebrew numbering); 33:4; Hosea 11:1; Isaiah 6:10. *Kōh ʾāmar YHWH* was searched for
+in the WLC of Genesis, Job, and Exodus; Exodus 4:22 is the first. Greek of Matthew 2:15 checked
+against the SBLGNT.
+
+### Connection pages
+
+Created (1): [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]. Revised (6):
+[[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] (source check above),
+[[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] (new section on the lodging
+place), [[Every Son Who Is Born - Pharaoh's Decree and Herod's]],
+[[Child Sacrifice and the Redemption of the Firstborn]] (new section on Exodus 4:22–23),
+[[Yahweh Visited Sarah - Paqad and the Visitations of God]], and
+[[Who Made You a Prince and a Judge - The Rejected Deliverer]].
+
+### Pages created or revised
+
+Created (3): the passage page, [[Hardening of the Heart]], and the connection page. People revised (7):
+[[Moses]], [[Zipporah]] (new section *The bridegroom of blood*), [[Gershom]], [[Aaron]], [[Jethro]],
+[[Pharaoh (of the Exodus)]], [[God]] (new *Exodus 4:18–31* subsection). Places revised (3):
+[[Midian]], [[Egypt]], [[Horeb]]. Themes revised (15): [[Birthright and the Firstborn]], [[Adoption]],
+[[Circumcision]], [[Blood]], [[Signs and Wonders]], [[Faith]], [[Brotherhood]],
+[[Slavery and Servitude]], [[Life and Death]], [[Marriage]], [[Prophecy and Vision]],
+[[Mediation and Advocacy]], [[Seeing and Being Seen]], [[Judgment]], [[Covenant]]. Book page: box
+checked, chapters 3–4 structure note, key themes. Indexes: books (Exodus 5 / 53), people (7 rows
+revised), places (3 revised), themes (+1, 15 revised), connections (+1, 4 rows' references extended),
+`wiki/index.md` (96 passages, 156 people, 79 places, 71 themes, 284 connections).
+`scripts/link-check.sh` clean.

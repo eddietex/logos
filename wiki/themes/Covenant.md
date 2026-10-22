@@ -315,6 +315,9 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   by the three parties to it; promises the land of Genesis 15:18–21 by its peoples; and quotes Joseph's
   *"God will surely visit you"* (Genesis 50:24) as already done — *"I have surely visited you"* (3:16).
   **The commission is the covenant's execution, not a new covenant**
+- [[Moses Returns to Egypt]] — Exodus 4:24–26, 31; **the covenant's sign required of the deliverer's own house**, by an
+  attack the text does not explain and a circumcision that ends it; and *pāqad* — Joseph's *"God will
+  surely visit you"* — heard and believed by the people
 
 ## Related themes
 

@@ -1,0 +1,94 @@
+---
+type: theme
+tags: [theme]
+---
+# Hardening of the Heart
+
+## Definition / overview
+
+**The heart made strong, heavy, or hard against God's word — most of all Pharaoh's, in Exodus 4–14,
+where God says he will do it before Moses has met the king.** In Hebrew thought the *lēb*, *heart*,
+is the seat of will and understanding rather than of feeling, so a hardened heart is a will that will
+not yield and a mind that will not see. **The theme is introduced at Exodus 4:21** — *"I will harden
+his heart and he will not let the people go"* — and runs through every plague. See
+[[Moses Returns to Egypt]].
+
+**Exodus uses three verbs, and the WEB renders all three *harden* or close to it:**
+
+| verb | sense | where (English verse numbers) |
+|---|---|---|
+| ***ḥāzaq*** | to be or make *strong*, firm | 4:21; 7:13, 22; 8:19; 9:12, 35; 10:20, 27; 11:10; 14:4, 8, 17 |
+| ***kābēd*** | to be or make *heavy* | 7:14 (*"stubborn"*); 8:15, 32; 9:7, 34; 10:1 |
+| ***qāšâ*** | to be or make *hard* | 7:3 |
+
+**Kābēd is the word of Moses' *"heavy"* mouth** (*kəbad-peh*, 4:10) — the deliverer slow of speech
+against a king slow of heart — and **it is also the word for *glory***: at 14:4 and 14:17 God says he
+will *get honour* (*ʾikkābədâ*, the same root) over Pharaoh. **The heavy heart and the heavy glory are
+one word in Hebrew.** The verbs were counted from the Westminster Leningrad Codex, whose chapter 8
+runs four verses ahead of the English (Hebrew 8:11, 15, 28 = English 8:15, 19, 32).
+
+## Development across Scripture
+
+### Exodus — who hardens whom
+
+**The order of agents is the old question, and the text sets it out in sequence:**
+
+1. **God foretells that he will harden** — 4:21 (*ḥāzaq*), 7:3 (*qāšâ*).
+2. **Pharaoh's heart *is* hardened, with no agent named, "as Yahweh had spoken"** — 7:13, 22; 8:19;
+   9:7; and 7:14, *"Pharaoh's heart is stubborn"*.
+3. **Pharaoh hardens his own heart** — 8:15, *"when Pharaoh saw that there was a respite, he
+   hardened his heart"*; 8:32; 9:34, *"he sinned yet more, and hardened his heart, he and his
+   servants"*.
+4. **Yahweh hardens Pharaoh's heart, as narrated fact** — first at 9:12, the sixth plague, *"Yahweh
+   hardened the heart of Pharaoh"*; then 10:1, 20, 27; 11:10; 14:8.
+
+**Three standard readings, none adopted:**
+
+- **Judicial hardening.** Pharaoh hardens himself first, and God confirms him in it — the narrated
+  divine hardening begins only after Pharaoh's own (8:15, 32). The foretelling at 4:21 is
+  foreknowledge of the outcome, not its cause.
+- **Sovereign hardening.** God's word at 4:21 and 7:3 governs the whole sequence, and the verses in
+  which Pharaoh hardens himself describe the same event from the human side. Paul reads it so:
+  *"he has mercy on whom he desires, and he hardens whom he desires"* (Romans 9:18).
+- **Both at once.** The text makes Pharaoh fully responsible (*"he sinned yet more"*, 9:34) and God
+  fully in control, and does not resolve the two — as Joseph's *"you meant evil against me, but God
+  meant it for good"* (Genesis 50:20) held a human and a divine intention in one act. See
+  [[Providence]].
+
+**The purpose is stated, and it is not Pharaoh's destruction alone.** *"That I may show these my
+signs among them"* (10:1); *"the Egyptians shall know that I am Yahweh"* (14:4). **The hardening
+lengthens the contest so that the signs are seen.** See [[Signs and Wonders]].
+
+### Ahead
+
+- Deuteronomy 2:30 — Sihon's spirit hardened *(not yet ingested)*
+- Joshua 11:20 — the Canaanite kings *(not yet ingested)*
+- Isaiah 6:10 — *"Make the heart of this people fat. Make their ears heavy"* — *heavy* again; quoted
+  in the Gospels and Acts *(not yet ingested)*
+- Psalm 95:8; Hebrews 3:8, 15 — *"Don't harden your heart, as at Meribah"*, said to Israel *(not yet
+  ingested)*
+- Romans 9:17–18 — Pharaoh as Paul's example *(not yet ingested)*
+
+**The theme turns around in the rest of Scripture.** In Exodus it is said of Egypt's king; in the
+Psalms, the prophets, and the New Testament it is said, more often, of Israel. This section will grow
+as those passages are ingested.
+
+## Key passages
+
+- [[Moses Returns to Egypt]] — Exodus 4:21; **the first hardening statement**, made before Moses has
+  met Pharaoh, together with the announcement of the death of the firstborn
+
+## Related themes
+
+- [[Signs and Wonders]] — what the hardening lengthens the contest to display
+- [[Providence]] — God's control of a human will that remains responsible
+- [[Judgment]] — the hardening as sentence, on the judicial reading
+- [[Kingship and Empire]] — the king who will not yield
+- [[Language and Speech]] — the *heavy* mouth and the *heavy* heart
+- [[Sin]] — *"he sinned yet more"* (9:34)
+
+## Related people
+
+- [[Pharaoh (of the Exodus)]] — the hardened king
+- [[God]] — who says he will harden
+- [[Moses]] — sent to a king whose refusal he is told in advance

@@ -1389,6 +1389,21 @@ Yahweh?"* (4:11); and when Moses asks him to send someone else, **his anger burn
 narrator says so — and he answers it with help**, not punishment: Aaron (4:14). See
 [[The Burning Bush]], [[The Names of God]], and [[I AM WHO I AM - Exodus 3.14 and John 8.58]].
 
+### He calls Israel his firstborn, and then seeks to kill Moses — Exodus 4:18–31
+
+**He answers the fear Moses never voiced** — *"all the men who sought your life are dead"* (4:19) — and
+then tells Moses the end of the contest before it begins: *"I will harden his heart"* (4:21), the first
+hardening statement. **He names Israel, for the first time in Scripture, his son**: *"Israel is my son,
+my firstborn … Let my son go, that he may serve me"* — in the first *"Yahweh says"* (*kōh ʾāmar YHWH*)
+in Scripture — and announces the death of Pharaoh's firstborn as the price of refusal (4:22–23).
+**Then, at a lodging place, *"Yahweh met Moses and wanted to kill him"*** (4:24) — *bāqaš*, the verb of
+the men who *sought* Moses' life and are dead. **No reason is given**; the Hebrew does not even say
+whether the object is Moses or his son; and the attack ends when Zipporah circumcises the boy. **It is
+among the least explained acts of God in the Torah**, and like the wrestler at the Jabbok it falls on a
+man God has himself sent home. Then he sends Aaron to meet Moses (4:27), and the people, hearing that
+he has *visited* them and *seen* their affliction, worship (4:31). See [[Moses Returns to Egypt]],
+[[Hardening of the Heart]], and [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1547,6 +1562,10 @@ narrator says so — and he answers it with help**, not punishment: Aaron (4:14)
   God of Abraham, Isaac, and Jacob*; announces that he has come down to deliver; gives the name
   *ʾehyeh ʾăšer ʾehyeh* and *Yahweh*; foretells Pharaoh's refusal and the plunder; gives three signs;
   is angry at Moses' refusal and appoints Aaron — Exodus 3:1–4:17, [[The Burning Bush]]
+- Tells Moses the seekers of his life are dead; foretells the hardening of Pharaoh's heart; names
+  Israel his firstborn son and announces the death of Pharaoh's; meets Moses at a lodging place and
+  seeks to kill him, until Zipporah circumcises her son; sends Aaron to meet Moses — Exodus 4:18–31,
+  [[Moses Returns to Egypt]]
 
 ## Appears in
 
@@ -1875,6 +1894,9 @@ narrator says so — and he answers it with help**, not punishment: Aaron (4:14)
 - [[The Burning Bush]] — Exodus 3:2–4:17; **his first sustained speech in Exodus, and his name.**
   Speaks from a bush that is not consumed; *ʾehyeh ʿimmāk*, *ʾehyeh ʾăšer ʾehyeh*, *ʾehyeh ʿim-pîkā*;
   answers five objections, is angry at the fifth, and sends Moses anyway
+- [[Moses Returns to Egypt]] — Exodus 4:19–27; **Father of a firstborn nation, and assailant of his own
+  messenger.** *"Israel is my son, my firstborn"*; *"I will harden his heart"*; *"Yahweh met Moses and
+  wanted to kill him"* — unexplained, and ended by a Midianite woman's flint
 
 ## Related people
 
@@ -1951,3 +1973,5 @@ narrator says so — and he answers it with help**, not punishment: Aaron (4:14)
 - [[Kingship and Empire]]
 - [[Hospitality]]
 - [[Prayer]]
+- [[Hardening of the Heart]]
+- [[Adoption]]

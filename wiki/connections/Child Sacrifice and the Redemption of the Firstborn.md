@@ -9,6 +9,8 @@ tags: [connection]
 
 - **Genesis 22:1–19** — God asks for a son as a burnt offering and stops the knife. See
   [[The Binding of Isaac]].
+- **Exodus 4:22–23** — *"Israel is my son, my firstborn … Let my son go, that he may serve me …
+  Behold, I will kill your son, your firstborn."* — [[Moses Returns to Egypt]]
 - **Exodus 13:2, 11–15; 22:29–30; 34:19–20** — every firstborn is Yahweh's; every firstborn son is
   redeemed
 - **Numbers 3:11–13, 40–51; 18:15–16** — the Levites taken instead of the firstborn, and the
@@ -98,6 +100,17 @@ whole question and its answer in three verses.
 > I give my firstborn for my disobedience? The fruit of my body for the sin of my soul? **8** He has
 > shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy,
 > and to walk humbly with your God? *(Micah 6:7–8)*
+
+### Where the firstborn claim starts — Exodus 4:22–23
+
+**The law of the firstborn rests on a sentence spoken before the plagues begin.** God names Israel his
+firstborn son and puts Pharaoh's firstborn in the balance against it: release mine, or I take yours.
+**When the night comes, Israel's firstborn are spared and Egypt's are not, and the redemption law
+follows directly from it** — *"Yahweh killed all the firstborn in the land of Egypt … Therefore I
+sacrifice to Yahweh all that opens the womb, being males; but all the firstborn of my sons I redeem"*
+(13:15). **Every redeemed firstborn in Israel is a reminder of a firstborn that was not.** Three verses
+after the announcement, at the lodging place, Moses' own son is cut and Yahweh *"let him alone"*
+(4:24–26). See [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
 
 ## Significance
 

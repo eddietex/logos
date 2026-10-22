@@ -36,9 +36,17 @@ Joseph and his brothers, **Aaron is the first brother in Scripture whose coming 
 gladness** (4:14). The rivalry, when it comes (Numbers 12), is over prophetic standing and not an
 inheritance. See [[Brotherhood]].
 
+**He meets Moses as foretold, and speaks for him at once.** *"Yahweh said to Aaron, 'Go into the
+wilderness to meet Moses.' He went, and met him on God's mountain, and kissed him"* (4:27). **His first
+act in Scripture is to go out and kiss his brother**, with no quarrel to get past — unlike Esau's (Genesis 33:4) or Joseph's
+(45:15). Moses tells him *"all Yahweh's words"* and the signs; and before the elders **it is Aaron who
+*"spoke all the words which Yahweh had spoken to Moses, and did the signs in the sight of the
+people"*** (4:30) — signs given into Moses' hand. *"The people believed"* (4:31). See
+[[Moses Returns to Egypt]].
+
 ### What is ahead
 
-The meeting at the mountain and the signs before the elders (4:27–31); the confrontation with Pharaoh
+The confrontation with Pharaoh
 and the rod that becomes a *tannîn* (5–7); the genealogy that names his parents, his wife Elisheba,
 and his sons (6:20–25); the plagues; Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
@@ -48,13 +56,17 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
   and to be his *mouth* — Exodus 4:14–16, [[The Burning Bush]]
-- *(ahead)* Sent into the wilderness to meet Moses; meets him on God's mountain and kisses him —
-  Exodus 4:27
+- Sent into the wilderness to meet Moses; meets him on God's mountain and kisses him —
+  Exodus 4:27, [[Moses Returns to Egypt]]
+- Speaks Yahweh's words and does the signs before the elders and the people, who believe — Exodus
+  4:29–31
 
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 4:14–16; **named, not present.** Offered by God when Moses asks for
   someone else; Moses is to be *"to him as God"*, and he is to be Moses' mouth
+- [[Moses Returns to Egypt]] — Exodus 4:27–31; **the mouth, in use.** Meets Moses on God's mountain
+  and kisses him; speaks all the words and does the signs before the people, and they believe
 
 ## Related people
 
@@ -71,3 +83,5 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Prophecy and Vision]]
 - [[Mediation and Advocacy]]
 - [[Priesthood]]
+- [[Signs and Wonders]]
+- [[Faith]]

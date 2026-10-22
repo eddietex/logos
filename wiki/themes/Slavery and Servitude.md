@@ -267,6 +267,9 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   announced as a change of master before anything else. And the law of release takes up the bush's
   *rêqām*: a freed slave is not to be sent away *"empty"* (Deuteronomy 15:13), as Israel will not leave
   Egypt *"empty-handed"* (3:21). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[Moses Returns to Egypt]] — Exodus 4:23; ***"Let my son go, that he may serve me"*** — *wəyaʿabdēnî* — **the
+  book's thesis in one word.** Egypt made Israel serve; God claims the service, as a father claims a
+  son. The demand is a change of master
 
 ## Related themes
 

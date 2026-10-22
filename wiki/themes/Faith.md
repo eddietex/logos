@@ -159,6 +159,9 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   15:6). *"They will not believe me"* is Moses' third objection, and it contradicts God's *"They will
   listen to your voice"* (3:18); **God answers with signs, not with a rebuke**, and the question is
   closed at 4:31: *"The people believed."* See [[Signs and Wonders]]
+- [[Moses Returns to Egypt]] — Exodus 4:31; ***"The people believed"*** — *wayyaʾămēn hāʿām* — **the third objection
+  (*"they will not believe me"*, 4:1) answered at the first telling.** The belief is the high point of
+  Israel's faith before the sea, and it is undone within a chapter (5:21; 6:9)
 
 ## Related themes
 

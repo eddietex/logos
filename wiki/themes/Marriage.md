@@ -255,6 +255,9 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   Moses waters the flock of seven sisters, is invited in, and *"was content to dwell with the man. He
   gave Moses Zipporah, his daughter"* — no courtship, no bride-price, no word from the bride. See
   [[The Betrothal at the Well]] and [[Zipporah]]
+- [[Moses Returns to Egypt]] — Exodus 4:25–26; ***ḥătan-dāmîm*, *"a bridegroom of blood"*** — Zipporah's only words in
+  Scripture, said to Moses, to the child, or as an old formula — the text does not settle which. *Ḥātān* shares its root with *ḥōtēn*, *father-in-law*, the word for Jethro at
+  4:18
 
 ## Related themes
 

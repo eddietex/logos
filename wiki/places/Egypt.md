@@ -216,6 +216,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   from, and will strike and strip.** *"I have surely seen the affliction of my people who are in
   Egypt"*; *"I will reach out my hand and strike Egypt with all my wonders"* — *nākâ*, the verb of
   Moses' secret blow (2:12); and *"You shall plunder the Egyptians"*
+- [[Moses Returns to Egypt]] — Exodus 4:19–31; **the house from which God claims his son.** *"Israel
+  is my son, my firstborn … Let my son go"*, and Egypt's king will lose his own firstborn if he
+  refuses (4:22–23). Moses returns because *"the men who sought your life are dead"* (4:19); and in
+  Egypt the elders hear the words, see the signs, and believe (4:29–31). Hosea will call the Exodus
+  the moment God *"called my son out of Egypt"* (Hosea 11:1)
 
 ## Related places
 
@@ -272,3 +277,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Exodus 2:11–25, [[Moses Flees to Midian]]
 - God announces at Horeb that he will strike Egypt with wonders and that Israel will plunder it —
   Exodus 3:19–22, [[The Burning Bush]]
+- Moses returns; Aaron speaks Yahweh's words and does the signs before the elders, and the people
+  believe and worship — Exodus 4:29–31, [[Moses Returns to Egypt]]

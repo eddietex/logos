@@ -11,6 +11,8 @@ tags: [connection]
   dominion over us?"* — [[Joseph Sold into Slavery]]
 - **Exodus 2:13–15** — a Hebrew to Moses: *"Who made you a prince and a judge over us? Do you plan to
   kill me, as you killed the Egyptian?"*; and Moses flees — [[Moses Flees to Midian]]
+- **Exodus 4:29–31** — the return, sent: *"The people believed … they bowed their heads and
+  worshiped"* — [[Moses Returns to Egypt]]
 - **Exodus 18:13** — *"Moses sat to judge the people, and the people stood around Moses from the
   morning to the evening"*
 - **Acts 7:23–29, 35** — Stephen: *"He supposed that his brothers understood that God, by his hand,

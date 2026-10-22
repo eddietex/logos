@@ -170,6 +170,10 @@ holds up Esau as the warning.
   sons are unnamed and unranked; the three daughters are named and given *"an inheritance among their brothers"* —
   beyond the rule of Numbers 27:8, where daughters inherit only if there is no son. See
   [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]].
+- [[Moses Returns to Egypt]] — Exodus 4:22–23; **the firstborn title given to a nation.** *"Israel is my son, my
+  firstborn"* — under the name of the younger twin — and *"I will kill your son, your firstborn"*: the
+  tenth plague announced first, as measure for measure. Moses' own firstborn is circumcised at the
+  lodging place three verses later. See [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
 
 ## Related themes
 
@@ -182,6 +186,7 @@ holds up Esau as the warning.
 - [[Deception]] — how the blessing is taken two chapters later
 - [[Sacrifice and Offering]] — the firstborn's redemption, and the lamb that stands in
 - [[Strife and Peacemaking]] — what the inversions cost, in every generation that has one
+- [[Hardening of the Heart]] — the refusal that costs Pharaoh his firstborn
 
 ## Related people
 

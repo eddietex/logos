@@ -44,8 +44,10 @@ a mark that can be perfectly kept and entirely missed.
   proposal *deceit* in the same verse it reports it, and the episode is the Bible's own warning that
   the sign can be detached from everything it means.
 - **Exodus 4:24–26** — the strangest passage in the Torah. Yahweh meets Moses at a lodging place and
-  seeks to kill him; Zipporah cuts her son's foreskin with a flint, touches Moses' feet with it, and
-  says *"You are a bridegroom of blood to me."* Nothing about it is explained.
+  seeks to kill him — the Hebrew says only *him* — and Zipporah cuts her son's foreskin with a flint,
+  touches it to *"his feet"*, and says *"You are a bridegroom of blood to me."* Nothing about it is
+  explained. (This line earlier said *Moses'* feet; the text does not say whose, and the ingest of
+  [[Moses Returns to Egypt]] revised it.)
 - **Exodus 12:43–49** — circumcision as the condition for eating the Passover, and therefore the
   door through which a foreigner enters Israel: *"when a stranger lives as a foreigner with you, and
   will keep the Passover to Yahweh, let all his males be circumcised … he shall be as one who is born
@@ -116,6 +118,11 @@ a mark that can be perfectly kept and entirely missed.
   chapter with no divine name in it anywhere, the first such chapter in the book. **The wiki records
   no verdict from the text on the misuse**, because the text gives none until 49:5–7, and that curse
   is on the killing rather than on the rite
+- [[Moses Returns to Egypt]] — Exodus 4:24–26; **the sign done by a Midianite woman to save — whom, the Hebrew does not
+  say.** *"Yahweh met him and wanted to kill him"*; Zipporah *"cut off"* (*kārat*, the verb of the
+  penalty in Genesis 17:14) her son's foreskin with a flint and *touched* it to *"his feet"*; *"he let
+  him alone"*. The household of the man sent to deliver the covenant people had lacked the covenant's
+  sign — the majority reading, which the text implies by the remedy and never states
 
 ## Related themes
 

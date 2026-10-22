@@ -325,6 +325,9 @@ rule are the conditions the rest of Scripture is set in.
   *Wəhikkêtî* is *nākâ*, **the verb Moses used on one Egyptian in secret** (2:12): what the man did by
   his own hand to one, God will do by his to the country. **The judgment is announced before the
   request it answers is made**, with the refusal foreknown
+- [[Moses Returns to Egypt]] — Exodus 4:21–23; **the last plague announced before the first.** *"I will kill your son,
+  your firstborn"*, measure for measure for a king whose house killed Israel's sons — and *"I will
+  harden his heart"*, the first hardening statement
 
 ## Related themes
 
@@ -348,6 +351,7 @@ rule are the conditions the rest of Scripture is set in.
 - [[Pride and Self-Exaltation]] — the offence the prophets name, and the reversal that answers it
 - [[Hospitality]] — how Genesis 19, Judges 19, and Luke 10:10–12 all measure a place before judging
   it
+- [[Hardening of the Heart]] — the hardening as sentence, on the judicial reading
 
 ## Related people
 

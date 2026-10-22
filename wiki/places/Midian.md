@@ -77,6 +77,9 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - [[The Burning Bush]] — Exodus 3:1; **the pasture behind which lies the mountain.** Moses leads
   Jethro's flock *"to the back of the wilderness"* and comes to [[Horeb]]; Midian's country is within
   a shepherd's reach of God's mountain
+- [[Moses Returns to Egypt]] — Exodus 4:18–20; **left in peace.** Moses asks Jethro's leave and is
+  given it — *"Go in peace"* — and God's word comes to him *"in Midian"*: *"all the men who sought your
+  life are dead"*. The refuge is left with a blessing, unlike Jacob's flight from Laban's Haran
 
 ## Related places
 
@@ -92,6 +95,8 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - Struck by Hadad son of Bedad in the field of Moab — Genesis 36:35
 - Moses' forty years of exile, his marriage, and the burning bush — Exodus 2:15–3:12;
   [[Moses Flees to Midian]], [[The Burning Bush]]
+- Moses takes leave of Jethro and sets out for Egypt with his family — Exodus 4:18–20,
+  [[Moses Returns to Egypt]]
 - Jethro's counsel on delegated judges — Exodus 18
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31
 - The raids Gideon ends — Judges 6–8

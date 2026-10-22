@@ -12,7 +12,7 @@ tags: [connection]
 - **Exodus 2:1–10** — the son hidden three months, set in the river in an ark, and drawn out by
   Pharaoh's own daughter — [[The Birth of Moses]]
 - **Exodus 2:15; 4:19** — *"he sought to kill Moses"*; *"Go, return into Egypt; for all the men who
-  sought your life are dead"* *(not yet ingested)*
+  sought your life are dead"* — [[Moses Flees to Midian]], [[Moses Returns to Egypt]]
 - **Matthew 2:13–18** — the flight into Egypt; Herod *"killed all the male children who were in
   Bethlehem and in all the surrounding countryside, from two years old and under"* (2:16); Rachel
   weeping (2:18)
@@ -49,6 +49,13 @@ neither involves a confrontation with him. See [[The Birth of Moses]].
 **Stephen's retelling compresses Exodus 1 toward the same point**: the three measures become one —
 *"forced them to throw out their babies, so that they wouldn't stay alive"* (Acts 7:19) — and the
 next verse is *"At that time Moses was born"* (7:20).
+
+**Exodus 4 adds the other half of the pattern.** The verb of 4:19, *bāqaš*, is the verb of 2:15
+(*"he sought to kill Moses"*), and it comes back five verses later with God as its subject (*"wanted to
+kill him"*, 4:24). And in the same speech that sends Moses home, God names Israel *"my son, my
+firstborn"* and announces the death of Pharaoh's firstborn (4:22–23): **the king who killed Israel's
+sons will lose his own.** Matthew's *"Out of Egypt I called my son"* (2:15) takes up that sonship
+through Hosea 11:1. See [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
 
 ## Significance
 

@@ -40,22 +40,32 @@ deliverance.
 - **Gershom the son of Moses is distinct from *Gershon* the son of Levi** (Genesis 46:11; Exodus
   6:16–17), whose name is near-identical and whose clan, the Gershonites, is a Levitical division.
 
+### The lodging place (Exodus 4:20–26)
+
+**Set on a donkey with his mother for the journey to Egypt** (4:20, *"his sons"*, plural, though only
+he has been named) **and — if he is the son meant — circumcised by his mother at the lodging place**
+(4:25). The text says only *"her son"*, and the Hebrew of 4:24 does not say whether Yahweh's attack was
+on Moses or on the boy. **Moses' firstborn is cut three verses after God names Israel his firstborn and
+announces the death of Pharaoh's** (4:22–23). See [[Moses Returns to Egypt]].
+
 ### What is ahead
 
-Taken back toward Egypt on a donkey (4:20), and — if he is the son meant — circumcised by his
-mother at the lodging place (4:24–26; the text says only *"her son"*); sent back to Midian and
-brought again by Jethro (18:2–6).
+Sent back to Midian at some point not narrated, and brought again by Jethro (18:2–6).
 
 ## Timeline / key events
 
 - Born in Midian to Moses and Zipporah, and named *a sojourner there* — Exodus 2:22
-- *(ahead)* Set on a donkey for the journey back to Egypt — Exodus 4:20
+- Set on a donkey for the journey back to Egypt — Exodus 4:20, [[Moses Returns to Egypt]]
+- Circumcised by his mother with a flint at the lodging place, if he is the son meant — Exodus 4:25
 - *(ahead)* Brought to Moses at the mountain of God with his brother Eliezer — Exodus 18:3–6
 
 ## Appears in
 
 - [[Moses Flees to Midian]] — Exodus 2:22; **born and named in one verse**, the name a confession
   of exile and the first use by Abraham's offspring of the *gēr* of Genesis 15:13
+- [[Moses Returns to Egypt]] — Exodus 4:20, 25; **one of *"his sons"* on the donkey, and probably
+  *"her son"*, circumcised at the lodging place** — Moses' firstborn, cut in the passage that names
+  God's
 
 ## Related people
 
@@ -69,3 +79,5 @@ brought again by Jethro (18:2–6).
 
 - [[Names and Naming]]
 - [[Land and Sojourning]]
+- [[Circumcision]]
+- [[Birthright and the Firstborn]]

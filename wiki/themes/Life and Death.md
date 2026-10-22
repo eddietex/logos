@@ -402,6 +402,9 @@ the rest of the canon.
   it.** The mother obeys 1:22 to the letter — the river — but in a sealed *tēbâ*, an ark; the
   princess *spares* (*ḥāmal*) the child her father condemned; and his name says *the one who draws
   out*
+- [[Moses Returns to Egypt]] — Exodus 4:19, 23–24; ***bāqaš*, to seek a life, three times.** Pharaoh sought to kill
+  Moses (2:15); *"all the men who sought your life are dead"* (4:19); and five verses later *"Yahweh …
+  sought to kill him"* (4:24, WEB *"wanted"*). Between them, *"I will kill your son, your firstborn"*
 
 ## Related themes
 

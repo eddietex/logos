@@ -57,6 +57,9 @@ one.
   are given because of an objection** (*"they will not believe me"*), and **God says they have a voice**
   (*qōl hāʾōt*, 4:8). The rod Moses already carries is made the instrument: *"with which you shall do
   the signs"* (4:17)
+- [[Moses Returns to Egypt]] — Exodus 4:20–21, 30; ***môpətîm*, a third word**, for what Moses is to do before
+  Pharaoh — and the staff renamed *"God's rod"*. The wonders are to be done to a king whose heart God
+  will harden. Before the people, **Aaron** does the signs given into Moses' hand, and they believe
 
 ## Related themes
 
@@ -65,6 +68,7 @@ one.
 - [[Judgment]] — the wonders are blows on Egypt
 - [[Language and Speech]] — the sign speaks where the messenger cannot
 - [[Prophecy and Vision]] — the sign confirmed by fulfillment
+- [[Hardening of the Heart]] — what lengthens the contest, *"that I may show these my signs"* (10:1)
 
 ## Related people
 

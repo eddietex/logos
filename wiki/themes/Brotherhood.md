@@ -157,6 +157,10 @@ resolve it.**
   Isaac and Ishmael, Jacob and Esau, and Joseph and his brothers, a brother's coming is announced as
   gladness before it happens**, with no birthright between them to contend for. [[Aaron]] is already
   on the road. Rivalry comes later, over the prophetic office (Numbers 12)
+- [[Moses Returns to Egypt]] — Exodus 4:27; **the gladness, kept.** Aaron, sent by Yahweh, meets Moses on God's
+  mountain *"and kissed him"*, with no quarrel to get past — where Esau's kiss came after a murder
+  threat (Genesis 33:4) and Joseph's after a sale (45:15). The road home repeats Jacob's: sent back by
+  God, attacked on the way, met by a brother with a kiss
 
 ## Related themes
 

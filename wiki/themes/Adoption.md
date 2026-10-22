@@ -105,6 +105,10 @@ Testament out of it**, since Genesis 48 is a single case and the Torah legislate
 - [[The Birth of Moses]] — Exodus 2:10; ***"he became her son"*** — *wayhî-lāh ləbēn*. **A Hebrew
   boy adopted into the royal house of the nation enslaving his people**, by the daughter of the king
   who ordered him drowned; named by her, and (Hebrews 11:24) later refusing the sonship
+- [[Moses Returns to Egypt]] — Exodus 4:22; **a nation declared God's son.** *Bənî bəkōrî yiśrāʾēl* — the first time
+  Scripture calls Israel God's son, said to a foreign king as the ground of a claim: *"Let my son go"*.
+  The sonship is declared, not derived. See
+  [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
 
 ## Related themes
 

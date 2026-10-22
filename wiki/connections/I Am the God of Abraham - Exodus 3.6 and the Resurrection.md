@@ -32,10 +32,12 @@ relation to him; and a God who *"is not the God of the dead"* does not stay in r
 Luke adds the clause that makes the inference explicit: *"for all are alive to him"*.
 
 **The Hebrew has no verb in the sentence.** *ʾĀnōkî ʾĕlōhê ʾābîkā* is a verbless clause, *I — the God
-of your father*, and the present is supplied by the grammar of such clauses, not by a word. Matthew's
-Greek supplies *egō eimi*; Mark's, like the Hebrew, has no verb (*egō ho theos*), and Luke puts it in
-indirect speech. **The argument therefore does not rest on a tense form but on what
-the self-introduction implies**: that a covenant God names himself by the people he has bound himself
+of your father* (checked against the Westminster Leningrad Codex), and the present is supplied by the
+grammar of such clauses, not by a word. Matthew's Greek supplies *egō eimi* (*Egō eimi ho theos
+Abraam*); Mark's, like the Hebrew, has no verb (*Egō ho theos Abraam*) — both as printed in the SBL
+Greek New Testament (2010), whose apparatus was not consulted, so a manuscript variant adding *eimi*
+in Mark is not ruled out. Luke puts it in indirect speech. **The argument therefore does not rest on a
+tense form but on what the self-introduction implies**: that a covenant God names himself by the people he has bound himself
 to, and that the binding outlasts their death.
 
 **The formula has a history in Genesis that sharpens the point.** God introduced himself to Isaac as
