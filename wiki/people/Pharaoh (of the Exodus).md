@@ -64,9 +64,18 @@ what follows is that *"the Egyptians shall know that I am Yahweh"* (7:5). In lat
 *tannîn* becomes his emblem: Ezekiel 29:3 calls a Pharaoh *"the great monster that lies in the
 middle of his rivers"* (WEB). See [[Aaron's Staff Before Pharaoh]].
 
+**At the first plague he is met at his own habit.** He *"goes out to the water"* in the morning, and
+Moses is waiting on the bank (7:15). God has called his heart *kābēd*, *heavy* (7:14) — the root of the
+*"heavier work"* he laid on Israel (5:9). He is told to his face, *"In this you shall know that I am
+Yahweh"* and *"until now you haven't listened"* (7:16–17). The river is struck *"in the sight of
+Pharaoh"*; his magicians do the same; his heart is *ḥāzaq*, *"as Yahweh had spoken"*; and ***"Pharaoh
+turned and went into his house, and he didn't even take this to heart"*** (7:23) — *lōʾ-šāt libbô
+gam-lāzōʾt*, the *zōʾt*, *this*, of God's *"In this you shall know"*. **His people dig for water; he
+goes home.** He asks for nothing, and the plague runs seven days. See [[Water Turned to Blood]].
+
 ### What is ahead
 
-The plagues; the release; the pursuit; and the sea. These are written as
+The rest of the plagues; the release; the pursuit; and the sea. These are written as
 their pericopes arrive.
 
 ## Timeline / key events
@@ -82,6 +91,9 @@ their pericopes arrive.
   Israel go out of his land"* — Exodus 6:10–13, [[I Am Yahweh]]
 - Asks for a wonder; sees Aaron's rod become a *tannîn* and swallow his magicians' rods; his heart
   hardened, *"as Yahweh had spoken"* — Exodus 7:8–13, [[Aaron's Staff Before Pharaoh]]
+- Met at the river in the morning; told *"In this you shall know that I am Yahweh"*; watches the Nile
+  turned to blood and his magicians match it; goes into his house and *"didn't even take this to
+  heart"* — Exodus 7:14–25, [[Water Turned to Blood]]
 
 ## Appears in
 
@@ -98,6 +110,8 @@ their pericopes arrive.
 - [[Aaron's Staff Before Pharaoh]] — Exodus 7:1–13; **the audience, and the first sign.** Moses
   made *"as God"* to him; *"Perform a miracle!"*; his magicians matched and swallowed; *"he didn't
   listen to them"*
+- [[Water Turned to Blood]] — Exodus 7:14–25; **the first blow, and the walk home.** His heart
+  *kābēd*; met at the water; the river struck in his sight; *"he didn't even take this to heart"*
 
 ## Related people
 

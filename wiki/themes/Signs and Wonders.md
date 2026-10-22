@@ -68,6 +68,11 @@ one.
   *"Perform a miracle!"*, the only sign in the contest he requests; the magicians match it, and
   Aaron's rod swallows theirs. **The first sign before Pharaoh harms no one: credentials, not
   judgment**
+- [[Water Turned to Blood]] — Exodus 7:14–25; **the first plague, and the third sign of the bush
+  enlarged.** At 4:9 river water poured on dry ground was to become blood for the elders; here the
+  whole river and every water in Egypt become blood before Pharaoh. *"In this you shall know that I am
+  Yahweh"* (7:17) gives the sign its stated meaning; the magicians match it, and the matching only adds
+  blood — [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
 
 ## Related themes
 

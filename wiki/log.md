@@ -11767,3 +11767,84 @@ formula.
   - `wiki/index.md`: 100 passages, 165 people, 293 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 7.14-25 — Water Turned to Blood
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *Water Turned to Blood — Exodus
+7:14–25*. The boundary was kept as planned. 7:14 opens a new divine speech, and 7:25 closes the plague
+with the seven days. There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[Water Turned to Blood]] covers:
+
+- 7:14: *kābēd lēb parʿōh*, the adjective of Moses' *kəbad-peh* (4:10) and the root of 5:9's heavier
+  work.
+- 7:15: *śəpat hayəʾōr*, the river's bank of Genesis 41:3, 17 and Exodus 2:3, with the *śāpâ* of
+  *"uncircumcised lips"* recorded as a resonance. *Hāpak* is the verb of the rod and of Sodom.
+- 7:17: *bəzōʾt tēdaʿ*, the knowledge refrain addressed to Pharaoh in the second person. *Nākâ* traced
+  from 2:11–13 through 3:20 and 5:14 to God's striking.
+- 7:18–19: *dāgâ* (Genesis 1:26, 28) and *miqwēh* (Genesis 1:10), read as a local un-creation that
+  Exodus does not state. *Bāʾaš* links back to the foremen's *"stench"* (5:21).
+- 7:20: the unnamed subject who lifts the rod, and *"in the sight of Pharaoh … his servants"*
+  matching 5:21.
+- 7:22–23: the magicians' *wayyaʿăśû-kēn* and *bəlāṭêhem*. *Lōʾ-šāt libbô gam-lāzōʾt* answers the
+  *zōʾt* of 7:17.
+- 7:24–25: *ḥāpar*, the patriarchs' well verb; *mālēʾ*, the verb of 1:7; and Yahweh named as the
+  striker.
+
+### Judgment calls
+
+- **One new connection:** [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
+  (allusion: Psalm 78:44; 105:29; Wisdom of Solomon 11:6–7; Revelation 8:8; 11:6; 16:3–6).
+- **No new person or place pages.** *The Egyptians* and *Pharaoh's servants* stay unpaged.
+- **The measure-for-measure reading** (the river of 1:22 answered with blood) is attributed to Wisdom
+  of Solomon 11 and Revelation 16, and is not presented as Exodus's own claim.
+- **The John 2 contrast** (water to blood, water to wine) is recorded as an interpreters' contrast.
+- **The *śāpâ* wordplay** (lips / river's lip) and the *wood and stone* reading as idols are both
+  left as possibilities.
+- **Corrections made while drafting, before commit:** 9:13 does not set Moses at the water, so only
+  7:15 and 8:20 do; *"the land stank"* at 8:14 is the land, not the river; and the claim that the
+  blood alone has no exchange was wrong, since the lice have none either. The page now says only that
+  the frogs, unlike the blood, end in a request.
+- **Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+  (`translation=web`), with no bulk fetch: Psalm 78:44; 105:27–30; Revelation 8:8; 11:6; 16:3–6; John
+  2:9–11; Wisdom of Solomon 11:6–7. Leviticus 11:36 is cited by reference from the WLC and not quoted.
+  No claim is made about the Hebrew or Greek of these books.
+
+### Sources
+
+Genesis, Exodus, and Job texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):**
+
+- All of Exodus 7:14–25, with 7:26, 29 and 8:1 to confirm the chapter offset.
+- Exodus 1:7; 2:3, 5; 4:9–10; 5:9, 21; 8:10 (Hebrew); 10:1.
+- Job 7:17.
+
+Lemma searches of Genesis and Exodus (with Job, Leviticus, and Numbers where stated): *kābēd*
+(adjective and verb), *śāpâ*, *hāpak*, *nākâ*, *dāgâ*, *bāʾaš*, *lāʾâ*, *ʾăgam*, *miqwēh*, *ḥāpar*,
+*šît*, *mālēʾ*, *dām*, *yəʾōr*.
+
+### Pages created or revised
+
+- **Created (2):** the passage page; one connection (above).
+- **People revised (5):** [[Moses]], [[Aaron]], [[God]], [[Pharaoh (of the Exodus)]], and
+  [[Pharaoh's Magicians (of the Exodus)]], each with synthesis.
+- **Places revised (2):** [[The Nile]], whose *not yet ingested* event is now linked, and [[Egypt]].
+- **Themes revised (9):** [[Blood]] (development and key passage), [[Signs and Wonders]],
+  [[Hardening of the Heart]], [[Creation]], [[Judgment]], [[The Names of God]], [[Life and Death]],
+  [[Slavery and Servitude]], and [[Retribution]].
+- **Connections revised (2):**
+  - [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]], for the 7:17 / 7:23 *zōʾt*.
+  - [[The Flood as Un-Creation]], for Exodus 7:19–21 added to the passages.
+- **Book page:** box checked; the 7:14–11 structure note now covers the first plague; key themes +3
+  ([[Blood]], [[Creation]], [[Retribution]]).
+- **Indexes:**
+  - books: Exodus 10 / 53.
+  - people: 5 rows extended across A-E, F-M, and N-Z.
+  - places: 2 rows. themes: 9 rows.
+  - connections: 1 row added in [[Connections Index T-Z]]; 2 rows' references extended.
+  - `wiki/index.md`: 101 passages, 294 connections.
+
+`scripts/link-check.sh` is clean.

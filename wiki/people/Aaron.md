@@ -78,6 +78,13 @@ their rods"*** (7:10–12). **At the bush the rod was Moses'; in Pharaoh's court
 the text does not say whether it is the same staff. See [[Aaron's Staff Before Pharaoh]] and
 [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]].
 
+**At the first plague the rod is in his hand again.** God tells Moses to tell Aaron to *"stretch
+out your hand over the waters of Egypt"* — rivers, streams, pools, and *"all their ponds of water"* —
+and the water becomes blood even in the stored jars (7:19). *Nəṭēh yādəkā*, *stretch out your hand*, is
+the verb of God's own *"outstretched arm"* (6:6) and *"when I stretch out my hand on Egypt"* (7:5): **the
+prophet's hand does what God said his would do.** The text leaves unclear whose hand lifts the rod at
+7:20. See [[Water Turned to Blood]].
+
 ### What is ahead
 
 The plagues; Sinai, where he goes up with the elders (24); the priestly
@@ -100,6 +107,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   grandfather of Phinehas; named first at 6:26 — Exodus 6:20–27, [[The Heads of the Fathers' Houses]]
 - Appointed Moses' prophet; eighty-three; casts down his rod, which becomes a *tannîn* and swallows
   the magicians' rods — Exodus 7:1–12, [[Aaron's Staff Before Pharaoh]]
+- Told to stretch his rod over all the waters of Egypt; the river and every water turned to blood —
+  Exodus 7:19–21, [[Water Turned to Blood]]
 
 ## Appears in
 
@@ -116,6 +125,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   named before Moses in the genealogy's order and after him in the commission's
 - [[Aaron's Staff Before Pharaoh]] — Exodus 7:1–13; **the prophet, and the rod.** Named Moses'
   *nābîʾ*; does the first sign before Pharaoh; his rod swallows the magicians' rods
+- [[Water Turned to Blood]] — Exodus 7:19–20; **the hand stretched out.** Stretches the rod over
+  the rivers, streams, pools, and ponds of Egypt, *"as Yahweh commanded"*
 
 ## Related people
 

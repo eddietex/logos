@@ -42,6 +42,10 @@ with that scope.
 - **Genesis 9:5–6** — blood-guilt made a rule. *"I will surely require your life's blood"*, three
   times, and then the chiastic sentence that grounds the prohibition of homicide in the image of
   God. See [[Whoever Sheds Man's Blood]] and [[Image of God]].
+- **Exodus 4:9; 7:17–21** — blood as a plague. The sign of water poured out as blood on dry ground,
+  given at the bush, becomes the first blow on Egypt: the Nile and every water in the land turned to
+  blood. Psalm 78:44 and 105:29 retell it; Revelation 8:8 and 16:3–6 extend it to the sea and the
+  springs. See [[Water Turned to Blood]].
 - **Exodus 12:7, 13, 22–23** — blood on the doorposts, and the sign God reads: *"When I see the
   blood, I will pass over you."* Blood becomes protective, and the covenant sign is again something
   God looks at rather than something the people carry.
@@ -113,6 +117,10 @@ with that scope.
   that turns away Yahweh's killing — the circumcision blood at the lodging place, eight chapters before
   the Passover blood on the door posts (12:13, 23). The resonance is commonly drawn and not stated by
   the text
+- [[Water Turned to Blood]] — Exodus 7:17–21; **the first blood in Exodus that is a judgment.** The
+  sign of 4:9 enlarged to every water of Egypt; the river of 1:22, read by Wisdom of Solomon 11:6–7 and
+  Revelation 16:6 as blood answered with blood —
+  [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
 
 ## Related themes
 

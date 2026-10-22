@@ -233,6 +233,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Aaron's Staff Before Pharaoh]] — Exodus 6:28; 7:3–5; *"in the land of Egypt"*, three times in
   the forecast: the signs are to be multiplied *"in the land of Egypt"*, God will *"lay my hand on
   Egypt"*, and ***"the Egyptians shall know that I am Yahweh"***
+- [[Water Turned to Blood]] — Exodus 7:19–24; ***"blood throughout all the land of Egypt"***. Every
+  water of the country — rivers, streams, pools, ponds, and the stored jars of wood and stone — turned
+  to blood; *"all the Egyptians dug around the river for water to drink"*
 
 ## Related places
 
@@ -295,3 +298,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   complaint and God's promise — Exodus 5:1–6:1, [[Bricks Without Straw]]
 - God says *"I am Yahweh"* to Moses and promises to bring Israel out; the people do not listen; Moses
   is sent again to Pharaoh — Exodus 6:2–13, [[I Am Yahweh]]
+- The first plague: the Nile and all the waters of Egypt turned to blood; the Egyptians dig for water —
+  Exodus 7:14–25, [[Water Turned to Blood]]

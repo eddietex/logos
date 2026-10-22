@@ -17,7 +17,9 @@ tags: [connection]
   (6:9) — [[I Am Yahweh]]
 - **Exodus 7:5** — *"The Egyptians shall know that I am Yahweh"* — the refrain turned toward Egypt
   for the first time, as the stated purpose of the plagues — [[Aaron's Staff Before Pharaoh]]
-- **Exodus 7:17; 8:10, 22; 9:14, 29; 10:2; 11:7** — the refrain of the plagues *(not yet ingested)*
+- **Exodus 7:17, 23** — *"In this you shall know that I am Yahweh"*, said to Pharaoh's face before the
+  Nile is struck; and after it, *"he didn't even take this to heart"* — [[Water Turned to Blood]]
+- **Exodus 8:10, 22; 9:14, 29; 10:2; 11:7** — the refrain of the plagues *(not yet ingested)*
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*
@@ -63,6 +65,11 @@ Egypt**, addressed in turn to Israel, to the Egyptians, and to Pharaoh:
   earth"* (8:22); *"that you may know that there is no one like me in all the earth"* (9:14); *"that you
   may know that the earth is Yahweh's"* (9:29); *"that you may know that Yahweh makes a distinction"*
   (11:7).
+
+**The first lesson is refused in its own word.** God says *bəzōʾt tēdaʿ*, *"in this you shall know"*
+(7:17); after the river is struck, Pharaoh *"didn't even take this to heart"* — *wəlōʾ-šāt libbô
+gam-lāzōʾt* (7:23), the same *zōʾt*. **Knowledge offered as *this* is declined as *this*.** See
+[[Water Turned to Blood]].
 
 **The plagues are therefore, on Exodus's own account, revelation as well as judgment** — what is
 being made known is the name Pharaoh said he did not know. (The verses are quoted from the WEB in

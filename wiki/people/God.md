@@ -1445,6 +1445,18 @@ what Pharaoh will say** (*"Perform a miracle!"*, 7:9). The sign is done, matched
 and the narrator closes it with *"as Yahweh had spoken"* (7:13). See
 [[Aaron's Staff Before Pharaoh]].
 
+### He strikes the river, and tells Pharaoh to his face what he will learn — Exodus 7:14–25
+
+**He names Pharaoh's heart *heavy*** (*kābēd*, 7:14), **knows where the king walks in the morning**, and
+sends Moses to meet him there. Then, for the first time, **the purpose of the contest is spoken to
+Pharaoh himself**: *"In this you shall know that I am Yahweh"* (7:17) — the refrain of 6:7 (to Israel)
+and 7:5 (about Egypt) now in the second person singular, to the man who said *"I don't know Yahweh"*
+(5:2). **He speaks of the rod as in his own hand** (*"I will strike with the rod that is in my
+hand"*), though Moses and Aaron hold it, and the narrator closes by naming him the striker: *"after
+Yahweh had struck the river"* (7:25). **He keeps the promise of 3:20, *"I will … strike Egypt"*, with
+the same verb, *nākâ*.** He does not speak again in the pericope, and the plague is not lifted; seven
+days pass. See [[Water Turned to Blood]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1616,6 +1628,8 @@ and the narrator closes it with *"as Yahweh had spoken"* (7:13). See
 - Answers *"uncircumcised lips"* with *"as God to Pharaoh"* and Aaron as prophet; forecasts the
   hardening, the signs, the refusal, and Egypt's knowing; prescribes the sign of the rod — Exodus
   6:28–7:13, [[Aaron's Staff Before Pharaoh]]
+- Sends Moses to meet Pharaoh at the river; says *"In this you shall know that I am Yahweh"*; strikes
+  the Nile and all the waters of Egypt to blood — Exodus 7:14–25, [[Water Turned to Blood]]
 
 ## Appears in
 
@@ -1955,6 +1969,8 @@ and the narrator closes it with *"as Yahweh had spoken"* (7:13). See
 - [[Aaron's Staff Before Pharaoh]] — Exodus 6:29–7:13; **the forecast, and its first fulfilment.**
   *"I have made you as God to Pharaoh"*; *"The Egyptians shall know that I am Yahweh"*; *"as Yahweh
   had spoken"*
+- [[Water Turned to Blood]] — Exodus 7:14–25; **the first blow.** *"Pharaoh's heart is
+  stubborn"*; *"In this you shall know that I am Yahweh"*; *"after Yahweh had struck the river"*
 
 ## Related people
 

@@ -32,9 +32,16 @@ draws no conclusion from it (7:13). See [[Aaron's Staff Before Pharaoh]].
 Moses, so do these also oppose the truth"* — names Exodus does not contain. See
 [[Jannes and Jambres - The Magicians Who Opposed Moses]].
 
+**At the first plague they match again, and their match makes things worse.** *"The magicians of
+Egypt did the same thing with their enchantments"* (7:22) — *wayyaʿăśû-kēn*, the words used of Moses
+and Aaron's obedience two verses earlier, and *bəlāṭêhem*, the spelling usually read *secret arts*.
+**What they "do so" is make more blood.** They cannot undo the plague, only repeat it, and the text
+does not ask where they found clean water. Pharaoh takes their match as permission to go home (7:23).
+See [[Water Turned to Blood]].
+
 ### What is ahead
 
-They match the water turned to blood (7:22) and the frogs (8:7); they fail at the lice and say
+They match the frogs (8:7); they fail at the lice and say
 *"This is God's finger"* (8:18–19); and they cannot stand before Moses because of the boils (9:11).
 These sections are written as their pericopes arrive.
 
@@ -43,11 +50,15 @@ These sections are written as their pericopes arrive.
 - Summoned by Pharaoh as *"the wise men and the sorcerers"*; match the sign of the rod with their
   enchantments; their rods are swallowed by Aaron's — Exodus 7:11–12,
   [[Aaron's Staff Before Pharaoh]]
+- Turn water to blood *"with their enchantments"*, matching the first plague — Exodus 7:22,
+  [[Water Turned to Blood]]
 
 ## Appears in
 
 - [[Aaron's Staff Before Pharaoh]] — Exodus 7:11–12; **the sign matched, and the rods lost.**
   *"They also … did the same thing"*; *"Aaron's rod swallowed up their rods"*
+- [[Water Turned to Blood]] — Exodus 7:22; **the plague matched, and doubled.** *"The magicians of
+  Egypt did the same thing with their enchantments"*
 
 ## Related people
 

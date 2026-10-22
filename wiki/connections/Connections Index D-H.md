@@ -41,7 +41,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
-| [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 |
+| [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 |
 | [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 |

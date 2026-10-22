@@ -338,6 +338,10 @@ rule are the conditions the rest of Scripture is set in.
 - [[Aaron's Staff Before Pharaoh]] — Exodus 7:4; ***bišpāṭîm gədōlîm***, *"by great judgments"*,
   repeating 6:6 — the second of Exodus's three *šəpāṭîm*. **The first sign that follows judges no
   one**; it is proof, and the judgments are still ahead
+- [[Water Turned to Blood]] — Exodus 7:14–25; **the first of the *"great judgments"* falls on the
+  river.** God strikes (*nākâ*, the verb he promised at 3:20) the water Egypt lives by; the narrator
+  names the striker, *"after Yahweh had struck the river"* (7:25). Unlike the rod-sign, this one damages
+  the land
 
 ## Related themes
 

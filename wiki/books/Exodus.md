@@ -99,7 +99,15 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   eighty-three, obey. Pharaoh asks for a wonder; Aaron's rod becomes a *tannîn*; the magicians match
   it; **Aaron's rod swallows theirs**; and Pharaoh's heart is hardened *"as Yahweh had spoken"*
   (7:13). See [[Aaron's Staff Before Pharaoh]].
-- **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
+- **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced. **The first
+  falls on the river.** God calls Pharaoh's heart *kābēd*, *heavy* — the word of Moses' *"heavy"*
+  mouth (4:10) — and sends Moses to meet him *"by the river's bank"*, where the basket was laid (2:3),
+  with the sentence that names the purpose of every blow: ***"In this you shall know that I am
+  Yahweh"*** (7:17), now said to Pharaoh's face. The Nile and every water in Egypt, to the stored jars,
+  become blood; the fish die and the river stinks, in the words of the forecast. **The magicians do the
+  same, which only adds blood**; Pharaoh *"didn't even take this to heart"* and goes home, while his
+  people dig for water; and *"seven days were fulfilled, after Yahweh had struck the river"*
+  (7:25). See [[Water Turned to Blood]].
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
@@ -143,7 +151,7 @@ for unit.
 
 ### The plagues (7:14–11)
 
-- [ ] Water Turned to Blood — Exodus 7:14–25
+- [x] [[Water Turned to Blood]] — Exodus 7:14–25
 - [ ] Frogs, Lice, and Flies — Exodus 8:1–32
 - [ ] Livestock, Boils, and Hail — Exodus 9:1–35
 - [ ] Locusts and Darkness — Exodus 10:1–29
@@ -244,6 +252,9 @@ for unit.
 - [[Prophecy and Vision]]
 - [[Mediation and Advocacy]]
 - [[Wisdom]]
+- [[Blood]]
+- [[Creation]]
+- [[Retribution]]
 
 ## Key people
 

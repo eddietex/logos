@@ -12,6 +12,9 @@ tags: [connection]
 - Genesis 8:1–22 — the wind over the waters, dry land reappearing, and the resolve at 8:21 —
   [[The Waters Recede]]
 - Genesis 9:1–7 — the blessing of 1:28 reissued, with changes — [[The Covenant with Noah]]
+- Exodus 7:19–21 — the *miqwēh* of the waters (Genesis 1:10) turned to blood and the fish (1:26) dead:
+  a small, local un-creation in the same vocabulary, though Exodus draws no link —
+  [[Water Turned to Blood]]
 - Psalm 104:5–9 — the waters set a boundary they may not pass
 - Jeremiah 4:23–26 — *"I saw the earth, and, behold, it was waste and void"*: the same reversal used
   of a coming judgment on Judah

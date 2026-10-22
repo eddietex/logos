@@ -241,6 +241,10 @@ everlasting possession, by treaty with its current occupant.
   Egyptians shall know that I am Yahweh"*** — **the knowledge of the name, promised to Israel at 6:7,
   now made the stated purpose of the plagues for Egypt** —
   [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
+- [[Water Turned to Blood]] — Exodus 7:17; ***"In this you shall know that I am Yahweh"*** —
+  *bəzōʾt tēdaʿ*, **the refrain now in the second person singular, addressed to Pharaoh himself**, the
+  man who said *"I don't know Yahweh"* (5:2). Pharaoh *"didn't even take this (zōʾt) to heart"* (7:23)
+  — [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
 
 ## Related themes
 

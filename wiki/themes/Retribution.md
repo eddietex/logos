@@ -301,6 +301,12 @@ verdicts.
 - [[The Birth of Moses]] — Exodus 2:3; **the *sûp*.** The infant is laid *"in the reeds"* — *bassûp*
   — and the sea where *"Pharaoh's chariots and his army"* are cast is *yam sûp* (15:4). The water
   meant for Hebrew sons receives Egypt's soldiers
+- [[Water Turned to Blood]] — Exodus 7:17–21; **the river of the decree turned to blood.** Exodus
+  gives the plague's purpose as knowledge (*"In this you shall know"*) and does not connect it to 1:22.
+  **Later readers did**: Wisdom of Solomon 11:6–7 calls it a rebuke of *"the decree for the slaying of
+  babes"*, and Revelation 16:6 says of the waters turned to blood, *"they poured out the blood of the
+  saints and prophets, and you have given them blood to drink"* (both WEB). The measure-for-measure
+  reading is theirs — [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
 
 ## Related themes
 

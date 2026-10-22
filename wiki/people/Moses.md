@@ -155,9 +155,18 @@ reports his obedience in the formula Genesis used of Noah. **He is eighty** (7:7
 sign the rod is Aaron's and so is the act; Moses is present and silent. See
 [[Aaron's Staff Before Pharaoh]] and [[As God Commanded, So He Did - The Obedience Formula]].
 
+**At the first plague he meets Pharaoh at the river's bank** — *śəpat hayəʾōr*, the bank where his
+mother laid him in the basket (2:3) — with the rod *"which was turned to a serpent"* (7:15). He carries
+God's sentence to the king's face, *"In this you shall know that I am Yahweh"*, and a charge: *"until
+now you haven't listened"* (7:16–17). God's *"I will strike with the rod that is in my hand"* is spoken
+through him, and at 7:20 the text does not say whether his hand or Aaron's lifts it. **The verb is
+*nākâ*, the verb of his own secret blow at 2:12**; this one is public, commanded, and named afterwards as
+Yahweh's (7:25). **The man *"heavy of mouth"* (4:10) is sent to a king *"heavy of heart"* (7:14).** See
+[[Water Turned to Blood]].
+
 ### What is ahead
 
-The plagues (7:14–11); the Passover, the sea, and the
+The rest of the plagues (8–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -205,6 +214,8 @@ sections are written as their pericopes arrive.
   Exodus 6:14–27, [[The Heads of the Fathers' Houses]]
 - Repeats *"uncircumcised lips"*; made *"as God to Pharaoh"*, with Aaron as his prophet; obeys;
   eighty years old at the first audience — Exodus 6:28–7:13, [[Aaron's Staff Before Pharaoh]]
+- Meets Pharaoh at the river's bank in the morning; carries *"In this you shall know that I am
+  Yahweh"*; with Aaron, strikes the river and turns it to blood — Exodus 7:14–25, [[Water Turned to Blood]]
 
 ## Appears in
 
@@ -233,6 +244,9 @@ sections are written as their pericopes arrive.
 - [[Aaron's Staff Before Pharaoh]] — Exodus 6:28–7:13; **made *ʾĕlōhîm* to Pharaoh.** Repeats his
   objection; is given Aaron as his *nābîʾ*; told that Pharaoh will not listen; obeys without a word;
   eighty years old
+- [[Water Turned to Blood]] — Exodus 7:14–25; **at the river's bank, with the rod.** Stands where
+  he was laid as a baby; tells Pharaoh *"until now you haven't listened"*; obeys with Aaron in the
+  formula of obedience; the blow is named as Yahweh's
 
 ## Related people
 

@@ -47,7 +47,7 @@ cow was also the form of Hathor**, a standing Egyptian image of fertility and no
 
 - **Exodus 1:22** — *"You shall cast every son who is born into the river"*
   ([[The Oppression in Egypt]]), and **Exodus 2:3–5**, where one is put into it in a basket and drawn out of it by a princess.
-- **Exodus 7:17–21** — **the first plague turns it to blood**, which is a judgment aimed precisely at the
+- **Exodus 7:17–21** — **the first plague turns it to blood** ([[Water Turned to Blood]]), which is a judgment aimed precisely at the
   thing Genesis 41 shows the country depends on.
 - **Isaiah 19:5–10; Ezekiel 30:12** — the prophets' image of Egypt's end is **the river drying up.**
 - **Ezekiel 29:3** — Pharaoh as *"the great monster that lies in the middle of his rivers, that has
@@ -76,6 +76,11 @@ the Wadi el-Arish on the border rather than the Nile; see
 - [[The Burning Bush]] — Exodus 4:9; **the first plague, in a cup.** *"The water which you take out of
   the river will become blood on the dry land"* — the third sign for the elders, and the preview of
   7:17–21
+- [[Water Turned to Blood]] — Exodus 7:14–25; **struck.** Pharaoh *"goes out to the water"* in
+  the morning, and Moses stands *"by the river's bank"* — *śəpat hayəʾōr*, the phrase of Pharaoh's dream
+  (Genesis 41:3, 17) and of the basket (2:3). The river is struck in Pharaoh's sight; its fish die,
+  it stinks, and the Egyptians dig around it for water. **The river Egypt lived by, and the river of
+  1:22, is the first thing struck**
 
 ## Related places
 
@@ -96,4 +101,4 @@ the Wadi el-Arish on the border rather than the Nile; see
 - The infant Moses set among the reeds and drawn out — Exodus 2:1–10, [[The Birth of Moses]]
 - Its water to be poured out as blood, the third sign given at the bush — Exodus 4:9,
   [[The Burning Bush]]
-- Turned to blood, the first plague — Exodus 7:17–21 *(not yet ingested)*
+- Turned to blood, the first plague — Exodus 7:14–25, [[Water Turned to Blood]]

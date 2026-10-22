@@ -90,6 +90,11 @@ as those passages are ingested.
   Genesis, Exodus, and Job that the verb takes *heart* as its object. The narrator then reports
   *wayyeḥĕzaq lēb parʿōh*, the qal of *ḥāzaq*, *Pharaoh's heart was strong* — **intransitive, with no
   agent** — *"as Yahweh had spoken"*. The fulfilment uses the verb of 4:21, not of 7:3 (WLC)
+- [[Water Turned to Blood]] — Exodus 7:14, 22–23; **the first *kābēd*, and the first walk away.**
+  God says *kābēd lēb parʿōh*, *Pharaoh's heart is heavy* — an adjective, the word of Moses' *"heavy"*
+  mouth (4:10). After the plague the narrator returns to the qal of *ḥāzaq*, no agent named, *"as Yahweh
+  had spoken"*, and adds a new idiom: ***"he didn't even take this to heart"***, *lōʾ-šāt libbô
+  gam-lāzōʾt* — he did not *set his heart* to it (WLC)
 
 ## Related themes
 

@@ -175,6 +175,11 @@ Genesis 1 sets four load-bearing claims:
   *"large sea creatures"*, the first creatures said to be *created* after the heavens and the earth.
   **In Pharaoh's court a rod becomes one.** Later Scripture makes the *tannîn* an emblem of Egypt
   (Ezekiel 29:3, WEB; Hebrew not checked) — [[Am I a Sea or a Sea Monster - The Guard on the Waters]]
+- [[Water Turned to Blood]] — Exodus 7:18–21; ***miqwēh mêmêhem***, *"their ponds of water"* — the
+  *miqwēh hammayim*, *"gathering together of the waters"*, of Genesis 1:10, and in Genesis, Exodus,
+  Leviticus, Numbers, and Job used only there, here, and at Leviticus 11:36 (WLC). **The fish (*dāgâ*)
+  that die in it are the *"fish of the sea"* of 1:26, 28.** The first plague undoes, in one country,
+  the third and fifth days. Exodus draws no link; the vocabulary does — [[The Flood as Un-Creation]]
 
 ## Related themes
 

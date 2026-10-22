@@ -408,6 +408,9 @@ the rest of the canon.
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16, 18, 20; **the Genesis formula *šənê ḥayyê*, *"the years of the
   life of"*, used three times and nowhere else in Exodus**: Levi 137, Kohath 133, Amram 137 — the
   generations that lived and died in Egypt between the descent and the exodus
+- [[Water Turned to Blood]] — Exodus 7:18–24; **the river of life made a river of death.** The fish
+  die, the water stinks, and a country fed by one river digs in the mud around it for something to
+  drink — the river Pharaoh made the grave of Hebrew sons (1:22)
 
 ## Related themes
 
