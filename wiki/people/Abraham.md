@@ -946,6 +946,9 @@ arrive.
   wrong to the man they wronged and makes his prayer their remedy, as at Genesis 20:7, 17; and Job dies *"old and
   full of days"*, close to Abraham's *"a good old age, an old man, and full of years"* (Genesis 25:8). See
   [[A Prophet Who Prays - The First Nabi in Scripture]].
+- [[Moses Flees to Midian]] — Exodus 2:24; **named first of the three whose covenant God remembers** — the
+  covenant of Genesis 15:13–14 falling due. Midian, where Moses flees, descends from him through
+  [[Keturah]] (Genesis 25:2)
 
 ## Related people
 

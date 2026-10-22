@@ -244,6 +244,11 @@ what Job is asking for.
   him"* — *pānāyw ʾeśśāʾ*, I will lift his face — and the restoration follows the prayer. The umpire, witness and
   Redeemer Job sought (9:33; 16:19; 19:25) were to plead his case; he ends pleading theirs. See
   [[A Prophet Who Prays - The First Nabi in Scripture]].
+- [[Moses Flees to Midian]] — Exodus 2:11–19; **three interventions for the wronged, in widening circles** — an
+  Egyptian against a Hebrew, a Hebrew against a Hebrew, shepherds against seven women. **The first two,
+  for his own people, fail; the third, for strangers, is rewarded with a home.** The verbs of the third
+  are the exodus's own: *yāšaʿ*, *saved* (2:17; 14:30), and *nāṣal*, *delivered out of the hand*
+  (2:19; 3:8). See [[Who Made You a Prince and a Judge - The Rejected Deliverer]]
 
 ## Related themes
 

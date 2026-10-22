@@ -188,6 +188,10 @@ the land.
   places"* — **peace as a settlement in heaven**, implying a conflict above (Rahab's helpers, 9:13; the
   sea under guard, 7:12). The line became the closing petition of the Jewish Kaddish and Amidah, which
   add what Bildad does not: that the God who makes peace above make peace *for us*.
+- [[Moses Flees to Midian]] — Exodus 2:13–14; **two Hebrews fighting, and a peacemaker refused.** Moses asks the one
+  in the wrong *"Why do you strike your fellow?"* and is told he has no right to ask; Stephen renders
+  it as Moses *"urged them to be at peace again"* (Acts 7:26). **The first quarrel inside Israel in
+  Exodus is a Hebrew striking a Hebrew while Egypt strikes them all**
 
 ## Related themes
 

@@ -27,8 +27,9 @@ register is full of El-names, and Genesis never remarks on it.**
 
 **Reuel is also the name of Moses' father-in-law** at Exodus 2:18 and Numbers 10:29, the Midianite
 priest called **Jethro** at Exodus 3:1 and elsewhere. **They are not the same man**, and the wiki
-keeps them apart by filename — this page is qualified *(son of Esau)* so that a later
-`Reuel (father-in-law of Moses)` can be created without either holding the bare name.
+keeps them apart by filename — this page is qualified *(son of Esau)*, and the Midianite priest is
+filed under the name Exodus uses for him most often, [[Jethro]] (created with
+[[Moses Flees to Midian]]), so neither holds the bare name *Reuel*.
 
 **The overlap is still worth a line.** [[Midian]] and Edom are neighbours in the same Transjordanian
 world, and Genesis 36:35 has an Edomite king striking Midian in the field of Moab. **The same stock of

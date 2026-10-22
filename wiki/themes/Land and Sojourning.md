@@ -323,6 +323,10 @@ where that starts, in a sentence about a family that got halfway.
   23:10 forbid moving, especially against the fatherless. The land-grab comes first in Job's list,
   and its result follows: the poor *"all hide themselves"* and go out into the desert like wild
   donkeys.
+- [[Moses Flees to Midian]] — Exodus 2:22; **the *gēr* of Genesis 15:13 said aloud by Abraham's offspring for the
+  first time**, and in Midian rather than Egypt: *"I have lived as a foreigner in a foreign land."* The
+  word becomes the ground of the law of the stranger — *"you know the heart of an alien"* (Exodus
+  23:9). See [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]
 
 ## Related themes
 

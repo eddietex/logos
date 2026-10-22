@@ -252,6 +252,9 @@ requires only that you be standing outside it.
   for.
 - [[The Oppression in Egypt]] — Exodus 1:11–14; *"they made their lives bitter"* — *mārar*, the root of the bitter herbs
   (12:8) and of Marah (15:23). No lament is recorded until 2:23
+- [[Moses Flees to Midian]] — Exodus 2:23–25; **groaning, *nəʾāqâ*, is the first thing God is said to hear in
+  Exodus.** The suffering has gone on through a king's whole reign and Moses' whole exile without
+  comment; when it reaches God the response is four verbs — *heard*, *remembered*, *saw*, *knew*
 
 ## Related themes
 

@@ -62,8 +62,9 @@ resolved.
 - Commands all his people to cast every son into the river — Exodus 1:22
 - His daughter draws Moses out of the river, hires his mother as nurse, and adopts him — Exodus
   2:5–10, [[The Birth of Moses]]
-- *(ahead)* Seeks to kill Moses, who flees to Midian — Exodus 2:15
-- *(ahead)* Dies — Exodus 2:23
+- Hears that Moses has killed an Egyptian and seeks to kill him; Moses flees to Midian — Exodus 2:15,
+  [[Moses Flees to Midian]]
+- Dies *"in the course of those many days"*; the bondage does not end with him — Exodus 2:23
 
 ## Appears in
 
@@ -72,11 +73,17 @@ resolved.
 - [[The Birth of Moses]] — Exodus 2:1–10; **present only as a title, a decree, and a father.** His
   river decree is obeyed to the letter by a Hebrew mother, defeated by an ark, and broken by his own
   daughter, who pays the mother from his house and raises the deliverer in it
+- [[Moses Flees to Midian]] — Exodus 2:15, 23; **his last act and his death.** He *"sought to kill
+  Moses"* — the second time he has sought the life of the same Hebrew boy, and the second time he
+  fails — and then *"the king of Egypt died"*. **Israel's groaning goes on after him**, which is the
+  narrator's point in reporting it: the bondage was never one man's policy. Exodus 4:19 confirms it
+  to Moses: *"all the men who sought your life are dead"*
 
 ## Related people
 
 - [[Pharaoh (of Joseph's time)]] — the predecessor whose debt he does not acknowledge
 - [[Joseph]] — the man he *"didn't know"*
+- [[Moses]] — the Hebrew son who escaped his decree, and whose life he seeks again (2:15)
 - [[Shiphrah and Puah]] — the midwives who disobey him
 - [[Pharaoh's Daughter (of Moses' time)]] — his daughter, who draws Moses out of his river
 - [[Moses]] — the son his decree was meant to drown

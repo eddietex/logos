@@ -142,6 +142,10 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
   rather than a sin**, set against the first man's hiding (Genesis 3:8–10); the alternative Psalm 32:5
   and Proverbs 28:13 commend is confession, and Job's claim is that there is nothing hidden to confess.
   See [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]].
+- [[Moses Flees to Midian]] — Exodus 2:12–14; **a conscience visible in a glance.** *"He looked this way and that way"*
+  before the killing, hid the body after it, and when it was thrown back at him said *"Surely this
+  thing is known"* and was afraid. The narrator records the precautions without a verdict; **the
+  concealment is the only comment the text makes**
 
 ## Related themes
 

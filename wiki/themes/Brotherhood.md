@@ -147,6 +147,12 @@ resolve it.**
 - [[Eliphaz's Third Speech]] — Job 22:6, ***"you have taken pledges from your brother for
   nothing"*** — the *ʾāḥ* the law singles out for open-handed lending (Deuteronomy 15:7–11;
   24:10–13), and *ḥinnām*, the accuser's *for nothing* of 1:9, attached to a crime nobody saw
+- [[Moses Flees to Midian]] — Exodus 2:11–14; **Moses chooses his brothers, and they refuse him.** *"He went out to his
+  brothers … one of his brothers"* — *ʾāḥ* twice in a verse settles which house the son of Pharaoh's
+  daughter belongs to. The next day a Hebrew striking *"his fellow"* asks *"Who made you a prince and
+  a judge over us?"* — the refusal Joseph met from his brothers (Genesis 37:8). Stephen: *"Sirs, you
+  are brothers. Why do you wrong one another?"* (Acts 7:26). See
+  [[Who Made You a Prince and a Judge - The Rejected Deliverer]]
 
 ## Related themes
 

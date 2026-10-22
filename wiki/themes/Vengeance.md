@@ -111,6 +111,12 @@ for revenge becomes its measure for pardon. See
   when evil found him (yes, I have not allowed my mouth to sin by asking his life with a curse)"*. The
   renunciation of revenge in thought and in word, the ethic of Proverbs 24:17 and Exodus 23:4–5, and a
   step toward Matthew 5:44; and the lips that did not sin at 2:10 extended to an enemy.
+- [[Moses Flees to Midian]] — Exodus 2:11–12; **a killing on behalf of an oppressed Hebrew**, done in secret and hidden
+  in the sand — and done by a son of Levi, whose ancestor's sword at Shechem (Genesis 34) is the
+  precedent. Exodus neither approves nor condemns; Stephen calls it vengeance
+  in the good sense — Moses *"avenged him who was oppressed"* (Acts 7:24) — and the Hebrews' *"Do you
+  plan to kill me?"* shows how it looked to the people it was meant for. **God's own striking of Egypt
+  (*nākâ*, 3:20) will be done in public**
 
 ## Related themes
 

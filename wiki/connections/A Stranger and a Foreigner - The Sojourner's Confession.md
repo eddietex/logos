@@ -27,6 +27,10 @@ tags: [connection]
   **Where [[Abraham]] called himself *"a stranger and a foreigner"* in order to buy a grave** (23:4),
   **Jacob uses the word to a foreign king in answer to a question about his age**, and adds *"few and
   evil"*
+- **Exodus 2:22; 18:3** — [[Moses Flees to Midian]]. ***"I have lived as a foreigner in a foreign
+  land"*** — *gēr hāyîtî* — **the confession made into a child's name**, Gershom, and in Midian; and
+  then into a law, *"you know the heart of an alien, since you were aliens in the land of Egypt"*
+  (Exodus 23:9). See [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]
 
 ## Analysis
 

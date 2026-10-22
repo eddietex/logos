@@ -631,6 +631,8 @@ gets a death notice in this same chapter** (35:8); she does not.
   of a list.** See [[Covenant]]
 - [[The Restoration of Job]] — Job 42:17; **not named.** *"Old and full of days"*, *zāqēn ûśəbaʿ yāmîm*, said
   of Isaac at Genesis 35:29, is said of Job — the book's last words.
+- [[Moses Flees to Midian]] — Exodus 2:24; **named between Abraham and Jacob** as a party to the covenant
+  God remembers when Israel groans in Egypt
 
 ## Related people
 

@@ -258,6 +258,10 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   kept word for word.** The adverb returns only in Leviticus 25's prohibition — *"You shall not rule
   over him with harshness, but shall fear your God"* — see
   [[With Harshness - Exodus 1.13-14 and Leviticus 25]]
+- [[Moses Flees to Midian]] — Exodus 2:11, 23; **the *burdens* of 1:11 seen, and the *ʿăbōdâ* named twice in one
+  verse** — *"the children of Israel sighed because of the bondage … their cry came up to God because
+  of the bondage"*. The king dies; the service does not end with him. **It is at this word that God
+  turns** (2:24–25)
 
 ## Related themes
 

@@ -33,6 +33,11 @@ tags: [connection]
   at the border, before the descent is complete**
 - **Exodus 1:7–14** — the multiplication, then the *service* and the *affliction* of Genesis 15:13
   (*ʿābad*, *ʿānâ*) kept word for word — [[The Oppression in Egypt]]
+- **Exodus 2:22–24** — [[Moses Flees to Midian]]. **The prophecy's two other words arrive.** Moses
+  names his son *Gershom*, *"I have lived as a foreigner (gēr) in a foreign land"* — 15:13's *gēr*,
+  said by Abraham's offspring of himself for the first time — and *"God remembered his covenant with
+  Abraham, with Isaac, and with Jacob"*: **the covenant of Genesis 15 falling due.** See
+  [[God Remembered - Noah, Abraham, Rachel, and Israel]]
 
 ## Analysis
 

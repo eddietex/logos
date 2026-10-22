@@ -151,6 +151,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   *"By faith, Moses, when he was born, was hidden for three months by his parents … and they were
   not afraid of the king's commandment."* **Exodus records no promise or word from God to them**:
   the faith Hebrews sees acts without one
+- [[Moses Flees to Midian]] — Hebrews 11:24–27; **faith read into a passage that names no faith.** Hebrews makes Moses'
+  identification with *"God's people"* a choice of faith and says he left Egypt *"not fearing the
+  wrath of the king"*; Exodus records the going out to his brothers, the fear, and the flight, and
+  draws no conclusion about his motive
 
 ## Related themes
 

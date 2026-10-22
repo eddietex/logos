@@ -219,6 +219,11 @@ five times**, and each is a covenant hinge.
   water'"* — an explanation by what was done to him, in a name whose form (*mōšeh*, active) says
   what he will do, and whose likely Egyptian root (*msy*) is the *-mses* of Raamses. See
   [[Drawn Out of the Water - The Name of Moses]]
+- [[Moses Flees to Midian]] — Exodus 2:18–22; **three naming questions in five verses.** The women call Moses *"an
+  Egyptian"* — what he looks like to anyone outside his family; their father is *Reuel* here and
+  *Jethro* from 3:1; and Moses names his son *Gershom*, *"I have lived as a foreigner in a foreign
+  land"*, heard as *gēr šām*, *a sojourner there*. **Joseph named his two sons in exile with God in
+  both names; Moses' first son's name has none.** See [[Gershom]]
 
 ## Related themes
 

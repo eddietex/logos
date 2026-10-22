@@ -55,8 +55,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   mother puts her son into the Nile as ordered, but in a *tēbâ*, the word for Noah's ark, and
   Pharaoh's own daughter draws him out, pays his mother to nurse him, adopts him, and names him
   *Moses* (2:1–10). **God is not mentioned once in the rescue.** See [[The Birth of Moses]]. Then a
-  Hebrew raised as an Egyptian; a killing, a flight to Midian, and God hearing the groaning
-  (2:23–25).
+  Hebrew raised as an Egyptian tries to deliver his brothers by his own hand — kills an Egyptian in
+  secret, is refused (*"Who made you a prince and a judge over us?"*, 2:14), and flees to Midian,
+  where he saves seven women at a well, is taken for an Egyptian, marries Zipporah, and names his son
+  *Gershom*, *a sojourner there*. **Then, after twenty-two more verses without him, God is named five
+  times in three**: he hears, remembers his covenant, sees, and knows (2:23–25). See
+  [[Moses Flees to Midian]].
 - **3–4 The call** — the burning bush, the name *"I AM WHO I AM"* (3:14), Moses' objections, and
   the return to Egypt.
 - **5–7:13 The first confrontation** — bricks without straw, the name *Yahweh* reaffirmed (6:2–8),
@@ -89,7 +93,7 @@ for unit.
 
 - [x] [[The Oppression in Egypt]] — Exodus 1:1–22
 - [x] [[The Birth of Moses]] — Exodus 2:1–10
-- [ ] Moses Flees to Midian — Exodus 2:11–25
+- [x] [[Moses Flees to Midian]] — Exodus 2:11–25
 
 ### The call (3–4)
 
@@ -182,6 +186,8 @@ for unit.
 - [[Names and Naming]]
 - [[Adoption]]
 - [[Compassion and Mercy]]
+- [[Remembrance]]
+- [[Land and Sojourning]]
 
 ## Key people
 
@@ -194,6 +200,9 @@ for unit.
 - [[Jochebed]] and [[Amram]] — his Levite parents, unnamed until 6:20
 - [[Miriam]] — his sister, who watches from far off
 - [[Pharaoh's Daughter (of Moses' time)]] — who spares, adopts, and names him
+- [[Jethro]] — the priest of Midian, called Reuel at 2:18, who takes the fugitive in
+- [[Zipporah]] — his daughter, Moses' wife
+- [[Gershom]] — their son, named for exile
 
 ## Key places
 
@@ -201,3 +210,4 @@ for unit.
 - [[Pithom]] and [[Rameses]] — the store-cities
 - [[The Nile]] — *"the river"* of 1:22
 - [[Goshen]]
+- [[Midian]] — where Moses flees

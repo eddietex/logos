@@ -251,6 +251,10 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   granted by a king in the same verse as a name and a chariot. **The silence is the observation**, and
   the wiki records it as a gap rather than filling it. See
   [[Not from the Daughters of the Canaanites]]
+- [[Moses Flees to Midian]] — Exodus 2:16–21; **the third betrothal at a well, and the first outside the family.**
+  Moses waters the flock of seven sisters, is invited in, and *"was content to dwell with the man. He
+  gave Moses Zipporah, his daughter"* — no courtship, no bride-price, no word from the bride. See
+  [[The Betrothal at the Well]] and [[Zipporah]]
 
 ## Related themes
 

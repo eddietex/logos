@@ -243,6 +243,10 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - [[The Oppression in Egypt]] — Exodus 1:6–8; **forgetting as the beginning of bondage.** A generation dies and a king
   *"didn't know Joseph"*; Judges 2:10 repeats the seam. Israel's creed remembers the chapter in
   three verbs (Deuteronomy 26:6). See [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]]
+- [[Moses Flees to Midian]] — Exodus 2:24; ***"God remembered his covenant with Abraham, with Isaac, and with
+  Jacob"*** — **the remembering on which the whole exodus turns**, as Noah's rescue turned on 8:1 and
+  Rachel's on 30:22, and the answer to a king who *"didn't know Joseph"* (1:8). See
+  [[God Remembered - Noah, Abraham, Rachel, and Israel]]
 
 ## Related themes
 

@@ -38,9 +38,43 @@ refused to be called the son of Pharaoh's daughter"* (Hebrews 11:24).
 mention of God at all; the deliverer is preserved entirely by women and by what looks like chance.
 See [[Providence]].
 
+**His first acts as a man are a failure.** Grown, he *"went out to his brothers, and looked at
+their burdens"* (2:11) — *his brothers* twice in a verse, the narrator settling which house he
+belongs to. He sees an Egyptian striking a Hebrew, **looks this way and that**, strikes the Egyptian
+dead with the same verb (*nākâ*), and hides him in the sand. The next day he rebukes a Hebrew
+striking his fellow and is answered: *"Who made you a prince and a judge over us? Do you plan to kill
+me, as you killed the Egyptian?"* (2:14). **He has acted as a judge with no commission, and the
+people he acted for refuse him.** *"Moses was afraid"*, Pharaoh seeks his life, and he flees. Exodus
+does not say whether the killing was right; Stephen calls it avenging the oppressed and blames the
+Hebrews who *"didn't understand"* that God was giving deliverance *"by his hand"* (Acts 7:24–25).
+See [[Moses Flees to Midian]] and
+[[Who Made You a Prince and a Judge - The Rejected Deliverer]].
+
+**The fear and Hebrews 11:27 stand in tension.** Exodus: *"Moses was afraid"* (2:14), and he *"fled
+from the face of Pharaoh"* (2:15). Hebrews: *"By faith, he left Egypt, not fearing the wrath of the
+king"*. Either Hebrews means the exodus itself (when Moses does face Pharaoh unafraid, 10:28–29), or
+it means the flight and speaks of the motive beneath the fear. **The wiki records both readings and
+adopts neither.**
+
+**In Midian he repeats Jacob's exile.** He flees a threat to his life, sits down by *the* well,
+drives off shepherds bullying seven sisters, and waters their flock — the third betrothal at a well
+in the Torah. **The verb is *yāšaʿ*, *to save*** (2:17), the verb of the sea (14:30), and the
+daughters report *"An Egyptian delivered us"* — *nāṣal*, the verb of 3:8 — so that **the first
+people Moses saves in Exodus are Midianite women, and they take him for an Egyptian.** He dwells with
+their father, the priest of Midian ([[Jethro]], called Reuel here), marries [[Zipporah]], and names
+his son [[Gershom]]: *"I have lived as a foreigner in a foreign land"* (2:22) — the *gēr* of Genesis
+15:13, said by Abraham's offspring of himself for the first time. See
+[[The Betrothal at the Well]] and
+[[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]].
+
+**He is, at this point, a man who intervenes for the wronged three times** — an Egyptian against a
+Hebrew, a Hebrew against a Hebrew, shepherds against women — **and only the third, done for
+strangers, is rewarded.** The deliverance itself begins without him, at 2:23–25, when God hears,
+remembers, sees, and knows.
+
 ### What is ahead
 
-The killing of the Egyptian and the flight to Midian (2:11–22); the burning bush and the divine
+The burning bush and the divine
 name (3–4); the confrontation with Pharaoh and the plagues (5–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
@@ -53,12 +87,22 @@ sections are written as their pericopes arrive.
 - Found by Pharaoh's daughter, who pities him and recognizes him as a Hebrew — Exodus 2:5–6
 - Nursed by his own mother for wages from Pharaoh's daughter — Exodus 2:7–9
 - Adopted by Pharaoh's daughter and named *Moses* — Exodus 2:10
-- *(ahead)* Kills an Egyptian and flees to Midian — Exodus 2:11–15
+- Goes out to his brothers; kills an Egyptian who is striking a Hebrew, and hides him in the sand —
+  Exodus 2:11–12, [[Moses Flees to Midian]]
+- Rebukes a Hebrew and is asked *"Who made you a prince and a judge over us?"*; afraid — Exodus 2:13–14
+- Flees from Pharaoh, who seeks to kill him, to Midian; sits down by a well — Exodus 2:15
+- Saves the seven daughters of the priest of Midian from the shepherds and waters their flock —
+  Exodus 2:16–19
+- Dwells with Reuel ([[Jethro]]); marries [[Zipporah]]; names his son [[Gershom]] — Exodus 2:20–22
+- *(ahead)* Keeps Jethro's flock; the burning bush — Exodus 3:1
 
 ## Appears in
 
 - [[The Birth of Moses]] — Exodus 2:1–10; **born, hidden, put into the river in an ark, drawn out,
   nursed by his mother, adopted, and named.** His one act is to cry (2:6)
+- [[Moses Flees to Midian]] — Exodus 2:11–22; **a would-be deliverer refused.** Kills an Egyptian in
+  secret, is asked *"Who made you a prince and a judge over us?"*, flees afraid, saves seven Midianite
+  women at a well, marries Zipporah, and names his son for his exile
 
 ## Related people
 
@@ -70,6 +114,10 @@ sections are written as their pericopes arrive.
 - [[Levi]] and [[Kohath]] — his tribe and his grandfather's line
 - [[Joseph]] — the earlier Hebrew made Egyptian by Pharaoh's house, in the reverse direction
 - [[Noah]] — the only other person carried in a *tēbâ*
+- [[Jethro]] — his father-in-law, the priest of Midian, called Reuel at 2:18
+- [[Zipporah]] — his wife
+- [[Gershom]] — his first son, named for his exile
+- [[Jacob]] — whose flight, well, flock, and marriage his own exile repeats
 
 ## Themes associated
 
@@ -79,3 +127,6 @@ sections are written as their pericopes arrive.
 - [[Names and Naming]]
 - [[Faith]]
 - [[Call and Election]]
+- [[Mediation and Advocacy]]
+- [[Land and Sojourning]]
+- [[The Fear of God]]

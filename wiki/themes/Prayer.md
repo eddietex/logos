@@ -217,6 +217,10 @@ already did.
   *"turned the captivity of Job, when he prayed for his friends"*. Job had called his prayer *"pure"* (16:17) and
   disowned the wicked's *"what profit … if we pray to him?"* (21:15); Eliphaz had promised *"You shall make your
   prayer to him, and he will hear you"* (22:27). It happens, for Eliphaz.
+- [[Moses Flees to Midian]] — Exodus 2:23–24; **a cry that is not a prayer, and is heard as one.** Israel *"sighed …
+  and they cried, and their cry came up to God"* — *because of the bondage*, not to anyone. **No one in
+  Exodus 1–2 prays**, and *"God heard their groaning"* anyway: the hearing of Abel's blood (Genesis
+  4:10), of Sodom's outcry (18:20–21), and of Hagar's boy (21:17), now for a nation
 
 ## Related themes
 

@@ -207,6 +207,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[The Birth of Moses]] — Exodus 2:1–10; **Egypt's royal house raises Israel's deliverer.** Pharaoh's
   daughter spares a Hebrew boy from her father's decree, pays his mother from the royal purse, and
   adopts him — *"instructed in all the wisdom of the Egyptians"* in Stephen's telling (Acts 7:22)
+- [[Moses Flees to Midian]] — Exodus 2:11–15, 23; **the country Moses flees, and the one he is mistaken
+  for.** He kills an Egyptian taskmaster and must run from Pharaoh's face; in Midian the women he
+  rescues report that *"an Egyptian delivered us"* (2:19). The king dies and **the *ʿăbōdâ*, the
+  bondage, outlives him** (2:23). Whether Gershom's *"foreign land"* (2:22) is Midian or Egypt the
+  naming speech does not say
 
 ## Related places
 
@@ -259,3 +264,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   cast every son into the river — Exodus 1:8–22, [[The Oppression in Egypt]]
 - Moses born, set in the Nile, drawn out by Pharaoh's daughter, and adopted into the royal house —
   Exodus 2:1–10, [[The Birth of Moses]]
+- Moses kills an Egyptian and flees from Pharaoh; the king dies, and Israel's cry goes up to God —
+  Exodus 2:11–25, [[Moses Flees to Midian]]

@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Genesis 24:10–61** — the servant and [[Rebekah]] outside the city of Nahor — [[A Wife for Isaac]]
 - **Genesis 29:1–20** — Jacob and Rachel at the well in the east — [[Jacob, Leah, and Rachel]]
-- **Exodus 2:15–21** — Moses and Zipporah at the well in Midian
+- **Exodus 2:15–21** — Moses and Zipporah at the well in Midian — [[Moses Flees to Midian]]
 - **John 4:1–42** — Jesus and the Samaritan woman at Jacob's well
 - Compare **1 Samuel 9:11–13** — Saul meets young women drawing water, and the scene declines to
   become this one
@@ -70,6 +70,17 @@ same location to show a different man getting a different result from it.
 involved, and the endogamy that drives Genesis 24 is simply absent. What the scene establishes there
 is that the deliverer of Israel is, at this point in his life, a man who intervenes for strangers at
 a watering trough — the third time in one chapter he steps into somebody else's fight.
+
+**Now that it is on the page, Exodus 2 adds three things.** **The deed is told in the exodus's own
+verbs**: the shepherds *drive out* the women (*gāraš*, the verb Pharaoh will use of Israel, 6:1;
+11:1), Moses *saves* them (*yāšaʿ*, the verb of the sea, 14:30), and the daughters report *"An
+Egyptian delivered us out of the hand of the shepherds"* (*nāṣal … miyyad*, the formula of 3:8).
+**The hero is misidentified** — the women take him for an Egyptian, the one feature none of the
+Genesis versions has. And **the father's welcome is a rebuke**: *"Why is it that you have left the
+man? Call him, that he may eat bread"* (2:20). In Genesis 24 and 29 Laban *runs* out to the stranger
+as soon as he hears; here the daughters come home without him and the father has to send for him. **Moses, unlike Jacob, is not tricked**; he is *"content to
+dwell with the man"* (2:21), and the bride is given rather than earned. See [[Jethro]] and
+[[Zipporah]].
 
 ### John 4
 

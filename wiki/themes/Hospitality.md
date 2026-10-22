@@ -183,6 +183,10 @@ theme, and its last appearance inverts who performs it.
 - [[Job's Oath of Innocence]] — Job 31:31–32; *"Who can find one who has not been filled with his meat?"*, and *"the foreigner
   has not camped in the street, but I have opened my doors to the traveler"* — [[Lot]]'s urging at
   Sodom (Genesis 19:2–3) as a standing habit, sworn to under oath.
+- [[Moses Flees to Midian]] — Exodus 2:20; **a foreign priest rebukes his daughters for leaving a stranger at the
+  well**: *"Why is it that you have left the man? Call him, that he may eat bread."* The fugitive from
+  Pharaoh's house is fed, housed, and married by a Midianite — the welcome of Abraham at Mamre given
+  by someone outside the covenant line
 
 ## Related themes
 

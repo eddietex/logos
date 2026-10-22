@@ -248,6 +248,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[The Birth of Moses]] — Exodus 2:1–10 with Hebrews 11:23; **the parents *"not afraid of the
   king's commandment"*** — the midwives' fear of God (1:17) restated as the absence of the fear of
   Pharaoh. Exodus itself names no fear in the passage
+- [[Moses Flees to Midian]] — Exodus 2:14; ***"Moses was afraid"*** — **the fear of a man**, which the midwives were
+  praised for not having (1:17). Hebrews 11:27 says *"By faith, he left Egypt, not fearing the wrath of
+  the king"*; either it means the exodus itself, or the motive beneath the flight. Both readings are
+  recorded on the passage page and neither adopted
 
 ## Related themes
 

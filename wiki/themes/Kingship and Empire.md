@@ -197,6 +197,10 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 - [[The Birth of Moses]] — Exodus 2:5–10; **the king's house rears the king's undoing.** Pharaoh's
   own daughter breaks the decree, pays a Hebrew mother from the royal purse, and adopts the
   deliverer; the king appears only as a title in *"Pharaoh's daughter"*
+- [[Moses Flees to Midian]] — Exodus 2:14–15, 23; ***"a prince and a judge"*** — **the first question about
+  authority inside Israel is who gave a man the right to rule it**, and Moses has no answer until the
+  bush. The king who *"sought to kill Moses"* dies, and **the bondage does not die with him** — the
+  empire outlasts the emperor
 
 ## Related themes
 

@@ -235,6 +235,10 @@ human one innocent.** *"You meant evil"* stands. See
   act in the whole rescue: a mother's improvised ark, a sister's watch, the timing of a princess's
   bath, her pity, and a sister's quick tongue. **The deliverer is preserved by the enemy's own
   household**, and the narrator leaves the reader to supply what Genesis 50:20 already said
+- [[Moses Flees to Midian]] — Exodus 2:15–25; **the fugitive placed where God will find him.** Moses' own attempt at
+  deliverance fails and drives him into the wilderness; there he becomes a shepherd within reach of
+  Horeb (3:1). Nothing in 2:11–22 names God; **the narrator withholds him until 2:23–25 and then names
+  him five times in three verses**
 
 ## Related themes
 

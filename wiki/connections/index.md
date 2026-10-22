@@ -280,3 +280,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Genesis 11:3 · 1 Corinthians 10:1–2 |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
+| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 |
+| [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 |
+| [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 6:5 · Psalm 105:42 · Luke 1:72–73 |

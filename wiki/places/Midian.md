@@ -43,11 +43,12 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - **Genesis 37:28, 36** — **the next pericope in this book.** Midianite (and Ishmaelite) traders pull
   [[Joseph]] out of the pit and sell him into Egypt; the passage uses both names for the same
   caravan, which is one of the best-known seams in Genesis.
-- **Exodus 2:15–22; 3:1; 18:1–27** — Moses flees to Midian, marries Zipporah, keeps the flocks of the
-  priest of Midian, meets God at the bush while doing it, and later takes that priest's advice on how
-  to govern. **The single most consequential piece of counsel in the Torah's administration of Israel
-  comes from a Midianite.** He is called **Reuel** at Exodus 2:18 and **Jethro** from 3:1 — and
-  *Reuel* is also the name of Esau's second son, on which see [[Reuel (son of Esau)]].
+- **Exodus 2:15–22; 3:1; 18:1–27** — Moses flees to Midian, marries [[Zipporah]], keeps the flocks of
+  the priest of Midian, meets God at the bush while doing it, and later takes that priest's advice on
+  how to govern. **The single most consequential piece of counsel in the Torah's administration of
+  Israel comes from a Midianite.** He is called **Reuel** at Exodus 2:18 and **Jethro** from 3:1, and
+  the wiki files him as [[Jethro]]; *Reuel* is also the name of Esau's second son, on which see
+  [[Reuel (son of Esau)]]. See [[Moses Flees to Midian]].
 - **Numbers 22:4–7; 25:16–18; 31** — Midian joins Moab in hiring Balaam, is implicated in the affair
   at Peor, and is destroyed.
 - **Judges 6–8** — the Midianite camel raids, and Gideon.
@@ -68,6 +69,11 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] and the wiki adopts none; **Judges 8:24
   calls Midianites Ishmaelites in a single clause**, which is the harmonising reading's proof text. **This
   is Midian's first appearance as a people doing anything**
+- [[Moses Flees to Midian]] — Exodus 2:15–22; **the fugitive's refuge.** Moses flees here from
+  Pharaoh, sits down by *the* well, saves the priest of Midian's seven daughters from the shepherds,
+  and marries into the house. **The descendants of the people whose caravan carried Joseph into Egypt
+  (Genesis 37:28, 36) shelter the man who will bring Joseph's bones out of it** (Exodus 13:19). Moses
+  names his son for being a *gēr* here — *"a foreigner in a foreign land"* (2:22)
 
 ## Related places
 
@@ -80,7 +86,8 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 
 - A son of Abraham by Keturah, sent east with gifts — Genesis 25:1–6
 - Struck by Hadad son of Bedad in the field of Moab — Genesis 36:35
-- Moses' forty years of exile, his marriage, and the burning bush — Exodus 2:15–3:12
+- Moses' forty years of exile, his marriage, and the burning bush — Exodus 2:15–3:12;
+  [[Moses Flees to Midian]]
 - Jethro's counsel on delegated judges — Exodus 18
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31
 - The raids Gideon ends — Judges 6–8

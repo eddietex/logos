@@ -920,6 +920,10 @@ for four hundred years, and he is dead when he gets there.**
   man and his household came with Jacob"* — and seventy souls *"came out of Jacob's body"*, the *yārēk*
   of the oath at 47:29. By 1:7 his household has *"filled"* the land, and *"the children of Israel"*
   has become the name of a people
+- [[Moses Flees to Midian]] — Exodus 2:15–24; **named third in the covenant God remembers (2:24), and
+  his exile retold.** Moses flees a threat to his life, comes to a well, waters a flock for a
+  shepherd's daughter, and marries into the house — Jacob's flight to Laban (Genesis 27:43; 29:1–20)
+  step for step
 
 ## Related people
 

@@ -307,6 +307,10 @@ will finally go both ways.
   good* (*kî-ṭôb*, Genesis 1:4's verdict); the sister stands far off *to know* what will be done;
   the princess *sees* the basket, opens it, *sees* the child — and then hears him. See
   [[Watching from Far Off - Hagar and Moses' Sister]]
+- [[Moses Flees to Midian]] — Exodus 2:11–12, 25; **the chapter's first and last seeing.** Moses *"looked at their
+  burdens"* and *saw* an Egyptian strike a Hebrew, then *"looked this way and that way"* and saw *no
+  man* — seeing used to make sure he is not seen. The chapter closes on ***"God saw the children of
+  Israel"*** and ***God knew*** (2:25): the seeing that is not hidden, and that ends the bondage
 
 ## Related themes
 

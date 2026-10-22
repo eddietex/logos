@@ -1353,6 +1353,20 @@ parents' act as faith (11:23). His silence is broken at 2:23–25, where he hear
 and knows. See [[The Birth of Moses]] and
 [[The Two Arks - Noah's Ship and Moses' Basket]].
 
+### He hears, remembers, sees, and knows — Exodus 2:11–25
+
+**For twenty-two verses he is absent again.** Moses kills an Egyptian, is refused by a Hebrew, flees,
+and marries in Midian, and the narrator gives God no word, no act, and no mention — **the deliverer's
+first attempt at deliverance is made entirely without him**, by Moses' own hand, in secret, and it
+fails. Then, in three verses, *God* (*ʾĕlōhîm*) is named five times: Israel's cry *"came up to God"*,
+and ***God heard*** their groaning, ***God remembered*** his covenant with Abraham, Isaac, and Jacob,
+***God saw*** the children of Israel, and ***God knew*** (2:23–25; the WEB's *"was concerned"*).
+**The cry is not addressed to him** — no one in Exodus 1–2 prays — and he hears it anyway, as he
+heard Hagar's boy (Genesis 21:17). **The last verb answers the first failure of the oppression**: the
+king *"didn't know Joseph"* (1:8), and God *knows*. *Zākar* is not recollection after forgetting but
+the hinge of a rescue, as it was for Noah, Abraham, and Rachel. See [[Moses Flees to Midian]] and
+[[God Remembered - Noah, Abraham, Rachel, and Israel]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1505,6 +1519,8 @@ and knows. See [[The Birth of Moses]] and
   — Job 42:7–17, [[The Restoration of Job]]
 - Deals well with the Hebrew midwives, who feared him, and gives them households; his people
   multiply under oppression — Exodus 1:7, 12, 17–21, [[The Oppression in Egypt]]
+- Hears Israel's groaning, remembers his covenant with Abraham, Isaac, and Jacob, sees, and knows —
+  Exodus 2:23–25, [[Moses Flees to Midian]]
 
 ## Appears in
 
@@ -1826,6 +1842,10 @@ and knows. See [[The Birth of Moses]] and
   gave them *bāttîm*, households
 - [[The Birth of Moses]] — Exodus 2:1–10; **not mentioned.** The deliverer is preserved by three
   women and a basket, and the narrator names no divine act
+- [[Moses Flees to Midian]] — Exodus 2:23–25; **absent from Moses' attempt, then named five times in
+  three verses.** He hears a cry no one addressed to him, remembers the covenant with the three
+  patriarchs, sees, and *knows* — the verb the king of 1:8 failed. The book's turn from oppression to
+  deliverance is his, not Moses'
 
 ## Related people
 

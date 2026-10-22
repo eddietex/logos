@@ -11086,3 +11086,84 @@ removed), [[Egypt]]. Themes (14): [[Providence]], [[Life and Death]], [[Compassi
 Indexes: books (Exodus 2 / 53), people (+5 rows, 3 revised), places (2 revised), themes (14
 revised), connections (+3), `wiki/index.md` (93 passages, 151 people, 276 connections).
 `scripts/link-check.sh` clean.
+
+## [2026-10-22] ingest | Exodus 2.11-25 — Moses Flees to Midian
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *Moses Flees to Midian — Exodus
+2:11–25*. Boundary kept as planned (2:23–25 stays with the flight rather than opening the call
+narrative, because the four divine verbs close the chapter's arc from Moses' failed initiative to
+God's). No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Moses Flees to Midian]] — three interventions for the wronged (Egyptian/Hebrew, Hebrew/Hebrew,
+shepherds/women), the first two failing and the third rewarded; then God named five times in three
+verses. Findings: *ʾeḥāyw* twice in 2:11; *siblōtām* as 1:11's *burdens*; *nākâ* used of the
+Egyptian, Moses, and the Hebrew, and of God at 3:20; *ʾên ʾîš* and Isaiah 59:16 (flagged as
+allusion only); *lārāšāʿ* as a verdict; *śar wəšōpēṭ*; *bāraḥ … mippənê* as Hagar's sentence
+(Genesis 16:6); *yāšab* three times; *gāraš* (Eden, Hagar, and Exodus 6:1; 11:1; 12:39); *yāšaʿ*
+(14:30) and *nāṣal … miyyad* (3:8); *"an Egyptian"*; *yāʾal*; *gēr* and Genesis 15:13; Joseph's
+exile names against Gershom's; *ʿăbōdâ* twice in 2:23; the unaddressed cry; *šāmaʿ*, *zākar*,
+*rāʾâ*, *yādaʿ* with *yādaʿ* answering 1:8.
+
+### Judgment calls
+
+- **The priest of Midian is filed as [[Jethro]]**, not *Reuel*, because Exodus uses *Jethro* far more
+  often and the bare name *Reuel* would collide with [[Reuel (son of Esau)]]. That page had
+  anticipated `Reuel (father-in-law of Moses)`; its forward reference was rewritten to point at
+  Jethro. The Reuel/Jethro/Hobab problem (Numbers 10:29; Judges 4:11, where the WEB reads
+  *brother-in-law*) is set out on the Jethro page, with three standard explanations and none adopted.
+- **Pages for Zipporah and Gershom** created; no page for Eliezer, who is not named until 18:4.
+- **Unnamed figures** (the Egyptian, the two Hebrews, the shepherds) get no pages.
+- **No `Horeb` link yet** — a Related-places bullet on [[Midian]] was drafted and removed because the
+  page does not exist; Horeb is created at 3:1.
+- **Contradiction flagged, not resolved**: *"Moses was afraid"* (2:14) against Hebrews 11:27, *"not
+  fearing the wrath of the king"*. Both standard readings (Hebrews means the exodus; Hebrews means the
+  motive beneath the flight) are recorded on the passage page, [[Moses]], and [[The Fear of God]].
+- **Whether the killing was justified** — Stephen's approval (Acts 7:24–25), the narrative's
+  reticence, and a midrashic justification (Exodus Rabbah 1:29) recorded side by side.
+- **Gershom's "foreign land"** — Midian or Egypt; both readings recorded.
+- **Judges 18:30's suspended *nun*** (Moses → Manasseh) recorded on [[Gershom]] as a textual fact,
+  for treatment when Judges 18 is reached.
+
+### Corrections made while drafting
+
+- A draft claim that 2:24 is the first time all three patriarchs are named together was wrong —
+  Joseph does it at Genesis 50:24. The page now says *the first time the narrator* does.
+- A draft claim that Jethro offers *"the first sacrifice in Exodus"* was narrowed to the first burnt
+  offering actually offered (the Passover is a sacrifice of another kind; 10:25 is a request).
+- A draft on [[Vengeance]] called this the Bible's first killing on behalf of a wronged Israelite;
+  Simeon and Levi at Shechem (Genesis 34) precede it, and the bullet now names them as precedent.
+- A draft on [[The Betrothal at the Well]] said the girls never leave the stranger at the well in
+  Genesis; in fact Laban runs out at once there, and the line now says that.
+
+Quotations outside Genesis/Exodus checked against the WEB at bible-api.com before writing: Acts
+7:9, 23–30, 35, 52; Hebrews 11:24–27; Luke 1:72–73; Luke 12:14; Isaiah 59:16; Numbers 10:29–32;
+Numbers 12:1; Judges 4:11; Judges 18:30; Leviticus 19:34; Deuteronomy 10:19; Psalm 105:42;
+1 Chronicles 23:15–16; Habakkuk 3:7. Joshua 7:21 cited by reference only. Genesis, Exodus, and Job
+texts checked against `raw/bible/`.
+
+### Connection pages
+
+Created (3): [[Who Made You a Prince and a Judge - The Rejected Deliverer]],
+[[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]], and
+[[God Remembered - Noah, Abraham, Rachel, and Israel]]. Revised (4): [[The Betrothal at the Well]]
+(Exodus 2 linked and an analysis paragraph added), [[Affliction and Flight - Hagar and the Exodus]],
+[[Four Hundred Years - The Sojourn and the Exodus]], and
+[[A Stranger and a Foreigner - The Sojourner's Confession]].
+
+### Pages created or revised
+
+Created (7): the passage page, [[Jethro]], [[Zipporah]], [[Gershom]], and three connection pages.
+People revised (7): [[Moses]] (new synthesis on the killing, the flight, and Midian; timeline;
+relations), [[God]] (new *Exodus 2:11–25* subsection), [[Pharaoh (of the oppression)]] (the two
+*ahead* items now ingested), [[Reuel (son of Esau)]], [[Abraham]], [[Isaac]], [[Jacob]]. Places (2):
+[[Midian]], [[Egypt]]. Themes (19): [[Brotherhood]], [[Seeing and Being Seen]], [[Vengeance]],
+[[Guilt and Conscience]], [[Strife and Peacemaking]], [[Mediation and Advocacy]],
+[[Kingship and Empire]], [[The Fear of God]], [[Faith]], [[Hospitality]], [[Marriage]],
+[[Names and Naming]], [[Land and Sojourning]], [[Slavery and Servitude]], [[Prayer]], [[Suffering]],
+[[Remembrance]], [[Covenant]], [[Providence]]. Book page: box checked, chapter 2 structure note, key
+people, places, and themes. Indexes: books (Exodus 3 / 53), people (+3 rows, 7 revised), places (2
+revised), themes (19 revised), connections (+3), `wiki/index.md` (94 passages, 154 people, 279
+connections). `scripts/link-check.sh` clean.

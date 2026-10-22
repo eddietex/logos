@@ -307,6 +307,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[The Oppression in Egypt]] — Exodus 1:7, 11–14; Genesis 15:13 kept to the word — *serve* and *afflict* — by the nation it
   condemns, and 15:14's *"I will also judge that nation"* still ahead. God is not said to
   *remember his covenant* until 2:24
+- [[Moses Flees to Midian]] — Exodus 2:24; **the covenant with the three patriarchs named as the reason for the
+  exodus**, the first time the narrator names all three together as its parties. The covenant meant is
+  Genesis 15's, which set the four hundred years and promised the departure; God repeats it to Moses at
+  6:5. See [[God Remembered - Noah, Abraham, Rachel, and Israel]]
 
 ## Related themes
 
