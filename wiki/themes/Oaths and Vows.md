@@ -193,6 +193,13 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   same clause of denying Job justice. What is sworn is negative — *"my lips shall not speak
   unrighteousness, neither shall my tongue utter deceit"* (27:4) — an oath not to confess what is not
   true. The first of Job's two oaths; the second, the self-curses of chapter 31, closes his defence
+- [[Job's Oath of Innocence]] — Job 31:1–40; **the oath of clearance, the fullest in Scripture.** A chain of *ʾim* clauses,
+  *"If I have …"*, each denying a sin, with the penalty sometimes named — *"let me sow, and let another
+  eat"* (31:8), *"let my wife grind for another"* (31:10), *"let my arm be broken from the bone"*
+  (31:22), *"let briers grow instead of wheat"* (31:40) — and more often suppressed, which is the usual
+  form of a Hebrew oath: *"if I have done it"* with the curse unspoken means *"I have not."* **The
+  second of Job's two oaths, and the one that ends his part in the dialogue**: he signs it (*"here is my
+  signature"*, 31:35) and demands the charge in writing.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

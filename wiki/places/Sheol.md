@@ -167,6 +167,11 @@ to go.
   for all living."*** *Bêt môʿēd ləkol-ḥāy* — not named as Sheol, but the same destination under a new
   name: a *meeting house*, the one appointment that all the living keep. Job's appeals for a hearing
   with God (9:32–35; 13:3; 23:3) end, in this chapter, with the only appointment he now expects.
+- [[Job's Oath of Innocence]] — Job 31:12; **Abaddon as the limit of a fire.** Adultery is *"a fire that
+  consumes to destruction"* — *ʿad-ʾăbaddôn*, *to Abaddon* — *"and would root out all my increase"*. The
+  only use of the name in Job that is not a place beside Sheol (26:6) or a speaker beside Death (28:22),
+  but the measure of how far a sin burns. See
+  [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
 
 ## Related places
 

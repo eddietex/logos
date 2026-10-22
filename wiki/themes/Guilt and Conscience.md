@@ -137,6 +137,11 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
   34:7's *"will by no means clear the guilty"*, applied to a man who is not. *"If I wash myself with
   snow, and cleanse my hands with lye, yet you will plunge me in the ditch"*: Isaiah 1:18 and Psalm
   51:7 reversed. The theme's first case where the conscience is clean and the verdict is not.
+- [[Job's Oath of Innocence]] — Job 31:33–34; *"if like Adam I have covered my transgressions, by hiding my iniquity in my
+  heart, because I feared the great multitude"*. **The only clause of the oath that denies concealment
+  rather than a sin**, set against the first man's hiding (Genesis 3:8–10); the alternative Psalm 32:5
+  and Proverbs 28:13 commend is confession, and Job's claim is that there is nothing hidden to confess.
+  See [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]].
 
 ## Related themes
 

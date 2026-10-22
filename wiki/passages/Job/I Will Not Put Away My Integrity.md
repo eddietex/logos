@@ -238,7 +238,7 @@ last time anyone in the dialogue recites it.
   *"outskirts"* and asks where wisdom is found; and 28:22, where Abaddon, naked before God at 26:6, has
   only heard a rumour of it.
 - Job 29:1 — *"Job again took up his parable"*, the same heading as 27:1, opening his final defence.
-- Job 31:1–40 — the oath of innocence, the second and fuller of Job's oaths.
+- [[Job's Oath of Innocence]] — Job 31:1–40; the second and fuller of Job's oaths.
 - Job 37:2–5; 40:9 — the thunder of God's voice, in Elihu's mouth and then God's own: *"Can you
   thunder with a voice like him?"*
 - Job 42:7 — the verdict on what the friends said, and on what Job said.

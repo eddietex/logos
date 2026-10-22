@@ -129,8 +129,13 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   *heḥĕzaqtî*, answering *maḥăzîq bətummātô* at 2:3 and 2:9 — and set against God's act two verses
   earlier: God *hēsîr*, removed, Job's right (27:2); Job *lōʾ-ʾāsîr*, will not remove, his integrity
   (27:5). Integrity as the one thing left that is his to give up
-- **Job 31:6** — *"let him weigh me in an even balance, that God may know my integrity"*: the oath of
-  innocence, and the honest weights of Deuteronomy 25:13–15 turned on the man himself
+- [[Job's Oath of Innocence]] — Job 31:6, *"let me be weighed in an even balance, that God may know my
+  integrity"*: *bəmōʾzənê-ṣedeq*, *scales of righteousness*, and *tummātî* a third time in Job's mouth
+  (27:5). The honest weights of Deuteronomy 25:13–15 turned on the man himself — **integrity offered for
+  measurement**, where the friends had only inferred its absence. And the chapter's last words, *"The
+  words of Job are ended"* (31:40), use the same root: *tammû*, *they are complete*. *(This entry
+  previously quoted 31:6 as "let him weigh me", which is not the WEB's wording; corrected from
+  `raw/bible/Job.md`.)*
 - **Psalm 15:1–2; 25:21; 26:1–3, 11; 41:12; 101:2** — integrity as the condition of dwelling with God
   and as a thing one asks to be examined for
 - **Proverbs 2:7; 10:9; 11:3; 19:1; 20:7; 28:6** — the wisdom tradition's claim that it is safe

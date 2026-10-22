@@ -39,6 +39,9 @@ person/place rule in `AGENTS.md` applies and both pages take a qualifier.
   same byword, now as the measure of what cannot buy wisdom. Six verses earlier the miner of 28:1–11
   could have dug it out; the hymn's point is that what he can dig is not what is needed. See
   [[Better Than Gold - The Price of Wisdom]].
+- [[Job's Oath of Innocence]] — Job 31:24–25, not named; **Eliphaz's Ophir answered.** *"If I have made
+  gold my hope, and have said to the fine gold, 'You are my confidence'"* — *ketem*, the word paired with
+  Ophir at 28:16 — denies under oath what 22:24 assumed, that Job's wealth was his god.
 
 ## Related places
 

@@ -194,6 +194,11 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
   and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See
   [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]].
+- [[Job's Oath of Innocence]] — Job 31, not named; **his charge sheet answered under oath.** 22:7's
+  bread withheld (31:16–17), 22:9's widows sent away (31:16) and fatherless arms broken (31:21–22, *"let
+  my arm be broken from the bone"*), 22:6's naked stripped (31:19–20), and 22:24's gold (31:24–25) are
+  each denied under a curse on Job himself. See
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 
 ## Related people
 

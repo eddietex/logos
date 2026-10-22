@@ -10266,3 +10266,80 @@ Connections revised (8). Book page: box checked, structure note for 30 added. In
 `wiki/index.md` (83 passages, 251 connections).
 
 No contradiction between wiki pages found beyond the [[Sitting in Dust and Ashes]] corrections above.
+
+## [2026-10-21] ingest | Job 31.1-40 — Job's Oath of Innocence
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 31:1–40. **Boundary and
+title unchanged** from the plan. No collision with any other book. **Job is at 25 / 32.** No discussion
+step; it is written into the passage page.
+
+### The passage page
+
+[[Job's Oath of Innocence]], built around five findings:
+
+**1. The form is the Hebrew oath of clearance** — *"If I have …"* clauses, four with the curse spelled
+out (31:8, 10, 22, 40) and the rest suppressed; an eleven-row table on the page sets out sin denied and
+curse invoked. The second of Job's two oaths (27:2–6 the first), and the end of his part in the dialogue.
+
+**2. Eliphaz's charge sheet answered clause by clause** (22:6–9, 24 against 31:16–25) — *"let my arm be
+broken from the bone"* (31:22) for the fatherless whose arms Eliphaz said were broken (22:9).
+
+**3. The list carried past anything the friends alleged**: the look (*"a covenant with my eyes"*, 31:1),
+the slave's lawsuit heard because *"one"* fashioned master and slave in the womb (31:15), no gloating
+over an enemy (31:29–30), and the cover-up denied, *"like Adam"* (31:33).
+
+**4. The signature** (31:35): *hen-tāwî*, the *taw* of Ezekiel 9:4's mark; *ʾîš rîbî*, the opposing
+party at law (not *haśśāṭān*); and 31:14's *"what shall I answer him?"* (*ʾăšîbennû*) against 40:4's
+*"What shall I answer you?"*.
+
+**5. *Tammû dibrê ʾiyyôb*** (31:40) — *"are ended"* from the *t-m-m* root of integrity.
+
+**Judgment calls.** *Kəʾādām* (31:33) read with the WEB as *"like Adam"*, the alternative *"as humankind
+does"* recorded. 31:38–40's proposed transposition before 31:35 recorded, received order kept. The count
+of *if*-clauses left open. 31:18 marked as hard, nothing argued from it. The Egyptian "negative
+confession" noted as a genre comparison only. The servants, poor, enemy and stranger get no pages
+(classes, not characters).
+
+### Corrections to existing pages
+
+- **[[Integrity]] misquoted 31:6** as *"let him weigh me in an even balance"*; now the WEB's *"let me be
+  weighed in an even balance"*, with the correction stated on the page.
+- **[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] misquoted 40:4** as *"What will I answer
+  you?"*; now the WEB's *"What shall I answer you?"*, from `raw/bible/Job.md`.
+- [[Job's Wife]] paraphrased 31:10's second half as *"others stoop over her"*; now quotes the WEB.
+
+### Connection pages
+
+Created (2): [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] and
+[[If Like Adam I Have Covered - Job 31.33 and Genesis 3]]. Revised (6):
+[[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] (31:16–22 linked,
+31:31–32 and the rest of the charge sheet added),
+[[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] (31:15 linked),
+[[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] (31:12 linked),
+[[Better Than Gold - The Price of Wisdom]] (31:24–25), [[Do Not Cover My Blood]] (31:38–39, and a
+paragraph on Job's two uses of the crying ground), and
+[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] (31:14, 35; misquote above). Every non-Job,
+non-Genesis quotation was checked against the WEB from bible-api.com before writing (Matthew 5:27–29,
+43–44; Psalm 26:1–2; 32:5; 72:20; 139:23–24; Deuteronomy 4:19; 28:30; Ezekiel 8:16; 9:4; Proverbs 6:25;
+14:31; 16:2; 22:2; 24:17–18; 28:13; Exodus 23:4–5; Daniel 5:27; 1 Kings 19:18; Hosea 6:7; 13:2; Malachi
+2:10; Numbers 15:39; 2 Samuel 11:2; 2 Peter 2:14; 1 John 2:16; Habakkuk 2:11; others checked and cited
+by reference only). Job and Genesis texts checked against `raw/bible/`.
+
+### Pages created or revised
+
+Created (3): the passage page and two connections. People (7): [[Job (person)]] (timeline and
+appears-in), [[God]] (Job section and appears-in), [[Job's Wife]], [[Adam]], [[Eliphaz the Temanite]],
+[[Satan]] (note that the WEB's *"accuser"* at 31:35 is not *haśśāṭān*), [[Zophar the Naamathite]].
+Places (2): [[Sheol]] (Abaddon, 31:12), [[Ophir]]. Themes (15): [[Integrity]], [[Oaths and Vows]],
+[[Righteousness]], [[Sexual Sin]] and [[Idolatry]] and [[Slavery and Servitude]] (each with a new
+development paragraph), [[Compassion and Mercy]], [[Wealth and Possessions]], [[Vengeance]],
+[[Hospitality]], [[Guilt and Conscience]], [[Mediation and Advocacy]], [[Curse]],
+[[Seeing and Being Seen]], [[Retribution]]. Passages (6): forward references linked in
+[[Now They Mock Me]], [[The Months of Old]], [[I Will Not Put Away My Integrity]],
+[[Oh That I Knew Where I Might Find Him]], [[Eliphaz's Third Speech]], [[Zophar's First Speech]].
+Connections revised (6). Book page: box checked, structure note for 31, [[Oaths and Vows]] added to key
+themes. Indexes: books (25 / 32), people (7 rows), places (2 rows), themes (15 rows), connections (+2
+rows, 4 rows revised), `wiki/index.md` (84 passages, 253 connections).
+
+No contradiction between wiki pages found beyond the misquotations corrected above.

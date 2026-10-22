@@ -223,6 +223,9 @@ the promise is repeatedly mistaken for.
   Ethiopia"* — none of which can buy wisdom: *"Man doesn't know its price"* (28:13). Spoken by a man
   who has lost everything he owned, and who was wise, by 28:28's definition, before and after the loss.
   See [[Better Than Gold - The Price of Wisdom]]
+- [[Job's Oath of Innocence]] — Job 31:24–25, 38–40; *"If I have made gold my hope … If I have rejoiced because my wealth was
+  great"*: wealth denied as trust and as joy, and the land denied as a thing got *"without money"* or by
+  causing *"its owners to lose their life"* (31:39). The answer to 22:24.
 
 ## Related themes
 

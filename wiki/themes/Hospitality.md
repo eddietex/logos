@@ -180,6 +180,9 @@ theme, and its last appearance inverts who performs it.
   have withheld bread from the hungry"*** — the most elementary duty of a house, charged as refused;
   Job will swear that he never ate his morsel alone (31:17) and that *"the stranger has not lodged
   in the street"* (31:32)
+- [[Job's Oath of Innocence]] — Job 31:31–32; *"Who can find one who has not been filled with his meat?"*, and *"the foreigner
+  has not camped in the street, but I have opened my doors to the traveler"* — [[Lot]]'s urging at
+  Sodom (Genesis 19:2–3) as a standing habit, sworn to under oath.
 
 ## Related themes
 

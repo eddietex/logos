@@ -113,6 +113,12 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   the gate cries to God and is not answered — *"I cry to you, and you do not answer me"* (30:20), **his
   last direct address to God before 40:4**. At its centre, *"I have become like dust and ashes"* (30:19),
   Abraham's pair and the words of 42:6; at its end, *"my harp has turned to mourning"* (30:31).
+  Chapter 31 is the oath that closes the case: a chain of *"If I have …"* clauses, each denying a sin
+  under a curse on himself, from the look (*"I made a covenant with my eyes"*, 31:1) to the slave's
+  lawsuit (*"Didn't one fashion us in the womb?"*, 31:15), the poor of Eliphaz's charge sheet, gold, the
+  sun and moon, and sin hidden *"like Adam"* (31:33). He signs it — *"Behold, here is my signature! Let the
+  Almighty answer me!"* (31:35) — and *"The words of Job are ended"* (31:40). **The friends do not
+  reply; God does, and mentions none of it.**
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
@@ -172,7 +178,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [x] [[The Months of Old]] — Job 29:1–25
 - [x] [[Now They Mock Me]] — Job 30:1–31
-- [ ] Job's Oath of Innocence — Job 31:1–40
+- [x] [[Job's Oath of Innocence]] — Job 31:1–40
 
 ### Elihu (32–37)
 
@@ -206,6 +212,8 @@ itself** where one stands out, since his replies are where the book's memorable 
   first: chapter 3 asks for a day to be given back to darkness, and 38:2 opens the whirlwind by
   accusing Job of *darkening counsel*
 - [[Righteousness]]
+- [[Oaths and Vows]] — the two oaths that carry Job's case, *"As God lives"* at 27:2 and the self-curses
+  of chapter 31, signed at 31:35
 - [[Sin]]
 - [[Judgment]]
 - [[Life and Death]]

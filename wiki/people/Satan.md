@@ -105,6 +105,11 @@ figure with a will of his own, a kingdom, and an end.
   book ever notes the failure**, because no one on the ground knows a prediction was made. Job also
   quotes him without knowing it — the *hedge* of 1:10 comes back at 3:23 with its meaning inverted;
   see [[The Hedge Around Him - Job 1.10 and Job 3.23]]
+- [[Job's Oath of Innocence]] — Job 31; **absent, and the WEB's English could suggest otherwise.** *"Let
+  the accuser write my indictment!"* (31:35) translates *ʾîš rîbî*, *the man of my case* — an opponent
+  at law, not *haśśāṭān*; Job never learns of the prologue. But the oath denies the very thing he
+  predicted: to have kissed his hand to the sun or moon *"I should have denied the God who is above"*
+  (31:28) — the renouncing of 1:11 and 2:5, sworn not to have happened even in the heart.
 
 ## Related people
 

@@ -315,7 +315,8 @@ it is false.
   charges: *"Oh that I knew where I might find him!"* (23:3); *"the words of his mouth"* treasured
   (23:12, against 22:22); and 24:2–12, the charges of 22:6–9 committed by real oppressors,
   unpunished.
-- Job 29:12–17; 31:16–25 — the point-by-point rebuttal, under oath.
+- [[The Months of Old]]; [[Job's Oath of Innocence]] — Job 29:12–17; 31:16–25; the point-by-point
+  rebuttal, under oath.
 - Job 35:6–8 — Elihu's restatement of 22:2–3.
 - Job 38:34 — *"that abundance of waters may cover you"*, the phrase of 22:11 in God's mouth.
 - Job 42:7–10 — Eliphaz rebuked, delivered through Job's prayer.

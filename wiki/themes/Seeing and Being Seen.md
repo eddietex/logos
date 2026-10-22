@@ -282,6 +282,9 @@ will finally go both ways.
   wisdom is *"hidden from the eyes of all living"* (28:21); God *"looks to the ends of the earth, and
   sees under the whole sky"* (28:24), and at the creation *"saw it"* (28:27). Only one eye sees far
   enough
+- [[Job's Oath of Innocence]] — Job 31:1, 4, 26; the eye under covenant (*"how then should I look"*), God's eye on Job
+  (*"Doesn't he see my ways, and count all my steps?"*), and the sun and moon that must not be seen as
+  gods. Job guards his own seeing because he knows he is seen.
 
 ## Related themes
 

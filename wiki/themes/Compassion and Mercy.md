@@ -145,6 +145,11 @@ name, and gives the name to a father who cannot see it work.**
   contempt, their fathers unfit to run with his sheep dogs, in terms close to those in which he pitied
   the wilderness poor at 24:4–8. The passage page records two readings (an outlaw class distinguished
   from the oppressed poor; or the old hierarchy surfacing in a man stripped of it) and does not choose.
+- [[Job's Oath of Innocence]] — Job 31:16–23; the poor, the widow, the fatherless and the naked, sworn to under curse: *"if
+  he hasn't been warmed with my sheep's fleece … then let my shoulder fall from the shoulder blade"*
+  (31:20–22). The record of 29:12–17 put under oath, and Eliphaz's 22:6–9 denied. 31:18 goes further
+  than either — the orphan raised *"as with a father"* in his own house. See
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 
 ## Related themes
 

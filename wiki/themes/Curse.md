@@ -183,6 +183,10 @@ the same verses that put the tree of life back in reach (see
   most resembles its fulfilment. Jeremiah does the same thing with the heavy verb and a human
   target; see [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] and
   [[Renounce God and Die - The Euphemism and the Accuser's Prediction]]
+- [[Job's Oath of Innocence]] — Job 31; **the self-curse.** Four penalties named against himself — another reaps his field
+  (31:8), another takes his wife (31:10), his arm broken from the shoulder (31:22), briers for wheat
+  (31:40) — and the rest suppressed in the oath's usual form. The last echoes the ground cursed at
+  Genesis 3:17–18.
 
 ## Related themes
 

@@ -16,8 +16,11 @@ tags: [connection]
   [[Why Do the Wicked Live]]
 - **Job 29:9** — *"The princes refrained from talking, and laid their hand on their mouth."* Job
   remembering how the powerful fell silent before him — [[The Months of Old]]
-- **Job 40:4** — *"Behold, I am of small account. What will I answer you? I lay my hand on my
+- **Job 40:4** — *"Behold, I am of small account. What shall I answer you? I lay my hand on my
   mouth."* Job before Yahweh *(not yet ingested)*
+- **Job 31:14, 35** — *"When he visits, what shall I answer him?"*; *"oh that I had one to hear me!
+  … Let the Almighty answer me!"* The question Job asks of himself in the oath is the one he asks God
+  at 40:4, with the same verb (*ʾăšîbennû*, *ʾăšîbekā*) — [[Job's Oath of Innocence]]
 - **Judges 18:19** — the Danites to the Levite of Micah's house: *"Hold your peace, put your hand on
   your mouth, and go with us"*
 - **Proverbs 30:32** — *"If you have done foolishly in lifting up yourself, or if you have thought
@@ -70,6 +73,6 @@ Isaiah 52:15 carries the same silence to the servant: kings shutting their mouth
 whose disfigurement was beyond human likeness. The reader of Job hears 21:5 there — *Look at me, and
 be astonished.*
 
-Related pages: [[Why Do the Wicked Live]], [[The Months of Old]], [[Seven Days of Silence]],
+Related pages: [[Why Do the Wicked Live]], [[The Months of Old]], [[Job's Oath of Innocence]], [[Seven Days of Silence]],
 [[Comforters Who Do Not Comfort]], [[Language and Speech]], [[The Fear of God]], and
 [[Job (person)]].

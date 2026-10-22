@@ -1252,6 +1252,13 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   him only in the third person**, so these four verses are Job's last words to God until *"What shall
   I answer you?"* (40:4) — and the storm Job says God dissolves him in is, in image though not in the
   same Hebrew word, the place God will speak from (38:1).
+- **The God of [[Job's Oath of Innocence]]** is the judge before whom the oath is sworn, spoken of
+  throughout and addressed nowhere. He sees Job's ways and counts his steps (31:4); he is asked to weigh
+  him *"in an even balance, that God may know my integrity"* (31:6); he *"rises up"* and *"visits"*
+  (31:14); and he is **the one maker of master and slave** — *"Didn't he who made me in the womb make
+  him? Didn't one fashion us in the womb?"* (31:15). To worship sun or moon would be to deny *"the God
+  who is above"* (31:28). The oath ends with a summons — *"Let the Almighty answer me!"* (31:35) — and he
+  does, at 38:1, without referring to a single item on the list.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1620,6 +1627,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Now They Mock Me]] — the one who *"has untied his cord"* (30:11) and *"cast me into the mire"*
   (30:19); addressed in 30:20–23 as silent, watching, *"cruel"* (*ʾakzār*), and the one who will bring
   Job to death — the last direct address before 40:4
+- [[Job's Oath of Innocence]] — the judge of Job's oath: the one who counts his steps (31:4) and is asked to
+  weigh him (31:6), the common maker of Job and his slave (31:15), *"the God who is above"* (31:28), and
+  *"the Almighty"* summoned to answer (31:35); spoken of, never addressed
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

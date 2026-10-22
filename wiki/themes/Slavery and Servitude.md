@@ -80,6 +80,13 @@ than abolish it. It does not hand down an abolitionist verdict. It hands down a 
 insistence that the slave is a person whom God hears, and a memory — *you were slaves* — which is the
 lever every later abolitionist actually used. Genesis 16 is where the insistence starts, with God
 addressing a slave by name and no one else in the story doing so.
+**Job 31:13–15 is the furthest the Old Testament goes.** *"If I have despised the cause of my male
+servant or of my female servant, when they contended with me"* — a slave with a lawsuit against his
+master, heard — and the reason: *"Didn't he who made me in the womb make him? Didn't one fashion us in
+the womb?"* **Master and slave share one maker and one manner of making.** It is the same ground as
+Proverbs 14:31, 22:2 and Malachi 2:10, applied inside a household; it does not abolish the institution,
+but it denies it any basis in the nature of the persons. See [[Job's Oath of Innocence]] and
+[[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]].
 
 ## Key passages
 
@@ -233,6 +240,9 @@ addressing a slave by name and no one else in the story doing so.
   fatherless from the breast, and take a pledge of the poor"* — a nursing child seized for a debt, as
   the creditor of 2 Kings 4:1 comes for the widow's two sons — and the labourers who make oil and
   tread winepresses *"within the walls of these men"*, unpaid and thirsty.
+- [[Job's Oath of Innocence]] — Job 31:13–15; the slaves' lawsuit heard, because *"one"* fashioned master and slave in the
+  womb; and 31:14, *"When he visits, what shall I answer him?"* — the master's treatment of his slave as
+  a matter he will answer for to God.
 
 ## Related themes
 

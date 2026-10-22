@@ -32,6 +32,9 @@ tags: [connection]
   will be your treasure"*. [[Eliphaz's Third Speech]].
 - **Job 23:10** — *"When he has tried me, I shall come out like gold."*
   [[Oh That I Knew Where I Might Find Him]].
+- **Job 31:24–25** — *"If I have made gold my hope, and have said to the fine gold, 'You are my
+  confidence;' If I have rejoiced because my wealth was great"* — *ketem*, the fine gold of 28:16, 19,
+  sworn against as a god — [[Job's Oath of Innocence]].
 
 ## Analysis
 

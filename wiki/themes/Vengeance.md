@@ -107,6 +107,10 @@ for revenge becomes its measure for pardon. See
 - **Genesis 50:15 — *lû yiśṭəmēnû*, *should Joseph hate us***: the brothers quote the verb of
   [[Esau]]'s grudge at 27:41, and the timing — *"the days of mourning for my father"* — with it —
   [[The Deaths of Jacob and Joseph]]
+- [[Job's Oath of Innocence]] — Job 31:29–30; *"If I have rejoiced at the destruction of him who hated me, or lifted up myself
+  when evil found him (yes, I have not allowed my mouth to sin by asking his life with a curse)"*. The
+  renunciation of revenge in thought and in word, the ethic of Proverbs 24:17 and Exodus 23:4–5, and a
+  step toward Matthew 5:44; and the lips that did not sin at 2:10 extended to an enemy.
 
 ## Related themes
 

@@ -260,6 +260,10 @@ verdicts.
   (30:8); the darkness (30:26), the ruin and the jackals (30:14, 29). The retribution reading of the
   chapter is available to anyone who wants it, and Job states every fact it needs without once
   conceding the inference.
+- [[Job's Oath of Innocence]] — Job 31:2–3; *"Is it not calamity to the unrighteous, and disaster to the workers of
+  iniquity?"* **Job still holds the doctrine.** He has argued since chapter 21 that it does not describe
+  the world, and here he stakes his life on it as a rule for himself: every clause invokes a penalty that
+  only a retributive God could execute. The oath is the friends' theology turned into a dare.
 
 ## Related themes
 

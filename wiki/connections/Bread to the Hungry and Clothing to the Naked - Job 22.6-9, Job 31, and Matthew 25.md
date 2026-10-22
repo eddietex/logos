@@ -25,10 +25,11 @@ tags: [connection]
 - **Job 29:12–17** — *"I delivered the poor who cried, and the fatherless also
   … I caused the widow's heart to sing for joy … I was eyes to the blind, and feet to the lame. I was
   a father to the needy."* — [[The Months of Old]]
-- **Job 31:16–22** *(not yet ingested)* — the oath: *"If I have withheld the poor from their desire,
+- **Job 31:16–22, 31–32** — the oath: *"If I have withheld the poor from their desire,
   or have caused the eyes of the widow to fail, or have eaten my morsel alone, and the fatherless has
   not eaten of it … if I have seen any perish for want of clothing … then let my shoulder fall from
-  the shoulder blade, and my arm be broken from the bone."*
+  the shoulder blade, and my arm be broken from the bone."* And the stranger: *"the foreigner has not
+  camped in the street, but I have opened my doors to the traveler"* (31:32) — [[Job's Oath of Innocence]]
 - **Isaiah 58:6–7** *(not yet ingested)* — the fast God chooses: bread to the hungry, the poor
   brought into the house, the naked covered
 - **Ezekiel 18:5–9, 16** *(not yet ingested)* — the righteous man defined: restores the pledge,
@@ -79,7 +80,11 @@ confess.
    [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 3. **In chapter 31 he swears to it**, under a self-imprecation that answers 22:9 in its own image:
    if he has lifted his hand against the fatherless, *"let my arm be broken from the bone"* (31:22).
-   Eliphaz said the fatherless's arms were broken; Job offers his own.
+   Eliphaz said the fatherless's arms were broken; Job offers his own. The oath answers the rest of the
+   charge sheet too — the bread withheld (31:16–17; 22:7), the widow (31:16; 22:9), the naked
+   (31:19–20; 22:6), the gold (31:24–25; 22:24) — and adds what Eliphaz never thought to allege: the
+   orphan raised in Job's house *"as with a father"* (31:18), the stranger lodged (31:32), and the
+   slave's lawsuit heard because *"one"* fashioned master and slave in the womb (31:15).
 
 **Matthew 25 is the list's last and largest form.** In the parable of the sheep and the goats the
 list is the whole of the judgment — the nations are separated by nothing else — and the twist is

@@ -92,6 +92,14 @@ praises anyone for continence except by narrating it, never shames anyone for it
 [[Judah and Tamar]] immediately before [[Joseph in Potiphar's House]] without a word of comparison** —
 one man going down and taking what he should not, the next taken down and refusing. **The juxtaposition
 is the argument, and Genesis leaves it entirely to the reader.**
+### Job: the look under oath
+
+**Job 31 moves the sin from the deed to the eye.** Its oath opens, before any act, with *"I made a
+covenant with my eyes, how then should I look lustfully at a young woman?"* (31:1), sets *"if my heart
+walked after my eyes"* (31:7) before the neighbour's door (31:9), and calls adultery *"a heinous crime"*,
+*"an iniquity to be punished by the judges"*, and *"a fire that consumes to destruction"* (31:11–12).
+**It is the Old Testament's most explicit claim that the look itself falls under judgment**, the
+ground on which Matthew 5:28 builds. See [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]].
 
 ## Key passages
 
@@ -115,6 +123,9 @@ is the argument, and Genesis leaves it entirely to the reader.**
   twilight, saying, 'No eye shall see me.' He disguises his face."* Among the rebels against the
   light, between the murderer and the burglar; Proverbs 7:9 sets the same scene *"in the twilight, in
   the evening of the day"*. Job's answer comes at 24:23: *"His eyes are on their ways."*
+- [[Job's Oath of Innocence]] — Job 31:1, 7, 9–12; the covenant with the eyes, the heart that walks after them, the neighbour's
+  door, and the self-curse of 31:10, *"let my wife grind for another, and let others sleep with her"* —
+  the futility curse of Deuteronomy 28:30 called down by a man on himself.
 
 ## Related themes
 

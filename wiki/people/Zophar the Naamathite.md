@@ -178,6 +178,9 @@ than his iniquity deserves. The reader knows which of the two is right.
 - [[I Will Not Put Away My Integrity]] — Job 26–27, silent; his 20:29 repeated at 27:13, and the ten
   verses after it (27:14–23) the usual candidate for his lost third speech. The wiki records the
   reconstruction and keeps the received arrangement.
+- [[Job's Oath of Innocence]] — Job 31, silent. His *"oh that God would speak"* (11:5) is Job's last wish
+  too, *"Let the Almighty answer me!"* (31:35); and his *"If iniquity is in your hand, put it far away"*
+  (11:14) is answered by *"if any defilement has stuck to my hands"* (31:7), a denial.
 
 ## Related people
 

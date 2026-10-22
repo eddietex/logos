@@ -12,6 +12,9 @@ tags: [connection]
   your hand."* — [[Cain and Abel]]
 - **Job 16:18** — *"Earth, don't cover my blood. Let my cry have no place to rest."* —
   [[Miserable Comforters and the Witness in Heaven]]
+- **Job 31:38–39** — *"If my land cries out against me, and its furrows weep together; if I have
+  eaten its fruits without money, or have caused its owners to lose their life"* — the ground as
+  witness, sworn to be silent — [[Job's Oath of Innocence]]
 - **Leviticus 17:13** — the blood of hunted game to be poured out and *covered with dust*
 - **Deuteronomy 21:1–9** — the rite for a body found in open country, so that innocent blood is not
   left on the land
@@ -62,6 +65,11 @@ Isaiah 26:21 then generalizes the whole thing eschatologically: a day when the e
 comes back up. It is the same picture Revelation 6:9–10 gives from the other end, with the souls of
 the martyrs under the altar asking *how long* — Abel's question, still unanswered, at the end of the
 canon.
+**Job uses the image twice, from opposite sides.** At 16:18 he is the victim and asks the earth not to
+cover his blood. At 31:38–39 he is the landowner, and swears that his land has no cry to raise against
+him — that no field of his was got *"without money"* and no owner killed for it. The ground that cried
+for Abel would be the witness against Job if he were Cain, and he swears that it is silent. See
+[[If Like Adam I Have Covered - Job 31.33 and Genesis 3]].
 
 ## Significance
 

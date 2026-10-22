@@ -83,6 +83,11 @@ death, set against Christ as the head of a humanity under life (Romans 5:12–21
   primeval man possessing knowledge from the world's founding. Eliphaz means it as an absurdity;
   God asks Job the same question in earnest at 38:4. See
   [[The First Man and Wisdom Before the Hills]].
+- [[Job's Oath of Innocence]] — Job 31:33, *"if like Adam I have covered my transgressions, by hiding
+  my iniquity in my heart"*. *Kəʾādām* may mean *"as humankind does"*; the WEB reads the name. On that
+  reading Job sets himself against the man who covered himself, hid among the trees and blamed the
+  woman (Genesis 3:7–12), and the oath ends on the ground that cries and the briers that grow (31:38–40;
+  Genesis 3:18; 4:10). See [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]].
 
 ## Related people
 

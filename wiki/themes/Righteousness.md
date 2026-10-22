@@ -232,6 +232,12 @@ about.
   subject of its own verb — *it clothed itself with me*. The content is the canonical list: the poor,
   the fatherless, the widow, the blind, the lame, the needy, the stranger's lawsuit (29:12–17). See
   [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
+- [[Job's Oath of Innocence]] — Job 31; **righteousness defined by inventory.** Not a principle but a list of refusals, sworn
+  under curse: no lustful look, no deceit, no adultery, no slave's case despised, no poor man refused, no
+  trust in gold, no worship of sun or moon, no gloating over an enemy, no stranger left in the street, no
+  sin concealed. It is the book's fullest answer to what the narrator meant by *"blameless and
+  upright"* (1:1), and the friends' reply is to fall silent *"because he was righteous in his own
+  eyes"* (32:1).
 
 ## Related themes
 

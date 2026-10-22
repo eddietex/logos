@@ -184,8 +184,12 @@ speeches; each becomes a linked passage page as it is ingested.
   *"I have become like dust and ashes"* (30:19), and *"I cry to you, and you do not answer me"* (30:20)
   — his last direct address to God until 40:4. Ends a brother to jackals, his harp *"turned to
   mourning"* (30:29, 31).
-- **Job 31** — the oath of innocence in which he calls down curses on himself if the charges are
-  true.
+- **Job 31:1–40** — [[Job's Oath of Innocence]]. The close of his defence and of his part in the
+  dialogue: an oath of clearance, sin by sin — the lustful look (*"I made a covenant with my eyes"*,
+  31:1), deceit, adultery, his slaves' lawsuits (*"Didn't one fashion us in the womb?"*, 31:15), the
+  poor, gold, the sun and moon, an enemy's ruin, the stranger, and hidden sin *"like Adam"* (31:33) —
+  each under a curse on himself if it is true. Then his signature and the demand for a written
+  indictment (31:35), and *"The words of Job are ended"* (31:40).
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
@@ -362,6 +366,15 @@ speeches; each becomes a linked passage page as it is ingested.
   noted, not a contradiction between pages:** his contempt for the outcasts of 30:1–8 beside his pity
   for the wilderness poor at 24:4–8 and his fatherhood of the needy at 29:16 — both readings recorded on
   the passage page. See [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]].
+- [[Job's Oath of Innocence]] — Job 31:1–40; **the case filed.** Eliphaz's charges of 22:6–9 and 22:24
+  denied clause by clause under self-curse — *"let my arm be broken from the bone"* (31:22) for the
+  fatherless whose arms Eliphaz said were broken — and the list carried further than any friend took it:
+  the look (31:1), the servant's lawsuit heard because *"one"* made master and slave in the womb (31:15),
+  no gloating over an enemy (31:29), no sin hidden *"like Adam"* (31:33). *"Let me be weighed in an even
+  balance, that God may know my integrity"* (31:6). He signs (*hen-tāwî*, 31:35), offers to wear the
+  indictment as a crown and approach God *"as a prince"* (31:36–37), and stops. **Speaks of God
+  throughout and to him nowhere.** See [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] and
+  [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]].
 
 ## Related people
 

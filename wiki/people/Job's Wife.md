@@ -37,9 +37,11 @@ omission.
   not; and his answer is in the **first person plural**, *shall **we** receive*
 - **Job 19:17** — *"My breath is offensive to my wife, though I entreat for the children of my own
   body"*; she is still there, and he is still asking — [[I Know That My Redeemer Lives]]
-- **Job 31:10** — in the oath of innocence, the self-curse attached to adultery is that his wife
-  should grind for another and others stoop over her: the standard form of such an oath, and a
-  reminder that she is assumed present throughout
+- **Job 31:10** — in the oath of innocence, the self-curse attached to adultery is *"let my wife
+  grind for another, and let others sleep with her"*: the futility curse of Deuteronomy 28:30 (*"You
+  will betroth a wife, and another man shall lie with her"*), called down by Job on himself. Grinding
+  is a slave's work, and the line carries a sexual sense as well. A reminder that she is assumed present
+  throughout — [[Job's Oath of Innocence]]
 - **Job 42:10–17** — absent by name from the restoration, which gives Job seven sons and three
   daughters and says nothing about their mother
 
@@ -60,6 +62,10 @@ omission.
   twenty-six verses of wanting to be dead with no renunciation anywhere in it** — Job takes the
   second half of her instruction as far as language can and declines the first entirely, and never
   refers to her. She is not mentioned again until 19:17
+- [[Job's Oath of Innocence]] — Job 31:10; **named in a curse, not in a scene, and for the last time.** If
+  Job has *"laid wait at my neighbor's door"*, let his wife *"grind for another, and let others sleep
+  with her."* The oath stakes her as the thing a man of his world could lose — and it is the other
+  side of 2:9: she told him to let go of his integrity, and he swears by it with her as the pledge.
 
 ## Related people
 

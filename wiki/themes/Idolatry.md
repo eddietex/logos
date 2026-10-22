@@ -67,6 +67,13 @@ one anxiety about them is whether they will be found under a woman sitting on a 
 also what stands behind real spiritual danger (1 Corinthians 10:19–21), **and it extends the word
 inward** — greed *"which is idolatry"* (Colossians 3:5; Ephesians 5:5) — and ends with the plainest
 imperative in the epistles: *"Little children, keep yourselves from idols"* (1 John 5:21).
+**Job 31:26–28 describes the oldest idolatry without an idol.** *"If I have seen the sun when it
+shined, or the moon moving in splendor, and my heart has been secretly enticed, and my hand threw a kiss
+from my mouth"* — no image, no shrine, a gesture at the sky made in secret. It is the worship
+Deuteronomy 4:19 forbids, and the kiss is the act 1 Kings 19:18 and Hosea 13:2 name. Job counts it *"an
+iniquity to be punished by the judges; for I should have denied the God who is above"* (31:28): **the
+idolatry of the heart is denial of God**, and it is the very thing the accuser predicted of Job (1:11;
+2:5). See [[Job's Oath of Innocence]].
 
 ## Key passages
 
@@ -88,6 +95,8 @@ imperative in the epistles: *"Little children, keep yourselves from idols"* (1 J
   **Genesis comments on none of it** — no condemnation, no defence, no note that any of it was imposed
   rather than chosen — **in a book that condemned Esau's Hittite wives in a clause** (26:35). **The wiki
   records the silence as a silence and declines to fill it in either direction**
+- [[Job's Oath of Innocence]] — Job 31:24–28; gold as *"my confidence"* (31:24) and the kiss thrown to sun and moon (31:26–27),
+  both secret, both sworn against as denial of *"the God who is above"* (31:28).
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

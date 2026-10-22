@@ -214,6 +214,10 @@ what Job is asking for.
   wants only to find God's *seat*: *"Would he contend with me in the greatness of his power? No, but
   he would listen to me"* (23:6). The obstacle has moved from God's power to God's absence, and no
   third party is invoked. See [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]].
+- [[Job's Oath of Innocence]] — Job 31:35–37; *"oh that I had one to hear me! Behold, here is my signature! Let the Almighty
+  answer me! Let the accuser write my indictment!"* **The case filed without an advocate.** The umpire
+  (9:33), the witness (16:19) and the redeemer (19:25) are not invoked; Job signs his own deposition
+  (*tāw*, a mark) and asks only for a hearer and a written charge from *ʾîš rîbî*, the opposing party.
 
 ## Related themes
 

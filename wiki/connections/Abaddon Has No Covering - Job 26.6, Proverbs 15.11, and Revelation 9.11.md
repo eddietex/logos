@@ -12,7 +12,7 @@ tags: [connection]
 - **Job 28:22** — *"Destruction and Death say, 'We have heard a rumor of it with our ears.'"* — the
   same word, *ʾăbaddôn*, rendered *Destruction* by the WEB — [[Where Shall Wisdom Be Found]]
 - **Job 31:12** — *"For it is a fire that consumes to destruction"* — *ʿad-ʾăbaddôn*, adultery as a
-  fire that burns all the way down to it *(not yet ingested)*
+  fire that burns all the way down to it — [[Job's Oath of Innocence]]
 - **Psalm 88:11** — *"Is your loving kindness declared in the grave? Or your faithfulness in
   Destruction?"* *(not yet ingested)*
 - **Proverbs 15:11** — *"Sheol and Abaddon are before Yahweh— how much more then the hearts of the
