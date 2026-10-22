@@ -256,6 +256,9 @@ what Job is asking for.
 - [[Moses Returns to Egypt]] — Exodus 4:28–30; **the chain in use.** Moses tells Aaron *"all Yahweh's words"*, and
   Aaron speaks them to the people and does the signs; Moses is silent in the scene. God → Moses →
   Aaron → the people, exactly as 4:15–16 arranged
+- [[Bricks Without Straw]] — Exodus 5:15–23; **two appeals up two chains.** The Israelite officers
+  plead with Pharaoh for their people and are refused; Moses takes their curse to God and pleads for
+  *"your people"* — **the people who have just cursed him** — and is answered
 
 ## Related themes
 

@@ -272,7 +272,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
 | [[Yahweh Turned the Captivity of Job - Restoration and the Double]] | thread | Job 42:10, 12 · Deuteronomy 30:3 · Psalm 14:7 · Psalm 126:1, 4 · Jeremiah 29:14 · Amos 9:14 · Exodus 22:4, 7, 9 · Isaiah 40:1–2 · Isaiah 61:7 · Zechariah 9:12 |
 | [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |
-| [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4 · Exodus 1:10, 14 · Exodus 5:7–19 |
+| [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |
 | [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
 | [[Every Son Who Is Born - Pharaoh's Decree and Herod's]] | typology | Exodus 1:16, 22 · Exodus 2:1–10, 15 · Exodus 4:19 · Matthew 2:13–20 · Acts 7:19 · Hebrews 11:23 · Exodus 4:22–24 |
 | [[The Midwives and Rahab - Deceiving the King to Save Life]] | thematic-parallel | Exodus 1:15–21 · Joshua 2:1–7 · Hebrews 11:31 · James 2:25 · Acts 5:29 |
@@ -280,7 +280,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Genesis 11:3 · 1 Corinthians 10:1–2 |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
-| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 · Exodus 4:29–31 |
+| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 · Exodus 4:29–31 · Exodus 5:20–21 |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 |
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Psalm 105:42 · Luke 1:72–73 |
 | [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
@@ -288,3 +288,4 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Who Am I - The Objections of the Called]] | motif | Exodus 3:11–12 · Exodus 4:10–12 · Judges 6:15–16 · 1 Samuel 9:21 · Isaiah 6:5, 8 · Jeremiah 1:6–9 |
 | [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |
 | [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]] | prophecy → fulfillment | Exodus 4:22–23 · Exodus 12:29; 13:15 · Deuteronomy 14:1; 32:6 · Psalm 89:26–27 · Jeremiah 31:9 · Hosea 11:1–2 · Matthew 2:13–15, 20 · Romans 9:4 |
+| [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] | thread | Exodus 1:8 · Exodus 2:25; 3:7 · Exodus 5:2 · Exodus 6:3, 7 · Exodus 7:5, 17; 8:10, 22; 9:14, 29; 10:2; 11:7 · Exodus 14:4, 18 · Exodus 18:11 · Job 21:14–15 · Proverbs 30:9 |

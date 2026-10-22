@@ -13,7 +13,8 @@ tags: [connection]
   [[Joseph and the Famine]]
 - **Exodus 1:8–14** — *"there arose a new king over Egypt, who didn't know Joseph"*; Israel put under
   taskmasters — [[The Oppression in Egypt]]
-- **Exodus 5:6–19** — the straw withheld and the quota kept: the bondage administered in detail
+- **Exodus 5:6–19** — the straw withheld and the quota kept: the bondage administered in detail, and
+  Israel's foremen calling themselves *"your servants"* — [[Bricks Without Straw]]
 - Background: **Genesis 37:28, 36; 39:1** — Joseph himself sold into Egypt as an *ʿebed* —
   [[Joseph Sold into Slavery]]
 - Background: **Genesis 44:9–33** — eleven Hebrews offering to be *"my lord's slaves"* and being
@@ -92,6 +93,15 @@ period.**
 ***"Pharaoh's slaves"*** — ***ʿabdê parʿōh*** — **is the phrase the Egyptians of Genesis 47:25 used
 about themselves first.** **Israel's law is built on the memory of a status that Genesis records a
 whole nation volunteering for, in gratitude, one chapter earlier.** See [[Remembrance]].
+
+### Your servants
+
+**In Exodus 5 the phrase passes to Israel.** The Israelite officers, beaten for the brick quota, go to
+Pharaoh and call themselves ***ʿăbādêkā***, *"your servants"*, three times in two verses (5:15–16).
+**The Egyptians of Genesis 47 offered themselves as Pharaoh's servants in gratitude; Israel's foremen
+use the same address under the lash** — in the chapter where Yahweh's demand is that Israel *serve
+him* (4:23) and Pharaoh's answer is *"Go … and work"*, *ʿibdû*, *serve* (5:18). See
+[[Slavery and Servitude]].
 
 ## Significance
 

@@ -201,6 +201,10 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   authority inside Israel is who gave a man the right to rule it**, and Moses has no answer until the
   bush. The king who *"sought to kill Moses"* dies, and **the bondage does not die with him** — the
   empire outlasts the emperor
+- [[Bricks Without Straw]] — Exodus 5:6–14; **the chain of command.** Pharaoh → taskmasters (Egyptian)
+  → officers (Israelite) → people, and the orders go down it as *kōh ʾāmar parʿōh*, *"This is what
+  Pharaoh says"* (5:10) — **the messenger formula of 5:1, used for the other king.** Two sovereigns
+  issue contradictory decrees in the same form
 
 ## Related themes
 

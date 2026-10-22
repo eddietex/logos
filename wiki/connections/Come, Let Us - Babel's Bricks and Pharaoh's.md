@@ -12,7 +12,8 @@ tags: [connection]
   abroad"* — [[The Tower of Babel]]
 - **Exodus 1:10, 14** — *"Come, let us deal wisely with them, lest they multiply"*; *"they made their
   lives bitter with hard service, in mortar and in brick"* — [[The Oppression in Egypt]]
-- Compare **Exodus 5:7–19** — straw withheld and the quota of bricks kept *(not yet ingested)*
+- **Exodus 5:7–19** — straw withheld, the quota of bricks kept, and *"the people were scattered
+  abroad throughout all the land of Egypt"* — [[Bricks Without Straw]]
 
 ## Analysis
 
@@ -45,6 +46,25 @@ the child who will undo Egypt's bricks.** That is chapter 2's half of this link 
 
 The wiki does not claim that Exodus 1 is written as a deliberate quotation of Genesis 11; the
 evidence is lexical and structural, and the page records it at that strength.
+
+### Exodus 5 — the bricks again, and the scattering
+
+**Exodus 5 brings back the other half of Babel's sentence.** Babel made bricks *"lest we be scattered
+abroad"* — ***pen-nāpûṣ*** (Genesis 11:4) — and *"Yahweh scattered them abroad"*, ***wayyāpeṣ***
+(11:8). In Egypt the straw is withdrawn, the bricks — *ləbēnîm*, five times in the chapter — are still
+demanded, and ***wayyāpeṣ hāʿām bəkol-ʾereṣ miṣrāyim***, *"the people were scattered abroad throughout
+all the land of Egypt to gather stubble"* (Exodus 5:12) — **the same form of the same verb** (checked
+in the WLC).
+
+| | Babel | Egypt (Exodus 5) |
+|---|---|---|
+| the bricks | *"Come, let's make bricks"* (11:3) | *"the same number of bricks"* (5:8, 18) |
+| the scattering | feared by the builders, done by God (11:4, 8) | done by Pharaoh, to the builders (5:12) |
+| its purpose | God's: to fill the earth (1:28; 9:1) | Pharaoh's: to find stubble for straw |
+
+**At Babel God scatters the builders to stop the building; in Egypt the king scatters the builders to
+keep it going.** The wiki records this as the lexical extension of the link already traced in Exodus 1,
+at the same strength — the text does not cite Genesis.
 
 ## Significance
 

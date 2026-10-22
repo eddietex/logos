@@ -279,6 +279,10 @@ noticing into doctrine.
   you shall speak"*; and then a chain of mouths — God to Moses, Moses to [[Aaron]], Aaron to the
   people. Stephen's *"mighty in his words"* (Acts 7:22) stands against it; the tension is recorded, not
   resolved
+- [[Bricks Without Straw]] — Exodus 5:9, 23; ***"lying words"*** and ***"to speak in your name"*** —
+  **Pharaoh calls Yahweh's word *diḇrê šāqer*; Moses spoke in the name and was answered with
+  contempt.** The officers' plain speech to Pharaoh (*"the fault is in your own people"*, 5:16) is
+  answered with *"You are idle!"*
 
 ## Related themes
 

@@ -258,6 +258,10 @@ requires only that you be standing outside it.
 - [[The Burning Bush]] — Exodus 3:7; ***"I know their sorrows"*** — ***yādaʿtî ʾet-makʾōbāyw*** — **the object that
   2:25's bare *God knew* left out.** God names the suffering as *affliction*, *cry*, *oppression*, and
   *sorrows*, four words in three verses, and says he knows the last
+- [[Bricks Without Straw]] — Exodus 5:6–21; **suffering made worse by the first step of deliverance.**
+  The request to worship doubles the labour; the foremen are beaten (*wayyukkû*, the *nākâ* of 2:11–12);
+  and the people turn on Moses. By 6:9 they cannot listen *"for anguish of spirit, and for cruel
+  bondage"*
 
 ## Related themes
 

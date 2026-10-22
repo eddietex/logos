@@ -74,8 +74,15 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   wanted to kill him"***, and Zipporah's flint and *"bridegroom of blood"* end it (4:24–26). Aaron meets
   Moses at the mountain with a kiss, speaks and does the signs, and *"the people believed"* (4:31) —
   the third objection answered at the first telling. See [[Moses Returns to Egypt]].
-- **5–7:13 The first confrontation** — bricks without straw, the name *Yahweh* reaffirmed (6:2–8),
-  the genealogy of Moses and Aaron, and the staff that becomes a serpent.
+- **5–7:13 The first confrontation** — Moses and Aaron go in with *"Let my people go"*, and Pharaoh
+  answers with the question the plagues will answer: ***"Who is Yahweh … ? I don't know Yahweh"***
+  (5:2). He hears the request as idleness — *"you make them rest"*, the Sabbath verb (5:5) — withdraws
+  the straw, keeps the quota, and the people are *"scattered abroad"* over Egypt for stubble in
+  Babel's word (5:12). **The Israelite foremen are beaten, cry to Pharaoh as *"your servants"*, and
+  curse Moses — *"May Yahweh look at you, and judge"* (5:21) — and Moses accuses God: *"Why is it that
+  you have sent me? … you have not rescued your people at all"*.** God answers without rebuke: *"Now you
+  shall see"*, *"by a strong hand"* (6:1). See [[Bricks Without Straw]]. Then the name *Yahweh*
+  reaffirmed (6:2–8), the genealogy of Moses and Aaron, and the staff that becomes a serpent.
 - **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
@@ -113,7 +120,7 @@ for unit.
 
 ### The first confrontation (5–7:13)
 
-- [ ] Bricks Without Straw — Exodus 5:1–6:1
+- [x] [[Bricks Without Straw]] — Exodus 5:1–6:1
 - [ ] I Am Yahweh — Exodus 6:2–13
 - [ ] The Heads of the Fathers' Houses — Exodus 6:14–27
 - [ ] Aaron's Staff Before Pharaoh — Exodus 6:28–7:13
@@ -208,6 +215,11 @@ for unit.
 - [[Birthright and the Firstborn]]
 - [[Circumcision]]
 - [[Faith]]
+- [[Sabbath]]
+- [[Prayer]]
+- [[Mourning and Lament]]
+- [[Suffering]]
+- [[Pride and Self-Exaltation]]
 
 ## Key people
 

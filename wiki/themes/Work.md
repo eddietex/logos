@@ -172,6 +172,11 @@ the seventh day a blessing. See [[Sabbath]].
 - [[The Birth of Moses]] — Exodus 2:9; ***"I will give you your wages"*** — *śəkārēk*, Jacob and
   Laban's word. **A Hebrew mother paid by Pharaoh's house** to keep alive the son Pharaoh ordered
   drowned, in a book whose first chapter made Israel's labour unpaid
+- [[Bricks Without Straw]] — Exodus 5:6–19; **the quota.** No straw, *"the same number of bricks"*,
+  the people scattered for stubble, the foremen beaten for the shortfall — **labour as pure
+  extraction, administered through native overseers** (*šōṭərîm*, their first appearance). Pharaoh
+  calls the request to worship idleness, *nirpîm*, twice (5:8, 17). See
+  [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 
 ## Related themes
 

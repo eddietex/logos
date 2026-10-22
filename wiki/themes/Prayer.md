@@ -221,6 +221,12 @@ already did.
   and they cried, and their cry came up to God"* — *because of the bondage*, not to anyone. **No one in
   Exodus 1–2 prays**, and *"God heard their groaning"* anyway: the hearing of Abel's blood (Genesis
   4:10), of Sodom's outcry (18:20–21), and of Hagar's boy (21:17), now for a nation
+- [[Bricks Without Straw]] — Exodus 5:22–6:1; **the first complaint Moses makes to God.** *"Lord, why
+  have you brought trouble on this people? Why is it that you have sent me? … you have not rescued
+  your people at all"* — God's *nāṣal* (3:8) quoted back as unkept. **It is answered without
+  rebuke**, though Moses' refusal at 4:13 had drawn God's anger. He will say *lāmâ hărēʿōtā* again at
+  Numbers 11:11. And the Israelites' first cry in this book with *ṣāʿaq* is addressed to Pharaoh
+  (5:15), not to God
 
 ## Related themes
 

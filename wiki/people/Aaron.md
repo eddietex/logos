@@ -44,10 +44,16 @@ act in Scripture is to go out and kiss his brother**, with no quarrel to get pas
 people"*** (4:30) — signs given into Moses' hand. *"The people believed"* (4:31). See
 [[Moses Returns to Egypt]].
 
+**At the first audience he is beside Moses at every step and has not one word assigned to him.**
+*"Moses and Aaron came, and said to Pharaoh"* (5:1); *"They said"* (5:3); Pharaoh rebukes *"you, Moses
+and Aaron"* (5:4); and the beaten officers find *"Moses and Aaron, who stood in the way"*, and curse
+them both (5:20–21). **Then it is Moses alone who returns to Yahweh** (5:22). The mouth appointed at
+4:16 speaks with Moses here rather than for him, and the text does not say which of them said what.
+See [[Bricks Without Straw]].
+
 ### What is ahead
 
-The confrontation with Pharaoh
-and the rod that becomes a *tannîn* (5–7); the genealogy that names his parents, his wife Elisheba,
+The rod that becomes a *tannîn* (7); the genealogy that names his parents, his wife Elisheba,
 and his sons (6:20–25); the plagues; Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
@@ -60,6 +66,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   Exodus 4:27, [[Moses Returns to Egypt]]
 - Speaks Yahweh's words and does the signs before the elders and the people, who believe — Exodus
   4:29–31
+- Goes in to Pharaoh with Moses; cursed with him by the Israelite officers — Exodus 5:1–21,
+  [[Bricks Without Straw]]
 
 ## Appears in
 
@@ -67,6 +75,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   someone else; Moses is to be *"to him as God"*, and he is to be Moses' mouth
 - [[Moses Returns to Egypt]] — Exodus 4:27–31; **the mouth, in use.** Meets Moses on God's mountain
   and kisses him; speaks all the words and does the signs before the people, and they believe
+- [[Bricks Without Straw]] — Exodus 5:1–21; **present, and unassigned.** Speaks *with* Moses before
+  Pharaoh — every verb is plural — and is cursed with him; absent from the complaint to God
 
 ## Related people
 
@@ -75,6 +85,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Amram]] and [[Jochebed]] — his parents (6:20)
 - [[Levi]] — his tribe
 - [[God]] — who names him, and will make him priest
+- [[Pharaoh (of the Exodus)]] — before whom he and Moses first stand (5:1)
 
 ## Themes associated
 

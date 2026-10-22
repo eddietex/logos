@@ -24,7 +24,10 @@ his heart and he will not let the people go"* — and runs through every plague.
 **Kābēd is the word of Moses' *"heavy"* mouth** (*kəbad-peh*, 4:10) — the deliverer slow of speech
 against a king slow of heart — and **it is also the word for *glory***: at 14:4 and 14:17 God says he
 will *get honour* (*ʾikkābədâ*, the same root) over Pharaoh. **The heavy heart and the heavy glory are
-one word in Hebrew.** The verbs were counted from the Westminster Leningrad Codex, whose chapter 8
+one word in Hebrew.** And before either, Pharaoh's first order after Moses' request is *tikbad
+hāʿăbōdâ*, *"let heavier work be laid on the men"* (5:9) — the same root, used of the service he
+imposes. The *strong* of *ḥāzaq* has its own counterpart in Yahweh's *"by a strong hand"* (*bəyāḏ
+ḥăzāqâ*, 3:19; 6:1). See [[Bricks Without Straw]]. The verbs were counted from the Westminster Leningrad Codex, whose chapter 8
 runs four verses ahead of the English (Hebrew 8:11, 15, 28 = English 8:15, 19, 32).
 
 ## Development across Scripture
@@ -77,6 +80,11 @@ as those passages are ingested.
 
 - [[Moses Returns to Egypt]] — Exodus 4:21; **the first hardening statement**, made before Moses has
   met Pharaoh, together with the announcement of the death of the firstborn
+- [[Bricks Without Straw]] — Exodus 5:9; 6:1; **the heavy service and the strong hand.** Pharaoh orders
+  *tikbad hāʿăbōdâ*, *let the service be heavy* — the root *kbd* of his own heavy heart (7:14) and of
+  God's being *made heavy*, glorified, over him (14:4). And God promises that *"by a strong hand"*,
+  *bəyāḏ ḥăzāqâ* — *ḥāzāq*, the root of *ʾăḥazzēq* (4:21) — Pharaoh will let them go. **Neither link is
+  drawn by the text; both are lexical, checked in the WLC**
 
 ## Related themes
 

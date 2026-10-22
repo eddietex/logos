@@ -272,6 +272,10 @@ happens.
 - [[Moses Returns to Egypt]] — Exodus 4:22; ***kōh ʾāmar YHWH*, *"Yahweh says"*** — **the messenger formula of the
   prophets, first given to Moses**, to say to a king (its next use is 5:1). Checked against the
   Westminster Leningrad Codex: not found in Genesis
+- [[Bricks Without Straw]] — Exodus 5:1, 10; ***kōh ʾāmar YHWH*** and ***kōh ʾāmar parʿōh*** — **the
+  messenger formula used for two kings in one chapter.** Moses and Aaron deliver Yahweh's word; the
+  taskmasters deliver Pharaoh's in the same form. The prophetic formula is the ordinary royal one,
+  claimed for the true King
 
 ## Related themes
 

@@ -328,6 +328,10 @@ rule are the conditions the rest of Scripture is set in.
 - [[Moses Returns to Egypt]] — Exodus 4:21–23; **the last plague announced before the first.** *"I will kill your son,
   your firstborn"*, measure for measure for a king whose house killed Israel's sons — and *"I will
   harden his heart"*, the first hardening statement
+- [[Bricks Without Straw]] — Exodus 5:21; ***"May Yahweh look at you, and judge"*** — *yēreʾ … wəyišpōṭ*
+  — **the right God invoked for the right acts against the wrong man.** God has *seen* (2:25; 3:7) and
+  will judge — but Egypt, *"with great judgments"* (6:6, *šəpāṭîm*). Compare Sarai's *"Yahweh judge
+  between me and you"* (Genesis 16:5)
 
 ## Related themes
 

@@ -221,6 +221,10 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   refuses (4:22–23). Moses returns because *"the men who sought your life are dead"* (4:19); and in
   Egypt the elders hear the words, see the signs, and believe (4:29–31). Hosea will call the Exodus
   the moment God *"called my son out of Egypt"* (Hosea 11:1)
+- [[Bricks Without Straw]] — Exodus 5:1–6:1; **the brickfields, and the whole land combed for stubble.**
+  *"The people were scattered abroad throughout all the land of Egypt"* (5:12) — *wayyāpeṣ*, Babel's
+  verb (Genesis 11:8). Its king refuses the name of Yahweh, and its taskmasters beat Israel's foremen;
+  God promises that Pharaoh will *"drive them out of his land"* (6:1)
 
 ## Related places
 
@@ -279,3 +283,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Exodus 3:19–22, [[The Burning Bush]]
 - Moses returns; Aaron speaks Yahweh's words and does the signs before the elders, and the people
   believe and worship — Exodus 4:29–31, [[Moses Returns to Egypt]]
+- Moses and Aaron's first audience with Pharaoh; the straw withdrawn; the officers beaten; Moses'
+  complaint and God's promise — Exodus 5:1–6:1, [[Bricks Without Straw]]

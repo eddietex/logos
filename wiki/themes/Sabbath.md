@@ -36,6 +36,12 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
   and jubilee), Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
   Hebrews 3:7–4:11 (a sabbath rest still remaining).
 
+**Before Sinai, the first rest in Israel's story is the one Pharaoh forbids.** When Moses asks for
+three days to worship, Pharaoh hears a stoppage: *"you make them rest from their burdens"* —
+*wəhišbattem*, the causative of *šābat* (Exodus 5:5). The Sabbath law will later make rest a
+command and give it to slaves and animals by name (23:12; Deuteronomy 5:14–15). See
+[[Bricks Without Straw]].
+
 ## Key passages
 
 - [[The Creation of the World]]
@@ -48,6 +54,12 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
   weary are at rest"* (3:17), and then the last line of the speech, *"neither have I rest"* (3:26).
   **The chapter opens a place where rest exists, spends seven verses furnishing it, and closes by
   saying he is not in it** — which is the Sabbath's promise stated as its absence
+- [[Bricks Without Straw]] — Exodus 5:5; ***"you make them rest"*** — ***wəhišbattem***, the causative
+  of *šābat*. **The first time in canonical order that *šābat* is used of people being made to rest**
+  — before this only of God (Genesis 2:2–3) and of day and night (8:22) — **and the speaker is
+  Pharaoh, making it an accusation.** The rest Israel is denied in Egypt is commanded in the
+  wilderness (16:30) and grounded in mercy to servants (23:12). Checked in the WLC of Genesis, Exodus,
+  and Job
 
 ## Related themes
 

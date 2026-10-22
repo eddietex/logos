@@ -125,6 +125,10 @@ rather than achieved.
   from the judge's seat. See [[Uz]].
 - [[The Oppression in Egypt]] — Exodus 1:11; the storage cities [[Pithom]] and [[Rameses]], **the first cities
   Israel builds, and built for someone else**. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
+- [[Bricks Without Straw]] — Exodus 5:7–12; **Babel's bricks and Babel's scattering, in Egypt.**
+  *Ləbēnîm* five times, and *"the people were scattered abroad throughout all the land"* —
+  *wayyāpeṣ*, the form of Genesis 11:8. Babel built *"lest we be scattered"*; Egypt scatters its
+  brickmakers to find stubble. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 
 ## Related themes
 

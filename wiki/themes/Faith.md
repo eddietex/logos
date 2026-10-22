@@ -162,6 +162,9 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
 - [[Moses Returns to Egypt]] — Exodus 4:31; ***"The people believed"*** — *wayyaʾămēn hāʿām* — **the third objection
   (*"they will not believe me"*, 4:1) answered at the first telling.** The belief is the high point of
   Israel's faith before the sea, and it is undone within a chapter (5:21; 6:9)
+- [[Bricks Without Straw]] — Exodus 5:20–21; **the belief of 4:31 undone in one audience.** The people
+  who believed and worshiped curse the deliverer — *"May Yahweh look at you, and judge"* — and by 6:9
+  they no longer listen. **Faith given at the first telling does not survive the first cost**
 
 ## Related themes
 

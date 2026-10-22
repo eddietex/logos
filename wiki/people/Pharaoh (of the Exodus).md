@@ -35,10 +35,21 @@ to let him go. Behold, I will kill your son, your firstborn"* (4:22–23). **The
 past tense before it has happened, and the tenth plague is announced before the first.** See
 [[Moses Returns to Egypt]] and [[Hardening of the Heart]].
 
+**His first words are a question, and the rest of his story answers it.** *"Who is Yahweh, that I
+should listen to his voice to let Israel go? I don't know Yahweh, and moreover I will not let Israel
+go"* (5:2) — *lōʾ yādaʿtî ʾet-YHWH*, the construction of his predecessor's *"who didn't know Joseph"*
+(1:8). He hears the request for a feast as a labour stoppage — *"you make them rest"*, ***hišbattem***,
+the Sabbath verb (5:5) — and that same day withdraws the straw and keeps the quota (5:6–9). **He
+calls the request idleness twice** (*"You are idle! You are idle!"*, 5:17) **and the word of Yahweh
+*"lying words"*** (5:9). His orders go out as *kōh ʾāmar parʿōh*, *"This is what Pharaoh says"* (5:10)
+— the messenger formula Moses had just used for Yahweh. **Yahweh's reply is about him, not to him**:
+*"Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go"* (6:1). See
+[[Bricks Without Straw]] and
+[[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]].
+
 ### What is ahead
 
-*"Who is Yahweh, that I should listen to his voice?"* (5:2);
-the bricks without straw; the ten plagues; the release; the pursuit; and the sea. These are written as
+The ten plagues; the release; the pursuit; and the sea. These are written as
 their pericopes arrive.
 
 ## Timeline / key events
@@ -47,6 +58,9 @@ their pericopes arrive.
   Exodus 3:10–11, 18–20, [[The Burning Bush]]
 - His heart's hardening foretold; the death of his firstborn announced as the price of refusing God's
   firstborn — Exodus 4:21–23, [[Moses Returns to Egypt]]
+- Refuses Moses and Aaron: *"Who is Yahweh? … I don't know Yahweh"*; withdraws the straw and keeps the
+  quota; calls the people idle — Exodus 5:1–18, [[Bricks Without Straw]]
+- His compulsion foretold: *"by a strong hand he shall let them go"* — Exodus 6:1
 
 ## Appears in
 
@@ -54,6 +68,8 @@ their pericopes arrive.
   *"won't give you permission to go"* until Egypt is struck
 - [[Moses Returns to Egypt]] — Exodus 4:21–23; **still only in God's speech.** *"I will harden his
   heart"*; *"Israel is my son, my firstborn"*; *"I will kill your son, your firstborn"*
+- [[Bricks Without Straw]] — Exodus 5:1–6:1; **on stage at last.** *"Who is Yahweh?"*; the bricks
+  without straw; *"You are idle!"*; and God's *"Now you shall see what I will do to Pharaoh"*
 
 ## Related people
 
@@ -69,3 +85,6 @@ their pericopes arrive.
 - [[Signs and Wonders]]
 - [[Hardening of the Heart]]
 - [[Birthright and the Firstborn]]
+- [[Pride and Self-Exaltation]]
+- [[Sabbath]]
+- [[Slavery and Servitude]]

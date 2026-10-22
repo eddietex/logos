@@ -318,6 +318,9 @@ will finally go both ways.
   may not be looked at is the one who looks**
 - [[Moses Returns to Egypt]] — Exodus 4:31; ***"he had seen their affliction"*** — **3:7 in the third person, and
   now heard by the people.** God's seeing is the reason they bow and worship
+- [[Bricks Without Straw]] — Exodus 5:21; 6:1; ***"May Yahweh look at you"*** and ***"Now you shall
+  see"*** — **the officers ask God to see Moses; God tells Moses that he will see.** *ʿattâ tirʾeh*
+  answers the complaint with a promise of sight
 
 ## Related themes
 

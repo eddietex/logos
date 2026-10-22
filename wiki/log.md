@@ -11363,3 +11363,82 @@ checked, chapters 3–4 structure note, key themes. Indexes: books (Exodus 5 / 5
 revised), places (3 revised), themes (+1, 15 revised), connections (+1, 4 rows' references extended),
 `wiki/index.md` (96 passages, 156 people, 79 places, 71 themes, 284 connections).
 `scripts/link-check.sh` clean.
+
+## [2026-10-22] ingest | Exodus 5.1-6.1 — Bricks Without Straw
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *Bricks Without Straw — Exodus
+5:1–6:1*. Boundary kept as planned: 5:1 opens the first audience with Pharaoh, 6:1 is Yahweh's reply
+to the complaint of 5:22–23, and 6:2 begins again with *"I am Yahweh"*. No discussion step; it is
+written into the passage page.
+
+### The passage page
+
+[[Bricks Without Straw]] — a table of the chain of command (Pharaoh → taskmasters → officers →
+people, and the complaints back up it); the two messenger formulas, *kōh ʾāmar YHWH* (5:1) and *kōh
+ʾāmar parʿōh* (5:10); *šālaḥ* through the pericope; the elders absent at 5:1; *ḥāgag*; *mî YHWH* and
+*lōʾ yādaʿtî* against 1:8, 2:25, 3:7; *"The God of the Hebrews"* without the *Yahweh* of 3:18;
+*pāgaʿ*, *deber*, and *ḥereb* coming back on the speakers; *siblōt*; *hišbattem*, the first causative
+*šābat*; *nōgəśîm* and *šōṭərîm*; *teben* and *ləbēnîm*; *nirpîm*; *ṣōʿăqîm* (Genesis 4:10);
+*tikbad hāʿăbōdâ*; *diḇrê šāqer*; *wayyāpeṣ* (Genesis 11:8); *qaš* (15:7); *nākâ* (2:11–12; 3:20); the
+officers' *ʿăbādêkā* (Genesis 47:19, 25); the causative of *rāʿaʿ* (Numbers 11:11); *yēreʾ YHWH …
+wəyišpōṭ* (2:14; Genesis 16:5; 31:53); *hiḇʾaštem* (Genesis 34:30; Exodus 7:18, 21; 8:14); *hārag*;
+*wəhaṣṣēl lōʾ-hiṣṣaltā* against 3:8; the absence of rebuke at 6:1 beside 4:14; *bəyāḏ ḥăzāqâ* (3:19);
+*gāraš* (Genesis 3:24; 4:14; 21:10; Exodus 2:17; 11:1; 12:39); and a closing table on *ʿābad*.
+
+### Judgment calls
+
+- **New connection [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]**, because 5:2
+  is the question the *"you shall know that I am Yahweh"* refrain of chapters 6–14 answers. The
+  refrain's verses are listed ahead of their ingestion and marked *not yet ingested*. Job 21:15 and
+  Proverbs 30:9 are compared, with no claim that either alludes to Exodus.
+- **No page for the taskmasters or the Israelite officers (*šōṭərîm*)**, groups; **none for the
+  wilderness**, which Israel has not entered. Both noted on the passage page.
+- **Tensions recorded, not resolved**: why the elders are absent at 5:1; whose *strong hand* (6:1);
+  why God does not rebuke the complaint.
+- ***Wəḥāṭāʾt ʿammekā* (5:16)**: the WEB rendering is recorded; the parse was not checked against a
+  lexicon, and the page says so where the phrase is discussed.
+- **Lexical links stated at lexical strength only**: *kbd* (5:9; 7:14; 14:4), *ḥāzāq* (4:21; 6:1),
+  *qaš* (5:12; 15:7), *bāʾaš* (5:21; 7:18–21).
+
+### Corrections made while drafting
+
+- A draft called *kābēd* at 7:14 *the same verb* as *tikbad* at 5:9. The WLC has the adjective at 7:14
+  and the verb at 5:9; the passage page and the connection now say *the same root*.
+- A draft said the *šōṭərîm* *recur, as an office, later in the Torah* without a reference; checked in
+  the WLC of Numbers and cited as Numbers 11:16.
+- A draft of the connection called Jethro *the first person in Exodus to say he now knows*; Moses says
+  *"I know"* of Pharaoh at 9:30. Narrowed to *the first to say he now knows who Yahweh is*.
+
+### Sources
+
+Genesis, Exodus, and Job texts checked against `raw/bible/`. Quotations outside them checked against
+the WEB at bible-api.com before writing: Numbers 11:11; Psalm 44:23–24; Proverbs 30:9; Deuteronomy
+5:14–15. Cited by reference only: Numbers 11:16; Acts 7:25 (quoted in an earlier ingest). **Hebrew
+checked against the Westminster Leningrad Codex (Open Scriptures `morphhb`)**: all of Exodus 5:1–6:1;
+Exodus 1:8, 9, 11, 14; 2:11, 12, 14, 17, 23, 25; 3:7, 8, 14, 18, 19, 20; 6:3, 6, 7; 7:14, 18; 8:6, 18
+(Hebrew numbering); 9:14; 11:1; 12:39; 14:4; 16:30; 18:11; 23:12; Genesis 2:2–3; 3:24; 4:10; 11:4, 8, 9;
+16:5; 18:21; 21:10; 31:49, 53; 34:30; 47:4, 19, 21, 25; Job 21:15; Numbers 11:11 (WLC `Num.xml`
+fetched for this check); Proverbs 30:9 (`Prov.xml`, likewise). First occurrences and counts were taken
+from lemma searches of Genesis, Exodus, and Job.
+
+### Connection pages
+
+Created (1): [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]. Revised (4):
+[[Come, Let Us - Babel's Bricks and Pharaoh's]] (new section on the scattering; *not yet ingested*
+removed), [[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]] (new section *Your
+servants*), [[Who Made You a Prince and a Judge - The Rejected Deliverer]] (new section on 5:21), and
+[[Served, Released, Pursued - The Laban Years as Proto-Exodus]] (passage link).
+
+### Pages created or revised
+
+Created (2): the passage page and the connection page. People revised (4): [[Moses]], [[Aaron]],
+[[Pharaoh (of the Exodus)]], [[God]] (new *Exodus 5:1–6:1* subsection). Places revised (1):
+[[Egypt]]. Themes revised (17): [[Slavery and Servitude]], [[Work]], [[Sabbath]] (development
+paragraph), [[The Names of God]], [[Kingship and Empire]], [[Pride and Self-Exaltation]],
+[[Hardening of the Heart]] (overview paragraph), [[Prophecy and Vision]], [[Language and Speech]],
+[[Prayer]], [[Mourning and Lament]], [[Suffering]], [[Faith]], [[Judgment]],
+[[Seeing and Being Seen]], [[Mediation and Advocacy]], [[City and Civilization]]. Book page: box
+checked, chapters 5–7:13 structure note, key themes. Indexes: books (Exodus 6 / 53), people (4 rows),
+places (1), themes (17), connections (+1, 2 rows' references extended), `wiki/index.md` (97 passages,
+156 people, 79 places, 71 themes, 285 connections). `scripts/link-check.sh` clean.

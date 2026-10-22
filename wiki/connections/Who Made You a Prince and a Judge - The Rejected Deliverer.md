@@ -13,6 +13,8 @@ tags: [connection]
   kill me, as you killed the Egyptian?"*; and Moses flees — [[Moses Flees to Midian]]
 - **Exodus 4:29–31** — the return, sent: *"The people believed … they bowed their heads and
   worshiped"* — [[Moses Returns to Egypt]]
+- **Exodus 5:20–21** — the beaten officers to Moses and Aaron: *"May Yahweh look at you, and judge"* —
+  [[Bricks Without Straw]]
 - **Exodus 18:13** — *"Moses sat to judge the people, and the people stood around Moses from the
   morning to the evening"*
 - **Acts 7:23–29, 35** — Stephen: *"He supposed that his brothers understood that God, by his hand,
@@ -67,6 +69,16 @@ in the Greek** — *tis me katestēsen kritēn*, against the Septuagint's *tis s
 dikastēn* (as quoted at Acts 7:27) — and the effect is the opposite: **Moses claimed an office no one
 gave him and was rebuked; Jesus refuses one he is offered.** Whether Luke means the echo is not
 demonstrable; the wiki notes the verbal closeness and does not press it.
+
+### The second refusal — Exodus 5:21
+
+**The belief of 4:31 lasts one audience.** When the straw is withdrawn and the foremen are beaten,
+they meet Moses and Aaron outside Pharaoh's presence and say: ***yēreʾ YHWH ʿălêkem wəyišpōṭ***, *"May
+Yahweh look at you, and judge"* (5:21). **The verb is *šāpaṭ*, the *šōpēṭ* of 2:14.** The first Hebrew
+asked who had made Moses a *judge*; these ones hand him to the Judge. **The refusal is now in God's
+name** — and the God invoked is the one who sent him. Stephen's summary, *"they didn't understand"*
+(Acts 7:25), holds for the sent Moses as for the self-appointed one. Moses' answer is not to the
+officers but to God: *"Why is it that you have sent me?"* (5:22).
 
 ## Significance
 

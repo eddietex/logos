@@ -15,7 +15,7 @@ tags: [connection]
   pursuit, the divine intervention on the road, ***rêqām***, and the treaty —
   [[Jacob's Flight from Laban]]
 - **Exodus 1:8–14; 3:7–22; 5:1–3; 12:31–36; 14:5–9** — the service, the seen affliction, *let my
-  people go*, the plundering, and the pursuit — [[The Oppression in Egypt]]
+  people go*, the plundering, and the pursuit — [[The Oppression in Egypt]], [[Bricks Without Straw]]
 - **Deuteronomy 26:5–9** — *"A Syrian ready to perish was my father"*: Israel's own creed, which puts
   the two stories in one sentence
 

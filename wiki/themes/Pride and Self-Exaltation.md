@@ -126,6 +126,11 @@ reading that the text supports, is located in what the building was *for*.
   pride"* (41:34). God governs pride without abolishing it; Job cannot even hook it.
 - [[The Oppression in Egypt]] — Exodus 1:10, 14; *"Come, let us …"* — Babel's word and Babel's bricks, in an
   empire that makes others build. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
+- [[Bricks Without Straw]] — Exodus 5:2; ***"Who is Yahweh, that I should listen to his voice? … I
+  don't know Yahweh, and moreover I will not let Israel go."*** **The question of the comfortable** —
+  compare *"What is the Almighty, that we should serve him?"* (Job 21:15) and *"lest I be full, deny
+  you, and say, 'Who is Yahweh?'"* (Proverbs 30:9). See
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
 
 ## Related themes
 

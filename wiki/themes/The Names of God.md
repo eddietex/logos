@@ -226,6 +226,11 @@ everlasting possession, by treaty with its current occupant.
   (4:12, 15). Three readings of the name (self-existence, faithful presence, reticence) are recorded on
   the passage page; none adopted. See [[I AM WHO I AM - Exodus 3.14 and John 8.58]] and
   [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
+- [[Bricks Without Straw]] — Exodus 5:1–3, 22; ***"Who is Yahweh?"*** — **the name, refused.** Pharaoh
+  does not deny Yahweh exists; he says *"I don't know Yahweh"*. Moses and Aaron answer by naming God
+  by his people, *"The God of the Hebrews"* — dropping the *Yahweh* that opened the script at 3:18 —
+  and Moses, complaining, calls him *ʾădōnāy*, *Lord* (5:22). See
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
 
 ## Related themes
 

@@ -108,9 +108,22 @@ telling.** His route home repeats Jacob's: sent back by God, leave of a father-i
 road, a brother's kiss. See [[Moses Returns to Egypt]] and
 [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
 
+**He goes in to Pharaoh, and it makes everything worse.** With Aaron — and without the elders the
+plan had named (3:18) — he delivers *"Let my people go"* (5:1) and hears *"Who is Yahweh? … I don't
+know Yahweh"* (5:2). The answer is more bricks and no straw; the Israelite officers are beaten, appeal
+to Pharaoh as *"your servants"*, and coming out find Moses and Aaron waiting and curse them: *"May
+Yahweh look at you, and judge"* (5:21). **It is the second time his own people have refused him, and
+the first time in God's name** — the man of 2:14 asked *"who made you … a judge?"*; these hand him to
+the Judge. **Moses' reply is his first complaint to God**: *"Lord, why have you brought trouble on
+this people? Why is it that you have sent me? … you have not rescued your people at all"* (5:22–23) —
+God's *nāṣal* of 3:8 quoted back as unkept, and the *hărēʿōtâ* he will use again at Numbers 11:11.
+**God, angry at his refusal at 4:14, does not rebuke the complaint**; he answers *"Now you shall
+see"* (6:1). See [[Bricks Without Straw]] and
+[[Who Made You a Prince and a Judge - The Rejected Deliverer]].
+
 ### What is ahead
 
-The confrontation with Pharaoh and the plagues (5–11); the Passover, the sea, and the
+The name reaffirmed and the genealogy (6:2–27), the staff before Pharaoh, and the plagues (6:28–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -145,6 +158,11 @@ sections are written as their pericopes arrive.
 - Attacked by Yahweh at a lodging place; Zipporah circumcises their son — Exodus 4:24–26
 - Met and kissed by Aaron at God's mountain; with Aaron gathers the elders, who believe and worship —
   Exodus 4:27–31
+- Goes in to Pharaoh with Aaron: *"Let my people go"*; told *"Who is Yahweh? … I don't know Yahweh"*
+  — Exodus 5:1–5, [[Bricks Without Straw]]
+- Cursed by the beaten Israelite officers, *"May Yahweh look at you, and judge"* — Exodus 5:20–21
+- Complains to God, *"Why is it that you have sent me?"*, and is answered *"Now you shall see"* —
+  Exodus 5:22–6:1
 
 ## Appears in
 
@@ -161,6 +179,9 @@ sections are written as their pericopes arrive.
   leave of Jethro without mentioning God, is given the message of the firstborn, is attacked by
   Yahweh at a lodging place and saved by Zipporah's flint, is kissed by Aaron, and is believed — with
   Aaron doing the speaking
+- [[Bricks Without Straw]] — Exodus 5:1–6:1; **sent in, refused, cursed, complaining.** His first audience
+  with Pharaoh doubles the people's labour; the officers hand him over to God's judgment; he asks God
+  why he was sent and accuses him of not delivering, and is answered with a promise and no rebuke
 
 ## Related people
 
@@ -196,3 +217,5 @@ sections are written as their pericopes arrive.
 - [[Prophecy and Vision]]
 - [[Circumcision]]
 - [[Hardening of the Heart]]
+- [[Prayer]]
+- [[Mourning and Lament]]

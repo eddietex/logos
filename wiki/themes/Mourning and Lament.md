@@ -143,6 +143,9 @@ regulating it.
 - [[The Restoration of Job]] — Job 42:11; **the comfort of 2:11, given at last.** *"They comforted him, and consoled
   him"* — the two verbs (*nûd*, *nḥm*) the three friends came with in chapter 2, now from the brothers, sisters and
   acquaintances who had been estranged (19:13–14), at a meal in his house. See [[Comforters Who Do Not Comfort]].
+- [[Bricks Without Straw]] — Exodus 5:22–23; ***"Why … why"*** — **lament as accusation, in the form the
+  Psalms will use** (*"Why do you sleep, Lord? … Why do you hide your face …"*, Psalm 44:23–24). Moses
+  laments not the suffering alone but that his own obedience caused it
 
 ## Related themes
 

@@ -270,6 +270,11 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
 - [[Moses Returns to Egypt]] — Exodus 4:23; ***"Let my son go, that he may serve me"*** — *wəyaʿabdēnî* — **the
   book's thesis in one word.** Egypt made Israel serve; God claims the service, as a father claims a
   son. The demand is a change of master
+- [[Bricks Without Straw]] — Exodus 5:9, 15–18; ***"Go … and work"*** — *ʿibdû*, *serve* — **Pharaoh's
+  counter-command to 4:23.** Yahweh says *"that he may serve me"*; Pharaoh says *"serve"* and means the
+  brickfields, makes the *service* heavy (*tikbad hāʿăbōdâ*, 5:9), and the Israelite officers call
+  themselves *"your servants"* three times (5:15–16) — the posture of Genesis 47:19, 25. **The WEB's
+  *work* is the Hebrew *serve***
 
 ## Related themes
 

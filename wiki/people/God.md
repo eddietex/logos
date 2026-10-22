@@ -1404,6 +1404,19 @@ man God has himself sent home. Then he sends Aaron to meet Moses (4:27), and the
 he has *visited* them and *seen* their affliction, worship (4:31). See [[Moses Returns to Egypt]],
 [[Hardening of the Heart]], and [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
 
+### He is refused, blamed, and does not rebuke — Exodus 5:1–6:1
+
+**His name is asked for in contempt** — *"Who is Yahweh? … I don't know Yahweh"* (5:2) — **his word is
+called *"lying words"*** (5:9), and his name is put in the mouths of the people as the cause of their
+punishment (5:17). The officers invoke him against his own messenger, *"May Yahweh look at you, and
+judge"* (5:21), and his messenger accuses him to his face: *"why have you brought trouble on this
+people? … you have not rescued your people at all"* (5:22–23). **He does nothing in the chapter until
+its last verse, and then he does not defend himself.** Where Moses' refusal to go at 4:13 made his
+anger burn, Moses' complaint after going draws only *"Now you shall see what I will do to Pharaoh"*
+(6:1) — and the *strong hand* of 3:19–20, promised again. **Pharaoh's question is the one the plagues
+will answer**: *"you shall know that I am Yahweh"*. See [[Bricks Without Straw]] and
+[[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1566,6 +1579,9 @@ he has *visited* them and *seen* their affliction, worship (4:31). See [[Moses R
   Israel his firstborn son and announces the death of Pharaoh's; meets Moses at a lodging place and
   seeks to kill him, until Zipporah circumcises her son; sends Aaron to meet Moses — Exodus 4:18–31,
   [[Moses Returns to Egypt]]
+- Is refused by Pharaoh, *"Who is Yahweh?"*; is blamed by Moses for the people's trouble; answers
+  without rebuke, *"Now you shall see what I will do to Pharaoh"* — Exodus 5:1–6:1,
+  [[Bricks Without Straw]]
 
 ## Appears in
 
@@ -1897,6 +1913,8 @@ he has *visited* them and *seen* their affliction, worship (4:31). See [[Moses R
 - [[Moses Returns to Egypt]] — Exodus 4:19–27; **Father of a firstborn nation, and assailant of his own
   messenger.** *"Israel is my son, my firstborn"*; *"I will harden his heart"*; *"Yahweh met Moses and
   wanted to kill him"* — unexplained, and ended by a Midianite woman's flint
+- [[Bricks Without Straw]] — Exodus 5:1–6:1; **refused, blamed, and answering with a promise.** *"Who
+  is Yahweh?"*; his word called lies; invoked against Moses; accused by Moses; *"Now you shall see"*
 
 ## Related people
 
