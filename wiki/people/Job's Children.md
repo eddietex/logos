@@ -52,7 +52,7 @@ details in Scripture.
   *"God lays up his iniquity for his children"*. See [[Why Do the Wicked Live]].
 - **Job 29:5** — his lament for the days *"when the Almighty was yet with me, and my children were
   around me."*
-- **Job 42:13–15** — seven sons and three daughters again. Only here the daughters are named —
+- **Job 42:13–15** — [[The Restoration of Job]]: seven sons and three daughters again. Only here the daughters are named —
   Jemimah, Keziah, and Keren Happuch — described as the most beautiful women in the land, and given
   an inheritance among their brothers, which was not the ordinary practice.
 
@@ -129,6 +129,13 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   first time in the dialogue that anyone argues the children should not pay for a parent**, and
   the one arguing it is the only father in the book who has buried ten. See
   [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
+- [[The Restoration of Job]] — Job 42:13–15; **a second family, not doubled, and the daughters named.** The
+  livestock comes back twice over; the children come back at the original count. The sons are a number; the
+  daughters are *Jemimah*, *Keziah*, and *Keren-happuch*, the most beautiful women in the land, and *"their father
+  gave them an inheritance among their brothers"* (42:15) — more than the rule of Numbers 27:8 would give them. The
+  first ten are not mentioned. *Šibʿānâ*, the odd form of *seven* in 42:13, has been read as *fourteen* — a reading
+  recorded, not adopted. See
+  [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]].
 
 ## Related people
 

@@ -243,7 +243,7 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
   second half of 4:13 repeated exactly; and Job 33:19, Elihu's development of 5:17.
 - [[Elihu on God's Greatness]] — Job 36:8–15, the development completed (*"He delivers the afflicted by
   their affliction"*, 36:15); 36:26, 5:9's *ḥēqer*; 36:27–37:13, the rain of 5:10.
-- Job 42:7–9 — the verdict on this speech's speaker, and his restoration through the man he
+- [[The Restoration of Job]] — Job 42:7–9 — the verdict on this speech's speaker, and his restoration through the man he
   counselled.
 - Genesis 2:21; 15:12 — *tardēmâ*, the deep sleep of 4:13.
 - 1 Kings 19:12 — *qôl dəmāmâ daqqâ*, the *"still small voice"* at Horeb; 4:16 has the same two

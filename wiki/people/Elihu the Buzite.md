@@ -110,6 +110,10 @@ later addition; the wiki records that view and reads the book as received.
   will speak"*, is in neither of God's speeches; its nearest wording in the book is Elihu's *"Hold your peace,
   and I will speak"* (33:31) — or Job's own 13:22. And Job's *"I have uttered that which I did not understand"*
   (42:3) concedes Elihu's *"without knowledge"* (34:35; 35:16) in God's words, not his.
+- [[The Restoration of Job]] — Job 42:7–9, **not named.** God's verdict names Eliphaz and *"your two friends"*;
+  the fourth speaker is neither rebuked nor commended, and offers no sacrifice. His anger of 32:2–5 (*wayyiḥar
+  ʾap*) is matched by God's *ḥārâ ʾappî* (42:7) — but God's falls on the friends only. Whether the silence means
+  the speeches were added later or that Elihu needed no verdict, the text does not say.
 
 ## Related people
 

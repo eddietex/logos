@@ -88,3 +88,6 @@ Testament where a man says it has already happened.
   See [[The Whirlwind Answers Chapter 3]].
 - **It connects Job to the Bible's line of people who see God and live** — and to the New Testament
   promise that the pure in heart will see him. See [[Walking with God]].
+- **The book's last use of the verb is a blessing.** After *"now my eye sees you"* (42:5), the epilogue's *rāʾâ*
+  is *"saw his sons, and his sons' sons, to four generations"* (42:16) — the sight Job had said the dead man is
+  denied (14:21) and the wicked enjoy (21:8). See [[The Restoration of Job]].

@@ -128,7 +128,7 @@ book, and Bildad's name survives inside them.
   of you?"* (26:4) calls his last speech borrowed breath. On one reconstruction 26:5–14 is the rest of
   his speech; the wiki reads it as Job's.
 - **Job 42:7–9** — included in *"your two friends"*, rebuked with Eliphaz, and required to bring
-  sacrifices and be prayed for by Job.
+  sacrifices and be prayed for by Job — [[The Restoration of Job]].
 
 ## Appears in
 
@@ -194,6 +194,10 @@ book, and Bildad's name survives inside them.
   second speech. See [[Shall Not the Judge of All the Earth Do Right]].
 - [[Elihu on God's Greatness]] — Job 36:5, not named; his *"God will not cast away (yimʾas) a blameless
   man"* (8:20) behind Elihu's *"God is mighty, and doesn't despise (yimʾas) anyone"*.
+- [[The Restoration of Job]] — Job 42:7–9, 12; **rebuked, and quoted by the narrator.** One of *"your two
+  friends"*, he brings the sacrifice and is prayed for. And his 8:7 — *"Though your beginning (rēʾšît) was small,
+  yet your latter end (ʾaḥărît) would greatly increase"* — is fulfilled in its own nouns: *"Yahweh blessed the latter
+  end of Job more than his beginning"* (42:12). The promise was true; its condition had been met since 1:1.
 
 ## Related people
 

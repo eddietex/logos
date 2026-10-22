@@ -56,7 +56,7 @@ is close because you cannot bear to sit in the dark with him.
   open.
 - **Job 19:25–27** — *"I know that my Redeemer lives"*, the counter-statement, in Hebrew almost as
   broken as 13:15.
-- **Job 42:10–17** — an answer given in events rather than in argument.
+- **Job 42:10–17** — an answer given in events rather than in argument — [[The Restoration of Job]].
 - **Psalm 39:7; 42:5, 11; 62:5; 130:5–7** — hope as waiting, and the Psalter's habit of addressing
   the hoping self in the second person: *"Why are you in despair, my soul?"*
 - **Psalm 88** — the psalm with no turn, which the canon keeps.
@@ -182,6 +182,10 @@ is close because you cannot bear to sit in the dark with him.
   there came darkness."*** *Qiwwîtî* and *ʾăyaḥălâ*, the two verbs of waiting hope, each met by its
   opposite. The tree-hope of 29:18–20 has its answer in the next chapter: not a root by the water but
   *"the house appointed for all living"* (30:23).
+- [[The Restoration of Job]] — Job 42:10–17; **the tree sprouts.** *"There is hope for a tree, if it is cut down, that it will sprout
+  again"* (14:7) — Job denied it of a man; the epilogue gives him a new household, four generations, and a death *"old
+  and full of days"*. What he hoped for at 19:25–27 was vindication before death, and that is what arrives. See
+  [[There Is Hope for a Tree - The Stump That Sprouts]].
 
 ## Related themes
 

@@ -161,6 +161,9 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[I Repent in Dust and Ashes]] — Job 42:1–6; **the test of 1:9–11 ends, and the one tested never hears of it.** The prediction
   was *"he will renounce you to your face"* (1:11; 2:5); Job's last words are *"now my eye sees you"* (42:5),
   spoken before anything is returned. The prologue's test is the one that proves, and here it has proved.
+- [[The Restoration of Job]] — Job 42:7–17; **the test ends without a report.** The heavenly court of 1:6–12 has no sequel; no one
+  tells the accuser, and no one tells Job. What remains is God's *my servant Job*, four times, the title the test was
+  set to challenge (1:8; 2:3).
 
 ## Related themes
 

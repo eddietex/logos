@@ -5,7 +5,7 @@ genre: Wisdom / Poetry
 author: Anonymous; date disputed, proposals ranging from the patriarchal era to the post-exilic period
 canonical_order: 18
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Job
 
@@ -182,6 +182,15 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   *nḥm*, and the most contested line in the book: an abasement, or *"I retract, and am comforted concerning
   dust and ashes"*. **He says it on the ash-heap, before anything is restored** — the accuser's *"for
   nothing"* (1:9) answered without the accuser.
+  The epilogue (42:7–17) returns to prose and gives the verdict the poem withheld: *"you have not spoken of me
+  the thing that is right, as my servant Job has"* (42:7), said twice, with *my servant* four times. **Elihu is not
+  in it, and neither is the accuser.** The friends bring seven bulls and seven rams to Job, Job prays for them,
+  and *"Yahweh turned the captivity of Job, when he prayed for his friends"* (42:10) — the prophets' phrase for
+  the return from exile, and the restoration tied to intercession, not to confession. Then the estranged family
+  of 19:13–14 eats at his table and gives the comfort of 2:11 at last, *"concerning all the evil that Yahweh had
+  brought on him"* (42:11); the inventory of 1:3 is doubled, and Bildad's *beginning* and *latter end* (8:7) come
+  true in his own words (42:12). The children are not doubled. The three daughters are named and inherit among
+  their brothers (42:14–15), and Job dies, like Isaac, *"old and full of days"* (42:17). **He is never told why.**
 
 ## Pericopes
 
@@ -254,7 +263,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### Epilogue (42)
 
 - [x] [[I Repent in Dust and Ashes]] — Job 42:1–6
-- [ ] The Restoration of Job — Job 42:7–17
+- [x] [[The Restoration of Job]] — Job 42:7–17
 
 ## Key themes
 
@@ -284,6 +293,10 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Providence]] — rain *"on a land where no man is"* (38:26), and the lioness and the raven fed (38:39–41)
 - [[Pride and Self-Exaltation]] — the proud Job is told to bring low (40:11–12), and Leviathan, *"king over all
   the sons of pride"* (41:34)
+- [[Prayer]] — *"my servant Job shall pray for you"* (42:8): the restoration comes *"when he prayed for his
+  friends"* (42:10)
+- [[Blessing]] — the verb the accuser said Job would turn to a curse (1:11), Job's own over his losses (1:21), and
+  God's over his *latter end* (42:12)
 
 ## Key people
 

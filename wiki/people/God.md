@@ -1313,6 +1313,11 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   (Genesis 11:6), given back to God — quotes his charge and his summons (42:3–4), and says *"now my eye sees
   you"* (42:5). Nothing in the whirlwind speeches is described as seen; what Job calls seeing is being
   addressed.
+- **The God of [[The Restoration of Job]]** speaks a verdict and gives no reason. He tells Eliphaz the friends
+  *"have not spoken of me the thing that is right, as my servant Job has"* (42:7), twice; sends them to Job with
+  seven bulls and seven rams, and makes Job's prayer their remedy; *"turned the captivity of Job, when he prayed for
+  his friends"* (42:10) and doubles his goods. The narrator names him, not the accuser, as the one who brought
+  *"all the evil"* on Job (42:11). He never tells Job about the wager.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1469,6 +1474,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   should repay him?"* — Job 40:6–41:34, [[Behemoth and Leviathan]]
 - Confessed by Job as able to *"do all things"*, and *seen*: *"now my eye sees you"* — Job 42:1–6,
   [[I Repent in Dust and Ashes]]
+- Rebukes the three friends and commends Job, *"my servant"*; accepts Job's prayer for them; restores Job twice over
+  — Job 42:7–17, [[The Restoration of Job]]
 
 ## Appears in
 
@@ -1782,6 +1789,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   hands on 46:4 in the second person**: *"God will be with you, and bring you again to the land of your
   fathers."* See [[The Names of God]], [[Providence]] and
   [[The God Who Has Fed Me - The First Time God Is a Shepherd]]
+- [[The Restoration of Job]] — *Yahweh*, the verdict-giver (42:7–8): wrath *kindled* at the friends, Job *accepted*
+  (*pānāyw ʾeśśāʾ*, 42:8–9), the captivity turned (42:10), the latter end blessed (42:12); named by the narrator as
+  the source of *"all the evil"* (42:11). No reason given.
 
 ## Related people
 

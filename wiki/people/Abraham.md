@@ -942,6 +942,10 @@ arrive.
   Job at 30:19 and again in his last words to God (42:6). Both men use it at the moment they speak to God with
   no standing to do so, and both then intercede — Abraham for Sodom, Job for the friends (42:8–10). See
   [[Sitting in Dust and Ashes]]
+- [[The Restoration of Job]] — Job 42:8–10, 17; **not named, and his pattern twice.** God sends the party in the
+  wrong to the man they wronged and makes his prayer their remedy, as at Genesis 20:7, 17; and Job dies *"old and
+  full of days"*, close to Abraham's *"a good old age, an old man, and full of years"* (Genesis 25:8). See
+  [[A Prophet Who Prays - The First Nabi in Scripture]].
 
 ## Related people
 

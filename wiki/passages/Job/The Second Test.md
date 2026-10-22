@@ -292,7 +292,7 @@ words*. **Chapter 3 begins eleven verses later.**
   me"* ([[Now They Mock Me]]): the only descriptions of the disease from inside it, and both are Job's.
 - [[I Will Not Put Away My Integrity]] — Job 27:5, *"Until I die I will not put away my integrity from me"*: *tummâ*
   again, and the answer to 2:9 given twenty-five chapters later under oath.
-- **Job 42:11** — *"all the evil that Yahweh had brought on him"*, the epilogue's attribution, with
+- [[The Restoration of Job]] — **Job 42:11** — *"all the evil that Yahweh had brought on him"*, the epilogue's attribution, with
   the accuser unmentioned and 2:3's *you incited me* unrepeated.
 - **1 Chronicles 21:1 · 2 Samuel 24:1** — *hēsît* in both, with different subjects.
 - **Deuteronomy 13:6 · 2 Kings 18:32 · Jeremiah 38:22** — the ordinary company *hēsît* keeps.

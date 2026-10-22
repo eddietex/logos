@@ -10825,3 +10825,87 @@ to key themes. Indexes: books (31 / 32), people (5 rows), themes (11 rows), conn
 `wiki/index.md` (90 passages, 265 connections). `scripts/link-check.sh` clean.
 
 No contradiction between wiki pages found beyond the one nuance above.
+
+## [2026-10-22] ingest | Job 42.7-17 — The Restoration of Job
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] was the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 42:7–17. **Boundary and title unchanged**
+from the plan. 42:7–9 (verdict) and 42:10–17 (restoration) were kept together because 42:10's *"when he prayed for
+his friends"* ties the two. No collision with any other book. **This was the last pericope: Job is `complete`
+(32 / 32)**, and with no book left `in-progress` the next run falls through to the first `not-started` book,
+[[Exodus]], whose page and pericope plan it will create. No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[The Restoration of Job]], built around these findings:
+
+**1. The verdict (42:7–8).** Said twice; *my servant* four times (1:8 and 2:3's title reissued). Elihu absent from
+it. *Ḥārâ ʾappî* against Elihu's *wayyiḥar ʾap* (32:2–5). *Nəkônâ* read as *true to the case*, not *orthodox*.
+*ʾēlay* — WEB *of me*, more naturally *to me* — recorded both ways, not decided. Three readings of what Job said
+rightly (honesty; his last words; his address to God) recorded. **The tension with 38:2 is recorded, not resolved.**
+
+**2. The sacrifice and prayer (42:8–9).** Seven bulls and seven rams (Numbers 23:1; 1 Chronicles 15:26); Job as
+priest (1:5); *pānāyw ʾeśśāʾ* against 13:8–10, 11:15, 22:26; *nəbālâ* (42:8) against *nəbālôt* (2:10);
+*yitpallēl* and Genesis 20:7; 5:1 reversed. The friends say nothing.
+
+**3. The turn (42:10).** *Šûb šəbût*, the prophets' phrase for the return from exile, said of one man; restoration
+after intercession, not confession. *Ləmišneh* and Exodus 22's double restitution **recorded as a reading and not
+adopted** (God is not the condemned party; 41:11); Isaiah 40:2, 61:7, Zechariah 9:12 taken as nearer.
+
+**4. 42:11–17.** The estranged of 19:13–14 return; 2:11's *nûd* and *nḥm* given at last; *"all the evil that
+Yahweh had brought on him"* — no accuser; *qəśîṭâ* (Genesis 33:19; Joshua 24:32) and *nezem zāhāb*; 1:3 doubled
+item by item, Bildad's *rēʾšît* / *ʾaḥărît* (8:7); children not doubled; daughters named and endowed beyond Numbers
+27:8; 140 years (twice Psalm 90:10, an observation only); *saw* (42:16) after 42:5, against 14:21 and 21:8; *old and
+full of days* (Genesis 35:29). What the epilogue does not do — tell Job, report to the court, narrate the healing,
+mention Elihu, the wife, or the dead children — set out. Three replies to *"is the ending a retreat?"* recorded.
+
+### Judgment calls
+
+*Šibʿānâ* (42:13) read as *fourteen* by some (the Targum, by report) — recorded as reported, not checked, not
+adopted. The daughters' name glosses recorded as usual and uncertain. The Septuagint's figures for Job's age and
+its appendix after 42:17 mentioned and **not quoted or described**, since not checked. *Kēn* (Numbers 27:7) / *nəkônâ*
+(42:7) noted as an observation, allusion not claimed. No new person or place page: Jemimah, Keziah, and Keren-happuch
+stay on [[Job's Children]], which already treats them. [[Isaac]] and [[Jacob]] get entries for a formula and a word,
+not for any act. No new theme page; daughters' inheritance filed under [[Birthright and the Firstborn]].
+
+### Connection pages
+
+Created (3): [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]],
+[[Yahweh Turned the Captivity of Job - Restoration and the Double]], and
+[[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]]. Revised (12): the passage link
+added to the Job 42 entries of [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] (dated check:
+every correspondence holds), [[A Prophet Who Prays - The First Nabi in Scripture]] (its *not yet ingested* marker
+removed), [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] (its 42:7 marker removed; note added),
+[[Sacrifice Before the Priesthood]], [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]],
+[[Now My Eye Sees You - Hearing and Seeing in Job]], [[Comforters Who Do Not Comfort]],
+[[What Is Man That He Should Be Clean]], [[The Boil of Deuteronomy 28 on a Blameless Man]],
+[[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]], and
+[[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]].
+
+**Correction (misquotation, not a contradiction):** [[A Prophet Who Prays - The First Nabi in Scripture]] (twice) and
+[[Abraham and Abimelech]] quoted 42:8 as *"my servant Job will pray for you; for I will accept him"*; the WEB reads
+*"my servant Job shall pray for you, for I will accept him"*. Corrected to the WEB.
+
+Non-Job, non-Genesis quotations checked against the WEB from bible-api.com before writing: Exodus 22:4, 7, 9;
+Numbers 23:1; 27:1–8; Deuteronomy 30:2–3; Joshua 24:32; 1 Chronicles 15:26; Psalm 14:7; 90:10; 126:1–6; 128:6;
+Isaiah 40:1–2; 61:7; Jeremiah 29:14; Ezekiel 14:14, 20; Amos 9:14; Zechariah 9:12; James 5:11. (Psalm 85:1, Ezekiel
+16:53, Proverbs 20:21, Ecclesiastes 7:8 checked and not used.) Numbers 36 and Joshua 17:3–6 cited by reference only.
+Job and Genesis texts checked against `raw/bible/`.
+
+### Pages created or revised
+
+Created (4): the passage page and three connection pages. People (12): [[Job (person)]], [[God]], [[Satan]],
+[[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]], [[Elihu the Buzite]], [[Job's Children]],
+[[Job's Wife]], [[Abraham]], [[Isaac]], [[Jacob]]. Places (4): [[Uz]], [[Teman]], [[Shuah]], [[Naamah]]. Themes (19):
+[[Righteousness]], [[Retribution]], [[Mediation and Advocacy]], [[Prayer]], [[Sacrifice and Offering]], [[Judgment]],
+[[Language and Speech]], [[Integrity]], [[Blessing]], [[Wealth and Possessions]], [[Mourning and Lament]], [[Hope]],
+[[Suffering]], [[Life and Death]], [[Testing]], [[Seeing and Being Seen]], [[Birthright and the Firstborn]],
+[[Names and Naming]], [[Divine Grief and Relenting]]. Passages (24): forward references to 42:7–17 linked in 21 Job
+passage pages, plus [[Abraham and Abimelech]], [[The Reconciliation with Esau]], and
+[[Return to Bethel; the Deaths of Rachel and Isaac]]. Book page: box checked, `status: complete`, structure note for
+the epilogue, [[Prayer]] and [[Blessing]] added to key themes. Indexes: books (Job complete, 32 / 32), people (12
+rows), places (4 rows), themes (19 rows), connections (+3 rows, 2 revised), `wiki/index.md` (2 complete, 91
+passages, 268 connections). `scripts/link-check.sh` clean.
+
+No contradiction between wiki pages found. The one tension the pericope surfaces — *"without knowledge"* (38:2)
+against *"the thing that is right"* (42:7) — is God's own and is recorded on the pages concerned, not resolved.

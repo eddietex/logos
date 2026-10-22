@@ -210,7 +210,7 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
   15:10.
 - [[Out of the Whirlwind]] — Job 38:4, 21 — *"Where were you when I laid the foundations of the earth? …
   Surely you know, for you were born then"*.
-- Job 42:7–9 — *"My wrath is kindled against you, and against your two friends; for you have not
+- [[The Restoration of Job]] — Job 42:7–9 — *"My wrath is kindled against you, and against your two friends; for you have not
   spoken of me the thing that is right, as my servant Job has."*
 - Genesis 6:5 — *"every imagination of the thoughts of man's heart was continually only evil"*, the
   nearest thing in the Torah to 15:14–16, and stated there by the narrator rather than by a

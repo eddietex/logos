@@ -29,7 +29,7 @@ tags: [connection]
 - **Job 13:23, 26; 14:16–17** — Job's later speeches on God's record-keeping: the charge sheet asked
   for, *"the iniquities of my youth"*, and *"My disobedience is sealed up in a bag"* —
   [[Though He Slay Me]]
-- **Job 42:8–9** — *"my servant Job shall pray for you, for I will accept him"* — *pānāyw ʾeśśāʾ*
+- **Job 42:8–9** ([[The Restoration of Job]]) — *"my servant Job shall pray for you, for I will accept him"* — *pānāyw ʾeśśāʾ*
 
 ## Analysis
 

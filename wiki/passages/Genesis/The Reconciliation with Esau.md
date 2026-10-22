@@ -299,6 +299,8 @@ Genesis 34 will make him a central figure. See [[Hamor]].
   *(not yet ingested)*.
 - Luke 15:20 — the running father of the prodigal son parable, in language the Septuagint of 33:4
   anticipates almost word for word.
+- [[The Restoration of Job]] — Job 42:11: each of Job's family brings him a *qəśîṭâ*, *a piece of money* — the unit of
+  33:19's *"one hundred pieces of money"*, found elsewhere only at Joshua 24:32.
 
 ## Notes
 

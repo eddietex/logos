@@ -78,7 +78,7 @@ what Job is asking for.
   a thousand, to show to man what is right for him; then God is gracious to him"* — the book's own
   candidate for the figure, offered by the speaker nobody answers. See [[Elihu Speaks in Anger]].
 - **Job 42:8–10** — the resolution nobody expects: Job intercedes *for the friends*, and God accepts
-  him. The man who spent the book asking for an advocate ends it as one.
+  him. The man who spent the book asking for an advocate ends it as one — [[The Restoration of Job]].
 - **Exodus 32:11–14, 30–32** — Moses standing in the breach, *"blot me, I pray you, out of your book
   which you have written"*: mediation at its costliest in the Torah.
 - **Numbers 12:6–8; Deuteronomy 5:5** — Moses' standing office, *"I stood between Yahweh and you at
@@ -239,6 +239,11 @@ what Job is asking for.
   hearing Job asked for is granted on his own terms (13:22) with no third party; and God calls Job
   *mōkîaḥ ʾĕlôah*, *"he who argues with God"* (40:2) — 9:33's missing *umpire*. See
   [[The Witness in Heaven]].
+- [[The Restoration of Job]] — Job 42:8–10; **the advocate Job asked for, become.** Eliphaz had asked *"To which of the
+  holy ones will you turn?"* (5:1); God sends Eliphaz to Job. *"My servant Job shall pray for you, for I will accept
+  him"* — *pānāyw ʾeśśāʾ*, I will lift his face — and the restoration follows the prayer. The umpire, witness and
+  Redeemer Job sought (9:33; 16:19; 19:25) were to plead his case; he ends pleading theirs. See
+  [[A Prophet Who Prays - The First Nabi in Scripture]].
 
 ## Related themes
 

@@ -245,7 +245,7 @@ curse**, and forty chapters of argument follow from it.
   to go back to 2:13.** — [[Though He Slay Me]]
 - **Job 19:13–19** — the catalogue of everyone who has left, in which *"my friends have all become
   strangers to me"* stands against the three who came.
-- **Job 42:11** — *"all his brothers, and all his sisters… comforted him"*, with the two verbs of
+- [[The Restoration of Job]] — **Job 42:11** — *"all his brothers, and all his sisters… comforted him"*, with the two verbs of
   2:11 used again and, this time, no speech recorded at all.
 - **Genesis 50:10 · 1 Samuel 31:13 · Ezekiel 3:15** — the seven-day term elsewhere.
 - **Isaiah 52:14** — *"his appearance was marred more than any man, and his form more than the sons

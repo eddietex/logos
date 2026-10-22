@@ -244,7 +244,7 @@ last time anyone in the dialogue recites it.
 - [[Behemoth and Leviathan]] — Job 40:9, the thunder in God's own mouth: *"Can you thunder with a voice
   like him?"*; and 41:1–34, the creature of 26:13's *swift serpent* described without a combat.
 - [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]]
-- Job 42:7 — the verdict on what the friends said, and on what Job said.
+- [[The Restoration of Job]] — Job 42:7 — the verdict on what the friends said, and on what Job said.
 - Proverbs 8:27–29 — wisdom present *"when he set a circle on the surface of the deep"* and *"gave to
   the sea its boundary"*; 26:10's circle on the waters.
 - Isaiah 27:1 — *"leviathan, the fleeing serpent"*: the same Hebrew (*nāḥāš bārîaḥ*) as 26:13's

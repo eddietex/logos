@@ -171,6 +171,10 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   sacrifices to the God who forbade this journey to [[Isaac]]** (26:2), **and the answer comes that
   night.** **No altar is named, no reason is given, and the text does not call it an enquiry** — **but
   it is the only sacrifice in the book immediately followed by a theophany**
+- [[The Restoration of Job]] — Job 42:8–9; **seven bulls and seven rams.** A burnt offering on the scale of Numbers 23:1
+  and 1 Chronicles 15:26, brought by the friends to Job, who stands as priest for them as he stood for his children
+  (1:5) — then on a hypothesis of sin, now on God's word. No altar, priesthood, or sanctuary is named. See
+  [[Sacrifice Before the Priesthood]].
 
 ## Related themes
 

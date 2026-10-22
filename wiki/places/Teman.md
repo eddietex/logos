@@ -67,6 +67,8 @@ that pair it with Bozrah as though the two were distinguishable.
 - [[The Descendants of Esau]] — Genesis 36:11, 15, 34, 42; a grandson of Esau, a chief twice over,
   and the district the third king of Edom comes from. **The place and the person are the same name
   doing two jobs**, which is what the whole final register of that chapter does at scale.
+- [[The Restoration of Job]] — Job 42:7, 9; Eliphaz *the Temanite*, named in full in the epilogue as at 2:11, rebuked, and
+  prayed for by Job.
 
 ## Related places
 

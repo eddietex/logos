@@ -43,6 +43,8 @@ Job's three visitors outside Israel and into the international wisdom tradition 
 - [[Eliphaz's Second Speech]] · [[Miserable Comforters and the Witness in Heaven]] ·
   [[Bildad's Second Speech]] · [[I Know That My Redeemer Lives]] — where Zophar is present and
   unnamed.
+- [[The Restoration of Job]] — Job 42:9; Zophar *the Naamathite*, named in full in the epilogue as at 2:11, rebuked, and
+  prayed for by Job.
 
 ## Related places
 

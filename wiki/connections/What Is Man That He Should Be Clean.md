@@ -34,7 +34,7 @@ tags: [connection]
 - **Psalm 130:3; 143:2; Proverbs 20:9; Ecclesiastes 7:20; 1 Kings 8:46** — the canon's other
   statements that no one is clean
 - **Romans 3:10–12, 23** — Paul's catena, and *"all have sinned"*
-- **Job 42:7** — *"you have not spoken of me the thing that is right"*
+- **Job 42:7** ([[The Restoration of Job]]) — *"you have not spoken of me the thing that is right"*
 
 ## Analysis
 

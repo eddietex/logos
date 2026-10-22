@@ -42,7 +42,7 @@ omission.
   will betroth a wife, and another man shall lie with her"*), called down by Job on himself. Grinding
   is a slave's work, and the line carries a sexual sense as well. A reminder that she is assumed present
   throughout — [[Job's Oath of Innocence]]
-- **Job 42:10–17** — absent by name from the restoration, which gives Job seven sons and three
+- **Job 42:10–17** — [[The Restoration of Job]]; absent by name from the restoration, which gives Job seven sons and three
   daughters and says nothing about their mother
 
 ## Appears in
@@ -66,6 +66,10 @@ omission.
   Job has *"laid wait at my neighbor's door"*, let his wife *"grind for another, and let others sleep
   with her."* The oath stakes her as the thing a man of his world could lose — and it is the other
   side of 2:9: she told him to let go of his integrity, and he swears by it with her as the pledge.
+- [[The Restoration of Job]] — Job 42:7–17; **not mentioned.** Ten children are born and named in part, and
+  nothing says who their mother is. The one echo of her is a word: God tells the friends he will not deal with them
+  *"according to your folly"*, *nəbālâ* (42:8) — the root of Job's *"You speak as one of the foolish women
+  (nəbālôt)"* (2:10). The verdict Job passed on her sentence, God passes on the friends'.
 
 ## Related people
 

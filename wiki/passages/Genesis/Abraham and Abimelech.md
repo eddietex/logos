@@ -396,7 +396,7 @@ design of a book that tells things twice on purpose. See [[The Names of God]].
 - Jeremiah 7:16; 11:14; 14:11; 15:1 — the prophet forbidden to intercede, which only makes sense if
   intercession is the job.
 - Amos 7:1–6; Ezekiel 22:30 — the prophet who stands in the gap, and the search for someone who will.
-- Job 42:7–9 — *"my servant Job will pray for you; for I will accept him"* — the same arrangement,
+- [[The Restoration of Job]] — Job 42:7–9 — *"my servant Job shall pray for you, for I will accept him"* — the same arrangement,
   the same verb, and the same surprise about who is qualified.
 - Psalm 24:4; 26:6; 73:13 — clean hands and a pure heart, the formula Abimelech uses first.
 - Psalm 105:14–15 — *"He allowed no one to do them wrong. Yes, he reproved kings for their sakes:

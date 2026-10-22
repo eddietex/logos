@@ -629,6 +629,8 @@ gets a death notice in this same chapter** (35:8); she does not.
   appearance in Scripture of the three-name sequence with the land oath attached**, which Exodus 33:1
   and Deuteronomy will repeat as a fixed phrase. **His last mention in Genesis is as the middle term
   of a list.** See [[Covenant]]
+- [[The Restoration of Job]] — Job 42:17; **not named.** *"Old and full of days"*, *zāqēn ûśəbaʿ yāmîm*, said
+  of Isaac at Genesis 35:29, is said of Job — the book's last words.
 
 ## Related people
 

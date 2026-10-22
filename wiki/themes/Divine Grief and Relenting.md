@@ -102,6 +102,9 @@ happening in God rather than in the world.
   6:6's *"Yahweh was sorry"*, and of God's relenting at Exodus 32:14 (*"Yahweh repented of the evil"*) and
   Jonah 3:10 (*"God relented of the disaster"*). It is also the verb of *comfort* (Job 2:11; 16:2; 42:11), and
   Job 42:6 may be read either way. See [[Sitting in Dust and Ashes]].
+- [[The Restoration of Job]] — Job 42:11; **the verb as comfort.** *Wayənaḥămû ʾōtô*, *they comforted him* —
+  *nḥm*, the root of God's *was sorry* (Genesis 6:6) and of Job's *niḥamtî* (42:6), here the comfort the friends came
+  for (2:11) and never gave, given by Job's family.
 
 ## Related themes
 

@@ -104,7 +104,8 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
 - **Job 25:1–6** — his anthropology repeated by Bildad as the friends' last word in
   [[Bildad's Third Speech]]: *"born of a woman … clean"* is his 15:14, and the descent from heaven to
   man is his 4:17–19 and 15:15–16, now without the night vision and ending in a worm.
-- **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job.
+- **Job 42:7–9** — named by God, rebuked, and required to bring sacrifices and be prayed for by Job —
+  [[The Restoration of Job]].
 
 ## Appears in
 
@@ -226,6 +227,13 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   righteous?"* (22:3) has its true form in God's mouth: *"Who has first given to me, that I should repay him?"*
   God owes nothing — which Eliphaz used to prove Job's innocence could not move God, and God does not. See
   [[Who Has First Given to Me - Job 41.11 in Romans 11.35]].
+- [[The Restoration of Job]] — Job 42:7–9; **the one God addresses.** *"My wrath is kindled against you, and
+  against your two friends; for you have not spoken of me the thing that is right, as my servant Job has"* (42:7).
+  The man who invented Job's crimes (22:6–9) is not rebuked for them; he is rebuked for what he said about God.
+  His own 5:1 — *"To which of the holy ones will you turn?"* — comes back on him, since the one he must turn to is
+  Job; and his 22:30, *"He will even deliver him who is not innocent … through the cleanness of your hands"*, comes
+  true with Eliphaz as the man delivered. He brings the sacrifice, says nothing, and is not mentioned again. See
+  [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]].
 
 ## Related people
 

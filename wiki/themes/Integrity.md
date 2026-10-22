@@ -182,6 +182,9 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
 - [[I Repent in Dust and Ashes]] — Job 42:1–6; **not given up.** What Job confesses is ignorance — *"things too wonderful for
   me"* (42:3) — not the guilt he swore against at 27:5, and God says in the next verse but one that he spoke
   rightly (42:7). Whatever *ʾemʾas* rejects at 42:6, it is not his *tummâ*.
+- [[The Restoration of Job]] — Job 42:7–8; **vindicated by the only witness who could.** The integrity God announced at 2:3,
+  that Job's wife asked him to drop (2:9) and that he swore to keep (27:5), is upheld by the verdict that he spoke
+  rightly, and by the title *my servant* four times over. He gets back his goods without having traded it for them.
 
 ## Related themes
 

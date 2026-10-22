@@ -166,6 +166,10 @@ holds up Esau as the warning.
   split two ways**: the double portion to [[Joseph]] by the adoption of 48:5, and the rule to
   [[Judah]] at 49:8–10. **1 Chronicles 5:1–2 is the only verse in Scripture that states both halves
   and names the reason**
+- [[The Restoration of Job]] — Job 42:13–15; **daughters who inherit among their brothers.** The second family's
+  sons are unnamed and unranked; the three daughters are named and given *"an inheritance among their brothers"* —
+  beyond the rule of Numbers 27:8, where daughters inherit only if there is no son. See
+  [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]].
 
 ## Related themes
 

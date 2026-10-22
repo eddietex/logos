@@ -230,7 +230,7 @@ so, and both then become intercessors.** See [[A Prophet Who Prays - The First N
 - Matthew 5:8 — *"Blessed are the pure in heart, for they shall see God."*
 - James 5:11 — *"You have heard of the perseverance of Job, and have seen the Lord in the outcome"*: *heard*
   and *seen* again, of the reader.
-- Job 42:7–17 — the verdict and the restoration. Not yet ingested.
+- [[The Restoration of Job]] — Job 42:7–17 — the verdict and the restoration.
 
 ## Notes
 

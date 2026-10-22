@@ -14,9 +14,9 @@ tags: [connection]
 - **Job 5:1** — *"Call now; is there any who will answer you? To which of the holy ones will you
   turn?"*
 - **Job 5:8** — *"But as for me, I would seek God. I would commit my cause to God"*
-- **Job 42:7–9** — God to Eliphaz: *"you have not spoken of me the thing that is right, as my
+- **Job 42:7–9** ([[The Restoration of Job]]) — God to Eliphaz: *"you have not spoken of me the thing that is right, as my
   servant Job has … my servant Job shall pray for you, for I will accept him"*
-- **Job 42:10–17** — Job's restoration: *"Yahweh gave Job twice as much as he had before"*, fourteen
+- **Job 42:10–17** ([[The Restoration of Job]]) — Job's restoration: *"Yahweh gave Job twice as much as he had before"*, fourteen
   thousand sheep, seven sons and three daughters, a hundred and forty years, four generations, and
   *"So Job died, being old and full of days."*
 - **Job 8:5–7; 11:13–19** — Bildad's and Zophar's shorter versions of the same conditional promise —
@@ -141,3 +141,7 @@ the wicked alike — the point Job made in 21:23–26 — and the epilogue's *"o
 - 5:1 and 42:8 between them frame the whole dialogue as a story about mediation: it opens with the
   denial that anyone can stand between, and closes with the sufferer standing between God and the
   men who denied it. See [[Mediation and Advocacy]].
+- **Checked against the ingested epilogue** ([[The Restoration of Job]]): every correspondence above holds in the
+  WEB text of 42:7–17. One is sharpened: the restoration is dated to *"when he prayed for his friends"* (42:10), so
+  the promise-giver's deliverance comes before the promise-receiver's restoration. See
+  [[Yahweh Turned the Captivity of Job - Restoration and the Double]].

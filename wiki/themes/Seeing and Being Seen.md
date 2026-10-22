@@ -299,6 +299,10 @@ will finally go both ways.
   my eye sees you."* The dialogue's *"I don't see him"* (9:11; 23:9) ends, and the hope of 19:26–27, *"My eyes
   shall see"*, is met before death. Nothing in chapters 38–41 is described as seen; what Job calls seeing is
   being addressed. See [[Now My Eye Sees You - Hearing and Seeing in Job]].
+- [[The Restoration of Job]] — Job 42:16; **the second seeing.** *"Saw his sons, and his sons' sons, to four
+  generations"* — *rāʾâ* again, after *"now my eye sees you"* (42:5). Job had said the dead man's *"sons come to honor,
+  and he doesn't know it"* (14:21), and that it was the wicked whose children were *"established with them in their
+  sight"* (21:8). He is given the sight.
 
 ## Related themes
 

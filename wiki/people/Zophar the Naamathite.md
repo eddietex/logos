@@ -132,7 +132,7 @@ than his iniquity deserves. The reader knows which of the two is right.
   the portrait of 27:13–23 that some reconstructions give back to him. See
   [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
 - **Job 42:7–9** — included in *"your two friends"*, rebuked, and required to bring sacrifices and
-  be prayed for by Job.
+  be prayed for by Job — [[The Restoration of Job]].
 
 ## Appears in
 
@@ -194,6 +194,10 @@ than his iniquity deserves. The reader knows which of the two is right.
   incorrigible (11:12), is God's free creature: *"Who has set the wild donkey free?"* See
   [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]]. His *"oh that God would speak"* (11:5) is
   granted, and God speaks to Job, not to him.
+- [[The Restoration of Job]] — Job 42:7–9; **in the queue when Job's face is lifted.** Zophar promised that Job
+  would *"lift up your face without spot"* (11:15) and that *"many shall court your favor"* (11:19); at 42:8 God
+  says of Job *pānāyw ʾeśśāʾ*, *I will lift his face*, and Zophar is among the men who come with offerings. His
+  11:6, *"God exacts of you less than your iniquity deserves"*, is reversed: Job is given *"twice as much"* (42:10).
 
 ## Related people
 

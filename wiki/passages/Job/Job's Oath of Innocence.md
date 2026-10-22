@@ -282,8 +282,7 @@ is the only comment the book ever makes on whether the oath was true.
   righteous in his own eyes."*
 - [[Out of the Whirlwind]] — Job 38:1–3; 40:4–5 — the answer from the whirlwind, and *"What shall I
   answer you?"*.
-- Job 42:7–8 — *"you have not spoken of me the thing that is right, as my servant Job has."* Not yet
-  ingested.
+- [[The Restoration of Job]] — Job 42:7–8 — *"you have not spoken of me the thing that is right, as my servant Job has."*
 - Deuteronomy 4:19 — the sun and moon not to be worshipped.
 - Deuteronomy 28:30 — *"You will betroth a wife, and another man shall lie with her"*: the curse of
   31:10, and the sowing without reaping of 31:8.

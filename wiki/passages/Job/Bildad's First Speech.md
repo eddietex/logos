@@ -250,7 +250,7 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
   quoting the friends' 8:22.
 - [[Elihu on God's Justice]] — Job 34:12, Elihu: *"neither will the Almighty pervert justice"*, 8:3
   restated.
-- Job 42:7–9, 12 — the friends rebuked; *"Yahweh blessed the latter end of Job more than his
+- [[The Restoration of Job]] — Job 42:7–9, 12 — the friends rebuked; *"Yahweh blessed the latter end of Job more than his
   beginning."*
 - Genesis 18:25 — *"Shouldn't the Judge of all the earth do right?"*
 - Genesis 41:2, 18 and Exodus 2:3 — *ʾāḥû* and *gōmeʾ*, the marsh grass and the papyrus of Egypt.

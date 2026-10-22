@@ -268,6 +268,10 @@ noticing into doctrine.
   quotations of God (42:3a from 38:2; 42:4b from 38:3 / 40:7), and one confession about speech itself: *"I have
   uttered that which I did not understand"* (42:3). The man who said *"I will proceed no further"* (40:5)
   speaks once more, and then the book gives him no further lines.
+- [[The Restoration of Job]] — Job 42:7–9; **a verdict on speech.** God judges what was *spoken* — *"you have not
+  spoken of me the thing that is right"*, twice — and *ʾēlay* may mean *to me*: Job spoke to God, the friends only
+  about him. The friends answer with an offering and no words; Bildad's *"man, who is a worm"* (25:6) stands as the
+  last thing any of them says.
 
 ## Related themes
 

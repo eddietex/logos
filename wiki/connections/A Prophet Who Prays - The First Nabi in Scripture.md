@@ -25,8 +25,8 @@ tags: [connection]
 - **Amos 7:1–6** — *"Lord Yahweh, forgive, I beg you!" … Yahweh relented concerning this*
 - **Ezekiel 22:30** — *"I sought for a man among them who would build up the wall and stand in the
   gap before me for the land … but I found no one"*
-- **Job 42:7–9** — *"my servant Job will pray for you; for I will accept him"* — the same arrangement
-  at the far end of the canon's other book about who may stand between *(not yet ingested)*
+- **Job 42:7–9** ([[The Restoration of Job]]) — *"my servant Job shall pray for you, for I will accept him"* — the same arrangement
+  at the far end of the canon's other book about who may stand between
 - **Hebrews 7:25; Romans 8:34; 1 John 2:1** — the office continued in one person who *"always lives
   to make intercession"*
 
@@ -92,7 +92,7 @@ is their remedy is the end of Job**, and the resemblance is close enough to be w
 
 > **Genesis 20:7** — *"he is a prophet, and he will pray for you, and you will live."*
 >
-> **Job 42:8** — *"my servant Job will pray for you; for I will accept him, that I not deal with you
+> **Job 42:8** — *"my servant Job shall pray for you, for I will accept him, that I not deal with you
 > according to your folly."*
 
 In both, God speaks to the party who is in the wrong, names the person they wronged as the one whose

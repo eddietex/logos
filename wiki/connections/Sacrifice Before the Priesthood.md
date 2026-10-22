@@ -31,7 +31,7 @@ tags: [connection]
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.
-- **Job 42:7–9** — Job's intercession for the three friends, and the last sacrifice in the book.
+- **Job 42:7–9** ([[The Restoration of Job]]) — Job's intercession for the three friends, and the last sacrifice in the book.
 - **Genesis 14:18–20** — Melchizedek, the first man in Scripture called a priest, in a scene with no
   altar and no offering — [[The Rescue of Lot and Melchizedek]]
 - **Hebrews 7:1–28** — a priesthood that does not descend from Levi.
@@ -128,3 +128,7 @@ is the man God will only be approached through in chapter 42.
 
 Related: [[Sacrifice and Offering]] · [[Sin]] · [[Righteousness]] · [[A Pleasing Aroma]] ·
 [[Job of Uz]] · [[The Waters Recede]] · [[Cain and Abel]] · [[Job (person)]] · [[Job's Children]]
+- **Job 42:8 is the book's last sacrifice and its largest.** Seven bulls and seven rams — the scale of Balaam's
+  altars (Numbers 23:1) and of the Levites' offering when the ark came up (1 Chronicles 15:26) — brought by three
+  men to a fourth, whose prayer, not the animals, is what God says he will accept. See
+  [[The Restoration of Job]].

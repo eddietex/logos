@@ -194,7 +194,7 @@ heaven — set against the ground Job sits on, and the distance between them is 
   of Bildad's speech; see the Notes.
 - [[Out of the Whirlwind]] — Job 38:7 — *"when the morning stars sang together"*: the stars in God's own
   speech.
-- Job 42:7 — the verdict on the men who spoke this way.
+- [[The Restoration of Job]] — Job 42:7 — the verdict on the men who spoke this way.
 - Psalm 8:3–5 — the moon and the stars, man and the son of man, and the crown.
 - Psalm 22:6; Isaiah 41:14 — *"I am a worm, and no man"*; *"Don't be afraid, you worm Jacob"*.
 - Isaiah 40:26 — the heavenly host brought out *"by number"* and called by name; the stars counted, by

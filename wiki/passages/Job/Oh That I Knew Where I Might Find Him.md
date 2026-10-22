@@ -380,7 +380,7 @@ in effect, without an answer to this chapter.
 - [[Out of the Whirlwind]] — Job 38:12–15 — God on the dawn that shakes the wicked out of the earth,
   *"From the wicked, their light is withheld"*: God's reply to 24:13–17.
 - [[Out of the Whirlwind]] — Job 39:5–8 — the wild donkey as God's free creature.
-- Job 42:7–10 — the gold of 23:10, as the epilogue assays it.
+- [[The Restoration of Job]] — Job 42:7–10 — the gold of 23:10, as the epilogue assays it.
 - Psalm 139:7–12; Amos 9:2–4; Jeremiah 23:23–24 — God inescapable.
 - Psalm 66:10; Proverbs 17:3; Zechariah 13:9; Malachi 3:2–3; 1 Peter 1:6–7 — testing as refining.
 - Psalm 119:11; Deuteronomy 8:3; Matthew 4:4; Jeremiah 15:16 — the word treasured above food.

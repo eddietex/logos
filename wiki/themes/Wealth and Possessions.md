@@ -231,6 +231,11 @@ the promise is repeatedly mistaken for.
   you aside. Would your wealth sustain you in distress?"* (36:18–19) — said to a man whose wealth was taken
   in a day (1:13–19). The *kōper* is 33:24's *ransom*; see
   [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
+- [[The Restoration of Job]] — Job 42:10–12; **exactly doubled.** Fourteen thousand sheep, six thousand camels, a
+  thousand yoke of oxen, a thousand donkeys — twice 1:3 item by item; the *"very great household"* not mentioned. Each
+  relative brings a *qəśîṭâ* and a ring of gold (42:11), the patriarchs' coin. And Job's last recorded act is to give:
+  an inheritance to his daughters beside their brothers (42:15). See
+  [[Yahweh Turned the Captivity of Job - Restoration and the Double]].
 
 ## Related themes
 

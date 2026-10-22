@@ -234,7 +234,7 @@ the third thing a defence needs — the oath that the injury was not deserved.
   *šōʾâ ûmšōʾâ*, the wasteland of 30:3.
 - [[Out of the Whirlwind]] — Job 40:4; 42:5–6 — Job's next words to God, *"What shall I answer you?"*,
   and the *dust and ashes* of his last — see [[I Repent in Dust and Ashes]].
-- Job 42:11 — the brothers and sisters who come at last and *"comforted him"*. Not yet ingested.
+- [[The Restoration of Job]] — Job 42:11 — the brothers and sisters who come at last and *"comforted him"*.
 - Psalm 69:11–12 — *"I became a byword to them. Those who sit in the gate talk about me. I am the song
   of the drunkards."* The gate, the byword and the song in one place.
 - Lamentations 3:14, 63 — *"their song all day long"*, *"I am their song"*.

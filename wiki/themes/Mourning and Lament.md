@@ -140,6 +140,9 @@ regulating it.
   ashes"* — said still sitting where 2:8 put him, in Abraham's pair (Genesis 18:27) and his own of 30:19, with
   the comforters' verb, *nḥm*. Whether it is repentance or consolation, the mourner's place is where Job's last
   words are spoken. See [[Comforters Who Do Not Comfort]].
+- [[The Restoration of Job]] — Job 42:11; **the comfort of 2:11, given at last.** *"They comforted him, and consoled
+  him"* — the two verbs (*nûd*, *nḥm*) the three friends came with in chapter 2, now from the brothers, sisters and
+  acquaintances who had been estranged (19:13–14), at a meal in his house. See [[Comforters Who Do Not Comfort]].
 
 ## Related themes
 

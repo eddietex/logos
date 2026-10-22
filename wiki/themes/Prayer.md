@@ -212,6 +212,11 @@ already did.
   will not hear an empty cry"* (35:13). Elihu distinguishes crying out from calling on God; the
   distinction is real, and Job, who has said little but *where is God?* (23:3) and *"I cry to you"*
   (30:20), is the one man in the book it cannot describe.
+- [[The Restoration of Job]] — Job 42:8–10; **the first prayer for someone else in the book, and the hinge of its ending.**
+  *Yitpallēl*, the verb of Genesis 20:7, said of Job for the friends who wronged him; *"Yahweh accepted Job"*, and
+  *"turned the captivity of Job, when he prayed for his friends"*. Job had called his prayer *"pure"* (16:17) and
+  disowned the wicked's *"what profit … if we pray to him?"* (21:15); Eliphaz had promised *"You shall make your
+  prayer to him, and he will hear you"* (22:27). It happens, for Eliphaz.
 
 ## Related themes
 

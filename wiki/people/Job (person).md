@@ -227,8 +227,12 @@ speeches; each becomes a linked passage page as it is ingested.
   my eye sees you"* (42:5) — the hope of 19:26–27 met — and *"Therefore I abhor myself, and repent in dust and
   ashes"* (42:6), a contested line that may also be read *"I retract, and am comforted concerning dust and
   ashes"*. **Said on the ash-heap, before anything is restored.**
-- **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
-  doubled, and he is given ten more children and four generations of descendants.
+- **Job 42:7–17** — [[The Restoration of Job]]. God tells Eliphaz the friends *"have not spoken of me the thing
+  that is right, as my servant Job has"* (42:7), twice, and calls Job *my servant* four times; the friends bring
+  seven bulls and seven rams, and Job prays for them. *"Yahweh turned the captivity of Job, when he prayed for his
+  friends"* (42:10). His livestock is doubled, his estranged family eats with him and comforts him (42:11), he has
+  seven sons and three named daughters who inherit among their brothers, sees four generations, and dies *"old and
+  full of days"* (42:17). **He is never told about the wager.**
 
 ## Appears in
 
@@ -455,6 +459,17 @@ speeches; each becomes a linked passage page as it is ingested.
   the integrity of 27:5 that he gives up, since God says next that he spoke rightly (42:7). **He says it with
   nothing restored**, which answers the accuser's *"for nothing?"* (1:9). See
   [[Now My Eye Sees You - Hearing and Seeing in Job]] and [[Sitting in Dust and Ashes]].
+- [[The Restoration of Job]] — Job 42:7–17; **declared right, and made the intercessor.** God's verdict commends
+  the man who accused him and rebukes the men who defended him — *nəkônâ*, *the thing that is right*, perhaps
+  spoken *to* God (*ʾēlay*) rather than only about him — without withdrawing *"words without knowledge"* (38:2).
+  Job is priest for the friends as he was for his children (1:5), and his face is lifted (*pānāyw ʾeśśāʾ*, 42:8),
+  the idiom he threw at the friends at 13:8–10. The restoration follows his prayer for them, not his confession.
+  The brothers and acquaintances of 19:13 return; the comfort of 2:11 is given; the daughters are named and
+  endowed; *"saw his sons, and his sons' sons"* (42:16) answers 14:21. The sores of 2:7 are never mentioned, the
+  accuser is never named, and no reason is given. See
+  [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]],
+  [[Yahweh Turned the Captivity of Job - Restoration and the Double]], and
+  [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]].
 
 ## Related people
 
@@ -516,6 +531,7 @@ speeches; each becomes a linked passage page as it is ingested.
   defendant.
 - [[Sacrifice and Offering]] — he is his own priest at 1:5 and the friends' priest at 42:8; see
   [[Sacrifice Before the Priesthood]].
+- [[Prayer]] — *"my servant Job shall pray for you"* (42:8); restored *"when he prayed for his friends"* (42:10).
 
 ## Notes
 

@@ -170,7 +170,7 @@ territory.
 - Job 1:8; 2:3 — God repeating verse 1 word for word, twice, which makes the narrator's verdict the
   most heavily attested statement in the book.
 - Job 29:1–25 — Job's own retrospect on the life described here, from the far side of losing it.
-- Job 42:10–17 — the inventory of verse 3 doubled, and the ten children replaced rather than
+- [[The Restoration of Job]] — Job 42:10–17 — the inventory of verse 3 doubled, and the ten children replaced rather than
   doubled.
 - Genesis 6:9; 17:1 — *tāmîm* of Noah and of Abraham.
 - 1 Kings 4:30 — Solomon's wisdom measured against *"the wisdom of all the children of the east"*.

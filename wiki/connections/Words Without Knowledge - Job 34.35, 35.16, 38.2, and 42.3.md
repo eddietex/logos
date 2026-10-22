@@ -19,7 +19,7 @@ tags: [connection]
 - **Job 42:3** — Job, quoting it back in his reply: *"You asked, 'Who is this who
   hides counsel without knowledge?' therefore I have uttered that which I did not understand, things
   too wonderful for me, which I didn't know."* — [[I Repent in Dust and Ashes]]
-- **Job 42:7** *(not yet ingested)* — Yahweh to Eliphaz: *"you have not spoken of me the thing that is
+- **Job 42:7** ([[The Restoration of Job]]) — Yahweh to Eliphaz: *"you have not spoken of me the thing that is
   right, as my servant Job has."*
 - **Job 15:2–3** — Eliphaz, the first to fault Job's words as wind: *"Should a wise man answer with vain
   knowledge, and fill himself with the east wind? Should he reason with unprofitable talk, or with
@@ -114,3 +114,7 @@ the beginning of four chapters of questions Job is meant to try to answer.
 - It gives Job's surrender at 42:3 its exact content (see [[I Repent in Dust and Ashes]]). He does not confess the sins the friends and
   Elihu named; he confesses the one charge God made.
 - See [[Language and Speech]], [[Wisdom]], [[Elihu the Buzite]], and [[Righteousness]].
+- **With 42:7 now ingested** ([[The Restoration of Job]]), the second verdict stands in the text beside the first:
+  said twice (42:7, 8), with *my servant* four times, and — if *ʾēlay* is read *to me* — about the direction of Job's
+  speech as well as its content. The tension this page describes is kept, not resolved; the verdict itself is traced
+  at [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]].

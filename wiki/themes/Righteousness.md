@@ -259,6 +259,11 @@ about.
   without knowledge (42:3), not the righteousness he held to (27:6); and in the next pericope God says Job spoke
   *"the thing that is right"* (42:7). The second speech's *"that you may be justified"* (40:8) is not taken
   up — Job does not justify himself again.
+- [[The Restoration of Job]] — Job 42:7–8; **the verdict.** *"You have not spoken of me the thing that is right (nəkônâ), as my servant
+  Job has"* — said twice. The friends defended God's righteousness and are found not to have spoken rightly of him;
+  Job, who said he was in the right (13:18) and was told he spoke *"without knowledge"* (38:2), is the one commended.
+  *Nəkônâ* is what is firm and true to the case, not what is orthodox. See
+  [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]].
 
 ## Related themes
 

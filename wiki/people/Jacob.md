@@ -910,6 +910,9 @@ for four hundred years, and he is dead when he gets there.**
   Egyptians, **carried the last stretch by his own twelve sons**, and laid in [[Machpelah]] under the
   deed of 23:17–20 quoted back almost verbatim. **The sixth of the six buried there.** **And then
   everyone who brought him goes back to Egypt**
+- [[The Restoration of Job]] — Job 42:11; **not named.** The *qəśîṭâ*, the *piece of money* each of Job's family
+  brings him, is the coin Jacob paid a hundred of for his field at Shechem (Genesis 33:19; Joshua 24:32) — the
+  only other places the word occurs.
 
 ## Related people
 

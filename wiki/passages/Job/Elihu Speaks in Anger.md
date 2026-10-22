@@ -334,8 +334,8 @@ opposite.
   reading or as the price of suffering on another.
 - [[Out of the Whirlwind]] — Job 38:1–2 — *"Then Yahweh answered Job out of the whirlwind … Who is this
   who darkens counsel by words without knowledge?"*
-- Job 42:7–10 — *"My wrath is kindled against you, and against your two friends"*; Job prays for them.
-  Elihu is not mentioned. Not yet ingested.
+- [[The Restoration of Job]] — Job 42:7–10 — *"My wrath is kindled against you, and against your two friends"*; Job prays for them.
+  Elihu is not mentioned.
 - Psalm 62:11 — *"God has spoken once; twice I have heard this"*.
 - Matthew 9:17 — new wine and the skins that burst.
 - Jeremiah 20:9 — *"a burning fire shut up in my bones"*.

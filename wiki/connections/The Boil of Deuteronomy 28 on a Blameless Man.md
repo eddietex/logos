@@ -21,7 +21,7 @@ tags: [connection]
 - **Job 7:5 · 30:30** — the disease described from inside it, both times by Job; 7:5 is in
   [[The Arrows of the Almighty]], and 30:30, *"My skin grows black and peels from me. My bones are
   burned with heat"*, in [[Now They Mock Me]]
-- **Job 42:7** — *"you have not spoken of me the thing that is right, as my servant Job has"*
+- **Job 42:7** ([[The Restoration of Job]]) — *"you have not spoken of me the thing that is right, as my servant Job has"*
 
 ## Analysis
 

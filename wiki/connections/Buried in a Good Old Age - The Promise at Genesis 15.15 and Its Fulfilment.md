@@ -14,7 +14,7 @@ tags: [connection]
   sons, buried him in the cave of Machpelah"*
 - Genesis 15:13–14 — the four hundred years of affliction the promise is embedded in
 - Genesis 35:29; 47:9 — Isaac's death notice, and Jacob's verdict on his own life
-- Job 42:17 — *"So Job died, being old and full of days"*
+- [[The Restoration of Job]] — Job 42:17 — *"So Job died, being old and full of days"*
 
 ## Analysis
 
@@ -95,3 +95,8 @@ What he did receive was fifteen words at Genesis 15:15, and Genesis 25:8 pays th
 cycle ends by keeping the one promise that was about the man and not about the future**, which is
 either a very small thing or the only kind of thing a person actually gets to see. Genesis does not
 say which. See [[Faith]] and [[Hope]].
+- **Job's death is told in the same family of phrases.** *"So Job died, being old and full of days"* (Job 42:17) —
+  *zāqēn ûśəbaʿ yāmîm*, Isaac's formula at Genesis 35:29 and close to Abraham's *"an old man, and full of years"*
+  (25:8). A non-Israelite from Uz, after the Bible's longest account of undeserved suffering, is given the
+  patriarchs' death and the sight of *"his sons, and his sons' sons, to four generations"* (42:16), one more than
+  Joseph's *"third generation"* (Genesis 50:23). See [[The Restoration of Job]].

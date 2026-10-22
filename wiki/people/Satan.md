@@ -81,7 +81,7 @@ figure with a will of his own, a kingdom, and an end.
   whatever he fears God for here, it is *"for nothing"* (1:9); and where the prediction was *"he will
   renounce you to your face"* (1:11; 2:5), Job says *"now my eye sees you"* (42:5) — see
   [[I Repent in Dust and Ashes]]
-- **Job 42:7–17** — absent from the epilogue. The friends are rebuked, Job is vindicated and
+- **Job 42:7–17** — absent from the epilogue — [[The Restoration of Job]]. The friends are rebuked, Job is vindicated and
   restored, and 42:11 sums the whole thing up as *"all the evil that Yahweh had brought on him"*
 
 ## Appears in
@@ -119,6 +119,11 @@ figure with a will of his own, a kingdom, and an end.
   says *"now my eye sees you"* (42:5). If he fears God here, it is *ḥinnām*, for nothing (1:9), and the face
   the accuser said he would curse (1:11; 2:5) is the one he says he has seen. No one in the scene knows the
   question was asked.
+- [[The Restoration of Job]] — Job 42:7–17; **not named, and not needed.** The epilogue has no heavenly scene and
+  no report of the test's result; the narrator attributes the whole affair to God — *"all the evil that Yahweh had
+  brought on him"* (42:11) — and God reissues the title *my servant Job* (1:8; 2:3) four times, before the men who
+  doubted it. The accuser's prediction that Job's *blessing* would become a curse (1:11) ends with *"Yahweh blessed
+  the latter end of Job"* (42:12).
 
 ## Related people
 

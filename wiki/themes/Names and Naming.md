@@ -207,6 +207,10 @@ five times**, and each is a covenant hinge.
 - **Genesis 50:11 — the only place name in Genesis given by Canaanites**, and they give it for a
   misreading: *[[Abel Mizraim]]*, *mourning of Egypt*, on a pun with *ʾābēl*, *meadow* —
   [[The Deaths of Jacob and Joseph]]
+- [[The Restoration of Job]] — Job 42:14; **the daughters named, the sons not.** *"He called the name of the first,
+  Jemimah; and the name of the second, Keziah; and the name of the third, Keren Happuch"* — commonly *dove*, *cassia*,
+  and *horn of eye-paint*. In the prologue none of the ten children had names; in the epilogue only the women do. See
+  [[Job's Children]].
 
 ## Related themes
 

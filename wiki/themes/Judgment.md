@@ -318,6 +318,9 @@ rule are the conditions the rest of Scripture is set in.
   (mišpāṭî)? Will you condemn me, that you may be justified?"* (40:8) — then the robe and the task: bring every
   proud man low, *"crush the wicked in their place"*, and *"your own right hand can save you"* (40:10–14). The
   judgment Job said God neglected (21; 24) is handed to him as a challenge.
+- [[The Restoration of Job]] — Job 42:7–9; **the trial's verdict, given to the other side.** Job asked for a hearing; the verdict,
+  when it comes, is on the friends: *"My wrath is kindled against you"*. It is turned aside by sacrifice and by the
+  prayer of the man they judged, *"that I not deal with you according to your folly"* (42:8).
 
 ## Related themes
 

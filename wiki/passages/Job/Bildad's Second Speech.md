@@ -196,7 +196,7 @@ world"* (18:18).
 - [[Though He Slay Me]], Job 12:7 — *"ask the animals, now, and they shall teach you"*, behind 18:3's complaint.
 - [[Why Do the Wicked Live]] — Job 21:17, *"How often is it that the lamp of the wicked is put
   out…"*, Job's direct rebuttal.
-- Job 42:7 — the verdict on the men who spoke this way.
+- [[The Restoration of Job]] — Job 42:7 — the verdict on the men who spoke this way.
 - Genesis 19:24; Deuteronomy 29:23 — sulfur rained and sulfur scattered, behind 18:15.
 - Proverbs 13:9; 20:20; 24:20 — the lamp of the wicked, in the tradition Bildad is quoting.
 - Psalm 9:5–6; 34:16; 109:13 — the perishing of a name and the cutting off of a line.

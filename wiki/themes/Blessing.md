@@ -348,6 +348,10 @@ costly.
   ear that *"blessed me"* (*ʾšr*), and ***"the blessing of him who was ready to perish came on
   me"*** — blessing flowing up from the poor to their protector, and *ʾōbēd*, *perishing*, the verb of
   Eliphaz's *"who ever perished, being innocent?"* (4:7).
+- [[The Restoration of Job]] — Job 42:12; **the last blessing in the book is God's.** *"Yahweh blessed the latter end of Job more
+  than his beginning."* The accuser said Job would turn *bless* into its opposite (1:11); Job blessed God's name over
+  his losses (1:21); God blesses Job's latter end, in Bildad's two nouns (8:7). The children are not doubled, and the
+  blessing is not offered as an answer to their deaths.
 
 ## Related themes
 

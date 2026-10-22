@@ -206,7 +206,7 @@ the earth under him, and heaven above.
 - Job 19:25–27 — *"I know that my Redeemer lives"*, the same appeal at its most confident.
 - [[Elihu Speaks in Anger]] — Job 33:23–24, Elihu's *"angel, an interpreter, one among a thousand"*, offered as the answer
   to this request.
-- Job 42:7 — the verdict on who spoke rightly, which this passage makes hardest to accept and most
+- [[The Restoration of Job]] — Job 42:7 — the verdict on who spoke rightly, which this passage makes hardest to accept and most
   necessary to hold.
 - Genesis 4:10–11 — *"The voice of your brother's blood cries to me from the ground."*
 - Leviticus 17:13; Deuteronomy 21:1–9 — the covering of blood, and the rite for innocent blood

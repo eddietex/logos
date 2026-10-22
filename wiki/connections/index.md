@@ -31,7 +31,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 |
 | [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
-| [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 |
+| [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 · Numbers 23:1 · 1 Chronicles 15:26 |
 | [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |
 | [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 |
 | [[The Noahic Commandments and the Council of Jerusalem]] | thread | Genesis 2:16–17 · Genesis 9:1–7 · Leviticus 17–18 · Acts 15:19–29 · Acts 21:25 · *Sanhedrin* 56a |
@@ -268,4 +268,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
 | [[Smoke from His Nostrils - Leviathan and the Theophany of Psalm 18]] | image | Job 41:18–21 · Psalm 18:7–8 · Job 41:10 · Job 3:9 · Job 37:2–5; 40:9 |
 | [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] | allusion | Job 42:2 · Genesis 11:6 · Job 40:9 · Genesis 18:14 |
-| [[Now My Eye Sees You - Hearing and Seeing in Job]] | thread | Job 42:5 · Job 4:12, 16 · Job 9:11 · Job 13:1 · Job 19:26–27 · Job 23:8–9 · Job 26:14 · Job 28:22 · Job 29:11 · Isaiah 6:5 · Matthew 5:8 · James 5:11 · 1 John 3:2 |
+| [[Now My Eye Sees You - Hearing and Seeing in Job]] | thread | Job 42:5 · Job 4:12, 16 · Job 9:11 · Job 13:1 · Job 19:26–27 · Job 23:8–9 · Job 26:14 · Job 28:22 · Job 29:11 · Isaiah 6:5 · Matthew 5:8 · James 5:11 · 1 John 3:2 · Job 42:16 |
+| [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
+| [[Yahweh Turned the Captivity of Job - Restoration and the Double]] | thread | Job 42:10, 12 · Deuteronomy 30:3 · Psalm 14:7 · Psalm 126:1, 4 · Jeremiah 29:14 · Amos 9:14 · Exodus 22:4, 7, 9 · Isaiah 40:1–2 · Isaiah 61:7 · Zechariah 9:12 |
+| [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |

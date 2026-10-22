@@ -88,6 +88,9 @@ onomastic pool is exactly what one expects of two texts about the same region.
   as a judge. **This qualifies the note on [[The Second Test]] above**: the Septuagint's *"outside the
   city"* at 2:8 imports a city into that verse, but not into the book; the Hebrew has one, at 29:7
   (*šaʿar ʿălê-qāret*), and Job's life in Uz was a town life as well as a herdsman's.
+- [[The Restoration of Job]] — Job 42:7–17, **not named.** The epilogue takes place in Job's house, with a table
+  again (42:11), and the land of Uz is the *"all the land"* in which no women were as beautiful as his daughters
+  (42:15). The book ends where it began, without once describing the country.
 
 ## Related places
 
@@ -118,8 +121,8 @@ onomastic pool is exactly what one expects of two texts about the same region.
   princes and nobles as judge and counsellor — [[The Months of Old]].
 - **Job 3:1–42:6** — the whole of the dialogue, conducted in one location that is never once
   described.
-- **Job 42:10–17** — Job's restoration, his brothers and sisters returning to eat with him, and his
-  death *"old and full of days"*.
+- **Job 42:10–17** — [[The Restoration of Job]]: Job's restoration, his brothers and sisters returning to eat
+  with him, and his death *"old and full of days"*.
 
 ## Notes
 

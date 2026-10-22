@@ -391,6 +391,10 @@ the rest of the canon.
   chapter 3; births no one watches (39:1–3); prey for the lioness and the raven; and the speech's last
   line, *"Where the slain are, there he is"* (39:30). See
   [[Where the Slain Are - Job 39.30 and Matthew 24.28]].
+- [[The Restoration of Job]] — Job 42:16–17; **a patriarch's death.** A hundred and forty years after the restoration — twice
+  the seventy of Psalm 90:10 — and four generations seen; *"So Job died, being old and full of days"*, Isaac's
+  formula (Genesis 35:29). The man who wished he had died at birth (3:11) dies full. See
+  [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]].
 
 ## Related themes
 

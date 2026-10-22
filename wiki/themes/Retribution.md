@@ -64,7 +64,7 @@ verdicts.
   wicked live, become old, yes, and grow mighty in power? … Their houses are safe from fear."* He
   argues from observation, and he is right.
 - **Job 42:7–9** — the verdict, and the only place in Scripture where God evaluates a theological
-  argument by name.
+  argument by name — [[The Restoration of Job]].
 - **Psalm 37; Psalm 73** — the same problem worked twice. Psalm 37 counsels patience (*"they will
   soon be cut down like the grass"*); Psalm 73 admits the doctrine nearly failed — *"my feet were
   almost gone … For I was envious of the arrogant"* — and resolves it not by denying the wicked
@@ -290,6 +290,12 @@ verdicts.
   always crushed; he offers Job the task (40:11–13). And *"Who has first given to me, that I should repay
   him?"* (41:11) removes the premise of retribution and of Job's suit alike: God is in no one's debt. See
   [[Who Has First Given to Me - Job 41.11 in Romans 11.35]].
+- [[The Restoration of Job]] — Job 42:7–17; **the outcome delivered, the mechanism refused.** The friends' scheme promised
+  restoration in return for confession. The epilogue gives the restoration — doubled flocks, a family at the table,
+  a long life — but after a verdict that the friends were wrong, and *"when he prayed for his friends"* (42:10), not
+  when he confessed. Bildad's 8:7 comes true in its own nouns (42:12); its condition was met at 1:1. The children
+  are not doubled, and no reason is given. See [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
+  and [[Yahweh Turned the Captivity of Job - Restoration and the Double]].
 
 ## Related themes
 

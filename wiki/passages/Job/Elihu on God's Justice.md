@@ -393,8 +393,8 @@ the dead at 10:21–22, but [[Sheol]] is not in view here.
 - [[Out of the Whirlwind]] — Job 38:2 — *"Who is this who darkens counsel by words without knowledge?"*
 - [[Behemoth and Leviathan]] — Job 40:8, *"Will you condemn me, that you may be justified?"*; and 41:11,
   *"Who has first given to me, that I should repay him?"*
-- Job 42:3, 7 — *"Who is this who hides counsel without knowledge?"*; *"you have not spoken of me the
-  thing that is right, as my servant Job has."* Not yet ingested.
+- [[I Repent in Dust and Ashes]] and [[The Restoration of Job]] — Job 42:3, 7 — *"Who is this who hides
+  counsel without knowledge?"*; *"you have not spoken of me the thing that is right, as my servant Job has."*
 - Psalm 62:12; Proverbs 24:12; Romans 2:6 — God renders to every man according to his work.
 - Psalm 104:29; Ecclesiastes 12:7 — the breath taken and the dust returning.
 - Deuteronomy 10:17; Acts 10:34 — God *"doesn't respect persons"*; *"doesn't show favoritism"*.

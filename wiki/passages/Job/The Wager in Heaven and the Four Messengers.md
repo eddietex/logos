@@ -282,7 +282,7 @@ quietly making room for chapter 3.
 - **Job 3:23; 19:8** — the hedge from the inside: *"a man whose way is hidden, whom God has hedged
   in"*, and *"He has walled up my way"*. The accuser's image for protection becomes Job's image for
   imprisonment.
-- **Job 42:11** — *"all the evil that Yahweh had brought on him"*, the epilogue's flat attribution,
+- [[The Restoration of Job]] — **Job 42:11** — *"all the evil that Yahweh had brought on him"*, the epilogue's flat attribution,
   with the accuser unmentioned.
 - **1 Kings 22:19–23** — Micaiah's vision of Yahweh enthroned with the host of heaven, and a spirit
   who volunteers a plan and is authorised: the closest narrative parallel in Scripture to Job 1:6–12.

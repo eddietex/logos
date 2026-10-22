@@ -590,6 +590,8 @@ shown getting either of them back.
   Rachel's grave, the tower of the flock, and Bethlehem
 - 2 Samuel 3:7–8; 16:21–22 · 1 Kings 2:22 — Abner, Absalom, and Adonijah, on the pattern Reuben starts
 - 1 Chronicles 5:1–2 — the birthright's redistribution stated outright
+- [[The Restoration of Job]] — Job 42:17: *"So Job died, being old and full of days"* — Isaac's formula of 35:29; and
+  42:11's *nezem zāhāb*, the ring of the kind buried at 35:4.
 
 ## Notes
 

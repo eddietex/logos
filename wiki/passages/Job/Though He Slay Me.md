@@ -458,8 +458,8 @@ one hundred forty years, and saw his sons, and his sons' sons, to four generatio
 - [[Elihu on God's Justice]] — Job 34:3, quoting 12:11; 35:11, reversing 12:7.
 - [[Out of the Whirlwind]] — Job 38:3; 40:7; 42:4 — *"I will question you, then you answer me"*: 13:22's
   procedure adopted.
-- Job 42:7–8 — the friends' partiality for God rebuked, and Job's face lifted.
-- Job 42:16 — Job sees his sons and his sons' sons, against 14:21.
+- [[The Restoration of Job]] — Job 42:7–8 — the friends' partiality for God rebuked, and Job's face lifted.
+- [[The Restoration of Job]] — Job 42:16 — Job sees his sons and his sons' sons, against 14:21.
 - Genesis 6:9 — *ṣaddîq tāmîm*, Noah.
 - Psalm 25:7 — the sins of my youth.
 - Psalm 90:5–6; 103:15–16; Isaiah 40:6–8; 1 Peter 1:24 — the flower that withers.

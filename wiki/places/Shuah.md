@@ -45,6 +45,8 @@ only Eliphaz's home is identifiable, and only Eliphaz's is famous for the thing 
   [[Zophar's Second Speech]] — where the gentilic recurs only as part of Bildad's name.
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:2, 6: Shuah among Keturah's sons, and
   the sending eastward that the identification depends on.
+- [[The Restoration of Job]] — Job 42:9; Bildad *the Shuhite*, named in full in the epilogue as at 2:11, rebuked, and
+  prayed for by Job.
 
 ## Related places
 

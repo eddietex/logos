@@ -246,6 +246,10 @@ requires only that you be standing outside it.
 - [[I Repent in Dust and Ashes]] — Job 42:1–6; **answered and not explained.** Job's last words mention neither his losses nor
   his sores, and ask for no reason. *"Now my eye sees you"* (42:5) is the whole of what has changed, and it is
   said before anything is restored (42:10).
+- [[The Restoration of Job]] — Job 42:7–17; **restored and not explained.** The narrator's last word on the cause is *"all the evil
+  that Yahweh had brought on him"* (42:11), with no accuser, no wager, and no reason. The ten dead children are not
+  replaced by doubling, and the sores of 2:7 are never mentioned again. The suffering is ended; it is not accounted
+  for.
 
 ## Related themes
 

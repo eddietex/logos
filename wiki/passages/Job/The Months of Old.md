@@ -221,8 +221,8 @@ the young who hid from him now mock him (30:1), the nobles' silence becomes spit
 - [[Out of the Whirlwind]] — Job 40:4, 10 — Job's hand on his mouth; and God's challenge, *"Array
   yourself with honor and majesty"*, the robe of 29:14 offered back as a question —
   [[Behemoth and Leviathan]].
-- Job 42:10–17 — the restoration of the household, the comforters who come at last, and a death
-  *"old and full of days"*: 29:18 granted. Not yet ingested.
+- [[The Restoration of Job]] — Job 42:10–17 — the restoration of the household, the comforters who come at last, and a death
+  *"old and full of days"*: 29:18 granted.
 - Numbers 6:24–25 — *"Yahweh bless you, and keep you. Yahweh make his face to shine on you"*: the
   *keep* of 29:2 and the shining face of 29:24.
 - Leviticus 19:14, 32 — the blind not to be tripped, and the young to rise before the old; Deuteronomy

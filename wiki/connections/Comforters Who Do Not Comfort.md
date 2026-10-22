@@ -23,7 +23,7 @@ tags: [connection]
   and nobody in the chapter comforting him — [[Now They Mock Me]]
 - **Job 42:6** — *"Therefore I abhor myself, and repent (niḥamtî) in dust and ashes"*: the root *nḥm* in
   Job's last line, where it may mean *repent* or *be comforted* — [[I Repent in Dust and Ashes]]
-- **Job 42:11** — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
+- **Job 42:11** ([[The Restoration of Job]]) — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
   brothers have dealt deceitfully as a brook"* — [[The Arrows of the Almighty]]
 - **Job 8:21–22** — *"He will still fill your mouth with laughter, your lips with shouting"*: the
