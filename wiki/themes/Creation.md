@@ -134,6 +134,13 @@ Genesis 1 sets four load-bearing claims:
   poor *"all are the work of his hands"* (34:19) — so he favours neither. *"Look to the heavens, and see"*
   (35:5). And *"God my Maker"* (35:10) *"teaches us more than the animals of the earth, and makes us wiser
   than the birds of the sky"* (35:11) — Job's *"ask the animals"* (12:7) reversed.
+- [[Elihu on God's Greatness]] — Job 36:27–37:18; **God in the weather.** Water drawn up and distilled
+  *"from his vapor"* (36:27) — *ʾēd*, the *mist* of Genesis 2:6 and nowhere else; the snow commanded,
+  *"Fall on the earth"* (37:6); ice *"By the breath of God"* (37:10); and the sky spread out (*rāqaʿ*, the
+  verb of the *rāqîaʿ* of Genesis 1:6) *"strong as a cast metal mirror"* (37:18). The rain serves
+  *"correction, or … his land, or … loving kindness"* (37:13) — the same weather, three purposes. God's
+  speech in chapter 38 takes the same subjects; see
+  [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]].
 
 ## Related themes
 

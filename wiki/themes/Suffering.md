@@ -231,6 +231,12 @@ requires only that you be standing outside it.
 - [[Elihu on God's Justice]] — Job 34:6; 35:9; *"My wound is incurable"* (34:6) — *ḥiṣṣî*, my arrow, the arrow
   of 6:4 — quoted as evidence against the man who bears it; and *"the multitude of oppressions"* (35:9), the
   suffering of the poor, which goes unanswered, Elihu says, because no one prays.
+- [[Elihu on God's Greatness]] — Job 36:8–21; **suffering as the means, not the sentence.** The bound man
+  in *"the cords of afflictions"* is shown his pride and has his ear opened (36:8–10), and the doctrine is
+  put in one line: *"He delivers the afflicted by their affliction, and opens their ear in oppression"*
+  (36:15) — the one idea in Elihu that the friends never had. Then it is turned on Job: *"you have chosen
+  this rather than affliction"* (36:21). The prologue has already told the reader that this is not why Job
+  suffers (2:3).
 
 ## Related themes
 

@@ -185,6 +185,11 @@ than his iniquity deserves. The reader knows which of the two is right.
   version of Job — *"For you say, 'My doctrine is pure. I am clean in your eyes'"* (11:4) — is the one
   Elihu repeats at 33:9, *"I am clean, without disobedience"*: the friends' summary of Job, not Job's
   words.
+- [[Elihu on God's Greatness]] — Job 36–37, not named. His *"Can you find out (timṣāʾ) God?"* (11:7,
+  the WEB's *fathom*) is answered by Elihu's last claim about God, *"We can't reach the Almighty"* — *lōʾ
+  məṣāʾnūhû*, *we have not found him* (37:23); and the *mūṣāq* of his promise, *"you shall be steadfast"*
+  (11:15), is the *cast* metal of Elihu's sky (37:18). See
+  [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
 
 ## Related people
 

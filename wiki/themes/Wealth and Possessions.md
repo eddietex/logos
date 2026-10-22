@@ -226,6 +226,11 @@ the promise is repeatedly mistaken for.
 - [[Job's Oath of Innocence]] — Job 31:24–25, 38–40; *"If I have made gold my hope … If I have rejoiced because my wealth was
   great"*: wealth denied as trust and as joy, and the land denied as a thing got *"without money"* or by
   causing *"its owners to lose their life"* (31:39). The answer to 22:24.
+- [[Elihu on God's Greatness]] — Job 36:16, 18–19; the table *"full of fatness"* God would have set for
+  Job (36:16); *"Don't let riches entice you to wrath, neither let the great size of a bribe (kōper) turn
+  you aside. Would your wealth sustain you in distress?"* (36:18–19) — said to a man whose wealth was taken
+  in a day (1:13–19). The *kōper* is 33:24's *ransom*; see
+  [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 
 ## Related themes
 
@@ -248,3 +253,4 @@ the promise is repeatedly mistaken for.
 - [[Jacob]] — who arrives with nothing, works twenty years, and leaves with a herd
 - [[Laban]] — who reads his own prosperity correctly and detains its cause
 - [[Job (person)]] — introduced by his possessions, stripped of them, and given twice as many back
+- [[Elihu the Buzite]] — *"Would your wealth sustain you in distress?"* (Job 36:19)

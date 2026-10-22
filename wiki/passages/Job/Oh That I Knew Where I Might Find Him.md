@@ -390,6 +390,9 @@ in effect, without an answer to this chapter.
   man, the unmuzzled ox, and the creditor who takes children.
 - Proverbs 7:9; John 3:19–21; Matthew 6:19–20; 1 Thessalonians 5:2–7 — the deeds of the night.
 - Psalm 73:3–20 — the security of the wicked and their sudden end.
+- [[Elihu on God's Greatness]] — Job 37:23, *"We can't reach the Almighty"* — *lōʾ məṣāʾnūhû*, *we have
+  not found him*, 23:3's verb — and 37:19's *naʿărōk*, the *"set my cause in order"* of 23:4, declared
+  impossible *"by reason of darkness"*.
 
 ## Notes
 

@@ -147,6 +147,10 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
   change in the ownership of Egypt.** **Nobody dies**; *"You have saved our lives!"* (47:25) is the
   people's own verdict, **spoken as they become Pharaoh's servants.** See
   [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]]
+- [[Elihu on God's Greatness]] — Job 36:27–31; 37:13; **the rain that judges and feeds.** *"For by these he
+  judges the people. He gives food in abundance"* (36:31): the same storm as flood and as harvest. The
+  rain comes *"for correction, or for his land, or for loving kindness"* (37:13), and the hymn does not say
+  which is which.
 
 ## Related themes
 
@@ -167,3 +171,4 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
 - [[Abraham]] — the first to go down because of one
 - [[Isaac]] — the only one told to stay
 - [[Jacob]] — who sends ten sons to buy grain and ends his life in Egypt because of it
+- [[Elihu the Buzite]] — the rain by which God *"gives food in abundance"* (Job 36:31)

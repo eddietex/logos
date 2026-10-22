@@ -230,6 +230,11 @@ what Job is asking for.
   Job has asked for since 9:32 is unnecessary to a God who sees. And yet *"The cause is before him, and you
   wait for him!"* (35:14) — *dîn*, the case on the docket, Elihu's one concession that Job's suit has been
   filed.
+- [[Elihu on God's Greatness]] — Job 37:19–20; **the hearing declared impossible.** *"Teach us what we
+  shall tell him, for we can't make our case (naʿărōk) by reason of darkness. Will it be told him that I
+  would speak? Or should a man wish that he were swallowed up?"* — Job's *ʿārak*, *"I have set my cause in
+  order"* (13:18; 23:4), ruled out. God's next words ask for it: *"I will question you, then you answer
+  me!"* (38:3).
 
 ## Related themes
 

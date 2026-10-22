@@ -224,6 +224,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   defines wisdom as the thing the accuser said Job had only for pay (1:9)**, and the divine title is
   *ʾădōnāy*, found nowhere else in the book. See
   [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]
+- [[Elihu on God's Greatness]] — Job 37:1, 24; **the last human word before God speaks.** Elihu's heart
+  *"trembles"* at the thunder (37:1), and his speech ends *"Therefore men revere him (yərēʾûhû). He doesn't
+  regard (lōʾ-yirʾeh, does not see) any who are wise of heart"* (37:24) — *fear* and *see* played against
+  each other, and 28:28's *"the fear of the Lord, that is wisdom"* restated as a warning. The narrator
+  had said Job feared God (1:1); God regards him in the next verse (38:1).
 
 ## Related themes
 
@@ -249,3 +254,4 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   wrong
 - [[Abimelech (of Abraham's time)]] — the second, and the one against whom the assumption is stated
   in so many words while the chapter shows him doing the opposite
+- [[Elihu the Buzite]] — whose last sentence is *"Therefore men revere him"* (Job 37:24)

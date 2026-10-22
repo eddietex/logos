@@ -10493,3 +10493,78 @@ rows), connections (+1 row, 1 revised), `wiki/index.md` (86 passages, 255 connec
 
 No contradiction between wiki pages found; the forward references to Job 34–35 already in the wiki are
 borne out by the text.
+
+## [2026-10-21] ingest | Job 36.1-37.24 — Elihu on God's Greatness
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 36:1–37:24. **Boundary and title
+unchanged** from the plan: one speech, headed *"Elihu also continued"* at 36:1, with the turn from
+argument to hymn at 36:26 inside it. No collision with any other book. **Job is at 28 / 32.** No
+discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Elihu on God's Greatness]], built around six findings:
+
+**1. *"Perfect in knowledge"* twice** — of Elihu himself (36:4) and of God (37:16); *tāmîm*, the root of
+Job's *tām* (1:1). Presumption or a claim to sound knowledge is left open.
+
+**2. Suffering as the means (36:8–15).** 33:14–30 restated, with Eliphaz's *mûsār* (5:17) as the
+*instruction* (36:10); the deaf *"die without knowledge"* (36:12), the phrase of 35:16; and the line *"He
+delivers the afflicted by their affliction"* (36:15). Then applied to Job: *"you have chosen this rather
+than affliction"* (36:21), and *"Don't desire the night"* (36:20), his chapter 3.
+
+**3. Job's words turned back** — 21:7's *"Why do the wicked live?"* denied with its own verb (36:6); 7:20's
+*mipgāʿ* behind the lightning's *mark* (36:32); 13:18 and 23:4's *ʿārak* ruled out at 37:19; 23:3's *find*
+at 37:23 (*lōʾ məṣāʾnūhû*); 9:4's *"wise in heart"* at 37:24.
+
+**4. The weather from Genesis** — *ʾēd* (36:27) found only here and at Genesis 2:6; *rāqaʿ* (37:18), the verb
+of the *rāqîaʿ*; the snow commanded (37:6).
+
+**5. The thunder as God's voice (37:2–5)**, with Psalm 29 and against Job's 26:14.
+
+**6. The whirlwind's subjects and grammar, the opposite conclusion.** Rain, cloud, lightning, thunder,
+snow, ice and sky, and *"Do you know …? Can you …?"* (37:15–18), are chapter 38's; but Elihu concludes no
+one can speak with God or find him (37:19–20, 23), and God speaks and is found in the next verse. *"He
+doesn't regard (lōʾ-yirʾeh) any who are wise of heart"* (37:24), against *yərēʾûhû*, *revere*.
+
+**Judgment calls.** Title and boundary kept. No place pages: *the north* (37:9, 22) is treated as a
+direction, and the Zaphon resonance recorded, not adopted. The unnamed *kings*, *godless*, and *all men*
+are types and get no pages. Recorded and not adopted: *kōper* at 36:18 as ransom-price rather than bribe;
+the alternatives for *bəmapgîaʿ* (36:32), including *intercede*; the storm of 37:1 as the approaching
+whirlwind; *he does not answer* for *lōʾ yəʿanneh* (37:23); and the damaged-text view of 36:16–21. The
+WEB's *unclean* (36:14) is noted as a gentle rendering of *qədēšîm*. The claim that 36:6 contradicts Job at
+21:7 is recorded as a disagreement between the book's speakers, with both claims on their pages.
+
+### Connection pages
+
+Created (2): [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]] and
+[[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]], the second setting out the herald,
+overtaken, and later-addition readings. Revised (5):
+[[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] (36:4, 12; 37:16),
+[[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] (36:8–15, 21),
+[[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] (36:18 ingested; the ransom reading added),
+[[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] (36:26; 37:23), and
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] (37:24). Non-Job, non-Genesis
+quotations checked against the WEB from bible-api.com before writing: Psalm 18:11, 19; 29:1–5, 7–11;
+147:16–18; 1 Samuel 2:8; Exodus 19:16, 19; John 12:28–29. Job and Genesis texts checked against
+`raw/bible/`. Psalm 48:2, Isaiah 14:13, Isaiah 53:12, Jeremiah 15:11, and Deuteronomy 23:17 are cited by
+reference only, not quoted.
+
+### Pages created or revised
+
+Created (3): the passage page and two connection pages. People (6): [[Elihu the Buzite]],
+[[Job (person)]], [[God]], [[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]].
+Themes (18): [[Suffering]], [[Testing]], [[Retribution]], [[Creation]], [[Wisdom]], [[The Fear of God]],
+[[Language and Speech]], [[Light and Darkness]], [[Judgment]], [[Righteousness]],
+[[Kingship and Empire]], [[Pride and Self-Exaltation]], [[Wealth and Possessions]],
+[[Famine and Plenty]], [[Compassion and Mercy]], [[Seeing and Being Seen]],
+[[Mediation and Advocacy]], [[Life and Death]]. Passages (7): forward references linked in
+[[Elihu Speaks in Anger]], [[Elihu on God's Justice]], [[I Will Not Put Away My Integrity]],
+[[Zophar's First Speech]], [[Eliphaz's First Speech]], [[Why Do the Wicked Live]], and
+[[Oh That I Knew Where I Might Find Him]]. Connections revised (5). Book page: box checked, structure
+note for 36–37. Indexes: books (28 / 32), people (6 rows), themes (18 rows), connections (+2 rows, 3
+revised), `wiki/index.md` (87 passages, 257 connections).
+
+No contradiction between wiki pages found; the forward references to Job 36–37 already in the wiki are
+borne out by the text.

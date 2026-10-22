@@ -12,6 +12,8 @@ tags: [connection]
 - **Job 1:1, 8; 2:3** — Job *"blameless and upright, and one who feared God, and turned away from
   evil"*: the narrator's description, twice repeated by God. [[Job of Uz]],
   [[The Wager in Heaven and the Four Messengers]], [[The Second Test]].
+- **Job 37:24** — Elihu's last sentence: *"Therefore men revere him. He doesn't regard any who are wise of
+  heart."* The motto's two halves set against each other — [[Elihu on God's Greatness]]
 - **Proverbs 1:7** — *"The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom
   and instruction."* The motto at the head of Proverbs. Not yet ingested.
 - **Proverbs 9:10** — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One
@@ -48,6 +50,13 @@ tells its reader, before God speaks, that Job had wisdom on the only terms avail
 being** — and had it in chapter 1, before the catastrophes, while the friends who claim wisdom by
 inheritance (8:8; 15:18) never show either half of it toward him. God's verdict at 42:7 is the same
 judgment from the other side.
+
+**Elihu ends on it.** The last human words in the book before God speaks are *"Therefore men revere
+him (yərēʾûhû, fear him). He doesn't regard any who are wise of heart"* (37:24) — the motto split into its
+two halves and set against each other: fear is what God looks for, and wisdom of one's own making is what
+he *"does not see"* (*lōʾ-yirʾeh*). It is a fair summary of 28:28, and it is aimed at Job, who had used
+*wise in heart* of God (9:4). The irony is the book's: Job had the fear of God by the narrator's account
+(1:1), and the next verse after Elihu's sentence is God regarding him.
 
 **What the motto does not do.** It does not explain anything. Job had the fear of God and turning from
 evil, and lost his children, his property and his health. The friends' doctrine said those two things

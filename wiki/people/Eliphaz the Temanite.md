@@ -210,6 +210,12 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   that you are righteous?"* (22:3) is repeated nearly word for word at 35:7. Elihu's conclusion — that Job
   *"adds rebellion to his sin"* (34:37) — is Eliphaz's *"Isn't your wickedness great?"* (22:5). See
   [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]].
+- [[Elihu on God's Greatness]] — Job 36–37, not named; **three of his first speech's lines return.** His
+  *"great things that can't be fathomed"* (*ʾên ḥēqer*, 5:9) is Elihu's hinge, *"God is great, and we don't
+  know him"* (36:26); his God *"who gives rain on the earth"* (5:10) is the subject of Elihu's hymn
+  (36:27–37:13); and his *mûsār*, *"do not despise the chastening of the Almighty"* (5:17), is the
+  *instruction* to which God opens the bound man's ear (36:10). See
+  [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]].
 
 ## Related people
 

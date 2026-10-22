@@ -118,7 +118,8 @@ Then the promise, and every clause of it answers something Job has said.
   does for Job at the end: ***"Yahweh accepted Job"*** (42:9) — *wayyiśśāʾ yhwh ʾet-pənê ʾiyyôb*,
   **Yahweh lifted Job's face** — in the verse that names Zophar as one of the three standing there
   waiting for it.
-- ***"you shall be steadfast, and shall not fear"*** — *mūṣāq*, *cast* like metal (37:18), and
+- ***"you shall be steadfast, and shall not fear"*** — *mūṣāq*, *cast* like metal (37:18, in
+  [[Elihu on God's Greatness]]), and
   *lōʾ tîrāʾ*. Job: *"the thing which I fear comes on me"* (3:25); *"then I would speak, and not fear
   him"* (9:35).
 - ***"for you shall forget your misery. You shall remember it like waters that have passed

@@ -19,6 +19,9 @@ tags: [connection]
 - **Job 28:3, 12–14, 21–23, 27** — the miner who *"searches out, to the furthest bound"* (*taklît*),
   wisdom that the deep and the sea say is not in them, and God who *"searched it out"* —
   [[Where Shall Wisdom Be Found]]
+- **Job 36:26; 37:23** — Elihu: *"Behold, God is great, and we don't know him. The number of his years
+  is unsearchable"* (*lōʾ-ḥēqer*); *"We can't reach the Almighty"* (*lōʾ məṣāʾnūhû*, *we have not found
+  him*) — [[Elihu on God's Greatness]]
 - **Job 38:16–18** — God: *"Have you walked in the recesses (ḥēqer) of the deep? Have the gates of
   death been revealed to you? … Have you comprehended the earth in its width?"* *(not yet ingested)*
 - **Psalm 139:7–10** — *"If I ascend up into heaven, you are there. If I make my bed in Sheol, behold,
@@ -56,7 +59,9 @@ cannot find (23:8–9).
 **The word that runs through Job is *ḥēqer*.** It means the result of searching — the place reached
 by digging, the bottom of a thing. Eliphaz says God does things *ʾên ḥēqer*, without bottom (5:9);
 Job takes the line into his own hymn (9:10); Zophar asks whether Job can find God's *ḥēqer* (11:7).
-And then God, who never quotes the friends, uses the word once: ***"Have you walked in the
+Elihu, the last human speaker, says it of God's years — *"The number of his years is unsearchable"*
+(36:26) — and answers Zophar's question with Zophar's verb: *"We can't reach the Almighty"* (37:23),
+literally *we have not found him*. And then God, who never quotes the friends, uses the word once: ***"Have you walked in the
 recesses (ḥēqer) of the deep?"*** (38:16), in a sequence that goes on to the gates of death and the
 breadth of the earth (38:17–18) — **Zophar's depth, Sheol, and breadth, in Zophar's order.** The
 friends' best theology turns out to be God's own topic.

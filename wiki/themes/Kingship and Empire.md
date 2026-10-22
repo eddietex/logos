@@ -183,6 +183,10 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   respect the persons of princes"* (34:18–19), breaks mighty men *"and sets others in their place"*
   (34:24), *"that the godless man may not reign"* (34:30) — Job's own hymn of the humbled powerful
   (12:17–24) turned from complaint into theodicy.
+- [[Elihu on God's Greatness]] — Job 36:7; the righteous set *"with kings on the throne … forever, and
+  they are exalted"* — Hannah's picture of the poor made *"to sit with princes, and inherit the throne of
+  glory"* (1 Samuel 2:8); and God *"exalted in his power"* (36:22), whose way no one has prescribed
+  (36:23).
 
 ## Related themes
 

@@ -341,6 +341,8 @@ a valley floor where a burial could actually be dug. No named place.
 - Lamentations 1:12 — *"all you who pass by"*, the *ʿôbrê dārek*.
 - Luke 16:19–22 — the rich man who *"also died, and was buried"*, and Lazarus, who is not said to
   have been.
+- [[Elihu on God's Greatness]] — Job 36:6, *"He doesn't preserve the life (lōʾ-yəḥayyeh) of the wicked"*: 21:7's
+  verb, and its claim denied. A disagreement between speakers, recorded on both pages.
 
 ## Notes
 

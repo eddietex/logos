@@ -17,7 +17,7 @@ tags: [connection]
 - **Deuteronomy 8:5** — *"as a man disciplines his son, so Yahweh your God disciplines you"*
 - **Job 33:14–30; 36:8–15** — Elihu's development of the same idea: God *"opens their ears to
   instruction"* (36:10), and *"delivers the afflicted by their affliction"* (36:15); at 33:19, *"He is
-  chastened also with pain on his bed"* — [[Elihu Speaks in Anger]]
+  chastened also with pain on his bed"* — [[Elihu Speaks in Anger]], [[Elihu on God's Greatness]]
 - **Hebrews 12:4–13** — Proverbs 3:11–12 quoted from the Septuagint (*"whom the Lord loves, he
   disciplines, and chastises every son whom he receives"*), and expounded: *"It is for discipline
   that you endure. God deals with you as with children."*
@@ -50,7 +50,12 @@ two ways God *speaks* — *"For God speaks once, yes twice"* (33:14), first by d
 — and *chastened* (33:19) is *yākaḥ*, the root of the *mōkîaḥ*, the umpire, Job said did not exist
 (9:33) and Elihu says the friends failed to be (32:12). The pain is a warning before the sin, sent
 *"that he may withdraw man from his purpose, and hide pride from man"* (33:17), and it ends with an angel,
-a ransom, and a confession (33:23–28). See [[Elihu Speaks in Anger]]. But Elihu's account rests on the
+a ransom, and a confession (33:23–28). See [[Elihu Speaks in Anger]]. Chapter 36 restates it in its
+shortest form — *"He delivers the afflicted by their affliction, and opens their ear in oppression"*
+(36:15) — with *mûsār*, Eliphaz's *chastening* of 5:17, as the *instruction* the bound man's ear is opened
+to (36:10), and with the two outcomes of Deuteronomy: listen and prosper, refuse and *"die without
+knowledge"* (36:11–12). Then Elihu applies it to Job: *"you have chosen this rather than affliction"*
+(36:21). See [[Elihu on God's Greatness]]. But Elihu's account rests on the
 same premise as Eliphaz's: that the pain is aimed at something in the sufferer that needs
 correcting.
 

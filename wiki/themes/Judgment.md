@@ -307,6 +307,10 @@ rule are the conditions the rest of Scripture is set in.
   judgment"* (34:23): God sees, so the hearing Job has demanded since chapter 9 is unnecessary. He
   strikes the mighty *"in a moment … even at midnight"* (34:20) and *"in the open sight of others"*
   (34:26), because they *"caused the cry of the poor to come to him"* (34:28).
+- [[Elihu on God's Greatness]] — Job 36:6, 17, 31; 37:23; **judgment in the rain.** God *"gives to the
+  afflicted their right"* (*mišpāṭ*, 36:6); Job is *"full of the judgment of the wicked"* (36:17); the storm
+  is how *"he judges the people"* and also how *"He gives food in abundance"* (36:31); and *"In justice and
+  great righteousness, he will not oppress"* (37:23).
 
 ## Related themes
 

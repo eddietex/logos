@@ -291,6 +291,10 @@ will finally go both ways.
   thick darkness?"*, 22:13) and to Job's adulterer (*"No eye shall see me"*, 24:15). *"When he hides his
   face, who then can see him?"* (34:29) concedes Job's 13:24 and calls it sovereignty; *"you say you don't
   see him"* (35:14) is 9:11 and 23:8–9.
+- [[Elihu on God's Greatness]] — Job 36:7, 25; 37:21, 24; *"He doesn't withdraw his eyes from the
+  righteous"* (36:7); *"All men have looked on it. Man sees it afar off"* (36:25); *"Now men don't see the
+  light which is bright in the skies"* (37:21); and the last line, God *"doesn't regard"* — *lōʾ-yirʾeh*,
+  does not see — the wise of heart (37:24).
 
 ## Related themes
 

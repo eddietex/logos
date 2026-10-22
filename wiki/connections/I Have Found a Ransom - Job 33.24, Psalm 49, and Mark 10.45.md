@@ -23,8 +23,8 @@ tags: [connection]
 - **Isaiah 43:3** — *"I have given Egypt as your ransom, Ethiopia and Seba in your place"*
 - **Hosea 13:14** — *"I will ransom them from the power of Sheol. I will redeem them from death!"* — see
   [[The Hope of Resurrection in the Old Testament]]
-- **Job 36:18** *(not yet ingested)* — Elihu again: *"neither let the great size of a bribe turn you
-  aside"* — the same word, *kōper*, in its other sense
+- **Job 36:18** — Elihu again: *"neither let the great size of a bribe turn you aside"* — the same word,
+  *kōper*, in its other sense on the WEB's reading — [[Elihu on God's Greatness]]
 - **Mark 10:45; Matthew 20:28** — *"the Son of Man also came not to be served, but to serve, and to give
   his life as a ransom for many"*
 - **1 Timothy 2:5–6** — *"one mediator between God and men, the man Christ Jesus, who gave himself as a
@@ -78,8 +78,12 @@ mediator is *"the man"*, which is what Job asked for at 9:32 — *"he is not a m
   bears it out (42:7–8); so Elihu's account, true or not as a general rule, is offered to the wrong man.
   See [[The Witness in Heaven]] and [[Mediation and Advocacy]].
 - **The bribe sense is the shadow of the word.** *Kōper* that buys a guilty verdict off is a bribe; *kōper*
-  that buys a forfeit life back is a ransom. Job 36:18 uses the first; Job 33:24 the second. The
-  difference is who pays, and to whom — and in 33:24 God is the one who finds it.
+  that buys a forfeit life back is a ransom. Job 36:18 uses the first, as the WEB reads it; Job 33:24 the
+  second. The difference is who pays, and to whom — and in 33:24 God is the one who finds it. **36:18 is
+  disputed**, and in a hard passage (36:16–21): another common reading keeps the sense of 33:24 and takes
+  the *great ransom* to be Job's suffering itself, the price that must not turn him aside. On that reading
+  Elihu uses the word in one sense only, and the suffering of chapter 36 is the cost of the rescue he
+  described in chapter 33. The wiki records both.
 - **And it is the inverse of [[The Ram Instead of the Son - Substitution at Moriah]].** There, a life is
   given in another's place and the wiki notes that *nothing is paid to anyone*. Here the word *ransom* is
   used, and still no payer is named. Between them the Old Testament holds both halves of what Mark 10:45

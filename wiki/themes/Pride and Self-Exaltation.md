@@ -113,6 +113,10 @@ reading that the text supports, is located in what the building was *for*.
   pride of evil men"* (35:12) — pride as the reason prayer goes unanswered. And 35:15's *"arrogance"*
   (*paš*, found only here) that God *"does not greatly regard"*. Elihu, who has just wished Job *"tried to
   the end"* (34:36), does not apply the word to himself.
+- [[Elihu on God's Greatness]] — Job 36:9, 22; 37:23–24; the fault the bound man is shown is that *"they
+  have behaved themselves proudly"* (*yitgabbārû*, 36:9). Exaltation belongs to God, twice: *"God is
+  exalted in his power"* (36:22; 37:23). And God *"doesn't regard any who are wise of heart"* (37:24) —
+  wisdom as self-estimation. Elihu calls himself *"perfect in knowledge"* (36:4) in the same speech.
 
 ## Related themes
 

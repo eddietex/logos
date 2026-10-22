@@ -253,6 +253,12 @@ noticing into doctrine.
   (34:37); *"Job opens his mouth with empty talk (hebel), and he multiplies words without knowledge"*
   (35:16). God's first words at 38:2 repeat the charge, and 42:7 calls Job's words right. See
   [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
+- [[Elihu on God's Greatness]] — Job 36:2; 37:2–5, 19–20; **the voice in the thunder.** Elihu speaks
+  *"on God's behalf"* (36:2), the brief Job accused the friends of holding (13:7). The thunder is God's
+  *qôl*, five times in four verses (37:2–5), *"the voice of his majesty"*. And speech to God is said to be
+  impossible: *"we can't make our case by reason of darkness. Will it be told him that I would speak?"*
+  (37:19–20) — Job's *"I have set my cause in order"* (13:18) declared out of reach, one verse before God
+  asks Job to answer (38:3). See [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]].
 
 ## Related themes
 

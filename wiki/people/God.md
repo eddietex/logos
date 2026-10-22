@@ -1279,6 +1279,16 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   not hear an empty cry"* (35:13). Two of Elihu's sentences become God's own: *"Will you condemn him who is
   righteous?"* (34:17) is asked again at 40:8, and *"without knowledge"* (35:16) opens the whirlwind at
   38:2.
+- **The God of [[Elihu on God's Greatness]]** is first a teacher and then a storm. *"He delivers the
+  afflicted by their affliction, and opens their ear in oppression"* (36:15); *"Who is a teacher like
+  him?"* (36:22). Then, from the hinge *"Behold, God is great, and we don't know him"* (36:26), he is
+  described in the weather: drawing up the water (36:27), spreading his light (36:30), covering his hands
+  with the lightning (36:32), thundering *"with the voice of his majesty"* (37:4), saying to the snow
+  *"Fall on the earth"* (37:6), freezing the waters by his breath (37:10), and sending rain *"for
+  correction, or for his land, or for loving kindness"* (37:13). He is *"perfect in knowledge"* (37:16),
+  and *"We can't reach the Almighty"* (37:23). **The next verse is God speaking**, out of a storm (38:1),
+  and asking Job questions about the same rain and snow and lightning — the subjects Elihu chose and the
+  grammar he used, to the opposite end. See [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]].
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1657,6 +1667,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   (34:10–12), appointed by no one (34:13), holding every breath (34:14–15), impartial to princes (34:19),
   seeing through every darkness (34:21–22), hearing the poor (34:28), and *"God my Maker, who gives songs
   in the night"* (35:10) — defended by a speaker who wishes Job *"tried to the end"* (34:36)
+- [[Elihu on God's Greatness]] — the teacher who *"delivers the afflicted by their affliction"* (36:15,
+  22); *"great, and we don't know him"* (36:26); the God of rain, thunder, lightning, snow, and ice
+  (36:27–37:13), whose thunder is his voice (37:2–5); *"perfect in knowledge"* (37:16), unreachable (37:23),
+  and revered (37:24) — described in a storm by the last speaker before he speaks out of one
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

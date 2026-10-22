@@ -329,9 +329,9 @@ opposite.
 - [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] — 33:4, 6.
 - [[A Man in Whom Is the Spirit of God]] — 32:8, the spirit that gives understanding.
 - [[Elihu on God's Justice]] — Job 34:1–35:16, Elihu's second and third speeches.
-- Job 36:1–37:24 — Elihu's fourth speech. Not yet ingested.
-- Job 36:18 — *"neither let the great size of a bribe turn you aside"*: *kōper* again, in Elihu's own
-  mouth, in its other sense. Not yet ingested.
+- [[Elihu on God's Greatness]] — Job 36:1–37:24, Elihu's fourth speech; 36:8–15 restates 33:14–30 as
+  *"He delivers the afflicted by their affliction"*, and 36:18 has *kōper* again, as *bribe* on the WEB's
+  reading or as the price of suffering on another.
 - Job 38:1–2 — *"Then Yahweh answered Job out of the whirlwind … Who is this who darkens counsel by words
   without knowledge?"* Not yet ingested.
 - Job 42:7–10 — *"My wrath is kindled against you, and against your two friends"*; Job prays for them.

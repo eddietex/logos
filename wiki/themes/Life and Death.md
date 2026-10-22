@@ -382,6 +382,10 @@ the rest of the canon.
   conditional, and the ground of Elihu's best argument: a God who keeps every creature breathing cannot be
   indifferent to the world. Psalm 104:29 says the same of all creatures, and Ecclesiastes 12:7 of the
   spirit's return.
+- [[Elihu on God's Greatness]] — Job 36:6, 12, 14, 20; God *"doesn't preserve the life of the wicked"*
+  (36:6); the deaf *"die without knowledge"* (36:12); the godless *"die in youth"* (36:14); and *"Don't desire
+  the night, when people are cut off in their place"* (36:20) — Job's longing for death in chapter 3,
+  forbidden.
 
 ## Related themes
 

@@ -164,6 +164,11 @@ raw text.)*
   night"* (34:25) and *"at midnight"* (34:20); and **God *"who gives songs in the night"*** (35:10), the
   night of Psalm 42:8 and 77:6 — set against Job's, *"In the night season my bones are pierced in me"*
   (30:17).
+- [[Elihu on God's Greatness]] — Job 36:20, 30, 32; 37:15, 19, 21–22; **the storm's light.** *"Don't desire
+  the night"* (36:20) recalls chapter 3's; God *"spreads his light around him"* (36:30) and covers his
+  hands with the lightning (36:32); the case cannot be made *"by reason of darkness"* (37:19); and then the
+  wind clears the sky and *"Out of the north comes golden splendor"* (37:21–22), the last image before the
+  whirlwind.
 
 ## Related themes
 

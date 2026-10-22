@@ -188,6 +188,11 @@ close to the book's whole point about who may speak for the tradition. See
   Elihu, who in chapter 32 denied that age made men wise, now calls on the wise to agree with him. And God
   *"makes us wiser than the birds of the sky"* (35:11) — Job's *"ask the animals … the birds of the sky"*
   (12:7) inverted.
+- [[Elihu on God's Greatness]] — Job 36:4, 22; 37:16, 24; **the teacher and the self-wise.** Elihu calls
+  himself *"perfect in knowledge"* (36:4) and gives God the same title (37:16); asks *"Who is a teacher
+  like him?"* (36:22); and ends *"He doesn't regard any who are wise of heart"* (37:24) — Job's phrase for
+  God at 9:4, and the second half of 28:28's motto set against the first. See
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
 
 ## Related themes
 

@@ -201,7 +201,11 @@ speeches; each becomes a linked passage page as it is ingested.
   iniquity"* (34:8), wished *"tried to the end"* (34:36), charged with adding *"rebellion to his sin"*
   (34:37), and judged twice to speak *"without knowledge"* (34:35; 35:16) — the words God will use at 38:2.
   He does not answer.
-- **Job 36–37** — Elihu's fourth speech; nobody answers it either.
+- **Job 36–37** — [[Elihu on God's Greatness]]. Told that God *"delivers the afflicted by their
+  affliction"* (36:15) and was luring him *"out of distress, into a wide place"* (36:16), warned not to
+  *"desire the night"* (36:20) — his own chapter 3 — and charged with having *"chosen this rather than
+  affliction"* (36:21). Then addressed by name, *"Listen to this, Job"* (37:14), and examined on the clouds
+  and the sky in the grammar God will use. He does not answer; God does, in the next verse (38:1).
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
 - **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
@@ -401,6 +405,14 @@ speeches; each becomes a linked passage page as it is ingested.
   and birds (35:11, from 12:7), *"what do I do to you?"* (35:6, from 7:20). His case *"is before him"*
   (35:14), but his words are *"without knowledge"* (34:35; 35:16). See
   [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
+- [[Elihu on God's Greatness]] — Job 36:1–37:24; **taught, warned, and examined.** His suffering is called
+  instruction — *"He delivers the afflicted by their affliction"* (36:15) — and his protest a refusal of it:
+  *"you have chosen this rather than affliction"* (36:21). His own words return: the night he wished for
+  (36:20, from 3:3–6), *"Why do the wicked live?"* (21:7) contradicted at 36:6, his *mipgāʿ*, *"a mark for
+  you"* (7:20), behind the lightning that *"strike[s] the mark"* (36:32), his *"I have set my cause in
+  order"* (13:18) at 37:19, his *"Oh that I knew where I might find him!"* (23:3) at 37:23, and his *"wise in
+  heart"* (9:4) at 37:24. Named once (37:14) and asked *"Do you know …?"* (37:15–16). See
+  [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]].
 
 ## Related people
 

@@ -275,6 +275,12 @@ verdicts.
   position: appointed by no one (34:13), he has no motive to be unjust. Chapter 35 then removes God's
   stake: *"If you are righteous, what do you give him?"* (35:7). The doctrine survives, and the reason for
   God to care about Job's case is gone with it — the one thing the prologue (1:8; 2:3) shows is false.
+- [[Elihu on God's Greatness]] — Job 36:6–14; **the doctrine restated against Job's chapter 21.** *"He
+  doesn't preserve the life of the wicked, but gives to the afflicted their right"* (36:6) — *lōʾ-yəḥayyeh*,
+  the verb of Job's *"Why do the wicked live?"* (21:7), contradicted. The righteous sit *"with kings on the
+  throne"* (36:7); the listening prosper and the deaf *"perish by the sword"* (36:11–12); the godless *"die in
+  youth"* (36:14). Elihu's addition is the middle term — affliction as instruction (36:15) — between the
+  deed and the outcome.
 
 ## Related themes
 

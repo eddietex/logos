@@ -247,6 +247,10 @@ about.
   condemn him?"* (34:17) — *taršîaʿ*, the verb God himself uses at 40:8, *"Will you condemn me, that you
   may be justified?"*. *"My righteousness is more than God's"* (35:2) may also be read *my right before
   God*. And righteousness is said to profit only *"a son of man"* (35:8).
+- [[Elihu on God's Greatness]] — Job 36:3, 7; 37:23; *"I will … ascribe righteousness to my Maker"*
+  (36:3); God *"doesn't withdraw his eyes from the righteous"* (36:7); *"In justice and great
+  righteousness, he will not oppress"* (37:23). Elihu's last speech gives righteousness to God, and has
+  stopped arguing about Job's.
 
 ## Related themes
 

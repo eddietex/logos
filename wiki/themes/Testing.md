@@ -153,6 +153,11 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   out like gold"* (23:10). Job welcomed the test as the thing that would clear him; Elihu wishes it on him
   as the thing that would expose him. The reader, who has seen 1:8, knows a test is already under way and
   what it is for.
+- [[Elihu on God's Greatness]] — Job 36:8–16, 21; **the test as a lesson.** Fetters and cords that show men
+  *"their work, and their transgressions"* (36:8–9), the opened ear and the command to return (36:10), and
+  two outcomes — listen and prosper, refuse and *"die without knowledge"* (36:11–12). God was alluring Job
+  *"out of distress, into a wide place"* (36:16); Job, Elihu says, has *"chosen this rather than
+  affliction"* (36:21). A test that teaches is Elihu's account; the prologue's is a test that proves.
 
 ## Related themes
 

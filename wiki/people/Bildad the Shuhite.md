@@ -192,6 +192,8 @@ book, and Bildad's name survives inside them.
   justice? Or does the Almighty pervert righteousness?"* (8:3) returns as *"Yes surely, God will not do
   wickedly, neither will the Almighty pervert justice"*, the same verb *ʿāwat*, as the thesis of Elihu's
   second speech. See [[Shall Not the Judge of All the Earth Do Right]].
+- [[Elihu on God's Greatness]] — Job 36:5, not named; his *"God will not cast away (yimʾas) a blameless
+  man"* (8:20) behind Elihu's *"God is mighty, and doesn't despise (yimʾas) anyone"*.
 
 ## Related people
 

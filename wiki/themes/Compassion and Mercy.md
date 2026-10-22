@@ -150,6 +150,10 @@ name, and gives the name to a father who cannot see it work.**
   (31:20–22). The record of 29:12–17 put under oath, and Eliphaz's 22:6–9 denied. 31:18 goes further
   than either — the orphan raised *"as with a father"* in his own house. See
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+- [[Elihu on God's Greatness]] — Job 36:5; 37:13; God *"doesn't despise anyone"* (36:5), and sends the
+  rain *"for loving kindness"* (*ḥesed*, 37:13) — the covenant word, in a book set outside the covenant,
+  listed beside *correction* (*šēbeṭ*, the rod) as one of the rain's three purposes. The event does not
+  say which it is.
 
 ## Related themes
 
@@ -176,3 +180,4 @@ name, and gives the name to a father who cannot see it work.**
   done so
 - [[Joseph's Steward]] — *"Peace be to you. Don't be afraid"* (43:23), **the only comfort anyone
   offers the brothers in two chapters**
+- [[Elihu the Buzite]] — the rain sent *"for loving kindness"* (Job 37:13)

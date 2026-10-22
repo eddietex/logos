@@ -48,6 +48,20 @@ knowledge"* (35:16), is **the first word God says about Job at 38:2** — which 
 reading him as the whirlwind's herald, to be weighed every time against 42:7. See
 [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
 
+His fourth speech (36–37) is his best, and it is where the herald reading is strongest. Its first half
+puts his one new idea in a single line — *"He delivers the afflicted by their affliction, and opens their
+ear in oppression"* (36:15) — and turns it on Job as a charge: *"you have chosen this rather than
+affliction"* (36:21). Its second half, from *"Behold, God is great, and we don't know him"* (36:26), is a
+hymn to God in the weather that names, one by one, the rain, cloud, lightning, thunder, snow, ice and sky
+God will ask Job about in chapter 38, and examines Job in God's own grammar: *"Do you know …? Can you,
+with him, spread out the sky?"* (37:15–18). He even says his heart trembles at the storm (37:1). **But his
+conclusion is the reverse of God's.** The storm proves, for Elihu, that no one should ask to speak with God
+(37:19–20) and that *"We can't reach the Almighty"* (37:23); God speaks out of it in the next verse and asks
+Job to answer him. He claims to be *"perfect in knowledge"* (36:4) in the speech where he gives God the same
+title (37:16), and his last words — *"He doesn't regard any who are wise of heart"* (37:24) — are the last
+any human speaks before God does. See
+[[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]].
+
 **The book's verdict on him is silence**, and readers have heard it both ways: as tacit approval
 (he is not rebuked), or as dismissal (he is not answered). Many modern scholars take his chapters as a
 later addition; the wiki records that view and reads the book as received.
@@ -66,12 +80,19 @@ later addition; the wiki records that view and reads the book as received.
 - **Job 35:1–16** — the third speech, to Job: righteousness gives God nothing (35:6–8), the oppressed
   unanswered because none asks *"Where is God my Maker?"* (35:10), and *"he multiplies words without
   knowledge"* (35:16).
-- **Job 36–37** *(not yet ingested)* — the fourth speech, headed at 36:1.
+- **Job 36:1–25** — the fourth speech, to Job: *"One who is perfect in knowledge is with you"* (36:4);
+  the bound man whose ear God opens (36:8–12), *"He delivers the afflicted by their affliction"* (36:15),
+  and *"you have chosen this rather than affliction"* (36:21).
+- **Job 36:26–37:24** — the hymn: *"God is great, and we don't know him"* (36:26); rain, thunder, lightning,
+  snow, and ice; *"Listen to this, Job"* (37:14); *"We can't reach the Almighty"* (37:23); and his last
+  words, *"He doesn't regard any who are wise of heart"* (37:24). God answers Job, not Elihu, in the next
+  verse.
 
 ## Appears in
 
 - [[Elihu Speaks in Anger]] — Job 32:1–33:33
 - [[Elihu on God's Justice]] — Job 34:1–35:16
+- [[Elihu on God's Greatness]] — Job 36:1–37:24
 
 ## Related people
 
@@ -97,3 +118,7 @@ later addition; the wiki records that view and reads the book as received.
 - [[Judgment]]
 - [[Kingship and Empire]]
 - [[Prayer]]
+- [[Creation]]
+- [[The Fear of God]]
+- [[Testing]]
+- [[Light and Darkness]]

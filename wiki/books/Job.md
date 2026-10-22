@@ -138,6 +138,15 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   Job, he returns 7:20 and Eliphaz's 22:2–3 (35:6–8), and says the oppressed go unanswered because no one
   asks *"Where is God my Maker, who gives songs in the night?"* (35:10). Both speeches end on Job's words
   *"without knowledge"* (34:35; 35:16) — **the charge God opens with at 38:2**.
+  Chapters 36–37 are the fourth speech, headed *"Elihu also continued"* (36:1), and the best of him. It
+  puts his one new idea in a line — *"He delivers the afflicted by their affliction, and opens their ear in
+  oppression"* (36:15) — and turns it on Job (*"you have chosen this rather than affliction"*, 36:21).
+  Then, from *"Behold, God is great, and we don't know him"* (36:26), a hymn to God in the weather: rain
+  from the *ʾēd* of Genesis 2:6 (36:27), thunder as *"the voice of his majesty"* (37:4), snow, ice, and a sky
+  like cast metal, and Job examined by name in God's own grammar — *"Do you know …? Can you …?"*
+  (37:14–18). **It names the whirlwind's subjects and reaches the opposite conclusion**: no one can make
+  his case before God (37:19–20), *"We can't reach the Almighty"* (37:23) — and the next verse is
+  *"Then Yahweh answered Job out of the whirlwind"* (38:1).
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
 
@@ -202,7 +211,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 - [x] [[Elihu Speaks in Anger]] — Job 32:1–33:33
 - [x] [[Elihu on God's Justice]] — Job 34:1–35:16
-- [ ] Elihu on God's Greatness — Job 36:1–37:24
+- [x] [[Elihu on God's Greatness]] — Job 36:1–37:24
 
 ### Yahweh answers (38–41)
 

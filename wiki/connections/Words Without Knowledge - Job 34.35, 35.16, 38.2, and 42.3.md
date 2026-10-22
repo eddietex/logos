@@ -11,6 +11,9 @@ tags: [connection]
   without wisdom.'"* — [[Elihu on God's Justice]]
 - **Job 35:16** — Elihu again, closing his third speech: *"Therefore Job opens his mouth with empty
   talk, and he multiplies words without knowledge."* — [[Elihu on God's Justice]]
+- **Job 36:4, 12; 37:16** — Elihu's fourth speech: *"One who is perfect in knowledge is with you"* (36:4),
+  of himself; those who will not listen *"shall die without knowledge"* (36:12); and *"him who is perfect in
+  knowledge"* (37:16), of God — [[Elihu on God's Greatness]]
 - **Job 38:2** *(not yet ingested)* — Yahweh, his first words out of the whirlwind: *"Who is this who
   darkens counsel by words without knowledge?"*
 - **Job 42:3** *(not yet ingested)* — Job, quoting it back in his reply: *"You asked, 'Who is this who
@@ -77,6 +80,17 @@ to his sin"* (34:36–37). God draws no such conclusion. He questions Job, and t
   him.
 
 The wiki records all three and reads the book as received.
+
+### Knowledge in Elihu's last speech
+
+Chapters 36–37 keep the word in play without repeating the charge. The fate of the man who will not hear
+God's instruction is to *"die without knowledge"* (36:12) — the phrase of 35:16, set as the end of the
+road Elihu has just said Job is on. And the speech is bracketed by a phrase used twice: *təmîm dēʿôt*,
+*perfect in knowledge*, which Elihu claims for himself (36:4) and then gives to God (37:16). **The speaker
+who charges Job with words *without* knowledge calls himself *perfect in* it.** Whether that is
+presumption or a claim that his knowledge is sound and from God (*"I will get my knowledge from afar"*,
+36:3), it sets up the whirlwind's question exactly: God asks who is speaking *without knowledge* (38:2),
+and the next thing he asks is where the speaker was when the earth was founded (38:4).
 
 ### Eliphaz first
 
