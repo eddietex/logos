@@ -22,7 +22,11 @@ tags: [connection]
 - **Exodus 8:8, 10, 19, 22** — Pharaoh's *"Entreat Yahweh"*; *"that you may know that there is no one
   like Yahweh our God"*; the magicians' *"This is God's finger"*; *"to the end you may know that I am
   Yahweh on the earth"* — [[Frogs, Lice, and Flies]]
-- **Exodus 9:14, 29; 10:2; 11:7** — the refrain of the later plagues *(not yet ingested)*
+- **Exodus 9:14, 16, 27, 29–30** — *"that you may know that there is no one like me in all the
+  earth"*; *"that my name may be declared throughout all the earth"*; *"Yahweh is righteous"*; *"that
+  you may know that the earth is Yahweh's"*; *"you don't yet fear Yahweh God"* —
+  [[Livestock, Boils, and Hail]]
+- **Exodus 10:2; 11:7** — the refrain of the later plagues *(not yet ingested)*
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*
@@ -81,6 +85,15 @@ And the refrain sharpens: not only *that I am Yahweh* but *"that there is no one
 15:11). **His own experts get further than he does**: *"This is God's finger"* (8:19) — though they say
 *ʾĕlōhîm*, not *Yahweh*. By 8:25 Pharaoh is saying *"your God"* again. **Asking is not knowing.** See
 [[Frogs, Lice, and Flies]] and [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
+
+**At the hail the knowledge widens to the whole earth, and Pharaoh names Yahweh as righteous.** *"That
+you may know that there is no one like me in all the earth"* (9:14); *"that my name may be declared
+throughout all the earth"* (9:16); *"that you may know that the earth is Yahweh's"* (9:29). **Pharaoh
+uses the name in a confession**: *"I have sinned this time. Yahweh is righteous, and I and my people
+are wicked"* (9:27). **Moses judges that this is still not knowledge**: *"I know that you don't yet
+fear Yahweh God"* (9:30). Moses' *yādaʿtî*, *I know*, answers Pharaoh's *lōʾ yādaʿtî* of 5:2. **Saying
+the name correctly is not the same as fearing him.** See [[Livestock, Boils, and Hail]] and
+[[For This Very Purpose - Exodus 9.16 in Romans 9.17]].
 
 **The plagues are therefore, on Exodus's own account, revelation as well as judgment** — what is
 being made known is the name Pharaoh said he did not know. (The verses are quoted from the WEB in

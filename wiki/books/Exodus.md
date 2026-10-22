@@ -114,7 +114,16 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   without the rod and draws a line — *"I will set apart in that day the land of Goshen"* (8:22) — and
   Pharaoh bargains, *"in the land"*, then *"not very far away"*, against Moses' *"the abomination of the
   Egyptians"* (8:25–28). **Twice the respite is followed by Pharaoh hardening his own heart** (8:15,
-  32), the first times Exodus makes him the subject. See [[Frogs, Lice, and Flies]].
+  32), the first times Exodus makes him the subject. See [[Frogs, Lice, and Flies]]. **Then the
+  plagues reach the herds, the body, and the field.** The pestilence is *"Yahweh's hand"*, with no rod,
+  and *"not one"* of Israel's animals dies (9:3–7). At the boils the magicians *"couldn't stand before
+  Moses"* and leave the story, and **for the first time the narrator says *"Yahweh hardened the heart
+  of Pharaoh"*** (9:12). Before the hail God tells Pharaoh why he is still alive — ***"for this cause
+  I have made you stand: to show you my power, and that my name may be declared throughout all the
+  earth"*** (9:16), quoted in Romans 9:17 — and gives the first warning with a way of escape, which
+  some of Pharaoh's servants take (9:19–21). The hail spares Goshen; Pharaoh confesses, ***"I have
+  sinned this time. Yahweh is righteous, and I and my people are wicked"*** (9:27), and when Moses has
+  prayed it away he *"sinned yet more"* (9:34). See [[Livestock, Boils, and Hail]].
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
@@ -160,7 +169,7 @@ for unit.
 
 - [x] [[Water Turned to Blood]] — Exodus 7:14–25
 - [x] [[Frogs, Lice, and Flies]] — Exodus 8:1–32
-- [ ] Livestock, Boils, and Hail — Exodus 9:1–35
+- [x] [[Livestock, Boils, and Hail]] — Exodus 9:1–35
 - [ ] Locusts and Darkness — Exodus 10:1–29
 - [ ] The Last Plague Announced — Exodus 11:1–10
 
@@ -263,6 +272,8 @@ for unit.
 - [[Creation]]
 - [[Retribution]]
 - [[Sacrifice and Offering]]
+- [[Sin]]
+- [[Righteousness]]
 
 ## Key people
 
@@ -285,15 +296,16 @@ for unit.
 - [[Korah (son of Izhar)]] — their cousin
 - [[The Angel of Yahweh]] — in the flame of the bush
 - [[Pharaoh (of the Exodus)]] — the king Moses is sent to
-- [[Pharaoh's Magicians (of the Exodus)]] — the court experts who match the first signs, and fail at
-  the lice: *"This is God's finger"*
+- [[Pharaoh's Magicians (of the Exodus)]] — the court experts who match the first signs, fail at
+  the lice — *"This is God's finger"* — and cannot stand before Moses at the boils
 
 ## Key places
 
 - [[Egypt]]
 - [[Pithom]] and [[Rameses]] — the store-cities
 - [[The Nile]] — *"the river"* of 1:22
-- [[Goshen]] — *"set apart"* from the swarms, the first land the plagues spare (8:22)
+- [[Goshen]] — *"set apart"* from the swarms, the first land the plagues spare (8:22), and the only
+  land without hail (9:26)
 - [[Midian]] — where Moses flees
 - [[Horeb]] — *"God's mountain"*, where the bush burns
 - [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)

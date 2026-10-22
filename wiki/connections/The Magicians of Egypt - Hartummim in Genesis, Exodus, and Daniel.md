@@ -15,7 +15,8 @@ tags: [connection]
 - **Exodus 8:7** — they match the frogs — [[Frogs, Lice, and Flies]]
 - **Exodus 8:18–19** — **they fail at the gnats** (WEB *"lice"*): *"This is God's finger"* —
   [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]
-- **Exodus 9:11** — *"the magicians couldn't stand before Moses because of the boils"*
+- **Exodus 9:11** — *"the magicians couldn't stand before Moses because of the boils"*: their last
+  appearance; *ḥarṭummîm* does not recur in Exodus (WLC) — [[Livestock, Boils, and Hail]]
 - **Daniel 1:20; 2:2, 10–11, 27; 4:7, 9; 5:11** — the same word, in a Babylonian guild, failing the same
   way
 - **Isaiah 19:3, 11–14; 44:25; 47:12–13** — the prophets on the collapse of Egyptian and Babylonian

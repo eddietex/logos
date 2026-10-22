@@ -70,7 +70,8 @@ lengthens the contest so that the signs are seen.** See [[Signs and Wonders]].
   in the Gospels and Acts *(not yet ingested)*
 - Psalm 95:8; Hebrews 3:8, 15 — *"Don't harden your heart, as at Meribah"*, said to Israel *(not yet
   ingested)*
-- Romans 9:17–18 — Pharaoh as Paul's example *(not yet ingested)*
+- Romans 9:17–18 — Pharaoh as Paul's example *(not yet ingested)* —
+  [[For This Very Purpose - Exodus 9.16 in Romans 9.17]]
 
 **The theme turns around in the rest of Scripture.** In Exodus it is said of Egypt's king; in the
 Psalms, the prophets, and the New Testament it is said, more often, of Israel. This section will grow
@@ -101,6 +102,14 @@ as those passages are ingested.
   the lice, the qal of *ḥāzaq* again, no agent, in the same verse as the magicians' *"This is God's
   finger"*. After the flies, *wayyakbēd parʿōh ʾet-libbô gam bappaʿam hazzōʾt*, *"this time also"* —
   and no *"as Yahweh had spoken"*. **Relief, not pressure, is what precedes each self-hardening** (WLC)
+- [[Livestock, Boils, and Hail]] — Exodus 9:7, 12, 34–35; **Yahweh named as the hardener for the
+  first time.** After the pestilence, the qal of *kābēd*, no agent (9:7). **After the boils, *wayḥazzēq
+  YHWH ʾet-lēb parʿōh***, *"Yahweh hardened the heart of Pharaoh"* (9:12): the first narrated divine
+  hardening, at the sixth plague. Before the hail God tells Pharaoh, *"for this cause I have made you
+  stand"* (9:16), the verse of Romans 9:17. After the hail, ***"he sinned yet more, and hardened his
+  heart, he and his servants"*** (9:34): the hiphil of *kābēd* again, the verb *ḥāṭāʾ* of his own
+  confession, and **the servants included for the first time**. Then *ḥāzaq* with no agent (9:35)
+  (WLC) — [[For This Very Purpose - Exodus 9.16 in Romans 9.17]]
 
 ## Related themes
 

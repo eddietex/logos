@@ -462,7 +462,7 @@ answer, at last, to Pharaoh's question, given to Moses first.
   [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
 - Exodus 7:14 — *kābēd lēb* — [[Hardening of the Heart]]
 - Exodus 7:18, 21; 8:14 — the river and the land stink
-- Exodus 9:3, 15 — *deber*, pestilence, on Egypt
+- Exodus 9:3, 15 — *deber*, pestilence, on Egypt — [[Livestock, Boils, and Hail]]
 - Exodus 11:1; 12:31–33, 39 — *"he will surely thrust you out"*
 - Exodus 14:10 — *"cried out to Yahweh"*
 - Exodus 15:7 — *"consumes them as stubble"*

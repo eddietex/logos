@@ -93,6 +93,9 @@ about.
   Galatians 3:11, and Hebrews 10:38 all build on.
 - **Ezekiel 14:14, 20; 18:1–32** — righteousness as strictly personal and non-transferable, with
   Noah named as the first example.
+- **Exodus 9:27** — *"Yahweh is righteous, and I and my people are wicked"*: Pharaoh pronouncing
+  the verdict of Genesis 18:25 on himself, at the hail. The first *ṣaddîq* in Exodus, said of God by
+  Egypt's king (WLC). See [[Livestock, Boils, and Hail]].
 - **Matthew 5:20; 6:33** — a righteousness that must *exceed* that of the scribes and Pharisees, and
   a kingdom-righteousness to be sought first.
 - **Romans 1:17; 3:21–26; 4:1–25** — *the righteousness of God* revealed apart from law, and Genesis
@@ -264,6 +267,11 @@ about.
   Job, who said he was in the right (13:18) and was told he spoke *"without knowledge"* (38:2), is the one commended.
   *Nəkônâ* is what is firm and true to the case, not what is orthodox. See
   [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]].
+- [[Livestock, Boils, and Hail]] — Exodus 9:27; **the verdict pronounced by the guilty party.**
+  ***"Yahweh is righteous, and I and my people are wicked"*** — *haṣṣaddîq* and *hārəšāʿîm*, the pair of
+  Abraham's plea at Sodom, *"Will you consume the righteous with the wicked?"* (Genesis 18:23–25), and
+  the first *ṣaddîq* in Exodus (WLC). **The confession is true and is not kept** (9:34) —
+  [[Shall Not the Judge of All the Earth Do Right]]
 
 ## Related themes
 

@@ -184,6 +184,11 @@ Genesis 1 sets four load-bearing claims:
   swarm with frogs"* — *šāraṣ*, the verb of Genesis 1:20–21 and of Israel's increase at Exodus 1:7; the
   *"dust of the earth"* made lice; and *tiššāḥēt hāʾāreṣ*, *"the land was corrupted"*, the exact phrase
   of Genesis 6:11 before the flood (WLC) — [[The Flood as Un-Creation]]
+- [[Livestock, Boils, and Hail]] — Exodus 9:18, 22–25; **God's rain on the herb of the field.** Genesis
+  2:5 put *"no herb of the field"* beside *"Yahweh God had not caused it to rain"*; the hail is God's
+  rain (*māṭar*) striking *"every herb of the field"* and breaking *"every tree of the field"*. Its
+  other uses in Genesis and Exodus are the flood, Sodom, and the manna (WLC) —
+  [[The Flood as Un-Creation]], [[Fire and Sulfur from the Sky]]
 
 ## Related themes
 

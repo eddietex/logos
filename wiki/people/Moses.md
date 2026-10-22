@@ -176,6 +176,19 @@ face not to *"deal deceitfully any more"* (8:29). At the flies he is sent to *"s
 the water (8:20) with *hityaṣṣēb*, the verb of his sister standing watch over his basket (2:4). See
 [[Frogs, Lice, and Flies]].
 
+**At the livestock, the boils, and the hail, he warns, throws, stretches, and prays.** He carries the
+demand twice more, *"Let my people go, that they may serve me"* (9:1, 13). The pestilence needs no
+action from him at all: it is *"Yahweh's hand"* (9:3). At the boils he throws *"ashes of the furnace"*
+toward the sky *"in the sight of Pharaoh"*, and the magicians *"couldn't stand before Moses"* (9:8–11).
+**Before the hail he gives the longest speech of the plagues so far**: *"for this cause I have made
+you stand"* (9:16), and the first warning that offers a way of escape (9:19). He stretches the rod to
+the sky (9:23). Pharaoh confesses and asks for prayer a third time. Moses goes out of the city to
+***"spread abroad my hands to Yahweh"*** — the first time Scripture describes that gesture of prayer —
+*"that you may know that the earth is Yahweh's"* (9:29). He also tells Pharaoh plainly, ***"I know
+that you don't yet fear Yahweh God"*** (9:30), and he prays anyway. **The chapter closes with the
+first *bəyad-mōšeh* in Exodus**: *"as Yahweh had spoken through Moses"*, literally *by the hand of
+Moses* (9:35). See [[Livestock, Boils, and Hail]].
+
 ### What is ahead
 
 The rest of the plagues (9–11); the Passover, the sea, and the
@@ -231,6 +244,10 @@ sections are written as their pericopes arrive.
 - Lets Pharaoh set the hour and prays away the frogs; Yahweh does *"according to the word of Moses"*;
   refuses to sacrifice in the land; prays away the flies and warns Pharaoh not to deal deceitfully —
   Exodus 8:1–32, [[Frogs, Lice, and Flies]]
+- Announces the pestilence on the livestock; throws the ashes that become boils; announces the
+  hail with a way of escape and stretches the rod to the sky; prays with spread hands after
+  Pharaoh's confession; *"you don't yet fear Yahweh God"* — Exodus 9:1–35,
+  [[Livestock, Boils, and Hail]]
 
 ## Appears in
 
@@ -265,6 +282,9 @@ sections are written as their pericopes arrive.
 - [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the intercessor for the oppressor.** Prays for Pharaoh twice
   and is answered twice; refuses *"in the land"* and *"not very far away"*; *"don't let Pharaoh deal
   deceitfully any more"*
+- [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the one the magicians cannot stand before.**
+  Throws the furnace ashes; stretches the rod for the hail; spreads his hands to Yahweh for Pharaoh,
+  knowing he *"doesn't yet fear"*; the word comes *"by the hand of Moses"*
 
 ## Related people
 

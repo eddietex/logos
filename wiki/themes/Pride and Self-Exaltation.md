@@ -131,6 +131,10 @@ reading that the text supports, is located in what the building was *for*.
   compare *"What is the Almighty, that we should serve him?"* (Job 21:15) and *"lest I be full, deny
   you, and say, 'Who is Yahweh?'"* (Proverbs 30:9). See
   [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
+- [[Livestock, Boils, and Hail]] — Exodus 9:17; ***"as you still exalt yourself against my people"*** —
+  *mistôlēl*, only here in Genesis through Numbers (WLC). Lexicons derive it from *sālal*, *to heap
+  up*, so Pharaoh would be building himself up as a barrier against God's people; that etymology is
+  not checked here. **God's answer is that he made Pharaoh stand** (9:16)
 
 ## Related themes
 

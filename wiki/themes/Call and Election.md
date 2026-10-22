@@ -198,6 +198,11 @@ the others.
   separated, I and your people, from all the people who are on the surface of the earth"* (33:16) —
   and *"I will put a division between my people and your people"*, where the Hebrew noun, *pədut*,
   elsewhere means *redemption* (the reading is disputed; see the passage page)
+- [[Livestock, Boils, and Hail]] — Exodus 9:4–7, 26; **the distinction counted to the last animal.**
+  *"Yahweh will make a distinction"* — *pālâ* again — *"between the livestock of Israel and the
+  livestock of Egypt"*; *"of the livestock of the children of Israel, not one died"*; and *"Only in the
+  land of Goshen … there was no hail"*. **But the line is crossed from the other side too**: Egyptians
+  who fear Yahweh's word are spared by the warning (9:20)
 
 ## Related themes
 

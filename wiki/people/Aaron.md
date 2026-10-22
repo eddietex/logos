@@ -91,6 +91,14 @@ over the waters and the frogs come up (8:5–6); he strikes *"the dust of the ea
 is no rod and no Aaron**: *"Yahweh did so"* (8:24). He is summoned with Moses (8:8, 25), but only Moses
 speaks. See [[Frogs, Lice, and Flies]].
 
+**At the boils he takes the ashes with Moses, and then the rod is Moses'.** God tells *"Moses and
+Aaron"* to take *"handfuls of ashes of the furnace"*, but specifies *"let Moses sprinkle it"*
+(9:8), and the narrative follows that: *"Moses sprinkled it up toward the sky"* (9:10). **At the hail
+it is *"Moses stretched out his rod"* (9:23)**, which had been Aaron's role at the blood, frogs, and
+lice. Aaron is summoned with Moses when Pharaoh confesses (9:27) but says nothing. **The rod has
+passed from his hand to Moses' hand** at the point where the narrative begins to say the word comes
+*"by the hand of Moses"* (9:35). See [[Livestock, Boils, and Hail]].
+
 ### What is ahead
 
 The rest of the plagues; Sinai, where he goes up with the elders (24); the priestly
@@ -117,6 +125,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   Exodus 7:19–21, [[Water Turned to Blood]]
 - Brings up the frogs over the waters of Egypt; strikes the dust and it becomes lice — Exodus 8:5–6,
   16–17, [[Frogs, Lice, and Flies]]
+- Takes the furnace ashes with Moses for the boils; summoned with Moses to Pharaoh's confession —
+  Exodus 9:8–10, 27, [[Livestock, Boils, and Hail]]
 
 ## Appears in
 
@@ -137,6 +147,9 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   the rivers, streams, pools, and ponds of Egypt, *"as Yahweh commanded"*
 - [[Frogs, Lice, and Flies]] — Exodus 8:5–6, 16–17; **the last plagues of the rod in his hand.** Frogs from
   the waters, lice from the dust; absent from the flies
+- [[Livestock, Boils, and Hail]] — Exodus 9:8–10, 27; **beside Moses, and silent.** Takes the ashes,
+  but Moses throws them; Moses stretches the rod for the hail; called with Moses to hear *"I have
+  sinned"*
 
 ## Related people
 

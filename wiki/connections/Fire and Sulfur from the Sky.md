@@ -8,6 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - Genesis 19:24–25 — the first occurrence, and the source of everything below
+- Exodus 9:18–25 — Yahweh *"rained"* hail with fire on Egypt, the same verb and the same pairing of
+  sky and fire, without the sulfur — [[Livestock, Boils, and Hail]]
 - Deuteronomy 29:23 — *"brimstone, salt, and burning"*, the covenant curse
 - Job 18:15; Psalm 11:6; Isaiah 30:33; 34:9–10; Ezekiel 38:22 — the prophetic and wisdom uses
 - Luke 17:29 — the one New Testament narrative use, in the discourse on the day of the Son of Man
@@ -52,9 +54,25 @@ noun the prophets use as this event's proper name (Deuteronomy 29:23; Isaiah 1:7
 
 Genesis 19:28 has Abraham see *"the smoke of the land went up as the smoke of a furnace"*.
 *Kibšān*, furnace, is a rare word: it appears at Exodus 9:8, 10 (the ashes Moses throws up for the
-boils), Exodus 19:18 (Sinai smoking *"like the smoke of a furnace"*), and here. Isaiah 34:10 and
+boils), Exodus 19:18 (Sinai smoking *"like the smoke of a furnace"*), and here (in Genesis through
+Numbers, WLC lemma search). Isaiah 34:10 and
 Revelation 14:11 both pick up the going-up smoke and make it perpetual — *"the smoke of their
 torment goes up forever and ever"* — so the image outlives the chemistry.
+
+### Egypt's hail: the verb of Sodom, nearer than the phrase
+
+**The verb that rained fire on Sodom is used again at the seventh plague.** *"Then Yahweh rained
+(himṭîr) on Sodom and on Gomorrah sulfur and fire"* (Genesis 19:24) becomes *"I will cause it to rain
+a very grievous hail"* (*mamṭîr*, Exodus 9:18) and *"Yahweh rained hail on the land of Egypt"* (9:23).
+**And fire comes with it**: *"lightning flashed down to the earth"* is literally *fire walked to the
+ground* (*wattihălak-ʾēš ʾārṣâ*), and in 9:24 there is *"lightning mixed with the hail"*, *ʾēš
+mitlaqqaḥat*, *fire taking hold of itself* (WLC). In Genesis and Exodus the hiphil of *māṭar* has God
+as its subject every time: the rain withheld (Genesis 2:5), the flood (7:4), Sodom (19:24), the hail
+(Exodus 9:18, 23), and the manna, *"I will rain bread from the sky for you"* (16:4) (WLC lemma
+search). **The same chapter also uses Sodom's furnace**: the boils come from *"ashes of the
+furnace"* (*kibšān*, 9:8, 10). **The differences matter as much**: Egypt is warned a day ahead and
+offered a way out (9:19); the hail spares a region (Goshen, 9:26) instead of a family; and it ends
+with the king's prayer answered, not with the cities overthrown. See [[Livestock, Boils, and Hail]].
 
 ## Significance
 

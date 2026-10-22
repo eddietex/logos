@@ -85,9 +85,25 @@ go very far away. Pray for me"* (8:28) — the first of the offers that each kee
 wages, Genesis 31:7), and he does: ***"Pharaoh hardened his heart this time also"*** (8:32), with no
 *"as Yahweh had spoken"* at all. See [[Frogs, Lice, and Flies]].
 
+**At the livestock, the boils, and the hail he is told why he is still alive, and he confesses for
+the first time.** After the pestilence he sends to check, and finds *"not so much as one"* of Israel's
+herds dead, and still *"the heart of Pharaoh was stubborn"* (9:7). **After the boils, for the first
+time, the narrator says Yahweh did it**: ***"Yahweh hardened the heart of Pharaoh"*** (9:12). Then
+God explains himself to Pharaoh: he could have been *"cut off from the earth"* with the pestilence,
+***"but indeed for this cause I have made you stand: to show you my power, and that my name may be
+declared throughout all the earth"*** (9:15–16), the verse Paul quotes in Romans 9:17. He *"still
+exalts himself"* against God's people (9:17). His own court splits at the warning of hail: *"those
+who feared Yahweh's word among the servants of Pharaoh"* take cover (9:20). **When the hail falls he
+confesses**: ***"I have sinned this time. Yahweh is righteous, and I and my people are wicked"***
+(9:27), the terms of Abraham's plea at Sodom (Genesis 18:23–25). He asks for prayer and promises
+release a third time (9:28). Moses answers, *"I know that you don't yet fear Yahweh God"* (9:30). When
+the storm stops, ***"he sinned yet more, and hardened his heart, he and his servants"*** (9:34). See
+[[Livestock, Boils, and Hail]] and [[For This Very Purpose - Exodus 9.16 in Romans 9.17]].
+
 ### What is ahead
 
-The rest of the plagues (9–11); the release; the pursuit; and the sea. These are written as
+The locusts, the darkness, and the last plague announced (10–11); the release; the pursuit; and the
+sea. These are written as
 their pericopes arrive.
 
 ## Timeline / key events
@@ -109,6 +125,9 @@ their pericopes arrive.
 - Asks Moses to entreat Yahweh and promises release; chooses *"Tomorrow"*; hardens his heart at the
   respite; offers sacrifice *"in the land"*, then *"not very far away"*; hardens his heart *"this time
   also"* — Exodus 8:1–32, [[Frogs, Lice, and Flies]]
+- Loses his livestock and checks Israel's; his heart hardened by Yahweh after the boils; told *"for
+  this cause I have made you stand"*; confesses *"I have sinned this time"* under the hail; promises
+  release a third time; *"sinned yet more"* — Exodus 9:1–35, [[Livestock, Boils, and Hail]]
 
 ## Appears in
 
@@ -129,6 +148,9 @@ their pericopes arrive.
   *kābēd*; met at the water; the river struck in his sight; *"he didn't even take this to heart"*
 - [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the first requests, and the first self-hardening.**
   *"Entreat Yahweh"*; *"Tomorrow"*; *"Pray for me"*; *"Pharaoh hardened his heart this time also"*
+- [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **made to stand, and the first confession.**
+  *"Yahweh hardened the heart of Pharaoh"*; *"for this cause I have made you stand"*; *"I have sinned
+  this time"*; *"he sinned yet more"*
 
 ## Related people
 

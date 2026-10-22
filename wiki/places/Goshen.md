@@ -26,7 +26,8 @@ which fits all four conditions; **Genesis itself commits to none of them as geog
 foreign — **near the court and not of it** — and the arrangement that makes Israel survivable in Egypt
 in Genesis is the same arrangement that makes it visible and enslaveable in Exodus. **In the plagues
 the separation becomes God's own**: Exodus does not name Goshen until 8:22, where it is *"set apart"*
-from the swarms. See
+from the swarms, and names it once more at the hail: *"Only in the land of Goshen, where the children
+of Israel were, there was no hail"* (9:26). See
 [[Land and Sojourning]] and [[The Nations]].
 
 ## Appears in
@@ -66,6 +67,10 @@ from the swarms. See
   your people."* **The separation Genesis built on Egyptian contempt for shepherds (46:34) is now drawn
   by God**, and in the same pericope Moses argues from that contempt — *"the abomination of the
   Egyptians"* (8:26) — for leaving it
+- [[Livestock, Boils, and Hail]] — Exodus 9:4–7, 26; **spared again, by name.** The pestilence
+  distinguishes *"the livestock of Israel"* from Egypt's without naming the place (9:4); the hail
+  names it: ***"Only in the land of Goshen, where the children of Israel were, there was no hail"***
+  — the only land in Egypt left with its fields and trees
 
 ## Related places
 
@@ -85,7 +90,7 @@ from the swarms. See
   [[Joseph and the Famine]]
 - **The plagues fall on Egypt and not on Goshen** — Exodus 8:22; 9:26 — *"I will set apart in that day
   the land of Goshen, in which my people dwell, that no swarms of flies shall be there"* —
-  [[Frogs, Lice, and Flies]]
+  [[Frogs, Lice, and Flies]], [[Livestock, Boils, and Hail]]
 - **Israel leaves from Rameses, in the same district** — Exodus 12:37; Genesis 47:11 calls the
   settlement *"the land of Rameses"*
 - **Joshua 10:41 and 11:16 name a different Goshen** — a region in the south of Canaan — **which is not

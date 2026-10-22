@@ -346,6 +346,11 @@ rule are the conditions the rest of Scripture is set in.
   your borders"* uses *nāgap*, the verb of the Passover's striking (12:23, 27); the land is
   *"corrupted"* with the flood's verb; and judgment begins to discriminate — the swarms fall on Egypt
   and not on Goshen (8:22)
+- [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the fifth, sixth, and seventh plagues.** *"All my
+  plagues against your heart"* (*maggēpōt*, the noun of *nāgap*); *"you would have been cut off from
+  the earth"*; and a hail *"such as has not been in Egypt since the day it was founded"*, rained with
+  fire by the verb of Sodom's judgment (*māṭar*, Genesis 19:24). **Judgment now comes with a warning
+  and a way of escape**, and those who heed it are spared (9:19–21) — [[Fire and Sulfur from the Sky]]
 
 ## Related themes
 

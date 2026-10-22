@@ -111,6 +111,12 @@ has been argued.
   offended human being pronouncing a curse on a third party. The narrator's silence is his standing
   practice — he keeps it over Lamech's boast at 4:23–24 too — but it is worth naming, because a reader
   looking for the passage's verdict will not find one. See [[Noah's Sons and the Curse of Canaan]].
+- **Exodus 9:27, 34 — the confession that relapses.** Pharaoh is the first person in Exodus to say
+  *"I have sinned"* (*ḥāṭāʾtî*), and he says it with Abraham's categories of righteous and wicked.
+  When the hail stops, *"he sinned yet more"*, with the same verb. **The confession is accurate and
+  lasts exactly as long as the danger.** God's hardening (9:12) and Pharaoh's sinning (9:34) stand in
+  the same chapter, and the text does not let either cancel the other. See
+  [[Livestock, Boils, and Hail]].
 - Strands to trace as ingestion reaches them: the sacrificial system as sin's remedy (Leviticus
   4–5, 16); *"Behold, I was born in iniquity"* (Psalm 51:5); the prophets on sin as covenant
   breach rather than ritual failure; Romans 3:23, 5:12–21, 7; James 1:14–15 on desire conceiving
@@ -266,6 +272,11 @@ has been argued.
   the workers of iniquity"* (34:8) and *"adds rebellion to his sin"* (34:37) — *pešaʿ* on top of *ḥaṭṭāʾt*,
   sin before the suffering and rebellion since. And sin cannot touch God: *"If you have sinned, what
   effect do you have against him?"* (35:6), Job's 7:20 returned; it hurts *"a man as you are"* (35:8).
+- [[Livestock, Boils, and Hail]] — Exodus 9:27, 34; **the first confession by Pharaoh, and the
+  relapse.** ***"I have sinned this time. Yahweh is righteous, and I and my people are wicked"*** —
+  *ḥāṭāʾtî happaʿam*. When the hail stops, *"he sinned yet more"* — *wayyōsep laḥăṭōʾ*, the verb of his
+  own confession — *"and hardened his heart"*. **The word for the confession becomes the word for the
+  relapse.** He will confess again at 10:16
 
 ## Related themes
 

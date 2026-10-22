@@ -232,6 +232,11 @@ already did.
   (25:21) — and, at the flies, *"Pray for me"*. Moses lets Pharaoh name the hour, *"cried to Yahweh"*
   with *ṣāʿaq*, and twice ***"Yahweh did according to the word of Moses"***. **Both prayers are
   answered exactly, and both answers are followed by a hardened heart** (WLC)
+- [[Livestock, Boils, and Hail]] — Exodus 9:28–33; **the first spread hands.** Pharaoh asks a third
+  time (*haʿtîrû*, 9:28); Moses answers, *"As soon as I have gone out of the city, I will spread abroad
+  my hands to Yahweh"* — *ʾeprōś ʾet-kappay*, the first description in Scripture of the gesture, which
+  in Genesis through Numbers occurs only here and at 9:33 (WLC). **He prays knowing Pharaoh does *"not
+  yet fear Yahweh God"***, and the storm stops
 
 ## Related themes
 

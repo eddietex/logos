@@ -11,10 +11,10 @@ tags: [connection]
   from the sole of his foot to his head."* — [[The Second Test]]
 - **Deuteronomy 28:35** — *"Yahweh will strike you in the knees, and in the legs, with a sore boil,
   of which you can't be healed, from the sole of your foot to the crown of your head."*
-- **Deuteronomy 28:27** — *"Yahweh will strike you with the boil of Egypt, with the tumors, with the
-  scurvy, and with the itch, of which you can't be healed."*
+- **Deuteronomy 28:27** — *"Yahweh will strike you with the boils of Egypt, with the tumors, with the
+  scurvy, and with the itch, of which you can not be healed."* (WEB, bible-api.com)
 - **Exodus 9:8–11** — the sixth plague: *šəḥîn* breaking out in boils on man and beast throughout
-  Egypt, so that the magicians could not stand before Moses
+  Egypt, so that the magicians could not stand before Moses — [[Livestock, Boils, and Hail]]
 - **Leviticus 13:18–23** — the priest's examination of a *šəḥîn* that has healed and broken out
   again, and the verdict *clean* or *unclean*
 - **2 Kings 20:7 · Isaiah 38:21** — Hezekiah's *šəḥîn*, and the cake of figs
@@ -57,7 +57,8 @@ inverse, and spends forty-two chapters on the gap.**
 **Two further details sharpen the irony.**
 
 **The boil of Egypt was a plague on the oppressor.** Exodus 9:11 has the magicians unable to stand
-because of it. The same affliction, in Job, lands on a man whose only recorded religious activity
+because of it. It came from *"ashes of the furnace"* thrown toward the sky, on *"man and animal,
+throughout all the land of Egypt"*, with no warning and no prayer for its removal (Exodus 9:8–12). The same affliction, in Job, lands on a man whose only recorded religious activity
 is offering burnt offerings on behalf of his children in case they sinned in their hearts
 ([[Job of Uz]]).
 

@@ -267,6 +267,10 @@ what Job is asking for.
   except a warning — *"don't let Pharaoh deal deceitfully any more"* — and is heard both times. **It
   is the first time in Exodus that Moses stands between God and Egypt rather than between God and
   Israel**, as Abraham stood for Abimelech (Genesis 20:7, 17) — [[A Prophet Who Prays - The First Nabi in Scripture]]
+- [[Livestock, Boils, and Hail]] — Exodus 9:27–33; **intercession without illusion.** Moses prays for
+  Pharaoh a third time, after a confession — *"I have sinned this time"* — that he openly doubts: *"I
+  know that you don't yet fear Yahweh God"*. **He mediates anyway, so that the stopping of the storm
+  will teach *"that the earth is Yahweh's"*** — [[A Prophet Who Prays - The First Nabi in Scripture]]
 
 ## Related themes
 

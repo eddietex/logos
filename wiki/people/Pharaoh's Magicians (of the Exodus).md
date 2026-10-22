@@ -52,10 +52,17 @@ Egyptians in the book, and Pharaoh's heart is hardened in the same verse. **They
 the flies.** See [[Frogs, Lice, and Flies]] and
 [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
 
-### What is ahead
+**At the boils they cannot even stand.** ***"The magicians couldn't stand before Moses because of
+the boils; for the boils were on the magicians, and on all the Egyptians"*** (9:11) — *lōʾ-yākəlû …
+laʿămōd lipnê mōšeh*. **This time they do not try to copy the plague at all.** At the lice they
+confessed in words; now the plague is on their own bodies. **Moses and Aaron *"stood before
+Pharaoh"* (9:10), and the magicians cannot stand before Moses.** God then tells Pharaoh, with the same
+verb, *"for this cause I have made you stand"* (9:16).
 
-They cannot stand before Moses because of the boils (9:11). These sections are written as their
-pericopes arrive.
+**This is their last appearance.** *Ḥarṭummîm* does not occur in Exodus after 9:11 (WLC lemma
+search). **They are not dismissed, defeated in a contest, or converted; they simply drop out.** Later
+tradition names two of them (2 Timothy 3:8); see
+[[Jannes and Jambres - The Magicians Who Opposed Moses]]. See [[Livestock, Boils, and Hail]].
 
 ## Timeline / key events
 
@@ -66,6 +73,8 @@ pericopes arrive.
   [[Water Turned to Blood]]
 - Bring up frogs; fail to produce lice; tell Pharaoh *"This is God's finger"* — Exodus 8:7, 18–19,
   [[Frogs, Lice, and Flies]]
+- Struck with the boils; *"couldn't stand before Moses"*; not mentioned again — Exodus 9:11,
+  [[Livestock, Boils, and Hail]]
 
 ## Appears in
 
@@ -75,6 +84,8 @@ pericopes arrive.
   Egypt did the same thing with their enchantments"*
 - [[Frogs, Lice, and Flies]] — Exodus 8:7, 18–19; **the match, the failure, and the confession.** *"This is
   God's finger"*
+- [[Livestock, Boils, and Hail]] — Exodus 9:11; **the exit.** *"The magicians couldn't stand before
+  Moses because of the boils"*
 
 ## Related people
 

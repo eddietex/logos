@@ -241,6 +241,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   land of Egypt"*; the swarms in every house, and *"the land was corrupted"* — *tiššāḥēt hāʾāreṣ*, the
   phrase of Genesis 6:11. **Goshen is cut out of it** (8:22), and Moses refuses to sacrifice *"in the
   land"* because Israel's sacrifice is *"the abomination of the Egyptians"* (8:26)
+- [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the herds, the bodies, and the fields.** *"All
+  the livestock of Egypt died"* (9:6); boils *"on man and on animal, throughout all the land of Egypt"*;
+  a hail *"such as had not been in all the land of Egypt since it became a nation"* — Egypt called a
+  *gôy* — breaking *"every tree of the field"*, the flax and the barley. **Its people divide for the
+  first time** between *"those who feared Yahweh's word"* and those who did not (9:20–21)
 
 ## Related places
 
@@ -307,3 +312,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Exodus 7:14–25, [[Water Turned to Blood]]
 - Frogs, lice, and swarms; Goshen set apart; Pharaoh's first offers — Exodus 8:1–32,
   [[Frogs, Lice, and Flies]]
+- The livestock die, boils break out, and hail and fire strike the fields; Pharaoh's first
+  confession — Exodus 9:1–35, [[Livestock, Boils, and Hail]]

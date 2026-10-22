@@ -249,6 +249,11 @@ everlasting possession, by treaty with its current occupant.
   *"That you may know that there is no one like Yahweh our God"* — the knowledge refrain sharpened to
   incomparability, as at 9:14 and 15:11; the magicians' ***"This is God's finger"***, with *ʾĕlōhîm*, not
   the name; and *"I am Yahweh on the earth"* — *bəqereb hāʾāreṣ*, *in the midst of the land*
+- [[Livestock, Boils, and Hail]] — Exodus 9:14, 16, 28–30; **the name for all the earth.** *"That you
+  may know that there is no one like me in all the earth"*; *"that my name may be declared throughout
+  all the earth"* (quoted in Romans 9:17); the thunder as *qōlōt ʾĕlōhîm*, *voices of God*; *"the earth
+  is Yahweh's"*; and ***YHWH ʾĕlōhîm***, *"Yahweh God"* (9:30), in the absolute form found elsewhere in
+  Genesis and Exodus only in Genesis 2–3 (WLC)
 
 ## Related themes
 

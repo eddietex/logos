@@ -89,6 +89,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   20:11); Joseph claimed it (42:18); Job embodied it (Job 1:1). **[[Shiphrah and Puah]] are the first
   in whom it is civil disobedience**: they fear God, and so do not fear the king. The reward —
   *bāttîm*, households — is the thing the king meant to prevent. See [[The Oppression in Egypt]].
+- **Exodus 9:20, 30 — Pharaoh's servants, and Pharaoh.** At the warning of hail, *"those who feared
+  Yahweh's word among the servants of Pharaoh"* bring their people and animals indoors and are spared;
+  **the fear of God now runs through Pharaoh's own court.** Pharaoh confesses *"I have sinned"* but
+  Moses tells him, *"I know that you don't yet fear Yahweh God"*, and the confession does not last
+  (9:34). **Confession without fear is shown failing.** See [[Livestock, Boils, and Hail]].
 
 ## Key passages
 
@@ -256,6 +261,12 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   turned the other way**: there it made Moses run from Pharaoh, here it makes him stay and cover his
   face. It is the fear of holiness, not of punishment — the ground has just been called holy — and it
   anticipates *"man may not see me and live"* (33:20)
+- [[Livestock, Boils, and Hail]] — Exodus 9:20–21, 30; **the fear that saves, found in Pharaoh's
+  court.** ***"Those who feared Yahweh's word among the servants of Pharaoh made their servants and
+  their livestock flee into the houses"*** — the first Egyptians in Exodus said to fear Yahweh, and
+  spared by it; the rest *"didn't respect Yahweh's word"*, literally *did not set their heart* on it.
+  And Moses to Pharaoh, after his confession: *"I know that you don't yet fear Yahweh God"* —
+  **confession without fear, which lasts only until the storm stops** (9:34)
 
 ## Related themes
 

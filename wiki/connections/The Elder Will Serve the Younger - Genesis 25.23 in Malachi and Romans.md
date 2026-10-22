@@ -13,7 +13,9 @@ tags: [connection]
 - **Malachi 1:2–3** — *"'Wasn't Esau Jacob's brother?' says Yahweh. 'Yet I loved Jacob; but Esau I
   hated, and made his mountains a desolation, and gave his heritage to the jackals of the
   wilderness.'"* — spoken to post-exilic Judah, roughly fifteen hundred years later
-- **Romans 9:10–13** — Paul quotes **both**, in that order, as one argument
+- **Romans 9:10–13** — Paul quotes **both**, in that order, as one argument; his next Torah examples
+  are Moses (Exodus 33:19) and Pharaoh (Exodus 9:16), at 9:15–18 —
+  [[For This Very Purpose - Exodus 9.16 in Romans 9.17]]
 - 2 Samuel 8:13–14; 1 Kings 11:14–22; 2 Kings 8:20–22 — the political relation the oracle forecast,
   established and then lost
 - Genesis 27:29, 37, 40 — Isaac's blessing over Jacob (*"Be lord over your brothers"*) and the

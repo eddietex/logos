@@ -133,6 +133,11 @@ These are not exclusive, and the third is the one the text argues for by itself.
   of Miriam's punishment (Numbers 12:10) and Gehazi's (2 Kings 5:27). **Moses' is the only such hand in
   Scripture with no fault attached** — a sign that the God who sends him makes clean and unclean at
   will
+- [[Livestock, Boils, and Hail]] — Exodus 9:9–11; ***šəḥîn***, *"a boil breaking out with boils"*, on
+  man and animal. **The same word is the boil the priest examines in Leviticus 13:18–23**, where a
+  healed *šəḥîn* can turn into *ṣāraʿat* (WLC), and the *"painful sores"* of Job 2:7. Exodus does not
+  call the boils unclean; the link is the word —
+  [[The Boil of Deuteronomy 28 on a Blameless Man]]
 
 ## Related themes
 

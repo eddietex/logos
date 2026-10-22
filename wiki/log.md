@@ -11942,3 +11942,97 @@ Lemma searches of Genesis and Exodus (with Leviticus and Numbers where stated): 
   - `wiki/index.md`: 102 passages, 295 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 9.1-35 — Livestock, Boils, and Hail
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *Livestock, Boils, and
+Hail — Exodus 9:1–35*. The boundary was kept as planned, and the reason is given on the passage
+page. There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[Livestock, Boils, and Hail]] covers:
+
+- 9:1–7: *yad-YHWH* with no rod; *deber* (5:3); *pālâ*; *môʿēd*; *lōʾ-mēt ʾeḥād*. It also records the
+  "all the livestock died" tension with 9:9, 19–21 and 12:29, without resolving it.
+- 9:8–12: *pîaḥ kibšān* (Sodom's and Sinai's furnace); *ʾābāq*; *šəḥîn* (Leviticus 13; Job 2:7). The
+  magicians' exit and the *ʿāmad* thread (9:10, 11, 16, 28). **The first narrated hardening by
+  Yahweh** (9:12).
+- 9:13–21: *maggēpōt*; *heʿĕmadtîkā* and Romans 9:17; *mistôlēl*; *māṭar* (Genesis 2:5; 7:4; 19:24;
+  Exodus 16:4); the first warning with a way of escape; the God-fearing servants of Pharaoh.
+- 9:22–26: *qōlōt* (Sinai); fire with the hail; Egypt as *gôy*; *ʿēśeb haśśādeh* (Genesis 2:5);
+  Goshen.
+- 9:27–35: *ḥāṭāʾtî happaʿam*; *ṣaddîq*/*rəšāʿîm* (Genesis 18:23–25); Moses' spread palms; *"the
+  earth is Yahweh's"*; *YHWH ʾĕlōhîm*; *ʾābîb*; *wayyōsep laḥăṭōʾ*; the servants hardened;
+  *bəyad-mōšeh*.
+
+### Judgment calls
+
+- **One new connection:** [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] (quotation). No claim
+  is made about the Greek of Romans or the Septuagint of Exodus 9:16. Differences are reported only as
+  they appear between the two WEB texts.
+- **No new person or place pages.** *Pharaoh's servants* and *"the city"* (9:29, 33) stay unpaged.
+- **The order of the hardening statements** (forecast, no agent, Pharaoh, Yahweh) comes from a WLC
+  search of Exodus. It agrees with what [[Hardening of the Heart]] already said, so no contradiction
+  needed flagging. No theological reading is adopted.
+- ***YHWH ʾĕlōhîm* at 9:30** is reported as a search result: it is the only occurrence of the name
+  with absolute *ʾĕlōhîm* in Genesis and Exodus outside Genesis 2–3. The echo of the garden is
+  recorded as a reading.
+- **The furnace/brick-kiln link and the *mistôlēl* etymology** (*sālal*, heap up) are flagged on the
+  page: the first as a reading, the second as unverified lexicon data.
+- **Correction to [[The Boil of Deuteronomy 28 on a Blameless Man]]:** Deuteronomy 28:27 was quoted as
+  *"the boil of Egypt … can't be healed"*. The WEB at bible-api.com reads *"the boils of Egypt … can not
+  be healed"*. Fixed.
+- **Correction made while drafting, before commit:** Genesis 1:14 is *"let them be for signs to mark
+  seasons"* in the WEB, not *"for signs, and for seasons"*.
+- **Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+  (`translation=web`), with no bulk fetch: Romans 9:14–19, 22; Psalm 24:1; 78:47–48; 105:32–33;
+  Deuteronomy 28:27; Revelation 16:21. No claim is made about their Hebrew or Greek.
+
+### Sources
+
+Genesis, Exodus, and Job texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):**
+
+- All of Exodus 9; Job 2:7.
+
+Lemma searches of Genesis and Exodus (with Leviticus and Numbers where stated): *kibšān*, *šəḥîn*,
+*māṭar*, *kāḥad*, *ʾăbaʿbuʿōt*, *ʾābāq*, *deber*, *pāraś*, *ḥādal*, *ʾābîb*, *pištâ*, *śəʿōrâ*,
+*ṣaddîq*, *sālal*, *maggēpâ*, *qôl*, *bārād*, *kāmôhû*, *môʿēd*, *pîaḥ*, *ḥarṭōm*, *yāsad*, *zāraq*,
+*ḥāṭāʾ*. Also *lēb* with *ḥāzaq*/*kābēd*/*qāšâ*, *YHWH* + absolute *ʾĕlōhîm*, and *bəyad mōšeh*.
+
+### Pages created or revised
+
+- **Created (2):** the passage page; one connection (above).
+- **People revised (5):** [[Moses]], [[Aaron]], [[God]], [[Pharaoh (of the Exodus)]], and
+  [[Pharaoh's Magicians (of the Exodus)]]. Each got synthesis; for the magicians, their exit.
+- **Places revised (2):** [[Egypt]] and [[Goshen]].
+- **Themes revised (13):**
+  - Key passages plus development: [[The Fear of God]], [[Sin]], and [[Righteousness]].
+  - Key passages: [[Hardening of the Heart]] (with its Romans line linked), [[Signs and Wonders]],
+    [[Judgment]], [[Prayer]], [[Mediation and Advocacy]], [[The Names of God]],
+    [[Call and Election]], [[Creation]], [[Pride and Self-Exaltation]], and [[Clean and Unclean]].
+- **Connections revised (8):**
+  - [[Fire and Sulfur from the Sky]] — a new section on *māṭar* and the hail.
+  - [[The Boil of Deuteronomy 28 on a Blameless Man]] — the correction above, and the link.
+  - [[Shall Not the Judge of All the Earth Do Right]] — 9:27.
+  - [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] — 9:14–30.
+  - [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] — the exit.
+  - [[A Prophet Who Prays - The First Nabi in Scripture]] — the third intercession.
+  - [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] — 9:29; 19:5.
+  - [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] — Romans 9:15–18.
+- **Passages revised (3):**
+  - [[Frogs, Lice, and Flies]] — its 9:4, 14, 28 cross-reference is now linked.
+  - [[Bricks Without Straw]] — *deber*, linked.
+  - [[The Second Test]] — a cross-reference to the boils.
+- **Book page:** box checked; the plague structure note covers chapter 9; key themes +2 ([[Sin]],
+  [[Righteousness]]); the magicians' and Goshen's key lines extended.
+- **Indexes:**
+  - books: Exodus 12 / 53.
+  - people: 5 rows extended (the magicians' summary too).
+  - places: 2 rows (Goshen's summary extended). themes: 13 rows.
+  - connections: 1 row added in [[Connections Index D-H]]; 6 rows' references extended.
+  - `wiki/index.md`: 103 passages, 296 connections.
+
+`scripts/link-check.sh` is clean.

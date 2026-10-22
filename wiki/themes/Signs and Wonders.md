@@ -81,6 +81,11 @@ one.
   flies the sign becomes a distinction**: *"I will put a division between my people and your people: by
   tomorrow shall this sign be"* (8:23) — the first plague that falls on Egypt and not on Goshen, and the
   first done with no rod at all — [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]
+- [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the plagues reach life and body.** The pestilence
+  needs no rod — *"Yahweh's hand"* (9:3) — and keeps the distinction to the last animal; the boils
+  remove the magicians from the story (*"couldn't stand before Moses"*, 9:11); the hail is the first
+  sign announced with a way of escape (9:19), and its purpose is the widest yet: *"that my name may be
+  declared throughout all the earth"* (9:16)
 
 ## Related themes
 

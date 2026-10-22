@@ -251,6 +251,8 @@ words*. **Chapter 3 begins eleven verses later.**
   the accuser has now conceded was not the point.
 - [[The Boil of Deuteronomy 28 on a Blameless Man]] — Job 2:7 beside Deuteronomy 28:27, 35;
   Exodus 9:8–11; Leviticus 13:18–23.
+- [[Livestock, Boils, and Hail]] — Exodus 9:8–11, the *šəḥîn* of the sixth plague, on *"man and on
+  animal, throughout all the land of Egypt"*.
 - [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] — Job 2:10 beside Isaiah
   45:7, Lamentations 3:37–38, Amos 3:6, Deuteronomy 32:39, Ecclesiastes 7:14.
 - [[Sitting in Dust and Ashes]] — Job 2:8 and 42:6 beside Genesis 18:27, Esther 4:1–3, Jonah 3:6,

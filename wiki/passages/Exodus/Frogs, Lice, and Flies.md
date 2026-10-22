@@ -437,8 +437,10 @@ mouth: *"For this time I will send all my plagues against your heart"* (*bappaʿ
 - Exodus 5:2, 8, 15, 21 — *"I don't know Yahweh"*; *"they cry"*; *"a stench"* —
   [[Bricks Without Straw]]
 - Exodus 7:14–25 — the blood; *kābēd*; the morning at the water — [[Water Turned to Blood]]
-- Exodus 9:4, 14, 28; 10:8–11, 17–18, 24–26; 11:7 — the distinction, *"no one like me"*, Pharaoh's
-  later prayers and offers *(not yet ingested)*
+- Exodus 9:4, 14, 28 — the distinction again, *"no one like me in all the earth"*, *"Pray to Yahweh"* —
+  [[Livestock, Boils, and Hail]]
+- Exodus 10:8–11, 17–18, 24–26; 11:7 — Pharaoh's later prayers and offers; the distinction *(not yet
+  ingested)*
 - Exodus 12:23, 27, 34 — *nāgap* and *mašḥît* at the Passover; the kneading troughs *(not yet
   ingested)*
 - Exodus 14:13, 28; 15:11 — *"stand still"*; *"There remained not so much as one"*; *"Who is like you,

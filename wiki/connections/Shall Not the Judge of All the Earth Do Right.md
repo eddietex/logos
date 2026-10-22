@@ -14,6 +14,10 @@ tags: [connection]
 - **Genesis 20:4** — Abimelech, two chapters later and from outside the covenant: *"Lord, will you
   kill even a righteous nation?"* — the same appeal, made by a foreigner about his own kingdom, and
   conceded in the first clause of the reply. See [[Abraham and Abimelech]].
+- **Exodus 9:27** — Pharaoh under the hail: *"I have sinned this time. Yahweh is righteous, and I and
+  my people are wicked."* — **Abraham's two categories, *ṣaddîq* and *rāšāʿ*, used by a king to judge
+  himself**, and the first *ṣaddîq* in Exodus (WLC). The confession does not last (9:34). See
+  [[Livestock, Boils, and Hail]].
 - **Exodus 32:9–14** — Moses at Sinai: *"Why should the Egyptians speak, saying, 'He brought them
   out for evil…'? Turn from your fierce wrath"* — and *"Yahweh repented of the evil which he said he
   would do to his people."*

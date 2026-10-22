@@ -19,6 +19,8 @@ tags: [connection]
   [[Aaron's Staff Before Pharaoh]]
 - **Exodus 8:8–13, 28–31** — Pharaoh: *"Entreat Yahweh"*; *"Pray for me"* — and *"Yahweh did according
   to the word of Moses"*: **Moses praying for a foreign king, as Abraham did** — [[Frogs, Lice, and Flies]]
+- **Exodus 9:27–33** — *"Pray to Yahweh"* a third time, after *"I have sinned"*; Moses *"spread abroad
+  his hands to Yahweh"*, knowing Pharaoh does *"not yet fear"* — [[Livestock, Boils, and Hail]]
 - **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh relented from the evil which he
   said he would do to his people"*
 - **Numbers 12:6–8; 14:13–20** — prophecy defined by dream and vision, with Moses as the exception,
@@ -124,6 +126,12 @@ and *"Pray for me"* (8:28) — and does, and *"Yahweh did according to the word 
 for relief from a plague God sent on that king's house.** The verbs differ — Abraham *hitpallēl*,
 Moses *ʿātar* and *ṣāʿaq* (WLC) — and the outcomes differ: Abimelech returned Sarah; Pharaoh hardens
 his heart. See [[Frogs, Lice, and Flies]].
+
+**At the hail it happens a third time, and with less hope.** Pharaoh confesses, *"I have sinned this
+time"*, and asks again (*haʿtîrû*, 9:28). Moses agrees, and says to his face, *"I know that you don't yet
+fear Yahweh God"* (9:30). **The intercessor does not wait for the king to be sincere**; he prays so that
+*"you may know that the earth is Yahweh's"* (9:29), spreading his palms (*pāraś kappayim*) outside the
+city, and the storm stops (9:33). See [[Livestock, Boils, and Hail]].
 
 ### The New Testament's move
 

@@ -24,7 +24,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]] | literary-parallel | Job 20:29 · Job 27:13–23 · Job 21:7–18, 28 · Job 18:21 · Job 5:27 |
 | [[Possess the Gate of Those Who Hate Them]] | parallel | Genesis 22:17 · Genesis 24:60 · Ruth 4:11–12 |
 | [[The Priests Who Kept Their Land and the Levites Who Got None]] | parallel | Genesis 47:22, 26 · Numbers 18:20–24 · Numbers 35:1–8 · Deuteronomy 10:9; 18:1–2 · Joshua 13:14, 33 · Joshua 21 |
-| [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 7:1 · Exodus 8:8–13, 28–31 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
+| [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 7:1 · Exodus 8:8–13, 28–31 · Exodus 9:27–33 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
 | [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Job 22:17–18 · Job 24:1–24 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 · Job 11:20 · Job 12:6 · Job 21:13, 32 · Job 27:13–23 |
 | [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] | prophecy → fulfillment | Genesis 3:15 · Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · Revelation 12 |
 | [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |
@@ -44,7 +44,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
 | [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |
 | [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]] | allusion | Genesis 4:15 · Genesis 4:23–24 · Matthew 18:21–22 |
-| [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 |
+| [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 9:27 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 |
 | [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] | thread | Job 2:10 · Job 1:21 · Isaiah 45:7 · Lamentations 3:37–38 · Amos 3:6 · Deuteronomy 32:39 · 1 Samuel 2:6–7 · Ecclesiastes 7:14 · Genesis 50:20 · 2 Corinthians 12:7–9 |
 | [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Amos 3:12 · John 10:11–13 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |

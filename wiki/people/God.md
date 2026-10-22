@@ -1470,6 +1470,25 @@ mark Israel off at 9:4, 11:7, and 33:16. *"To the end you may know that I am Yah
 or *in the midst of the land*. See [[Frogs, Lice, and Flies]] and
 [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
 
+### He hardens Pharaoh, and says why Pharaoh is still standing — Exodus 9:1–35
+
+**He strikes with his own hand.** At the pestilence no rod is used: *"Yahweh's hand is on your
+livestock"* (9:3). He sets the time himself, *"Tomorrow"* (9:5), and keeps the distinction between
+Israel's herds and Egypt's to the last animal (9:4, 6–7). **After the boils, for the first time, the
+narrator names him as the one who hardens**: ***"Yahweh hardened the heart of Pharaoh"*** (9:12).
+**Then he explains himself to the man he is hardening.** The pestilence could have been for Pharaoh,
+*"but indeed for this cause I have made you stand: to show you my power, and that my name may be
+declared throughout all the earth"* (9:16). The purpose is now the whole earth hearing, not only
+Pharaoh knowing, and Paul cites the verse for God's freedom to harden (Romans 9:17–18). **He gives
+the first warning with a way of escape** (9:19), and some of Pharaoh's own servants fear his word and
+are spared (9:20). He *"rains"* hail and fire (*māṭar*, 9:18, 23), the verb used for the rain he held
+back in Genesis 2:5, the flood (Genesis 7:4), Sodom's fire (Genesis 19:24), and the manna to come
+(Exodus 16:4). Pharaoh calls the thunder *qōlōt ʾĕlōhîm*, *voices of God* (9:28), the *qōlōt* of Sinai
+(19:16). **Moses is told he will stop the storm *"that you may know that the earth is Yahweh's"***
+(9:29), and the name he uses for him, ***YHWH ʾĕlōhîm***, *"Yahweh God"* (9:30), is the garden's
+name, found in that absolute form nowhere else in Genesis or Exodus outside Genesis 2–3 (WLC). See
+[[Livestock, Boils, and Hail]] and [[For This Very Purpose - Exodus 9.16 in Romans 9.17]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1645,6 +1664,9 @@ or *in the midst of the land*. See [[Frogs, Lice, and Flies]] and
   the Nile and all the waters of Egypt to blood — Exodus 7:14–25, [[Water Turned to Blood]]
 - Sends frogs, lice, and swarms; does *"according to the word of Moses"*; sets Goshen apart —
   Exodus 8:1–32, [[Frogs, Lice, and Flies]]
+- Strikes Egypt's livestock with his own hand; hardens Pharaoh's heart (the first narrated time); says
+  *"for this cause I have made you stand"*; rains hail and fire on Egypt and spares Goshen — Exodus
+  9:1–35, [[Livestock, Boils, and Hail]]
 
 ## Appears in
 
@@ -1988,6 +2010,9 @@ or *in the midst of the land*. See [[Frogs, Lice, and Flies]] and
   stubborn"*; *"In this you shall know that I am Yahweh"*; *"after Yahweh had struck the river"*
 - [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the answered prayer, and the division.** *"No one like
   Yahweh our God"*; *"God's finger"*; *"I will set apart … the land of Goshen"*
+- [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the hardening named as his, and the purpose
+  stated.** *"Yahweh's hand"*; *"Yahweh hardened the heart of Pharaoh"*; *"that my name may be
+  declared throughout all the earth"*; *"the earth is Yahweh's"*
 
 ## Related people
 

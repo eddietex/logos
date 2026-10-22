@@ -15,6 +15,8 @@ tags: [connection]
   exception
 - **Leviticus 25:39–43** — an Israelite sold for debt is not to be made a slave, *"for they are my
   servants"*
+- Compare **Exodus 9:29; 19:5** — Moses to the king who owns Egypt's fields: *"that you may know that
+  the earth is Yahweh's"*; and at Sinai, *"for all the earth is mine"* — [[Livestock, Boils, and Hail]]
 - Compare **Genesis 23:3–20** — the only land Abraham ever bought, and he bought it for a grave —
   [[Nahor's Line and the Burial of Sarah]]
 - Compare **Numbers 27:1–11; 36:1–12** — the daughters of Zelophehad, and keeping an inheritance

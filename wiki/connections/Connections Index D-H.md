@@ -25,7 +25,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
-| [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
+| [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
@@ -36,7 +36,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
 | [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 |
-| [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
+| [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
@@ -44,6 +44,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
+| [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Romans 9:14–19, 22 · Exodus 33:19 |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 |
 | [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 |
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
