@@ -12,6 +12,8 @@ tags: [connection]
 - **Exodus 6:2–13** — in Egypt, after the failed audience: the name, the patriarchs, the groaning
   heard, the promise of land, the commission to Pharaoh, one objection, and no sign —
   [[I Am Yahweh]]
+- **Exodus 6:14–27** — the genealogy that interrupts it, placing Moses and Aaron in Levi's line —
+  [[The Heads of the Fathers' Houses]]
 - **Exodus 6:28–7:7** — the second commission's resumption after the genealogy: the objection
   repeated, and Aaron given as Moses' prophet *(not yet ingested)*
 

@@ -105,7 +105,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Not from the Daughters of the Canaanites]] | thread | Genesis 24:3–4 · Genesis 27:46–28:2 · Deuteronomy 7:1–4 · 1 Kings 11:1–8 · Ezra 9–10 · Ruth 1:16–17 · 2 Corinthians 6:14 |
 | [[Gathered to His People]] | parallel | Genesis 25:8 · Genesis 25:17 · Genesis 35:29 · Genesis 49:29, 33 · Numbers 20:24 · Deuteronomy 32:50 |
 | [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]] | prophecy → fulfillment | Genesis 15:15 · Genesis 25:7–10 · Genesis 47:9 · Job 42:17 · Hebrews 11:13 |
-| [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 |
+| [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 · Exodus 6:16, 19 |
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
@@ -122,7 +122,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[I Will Be With You - The Promise of Presence]] | thread | Genesis 26:3, 24 · Genesis 28:15 · Genesis 39:2, 21 · Exodus 3:12 · Joshua 1:5 · Judges 6:16 · Isaiah 41:10; 43:2 · Jeremiah 1:8 · Haggai 1:13 · Matthew 1:23; 28:20 · Hebrews 13:5 |
 | [[The Pillar Jacob Raised and the Pillars the Law Forbids]] | tension | Genesis 28:18, 22 · Genesis 31:45 · Genesis 35:14, 20 · Exodus 24:4 · Leviticus 26:1 · Deuteronomy 16:22 · Joshua 24:26–27 · 2 Kings 18:4 · Isaiah 19:19 |
 | [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 |
-| [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] | law-and-narrative | Genesis 29:23–30 · Genesis 30:1–24 · Leviticus 18:18 · Genesis 20:12 · Exodus 6:20 |
+| [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] | law-and-narrative | Genesis 29:23–30 · Genesis 30:1–24 · Leviticus 18:18 · Genesis 20:12 · Exodus 6:20 · Leviticus 18:14 · Leviticus 20:20 |
 | [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] | law-and-narrative | Genesis 29:30–33 · Genesis 35:22 · Genesis 49:3–4 · Deuteronomy 21:15–17 · 1 Chronicles 5:1–2 · Malachi 1:2–3 · Romans 9:13 |
 | [[Like Rachel and Like Leah - The Builders of the House of Israel]] | quotation | Genesis 29:16–30 · Genesis 35:16–20 · Genesis 49:31 · Ruth 4:11–12 · Jeremiah 31:15 · Matthew 2:18 |
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
@@ -141,7 +141,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
-| [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] | thread | Genesis 34:13–31 · Genesis 49:5–7 · Exodus 32:26–29 · Numbers 25:6–13 · Deuteronomy 33:8–11 · Joshua 19:1, 9 · Numbers 26:14 · Numbers 35:1–8 |
+| [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] | thread | Genesis 34:13–31 · Genesis 49:5–7 · Exodus 32:26–29 · Numbers 25:6–13 · Deuteronomy 33:8–11 · Joshua 19:1, 9 · Numbers 26:14 · Numbers 35:1–8 · Exodus 6:16–25 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
 | [[Renamed and Still Called Jacob - The Two Namings of Israel]] | parallel | Genesis 32:28 · Genesis 35:9–10 · Genesis 17:5, 15 · Genesis 35:21–22 · Genesis 46:2 · Hosea 12:2–4 · Genesis 45:21, 27–28 |
 | [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] | prophecy → fulfillment | Genesis 35:19–20 · Genesis 48:7 · 1 Samuel 10:2 · Jeremiah 31:15–17 · Matthew 2:16–18 · Ruth 4:11 |
@@ -156,7 +156,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
 | [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
-| [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 |
+| [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 · Genesis 45:22, 27 |
 | [[Sin Against God - Joseph at 39.9 and David at Psalm 51]] | thread | Genesis 20:6, 9 · Genesis 39:9 · Genesis 42:22; 44:16 · Exodus 20:14 · 2 Samuel 12:13 · Psalm 51:4 · Luke 15:18, 21 |
 | [[Do Not Interpretations Belong to God - Joseph and Daniel]] | parallel | Genesis 40:5–8 · Genesis 41:8, 15–16, 25, 38–39 · Genesis 42:23 · Daniel 1:17–20 · Daniel 2:1–11, 27–30, 47 · Daniel 4:4–9 · Daniel 5:7–12 |
@@ -291,4 +291,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] | thread | Exodus 1:8 · Exodus 2:25; 3:7 · Exodus 5:2 · Exodus 6:3, 7 · Exodus 7:5, 17; 8:10, 22; 9:14, 29; 10:2; 11:7 · Exodus 14:4, 18 · Exodus 18:11 · Job 21:14–15 · Proverbs 30:9 |
 | [[I Will Take You as My People - The Covenant Formula]] | thread | Genesis 17:7–8 · Exodus 6:7 · Exodus 29:45–46 · Leviticus 26:12 · Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33 · Ezekiel 11:20; 36:28; 37:27 · 2 Corinthians 6:16 · Hebrews 8:10 · Revelation 21:3 |
 | [[Uncircumcised Lips, Ears, and Heart]] | motif | Genesis 17:14 · Exodus 4:24–26 · Exodus 6:12, 30 · Exodus 12:48 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Acts 7:51 · Romans 2:28–29 |
-| [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 |
+| [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 · Exodus 6:14–27 |
+| [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · Numbers 3:17–20 · Numbers 26:57–61 · 1 Chronicles 6 |
+| [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |

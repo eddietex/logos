@@ -190,6 +190,9 @@ the others.
 - [[I Am Yahweh]] — Exodus 6:7, 10–13; ***"I will take you to me for a people"*** — **the election
   of a nation in a sentence**, with *lāqaḥ*, the verb of taking a wife. Moses' call is repeated
   without a sign, and Aaron is joined to it in the command — [[Two Commissions - Exodus 3 and Exodus 6]]
+- [[The Heads of the Fathers' Houses]] — Exodus 6:26–27; **the called men placed in Israel's order.** The list answers
+  *who are these two?* with a family tree, and names them twice, *"Aaron and Moses"* in the order of
+  birth and *"Moses and Aaron"* in the order of the commission
 
 ## Related themes
 

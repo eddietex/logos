@@ -80,6 +80,8 @@ their pericopes arrive.
   without straw; *"You are idle!"*; and God's *"Now you shall see what I will do to Pharaoh"*
 - [[I Am Yahweh]] — Exodus 6:6–13; **offstage, and answered.** *"Great judgments"*; *"from under the
   burdens"*; and Moses' *"How then shall Pharaoh listen to me?"*
+- [[The Heads of the Fathers' Houses]] — Exodus 6:27; **the audience that defines them.** Moses and Aaron are *"those
+  who spoke to Pharaoh king of Egypt"*, *hamədabbərîm*, a participle for what has barely begun
 
 ## Related people
 

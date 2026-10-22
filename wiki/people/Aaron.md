@@ -57,10 +57,19 @@ alone, to send him to meet Moses (4:27). Here the command is given to the two of
 directly after Moses' objection that he has *"uncircumcised lips"* (6:12). The command is not
 explained, and it does not answer the objection; it adds a second person to it. See [[I Am Yahweh]].
 
+**The genealogy of 6:14–27 names his family and puts him first.** He is Amram and Jochebed's elder
+son (6:20), and the list gives him what it gives no one else: a wife with a full pedigree,
+[[Elisheba]], *"the daughter of Amminadab, the sister of Nahshon"* — a woman of Judah's leading house
+(6:23); four sons, [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], and [[Ithamar]];
+and a grandson, [[Phinehas (son of Eleazar)]] (6:25). **Moses' wife and sons are not in the list.**
+Then the two brothers are named in both orders: *"These are that Aaron and Moses"* (6:26), the birth
+order, and *"These are that Moses and Aaron"* (6:27), the order of the commission. **It is a priestly
+pedigree before Exodus has said anything about priests.** See [[The Heads of the Fathers' Houses]] and
+[[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]].
+
 ### What is ahead
 
-The rod that becomes a *tannîn* (7); the genealogy that names his parents, his wife Elisheba,
-and his sons (6:20–25); the plagues; Sinai, where he goes up with the elders (24); the priestly
+The rod that becomes a *tannîn* (7); the plagues; Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -76,6 +85,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   [[Bricks Without Straw]]
 - Commanded by Yahweh together with Moses for the first time, to bring Israel out — Exodus 6:13,
   [[I Am Yahweh]]
+- Named in the genealogy as Amram's elder son; married to Elisheba of Judah; father of four sons and
+  grandfather of Phinehas; named first at 6:26 — Exodus 6:20–27, [[The Heads of the Fathers' Houses]]
 
 ## Appears in
 
@@ -87,6 +98,9 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   Pharaoh — every verb is plural — and is cursed with him; absent from the complaint to God
 - [[I Am Yahweh]] — Exodus 6:13; **addressed for the first time with Moses.** Named in the command,
   given after Moses' *"uncircumcised lips"*, to both the people and Pharaoh
+- [[The Heads of the Fathers' Houses]] — Exodus 6:20, 23, 25–27; **the pedigree of the priesthood.** Elder son of Amram
+  and Jochebed; husband of Elisheba, sister of Nahshon; father of Nadab, Abihu, Eleazar, and Ithamar;
+  named before Moses in the genealogy's order and after him in the commission's
 
 ## Related people
 
@@ -96,6 +110,10 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Levi]] — his tribe
 - [[God]] — who names him, and will make him priest
 - [[Pharaoh (of the Exodus)]] — before whom he and Moses first stand (5:1)
+- [[Elisheba]] — his wife, daughter of Amminadab and sister of [[Nahshon]] (6:23)
+- [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], [[Ithamar]] — his sons (6:23)
+- [[Phinehas (son of Eleazar)]] — his grandson (6:25)
+- [[Korah (son of Izhar)]] — his first cousin (6:21)
 
 ## Themes associated
 
@@ -106,3 +124,4 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Priesthood]]
 - [[Signs and Wonders]]
 - [[Faith]]
+- [[Marriage]]

@@ -15,7 +15,11 @@ tags: [connection]
 - **Genesis 30:1–24** — the rivalry itself: two sisters, two slaves, and eleven sons
 - **Genesis 35:16–20; 49:31** — one sister buried on a road, the other at Machpelah
 - Compare **Genesis 20:12** — Abraham marries his half-sister, which Leviticus 18:9 also forbids
-- Compare **Exodus 6:20** — Amram marries his father's sister, which Leviticus 18:12 also forbids
+- Compare **Exodus 6:20** — Amram marries his father's sister, which Leviticus 18:12 also forbids —
+  [[The Heads of the Fathers' Houses]]. The Hebrew word is *dōdātô*, *his aunt*; in Leviticus *dōdâ* names an uncle's wife
+  (18:14; 20:20), also forbidden, and the father's sister is *ʾăḥôt-ʾābîkā* (18:12) (WLC). WEB's
+  *"father's sister"* follows Numbers 26:59. **On either reading the marriage is inside a forbidden
+  degree** (note added 2026-10-22)
 
 ## Analysis
 

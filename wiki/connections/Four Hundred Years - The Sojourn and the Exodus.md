@@ -12,7 +12,8 @@ tags: [connection]
   generation they will come here again."* See [[The Covenant Between the Pieces]].
 - **Exodus 12:40–41** — *"Now the time that the children of Israel lived in Egypt was four hundred
   thirty years."*
-- **Exodus 6:16–20** — Levi, Kohath, Amram, Moses: four names between the descent and the exodus.
+- **Exodus 6:16–20** — Levi, Kohath, Amram, Moses: four names between the descent and the exodus,
+  with three lifespans — Levi 137, Kohath 133, Amram 137 — [[The Heads of the Fathers' Houses]]
 - **Exodus 2:1; Numbers 26:59** — Moses' mother *"a daughter of Levi"*, which Numbers reads
   literally: *"Jochebed, the daughter of Levi, who was born to Levi in Egypt"* —
   [[The Birth of Moses]], [[Jochebed]]
@@ -134,6 +135,13 @@ Egyptians."* See [[Not a Thread nor a Sandal Strap]].
 They will afflict them"* — *ʿābad* and *ʿānâ* — become *"to afflict them with their burdens"* (1:11)
 and *ʿābad* five times in 1:13–14. The chapter gives no date and no king's name; the *Raamses* of 1:11
 is the evidence the late-date argument above rests on.
+
+**Added with the ingest of Exodus 6:14–27 (2026-10-22).** The genealogy itself is now in the wiki. It
+gives lifespans only for the three men from Jacob's son to Moses' father, and none for Moses (Moses
+is eighty at 7:7). **The four names fit Genesis 15:16's *"fourth generation"* if Levi is counted
+first; counting from Kohath, who entered Egypt (Genesis 46:11), the fourth is Moses' sons' generation,
+or Eleazar's** — the generation that, in Numbers, enters the land. The wiki notes both counts and
+adopts neither. See [[The Heads of the Fathers' Houses]].
 
 ## Significance
 

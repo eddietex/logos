@@ -87,8 +87,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   *bring out*, *rescue* (the verb Moses said he had not kept), *redeem*, *take you to me for a
   people*, *be to you a God*, *bring in*, *give*. **Israel does not listen, *"for anguish of
   spirit"*** (6:9); Moses calls himself *"of uncircumcised lips"*; and God, without answering,
-  commands Moses and Aaron together (6:13). See [[I Am Yahweh]]. Then the genealogy of Moses and
-  Aaron, and the staff that becomes a serpent.
+  commands Moses and Aaron together (6:13). See [[I Am Yahweh]]. **Then the story stops for a
+  genealogy**: headed for all Israel's *"fathers' houses"*, it gives Reuben and Simeon a verse each,
+  spends ten on Levi, follows Kohath's line to Amram, who married his aunt Jochebed, and to *"Aaron and
+  Moses"*, and carries Aaron's line — a wife from Judah's leading house, four sons — to Phinehas. **Moses'
+  own sons are not in it.** It closes by naming the brothers in both orders (6:26–27). See
+  [[The Heads of the Fathers' Houses]]. Then the staff that becomes a serpent.
 - **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
@@ -128,7 +132,7 @@ for unit.
 
 - [x] [[Bricks Without Straw]] — Exodus 5:1–6:1
 - [x] [[I Am Yahweh]] — Exodus 6:2–13
-- [ ] The Heads of the Fathers' Houses — Exodus 6:14–27
+- [x] [[The Heads of the Fathers' Houses]] — Exodus 6:14–27
 - [ ] Aaron's Staff Before Pharaoh — Exodus 6:28–7:13
 
 ### The plagues (7:14–11)
@@ -228,6 +232,9 @@ for unit.
 - [[Pride and Self-Exaltation]]
 - [[Oaths and Vows]]
 - [[Judgment]]
+- [[Priesthood]]
+- [[Marriage]]
+- [[War]]
 
 ## Key people
 
@@ -244,6 +251,10 @@ for unit.
 - [[Zipporah]] — his daughter, Moses' wife
 - [[Gershom]] — their son, named for exile
 - [[Aaron]] — Moses' brother, appointed to be his mouth
+- [[Elisheba]] — Aaron's wife, sister of [[Nahshon]] of Judah
+- [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], [[Ithamar]] — Aaron's sons, and
+  [[Phinehas (son of Eleazar)]] his grandson
+- [[Korah (son of Izhar)]] — their cousin
 - [[The Angel of Yahweh]] — in the flame of the bush
 - [[Pharaoh (of the Exodus)]] — the king Moses is sent to
 

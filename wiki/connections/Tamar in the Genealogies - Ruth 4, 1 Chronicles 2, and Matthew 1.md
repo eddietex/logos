@@ -19,6 +19,8 @@ tags: [connection]
   Hamul."* **Ruth 4:18 begins its genealogy to David from exactly this point**, and
   [[Hezron (son of Perez)]] is the second name in it. **[[Tamar]] is not mentioned in the register**,
   and her five stepsons and sons are counted into the seventy with [[Er]] and [[Onan]] struck off
+- **Exodus 6:23** — Amminadab and Nahshon, named as the father and brother of Aaron's wife —
+  [[The Heads of the Fathers' Houses]]
 
 ## Analysis
 
@@ -45,7 +47,9 @@ town**, and it is spoken about a Moabite. See
 
 > Perez → Hezron → Ram → Amminadab → Nahshon → Salmon → Boaz → Obed → Jesse → **David**
 
-**Ten names, and the first is the child of the roadside.** Ruth could have started the list at Judah,
+**Ten names, and the first is the child of the roadside.** The fourth and fifth, Amminadab and
+[[Nahshon]], are already in Exodus: Aaron marries *"Elisheba, the daughter of Amminadab, the sister
+of Nahshon"* (Exodus 6:23). See [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]]. Ruth could have started the list at Judah,
 or at Abraham, or at Adam as Chronicles does. **It starts at [[Perez]].**
 
 ### Matthew

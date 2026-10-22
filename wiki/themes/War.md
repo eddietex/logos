@@ -75,6 +75,10 @@ what is withheld, which is Genesis's habit with its patriarchs.
   kinsman and refuses every thread of the spoil, **this is a raid that keeps everything**, and the
   book's verdict on it comes from Jacob's deathbed at 49:5–7: *"their swords are weapons of
   violence"*. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
+- [[The Heads of the Fathers' Houses]] — Exodus 6:26; ***ʿal-ṣibʾōtām***, *"according to their armies"* — **the first time
+  Israel is called *ṣəbāʾôt***. Genesis used the word for the host of heaven and earth (2:1) and for
+  Phicol's army (21:22); from here Exodus uses it of Israel (7:4; 12:17, 41, 51). **The slaves of
+  chapter 1 are listed as a muster**, before they have left Egypt or fought anyone
 - Exodus 14:14; 15:3 — Yahweh fights
 - Deuteronomy 20:1–20 — the laws of war, with their exemptions
 - Deuteronomy 7:1–5; Joshua 6:17–21 — the *ḥērem*

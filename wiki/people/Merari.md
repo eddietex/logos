@@ -29,13 +29,16 @@ line** (1 Chronicles 6:44–47).
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
   [[Jacob's Family Settles in Egypt]]
-- Exodus 6:16, 19 · Numbers 3:33–37 · 4:29–33 · 7:8 — the Merarite house and its charge over the
-  tabernacle's frame
+- Listed third of Levi's sons; his sons Mahli and Mushi — Exodus 6:16, 19, [[The Heads of the Fathers' Houses]]
+- Numbers 3:33–37 · 4:29–33 · 7:8 — the Merarite house and its charge over the tabernacle's frame
 - 1 Chronicles 6:44–47 — Ethan's descent traced to him
 
 ## Appears in
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **the last of three names in one clause**
+- [[The Heads of the Fathers' Houses]] — Exodus 6:16, 19; **two sons, Mahli and Mushi**, and the verse that closes the
+  three houses: *"These are the families of the Levites according to their generations."* See
+  [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 
 ## Related people
 

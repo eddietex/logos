@@ -48,6 +48,9 @@ he has been named) **and — if he is the son meant — circumcised by his mothe
 on Moses or on the boy. **Moses' firstborn is cut three verses after God names Israel his firstborn and
 announces the death of Pharaoh's** (4:22–23). See [[Moses Returns to Egypt]].
 
+**He is not in the genealogy of 6:14–27.** The list names Aaron's wife, sons, and grandson, and
+stops Moses' line at Moses. See [[The Heads of the Fathers' Houses]].
+
 ### What is ahead
 
 Sent back to Midian at some point not narrated, and brought again by Jethro (18:2–6).
@@ -66,6 +69,8 @@ Sent back to Midian at some point not narrated, and brought again by Jethro (18:
 - [[Moses Returns to Egypt]] — Exodus 4:20, 25; **one of *"his sons"* on the donkey, and probably
   *"her son"*, circumcised at the lodging place** — Moses' firstborn, cut in the passage that names
   God's
+- [[The Heads of the Fathers' Houses]] — Exodus 6:14–27; **absent.** Moses' sons are left out of the list that
+  carries Aaron's to a grandson
 
 ## Related people
 

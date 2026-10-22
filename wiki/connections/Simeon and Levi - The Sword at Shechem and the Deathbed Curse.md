@@ -11,7 +11,9 @@ tags: [connection]
 - Genesis 49:5–7 — *"Cursed be their anger… I will divide them in Jacob, and scatter them in
   Israel"*
 - Exodus 32:26–29 — the sons of Levi at Sinai, and the ordination that follows
-- Numbers 25:6–13 — Phinehas the Levite, and a covenant of peace for a spear
+- Exodus 6:16–25 — the genealogy that follows Levi's line to Aaron and ends on Phinehas —
+  [[The Heads of the Fathers' Houses]]
+- Numbers 25:6–13 — [[Phinehas (son of Eleazar)]], and a covenant of peace for a spear
 - Deuteronomy 33:8–11 — Moses' blessing on Levi, which grounds the priesthood in the same
   willingness
 - Deuteronomy 33 *passim* — Simeon, absent from the blessing altogether

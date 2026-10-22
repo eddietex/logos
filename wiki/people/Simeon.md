@@ -88,6 +88,8 @@ there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deute
   [[Jacob Blesses His Sons]]
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Second in the genealogy of Moses and Aaron, with his six sons — Exodus 6:15,
+  [[The Heads of the Fathers' Houses]]
 
 ## Appears in
 
@@ -151,6 +153,9 @@ there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deute
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); second in the birth-mother order. Dead, with *"all that
   generation"*, by 1:6
+- [[The Heads of the Fathers' Houses]] — Exodus 6:15; **one verse, copied from Genesis 46:10**, Canaanite mother and
+  all, and closed with *"these are the families of Simeon"*. **The list passes on to Levi**, the
+  brother he was cursed with
 
 ## Related people
 

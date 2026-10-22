@@ -42,6 +42,16 @@ The literal reading also compresses the sojourn: Levi's daughter, born in Egypt,
 leads Israel out, leaves very little room for Exodus 12:40's *"four hundred thirty years"*. The
 tension is set out, not resolved, in [[Four Hundred Years - The Sojourn and the Exodus]].
 
+### Exodus 6:20 — named
+
+**The genealogy gives her name for the first time**, as Amram's wife and the mother of *"Aaron and
+Moses"*. ***Dōdātô***, *"his father's sister"* in the WEB, is literally *his aunt*; in Leviticus the
+word's two uses name an uncle's wife (18:14; 20:20), and the father's sister has its own phrase
+(18:12) (all checked in the WLC). **WEB's rendering follows Numbers 26:59**, which makes her Levi's
+daughter. **Either reading puts the marriage inside a degree Leviticus forbids.** She is one of three
+wives the list names, and the only one identified by her relation to her husband rather than by her
+father. See [[The Heads of the Fathers' Houses]].
+
 ## Timeline / key events
 
 - Marries a man of the house of Levi; bears a son and hides him three months — Exodus 2:1–2,
@@ -49,12 +59,14 @@ tension is set out, not resolved, in [[Four Hundred Years - The Sojourn and the 
 - Makes the papyrus basket and sets it in the reeds — Exodus 2:3
 - Summoned as a Hebrew nurse; hired by Pharaoh's daughter to nurse her own son — Exodus 2:8–9
 - Brings the weaned child to Pharaoh's daughter — Exodus 2:10
-- *(ahead)* Named, with Amram, as the mother of Aaron and Moses — Exodus 6:20; Numbers 26:59
+- Named, with Amram, as the mother of Aaron and Moses — Exodus 6:20, [[The Heads of the Fathers' Houses]]; Numbers 26:59
 
 ## Appears in
 
 - [[The Birth of Moses]] — Exodus 2:1–10; **unnamed throughout**; the mother who sees, hides,
   builds, places, and nurses
+- [[The Heads of the Fathers' Houses]] — Exodus 6:20; **named for the first time**, *dōdātô*, Amram's aunt, and the mother
+  of Aaron and Moses
 
 ## Related people
 
@@ -66,6 +78,7 @@ tension is set out, not resolved, in [[Four Hundred Years - The Sojourn and the 
 - [[Pharaoh's Daughter (of Moses' time)]] — who pays her to nurse her own son
 - [[Shiphrah and Puah]] — the women who defied the first measure, as she defies the third
 - [[Hagar]] — the other mother who sets her son down and cannot bear to watch
+- [[Aaron]] — her elder son (6:20)
 
 ## Themes associated
 
@@ -74,3 +87,4 @@ tension is set out, not resolved, in [[Four Hundred Years - The Sojourn and the 
 - [[Deception]]
 - [[Faith]]
 - [[Work]]
+- [[Marriage]]

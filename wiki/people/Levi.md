@@ -49,6 +49,18 @@ the Bible and that every version renders differently**; **and the penalty named 
 inheritance.** **Nothing in Genesis anticipates the reversal**, and the wiki does not read it back
 into 49:7. See [[Jacob Blesses His Sons]] and [[Priesthood]].
 
+### Exodus 6:16–25 — the list that stops at him
+
+**The genealogy of Moses and Aaron is headed as a list of all Israel's *"fathers' houses"*, gives
+Reuben and Simeon one verse each, and then spends ten on Levi and goes no further.** His sons are
+listed *lətōlədōtām*, *"according to their generations"* (6:16) — Genesis's *tôlədôt*, back for the
+first time since Genesis 37:2 — and **he is given his age at death, *"one hundred thirty-seven
+years"***, the only son of Jacob besides Joseph whose lifespan Scripture records in the books the wiki
+has reached. The list follows Kohath's line to Aaron, Moses, and Aaron's grandson Phinehas, and closes
+on *"the heads of the fathers' houses of the Levites"* (6:25). **The son cursed with dispersal at
+Genesis 49:7 is the one whose genealogy the Torah keeps in most detail.** See [[The Heads of the Fathers' Houses]] and
+[[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]].
+
 ### What is still ahead
 
 This page grows as the remaining pericopes arrive; what follows is the shape of them.
@@ -83,6 +95,8 @@ the same willingness to use a sword to a different use.
   the teaching office
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- His three sons listed *"according to their generations"*; 137 years — Exodus 6:16–25,
+  [[The Heads of the Fathers' Houses]]
 
 ## Appears in
 
@@ -138,6 +152,8 @@ the same willingness to use a sword to a different use.
 - [[The Birth of Moses]] — Exodus 2:1; **both of Moses' parents are *"of the house of Levi"***, said
   twice in one verse. If *"a daughter of Levi"* is literal, as Numbers 26:59 reads it, Moses' mother
   [[Jochebed]] is Levi's own daughter, born in Egypt
+- [[The Heads of the Fathers' Houses]] — Exodus 6:16–25; **the tribe the genealogy is for.** Ten verses where Reuben
+  and Simeon get one; *tôlədôt*; 137 years; and the line to Aaron and Phinehas
 
 ## Related people
 

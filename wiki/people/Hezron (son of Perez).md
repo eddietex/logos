@@ -32,7 +32,8 @@ the link is load-bearing.** See [[Kingship and Empire]] and
 Pallu, Hezron, and Carmi"* (46:9), with the Hezronites of Reuben counted at Numbers 26:6. **Two men
 named Hezron enter Egypt in the same paragraph.** **That is why this page carries the qualifier**:
 a bare `Hezron` would resolve to one of them by an unstated rule and the failure would be silent.
-Reuben's Hezron has no page.
+Reuben's Hezron has no page; he is named again at Exodus 6:14, in
+[[The Heads of the Fathers' Houses]].
 
 ## Timeline / key events
 
@@ -55,6 +56,7 @@ Reuben's Hezron has no page.
 - [[Judah]], [[Tamar]] — his grandparents
 - [[Zerah]] — his uncle, the other twin
 - [[Er]], [[Onan]], [[Shelah (son of Judah)]] — his father's half-brothers
+- [[Nahshon]], [[Elisheba]] — his descendants through Ram and Amminadab, on the line of Ruth 4:19–20
 
 ## Themes associated
 

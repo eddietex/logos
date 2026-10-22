@@ -258,6 +258,12 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 - [[Moses Returns to Egypt]] — Exodus 4:25–26; ***ḥătan-dāmîm*, *"a bridegroom of blood"*** — Zipporah's only words in
   Scripture, said to Moses, to the child, or as an old formula — the text does not settle which. *Ḥātān* shares its root with *ḥōtēn*, *father-in-law*, the word for Jethro at
   4:18
+- [[The Heads of the Fathers' Houses]] — Exodus 6:20, 23, 25; **three wives in the priestly line, three kinds of
+  identification.** [[Jochebed]] by her relation to her husband, *dōdātô*, *his aunt* — a degree
+  Leviticus forbids (18:12, 14); [[Elisheba]] by her father and brother, of Judah's leading house;
+  and Eleazar's wife only as *"one of the daughters of Putiel"*. See
+  [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] and
+  [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]]
 
 ## Related themes
 

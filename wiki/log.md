@@ -11545,3 +11545,105 @@ hiphil of *ʿābad*, and the Moses–Aaron pair.
   - `wiki/index.md`: 98 passages, 288 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 6.14-27 — The Heads of the Fathers' Houses
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *The Heads of the Fathers' Houses —
+Exodus 6:14–27*. The boundary was kept as planned: 6:14 opens a new heading after 6:13's summary, and
+6:26–27 close the list by naming Moses and Aaron before 6:28 resumes the narrative. No discussion
+step; it is written into the passage page.
+
+### The passage page
+
+[[The Heads of the Fathers' Houses]] covers:
+
+- The list's shape: headed for all Israel, one verse each for Reuben and Simeon, ten for Levi, with
+  *rāʾšê ʾābôt* framing it at 6:14 and 6:25 (its only two uses in Genesis, Exodus, and Job).
+- *bəkōr yiśrāʾēl* (6:14) against Genesis 46:8's *bəkōr yaʿăqōb* and 4:22's *"Israel is my son, my
+  firstborn"*; Reuben's and Simeon's sons copied from Genesis 46:9–10, now *mišpəḥōt*.
+- *lətōlədōtām* (6:16, 19), Genesis's *tôlədôt* back for the first time since 37:2; the lifespan
+  formula *šənê ḥayyê*, used in Exodus only for Levi, Kohath, and Amram.
+- Amram and Jochebed named; ***dōdātô*** and what Leviticus does with *dōdâ* (below).
+- Korah, Mishael, and Elzaphan: the cousins who will contest and serve the priesthood.
+- Elisheba's pedigree into Judah; Nadab and Abihu, Eleazar and Ithamar; Putiel and Phinehas.
+- The chiasm *hûʾ ʾahărōn ûmōšeh … hûʾ mōšeh wəʾahărōn* (6:26–27), and *ʿal-ṣibʾōtām*, the first time
+  Israel is called *ṣəbāʾôt*.
+- Why the list is here: it answers *who is this man?* (2:14, 19), not whether he can speak, and it is
+  a priestly pedigree — Moses' wife and sons, and Miriam, are absent.
+
+### Judgment calls
+
+- **Eight new person pages**, for the figures who recur later: [[Korah (son of Izhar)]],
+  [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], [[Ithamar]],
+  [[Phinehas (son of Eleazar)]], [[Elisheba]], [[Nahshon]]. Four are qualified from the start because
+  their names collide later or already: Korah (Esau's son, Genesis 36:5), Nadab (the king, 1 Kings 15),
+  Eleazar (son of Abinadab, 1 Samuel 7:1), Phinehas (son of Eli, 1 Samuel 1:3).
+- **No pages** for the other names in the list (Hanoch, Pallu, Carmi; Jemuel, Jamin, Ohad, Jachin,
+  Zohar; Libni, Shimei; Izhar, Hebron, Uzziel; Mahli, Mushi; Nepheg, Zichri; Mishael, Elzaphan, Sithri;
+  Assir, Elkanah, Abiasaph; Amminadab; Putiel), consistent with the treatment of the Genesis 46
+  register. **Collisions noted for later**: Kohath's son *Hebron* shares the name of the place page
+  [[Hebron]]; Reuben's *Hezron* shares [[Hezron (son of Perez)]]'s name; *Elkanah* son of Korah will
+  share Samuel's father's; *Mishael* will share Daniel's companion's. If any earns a page, both take
+  qualifiers per `AGENTS.md`.
+- **Two new connections**: [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] (parallel)
+  and [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] (thread).
+- **A nuance, not a contradiction, recorded on three pages.** [[Amram]], [[Jochebed]], and
+  [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] said Amram married his *"father's
+  sister"*, forbidden by Leviticus 18:12. That is the WEB, following Numbers 26:59. The Hebrew of 6:20
+  says *dōdātô*, *his aunt*, and Leviticus's two uses of *dōdâ* (18:14; 20:20) name an uncle's wife,
+  while the father's sister is *ʾăḥôt-ʾābîkā* (18:12; 20:19). The three pages now say both; the
+  prohibition holds on either reading.
+- **Genesis 15:16's *"fourth generation"*** is noted as fitting Levi → Moses, or Kohath → Eleazar, on
+  [[Four Hundred Years - The Sojourn and the Exodus]]; neither count is adopted.
+- **Hedged at the point of the claim, not checked**: the Korahite psalm headings; Numbers 3:4 (Nadab
+  and Abihu childless); 1 Chronicles 23:14–15 and 1 Chronicles 6; 1 Chronicles 24:3 on Ithamar and Eli's
+  house; the Septuagint *Elisabet* and Luke 1:5's wording; the Egyptian etymology of *Phinehas*; the
+  meanings of *Elisheba* and *Abihu*.
+- **No verse outside Genesis, Exodus, and Job is quoted in WEB English.** Short phrases from Numbers
+  and Leviticus are the wiki's own renderings of the checked Hebrew, and are marked as such.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):**
+
+- All of Exodus 6:14–27; Genesis 46:8–11.
+- Leviticus 18:12, 14; 20:19–20.
+- Numbers 1:7; 2:3; 3:17–20; 7:12; 10:14; 26:11, 57–61.
+
+Lemma searches of Genesis, Exodus, and Job: *rāʾšê ʾābôt*, *tôlədôt*, *šənê ḥayyê*, *ṣābāʾ*, *dōdâ*
+(also Leviticus), *Pûṭîʾēl*, *Naḥšôn* (also Numbers), and *lāqaḥ … ləʾiššâ*.
+
+### Pages created or revised
+
+- **Created (11):** the passage page; eight people (above); two connections (above).
+- **People revised (15):**
+  - With a new overview section or paragraph: [[Aaron]], [[Moses]], [[Amram]], [[Jochebed]],
+    [[Kohath]], [[Levi]], [[Miriam]], [[Gershom]].
+  - With new timeline and appears-in entries: [[Gershon]], [[Merari]], [[Reuben]], [[Simeon]],
+    [[Shaul (son of Simeon)]], [[Pharaoh (of the Exodus)]], and [[Hezron (son of Perez)]] (note on
+    Reuben's Hezron; related people).
+- **Connections revised (6):** [[Four Hundred Years - The Sojourn and the Exodus]],
+  [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]],
+  [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]],
+  [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]],
+  [[Two Commissions - Exodus 3 and Exodus 6]],
+  [[The Other Line First - The Order of the Toledot in Genesis]].
+- **Places revised (1):** [[Egypt]].
+- **Themes revised (7):** [[Priesthood]], [[Marriage]], [[Birthright and the Firstborn]],
+  [[Call and Election]], [[Life and Death]], [[The Nations]], [[War]].
+- **Book page:** box checked; 5–7:13 structure note; key themes (+[[Priesthood]], +[[Marriage]],
+  +[[War]]); key people (+8).
+- **Indexes:**
+  - books: Exodus 8 / 53.
+  - people: 8 rows added, 15 rows extended.
+  - places: 1 row.
+  - themes: 7 rows.
+  - connections: 2 rows added, 5 rows' references extended.
+  - `wiki/index.md`: 99 passages, 164 people, 290 connections.
+
+The people index now has 164 entries, past the ~150 growth trigger in `AGENTS.md`; it was already
+past it before this ingest, and splitting it is left for the user or a lint pass.
+
+`scripts/link-check.sh` is clean.

@@ -36,6 +36,10 @@ she is struck with leprosy and shut out of the camp seven days (Numbers 12); she
 (Numbers 20:1); and Micah names her with her brothers among the leaders God sent: *"I sent before you
 Moses, Aaron, and Miriam"* (Micah 6:4). These sections are written as their pericopes arrive.
 
+**She is not in the genealogy of 6:14–27.** Amram and Jochebed's children are given as *"Aaron and
+Moses"* (6:20); it is Numbers 26:59 that adds *"and Miriam their sister"* (the wiki's rendering,
+checked in the WLC). The list names three wives and no daughters. See [[The Heads of the Fathers' Houses]].
+
 ## Timeline / key events
 
 - Stands far off to watch the basket in the reeds — Exodus 2:4, [[The Birth of Moses]]
@@ -48,6 +52,7 @@ Moses, Aaron, and Miriam"* (Micah 6:4). These sections are written as their peri
 
 - [[The Birth of Moses]] — Exodus 2:4, 7–8; **unnamed**, *"his sister"* and *"the young woman"*;
   the watch at a distance and the one sentence
+- [[The Heads of the Fathers' Houses]] — Exodus 6:20; **absent.** Her parents and brothers are named; she is not
 
 ## Related people
 

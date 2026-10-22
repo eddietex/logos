@@ -174,6 +174,10 @@ holds up Esau as the warning.
   firstborn"* — under the name of the younger twin — and *"I will kill your son, your firstborn"*: the
   tenth plague announced first, as measure for measure. Moses' own firstborn is circumcised at the
   lodging place three verses later. See [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
+- [[The Heads of the Fathers' Houses]] — Exodus 6:14; ***"Reuben the firstborn of Israel"*** — *bəkōr yiśrāʾēl*, where
+  Genesis 46:8 had *"Jacob's firstborn"*, two chapters after God called Israel his own firstborn
+  (4:22). The title leads the list by birth order and the list does not mention that Reuben lost what
+  it once carried (Genesis 49:3–4); it leaves him after one verse for the third son
 
 ## Related themes
 

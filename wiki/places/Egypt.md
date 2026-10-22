@@ -228,6 +228,8 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[I Am Yahweh]] — Exodus 6:5–13; ***"from under the burdens of the Egyptians"***, twice. Egypt is the
   land of *maʿăbidîm* and *ʿăbōdâ qāšâ*, and the place of the coming *"great judgments"* (6:6); the
   command is *"to bring the children of Israel out of the land of Egypt"* (6:13)
+- [[The Heads of the Fathers' Houses]] — Exodus 6:26–27; *"Bring out the children of Israel from the land of Egypt according
+  to their armies"* — the land a family entered as seventy souls, left by a people listed as a muster
 
 ## Related places
 

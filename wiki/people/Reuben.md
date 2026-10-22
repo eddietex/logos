@@ -146,6 +146,8 @@ the counterpart to the barest in this one. See
   1 Chronicles 5:1–2, [[Jacob Blesses His Sons]]
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Heads the genealogy of Moses and Aaron as *"the firstborn of Israel"*, with his four sons —
+  Exodus 6:14, [[The Heads of the Fathers' Houses]]
 
 ## Appears in
 
@@ -217,6 +219,10 @@ the counterpart to the barest in this one. See
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); named first, as *"Jacob's firstborn"* was at 35:23 — but Exodus 1 gives him no title. Dead, with *"all that
   generation"*, by 1:6
+- [[The Heads of the Fathers' Houses]] — Exodus 6:14; **first in the list, by birth order, with the title restored.**
+  *"Reuben the firstborn of Israel"*, *bəkōr yiśrāʾēl* — Genesis 46:8 had *"Jacob's firstborn"*, and
+  4:22 has just called Israel God's firstborn. His four sons are Genesis 46:9's, now *"the families of
+  Reuben"*. **The list does not mention the lost birthright**, and moves past him in a verse
 
 ## Related people
 

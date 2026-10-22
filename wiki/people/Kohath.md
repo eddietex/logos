@@ -26,11 +26,22 @@ the shape**: **the man through whom Israel gets its lawgiver enters Scripture as
 a travel document**, three names after [[Reuben]] and forty before the end of the list. See
 [[Priesthood]] and [[Providence]].
 
+### Exodus 6:18, 20
+
+**Exodus gives him four sons and an age: *"Amram, and Izhar, and Hebron, and Uzziel; and the years of
+the life of Kohath were one hundred thirty-three years"*** (6:18). **His is the line the genealogy
+follows**: Amram's sons are Aaron and Moses (6:20), Izhar's son is [[Korah (son of Izhar)]] (6:21),
+and Uzziel's sons include Mishael and Elzaphan (6:22). Hebron's sons are not given; Hebron bears the
+same name as the city [[Hebron]], and the text makes nothing of it. **He went down into Egypt with
+his father (Genesis 46:11); his grandsons bring Israel out.** See [[The Heads of the Fathers' Houses]] and
+[[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]].
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
   [[Jacob's Family Settles in Egypt]]
-- Exodus 6:16, 18, 20 — his sons, and Amram's sons Aaron and Moses
+- His four sons and 133 years; Amram's sons Aaron and Moses — Exodus 6:16, 18, 20,
+  [[The Heads of the Fathers' Houses]]
 - Numbers 3:27–32 · 4:4–15 · 7:9 — the Kohathite charge over the ark and the holy vessels
 - 1 Chronicles 6:33–38 — Heman's descent traced to him
 
@@ -38,6 +49,7 @@ a travel document**, three names after [[Reuben]] and forty before the end of th
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **the middle of three names in one clause**,
   and the only one of the seventy whose grandson will bring the rest of them out
+- [[The Heads of the Fathers' Houses]] — Exodus 6:16, 18–24; **the line the genealogy follows**, with 133 years
 
 ## Related people
 
@@ -48,6 +60,8 @@ a travel document**, three names after [[Reuben]] and forty before the end of th
 - [[Moses]] — his grandson
 - [[Gershon]], [[Merari]] — his brothers, and the other two Levitical houses
 - [[Jacob]] — his grandfather
+- [[Aaron]] — his grandson
+- [[Korah (son of Izhar)]] — his grandson, through Izhar
 
 ## Themes associated
 

@@ -284,6 +284,9 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   the Jebusite"*** — **five of them from the ten of Genesis 15:19–21, plus the Hivite**, the list of six
   that becomes the standard. The land is promised by naming who holds it, and the promise does not
   explain what will become of them
+- [[The Heads of the Fathers' Houses]] — Exodus 6:15, 25; ***"Shaul the son of a Canaanite woman"*** copied word for word
+  from Genesis 46:10, and ***Pînəḥās***, Aaron's grandson, with a name usually derived from Egyptian
+  *the Nubian* (not certain) — the priestly line carrying an Egyptian-sounding name, as Moses does
 
 ## Related themes
 

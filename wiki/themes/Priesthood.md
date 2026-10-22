@@ -110,6 +110,12 @@ something comes down through him. That two-way motion is what the word adds. See
 - [[The Birth of Moses]] — Exodus 2:1; **both parents *"of the house of Levi"***, stated twice in
   one verse and unexplained; the marriage that produces Moses and Aaron (6:20), and so the line of
   Israel's priesthood
+- [[The Heads of the Fathers' Houses]] — Exodus 6:14–27; **the priesthood's pedigree, given before the priesthood exists.**
+  A list headed for all Israel's *"fathers' houses"* stops at Levi, follows Kohath's line to Aaron,
+  names Aaron's wife and four sons and carries one line to [[Phinehas (son of Eleazar)]] — **and lists,
+  beside them, [[Korah (son of Izhar)]], who will contest it**, and Mishael and Elzaphan, who will
+  carry out Nadab and Abihu. Moses' own sons are left out. See
+  [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 
 ## Related themes
 

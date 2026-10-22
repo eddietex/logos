@@ -21,6 +21,9 @@ tags: [connection]
   the Jacob narrative begins. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Genesis 11:10, 27 — the two *toledot* of the transitional pericope, and the one Genesis never gives
 - Genesis 2:4; 5:1; 6:9 — the other four occurrences of the formula
+- **Exodus 6:16, 19** — *lətōlədōtām*, *"according to their generations"*: **the formula's first return
+  after Genesis 37:2**, used for Levi's sons at both ends of his list, and once more in Exodus at 28:10
+  (WLC lemma search) — [[The Heads of the Fathers' Houses]]
 
 ## Analysis
 

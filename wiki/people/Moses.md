@@ -134,9 +134,18 @@ objection.** He repeats the command, now to *"Moses and … Aaron"* together (6:
 [[I Am Yahweh]], [[Two Commissions - Exodus 3 and Exodus 6]], and
 [[Uncircumcised Lips, Ears, and Heart]].
 
+**Then the story stops to say who he is.** The genealogy of 6:14–27 begins with Reuben and Simeon
+and settles on Levi: Levi, Kohath, Amram, and Amram's sons by his aunt Jochebed, *"Aaron and Moses"*
+(6:20). **The unnamed son of unnamed Levite parents in 2:1 is given his line**, and the questions
+asked of him in chapter 2 — *"Who made you a prince and a judge over us?"* (2:14), and the Midianite
+women's *"An Egyptian"* (2:19) — are answered with a family tree. **His own wife and sons are not in
+it**; Aaron's are. The list closes on the two brothers, *"that Aaron and Moses"* (6:26) and *"that
+Moses and Aaron … who spoke to Pharaoh"* (6:27), and the narrative resumes with his objection
+unchanged (6:28–30). See [[The Heads of the Fathers' Houses]].
+
 ### What is ahead
 
-The genealogy (6:14–27), the staff before Pharaoh, and the plagues (6:28–11); the Passover, the sea, and the
+The staff before Pharaoh, and the plagues (6:28–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -180,6 +189,8 @@ sections are written as their pericopes arrive.
   spirit"* — Exodus 6:2–9, [[I Am Yahweh]]
 - Sent again to Pharaoh; objects *"who am of uncircumcised lips"*; commanded with Aaron — Exodus
   6:10–13
+- Placed in Levi's line as the younger son of Amram and Jochebed; named after Aaron, then before him —
+  Exodus 6:14–27, [[The Heads of the Fathers' Houses]]
 
 ## Appears in
 
@@ -202,6 +213,9 @@ sections are written as their pericopes arrive.
 - [[I Am Yahweh]] — Exodus 6:2–13; **given the promise again, and unheard.** Hears *"I am Yahweh"*
   and the seven promises; the people will not listen; he calls himself *"of uncircumcised lips"* and
   is commanded again, with Aaron, without an answer
+- [[The Heads of the Fathers' Houses]] — Exodus 6:14–27; **given a pedigree.** Levi, Kohath, Amram, Moses; his parents
+  named for the first time; his own wife and sons left out; *"that Moses and Aaron"*, the ones *"who
+  spoke to Pharaoh"*
 
 ## Related people
 
@@ -219,6 +233,8 @@ sections are written as their pericopes arrive.
 - [[Jacob]] — whose flight, well, flock, and marriage his own exile repeats
 - [[Aaron]] — his brother, appointed to be his mouth (4:14–16)
 - [[Pharaoh (of the Exodus)]] — the king he is sent to
+- [[Korah (son of Izhar)]] — his first cousin (6:21)
+- [[Elisheba]] — his sister-in-law (6:23)
 
 ## Themes associated
 

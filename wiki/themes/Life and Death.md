@@ -405,6 +405,9 @@ the rest of the canon.
 - [[Moses Returns to Egypt]] — Exodus 4:19, 23–24; ***bāqaš*, to seek a life, three times.** Pharaoh sought to kill
   Moses (2:15); *"all the men who sought your life are dead"* (4:19); and five verses later *"Yahweh …
   sought to kill him"* (4:24, WEB *"wanted"*). Between them, *"I will kill your son, your firstborn"*
+- [[The Heads of the Fathers' Houses]] — Exodus 6:16, 18, 20; **the Genesis formula *šənê ḥayyê*, *"the years of the
+  life of"*, used three times and nowhere else in Exodus**: Levi 137, Kohath 133, Amram 137 — the
+  generations that lived and died in Egypt between the descent and the exodus
 
 ## Related themes
 

@@ -38,7 +38,7 @@ page for that reason.** See [[The Nations]] and
 
 - Listed among the seventy who go down into Egypt, *"the son of a Canaanite woman"* — Genesis 46:10,
   [[Jacob's Family Settles in Egypt]]
-- Exodus 6:15 — the same clause, with the same annotation
+- The same clause, with the same annotation — Exodus 6:15, [[The Heads of the Fathers' Houses]]
 - Numbers 26:13 — the Shaulites, a clan of Simeon
 - 1 Chronicles 4:24 — the register repeated
 
@@ -46,6 +46,8 @@ page for that reason.** See [[The Nations]] and
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:10; **the register's one ethnic note**, attached to
   a man about whom nothing else is recorded
+- [[The Heads of the Fathers' Houses]] — Exodus 6:15; ***wəšāʾûl ben-hakkənaʿănît***, **the same words as Genesis 46:10**
+  (both checked in the WLC); the annotation travels with the list
 
 ## Related people
 

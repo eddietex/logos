@@ -30,13 +30,17 @@ into Egypt with his father and his two brothers, in a party of seventy. See [[Pr
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
   [[Jacob's Family Settles in Egypt]]
-- Exodus 6:16–17 · Numbers 3:17–26 — the Gershonite house and its charge over the tabernacle's fabric
+- Listed first of Levi's sons; his sons Libni and Shimei *"according to their families"* — Exodus
+  6:16–17, [[The Heads of the Fathers' Houses]]
+- Numbers 3:17–26 — the Gershonite house and its charge over the tabernacle's fabric
 - 1 Chronicles 6:39–43 — Asaph's descent traced to him
 
 ## Appears in
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **one of three names in one clause**, in the
   register taken at the border
+- [[The Heads of the Fathers' Houses]] — Exodus 6:16–17; **one verse, two sons**, Libni and Shimei, the same names
+  Numbers 3:18 gives his clans. See [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 
 ## Related people
 
