@@ -91,6 +91,16 @@ sentence that in Joel means Yahweh is applied without argument to Christ. The li
 to Romans 10:13 is one of the clearest cases in Scripture of a phrase keeping its exact wording
 across three thousand years while its referent is being pressed.
 
+### What Exodus 3 adds
+
+**[[The Burning Bush]] is the first place the name is explained, and the explanation assumes the name
+was already known.** Moses asks what to say when the people ask *"What is his name?"* — *mah-šəmô*,
+where *mah* asks about meaning or character rather than identity — and God answers with *ʾehyeh ʾăšer
+ʾehyeh* and then *Yahweh, the God of your fathers* (3:13–15). **The standard reading takes the
+question as *what does the name mean for us now*, which fits Genesis 4:26 and the patriarchs' constant
+use of *Yahweh*;** the other takes it as evidence the name had been forgotten in Egypt, and reads 6:3
+in the same direction. The wiki records both.
+
 ## Significance
 
 Genesis 4 has spent twenty-four verses on what human beings can build without God — a city, a

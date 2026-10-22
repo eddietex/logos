@@ -212,6 +212,10 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   rescues report that *"an Egyptian delivered us"* (2:19). The king dies and **the *ʿăbōdâ*, the
   bondage, outlives him** (2:23). Whether Gershom's *"foreign land"* (2:22) is Midian or Egypt the
   naming speech does not say
+- [[The Burning Bush]] — Exodus 3:7–10, 18–22; **the country God has *come down* to deliver his people
+  from, and will strike and strip.** *"I have surely seen the affliction of my people who are in
+  Egypt"*; *"I will reach out my hand and strike Egypt with all my wonders"* — *nākâ*, the verb of
+  Moses' secret blow (2:12); and *"You shall plunder the Egyptians"*
 
 ## Related places
 
@@ -266,3 +270,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Exodus 2:1–10, [[The Birth of Moses]]
 - Moses kills an Egyptian and flees from Pharaoh; the king dies, and Israel's cry goes up to God —
   Exodus 2:11–25, [[Moses Flees to Midian]]
+- God announces at Horeb that he will strike Egypt with wonders and that Israel will plunder it —
+  Exodus 3:19–22, [[The Burning Bush]]

@@ -633,6 +633,9 @@ gets a death notice in this same chapter** (35:8); she does not.
   of Isaac at Genesis 35:29, is said of Job — the book's last words.
 - [[Moses Flees to Midian]] — Exodus 2:24; **named between Abraham and Jacob** as a party to the covenant
   God remembers when Israel groans in Egypt
+- [[The Burning Bush]] — Exodus 3:6, 15, 16; 4:5; **named second in God's self-introduction**, four
+  times; the *"I will be with you"* first said to him (Genesis 26:3) is said to Moses (3:12). See
+  [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
 
 ## Related people
 

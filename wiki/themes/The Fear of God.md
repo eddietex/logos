@@ -252,6 +252,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   praised for not having (1:17). Hebrews 11:27 says *"By faith, he left Egypt, not fearing the wrath of
   the king"*; either it means the exodus itself, or the motive beneath the flight. Both readings are
   recorded on the passage page and neither adopted
+- [[The Burning Bush]] — Exodus 3:6; ***"Moses hid his face; for he was afraid to look at God."*** **The fear of 2:14
+  turned the other way**: there it made Moses run from Pharaoh, here it makes him stay and cover his
+  face. It is the fear of holiness, not of punishment — the ground has just been called holy — and it
+  anticipates *"man may not see me and live"* (33:20)
 
 ## Related themes
 

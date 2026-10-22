@@ -236,6 +236,10 @@ the promise is repeatedly mistaken for.
   relative brings a *qəśîṭâ* and a ring of gold (42:11), the patriarchs' coin. And Job's last recorded act is to give:
   an inheritance to his daughters beside their brothers (42:15). See
   [[Yahweh Turned the Captivity of Job - Restoration and the Double]].
+- [[The Burning Bush]] — Exodus 3:21–22; ***"you shall not go empty-handed … You shall plunder the Egyptians."***
+  **The *great wealth* of Genesis 15:14 specified**: jewels of silver and gold and clothing, asked of
+  Egyptian women and put on the children Pharaoh ordered drowned. *Plunder* is *niṣṣēl*, the stem of
+  *nāṣal* beside God's *deliver* (3:8). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 

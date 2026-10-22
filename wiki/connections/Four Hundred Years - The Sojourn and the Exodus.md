@@ -16,6 +16,10 @@ tags: [connection]
 - **Exodus 2:1; Numbers 26:59** — Moses' mother *"a daughter of Levi"*, which Numbers reads
   literally: *"Jochebed, the daughter of Levi, who was born to Levi in Egypt"* —
   [[The Birth of Moses]], [[Jochebed]]
+- **Exodus 3:8, 17, 21–22** — [[The Burning Bush]]. The promise dated and specified at Horeb: the
+  land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite — five
+  of them from Genesis 15:19–21's list — and *"you shall not go empty-handed … You shall plunder the
+  Egyptians"*. See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - **Exodus 12:35–36** — the *"great wealth"* of Genesis 15:14, itemized as silver, gold, and
   clothing.
 - **Numbers 32:13; Judges 11:26; 1 Kings 6:1** — the other chronological anchors, and they do not all

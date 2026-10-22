@@ -255,6 +255,9 @@ requires only that you be standing outside it.
 - [[Moses Flees to Midian]] — Exodus 2:23–25; **groaning, *nəʾāqâ*, is the first thing God is said to hear in
   Exodus.** The suffering has gone on through a king's whole reign and Moses' whole exile without
   comment; when it reaches God the response is four verbs — *heard*, *remembered*, *saw*, *knew*
+- [[The Burning Bush]] — Exodus 3:7; ***"I know their sorrows"*** — ***yādaʿtî ʾet-makʾōbāyw*** — **the object that
+  2:25's bare *God knew* left out.** God names the suffering as *affliction*, *cry*, *oppression*, and
+  *sorrows*, four words in three verses, and says he knows the last
 
 ## Related themes
 

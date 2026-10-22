@@ -15,7 +15,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Cain and Abel in the New Testament]] | typology | Genesis 4:1–16 · Matthew 23:35 · Luke 11:51 · Hebrews 11:4 · Hebrews 12:24 · 1 John 3:12 · Jude 11 |
 | [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
 | [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]] | allusion | Genesis 4:15 · Genesis 4:23–24 · Matthew 18:21–22 |
-| [[Calling on the Name of Yahweh]] | thread | Genesis 4:26 · Genesis 12:8 · Exodus 6:2–3 · Joel 2:32 · Acts 2:21 · Romans 10:13 |
+| [[Calling on the Name of Yahweh]] | thread | Genesis 4:26 · Genesis 12:8 · Exodus 3:13–15 · Exodus 6:2–3 · Joel 2:32 · Acts 2:21 · Romans 10:13 |
 | [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · Job 7:8, 21 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
@@ -63,9 +63,9 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Not a Thread nor a Sandal Strap]] | thread | Genesis 14:21–24 · Genesis 12:14–20 · Genesis 15:1 · Joshua 7:20–26 · 1 Samuel 12:3–5 · 1 Samuel 30:21–25 · 2 Kings 5:15–27 · Daniel 5:17 · Acts 8:18–24 · 1 Corinthians 9:12–18 |
 | [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] | quotation | Genesis 15:6 · Psalm 106:30–31 · Nehemiah 9:7–8 · 1 Maccabees 2:52 · Romans 4:3, 9, 22–24 · Galatians 3:6–9 · James 2:21–24 · Hebrews 11:8–19 |
 | [[Passing Between the Pieces]] | thread | Genesis 15:9–18 · Jeremiah 34:8–22 · Genesis 6:18; 9:8–17 · Genesis 14:13 · Genesis 17:1–14 · Exodus 24:3–8 · Galatians 3:15–18 · Hebrews 6:13–18; 9:15–22 |
-| [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 |
+| [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 |
 | [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 |
-| [[Smoking Furnace and Flaming Torch - Fire as Theophany]] | thread | Genesis 15:17 · Genesis 3:24 · Exodus 3:1–6 · Exodus 13:21–22 · Exodus 19:16–18 · Leviticus 9:24 · 1 Kings 18:38 · 1 Kings 19:11–12 · Daniel 7:9–10 · Acts 2:3 · Hebrews 12:18–29 |
+| [[Smoking Furnace and Flaming Torch - Fire as Theophany]] | thread | Genesis 15:17 · Genesis 3:24 · Exodus 3:1–6 · Deuteronomy 33:16 · Exodus 13:21–22 · Exodus 19:16–18 · Leviticus 9:24 · 1 Kings 18:38 · 1 Kings 19:11–12 · Daniel 7:9–10 · Acts 2:3 · Hebrews 12:18–29 |
 | [[Listening to the Voice - Genesis 3 and Genesis 16]] | parallel | Genesis 3:6, 16–17 · Genesis 16:2–3 · Genesis 21:12 · Genesis 22:17 · Genesis 30:1–13 |
 | [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Deuteronomy 23:15–16 |
 | [[The Two Flights of Hagar]] | parallel | Genesis 16:1–16 · Genesis 21:8–21 · Genesis 25:12–18 |
@@ -137,7 +137,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · Deuteronomy 26:5 · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 · Job 33:14–18 |
 | [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
-| [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:13–15 · Judges 13:17–18 |
+| [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:12–15 · Exodus 4:12 · Judges 13:17–18 |
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
@@ -280,6 +280,10 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Genesis 11:3 · 1 Corinthians 10:1–2 |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
-| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 |
+| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 |
-| [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 6:5 · Psalm 105:42 · Luke 1:72–73 |
+| [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Psalm 105:42 · Luke 1:72–73 |
+| [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
+| [[I AM WHO I AM - Exodus 3.14 and John 8.58]] | allusion | Exodus 3:12, 14 · Exodus 4:12 · John 8:58 · Revelation 1:8 |
+| [[Who Am I - The Objections of the Called]] | motif | Exodus 3:11–12 · Exodus 4:10–12 · Judges 6:15–16 · 1 Samuel 9:21 · Isaiah 6:5, 8 · Jeremiah 1:6–9 |
+| [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |

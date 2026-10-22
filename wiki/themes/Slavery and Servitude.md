@@ -262,6 +262,11 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   verse** — *"the children of Israel sighed because of the bondage … their cry came up to God because
   of the bondage"*. The king dies; the service does not end with him. **It is at this word that God
   turns** (2:24–25)
+- [[The Burning Bush]] — Exodus 3:12; ***"you shall serve God on this mountain"*** — *taʿabdûn*, the book's governing
+  root. **The first thing God says about Israel's future is that they will serve him**: the exodus is
+  announced as a change of master before anything else. And the law of release takes up the bush's
+  *rêqām*: a freed slave is not to be sent away *"empty"* (Deuteronomy 15:13), as Israel will not leave
+  Egypt *"empty-handed"* (3:21). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 

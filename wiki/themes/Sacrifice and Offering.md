@@ -175,6 +175,10 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   and 1 Chronicles 15:26, brought by the friends to Job, who stands as priest for them as he stood for his children
   (1:5) — then on a hypothesis of sin, now on God's word. No altar, priesthood, or sanctuary is named. See
   [[Sacrifice Before the Priesthood]].
+- [[The Burning Bush]] — Exodus 3:18; ***"let us go three days' journey into the wilderness, that we may sacrifice to
+  Yahweh, our God."*** **The exodus is first requested as a sacrifice.** Whether the request is a test, a
+  ruse, or a literal festival at the mountain of 3:12 is recorded on the passage page with three
+  readings; none adopted
 
 ## Related themes
 

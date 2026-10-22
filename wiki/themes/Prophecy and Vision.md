@@ -264,6 +264,11 @@ happens.
   15:12. Elihu makes the dream God's ordinary way of warning every man — *"he opens the ears of men, and
   seals their instruction"* (33:16) — which is what God did for Abimelech (Genesis 20:3) and Laban
   (31:24). See [[Warned in a Dream - Abimelech and Laban]].
+- [[The Burning Bush]] — Exodus 4:15–16; **the Torah's working definition of a prophet, before the word is used of
+  either man**: one who receives words and speaks them for another — *"you shall speak to him, and put
+  the words in his mouth"*. At 7:1 it is made explicit (*"Aaron your brother shall be your prophet"*), and
+  Deuteronomy 18:18 and Jeremiah 1:9 repeat its terms: *"I will put my words in his mouth"*. And the
+  sign of 3:12 is a prophetic sign — confirmed only by its fulfillment
 
 ## Related themes
 

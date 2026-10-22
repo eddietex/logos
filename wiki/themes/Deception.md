@@ -271,6 +271,10 @@ has become a nation.
   decree to the letter — her son goes *into the river* — but *puts* (*śîm*) him there in an ark
   instead of *casting* (*šālak*) him; and then she is hired, unrecognized or unquestioned, to nurse
   her own son. No lie is spoken
+- [[The Burning Bush]] — Exodus 3:18; **the three days' journey.** God tells Moses he will bring Israel to Canaan, and
+  tells him to ask Pharaoh for a three-day festival. Whether this is a test that exposes Pharaoh, a ruse
+  against an oppressor in the line of the midwives (1:19), or a literal request for the sacrifice at the
+  mountain (3:12) is recorded on the passage page; none adopted
 
 ## Related themes
 

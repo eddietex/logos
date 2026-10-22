@@ -272,6 +272,13 @@ noticing into doctrine.
   spoken of me the thing that is right"*, twice — and *ʾēlay* may mean *to me*: Job spoke to God, the friends only
   about him. The friends answer with an offering and no words; Bildad's *"man, who is a worm"* (25:6) stands as the
   last thing any of them says.
+- [[The Burning Bush]] — Exodus 4:10–16; ***lōʾ ʾîš dəbārîm ʾānōkî***, ***"not a man of words am I"***, **said by the
+  man who will speak Deuteronomy**, whose first verse is *"These are the words which Moses spoke"*. *Heavy
+  of mouth and heavy of tongue* — *kābēd*, the word of Pharaoh's *heavy* heart (7:14). God's answer is
+  the doctrine of speech as gift: *"Who made man's mouth? … I will be with your mouth, and teach you what
+  you shall speak"*; and then a chain of mouths — God to Moses, Moses to [[Aaron]], Aaron to the
+  people. Stephen's *"mighty in his words"* (Acts 7:22) stands against it; the tension is recorded, not
+  resolved
 
 ## Related themes
 

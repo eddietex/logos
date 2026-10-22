@@ -12,8 +12,8 @@ know.** *"Now there arose a new king over Egypt, who didn't know Joseph"* (Exodu
 named, here or anywhere in the Bible; *Pharaoh* is a title (Egyptian *pr-ʿȝ*, *the great house*),
 so the page is qualified by the narrative he appears in, per the schema's rule for title-only
 figures. **He is not the Pharaoh of the plagues**: Exodus 2:23 says *"the king of Egypt died"*
-before Moses is sent back, so the king who meets Moses at 5:1 is his successor and gets his own
-page when he first appears.
+before Moses is sent back, so the king who meets Moses at 5:1 is his successor, [[Pharaoh (of the Exodus)]], whose page opens
+with God's forecast of him at 3:18–20.
 
 **He reads a blessing as a threat.** His first words — *"Behold, the people of the children of
 Israel are more and mightier than we"* (1:9) — are Abimelech's to Isaac (Genesis 26:16), and they
@@ -90,6 +90,7 @@ resolved.
 - [[Abimelech (of Isaac's time)]] — the first king to say *"mightier than we"* of this family
 - [[Pharaoh (of Abram's time)]] — the first Pharaoh, whose household Abram feared would kill him and
   keep his wife alive (Genesis 12:12)
+- [[Pharaoh (of the Exodus)]] — his successor, the king of the plagues
 
 ## Themes associated
 

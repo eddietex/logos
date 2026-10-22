@@ -311,6 +311,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   exodus**, the first time the narrator names all three together as its parties. The covenant meant is
   Genesis 15's, which set the four hundred years and promised the departure; God repeats it to Moses at
   6:5. See [[God Remembered - Noah, Abraham, Rachel, and Israel]]
+- [[The Burning Bush]] — Exodus 3:6–8, 15–17; **the covenant God remembered at 2:24 is now spoken.** He names himself
+  by the three parties to it; promises the land of Genesis 15:18–21 by its peoples; and quotes Joseph's
+  *"God will surely visit you"* (Genesis 50:24) as already done — *"I have surely visited you"* (3:16).
+  **The commission is the covenant's execution, not a new covenant**
 
 ## Related themes
 

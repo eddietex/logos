@@ -155,6 +155,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   identification with *"God's people"* a choice of faith and says he left Egypt *"not fearing the
   wrath of the king"*; Exodus records the going out to his brothers, the fear, and the flight, and
   draws no conclusion about his motive
+- [[The Burning Bush]] — Exodus 4:1–9; ***ʾāman***, **five times in nine verses**, the verb of Abram's faith (Genesis
+  15:6). *"They will not believe me"* is Moses' third objection, and it contradicts God's *"They will
+  listen to your voice"* (3:18); **God answers with signs, not with a rebuke**, and the question is
+  closed at 4:31: *"The people believed."* See [[Signs and Wonders]]
 
 ## Related themes
 

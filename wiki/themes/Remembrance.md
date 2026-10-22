@@ -247,6 +247,10 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   Jacob"*** — **the remembering on which the whole exodus turns**, as Noah's rescue turned on 8:1 and
   Rachel's on 30:22, and the answer to a king who *"didn't know Joseph"* (1:8). See
   [[God Remembered - Noah, Abraham, Rachel, and Israel]]
+- [[The Burning Bush]] — Exodus 3:15–16; ***zikrî***, ***"my memorial to all generations"*** — **the noun of *zākar*
+  given to Israel.** God remembered (2:24); now he gives the people the name by which they will remember
+  him. And the password for the elders, *pāqōd pāqadtî*, *"I have surely visited you"*, is Joseph's
+  dying sentence kept. See [[God Remembered - Noah, Abraham, Rachel, and Israel]]
 
 ## Related themes
 

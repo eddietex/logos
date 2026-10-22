@@ -166,6 +166,11 @@ Genesis 1 sets four load-bearing claims:
   kî-ṭôb hûʾ*, the sentence of Genesis 1:4 — and **the child laid in a *tēbâ*, the word used
   otherwise only of Noah's ark.** A new beginning marked in the creation week's vocabulary and the
   flood's. See [[The Two Arks - Noah's Ship and Moses' Basket]]
+- [[The Burning Bush]] — Exodus 4:11; ***"Who made man's mouth? Or who makes one mute, or deaf, or seeing, or blind?
+  Isn't it I, Yahweh?"*** **The creator claims the disabilities with the faculties**, as the ground of
+  the commission. *Mî śām*, *who set*, is the verb of the Hebrew's taunt at 2:14, *"Who made you a prince
+  and a judge?"*. And the third sign pours river water *"on the dry land"* — the *yabbāšâ* of Genesis
+  1:9
 
 ## Related themes
 

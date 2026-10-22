@@ -216,6 +216,16 @@ everlasting possession, by treaty with its current occupant.
   not used the name since 2:7, and in the dialogue only Job has spoken it (12:9); now each heading has it
   (38:1; 40:1, 3). In his own speech God calls himself *Šadday* and *ʾĔlôah* (40:2) — the names the
   dialogue used for him, and the *Šadday* of Job's summons, *"Let the Almighty answer me!"* (31:35).
+- [[The Burning Bush]] — Exodus 3:6, 13–15, 18; **four names in one conversation, and the gloss on the fourth.** *"The
+  God of your father, the God of Abraham, the God of Isaac, and the God of Jacob"* — the formula of
+  Genesis 26:24 and 28:13, **completed for the first time in God's own mouth**; ***ʾehyeh ʾăšer
+  ʾehyeh***, *I AM WHO I AM*, and ***ʾehyeh*** alone as a subject (*"I AM has sent me"*); ***YHWH***,
+  heard as the third person of the same verb, *"my name forever, and … my memorial to all generations"*;
+  and, for Pharaoh, *"Yahweh, the God of the Hebrews"*. **The *ʾehyeh* of the name is first said as a
+  promise** — *"Certainly I will be with you"*, *kî-ʾehyeh ʿimmāk* (3:12) — and again of Moses' mouth
+  (4:12, 15). Three readings of the name (self-existence, faithful presence, reticence) are recorded on
+  the passage page; none adopted. See [[I AM WHO I AM - Exodus 3.14 and John 8.58]] and
+  [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
 
 ## Related themes
 

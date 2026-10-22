@@ -11167,3 +11167,104 @@ relations), [[God]] (new *Exodus 2:11–25* subsection), [[Pharaoh (of the oppre
 people, places, and themes. Indexes: books (Exodus 3 / 53), people (+3 rows, 7 revised), places (2
 revised), themes (19 revised), connections (+3), `wiki/index.md` (94 passages, 154 people, 279
 connections). `scripts/link-check.sh` clean.
+
+## [2026-10-22] ingest | Exodus 3.1-4.17 — The Burning Bush
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *The Burning Bush — Exodus 3:1–4:17*.
+Boundary kept as planned: the call is one continuous dialogue on the mountain, and 4:18 changes scene
+to Jethro's house. No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[The Burning Bush]] — the bush, the doubled name and *hinnēnî*, holy ground, the God of the fathers;
+God's first-person repetition of 2:24–25's verbs; *"I have come down"*; and five objections (*who am
+I*, *what is his name*, *they will not believe*, *not eloquent*, *send someone else*), each answered
+with what God will be or do. Findings: *sûr*, *turn aside*, behind the WEB's *go* / *came over*;
+*sənê* and its assonance with *Sinai* (recorded as a pun, not an etymology); *ʾênennû ʾukkāl*;
+*ʾadmat-qōdeš* as the first *qōdeš* in Scripture; *ʾĕlōhê ʾābîkā* in the singular; the patriarchal
+formula completed in God's mouth; *ʿammî*; *wāʾērēd* (Genesis 11:5; 18:21; 46:4); *ləhaṣṣîlô miyyad*
+answering 2:19; *"milk and honey"*'s first occurrence; *šālaḥ* as the verb of both the sending and
+*"Let my people go"*; *ʾehyeh ʿimmāk* (3:12) as the key to *ʾehyeh ʾăšer ʾehyeh* (3:14) and its
+return at 4:12, 15; the token in arrears; *taʿabdûn*; *mah-šəmô*; *zikrî*; *pāqōd pāqadtî* as
+Joseph's sentence; *nākâ* (3:20, cf. 2:12); *rêqām* and Deuteronomy 15:13; *niṣṣaltem* beside
+*hiṣṣîl*; *gārat bêtāh*; *ʾāman* five times in 4:1–9; *nāḥāš* against 7:9's *tannîn*; *ṣāraʿat* and
+*as white as snow*; *qōl hāʾōt*; *kəbad-peh* and Pharaoh's *kābēd* heart; *mî śām* (4:11, cf. 2:14);
+Yahweh's anger narrated for the first time.
+
+### Judgment calls
+
+- **New pages for [[Aaron]], [[Horeb]], and [[Pharaoh (of the Exodus)]].** Pharaoh (of the Exodus) is
+  created now, at his first mention in God's forecast (3:10, 18–20), per the schema's title-only rule,
+  rather than at 5:1. No pages for the elders of Israel or the six peoples of the land.
+- **Horeb and Sinai.** Filed as [[Horeb]], the name the text uses here, with *Sinai* in
+  `also_known_as`; the page records the standard identification and the source-critical view, and says
+  the Sinai pericopes (Exodus 19) will decide whether Sinai gets its own page or is filed here.
+- **New themes [[Holiness]] and [[Signs and Wonders]]**, because both are introduced here and run
+  through the rest of the Torah.
+- **The name's meaning** — self-existence (LXX), faithful presence (via 3:12), and reticence — recorded
+  on the passage page and in [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]]; none
+  adopted.
+- **Tensions recorded, not resolved**: the three days' journey (test, ruse, or literal festival); 3:19's
+  *not even by* / *unless by* a mighty hand; Acts 7:22's *"mighty in his words"* against 4:10; *"the
+  Levite"* of Aaron (three readings); the angel and God in 3:2–6, on [[The Angel of Yahweh]].
+- **Rabbinic traditions cited as such**: the *mazzeh* / *maṭṭeh* sound-play, and Zevachim 102a on the
+  priesthood passing to Aaron.
+- **The *God* section heading on [[God]]** was renamed *He is almost absent, and then speaks from a
+  bush — Exodus*, since he now speaks at length.
+
+### Corrections made while drafting
+
+- A draft called the speech the longest divine speech in Scripture so far; the speeches from the
+  whirlwind (Job 38–41, already ingested) are longer. Removed.
+- A draft called the six peoples *six of the ten* of Genesis 15:19–21; the Hivite is not in that list.
+  Now *five of them, plus the Hivite*, on every page that mentions it.
+- A draft cited Exodus 14:16, 22, 29 for *"dry land"*; the WEB there reads *dry ground*, and 14:29 was
+  not checked. Now 14:16, 22, *dry ground*.
+- A draft claimed Moses and Aaron were the first brothers *never rivals for an inheritance*; softened
+  to the announced gladness, with Numbers 12's rivalry noted.
+- A draft on [[Aaron]] called him the first person whose role is to be another's mouth; Joseph's
+  interpreter (Genesis 42:23) precedes him. Now *the first whom God appoints*.
+- A draft said Isaac was buried at Machpelah per Genesis 35:29; that verse does not name the place.
+  Now Genesis 49:31.
+- A draft said Matthew and Mark both have *egō eimi* at the resurrection saying; Mark has no verb.
+- The Exodus 3:13–14 quotation on [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]]
+  was not the WEB's wording (*"They will say to me"*); replaced with the verbatim text.
+
+Quotations outside Genesis/Exodus checked against the WEB at bible-api.com before writing: Matthew
+22:31–32; Mark 12:26; Luke 20:37–38; Luke 21:15; John 1:14; John 8:56–59; John 9:2; John 20:30–31;
+Acts 2:22; Acts 7:22, 30–35; Revelation 1:8; Judges 6:15–16; 1 Samuel 9:21; Isaiah 6:3, 5, 8;
+Jeremiah 1:6–9; Deuteronomy 1:1–2; 5:2; 4:34; 6:22; 15:13–14; 18:18; 33:16; Leviticus 19:2;
+1 Peter 1:15–16; Joshua 5:15; 1 Kings 19:8; Numbers 12:10; 2 Kings 5:27; Psalm 105:27, 37; Galatians
+4:25. Cited by reference or paraphrase only: Daniel 12:2; Isaiah 26:19; Deuteronomy 13:1–3; 2 Samuel 7:8. Genesis and Exodus texts checked against `raw/bible/`. Hebrew forms
+are given from the standard text and were not machine-checked; the Greek of Mark 12:26 (*egō ho
+theos*) is from memory of the critical text and is the one non-WEB detail flagged for review.
+
+### Connection pages
+
+Created (4): [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]],
+[[I AM WHO I AM - Exodus 3.14 and John 8.58]], [[Who Am I - The Objections of the Called]], and
+[[You Shall Not Go Empty-Handed - The Plunder of Egypt]]. Revised (7):
+[[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] (quotation corrected; *Exodus 3 read in
+place* section), [[Jacob, Jacob - The Doubled Name and Hinneni]],
+[[Smoking Furnace and Flaming Torch - Fire as Theophany]], [[Four Hundred Years - The Sojourn and the Exodus]],
+[[Who Made You a Prince and a Judge - The Rejected Deliverer]],
+[[God Remembered - Noah, Abraham, Rachel, and Israel]], and [[Calling on the Name of Yahweh]].
+
+### Pages created or revised
+
+Created (10): the passage page, [[Aaron]], [[Pharaoh (of the Exodus)]], [[Horeb]], [[Holiness]],
+[[Signs and Wonders]], and four connection pages. People revised (9): [[Moses]] (call narrative and
+speech in the overview; timeline; relations; themes), [[God]] (new *Exodus 3:1–4:17* subsection; H2
+renamed), [[The Angel of Yahweh]] (new *Exodus 3:2–6* subsection), [[Jethro]],
+[[Pharaoh (of the oppression)]], [[Abraham]], [[Isaac]], [[Jacob]], [[Joseph]]. Places revised (4):
+[[Midian]], [[Egypt]], [[Canaan]], [[The Nile]]. Themes revised (23): [[The Names of God]],
+[[Call and Election]], [[Language and Speech]], [[Seeing and Being Seen]], [[The Fear of God]],
+[[Faith]], [[Covenant]], [[Remembrance]], [[Land and Sojourning]], [[Slavery and Servitude]],
+[[Mediation and Advocacy]], [[Prophecy and Vision]], [[Wealth and Possessions]],
+[[Sacrifice and Offering]], [[Clean and Unclean]], [[Suffering]], [[Creation]], [[Brotherhood]],
+[[The Nations]], [[Judgment]], [[Divine Grief and Relenting]], [[Providence]], [[Deception]]. Book page:
+box checked, chapters 3–4 structure note, key people, places, and themes. Indexes: books (Exodus 4 /
+53), people (+2 rows, 8 revised), places (+1, 4 revised), themes (+2, 23 revised), connections (+4, 6
+rows' references extended), `wiki/index.md` (95 passages, 156 people, 79 places, 70 themes, 283
+connections).

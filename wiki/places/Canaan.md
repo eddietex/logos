@@ -208,6 +208,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   everybody goes back to Egypt in the next verse. **[[Joseph]]'s last words name it as *"the land which
   he swore to Abraham, to Isaac, and to Jacob"*** (50:24) — **Genesis closes with the promise recited in
   full and nobody standing in it**
+- [[The Burning Bush]] — Exodus 3:8, 17; **described twice in one verse, by what it yields and by who
+  holds it.** *"A good and large land, … a land flowing with milk and honey"* — the phrase's first
+  occurrence — *"to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and
+  the Jebusite"*: five peoples from Genesis 15:19–21 and the Hivite, the list of six that becomes
+  standard
 
 ## Related places
 
@@ -262,3 +267,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   35:6, 12, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - [[Benjamin]] is born on the road to Ephrath — **the only one of the twelve born in the land**, four
   verses before the roster says all twelve were born in Paddan Aram — Genesis 35:16–19, 26
+- Promised at Horeb as *"a land flowing with milk and honey"* — Exodus 3:8, 17,
+  [[The Burning Bush]]

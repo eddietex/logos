@@ -280,6 +280,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   words in Greek, and the wiki records the echo without claiming a citation.** *"A company of peoples"*
   (48:4) is the promise to Jacob himself. See [[Adoption]] and
   [[Not from the Daughters of the Canaanites]]
+- [[The Burning Bush]] — Exodus 3:8, 17; ***"the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and
+  the Jebusite"*** — **five of them from the ten of Genesis 15:19–21, plus the Hivite**, the list of six
+  that becomes the standard. The land is promised by naming who holds it, and the promise does not
+  explain what will become of them
+
 ## Related themes
 
 - [[Blessing]] — the command of 9:1 that 10:32 reports fulfilled, and the promise of 12:3 that the

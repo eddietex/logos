@@ -327,6 +327,10 @@ where that starts, in a sentence about a family that got halfway.
   first time**, and in Midian rather than Egypt: *"I have lived as a foreigner in a foreign land."* The
   word becomes the ground of the law of the stranger — *"you know the heart of an alien"* (Exodus
   23:9). See [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]
+- [[The Burning Bush]] — Exodus 3:8, 17, 22; ***"a land flowing with milk and honey"*** — **the phrase's first
+  occurrence**, a shepherd's measure of good country, said to a shepherd — and in the same verse the six
+  peoples who hold it. And the Egyptian woman *"who visits her house"* is *gārat bêtāh*, the one
+  *sojourning* in the Hebrew woman's house: the root of Gershom's *gēr* (2:22), reversed
 
 ## Related themes
 

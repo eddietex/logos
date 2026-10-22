@@ -61,8 +61,14 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   *Gershom*, *a sojourner there*. **Then, after twenty-two more verses without him, God is named five
   times in three**: he hears, remembers his covenant, sees, and knows (2:23–25). See
   [[Moses Flees to Midian]].
-- **3–4 The call** — the burning bush, the name *"I AM WHO I AM"* (3:14), Moses' objections, and
-  the return to Egypt.
+- **3–4 The call** — at Horeb, *"God's mountain"*, a bush burns and is not consumed; God calls Moses
+  by name, makes the ground holy, names himself the God of Abraham, Isaac, and Jacob, and says he has
+  *come down to deliver*. **Moses objects five times** — *who am I*, *what is his name*, *they will not
+  believe*, *I am not eloquent*, *send someone else* — and **every answer is something God will be or
+  do**: *ʾehyeh ʿimmāk*, *"I will be with you"* (3:12); *"I AM WHO I AM"* and *Yahweh* (3:14–15); three
+  signs; *"I will be with your mouth"*; and, in anger, Aaron as Moses' mouth (4:14–16). The refusal of
+  Pharaoh and the plunder of Egypt are foretold before anything is asked. See [[The Burning Bush]].
+  Then the return to Egypt (4:18–31).
 - **5–7:13 The first confrontation** — bricks without straw, the name *Yahweh* reaffirmed (6:2–8),
   the genealogy of Moses and Aaron, and the staff that becomes a serpent.
 - **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
@@ -97,7 +103,7 @@ for unit.
 
 ### The call (3–4)
 
-- [ ] The Burning Bush — Exodus 3:1–4:17
+- [x] [[The Burning Bush]] — Exodus 3:1–4:17
 - [ ] Moses Returns to Egypt — Exodus 4:18–31
 
 ### The first confrontation (5–7:13)
@@ -188,6 +194,11 @@ for unit.
 - [[Compassion and Mercy]]
 - [[Remembrance]]
 - [[Land and Sojourning]]
+- [[Holiness]]
+- [[Signs and Wonders]]
+- [[The Names of God]]
+- [[Call and Election]]
+- [[Language and Speech]]
 
 ## Key people
 
@@ -203,6 +214,9 @@ for unit.
 - [[Jethro]] — the priest of Midian, called Reuel at 2:18, who takes the fugitive in
 - [[Zipporah]] — his daughter, Moses' wife
 - [[Gershom]] — their son, named for exile
+- [[Aaron]] — Moses' brother, appointed to be his mouth
+- [[The Angel of Yahweh]] — in the flame of the bush
+- [[Pharaoh (of the Exodus)]] — the king Moses is sent to
 
 ## Key places
 
@@ -211,3 +225,4 @@ for unit.
 - [[The Nile]] — *"the river"* of 1:22
 - [[Goshen]]
 - [[Midian]] — where Moses flees
+- [[Horeb]] — *"God's mountain"*, where the bush burns

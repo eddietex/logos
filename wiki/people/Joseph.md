@@ -553,6 +553,9 @@ sworn to and not himself.**
   Joseph"* (1:8). His promise of 50:24 — *"bring you up out of this land"* — is the king's fear at
   1:10 (*"escape out of the land"*, *ʿālâ*), and the midwives *"saved the baby boys alive"* with the
   root of his *"to save many people alive"* (50:20)
+- [[The Burning Bush]] — Exodus 3:16; **not named, but quoted.** The message for the elders, *"I have
+  surely visited you"* — *pāqōd pāqadtî* — is his dying promise, *"God will surely visit you"*
+  (Genesis 50:24–25), kept word for word
 
 ## Related people
 

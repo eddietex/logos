@@ -74,6 +74,9 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   and marries into the house. **The descendants of the people whose caravan carried Joseph into Egypt
   (Genesis 37:28, 36) shelter the man who will bring Joseph's bones out of it** (Exodus 13:19). Moses
   names his son for being a *gēr* here — *"a foreigner in a foreign land"* (2:22)
+- [[The Burning Bush]] — Exodus 3:1; **the pasture behind which lies the mountain.** Moses leads
+  Jethro's flock *"to the back of the wilderness"* and comes to [[Horeb]]; Midian's country is within
+  a shepherd's reach of God's mountain
 
 ## Related places
 
@@ -81,13 +84,14 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - [[Moab (place)]] — the field the battle is fought in, and Midian's ally in Numbers 22
 - [[Egypt]] — where the Midianite traders of Genesis 37 take Joseph
 - [[Paran]] and [[Shur]] — the desert country Midian's range abuts
+- [[Horeb]] — *"God's mountain"*, at the back of the wilderness where Jethro's flock grazes
 
 ## Events here
 
 - A son of Abraham by Keturah, sent east with gifts — Genesis 25:1–6
 - Struck by Hadad son of Bedad in the field of Moab — Genesis 36:35
 - Moses' forty years of exile, his marriage, and the burning bush — Exodus 2:15–3:12;
-  [[Moses Flees to Midian]]
+  [[Moses Flees to Midian]], [[The Burning Bush]]
 - Jethro's counsel on delegated judges — Exodus 18
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31
 - The raids Gideon ends — Judges 6–8

@@ -72,10 +72,30 @@ Hebrew, a Hebrew against a Hebrew, shepherds against women — **and only the th
 strangers, is rewarded.** The deliverance itself begins without him, at 2:23–25, when God hears,
 remembers, sees, and knows.
 
+**At Horeb he is called, and refuses.** Keeping Jethro's flock, he leads it *"to the back of the
+wilderness"* and comes to *"God's mountain"*; he turns aside to see a bush that burns and is not
+consumed, and only then does God call him — *"Moses! Moses!"* — and he answers *hinnēnî*, *"Here I am"*,
+the word of Abraham at the knife and Jacob on the way to Egypt (3:1–4). Told to take off his sandals on
+holy ground, **he hides his face, *"for he was afraid to look at God"*** (3:6) — the fear of 2:14 turned
+the other way. Then the commission, *"I will send you to Pharaoh"* (3:10), and **five objections**:
+*"Who am I?"* (3:11); *"What is his name?"* (3:13); *"They will not believe me"* (4:1); *"I am not
+eloquent … I am slow of speech"* (4:10); and *"Oh, Lord, please send someone else"* (4:13). **The man
+who once acted without being sent will not go now that he is.** God answers each with what he will be or
+do — *ʾehyeh ʿimmāk*, *"I will be with you"*; *ʾehyeh ʾăšer ʾehyeh*; three signs; *"I will be with your
+mouth"* — and the last with anger and with [[Aaron]], who will be Moses' mouth as Moses will be *"to him
+as God"* (4:16). **The narrator never records Moses' consent.** See [[The Burning Bush]] and
+[[Who Am I - The Objections of the Called]].
+
+**His speech is the first question about him that Scripture leaves open.** *"Not a man of words"*,
+*heavy of mouth and heavy of tongue* (*kəbad-peh ûkəbad lāšôn*, 4:10) — and *kābēd* is the word that
+will describe Pharaoh's heart (7:14). Stephen says the reverse: *"mighty in his words and works"* (Acts
+7:22). **The wiki records the tension and adopts neither standard reconciliation** (Stephen describes
+the man God's presence made; or *words* means the Torah he gave, not his delivery).
+
 ### What is ahead
 
-The burning bush and the divine
-name (3–4); the confrontation with Pharaoh and the plagues (5–11); the Passover, the sea, and the
+The return to Egypt, the circumcision at the lodging place, and the meeting with Aaron (4:18–31);
+the confrontation with Pharaoh and the plagues (5–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -94,7 +114,15 @@ sections are written as their pericopes arrive.
 - Saves the seven daughters of the priest of Midian from the shepherds and waters their flock —
   Exodus 2:16–19
 - Dwells with Reuel ([[Jethro]]); marries [[Zipporah]]; names his son [[Gershom]] — Exodus 2:20–22
-- *(ahead)* Keeps Jethro's flock; the burning bush — Exodus 3:1
+- Keeps Jethro's flock; comes to Horeb, *"God's mountain"*; turns aside to see the bush that is not
+  consumed — Exodus 3:1–3, [[The Burning Bush]]
+- Called by name twice; answers *"Here I am"*; told to remove his sandals on holy ground; hides his
+  face — Exodus 3:4–6
+- Sent to Pharaoh; objects *"Who am I?"* and is told *"I will be with you"* — Exodus 3:10–12
+- Asks the name, and is given *"I AM WHO I AM"* and *Yahweh* — Exodus 3:13–15
+- Given three signs: the rod and the snake, the leprous hand, water to blood — Exodus 4:1–9
+- Pleads he is not eloquent, then asks God to send someone else; God's anger burns, and Aaron is
+  appointed his mouth — Exodus 4:10–17
 
 ## Appears in
 
@@ -103,6 +131,10 @@ sections are written as their pericopes arrive.
 - [[Moses Flees to Midian]] — Exodus 2:11–22; **a would-be deliverer refused.** Kills an Egyptian in
   secret, is asked *"Who made you a prince and a judge over us?"*, flees afraid, saves seven Midianite
   women at a well, marries Zipporah, and names his son for his exile
+- [[The Burning Bush]] — Exodus 3:1–4:17; **called and unwilling.** Turns aside to see, answers
+  *"Here I am"*, hides his face, and then objects five times — *who am I*, *what is his name*, *they
+  will not believe*, *I am not eloquent*, *send someone else* — and is answered with *ʾehyeh*, the
+  signs, Aaron, and the rod
 
 ## Related people
 
@@ -118,6 +150,8 @@ sections are written as their pericopes arrive.
 - [[Zipporah]] — his wife
 - [[Gershom]] — his first son, named for his exile
 - [[Jacob]] — whose flight, well, flock, and marriage his own exile repeats
+- [[Aaron]] — his brother, appointed to be his mouth (4:14–16)
+- [[Pharaoh (of the Exodus)]] — the king he is sent to
 
 ## Themes associated
 
@@ -130,3 +164,7 @@ sections are written as their pericopes arrive.
 - [[Mediation and Advocacy]]
 - [[Land and Sojourning]]
 - [[The Fear of God]]
+- [[Holiness]]
+- [[Signs and Wonders]]
+- [[Language and Speech]]
+- [[Prophecy and Vision]]

@@ -233,6 +233,18 @@ name, he declines to give one.**
 See [[Wrestling at the Jabbok]] and
 [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]].
 
+### In this pericope — Exodus 3:2–6
+
+**The table at the top of this page lists the bush, and the passage bears it out as the alternation at
+its most compressed.** *"Yahweh's angel appeared to him in a flame of fire out of the middle of a
+bush"* (3:2) — and then **Yahweh** sees Moses turn aside, **God** calls *out of the middle of the
+bush*, and the voice says *"I am the God of your father"* (3:4–6). **The angel is never mentioned
+again in the scene**; for the remaining thirty-six verses it is Yahweh and God who speak. **Stephen keeps both
+sides**: *"an angel of the Lord appeared to him … in a flame of fire in a bush"*, then *"a voice of the
+Lord came to him"* (Acts 7:30–31), and God sent Moses *"by the hand of the angel who appeared to him in
+the bush"* (7:35). **Moses' reaction is reading 2's**: *"he was afraid to look at God"* (3:6), not at a
+messenger. The wiki records the alternation and harmonizes nothing. See [[The Burning Bush]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -255,7 +267,7 @@ See [[Wrestling at the Jabbok]] and
 - Invoked by the dying Jacob, in apposition with *the God*, as *"the angel who has redeemed me from all
   evil"* — **the first *gōʾēl* in Scripture** — and asked to bless [[Ephraim]] and [[Manasseh]] —
   Genesis 48:15–16, [[Jacob Blesses Ephraim and Manasseh]]
-- Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6
+- Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6, [[The Burning Bush]]
 - Goes before Israel in the wilderness, with the warning *"my name is in him"* — Exodus 23:20–23
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
 - Sits under the oak at Ophrah and commissions Gideon — Judges 6:11–24
@@ -311,6 +323,9 @@ See [[Wrestling at the Jabbok]] and
   occurrence of *gāʾal* in the Bible**, and its subject is this figure — **before the exodus, the law of
   the kinsman, or the prophetic title have any use for the word.** See
   [[The Redeemer and the Avenger of Blood]] and [[The Names of God]]
+- [[The Burning Bush]] — Exodus 3:2; **one verse as *the angel*, then thirty-six as Yahweh and God.**
+  Appears in the fire; the voice from the same place says *"I am the God of your father"*; Moses hides
+  his face *"for he was afraid to look at God"*. Stephen's retelling keeps the angel (Acts 7:30, 35)
 
 ## Related people
 
@@ -321,6 +336,7 @@ See [[Wrestling at the Jabbok]] and
 - [[Jacob]] — who calls him *the God of Bethel* in a dream (31:13), wrestles him (32:24–30), and on his
   deathbed asks him to bless two children (48:16)
 - [[Ephraim]] and [[Manasseh]] — the only people in Scripture a blessing is asked of him for
+- [[Moses]] — to whom he appears in the bush
 
 ## Themes associated
 
@@ -329,3 +345,4 @@ See [[Wrestling at the Jabbok]] and
 - [[Seeing and Being Seen]]
 - [[Mediation and Advocacy]]
 - [[Hospitality]]
+- [[Holiness]]

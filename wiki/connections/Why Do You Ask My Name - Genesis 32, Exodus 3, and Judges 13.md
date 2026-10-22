@@ -9,8 +9,9 @@ tags: [connection]
 
 - **Genesis 32:29** — Jacob: *"Please tell me your name."* The wrestler: *"Why is it that you ask
   what my name is?"* He blesses him there and gives nothing else. — [[Wrestling at the Jabbok]]
-- **Exodus 3:13–15** — Moses: *"They will say to me, 'What is his name?' What should I tell them?"*
-  God: *"I AM WHO I AM… you shall tell the children of Israel, 'I AM has sent me to you.'"*
+- **Exodus 3:13–15** — Moses: *"they ask me, 'What is his name?' What should I tell them?"* God: *"I
+  AM WHO I AM," and he said, "You shall tell the children of Israel this: 'I AM has sent me to you.'"*
+  — [[The Burning Bush]]
 - **Judges 13:17–18** — Manoah: *"What is your name?"* The angel of Yahweh: *"Why do you ask my
   name, since it is incomprehensible?"*
 
@@ -63,4 +64,17 @@ question and its refusal, not necessarily the one being asked.**
   than once, and the reluctance itself, not the identity behind it, is the thing Scripture keeps
   returning to.
 
-See [[Names and Naming]], [[The Names of God]], and [[The Angel of Yahweh]].
+### Exodus 3 read in place
+
+**Ingesting [[The Burning Bush]] sharpens the Exodus side of the comparison.** Two verses before the
+name, God has already said ***ʾehyeh*** to Moses as a promise — *"Certainly I will be with you"*,
+*kî-ʾehyeh ʿimmāk* (3:12) — and he says it twice more afterwards, to Moses' mouth (4:12, 15). **So the
+reply that withholds by complying also gives something Jacob and Manoah never receive: a name that is
+first heard as a pledge of company.** The reticence reading recorded above is one of three on the
+passage page; the others — self-existence, after the Septuagint's *egō eimi ho ōn*, and faithful
+presence, after 3:12 — are set out there, and the wiki adopts none. And unlike Genesis 32 and Judges
+13, **the question in Exodus is not the human's own**: Moses asks on behalf of the people who will ask
+him (*"they ask me"*), and the answer is given for them — *"This is my name forever"* (3:15).
+
+See [[Names and Naming]], [[The Names of God]], [[The Angel of Yahweh]], and
+[[I AM WHO I AM - Exodus 3.14 and John 8.58]].

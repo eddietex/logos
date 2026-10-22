@@ -64,6 +64,12 @@ Zechariah's song the purpose of the coming salvation is *"to remember his holy c
 which he swore to Abraham"* (Luke 1:72–73). The rescue from Egypt and the rescue Luke announces are
 described as the same act of remembering, toward the same man.
 
+**At the bush the verb gets a noun, and the noun is given to Israel.** *"This is my name forever, and
+this is my memorial to all generations"* (Exodus 3:15) — ***zikrî***, *my memorial*, from *zākar*.
+**God remembered his covenant at 2:24; at 3:15 he gives the people the means to remember him**, and
+the password for the elders is Joseph's dying promise kept word for word — *pāqōd pāqadtî*, *"I have
+surely visited you"* (3:16; Genesis 50:24–25). See [[The Burning Bush]].
+
 ## Significance
 
 - **It makes the exodus a kept promise rather than a new decision.** Exodus 2:24 grounds everything

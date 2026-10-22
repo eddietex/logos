@@ -181,6 +181,12 @@ the others.
   speech, no requirement, and no reference to any of it.** He is not seeking it either: *wayyipgaʿ*,
   he runs into the place, stops because the sun has set, and finds out afterwards what he was lying
   on. **Election here is not a reward and not a response**, and Genesis offers no explanation for it.
+- [[The Burning Bush]] — Exodus 3:4–4:17; **the Bible's fullest call narrative, and its most reluctant callee.**
+  Called by name twice; *"Here I am"*; sent — *šālaḥ*, the verb that will become *"Let my people go"*;
+  and then five objections: *who am I*, *what is his name*, *they will not believe*, *I am not
+  eloquent*, *send someone else*. **Each is answered with what God will be or do, never with what Moses
+  is**, and the fifth with anger that does not withdraw the call. The pattern recurs with Gideon, Saul,
+  Isaiah, and Jeremiah. See [[Who Am I - The Objections of the Called]]
 
 ## Related themes
 

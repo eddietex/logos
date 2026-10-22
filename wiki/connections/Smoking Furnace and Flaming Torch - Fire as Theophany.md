@@ -13,7 +13,8 @@ tags: [connection]
   as the first thing in Scripture stationed at a boundary.
 - **Genesis 19:24** — sulfur and fire on Sodom, four chapters later, from the same God who has just
   walked through a fire-lit corridor for the man who will intercede for it.
-- **Exodus 3:1–6** — the bush that burns and is not consumed.
+- **Exodus 3:1–6** — the bush that burns and is not consumed: *"the bush burned with fire, and the
+  bush was not consumed"* (3:2). See [[The Burning Bush]].
 - **Exodus 13:21–22; 14:24** — the pillar of cloud by day and of fire by night, and God looking out
   of it.
 - **Exodus 19:16–18** — Sinai: *"Mount Sinai, all of it, smoked, because Yahweh descended on it in
@@ -100,6 +101,17 @@ voice"*. The Old Testament's own correction to reading theophany off the pyrotec
 **Acts 2:3** distributes it: what appeared once as one furnace and one torch appears as tongues of
 fire resting on each of a hundred and twenty people. The imagery of the covenant with Abraham is
 handed out.
+
+### The bush, ingested
+
+**[[The Burning Bush]] is the first fire in this thread that dwells instead of passing or falling.** The
+sword turns at a gate, the torch passes between pieces, the sulfur rains: each is God at a boundary or
+in judgment. At Horeb the fire stays in a bush and *"the bush was not consumed"* — ***ʾênennû
+ʾukkāl*** — **and the first word spoken from it is a boundary**, *"Don't come close"* (3:5). Moses'
+blessing of Joseph later names God *"him who lived in the bush"* (Deuteronomy 33:16), with *šākan*, the
+verb of the tabernacle (*miškān*): **the fire that dwells without destroying is the problem the
+tabernacle will solve for a whole camp.** The fire on Sinai (19:18), when it comes, is on the same
+mountain.
 
 ## Significance
 

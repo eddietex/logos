@@ -153,6 +153,10 @@ resolve it.**
   a judge over us?"* — the refusal Joseph met from his brothers (Genesis 37:8). Stephen: *"Sirs, you
   are brothers. Why do you wrong one another?"* (Acts 7:26). See
   [[Who Made You a Prince and a Judge - The Rejected Deliverer]]
+- [[The Burning Bush]] — Exodus 4:14; ***"When he sees you, he will be glad in his heart."*** **After Cain and Abel,
+  Isaac and Ishmael, Jacob and Esau, and Joseph and his brothers, a brother's coming is announced as
+  gladness before it happens**, with no birthright between them to contend for. [[Aaron]] is already
+  on the road. Rivalry comes later, over the prophetic office (Numbers 12)
 
 ## Related themes
 

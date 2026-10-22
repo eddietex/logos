@@ -1326,7 +1326,7 @@ it**: no explanation of the wager, no defence of his justice, no correction of t
 theology within the poem. He asks questions about the sea's doors and the storehouses of snow, and
 he issues his one verdict on the argument afterwards, in prose, to the friends (42:7).
 
-## He is almost absent — Exodus
+## He is almost absent, and then speaks from a bush — Exodus
 
 ### He acts once, for two women — Exodus 1:1–22
 
@@ -1366,6 +1366,28 @@ heard Hagar's boy (Genesis 21:17). **The last verb answers the first failure of 
 king *"didn't know Joseph"* (1:8), and God *knows*. *Zākar* is not recollection after forgetting but
 the hinge of a rescue, as it was for Noah, Abraham, and Rachel. See [[Moses Flees to Midian]] and
 [[God Remembered - Noah, Abraham, Rachel, and Israel]].
+
+### He names himself from a bush that does not burn up — Exodus 3:1–4:17
+
+**After two chapters of near-silence he speaks from 3:4 to 4:17 almost without a break**, and the
+first thing he does is wait: *"When Yahweh saw that he turned aside to see, God called"* (3:4). He
+appears as [[The Angel of Yahweh]] in a flame, and is *Yahweh* and *God* from the next verse; the
+alternation is not explained. **His first word after Moses' name is a boundary** — *"Don't come close"*
+— and the ground is called holy, the first *qōdeš* in Scripture (3:5). He introduces himself as *"the
+God of your father, the God of Abraham, the God of Isaac, and the God of Jacob"* (3:6), **all three for
+the first time in his own mouth**, and repeats in the first person the narrator's verbs of 2:24–25:
+*"I have surely seen … have heard … I know their sorrows"* (3:7). **He has *come down*** (*wāʾērēd*),
+the verb of Babel and Sodom, **but this time to deliver, not to judge** (3:8).
+
+**He gives his name as a promise before he gives it as a name.** *"Certainly I will be with you"* —
+*ʾehyeh ʿimmāk* (3:12) — and then *"I AM WHO I AM"*, *ʾehyeh ʾăšer ʾehyeh*, and *Yahweh*, *"my name
+forever, and … my memorial to all generations"* (3:14–15). He foretells Pharaoh's refusal before the
+request is made (3:19), names the plagues *"my wonders"* (3:20), and promises that Israel will not leave
+*"empty-handed"* (3:21–22). **He answers every objection with something he will be or do, never with
+something Moses is**; claims the mouth and its disabilities — *"Who made man's mouth? … Isn't it I,
+Yahweh?"* (4:11); and when Moses asks him to send someone else, **his anger burns — the first time the
+narrator says so — and he answers it with help**, not punishment: Aaron (4:14). See
+[[The Burning Bush]], [[The Names of God]], and [[I AM WHO I AM - Exodus 3.14 and John 8.58]].
 
 ## Timeline / key events
 
@@ -1521,6 +1543,10 @@ the hinge of a rescue, as it was for Noah, Abraham, and Rachel. See [[Moses Flee
   multiply under oppression — Exodus 1:7, 12, 17–21, [[The Oppression in Egypt]]
 - Hears Israel's groaning, remembers his covenant with Abraham, Isaac, and Jacob, sees, and knows —
   Exodus 2:23–25, [[Moses Flees to Midian]]
+- Appears in a flame in a bush at Horeb; calls Moses by name; makes the ground holy; names himself *the
+  God of Abraham, Isaac, and Jacob*; announces that he has come down to deliver; gives the name
+  *ʾehyeh ʾăšer ʾehyeh* and *Yahweh*; foretells Pharaoh's refusal and the plunder; gives three signs;
+  is angry at Moses' refusal and appoints Aaron — Exodus 3:1–4:17, [[The Burning Bush]]
 
 ## Appears in
 
@@ -1846,6 +1872,9 @@ the hinge of a rescue, as it was for Noah, Abraham, and Rachel. See [[Moses Flee
   three verses.** He hears a cry no one addressed to him, remembers the covenant with the three
   patriarchs, sees, and *knows* — the verb the king of 1:8 failed. The book's turn from oppression to
   deliverance is his, not Moses'
+- [[The Burning Bush]] — Exodus 3:2–4:17; **his first sustained speech in Exodus, and his name.**
+  Speaks from a bush that is not consumed; *ʾehyeh ʿimmāk*, *ʾehyeh ʾăšer ʾehyeh*, *ʾehyeh ʿim-pîkā*;
+  answers five objections, is angry at the fifth, and sends Moses anyway
 
 ## Related people
 

@@ -924,6 +924,11 @@ for four hundred years, and he is dead when he gets there.**
   his exile retold.** Moses flees a threat to his life, comes to a well, waters a flock for a
   shepherd's daughter, and marries into the house — Jacob's flight to Laban (Genesis 27:43; 29:1–20)
   step for step
+- [[The Burning Bush]] — Exodus 3:4, 6, 8; **named third in God's self-introduction**, and answered
+  across the generations: the doubled name and *hinnēnî* of Genesis 46:2 recur at 3:4, and the promise
+  *"I will go down with you into Egypt. I will also surely bring you up again"* (46:4) is kept in *"I
+  have come down to deliver them … and to bring them up"* (3:8). See
+  [[Jacob, Jacob - The Doubled Name and Hinneni]]
 
 ## Related people
 

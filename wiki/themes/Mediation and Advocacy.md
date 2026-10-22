@@ -249,6 +249,10 @@ what Job is asking for.
   for his own people, fail; the third, for strangers, is rewarded with a home.** The verbs of the third
   are the exodus's own: *yāšaʿ*, *saved* (2:17; 14:30), and *nāṣal*, *delivered out of the hand*
   (2:19; 3:8). See [[Who Made You a Prince and a Judge - The Rejected Deliverer]]
+- [[The Burning Bush]] — Exodus 4:14–16; **mediation given a structure.** *"He will be to you a mouth, and you will be
+  to him as God"* — God's words to Moses, Moses' to [[Aaron]], Aaron's to the people. **Moses the
+  intercessor of later chapters begins as a man who asks to be excused from mediating at all** (*"Please
+  send someone else"*), and is given a mediator of his own
 
 ## Related themes
 

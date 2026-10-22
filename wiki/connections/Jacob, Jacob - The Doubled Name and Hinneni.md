@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Genesis 22:11** — [[The Binding of Isaac]]. *"Abraham, Abraham!" He said, "Here I am."*
 - **Genesis 46:2** — [[Jacob's Family Settles in Egypt]]. *"Jacob, Jacob!" He said, "Here I am."*
-- **Exodus 3:4** — the bush; *Moses, Moses*.
+- **Exodus 3:4** — [[The Burning Bush]]. *God called to him out of the middle of the bush, and said,
+  "Moses! Moses!" He said, "Here I am."*
 - **1 Samuel 3:10** — Shiloh; *Samuel, Samuel*.
 - **Luke 10:41** — *Martha, Martha*.
 - **Luke 22:31** — *Simon, Simon*.
@@ -70,6 +71,16 @@ opens *"God spoke to Israel"*** — **the narrator uses the new name and the voi
 **The man who was renamed at Peniel is addressed by the name he was born with at the moment he leaves
 the land the new name was given in.** See
 [[Renamed and Still Called Jacob - The Two Namings of Israel]].
+
+### Moses at the bush
+
+**Exodus 3:4 completes the Torah's three.** The doubled name and *hinnēnî* came to Abraham at the knife
+and to Jacob at Beersheba, where the promise was *"I will go down with you into Egypt. I will also
+surely bring you up again"* (Genesis 46:4). **The next man called this way is the one sent to do the
+bringing up**, and God's first words after the name are *"I have come down to deliver them"* (Exodus
+3:8) — the verb of 46:4, kept. **And Moses' *hinnēnî* is the last willing word he says in the
+passage**: everything after it is objection. See [[The Burning Bush]] and
+[[Who Am I - The Objections of the Called]].
 
 ## Significance
 

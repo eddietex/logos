@@ -321,6 +321,10 @@ rule are the conditions the rest of Scripture is set in.
 - [[The Restoration of Job]] — Job 42:7–9; **the trial's verdict, given to the other side.** Job asked for a hearing; the verdict,
   when it comes, is on the friends: *"My wrath is kindled against you"*. It is turned aside by sacrifice and by the
   prayer of the man they judged, *"that I not deal with you according to your folly"* (42:8).
+- [[The Burning Bush]] — Exodus 3:19–20; ***"I will reach out my hand and strike Egypt with all my wonders."***
+  *Wəhikkêtî* is *nākâ*, **the verb Moses used on one Egyptian in secret** (2:12): what the man did by
+  his own hand to one, God will do by his to the country. **The judgment is announced before the
+  request it answers is made**, with the refusal foreknown
 
 ## Related themes
 

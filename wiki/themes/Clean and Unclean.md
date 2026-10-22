@@ -128,6 +128,11 @@ These are not exclusive, and the third is the one the text argues for by itself.
   **purity applied to the moon and stars** — which no law of purity covers — so that it can then be
   denied to *"he who is born of a woman"*. The third and last of the friends' purity a-fortioris
   (4:17–19; 15:14–16). See [[What Is Man That He Should Be Clean]]
+- [[The Burning Bush]] — Exodus 4:6–7; **a hand made *leprous, as white as snow*, and restored within a verse.**
+  *Ṣāraʿat*, the skin disease Leviticus 13–14 treats as uncleanness; *as white as snow* is the formula
+  of Miriam's punishment (Numbers 12:10) and Gehazi's (2 Kings 5:27). **Moses' is the only such hand in
+  Scripture with no fault attached** — a sign that the God who sends him makes clean and unclean at
+  will
 
 ## Related themes
 

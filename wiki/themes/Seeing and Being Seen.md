@@ -311,6 +311,11 @@ will finally go both ways.
   burdens"* and *saw* an Egyptian strike a Hebrew, then *"looked this way and that way"* and saw *no
   man* — seeing used to make sure he is not seen. The chapter closes on ***"God saw the children of
   Israel"*** and ***God knew*** (2:25): the seeing that is not hidden, and that ends the bondage
+- [[The Burning Bush]] — Exodus 3:2–9; **the encounter waits on a man's curiosity.** *"I will turn aside and see this
+  great sight"*; *"When Yahweh saw that he turned aside to see, God called"*. Then Moses hides his face,
+  *"for he was afraid to look at God"*, and God says he has seen: *rāʾōh rāʾîtî*, *"I have surely seen
+  the affliction of my people"* — the narrator's *"God saw"* of 2:25 in God's own mouth. **The one who
+  may not be looked at is the one who looks**
 
 ## Related themes
 

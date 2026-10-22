@@ -105,6 +105,10 @@ happening in God rather than in the world.
 - [[The Restoration of Job]] — Job 42:11; **the verb as comfort.** *Wayənaḥămû ʾōtô*, *they comforted him* —
   *nḥm*, the root of God's *was sorry* (Genesis 6:6) and of Job's *niḥamtî* (42:6), here the comfort the friends came
   for (2:11) and never gave, given by Job's family.
+- [[The Burning Bush]] — Exodus 4:14; ***"Yahweh's anger burned against Moses"*** — **the first time the narrator
+  says Yahweh's anger burned**, after Abraham's hypothetical *"don't let the Lord be angry"* (Genesis
+  18:30, 32). **The anger does not withdraw the call or punish the refusal; it adds Aaron.** A rabbinic
+  tradition (Zevachim 102a) says it cost Moses' line the priesthood; the text does not
 
 ## Related themes
 

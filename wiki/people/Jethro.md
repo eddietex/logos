@@ -66,7 +66,7 @@ telling him how to do it.
 - *The priest of Midian*, with seven daughters who water his flock — Exodus 2:16
 - Asks why they are home early; told *"An Egyptian delivered us"* — Exodus 2:18–19
 - Invites Moses to eat; Moses agrees to dwell with him; gives him Zipporah — Exodus 2:20–21
-- *(ahead)* Moses keeps his flock at Horeb — Exodus 3:1
+- Moses keeps his flock, and leads it to Horeb — Exodus 3:1, [[The Burning Bush]]
 - *(ahead)* Sends Moses back to Egypt: *"Go in peace"* — Exodus 4:18
 - *(ahead)* Brings Zipporah and the sons, blesses Yahweh, sacrifices, and counsels Moses —
   Exodus 18:1–27
@@ -76,6 +76,9 @@ telling him how to do it.
 - [[Moses Flees to Midian]] — Exodus 2:16–21; **as Reuel, the priest of Midian.** Rebukes his
   daughters for leaving their rescuer at the well, feeds him, keeps him, and gives him Zipporah —
   the father of the house in the third betrothal-at-the-well scene, the first not kin to the groom
+- [[The Burning Bush]] — Exodus 3:1; **named, as *"Jethro, his father-in-law, the priest of Midian"*,
+  in the first verse.** The first use of the name *Jethro*; the flock Moses is grazing when God calls
+  him is his
 
 ## Related people
 

@@ -239,6 +239,10 @@ human one innocent.** *"You meant evil"* stands. See
   deliverance fails and drives him into the wilderness; there he becomes a shepherd within reach of
   Horeb (3:1). Nothing in 2:11–22 names God; **the narrator withholds him until 2:23–25 and then names
   him five times in three verses**
+- [[The Burning Bush]] — Exodus 3:1; 4:2, 14; ***"What is that in your hand?"*** — **the instrument of the plagues is
+  the shepherd's staff Moses already carries**, and the help he asks for is already travelling: *"behold,
+  he comes out to meet you"* (4:14). The forty years in Midian turn out to have put him on the right
+  mountain with the right tool
 
 ## Related themes
 

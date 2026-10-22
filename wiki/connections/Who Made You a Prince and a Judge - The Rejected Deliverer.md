@@ -74,7 +74,14 @@ demonstrable; the wiki notes the verbal closeness and does not press it.
   he reads them toward Jesus.
 - **It keeps Moses' failure in the record.** Exodus does not tell the killing as a heroic act and
   does not tell the rebuke as ingratitude only. The man who asked *"Who made you a judge?"* was asking
-  a fair question, and the answer — *God did, later* — is the subject of Exodus 3.
+  a fair question, and the answer — *God did, later* — is the subject of Exodus 3. In
+  [[The Burning Bush]] Moses puts the question to himself — *"Who am I, that I should go to
+  Pharaoh?"* (3:11) — and God's reply to his fourth objection begins with the same two words as the
+  Hebrew's taunt: *mî śāmkā*, *who made you* (2:14), and *mî śām peh lāʾādām*, *"Who made man's
+  mouth?"* (4:11). **The one who sets the mouth in the man sets the man in the office.** Stephen calls
+  the sending the answer to the refusal: *"This Moses, whom they refused … God has sent him as both a
+  ruler and a deliverer by the hand of the angel who appeared to him in the bush"* (Acts 7:35). See
+  [[Who Am I - The Objections of the Called]].
 - **It sets the human initiative and the divine one side by side.** Moses' attempt (2:11–14) and
   God's turning (2:23–25) frame the same chapter; see [[Moses Flees to Midian]].
 

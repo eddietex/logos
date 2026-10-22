@@ -949,6 +949,10 @@ arrive.
 - [[Moses Flees to Midian]] — Exodus 2:24; **named first of the three whose covenant God remembers** — the
   covenant of Genesis 15:13–14 falling due. Midian, where Moses flees, descends from him through
   [[Keturah]] (Genesis 25:2)
+- [[The Burning Bush]] — Exodus 3:6, 15, 16; 4:5; **named first, four times, in God's own
+  self-introduction** — *"the God of Abraham, the God of Isaac, and the God of Jacob"* — the first time
+  God himself names all three; Jesus argues the resurrection from it (Mark 12:26). See
+  [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
 
 ## Related people
 

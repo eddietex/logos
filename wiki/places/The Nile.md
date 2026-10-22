@@ -73,6 +73,9 @@ the Wadi el-Arish on the border rather than the Nile; see
   mother puts him into the river as ordered, in a sealed papyrus *tēbâ*, *"in the reeds by the
   river's bank"* — *sûp*, the reed of the *yam sûp* he will lead Israel through; Pharaoh's daughter
   comes down to bathe in it and draws him out. The papyrus (*gōmeʾ*) is the Nile marsh's own plant
+- [[The Burning Bush]] — Exodus 4:9; **the first plague, in a cup.** *"The water which you take out of
+  the river will become blood on the dry land"* — the third sign for the elders, and the preview of
+  7:17–21
 
 ## Related places
 
@@ -91,4 +94,6 @@ the Wadi el-Arish on the border rather than the Nile; see
 - Made the instrument of Pharaoh's decree: every son born to be cast into it — Exodus 1:22,
   [[The Oppression in Egypt]]
 - The infant Moses set among the reeds and drawn out — Exodus 2:1–10, [[The Birth of Moses]]
+- Its water to be poured out as blood, the third sign given at the bush — Exodus 4:9,
+  [[The Burning Bush]]
 - Turned to blood, the first plague — Exodus 7:17–21 *(not yet ingested)*
