@@ -19,9 +19,12 @@ tags: [connection]
   you make your ways perfect? Is it for your piety that he reproves you?"* —
   [[Eliphaz's Third Speech]]
 - **Job 22:21** — *"Acquaint yourself with him"*: the same root, *s-k-n*, as *profitable* in 22:2
-- **Job 35:6–8** *(not yet ingested)* — Elihu: *"If you are righteous, what do you give him? Or what
-  does he receive from your hand? Your wickedness may hurt a man as you are, and your righteousness
-  may profit a son of man."*
+- **Job 34:9; 35:2–3** — Elihu, attributing the question to Job: *"For he has said, 'It profits a man
+  nothing that he should delight himself with God'"*; *"What advantage will it be to you? What profit
+  shall I have, more than if I had sinned?"* — [[Elihu on God's Justice]]
+- **Job 35:6–8** — Elihu: *"If you have sinned, what effect do you have against him? … If you are
+  righteous, what do you give him? Or what does he receive from your hand? Your wickedness may hurt a
+  man as you are, and your righteousness may profit a son of man."* — [[Elihu on God's Justice]]
 - **Job 41:11** *(not yet ingested)* — God: *"Who has first given to me, that I should repay him?"*,
   quoted at **Romans 11:35** *(not yet ingested)*
 - **Luke 17:10** *(not yet ingested)* — *"when you have done all the things that are commanded you,
@@ -43,7 +46,14 @@ round.**
   righteous man, so Job must not be one.
 
 Elihu then repeats Eliphaz almost word for word (35:6–8), which is one of several places where the
-fourth speaker, whom God does not rebuke, says what the first speaker said.
+fourth speaker, whom God does not rebuke, says what the first speaker said. **And he asks it a fifth
+way, in Job's name.** *"For he has said, 'It profits a man nothing that he should delight himself with
+God'"* (34:9) — *lōʾ yiskān*, Eliphaz's verb of 22:2 — and again, *"What profit shall I have, more than
+if I had sinned?"* (35:3). Job never said either. The nearest sentence in the book is the wicked's at
+21:15, which Job quoted in order to reject: *"The counsel of the wicked is far from me"* (21:16). Elihu
+has given the accuser's theory — piety as investment, abandoned when it stops paying — to the man the
+wager was designed to clear. At 35:6 he also returns Job's own 7:20 (*"If I have sinned, what do I do to
+you?"*) as the answer to it.
 
 **Eliphaz's premise is true in one sense and refuted by the book in another.** It is true that God
 is not *enriched* by human goodness, and is not put in anyone's debt by it. God says so himself at

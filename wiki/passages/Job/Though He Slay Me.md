@@ -454,7 +454,8 @@ one hundred forty years, and saw his sons, and his sons' sons, to four generatio
 - [[Noah and the Flood]] — Genesis 6:9–7:24: *ṣaddîq tāmîm* (6:9; Job 12:4), and the waters sent
   out to overturn the earth (Job 12:15).
 - [[The Waters Recede]] — Genesis 8:1, *"God remembered Noah"*: the verb of 14:13.
-- [[Elihu Speaks in Anger]] — Job 33:10–11, Elihu quoting 13:24 and 13:27; and 34:3, quoting 12:11.
+- [[Elihu Speaks in Anger]] — Job 33:10–11, Elihu quoting 13:24 and 13:27.
+- [[Elihu on God's Justice]] — Job 34:3, quoting 12:11; 35:11, reversing 12:7.
 - Job 38:3; 40:7; 42:4 — *"I will question you, then you answer me"*: 13:22's procedure adopted.
 - Job 42:7–8 — the friends' partiality for God rebuked, and Job's face lifted.
 - Job 42:16 — Job sees his sons and his sons' sons, against 14:21.

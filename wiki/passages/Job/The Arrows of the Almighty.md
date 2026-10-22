@@ -318,7 +318,8 @@ missing him.
 - Job 16:12 — *"he has also set me up for his target"*, the archer of 6:4 returning.
 - [[Elihu Speaks in Anger]] — Job 33:14–18, Elihu answering 7:14: God speaks *"In a dream, in a vision
   of the night"* to turn a man from pride.
-- Job 35:6 — Elihu answering 7:20: *"If you have sinned, what effect do you have against him?"*
+- [[Elihu on God's Justice]] — Job 35:6, Elihu answering 7:20: *"If you have sinned, what effect do you
+  have against him?"*
 - [[Zophar's First Speech]] — Job 11:16, *"like waters that have passed away"*: 6:15's failing brook turned into a
   promise; and 11:12's wild donkey, the animal of 6:5.
 

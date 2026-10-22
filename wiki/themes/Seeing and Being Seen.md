@@ -285,6 +285,12 @@ will finally go both ways.
 - [[Job's Oath of Innocence]] — Job 31:1, 4, 26; the eye under covenant (*"how then should I look"*), God's eye on Job
   (*"Doesn't he see my ways, and count all my steps?"*), and the sun and moon that must not be seen as
   gods. Job guards his own seeing because he knows he is seen.
+- [[Elihu on God's Justice]] — Job 34:21–22, 29; 35:14; **no darkness to hide in.** *"For his eyes are on the
+  ways of a man. He sees all his goings. There is no darkness, nor thick gloom, where the workers of
+  iniquity may hide themselves"* — the answer to Eliphaz's caricature of Job (*"Can he judge through the
+  thick darkness?"*, 22:13) and to Job's adulterer (*"No eye shall see me"*, 24:15). *"When he hides his
+  face, who then can see him?"* (34:29) concedes Job's 13:24 and calls it sovereignty; *"you say you don't
+  see him"* (35:14) is 9:11 and 23:8–9.
 
 ## Related themes
 
@@ -307,3 +313,4 @@ will finally go both ways.
 - [[Job (person)]] — who asks both to be let alone and to be vindicated in sight of everyone
 - [[Isaac]] — the first blind person in the Bible, and the only one whose blindness is the mechanism
   of a plot
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

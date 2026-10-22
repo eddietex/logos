@@ -204,6 +204,12 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   men"*, 15:10) is overturned at 32:7–9, and his night vision (4:13) is quoted word for word at 33:15 and
   given a purpose — a warning to turn a man from pride. His *"happy is the man whom God corrects"*
   (5:17) becomes Elihu's whole account of the sickbed (33:19–30).
+- [[Elihu on God's Justice]] — Job 34–35, not named and **restated three times.** His *"drinks iniquity
+  like water"* (15:16) becomes *"drinks scorn like water"* (34:7); his *"See the height of the stars"*
+  (22:12) becomes *"Look to the heavens, and see"* (35:5); and his *"Is it any pleasure to the Almighty,
+  that you are righteous?"* (22:3) is repeated nearly word for word at 35:7. Elihu's conclusion — that Job
+  *"adds rebellion to his sin"* (34:37) — is Eliphaz's *"Isn't your wickedness great?"* (22:5). See
+  [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]].
 
 ## Related people
 

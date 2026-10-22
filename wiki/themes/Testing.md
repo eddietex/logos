@@ -148,6 +148,11 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   himself, and uses it to predict the outcome rather than to explain the suffering. Unlike the
   prophets' refining (Zechariah 13:9; Malachi 3:3), the fire here does not purify — it reveals. See
   [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
+- [[Elihu on God's Justice]] — Job 34:36; ***"I wish that Job were tried to the end, because of his
+  answering like wicked men."*** *Bāḥan*, the assayer's verb of Job's *"When he has tried me, I shall come
+  out like gold"* (23:10). Job welcomed the test as the thing that would clear him; Elihu wishes it on him
+  as the thing that would expose him. The reader, who has seen 1:8, knows a test is already under way and
+  what it is for.
 
 ## Related themes
 
@@ -169,3 +174,4 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[Job (person)]] — tested with the reader watching, and never told
 - [[Isaac]] — the object of the test, and never told either
 - [[God]] — the one who tests, and who says afterwards *now I know*
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

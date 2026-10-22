@@ -177,6 +177,12 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   the army"*. Not a king, but a judge at the gate described in royal terms, robe and turban (29:14) —
   and doing the royal duty the ancient Near East assigned to kings: delivering the poor, the widow and
   the fatherless (29:12–17). See [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
+- [[Elihu on God's Justice]] — Job 34:13, 17–20, 24, 30; **the king no one appointed.** *"Who put him in
+  charge of the earth?"* (34:13): God's rule is underived, and so cannot be corrupt. *"Shall even one who
+  hates justice govern?"* (34:17). He *"says to a king, 'Vile!' or to nobles, 'Wicked!'"*, *"doesn't
+  respect the persons of princes"* (34:18–19), breaks mighty men *"and sets others in their place"*
+  (34:24), *"that the godless man may not reign"* (34:30) — Job's own hymn of the humbled powerful
+  (12:17–24) turned from complaint into theodicy.
 
 ## Related themes
 
@@ -202,3 +208,4 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
 - [[Phicol]] — his army commander, whose presence is the argument he never has to make
 - [[Ham]]
 - [[Noah]]
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

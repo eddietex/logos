@@ -109,6 +109,10 @@ reading that the text supports, is located in what the building was *for*.
 - [[Elihu Speaks in Anger]] — Job 33:17; the purpose of God's warning dream is *"that he may withdraw man from his
   purpose, and hide pride from man"* — pride as the thing suffering is sent to prevent. Elihu's own
   self-presentation (32:6–22) is the book's most elaborate.
+- [[Elihu on God's Justice]] — Job 35:12, 15; *"There they cry, but no one gives answer, because of the
+  pride of evil men"* (35:12) — pride as the reason prayer goes unanswered. And 35:15's *"arrogance"*
+  (*paš*, found only here) that God *"does not greatly regard"*. Elihu, who has just wished Job *"tried to
+  the end"* (34:36), does not apply the word to himself.
 
 ## Related themes
 
@@ -129,3 +133,4 @@ reading that the text supports, is located in what the building was *for*.
 - [[Nimrod]] — the *gibbōr* whom tradition made the archetype of the theme, on evidence the text does
   not supply
 - [[Adam]] and [[Eve]] — offered likeness to God and taking it
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

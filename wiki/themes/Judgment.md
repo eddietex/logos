@@ -301,6 +301,12 @@ rule are the conditions the rest of Scripture is set in.
 - [[Elihu Speaks in Anger]] — Job 32:2–5; *wayyiḥar ʾap*, the wrath *"kindled"* four times, against Job and against the
   three friends — the anger God will express at 42:7 in the same words, against the three friends only,
   and not at Elihu.
+- [[Elihu on God's Justice]] — Job 34:10–30; **judgment without a trial.** *"Far be it from God, that he
+  should do wickedness"* (34:10) — Abraham's *ḥālilâ* of Genesis 18:25, used to close the question
+  Abraham opened. *"He doesn't need to consider a man further, that he should go before God in
+  judgment"* (34:23): God sees, so the hearing Job has demanded since chapter 9 is unnecessary. He
+  strikes the mighty *"in a moment … even at midnight"* (34:20) and *"in the open sight of others"*
+  (34:26), because they *"caused the cry of the poor to come to him"* (34:28).
 
 ## Related themes
 
@@ -338,3 +344,4 @@ rule are the conditions the rest of Scripture is set in.
 - [[Noah]]
 - [[Job (person)]]
 - [[Eliphaz the Temanite]]
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

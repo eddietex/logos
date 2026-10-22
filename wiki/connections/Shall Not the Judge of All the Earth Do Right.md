@@ -31,7 +31,8 @@ tags: [connection]
   the father."*
 - **Job 8:3; 9:22–24; 34:10–19** — the question asked at book length: *"Does God pervert justice?"*
   and *"He destroys the blameless and the wicked."* See [[Bildad's First Speech]] and
-  [[There Is No Umpire Between Us]].
+  [[There Is No Umpire Between Us]]. Elihu's answer opens with Abraham's word: *"far be it from God,
+  that he should do wickedness"* (34:10). See [[Elihu on God's Justice]].
 - **Romans 3:5–6** — *"Is God unrighteous who inflicts wrath? … For then how will God judge the
   world?"*
 - **Genesis 22:1–3** — the same man, four chapters later, given a command about his own son and
@@ -121,6 +122,13 @@ priest and not a king, but someone God has spoken to.
   sentence is a lever in Genesis and a lid in Job.** Job's reply takes Bildad's verb, *ʿāwat*, and
   says what the question forbids: *"God has subverted me"* (19:6). Elihu restates Bildad at 34:12,
   and God, at 42:7, sides with the man who said it had happened.
+- **Elihu** takes Abraham's own word. *Ḥālilâ* — *"Be it far from you … May that be far from you"*
+  (Genesis 18:25) — becomes *"far be it from God, that he should do wickedness, from the Almighty, that he
+  should commit iniquity"* (Job 34:10). Abraham said *far be it* to hold God to the standard before the
+  verdict; Elihu says it to rule out the question after one. His ground is new — *"Who put him in charge
+  of the earth?"* (34:13): a ruler answerable to no one has no motive to be unjust — and so is his
+  version of Abraham's judge, who *"doesn't respect the persons of princes, nor respects the rich more
+  than the poor"* (34:19). See [[Elihu on God's Justice]].
 - **Paul** uses the sentence as a premise rather than a plea. *"For then how will God judge the
   world?"* (Romans 3:6) assumes that God's judging the world is fixed and that anything implying he
   is unjust must therefore be false — the same move Abraham makes, in a syllogism instead of a

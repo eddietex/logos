@@ -262,6 +262,10 @@ has been argued.
   Zophar's version (11:4), not Job's words — set against the rescued man's *"I have sinned, and perverted
   that which was right, and it didn't profit me"* (33:27): the confession the whole dialogue has asked
   Job to make, given a better reason.
+- [[Elihu on God's Justice]] — Job 34:8, 37; 35:6, 8; **the verdict hardened.** Job goes *"in company with
+  the workers of iniquity"* (34:8) and *"adds rebellion to his sin"* (34:37) — *pešaʿ* on top of *ḥaṭṭāʾt*,
+  sin before the suffering and rebellion since. And sin cannot touch God: *"If you have sinned, what
+  effect do you have against him?"* (35:6), Job's 7:20 returned; it hurts *"a man as you are"* (35:8).
 
 ## Related themes
 
@@ -288,3 +292,4 @@ has been argued.
 - [[God]]
 - [[Eliphaz the Temanite]]
 - [[Job (person)]]
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

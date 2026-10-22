@@ -159,6 +159,11 @@ raw text.)*
 - [[Elihu Speaks in Anger]] — Job 33:28, 30; ***"My life shall see the light"*** and ***"the light of the living"***
   (Psalm 56:13's phrase): light as rescue from the pit, answering — without naming it — Job's *"when I
   waited for light, there came darkness"* (30:26).
+- [[Elihu on God's Justice]] — Job 34:20, 22, 25; 35:10; *ṣalmāwet*, the *thick gloom* of 34:22 that hides
+  no one — the *shadow of death* Job asked to reclaim his birthday (3:5); the mighty overturned *"in the
+  night"* (34:25) and *"at midnight"* (34:20); and **God *"who gives songs in the night"*** (35:10), the
+  night of Psalm 42:8 and 77:6 — set against Job's, *"In the night season my bones are pierced in me"*
+  (30:17).
 
 ## Related themes
 
@@ -180,3 +185,4 @@ raw text.)*
   it lives.
 - [[Bildad the Shuhite]] — who makes extinguished light into a doctrine.
 - [[Abraham]] — Genesis 15:12, the one patriarch on whom *"terror and great darkness"* falls.
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

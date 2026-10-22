@@ -183,6 +183,11 @@ close to the book's whole point about who may speak for the tradition. See
   man present, who claims the breath of Genesis 2:7 as his authority and ends *"I will teach you
   wisdom"* (33:33). Half of chapter 28 — wisdom is given, not accumulated — without the other half,
   that it belongs to God and is found in fearing him.
+- [[Elihu on God's Justice]] — Job 34:2, 34–35; 35:11; **the wise as a jury.** *"Hear my words, you wise
+  men"* (34:2); *"every wise man who hears me"* will say *"His words are without wisdom"* (34:34–35).
+  Elihu, who in chapter 32 denied that age made men wise, now calls on the wise to agree with him. And God
+  *"makes us wiser than the birds of the sky"* (35:11) — Job's *"ask the animals … the birds of the sky"*
+  (12:7) inverted.
 
 ## Related themes
 

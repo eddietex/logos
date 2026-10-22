@@ -225,6 +225,11 @@ what Job is asking for.
   *interpreter* (Genesis 42:23) — at whose word God says *"I have found a ransom"* (33:24). **Job's
   advocate was to vindicate the innocent; Elihu's rescues the penitent.** See
   [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
+- [[Elihu on God's Justice]] — Job 34:23; 35:14; **the hearing refused, and the case acknowledged.** *"He
+  doesn't need to consider a man further, that he should go before God in judgment"* (34:23): the trial
+  Job has asked for since 9:32 is unnecessary to a God who sees. And yet *"The cause is before him, and you
+  wait for him!"* (35:14) — *dîn*, the case on the docket, Elihu's one concession that Job's suit has been
+  filed.
 
 ## Related themes
 

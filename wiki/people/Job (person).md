@@ -195,7 +195,13 @@ speeches; each becomes a linked passage page as it is ingested.
   name and the first to quote him** (33:9–11, once word for word from 13:27); offers himself as the
   man of clay Job asked for (33:6–7) and an angel-interpreter who finds a ransom (33:23–24), and ends
   *"I desire to justify you"* (33:32). Job does not answer.
-- **Job 34–37** — Elihu's three further speeches; nobody answers them either.
+- **Job 34–35** — [[Elihu on God's Justice]]. Spoken about before *"wise men"* and then to directly:
+  quoted from his oath (*"God has taken away my right"*, 34:5, from 27:2), and credited with the wicked's
+  question he had disowned (34:9; 35:3, from 21:15–16). Placed *"in company with the workers of
+  iniquity"* (34:8), wished *"tried to the end"* (34:36), charged with adding *"rebellion to his sin"*
+  (34:37), and judged twice to speak *"without knowledge"* (34:35; 35:16) — the words God will use at 38:2.
+  He does not answer.
+- **Job 36–37** — Elihu's fourth speech; nobody answers it either.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
 - **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
@@ -387,6 +393,14 @@ speeches; each becomes a linked passage page as it is ingested.
   His body is described without being named — the bones, the bread his life abhors, the flesh wasted to
   the bone (33:19–22) — as one of God's two ways of speaking. Invited twice to answer (33:5, 32); does
   not. See [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
+- [[Elihu on God's Justice]] — Job 34:1–35:16; **spoken about, then spoken to, and misquoted.** Elihu's
+  jury is told *"Job has said, 'I am righteous, God has taken away my right'"* (34:5) — his oath of 27:2,
+  exactly — and then *"It profits a man nothing that he should delight himself with God"* (34:9), which
+  is the wicked's sentence of 21:15 that Job put from him (*"The counsel of the wicked is far from me"*,
+  21:16). His own words are turned back on him: the ear that tries words (34:3, from 12:11), the animals
+  and birds (35:11, from 12:7), *"what do I do to you?"* (35:6, from 7:20). His case *"is before him"*
+  (35:14), but his words are *"without knowledge"* (34:35; 35:16). See
+  [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
 
 ## Related people
 

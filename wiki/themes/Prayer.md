@@ -206,6 +206,12 @@ already did.
 - [[Elihu Speaks in Anger]] — Job 33:26–28; in Elihu's sequence the rescued man *"prays to God, and he is favorable to
   him"*, then *"sings before men"* his confession. Prayer as the result of the warning, not the cause
   of the rescue; and offered to a man whose last prayer (30:20) went unanswered.
+- [[Elihu on God's Justice]] — Job 34:28; 35:9–14; **the cry and the prayer.** God *"heard the cry of the
+  afflicted"* (34:28) — and then, a chapter later, the oppressed *"cry out"* and *"no one gives answer"*,
+  because *"no one says, 'Where is God my Maker, who gives songs in the night?'"* (35:9–12). *"Surely God
+  will not hear an empty cry"* (35:13). Elihu distinguishes crying out from calling on God; the
+  distinction is real, and Job, who has said little but *where is God?* (23:3) and *"I cry to you"*
+  (30:20), is the one man in the book it cannot describe.
 
 ## Related themes
 
@@ -230,3 +236,4 @@ already did.
 - [[Jacob]] — refuses to pray at 30:2 and prays for the first time at 32:9–12, quoting the promise
   back to God rather than asking for anything new
 - [[God]] — who answers this theme's founding prayer without saying anything
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

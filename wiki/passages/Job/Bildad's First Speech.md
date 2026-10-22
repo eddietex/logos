@@ -248,7 +248,8 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
 - Job 19:6 — *"God has subverted me"*, Bildad's verb *ʿāwat* returned.
 - [[Why Do the Wicked Live]] — Job 21:28, *"Where is the tent in which the wicked lived?"*, Job
   quoting the friends' 8:22.
-- Job 34:12 — Elihu: *"neither will the Almighty pervert justice"*, 8:3 restated.
+- [[Elihu on God's Justice]] — Job 34:12, Elihu: *"neither will the Almighty pervert justice"*, 8:3
+  restated.
 - Job 42:7–9, 12 — the friends rebuked; *"Yahweh blessed the latter end of Job more than his
   beginning."*
 - Genesis 18:25 — *"Shouldn't the Judge of all the earth do right?"*

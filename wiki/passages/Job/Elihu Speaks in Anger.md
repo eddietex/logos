@@ -328,7 +328,8 @@ opposite.
 - [[Warned in a Dream - Abimelech and Laban]]
 - [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] — 33:4, 6.
 - [[A Man in Whom Is the Spirit of God]] — 32:8, the spirit that gives understanding.
-- Job 34:1–37:24 — Elihu's three further speeches. Not yet ingested.
+- [[Elihu on God's Justice]] — Job 34:1–35:16, Elihu's second and third speeches.
+- Job 36:1–37:24 — Elihu's fourth speech. Not yet ingested.
 - Job 36:18 — *"neither let the great size of a bribe turn you aside"*: *kōper* again, in Elihu's own
   mouth, in its other sense. Not yet ingested.
 - Job 38:1–2 — *"Then Yahweh answered Job out of the whirlwind … Who is this who darkens counsel by words

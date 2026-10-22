@@ -130,6 +130,14 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   pain — to turn a man from the pit; and *"an angel, an interpreter, one among a thousand"*, at whose word
   God says *"I have found a ransom"* (33:23–24). It ends *"I desire to justify you"* (33:32). **No one
   answers.**
+  Chapters 34–35 are his second and third speeches, and the turn from the new to the familiar. To
+  *"wise men"* as a jury, he quotes Job's oath (*"God has taken away my right"*, 34:5, from 27:2) and puts
+  in his mouth the wicked's question Job had disowned (*"It profits a man nothing"*, 34:9, from 21:15);
+  restates Bildad's 8:3 (*"far be it from God"*, 34:10–12); grounds God's justice in his holding every
+  breath (*"all flesh would perish together"*, 34:14–15); and wishes Job *"tried to the end"* (34:36). To
+  Job, he returns 7:20 and Eliphaz's 22:2–3 (35:6–8), and says the oppressed go unanswered because no one
+  asks *"Where is God my Maker, who gives songs in the night?"* (35:10). Both speeches end on Job's words
+  *"without knowledge"* (34:35; 35:16) — **the charge God opens with at 38:2**.
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
 
@@ -193,7 +201,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### Elihu (32–37)
 
 - [x] [[Elihu Speaks in Anger]] — Job 32:1–33:33
-- [ ] Elihu on God's Justice — Job 34:1–35:16
+- [x] [[Elihu on God's Justice]] — Job 34:1–35:16
 - [ ] Elihu on God's Greatness — Job 36:1–37:24
 
 ### Yahweh answers (38–41)

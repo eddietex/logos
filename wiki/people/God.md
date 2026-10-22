@@ -1268,6 +1268,17 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   says, 'Deliver him from going down to the pit, I have found a ransom'"* (33:24) — the ransom no man can
   pay (Psalm 49:7), found by God. Elihu's anger is kindled four times (32:2–5); God's will be kindled
   once, at 42:7, with the same words, and not against Elihu.
+- **The God of [[Elihu on God's Justice]]** is defended rather than described, and defended by his
+  position: *"Who put him in charge of the earth?"* (34:13). He answers to no one, so he has no motive to
+  be unjust — *"far be it from God, that he should do wickedness"* (34:10). He holds the breath of every
+  creature — *"If he gathered to himself his spirit and his breath, all flesh would perish together"*
+  (34:14–15). He calls kings vile and *"doesn't respect the persons of princes"* (34:18–19); his eyes are on
+  every way, and *"There is no darkness, nor thick gloom"* to hide in (34:21–22); he needs no trial
+  (34:23) and hears *"the cry of the afflicted"* (34:28). He gains nothing from righteousness and loses
+  nothing by sin (35:6–7), and he is *"God my Maker, who gives songs in the night"* (35:10) — but *"will
+  not hear an empty cry"* (35:13). Two of Elihu's sentences become God's own: *"Will you condemn him who is
+  righteous?"* (34:17) is asked again at 40:8, and *"without knowledge"* (35:16) opens the whirlwind at
+  38:2.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1642,6 +1653,10 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Elihu Speaks in Anger]] — *"the Almighty"* whose breath gives life and understanding (32:8; 33:4);
   who *"speaks once, yes twice"* by dream and by pain (33:14–22); and who is gracious and finds a ransom
   (33:24) — described as speaking by the one speaker in the book God never answers
+- [[Elihu on God's Justice]] — *"the Almighty"* who does no wickedness and does not pervert justice
+  (34:10–12), appointed by no one (34:13), holding every breath (34:14–15), impartial to princes (34:19),
+  seeing through every darkness (34:21–22), hearing the poor (34:28), and *"God my Maker, who gives songs
+  in the night"* (35:10) — defended by a speaker who wishes Job *"tried to the end"* (34:36)
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

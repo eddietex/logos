@@ -188,6 +188,10 @@ book, and Bildad's name survives inside them.
 - [[Elihu Speaks in Anger]] — Job 32–33; one of *"these three men"* who stop answering (32:1), condemned
   by Elihu for having *"found no answer, and yet … condemned Job"* (32:3). His six verses were the last the
   friends said.
+- [[Elihu on God's Justice]] — Job 34:12, not named; **his first sentence restated.** *"Does God pervert
+  justice? Or does the Almighty pervert righteousness?"* (8:3) returns as *"Yes surely, God will not do
+  wickedly, neither will the Almighty pervert justice"*, the same verb *ʿāwat*, as the thesis of Elihu's
+  second speech. See [[Shall Not the Judge of All the Earth Do Right]].
 
 ## Related people
 

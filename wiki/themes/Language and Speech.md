@@ -247,6 +247,12 @@ noticing into doctrine.
   (32:18–20). He promises no *"flattering titles"* (32:21), calls Job by name as no friend does (33:1,
   31), opens his mouth in the phrase of 3:1 (33:2), and is **the first speaker to quote Job** — 33:11 is
   13:27 word for word. And no one answers a word of it.
+- [[Elihu on God's Justice]] — Job 34:3, 35, 37; 35:16; **the charge of words without knowledge.** *"The ear
+  tries words, as the palate tastes food"* (34:3), Job's 12:11 quoted. Then the verdict: *"Job speaks
+  without knowledge. His words are without wisdom"* (34:35); he *"multiplies his words against God"*
+  (34:37); *"Job opens his mouth with empty talk (hebel), and he multiplies words without knowledge"*
+  (35:16). God's first words at 38:2 repeat the charge, and 42:7 calls Job's words right. See
+  [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
 
 ## Related themes
 

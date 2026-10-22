@@ -377,6 +377,11 @@ the rest of the canon.
   life"*** (33:4), Genesis 2:7 in the first person; and *šaḥat*, *the pit*, five times (33:18, 22, 24,
   28, 30) — the death a warning, a mediator, and a ransom keep a man from, *"that he may be enlightened
   with the light of the living"* (33:30).
+- [[Elihu on God's Justice]] — Job 34:14–15; ***"If he gathered to himself his spirit and his breath, all
+  flesh would perish together, and man would turn again to dust."*** Genesis 2:7 and 3:19 joined in one
+  conditional, and the ground of Elihu's best argument: a God who keeps every creature breathing cannot be
+  indifferent to the world. Psalm 104:29 says the same of all creatures, and Ecclesiastes 12:7 of the
+  spirit's return.
 
 ## Related themes
 
@@ -406,3 +411,4 @@ the rest of the canon.
 - [[Noah]]
 - [[Job (person)]]
 - [[Sarah]] — the only woman in Scripture given a lifespan, and the first person in it to be buried
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

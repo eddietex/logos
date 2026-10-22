@@ -129,6 +129,11 @@ Genesis 1 sets four load-bearing claims:
   8:22–31's scene without Proverbs 8's personification. The deep, *təhôm*, Genesis 1:2's word, says *"It
   isn't in me"* (28:14). 28:26b and 38:25b are the same Hebrew, *wəderek laḥăzîz qōlôt*: the hymn
   anticipates the whirlwind's catalogue
+- [[Elihu on God's Justice]] — Job 34:13–15, 19; 35:5, 10–11; **creation as the ground of justice.** God is
+  appointed over the earth by no one (34:13), holds the breath of all flesh (34:14–15), and the rich and
+  poor *"all are the work of his hands"* (34:19) — so he favours neither. *"Look to the heavens, and see"*
+  (35:5). And *"God my Maker"* (35:10) *"teaches us more than the animals of the earth, and makes us wiser
+  than the birds of the sky"* (35:11) — Job's *"ask the animals"* (12:7) reversed.
 
 ## Related themes
 
@@ -145,3 +150,4 @@ Genesis 1 sets four load-bearing claims:
 - [[Adam]]
 - [[Eve]]
 - [[Noah]]
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

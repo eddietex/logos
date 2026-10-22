@@ -269,6 +269,12 @@ verdicts.
   sin, then suffering as payment — with his own: suffering first, as a warning, so that the man turns
   before the sin is done (33:16–18). But the sequence still ends in *"I have sinned, and perverted that
   which was right"* (33:27), and its premise is still that the sufferer needs correcting.
+- [[Elihu on God's Justice]] — Job 34:11; 35:6–8; **the doctrine in its plainest words.** *"For the work of a
+  man he will render to him, and cause every man to find according to his ways"* (34:11) — the formula of
+  Psalm 62:12 and Proverbs 24:12, which Romans 2:6 quotes. Elihu grounds it not in a ledger but in God's
+  position: appointed by no one (34:13), he has no motive to be unjust. Chapter 35 then removes God's
+  stake: *"If you are righteous, what do you give him?"* (35:7). The doctrine survives, and the reason for
+  God to care about Job's case is gone with it — the one thing the prologue (1:8; 2:3) shows is false.
 
 ## Related themes
 

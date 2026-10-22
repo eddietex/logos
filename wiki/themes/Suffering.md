@@ -228,6 +228,9 @@ requires only that you be standing outside it.
   *"withdraw man from his purpose, and hide pride from man"* (33:17), and it ends with an angel, a
   ransom, and restored flesh *"fresher than a child's"* (33:25). The fullest statement of the discipline
   account in the book, and one the prologue has already excluded for Job (2:3).
+- [[Elihu on God's Justice]] — Job 34:6; 35:9; *"My wound is incurable"* (34:6) — *ḥiṣṣî*, my arrow, the arrow
+  of 6:4 — quoted as evidence against the man who bears it; and *"the multitude of oppressions"* (35:9), the
+  suffering of the poor, which goes unanswered, Elihu says, because no one prays.
 
 ## Related themes
 

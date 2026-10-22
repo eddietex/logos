@@ -39,7 +39,16 @@ found a ransom"* (33:23–24).
 
 But his account, like the friends', ends in *"I have sinned"* (33:27). He is angry at Job for justifying
 himself (32:2), and ends his first speech by offering to justify Job himself, if Job will hear him
-(33:32). **The book's verdict on him is silence**, and readers have heard it both ways: as tacit approval
+(33:32). In his second and third speeches (34–35) **he stops being new**: he restates Bildad (34:12) and
+Eliphaz (34:7; 35:6–8), puts in Job's mouth a sentence Job had given to the wicked and disowned (34:9 and
+35:3, from 21:15–16), and concludes that Job *"adds rebellion to his sin"* (34:37). His one new argument
+there is a strong one — that a God who could gather back *"his spirit and his breath"* and end all flesh
+(34:14–15) cannot be the world's enemy. And his last word on Job, *"he multiplies words without
+knowledge"* (35:16), is **the first word God says about Job at 38:2** — which is the best evidence for
+reading him as the whirlwind's herald, to be weighed every time against 42:7. See
+[[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
+
+**The book's verdict on him is silence**, and readers have heard it both ways: as tacit approval
 (he is not rebuked), or as dismissal (he is not answered). Many modern scholars take his chapters as a
 later addition; the wiki records that view and reads the book as received.
 
@@ -51,17 +60,25 @@ later addition; the wiki records that view and reads the book as received.
   flattering titles.
 - **Job 33:1–33** — the first speech to Job: man of clay, Job quoted, God speaking by dream and by pain,
   the angel-interpreter and the ransom, and *"I desire to justify you"*.
-- **Job 34–37** *(not yet ingested)* — three further speeches, headed at 34:1, 35:1 and 36:1.
+- **Job 34:1–37** — the second speech, to *"wise men"* about Job: Job's oath quoted (34:5), the wicked's
+  profit question put in his mouth (34:9), God's justice grounded in his holding every breath
+  (34:14–15), no trial needed (34:23), and *"I wish that Job were tried to the end"* (34:36).
+- **Job 35:1–16** — the third speech, to Job: righteousness gives God nothing (35:6–8), the oppressed
+  unanswered because none asks *"Where is God my Maker?"* (35:10), and *"he multiplies words without
+  knowledge"* (35:16).
+- **Job 36–37** *(not yet ingested)* — the fourth speech, headed at 36:1.
 
 ## Appears in
 
 - [[Elihu Speaks in Anger]] — Job 32:1–33:33
+- [[Elihu on God's Justice]] — Job 34:1–35:16
 
 ## Related people
 
 - [[Job (person)]] — whom he addresses by name and quotes, and who never answers him.
 - [[Eliphaz the Temanite]] — whose appeal to age (15:10) he overturns (32:9) and whose night vision (4:13)
-  he repeats word for word (33:15).
+  he repeats word for word (33:15); whose *"drinks iniquity like water"* (15:16) and profit question
+  (22:2–3) he restates at 34:7 and 35:6–8.
 - [[Bildad the Shuhite]], [[Zophar the Naamathite]] — the other two of *"these three men"*, condemned by
   him for condemning Job without an answer (32:3, 12).
 - [[God]] — whose breath gives him life and understanding (32:8; 33:4), and who answers Job without
@@ -77,3 +94,6 @@ later addition; the wiki records that view and reads the book as received.
 - [[Language and Speech]]
 - [[Prophecy and Vision]]
 - [[Righteousness]]
+- [[Judgment]]
+- [[Kingship and Empire]]
+- [[Prayer]]

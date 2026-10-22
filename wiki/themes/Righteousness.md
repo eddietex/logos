@@ -242,6 +242,11 @@ about.
   righteous in his own eyes"* (32:1); Elihu is angry *"because he justified himself rather than God"*
   (32:2); in his account God *"restores to man his righteousness"* (33:26); and he ends *"Speak, for I
   desire to justify you"* (33:32) — the same verb, *ṣādaq*, in his own mouth.
+- [[Elihu on God's Justice]] — Job 34:5, 17; 35:2, 7; **whose righteousness is in question.** Job is quoted:
+  *"I am righteous"* (34:5). God is defended as *"righteous and mighty"*, and Job asked, *"Will you
+  condemn him?"* (34:17) — *taršîaʿ*, the verb God himself uses at 40:8, *"Will you condemn me, that you
+  may be justified?"*. *"My righteousness is more than God's"* (35:2) may also be read *my right before
+  God*. And righteousness is said to profit only *"a son of man"* (35:8).
 
 ## Related themes
 
@@ -271,3 +276,4 @@ about.
 - [[Lot]] — whom Genesis grades nowhere and 2 Peter 2:7 calls righteous three times in two verses
 - [[Abimelech (of Abraham's time)]] — who calls his own nation righteous to God's face, pleads
   integrity of heart and innocence of hands, and is told the plea is true
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

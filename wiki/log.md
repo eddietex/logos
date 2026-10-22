@@ -10428,3 +10428,68 @@ rows), connections (+1 row, 3 rows revised), `wiki/index.md` (85 passages, 144 p
 connections).
 
 No contradiction between wiki pages found beyond the misquotation corrected above.
+
+## [2026-10-21] ingest | Job 34.1-35.16 — Elihu on God's Justice
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 34:1–35:16. **Boundary and title
+unchanged** from the plan. The page covers Elihu's second and third speeches (headed at 34:1 and 35:1),
+joined because chapter 35 answers the question 34:9 raised and both end on *"without knowledge"*. No
+collision with any other book. **Job is at 27 / 32.** No discussion step; it is written into the passage
+page.
+
+### The passage page
+
+[[Elihu on God's Justice]], built around six findings:
+
+**1. Elihu misquotes Job.** A table sets 34:5–9 against Job's words: 34:5's *"God has taken away my
+right"* is 27:2 word for word (*hēsîr mišpāṭî*); 34:6's *wound* is *ḥiṣṣî*, *my arrow* (6:4); but 34:9's
+*"It profits a man nothing"* (*lōʾ yiskān*, Eliphaz's verb at 22:2) is the wicked's sentence of 21:15,
+which Job disowned at 21:16. 35:3 does it again.
+
+**2. *Ḥālilâ* at 34:10** — Abraham's *"far be it from you"* (Genesis 18:25) and Job's (27:5), used to
+close the question. 34:12 is Bildad's 8:3 with the same verb *ʿāwat*.
+
+**3. The breath argument (34:13–15)** — God answerable to no one, holding every breath; Genesis 2:7 and 3:19
+in one conditional. Elihu's one new argument in these chapters.
+
+**4. 34:17's *taršîaʿ* is God's question at 40:8.** No trial needed (34:23); the cry of the poor heard
+(34:28) and then, at 35:9–13, unanswered because no one asks *"Where is God my Maker?"*
+
+**5. Job's words turned back** — 12:11 at 34:3, 12:7 reversed at 35:11, 7:20 at 35:6, 23:10's *bāḥan* at
+34:36, 27:23's clapping at 34:37, *hebel* (27:12; 21:34) at 35:16.
+
+**6. *"Without knowledge"* (34:35; 35:16) is God's charge at 38:2**, repeated by Job at 42:3, against
+42:7's verdict that Job spoke rightly. The page reads it as *the charge right, the conclusion wrong*,
+and records the other readings.
+
+**Judgment calls.** Title and boundary kept. The *"wise men"* (34:2, 10, 34) and *"your companions"*
+(35:4) left unidentified and unpaged. No place pages; Sheol not in view. Recorded and not adopted: the
+Vulgate's *Pater mi* at 34:36; *my right before God* for 35:2; the alternatives for *paš* at 35:15; the
+damaged-text view of 34:29–33; and a softer reading of 34:9 as Elihu summarizing 9:22 and 9:29–31 rather
+than misquoting.
+
+### Connection pages
+
+Created (1): [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]]. Revised (2):
+[[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] (35:6–8 now ingested; a
+paragraph on 34:9 and 35:3 putting the question in Job's name) and
+[[Shall Not the Judge of All the Earth Do Right]] (Elihu's *ḥālilâ* at 34:10). Non-Job, non-Genesis
+quotations checked against the WEB from bible-api.com before writing: Psalm 42:8; 62:12; 77:6; 104:29;
+139:12; Proverbs 24:12; Ecclesiastes 12:7; Romans 2:6; Deuteronomy 10:17; Acts 10:34; Exodus 3:7; 12:29.
+Job and Genesis texts checked against `raw/bible/`.
+
+### Pages created or revised
+
+Created (2): the passage page and the connection page. People (5): [[Elihu the Buzite]], [[Job (person)]],
+[[God]], [[Eliphaz the Temanite]], [[Bildad the Shuhite]]. Themes (16): [[Retribution]],
+[[Righteousness]], [[Judgment]], [[Kingship and Empire]], [[Life and Death]], [[Creation]],
+[[Seeing and Being Seen]], [[Light and Darkness]], [[Prayer]], [[Pride and Self-Exaltation]],
+[[Language and Speech]], [[Wisdom]], [[Testing]], [[Sin]], [[Suffering]], [[Mediation and Advocacy]].
+Passages (5): forward references linked in [[Bildad's First Speech]], [[The Arrows of the Almighty]],
+[[Eliphaz's Third Speech]], [[Though He Slay Me]], and [[Elihu Speaks in Anger]]. Connections revised (2).
+Book page: box checked, structure note for 34–35. Indexes: books (27 / 32), people (5 rows), themes (16
+rows), connections (+1 row, 1 revised), `wiki/index.md` (86 passages, 255 connections).
+
+No contradiction between wiki pages found; the forward references to Job 34–35 already in the wiki are
+borne out by the text.
