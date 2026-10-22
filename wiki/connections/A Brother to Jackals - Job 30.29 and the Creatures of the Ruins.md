@@ -26,9 +26,9 @@ tags: [connection]
   young ones. But the daughter of my people has become cruel, like the ostriches in the wilderness."*
 - **Isaiah 43:20** *(not yet ingested)* — *"The animals of the field shall honor me, the jackals and the
   ostriches; because I give water in the wilderness and rivers in the desert."*
-- **Job 39:13–18** *(not yet ingested)* — God's ostrich, who *"leaves her eggs on the earth"* and
-  *"scorns the horse and his rider"*.
-- **Job 38:27** *(not yet ingested)* — God's rain *"to satisfy the waste and desolate ground"*.
+- **Job 39:13–18** — God's ostrich, who *"leaves her eggs on the earth"* and
+  *"scorns the horse and his rider"*. — [[Out of the Whirlwind]]
+- **Job 38:27** — God's rain *"to satisfy the waste and desolate ground"*. — [[Out of the Whirlwind]]
 
 ## Analysis
 

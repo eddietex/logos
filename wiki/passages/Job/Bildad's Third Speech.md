@@ -192,7 +192,8 @@ heaven — set against the ground Job sits on, and the distance between them is 
 - [[I Will Not Put Away My Integrity]] — Job 26:1–27:23, Job's reply, opening *"How have you helped him who is without power!"*
   and continuing with a hymn on God's power over Sheol, the waters and Rahab that some read as the rest
   of Bildad's speech; see the Notes.
-- Job 38:7 — *"when the morning stars sang together"*: the stars in God's own speech.
+- [[Out of the Whirlwind]] — Job 38:7 — *"when the morning stars sang together"*: the stars in God's own
+  speech.
 - Job 42:7 — the verdict on the men who spoke this way.
 - Psalm 8:3–5 — the moon and the stars, man and the son of man, and the crown.
 - Psalm 22:6; Isaiah 41:14 — *"I am a worm, and no man"*; *"Don't be afraid, you worm Jacob"*.

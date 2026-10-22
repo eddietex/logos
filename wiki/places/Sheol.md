@@ -177,6 +177,11 @@ to go.
   *draws near to* (33:22), and from which he is ransomed (33:24), redeemed (33:28), and brought back
   *"that he may be enlightened with the light of the living"* (33:30). Job's Sheol was a place no one
   returns from (7:9); **Elihu's pit is one a man can be turned back from at the edge.**
+- [[Out of the Whirlwind]] — Job 38:17; **the gates of death, asked about by God.** *"Have the gates of
+  death been revealed to you? Or have you seen the gates of the shadow of death?"* — *ṣalmāwet*, the word Job
+  called down on his birthday (3:5) and the land he expected to go to (10:21–22). The realm Job has wished
+  himself into since chapter 3 is one more region of the creation he has not seen, set beside the springs
+  of the sea and the recesses of the deep (38:16).
 
 ## Related places
 

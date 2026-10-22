@@ -27,6 +27,8 @@ tags: [connection]
 - **Romans 8:26–27, 34** — the Spirit interceding within, and Christ *"at the right hand of God,
   who also makes intercession for us"*
 - **1 John 2:1** — *"we have a Counselor with the Father, Jesus Christ, the righteous"*
+- **Job 40:2** — Yahweh: *"Shall he who argues contend with the Almighty? He who argues with God
+  (mōkîaḥ ʾĕlôah), let him answer it."* — [[Out of the Whirlwind]]
 
 ## Analysis
 
@@ -123,6 +125,14 @@ ransom"* (33:24). **Job asked for an advocate who would vindicate the innocent; 
 rescues the penitent** — which is much nearer the configuration of 1 John 2:1 than anything Job said,
 and which, for the reason the prologue gives, does not fit Job's case. See [[Elihu Speaks in Anger]]
 and [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
+
+**God's use of the word is the last, and it turns the figure around.** When Yahweh speaks, he supplies no
+umpire, witness, or redeemer. He says: *"He who argues with God, let him answer it"* (40:2) — and *he who
+argues* is *mōkîaḥ*, 9:33's word. **The umpire Job said was missing is the role Job has taken himself**: the
+one who sets God right. The question about a third party between Job and God is not answered in the first
+speech; it is replaced by a direct encounter in which Job is the party called to answer, and Job declines
+(40:4–5). Whether the epilogue, where Job prays for the friends and God accepts him (42:8–10), gives the
+figure back to Job in another form is for that pericope. See [[Out of the Whirlwind]].
 
 **And the book's own resolution is stranger than either.** Job spends thirty chapters asking for
 someone to intercede for him, and the last thing he does before his fortunes turn is intercede for

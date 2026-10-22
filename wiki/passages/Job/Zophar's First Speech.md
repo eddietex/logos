@@ -292,8 +292,8 @@ of 11:13–19 is gone.
   your face"* (22:26).
 - [[Job's Oath of Innocence]] — Job 31:7, 39: *"if any defilement has stuck to my hands"* answers 11:14,
   and *"caused its owners to lose their life"* (*nepeš … hippāḥtî*) is 11:20's *mappaḥ-nāpeš*.
-- Job 38:1, 16; 42:7–11 — God speaks; the recesses of the deep; the friends rebuked; Job's face
-  lifted.
+- [[Out of the Whirlwind]] — Job 38:1, 16; 42:7–11 — God speaks; the recesses of the deep; the friends
+  rebuked; Job's face lifted.
 - [[Cain and Abel]] — Genesis 4:6–7, *"Why has the expression of your face fallen? If you do
   well, won't it be lifted up?"*: the lifted face, offered to Cain on a condition.
 - [[Hagar and Ishmael]] — Genesis 16:12, *pereʾ ʾādām*, the phrase of 11:12.

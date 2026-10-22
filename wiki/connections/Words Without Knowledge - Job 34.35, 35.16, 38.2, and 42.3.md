@@ -14,8 +14,8 @@ tags: [connection]
 - **Job 36:4, 12; 37:16** — Elihu's fourth speech: *"One who is perfect in knowledge is with you"* (36:4),
   of himself; those who will not listen *"shall die without knowledge"* (36:12); and *"him who is perfect in
   knowledge"* (37:16), of God — [[Elihu on God's Greatness]]
-- **Job 38:2** *(not yet ingested)* — Yahweh, his first words out of the whirlwind: *"Who is this who
-  darkens counsel by words without knowledge?"*
+- **Job 38:2** — Yahweh, his first words out of the whirlwind: *"Who is this who
+  darkens counsel by words without knowledge?"* — [[Out of the Whirlwind]]
 - **Job 42:3** *(not yet ingested)* — Job, quoting it back in his reply: *"You asked, 'Who is this who
   hides counsel without knowledge?' therefore I have uttered that which I did not understand, things
   too wonderful for me, which I didn't know."*

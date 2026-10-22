@@ -216,6 +216,12 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   (36:27–37:13); and his *mûsār*, *"do not despise the chastening of the Almighty"* (5:17), is the
   *instruction* to which God opens the bound man's ear (36:10). See
   [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]].
+- [[Out of the Whirlwind]] — Job 38:4, 21, 34, not named. **God asks Eliphaz's question.** *"Are you the
+  first man who was born? Or were you brought out before the hills?"* (15:7) becomes *"Where were you when
+  I laid the foundations of the earth?"* (38:4) and *"Surely you know, for you were born then"* (38:21); and
+  his *šipʿat-mayim*, the *"floods of waters"* of 22:11, is God's *"abundance of waters"* at 38:34 (one
+  Hebrew phrase, two WEB renderings). The question was right; it was asked to prove Job
+  wicked, and God asks it without that conclusion. See [[The First Man and Wisdom Before the Hills]].
 
 ## Related people
 

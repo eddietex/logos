@@ -259,6 +259,11 @@ noticing into doctrine.
   impossible: *"we can't make our case by reason of darkness. Will it be told him that I would speak?"*
   (37:19–20) — Job's *"I have set my cause in order"* (13:18) declared out of reach, one verse before God
   asks Job to answer (38:3). See [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]].
+- [[Out of the Whirlwind]] — Job 38:2–3; 40:2–5; **speech judged, and speech surrendered.** *"Words
+  without knowledge"* (38:2) is the charge; *"I will question you, then you answer me"* (38:3) the
+  procedure; and Job's reply is to stop: *"I lay my hand on my mouth. I have spoken once, and I will not
+  answer; Yes, twice, but I will proceed no further"* (40:4–5). See
+  [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]].
 
 ## Related themes
 

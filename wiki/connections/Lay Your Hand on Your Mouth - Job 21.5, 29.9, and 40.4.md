@@ -17,7 +17,7 @@ tags: [connection]
 - **Job 29:9** — *"The princes refrained from talking, and laid their hand on their mouth."* Job
   remembering how the powerful fell silent before him — [[The Months of Old]]
 - **Job 40:4** — *"Behold, I am of small account. What shall I answer you? I lay my hand on my
-  mouth."* Job before Yahweh *(not yet ingested)*
+  mouth."* — [[Out of the Whirlwind]]
 - **Job 31:14, 35** — *"When he visits, what shall I answer him?"*; *"oh that I had one to hear me!
   … Let the Almighty answer me!"* The question Job asks of himself in the oath is the one he asks God
   at 40:4, with the same verb (*ʾăšîbennû*, *ʾăšîbekā*) — [[Job's Oath of Innocence]]

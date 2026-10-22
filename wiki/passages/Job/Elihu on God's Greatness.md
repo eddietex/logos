@@ -392,10 +392,10 @@ associations. The **sea** (36:30) is the sea as such. No pages.
 - [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] — 36:18.
 - [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] — 36:26; 37:23.
 - [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] — 37:24.
-- Job 38:1–3 — *"Then Yahweh answered Job out of the whirlwind … I will question you, then you answer
-  me!"* Not yet ingested.
-- Job 38:22–38 — snow, hail, rain, ice, lightning, and clouds: Elihu's subjects, in God's questions. Not yet
-  ingested.
+- [[Out of the Whirlwind]] — Job 38:1–3 — *"Then Yahweh answered Job out of the whirlwind … I will
+  question you, then you answer me!"*
+- [[Out of the Whirlwind]] — Job 38:22–38 — snow, hail, rain, ice, lightning, and clouds: Elihu's
+  subjects, in God's questions.
 - Job 40:9–10 — *"Can you thunder with a voice like him?"*; *"Array yourself with honor and majesty"*. Not
   yet ingested.
 - 1 Samuel 2:8 — the poor made *"to sit with princes, and inherit the throne of glory"*.

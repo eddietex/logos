@@ -280,8 +280,8 @@ is the only comment the book ever makes on whether the oath was true.
   when it is met.
 - [[Elihu Speaks in Anger]] — Job 32:1, *"So these three men ceased to answer Job, because he was
   righteous in his own eyes."*
-- Job 38:1–3; 40:4–5 — the answer from the whirlwind, and *"What shall I answer you?"*. Not yet
-  ingested.
+- [[Out of the Whirlwind]] — Job 38:1–3; 40:4–5 — the answer from the whirlwind, and *"What shall I
+  answer you?"*.
 - Job 42:7–8 — *"you have not spoken of me the thing that is right, as my servant Job has."* Not yet
   ingested.
 - Deuteronomy 4:19 — the sun and moon not to be worshipped.

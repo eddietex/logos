@@ -281,6 +281,11 @@ verdicts.
   throne"* (36:7); the listening prosper and the deaf *"perish by the sword"* (36:11–12); the godless *"die in
   youth"* (36:14). Elihu's addition is the middle term — affliction as instruction (36:15) — between the
   deed and the outcome.
+- [[Out of the Whirlwind]] — Job 38:13–15, 26–27; **the doctrine neither affirmed nor applied.** The
+  wicked appear once: the dawn shakes them out and *"their light is withheld"* — a daily judgment by
+  daybreak, not a verdict on a case. And rain falls *"on a land where no man is"* (38:26), weather that
+  is no one's reward or punishment. The friends' system is not refuted by argument; the world God
+  describes simply does not run on it.
 
 ## Related themes
 

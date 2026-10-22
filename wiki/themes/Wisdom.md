@@ -193,6 +193,11 @@ close to the book's whole point about who may speak for the tradition. See
   like him?"* (36:22); and ends *"He doesn't regard any who are wise of heart"* (37:24) — Job's phrase for
   God at 9:4, and the second half of 28:28's motto set against the first. See
   [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
+- [[Out of the Whirlwind]] — Job 38:36–37; 39:17, 26; **wisdom as God's to give and withhold.** *"Who has
+  put wisdom in the inward parts?"* (38:36); *"Who can count the clouds by wisdom?"* (38:37); the
+  ostrich, *"because God has deprived her of wisdom"* (39:17); *"Is it by your wisdom that the hawk
+  soars?"* (39:26). The hymn of chapter 28 said only God knows wisdom's place; here God examines Job on
+  it, and Job does not answer.
 
 ## Related themes
 

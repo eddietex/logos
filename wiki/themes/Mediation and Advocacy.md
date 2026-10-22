@@ -235,6 +235,10 @@ what Job is asking for.
   would speak? Or should a man wish that he were swallowed up?"* — Job's *ʿārak*, *"I have set my cause in
   order"* (13:18; 23:4), ruled out. God's next words ask for it: *"I will question you, then you answer
   me!"* (38:3).
+- [[Out of the Whirlwind]] — Job 38:3; 40:2; **no mediator, and the umpire's word given to Job.** The
+  hearing Job asked for is granted on his own terms (13:22) with no third party; and God calls Job
+  *mōkîaḥ ʾĕlôah*, *"he who argues with God"* (40:2) — 9:33's missing *umpire*. See
+  [[The Witness in Heaven]].
 
 ## Related themes
 

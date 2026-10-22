@@ -69,6 +69,13 @@ Genesis 1 sets four load-bearing claims:
   and the dread of you"* (9:2) stands where they were. The world is made a second time out of the
   first world's own words, with every change running in the same direction: a concession to violence.
   See [[The Covenant with Noah]] and [[The Flood as Un-Creation]].
+- **Job 38–39** — Creation described by its Creator, the longest passage in Scripture in which God
+  describes it in his own voice. It is Genesis 1 told as interrogation: the foundation, the sea, the light,
+  the stars, the creatures — and a world whose order is not organized around human beings. Rain falls
+  where no one lives (38:26); the wild donkey is free of the city (39:7); the ostrich is made without wisdom
+  (39:17); the eagle feeds its young on the slain (39:30). The friends read creation as a moral ledger;
+  God presents it as his own, admired for itself, and Job's question is answered by enlarging the frame
+  rather than by explaining his place in it. See [[Out of the Whirlwind]].
 - Later strands to trace as ingestion reaches them: Psalm 8, Psalm 19, Psalm 104, Proverbs 8:22–31
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
@@ -141,6 +148,14 @@ Genesis 1 sets four load-bearing claims:
   *"correction, or … his land, or … loving kindness"* (37:13) — the same weather, three purposes. God's
   speech in chapter 38 takes the same subjects; see
   [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]].
+- [[Out of the Whirlwind]] — Job 38:4–38; **creation in God's own voice, and the human removed from its
+  centre.** The earth as a building with foundations, measures, line, and cornerstone, dedicated while
+  *"the morning stars sang together, and all the sons of God shouted for joy"* (38:4–7); the sea born
+  from the womb, swaddled in cloud, and given a bound (38:8–11); light and darkness each with a house
+  (38:19–20); rain *"on a land where no man is"* (38:26); the stars under *"the laws of the heavens"*
+  (38:31–33). Every element of Genesis 1 — the deep, the gathered waters, the lights — is here, and the
+  one thing Genesis 1 builds toward, the human being, is the one asked where he was. See
+  [[The Whirlwind Answers Chapter 3]].
 
 ## Related themes
 

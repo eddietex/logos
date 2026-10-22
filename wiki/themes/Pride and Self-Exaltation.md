@@ -117,6 +117,9 @@ reading that the text supports, is located in what the building was *for*.
   have behaved themselves proudly"* (*yitgabbārû*, 36:9). Exaltation belongs to God, twice: *"God is
   exalted in his power"* (36:22; 37:23). And God *"doesn't regard any who are wise of heart"* (37:24) —
   wisdom as self-estimation. Elihu calls himself *"perfect in knowledge"* (36:4) in the same speech.
+- [[Out of the Whirlwind]] — Job 38:11, 15; 40:4; **the proud stopped and the high brought low.** *"Here
+  your proud waves shall be stayed"* (38:11); *"The high arm is broken"* (38:15); and Job, who would have
+  approached God *"as a prince"* (31:37), says *"Behold, I am of small account"* (40:4).
 
 ## Related themes
 

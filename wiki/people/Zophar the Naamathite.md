@@ -190,6 +190,10 @@ than his iniquity deserves. The reader knows which of the two is right.
   məṣāʾnūhû*, *we have not found him* (37:23); and the *mūṣāq* of his promise, *"you shall be steadfast"*
   (11:15), is the *cast* metal of Elihu's sky (37:18). See
   [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
+- [[Out of the Whirlwind]] — Job 39:5–8, not named. His wild donkey's colt, the type of the
+  incorrigible (11:12), is God's free creature: *"Who has set the wild donkey free?"* See
+  [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]]. His *"oh that God would speak"* (11:5) is
+  granted, and God speaks to Job, not to him.
 
 ## Related people
 

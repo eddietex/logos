@@ -1289,6 +1289,15 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   and *"We can't reach the Almighty"* (37:23). **The next verse is God speaking**, out of a storm (38:1),
   and asking Job questions about the same rain and snow and lightning — the subjects Elihu chose and the
   grammar he used, to the opposite end. See [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]].
+- **The God of [[Out of the Whirlwind]]** speaks at last, and to Job. The narrator names him *Yahweh* for the first time since
+  2:7 (38:1), and he answers out of the *səʿārâ*, the storm Job said he was broken with (9:17). He takes Job's
+  procedure — *"I will question you, then you answer me!"* (38:3; 13:22) — and asks: where Job was at the
+  foundation (38:4), who shut up the sea (38:8), whether Job has commanded the morning (38:12), seen the
+  gates of death (38:17), entered the treasuries of the snow (38:22), bound the Pleiades (38:31), or hunted
+  for the lioness (38:39); who feeds the raven's crying young (38:41), set the wild donkey free (39:5), and
+  gave the horse its might (39:19). He says nothing of the wager, the accuser, the friends, Elihu, or Job's
+  sin, and the speech has no *because*. He calls himself *Šadday* (40:2), the name of Job's summons, and calls
+  Job *mōkîaḥ*, the umpire of 9:33. Job lays his hand on his mouth (40:4); God speaks again.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1437,6 +1446,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   [[Job of Uz]]
 - Silent through thirty-five chapters of argument about him; then speaks from the whirlwind, and
   answers with questions rather than reasons — [[Job]], Job 38–41
+- Named *Yahweh* by the narrator again (38:1) and speaks to Job for the first time; asks him where he was
+  when the earth was founded, and about the sea, the dawn, death, light, snow, the stars, and ten wild
+  creatures; says nothing of the wager; and calls Job the *mōkîaḥ* — Job 38:1–40:2, [[Out of the Whirlwind]]
 
 ## Appears in
 
@@ -1671,6 +1683,12 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   22); *"great, and we don't know him"* (36:26); the God of rain, thunder, lightning, snow, and ice
   (36:27–37:13), whose thunder is his voice (37:2–5); *"perfect in knowledge"* (37:16), unreachable (37:23),
   and revered (37:24) — described in a storm by the last speaker before he speaks out of one
+- [[Out of the Whirlwind]] — *Yahweh* in the narration again (38:1; 40:1, 3); speaks *"out of the whirlwind"*, accepts Job's
+  procedure and reverses its roles (38:3), and asks more than fifty questions about creation and its
+  creatures — the foundation and its singing stars (38:4–7), the sea's doors (38:8–11), the dawn and the
+  wicked (38:12–15), the gates of death (38:17), rain where no man is (38:26), the lioness and the raven
+  (38:39–41), the wild donkey, the ostrich, the horse, and the eagle (39); names himself *Šadday* (40:2);
+  names no sin and gives no reason
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

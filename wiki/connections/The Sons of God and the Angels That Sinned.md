@@ -9,7 +9,8 @@ tags: [connection]
 
 - Genesis 6:1–4 — [[The Sons of God and the Corruption of the Earth]]
 - Job 1:6; 2:1; 38:7 — the phrase's other Hebrew Bible occurrences, in [[Job]]: the first two in
-  [[The Wager in Heaven and the Four Messengers]] and [[The Second Test]], 38:7 not yet ingested
+  [[The Wager in Heaven and the Four Messengers]] and [[The Second Test]], 38:7 in
+  [[Out of the Whirlwind]]
 - Job 4:18; 15:15 — *"he charges his angels with error"* and *"he puts no trust in his holy ones.
   Yes, the heavens are not clean in his sight"*: the Hebrew Bible's other statements of fallibility
   among heavenly beings, both spoken by [[Eliphaz the Temanite]]. See [[Eliphaz's First Speech]],

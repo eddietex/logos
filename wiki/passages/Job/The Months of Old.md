@@ -218,8 +218,9 @@ the young who hid from him now mock him (30:1), the nobles' silence becomes spit
   61:10; Zechariah 3:4–5; Ephesians 6:14; Revelation 19:8.
 - [[Now They Mock Me]] — Job 30:1–31, *"But now"*: every line of chapter 29 reversed.
 - [[Job's Oath of Innocence]] — Job 31:16–22; the same deeds sworn to under a curse.
-- Job 40:4, 10 — Job's hand on his mouth; and God's challenge, *"Array yourself with honor and
-  majesty"*, the robe of 29:14 offered back as a question. Not yet ingested.
+- [[Out of the Whirlwind]] — Job 40:4, 10 — Job's hand on his mouth; and God's challenge, *"Array
+  yourself with honor and majesty"*, the robe of 29:14 offered back as a question. 40:10 not yet
+  ingested.
 - Job 42:10–17 — the restoration of the household, the comforters who come at last, and a death
   *"old and full of days"*: 29:18 granted. Not yet ingested.
 - Numbers 6:24–25 — *"Yahweh bless you, and keep you. Yahweh make his face to shine on you"*: the

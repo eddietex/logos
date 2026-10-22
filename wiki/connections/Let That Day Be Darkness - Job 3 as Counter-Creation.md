@@ -17,7 +17,7 @@ tags: [connection]
   dark without light"*: counter-creation applied to the world's government — [[Though He Slay Me]];
   see [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
 - Job 38:4–21 — the whirlwind's opening, which takes the same images back —
-  [[The Whirlwind Answers Chapter 3]]
+  [[Out of the Whirlwind]]; see [[The Whirlwind Answers Chapter 3]]
 - Genesis 6:9–8:22 — the wiki's other un-creation, and the nearest relative of this one —
   [[The Flood as Un-Creation]]
 - Jeremiah 4:23–26 — the prophet seeing the earth returned to the formless void of Genesis 1:2, the

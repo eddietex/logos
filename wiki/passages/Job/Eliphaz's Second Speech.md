@@ -208,8 +208,8 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
   15:11's *"consolations of God"* answered at 21:2.
 - [[Elihu Speaks in Anger]] — Job 32:6–9, Elihu against the authority of age that Eliphaz claims at
   15:10.
-- Job 38:4, 21 — *"Where were you when I laid the foundations of the earth? … Surely you know, for
-  you were born then"*.
+- [[Out of the Whirlwind]] — Job 38:4, 21 — *"Where were you when I laid the foundations of the earth? …
+  Surely you know, for you were born then"*.
 - Job 42:7–9 — *"My wrath is kindled against you, and against your two friends; for you have not
   spoken of me the thing that is right, as my servant Job has."*
 - Genesis 6:5 — *"every imagination of the thoughts of man's heart was continually only evil"*, the

@@ -8,8 +8,9 @@ tags: [connection]
 ## Passages involved
 
 - Job 3:1–26 — Job's first speech — [[Let the Day Perish]]
-- Job 38:1–41:34 — Yahweh's two speeches out of the whirlwind *(not yet ingested; see the book page's
-  `## Pericopes` for* Out of the Whirlwind *and* Behemoth and Leviathan*)*
+- Job 38:1–40:5 — Yahweh's first speech out of the whirlwind, and Job's first reply —
+  [[Out of the Whirlwind]]
+- Job 40:6–41:34 — the second speech, Behemoth and Leviathan *(not yet ingested)*
 - Job 40:8 — the one verse in the speeches that states a charge
 - Genesis 1:1–2:3 — [[The Creation of the World]], which both chapters are written against —
   [[Let That Day Be Darkness - Job 3 as Counter-Creation]]
@@ -86,6 +87,29 @@ chapter 9 onward under the friends' pressure. **The speeches answer chapter 3 an
 9–31**, and keeping the two apart is the reason this page exists separately from anything on the
 lawsuit.
 
+### Checked against the text, 2026-10-22
+
+The page asked to be checked when [[Out of the Whirlwind]] was ingested. Every quotation in the table above
+is confirmed against `raw/bible/Job.md`, and the five correspondences of 38:2–21 hold. **One claim does
+not, and is corrected here rather than overwritten:**
+
+- **What the page said:** *"The first eight questions God asks concern the founding of the earth, the sea's
+  doors, the commanding of the morning, the gates of death, and the dwelling of darkness — which is chapter
+  3's list, in chapter 3's order, running forwards instead of backwards."*
+- **What the text shows:** the first questions (38:4–7) are about the earth's foundation and cornerstone,
+  which have no counterpart in chapter 3. The chapter 3 images begin at 38:8, and they come **in reverse
+  order**: the doors of the womb (38:8–11; 3:10), the morning and dawn (38:12; 3:9), the shadow of death
+  (38:17; 3:5), the place of darkness (38:19–20; 3:4), and the birth (38:21; 3:3). Only 38:15, the light
+  withheld (3:20), falls outside the sequence.
+
+The reversal, if it is meant, fits the page's argument better than the original claim did: chapter 3 begins
+with Job's birth and works outward into darkness; God's speech begins with the world's birth and works back
+down chapter 3 until it arrives at Job's — *"Surely you know, for you were born then"* (38:21). It is still
+an observation, and the wiki records it as one. The other cautions on this page stand, including that 40:8
+belongs to the second speech and to the lawsuit. Two further echoes found in the ingest are recorded on the
+passage page: *geber*, *"like a man"* (38:3), the word of 3:3; and *qallōtî*, *"I am of small account"*
+(40:4), from the root of *"cursed"* at 3:1.
+
 ## Significance
 
 **It supplies the book's missing reply.** Job 3 is the only major speech in the book that nobody
@@ -106,4 +130,6 @@ on the strength of the verses quoted from `raw/bible/Job.md`, and it is asserted
 whirlwind pericope has a passage page. **When** *Out of the Whirlwind* **and** *Behemoth and
 Leviathan* **are ingested, this page is to be checked against them and its claims tightened or
 withdrawn** — in particular the claim that the first eight questions track chapter 3's order, which
-is the strongest thing said here and the easiest to have overstated.
+is the strongest thing said here and the easiest to have overstated. *Out of the Whirlwind* has now been
+checked (see above): the order claim is corrected, the correspondences stand. *Behemoth and Leviathan*
+remains to be checked.

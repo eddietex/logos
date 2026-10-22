@@ -89,6 +89,10 @@ what is withheld, which is Genesis's habit with its patriarchs.
   under forced labour** (49:15). **Genesis narrates none of it**: there is no battle of Jacob's, no
   archer in [[Joseph]]'s story, and the one massacre the book does narrate (34:25–29) is the thing
   49:5–7 curses. **The chapter's vocabulary is the conquest's, spoken in Egypt before any of it**
+- [[Out of the Whirlwind]] — Job 38:22–23; 39:19–25; **weapons that belong to God.** The hail kept
+  *"against the day of battle and war"* (38:23), as at Joshua 10:11; and the war-horse that *"mocks at
+  fear"* and smells the battle afar off (39:22, 25) — the army's animal, whose courage God asks whether
+  Job gave.
 
 ## Related themes
 

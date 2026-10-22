@@ -10568,3 +10568,94 @@ revised), `wiki/index.md` (87 passages, 257 connections).
 
 No contradiction between wiki pages found; the forward references to Job 36–37 already in the wiki are
 borne out by the text.
+
+## [2026-10-22] ingest | Job 38.1-40.5 — Out of the Whirlwind
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 38:1–40:5. **Boundary and title
+unchanged** from the plan: the first divine speech (38:2–39:30), its coda (40:1–2), and Job's first reply
+(40:3–5); 40:6 repeats the heading of 38:1 and opens the second speech. No collision with any other book.
+**Job is at 29 / 32.** No discussion step; it is written into the passage page.
+
+### The passage page
+
+[[Out of the Whirlwind]], built around these findings:
+
+**1. The narrator's *Yahweh* returns** (38:1; 40:1, 3) for the first time since 2:7; in the dialogue only Job
+said it (12:9). The *səʿārâ* is 9:17's storm.
+
+**2. Job's procedure, roles reversed** — *"I will question you, then you answer me!"* (38:3; 13:22); *geber*
+(38:3) is the word of 3:3.
+
+**3. Chapter 3 answered**: *darkens* (38:2), the womb and doors (38:8–11; 3:10), the morning (38:12; 3:9), the
+shadow of death (38:17; 3:5), the place of darkness (38:19–20; 3:4), the birth (38:21; 3:3).
+
+**4. The world without a human centre** — rain *"on a land where no man is"* (38:26), on the *šōʾâ ûmšōʾâ* of
+30:3; the lioness and the raven fed, the raven's young *crying* with Job's verb (38:41; 19:7; 30:20); wild
+creatures free of human use; three of them *laugh* with the verb of Job's mockers (39:7, 18, 22; 30:1).
+
+**5. *Mōkîaḥ* (40:2)** — 9:33's umpire, applied to Job, with *Šadday* the name of his summons (31:35).
+
+**6. Job's reply** — *qallōtî* (40:4), from the root of *cursed* at 3:1 (offered as a resonance; the stems
+differ); *"as a prince"* (31:37) reversed; and Elihu's *"once, yes twice"* (33:14) used of Job's own speech
+(40:5). Silence, not repentance.
+
+### Correction recorded
+
+[[The Whirlwind Answers Chapter 3]] asked to be checked against this pericope. Its correspondences hold. **Its
+claim that the questions run *in chapter 3's order* does not**: the opening questions (38:4–7) have no
+counterpart in chapter 3, and the chapter 3 images then come in *reverse* (3:10 → 3:9 → 3:5 → 3:4 → 3:3),
+38:15/3:20 excepted. The original sentence is kept and the correction set beside it, not overwritten. Its
+claims about chapter 41 remain to be checked at the next pericope.
+
+### Judgment calls
+
+Title and boundary kept; 40:1–2 read as the speech's coda. No pages for the animals (creatures, not
+persons), the stars, or the cosmic regions of 38:16–22; [[Sheol]] gets the *gates of death* (38:17). The
+"more than fifty questions" count is given as an order of magnitude. Recorded, not adopted: the ibis/rooster
+reading of 38:36; the KJV *unicorn* for *rêm* (39:9) noted and rejected. Noted: the ostrich of 39:13 is
+*rənānîm*, not 30:29's *bənôt yaʿănâ*, so that link is to the creature, not the word. Noted: 22:11 and 38:34
+share *šipʿat-mayim*, which the WEB renders *floods of waters* and *abundance of waters*. The next pericope's
+title, *Behemoth and Leviathan*, is mentioned in plain text, not linked.
+
+### Connection pages
+
+Created (3): [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]],
+[[Where the Slain Are - Job 39.30 and Matthew 24.28]], [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]].
+Revised with analysis (2): [[The Whirlwind Answers Chapter 3]] (correction above), [[The Witness in Heaven]]
+(40:2's *mōkîaḥ*). Linked and their *not yet ingested* markers cleared (14):
+[[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]],
+[[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]],
+[[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]],
+[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]],
+[[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]], [[The Bear, Orion, and the Pleiades]],
+[[Am I a Sea or a Sea Monster - The Guard on the Waters]], [[The Divine Council]],
+[[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]],
+[[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]],
+[[The First Man and Wisdom Before the Hills]],
+[[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]],
+[[Let That Day Be Darkness - Job 3 as Counter-Creation]], [[The Sons of God and the Angels That Sinned]].
+A *"thunderstorm?"* in the From Elihu's Storm page was corrected to the WEB's punctuation at 38:25.
+Non-Job, non-Genesis quotations checked against the WEB from bible-api.com before writing: Psalm 62:11;
+104:9, 21, 27–28; 147:9; Proverbs 6:16; 8:27–29; 30:17; Joshua 10:11; Isaiah 40:12–14; Matthew 6:26;
+24:26–28; Luke 12:6–7, 24; 17:37; Romans 11:33–34; Revelation 19:17–18. Job and Genesis texts checked against
+`raw/bible/`. Leviticus 11:15 and Psalm 51:6 are cited by reference only.
+
+### Pages created or revised
+
+Created (4): the passage page and three connection pages. People (6): [[God]], [[Job (person)]],
+[[Elihu the Buzite]], [[The Sons of God]], [[Eliphaz the Temanite]], [[Zophar the Naamathite]]. Places (1):
+[[Sheol]]. Themes (14): [[Creation]] (development paragraph added), [[Providence]] (development line added),
+[[Wisdom]], [[Light and Darkness]], [[Suffering]], [[Retribution]], [[Language and Speech]],
+[[Mediation and Advocacy]], [[Pride and Self-Exaltation]], [[Judgment]], [[Life and Death]],
+[[The Names of God]], [[War]], [[Famine and Plenty]]. Passages (16): forward references linked in
+[[Hagar and Ishmael]], [[There Is No Umpire Between Us]], [[Eliphaz's Second Speech]], [[Now They Mock Me]],
+[[The Months of Old]], [[Oh That I Knew Where I Might Find Him]], [[Zophar's First Speech]],
+[[Where Shall Wisdom Be Found]], [[Bildad's Third Speech]], [[Though He Slay Me]],
+[[Eliphaz's Third Speech]], [[Job's Oath of Innocence]], [[Why Do the Wicked Live]],
+[[Elihu Speaks in Anger]], [[Elihu on God's Greatness]], [[Elihu on God's Justice]]. Book page: box checked,
+structure note for 38:1–40:5, Creation and Providence added to key themes. Indexes: books (29 / 32), people
+(6 rows), places (1 row), themes (14 rows), connections (+3 rows, 2 revised), `wiki/index.md` (88 passages,
+260 connections).
+
+No contradiction between wiki pages found beyond the corrected order claim above.

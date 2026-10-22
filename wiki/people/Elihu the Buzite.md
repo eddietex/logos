@@ -87,12 +87,21 @@ later addition; the wiki records that view and reads the book as received.
   snow, and ice; *"Listen to this, Job"* (37:14); *"We can't reach the Almighty"* (37:23); and his last
   words, *"He doesn't regard any who are wise of heart"* (37:24). God answers Job, not Elihu, in the next
   verse.
+- **Job 38:1** — God answers Job out of the whirlwind in the next verse, and does not mention him; his
+  *"without knowledge"* (35:16) opens God's speech (38:2), and his *"once, yes twice"* (33:14) is in Job's
+  reply (40:5).
 
 ## Appears in
 
 - [[Elihu Speaks in Anger]] — Job 32:1–33:33
 - [[Elihu on God's Justice]] — Job 34:1–35:16
 - [[Elihu on God's Greatness]] — Job 36:1–37:24
+- [[Out of the Whirlwind]] — Job 38:1–40:5, **not named and not answered.** God speaks out of the storm
+  Elihu was describing, takes up his subjects and his *"Do you know …?"* (37:15–18; 38:22–38), and reaches the
+  conclusion he denied: God can be reached, and speaks to Job. Elihu's *"without knowledge"* is God's first
+  charge (38:2); his formula *"once, yes twice"* (33:14) is Job's last word (40:5). See
+  [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] and
+  [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]].
 
 ## Related people
 

@@ -230,10 +230,10 @@ the third thing a defence needs — the oath that the injury was not deserved.
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:21, Jubal, *"the father of all who handle the
   harp and pipe"*.
 - [[Job's Oath of Innocence]] — Job 31:1–40; the oath of innocence that completes the defence.
-- Job 38:27 — God sending rain *"to satisfy the waste and desolate ground"*, *šōʾâ ûmšōʾâ*, the
-  wasteland of 30:3. Not yet ingested.
-- Job 40:4; 42:5–6 — Job's next words to God, *"What shall I answer you?"*, and the *dust and ashes*
-  of his last. Not yet ingested.
+- [[Out of the Whirlwind]] — Job 38:27 — God sending rain *"to satisfy the waste and desolate ground"*,
+  *šōʾâ ûmšōʾâ*, the wasteland of 30:3.
+- [[Out of the Whirlwind]] — Job 40:4; 42:5–6 — Job's next words to God, *"What shall I answer you?"*,
+  and the *dust and ashes* of his last. 42:5–6 not yet ingested.
 - Job 42:11 — the brothers and sisters who come at last and *"comforted him"*. Not yet ingested.
 - Psalm 69:11–12 — *"I became a byword to them. Those who sit in the gate talk about me. I am the song
   of the drunkards."* The gate, the byword and the song in one place.

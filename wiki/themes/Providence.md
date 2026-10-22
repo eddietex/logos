@@ -131,6 +131,9 @@ human one innocent.** *"You meant evil"* stands. See
   is emphatic about the chance**, and the book is about what the chance produced.
 - **Esther** names God nowhere and is entirely about him; **"who knows whether you haven't come to the
   kingdom for such a time as this?"** (4:14) is 45:5 in a different accent.
+- **Job 38–39** gives the doctrine its widest frame: God's care extends to creatures that are of no use to
+  anyone, in places no one goes, and is described to a man who has seen none of it reach him. See
+  [[Out of the Whirlwind]].
 - **Psalm 105:17** reads the sale of Joseph as a sending: *"He sent a man before them; Joseph was sold
   for a servant."* See [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]].
 - **Acts 2:23** applies 50:20's double intention to the crucifixion — *"delivered up by the determined
@@ -212,6 +215,11 @@ human one innocent.** *"You meant evil"* stands. See
   ground of both hope and terror.** The *ḥōq* appointed for Job is carried out by a God who *"stands
   alone"*; three verses earlier the same sovereignty made Job sure he would come out like gold, and
   in the next verse it makes him *"terrified at his presence"* (23:15).
+- [[Out of the Whirlwind]] — Job 38:26–27, 39–41; 39:1–4; **providence without a human beneficiary.** God
+  sends rain *"on a land where no man is … to cause the tender grass to grow"*, hunts *"the prey for the
+  lioness"*, provides *"for the raven his prey, when his young ones cry to God"*, and watches the births
+  of the mountain goats that no one else sees. Nothing in the speech applies it to Job; the provision is
+  shown, not promised. See [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]].
 
 ## Related themes
 

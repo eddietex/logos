@@ -60,6 +60,8 @@ are reading this passage, or the *1 Enoch* elaboration of it, or something else,
   [[The Sons of God and the Corruption of the Earth]]
 - Named a second time as contemporaries of the Nephilim, and then never again in Genesis —
   [[The Sons of God and the Corruption of the Earth]]
+- Shout for joy with the morning stars at the founding of the earth, in God's own speech — Job 38:7,
+  [[Out of the Whirlwind]]
 
 ## Appears in
 
@@ -79,6 +81,12 @@ are reading this passage, or the *1 Enoch* elaboration of it, or something else,
   trust, his *"angels"* (*malʾākāyw*) whom he *"charges with error"*, and the *"holy ones"*
   (*qədōšîm*) to whom no sufferer can turn. The reader has been in the room, and the God there
   trusted one servant enough to stake a wager on him
+- [[Out of the Whirlwind]] — Job 38:7, *"when the morning stars sang together, and all the sons of God
+  shouted for joy"*: **their only appearance in the poetry of Job, and the only one in Scripture where they
+  are present at creation.** The court of the prologue, where one of them proposed the test, is here a
+  choir at the world's dedication — and God mentions them to Job, who never saw the prologue's court.
+  Paired with the *morning stars* in parallel lines, they are, on this verse at least, heavenly beings. See
+  [[The Divine Council]].
 
 ## Related people
 

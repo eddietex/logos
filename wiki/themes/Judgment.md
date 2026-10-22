@@ -311,6 +311,9 @@ rule are the conditions the rest of Scripture is set in.
   afflicted their right"* (*mišpāṭ*, 36:6); Job is *"full of the judgment of the wicked"* (36:17); the storm
   is how *"he judges the people"* and also how *"He gives food in abundance"* (36:31); and *"In justice and
   great righteousness, he will not oppress"* (37:23).
+- [[Out of the Whirlwind]] — Job 38:12–15; 40:2; **judgment by daybreak, and the lawsuit turned.** The
+  morning that shakes the wicked out of the earth (38:13); and *"Shall he who argues contend (rîb) with
+  the Almighty?"* (40:2), the case Job brought now called to answer.
 
 ## Related themes
 

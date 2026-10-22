@@ -17,7 +17,7 @@ tags: [connection]
 - **Job 30:3–7** — the outcasts who mock Job, eating salt herbs in the waste and *"Among the bushes they
   bray"* — *nāhaq*, the verb of 6:5, and its only other occurrence — [[Now They Mock Me]]
 - **Job 39:5–8** — God: *"Who has set the wild donkey free? … He scorns the tumult of the city,
-  neither does he hear the shouting of the driver"* *(not yet ingested)*
+  neither does he hear the shouting of the driver"* — [[Out of the Whirlwind]]
 - **Jeremiah 2:24; Hosea 8:9** — Israel as a wild donkey in heat, and *"a wild donkey wandering
   alone"*
 

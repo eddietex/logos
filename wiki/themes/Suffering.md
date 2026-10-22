@@ -237,6 +237,9 @@ requires only that you be standing outside it.
   (36:15) — the one idea in Elihu that the friends never had. Then it is turned on Job: *"you have chosen
   this rather than affliction"* (36:21). The prologue has already told the reader that this is not why Job
   suffers (2:3).
+- [[Out of the Whirlwind]] — Job 38:1–40:5; **the sufferer answered and the suffering unmentioned.** God
+  speaks to Job at length and says nothing of his losses, his sores, or the wager; the speech has no
+  *because*. Job's response is silence, not resolution (40:4–5), and God speaks again.
 
 ## Related themes
 

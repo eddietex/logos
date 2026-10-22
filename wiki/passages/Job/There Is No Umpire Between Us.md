@@ -412,9 +412,10 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 - [[Elihu Speaks in Anger]] — Job 33:6–7, 23 — Elihu: *"I am also formed out of the clay. Behold, my
   terror shall not make you afraid"* — he offers himself as the man-sized party of 9:32–35, and *"one
   among a thousand"* answers 9:3. At 32:12 he says the friends had no *mōkîaḥ* for Job — 9:33's umpire.
-- Job 38:1; 40:6 — *min-hassəʿārâ*, the storm of 9:17 become the place God speaks from.
-- Job 38:31–33 — *"Can you bind the cluster of the Pleiades, or loosen the cords of Orion?"*, God's
-  reply to 9:9.
+- [[Out of the Whirlwind]] — Job 38:1; 40:6 — *min-hassəʿārâ*, the storm of 9:17 become the place God
+  speaks from.
+- [[Out of the Whirlwind]] — Job 38:31–33 — *"Can you bind the cluster of the Pleiades, or loosen the
+  cords of Orion?"*, God's reply to 9:9.
 - Job 42:5 — *"now my eye sees you"*, against 9:11 and 9:16.
 - [[Zophar's First Speech]] — Job 11, the reply, built out of this speech's words: *yiṣdaq* (9:2 → 11:2), *mock* (9:23 →
   11:3), *passes by* and *who can hinder him* (9:11–12 → 11:10), the unlifted head (10:15 → 11:15),

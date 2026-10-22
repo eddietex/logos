@@ -11,7 +11,7 @@ tags: [connection]
   [[There Is No Umpire Between Us]]
 - **Job 38:31–33** — *"Can you bind the cluster of the Pleiades, or loosen the cords of Orion? Can
   you lead the constellations out in their season? Or can you guide the Bear with her cubs? Do you
-  know the laws of the heavens?"*
+  know the laws of the heavens?"* — [[Out of the Whirlwind]]
 - **Amos 5:8** — *"Seek him who made the Pleiades and Orion, and turns the shadow of death into the
   morning, and makes the day dark with night."*
 - **Isaiah 13:10** — *"For the stars of the sky and its constellations (kəsîlêhem) will not give

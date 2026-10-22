@@ -151,6 +151,9 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
   judges the people. He gives food in abundance"* (36:31): the same storm as flood and as harvest. The
   rain comes *"for correction, or for his land, or for loving kindness"* (37:13), and the hymn does not say
   which is which.
+- [[Out of the Whirlwind]] — Job 38:27, 39–41; **food for creatures no one feeds.** Grass made to grow on
+  *"the waste and desolate ground"* (38:27); the lioness's prey; and the raven's young who *"wander for
+  lack of food"* until God provides (38:41).
 
 ## Related themes
 

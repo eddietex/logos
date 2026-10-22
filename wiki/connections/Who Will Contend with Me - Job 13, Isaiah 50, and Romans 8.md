@@ -28,7 +28,7 @@ tags: [connection]
 - **Job 23:3–7** — *"Oh that I knew where I might find him!… I would set my cause in order before
   him… There the upright might reason with him, so I should be delivered forever from my judge."* —
   [[Oh That I Knew Where I Might Find Him]]
-- **Job 40:2** — *"Shall he who argues contend with the Almighty?"*
+- **Job 40:2** — *"Shall he who argues contend with the Almighty?"* — [[Out of the Whirlwind]]
 
 ## Analysis
 

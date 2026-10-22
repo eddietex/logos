@@ -27,7 +27,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 · Job 9:2 (at 25:4) |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
 | [[Do Not Cover My Blood]] | allusion | Genesis 4:10–11 · Job 16:18 · Leviticus 17:13 · Deuteronomy 21:1–9 · Isaiah 26:21 · Ezekiel 24:6–8 · Hebrews 12:24 · Revelation 6:9–10 · Job 31:38–39 |
-| [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 |
+| [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 · Job 40:2 |
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 |
 | [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
@@ -223,7 +223,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 · Job 11:17 · Job 12:15, 22–25 |
 | [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] | parallel | Job 3:1–12 · Jeremiah 20:14–18 · Job 10:18–19 · Ecclesiastes 4:2–3; 6:3–5 · Jonah 4:3, 8 · 1 Kings 19:4 · Matthew 26:24 |
-| [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 18 · Genesis 1:1–2:3 |
+| [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 18 · Genesis 1:1–2:3 — order claim corrected against 38:8–21 |
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |
@@ -261,3 +261,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |
 | [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]] | parallel | Job 37:2–5 · Psalm 29:3–10 · Job 26:14 · Job 40:9 · Exodus 19:16, 19 · John 12:28–29 |
 | [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] | literary-parallel | Job 36:27–37:24 · Job 38:1–3 · Job 38:22–38 · Job 40:6, 9 · Job 9:17 · Job 28:26 |
+| [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]] | thread | Job 38:39–41 · Job 10:16 · Job 19:7 · Job 30:20 · Psalm 104:21, 27–28 · Psalm 147:9 · Matthew 6:26 · Luke 12:6–7, 24 |
+| [[Where the Slain Are - Job 39.30 and Matthew 24.28]] | allusion | Job 39:27–30 · Matthew 24:28 · Luke 17:37 · Proverbs 30:17 · Revelation 19:17–18 |
+| [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] | literary-parallel | Job 33:14, 29 · Job 40:5 · Job 5:19 · Psalm 62:11 · Proverbs 6:16 |

@@ -23,7 +23,8 @@ tags: [connection]
   is unsearchable"* (*lōʾ-ḥēqer*); *"We can't reach the Almighty"* (*lōʾ məṣāʾnūhû*, *we have not found
   him*) — [[Elihu on God's Greatness]]
 - **Job 38:16–18** — God: *"Have you walked in the recesses (ḥēqer) of the deep? Have the gates of
-  death been revealed to you? … Have you comprehended the earth in its width?"* *(not yet ingested)*
+  death been revealed to you? … Have you comprehended the earth in its width?"*
+  — [[Out of the Whirlwind]]
 - **Psalm 139:7–10** — *"If I ascend up into heaven, you are there. If I make my bed in Sheol, behold,
   you are there!"*
 - **Amos 9:2–3** — *"Though they dig into Sheol, there my hand will take them; and though they climb

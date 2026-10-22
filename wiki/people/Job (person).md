@@ -206,7 +206,15 @@ speeches; each becomes a linked passage page as it is ingested.
   *"desire the night"* (36:20) — his own chapter 3 — and charged with having *"chosen this rather than
   affliction"* (36:21). Then addressed by name, *"Listen to this, Job"* (37:14), and examined on the clouds
   and the sky in the grammar God will use. He does not answer; God does, in the next verse (38:1).
-- **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
+- **Job 38:1–40:5** — [[Out of the Whirlwind]]. Answered at last, by Yahweh, out of the storm — and
+  examined, not accused: *"Who is this who darkens counsel by words without knowledge? Brace yourself like
+  a man, for I will question you, then you answer me!"* (38:2–3). Asked where he was at the foundation of
+  the earth (38:4), whether he has commanded the morning (38:12) or seen the gates of death (38:17), and
+  told *"Surely you know, for you were born then"* (38:21); shown rain on land where no man is, the raven's
+  young fed, and the wild creatures free of him. Called *mōkîaḥ*, the umpire he wanted (40:2). He answers
+  once: *"Behold, I am of small account. What shall I answer you? I lay my hand on my mouth"* (40:4) — and
+  will go no further (40:5). **He withdraws nothing and confesses nothing; he stops.**
+- **Job 40:6–41:34** — God speaks again, on Behemoth and Leviathan.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
 - **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
   doubled, and he is given ten more children and four generations of descendants.
@@ -413,6 +421,14 @@ speeches; each becomes a linked passage page as it is ingested.
   order"* (13:18) at 37:19, his *"Oh that I knew where I might find him!"* (23:3) at 37:23, and his *"wise in
   heart"* (9:4) at 37:24. Named once (37:14) and asked *"Do you know …?"* (37:15–16). See
   [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]].
+- [[Out of the Whirlwind]] — Job 38:1–40:5; **answered, examined, and silenced — not condemned.** God
+  speaks to him and to no one else, uses his procedure (13:22) with the roles reversed, and builds the
+  questions out of his own words: chapter 3's darkness, womb, doors, shadow of death, and birth; the storm
+  of 9:17; the stars of 9:9; the lion of 10:16; the wasteland of 30:3. The charge is *"words without
+  knowledge"* (38:2), not wickedness. His reply — *"I am of small account … I lay my hand on my mouth"*
+  (40:4) — reverses his *"as a prince would I go near to him"* (31:37) and his *"What shall I answer him?"*
+  (31:14), and uses Elihu's *"once … twice"* (33:14) of his own speech (40:5). See
+  [[The Whirlwind Answers Chapter 3]] and [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
 
 ## Related people
 

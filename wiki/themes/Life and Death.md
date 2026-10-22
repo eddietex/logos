@@ -386,6 +386,11 @@ the rest of the canon.
   (36:6); the deaf *"die without knowledge"* (36:12); the godless *"die in youth"* (36:14); and *"Don't desire
   the night, when people are cut off in their place"* (36:20) — Job's longing for death in chapter 3,
   forbidden.
+- [[Out of the Whirlwind]] — Job 38:17, 39–41; 39:1–4, 30; **death inside the order God describes.**
+  *"Have the gates of death been revealed to you?"* (38:17) to a man who has wished himself dead since
+  chapter 3; births no one watches (39:1–3); prey for the lioness and the raven; and the speech's last
+  line, *"Where the slain are, there he is"* (39:30). See
+  [[Where the Slain Are - Job 39.30 and Matthew 24.28]].
 
 ## Related themes
 

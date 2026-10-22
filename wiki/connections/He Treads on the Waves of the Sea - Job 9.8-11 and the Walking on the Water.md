@@ -16,7 +16,7 @@ tags: [connection]
   him (mî yəšîbennû)?"* Zophar quoting 9:11–12, the passing God turned from absent to judging —
   [[Zophar's First Speech]]
 - **Job 38:16** — *"Have you entered into the springs of the sea? Or have you walked in the recesses
-  of the deep?"* God's question back.
+  of the deep?"* God's question back. — [[Out of the Whirlwind]]
 - **Exodus 33:19–23; 34:6** — *"I will make all my goodness pass before you… while my glory passes
   by… and Yahweh passed by before him, and proclaimed."*
 - **1 Kings 19:11** — *"Behold, Yahweh passed by"* — to Elijah at Horeb, not in the wind, the

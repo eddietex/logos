@@ -325,7 +325,7 @@ a valley floor where a burial could actually be dug. No named place.
   steals him away in the night"* is 21:18's *gənābattû sûpâ* asserted rather than questioned. See
   [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
 - [[Now They Mock Me]] — Job 30:31, *"my harp has turned to mourning"*.
-- Job 40:4 — *"I lay my hand on my mouth."*
+- [[Out of the Whirlwind]] — Job 40:4 — *"I lay my hand on my mouth."*
 - Exodus 23:26; Deuteronomy 28:4 — the covenant blessings of fertility, behind 21:10.
 - Exodus 20:5; 34:7; Deuteronomy 24:16; Jeremiah 31:29–30; Ezekiel 18:1–4, 20 — iniquity and the
   children.

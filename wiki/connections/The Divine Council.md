@@ -20,7 +20,7 @@ tags: [connection]
 - **Job 25:2–3** — Bildad: *"He makes peace in his high places. Can his armies be counted?"* — the
   heavenly host as uncountable troops, and a peace settled among them — [[Bildad's Third Speech]]
 - **Job 38:7** — *"when the morning stars sang together, and all the sons of God shouted for joy"*,
-  at the founding of the earth
+  at the founding of the earth — [[Out of the Whirlwind]]
 - **Genesis 1:26; 3:22; 11:7** — *"Let us make man in our image"*; *"the man has become like one of
   us"*; *"let's go down"* — [[Let Us Go Down - The Divine Plural in Genesis]]
 - **Genesis 6:1–4** — the sons of God and the daughters of men —

@@ -318,7 +318,8 @@ it is false.
 - [[The Months of Old]]; [[Job's Oath of Innocence]] — Job 29:12–17; 31:16–25; the point-by-point
   rebuttal, under oath.
 - [[Elihu on God's Justice]] — Job 35:6–8, Elihu's restatement of 22:2–3; 35:5, of 22:12.
-- Job 38:34 — *"that abundance of waters may cover you"*, the phrase of 22:11 in God's mouth.
+- [[Out of the Whirlwind]] — Job 38:34 — *"that abundance of waters may cover you"*, the phrase of 22:11
+  in God's mouth.
 - Job 42:7–10 — Eliphaz rebuked, delivered through Job's prayer.
 - Exodus 20:21; 1 Kings 8:12 — the *ʿărāpel* where God is.
 - Exodus 22:22–27; Deuteronomy 24:6, 10–13, 17 — the widow, the fatherless, and the pledged cloak.

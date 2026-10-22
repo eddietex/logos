@@ -212,6 +212,10 @@ everlasting possession, by treaty with its current occupant.
   formula *"the fear of the Lord, that is wisdom"* — Israel's wisdom motto (Proverbs 1:7; 9:10, with
   *Yahweh*) in the one place the poetry of Job quotes God as having spoken. Some Hebrew manuscripts read
   *Yahweh*; with 12:9, it is the dialogue's only departure from *ʾĕlôah*, *ʾēl* and *Šadday*
+- [[Out of the Whirlwind]] — Job 38:1; 40:1–3; ***Yahweh* returns to the narration.** The narrator has
+  not used the name since 2:7, and in the dialogue only Job has spoken it (12:9); now each heading has it
+  (38:1; 40:1, 3). In his own speech God calls himself *Šadday* and *ʾĔlôah* (40:2) — the names the
+  dialogue used for him, and the *Šadday* of Job's summons, *"Let the Almighty answer me!"* (31:35).
 
 ## Related themes
 

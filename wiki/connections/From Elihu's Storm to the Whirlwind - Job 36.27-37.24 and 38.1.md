@@ -11,13 +11,14 @@ tags: [connection]
   33; 37:2–5), lightning (36:30, 32; 37:3, 11, 15), snow and rain (37:6), the storm out of its chamber and
   cold out of the north (37:9), ice by the breath of God (37:10), the sky like cast metal (37:18), and the
   golden splendour *"out of the north"* (37:22) — [[Elihu on God's Greatness]]
-- **Job 38:1–3** *(not yet ingested)* — *"Then Yahweh answered Job out of the whirlwind, 'Who is this who
+- **Job 38:1–3** — *"Then Yahweh answered Job out of the whirlwind, 'Who is this who
   darkens counsel by words without knowledge? Brace yourself like a man, for I will question you, then you
-  answer me!'"*
-- **Job 38:22–38** *(not yet ingested)* — God's questions about the same subjects: *"Have you entered the
+  answer me!'"* — [[Out of the Whirlwind]]
+- **Job 38:22–38** — God's questions about the same subjects: *"Have you entered the
   treasuries of the snow?"* (38:22); *"Who has cut a channel for the flood water, or the path for the
-  thunderstorm?"* (38:25); *"Out of whose womb came the ice?"* (38:29); *"Do you know the laws of the
+  thunderstorm"* (38:25); *"Out of whose womb came the ice?"* (38:29); *"Do you know the laws of the
   heavens?"* (38:33); *"Can you send out lightnings, that they may go?"* (38:35)
+  — [[Out of the Whirlwind]]
 - **Job 40:6, 9** *(not yet ingested)* — the second answer *"out of the whirlwind"*, and *"Can you thunder
   with a voice like him?"*
 - **Job 9:17** — Job: God *"breaks me with a storm"* — *śəʿārâ*, the word of 38:1 — [[There Is No Umpire Between Us]]

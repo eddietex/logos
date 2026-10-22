@@ -16,6 +16,7 @@ tags: [connection]
   the hills, I was brought forth… When he established the heavens, I was there."*
 - **Job 38:4, 21** — God, from the whirlwind: *"Where were you when I laid the foundations of the
   earth? … Surely you know, for you were born then, and the number of your days is great!"*
+  — [[Out of the Whirlwind]]
 - **Genesis 2:7** — the forming of the first man — [[The Garden of Eden]]
 - **Job 28:12–28** — *"Where shall wisdom be found? … God understands its way"* —
   [[Where Shall Wisdom Be Found]]

@@ -148,6 +148,19 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   his case before God (37:19–20), *"We can't reach the Almighty"* (37:23) — and the next verse is
   *"Then Yahweh answered Job out of the whirlwind"* (38:1).
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
+  The first (38:1–40:5) opens with the narrator's first *Yahweh* since 2:7 and the storm-word of Job's
+  9:17, and its first sentence uses chapter 3's darkness against him: *"Who is this who darkens counsel by
+  words without knowledge?"* (38:2). Then the trial Job asked for, on his terms (13:22) with the roles
+  reversed — *"I will question you, then you answer me!"* (38:3) — and more than fifty questions with no
+  word of the wager, the friends, Elihu, or Job's suffering. The earth's foundation, with the sons of God
+  singing (38:4–7); the sea born from the womb and shut in by doors, chapter 3's womb and doors (38:8–11);
+  the dawn that shakes the wicked out (38:12–15); the gates of death; the houses of light and darkness, and
+  *"you were born then"* (38:21); rain *"on a land where no man is"* (38:26); the stars of 9:9 under law;
+  then food for the lioness and the raven's crying young (38:39–41), and a gallery of creatures outside
+  human use — goat, wild donkey, wild ox, ostrich, war-horse, hawk — ending on the eagle: *"Where the slain
+  are, there he is"* (39:30). God names Job the *mōkîaḥ*, the umpire of 9:33 (40:2), and Job answers with
+  his hand on his mouth: *"I have spoken once … Yes, twice, but I will proceed no further"* (40:5).
+  **Silence, not repentance — and God speaks again.**
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
 
 ## Pericopes
@@ -215,7 +228,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Yahweh answers (38–41)
 
-- [ ] Out of the Whirlwind — Job 38:1–40:5
+- [x] [[Out of the Whirlwind]] — Job 38:1–40:5
 - [ ] Behemoth and Leviathan — Job 40:6–41:34
 
 ### Epilogue (42)
@@ -244,6 +257,9 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Sin]]
 - [[Judgment]]
 - [[Life and Death]]
+- [[Creation]] — the whirlwind's subject: the earth's foundation, the sea's doors, the houses of light and
+  darkness, and the stars of 9:9 under law (38:4–33)
+- [[Providence]] — rain *"on a land where no man is"* (38:26), and the lioness and the raven fed (38:39–41)
 
 ## Key people
 

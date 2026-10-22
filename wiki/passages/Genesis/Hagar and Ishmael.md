@@ -426,8 +426,8 @@ years he is, as far as Abram knows, the son.
   because we have seen God"*.
 - 1 Samuel 1:11 — Hannah asking God to *look on the affliction of your servant*, in Hagar's
   vocabulary.
-- Job 39:5–8 — the *pereʾ*, the wild donkey, as God describes it: free, city-scorning, and
-  unbroken.
+- [[Out of the Whirlwind]] — Job 39:5–8 — the *pereʾ*, the wild donkey, as God describes it: free,
+  city-scorning, and unbroken.
 - Isaiah 60:6–7; Jeremiah 49:28–33 — Kedar and Nebaioth, Ishmael's sons, as nations in the prophets.
 - Galatians 4:21–31 — Hagar, Sinai, and the two covenants.
 - [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] — *pereʾ ʾādām*'s only other occurrence,

@@ -332,8 +332,8 @@ opposite.
 - [[Elihu on God's Greatness]] — Job 36:1–37:24, Elihu's fourth speech; 36:8–15 restates 33:14–30 as
   *"He delivers the afflicted by their affliction"*, and 36:18 has *kōper* again, as *bribe* on the WEB's
   reading or as the price of suffering on another.
-- Job 38:1–2 — *"Then Yahweh answered Job out of the whirlwind … Who is this who darkens counsel by words
-  without knowledge?"* Not yet ingested.
+- [[Out of the Whirlwind]] — Job 38:1–2 — *"Then Yahweh answered Job out of the whirlwind … Who is this
+  who darkens counsel by words without knowledge?"*
 - Job 42:7–10 — *"My wrath is kindled against you, and against your two friends"*; Job prays for them.
   Elihu is not mentioned. Not yet ingested.
 - Psalm 62:11 — *"God has spoken once; twice I have heard this"*.

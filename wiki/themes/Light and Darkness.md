@@ -169,6 +169,12 @@ raw text.)*
   hands with the lightning (36:32); the case cannot be made *"by reason of darkness"* (37:19); and then the
   wind clears the sky and *"Out of the north comes golden splendor"* (37:21–22), the last image before the
   whirlwind.
+- [[Out of the Whirlwind]] — Job 38:2, 12–15, 19–21; **light and darkness given addresses.** God's first
+  words are *"Who is this who darkens counsel?"* (38:2) — chapter 3's verb turned on its speaker. The
+  dawn *"shake[s] the wicked out"* of the earth and their light is withheld (38:13–15), answering Job's
+  wicked who *"rebel against the light"* (24:13). Light has a *dwelling* and darkness a *place* with a
+  *bound* (38:19–20): not weapons to aim at a birthday, as in chapter 3, but residents God keeps. See
+  [[The Whirlwind Answers Chapter 3]].
 
 ## Related themes
 

@@ -210,8 +210,8 @@ king over all the sons of pride"* (41:34).
 - [[Better Than Gold - The Price of Wisdom]] — Proverbs 2:4; 3:13–15; 8:10–11, 19; 16:16; Psalm 19:10.
 - Job 29:1 — *"Job again took up his parable"*, the heading that ends the interlude and returns to Job's
   case (next pericope).
-- Job 38:25, 36–37 — *"the path for the thunderstorm"* (the same Hebrew as 28:26) and *"Who has put
-  wisdom in the inward parts?"*: the hymn's subjects as God's questions. Not yet ingested.
+- [[Out of the Whirlwind]] — Job 38:25, 36–37 — *"the path for the thunderstorm"* (the same Hebrew as
+  28:26) and *"Who has put wisdom in the inward parts?"*: the hymn's subjects as God's questions.
 - Job 41:34 — Leviathan, *"king over all the sons of pride"* — *bənê-šaḥaṣ*, the *"proud animals"* of
   28:8, the phrase's only other occurrence. Not yet ingested.
 - Proverbs 8:22–31 — Wisdom present *"in the beginning of his work"*: 28:25–27's creation scene with

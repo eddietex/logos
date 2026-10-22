@@ -390,7 +390,7 @@ the dead at 10:21–22, but [[Sheol]] is not in view here.
 - [[Shall Not the Judge of All the Earth Do Right]]
 - [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] — 34:21–22 and Psalm 139:12.
 - [[Elihu on God's Greatness]] — Job 36:1–37:24, Elihu's fourth speech; 36:12, *"die without knowledge"*.
-- Job 38:2 — *"Who is this who darkens counsel by words without knowledge?"* Not yet ingested.
+- [[Out of the Whirlwind]] — Job 38:2 — *"Who is this who darkens counsel by words without knowledge?"*
 - Job 40:8 — *"Will you condemn me, that you may be justified?"* Not yet ingested.
 - Job 41:11 — *"Who has first given to me, that I should repay him?"* Not yet ingested.
 - Job 42:3, 7 — *"Who is this who hides counsel without knowledge?"*; *"you have not spoken of me the

@@ -17,6 +17,7 @@ tags: [connection]
   [[I Will Not Put Away My Integrity]]
 - **Job 38:8–11** — *"Who shut up the sea with doors, when it broke out of the womb … and said,
   'Here you may come, but no further. Here your proud waves shall be stayed'?"*
+  — [[Out of the Whirlwind]]
 - **Job 40:15–41:34** — Behemoth and Leviathan
 - **Psalm 74:13–14; 89:9–10** — *"You broke the heads of the sea monsters (tannînim) in the
   waters. You broke the heads of Leviathan in pieces"*; *"You rule the pride of the sea… You have
