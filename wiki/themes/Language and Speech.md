@@ -283,6 +283,10 @@ noticing into doctrine.
   **Pharaoh calls Yahweh's word *diḇrê šāqer*; Moses spoke in the name and was answered with
   contempt.** The officers' plain speech to Pharaoh (*"the fault is in your own people"*, 5:16) is
   answered with *"You are idle!"*
+- [[I Am Yahweh]] — Exodus 6:9–12; **the speaker who says he cannot speak, and the hearers who
+  cannot hear.** *Šāmaʿ* runs through the pericope: God *has heard* (6:5), Israel *did not hear*
+  (6:9), and Pharaoh *will not hear* (6:12). Moses' *"uncircumcised lips"* restates 4:10's *heavy of
+  mouth* — [[Uncircumcised Lips, Ears, and Heart]]
 
 ## Related themes
 

@@ -213,6 +213,9 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   occurrence — *"to the place of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and
   the Jebusite"*: five peoples from Genesis 15:19–21 and the Hivite, the list of six that becomes
   standard
+- [[I Am Yahweh]] — Exodus 6:4, 8; ***"the land of Canaan, the land of their travels, in which they
+  lived as aliens"*** — *ʾereṣ məgurêhem*, the patriarchs' word for a land they never owned — now
+  sworn to the nation *"for a heritage"*, *môrāšâ*
 
 ## Related places
 
@@ -269,3 +272,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   verses before the roster says all twelve were born in Paddan Aram — Genesis 35:16–19, 26
 - Promised at Horeb as *"a land flowing with milk and honey"* — Exodus 3:8, 17,
   [[The Burning Bush]]
+- Described to Moses as the land of the fathers' sojourning, sworn with the lifted hand, and promised
+  to Israel *"for a heritage"* — Exodus 6:4, 8, [[I Am Yahweh]]

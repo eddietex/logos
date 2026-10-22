@@ -25,7 +25,8 @@ tags: [connection]
   in a room he will never enter — see [[Compassion and Mercy]]
 - **Genesis 48:3; 49:25** — Jacob's last two uses, quoting Bethel and blessing Joseph.
 - **Exodus 6:2–3** — *"I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my name
-  Yahweh I was not known to them."*
+  Yahweh I was not known to them."* **The name's only occurrence in Exodus.** It looks back across all
+  six Genesis occurrences from the moment the second name is given — [[I Am Yahweh]]
 - **Numbers 24:4, 16** — Balaam, a foreign seer, *"who sees the vision of the Almighty"*.
 - **Job** — thirty-one occurrences, more than the rest of the Bible combined; the standard name for
   God in the mouths of Job and his friends. See [[Job (person)]].
@@ -104,7 +105,8 @@ See [[The Names of God]] and [[Calling on the Name of Yahweh]].
   every English-speaking pulpit for four hundred years, and it rests on the least defensible of the
   four etymologies. Where it matters, this wiki gives the Hebrew.
 
-**Genesis 49:25 is now ingested**, in [[Jacob Blesses His Sons]] — **the fifth and final occurrence in
-Genesis** (17:1; 28:3; 35:11; 48:3; 49:25), **and the second spoken by [[Jacob]] in two chapters.**
+**Genesis 49:25 is now ingested**, in [[Jacob Blesses His Sons]] — **the sixth and final occurrence in
+Genesis** (17:1; 28:3; 35:11; 43:14; 48:3; 49:25), **and the second spoken by [[Jacob]] in two chapters.**
+(Corrected 2026-10-22 from *fifth*: the earlier count omitted 43:14, listed above. WLC lemma search.)
 **Like 48:3 it is a human being using the name rather than God announcing it**, and here it stands
 beside three further titles coined in the same two verses.

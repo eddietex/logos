@@ -47,6 +47,12 @@ calls the request idleness twice** (*"You are idle! You are idle!"*, 5:17) **and
 [[Bricks Without Straw]] and
 [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]].
 
+**In 6:2–13 he is the destination of a command he does not hear.** God's answer to his *"I don't know
+Yahweh"* (5:2) is spoken to Israel: *"you shall know that I am Yahweh your God"* (6:7). It promises
+deliverance *"from under the burdens of the Egyptians"*, which answers his *"Get back to your
+burdens!"* (5:4), and judgment through *"great judgments"* (6:6). Moses doubts that Pharaoh will listen
+when Israel has not (6:12). See [[I Am Yahweh]].
+
 ### What is ahead
 
 The ten plagues; the release; the pursuit; and the sea. These are written as
@@ -61,6 +67,8 @@ their pericopes arrive.
 - Refuses Moses and Aaron: *"Who is Yahweh? … I don't know Yahweh"*; withdraws the straw and keeps the
   quota; calls the people idle — Exodus 5:1–18, [[Bricks Without Straw]]
 - His compulsion foretold: *"by a strong hand he shall let them go"* — Exodus 6:1
+- The object of a renewed command: *"Go in, speak to Pharaoh king of Egypt, that he let the children of
+  Israel go out of his land"* — Exodus 6:10–13, [[I Am Yahweh]]
 
 ## Appears in
 
@@ -70,6 +78,8 @@ their pericopes arrive.
   heart"*; *"Israel is my son, my firstborn"*; *"I will kill your son, your firstborn"*
 - [[Bricks Without Straw]] — Exodus 5:1–6:1; **on stage at last.** *"Who is Yahweh?"*; the bricks
   without straw; *"You are idle!"*; and God's *"Now you shall see what I will do to Pharaoh"*
+- [[I Am Yahweh]] — Exodus 6:6–13; **offstage, and answered.** *"Great judgments"*; *"from under the
+  burdens"*; and Moses' *"How then shall Pharaoh listen to me?"*
 
 ## Related people
 

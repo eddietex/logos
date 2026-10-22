@@ -318,6 +318,11 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - [[Moses Returns to Egypt]] — Exodus 4:24–26, 31; **the covenant's sign required of the deliverer's own house**, by an
   attack the text does not explain and a circumcision that ends it; and *pāqad* — Joseph's *"God will
   surely visit you"* — heard and believed by the people
+- [[I Am Yahweh]] — Exodus 6:4–8; **the covenant *established* (Genesis 17's *hăqimōtî*) and
+  *remembered* (2:24), and the covenant formula said to a nation for the first time.** *"I will take
+  you to me for a people, and I will be to you a God"* (6:7) adds the people's half to Genesis
+  17:7–8's *"to be a God to you"* —
+  [[I Will Take You as My People - The Covenant Formula]]
 
 ## Related themes
 

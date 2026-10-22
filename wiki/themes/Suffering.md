@@ -262,6 +262,9 @@ requires only that you be standing outside it.
   The request to worship doubles the labour; the foremen are beaten (*wayyukkû*, the *nākâ* of 2:11–12);
   and the people turn on Moses. By 6:9 they cannot listen *"for anguish of spirit, and for cruel
   bondage"*
+- [[I Am Yahweh]] — Exodus 6:9; ***qōṣer rûaḥ***, ***"anguish of spirit"***, literally *shortness of
+  spirit* — **suffering that makes promise inaudible.** The noun occurs nowhere else in Genesis,
+  Exodus, or Job
 
 ## Related themes
 

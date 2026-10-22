@@ -11442,3 +11442,106 @@ paragraph), [[The Names of God]], [[Kingship and Empire]], [[Pride and Self-Exal
 checked, chapters 5–7:13 structure note, key themes. Indexes: books (Exodus 6 / 53), people (4 rows),
 places (1), themes (17), connections (+1, 2 rows' references extended), `wiki/index.md` (97 passages,
 156 people, 79 places, 71 themes, 285 connections). `scripts/link-check.sh` clean.
+
+## [2026-10-22] ingest | Exodus 6.2-13 — I Am Yahweh
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *I Am Yahweh — Exodus 6:2–13*. The
+boundary was kept as planned. 6:2 opens with a new introduction after 6:1 closes the complaint; 6:13
+is a summary before the genealogy; and 6:28–30 repeats 6:10–12, confirming the pause. No discussion
+step; it is written into the passage page.
+
+### The passage page
+
+[[I Am Yahweh]] covers:
+
+- *ʾănî YHWH* four times (6:2, 6, 7, 8), framing the speech, shown in a table of past and future.
+- *wāʾērāʾ* against Moses' *lōʾ-nirʾâ* (4:1).
+- *ʾĒl Šadday* and the 6:3 tension with Genesis 15:7 and 28:13. Three readings are recorded and
+  none adopted.
+- *hăqimōtî* (Genesis 17:7) and *məgûrîm* (Genesis 17:8; 28:4; 36:7; 37:1; 47:9).
+- *naʾăqâ* (2:24) and *maʿăbidîm* (1:13).
+- A table of the seven promise verbs. *Wəhiṣṣaltî* answers 5:23's *lōʾ-hiṣṣaltā*, and *siblōt*
+  answers 5:4.
+- *Gāʾal*, its second occurrence after Genesis 48:16; *zərôaʿ nəṭûyâ*; *šəpāṭîm* (6:6; 7:4; 12:12).
+- The covenant formula's first full form, and *lāqaḥ* of marriage.
+- *nāśāʾ yād*, the first such oath in Genesis, Exodus, and Job, set beside Abram's *hărîmōtî* at
+  14:22; and *môrāšâ*.
+- *qōṣer rûaḥ* and *ʿăbōdâ qāšâ* (1:14), with 3:18, 4:1, and 4:31 reversed.
+- Moses' lesser-to-greater argument, and *ʿăral śəpātāyim* against Genesis 17:14 and Exodus 12:48.
+- The first joint address to Moses and Aaron (6:13).
+- The genealogy as a bracket, and the two commissions.
+
+### Judgment calls
+
+- **Three new connections.**
+  - [[I Will Take You as My People - The Covenant Formula]]: 6:7 is the formula's first full,
+    national form.
+  - [[Uncircumcised Lips, Ears, and Heart]]: 6:12 is the first figurative *ʿārēl*.
+  - [[Two Commissions - Exodus 3 and Exodus 6]]: a doublet in source criticism and a renewal in
+    narrative reading. Both readings are kept.
+- Later references on the first two pages (Leviticus, Deuteronomy, Jeremiah, Ezekiel, Acts, Romans,
+  2 Corinthians, Hebrews, Revelation) are **paraphrased and cited by reference only**, each marked
+  *not yet ingested*. No verse outside Genesis, Exodus, and Job is quoted on any page from this pass.
+- **No page for *the children of Israel*** as a group.
+- **Hedged at the point of the claim, not checked:**
+  - Deuteronomy's repeated *"outstretched arm"*.
+  - The rabbinic tie between the four cups and the verbs of 6:6–7, usually cited as the Jerusalem
+    Talmud, Pesachim 10:1. The citation is from memory.
+  - The marriage reading of *lāqaḥ*, which the page says the verb permits rather than asserts.
+
+### Correction made in passing
+
+**The count of *Šadday* in Genesis was wrong on four pages.** They said *five* (17:1; 28:3; 35:11;
+48:3; 49:25) and omitted 43:14, Jacob's own prayer, which the El Shaddai connection itself lists.
+A WLC lemma search gives six. The four pages are corrected and each correction is dated in place:
+[[God Almighty - El Shaddai in Genesis and Exodus]], [[Joseph]],
+[[Jacob Blesses Ephraim and Manasseh]] (also *third* → *fourth* occurrence attached to Jacob), and
+[[Jacob Blesses His Sons]] (also noting that 49:25 has *šadday* without *ʾēl*).
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):**
+
+- All of Exodus 6:2–13.
+- Exodus 1:13–14; 2:24; 3:7, 15, 17; 4:1, 10; 6:30; 7:4; 12:12, 48; 15:13.
+- Genesis 14:22; 15:7; 17:1, 7–8; 28:3, 13; 35:11; 43:14; 48:3–4; 49:25.
+- *Lāqaḥ* at Genesis 4:19; 11:29; 24:67, and the niphal of *rāʾâ* in Genesis.
+
+Counts and first occurrences come from lemma searches of Genesis, Exodus, and Job: *šadday*, *gāʾal*,
+*naʾăqâ*, *zərôaʿ*, *môrāšâ*, *qōṣer*, *ʿārēl*, *məgûrîm*, *šəpāṭîm*, *nāṣal*, *nāśāʾ yād*, the
+hiphil of *ʿābad*, and the Moses–Aaron pair.
+
+### Pages created or revised
+
+- **Created (4):** the passage page and the three connections above.
+- **Connections revised (6):**
+  - [[Calling on the Name of Yahweh]]: *not yet ingested* removed.
+  - [[God Almighty - El Shaddai in Genesis and Exodus]]: link, plus the count fix.
+  - [[God Remembered - Noah, Abraham, Rachel, and Israel]].
+  - [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]: *not yet ingested* removed.
+  - [[The Redeemer and the Avenger of Blood]].
+  - [[Who Am I - The Objections of the Called]]: new Exodus 6:12, 30 entry.
+- **People revised (8):**
+  - With a new overview paragraph: [[Moses]], [[Aaron]], [[Pharaoh (of the Exodus)]], and [[God]]
+    (new *Exodus 6:2–13* subsection).
+  - With a new entry: [[Abraham]], [[Isaac]], [[Jacob]].
+  - Count fix only: [[Joseph]].
+- **Places revised (2):** [[Egypt]], [[Canaan]].
+- **Themes revised (12):** [[The Names of God]], [[Covenant]], [[Remembrance]],
+  [[Land and Sojourning]], [[Slavery and Servitude]], [[Oaths and Vows]], [[Judgment]],
+  [[Call and Election]], [[Faith]], [[Suffering]], [[Circumcision]], [[Language and Speech]].
+- **Passages revised (2), count fix only:** [[Jacob Blesses Ephraim and Manasseh]],
+  [[Jacob Blesses His Sons]].
+- **Book page:** box checked; a 5–7:13 structure note; key themes (+[[Oaths and Vows]],
+  +[[Judgment]]); key places (+[[Canaan]]).
+- **Indexes:**
+  - books: Exodus 7 / 53.
+  - people: 7 rows.
+  - places: 2 rows.
+  - themes: 12 rows.
+  - connections: 3 rows added, and 1 row's references extended.
+  - `wiki/index.md`: 98 passages, 288 connections.
+
+`scripts/link-check.sh` is clean.

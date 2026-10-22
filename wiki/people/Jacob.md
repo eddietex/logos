@@ -929,6 +929,10 @@ for four hundred years, and he is dead when he gets there.**
   *"I will go down with you into Egypt. I will also surely bring you up again"* (46:4) is kept in *"I
   have come down to deliver them … and to bring them up"* (3:8). See
   [[Jacob, Jacob - The Doubled Name and Hinneni]]
+- [[I Am Yahweh]] — Exodus 6:3, 4, 8; **named third of the three to whom God *"appeared … as God
+  Almighty"***. His own *"God Almighty appeared to me at Luz"* (Genesis 48:3) uses the same verb, and
+  his *"the days of the years of my pilgrimage"* (47:9) is the *məgûrîm* of 6:4, *"the land of their
+  travels"* — [[God Almighty - El Shaddai in Genesis and Exodus]]
 
 ## Related people
 

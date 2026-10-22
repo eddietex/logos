@@ -330,8 +330,10 @@ Israel, occurs nowhere else** — **and Psalm 118:22's rejected stone, Isaiah 28
 stone, and the New Testament's use of both** (Matthew 21:42; 1 Peter 2:4–8) **all stand downstream of a
 title Genesis uses once and does not explain.**
 
-***"By the Almighty, who will bless you."*** ***El Shaddai*** — **the fifth and final occurrence in
-Genesis** (17:1; 28:3; 35:11; 48:3; 49:25), **and the second in two pericopes.** See
+***"By the Almighty, who will bless you."*** ***El Shaddai*** — **the sixth and final occurrence in
+Genesis** (17:1; 28:3; 35:11; 43:14; 48:3; 49:25), **and the second in two pericopes.** Here the
+Hebrew has *šadday* alone, without *ʾēl*. (Corrected 2026-10-22 from *fifth*: the earlier count
+omitted 43:14. WLC lemma search.) See
 [[God Almighty - El Shaddai in Genesis and Exodus]].
 
 **The blessings are stacked in three pairs and they map the cosmos.** ***Heaven above*** and ***the

@@ -165,6 +165,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
 - [[Bricks Without Straw]] — Exodus 5:20–21; **the belief of 4:31 undone in one audience.** The people
   who believed and worshiped curse the deliverer — *"May Yahweh look at you, and judge"* — and by 6:9
   they no longer listen. **Faith given at the first telling does not survive the first cost**
+- [[I Am Yahweh]] — Exodus 6:9; ***"they didn't listen to Moses for anguish of spirit, and for cruel
+  bondage"*** — **the fullest promise yet, unheard.** The text does not call it unbelief; it gives
+  the oppression as the reason. Moses' fear at 4:1 (*"nor listen to my voice"*) comes true after
+  4:31 proved it wrong
 
 ## Related themes
 

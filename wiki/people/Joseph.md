@@ -222,8 +222,8 @@ the same deathbed.**
 ***ʾĂbîr yaʿăqōb***, **the Mighty One of Jacob** — a title Isaiah still uses seven centuries later
 (49:26; 60:16). ***Hārōʿeh***, **the shepherd** — **the noun to 48:15's participle**, and the last
 thing Jacob calls God. ***ʾEben yiśrāʾēl***, **the stone of Israel** — **a construction that occurs
-nowhere else in the Bible.** And ***El Shaddai*** at 49:25, **the fifth and final occurrence in
-Genesis.** Filed as [[The Mighty One of Jacob and the Stone of Israel]]; see
+nowhere else in the Bible.** And ***Shaddai*** at 49:25, **the sixth and final occurrence in
+Genesis** (17:1; 28:3; 35:11; 43:14; 48:3; 49:25; the earlier count of five omitted 43:14). Filed as [[The Mighty One of Jacob and the Stone of Israel]]; see
 [[The God Who Has Fed Me - The First Time God Is a Shepherd]] and
 [[God Almighty - El Shaddai in Genesis and Exodus]].
 

@@ -20,8 +20,8 @@ tags: [connection]
 - **Genesis 26:25** — Isaac at the same place: *"He built an altar there, and called on Yahweh's
   name, and pitched his tent there."* **The only occurrence attached to Isaac**, and the only altar
   he builds in the Bible — [[Isaac in Gerar]]
-- **Exodus 6:2–3** *(not yet ingested)* — *"I am Yahweh. I appeared to Abraham, to Isaac, and to
-  Jacob, as God Almighty; but by my name Yahweh I was not known to them."*
+- **Exodus 6:2–3** — *"I am Yahweh; and I appeared to Abraham, to Isaac, and to Jacob, as God
+  Almighty; but by my name Yahweh I was not known to them."* — [[I Am Yahweh]]
 - **Joel 2:32** — *"whoever will call on Yahweh's name shall be saved"*
 - **Acts 2:21; Romans 10:13** — Peter at Pentecost and Paul in Romans, both quoting Joel
 

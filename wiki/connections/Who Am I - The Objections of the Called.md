@@ -12,6 +12,10 @@ tags: [connection]
 - **Exodus 4:10–12** — Moses: *"O Lord, I am not eloquent … I am slow of speech, and of a slow
   tongue."* God: *"Who made man's mouth? … I will be with your mouth, and teach you what you shall
   speak."*
+- **Exodus 6:12, 30** — Moses again, after the first audience has failed: *"the children of Israel
+  haven't listened to me. How then shall Pharaoh listen to me, who am of uncircumcised lips?"* **This
+  time God does not answer the objection** (6:13); when it is repeated, he gives Aaron as Moses'
+  *"prophet"* (7:1) — [[I Am Yahweh]], [[Uncircumcised Lips, Ears, and Heart]]
 - **Judges 6:15–16** — Gideon: *"O Lord, how shall I save Israel? Behold, my family is the poorest in
   Manasseh, and I am the least in my father's house."* Yahweh: *"Surely I will be with you, and you
   shall strike the Midianites as one man."*

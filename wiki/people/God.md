@@ -1417,6 +1417,22 @@ anger burn, Moses' complaint after going draws only *"Now you shall see what I w
 will answer**: *"you shall know that I am Yahweh"*. See [[Bricks Without Straw]] and
 [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]].
 
+### He says his name four times and does not answer an objection — Exodus 6:2–13
+
+**He answers Moses' accusation with a speech framed by his name.** *ʾĂnî YHWH*, *"I am Yahweh"*,
+opens it, stands in its middle, and closes it (6:2, 6, 7, 8). He says he *appeared* to the
+patriarchs *"as God Almighty"*, but *"by my name Yahweh I was not known to them"* (6:3). That claim
+stands in tension with Genesis 15:7 and 28:13, where he says *"I am Yahweh"* to Abram and to Jacob;
+the tension is recorded on [[I Am Yahweh]] and not resolved. Then come **seven promises in the first
+person**: *bring out*, *rescue*, *redeem*, *take*, *be*, *bring in*, *give*. In them he takes the
+kinsman's verb *gāʾal* for himself, says the covenant formula to a nation for the first time, and
+for the first time in the books the wiki has reached swears with the lifted hand, *nāśāʾtî
+ʾet-yādî* (6:8). **The second promise, *wəhiṣṣaltî*, answers Moses' *"you have not rescued"* in its
+own verb.** When Israel does not listen and Moses objects again, he gives no answer and no sign, only
+the command, now to Moses and Aaron together (6:13). See [[I Am Yahweh]],
+[[I Will Take You as My People - The Covenant Formula]], and
+[[Two Commissions - Exodus 3 and Exodus 6]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1582,6 +1598,9 @@ will answer**: *"you shall know that I am Yahweh"*. See [[Bricks Without Straw]]
 - Is refused by Pharaoh, *"Who is Yahweh?"*; is blamed by Moses for the people's trouble; answers
   without rebuke, *"Now you shall see what I will do to Pharaoh"* — Exodus 5:1–6:1,
   [[Bricks Without Straw]]
+- Says *"I am Yahweh"* four times; recalls the patriarchs, the covenant, and the groaning; promises to
+  bring out, rescue, redeem, take, be, bring in, and give; commands Moses and Aaron without answering
+  the objection — Exodus 6:2–13, [[I Am Yahweh]]
 
 ## Appears in
 
@@ -1915,6 +1934,9 @@ will answer**: *"you shall know that I am Yahweh"*. See [[Bricks Without Straw]]
   wanted to kill him"* — unexplained, and ended by a Midianite woman's flint
 - [[Bricks Without Straw]] — Exodus 5:1–6:1; **refused, blamed, and answering with a promise.** *"Who
   is Yahweh?"*; his word called lies; invoked against Moses; accused by Moses; *"Now you shall see"*
+- [[I Am Yahweh]] — Exodus 6:2–13; **the name, said four times, and seven promises.** *"By my name
+  Yahweh I was not known to them"*; *"I will take you to me for a people"*; *"you shall know that I
+  am Yahweh"*; Moses' objection unanswered
 
 ## Related people
 

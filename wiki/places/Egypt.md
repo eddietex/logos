@@ -225,6 +225,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   *"The people were scattered abroad throughout all the land of Egypt"* (5:12) — *wayyāpeṣ*, Babel's
   verb (Genesis 11:8). Its king refuses the name of Yahweh, and its taskmasters beat Israel's foremen;
   God promises that Pharaoh will *"drive them out of his land"* (6:1)
+- [[I Am Yahweh]] — Exodus 6:5–13; ***"from under the burdens of the Egyptians"***, twice. Egypt is the
+  land of *maʿăbidîm* and *ʿăbōdâ qāšâ*, and the place of the coming *"great judgments"* (6:6); the
+  command is *"to bring the children of Israel out of the land of Egypt"* (6:13)
 
 ## Related places
 
@@ -285,3 +288,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   believe and worship — Exodus 4:29–31, [[Moses Returns to Egypt]]
 - Moses and Aaron's first audience with Pharaoh; the straw withdrawn; the officers beaten; Moses'
   complaint and God's promise — Exodus 5:1–6:1, [[Bricks Without Straw]]
+- God says *"I am Yahweh"* to Moses and promises to bring Israel out; the people do not listen; Moses
+  is sent again to Pharaoh — Exodus 6:2–13, [[I Am Yahweh]]

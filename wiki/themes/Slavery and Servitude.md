@@ -275,6 +275,9 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   brickfields, makes the *service* heavy (*tikbad hāʿăbōdâ*, 5:9), and the Israelite officers call
   themselves *"your servants"* three times (5:15–16) — the posture of Genesis 47:19, 25. **The WEB's
   *work* is the Hebrew *serve***
+- [[I Am Yahweh]] — Exodus 6:5–9; ***maʿăbidîm***, ***mēʿăbōdātām***, ***ʿăbōdâ qāšâ*** — **every
+  *ʿābad* in God's speech is Egypt's.** The service God asked for (3:12; 4:23) is not mentioned, and
+  the *"cruel bondage"* of 1:14 is what keeps Israel from listening (6:9)
 
 ## Related themes
 

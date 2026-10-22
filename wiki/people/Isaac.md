@@ -636,6 +636,9 @@ gets a death notice in this same chapter** (35:8); she does not.
 - [[The Burning Bush]] — Exodus 3:6, 15, 16; 4:5; **named second in God's self-introduction**, four
   times; the *"I will be with you"* first said to him (Genesis 26:3) is said to Moses (3:12). See
   [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
+- [[I Am Yahweh]] — Exodus 6:3, 8; **named second of the three to whom God *"appeared … as God
+  Almighty"***; he had spoken the name himself in blessing Jacob (Genesis 28:3) —
+  [[God Almighty - El Shaddai in Genesis and Exodus]]
 
 ## Related people
 

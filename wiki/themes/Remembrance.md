@@ -251,6 +251,9 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   given to Israel.** God remembered (2:24); now he gives the people the name by which they will remember
   him. And the password for the elders, *pāqōd pāqadtî*, *"I have surely visited you"*, is Joseph's
   dying sentence kept. See [[God Remembered - Noah, Abraham, Rachel, and Israel]]
+- [[I Am Yahweh]] — Exodus 6:5; ***"I have remembered my covenant"*** — **2:24 said again, by God in
+  the first person.** The narrator's report becomes God's own statement to Moses after the failed
+  audience — [[God Remembered - Noah, Abraham, Rachel, and Israel]]
 
 ## Related themes
 

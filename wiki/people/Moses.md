@@ -121,9 +121,22 @@ God's *nāṣal* of 3:8 quoted back as unkept, and the *hărēʿōtâ* he will u
 see"* (6:1). See [[Bricks Without Straw]] and
 [[Who Made You a Prince and a Judge - The Rejected Deliverer]].
 
+**God answers him by saying the promise again, and Israel does not listen to it.** *"I am Yahweh"*,
+four times in seven verses (6:2–8). God recalls the fathers, the covenant, the groaning heard, and
+the covenant remembered, then makes seven promises: *bring out*, *rescue*, *redeem*, *take*, *be*,
+*bring in*, *give*. **The second, *wəhiṣṣaltî*, *"I will rescue"*, answers Moses' *"you have not
+rescued"* (5:23) in the same verb.** Moses carries it to the people, and *"they didn't listen to
+Moses for anguish of spirit, and for cruel bondage"* (6:9). His fear at 4:1 has come true. Sent back
+to Pharaoh, he argues from the lesser case to the greater: *"the children of Israel haven't listened
+to me. How then shall Pharaoh listen to me, who am of uncircumcised lips?"* (6:12). The bush's *"slow
+of speech"* now uses the covenant's word for exclusion, *ʿārēl*. **God does not answer the
+objection.** He repeats the command, now to *"Moses and … Aaron"* together (6:13). See
+[[I Am Yahweh]], [[Two Commissions - Exodus 3 and Exodus 6]], and
+[[Uncircumcised Lips, Ears, and Heart]].
+
 ### What is ahead
 
-The name reaffirmed and the genealogy (6:2–27), the staff before Pharaoh, and the plagues (6:28–11); the Passover, the sea, and the
+The genealogy (6:14–27), the staff before Pharaoh, and the plagues (6:28–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -163,6 +176,10 @@ sections are written as their pericopes arrive.
 - Cursed by the beaten Israelite officers, *"May Yahweh look at you, and judge"* — Exodus 5:20–21
 - Complains to God, *"Why is it that you have sent me?"*, and is answered *"Now you shall see"* —
   Exodus 5:22–6:1
+- Given the name and the seven promises for Israel; the people do not listen *"for anguish of
+  spirit"* — Exodus 6:2–9, [[I Am Yahweh]]
+- Sent again to Pharaoh; objects *"who am of uncircumcised lips"*; commanded with Aaron — Exodus
+  6:10–13
 
 ## Appears in
 
@@ -182,6 +199,9 @@ sections are written as their pericopes arrive.
 - [[Bricks Without Straw]] — Exodus 5:1–6:1; **sent in, refused, cursed, complaining.** His first audience
   with Pharaoh doubles the people's labour; the officers hand him over to God's judgment; he asks God
   why he was sent and accuses him of not delivering, and is answered with a promise and no rebuke
+- [[I Am Yahweh]] — Exodus 6:2–13; **given the promise again, and unheard.** Hears *"I am Yahweh"*
+  and the seven promises; the people will not listen; he calls himself *"of uncircumcised lips"* and
+  is commanded again, with Aaron, without an answer
 
 ## Related people
 

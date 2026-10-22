@@ -331,6 +331,10 @@ where that starts, in a sentence about a family that got halfway.
   occurrence**, a shepherd's measure of good country, said to a shepherd — and in the same verse the six
   peoples who hold it. And the Egyptian woman *"who visits her house"* is *gārat bêtāh*, the one
   *sojourning* in the Hebrew woman's house: the root of Gershom's *gēr* (2:22), reversed
+- [[I Am Yahweh]] — Exodus 6:4, 8; ***ʾereṣ məgurêhem ʾăšer-gārû bāh***, ***"the land of their
+  travels, in which they lived as aliens"*** — **Canaan described by the fact that the fathers never
+  owned it**, using the *məgûrîm* of Genesis 17:8; 28:4; 36:7; 37:1; 47:9. It is promised to Israel
+  *"for a heritage"*, *môrāšâ*, the only occurrence of the noun in Genesis, Exodus, and Job
 
 ## Related themes
 

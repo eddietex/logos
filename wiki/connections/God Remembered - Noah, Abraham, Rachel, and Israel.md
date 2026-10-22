@@ -19,7 +19,8 @@ tags: [connection]
 - **Exodus 2:24** — *"God heard their groaning, and God remembered his covenant with Abraham, with
   Isaac, and with Jacob."* — [[Moses Flees to Midian]]
 - **Exodus 6:5** — *"Moreover I have heard the groaning of the children of Israel, whom the Egyptians
-  keep in bondage, and I have remembered my covenant."*
+  keep in bondage, and I have remembered my covenant."* 2:24 in God's own voice, said to Moses after
+  the failed audience — [[I Am Yahweh]]
 - **Psalm 105:42** — *"For he remembered his holy word, and Abraham, his servant."*
 - **Luke 1:72–73** — *"to show mercy towards our fathers, to remember his holy covenant, the oath
   which he swore to Abraham, our father"*

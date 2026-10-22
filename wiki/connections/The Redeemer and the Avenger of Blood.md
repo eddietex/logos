@@ -23,7 +23,8 @@ tags: [connection]
   the dead on his inheritance"*
 - **Proverbs 23:10–11** — *"Don't move the ancient boundary stone. Don't encroach on the fields of
   the fatherless, for their Defender is strong. He will plead their cause against you."*
-- **Exodus 6:6** — *"I will redeem you with an outstretched arm"*, the exodus as an act of *gāʾal*
+- **Exodus 6:6** — *"I will redeem you with an outstretched arm"*, the exodus as an act of *gāʾal* —
+  [[I Am Yahweh]]
 - **Isaiah 41:14; 43:14; 44:6, 24; 47:4; 54:5; 59:20** — *"your Redeemer, the Holy One of Israel"*,
   the title's settled prophetic use
 - **Psalm 19:14; 78:35; 103:4** — God as *gōʾēl* in the psalms

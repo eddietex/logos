@@ -123,6 +123,10 @@ a mark that can be perfectly kept and entirely missed.
   penalty in Genesis 17:14) her son's foreskin with a flint and *touched* it to *"his feet"*; *"he let
   him alone"*. The household of the man sent to deliver the covenant people had lacked the covenant's
   sign — the majority reading, which the text implies by the remedy and never states
+- [[I Am Yahweh]] — Exodus 6:12 (and 6:30); ***ʿăral śəpātāyim***, ***"uncircumcised lips"*** —
+  **the first figurative use of *ʿārēl*.** It comes between the two laws of exclusion (Genesis
+  17:14; Exodus 12:48) and one chapter after Zipporah's flint —
+  [[Uncircumcised Lips, Ears, and Heart]]
 
 ## Related themes
 

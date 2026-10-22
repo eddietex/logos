@@ -285,7 +285,10 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Psalm 105:42 · Luke 1:72–73 |
 | [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
 | [[I AM WHO I AM - Exodus 3.14 and John 8.58]] | allusion | Exodus 3:12, 14 · Exodus 4:12 · John 8:58 · Revelation 1:8 |
-| [[Who Am I - The Objections of the Called]] | motif | Exodus 3:11–12 · Exodus 4:10–12 · Judges 6:15–16 · 1 Samuel 9:21 · Isaiah 6:5, 8 · Jeremiah 1:6–9 |
+| [[Who Am I - The Objections of the Called]] | motif | Exodus 3:11–12 · Exodus 4:10–12 · Exodus 6:12, 30 · Judges 6:15–16 · 1 Samuel 9:21 · Isaiah 6:5, 8 · Jeremiah 1:6–9 |
 | [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |
 | [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]] | prophecy → fulfillment | Exodus 4:22–23 · Exodus 12:29; 13:15 · Deuteronomy 14:1; 32:6 · Psalm 89:26–27 · Jeremiah 31:9 · Hosea 11:1–2 · Matthew 2:13–15, 20 · Romans 9:4 |
 | [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] | thread | Exodus 1:8 · Exodus 2:25; 3:7 · Exodus 5:2 · Exodus 6:3, 7 · Exodus 7:5, 17; 8:10, 22; 9:14, 29; 10:2; 11:7 · Exodus 14:4, 18 · Exodus 18:11 · Job 21:14–15 · Proverbs 30:9 |
+| [[I Will Take You as My People - The Covenant Formula]] | thread | Genesis 17:7–8 · Exodus 6:7 · Exodus 29:45–46 · Leviticus 26:12 · Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33 · Ezekiel 11:20; 36:28; 37:27 · 2 Corinthians 6:16 · Hebrews 8:10 · Revelation 21:3 |
+| [[Uncircumcised Lips, Ears, and Heart]] | motif | Genesis 17:14 · Exodus 4:24–26 · Exodus 6:12, 30 · Exodus 12:48 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Acts 7:51 · Romans 2:28–29 |
+| [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 |

@@ -953,6 +953,10 @@ arrive.
   self-introduction** — *"the God of Abraham, the God of Isaac, and the God of Jacob"* — the first time
   God himself names all three; Jesus argues the resurrection from it (Mark 12:26). See
   [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
+- [[I Am Yahweh]] — Exodus 6:3, 8; **named first of the three to whom God *"appeared … as God
+  Almighty"***, and to whom the land was sworn with the lifted hand. The name *ʾĒl Šadday* goes back
+  to his covenant (Genesis 17:1), and the formula *"to be a God to you"* (17:7–8) is now said to the
+  nation — [[I Will Take You as My People - The Covenant Formula]]
 
 ## Related people
 

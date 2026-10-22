@@ -332,6 +332,9 @@ rule are the conditions the rest of Scripture is set in.
   — **the right God invoked for the right acts against the wrong man.** God has *seen* (2:25; 3:7) and
   will judge — but Egypt, *"with great judgments"* (6:6, *šəpāṭîm*). Compare Sarai's *"Yahweh judge
   between me and you"* (Genesis 16:5)
+- [[I Am Yahweh]] — Exodus 6:6; ***šəpāṭîm gədōlîm***, ***"great judgments"*** — **the officers
+  asked Yahweh to judge Moses (5:21); Yahweh promises to judge Egypt.** *Šəpāṭîm* occurs three times
+  in Exodus: 6:6, 7:4, and 12:12, *"Against all the gods of Egypt I will execute judgments"*
 
 ## Related themes
 

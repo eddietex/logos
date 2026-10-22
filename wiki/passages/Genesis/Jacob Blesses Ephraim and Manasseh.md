@@ -84,8 +84,9 @@ coinage — *"he called the name of that place Bethel, but the name of the city 
 name**, exactly as the narrator did at 35:6 (*"Jacob came to Luz (that is, Bethel)"*). See [[Bethel]]
 and [[Names and Naming]].
 
-***El Shaddai.*** **The fourth of five occurrences in Genesis** (17:1; 28:3; 35:11; 48:3; 49:25),
-**and the third that Jacob is personally attached to.** See
+***El Shaddai.*** **The fifth of six occurrences in Genesis** (17:1; 28:3; 35:11; 43:14; 48:3; 49:25),
+**and the fourth that Jacob is personally attached to.** (Corrected 2026-10-22: the earlier count of
+five omitted 43:14, Jacob's own prayer. WLC lemma search.) See
 [[God Almighty - El Shaddai in Genesis and Exodus]] and [[The Names of God]].
 
 ### The adoption

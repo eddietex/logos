@@ -187,6 +187,9 @@ the others.
   eloquent*, *send someone else*. **Each is answered with what God will be or do, never with what Moses
   is**, and the fifth with anger that does not withdraw the call. The pattern recurs with Gideon, Saul,
   Isaiah, and Jeremiah. See [[Who Am I - The Objections of the Called]]
+- [[I Am Yahweh]] — Exodus 6:7, 10–13; ***"I will take you to me for a people"*** — **the election
+  of a nation in a sentence**, with *lāqaḥ*, the verb of taking a wife. Moses' call is repeated
+  without a sign, and Aaron is joined to it in the command — [[Two Commissions - Exodus 3 and Exodus 6]]
 
 ## Related themes
 

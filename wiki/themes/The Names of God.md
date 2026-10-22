@@ -231,6 +231,12 @@ everlasting possession, by treaty with its current occupant.
   by his people, *"The God of the Hebrews"* — dropping the *Yahweh* that opened the script at 3:18 —
   and Moses, complaining, calls him *ʾădōnāy*, *Lord* (5:22). See
   [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
+- [[I Am Yahweh]] — Exodus 6:2–8; ***ʾănî YHWH***, ***"I am Yahweh"***, **four times in seven verses,
+  framing the speech.** *"I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my
+  name Yahweh I was not known to them"* (6:3). The verse's tension with Genesis 15:7 and 28:13, where
+  God says *"I am Yahweh"* to Abram and Jacob, is recorded rather than resolved, with three readings:
+  experiential, source-critical, and interrogative. *ʾĒl Šadday*'s only occurrence in Exodus —
+  [[God Almighty - El Shaddai in Genesis and Exodus]], [[Calling on the Name of Yahweh]]
 
 ## Related themes
 

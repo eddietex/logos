@@ -200,6 +200,10 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   form of a Hebrew oath: *"if I have done it"* with the curse unspoken means *"I have not."* **The
   second of Job's two oaths, and the one that ends his part in the dialogue**: he signs it (*"here is my
   signature"*, 31:35) and demands the charge in writing.
+- [[I Am Yahweh]] — Exodus 6:8; ***nāśāʾtî ʾet-yādî***, ***"I swore"***, literally *"I lifted my
+  hand"* — **God's own oath gesture, and the first *nāśāʾ yād* oath in the books the wiki has
+  reached.** At Genesis 14:22 Abram lifted his hand to Yahweh (*hărîmōtî*, a different verb); here
+  God lifts his
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

@@ -81,8 +81,14 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   Babel's word (5:12). **The Israelite foremen are beaten, cry to Pharaoh as *"your servants"*, and
   curse Moses — *"May Yahweh look at you, and judge"* (5:21) — and Moses accuses God: *"Why is it that
   you have sent me? … you have not rescued your people at all"*.** God answers without rebuke: *"Now you
-  shall see"*, *"by a strong hand"* (6:1). See [[Bricks Without Straw]]. Then the name *Yahweh*
-  reaffirmed (6:2–8), the genealogy of Moses and Aaron, and the staff that becomes a serpent.
+  shall see"*, *"by a strong hand"* (6:1). See [[Bricks Without Straw]]. **Then God answers the
+  complaint with his name**: *"I am Yahweh"*, four times, framing a look back at the patriarchs, to
+  whom he appeared *"as God Almighty"* but was *"not known"* by the name (6:3), and **seven promises**:
+  *bring out*, *rescue* (the verb Moses said he had not kept), *redeem*, *take you to me for a
+  people*, *be to you a God*, *bring in*, *give*. **Israel does not listen, *"for anguish of
+  spirit"*** (6:9); Moses calls himself *"of uncircumcised lips"*; and God, without answering,
+  commands Moses and Aaron together (6:13). See [[I Am Yahweh]]. Then the genealogy of Moses and
+  Aaron, and the staff that becomes a serpent.
 - **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
@@ -121,7 +127,7 @@ for unit.
 ### The first confrontation (5–7:13)
 
 - [x] [[Bricks Without Straw]] — Exodus 5:1–6:1
-- [ ] I Am Yahweh — Exodus 6:2–13
+- [x] [[I Am Yahweh]] — Exodus 6:2–13
 - [ ] The Heads of the Fathers' Houses — Exodus 6:14–27
 - [ ] Aaron's Staff Before Pharaoh — Exodus 6:28–7:13
 
@@ -220,6 +226,8 @@ for unit.
 - [[Mourning and Lament]]
 - [[Suffering]]
 - [[Pride and Self-Exaltation]]
+- [[Oaths and Vows]]
+- [[Judgment]]
 
 ## Key people
 
@@ -247,3 +255,4 @@ for unit.
 - [[Goshen]]
 - [[Midian]] — where Moses flees
 - [[Horeb]] — *"God's mountain"*, where the bush burns
+- [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)

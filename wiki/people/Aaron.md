@@ -51,6 +51,12 @@ them both (5:20–21). **Then it is Moses alone who returns to Yahweh** (5:22). 
 4:16 speaks with Moses here rather than for him, and the text does not say which of them said what.
 See [[Bricks Without Straw]].
 
+**At 6:13 Yahweh speaks to him and to Moses together for the first time.** *"Yahweh spoke to Moses and
+to Aaron, and gave them a command"* (*ʾel-mōšeh wəʾel-ʾahărōn*). God had spoken to Aaron once before,
+alone, to send him to meet Moses (4:27). Here the command is given to the two of them as a pair,
+directly after Moses' objection that he has *"uncircumcised lips"* (6:12). The command is not
+explained, and it does not answer the objection; it adds a second person to it. See [[I Am Yahweh]].
+
 ### What is ahead
 
 The rod that becomes a *tannîn* (7); the genealogy that names his parents, his wife Elisheba,
@@ -68,6 +74,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   4:29–31
 - Goes in to Pharaoh with Moses; cursed with him by the Israelite officers — Exodus 5:1–21,
   [[Bricks Without Straw]]
+- Commanded by Yahweh together with Moses for the first time, to bring Israel out — Exodus 6:13,
+  [[I Am Yahweh]]
 
 ## Appears in
 
@@ -77,6 +85,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   and kisses him; speaks all the words and does the signs before the people, and they believe
 - [[Bricks Without Straw]] — Exodus 5:1–21; **present, and unassigned.** Speaks *with* Moses before
   Pharaoh — every verb is plural — and is cursed with him; absent from the complaint to God
+- [[I Am Yahweh]] — Exodus 6:13; **addressed for the first time with Moses.** Named in the command,
+  given after Moses' *"uncircumcised lips"*, to both the people and Pharaoh
 
 ## Related people
 
