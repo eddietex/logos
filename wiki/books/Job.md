@@ -101,6 +101,13 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   made into a definition.** The hymn calls wise the man the friends call guilty, and its rain and
   lightning (28:26) are the whirlwind's (38:25), in the same Hebrew.
 - **29–31 Job's final defense** — remembrance, present misery, and an oath of innocence.
+  Chapter 29 is the remembrance, and the only speech of Job's with no complaint and no addressee:
+  *"Oh that I were as in the months of old, as in the days when God watched over me"* (29:2). God's
+  lamp on his head and his children around him; the princes silent at the gate; and at the centre
+  the reason — *"I put on righteousness, and it clothed me"* (29:14), eyes to the blind, a father to
+  the needy, the widow singing — **Eliphaz's charge sheet of 22:6–9 answered item by item** before
+  chapter 31 swears to it. It ends with Job *"as one who comforts the mourners"* (29:25), the
+  friends' own verb.
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
@@ -158,7 +165,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Job's final defense (29–31)
 
-- [ ] The Months of Old — Job 29:1–25
+- [x] [[The Months of Old]] — Job 29:1–25
 - [ ] Now They Mock Me — Job 30:1–31
 - [ ] Job's Oath of Innocence — Job 31:1–40
 

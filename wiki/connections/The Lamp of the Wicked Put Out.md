@@ -20,7 +20,7 @@ tags: [connection]
   calamity comes on them, that God distributes sorrows in his anger?"* —
   [[Why Do the Wicked Live]]
 - **Job 29:3** — Job on his own past: *"when his lamp shone on my head, and by his light I walked
-  through darkness."* *(not yet ingested)*
+  through darkness."* — [[The Months of Old]]
 - **2 Samuel 21:17** — David's men swear he will not go out to battle again, *"that you don't quench
   the lamp of Israel."*
 - **1 Kings 11:36; 15:4; 2 Kings 8:19** — *"that David my servant may have a lamp always before me
@@ -63,7 +63,11 @@ a claim about how the world generally goes. See [[The Prosperity of the Wicked]]
 God's *"lamp shone on my head"* — the same lamp, hanging over the same head as 18:6's *"his lamp
 above him"*, but the light is God's and it is a gift. Bildad's figure and Job's are the same
 picture. The difference is that Bildad reads the darkness as a sentence and Job reads it as a
-loss.
+loss. Chapter 29 completes the reversal of Bildad's portrait line by line: the lamp on the head
+(29:3 against 18:6), the root by the water and the dew on the branch (29:19 against 18:16's roots
+dried beneath and branch cut off), and a seat in the street (29:7) where the wicked man has *"no name
+in the street"* (18:17). And it ends with *"the light of my face"* (29:24) — the shining face of the
+priestly blessing (Numbers 6:25), worn by a man.
 
 ## Significance
 
@@ -88,7 +92,7 @@ deserve it but because it was promised. Revelation 18:23 closes the figure by pu
 of a city rather than a man.
 
 The wiki's related pages for this thread are [[Why Do the Wicked Live]], where the proverb is
-put to a count; [[Bildad's Second Speech]], where the proverb is
+put to a count; [[The Months of Old]], where the lamp is remembered as God's; [[Bildad's Second Speech]], where the proverb is
 turned into a verdict; [[Zophar's Second Speech]], which performs the same operation two chapters
 later with different imagery; [[The Prosperity of the Wicked]], for Job's empirical answer and the
 psalms that work the same problem; and the themes [[Retribution]], [[Remembrance]] (the

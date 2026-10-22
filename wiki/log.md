@@ -10123,3 +10123,64 @@ Job of 29–31 is recorded on the passage page as a question about the speaker.
 ### Link check
 
 `scripts/link-check.sh` exits 0. Expected baseline **64** not-yet-started book pages, unchanged.
+
+## [2026-10-21] ingest | Job 29.1-25 — The Months of Old
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 29:1–25. **Boundary and
+title unchanged** from the plan. No collision with any other book. **Job is at 23 / 32.** No discussion
+step; it is written into the passage page.
+
+### The passage page
+
+[[The Months of Old]], built around four findings:
+
+**1. The only speech of Job's with no complaint and no addressee.** A wish (*mî-yittənēnî*, 29:2, his
+formula at 6:8; 14:13; 19:23; 23:3) holds a memory in five movements: God with him (2–6), honour at the
+gate (7–10), the deeds that explain it (11–17), what he expected (18–20), the counsellor (21–25). God
+is named only in 29:2–5, in the same verse as the children (29:5) — their only living appearance in the
+poetry.
+
+**2. Eliphaz's 22:6–9 answered item by item**, before chapter 31 swears to it, and Eliphaz's own 4:3–4
+agreeing; 29:4's *sôd ʾĕlôah* answers his 15:8. *"I put on righteousness, and it clothed me"* (29:14) —
+*wayyilbāšēnî*, the garment the subject. *"The cause of him who I didn't know, I searched out"* (29:16):
+*rîb*, Job's own word for his case, and *ḥāqar*, chapter 28's verb.
+
+**3. Bildad's portrait reversed line by line** — lamp (29:3 / 18:6), root and branch (29:19 / 18:16), a
+seat in the street (29:7 / 18:17) — and 19:9's stripped glory and crown (29:14, 20).
+
+**4. "As one who comforts the mourners" (29:25)** — *nḥm*, the friends' verb of 2:11 and 16:2.
+
+**Judgment calls.** The received order of 29:21–25 kept (the proposed move after 29:10 noted). 29:18's
+*ḥôl* read as *sand* with the WEB, the *phoenix* reading recorded. **Tension noted, not a page
+contradiction:** 3:25's dread against 29:18's remembered confidence. **[[Uz]] qualified, not
+contradicted:** its note that the Septuagint *"imports a city the Hebrew never mentions"* at 2:8 stays
+true of that verse, but the Hebrew book does have a city, at 29:7 — recorded on the page. No place page
+created for the unnamed city.
+
+### Connection pages
+
+Created (1): [[I Put On Righteousness - Job 29.14 and the Garments of Justice]]. Revised (5):
+[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]],
+[[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]],
+[[The Lamp of the Wicked Put Out]], [[There Is Hope for a Tree - The Stump That Sprouts]] (29:x
+*not yet ingested* markers replaced by links, and the chapter's findings added), and
+[[Comforters Who Do Not Comfort]] (29:25). Every non-Job quotation was checked against the WEB from
+bible-api.com before writing (Psalm 1:1, 3; 68:5; 109:18; 132:9, 16; Isaiah 11:5; 35:5–6; 59:16–17;
+61:10; 62:3; Jeremiah 17:8; Hosea 14:5 and Deuteronomy 33:24 (checked, not used); Zechariah 3:4–5;
+Judges 6:34; Numbers 6:24–25; Leviticus 19:14, 32; Deuteronomy 27:18; Ruth 4:1–2; Proverbs 31:23;
+Matthew 11:5; Ephesians 6:14; Colossians 3:12; Revelation 19:8). Job texts checked against
+`raw/bible/`.
+
+### Pages created or revised
+
+Created (2): the passage page and the connection. People (4): [[Job (person)]] (timeline split into 29
+and 30–31; appears-in), [[God]] (Job section and appears-in), [[Job's Children]], [[Eliphaz the Temanite]].
+Places (1): [[Uz]]. Themes (12): [[Remembrance]], [[Righteousness]], [[Compassion and Mercy]],
+[[Nakedness and Covering]], [[Light and Darkness]], [[Walking with God]], [[Blessing]],
+[[Language and Speech]], [[Kingship and Empire]], [[Mourning and Lament]], [[Hope]],
+[[City and Civilization]]. Connections revised (5). Book page: box checked, structure note for 29
+added. Indexes: books (23 / 32), people (4 rows), places (1 row), themes (12 rows), connections (+1 row),
+`wiki/index.md` (82 passages, 250 connections).
+
+No contradiction between wiki pages found.

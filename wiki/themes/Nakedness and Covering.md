@@ -123,6 +123,10 @@ nakedness may not be revealed"* (Revelation 3:18).
   clothing, and have no covering in the cold … So that they go around naked without clothing."* The
   pledged cloak of Exodus 22:26–27, not returned at nightfall, and the poor who *"embrace the rock for
   lack of a shelter"* — the nakedness Eliphaz falsely laid at Job's door (22:6).
+- [[The Months of Old]] — Job 29:14; ***"I put on righteousness, and it clothed me"***: the man
+  accused of stripping the naked (22:6) remembers himself clothed in justice, robe and turban, the
+  dress that 19:9's *"He has stripped me of my glory, and taken the crown from my head"* took off.
+  See [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 
 ## Related themes
 

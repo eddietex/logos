@@ -344,6 +344,10 @@ costly.
   Exodus 23:26, *"No one will miscarry or be barren in your land"*, and the fertility of Deuteronomy
   28:4 — enjoyed by men who tell God *"Depart from us"* (21:14). Blessing, on Job's evidence, is not a
   readable sign of standing with God, which is the inference the friends' whole case rests on.
+- [[The Months of Old]] — Job 29:2, 11, 13; God's *keeping* (*šāmar*, the verb of Numbers 6:24), the
+  ear that *"blessed me"* (*ʾšr*), and ***"the blessing of him who was ready to perish came on
+  me"*** — blessing flowing up from the poor to their protector, and *ʾōbēd*, *perishing*, the verb of
+  Eliphaz's *"who ever perished, being innocent?"* (4:7).
 
 ## Related themes
 

@@ -173,6 +173,10 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   word**, where the next line raises the needy; Job's hymn has no next line. Hannah (1 Samuel 2:7–8),
   Daniel 2:21 and Mary (Luke 1:52) belong to the same tradition. See
   [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]]
+- [[The Months of Old]] — Job 29:25; *"I chose out their way, and sat as chief. I lived as a king in
+  the army"*. Not a king, but a judge at the gate described in royal terms, robe and turban (29:14) —
+  and doing the royal duty the ancient Near East assigned to kings: delivering the poor, the widow and
+  the fatherless (29:12–17). See [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 
 ## Related themes
 

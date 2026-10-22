@@ -119,6 +119,11 @@ rather than achieved.
   Genesis followed all the way into a city leaves the last surviving one out of fear and lives in a
   cave, and what he founds there is not a city but two nations. Genesis's cities run Enoch, Babel,
   Sodom; its one urban biography ends underground
+- [[The Months of Old]] — Job 29:7–10, 21–25; **the gate and the square as the seat of justice and
+  honour**, the only city in the Hebrew book of Job. The elders rise, the princes fall silent, and the
+  man who sits there is honoured for what he does for the powerless — the city at its best, seen
+  from the judge's seat. See [[Uz]].
+
 ## Related themes
 
 - [[Work]] — the trades of 4:20–22 as the first specialized and inherited vocations

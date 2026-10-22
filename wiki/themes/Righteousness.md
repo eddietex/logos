@@ -227,6 +227,11 @@ about.
   noun in consecutive verses: Job refuses to declare the friends in the right, and refuses to let go of
   his own. The answer to Bildad's *"How then can man be just (yiṣdaq) with God?"* (25:4) is not an
   argument but an oath
+- [[The Months of Old]] — Job 29:14; ***"I put on righteousness, and it clothed me. My justice was as a
+  robe and a diadem."*** *Ṣedeq* and *mišpāṭ* as Job's insignia at the gate, and the garment the
+  subject of its own verb — *it clothed itself with me*. The content is the canonical list: the poor,
+  the fatherless, the widow, the blind, the lame, the needy, the stranger's lawsuit (29:12–17). See
+  [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 
 ## Related themes
 

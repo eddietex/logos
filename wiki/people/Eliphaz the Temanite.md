@@ -184,6 +184,12 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
 - [[I Will Not Put Away My Integrity]] — Job 26–27, silent; *"Whose spirit came out of you?"*
   (26:4) asks Bildad where his words came from, and the answer is Eliphaz's night spirit (4:15–19),
   passed on second-hand.
+- [[The Months of Old]] — Job 29, silent and **answered on every count.** His charges of 22:6–9 — the
+  naked stripped, bread withheld, widows sent away empty, the fatherless broken — meet their opposites
+  in 29:12–17, and his own first testimony (*"you have strengthened the weak hands"*, 4:3–4) agrees with
+  Job against him. His sneer *"Have you heard the secret counsel of God?"* (15:8) is answered by *sôd
+  ʾĕlôah* in Job's tent (29:4); his promised grave *"in a full age"* (5:26) is what Job expected
+  (29:18); and his errand to *comfort* (2:11) is what Job used to do for mourners (29:25).
 - [[Why Do the Wicked Live]] — Job 21, answering the second cycle's three portraits, his first among
   them; **the speech he will quote against Job at 22:17–18**, taking the wicked's *"Depart from us"*
   and Job's own disclaimer *"The counsel of the wicked is far from me"* word for word. See

@@ -148,6 +148,10 @@ raw text.)*
   *"the stones of obscurity and of thick darkness"* — in the book whose hero began by asking for his
   birthday to be given back to the dark (3:4–6). The light reaches every ore and not wisdom, which is
   *"hidden from the eyes of all living"* (28:21)
+- [[The Months of Old]] — Job 29:3, 24; ***"when his lamp shone on my head, and by his light I walked
+  through darkness"*** — darkness was there, and God's light carried him through it, against 19:8's
+  *"set darkness in my paths"*. And *"the light of my face"* (29:24): the shining face of Numbers 6:25,
+  on a man. See [[The Lamp of the Wicked Put Out]].
 
 ## Related themes
 

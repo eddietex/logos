@@ -59,7 +59,10 @@ human being.
 **Job's own speeches turn the image twice more.** At 14:13–15 he imagines, as a wish, the human
 version: hidden in Sheol, then remembered, then called. At 19:10 he says God has *"plucked up"* his
 hope *like a tree* — not felled it, which would leave a stump, but uprooted it. And at 29:19 he
-remembers being a tree with *"my root… spread out to the waters"*. The epilogue's restoration
+remembers being a tree with *"my root… spread out to the waters"* and *"The dew lies all night on
+my branch"* ([[The Months of Old]]) — Psalm 1:3's and Jeremiah 17:8's tree by the water, and the exact
+reverse of Bildad's wicked man, whose *"roots shall be dried up beneath"* and whose branch is *"cut
+off"* (18:16). The memory is of a tree never felled at all. The epilogue's restoration
 (42:10–17) is the stump sprouting: a second family and a doubled estate, out of a man cut to the
 ground.
 
@@ -71,4 +74,4 @@ ground.
   between them, and the Servant's *tender plant* by another.
 - With [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]], it completes the
   dialogue's chain of plant images: the friends' plants die, Job's stump could live.
-- Related pages: [[Hope]], [[Life and Death]], [[Job (person)]].
+- Related pages: [[Hope]], [[Life and Death]], [[Job (person)]], [[The Months of Old]].

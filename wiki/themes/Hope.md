@@ -174,6 +174,10 @@ is close because you cannot bear to sit in the dark with him.
   he is cut off?"*** Hope defined by its object: *"Will God hear his cry … Will he delight himself in
   the Almighty, and call on God at all times?"* The test Job has been passing all through the dialogue,
   calling on God continually, and the one the friends have never sat — none of them addresses God once
+- [[The Months of Old]] — Job 29:18–20; ***"I shall die in my own house … My root is spread out to
+  the waters. The dew lies all night on my branch"***: the hope of a full life, Eliphaz's 5:26 and the
+  tree of Psalm 1:3, quoted as something Job *said* and no longer can. See
+  [[There Is Hope for a Tree - The Stump That Sprouts]].
 
 ## Related themes
 

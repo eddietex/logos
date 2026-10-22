@@ -132,6 +132,13 @@ name, and gives the name to a father who cannot see it work.**
   rain, the harvesters without bread and the winepress-treaders without drink — the exact list
   Eliphaz charged Job with neglecting (22:6–9), given real oppressors. See
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+- [[The Months of Old]] — Job 29:12–17; **the classes of mercy described from the giver's side**,
+  as chapter 24 described them from the victim's: *"I delivered the poor who cried, and the fatherless
+  also"*, *"I caused the widow's heart to sing for joy"*, *"I was eyes to the blind, and feet to the
+  lame. I was a father to the needy"* — Psalm 68:5's title for God, practised by a man. It adds
+  **force** to the list (*"I broke the jaws of the unrighteous"*, 29:17) and ends with Job *"as one who
+  comforts the mourners"* (29:25). See
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 
 ## Related themes
 

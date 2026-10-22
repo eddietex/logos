@@ -230,6 +230,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   be hidden in Sheol until the wrath is over and then recalled. And its opposite: *"His sons come to
   honor, and he doesn't know it"* (14:21), the dead man who cannot remember the living. See
   [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
+- [[The Months of Old]] — Job 29:1–25; ***"Oh that I were as in the months of old"*** (29:2). **The
+  whole chapter is a memory held up as evidence**: God's lamp and friendship, the children around
+  him, the gate silent, the widow singing. Remembrance here is not nostalgia but testimony — the
+  "before" that chapter 30's *"But now"* (30:1) is measured against, and the record chapter 31 swears
+  to. Against Bildad's wicked man, who has *"no name in the street"* (18:17), Job remembers his seat
+  there (29:7).
 
 ## Related themes
 

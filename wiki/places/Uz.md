@@ -82,6 +82,12 @@ onomastic pool is exactly what one expects of two texts about the same region.
 - [[Let the Day Perish]] — Job 3:1–26; the setting unchanged and unnamed, the ash-heap of 2:8 with
   three men still sitting on the ground beside it. **The chapter's only geography is elsewhere**: the
   calendar Job wants his birthday struck from, and the country of the dead in 3:13–19. See [[Sheol]]
+- [[The Months of Old]] — Job 29:7, ***"when I went out to the city gate, when I prepared my seat in
+  the street"***: **the first and only city in the Hebrew book of Job.** Unnamed, and remembered rather
+  than present — a gate with elders, princes and nobles, and a square (*rəḥôb*) where Job had his seat
+  as a judge. **This qualifies the note on [[The Second Test]] above**: the Septuagint's *"outside the
+  city"* at 2:8 imports a city into that verse, but not into the book; the Hebrew has one, at 29:7
+  (*šaʿar ʿălê-qāret*), and Job's life in Uz was a town life as well as a herdsman's.
 
 ## Related places
 
@@ -108,6 +114,8 @@ onomastic pool is exactly what one expects of two texts about the same region.
 - **Job 2:11–13** — [[Seven Days of Silence]]. The three friends arrive from three other countries,
   fail to recognise Job *"from a distance"*, and sit on the ground with him for seven days and seven
   nights. **The one implied fact about the country is that it can be reached and left.**
+- **Job 29:7–10, 21–25** — remembered: the city gate and its square, where Job sat among elders,
+  princes and nobles as judge and counsellor — [[The Months of Old]].
 - **Job 3:1–42:6** — the whole of the dialogue, conducted in one location that is never once
   described.
 - **Job 42:10–17** — Job's restoration, his brothers and sisters returning to eat with him, and his

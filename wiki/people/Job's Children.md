@@ -117,6 +117,10 @@ The restoration in Job 42 is a genuine ending, and it is not an answer to the de
   available statement of what the chapter is and is not. **A lament for the dead would have named
   them.** The nearest the chapter comes is 3:16's *"infants who never saw light"*, and those are
   hypothetical infants standing in for himself
+- [[The Months of Old]] — Job 29:5, *"when the Almighty was yet with me, and my children were around
+  me"*: **the only time in the poetry their father remembers them alive**, and in one line with God,
+  both in the past tense. The verse is the whole of their place in the chapter, and the honours that
+  follow (29:7–25) are a public life the household made possible and did not survive.
 - [[Why Do the Wicked Live]] — Job 21:8–12, 19–21; **unnamed, and the evidence of the whole first
   movement.** The wicked keep their children *"in their sight"*, send them out *"like a flock"*, and
   watch them dance — everything Job's household had at 1:4 and lost at 1:19. Then the friends'

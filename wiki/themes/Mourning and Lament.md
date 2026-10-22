@@ -127,6 +127,9 @@ regulating it.
   rebellious. His hand is heavy in spite of my groaning"* — and, in chapter 24, the lament given to
   other people: *"From out of the populous city, men groan. The soul of the wounded cries out, yet God
   doesn't regard the folly."*
+- [[The Months of Old]] — Job 29:25; ***"as one who comforts the mourners"*** — *ʾăbēlîm yənaḥēm*, the
+  verb of the friends' errand (2:11). Job remembers being the comforter; in the next chapter his harp
+  *"has turned to mourning"* (30:31). See [[Comforters Who Do Not Comfort]].
 
 ## Related themes
 

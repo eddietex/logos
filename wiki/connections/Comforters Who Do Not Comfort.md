@@ -15,6 +15,9 @@ tags: [connection]
   can you comfort me with nonsense, because in your answers there remains only falsehood?"*: a speech
   bracketed by the comforters' own root, *nḥm*, with listening named as the only consolation left
   and their answers named *hebel* and *maʿal*, breath and breach of faith — [[Why Do the Wicked Live]]
+- **Job 29:25** — *"I chose out their way, and sat as chief. I lived as a king in the army, as one who
+  comforts the mourners"* — *kaʾăšer ʾăbēlîm yənaḥēm*: Job remembering himself as the comforter —
+  [[The Months of Old]]
 - **Job 42:11** — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
   brothers have dealt deceitfully as a brook"* — [[The Arrows of the Almighty]]
@@ -80,6 +83,14 @@ the rite, and destroyed by their own explanation.** Nothing is missing from thei
 the ability to leave the thing unaccounted for. The book's proposition is that **comfort and
 explanation are different acts, and that attempting the second can undo the first** — which is
 exactly what 42:11 demonstrates by giving the successful comforters no dialogue.
+
+**And the book has already shown a comforter who succeeded, and it is Job.** The last line of his
+memory of the old days is *"as one who comforts the mourners"* (29:25), *ʾăbēlîm yənaḥēm* — the same
+*nḥm*, and the mourners of the rite of 2:12–13. **The man the friends came to comfort had been, by his
+own account, the town's comforter**, and the chapter says what that consisted of: delivering the poor,
+making the widow sing, sitting with the mourner as a man whose counsel others *"waited for … as for the
+rain"* (29:23). In the next chapter the position is reversed — *"my harp has turned to mourning"*
+(30:31) — and there is no one to do for him what he did.
 
 **Isaiah 40:1 and 2 Corinthians 1:3–4 are here to mark the other end of the word.** *Nāḥam* is one of
 the Bible's large theological verbs: it is what God does to his people at the head of Isaiah 40, it is

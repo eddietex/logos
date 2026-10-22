@@ -172,7 +172,13 @@ speeches; each becomes a linked passage page as it is ingested.
   no *you*, and no complaint: a hymn on the miner who finds everything in the earth and the wisdom no
   one can find or buy, ending *"the fear of the Lord, that is wisdom. To depart from evil is
   understanding"* (28:28) — **the narrator's description of him at 1:1, turned into a definition.**
-- **Job 29–31** — Job's closing defence and oath of innocence, in which he calls down curses on
+- **Job 29:1–25** — [[The Months of Old]]. The opening of his closing defence, and **the book's only
+  portrait of his former life in his own words**: God's lamp on his head and *sôd*, friendship, in his
+  tent; his children around him; the gate falling silent when he came; and the reason — the poor
+  delivered, the widow singing, *"I put on righteousness, and it clothed me"* (29:14), eyes to the
+  blind, a father to the needy, the stranger's lawsuit searched out. Ends *"as one who comforts the
+  mourners"* (29:25).
+- **Job 30–31** — the present misery, and the oath of innocence in which he calls down curses on
   himself if the charges are true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
@@ -329,6 +335,17 @@ speeches; each becomes a linked passage page as it is ingested.
   oddly between the oath of chapter 27 and the renewed complaint of 29–31, and the readings of who
   speaks it (Job; the narrator; an independent poem) are recorded on the passage page. See
   [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
+- [[The Months of Old]] — Job 29:1–25; **the "before" entered into evidence.** A wish (*"Oh that I were
+  as in the months of old"*, 29:2) holds the whole chapter, and it has no complaint and no addressee.
+  God is named only in 29:2–5 and only in the past, in the same verse as his children (29:5). At the
+  centre, the deeds that explain the honour: **every count of Eliphaz's 22:6–9 answered by its
+  opposite**, as Eliphaz's own 4:3–4 had already done; *"I put on righteousness, and it clothed me"*
+  (29:14), the garment wearing the man; and *"The cause of him who I didn't know, I searched out"*
+  (29:16) — *rîb*, his own word for his case, and *ḥāqar*, the search of chapter 28. He expected a
+  rooted tree and a death in his nest (29:18–20), the reverse of Bildad's 18:16, and he was the
+  comforter of mourners (29:25) the friends failed to be. **Tension noted, not a contradiction between
+  pages:** 3:25's dread in prosperity against 29:18's remembered confidence. See
+  [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 
 ## Related people
 

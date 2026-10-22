@@ -1238,6 +1238,12 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   story but to *ʾādām*, mankind**: *"the fear of the Lord, that is
   wisdom"* (28:28), under the title *ʾădōnāy*, found nowhere else in the book. The whirlwind speeches
   will ask Job about the same rain and lightning in the same Hebrew (38:25).
+- **The God of [[The Months of Old]]** is remembered, not addressed. *"Oh that I were as in the months
+  of old, as in the days when God watched over me"* (29:2) — *šāmar*, the *keep* of the priestly
+  blessing (Numbers 6:24) — his lamp on Job's head, his *sôd*, *friendship*, in Job's tent, and the
+  Almighty *"yet with me"* in the same verse as the children (29:3–5). **Then he is not mentioned
+  again in the chapter.** What Job grieves first is God's company; the honour at the gate and the
+  deeds that earned it (29:7–25) are told without him, as the facts of a defence.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1601,6 +1607,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Where Shall Wisdom Be Found]] — the one who *"understands its way"* (28:23), who sees under the
   whole sky (28:24), who saw, declared, established and searched out wisdom at the founding of the world
   (28:25–27), and who tells mankind that the fear of the Lord is wisdom (28:28)
+- [[The Months of Old]] — remembered in the past tense only: the one who *"watched over"* Job, whose
+  lamp shone on his head and whose friendship was in his tent (29:2–5); unmentioned after 29:5
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

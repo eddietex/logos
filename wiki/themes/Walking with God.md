@@ -105,6 +105,10 @@ with God goes with not being destroyed.
   kept his way, and not turned away"* — the walk of Enoch and Noah told by the walker himself, in the
   chapter where he cannot find the one he walks after: God's *steps* are kept, and God is not in any
   direction (23:8–9). *"He knows the way that I take"* (23:10).
+- [[The Months of Old]] — Job 29:2–5; *"by his light I walked through darkness … when the friendship of
+  God was in my tent"*. *Sôd ʾĕlôah*, God's intimate counsel, as a household presence — **the book's
+  only description of Job's piety from inside**, and given in the past tense.
+
 ## Related themes
 
 - [[Righteousness]] — the word 6:9 pairs it with, and the one the rest of Scripture develops instead

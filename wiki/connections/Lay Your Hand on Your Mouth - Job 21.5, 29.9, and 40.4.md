@@ -15,7 +15,7 @@ tags: [connection]
 - **Job 21:5** — *"Look at me, and be astonished. Lay your hand on your mouth."* Job to the friends —
   [[Why Do the Wicked Live]]
 - **Job 29:9** — *"The princes refrained from talking, and laid their hand on their mouth."* Job
-  remembering how the powerful fell silent before him *(not yet ingested)*
+  remembering how the powerful fell silent before him — [[The Months of Old]]
 - **Job 40:4** — *"Behold, I am of small account. What will I answer you? I lay my hand on my
   mouth."* Job before Yahweh *(not yet ingested)*
 - **Judges 18:19** — the Danites to the Levite of Micah's house: *"Hold your peace, put your hand on
@@ -40,7 +40,10 @@ me, and be astonished. Lay your hand on your mouth."* What they should be astoni
 himself — a blameless man destroyed — and the right response to that sight is the one they managed
 for seven days in 2:13 and abandoned in chapter 4. At 29:9 Job remembers receiving it: in the days
 of his greatness, *"the princes refrained from talking, and laid their hand on their mouth"* when he
-came to the city gate. And at 40:4, when Yahweh has spoken out of the whirlwind, Job makes it
+came to the city gate. The chapter adds the rest of the scene: the nobles' tongues stuck to the roofs
+of their mouths (29:10), and men who *"kept silence for my counsel. After my words they didn't speak
+again"* (29:21–22) — **the order of speech the dialogue has overturned**, with three men who will not
+stop talking. And at 40:4, when Yahweh has spoken out of the whirlwind, Job makes it
 himself: *"I lay my hand on my mouth."*
 
 **So the gesture passes from what Job demands, to what Job was once given, to what Job gives.** He
@@ -67,6 +70,6 @@ Isaiah 52:15 carries the same silence to the servant: kings shutting their mouth
 whose disfigurement was beyond human likeness. The reader of Job hears 21:5 there — *Look at me, and
 be astonished.*
 
-Related pages: [[Why Do the Wicked Live]], [[Seven Days of Silence]],
+Related pages: [[Why Do the Wicked Live]], [[The Months of Old]], [[Seven Days of Silence]],
 [[Comforters Who Do Not Comfort]], [[Language and Speech]], [[The Fear of God]], and
 [[Job (person)]].

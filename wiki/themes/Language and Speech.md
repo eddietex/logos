@@ -232,6 +232,11 @@ noticing into doctrine.
   order before him, and fill my mouth with arguments"* — speech as a brief that cannot be filed; the
   words of God's mouth treasured *"more than my necessary food"*; and the dare, *"who will prove me a
   liar, and make my speech worth nothing?"*, which none of the friends takes up.
+- [[The Months of Old]] — Job 29:9–10, 21–23; **the gate's order of speech**: princes with a hand on
+  the mouth, nobles' tongues stuck to the palate, and men who *"kept silence for my counsel. After my
+  words they didn't speak again"*, waiting for Job's words *"as for the rain"*. The dialogue has
+  overturned it — three men who will not stop. See
+  [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
 
 ## Related themes
 

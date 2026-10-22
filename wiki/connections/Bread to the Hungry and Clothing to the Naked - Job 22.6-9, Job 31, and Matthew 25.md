@@ -22,9 +22,9 @@ tags: [connection]
   pledge … There are those who pluck the fatherless from the breast, and take a pledge of the poor,
   so that they go around naked without clothing. Being hungry, they carry the sheaves."* —
   [[Oh That I Knew Where I Might Find Him]]
-- **Job 29:12–17** *(not yet ingested)* — *"I delivered the poor who cried, and the fatherless also
+- **Job 29:12–17** — *"I delivered the poor who cried, and the fatherless also
   … I caused the widow's heart to sing for joy … I was eyes to the blind, and feet to the lame. I was
-  a father to the needy."*
+  a father to the needy."* — [[The Months of Old]]
 - **Job 31:16–22** *(not yet ingested)* — the oath: *"If I have withheld the poor from their desire,
   or have caused the eyes of the widow to fail, or have eaten my morsel alone, and the fatherless has
   not eaten of it … if I have seen any perish for want of clothing … then let my shoulder fall from
@@ -71,6 +71,12 @@ confess.
 2. **In chapter 29 he gives his own record**, positively: the poor delivered, the widow singing, a
    father to the needy, the jaws of the unrighteous broken. *"I put on righteousness, and it clothed
    me"* (29:14) — the man accused of stripping the naked describes himself as clothed in justice.
+   He adds two items the list does not usually carry — *"eyes to the blind, and feet to the lame"*
+   (29:15), and *"The cause of him who I didn't know, I searched out"* (29:16), a stranger's lawsuit
+   taken up — and one the friends' doctrine forgot: **force**, *"I broke the jaws of the
+   unrighteous, and plucked the prey out of his teeth"* (29:17). And he is not the only witness:
+   Eliphaz's own 4:3–4 says the same. See
+   [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 3. **In chapter 31 he swears to it**, under a self-imprecation that answers 22:9 in its own image:
    if he has lifted his hand against the fatherless, *"let my arm be broken from the bone"* (31:22).
    Eliphaz said the fatherless's arms were broken; Job offers his own.
