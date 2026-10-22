@@ -222,6 +222,10 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   his *šipʿat-mayim*, the *"floods of waters"* of 22:11, is God's *"abundance of waters"* at 38:34 (one
   Hebrew phrase, two WEB renderings). The question was right; it was asked to prove Job
   wicked, and God asks it without that conclusion. See [[The First Man and Wisdom Before the Hills]].
+- [[Behemoth and Leviathan]] — Job 41:11, not named. *"Is it any pleasure to the Almighty, that you are
+  righteous?"* (22:3) has its true form in God's mouth: *"Who has first given to me, that I should repay him?"*
+  God owes nothing — which Eliphaz used to prove Job's innocence could not move God, and God does not. See
+  [[Who Has First Given to Me - Job 41.11 in Romans 11.35]].
 
 ## Related people
 

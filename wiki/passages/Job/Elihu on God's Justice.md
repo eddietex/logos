@@ -391,8 +391,8 @@ the dead at 10:21–22, but [[Sheol]] is not in view here.
 - [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] — 34:21–22 and Psalm 139:12.
 - [[Elihu on God's Greatness]] — Job 36:1–37:24, Elihu's fourth speech; 36:12, *"die without knowledge"*.
 - [[Out of the Whirlwind]] — Job 38:2 — *"Who is this who darkens counsel by words without knowledge?"*
-- Job 40:8 — *"Will you condemn me, that you may be justified?"* Not yet ingested.
-- Job 41:11 — *"Who has first given to me, that I should repay him?"* Not yet ingested.
+- [[Behemoth and Leviathan]] — Job 40:8, *"Will you condemn me, that you may be justified?"*; and 41:11,
+  *"Who has first given to me, that I should repay him?"*
 - Job 42:3, 7 — *"Who is this who hides counsel without knowledge?"*; *"you have not spoken of me the
   thing that is right, as my servant Job has."* Not yet ingested.
 - Psalm 62:12; Proverbs 24:12; Romans 2:6 — God renders to every man according to his work.

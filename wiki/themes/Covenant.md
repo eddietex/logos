@@ -300,6 +300,10 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
 - **Genesis 50:24 — the land oath recited one last time**, *"which he swore to Abraham, to Isaac, and
   to Jacob"*, **the first appearance of the three-name formula with the oath attached** —
   [[The Deaths of Jacob and Joseph]]
+- [[Behemoth and Leviathan]] — Job 41:4; **the covenant an animal refuses.** *"Will he make a covenant (bərît)
+  with you, that you should take him for a servant forever?"* The only covenant proposed in the whirlwind
+  speeches is one Leviathan will not make with Job — the language of the slave who binds himself for life
+  (Exodus 21:6; Deuteronomy 15:17).
 
 ## Related themes
 

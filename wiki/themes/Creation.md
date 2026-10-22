@@ -156,6 +156,12 @@ Genesis 1 sets four load-bearing claims:
   (38:31–33). Every element of Genesis 1 — the deep, the gathered waters, the lights — is here, and the
   one thing Genesis 1 builds toward, the human being, is the one asked where he was. See
   [[The Whirlwind Answers Chapter 3]].
+- [[Behemoth and Leviathan]] — Job 40:15–41:34; **two creatures as the speeches' last word on creation.**
+  Behemoth, *bəhēmôt*, the plural of Genesis 1:24's *livestock*, *"which I made as well as you"* — made with
+  Job, on his day — and *"the chief of the ways of God"* (40:15, 19), Wisdom's title in Proverbs 8:22. Leviathan,
+  outside the dominion of Genesis 1:26, whose wake turns *təhôm*, the deep of Genesis 1:2, white (41:32). No
+  combat: the chaos-monster is a creature, admired. See
+  [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]].
 
 ## Related themes
 

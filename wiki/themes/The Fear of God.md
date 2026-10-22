@@ -229,6 +229,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   regard (lōʾ-yirʾeh, does not see) any who are wise of heart"* (37:24) — *fear* and *see* played against
   each other, and 28:28's *"the fear of the Lord, that is wisdom"* restated as a warning. The narrator
   had said Job feared God (1:1); God regards him in the next verse (38:1).
+- [[Behemoth and Leviathan]] — Job 41:9–11, 33; **fear argued from a creature to its maker.** *"None is so fierce
+  that he dare stir him up. Who then is he who can stand before me?"* (41:10). Leviathan himself is *"made
+  without fear"* (41:33) — the one creature with no fear in it, held up to teach the fear of God.
 
 ## Related themes
 

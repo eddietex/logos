@@ -18,7 +18,7 @@ tags: [connection]
 - **Job 38:8–11** — *"Who shut up the sea with doors, when it broke out of the womb … and said,
   'Here you may come, but no further. Here your proud waves shall be stayed'?"*
   — [[Out of the Whirlwind]]
-- **Job 40:15–41:34** — Behemoth and Leviathan
+- **Job 40:15–41:34** — Behemoth and Leviathan — [[Behemoth and Leviathan]]
 - **Psalm 74:13–14; 89:9–10** — *"You broke the heads of the sea monsters (tannînim) in the
   waters. You broke the heads of Leviathan in pieces"*; *"You rule the pride of the sea… You have
   broken Rahab in pieces"*
@@ -78,9 +78,23 @@ and then calls all of it *"the outskirts of his ways"* (26:14). See [[I Will Not
   See [[The Whirlwind Answers Chapter 3]].
 - **It shows how the Hebrew Bible uses the chaos imagery it inherited.** Job 7:12 takes it at face
   value and applies it to himself; Job 26:12–13 uses it of God's power; Job 38–41 revises it, so that
-  the sea is a baby and Leviathan a pet. The development inside one book is a compressed version of
+  the sea is a baby and Leviathan a pet *(corrected below: not a pet)*. The development inside one book is a compressed version of
   the Bible's whole handling of the motif.
 - **The thread ends where the sea does.** *"The sea is no more"* (Revelation 21:1) is the final
   removal of the power the guard was set on, in a book that has also used *"the sea"* for the
   origin of the beast (13:1). No guard is needed in the new creation because nothing is left that
   needs one.
+
+### Checked against Job 40:6–41:34, 2026-10-22
+
+When [[Behemoth and Leviathan]] was ingested, this page's claims about chapter 41 were checked against
+`raw/bible/Job.md`. *"I will not keep silence concerning his limbs, nor his mighty strength, nor his goodly
+frame"* (41:12) is verbatim, and the reading of chapter 41 as a creature God made and admires, not an enemy
+he is fighting, holds: there is no combat in Job 41. **One phrase does not hold:** *"Leviathan a pet"*. The
+text asks whether **Job** could make Leviathan a pet — *"Will you play with him as with a bird? Or will you
+bind him for your girls?"* (41:5) — and expects the answer no. God is never said to keep him as one. The
+nearest thing is Psalm 104:26, *"leviathan, whom you formed to play there"* (WEB, checked), where the Hebrew
+can also be read *to play with him*; that is the Psalm, not Job. The accurate summary of the development is:
+the sea is a newborn under a parent's bound, and Leviathan is a creature that no man can tame and God does not
+need to. The original wording is marked in place above. Also confirmed in this pass: Psalm 74:13–14, 89:9–10,
+Isaiah 27:1 and 51:9 against the WEB as quoted in the passage list.

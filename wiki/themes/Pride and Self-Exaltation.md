@@ -120,6 +120,10 @@ reading that the text supports, is located in what the building was *for*.
 - [[Out of the Whirlwind]] — Job 38:11, 15; 40:4; **the proud stopped and the high brought low.** *"Here
   your proud waves shall be stayed"* (38:11); *"The high arm is broken"* (38:15); and Job, who would have
   approached God *"as a prince"* (31:37), says *"Behold, I am of small account"* (40:4).
+- [[Behemoth and Leviathan]] — Job 40:11–12; 41:15, 34; **the king of the proud is God's creature.** Job is told
+  to *"look at everyone who is proud, and bring him low"* — twice (40:11–12) — and then shown a creature whose
+  scales are *"his pride"* (*gaʾăwâ*, the root of 40:11's *gēʾeh*) and who is *"king over all the sons of
+  pride"* (41:34). God governs pride without abolishing it; Job cannot even hook it.
 
 ## Related themes
 

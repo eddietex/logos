@@ -213,7 +213,7 @@ king over all the sons of pride"* (41:34).
 - [[Out of the Whirlwind]] — Job 38:25, 36–37 — *"the path for the thunderstorm"* (the same Hebrew as
   28:26) and *"Who has put wisdom in the inward parts?"*: the hymn's subjects as God's questions.
 - Job 41:34 — Leviathan, *"king over all the sons of pride"* — *bənê-šaḥaṣ*, the *"proud animals"* of
-  28:8, the phrase's only other occurrence. Not yet ingested.
+  28:8, the phrase's only other occurrence — [[Behemoth and Leviathan]].
 - Proverbs 8:22–31 — Wisdom present *"in the beginning of his work"*: 28:25–27's creation scene with
   wisdom personified.
 - Jeremiah 10:12 — *"He has established the world by his wisdom"*.

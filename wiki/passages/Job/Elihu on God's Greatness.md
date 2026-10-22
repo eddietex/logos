@@ -396,8 +396,8 @@ associations. The **sea** (36:30) is the sea as such. No pages.
   question you, then you answer me!"*
 - [[Out of the Whirlwind]] — Job 38:22–38 — snow, hail, rain, ice, lightning, and clouds: Elihu's
   subjects, in God's questions.
-- Job 40:9–10 — *"Can you thunder with a voice like him?"*; *"Array yourself with honor and majesty"*. Not
-  yet ingested.
+- [[Behemoth and Leviathan]] — Job 40:9–10, *"Can you thunder with a voice like him?"*; *"Array yourself
+  with honor and majesty"*.
 - 1 Samuel 2:8 — the poor made *"to sit with princes, and inherit the throne of glory"*.
 - Psalm 18:11, 19 — the *pavilion* of dark cloud; *"He brought me out also into a large place"*.
 - Psalm 29:3–4 — *"The God of glory thunders … Yahweh's voice is full of majesty."*

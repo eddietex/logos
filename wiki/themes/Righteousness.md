@@ -251,6 +251,10 @@ about.
   (36:3); God *"doesn't withdraw his eyes from the righteous"* (36:7); *"In justice and great
   righteousness, he will not oppress"* (37:23). Elihu's last speech gives righteousness to God, and has
   stopped arguing about Job's.
+- [[Behemoth and Leviathan]] — Job 40:8; **righteousness bought with God's guilt.** *"Will you condemn
+  (taršîʿēnî) me, that you may be justified (tiṣdāq)?"* — the form of Job's *"Do not condemn me"* (10:2) and the
+  verb of his *"I hold fast to my righteousness"* (27:6). God does not deny Job's righteousness; he refuses the
+  lawsuit's terms, in which it required his own condemnation.
 
 ## Related themes
 

@@ -93,6 +93,10 @@ what is withheld, which is Genesis's habit with its patriarchs.
   *"against the day of battle and war"* (38:23), as at Joshua 10:11; and the war-horse that *"mocks at
   fear"* and smells the battle afar off (39:22, 25) — the army's animal, whose courage God asks whether
   Job gave.
+- [[Behemoth and Leviathan]] — Job 41:8, 25–29; **the whole armoury useless.** *"Remember the battle, and do so
+  no more"* (41:8); sword, spear, dart, pointed shaft, arrow, sling-stone, club and javelin listed and
+  dismissed — *"He counts iron as straw; and brass as rotten wood"* (41:27), *"He laughs at the rushing of the
+  javelin"* (41:29).
 
 ## Related themes
 

@@ -187,6 +187,9 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   they are exalted"* — Hannah's picture of the poor made *"to sit with princes, and inherit the throne of
   glory"* (1 Samuel 2:8); and God *"exalted in his power"* (36:22), whose way no one has prescribed
   (36:23).
+- [[Behemoth and Leviathan]] — Job 40:10; 41:34; **the royal robe offered, and a beast enthroned.** *"Array yourself
+  with honor and majesty"* (*hôd wəhādār*, 40:10), the regalia of the Psalms' king; and the last line of the
+  speeches, Leviathan *"king over all the sons of pride"* (41:34).
 
 ## Related themes
 

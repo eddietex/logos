@@ -19,8 +19,8 @@ tags: [connection]
 - **Psalm 29:10** — *"Yahweh sat enthroned at the Flood. Yes, Yahweh sits as King forever."*
 - **Job 26:14** — Job: *"How small a whisper do we hear of him! But the thunder of his power who can
   understand?"* — [[I Will Not Put Away My Integrity]]
-- **Job 40:9** *(not yet ingested)* — God: *"Or do you have an arm like God? Can you thunder with a voice
-  like him?"*
+- **Job 40:9** — God: *"Or do you have an arm like God? Can you thunder with a voice
+  like him?"* — [[Behemoth and Leviathan]]
 - **Exodus 19:16, 19** — Sinai: *"there were thunders and lightnings, and a thick cloud on the mountain"*;
   *"Moses spoke, and God answered him by a voice."* Not yet ingested.
 - **John 12:28–29** — *"Then there came a voice out of the sky … The multitude therefore, who stood by

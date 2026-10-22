@@ -240,6 +240,9 @@ requires only that you be standing outside it.
 - [[Out of the Whirlwind]] — Job 38:1–40:5; **the sufferer answered and the suffering unmentioned.** God
   speaks to Job at length and says nothing of his losses, his sores, or the wager; the speech has no
   *because*. Job's response is silence, not resolution (40:4–5), and God speaks again.
+- [[Behemoth and Leviathan]] — Job 40:6–41:34; **the second speech, and still no word of the pain.** It answers
+  the lawsuit — *"Will you condemn me, that you may be justified?"* (40:8) — and not the suffering that drove
+  it; the reason for Job's suffering, which the reader knows, is never given to him.
 
 ## Related themes
 

@@ -17,8 +17,8 @@ tags: [connection]
 - **Job 22:6** — Eliphaz: *"you have … stripped the naked of their clothing."* —
   [[Eliphaz's Third Speech]]
 - **Job 40:10, 14** — Yahweh to Job: *"Now deck yourself with excellency and dignity. Array yourself with
-  honor and majesty"* … *"Then I will also admit to you that your own right hand can save you."* *(not
-  yet ingested)*
+  honor and majesty"* … *"Then I will also admit to you that your own right hand can save you."* —
+  [[Behemoth and Leviathan]]
 - **Psalm 132:9, 16** — *"Let your priests be clothed with righteousness"*; *"Her priests I will also
   clothe with salvation."*
 - **Psalm 109:18** — of the wicked man: *"He clothed himself also with cursing as with his garment."*

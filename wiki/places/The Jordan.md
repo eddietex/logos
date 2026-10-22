@@ -63,6 +63,10 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
   the first sustained prayer in Scripture
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:10–11; **named twice in two verses to locate the
   threshing floor of Atad**, in a route that should not have gone near it
+- [[Behemoth and Leviathan]] — Job 40:23; *"He is confident, though the Jordan swells even to his mouth"*:
+  **its only appearance in Job, and the first outside Genesis in this wiki.** The river in flood is
+  Behemoth's bath. *Yardēn* may here stand for any rushing river rather than the Jordan itself; recorded on
+  the passage page
 
 ## Related places
 

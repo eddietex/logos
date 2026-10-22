@@ -286,6 +286,10 @@ verdicts.
   daybreak, not a verdict on a case. And rain falls *"on a land where no man is"* (38:26), weather that
   is no one's reward or punishment. The friends' system is not refuted by argument; the world God
   describes simply does not run on it.
+- [[Behemoth and Leviathan]] — Job 40:11–14; 41:11; **the ledger closed.** God does not claim the wicked are
+  always crushed; he offers Job the task (40:11–13). And *"Who has first given to me, that I should repay
+  him?"* (41:11) removes the premise of retribution and of Job's suit alike: God is in no one's debt. See
+  [[Who Has First Given to Me - Job 41.11 in Romans 11.35]].
 
 ## Related themes
 

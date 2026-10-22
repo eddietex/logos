@@ -25,8 +25,8 @@ tags: [connection]
 - **Job 35:6–8** — Elihu: *"If you have sinned, what effect do you have against him? … If you are
   righteous, what do you give him? Or what does he receive from your hand? Your wickedness may hurt a
   man as you are, and your righteousness may profit a son of man."* — [[Elihu on God's Justice]]
-- **Job 41:11** *(not yet ingested)* — God: *"Who has first given to me, that I should repay him?"*,
-  quoted at **Romans 11:35** *(not yet ingested)*
+- **Job 41:11** — God: *"Who has first given to me, that I should repay him?"* — [[Behemoth and Leviathan]];
+  quoted at **Romans 11:35** — [[Who Has First Given to Me - Job 41.11 in Romans 11.35]]
 - **Luke 17:10** *(not yet ingested)* — *"when you have done all the things that are commanded you,
   say, 'We are unworthy servants. We have done our duty.'"*
 

@@ -24,8 +24,8 @@ tags: [connection]
 - **Job 15:2–3** — Eliphaz, the first to fault Job's words as wind: *"Should a wise man answer with vain
   knowledge, and fill himself with the east wind? Should he reason with unprofitable talk, or with
   speeches with which he can do no good?"* — [[Eliphaz's Second Speech]]
-- **Job 40:8** *(not yet ingested)* — *"Will you condemn me, that you may be justified?"*, God asking
-  the question Elihu asked at 34:17.
+- **Job 40:8** — *"Will you condemn me, that you may be justified?"*, God asking
+  the question Elihu asked at 34:17 — [[Behemoth and Leviathan]]
 
 ## Analysis
 

@@ -19,8 +19,8 @@ tags: [connection]
   thunderstorm"* (38:25); *"Out of whose womb came the ice?"* (38:29); *"Do you know the laws of the
   heavens?"* (38:33); *"Can you send out lightnings, that they may go?"* (38:35)
   — [[Out of the Whirlwind]]
-- **Job 40:6, 9** *(not yet ingested)* — the second answer *"out of the whirlwind"*, and *"Can you thunder
-  with a voice like him?"*
+- **Job 40:6, 9** — the second answer *"out of the whirlwind"*, and *"Can you thunder
+  with a voice like him?"* — [[Behemoth and Leviathan]]
 - **Job 9:17** — Job: God *"breaks me with a storm"* — *śəʿārâ*, the word of 38:1 — [[There Is No Umpire Between Us]]
 - **Job 28:26** — *"When he made a decree for the rain, and a way for the lightning of the thunder"* — the
   same Hebrew as 38:25b — [[Where Shall Wisdom Be Found]]

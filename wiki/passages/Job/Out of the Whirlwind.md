@@ -264,8 +264,8 @@ crushing a question.
 
 **And it is not enough.** Job's first answer is silence, and God speaks again (40:6). Whatever Job has
 understood at 40:4–5, it is not yet what he says at 42:5, *"now my eye sees you"*. The first speech produces
-a man who will stop talking; the second will produce one who has seen — *Behemoth and Leviathan*, the next
-pericope, not yet ingested.
+a man who will stop talking; the second will produce one who has seen — see the next pericope,
+[[Behemoth and Leviathan]].
 
 ## Key verses
 
@@ -434,8 +434,8 @@ pericope, not yet ingested.
 - Isaiah 40:12–14 — *"Who has measured the waters in the hollow of his hand … Who has directed Yahweh's
   Spirit?"*: the same interrogative form, in prophecy.
 - Romans 11:33–34 — *"How unsearchable are his judgments … who has been his counselor?"*
-- Job 40:6–41:34 — the second speech, which follows at once: *"Will you condemn me, that you may be
-  justified?"* (40:8), and Behemoth and Leviathan. Not yet ingested.
+- [[Behemoth and Leviathan]] — Job 40:6–41:34, the second speech, which follows at once: *"Will you
+  condemn me, that you may be justified?"* (40:8), and Behemoth and Leviathan.
 - Job 42:1–6 — Job's second answer, *"now my eye sees you"*. Not yet ingested.
 
 ## Notes

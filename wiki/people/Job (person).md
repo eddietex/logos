@@ -214,7 +214,13 @@ speeches; each becomes a linked passage page as it is ingested.
   young fed, and the wild creatures free of him. Called *mōkîaḥ*, the umpire he wanted (40:2). He answers
   once: *"Behold, I am of small account. What shall I answer you? I lay my hand on my mouth"* (40:4) — and
   will go no further (40:5). **He withdraws nothing and confesses nothing; he stops.**
-- **Job 40:6–41:34** — God speaks again, on Behemoth and Leviathan.
+- **Job 40:6–41:34** — [[Behemoth and Leviathan]]. His silence is not accepted as an ending: *"Now brace
+  yourself like a man"* again (40:7), and the question his lawsuit raised — *"Will you condemn me, that you
+  may be justified?"* (40:8), his own *"Do not condemn me"* (10:2) turned round. Offered God's robe and the
+  task of bringing every proud man low (40:10–13), with the concession that if he can, *"your own right hand
+  can save you"* (40:14). Shown Behemoth, *"which I made as well as you"* (40:15), and Leviathan, the creature
+  he called on at 3:8, whom *"none is so fierce that he dare stir … up"* (41:10). Told *"Lay your hand on him …
+  do so no more"* (41:8) — a hand he had laid on his own mouth at 40:4. He does not answer within the speech.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
 - **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
   doubled, and he is given ten more children and four generations of descendants.
@@ -429,6 +435,13 @@ speeches; each becomes a linked passage page as it is ingested.
   (40:4) — reverses his *"as a prince would I go near to him"* (31:37) and his *"What shall I answer him?"*
   (31:14), and uses Elihu's *"once … twice"* (33:14) of his own speech (40:5). See
   [[The Whirlwind Answers Chapter 3]] and [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
+- [[Behemoth and Leviathan]] — Job 40:6–41:34; **asked whether his innocence needs God's guilt.** The second
+  speech names what was wrong in the lawsuit, not in his life: *"Will you condemn me, that you may be
+  justified?"* (40:8). His robe of righteousness (29:14) is answered by the robe of *hôd wəhādār* (40:10), his
+  complaint that the wicked go unpunished (21; 24) by the offer of the job (40:11–13), his call to rouse
+  Leviathan (3:8) by a Leviathan no one dares rouse (41:10), and his *"You have turned to be cruel (ʾakzār) to
+  me"* (30:21) by the same word at 41:10. Still not accused of any sin. See
+  [[Who Has First Given to Me - Job 41.11 in Romans 11.35]].
 
 ## Related people
 

@@ -266,8 +266,9 @@ speech that starts the quarrel is not addressed to anyone in it.
 - **Job 13:5** — *"Oh that you would be completely silent!"* — [[Though He Slay Me]]
 - **Job 14:1–2** — *"Man, who is born of a woman, is of few days, and full of trouble"*: the chapter's
   complaint generalised from Job to everyone.
-- **Job 41:1, 41:18** — Leviathan, and *"his eyes are like the eyelids of the morning"*: the two
-  images of 3:8–9, both given back in God's mouth.
+- **Job 41:1, 10, 18** — Leviathan, whom *"none is so fierce that he dare stir … up"* (*ʿûr*, 3:8's
+  verb), and *"his eyes are like the eyelids of the morning"*: the two images of 3:8–9, both given back in
+  God's mouth — [[Behemoth and Leviathan]]
 - **Genesis 1:3–5** — *"Let there be light"*, and the division of light from darkness.
 - **Genesis 8:21** — the mild verb *qālal*, used of God undertaking not to curse the ground again.
 - **Jeremiah 20:14–18** — the prophet cursing the day of his own birth: the closest thing in

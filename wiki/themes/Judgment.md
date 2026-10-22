@@ -314,6 +314,10 @@ rule are the conditions the rest of Scripture is set in.
 - [[Out of the Whirlwind]] — Job 38:12–15; 40:2; **judgment by daybreak, and the lawsuit turned.** The
   morning that shakes the wicked out of the earth (38:13); and *"Shall he who argues contend (rîb) with
   the Almighty?"* (40:2), the case Job brought now called to answer.
+- [[Behemoth and Leviathan]] — Job 40:8–14; **the bench offered to Job.** *"Will you even annul my judgment
+  (mišpāṭî)? Will you condemn me, that you may be justified?"* (40:8) — then the robe and the task: bring every
+  proud man low, *"crush the wicked in their place"*, and *"your own right hand can save you"* (40:10–14). The
+  judgment Job said God neglected (21; 24) is handed to him as a challenge.
 
 ## Related themes
 

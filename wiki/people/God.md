@@ -1298,6 +1298,16 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   gave the horse its might (39:19). He says nothing of the wager, the accuser, the friends, Elihu, or Job's
   sin, and the speech has no *because*. He calls himself *Šadday* (40:2), the name of Job's summons, and calls
   Job *mōkîaḥ*, the umpire of 9:33. Job lays his hand on his mouth (40:4); God speaks again.
+- **The God of [[Behemoth and Leviathan]]** speaks a second time out of the whirlwind (40:6) and names the
+  one thing wrong in Job's case: *"Will you condemn me, that you may be justified?"* (40:8) — Job's innocence
+  bought with God's guilt, in the verb of Job's own *"Do not condemn me"* (10:2). He offers Job his robe and
+  his office — *"Array yourself with honor and majesty"*, bring every proud man low — and concedes that if Job
+  can, *"your own right hand can save you"* (40:10–14). Then two creatures: Behemoth, *"which I made as well as
+  you"* and *"the chief of the ways of God"* (40:15, 19), and Leviathan, whom no one dares rouse — *"Who then is
+  he who can stand before me? Who has first given to me, that I should repay him? Everything under the heavens
+  is mine"* (41:10–11), the line Paul quotes at Romans 11:35. He describes Leviathan with open pleasure (41:12)
+  and ends on him, *"king over all the sons of pride"* (41:34). There is no combat with the sea monster: God
+  is not fighting him, and owes no one.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1449,6 +1459,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Named *Yahweh* by the narrator again (38:1) and speaks to Job for the first time; asks him where he was
   when the earth was founded, and about the sea, the dawn, death, light, snow, the stars, and ten wild
   creatures; says nothing of the wager; and calls Job the *mōkîaḥ* — Job 38:1–40:2, [[Out of the Whirlwind]]
+- Speaks out of the whirlwind again; asks *"Will you condemn me, that you may be justified?"*; offers Job the
+  office of judging the proud; describes Behemoth and Leviathan, and says *"Who has first given to me, that I
+  should repay him?"* — Job 40:6–41:34, [[Behemoth and Leviathan]]
 
 ## Appears in
 
@@ -1689,6 +1702,11 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   wicked (38:12–15), the gates of death (38:17), rain where no man is (38:26), the lioness and the raven
   (38:39–41), the wild donkey, the ostrich, the horse, and the eagle (39); names himself *Šadday* (40:2);
   names no sin and gives no reason
+- [[Behemoth and Leviathan]] — out of the whirlwind again (40:6); the question of 40:8, *"Will you condemn
+  me, that you may be justified?"*; the robe of *hôd wəhādār* offered to Job (40:10); Behemoth, made *"as well
+  as you"* (40:15); Leviathan, unhookable and unwakeable (41:1–10); *"Who has first given to me … Everything
+  under the heavens is mine"* (41:11); fire and smoke in the theophany's words (41:18–21; Psalm 18:8); and the
+  last line, *"king over all the sons of pride"* (41:34). Names no sin and gives no reason
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

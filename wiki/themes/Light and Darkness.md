@@ -175,6 +175,9 @@ raw text.)*
   wicked who *"rebel against the light"* (24:13). Light has a *dwelling* and darkness a *place* with a
   *bound* (38:19–20): not weapons to aim at a birthday, as in chapter 3, but residents God keeps. See
   [[The Whirlwind Answers Chapter 3]].
+- [[Behemoth and Leviathan]] — Job 41:18, 32; **chapter 3's dawn in the monster's eyes.** *"His sneezing flashes
+  out light. His eyes are like the eyelids of the morning"* (41:18), the phrase of 3:9 and its only other
+  occurrence in the book; and the deep made bright behind him, *"He makes a path shine after him"* (41:32).
 
 ## Related themes
 

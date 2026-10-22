@@ -241,7 +241,8 @@ last time anyone in the dialogue recites it.
 - [[Job's Oath of Innocence]] — Job 31:1–40; the second and fuller of Job's oaths.
 - [[Elihu on God's Greatness]] — Job 37:2–5, *"Hear, oh, hear the noise of his voice"*: the thunder of
   26:14 described as God's voice; and 36:29 on *"the spreading of the clouds"*, after 26:8.
-- Job 40:9 — the thunder in God's own mouth: *"Can you thunder with a voice like him?"* Not yet ingested.
+- [[Behemoth and Leviathan]] — Job 40:9, the thunder in God's own mouth: *"Can you thunder with a voice
+  like him?"*; and 41:1–34, the creature of 26:13's *swift serpent* described without a combat.
 - [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]]
 - Job 42:7 — the verdict on what the friends said, and on what Job said.
 - Proverbs 8:27–29 — wisdom present *"when he set a circle on the surface of the deep"* and *"gave to

@@ -10659,3 +10659,99 @@ structure note for 38:1–40:5, Creation and Providence added to key themes. Ind
 260 connections).
 
 No contradiction between wiki pages found beyond the corrected order claim above.
+
+## [2026-10-22] ingest | Job 40.6-41.34 — Behemoth and Leviathan
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 40:6–41:34. **Boundary and title
+unchanged** from the plan: 40:6 repeats the heading of 38:1, and 42:1 (*"Then Job answered Yahweh"*) closes
+the speech. No collision with any other book. **Job is at 30 / 32.** No discussion step; it is written into
+the passage page.
+
+### The passage page
+
+[[Behemoth and Leviathan]], built around these findings:
+
+**1. The one question about justice (40:8).** *Taršîʿēnî*, *"Will you condemn me"*, is the exact form of Job's
+*"Do not condemn me"* (10:2); *tiṣdāq* is the verb of 27:6 and 32:2; *mišpāṭî* is 27:2's *right*. Elihu's 34:17
+is the same question. Job's innocence bought with God's guilt is the one thing either speech names as wrong.
+
+**2. The bench offered (40:9–14)** — the robe of *hôd wəhādār* against 29:14; the work Job said God neglected
+(21; 24), handed to him.
+
+**3. Behemoth** — *bəhēmôt*, the plural of Genesis 1:24's *livestock*; *"made with you"* (40:15); *rēʾšît
+darkê-ʾēl* (40:19), Wisdom's *rēʾšît darkô* in Proverbs 8:22.
+
+**4. Leviathan** — the six human uses of an animal refused (41:1–7), including *ʿebed ʿôlām* (41:4; Exodus 21:6;
+Deuteronomy 15:17); *ʿûr* at 41:10, the verb of 3:8; *ʾakzār* at 41:10, Job's *cruel* of 30:21; 41:11, quoted at
+Romans 11:35; *gaʾăwâ* (41:15) against *gēʾeh* (40:11–12); the eyelids of the morning (41:18; 3:9); Psalm 18:8's
+theophany at 41:20–21; *təhôm* (41:32); *bənê-šāḥaṣ* (41:34; 28:8).
+
+**5. Three readings** — natural history, myth, and both — recorded; the text settles only that there is no
+combat and that Leviathan is God's creature.
+
+### The promised check: [[The Whirlwind Answers Chapter 3]]
+
+Done as the previous entry promised, and recorded on the page in a new dated section beside the first check.
+**Corrected:** *"forty-one verses"* — Leviathan's portrait is **thirty-four** (41:1–34; Hebrew 40:25–41:26); the
+original wording is kept and marked in place at both occurrences. **Corrected:** the 41:1 quotation had been cut
+at *"fish hook?"*; now given whole. **Added:** 41:10's *yəʿûrennû* (*ʿûr*), the verb of 3:8 — the strongest
+chapter 41 correspondence, and the page had missed it. **Held:** Leviathan named twice in Job (3:8; 41:1),
+tightened to "by name" since 26:13 and 7:12 are related; the eyelids of the morning twice in Job (3:9; 41:18);
+41:34 is the speeches' last verse. **Left as unverified:** "the longest single description of any creature in
+the Bible" — not checkable from `raw/`, which holds only Genesis and Job. **Recorded, not fixed:** the page says
+"five strong and two decisive" and then argues three as decisive. **Observation only:** the two chapter 3 images
+in chapter 41 come in forward order (3:8, then 3:9), against the reverse order of 38:8–21; two items are not a
+pattern. **Tightened:** 40:8 is the only charge about God's *justice* — 38:2 also charges Job, with ignorance.
+**Remaining interpretive uncertainty:** whether chapter 41 is about a crocodile, a myth, or both is left open on
+the passage page.
+
+### A second correction
+
+[[Am I a Sea or a Sea Monster - The Guard on the Waters]] said the whirlwind makes *"Leviathan a pet"*. 41:5 asks
+whether *Job* could make him one and expects *no*; the nearest text is Psalm 104:26, which is not Job. Original
+marked in place; correction added in a dated section. Its 41:12 quotation and its no-combat reading hold.
+
+### Judgment calls
+
+No pages for Behemoth or Leviathan (creatures, not persons, as with the animals of 38–39; the Leviathan thread
+already lives on the *Am I a Sea* page). [[The Jordan]] gets 40:23, with a note that *yardēn* may mean any river.
+[[Satan]] is mentioned on the passage page (the later Leviathan-as-Satan reading, via Revelation 12:9) but its
+own page is not revised, since Job 40–41 never mentions the accuser. Recorded, not adopted: the emendation of
+*gaʾăwâ* to *gēwōh* (41:15); *ʾēlîm* as *gods* (41:25); the two readings of 40:19b. The Ugaritic *Lôtan* and the
+Enoch/4 Ezra/2 Baruch traditions are named by reference only, not quoted. The next pericope's title,
+*I Repent in Dust and Ashes*, is not linked.
+
+### Connection pages
+
+Created (3): [[Who Has First Given to Me - Job 41.11 in Romans 11.35]] (records one uncertainty: a near-identical
+line in some Septuagint manuscripts of Isaiah 40, generally judged a later addition; the Septuagint wording is
+not quoted because it was not checked), [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]],
+[[Smoke from His Nostrils - Leviathan and the Theophany of Psalm 18]] (the Hebrew overlap with Psalm 18:8 is
+stated as three shared nouns — the nostrils and the kindling verb differ). Revised with analysis (2): the two
+corrected above. *Not yet ingested* markers replaced with links (6):
+[[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]],
+[[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]],
+[[The Voice of His Majesty - Job 37.2-5 and Psalm 29]],
+[[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]],
+[[I Put On Righteousness - Job 29.14 and the Garments of Justice]],
+[[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]].
+Non-Job, non-Genesis quotations checked against the WEB from bible-api.com before writing: Psalm 18:7–8; 74:13–14;
+89:9–10; 104:24–26; Proverbs 8:22–23; Isaiah 2:11–12; 27:1; 40:13–14; 51:9; Luke 1:51–52; Romans 11:33–36;
+Revelation 12:9; Exodus 21:6 and Deuteronomy 15:17 (cited by reference). Job and Genesis texts checked against
+`raw/bible/`.
+
+### Pages created or revised
+
+Created (4): the passage page and three connection pages. People (4): [[God]], [[Job (person)]],
+[[Elihu the Buzite]], [[Eliphaz the Temanite]]. Places (1): [[The Jordan]]. Themes (13): [[Creation]],
+[[Pride and Self-Exaltation]], [[Judgment]], [[Righteousness]], [[Light and Darkness]], [[Covenant]],
+[[Slavery and Servitude]], [[War]], [[The Fear of God]], [[Kingship and Empire]], [[Suffering]], [[Retribution]],
+[[Providence]]. Passages (8): forward references linked in [[Out of the Whirlwind]], [[Let the Day Perish]],
+[[Elihu on God's Justice]], [[I Will Not Put Away My Integrity]], [[Elihu on God's Greatness]],
+[[The Months of Old]], [[Where Shall Wisdom Be Found]], and [[Eliphaz's First Speech]] (its Romans 11:35 flag for
+chapter 41 closed). Book page: box checked, structure note for 40:6–41:34, Pride and Self-Exaltation and The
+Jordan added. Indexes: books (30 / 32), people (4 rows), places (1 row), themes (13 rows), connections (+3 rows, 2
+revised), `wiki/index.md` (89 passages, 263 connections). `scripts/link-check.sh` clean.
+
+No contradiction between wiki pages found beyond the two corrections above.

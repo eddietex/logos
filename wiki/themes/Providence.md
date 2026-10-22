@@ -220,6 +220,9 @@ human one innocent.** *"You meant evil"* stands. See
   lioness"*, provides *"for the raven his prey, when his young ones cry to God"*, and watches the births
   of the mountain goats that no one else sees. Nothing in the speech applies it to Job; the provision is
   shown, not promised. See [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]].
+- [[Behemoth and Leviathan]] — Job 40:20–22; 41:11; **a beast at ease, and everything owned.** The mountains
+  bring Behemoth food *"where all the animals of the field play"*, and the lotus shades him (40:20–22);
+  *"Everything under the heavens is mine"* (41:11).
 
 ## Related themes
 

@@ -223,13 +223,13 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 · Job 11:17 · Job 12:15, 22–25 |
 | [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] | parallel | Job 3:1–12 · Jeremiah 20:14–18 · Job 10:18–19 · Ecclesiastes 4:2–3; 6:3–5 · Jonah 4:3, 8 · 1 Kings 19:4 · Matthew 26:24 |
-| [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 18 · Genesis 1:1–2:3 — order claim corrected against 38:8–21 |
+| [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 10, 18 · Genesis 1:1–2:3 — order claim corrected against 38:8–21; verse count corrected and 41:10 added against chapter 41 |
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |
 | [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 · Job 25:5–6 |
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |
-| [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 |
+| [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 — "Leviathan a pet" corrected against 41:5 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
 | [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 |
 | [[The Bear, Orion, and the Pleiades]] | image | Job 9:9 · Job 38:31–33 · Amos 5:8 · Isaiah 13:10 · Genesis 1:16 · Psalm 147:4 · Isaiah 40:26 |
@@ -264,3 +264,6 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]] | thread | Job 38:39–41 · Job 10:16 · Job 19:7 · Job 30:20 · Psalm 104:21, 27–28 · Psalm 147:9 · Matthew 6:26 · Luke 12:6–7, 24 |
 | [[Where the Slain Are - Job 39.30 and Matthew 24.28]] | allusion | Job 39:27–30 · Matthew 24:28 · Luke 17:37 · Proverbs 30:17 · Revelation 19:17–18 |
 | [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] | literary-parallel | Job 33:14, 29 · Job 40:5 · Job 5:19 · Psalm 62:11 · Proverbs 6:16 |
+| [[Who Has First Given to Me - Job 41.11 in Romans 11.35]] | quotation | Job 41:11 · Romans 11:33–36 · Isaiah 40:13–14 · Job 22:2–3 · Job 35:7 · Job 1:9 · 1 Corinthians 3:19 |
+| [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
+| [[Smoke from His Nostrils - Leviathan and the Theophany of Psalm 18]] | image | Job 41:18–21 · Psalm 18:7–8 · Job 41:10 · Job 3:9 · Job 37:2–5; 40:9 |

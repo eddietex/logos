@@ -312,7 +312,9 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
   book of Job*. Romans 11:35 — *"Or who has first given to him, and it will be repaid to him
   again?"* — is generally counted as a quotation of Job 41:11 (Hebrew 41:3), and like 1 Corinthians
   3:19 it follows the Hebrew rather than the Septuagint. The claim has been corrected there to *one
-  of two*, and the second is flagged for the ingest of chapter 41. What remains true is that
+  of two*, and the second was checked at the ingest of chapter 41 — see
+  [[Who Has First Given to Me - Job 41.11 in Romans 11.35]], which records the one textual uncertainty
+  (a near-identical line in some Septuagint manuscripts of Isaiah 40). What remains true is that
   **5:13 is the only one taken from a speech God rebukes** — Romans 11:35 quotes God.
 
 - **The plural of 5:27.** *"We have searched it, so it is."* *Ḥăqarnûhā* is the verb of research

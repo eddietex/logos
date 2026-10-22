@@ -243,6 +243,9 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
 - [[Job's Oath of Innocence]] — Job 31:13–15; the slaves' lawsuit heard, because *"one"* fashioned master and slave in the
   womb; and 31:14, *"When he visits, what shall I answer him?"* — the master's treatment of his slave as
   a matter he will answer for to God.
+- [[Behemoth and Leviathan]] — Job 41:4; ***ʿebed ʿôlām*, a servant forever.** *"Will he make a covenant with you,
+  that you should take him for a servant forever?"* — the term of the slave who chooses lifelong service and
+  has his ear pierced at the door (Exodus 21:6; Deuteronomy 15:17), applied to a creature no one can bind.
 
 ## Related themes
 

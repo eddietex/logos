@@ -102,6 +102,10 @@ later addition; the wiki records that view and reads the book as received.
   charge (38:2); his formula *"once, yes twice"* (33:14) is Job's last word (40:5). See
   [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] and
   [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]].
+- [[Behemoth and Leviathan]] — Job 40:6–41:34, **not named.** His question at 34:17, *"Will you condemn him who
+  is righteous and mighty?"*, is the question God asks Job at 40:8; his *"voice of his majesty"* (37:4) is the
+  thunder of 40:9; and his *"what do you give him?"* (35:7) is said by God, without Elihu's conclusion, at
+  41:11.
 
 ## Related people
 

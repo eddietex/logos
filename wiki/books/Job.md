@@ -161,6 +161,17 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   are, there he is"* (39:30). God names Job the *mōkîaḥ*, the umpire of 9:33 (40:2), and Job answers with
   his hand on his mouth: *"I have spoken once … Yes, twice, but I will proceed no further"* (40:5).
   **Silence, not repentance — and God speaks again.**
+  The second (40:6–41:34) repeats the heading and the summons, and asks the one question either speech asks
+  about justice: *"Will you condemn me, that you may be justified?"* (40:8) — Job's own *"Do not condemn me"*
+  (10:2) turned round. It offers Job God's robe (*"Array yourself with honor and majesty"*, 40:10) and his work —
+  bring every proud man low — and concedes that if he can, *"your own right hand can save you"* (40:14). Then
+  two creatures: **Behemoth**, *"which I made as well as you"*, *"the chief of the ways of God"* (40:15, 19),
+  Wisdom's title in Proverbs 8:22; and **Leviathan**, the monster Job called on at 3:8, thirty-four verses long
+  — no hook can land him, no covenant bind him, no weapon touch him, and *"None is so fierce that he dare stir
+  him up. Who then is he who can stand before me? Who has first given to me, that I should repay him?"*
+  (41:10–11), the line Paul quotes at Romans 11:35. His eyes are *"the eyelids of the morning"* (41:18; 3:9), and
+  he is *"king over all the sons of pride"* (41:34). **No combat, no reason, no word of the wager — and the
+  speeches end.**
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
 
 ## Pericopes
@@ -229,7 +240,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### Yahweh answers (38–41)
 
 - [x] [[Out of the Whirlwind]] — Job 38:1–40:5
-- [ ] Behemoth and Leviathan — Job 40:6–41:34
+- [x] [[Behemoth and Leviathan]] — Job 40:6–41:34
 
 ### Epilogue (42)
 
@@ -260,6 +271,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Creation]] — the whirlwind's subject: the earth's foundation, the sea's doors, the houses of light and
   darkness, and the stars of 9:9 under law (38:4–33)
 - [[Providence]] — rain *"on a land where no man is"* (38:26), and the lioness and the raven fed (38:39–41)
+- [[Pride and Self-Exaltation]] — the proud Job is told to bring low (40:11–12), and Leviathan, *"king over all
+  the sons of pride"* (41:34)
 
 ## Key people
 
@@ -287,3 +300,4 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Sheol]]
 - [[Ophir]] — the byword for fine gold, thrown in the wadi at 22:24 and outpriced by wisdom at 28:16
 - [[Cush]] — the WEB's *Ethiopia*; its topaz is the last precious thing named against wisdom (28:19)
+- [[The Jordan]] — swelling to Behemoth's mouth (40:23); perhaps any river in flood
