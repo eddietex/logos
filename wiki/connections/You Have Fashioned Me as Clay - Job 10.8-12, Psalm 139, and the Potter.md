@@ -26,7 +26,7 @@ tags: [connection]
   this?'"*
 - **Job 14:15; 31:15; 33:6** — *"the work of your hands"* (14:15, in [[Though He Slay Me]]: the potter
   imagined, beyond death, *desiring* what he made); *"Didn't he who made me in the womb make
-  him?"* (31:15, in [[Job's Oath of Innocence]]); Elihu: *"I am also formed out of the clay."*
+  him?"* (31:15, in [[Job's Oath of Innocence]]); Elihu: *"I am also formed out of the clay"* (33:6, in [[Elihu Speaks in Anger]]).
 - **Ecclesiastes 11:5; Ezekiel 37:6–8** — the forming of the body as mystery, and its re-forming, in
   sinews, flesh, and skin.
 - **Job 23:8–10** — the other half of Job's use of Psalm 139: the God who cannot be escaped, turned
@@ -71,7 +71,10 @@ would answer you. You would have a desire to the work of your hands."* 31:15 tur
 into ethics — *"Didn't he who made me in the womb make him?"* — the servant and the master formed by
 the same hands. And Elihu, at 33:6, claims the clay for himself as a credential: *"I am toward God
 even as you are. I am also formed out of the clay"* — offering to be the man-sized party Job said
-God could not be (9:32).
+God could not be (9:32). Two verses earlier he has claimed the other half of Genesis 2:7 as well: *"The
+Spirit of God has made me, and the breath of the Almighty gives me life"* (33:4). **Dust and breath
+together, which is the whole of the man of Genesis 2, offered as the reason Job can argue with him
+without fear** — and as the reason, in Elihu's eyes, that Job's argument with God has no standing.
 
 ## Significance
 

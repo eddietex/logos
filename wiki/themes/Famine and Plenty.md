@@ -167,4 +167,3 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
 - [[Abraham]] — the first to go down because of one
 - [[Isaac]] — the only one told to stay
 - [[Jacob]] — who sends ten sons to buy grain and ends his life in Egypt because of it
-</content>

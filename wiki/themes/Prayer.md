@@ -203,6 +203,9 @@ already did.
   but you don't answer."* **Job's last prayer in the second person before the whirlwind**: chapter 31
   speaks of God only in the third, and the next *you* addressed to him is *"What shall I answer you?"*
   (40:4).
+- [[Elihu Speaks in Anger]] — Job 33:26–28; in Elihu's sequence the rescued man *"prays to God, and he is favorable to
+  him"*, then *"sings before men"* his confession. Prayer as the result of the warning, not the cause
+  of the rescue; and offered to a man whose last prayer (30:20) went unanswered.
 
 ## Related themes
 

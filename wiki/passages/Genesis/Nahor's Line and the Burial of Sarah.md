@@ -84,7 +84,8 @@ sons and makes a nation out of exactly one of them.** See
   in Aramean territory by Genesis 10:23; a third Uz is Horite at 36:28. **The Bible has three
   Uzzes pointing in two directions**, and this is one of them. See [[Uz]].
 - **Buz** — paired with Dedan and Tema in Jeremiah 25:23, so a north Arabian locality; and the home
-  of Elihu the Buzite, the fourth speaker in Job (32:2).
+  of [[Elihu the Buzite]], the fourth speaker in Job (32:2), now at [[Elihu Speaks in Anger]]. See
+  [[Buz]].
 - **Kemuel the father of Aram** — *Aram* is the Aramean people, and this verse makes them Abraham's
   brother's grandsons. Genesis 10:22 had already made Aram a son of Shem. The book is describing
   the Aramean tribal map twice, by two different routes, and does not reconcile them.

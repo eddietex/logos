@@ -104,4 +104,3 @@ Genesis 41:45 is the version in which the cost is invisible, **because everythin
 was taken.**
 
 **The book's own quiet answer is to keep calling him Joseph.**
-</content>

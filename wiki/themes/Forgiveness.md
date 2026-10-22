@@ -91,6 +91,10 @@ practical.**
   **The only mention of God's forgetting of sin in the friends' speeches, and it is an accusation** —
   the forgetting proves the debt is larger than what has been paid. Set against Job's own plea for a
   pardon he was not getting (7:21)
+- [[Elihu Speaks in Anger]] — Job 33:24–28; the sinner on the edge of the pit, a mediator beside him, and God saying
+  *"Deliver him from going down to the pit, I have found a ransom"* (33:24); the man then sings, *"I have
+  sinned … He has redeemed my soul from going into the pit"* (33:27–28). Grace before the confession, and
+  the confession sung in public.
 
 ## Related themes
 

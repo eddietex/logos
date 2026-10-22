@@ -77,4 +77,3 @@ of what Egyptian religion is** — **and possibly also of what it might become.*
 - **Joseph's marriage to [[Asenath]], daughter of [[Potiphera]] priest of On** — Genesis 41:45,
   [[Pharaoh's Dreams and Joseph's Rise]]
 - [[Manasseh]] and [[Ephraim]] born to that household — Genesis 41:50–52
-</content>

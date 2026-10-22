@@ -10343,3 +10343,88 @@ themes. Indexes: books (25 / 32), people (7 rows), places (2 rows), themes (15 r
 rows, 4 rows revised), `wiki/index.md` (84 passages, 253 connections).
 
 No contradiction between wiki pages found beyond the misquotations corrected above.
+
+## [2026-10-21] ingest | Job 32.1-33.33 — Elihu Speaks in Anger
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 32:1–33:33. **Boundary and title
+unchanged** from the plan — the prose introduction (32:1–5) and Elihu's first speech (32:6–33:33), to the
+next heading at 34:1. No collision with any other book. **Job is at 26 / 32.** No discussion step; it is
+written into the passage page.
+
+### The passage page
+
+[[Elihu Speaks in Anger]], built around six findings:
+
+**1. The pedigree and the anger.** The only genealogy in the book (*"son of Barachel, the Buzite, of the
+family of Ram"*), with confessional names, and Buz as Uz's brother in Genesis 22:21. *Wayyiḥar ʾap* four
+times in 32:2–5, against Job and the three friends — the words God uses at 42:7, against the friends only.
+
+**2. *Mōkîaḥ* at 32:12.** *"No one who convinced Job"* is 9:33's missing umpire; Elihu proposes to be one.
+
+**3. The man of clay without terror** (33:6–7) — an exact answer to 9:32–34 and 13:21.
+
+**4. Elihu is the first speaker to quote Job, and to call him by name.** A table sets 33:9–11 against
+9:21, 13:18, 16:17, 11:4 (Zophar's version), 13:24, 19:11 and 13:27 (word for word).
+
+**5. God speaks twice, by dream and by pain** (33:14–22): 4:13 repeated, *tardēmâ*; the sickbed as Job's
+body unnamed; *yākaḥ* again at 33:19.
+
+**6. The angel-interpreter and the ransom** (33:23–28): *mēlîṣ* as Joseph's interpreter (Genesis 42:23)
+and 16:20's *məlîṣay*; *"one among a thousand"* answering 9:3; *kōper*; and *"I desire to justify you"*
+(33:32) with 32:2's verb.
+
+**Judgment calls.** Title kept. Elihu given a person page as `Elihu the Buzite`, on the model of the three
+friends (and because Elihu is a recurring name — 1 Samuel 1:1 has another). [[Buz]] given a place page,
+following [[Uz]], [[Shuah]] and [[Naamah]]; Buz son of Nahor still has no person page, and the
+person/place rule applies if one is made. Barachel, Ram, and the hypothetical angel get no pages. Recorded
+and not adopted: the Septuagint's *"in their eyes"* at 32:1; the *tiqqune sopherim* tradition at 32:3
+(*condemned God*); *yəḥittēm* (*terrifies*) for *yaḥtōm* at 33:16; *šelaḥ* as the channel of death at
+33:18; *ʾekpî*/*kappəkā* at 33:7; and the later-addition theory for chapters 32–37.
+
+### Corrections to existing pages
+
+- **[[There Is No Umpire Between Us]] misquoted 33:6** as *"I also am formed out of the clay"*; now the
+  WEB's *"I am also formed out of the clay"*.
+- **[[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]]** attributed *"opens
+  their ears to instruction"* to Elihu's account of pain without a verse; it is 36:10, now cited.
+- **Stray `</content>` / `</invoke>` lines removed from twelve files** — [[Asenath]], [[Ephraim]],
+  [[Manasseh]], [[Potiphera]], [[Famine and Plenty]], [[On]], [[The Nile]],
+  [[A Man in Whom Is the Spirit of God]],
+  [[Zaphenath-Paneah - Renaming at a Foreign Court]],
+  [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]],
+  [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]], and
+  [[Pharaoh's Dreams and Joseph's Rise]] (which had both). `grep -rn '^</content>$\|^</invoke>$' wiki/`
+  is clean again.
+
+### Connection pages
+
+Created (1): [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]]. Revised (5):
+[[The Witness in Heaven]] (a paragraph on Elihu's two candidates and how his mediator differs from Job's),
+[[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] (33:4 with 33:6),
+[[A Man in Whom Is the Spirit of God]] (32:8; 33:4), [[Warned in a Dream - Abimelech and Laban]] (Job
+33:14–18 as the pattern made a rule), and the chastening page above (33:14–19). Every non-Job, non-Genesis
+quotation was checked against the WEB from bible-api.com before writing (Psalm 30:3; 49:7–9, 15; 56:13;
+62:11; 103:3–5; Mark 10:45; Matthew 9:17; 20:28; 1 Timothy 2:5–6; 4:12; Ecclesiastes 4:13; Jeremiah 20:9;
+25:23; Numbers 12:6; 35:31; Exodus 21:30; 30:12; 2 Kings 5:14; Hebrews 12:11; Isaiah 38:17; 43:3; Hosea
+13:14; Proverbs 13:8; 1 Peter 1:18–19; Ruth 4:19 and 1 Samuel 1:1 checked and cited by reference only).
+Job and Genesis texts checked against `raw/bible/`.
+
+### Pages created or revised
+
+Created (4): the passage page, [[Elihu the Buzite]], [[Buz]], and the ransom connection. People (6):
+[[Job (person)]], [[God]], [[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]],
+[[Nahor (brother of Abram)]] (links only). Places (2): [[Sheol]] (the pit, five times), [[Tema]] (links
+only). Themes (15): [[Wisdom]], [[Mediation and Advocacy]], [[Suffering]], [[Retribution]],
+[[Prophecy and Vision]], [[Language and Speech]], [[Pride and Self-Exaltation]], [[Righteousness]],
+[[Forgiveness]], [[Favor and Grace]], [[Life and Death]], [[Light and Darkness]], [[Prayer]], [[Sin]],
+[[Judgment]]. Passages (8): forward references linked in [[There Is No Umpire Between Us]],
+[[Though He Slay Me]], [[The Arrows of the Almighty]], [[Eliphaz's First Speech]],
+[[Eliphaz's Second Speech]], [[Miserable Comforters and the Witness in Heaven]],
+[[Job's Oath of Innocence]], and the Genesis page [[Nahor's Line and the Burial of Sarah]]. Connections
+revised (5). Book page: box checked, structure note for 32–33, Elihu and Buz added to key people and
+places. Indexes: books (26 / 32), people (+1 row, 6 rows revised), places (+1 row, 1 revised), themes (15
+rows), connections (+1 row, 3 rows revised), `wiki/index.md` (85 passages, 144 people, 77 places, 254
+connections).
+
+No contradiction between wiki pages found beyond the misquotation corrected above.

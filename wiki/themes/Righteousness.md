@@ -238,6 +238,10 @@ about.
   sin concealed. It is the book's fullest answer to what the narrator meant by *"blameless and
   upright"* (1:1), and the friends' reply is to fall silent *"because he was righteous in his own
   eyes"* (32:1).
+- [[Elihu Speaks in Anger]] — Job 32:1–2; 33:26, 32; **who justifies whom.** The friends stop *"because he was
+  righteous in his own eyes"* (32:1); Elihu is angry *"because he justified himself rather than God"*
+  (32:2); in his account God *"restores to man his righteousness"* (33:26); and he ends *"Speak, for I
+  desire to justify you"* (33:32) — the same verb, *ṣādaq*, in his own mouth.
 
 ## Related themes
 

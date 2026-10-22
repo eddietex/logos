@@ -106,6 +106,9 @@ reading that the text supports, is located in what the building was *for*.
   heavens, and his head reach to the clouds, yet he shall perish forever like his own dung"*
   (20:6–7), the ascent of Genesis 11:4 and Isaiah 14:13 answered with a deliberately degrading
   word
+- [[Elihu Speaks in Anger]] — Job 33:17; the purpose of God's warning dream is *"that he may withdraw man from his
+  purpose, and hide pride from man"* — pride as the thing suffering is sent to prevent. Elihu's own
+  self-presentation (32:6–22) is the book's most elaborate.
 
 ## Related themes
 

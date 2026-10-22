@@ -258,6 +258,10 @@ has been argued.
 - [[Where Shall Wisdom Be Found]] — Job 28:28; ***"To depart from evil is understanding."*** *Sûr mērāʿ*, the negative half
   of the definition of wisdom, and the second half of Job's description at 1:1, 8 and 2:3. **Turning
   from evil is made a form of knowledge** — *bînâ*, understanding — rather than only a moral act
+- [[Elihu Speaks in Anger]] — Job 33:9, 27; Job's claim summarised as *"I am clean, without disobedience"* (33:9) —
+  Zophar's version (11:4), not Job's words — set against the rescued man's *"I have sinned, and perverted
+  that which was right, and it didn't profit me"* (33:27): the confession the whole dialogue has asked
+  Job to make, given a better reason.
 
 ## Related themes
 

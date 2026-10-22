@@ -103,4 +103,3 @@ land**, and Genesis reports that without comment either. See [[Priesthood]] and
 - [[The Nations]]
 - [[Marriage]]
 - [[Names and Naming]]
-</content>

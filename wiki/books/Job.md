@@ -120,6 +120,16 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   Almighty answer me!"* (31:35) — and *"The words of Job are ended"* (31:40). **The friends do not
   reply; God does, and mentions none of it.**
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
+  Chapters 32–33 bring him on in prose — *"Elihu the son of Barachel, the Buzite, of the family of Ram"*
+  (32:2), the only pedigree in the book — angry four times, at Job *"because he justified himself rather
+  than God"* and at the friends *"because they had found no answer, and yet had condemned Job"*
+  (32:2–5). A young man's preface claims wisdom by *"a spirit in man"* against age (32:8–9), tells the
+  friends there was *"no one who convinced Job"* — 9:33's *mōkîaḥ* — and bursts like new wineskins
+  (32:19). Then, to Job by name, which no friend ever used: a man of clay without terror (33:6–7), Job
+  quoted back word for word (33:11 from 13:27), and God who *"speaks once, yes twice"* — by dream and by
+  pain — to turn a man from the pit; and *"an angel, an interpreter, one among a thousand"*, at whose word
+  God says *"I have found a ransom"* (33:23–24). It ends *"I desire to justify you"* (33:32). **No one
+  answers.**
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
 
@@ -182,7 +192,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Elihu (32–37)
 
-- [ ] Elihu Speaks in Anger — Job 32:1–33:33
+- [x] [[Elihu Speaks in Anger]] — Job 32:1–33:33
 - [ ] Elihu on God's Justice — Job 34:1–35:16
 - [ ] Elihu on God's Greatness — Job 36:1–37:24
 
@@ -226,6 +236,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Eliphaz the Temanite]]
 - [[Bildad the Shuhite]]
 - [[Zophar the Naamathite]]
+- [[Elihu the Buzite]] — the fourth speaker (32–37), the only one with a genealogy, answered by no one
+  and absent from the epilogue
 - [[Job's Wife]] — unnamed, one sentence at 2:9 and one mention at 19:17, and the largest
   interpretive tradition attached to any minor figure in Scripture
 - [[Job's Children]]
@@ -237,6 +249,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Tema]] — the oasis whose caravans die at the dry wadi of 6:19; not to be confused with Teman
 - [[Teman]] — Eliphaz's, and the only one of the three friends' homelands that can be located
 - [[Shuah]] — Bildad's; usually the Shuah of Genesis 25:2, sometimes Assyrian Sūḫu, certainly neither
+- [[Buz]] — Elihu's clan; Uz's brother among Nahor's sons (Genesis 22:21)
 - [[Naamah]] — Zophar's, unattested anywhere else and unlocated
 - [[Sheol]]
 - [[Ophir]] — the byword for fine gold, thrown in the wadi at 22:24 and outpriced by wisdom at 28:16

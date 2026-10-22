@@ -156,6 +156,9 @@ raw text.)*
   light, there came darkness"*** — the lamp of 29:3, *"by his light I walked through darkness"*, gone
   out; and *"I go mourning without the sun"*. Israel says the same at Jeremiah 8:15 and Isaiah 59:9,
   *"We look for light, but see darkness."*
+- [[Elihu Speaks in Anger]] — Job 33:28, 30; ***"My life shall see the light"*** and ***"the light of the living"***
+  (Psalm 56:13's phrase): light as rescue from the pit, answering — without naming it — Job's *"when I
+  waited for light, there came darkness"* (30:26).
 
 ## Related themes
 

@@ -259,6 +259,11 @@ happens.
   still small voice (1 Kings 19:12) in reverse. **The message is a commonplace, and the book never
   confirms the vision**: God's verdict at 42:7 covers what Eliphaz said the spirit said. The theme's
   first case of revelation claimed and not vouched for
+- [[Elihu Speaks in Anger]] — Job 33:14–18; ***"In a dream, in a vision of the night, when deep sleep falls on men"***
+  (33:15) — Eliphaz's 4:13 repeated word for word, and *tardēmâ*, the deep sleep of Genesis 2:21 and
+  15:12. Elihu makes the dream God's ordinary way of warning every man — *"he opens the ears of men, and
+  seals their instruction"* (33:16) — which is what God did for Abimelech (Genesis 20:3) and Laban
+  (31:24). See [[Warned in a Dream - Abimelech and Laban]].
 
 ## Related themes
 
@@ -287,3 +292,4 @@ happens.
   people what God has said to them**
 - [[The Chief Cupbearer]] and [[The Chief Baker]] — two Egyptian officials who receive true revelation
   in their sleep and cannot read it
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

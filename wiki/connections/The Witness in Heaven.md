@@ -17,7 +17,7 @@ tags: [connection]
 - **Job 19:25–27** — *"But as for me, I know that my Redeemer lives. In the end, he will stand upon
   the earth."* — [[I Know That My Redeemer Lives]]
 - **Job 33:23–24** — Elihu: *"If there is beside him an angel, an interpreter, one among a
-  thousand…"*
+  thousand…"* — [[Elihu Speaks in Anger]]
 - **Job 1:6–12; 2:1–6** — the heavenly court, containing an accuser and no advocate
 - **Zechariah 3:1–5** — Joshua the high priest, the accuser at his right hand, and the Angel of
   Yahweh rebuking him
@@ -110,6 +110,19 @@ increasing confidence. The New Testament writers use that vocabulary. Whether Jo
 whether the New Testament found in an old vocabulary the only words adequate to a new fact is a
 question the wiki leaves open, and the difference matters less than it looks: on either account,
 the question Job asked is the one the answer is shaped to fit.
+
+**Elihu's version is the only one anyone else proposes, and it changes the figure's job.** At 32:12
+he says that among the friends *"there was no one who convinced Job"* — *ʾên ləʾiyyôb mōkîaḥ*, 9:33's
+missing umpire — and in the next chapter he supplies two candidates. The first is himself: *"I am
+toward God even as you are. I am also formed out of the clay. Behold, my terror shall not make you
+afraid"* (33:6–7), the man-sized party of 9:32–34. The second is the *"angel, an interpreter, one among
+a thousand"* (33:23) — *mēlîṣ*, Joseph's interpreter at Genesis 42:23, and *"one among a thousand"* for
+the *"one time in a thousand"* of 9:3. But Elihu's mediator does not prove the man right. He shows the
+man *"what is right for him"*, the man confesses *"I have sinned"* (33:27), and God says *"I have found a
+ransom"* (33:24). **Job asked for an advocate who would vindicate the innocent; Elihu offers one who
+rescues the penitent** — which is much nearer the configuration of 1 John 2:1 than anything Job said,
+and which, for the reason the prologue gives, does not fit Job's case. See [[Elihu Speaks in Anger]]
+and [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 
 **And the book's own resolution is stranger than either.** Job spends thirty chapters asking for
 someone to intercede for him, and the last thing he does before his fortunes turn is intercede for

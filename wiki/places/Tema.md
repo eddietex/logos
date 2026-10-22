@@ -29,8 +29,8 @@ east"* (1:3).
 
 Outside Job, Tema is the place whose people are told to bring water and bread to fugitives from
 battle (Isaiah 21:14) — the opposite of the dry wadi — and one of the distant peoples who must drink
-the cup of God's wrath in Jeremiah 25:23, listed as *"Dedan, Tema, Buz"*. Buz is the clan of Elihu,
-*"the son of Barachel the Buzite"* (Job 32:2), so the book of Job's minor names keep returning to
+the cup of God's wrath in Jeremiah 25:23, listed as *"Dedan, Tema, Buz"*. [[Buz]] is the clan of
+[[Elihu the Buzite]], *"the son of Barachel the Buzite"* (Job 32:6), so the book of Job's minor names keep returning to
 the same corner of Arabia. Outside Scripture, Tayma is where the last Babylonian king, Nabonidus,
 spent about ten years of his reign in the sixth century BC, leaving Belshazzar as regent in Babylon.
 

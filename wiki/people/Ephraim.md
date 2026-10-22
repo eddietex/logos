@@ -133,4 +133,3 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
 - [[Adoption]]
 - [[Suffering]]
 - [[The Nations]]
-</content>

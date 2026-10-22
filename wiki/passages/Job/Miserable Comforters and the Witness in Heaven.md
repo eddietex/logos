@@ -204,7 +204,7 @@ the earth under him, and heaven above.
 - [[There Is No Umpire Between Us]] — Job 9:32–33, *"There is no umpire between us, that might lay his hand on us both"*, the first
   reach for the figure of 16:19.
 - Job 19:25–27 — *"I know that my Redeemer lives"*, the same appeal at its most confident.
-- Job 33:23–24 — Elihu's *"angel, an interpreter, one among a thousand"*, offered as the answer
+- [[Elihu Speaks in Anger]] — Job 33:23–24, Elihu's *"angel, an interpreter, one among a thousand"*, offered as the answer
   to this request.
 - Job 42:7 — the verdict on who spoke rightly, which this passage makes hardest to accept and most
   necessary to hold.

@@ -82,4 +82,3 @@ the Wadi el-Arish on the border rather than the Nile; see
   17–24, [[Pharaoh's Dreams and Joseph's Rise]]
 - The infant Moses set among the reeds and drawn out — Exodus 2:1–10 *(not yet ingested)*
 - Turned to blood, the first plague — Exodus 7:17–21 *(not yet ingested)*
-</content>

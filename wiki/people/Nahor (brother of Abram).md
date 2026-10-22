@@ -36,8 +36,8 @@ the same number as Ishmael's
 twelve princes and Jacob's twelve sons, and by the same arithmetic of a wife plus a second woman. See
 [[Twelve Sons - Nahor, Ishmael, and Jacob]].
 
-**The eleven other names are a map rather than a family.** Uz and Buz are lands (Job 1:1;
-Lamentations 4:21; Jeremiah 25:23); Kemuel is *"the father of Aram"*, so the Arameans are his
+**The eleven other names are a map rather than a family.** Uz and Buz are lands ([[Uz]], [[Buz]];
+Job 1:1; 32:2; Lamentations 4:21; Jeremiah 25:23 — Buz the clan of [[Elihu the Buzite]]); Kemuel is *"the father of Aram"*, so the Arameans are his
 grandsons; **Chesed** stands behind *Kaśdîm*, the **Chaldeans** of [[Ur of the Chaldees]], the city
 his brother left; Maacah is a small Aramean kingdom below Hermon (Deuteronomy 3:14; 2 Samuel 10:6);
 Tebah is plausibly the town David plunders at 2 Samuel 8:8. Hazo, Pildash, Jidlaph, Gaham, and Tahash

@@ -199,6 +199,11 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
   my arm be broken from the bone"*), 22:6's naked stripped (31:19–20), and 22:24's gold (31:24–25) are
   each denied under a curse on Job himself. See
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+- [[Elihu Speaks in Anger]] — Job 32–33; one of *"these three men"* who *"ceased to answer Job"* (32:1),
+  and the friend Elihu answers most closely. His credential of age (*"the gray-headed and the very aged
+  men"*, 15:10) is overturned at 32:7–9, and his night vision (4:13) is quoted word for word at 33:15 and
+  given a purpose — a warning to turn a man from pride. His *"happy is the man whom God corrects"*
+  (5:17) becomes Elihu's whole account of the sickbed (33:19–30).
 
 ## Related people
 
@@ -206,7 +211,7 @@ Job's own testimony (29:12–17); the second by nothing. Nothing about Job is le
 - [[Bildad the Shuhite]] and [[Zophar the Naamathite]] — the other two friends, who follow his lead
   in each cycle.
 - [[God]] — whom he defends throughout and is rebuked by at the end.
-- **Elihu** — the fourth speaker, who at 32:9 (*"It is not the great who are wise, nor the aged who
+- [[Elihu the Buzite]] — the fourth speaker, who at 32:9 (*"It is not the great who are wise, nor the aged who
   understand justice"*) contradicts the credential Eliphaz claims at 15:10, and who is nonetheless
   not included in God's rebuke at 42:7.
 - [[Eliphaz (son of Esau)]] — Genesis 36:4, 10–11 names a son of Esau called Eliphaz whose own son is

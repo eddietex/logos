@@ -160,6 +160,10 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   father, asking for a grave.** **The courtesy formula that has run through the book since 18:3 is
   used by an entire country and by a patriarch in the same paragraph**, to a man who was a slave in
   that country twenty years earlier
+- [[Elihu Speaks in Anger]] — Job 33:24, 26; *"then God is gracious to him"* (*wayyəḥunnennû*) and *"he is favorable to
+  him, so that he sees his face with joy"*. The friends all promised restoration in return for repentance
+  (5:17–26; 8:5–7; 11:13–19; 22:21–30); **Elihu puts grace first** — God is gracious and finds a ransom
+  (33:24) before the man confesses (33:27).
 
 ## Related themes
 

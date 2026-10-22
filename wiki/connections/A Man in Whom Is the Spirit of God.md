@@ -17,6 +17,8 @@ tags: [connection]
 - **Numbers 27:18** — Joshua, *"a man in whom is the Spirit"*
 - **Judges 3:10; 6:34; 11:29; 14:6** — the Spirit coming on the judges, for a task and then leaving
 - **1 Samuel 16:13–14** — the Spirit comes on David and departs from Saul in one verse
+- **Job 32:8; 33:4** — Elihu: *"there is a spirit in man, and the breath of the Almighty gives them
+  understanding"*; *"The Spirit of God has made me"* — [[Elihu Speaks in Anger]]
 - **Daniel 4:8–9, 18; 5:11, 14** — Nebuchadnezzar and Belshazzar on Daniel: *"in whom is the spirit of
   the holy gods"*
 - **Isaiah 11:2; 42:1; 61:1** — the Spirit resting on a coming figure, permanently
@@ -90,6 +92,14 @@ Isaiah 61:1's *"The Spirit of the Lord Yahweh is on me"* is the text Luke 4:18 h
 declared fulfilled. **John 3:34 states the contrast outright**: *"for he gives the Spirit without
 measure."*
 
+**Elihu claims the vocabulary for himself, and the claim is the problem.** *"Days should speak, and
+multitude of years should teach wisdom. But there is a spirit in man, and the breath of the Almighty
+gives them understanding. It is not the great who are wise"* (Job 32:7–9). It is the Genesis 41 claim in
+the first person — understanding that does not come from training, or here from age — and *"The Spirit
+of God has made me"* (33:4) grounds it in creation, *rûaḥ-ʾēl* and *nišmat šadday*, rather than in a
+special gift. **Pharaoh said it of Joseph; Elihu says it of himself**, and the book gives no one a line
+confirming it. See [[Elihu Speaks in Anger]] and [[Wisdom]].
+
 **The line from Genesis 41 to there is not a prediction and this page does not claim one.** What it is
 **is a vocabulary**: the Bible's way of saying that a person is doing something they could not have been
 trained to do **starts with an Egyptian king trying to explain what just happened in his throne room.**
@@ -104,4 +114,3 @@ correctly and told the truth about where the reading came from.**
 **For the wiki's purposes the practical point is the pattern**: the Spirit of God in the Hebrew Bible
 lands most often on people doing concrete work under pressure, **and Genesis 41:38 is where the pattern
 begins.**
-</content>

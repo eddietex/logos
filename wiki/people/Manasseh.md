@@ -137,4 +137,3 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - [[Adoption]]
 - [[Suffering]]
 - [[Blessing]]
-</content>

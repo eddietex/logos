@@ -172,6 +172,11 @@ to go.
   only use of the name in Job that is not a place beside Sheol (26:6) or a speaker beside Death (28:22),
   but the measure of how far a sin burns. See
   [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
+- [[Elihu Speaks in Anger]] — Job 33:18–30; ***šaḥat*, the pit**, five times in thirteen verses, the
+  one Hebrew word Elihu uses for the destination. It is the place a man is *kept back* from (33:18) and
+  *draws near to* (33:22), and from which he is ransomed (33:24), redeemed (33:28), and brought back
+  *"that he may be enlightened with the light of the living"* (33:30). Job's Sheol was a place no one
+  returns from (7:9); **Elihu's pit is one a man can be turned back from at the edge.**
 
 ## Related places
 

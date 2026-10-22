@@ -16,7 +16,8 @@ tags: [connection]
 - **Psalm 94:12** — *"Blessed is the man whom you discipline, Yah, and teach out of your law"*
 - **Deuteronomy 8:5** — *"as a man disciplines his son, so Yahweh your God disciplines you"*
 - **Job 33:14–30; 36:8–15** — Elihu's development of the same idea: God *"opens their ears to
-  instruction"* through pain, and *"delivers the afflicted by their affliction"* (36:15)
+  instruction"* (36:10), and *"delivers the afflicted by their affliction"* (36:15); at 33:19, *"He is
+  chastened also with pain on his bed"* — [[Elihu Speaks in Anger]]
 - **Hebrews 12:4–13** — Proverbs 3:11–12 quoted from the Septuagint (*"whom the Lord loves, he
   disciplines, and chastises every son whom he receives"*), and expounded: *"It is for discipline
   that you endure. God deals with you as with children."*
@@ -44,7 +45,12 @@ teaching is the same; the relationship that makes it bearable has been taken out
 **Elihu, later in the book, gives the discipline account its fullest statement.** Chapters 33 and
 36 describe God warning men through dreams and through pain on the sickbed so as to turn them from
 pride and keep them from the pit. Elihu is not rebuked at 42:7, and many readers take his speeches
-as a corrective that moves closer to the truth than the friends. But Elihu's account rests on the
+as a corrective that moves closer to the truth than the friends. In chapter 33 the pain is one of
+two ways God *speaks* — *"For God speaks once, yes twice"* (33:14), first by dream and then by sickness
+— and *chastened* (33:19) is *yākaḥ*, the root of the *mōkîaḥ*, the umpire, Job said did not exist
+(9:33) and Elihu says the friends failed to be (32:12). The pain is a warning before the sin, sent
+*"that he may withdraw man from his purpose, and hide pride from man"* (33:17), and it ends with an angel,
+a ransom, and a confession (33:23–28). See [[Elihu Speaks in Anger]]. But Elihu's account rests on the
 same premise as Eliphaz's: that the pain is aimed at something in the sufferer that needs
 correcting.
 

@@ -190,7 +190,12 @@ speeches; each becomes a linked passage page as it is ingested.
   poor, gold, the sun and moon, an enemy's ruin, the stranger, and hidden sin *"like Adam"* (31:33) —
   each under a curse on himself if it is true. Then his signature and the demand for a written
   indictment (31:35), and *"The words of Job are ended"* (31:40).
-- **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
+- **Job 32–33** — [[Elihu Speaks in Anger]]. A fourth speaker, [[Elihu the Buzite]], angry at Job for
+  justifying himself and at the friends for condemning him without an answer. **The first to call Job by
+  name and the first to quote him** (33:9–11, once word for word from 13:27); offers himself as the
+  man of clay Job asked for (33:6–7) and an angel-interpreter who finds a ransom (33:23–24), and ends
+  *"I desire to justify you"* (33:32). Job does not answer.
+- **Job 34–37** — Elihu's three further speeches; nobody answers them either.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
 - **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
@@ -375,6 +380,13 @@ speeches; each becomes a linked passage page as it is ingested.
   indictment as a crown and approach God *"as a prince"* (31:36–37), and stops. **Speaks of God
   throughout and to him nowhere.** See [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] and
   [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]].
+- [[Elihu Speaks in Anger]] — Job 32:1–33:33; **silent, addressed, and quoted.** The friends stop
+  *"because he was righteous in his own eyes"* (32:1) — their verdict, not the narrator's — and Elihu is
+  angry *"because he justified himself rather than God"* (32:2). Called by name (33:1, 31), which no
+  friend ever does, and quoted: *"He puts my feet in the stocks. He marks all my paths"* (33:11) is 13:27.
+  His body is described without being named — the bones, the bread his life abhors, the flesh wasted to
+  the bone (33:19–22) — as one of God's two ways of speaking. Invited twice to answer (33:5, 32); does
+  not. See [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 
 ## Related people
 
@@ -396,7 +408,8 @@ speeches; each becomes a linked passage page as it is ingested.
   call her foolish** — the Hebrew convicts her sentence and not her — **and he answers in the
   plural**, which is the only acknowledgement anywhere in the book that she buried the same ten
   children.
-- **Elihu** — a fourth speaker, introduced at 32:2 without warning and unmentioned in the epilogue.
+- [[Elihu the Buzite]] — a fourth speaker, introduced at 32:2 without warning and unmentioned in the
+  epilogue; the only speaker who quotes Job and calls him by name, and the one Job never answers.
 - **Noah and Daniel** — named with Job at Ezekiel 14:14, 20 as three men whose righteousness would
   save only themselves; see [[Noah]] and
   [[Blameless Before Anyone Is Watching]]. The pairing is the earliest evidence outside this book

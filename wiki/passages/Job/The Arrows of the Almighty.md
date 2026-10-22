@@ -316,8 +316,8 @@ missing him.
 - Job 9:21 and 42:6 — *māʾas* again, from *"I despise my life"* to *"I abhor myself."*
 - Job 14:14 — *ṣābāʾ*, *"all the days of my warfare"*, the conscript service of 7:1 — [[Though He Slay Me]].
 - Job 16:12 — *"he has also set me up for his target"*, the archer of 6:4 returning.
-- Job 33:14–18 — Elihu answering 7:14: God speaks *"in a dream, in a vision of the night"* to turn
-  a man from pride.
+- [[Elihu Speaks in Anger]] — Job 33:14–18, Elihu answering 7:14: God speaks *"In a dream, in a vision
+  of the night"* to turn a man from pride.
 - Job 35:6 — Elihu answering 7:20: *"If you have sinned, what effect do you have against him?"*
 - [[Zophar's First Speech]] — Job 11:16, *"like waters that have passed away"*: 6:15's failing brook turned into a
   promise; and 11:12's wild donkey, the animal of 6:5.

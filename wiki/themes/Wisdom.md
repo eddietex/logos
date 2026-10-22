@@ -34,7 +34,7 @@ disqualifies each claim in turn.
   work.
 - **Job denies them all of it** — *"as for you all, come on now again; I shall not find a wise man
   among you"* (17:10) — and does not claim it for himself. What he claims is a case.
-- **Elihu claims it by inspiration against age** — *"It is not the great who are wise, nor the aged
+- **[[Elihu the Buzite]] claims it by inspiration against age** — *"It is not the great who are wise, nor the aged
   who understand justice"* (32:9) — which is the exact inversion of Eliphaz at 15:10, and Elihu is
   answered by nobody.
 - **Chapter 28 concludes that no one has it.** *"Where shall wisdom be found? … The deep says, 'It
@@ -176,6 +176,13 @@ close to the book's whole point about who may speak for the tradition. See
   The same verb, *ḥāqar*, is the miner's search (28:3) and God's (28:27). See
   [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] and
   [[Better Than Gold - The Price of Wisdom]]
+- [[Elihu Speaks in Anger]] — Job 32:7–9; 33:33; **wisdom as gift against wisdom as age.** *"I said, 'Days should speak,
+  and multitude of years should teach wisdom.' But there is a spirit in man, and the breath of the
+  Almighty gives them understanding. It is not the great who are wise, nor the aged who understand
+  justice."* Eliphaz's credential (15:10) and Job's half-concession (12:12) overturned by the youngest
+  man present, who claims the breath of Genesis 2:7 as his authority and ends *"I will teach you
+  wisdom"* (33:33). Half of chapter 28 — wisdom is given, not accumulated — without the other half,
+  that it belongs to God and is found in fearing him.
 
 ## Related themes
 
@@ -196,3 +203,4 @@ close to the book's whole point about who may speak for the tradition. See
 - [[Bildad the Shuhite]] — *"inquire of past generations"*
 - [[Zophar the Naamathite]] — whose 11:7–9 on divine inscrutability is good wisdom put to a bad use
 - [[God]] — who ends the book by asking the questions instead of answering them
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

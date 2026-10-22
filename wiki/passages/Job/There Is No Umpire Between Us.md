@@ -409,9 +409,9 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 - Job 14:14–15 — *ṣābāʾ* and *ḥălîpâ* again; *"You would call, and I would answer you"*, 9:16
   reversed; and *"you would have a desire to the work of your hands"*, 10:3 reversed: this speech
   turned toward hope.
-- Job 33:6–7, 23 — Elihu: *"I also am formed out of the clay. Behold, my terror shall not make you
-  afraid"* — he offers himself as the man-sized party of 9:32–35, and *"one among a thousand"* answers
-  9:3.
+- [[Elihu Speaks in Anger]] — Job 33:6–7, 23 — Elihu: *"I am also formed out of the clay. Behold, my
+  terror shall not make you afraid"* — he offers himself as the man-sized party of 9:32–35, and *"one
+  among a thousand"* answers 9:3. At 32:12 he says the friends had no *mōkîaḥ* for Job — 9:33's umpire.
 - Job 38:1; 40:6 — *min-hassəʿārâ*, the storm of 9:17 become the place God speaks from.
 - Job 38:31–33 — *"Can you bind the cluster of the Pleiades, or loosen the cords of Orion?"*, God's
   reply to 9:9.

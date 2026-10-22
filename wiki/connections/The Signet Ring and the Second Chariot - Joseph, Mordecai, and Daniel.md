@@ -89,4 +89,3 @@ Israelite community for the hero to save.**
 **Joseph has none**, which is the feature of the original that the copies do not reproduce: **the man in
 the second chariot has no people in that country at all**, and the seven years in which he is the most
 powerful foreigner in the world are the seven in which **his father believes he is dead.**
-</content>

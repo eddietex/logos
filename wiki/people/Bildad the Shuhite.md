@@ -185,6 +185,9 @@ book, and Bildad's name survives inside them.
   turned on me. They chase my honor as the wind"*** — *ballāhôt*, the terrors that *"chase him at his
   heels"* (18:11) and *"the king of terrors"* (18:14) — and the mockers called *bənê bəlî-šēm*, sons of
   no name, the namelessness Bildad promised the wicked (*"He shall have no name in the street"*, 18:17).
+- [[Elihu Speaks in Anger]] — Job 32–33; one of *"these three men"* who stop answering (32:1), condemned
+  by Elihu for having *"found no answer, and yet … condemned Job"* (32:3). His six verses were the last the
+  friends said.
 
 ## Related people
 

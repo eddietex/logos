@@ -1259,6 +1259,15 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   him? Didn't one fashion us in the womb?"* (31:15). To worship sun or moon would be to deny *"the God
   who is above"* (31:28). The oath ends with a summons — *"Let the Almighty answer me!"* (31:35) — and he
   does, at 38:1, without referring to a single item on the list.
+- **The God of [[Elihu Speaks in Anger]]** is the one who has not yet answered, described by a speaker
+  who says he already has. *"The Spirit of God has made me, and the breath of the Almighty gives me
+  life"* (33:4) — and *"the breath of the Almighty gives them understanding"* (32:8), so that wisdom is
+  his gift, not the property of the old. *"For God speaks once, yes twice, though man pays no
+  attention"* (33:14): by a dream in the night and by pain on the sickbed, to turn a man from pride and
+  keep him from the pit. And when an angel-interpreter stands by the man, *"God is gracious to him, and
+  says, 'Deliver him from going down to the pit, I have found a ransom'"* (33:24) — the ransom no man can
+  pay (Psalm 49:7), found by God. Elihu's anger is kindled four times (32:2–5); God's will be kindled
+  once, at 42:7, with the same words, and not against Elihu.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1630,6 +1639,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[Job's Oath of Innocence]] — the judge of Job's oath: the one who counts his steps (31:4) and is asked to
   weigh him (31:6), the common maker of Job and his slave (31:15), *"the God who is above"* (31:28), and
   *"the Almighty"* summoned to answer (31:35); spoken of, never addressed
+- [[Elihu Speaks in Anger]] — *"the Almighty"* whose breath gives life and understanding (32:8; 33:4);
+  who *"speaks once, yes twice"* by dream and by pain (33:14–22); and who is gracious and finds a ransom
+  (33:24) — described as speaking by the one speaker in the book God never answers
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

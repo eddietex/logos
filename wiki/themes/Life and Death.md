@@ -373,6 +373,10 @@ the rest of the canon.
   house appointed for all living"*** — *bêt môʿēd ləkol-ḥāy*, death as the one appointment every living
   thing keeps, said by a man who has asked for twenty chapters for a different appointment, with God.
   See [[Sitting in Dust and Ashes]].
+- [[Elihu Speaks in Anger]] — Job 33:4, 18–30; ***"The Spirit of God has made me, and the breath of the Almighty gives me
+  life"*** (33:4), Genesis 2:7 in the first person; and *šaḥat*, *the pit*, five times (33:18, 22, 24,
+  28, 30) — the death a warning, a mediator, and a ransom keep a man from, *"that he may be enlightened
+  with the light of the living"* (33:30).
 
 ## Related themes
 

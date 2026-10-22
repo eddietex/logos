@@ -13,6 +13,9 @@ tags: [connection]
   'Be careful that you don't speak to Jacob either good or bad'"* — [[Jacob's Flight from Laban]]
 - **Genesis 12:17** — the earlier and wordless version: Yahweh plagues Pharaoh's house, with no
   warning and no dream — [[Abram in Egypt]]
+- **Job 33:14–18** — Elihu's general rule: God speaks *"In a dream, in a vision of the night"* to
+  *"withdraw man from his purpose, and hide pride from man. He keeps back his soul from the pit"* —
+  [[Elihu Speaks in Anger]]
 - **Genesis 26:8–11** — Abimelech of Gerar works it out by looking out of a window, with no dream at
   all — [[Isaac in Gerar]]
 
@@ -71,5 +74,14 @@ the covenant.** See [[The Nations]], [[The Fear of God]], and [[Sinning Unwittin
 [[Beersheba]] (21:22–34); Laban and Jacob pile stones and swear at [[Galeed]]. **In Genesis, when God
 warns a foreigner off this family, the next thing that happens is a border being agreed**, and both
 borders are still standing when the book ends.
+
+**Job 33 turns the two scenes into a doctrine.** Elihu, an outsider to the covenant line himself,
+describes exactly what happened to Abimelech and Laban as God's ordinary practice with every man: *"In a
+dream, in a vision of the night, when deep sleep falls on men … he opens the ears of men, and seals
+their instruction, that he may withdraw man from his purpose"* (Job 33:15–17). The Genesis dreams stop a
+man before he harms someone else; Elihu's stop him before he harms himself, and he offers the rule to
+Job as the explanation of Job's own nightmares (7:14). **What Genesis narrates twice as an intervention,
+Elihu states as a law** — and applies to a man the reader knows was not being warned off anything. See
+[[Elihu Speaks in Anger]].
 
 See [[Prophecy and Vision]], [[Covenant]], and [[Oaths and Vows]].

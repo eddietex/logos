@@ -239,7 +239,7 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
   *yaḥălōp*, the verb of 4:15's passing spirit, used of a God who passes unseen.
 - Job 9:10 — *"He does great things past finding out; yes, marvelous things without number"*, Job
   quoting 5:9 almost word for word, about a God he can neither see nor summon.
-- Job 33:15 — Elihu's *"In a dream, in a vision of the night, when deep sleep falls on men"*, the
+- [[Elihu Speaks in Anger]] — Job 33:15, Elihu's *"In a dream, in a vision of the night, when deep sleep falls on men"*, the
   second half of 4:13 repeated exactly; and Job 33:19; 36:8–15, Elihu's development of 5:17.
 - Job 42:7–9 — the verdict on this speech's speaker, and his restoration through the man he
   counselled.

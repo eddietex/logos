@@ -264,6 +264,11 @@ verdicts.
   iniquity?"* **Job still holds the doctrine.** He has argued since chapter 21 that it does not describe
   the world, and here he stakes his life on it as a rule for himself: every clause invokes a penalty that
   only a retributive God could execute. The oath is the friends' theology turned into a dare.
+- [[Elihu Speaks in Anger]] — Job 32:2–3; 33:12–30; **the doctrine revised, not dropped.** Elihu is angry at the friends
+  for condemning Job *"and yet"* having *"found no answer"* (32:3), and replaces the friends' sequence —
+  sin, then suffering as payment — with his own: suffering first, as a warning, so that the man turns
+  before the sin is done (33:16–18). But the sequence still ends in *"I have sinned, and perverted that
+  which was right"* (33:27), and its premise is still that the sufferer needs correcting.
 
 ## Related themes
 
@@ -288,3 +293,4 @@ verdicts.
   than he deserves
 - [[Job (person)]] — the case it cannot handle
 - [[God]] — who restores Job in the end, and who rebukes the men who predicted it
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

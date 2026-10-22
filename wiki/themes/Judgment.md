@@ -298,6 +298,9 @@ rule are the conditions the rest of Scripture is set in.
 - [[I Will Not Put Away My Integrity]] — Job 27:2; ***"who has taken away my right (mišpāṭî)"***.
   *Mišpāṭ* as Job's case, his due in court, removed by the judge himself; the lawsuit of chapters 9,
   13 and 23 reduced to one clause, inside an oath that appeals to the same God for the truth
+- [[Elihu Speaks in Anger]] — Job 32:2–5; *wayyiḥar ʾap*, the wrath *"kindled"* four times, against Job and against the
+  three friends — the anger God will express at 42:7 in the same words, against the three friends only,
+  and not at Elihu.
 
 ## Related themes
 

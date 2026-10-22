@@ -278,8 +278,8 @@ is the only comment the book ever makes on whether the oath was true.
 - [[Do Not Cover My Blood]] — 31:38.
 - [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] — 31:35's demand, and the answer Job gives
   when it is met.
-- Job 32:1 — *"So these three men ceased to answer Job, because he was righteous in his own eyes."* Not
-  yet ingested.
+- [[Elihu Speaks in Anger]] — Job 32:1, *"So these three men ceased to answer Job, because he was
+  righteous in his own eyes."*
 - Job 38:1–3; 40:4–5 — the answer from the whirlwind, and *"What shall I answer you?"*. Not yet
   ingested.
 - Job 42:7–8 — *"you have not spoken of me the thing that is right, as my servant Job has."* Not yet

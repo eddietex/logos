@@ -242,6 +242,11 @@ noticing into doctrine.
   their song. Yes, I am a byword to them"*** (30:9) — *nəgînātām*, the taunt-song of Lamentations 3:14
   and Psalm 69:12. The gate that fell silent for him (29:9–10, 21–22) has become a place where he is
   sung about.
+- [[Elihu Speaks in Anger]] — Job 32:6–33:33; **the speaker who is all speech.** *"I am full of words. The spirit within
+  me constrains me … like new wineskins it is ready to burst. I will speak, that I may be refreshed"*
+  (32:18–20). He promises no *"flattering titles"* (32:21), calls Job by name as no friend does (33:1,
+  31), opens his mouth in the phrase of 3:1 (33:2), and is **the first speaker to quote Job** — 33:11 is
+  13:27 word for word. And no one answers a word of it.
 
 ## Related themes
 
@@ -261,3 +266,4 @@ noticing into doctrine.
 - [[Lamech (son of Methushael)]] — the first man to sing about himself
 - [[Isaac]] — who says the word he cannot take back, and then says so
 - [[Rebekah]] — who quotes her husband with an addition, and says *obey my voice* three times
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

@@ -181,6 +181,10 @@ than his iniquity deserves. The reader knows which of the two is right.
 - [[Job's Oath of Innocence]] — Job 31, silent. His *"oh that God would speak"* (11:5) is Job's last wish
   too, *"Let the Almighty answer me!"* (31:35); and his *"If iniquity is in your hand, put it far away"*
   (11:14) is answered by *"if any defilement has stuck to my hands"* (31:7), a denial.
+- [[Elihu Speaks in Anger]] — Job 32–33; one of *"these three men"* who stop answering (32:1). His
+  version of Job — *"For you say, 'My doctrine is pure. I am clean in your eyes'"* (11:4) — is the one
+  Elihu repeats at 33:9, *"I am clean, without disobedience"*: the friends' summary of Job, not Job's
+  words.
 
 ## Related people
 

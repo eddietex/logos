@@ -112,4 +112,3 @@ flesh"* (Daniel 2:11).
 
 **Genesis 41 is where the pattern is set, and it sets it with a blank**: the whole guild of Egypt in one
 room, given a dream about cows, **with nothing to say.**
-</content>

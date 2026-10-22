@@ -76,7 +76,7 @@ what Job is asking for.
 - **Job 9:32–33; 16:19–21; 17:3; 19:25–27** — the four offices above.
 - **Job 33:23–24** — Elihu's proposal: *"If there is beside him an angel, an interpreter, one among
   a thousand, to show to man what is right for him; then God is gracious to him"* — the book's own
-  candidate for the figure, offered by the speaker nobody answers.
+  candidate for the figure, offered by the speaker nobody answers. See [[Elihu Speaks in Anger]].
 - **Job 42:8–10** — the resolution nobody expects: Job intercedes *for the friends*, and God accepts
   him. The man who spent the book asking for an advocate ends it as one.
 - **Exodus 32:11–14, 30–32** — Moses standing in the breach, *"blot me, I pray you, out of your book
@@ -218,6 +218,13 @@ what Job is asking for.
   answer me! Let the accuser write my indictment!"* **The case filed without an advocate.** The umpire
   (9:33), the witness (16:19) and the redeemer (19:25) are not invoked; Job signs his own deposition
   (*tāw*, a mark) and asks only for a hearer and a written charge from *ʾîš rîbî*, the opposing party.
+- [[Elihu Speaks in Anger]] — Job 32:12; 33:6–7, 23–24; **the advocate offered, and changed.** The friends had no *mōkîaḥ*
+  for Job (32:12, *"no one who convinced Job"*) — 9:33's missing umpire. Elihu offers himself as the
+  man-sized party, *"formed out of the clay"*, whose *"terror shall not make you afraid"* (33:6–7), and
+  then describes *"an angel, an interpreter, one among a thousand"* (*malʾāk mēlîṣ*, 33:23) — Joseph's
+  *interpreter* (Genesis 42:23) — at whose word God says *"I have found a ransom"* (33:24). **Job's
+  advocate was to vindicate the innocent; Elihu's rescues the penitent.** See
+  [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 
 ## Related themes
 
@@ -243,3 +250,4 @@ what Job is asking for.
   speaking; see [[Do Not Cover My Blood]]
 - [[Abimelech (of Abraham's time)]] — the first person in Scripture whose life is made to depend on
   somebody else's prayer, and the first for whom one is offered
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

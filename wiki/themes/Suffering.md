@@ -222,6 +222,12 @@ requires only that you be standing outside it.
   me"*, 30:21), bodily (bones pierced at night, skin blackened and peeling, 30:17, 30), and inward (*"my
   soul is poured out within me"*, 30:16; *"My heart is troubled, and doesn't rest"*, 30:27). Set line
   for line against chapter 29, so that every pain is measured by the honour it replaced.
+- [[Elihu Speaks in Anger]] — Job 33:19–30; **suffering as speech.** *"For God speaks once, yes twice"* (33:14): by a
+  dream, and by *"pain on his bed, with continual strife in his bones"* (33:19) — Job's own body
+  described, unnamed, down to the bones that *"stick out"* (33:21). The pain is a warning, sent to
+  *"withdraw man from his purpose, and hide pride from man"* (33:17), and it ends with an angel, a
+  ransom, and restored flesh *"fresher than a child's"* (33:25). The fullest statement of the discipline
+  account in the book, and one the prologue has already excluded for Job (2:3).
 
 ## Related themes
 
@@ -241,3 +247,4 @@ requires only that you be standing outside it.
 - [[Eliphaz the Temanite]], [[Bildad the Shuhite]], [[Zophar the Naamathite]] — the comforters, and
   what not to do
 - [[God]] — the one Job accuses, appeals to, and is finally answered by, in that order
+- [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

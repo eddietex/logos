@@ -915,5 +915,3 @@ now go to Egypt to buy from him**, and **the sheaves of 37:7 bow in 42:6.** See
     later Jewish tradition made the identification and gave Asenath to Potiphar's wife as a daughter.
     **Genesis offers not one word of support**: different spellings, different offices, different cities.
     **Recorded as a name coincidence; the identification is not adopted.**
-</content>
-</invoke>
