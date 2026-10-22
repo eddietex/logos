@@ -1308,6 +1308,11 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   is mine"* (41:10–11), the line Paul quotes at Romans 11:35. He describes Leviathan with open pleasure (41:12)
   and ends on him, *"king over all the sons of pride"* (41:34). There is no combat with the sea monster: God
   is not fighting him, and owes no one.
+- **The God of [[I Repent in Dust and Ashes]]** does not speak, and is answered. Job confesses him as the one
+  who *"can do all things"*, whose purpose *"can[not] be restrained"* (42:2) — Babel's sentence about humanity
+  (Genesis 11:6), given back to God — quotes his charge and his summons (42:3–4), and says *"now my eye sees
+  you"* (42:5). Nothing in the whirlwind speeches is described as seen; what Job calls seeing is being
+  addressed.
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1462,6 +1467,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - Speaks out of the whirlwind again; asks *"Will you condemn me, that you may be justified?"*; offers Job the
   office of judging the proud; describes Behemoth and Leviathan, and says *"Who has first given to me, that I
   should repay him?"* — Job 40:6–41:34, [[Behemoth and Leviathan]]
+- Confessed by Job as able to *"do all things"*, and *seen*: *"now my eye sees you"* — Job 42:1–6,
+  [[I Repent in Dust and Ashes]]
 
 ## Appears in
 
@@ -1707,6 +1714,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   as you"* (40:15); Leviathan, unhookable and unwakeable (41:1–10); *"Who has first given to me … Everything
   under the heavens is mine"* (41:11); fire and smoke in the theophany's words (41:18–21; Psalm 18:8); and the
   last line, *"king over all the sons of pride"* (41:34). Names no sin and gives no reason
+- [[I Repent in Dust and Ashes]] — *Yahweh*, answered (42:1); confessed as one whose *"purpose … can[not] be
+  restrained"* (42:2); quoted from 38:2 and 38:3 / 40:7 (42:3–4); *seen* (42:5). Does not speak
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

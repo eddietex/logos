@@ -295,6 +295,10 @@ will finally go both ways.
   righteous"* (36:7); *"All men have looked on it. Man sees it afar off"* (36:25); *"Now men don't see the
   light which is bright in the skies"* (37:21); and the last line, God *"doesn't regard"* — *lōʾ-yirʾeh*,
   does not see — the wise of heart (37:24).
+- [[I Repent in Dust and Ashes]] — Job 42:5; **the ear exchanged for the eye.** *"I had heard of you by the hearing of the ear, but now
+  my eye sees you."* The dialogue's *"I don't see him"* (9:11; 23:9) ends, and the hope of 19:26–27, *"My eyes
+  shall see"*, is met before death. Nothing in chapters 38–41 is described as seen; what Job calls seeing is
+  being addressed. See [[Now My Eye Sees You - Hearing and Seeing in Job]].
 
 ## Related themes
 

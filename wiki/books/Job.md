@@ -173,6 +173,15 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   he is *"king over all the sons of pride"* (41:34). **No combat, no reason, no word of the wager — and the
   speeches end.**
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
+  Job's last words (42:1–6) are five verses to God, mostly quotation: *"I know that you can do all things, and
+  that no purpose of yours can be restrained"* (42:2) — Babel's *"nothing will be withheld from them"*
+  (Genesis 11:6), said of God — then 38:2 and 38:3 quoted back, and a confession of ignorance, not of sin:
+  *"things too wonderful for me, which I didn't know"* (42:3). Then the turn of the book, from the ear to the
+  eye: *"I had heard of you by the hearing of the ear, but now my eye sees you"* (42:5), 19:26–27's hope met.
+  And *"Therefore I abhor myself, and repent in dust and ashes"* (42:6) — Abraham's pair, the friends' verb
+  *nḥm*, and the most contested line in the book: an abasement, or *"I retract, and am comforted concerning
+  dust and ashes"*. **He says it on the ash-heap, before anything is restored** — the accuser's *"for
+  nothing"* (1:9) answered without the accuser.
 
 ## Pericopes
 
@@ -244,7 +253,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 
 ### Epilogue (42)
 
-- [ ] I Repent in Dust and Ashes — Job 42:1–6
+- [x] [[I Repent in Dust and Ashes]] — Job 42:1–6
 - [ ] The Restoration of Job — Job 42:7–17
 
 ## Key themes
@@ -270,6 +279,8 @@ itself** where one stands out, since his replies are where the book's memorable 
 - [[Life and Death]]
 - [[Creation]] — the whirlwind's subject: the earth's foundation, the sea's doors, the houses of light and
   darkness, and the stars of 9:9 under law (38:4–33)
+- [[Seeing and Being Seen]] — *"I don't see him"* (9:11; 23:9), the hope of 19:26–27, and *"now my eye
+  sees you"* (42:5)
 - [[Providence]] — rain *"on a land where no man is"* (38:26), and the lioness and the raven fed (38:39–41)
 - [[Pride and Self-Exaltation]] — the proud Job is told to bring low (40:11–12), and Leviathan, *"king over all
   the sons of pride"* (41:34)

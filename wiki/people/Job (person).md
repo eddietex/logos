@@ -221,7 +221,12 @@ speeches; each becomes a linked passage page as it is ingested.
   can save you"* (40:14). Shown Behemoth, *"which I made as well as you"* (40:15), and Leviathan, the creature
   he called on at 3:8, whom *"none is so fierce that he dare stir … up"* (41:10). Told *"Lay your hand on him …
   do so no more"* (41:8) — a hand he had laid on his own mouth at 40:4. He does not answer within the speech.
-- **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
+- **Job 42:1–6** — [[I Repent in Dust and Ashes]]. His last words, to God: *"I know that you can do all
+  things"* (42:2); 38:2 and 38:3 quoted back, and a confession of ignorance, not of sin — *"things too
+  wonderful for me, which I didn't know"* (42:3). Then *"I had heard of you by the hearing of the ear, but now
+  my eye sees you"* (42:5) — the hope of 19:26–27 met — and *"Therefore I abhor myself, and repent in dust and
+  ashes"* (42:6), a contested line that may also be read *"I retract, and am comforted concerning dust and
+  ashes"*. **Said on the ash-heap, before anything is restored.**
 - **Job 42:7–17** — God rebukes the three friends and has Job pray for them; Job's fortunes are
   doubled, and he is given ten more children and four generations of descendants.
 
@@ -442,6 +447,14 @@ speeches; each becomes a linked passage page as it is ingested.
   Leviathan (3:8) by a Leviathan no one dares rouse (41:10), and his *"You have turned to be cruel (ʾakzār) to
   me"* (30:21) by the same word at 41:10. Still not accused of any sin. See
   [[Who Has First Given to Me - Job 41.11 in Romans 11.35]].
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **his last words, and a confession of ignorance, not of
+  guilt.** He gives the arm God offered him back to God (42:2, against 40:9), quotes the charge and the
+  summons (42:3–4), and says what the hearing did: *"now my eye sees you"* (42:5), the eye of 19:27 and the
+  answer to 9:11 and 23:9. His last verb, *niḥamtî* (42:6), is the friends' *comfort* (2:11; 16:2) and God's
+  *was sorry* (Genesis 6:6), and the line can be read as abasement or as consolation; either way it is not
+  the integrity of 27:5 that he gives up, since God says next that he spoke rightly (42:7). **He says it with
+  nothing restored**, which answers the accuser's *"for nothing?"* (1:9). See
+  [[Now My Eye Sees You - Hearing and Seeing in Job]] and [[Sitting in Dust and Ashes]].
 
 ## Related people
 

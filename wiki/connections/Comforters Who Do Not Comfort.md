@@ -21,6 +21,8 @@ tags: [connection]
 - **Job 30:25, 31** — *"Didn't I weep for him who was in trouble?"*, and *"my harp has turned to
   mourning, and my pipe into the voice of those who weep"*: the comforter of 29:25 become the mourner,
   and nobody in the chapter comforting him — [[Now They Mock Me]]
+- **Job 42:6** — *"Therefore I abhor myself, and repent (niḥamtî) in dust and ashes"*: the root *nḥm* in
+  Job's last line, where it may mean *repent* or *be comforted* — [[I Repent in Dust and Ashes]]
 - **Job 42:11** — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
   brothers have dealt deceitfully as a brook"* — [[The Arrows of the Almighty]]
@@ -102,6 +104,14 @@ the root behind Noah's name and the hope attached to it at Genesis 5:29 (see
 comfort"* and human comforting a pass-through of what was received. **Job 2–16 is the same verb
 failing in human hands**, and the book does not offer a technique to fix it; it offers a week of
 silence that worked and twenty-five chapters of argument that did not.
+
+**One more *nḥm* stands between the two, and it is Job's own** (added on ingesting
+[[I Repent in Dust and Ashes]]). His last words are *"Therefore I abhor myself, and repent (niḥamtî) in dust
+and ashes"* (42:6). The niphal of *nḥm* can mean *to repent, to change one's mind*, or *to be comforted*,
+and the clause is contested (see [[Sitting in Dust and Ashes]]). If it is *comforted*, **the book's comfort
+arrives in this verse, from God's speech and not from any human speaker** — after the friends' failure and
+before the family's success. If it is *repent*, the verb is still the same one the friends came to perform.
+The wiki does not decide the clause; it records that the root is here.
 
 ## Significance
 

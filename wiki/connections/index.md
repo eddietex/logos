@@ -219,7 +219,7 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Renounce God and Die - The Euphemism and the Accuser's Prediction]] | parallel | Job 2:9 · Job 1:5, 11, 21 · Job 2:3, 5 · Genesis 3:1–6, 17 · 1 Kings 21:10, 13 · Job 27:5–6 |
 | [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
-| [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 |
+| [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:6 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 · Job 11:17 · Job 12:15, 22–25 |
 | [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] | parallel | Job 3:1–12 · Jeremiah 20:14–18 · Job 10:18–19 · Ecclesiastes 4:2–3; 6:3–5 · Jonah 4:3, 8 · 1 Kings 19:4 · Matthew 26:24 |
@@ -267,3 +267,5 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Who Has First Given to Me - Job 41.11 in Romans 11.35]] | quotation | Job 41:11 · Romans 11:33–36 · Isaiah 40:13–14 · Job 22:2–3 · Job 35:7 · Job 1:9 · 1 Corinthians 3:19 |
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
 | [[Smoke from His Nostrils - Leviathan and the Theophany of Psalm 18]] | image | Job 41:18–21 · Psalm 18:7–8 · Job 41:10 · Job 3:9 · Job 37:2–5; 40:9 |
+| [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] | allusion | Job 42:2 · Genesis 11:6 · Job 40:9 · Genesis 18:14 |
+| [[Now My Eye Sees You - Hearing and Seeing in Job]] | thread | Job 42:5 · Job 4:12, 16 · Job 9:11 · Job 13:1 · Job 19:26–27 · Job 23:8–9 · Job 26:14 · Job 28:22 · Job 29:11 · Isaiah 6:5 · Matthew 5:8 · James 5:11 · 1 John 3:2 |

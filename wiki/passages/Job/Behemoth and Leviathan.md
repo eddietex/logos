@@ -355,7 +355,7 @@ things"* (42:2), and it is a reply to this.
 - Isaiah 2:11–12; Luke 1:51–52 — the proud brought low, the work Job is offered at 40:11–12.
 - Revelation 12:9 — *"the great dragon … the old serpent, he who is called the devil and Satan"*: where
   the sea-dragon tradition ends up, and a reading Job 41 itself does not make.
-- Job 42:1–6 — Job's second answer: *"I know that you can do all things"*. Not yet ingested.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6: Job's second answer, *"I know that you can do all things"*.
 
 ## Notes
 

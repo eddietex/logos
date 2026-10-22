@@ -937,6 +937,11 @@ arrive.
   Jacob."* **The last words of the promise in Genesis are his name and two others', spoken by a man
   in Egypt who will not live to see any of it.** See [[Covenant]] and
   [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]]
+- [[I Repent in Dust and Ashes]] — Job 42:6; **not named, but his phrase is in Job's last line.** *ʿāpār wāʾēper*,
+  *"dust and ashes"*, said by Abraham when he dared to speak to the Lord about Sodom (Genesis 18:27), is said by
+  Job at 30:19 and again in his last words to God (42:6). Both men use it at the moment they speak to God with
+  no standing to do so, and both then intercede — Abraham for Sodom, Job for the friends (42:8–10). See
+  [[Sitting in Dust and Ashes]]
 
 ## Related people
 

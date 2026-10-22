@@ -393,6 +393,7 @@ in effect, without an answer to this chapter.
 - [[Elihu on God's Greatness]] — Job 37:23, *"We can't reach the Almighty"* — *lōʾ məṣāʾnūhû*, *we have
   not found him*, 23:3's verb — and 37:19's *naʿărōk*, the *"set my cause in order"* of 23:4, declared
   impossible *"by reason of darkness"*.
+- [[I Repent in Dust and Ashes]] — Job 42:5, *"now my eye sees you"*, against 23:9's *"I can't see him"*.
 
 ## Notes
 

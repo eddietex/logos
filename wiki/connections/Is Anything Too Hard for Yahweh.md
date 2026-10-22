@@ -17,7 +17,9 @@ tags: [connection]
 - **Zechariah 8:6** — *"If it is marvelous in the eyes of the remnant of this people in those days,
   should it also be marvelous in my eyes?"*
 - **Job 42:2** — *"I know that you can do all things, and that no purpose of yours can be
-  restrained."*
+  restrained."* — [[I Repent in Dust and Ashes]]; and 42:3, *"things too wonderful (niplāʾôt) for me"*,
+  the *p-l-ʾ* of Genesis 18:14. See also
+  [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]].
 - **Luke 1:37** — *"For nothing spoken by God is impossible."*
 - **Matthew 19:26; Mark 10:27; Luke 18:27** — *"With men this is impossible, but with God all
   things are possible."*

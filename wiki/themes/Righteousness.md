@@ -255,6 +255,10 @@ about.
   (taršîʿēnî) me, that you may be justified (tiṣdāq)?"* — the form of Job's *"Do not condemn me"* (10:2) and the
   verb of his *"I hold fast to my righteousness"* (27:6). God does not deny Job's righteousness; he refuses the
   lawsuit's terms, in which it required his own condemnation.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **the confession of the man God calls right.** Job withdraws what he said
+  without knowledge (42:3), not the righteousness he held to (27:6); and in the next pericope God says Job spoke
+  *"the thing that is right"* (42:7). The second speech's *"that you may be justified"* (40:8) is not taken
+  up — Job does not justify himself again.
 
 ## Related themes
 

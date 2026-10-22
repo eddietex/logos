@@ -264,6 +264,10 @@ noticing into doctrine.
   procedure; and Job's reply is to stop: *"I lay my hand on my mouth. I have spoken once, and I will not
   answer; Yes, twice, but I will proceed no further"* (40:4–5). See
   [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]].
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **the last words of the speaker who spoke most.** Five verses, two of them
+  quotations of God (42:3a from 38:2; 42:4b from 38:3 / 40:7), and one confession about speech itself: *"I have
+  uttered that which I did not understand"* (42:3). The man who said *"I will proceed no further"* (40:5)
+  speaks once more, and then the book gives him no further lines.
 
 ## Related themes
 

@@ -16,9 +16,9 @@ tags: [connection]
   knowledge"* (37:16), of God — [[Elihu on God's Greatness]]
 - **Job 38:2** — Yahweh, his first words out of the whirlwind: *"Who is this who
   darkens counsel by words without knowledge?"* — [[Out of the Whirlwind]]
-- **Job 42:3** *(not yet ingested)* — Job, quoting it back in his reply: *"You asked, 'Who is this who
+- **Job 42:3** — Job, quoting it back in his reply: *"You asked, 'Who is this who
   hides counsel without knowledge?' therefore I have uttered that which I did not understand, things
-  too wonderful for me, which I didn't know."*
+  too wonderful for me, which I didn't know."* — [[I Repent in Dust and Ashes]]
 - **Job 42:7** *(not yet ingested)* — Yahweh to Eliphaz: *"you have not spoken of me the thing that is
   right, as my servant Job has."*
 - **Job 15:2–3** — Eliphaz, the first to fault Job's words as wind: *"Should a wise man answer with vain
@@ -34,6 +34,12 @@ once (38:2), and Job makes it of himself (42:3). In Hebrew the phrase is the sam
 *lōʾ bədaʿat* at 34:35, *bibəlî-daʿat* at 35:16, *bəlî-dāʿat* at 38:2 and 42:3 — *without knowledge*,
 attached three times to Job's *words* (*dəbārāyw* at 34:35, *millîn* at 35:16 and 38:2). No other
 speaker in the book is charged with it.
+
+**The quotation at 42:3 is not exact** (added on ingesting [[I Repent in Dust and Ashes]]). The
+phrase *without knowledge* is the same, but the verb is not: at 38:2 the speaker *darkens* counsel
+(*maḥšîḵ*) *by words* (*bəmillîn*); at 42:3 he *hides* it (*maʿlîm*), and *by words* is gone. "The same at
+its core" above stands for *bəlî-dāʿat*; it does not extend to the verb. The wiki records the
+difference and does not build an argument on it, since quotation in Hebrew poetry is often loose.
 
 The sequence is the problem. **The last thing Elihu says about Job before God speaks is the first
 thing God says about Job.** Elihu ends chapter 35 on *"multiplies words without knowledge"*; chapters
@@ -105,6 +111,6 @@ the beginning of four chapters of questions Job is meant to try to answer.
   evidence has to be weighed against 42:7 every time it is used.
 - It makes the book's verdict on Job two-sided in the book's own words: wrong in what he claimed to
   know, right in what he said. Neither half cancels the other.
-- It gives Job's surrender at 42:3 its exact content. He does not confess the sins the friends and
+- It gives Job's surrender at 42:3 its exact content (see [[I Repent in Dust and Ashes]]). He does not confess the sins the friends and
   Elihu named; he confesses the one charge God made.
 - See [[Language and Speech]], [[Wisdom]], [[Elihu the Buzite]], and [[Righteousness]].

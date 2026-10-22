@@ -158,6 +158,9 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   two outcomes — listen and prosper, refuse and *"die without knowledge"* (36:11–12). God was alluring Job
   *"out of distress, into a wide place"* (36:16); Job, Elihu says, has *"chosen this rather than
   affliction"* (36:21). A test that teaches is Elihu's account; the prologue's is a test that proves.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **the test of 1:9–11 ends, and the one tested never hears of it.** The prediction
+  was *"he will renounce you to your face"* (1:11; 2:5); Job's last words are *"now my eye sees you"* (42:5),
+  spoken before anything is returned. The prologue's test is the one that proves, and here it has proved.
 
 ## Related themes
 

@@ -175,3 +175,9 @@ is the strongest thing said here and the easiest to have overstated. *Out of the
 checked (see above): the order claim is corrected, the correspondences stand. [[Behemoth and Leviathan]] has
 now been checked as well (see the second check above): one number is corrected, one correspondence is
 added, and the claims about Leviathan stand.
+
+**Job's reply (2026-10-22).** [[I Repent in Dust and Ashes]] (42:1–6) is the acceptance this page relies
+on, and it holds as stated: Job quotes the charge of 38:2 and the summons of 38:3 (42:3–4), confesses
+that he spoke *"things too wonderful for me"*, and asks for no reason. He takes up none of chapter 3's
+images in his reply — except that the *darkening* of counsel at 38:2, the word with chapter 3 in it,
+becomes *hiding* (*maʿlîm*) when he repeats it (42:3). Recorded as an observation only.

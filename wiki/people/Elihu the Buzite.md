@@ -106,6 +106,10 @@ later addition; the wiki records that view and reads the book as received.
   is righteous and mighty?"*, is the question God asks Job at 40:8; his *"voice of his majesty"* (37:4) is the
   thunder of 40:9; and his *"what do you give him?"* (35:7) is said by God, without Elihu's conclusion, at
   41:11.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6, **not named.** The first half of 42:4, *"Listen, now, and I
+  will speak"*, is in neither of God's speeches; its nearest wording in the book is Elihu's *"Hold your peace,
+  and I will speak"* (33:31) — or Job's own 13:22. And Job's *"I have uttered that which I did not understand"*
+  (42:3) concedes Elihu's *"without knowledge"* (34:35; 35:16) in God's words, not his.
 
 ## Related people
 

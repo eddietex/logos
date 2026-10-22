@@ -416,7 +416,8 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
   speaks from.
 - [[Out of the Whirlwind]] — Job 38:31–33 — *"Can you bind the cluster of the Pleiades, or loosen the
   cords of Orion?"*, God's reply to 9:9.
-- Job 42:5 — *"now my eye sees you"*, against 9:11 and 9:16.
+- [[I Repent in Dust and Ashes]] — Job 42:5, *"now my eye sees you"*, against 9:11 and 9:16; 42:6, *ʾemʾas*, the
+  form of 9:21.
 - [[Zophar's First Speech]] — Job 11, the reply, built out of this speech's words: *yiṣdaq* (9:2 → 11:2), *mock* (9:23 →
   11:3), *passes by* and *who can hinder him* (9:11–12 → 11:10), the unlifted head (10:15 → 11:15),
   and the darkness (10:22 → 11:17).

@@ -232,6 +232,9 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[Behemoth and Leviathan]] — Job 41:9–11, 33; **fear argued from a creature to its maker.** *"None is so fierce
   that he dare stir him up. Who then is he who can stand before me?"* (41:10). Leviathan himself is *"made
   without fear"* (41:33) — the one creature with no fear in it, held up to teach the fear of God.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **fear for nothing.** The accuser's question was whether Job fears God *ḥinnām*
+  (1:9). Job's last words are spoken diseased, childless, and on the ash-heap, before the restoration of
+  42:10: confession, sight, and abasement, with nothing given back.
 
 ## Related themes
 

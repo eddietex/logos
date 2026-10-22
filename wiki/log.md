@@ -10755,3 +10755,73 @@ Jordan added. Indexes: books (30 / 32), people (4 rows), places (1 row), themes 
 revised), `wiki/index.md` (89 passages, 263 connections). `scripts/link-check.sh` clean.
 
 No contradiction between wiki pages found beyond the two corrections above.
+
+## [2026-10-22] ingest | Job 42.1-6 — I Repent in Dust and Ashes
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress` book in
+`wiki/books/index.md`, and the first unchecked box on its page was Job 42:1–6. **Boundary and title
+unchanged** from the plan: 42:1 (*"Then Job answered Yahweh"*) opens the reply, and 42:7 returns to prose.
+No collision with any other book. **Job is at 31 / 32.** No discussion step; it is written into the
+passage page.
+
+### The passage page
+
+[[I Repent in Dust and Ashes]], built around these findings:
+
+**1. 42:2 and Babel.** *Lōʾ-yibbāṣēr mimməkā məzimmâ* against Genesis 11:6's *lōʾ-yibbāṣēr mēhem kōl ʾăšer
+yāzəmû*: the same verb (*bṣr*) and root (*zmm*), human purpose God would not allow, confessed of God. Read as
+a real echo; intention not claimed. *Kətîb* *yādaʿtā* / *qərê* *yādaʿtî* recorded.
+
+**2. 42:3–4 as quotation.** 38:2 quoted with *maʿlîm* (*hides*) for *maḥšîḵ* (*darkens*) and without
+*bəmillîn*; 42:4b repeats 38:3 / 40:7; 42:4a is in neither speech, nearest Elihu's 33:31 and Job's 13:22.
+*You asked* / *You said* noted as the WEB's supply. *Niplāʾôt* (42:3) linked to Genesis 18:14's *p-l-ʾ*.
+
+**3. 42:5, ear to eye.** Against 4:12–16, 9:11, 13:1, 23:8–9, 26:14, 28:22, 29:11; 19:26–27's hope met.
+Nothing in 38–41 is described as seen; literal and non-literal readings of *seeing* recorded, not decided.
+
+**4. 42:6.** *ʾemʾas* without object (7:16; 9:21), *niḥamtî* (*nḥm* — the friends' *comfort* of 2:11, 16:2,
+21:34, 42:11, and God's *was sorry* / *relented* of Genesis 6:6, Exodus 32:14, Jonah 3:10), and *ʿal* (*in* /
+*concerning*). Two readings — abasement, or *"I retract, and am comforted concerning dust and ashes"* —
+recorded; the wiki does not choose. Either must fit 42:7.
+
+**5. The wager.** Job's last words come before the restoration (42:10), so the accuser's *"for nothing"*
+(1:9) and *"to your face"* (1:11; 2:5) are answered without him. Abraham's *dust and ashes* followed by
+intercession (Genesis 18:27–32), paired with Job's at 42:6 and 42:8–10.
+
+### Judgment calls
+
+No place page touched (none named; the ash-heap of 2:8 is noted). [[Abraham]] gets an entry for the phrase,
+not for any act. The Septuagint of 42:6 is mentioned as differing but not described, because it was not
+checked. Some commentators' view that 42:3a and 42:4 are insertions, or that 42:4 is Job's own request, is
+recorded, not adopted. The next pericope's title, *The Restoration of Job*, is not linked.
+
+### Connection pages
+
+Created (2): [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] and
+[[Now My Eye Sees You - Hearing and Seeing in Job]] (James 5:11's *heard* / *seen* recorded as a parallel; a
+deliberate echo of 42:5 is not claimed). Revised with analysis (5):
+[[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] (its *not yet ingested* marker on 42:3 removed;
+**nuanced**: "the same at its core" holds for *bəlî-dāʿat*, but the verb differs, *maḥšîḵ* / *maʿlîm* — added
+beside the original wording, not over it; the 42:7 marker is left for the next pericope),
+[[Sitting in Dust and Ashes]] (the *nḥm* link and the before-restoration point), [[Comforters Who Do Not Comfort]]
+(42:6 added between 2:11 and 42:11), [[Is Anything Too Hard for Yahweh]] (42:2–3 linked),
+[[The Whirlwind Answers Chapter 3]] (dated check: its reliance on Job's acceptance at 42:1–6 holds).
+Non-Job, non-Genesis quotations checked against the WEB from bible-api.com before writing: Exodus 32:14;
+Isaiah 6:5; Jonah 3:10; Matthew 5:8; James 5:11; 1 John 3:2 (Psalm 139:6 checked and not quoted, since the
+WEB does not read *too wonderful*). Isaiah 6:8 and Revelation-type material cited by reference only. Job and
+Genesis texts checked against `raw/bible/`.
+
+### Pages created or revised
+
+Created (3): the passage page and two connection pages. People (5): [[Job (person)]], [[God]], [[Satan]],
+[[Elihu the Buzite]], [[Abraham]]. Themes (11): [[Seeing and Being Seen]], [[Wisdom]], [[Language and Speech]],
+[[Divine Grief and Relenting]], [[Mourning and Lament]], [[Suffering]], [[Integrity]], [[The Fear of God]],
+[[Testing]], [[Providence]], [[Righteousness]]. Passages (12): forward references linked in
+[[Behemoth and Leviathan]], [[Out of the Whirlwind]], [[Now They Mock Me]], [[There Is No Umpire Between Us]],
+[[The Arrows of the Almighty]], [[I Know That My Redeemer Lives]], [[Though He Slay Me]], [[The Second Test]],
+[[Oh That I Knew Where I Might Find Him]], [[Where Shall Wisdom Be Found]], [[Eliphaz's First Speech]],
+[[Seven Days of Silence]]. Book page: box checked, structure note for 42:1–6, [[Seeing and Being Seen]] added
+to key themes. Indexes: books (31 / 32), people (5 rows), themes (11 rows), connections (+2 rows, 1 revised),
+`wiki/index.md` (90 passages, 265 connections). `scripts/link-check.sh` clean.
+
+No contradiction between wiki pages found beyond the one nuance above.

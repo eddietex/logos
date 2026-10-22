@@ -223,6 +223,10 @@ human one innocent.** *"You meant evil"* stands. See
 - [[Behemoth and Leviathan]] — Job 40:20–22; 41:11; **a beast at ease, and everything owned.** The mountains
   bring Behemoth food *"where all the animals of the field play"*, and the lotus shades him (40:20–22);
   *"Everything under the heavens is mine"* (41:11).
+- [[I Repent in Dust and Ashes]] — Job 42:2; **purpose that cannot be stopped.** *"I know that you can do all things, and
+  that no purpose of yours can be restrained"* — Babel's *"nothing will be withheld from them"* (Genesis 11:6),
+  said of God. Job confesses the purpose without being told what it is. See
+  [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]].
 
 ## Related themes
 

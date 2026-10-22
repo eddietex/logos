@@ -253,6 +253,7 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
 - Proverbs 22:8; Hosea 8:7; 10:13; Galatians 6:7 — sowing and reaping, 4:8.
 - Isaiah 35:3; Hebrews 12:12 — *"strengthen the weak hands, and make firm the feeble knees"*, the
   words of 4:3–4 as a command.
+- [[I Repent in Dust and Ashes]] — Job 42:5: the ear's whisper and the undiscerned form of 4:12–16, replaced by *"now my eye sees you"*.
 
 ## Notes
 

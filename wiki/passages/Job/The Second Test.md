@@ -304,6 +304,7 @@ words*. **Chapter 3 begins eleven verses later.**
 - **2 Corinthians 12:7–9** — *"a thorn in the flesh, a messenger of Satan to torment me"*, followed
   by three refused requests and an answer that is not healing: a body afflicted by permission, with
   the permission disclosed to the sufferer.
+- [[I Repent in Dust and Ashes]] — Job 42:5–6: the ash-heap of 2:8 still under him, and *"to your face"* (2:5) answered by *"now my eye sees you"*.
 
 ## Notes
 

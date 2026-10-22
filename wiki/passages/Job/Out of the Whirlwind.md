@@ -436,7 +436,8 @@ a man who will stop talking; the second will produce one who has seen — see th
 - Romans 11:33–34 — *"How unsearchable are his judgments … who has been his counselor?"*
 - [[Behemoth and Leviathan]] — Job 40:6–41:34, the second speech, which follows at once: *"Will you
   condemn me, that you may be justified?"* (40:8), and Behemoth and Leviathan.
-- Job 42:1–6 — Job's second answer, *"now my eye sees you"*. Not yet ingested.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6: Job's second answer, *"now my eye sees you"*; 38:2 and 38:3 quoted
+  back at 42:3–4.
 
 ## Notes
 

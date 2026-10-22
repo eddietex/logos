@@ -179,6 +179,9 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   his way, and not turned away. I haven't gone back from the commandment of his lips."* The integrity
   of 2:3 described by its holder, as a record God knows (23:10), and the answer to Eliphaz's
   *"return"* (22:23): a man who says he never left. Chapter 31 will swear it under curse.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **not given up.** What Job confesses is ignorance — *"things too wonderful for
+  me"* (42:3) — not the guilt he swore against at 27:5, and God says in the next verse but one that he spoke
+  rightly (42:7). Whatever *ʾemʾas* rejects at 42:6, it is not his *tummâ*.
 
 ## Related themes
 

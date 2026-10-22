@@ -198,6 +198,10 @@ close to the book's whole point about who may speak for the tradition. See
   ostrich, *"because God has deprived her of wisdom"* (39:17); *"Is it by your wisdom that the hawk
   soars?"* (39:26). The hymn of chapter 28 said only God knows wisdom's place; here God examines Job on
   it, and Job does not answer.
+- [[I Repent in Dust and Ashes]] — Job 42:2–3; **the limit of knowledge confessed.** *"I have uttered that which I did not
+  understand, things too wonderful for me, which I didn't know"* (42:3) — *niplāʾôt*, the *p-l-ʾ* of Genesis
+  18:14. Job concedes the charge of 38:2 and nothing else; what he did not know is God's purpose, which *"can[not]
+  be restrained"* (42:2). See [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
 
 ## Related themes
 

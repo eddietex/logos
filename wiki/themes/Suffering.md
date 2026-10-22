@@ -243,6 +243,9 @@ requires only that you be standing outside it.
 - [[Behemoth and Leviathan]] — Job 40:6–41:34; **the second speech, and still no word of the pain.** It answers
   the lawsuit — *"Will you condemn me, that you may be justified?"* (40:8) — and not the suffering that drove
   it; the reason for Job's suffering, which the reader knows, is never given to him.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **answered and not explained.** Job's last words mention neither his losses nor
+  his sores, and ask for no reason. *"Now my eye sees you"* (42:5) is the whole of what has changed, and it is
+  said before anything is restored (42:10).
 
 ## Related themes
 

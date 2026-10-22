@@ -77,6 +77,10 @@ figure with a will of his own, a kingdom, and an end.
   life"*, the second and last of his claims
 - **Job 2:6–7** — granted Job's body and forbidden his life; strikes him with sores and **leaves the
   book**
+- **Job 42:1–6** — absent, and answered. Job's last words are spoken before anything is restored, so
+  whatever he fears God for here, it is *"for nothing"* (1:9); and where the prediction was *"he will
+  renounce you to your face"* (1:11; 2:5), Job says *"now my eye sees you"* (42:5) — see
+  [[I Repent in Dust and Ashes]]
 - **Job 42:7–17** — absent from the epilogue. The friends are rebuked, Job is vindicated and
   restored, and 42:11 sums the whole thing up as *"all the evil that Yahweh had brought on him"*
 
@@ -110,6 +114,11 @@ figure with a will of his own, a kingdom, and an end.
   at law, not *haśśāṭān*; Job never learns of the prologue. But the oath denies the very thing he
   predicted: to have kissed his hand to the sun or moon *"I should have denied the God who is above"*
   (31:28) — the renouncing of 1:11 and 2:5, sworn not to have happened even in the heart.
+- [[I Repent in Dust and Ashes]] — Job 42:1–6; **absent, and his question settled without him.** Job's last
+  words come before the restoration of 42:10: diseased, childless, and on the ash-heap, he confesses God and
+  says *"now my eye sees you"* (42:5). If he fears God here, it is *ḥinnām*, for nothing (1:9), and the face
+  the accuser said he would curse (1:11; 2:5) is the one he says he has seen. No one in the scene knows the
+  question was asked.
 
 ## Related people
 

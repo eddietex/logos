@@ -136,6 +136,10 @@ regulating it.
   my pipe into the voice of those who weep"***: Jubal's *kinnôr* and *ʿûgāb* (Genesis 4:21), the music of
   21:12, turned. The comforter of 29:25 ends as the mourner, and no comforter is named. See
   [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]].
+- [[I Repent in Dust and Ashes]] — Job 42:6; **the ash-heap at the end.** *"Therefore I abhor myself, and repent in dust and
+  ashes"* — said still sitting where 2:8 put him, in Abraham's pair (Genesis 18:27) and his own of 30:19, with
+  the comforters' verb, *nḥm*. Whether it is repentance or consolation, the mourner's place is where Job's last
+  words are spoken. See [[Comforters Who Do Not Comfort]].
 
 ## Related themes
 

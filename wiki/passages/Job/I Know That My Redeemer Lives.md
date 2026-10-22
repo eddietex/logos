@@ -243,6 +243,8 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 - [[Why Do the Wicked Live]] — Job 21:1–34, the frontal rebuttal of the friends' doctrine, which
   this chapter defers.
 - Job 42:7 — *"My wrath is kindled against you"*, which 19:29 predicts.
+- [[I Repent in Dust and Ashes]] — Job 42:5, *"now my eye sees you"*: 19:26–27's *"My eyes shall see"*, met
+  before death. See [[Now My Eye Sees You - Hearing and Seeing in Job]].
 - Genesis 31:7; Numbers 14:22 — *"ten times"* as an idiom for repeatedly.
 - Leviticus 25:25, 47–49 — the *gōʾēl* redeeming land and redeeming a kinsman out of slavery.
 - Numbers 35:12, 19–27; Deuteronomy 19:6, 12 — the *gōʾēl haddām*, the avenger of blood.

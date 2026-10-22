@@ -98,6 +98,10 @@ happening in God rather than in the world.
   the earth, and it grieved him in his heart"*
 - [[The Waters Recede]] — *"Yahweh said in his heart"*: the same phrase, the same verdict on
   humanity, and the opposite conclusion drawn from it
+- [[I Repent in Dust and Ashes]] — Job 42:6; **the verb said by a man.** *Niḥamtî*, *"I repent"* — the root *nḥm* of Genesis
+  6:6's *"Yahweh was sorry"*, and of God's relenting at Exodus 32:14 (*"Yahweh repented of the evil"*) and
+  Jonah 3:10 (*"God relented of the disaster"*). It is also the verb of *comfort* (Job 2:11; 16:2; 42:11), and
+  Job 42:6 may be read either way. See [[Sitting in Dust and Ashes]].
 
 ## Related themes
 

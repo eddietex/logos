@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Job 2:8** — *"He took for himself a potsherd to scrape himself with, and he sat among the
   ashes."* — [[The Second Test]]
-- **Job 42:6** — *"Therefore I abhor myself, and repent in dust and ashes."*
+- **Job 42:6** — *"Therefore I abhor myself, and repent in dust and ashes."* —
+  [[I Repent in Dust and Ashes]]
 - **Job 13:12** — *"Your memorable sayings are proverbs of ashes (mišlê-ʾēper)"*: the friends'
   wisdom made of the ash Job is sitting in — [[Though He Slay Me]]
 - **Job 30:19** — *"He has cast me into the mire. I have become like dust and ashes."* —
@@ -79,6 +80,15 @@ range from "I despise myself and repent in dust and ashes" (the traditional read
 "I am comforted concerning dust and ashes" — that is, concerning the human condition Abraham named
 at Genesis 18:27.** The wiki flags the range and does not decide it, and records that the decision
 changes what the book's ending means: an abasement, or a consolation.
+
+**Added on ingesting [[I Repent in Dust and Ashes]].** *Niḥamtî* is from the same root, *nḥm*, as the
+friends' errand — *"to comfort him"*, *ûlənaḥămô* (2:11) — and as Job's *"miserable comforters"* (16:2)
+and the family who *"comforted him"* at 42:11. So the consolation reading is not only a possibility of
+grammar: it would mean that the comfort the friends came to give and could not is what Job finds,
+alone with God, in the verse before they are rebuked. The verb is also God's own *was sorry* at Genesis
+6:6. Neither fact decides the clause. See [[Comforters Who Do Not Comfort]] and
+[[Divine Grief and Relenting]]. **And Job says it before the restoration begins (42:10)** — still on the
+ash-heap, still with nothing given back.
 
 **What is not in doubt is the frame.** Job enters his suffering sitting in ashes and leaves it
 speaking of dust and ashes, and in between he has been answered out of a whirlwind. **The book

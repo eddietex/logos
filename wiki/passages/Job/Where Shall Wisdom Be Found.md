@@ -221,6 +221,7 @@ king over all the sons of pride"* (41:34).
   1 Corinthians 1:24, 30, Christ *"the wisdom of God"*.
 - Matthew 13:44 — *"treasure hidden in the field"*, found, and bought with everything; the hymn's
   terms reversed.
+- [[I Repent in Dust and Ashes]] — Job 42:3, *"things too wonderful for me"*, and 42:5's *"hearing of the ear"* against 28:22's rumour.
 
 ## Notes
 

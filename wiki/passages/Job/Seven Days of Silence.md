@@ -257,6 +257,7 @@ curse**, and forty chapters of argument follow from it.
 - **Proverbs 17:28** — *"Even a fool, when he keeps silent, is counted wise."*
 - **Romans 12:15 · Galatians 6:2 · 2 Corinthians 1:3–4** — the New Testament's instructions to
   comforters, all of which 2:11–13 satisfies and none of which chapters 4–25 does.
+- [[I Repent in Dust and Ashes]] — Job 42:6, *niḥamtî*: the friends' verb of 2:11 (*ûlənaḥămô*) in Job's last line.
 
 ## Notes
 
