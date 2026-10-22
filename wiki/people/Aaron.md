@@ -67,9 +67,20 @@ order, and *"These are that Moses and Aaron"* (6:27), the order of the commissio
 pedigree before Exodus has said anything about priests.** See [[The Heads of the Fathers' Houses]] and
 [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]].
 
+**At 7:1 he is named Moses' prophet — the second *nābîʾ* in Scripture.** *"I have made you as God
+to Pharaoh; and Aaron your brother shall be your prophet"*. The first prophet, Abraham, was defined
+by intercession (Genesis 20:7); **Aaron is defined by speech on another's behalf**, which makes 7:1
+the Bible's working definition of a prophet: the mouth of someone else. **He is eighty-three, three
+years older than Moses** (7:7). **Then he does the first sign before Pharaoh, and it is his rod**:
+*"Aaron cast down his rod before Pharaoh and before his servants, and it became a serpent"* — a
+*tannîn*, not the *nāḥāš* of 4:3. The court's magicians do the same; ***"Aaron's rod swallowed up
+their rods"*** (7:10–12). **At the bush the rod was Moses'; in Pharaoh's court it is Aaron's**, and
+the text does not say whether it is the same staff. See [[Aaron's Staff Before Pharaoh]] and
+[[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]].
+
 ### What is ahead
 
-The rod that becomes a *tannîn* (7); the plagues; Sinai, where he goes up with the elders (24); the priestly
+The plagues; Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -87,6 +98,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   [[I Am Yahweh]]
 - Named in the genealogy as Amram's elder son; married to Elisheba of Judah; father of four sons and
   grandfather of Phinehas; named first at 6:26 — Exodus 6:20–27, [[The Heads of the Fathers' Houses]]
+- Appointed Moses' prophet; eighty-three; casts down his rod, which becomes a *tannîn* and swallows
+  the magicians' rods — Exodus 7:1–12, [[Aaron's Staff Before Pharaoh]]
 
 ## Appears in
 
@@ -101,6 +114,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[The Heads of the Fathers' Houses]] — Exodus 6:20, 23, 25–27; **the pedigree of the priesthood.** Elder son of Amram
   and Jochebed; husband of Elisheba, sister of Nahshon; father of Nadab, Abihu, Eleazar, and Ithamar;
   named before Moses in the genealogy's order and after him in the commission's
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:1–13; **the prophet, and the rod.** Named Moses'
+  *nābîʾ*; does the first sign before Pharaoh; his rod swallows the magicians' rods
 
 ## Related people
 
@@ -114,6 +129,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], [[Ithamar]] — his sons (6:23)
 - [[Phinehas (son of Eleazar)]] — his grandson (6:25)
 - [[Korah (son of Izhar)]] — his first cousin (6:21)
+- [[Pharaoh's Magicians (of the Exodus)]] — whose rods his rod swallows (7:12)
 
 ## Themes associated
 

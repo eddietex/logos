@@ -259,6 +259,9 @@ what Job is asking for.
 - [[Bricks Without Straw]] — Exodus 5:15–23; **two appeals up two chains.** The Israelite officers
   plead with Pharaoh for their people and are refused; Moses takes their curse to God and pleads for
   *"your people"* — **the people who have just cursed him** — and is answered
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:1–2; **a chain of four links.** God commands Moses,
+  Moses speaks to Aaron, Aaron speaks to Pharaoh, and Pharaoh is to let the people go. Moses is
+  *ʾĕlōhîm* to Pharaoh and Aaron his *nābîʾ* — mediation built into the shape of the embassy
 
 ## Related themes
 

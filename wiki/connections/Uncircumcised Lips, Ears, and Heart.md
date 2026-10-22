@@ -14,7 +14,8 @@ tags: [connection]
   [[Moses Returns to Egypt]]
 - **Exodus 6:12, 30** — *"How then shall Pharaoh listen to me, who am of uncircumcised lips?"*;
   *"Behold, I am of uncircumcised lips, and how shall Pharaoh listen to me?"* The first figurative
-  use — [[I Am Yahweh]]
+  use — [[I Am Yahweh]]; the second is answered by Aaron as Moses' prophet (7:1) —
+  [[Aaron's Staff Before Pharaoh]]
 - **Exodus 12:48** — *"no uncircumcised person shall eat of it"*: the Passover closed to the
   uncircumcised *(not yet ingested)*
 - **Leviticus 26:41** — an uncircumcised heart humbled, in exile *(not yet ingested; paraphrased)*

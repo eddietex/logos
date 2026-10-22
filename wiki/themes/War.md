@@ -101,6 +101,9 @@ what is withheld, which is Genesis's habit with its patriarchs.
   no more"* (41:8); sword, spear, dart, pointed shaft, arrow, sling-stone, club and javelin listed and
   dismissed — *"He counts iron as straw; and brass as rotten wood"* (41:27), *"He laughs at the rushing of the
   javelin"* (41:29).
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:4; ***ṣibʾōtay ʾet-ʿammî***, *"my armies, my
+  people"* — **the first time God calls Israel *my armies***, before a single Israelite has borne arms.
+  In Exodus *ṣābāʾ* occurs only at 6:26; 7:4; 12:17, 41, 51 (WLC)
 
 ## Related themes
 

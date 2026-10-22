@@ -276,6 +276,12 @@ happens.
   messenger formula used for two kings in one chapter.** Moses and Aaron deliver Yahweh's word; the
   taskmasters deliver Pharaoh's in the same form. The prophetic formula is the ordinary royal one,
   claimed for the true King
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:1–2; ***"Aaron your brother shall be your
+  prophet"*** — **the second *nābîʾ* in Scripture, and the first that defines the word.** Genesis
+  20:7 made the prophet an intercessor; Exodus 7:1, read with 4:16, makes him **the mouth of someone
+  else**: Moses is *"as God"* to Pharaoh, and Aaron speaks what Moses gives him. *Nābîʾ* occurs only
+  at Genesis 20:7 and Exodus 7:1 in Genesis, Exodus, and Job (WLC) —
+  [[A Prophet Who Prays - The First Nabi in Scripture]]
 
 ## Related themes
 

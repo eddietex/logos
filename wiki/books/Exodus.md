@@ -92,7 +92,13 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   spends ten on Levi, follows Kohath's line to Amram, who married his aunt Jochebed, and to *"Aaron and
   Moses"*, and carries Aaron's line — a wife from Judah's leading house, four sons — to Phinehas. **Moses'
   own sons are not in it.** It closes by naming the brothers in both orders (6:26–27). See
-  [[The Heads of the Fathers' Houses]]. Then the staff that becomes a serpent.
+  [[The Heads of the Fathers' Houses]]. **Then the objection again, and this time an answer**:
+  *"I have made you as God to Pharaoh; and Aaron your brother shall be your prophet"* (7:1). God
+  forecasts the contest — hardening, multiplied signs, *"Pharaoh will not listen"*, and its purpose,
+  ***"The Egyptians shall know that I am Yahweh"*** (7:5) — and Moses, eighty, and Aaron,
+  eighty-three, obey. Pharaoh asks for a wonder; Aaron's rod becomes a *tannîn*; the magicians match
+  it; **Aaron's rod swallows theirs**; and Pharaoh's heart is hardened *"as Yahweh had spoken"*
+  (7:13). See [[Aaron's Staff Before Pharaoh]].
 - **7:14–11 The plagues** — nine blows in three cycles of three, and the tenth announced.
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
@@ -133,7 +139,7 @@ for unit.
 - [x] [[Bricks Without Straw]] — Exodus 5:1–6:1
 - [x] [[I Am Yahweh]] — Exodus 6:2–13
 - [x] [[The Heads of the Fathers' Houses]] — Exodus 6:14–27
-- [ ] Aaron's Staff Before Pharaoh — Exodus 6:28–7:13
+- [x] [[Aaron's Staff Before Pharaoh]] — Exodus 6:28–7:13
 
 ### The plagues (7:14–11)
 
@@ -235,6 +241,9 @@ for unit.
 - [[Priesthood]]
 - [[Marriage]]
 - [[War]]
+- [[Prophecy and Vision]]
+- [[Mediation and Advocacy]]
+- [[Wisdom]]
 
 ## Key people
 
@@ -257,6 +266,7 @@ for unit.
 - [[Korah (son of Izhar)]] — their cousin
 - [[The Angel of Yahweh]] — in the flame of the bush
 - [[Pharaoh (of the Exodus)]] — the king Moses is sent to
+- [[Pharaoh's Magicians (of the Exodus)]] — the court experts who match the first signs
 
 ## Key places
 

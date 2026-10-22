@@ -335,6 +335,9 @@ rule are the conditions the rest of Scripture is set in.
 - [[I Am Yahweh]] — Exodus 6:6; ***šəpāṭîm gədōlîm***, ***"great judgments"*** — **the officers
   asked Yahweh to judge Moses (5:21); Yahweh promises to judge Egypt.** *Šəpāṭîm* occurs three times
   in Exodus: 6:6, 7:4, and 12:12, *"Against all the gods of Egypt I will execute judgments"*
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:4; ***bišpāṭîm gədōlîm***, *"by great judgments"*,
+  repeating 6:6 — the second of Exodus's three *šəpāṭîm*. **The first sign that follows judges no
+  one**; it is proof, and the judgments are still ahead
 
 ## Related themes
 

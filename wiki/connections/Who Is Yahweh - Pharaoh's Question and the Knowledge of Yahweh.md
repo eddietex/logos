@@ -15,7 +15,9 @@ tags: [connection]
 - **Exodus 6:3, 7** — *"by my name Yahweh I was not known to them"*; *"you shall know that I am Yahweh
   your God"*. The refrain is said first to Israel, and in the next verses Israel does not listen
   (6:9) — [[I Am Yahweh]]
-- **Exodus 7:5, 17; 8:10, 22; 9:14, 29; 10:2; 11:7** — the refrain of the plagues *(not yet ingested)*
+- **Exodus 7:5** — *"The Egyptians shall know that I am Yahweh"* — the refrain turned toward Egypt
+  for the first time, as the stated purpose of the plagues — [[Aaron's Staff Before Pharaoh]]
+- **Exodus 7:17; 8:10, 22; 9:14, 29; 10:2; 11:7** — the refrain of the plagues *(not yet ingested)*
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*

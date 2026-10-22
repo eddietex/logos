@@ -9,7 +9,9 @@ tags: [connection]
 
 - **Genesis 41:8, 24** — *"all of Egypt's magicians and wise men … there was no one who could interpret
   them to Pharaoh"* — [[Pharaoh's Dreams and Joseph's Rise]]
-- **Exodus 7:11, 22** — the magicians match the rod-to-serpent and the water-to-blood
+- **Exodus 7:11–12** — summoned with *"the wise men and the sorcerers"*, they match the
+  rod-to-serpent, and *"Aaron's rod swallowed up their rods"* — [[Aaron's Staff Before Pharaoh]]
+- **Exodus 7:22** — they match the water-to-blood
 - **Exodus 8:7** — they match the frogs
 - **Exodus 8:18–19** — **they fail at the gnats**: *"This is God's finger"*
 - **Exodus 9:11** — *"the magicians couldn't stand before Moses because of the boils"*
@@ -68,6 +70,14 @@ else.** **The profession is not refuted, it is retired.**
 **And their one line is a confession** — *ʾeṣbaʿ ʾĕlōhîm hîʾ*, *this is the finger of God* — **spoken by
 the opposition**, which is the same device Genesis used at 41:38 when **Pharaoh, not Joseph, supplied the
 theological verdict.** See [[A Man in Whom Is the Spirit of God]].
+
+**Exodus 7:11 reuses Genesis 41:8's exact phrase, *ḥarṭummê miṣrayim*, and its pairing with the
+*ḥăkāmîm*** — Genesis has *"all of Egypt's magicians and wise men"*; Exodus *"the wise men and the
+sorcerers … the magicians of Egypt"* (WLC). **The same establishment is summoned by a second
+Pharaoh, and this time it can do what is asked.** What it loses is its rods, swallowed by Aaron's —
+with the verb of the Genesis 41 dream, *bālaʿ*. See [[Pharaoh's Magicians (of the Exodus)]],
+[[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]], and
+[[Jannes and Jambres - The Magicians Who Opposed Moses]].
 
 ### Daniel: the same word, the same failure, in Babylon
 

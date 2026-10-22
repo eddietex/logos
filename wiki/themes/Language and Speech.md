@@ -287,6 +287,10 @@ noticing into doctrine.
   cannot hear.** *Šāmaʿ* runs through the pericope: God *has heard* (6:5), Israel *did not hear*
   (6:9), and Pharaoh *will not hear* (6:12). Moses' *"uncircumcised lips"* restates 4:10's *heavy of
   mouth* — [[Uncircumcised Lips, Ears, and Heart]]
+- [[Aaron's Staff Before Pharaoh]] — Exodus 6:30–7:2; **the objection answered by a spokesman.**
+  *"I am of uncircumcised lips"* is met, this time, by the arrangement of 4:16: Aaron will speak.
+  God concedes that *"Pharaoh will not listen to you"* (7:4), and at 7:13 *"he didn't listen to
+  them"* — the *šāmaʿ* thread of [[I Am Yahweh]] runs on into the contest
 
 ## Related themes
 

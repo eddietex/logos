@@ -19,7 +19,7 @@ his heart and he will not let the people go"* — and runs through every plague.
 |---|---|---|
 | ***ḥāzaq*** | to be or make *strong*, firm | 4:21; 7:13, 22; 8:19; 9:12, 35; 10:20, 27; 11:10; 14:4, 8, 17 |
 | ***kābēd*** | to be or make *heavy* | 7:14 (*"stubborn"*); 8:15, 32; 9:7, 34; 10:1 |
-| ***qāšâ*** | to be or make *hard* | 7:3 |
+| ***qāšâ*** | to be or make *hard* | 7:3 (of the heart); 13:15, of Pharaoh without *heart* |
 
 **Kābēd is the word of Moses' *"heavy"* mouth** (*kəbad-peh*, 4:10) — the deliverer slow of speech
 against a king slow of heart — and **it is also the word for *glory***: at 14:4 and 14:17 God says he
@@ -85,6 +85,11 @@ as those passages are ingested.
   God's being *made heavy*, glorified, over him (14:4). And God promises that *"by a strong hand"*,
   *bəyāḏ ḥăzāqâ* — *ḥāzāq*, the root of *ʾăḥazzēq* (4:21) — Pharaoh will let them go. **Neither link is
   drawn by the text; both are lexical, checked in the WLC**
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:3, 13; **the second forecast, and the first
+  fulfilment.** God says *ʾaqšeh*, *I will make hard* — the hiphil of *qāšâ*, the only time in
+  Genesis, Exodus, and Job that the verb takes *heart* as its object. The narrator then reports
+  *wayyeḥĕzaq lēb parʿōh*, the qal of *ḥāzaq*, *Pharaoh's heart was strong* — **intransitive, with no
+  agent** — *"as Yahweh had spoken"*. The fulfilment uses the verb of 4:21, not of 7:3 (WLC)
 
 ## Related themes
 

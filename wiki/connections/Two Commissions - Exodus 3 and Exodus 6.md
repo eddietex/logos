@@ -15,7 +15,7 @@ tags: [connection]
 - **Exodus 6:14–27** — the genealogy that interrupts it, placing Moses and Aaron in Levi's line —
   [[The Heads of the Fathers' Houses]]
 - **Exodus 6:28–7:7** — the second commission's resumption after the genealogy: the objection
-  repeated, and Aaron given as Moses' prophet *(not yet ingested)*
+  repeated, and Aaron given as Moses' prophet — [[Aaron's Staff Before Pharaoh]]
 
 ## Analysis
 
@@ -30,7 +30,7 @@ tags: [connection]
 | the land | *"to a good and large land … the place of the Canaanite"* (3:8, 17) | *"the land which I swore … for a heritage"* (6:8) |
 | the commission | *"I will send you to Pharaoh"* (3:10) | *"Go in, speak to Pharaoh"* (6:11) |
 | the objection | *"I am slow of speech, and of a slow tongue"* (4:10) | *"who am of uncircumcised lips"* (6:12, 30) |
-| Aaron | *"He will be to you a mouth"* (4:16) | *"Aaron your brother shall be your prophet"* (7:1, not yet ingested) |
+| Aaron | *"He will be to you a mouth"* (4:16) | *"Aaron your brother shall be your prophet"* (7:1) |
 
 **The differences are just as clear.** Exodus 3 has a place (Horeb), a vision (the bush), a
 dialogue, signs, and five objections each answered. Exodus 6 has no place, nothing seen, one
@@ -50,6 +50,16 @@ objection, and no answer until 7:1. Exodus 6 adds what Exodus 3 lacks: the coven
    redemption, to a man whose own question (*"Why is it that you have sent me?"*) has gone
    unanswered. The repetition is the answer: the promise has not changed because the circumstances
    have.
+
+**The second commission ends where the first did — with Aaron.** At 6:28–30 the narrator resumes
+the scene of 6:10–12 after the genealogy, and Moses repeats *"uncircumcised lips"*. **At 7:1 God
+answers, as he did not at 6:13**: *"I have made you as God to Pharaoh; and Aaron your brother shall
+be your prophet"*. It is the arrangement of 4:16 — *"he will be to you a mouth, and you will be to
+him as God"* — turned from Aaron to the king (4:16 *lēʾlōhîm*; 7:1 bare *ʾĕlōhîm*; WLC). **Both
+commissions answer the speech objection with the same brother.** The second adds a forecast the
+first only sketched (3:19–20; 4:21): hardening, multiplied signs, refusal, *"great judgments"*, and
+*"the Egyptians shall know"* (7:3–5). Then *"Moses and Aaron did so"* (7:6), and the commission is
+over. See [[Aaron's Staff Before Pharaoh]].
 
 The two readings do not exclude each other. The first explains how the text came to repeat
 itself. The second explains what the repetition does where it now stands.

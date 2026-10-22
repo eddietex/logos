@@ -43,7 +43,8 @@ wiki/
   passages/
     <Book>/<Title>.md        one page per ingested pericope, nested under its book
   people/
-    index.md
+    index.md               dashboard linking the alphabetical subindexes (see `## Category indexes`)
+    People Index <A-E>.md  subindex: the table rows for one letter range
     <Name>.md
   places/
     index.md
@@ -52,7 +53,8 @@ wiki/
     index.md
     <Theme>.md
   connections/
-    index.md
+    index.md               dashboard linking the alphabetical subindexes
+    Connections Index <A-C>.md
     <Title>.md               parallels, harmonies, and prophecy → fulfillment pairs
 ```
 
@@ -180,6 +182,7 @@ matching one whenever you create a new page of that type rather than improvising
 | Place | `templates/place.md` | `place` |
 | Theme | `templates/theme.md` | `theme` |
 | Connection | `templates/connection.md` | `connection` |
+| Subindex | `templates/index.md` | `index` |
 
 ## Ingestion unit: pericope
 
@@ -218,10 +221,11 @@ Run by `/ingest`, which resolves the next pericope and gets its text in place be
    than silently overwriting — note both claims and which sources support each.
 6. Create or update connection pages for any parallel passage, prophecy/fulfillment pair, or
    typological link this pericope surfaces.
-7. Update `wiki/books/index.md` status for the book, and the relevant category index(es) in
-   `wiki/people/index.md`, `wiki/places/index.md`, `wiki/themes/index.md`,
-   `wiki/connections/index.md`.
-8. Update `wiki/index.md`'s progress counts.
+7. Update `wiki/books/index.md` status for the book, and add or revise each new or changed
+   page's row in its category index — for a split category, the subindex whose range covers
+   its filing letter (see `## Category indexes`).
+8. Update `wiki/index.md`'s progress counts, counted by frontmatter `type:` as
+   `## Category indexes` describes.
 9. Append an entry to `wiki/log.md`.
 
 A single pericope can easily touch 5–15 pages. That's expected — do all of it in the same pass.
@@ -245,7 +249,9 @@ Check for and report:
 - Orphan pages (no inbound links) — check via what pages exist vs. what the indexes/backlinks
   show.
 - Concepts/people/places mentioned repeatedly across passages but lacking their own page.
-- Category indexes that are stale relative to what actually exists in their folder.
+- Category indexes that are stale relative to what actually exists in their folder — every
+  page of the category's `type:` has exactly one row across its index or subindexes, filed in
+  the right range.
 - Passage titles duplicated across books without the `(Book)` qualifier — an ambiguous
   `[[Title]]` link silently resolves to just one of them.
 - Missing cross-references (parallel Gospel accounts, OT quotes in the NT) not yet captured as
@@ -338,6 +344,29 @@ consecutive ingest entries, each one concluding it had cost nothing; the three s
 say otherwise. `wiki/log.md` is a record of the wiki's content — if the preflight reports something
 it could not resolve, that belongs in the report to the user, not in the log.
 
+## Category indexes
+
+`wiki/places/index.md` and `wiki/themes/index.md` hold their table directly. People and
+Connections passed the 150-row growth trigger, so each `index.md` is now a small dashboard
+linking alphabetical **subindexes** — `People Index A-E.md` and so on, in the same folder, built
+from `templates/index.md`. The dashboard keeps `[[people/index|People]]` working and lists the
+ranges; the rows live only in the subindexes. The category word in the filename keeps every
+subindex basename unique across the vault.
+
+**Filing order**: a row goes in the subindex whose range holds the first letter of its title,
+ignoring a leading *A*, *An*, or *The* — so *The Witness in Heaven* files under W. Rows within
+a subindex sort in the same order. When one subindex outgrows the others by about half again,
+redraw the ranges at letter boundaries, rename the files, and fix the dashboard.
+
+**Progress counts** in `wiki/index.md` count pages by frontmatter `type:`, never by file count
+in a folder — index and subindex pages are `type: index` or have no type, so they never enter
+a total:
+
+```bash
+for t in passage person place theme connection; do
+  echo "$t $(grep -rlx "type: $t" wiki | wc -l)"; done
+```
+
 ## Log format
 
 Append-only, most-recent last, in `wiki/log.md`. Each entry starts with a parseable header:
@@ -353,9 +382,9 @@ Append-only, most-recent last, in `wiki/log.md`. Each entry starts with a parsea
 
 ## Growth triggers — revisit these as the wiki grows
 
-- **Category index too big to skim** (rule of thumb: >150 entries): split it further, e.g.
-  `wiki/people/index.md` into per-testament or alphabetical sub-indexes, and update this file
-  to describe the new split.
+- **Category index too big to skim** (rule of thumb: >150 entries): split it into
+  alphabetical subindexes as `## Category indexes` describes, and name it in that section.
+  Places and Themes are next.
 - **Index-based search stops being enough**: consider setting up
   [qmd](https://github.com/tobi/qmd) for hybrid BM25/vector search over `wiki/`. Not needed at
   small-to-moderate scale.

@@ -40,7 +40,9 @@ one.
 - **Exodus 3:20** — *"all my wonders"*, *niplāʾōtay*: the plagues named in advance.
 - **Exodus 4:1–9, 17** — three signs, each with a *voice*, and the rod *"with which you shall do the
   signs"*.
-- *(ahead)* **Exodus 7–12** — the ten plagues, and the magicians who match the first two.
+- **Exodus 7:3, 9–12** — *"multiply my signs and my wonders"*; the wonder Pharaoh asks for, matched
+  by his magicians and swallowed. See [[Aaron's Staff Before Pharaoh]].
+- *(ahead)* **Exodus 7:14–12** — the ten plagues, and the magicians who match the first two.
 - *(ahead)* **Deuteronomy 4:34; 6:22** — *"by signs, by wonders, by war, by a mighty hand"*: the exodus
   remembered as the definitive sign.
 - *(ahead)* **Deuteronomy 13:1–3** — a sign that comes true from a prophet who leads to other gods is
@@ -60,6 +62,12 @@ one.
 - [[Moses Returns to Egypt]] — Exodus 4:20–21, 30; ***môpətîm*, a third word**, for what Moses is to do before
   Pharaoh — and the staff renamed *"God's rod"*. The wonders are to be done to a king whose heart God
   will harden. Before the people, **Aaron** does the signs given into Moses' hand, and they believe
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:3, 9–12; **the signs multiplied, and the one wonder
+  asked for.** *"I will … multiply my signs and my wonders"* — *hirbêtî*, the verb of Israel's
+  multiplying in chapter 1 — bracketed by 11:9, *"that my wonders may be multiplied"*. Pharaoh asks
+  *"Perform a miracle!"*, the only sign in the contest he requests; the magicians match it, and
+  Aaron's rod swallows theirs. **The first sign before Pharaoh harms no one: credentials, not
+  judgment**
 
 ## Related themes
 

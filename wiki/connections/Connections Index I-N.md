@@ -1,0 +1,74 @@
+---
+type: index
+category: connections
+range: I-N
+tags: [index]
+---
+# Connections Index I–N
+
+Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part of
+[[connections/index|Connections]].
+
+| Title | Type | Passages involved |
+|---|---|---|
+| [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
+| [[I AM WHO I AM - Exodus 3.14 and John 8.58]] | allusion | Exodus 3:12, 14 · Exodus 4:12 · John 8:58 · Revelation 1:8 |
+| [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] | thread | Job 33:23–28 · Exodus 21:30 · Exodus 30:12 · Numbers 35:31 · Psalm 49:7–9, 15 · Proverbs 13:8 · Isaiah 43:3 · Hosea 13:14 · Job 36:18 · Mark 10:45 · Matthew 20:28 · 1 Timothy 2:5–6 · 1 Peter 1:18–19 |
+| [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 |
+| [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] | word | Genesis 49:18 · Exodus 14:13; 15:2 · Psalm 3:8 · Psalm 119:166 · Isaiah 12:2–3 · Jonah 2:9 · Luke 2:30 · Job 13:16 |
+| [[I Put On Righteousness - Job 29.14 and the Garments of Justice]] | image | Job 29:14 · Job 19:9 · Job 30:18 · Job 22:6 · Job 40:10, 14 · Psalm 132:9, 16 · Psalm 109:18 · Isaiah 11:5 · Isaiah 59:16–17 · Isaiah 61:10 · Zechariah 3:4–5 · Judges 6:34 · Ephesians 6:14 · Colossians 3:12 · Revelation 19:8 |
+| [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] | thread | Job 23:10 · Job 7:18 · Job 1:12; 2:6 · Job 22:24–25 · Job 28:1, 15–19 · Psalm 66:10 · Proverbs 17:3 · Zechariah 13:9 · Malachi 3:2–3 · Isaiah 48:10 · 1 Peter 1:6–7 · James 1:2–4, 12; 5:11 |
+| [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]] | thread | Genesis 38:17–20 · Genesis 42:37 · Genesis 43:8–10 · Genesis 44:32–33 · Job 17:3 · Psalm 119:122 · Proverbs 6:1–5; 11:15; 17:18; 20:16 · Isaiah 38:14 · Hebrews 7:22 · Genesis 45:24 |
+| [[I Will Be With You - The Promise of Presence]] | thread | Genesis 26:3, 24 · Genesis 28:15 · Genesis 39:2, 21 · Exodus 3:12 · Joshua 1:5 · Judges 6:16 · Isaiah 41:10; 43:2 · Jeremiah 1:8 · Haggai 1:13 · Matthew 1:23; 28:20 · Hebrews 13:5 |
+| [[I Will Take You as My People - The Covenant Formula]] | thread | Genesis 17:7–8 · Exodus 6:7 · Exodus 29:45–46 · Leviticus 26:12 · Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33 · Ezekiel 11:20; 36:28; 37:27 · 2 Corinthians 6:16 · Hebrews 8:10 · Revelation 21:3 |
+| [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] | parallel | Genesis 42:36 · Genesis 43:14 · Esther 4:16 · 2 Samuel 15:25–26 · 2 Kings 7:3–4 · Daniel 3:17–18 · Genesis 45:25–28 |
+| [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]] | allusion | Genesis 3:7–12, 17–18 · Genesis 4:10–11 · Job 31:33–34 · Job 31:38–40 · Hosea 6:7 · Psalm 32:5 · Proverbs 28:13 |
+| [[In the Beginning - Genesis 1 and John 1]] | allusion | Genesis 1:1–5 · John 1:1–5 |
+| [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] | phrase | Genesis 49:1 · Numbers 24:14 · Deuteronomy 4:30; 31:29 · Isaiah 2:2 · Micah 4:1 · Hosea 3:5 · Daniel 2:28; 10:14 · Acts 2:17 · Hebrews 1:2 |
+| [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |
+| [[Is Anything Too Hard for Yahweh]] | thread | Genesis 18:14 · Jeremiah 32:17, 27 · Zechariah 8:6 · Job 42:2 · Luke 1:37 · Matthew 19:26 |
+| [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
+| [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]] | prophecy → fulfillment | Exodus 4:22–23 · Exodus 12:29; 13:15 · Deuteronomy 14:1; 32:6 · Psalm 89:26–27 · Jeremiah 31:9 · Hosea 11:1–2 · Matthew 2:13–15, 20 · Romans 9:4 |
+| [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]] | theological | Genesis 12:2–3 · Genesis 14:18–20 · Genesis 47:7, 10 · Hebrews 7:7 |
+| [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]] | parallel | Genesis 48:5 · Genesis 49:1–28 · Deuteronomy 33:1–29 · Judges 5:14–18 |
+| [[Jacob, Jacob - The Doubled Name and Hinneni]] | motif | Genesis 22:11 · Genesis 46:2 · Exodus 3:4 · 1 Samuel 3:10 · Luke 10:41 · Luke 22:31 · Acts 9:4 |
+| [[Jannes and Jambres - The Magicians Who Opposed Moses]] | allusion | Exodus 7:11–12 · Exodus 7:22; 8:7, 18–19; 9:11 · 2 Timothy 3:8–9 |
+| [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · Deuteronomy 26:5 · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |
+| [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
+| [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |
+| [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 |
+| [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] | law-and-narrative | Genesis 23:3–20 · Genesis 47:18–23 · Leviticus 25:8–34, 39–43 · 1 Kings 21:1–4 · Isaiah 5:8 · Micah 2:1–2 |
+| [[Laughter and the Name Isaac]] | thread | Genesis 17:17, 19 · Genesis 18:12–15 · Genesis 21:6, 9 · Genesis 26:8 · Galatians 4:29 |
+| [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] | literary-parallel | Job 21:5 · Job 29:9 · Job 40:4 · Job 2:13 · Job 13:5 · Judges 18:19 · Proverbs 30:32 · Micah 7:16 · Isaiah 52:15 · Job 31:14, 35 |
+| [[Leave Your Country - The Two Lek-Lekha Commands]] | parallel | Genesis 12:1 · Genesis 22:2 · Genesis 12:4 · Genesis 22:3 · Hebrews 11:8, 17–19 |
+| [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 · Job 11:17 · Job 12:15, 22–25 |
+| [[Let Us Go Down - The Divine Plural in Genesis]] | thread | Genesis 1:26 · Genesis 3:22 · Genesis 11:7 · Genesis 6:2 · Job 1:6 · Isaiah 6:8 · 1 Kings 22:19–22 · Psalm 82:1 |
+| [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |
+| [[Lift Up Your Eyes - Two Ways of Seeing the Land]] | parallel | Genesis 13:10–11 · Genesis 13:14–15 · Genesis 3:6 · Genesis 6:2 · Deuteronomy 34:1–4 · Matthew 4:8–10 |
+| [[Lift Up Your Head - One Idiom and Two Verdicts]] | thread | Genesis 40:13, 19, 20 · Exodus 30:12 · Numbers 1:2 · Judges 8:28 · 2 Kings 25:27–30 · Psalm 3:3 · Psalm 27:6 · Psalm 110:7 · Jeremiah 52:31–34 |
+| [[Like Rachel and Like Leah - The Builders of the House of Israel]] | quotation | Genesis 29:16–30 · Genesis 35:16–20 · Genesis 49:31 · Ruth 4:11–12 · Jeremiah 31:15 · Matthew 2:18 |
+| [[The Lion of Judah - Genesis 49.9 and Revelation 5.5]] | image | Genesis 49:9 · Numbers 23:24; 24:9 · Deuteronomy 33:20, 22 · Hosea 5:14 · Ezekiel 19:1–9 · Amos 3:8 · Revelation 5:5–6 |
+| [[Listening to the Voice - Genesis 3 and Genesis 16]] | parallel | Genesis 3:6, 16–17 · Genesis 16:2–3 · Genesis 21:12 · Genesis 22:17 · Genesis 30:1–13 |
+| [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]] | law-and-narrative | Genesis 29:30–33 · Genesis 35:22 · Genesis 49:3–4 · Deuteronomy 21:15–17 · 1 Chronicles 5:1–2 · Malachi 1:2–3 · Romans 9:13 |
+| [[Lying with the Father's Concubine - A Claim on the Succession]] | thread | Genesis 35:22 · Genesis 49:3–4 · 1 Chronicles 5:1–2 · 2 Samuel 3:7–8 · 2 Samuel 16:21–22 · 1 Kings 2:13–25 · Leviticus 18:8 · Deuteronomy 27:20 · 1 Corinthians 5:1 |
+| [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] | thread | Genesis 41:8, 24 · Exodus 7:11–12, 22 · Exodus 8:7, 18–19 · Exodus 9:11 · Daniel 1:20 · Daniel 2:2, 10–11 · Isaiah 19:11–14 · Isaiah 47:12–13 · 2 Timothy 3:8 |
+| [[A Man in Whom Is the Spirit of God]] | thread | Genesis 1:2 · Genesis 41:38 · Exodus 31:1–5 · Numbers 24:2 · Numbers 27:18 · Judges 3:10; 6:34 · 1 Samuel 16:13–14 · Daniel 4:8–9 · Daniel 5:11–14 · Isaiah 11:2; 61:1 · Luke 4:18–21 · Job 32:8; 33:4 |
+| [[Melchizedek in Psalm 110 and Hebrews]] | typology | Genesis 14:18–20 · Psalm 110:1–4 · Joshua 10:1 · Psalm 76:2 · 11QMelchizedek · Zechariah 6:11–13 · Hebrews 5:5–10; 7:1–28 |
+| [[The Midwives and Rahab - Deceiving the King to Save Life]] | thematic-parallel | Exodus 1:15–21 · Joshua 2:1–7 · Hebrews 11:31 · James 2:25 · Acts 5:29 |
+| [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] | parallel | Genesis 26:12–17 · Exodus 1:7–14 · Genesis 12:10–20 · Genesis 47:27 · Exodus 12:35–36 |
+| [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |
+| [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
+| [[Moab and Ammon - The Two Nations Born in the Cave]] | thread | Genesis 19:30–38 · Deuteronomy 2:9, 19; 23:3–6 · Numbers 22–25 · Judges 3:12–30; 11:4–33 · 1 Samuel 11; 22:3–4 · 2 Samuel 10 · 1 Kings 11:5–7; 14:21 · Jeremiah 48; 49:1–6 · Zephaniah 2:8–11 · Ruth 1:4; 4:13–22 · Nehemiah 13:1–3 · Matthew 1:5 |
+| [[Naked and Ashamed - Genesis 3 and Genesis 9]] | parallel | Genesis 2:25 · Genesis 3:6–7, 21 · Genesis 9:20–25 · Genesis 19:30–38 |
+| [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] | thread | Job 1:21 · Ecclesiastes 5:15 · Psalm 49:16–17 · 1 Timothy 6:7 · Genesis 3:19 · Luke 12:16–21 |
+| [[A Name for Ourselves and a Great Name]] | parallel | Genesis 6:4 · Genesis 11:4 · Genesis 12:2 · 2 Samuel 7:9 · Isaiah 56:5 · Philippians 2:6–11 |
+| [[The Names of Esau's Wives - Genesis 26 and Genesis 36]] | parallel | Genesis 26:34–35 · Genesis 28:6–9 · Genesis 36:2–3 · Genesis 27:46 |
+| [[The Nephilim and the Giants of Canaan]] | thread | Genesis 6:4 · Numbers 13:31–33 · Deuteronomy 2:10–11, 3:11 · Joshua 11:21–22 · 1 Samuel 17:4–7 · 2 Samuel 21:15–22 |
+| [[Nimrod and the Kingdoms of Shinar and Assyria]] | thread | Genesis 6:4 · Genesis 10:8–12 · Genesis 11:1–9 · 1 Chronicles 1:10 · Micah 5:6 · 2 Kings 17:5–23 · Daniel 1:1–2 |
+| [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] | allusion | Job 42:2 · Genesis 11:6 · Job 40:9 · Genesis 18:14 |
+| [[The Noahic Commandments and the Council of Jerusalem]] | thread | Genesis 2:16–17 · Genesis 9:1–7 · Leviticus 17–18 · Acts 15:19–29 · Acts 21:25 · *Sanhedrin* 56a |
+| [[None Shall Make You Afraid - The Covenant Blessing of Security]] | formula | Leviticus 26:6 · Job 11:19 · Job 5:22–24 · Deuteronomy 28:26 · Isaiah 17:2 · Zephaniah 3:13 · Micah 4:4 · Jeremiah 30:10 · Ezekiel 34:25–28 · Psalm 4:8 · Proverbs 3:24 |
+| [[Not a Thread nor a Sandal Strap]] | thread | Genesis 14:21–24 · Genesis 12:14–20 · Genesis 15:1 · Joshua 7:20–26 · 1 Samuel 12:3–5 · 1 Samuel 30:21–25 · 2 Kings 5:15–27 · Daniel 5:17 · Acts 8:18–24 · 1 Corinthians 9:12–18 |
+| [[Not from the Daughters of the Canaanites]] | thread | Genesis 24:3–4 · Genesis 27:46–28:2 · Deuteronomy 7:1–4 · 1 Kings 11:1–8 · Ezra 9–10 · Ruth 1:16–17 · 2 Corinthians 6:14 |
+| [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]] | typology | Genesis 45:28 · Genesis 46:29–30 · Luke 2:25–32 |
+| [[Now My Eye Sees You - Hearing and Seeing in Job]] | thread | Job 42:5 · Job 4:12, 16 · Job 9:11 · Job 13:1 · Job 19:26–27 · Job 23:8–9 · Job 26:14 · Job 28:22 · Job 29:11 · Isaiah 6:5 · Matthew 5:8 · James 5:11 · 1 John 3:2 · Job 42:16 |

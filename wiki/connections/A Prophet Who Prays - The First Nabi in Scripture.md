@@ -14,6 +14,9 @@ tags: [connection]
   servants"* — the prescription carried out
 - **Genesis 18:22–33** — the same man doing the same thing without the word being used —
   [[The Three Visitors and Abraham's Intercession]]
+- **Exodus 7:1** — *"I have made you as God to Pharaoh; and Aaron your brother shall be your
+  prophet"* — **the second *nābîʾ*, and the first defined by speech** —
+  [[Aaron's Staff Before Pharaoh]]
 - **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh relented from the evil which he
   said he would do to his people"*
 - **Numbers 12:6–8; 14:13–20** — prophecy defined by dream and vision, with Moses as the exception,
@@ -101,6 +104,16 @@ spent the narrative saying things about God that a reader would not have predict
 And in both the prayer is offered and the sentence lifted without further comment. The books are
 about entirely different questions, and they answer the question *who can stand between* the same
 way. See [[Mediation and Advocacy]] and [[The Witness in Heaven]].
+
+### The second *nābîʾ*: a mouth, not an intercessor
+
+**The word's second occurrence defines it differently.** In Genesis, Exodus, and Job *nābîʾ* occurs
+only at Genesis 20:7 and Exodus 7:1 (WLC lemma search). **At 7:1 Aaron is Moses' *nābîʾ* because he
+will speak what Moses gives him**, as Moses is *"as God"* to Pharaoh — the arrangement of 4:16,
+where Aaron was to be Moses' *"mouth"*. **Genesis 20:7 makes the prophet someone who speaks *to*
+God for others; Exodus 7:1 makes him someone who speaks *for* another to others.** The canon keeps
+both directions, and Moses, who does both, is the figure in whom they meet (Exodus 32:11–14;
+Deuteronomy 18:18, not yet ingested). See [[Aaron's Staff Before Pharaoh]].
 
 ### The New Testament's move
 

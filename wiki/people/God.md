@@ -1433,6 +1433,18 @@ the command, now to Moses and Aaron together (6:13). See [[I Am Yahweh]],
 [[I Will Take You as My People - The Covenant Formula]], and
 [[Two Commissions - Exodus 3 and Exodus 6]].
 
+### He answers the objection the second time, and says what Pharaoh will do — Exodus 6:28–7:13
+
+**When Moses repeats *"uncircumcised lips"* (6:30), he answers it**, as he did not at 6:13: *"I
+have made you as God to Pharaoh; and Aaron your brother shall be your prophet"* (7:1). Then he
+forecasts the whole contest in three verses — *"I will harden"* (*ʾaqšeh*, a new verb), *"multiply
+my signs"* (the *rābâ* Pharaoh tried to stop in Israel), *"Pharaoh will not listen"*, *"my armies,
+my people"*, *"great judgments"* — and states its purpose: ***"The Egyptians shall know that I am
+Yahweh"*** (7:5), the refrain of 6:7 turned toward Egypt for the first time. **He even tells them
+what Pharaoh will say** (*"Perform a miracle!"*, 7:9). The sign is done, matched, and swallowed,
+and the narrator closes it with *"as Yahweh had spoken"* (7:13). See
+[[Aaron's Staff Before Pharaoh]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1601,6 +1613,9 @@ the command, now to Moses and Aaron together (6:13). See [[I Am Yahweh]],
 - Says *"I am Yahweh"* four times; recalls the patriarchs, the covenant, and the groaning; promises to
   bring out, rescue, redeem, take, be, bring in, and give; commands Moses and Aaron without answering
   the objection — Exodus 6:2–13, [[I Am Yahweh]]
+- Answers *"uncircumcised lips"* with *"as God to Pharaoh"* and Aaron as prophet; forecasts the
+  hardening, the signs, the refusal, and Egypt's knowing; prescribes the sign of the rod — Exodus
+  6:28–7:13, [[Aaron's Staff Before Pharaoh]]
 
 ## Appears in
 
@@ -1937,6 +1952,9 @@ the command, now to Moses and Aaron together (6:13). See [[I Am Yahweh]],
 - [[I Am Yahweh]] — Exodus 6:2–13; **the name, said four times, and seven promises.** *"By my name
   Yahweh I was not known to them"*; *"I will take you to me for a people"*; *"you shall know that I
   am Yahweh"*; Moses' objection unanswered
+- [[Aaron's Staff Before Pharaoh]] — Exodus 6:29–7:13; **the forecast, and its first fulfilment.**
+  *"I have made you as God to Pharaoh"*; *"The Egyptians shall know that I am Yahweh"*; *"as Yahweh
+  had spoken"*
 
 ## Related people
 

@@ -205,6 +205,10 @@ close to the book's whole point about who may speak for the tradition. See
 - [[The Oppression in Egypt]] — Exodus 1:10; **wisdom as cunning.** *"Come, let us deal wisely with them"* — *ḥākam*,
   in the country where Joseph was called *"discreet and wise"* (Genesis 41:39), turned against his
   family
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:11; **Egypt's *ḥăkāmîm* again.** Pharaoh calls *"the
+  wise men and the sorcerers"*, and the *ḥarṭummîm* of Genesis 41:8 match Aaron's sign — the guild that
+  could not read a dream can copy a wonder, and loses its rods for it —
+  [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]]
 
 ## Related themes
 

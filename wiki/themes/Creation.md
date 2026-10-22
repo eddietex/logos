@@ -171,6 +171,10 @@ Genesis 1 sets four load-bearing claims:
   the commission. *Mî śām*, *who set*, is the verb of the Hebrew's taunt at 2:14, *"Who made you a prince
   and a judge?"*. And the third sign pours river water *"on the dry land"* — the *yabbāšâ* of Genesis
   1:9
+- [[Aaron's Staff Before Pharaoh]] — Exodus 7:9–12; ***tannîn***, the word of Genesis 1:21's
+  *"large sea creatures"*, the first creatures said to be *created* after the heavens and the earth.
+  **In Pharaoh's court a rod becomes one.** Later Scripture makes the *tannîn* an emblem of Egypt
+  (Ezekiel 29:3, WEB; Hebrew not checked) — [[Am I a Sea or a Sea Monster - The Guard on the Waters]]
 
 ## Related themes
 

@@ -230,6 +230,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   command is *"to bring the children of Israel out of the land of Egypt"* (6:13)
 - [[The Heads of the Fathers' Houses]] — Exodus 6:26–27; *"Bring out the children of Israel from the land of Egypt according
   to their armies"* — the land a family entered as seventy souls, left by a people listed as a muster
+- [[Aaron's Staff Before Pharaoh]] — Exodus 6:28; 7:3–5; *"in the land of Egypt"*, three times in
+  the forecast: the signs are to be multiplied *"in the land of Egypt"*, God will *"lay my hand on
+  Egypt"*, and ***"the Egyptians shall know that I am Yahweh"***
 
 ## Related places
 

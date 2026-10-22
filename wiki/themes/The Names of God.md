@@ -237,6 +237,10 @@ everlasting possession, by treaty with its current occupant.
   God says *"I am Yahweh"* to Abram and Jacob, is recorded rather than resolved, with three readings:
   experiential, source-critical, and interrogative. *ʾĒl Šadday*'s only occurrence in Exodus —
   [[God Almighty - El Shaddai in Genesis and Exodus]], [[Calling on the Name of Yahweh]]
+- [[Aaron's Staff Before Pharaoh]] — Exodus 6:29; 7:5; *"I am Yahweh"* again, and ***"The
+  Egyptians shall know that I am Yahweh"*** — **the knowledge of the name, promised to Israel at 6:7,
+  now made the stated purpose of the plagues for Egypt** —
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
 
 ## Related themes
 

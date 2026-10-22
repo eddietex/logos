@@ -7,6 +7,10 @@ tags: [connection]
 
 ## Passages involved
 
+- **Exodus 7:9–12** — Aaron's rod becomes a *tannîn* before Pharaoh, and swallows the magicians'
+  — [[Aaron's Staff Before Pharaoh]]
+- **Ezekiel 29:3** — *"Pharaoh king of Egypt, the great monster that lies in the middle of his
+  rivers"* (WEB; Hebrew not checked)
 - **Job 7:12** — *"Am I a sea, or a sea monster, that you put a guard over me?"* — *hăyām-ʾānî
   ʾim-tannîn kî-tāśîm ʿālay mišmār* — [[The Arrows of the Almighty]]
 - **Job 3:8** — *"those who are ready to rouse up leviathan"* — [[Let the Day Perish]]
@@ -68,6 +72,14 @@ The *swift* or *fleeing serpent* is *nāḥāš bārîaḥ*, the exact phrase of
 the fleeing serpent"*, so the creature of 3:8 is in view by another name. Where 7:12 put Job in the
 monster's place, 26:12–13 puts the monster where the combat tradition keeps it, under God's hand —
 and then calls all of it *"the outskirts of his ways"* (26:14). See [[I Will Not Put Away My Integrity]].
+
+**Exodus brings the *tannîn* into Pharaoh's court.** Outside Genesis 1:21 and Job, the only
+*tannîn* in Genesis, Exodus, and Job is the rod of Exodus 7:9, 10, 12 (WLC lemma search). The rod
+became a *nāḥāš* at the bush (4:3) and is called that again at 7:15; **only before Pharaoh is it a
+*tannîn***. Ezekiel 29:3 later names a Pharaoh *"the great monster"* of the Nile, and Isaiah 51:9–10
+sets the piercing of *"the monster"* beside the drying of the sea (WEB; the Hebrew of both was not
+checked here). **Read with them, the sign in Exodus 7 throws Egypt's own emblem on the floor of its
+court** — a resonance the Exodus text does not state. See [[Aaron's Staff Before Pharaoh]].
 
 ## Significance
 

@@ -143,9 +143,21 @@ it**; Aaron's are. The list closes on the two brothers, *"that Aaron and Moses"*
 Moses and Aaron … who spoke to Pharaoh"* (6:27), and the narrative resumes with his objection
 unchanged (6:28–30). See [[The Heads of the Fathers' Houses]].
 
+**When the narrative resumes he repeats the objection, and this time God answers it.** *"Behold, I
+am of uncircumcised lips, and how shall Pharaoh listen to me?"* (6:30). The answer is the bush's
+arrangement turned toward the king: ***"I have made you as God to Pharaoh; and Aaron your brother
+shall be your prophet"*** (7:1). At 4:16 he was to be *lēʾlōhîm*, *as God*, to Aaron; at 7:1 he is
+*ʾĕlōhîm* to Pharaoh, with no preposition. **The text does not make him divine; it gives him God's
+place in a chain of speech** — God commands him, he speaks to Aaron, Aaron speaks to Pharaoh (7:2).
+God also concedes his point: *"Pharaoh will not listen to you"* (7:4). **Then he does what he is
+told without a word**: *"As Yahweh commanded them, so they did"* (7:6) — the first time Exodus
+reports his obedience in the formula Genesis used of Noah. **He is eighty** (7:7). At the first
+sign the rod is Aaron's and so is the act; Moses is present and silent. See
+[[Aaron's Staff Before Pharaoh]] and [[As God Commanded, So He Did - The Obedience Formula]].
+
 ### What is ahead
 
-The staff before Pharaoh, and the plagues (6:28–11); the Passover, the sea, and the
+The plagues (7:14–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -191,6 +203,8 @@ sections are written as their pericopes arrive.
   6:10–13
 - Placed in Levi's line as the younger son of Amram and Jochebed; named after Aaron, then before him —
   Exodus 6:14–27, [[The Heads of the Fathers' Houses]]
+- Repeats *"uncircumcised lips"*; made *"as God to Pharaoh"*, with Aaron as his prophet; obeys;
+  eighty years old at the first audience — Exodus 6:28–7:13, [[Aaron's Staff Before Pharaoh]]
 
 ## Appears in
 
@@ -216,6 +230,9 @@ sections are written as their pericopes arrive.
 - [[The Heads of the Fathers' Houses]] — Exodus 6:14–27; **given a pedigree.** Levi, Kohath, Amram, Moses; his parents
   named for the first time; his own wife and sons left out; *"that Moses and Aaron"*, the ones *"who
   spoke to Pharaoh"*
+- [[Aaron's Staff Before Pharaoh]] — Exodus 6:28–7:13; **made *ʾĕlōhîm* to Pharaoh.** Repeats his
+  objection; is given Aaron as his *nābîʾ*; told that Pharaoh will not listen; obeys without a word;
+  eighty years old
 
 ## Related people
 

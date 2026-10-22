@@ -11647,3 +11647,123 @@ The people index now has 164 entries, past the ~150 growth trigger in `AGENTS.md
 past it before this ingest, and splitting it is left for the user or a lint pass.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] schema | People and Connections indexes split into alphabetical subindexes
+
+The growth trigger in `AGENTS.md` (a category index past ~150 rows) had fired for two categories:
+People at 164 rows and Connections at 290. Both are now split.
+
+- **Shape.** `wiki/people/index.md` and `wiki/connections/index.md` are small dashboards that link
+  the subindexes, so `[[people/index|People]]` and `[[connections/index|Connections]]` still work.
+  The rows live in subindexes in the same folder:
+  - [[People Index A-E]], [[People Index F-M]], [[People Index N-Z]] (53 / 58 / 53 rows at the split)
+  - [[Connections Index A-C]], [[Connections Index D-H]], [[Connections Index I-N]],
+    [[Connections Index O-S]], [[Connections Index T-Z]] (49 / 58 / 60 / 51 / 72)
+- **Naming.** The category word in each filename keeps every subindex basename unique across the
+  vault.
+- **Template.** Each subindex has `type: index` frontmatter, from the new `templates/index.md`.
+- **Filing order.** A row is filed by the first letter of its title, ignoring a leading *A*, *An*,
+  or *The*, and rows within a subindex sort the same way. Without that rule, *The …* titles would
+  have put 89 connections under T. The old Connections index was in ingest order; that order is now
+  alphabetical, and `wiki/log.md` keeps the chronology.
+- **Counts.** `wiki/index.md` progress counts are now defined by frontmatter `type:`, so index and
+  subindex pages never enter a total. The totals did not change at the split.
+- **Verification.** Rows were checked programmatically before and after the split. The 164 people
+  rows and 290 connection rows are byte-identical as sets, and their link targets match, with no
+  duplicates.
+- **Docs.** `AGENTS.md` has a new `## Category indexes` section. The directory map, the page-type
+  table, ingest steps 7–8, the lint check for stale indexes, and the growth trigger are updated to
+  match. Places (79) and Themes (71) stay single tables.
+
+## [2026-10-22] ingest | Exodus 6.28-7.13 — Aaron's Staff Before Pharaoh
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *Aaron's Staff Before Pharaoh —
+Exodus 6:28–7:13*. The boundary was kept as planned. 6:28 resumes the scene of 6:10–12 after the
+genealogy, and 7:14 opens a new speech and the first plague. There was no discussion step; its
+content is written into the passage page.
+
+### The passage page
+
+[[Aaron's Staff Before Pharaoh]] covers:
+
+- 6:28–30 as a resumption (*bəyôm dibber*) that condenses 6:10–12.
+- 7:1: *nətattîkā ʾĕlōhîm ləparʿōh* (bare *ʾĕlōhîm*, against 4:16's *lēʾlōhîm*), and Aaron as
+  *nābîʾ*. This is the second *nābîʾ* in Scripture and the first defined by speech for another.
+- The forecast of 7:3–5:
+  - *ʾaqšeh*, the hiphil of *qāšâ*, the only time the verb takes *heart* as its object in Genesis,
+    Exodus, and Job.
+  - *hirbêtî*, the *rābâ* of chapter 1, bracketed by 11:9.
+  - *"Pharaoh will not listen"* conceding Moses' point.
+  - *ṣibʾōtay*, *"my armies"*.
+  - *"The Egyptians shall know"*, the refrain's first turn toward Egypt.
+- 7:6, the obedience formula, which Genesis uses in full only of Noah. 7:7 gives the ages, with
+  Stephen's three forties marked as his own arithmetic.
+- 7:9: *"Perform a miracle!"*, the only sign Pharaoh requests.
+- *tannîn* against the *nāḥāš* of 4:3 and 7:15, with the six occurrences of *tannîn* tabulated.
+- The magicians' three titles, and the uncertain tagging of *bəlahăṭêhem* as *lahaṭ*.
+- *bālaʿ* of rods, not serpents.
+- 7:13's qal *wayyeḥĕzaq*, with no agent named, and *"as Yahweh had spoken"*.
+
+### Judgment calls
+
+- **One new person page.** [[Pharaoh's Magicians (of the Exodus)]] is a group page, following
+  [[Shiphrah and Puah]], because the group recurs through 9:11. It is qualified from the start
+  under the title-figure rule, to keep it apart from Genesis 41's guild.
+- **Three new connections:**
+  - [[Jannes and Jambres - The Magicians Who Opposed Moses]] (allusion: 2 Timothy 3:8)
+  - [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] (motif: *bālaʿ*, Genesis 41,
+    Exodus 7 and 15, Numbers 16)
+  - [[As God Commanded, So He Did - The Obedience Formula]] (motif: Noah, Moses and Aaron, the
+    Passover, the tabernacle)
+- **The *tannîn* as Egypt's emblem** (Ezekiel 29:3; Isaiah 51:9; Psalm 74:13) is recorded as a
+  resonance that Exodus does not state.
+- **Hedged at the point of the claim, not checked:**
+  - the Hebrew of Ezekiel 29:3, Isaiah 51:9, and Psalm 74:13
+  - the Targum Pseudo-Jonathan and Damascus Document attestations of Jannes and Jambres
+  - lexicons' reading of *lahaṭ* as *secret arts*
+  - Numbers 17 and Deuteronomy 18:18 (by reference only)
+- **Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+  (`translation=web`), with no bulk fetch: 2 Timothy 3:5, 8–9; Ezekiel 29:3; Isaiah 51:9; Psalm
+  74:13; Acts 7:22–23, 30; Deuteronomy 34:7; Numbers 16:32. No claim is made about their Greek, or
+  about any Hebrew outside Genesis, Exodus, Job, and Numbers 16.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):**
+
+- All of Exodus 6:28–7:13.
+- Exodus 4:2–3, 16, 21; 6:11–12, 26; 7:14–15; 11:9; 12:28, 50; 39:32; 40:16.
+- Genesis 3:24; 6:22; 41:8.
+
+Lemma searches of Genesis, Exodus, and Job: *tannîn*, *bālaʿ* (also Numbers), *qāšâ*, *môpēt*,
+*nābîʾ*, *ḥarṭummîm*, *lahaṭ*, *kāšap*, *ḥākām*, *ṣābāʾ*, *rābâ*, *nāḥāš*, and the obedience
+formula.
+
+### Pages created or revised
+
+- **Created (5):** the passage page; one person; three connections (above).
+- **People revised (4):** [[Moses]], [[Aaron]], [[Pharaoh (of the Exodus)]], [[God]].
+- **Connections revised (6):**
+  - [[Two Commissions - Exodus 3 and Exodus 6]]
+  - [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]]
+  - [[A Prophet Who Prays - The First Nabi in Scripture]]
+  - [[Am I a Sea or a Sea Monster - The Guard on the Waters]]
+  - [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
+  - [[Uncircumcised Lips, Ears, and Heart]]
+- **Places revised (1):** [[Egypt]].
+- **Themes revised (10):**
+  - [[Signs and Wonders]] and [[Hardening of the Heart]], with synthesis. The *qāšâ* row now notes
+    13:15.
+  - [[Prophecy and Vision]], [[Mediation and Advocacy]], [[Language and Speech]],
+    [[The Names of God]], [[Judgment]], [[War]], [[Wisdom]], [[Creation]].
+- **Book page:** box checked; the 5–7:13 structure note is completed; key people +1; key themes +3.
+- **Indexes** (routed into the new subindexes):
+  - books: Exodus 9 / 53.
+  - people: 1 row added in [[People Index N-Z]]; 4 rows extended across A-E, F-M, and N-Z.
+  - connections: 3 rows added, in A-C, I-N, and O-S; 3 rows' references extended.
+  - places: 1 row. themes: 10 rows.
+  - `wiki/index.md`: 100 passages, 165 people, 293 connections.
+
+`scripts/link-check.sh` is clean.
