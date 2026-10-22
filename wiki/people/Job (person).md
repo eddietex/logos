@@ -178,8 +178,14 @@ speeches; each becomes a linked passage page as it is ingested.
   delivered, the widow singing, *"I put on righteousness, and it clothed me"* (29:14), eyes to the
   blind, a father to the needy, the stranger's lawsuit searched out. Ends *"as one who comforts the
   mourners"* (29:25).
-- **Job 30–31** — the present misery, and the oath of innocence in which he calls down curses on
-  himself if the charges are true.
+- **Job 30:1–31** — [[Now They Mock Me]]. The present, as chapter 29's negative, turned three times on
+  *"But now"*: mocked by the sons of an outcast people he would not have hired (30:1–8), a song and a
+  byword, spat on (30:9–10), besieged by a rabble once God *"has untied his cord"* (30:11–14); then
+  *"I have become like dust and ashes"* (30:19), and *"I cry to you, and you do not answer me"* (30:20)
+  — his last direct address to God until 40:4. Ends a brother to jackals, his harp *"turned to
+  mourning"* (30:29, 31).
+- **Job 31** — the oath of innocence in which he calls down curses on himself if the charges are
+  true.
 - **Job 32–37** — Elihu, who is angry at everyone and whom nobody answers.
 - **Job 38–41** — God speaks from the whirlwind, and asks questions instead of giving reasons.
 - **Job 42:1–6** — *"I had heard of you by the hearing of the ear, but now my eye sees you."*
@@ -346,6 +352,16 @@ speeches; each becomes a linked passage page as it is ingested.
   comforter of mourners (29:25) the friends failed to be. **Tension noted, not a contradiction between
   pages:** 3:25's dread in prosperity against 29:18's remembered confidence. See
   [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
+- [[Now They Mock Me]] — Job 30:1–31; **the "after", line for line against chapter 29.** The young who
+  hid from him deride him (*śāḥăqû*, the verb of his own smile at 29:24); the princes' hand on the
+  mouth becomes spitting (30:10); the cry he once answered (*šwʿ*, 29:12) is now his, and unanswered
+  (30:20); *"When I waited for light, there came darkness"* (30:26) against 29:3; the seat at the gate
+  becomes a cry for help in the assembly (30:28); and the comforter of mourners ends as the mourner
+  (30:31). Bildad's terrors and his nameless wicked (18:11, 14, 17) are turned on Job (30:15, 8). At the
+  centre, *ʿāpār wāʾēper* (30:19), the dust and ashes of Genesis 18:27 and of his last words. **Tension
+  noted, not a contradiction between pages:** his contempt for the outcasts of 30:1–8 beside his pity
+  for the wilderness poor at 24:4–8 and his fatherhood of the needy at 29:16 — both readings recorded on
+  the passage page. See [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]].
 
 ## Related people
 

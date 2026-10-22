@@ -368,6 +368,11 @@ the rest of the canon.
 - [[Where Shall Wisdom Be Found]] — Job 28:13, 22; wisdom *"not found in the land of the living"* — *ʾereṣ haḥayyîm* —
   and the dead no better placed: *"Destruction and Death say, 'We have heard a rumor of it with our
   ears.'"* **Neither side of the boundary holds it**
+- [[Now They Mock Me]] — Job 30:19, 23; ***"I have become like dust and ashes"*** — *ʿāpār wāʾēper*,
+  Abraham's pair (Genesis 18:27) and the words of 42:6 — and ***"you will bring me to death, To the
+  house appointed for all living"*** — *bêt môʿēd ləkol-ḥāy*, death as the one appointment every living
+  thing keeps, said by a man who has asked for twenty chapters for a different appointment, with God.
+  See [[Sitting in Dust and Ashes]].
 
 ## Related themes
 

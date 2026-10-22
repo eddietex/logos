@@ -237,6 +237,11 @@ noticing into doctrine.
   words they didn't speak again"*, waiting for Job's words *"as for the rain"*. The dialogue has
   overturned it — three men who will not stop. See
   [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
+- [[Now They Mock Me]] — Job 30:5, 7, 9; **speech degraded**: the shout raised after a thief (30:5), the
+  braying in the bushes (*nāhaq*, otherwise only of the wild donkey, 6:5), and ***"Now I have become
+  their song. Yes, I am a byword to them"*** (30:9) — *nəgînātām*, the taunt-song of Lamentations 3:14
+  and Psalm 69:12. The gate that fell silent for him (29:9–10, 21–22) has become a place where he is
+  sung about.
 
 ## Related themes
 

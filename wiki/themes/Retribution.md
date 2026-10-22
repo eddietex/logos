@@ -254,6 +254,12 @@ verdicts.
   (Zophar's lost speech; imprecation on the false accuser, 27:7; concession of the end without the
   inference; citation) are on the passage page and at
   [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]]; the wiki does not choose between them
+- [[Now They Mock Me]] — Job 30; **the friends' portrait of the wicked man, worn by Job.** Bildad's
+  *terrors* that *"chase him at his heels"* (18:11) — *"Terrors have turned on me. They chase my honor as
+  the wind"* (30:15); the wicked man's lost name (18:17) — given, as *bəlî-šēm*, to the men who mock Job
+  (30:8); the darkness (30:26), the ruin and the jackals (30:14, 29). The retribution reading of the
+  chapter is available to anyone who wants it, and Job states every fact it needs without once
+  conceding the inference.
 
 ## Related themes
 

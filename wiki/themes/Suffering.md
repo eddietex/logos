@@ -217,6 +217,11 @@ requires only that you be standing outside it.
   wet who *"embrace the rock for lack of a shelter"*, the harvesters who carry sheaves hungry, and the
   wounded of the city who cry out (24:12). Job is the first speaker in the dialogue to describe anyone
   else's pain at length, and he is the one the friends accused of causing it.
+- [[Now They Mock Me]] — Job 30:1–31; **suffering in every register at once**: social (the young who
+  deride him, the spitting, the siege of the rabble, 30:1–15), divine (*"You have turned to be cruel to
+  me"*, 30:21), bodily (bones pierced at night, skin blackened and peeling, 30:17, 30), and inward (*"my
+  soul is poured out within me"*, 30:16; *"My heart is troubled, and doesn't rest"*, 30:27). Set line
+  for line against chapter 29, so that every pain is measured by the honour it replaced.
 
 ## Related themes
 

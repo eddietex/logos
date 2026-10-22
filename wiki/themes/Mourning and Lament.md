@@ -130,6 +130,12 @@ regulating it.
 - [[The Months of Old]] — Job 29:25; ***"as one who comforts the mourners"*** — *ʾăbēlîm yənaḥēm*, the
   verb of the friends' errand (2:11). Job remembers being the comforter; in the next chapter his harp
   *"has turned to mourning"* (30:31). See [[Comforters Who Do Not Comfort]].
+- [[Now They Mock Me]] — Job 30:28–31; ***"I go mourning without the sun"*** — *qōdēr hillaktî*, the
+  psalmist's *"I go mourning all day long"* (Psalm 38:6) — ***"I am a brother to jackals, and a companion
+  to ostriches"***, the pair Micah 1:8 howls and moans like, and ***"my harp has turned to mourning, and
+  my pipe into the voice of those who weep"***: Jubal's *kinnôr* and *ʿûgāb* (Genesis 4:21), the music of
+  21:12, turned. The comforter of 29:25 ends as the mourner, and no comforter is named. See
+  [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]].
 
 ## Related themes
 

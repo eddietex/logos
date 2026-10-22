@@ -163,6 +163,10 @@ to go.
   Abaddon (*ʾăbaddôn*) and Death (*māwet*) stand in for Sheol at the bottom of a search that has already
   failed in the land of the living (28:13), the deep and the sea (28:14), and the sky (28:21). The
   realm that was *naked before God* two chapters earlier (26:6) has heard of wisdom only by report.
+- [[Now They Mock Me]] — Job 30:23; ***"For I know that you will bring me to death, To the house appointed
+  for all living."*** *Bêt môʿēd ləkol-ḥāy* — not named as Sheol, but the same destination under a new
+  name: a *meeting house*, the one appointment that all the living keep. Job's appeals for a hearing
+  with God (9:32–35; 13:3; 23:3) end, in this chapter, with the only appointment he now expects.
 
 ## Related places
 

@@ -152,6 +152,10 @@ raw text.)*
   through darkness"*** — darkness was there, and God's light carried him through it, against 19:8's
   *"set darkness in my paths"*. And *"the light of my face"* (29:24): the shining face of Numbers 6:25,
   on a man. See [[The Lamp of the Wicked Put Out]].
+- [[Now They Mock Me]] — Job 30:26, 28; ***"When I looked for good, then evil came; When I waited for
+  light, there came darkness"*** — the lamp of 29:3, *"by his light I walked through darkness"*, gone
+  out; and *"I go mourning without the sun"*. Israel says the same at Jeremiah 8:15 and Isaiah 59:9,
+  *"We look for light, but see darkness."*
 
 ## Related themes
 

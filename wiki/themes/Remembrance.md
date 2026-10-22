@@ -236,6 +236,10 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   "before" that chapter 30's *"But now"* (30:1) is measured against, and the record chapter 31 swears
   to. Against Bildad's wicked man, who has *"no name in the street"* (18:17), Job remembers his seat
   there (29:7).
+- [[Now They Mock Me]] — Job 30:1, 9, 16; ***"But now"*** — *wəʿattâ*, three times. **Memory's other
+  half**: chapter 29 held up the past, and chapter 30 measures the present against it line by line, the
+  young who hid (29:8) now deriding (30:1), the light he walked by (29:3) now darkness (30:26), the
+  comforter (29:25) now the mourner (30:31).
 
 ## Related themes
 

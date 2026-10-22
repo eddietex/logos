@@ -216,7 +216,7 @@ the young who hid from him now mock him (30:1), the nobles' silence becomes spit
 - [[Comforters Who Do Not Comfort]] — 29:25, *ʾăbēlîm yənaḥēm*, the friends' verb.
 - [[I Put On Righteousness - Job 29.14 and the Garments of Justice]] — Psalm 132:9; Isaiah 11:5; 59:17;
   61:10; Zechariah 3:4–5; Ephesians 6:14; Revelation 19:8.
-- Job 30:1–31 — *"But now"*: every line of chapter 29 reversed (next pericope).
+- [[Now They Mock Me]] — Job 30:1–31, *"But now"*: every line of chapter 29 reversed.
 - Job 31:16–22 — the same deeds sworn to under a curse. Not yet ingested.
 - Job 40:4, 10 — Job's hand on his mouth; and God's challenge, *"Array yourself with honor and
   majesty"*, the robe of 29:14 offered back as a question. Not yet ingested.

@@ -12,7 +12,9 @@ tags: [connection]
 - **Job 42:6** — *"Therefore I abhor myself, and repent in dust and ashes."*
 - **Job 13:12** — *"Your memorable sayings are proverbs of ashes (mišlê-ʾēper)"*: the friends'
   wisdom made of the ash Job is sitting in — [[Though He Slay Me]]
-- **Genesis 18:27** — *"Behold now, I have taken it on myself to speak to the Lord, who am but dust
+- **Job 30:19** — *"He has cast me into the mire. I have become like dust and ashes."* —
+  *keʿāpār wāʾēper*, the pair's first appearance in the book — [[Now They Mock Me]]
+- **Genesis 18:27** — *"See now, I have taken it on myself to speak to the Lord, although I am dust
   and ashes"* — [[The Three Visitors and Abraham's Intercession]]
 - **Genesis 3:19** — *"for you are dust, and to dust you shall return"* — [[The Fall]]
 - **Esther 4:1–3** — Mordecai in sackcloth and ashes in the middle of the city, and *"many lay in
@@ -44,7 +46,8 @@ can be the same image doing different work.
 what he is made of in order to say what he has no standing to do. It reaches back to Genesis 3:19's
 *dust*, and it is the only use in the list that is about a **category** rather than an occasion.
 
-**Job uses all three, and the book's shape is the distance between the first use and the last.**
+**Job uses all three, and the book's shape is the distance between the first use and the last** —
+with a middle step at 30:19 that the wiki's first draft of this page missed.
 
 At **2:8** he sits *bətôk-hāʾēper*, among the ashes, and every marker says mourning: he has buried
 ten children, he is diseased, and the friends who arrive four verses later will sit down in the same
@@ -52,8 +55,18 @@ dirt with him and sprinkle dust on their own heads (2:12–13). **Nothing in cha
 repentance, and the narrator explicitly denies that there is anything to repent of.** See
 [[Seven Days of Silence]] for the arrival, and [[Mourning and Lament]] for the rite in full.
 
-At **42:6** he says *"I repent in dust and ashes"* — *ʿāpār wāʾēper*, Abraham's pair, not chapter 2's
-single word. **The substance has not changed and the act has.** And the change is not a confession
+At **30:19**, in the last chapter of his defence before the oath, he says *"He has cast me into the mire.
+I have become like dust and ashes"* — ***keʿāpār wāʾēper*, Abraham's pair, and its first use in the
+book.** **The pair occurs three times in the Hebrew Bible — Genesis 18:27, Job 30:19, and Job 42:6 —
+and Job says two of them.** In between the ashes he sat in (2:8) and the ashes he names at the end
+(42:6) is this: not a rite and not a repentance, but a description of what God has made of him. He no
+longer sits in the material; *"I have become"* it (*wāʾetmaššēl*), the mortality category of Genesis
+18:27 imposed instead of confessed. The next verse turns to God — *"I cry to you, and you do not answer
+me"* (30:20) — which is Abraham's situation exactly: dust and ashes, speaking to the Lord, uncertain of
+any standing to do so.
+
+At **42:6** he says *"I repent in dust and ashes"* — *ʿāpār wāʾēper*, Abraham's pair and his own of
+30:19, not chapter 2's single word. **The substance has not changed and the act has.** And the change is not a confession
 of the sin the friends spent twenty-five chapters looking for: God says four verses later that Job
 spoke of him *"the thing that is right"* and the friends did not. **Whatever Job retracts at 42:6, it
 is not the innocence he swore to at 27:5.**
@@ -87,13 +100,17 @@ whether Job is a mourner or an outcast, and the dialogue can be read either way.
 
 ## Significance
 
-- **It brackets the book.** Job 2:8 and Job 42:6 are the only two places in the book where the
-  substance appears, and they are its first and last images of the man. Any reading of the ending
-  has to account for the fact that he does not get up out of the ashes to say it.
+- **It brackets the book.** Job 2:8 and Job 42:6 are its first and last images of the man, and
+  ashes are in both. (They are not the only places the word appears: Job calls the friends' maxims
+  *"proverbs of ashes"* at 13:12, and says *"I have become like dust and ashes"* at 30:19. This page
+  earlier said the two bracketing verses were the only ones; that was wrong, and is corrected here.)
+  Any reading of the ending has to account for the fact that he does not get up out of the ashes to
+  say it.
 - **It puts Job in Abraham's phrase.** *Dust and ashes* is said by exactly two people in the Hebrew
-  Bible, and both say it while addressing God about something they have no standing to address him
-  about — Abraham arguing about Sodom, Job answering the whirlwind. See
-  [[The Three Visitors and Abraham's Intercession]].
+  Bible, three times, and every time while addressing God about something the speaker has no standing
+  to address him about — Abraham arguing about Sodom, Job crying unanswered at 30:19–20, and Job
+  answering the whirlwind at 42:6. See [[The Three Visitors and Abraham's Intercession]] and
+  [[Now They Mock Me]].
 - **It shows how little the gesture settles.** Mourning and repentance are indistinguishable from
   outside, which is exactly the friends' problem: they arrive, find a man in the posture of a
   penitent, and conclude there is something to be penitent about. See [[Retribution]].

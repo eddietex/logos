@@ -11,6 +11,9 @@ tags: [connection]
   diadem."* — [[The Months of Old]]
 - **Job 19:9** — *"He has stripped me of my glory, and taken the crown from my head."* —
   [[I Know That My Redeemer Lives]]
+- **Job 30:18** — *"By great force is my garment disfigured. It binds me about as the collar of my
+  coat."* — *ləbûšî*, from the root of 29:14's *lābaštî*: the garment that once wore the man now
+  disfigured and binding him — [[Now They Mock Me]]
 - **Job 22:6** — Eliphaz: *"you have … stripped the naked of their clothing."* —
   [[Eliphaz's Third Speech]]
 - **Job 40:10, 14** — Yahweh to Job: *"Now deck yourself with excellency and dignity. Array yourself with

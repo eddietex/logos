@@ -1244,6 +1244,14 @@ wiki records this without softening it; see [[The Divine Council]] and [[Satan]]
   Almighty *"yet with me"* in the same verse as the children (29:3–5). **Then he is not mentioned
   again in the chapter.** What Job grieves first is God's company; the honour at the gate and the
   deeds that earned it (29:7–25) are told without him, as the facts of a defence.
+- **The God of [[Now They Mock Me]]** is addressed one last time before the whirlwind, and as the
+  one who does not answer: *"I cry to you, and you do not answer me. I stand up, and you gaze at me.
+  You have turned to be cruel to me"* (30:20–21). He *"has untied his cord"* and let the rabble loose
+  (30:11), *"cast me into the mire"* (30:19), lifts Job to the wind and dissolves him in the storm
+  (30:22), and will bring him *"to the house appointed for all living"* (30:23). **Chapter 31 speaks of
+  him only in the third person**, so these four verses are Job's last words to God until *"What shall
+  I answer you?"* (40:4) — and the storm Job says God dissolves him in is, in image though not in the
+  same Hebrew word, the place God will speak from (38:1).
 
 Two further notes. **The divine names change with the genre.** Job's prose frame uses *Yahweh*; the
 poetry almost never does, preferring *ʾĒl*, *ʾĔlôah*, and *Šadday* — the vocabulary of a
@@ -1609,6 +1617,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   (28:25–27), and who tells mankind that the fear of the Lord is wisdom (28:28)
 - [[The Months of Old]] — remembered in the past tense only: the one who *"watched over"* Job, whose
   lamp shone on his head and whose friendship was in his tent (29:2–5); unmentioned after 29:5
+- [[Now They Mock Me]] — the one who *"has untied his cord"* (30:11) and *"cast me into the mire"*
+  (30:19); addressed in 30:20–23 as silent, watching, *"cruel"* (*ʾakzār*), and the one who will bring
+  Job to death — the last direct address before 40:4
 - [[The Brothers' First Journey to Egypt]] — ***ʾĕlōhîm* twice, both inside quotation marks, and both
   from men who have misread their situation.** Joseph's *"Do this, and live, **for I fear God**"* (42:18)
   reassures ten men he is currently imprisoning; the brothers' ***"What is this that God has done to

@@ -70,8 +70,8 @@ men who have refused the covenant's God; Job's herds were driven off and burned 
 send out their little ones like a flock. Their children dance"* (21:11) — the *little ones*,
 *ʿăwîlîm*, are the word for the children who despised Job two chapters ago (19:18), and Job's own
 children died at a feast (1:13, 18). *"They sing to the tambourine and harp, and rejoice at the
-sound of the pipe"* (21:12) — and at 30:31 he will say *"my harp is turned to mourning, my pipe into
-the voice of those who weep."*
+sound of the pipe"* (21:12) — and at 30:31 he will say *"my harp has turned to mourning, and my pipe
+into the voice of those who weep."*
 
 The *harp and pipe*, *kinnôr* and *ʿûgāb*, are the pair of Genesis 4:21, where [[Jubal]] is *"the
 father of all who handle the harp and pipe"* — in the line of Cain. Job does not make the
@@ -324,7 +324,7 @@ a valley floor where a burial could actually be dug. No named place.
   the disturbed third cycle: the speech that most directly contradicts this one — 27:20's *"A storm
   steals him away in the night"* is 21:18's *gənābattû sûpâ* asserted rather than questioned. See
   [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]].
-- Job 30:31 — *"my harp is turned to mourning"*.
+- [[Now They Mock Me]] — Job 30:31, *"my harp has turned to mourning"*.
 - Job 40:4 — *"I lay my hand on my mouth."*
 - Exodus 23:26; Deuteronomy 28:4 — the covenant blessings of fertility, behind 21:10.
 - Exodus 20:5; 34:7; Deuteronomy 24:16; Jeremiah 31:29–30; Ezekiel 18:1–4, 20 — iniquity and the

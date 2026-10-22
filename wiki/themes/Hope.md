@@ -178,6 +178,10 @@ is close because you cannot bear to sit in the dark with him.
   the waters. The dew lies all night on my branch"***: the hope of a full life, Eliphaz's 5:26 and the
   tree of Psalm 1:3, quoted as something Job *said* and no longer can. See
   [[There Is Hope for a Tree - The Stump That Sprouts]].
+- [[Now They Mock Me]] — Job 30:26; ***"When I looked for good, then evil came; When I waited for light,
+  there came darkness."*** *Qiwwîtî* and *ʾăyaḥălâ*, the two verbs of waiting hope, each met by its
+  opposite. The tree-hope of 29:18–20 has its answer in the next chapter: not a root by the water but
+  *"the house appointed for all living"* (30:23).
 
 ## Related themes
 

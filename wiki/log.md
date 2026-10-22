@@ -10184,3 +10184,85 @@ added. Indexes: books (23 / 32), people (4 rows), places (1 row), themes (12 row
 `wiki/index.md` (82 passages, 250 connections).
 
 No contradiction between wiki pages found.
+
+## [2026-10-21] ingest | Job 30.1-31 — Now They Mock Me
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Job]] is the first `in-progress`
+book in `wiki/books/index.md`, and the first unchecked box on its page was Job 30:1–31. **Boundary and
+title unchanged** from the plan. No collision with any other book. **Job is at 24 / 32.** No discussion
+step; it is written into the passage page.
+
+### The passage page
+
+[[Now They Mock Me]], built around four findings:
+
+**1. Chapter 29's negative, turned three times on *wəʿattâ*, "But now" (30:1, 9, 16)** — the mockers
+(1–15), God (16–23), the mourner (24–31). A nine-row table on the page sets each line against its
+chapter-29 original: the young who hid (29:8) now deride (30:1), with *śḥq*, the verb of Job's own smile
+(29:24); the princes' hand on the mouth (29:9) become spitting (30:10, *rōq*, Isaiah 50:6); the cry he
+answered (*šwʿ*, 29:12) now his own, unanswered (30:20); light (29:3) become darkness (30:26); the seat
+at the gate (29:7) a cry in the assembly (30:28); the comforter (29:25) the mourner (30:31).
+
+**2. "I have become like dust and ashes" (30:19)** — *ʿāpār wāʾēper*, three times in the Hebrew Bible
+(Genesis 18:27; Job 30:19; 42:6), the middle one here.
+
+**3. Job's last second-person address to God before 40:4** (30:20–23): chapter 31 speaks of him only in
+the third person. *ʾAkzār*, *cruel* (30:21), is God's own word at 41:10; *bêt môʿēd*, *"the house
+appointed for all living"* (30:23), the only appointment Job now expects.
+
+**4. The friends' wicked man worn by Job** — Bildad's *ballāhôt*, terrors that chase (18:11, 14; 30:15),
+and his nameless wicked (18:17) given, as *bənê bəlî-šēm*, to the mockers (30:8); the siege ramp of
+19:12 (*sālal*) and the breach of 16:14 (*pereṣ*) at 30:12, 14; jackals and ostriches at 30:29.
+
+**Judgment calls.** **Tension noted, not a page contradiction:** Job's contempt for the outcasts of
+30:1–8 beside his pity for the wilderness poor at 24:4–8 and *"a father to the needy"* at 29:16 — two
+readings recorded on the passage page and at [[Compassion and Mercy]], neither chosen. Textual notes
+recorded rather than resolved: 30:11's *yitrô* / *yitrî* (*his* or *my* cord; the WEB follows the
+written text); 30:20's *"you gaze at me"* against the common carried-over negative; the proposed
+*neḥāmâ*, *comfort*, for *ḥammâ*, *sun*, at 30:28 (no manuscript support); and 30:13, 18, 22, 24 marked
+as obscure, with nothing argued from them. The mockers get no page (a class, not characters, appearing
+only here).
+
+### Corrections to existing pages
+
+- **[[Sitting in Dust and Ashes]] had three errors, now fixed.** It did not list Job 30:19, the pair's
+  first appearance in the book; it said 2:8 and 42:6 were *"the only two places in the book where the
+  substance appears"*, which its own 13:12 entry contradicted; and it quoted Genesis 18:27 in a wording
+  that is not the WEB's (*"Behold now … who am but dust and ashes"*), now replaced with the text in
+  `raw/bible/Genesis.md` (*"See now … although I am dust and ashes"*). The correction is stated on the
+  page itself, not silently overwritten. A new analysis paragraph sets 30:19 between 2:8 and 42:6.
+- **[[Why Do the Wicked Live]] misquoted 30:31** twice as *"my harp is turned to mourning, my pipe
+  into"*; now the WEB's *"my harp has turned to mourning, and my pipe into"*.
+
+### Connection pages
+
+Created (1): [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]]. Revised (8):
+[[Sitting in Dust and Ashes]] (above), [[They Didn't Recognize Him - Marred Beyond Knowing]] (30:10,
+*rōq*), [[The Boil of Deuteronomy 28 on a Blameless Man]] (30:30),
+[[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] (30:2 linked),
+[[Comforters Who Do Not Comfort]] (30:25, 31),
+[[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]] (30:9–10, 20 beside Psalm 22:2, 6–7),
+[[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] (30:7, *nāhaq*'s only other use), and
+[[I Put On Righteousness - Job 29.14 and the Garments of Justice]] (30:18, *ləbûšî*). Every non-Job
+quotation was checked against the WEB from bible-api.com before writing (Micah 1:8; Isaiah 13:21–22;
+34:13; 43:20; 50:6; 53:3; 59:9; Jeremiah 8:15; 9:11; 14:19; Psalm 22:1–2, 6–8; 30:11; 38:6; 42:9; 44:14,
+19; 69:11–12; 102:6; Lamentations 3:14, 63; 4:3; 5:15; Amos 8:10; Matthew 26:67; 1 Kings 19:4–5;
+Deuteronomy 28:37, Psalm 137:2, Isaiah 38:14, Romans 12:15, Hebrews 9:27 and Ecclesiastes 12:5 checked,
+not used), and the King James rendering of Job 30:29 quoted in the jackals page's translation note
+was checked against bible-api.com's KJV. Job and Genesis texts checked against `raw/bible/`. Where the
+WEB renders *bənôt yaʿănâ* differently (*ostriches* in Job and Isaiah, *daughters of owls* in Micah
+1:8), the jackals page says so.
+
+### Pages created or revised
+
+Created (2): the passage page and the connection. People (4): [[Job (person)]] (timeline split into
+30 and 31; appears-in), [[God]] (Job section and appears-in), [[Bildad the Shuhite]], [[Jubal]].
+Places (1): [[Sheol]]. Themes (10): [[Suffering]], [[Mourning and Lament]], [[Remembrance]],
+[[Prayer]], [[Light and Darkness]], [[Life and Death]], [[Language and Speech]],
+[[Compassion and Mercy]], [[Hope]], [[Retribution]]. Passages (3): [[The Months of Old]] (forward
+reference linked), [[Why Do the Wicked Live]] (link and misquote), [[The Second Test]] (30:30 linked).
+Connections revised (8). Book page: box checked, structure note for 30 added. Indexes: books
+(24 / 32), people (4 rows), places (1 row), themes (10 rows), connections (+1 row, 5 rows revised),
+`wiki/index.md` (83 passages, 251 connections).
+
+No contradiction between wiki pages found beyond the [[Sitting in Dust and Ashes]] corrections above.

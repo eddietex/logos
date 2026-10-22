@@ -108,6 +108,11 @@ treatment of the friends' speeches is written knowing that sentence is coming.
   the needy, the widow singing — **Eliphaz's charge sheet of 22:6–9 answered item by item** before
   chapter 31 swears to it. It ends with Job *"as one who comforts the mourners"* (29:25), the
   friends' own verb.
+  Chapter 30 is its negative, turned three times on *"But now"* (30:1, 9, 16): the young men who hid
+  from him now mock him, the princes' silence has become spitting, and the man who heard every cry at
+  the gate cries to God and is not answered — *"I cry to you, and you do not answer me"* (30:20), **his
+  last direct address to God before 40:4**. At its centre, *"I have become like dust and ashes"* (30:19),
+  Abraham's pair and the words of 42:6; at its end, *"my harp has turned to mourning"* (30:31).
 - **32–37 Elihu** — a fourth speaker, unannounced and unmentioned afterwards.
 - **38–41 Yahweh answers out of the whirlwind** — two speeches, ending in Behemoth and Leviathan.
 - **42 Epilogue** — Job's retraction, the friends rebuked, and restoration.
@@ -166,7 +171,7 @@ itself** where one stands out, since his replies are where the book's memorable 
 ### Job's final defense (29–31)
 
 - [x] [[The Months of Old]] — Job 29:1–25
-- [ ] Now They Mock Me — Job 30:1–31
+- [x] [[Now They Mock Me]] — Job 30:1–31
 - [ ] Job's Oath of Innocence — Job 31:1–40
 
 ### Elihu (32–37)

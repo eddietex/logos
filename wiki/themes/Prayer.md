@@ -197,6 +197,12 @@ already did.
   hear you."*** The promise is kept at 42:8–10, and the prayer that is heard is Job's prayer for
   Eliphaz — who has just described it at 22:30 without knowing it: *"He will even deliver him who is
   not innocent … through the cleanness of your hands."*
+- [[Now They Mock Me]] — Job 30:20–23; ***"I cry to you, and you do not answer me. I stand up, and you
+  gaze at me."*** *ʾĂšawwaʿ*, the cry for help — the cry of the poor that Job answered at 29:12
+  (*məšawwēaʿ*), now his own and unanswered, as at 19:7 and in Psalm 22:2, *"My God, I cry in the daytime,
+  but you don't answer."* **Job's last prayer in the second person before the whirlwind**: chapter 31
+  speaks of God only in the third, and the next *you* addressed to him is *"What shall I answer you?"*
+  (40:4).
 
 ## Related themes
 

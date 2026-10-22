@@ -18,6 +18,9 @@ tags: [connection]
 - **Job 29:25** — *"I chose out their way, and sat as chief. I lived as a king in the army, as one who
   comforts the mourners"* — *kaʾăšer ʾăbēlîm yənaḥēm*: Job remembering himself as the comforter —
   [[The Months of Old]]
+- **Job 30:25, 31** — *"Didn't I weep for him who was in trouble?"*, and *"my harp has turned to
+  mourning, and my pipe into the voice of those who weep"*: the comforter of 29:25 become the mourner,
+  and nobody in the chapter comforting him — [[Now They Mock Me]]
 - **Job 42:11** — his brothers and sisters *"comforted him"* — *wayyānudû lô wayənaḥămû ʾōtô*
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend… My
   brothers have dealt deceitfully as a brook"* — [[The Arrows of the Almighty]]

@@ -20,6 +20,10 @@ tags: [connection]
   by the people."*
 - **Psalm 22:1** *(not yet ingested)* — *"My God, my God, why have you forsaken me?"*, quoted from the
   cross at Matthew 27:46
+- **Job 30:9–10, 20** — *"Now I have become their song … don't hesitate to spit in my face"*, and *"I
+  cry to you, and you do not answer me"*: the psalm's *"a reproach of men"*, *"All those who see me mock
+  me"* (22:6–7) and *"I cry in the daytime, but you don't answer"* (22:2), without the worm and without
+  the rescue — [[Now They Mock Me]]
 - **Isaiah 41:14** *(not yet ingested)* — *"Don't be afraid, you worm Jacob, and you men of Israel. I
   will help you," says Yahweh, "and your Redeemer is the Holy One of Israel.*"
 - **Isaiah 66:24; Mark 9:48** *(not yet ingested)* — *"their worm will not die, nor will their fire be

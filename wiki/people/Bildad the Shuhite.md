@@ -181,6 +181,10 @@ book, and Bildad's name survives inside them.
   in Sheol and ends with God known only at *"the outskirts of his ways"* (26:14), and his *"how can
   man be just (yiṣdaq) with God?"* (25:4) is answered by *"Far be it from me that I should justify
   (ʾaṣdîq) you"* (27:5).
+- [[Now They Mock Me]] — Job 30:8, 15; not named, and his vocabulary turned on Job: ***"Terrors have
+  turned on me. They chase my honor as the wind"*** — *ballāhôt*, the terrors that *"chase him at his
+  heels"* (18:11) and *"the king of terrors"* (18:14) — and the mockers called *bənê bəlî-šēm*, sons of
+  no name, the namelessness Bildad promised the wicked (*"He shall have no name in the street"*, 18:17).
 
 ## Related people
 

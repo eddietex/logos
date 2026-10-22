@@ -15,7 +15,9 @@ tags: [connection]
 - **Genesis 42:8** — *"Joseph recognized his brothers, but they didn't recognize him"* —
   [[The Brothers' First Journey to Egypt]]
 - **Job 19:19–20** — *"All my familiar friends abhor me… My bone clings to my skin and to my flesh"*
-- **Job 30:10** — *"They abhor me, they stand aloof from me, and don't hesitate to spit in my face"*
+- **Job 30:10** — *"They abhor me, they stand aloof from me, and don't hesitate to spit in my face"* —
+  [[Now They Mock Me]]; the spitting is *rōq*, the word of Isaiah 50:6, *"I didn't hide my face from
+  shame and spitting"*
 - **Luke 24:16, 31** — on the Emmaus road, *"their eyes were kept from recognizing him"*, and then
   opened
 

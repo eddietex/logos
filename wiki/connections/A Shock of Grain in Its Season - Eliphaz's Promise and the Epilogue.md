@@ -86,7 +86,8 @@ to, and the blessing Eliphaz promised Job arrives when Job prays for Eliphaz.
 
 **The word for "full age" occurs once more.** *Kelaḥ* (5:26), a rare noun meaning something like
 *ripeness* or *full vigour*, appears elsewhere in the Bible only at Job 30:2, where Job uses it with
-contempt for the fathers of the men who now mock him: *"men in whom ripe age has perished."* The
+contempt for the fathers of the men who now mock him: *"men in whom ripe age has perished"*
+([[Now They Mock Me]]). The
 epilogue does not reuse the word. It uses the patriarchs' formula instead — *zāqēn ûśəbaʿ yāmîm*,
 *old and full of days*, said otherwise only of Isaac (Genesis 35:29), David (1 Chronicles 23:1;
 29:28), and Jehoiada (2 Chronicles 24:15). Job's death is told in the vocabulary of the fathers of

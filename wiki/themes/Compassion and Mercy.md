@@ -139,6 +139,12 @@ name, and gives the name to a father who cannot see it work.**
   **force** to the list (*"I broke the jaws of the unrighteous"*, 29:17) and ends with Job *"as one who
   comforts the mourners"* (29:25). See
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+- [[Now They Mock Me]] — Job 30:25; ***"Didn't I weep for him who was in trouble? Wasn't my soul grieved
+  for the needy?"*** — the *ʾebyôn* of 29:16 — asked by a man for whom nobody in the chapter weeps.
+  **And a tension in the same speech**: at 30:1–8 Job describes an outcast wilderness people with
+  contempt, their fathers unfit to run with his sheep dogs, in terms close to those in which he pitied
+  the wilderness poor at 24:4–8. The passage page records two readings (an outlaw class distinguished
+  from the oppressed poor; or the old hierarchy surfacing in a man stripped of it) and does not choose.
 
 ## Related themes
 
