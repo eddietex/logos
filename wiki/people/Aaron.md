@@ -85,9 +85,15 @@ the verb of God's own *"outstretched arm"* (6:6) and *"when I stretch out my han
 prophet's hand does what God said his would do.** The text leaves unclear whose hand lifts the rod at
 7:20. See [[Water Turned to Blood]].
 
+**At the frogs and the lice the rod is still his, and then it disappears.** He stretches his hand
+over the waters and the frogs come up (8:5–6); he strikes *"the dust of the earth"* and it becomes lice
+*"on man, and on animal"* (8:16–17) — the first plague the magicians cannot copy. **At the flies there
+is no rod and no Aaron**: *"Yahweh did so"* (8:24). He is summoned with Moses (8:8, 25), but only Moses
+speaks. See [[Frogs, Lice, and Flies]].
+
 ### What is ahead
 
-The plagues; Sinai, where he goes up with the elders (24); the priestly
+The rest of the plagues; Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -109,6 +115,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   the magicians' rods — Exodus 7:1–12, [[Aaron's Staff Before Pharaoh]]
 - Told to stretch his rod over all the waters of Egypt; the river and every water turned to blood —
   Exodus 7:19–21, [[Water Turned to Blood]]
+- Brings up the frogs over the waters of Egypt; strikes the dust and it becomes lice — Exodus 8:5–6,
+  16–17, [[Frogs, Lice, and Flies]]
 
 ## Appears in
 
@@ -127,6 +135,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   *nābîʾ*; does the first sign before Pharaoh; his rod swallows the magicians' rods
 - [[Water Turned to Blood]] — Exodus 7:19–20; **the hand stretched out.** Stretches the rod over
   the rivers, streams, pools, and ponds of Egypt, *"as Yahweh commanded"*
+- [[Frogs, Lice, and Flies]] — Exodus 8:5–6, 16–17; **the last plagues of the rod in his hand.** Frogs from
+  the waters, lice from the dust; absent from the flies
 
 ## Related people
 

@@ -15,7 +15,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] | literary-parallel | Job 33:14, 29 · Job 40:5 · Job 5:19 · Psalm 62:11 · Proverbs 6:16 |
 | [[One Flesh - Genesis 2 and the New Testament on Marriage]] | quotation | Genesis 2:24 · Matthew 19:4–6 · Mark 10:6–8 · 1 Corinthians 6:16 · Ephesians 5:31 |
 | [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 · Exodus 6:16, 19 |
-| [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 |
+| [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 8:25–28 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
 | [[Passing Between the Pieces]] | thread | Genesis 15:9–18 · Jeremiah 34:8–22 · Genesis 6:18; 9:8–17 · Genesis 14:13 · Genesis 17:1–14 · Exodus 24:3–8 · Galatians 3:15–18 · Hebrews 6:13–18; 9:15–22 |
@@ -24,7 +24,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]] | literary-parallel | Job 20:29 · Job 27:13–23 · Job 21:7–18, 28 · Job 18:21 · Job 5:27 |
 | [[Possess the Gate of Those Who Hate Them]] | parallel | Genesis 22:17 · Genesis 24:60 · Ruth 4:11–12 |
 | [[The Priests Who Kept Their Land and the Levites Who Got None]] | parallel | Genesis 47:22, 26 · Numbers 18:20–24 · Numbers 35:1–8 · Deuteronomy 10:9; 18:1–2 · Joshua 13:14, 33 · Joshua 21 |
-| [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 7:1 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
+| [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 7:1 · Exodus 8:8–13, 28–31 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
 | [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Job 22:17–18 · Job 24:1–24 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 · Job 11:20 · Job 12:6 · Job 21:13, 32 · Job 27:13–23 |
 | [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] | prophecy → fulfillment | Genesis 3:15 · Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · Revelation 12 |
 | [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |

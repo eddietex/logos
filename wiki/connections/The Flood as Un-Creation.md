@@ -15,6 +15,8 @@ tags: [connection]
 - Exodus 7:19–21 — the *miqwēh* of the waters (Genesis 1:10) turned to blood and the fish (1:26) dead:
   a small, local un-creation in the same vocabulary, though Exodus draws no link —
   [[Water Turned to Blood]]
+- Exodus 8:3, 24 — the river *"shall swarm"* (*šāraṣ*, Genesis 1:20–21; 9:7) with frogs, and *"the land
+  was corrupted"* — *tiššāḥēt hāʾāreṣ*, the exact phrase of Genesis 6:11 (WLC) — [[Frogs, Lice, and Flies]]
 - Psalm 104:5–9 — the waters set a boundary they may not pass
 - Jeremiah 4:23–26 — *"I saw the earth, and, behold, it was waste and void"*: the same reversal used
   of a coming judgment on Judah
@@ -97,3 +99,11 @@ seaworthiness. What turns it is 8:1, *"God remembered Noah"*, and the wind that 
 waters immediately after is the Spirit of 1:2 starting again. The structure puts the whole weight of
 the world's survival on a single act of divine recollection, and the un-creation reading is what
 makes that placement legible.
+
+**The vocabulary is borrowed once more in the plagues.** Exodus 7:19–21 turns the *miqwēh* of the
+waters to blood and kills the fish of the fifth day; Exodus 8 makes the river *swarm* with frogs, using
+the fifth day's verb, and says of the swarms that *"the land was corrupted"* — ***tiššāḥēt hāʾāreṣ***,
+the very words of Genesis 6:11, *"the earth was corrupt"* (WLC). **The difference is the direction**:
+in Genesis the earth corrupts itself and God's flood follows; in Exodus God's plague is what corrupts
+the land. Exodus draws no line to the flood, and the wiki records the shared phrase as a shared phrase.
+See [[Water Turned to Blood]] and [[Frogs, Lice, and Flies]].

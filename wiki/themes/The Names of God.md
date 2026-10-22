@@ -245,6 +245,10 @@ everlasting possession, by treaty with its current occupant.
   *bəzōʾt tēdaʿ*, **the refrain now in the second person singular, addressed to Pharaoh himself**, the
   man who said *"I don't know Yahweh"* (5:2). Pharaoh *"didn't even take this (zōʾt) to heart"* (7:23)
   — [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]
+- [[Frogs, Lice, and Flies]] — Exodus 8:10, 19, 22; **three ways of naming him in one chapter.**
+  *"That you may know that there is no one like Yahweh our God"* — the knowledge refrain sharpened to
+  incomparability, as at 9:14 and 15:11; the magicians' ***"This is God's finger"***, with *ʾĕlōhîm*, not
+  the name; and *"I am Yahweh on the earth"* — *bəqereb hāʾāreṣ*, *in the midst of the land*
 
 ## Related themes
 

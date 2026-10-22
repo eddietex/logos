@@ -107,7 +107,14 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   become blood; the fish die and the river stinks, in the words of the forecast. **The magicians do the
   same, which only adds blood**; Pharaoh *"didn't even take this to heart"* and goes home, while his
   people dig for water; and *"seven days were fulfilled, after Yahweh had struck the river"*
-  (7:25). See [[Water Turned to Blood]].
+  (7:25). See [[Water Turned to Blood]]. **Then frogs, lice, and swarms, and in each something is
+  conceded.** At the frogs Pharaoh asks for the first time — ***"Entreat Yahweh"*** — promises release,
+  and is answered to the hour he chose: *"Yahweh did according to the word of Moses"* (8:8–13). At the
+  lice the magicians fail and confess, ***"This is God's finger"*** (8:19). At the swarms God strikes
+  without the rod and draws a line — *"I will set apart in that day the land of Goshen"* (8:22) — and
+  Pharaoh bargains, *"in the land"*, then *"not very far away"*, against Moses' *"the abomination of the
+  Egyptians"* (8:25–28). **Twice the respite is followed by Pharaoh hardening his own heart** (8:15,
+  32), the first times Exodus makes him the subject. See [[Frogs, Lice, and Flies]].
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
@@ -152,7 +159,7 @@ for unit.
 ### The plagues (7:14–11)
 
 - [x] [[Water Turned to Blood]] — Exodus 7:14–25
-- [ ] Frogs, Lice, and Flies — Exodus 8:1–32
+- [x] [[Frogs, Lice, and Flies]] — Exodus 8:1–32
 - [ ] Livestock, Boils, and Hail — Exodus 9:1–35
 - [ ] Locusts and Darkness — Exodus 10:1–29
 - [ ] The Last Plague Announced — Exodus 11:1–10
@@ -255,6 +262,7 @@ for unit.
 - [[Blood]]
 - [[Creation]]
 - [[Retribution]]
+- [[Sacrifice and Offering]]
 
 ## Key people
 
@@ -277,14 +285,15 @@ for unit.
 - [[Korah (son of Izhar)]] — their cousin
 - [[The Angel of Yahweh]] — in the flame of the bush
 - [[Pharaoh (of the Exodus)]] — the king Moses is sent to
-- [[Pharaoh's Magicians (of the Exodus)]] — the court experts who match the first signs
+- [[Pharaoh's Magicians (of the Exodus)]] — the court experts who match the first signs, and fail at
+  the lice: *"This is God's finger"*
 
 ## Key places
 
 - [[Egypt]]
 - [[Pithom]] and [[Rameses]] — the store-cities
 - [[The Nile]] — *"the river"* of 1:22
-- [[Goshen]]
+- [[Goshen]] — *"set apart"* from the swarms, the first land the plagues spare (8:22)
 - [[Midian]] — where Moses flees
 - [[Horeb]] — *"God's mountain"*, where the bush burns
 - [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)

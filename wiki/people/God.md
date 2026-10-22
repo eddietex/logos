@@ -1457,6 +1457,19 @@ Yahweh had struck the river"* (7:25). **He keeps the promise of 3:20, *"I will �
 the same verb, *nākâ*.** He does not speak again in the pericope, and the plague is not lifted; seven
 days pass. See [[Water Turned to Blood]].
 
+### He does what Moses says, and draws a line through Egypt — Exodus 8:1–32
+
+**For the first time he answers a prayer prayed for the enemy.** Pharaoh asks Moses to entreat him, and
+twice ***"Yahweh did according to the word of Moses"*** (8:13, 31) — at the hour Pharaoh chose and Moses
+named. **The lesson is extended**: not only *"that I am Yahweh"* but *"that there is no one like Yahweh
+our God"* (8:10). **At the lice his work is named by the other side**: *"This is God's finger"* (8:19),
+said by the magicians who can no longer match it. **At the flies he acts without the rod** — *"Yahweh
+did so"* (8:24) — and promises a separation: *"I will set apart in that day the land of Goshen"*, *"I
+will put a division between my people and your people"* (8:22–23), with *pālâ*, the verb that will
+mark Israel off at 9:4, 11:7, and 33:16. *"To the end you may know that I am Yahweh on the earth"* —
+or *in the midst of the land*. See [[Frogs, Lice, and Flies]] and
+[[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1630,6 +1643,8 @@ days pass. See [[Water Turned to Blood]].
   6:28–7:13, [[Aaron's Staff Before Pharaoh]]
 - Sends Moses to meet Pharaoh at the river; says *"In this you shall know that I am Yahweh"*; strikes
   the Nile and all the waters of Egypt to blood — Exodus 7:14–25, [[Water Turned to Blood]]
+- Sends frogs, lice, and swarms; does *"according to the word of Moses"*; sets Goshen apart —
+  Exodus 8:1–32, [[Frogs, Lice, and Flies]]
 
 ## Appears in
 
@@ -1971,6 +1986,8 @@ days pass. See [[Water Turned to Blood]].
   had spoken"*
 - [[Water Turned to Blood]] — Exodus 7:14–25; **the first blow.** *"Pharaoh's heart is
   stubborn"*; *"In this you shall know that I am Yahweh"*; *"after Yahweh had struck the river"*
+- [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the answered prayer, and the division.** *"No one like
+  Yahweh our God"*; *"God's finger"*; *"I will set apart … the land of Goshen"*
 
 ## Related people
 

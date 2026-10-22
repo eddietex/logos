@@ -72,8 +72,8 @@ slow tongue"* — *kəbad-peh ûkəbad lāšôn*, *heavy of mouth and heavy of t
 heavy of mouth is sent to a king heavy of heart.** And the root is the one of Pharaoh's first order,
 *tikbad hāʿăbōdâ*, *"Let heavier work be laid on the men"* (5:9): **the king who made Israel's
 service heavy now has a heavy heart.** (All three verified in the WLC; WEB renders *kābēd* in three
-different ways.) The adjective recurs in Exodus for the later plagues' severity — the *"very grievous
-pestilence"* (9:3), the *"very grievous hail"* (9:18, 24), and the locusts that *"were very
+different ways.) The adjective recurs in Exodus for the later plagues' severity — the *"grievous swarms"* of
+flies (8:24, Hebrew 8:20), the *"very grievous pestilence"* (9:3), the *"very grievous hail"* (9:18, 24), and the locusts that *"were very
 grievous"* (10:14) (WLC lemma search) — so the heaviness of Pharaoh's heart is answered, plague by
 plague, by heavy blows. See [[Hardening of the Heart]].
 

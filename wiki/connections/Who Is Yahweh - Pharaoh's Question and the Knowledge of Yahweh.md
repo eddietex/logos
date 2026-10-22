@@ -19,7 +19,10 @@ tags: [connection]
   for the first time, as the stated purpose of the plagues — [[Aaron's Staff Before Pharaoh]]
 - **Exodus 7:17, 23** — *"In this you shall know that I am Yahweh"*, said to Pharaoh's face before the
   Nile is struck; and after it, *"he didn't even take this to heart"* — [[Water Turned to Blood]]
-- **Exodus 8:10, 22; 9:14, 29; 10:2; 11:7** — the refrain of the plagues *(not yet ingested)*
+- **Exodus 8:8, 10, 19, 22** — Pharaoh's *"Entreat Yahweh"*; *"that you may know that there is no one
+  like Yahweh our God"*; the magicians' *"This is God's finger"*; *"to the end you may know that I am
+  Yahweh on the earth"* — [[Frogs, Lice, and Flies]]
+- **Exodus 9:14, 29; 10:2; 11:7** — the refrain of the later plagues *(not yet ingested)*
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*
@@ -61,7 +64,7 @@ Egypt**, addressed in turn to Israel, to the Egyptians, and to Pharaoh:
 - To the Egyptians: *"The Egyptians shall know that I am Yahweh, when I stretch out my hand on Egypt"*
   (7:5); and at the sea, twice (14:4, 18).
 - To Pharaoh: *"In this you shall know that I am Yahweh"* (7:17), before the Nile is struck; *"that you
-  may know that there is no one like Yahweh our God"* (8:10); *"that you may know that I am Yahweh on the
+  may know that there is no one like Yahweh our God"* (8:10); *"to the end you may know that I am Yahweh on the
   earth"* (8:22); *"that you may know that there is no one like me in all the earth"* (9:14); *"that you
   may know that the earth is Yahweh's"* (9:29); *"that you may know that Yahweh makes a distinction"*
   (11:7).
@@ -70,6 +73,14 @@ Egypt**, addressed in turn to Israel, to the Egyptians, and to Pharaoh:
 (7:17); after the river is struck, Pharaoh *"didn't even take this to heart"* — *wəlōʾ-šāt libbô
 gam-lāzōʾt* (7:23), the same *zōʾt*. **Knowledge offered as *this* is declined as *this*.** See
 [[Water Turned to Blood]].
+
+**The second plague brings the name into Pharaoh's mouth.** The king who said *"I don't know Yahweh"*
+says, at the frogs, ***"Entreat Yahweh"*** (8:8) — **he knows enough of him to ask him for something**.
+And the refrain sharpens: not only *that I am Yahweh* but *"that there is no one like Yahweh our God"*
+(8:10), the incomparability Israel will sing at the sea (*"Who is like you, Yahweh, among the gods?"*,
+15:11). **His own experts get further than he does**: *"This is God's finger"* (8:19) — though they say
+*ʾĕlōhîm*, not *Yahweh*. By 8:25 Pharaoh is saying *"your God"* again. **Asking is not knowing.** See
+[[Frogs, Lice, and Flies]] and [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
 
 **The plagues are therefore, on Exodus's own account, revelation as well as judgment** — what is
 being made known is the name Pharaoh said he did not know. (The verses are quoted from the WEB in

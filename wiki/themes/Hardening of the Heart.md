@@ -95,6 +95,12 @@ as those passages are ingested.
   mouth (4:10). After the plague the narrator returns to the qal of *ḥāzaq*, no agent named, *"as Yahweh
   had spoken"*, and adds a new idiom: ***"he didn't even take this to heart"***, *lōʾ-šāt libbô
   gam-lāzōʾt* — he did not *set his heart* to it (WLC)
+- [[Frogs, Lice, and Flies]] — Exodus 8:15, 19, 32; **Pharaoh the subject for the first time.**
+  At the respite after the frogs, *wəhakbēd ʾet-libbô*, *he made his heart heavy* — the hiphil of the
+  *kābēd* God used at 7:14, now with Pharaoh as its agent, though still *"as Yahweh had spoken"*. After
+  the lice, the qal of *ḥāzaq* again, no agent, in the same verse as the magicians' *"This is God's
+  finger"*. After the flies, *wayyakbēd parʿōh ʾet-libbô gam bappaʿam hazzōʾt*, *"this time also"* —
+  and no *"as Yahweh had spoken"*. **Relief, not pressure, is what precedes each self-hardening** (WLC)
 
 ## Related themes
 

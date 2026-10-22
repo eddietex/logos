@@ -342,6 +342,10 @@ rule are the conditions the rest of Scripture is set in.
   river.** God strikes (*nākâ*, the verb he promised at 3:20) the water Egypt lives by; the narrator
   names the striker, *"after Yahweh had struck the river"* (7:25). Unlike the rod-sign, this one damages
   the land
+- [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the second, third, and fourth plagues.** *"I will plague all
+  your borders"* uses *nāgap*, the verb of the Passover's striking (12:23, 27); the land is
+  *"corrupted"* with the flood's verb; and judgment begins to discriminate — the swarms fall on Egypt
+  and not on Goshen (8:22)
 
 ## Related themes
 

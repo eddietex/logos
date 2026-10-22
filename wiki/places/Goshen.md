@@ -24,7 +24,9 @@ which fits all four conditions; **Genesis itself commits to none of them as geog
 
 **Goshen's whole function in Scripture is separation.** It is where a family can be foreign and stay
 foreign — **near the court and not of it** — and the arrangement that makes Israel survivable in Egypt
-in Genesis is the same arrangement that makes it visible and enslaveable in Exodus. See
+in Genesis is the same arrangement that makes it visible and enslaveable in Exodus. **In the plagues
+the separation becomes God's own**: Exodus does not name Goshen until 8:22, where it is *"set apart"*
+from the swarms. See
 [[Land and Sojourning]] and [[The Nations]].
 
 ## Appears in
@@ -58,6 +60,13 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
   forced labour of 1:11 is drawn from it. **Exodus 1:7 repeats Genesis 47:27's *"in the land of
   Goshen … fruitful, and multiplied"* in five verbs**
 
+- [[Frogs, Lice, and Flies]] — Exodus 8:22–23; **named in Exodus for the first time, at the moment it is
+  exempted.** *"I will set apart in that day the land of Goshen, in which my people dwell"* — *pālâ*,
+  *to distinguish*, the verb of 9:4, 11:7, and 33:16 — *"I will put a division between my people and
+  your people."* **The separation Genesis built on Egyptian contempt for shepherds (46:34) is now drawn
+  by God**, and in the same pericope Moses argues from that contempt — *"the abomination of the
+  Egyptians"* (8:26) — for leaving it
+
 ## Related places
 
 - [[Egypt]] — the country it is a district of, and the one Genesis otherwise treats as a single place
@@ -75,7 +84,8 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
 - **Jacob lives there seventeen years, to a hundred and forty-seven** — Genesis 47:28,
   [[Joseph and the Famine]]
 - **The plagues fall on Egypt and not on Goshen** — Exodus 8:22; 9:26 — *"I will set apart in that day
-  the land of Goshen, in which my people dwell, that no swarms of flies shall be there"*
+  the land of Goshen, in which my people dwell, that no swarms of flies shall be there"* —
+  [[Frogs, Lice, and Flies]]
 - **Israel leaves from Rameses, in the same district** — Exodus 12:37; Genesis 47:11 calls the
   settlement *"the land of Rameses"*
 - **Joshua 10:41 and 11:16 name a different Goshen** — a region in the south of Canaan — **which is not

@@ -12,7 +12,8 @@ tags: [connection]
   occurrence in Scripture**
 - **Genesis 46:31–34** — [[Jacob's Family Settles in Egypt]]. *"every shepherd is an abomination to
   the Egyptians"*
-- **Exodus 8:26** — *"we shall sacrifice the abomination of the Egyptians before their eyes"*
+- **Exodus 8:26** — *"shall we sacrifice the abomination of the Egyptians before their eyes, and won't
+  they stone us?"* — [[Frogs, Lice, and Flies]]
 - **Leviticus 18:22–30; Deuteronomy 7:25–26; 14:3** — the word turned round
 - **Genesis 39:14, 17; 40:15; 41:12** — *"Hebrew"* as the Egyptians' word for Joseph
 
@@ -78,11 +79,17 @@ not a commandment and not a covenant sign — it is somebody else's distaste.** 
 
 ### Moses turns it into an argument
 
-**Exodus 8:26 is the word's hinge.** Pharaoh offers to let Israel sacrifice inside Egypt, and Moses
-refuses on the grounds established in Genesis:
+**Exodus 8:26 is the word's hinge.** Pharaoh offers to let Israel sacrifice inside Egypt — *"Go,
+sacrifice to your God in the land!"* (8:25) — and Moses refuses on the grounds established in Genesis:
 
-what Israel must sacrifice is, Moses says, *"the abomination of the Egyptians"*, and to do it in their
-sight would get the people stoned (Exodus 8:26).
+> **26** Moses said, "It isn't appropriate to do so; for we shall sacrifice the abomination of the
+> Egyptians to Yahweh our God. Behold, shall we sacrifice the abomination of the Egyptians before their
+> eyes, and won't they stone us? (Exodus 8:26)
+
+*Tôʿăbat miṣrayim*, twice (WLC). Before Leviticus 18:22 the noun occurs only at Genesis 43:32, 46:34,
+and here (WLC lemma search). **What exactly the offence is —
+the animals, the rite, or the act — Moses does not say**, and the wiki does not supply it. See
+[[Frogs, Lice, and Flies]].
 
 **The genitive has flipped.** In Genesis a *tôʿēbâ* is what Egyptians find repellent **about
 Israelites**; here it is a thing Israelites do that Egyptians find repellent, named as such, **and

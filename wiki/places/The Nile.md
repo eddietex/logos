@@ -81,6 +81,10 @@ the Wadi el-Arish on the border rather than the Nile; see
   (Genesis 41:3, 17) and of the basket (2:3). The river is struck in Pharaoh's sight; its fish die,
   it stinks, and the Egyptians dig around it for water. **The river Egypt lived by, and the river of
   1:22, is the first thing struck**
+- [[Frogs, Lice, and Flies]] — Exodus 8:3, 9, 11, 20; **the source of the frogs, and where they "remain".** *"The
+  river shall swarm with frogs"* — *šāraṣ*, the swarming of creation's fifth day (Genesis 1:20) and of
+  Israel in Egypt (Exodus 1:7) — and when Moses prays, the frogs *"remain in the river only"*. Pharaoh is
+  met *"at the water"* in the morning again before the flies (8:20)
 
 ## Related places
 
@@ -89,8 +93,7 @@ the Wadi el-Arish on the border rather than the Nile; see
 - [[The Euphrates]] — the other river Genesis names as a boundary, and the far edge of the promise at
   15:18
 - [[Canaan]] — a rain-fed country, which is why it starves when Egypt does not
-- **Goshen** — the Delta pasture Jacob's household is given, further downstream; Genesis 47:6 *(not yet
-  ingested, and no page yet)*
+- [[Goshen]] — the Delta pasture Jacob's household is given, further downstream (Genesis 47:6)
 
 ## Events here
 
@@ -102,3 +105,5 @@ the Wadi el-Arish on the border rather than the Nile; see
 - Its water to be poured out as blood, the third sign given at the bush — Exodus 4:9,
   [[The Burning Bush]]
 - Turned to blood, the first plague — Exodus 7:14–25, [[Water Turned to Blood]]
+- Swarms with frogs, the second plague; the frogs left *"in the river only"* — Exodus 8:1–15,
+  [[Frogs, Lice, and Flies]]

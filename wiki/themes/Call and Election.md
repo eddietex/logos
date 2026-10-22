@@ -193,6 +193,11 @@ the others.
 - [[The Heads of the Fathers' Houses]] — Exodus 6:26–27; **the called men placed in Israel's order.** The list answers
   *who are these two?* with a family tree, and names them twice, *"Aaron and Moses"* in the order of
   birth and *"Moses and Aaron"* in the order of the commission
+- [[Frogs, Lice, and Flies]] — Exodus 8:22–23; **election drawn as a line on a map.** *"I will set
+  apart in that day the land of Goshen"* — *pālâ*, the verb of 9:4, 11:7, and of Moses' *"so that we are
+  separated, I and your people, from all the people who are on the surface of the earth"* (33:16) —
+  and *"I will put a division between my people and your people"*, where the Hebrew noun, *pədut*,
+  elsewhere means *redemption* (the reading is disputed; see the passage page)
 
 ## Related themes
 

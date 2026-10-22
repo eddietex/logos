@@ -12,8 +12,9 @@ tags: [connection]
 - **Exodus 7:11–12** — summoned with *"the wise men and the sorcerers"*, they match the
   rod-to-serpent, and *"Aaron's rod swallowed up their rods"* — [[Aaron's Staff Before Pharaoh]]
 - **Exodus 7:22** — they match the water-to-blood
-- **Exodus 8:7** — they match the frogs
-- **Exodus 8:18–19** — **they fail at the gnats**: *"This is God's finger"*
+- **Exodus 8:7** — they match the frogs — [[Frogs, Lice, and Flies]]
+- **Exodus 8:18–19** — **they fail at the gnats** (WEB *"lice"*): *"This is God's finger"* —
+  [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]
 - **Exodus 9:11** — *"the magicians couldn't stand before Moses because of the boils"*
 - **Daniel 1:20; 2:2, 10–11, 27; 4:7, 9; 5:11** — the same word, in a Babylonian guild, failing the same
   way

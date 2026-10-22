@@ -17,6 +17,8 @@ tags: [connection]
 - **Exodus 7:1** — *"I have made you as God to Pharaoh; and Aaron your brother shall be your
   prophet"* — **the second *nābîʾ*, and the first defined by speech** —
   [[Aaron's Staff Before Pharaoh]]
+- **Exodus 8:8–13, 28–31** — Pharaoh: *"Entreat Yahweh"*; *"Pray for me"* — and *"Yahweh did according
+  to the word of Moses"*: **Moses praying for a foreign king, as Abraham did** — [[Frogs, Lice, and Flies]]
 - **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh relented from the evil which he
   said he would do to his people"*
 - **Numbers 12:6–8; 14:13–20** — prophecy defined by dream and vision, with Moses as the exception,
@@ -114,6 +116,14 @@ where Aaron was to be Moses' *"mouth"*. **Genesis 20:7 makes the prophet someone
 God for others; Exodus 7:1 makes him someone who speaks *for* another to others.** The canon keeps
 both directions, and Moses, who does both, is the figure in whom they meet (Exodus 32:11–14;
 Deuteronomy 18:18, not yet ingested). See [[Aaron's Staff Before Pharaoh]].
+
+**And Exodus 8 brings the two directions together within a chapter of 7:1.** The man who is *"as
+God"* to Pharaoh, with a *nābîʾ* of his own, is asked by the same Pharaoh to *"Entreat Yahweh"* (8:8)
+and *"Pray for me"* (8:28) — and does, and *"Yahweh did according to the word of Moses"* (8:13, 31).
+**It is Genesis 20 again: a prophet of Israel praying for the king of the land Israel is sojourning in,
+for relief from a plague God sent on that king's house.** The verbs differ — Abraham *hitpallēl*,
+Moses *ʿātar* and *ṣāʿaq* (WLC) — and the outcomes differ: Abimelech returned Sarah; Pharaoh hardens
+his heart. See [[Frogs, Lice, and Flies]].
 
 ### The New Testament's move
 

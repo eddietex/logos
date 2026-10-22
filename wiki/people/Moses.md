@@ -164,9 +164,21 @@ through him, and at 7:20 the text does not say whether his hand or Aaron's lifts
 Yahweh's (7:25). **The man *"heavy of mouth"* (4:10) is sent to a king *"heavy of heart"* (7:14).** See
 [[Water Turned to Blood]].
 
+**In the next three plagues he becomes Pharaoh's intercessor.** Pharaoh asks him to *"Entreat
+Yahweh"* (8:8) — *ʿātar*, the verb of Isaac's prayer for Rebekah (Genesis 25:21) — and Moses hands
+the king the choice of hour (*"I give you the honor"*, *hitpāʾēr ʿālay*), so that the timing proves
+*"there is no one like Yahweh our God"* (8:9–10). He *"cried to Yahweh"* (8:12), with the *ṣāʿaq* of
+the foremen's cry to Pharaoh (5:15), and twice ***"Yahweh did according to the word of Moses"***
+(8:13, 31) — the obedience formula turned round. **He also bargains, and does not give way**: he
+refuses to sacrifice *"in the land"* because Israel's offering is *"the abomination of the Egyptians"*,
+holds to *"three days' journey"* and *"as he shall command us"* (8:26–27), and tells Pharaoh to his
+face not to *"deal deceitfully any more"* (8:29). At the flies he is sent to *"stand"* before Pharaoh at
+the water (8:20) with *hityaṣṣēb*, the verb of his sister standing watch over his basket (2:4). See
+[[Frogs, Lice, and Flies]].
+
 ### What is ahead
 
-The rest of the plagues (8–11); the Passover, the sea, and the
+The rest of the plagues (9–11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -216,6 +228,9 @@ sections are written as their pericopes arrive.
   eighty years old at the first audience — Exodus 6:28–7:13, [[Aaron's Staff Before Pharaoh]]
 - Meets Pharaoh at the river's bank in the morning; carries *"In this you shall know that I am
   Yahweh"*; with Aaron, strikes the river and turns it to blood — Exodus 7:14–25, [[Water Turned to Blood]]
+- Lets Pharaoh set the hour and prays away the frogs; Yahweh does *"according to the word of Moses"*;
+  refuses to sacrifice in the land; prays away the flies and warns Pharaoh not to deal deceitfully —
+  Exodus 8:1–32, [[Frogs, Lice, and Flies]]
 
 ## Appears in
 
@@ -247,6 +262,9 @@ sections are written as their pericopes arrive.
 - [[Water Turned to Blood]] — Exodus 7:14–25; **at the river's bank, with the rod.** Stands where
   he was laid as a baby; tells Pharaoh *"until now you haven't listened"*; obeys with Aaron in the
   formula of obedience; the blow is named as Yahweh's
+- [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the intercessor for the oppressor.** Prays for Pharaoh twice
+  and is answered twice; refuses *"in the land"* and *"not very far away"*; *"don't let Pharaoh deal
+  deceitfully any more"*
 
 ## Related people
 

@@ -11848,3 +11848,97 @@ Lemma searches of Genesis and Exodus (with Job, Leviticus, and Numbers where sta
   - `wiki/index.md`: 101 passages, 294 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 8.1-32 — Frogs, Lice, and Flies
+
+Unattended run (`/ingest auto`). Target resolved mechanically: [[Exodus]] is the first `in-progress`
+book in `wiki/books/index.md`, and its first unchecked box was *Frogs, Lice, and Flies — Exodus
+8:1–32*. The boundary was kept as planned: the three plagues share one shape, and 9:1 opens the
+livestock plague. There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[Frogs, Lice, and Flies]] covers:
+
+- 8:2–3: *nāgap*, the Passover's verb (12:23, 27); *šāraṣ*, the swarming of Genesis 1:20–21, 9:7 and
+  Exodus 1:7, turned against Egypt; the plague brought indoors to the bed and the kneading troughs.
+- 8:8–15: Pharaoh's first request (*ʿātar*, otherwise in Genesis only at 25:21); *hitpāʾēr ʿālay*;
+  *"Tomorrow"*; *"no one like Yahweh our God"*; Moses' *ṣāʿaq*, the verb of 5:8, 15; *"Yahweh did
+  according to the word of Moses"*; *ḥŏmārim*, tagged with the lemma of *ḥōmer*, mortar (1:14); and
+  *wəhakbēd ʾet-libbô*, the first time Pharaoh is the subject of his own hardening.
+- 8:16–19: *ʿăpar hāʾāreṣ* (Genesis 13:16; 28:14); *kinnîm*; the magicians' *wayyaʿăśû-kēn* now
+  recording failure; *ʾeṣbaʿ ʾĕlōhîm*, with *ʾĕlōhîm* and not the name.
+- 8:20–24: *hityaṣṣēb*, Miriam's verb at 2:4; *šālaḥ* on both sides of the threat; *ʿārōb*; *pālâ* and
+  Goshen's first mention in Exodus; *bəqereb hāʾāreṣ*; *pədut* (*redemption*) with the *pəlut* reading
+  left open; *ʿārōb kābēd*; *tiššāḥēt hāʾāreṣ*, the exact phrase of Genesis 6:11.
+- 8:25–32: the first two offers; *tôʿăbat miṣrayim* (Genesis 43:32; 46:34); *sāqal*, the first
+  stoning in Scripture; *tālal*, Laban's verb (Genesis 31:7); *lōʾ nišʾar ʾeḥād* and 14:28;
+  *bappaʿam hazzōʾt* and 9:14.
+
+### Judgment calls
+
+- **One new connection:** [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]
+  (allusion; with Deuteronomy 9:10 and Matthew 12:28). The Luke echo is recorded as a reading.
+- **No new person or place pages.** [[Goshen]] already existed; *Pharaoh's servants* and *the
+  Egyptians* stay unpaged.
+- **The *ḥōmer* wordplay**, the *dust of the earth* echo of the promise, and Miriam's *hityaṣṣēb* are
+  recorded as resonances, not as the narrator's claims.
+- ***Pədut* at 8:23** is reported as it stands in the WLC, with the usual *"division"* and the
+  conjectured *pəlut*; the sense *redemption* elsewhere (Psalm 111:9; 130:7) is from standard lexicons
+  and was not checked in the Hebrew. No claim is made about the Septuagint.
+- **Correction to [[Water Turned to Blood]]:** its list of the later *kābēd* plagues missed *ʿārōb
+  kābēd* (8:24; Hebrew 8:20). Fixed.
+- **Correction to [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]]:** 8:22 was quoted
+  as *"that you may know"*; the WEB reads *"to the end you may know"*. Fixed.
+- **Stale entry in [[The Nile]]:** *Goshen (not yet ingested, and no page yet)* in Related places now
+  links [[Goshen]].
+- **Corrections made while drafting, before commit:** 3:19 is *"mighty hand"* in the WEB, not *"strong
+  hand"*; 12:34 has the kneading troughs *"bound up in their clothes"*, not dough carried *"in"* them;
+  and some literal glosses had been set in quotation marks as though WEB text.
+- **Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+  (`translation=web`), with no bulk fetch: Luke 11:20; Matthew 12:28; Deuteronomy 9:10; Psalm 78:45;
+  105:30–31; Revelation 16:13. No claim is made about their Hebrew or Greek.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):**
+
+- All of Hebrew Exodus 7:26–8:28 (English 8:1–32).
+- Exodus 9:14; 14:28; 15:11.
+
+Lemma searches of Genesis and Exodus (with Leviticus and Numbers where stated): *šāraṣ*, *ḥōmer*,
+*ʿātar*, *pāʾar*, *hityaṣṣēb*, *pālâ*, *pədût*, *kābēd* (adjective), *šāḥat*, *tôʿēbâ*, *tālal*,
+*šāʾar*, *ṣāʿaq*, *ʿārōb*, *kinnîm*, *ʾeṣbaʿ*, *rəwāḥâ*, *nāgap*, *sāqal*, *mišʾeret*, *ʾôt*, *gōšen*,
+*māḥār*.
+
+### Pages created or revised
+
+- **Created (2):** the passage page; one connection (above).
+- **People revised (5):** [[Moses]], [[Aaron]], [[God]], [[Pharaoh (of the Exodus)]], and
+  [[Pharaoh's Magicians (of the Exodus)]], each with synthesis.
+- **Places revised (3):** [[Goshen]] (overview and its first Exodus appearance), [[Egypt]], and
+  [[The Nile]].
+- **Themes revised (11):** [[Hardening of the Heart]], [[Signs and Wonders]] (development also),
+  [[Prayer]], [[Mediation and Advocacy]], [[The Names of God]], [[Call and Election]], [[Creation]],
+  [[Judgment]], [[Deception]], [[Sacrifice and Offering]], and [[Slavery and Servitude]].
+- **Connections revised (6):**
+  - [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] — *"Entreat Yahweh"* and *"God's
+    finger"*.
+  - [[The Flood as Un-Creation]] — *šāraṣ* and *tiššāḥēt hāʾāreṣ*.
+  - [[A Prophet Who Prays - The First Nabi in Scripture]] — Moses praying for Pharaoh.
+  - [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] — the first two
+    offers.
+  - [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] — 8:26 now quoted.
+  - [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] — linked.
+- **Passage revised (1):** [[Water Turned to Blood]] (the *kābēd* correction).
+- **Book page:** box checked; the 7:14–11 structure note covers the frogs, lice, and flies; key themes
+  +1 ([[Sacrifice and Offering]]); Goshen's key-places line annotated.
+- **Indexes:**
+  - books: Exodus 11 / 53.
+  - people: 5 rows extended across A-E, F-M, and N-Z.
+  - places: 3 rows (Goshen's summary extended). themes: 11 rows.
+  - connections: 1 row added in [[Connections Index D-H]]; 5 rows' references extended.
+  - `wiki/index.md`: 102 passages, 295 connections.
+
+`scripts/link-check.sh` is clean.

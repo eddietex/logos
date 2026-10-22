@@ -281,6 +281,9 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
 - [[Water Turned to Blood]] — Exodus 7:16; ***"Let my people go, that they may serve me in the
   wilderness"*** — *wəyaʿabdunî*, the service God claims against the service Egypt imposes, now joined to
   the charge *"until now you haven't listened"*
+- [[Frogs, Lice, and Flies]] — Exodus 8:1, 14, 20; ***"Let my people go, that they may serve
+  me"***, twice more. The dead frogs are piled *ḥŏmārim ḥŏmārim*, *heaps* — the WLC tags it with the
+  lemma of *ḥōmer*, the *"mortar"* of Israel's labour (1:14); the play is a reading, not the text's claim
 
 ## Related themes
 

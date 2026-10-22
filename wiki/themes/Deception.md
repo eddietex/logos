@@ -275,6 +275,10 @@ has become a nation.
   tells him to ask Pharaoh for a three-day festival. Whether this is a test that exposes Pharaoh, a ruse
   against an oppressor in the line of the midwives (1:19), or a literal request for the sacrifice at the
   mountain (3:12) is recorded on the passage page; none adopted
+- [[Frogs, Lice, and Flies]] — Exodus 8:15, 29, 32; **Pharaoh warned to his face.** *"Don't let Pharaoh deal
+  deceitfully any more"* — *hātēl*, from *tālal*, the verb of Jacob's complaint that Laban *"deceived
+  me, and changed my wages ten times"* (Genesis 31:7), its only other use in Genesis and Exodus (WLC).
+  Pharaoh's promise at the frogs and his concession at the flies are both withdrawn when the plague is
 
 ## Related themes
 

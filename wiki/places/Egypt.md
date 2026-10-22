@@ -236,6 +236,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Water Turned to Blood]] — Exodus 7:19–24; ***"blood throughout all the land of Egypt"***. Every
   water of the country — rivers, streams, pools, ponds, and the stored jars of wood and stone — turned
   to blood; *"all the Egyptians dug around the river for water to drink"*
+- [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the plague comes indoors, and the land is divided.** Frogs in
+  the bedrooms, ovens, and kneading troughs; *"all the dust of the earth became lice throughout all the
+  land of Egypt"*; the swarms in every house, and *"the land was corrupted"* — *tiššāḥēt hāʾāreṣ*, the
+  phrase of Genesis 6:11. **Goshen is cut out of it** (8:22), and Moses refuses to sacrifice *"in the
+  land"* because Israel's sacrifice is *"the abomination of the Egyptians"* (8:26)
 
 ## Related places
 
@@ -300,3 +305,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   is sent again to Pharaoh — Exodus 6:2–13, [[I Am Yahweh]]
 - The first plague: the Nile and all the waters of Egypt turned to blood; the Egyptians dig for water —
   Exodus 7:14–25, [[Water Turned to Blood]]
+- Frogs, lice, and swarms; Goshen set apart; Pharaoh's first offers — Exodus 8:1–32,
+  [[Frogs, Lice, and Flies]]

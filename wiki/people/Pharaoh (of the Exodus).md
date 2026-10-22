@@ -73,9 +73,21 @@ turned and went into his house, and he didn't even take this to heart"*** (7:23)
 gam-lāzōʾt*, the *zōʾt*, *this*, of God's *"In this you shall know"*. **His people dig for water; he
 goes home.** He asks for nothing, and the plague runs seven days. See [[Water Turned to Blood]].
 
+**At the frogs he asks for the first time, and hardens his own heart for the first time.** The king
+who said *"I don't know Yahweh"* (5:2) says ***"Entreat Yahweh"*** and promises, *"I will let the people
+go"* (8:8). Offered the choice of hour, he says *"Tomorrow"* (8:10). When he sees *"a respite"*, ***"he
+hardened his heart"*** (8:15) — *wəhakbēd ʾet-libbô*, the hiphil of *kābēd*: **the first time Exodus
+makes him the subject of his own hardening**, though the narrator still adds *"as Yahweh had spoken"*.
+His magicians tell him *"This is God's finger"* (8:19), and he does not listen. **At the flies he
+bargains twice** — *"sacrifice to your God in the land"* (8:25), then the wilderness, *"only you shall not
+go very far away. Pray for me"* (8:28) — the first of the offers that each keep something back
+(10:8–11, 24–26). Moses warns him not to *"deal deceitfully"* (*tālal*, the verb of Laban's changed
+wages, Genesis 31:7), and he does: ***"Pharaoh hardened his heart this time also"*** (8:32), with no
+*"as Yahweh had spoken"* at all. See [[Frogs, Lice, and Flies]].
+
 ### What is ahead
 
-The rest of the plagues; the release; the pursuit; and the sea. These are written as
+The rest of the plagues (9–11); the release; the pursuit; and the sea. These are written as
 their pericopes arrive.
 
 ## Timeline / key events
@@ -94,6 +106,9 @@ their pericopes arrive.
 - Met at the river in the morning; told *"In this you shall know that I am Yahweh"*; watches the Nile
   turned to blood and his magicians match it; goes into his house and *"didn't even take this to
   heart"* — Exodus 7:14–25, [[Water Turned to Blood]]
+- Asks Moses to entreat Yahweh and promises release; chooses *"Tomorrow"*; hardens his heart at the
+  respite; offers sacrifice *"in the land"*, then *"not very far away"*; hardens his heart *"this time
+  also"* — Exodus 8:1–32, [[Frogs, Lice, and Flies]]
 
 ## Appears in
 
@@ -112,6 +127,8 @@ their pericopes arrive.
   listen to them"*
 - [[Water Turned to Blood]] — Exodus 7:14–25; **the first blow, and the walk home.** His heart
   *kābēd*; met at the water; the river struck in his sight; *"he didn't even take this to heart"*
+- [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the first requests, and the first self-hardening.**
+  *"Entreat Yahweh"*; *"Tomorrow"*; *"Pray for me"*; *"Pharaoh hardened his heart this time also"*
 
 ## Related people
 
@@ -119,7 +136,8 @@ their pericopes arrive.
 - [[Moses]] — sent to him
 - [[Aaron]] — to be Moses' mouth before him
 - [[God]] — who foretells his refusal
-- [[Pharaoh's Magicians (of the Exodus)]] — his court experts, who match the first sign (7:11)
+- [[Pharaoh's Magicians (of the Exodus)]] — his court experts, who match the first sign (7:11) and
+  tell him *"This is God's finger"* (8:19)
 
 ## Themes associated
 

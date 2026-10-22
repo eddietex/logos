@@ -180,6 +180,10 @@ Genesis 1 sets four load-bearing claims:
   Leviticus, Numbers, and Job used only there, here, and at Leviticus 11:36 (WLC). **The fish (*dāgâ*)
   that die in it are the *"fish of the sea"* of 1:26, 28.** The first plague undoes, in one country,
   the third and fifth days. Exodus draws no link; the vocabulary does — [[The Flood as Un-Creation]]
+- [[Frogs, Lice, and Flies]] — Exodus 8:3, 17, 24; **the creation verbs turned on Egypt.** *"The river shall
+  swarm with frogs"* — *šāraṣ*, the verb of Genesis 1:20–21 and of Israel's increase at Exodus 1:7; the
+  *"dust of the earth"* made lice; and *tiššāḥēt hāʾāreṣ*, *"the land was corrupted"*, the exact phrase
+  of Genesis 6:11 before the flood (WLC) — [[The Flood as Un-Creation]]
 
 ## Related themes
 

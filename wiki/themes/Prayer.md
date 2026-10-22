@@ -227,6 +227,11 @@ already did.
   rebuke**, though Moses' refusal at 4:13 had drawn God's anger. He will say *lāmâ hărēʿōtā* again at
   Numbers 11:11. And the Israelites' first cry in this book with *ṣāʿaq* is addressed to Pharaoh
   (5:15), not to God
+- [[Frogs, Lice, and Flies]] — Exodus 8:8–13, 28–31; **the first prayer asked for by an enemy.** Pharaoh says
+  *"Entreat Yahweh"* — *ʿātar*, otherwise in Genesis only at Isaac's prayer for barren Rebekah
+  (25:21) — and, at the flies, *"Pray for me"*. Moses lets Pharaoh name the hour, *"cried to Yahweh"*
+  with *ṣāʿaq*, and twice ***"Yahweh did according to the word of Moses"***. **Both prayers are
+  answered exactly, and both answers are followed by a hardened heart** (WLC)
 
 ## Related themes
 

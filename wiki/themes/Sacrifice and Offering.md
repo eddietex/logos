@@ -179,6 +179,11 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   Yahweh, our God."*** **The exodus is first requested as a sacrifice.** Whether the request is a test, a
   ruse, or a literal festival at the mountain of 3:12 is recorded on the passage page with three
   readings; none adopted
+- [[Frogs, Lice, and Flies]] — Exodus 8:8, 25–28; **the sacrifice that cannot be offered in
+  Egypt.** Pharaoh concedes sacrifice first *"in the land"*, then in the wilderness *"not very far
+  away"*. Moses refuses the first because what Israel sacrifices is *"the abomination of the Egyptians"*
+  and would get them stoned, and will not say what it is: *"as he shall command us"* (8:27) —
+  [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]]
 
 ## Related themes
 

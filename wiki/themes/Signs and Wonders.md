@@ -42,7 +42,10 @@ one.
   signs"*.
 - **Exodus 7:3, 9–12** — *"multiply my signs and my wonders"*; the wonder Pharaoh asks for, matched
   by his magicians and swallowed. See [[Aaron's Staff Before Pharaoh]].
-- *(ahead)* **Exodus 7:14–12** — the ten plagues, and the magicians who match the first two.
+- **Exodus 7:14–8:32** — the first four plagues; the magicians match the blood and the frogs and fail
+  at the lice, *"This is God's finger"*; the flies are the first sign that distinguishes Israel from
+  Egypt. See [[Water Turned to Blood]] and [[Frogs, Lice, and Flies]].
+- *(ahead)* **Exodus 9–12** — the remaining plagues.
 - *(ahead)* **Deuteronomy 4:34; 6:22** — *"by signs, by wonders, by war, by a mighty hand"*: the exodus
   remembered as the definitive sign.
 - *(ahead)* **Deuteronomy 13:1–3** — a sign that comes true from a prophet who leads to other gods is
@@ -73,6 +76,11 @@ one.
   whole river and every water in Egypt become blood before Pharaoh. *"In this you shall know that I am
   Yahweh"* (7:17) gives the sign its stated meaning; the magicians match it, and the matching only adds
   blood — [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
+- [[Frogs, Lice, and Flies]] — Exodus 8:1–32; **the sign that cannot be copied.** The
+  magicians match the frogs, and then fail at the lice and call it *"God's finger"* (8:18–19). **At the
+  flies the sign becomes a distinction**: *"I will put a division between my people and your people: by
+  tomorrow shall this sign be"* (8:23) — the first plague that falls on Egypt and not on Goshen, and the
+  first done with no rod at all — [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]
 
 ## Related themes
 

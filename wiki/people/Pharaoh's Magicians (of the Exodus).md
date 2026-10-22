@@ -39,11 +39,23 @@ and Aaron's obedience two verses earlier, and *bəlāṭêhem*, the spelling usu
 does not ask where they found clean water. Pharaoh takes their match as permission to go home (7:23).
 See [[Water Turned to Blood]].
 
+**At the frogs they match a third time** — *"brought up frogs on the land of Egypt"* (8:7) — and
+again the match adds to the plague. **What they cannot do is take the frogs away**; Pharaoh has to ask
+Moses for that (8:8).
+
+**At the lice they fail.** *"The magicians tried with their enchantments to produce lice, but they
+couldn't"* (8:18). **The text uses the same *wayyaʿăśû-kēn*, *"they did so"*, that recorded their
+successes**, and adds *to bring out the lice, and they could not*. Then they speak, for the only time
+in Exodus: ***"This is God's finger"*** (8:19) — *ʾeṣbaʿ ʾĕlōhîm hîʾ*. **They say *ʾĕlōhîm*, not the
+name Moses has preached**, and they say *finger*, not *hand*. It is the first confession of God by
+Egyptians in the book, and Pharaoh's heart is hardened in the same verse. **They are not mentioned at
+the flies.** See [[Frogs, Lice, and Flies]] and
+[[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
+
 ### What is ahead
 
-They match the frogs (8:7); they fail at the lice and say
-*"This is God's finger"* (8:18–19); and they cannot stand before Moses because of the boils (9:11).
-These sections are written as their pericopes arrive.
+They cannot stand before Moses because of the boils (9:11). These sections are written as their
+pericopes arrive.
 
 ## Timeline / key events
 
@@ -52,6 +64,8 @@ These sections are written as their pericopes arrive.
   [[Aaron's Staff Before Pharaoh]]
 - Turn water to blood *"with their enchantments"*, matching the first plague — Exodus 7:22,
   [[Water Turned to Blood]]
+- Bring up frogs; fail to produce lice; tell Pharaoh *"This is God's finger"* — Exodus 8:7, 18–19,
+  [[Frogs, Lice, and Flies]]
 
 ## Appears in
 
@@ -59,6 +73,8 @@ These sections are written as their pericopes arrive.
   *"They also … did the same thing"*; *"Aaron's rod swallowed up their rods"*
 - [[Water Turned to Blood]] — Exodus 7:22; **the plague matched, and doubled.** *"The magicians of
   Egypt did the same thing with their enchantments"*
+- [[Frogs, Lice, and Flies]] — Exodus 8:7, 18–19; **the match, the failure, and the confession.** *"This is
+  God's finger"*
 
 ## Related people
 

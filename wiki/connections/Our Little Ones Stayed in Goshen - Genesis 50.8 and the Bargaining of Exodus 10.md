@@ -9,6 +9,8 @@ tags: [connection]
 
 - **Genesis 50:7–9** — *"Only their little ones, their flocks, and their herds, they left in the land
   of Goshen"* — [[The Deaths of Jacob and Joseph]]
+- **Exodus 8:25–28** — Pharaoh's first two offers: *"sacrifice to your God in the land"*, then the
+  wilderness, *"only you shall not go very far away"* — [[Frogs, Lice, and Flies]]
 - **Exodus 10:8–11** — Pharaoh's third offer: the men may go, the little ones stay
 - **Exodus 10:24–26** — Pharaoh's fourth offer: everyone may go, the flocks and herds stay
 - **Exodus 12:31–32** — what Pharaoh finally concedes, at midnight, with the firstborn dead
@@ -43,6 +45,12 @@ will come again"* (50:5) and be believed.**
 *bāqār*, flocks and herds. **Pharaoh in Exodus is not improvising. He is proposing the arrangement
 that already worked** — **the one the vizier of Egypt set up himself, and honoured** — **and Moses
 recognises it for what it is.**
+
+**The first two offers come at the flies** (Exodus 8:25–28): first *"in the land"* — no departure
+at all — then the wilderness, *"only you shall not go very far away"*. **Each later offer holds back
+something else: distance, then children, then herds.** Moses refuses the first on the grounds that
+Israel's sacrifice is *"the abomination of the Egyptians"* (8:26), and Pharaoh withdraws the second
+when the flies are gone (8:32). See [[Frogs, Lice, and Flies]].
 
 **Pharaoh says so out loud.** *"See, evil is clearly before your faces"* (Exodus 10:10) — **he knows
 what a departure with the children in it means.** **And Moses answers with the one sentence that

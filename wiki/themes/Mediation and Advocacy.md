@@ -262,6 +262,11 @@ what Job is asking for.
 - [[Aaron's Staff Before Pharaoh]] — Exodus 7:1–2; **a chain of four links.** God commands Moses,
   Moses speaks to Aaron, Aaron speaks to Pharaoh, and Pharaoh is to let the people go. Moses is
   *ʾĕlōhîm* to Pharaoh and Aaron his *nābîʾ* — mediation built into the shape of the embassy
+- [[Frogs, Lice, and Flies]] — Exodus 8:8–13, 28–31; **the mediator prays for the
+  oppressor.** Pharaoh asks Moses to entreat Yahweh for him twice, and Moses does, without conditions
+  except a warning — *"don't let Pharaoh deal deceitfully any more"* — and is heard both times. **It
+  is the first time in Exodus that Moses stands between God and Egypt rather than between God and
+  Israel**, as Abraham stood for Abimelech (Genesis 20:7, 17) — [[A Prophet Who Prays - The First Nabi in Scripture]]
 
 ## Related themes
 
