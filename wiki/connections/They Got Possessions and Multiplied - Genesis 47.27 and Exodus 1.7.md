@@ -19,7 +19,7 @@ tags: [connection]
 - **Genesis 47:27** — *"they got themselves possessions therein, and were fruitful, and multiplied
   exceedingly"* — [[Joseph and the Famine]]
 - **Exodus 1:7** — the same sentence in five verbs, immediately before *"there arose a new king over
-  Egypt"*
+  Egypt"* — [[The Oppression in Egypt]]
 - Compare **Acts 7:17** — *"the people grew and multiplied in Egypt"*, Stephen's summary
 - Compare **Jeremiah 29:6** — *"multiply there, and don't be diminished"*, the same command to exiles
   in Babylon
@@ -85,6 +85,12 @@ of the creation blessing directly beside the enslavement of a nation and does no
 I will make you fruitful, and multiply you, and I will make of you a company of peoples"* (48:4). **He
 says it in Egypt, to a grandson born in Egypt, about a land he is about to make his son swear to
 carry him back to** (47:29–30).
+
+**With Exodus 1 ingested ([[The Oppression in Egypt]]), the refrain can be counted.** The blessing's
+verb *rābâ* comes back three times as each of Pharaoh's measures fails: the multiplication (1:7),
+*"the more they afflicted them, the more they multiplied"* (1:12), and *"the people multiplied, and
+grew very mighty"* (1:20). Between the first and second, the king's *"lest they multiply"* (1:10)
+states the aim in the same verb. **God is not the subject of any verb in the chapter until 1:20.**
 
 ## Significance
 

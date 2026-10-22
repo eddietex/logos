@@ -15,6 +15,7 @@ tags: [connection]
 - **Genesis 14:18–20** — [[The Rescue of Lot and Melchizedek]]. The priest-king blesses Abram, and
   Abram gives him a tenth.
 - **Hebrews 7:7** — without any dispute, the lesser is blessed by the greater.
+- **Exodus 1:8** — *"Now there arose a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
 
 ## Analysis
 

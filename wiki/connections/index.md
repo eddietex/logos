@@ -272,3 +272,8 @@ Parallels, harmonies, and prophecy → fulfillment pairs, updated on each ingest
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
 | [[Yahweh Turned the Captivity of Job - Restoration and the Double]] | thread | Job 42:10, 12 · Deuteronomy 30:3 · Psalm 14:7 · Psalm 126:1, 4 · Jeremiah 29:14 · Amos 9:14 · Exodus 22:4, 7, 9 · Isaiah 40:1–2 · Isaiah 61:7 · Zechariah 9:12 |
 | [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |
+| [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4 · Exodus 1:10, 14 · Exodus 5:7–19 |
+| [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
+| [[Every Son Who Is Born - Pharaoh's Decree and Herod's]] | typology | Exodus 1:16, 22 · Exodus 2:1–10, 15 · Exodus 4:19 · Matthew 2:13–20 · Acts 7:19 · Hebrews 11:23 |
+| [[The Midwives and Rahab - Deceiving the King to Save Life]] | thematic-parallel | Exodus 1:15–21 · Joshua 2:1–7 · Hebrews 11:31 · James 2:25 · Acts 5:29 |
+| [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |

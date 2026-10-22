@@ -81,6 +81,8 @@ been explained by any text. See
 - Judges 13–16 — Samson, the tribe's one judge; Judges 18 — the migration, the stolen idols, and the
   renaming of Laish
 - 1 Kings 12:29–30 — Jeroboam's calf at Dan; Revelation 7:5–8 — the tribe omitted
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -129,6 +131,9 @@ been explained by any text. See
   over. **And the verse that follows him is the chapter's only prayer** (49:18), **which the rabbinic
   tradition attaches to his saying and the wiki files as unplaced.** See
   [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]]
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); first of Bilhah's two, after Rachel's. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

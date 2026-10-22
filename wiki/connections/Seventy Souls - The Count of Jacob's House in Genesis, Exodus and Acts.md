@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Genesis 46:8–27** — [[Jacob's Family Settles in Egypt]]. The register, its four subtotals, and the
   two grand totals of 46:26–27.
-- **Exodus 1:5** — the same figure, opening the book of the bondage.
+- **Exodus 1:5** — the same figure, opening the book of the bondage. — [[The Oppression in Egypt]]
 - **Deuteronomy 10:22** — seventy went down; the God of Israel has since made them as the stars of the
   sky for multitude.
 - **Acts 7:14** — Stephen, before the Sanhedrin: **seventy-five souls.**
@@ -91,6 +91,11 @@ mountain with Moses (Exodus 24:1, 9), seventy are appointed to bear the burden w
 11:16–25), **and Luke sends out seventy** (Luke 10:1, where the manuscripts themselves divide between
 seventy and seventy-two). **Genesis 46 is where the number first attaches to Israel**, and it attaches
 at the moment Israel is smallest.
+
+**Exodus 1:1–5 as ingested ([[The Oppression in Egypt]])** gives the eleven who *came*, says Joseph
+*"was in Egypt already"*, and gives the total without the sixty-six of Genesis 46:26 — **the count
+of Genesis 46:27, which includes Jacob, Joseph, and Joseph's two sons.** The WEB's *"came out of
+Jacob's body"* is literally *thigh*, *yārēk* (see [[Put Your Hand Under My Thigh]]).
 
 ## Significance
 

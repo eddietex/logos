@@ -296,6 +296,8 @@ verdicts.
   when he confessed. Bildad's 8:7 comes true in its own nouns (42:12); its condition was met at 1:1. The children
   are not doubled, and no reason is given. See [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]]
   and [[Yahweh Turned the Captivity of Job - Restoration and the Double]].
+- [[The Oppression in Egypt]] — Exodus 1:22; **the river turned back.** What Egypt does to Israel's sons in the water,
+  water will do to Egypt — the Nile to blood (7:20), and the sea where Pharaoh's army is cast (15:4)
 
 ## Related themes
 

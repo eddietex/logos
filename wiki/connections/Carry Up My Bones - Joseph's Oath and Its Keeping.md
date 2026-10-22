@@ -18,6 +18,8 @@ tags: [connection]
 - **Joshua 24:32** — *"They buried the bones of Joseph … in Shechem, in the parcel of ground which
   Jacob bought"*
 - **Hebrews 11:22** — the one act of faith the New Testament credits to Joseph
+- **Exodus 1:6, 8, 10** — Joseph dead with *"all that generation"*; a king *"who didn't know Joseph"*,
+  afraid Israel will *"escape out of the land"* — *ʿālâ*, the verb of the oath — [[The Oppression in Egypt]]
 
 ## Analysis
 
@@ -101,6 +103,11 @@ Moses' refusal of Egypt, and it gives Joseph one line — for this.** **Not the 
 interpretation, not thirteen years of imprisonment, not the famine administration, not the
 forgiveness.** **The coffin.** **The New Testament's verdict is that the most faithful thing Joseph
 ever did was decline a grave.** See [[Faith]] and [[Hope]].
+
+**Exodus 1:10 ([[The Oppression in Egypt]]) puts the oath's verb in Pharaoh's mouth as his fear.**
+*"Escape out of the land"* is *wəʿālâ min-hāʾāreṣ*, *and go up from the land* — what Joseph swore God
+would do (*"bring you up out of this land"*, Genesis 50:24). **The king who does not know Joseph fears
+exactly what Joseph promised.**
 
 ## Significance
 

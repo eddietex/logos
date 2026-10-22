@@ -419,7 +419,7 @@ years he is, as far as Abram knows, the son.
 - Genesis 37:25–28 — Ishmaelites buying Joseph and taking him down to Egypt, the first thing
   Ishmael's descendants do in the story.
 - Exodus 1:11–12; 2:15; 3:7 — affliction, flight, and a God who sees the affliction and hears the
-  cry.
+  cry. — [[The Oppression in Egypt]]
 - Exodus 33:20–23 — seeing God and living, and *"you shall see my back"*: both halves of 16:13's
   ambiguity.
 - Judges 13:2–24 — the angel of Yahweh, an annunciation to a woman, and *"we shall surely die,

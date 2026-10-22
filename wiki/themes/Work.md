@@ -166,6 +166,9 @@ the seventh day a blessing. See [[Sabbath]].
   the falcon has not looked and the lion has not walked (28:7–8), and *"His eye sees every precious
   thing"* (28:10). **The poem praises the skill without reservation, and then says what it cannot reach**:
   wisdom (28:12)
+- [[The Oppression in Egypt]] — Exodus 1:11–14; **work as bondage.** *"Hard service, in mortar and in brick, and in all
+  kinds of service in the field"* — Babel's materials (Genesis 11:3), carried for someone else's
+  storehouses. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 
 ## Related themes
 

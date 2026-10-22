@@ -1326,6 +1326,22 @@ it**: no explanation of the wager, no defence of his justice, no correction of t
 theology within the poem. He asks questions about the sea's doors and the storehouses of snow, and
 he issues his one verdict on the argument afterwards, in prose, to the friends (42:7).
 
+## He is almost absent — Exodus
+
+### He acts once, for two women — Exodus 1:1–22
+
+**God is not mentioned in the first sixteen verses of Exodus, does not speak in its first chapter,
+and is not yet called *Yahweh*** — the name does not appear in the book until 3:2. **What the
+chapter shows instead is his blessing working without him visibly at work**: the people are
+*"fruitful, and increased abundantly, and multiplied"* (1:7) in the creation mandate's verbs, and
+multiply again each time a king tries to stop it (1:12, 20). **His first act in the book is for the
+midwives**: *"God dealt well with the midwives"*, and *"Because the midwives feared God, he gave them
+families"* (1:20–21). He is the God whose fear outranks a king's, and the God who gives households
+to the women who would not stop the households of Israel. **He is not said to see, hear, or
+remember until 2:24–25**, after a generation. Psalm 105:25 makes him the author of Egypt's hatred
+(*"He turned their heart to hate his people"*); Exodus 1 does not, and the difference is recorded on
+[[The Oppression in Egypt]] rather than resolved. See [[Providence]] and [[The Fear of God]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1476,6 +1492,8 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
   [[I Repent in Dust and Ashes]]
 - Rebukes the three friends and commends Job, *"my servant"*; accepts Job's prayer for them; restores Job twice over
   — Job 42:7–17, [[The Restoration of Job]]
+- Deals well with the Hebrew midwives, who feared him, and gives them households; his people
+  multiply under oppression — Exodus 1:7, 12, 17–21, [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -1792,6 +1810,9 @@ he issues his one verdict on the argument afterwards, in prose, to the friends (
 - [[The Restoration of Job]] — *Yahweh*, the verdict-giver (42:7–8): wrath *kindled* at the friends, Job *accepted*
   (*pānāyw ʾeśśāʾ*, 42:8–9), the captivity turned (42:10), the latter end blessed (42:12); named by the narrator as
   the source of *"all the evil"* (42:11). No reason given.
+- [[The Oppression in Egypt]] — Exodus 1:17, 20–21; *ʾĕlōhîm*, **absent from 1:1–16 and silent throughout**; feared
+  by the midwives, who disobey the king for his sake, and the one who *"dealt well"* with them and
+  gave them *bāttîm*, households
 
 ## Related people
 

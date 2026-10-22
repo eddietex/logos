@@ -642,6 +642,7 @@ twelve tribes of Israel are born outside the land**, in a country the book never
 - Genesis 50:19, 23 — *"Am I in the place of God?"*, and children *"born on Joseph's knees"* *(not yet
   ingested)*.
 - Exodus 1:1–5 — the eleven of this passage plus Benjamin, listed as the seventy who went down to Egypt.
+  — [[The Oppression in Egypt]]
 - Exodus 2:24; 3:7 — *God remembered his covenant*, and *"I have surely seen the affliction of my
   people"*: the two verbs of this pericope, applied to a nation.
 - Leviticus 18:18 — two sisters, *to be a rival*, forbidden while the first lives.

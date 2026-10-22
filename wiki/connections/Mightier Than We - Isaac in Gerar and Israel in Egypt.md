@@ -11,7 +11,7 @@ tags: [connection]
   in, and is told *"Go away from us, for you are much mightier than we"* — [[Isaac in Gerar]]
 - **Exodus 1:7–14** — the children of Israel are fruitful and multiply and fill the land; a new king
   says *"the people of the children of Israel are more and mightier than we"*, and sets taskmasters
-  over them
+  over them — [[The Oppression in Egypt]]
 - **Genesis 12:10–20** — the first descent, the first enrichment in a foreign country, and the first
   escorted expulsion — [[Abram in Egypt]]
 - **Genesis 47:27** — the family in Goshen: *"they got themselves possessions therein, and were

@@ -202,6 +202,9 @@ close to the book's whole point about who may speak for the tradition. See
   understand, things too wonderful for me, which I didn't know"* (42:3) — *niplāʾôt*, the *p-l-ʾ* of Genesis
   18:14. Job concedes the charge of 38:2 and nothing else; what he did not know is God's purpose, which *"can[not]
   be restrained"* (42:2). See [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]].
+- [[The Oppression in Egypt]] — Exodus 1:10; **wisdom as cunning.** *"Come, let us deal wisely with them"* — *ḥākam*,
+  in the country where Joseph was called *"discreet and wise"* (Genesis 41:39), turned against his
+  family
 
 ## Related themes
 

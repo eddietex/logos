@@ -124,6 +124,8 @@ reading that the text supports, is located in what the building was *for*.
   to *"look at everyone who is proud, and bring him low"* — twice (40:11–12) — and then shown a creature whose
   scales are *"his pride"* (*gaʾăwâ*, the root of 40:11's *gēʾeh*) and who is *"king over all the sons of
   pride"* (41:34). God governs pride without abolishing it; Job cannot even hook it.
+- [[The Oppression in Egypt]] — Exodus 1:10, 14; *"Come, let us …"* — Babel's word and Babel's bricks, in an
+  empire that makes others build. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 
 ## Related themes
 

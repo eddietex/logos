@@ -142,6 +142,8 @@ judgment about a motive.**
   **Then he says *"see that you don't quarrel on the way"*** (45:24), **which is either an afterthought
   or an admission that he knows exactly what he has just handed them.** Genesis records no quarrel and
   offers no comment on either verse; see [[Five Changes of Clothing - The Coat Given Again]]
+- [[The Oppression in Egypt]] — Exodus 1:9–12; *"more and mightier than we"* — Abimelech's comparative (Genesis 26:16),
+  and *wayyāquṣû*, *they were grieved*, a dread with revulsion in it
 
 ## Related themes
 

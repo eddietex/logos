@@ -81,6 +81,8 @@ the same willingness to use a sword to a different use.
   [[Jacob Blesses His Sons]]
 - Exodus 32:26–29 — the tribe ordained at Sinai; Numbers 18; Deuteronomy 33:8–11 — the priesthood and
   the teaching office
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -130,6 +132,9 @@ the same willingness to use a sword to a different use.
   (Joshua 21) — **while its meaning is turned inside out.** **The tribe that is cursed here for using a
   sword is ordained at Exodus 32:26–29 for using one.** **Genesis says nothing of that**, and the wiki
   records the reversal as the Torah's, not as this chapter's
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); third; **his is the house the next chapter begins with** — *"A man of the house of Levi went and took a daughter of Levi as his wife"* (2:1). Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

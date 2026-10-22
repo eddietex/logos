@@ -74,6 +74,8 @@ byword for discernment**, and it has no narrative attached to it anywhere.
   [[Jacob Blesses His Sons]]
 - Judges 5:15 — the princes of Issachar with Deborah; 1 Chronicles 12:32 — *"understanding of the
   times"*
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -117,6 +119,9 @@ byword for discernment**, and it has no narrative attached to it anywhere.
   done is named.** ***Mas-ʿōbēd***, *forced labour*, **is the word Exodus 1:11 will use of Israel in
   Egypt** — **applied to a tribe of Israel by its own father, in Egypt, four hundred years early.**
   **Judges 5:15 and 1 Chronicles 12:32 both record the tribe doing better than the saying allows**
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); fifth of Leah's sons — and the bondage's *śārê missîm*, *taskmasters* (1:11), is the *mas* of his own blessing (Genesis 49:15). Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

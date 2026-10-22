@@ -26,8 +26,8 @@ tags: [connection]
   in this chapter**
 - **Genesis 46:1–4** — Jacob told *"Don't be afraid to go down into Egypt … I will also surely bring
   you up again"* *(not yet ingested)*
-- **Exodus 1:22** — *"every son who is born you shall cast into the river, and every daughter you
-  shall save alive"*
+- **Exodus 1:22** — *"You shall cast every son who is born into the river, and every daughter you
+  shall save alive"* — [[The Oppression in Egypt]]
 - **Exodus 7–12** — the plagues, and Pharaoh's household struck
 - **Exodus 12:31–36** — *"Rise up, go out from among my people"*, the Egyptians urgent to send them
   away, and the silver, gold, and clothing carried out
@@ -57,7 +57,7 @@ but a rehearsal of Israel's.
 |---|---|---|
 | Cause | *"There was a famine in the land … for the famine was severe in the land"* | *"the famine is severe in the land of Canaan"* (Genesis 47:4) |
 | Movement | *"Abram went down into Egypt to live as a foreigner there"* | *"He went down into Egypt, and lived there as a foreigner"* (Deuteronomy 26:5) |
-| The threat | *"They will kill me, but they will save you alive"* | *"every son … cast into the river, and every daughter you shall save alive"* (Exodus 1:22) |
+| The threat | *"They will kill me, but they will save you alive"* | *"cast every son … into the river, and every daughter you shall save alive"* (Exodus 1:22) |
 | Who is at risk | the wife the promise runs through | the sons the nation runs through |
 | The intervention | *"Yahweh afflicted Pharaoh and his house with great plagues"* | ten plagues, culminating in Pharaoh's own house (Exodus 12:29) |
 | Pharaoh's words | *"take her, and go your way"* | *"Rise up, go out from among my people"* (Exodus 12:31) |
@@ -74,7 +74,7 @@ away, is Genesis 12:20's verb and the verb of *"let my people go."*
 
 The one element that does not simply repeat is the threat, and it is inverted. Abram predicts
 *"they will kill me, but they will save you alive"* — the man dies, the woman lives. Exodus 1:22
-decrees *"every son … cast into the river, and every daughter you shall save alive"* — the sons die,
+decrees *"cast every son … into the river, and every daughter you shall save alive"* — the sons die,
 the daughters live. Same verb pairing, opposite sexes, and in both cases the survivor is the one
 through whom the promise would have to travel. Genesis 12 has the wife spared and the husband afraid;
 Exodus 1 has the daughters spared and the sons drowned. What is at stake both times is not an

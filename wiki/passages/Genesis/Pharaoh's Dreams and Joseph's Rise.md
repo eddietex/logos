@@ -818,7 +818,7 @@ now go to Egypt to buy from him**, and **the sheaves of 37:7 bow in 42:6.** See
 - Genesis 47:13–26 — **the fifth part made permanent**, and the priests exempted —
   [[Joseph and the Famine]]
 - Genesis 48:5, 14, 19 — **the adoption and the crossed hands** *(not yet ingested)*
-- Exodus 1:8 — *"a new king over Egypt, who didn't know Joseph"*
+- Exodus 1:8 — *"a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
 - Exodus 3:7; 4:31 — *ʿŏnî*, the affliction seen
 - Exodus 7:11, 22; 8:7, 18–19; 9:11 — the *ḥarṭummîm* again, on the losing side
 - Exodus 10:13; 14:21 — the east wind of 41:6, at the locusts and at the sea

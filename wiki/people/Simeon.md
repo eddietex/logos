@@ -86,6 +86,8 @@ there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deute
   Genesis 48:5, [[Jacob Blesses Ephraim and Manasseh]]
 - Cursed with Levi at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7,
   [[Jacob Blesses His Sons]]
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -146,6 +148,9 @@ there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deute
   **and changes the charge from imprudence to killing.** **What he is sentenced to, [[Levi]] is
   sentenced to in the same breath**, and the two outcomes could not be further apart: **Levi gets
   forty-eight cities and an office; Simeon gets absorbed into [[Judah]]** and is gone from the lists
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); second in the birth-mother order. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

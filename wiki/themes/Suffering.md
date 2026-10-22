@@ -250,6 +250,8 @@ requires only that you be standing outside it.
   that Yahweh had brought on him"* (42:11), with no accuser, no wager, and no reason. The ten dead children are not
   replaced by doubling, and the sores of 2:7 are never mentioned again. The suffering is ended; it is not accounted
   for.
+- [[The Oppression in Egypt]] — Exodus 1:11–14; *"they made their lives bitter"* — *mārar*, the root of the bitter herbs
+  (12:8) and of Marah (15:23). No lament is recorded until 2:23
 
 ## Related themes
 

@@ -74,6 +74,8 @@ ministry begins in.**
 - Judges 4:6; 5:18 — Barak, and the tribe that risked its life on the heights
 - 2 Kings 15:29; Isaiah 9:1; Matthew 4:13–16 — deported early, and named in the prophecy Matthew puts
   over Galilee
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -119,6 +121,9 @@ ministry begins in.**
   **The last of the four short sayings**, and **the last saying before the poem turns to [[Joseph]] and
   runs for five verses.** **His name is not punned**, though 30:8's *wrestlings of God* was the densest
   naming speech in the birth narrative
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); Bilhah's second. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

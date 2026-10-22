@@ -211,6 +211,9 @@ five times**, and each is a covenant hinge.
   Jemimah; and the name of the second, Keziah; and the name of the third, Keren Happuch"* — commonly *dove*, *cassia*,
   and *horn of eye-paint*. In the prologue none of the ten children had names; in the epilogue only the women do. See
   [[Job's Children]].
+- [[The Oppression in Egypt]] — Exodus 1:1, 15; ***Shemot*, *names*, is the book's title**, and the chapter names the
+  sons, the store-cities, and the two midwives — but never the king. **The powerless are named and
+  the powerful anonymous.** See [[Shiphrah and Puah]]
 
 ## Related themes
 

@@ -392,6 +392,8 @@ sworn to and not himself.**
 - *"God will surely visit you"*, twice; the oath about his bones — Genesis 50:24–25
 - Dies, is embalmed, and is put in a coffin in Egypt — **the last verse of Genesis** — Genesis 50:26;
   the bones are collected at Exodus 13:19 and buried at Joshua 24:32
+- *"In Egypt already"*; dies, with all his brothers and all that generation; a new king arises
+  *"who didn't know Joseph"* — Exodus 1:5–8, [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -546,6 +548,11 @@ sworn to and not himself.**
   **and his last act is to decline a grave**: *pāqōd yipqōd*, *God will surely visit you*, and
   *"you shall carry up my bones from here."* **Hebrews 11:22 credits him with that one thing and
   nothing else**
+- [[The Oppression in Egypt]] — Exodus 1:5–8; **the man the bondage begins by forgetting.** *"Joseph was in Egypt
+  already"* (1:5), *"Joseph died"* (1:6), and *"there arose a new king over Egypt, who didn't know
+  Joseph"* (1:8). His promise of 50:24 — *"bring you up out of this land"* — is the king's fear at
+  1:10 (*"escape out of the land"*, *ʿālâ*), and the midwives *"saved the baby boys alive"* with the
+  root of his *"to save many people alive"* (50:20)
 
 ## Related people
 

@@ -304,6 +304,9 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   with you, that you should take him for a servant forever?"* The only covenant proposed in the whirlwind
   speeches is one Leviathan will not make with Job — the language of the slave who binds himself for life
   (Exodus 21:6; Deuteronomy 15:17).
+- [[The Oppression in Egypt]] — Exodus 1:7, 11–14; Genesis 15:13 kept to the word — *serve* and *afflict* — by the nation it
+  condemns, and 15:14's *"I will also judge that nation"* still ahead. God is not said to
+  *remember his covenant* until 2:24
 
 ## Related themes
 

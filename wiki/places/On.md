@@ -71,6 +71,7 @@ of what Egyptian religion is** — **and possibly also of what it might become.*
   [[Bethel from Jacob's Pillar to Jeroboam's Calf]]
 - [[Salem]] — the other city in Genesis with a named priest in it, and the other *kōhēn* outside Israel;
   see [[Melchizedek]]
+- [[Pithom]] — *Per-Atum*, *house of Atum*, named for the god whose cult centre On was
 
 ## Events here
 

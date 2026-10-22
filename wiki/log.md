@@ -10909,3 +10909,108 @@ passages, 268 connections). `scripts/link-check.sh` clean.
 
 No contradiction between wiki pages found. The one tension the pericope surfaces — *"without knowledge"* (38:2)
 against *"the thing that is right"* (42:7) — is God's own and is recorded on the pages concerned, not resolved.
+
+## [2026-10-22] ingest | Exodus 1.1-22 — The Oppression in Egypt
+
+Unattended run (`/ingest auto`). Target resolved mechanically: no book was `in-progress` in
+`wiki/books/index.md` (Genesis and Job both `complete`), so the scan fell through to the first
+`not-started` book, [[Exodus]]. `raw/bible/Exodus.md` was fetched (40 chapters), the book page was
+created, and the whole book's pericope plan drawn — **53 pericopes** — before ingesting the first.
+No discussion step; it is written into the passage page.
+
+### The pericope plan
+
+Drawn by narrative unit: oppression and Moses (1–2, three units), the call (3–4, two), the first
+confrontation (5–7:13, four), the plagues in five units (7:14–11), Passover and the sea (12–15:21,
+five), the road to Sinai (15:22–18, five), the covenant at Sinai (19–24, nine — the Book of the
+Covenant, 20:22–23:33, cut into six units by subject), the tabernacle instructions (25–31, eight),
+the calf and the renewal (32–34, four), and the construction (35–40, eight). Instruction and
+construction are kept to comparable units so they can be read side by side. All boxes after the
+first are provisional.
+
+### The passage page
+
+[[The Oppression in Egypt]] — Exodus 1:1–22 taken whole: 1:1–7 (Genesis written again), 1:8 (the
+hinge), 1:9–22 (three measures, each widening the guilt). Findings: *Wəʾēlleh šəmôt* as Genesis
+46:8's sentence; the sons in Genesis 35:23–26's order, not 46's; 1:6's generation-death and Judges
+2:8–10; 1:7's five verbs and *šāraṣ*; *yādaʿ* as acknowledgment, carried to 5:2 and 7:5; *rab wəʿāṣûm
+mimmennû* (Genesis 26:16); *hābâ* … *pen* and *ḥōmer ûləbēnîm* as Babel's (Genesis 11:3–4);
+*ḥākam* turned to cunning; *wəʿālâ min-hāʾāreṣ* as Joseph's verb (Genesis 50:24); Genesis 15:13's
+*ʿābad*/*ʿānâ* kept to the word; *śārê missîm* and *ʿārê miskənôt* against 1 Kings 9:19–21;
+*bəpārek* and Leviticus 25:43; *mārar*; the midwives' *ḥāyâ* wordplay; the fear of God as the
+ground of refusal; the river reversed (2:3, 7:20, 15:4). **God is absent from 1:1–16, never speaks,
+and acts once, for the midwives.**
+
+### Judgment calls
+
+- **New person page `Pharaoh (of the oppression)`**, not `Pharaoh (of the Exodus)`: Exodus 2:23
+  records *"the king of Egypt died"* before Moses returns, so the king of chapters 1–2 and the king
+  of the plagues are two figures. Narrative-keyed qualifier per the schema; the plague-king's page
+  comes when he appears.
+- **`Shiphrah and Puah` as one page**, since the text never separates them (precedent:
+  [[Job's Children]]). *Hebrew midwives* (WEB) followed; *midwives of the Hebrews* recorded. The
+  Brooklyn Papyrus report on the name *Shiphrah* mentioned as unchecked and not relied on.
+- **The midwives' answer**: three readings recorded (right deception; fear rewarded, lie forgiven;
+  not a lie), none chosen. The Augustine attribution is given as *usually associated*.
+- **Psalm 105:25** (*"He turned their heart to hate his people"*) against Exodus 1's silence on God's
+  role in the hatred: **recorded as a difference of emphasis between two biblical accounts, not a
+  contradiction between wiki pages**, and not resolved.
+- **New place page [[Pithom]]**; identification given as the usual one (Per-Atum, Wadi Tumilat),
+  site not decided. No new theme page: the multiplication is filed under [[Blessing]] and the
+  existing thread page.
+- The Pharaoh's historical identity and the date are not decided; pointed at
+  [[Four Hundred Years - The Sojourn and the Exodus]].
+
+### Corrections (misquotations of Exodus 1, not contradictions)
+
+Checked every italic quotation of Exodus 1 on pages that cite it against `raw/bible/Exodus.md`.
+Corrected to the WEB: *"saved the boy babies alive"* → *"saved the baby boys alive"*
+([[The Deaths of Jacob and Joseph]],
+[[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]]); *"Every son who is born you
+shall cast into the river"* and *"every son … cast into the river"* → the WEB's word order, *"You
+shall cast every son who is born into the river"* ([[The Nile]], [[Abram in Egypt]] twice,
+[[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] three times); *"let's deal wisely"*
+→ *"let us deal wisely"*
+([[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]]); *"spread abroad"* →
+*"spread out"* ([[Served, Released, Pursued - The Laban Years as Proto-Exodus]]); *"came out of Jacob's
+thigh"* → the WEB's *body*, with *thigh* given as the literal Hebrew ([[Put Your Hand Under My Thigh]],
+[[A Wife for Isaac]]); and, in the same sentence, Judges 8:30 corrected to the WEB's *"seventy sons
+conceived from his body"*.
+
+Non-Genesis, non-Exodus quotations checked against the WEB from bible-api.com before writing:
+Leviticus 25:43, 46, 53; Numbers 22:3 (cited, not quoted); Deuteronomy 26:5–6; Joshua 2:1–7; 24:29;
+Judges 2:6–11; 8:30; 1 Kings 9:19–22; Psalm 105:23–25; Matthew 2:1–2, 13–20; Acts 5:29; 7:14–20;
+Hebrews 11:23–24, 31; James 2:25. Jeremiah 18:3, Ezekiel 34:4, Joshua 2:9–11, Joshua 6, and
+Leviticus 25:42, 55 cited by reference only. Genesis and Exodus texts checked against `raw/bible/`.
+
+### Connection pages
+
+Created (5): [[Come, Let Us - Babel's Bricks and Pharaoh's]],
+[[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]],
+[[Every Son Who Is Born - Pharaoh's Decree and Herod's]],
+[[The Midwives and Rahab - Deceiving the King to Save Life]], and
+[[With Harshness - Exodus 1.13-14 and Leviticus 25]]. Revised (17): passage link added to the Exodus 1
+entry of every connection page that already anticipated the chapter, with an Analysis note on
+[[The Twelve Sons and the Lists That Reorder Them]], [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]],
+[[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]],
+[[Four Hundred Years - The Sojourn and the Exodus]], and
+[[Carry Up My Bones - Joseph's Oath and Its Keeping]]; new Exodus 1 entries on
+[[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]],
+[[Blessed for His Sake - Laban's House and Potiphar's]], and
+[[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]].
+
+### Pages created or revised
+
+Created (10): book page, passage page, [[Pharaoh (of the oppression)]], [[Shiphrah and Puah]],
+[[Pithom]], and five connection pages. `raw/bible/Exodus.md` added. People revised (15): [[God]]
+(new *Exodus* section), [[Jacob]], [[Joseph]], [[Pharaoh (of Joseph's time)]] (its *not yet ingested*
+marker removed, its forward note pointed at the new page), and the eleven sons. Places (5):
+[[Egypt]], [[Rameses]], [[The Nile]], [[Goshen]], [[On]]. Themes (17): [[Slavery and Servitude]],
+[[The Fear of God]], [[Blessing]] (with *Development* entries), [[Deception]], [[Covenant]], [[Work]],
+[[Kingship and Empire]], [[Envy]], [[Wisdom]], [[Life and Death]], [[Providence]],
+[[Names and Naming]], [[Suffering]], [[Retribution]], [[Remembrance]],
+[[Pride and Self-Exaltation]], [[City and Civilization]]. Passages: Exodus 1 cross-reference bullets
+linked in seven Genesis passage pages, plus the quotation corrections above. Indexes: books (Exodus
+`in-progress`, 1 / 53), people (+2 rows, 15 revised), places (+1, 4 revised), themes (17 revised),
+connections (+5), `wiki/index.md` (3 books started, 92 passages, 146 people, 78 places, 273
+connections). `scripts/link-check.sh` clean.

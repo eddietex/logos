@@ -343,7 +343,7 @@ reckons intention here.**
 
 ***Ləhaḥăyōt ʿam-rāb***, ***to save many people alive***. **The hiphil of *ḥāyâ*, to keep alive,
 is a rare and pointed choice: its next appearance of any weight is Exodus 1:17–18, where the
-Hebrew midwives *"saved the boy babies alive"* against a king's order.** **The phrase that
+Hebrew midwives *"saved the baby boys alive"* against a king's order.** **The phrase that
 summarises Joseph's whole career is the phrase Exodus gives to two women who disobey Pharaoh.**
 
 **This is the sentence the New Testament reaches for whenever it has to say how a crime and a

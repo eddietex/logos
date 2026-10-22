@@ -123,6 +123,8 @@ rather than achieved.
   honour**, the only city in the Hebrew book of Job. The elders rise, the princes fall silent, and the
   man who sits there is honoured for what he does for the powerless — the city at its best, seen
   from the judge's seat. See [[Uz]].
+- [[The Oppression in Egypt]] — Exodus 1:11; the storage cities [[Pithom]] and [[Rameses]], **the first cities
+  Israel builds, and built for someone else**. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 
 ## Related themes
 

@@ -12,7 +12,7 @@ tags: [connection]
 - **Genesis 47:27** — and in the next verse Israel takes possession and multiplies —
   [[Joseph and the Famine]]
 - **Exodus 1:8–14** — *"there arose a new king over Egypt, who didn't know Joseph"*; Israel put under
-  taskmasters
+  taskmasters — [[The Oppression in Egypt]]
 - **Exodus 5:6–19** — the straw withheld and the quota kept: the bondage administered in detail
 - Background: **Genesis 37:28, 36; 39:1** — Joseph himself sold into Egypt as an *ʿebed* —
   [[Joseph Sold into Slavery]]
@@ -73,7 +73,7 @@ sentences with no connective at all.** See [[Slavery and Servitude]] and [[Land 
 arrangement Joseph built required Joseph** — a vizier whose family was the exempt population.
 **Remove the man and the machinery remains**, a crown owning the land and the labour of everyone on
 it, **with an unassimilated foreign population in [[Goshen]] that is now the only group in Egypt not
-already accounted for.** **Exodus 1:10's *"let's deal wisely with them"* is that machinery being
+already accounted for.** **Exodus 1:10's *"let us deal wisely with them"* is that machinery being
 pointed at them.**
 
 ### The word that Israel is given to remember

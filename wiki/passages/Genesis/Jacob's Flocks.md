@@ -491,6 +491,7 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
 - Genesis 47:6, 27 — the family settled in Goshen, fruitful and multiplying in a foreign estate
   *(not yet ingested)*.
 - Exodus 1:7–14 — the household that grows too large for its host, and is kept rather than released.
+  — [[The Oppression in Egypt]]
 - Exodus 5:1–3 — ***šallaḥ ʾet-ʿammî***, and a three days' journey asked for.
 - Exodus 12:35–36 — leaving a foreign employer enriched.
 - Leviticus 19:26; Deuteronomy 18:10 — the prohibition of *nāḥaš*.

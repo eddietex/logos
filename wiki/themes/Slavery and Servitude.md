@@ -87,6 +87,12 @@ the womb?"* **Master and slave share one maker and one manner of making.** It is
 Proverbs 14:31, 22:2 and Malachi 2:10, applied inside a household; it does not abolish the institution,
 but it denies it any basis in the nature of the persons. See [[Job's Oath of Innocence]] and
 [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]].
+- **Exodus 1 — the bondage begins, and the book is built on its verb.** *ʿĀbad*, *serve*, is what
+  Egypt makes Israel do five times over in 1:13–14; *"Let my son go, that he may serve me"* (4:23) is
+  the demand that answers it; and *"the house of bondage"*, *bêt ʿăbādîm* (20:2), is what God brought
+  them out of. **Exodus is the story of a change of masters.** The storage cities and the levy
+  reappear under Solomon (1 Kings 9:19–21), and the law forbids an Israelite to do to another what
+  Egypt did (Leviticus 25:43, 46). See [[The Oppression in Egypt]].
 
 ## Key passages
 
@@ -246,6 +252,12 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
 - [[Behemoth and Leviathan]] — Job 41:4; ***ʿebed ʿôlām*, a servant forever.** *"Will he make a covenant with you,
   that you should take him for a servant forever?"* — the term of the slave who chooses lifelong service and
   has his ear pierced at the door (Exodus 21:6; Deuteronomy 15:17), applied to a creature no one can bind.
+- [[The Oppression in Egypt]] — Exodus 1:11–14; **the corvée.** *Śārê missîm*, *taskmasters* (officers of the levy), set over
+  Israel *"to afflict them with their burdens"*; the storage cities [[Pithom]] and [[Rameses]]; and
+  *ʿābad* five times in two verses, *bəpārek*, *ruthlessly*. **Genesis 15:13's *serve* and *afflict*
+  kept word for word.** The adverb returns only in Leviticus 25's prohibition — *"You shall not rule
+  over him with harshness, but shall fear your God"* — see
+  [[With Harshness - Exodus 1.13-14 and Leviticus 25]]
 
 ## Related themes
 

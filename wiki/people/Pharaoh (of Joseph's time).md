@@ -105,8 +105,12 @@ the crown for grain, is conducted on his behalf by Joseph** and is the one part 
 might find troubling — and **Genesis reports it without an adverb of any kind.**
 
 **Exodus 1:8 is where the arrangement ends**: *"Now there arose a new king over Egypt, who didn't know
-Joseph."* **The Pharaoh of the Exodus is a different figure and gets his own page when Exodus is
-reached.**
+Joseph."* That king is [[Pharaoh (of the oppression)]], **and the contrast is drawn point for point**:
+this king gave the family *"the best of the land, in the land of Rameses"* (Genesis 47:11); his
+successor makes them build *"Raamses"* as a storage city under taskmasters (Exodus 1:11). *Didn't
+know* is *yādaʿ* as acknowledgment — **the debt this king's house owed Joseph's, unacknowledged.**
+See [[The Oppression in Egypt]]. The Pharaoh of the plagues is a third figure (Exodus 2:23 records
+the oppressor's death) and gets his own page when he appears.
 
 ## Timeline / key events
 
@@ -134,7 +138,7 @@ reached.**
   [[Joseph and the Famine]]
 - Permits the funeral caravan to Canaan, on the strength of the oath — Genesis 50:4–6,
   [[The Deaths of Jacob and Joseph]]
-- Succeeded by a king *"who didn't know Joseph"* — Exodus 1:8 *(not yet ingested)*
+- Succeeded by a king *"who didn't know Joseph"* — Exodus 1:8, [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -210,6 +214,9 @@ reached.**
   strength of an oath sworn to a dead shepherd** — and the request reaches him secondhand, because
   [[Joseph]] petitions *the house of Pharaoh* rather than the king. **Exodus 1:8, *"a new king over
   Egypt, who didn't know Joseph"*, is the mirror of this verse**
+- [[The Oppression in Egypt]] — Exodus 1:8; **not named, and not present: remembered by being forgotten.** The
+  new king *"didn't know Joseph"*, and the household this king invited into the best of the land is
+  put to forced labour on the city that bears its name
 
 ## Related people
 
@@ -226,6 +233,7 @@ reached.**
 - [[Jacob]] — whom he settles in Goshen and who blesses him, the only patriarch to bless a foreign king
 - [[Abimelech (of Abraham's time)]], [[Abimelech (of Isaac's time)]] — the other foreign rulers the
   patriarchs deal with, and the other title the wiki qualifies by period for the same reason
+- [[Pharaoh (of the oppression)]] — the successor *"who didn't know Joseph"*, and his antitype
 
 ## Themes associated
 

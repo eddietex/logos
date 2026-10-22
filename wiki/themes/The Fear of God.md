@@ -85,6 +85,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   rather than for the Old Testament orientation.
 - **Hebrews 5:7; 12:28–29** — Christ heard *"because of his godly fear"*, and worship offered
   *"with reverence and awe, for our God is a consuming fire"*: the phrase retained, not dissolved.
+- **Exodus 1:17, 21 — the midwives.** Abraham assumed the fear of God was absent in Gerar (Genesis
+  20:11); Joseph claimed it (42:18); Job embodied it (Job 1:1). **[[Shiphrah and Puah]] are the first
+  in whom it is civil disobedience**: they fear God, and so do not fear the king. The reward —
+  *bāttîm*, households — is the thing the king meant to prevent. See [[The Oppression in Egypt]].
 
 ## Key passages
 
@@ -235,6 +239,12 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
 - [[I Repent in Dust and Ashes]] — Job 42:1–6; **fear for nothing.** The accuser's question was whether Job fears God *ḥinnām*
   (1:9). Job's last words are spoken diseased, childless, and on the ash-heap, before the restoration of
   42:10: confession, sight, and abasement, with nothing given back.
+- [[The Oppression in Egypt]] — Exodus 1:17, 21; **the fear that outranks the king's.** *"But the midwives feared God, and
+  didn't do what the king of Egypt commanded them, but saved the baby boys alive."* The first time in
+  Scripture the fear of God is the ground for refusing a king's command, and the only reason the
+  narrator gives for God's acting in the chapter: *"Because the midwives feared God, he gave them
+  families."* Compare Acts 5:29; and Leviticus 25:43, where *fear your God* is set against Egypt's
+  *harshness*
 
 ## Related themes
 

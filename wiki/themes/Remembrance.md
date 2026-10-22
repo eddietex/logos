@@ -240,6 +240,9 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   half**: chapter 29 held up the past, and chapter 30 measures the present against it line by line, the
   young who hid (29:8) now deriding (30:1), the light he walked by (29:3) now darkness (30:26), the
   comforter (29:25) now the mourner (30:31).
+- [[The Oppression in Egypt]] — Exodus 1:6–8; **forgetting as the beginning of bondage.** A generation dies and a king
+  *"didn't know Joseph"*; Judges 2:10 repeats the seam. Israel's creed remembers the chapter in
+  three verbs (Deuteronomy 26:6). See [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]]
 
 ## Related themes
 

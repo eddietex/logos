@@ -46,6 +46,10 @@ it as evidence for or against anything else.**
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 47:11; **the family's legal possession in Egypt**,
   granted by Pharaoh's command and named for the first and last time in Genesis
+- [[The Oppression in Egypt]] — Exodus 1:11; **the gift turned to a work camp.** *"They built storage cities for
+  Pharaoh: Pithom and Raamses"* — the WEB spells it *Raamses* here — under taskmasters, *"to afflict
+  them with their burdens"*. **The district given as *a possession* at Genesis 47:11 is the city the
+  family builds as slaves**
 
 ## Related places
 
@@ -53,9 +57,11 @@ it as evidence for or against anything else.**
 - [[Egypt]] — the country
 - [[On]] — [[Potiphera]]'s city, the other Egyptian town named in this register
 - [[Canaan]] — the land the family holds nothing in but a grave
+- [[Pithom]] — the other storage city of Exodus 1:11
 
 ## Events here
 
 - [[Joseph]] settles his father and his brothers and gives them a possession — Genesis 47:11
-- Israel builds Pithom and Raamses as store-cities under forced labour — Exodus 1:11
+- Israel builds [[Pithom]] and Raamses as store-cities under forced labour — Exodus 1:11,
+  [[The Oppression in Egypt]]
 - Israel departs for Succoth on the night of the Exodus — Exodus 12:37; Numbers 33:3–5

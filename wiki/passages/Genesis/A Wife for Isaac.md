@@ -56,7 +56,7 @@ outcome on the page.
 
 **The gesture is a euphemism and everybody has always known it.** *Śîm-nāʾ yādəkā taḥat yərēkî* —
 *put your hand under my thigh* — where *yārēk* is the upper thigh and, in this construction, the
-genitals; the same word supplies *"all the souls who came out of Jacob's thigh"* (Exodus 1:5). **It
+genitals; the same word supplies *"all the souls who came out of Jacob's body"* (Exodus 1:5; WEB *body*). **It
 occurs twice in the Bible and both times in Genesis**: here, and at 47:29, where Jacob makes Joseph
 swear the same way about his burial. See [[Put Your Hand Under My Thigh]].
 

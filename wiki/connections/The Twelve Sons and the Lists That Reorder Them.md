@@ -14,6 +14,7 @@ tags: [connection]
 - **Genesis 46:8–25** — the descent into Egypt, by mother with grandsons counted, totalling seventy
 - **Genesis 49:1–28** — Jacob's blessing, and its own order
 - **Exodus 1:1–5** — the eleven who came with Jacob, with Joseph already in Egypt
+  — [[The Oppression in Egypt]]
 - **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split**
 - **Deuteronomy 33** — Moses' blessing, with **Simeon missing**
 - **Joshua 13–19** — the allotments, with **no territory for Levi**
@@ -97,6 +98,12 @@ vocabulary of Genesis 29–30: *he has judged me*, *there is hire*, *fortune has
 prevailed*, *this time will I praise Yahweh*. **Israel's tribal map is a transcript of a domestic
 quarrel**, preserved unedited through censuses, allotments, prophetic visions, and the New Jerusalem.
 See [[Names and Naming]].
+
+**Exodus 1:2–4, now ingested ([[The Oppression in Egypt]]), follows Genesis 35:23–26 and not Genesis
+46.** Leah's six, then Rachel's — Benjamin alone, since Joseph *"was in Egypt already"* (1:5) — then
+Bilhah's two and Zilpah's two. Genesis 46 had put Zilpah's sons before Rachel's. **The book of the
+bondage opens with the birth-mother order of the roster at Bethel**, not with the order of the
+journey down.
 
 ## Significance
 

@@ -117,6 +117,8 @@ Paul, who carries Saul's name.
 - Given five changes of clothing and three hundred pieces of silver where his brothers get one garment
   each — Genesis 45:22
 - Blessed as a ravenous wolf; the poem's last word — Genesis 49:27, [[Jacob Blesses His Sons]]
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -182,6 +184,9 @@ Paul, who carries Saul's name.
   death at his birth to his father's death in this chapter.** **Deuteronomy 33:12 calls him *the
   beloved of Yahweh*, dwelling in safety** — the flattest contradiction between the two tribal poems
   outside [[Levi]]'s
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); **Rachel's only son on the list**, since Joseph did not *come* — he *"was in Egypt already"* (1:5). Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

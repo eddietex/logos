@@ -227,6 +227,10 @@ human one innocent.** *"You meant evil"* stands. See
   that no purpose of yours can be restrained"* — Babel's *"nothing will be withheld from them"* (Genesis 11:6),
   said of God. Job confesses the purpose without being told what it is. See
   [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]].
+- [[The Oppression in Egypt]] — Exodus 1:1–22; **providence with God almost absent.** He is not mentioned in 1:1–16 and
+  never speaks; the people multiply in the passive under every measure, and the one channel of his
+  action is two women's fear. Psalm 105:25 attributes the Egyptians' hatred to God; Exodus 1 does
+  not — recorded, not resolved
 
 ## Related themes
 

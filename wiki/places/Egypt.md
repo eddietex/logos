@@ -199,6 +199,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   the book's final hundred and fifty years.** ***Bəmiṣrāyim*, *in Egypt*, is the last word of
   Genesis** — *"he was put in a coffin in Egypt"* — and the book ends with a Hebrew body preserved on
   Egyptian soil awaiting a departure nobody has been given a date for
+- [[The Oppression in Egypt]] — Exodus 1:1–22; **the host becomes the house of bondage.** The country that sold
+  itself to the crown for Joseph's grain (Genesis 47) sets taskmasters over Joseph's family, builds
+  [[Pithom]] and [[Rameses]] with their labour, and is made by royal decree — *"Pharaoh commanded all
+  his people"* (1:22) — **a nation of executioners.** The book's word for it will be *"the house of
+  bondage"* (20:2)
 
 ## Related places
 
@@ -216,6 +221,7 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Beersheba]] — the wilderness she is sent into on the second expulsion, north of Paran
 - [[Assyria]] — the other great power Israel lives between
 - **Cush** and **Put** — Nubia and Libya, its neighbours south and west, and Ham's other two sons
+- [[Pithom]] — store-city built by Israel's forced labour
 
 ## Events here
 
@@ -246,3 +252,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - Seven years of plenty; grain stored city by city *"as the sand of the sea"* — Genesis 41:47–49
 - The famine begins; *"in all the land of Egypt there was bread"*, and all countries come to buy —
   Genesis 41:53–57
+- A new king *"who didn't know Joseph"*; forced labour, the midwives' refusal, and the decree to
+  cast every son into the river — Exodus 1:8–22, [[The Oppression in Egypt]]

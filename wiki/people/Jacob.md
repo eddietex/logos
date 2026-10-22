@@ -720,6 +720,9 @@ for four hundred years, and he is dead when he gets there.**
   mourning at [[Abel Mizraim]] — Genesis 50:4–11
 - **Carried by his own twelve sons** into Canaan and buried at [[Machpelah]], the sixth of six —
   Genesis 50:12–13
+- Named as *Israel* in the book of the bondage's first sentence: *"the sons of Israel, who came into
+  Egypt (every man and his household came with Jacob)"*; seventy souls *"came out of Jacob's body"* —
+  Exodus 1:1, 5, [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -913,6 +916,10 @@ for four hundred years, and he is dead when he gets there.**
 - [[The Restoration of Job]] — Job 42:11; **not named.** The *qəśîṭâ*, the *piece of money* each of Job's family
   brings him, is the coin Jacob paid a hundred of for his field at Shechem (Genesis 33:19; Joshua 24:32) — the
   only other places the word occurs.
+- [[The Oppression in Egypt]] — Exodus 1:1, 5; **the name the book opens with and the man it counts from.** *"Every
+  man and his household came with Jacob"* — and seventy souls *"came out of Jacob's body"*, the *yārēk*
+  of the oath at 47:29. By 1:7 his household has *"filled"* the land, and *"the children of Israel"*
+  has become the name of a people
 
 ## Related people
 

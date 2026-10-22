@@ -53,6 +53,10 @@ in Genesis is the same arrangement that makes it visible and enslaveable in Exod
   of Goshen"* — **the arrangement that makes the funeral convoy a leave of absence rather than an
   emigration**, and the one Moses refuses point-blank at Exodus 10:8–11 and 10:24. Filed as
   [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]]
+- [[The Oppression in Egypt]] — Exodus 1:7; **not named, but it is the land that *"was filled with them"*.** The
+  district given at Genesis 47:6 becomes the place of a people too many for their host, and the
+  forced labour of 1:11 is drawn from it. **Exodus 1:7 repeats Genesis 47:27's *"in the land of
+  Goshen … fruitful, and multiplied"* in five verbs**
 
 ## Related places
 

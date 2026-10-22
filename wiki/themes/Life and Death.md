@@ -395,6 +395,9 @@ the rest of the canon.
   the seventy of Psalm 90:10 — and four generations seen; *"So Job died, being old and full of days"*, Isaac's
   formula (Genesis 35:29). The man who wished he had died at birth (3:11) dies full. See
   [[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]].
+- [[The Oppression in Egypt]] — Exodus 1:16–22; ***ḥāyâ* runs the scene.** Pharaoh: *"if it is a daughter, then she
+  shall live"*; the midwives *"saved the baby boys alive"* (Joseph's verb, Genesis 50:20); their
+  excuse, that Hebrew women are *ḥāyôt*, *vigorous*. Then the river decree (1:22)
 
 ## Related themes
 

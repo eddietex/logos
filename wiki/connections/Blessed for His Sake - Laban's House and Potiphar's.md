@@ -21,6 +21,8 @@ tags: [connection]
   largest instance — a household, then an estate, then a kingdom, and through it the whole earth** —
   [[Pharaoh's Dreams and Joseph's Rise]]. Continued at **47:13–26**, [[Joseph and the Famine]]
 - **2 Samuel 6:11** — *"Yahweh blessed Obed-Edom and all his house"* while the ark stayed there
+- **Exodus 1:9–10** — *"Come, let us deal wisely with them, lest they multiply"*: the host who has
+  noticed the increase — [[The Oppression in Egypt]]
 
 ## Analysis
 

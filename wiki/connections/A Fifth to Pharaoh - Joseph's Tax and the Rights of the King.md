@@ -18,6 +18,8 @@ tags: [connection]
 - Compare **Genesis 14:20** and **Genesis 28:22** — the two tenths of Genesis, both voluntary and
   both religious — [[The Tithe Before the Law]]
 - Compare **Leviticus 27:30–32**; **Numbers 18:21–24** — the tithe as Israel's own fixed levy
+- **Exodus 1:11–14** — the crown's machinery turned on Israel: taskmasters, *"storage cities for
+  Pharaoh"*, and hard service — [[The Oppression in Egypt]]
 
 ## Analysis
 

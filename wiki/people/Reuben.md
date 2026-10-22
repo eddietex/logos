@@ -144,6 +144,8 @@ the counterpart to the barest in this one. See
   Genesis 48:5, [[Jacob Blesses Ephraim and Manasseh]]
 - Disinherited from the birthright at Jacob's deathbed; *"you shall not excel"* — Genesis 49:3–4;
   1 Chronicles 5:1–2, [[Jacob Blesses His Sons]]
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -212,6 +214,9 @@ the counterpart to the barest in this one. See
   stops speaking to him**: *"He went up to my couch."* **He does not reply, and Genesis records no
   reaction from him or from anyone.** **His is the only saying in the poem that recites what is being
   taken before taking it**
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); named first, as *"Jacob's firstborn"* was at 35:23 — but Exodus 1 gives him no title. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

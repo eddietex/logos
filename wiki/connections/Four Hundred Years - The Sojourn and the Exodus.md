@@ -28,6 +28,8 @@ tags: [connection]
   supplies it and repeats the return in the Exodus's own two verbs**: *"I will go down with you into
   Egypt. I will also surely bring you up again."* ***Yārad*** and ***ʿālâ***, **in one sentence, spoken
   at the border, before the descent is complete**
+- **Exodus 1:7–14** — the multiplication, then the *service* and the *affliction* of Genesis 15:13
+  (*ʿābad*, *ʿānâ*) kept word for word — [[The Oppression in Egypt]]
 
 ## Analysis
 
@@ -110,6 +112,11 @@ made Abram rich"* (14:23), and one chapter later he is told his offspring will l
 with it. The one who gives it will not be a king of Sodom. Exodus 12:35–36 pays out: *"articles of
 silver, and articles of gold, and clothing"*, asked for and given, *"and they plundered the
 Egyptians."* See [[Not a Thread nor a Sandal Strap]].
+
+**Exodus 1 ([[The Oppression in Egypt]]) keeps Genesis 15:13 to the word.** *"They will serve them.
+They will afflict them"* — *ʿābad* and *ʿānâ* — become *"to afflict them with their burdens"* (1:11)
+and *ʿābad* five times in 1:13–14. The chapter gives no date and no king's name; the *Raamses* of 1:11
+is the evidence the late-date argument above rests on.
 
 ## Significance
 

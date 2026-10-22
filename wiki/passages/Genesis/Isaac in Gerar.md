@@ -688,7 +688,7 @@ use.
 - Genesis 46:1–5 — Jacob at this same well, told *"Don't be afraid to go down into Egypt"* — the
   exact reversal of 26:2 *(not yet ingested)*.
 - Exodus 1:8–14 — *"the people of the children of Israel are more and mightier than we"*, and what a
-  frightened king does about it the second time.
+  frightened king does about it the second time. — [[The Oppression in Egypt]]
 - Exodus 3:6 — *"I am the God of your father, the God of Abraham, the God of Isaac, and the God of
   Jacob"*, the formula 26:24 begins.
 - Exodus 20:5 — *ʾĒl qannāʾ*, a jealous God, from the root whose first occurrence is 26:14.

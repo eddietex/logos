@@ -15,7 +15,7 @@ tags: [connection]
   pursuit, the divine intervention on the road, ***rêqām***, and the treaty —
   [[Jacob's Flight from Laban]]
 - **Exodus 1:8–14; 3:7–22; 5:1–3; 12:31–36; 14:5–9** — the service, the seen affliction, *let my
-  people go*, the plundering, and the pursuit
+  people go*, the plundering, and the pursuit — [[The Oppression in Egypt]]
 - **Deuteronomy 26:5–9** — *"A Syrian ready to perish was my father"*: Israel's own creed, which puts
   the two stories in one sentence
 
@@ -30,7 +30,7 @@ on the same verbs.
 | **the service** | ***ʿābad*** seven times in 29:15–30; twenty years (31:41) | *"they made their lives bitter with hard **service**"* (Exodus 1:14) |
 | **the request** | ***šalləḥēnî***, *send me away* (30:25) | ***šallaḥ ʾet-ʿammî***, *let my people go* (Exodus 5:1) |
 | **the refusal** | *"stay here, for I have divined that Yahweh has blessed me for your sake"* (30:27) | *"Who is Yahweh, that I should listen to his voice?"* (Exodus 5:2) |
-| **the growth under pressure** | *"the man burst out exceedingly"* (30:43) | *"the more they multiplied and the more they spread abroad"* (Exodus 1:12) |
+| **the growth under pressure** | *"the man burst out exceedingly"* (30:43) | *"the more they multiplied and the more they spread out"* (Exodus 1:12) |
 | **the seen affliction** | *"God has seen my ***affliction*** and the labor of my hands"* (31:42) | *"I have surely seen the ***affliction*** of my people"* (Exodus 3:7) |
 | **the command to go** | *"Return to the land of your fathers"* (31:3, 13) | *"I have come down to deliver them, and to bring them up… to a good land"* (Exodus 3:8) |
 | **the departure** | secretly, with wives, children, herds and possessions (31:17–21) | with flocks, herds, and the Egyptians' silver (Exodus 12:31–36) |

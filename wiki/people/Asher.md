@@ -63,6 +63,8 @@ named in the New Testament as a living identity.**
 - Deuteronomy 33:24–25; Joshua 19:24–31; Judges 1:31–32; 5:17 — the oil, the coast, and the tribe that
   stayed at the harbours
 - Luke 2:36 — Anna the prophetess, *"of the tribe of Asher"*
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -109,6 +111,9 @@ named in the New Testament as a living identity.**
   with nothing in it to fight, fear or lose** — no animal, no weapon, no territory and no verdict —
   **and one of the eight whose name goes unpunned.** *"Royal dainties"* is the promise, and
   Deuteronomy 33:24 makes the same promise in oil
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); last of the eleven. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

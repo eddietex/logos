@@ -65,6 +65,8 @@ ground Jesus' ministry begins on.
   Genesis 49:13, [[Jacob Blesses His Sons]]
 - Judges 5:14, 18 — the tribe that jeopardized its life on the heights
 - Isaiah 9:1; Matthew 4:13–16 — Zebulun and Naphtali, contempt and then a great light
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -108,6 +110,9 @@ ground Jesus' ministry begins on.
   demotion, a shared curse and the kingship. **The coastline is one Joshua 19:10–16 does not hand
   over**, which the wiki records as a mismatch rather than resolving. **Named ahead of [[Issachar]]
   despite being younger**, an inversion Deuteronomy 33:18 repeats
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); last of Leah's six. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

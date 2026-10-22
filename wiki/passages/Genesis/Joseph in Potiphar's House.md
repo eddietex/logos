@@ -570,7 +570,7 @@ of the covenant name for eleven chapters**, and it is spent on the administratio
 - Genesis 50:20 — *"you meant evil against me, but God meant it for good"*, the cycle's own verdict, and
   it says *ʾĕlōhîm* *(not yet ingested)*
 - Exodus 1:15–19 · 2:6 · 3:18 · 3:21 · 11:3 · 12:36 — *the Hebrew midwives*, *the God of the Hebrews*,
-  and *favor in the sight of the Egyptians*
+  and *favor in the sight of the Egyptians* — [[The Oppression in Egypt]]
 - Exodus 20:14 · Leviticus 18:20 · Deuteronomy 22:23–27 — the commandment that does not yet exist, and
   the law that makes *"I cried with a loud voice"* the decisive fact
 - Psalm 51:4 — *"Against you, you only, have I sinned"*, the same theology from the other side

@@ -13,7 +13,7 @@ tags: [connection]
 - **Genesis 16:7–11** — the angel finds her in the wilderness at a spring; *"Yahweh has heard your
   affliction."*
 - **Exodus 1:11–12** — *"Therefore they set taskmasters over them to afflict them with their burdens
-  … But the more they afflicted them, the more they multiplied."*
+  … But the more they afflicted them, the more they multiplied."* — [[The Oppression in Egypt]]
 - **Exodus 2:15, 23–25** — Moses *"fled from the face of Pharaoh"* and sits down by a well in Midian;
   *"God heard their groaning … God saw the children of Israel, and God was concerned about them."*
 - **Exodus 3:7** — *"I have surely seen the affliction of my people who are in Egypt, and have heard

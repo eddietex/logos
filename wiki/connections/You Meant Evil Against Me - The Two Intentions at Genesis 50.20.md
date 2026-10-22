@@ -12,7 +12,7 @@ tags: [connection]
 - **Genesis 45:5–8** — the first version of the same verdict — [[Joseph Reveals Himself]]
 - **Genesis 15:6** — *"he believed in Yahweh, who credited it to him for righteousness"* — the same
   verb — [[The Covenant Between the Pieces]]
-- **Exodus 1:17–18** — the midwives *"saved the boy babies alive"*
+- **Exodus 1:17–18** — the midwives *"saved the baby boys alive"* — [[The Oppression in Egypt]]
 - **Acts 2:23** — *"him … you have crucified and killed by the hand of lawless men"*
 - **Acts 3:13–15**, **Acts 4:27–28** — the same structure, twice more
 - **Romans 8:28** — *"all things work together for good for those who love God"*

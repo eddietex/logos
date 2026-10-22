@@ -259,6 +259,8 @@ reversal of proportion between the two tribal poems.** See
   [[Jacob Blesses His Sons]]
 - Ruth 4:12, 18–22; 1 Samuel 16 — Perez to Boaz to David
 - Matthew 1:2–3; Luke 3:33; Hebrews 7:14; Revelation 5:5 — the tribe in the New Testament
+- Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
+  [[The Oppression in Egypt]]
 
 ## Appears in
 
@@ -322,6 +324,9 @@ reversal of proportion between the two tribal poems.** See
   son, addressed fourth, and the first three sayings are a demotion and a curse** — **so the poem's
   order is itself the argument: the rule comes to him because it has been taken off everyone ahead of
   him.** **He says nothing**, as he has said nothing since 44:34
+- [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
+  their mothers' order (Genesis 35:23–26's, not 46's); fourth among Leah's six. Dead, with *"all that
+  generation"*, by 1:6
 
 ## Related people
 

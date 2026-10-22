@@ -11,7 +11,7 @@ tags: [connection]
 - Genesis 10:21, 24–25; 11:14–17 — Eber, and the line named after him
 - Genesis 39:14, 17; 40:15; 41:12; 43:32 — the word on Egyptian lips, and on Joseph's to Egyptians
 - Exodus 1:15–19; 2:6–7, 11, 13; 3:18; 5:3; 7:16; 9:1, 13; 10:3 — Pharaoh, the midwives, and
-  *"Yahweh, the God of the Hebrews"*
+  *"Yahweh, the God of the Hebrews"* — [[The Oppression in Egypt]]
 - 1 Samuel 4:6, 9; 13:3, 19; 14:11, 21; 29:3 — the Philistines' word for Israel
 - Jonah 1:9 — *"I am a Hebrew"*, said to sailors
 - Joshua 24:2–3 — *"beyond the River"*

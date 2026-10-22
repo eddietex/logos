@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 10:1–32** — the Table of Nations: fourteen from Japheth, thirty from Ham, twenty-six from
   Shem. See [[The Table of Nations]].
 - **Genesis 46:27; Exodus 1:5; Deuteronomy 10:22** — *"all the souls of the house of Jacob, who came
-  into Egypt, were seventy."*
+  into Egypt, were seventy."* — [[The Oppression in Egypt]]
 - **Exodus 24:1, 9; Numbers 11:16–25** — seventy elders on the mountain, and seventy who receive the
   spirit.
 - **Numbers 29:12–34** — the bulls of Sukkot: thirteen, twelve, eleven, ten, nine, eight, seven — the

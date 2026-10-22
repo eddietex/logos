@@ -15,7 +15,8 @@ tags: [connection]
 - Compare **Genesis 15:9–18** — the enacted oath, walking between the pieces —
   [[Passing Between the Pieces]]
 - Background: **Genesis 17:9–14, 23–27** — the covenant sign, cut into the flesh in question
-- Background: **Exodus 1:5** — *"all the souls who came out of Jacob's thigh"*, the same word
+- Background: **Exodus 1:5** — *"all the souls who came out of Jacob's body"* (WEB; literally *thigh*), the same word
+  — [[The Oppression in Egypt]]
 
 ## Analysis
 
@@ -29,10 +30,10 @@ death asks a subordinate to guarantee something he will not live to see.
 > kindly and truly with me. Please don’t bury me in Egypt”
 
 ***Yārēk*** is the upper thigh, and in this construction it is a euphemism for the genitals — the
-same usage as *"the souls who came out of Jacob's thigh"* (Exodus 1:5) and *"seventy sons … came out
-of his thigh"* (Judges 8:30). Nobody has seriously proposed otherwise; the rabbinic and patristic
-commentators say so plainly, and the modern translations preserve the Hebrew euphemism rather than
-inventing a new one.
+same usage as *"the souls who came out of Jacob's body"* (Exodus 1:5; WEB *body*, Hebrew *yārēk*) and
+*"seventy sons conceived from his body"* (Judges 8:30; again *yārēk*). Nobody has seriously
+proposed otherwise; the rabbinic and patristic commentators say so plainly, and the modern
+translations preserve the Hebrew euphemism rather than inventing a new one.
 
 **Why there is not stated, and three explanations are standing.**
 

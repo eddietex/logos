@@ -263,6 +263,10 @@ has become a nation.
 - **Genesis 50:5, 16–17 — two quotations of a dead man that Genesis does not corroborate**: the grave
   Jacob *"dug for myself"*, and the command to forgive that his last two chapters never record —
   [[The Deaths of Jacob and Joseph]]
+- [[The Oppression in Egypt]] — Exodus 1:18–19; **the midwives' answer.** *"The Hebrew women aren't like the Egyptian
+  women; for they are vigorous"* — a lie or a half-truth, told to a king trying to kill children, and
+  **not judged**: the reward is given for the fear (1:17, 21). Three readings recorded; see
+  [[The Midwives and Rahab - Deceiving the King to Save Life]]
 
 ## Related themes
 

@@ -109,7 +109,7 @@ sign to the sons.
 |---|---|---|
 | Why they go | famine in the land (12:10) | famine in the land (Genesis 47:4) |
 | The verb | *went down* into Egypt, *to sojourn* | *went down*; *sojourned* (Deuteronomy 26:5) |
-| The danger | *"they will kill me, but they will save you alive"* | *"every son … you shall cast into the river, and every daughter you shall save alive"* (Exodus 1:22) |
+| The danger | *"they will kill me, but they will save you alive"* | *"You shall cast every son … into the river, and every daughter you shall save alive"* (Exodus 1:22) |
 | God's act | *"Yahweh afflicted Pharaoh and his house with great plagues"* | the ten plagues on Pharaoh and his house |
 | Pharaoh's response | *"take her, and go your way"* | *"rise up, go out from among my people"* (Exodus 12:31) |
 | The departure | escorted out (12:20) | driven out in haste (Exodus 12:33) |
@@ -250,8 +250,9 @@ See [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]].
   clauses in one sentence.
 - Genesis 45:5–8; 50:20 — the descent to Egypt reinterpreted as providence, which is the reading
   Genesis eventually supplies and conspicuously withholds here.
-- Exodus 1:22 — *"every son … cast into the river, and every daughter you shall save alive"*, the
+- Exodus 1:22 — *"cast every son … into the river, and every daughter you shall save alive"*, the
   inversion of Abram's *"they will kill me, but they will save you alive."*
+  — [[The Oppression in Egypt]]
 - Exodus 11:1; 12:31–36 — Pharaoh's household struck, Israel sent away, and the Egyptians' silver and
   gold carried out.
 - Deuteronomy 26:5 — the credo Israel recites over the firstfruits: *"A Syrian ready to perish was my

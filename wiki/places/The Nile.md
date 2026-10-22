@@ -45,8 +45,8 @@ cow was also the form of Hathor**, a standing Egyptian image of fertility and no
 
 **Every major thing the Bible does with Egypt happens at this water.**
 
-- **Exodus 1:22** — *"Every son who is born you shall cast into the river"*, and **Exodus 2:3–5**, where
-  one is put into it in a basket and drawn out of it by a princess.
+- **Exodus 1:22** — *"You shall cast every son who is born into the river"*
+  ([[The Oppression in Egypt]]), and **Exodus 2:3–5**, where one is put into it in a basket and drawn out of it by a princess.
 - **Exodus 7:17–21** — **the first plague turns it to blood**, which is a judgment aimed precisely at the
   thing Genesis 41 shows the country depends on.
 - **Isaiah 19:5–10; Ezekiel 30:12** — the prophets' image of Egypt's end is **the river drying up.**
@@ -65,6 +65,10 @@ the Wadi el-Arish on the border rather than the Nile; see
   *on the brink of* it in his own; **the fat cattle and the thin cattle both come up out of it**, which
   is not how cattle behave and is exactly how a Nile flood behaves. **The seven years of plenty and the
   seven of famine are, in the dream's own terms, seven good inundations and seven bad ones**
+- [[The Oppression in Egypt]] — Exodus 1:22; ***hayəʾōrâ*, *"the river"*, made a grave**: *"You shall cast every son
+  who is born into the river."* Egypt's source of life becomes the instrument of the decree — and
+  the river will be where Moses is laid and drawn out (2:3–10), the first water turned to blood (7:20),
+  and its counterpart the sea where *"Pharaoh's chariots and his army"* are cast (15:4)
 
 ## Related places
 
@@ -80,5 +84,7 @@ the Wadi el-Arish on the border rather than the Nile; see
 
 - **Pharaoh's two dreams** — seven fat cattle and seven lean coming up out of the water, Genesis 41:1–7,
   17–24, [[Pharaoh's Dreams and Joseph's Rise]]
+- Made the instrument of Pharaoh's decree: every son born to be cast into it — Exodus 1:22,
+  [[The Oppression in Egypt]]
 - The infant Moses set among the reeds and drawn out — Exodus 2:1–10 *(not yet ingested)*
 - Turned to blood, the first plague — Exodus 7:17–21 *(not yet ingested)*

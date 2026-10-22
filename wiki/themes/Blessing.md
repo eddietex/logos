@@ -143,6 +143,11 @@ costly.
   [[Yes, He Will Be Blessed - The Irrevocable Word]] and [[The Stolen Blessing]].
 - To trace as ingestion reaches them: the deathbed blessings of Genesis 48 and 49, and the covenant
   blessings-and-curses of Deuteronomy 28.
+- **Exodus 1 — the creation blessing fulfilled, and resisted.** The mandate *be fruitful,
+  multiply, fill* is reported as fact in Egypt (1:7), and a king makes undoing it his policy. **It
+  survives three measures**, and the narrator reports each failure in the blessing's verb *rābâ*.
+  See [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] and
+  [[The Oppression in Egypt]].
 
 ## Key passages
 
@@ -352,6 +357,11 @@ costly.
   than his beginning."* The accuser said Job would turn *bless* into its opposite (1:11); Job blessed God's name over
   his losses (1:21); God blesses Job's latter end, in Bildad's two nouns (8:7). The children are not doubled, and the
   blessing is not offered as an answer to their deaths.
+- [[The Oppression in Egypt]] — Exodus 1:7, 12, 20; **the blessing a king fights.** *"Fruitful, and increased
+  abundantly, and multiplied, and grew exceedingly mighty; and the land was filled with them"* — the
+  verbs of Genesis 1:28 and 9:1–7 — then *"the more they afflicted them, the more they multiplied"*,
+  and *"the people multiplied, and grew very mighty"*. Pharaoh's aim is *"lest they multiply"*
+  (1:10). God gives the midwives *bāttîm*, households (1:21)
 
 ## Related themes
 
