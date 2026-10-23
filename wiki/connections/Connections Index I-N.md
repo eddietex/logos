@@ -28,7 +28,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |
 | [[Is Anything Too Hard for Yahweh]] | thread | Genesis 18:14 · Jeremiah 32:17, 27 · Zechariah 8:6 · Job 42:2 · Luke 1:37 · Matthew 19:26 |
 | [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
-| [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]] | prophecy → fulfillment | Exodus 4:22–23 · Exodus 12:29; 13:15 · Deuteronomy 14:1; 32:6 · Psalm 89:26–27 · Jeremiah 31:9 · Hosea 11:1–2 · Matthew 2:13–15, 20 · Romans 9:4 |
+| [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]] | prophecy → fulfillment | Exodus 4:22–23 · Exodus 11:4–7 · Exodus 12:29; 13:15 · Deuteronomy 14:1; 32:6 · Psalm 89:26–27 · Jeremiah 31:9 · Hosea 11:1–2 · Matthew 2:13–15, 20 · Romans 9:4 |
 | [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]] | theological | Genesis 12:2–3 · Genesis 14:18–20 · Genesis 47:7, 10 · Hebrews 7:7 |
 | [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]] | parallel | Genesis 48:5 · Genesis 49:1–28 · Deuteronomy 33:1–29 · Judges 5:14–18 |
 | [[Jacob, Jacob - The Doubled Name and Hinneni]] | motif | Genesis 22:11 · Genesis 46:2 · Exodus 3:4 · 1 Samuel 3:10 · Luke 10:41 · Luke 22:31 · Acts 9:4 |

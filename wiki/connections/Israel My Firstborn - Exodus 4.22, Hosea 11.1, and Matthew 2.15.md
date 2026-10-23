@@ -10,6 +10,10 @@ tags: [connection]
 - **Exodus 4:22–23** — *"Yahweh says, Israel is my son, my firstborn, and I have said to you, 'Let
   my son go, that he may serve me'; and you have refused to let him go. Behold, I will kill your son,
   your firstborn."* — [[Moses Returns to Egypt]]
+- **Exodus 11:4–7** — *"About midnight I will go out into the middle of Egypt, and all the firstborn
+  in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the
+  firstborn of the female servant who is behind the mill"*; and against Israel *"a dog won't even bark
+  or move its tongue"* — [[The Last Plague Announced]]. **The threat of 4:23 announced with an hour and a range**
 - **Exodus 12:29; 13:15** — the firstborn of Egypt struck, and Israel's firstborn redeemed because of
   it *(not yet ingested)*
 - **Deuteronomy 14:1; 32:6** — *"You are the children of Yahweh your God"*; *"Isn't he your father

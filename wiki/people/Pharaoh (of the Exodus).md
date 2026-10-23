@@ -117,9 +117,17 @@ behind"* (10:24) — and when Moses refuses *"a hoof"*, ***"Get away from me! Be
 no more; for in the day you see my face you shall die!"*** (10:28). See [[Locusts and Darkness]] and
 [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]].
 
+**At the last announcement he says nothing.** Moses tells him that *"About midnight"* Yahweh will go
+out into Egypt and *"all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who
+sits on his throne"* (11:4–5) — **his own heir, the price named at 4:23** — and that *"All these
+servants of yours will come down to me, and bow down themselves to me"* (11:8). He is not given a reply.
+God says once more *"Pharaoh won't listen to you"* (11:9, the words of 7:4), and the narrator closes the
+cycle: *"Yahweh hardened Pharaoh's heart, and he didn't let the children of Israel go out of his
+land"* (11:10). See [[The Last Plague Announced]].
+
 ### What is ahead
 
-The last plague announced (11); the release; the pursuit; and the
+The last plague and the release (12); the pursuit; and the
 sea. These are written as
 their pericopes arrive.
 
@@ -148,6 +156,9 @@ their pericopes arrive.
 - Told by his servants *"Egypt is destroyed"*; offers the men only, then everyone but the herds;
   confesses *"I have sinned against Yahweh your God, and against you"* and asks forgiveness; his heart
   hardened by Yahweh twice; threatens Moses with death — Exodus 10:1–29, [[Locusts and Darkness]]
+- Told that his firstborn, the heir *"who sits on his throne"*, will die at midnight with all the
+  firstborn of Egypt, and that his servants will bow to Moses; his heart hardened by Yahweh — Exodus
+  11:1–10, [[The Last Plague Announced]]
 
 ## Appears in
 
@@ -174,6 +185,8 @@ their pericopes arrive.
 - [[Locusts and Darkness]] — Exodus 10:1–29; **overruled by his court, and the threat.** *"Who are
   those who will go?"*; *"please forgive my sin"*; *"this death"*; *"in the day you see my face you
   shall die!"*
+- [[The Last Plague Announced]] — Exodus 11:1–10; **told his heir will die.** *"From the firstborn of Pharaoh who sits on
+  his throne"*; *"All these servants of yours will come down to me"*; *"Pharaoh won't listen to you"*
 
 ## Related people
 

@@ -146,6 +146,11 @@ regulating it.
 - [[Bricks Without Straw]] — Exodus 5:22–23; ***"Why … why"*** — **lament as accusation, in the form the
   Psalms will use** (*"Why do you sleep, Lord? … Why do you hide your face …"*, Psalm 44:23–24). Moses
   laments not the suffering alone but that his own obedience caused it
+- [[The Last Plague Announced]] — Exodus 11:6; ***"There shall be a great cry throughout all the
+  land of Egypt, such as there has not been, nor shall be any more."*** **The cry changes sides**:
+  *ṣəʿāqâ* was Israel's under the taskmasters (3:7, 9), and now it is Egypt's over its firstborn
+  (11:6; 12:30). The only other *ṣəʿāqâ gədōlâ* in the Torah is Esau's (Genesis 27:34, WLC) —
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
 
 ## Related themes
 

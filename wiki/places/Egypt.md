@@ -251,6 +251,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   darkened"*, and leave *"nothing green … through all the land of Egypt"* (10:6, 15). **Its own court
   tells its king *"Egypt is destroyed"*** (10:7). Then *"thick darkness in all the land of Egypt for
   three days"*, and *"nobody rose from his place"* (10:22–23)
+- [[The Last Plague Announced]] — Exodus 11:1–10; **the whole land named for the last blow.** *"All the firstborn in the
+  land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn
+  of the female servant who is behind the mill"*, and *"a great cry throughout all the land of Egypt,
+  such as there has not been, nor shall be any more"* (11:5–6). **Its people give Israel favour, and see
+  Moses as *"very great in the land of Egypt"*** (11:3)
 
 ## Related places
 
@@ -322,3 +327,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   confession — Exodus 9:1–35, [[Livestock, Boils, and Hail]]
 - The locusts eat what the hail left; three days of darkness; Pharaoh's last offers and his threat
   to Moses — Exodus 10:1–29, [[Locusts and Darkness]]
+- The last plague announced: the death of the firstborn at midnight, the great cry, and the distinction
+  — Exodus 11:1–10, [[The Last Plague Announced]]

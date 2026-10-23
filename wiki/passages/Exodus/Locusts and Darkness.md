@@ -480,8 +480,8 @@ that ends at 11:8. **The text leaves the seam visible, and so does this page.**
   [[Frogs, Lice, and Flies]]
 - Exodus 9:6–7, 16, 20, 26–34 — *"not one"*; *"that my name may be declared"*; the servants who feared;
   *"I have sinned this time"*; *"you don't yet fear"* — [[Livestock, Boils, and Hail]]
-- Exodus 11:1, 4–8; 12:14, 26–27, 31, 39, 40 — *"he will surely thrust you out"*; the last audience;
-  the first feast; the Passover question; Pharaoh's night summons; *"thrust out"*; *môšāb* *(not yet
+- Exodus 11:1, 4–8 — *"he will surely thrust you out"*; the last audience — [[The Last Plague Announced]]
+- Exodus 12:14, 26–27, 31, 39, 40 — the first feast; the Passover question; Pharaoh's night summons; *"thrust out"*; *môšāb* *(not yet
   ingested)*
 - Exodus 13:8, 14, 18 — *"You shall tell your son"*; *yam sûp* *(not yet ingested)*
 - Exodus 14:4, 17–18, 20, 21, 28 — *"I will get honor over Pharaoh"*; the cloud and the darkness; the
@@ -508,8 +508,8 @@ that ends at 11:8. **The text leaves the seam visible, and so does this page.**
 
 - **The boundary was kept as planned.** Chapter 10 holds the last two plagues of the third set and
   the end of the bargaining. 10:28–29 reads like the end of the audiences, but 11:4–8 continues to
-  address Pharaoh; that seam is noted above and left to the next pericope, *The Last Plague Announced*
-  (11:1–10).
+  address Pharaoh; that seam is noted above and left to the next pericope,
+  [[The Last Plague Announced]] (11:1–10).
 - **The *rāʿâ*/Ra pun at 10:10** is reported as a reading held by some interpreters. It was not
   verified against any named commentary, and the wiki does not adopt it.
 - **The plagues as un-creation** (darkness and Genesis 1:2; *yereq* and Genesis 1:30) is offered as a

@@ -454,7 +454,7 @@ pattern of [[Joseph]] before him, and the New Testament reads it forward. See
 - Exodus 3:20 — *"strike Egypt"*
 - Exodus 4:19–20, 24–26 — *"all the men who sought your life are dead"*; Zipporah and the
   circumcision
-- Exodus 6:1; 11:1; 12:39 — *gāraš*, *drive out*
+- Exodus 6:1; 11:1; 12:39 — *gāraš*, *drive out* — [[The Last Plague Announced]]
 - Exodus 6:5 — *"I have remembered my covenant"*
 - Exodus 14:30 — *"Thus Yahweh saved Israel"*
 - Exodus 18:2–4 — Gershom and Eliezer

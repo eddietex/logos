@@ -360,7 +360,7 @@ morning.
   armies"* — [[I Am Yahweh]] — [[Two Commissions - Exodus 3 and Exodus 6]] —
   [[Uncircumcised Lips, Ears, and Heart]]
 - Exodus 7:15, 22; 8:7, 18–19; 9:11 — the *nāḥāš* again; the magicians' later matches and failure
-- Exodus 11:9–10 — *"that my wonders may be multiplied"* — [[Signs and Wonders]]
+- Exodus 11:9–10 — *"that my wonders may be multiplied"* — [[The Last Plague Announced]], [[Signs and Wonders]]
 - Exodus 12:17, 28, 41, 50, 51 — *"Yahweh's armies"*; *"so they did"*
 - Exodus 13:15 — *"when Pharaoh stubbornly refused"*, *hiqšâ*
 - Exodus 15:12 — *"The earth swallowed them"*

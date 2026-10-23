@@ -178,6 +178,14 @@ holds up Esau as the warning.
   Genesis 46:8 had *"Jacob's firstborn"*, two chapters after God called Israel his own firstborn
   (4:22). The title leads the list by birth order and the list does not mention that Reuben lost what
   it once carried (Genesis 49:3–4); it leaves him after one verse for the third son
+- [[The Last Plague Announced]] — Exodus 11:4–7; **the threat of 4:23 announced as a date.** *"About
+  midnight … all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who
+  sits on his throne, even to the firstborn of the female servant who is behind the mill; and all
+  the firstborn of livestock"*. **The heir and the slave's son are named together**, and Israel's
+  firstborn are set apart by *"a distinction"* (11:7). The *"great cry"* that follows (11:6; 12:30)
+  is the Torah's only other *ṣəʿāqâ gədōlâ* besides Esau's over the lost blessing (Genesis 27:34,
+  WLC) — [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] —
+  [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
 
 ## Related themes
 

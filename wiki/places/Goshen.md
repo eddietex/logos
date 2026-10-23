@@ -76,6 +76,10 @@ of Israel were, there was no hail"* (9:26). See
   where the light was by people, not by place. **And the Goshen arrangement of Genesis 50:8 — children
   and herds left behind — is what Pharaoh offers twice in the chapter and Moses refuses twice**
   (10:8–11, 24–26)
+- [[The Last Plague Announced]] — Exodus 11:7; **not named; the last distinction before the blood.** *"Against any of the
+  children of Israel a dog won't even bark or move its tongue … that you may know that Yahweh makes a
+  distinction between the Egyptians and Israel"* — *pālâ*, the verb of 8:22, where Goshen was first
+  *"set apart"* (WLC)
 
 ## Related places
 
@@ -96,7 +100,8 @@ of Israel were, there was no hail"* (9:26). See
 - **The plagues fall on Egypt and not on Goshen** — Exodus 8:22; 9:26 — *"I will set apart in that day
   the land of Goshen, in which my people dwell, that no swarms of flies shall be there"* —
   [[Frogs, Lice, and Flies]], [[Livestock, Boils, and Hail]]; and Israel has light in its dwellings
-  in the darkness (10:23), the place unnamed — [[Locusts and Darkness]]
+  in the darkness (10:23), the place unnamed — [[Locusts and Darkness]]; and the last distinction is
+  announced, not a dog's tongue moved against Israel (11:7) — [[The Last Plague Announced]]
 - **Israel leaves from Rameses, in the same district** — Exodus 12:37; Genesis 47:11 calls the
   settlement *"the land of Rameses"*
 - **Joshua 10:41 and 11:16 name a different Goshen** — a region in the south of Canaan — **which is not

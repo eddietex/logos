@@ -164,6 +164,11 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   him, so that he sees his face with joy"*. The friends all promised restoration in return for repentance
   (5:17–26; 8:5–7; 11:13–19; 22:21–30); **Elihu puts grace first** — God is gracious and finds a ransom
   (33:24) before the man confesses (33:27).
+- [[The Last Plague Announced]] — Exodus 11:3; ***"Yahweh gave the people favor in the sight of the
+  Egyptians."*** *Ḥēn* in Exodus before chapter 33 occurs only at 3:21 (promise), here, and 12:36
+  (fact) (WLC lemma search) — favour given to slaves in the eyes of their masters, as Joseph was
+  given it *"in the sight of the keeper of the prison"* (Genesis 39:21). **At 33:12–17 *ḥēn* becomes
+  Moses' word with God** — [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 

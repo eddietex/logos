@@ -44,10 +44,15 @@ Moses back on their word, and then makes their offer his own (10:8–11). See [[
 **The two things the text says of them together are not reconciled.** God hardened their hearts
 (10:1), and they plead for Israel's release (10:7). The page records both.
 
+**At the last announcement they are the audience Moses is great before, and the court that will bow to
+him.** *"The man Moses was very great … in the sight of Pharaoh's servants"* (11:3) — the man they called
+*"a snare"* (10:7). And Moses tells Pharaoh, ***"All these servants of yours will come down to me, and
+bow down themselves to me, saying, 'Get out, with all the people who follow you'"*** (11:8):
+*hištaḥăwâ*, the verb of Joseph's dreams (Genesis 37:7) and of his brothers in Egypt (42:6). **A court
+that bowed to Pharaoh is told it will bow to a Hebrew.** See [[The Last Plague Announced]].
+
 ### What is ahead
 
-- 11:3 — Moses is *"very great … in the sight of Pharaoh's servants"*
-- 11:8 — *"All these servants of yours will come down to me, and bow down themselves to me"*
 - 12:30 — *"Pharaoh rose up in the night, he, and all his servants"*
 - 14:5 — *"the heart of Pharaoh and of his servants was changed towards the people"*: *"What is this we
   have done, that we have let Israel go from serving us?"*
@@ -63,6 +68,8 @@ These are written as their pericopes arrive.
   — Exodus 9:20–21, 30, 34, [[Livestock, Boils, and Hail]]
 - Their hearts hardened by God; they ask Pharaoh *"How long will this man be a snare to us?"* —
   Exodus 10:1, 7, [[Locusts and Darkness]]
+- Moses *"very great"* in their sight; told they will come down and bow to him, saying *"Get
+  out"* — Exodus 11:3, 8, [[The Last Plague Announced]]
 
 ## Appears in
 
@@ -75,13 +82,15 @@ These are written as their pericopes arrive.
   and hardened with their king**
 - [[Locusts and Darkness]] — Exodus 10:1, 6–7; **hardened by God, and the first to speak**: *"Don't you
   yet know that Egypt is destroyed?"*
+- [[The Last Plague Announced]] — Exodus 11:3, 8; **the court that will bow to Moses.** Moses *"very great … in the sight
+  of Pharaoh's servants"*; *"All these servants of yours will come down to me, and bow down"*
 
 ## Related people
 
 - [[Pharaoh (of the Exodus)]] — their master, whose heart and theirs are hardened together
 - [[Pharaoh's Magicians (of the Exodus)]] — the court's experts, who confess *"This is God's finger"*
   (8:19) before the servants say anything
-- [[Moses]] — whom they call *"a snare"*, and in whose sight he will be *"very great"* (11:3)
+- [[Moses]] — whom they call *"a snare"* (10:7), in whose sight he is *"very great"* (11:3), and to whom they will bow (11:8)
 - [[Shiphrah and Puah]] — the other people in Exodus said to fear God against the king's will (1:17)
 
 ## Themes associated

@@ -29,6 +29,12 @@ tags: [connection]
 - **Exodus 1:22** — *"You shall cast every son who is born into the river, and every daughter you
   shall save alive"* — [[The Oppression in Egypt]]
 - **Exodus 7–12** — the plagues, and Pharaoh's household struck
+- [[The Last Plague Announced]] — **Exodus 11:1**: *"Yet one plague more will I bring on Pharaoh"* — ***negaʿ*, the only
+  one in Exodus, and the noun of Genesis 12:17's *"great plagues"* (*nəgāʿîm gədōlîm*) on Abram's
+  Pharaoh** (WLC lemma search, Genesis–Deuteronomy). The first Pharaoh in Scripture was struck with
+  *nəgāʿîm* and sent a patriarch away with his goods; the last blow on this one is called a *negaʿ*,
+  and Israel leaves with Egypt's silver and gold (11:2). Whether the word was chosen for the echo
+  cannot be shown
 - **Exodus 12:31–36** — *"Rise up, go out from among my people"*, the Egyptians urgent to send them
   away, and the silver, gold, and clothing carried out
 - **Deuteronomy 26:5** — the harvest credo: *"A Syrian ready to perish was my father. He went down

@@ -14,7 +14,9 @@ tags: [connection]
   and of her who visits her house, jewels of silver, jewels of gold, and clothing; and you shall put
   them on your sons, and on your daughters. You shall plunder the Egyptians."* — [[The Burning Bush]]
 - **Exodus 11:2–3** — *"let every man ask of his neighbor, and every woman of her neighbor, jewels of
-  silver, and jewels of gold." Yahweh gave the people favor in the sight of the Egyptians.*
+  silver, and jewels of gold." Yahweh gave the people favor in the sight of the Egyptians.* — [[The Last Plague Announced]].
+  **Men now ask as well as women** (*rēʿēhû*, *rəʿûtāh*; WLC), and the favour is reported as already
+  given, in a speech about what is still to come
 - **Exodus 12:35–36** — *"they asked of the Egyptians jewels of silver, and jewels of gold, and
   clothing. Yahweh gave the people favor in the sight of the Egyptians, so that they let them have what
   they asked. They plundered the Egyptians."*

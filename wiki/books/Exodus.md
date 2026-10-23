@@ -134,7 +134,14 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   Then *"darkness which may be felt"* for three days, ***"but all the children of Israel had light in
   their dwellings"*** (10:21–23). The last offer keeps the herds; Moses: *"Not a hoof shall be left
   behind"*; Pharaoh: *"in the day you see my face you shall die!"* (10:24–29). See
-  [[Locusts and Darkness]].
+  [[Locusts and Darkness]]. **Then the tenth announced, and the cycle closed.** *"Yet one plague more"*
+  (11:1) — *negaʿ*, the word of the plagues on Abram's Pharaoh (Genesis 12:17). The people ask for
+  silver and gold, and *"the man Moses was very great in the land of Egypt"* (11:2–3). Moses, still
+  before Pharaoh: ***"About midnight I will go out into the middle of Egypt, and all the firstborn in
+  the land of Egypt shall die"***, from the throne to the mill, with *"a great cry"* — and against
+  Israel *"a dog won't even bark or move its tongue"* (11:4–7). He goes out *"in hot anger"* (11:8).
+  **The narrator closes the wonders in the words of 7:3–4** (11:9–10). See
+  [[The Last Plague Announced]].
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
@@ -182,7 +189,7 @@ for unit.
 - [x] [[Frogs, Lice, and Flies]] — Exodus 8:1–32
 - [x] [[Livestock, Boils, and Hail]] — Exodus 9:1–35
 - [x] [[Locusts and Darkness]] — Exodus 10:1–29
-- [ ] The Last Plague Announced — Exodus 11:1–10
+- [x] [[The Last Plague Announced]] — Exodus 11:1–10
 
 ### Passover and the sea (12–15:21)
 
@@ -287,6 +294,8 @@ for unit.
 - [[Righteousness]]
 - [[Light and Darkness]]
 - [[Forgiveness]]
+- [[Favor and Grace]]
+- [[Wealth and Possessions]]
 
 ## Key people
 

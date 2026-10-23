@@ -357,6 +357,13 @@ rule are the conditions the rest of Scripture is set in.
   Judah (Joel 2:2). Egypt's court says *"Egypt is destroyed"* (10:7). The darkness is the *ʾăpēlâ* of
   Deuteronomy's curse (28:29) — [[The Day of the Locust - Exodus 10 and Joel 1-2]] —
   [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
+- [[The Last Plague Announced]] — Exodus 11:1–10; **the last judgment on Egypt announced, top to
+  bottom.** *"Yet one plague more"* — *negaʿ*, the word of the *"great plagues"* on Abram's Pharaoh
+  (Genesis 12:17, WLC); God himself will *"go out into the middle of Egypt"* (11:4); the dead run
+  *"from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the female
+  servant who is behind the mill"* (11:5). **The slave girl's son is the chapter's hardest line**;
+  the page records readers' answers and adopts none —
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
 
 ## Related themes
 

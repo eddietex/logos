@@ -208,6 +208,11 @@ the others.
   time the distinction is drawn by people, not by land: Goshen is not named. **Deuteronomy 28:29 and
   Joel 2:2 later turn this darkness on Israel** —
   [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
+- [[The Last Plague Announced]] — Exodus 11:7; **the fifth distinction, and the last before the
+  blood.** *"That you may know that Yahweh makes a distinction between the Egyptians and Israel"* —
+  *pālâ*, which in the Torah occurs only at 8:22; 9:4; 11:7; and 33:16, where Moses asks that Israel
+  be *"separated … from all the people who are on the surface of the earth"* (WLC lemma search). Not
+  a dog will *"move its tongue"* against Israel
 
 ## Related themes
 

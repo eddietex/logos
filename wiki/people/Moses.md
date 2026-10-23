@@ -203,9 +203,19 @@ behind … we don't know with what we must serve Yahweh, until we come there"***
 your face again no more"*** (10:28–29) — though he is still speaking to Pharaoh at 11:4–8. See
 [[Locusts and Darkness]].
 
+**At the last announcement he is great in Egypt's eyes, and angry.** God tells him *"Yet one plague
+more"* and has him tell the people to ask for silver and gold (11:1–2). **The narrator says *"the man
+Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the
+people"*** (11:3) — *hāʾîš mōšeh … məʾōd*, the construction of Numbers 12:3, *"the man Moses was very
+humble"* (WLC). Still before Pharaoh — the seam with 10:29 is left visible on the passage page — he
+gives God's words: midnight, the firstborn from throne to mill, the great cry, the distinction, and
+Pharaoh's servants bowing to *him*, *"Get out"* (11:4–8). ***"He went out from Pharaoh in hot anger"***
+(11:8), *bāḥŏrî-ʾāp* — **the first time Exodus calls Moses angry**; until now *ʾap* has been God's, and
+against him (4:14; WLC). See [[The Last Plague Announced]].
+
 ### What is ahead
 
-The last plague announced (11); the Passover, the sea, and the
+The Passover, the last plague, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -265,6 +275,8 @@ sections are written as their pericopes arrive.
 - Asks Pharaoh *"How long will you refuse to humble yourself?"*; walks out; names all who will go;
   stretches the rod for the locusts and his hand for the darkness; prays a fourth time; refuses to
   leave a hoof; *"I will see your face again no more"* — Exodus 10:1–29, [[Locusts and Darkness]]
+- Called *"very great in the land of Egypt"*; announces the death of the firstborn and the
+  distinction; goes out from Pharaoh *"in hot anger"* — Exodus 11:1–10, [[The Last Plague Announced]]
 
 ## Appears in
 
@@ -305,6 +317,9 @@ sections are written as their pericopes arrive.
 - [[Locusts and Darkness]] — Exodus 10:1–29; **the walk-out, and the last word.** *"How long will you
   refuse to humble yourself?"*; *"a snare to us"*; *"Not a hoof shall be left behind"*; *"I will see
   your face again no more"*
+- [[The Last Plague Announced]] — Exodus 11:1–10; **very great in Egypt, and angry.** *"The man Moses was very great in
+  the land of Egypt"*; *"About midnight I will go out"*; *"after that I will go out"*; *"He went out from
+  Pharaoh in hot anger"*
 
 ## Related people
 

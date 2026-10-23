@@ -28,7 +28,10 @@ tags: [connection]
   [[Livestock, Boils, and Hail]]
 - **Exodus 10:2, 7** — *"that you may know that I am Yahweh"*, said to Israel; Pharaoh's servants:
   *"Don't you yet know that Egypt is destroyed?"* — [[Locusts and Darkness]]
-- **Exodus 11:7** — *"that you may know that Yahweh makes a distinction"* *(not yet ingested)*
+- **Exodus 11:7** — *"that you may know that Yahweh makes a distinction"* — [[The Last Plague Announced]]. **The last
+  knowledge formula before the blow, addressed in the plural (*tēdəʿûn*, WLC) to Pharaoh and the court
+  Moses is speaking to** — and its object is not God's uniqueness or power but the line between Egypt
+  and Israel
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*

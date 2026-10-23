@@ -240,6 +240,10 @@ the promise is repeatedly mistaken for.
   **The *great wealth* of Genesis 15:14 specified**: jewels of silver and gold and clothing, asked of
   Egyptian women and put on the children Pharaoh ordered drowned. *Plunder* is *niṣṣēl*, the stem of
   *nāṣal* beside God's *deliver* (3:8). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[The Last Plague Announced]] — Exodus 11:2–3; **the plunder ordered.** *"Let every man ask of his
+  neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold"* — men as well as
+  the women of 3:22 — the middle term between the promise at the bush and the deed at 12:35–36 —
+  [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 

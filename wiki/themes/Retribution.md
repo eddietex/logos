@@ -307,6 +307,12 @@ verdicts.
   babes"*, and Revelation 16:6 says of the waters turned to blood, *"they poured out the blood of the
   saints and prophets, and you have given them blood to drink"* (both WEB). The measure-for-measure
   reading is theirs — [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
+- [[The Last Plague Announced]] — Exodus 11:5–6; **the sons for the sons, if it is read that way.**
+  The decree against Israel's boys (1:16, 22) is answered by the death of Egypt's firstborn — but
+  the decree was [[Pharaoh (of the oppression)]]'s, and the blow falls on his successor's house and
+  on the slave girl *"behind the mill"*. **The text draws no measure-for-measure line itself**; the
+  cry of the oppressed answered by the oppressor's cry is written into law at 22:23–24 —
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
 
 ## Related themes
 

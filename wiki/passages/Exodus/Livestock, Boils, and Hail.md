@@ -417,7 +417,7 @@ has stretched out the rod; now God's word is said to come by that hand.**
   also"* — [[Frogs, Lice, and Flies]]
 - Exodus 10:1, 5, 14–17 — the servants' hearts hardened; what *"the hail had left"*; the second
   confession — [[Locusts and Darkness]]
-- Exodus 11:6 — *"such as there has not been"* *(not yet ingested)*
+- Exodus 11:6 — *"such as there has not been"* — [[The Last Plague Announced]]
 - Exodus 13:4 — *"the month Abib"* *(not yet ingested)*
 - Exodus 14:28 — *"not so much as one"* *(not yet ingested)*
 - Exodus 16:4 — *"I will rain bread from the sky"* *(not yet ingested)*

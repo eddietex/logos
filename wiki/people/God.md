@@ -1507,6 +1507,19 @@ their dwellings"* (10:21–23) — *ḥōšek*, the darkness of Genesis 1:2 befo
 [[Locusts and Darkness]] and
 [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]].
 
+### He announces that he will go out himself — Exodus 11:1–10
+
+**He promises *"Yet one plague more"*** — *negaʿ*, the only one in Exodus, and the word of the *"great
+plagues"* he laid on Abram's Pharaoh (Genesis 12:17, WLC) — and says Pharaoh *"will surely thrust you
+out"* (11:1), the *gārēš* of 6:1. **He gives the people favour in the sight of the Egyptians** (11:3),
+in the clause of 3:21 and 12:36. **Then, in Moses' mouth, he names the hour and himself as the
+agent**: *"About midnight I will go out into the middle of Egypt"* (11:4) — the exodus verb *yāṣāʾ*,
+said of God before it is said of Israel. The firstborn will die from the throne to the mill, and
+*"a great cry"* will rise (11:5–6); against Israel *"a dog won't even … move its tongue"*, *"that you
+may know that Yahweh makes a distinction"* (11:7). **He closes the cycle in the words he opened it
+with** (7:3–4; 11:9), and hardens Pharaoh's heart (11:10). See [[The Last Plague Announced]] and
+[[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1688,6 +1701,9 @@ their dwellings"* (10:21–23) — *ḥōšek*, the darkness of Genesis 1:2 befo
 - Hardens Pharaoh's heart and his servants'; gives the signs a purpose in Israel's telling; brings the
   locusts on the east wind and removes them on the west; sends darkness and gives Israel light —
   Exodus 10:1–29, [[Locusts and Darkness]]
+- Announces *"one plague more"* and the expulsion; gives Israel favour with the Egyptians; says he
+  will go out into Egypt at midnight and that the firstborn will die; makes a distinction; hardens
+  Pharaoh's heart — Exodus 11:1–10, [[The Last Plague Announced]]
 
 ## Appears in
 
@@ -2037,6 +2053,9 @@ their dwellings"* (10:21–23) — *ḥōšek*, the darkness of Genesis 1:2 befo
 - [[Locusts and Darkness]] — Exodus 10:1–29; **every hardening his, and the story given to the
   children.** *"I have hardened his heart"*; *"that you may tell in the hearing of your son"*; the east
   wind and the west; *"light in their dwellings"*
+- [[The Last Plague Announced]] — Exodus 11:1–10; **the last blow announced as his own going out.** *"Yet one plague
+  more"*; *"Yahweh gave the people favor"*; *"About midnight I will go out into the middle of Egypt"*;
+  *"Yahweh makes a distinction"*
 
 ## Related people
 

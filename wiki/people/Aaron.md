@@ -106,9 +106,14 @@ with him (10:8), driven out with him (10:11), and summoned with him to hear Phar
 follows Moses alone: *"He went out from Pharaoh, and prayed"*; *"Pharaoh called to Moses"* (10:24).
 Aaron is not named at the darkness. See [[Locusts and Darkness]].
 
+**In the last announcement he is named once, in the narrator's summary.** God speaks to Moses alone,
+and Moses alone speaks to Pharaoh (11:1–8); then *"Moses and Aaron did all these wonders before
+Pharaoh"* (11:10). **The cycle that began with Aaron's rod (7:10) ends with his name in a closing
+formula.** See [[The Last Plague Announced]].
+
 ### What is ahead
 
-The rest of the plagues; Sinai, where he goes up with the elders (24); the priestly
+The Passover and the last plague (12); Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -136,6 +141,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   Exodus 9:8–10, 27, [[Livestock, Boils, and Hail]]
 - Goes in, is brought back, is driven out, and is summoned with Moses before the locusts; not named
   at the darkness — Exodus 10:3, 8–11, 16, [[Locusts and Darkness]]
+- Named with Moses in the summary of the wonders — Exodus 11:10, [[The Last Plague Announced]]
 
 ## Appears in
 
@@ -161,6 +167,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   sinned"*
 - [[Locusts and Darkness]] — Exodus 10:3, 8–11, 16; **driven out with Moses, then out of the scene.**
   Hears *"I have sinned against Yahweh your God, and against you"*; absent from the darkness
+- [[The Last Plague Announced]] — Exodus 11:10; **named only in the summary.** *"Moses and Aaron did all these wonders
+  before Pharaoh"*
 
 ## Related people
 

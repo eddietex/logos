@@ -12126,3 +12126,82 @@ Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 10; Exo
   - `wiki/index.md`: 104 passages, 166 people, 80 places, 299 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 11.1-10 — The Last Plague Announced
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Last Plague
+Announced — Exodus 11:1–10*. The boundary was kept as planned. There was no discussion step; its
+content is written into the passage page.
+
+### The passage page
+
+[[The Last Plague Announced]] covers:
+
+- 11:1: *negaʿ*, the only one in Exodus, and Genesis 12:17's *nəgāʿîm*; *gārēš yəgārēš* (6:1; 12:39);
+  *kālâ* (Genesis 18:21).
+- 11:2–3: *bəʾoznê* (10:2); men asking as well as women (3:22); *ḥēn* (3:21; 12:36; 33:12–17);
+  *hāʾîš mōšeh … məʾōd* (Numbers 12:3); Moses great before the court that called him *"a snare"*.
+- 11:4–6: the seam with 10:28–29; *kaḥăṣōt* (12:29 *baḥăṣî*); *yāṣāʾ* four times in 11:4–8 and at
+  12:31; the merism from throne to mill (*šipḥâ*, *rēḥayim*; 12:29's *bôr*); the slave girl's son;
+  *ṣəʿāqâ gədōlâ* (3:7, 9; 12:30; Genesis 27:34); *kāmōhû* (9:18, 24; 10:14).
+- 11:7–8: *ḥāraṣ … lāšôn* (Joshua 10:21); *pālâ* (8:22; 9:4; 33:16); the plural *tēdəʿûn*;
+  *hištaḥăwâ* (Genesis 37:7; 42:6); *bāḥŏrî-ʾāp*, the first anger of Moses (4:14; 32:19;
+  Deuteronomy 29:24).
+- 11:9–10: the bracket with 7:3–4; *môpēt*; 7:2's *šillaḥ … mēʾarṣô* negated; *wayəḥazzēq*.
+
+### Judgment calls
+
+- **The pericope was kept separate from 12:1–28.** 11:9–10 closes the plague cycle with its own
+  bracket; the tenth plague is now announced here and struck at 12:29–51.
+- **New connection: [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]** — *ṣəʿāqâ*
+  from Sodom (Genesis 18–19) to Israel (3:7, 9) to Egypt (11:6; 12:30), with Esau's cry (Genesis
+  27:34) as the only other *ṣəʿāqâ gədōlâ* in the Torah, and the law of 22:23–24. Exodus 2:23 is
+  listed with a note that its Hebrew uses other words.
+- **No new person or place page.** The slave girl at the mill is a figure of speech, not a character.
+  Goshen is unnamed in the chapter and gets an entry because the distinction it stands for is named.
+- **The 10:28–29 / 11:4–8 seam** is described on both passage pages and resolved on neither.
+- **Readings reported, not adopted:** the *negaʿ* echo of Genesis 12:17; the *kālâ* link to Genesis
+  18:21; 11:1–3 as a pluperfect; the answers to the death of the slave girl's son; measure for
+  measure (noted that 1:22's decree was [[Pharaoh (of the oppression)]]'s).
+- **Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+  (`translation=web`): Numbers 11:8; 12:3; Deuteronomy 23:18 (checked, not quoted except its rendering
+  *"male prostitute"*); 24:6; 29:24; Joshua 10:21.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 11; Exodus 2:23; 3:22; 6:11;
+7:2–4; 9:18; 10:2, 14; 12:29–31; Genesis 12:17; 18:21; 19:13; 27:34; Numbers 12:3; Deuteronomy 29:23
+(Hebrew); Joshua 10:21. Lemma searches of Genesis–Deuteronomy: *negaʿ*, *pālâ*, *ṣəʿāqâ*, *ḥāraṣ*,
+*rēḥayim*, *ḥēn*, *ḥŏrî*, *môpēt*, *ḥăṣōt*, *kālâ*, *hištaḥăwâ*, *keleb*; *ḥăṣî*, *šipḥâ*, *ʾap* and
+*maggēpâ* in Exodus; *bôr* in Genesis–Exodus; *ḥāraṣ* also in Joshua.
+
+### Pages created or revised
+
+- **Created (2):** the passage page; [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+- **People revised (5):** [[God]], [[Moses]], [[Aaron]], [[Pharaoh (of the Exodus)]],
+  [[Pharaoh's Servants (of the Exodus)]] — each with an overview paragraph, timeline, and appears-in
+  entry; *What is ahead* trimmed.
+- **Places revised (2):** [[Egypt]] and [[Goshen]].
+- **Themes revised (11):** [[Birthright and the Firstborn]], [[Judgment]], [[Life and Death]],
+  [[Hardening of the Heart]], [[Signs and Wonders]], [[Favor and Grace]], [[Wealth and Possessions]],
+  [[Mourning and Lament]], [[Retribution]], [[Call and Election]], [[Slavery and Servitude]].
+- **Connections revised (4):** [[You Shall Not Go Empty-Handed - The Plunder of Egypt]],
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]],
+  [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]],
+  [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
+- **Passages revised (7):** [[Locusts and Darkness]], [[Livestock, Boils, and Hail]],
+  [[Frogs, Lice, and Flies]], [[Aaron's Staff Before Pharaoh]], [[Bricks Without Straw]],
+  [[Moses Flees to Midian]], [[The Burning Bush]] — cross-references to chapter 11 now linked.
+- **Book page:** box checked; the plague structure note covers chapter 11; key themes +2
+  ([[Favor and Grace]], [[Wealth and Possessions]]).
+- **Indexes:**
+  - books: Exodus 14 / 53.
+  - people: 5 rows extended.
+  - places: 2 rows extended.
+  - themes: 11 rows extended.
+  - connections: 1 row added in [[Connections Index D-H]]; 2 rows' references extended.
+  - `wiki/index.md`: 105 passages, 166 people, 80 places, 71 themes, 300 connections.
+
+`scripts/link-check.sh` is clean.

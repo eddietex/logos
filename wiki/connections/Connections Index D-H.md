@@ -23,7 +23,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Do Not Interpretations Belong to God - Joseph and Daniel]] | parallel | Genesis 40:5–8 · Genesis 41:8, 15–16, 25, 38–39 · Genesis 42:23 · Daniel 1:17–20 · Daniel 2:1–11, 27–30, 47 · Daniel 4:4–9 · Daniel 5:7–12 |
 | [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 |
-| [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 |
+| [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
@@ -62,6 +62,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Psalm 105:42 · Luke 1:72–73 |
 | [[God Sent Me Before You - The Verb That Replaces the Sale]] | theological thread | Genesis 37:28, 36 · Genesis 45:4–8 · Genesis 50:19–20 · Psalm 105:17 · Acts 7:9–10 · Acts 2:23 · Romans 8:28 |
 | [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
+| [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Hagar and Sarah in Galatians]] | allegory | Genesis 16:1–16 · Genesis 21:1–14 · Isaiah 54:1 · Romans 9:6–9 · Galatians 4:21–31 |
 | [[Hands on the Head - The First Blessing by Touch]] | thread | Genesis 27:21–27 · Genesis 48:13–18 · Leviticus 1:4; 16:21 · Numbers 8:10; 27:18–23 · Deuteronomy 34:9 · Mark 10:16 · Acts 6:6; 13:3 · 1 Timothy 4:14 · Hebrews 6:2 |

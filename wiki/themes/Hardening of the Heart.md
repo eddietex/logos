@@ -126,6 +126,11 @@ as those passages are ingested.
   to Israel's children**: *"that you may tell in the hearing of your son"* (10:2). **The servants, whose
   hearts God claims in 10:1, are the ones who plead with Pharaoh in 10:7**; the text gives both and
   does not reconcile them — [[Pharaoh's Servants (of the Exodus)]]
+- [[The Last Plague Announced]] — Exodus 11:9–10; **the cycle closed in the forecast's words.**
+  *"Pharaoh won't listen to you, that my wonders may be multiplied"* (11:9) restates 7:3–4; *"Yahweh
+  hardened Pharaoh's heart, and he didn't let the children of Israel go out of his land"* (11:10) —
+  *wayəḥazzēq*, the piel, the third narrated hardening in a row with Yahweh as subject (10:20, 27;
+  11:10; WLC)
 
 ## Related themes
 

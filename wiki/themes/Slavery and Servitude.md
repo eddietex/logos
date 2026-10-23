@@ -290,6 +290,10 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   Yahweh"* with something held back (10:8, 11, 24). And Moses: *"of it we must take to serve Yahweh our
   God; and we don't know with what we must serve Yahweh"* (10:26). **The court that serves Pharaoh asks
   him to let Israel go to serve another master** — [[Pharaoh's Servants (of the Exodus)]]
+- [[The Last Plague Announced]] — Exodus 11:5, 8; **the master's house bows to the slave's leader.**
+  The firstborn of the *šipḥâ* behind the mill dies with Pharaoh's heir (11:5), and *"all these
+  servants of yours"* will *"bow down themselves to me, saying, 'Get out'"* (11:8). **The release
+  becomes an expulsion**: *gārēš yəgārēš*, *"he will surely thrust you out"* (11:1)
 
 ## Related themes
 

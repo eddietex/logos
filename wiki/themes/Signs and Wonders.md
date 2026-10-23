@@ -92,6 +92,10 @@ one.
   of your son's son … my signs which I have done among them"* (10:1–2). **The signs are now for
   telling as well as for seeing.** The locusts come on an east wind and leave on a west one; the
   darkness can be *"felt"* — [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]]
+- [[The Last Plague Announced]] — Exodus 11:9–10; **the bracket shut.** *Môpēt*, *wonder*, occurs in
+  Exodus only at 4:21; 7:3, 9; 11:9, 10 (WLC lemma search); *"that my wonders may be multiplied"*
+  (11:9) answers 7:3's *"multiply my signs and my wonders"*, and *"Moses and Aaron did all these
+  wonders before Pharaoh"* (11:10) closes the cycle. **No sign is done in the chapter**
 
 ## Related themes
 

@@ -642,7 +642,8 @@ Exodus that clause is his name.** See [[Call and Election]].
 - Exodus 4:27–31 — Aaron meets Moses; *"the people believed"*
 - Exodus 6:3, 12, 30 — the name not known; *"uncircumcised lips"*
 - Exodus 7:1, 9–10, 14, 17–21 — *"as God to Pharaoh"*; the *tannîn*; *kābēd*; blood
-- Exodus 11:2–3; 12:35–36 — the plunder — [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- Exodus 11:2–3; 12:35–36 — the plunder — [[The Last Plague Announced]],
+  [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - Exodus 19:1–2, 12, 18 — the return to the mountain, its border, and its fire
 - Exodus 33:18–23 — *"man may not see me and live"*
 - Exodus 40:34–35 — the glory fills the tabernacle

@@ -415,6 +415,9 @@ the rest of the canon.
   *"this death"* — the plague named by what it means for a country that lives on its crops. And he
   threatens Moses in the form of the garden warning: *"in the day you see my face you shall die"*
   (10:28; compare *"in the day that you eat of it, you will surely die"*, Genesis 2:17)
+- [[The Last Plague Announced]] — Exodus 11:4–6; ***"all the firstborn in the land of Egypt shall
+  die."*** The death Pharaoh threatened Moses with (10:28) is announced against Pharaoh's own heir,
+  with the hour — *"About midnight"* — and the cry that will follow
 
 ## Related themes
 
