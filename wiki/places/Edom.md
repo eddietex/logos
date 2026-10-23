@@ -57,6 +57,11 @@ generous and the accusations unbearable, and it comes from Genesis 25.
 Later the Idumeans are forcibly incorporated into Judea under John Hyrcanus, and Herod the Great —
 the king in Matthew 2 — is an Idumean. The last political appearance of Esau's line in the biblical
 story is on the throne of Jacob's.
+**The Song uses Genesis 36's title for its rulers.** *"Then the chiefs of Edom (ʾallûpê ʾĕdôm) were
+dismayed"* (15:15) — the phrase that closes the list of Esau's chiefs (Genesis 36:43), and outside Genesis 36
+the only use of *ʾallûp* in the Torah (WLC lemma search). **Three verses later the Song ends on the verb of
+Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in the land of Edom"*, Genesis
+36:31). See [[The Song of the Sea]].
 
 ## Appears in
 
@@ -76,6 +81,7 @@ story is on the throne of Jacob's.
   eight kings before Israel has one — and the chapter's own vocabulary is Edomite: ***ʾallûp̄***,
   *chief*, occurs here and in the Chronicler's copy of this list more than in the rest of the Hebrew
   Bible together. **God is not mentioned anywhere in it**
+- [[The Song of the Sea]] — Exodus 15:15; **its chiefs dismayed.** *"Then the chiefs of Edom were dismayed"*
 
 ## Related places
 
@@ -111,3 +117,4 @@ story is on the throne of Jacob's.
 - Hadad son of Bedad strikes [[Midian]] in the field of [[Moab (place)]] — Genesis 36:35
 - Refuses Israel passage on the King's Highway — Numbers 20:14–21
 - Garrisoned by David; revolts under Jehoram — 2 Samuel 8:13–14; 2 Kings 8:20–22
+- Its chiefs sung as dismayed at the news of the sea — Exodus 15:15

@@ -379,6 +379,10 @@ rule are the conditions the rest of Scripture is set in.
   *nāʿar*, *shaken off*, only here in the Torah (WLC lemma search) — and *"There remained not so much as one
   of them"*, the locusts' epitaph (10:19). **The knowledge promised arrives as the army's last words**:
   *"Yahweh fights for them against the Egyptians!"* (14:25)
+- [[The Song of the Sea]] — Exodus 15:4–12; **judgment sung.** *"You send out (šālaḥ) your wrath. It consumes them as
+  stubble"* (15:7) — the verb of *"Let my people go"*, and the stubble Israel gathered for Egypt's bricks
+  (5:12; WLC). **The Song gives the drowning to God's own right hand** (15:6, 12), where the prose gave the
+  stretched-out hand to Moses (14:21, 27).
 
 ## Related themes
 

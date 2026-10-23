@@ -18,6 +18,8 @@ tags: [connection]
   people go*, the plundering, and the pursuit — [[The Oppression in Egypt]], [[Bricks Without Straw]]
 - **Deuteronomy 26:5–9** — *"A Syrian ready to perish was my father"*: Israel's own creed, which puts
   the two stories in one sentence
+- **Exodus 15:1, 20** — Israel sings, and Miriam takes a tambourine — the *šîr* and *tōp* of Laban's
+  unfulfilled send-off (Genesis 31:27) — [[The Song of the Sea]]
 
 ## Analysis
 
@@ -84,3 +86,10 @@ See [[Work]], [[Slavery and Servitude]], [[Suffering]], and [[Land and Sojournin
 fled"* (*bāraḥ*, Exodus 14:5) is the verb of Jacob's flight from Laban (Genesis 31:20–22), and the chariots
 *"overtook"* Israel (*wayyaśśîgû*, 14:9) as Laban *"overtook"* Jacob (*wayyaśśēg*, 31:25). See
 [[The Crossing of the Sea]].
+
+**The send-off Laban said he would have given, Israel gives itself.** *"Why did you flee secretly … that I
+might have sent you away with mirth and with songs, with tambourine and with harp?"* (Genesis 31:27).
+***Šîr*, *song*, and *tōp*, *tambourine*, occur in Genesis only in that verse; in Exodus they return at the
+sea** — *"Then Moses and the children of Israel sang this song"* (15:1) and *"Miriam … took a tambourine in
+her hand"* (15:20) (WLC lemma search). **Neither master sent his servants away with music; at the sea the
+released sing for themselves**, to the God who released them. See [[The Song of the Sea]].

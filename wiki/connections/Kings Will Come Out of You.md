@@ -30,6 +30,8 @@ tags: [connection]
 - **Matthew 1:1; Luke 1:32–33; Revelation 21:24** — the genealogy that begins *"the son of David, the
   son of Abraham"*, the throne of David given to a child, and the kings of the earth bringing their
   glory into the new city.
+- **Exodus 15:15, 18** — *"the chiefs of Edom were dismayed"*; *"Yahweh shall reign forever and ever"* —
+  *mālak* with Yahweh as subject for the first time — [[The Song of the Sea]]
 
 ## Analysis
 
@@ -128,3 +130,9 @@ acquires an address.** [[Abraham]] and [[Jacob]] were told kings would come from
 named; 49:10 attaches the rule to [[Judah]] three centuries before Israel has a king. **What its last
 three words actually say is undecided** — see
 [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]].
+
+**Before Israel has a king, Israel sings that Yahweh reigns.** The verb Genesis 36:31 used of Edom's kings
+— *"before any king reigned (məlāk) over the children of Israel"* — returns at Exodus 15:18 with Yahweh as
+its subject, three verses after *"the chiefs of Edom"* (15:15; WLC lemma search). **The Song's answer to the
+note in Genesis 36 is that Israel's first reigning king is God.** Whether the Song intends that answer is
+not said. See [[The Song of the Sea]].

@@ -11,7 +11,8 @@ tags: [connection]
   *yəšûʿâ* in the Bible**
 - Exodus 14:13 — *"stand still, and see the salvation of Yahweh"* — the noun's next use, at the sea —
   [[The Crossing of the Sea]]
-- Exodus 15:2 — *"Yah… has become my salvation"*, in the Song of the Sea
+- Exodus 15:2 — *"Yah is my strength and song. He has become my salvation"* — the third use, sung —
+  [[The Song of the Sea]]
 - Psalm 3:8 — *"Salvation belongs to Yahweh"*; Psalm 62:1; Psalm 119:166, *"I have hoped for your
   salvation, Yahweh"* — **the Psalter's near-quotation of Genesis 49:18**
 - Isaiah 12:2–3; 52:10 — *"the wells of salvation"*; *"all the ends of the earth have seen the
@@ -86,3 +87,9 @@ Exodus 14:13, Exodus 15:2, and Deuteronomy 32:15 (WLC lemma search): **the sea i
 merely its next major one.** At 14:13 it has an author, *"the salvation of Yahweh"*, a beneficiary, *"which
 he will work for you"*, and a date, *"today"*; and at 14:30 the narrator gives it as a verb, *"Thus Yahweh
 saved (wayyôšaʿ) Israel that day"* (WLC). See [[The Crossing of the Sea]].
+
+**Exodus 15:2 completes the sequence inside the Torah's first four uses.** Genesis 49:18 waits for
+salvation with no object; Exodus 14:13 promises it *"today"*; **the Song reports it as had, and in the first
+person — *"He has become my salvation"* (*wayhî-lî lîšûʿâ*; WLC).** Its line is then repeated word for word
+in Psalm 118:14 and Isaiah 12:2 (WLC), the Isaiah verse already listed above. See [[The Song of the Sea]] and
+[[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]].

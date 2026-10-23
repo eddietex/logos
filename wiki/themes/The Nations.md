@@ -298,6 +298,10 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[The Consecration of the Firstborn]] — Exodus 13:5; ***"the Canaanite, and the Hittite, and the Amorite, and
   the Hivite, and the Jebusite"*** — five peoples, where the bush listed six (3:8, 17) and Genesis 15:19–21
   ten; the Perizzite is missing (WLC). No reason is given, and the wiki reads none in
+- [[The Song of the Sea]] — Exodus 15:14–16; **the nations hear.** Philistia, Edom, Moab, Canaan — **the first naming of
+  *Philistia* as a land**, and the *"chiefs of Edom"* of Genesis 36 (WLC). They tremble, melt, and stand
+  *"as still as a stone"* until Israel passes. Rahab repeats the Song's words (Joshua 2:9). See
+  [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
 
 ## Related themes
 

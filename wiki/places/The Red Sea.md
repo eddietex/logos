@@ -34,6 +34,11 @@ Scripture (WLC lemma search, Torah) — and return *"to its strength"* over the 
 it only *hayyām*, *the sea*; the name *yam sûp* frames it at 13:18 and returns in the Song (15:4)** (WLC).
 *Dry land*, *yabbāšâ*, is the word of the third day of creation (Genesis 1:9–10). See
 [[The Crossing of the Sea]] and [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
+**The Song names it once, and gives the sea's own depths new words.** *"His chosen captains are sunk in the
+Red Sea"* (*bəyam-sûp*, 15:4); *"The deeps (təhōmōt) cover them. They went down into the depths (məṣôlōt)
+like a stone"* (15:5); *"The deeps were congealed in the heart of the sea"* (15:8). ***Təhōmōt*** **is the
+plural of the *təhôm* of Genesis 1:2**; *məṣôlōt* occurs only here in the Torah (WLC lemma search). See
+[[The Song of the Sea]].
 
 ## Appears in
 
@@ -44,6 +49,8 @@ it only *hayyām*, *the sea*; the name *yam sûp* frames it at 13:18 and returns
 - [[The Crossing of the Sea]] — Exodus 13:18–14:31; **the route, the camp, and the crossing.** *"By the way
   of the wilderness by the Red Sea"*; *"the waters were a wall to them"*; *"Israel saw the Egyptians dead on
   the seashore"*
+- [[The Song of the Sea]] — Exodus 15:4–10, 19; **sung.** *"His chosen captains are sunk in the Red Sea"*; *"The floods stood
+  upright as a heap"*; *"They sank like lead in the mighty waters"*
 
 ## Related places
 
@@ -57,4 +64,5 @@ it only *hayyām*, *the sea*; the name *yam sûp* frames it at 13:18 and returns
 - The locusts thrown in by the west wind — Exodus 10:19
 - The way of the wilderness by the sea — Exodus 13:18
 - Israel camps by it, is overtaken, and crosses on dry ground; Pharaoh's army is covered — Exodus 14:2–31
-- *Ahead*: the Song (15:1–21); the departure from it to Shur (15:22)
+- Sung by Moses and Israel, and by Miriam — Exodus 15:1–21
+- *Ahead*: the departure from it to Shur (15:22)

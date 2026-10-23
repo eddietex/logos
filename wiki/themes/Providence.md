@@ -248,6 +248,9 @@ human one innocent.** *"You meant evil"* stands. See
   sea so that Pharaoh will think them *"entangled"*, and says what Pharaoh will do before Pharaoh does it.
   ***"They did so"*** (14:4): **the people obey a route they are not told the reason for**. *Nāḥâ*, *lead*
   (13:17, 21), is the verb of Abraham's servant, *"Yahweh has led me on the way"* (Genesis 24:27; WLC)
+- [[The Song of the Sea]] — Exodus 15:13; **led and guided.** *Nāḥâ*, *led* (the verb of 13:17, 21), and *nāhal*, *guided* —
+  the shepherds' verb of Jacob's *"I will lead on gently"* (Genesis 33:14) and Joseph feeding Egypt (47:17)
+  (WLC lemma search). **The Song sings the guidance *"to your holy habitation"* as already done.**
 
 ## Related themes
 

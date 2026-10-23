@@ -12611,3 +12611,89 @@ from bible-api.com (`translation=web`): Numbers 33:3, 7–8; Deuteronomy 1:30; 1
   - `wiki/index.md`: 109 passages, 166 people, 85 places, 71 themes, 308 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 15.1-21 — The Song of the Sea
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Song of the Sea — Exodus
+15:1–21*. The boundary was kept as planned: 15:1 opens with *"Then"* after the prose closes at 14:31, and
+15:22 resumes the itinerary. 15:19, the prose verse inside the poetry, is kept in the pericope as the hinge
+to Miriam's refrain. There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[The Song of the Sea]] — the first song in Scripture (*šîr* has no occurrence in Genesis), read stanza by
+stanza: the turn from third to second person; the turn at 15:12–13 from what was done to what is sung as
+done; and three threads — stone (15:5, 16), the right hand (15:6, 12, against Moses' hand in the prose), and
+wind as God's breath (15:8, 10). Miriam's naming, her title *"the prophetess"* (the feminine's only Torah
+use), *"the sister of Aaron"*, the tambourine of Laban's unfulfilled send-off (Genesis 31:27), and the
+dances shared only with the calf (32:19).
+
+### Judgment calls
+
+- **Two new themes**, [[Praise and Song]] and [[Redemption]]. Neither existed, though the wiki had met
+  *gāʾal* twice (Genesis 48:16; Exodus 6:6) and *pādâ* at 13:13–15; Redemption gathers all three verbs
+  (*gāʾal*, *pādâ*, and the Song's *qānâ*).
+- **Three new connections.** [[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]] (a
+  verbatim repetition, Hebrew checked); [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]]
+  (Joshua 2:9–11, 24 reuses *ʾêmâ* + *nāpal* and *nāmōgû kol-yōšbê*); and
+  [[The Song of Moses and the Lamb - Exodus 15 in Revelation 15]] (named, not quoted; the SBLGNT/WEB
+  difference at Revelation 15:3, *"of the ages"* / *"of the nations"*, recorded).
+- **No new person or place pages.** *Philistia* (*pəlāšet*, first named here) is filed on
+  [[The Land of the Philistines]]; the habitation, mountain, and sanctuary of 15:13, 17 are not located and
+  get no page. The women of Israel are collective.
+- **Left open, recorded on the page:** *"the earth swallowed them"* for a drowning; the perfects of 15:13;
+  the unnamed mountain; 15:19 as close or opening; *"sister of Aaron"*; the masculine *"them"* Miriam
+  answers; whether 15:21 is her whole song; whether Pharaoh died. **Reported, not adopted:** *wəʾanwēhû* as
+  *praise* or *make a dwelling*; *yārâ* (15:4, 25) as one root or two; *ʾêlê môʾāb* as *rams* or *leaders*.
+
+### Sources
+
+Exodus and Genesis quoted from `raw/bible/`. **Hebrew was checked against the Westminster Leningrad Codex
+(Open Scriptures `morphhb`, freshly downloaded this run)**: all of Exodus 15; Genesis 15:12; 28:17; 36:43;
+45:3; 49:17, 27; Exodus 3:6; 12:12, 23; 14:8; 18:4; Numbers 21:17; Deuteronomy 32:6; Joshua 2:9–11, 24;
+10:12–13; Psalm 78:13; 118:14, 28; Isaiah 12:2; and lemma searches over Genesis–Deuteronomy (Joshua where
+marked) for *šîr*, *gāʾâ*, *rāmâ*, *zimrâ*, *yāh*, *təhôm*, *nēd*, *qāpāʾ*, *ʿāram*, *nāšap*, *ṣālal*,
+*ʿōperet*, *ṭābaʿ*, *məṣôlâ*, *peleʾ*/*pālāʾ*, *bālaʿ*, *ḥesed*, *gāʾal*, *pādâ*, *nāhal*, *nāweh*, *ʾallûp*,
+*qānâ*, *nāṭaʿ*, *miqdāš*, *mākôn*, *mālak*, *nəbîʾâ*, *tōp*, *məḥōlâ*, *ʾêmâ*, *paḥad*, *dāmam*, *mûg*,
+*bāhal*, *qaš*, *ḥārôn*, *rîq*, *yāraš*, *yārâ*, *nāṣab*, *ʾôyēb*, *ʾādar*/*ʾaddîr*, *təhillâ*, *markābâ*,
+*milḥāmâ*, *rûaḥ*, *ʾap*, *nāṭâ*, *naḥălâ*, *pəlāšet*. **Greek of Revelation 15:1–4 checked against the
+SBLGNT (MorphGNT).** **WEB English from outside `raw/`** fetched one passage at a time from bible-api.com
+(`translation=web`): Numbers 21:17; 26:59; Deuteronomy 31:30; 32:6; Joshua 2:9–11, 24; 3:16; Psalm 78:13; 106:12;
+118:14, 19–20, 28; Isaiah 11:16; 12:2; Leviticus 10:3; Micah 6:4; Revelation 15:1–4. No other book was
+fetched into `raw/`.
+
+### Pages created or revised
+
+- **Created (6):** the passage page; themes [[Praise and Song]], [[Redemption]]; connections
+  [[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]],
+  [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]],
+  [[The Song of Moses and the Lamb - Exodus 15 in Revelation 15]].
+- **People revised (5):** [[God]] (a section, timeline, appears-in), [[Moses]], [[Miriam]] (named, the
+  prophetess; timeline's *ahead* entry made actual), [[Aaron]], [[Pharaoh (of the Exodus)]] (the Song does
+  not settle whether he died either; *What is ahead* replaced).
+- **Places revised (5):** [[The Red Sea]], [[The Land of the Philistines]], [[Edom]], [[Moab (place)]],
+  [[Canaan]].
+- **Themes revised (15):** [[War]], [[Kingship and Empire]], [[Holiness]], [[The Fear of God]],
+  [[Idolatry]], [[Signs and Wonders]], [[The Names of God]], [[Prophecy and Vision]], [[Love]],
+  [[Providence]], [[Creation]], [[Land and Sojourning]], [[The Nations]], [[Pride and Self-Exaltation]],
+  [[Judgment]].
+- **Connections revised (7):** [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]],
+  [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]],
+  [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]],
+  [[Served, Released, Pursued - The Laban Years as Proto-Exodus]], [[Kings Will Come Out of You]],
+  [[A Prophet Who Prays - The First Nabi in Scripture]],
+  [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] (15:12 now linked).
+- **Passage revised (1):** [[The Crossing of the Sea]] — its 15:1–21 cross-reference now links.
+- **Book pages:** [[Exodus]] — box checked; the 12–15:21 structure note now covers the Song; Miriam's key-people
+  line and two key themes added.
+- **Indexes:**
+  - books: Exodus 19 / 53.
+  - people: 5 rows extended (Miriam's summary revised).
+  - places: 5 rows extended (The Land of the Philistines' summary revised).
+  - themes: 2 rows added, 15 rows extended.
+  - connections: 3 rows added (in [[Connections Index O-S]] and [[Connections Index T-Z]]); 5 rows'
+    references extended.
+  - `wiki/index.md`: 110 passages, 166 people, 85 places, 73 themes, 311 connections.
+
+`scripts/link-check.sh` is clean.

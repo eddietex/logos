@@ -286,6 +286,10 @@ happens.
   four hundred thirty years *"to the day"* of Genesis 15:13–14's term (12:41) are kept; the *"great cry"*
   of 11:6 comes; but the servants' bowing to Moses foretold at 11:8 is not reported, and Pharaoh himself
   says *"get out"*. See [[Four Hundred Years - The Sojourn and the Exodus]]
+- [[The Song of the Sea]] — Exodus 15:20; **the first prophetess.** *"Miriam the prophetess"* — *nəbîʾâ*, its only use in
+  the Torah (WLC lemma search). **What she does as prophet is lead the song** with tambourine and refrain;
+  no oracle is reported. The masculine had been given to Abraham (Genesis 20:7) and Aaron (7:1). See
+  [[Miriam]].
 
 ## Related themes
 

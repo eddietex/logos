@@ -663,7 +663,7 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
   more"* — [[Locusts and Darkness]]
 - Exodus 12:32, 37, 42 — *"bless me also"*; six hundred thousand; a night of watching —
   [[The Death of the Firstborn and the Departure]]
-- Exodus 15:1–21 — the Song of the Sea *(not yet ingested)*
+- Exodus 15:1–21 — the Song of the Sea — [[The Song of the Sea]]
 - Exodus 19:9 — *"may also believe you forever"* *(not yet ingested)*
 - Exodus 23:20, 27; 32:34; 33:2 — the angel sent before; *"I will confuse"* *(not yet ingested)*
 - Numbers 15:30; 33:3, 6–8 — *"with a high hand"*; the itinerary *(not yet ingested)*

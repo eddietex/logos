@@ -166,9 +166,13 @@ wəḥêlô*, the verb *nāʿar* of Exodus 14:27; WLC; *not yet ingested*). **Th
 the narrative does not narrate his death, and the psalm includes him in the overthrow.** The wiki adopts
 neither as the other's correction.
 
-### What is ahead
-
-The Song's account of the chariots and the army (15:1–21). These are written as their pericopes arrive.
+**The Song does not settle it either.** It names *"Pharaoh's chariots and his army"* cast into the sea
+(15:4) and *"the horses of Pharaoh … with his chariots and with his horsemen"* (15:19); **Pharaoh himself
+is never said to go under.** **It gives his side a voice — *"The enemy said, 'I will pursue. I will
+overtake. I will divide the plunder … my hand shall destroy them'"*** (15:9) — **without naming the
+speaker**, and it never calls Pharaoh king: the only one who *"shall reign"* is Yahweh (15:18). **His
+chariots, the *merkābâ* of Joseph's honour** (Genesis 41:43; 46:29; WLC), go down *"like a stone"* (15:5).
+See [[The Song of the Sea]].
 
 ## Timeline / key events
 
@@ -206,6 +210,8 @@ The Song's account of the chariots and the army (15:1–21). These are written a
 - Told the people have fled; with his servants, changes his mind — *"What is this we have done?"*; hardened
   by Yahweh, pursues with six hundred chosen chariots and overtakes Israel by the sea; his army goes in
   after them and is covered; his own death not narrated — Exodus 14:3–28, [[The Crossing of the Sea]]
+- His chariots and army sung as *"cast … into the sea"*; *"the enemy"* given a boast; never called king in
+  the Song, and not said to die — Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
 
@@ -241,6 +247,8 @@ The Song's account of the chariots and the army (15:1–21). These are written a
 - [[The Crossing of the Sea]] — Exodus 13:17; 14:3–28; **the pursuit, and the army drowned.** *"When Pharaoh
   had let the people go"*; *"They are entangled in the land"*; *"What is this we have done?"*; *"Yahweh
   hardened the heart of Pharaoh"*; *"all Pharaoh's army … There remained not so much as one of them"*
+- [[The Song of the Sea]] — Exodus 15:4, 9, 19; **sung about, not named as king.** *"Pharaoh's chariots and
+  his army"*; *"The enemy said, 'I will pursue'"*; *"the horses of Pharaoh"*
 
 ## Related people
 

@@ -27,9 +27,9 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 · Exodus 14:11 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
-| [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:19 · Psalm 106:9 · Hebrews 11:29 |
+| [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:5, 8, 17, 19 · Psalm 106:9 · Hebrews 11:29 |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
-| [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] | motif | Genesis 41:6, 23, 27 · Exodus 10:13, 19 · Exodus 14:21 |
+| [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] | motif | Genesis 41:6, 23, 27 · Exodus 10:13, 19 · Exodus 14:21 · Exodus 15:8, 10 |
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |

@@ -73,6 +73,12 @@ that holds title to it. See [[Abram in Egypt]].
 surveyed (Numbers 13), entered (Joshua 1–12), lost (2 Kings 17, 25), and promised again. Its
 inhabitants are dispossessed on grounds the Torah states plainly and which are never Noah's oracle:
 what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their ancestor was.
+**The Song sings its inhabitants melting.** *"All the inhabitants of Canaan have melted away"* (*nāmōgû
+kōl yōšbê kənāʿan*, 15:15) — *mûg* only here in the Torah (WLC lemma search) — and Rahab, an inhabitant,
+repeats the line in Joshua 2:9 and 2:24 (*nāmōgû kol-yōšbê hāʾāreṣ*; WLC; *not yet ingested*). **The land
+itself is not named as the goal in the Song**; it speaks of *"the mountain of your inheritance"* and *"the
+sanctuary"* (15:17). See [[The Song of the Sea]] and
+[[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
 
 ## Appears in
 
@@ -224,6 +230,8 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   swore to your fathers"* — **the bush's six peoples without the Perizzite** (3:8, 17; WLC), no reason
   given. Unleavened bread is kept, and every firstborn given or redeemed, *"when Yahweh shall bring you
   into the land"*; the oath is sworn *"to you and to your fathers"* (13:11)
+- [[The Song of the Sea]] — Exodus 15:15–17; **its inhabitants melting.** *"All the inhabitants of Canaan have melted away"*;
+  *"until your people pass over"*
 
 ## Related places
 
@@ -285,3 +293,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - Named as the land where the Passover *"service"* is to be kept — Exodus 12:25, [[The Passover]]
 - Named as the land where the feast of unleavened bread is kept and the firstborn given and redeemed,
   *"which he swore to your fathers"* — Exodus 13:5, 11, [[The Consecration of the Firstborn]]
+- Its inhabitants sung as melting away, still *"as a stone"* until Israel passes — Exodus 15:15–16,
+  [[The Song of the Sea]]

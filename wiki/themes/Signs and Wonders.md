@@ -109,6 +109,10 @@ one.
   the sea divided by an east wind *"all night"*; the walls of water. **The sign-word for the whole is *"the
   great hand"*** — *hayyād haggədōlâ*, WEB *"the great work"* (14:31; WLC). **No mechanism is given**; the
   text gives a wind and a duration
+- [[The Song of the Sea]] — Exodus 15:11; **wonder as a name for God's doing.** *"Doing wonders"* — *peleʾ*, the noun only
+  here in the Torah; its verb asked *"Is anything too hard for Yahweh?"* (Genesis 18:14) and promised *"my
+  wonders"* at the bush (3:20) (WLC lemma search). **The Song gives the sea's sign a cause the prose left
+  to wind**: *"the blast of your nostrils"* (15:8).
 
 ## Related themes
 

@@ -348,6 +348,10 @@ where that starts, in a sentence about a family that got halfway.
   twice. **Both laws in the pericope are for the land, given a day out of Egypt**: the feast kept *"within
   all your borders"* (13:7) and the firstborn given *"when … he shall give it you"* (13:11). The land is the
   bush's *"milk and honey"*, of five peoples rather than six
+- [[The Song of the Sea]] — Exodus 15:9, 13–17; **the land sung in advance.** The enemy boasts *"my hand shall destroy
+  (tôrîšēmô) them"*, with *yāraš*, the verb of the land promise (Genesis 15:7); the Song names Philistia,
+  Edom, Moab, and Canaan in road order, and ends with Israel *"planted"* on *"the mountain of your
+  inheritance"* — unnamed, and not yet reached.
 
 ## Related themes
 

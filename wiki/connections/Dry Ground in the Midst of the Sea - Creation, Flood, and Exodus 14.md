@@ -15,8 +15,8 @@ tags: [connection]
 - **Exodus 4:9** — the Nile's water poured *"on the dry land"* becomes blood — [[The Burning Bush]]
 - **Exodus 14:16, 20–22, 29** — the sea *"divided"*, a wind *"all night"*, *"dry land"*, the darkness and
   the light, the waters *"a wall"* — [[The Crossing of the Sea]]
-- **Exodus 15:19** — *"the children of Israel walked on dry land in the middle of the sea"* *(not yet
-  ingested)*
+- **Exodus 15:5, 8, 19** — *"The deeps (təhōmōt) cover them"*; *"the blast of your nostrils"*; *"the
+  children of Israel walked on dry land in the middle of the sea"* — [[The Song of the Sea]]
 - **Psalm 106:9** — *"He rebuked the Red Sea also, and it was dried up; so he led them through the depths,
   as through a desert"* (WEB; *not yet ingested*)
 - **Hebrews 11:29** — *"By faith, they passed through the Red Sea as on dry land"* (WEB) —
@@ -67,3 +67,9 @@ runs it forwards again, for one people, for one night.**
   this page follows the ground made *in* it.
 - **Hebrews 11:29 keeps the dry land** — *"as on dry land"*, *ὡς διὰ ξηρᾶς γῆς* (SBLGNT) — and gives the
   crossing to faith. See [[Faith]].
+
+**The Song makes the creation language explicit where the prose kept it lexical.** The prose had
+*yabbāšâ* and a *rûaḥ*; the Song adds ***təhōmōt***, *"the deeps"* — the plural of Genesis 1:2's *təhôm*,
+its first plural in Scripture (15:5, 8; WLC lemma search) — and makes the wind God's own breath, *"the
+blast of your nostrils"* (15:8). **Then it ends with God *planting* his people (*nāṭaʿ*, 15:17), the verb of
+the garden** (Genesis 2:8; WLC). See [[The Song of the Sea]].

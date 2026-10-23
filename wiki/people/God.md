@@ -1604,6 +1604,26 @@ haggədōlâ*, WEB *"the great work"*, 14:31). **The people *"believed in Yahweh
 Moses"***, the construction of Abram's *"He believed in Yahweh"* (Genesis 15:6; WLC). See [[The Crossing of the Sea]]
 and [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
 
+### He is sung to for the first time — Exodus 15:1–21
+
+**Israel's first words to him in praise.** Until the sea the people's speech toward God has been a groan, a
+silent bow, or a cry (2:23; 4:31; 12:27; 14:10); *"Your right hand, Yahweh, is glorious in power"* (15:6) is
+the first second-person praise of God in Exodus. **The Song gives him titles the prose never did** —
+*"Yah"* (*yāh*, its first occurrence; WLC lemma search), *"my strength and song"*, *"my salvation"*, *"my
+God"*, *"my father's God"*, ***"a man of war"*** (15:2–3). **It gives him the acts the prose gave to Moses
+and the wind**: *"You stretched out your right hand"* (15:12), where Moses stretched out his (14:21, 27);
+*"the blast of your nostrils"* and *"You blew with your wind"* (15:8, 10), where the prose had *"a strong
+east wind"* (14:21). **It asks the question the plagues answered** — *"Who is like you, Yahweh, among the
+gods?"* (15:11; cf. 12:12) — and calls him *"glorious in holiness, fearful in praises, doing wonders"*.
+
+**Then it sings what he has not yet done as done**: he has *"redeemed"* (*gāʾal*, the promise of 6:6 kept),
+*"led"* in *ḥesed* (its first use in Exodus), *"guided … to your holy habitation"* (15:13); he *"purchased"*
+the people (*qānâ*, 15:16 — the verb of Joseph buying Egypt for Pharaoh, Genesis 47:23); he will *"plant
+them"* (*nāṭaʿ*, the verb of the garden, Genesis 2:8) on his mountain, in a ***miqdāš*** his hands have
+established — the word's first occurrence in Scripture (15:17; WLC lemma search). **The Song ends on his
+kingship, *"Yahweh shall reign forever and ever"*** (15:18) — *mālak* with Yahweh as subject for the first
+time (WLC lemma search). See [[The Song of the Sea]], [[Redemption]], and [[Praise and Song]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1801,7 +1821,9 @@ and [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
   to the sea as bait; hardens Pharaoh and Egypt to *"get honor"*; fights for Israel, divides the sea by an
   east wind, looks out from the pillar, and overthrows the army; *"saved Israel that day"* — Exodus
   13:17–14:31, [[The Crossing of the Sea]]
-
+- Sung to for the first time: *"Yah is my strength and song"*, *"a man of war"*, *"Who is like you, Yahweh,
+  among the gods?"*; praised as redeemer, guide, and purchaser of his people, who will plant them in his
+  sanctuary and *"reign forever and ever"* — Exodus 15:1–21, [[The Song of the Sea]]
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2165,6 +2187,9 @@ and [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
 - [[The Crossing of the Sea]] — Exodus 13:17–14:31; **he goes before, and fights.** *"Yahweh went before
   them … in a pillar of cloud"*; *"I will get honor over Pharaoh"*; *"Yahweh will fight for you"*; *"Why do
   you cry to me?"*; *"Thus Yahweh saved Israel that day"*
+- [[The Song of the Sea]] — Exodus 15:1–21; **sung to.** *"Yah is my strength and song"*; *"Yahweh is a man
+  of war"*; *"Your right hand, Yahweh"*; *"Who is like you, Yahweh, among the gods?"*; *"the people that
+  you have redeemed"*; *"Yahweh shall reign forever and ever"*
 
 ## Related people
 

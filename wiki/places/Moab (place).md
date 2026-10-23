@@ -51,12 +51,16 @@ part of the wiki has to an external witness to anything.
 
 The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at forty-seven verses, Amos
 2:1–3, and Zephaniah 2:9's *"Moab will be as Sodom"* — the country's origin thrown back at it.
+**The Song names it among the trembling nations.** *"Trembling takes hold of the mighty men of Moab"*
+(15:15) — *ʾêlê môʾāb*, literally *the rams of Moab* (WLC), the WEB taking it as *leaders*. **It is the
+first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
 
 - [[Lot and His Daughters]] — Genesis 19:37; the nation's origin, given as a birth in a cave
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, by anticipation: Chedorlaomer strikes the
   **Emim in Shaveh Kiriathaim**, the people Deuteronomy 2:10–11 says held this land before Moab did
+- [[The Song of the Sea]] — Exodus 15:15; **its mighty men trembling.** *"Trembling takes hold of the mighty men of Moab"*
 
 ## Related places
 
@@ -78,3 +82,4 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 - David lodges his parents with its king while hunted by Saul — 1 Samuel 22:3–4
 - Mesha rebels against Israel after Ahab's death and commemorates it on the Mesha Stele — 2 Kings 3
 - Sentenced to the fate of Sodom — Zephaniah 2:9
+- Its *"mighty men"* sung as trembling at the news of the sea — Exodus 15:15

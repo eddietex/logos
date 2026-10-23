@@ -51,6 +51,10 @@ Shan. The prophets address the pentapolis as a unit (Amos 1:6–8; Jeremiah 47; 
 Zechariah 9:5–6). And Amos makes the one theological use of them that matters: *"Haven't I brought up
 Israel out of the land of Egypt, and the Philistines from Caphtor?"* (9:7) — the same Caphtor
 Genesis 10:14 already names in the Table of Nations.
+**The Song gives the land its name.** *"Pangs have taken hold on the inhabitants of Philistia"*
+(*pəlāšet*, 15:14) — **the first time the land, rather than the people (*Pəlištîm*), is named in
+Scripture** (WLC lemma search, Genesis–Deuteronomy). **The first nation the Song imagines trembling is the
+one whose road God refused at 13:17.** See [[The Song of the Sea]].
 
 ## Appears in
 
@@ -63,6 +67,8 @@ Genesis 10:14 already names in the Table of Nations.
   the only place in Scripture where Philistines are shown as herdsmen quarrelling over water
 - [[The Crossing of the Sea]] — Exodus 13:17; **the near road God avoids**, *"Lest perhaps the people change
   their minds when they see war"*
+- [[The Song of the Sea]] — Exodus 15:14; **named as a land, and trembling.** *"Pangs have taken hold on the inhabitants of
+  Philistia"*
 
 ## Related places
 
@@ -89,3 +95,4 @@ Genesis 10:14 already names in the Table of Nations.
 - Denounced by the prophets — Amos 1:6–8; Jeremiah 47; Zephaniah 2:4–7; Zechariah 9:5–6
 - Brought up from Caphtor by the same God who brought Israel from Egypt — Amos 9:7
 - The coast road from Egypt not taken by Israel, for fear of war — Exodus 13:17
+- Its inhabitants sung as seized with pangs at the news of the sea — Exodus 15:14

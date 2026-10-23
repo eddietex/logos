@@ -16,6 +16,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
+| [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 |
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
 | [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |
@@ -81,6 +82,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Yahweh Visited Sarah - Paqad and the Visitations of God]] | thread | Genesis 21:1 · Genesis 50:24–25 · Exodus 3:16 · Exodus 4:31 · Ruth 1:6 · 1 Samuel 2:21 · Job 7:18 · Amos 3:2 · Luke 1:68, 78 · Luke 7:16 |
 | [[Yahweh Will Provide - Moriah and the Temple Mount]] | thread | Genesis 22:2, 8, 14 · 2 Chronicles 3:1 · Exodus 23:17 · Deuteronomy 16:16 · Genesis 14:18 · Psalm 76:2 |
 | [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |
+| [[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]] | quotation | Exodus 15:2 · Psalm 118:14, 28 · Isaiah 12:2 · Isaiah 11:16 |
 | [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] | thread | Job 10:8–13 · Job 9:12 · Genesis 2:7; 3:19 · Psalm 119:73 · Psalm 139:13–16 · Isaiah 29:16; 45:9–10; 64:8 · Jeremiah 18:1–6 · Romans 9:20–21 · Job 14:15; 31:15; 33:4, 6 · Ecclesiastes 11:5 · Ezekiel 37:6–8 · Job 23:8–10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
 | [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |

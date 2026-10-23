@@ -203,6 +203,10 @@ Genesis 1 sets four load-bearing claims:
   4:9; 14:16, 22, 29; 15:19); *ḥārābâ*, *dry ground*, only at Genesis 7:22 and Exodus 14:21; and the waters
   *"divided"* (*bāqaʿ*) as the deep *"burst open"* in the flood (Genesis 7:11) (WLC lemma search). Set out on
   [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]]
+- [[The Song of the Sea]] — Exodus 15:5, 8, 17; **the deep, the breath, the planting.** *Təhōmōt*, *"the deeps"*, the
+  plural of Genesis 1:2's *təhôm*; *"the blast (rûaḥ) of your nostrils"*; and *"plant them"* (*nāṭaʿ*), the
+  verb of *"Yahweh God planted a garden"* (Genesis 2:8) (WLC lemma search). **The God who planted a garden
+  will plant a people.**
 
 ## Related themes
 

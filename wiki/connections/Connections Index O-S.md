@@ -25,7 +25,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]] | literary-parallel | Job 20:29 · Job 27:13–23 · Job 21:7–18, 28 · Job 18:21 · Job 5:27 |
 | [[Possess the Gate of Those Who Hate Them]] | parallel | Genesis 22:17 · Genesis 24:60 · Ruth 4:11–12 |
 | [[The Priests Who Kept Their Land and the Levites Who Got None]] | parallel | Genesis 47:22, 26 · Numbers 18:20–24 · Numbers 35:1–8 · Deuteronomy 10:9; 18:1–2 · Joshua 13:14, 33 · Joshua 21 |
-| [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 7:1 · Exodus 8:8–13, 28–31 · Exodus 9:27–33 · Exodus 10:16–18 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
+| [[A Prophet Who Prays - The First Nabi in Scripture]] | thread | Genesis 20:7, 17 · Genesis 18:22–33 · Exodus 7:1 · Exodus 15:20 · Exodus 8:8–13, 28–31 · Exodus 9:27–33 · Exodus 10:16–18 · Exodus 32:11–14, 30–32 · Numbers 12:6–8; 14:13–20 · 1 Samuel 12:19, 23 · Jeremiah 7:16; 11:14; 14:11; 15:1 · Amos 7:1–6 · Ezekiel 22:30 · Job 42:7–9 · Romans 8:34 · Hebrews 7:25 · 1 John 2:1 |
 | [[The Prosperity of the Wicked]] | thread | Job 15:20–35 · Job 18:5–21 · Job 20:4–29 · Job 21:7–34 · Job 22:17–18 · Job 24:1–24 · Psalm 37 · Psalm 73 · Jeremiah 12:1–2 · Habakkuk 1:2–13 · Malachi 3:13–15 · Ecclesiastes 8:14 · Luke 16:19–31 · Job 11:20 · Job 12:6 · Job 21:13, 32 · Job 27:13–23 |
 | [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] | prophecy → fulfillment | Genesis 3:15 · Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · Revelation 12 |
 | [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |
@@ -40,7 +40,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |
 | [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 · Numbers 23:1 · 1 Chronicles 15:26 |
 | [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
-| [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Deuteronomy 26:5–9 · Genesis 31:25 |
+| [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Exodus 15:1, 20 · Deuteronomy 26:5–9 · Genesis 31:25 |
 | [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
 | [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |
@@ -58,6 +58,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Smoke from His Nostrils - Leviathan and the Theophany of Psalm 18]] | image | Job 41:18–21 · Psalm 18:7–8 · Job 41:10 · Job 3:9 · Job 37:2–5; 40:9 |
 | [[Smoking Furnace and Flaming Torch - Fire as Theophany]] | thread | Genesis 15:17 · Genesis 3:24 · Exodus 3:1–6 · Deuteronomy 33:16 · Exodus 13:21–22 · Exodus 19:16–18 · Leviticus 9:24 · 1 Kings 18:38 · 1 Kings 19:11–12 · Daniel 7:9–10 · Acts 2:3 · Hebrews 12:18–29 |
 | [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 40:23–41:1 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 · Genesis 45:5, 7, 8 |
+| [[The Song of Moses and the Lamb - Exodus 15 in Revelation 15]] | allusion | Exodus 14:31 · Exodus 15:1, 11, 18 · Revelation 15:1–4 · Genesis 31:27 |
 | [[The Sons of God and the Angels That Sinned]] | thread | Genesis 6:1–4 · Job 1:6 · Deuteronomy 32:8 · *1 Enoch* 6–16 · Jude 6 · 2 Peter 2:4 · Matthew 22:30 |
 | [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · Numbers 3:17–20 · Numbers 26:57–61 · 1 Chronicles 6 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |

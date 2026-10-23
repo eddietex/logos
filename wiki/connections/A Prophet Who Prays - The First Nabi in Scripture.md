@@ -166,3 +166,8 @@ told him what he did *"ought not to be done"*. Genesis is not interested in maki
 reward. **The prophet's usefulness in this book has nothing to do with his record**, which is the
 same point [[The Wife-Sister Episodes]] makes about the promise: the arrangement holds up its bearer
 rather than the other way round.
+
+**The first woman called a prophet does not pray or foretell; she sings.** *"Miriam the prophetess"*
+(*hannəbîʾâ*, Exodus 15:20) — the feminine's only use in the Torah (WLC lemma search) — leads the women with
+a tambourine and a one-line refrain (15:21). **Abraham's prophethood was shown in intercession; Miriam's, as
+first narrated, in praise.** See [[The Song of the Sea]] and [[Miriam]].

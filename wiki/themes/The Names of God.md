@@ -254,6 +254,10 @@ everlasting possession, by treaty with its current occupant.
   all the earth"* (quoted in Romans 9:17); the thunder as *qōlōt ʾĕlōhîm*, *voices of God*; *"the earth
   is Yahweh's"*; and ***YHWH ʾĕlōhîm***, *"Yahweh God"* (9:30), in the absolute form found elsewhere in
   Genesis and Exodus only in Genesis 2–3 (WLC)
+- [[The Song of the Sea]] — Exodus 15:2–3, 17; **Yah, and the name sung.** ***Yāh***, the short form, first occurs here (and in
+  the Torah only again at 17:16; WLC lemma search); *"Yahweh is his name"* (15:3) sings back 3:15;
+  *"my father's God"* (15:2) is the bush's *"God of your father"* (3:6); and *"the sanctuary, Lord
+  (ʾădōnāy)"* (15:17).
 
 ## Related themes
 

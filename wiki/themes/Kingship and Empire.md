@@ -205,6 +205,10 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   → officers (Israelite) → people, and the orders go down it as *kōh ʾāmar parʿōh*, *"This is what
   Pharaoh says"* (5:10) — **the messenger formula of 5:1, used for the other king.** Two sovereigns
   issue contradictory decrees in the same form
+- [[The Song of the Sea]] — Exodus 15:18; **Yahweh's reign, first.** *"Yahweh shall reign forever and ever"* — *mālak* with
+  Yahweh as subject for the first time in Scripture; in Genesis the verb belonged to Edom's kings (36:31)
+  and to the brothers' *"Will you indeed reign over us?"* (37:8) (WLC lemma search). **Pharaoh, called
+  *"king of Egypt"* in the prose (14:5, 8), is not called king anywhere in the Song.**
 
 ## Related themes
 

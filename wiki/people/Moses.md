@@ -261,11 +261,18 @@ with the first time he is called Yahweh's *servant***: *"they believed in Yahweh
 first rescue, *"Moses stood up and helped them"* (2:17; WLC). See [[The Crossing of the Sea]] and
 [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]].
 
+**Then he leads the first song in Scripture.** *"Then Moses and the children of Israel sang this song to
+Yahweh"* (15:1) — the verb *šîr* has no occurrence in Genesis (WLC lemma search). **He sings with the people,
+not to them**, and the Song's *"I"* is a crowd's (15:1–2). **He is not named inside the Song at all**: the
+hand stretched over the sea, which the prose gave to him (14:21, 27), the Song gives to God — *"You
+stretched out your right hand"* (15:12). **The servant believed in at 14:31 disappears into his own song.**
+His sister answers it with the refrain (15:20–21). See [[The Song of the Sea]] and [[Praise and Song]].
+
 ### What is ahead
 
-The song (15:1–21), the
-wilderness (15:22–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+The wilderness (15:22–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
+
 
 ## Timeline / key events
 
@@ -334,6 +341,8 @@ sections are written as their pericopes arrive.
 - Carries Joseph's bones; told *"Why do you cry to me?"*; answers the people's terror with *"Stand still, and
   see the salvation of Yahweh"*; stretches out his hand over the sea twice; believed in as Yahweh's
   *"servant"* — Exodus 13:19–14:31, [[The Crossing of the Sea]]
+- Leads Israel in the Song of the Sea; unnamed inside it, his stretched hand sung as God's right hand —
+  Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
 
@@ -387,6 +396,8 @@ sections are written as their pericopes arrive.
 - [[The Crossing of the Sea]] — Exodus 13:19–14:31; **the servant believed in.** *"Moses took the bones of
   Joseph"*; *"Stand still, and see the salvation of Yahweh"*; *"Why do you cry to me?"*; *"Moses stretched
   out his hand over the sea"*; *"his servant Moses"*
+- [[The Song of the Sea]] — Exodus 15:1; **the singer.** *"Then Moses and the children of Israel sang this
+  song to Yahweh"*; not named in the Song itself
 
 ## Related people
 

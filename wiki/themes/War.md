@@ -116,6 +116,10 @@ what is withheld, which is Genesis's habit with its patriarchs.
   verb of 23:27's promise, *"I will … confuse all the people to whom you come"* (WLC). Deuteronomy builds on
   14:14: *"he will fight for you, according to all that he did for you in Egypt"* (1:30, WEB; *not yet
   ingested*)
+- [[The Song of the Sea]] — Exodus 15:3, 9; **the warrior named.** *"Yahweh is a man of war. Yahweh is his name"* — the
+  *milḥāmâ* of Pharaoh's fear (1:10) and of the road God avoided (13:17) becomes a title. The enemy's six
+  first-person verbs — *"I will pursue. I will overtake. I will divide the plunder … I will draw my sword"*
+  (15:9) — are answered by one breath (15:10).
 
 ## Related themes
 

@@ -105,6 +105,10 @@ idolatry of the heart is denial of God**, and it is the very thing the accuser p
   faces [[Baal Zephon]], a place named for a Baal, on the night Yahweh *"gets honor"* over Pharaoh (14:4,
   17–18). **The text draws no line between the name and the judgment *"against all the gods of Egypt"*
   (12:12)**; the wiki notes the juxtaposition and adopts no reading
+- [[The Song of the Sea]] — Exodus 15:11; **the incomparable.** *"Who is like you, Yahweh, among the gods?"* answers
+  *"against all the gods of Egypt I will execute judgments"* (12:12). **The Song does not deny the gods; it
+  denies they are like him.** The dances (*məḥōlōt*) of 15:20 recur in the Torah only at the calf (32:19;
+  WLC).
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

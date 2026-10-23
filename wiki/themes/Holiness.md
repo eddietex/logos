@@ -63,6 +63,9 @@ Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be hol
   **the piel of *qādaš* for the first time since God *"made"* the seventh day *"holy"*** (Genesis 2:3; WLC
   lemma search, Genesis–Exodus). **The first holy thing Israel is told to make holy is a class of persons
   and animals**, defined by birth order and claimed with *"It is mine"*
+- [[The Song of the Sea]] — Exodus 15:11, 13, 17; **holiness sung.** *"Glorious in holiness"*; *"your holy habitation"*;
+  and ***miqdāš***, *"the sanctuary"*, its first occurrence in Scripture, ten chapters before *"Let them make
+  me a sanctuary"* (25:8; WLC lemma search). **The holy place is praised before it is built.**
 
 ## Related themes
 

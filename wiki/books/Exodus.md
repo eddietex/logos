@@ -182,7 +182,14 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   Genesis 1:9 — the waters stand *"a wall to them on their right hand, and on their left"*, and the army that
   follows is covered: *"There remained not so much as one of them"* (14:28). **The prose ends on the book's
   root**: *"they believed in Yahweh, and in his servant Moses"* (14:31). See [[The Crossing of the Sea]].
-  Then the song.
+  **Then the first song in Scripture** — *"Then Moses and the children of Israel sang"* (15:1), the verb
+  *šîr* absent from Genesis (WLC). It sings the sea with God's own hand and breath where the prose had
+  Moses' hand and an east wind (15:6–12); names Yahweh *"a man of war"* and asks *"Who is like you, Yahweh,
+  among the gods?"* (15:3, 11); and then sings ahead — the nations melting, Israel *"redeemed"* and
+  *"purchased"*, *"planted"* on *"the mountain of your inheritance"* by a *"sanctuary"* (the word's first
+  occurrence), and ***"Yahweh shall reign forever and ever"*** (15:13–18). **Miriam, named here for the
+  first time and called *"the prophetess"*, answers with the refrain** (15:20–21). See
+  [[The Song of the Sea]].
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
@@ -236,7 +243,7 @@ for unit.
 - [x] [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51
 - [x] [[The Consecration of the Firstborn]] — Exodus 13:1–16
 - [x] [[The Crossing of the Sea]] — Exodus 13:17–14:31
-- [ ] The Song of the Sea — Exodus 15:1–21
+- [x] [[The Song of the Sea]] — Exodus 15:1–21
 
 ### To the mountain (15:22–18)
 
@@ -338,6 +345,8 @@ for unit.
 - [[Idolatry]]
 - [[Integrity]]
 - [[The Nations]]
+- [[Praise and Song]]
+- [[Redemption]]
 
 ## Key people
 
@@ -348,7 +357,8 @@ for unit.
 - [[Shiphrah and Puah]] — the Hebrew midwives
 - [[Moses]] — drawn out of the river, and named for what he will do
 - [[Jochebed]] and [[Amram]] — his Levite parents, unnamed until 6:20
-- [[Miriam]] — his sister, who watches from far off
+- [[Miriam]] — his sister, who watches from far off, and *"the prophetess"* who leads the women's song at
+  the sea
 - [[Pharaoh's Daughter (of Moses' time)]] — who spares, adopts, and names him
 - [[Jethro]] — the priest of Midian, called Reuel at 2:18, who takes the fugitive in
 - [[Zipporah]] — his daughter, Moses' wife

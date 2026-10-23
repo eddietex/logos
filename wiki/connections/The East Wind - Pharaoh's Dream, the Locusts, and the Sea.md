@@ -16,6 +16,8 @@ tags: [connection]
   drove them into the Red Sea"* — [[Locusts and Darkness]]
 - **Exodus 14:21** — *"Yahweh caused the sea to go back by a strong east wind all night, and made the
   sea dry land"* — [[The Crossing of the Sea]]
+- **Exodus 15:8, 10** — *"With the blast (rûaḥ) of your nostrils, the waters were piled up"*; *"You
+  blew with your wind (rûaḥ). The sea covered them"* — [[The Song of the Sea]]
 
 ## Analysis
 
@@ -73,3 +75,8 @@ was morning"* — not the mechanism. The wiki records the question and does not 
   and the sea becomes *ḥārābâ*, *dry ground* — the word's only other Torah use is the flood's *"All on the dry
   land … died"* (Genesis 7:22; WLC lemma search). See
   [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
+
+**The Song names whose wind it was.** The prose said *"Yahweh caused the sea to go back by a strong east
+wind"* (14:21); the Song drops *east* and makes the *rûaḥ* God's own — *"the blast of your nostrils"* and
+*"your wind"* (15:8, 10; WLC). ***ʾAp*, *nostril*, is also the Hebrew word for *anger*** (4:14; WLC): the
+wind that dried the sea is sung as the breath of God's anger. See [[The Song of the Sea]].

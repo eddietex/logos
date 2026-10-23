@@ -276,6 +276,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   *"They were very afraid"* (*wayyîrəʾû*, 14:10) of the chariots; Moses' *"Don't be afraid"* (*ʾal-tîrāʾû*,
   14:13); *"the people feared (wayyîrəʾû) Yahweh"* (14:31) (WLC). **The fear changes object without changing
   word**
+- [[The Song of the Sea]] — Exodus 15:11, 14–16; **fear in praise, and terror on the nations.** God is *"fearful in
+  praises"* (*nôrāʾ*, Jacob's word at Bethel, Genesis 28:17); *"Terror (ʾêmâ) and dread (paḥad) falls on"*
+  the nations — *ʾêmâ* falling as on Abram (Genesis 15:12), *paḥad* the word of *"the fear of Isaac"*
+  (31:42, 53) (WLC). See [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
 
 ## Related themes
 

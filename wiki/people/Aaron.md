@@ -122,9 +122,15 @@ for Moses and Aaron by night"* (12:31), and the second Passover law — who may 
 and Aaron"* (12:43) and obeyed *"as Yahweh commanded Moses and Aaron"* (12:50). **He says nothing in the
 pericope.** See [[The Death of the Firstborn and the Departure]].
 
+**At the sea he is not mentioned, and in the Song he is only a sister's brother.** Exodus 13–14 does not
+name him. **The Song introduces *"Miriam the prophetess, the sister of Aaron"*** (15:20) — the only time
+Aaron appears in the pericope, and not as an actor. **Why she is named by Aaron and not by Moses** the text
+does not say; Aaron is the elder (7:7), and Numbers 12 will set Miriam and Aaron together against Moses
+(reported, not decided). See [[The Song of the Sea]].
+
 ### What is ahead
 
-The consecration of the firstborn and the sea (13–15); Sinai, where he goes up with the elders (24); the priestly
+Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -157,6 +163,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   28, [[The Passover]]
 - Summoned with Moses by night; addressed with him in the ordinance of the Passover; named in the formula
   of obedience — Exodus 12:31, 43, 50, [[The Death of the Firstborn and the Departure]]
+- Named only as Miriam's brother at the sea — Exodus 15:20, [[The Song of the Sea]]
 
 ## Appears in
 
@@ -188,6 +195,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   land of Egypt"*; a rite with no priest
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:31, 43, 50; **summoned and addressed, silent.** *"He called for Moses and Aaron
   by night"*; *"Yahweh said to Moses and Aaron, 'This is the ordinance of the Passover'"*
+- [[The Song of the Sea]] — Exodus 15:20; **named, not present.** *"Miriam the prophetess, the sister of
+  Aaron"*
 
 ## Related people
 

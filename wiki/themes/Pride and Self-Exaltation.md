@@ -140,6 +140,10 @@ reading that the text supports, is located in what the building was *for*.
   15:13; Exodus 1:11–12, WLC). **The king who *"still exalts himself"* (9:17) and afflicted Israel is
   asked to be afflicted, humbled, himself.** He answers with a taunt, *"Yahweh be with you if I will let
   you go"* (10:10), and finally with *"see my face no more"* (10:28)
+- [[The Song of the Sea]] — Exodus 15:1, 7, 9; **height belongs to one.** *"He has triumphed gloriously"* — *gāʾōh gāʾâ*,
+  *risen high*, and *"the greatness of your excellency (gāʾôn)"*, both only here in the Torah (WLC lemma
+  search); the root is later often used of human pride (reported, not checked). **Against it, the enemy's
+  boast in six first-person verbs** (15:9), and *"they sank like lead"* (15:10).
 
 ## Related themes
 

@@ -10,8 +10,8 @@ tags: [connection]
 - **Genesis 41:7, 24** — *"The thin heads of grain swallowed up the seven healthy and full ears"* —
   [[Pharaoh's Dreams and Joseph's Rise]]
 - **Exodus 7:12** — *"Aaron's rod swallowed up their rods"* — [[Aaron's Staff Before Pharaoh]]
-- **Exodus 15:12** — *"You stretched out your right hand. The earth swallowed them."* (not yet
-  ingested)
+- **Exodus 15:12** — *"You stretched out your right hand. The earth swallowed them."* —
+  [[The Song of the Sea]]
 - **Hebrews 11:29** — *"When the Egyptians tried to do so, they were swallowed up"* (WEB) —
   [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] *(not yet ingested)*
 - **Numbers 16:30–34; 26:10** — the earth swallows Korah's company: *"The earth opened its mouth and

@@ -135,6 +135,9 @@ implied and never stated: *"We love him, because he first loved us."* 1 Corinthi
   — **and argues that this is the reason the boy cannot be lost.** **Genesis passes no judgement on
   the love, only records what it costs each time.** See
   [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]]
+- [[The Song of the Sea]] — Exodus 15:13; **the first *ḥesed* in Exodus.** *"You, in your loving kindness, have led the
+  people that you have redeemed"* — after eleven verses in Genesis (WLC lemma search), the word returns as
+  the reason for the exodus, ahead of the commandments (20:6) and the name at Sinai (34:6–7).
 
 ## Related themes
 
