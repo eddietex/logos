@@ -271,7 +271,11 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   murder; sanctions for attacking or cursing parents and for kidnapping; healing costs for an
   injured neighbor; matching injury; release for a servant's lost eye or tooth; and liability
   for dangerous bulls and uncovered pits. Protection of servants coexists with ownership and
-  unequal remedies (21:20–21, 32). See [[Laws of Violence and Injury]].
+  unequal remedies (21:20–21, 32). See [[Laws of Violence and Injury]]. **Property follows**
+  (22:1–15): theft repaid double, or four and five times when the animal is gone; no bloodguilt for
+  a thief killed breaking in, but guilt once the sun has risen; grazing and fire damage made good; and deposits,
+  kept animals, and loans settled by an oath, a hearing *"before God"*, or the keeper's evidence.
+  See [[Laws of Property and Restitution]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -338,7 +342,7 @@ for unit.
 - [x] [[The Ten Commandments]] — Exodus 20:1–21
 - [x] [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 - [x] [[Laws of Violence and Injury]] — Exodus 21:12–36
-- [ ] Laws of Property and Restitution — Exodus 22:1–15
+- [x] [[Laws of Property and Restitution]] — Exodus 22:1–15
 - [ ] Laws of Holiness and Compassion — Exodus 22:16–31
 - [ ] Justice, Sabbaths, and Feasts — Exodus 23:1–19
 - [ ] The Angel Sent Ahead — Exodus 23:20–33

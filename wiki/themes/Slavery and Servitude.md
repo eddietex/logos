@@ -134,6 +134,12 @@ The WEB says *"gets up after a day or two"* in 21:21; the page does not substitu
 claim about subsequent death. Nor does *"punished"* in 21:20 by itself specify execution.
 See [[Kidnapping and Sale - Joseph and the Law of Exodus 21]].
 See [[Laws of Violence and Injury]].
+### Sold for his theft — Exodus 22:3
+
+A thief who cannot make restitution *"shall be sold for his theft"* (22:3). Servitude here is a
+way of paying a debt to the person robbed. The text does not say whether 21:2's six-year limit
+applies to such a sale.
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -370,8 +376,10 @@ See [[Laws of Violence and Injury]].
   and protects a daughter sold as a female servant
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:3; a thief who cannot pay is sold for his theft
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Land and Sojourning]] — the other half of Israel's self-description: strangers and slaves
 - [[Judgment]] — the exodus is a judgment on a nation for holding slaves

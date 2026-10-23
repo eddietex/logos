@@ -146,6 +146,8 @@ from a danger the owner knew about (21:33–36).
   [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 - Exodus 20:24–26; 21:1–11 — the altar and household servitude just legislated:
   [[The Altar and the Hebrew Slave]].
+- Exodus 22:1–15 — the next unit moves from the bull and the pit to theft, damage, and deposits,
+  and replaces the matching scale with multiplied repayment: [[Laws of Property and Restitution]].
 
 ## Notes
 

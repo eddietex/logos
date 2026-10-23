@@ -93,6 +93,13 @@ with that scope.
 - **1 John 1:7; Revelation 1:5; 5:9; 7:14; 12:11** — blood as what cleanses, purchases, and
   overcomes; and **Revelation 6:9–10**, where the souls under the altar are still asking the
   question Abel's blood asked.
+### Guilt of bloodshed — Exodus 22:2–3
+
+The WEB's *"guilt of bloodshed"* renders the plural *dāmîm*, *bloods* (MAM, 22:1–2 Hebrew): *ʾên
+lô dāmîm* for a thief killed while breaking in, and *dāmîm lô* once the sun has risen on him
+(22:2–3). Blood here is a legal status — whether a death is counted against the one who caused
+it — and the same killing can carry it or not depending on the hour. See
+[[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -126,8 +133,10 @@ with that scope.
   will pass over you"*. Like the bow (Genesis 9:16), a sign God reads; unlike the bow, one the people
   must put up. Hebrews 11:28 calls it *"the sprinkling of the blood"* —
   [[Christ Our Passover - Exodus 12 in the New Testament]]
+- [[Laws of Property and Restitution]] — Exodus 22:2–3; *"guilt of bloodshed"* depending on the hour
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Life and Death]] — what blood is the visible form of, and what its spilling takes
 - [[Sacrifice and Offering]] — the altar, which is the one place blood may go

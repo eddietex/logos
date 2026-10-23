@@ -16,6 +16,9 @@ tags: [connection]
 - **Judges 11:30–40** — Jephthah's vow, the other Old Testament oath that binds a speaker to a person
   he did not have in mind
 - **1 Samuel 14:24–45** — Saul's oath, and Jonathan eating the honey
+- **Exodus 22:3–4** — [[Laws of Property and Restitution]]; the later law for a stolen thing
+  *"found in his hand"*: double repayment, and sale only if the thief cannot pay. Far lighter than
+  either oath here. See [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]]
 - **Leviticus 5:4; Ecclesiastes 5:2–6; Matthew 5:34–37** — the law and the counsel on rash speech
 
 ## Analysis

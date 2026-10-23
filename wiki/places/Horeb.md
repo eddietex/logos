@@ -80,6 +80,8 @@ is for *"every place where I record my name"* (20:24), not for the mountain itse
 **The injury laws continue the Sinai address without naming another location** (21:12–36).
 The promised place of flight in 21:13 is not identified with this mountain, and the altar of
 21:14 does not create an exemption for a planned killing. See [[Laws of Violence and Injury]].
+**The property laws continue the Sinai address with no place named** (22:1–15). Coming *"near to
+God"* in 22:8 does not identify a location. See [[Laws of Property and Restitution]].
 
 ## Appears in
 
@@ -106,6 +108,7 @@ The promised place of flight in 21:13 is not identified with this mountain, and 
   law and the first ordinances given to Moses at the darkness
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; setting by context, with no named place in the unit
+- [[Laws of Property and Restitution]] — Exodus 22:1–15; setting by context, with no named place in the unit
 
 ## Related places
 
@@ -130,3 +133,4 @@ The promised place of flight in 21:13 is not identified with this mountain, and 
 - [[The Altar and the Hebrew Slave]] — the altar law and the first ordinances (20:22–21:11)
 
 - [[Laws of Violence and Injury]] — the ordinances on violence, injury, and negligence (21:12–36)
+- [[Laws of Property and Restitution]] — the ordinances on theft, deposit, and restitution (22:1–15)

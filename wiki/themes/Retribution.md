@@ -105,6 +105,15 @@ surrounding remedies include lost time and healing costs, freedom for an injured
 payments for damage. The pregnant bystander is injured by other people's fight (21:22): the case
 itself gives no ground for treating her suffering as deserved.
 See [[Laws of Violence and Injury]].
+### Multiplied repayment — Exodus 22:1–9
+
+The matching scale of 21:23–25 is followed by a different principle for theft: repayment of
+more than was taken. Double for an animal found alive or a deposit stolen (22:4, 7), four or five
+times for an animal slaughtered or sold (22:1), and double from anyone *"God condemns"* in a
+disputed claim (22:9) — so a false accusation of theft costs what the theft would have. See
+[[Theft and Restitution]] and
+[[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]].
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -336,8 +345,10 @@ See [[Laws of Violence and Injury]].
   not yield an infallible diagnosis
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:1–9; multiplied repayment for theft and false claims
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Suffering]] — what the doctrine claims to explain
 - [[Judgment]] — retribution is a theory about when and how judgment is executed

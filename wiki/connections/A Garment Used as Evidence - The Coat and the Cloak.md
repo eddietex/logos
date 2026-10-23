@@ -16,7 +16,9 @@ tags: [connection]
 - **Genesis 27:15–16, 27** — Esau's clothes and the goatskins on Jacob's hands, worn to deceive a blind
   father — [[The Stolen Blessing]]
 - **Exodus 22:13** — *"if it is torn in pieces, let him bring it for evidence"*: the herdsman's defence,
-  which is a garment-as-proof rule in all but name
+  which is a garment-as-proof rule in all but name — [[Laws of Property and Restitution]]. The noun
+  the WEB renders *evidence* is *ʿēd*, *witness* (MAM, Hebrew 22:12), and *ṭārōp yiṭṭārēp* uses the
+  root of Jacob's *ṭārōp ṭōrap* over the coat (Genesis 37:33)
 - **2 Samuel 13:18–19** — Tamar's *kətōnet passîm*, torn by the woman wearing it
 - **Genesis 44:1–13** — [[The Silver Cup and Judah's Plea]]; **the planted object without a garment**:
   a silver *gābîaʿ* put into [[Benjamin]]'s sack and produced as proof of a theft that did not happen.

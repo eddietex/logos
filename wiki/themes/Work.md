@@ -71,6 +71,15 @@ Six days of labor stand beside a seventh day on which work ceases for everyone u
 authority (20:9–10). The prohibition reaches the use of servants and animals as well as the hearer's
 own hands. Grounded in God's work and rest (20:11), the command places a recurring limit on the
 power to extract labor. See [[The Ten Commandments]].
+### The keeper's liability — Exodus 22:7–15
+
+Keeping a neighbor's animal is treated as a duty with limits. The keeper swears an oath for an
+unwitnessed loss, repays a theft, and brings the carcass of a torn animal as evidence and pays
+nothing (22:10–13). The WEB's *"his neighbor's goods"* (22:8, 11) renders *məlʾeket rēʿēhû*,
+using the noun for God's *"work"* in Genesis 2:2 and the Sabbath *"work"* of 20:9–10 (MAM). Jacob
+says he bore the loss this law exempts (Genesis 31:39). See
+[[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]].
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -194,8 +203,10 @@ power to extract labor. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:9–11; the workweek is bounded by rest for dependents as well
   as the household head
+- [[Laws of Property and Restitution]] — Exodus 22:10–15; a keeper's liability limited to what he could prevent
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Famine and Plenty]] — the forecast the labour of Genesis 41 exists to answer
 - [[Sabbath]] — the rest that defines and limits work

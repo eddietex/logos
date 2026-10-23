@@ -664,6 +664,9 @@ himself."***
 - [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] — **the bereavement Jacob agreed to in
   advance at 43:14 is the thing Judah spends seventeen verses preventing**, and he does it by
   describing it
+- [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] — **Exodus 22:3–4.** The
+  *"found in his hand"* of 44:16–17 is the theft law's phrase; the law asks double repayment, and
+  sale only for a thief who cannot pay. See [[Laws of Property and Restitution]]
 
 ## Notes
 

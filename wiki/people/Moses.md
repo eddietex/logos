@@ -368,6 +368,12 @@ injury, and negligent ownership. His role is inferred from the ongoing speech; h
 21:12–36 and does not adjudicate a narrated case here. His judicial work in Exodus 18 now has
 concrete cases specifying different remedies.
 See [[Laws of Violence and Injury]].
+### Property and restitution — Exodus 22:1–15
+
+Moses continues receiving the ordinances (21:1), now on theft, damage, deposits, loans, and hire.
+He is not named in 22:1–15. The cases give him and the judges of Exodus 18 a procedure for disputes
+that have no witness: an oath, or a hearing *"before God"* (22:8–11). See
+[[Laws of Property and Restitution]].
 
 ## Timeline / key events
 
@@ -460,6 +466,7 @@ See [[Laws of Violence and Injury]].
   20:22–21:11; [[The Altar and the Hebrew Slave]]
 
 - The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
+- The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
 
 ## Appears in
 
@@ -535,6 +542,7 @@ See [[Laws of Violence and Injury]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
+- [[Laws of Property and Restitution]] — Exodus 22:1–15; the continuing divine address to Moses
 
 ## Related people
 

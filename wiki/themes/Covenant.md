@@ -171,6 +171,12 @@ of animals and pits (21:12–36). Relation to God at the altar cannot exempt a s
 judgment (21:14). This joins worship and responsibility for neighbors within the same continuing
 speech. It remains legislation awaiting the ratification narrated in Exodus 24.
 See [[Laws of Violence and Injury]].
+### Property, deposit, and restitution — Exodus 22:1–15
+
+The covenant's ordinances continue with property held, lent, kept, and stolen among neighbors
+(22:1–15). The word *neighbor* recurs through the unit (22:7–14): the covenant community is a set
+of people who hold one another's goods in trust, with disputes brought *"before God"* (22:9).
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -360,8 +366,10 @@ See [[Laws of Violence and Injury]].
   provisions of what 24:7 calls the book of the covenant
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:1–15; neighbors holding, lending, and stealing one another's goods
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Judgment]] — what the first covenant is spoken inside of
 - [[Favor and Grace]] — the covenant of 6:18 is offered to a man who was given favor before he was

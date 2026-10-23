@@ -90,6 +90,14 @@ The command against taking Yahweh's name in vain makes misuse accountable to God
 swearing is one relevant application, but Exodus 20:7 neither narrates an oath nor exhaustively
 defines the command in terms of oath taking. Its place here is the protection of the divine name
 that earlier covenant oaths invoked. See [[The Ten Commandments]].
+### The oath of Yahweh — Exodus 22:10–11
+
+The first oath in the Sinai ordinances is a procedure for a case with *"no man seeing it"*: an
+animal in a neighbor's keeping dies, is injured, or is driven away, and *"the oath of Yahweh shall
+be between them both"* (22:10–11; *šəbuʿat YHWH*, MAM). The owner *"shall accept it"*, and no
+restitution follows. **The oath stands in for the missing witness**, invoking the divine name the
+third commandment protects (20:7).
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -227,8 +235,10 @@ that earlier covenant oaths invoked. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:7; misuse of the divine name incurs guilt; false swearing is
   an application
+- [[Laws of Property and Restitution]] — Exodus 22:10–11; *"the oath of Yahweh"* in place of a witness
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22
   discharged, and nobody in the text says so.** God sends him back a second time (31:13 was the
   first), and Jacob sets a pillar on the ground the vow promised would be *"God's house"*, pours oil

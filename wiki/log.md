@@ -13455,3 +13455,76 @@ the comparisons are verified, not quotations from memory. No raw file was added 
 remain the expected baseline. Each category content page has exactly one index row; subindex
 filing ranges were checked, and new page titles are unique. No schema, skill, harness, or
 controller files were changed. No unresolved operational issue.
+
+## [2026-10-23] ingest | Exodus 22.1-15 — Laws of Property and Restitution
+
+Ingested [[Laws of Property and Restitution]] in one unattended invocation of the canonical ingest
+skill, executed by Claude Code. The planned boundary is kept: theft opens the unit at 22:1, hire
+closes it at 22:15, and the seduction case at 22:16 begins the next unit with sorcery, idolatry,
+and the vulnerable. The passage page carries the discussion: multiplied restitution after the
+matching scale of 21:23–25, the night thief and the sunrise clause, damage without dishonesty,
+deposits and disputes *"before God"*, the oath of Yahweh, and the keeper's limited liability.
+
+### Decisions and tensions
+
+- **New theme [[Theft and Restitution]].** Theft has recurred since Genesis 30–31 (*gānab* in
+  30:33; 31:19, 20, 30, 39; 40:15; 44:8) with no theme page; this is the first unit written about
+  it. No new person or place pages: the parties are unnamed, [[Horeb]] is the setting by context.
+- **Verse numbering recorded:** WEB 22:1 is Masoretic 21:37, so WEB 22:2–15 are Hebrew 22:1–14.
+  The wiki uses the WEB's numbering; Hebrew citations give the Hebrew verse where it differs.
+- **Translation divide left open at the point of the claim:** WEB *"God"* and KJV *"the judges"*
+  at 22:8–9. The plural verb *yaršîʿun* in 22:9 is verified; the page says that it does not by
+  itself settle the referent. [[God]], [[Judgment]], and the passage page all carry both readings.
+- **Interpretation marked as interpretation:** the reason for the sunrise distinction, the reasons
+  for the fivefold and fourfold rates, and the meaning of *"it came for its lease"* (22:15) are
+  recorded as readings, not stated by the text. The derivation of *maḥteret* from a verb *dig* is
+  the one lexical claim not verified, and it is marked as such on the page.
+- **Existing connection qualified:**
+  [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] made claims about the
+  Hebrew of Genesis 31:39 and about Mesopotamian herding law. The shared noun *ṭərēpâ* is now
+  verified; a note added to the page says the Mesopotamian and *ḥāṭāʾ*-piel claims remain
+  unverified. Nothing else on the page was changed.
+- **Fourfold Restitution:** the common claim that Leviticus 6:1–5 and Numbers 5:6–7 require the
+  principal plus a fifth was not fetched and is marked unverified on the page.
+- **Found in His Hand:** the shared *māṣāʾ … bəyādô* of Genesis 44:16–17 and Exodus 22:4 is
+  verified in Hebrew. The page describes it as a shared procedure, not a shared tariff, because
+  Genesis is before Sinai and Joseph does not apply the Torah's rule.
+- **The Thief Breaking In:** the shared *"master of the house"* is noted as an agreement in the
+  English only. Matthew's Greek was not checked, and no allusion is claimed.
+
+### Sources
+
+Exodus 22:1–15 read from `raw/bible/Exodus.md`; all fifteen key verses generated mechanically
+from it, with wrapping only. Quoted fragments on the new pages were checked mechanically against
+the raw files and the fetched texts. Local comparisons: Genesis 2:2; 30:33; 31:19–20, 30–44;
+37:31–33; 40:15; 44:8–17; Exodus 20:9–10, 15–17; 21:2, 6, 12–16, 23–25, 33–36. Fetched
+individually from `bible-api.com` with `translation=web` on 2026-10-23: 2 Samuel 12:5–6, Luke
+19:8, Matthew 24:43, Proverbs 6:30–31, John 10:10; Exodus 22:1–9 with `translation=kjv`. Hebrew
+checked in the *Miqra according to the Masorah* edition through the Sefaria API on 2026-10-23:
+Exodus 20:9–10, 20:13, 21:37–22:14 (Hebrew numbering); Genesis 2:2, 30:33, 31:19, 31:20, 31:39,
+31:44, 37:33, 40:15, 44:8, 44:16–17. No raw file was added or changed.
+
+### Pages created or revised
+
+- **Created (5):** the passage; one theme, [[Theft and Restitution]]; three connections:
+  [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]],
+  [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]], and
+  [[The Thief Breaking In - Exodus 22 and Matthew 24]].
+- **Existing content pages revised (23):** [[Exodus]]; two people ([[God]], [[Moses]]); one place
+  ([[Horeb]]); twelve themes ([[Law and Obedience]], [[Covenant]], [[Wealth and Possessions]],
+  [[Judgment]], [[Oaths and Vows]], [[Life and Death]], [[Blood]], [[Slavery and Servitude]],
+  [[Retribution]], [[Work]], [[Integrity]], [[Light and Darkness]]); three existing connections
+  ([[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]],
+  [[A Garment Used as Evidence - The Coat and the Cloak]], and
+  [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]]); four earlier passages
+  ([[Laws of Violence and Injury]], [[The Ten Commandments]], [[Jacob's Flight from Laban]], and
+  [[The Silver Cup and Judah's Plea]]).
+- **Bookkeeping revised (8):** the book and top-level indexes; people F–M, places, and themes;
+  connection subindexes D–H and T–Z; and this log. The new connections file under F (two) and T,
+  the last ignoring the initial *The*. Connection subindex sizes are 58, 74, 65, 59, and 80; T–Z
+  is the largest but not yet half again the others, so no range change.
+- **Totals by frontmatter type:** 120 passages, 169 people, 90 places, 78 themes, 336 connections;
+  3 books started, 2 complete. Exodus is **29 / 53**. Exactly one queue box advanced.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
+remain the expected baseline. No schema, skill, harness, or controller files were changed.

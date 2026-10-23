@@ -100,6 +100,13 @@ complete — *"you shall therefore be perfect, as your Father in heaven is perfe
 which is the Septuagint's word for *tāmîm* and which means *finished, brought to its end*, not
 *flawless*. **James 1:4's *"that you may be perfect and complete, lacking in nothing"* stands at the
 end of a sentence about the testing of faith**, which is where Job's *tummâ* started.
+### An oath for what no one saw — Exodus 22:7–13
+
+The deposit and keeping cases depend on a person's honesty where nobody else can check it: the
+question is *"if he hasn't put his hand to his neighbor's goods"* (22:8, 11), and the answer is
+his oath. Where evidence exists, he must bring it (22:13). The law treats an honest keeper as
+blameless for losses he could not prevent.
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -195,8 +202,10 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
   Exodus (next at 34:6, *"abundant in loving kindness and truth"*), and *beṣaʿ*, whose only earlier Torah use is
   Judah's *"What profit is it if we kill our brother?"* (Genesis 37:26) (WLC). **The judge must hate the thing
   that sold Joseph**
+- [[Laws of Property and Restitution]] — Exodus 22:7–13; honesty sworn where there is no witness
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Righteousness]] — the neighbouring word, and the one that sits beside it at Genesis 6:9 and Job
   1:1. **Righteousness is a verdict about conduct; integrity is a verdict about consistency**, and

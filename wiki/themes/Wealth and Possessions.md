@@ -114,6 +114,15 @@ limits of a property account: the servant is called property (21:21), and the th
 a servant killed by a bull go to the master (21:32). That sum is a compensation provision, not
 proof of a universal market price for human beings.
 See [[Laws of Violence and Injury]].
+### Theft, deposit, and loan — Exodus 22:1–15
+
+After the pit and the bull, ownership is treated through theft, damage, and holding goods for
+someone else. A thief repays double, or four or five times; grazing and fire damage is made good,
+from *"the best"* of one's own field (22:5); a deposit or kept animal lost without fault costs
+the keeper nothing, while a borrower pays for loss in the owner's absence (22:7–15). See
+[[Theft and Restitution]] and
+[[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]].
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -277,8 +286,10 @@ See [[Laws of Violence and Injury]].
 - [[The Ten Commandments]] — Exodus 20:15, 17; theft and acquisitive desire are both prohibited
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:1–15; theft, damage, deposit, loan, and hire
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Famine and Plenty]] — where the grain goes, and what a nation eventually pays for it
 - [[Blessing]] — what the inventories are offered as evidence of

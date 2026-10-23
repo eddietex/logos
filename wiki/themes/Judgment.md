@@ -189,6 +189,13 @@ change his liability (21:28–30). Judges also constrain the husband's claim aft
 pregnant woman (21:22). The ordinances require distinctions between cases, rather than treating
 the mere occurrence of harm as proof of the same guilt in everyone involved.
 See [[Laws of Violence and Injury]].
+### Before God — Exodus 22:8–11
+
+A disputed claim with no witness goes *"before God"*, and *"He whom God condemns shall pay double"*
+(22:9). The KJV reads *"the judges"* here, and the Hebrew verb for *condemns* is plural (MAM). The
+wiki records both readings and does not choose between a sanctuary procedure and a human court.
+A keeper's case without a witness is settled by *"the oath of Yahweh"* (22:11).
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -425,8 +432,10 @@ See [[Laws of Violence and Injury]].
   misuse of the name
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:8–11; disputed claims *"before God"*, and the oath where no one saw
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Covenant]] — what God binds himself with, first spoken inside a sentence of universal death
 - [[Righteousness]] — the standing that determines which side of a judgment someone is on, and which

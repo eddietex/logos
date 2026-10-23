@@ -131,6 +131,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–17: the homicide cases distinguish intention, and attacking
   or cursing parents and kidnapping receive capital sanctions.
+- [[Laws of Property and Restitution]] — Exodus 22:1–15: *"You shall not steal"* (20:15) given cases
+  and remedies; a false claim settled *"before God"* costs what the theft would have (22:9).
 
 ## Notes
 

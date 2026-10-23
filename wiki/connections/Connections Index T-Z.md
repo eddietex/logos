@@ -21,6 +21,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
 | [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |
+| [[The Thief Breaking In - Exodus 22 and Matthew 24]] | image | Exodus 22:2–3, 7–8 · Matthew 24:43 · John 10:10 |
 | [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 · Genesis 45:9 |
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |
 | [[Though He Slay Me - The Written and the Read Text of Job 13.15]] | textual-problem | Job 13:13–16 · Job 6:11 · Job 9:33 · Psalm 100:3 · Isaiah 9:3 · Isaiah 63:9 |
@@ -70,7 +71,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]] | thread | Job 38:39–41 · Job 10:16 · Job 19:7 · Job 30:20 · Psalm 104:21, 27–28 · Psalm 147:9 · Matthew 6:26 · Luke 12:6–7, 24 |
 | [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] | allusion | Job 13:18–19, 28 · Job 9:2–3, 33 · Job 23:3–7 · Job 40:2 · Isaiah 50:7–9 · Isaiah 51:8 · Romans 8:31–34 |
 | [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 · Exodus 21:12–36 |
-| [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
+| [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Exodus 22:3–4 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
 | [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:12–15 · Exodus 4:12 · Judges 13:17–18 |
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |

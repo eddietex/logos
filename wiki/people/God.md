@@ -1760,6 +1760,15 @@ punishment for a death under the rod and freedom for injury to an eye or tooth (
 **The protection and the unequal status are both attributed to this legislation; neither is
 silently removed from the portrait.**
 See [[Laws of Violence and Injury]].
+### Property and restitution — Exodus 22:1–15
+
+The continued speech sets rates of restitution for theft, makes good on damage done by grazing and
+fire, and settles claims about deposited and borrowed goods. **God is named as the one before whom
+an unwitnessed dispute is brought**: the suspected keeper *"shall come near to God"*, and *"He whom
+God condemns shall pay double"* (22:8–9). The KJV reads *"the judges"* at both points, as at 21:6,
+and the Hebrew verb *condemns* is plural; the wiki does not decide whether God is approached at a
+sanctuary or represented by human judges. In the keeping case the procedure is *"the oath of
+Yahweh"* (22:11). See [[Laws of Property and Restitution]].
 
 ## Timeline / key events
 
@@ -1985,6 +1994,7 @@ See [[Laws of Violence and Injury]].
   [[The Altar and the Hebrew Slave]]
 
 - The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
+- The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
 
 ## Appears in
 
@@ -2371,6 +2381,7 @@ See [[Laws of Violence and Injury]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
+- [[Laws of Property and Restitution]] — Exodus 22:1–15; disputes brought *"before God"*, and *"the oath of Yahweh"*
 
 ## Related people
 

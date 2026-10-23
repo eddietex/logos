@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 31:38–40** — *"That which was torn of animals, I didn't bring to you. I bore its loss. Of
   my hand you required it, whether stolen by day or stolen by night"* — [[Jacob's Flight from Laban]]
 - **Exodus 22:10–13** — the law of the keeper: an oath for what dies or is driven away, restitution
-  for what is stolen, and **no restitution for what is torn**
+  for what is stolen, and **no restitution for what is torn** — [[Laws of Property and Restitution]]
 - **Amos 3:12** — the shepherd rescuing *"two legs, or a piece of an ear"* from a lion's mouth: the
   evidence the law asks for
 - **John 10:11–13** — the good shepherd who does not run, against the hireling who does
@@ -81,3 +81,11 @@ runs because the sheep are not his, and Jacob's whole complaint is that for twen
 not his and he did not run.
 
 See [[Work]], [[Wealth and Possessions]], and [[Suffering]].
+
+**Verification note (added with [[Laws of Property and Restitution]]).** The Hebrew of Genesis 31:39
+(*ṭərēpâ lōʾ-hēbēʾtî ʾēlêkā ʾānōkî ʾăḥaṭṭennâ … gənubtî yôm ûgənubtî lāylâ*) and of Exodus 22:13
+(Hebrew 22:12: *ʾim-ṭārōp yiṭṭārēp yəbiʾēhû ʿēd haṭṭərēpâ lōʾ yəšallēm*) was checked in the *Miqra
+according to the Masorah* edition via Sefaria on 2026-10-23, confirming the shared noun *ṭərēpâ*.
+**The statements above about the Mesopotamian herding laws and about the piel sense of *ḥāṭāʾ* were
+not checked against a source in that pass**; they are left as written but should be treated as
+unverified until a later pass cites a law-collection edition and a lexicon.

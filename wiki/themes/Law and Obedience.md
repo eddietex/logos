@@ -105,6 +105,13 @@ healing, and negligent ownership can require replacement or expose the owner to 
 requires judgment about facts; it is not one penalty applied to every loss.** The collection still
 assumes slavery while restricting some acts against servants.
 See [[Laws of Violence and Injury]].
+### Property, deposit, and restitution — Exodus 22:1–15
+
+The eighth commandment receives its cases. Theft is repaid double, or fourfold and fivefold
+when the animal is gone; a thief who cannot pay is sold; loss through grazing or fire is made good;
+and a keeper's liability turns on what he could have prevented (22:1–15). The law here regulates
+loss as well as wrongdoing, and it trusts an oath where there is no witness (22:10–11).
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -131,8 +138,10 @@ See [[Laws of Violence and Injury]].
   cast as cases
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:1–15; the eighth commandment given cases and remedies
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Covenant]] — the frame that the law fills
 - [[Testing]] — at Marah the statute and the test are given in one breath (15:25), and the manna tests

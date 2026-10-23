@@ -147,6 +147,13 @@ ransom (21:30). **The life-for-life formula does not describe every remedy in th
 servant killed by a bull brings thirty shekels to the master (21:32). Human life is protected here
 within an explicitly unequal social order.
 See [[Laws of Violence and Injury]].
+### The thief at night — Exodus 22:2–3
+
+A thief struck dead while breaking in brings no guilt of bloodshed, but *"If the sun has risen on
+him, guilt of bloodshed shall be for him"* (22:2–3). The text names only the sunrise; the usual
+reading is that once a thief can be seen and made to pay, killing him is no longer defence. The
+law continues 21:12–14's attention to circumstances in judging a killing.
+See [[Laws of Property and Restitution]].
 
 ## Key passages
 
@@ -450,8 +457,10 @@ See [[Laws of Violence and Injury]].
   frightened assembly left alive
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[Laws of Property and Restitution]] — Exodus 22:2–3; the thief killed at night and after sunrise
 
 ## Related themes
+- [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Famine and Plenty]] — *"that the land not perish through the famine"*
 - [[Creation]]

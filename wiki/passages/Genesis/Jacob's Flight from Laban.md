@@ -834,6 +834,8 @@ foreigners**, and Israel's confession of them is a single line about a wandering
 - Hosea 12:12 — *"Jacob fled into the field of Aram. Israel served to get a wife"*: the prophets'
   one-line summary of these chapters.
 - Micah 6:1–2 — ***rîb***, the lawsuit Jacob brings at 31:36, as a prophetic form.
+- [[Laws of Property and Restitution]] — Exodus 22:10–13; the keeper's law that exempts the loss
+  Jacob says he bore (31:39), and the theft verb of 31:19–20, 30–39 given its cases.
 
 ## Notes
 

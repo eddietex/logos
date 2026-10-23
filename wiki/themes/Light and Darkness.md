@@ -97,6 +97,14 @@ Moses approaches the thick darkness where God is (20:21). Darkness here is neith
 rival evil power; it conceals the divine presence that Moses approaches while the people stand back.
 The contrast is one of access within the same encounter, not a struggle between light and darkness.
 See [[The Ten Commandments]].
+### The sunrise clause — Exodus 22:2–3
+
+In the theft law, daylight changes a killing's legal status. A thief struck dead while breaking in
+brings no guilt of bloodshed, but *"If the sun has risen on him, guilt of bloodshed shall be for
+him"* (22:2–3). The text gives the sunrise and not the reason; the usual reading is that darkness
+hides what an intruder intends. Matthew 24:43 later puts the thief *"in what watch of the night"*
+the householder does not know. See [[Laws of Property and Restitution]] and
+[[The Thief Breaking In - Exodus 22 and Matthew 24]].
 
 ## Key passages
 
@@ -203,6 +211,7 @@ See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:21; the thick darkness contains God’s presence rather than
   signifying his absence
+- [[Laws of Property and Restitution]] — Exodus 22:2–3; the thief killed before and after sunrise
 
 ## Related themes
 
