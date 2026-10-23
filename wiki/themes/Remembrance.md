@@ -269,6 +269,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   the children of Israel throughout their generations"*** — *lêl šimmurîm*, a night of watching (WLC), said
   first of Yahweh and then of Israel. **The keeping is mutual in the grammar**; whether it means God's vigil
   and Israel's in return is a reading the Hebrew allows and does not spell out
+- [[The Consecration of the Firstborn]] — Exodus 13:3, 8–9, 14–16; ***"Remember this day"*** — *zākôr*, the
+  infinitive absolute of the Sabbath command (20:8), first used here (WLC lemma search). The feast is *"a
+  memorial (zikkārôn) between your eyes"*, and the remembering is handed down as a script: *"You shall tell
+  your son … It is because of that which Yahweh did for me when I came out of Egypt"* — **every later father
+  says *I***. See [[When Your Son Asks - Telling the Exodus to the Next Generation]]
 
 ## Related themes
 

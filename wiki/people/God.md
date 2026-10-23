@@ -1553,6 +1553,24 @@ circumcised slave and the circumcised stranger, under ***"One law"*** (12:43–4
 act**: *"Yahweh brought the children of Israel out of the land of Egypt by their armies"* (12:51). See
 [[The Death of the Firstborn and the Departure]] and [[One Law for the Native and the Stranger]].
 
+### He claims the firstborn in two words — Exodus 13:1–16
+
+**The morning after he struck Egypt's firstborn *"both man and animal"* (12:12, 29), he claims Israel's
+in the same pair**: *"Sanctify to me all the firstborn, whatever opens the womb … both of man and of
+animal. It is mine"* (13:2). ***Qaddeš*, *sanctify*, is the piel of *qādaš* last used when he *"made"*
+the seventh day *"holy"*** (Genesis 2:3; WLC lemma search, Genesis–Exodus). In Genesis he was the one who
+*"opened"* the womb (29:31; 30:22); **here the child who opens it is his**. He speaks to Moses alone, two
+verses, with no reason given; **Moses supplies the reason, the festival, and the redemption**, and the
+reason is the night of 12:29: *"Yahweh killed all the firstborn in the land of Egypt … Therefore … all
+the firstborn of my sons I redeem"* (13:15) — *hārag*, the verb of his own threat at 4:23 (WLC). **The
+law that claims every firstborn son hands every one of them back**: *"you shall redeem all the firstborn
+of man"* (13:13), with *pādâ*, the first *redeem* in Scripture (WLC lemma search). **His act becomes
+*"by strength of hand"*** (*bəḥōzeq yād*, 13:3, 14, 16, only here in the Torah; WLC), the root of
+Pharaoh's hardened heart turned to describe the hand that broke it; and his instruction becomes
+***"Yahweh's law"*** — *tôrat YHWH*, the phrase's first occurrence (13:9; WLC) — *"in your mouth"*. See
+[[The Consecration of the Firstborn]] and
+[[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1743,6 +1761,9 @@ act**: *"Yahweh brought the children of Israel out of the land of Egypt by their
 - Strikes the firstborn of Egypt at midnight; gives Israel favour and the plunder; keeps the four hundred
   thirty years to the day; gives the second Passover law, *"One law"* for native and stranger; brings
   Israel out by their armies — Exodus 12:29–51, [[The Death of the Firstborn and the Departure]]
+- Claims all the firstborn of Israel, man and animal — *"It is mine"*; his law to be *"in your mouth"*;
+  the firstborn son redeemed because he *"killed all the firstborn in the land of Egypt"* — Exodus
+  13:1–16, [[The Consecration of the Firstborn]]
 
 ## Appears in
 
@@ -2101,6 +2122,9 @@ act**: *"Yahweh brought the children of Israel out of the land of Egypt by their
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51; **the blow, and the bringing out.** *"At midnight, Yahweh struck all the
   firstborn"*; *"Yahweh gave the people favor"*; *"a night to be much observed to Yahweh"*; *"One law"*;
   *"Yahweh brought the children of Israel out"*
+- [[The Consecration of the Firstborn]] — Exodus 13:1–16; **the firstborn claimed.** *"Sanctify to me all the
+  firstborn … It is mine"*; *"by strength of hand Yahweh brought you out"*; *"Yahweh's law"*; *"Yahweh
+  killed all the firstborn"*
 
 ## Related people
 

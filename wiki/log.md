@@ -12408,3 +12408,91 @@ and noun); in Exodus *ḥāzaq* and *ʿeṣem*. **Greek was checked against the 
   - `wiki/index.md`: 107 passages, 166 people, 81 places, 71 themes, 303 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 13.1-16 — The Consecration of the Firstborn
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Consecration of the
+Firstborn — Exodus 13:1–16*. The boundary was kept as planned: 13:17 resumes the march and belongs with the
+sea. There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[The Consecration of the Firstborn]] covers:
+
+- The shape: God speaks two verses (13:1–2), Moses fourteen (13:3–16), in two parallel panels —
+  unleavened bread and the firstborn — each closing on the sign on the hand and *bəḥōzeq yād*, *by strength
+  of hand* (only in this pericope in the Torah). The speech turns from plural to singular at 13:5.
+- 13:1–2: Moses alone, no Aaron; *qaddeš*, the first piel of *qādaš* since Genesis 2:3; *peṭer reḥem*, new
+  here, against God opening wombs in Genesis 29:31; 30:22; *"both of man and of animal"* as at 12:12.
+- 13:3–4: *zākôr*, the command form of 20:8 and its first use; *bêt ʿăbādîm*, first in this sense; *ḥōzeq*
+  from *ḥāzaq*, the hardening root; *Abib*, whose first occurrence is the barley *"in the ear"* at 9:31.
+- 13:5–7: five peoples, the bush's six without the Perizzite; the first *šābaʿ* in Exodus; *ʿăbōdâ*
+  again; *ḥag*, Moses' demand at 10:9; leaven not to be *seen* in all the borders.
+- 13:8–10: *wəhiggadtā* (the later name *Haggadah*, reported, not checked); the father's *I*; *ʾôt* and
+  *zikkārôn*; ***tôrat YHWH***, its first and only occurrence in the Torah.
+- 13:11–13: *haʿăbîr*, *cause to pass over* — the verb of Leviticus 18:21 and Deuteronomy 18:10; the
+  narrowing to males; *šeger*; *pādâ*, the first *redeem* in Scripture; *ʿārap*; the donkey's alternative
+  and the son's lack of one.
+- 13:14–16: Deuteronomy 6:20's identical clause and Joshua 4's plural; *mah-zzōʾt*; *hiqšâ*, used in Exodus
+  only here and at 7:3, with Pharaoh as subject here and God there; *hārag*, 4:23's verb, not 12:29's
+  *nākâ*; *ṭôṭāpōt*, only here and Deuteronomy 6:8; 11:18; the variant spelling *yādəkâ*.
+
+### Judgment calls
+
+- **New connection: [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]** (quotation) —
+  Luke 2:22–24, 39 against Exodus 13:2, 12–15, Leviticus 12:6–8, Numbers 18:15–16. Luke's wording is
+  recorded as a paraphrase of the law, not a verbatim verse; whether Jesus is presented as redeemed or as
+  given is reported and left open.
+- **New connection: [[When Your Son Asks - Telling the Exodus to the Next Generation]]** (formula) —
+  Exodus 10:2; 12:26–27; 13:8, 14–16; Deuteronomy 6:7–8, 20–21; 11:18; Joshua 4:6–7, 21–22.
+- **[[Child Sacrifice and the Redemption of the Firstborn]] gains a section on Exodus 13**: the redemption
+  clause present at the law's first giving, before 22:29 omits it, and the shared verb *ʿābar*. The
+  existing tension is kept; the order of the text is added to it.
+- **Tensions recorded, not resolved:** God's two verses and Moses' fourteen; *"all the firstborn"* narrowed
+  to males; five peoples against six; *qāšâ* with God and with Pharaoh as subject.
+- **Readings reported, not adopted:** the sign on the hand literal (*tefillin*) or figurative; *ʾābîb* as
+  an echo of 9:31; the meaning of *ṭôṭāpōt*; Luke's presentation as redemption or gift.
+- **No new person or place pages.** The father and son are generic; the five peoples are recorded on
+  [[Canaan]] and [[The Nations]]. [[Aaron]] is not in the pericope and his page was not touched.
+- **Marked at their point as not checked in this pass:** later Jewish practice (Haggadah, *tefillin*); the
+  month name *Nisan*; *ṭôṭāpōt* outside the Torah; the Septuagint of Exodus 13:2, 12 behind Luke 2:23;
+  *tôrat YHWH* after the Torah.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 13:1–16; Exodus 3:19; 4:23; 6:1;
+7:28; 8:7, 20 (Hebrew numbering); 9:31; 10:2, 9; 12:26; 34:19–20; Leviticus 18:21; Deuteronomy 6:8, 20–21;
+7:1; 18:10; Joshua 4:6, 21; 1 Samuel 1:3. Lemma searches of Genesis–Deuteronomy: *peṭer*, *ḥōzeq*, *ʾābîb*,
+*šeger*, *ʿārap*, *ṭôṭāpōt*, *pādâ*, *qāšâ*, *qādaš* (Genesis–Exodus), *ʿābar* (hiphil), *zākar* (infinitive
+absolute), *reḥem* (Genesis–Exodus), *šābaʿ* (Exodus), *hārag* (Exodus), *bêt ʿăbādîm*, *tôrat YHWH*.
+**Greek was checked against the SBLGNT (MorphGNT):** Luke 2:22–24, 39. **Verses quoted in WEB English from
+outside `raw/`** were fetched one at a time from bible-api.com (`translation=web`): Leviticus 12:6–8;
+18:21; Numbers 3:12–13; 18:15–16; Deuteronomy 6:7, 8, 20–21; 7:8; 18:10; 21:4; Joshua 4:6–7, 21–22;
+Proverbs 3:3; Matthew 2:15; Luke 2:22–24.
+
+### Pages created or revised
+
+- **Created (3):** the passage page;
+  [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]];
+  [[When Your Son Asks - Telling the Exodus to the Next Generation]].
+- **People revised (3):** [[God]], [[Moses]], [[Pharaoh (of the Exodus)]] — overview section or paragraph,
+  timeline, and appears-in entry; *What is ahead* trimmed for Moses.
+- **Places revised (2):** [[Egypt]] and [[Canaan]].
+- **Themes revised (12):** [[Birthright and the Firstborn]], [[Holiness]], [[Remembrance]],
+  [[Sacrifice and Offering]], [[Signs and Wonders]], [[Slavery and Servitude]], [[Land and Sojourning]],
+  [[Oaths and Vows]], [[Hardening of the Heart]], [[The Nations]], [[Sabbath]], [[Barrenness]].
+- **Connections revised (2):** [[Child Sacrifice and the Redemption of the Firstborn]],
+  [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
+- **Book pages:** [[Exodus]] — box checked; the 12–15:21 structure note covers 13:1–16.
+- **Indexes:**
+  - books: Exodus 17 / 53.
+  - people: 3 rows extended.
+  - places: 2 rows extended.
+  - themes: 12 rows extended.
+  - connections: 2 rows added (in [[Connections Index D-H]] and [[Connections Index T-Z]]); 2 rows'
+    references extended.
+  - `wiki/index.md`: 108 passages, 166 people, 81 places, 71 themes, 305 connections.
+
+`scripts/link-check.sh` is clean.

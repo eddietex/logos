@@ -295,6 +295,9 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   unidentified; then the Passover excludes the *ben-nēkār*, the *tôšāb*, and the *śākîr*, and admits the
   circumcised *gēr*, *"as one who is born in the land"*, under ***"One law"***. See
   [[One Law for the Native and the Stranger]]
+- [[The Consecration of the Firstborn]] — Exodus 13:5; ***"the Canaanite, and the Hittite, and the Amorite, and
+  the Hivite, and the Jebusite"*** — five peoples, where the bush listed six (3:8, 17) and Genesis 15:19–21
+  ten; the Perizzite is missing (WLC). No reason is given, and the wiki reads none in
 
 ## Related themes
 

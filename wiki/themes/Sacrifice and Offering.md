@@ -199,6 +199,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   house"*, none of the meat carried out, ***"Do not break any of its bones"*** — no reason given; repeated
   at Numbers 9:12 and taken up by John 19:36. See
   [[Christ Our Passover - Exodus 12 in the New Testament]]
+- [[The Consecration of the Firstborn]] — Exodus 13:12–15; ***"Therefore I sacrifice to Yahweh all that opens the
+  womb, being males; but all the firstborn of my sons I redeem"*** — **the law's whole shape in two verbs.**
+  The clean firstling goes to the altar; the donkey, which cannot, is bought back with a *śeh*, the Passover
+  lamb's word, or has its neck broken; the son is always redeemed. The verb of *"set apart"* is *ʿābar* in
+  the hiphil, *cause to pass over* — **the verb Leviticus 18:21 and Deuteronomy 18:10 use for child
+  sacrifice** (WLC). See [[Child Sacrifice and the Redemption of the Firstborn]]
 
 ## Related themes
 

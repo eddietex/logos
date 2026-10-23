@@ -261,6 +261,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51; **struck in every house, and left.** *"There was not a house where
   there was not one dead"*; *"We are all dead men"*; *"They plundered the Egyptians"*; four hundred thirty
   years, ended *"to the day"*
+- [[The Consecration of the Firstborn]] — Exodus 13:3, 14; **named *the house of bondage*.** *"Remember this
+  day, in which you came out of Egypt, out of the house of bondage"* — *bêt ʿăbādîm*, the phrase's first
+  occurrence in that sense (WLC), and the formula of 20:2
 
 ## Related places
 
@@ -339,3 +342,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - The firstborn struck at midnight, from Pharaoh's to the captive's in the dungeon; a great cry; Israel
   sent out in haste with silver, gold, and clothing, after four hundred thirty years — Exodus 12:29–51,
   [[The Death of the Firstborn and the Departure]]
+- Named *"the house of bondage"* in the first command to remember the day of leaving it — Exodus
+  13:3, 14, [[The Consecration of the Firstborn]]

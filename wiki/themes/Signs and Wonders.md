@@ -99,6 +99,11 @@ one.
 - [[The Passover]] — Exodus 12:13; ***"The blood shall be to you for a token (ʾôt)"*** — **the first
   sign in Exodus that the people themselves put up, and one God reads**: *"when I see the blood, I will pass
   over you"*. It joins the bow (Genesis 9:12–17) and circumcision (Genesis 17:11) as covenant signs
+- [[The Consecration of the Firstborn]] — Exodus 13:9, 16; ***"a sign (ʾôt) to you on your hand"***. **After the
+  sign in the sky (Genesis 9), in the flesh (Genesis 17), and on the door (Exodus 12:13), the sign is put on
+  Israel's own hand** — paired with a *"memorial"* (13:9) and with *ṭôṭāpōt* (13:16), a word found only here
+  and in Deuteronomy 6:8; 11:18 (WLC lemma search, Torah). Literal (the later *tefillin*) or figurative:
+  the text does not decide
 
 ## Related themes
 

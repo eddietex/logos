@@ -18,7 +18,11 @@ tags: [connection]
   firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon"* —
   [[The Death of the Firstborn and the Departure]]. **The threat of 4:23 carried out, in one verse**, and
   Pharaoh's first words afterward are *"go, serve Yahweh"* (12:31) — the *"that he may serve me"* of 4:23
-- **Exodus 13:15** — Israel's firstborn redeemed because of it *(not yet ingested)*
+- **Exodus 13:15** — Israel's firstborn redeemed because of it: *"Yahweh killed all the firstborn in the
+  land of Egypt … Therefore I sacrifice to Yahweh all that opens the womb, being males; but all the
+  firstborn of my sons I redeem"* — [[The Consecration of the Firstborn]]. **The verb is *hārag*, *killed*,
+  the verb of 4:23's *"I will kill (hōrēg) your son, your firstborn"*, not the narrator's *nākâ* at 12:29**
+  (WLC): the catechism remembers the night in the words of the threat
 - **Deuteronomy 14:1; 32:6** — *"You are the children of Yahweh your God"*; *"Isn't he your father
   who has bought you?"* *(not yet ingested)*
 - **Psalm 89:26–27** — of David's line: *"He will call to me, 'You are my Father …' I will also
@@ -81,7 +85,9 @@ release God's son loses his own; in Matthew the king tries to kill God's son and
 
 **The firstborn sonship is claimed in Exodus with a death sentence attached.** God's firstborn is
 spared, Pharaoh's is struck, and Israel's own firstborn are thereafter redeemed because of that night
-(13:15). See [[Child Sacrifice and the Redemption of the Firstborn]]. The New Testament carries the
+(13:15). See [[Child Sacrifice and the Redemption of the Firstborn]]. **Luke places the infant Jesus
+inside that redemption law** (Luke 2:22–24) — see
+[[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]. The New Testament carries the
 title further: Christ is *"the firstborn of all creation"* (Colossians 1:15), and the church *"the
 assembly of the firstborn"* (Hebrews 12:23).
 

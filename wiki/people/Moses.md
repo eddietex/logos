@@ -233,9 +233,22 @@ do *"according to the word of Moses"* in asking for the silver and gold (12:35),
 the second Passover law, whose ban on *"the uncircumcised"* (*ʿārēl*) is given through the man who called
 his own lips uncircumcised (6:12, 30; WLC). See [[The Death of the Firstborn and the Departure]].
 
+**Then God gives him two verses and he speaks fourteen.** *"Sanctify to me all the firstborn … It is
+mine"* (13:2) is the whole of God's word in the pericope, to Moses alone; **Moses turns it into a
+festival, a catechism, and a law of redemption** (13:3–16), none of which God is reported saying here —
+the pattern of 12:21–27, where he added the hyssop, the door, and the destroyer. He begins not with the
+firstborn but with the day: *"Remember this day, in which you came out of Egypt, out of the house of
+bondage"* (13:3) — *zākôr*, the form of *"Remember the Sabbath day"* (20:8; WLC) — names the month
+*Abib* for the first time, and gives every future father the words to say: *"It is because of that which
+Yahweh did for me when I came out of Egypt"* (13:8). **The speech starts in the plural and from 13:5 is
+all singular** (WLC): a law for a crowd handed to each household. The text does not say whether he is
+expanding God's word or relaying parts the narrator did not record. See
+[[The Consecration of the Firstborn]] and
+[[When Your Son Asks - Telling the Exodus to the Next Generation]].
+
 ### What is ahead
 
-The consecration of the firstborn and the sea (13–15), the
+The sea and the song (13:17–15:21), the
 wilderness (15:22–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -301,6 +314,8 @@ sections are written as their pericopes arrive.
   the people worship and obey — Exodus 12:1–28, [[The Passover]]
 - Summoned by night and told *"get out … as you have said"*; asked to bless Pharaoh; his word obeyed in the
   plunder; given the second Passover law with Aaron — Exodus 12:29–51, [[The Death of the Firstborn and the Departure]]
+- Turns God's two-verse claim on the firstborn into the law of unleavened bread, the redemption of the
+  firstborn, and the father's answer to the son — Exodus 13:1–16, [[The Consecration of the Firstborn]]
 
 ## Appears in
 
@@ -349,6 +364,8 @@ sections are written as their pericopes arrive.
   children's question
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:31–50; **his terms granted.** *"Rise up, get out … as you have said!"*; *"bless
   me also!"*; *"The children of Israel did according to the word of Moses"*
+- [[The Consecration of the Firstborn]] — Exodus 13:3–16; **the teacher of the next generation.** *"Remember
+  this day"*; *"You shall tell your son"*; *"What is this?"*; *"all the firstborn of my sons I redeem"*
 
 ## Related people
 

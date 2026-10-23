@@ -51,7 +51,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] | thread | Job 22:2–4, 21 · Job 1:8–9; 2:3 · Job 7:20 · Job 21:15 · Job 34:9; 35:2–3 · Job 35:6–8 · Job 41:11 · Romans 11:35 · Luke 17:10 |
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
 | [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] | literary parallel | Genesis 21:2, 7 · Genesis 37:3–4 · Genesis 43:34 · Genesis 44:20 · Genesis 45:22 |
-| [[Child Sacrifice and the Redemption of the Firstborn]] | thread | Genesis 22:1–19 · Exodus 13:2, 11–15; 22:29–30 · Leviticus 18:21; 20:2–5 · Deuteronomy 12:31 · Judges 11:29–40 · 2 Kings 3:26–27 · Jeremiah 7:31 · Ezekiel 20:25–26 · Micah 6:6–8 · Exodus 4:22–26 |
+| [[Child Sacrifice and the Redemption of the Firstborn]] | thread | Genesis 22:1–19 · Exodus 13:2, 11–15; 22:29–30 · Leviticus 18:21; 20:2–5 · Deuteronomy 12:31 · Judges 11:29–40 · 2 Kings 3:26–27 · Jeremiah 7:31 · Ezekiel 20:25–26 · Micah 6:6–8 · Exodus 4:22–26 · Exodus 13:12–13 (*ʿābar*, *pādâ*) |
 | [[Christ Our Passover - Exodus 12 in the New Testament]] | quotation | Exodus 12:1–28 · 1 Corinthians 5:6–8 · John 1:29 · John 19:14, 36 · 1 Peter 1:18–19 · Hebrews 11:28 · Luke 22:15 · Exodus 12:46 · Numbers 9:12 · Psalm 34:20 |
 | [[Circumcision of the Heart]] | thread | Genesis 17:10–14 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Ezekiel 44:7, 9 · Acts 7:51 · Romans 2:25–29 · Colossians 2:11–12 |
 | [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |

@@ -344,6 +344,10 @@ where that starts, in a sentence about a family that got halfway.
   and in the same chapter the *gēr* who sojourns *with* Israel is made *"as one who is born in the land"* —
   a law of native and stranger for a people that has just stopped being strangers and has no land yet.
   See [[Four Hundred Years - The Sojourn and the Exodus]]
+- [[The Consecration of the Firstborn]] — Exodus 13:5, 11; ***"when Yahweh shall bring you into the land"***,
+  twice. **Both laws in the pericope are for the land, given a day out of Egypt**: the feast kept *"within
+  all your borders"* (13:7) and the firstborn given *"when … he shall give it you"* (13:11). The land is the
+  bush's *"milk and honey"*, of five peoples rather than six
 
 ## Related themes
 

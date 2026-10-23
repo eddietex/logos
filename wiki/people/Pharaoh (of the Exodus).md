@@ -137,6 +137,14 @@ to be blessed by Yahweh's servants**, as an earlier Pharaoh was blessed unasked 
 10). No reply is recorded. See [[The Death of the Firstborn and the Departure]] and
 [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]].
 
+**The day after, he becomes a line in Israel's catechism.** The son who asks *"What is this?"* is to be told
+*"When Pharaoh stubbornly refused to let us go, Yahweh killed all the firstborn in the land of Egypt"*
+(13:15). ***Hiqšâ*, *made hard*, is the verb of God's forecast *"I will harden (ʾaqšeh) Pharaoh's
+heart"*** (7:3) — its only other use in Exodus (WLC lemma search). **In the forecast God is the subject;
+in the catechism Pharaoh is.** The two descriptions stand fifteen verses apart in the father's mouth and
+God's, and the text does not reconcile them. See [[The Consecration of the Firstborn]] and
+[[Hardening of the Heart]].
+
 ### What is ahead
 
 The pursuit, and the change of heart — *"What is this we have done, that we have let Israel go from
@@ -174,6 +182,8 @@ their pericopes arrive.
 - His firstborn struck at midnight; rises in the night; summons Moses and Aaron and releases the people,
   their children, and their herds *"as you have said"*; asks *"bless me also!"* — Exodus 12:29–32,
   [[The Death of the Firstborn and the Departure]]
+- Remembered in the son's catechism as the one who *"stubbornly refused to let us go"* — Exodus 13:15,
+  [[The Consecration of the Firstborn]]
 
 ## Appears in
 
@@ -204,6 +214,8 @@ their pericopes arrive.
   his throne"*; *"All these servants of yours will come down to me"*; *"Pharaoh won't listen to you"*
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29–32; **bereaved, and conceding everything.** *"The firstborn of Pharaoh who
   sat on his throne"*; *"Rise up, get out"*; *"as you have said"*; *"bless me also!"*
+- [[The Consecration of the Firstborn]] — Exodus 13:15; **remembered.** *"When Pharaoh stubbornly refused to
+  let us go"* — *hiqšâ*, the verb God used of himself at 7:3
 
 ## Related people
 

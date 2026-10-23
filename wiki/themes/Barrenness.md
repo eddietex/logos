@@ -145,6 +145,9 @@ the women than the frame they are written in.
   no covenant, and no promise multiplies without difficulty; the branch carrying the promise has to
   be given every child it gets** — and the pattern holds for Rebekah (25:21) and Rachel (30:1) after
   her. See [[Twelve Sons - Nahor, Ishmael, and Jacob]]
+- [[The Consecration of the Firstborn]] — Exodus 13:2, 12; ***"whatever opens the womb (peṭer reḥem)"***. **In
+  Genesis God was the one who opened wombs** — Leah's (29:31) and Rachel's (30:22); **in Exodus 13 the
+  child that opens the womb is his.** *Peṭer* first occurs here (WLC lemma search)
 
 ## Related themes
 

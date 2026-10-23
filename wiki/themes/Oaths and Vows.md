@@ -204,6 +204,10 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   hand"* — **God's own oath gesture, and the first *nāśāʾ yād* oath in the books the wiki has
   reached.** At Genesis 14:22 Abram lifted his hand to Yahweh (*hărîmōtî*, a different verb); here
   God lifts his
+- [[The Consecration of the Firstborn]] — Exodus 13:5, 11; ***"which he swore to your fathers"*** — **the first
+  *šābaʿ* in Exodus** (WLC), picking up Joseph's last words, *"the land which he swore to Abraham, to Isaac,
+  and to Jacob"* (Genesis 50:24). At 13:11 the oath is sworn *"to you and to your fathers"*: **the
+  generation leaving Egypt is counted among the ones sworn to**
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

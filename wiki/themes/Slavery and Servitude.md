@@ -304,6 +304,10 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   for money, when you have circumcised him, then shall he eat of it"* — **the freed people's first law about
   their own slaves admits them to the rite of freedom**, on Genesis 17's terms (*miqnat kesep*; WLC), while
   the hired servant is excluded
+- [[The Consecration of the Firstborn]] — Exodus 13:3, 5, 14; ***"out of the house of bondage"*** — *bêt
+  ʿăbādîm*, a house of slaves, named for the first time in this sense (WLC) and from here a formula (20:2;
+  Deuteronomy 5:6 and five more). **And the *ʿăbōdâ* changes masters again**: *"you shall keep this service
+  (wəʿābadtā ʾet-hāʿăbōdâ)"* (13:5), the bondage-word now a festival
 
 ## Related themes
 

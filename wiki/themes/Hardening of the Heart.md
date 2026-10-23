@@ -131,6 +131,12 @@ as those passages are ingested.
   hardened Pharaoh's heart, and he didn't let the children of Israel go out of his land"* (11:10) —
   *wayəḥazzēq*, the piel, the third narrated hardening in a row with Yahweh as subject (10:20, 27;
   11:10; WLC)
+- [[The Consecration of the Firstborn]] — Exodus 13:15; ***"When Pharaoh stubbornly refused to let us go"*** —
+  *hiqšâ parʿōh*, *Pharaoh made it hard*. **The verb is *qāšâ*, used in Exodus only here and in God's
+  forecast *"I will harden (ʾaqšeh) Pharaoh's heart"*** (7:3; WLC lemma search). **God the subject in the
+  forecast, Pharaoh in the catechism**; the text sets both in Israel's memory without reconciling them.
+  And the noun of *ḥāzaq* answers the hardening: *"by strength (ḥōzeq) of hand Yahweh brought you out"*
+  (13:3, 14, 16)
 
 ## Related themes
 

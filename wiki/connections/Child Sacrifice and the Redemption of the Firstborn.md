@@ -12,7 +12,7 @@ tags: [connection]
 - **Exodus 4:22–23** — *"Israel is my son, my firstborn … Let my son go, that he may serve me …
   Behold, I will kill your son, your firstborn."* — [[Moses Returns to Egypt]]
 - **Exodus 13:2, 11–15; 22:29–30; 34:19–20** — every firstborn is Yahweh's; every firstborn son is
-  redeemed
+  redeemed — [[The Consecration of the Firstborn]]
 - **Numbers 3:11–13, 40–51; 18:15–16** — the Levites taken instead of the firstborn, and the
   five-shekel redemption price
 - **Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 18:10** — the prohibition, attached to Molech and to
@@ -111,6 +111,28 @@ sacrifice to Yahweh all that opens the womb, being males; but all the firstborn 
 (13:15). **Every redeemed firstborn in Israel is a reminder of a firstborn that was not.** Three verses
 after the announcement, at the lodging place, Moses' own son is cut and Yahweh *"let him alone"*
 (4:24–26). See [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
+
+### The firstborn law at its first giving — Exodus 13
+
+**Exodus 13 is where the firstborn law enters Scripture, and the redemption clause comes with it.** God's
+own words are only *"Sanctify to me all the firstborn … It is mine"* (13:2); Moses' instruction gives the
+redemption at once — *"you shall redeem all the firstborn of man among your sons"* (13:13) — and the reason
+in the son's catechism: *"Yahweh killed all the firstborn in the land of Egypt … Therefore I sacrifice to
+Yahweh all that opens the womb, being males; but all the firstborn of my sons I redeem"* (13:15). **So the
+claim without the clause at 22:29 comes after a giving that already included it.** The tension recorded
+above stands; the order of the text is now part of it. See [[The Consecration of the Firstborn]].
+
+**The verb is the one the prohibition uses.** *"You shall set apart to Yahweh all that opens the womb"*
+(13:12) is ***wəhaʿăbartā***, the hiphil of *ʿābar*, *cause to pass over* — the same verb as Leviticus
+18:21's *ləhaʿăbîr*, *to make pass over* to Molech, and Deuteronomy 18:10's *maʿăbîr … bāʾēš*, *who makes
+… pass through the fire* (WLC). **The law that claims the firstborn and the law that forbids child
+sacrifice share a verb.** Whether that is why the redemption clause is never omitted where the verb is
+used, or simply the ordinary verb for handing over, the text does not say.
+
+**The donkey shows the logic.** The firstborn donkey cannot be offered; it is redeemed with a *śeh*, a lamb,
+or its neck is broken (*ʿārap*; 13:13). **The animal has a stated alternative to redemption; the son has
+none** — the sentence turns to *"all the firstborn of man"* with no *if*. And the lamb that stands in for the
+donkey is the word Isaac used: *"where is the lamb (haśśeh)?"* (Genesis 22:7; WLC).
 
 ## Significance
 

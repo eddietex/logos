@@ -64,6 +64,10 @@ command and give it to slaves and animals by name (23:12; Deuteronomy 5:14–15)
   and last days** — the first such days since Genesis 2:2–3. The Sabbath itself is not named in Exodus
   until the manna (16:23); the penalty *"that soul shall be cut off"* will be used of the
   Sabbath-breaker at 31:14
+- [[The Consecration of the Firstborn]] — Exodus 13:3, 6; ***"Remember this day"*** — *zākôr*, **the same command
+  form as *"Remember the Sabbath day, to keep it holy"*** (20:8), and its first use (WLC lemma search). The
+  feast is seven days with the seventh *"a feast to Yahweh"*, and its law opens with the first *qaddeš*
+  since God made the seventh day holy (Genesis 2:3)
 
 ## Related themes
 

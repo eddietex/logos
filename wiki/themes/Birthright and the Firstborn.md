@@ -194,6 +194,13 @@ holds up Esau as the warning.
   firstborn of the captive who was in the dungeon"*. **Pharaoh's first words afterward are *"go, serve
   Yahweh"*** (12:31) — the release of God's firstborn bought with Egypt's. See
   [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
+- [[The Consecration of the Firstborn]] — Exodus 13:1–2, 11–15; **every firstborn claimed, every firstborn son
+  bought back.** *"Sanctify to me all the firstborn, whatever opens the womb … It is mine"* (13:2); the
+  firstling of the herd given, the donkey redeemed with a lamb, ***"you shall redeem all the firstborn of
+  man among your sons"*** (13:13) — *pādâ*, the first *redeem* in Scripture (WLC). **The ground is the
+  night of 12:29**: *"Yahweh killed all the firstborn in the land of Egypt … Therefore … all the firstborn
+  of my sons I redeem"* (13:15). See [[Child Sacrifice and the Redemption of the Firstborn]] and
+  [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]
 
 ## Related themes
 

@@ -161,8 +161,16 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   observed"* (12:42). **Then the law again, on who may eat**: no foreigner, settler, or hired man; the
   circumcised slave and the circumcised stranger, under ***"One law"*** — the first singular *tôrâ* in
   Scripture (12:43–49). *"That same day, Yahweh brought the children of Israel out"* (12:51). See
-  [[The Death of the Firstborn and the Departure]]. Then the consecration of the firstborn, the sea, and
-  the song.
+  [[The Death of the Firstborn and the Departure]]. **Then the law a third time, a day out of Egypt.** God
+  speaks two verses — *"Sanctify to me all the firstborn, whatever opens the womb … It is mine"* (13:2) —
+  and Moses fourteen: *"Remember this day, in which you came out of Egypt, out of the house of
+  bondage"* (13:3), the month named *Abib*, seven days of unleavened bread *"when Yahweh shall bring you
+  into the land"*, and the father's words, ***"It is because of that which Yahweh did for me when I came out
+  of Egypt"*** (13:8). Every firstling is Yahweh's, the donkey redeemed with a lamb, and ***"you shall redeem
+  all the firstborn of man"*** (13:13) — the first *redeem* in Scripture. The son asks *"What is this?"* and
+  is told *"Yahweh killed all the firstborn in the land of Egypt … Therefore … all the firstborn of my sons I
+  redeem"* (13:15). Both laws are a sign *"on your hand"* and *"between your eyes"*, *"that Yahweh's law may
+  be in your mouth"* (13:9). See [[The Consecration of the Firstborn]]. Then the sea and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
@@ -214,7 +222,7 @@ for unit.
 
 - [x] [[The Passover]] — Exodus 12:1–28
 - [x] [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51
-- [ ] The Consecration of the Firstborn — Exodus 13:1–16
+- [x] [[The Consecration of the Firstborn]] — Exodus 13:1–16
 - [ ] The Crossing of the Sea — Exodus 13:17–14:31
 - [ ] The Song of the Sea — Exodus 15:1–21
 

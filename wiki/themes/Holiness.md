@@ -59,6 +59,10 @@ Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be hol
 - [[The Passover]] — Exodus 12:16; ***"a holy convocation"*** on the first and seventh days.
   **The first holy time in Exodus**; the only holy thing before it was the ground at the bush (3:5;
   WLC lemma search of *qōdeš*)
+- [[The Consecration of the Firstborn]] — Exodus 13:2; ***"Sanctify to me all the firstborn"*** — *qaddeš*,
+  **the piel of *qādaš* for the first time since God *"made"* the seventh day *"holy"*** (Genesis 2:3; WLC
+  lemma search, Genesis–Exodus). **The first holy thing Israel is told to make holy is a class of persons
+  and animals**, defined by birth order and claimed with *"It is mine"*
 
 ## Related themes
 

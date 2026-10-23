@@ -219,6 +219,11 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[The Passover]] — Exodus 12:25; ***"when you have come to the land which Yahweh will give you,
   according as he has promised"***. The rite given in Egypt is to be kept in Canaan — the first law that
   looks forward to the land
+- [[The Consecration of the Firstborn]] — Exodus 13:5, 11; **the land of five peoples, where the laws begin.**
+  *"The land of the Canaanite, and the Hittite, and the Amorite, and the Hivite, and the Jebusite, which he
+  swore to your fathers"* — **the bush's six peoples without the Perizzite** (3:8, 17; WLC), no reason
+  given. Unleavened bread is kept, and every firstborn given or redeemed, *"when Yahweh shall bring you
+  into the land"*; the oath is sworn *"to you and to your fathers"* (13:11)
 
 ## Related places
 
@@ -278,3 +283,5 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - Described to Moses as the land of the fathers' sojourning, sworn with the lifted hand, and promised
   to Israel *"for a heritage"* — Exodus 6:4, 8, [[I Am Yahweh]]
 - Named as the land where the Passover *"service"* is to be kept — Exodus 12:25, [[The Passover]]
+- Named as the land where the feast of unleavened bread is kept and the firstborn given and redeemed,
+  *"which he swore to your fathers"* — Exodus 13:5, 11, [[The Consecration of the Firstborn]]
