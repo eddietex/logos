@@ -62,6 +62,14 @@ assembly's abstention from work follows God's own blessing and making holy of th
 (20:10–11). The holiness encountered as dangerous nearness on the mountain also orders ordinary time
 throughout the household. See [[The Ten Commandments]].
 
+### An altar a tool profanes — Exodus 20:25–26
+
+Profanation is named here of an object: a
+tool lifted on the altar's stones has *"polluted"* it (*wattəḥalləlehā*, from *ḥālal*, WLC). **What
+profanes the altar is human work done to it**, and its approach is shaped so that no nakedness is
+exposed (20:26). Jeremiah 34:16 uses the same verb of Judah taking back freed servants: *"you ...
+profaned my name"*. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -84,6 +92,8 @@ throughout the household. See [[The Ten Commandments]].
 - [[Israel at Mount Sinai]] — Exodus 19:6, 10–24; a holy people prepared for a bounded mountain
 
 - [[The Ten Commandments]] — Exodus 20:8–11; the holy day orders ordinary household time
+- [[The Altar and the Hebrew Slave]] — Exodus 20:25–26; a tool profanes the altar, and its approach
+  guards against exposure
 
 ## Related themes
 

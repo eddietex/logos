@@ -117,6 +117,13 @@ every deceptive incident in Genesis has already received its own legal judgment.
 supplies a clear norm against which those narratives can now be compared. See
 [[The Ten Commandments]].
 
+### The master who dealt deceitfully — Exodus 21:8
+
+A master who rejects the female servant he took may not sell her to foreigners, *"since he has dealt
+deceitfully with her"* (21:8). The verb *bāgad*, *deal treacherously*, occurs nowhere else in
+Genesis–Deuteronomy (WLC lemma search). **The law names the broken arrangement as the master's
+faithlessness**, and limits what he may do because of it. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — Genesis 12:10–20, the first deceit by a patriarch, and the half-truth as its
@@ -289,6 +296,7 @@ supplies a clear norm against which those narratives can now be compared. See
   Pharaoh's promise at the frogs and his concession at the flies are both withdrawn when the plague is
 
 - [[The Ten Commandments]] — Exodus 20:16; false testimony is named as a wrong against a neighbor
+- [[The Altar and the Hebrew Slave]] — Exodus 21:8; the master *"has dealt deceitfully with her"*
 
 ## Related themes
 

@@ -89,6 +89,14 @@ ritual or visible acts alone. The people's request for Moses to speak includes a
 [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] preserves the differences in the later
 account. See [[The Ten Commandments]].
 
+### The ordinances begin — Exodus 21:1
+
+*"Now these are the ordinances which you shall set before them"* (21:1). **After the commandments
+spoken to all, the case law begins, given to Moses to set before the people.** Its form changes from
+*you shall* to *if* (21:2, 3, 4, 5, 7, 8, 9, 10, 11), from command to case. Exodus 24:3 reports that
+Moses *"told the people all Yahweh's words, and all the ordinances"*, and the people promise to
+obey. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[Isaac in Gerar]] — Genesis 26:5; **commandments, statutes, and laws before any are given**
@@ -110,6 +118,8 @@ account. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:1–21; public commands govern worship, household life,
   neighbors, and desire
+- [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11; the altar law and the first ordinances,
+  cast as cases
 
 ## Related themes
 

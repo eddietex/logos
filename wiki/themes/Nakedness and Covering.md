@@ -52,7 +52,8 @@ nakedness may not be revealed"* (Revelation 3:18).
   brothers. See [[Noah's Sons and the Curse of Canaan]] and
   [[Naked and Ashamed - Genesis 3 and Genesis 9]].
 - **Exodus 20:26; 28:42** — the theme legislated: no steps up to the altar *"that your nakedness may
-  not be exposed on it"*, and linen breeches for the priests *"to cover their naked flesh"*. Exposure
+  not be exposed to it"*, and linen breeches for the priests *"to cover the flesh of their
+  nakedness"* (quotations corrected to the WEB in `raw/bible/Exodus.md`). Exposure
   is a cultic problem before it is a moral one.
 - **Leviticus 18:6–19; 20:11, 17–21** — *gillâ ʿerwat*, "uncover the nakedness of", as the Torah's
   standing idiom for illicit intercourse, listed relation by relation. Leviticus 18:8's *"the
@@ -75,6 +76,13 @@ nakedness may not be revealed"* (Revelation 3:18).
   blind, and naked"*, told to buy white garments; and the blessing on the one who *"keeps his clothes,
   so that he doesn't walk naked"*. The canon closes with the image it opened with, and with the
   covering still coming from elsewhere.
+
+### The altar without steps — Exodus 20:26
+
+*"You shall not go up by steps to my altar, that your nakedness may not be exposed to it"* (20:26).
+The noun is *ʿerwâ* (WLC), the word of Noah's nakedness (Genesis 9:22–23), and within Exodus it
+recurs only at the priests' linen breeches (28:42). **Two solutions to one problem stand in the same
+book**: no steps here, a garment there. See [[The Altar and the Hebrew Slave]].
 
 ## Key passages
 
@@ -127,6 +135,8 @@ nakedness may not be revealed"* (Revelation 3:18).
   accused of stripping the naked (22:6) remembers himself clothed in justice, robe and turban, the
   dress that 19:9's *"He has stripped me of my glory, and taken the crown from my head"* took off.
   See [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
+- [[The Altar and the Hebrew Slave]] — Exodus 20:26; no steps to the altar, *"that your nakedness
+  may not be exposed to it"*
 
 ## Related themes
 

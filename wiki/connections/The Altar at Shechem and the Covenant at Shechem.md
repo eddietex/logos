@@ -55,9 +55,11 @@ and does not yet hold it.
   yiśrāʾēl*, *God, the God of Israel* (33:18–20) — naming the altar after the name he was given at
   Peniel two chapters earlier. It is the second piece of ground a patriarch ever purchases, after
   Machpelah, and the only one bought for the living.
-- **Joshua** builds on Mount Ebal *"an altar of uncut stones, on which no man had lifted up any iron"*
-  (8:31), reads the blessings and the curses, and writes a copy of the law on the stones — the first
-  official act after the conquest's opening campaign.
+- **Joshua** builds on Mount Ebal *"an altar of uncut stones, on which no one had lifted up any
+  iron"* (8:31; WEB corrected from bible-api.com, 2026-10-23), reads the blessings and the curses,
+  and writes a copy of the law on the stones — the first official act after the conquest's opening
+  campaign. The altar follows the law of Exodus 20:25 and Deuteronomy 27:5–6; see
+  [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
 
 ### The covenant
 

@@ -6,11 +6,11 @@ tags: [theme]
 
 ## Definition / overview
 
-**Being all of one piece — the same thing on every side, and the same thing whether or not anyone
-is looking.** The Hebrew root is ***t-m-m***, whose plain sense is *complete, whole, finished,
-entire*, and which is used of a full day, an uncut stone, and a sum that has been paid out. It is a
-word about **wholeness before it is a word about morality**, and every ethical use in Scripture
-carries that literal sense inside it.
+**Being all of one piece — the same thing on every side, and the same thing whether or not anyone is
+looking.** The Hebrew root is ***t-m-m***, whose plain sense is *complete, whole, finished, entire*,
+and which is used of a full day and a sum that has been paid out. (An earlier claim that it is used
+of an uncut stone is withdrawn; see the correction below.) It is a word about **wholeness before it
+is a word about morality**, and every ethical use in Scripture carries that literal sense inside it.
 
 Four forms of the root matter, and the wiki keeps them distinct:
 
@@ -87,8 +87,11 @@ in his lips and is a fool"* (19:1, and again at 28:6). **The wisdom tradition's 
 integrity is safe**, and Job is the counter-example that tradition had to absorb.
 
 **The law makes it a physical property.** The sacrificial animal must be *tāmîm*, without blemish
-(Leviticus 1:3, 22:19–21), and the altar's stones must be uncut (Exodus 20:25). **The same word
-governs the beast on the altar and the man before God**, and the New Testament reaches back through
+(Leviticus 1:3, 22:19–21), and the altar's stones must be uncut (Exodus 20:25). **Correction:** this
+page earlier implied that *tāmîm* also describes the uncut stones. It does not: Exodus 20:25
+forbids *gāzît*, *hewn* stone, and Deuteronomy 27:6 calls the stones *šəlēmôt*, *whole*, under a
+different lemma (WLC; Joshua 8:31 not checked in Hebrew). **The same word governs the beast on the
+altar and the man before God**, and the New Testament reaches back through
 that usage when it calls Christ a lamb *"without blemish and without spot"* (1 Peter 1:19).
 
 **The New Testament keeps the wholeness sense and changes the vocabulary.** *Haplous*, single —

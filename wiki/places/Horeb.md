@@ -72,6 +72,11 @@ scene (20:18). The people remain at a distance while Moses approaches the thick 
 is (20:21). The contrast concerns access within one encounter, not a relocation of the camp. See
 [[The Ten Commandments]].
 
+**The altar law is given here, but it is not tied to here.** Moses receives the instructions of
+20:22–21:11 while still at the darkness on the mountain, and the place goes unnamed. The promise
+is for *"every place where I record my name"* (20:24), not for the mountain itself. See
+[[The Altar and the Hebrew Slave]].
+
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
@@ -93,6 +98,8 @@ is (20:21). The contrast concerns access within one encounter, not a relocation 
 
 - [[The Ten Commandments]] — Exodus 20:18–21; the commandments are heard; the assembly stands back
   while Moses approaches
+- [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11; the setting by context only; the altar
+  law and the first ordinances given to Moses at the darkness
 
 ## Related places
 
@@ -114,3 +121,4 @@ is (20:21). The contrast concerns access within one encounter, not a relocation 
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18
 
 - [[The Ten Commandments]] — public commandments, trembling, and Moses’ approach (20:1–21)
+- [[The Altar and the Hebrew Slave]] — the altar law and the first ordinances (20:22–21:11)

@@ -1740,6 +1740,17 @@ retained in [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and
 Moses explains the frightening encounter as a test against sin, and approaches the thick darkness
 where God is while the people remain far off (20:20–21). See [[The Ten Commandments]].
 
+### He prescribes the altar and limits the master — Exodus 20:22–21:11
+
+He argues from what the people have seen: he talked with them from heaven, so they are to make no
+gods of silver or gold alongside him (20:22–23). In place of an image he asks for an altar of earth
+or uncut stone, and **he promises to come and bless "in every place where I record my name"**
+(20:24). The initiative is his: in the WLC, *ʾazkîr* carries the lemma of *zākar*, so God causes
+his own name to be remembered. A tool on the stones profanes the altar (20:25). His first ordinance
+limits a master's hold over a Hebrew servant to six years, and the servant who chooses to stay is
+brought *"to God"* (21:6, a phrase the KJV renders *"unto the judges"*). See
+[[The Altar and the Hebrew Slave]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1959,6 +1970,9 @@ where God is while the people remain far off (20:20–21). See [[The Ten Command
 
 - Speaks the commandments as Israel’s deliverer; Moses explains the encounter as a test against sin
   — Exodus 20:1–21; [[The Ten Commandments]]
+- Prescribes an altar of earth or uncut stone, promises to bless where he records his name, and
+  gives the first ordinance on the Hebrew servant — Exodus 20:22–21:11;
+  [[The Altar and the Hebrew Slave]]
 
 ## Appears in
 
@@ -2342,6 +2356,7 @@ where God is while the people remain far off (20:20–21). See [[The Ten Command
 - [[Israel at Mount Sinai]] — Exodus 19:1–25; rescuer, covenant speaker, and the one who descends
 
 - [[The Ten Commandments]] — Exodus 20:1–21
+- [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 
 ## Related people
 

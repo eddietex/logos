@@ -157,6 +157,13 @@ first identifies himself by the rescue already accomplished (20:2), then require
 allegiance and commandment keeping (20:3–6). This is the spoken legislation, not yet the blood
 ratification of Exodus 24. See [[The Ten Commandments]].
 
+### The first ordinances of the covenant book — Exodus 20:22–21:11
+
+Exodus 24:7 names *"the book of the covenant"*, read before the blood ceremony. **The wiki uses that
+name for the collection beginning at 20:22, as a convention: Exodus marks no boundaries for the
+book.** It opens with the altar and with the Hebrew servant, so the covenant people's first case law
+regulates what one Israelite may do with another's service. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[Noah and the Flood]] — *bərît*'s first occurrence, offered inside the announcement of universal
@@ -341,6 +348,8 @@ ratification of Exodus 24. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:1–6; rescue grounds exclusive allegiance and concrete
   covenant obligations
+- [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11; the altar and the servant, the first
+  provisions of what 24:7 calls the book of the covenant
 
 ## Related themes
 

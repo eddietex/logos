@@ -143,7 +143,8 @@ The unit is traditionally called the Ten Commandments. Exodus 20:1 introduces Go
 numbering them within this speech; Exodus 34:28 in the raw WEB uses the designation “ten
 commandments.” This page describes the commands by reference rather than imposing a particular
 numbering. It preserves the planned 20:1–21 boundary: the people's reaction and Moses' approach
-complete the public encounter before the altar instructions of 20:22–26.
+complete the public encounter before the altar instructions of 20:22–26, now ingested as
+[[The Altar and the Hebrew Slave]].
 
 ### Worship, generations, and the name
 

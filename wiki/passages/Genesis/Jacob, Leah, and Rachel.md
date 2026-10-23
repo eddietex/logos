@@ -555,6 +555,9 @@ the one Israel comes from.**
 
 ## Cross-references
 
+- [[The Altar and the Hebrew Slave]] — Exodus 21:2, 11; *ḥinnām*, Laban's *"for nothing"* (29:15),
+  is the word for a servant's release *"without paying anything"* — in the WLC Torah only these
+  three verses and Numbers 11:5.
 - [[Jacob's Ladder at Bethel]] — Genesis 28:10–22; the promise of presence, four verses before thirty
   in which God is not named. **The two pericopes are consecutive and the contrast is the wiki's
   sharpest instance of Genesis leaving a silence unexplained.**

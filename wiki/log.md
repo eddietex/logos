@@ -13307,3 +13307,79 @@ remain the expected baseline. New page titles are unique, quotations match raw, 
 queue box advanced, and `git diff --check` is clean. No unresolved operational issue; the
 interpretive tensions above remain explicit. No schema, skill, harness, or controller files
 were changed.
+
+## [2026-10-23] ingest | Exodus 20.22-21.11 — The Altar and the Hebrew Slave
+
+Ingested **[[The Altar and the Hebrew Slave]]**, Exodus 20:22–21:11, in unattended mode. The
+planned boundary is kept. 20:22 opens a new speech to Moses after the request for mediation, and
+21:12 turns from servitude to capital cases. The planned title is kept as well, although the WEB
+says *servant*; the passage page explains the word. Discussion is recorded in the passage's notes:
+the argument from the voice heard from heaven, the altar defined by what is not done to it, *"every
+place where I record my name"*, six years and the seventh, the divided family, the servant who
+stays, and the sold daughter.
+
+### Decisions and tensions
+
+- No new person, place, or theme pages. The servant, his family, the master, and the daughter are
+  unnamed parties to cases. [[Horeb]] is the setting by context only, since no place is named.
+- **Tensions recorded, not resolved:** the earth-or-stone altar against the crafted tabernacle altar
+  (Exodus 27:1–8); *"every place"* (20:24) against Deuteronomy 12:5's chosen place; the sold
+  daughter who *"shall not go out as the male servants do"* (21:7) against Deuteronomy 15:12, 17;
+  service *"for ever"* (21:6) against Leviticus 25's Jubilee; and the master-given wife and children
+  kept (21:4) against Leviticus 25:41. *"To God"* (21:6) is reported with the KJV's *"unto the
+  judges"*, and neither reading is chosen. The ketiv/qere at 21:8 is noted.
+- **[[Integrity]] corrected:** it implied that *tāmîm* describes the uncut altar stones. Exodus 20:25
+  has *gāzît* (negated) and Deuteronomy 27:6 *šəlēmôt*, under a different lemma (WLC). Its overview's
+  "uncut stone" example of *t-m-m* is withdrawn as unsupported.
+- **[[Slavery and Servitude]] nuanced:** its summary calls Exodus 21:2–11 *debt-slavery*, but the
+  passage names purchase and a father's sale, not debt. The correction is written out on the page,
+  and the original sentence is kept so the nuance stays visible.
+- **Quotations corrected to the WEB:** [[Nakedness and Covering]] (Exodus 20:26 *"exposed to it"*;
+  28:42 *"to cover the flesh of their nakedness"*) and
+  [[The Altar at Shechem and the Covenant at Shechem]] (Joshua 8:31 *"no one"*, not *"no man"*).
+- Observations offered as the wiki's own, not as claims the texts make: *ḥinnām* links Laban
+  (Genesis 29:15) and the release law, and Laban's claim in Genesis 31:43 resembles Exodus 21:4.
+  *Ḥālal* links the profaned altar (Exodus 20:25) with Jeremiah 34:16. *Məzûzâ* links the doorposts
+  of 21:6 and 12:7. The common readings of the tool prohibition (excluding human artistry or
+  violence) and of the two-altar harmonization are reported as readings, not as facts.
+
+### Sources
+
+Exodus 20:22–21:11 read from `raw/bible/Exodus.md`. All fourteen key verses were compared
+mechanically with that source and match verbatim after line reflow. Related verses checked in
+existing raw files: Genesis 3:23; 9:22–23; 12:6–8; 26:25; 29:15; 31:43; Exodus 2:24; 6:5; 12:7;
+13:3, 13, 15; 21:16, 26; 24:3, 4, 7; 27:1, 8; 28:42–43; 32:4. **WEB English from outside `raw/`**
+fetched one passage at a time from bible-api.com (`translation=web`) on 2026-10-23: Deuteronomy
+12:5; 15:12–18; 27:5–7; Leviticus 25:39–46; Jeremiah 34:8–17; Joshua 8:30–31. The KJV of Exodus
+21:6 was fetched with `translation=kjv`. **Hebrew checked against the Westminster Leningrad Codex
+(Open Scriptures `morphhb`, freshly downloaded this run: Genesis, Exodus, Leviticus, Numbers,
+Deuteronomy, Jeremiah):** all of Exodus 20:22–21:11; Genesis 3:23; Deuteronomy 15:17; 27:5–6;
+Jeremiah 34:16. Lemma searches: Genesis–Deuteronomy for *ʿōnâ*, *ḥinnām*, *maʿălâ*, *gāzît*,
+*marṣēaʿ*, *bāgad*, *ḥopšî* (also Jeremiah), and *tāmîm* (Exodus and Deuteronomy); Genesis–Exodus
+for *ʿerwâ* and *ʿibrî*; Exodus for *zākar* and *pādâ*. Joshua 8 and Jeremiah 34:13 were not checked
+in Hebrew, and the pages say so. A rabbinic harmonization of *"for ever"* with the Jubilee is
+mentioned as commonly reported and unverified. No raw file was changed or added.
+
+### Pages created or revised
+
+- **Created (3):** the passage and two connections:
+  [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] and
+  [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
+- **Existing content pages revised (31):** [[Exodus]]; two people ([[God]], [[Moses]]); one place
+  ([[Horeb]]); sixteen themes (the fifteen on the passage, plus [[Integrity]]); seven earlier
+  passages ([[The Ten Commandments]], [[The Passover]], [[The Battle with Amalek]],
+  [[Jacob's Flight from Laban]], [[Jacob, Leah, and Rachel]], [[Noah's Sons and the Curse of Canaan]],
+  [[Behemoth and Leviathan]]); and three connections
+  ([[Served, Released, Pursued - The Laban Years as Proto-Exodus]],
+  [[Abram the Hebrew - The First Use of the Name]], and
+  [[The Altar at Shechem and the Covenant at Shechem]]).
+- **Bookkeeping revised (9):** `wiki/books/index.md`, `wiki/index.md`, the themes and places
+  indexes, People Index F-M, Connections Index A-C, D-H, and O-S, and this log. New connections are
+  filed under A (*Altar*) and H (*Hebrew*). Subindex sizes: 58, 71, 64, 58, 79, so no split is needed.
+  Exodus is **27 / 53**.
+- **Totals by frontmatter type:** 118 passages, 169 people, 90 places, 77 themes, 330 connections;
+  3 books started, 2 complete.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks, and 63 not-yet-started book pages
+remain the expected baseline. Exactly one queue box advanced. No schema, skill, harness, or
+controller files were changed.

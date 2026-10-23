@@ -93,6 +93,15 @@ freedom to misuse it. The passage states the prohibition without restricting it 
 supplying a list of forbidden pronunciations. This is a duty toward the known name, not another
 naming event. See [[The Ten Commandments]].
 
+### Where he records his name — Exodus 20:24
+
+*"In every place where I record my name I will come to you and I will bless you"* (20:24). **The
+name is not here pronounced or explained but placed**, and God, not the worshipper, chooses where.
+The WLC verb *ʾazkîr* carries the lemma of *zākar*, *remember*. Deuteronomy 12:5 speaks instead of
+*"the place which Yahweh your God shall choose … to put his name there"*. The two descriptions
+differ, and the wiki records the difference without deciding how they relate. See
+[[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - Genesis 1:1; 2:4 — *ʾĕlōhîm*, and *Yahweh ʾĕlōhîm*
@@ -282,6 +291,7 @@ naming event. See [[The Ten Commandments]].
   sworn"* — its second occurrence after the song (15:2; WLC)
 
 - [[The Ten Commandments]] — Exodus 20:2, 7; the known divine name must not be taken in vain
+- [[The Altar and the Hebrew Slave]] — Exodus 20:24; *"every place where I record my name"*
 
 ## Related themes
 

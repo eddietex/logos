@@ -58,6 +58,13 @@ wages for keeping this list. The speech also assumes continuing household servit
 Israel's liberation is not an abolition of slavery throughout its society. See
 [[The Ten Commandments]].
 
+### A female servant who must be redeemable — Exodus 21:8
+
+*"He shall let her be redeemed"* (21:8). The verb is *pādâ* (WLC), the verb of the firstborn's
+redemption (13:13, 15). **Redemption here is a legal right protecting a woman whose master is
+displeased with her**, and he may not sell her abroad instead. See
+[[The Altar and the Hebrew Slave]].
+
 ## Key passages
 - Genesis 47:19–23 — Egypt's people *bought* for Pharaoh — [[Joseph and the Famine]]
 - Genesis 48:16 — *"the angel who has redeemed me"* — [[Jacob Blesses Ephraim and Manasseh]]
@@ -69,6 +76,8 @@ Israel's liberation is not an abolition of slavery throughout its society. See
 
 - [[The Ten Commandments]] — Exodus 20:2; the deliverer claims the allegiance of those already
   rescued
+- [[The Altar and the Hebrew Slave]] — Exodus 21:8; the female servant's master must allow her
+  redemption
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

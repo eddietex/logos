@@ -57,6 +57,14 @@ blessing, and sanctification. Deuteronomy 5:14–15 retains the command and grou
 bondage and shared rest; both rationales remain distinct in
 [[Creation as the Ground of the Sabbath Command]]. See [[The Ten Commandments]].
 
+### Six years and the seventh — Exodus 21:2
+
+The servant *"shall serve six years and in the seventh he shall go out free"* (21:2). **The week of
+20:9–10 becomes a measure of years**, and release takes the place of rest. The verse does not call
+the seventh year a Sabbath, nor say whether it counts from the purchase or is common to all.
+Leviticus 25 develops a sabbatical year for the land and the Jubilee separately; this page does not
+merge them. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[The Creation of the World]]
@@ -88,6 +96,7 @@ bondage and shared rest; both rationales remain distinct in
   seventh day"* — **a gift before a command**, and the first time people are said to rest
 
 - [[The Ten Commandments]] — Exodus 20:8–11; creation-grounded rest required for the whole household
+- [[The Altar and the Hebrew Slave]] — Exodus 21:2; six years of service and release in the seventh
 
 ## Related themes
 

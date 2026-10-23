@@ -359,7 +359,8 @@ two being the same word.
   Jacob's blessing of the twelve: human blessing as an irrevocable performative word, which starts at
   9:26.
 - Exodus 20:26; 28:42 — no steps to the altar *"that your nakedness may not be exposed"*, and linen
-  breeches for the priests: the same anxiety legislated.
+  breeches for the priests: the same anxiety legislated, with the same noun, *ʿerwâ* (WLC) —
+  [[The Altar and the Hebrew Slave]].
 - Leviticus 18:6–19; 20:11, 17–21 — *"uncover the nakedness of"* as the Torah's idiom for illicit
   intercourse, and the reason a sexual reading of 9:22 is even possible.
 - Leviticus 18:24–30; 20:22–24 — the ground the Torah does give for expelling the Canaanites: what

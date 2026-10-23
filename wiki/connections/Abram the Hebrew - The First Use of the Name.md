@@ -12,6 +12,8 @@ tags: [connection]
 - Genesis 39:14, 17; 40:15; 41:12; 43:32 — the word on Egyptian lips, and on Joseph's to Egyptians
 - Exodus 1:15–19; 2:6–7, 11, 13; 3:18; 5:3; 7:16; 9:1, 13; 10:3 — Pharaoh, the midwives, and
   *"Yahweh, the God of the Hebrews"* — [[The Oppression in Egypt]]
+- Exodus 21:2 — *"If you buy a Hebrew servant"*: the word's first appearance in law —
+  [[The Altar and the Hebrew Slave]]
 - 1 Samuel 4:6, 9; 13:3, 19; 14:11, 21; 29:3 — the Philistines' word for Israel
 - Jonah 1:9 — *"I am a Hebrew"*, said to sailors
 - Joshua 24:2–3 — *"beyond the River"*
@@ -77,3 +79,11 @@ list of credentials. It means, on either etymology, *the ones from the other sid
 
 See [[The Rescue of Lot and Melchizedek]], [[Abraham]], [[Eber]], [[The Nations]], and
 [[Land and Sojourning]].
+
+**In the law the word changes speakers.** Through Genesis and Exodus 1–10, *Hebrew* is mostly what
+outsiders call Abram's descendants, and what they call themselves before outsiders. Its next
+appearance after the plagues, by WLC lemma search over Genesis–Exodus, is Exodus 21:2, where Yahweh
+uses it to name the servant whose service is limited to six years. **The name the Egyptians used for
+their slaves becomes the name of the person a master may not keep.** See
+[[The Altar and the Hebrew Slave]] and
+[[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].

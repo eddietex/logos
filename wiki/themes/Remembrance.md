@@ -133,6 +133,13 @@ rest. Deuteronomy 5:15 instead makes remembered servitude and rescue the explici
 a difference kept in [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]]. See
 [[The Ten Commandments]].
 
+### God causes his name to be remembered — Exodus 20:24
+
+The verb of *"Remember the Sabbath day"* (20:8) returns four verses after the commandments end, with
+God as its subject. In the WLC, *ʾazkîr*, the WEB's *"record"*, carries the lemma of *zākar*.
+**Israel is told to remember a day; God undertakes to make his name remembered in places**, and
+promises to come and bless there (20:24). See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[The Waters Recede]] — *"God remembered Noah"* (8:1), the flood's hinge and the theme's first
@@ -296,6 +303,8 @@ a difference kept in [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5
   *middōr dōr*** (17:16)
 
 - [[The Ten Commandments]] — Exodus 20:8–11; remembering a day means keeping its prescribed rest
+- [[The Altar and the Hebrew Slave]] — Exodus 20:24; *ʾazkîr*, God causing his name to be remembered
+  where he will come and bless
 
 ## Related themes
 

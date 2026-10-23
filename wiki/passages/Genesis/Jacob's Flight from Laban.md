@@ -750,6 +750,10 @@ foreigners**, and Israel's confession of them is a single line about a wandering
 
 ## Cross-references
 
+- [[The Altar and the Hebrew Slave]] — Exodus 21:4; *"the wife and her children shall be her
+  master's"*, the claim Laban makes at 31:43 (*"the daughters are my daughters, the children are my
+  children"*), granted by the law to a master and not granted to Laban by Genesis. See
+  [[Served, Released, Pursued - The Laban Years as Proto-Exodus]].
 - [[Jacob's Flocks]] — Genesis 30:25–43; the six years this chapter re-narrates as a dream, the
   *šalləḥēnî* Laban refused, and the three days' journey his seven-day pursuit crosses.
 - [[Jacob's Ladder at Bethel]] — Genesis 28:10–22; the vow God quotes back at 31:13, the pillar, and

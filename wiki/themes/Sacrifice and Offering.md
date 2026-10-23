@@ -108,6 +108,16 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   prophetic critique; Psalm 51:16–17 on a broken spirit; Isaiah 53 and the servant as offering;
   Hebrews 9–10 on a sacrifice that is not repeated; Romans 12:1 on bodies as living sacrifices.
 
+### The altar law — Exodus 20:24–26
+
+**The first law of sacrifice in Exodus concerns the altar, not the victim.** It is to be of earth,
+or of stones on which no tool has been lifted, since a tool *"polluted"* it (*ḥālal*, WLC), and
+there are to be no steps. It receives burnt offerings and peace offerings, sheep and cattle
+(20:24–26). Deuteronomy 27:5–7 and Joshua 8:30–31 apply the law at Mount Ebal; see
+[[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]]. **A tension is left in
+place.** Exodus 27:1–8 prescribes a crafted altar of acacia wood and bronze for the tabernacle, and
+the book does not say how the two provisions relate. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[Cain and Abel]] — the first offerings, and the first refusal
@@ -213,6 +223,8 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   Midianite's.** *"Jethro … took a burnt offering and sacrifices for God"* — *ʿōlâ ûzəbāḥîm*, the pair Moses asked
   Pharaoh for (*zəbāḥîm wəʿōlōt*, 10:25; WLC); no altar named, no priest of Israel, and a meal *"before God"* with
   Aaron and the elders — [[Sacrifice Before the Priesthood]]
+- [[The Altar and the Hebrew Slave]] — Exodus 20:24–26; an altar of earth or uncut stone, with burnt
+  and peace offerings, and no steps
 
 ## Related themes
 

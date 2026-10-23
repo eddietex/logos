@@ -84,6 +84,15 @@ book later prescribes cherubim for the ark (25:18–20, checked in raw). Treatin
 every representational object would leave that prescription unexplained. See
 [[The Ten Commandments]].
 
+### Gods alongside him — Exodus 20:22–23
+
+The second statement of the image prohibition argues from hearing: *"You yourselves have seen that I
+have talked with you from heaven"*, and therefore *"gods of silver or gods of gold"* are not to be
+made *"to be alongside me"* (20:22–23; WLC *ʾittî*, *with me*). **The rival it forbids is a
+companion as much as a replacement.** The altar of earth or uncut stone follows at once (20:24–25),
+in place of an image. Exodus 32:4 will test the point with a calf called the gods that brought
+Israel up from Egypt. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[Jacob's Flight from Laban]] — Genesis 31:19, 30, 34–35, 53; **the Bible's first *teraphim***,
@@ -121,6 +130,8 @@ every representational object would leave that prescription unexplained. See
 
 - [[The Ten Commandments]] — Exodus 20:3–6; other gods, idols, and their worship explicitly
   prohibited
+- [[The Altar and the Hebrew Slave]] — Exodus 20:22–23; no gods of silver or gold alongside Yahweh,
+  argued from the voice heard from heaven
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

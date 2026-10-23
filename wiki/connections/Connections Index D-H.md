@@ -74,6 +74,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 |
 | [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
+| [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |

@@ -115,6 +115,16 @@ protect parental standing and the marriage bond within the social household the 
 do not restate Genesis 2's creation account or set out a complete law of marriage. See
 [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]]. See [[The Ten Commandments]].
 
+### Wives in the servant law — Exodus 21:3–11
+
+The first ordinance treats marriage through servitude. A married servant leaves with his wife; a
+master-given wife and her children remain the master's (21:3–4). A daughter sold as a female servant
+may be married to her master or his son. If he takes another wife, he may not reduce *"her food, her
+clothing, and her marital rights"*, or she goes free (21:10–11). **This is the passage this page
+cites above for regulated polygamy**, and its protection is concrete. The last noun, *ʿōnâ*, occurs
+nowhere else in Genesis–Deuteronomy (WLC lemma search), so its sense is not settled by other Torah
+uses. See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
@@ -279,6 +289,8 @@ do not restate Genesis 2's creation account or set out a complete law of marriag
 
 - [[The Ten Commandments]] — Exodus 20:12, 14, 17; parents are honored, adultery forbidden, and
   coveting a neighbor’s wife prohibited
+- [[The Altar and the Hebrew Slave]] — Exodus 21:3–11; a family divided by release, and a female
+  servant's food, clothing, and marital rights protected
 
 ## Related themes
 

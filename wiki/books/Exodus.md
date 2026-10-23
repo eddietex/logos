@@ -258,7 +258,15 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   the stranger; coveting makes desire answerable as well as action (20:1–17). The frightened
   people ask Moses to speak, and he explains the encounter as a test intended to restrain sin.
   They stand back while he approaches the thick darkness (20:18–21). See
-  [[The Ten Commandments]].
+  [[The Ten Commandments]]. **Then God gives Moses words for the people, and the first are about
+  an altar**: no gods of silver or gold beside him, an altar of earth or of stones no tool has
+  touched, no steps, and *"In every place where I record my name I will come to you and I will
+  bless you"* (20:22–26). **The ordinances then begin with a bought Hebrew servant**: six years
+  and release in the seventh, a master-given wife and children who stay, the ear bored at the
+  doorpost of the man who chooses to remain, and a daughter sold as a female servant whose food,
+  clothing, and marital rights are protected (21:1–11). The first law spoken to a people brought
+  out of the house of bondage limits a master's hold over a brother. See
+  [[The Altar and the Hebrew Slave]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -323,7 +331,7 @@ for unit.
 
 - [x] [[Israel at Mount Sinai]] — Exodus 19:1–25
 - [x] [[The Ten Commandments]] — Exodus 20:1–21
-- [ ] The Altar and the Hebrew Slave — Exodus 20:22–21:11
+- [x] [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 - [ ] Laws of Violence and Injury — Exodus 21:12–36
 - [ ] Laws of Property and Restitution — Exodus 22:1–15
 - [ ] Laws of Holiness and Compassion — Exodus 22:16–31

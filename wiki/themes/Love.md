@@ -91,6 +91,14 @@ preference among family members. Romans 13:8–10 later gathers several of these
 commands under love; see [[Coveting and Love - The Commandments in Romans 7 and 13]]. See
 [[The Ten Commandments]].
 
+### "I love my master" — Exodus 21:5
+
+In the ordinances, the first quoted declaration of love is a servant's: *"I love my master, my wife,
+and my children. I will not go out free"* (21:5; *ʾāhabtî*, WLC). **The law takes the statement at
+its word**, and also leaves its pressure visible, since leaving would have meant leaving a wife and
+children who stay with the master (21:4). Deuteronomy 15:16 gives the same motive: *"because he
+loves you and your house"* (WEB). See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[The Binding of Isaac]] — Genesis 22:2; **the first occurrence of the verb in Scripture**, in the
@@ -148,6 +156,8 @@ commands under love; see [[Coveting and Love - The Commandments in Romans 7 and 
   the reason for the exodus, ahead of the commandments (20:6) and the name at Sinai (34:6–7).
 
 - [[The Ten Commandments]] — Exodus 20:6; love for God paired with commandment keeping
+- [[The Altar and the Hebrew Slave]] — Exodus 21:5; a servant's love for master, wife, and children
+  keeps him in service for life
 
 ## Related themes
 

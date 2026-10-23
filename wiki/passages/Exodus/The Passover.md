@@ -472,7 +472,7 @@ land.** The wiki records both and adopts neither.
 - Exodus 11:4–7 — midnight, the firstborn, the distinction — [[The Last Plague Announced]]
 - Exodus 12:29–51 — the blow, the departure, *"one law"* for the stranger *(not yet ingested)*
 - Exodus 13:3–16 — *Abib*; the festival and the children's question again *(not yet ingested)*
-- Exodus 21:6 — the slave's ear at the doorpost *(not yet ingested)*
+- Exodus 21:6 — the slave's ear at the doorpost — [[The Altar and the Hebrew Slave]]
 - Leviticus 14:4–6, 49–52; Numbers 19:6, 18 — hyssop in cleansing *(not yet ingested)*
 - Numbers 33:3–4 — *"Yahweh also executed judgments on their gods"* *(not yet ingested)*
 - Deuteronomy 6:9 — *"on the door posts of your house"* *(not yet ingested)*

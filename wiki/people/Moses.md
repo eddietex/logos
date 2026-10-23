@@ -349,6 +349,12 @@ darkness where God is (20:21). He does not receive the tablets within this unit.
 approves the people's request; it is not automatically a refusal of God. See
 [[The Ten Commandments]] and [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]].
 
+**The mediator now receives what he is to pass on.** At the thick darkness God gives him words to
+*"tell the children of Israel"* (20:22): the altar instructions, and then *"the ordinances which
+you shall set before them"* (21:1), beginning with the Hebrew servant. Moses does not speak in this
+unit; the request of 20:19 is being answered by his silence and his hearing. Exodus 24:3–7 will
+narrate his telling, writing, and reading. See [[The Altar and the Hebrew Slave]].
+
 ### What is ahead
 
 The remaining covenant laws, ratification, and tabernacle (20:22–40); and the rest of the Torah. These
@@ -442,6 +448,8 @@ sections are written as their pericopes arrive.
 
 - Explains the test to the frightened assembly and approaches the thick darkness as its requested
   mediator — Exodus 20:1–21; [[The Ten Commandments]]
+- Receives the altar instructions and the first ordinances to set before the people — Exodus
+  20:22–21:11; [[The Altar and the Hebrew Slave]]
 
 ## Appears in
 
@@ -514,6 +522,7 @@ sections are written as their pericopes arrive.
 - [[Israel at Mount Sinai]] — Exodus 19:3–25; mediator and leader of the assembly
 
 - [[The Ten Commandments]] — Exodus 20:1–21
+- [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 
 ## Related people
 

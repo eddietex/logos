@@ -346,7 +346,8 @@ things"* (42:2), and it is a reply to this.
 - [[Smoke from His Nostrils - Leviathan and the Theophany of Psalm 18]] — 41:18–21.
 - [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] — the other New Testament
   quotation of Job.
-- Exodus 21:6; Deuteronomy 15:17 — the slave who serves *"forever"*, behind 41:4.
+- Exodus 21:6; Deuteronomy 15:17 — the slave who serves *"forever"*, behind 41:4 —
+  [[The Altar and the Hebrew Slave]].
 - Psalm 74:13–14 — *"You broke the heads of Leviathan in pieces. You gave him as food to people and desert
   creatures."*
 - Psalm 104:24–26 — *"There the ships go, and leviathan, whom you formed to play there."*

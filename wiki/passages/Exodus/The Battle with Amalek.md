@@ -286,8 +286,8 @@ precedents in Genesis**: Jacob called his altar at Shechem *El Elohe Israel* (Ge
 Bethel *El Beth El* (35:7); Abraham named the place on Moriah *Yahweh Will Provide* (22:14). **Like those, this
 altar is named for what God did, and its name is a sentence about him.** **The next altar in Exodus is God's
 own instruction**: *"You shall make an altar of earth for me … In every place where I record (ʾazkîr) my name I
-will come to you"* (20:24; WLC) — *zākar*, the root of *memorial*. See [[Sacrifice and Offering]] and
-[[The Names of God]].
+will come to you"* (20:24; WLC) — *zākar*, the root of *memorial*. See [[Sacrifice and Offering]],
+[[The Names of God]], and [[The Altar and the Hebrew Slave]].
 
 ***"Yahweh our Banner"*** — ***YHWH nissî***, literally ***Yahweh is my banner*** (WLC: *nissî*, first-person
 singular). **The WEB's *"our"* is a translation choice; the Hebrew suffix is *my*.** ***Nēs*** **is a pole or

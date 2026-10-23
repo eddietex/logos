@@ -103,6 +103,26 @@ does not announce emancipation for every servant. Deuteronomy 5:14–15 makes eq
 remembered slavery the explicit rationale. See
 [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]]. See [[The Ten Commandments]].
 
+### The first ordinance — Exodus 21:1–11
+
+**The ordinances open with a bought Hebrew servant, before homicide, theft, or property.** He serves
+six years and goes out *ḥopšî*, *free*, *ḥinnām*, *"without paying anything"* (21:2, WLC). That is
+the word Laban used when he asked whether Jacob should *"serve me for nothing"* (Genesis 29:15). The
+law also divides families: a wife the master gave stays with her children, and *"he shall go out by
+himself"* (21:4). The man who will not leave because he loves his master, wife, and children has his
+ear bored at the *məzûzâ*, the Passover doorpost, and serves *"for ever"* (21:5–6). A daughter sold
+as a female servant *"shall not go out as the male servants do"* (21:7), but she may not be sold to
+foreigners, must be allowed redemption, and keeps her food, clothing, and marital rights or goes
+free (21:8–11).
+
+**A correction of emphasis on this page:** its summary above calls Exodus 21:2–11 a limit on
+*debt-slavery*. The passage itself names purchase (21:2) and a father's sale (21:7), not debt.
+Debt is a plausible setting, and Leviticus 25:39 names poverty, but Exodus does not state it. The
+tensions with Deuteronomy 15 (the woman's release) and Leviticus 25 (*for ever* against the
+Jubilee) are set out on
+[[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]]. See
+[[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the vocabulary's first appearance, in a
@@ -140,8 +160,8 @@ remembered slavery the explicit rationale. See
 - Genesis 37; 39–41 — Joseph sold, enslaved, imprisoned, and raised to rule the country that bought
   him *(not yet ingested)*
 - Exodus 1–15 — the affliction, and the deliverance that becomes the Old Testament's defining act
-- Exodus 21:1–11, 20–21, 26–27; Leviticus 25:39–55; Deuteronomy 15:12–18; 23:15–16 — the laws, and
-  the tension between them
+- Exodus 21:1–11 ([[The Altar and the Hebrew Slave]]), 20–21, 26–27; Leviticus 25:39–55; Deuteronomy
+  15:12–18; 23:15–16 — the laws, and the tension between them
 - Jeremiah 34:8–22 — Judah re-enslaving the freed, judged by the ceremony of Genesis 15
 - Isaiah 42:1–9; 52:13–53:12 — *ʿebed* as the highest title in the book
 - Galatians 3:28; 4:21–31; 1 Corinthians 7:21–23; Philemon; Philippians 2:7 — the New Testament's
@@ -333,6 +353,9 @@ remembered slavery the explicit rationale. See
 
 - [[The Ten Commandments]] — Exodus 20:2, 10, 17; former slaves must give servants rest, while
   household servitude continues
+- [[The Altar and the Hebrew Slave]] — Exodus 21:1–11; the first ordinance limits a Hebrew's service
+  to six years, keeps a master-given wife and children, provides lifelong service at the doorpost,
+  and protects a daughter sold as a female servant
 
 ## Related themes
 

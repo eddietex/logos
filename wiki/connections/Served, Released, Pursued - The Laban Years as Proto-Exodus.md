@@ -93,3 +93,16 @@ might have sent you away with mirth and with songs, with tambourine and with har
 sea** — *"Then Moses and the children of Israel sang this song"* (15:1) and *"Miriam … took a tambourine in
 her hand"* (15:20) (WLC lemma search). **Neither master sent his servants away with music; at the sea the
 released sing for themselves**, to the God who released them. See [[The Song of the Sea]].
+
+**The servant law of Exodus 21 adds a third shared word, and a claim.** *Ḥinnām*, Laban's *"should
+you therefore serve me for nothing?"* (Genesis 29:15), is the word of the Hebrew servant's release:
+he goes out *"without paying anything"* (Exodus 21:2), as does the female servant whose master
+fails her (21:11). In the WLC Torah the word occurs only in these three verses and Numbers 11:5
+(lemma search, Genesis–Deuteronomy). **And Laban's last claim is the law's case.** *"The daughters
+are my daughters, the children are my children"* (Genesis 31:43) is what Exodus 21:4 allows a master
+who gave his servant a wife: *"the wife and her children shall be her master's, and he shall go out
+by himself."* Jacob's wives were not given him free but earned with fourteen years, and Genesis does
+not grant Laban the claim; they leave with Jacob, and the treaty of 31:44–53 ends the matter. **The
+parallel is the wiki's observation**: neither text refers to the other. See
+[[The Altar and the Hebrew Slave]] and
+[[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].

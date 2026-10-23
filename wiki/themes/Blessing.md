@@ -156,6 +156,13 @@ observance (20:11). The following instruction attaches long life in God's given 
 father and mother (20:12). A blessed day and a promised life are related here without reducing
 either to material accumulation. See [[The Ten Commandments]].
 
+### Blessing at the altar — Exodus 20:24
+
+*"I will come to you and I will bless you"* (20:24). **The promise of blessing is attached to the
+place of God's name and the sacrifices offered there**, not to wealth, birth order, or a patriarch's
+word. Deuteronomy 15:14, 18 will later tie a master's blessing to the provision he gives a released
+servant (WEB, bible-api.com). See [[The Altar and the Hebrew Slave]].
+
 ## Key passages
 
 - [[The Creation of the World]]
@@ -378,6 +385,8 @@ either to material accumulation. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:11–12; the blessed Sabbath and promised long life accompany
   commanded conduct
+- [[The Altar and the Hebrew Slave]] — Exodus 20:24; God promises to come and bless where he records
+  his name
 
 ## Related themes
 
