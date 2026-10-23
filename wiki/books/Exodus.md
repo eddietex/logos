@@ -232,7 +232,20 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   *"Write this for a memorial in a book … that I will utterly blot out the memory of Amalek"* (17:14) — Moses
   builds the book's first altar, *YHWH nissî*, *"Yahweh our Banner"* (Hebrew *my banner*), and the war is
   declared *"from generation to generation"* (17:16), the measure of God's own name at the bush (3:15). See
-  [[The Battle with Amalek]].
+  [[The Battle with Amalek]]. **Then a foreigner comes in peace.** *"Jethro, the priest of Midian … heard"* (18:1) and
+  brings Zipporah — *"after he had sent her away"* — and her two sons to the camp *"at the Mountain of God"*, the second
+  son named here for the first time, ***Eliezer***, *"My father's God was my help"* (18:4). Moses bows, kisses him, and
+  tells him everything; Jethro blesses Yahweh *"who has delivered you"* — the words of the bush (3:8) — and confesses
+  ***"Now I know that Yahweh is greater than all gods"*** (18:11), the answer to Pharaoh's *"I don't know Yahweh"*
+  (5:2). He provides **the first burnt offering actually made in Exodus**, and Aaron and the elders eat bread with
+  him *"before God"* (18:12). **The next day he watches Moses judge alone from morning to evening** — the *judge* of
+  2:14's taunt — and tells him ***"The thing that you do is not good … too heavy for you. You are not able to perform
+  it yourself alone"*** (18:17–18): *kābēd*, the word of Moses' mouth and hands. Moses keeps the place *"before God"*
+  and the hard cases, and appoints *"able men which fear God: men of truth, hating unjust gain"* over thousands,
+  hundreds, fifties, and tens — on Jethro's condition *"and God commands you so"* (18:23), **a command the text never
+  reports**. *"Moses listened to the voice of his father-in-law"* (18:24), and Jethro goes home. **All three *šālôm*
+  in Exodus are his.** Deuteronomy credits the judges to Moses and Numbers gives Moses' burden to seventy elders with
+  the Spirit; Exodus places the visit before the arrival at Sinai (19:1). See [[Jethro's Counsel]].
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
@@ -293,7 +306,7 @@ for unit.
 - [x] [[Manna and Quail]] — Exodus 16:1–36
 - [x] [[Water from the Rock]] — Exodus 17:1–7
 - [x] [[The Battle with Amalek]] — Exodus 17:8–16
-- [ ] Jethro's Counsel — Exodus 18:1–27
+- [x] [[Jethro's Counsel]] — Exodus 18:1–27
 
 ### The covenant at Sinai (19–24)
 
@@ -395,6 +408,8 @@ for unit.
 - [[Testing]]
 - [[The Glory of God]]
 - [[Vengeance]]
+- [[Hospitality]]
+- [[Strife and Peacemaking]]
 
 ## Key people
 
@@ -408,9 +423,11 @@ for unit.
 - [[Miriam]] — his sister, who watches from far off, and *"the prophetess"* who leads the women's song at
   the sea
 - [[Pharaoh's Daughter (of Moses' time)]] — who spares, adopts, and names him
-- [[Jethro]] — the priest of Midian, called Reuel at 2:18, who takes the fugitive in
+- [[Jethro]] — the priest of Midian, called Reuel at 2:18, who takes the fugitive in, and at the Mountain of God
+  blesses Yahweh and teaches Moses to share the judging (18)
 - [[Zipporah]] — his daughter, Moses' wife
 - [[Gershom]] — their son, named for exile
+- [[Eliezer (son of Moses)]] — their second son, named at 18:4 for the escape from Pharaoh's sword
 - [[Aaron]] — Moses' brother, appointed to be his mouth
 - [[Elisheba]] — Aaron's wife, sister of [[Nahshon]] of Judah
 - [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], [[Ithamar]] — Aaron's sons, and

@@ -188,6 +188,10 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
 - [[The Passover]] — Exodus 12:5; ***"Your lamb shall be without defect"*** — *tāmîm*, **its first
   use of an animal** after Noah (6:9) and Abram (17:1) (WLC lemma search). 1 Peter 1:19 takes it up: *"as
   of a lamb without blemish or spot"* — [[Christ Our Passover - Exodus 12 in the New Testament]]
+- [[Jethro's Counsel]] — Exodus 18:21; ***"men of truth, hating unjust gain"***. *ʾĕmet*, its first use in
+  Exodus (next at 34:6, *"abundant in loving kindness and truth"*), and *beṣaʿ*, whose only earlier Torah use is
+  Judah's *"What profit is it if we kill our brother?"* (Genesis 37:26) (WLC). **The judge must hate the thing
+  that sold Joseph**
 
 ## Related themes
 

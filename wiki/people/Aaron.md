@@ -147,6 +147,11 @@ appointment of 4:14–16 has a second form**: at the bush he was made Moses' mou
 hands. *Tāmak*, *held up*, occurs once before in Scripture, when Joseph *"held up his father's hand"* (Genesis
 48:17; WLC lemma search, Genesis–Deuteronomy). See [[The Battle with Amalek]].
 
+**At the Mountain of God he eats with a foreign priest.** When Jethro offers *"a burnt offering and sacrifices for
+God"*, ***"Aaron came with all the elders of Israel, to eat bread with Moses' father-in-law before God"*** (18:12).
+**The future high priest's first meal *"before God"* is at a Midianite's sacrifice**, before any altar law or
+ordination. He is not mentioned in the counsel that follows. See [[Jethro's Counsel]].
+
 ### What is ahead
 
 Sinai, where he goes up with the elders (24); the priestly
@@ -187,6 +192,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   the cloud; lays up an omer of manna *"before the Testimony"* — Exodus 16:2–10, 33–34, [[Manna and Quail]]
 - Goes up the hill with Moses and Hur during the battle with Amalek; holds up one of Moses' hands until sunset —
   Exodus 17:10–12, [[The Battle with Amalek]]
+- Comes with all the elders to eat bread with Jethro before God — Exodus 18:12, [[Jethro's Counsel]]
 
 ## Appears in
 
@@ -225,6 +231,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   in the cloud"*; *"Aaron laid it up before the Testimony, to be kept"*
 - [[The Battle with Amalek]] — Exodus 17:10–12; **Moses' hands.** *"Moses, Aaron, and Hur went up"*; *"Aaron and Hur
   held up his hands, the one on the one side, and the other on the other side"*
+- [[Jethro's Counsel]] — Exodus 18:12; **at the meal.** *"Aaron came with all the elders of Israel, to eat bread
+  with Moses' father-in-law before God"*
 
 ## Related people
 
@@ -241,6 +249,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Pharaoh's Magicians (of the Exodus)]] — whose rods his rod swallows (7:12)
 - [[Hur (companion of Moses)]] — his partner in holding up Moses' hands (17:12), and in charge of the camp with
   him (24:14)
+- [[Jethro]] — Moses' father-in-law, with whom he eats before God (18:12)
 
 ## Themes associated
 

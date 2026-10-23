@@ -396,6 +396,11 @@ rule are the conditions the rest of Scripture is set in.
   the memory of Amalek from under the sky"* — *māḥâ*, the verb of the flood (Genesis 6:7; WLC) — and war
   *"from generation to generation"*. **Exodus gives no reason**; Deuteronomy gives one forty years on, the attack on
   the stragglers and *"he didn't fear God"* (25:18). Recorded, not harmonized
+- [[Jethro's Counsel]] — Exodus 18:13–26; **judging as daily work.** *"Moses sat to judge the people"* from
+  morning to evening — *šāpaṭ*, the verb of 2:14's *"Who made you … a judge?"*, four times in the chapter (WLC) —
+  until Jethro divides it: *"every great matter they shall bring to you, but every small matter they shall judge
+  themselves"*. **Israel's first courts, before its first law code** —
+  [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 
 ## Related themes
 

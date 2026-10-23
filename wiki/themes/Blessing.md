@@ -365,6 +365,9 @@ costly.
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:32; ***"and bless me also!"*** — **a Pharaoh asks for a blessing**, at the moment
   his firstborn is dead and his terms are gone. Genesis 47:7, 10 gave a Pharaoh Jacob's blessing unasked;
   here no blessing is reported. See [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]]
+- [[Jethro's Counsel]] — Exodus 18:10; ***"Blessed be Yahweh, who has delivered you"***. The first *bārûk
+  YHWH* in Exodus (WLC), spoken by a foreign priest, in the shape of Melchizedek's *"blessed be God Most High, who
+  has delivered"* (Genesis 14:20) — [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 
 ## Related themes
 

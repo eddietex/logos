@@ -180,6 +180,10 @@ the seventh day a blessing. See [[Sabbath]].
 - [[The Passover]] — Exodus 12:16, 25–26; ***"no kind of work shall be done in them"***, and
   ***"this service"***. *ʿĂbōdâ*, the word of Egypt's *"hard service"* (1:14; 2:23; 5:9; 6:6, 9), now
   names a rite of worship; after 13:5 it belongs to the tabernacle (WLC)
+- [[Jethro's Counsel]] — Exodus 18:18–22; **overwork named and divided.** *"You will surely wear away … the
+  thing is too heavy for you. You are not able to perform it yourself alone"*; the cure is delegation — *"So shall
+  it be easier for you, and they shall share the load with you"*. *Qāšeh*, *hard*, the word of Egypt's *"hard
+  service"* (1:14), now describes the *"hard causes"* (18:26; WLC)
 
 ## Related themes
 

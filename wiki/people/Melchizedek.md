@@ -114,6 +114,9 @@ not replaced. Hebrews knows this is an argument from silence and uses the silenc
   day, and his exact opposite in every particular
 - [[God]] — *ʾĒl ʿElyôn*, whose priest he is, and whom Abram then names as Yahweh
 - [[Shem]] — identified with him in a rabbinic tradition the wiki records without adopting
+- [[Jethro]] — the priest of Midian, who blesses Yahweh *"who has delivered you"* after the exodus as Melchizedek
+  blessed God Most High *"who has delivered your enemies"* — see
+  [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 
 ## Themes associated
 

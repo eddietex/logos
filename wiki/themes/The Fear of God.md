@@ -280,6 +280,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   praises"* (*nôrāʾ*, Jacob's word at Bethel, Genesis 28:17); *"Terror (ʾêmâ) and dread (paḥad) falls on"*
   the nations — *ʾêmâ* falling as on Abram (Genesis 15:12), *paḥad* the word of *"the fear of Isaac"*
   (31:42, 53) (WLC). See [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
+- [[Jethro's Counsel]] — Exodus 18:21; **the first qualification for office.** *"Able men which fear God"* —
+  *yirʾê ʾĕlōhîm*, the adjective of the angel's *"now I know that you fear God"* (Genesis 22:12; WLC) — set beside
+  truth and hatred of *"unjust gain"*. A Midianite priest makes the fear of God a requirement for Israel's judges,
+  as the midwives' fear of God (1:17) was the first resistance to Pharaoh
 
 ## Related themes
 

@@ -52,14 +52,33 @@ Judges 4:11; the Hebrew *ḥōtēn* means a relative by marriage and is usually 
 bare name *Reuel* also belongs to Esau's son, and the wiki keeps the two apart — see
 [[Reuel (son of Esau)]].
 
-### What is ahead
+### At the Mountain of God (Exodus 18)
 
-Bringing
-Zipporah and the two sons back to Moses at the mountain of God, his confession and sacrifice, and his
-counsel on delegated judges (18:1–27). **The man who asked *"Why is it that you have left the man?"*
-will be the man who tells Moses he cannot judge the people alone** — the judge the Hebrews refused at
-2:14 sitting *"to judge the people"* from morning to evening (18:13), and his Midianite father-in-law
-telling him how to do it.
+**He hears, and comes.** *"Jethro, the priest of Midian, Moses' father-in-law, heard of all that God had done for
+Moses, and for Israel his people"* (18:1), and brings Zipporah — *"after he had sent her away"*, at a time Exodus
+does not narrate — and her two sons to the camp *"at the Mountain of God"* (18:2–5). **Moses goes out, bows, and
+kisses him**; they ask *"each other of their welfare"* (*ləšālôm*), and Moses tells him the whole story (18:7–8).
+**All three *šālôm* in Exodus are his** — *"Go in peace"* (4:18), this greeting, and the people going home *"in
+peace"* (18:23) (WLC lemma search, Exodus).
+
+**Then he confesses.** *"Jethro rejoiced"*; ***"Blessed be Yahweh, who has delivered you out of the hand of the
+Egyptians"*** — the words God used of himself at the bush (*hiṣṣîl … miyyad miṣrayim*, 3:8; WLC); ***"Now I know
+that Yahweh is greater than all gods"*** (18:9–11) — *"now I know"* is the angel's *ʿattâ yādaʿtî* at Moriah
+(Genesis 22:12; WLC). **Whether this is a conversion the text does not say**: the confession is comparative, he
+goes home to his own land, and Exodus never names another god as his. He *"took a burnt offering and sacrifices for
+God"*, the first *ʿōlâ* actually made in Exodus, and Aaron and all the elders eat bread with him *"before God"*
+(18:12). See [[Blessed Be God Who Delivered - Melchizedek and Jethro]].
+
+**Then he counsels.** Watching Moses judge alone from morning to evening, he says ***"The thing that you do is not
+good … the thing is too heavy for you. You are not able to perform it yourself alone"*** (18:17–18), and lays out a
+judiciary: Moses before God and teaching the statutes; *"able men which fear God: men of truth, hating unjust
+gain"* over thousands, hundreds, fifties, and tens; the great cases up, the small ones settled below — ***"If you
+will do this thing, and God commands you so"*** (18:19–23). **Moses *"listened to the voice of his father-in-law,
+and did all that he had said"*** (18:24), and *"let his father-in-law depart"* (18:27). **From 18:13 on he is never
+named, only *"Moses' father-in-law"*** (WLC). **Deuteronomy's retelling of the judges does not mention him**
+(Deuteronomy 1:9–18), and Numbers has Moses ask *Hobab* to stay at the departure from Sinai (Numbers 10:29–32);
+both are set out at [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] and in *The names*
+above. See [[Jethro's Counsel]].
 
 ## Timeline / key events
 
@@ -68,8 +87,11 @@ telling him how to do it.
 - Invites Moses to eat; Moses agrees to dwell with him; gives him Zipporah — Exodus 2:20–21
 - Moses keeps his flock, and leads it to Horeb — Exodus 3:1, [[The Burning Bush]]
 - Sends Moses back to Egypt: *"Go in peace"* — Exodus 4:18, [[Moses Returns to Egypt]]
-- *(ahead)* Brings Zipporah and the sons, blesses Yahweh, sacrifices, and counsels Moses —
-  Exodus 18:1–27
+- Hears of the exodus; brings Zipporah and her two sons to Moses at the Mountain of God — Exodus 18:1–7,
+  [[Jethro's Counsel]]
+- Blesses Yahweh, confesses him *"greater than all gods"*, offers a burnt offering, eats bread with Aaron and the
+  elders before God — Exodus 18:9–12
+- Advises Moses to appoint judges; Moses does all he said; returns to his own land — Exodus 18:13–27
 
 ## Appears in
 
@@ -83,6 +105,10 @@ telling him how to do it.
   tells him only that he wants to see whether his brothers are alive, nothing of the bush. Named
   *Yeter* and *Yitrô* in the same verse; and *ḥōtənô*, *his father-in-law*, shares its root with
   Zipporah's *ḥătan-dāmîm* seven verses later. **The leave Laban never gave Jacob** (Genesis 31:20)
+- [[Jethro's Counsel]] — Exodus 18:1–27; **the priest who blesses, sacrifices, and advises.** Brings Moses' family;
+  *"Blessed be Yahweh, who has delivered you"*; *"Now I know that Yahweh is greater than all gods"*; the first burnt
+  offering made in Exodus; *"The thing that you do is not good"*; the judges of thousands, hundreds, fifties, and
+  tens; *"and God commands you so"*; sent home in peace
 
 ## Related people
 
@@ -94,6 +120,8 @@ telling him how to do it.
   it
 - [[Laban]] — the earlier father of the house at the well, who welcomes and then exploits
 - [[Keturah]] — through whose son Midian descends from Abraham
+- [[Eliezer (son of Moses)]] — his younger grandson, first named when he brings him back
+- [[Aaron]] — who eats bread with him before God (18:12)
 
 ## Themes associated
 
@@ -102,3 +130,7 @@ telling him how to do it.
 - [[The Nations]]
 - [[Marriage]]
 - [[Names and Naming]]
+- [[Wisdom]]
+- [[Judgment]]
+- [[Blessing]]
+- [[Sacrifice and Offering]]

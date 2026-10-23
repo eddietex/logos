@@ -209,6 +209,11 @@ close to the book's whole point about who may speak for the tradition. See
   wise men and the sorcerers"*, and the *ḥarṭummîm* of Genesis 41:8 match Aaron's sign — the guild that
   could not read a dream can copy a wonder, and loses its rods for it —
   [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]]
+- [[Jethro's Counsel]] — Exodus 18:17–23; **wisdom as administration, from a foreigner.** *"The thing that you
+  do is not good … I will give you counsel"* — *ʾîʿāṣəkā*, a verb the Torah uses only here and of Balaam (Numbers
+  24:14; WLC). **Not a dream read or a wonder copied but a working plan**, conditional on *"and God commands you
+  so"*, and adopted without any reported word from God. Deuteronomy's retelling asks the judges to be *"wise men"*
+  (1:13) — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 
 ## Related themes
 

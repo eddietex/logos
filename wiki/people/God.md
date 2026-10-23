@@ -1707,6 +1707,19 @@ name at the bush** — *"this is my memorial (zikrî) to all generations"* (3:15
 ʿal-kēs yāh*, *a hand upon the kēs of Yah*), so whether he swears an oath here is uncertain. See
 [[The Battle with Amalek]] and [[Blot Out - The Flood, Amalek, and God's Book]].
 
+### He is blessed by a foreign priest, and his command is not reported — Exodus 18:1–27
+
+**He does not speak in the chapter.** Everything about him is said by others: Jethro hears *"all that God had done"*
+(18:1); Moses tells *"all that Yahweh had done to Pharaoh"* and *"how Yahweh delivered them"* (18:8); and the priest
+of Midian blesses him — ***"Blessed be Yahweh, who has delivered you out of the hand of the Egyptians"***, the words
+of his own promise at the bush (*hiṣṣîl … miyyad miṣrayim*, 3:8; WLC), **answering Moses' accusation *"you have not
+rescued your people at all"*** (5:23) — and confesses ***"Now I know that Yahweh is greater than all gods"*** (18:11),
+the reply to Pharaoh's *"I don't know Yahweh"* (5:2) and to the Song's *"Who is like you … among the gods?"* (15:11).
+**The people come to Moses *"to inquire of God"*** (18:15); Moses makes them know *"the statutes of God, and his
+laws"* (18:16); and Jethro's plan is conditioned on him — ***"If you will do this thing, and God commands you
+so"*** (18:23). **The text never reports that he commanded it.** Moses *"listened to the voice of his
+father-in-law"* (18:24). See [[Jethro's Counsel]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1919,6 +1932,9 @@ name at the bush** — *"this is my memorial (zikrî) to all generations"* (3:15
 - Gives Israel the victory over Amalek while Moses' hand is raised; orders the memorial written in a book and
   put in Joshua's ears; promises to blot out Amalek's memory; named in the altar *Yahweh our Banner*; war with
   Amalek *"from generation to generation"* — Exodus 17:8–16, [[The Battle with Amalek]]
+- Blessed by Jethro, priest of Midian, for delivering Israel; confessed *"greater than all gods"*; inquired of
+  through Moses; named as the condition of Jethro's plan, with no command reported — Exodus 18:1–27,
+  [[Jethro's Counsel]]
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2295,6 +2311,9 @@ name at the bush** — *"this is my memorial (zikrî) to all generations"* (3:15
 - [[The Battle with Amalek]] — Exodus 17:9–16; **the banner.** *"God's rod"*; *"Write this for a memorial in a
   book"*; *"I will utterly blot out the memory of Amalek from under the sky"*; *"Yahweh our Banner"*; *"Yahweh
   will have war with Amalek from generation to generation"*
+- [[Jethro's Counsel]] — Exodus 18:1–23; **the One blessed and inquired of.** *"Blessed be Yahweh, who has
+  delivered you"*; *"Now I know that Yahweh is greater than all gods"*; *"to inquire of God"*; *"the statutes of
+  God, and his laws"*; *"and God commands you so"*
 
 ## Related people
 

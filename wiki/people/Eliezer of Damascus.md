@@ -69,6 +69,7 @@ narrative apart.
 - [[Abraham's Servant]] — the unnamed steward of Genesis 24, whom tradition identifies with him and
   the text does not
 - [[God]] — who removes him from the inheritance without discussing him
+- [[Eliezer (son of Moses)]] — the only other bearer of the name in the Torah (Exodus 18:4; WLC), unrelated
 
 ## Themes associated
 

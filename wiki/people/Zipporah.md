@@ -41,10 +41,19 @@ Jethro as Moses' father-in-law four verses earlier.** The readings are recorded 
 verb of Genesis 17:14, where the uncircumcised male *"shall be cut off from his people"*. See
 [[Circumcision]].
 
+### Sent away and brought back (Exodus 18)
+
+**Jethro *"received Zipporah, Moses' wife, after he had sent her away"*** (18:2) — ***ʾaḥar šillûḥêhā***, *after her
+sendings-off*, a noun the Torah uses nowhere else (WLC lemma search, Genesis–Deuteronomy). **The Hebrew has no
+subject; who sent her, when, and why are not told.** She was last on the road to Egypt (4:20–26). **Readings reported,
+not adopted**: sent back for safety before the plagues; sent back after the lodging place; or a divorce, from the
+root *šālaḥ* that Deuteronomy uses for sending away a wife (Deuteronomy 24:1, by reference). **The text gives no
+ground for the last beyond the root**, and Jethro presents her to Moses as *"your wife"* (18:6). **She says nothing,
+and the greeting is between the two men.** See [[Jethro's Counsel]].
+
 ### What is ahead
 
-**Exodus 18:2** has her sent back to her father at some point and returned at the mountain of God. **Numbers
-12:1**, Miriam and Aaron speaking *"against Moses because of the Cushite woman whom he had
+**Numbers 12:1**, Miriam and Aaron speaking *"against Moses because of the Cushite woman whom he had
 married"*, is sometimes read as Zipporah (Midian and *Cushan* stand in parallel at Habakkuk 3:7) and
 sometimes as a second wife; the wiki will record both when Numbers is reached. These sections are
 written as their pericopes arrive.
@@ -58,7 +67,8 @@ written as their pericopes arrive.
 - Set on a donkey with her sons for the journey to Egypt — Exodus 4:20,
   [[Moses Returns to Egypt]]
 - Circumcises her son with a flint at the lodging place; *"a bridegroom of blood"* — Exodus 4:24–26
-- *(ahead)* Sent away and brought back by Jethro — Exodus 18:2–6
+- Sent away at a time not narrated; brought back by Jethro with her two sons to the Mountain of God — Exodus
+  18:2–6, [[Jethro's Counsel]]
 
 ## Appears in
 
@@ -68,6 +78,8 @@ written as their pericopes arrive.
 - [[Moses Returns to Egypt]] — Exodus 4:20, 24–26; **the flint and the bridegroom of blood.** When
   Yahweh seeks to kill *him*, she circumcises her son and speaks her only words in Scripture; *"he let
   him alone"*
+- [[Jethro's Counsel]] — Exodus 18:2–6; **returned.** *"After he had sent her away"*; brought with her two sons;
+  given no words
 
 ## Related people
 
@@ -76,6 +88,7 @@ written as their pericopes arrive.
 - [[Gershom]] — her son
 - [[Rebekah]] and [[Rachel]] — the earlier brides met at a well
 - [[Asenath]] — the earlier foreign priest's daughter married to a Hebrew in exile
+- [[Eliezer (son of Moses)]] — her second son
 
 ## Themes associated
 

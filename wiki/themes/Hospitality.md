@@ -187,6 +187,10 @@ theme, and its last appearance inverts who performs it.
   well**: *"Why is it that you have left the man? Call him, that he may eat bread."* The fugitive from
   Pharaoh's house is fed, housed, and married by a Midianite — the welcome of Abraham at Mamre given
   by someone outside the covenant line
+- [[Jethro's Counsel]] — Exodus 18:5–12; **the host becomes the guest.** The priest who once said *"Call
+  him, that he may eat bread"* (2:20) comes to Moses' camp; Moses *"went out to meet"* him, bowed, kissed him,
+  asked of his welfare, brought him *"into the tent"*, and told him everything; and Aaron and the elders *"eat
+  bread with Moses' father-in-law before God"*. **The meal at Midian is returned at the mountain**
 
 ## Related themes
 

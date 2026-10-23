@@ -116,6 +116,10 @@ something comes down through him. That two-way motion is what the word adds. See
   beside them, [[Korah (son of Izhar)]], who will contest it**, and Mishael and Elzaphan, who will
   carry out Nadab and Abihu. Moses' own sons are left out. See
   [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
+- [[Jethro's Counsel]] — Exodus 18:1, 12; ***"the priest of Midian"***, **the last non-Israelite *kōhēn* in
+  Exodus** (WLC lemma search, Exodus), provides a burnt offering, and the future high priest comes to eat with him.
+  With [[Melchizedek]], one of the two priests outside the line who bless God in Genesis–Exodus —
+  [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 
 ## Related themes
 

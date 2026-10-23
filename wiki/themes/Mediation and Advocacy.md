@@ -296,6 +296,10 @@ what Job is asking for.
   *"Aaron and Hur held up his hands, the one on the one side, and the other on the other side"*. **As Aaron became
   his mouth at the bush, Aaron and Hur become his hands.** The text does not say the raised hand is
   intercession; that reading is reported on the passage page, not adopted
+- [[Jethro's Counsel]] — Exodus 18:19; ***"You represent the people before God, and bring the causes to
+  God"*** — *hĕyēh ʾattâ lāʿām mûl hāʾĕlōhîm* (WLC). **Jethro narrows Moses' mediation to what only he can do** and
+  hands the rest to others: the *"heavy"* mouth (4:10), *"heavy"* hands (17:12), and now the *"too heavy"* work
+  (18:18), each shared — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 
 ## Related themes
 

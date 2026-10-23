@@ -275,6 +275,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   I fed you in the wilderness, when I brought you out of the land of Egypt"*
 - [[Water from the Rock]] — Exodus 17:3; **"Why have you brought us up out of Egypt?"** — *heʿĕlîtānû*, God's
   verb at the bush (3:8), turned into the charge; *"to kill us, our children, and our livestock with thirst"*
+- [[Jethro's Counsel]] — Exodus 18:1, 8–10; **the hand Israel was snatched from.** *"How that Yahweh had brought
+  Israel out of Egypt"*; *"delivered you out of the hand of the Egyptians"*, three times in two verses — the
+  words of the bush (3:8; WLC), blessed by a Midianite
 
 ## Related places
 

@@ -23,7 +23,7 @@ land of Egypt"* (Exodus 23:9). See
 
 **The name sets Moses beside Joseph**, who also named his sons in exile — Manasseh for forgetting,
 Ephraim for fruitfulness *"in the land of my affliction"* (Genesis 41:51–52). **Joseph's names both
-name God; Gershom's does not.** The God-name in Moses' family is given to the second son, Eliezer,
+name God; Gershom's does not.** The God-name in Moses' family is given to the second son, [[Eliezer (son of Moses)]],
 *"My father's God was my help and delivered me from Pharaoh's sword"* (Exodus 18:4), after the
 deliverance.
 
@@ -51,16 +51,20 @@ announces the death of Pharaoh's** (4:22–23). See [[Moses Returns to Egypt]].
 **He is not in the genealogy of 6:14–27.** The list names Aaron's wife, sons, and grandson, and
 stops Moses' line at Moses. See [[The Heads of the Fathers' Houses]].
 
-### What is ahead
+### Brought back (Exodus 18)
 
-Sent back to Midian at some point not narrated, and brought again by Jethro (18:2–6).
+**Sent back to Midian with his mother at a time not narrated, and brought to Moses by Jethro at the Mountain of God**
+(18:2–6), where **his name and its explanation are given again** — *"for Moses said, 'I have lived as a foreigner in
+a foreign land'"* (18:3) — **beside his brother's, named for the first time**: *Eliezer*, *"My father's God was my
+help"* (18:4). See [[Jethro's Counsel]] and [[Eliezer (son of Moses)]].
 
 ## Timeline / key events
 
 - Born in Midian to Moses and Zipporah, and named *a sojourner there* — Exodus 2:22
 - Set on a donkey for the journey back to Egypt — Exodus 4:20, [[Moses Returns to Egypt]]
 - Circumcised by his mother with a flint at the lodging place, if he is the son meant — Exodus 4:25
-- *(ahead)* Brought to Moses at the mountain of God with his brother Eliezer — Exodus 18:3–6
+- Brought to Moses at the Mountain of God with his brother Eliezer; his name repeated — Exodus 18:3–6,
+  [[Jethro's Counsel]]
 
 ## Appears in
 
@@ -71,6 +75,7 @@ Sent back to Midian at some point not narrated, and brought again by Jethro (18:
   God's
 - [[The Heads of the Fathers' Houses]] — Exodus 6:14–27; **absent.** Moses' sons are left out of the list that
   carries Aaron's to a grandson
+- [[Jethro's Counsel]] — Exodus 18:3; **renamed in the same words**, beside his brother Eliezer
 
 ## Related people
 
@@ -79,6 +84,7 @@ Sent back to Midian at some point not narrated, and brought again by Jethro (18:
 - [[Jethro]] — his maternal grandfather
 - [[Manasseh]] and [[Ephraim]] — Joseph's sons, also named for an exile
 - [[Ishmael]] — the earlier son whose name records a circumstance of his parents' flight
+- [[Eliezer (son of Moses)]] — his younger brother
 
 ## Themes associated
 

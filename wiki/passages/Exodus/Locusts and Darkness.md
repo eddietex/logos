@@ -486,8 +486,8 @@ that ends at 11:8. **The text leaves the seam visible, and so does this page.**
 - Exodus 13:8, 14, 18 — *"You shall tell your son"*; *yam sûp* *(not yet ingested)*
 - Exodus 14:4, 17–18, 20, 21, 28 — *"I will get honor over Pharaoh"*; the cloud and the darkness; the
   east wind; *"not so much as one"* *(not yet ingested)*
-- Exodus 16:28 — *"How long do you refuse to keep my commandments?"* *(not yet ingested)*
-- Exodus 18:8 — *"Moses told his father-in-law"* *(not yet ingested)*
+- Exodus 16:28 — *"How long do you refuse to keep my commandments?"* — [[Manna and Quail]]
+- Exodus 18:8 — *"Moses told his father-in-law"* — [[Jethro's Counsel]]
 - Exodus 23:33; 34:12 — *môqēš*, *"a snare"* *(not yet ingested)*
 - Exodus 33:20 — *"man may not see me and live"* *(not yet ingested)*
 - Leviticus 11:3–7, 22 — *parsâ*; *ʾarbeh* among clean insects *(not yet ingested)*

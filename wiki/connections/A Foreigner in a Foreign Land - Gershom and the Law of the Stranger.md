@@ -13,7 +13,8 @@ tags: [connection]
   toil, and all my father's house"*; Ephraim, *"God has made me fruitful in the land of my
   affliction"* — [[Pharaoh's Dreams and Joseph's Rise]]
 - **Exodus 2:22; 18:3** — *"He named him Gershom, for he said, 'I have lived as a foreigner in a
-  foreign land'"* — [[Moses Flees to Midian]]
+  foreign land'"* — [[Moses Flees to Midian]], [[Jethro's Counsel]] (where the name is repeated beside his
+  brother Eliezer's, *"My father's God was my help"*)
 - **Exodus 22:21** — *"You shall not wrong an alien or oppress him, for you were aliens in the land of
   Egypt."*
 - **Exodus 23:9** — *"You shall not oppress an alien, for you know the heart of an alien, since you

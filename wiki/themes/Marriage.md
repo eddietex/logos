@@ -264,6 +264,10 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   and Eleazar's wife only as *"one of the daughters of Putiel"*. See
   [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] and
   [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]]
+- [[Jethro's Counsel]] — Exodus 18:2–6; ***"after he had sent her away"***. Zipporah returned by her father,
+  with *šillûḥîm*, a noun the Torah uses nowhere else (WLC); **when, why, and by whom she was sent is not told**,
+  and whether the root's later use for divorce (Deuteronomy 24:1) applies is a reading the wiki does not adopt.
+  The greeting is between Moses and Jethro; she is given no words
 
 ## Related themes
 

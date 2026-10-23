@@ -13059,3 +13059,98 @@ Hebrews 4:8. Deuteronomy 31:7 and Revelation 3:5 are given by reference only. No
   - `wiki/index.md`: 114 passages, 168 people, 90 places, 77 themes, 318 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 18.1-27 — Jethro's Counsel
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first `in-progress` book in
+`wiki/books/index.md`, and its first unchecked box was *Jethro's Counsel — Exodus 18:1–27*. The boundary was kept as
+planned: 18:1 opens a new subject (*"Now Jethro … heard"*), and 19:1 a new date and place. There was no discussion
+step; its content is written into the passage page.
+
+### The passage page
+
+[[Jethro's Counsel]] — Jethro named seven times in 18:1–12 and then only *"Moses' father-in-law"* (*ḥōtēn*, thirteen
+times); *šillûḥîm*, Zipporah *"sent away"*, a Torah hapax with no stated subject; **Eliezer named for the first time**,
+*ʾĕlōhê ʾābî* (as 3:6 and 15:2) and *ʿēzer*; *nāṣal* five times, Jethro's blessing in the words of 3:8 answering
+5:23; *bārûk YHWH* beside Melchizedek's blessing (Genesis 14:20); *"Now I know"* as Genesis 22:12 and against
+Pharaoh's *"I don't know Yahweh"* (5:2); *zîd* in 18:11; **the first *ʿōlâ* actually offered in Exodus**; the meal
+*"before God"*; *šāpaṭ* four times after 2:14 and 5:21; *lidrōš ʾĕlōhîm* as Rebekah's (Genesis 25:22); *lōʾ-ṭôb* and
+*ləbaddekā* with Genesis 2:18 (reported as a reading); *nābōl tibbōl*; *kābēd* after 4:10 and 17:12, and *hāqēl*
+against it; *ʾîʿāṣəkā*, the Torah's only other *yāʿaṣ* being Balaam's (Numbers 24:14); *teḥĕzeh*, the first *ḥāzâ* in
+Scripture; a table of the four qualifications (Genesis 47:6; 22:12; *ʾĕmet*; *beṣaʿ* from Genesis 37:26); *śārîm*
+after 2:14's *śar*; *qāšeh* after 1:14; *dābār* eleven times; *"and God commands you so"* with no command reported;
+*wayšallaḥ* closing on 18:2's root; all three *šālôm* in Exodus being Jethro's.
+
+### Judgment calls
+
+- **One new person**: [[Eliezer (son of Moses)]], qualified by patronymic because [[Eliezer of Damascus]] already
+  exists and later Eliezers will follow.
+- **Two new connections**: [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] (parallel — the
+  same complaint in near-identical Hebrew, three different origins for the judges) and
+  [[Blessed Be God Who Delivered - Melchizedek and Jethro]] (typology — the two priests outside the line who bless
+  God in Genesis–Exodus, with the verbal differences kept).
+- **No new place**; *"the Mountain of God"* filed on [[Horeb]], which still holds both names until the Sinai
+  pericopes decide.
+- **No pages** for the elders or for the judges (collectives), or for Hobab, who belongs to Numbers 10.
+- **Recorded, not harmonized:** Exodus 18's place before the arrival at Sinai (19:1–2) against *"the Mountain of God"*
+  (18:5), *"the statutes of God, and his laws"* (18:16), and Deuteronomy 1's placing of the judges at the departure
+  from Horeb; Jethro's plan (Exodus) against Moses' (Deuteronomy 1) and God's seventy elders with the Spirit
+  (Numbers 11); Jethro's departure (18:27) against Hobab's (Numbers 10:29–32).
+- **Reported, not adopted:** when and why Zipporah was sent away, including *šillûḥîm* as divorce; Jethro's
+  confession as conversion, polytheist ranking, or prior faith; the sense of *zādû*; the meal of 18:12 as
+  anticipating 24:11; Genesis 2:18 as an intended echo; whether the condition of 18:23 was met; Acts 6 as an allusion
+  (noted as structural only). **Not checked and not quoted:** the rabbinic Jethro as model proselyte; the Talmudic
+  chronology debate; Samaritan and versional readings of *"took"* in 18:12.
+- **Stale *not yet ingested* markers made links** on [[The Battle with Amalek]], [[The Song of the Sea]],
+  [[Locusts and Darkness]] (its Exodus 16:28 marker too), [[Moses]], [[The Nations]], and
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] (its Exodus 14:4, 18 and 15:11 markers too).
+- **Corrected while drafting:** a claim that Melchizedek and Jethro are the only foreign priests in the Torah who
+  bless God narrowed to Genesis–Exodus (the search range); *"Moses' altar from 17:15 is in a different camp"* dropped
+  as unsupported; an arithmetic aside (78,600 officers) dropped; the WEB's *"he had sent her away"* qualified, since
+  the Hebrew has no subject; a broken link to a nonexistent Genesis 2 title corrected to [[The Garden of Eden]];
+  unverified later Eliezers removed from the new person page.
+
+### Sources
+
+Genesis and Exodus quoted from `raw/bible/`. **Hebrew checked against the Westminster Leningrad Codex (Open
+Scriptures `morphhb`, freshly downloaded this run: Genesis, Exodus, Numbers, Deuteronomy, Judges, 1 Samuel)**: all
+of Exodus 18; Exodus 1:14; 2:14, 19; 3:1, 8, 12; 4:27; 5:1, 2, 23; 6:6; 10:25; 12:12, 27; 15:11; 19:1–2; 24:11, 13;
+Genesis 2:18; 3:17; 9:26; 14:18–20; 16:2; 22:12; 24:27; 25:22, 29; 37:26; 42:18; 47:6; Numbers 10:29–30; 11:14, 17;
+Deuteronomy 1:9, 12, 13, 15, 17; 24:1; and lemma searches over Genesis–Deuteronomy (Exodus or Genesis–Exodus where
+marked) for *nābēl*, *dāraš*, *ḥāzâ*, *beṣaʿ*, *zîd*, *šillûḥîm*, *mûl*, *zāhar*, *yāʿaṣ*, *ḥādâ*, *təlāʾâ*, *ʿēzer*,
+*ʾĕlîʿezer*, *qālal*, *qāšeh*, *ʿōlâ*, *zebaḥ*, *kōhēn*, *šāpaṭ*, *bārûk*, *ʾĕmet*, *yārēʾ*, *dābār*, *šālôm*,
+*Yitrô*, *ḥōtēn*, *nāṣal*. **WEB English from outside `raw/`** fetched one passage at a time from bible-api.com
+(`translation=web`): Numbers 10:29–32; 11:14–17; 20:14; 24:4, 14; Deuteronomy 1:9–18; 16:18–19; Judges 1:16; 4:11;
+1 Chronicles 23:15–17; 26:25–26; Acts 6:2–4. Deuteronomy 1:6–8; 24:1; Numbers 10:11–12; 11:25; 31:14; and Hebrews
+7:4–7 are given by reference only. No other book was fetched into `raw/`.
+
+### Pages created or revised
+
+- **Created (4):** the passage page; person [[Eliezer (son of Moses)]]; connections
+  [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] and
+  [[Blessed Be God Who Delivered - Melchizedek and Jethro]].
+- **People revised (9):** [[Jethro]] (the *What is ahead* section replaced by an Exodus 18 section; timeline,
+  appears-in, related, themes), [[Moses]], [[Aaron]], [[God]], [[Zipporah]], [[Gershom]] (each a paragraph, timeline,
+  appears-in, related), [[Melchizedek]], [[Eliezer of Damascus]] (related), [[Pharaoh (of the Exodus)]] (appears-in).
+- **Places revised (3):** [[Horeb]] (a paragraph and appears-in), [[Midian]], [[Egypt]].
+- **Themes revised (15):** [[Wisdom]], [[Judgment]], [[The Nations]], [[The Fear of God]], [[Integrity]],
+  [[Hospitality]], [[Blessing]], [[Sacrifice and Offering]], [[Priesthood]], [[Law and Obedience]],
+  [[Mediation and Advocacy]], [[Work]], [[Names and Naming]], [[Marriage]], [[Strife and Peacemaking]].
+- **Connections revised (4):** [[Who Made You a Prince and a Judge - The Rejected Deliverer]] (a paragraph on *śar*
+  and *šōpēṭ* answered in 18), [[Sacrifice Before the Priesthood]] (an Exodus 18:12 entry),
+  [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]],
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]].
+- **Passages revised (3):** [[The Battle with Amalek]], [[The Song of the Sea]], [[Locusts and Darkness]] — markers
+  made links.
+- **Book pages:** [[Exodus]] — box checked; the 15:22–18 structure note now covers Jethro; one key person added and
+  Jethro's line extended; two key themes added.
+- **Indexes:**
+  - books: Exodus 24 / 53.
+  - people: 1 row added in [[People Index A-E]]; 7 rows extended.
+  - places: 3 rows extended.
+  - themes: 15 rows extended.
+  - connections: 1 row added in each of [[Connections Index A-C]] and [[Connections Index T-Z]]; 2 rows' passage lists
+    extended.
+  - `wiki/index.md`: 115 passages, 169 people, 90 places, 77 themes, 320 connections.
+
+`scripts/link-check.sh` is clean.

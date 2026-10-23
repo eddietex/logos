@@ -304,7 +304,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
 - [[The Battle with Amalek]] — Exodus 17:8–16; **the first nation to attack Israel**, and the first after the sea
   to meet them at all. *"Then Amalek came"*. **The next foreigner to come to the camp is Jethro of Midian, with
-  blessing and a sacrifice** (18:1–12; *not yet ingested*): one nation comes with a sword and one with an offering
+  blessing and a sacrifice** (18:1–12; [[Jethro's Counsel]]): one nation comes with a sword and one with an offering
+- [[Jethro's Counsel]] — Exodus 18:1–27; **the nation that comes in peace.** One chapter after Amalek's
+  sword, the priest of Midian hears, comes, blesses Yahweh, confesses *"Now I know that Yahweh is greater than all
+  gods"*, offers the first burnt offering in Exodus, and gives Israel its judiciary — then goes home. All three
+  *šālôm* in Exodus are his (4:18; 18:7, 23; WLC) —
+  [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 
 ## Related themes
 

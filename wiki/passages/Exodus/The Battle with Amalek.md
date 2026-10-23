@@ -61,7 +61,7 @@ See [[War]].
 **God was going to keep Israel from war.** He led them the long way *"Lest perhaps the people change their minds
 when they see war, and they return to Egypt"* (13:17). **Rephidim is the war he did not take them round.**
 **It is followed by the visit of a different foreign people's priest** — Jethro of Midian, who comes in peace
-and blesses Yahweh (18:1–12; *not yet ingested*). **Two foreign peoples meet Israel between the sea and Sinai,
+and blesses Yahweh (18:1–12; [[Jethro's Counsel]]). **Two foreign peoples meet Israel between the sea and Sinai,
 one with a sword and one with a sacrifice.**
 
 ## Key verses
@@ -180,7 +180,7 @@ the bush**: *"I am slow (kəbad) of speech, and of a slow (ûkəbad) tongue"* (4
 heavy of tongue*) (WLC). **Moses' weakness has moved from his mouth to his hands, and again someone else
 supplies what he lacks**: at the bush God gave Aaron to be his mouth (4:14–16); on the hill Aaron and Hur become
 his hands. **The same adjective returns at once**: in the next chapter Jethro tells him *"the thing is too heavy
-(kābēd) for you. You are not able to perform it yourself alone"* (18:18; WLC; *not yet ingested*). See
+(kābēd) for you. You are not able to perform it yourself alone"* (18:18; WLC). See [[Jethro's Counsel]] and
 [[Mediation and Advocacy]].
 
 ***"They took a stone, and put it under him, and he sat on it"*** — ***wayyiqḥû ʾeben wayyāśîmû taḥtāyw
@@ -370,7 +370,7 @@ from the name *Agag*; Esther never mentions Amalek.** All *not yet ingested*. Se
   [[The Crossing of the Sea]]
 - Exodus 15:3 — *"Yahweh is a man of war"* — [[The Song of the Sea]]
 - Exodus 17:1–7 — *"Is Yahweh among us, or not?"* — [[Water from the Rock]]
-- Exodus 18:18 — *"the thing is too heavy for you"* *(not yet ingested)*
+- Exodus 18:18 — *"the thing is too heavy for you"* — [[Jethro's Counsel]]
 - Exodus 24:4, 13–14 — *"Moses wrote all Yahweh's words"*; *"Joshua, his servant"*; *"Aaron and Hur are with
   you"* *(not yet ingested)*
 - Exodus 31:2 — *"Bezalel the son of Uri, the son of Hur"* *(not yet ingested)*

@@ -26,6 +26,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
+| [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] | parallel | Exodus 18:13–27 · Numbers 11:14–17 · Deuteronomy 1:9–18 · Acts 6:2–4 |
 | [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 · Exodus 15:25–26 |
 | [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 · Exodus 15:25 |
 | [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
@@ -64,7 +65,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Who Am I - The Objections of the Called]] | motif | Exodus 3:11–12 · Exodus 4:10–12 · Exodus 6:12, 30 · Judges 6:15–16 · 1 Samuel 9:21 · Isaiah 6:5, 8 · Jeremiah 1:6–9 |
 | [[Who Has First Given to Me - Job 41.11 in Romans 11.35]] | quotation | Job 41:11 · Romans 11:33–36 · Isaiah 40:13–14 · Job 22:2–3 · Job 35:7 · Job 1:9 · 1 Corinthians 3:19 |
 | [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] | thread | Exodus 1:8 · Exodus 2:25; 3:7 · Exodus 5:2 · Exodus 6:3, 7 · Exodus 7:5, 17, 23; 8:8, 10, 19, 22; 9:14, 16, 27, 29–30; 10:2, 7; 11:7 · Exodus 12:12 · Exodus 14:4, 18 · Exodus 18:11 · Job 21:14–15 · Proverbs 30:9 |
-| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 · Exodus 4:29–31 · Exodus 5:20–21 |
+| [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13, 21, 25 · Acts 7:23–29, 35 · Luke 12:14 · Exodus 4:29–31 · Exodus 5:20–21 |
 | [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]] | thread | Job 38:39–41 · Job 10:16 · Job 19:7 · Job 30:20 · Psalm 104:21, 27–28 · Psalm 147:9 · Matthew 6:26 · Luke 12:6–7, 24 |
 | [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] | allusion | Job 13:18–19, 28 · Job 9:2–3, 33 · Job 23:3–7 · Job 40:2 · Isaiah 50:7–9 · Isaiah 51:8 · Romans 8:31–34 |
 | [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 |

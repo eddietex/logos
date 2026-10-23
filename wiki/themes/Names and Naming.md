@@ -239,6 +239,10 @@ five times**, and each is a covenant hinge.
   appears with his later name from his first line, though Numbers says *"Moses called Hoshea the son of Nun
   Joshua"* (Numbers 13:16; WEB; WLC); and Moses names the altar *"Yahweh our Banner"* (Hebrew *my banner*). **The
   place of the battle, unlike the place of the water (17:7), is not named**
+- [[Jethro's Counsel]] — Exodus 18:3–4; **the second son named at last.** *Eliezer*, *"My father's God was my
+  help and delivered me from Pharaoh's sword"* — the God-bearing name beside Gershom's, which has none; and
+  **Jethro named seven times in 18:1–12, then only *"Moses' father-in-law"*** (WLC) — see
+  [[Eliezer (son of Moses)]]
 
 ## Related themes
 

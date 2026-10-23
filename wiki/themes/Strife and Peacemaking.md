@@ -202,6 +202,10 @@ the land.
 - [[Water from the Rock]] — Exodus 17:2, 7; **the quarrel over water, inside Israel.** *"The people quarreled
   with Moses"* — *rîb*, the verb of Isaac's wells (Genesis 26:20) — and the place named *Meribah*, *quarreling*.
   **Moses does not answer the quarrel; he turns it into a question about God** — *"Why do you test Yahweh?"*
+- [[Jethro's Counsel]] — Exodus 18:16, 23; ***"I judge between a man and his neighbor"***, and a system
+  under which *"all these people also will go to their place in peace"*. The disputes are what keep the people
+  standing *"from the morning to the evening"*; **the first peacemaking institution in Israel is proposed by the
+  man who also gives Exodus all its *šālôm*** (4:18; 18:7, 23; WLC)
 
 ## Related themes
 

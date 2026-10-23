@@ -316,12 +316,25 @@ hands become *kəbēdîm*, *heavy*** — the word of his *"heavy"* mouth at the 
 and hold them up *"until sunset"*, and his hands are ***ʾĕmûnâ***, *"steady"*, the word's first occurrence in
 Scripture (17:12; WLC). **Then he is the first person in Scripture told to write** (17:14; WLC), and he builds
 the first altar in Exodus and names it ***YHWH nissî***, *"Yahweh our Banner"* (17:15; Hebrew *my banner*).
-**The next chapter repeats the word**: Jethro tells him *"the thing is too heavy for you"* (18:18; *not yet
-ingested*). See [[The Battle with Amalek]].
+**The next chapter repeats the word**: Jethro tells him *"the thing is too heavy for you"* (18:18). See [[The Battle with Amalek]].
+
+**At the Mountain of God his father-in-law comes, and Moses listens to a foreigner.** Jethro brings Zipporah and
+the two sons — the second named for the first time, ***Eliezer***, *"My father's God was my help and delivered me
+from Pharaoh's sword"* (18:4) — and **Moses goes out, bows, kisses him, and tells the story of the exodus for the
+first time to anyone**, crediting Yahweh at both ends (18:7–8). **The next day he sits *"to judge the people"*
+from morning to evening** — *šāpaṭ*, the office the Hebrew denied him at 2:14 (WLC) — because *"the people come to
+me to inquire of God"* (18:15). **Jethro tells him *"The thing that you do is not good … the thing is too heavy
+(kābēd) for you. You are not able to perform it yourself alone"*** (18:17–18) — **the *heavy* of his mouth (4:10)
+and his hands (17:12)** (WLC) — and he keeps the part only he can do, standing *"before God"* and teaching the
+statutes, and appoints *"able men"* over thousands, hundreds, fifties, and tens. ***"So Moses listened to the voice
+of his father-in-law, and did all that he had said"*** (18:24). **Numbers and Deuteronomy tell the same burden in his
+own mouth** — *"I am not able to bear all this people alone, because it is too heavy for me"* (Numbers 11:14; WEB)
+— and Deuteronomy credits the plan to him, not to Jethro (Deuteronomy 1:9–18). See [[Jethro's Counsel]] and
+[[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]].
 
 ### What is ahead
 
-The rest of the wilderness (17–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -405,6 +418,9 @@ sections are written as their pericopes arrive.
 - Sends Joshua against Amalek at Rephidim; holds up God's rod on the hill; his hands held up by Aaron and Hur
   until sunset; told to write the memorial in a book; builds an altar and names it *Yahweh our Banner* — Exodus
   17:8–16, [[The Battle with Amalek]]
+- Receives Jethro, Zipporah, and his sons at the Mountain of God; bows to and kisses Jethro and tells him all Yahweh
+  had done; judges the people alone from morning to evening; takes Jethro's counsel and appoints judges over
+  thousands, hundreds, fifties, and tens — Exodus 18:1–27, [[Jethro's Counsel]]
 
 ## Appears in
 
@@ -471,6 +487,9 @@ sections are written as their pericopes arrive.
 - [[The Battle with Amalek]] — Exodus 17:9–16; **the raised hand.** *"Tomorrow I will stand on the top of the hill
   with God's rod in my hand"*; *"When Moses held up his hand, Israel prevailed"*; *"Moses' hands were heavy"*;
   *"Write this for a memorial in a book"*; *"Moses built an altar, and called its name Yahweh our Banner"*
+- [[Jethro's Counsel]] — Exodus 18:5–27; **the judge who cannot judge alone.** *"Moses went out to meet his
+  father-in-law, and bowed and kissed him"*; *"Moses sat to judge the people"*; *"Because the people come to me to
+  inquire of God"*; *"So Moses listened to the voice of his father-in-law, and did all that he had said"*
 
 ## Related people
 
@@ -493,6 +512,7 @@ sections are written as their pericopes arrive.
 - [[Pharaoh's Servants (of the Exodus)]] — who call him *"a snare"* (10:7)
 - [[Joshua (son of Nun)]] — the commander he sends against Amalek (17:9), later his servant and successor
 - [[Hur (companion of Moses)]] — who holds up one of his hands (17:12)
+- [[Eliezer (son of Moses)]] — his second son, *"My father's God was my help"* (18:4)
 
 ## Themes associated
 
@@ -513,3 +533,5 @@ sections are written as their pericopes arrive.
 - [[Hardening of the Heart]]
 - [[Prayer]]
 - [[Mourning and Lament]]
+- [[Judgment]]
+- [[Wisdom]]

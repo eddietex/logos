@@ -209,6 +209,10 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   altar, and called its name Yahweh our Banner"* (WLC lemma search, Exodus: the first *mizbēaḥ* in the book).
   **It is a memorial and a confession, like Jacob's named altars** (Genesis 33:20; 35:7); the next altar in Exodus
   is God's own instruction, *"an altar of earth for me … In every place where I record my name"* (20:24)
+- [[Jethro's Counsel]] — Exodus 18:12; **the first burnt offering actually made in Exodus is a
+  Midianite's.** *"Jethro … took a burnt offering and sacrifices for God"* — *ʿōlâ ûzəbāḥîm*, the pair Moses asked
+  Pharaoh for (*zəbāḥîm wəʿōlōt*, 10:25; WLC); no altar named, no priest of Israel, and a meal *"before God"* with
+  Aaron and the elders — [[Sacrifice Before the Priesthood]]
 
 ## Related themes
 

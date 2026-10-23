@@ -85,6 +85,10 @@ ordinances"*, its refrain (4:1, 5; 5:1).
 - [[Manna and Quail]] — Exodus 16:4, 28; **"my law" as a daily ration.** *"Whether they will walk in my law, or
   not"*; *"How long do you refuse to keep my commandments and my laws?"* — Genesis 26:5's two words, about a
   Sabbath not yet commanded
+- [[Jethro's Counsel]] — Exodus 18:16, 20; **statutes before Sinai.** *"I make them know the statutes of God,
+  and his laws"* — *ḥuqqê hāʾĕlōhîm wəʾet-tôrōtāyw*, Genesis 26:5's pair again (WLC) — and Jethro's *"You shall
+  teach them the statutes and the laws, and shall show them the way in which they must walk"*. **Which statutes,
+  before the law is given, the text does not say**
 
 ## Related themes
 

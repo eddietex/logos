@@ -249,6 +249,8 @@ See [[The Song of the Sea]].
   hardened the heart of Pharaoh"*; *"all Pharaoh's army … There remained not so much as one of them"*
 - [[The Song of the Sea]] — Exodus 15:4, 9, 19; **sung about, not named as king.** *"Pharaoh's chariots and
   his army"*; *"The enemy said, 'I will pursue'"*; *"the horses of Pharaoh"*
+- [[Jethro's Counsel]] — Exodus 18:4, 8, 10; **remembered as a sword and a hand.** *"Delivered me from Pharaoh's
+  sword"*; *"all that Yahweh had done to Pharaoh"*; *"delivered you … out of the hand of Pharaoh"*
 
 ## Related people
 

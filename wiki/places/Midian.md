@@ -80,6 +80,9 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - [[Moses Returns to Egypt]] — Exodus 4:18–20; **left in peace.** Moses asks Jethro's leave and is
   given it — *"Go in peace"* — and God's word comes to him *"in Midian"*: *"all the men who sought your
   life are dead"*. The refuge is left with a blessing, unlike Jacob's flight from Laban's Haran
+- [[Jethro's Counsel]] — Exodus 18:1, 27; **the priest's home, and his return.** *"Jethro, the priest of Midian"*
+  comes to the camp, blesses Yahweh, gives the counsel, and *"went his way into his own land"*. **Midian in Exodus is
+  the friend; in Numbers it will be the enemy** (Numbers 25; 31)
 
 ## Related places
 
@@ -97,6 +100,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Moses Flees to Midian]], [[The Burning Bush]]
 - Moses takes leave of Jethro and sets out for Egypt with his family — Exodus 4:18–20,
   [[Moses Returns to Egypt]]
-- Jethro's counsel on delegated judges — Exodus 18
+- Jethro comes from Midian to the Mountain of God with Moses' family, counsels Moses, and returns to his own
+  land — Exodus 18:1–27, [[Jethro's Counsel]]
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31
 - The raids Gideon ends — Judges 6–8

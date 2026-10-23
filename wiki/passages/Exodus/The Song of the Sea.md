@@ -138,7 +138,7 @@ ends on** — the dwelling of 15:13 and 15:17.
 
 ***"My father's God"*** — ***ʾĕlōhê ʾābî***. **The title God gave himself at the bush**: *"I am the God of your
 father"* (*ʾĕlōhê ʾābîkā*, 3:6; WLC), and the title Jacob used of the God who kept him from Laban (*"the God
-of my father"*, Genesis 31:5, 42). **Moses will name his second son for it** (18:4; *not yet ingested*).
+of my father"*, Genesis 31:5, 42). **Moses will name his second son for it** (18:4; [[Jethro's Counsel]]).
 **The people sing it in the singular — *my father's* — as if every singer were one son of one father.**
 
 ***"I will exalt him"*** — ***waʾărōməmenhû***, the polel of ***rûm***, *be high* — **the root of the *"high

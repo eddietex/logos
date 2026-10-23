@@ -28,6 +28,10 @@ tags: [connection]
   invariable (Exodus 29:40; Numbers 15:5–10). The household is also told to *purify yourselves* and
   *change your garments*, which is Exodus 19:10, 14's preparation for Sinai performed without a
   priest — [[Return to Bethel; the Deaths of Rachel and Isaac]].
+- **Exodus 18:12** — *"Jethro, Moses' father-in-law, took a burnt offering and sacrifices for God"*: **the
+  first *ʿōlâ* actually offered in Exodus, by the priest of Midian**, with no altar named, and Aaron and the elders
+  eating bread *"before God"* (WLC lemma search, Exodus) — [[Jethro's Counsel]],
+  [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   any priesthood exists.
 - **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.

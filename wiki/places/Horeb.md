@@ -48,6 +48,13 @@ this mountain or its region (WLC lemma search, Genesis–Exodus). See [[Water fr
 **Elijah comes back to it.** Fleeing Jezebel, he goes *"forty days and forty nights to Horeb, God's
 Mountain"* (1 Kings 19:8) — and there God is not in the fire.
 
+**Jethro finds Israel camped *"at the Mountain of God"*** (18:5, *har hāʾĕlōhîm*, the phrase of 3:1 and 4:27;
+WLC) **before Exodus has them arrive at Sinai** (19:1–2). Readings reported, not adopted: the chapter is told out of
+sequence, grouped by subject; or Rephidim lay within sight of the mountain, as *"the rock in Horeb"* (17:6) may
+suggest. **Deuteronomy sets the appointment of judges at the departure from Horeb** (Deuteronomy 1:6–18, by
+reference). Here the first burnt offering in Exodus is made — by the priest of Midian (18:12). See
+[[Jethro's Counsel]].
+
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
@@ -61,6 +68,9 @@ Mountain"* (1 Kings 19:8) — and there God is not in the fire.
   that name (WLC lemma search, Genesis–Deuteronomy)
 - [[Water from the Rock]] — Exodus 17:6; **"the rock in Horeb".** *"Behold, I will stand before you there on the
   rock in Horeb"*; struck with the rod, water comes out — while Israel is camped at Rephidim
+- [[Jethro's Counsel]] — Exodus 18:5; **"the Mountain of God"**, where Moses is encamped when Jethro brings his
+  family; Jethro's burnt offering and the meal *"before God"*, and the first judges appointed — placed by Exodus
+  before the arrival at Sinai (19:1–2)
 
 ## Related places
 

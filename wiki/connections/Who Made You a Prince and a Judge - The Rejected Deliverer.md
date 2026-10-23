@@ -16,7 +16,7 @@ tags: [connection]
 - **Exodus 5:20–21** — the beaten officers to Moses and Aaron: *"May Yahweh look at you, and judge"* —
   [[Bricks Without Straw]]
 - **Exodus 18:13** — *"Moses sat to judge the people, and the people stood around Moses from the
-  morning to the evening"*
+  morning to the evening"* — [[Jethro's Counsel]]
 - **Acts 7:23–29, 35** — Stephen: *"He supposed that his brothers understood that God, by his hand,
   was giving them deliverance; but they didn't understand"* (7:25); *"This Moses, whom they refused,
   saying, 'Who made you a ruler and a judge?'—God has sent him as both a ruler and a deliverer"* (7:35)
@@ -79,6 +79,14 @@ asked who had made Moses a *judge*; these ones hand him to the Judge. **The refu
 name** — and the God invoked is the one who sent him. Stephen's summary, *"they didn't understand"*
 (Acts 7:25), holds for the sent Moses as for the self-appointed one. Moses' answer is not to the
 officers but to God: *"Why is it that you have sent me?"* (5:22).
+
+**When chapter 18 arrives it answers the taunt word for word.** *Śar* and *šōpēṭ*, *prince* and *judge*,
+are the Hebrew's two nouns (2:14); in 18:13–26 Moses *judges* (*šāpaṭ*, four times — its only Exodus uses
+besides 2:14 and 5:21; WLC) and then installs ***śārê ʾălāpîm*** — *rulers* (*śārîm*) of thousands, hundreds,
+fifties, and tens (18:21, 25; WLC). **The man asked *"Who made you a prince and a judge over us?"* is now the
+judge who makes princes**, and the one who tells him how is the Midianite who took him in when the question drove
+him out. See [[Jethro's Counsel]] and
+[[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]].
 
 ## Significance
 
