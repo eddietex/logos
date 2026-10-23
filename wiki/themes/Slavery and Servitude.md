@@ -299,6 +299,11 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   in Exodus (1:14; 2:23; 5:9, 11; 6:6, 9); here, twice, it is the Passover rite — the first service
   rendered to the God who said *"Let my son go, that he may serve me"* (4:23). The doorpost, *məzûzâ*,
   returns at 21:6 for the slave who chooses to stay
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:31, 44; ***"go, serve Yahweh"*** — **the king who made Israel serve tells it
+  whom to serve**, in the verb of 4:23. And the Passover law's slave: *"every man's servant who is bought
+  for money, when you have circumcised him, then shall he eat of it"* — **the freed people's first law about
+  their own slaves admits them to the rite of freedom**, on Genesis 17's terms (*miqnat kesep*; WLC), while
+  the hired servant is excluded
 
 ## Related themes
 

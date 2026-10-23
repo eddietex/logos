@@ -17,7 +17,10 @@ tags: [connection]
   use — [[I Am Yahweh]]; the second is answered by Aaron as Moses' prophet (7:1) —
   [[Aaron's Staff Before Pharaoh]]
 - **Exodus 12:48** — *"no uncircumcised person shall eat of it"*: the Passover closed to the
-  uncircumcised *(not yet ingested)*
+  uncircumcised — [[The Death of the Firstborn and the Departure]]. **Spoken to Moses and Aaron (12:43)
+  — so the man who called his own lips *ʿăral* is the one who delivers the rule** (WLC); the stranger
+  who wants to eat must first have *"all his males"* circumcised, in the words of Genesis 17:10. See
+  [[One Law for the Native and the Stranger]]
 - **Leviticus 26:41** — an uncircumcised heart humbled, in exile *(not yet ingested; paraphrased)*
 - **Deuteronomy 10:16; 30:6** — Israel told to circumcise the foreskin of its heart; then God
   promising to circumcise it himself *(not yet ingested; paraphrased)*

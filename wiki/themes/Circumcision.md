@@ -131,6 +131,11 @@ a mark that can be perfectly kept and entirely missed.
   17:14 for the uncircumcised, used for the one who eats leaven.** The exact clause stands in
   Genesis–Exodus only at Genesis 17:14; Exodus 12:15, 19; and 31:14 (WLC). The circumcision condition
   for keeping the Passover follows at 12:43–49
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:44, 48; **circumcision made the door to the Passover.** The bought slave
+  eats *"when you have circumcised him"*; the stranger, once *"all his males"* are circumcised —
+  *himmôl lô kol-zākār*, the words of Genesis 17:10 (WLC) — and ***"no uncircumcised person shall eat of
+  it"***. **Genesis 17's household rule becomes the admission rule for Israel's founding rite.** See
+  [[One Law for the Native and the Stranger]] and [[Uncircumcised Lips, Ears, and Heart]]
 
 ## Related themes
 

@@ -962,7 +962,7 @@ merge, or reorder them freely.
 - [[Mahanaim]]
 - [[The Jabbok]]
 - [[Peniel]]
-- [[Succoth]]
+- [[Succoth (Transjordan)]]
 - [[Bethlehem]]
 - [[The Tower of Eder]]
 - [[Sheol]]

@@ -104,6 +104,10 @@ what is withheld, which is Genesis's habit with its patriarchs.
 - [[Aaron's Staff Before Pharaoh]] — Exodus 7:4; ***ṣibʾōtay ʾet-ʿammî***, *"my armies, my
   people"* — **the first time God calls Israel *my armies***, before a single Israelite has borne arms.
   In Exodus *ṣābāʾ* occurs only at 6:26; 7:4; 12:17, 41, 51 (WLC)
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:37, 41, 51; **a slave column counted and named as an army.** *"About six
+  hundred thousand on foot"* — *raglî*, the foot-soldier's word, in the Torah only here and Numbers 11:21
+  (WLC) — and *"all of Yahweh's armies went out"*, *ṣibʾôt YHWH*: the first time the narrator calls Israel
+  Yahweh's armies (7:4 was God's *"my armies"*). **Israel carries plunder and dough, and fights no one**
 
 ## Related themes
 

@@ -369,6 +369,10 @@ rule are the conditions the rest of Scripture is set in.
   (WLC). And ***"the destroyer"***, named at 12:23 and not identified — Yahweh, an angel, or a power he
   restrains; the wiki adopts none. See
   [[The Door and the Destroyer - Lot's House and the Passover Night]]
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:29–36; **the judgment of Genesis 15:14 executed.** *"I will also judge that
+  nation"* — the firstborn struck at midnight, *"Yahweh struck"*, with no destroyer named (12:29); and
+  *"Afterward they will come out with great wealth"* — *"They plundered the Egyptians"* (12:36). The
+  narrator gives the act to Yahweh alone; who the destroyer of 12:23 was is still not said
 
 ## Related themes
 

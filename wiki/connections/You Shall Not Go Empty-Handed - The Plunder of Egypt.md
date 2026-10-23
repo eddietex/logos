@@ -19,7 +19,7 @@ tags: [connection]
   given, in a speech about what is still to come
 - **Exodus 12:35–36** — *"they asked of the Egyptians jewels of silver, and jewels of gold, and
   clothing. Yahweh gave the people favor in the sight of the Egyptians, so that they let them have what
-  they asked. They plundered the Egyptians."*
+  they asked. They plundered the Egyptians."* — [[The Death of the Firstborn and the Departure]]
 - **Psalm 105:37** — *"He brought them out with silver and gold."*
 - **Deuteronomy 15:13–14** — the released Hebrew slave: *"When you let him go free from you, you shall
   not let him go empty. You shall furnish him liberally …"*
@@ -35,7 +35,11 @@ clothing* (3:22; 11:2; 12:35), and is closed with the narrator's *"They plundere
 **The verb is the exodus's own.** *"You shall plunder"* is ***wəniṣṣaltem***, and *"they plundered"*
 ***wayənaṣṣəlû*** — the intensive of ***nāṣal***, whose causative is God's *"I have come down to
 deliver them"* (*ləhaṣṣîlô*, Exodus 3:8). **Israel strips Egypt in the same root by which God rescues
-Israel.**
+Israel.** In Genesis–Deuteronomy the piel occurs only at Exodus 3:22 and 12:36 (WLC lemma search, read by
+stem), **and the children's answer in the same chapter uses the hiphil — *"he … spared (hiṣṣîl) our
+houses"* (12:27) — nine verses before *wayənaṣṣəlû***. The root's one other use in Exodus outside the
+hiphil is the hitpael of 33:6, after the calf: *"The children of Israel stripped themselves of their
+jewelry from Mount Horeb onward"* (WLC; `raw/bible/`; not yet ingested).
 
 **Favor, not force.** Each of the three Exodus texts says *Yahweh gave the people favor in the sight of
 the Egyptians*. **The goods are asked for and given**, by neighbours and by the woman *"who visits her

@@ -3,7 +3,7 @@ type: place
 also_known_as: [Sukkōt]
 tags: [place]
 ---
-# Succoth
+# Succoth (Transjordan)
 
 ## Overview
 
@@ -21,14 +21,12 @@ usually identified with Tell Deir ʿAlla. It is on the direct route from the Jab
 verse) and the Jordan crossing into Canaan proper — **the first stop after the reconciliation, and
 not yet in the land the promise is about.**
 
-**A name Genesis will use twice for two different places.** *Sukkōt* recurs at Exodus 12:37 as the
+**A name the Torah uses for two different places.** *Sukkōt* recurs at Exodus 12:37 as the
 Israelites' first camp after leaving Rameses in Egypt — a different site entirely, on the opposite
 side of the map from this one, sharing nothing with it but the Hebrew word for a booth. **The two
-are not the same place**, and when Exodus is ingested this page and that site will need the
-schema's disambiguating qualifiers (most likely `(Transjordan)` and `(Egypt)`, or a place-kind
-qualifier if a clearer one presents itself) — the same mechanical rule the schema already applies to
-`Mamre (place)` and `Enoch (city)`, flagged here in advance so the collision is not silent when it
-arrives.
+are not the same place.** This page was created as `Succoth` with that collision flagged in advance;
+when Exodus 12:37 was ingested it was renamed `Succoth (Transjordan)`, and the Egyptian site has its
+own page, [[Succoth (Egypt)]].
 
 **1 Kings 7:46 later locates it precisely**: Solomon's bronze foundry works *"in the plain of the
 Jordan… between Succoth and Zarethan"* — the same Transjordan site, still known by this name
@@ -45,6 +43,8 @@ another in the book. [[The Rescue of Lot and Melchizedek]] already cross-referen
 
 ## Related places
 
+- [[Succoth (Egypt)]] — the other Succoth, Israel's first camp out of Egypt (Exodus 12:37); same name,
+  different place
 - [[The Jabbok]] — the river the site sits near the mouth of
 - [[Edom]] — Seir, Esau's destination the same verse, and the place Jacob's own itinerary at 33:14
   names and does not reach

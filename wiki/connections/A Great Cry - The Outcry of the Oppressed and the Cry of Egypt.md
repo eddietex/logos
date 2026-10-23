@@ -22,7 +22,8 @@ tags: [connection]
 - **Exodus 11:6** — *"There shall be a great cry throughout all the land of Egypt, such as there has not
   been, nor shall be any more"* — [[The Last Plague Announced]]
 - **Exodus 12:30** — *"there was a great cry in Egypt, for there was not a house where there was not one
-  dead"* *(not yet ingested)*
+  dead"* — [[The Death of the Firstborn and the Departure]]. **The forecast of 11:6 kept**, with the same
+  noun and adjective, *ṣəʿāqâ gədōlâ* (WLC)
 - **Exodus 22:23–24** — *"If you take advantage of them at all, and they cry at all to me, I will surely
   hear their cry; and my wrath will grow hot, and I will kill you with the sword; and your wives shall be
   widows, and your children fatherless"* *(not yet ingested)*

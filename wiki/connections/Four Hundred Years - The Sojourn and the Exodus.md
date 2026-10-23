@@ -11,7 +11,8 @@ tags: [connection]
   is not theirs, and will serve them. They will afflict them four hundred years… In the fourth
   generation they will come here again."* See [[The Covenant Between the Pieces]].
 - **Exodus 12:40–41** — *"Now the time that the children of Israel lived in Egypt was four hundred
-  thirty years."*
+  thirty years. At the end of four hundred thirty years, to the day, all of Yahweh's armies went out from
+  the land of Egypt."* — [[The Death of the Firstborn and the Departure]]
 - **Exodus 6:16–20** — Levi, Kohath, Amram, Moses: four names between the descent and the exodus,
   with three lifespans — Levi 137, Kohath 133, Amram 137 — [[The Heads of the Fathers' Houses]]
 - **Exodus 2:1; Numbers 26:59** — Moses' mother *"a daughter of Levi"*, which Numbers reads
@@ -22,7 +23,7 @@ tags: [connection]
   of them from Genesis 15:19–21's list — and *"you shall not go empty-handed … You shall plunder the
   Egyptians"*. See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - **Exodus 12:35–36** — the *"great wealth"* of Genesis 15:14, itemized as silver, gold, and
-  clothing.
+  clothing — [[The Death of the Firstborn and the Departure]]
 - **Numbers 32:13; Judges 11:26; 1 Kings 6:1** — the other chronological anchors, and they do not all
   agree.
 - **Acts 7:6** — Stephen quotes the round four hundred.
@@ -142,6 +143,15 @@ is eighty at 7:7). **The four names fit Genesis 15:16's *"fourth generation"* if
 first; counting from Kohath, who entered Egypt (Genesis 46:11), the fourth is Moses' sons' generation,
 or Eleazar's** — the generation that, in Numbers, enters the land. The wiki notes both counts and
 adopts neither. See [[The Heads of the Fathers' Houses]].
+
+**Added with the ingest of Exodus 12:29–51 (2026-10-22).** The verse is now in the wiki. **It dates
+the exodus to the day as well as the year**: *"At the end of four hundred thirty years, to the day
+(bəʿeṣem hayyôm hazzeh)"* (12:41; WLC) — the phrase of 12:17 and 12:51. **All three of Genesis 15:13–14's
+terms fall due in one night**: the nation judged (12:29), the departure (12:41), and *"great wealth"*
+(12:35–36). The Masoretic text of 12:40 reads *"in Egypt"* only (WLC, checked in this pass); the Septuagint
+and Samaritan readings reported above were not re-checked. Galatians 3:17 is now quoted from the WEB: *"A
+covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does
+not annul"* (bible-api.com, `translation=web`). See [[The Death of the Firstborn and the Departure]].
 
 ## Significance
 

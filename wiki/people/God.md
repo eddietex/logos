@@ -1538,6 +1538,21 @@ complaint at 5:23: he *"spared"* — *hiṣṣîl*, *rescued* — *"our houses"*
 [[The Door and the Destroyer - Lot's House and the Passover Night]], and
 [[Christ Our Passover - Exodus 12 in the New Testament]].
 
+### He strikes at midnight, and brings them out on the day — Exodus 12:29–51
+
+**He keeps the appointment to the hour.** *"At midnight, Yahweh struck all the firstborn"* (12:29) — the
+*"About midnight"* of 11:4 without the *about*, and **the narrator gives the act to Yahweh alone**, with no
+mention of the destroyer of 12:23. The range runs from Pharaoh's heir to *"the captive who was in the
+dungeon"* — *bôr*, Joseph's pit and prison (Genesis 37:24; 40:15; 41:14; WLC). **He gives the people favour
+a third time** and they plunder Egypt in the root of his own *"deliver"* (*nāṣal*, 3:8; 12:36; WLC). **He
+keeps Genesis 15's term *"to the day"*** — four hundred thirty years (12:40–41) — and the night is *lêl
+šimmurîm*, a night of watching, *"to Yahweh"* and then to Israel (12:42). **Then, with Israel already on
+the road, he gives a second Passover law about who may eat**: no foreigner, settler, or hired man; the
+circumcised slave and the circumcised stranger, under ***"One law"*** (12:43–49) — the first singular
+*tôrâ* in Scripture (WLC). **The pericope ends with the book's verb in the narrator's voice as a finished
+act**: *"Yahweh brought the children of Israel out of the land of Egypt by their armies"* (12:51). See
+[[The Death of the Firstborn and the Departure]] and [[One Law for the Native and the Stranger]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1725,6 +1740,9 @@ complaint at 5:23: he *"spared"* — *hiṣṣîl*, *rescued* — *"our houses"*
 - Gives the first month, the Passover lamb, the blood on the door, and the feast of unleavened bread;
   says he will strike the firstborn, judge the gods of Egypt, and pass over the marked houses —
   Exodus 12:1–28, [[The Passover]]
+- Strikes the firstborn of Egypt at midnight; gives Israel favour and the plunder; keeps the four hundred
+  thirty years to the day; gives the second Passover law, *"One law"* for native and stranger; brings
+  Israel out by their armies — Exodus 12:29–51, [[The Death of the Firstborn and the Departure]]
 
 ## Appears in
 
@@ -2080,6 +2098,9 @@ complaint at 5:23: he *"spared"* — *hiṣṣîl*, *rescued* — *"our houses"*
 - [[The Passover]] — Exodus 12:1–28; **the rite given before the rescue.** *"The beginning of months"*;
   *"Against all the gods of Egypt I will execute judgments: I am Yahweh"*; *"when I see the blood, I will
   pass over you"*; *"a memorial"*
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51; **the blow, and the bringing out.** *"At midnight, Yahweh struck all the
+  firstborn"*; *"Yahweh gave the people favor"*; *"a night to be much observed to Yahweh"*; *"One law"*;
+  *"Yahweh brought the children of Israel out"*
 
 ## Related people
 

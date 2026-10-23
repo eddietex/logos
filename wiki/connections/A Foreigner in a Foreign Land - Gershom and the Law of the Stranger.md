@@ -25,6 +25,11 @@ tags: [connection]
   Egypt."*
 - **Acts 7:29** — *"Moses fled at this saying, and became a stranger in the land of Midian, where he
   became the father of two sons."*
+- **Exodus 12:48–49** — *"When a stranger shall live as a foreigner with you, and will keep the Passover
+  to Yahweh … he shall be as one who is born in the land … One law shall be to him who is born at home,
+  and to the stranger who lives as a foreigner among you."* **The first law about the *gēr*, given before
+  the ethic of 22:21** — [[The Death of the Firstborn and the Departure]],
+  [[One Law for the Native and the Stranger]]
 
 ## Analysis
 

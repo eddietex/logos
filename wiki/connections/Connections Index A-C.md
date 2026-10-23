@@ -23,7 +23,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
 | [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]] | quotation | Genesis 28:12 · John 1:43–51 · Genesis 27:35 · Genesis 32:28 · Hosea 12:3–4 |
 | [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
-| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 |
+| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 |
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Job 22:15–17 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |
@@ -52,7 +52,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
 | [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] | literary parallel | Genesis 21:2, 7 · Genesis 37:3–4 · Genesis 43:34 · Genesis 44:20 · Genesis 45:22 |
 | [[Child Sacrifice and the Redemption of the Firstborn]] | thread | Genesis 22:1–19 · Exodus 13:2, 11–15; 22:29–30 · Leviticus 18:21; 20:2–5 · Deuteronomy 12:31 · Judges 11:29–40 · 2 Kings 3:26–27 · Jeremiah 7:31 · Ezekiel 20:25–26 · Micah 6:6–8 · Exodus 4:22–26 |
-| [[Christ Our Passover - Exodus 12 in the New Testament]] | quotation | Exodus 12:1–28 · 1 Corinthians 5:6–8 · John 1:29 · John 19:14, 36 · 1 Peter 1:18–19 · Hebrews 11:28 · Luke 22:15 |
+| [[Christ Our Passover - Exodus 12 in the New Testament]] | quotation | Exodus 12:1–28 · 1 Corinthians 5:6–8 · John 1:29 · John 19:14, 36 · 1 Peter 1:18–19 · Hebrews 11:28 · Luke 22:15 · Exodus 12:46 · Numbers 9:12 · Psalm 34:20 |
 | [[Circumcision of the Heart]] | thread | Genesis 17:10–14 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Ezekiel 44:7, 9 · Acts 7:51 · Romans 2:25–29 · Colossians 2:11–12 |
 | [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |

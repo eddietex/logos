@@ -16,6 +16,8 @@ tags: [connection]
   Abram gives him a tenth.
 - **Hebrews 7:7** — without any dispute, the lesser is blessed by the greater.
 - **Exodus 1:8** — *"Now there arose a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
+- **Exodus 12:32** — *"Take both your flocks and your herds, as you have said, and be gone; and bless me
+  also!"* — [[The Death of the Firstborn and the Departure]]
 
 ## Analysis
 
@@ -76,6 +78,15 @@ before any exchange at all — **it is the first act of the audience, performed 
 been walked in, and it is what he does instead of the obeisance the reader expects.** **Everyone else
 who comes before this Pharaoh in Genesis bows, runs, is summoned, or answers questions.** **Jacob
 blesses him and is asked how old he is.**
+### Added with the ingest of Exodus 12:29–51 (2026-10-22): a Pharaoh asks
+
+**The scene is answered at the other end of the sojourn.** On the night his firstborn dies, the king who
+asked *"Who is Yahweh?"* (Exodus 5:2) ends his release of Israel with ***"and bless me also!"*** —
+*ûbēraktem gam-ʾōtî*, the piel of *bārak* with Moses and Aaron as subject (WLC). **In Genesis 47 a Pharaoh
+was blessed twice without asking, by an old man who had nothing; in Exodus 12 a Pharaoh asks, at the
+moment he has lost everything, and no blessing is reported.** The text does not say whether Moses
+answered. The wiki records the silence. If Hebrews 7:7's rule is applied here, the request concedes
+what Genesis 47 showed: that the greater party in the room is not the king.
 
 ## Significance
 

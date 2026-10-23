@@ -5764,7 +5764,7 @@ Genesis 34 — all confirmed as the working line before any page was written.
   page on the same logic as prior instances of a verbal parallel crossing non-adjacent texts: it gets
   its own page even though [[Jacob]], [[Esau]], and [[Seeing and Being Seen]] each also discuss the
   verse.
-- **One new place page.** [[Succoth]], named for the shelters Jacob builds the day he leaves Esau —
+- **One new place page.** [[Succoth (Transjordan)]], named for the shelters Jacob builds the day he leaves Esau —
   and flagged in its own text, in advance, for the collision Exodus 12:37's differently located
   Succoth will produce when Exodus is ingested.
 - **No page was created for the four hundred men** — they simply arrive as reported and do nothing;
@@ -5783,7 +5783,7 @@ Genesis 34 — all confirmed as the working line before any page was written.
 
 ### Pages touched
 
-**Created (4).** `wiki/passages/Genesis/The Reconciliation with Esau.md`; place [[Succoth]]; person
+**Created (4).** `wiki/passages/Genesis/The Reconciliation with Esau.md`; place [[Succoth (Transjordan)]]; person
 [[Hamor]]; connection
 [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]].
 
@@ -5802,7 +5802,7 @@ cross-references (3, stale forward-reference markers resolved):
 [[Jacob and Esau and the Sold Birthright]], [[The Stolen Blessing]], [[Wrestling at the Jabbok]].
 
 **Indexes.** `wiki/books/Genesis.md` (box checked, structure paragraph extended by a full pericope
-summary, [[Hamor]] added to key people, [[Succoth]] added to key places), `wiki/books/index.md`
+summary, [[Hamor]] added to key people, [[Succoth (Transjordan)]] added to key places), `wiki/books/index.md`
 (**41 / 59 → 42 / 59**), six rows extended and one new row in `wiki/people/index.md`, one row
 extended and one new row in `wiki/places/index.md`, six rows extended in `wiki/themes/index.md`, one
 new row in `wiki/connections/index.md`. `wiki/index.md` now reads **48 passages · 99 people · 54
@@ -12304,5 +12304,107 @@ Genesis–Deuteronomy: *pesaḥ*, *pāsaḥ*, *mašqôp*, *məzûzâ*, *ʾēzôb
   - connections: 2 rows added (in [[Connections Index A-C]] and [[Connections Index D-H]]); 4 rows'
     references extended.
   - `wiki/index.md`: 106 passages, 166 people, 80 places, 71 themes, 302 connections.
+
+`scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 12.29-51 — The Death of the Firstborn and the Departure
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Death of the Firstborn
+and the Departure — Exodus 12:29–51*. The boundary was kept as planned. There was no discussion step; its
+content is written into the passage page.
+
+### The passage page
+
+[[The Death of the Firstborn and the Departure]] covers:
+
+- 12:29–30: *"At midnight"* without 11:4's *about*; *"Yahweh struck"*, with no destroyer named; the range
+  ending at *"the captive … in the dungeon"* — *šəbî*, first in the Torah, and *bôr*, Joseph's pit and
+  dungeon (Genesis 37:24; 40:15; 41:14); *ṣəʿāqâ gədōlâ*.
+- 12:31–32: *"called for Moses and Aaron by night"* against 10:28–29 (tension recorded); *qûmû ṣəʾû*, Lot's
+  words at Genesis 19:14; *gam … gam* and *"as you have said"* twice; *ʿibdû ʾet-YHWH*; *"bless me also!"*
+  against Genesis 47:7, 10; the servants' bowing (11:8) not narrated.
+- 12:33–36: *ḥāzaq* of the heart turned to urgency; *"We are all dead men"*; the kneading troughs of the
+  frogs; the plunder in the piel of *nāṣal* (only 3:22 and here in the Torah) beside 12:27's hiphil.
+- 12:37–39: Rameses; Succoth; *raglî* and six hundred thousand (three readings, none adopted); *ʿēreb
+  rab*, only here, distinct from Numbers 11:4's *ʾăsapsup*; *ʿugôt*; *gāraš* fulfilled (6:1; 11:1);
+  *māhah*, Lot's *lingered*; *ṣêdâ*, Joseph's provisions.
+- 12:40–42: four hundred thirty years *"to the day"*; *ʿeṣem* as *very* and *bone*; *ṣibʾôt YHWH*;
+  *lêl šimmurîm*, only here.
+- 12:43–49: a table of the five words for outsiders (*ben-nēkār*, bought slave, *tôšāb*, *śākîr*, *gēr*);
+  Genesis 17:10, 12–13, 27 taken over; *"Do not break any of its bones"* with Numbers 9:12, Psalm 34:20,
+  and John 19:36; *ʿārēl*; *ʾezraḥ*; ***tôrâ ʾaḥat***, the first singular *tôrâ* in Scripture.
+- 12:50–51: the obedience formula a second time; *hôṣîʾ YHWH* beside 12:41's *yāṣəʾû*.
+- **Night or day?** 12:31, 42 and Deuteronomy 16:1 against 12:41, 51 and Numbers 33:3 — recorded with the
+  usual harmonization and not resolved.
+
+### Judgment calls
+
+- **Succoth renamed.** `wiki/places/Succoth.md` → `wiki/places/Succoth (Transjordan).md`, as that page
+  and the Genesis 33 log entry had scheduled, and [[Succoth (Egypt)]] created. Inbound links fixed in
+  `books/Genesis.md`, `places/index.md`, `The Reconciliation with Esau` (whose note on the coming
+  collision is updated), and three earlier entries of this log, whose link targets were rewritten so that
+  the link check stays clean — their wording is otherwise unchanged.
+- **New connection: [[One Law for the Native and the Stranger]]** — Exodus 12:19, 48–49; Leviticus 24:22;
+  Numbers 9:14; 15:15–16, 29. Kept separate from
+  [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]], which traces the ethic of the
+  stranger; this one traces whether the stranger stands under the same law.
+- **No new person pages.** The Egyptians are recorded on [[Egypt]]; the mixed multitude is unidentified.
+  [[Joseph]]'s page was not revised: he is not in the passage, and the *bôr* echo is recorded on the
+  passage page only, marked as not demonstrable.
+- **Readings reported, not adopted:** who struck; the *bôr* echo; the *šimmurîm* as mutual vigil; *ʾelep*;
+  the mixed multitude; why no bone is broken; which Scripture John 19:36 cites; whether Moses blessed
+  Pharaoh.
+- **Marked at their point as not checked in this pass:** the Septuagint and Samaritan readings of 12:40
+  (reported from the existing page); the Septuagint of Exodus 12:46 and Psalm 34:20 against John 19:36;
+  the identification of Succoth (Egypt) with the Wadi Tumilat and *Tjeku*.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 12:29–51; Exodus 10:28; 11:4, 8;
+Genesis 17:10, 12–13, 27; 19:14, 16; 23:4; 37:24; 40:15; 41:14; Leviticus 23:34; 24:22; Numbers 9:12, 14;
+11:4, 21; 15:15–16, 29; 33:3; Psalm 34:21. Lemma searches of Genesis–Deuteronomy: *nāṣal*, *ʿēreb*,
+*šimmurîm*, *nēkār*, *tôšāb*, *śākîr*, *mišʾeret*, *gāraš*, *bôr*, *bāṣēq*, *ʿugâ*, *ṣêdâ*, *tôrâ*,
+*raglî*, *šəbî*, *māhah*, *ḥāmēṣ*, *ʿārēl*, *ṣābāʾ*, *šābar* (Genesis, Exodus, Numbers), *sukkōt* (place
+and noun); in Exodus *ḥāzaq* and *ʿeṣem*. **Greek was checked against the SBLGNT (MorphGNT):** John 19:36.
+**Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+(`translation=web`): Leviticus 23:34, 42–43; 24:16–22; Numbers 1:46; 9:12, 14; 11:4, 21; 15:15–16, 29;
+33:3–5; Psalm 34:20; John 19:36; Galatians 3:17.
+
+### Pages created or revised
+
+- **Created (3):** the passage page; [[Succoth (Egypt)]]; [[One Law for the Native and the Stranger]].
+- **Renamed (1):** [[Succoth (Transjordan)]], with a related-places link to the new page.
+- **People revised (5):** [[God]], [[Moses]], [[Aaron]], [[Pharaoh (of the Exodus)]],
+  [[Pharaoh's Servants (of the Exodus)]] — overview section or paragraph, timeline, and appears-in entry;
+  *What is ahead* trimmed for Moses, Aaron, Pharaoh, and the servants.
+- **Places revised (2):** [[Egypt]] and [[Rameses]].
+- **Themes revised (14):** [[Birthright and the Firstborn]], [[Judgment]], [[Mourning and Lament]],
+  [[Blessing]], [[Favor and Grace]], [[Wealth and Possessions]], [[Slavery and Servitude]],
+  [[Circumcision]], [[The Nations]], [[Land and Sojourning]], [[Remembrance]],
+  [[Sacrifice and Offering]], [[Prophecy and Vision]], [[War]].
+- **Connections revised (12):** [[Four Hundred Years - The Sojourn and the Exodus]],
+  [[You Shall Not Go Empty-Handed - The Plunder of Egypt]],
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]],
+  [[Christ Our Passover - Exodus 12 in the New Testament]],
+  [[As God Commanded, So He Did - The Obedience Formula]],
+  [[The Door and the Destroyer - Lot's House and the Passover Night]],
+  [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]],
+  [[A Stranger and a Foreigner - The Sojourner's Confession]],
+  [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]],
+  [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]],
+  [[Uncircumcised Lips, Ears, and Heart]],
+  [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]].
+- **Passages revised (1):** [[The Reconciliation with Esau]] — the Succoth link and collision note.
+- **Book pages:** [[Exodus]] — box checked; the 12–15:21 structure note covers 12:29–51; key places +1
+  ([[Succoth (Egypt)]]). [[Genesis]] — the Succoth link renamed.
+- **Indexes:**
+  - books: Exodus 16 / 53.
+  - people: 5 rows extended.
+  - places: 1 row added, 2 rows extended, 1 row renamed.
+  - themes: 14 rows extended.
+  - connections: 1 row added (in [[Connections Index O-S]]); 9 rows' references extended.
+  - `wiki/index.md`: 107 passages, 166 people, 81 places, 71 themes, 303 connections.
 
 `scripts/link-check.sh` is clean.

@@ -282,6 +282,10 @@ happens.
   else**: Moses is *"as God"* to Pharaoh, and Aaron speaks what Moses gives him. *Nābîʾ* occurs only
   at Genesis 20:7 and Exodus 7:1 in Genesis, Exodus, and Job (WLC) —
   [[A Prophet Who Prays - The First Nabi in Scripture]]
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:29–41; **two forecasts kept, and one not narrated.** The midnight of 11:4 and the
+  four hundred thirty years *"to the day"* of Genesis 15:13–14's term (12:41) are kept; the *"great cry"*
+  of 11:6 comes; but the servants' bowing to Moses foretold at 11:8 is not reported, and Pharaoh himself
+  says *"get out"*. See [[Four Hundred Years - The Sojourn and the Exodus]]
 
 ## Related themes
 

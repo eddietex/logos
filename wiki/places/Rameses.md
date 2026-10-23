@@ -19,7 +19,7 @@ generous in every clause: *a possession*, *the best of the land*, *as Pharaoh ha
 **The rest of the Pentateuch uses it twice more and both times it is about slavery or escape.**
 **Exodus 1:11 makes Raamses one of the two store-cities Israel builds for Pharaoh under forced
 labour**, with Pithom; **Exodus 12:37 makes Rameses the place the nation marches out of** on the night
-of the Passover, on the first stage to Succoth. **Numbers 33:3–5 repeats it as the first station of
+of the Passover, on the first stage to [[Succoth (Egypt)]]. **Numbers 33:3–5 repeats it as the first station of
 the wilderness itinerary.**
 
 **So the district Genesis hands over as a favour is the district Exodus will describe as a work camp,
@@ -50,6 +50,9 @@ it as evidence for or against anything else.**
   Pharaoh: Pithom and Raamses"* — the WEB spells it *Raamses* here — under taskmasters, *"to afflict
   them with their burdens"*. **The district given as *a possession* at Genesis 47:11 is the city the
   family builds as slaves**
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:37; **the starting line.** *"The children
+  of Israel traveled from Rameses to Succoth"* — the district given as a gift, built as a store-city, and
+  now the place the nation marches out of
 
 ## Related places
 
@@ -58,10 +61,12 @@ it as evidence for or against anything else.**
 - [[On]] — [[Potiphera]]'s city, the other Egyptian town named in this register
 - [[Canaan]] — the land the family holds nothing in but a grave
 - [[Pithom]] — the other storage city of Exodus 1:11
+- [[Succoth (Egypt)]] — the first camp of the march out (Exodus 12:37)
 
 ## Events here
 
 - [[Joseph]] settles his father and his brothers and gives them a possession — Genesis 47:11
 - Israel builds [[Pithom]] and Raamses as store-cities under forced labour — Exodus 1:11,
   [[The Oppression in Egypt]]
-- Israel departs for Succoth on the night of the Exodus — Exodus 12:37; Numbers 33:3–5
+- Israel departs for Succoth on the night of the Exodus — Exodus 12:37; Numbers 33:3–5,
+  [[The Death of the Firstborn and the Departure]]

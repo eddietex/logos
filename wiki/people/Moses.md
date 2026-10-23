@@ -222,10 +222,21 @@ children's question and its answer, *"It is the sacrifice of Yahweh's Passover"*
 bow and worship, as they did at his first report (4:31), and do *"as Yahweh had commanded Moses and
 Aaron"*** (12:27–28). See [[The Passover]].
 
+**On the night itself he is sent for, and his terms are met to the letter.** Pharaoh *"called for Moses
+and Aaron by night"* (12:31) — **an awkward fit with *"I will see your face again no more"* (10:29)**, which
+the text does not resolve: *called for* may mean *sent for*, and the passage page records both readings.
+*"Rise up, get out … go, serve Yahweh, as you have said! Take both your flocks and your herds, as you have
+said"* (12:31–32) — **every condition Moses refused is withdrawn, in the words *"as you have said"***,
+twice. Pharaoh adds *"bless me also!"*, and no answer is recorded. **Moses had forecast that Pharaoh's
+servants would bow to him and say *"Get out"* (11:8); what is narrated is Pharaoh saying it.** The people
+do *"according to the word of Moses"* in asking for the silver and gold (12:35), and with Aaron he receives
+the second Passover law, whose ban on *"the uncircumcised"* (*ʿārēl*) is given through the man who called
+his own lips uncircumcised (6:12, 30; WLC). See [[The Death of the Firstborn and the Departure]].
+
 ### What is ahead
 
-The last plague and the departure, the sea, and the
-wilderness (12:29–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+The consecration of the firstborn and the sea (13–15), the
+wilderness (15:22–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 ## Timeline / key events
@@ -288,6 +299,8 @@ sections are written as their pericopes arrive.
   distinction; goes out from Pharaoh *"in hot anger"* — Exodus 11:1–10, [[The Last Plague Announced]]
 - Given the Passover with Aaron; relays it to the elders with the hyssop, the door, and the destroyer;
   the people worship and obey — Exodus 12:1–28, [[The Passover]]
+- Summoned by night and told *"get out … as you have said"*; asked to bless Pharaoh; his word obeyed in the
+  plunder; given the second Passover law with Aaron — Exodus 12:29–51, [[The Death of the Firstborn and the Departure]]
 
 ## Appears in
 
@@ -334,6 +347,8 @@ sections are written as their pericopes arrive.
 - [[The Passover]] — Exodus 12:1–28; **the lawgiver before the law.** Relays the rite to the elders;
   *"none of you shall go out of the door of his house until the morning"*; *"the destroyer"*; the
   children's question
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:31–50; **his terms granted.** *"Rise up, get out … as you have said!"*; *"bless
+  me also!"*; *"The children of Israel did according to the word of Moses"*
 
 ## Related people
 

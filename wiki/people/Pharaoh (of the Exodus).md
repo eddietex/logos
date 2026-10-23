@@ -125,10 +125,22 @@ God says once more *"Pharaoh won't listen to you"* (11:9, the words of 7:4), and
 cycle: *"Yahweh hardened Pharaoh's heart, and he didn't let the children of Israel go out of his
 land"* (11:10). See [[The Last Plague Announced]].
 
+**At midnight his own firstborn dies, and he gives up everything.** *"From the firstborn of Pharaoh who
+sat on his throne"* (12:29) — the price named at 4:23 paid. ***"Pharaoh rose up in the night, he, and all
+his servants"***, and there is a great cry in Egypt (12:30). **He summons Moses and Aaron by night** — the
+text does not say he saw their faces, after *"in the day you see my face you shall die"* (10:28) — and
+withdraws every condition he has set since chapter 8: *"Rise up, get out from among my people, both you and
+the children of Israel; and go, serve Yahweh, as you have said! Take both your flocks and your herds, as
+you have said"* (12:31–32). **The bargaining of 8:25–28 and 10:8–11, 24 ends in Moses' own terms**,
+quoted back to him twice. ***"And bless me also!"*** — **the king who asked *"Who is Yahweh?"* (5:2) asks
+to be blessed by Yahweh's servants**, as an earlier Pharaoh was blessed unasked by Jacob (Genesis 47:7,
+10). No reply is recorded. See [[The Death of the Firstborn and the Departure]] and
+[[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]].
+
 ### What is ahead
 
-The last plague and the release (12); the pursuit; and the
-sea. These are written as
+The pursuit, and the change of heart — *"What is this we have done, that we have let Israel go from
+serving us?"* (14:5) — and the sea. These are written as
 their pericopes arrive.
 
 ## Timeline / key events
@@ -159,6 +171,9 @@ their pericopes arrive.
 - Told that his firstborn, the heir *"who sits on his throne"*, will die at midnight with all the
   firstborn of Egypt, and that his servants will bow to Moses; his heart hardened by Yahweh — Exodus
   11:1–10, [[The Last Plague Announced]]
+- His firstborn struck at midnight; rises in the night; summons Moses and Aaron and releases the people,
+  their children, and their herds *"as you have said"*; asks *"bless me also!"* — Exodus 12:29–32,
+  [[The Death of the Firstborn and the Departure]]
 
 ## Appears in
 
@@ -187,6 +202,8 @@ their pericopes arrive.
   shall die!"*
 - [[The Last Plague Announced]] — Exodus 11:1–10; **told his heir will die.** *"From the firstborn of Pharaoh who sits on
   his throne"*; *"All these servants of yours will come down to me"*; *"Pharaoh won't listen to you"*
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:29–32; **bereaved, and conceding everything.** *"The firstborn of Pharaoh who
+  sat on his throne"*; *"Rise up, get out"*; *"as you have said"*; *"bless me also!"*
 
 ## Related people
 

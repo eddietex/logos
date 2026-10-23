@@ -265,6 +265,10 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - [[The Passover]] — Exodus 12:14, 24–27; **the first *zikkārôn* in Scripture, and the first thing
   Israel is given to remember with.** *"This day shall be to you for a memorial"*; and the question built
   into the rite, *"What do you mean by this service?"*, answered with the story (12:26–27)
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:42; ***"It is a night to be much observed to Yahweh … to be much observed of all
+  the children of Israel throughout their generations"*** — *lêl šimmurîm*, a night of watching (WLC), said
+  first of Yahweh and then of Israel. **The keeping is mutual in the grammar**; whether it means God's vigil
+  and Israel's in return is a reading the Hebrew allows and does not spell out
 
 ## Related themes
 

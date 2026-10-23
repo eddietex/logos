@@ -14,8 +14,11 @@ tags: [connection]
   in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the
   firstborn of the female servant who is behind the mill"*; and against Israel *"a dog won't even bark
   or move its tongue"* — [[The Last Plague Announced]]. **The threat of 4:23 announced with an hour and a range**
-- **Exodus 12:29; 13:15** — the firstborn of Egypt struck, and Israel's firstborn redeemed because of
-  it *(not yet ingested)*
+- **Exodus 12:29** — *"At midnight, Yahweh struck all the firstborn in the land of Egypt, from the
+  firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon"* —
+  [[The Death of the Firstborn and the Departure]]. **The threat of 4:23 carried out, in one verse**, and
+  Pharaoh's first words afterward are *"go, serve Yahweh"* (12:31) — the *"that he may serve me"* of 4:23
+- **Exodus 13:15** — Israel's firstborn redeemed because of it *(not yet ingested)*
 - **Deuteronomy 14:1; 32:6** — *"You are the children of Yahweh your God"*; *"Isn't he your father
   who has bought you?"* *(not yet ingested)*
 - **Psalm 89:26–27** — of David's line: *"He will call to me, 'You are my Father …' I will also

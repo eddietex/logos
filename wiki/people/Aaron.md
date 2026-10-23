@@ -117,9 +117,14 @@ land of Egypt"* (12:1): the first law Israel receives is given to both brothers.
 priest** — every household kills its own lamb — and the man who will be Israel's first high priest has
 no part in it but to hear it. See [[The Passover]].
 
+**On the night of the departure he is summoned with Moses and addressed with him.** Pharaoh *"called
+for Moses and Aaron by night"* (12:31), and the second Passover law — who may eat — is spoken *"to Moses
+and Aaron"* (12:43) and obeyed *"as Yahweh commanded Moses and Aaron"* (12:50). **He says nothing in the
+pericope.** See [[The Death of the Firstborn and the Departure]].
+
 ### What is ahead
 
-The last plague and the departure (12:29–51); Sinai, where he goes up with the elders (24); the priestly
+The consecration of the firstborn and the sea (13–15); Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -150,6 +155,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - Named with Moses in the summary of the wonders — Exodus 11:10, [[The Last Plague Announced]]
 - Addressed with Moses when the Passover is given; named in the formula of obedience — Exodus 12:1,
   28, [[The Passover]]
+- Summoned with Moses by night; addressed with him in the ordinance of the Passover; named in the formula
+  of obedience — Exodus 12:31, 43, 50, [[The Death of the Firstborn and the Departure]]
 
 ## Appears in
 
@@ -179,6 +186,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   before Pharaoh"*
 - [[The Passover]] — Exodus 12:1–28; **addressed, not speaking.** *"Yahweh spoke to Moses and Aaron in the
   land of Egypt"*; a rite with no priest
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:31, 43, 50; **summoned and addressed, silent.** *"He called for Moses and Aaron
+  by night"*; *"Yahweh said to Moses and Aaron, 'This is the ordinance of the Passover'"*
 
 ## Related people
 

@@ -189,6 +189,11 @@ holds up Esau as the warning.
 - [[The Passover]] — Exodus 12:12–13, 23; **the firstborn of Egypt doomed and Israel's marked off.**
   *"I will … strike all the firstborn in the land of Egypt, both man and animal"*; the blood on the door
   is what separates the two. The pericope ends before the blow (12:29)
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:29; **the threat of 4:23 carried out in one verse.** *"At midnight, Yahweh struck
+  all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the
+  firstborn of the captive who was in the dungeon"*. **Pharaoh's first words afterward are *"go, serve
+  Yahweh"*** (12:31) — the release of God's firstborn bought with Egypt's. See
+  [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
 
 ## Related themes
 

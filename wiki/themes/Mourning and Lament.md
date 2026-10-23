@@ -151,6 +151,11 @@ regulating it.
   *ṣəʿāqâ* was Israel's under the taskmasters (3:7, 9), and now it is Egypt's over its firstborn
   (11:6; 12:30). The only other *ṣəʿāqâ gədōlâ* in the Torah is Esau's (Genesis 27:34, WLC) —
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:30; ***"there was a great cry in Egypt, for there was not a house where there was
+  not one dead"*** — the cry of 11:6 kept, *ṣəʿāqâ gədōlâ* (WLC). **The text records the cry and no rite of
+  mourning**; the next Egyptian act is to urge Israel out. Numbers 33:4 places the departure *"while the
+  Egyptians were burying all their firstborn"* (WEB). See
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
 
 ## Related themes
 

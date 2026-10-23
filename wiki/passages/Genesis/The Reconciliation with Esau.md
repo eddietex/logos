@@ -184,7 +184,7 @@ meaning quite what it said. See [[Deception]] and the Notes below.
 **Succoth is named for what has just happened**, in the naming pattern this wiki has tracked since
 Beersheba and Peniel: *booths*, ***sukkōt***, because Jacob built shelters there — **the same
 register as Peniel and the opposite of Mahanaim**, which was named for a division that had not yet
-occurred (32:2). See [[Names and Naming]] and [[Succoth]].
+occurred (32:2). See [[Names and Naming]] and [[Succoth (Transjordan)]].
 
 ### 33:18–20 — Shechem, the purchase, and the altar
 
@@ -238,10 +238,10 @@ Genesis 34 will make him a central figure. See [[Hamor]].
 
 ## Places
 
-- [[Succoth]] — named here for the shelters Jacob builds; new page. **A future collision to flag
+- [[Succoth (Transjordan)]] — named here for the shelters Jacob builds; new page. **A future collision to flag
   now**: Exodus 12:37 names a different Succoth, the Israelites' first stop out of Egypt, and the two
-  are not the same place. When Exodus is ingested this page and that one will need the `(place)`-style
-  qualifiers the schema uses for name collisions.
+  are not the same place. When Exodus 12:37 was ingested this page was renamed `Succoth (Transjordan)`
+  and the Egyptian site given its own page, [[Succoth (Egypt)]].
 - [[Shechem (city)]] — updated. Already on the wiki from [[The Call of Abram]] as the first stop in the land
   Abram made; this pericope adds Jacob's purchase and altar, the second event in the thread the
   connection page below already anticipated.
@@ -329,7 +329,7 @@ Genesis 34 will make him a central figure. See [[Hamor]].
   father"*, with no action of his own — the same situation [[Dinah]] was in when she was named at her
   birth, eleven chapters before her own chapter. The page is created thin now, on that precedent, and
   will be filled out when Genesis 34 is ingested.
-- **On what was created.** **One place page**, [[Succoth]], flagged in advance for a future
+- **On what was created.** **One place page**, [[Succoth (Transjordan)]], flagged in advance for a future
   collision with the Exodus 12:37 site of the same name. **One person page**, [[Hamor]], deliberately
   thin. **One connection page**,
   [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]], tracing 33:4's five verbs

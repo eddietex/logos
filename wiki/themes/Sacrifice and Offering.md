@@ -195,6 +195,10 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   animal), killed by every household, roasted whole, and eaten; called *"the sacrifice (zebaḥ) of
   Yahweh's Passover"* (12:27) — a meal-sacrifice, not an *ʿōlâ*. Deuteronomy 16 moves it to the chosen
   place, and its cooking verb is disputed — see the table on the passage page
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:43–49; **the Passover sacrifice given its admission rules.** Eaten *"in one
+  house"*, none of the meat carried out, ***"Do not break any of its bones"*** — no reason given; repeated
+  at Numbers 9:12 and taken up by John 19:36. See
+  [[Christ Our Passover - Exodus 12 in the New Testament]]
 
 ## Related themes
 

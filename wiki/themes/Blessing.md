@@ -362,6 +362,9 @@ costly.
   verbs of Genesis 1:28 and 9:1–7 — then *"the more they afflicted them, the more they multiplied"*,
   and *"the people multiplied, and grew very mighty"*. Pharaoh's aim is *"lest they multiply"*
   (1:10). God gives the midwives *bāttîm*, households (1:21)
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:32; ***"and bless me also!"*** — **a Pharaoh asks for a blessing**, at the moment
+  his firstborn is dead and his terms are gone. Genesis 47:7, 10 gave a Pharaoh Jacob's blessing unasked;
+  here no blessing is reported. See [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]]
 
 ## Related themes
 

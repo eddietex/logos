@@ -22,7 +22,8 @@ tags: [connection]
   destroyer of the firstborn should not touch them"* (WEB)
 - **Luke 22:15** — *"I have earnestly desired to eat this Passover with you before I suffer"* (WEB)
 - **John 19:14, 36** — *"the Preparation Day of the Passover"*; *"A bone of him will not be broken"*
-  (WEB), with Exodus 12:46 (the next pericope), Numbers 9:12, and Psalm 34:20
+  (WEB), with Exodus 12:46 — *"Do not break any of its bones"*, at
+  [[The Death of the Firstborn and the Departure]] — Numbers 9:12, and Psalm 34:20
 
 ## Analysis
 
@@ -63,8 +64,15 @@ slaughter, and the lamb Abraham said God would provide (Genesis 22:8) — and th
 was the Preparation Day of the Passover"* (19:14, WEB) — the day the lambs were killed — and his legs are
 not broken, *"that the Scripture might be fulfilled, 'A bone of him will not be broken'"* (19:36, WEB).
 John does not say which Scripture. The Passover law forbids breaking the lamb's bones (Exodus 12:46,
-the next pericope; Numbers 9:12), and Psalm 34:20 says of the righteous, *"He protects all of his bones.
-Not one of them is broken"* (WEB); readers have heard either or both.
+*wəʿeṣem lōʾ tišbərû-bô*; Numbers 9:12, *"nor break a bone of it"*, WEB), and Psalm 34:20 says of the
+righteous, *"He protects all of his bones. Not one of them is broken"* (WEB); readers have heard either or
+both. **John's *Ὀστοῦν οὐ συντριβήσεται αὐτοῦ*** (SBLGNT) **is passive, like the Psalm's niphal
+*nišbārâ*, *is broken*** (Psalm 34:21 in Hebrew; WLC), **where both Passover laws are active prohibitions
+in the plural** — *you shall not break*, *they shall not break* (WLC). On form, the
+citation is closer to the Psalm; on setting — the Preparation Day, the lambs — it is closer to the
+Passover. Whether the Septuagint of either verse matches John's wording is not checked in this pass.
+**Exodus 12:46 gives no reason for the rule**, so the law supplies John no interpretation of its own. See
+[[The Death of the Firstborn and the Departure]].
 
 ### 1 Peter: without blemish, and redeemed
 

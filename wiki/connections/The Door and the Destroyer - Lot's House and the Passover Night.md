@@ -14,6 +14,9 @@ tags: [connection]
 - **Exodus 12:1–28** — unleavened bread, blood on the door, *"none of you shall go out of the door of his
   house until the morning"* (12:22), and Yahweh *"will not allow the destroyer to come in"* (12:23). See
   [[The Passover]].
+- **Exodus 12:29–39** — *"Rise up, get out"* (12:31), the dough unleavened because they *"couldn't wait"*
+  (12:39), and the narrator's *"Yahweh struck"* (12:29). See
+  [[The Death of the Firstborn and the Departure]].
 
 ## Analysis
 
@@ -62,6 +65,25 @@ hand"* (19:16) — set against the belt, the shoes, and the staff of 12:11. **Ge
 **Sodom is destroyed for its outcry; Egypt is struck for the outcry it caused.** The *ṣəʿāqâ* that rose
 from Sodom (Genesis 18:20–21; 19:13) rose from Israel in Egypt (Exodus 3:7, 9), and will rise from
 Egypt itself (11:6; 12:30). See [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+**Added with the ingest of Exodus 12:29–51 (2026-10-22): two more shared words, both in the
+departure.** (WLC.)
+
+| | Genesis 19 | Exodus 12 |
+|---|---|---|
+| *"Get up! Get out"*, *qûmû ṣəʾû* | Lot to his sons-in-law: *"Get up! Get out of this place, for Yahweh will destroy the city"* (19:14) | Pharaoh to Moses and Aaron: *"Rise up, get out from among my people"* (12:31) |
+| Linger, *māhah* (hitpalpel) | *"But he lingered"* (19:16) | *"they … couldn't wait"* (*ləhitmahmēah*, 12:39) |
+
+**The same two imperatives are spoken on both nights, from opposite sides.** In Sodom the warning comes
+from the one household being saved and is taken as a joke (19:14); in Egypt it comes from the king of the
+land being struck and is obeyed at once. ***Māhah*** occurs in Genesis–Deuteronomy only at Genesis 19:16;
+43:10; and Exodus 12:39 (WLC lemma search): **Lot lingered and had to be taken by the hand; Israel could
+not linger, and the unleavened bread is the proof.** That closes the gap the table above left open —
+Lot's bread had no reason given, Israel's is given one.
+
+**And the narrator again gives the act to God.** *"At midnight, Yahweh struck all the firstborn"* (12:29)
+mentions no destroyer, as Genesis 19:24–25, 29 says *"Yahweh rained … sulfur and fire"* and *"God
+destroyed the cities"* after the angels said *"we will destroy"*. **Both narratives let the agent and God
+stand side by side without explaining how they relate.**
 
 ## Significance
 

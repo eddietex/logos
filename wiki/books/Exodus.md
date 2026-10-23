@@ -151,8 +151,18 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   (12:14–20). Moses relays it to the elders and adds the hyssop, the door no one may go out of, and
   *"the destroyer"* (12:21–23); the children will ask *"What do you mean by this service?"* — ***ʿăbōdâ***,
   the word of Egypt's bondage, now a rite — and be told that Yahweh *"spared our houses"* (12:26–27). The
-  people worship and obey (12:27–28). See [[The Passover]]. Then the firstborn struck, the departure,
-  the consecration of the firstborn, the sea, and the song.
+  people worship and obey (12:27–28). See [[The Passover]]. **Then the blow, in one verse**: *"At
+  midnight, Yahweh struck all the firstborn"*, from Pharaoh's heir to *"the captive who was in the
+  dungeon"* (12:29), and *"a great cry in Egypt"*. **Pharaoh concedes everything he had bargained over** —
+  *"Rise up, get out … as you have said!"* — and adds ***"bless me also!"*** (12:31–32). The Egyptians urge
+  them out, *"We are all dead men"*; the dough goes unleavened in the troughs; *"They plundered the
+  Egyptians"* (12:33–36). From Rameses to Succoth, six hundred thousand men on foot and *"a mixed
+  multitude"*, after ***"four hundred thirty years, to the day"*** (12:37–41), on *"a night to be much
+  observed"* (12:42). **Then the law again, on who may eat**: no foreigner, settler, or hired man; the
+  circumcised slave and the circumcised stranger, under ***"One law"*** — the first singular *tôrâ* in
+  Scripture (12:43–49). *"That same day, Yahweh brought the children of Israel out"* (12:51). See
+  [[The Death of the Firstborn and the Departure]]. Then the consecration of the firstborn, the sea, and
+  the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
@@ -203,7 +213,7 @@ for unit.
 ### Passover and the sea (12–15:21)
 
 - [x] [[The Passover]] — Exodus 12:1–28
-- [ ] The Death of the Firstborn and the Departure — Exodus 12:29–51
+- [x] [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51
 - [ ] The Consecration of the Firstborn — Exodus 13:1–16
 - [ ] The Crossing of the Sea — Exodus 13:17–14:31
 - [ ] The Song of the Sea — Exodus 15:1–21
@@ -338,7 +348,8 @@ for unit.
 ## Key places
 
 - [[Egypt]]
-- [[Pithom]] and [[Rameses]] — the store-cities
+- [[Pithom]] and [[Rameses]] — the store-cities; Rameses also the starting point of the march (12:37)
+- [[Succoth (Egypt)]] — the first camp out of Egypt (12:37)
 - [[The Nile]] — *"the river"* of 1:22
 - [[Goshen]] — *"set apart"* from the swarms, the first land the plagues spare (8:22), and the only
   land without hail (9:26); unnamed at the darkness, where Israel has *"light in their dwellings"*

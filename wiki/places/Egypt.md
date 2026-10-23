@@ -258,6 +258,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Moses as *"very great in the land of Egypt"*** (11:3)
 - [[The Passover]] — Exodus 12:1–28; **the one law given in the land of bondage.** *"Yahweh spoke to
   Moses and Aaron in the land of Egypt"*; *"Against all the gods of Egypt I will execute judgments"*
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51; **struck in every house, and left.** *"There was not a house where
+  there was not one dead"*; *"We are all dead men"*; *"They plundered the Egyptians"*; four hundred thirty
+  years, ended *"to the day"*
 
 ## Related places
 
@@ -333,3 +336,6 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   — Exodus 11:1–10, [[The Last Plague Announced]]
 - The Passover given to Moses and Aaron *"in the land of Egypt"*: the first month, the lamb, the blood on
   the doorposts, and the feast of unleavened bread — Exodus 12:1–28, [[The Passover]]
+- The firstborn struck at midnight, from Pharaoh's to the captive's in the dungeon; a great cry; Israel
+  sent out in haste with silver, gold, and clothing, after four hundred thirty years — Exodus 12:29–51,
+  [[The Death of the Firstborn and the Departure]]

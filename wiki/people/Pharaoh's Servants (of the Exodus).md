@@ -51,9 +51,15 @@ bow down themselves to me, saying, 'Get out, with all the people who follow you'
 *hištaḥăwâ*, the verb of Joseph's dreams (Genesis 37:7) and of his brothers in Egypt (42:6). **A court
 that bowed to Pharaoh is told it will bow to a Hebrew.** See [[The Last Plague Announced]].
 
+**On the night itself they rise with their king, and the bowing Moses foretold is not narrated.**
+*"Pharaoh rose up in the night, he, and all his servants, and all the Egyptians"* (12:30). **At 11:8 Moses
+said they would come down to him, bow, and say *"Get out"*; at 12:31 it is Pharaoh who says *"Rise up, get
+out"***, and the Egyptians who urge the people out, *"We are all dead men"* (12:33) — the servants'
+*"Egypt is destroyed"* (10:7) said by the whole land. The page records the forecast and the report side by
+side. See [[The Death of the Firstborn and the Departure]].
+
 ### What is ahead
 
-- 12:30 — *"Pharaoh rose up in the night, he, and all his servants"*
 - 14:5 — *"the heart of Pharaoh and of his servants was changed towards the people"*: *"What is this we
   have done, that we have let Israel go from serving us?"*
 
@@ -70,6 +76,8 @@ These are written as their pericopes arrive.
   Exodus 10:1, 7, [[Locusts and Darkness]]
 - Moses *"very great"* in their sight; told they will come down and bow to him, saying *"Get
   out"* — Exodus 11:3, 8, [[The Last Plague Announced]]
+- Rise in the night with Pharaoh when the firstborn die; the bowing foretold at 11:8 not narrated —
+  Exodus 12:30, [[The Death of the Firstborn and the Departure]]
 
 ## Appears in
 
@@ -84,6 +92,8 @@ These are written as their pericopes arrive.
   yet know that Egypt is destroyed?"*
 - [[The Last Plague Announced]] — Exodus 11:3, 8; **the court that will bow to Moses.** Moses *"very great … in the sight
   of Pharaoh's servants"*; *"All these servants of yours will come down to me, and bow down"*
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:30; **risen in the night.** *"Pharaoh rose up in the night, he, and all his
+  servants"*
 
 ## Related people
 

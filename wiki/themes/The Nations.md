@@ -290,6 +290,11 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[The Passover]] — Exodus 12:19; **the stranger under the same rule as the native.** Leaven cuts off
   *"whether he is a foreigner, or one who is born in the land"*; the first *ʾezraḥ* in Scripture. The
   circumcised stranger may keep the Passover itself under *"one law"* (12:48–49, the next pericope)
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:38, 43–49; **a mixed multitude goes up with Israel, and the law sorts
+  outsiders.** *"A mixed multitude"* (*ʿēreb rab*, only here in the Torah; WLC) leaves with them,
+  unidentified; then the Passover excludes the *ben-nēkār*, the *tôšāb*, and the *śākîr*, and admits the
+  circumcised *gēr*, *"as one who is born in the land"*, under ***"One law"***. See
+  [[One Law for the Native and the Stranger]]
 
 ## Related themes
 

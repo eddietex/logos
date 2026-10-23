@@ -169,6 +169,10 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   (fact) (WLC lemma search) — favour given to slaves in the eyes of their masters, as Joseph was
   given it *"in the sight of the keeper of the prison"* (Genesis 39:21). **At 33:12–17 *ḥēn* becomes
   Moses' word with God** — [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:36; ***"Yahweh gave the people favor in the sight of the Egyptians, so that they
+  let them have what they asked"*** — the third telling (3:21; 11:3), and the one that reports it done.
+  **The favour is given by God and shown by the Egyptians**, on the night their firstborn die. See
+  [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 

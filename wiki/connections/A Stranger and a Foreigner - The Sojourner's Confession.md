@@ -31,6 +31,10 @@ tags: [connection]
   land"*** — *gēr hāyîtî* — **the confession made into a child's name**, Gershom, and in Midian; and
   then into a law, *"you know the heart of an alien, since you were aliens in the land of Egypt"*
   (Exodus 23:9). See [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]
+- **Exodus 12:45, 48–49** — [[The Death of the Firstborn and the Departure]]. **Abraham's two words are
+  separated by the Passover law**: the *tôšāb* *"shall not eat of it"*; the *gēr* who is circumcised
+  *"shall be as one who is born in the land"* (WLC). See
+  [[One Law for the Native and the Stranger]]
 
 ## Analysis
 

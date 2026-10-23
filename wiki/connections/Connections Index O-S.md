@@ -14,8 +14,9 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]] | textual-problem | Genesis 47:31 · Genesis 48:1–2 · 1 Kings 1:47 · Hebrews 11:21 |
 | [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] | literary-parallel | Job 33:14, 29 · Job 40:5 · Job 5:19 · Psalm 62:11 · Proverbs 6:16 |
 | [[One Flesh - Genesis 2 and the New Testament on Marriage]] | quotation | Genesis 2:24 · Matthew 19:4–6 · Mark 10:6–8 · 1 Corinthians 6:16 · Ephesians 5:31 |
+| [[One Law for the Native and the Stranger]] | thread | Exodus 12:19 · Exodus 12:48–49 · Leviticus 24:22 · Numbers 9:14 · Numbers 15:15–16, 29 · Genesis 17:12–13, 27 |
 | [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 · Exodus 6:16, 19 |
-| [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 8:25–28 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 |
+| [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 8:25–28 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 · Exodus 12:38 |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
 | [[Passing Between the Pieces]] | thread | Genesis 15:9–18 · Jeremiah 34:8–22 · Genesis 6:18; 9:8–17 · Genesis 14:13 · Genesis 17:1–14 · Exodus 24:3–8 · Galatians 3:15–18 · Hebrews 6:13–18; 9:15–22 |
@@ -61,5 +62,5 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · Numbers 3:17–20 · Numbers 26:57–61 · 1 Chronicles 6 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
-| [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 |
+| [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 · Exodus 12:45, 48–49 |
 | [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] | motif | Genesis 41:7, 24 · Exodus 7:12 · Exodus 15:12 · Numbers 16:30–34; 26:10 |

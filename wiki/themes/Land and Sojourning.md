@@ -339,6 +339,11 @@ where that starts, in a sentence about a family that got halfway.
   does not yet have.** *"Whether he is a foreigner (gēr), or one who is born in the land (ʾezraḥ)"* —
   the first *ʾezraḥ* in Scripture (WLC) — and *"when you have come to the land which Yahweh will give
   you"*
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:40, 48–49; **four hundred thirty years of sojourn ended, and the sojourner
+  given a law.** *"The time that the children of Israel lived in Egypt was four hundred thirty years"*;
+  and in the same chapter the *gēr* who sojourns *with* Israel is made *"as one who is born in the land"* —
+  a law of native and stranger for a people that has just stopped being strangers and has no land yet.
+  See [[Four Hundred Years - The Sojourn and the Exodus]]
 
 ## Related themes
 

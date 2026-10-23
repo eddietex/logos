@@ -244,6 +244,11 @@ the promise is repeatedly mistaken for.
   neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold"* — men as well as
   the women of 3:22 — the middle term between the promise at the bush and the deed at 12:35–36 —
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[The Death of the Firstborn and the Departure]] — Exodus 12:35–38; **the plunder taken, and the herds.** *"Jewels of silver, and jewels of
+  gold, and clothing"*; *"They plundered the Egyptians"* (*wayənaṣṣəlû*, the piel of the root of God's
+  *"deliver"*; WLC); and *"flocks, herds, and even very much livestock"*. **Genesis 15:14's *"great
+  wealth"* paid.** They leave rich in goods and with no food prepared (12:39). See
+  [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 

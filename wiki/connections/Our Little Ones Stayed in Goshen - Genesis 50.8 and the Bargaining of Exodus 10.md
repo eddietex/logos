@@ -15,7 +15,8 @@ tags: [connection]
   [[Locusts and Darkness]]
 - **Exodus 10:24–26** — Pharaoh's fourth offer: everyone may go, the flocks and herds stay —
   [[Locusts and Darkness]]
-- **Exodus 12:31–32** — what Pharaoh finally concedes, at midnight, with the firstborn dead
+- **Exodus 12:31–32** — what Pharaoh finally concedes, at midnight, with the firstborn dead —
+  [[The Death of the Firstborn and the Departure]]
 
 ## Analysis
 
@@ -69,6 +70,13 @@ parsâ*** (10:26), the *šāʾar* of *"There remained not one locust"* two scene
 
 **Exodus 12:32 is the concession Genesis 50:8 withheld**: *"Take both your flocks and your herds, as
 you have said, and be gone."*
+
+**Added with the ingest of Exodus 12:29–51 (2026-10-22).** The concession is total, and it is framed
+twice with *gam … gam*, *both … and*: *"both you and the children of Israel"* (12:31), *"both your flocks
+and your herds"* (12:32; WLC). **Pharaoh says *"as you have said"* twice** (*kədabberkem*, *kaʾăšer
+dibbartem*), so the terms are Moses' — *"Not a hoof shall be left behind"* — in the king's own mouth. And
+12:38 counts what went: *"flocks, herds, and even very much livestock"*. **Nothing stayed in Goshen this
+time.** See [[The Death of the Firstborn and the Departure]].
 
 ## Significance
 
