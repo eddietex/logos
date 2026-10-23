@@ -128,6 +128,9 @@ three, she goes free without payment (21:7–11).
   [[The Passover]] and [[The Consecration of the Firstborn]].
 - Deuteronomy 12:5 — *"the place which Yahweh your God shall choose … to put his name there"*.
 
+- [[Laws of Violence and Injury]] — Exodus 21:12–36: a planned killer is taken from the altar (21:14), and
+  injuries, ownership, and release further qualify the servant laws (21:20–21, 26–27, 32).
+
 ## Notes
 
 ### Where the speech begins, and why the boundary falls at 21:11

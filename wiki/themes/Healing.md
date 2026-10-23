@@ -40,7 +40,7 @@ setting is the first statute and the first test** (15:25). The other Torah promi
 away from among you"* (23:25; WLC; *not yet ingested*). **Later piety turned *Yahweh rōpəʾekā* into a title,
 *Yahweh Rophe*** (reported, not checked in this pass). See [[Bitter Water at Marah]].
 
-**Ahead in the Torah** (*not yet ingested*): healing as a matter for damages (Exodus 21:19); the priest's
+**Ahead in the Torah** (*not yet ingested*): the priest's
 verdict on skin disease *"healed"* (Leviticus 13–14); **Moses' cry for Miriam — *"Moses cried to Yahweh,
 saying, 'Heal her, God, I beg you!'"*** (Numbers 12:13; WEB; WLC), the same pair, *ṣāʿaq* and *rāpāʾ*, as
 Marah; **and the reversal of the promise**, *"He will bring on you again all the diseases of Egypt"*
@@ -51,6 +51,15 @@ healing of the nations by the leaves of the tree of life — *"The leaves of the
 the nations"* (Revelation 22:2; WEB). See
 [[Bitter Water Made Sweet - Marah and Elisha's Spring]] and
 [[The Tree of Life - Eden and the New Jerusalem]].
+
+### Violence, injury, and liability — Exodus 21:12–36
+
+Exodus 21:18–19 assigns the assailant responsibility for the recovering victim's lost time and
+healing until he is thoroughly healed. When the injured man can again walk with a staff, his
+assailant is cleared of the fatal outcome at issue, but not of the duty to provide restoration.
+Healing is now an obligation one human owes another, alongside the earlier accounts of God healing.
+The verse does not prescribe a medical technique or make payment a substitute for recovery.
+See [[Laws of Violence and Injury]].
 
 ## Key passages
 
@@ -65,6 +74,8 @@ the nations"* (Revelation 22:2; WEB). See
   ingested)*
 - **2 Kings 2:19–22** — *"I have healed these waters"* — [[Bitter Water Made Sweet - Marah and Elisha's Spring]]
   *(not yet ingested)*
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

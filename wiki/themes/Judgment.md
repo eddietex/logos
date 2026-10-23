@@ -181,6 +181,15 @@ with Job 21:19–21's objection.** Neither suffering nor ancestry by itself supp
 individual. See [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
 See [[The Ten Commandments]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+A planned killer cannot use God's altar to escape liability (21:14), while the unintentional
+killer receives a place of flight (21:13). An owner's prior warning and failure to restrain a bull
+change his liability (21:28–30). Judges also constrain the husband's claim after injury to a
+pregnant woman (21:22). The ordinances require distinctions between cases, rather than treating
+the mere occurrence of harm as proof of the same guilt in everyone involved.
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[The Fall]] — the first judgment scene, and the template
@@ -414,6 +423,8 @@ See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:5–7; generational warning, loving kindness, and guilt for
   misuse of the name
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

@@ -104,6 +104,17 @@ that everyone named has the same social status.
 [[Coveting and Love - The Commandments in Romans 7 and 13]] follows Paul's use of the desire
 prohibition. See [[The Ten Commandments]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+Ownership now carries duties beyond refraining from theft: covering a pit, restraining a bull
+known to be dangerous, and paying when the failure causes loss (21:28–36). When no prior dangerous
+habit is specified, two bull owners share the remaining animal's sale price and the carcass;
+known danger left uncontrolled requires full replacement (21:35–36). The human cases expose the
+limits of a property account: the servant is called property (21:21), and the thirty shekels for
+a servant killed by a bull go to the master (21:32). That sum is a compensation provision, not
+proof of a universal market price for human beings.
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — the first inventory, handed over by a deceived king; *very heavy* in
@@ -264,6 +275,8 @@ prohibition. See [[The Ten Commandments]].
   [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
 
 - [[The Ten Commandments]] — Exodus 20:15, 17; theft and acquisitive desire are both prohibited
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

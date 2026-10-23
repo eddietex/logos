@@ -409,6 +409,10 @@ all flesh, and the earth needs no map. Geography returns at Genesis 10.
 - 2 Peter 3:5–7 — the world that perished by water and the present one *"reserved for fire"*: the
   Noahic promise honoured and its limits noticed.
 
+- [[Laws of Violence and Injury]] — Exodus 21:12–36: human and animal responsibility for death becomes
+  differentiated case law; the unequal remedies for servants are explicitly noted in
+  [[Whoever Sheds Man's Blood]].
+
 ## Notes
 
 - **On *hēqîm* and the missing ceremony.** Genesis never says God *cut* (*kārat*) a covenant with

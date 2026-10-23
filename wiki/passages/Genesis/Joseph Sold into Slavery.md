@@ -689,6 +689,9 @@ The descent that will become the Exodus starts as a freight consignment. See
   Egypt"*
 - Revelation 12:1 — the sun, the moon, and a crown of stars, with the count moved up by one
 
+- [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] — Exodus 21:16 and Deuteronomy 24:7 condemn
+  kidnapping and sale; the comparison does not impose a narrated Sinai trial on Genesis.
+
 ## Notes
 
 - **On the boundary, which was used as drawn.** The plan's box read *Joseph Sold into Slavery — Genesis

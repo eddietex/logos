@@ -164,6 +164,14 @@ name for the collection beginning at 20:22, as a convention: Exodus marks no bou
 book.** It opens with the altar and with the Hebrew servant, so the covenant people's first case law
 regulates what one Israelite may do with another's service. See [[The Altar and the Hebrew Slave]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+The covenant ordinances reach into quarrels, families, the treatment of servants, and ownership
+of animals and pits (21:12–36). Relation to God at the altar cannot exempt a scheming killer from
+judgment (21:14). This joins worship and responsibility for neighbors within the same continuing
+speech. It remains legislation awaiting the ratification narrated in Exodus 24.
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[Noah and the Flood]] — *bərît*'s first occurrence, offered inside the announcement of universal
@@ -350,6 +358,8 @@ regulates what one Israelite may do with another's service. See [[The Altar and 
   covenant obligations
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11; the altar and the servant, the first
   provisions of what 24:7 calls the book of the covenant
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

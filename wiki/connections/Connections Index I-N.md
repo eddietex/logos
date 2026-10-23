@@ -13,7 +13,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 |---|---|---|
 | [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
 | [[I AM WHO I AM - Exodus 3.14 and John 8.58]] | allusion | Exodus 3:12, 14 · Exodus 4:12 · John 8:58 · Revelation 1:8 |
-| [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] | thread | Job 33:23–28 · Exodus 21:30 · Exodus 30:12 · Numbers 35:31 · Psalm 49:7–9, 15 · Proverbs 13:8 · Isaiah 43:3 · Hosea 13:14 · Job 36:18 · Mark 10:45 · Matthew 20:28 · 1 Timothy 2:5–6 · 1 Peter 1:18–19 |
+| [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] | thread | Job 33:23–28 · Exodus 21:30 · Exodus 30:12 · Numbers 35:31 · Psalm 49:7–9, 15 · Proverbs 13:8 · Isaiah 43:3 · Hosea 13:14 · Job 36:18 · Mark 10:45 · Matthew 20:28 · 1 Timothy 2:5–6 · 1 Peter 1:18–19 · Exodus 21:12–36 |
 | [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 |
 | [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] | word | Genesis 49:18 · Exodus 14:13; 15:2 · Psalm 3:8 · Psalm 119:166 · Isaiah 12:2–3 · Jonah 2:9 · Luke 2:30 · Job 13:16 |
 | [[I Put On Righteousness - Job 29.14 and the Garments of Justice]] | image | Job 29:14 · Job 19:9 · Job 30:18 · Job 22:6 · Job 40:10, 14 · Psalm 132:9, 16 · Psalm 109:18 · Isaiah 11:5 · Isaiah 59:16–17 · Isaiah 61:10 · Zechariah 3:4–5 · Judges 6:34 · Ephesians 6:14 · Colossians 3:12 · Revelation 19:8 |
@@ -36,6 +36,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · Deuteronomy 26:5 · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
 | [[Joshua and Jesus - One Name]] | typology | Exodus 17:9–14 · Numbers 13:8, 16 · Matthew 1:21 · Acts 7:45 · Hebrews 4:8 |
+| [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] | parallel | Genesis 37:26–28 · Genesis 40:15 · Exodus 21:16 · Deuteronomy 24:7 |
 | [[A Kingdom of Priests - Exodus 19 and First Peter 2]] | quotation | Exodus 19:4–6, 21–24 · 1 Peter 2:4–10 |
 | [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Exodus 15:15, 18 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |
 | [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 |

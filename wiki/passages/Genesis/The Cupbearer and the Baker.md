@@ -570,6 +570,9 @@ two verses to say so.**
 - Galatians 3:13 — Deuteronomy 21:23 applied to the crucifixion
 - Acts 5:30; 10:39; 1 Peter 2:24 — *"hanging him on a tree"* as the apostolic shorthand for the cross
 
+- [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] — Joseph's description of being stolen
+  (Genesis 40:15) compared with Exodus 21:16 and Deuteronomy 24:7.
+
 ## Notes
 
 - **On the boundary, which was used as drawn.** The plan's box read *The Cupbearer and the Baker —

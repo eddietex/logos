@@ -123,6 +123,18 @@ Jubilee) are set out on
 [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]]. See
 [[The Altar and the Hebrew Slave]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+The same collection that punishes kidnapping with death (21:16) protects servants against some
+acts of their masters: punishment when a servant dies under the rod (21:20), and release for a
+destroyed eye or lost tooth (21:26–27). **Protection and ownership remain in tension:** 21:21
+explains the master's exemption by calling the servant his property, and 21:32 pays the master
+thirty shekels for a servant killed by a bull. This is unequal legal status, not abolition.
+The WEB says *"gets up after a day or two"* in 21:21; the page does not substitute an unverified
+claim about subsequent death. Nor does *"punished"* in 21:20 by itself specify execution.
+See [[Kidnapping and Sale - Joseph and the Law of Exodus 21]].
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the vocabulary's first appearance, in a
@@ -356,6 +368,8 @@ Jubilee) are set out on
 - [[The Altar and the Hebrew Slave]] — Exodus 21:1–11; the first ordinance limits a Hebrew's service
   to six years, keeps a master-given wife and children, provides lifelong service at the doorpost,
   and protects a daughter sold as a female servant
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

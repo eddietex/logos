@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Genesis 37:28** — *"they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites
   for twenty pieces of silver."*
-- **Leviticus 27:5** — *"If the person is from five years old to twenty years old, then your valuation
+- **Leviticus 27:5** — *"If the person is from five years old even to twenty years old, then your valuation
   shall be for a male twenty shekels, and for a female ten shekels."*
 - **Exodus 21:32** — *"If the bull gores a male servant or a female servant, thirty shekels of silver
   shall be given to their master."*
@@ -46,17 +46,20 @@ tags: [connection]
   price or simply at the boy, Genesis does not say; see
   [[Five Changes of Clothing - The Coat Given Again]]
 
+- [[Laws of Violence and Injury]] — Exodus 21:16, 32: kidnapping prohibited; compensation for a gored servant
+
 ## Analysis
 
-**Genesis names a price for a human being exactly once, and it is the price the law will later fix for a
-boy of precisely that age.**
+**Joseph’s sale price invites comparison with a later sanctuary valuation, but the two
+transactions are different.**
 
 Joseph is **seventeen** (37:2). Leviticus 27:5 sets the sanctuary valuation of a male **between five and
-twenty years old at twenty shekels of silver.** **The brothers get the going rate.**
+twenty years old at twenty shekels of silver.** This numerical correspondence does not establish
+a market rate or identify who received Joseph’s sale price.
 
 | | **the figure** | **what it values** |
 |---|---|---|
-| **Genesis 37:28** | 20 shekels | a seventeen-year-old, sold by his brothers |
+| **Genesis 37:28** | 20 pieces of silver | Joseph’s sale; the actors are disputed on the passage page |
 | **Leviticus 27:5** | 20 shekels | a male aged 5–20, vowed to the sanctuary and redeemed |
 | **Exodus 21:32** | 30 shekels | a slave killed by someone else's ox |
 | **Zechariah 11:12** | 30 shekels | a shepherd's wages, called *"the goodly price"* sarcastically |
@@ -67,15 +70,15 @@ twenty years old at twenty shekels of silver.** **The brothers get the going rat
 - **It is a real convergence on a number, and the wiki says so without dating anything.** Whether
   Leviticus 27:5 preserves an old customary valuation that Genesis 37:28 also reflects, or whether the
   narrator chose a figure his readers would recognise from the tariff, **is not decidable from either
-  text.** Both readings leave the effect the same: **a reader who knows the law reads 37:28 as the market
-  price, correctly paid.**
+  text.** **The figures invite comparison, but a vow valuation does not establish a market
+  price for Joseph.**
 - **It is not a claim that the brothers did anything legal.** Leviticus 27 is about vows and redemption,
-  not slave sales, and selling a free Israelite is capital under Exodus 21:16 and Deuteronomy 24:7 —
-  *"He who kidnaps a man and sells him … shall surely be put to death."* **The law that supplies the
+  not slave sales, and kidnapping and sale are capital under Exodus 21:16 and Deuteronomy 24:7. Exodus
+  21:16 says *"Anyone who kidnaps someone and sells him"* (WEB). **The law that supplies the
   figure also supplies the sentence.**
 - **The tariff's other line is worth noting.** For a male over twenty Leviticus 27:3 sets **fifty
-  shekels**; over sixty, fifteen. **Joseph was three years short of costing two and a half times as
-  much.**
+  shekels**; over sixty, fifteen. **That is a difference in the vow tariff, not evidence that Joseph
+  would have sold for that sum at a later age.**
 
 ### Thirty and twenty
 
@@ -107,19 +110,32 @@ brother, our flesh"* — **deployed in favour of a sale.**
 **Genesis passes no verdict on the speech, and it is the speech that saves Joseph's life.** The wiki
 records both. See [[Judah]] and [[Wealth and Possessions]].
 
+### The compensation case now ingested
+
+Exodus 21:32 assigns thirty shekels to the master when a bull kills a male or female servant,
+and requires the bull's death. This is a specified compensation, not a universal sale price.
+**Correction of this page's former overstatement:** neither this provision nor the Leviticus
+vow tariff establishes Joseph's historical market value, and Genesis 37:28 does not name ten
+brothers receiving the money. These claims have been revised rather than allowed to conflict
+with the page's own acknowledgment that the payee is unspecified. The comparison of kidnapping
+and sale is developed in [[Kidnapping and Sale - Joseph and the Law of Exodus 21]]. Exodus
+21:16, 32 and Genesis 37:2, 26–28 were checked in the existing raw files; Deuteronomy 24:7 and
+Leviticus 27:3–7 were verified in WEB at `bible-api.com` on 2026-10-23. The Leviticus 27:5
+quotation above was corrected to include the WEB’s *even*.
+
 ## Significance
 
-- **It is the Bible's only priced brother, and the price is ordinary.** Nothing in Genesis 37:28 is
-  exorbitant, symbolic, or round-numbered for effect. **Ten men value the eleventh at the going rate for a
-  seventeen-year-old and take it**, and the flatness of the transaction is the chapter's most
-  uncomfortable feature. See [[Slavery and Servitude]].
+- **The sale gives a price but no explicit payee.** Genesis 37:28 supplies twenty pieces of
+  silver. It does not establish a standard market rate or say that ten brothers received the
+  payment. The disputed actors in the sale remain discussed on the passage page. See
+  [[Slavery and Servitude]].
 - **It is the point at which the family's language changes.** Before 37:26 the brothers speak of *this
   dreamer* and *our brother*; at 37:26 they speak of *profit*. **A person becomes a sum in one sentence**,
   and Genesis marks the change by giving the sum and withholding what became of it.
 - **It supplies the one thing Genesis 37 will not: a verdict.** The narration never condemns the sale.
-  **Leviticus 27:5 prices it, Exodus 21:16 makes it a capital crime, and Deuteronomy 24:7 repeats the
-  sentence** — and the law is the wiki's only warrant for calling it what it is, because the story does
-  not. See [[Sin]] and [[Retribution]].
+  **Leviticus 27:5 supplies a comparable valuation; Exodus 21:16 and Deuteronomy 24:7
+  condemn kidnapping and sale** — the explicit legal sanctions provide a comparison that Genesis
+  does not itself narrate. See [[Sin]] and [[Retribution]].
 - **It is also, read forward, the price of the whole nation's presence in Egypt.** The consignment paid
   for at Dothan is the first Israelite in Egypt, and Genesis 15:13 had already predicted the sojourn.
   **Twenty shekels is what the Exodus cost to start.** See

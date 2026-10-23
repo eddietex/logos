@@ -129,6 +129,9 @@ mediation belong to one scene; no tablets are handed over within this pericope.
   [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 - Genesis 26:5; Exodus 15:26; 16:28 — [[Because Abraham Obeyed My Voice - Law Before Sinai]].
 
+- [[Laws of Violence and Injury]] — Exodus 21:12–17: the homicide cases distinguish intention, and attacking
+  or cursing parents and kidnapping receive capital sanctions.
+
 ## Notes
 
 ### The deliverer gives the commands

@@ -97,6 +97,15 @@ raised by Job is sharpened:** a warning of iniquity reaching children stands bes
 demand that the wrongdoer himself pay. Ezekiel 18:19–23 further insists on the righteous son's life
 and the wicked person's possibility of turning. See [[The Ten Commandments]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+The scale of life, eye, tooth, and wound corresponds to the harm done (21:23–25). It is a rule for
+responding to an injury, not a rule for inferring a sufferer's past sin from that injury. The
+surrounding remedies include lost time and healing costs, freedom for an injured servant, and
+payments for damage. The pregnant bystander is injured by other people's fight (21:22): the case
+itself gives no ground for treating her suffering as deserved.
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[The Stolen Blessing]] — Genesis 27:1–45, and **the theme in the one form Genesis will actually
@@ -325,6 +334,8 @@ and the wicked person's possibility of turning. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:5–6, 12; generational consequences and promised long life do
   not yield an infallible diagnosis
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

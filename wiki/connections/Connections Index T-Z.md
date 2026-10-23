@@ -33,7 +33,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
-| [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 |
+| [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 · Exodus 21:12–36 |
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
 | [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |
@@ -69,7 +69,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13, 21, 25 · Acts 7:23–29, 35 · Luke 12:14 · Exodus 4:29–31 · Exodus 5:20–21 |
 | [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]] | thread | Job 38:39–41 · Job 10:16 · Job 19:7 · Job 30:20 · Psalm 104:21, 27–28 · Psalm 147:9 · Matthew 6:26 · Luke 12:6–7, 24 |
 | [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] | allusion | Job 13:18–19, 28 · Job 9:2–3, 33 · Job 23:3–7 · Job 40:2 · Isaiah 50:7–9 · Isaiah 51:8 · Romans 8:31–34 |
-| [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 |
+| [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 · Exodus 21:12–36 |
 | [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
 | [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:12–15 · Exodus 4:12 · Judges 13:17–18 |
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |

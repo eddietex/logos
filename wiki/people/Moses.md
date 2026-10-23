@@ -361,6 +361,14 @@ The remaining covenant laws, ratification, and tabernacle (20:22–40); and the 
 sections are written as their pericopes arrive.
 
 
+### The cases of violence and injury — Exodus 21:12–36
+
+Moses continues receiving the ordinances he is to set before Israel (20:22; 21:1), now on killing,
+injury, and negligent ownership. His role is inferred from the ongoing speech; he is not named in
+21:12–36 and does not adjudicate a narrated case here. His judicial work in Exodus 18 now has
+concrete cases specifying different remedies.
+See [[Laws of Violence and Injury]].
+
 ## Timeline / key events
 
 - Born to a man and a daughter of the house of Levi, under Pharaoh's decree; hidden three months —
@@ -451,6 +459,8 @@ sections are written as their pericopes arrive.
 - Receives the altar instructions and the first ordinances to set before the people — Exodus
   20:22–21:11; [[The Altar and the Hebrew Slave]]
 
+- The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
+
 ## Appears in
 
 - [[The Birth of Moses]] — Exodus 2:1–10; **born, hidden, put into the river in an ark, drawn out,
@@ -523,6 +533,8 @@ sections are written as their pericopes arrive.
 
 - [[The Ten Commandments]] — Exodus 20:1–21
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
 
 ## Related people
 

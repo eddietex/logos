@@ -14,8 +14,7 @@ tags: [connection]
 - **Exodus 21:30** — *"If a ransom is laid on him, then he shall give for the redemption of his life
   whatever is laid on him"*: the forfeited life bought back, in law
 - **Exodus 30:12** — *"each man shall give a ransom for his soul to Yahweh, when you count them"*
-- **Numbers 35:31** — *"you shall take no ransom for the life of a murderer"*: the one life that cannot be
-  bought — see [[Whoever Sheds Man's Blood]]
+- **Numbers 35:31** — *"you shall take no ransom for the life of a murderer"*: a prohibition on buying release from liability for murder — see [[Whoever Sheds Man's Blood]]
 - **Psalm 49:7–9, 15** — *"none of them can by any means redeem his brother, nor give God a ransom for
   him. For the redemption of their life is costly, no payment is ever enough"*; *"But God will redeem my
   soul from the power of Sheol"*
@@ -32,12 +31,14 @@ tags: [connection]
 - **1 Peter 1:18–19** — *"redeemed, not with corruptible things, with silver or gold … but with precious
   blood"*
 
+- [[Laws of Violence and Injury]] — Exodus 21:29–30: the negligent bull owner and a conditional ransom
+
 ## Analysis
 
 **The word.** *Kōper* is a payment that buys a life out of forfeit. In the law it is the price an owner
 pays when his ox has killed and *"a ransom is laid on him"* (Exodus 21:30), and the half-shekel each man
-gives *"for his soul"* at the census (Exodus 30:12). It is refused in exactly one case, the murderer
-(Numbers 35:31). Its other sense is the *bribe* — the payment that buys a verdict — and Elihu himself
+gives *"for his soul"* at the census (Exodus 30:12). Numbers 35 refuses it for a murderer and for an early return from refuge
+(35:31–32); those are distinct prohibitions. Its other sense is the *bribe* — the payment that buys a verdict — and Elihu himself
 uses it that way three chapters later (Job 36:18). The word always means a life or a judgment that money
 could change.
 
@@ -64,6 +65,18 @@ ox: one life given in place of others. 1 Timothy 2:5–6 then joins the two halv
 left apart: **the mediator and the ransom are the same figure** — *"one mediator between God and men, the
 man Christ Jesus, who gave himself as a ransom for all."* Elihu's angel stands *beside* the man; Paul's
 mediator is *"the man"*, which is what Job asked for at 9:32 — *"he is not a man, as I am"*.
+
+### The bull owner and the limits on ransom
+
+In Exodus 21:29–30 the owner knew the bull's dangerous habit and failed to restrain it. The ransom
+is not a standard price attached to every homicide: it is an amount imposed if that remedy is
+allowed. Job 33:23–28, by contrast, reports Elihu's account of divine rescue and names no price.
+The thematic resemblance does not make the two situations one legal case.
+
+**Correction:** this page formerly said ransom was refused in exactly one case. Numbers 35:31
+forbids it for the murderer, and 35:32 also forbids paying for an early return from refuge.
+The earlier exclusive claim was too broad. Exodus and Job were checked in raw; Numbers 35:9–34
+was verified in WEB at `bible-api.com` on 2026-10-23. See [[A Place to Flee - Exodus 21 and Numbers 35]].
 
 ## Significance
 

@@ -13383,3 +13383,75 @@ mentioned as commonly reported and unverified. No raw file was changed or added.
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks, and 63 not-yet-started book pages
 remain the expected baseline. Exactly one queue box advanced. No schema, skill, harness, or
 controller files were changed.
+
+## [2026-10-23] ingest | Exodus 21.12-36 — Laws of Violence and Injury
+
+Ingested [[Laws of Violence and Injury]] in one unattended invocation of the canonical ingest
+skill, executed by Codex. The planned boundary is retained: homicide begins at 21:12, the bull
+and pit cases finish at 21:36, and theft begins the next unit at 22:1. The passage page carries
+the discussion, including intent and refuge, parents and kidnapping, healing costs, the pregnant
+bystander, proportionate penalties, the unequal treatment of servants, and negligent ownership.
+
+### Decisions and tensions
+
+- No new person, place, or theme pages. The parties are unnamed figures in legal cases. [[God]]
+  and [[Moses]] continue the address established at 20:22 and 21:1; [[Horeb]] is the setting by
+  context, not a name supplied in this unit. The place of flight is left unidentified.
+- **Protection and inequality both recorded:** punishment for a servant's death under the rod and
+  release for a lost eye or tooth (21:20, 26–27) coexist with the ownership rationale of 21:21
+  and payment to the master in 21:32. These are not described as abolition or equal remedies.
+- **Translation limits at the point of the claim:** the pregnancy case is presented in the WEB's
+  premature-birth wording, without claiming that it settles miscarriage versus live birth, whose
+  harm is meant, or other pregnancy cases. The KJV comparison is identified. The WEB's *gets up*
+  at 21:21 is preserved; the unspecified punishment at 21:20 is not silently made execution.
+  No new exact Hebrew or Greek wording claims are made.
+- **Proportionality qualified:** [[Vengeance]] and [[Whoever Sheds Man's Blood]] now distinguish a
+  matching legal scale from proof of historical court practice, a universal cash tariff, or equal
+  remedies for every social status. Matthew's nonretaliation instruction is compared without
+  making the Torah cases disappear.
+- **Ransom correction:**
+  [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] formerly said ransom was refused
+  in exactly one case. Verified Numbers 35:31–32 prohibits both ransom for a murderer and payment
+  for early return from refuge. The correction is explicit on the page and carried into
+  [[Redemption]] and the new refuge connection.
+- **Price and payee correction:** [[Twenty Pieces of Silver - The Price of a Brother]] now
+  distinguishes the goring compensation from a market price and the Leviticus vow valuation from
+  proof of Joseph's sale value. Its claim that ten brothers took the money conflicted with its
+  own acknowledgment that Genesis does not specify the payee; this is explicitly corrected.
+  Its kidnapping excerpt was also corrected to the stored WEB wording. The new kidnapping
+  connection compares narrative with later legislation without inventing a trial in Genesis.
+
+### Sources
+
+Exodus 21:12–36 read from `raw/bible/Exodus.md`; all twenty-five key verses generated from that
+text and compared mechanically, matching exactly after reflow. Local comparisons checked:
+Genesis 9:5–6; 37:2, 26–28; 40:15; Exodus 20:12–14, 20:22–21:11; Job 33:23–28. External passages
+were fetched individually from `bible-api.com` with `translation=web` on 2026-10-23: Matthew
+5:38–42, Leviticus 24:17–22 and 27:3–7, Numbers 35:9–34, and Deuteronomy 24:7. Exodus 21:22–23 in the KJV
+was checked via the same API with `translation=kjv`. These external books remain un-ingested;
+the comparisons are verified, not quotations from memory. No raw file was added or changed.
+
+### Pages created or revised
+
+- **Created (4):** the passage and three connections:
+  [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]],
+  [[A Place to Flee - Exodus 21 and Numbers 35]], and
+  [[Kidnapping and Sale - Joseph and the Law of Exodus 21]].
+- **Existing content pages revised (23):** [[Exodus]]; two people ([[God]], [[Moses]]); one place
+  ([[Horeb]]); eleven themes (all those listed on the passage page); three existing connections
+  ([[Whoever Sheds Man's Blood]],
+  [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]], and
+  [[Twenty Pieces of Silver - The Price of a Brother]]); five earlier passages
+  ([[The Altar and the Hebrew Slave]], [[The Ten Commandments]], [[The Covenant with Noah]],
+  [[Joseph Sold into Slavery]], and [[The Cupbearer and the Baker]]).
+- **Bookkeeping revised (10):** the book and top-level indexes; people F–M, places, and themes;
+  connection subindexes D–H, I–N, O–S, T–Z; and this log. The new connections file under E, K,
+  and P, ignoring the initial *A* in *A Place to Flee*. Connection subindex sizes are 58, 72,
+  65, 59, and 79; no range change is needed.
+- **Totals by frontmatter type:** 119 passages, 169 people, 90 places, 77 themes, 333 connections;
+  3 books started, 2 complete. Exodus is **28 / 53**. Exactly one queue box advanced.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
+remain the expected baseline. Each category content page has exactly one index row; subindex
+filing ranges were checked, and new page titles are unique. No schema, skill, harness, or
+controller files were changed. No unresolved operational issue.

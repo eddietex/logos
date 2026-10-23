@@ -139,6 +139,15 @@ The unit combines a promise of long life linked to honoring parents (20:12), a p
 the fear by explaining the encounter as a test against sin; no one dies in this scene. The promise
 is not a rule by which every early death can be assigned a cause. See [[The Ten Commandments]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+Intentional killing and an unintentional death have different consequences (21:12–14). Liability
+can also follow a failure to restrain a bull whose danger was known (21:29), with a conditional
+ransom (21:30). **The life-for-life formula does not describe every remedy in this unit:** a
+servant killed by a bull brings thirty shekels to the master (21:32). Human life is protected here
+within an explicitly unequal social order.
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
@@ -439,6 +448,8 @@ is not a rule by which every early death can be assigned a cause. See [[The Ten 
 
 - [[The Ten Commandments]] — Exodus 20:12–13, 18–21; life promised, murder forbidden, and a
   frightened assembly left alive
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

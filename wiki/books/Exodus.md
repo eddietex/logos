@@ -266,7 +266,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   doorpost of the man who chooses to remain, and a daughter sold as a female servant whose food,
   clothing, and marital rights are protected (21:1–11). The first law spoken to a people brought
   out of the house of bondage limits a master's hold over a brother. See
-  [[The Altar and the Hebrew Slave]].
+  [[The Altar and the Hebrew Slave]]. **The next cases distinguish violence, injury, and
+  negligence** (21:12–36): refuge for an unintentional killer but no altar shelter for planned
+  murder; sanctions for attacking or cursing parents and for kidnapping; healing costs for an
+  injured neighbor; matching injury; release for a servant's lost eye or tooth; and liability
+  for dangerous bulls and uncovered pits. Protection of servants coexists with ownership and
+  unequal remedies (21:20–21, 32). See [[Laws of Violence and Injury]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -332,7 +337,7 @@ for unit.
 - [x] [[Israel at Mount Sinai]] — Exodus 19:1–25
 - [x] [[The Ten Commandments]] — Exodus 20:1–21
 - [x] [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
-- [ ] Laws of Violence and Injury — Exodus 21:12–36
+- [x] [[Laws of Violence and Injury]] — Exodus 21:12–36
 - [ ] Laws of Property and Restitution — Exodus 22:1–15
 - [ ] Laws of Holiness and Compassion — Exodus 22:16–31
 - [ ] Justice, Sabbaths, and Feasts — Exodus 23:1–19

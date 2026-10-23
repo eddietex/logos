@@ -97,6 +97,15 @@ spoken to all, the case law begins, given to Moses to set before the people.** I
 Moses *"told the people all Yahweh's words, and all the ordinances"*, and the people promise to
 obey. See [[The Altar and the Hebrew Slave]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+The cases of 21:12–36 distinguish intent, recovery, a victim's status, and prior warning. Murder
+receives death, an unintentional killer receives refuge, an injured neighbor receives lost time and
+healing, and negligent ownership can require replacement or expose the owner to death. **Case law
+requires judgment about facts; it is not one penalty applied to every loss.** The collection still
+assumes slavery while restricting some acts against servants.
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[Isaac in Gerar]] — Genesis 26:5; **commandments, statutes, and laws before any are given**
@@ -120,6 +129,8 @@ obey. See [[The Altar and the Hebrew Slave]].
   neighbors, and desire
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11; the altar law and the first ordinances,
   cast as cases
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

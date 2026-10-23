@@ -31,6 +31,8 @@ tags: [connection]
   about the fact**: [[Joseph]] is alive, standing in the room, listening through an interpreter. See
   [[His Blood Is Required - Darash and the Reckoning for Blood]]
 
+- [[Laws of Violence and Injury]] — Exodus 21:12–36: intent, refuge, injury, and negligence differentiated
+
 ## Analysis
 
 **The line is a chiasm, and it is the Bible's first legal sentence.**
@@ -93,6 +95,21 @@ revoked in Genesis 3, and after a flood it is still the reason a human death can
 an animal's — twelve verses after animals were handed over as food. James 3:9 makes the same
 argument about a lesser act: if people are made in God's likeness, then cursing them is incoherent
 in the mouth that blesses God. See [[Image of God]].
+
+### Exodus now ingested: the distinctions matter
+
+The homicide cases separate an unintentional killing from a scheme against a neighbor
+(21:12–14). A dangerous bull also makes responsibility depend on what the owner knew and failed
+to prevent (21:28–30). This develops the animal-and-human reckoning already stated in Genesis
+9:5, but gives remedies the earlier speech did not specify.
+
+**A qualification to this page's description of exact proportionality:** Exodus does not give
+one identical remedy for every victim. The master receives thirty shekels for a servant killed
+by a bull (21:32), and the master's ownership enters the exemption in 21:21. The universal
+image-bearing ground in Genesis 9:6 stands beside unequal status in these cases; the wiki must
+state both rather than infer equality from the earlier principle. See
+[[A Place to Flee - Exodus 21 and Numbers 35]] and [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].
+Exodus 21 and Genesis 9:5–6 were checked in existing raw files for this addition.
 
 ## Significance
 

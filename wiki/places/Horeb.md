@@ -77,6 +77,10 @@ is (20:21). The contrast concerns access within one encounter, not a relocation 
 is for *"every place where I record my name"* (20:24), not for the mountain itself. See
 [[The Altar and the Hebrew Slave]].
 
+**The injury laws continue the Sinai address without naming another location** (21:12–36).
+The promised place of flight in 21:13 is not identified with this mountain, and the altar of
+21:14 does not create an exemption for a planned killing. See [[Laws of Violence and Injury]].
+
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
@@ -101,6 +105,8 @@ is for *"every place where I record my name"* (20:24), not for the mountain itse
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11; the setting by context only; the altar
   law and the first ordinances given to Moses at the darkness
 
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; setting by context, with no named place in the unit
+
 ## Related places
 
 - [[Midian]] — whose priest's flock Moses is grazing when he reaches it
@@ -122,3 +128,5 @@ is for *"every place where I record my name"* (20:24), not for the mountain itse
 
 - [[The Ten Commandments]] — public commandments, trembling, and Moses’ approach (20:1–21)
 - [[The Altar and the Hebrew Slave]] — the altar law and the first ordinances (20:22–21:11)
+
+- [[Laws of Violence and Injury]] — the ordinances on violence, injury, and negligence (21:12–36)

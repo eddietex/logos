@@ -65,6 +65,17 @@ redemption (13:13, 15). **Redemption here is a legal right protecting a woman wh
 displeased with her**, and he may not sell her abroad instead. See
 [[The Altar and the Hebrew Slave]].
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+A bull owner warned of its dangerous habit who nevertheless fails to restrain it may be liable
+to death when it kills; if a ransom is imposed, he must pay the amount laid on him (21:29–30).
+This is a conditional legal provision, not a general permission to purchase release from murder.
+Numbers 35:31 forbids ransom for a murderer and 35:32 forbids payment for an early departure from
+the required refuge residence. These WEB comparisons were verified at `bible-api.com` on
+2026-10-23. See [[A Place to Flee - Exodus 21 and Numbers 35]] and
+[[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 - Genesis 47:19–23 — Egypt's people *bought* for Pharaoh — [[Joseph and the Famine]]
 - Genesis 48:16 — *"the angel who has redeemed me"* — [[Jacob Blesses Ephraim and Manasseh]]
@@ -78,6 +89,8 @@ displeased with her**, and he may not sell her abroad instead. See
   rescued
 - [[The Altar and the Hebrew Slave]] — Exodus 21:8; the female servant's master must allow her
   redemption
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

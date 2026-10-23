@@ -1751,6 +1751,16 @@ limits a master's hold over a Hebrew servant to six years, and the servant who c
 brought *"to God"* (21:6, a phrase the KJV renders *"unto the judges"*). See
 [[The Altar and the Hebrew Slave]].
 
+### The cases of violence and injury — Exodus 21:12–36
+
+In the continued speech, God appoints refuge for an unintentional killer and refuses his altar
+to a person who planned a neighbor's death (21:13–14). He requires attention to intent, injury,
+and known danger. The speech also calls a servant the master's property (21:21), while demanding
+punishment for a death under the rod and freedom for injury to an eye or tooth (21:20, 26–27).
+**The protection and the unequal status are both attributed to this legislation; neither is
+silently removed from the portrait.**
+See [[Laws of Violence and Injury]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1973,6 +1983,8 @@ brought *"to God"* (21:6, a phrase the KJV renders *"unto the judges"*). See
 - Prescribes an altar of earth or uncut stone, promises to bless where he records his name, and
   gives the first ordinance on the Hebrew servant — Exodus 20:22–21:11;
   [[The Altar and the Hebrew Slave]]
+
+- The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
 
 ## Appears in
 
@@ -2357,6 +2369,8 @@ brought *"to God"* (21:6, a phrase the KJV renders *"unto the judges"*). See
 
 - [[The Ten Commandments]] — Exodus 20:1–21
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
 
 ## Related people
 

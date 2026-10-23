@@ -29,8 +29,9 @@ in the line of Cain, and it is Genesis's way of showing what has happened to the
 and 4:24 without saying a word about it.
 
 Everything the Torah later legislates on the subject reads as a response to Lamech. *"Eye for eye,
-tooth for tooth"* (Exodus 21:23–25) is universally misremembered as a licence for revenge; it is a
-**ceiling** — one eye, not a family, not seventy-seven. The cities of refuge (Numbers 35:9–34) take
+tooth for tooth"* (Exodus 21:23–25) can be read as a restraint on escalating revenge: a
+**ceiling** — one eye, not a family, not seventy-seven. Its legal application requires the
+distinctions recorded below at Exodus 21:12–36. The cities of refuge (Numbers 35:9–34) take
 the avenger of blood, an institution the culture already had, and put a trial between him and the
 killer. Both are Lamech's arithmetic being capped.
 
@@ -64,6 +65,16 @@ for revenge becomes its measure for pardon. See
   *"Vengeance is mine"* (Deuteronomy 32:35, Romans 12:19, Hebrews 10:30); Jesus on turning the
   cheek and on the seventy-seven (Matthew 5:38–42, 18:21–35); the martyrs' *"How long?"*
   (Revelation 6:10).
+
+### Violence, injury, and liability — Exodus 21:12–36
+
+The matching sequence in 21:23–25 has no escalating multiplier. **The earlier description of this
+as a ceiling needs precision:** proportionality supports that reading, but Exodus does not report
+how courts historically applied each term or establish that every bodily penalty was commuted to
+money. Judges are named in 21:22; payments and emancipation are explicit in adjacent cases.
+The passage should not be reduced either to unrestricted private revenge or to a system of cash
+payments alone. See [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].
+See [[Laws of Violence and Injury]].
 
 ## Key passages
 
@@ -121,6 +132,8 @@ for revenge becomes its measure for pardon. See
   end (*ḥālaš*, *overpowered*, 17:13); the memorial is written so the sentence will be carried out by later
   generations — in Deuteronomy by Israel (*"you shall blot out"*, 25:19), in 1 Samuel 15 by Saul. **Exodus has God
   say *"I will"*** (17:14; WLC)
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 

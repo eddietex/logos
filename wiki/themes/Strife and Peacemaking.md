@@ -82,6 +82,15 @@ Lot and then arms three hundred eighteen men to get him back (14:14). The prophe
 the page — and then keeps arranging its narratives so that the man who gave ground ends up holding
 the land.
 
+### Violence, injury, and liability — Exodus 21:12–36
+
+The quarrel of 21:18–19 ends with an obligation to pay for lost time and healing, while the fight
+of 21:22 injures a pregnant bystander. Strife creates liabilities beyond the original disputants.
+The matching penalties constrain the response to harm, but do not narrate reconciliation between
+the parties. Matthew 5:38–42's instruction to relinquish retaliation is compared in
+[[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].
+See [[Laws of Violence and Injury]].
+
 ## Key passages
 
 - [[Cain and Abel]] — Genesis 4:1–16; the quarrel nobody stops
@@ -206,6 +215,8 @@ the land.
   under which *"all these people also will go to their place in peace"*. The disputes are what keep the people
   standing *"from the morning to the evening"*; **the first peacemaking institution in Israel is proposed by the
   man who also gives Exodus all its *šālôm*** (4:18; 18:7, 23; WLC)
+
+- [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 
 ## Related themes
 
