@@ -55,6 +55,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Wells of Abraham and the Wells of Isaac]] | parallel | Genesis 21:22–34 · Genesis 26:12–33 · Genesis 16:14; 21:19 |
 | [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 · Job 9:2 (at 25:4) |
 | [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 · Job 25:5–6 |
+| [[What Is This You Have Done - The Accusing Question from Eden to the Sea]] | formula | Genesis 3:13 · Genesis 12:18 · Genesis 26:10 · Genesis 29:25 · Genesis 42:28 · Exodus 14:5, 11 |
 | [[When Your Son Asks - Telling the Exodus to the Next Generation]] | formula | Exodus 10:2 · Exodus 12:26–27 · Exodus 13:8–9, 14–16 · Deuteronomy 6:7–8, 20–21; 11:18 · Joshua 4:6–7, 21–22 |
 | [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] | literary-parallel | Job 23:3, 8–10 · Job 7:17–20 · Job 9:11 · Job 13:24 · Psalm 139:1–12, 23–24 · Amos 9:2–4 · Jeremiah 23:23–24 · Isaiah 45:15 |
 | [[Where the Slain Are - Job 39.30 and Matthew 24.28]] | allusion | Job 39:27–30 · Matthew 24:28 · Luke 17:37 · Proverbs 30:17 · Revelation 19:17–18 |

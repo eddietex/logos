@@ -24,9 +24,10 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
 | [[The Door and the Destroyer - Lot's House and the Passover Night]] | thread | Genesis 19:1–29 · Exodus 12:1–28 · Genesis 19:14, 16 · Exodus 12:29–39 |
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 |
-| [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 |
+| [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 · Exodus 14:11 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
+| [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:19 · Psalm 106:9 · Hebrews 11:29 |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
 | [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] | motif | Genesis 41:6, 23, 27 · Exodus 10:13, 19 · Exodus 14:21 |
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
@@ -46,7 +47,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
-| [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 |
+| [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 · Exodus 14:21–22 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 · Exodus 12:48–49 |

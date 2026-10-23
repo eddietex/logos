@@ -13,7 +13,7 @@ tags: [connection]
   [[Joseph and the Famine]]
 - **Genesis 48:22** — *"one portion above your brothers"* at [[Shechem (city)]] —
   [[Jacob Blesses Ephraim and Manasseh]]
-- **Exodus 13:19** — *"Moses took the bones of Joseph with him, for he had made the children of
+- **Exodus 13:19** — [[The Crossing of the Sea]] — *"Moses took the bones of Joseph with him, for he had made the children of
   Israel swear"*
 - **Joshua 24:32** — *"They buried the bones of Joseph … in Shechem, in the parcel of ground which
   Jacob bought"*
@@ -77,6 +77,18 @@ them.**
 back** — **and it is inserted into the most hurried passage in the Torah**, between the plunder of
 the Egyptians and the pillar of cloud. **A nation leaving in the middle of the night, told to eat
 standing up with its sandals on, stops to collect a coffin.**
+
+**Two refinements, now that Exodus 13:19 is ingested** (both checked in the WLC):
+
+- **The timing.** The verse does not stand in the night of the departure (12:29–42). It follows 13:17,
+  *"When Pharaoh had let the people go"*, and sits beside the stage from Succoth to Etham (13:20) — **on the
+  march, after the law of the firstborn**, between the choice of route and the pillar of cloud. The
+  paragraph above is kept as written; this note corrects it.
+- **The wording.** *"Nearly verbatim"* holds, and the two differences are telling: Genesis 50:25's
+  *wayyašbaʿ*, *he made swear*, becomes ***hašbēaʿ hišbîaʿ***, *he had surely made swear* — the doubled form
+  of the promise inside the oath, *pāqōd yipqōd* — and the oath gains ***ʾittəkem***, *"with you"*: *"you
+  shall carry up my bones away from here with you"*. **Joseph goes up among the people.** Whether this is the
+  only Genesis oath Exodus quotes back is not checked in this pass. See [[The Crossing of the Sea]].
 
 **Joshua 24:32 closes it.**
 

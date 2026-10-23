@@ -246,9 +246,24 @@ expanding God's word or relaying parts the narrator did not record. See
 [[The Consecration of the Firstborn]] and
 [[When Your Son Asks - Telling the Exodus to the Next Generation]].
 
+**At the sea he speaks for God before God has told him what to say, and is answered with a question.** He
+carries Joseph's bones, keeping an oath sworn four hundred years before (13:19; Genesis 50:25). When the
+chariots appear and the people turn on him — *"Because there were no graves in Egypt, have you taken us away
+to die in the wilderness?"* (14:11), with the *"What is this you have done to us?"* of Genesis's deceived
+kings (Genesis 12:18; 26:10; WLC) — **he answers with his first *"Don't be afraid"***: *"Stand still, and see
+the salvation of Yahweh … Yahweh will fight for you, and you shall be still"* (14:13–14). ***Hityaṣṣəbû***,
+*take your stand*, is the verb of his sister, who *"stood far off, to see what would be done to him"* at the
+Nile (2:4; WLC). **Then God asks him *"Why do you cry to me?"*** (14:15) — a cry the narrator gives to the
+people, not to him — and tells him to make them march. **He stretches out his hand twice**, and each time
+the act is Yahweh's (14:21, 27); the rod is commanded (14:16) and not mentioned again. **The pericope ends
+with the first time he is called Yahweh's *servant***: *"they believed in Yahweh, and in his servant Moses"*
+(14:31; *ʿabdô*, WLC), and the verb of the close, *"Yahweh saved"* (*yāšaʿ*, 14:30), is the verb of his own
+first rescue, *"Moses stood up and helped them"* (2:17; WLC). See [[The Crossing of the Sea]] and
+[[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]].
+
 ### What is ahead
 
-The sea and the song (13:17–15:21), the
+The song (15:1–21), the
 wilderness (15:22–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -316,6 +331,9 @@ sections are written as their pericopes arrive.
   plunder; given the second Passover law with Aaron — Exodus 12:29–51, [[The Death of the Firstborn and the Departure]]
 - Turns God's two-verse claim on the firstborn into the law of unleavened bread, the redemption of the
   firstborn, and the father's answer to the son — Exodus 13:1–16, [[The Consecration of the Firstborn]]
+- Carries Joseph's bones; told *"Why do you cry to me?"*; answers the people's terror with *"Stand still, and
+  see the salvation of Yahweh"*; stretches out his hand over the sea twice; believed in as Yahweh's
+  *"servant"* — Exodus 13:19–14:31, [[The Crossing of the Sea]]
 
 ## Appears in
 
@@ -366,6 +384,9 @@ sections are written as their pericopes arrive.
   me also!"*; *"The children of Israel did according to the word of Moses"*
 - [[The Consecration of the Firstborn]] — Exodus 13:3–16; **the teacher of the next generation.** *"Remember
   this day"*; *"You shall tell your son"*; *"What is this?"*; *"all the firstborn of my sons I redeem"*
+- [[The Crossing of the Sea]] — Exodus 13:19–14:31; **the servant believed in.** *"Moses took the bones of
+  Joseph"*; *"Stand still, and see the salvation of Yahweh"*; *"Why do you cry to me?"*; *"Moses stretched
+  out his hand over the sea"*; *"his servant Moses"*
 
 ## Related people
 

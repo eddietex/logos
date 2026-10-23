@@ -373,6 +373,12 @@ rule are the conditions the rest of Scripture is set in.
   nation"* — the firstborn struck at midnight, *"Yahweh struck"*, with no destroyer named (12:29); and
   *"Afterward they will come out with great wealth"* — *"They plundered the Egyptians"* (12:36). The
   narrator gives the act to Yahweh alone; who the destroyer of 12:23 was is still not said
+- [[The Crossing of the Sea]] — Exodus 14:17–18, 23–28; **the last judgment on Egypt's army, and the
+  knowledge it was for.** God hardens *"the heart of Egypt"* so that *"they shall go in after them"*, and
+  *"The Egyptians shall know that I am Yahweh"*; the army is panicked, clogged, and *"overthrown"* —
+  *nāʿar*, *shaken off*, only here in the Torah (WLC lemma search) — and *"There remained not so much as one
+  of them"*, the locusts' epitaph (10:19). **The knowledge promised arrives as the army's last words**:
+  *"Yahweh fights for them against the Egyptians!"* (14:25)
 
 ## Related themes
 

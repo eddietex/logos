@@ -101,6 +101,10 @@ idolatry of the heart is denial of God**, and it is the very thing the accuser p
   Yahweh"***. **The first time the plagues are said to be aimed at Egypt's gods**; no god is named, and
   the mapping of plagues onto particular deities is later interpretation. Numbers 33:4: *"Yahweh also
   executed judgments on their gods"*
+- [[The Crossing of the Sea]] — Exodus 14:2, 9; **a camp opposite a god's name.** Israel's last camp in Egypt
+  faces [[Baal Zephon]], a place named for a Baal, on the night Yahweh *"gets honor"* over Pharaoh (14:4,
+  17–18). **The text draws no line between the name and the judgment *"against all the gods of Egypt"*
+  (12:12)**; the wiki notes the juxtaposition and adopts no reading
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

@@ -243,6 +243,11 @@ human one innocent.** *"You meant evil"* stands. See
   the shepherd's staff Moses already carries**, and the help he asks for is already travelling: *"behold,
   he comes out to meet you"* (4:14). The forty years in Midian turn out to have put him on the right
   mountain with the right tool
+- [[The Crossing of the Sea]] — Exodus 13:17–18; 14:1–4; **the route is God's, and so is the trap.** He leads
+  the long way round (*wayyassēb*) for a stated reason, the people's fear of war; then turns them back to the
+  sea so that Pharaoh will think them *"entangled"*, and says what Pharaoh will do before Pharaoh does it.
+  ***"They did so"*** (14:4): **the people obey a route they are not told the reason for**. *Nāḥâ*, *lead*
+  (13:17, 21), is the verb of Abraham's servant, *"Yahweh has led me on the way"* (Genesis 24:27; WLC)
 
 ## Related themes
 

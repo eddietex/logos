@@ -40,7 +40,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |
 | [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 · Numbers 23:1 · 1 Chronicles 15:26 |
 | [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
-| [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Deuteronomy 26:5–9 |
+| [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Deuteronomy 26:5–9 · Genesis 31:25 |
 | [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
 | [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |
@@ -63,4 +63,4 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
 | [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 · Exodus 12:45, 48–49 |
-| [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] | motif | Genesis 41:7, 24 · Exodus 7:12 · Exodus 15:12 · Numbers 16:30–34; 26:10 |
+| [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] | motif | Genesis 41:7, 24 · Exodus 7:12 · Exodus 15:12 · Numbers 16:30–34; 26:10 · Hebrews 11:29 |

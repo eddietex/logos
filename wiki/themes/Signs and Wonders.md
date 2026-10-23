@@ -104,6 +104,11 @@ one.
   Israel's own hand** — paired with a *"memorial"* (13:9) and with *ṭôṭāpōt* (13:16), a word found only here
   and in Deuteronomy 6:8; 11:18 (WLC lemma search, Torah). Literal (the later *tefillin*) or figurative:
   the text does not decide
+- [[The Crossing of the Sea]] — Exodus 13:21–22; 14:16–31; **the pillar and the sea.** The pillar of cloud by
+  day and fire by night, *"didn't depart from before the people"*; the rod lifted and the hand stretched out;
+  the sea divided by an east wind *"all night"*; the walls of water. **The sign-word for the whole is *"the
+  great hand"*** — *hayyād haggədōlâ*, WEB *"the great work"* (14:31; WLC). **No mechanism is given**; the
+  text gives a wind and a duration
 
 ## Related themes
 

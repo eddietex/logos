@@ -145,11 +145,30 @@ in the catechism Pharaoh is.** The two descriptions stand fifteen verses apart i
 God's, and the text does not reconcile them. See [[The Consecration of the Firstborn]] and
 [[Hardening of the Heart]].
 
+**Then he changes his mind, and the last hardening sends him after them.** *"The king of Egypt was told that
+the people had fled"* — *bāraḥ*, the verb of Hagar's and Moses' flights (Genesis 16:6; Exodus 2:15; WLC) —
+**and the release he granted with *"bless me also!"* (12:32) is reported to him as an escape.** *"The heart
+of Pharaoh and of his servants was changed towards the people"* (*hāpak*, the verb of the Nile *"turned to
+blood"*, 7:17, 20; WLC), and they ask ***"What is this we have done, that we have let Israel go from serving
+us?"*** (14:5) — the *mah-zzōʾt ʿāśâ* of Genesis's deceived kings, among them a Pharaoh (Genesis 12:18), now
+asked by Egypt of itself (WLC). **His regret is for the workforce, not the firstborn**: *mēʿobdēnû*, *from
+serving us*. He takes six hundred chosen chariots, and *"Yahweh hardened the heart of Pharaoh king of
+Egypt"* (14:8), as God had told Moses he would, to *"get honor over Pharaoh"* (14:4) — ***ʾikkābədâ***, the
+niphal of *kābad*, **the root of his own heavy heart turned to God's glory** (WLC). See
+[[The Crossing of the Sea]] and
+[[What Is This You Have Done - The Accusing Question from Eden to the Sea]].
+
+**Whether he died in the sea, Exodus 14 does not say.** He *"prepared his chariot"* (14:6) and *"came near"*
+(14:10); after that the text speaks only of *"all of Pharaoh's horses, his chariots, and his horsemen"*
+(14:23) and *"all Pharaoh's army that went in after them"* (14:28), of whom *"There remained not so much as
+one"*. **Psalm 136:15 says God *"overthrew Pharaoh and his army in the Red Sea"*** (WEB; *wəniʿēr parʿōh
+wəḥêlô*, the verb *nāʿar* of Exodus 14:27; WLC; *not yet ingested*). **The two are recorded side by side:
+the narrative does not narrate his death, and the psalm includes him in the overthrow.** The wiki adopts
+neither as the other's correction.
+
 ### What is ahead
 
-The pursuit, and the change of heart — *"What is this we have done, that we have let Israel go from
-serving us?"* (14:5) — and the sea. These are written as
-their pericopes arrive.
+The Song's account of the chariots and the army (15:1–21). These are written as their pericopes arrive.
 
 ## Timeline / key events
 
@@ -184,6 +203,9 @@ their pericopes arrive.
   [[The Death of the Firstborn and the Departure]]
 - Remembered in the son's catechism as the one who *"stubbornly refused to let us go"* — Exodus 13:15,
   [[The Consecration of the Firstborn]]
+- Told the people have fled; with his servants, changes his mind — *"What is this we have done?"*; hardened
+  by Yahweh, pursues with six hundred chosen chariots and overtakes Israel by the sea; his army goes in
+  after them and is covered; his own death not narrated — Exodus 14:3–28, [[The Crossing of the Sea]]
 
 ## Appears in
 
@@ -216,6 +238,9 @@ their pericopes arrive.
   sat on his throne"*; *"Rise up, get out"*; *"as you have said"*; *"bless me also!"*
 - [[The Consecration of the Firstborn]] — Exodus 13:15; **remembered.** *"When Pharaoh stubbornly refused to
   let us go"* — *hiqšâ*, the verb God used of himself at 7:3
+- [[The Crossing of the Sea]] — Exodus 13:17; 14:3–28; **the pursuit, and the army drowned.** *"When Pharaoh
+  had let the people go"*; *"They are entangled in the land"*; *"What is this we have done?"*; *"Yahweh
+  hardened the heart of Pharaoh"*; *"all Pharaoh's army … There remained not so much as one of them"*
 
 ## Related people
 
@@ -238,3 +263,4 @@ their pericopes arrive.
 - [[Pride and Self-Exaltation]]
 - [[Sabbath]]
 - [[Slavery and Servitude]]
+- [[War]]

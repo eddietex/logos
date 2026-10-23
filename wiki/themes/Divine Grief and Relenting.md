@@ -109,6 +109,10 @@ happening in God rather than in the world.
   says Yahweh's anger burned**, after Abraham's hypothetical *"don't let the Lord be angry"* (Genesis
   18:30, 32). **The anger does not withdraw the call or punish the refusal; it adds Aaron.** A rabbinic
   tradition (Zevachim 102a) says it cost Moses' line the priesthood; the text does not
+- [[The Crossing of the Sea]] — Exodus 13:17; **the verb turned to the people.** *"Lest perhaps the people
+  change their minds (yinnāḥēm)"* — the niphal of *nāḥam*, God's *"sorry"* at Genesis 6:6–7, here a change of
+  heart God foresees in Israel and plans the route around (WLC). Its next use, at 32:12–14, is Moses asking
+  God to relent
 
 ## Related themes
 

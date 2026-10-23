@@ -58,12 +58,19 @@ out"***, and the Egyptians who urge the people out, *"We are all dead men"* (12:
 *"Egypt is destroyed"* (10:7) said by the whole land. The page records the forecast and the report side by
 side. See [[The Death of the Firstborn and the Departure]].
 
+**At the sea they turn with their king.** *"The heart of Pharaoh and of his servants was changed towards the
+people, and they said, 'What is this we have done, that we have let Israel go from serving us?'"* (14:5).
+**The court that pleaded *"Let the men go"* (10:7) and rose with Pharaoh on the night of the firstborn
+(12:30) now regrets the release** — and the word for what it lost is its own name's root: *mēʿobdēnû*,
+*from serving us*, from *ʿābad*, the verb of which they are the *ʿăbādîm*. **They are not named again in the
+chapter**; from 14:9 the narrator speaks of *"the Egyptians"*, *"his horsemen, and his army"*, and at 14:17
+God hardens *lēb miṣrayim*, *the heart of Egypt* (WLC). **Whether the servants rode with the army the text
+does not say.** See [[The Crossing of the Sea]].
+
 ### What is ahead
 
-- 14:5 — *"the heart of Pharaoh and of his servants was changed towards the people"*: *"What is this we
-  have done, that we have let Israel go from serving us?"*
-
-These are written as their pericopes arrive.
+Nothing further is recorded of them in Exodus as a group. This section will be revised if a later
+pericope names them.
 
 ## Timeline / key events
 
@@ -78,6 +85,8 @@ These are written as their pericopes arrive.
   out"* — Exodus 11:3, 8, [[The Last Plague Announced]]
 - Rise in the night with Pharaoh when the firstborn die; the bowing foretold at 11:8 not narrated —
   Exodus 12:30, [[The Death of the Firstborn and the Departure]]
+- Their heart changed with Pharaoh's: *"What is this we have done, that we have let Israel go from serving
+  us?"* — Exodus 14:5, [[The Crossing of the Sea]]
 
 ## Appears in
 
@@ -94,6 +103,8 @@ These are written as their pericopes arrive.
   of Pharaoh's servants"*; *"All these servants of yours will come down to me, and bow down"*
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:30; **risen in the night.** *"Pharaoh rose up in the night, he, and all his
   servants"*
+- [[The Crossing of the Sea]] — Exodus 14:5; **the regret.** *"The heart of Pharaoh and of his servants was
+  changed"*; *"What is this we have done?"*
 
 ## Related people
 

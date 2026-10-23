@@ -241,6 +241,10 @@ already did.
   that he may also take away from me this death"*; *"He went out from Pharaoh, and prayed to Yahweh"* —
   *wayyeʿtar*, the *ʿātar* of 8:8, 28–30. **Answered at once**: *"Yahweh turned an exceeding strong west
   wind"* (10:19). After this Pharaoh asks for no more prayer
+- [[The Crossing of the Sea]] — Exodus 14:10, 15; **a cry answered with a question.** *"The children of Israel
+  cried out to Yahweh"* (*ṣāʿaq*), and in the same breath accused Moses; God's reply is to Moses, singular —
+  ***"Why do you cry to me? Speak to the children of Israel, that they go forward"*** — **though no cry of
+  Moses' is narrated** (WLC). The answer to the prayer is an order to march
 
 ## Related themes
 

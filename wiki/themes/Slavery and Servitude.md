@@ -308,6 +308,12 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   ʿăbādîm*, a house of slaves, named for the first time in this sense (WLC) and from here a formula (20:2;
   Deuteronomy 5:6 and five more). **And the *ʿăbōdâ* changes masters again**: *"you shall keep this service
   (wəʿābadtā ʾet-hāʿăbōdâ)"* (13:5), the bondage-word now a festival
+- [[The Crossing of the Sea]] — Exodus 14:5, 12, 31; **the root *ʿābad* three ways in one chapter.** Pharaoh:
+  *"we have let Israel go from serving us"* (*mēʿobdēnû*); the people: *"Leave us alone, that we may serve
+  the Egyptians … better for us to serve the Egyptians than to die in the wilderness"* — a word they say they
+  spoke in Egypt and the text does not record; and the close, *"his servant Moses"* (*ʿabdô*), **the first
+  time Moses is called Yahweh's servant** (WLC). **The book's root is used of Moses' relation to God at the
+  moment Israel stops being Egypt's**
 
 ## Related themes
 

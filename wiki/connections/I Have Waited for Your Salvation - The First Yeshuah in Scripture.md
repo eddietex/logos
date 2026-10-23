@@ -9,8 +9,8 @@ tags: [connection]
 
 - Genesis 49:18 — *"I have waited for your salvation, Yahweh"* — **the first occurrence of the noun
   *yəšûʿâ* in the Bible**
-- Exodus 14:13 — *"stand still, and see the salvation of Yahweh"* — the noun's next major use, at the
-  sea
+- Exodus 14:13 — *"stand still, and see the salvation of Yahweh"* — the noun's next use, at the sea —
+  [[The Crossing of the Sea]]
 - Exodus 15:2 — *"Yah… has become my salvation"*, in the Song of the Sea
 - Psalm 3:8 — *"Salvation belongs to Yahweh"*; Psalm 62:1; Psalm 119:166, *"I have hoped for your
   salvation, Yahweh"* — **the Psalter's near-quotation of Genesis 49:18**
@@ -80,3 +80,9 @@ scene the Gospel builds out of Old Testament waiting. **Genesis 49:18 is the sam
 the sight.** See [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]].
 
 See also [[Jacob Blesses His Sons]], [[Hope]], [[Prayer]], [[Faith]] and [[Jacob]].
+
+**Exodus 14 confirms the order and supplies the object.** In the Torah *yəšûʿâ* occurs at Genesis 49:18,
+Exodus 14:13, Exodus 15:2, and Deuteronomy 32:15 (WLC lemma search): **the sea is its second occurrence, not
+merely its next major one.** At 14:13 it has an author, *"the salvation of Yahweh"*, a beneficiary, *"which
+he will work for you"*, and a date, *"today"*; and at 14:30 the narrator gives it as a verb, *"Thus Yahweh
+saved (wayyôšaʿ) Israel that day"* (WLC). See [[The Crossing of the Sea]].

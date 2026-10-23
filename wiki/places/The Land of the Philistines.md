@@ -37,6 +37,13 @@ Iron Age Philistine cities shows.
 almost certainly a loanword rather than a Semitic formation, and the Egyptian records of Ramesses III
 call the same people *prst*.
 
+**In Exodus it is the road not taken.** *"When Pharaoh had let the people go, God didn't lead them by the way
+of the land of the Philistines, although that was near; for God said, 'Lest perhaps the people change their
+minds when they see war, and they return to Egypt'"* (Exodus 13:17). **The first time the name appears
+after Genesis, it names a coast road and a danger of war** — the Genesis Philistines of Gerar had none.
+The reason is God's, stated in his own words, and the route chosen instead is *"the way of the wilderness by
+the Red Sea"* (13:18). See [[The Crossing of the Sea]].
+
 **Where it goes afterwards.** Everything Genesis does not have arrives later. The Philistines hold
 the coast through Judges and Samuel as Israel's defining enemy — Samson, the capture of the ark,
 Goliath, David among them at Ziklag, Saul's death on Gilboa and the display of his body at Beth
@@ -54,6 +61,8 @@ Genesis 10:14 already names in the Table of Nations.
 - [[Isaac in Gerar]] — Genesis 26:1, 8, 14–18; *"Abimelech king of the Philistines"*, whose people
   envy Isaac's harvest — the first *qānāʾ* in the Bible — and stop his father's wells with earth;
   the only place in Scripture where Philistines are shown as herdsmen quarrelling over water
+- [[The Crossing of the Sea]] — Exodus 13:17; **the near road God avoids**, *"Lest perhaps the people change
+  their minds when they see war"*
 
 ## Related places
 
@@ -79,3 +88,4 @@ Genesis 10:14 already names in the Table of Nations.
 - The long war of Judges and Samuel — Judges 13–16; 1 Samuel 4–7; 17; 31
 - Denounced by the prophets — Amos 1:6–8; Jeremiah 47; Zephaniah 2:4–7; Zechariah 9:5–6
 - Brought up from Caphtor by the same God who brought Israel from Egypt — Amos 9:7
+- The coast road from Egypt not taken by Israel, for fear of war — Exodus 13:17

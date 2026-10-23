@@ -107,3 +107,8 @@ the very words of Genesis 6:11, *"the earth was corrupt"* (WLC). **The differenc
 in Genesis the earth corrupts itself and God's flood follows; in Exodus God's plague is what corrupts
 the land. Exodus draws no line to the flood, and the wiki records the shared phrase as a shared phrase.
 See [[Water Turned to Blood]] and [[Frogs, Lice, and Flies]].
+
+**Exodus 14 uses the same vocabulary in the other direction.** The dry land (*yabbāšâ*), the dry ground
+(*ḥārābâ*), the splitting (*bāqaʿ*) and the wind appear at the sea, where the waters are divided so that a
+people walks through alive (WLC). See
+[[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].

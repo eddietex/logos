@@ -276,6 +276,12 @@ what Job is asking for.
   themselves (10:17). Ten verses later Pharaoh says *"in the day you see my face you shall die!"*
   (10:28). **There is no further intercession for Pharaoh in the plague narrative** —
   [[A Prophet Who Prays - The First Nabi in Scripture]]
+- [[The Crossing of the Sea]] — Exodus 14:13–16, 21, 26–27, 31; **the mediator speaks first and is believed
+  in.** Moses answers the people's terror before God has spoken to him (14:13–14); God addresses the people's
+  cry to him (14:15); he stretches out his hand and Yahweh acts (14:21, 27); and the people believe *"in
+  Yahweh, and in his servant Moses"* (14:31) — **belief in the mediator named beside belief in God for the
+  first time**. Paul's *"baptized into Moses"* (1 Corinthians 10:2) names the same bond — see
+  [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
 
 ## Related themes
 

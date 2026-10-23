@@ -146,6 +146,11 @@ because of a covenant with the fathers (Exodus 2:24), not because of anything Is
 The first exodus in Scripture is a rescue of a man from a mess of his own making, and that is
 probably the point.
 
+**One more thread, found at the sea.** The Pharaoh's *"What is this that you have done to me?"* (Genesis
+12:18, *mah-zzōʾt ʿāśîtā llî*) is the formula Israel turns on Moses at Exodus 14:11 (*mah-zzōʾt ʿāśîtā
+llānû*; WLC). Set out on
+[[What Is This You Have Done - The Accusing Question from Eden to the Sea]].
+
 ## The second rehearsal — Jacob and Laban
 
 **Genesis runs the shape a second time in the Jacob cycle, and the second run supplies the pieces the

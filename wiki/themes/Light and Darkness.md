@@ -188,6 +188,11 @@ raw text.)*
   darkness becomes a covenant curse (Deuteronomy 28:29) —
   [[The Day of the Locust - Exodus 10 and Joel 1-2]] —
   [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
+- [[The Crossing of the Sea]] — Exodus 13:21; 14:20, 24; **light that travels.** The pillar of fire is *"to
+  give them light"* — *ləhāʾîr*, the hiphil of the creation's lights (Genesis 1:15, 17; WLC) — and at 14:20
+  *"there was the cloud and the darkness, yet gave it light by night"*: *ḥōšek*, the darkness of Genesis 1:2
+  and the ninth plague, beside light, in a sentence whose sense is debated. **At the ninth plague Israel had
+  light *"in their dwellings"* (10:23); now the light goes with them**
 
 ## Related themes
 

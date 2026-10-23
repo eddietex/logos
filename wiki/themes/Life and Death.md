@@ -418,6 +418,11 @@ the rest of the canon.
 - [[The Last Plague Announced]] — Exodus 11:4–6; ***"all the firstborn in the land of Egypt shall
   die."*** The death Pharaoh threatened Moses with (10:28) is announced against Pharaoh's own heir,
   with the hour — *"About midnight"* — and the cry that will follow
+- [[The Crossing of the Sea]] — Exodus 14:11–12, 22, 30; **dry ground that kills and dry ground that saves.**
+  The people fear *"to die in the wilderness"*; the only other Torah *ḥārābâ*, *dry ground*, is the flood's
+  *"All on the dry land … died"* (Genesis 7:22), and here it is where Israel walks through alive (14:21;
+  WLC); and Israel sees *"the Egyptians dead (mēt) on the seashore"*, on the *śəpat hayyām*, the phrase of the
+  promise of seed *"as the sand which is on the seashore"* (Genesis 22:17; WLC)
 
 ## Related themes
 

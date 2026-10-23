@@ -173,6 +173,11 @@ assumption is that a body left out is a person left out.**
   grain* Eliphaz promised the righteous man's death at 5:26 — see
   [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] — and the worm that covers
   both the whole man and the bitter one (21:26) is the grave's one impartiality.
+- [[The Crossing of the Sea]] — Exodus 13:19; 14:11, 30; **bones carried out, graves mocked, dead unburied.**
+  Moses takes Joseph's bones up out of Egypt as he swore (13:19); the people ask *"Because there were no
+  graves in Egypt, have you taken us away to die in the wilderness?"* (14:11); and Israel sees *"the
+  Egyptians dead on the seashore"* (14:30), with no burial recorded. **The people who carry a man out of Egypt
+  rather than bury him there accuse Moses of bringing them out to die unburied**
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

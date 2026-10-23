@@ -169,6 +169,13 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   bondage"*** — **the fullest promise yet, unheard.** The text does not call it unbelief; it gives
   the oppression as the reason. Moses' fear at 4:1 (*"nor listen to my voice"*) comes true after
   4:31 proved it wrong
+- [[The Crossing of the Sea]] — Exodus 14:31; ***"they believed in Yahweh, and in his servant Moses"*** —
+  *wayyaʾămînû bYHWH*, **the construction of Genesis 15:6's *"He believed in Yahweh"*, used here for the first
+  time since** (WLC). **At 4:31 the people *"believed"* with no object; here the object is double.** **Belief
+  follows sight**: *"Israel saw the great work … and they believed"*. Hebrews 11:29 credits the crossing
+  itself to faith — *"By faith, they passed through the Red Sea as on dry land"* (WEB) — and the order of the
+  two texts is recorded, not reconciled, on
+  [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
 
 ## Related themes
 

@@ -15,7 +15,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:25–26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 |
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
 | [[Abram the Hebrew - The First Use of the Name]] | thread | Genesis 14:13 · Genesis 10:21; 11:14–17 · Genesis 39:14; 40:15; 41:12 · Exodus 1:15–19; 2:6; 3:18 · 1 Samuel 4:6; 13:19; 14:11 · Jonah 1:9 · Joshua 24:2–3 · Philippians 3:5 |
-| [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 |
+| [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 · Exodus 14:5 |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Exodus 7:9–12 · Ezekiel 29:3 · Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 — "Leviathan a pet" corrected against 41:5 |
@@ -28,6 +28,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |
 | [[Balm, Spices, and Myrrh - The Caravan's Cargo and Jacob's Present]] | literary parallel | Genesis 37:25, 28 · Genesis 43:11 · Jeremiah 8:22; 46:11; 51:8 · Ezekiel 27:17 |
+| [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] | typology | Exodus 13:21–22 · Exodus 14:19–22, 29, 31 · 1 Corinthians 10:1–6 · Hebrews 11:29 |
 | [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |
 | [[The Bear, Orion, and the Pleiades]] | image | Job 9:9 · Job 38:31–33 · Amos 5:8 · Isaiah 13:10 · Genesis 1:16 · Psalm 147:4 · Isaiah 40:26 |
 | [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 |

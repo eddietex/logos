@@ -245,6 +245,19 @@ Lord came to him"* (Acts 7:30–31), and God sent Moses *"by the hand of the ang
 the bush"* (7:35). **Moses' reaction is reading 2's**: *"he was afraid to look at God"* (3:6), not at a
 messenger. The wiki records the alternation and harmonizes nothing. See [[The Burning Bush]].
 
+### In this pericope — Exodus 14:19–20
+
+**As *the angel of God*, and beside the thing that elsewhere carries Yahweh.** *"The angel of God, who went
+before the camp of Israel, moved and went behind them; and the pillar of cloud moved from before them, and
+stood behind them"* (14:19) — ***malʾak hāʾĕlōhîm hahōlēk lipnê maḥănēh yiśrāʾēl***. **The participle *hōlēk
+lipnê*, *going before*, is the one used five verses earlier of Yahweh himself: *"Yahweh went before them by
+day in a pillar of cloud"*** (13:21; WLC). **So the text gives the same going-before to Yahweh in the pillar
+(13:21), to the angel (14:19a), and to the pillar (14:19b), and in the morning watch it is *Yahweh* who
+looks out *"through the pillar of fire and of cloud"* (14:24).** It is the alternation of the table above in
+a new form: not a messenger who speaks as God, but a messenger who moves where God moves. **The wiki reports
+it and adopts none of the three readings.** The promise of an angel sent *"before you"* comes at 23:20 (WEB,
+`raw/bible/Exodus.md`) and recurs at 32:34 and 33:2 (*not yet ingested*). See [[The Crossing of the Sea]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -268,6 +281,8 @@ messenger. The wiki records the alternation and harmonizes nothing. See [[The Bu
   evil"* — **the first *gōʾēl* in Scripture** — and asked to bless [[Ephraim]] and [[Manasseh]] —
   Genesis 48:15–16, [[Jacob Blesses Ephraim and Manasseh]]
 - Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6, [[The Burning Bush]]
+- As *"the angel of God, who went before the camp of Israel"*, moves behind it with the pillar of cloud,
+  between the camps of Egypt and Israel — Exodus 14:19–20, [[The Crossing of the Sea]]
 - Goes before Israel in the wilderness, with the warning *"my name is in him"* — Exodus 23:20–23
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
 - Sits under the oak at Ophrah and commissions Gideon — Judges 6:11–24
@@ -326,6 +341,8 @@ messenger. The wiki records the alternation and harmonizes nothing. See [[The Bu
 - [[The Burning Bush]] — Exodus 3:2; **one verse as *the angel*, then thirty-six as Yahweh and God.**
   Appears in the fire; the voice from the same place says *"I am the God of your father"*; Moses hides
   his face *"for he was afraid to look at God"*. Stephen's retelling keeps the angel (Acts 7:30, 35)
+- [[The Crossing of the Sea]] — Exodus 14:19; **the going-before shared with Yahweh and the pillar.** *"The
+  angel of God, who went before the camp of Israel, moved and went behind them"*
 
 ## Related people
 

@@ -297,6 +297,20 @@ buries him at [[Shechem (city)]]**, in the parcel Jacob gave him at 48:22. Filed
 — **and the only one who dies with the promise word-perfect on his lips, naming the three men it was
 sworn to and not himself.**
 
+### His bones go up — Exodus 13:19
+
+**Moses keeps the oath.** *"Moses took the bones of Joseph with him, for he had made the children of Israel
+swear, saying, 'God will surely visit you, and you shall carry up my bones away from here with you'"*
+(Exodus 13:19). **The Hebrew quotes Genesis 50:25 with two changes** (both WLC): the swearing is doubled,
+*hašbēaʿ hišbîaʿ*, *he had surely made swear*, to match the doubled *pāqōd yipqōd*; and the oath gains
+***ʾittəkem***, *"with you"*. **Joseph goes up as one of the people.**
+
+**A refinement to this page's earlier wording.** The Genesis 50 section above says Exodus 13:19 *"records
+Moses collecting the coffin on the night of the departure"*. **The verse stands after 13:17, *"When Pharaoh
+had let the people go"*, and beside the stage from Succoth to Etham (13:20)** — on the march, not on the
+night of 12:29–42. The earlier sentence is kept as written and this note corrects its timing. See
+[[The Crossing of the Sea]] and [[Carry Up My Bones - Joseph's Oath and Its Keeping]].
+
 ## Timeline / key events
 
 - Born to [[Rachel]] after *"God remembered Rachel"*; *"may Yahweh add another son to me"* — Genesis
@@ -394,6 +408,7 @@ sworn to and not himself.**
   the bones are collected at Exodus 13:19 and buried at Joshua 24:32
 - *"In Egypt already"*; dies, with all his brothers and all that generation; a new king arises
   *"who didn't know Joseph"* — Exodus 1:5–8, [[The Oppression in Egypt]]
+- His bones taken up by Moses on the march out — *"with you"* — Exodus 13:19, [[The Crossing of the Sea]]
 
 ## Appears in
 
@@ -556,6 +571,8 @@ sworn to and not himself.**
 - [[The Burning Bush]] — Exodus 3:16; **not named, but quoted.** The message for the elders, *"I have
   surely visited you"* — *pāqōd pāqadtî* — is his dying promise, *"God will surely visit you"*
   (Genesis 50:24–25), kept word for word
+- [[The Crossing of the Sea]] — Exodus 13:19; **his bones carried.** *"Moses took the bones of Joseph with
+  him"*; *"you shall carry up my bones away from here with you"*
 
 ## Related people
 

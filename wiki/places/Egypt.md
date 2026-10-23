@@ -264,6 +264,9 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[The Consecration of the Firstborn]] — Exodus 13:3, 14; **named *the house of bondage*.** *"Remember this
   day, in which you came out of Egypt, out of the house of bondage"* — *bêt ʿăbādîm*, the phrase's first
   occurrence in that sense (WLC), and the formula of 20:2
+- [[The Crossing of the Sea]] — Exodus 13:17–14:31; **left, and its army lost.** *"Lest … they return to
+  Egypt"*; *"Because there were no graves in Egypt"*; *"it would have been better for us to serve the
+  Egyptians"*; *"Yahweh saved Israel that day out of the hand of the Egyptians"*
 
 ## Related places
 
@@ -344,3 +347,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   [[The Death of the Firstborn and the Departure]]
 - Named *"the house of bondage"* in the first command to remember the day of leaving it — Exodus
   13:3, 14, [[The Consecration of the Firstborn]]
+- Its chariots pursue Israel to the sea and are covered; *"There remained not so much as one of them"* —
+  Exodus 14:5–28, [[The Crossing of the Sea]]

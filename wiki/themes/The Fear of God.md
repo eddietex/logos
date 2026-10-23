@@ -272,6 +272,10 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   that Egypt is destroyed?"*: the *ṭerem*, *not yet*, of Moses' *"you don't yet fear Yahweh God"*
   (9:30). **The fear Moses said Pharaoh lacked, his own court now presses on him as knowledge** —
   [[Pharaoh's Servants (of the Exodus)]]
+- [[The Crossing of the Sea]] — Exodus 14:10, 13, 31; **from fearing Egypt to fearing Yahweh, in one verb.**
+  *"They were very afraid"* (*wayyîrəʾû*, 14:10) of the chariots; Moses' *"Don't be afraid"* (*ʾal-tîrāʾû*,
+  14:13); *"the people feared (wayyîrəʾû) Yahweh"* (14:31) (WLC). **The fear changes object without changing
+  word**
 
 ## Related themes
 

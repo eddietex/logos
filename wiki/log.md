@@ -12496,3 +12496,118 @@ Proverbs 3:3; Matthew 2:15; Luke 2:22–24.
   - `wiki/index.md`: 108 passages, 166 people, 81 places, 71 themes, 305 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 13.17-14.31 — The Crossing of the Sea
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Crossing of the Sea —
+Exodus 13:17–14:31*. The boundary was kept as planned: 13:17 resumes the march, and 15:1 opens the Song.
+There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[The Crossing of the Sea]] covers:
+
+- The shape: route (13:17–22), trap (14:1–14), crossing (14:15–31), built as announcement and fulfilment,
+  with a table of God's words against the events; the threads *ḥāzaq* (14:4, 8, 17, widening to *lēb
+  miṣrayim*), *kābad* (*ʾikkābədâ*, and *kəbēdut*, *"heavily"*, only here in the Torah), and *rāʾâ*.
+- 13:17–18: *nāḥâ*, *lead*, Abraham's servant's verb; *nāḥam* of the people; *milḥāmâ* of 1:10; *ḥămušîm*,
+  only here in the Torah, sense uncertain.
+- 13:19: Genesis 50:25 quoted with *hašbēaʿ hišbîaʿ* and the added *ʾittəkem*, *"with you"*.
+- 13:20–22: Etham as in Numbers 33:6; *ʿammûd*, *pillar*, its first occurrence; *ʿānān* last seen in the bow;
+  *ləhāʾîr* of Genesis 1:15, 17; *mûš*.
+- 14:1–4: *turn back*, the verb God avoided at 13:17; three new place-names; *nəbukîm*; God's first
+  *ʾikkābədâ*; *"They did so"*.
+- 14:5–9: *bāraḥ*; *hāpak*; ***mah-zzōʾt ʿāśînû***; *mēʿobdēnû*; six hundred chariots; *bəyād rāmâ* (Numbers
+  15:30; 33:3) and *hārēm*; *wayyaśśîgû* as Laban.
+- 14:10–14: *wayyîrəʾû* (fear of Egypt, then of Yahweh); *"no graves in Egypt"* against Jacob's *"don't bury
+  me in Egypt"* and Joseph's bones; the unrecorded *"word that we spoke to you in Egypt"*; *hityaṣṣəbû*,
+  Miriam's verb at 2:4; the second *yəšûʿâ*; *lōʾ tōsîpû lirʾōtām*, the idiom of 10:29; Yahweh's first
+  *yillāḥēm*; *taḥărîšûn*.
+- 14:15–18: *"Why do you cry to me?"* to Moses, whose cry is not narrated; *bāqaʿ* (Genesis 7:11; 22:3);
+  *yabbāšâ* (Genesis 1:9–10; Exodus 4:9); *pārāš*, first at Joseph's funeral (Genesis 50:9).
+- 14:19–20: the angel of God, Yahweh, and the pillar all *hōlēk lipnê*; the debated cloud, darkness, and
+  light.
+- 14:21–22: the last *rûaḥ qādîm*; *ḥārābâ*, only here and Genesis 7:22; *ḥômâ*, the first *wall*.
+- 14:23–25: *ʾašmōret*; *šāqap* (Sodom); *hāmam*; the wheels; *kəbēdut*; the Egyptians' *"Yahweh fights for
+  them"*.
+- 14:26–28: *ʾêtān* (Genesis 49:24); *nāʿar* (Psalm 136:15); *"not so much as one"* (10:19); Pharaoh's death
+  not narrated.
+- 14:29–31: *wayyôšaʿ*, Moses' verb at 2:17; *hayyād haggədōlâ*, *"the great hand"*; *śəpat hayyām* (Genesis
+  22:17); *wayyaʾămînû bYHWH* (Genesis 15:6); Moses first called Yahweh's *servant*.
+
+### Judgment calls
+
+- **New places (4): [[Etham]], [[Pihahiroth]], [[Migdol]], [[Baal Zephon]].** Each names a stage or a
+  landmark and none is located. **Migdol may need a qualifier later** if the Migdol of Jeremiah and Ezekiel
+  proves a second place; the page says so.
+- **New connection: [[What Is This You Have Done - The Accusing Question from Eden to the Sea]]** (formula) —
+  *mah-zzōʾt* + *ʿāśâ* at its seven verses in Genesis–Joshua (WLC sequence search).
+- **New connection: [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]]** (motif) —
+  *yabbāšâ*, *ḥārābâ*, *bāqaʿ*, *rûaḥ*, and *ḥōšek* across Genesis 1, 7–8 and Exodus 14; lexical only.
+- **New connection: [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]** (typology) — the
+  two New Testament readings, sacrament and faith, and the order of belief and crossing in each, recorded
+  and not reconciled.
+- **A refinement, flagged rather than overwritten**: [[Carry Up My Bones - Joseph's Oath and Its Keeping]] and
+  [[Joseph]] had placed Exodus 13:19 *"on the night of the departure"*; the verse stands on the march, after
+  13:17. Both pages keep the earlier sentence and add a dated correction.
+- **Tensions recorded, not resolved:** three subjects going before Israel (Yahweh, the angel, the pillar);
+  *"you shall never see them again"* against *"Israel saw the Egyptians dead"*; the people's unrecorded
+  earlier word; *"Why do you cry to me?"*; whether Pharaoh died (Exodus 14 silent; Psalm 136:15 includes
+  him); the people *"armed"* after being routed from war; Hebrews' faith before the crossing and Exodus's
+  belief after it.
+- **Readings reported, not adopted:** *ḥămušîm*; *šālīšīm*; 14:20's sense; the *bind* variant at 14:25; any
+  natural mechanism; the sea's location; Egypt as the land of tombs; the sanctuary of Baal Zephon.
+- **No new person pages.** The army and the people are collective.
+- **Marked at their point as not checked in this pass:** the ancient versions at 14:25; the etymologies of
+  *ḥămušîm*, *šālīšīm*, *Pihahiroth*, and *ṣəpōn*; the Migdol of Jeremiah and Ezekiel (from memory); the
+  Septuagint of Exodus 15:12; the variant at 1 Corinthians 10:2.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 13:17–14:31; Genesis 7:11; 22:17;
+34:19; 50:24–25; Exodus 1:10; 2:4; 4:10; 10:28–29; Leviticus 10:3; Numbers 14:11; 15:30; 20:12; 33:3–8;
+Deuteronomy 1:32; Psalm 136:13–15. Lemma searches of Genesis–Deuteronomy (some Genesis–Exodus or
+Genesis–Leviticus, as marked): *yabbāšâ*, *ḥārābâ*, *ḥômâ*, *bāqaʿ*, *yəšûʿâ*, *yāšaʿ*, *ʾāman*, *kəbēdut*,
+*kābad*, *nāʿar*, *hāmam*, *šāqap*, *nəbukîm*, *ḥămušîm*, *nāḥam*, *sābab*, *ʾašmōret*, *ḥāraš*, *lāḥam*,
+*bāraḥ*, *rādap*, *ʿammûd*, *ʿānān*, *mûš*, *nāḥâ*, *ʾêtān*, *ʿeṣem*, *pārāš*, *markābâ*, *ʾôr* (hiphil), *hāpak*,
+*ḥōšek*, *śāpâ*, *yāṣab*, *ṣāʿaq*, *sûp*, *ʿebed* (Exodus 1–14), *ʾal-tîrāʾ* (Genesis–Exodus), and the sequence
+*mah-zzōʾt* + *ʿāśâ* (Genesis–Joshua). **Greek was checked against the SBLGNT (MorphGNT):** 1 Corinthians
+10:1–2, 5–6; Hebrews 11:29. **Verses quoted in WEB English from outside `raw/`** were fetched one at a time
+from bible-api.com (`translation=web`): Numbers 33:3, 7–8; Deuteronomy 1:30; 11:4; Psalm 106:9; 136:13–15;
+1 Corinthians 10:1–2, 5–6; Hebrews 11:29.
+
+### Pages created or revised
+
+- **Created (8):** the passage page; places [[Etham]], [[Pihahiroth]], [[Migdol]], [[Baal Zephon]];
+  connections [[What Is This You Have Done - The Accusing Question from Eden to the Sea]],
+  [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]],
+  [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]].
+- **People revised (6):** [[God]], [[Moses]], [[Pharaoh (of the Exodus)]],
+  [[Pharaoh's Servants (of the Exodus)]], [[Joseph]], [[The Angel of Yahweh]] — a section each, timeline, and
+  appears-in; *What is ahead* revised for Moses, Pharaoh, and the servants.
+- **Places revised (4):** [[The Red Sea]], [[Succoth (Egypt)]], [[Egypt]], [[The Land of the Philistines]].
+- **Themes revised (18):** [[Hardening of the Heart]], [[Signs and Wonders]], [[Faith]], [[The Fear of God]],
+  [[War]], [[Seeing and Being Seen]], [[Light and Darkness]], [[Creation]], [[Providence]],
+  [[Slavery and Servitude]], [[Burial and the Grave]], [[Oaths and Vows]], [[Prayer]],
+  [[Mediation and Advocacy]], [[Judgment]], [[Life and Death]], [[Divine Grief and Relenting]],
+  [[Idolatry]].
+- **Connections revised (9):** [[Carry Up My Bones - Joseph's Oath and Its Keeping]],
+  [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]],
+  [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]], [[The Flood and Baptism]],
+  [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]],
+  [[Served, Released, Pursued - The Laban Years as Proto-Exodus]],
+  [[Affliction and Flight - Hagar and the Exodus]],
+  [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]], [[The Flood as Un-Creation]].
+- **Book pages:** [[Exodus]] — box checked; the 12–15:21 structure note covers 13:17–14:31.
+- **Indexes:**
+  - books: Exodus 18 / 53.
+  - people: 6 rows extended.
+  - places: 4 rows added, 4 rows extended.
+  - themes: 18 rows extended.
+  - connections: 3 rows added (in [[Connections Index A-C]], [[Connections Index D-H]], and
+    [[Connections Index T-Z]]); 5 rows' references extended.
+  - `wiki/index.md`: 109 passages, 166 people, 85 places, 71 themes, 308 connections.
+
+`scripts/link-check.sh` is clean.

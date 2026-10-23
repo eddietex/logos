@@ -79,3 +79,8 @@ and rebuked you last night"* (31:42) is the whole of Exodus 3:7–9 spoken by a 
 private grievance, **six generations early.**
 
 See [[Work]], [[Slavery and Servitude]], [[Suffering]], and [[Land and Sojourning]].
+
+**The crossing, now ingested, adds two verbs to the parallel** (both WLC): the report that *"the people had
+fled"* (*bāraḥ*, Exodus 14:5) is the verb of Jacob's flight from Laban (Genesis 31:20–22), and the chariots
+*"overtook"* Israel (*wayyaśśîgû*, 14:9) as Laban *"overtook"* Jacob (*wayyaśśēg*, 31:25). See
+[[The Crossing of the Sea]].

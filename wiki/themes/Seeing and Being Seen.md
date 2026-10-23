@@ -328,6 +328,12 @@ will finally go both ways.
   will see your face again no more"* (10:28–29). **Pharaoh claims for his face what God says of his
   own**, *"man may not see me and live"* (33:20), and Jacob at Peniel saw God's face and lived (Genesis
   32:30). The echo is verbal; whether it is meant is not shown
+- [[The Crossing of the Sea]] — Exodus 13:17; 14:10, 13, 30–31; **the chapter turns on *rāʾâ*.** *"Lest …
+  they see war"*; *"they lifted up their eyes, and behold"*; *"Stand still, and see the salvation of Yahweh …
+  the Egyptians whom you have seen today, you shall never see them again"*; then *"Israel saw the Egyptians
+  dead"* and *"Israel saw the great work"*. **They see them again, once, dead**; the text records both
+  statements. And Yahweh *"looked out"* on the army from the pillar (*šāqap*, 14:24), the verb of the look
+  toward Sodom (Genesis 18:16; 19:28; WLC)
 
 ## Related themes
 

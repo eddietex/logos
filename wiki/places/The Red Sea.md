@@ -26,21 +26,35 @@ on the shore of the Red Sea, in the land of Edom"* (WEB) — have been taken to 
 to point to marshy lakes nearer the Nile Delta. Some take *sûp* as *end*, a related word, rather than
 *reeds*. **Those identifications are reported, not checked here, and none is adopted.**
 
+**The crossing (Exodus 13:18–14:31).** God leads the people *"by the way of the wilderness by the Red Sea"*
+(13:18), turns them back to camp *"by the sea"* (14:2), and divides it: *"Yahweh caused the sea to go back by
+a strong east wind all night, and made the sea dry land, and the waters were divided"* (14:21). **The waters
+are *"a wall to them on their right hand, and on their left"*** (14:22, 29) — *ḥômâ*, the first *wall* in
+Scripture (WLC lemma search, Torah) — and return *"to its strength"* over the army. **Exodus 14 itself calls
+it only *hayyām*, *the sea*; the name *yam sûp* frames it at 13:18 and returns in the Song (15:4)** (WLC).
+*Dry land*, *yabbāšâ*, is the word of the third day of creation (Genesis 1:9–10). See
+[[The Crossing of the Sea]] and [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
+
 ## Appears in
 
 - [[Locusts and Darkness]] — Exodus 10:19; **first named**, as the place where the west wind drives
   the locusts
 - [[The Birth of Moses]] — Exodus 2:3, 5; **not named, but its word**: the *sûp*, the *"reeds"* by the
   Nile where the basket is laid
+- [[The Crossing of the Sea]] — Exodus 13:18–14:31; **the route, the camp, and the crossing.** *"By the way
+  of the wilderness by the Red Sea"*; *"the waters were a wall to them"*; *"Israel saw the Egyptians dead on
+  the seashore"*
 
 ## Related places
 
 - [[Egypt]] — the country it bounds
 - [[The Nile]] — whose reeds, *sûp*, give the sea its Hebrew name
 - [[Shur]] — the wilderness Israel enters after the crossing (Exodus 15:22, not yet ingested)
+- [[Pihahiroth]], [[Migdol]], and [[Baal Zephon]] — the landmarks of the camp beside it
 
 ## Events here
 
 - The locusts thrown in by the west wind — Exodus 10:19
-- *Ahead*: the way of the wilderness by the sea (13:18); the crossing and Pharaoh's army drowned
-  (14–15:21); the departure from it to Shur (15:22)
+- The way of the wilderness by the sea — Exodus 13:18
+- Israel camps by it, is overtaken, and crosses on dry ground; Pharaoh's army is covered — Exodus 14:2–31
+- *Ahead*: the Song (15:1–21); the departure from it to Shur (15:22)

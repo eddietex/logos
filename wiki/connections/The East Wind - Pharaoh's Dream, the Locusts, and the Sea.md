@@ -15,7 +15,7 @@ tags: [connection]
 - **Exodus 10:19** — *"Yahweh turned an exceeding strong west wind, which took up the locusts, and
   drove them into the Red Sea"* — [[Locusts and Darkness]]
 - **Exodus 14:21** — *"Yahweh caused the sea to go back by a strong east wind all night, and made the
-  sea dry land"* *(not yet ingested)*
+  sea dry land"* — [[The Crossing of the Sea]]
 
 ## Analysis
 
@@ -69,3 +69,7 @@ was morning"* — not the mechanism. The wiki records the question and does not 
 - **Later Scripture keeps the east wind as God's tool of ruin** — the [[Pharaoh's Dreams and Joseph's Rise]]
   page notes Hosea 13:15 and Jonah 4:8 — but those passages are not yet ingested and are not quoted
   here.
+- **The crossing, now ingested, confirms the chain and adds one link.** The sea's wind blows *"all night"*
+  and the sea becomes *ḥārābâ*, *dry ground* — the word's only other Torah use is the flood's *"All on the dry
+  land … died"* (Genesis 7:22; WLC lemma search). See
+  [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].

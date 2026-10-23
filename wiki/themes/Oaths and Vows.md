@@ -208,6 +208,10 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   *šābaʿ* in Exodus** (WLC), picking up Joseph's last words, *"the land which he swore to Abraham, to Isaac,
   and to Jacob"* (Genesis 50:24). At 13:11 the oath is sworn *"to you and to your fathers"*: **the
   generation leaving Egypt is counted among the ones sworn to**
+- [[The Crossing of the Sea]] — Exodus 13:19; **an oath kept after four hundred years.** *"He had made the
+  children of Israel swear"* — *hašbēaʿ hišbîaʿ*, doubled, where Genesis 50:25 had the single *wayyašbaʿ*,
+  and the oath gains *ʾittəkem*, *"with you"* (WLC). See
+  [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

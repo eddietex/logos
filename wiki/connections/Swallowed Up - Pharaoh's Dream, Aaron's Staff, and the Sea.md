@@ -12,6 +12,8 @@ tags: [connection]
 - **Exodus 7:12** — *"Aaron's rod swallowed up their rods"* — [[Aaron's Staff Before Pharaoh]]
 - **Exodus 15:12** — *"You stretched out your right hand. The earth swallowed them."* (not yet
   ingested)
+- **Hebrews 11:29** — *"When the Egyptians tried to do so, they were swallowed up"* (WEB) —
+  [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] *(not yet ingested)*
 - **Numbers 16:30–34; 26:10** — the earth swallows Korah's company: *"The earth opened its mouth and
   swallowed them up, with their households, all of Korah's men, and all their goods"* (16:32; WEB,
   quoted from bible-api.com; Hebrew checked, not yet ingested)
@@ -48,3 +50,9 @@ sign of Aaron's rod (by reference; not yet ingested).
 answers Pharaoh's swallowing ears. But the verb is rare, the setting is the same court, the same
 guild is present, and the same root ends the story at the sea. **Read in order, *bālaʿ* tracks Egypt
 from the dream that saved it to the water that closed over it**, with Aaron's rod at the turn.
+
+**The prose of the crossing does not use the verb.** Exodus 14 drowns the army with *kāsâ*, *covered*
+(14:28), and *nāʿar*, *shook off* (14:27); *bālaʿ* waits for the Song (15:12) (WLC). **Hebrews 11:29 keeps the
+Song's image for the prose event** — *katepothēsan*, *they were swallowed up* (SBLGNT), from *katapinō*.
+Which Greek verb the Septuagint uses at Exodus 15:12 is not checked in this pass. See
+[[The Crossing of the Sea]].

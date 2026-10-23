@@ -1571,6 +1571,39 @@ Pharaoh's hardened heart turned to describe the hand that broke it; and his inst
 [[The Consecration of the Firstborn]] and
 [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]].
 
+### He goes before them, sets a trap, and fights — Exodus 13:17–14:31
+
+**He chooses the long road, and says why.** *"Lest perhaps the people change their minds when they see war,
+and they return to Egypt"* (13:17) — ***nāḥam***, the niphal of his own grief at the flood (Genesis 6:6–7;
+WLC), **here a change of mind he foresees in the people and plans around.** **Then he goes before them
+himself**: *"Yahweh went before them by day in a pillar of cloud … and by night in a pillar of fire"*
+(13:21) — ***ʿammûd***, *pillar*, its first occurrence in Scripture (WLC lemma search, Genesis–Deuteronomy),
+in the *ʿānān*, *cloud*, last seen holding the bow (Genesis 9:13–16). At 14:19 the same going-before is
+given to *"the angel of God"* and to the pillar in separate clauses; **the text names three subjects and
+does not say how they relate.** See [[The Angel of Yahweh]].
+
+**He sets a trap with Israel as the bait, and tells Moses so beforehand.** *"Turn back and encamp …
+Pharaoh will say … 'They are entangled in the land.' I will harden Pharaoh's heart, and he will follow
+after them; and I will get honor over Pharaoh"* (14:2–4). ***Wəʾikkābədâ***, *I will be made heavy* — the
+niphal of *kābad*, **the root of Pharaoh's heavy heart turned to God's glory**, and the first time in the
+Torah he speaks of getting glory for himself (14:4, 17–18; then Leviticus 10:3; WLC lemma search). **The
+hardening widens from the king to the army**: *"I myself will harden the hearts of the Egyptians"* —
+*lēb miṣrayim*, *the heart of Egypt*, singular (14:17; WLC). **He answers the people's cry with a question
+to Moses** — *"Why do you cry to me?"* (14:15), when the cry narrated was the people's (14:10).
+
+**He fights.** *"Yahweh will fight for you"* (14:14) — **the first time in Scripture Yahweh is the subject of
+*lāḥam*** (WLC lemma search, Torah) — and the Egyptians say it back as they flee: *"Yahweh fights for them
+against the Egyptians!"* (14:25). **He drives the sea back *"by a strong east wind all night"***, the
+last *rûaḥ qādîm* in the Torah (14:21; WLC); **he looks out from the pillar in the morning watch**
+(*šāqap*, the verb of the look toward Sodom, Genesis 18:16; 19:28; WLC), throws the army into panic
+(*hāmam*, its first use; WLC), clogs the wheels so they drive ***"heavily"*** (*kəbēdut*, the *kbd* root
+again, 14:25), and ***"overthrew"*** them — *nāʿar*, *shook off*, only here in the Torah and of Pharaoh at
+Psalm 136:15 (WLC). **The narrator closes on his act**: *"Thus Yahweh saved Israel that day"* (14:30) —
+*yāšaʿ*, the verb of Moses' first rescue at the well (2:17; WLC) — and on ***"the great hand"*** (*hayyād
+haggədōlâ*, WEB *"the great work"*, 14:31). **The people *"believed in Yahweh, and in his servant
+Moses"***, the construction of Abram's *"He believed in Yahweh"* (Genesis 15:6; WLC). See [[The Crossing of the Sea]]
+and [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1764,6 +1797,10 @@ Pharaoh's hardened heart turned to describe the hand that broke it; and his inst
 - Claims all the firstborn of Israel, man and animal — *"It is mine"*; his law to be *"in your mouth"*;
   the firstborn son redeemed because he *"killed all the firstborn in the land of Egypt"* — Exodus
   13:1–16, [[The Consecration of the Firstborn]]
+- Leads Israel the long way to avoid war; goes before them in the pillar of cloud and fire; turns them back
+  to the sea as bait; hardens Pharaoh and Egypt to *"get honor"*; fights for Israel, divides the sea by an
+  east wind, looks out from the pillar, and overthrows the army; *"saved Israel that day"* — Exodus
+  13:17–14:31, [[The Crossing of the Sea]]
 
 ## Appears in
 
@@ -2125,6 +2162,9 @@ Pharaoh's hardened heart turned to describe the hand that broke it; and his inst
 - [[The Consecration of the Firstborn]] — Exodus 13:1–16; **the firstborn claimed.** *"Sanctify to me all the
   firstborn … It is mine"*; *"by strength of hand Yahweh brought you out"*; *"Yahweh's law"*; *"Yahweh
   killed all the firstborn"*
+- [[The Crossing of the Sea]] — Exodus 13:17–14:31; **he goes before, and fights.** *"Yahweh went before
+  them … in a pillar of cloud"*; *"I will get honor over Pharaoh"*; *"Yahweh will fight for you"*; *"Why do
+  you cry to me?"*; *"Thus Yahweh saved Israel that day"*
 
 ## Related people
 
@@ -2203,3 +2243,7 @@ Pharaoh's hardened heart turned to describe the hand that broke it; and his inst
 - [[Prayer]]
 - [[Hardening of the Heart]]
 - [[Adoption]]
+- [[War]]
+- [[Light and Darkness]]
+- [[Providence]]
+- [[Signs and Wonders]]

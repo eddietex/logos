@@ -117,3 +117,7 @@ Genesis makes nothing of it, and neither does Exodus.
 - **It is why the word *ʿŏnî* in Ishmael's naming matters.** *"Yahweh has heard your affliction"*
   (16:11) uses the noun that Exodus 3:7 will use of Israel in Egypt. The boy's name is a permanent
   record that God heard a slave's affliction four hundred years before he heard a nation's.
+
+**At the sea the verb is used of the whole people.** *"The king of Egypt was told that the people had fled"*
+— *bāraḥ hāʿām* (Exodus 14:5; WLC) — **the flight word of Hagar (16:6, 8) and of Moses (2:15), now in
+Pharaoh's report of a release he had granted.** See [[The Crossing of the Sea]].

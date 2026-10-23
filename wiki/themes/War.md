@@ -108,6 +108,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
   hundred thousand on foot"* — *raglî*, the foot-soldier's word, in the Torah only here and Numbers 11:21
   (WLC) — and *"all of Yahweh's armies went out"*, *ṣibʾôt YHWH*: the first time the narrator calls Israel
   Yahweh's armies (7:4 was God's *"my armies"*). **Israel carries plunder and dough, and fights no one**
+- [[The Crossing of the Sea]] — Exodus 13:17; 14:14, 24–25; **the first war Yahweh fights.** God avoids the
+  Philistine road *"Lest perhaps the people change their minds when they see war"* (13:17) — *milḥāmâ*,
+  Pharaoh's word at 1:10 — and Moses says ***"Yahweh will fight for you, and you shall be still"*** (14:14),
+  the first time Yahweh is the subject of *lāḥam* (WLC lemma search, Torah). **Israel does not fight**; the
+  Egyptians confess *"Yahweh fights for them"* (14:25). The panic sent on the army, *hāmam* (14:24), is the
+  verb of 23:27's promise, *"I will … confuse all the people to whom you come"* (WLC). Deuteronomy builds on
+  14:14: *"he will fight for you, according to all that he did for you in Egypt"* (1:30, WEB; *not yet
+  ingested*)
 
 ## Related themes
 

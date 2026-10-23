@@ -18,7 +18,7 @@ the Jordan valley, this one is in Egypt, on the route out of the eastern delta. 
 [[Succoth (Transjordan)]].
 
 **Where it is.** The text gives only its place in the itinerary: after Rameses, and before Etham, *"in the edge of
-the wilderness"* (Exodus 13:20, not yet ingested). Numbers 33:5 repeats the stage: *"The
+the wilderness"* (Exodus 13:20). Numbers 33:5 repeats the stage: *"The
 children of Israel traveled from Rameses, and encamped in Succoth"* (WEB). **It is commonly identified
 with a site in the Wadi Tumilat, the valley that runs east from the delta toward the Bitter Lakes** — the
 same region in which [[Pithom]] is usually sought — and with the Egyptian place-name *Tjeku*; the
@@ -37,6 +37,8 @@ its traditional English name.
 
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:37; **the first stage of the march**,
   *"from Rameses to Succoth"*, with six hundred thousand men on foot and a mixed multitude
+- [[The Crossing of the Sea]] — Exodus 13:20; **left**: *"They took their journey from Succoth, and encamped
+  in Etham"*
 
 ## Related places
 
@@ -44,7 +46,9 @@ its traditional English name.
 - [[Egypt]] — the country being left
 - [[Pithom]] — the store-city usually sought in the same valley
 - [[Succoth (Transjordan)]] — Jacob's Succoth, a different place with the same name
+- [[Etham]] — the next camp, *"in the edge of the wilderness"*
 
 ## Events here
 
 - Israel's first camp after leaving Rameses — Exodus 12:37; Numbers 33:5
+- The march resumes from it to Etham — Exodus 13:20; Numbers 33:6

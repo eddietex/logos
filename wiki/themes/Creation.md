@@ -198,6 +198,11 @@ Genesis 1 sets four load-bearing claims:
 - [[The Passover]] — Exodus 12:2; ***"This month shall be to you the beginning of months"***. The
   lights were given *"for signs to mark seasons, days, and years"* (Genesis 1:14); **here, for the first
   time, Israel's calendar is fixed by an event in its history**
+- [[The Crossing of the Sea]] — Exodus 14:16, 21–22, 29; **the sea crossed in the nouns of the third day.**
+  *Yabbāšâ*, *dry land* (Genesis 1:9–10), occurs in the Torah outside creation only in the Moses story (Exodus
+  4:9; 14:16, 22, 29; 15:19); *ḥārābâ*, *dry ground*, only at Genesis 7:22 and Exodus 14:21; and the waters
+  *"divided"* (*bāqaʿ*) as the deep *"burst open"* in the flood (Genesis 7:11) (WLC lemma search). Set out on
+  [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]]
 
 ## Related themes
 

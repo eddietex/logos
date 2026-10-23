@@ -170,7 +170,19 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   all the firstborn of man"*** (13:13) — the first *redeem* in Scripture. The son asks *"What is this?"* and
   is told *"Yahweh killed all the firstborn in the land of Egypt … Therefore … all the firstborn of my sons I
   redeem"* (13:15). Both laws are a sign *"on your hand"* and *"between your eyes"*, *"that Yahweh's law may
-  be in your mouth"* (13:9). See [[The Consecration of the Firstborn]]. Then the sea and the song.
+  be in your mouth"* (13:9). See [[The Consecration of the Firstborn]]. **Then the march resumes, and God
+  chooses the road.** Not the near way through the land of the Philistines, *"Lest perhaps the people change
+  their minds when they see war"* (13:17), but the wilderness road by the sea; Moses carries Joseph's bones
+  (13:19), and ***"Yahweh went before them by day in a pillar of cloud … and by night in a pillar of fire"***
+  (13:21). God turns them back to camp by the sea as bait, hardens Pharaoh *"and the heart of Egypt"*, and
+  says he will *"get honor"* — the *kbd* root of Pharaoh's heavy heart (14:4, 17). Pharaoh asks *"What is
+  this we have done, that we have let Israel go from serving us?"* (14:5); the people, overtaken, ask
+  Moses why he brought them out to die; Moses: ***"Stand still, and see the salvation of Yahweh … Yahweh will
+  fight for you"*** (14:13–14). An east wind blows all night, the sea becomes *"dry land"* — the word of
+  Genesis 1:9 — the waters stand *"a wall to them on their right hand, and on their left"*, and the army that
+  follows is covered: *"There remained not so much as one of them"* (14:28). **The prose ends on the book's
+  root**: *"they believed in Yahweh, and in his servant Moses"* (14:31). See [[The Crossing of the Sea]].
+  Then the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
@@ -223,7 +235,7 @@ for unit.
 - [x] [[The Passover]] — Exodus 12:1–28
 - [x] [[The Death of the Firstborn and the Departure]] — Exodus 12:29–51
 - [x] [[The Consecration of the Firstborn]] — Exodus 13:1–16
-- [ ] The Crossing of the Sea — Exodus 13:17–14:31
+- [x] [[The Crossing of the Sea]] — Exodus 13:17–14:31
 - [ ] The Song of the Sea — Exodus 15:1–21
 
 ### To the mountain (15:22–18)

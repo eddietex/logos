@@ -137,6 +137,14 @@ as those passages are ingested.
   forecast, Pharaoh in the catechism**; the text sets both in Israel's memory without reconciling them.
   And the noun of *ḥāzaq* answers the hardening: *"by strength (ḥōzeq) of hand Yahweh brought you out"*
   (13:3, 14, 16)
+- [[The Crossing of the Sea]] — Exodus 14:4, 8, 17, 25; **the hardening outlasts the plagues, and widens.**
+  God says *wəḥizzaqtî*, *"I will harden Pharaoh's heart"* (14:4); the narrator reports *wayḥazzēq YHWH*
+  (14:8), the fifth narrated hardening with Yahweh as subject (9:12; 10:20, 27; 11:10; 14:8); and at 14:17
+  ***"I myself will harden the hearts of the Egyptians"*** — *lēb miṣrayim*, *the heart of Egypt*, singular:
+  **the army now, not only the king and his court** (WLC). **The *kbd* root closes the story**: God will
+  *"get honor"* (*ʾikkābədâ*, the niphal, 14:4, 17–18) and the chariots are driven ***"heavily"***
+  (*kəbēdut*, only here in the Torah, 14:25; WLC lemma search). **The heaviness that was Pharaoh's heart
+  becomes God's glory and the drag on Pharaoh's wheels**
 
 ## Related themes
 

@@ -11,7 +11,8 @@ tags: [connection]
 - Genesis 8:6–12 — the dove sent out over the water — [[The Waters Recede]]
 - 1 Peter 3:18–22 — *"eight souls were saved through water. This is a symbol of baptism"*
 - Matthew 3:16 — the Spirit descending *"as a dove"* at Jesus' baptism
-- 1 Corinthians 10:1–2 — Israel *"baptized into Moses in the cloud and in the sea"*
+- 1 Corinthians 10:1–2 — Israel *"baptized into Moses in the cloud and in the sea"* — set out on
+  [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
 - Romans 6:3–4 — baptism as burial into a death
 - Exodus 2:3, 5 — [[The Birth of Moses]]; the other *tēbâ* in the Bible: the pitch-sealed basket that carries Moses through
   the water
