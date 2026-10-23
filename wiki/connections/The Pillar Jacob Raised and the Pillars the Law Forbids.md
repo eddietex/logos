@@ -14,7 +14,8 @@ tags: [connection]
   the ground the first one stood on and given oil **and the Bible's first drink offering**; and the
   one over Rachel's grave, **the only one he sets over a person**, which the narrator says stands
   *"to this day"* — [[Return to Bethel; the Deaths of Rachel and Isaac]]
-- Exodus 24:4 — Moses builds an altar and **twelve pillars** at Sinai
+- Exodus 24:4 — Moses builds an altar and **twelve pillars** at Sinai, *"for the twelve tribes of Israel"* —
+  [[The Blood of the Covenant]]
 - Exodus 23:24; 34:13; Deuteronomy 7:5; 12:3 — smash the Canaanite pillars — [[The Angel Sent Ahead]]
 - Leviticus 26:1 — *"you shall not rear up for yourselves … a standing stone"*
 - Deuteronomy 16:21–22 — *"neither shall you set yourself up a pillar, which Yahweh your God hates"*

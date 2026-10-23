@@ -133,6 +133,14 @@ explanation. See [[Festivals and First Fruits]] and
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The covenant sacrifices — Exodus 24:4–8
+
+Moses builds an altar *"under the mountain"* with twelve pillars, and *"young men of the children of
+Israel"* offer burnt offerings and peace offerings of cattle (24:4–5). **No priest officiates**: the
+Aaronic priesthood is not yet ordained (28–29), and Moses, not the young men, handles the blood. The
+peace offerings (*zəbāḥîm šəlāmîm*, MAM) are the sacrifice whose meat is eaten (Leviticus 7:15), and the
+leaders eat and drink before God at 24:11. See [[The Blood of the Covenant]] and [[Sacrifice Before the Priesthood]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; feasts, first fruits, and limits.
@@ -243,6 +251,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24–26; an altar of earth or uncut stone, with burnt
   and peace offerings, and no steps
 - [[Laws of Holiness and Compassion]] — Exodus 22:29–30; first produce offered without delay, and the firstborn
+- [[The Blood of the Covenant]] — Exodus 24:4–8; burnt and peace offerings by young men, and the blood divided
 
 ## Related themes
 

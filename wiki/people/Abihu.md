@@ -20,12 +20,15 @@ the two of them. See [[The Heads of the Fathers' Houses]].
 
 - Born to Aaron and [[Elisheba]], the second of four sons — Exodus 6:23,
   [[The Heads of the Fathers' Houses]]
-- *(ahead)* Goes up the mountain with the elders — Exodus 24:1, 9
+- Called up the mountain with Moses, Aaron, Nadab, and seventy elders; sees God, and eats and drinks —
+  Exodus 24:1, 9–11, [[The Blood of the Covenant]]
 - *(ahead)* Dies with Nadab — Leviticus 10:1–2; Numbers 26:61
 
 ## Appears in
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23; **the second son, paired with the first**
+- [[The Blood of the Covenant]] — Exodus 24:1, 9–11; **paired again**, among the seventy-four who *"saw
+  God, and ate and drank"*
 
 ## Related people
 
@@ -36,3 +39,4 @@ the two of them. See [[The Heads of the Fathers' Houses]].
 ## Themes associated
 
 - [[Priesthood]]
+- [[Seeing and Being Seen]]

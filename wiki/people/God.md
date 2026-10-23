@@ -1798,6 +1798,20 @@ a full span of days (23:24–26). He describes himself as the one who drives the
 confusion, and the hornet, deliberately *"little by little"* so the land does not go wild
 (23:27–30). See [[The Angel Sent Ahead]].
 
+### He makes the covenant, is seen, and settles on the mountain — Exodus 24:1–18
+
+**God is the maker of the covenant, and the text says so in Moses' formula**: *"the blood of the
+covenant, which Yahweh has made with you"* (24:8). He fixes who may approach — the leaders *"from a
+distance"*, Moses alone *"near"*, the people not at all (24:1–2). Then, in the most direct sentence
+Exodus has yet written about him, ***"They saw the God of Israel"*** (24:10). What is described is
+what lies *"under his feet"*, a pavement like sapphire and *"like the skies for clearness"*, and the
+narrator adds that *"He didn't lay his hand on"* those who saw him; they ate and drank (24:11). This
+sits in tension with *"man may not see me and live"* (33:20); the wiki sets out both in
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]] and does not reconcile them. He promises tablets
+*"that I have written"* (24:12). His glory *"settled"* (*šākan*, MAM) on Sinai, with a call on the
+seventh day, and looked to Israel *"like devouring fire"* (24:16–17). See
+[[The Blood of the Covenant]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2028,6 +2042,8 @@ confusion, and the hornet, deliberately *"little by little"* so the land does no
 - The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
 - Promises an angel bearing his name, blessing for Israel's service, and a gradual conquest —
   [[The Angel Sent Ahead]], Exodus 23:20–33
+- Makes the covenant sealed in blood; is seen by the leaders of Israel, who eat and drink; his glory settles on
+  Sinai — [[The Blood of the Covenant]], Exodus 24:1–18
 
 ## Appears in
 
@@ -2420,6 +2436,9 @@ confusion, and the hornet, deliberately *"little by little"* so the land does no
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; *"I will surely hear their cry"*, *"I am gracious"*
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; sends the angel, places his name *"in him"*, and
   promises to fight, bless, heal, and drive out the peoples little by little.
+- [[The Blood of the Covenant]] — Exodus 24:1–18; *"the blood of the covenant, which Yahweh has made with
+  you"*; *"They saw the God of Israel"*; *"He didn't lay his hand on the nobles"*; *"Yahweh's glory settled on
+  Mount Sinai"*
 
 ## Related people
 

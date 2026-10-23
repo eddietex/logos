@@ -69,6 +69,13 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
   God and Father"* (Revelation 1:6; 5:10; 20:6). No individual Christian is called *hiereus* in the
   New Testament epistles; the congregation is.
 
+### Young men at the altar — Exodus 24:5
+
+At the covenant ceremony *"young men of the children of Israel"* offer the sacrifices (24:5), and Moses
+handles the blood. Aaron and his sons are present only among those who go up to see God (24:1, 9). The
+priests mentioned at 19:22, 24 are not mentioned. The text does not explain why young men act; the wiki
+does not supply a reason. See [[The Blood of the Covenant]] and [[Sacrifice Before the Priesthood]].
+
 ## Key passages
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
@@ -129,6 +136,7 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
   With [[Melchizedek]], one of the two priests outside the line who bless God in Genesis–Exodus —
   [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 - [[Israel at Mount Sinai]] — Exodus 19:6, 22–24; a kingdom of priests and unnamed priests under distinct limits
+- [[The Blood of the Covenant]] — Exodus 24:5; sacrifices offered by *"young men"*, with Aaron and his sons among the onlookers
 
 ## Related themes
 

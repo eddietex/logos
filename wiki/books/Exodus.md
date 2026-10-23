@@ -294,7 +294,17 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   promised to the second. God's terror and the hornet go ahead, the land is given *"little by
   little"* so it does not go wild, a border runs from the Red Sea to the River, and the peoples' gods
   are named as *"a snare"*. The angel *"before you"* returns after the calf, when God offers him
-  instead of going up *"among you"* himself (33:2–3). See [[The Angel Sent Ahead]].
+  instead of going up *"among you"* himself (33:2–3). See [[The Angel Sent Ahead]]. **Then the
+  covenant is made** (24:1–18). Moses tells the people the words and they answer *"with one voice"*,
+  *"will we do"*; he writes them, builds an altar and twelve pillars, has young men offer the
+  sacrifices, throws half the blood on the altar, reads *"the book of the covenant"*, hears *"will we do,
+  and be obedient"*, and throws the rest on the people: ***"Look, this is the blood of the covenant"***
+  (24:8). Then Moses, Aaron, Nadab, Abihu, and seventy elders go up, and ***"They saw the God of
+  Israel"*** — only the sapphire pavement *"under his feet"* is described — and *"He didn't lay his hand
+  on"* them; *"They saw God, and ate and drank"* (24:10–11). Moses goes on with Joshua, leaves Aaron and
+  Hur in charge, and enters the cloud where *"Yahweh's glory settled"* — *šākan*, the verb of the
+  coming *miškān* — and looked *"like devouring fire"*, for forty days and forty nights (24:12–18). See
+  [[The Blood of the Covenant]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -365,7 +375,7 @@ for unit.
 - [x] [[Laws of Holiness and Compassion]] — Exodus 22:16–31
 - [x] [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19
 - [x] [[The Angel Sent Ahead]] — Exodus 23:20–33
-- [ ] The Blood of the Covenant — Exodus 24:1–18
+- [x] [[The Blood of the Covenant]] — Exodus 24:1–18
 
 ### The tabernacle instructions (25–31)
 
@@ -456,6 +466,7 @@ for unit.
 - [[Law and Obedience]]
 - [[Testing]]
 - [[The Glory of God]]
+- [[Seeing and Being Seen]]
 - [[Vengeance]]
 - [[Hospitality]]
 - [[Strife and Peacemaking]]

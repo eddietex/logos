@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[The Burning Bush]] — Exodus 3:1–12, especially the promised return in 3:12.
 - [[Israel at Mount Sinai]] — Exodus 19:1–25, especially the assembly, God's speech, and Moses' role.
+- [[The Blood of the Covenant]] — Exodus 24:1–18, worship, sacrifice, and the covenant meal on the
+  mountain.
 
 ## Analysis
 
@@ -32,6 +34,12 @@ is expressly intended to establish trust in him (19:9).
 The wiki files both scenes on [[Horeb]], whose alternative name is Sinai. This is a narrative
 identification, not a claim to have located the mountain on a modern map. WEB quotations and
 comparisons were checked against `raw/bible/Exodus.md`.
+
+**Exodus 24 gives the service its first concrete form.** The leaders are told to *"worship from a
+distance"* (24:1), an altar is built *"under the mountain"*, sacrifices are offered, and those who go
+up see God and eat (24:4–11). The word of 3:12, *serve*, is not used in Exodus 24 (MAM), so the
+connection is one of content, not vocabulary. Moses, who at the bush was told not to come near (3:5),
+is now the one man allowed to *"come near"* (24:2). See [[The Blood of the Covenant]].
 
 ## Significance
 

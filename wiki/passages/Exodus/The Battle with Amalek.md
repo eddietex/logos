@@ -372,7 +372,7 @@ from the name *Agag*; Esther never mentions Amalek.** All *not yet ingested*. Se
 - Exodus 17:1–7 — *"Is Yahweh among us, or not?"* — [[Water from the Rock]]
 - Exodus 18:18 — *"the thing is too heavy for you"* — [[Jethro's Counsel]]
 - Exodus 24:4, 13–14 — *"Moses wrote all Yahweh's words"*; *"Joshua, his servant"*; *"Aaron and Hur are with
-  you"* *(not yet ingested)*
+  you"* — [[The Blood of the Covenant]]
 - Exodus 31:2 — *"Bezalel the son of Uri, the son of Hur"* *(not yet ingested)*
 - Exodus 32:17, 32–33 — Joshua hears *"the noise of war"*; *"blot me out of your book"* *(not yet ingested)*
 - Exodus 33:11 — *"his servant Joshua, the son of Nun, a young man"* *(not yet ingested)*

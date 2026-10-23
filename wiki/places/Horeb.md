@@ -94,6 +94,15 @@ identified as features of this mountain camp. See [[Justice, Sabbaths, and Feast
 angel will bring Israel from here to *"the place which I have prepared"*. The mountain is not named in
 the unit. See [[The Angel Sent Ahead]].
 
+**The covenant is made at its foot and the glory settles on its top** (24:1–18). The mountain is
+named three ways in one chapter — *"the mountain"*, *"God's Mountain"* (24:13), and *"Mount Sinai"*
+(24:16) — and used in three zones: an altar and twelve pillars *"under the mountain"* (24:4); a height
+where seventy-four leaders see God and eat (24:9–11); and the top, covered by cloud for six days, where
+the glory looks *"like devouring fire"* and Moses stays forty days and forty nights (24:15–18). The
+glory *"settled"* there (*šākan*, MAM), the verb from which the tabernacle takes its name. See
+[[The Blood of the Covenant]] and
+[[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -124,6 +133,8 @@ the unit. See [[The Angel Sent Ahead]].
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; setting by context, with no named place in the unit
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; setting by context, with no named place in the unit
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; Sinai as the setting of the closing promise
+- [[The Blood of the Covenant]] — Exodus 24:1–18; **altar below, vision partway, glory above.** *"Moses went up onto
+  God's Mountain"*; *"Yahweh's glory settled on Mount Sinai"*
 
 ## Related places
 
@@ -143,7 +154,7 @@ the unit. See [[The Angel Sent Ahead]].
 - Water from the rock *"on the rock in Horeb"*, where God stands before Moses — Exodus 17:6,
   [[Water from the Rock]]
 - The assembly, covenant offer, and descent in fire — Exodus 19:1–25, [[Israel at Mount Sinai]]
-- *(ahead)* The commandments, covenant ratification, and tabernacle — Exodus 20–40
+- *(ahead)* The tabernacle instructions, the calf, and the second tablets — Exodus 25–34
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18
 
 - [[The Ten Commandments]] — public commandments, trembling, and Moses’ approach (20:1–21)
@@ -154,3 +165,5 @@ the unit. See [[The Angel Sent Ahead]].
 - [[Laws of Holiness and Compassion]] — the ordinances on the vulnerable, the firstborn, and holiness (22:16–31)
 - The promise of the angel sent ahead ends the Book of the Covenant — Exodus 23:20–33,
   [[The Angel Sent Ahead]]
+- The covenant sealed in blood; the leaders see God and eat; Moses enters the cloud for forty days —
+  Exodus 24:1–18, [[The Blood of the Covenant]]

@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[Israel at Mount Sinai]] — Exodus 19:12–24: fire, trumpet, trembling, and the forbidden boundary.
 - [[The Ten Commandments]] — Exodus 20:18–21; the people’s request for Moses to speak.
+- [[The Blood of the Covenant]] — Exodus 24:8, 17; the blood sprinkled on the people, and the glory
+  *"like devouring fire"*.
 - Hebrews 12:18–29 — the contrast with Zion, Jesus' mediation, and the final warning; not yet
   ingested.
 
@@ -47,6 +49,15 @@ refusing God's speaker should not erase the source scene's distinction between r
 and disobedience. Deuteronomy 5:28 approves the request; see
 [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]]. That comparison was verified against
 bible-api.com's WEB on 2026-10-23.
+
+**Exodus 24 supplies two more of Hebrews' terms.** Hebrews 12:24 sets *"the blood of sprinkling"*
+beside *"the mediator of a new covenant"*; at Sinai Moses threw the blood of the covenant on the people
+(24:8), and Hebrews 9:19–20 has already recalled that scene. Hebrews 12:29's *"our God is a consuming
+fire"* matches Deuteronomy 4:24, *"Yahweh your God is a devouring fire"* (WEB), and the Sinai glory looked
+*"like devouring fire"* (Exodus 24:17); the Hebrew of Exodus 24:17 (*ʾēš ʾōkelet*) and Deuteronomy 4:24
+(*ʾēš ʾōkəlâ*) use the same noun and participle (MAM). Hebrews 12:24, 29, Hebrews 9:19–20, and
+Deuteronomy 4:24 were fetched from bible-api.com's WEB on 2026-10-23. See [[The Blood of the Covenant]]
+and [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
 
 ## Significance
 

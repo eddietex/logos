@@ -497,7 +497,8 @@ land.** The wiki records both and adopts neither.
   [[The Angel of Yahweh]], and Hebrews 11:28's use is on
   [[Christ Our Passover - Exodus 12 in the New Testament]].
 - **No page for the elders of Israel.** A group named at 3:16, 18; 4:29; and here; the wiki will revisit
-  this if they gain a role at Sinai (24:1, 9–11).
+  this if they gain a role at Sinai (24:1, 9–11). They do — seventy of them see God and eat
+  ([[The Blood of the Covenant]]) — but still as an unnamed group, so no page was created there either.
 - **Readings reported, not adopted:** *pāsaḥ* as *pass over* or *protect*; *sap* as *basin* or
   *threshold*; the identity of the destroyer; the reasons for roasting whole; the plagues as judgments on
   named Egyptian gods; the meaning of *cut off*; the relation of Deuteronomy 16 to Exodus 12; the *śeh*

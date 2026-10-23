@@ -21,6 +21,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
 | [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |
+| [[They Saw God - Exodus 24, Exodus 33, and John 1.18]] | tension | Genesis 32:30 · Exodus 24:10–11 · Exodus 33:20 · Deuteronomy 5:4 · Judges 13:22 · Isaiah 6:5 · Ezekiel 1:26 · John 1:18 |
 | [[The Thief Breaking In - Exodus 22 and Matthew 24]] | image | Exodus 22:2–3, 7–8 · Matthew 24:43 · John 10:10 |
 | [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 · Genesis 45:9 |
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |

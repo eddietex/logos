@@ -352,12 +352,12 @@ approves the people's request; it is not automatically a refusal of God. See
 **The mediator now receives what he is to pass on.** At the thick darkness God gives him words to
 *"tell the children of Israel"* (20:22): the altar instructions, and then *"the ordinances which
 you shall set before them"* (21:1), beginning with the Hebrew servant. Moses does not speak in this
-unit; the request of 20:19 is being answered by his silence and his hearing. Exodus 24:3–7 will
-narrate his telling, writing, and reading. See [[The Altar and the Hebrew Slave]].
+unit; the request of 20:19 is being answered by his silence and his hearing. Exodus 24:3–7
+narrates his telling, writing, and reading. See [[The Altar and the Hebrew Slave]].
 
 ### What is ahead
 
-The remaining covenant laws, ratification, and tabernacle (20:22–40); and the rest of the Torah. These
+The tabernacle instructions, the calf, and the tabernacle built (25–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -397,6 +397,21 @@ Moses is not named in the closing promise of the Book of the Covenant; he is its
 and 33:2, and he will refuse the angel without God's own presence (33:15; 34:9; *not yet ingested*).
 See [[The Angel Sent Ahead]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
+
+### The covenant ratified, and forty days in the cloud — Exodus 24:1–18
+
+**The mediator acts at last, and does almost everything himself.** Moses tells the people
+*"all Yahweh's words, and all the ordinances"*, receives their *"will we do"*, and then writes the
+words down — the first time Scripture says he wrote what God had spoken, after the single memorial of
+17:14. He builds the altar and the twelve pillars, divides the blood, reads *"the book of the
+covenant"*, and throws the blood on the people with the formula *"this is the blood of the covenant"*
+(24:3–8). Young men offer the sacrifices; Moses handles the blood. **He is the only one allowed to
+*come near*** (24:2): he goes up with the seventy-three who see God and eat, then on with Joshua, then
+alone into the cloud, where he waits six days before God calls, and stays *"forty days and forty
+nights"* (24:12–18). He leaves the disputes to Aaron and Hur (24:14) — the work Jethro had told him
+not to carry alone (18:18). See [[The Blood of the Covenant]],
+[[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]], and
+[[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]].
 
 ## Timeline / key events
 
@@ -494,6 +509,9 @@ See [[The Angel Sent Ahead]] and
 - The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
 - The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
 - Hears the promise of the angel sent ahead, by context — [[The Angel Sent Ahead]], Exodus 23:20–33
+- Tells the people the words and receives their assent; writes the words; builds an altar and twelve pillars;
+  divides the blood, reads the book of the covenant, and sprinkles the people; goes up with the elders who see
+  God; enters the cloud for forty days and forty nights — Exodus 24:1–18, [[The Blood of the Covenant]]
 
 ## Appears in
 
@@ -575,6 +593,9 @@ See [[The Angel Sent Ahead]] and
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the continuing divine address to Moses
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the unnamed hearer of the promise he will later
   argue over.
+- [[The Blood of the Covenant]] — Exodus 24:1–18; **the one who comes near.** *"Moses alone shall come
+  near to Yahweh"*; *"Moses wrote all Yahweh's words"*; *"Look, this is the blood of the covenant"*;
+  *"Moses entered into the middle of the cloud"*
 
 ## Related people
 

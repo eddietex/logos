@@ -144,7 +144,7 @@ The opening identity and rescue precede the prohibitions (20:2–3). Israel is n
 departure from Egypt by obeying; the departure grounds the present claim. Nor does this make Sinai
 the first divine command: the garden, the Passover, Marah, and the manna already contain
 instructions. The chapter advances the covenant scene of [[Israel at Mount Sinai]] without yet
-narrating the blood ceremony of Exodus 24.
+narrating the blood ceremony of Exodus 24 ([[The Blood of the Covenant]]).
 
 The unit is traditionally called the Ten Commandments. Exodus 20:1 introduces God's words without
 numbering them within this speech; Exodus 34:28 in the raw WEB uses the designation “ten

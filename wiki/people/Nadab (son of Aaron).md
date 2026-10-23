@@ -24,12 +24,16 @@ The wiki qualifies the page because a later king of Israel has the same name (1 
 
 - Born to Aaron and [[Elisheba]], the first of four sons — Exodus 6:23,
   [[The Heads of the Fathers' Houses]]
-- *(ahead)* Goes up the mountain with the elders — Exodus 24:1, 9
+- Called up the mountain with Moses, Aaron, Abihu, and seventy elders; sees God, and eats and drinks —
+  Exodus 24:1, 9–11, [[The Blood of the Covenant]]
 - *(ahead)* Dies with Abihu for *"strange fire"* — Leviticus 10:1–2; Numbers 26:61
 
 ## Appears in
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23; **the firstborn of the first priest**
+- [[The Blood of the Covenant]] — Exodus 24:1, 9–11; **among those who *"saw the God of Israel"*** and on
+  whom God *"didn't lay his hand"*. Of the four named with the elders, he and Abihu are the two whose
+  later death by fire *"from before Yahweh"* is recorded (Leviticus 10:1–2)
 
 ## Related people
 
@@ -41,3 +45,4 @@ The wiki qualifies the page because a later king of Israel has the same name (1 
 
 - [[Priesthood]]
 - [[Birthright and the Firstborn]]
+- [[Seeing and Being Seen]]

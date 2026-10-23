@@ -187,17 +187,32 @@ See [[Laws of Property and Restitution]].
 
 Justice, assistance, agricultural rest, and annual worship belong to one continuing covenant address
 (23:1–19). Exclusive allegiance in 23:13 connects the social ordinances with feasts owed to God.
-Ratification remains ahead in Exodus 24; these instructions do not report a covenant ceremony or
-prove that the community already follows the calendar.
+Ratification follows in Exodus 24 ([[The Blood of the Covenant]]); these instructions do not
+themselves report a covenant ceremony or prove that the community already follows the calendar.
 
 See [[Justice, Sabbaths, and Feasts]].
 
 ### No rival covenant — Exodus 23:20–33
 
 *"You shall make no covenant with them, nor with their gods"* (23:32; *bərît*, MAM). Israel, which
-is about to enter covenant with God (24:7–8; next pericope), is forbidden a second covenant with the
+is about to enter covenant with God (24:7–8; see [[The Blood of the Covenant]]), is forbidden a second covenant with the
 land's peoples. Exodus 34:12–16 will repeat the prohibition and give marriage and shared sacrifice as
 its danger (*not yet ingested*). See [[The Angel Sent Ahead]].
+
+### The covenant ratified — Exodus 24:1–18
+
+**The covenant offered at 19:5 is made in seven steps**: the words told, the people's *"will we do"*,
+the words written, sacrifices at an altar with twelve pillars, half the blood thrown on the altar, the
+*"book of the covenant"* read and answered a second time — *"will we do, and be obedient"* — and the
+other half thrown on the people with the formula ***"this is the blood of the covenant, which Yahweh has
+made with you concerning all these words"*** (24:3–8). The verb is *kārat*, *cut* (MAM), the verb of
+[[Passing Between the Pieces]]. Then the leaders see God and eat and drink (24:9–11). **This is the
+first covenant in Scripture whose terms are written down and read before it is sealed.** The covenant
+with Noah was a promise with a sign; the covenant with Abram, a promise with an oath-rite; here the
+people bind themselves twice, aloud, to a book. Jeremiah 31:32 will name it *"the covenant that I made
+with their fathers in the day that I took them by the hand to bring them out of the land of Egypt …
+which covenant of mine they broke"* (WEB; *not yet ingested*). See [[The Blood of the Covenant]] and
+[[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
 
 ## Key passages
 
@@ -392,6 +407,7 @@ its danger (*not yet ingested*). See [[The Angel Sent Ahead]].
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; neighbors holding, lending, and stealing one another's goods
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the covenant people's obligations to the vulnerable, and holiness
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; no covenant with the peoples or their gods.
+- [[The Blood of the Covenant]] — Exodus 24:1–18; the Sinai covenant ratified by writing, reading, assent, blood, and a meal.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

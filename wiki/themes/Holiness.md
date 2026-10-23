@@ -76,6 +76,13 @@ thing it requires is dietary: flesh *"torn by animals in the field"* is not eate
 dogs"*. **The ordinances' first statement of their own purpose is holiness, and it closes a unit
 mostly about protecting the weak.** See [[Laws of Holiness and Compassion]].
 
+### Three zones on the mountain — Exodus 24:1–2, 9–18
+
+Exodus 24 grades access to God by place: the people at the foot, forbidden to go up; the seventy-four
+leaders partway, told to *"worship from a distance"*; and Moses alone allowed to *"come near"* (24:1–2),
+who then goes into the cloud (24:18). The same three-part pattern will shape the tabernacle — court,
+holy place, and most holy place — though Exodus 24 does not draw the comparison. See [[The Blood of the Covenant]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -101,6 +108,7 @@ mostly about protecting the weak.** See [[Laws of Holiness and Compassion]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:25–26; a tool profanes the altar, and its approach
   guards against exposure
 - [[Laws of Holiness and Compassion]] — Exodus 22:31; *"You shall be holy men to me"*, and torn meat refused
+- [[The Blood of the Covenant]] — Exodus 24:1–2; people, leaders, and Moses at three distances from God
 
 ## Related themes
 

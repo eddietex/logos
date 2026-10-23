@@ -145,7 +145,7 @@ still at Sinai. Nothing in these verses reports that any of it has happened yet.
 
 The planned boundary is kept. Verse 20 changes from ordinances to promise (*"Behold, I send"*), and
 verse 33 closes the speech that began at 20:22. Chapter 24 opens with a new instruction to Moses
-(24:1) and is the next pericope. Read together, 20:22–23:33 starts and ends on the same subject:
+(24:1) and is the next pericope, [[The Blood of the Covenant]]. Read together, 20:22–23:33 starts and ends on the same subject:
 it opens with no gods of silver or gold beside Yahweh (20:23), and it closes with the peoples' gods
 as a snare.
 

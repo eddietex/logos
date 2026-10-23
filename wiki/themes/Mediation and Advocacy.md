@@ -128,6 +128,14 @@ guide to be obeyed. After the calf, Moses will refuse to go with the angel alone
 ingested*). See [[The Angel Sent Ahead]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
+### The mediator of the covenant — Exodus 24:1–18
+
+Moses carries the words down, the people's answer back, writes the words, reads them, and speaks the
+formula over the blood (24:3–8). He alone may *"come near"* (24:2), and he alone enters the cloud
+(24:18). Hebrews 9:19–20 recalls this scene by Moses' role — *"when every commandment had been spoken by
+Moses to all the people"* — and Hebrews 12:24 calls Jesus *"the mediator of a new covenant"* (WEB; *not
+yet ingested*). See [[The Blood of the Covenant]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -330,6 +338,7 @@ ingested*). See [[The Angel Sent Ahead]] and
 - [[The Ten Commandments]] — Exodus 20:18–21; the assembly requests the mediator who approaches
   where it will not
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; a guide to be obeyed, who does not pardon.
+- [[The Blood of the Covenant]] — Exodus 24:1–18; Moses alone comes near, relays, writes, reads, and sprinkles
 
 ## Related themes
 

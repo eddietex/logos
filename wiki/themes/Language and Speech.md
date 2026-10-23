@@ -109,6 +109,13 @@ worship.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### Written words — Exodus 24:4, 7, 12
+
+**The covenant is made with a document.** Moses writes *"all Yahweh's words"* (24:4), reads *"the book of
+the covenant"* aloud (24:7), and the people answer what they have heard. God then promises tablets he has
+written himself (24:12). Speech, writing, and reading follow one another in a single chapter, and the
+first writing in Scripture (17:14) now becomes the form the law takes. See [[The Blood of the Covenant]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; false reports and other gods.
@@ -318,6 +325,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Ten Commandments]] — Exodus 20:1, 7, 16, 19; divine command, accountable human words, and
   the request for Moses’ voice
 - [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler
+- [[The Blood of the Covenant]] — Exodus 24:4, 7, 12; the words written, read aloud, and promised on stone
 
 ## Related themes
 

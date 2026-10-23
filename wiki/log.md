@@ -13765,3 +13765,79 @@ with a dated note on the page:
 
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
 are the expected baseline. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 24.1-18 — The Blood of the Covenant
+
+Ingested [[The Blood of the Covenant]] in unattended mode, keeping the planned boundary. Exodus moves
+from 32 to **33 / 53** pericopes, and the Sinai covenant section (19–24) is now fully ingested. One box
+was checked; the offering for the sanctuary (25:1–9) is next.
+
+The passage page holds the discussion: the summons of 24:1–2 given before the ceremony and carried
+out after it; the two assents, *naʿăśeh* (24:3) and *naʿăśeh wənišmāʿ* (24:7); one blood divided
+between altar and people with the formula *"this is the blood of the covenant"*; *"the book of the
+covenant"* read aloud; seventy-four leaders who *"saw the God of Israel"* and ate and drank, with only
+the sapphire pavement described; the glory that *"settled"* (*šākan*) on Sinai like devouring fire;
+and Moses in the cloud forty days and forty nights. Three readings of the blood rite (self-curse,
+kinship, consecration) are reported and none chosen. The tension between 24:10–11 and 33:20 is set
+out, not resolved, in [[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
+
+### Decisions and sources
+
+- No page for the seventy elders or the *"young men"* (24:1, 5, 9). They are unnamed groups.
+  [[The Passover]] had said the wiki would revisit an elders page if they gained a role at Sinai; they do, but
+  still as a collective, and that page's note now says so.
+- **Textual variant recorded, not settled:** the WEB's *"blood of the new covenant"* at Matthew 26:28
+  and Mark 14:24 against the SBLGNT's *to haima mou tēs diathēkēs*, with no *kainēs*. Likewise the
+  WEB's *"and the goats"* at Hebrews 9:19, absent from the SBLGNT. Recorded on
+  [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
+- The Septuagint's softening of 24:10–11 (*the place where the God of Israel stood*; *not one
+  perished*) is recorded from Rahlfs on the passage page.
+- Forward references marked *not yet ingested* for Exodus 24 now link the passage, in
+  [[Bitter Water at Marah]], [[Jethro's Counsel]], [[Manna and Quail]], [[Water from the Rock]],
+  [[The Battle with Amalek]], and [[Hur (companion of Moses)]]. *"(ahead)"* timeline items for
+  Exodus 24 were converted on [[Nadab (son of Aaron)]], [[Abihu]], [[Hur (companion of Moses)]], and
+  [[Joshua (son of Nun)]].
+- All eighteen passage verses were generated mechanically from `raw/bible/Exodus.md`. Local WEB
+  comparisons were read from Genesis 7:4, 12; 32:30; Exodus 1:14; 3:1; 5:7; 17:12, 14; 18:12, 22;
+  19:6, 8; 25:8–9; 29:20–21; 32:1; 33:20, 23; 34:28; 40:34–35.
+- Fetched individually from bible-api.com with `translation=web` on 2026-10-23: Matthew 4:2; 26:26–29;
+  Mark 14:22–25; Luke 22:20; 1 Corinthians 11:25; Hebrews 9:18–22; 12:24, 29; 1 Peter 1:2; Zechariah
+  9:11; Jeremiah 31:31–33; Deuteronomy 4:24; 5:4–5; 9:9–11; 1 Kings 19:8; Judges 13:22; Isaiah 6:5;
+  25:6; John 1:18; Ezekiel 1:26; Leviticus 1:5; 7:15; 10:1–2; 14:4; Numbers 19:6. These later units
+  remain un-ingested.
+- **Hebrew** checked in the *Miqra according to the Masorah* edition through the Sefaria API on
+  2026-10-23: Exodus 1:14; 5:7; 19:8; 24:1–18; 25:8–9; 29:45–46; 33:20; 40:35; Genesis 32:31; Leviticus
+  1:5; 7:15; Deuteronomy 4:24; Ezekiel 1:26. **Septuagint** in Rahlfs 1935
+  (`eliranwong/LXX-Rahlfs-1935`): Exodus 24:7, 8, 10, 11, 17. **Greek NT** in the SBLGNT (MorphGNT):
+  Matthew 26:28; Mark 14:24; Hebrews 9:19–20. Not checked: the Hebrew of Isaiah 25:6 and Zechariah
+  9:11, the Greek of Luke 22:20 and 1 Corinthians 11:25, and the sources of Jesus' answers in Matthew
+  4:4, 7, 10; each is qualified where cited. No raw file was added or changed.
+
+### Pages created or revised
+
+- **Created (4):** the passage and three connections:
+  [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]],
+  [[They Saw God - Exodus 24, Exodus 33, and John 1.18]], and
+  [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]].
+- **Existing content pages revised (37):** [[Exodus]]; seven people ([[God]], [[Moses]], [[Aaron]],
+  [[Nadab (son of Aaron)]], [[Abihu]], [[Joshua (son of Nun)]], [[Hur (companion of Moses)]]); one
+  place ([[Horeb]]); eleven themes ([[Covenant]], [[Blood]], [[Sacrifice and Offering]],
+  [[Law and Obedience]], [[Seeing and Being Seen]], [[Holiness]], [[Mediation and Advocacy]],
+  [[The Glory of God]], [[Priesthood]], [[Hospitality]], [[Language and Speech]]); seven connections
+  ([[Passing Between the Pieces]], [[Sacrifice Before the Priesthood]],
+  [[The Pillar Jacob Raised and the Pillars the Law Forbids]],
+  [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]],
+  [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]],
+  [[Sinai and Zion - Exodus 19 and Hebrews 12]],
+  [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]]); and ten passages
+  ([[Bitter Water at Marah]], [[Israel at Mount Sinai]], [[Jethro's Counsel]], [[Manna and Quail]],
+  [[The Angel Sent Ahead]], [[The Battle with Amalek]], [[The Heads of the Fathers' Houses]],
+  [[The Passover]], [[The Ten Commandments]], [[Water from the Rock]]).
+- **Bookkeeping revised (12):** the book and top-level indexes; people A–E, F–M, and N–Z; places;
+  themes; connection subindexes A–C, D–H, O–S, and T–Z; and this log. Connection subindex sizes are
+  60, 77, 68, 60, and 84; no range change.
+- **Totals by frontmatter type:** 124 passages, 169 people, 90 places, 80 themes, 349 connections;
+  3 books started, 2 complete. No passage title collision was found.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
+are the expected baseline. No schema, skill, harness, or controller files were changed.

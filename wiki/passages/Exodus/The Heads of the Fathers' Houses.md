@@ -335,7 +335,7 @@ never as priests. See [[Priesthood]].
 - Exodus 4:22 — *"Israel is my son, my firstborn"* — [[Moses Returns to Egypt]]
 - Exodus 6:12–13, 28–30 — the objection before and after the list — [[I Am Yahweh]]
 - Exodus 7:4, 7; 12:17, 41, 51 — *"my armies"*; Aaron the elder; Israel *"by their armies"*
-- Exodus 24:1, 9 — Nadab and Abihu on the mountain
+- Exodus 24:1, 9 — Nadab and Abihu on the mountain — [[The Blood of the Covenant]]
 - Exodus 28:10 — *tôlədôt*, the tribes on the shoulder stones
 - Leviticus 10:1–7; 18:12, 14; 20:19–20 — the strange fire; the forbidden aunt (cited by reference;
   Hebrew checked in the WLC, not yet ingested) —

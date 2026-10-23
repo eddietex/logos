@@ -273,8 +273,8 @@ yet, but out where they are going.
 that went before Israel and stood between Israel and Egypt** (13:21–22; 14:19–20, 24) (WLC lemma search,
 Genesis–Exodus). **This is the first time the glory is seen in it.** **The book ends in the same pair**: *"the
 cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* (40:34; *not yet ingested*);
-and Sinai between: *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days"* (24:16; *not
-yet ingested*). **Exodus's whole movement of the glory — appearing, settling, filling — starts over a
+and Sinai between: *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days"* (24:16;
+[[The Blood of the Covenant]]). **Exodus's whole movement of the glory — appearing, settling, filling — starts over a
 complaining congregation in the wilderness of Sin.** See [[The Glory of God]] and
 [[The Bow in the Cloud]].
 
@@ -677,7 +677,8 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - Exodus 15:24–26 — the first murmuring and the first test — [[Bitter Water at Marah]]
 - Exodus 17:1–7 — Massah and Meribah — [[Water from the Rock]]
 - [[The Ten Commandments]] — Exodus 20:8–11; the creation-grounded command makes the household Sabbath duty explicit
-- Exodus 24:16–17; 40:34–38 — the glory on Sinai and in the tabernacle *(not yet ingested)*
+- Exodus 24:16–17 — the glory on Sinai: [[The Blood of the Covenant]]; 40:34–38, in the tabernacle *(not yet
+  ingested)*
 - Exodus 25:16 — *"the testimony which I shall give you"* *(not yet ingested)*
 - Numbers 11:4–9, 31–34 — the manna described again; the second quail, and the plague *(not yet ingested)*
 - Numbers 15:32–36 — the man gathering sticks on the Sabbath *(not yet ingested)*

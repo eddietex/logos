@@ -87,7 +87,7 @@ in a single verse** — the nations divided *according to the number of the chil
 [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]].
 
 **The number recurs wherever Israel is being constituted or represented**: seventy elders go up the
-mountain with Moses (Exodus 24:1, 9), seventy are appointed to bear the burden with him (Numbers
+mountain with Moses (Exodus 24:1, 9; [[The Blood of the Covenant]]), seventy are appointed to bear the burden with him (Numbers
 11:16–25), **and Luke sends out seventy** (Luke 10:1, where the manuscripts themselves divide between
 seventy and seventy-two). **Genesis 46 is where the number first attaches to Israel**, and it attaches
 at the moment Israel is smallest.

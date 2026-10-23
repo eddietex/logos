@@ -147,7 +147,7 @@ Yahweh promises a public descent (19:11), yet forbids a rush to gaze (19:21). Th
 hear God speak with Moses so that it will trust Moses (19:9). Public revelation and mediated access
 therefore belong together. In this chapter's WEB text the manifestation is described through
 cloud, fire, smoke, sound, and shaking; it is not explicitly named “Yahweh's glory,” as it will be
-in Exodus 24:16–17.
+in Exodus 24:16–17 ([[The Blood of the Covenant]]).
 
 ### Tensions retained
 

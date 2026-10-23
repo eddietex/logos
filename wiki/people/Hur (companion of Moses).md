@@ -15,7 +15,7 @@ the one on the one side, and the other on the other side. His hands were steady 
 
 **Exodus names him once more in the narrative**, again beside Aaron and again as Moses' support: when Moses goes
 up the mountain he tells the elders, *"Behold, Aaron and Hur are with you. Whoever is involved in a dispute can go
-to them"* (24:14; *not yet ingested*). **He is left in charge of the camp with Aaron** — and the camp Aaron is
+to them"* (24:14; see [[The Blood of the Covenant]]). **He is left in charge of the camp with Aaron** — and the camp Aaron is
 left in charge of is the one that makes the calf (32). **Hur is not mentioned there.**
 
 **Other Hurs.** *"Bezalel the son of Uri, the son of Hur, of the tribe of Judah"* (31:2; also 35:30; 38:22) is the
@@ -29,13 +29,17 @@ not been checked here and are not relied on.**
 
 - Goes up the hill with Moses and Aaron during the battle with Amalek; holds up one of Moses' hands until sunset —
   Exodus 17:10–12, [[The Battle with Amalek]]
-- *(ahead)* Left with Aaron to settle disputes while Moses is on the mountain — Exodus 24:14
+- Left with Aaron to settle disputes while Moses is on the mountain — Exodus 24:14,
+  [[The Blood of the Covenant]]
 - *(ahead, identity uncertain)* *"Bezalel the son of Uri, the son of Hur"* — Exodus 31:2; 35:30; 38:22
 
 ## Appears in
 
 - [[The Battle with Amalek]] — Exodus 17:10–12; **one of the two who hold up Moses' hands.** *"Moses, Aaron, and Hur
   went up"*; *"Aaron and Hur held up his hands, the one on the one side, and the other on the other side"*
+- [[The Blood of the Covenant]] — Exodus 24:14; **left in charge with Aaron.** *"Whoever is involved in a dispute
+  can go to them"* — the judging Jethro had moved off Moses (18:22) now held by two men while he is away. Hur is
+  not said to have gone up with the elders (24:9)
 
 ## Related people
 

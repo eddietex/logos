@@ -26,25 +26,27 @@ commonly derived from *Yahweh* and *yāšaʿ*, *to save*** — the verb of *"Thu
 *Iēsous***, the name the New Testament uses both for him (Acts 7:45; Hebrews 4:8; SBLGNT) and for Jesus. See
 [[Joshua and Jesus - One Name]].
 
-**The rest of Exodus keeps him at Moses' side.** He is *"his servant"* (*məšārətô*) who goes up the mountain with
-Moses (24:13); he hears *"the noise of war in the camp"* as they come down to the calf (32:17); and he is *"his
+**The rest of Exodus keeps him at Moses' side.** He is *"his servant"* (*məšārətô*, MAM) who goes up the mountain
+with Moses (24:13; [[The Blood of the Covenant]]) — not among the seventy-four who saw God, but further up than
+they; how far, the text does not say, and the next time he appears he is coming down with Moses. He hears *"the noise of war in the camp"* as they come down to the calf (32:17); and he is *"his
 servant Joshua, the son of Nun, a young man"*, who *"didn't depart from the Tent"* (33:11) — **the first time
-Exodus names his father**. All *not yet ingested*. **Numbers and Deuteronomy make him the successor** —
+Exodus names his father**. Chapters 32–33 are *not yet ingested*. **Numbers and Deuteronomy make him the successor** —
 *"a man in whom is the Spirit"*, on whom Moses lays his hand (Numbers 27:18), *"full of the spirit of
 wisdom; for Moses had laid his hands on him"* (Deuteronomy 34:9) (WEB; *not yet ingested*) — and the book
 [[Joshua]] is named for him.
 
 ### What is ahead
 
-Sinai, the calf, and the tent (Exodus 24, 32, 33); the spies and the renaming (Numbers 13–14); the succession
+The calf and the tent (Exodus 32, 33); the spies and the renaming (Numbers 13–14); the succession
 (Numbers 27; Deuteronomy 31, 34); and the book of Joshua. These sections are written as their pericopes arrive.
 
 ## Timeline / key events
 
 - Sent by Moses to choose men and fight Amalek at Rephidim; obeys, fights, and defeats Amalek *"with the edge of
   the sword"*; the memorial to be put *"in the ears of Joshua"* — Exodus 17:8–16, [[The Battle with Amalek]]
-- *(ahead)* Moses' servant on the mountain (Exodus 24:13); *"the noise of war in the camp"* (32:17); does not
-  depart from the tent (33:11)
+- Rises with Moses as *"his servant"* and goes up God's Mountain with him — Exodus 24:13,
+  [[The Blood of the Covenant]]
+- *(ahead)* *"the noise of war in the camp"* (32:17); does not depart from the tent (33:11)
 - *(ahead)* Hoshea renamed Joshua; one of the twelve spies (Numbers 13:8, 16)
 - *(ahead)* Commissioned as Moses' successor (Numbers 27:18–23; Deuteronomy 31; 34:9)
 
@@ -53,6 +55,8 @@ Sinai, the calf, and the tent (Exodus 24, 32, 33); the spies and the renaming (N
 - [[The Battle with Amalek]] — Exodus 17:9–14; **first appearance, unintroduced.** *"Choose men for us, and go out,
   fight with Amalek"*; *"So Joshua did as Moses had told him"*; *"Joshua defeated Amalek"*; *"rehearse it in the ears
   of Joshua"*
+- [[The Blood of the Covenant]] — Exodus 24:13; **Moses' servant on the mountain.** *"Moses rose up with Joshua,
+  his servant"*
 
 ## Related people
 

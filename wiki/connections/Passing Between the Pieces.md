@@ -20,7 +20,7 @@ tags: [connection]
 - **Genesis 17:1–14** — the same covenant re-given with a sign in flesh and, for the first time, a
   demand on the human party.
 - **Exodus 24:3–8** — Sinai sealed with blood thrown on an altar and on a people who have first said
-  *"All that Yahweh has spoken we will do."*
+  *"All the words which Yahweh has spoken will we do"* — [[The Blood of the Covenant]]
 - **Hebrews 6:13–18; 9:15–22** — God swearing by himself, and *diathēkē* as a will that requires a
   death.
 
@@ -80,7 +80,9 @@ its standard form is break it, by sending one walker.
 
 Genesis 17 then adds what 15 conspicuously lacks: a sign borne by the human party, and a stipulation
 (*"Walk before me, and be blameless"*). Exodus 24 adds the rest — obligations read aloud, a people
-agreeing to them, and blood applied to both altar and congregation. The Abrahamic covenant acquires
+agreeing to them, and blood applied to both altar and congregation, with the covenant *cut* (*kārat*,
+24:8; MAM) in the same verb as Genesis 15:18. In Genesis 15 only God passes between the pieces; at Sinai
+both parties are marked by the one blood. See [[The Blood of the Covenant]]. The Abrahamic covenant acquires
 conditions over the following chapters; it does not begin with any.
 
 ### What later readers built on it

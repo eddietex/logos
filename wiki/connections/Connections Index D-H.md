@@ -54,6 +54,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 · Exodus 12:48–49 · Exodus 23:12 |
+| [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]] | motif | Genesis 7:4, 12 · Exodus 24:18 · Exodus 34:28 · Deuteronomy 9:9–11 · 1 Kings 19:8 · Matthew 4:2 |
 | [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] | law-and-narrative | Genesis 44:8–10, 16–17 · Exodus 22:3–4 · Exodus 21:16 |
 | [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 · Galatians 3:17 |
 | [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] | law-and-narrative | Exodus 22:1 · Exodus 22:4 · 2 Samuel 12:5–6 · Luke 19:8 · Proverbs 6:30–31 |

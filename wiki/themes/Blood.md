@@ -111,6 +111,17 @@ blood-and-leaven rule and specifically names the Passover sacrifice in its overn
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The blood of the covenant — Exodus 24:6–8
+
+**One blood, divided between two parties.** Moses puts half the blood of the covenant sacrifices in
+basins and throws half on the altar; after the reading and the people's assent he throws the rest on
+the people: *"Look, this is the blood of the covenant"* (24:6–8). The verb for both is *zāraq*, *dash*
+(MAM), the priests' verb for blood on the altar in Leviticus 1:5 (MAM). The Passover blood was put on
+doorposts for God to see (12:13); here, for the only time in the Torah narrative so far, blood is put
+on the whole people. Exodus does not explain the rite; self-curse, kinship, and consecration are all
+proposed, and the wiki records them as readings. See [[The Blood of the Covenant]] and
+[[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; sacrificial blood and leaven.
@@ -146,6 +157,7 @@ See [[Justice, Sabbaths, and Feasts]].
   must put up. Hebrews 11:28 calls it *"the sprinkling of the blood"* —
   [[Christ Our Passover - Exodus 12 in the New Testament]]
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; *"guilt of bloodshed"* depending on the hour
+- [[The Blood of the Covenant]] — Exodus 24:6–8; *"this is the blood of the covenant"*, on the altar and on the people
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

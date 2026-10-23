@@ -181,7 +181,8 @@ told to *"kill the Passover"* (12:21). **Here they are made witnesses.** The mir
 the sight of the elders of Israel"* (17:6) — ***ləʿênê ziqnê yiśrāʾēl*** — **as the first plague was done *"in
 the sight of Pharaoh, and in the sight of his servants"*** (7:20). **The signs of 4:30 were done *"in the sight of the people"* (*ləʿênê hāʿām*); this one the text
 does not say the people saw.**
-The elders are a collective here and have no page; they return at Sinai (19:7; 24:1, 9–11; *not yet ingested*).
+The elders are a collective here and have no page; they return at Sinai (19:7; 24:1, 9–11; see [[Israel at Mount Sinai]] and
+[[The Blood of the Covenant]]).
 
 ***"The rod … with which you struck the Nile"*** — ***ûmaṭṭəkā ʾăšer hikkîtā bô ʾet-hayʾōr***. **The verb is
 second-person masculine singular, said to Moses** (WLC). **That settles, in God's words, a question the first

@@ -131,6 +131,12 @@ theme, and its last appearance inverts who performs it.
 - **3 John 5–10** — hospitality to travelling brothers as the mark of a healthy congregation, and
   Diotrephes, who refuses them, as the mark of a diseased one.
 
+### A meal in God's presence — Exodus 24:11
+
+*"They saw God, and ate and drank"* (24:11). The covenant ends at a table, with God as host or
+presence and the leaders of Israel as guests, after a vision in which *"He didn't lay his hand on"* them.
+The text names no food; the peace offerings of 24:5 are the likely source. See [[The Blood of the Covenant]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which
@@ -191,6 +197,7 @@ theme, and its last appearance inverts who performs it.
   him, that he may eat bread"* (2:20) comes to Moses' camp; Moses *"went out to meet"* him, bowed, kissed him,
   asked of his welfare, brought him *"into the tent"*, and told him everything; and Aaron and the elders *"eat
   bread with Moses' father-in-law before God"*. **The meal at Midian is returned at the mountain**
+- [[The Blood of the Covenant]] — Exodus 24:11; the leaders *"ate and drank"* before God after the covenant
 
 ## Related themes
 

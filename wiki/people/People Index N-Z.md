@@ -11,7 +11,7 @@ Person pages filed under N–Z, ignoring a leading *A*, *An*, or *The*. Part of
 
 | Name | Summary | Key passages |
 |---|---|---|
-| [[Nadab (son of Aaron)]] | Aaron's firstborn, paired with Abihu; goes up the mountain with the elders and dies for *"strange fire"*, and the priesthood passes to his younger brothers | [[The Heads of the Fathers' Houses]] |
+| [[Nadab (son of Aaron)]] | Aaron's firstborn, paired with Abihu; goes up the mountain with the elders and dies for *"strange fire"*, and the priesthood passes to his younger brothers; among those who *"saw the God of Israel"* and ate and drank (Exodus 24:9–11) | [[The Heads of the Fathers' Houses]] · [[The Blood of the Covenant]] |
 | [[Nahor (brother of Abram)]] | The brother who stays; left off the travel list without comment, and his household supplies wives to the next two generations — twelve sons by a wife and a concubine, whose names are the Aramean map and whose eighth fathers Rebekah | [[From Shem to Abram]] · [[Nahor's Line and the Burial of Sarah]] · [[A Wife for Isaac]] · [[Jacob, Leah, and Rachel]] · [[Jacob's Flight from Laban]] · [[Elihu Speaks in Anger]] |
 | [[Nahor (son of Serug)]] | Abraham's grandfather, and at a hundred forty-eight the shortest life in the Bible so far — the low point of the post-flood collapse | [[From Shem to Abram]] |
 | [[Nahshon]] | The brother of Aaron's wife, named in Exodus only to place her; in Numbers the head of Judah's camp and the first to bring the dedication offering, and in Ruth 4 five generations above David | [[The Heads of the Fathers' Houses]] |

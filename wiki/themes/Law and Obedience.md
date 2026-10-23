@@ -95,7 +95,7 @@ account. See [[The Ten Commandments]].
 spoken to all, the case law begins, given to Moses to set before the people.** Its form changes from
 *you shall* to *if* (21:2, 3, 4, 5, 7, 8, 9, 10, 11), from command to case. Exodus 24:3 reports that
 Moses *"told the people all Yahweh's words, and all the ordinances"*, and the people promise to
-obey. See [[The Altar and the Hebrew Slave]].
+obey. See [[The Altar and the Hebrew Slave]] and [[The Blood of the Covenant]].
 
 ### Violence, injury, and liability — Exodus 21:12–36
 
@@ -139,6 +139,15 @@ indeed listen to his voice* (MAM), is the one already used at Marah (15:26) and 
 the danger named is serving other gods (23:24–25, 33). The whole Book of the Covenant, 20:22–23:33,
 is now ingested. See [[The Angel Sent Ahead]].
 
+### "We will do, and we will hear" — Exodus 24:3–12
+
+The people assent twice. After hearing the words told, *naʿăśeh*, *we will do* (24:3); after hearing them
+read from *"the book of the covenant"*, *naʿăśeh wənišmāʿ*, *we will do and we will hear* — WEB *"will we
+do, and be obedient"* (24:7; MAM). **Writing enters the law here**: Moses writes the words (24:4), and God
+promises *"the stone tablets with the law and the commands that I have written, that you may teach
+them"* (24:12) — *hattôrâ wəhammiṣwâ* (MAM), *tôrâ* now a written thing given in order to be taught. See
+[[The Blood of the Covenant]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; one address for court, field, and feast.
@@ -150,7 +159,8 @@ is now ingested. See [[The Angel Sent Ahead]].
 - [[The Consecration of the Firstborn]] — Exodus 13:9; **"Yahweh's law … in your mouth"**
 - [[Bitter Water at Marah]] — Exodus 15:25–26; **the first statute and ordinance after the sea**, and the
   condition of hearing
-- **Exodus 20–23; 24:12** — the commandments and tablets *(not yet ingested)*
+- **Exodus 20–23; 24:12** — the commandments, ordinances, and the tablets promised; see
+  [[The Ten Commandments]] and [[The Blood of the Covenant]]
 - [[Manna and Quail]] — Exodus 16:4, 28; **"my law" as a daily ration.** *"Whether they will walk in my law, or
   not"*; *"How long do you refuse to keep my commandments and my laws?"* — Genesis 26:5's two words, about a
   Sabbath not yet commanded
@@ -169,6 +179,7 @@ is now ingested. See [[The Angel Sent Ahead]].
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; the eighth commandment given cases and remedies
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; casuistic law gives way to absolute sentences and God's own voice
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the Book of the Covenant's closing condition: *"if you indeed listen"*.
+- [[The Blood of the Covenant]] — Exodus 24:3–12; two assents, a book read aloud, and tablets written by God
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

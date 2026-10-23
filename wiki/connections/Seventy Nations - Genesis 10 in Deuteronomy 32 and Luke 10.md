@@ -12,7 +12,7 @@ tags: [connection]
 - **Genesis 46:27; Exodus 1:5; Deuteronomy 10:22** — *"all the souls of the house of Jacob, who came
   into Egypt, were seventy."* — [[The Oppression in Egypt]]
 - **Exodus 24:1, 9; Numbers 11:16–25** — seventy elders on the mountain, and seventy who receive the
-  spirit.
+  spirit — [[The Blood of the Covenant]]
 - **Numbers 29:12–34** — the bulls of Sukkot: thirteen, twelve, eleven, ten, nine, eight, seven — the
   descending series that totals seventy.
 - **Deuteronomy 32:8** — *"When the Most High gave to the nations their inheritance, when he separated

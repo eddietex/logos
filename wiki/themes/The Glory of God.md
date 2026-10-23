@@ -39,7 +39,7 @@ English, not an unverified Hebrew word search. See [[Israel at Mount Sinai]].
 | | Where | What the text says |
 |---|---|---|
 | **16:7, 10** | the wilderness of Sin | *"you shall see Yahweh's glory"*; *"Yahweh's glory appeared in the cloud"* |
-| **24:16–17** | Sinai | *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days … like devouring fire"* *(not yet ingested)* |
+| **24:16–17** | Sinai | *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days … like devouring fire"* — [[The Blood of the Covenant]] |
 | **29:43** | the tent | *"There I will meet with the children of Israel; and the place shall be sanctified by my glory"* *(not yet ingested)* |
 | **33:18, 22** | the cleft of the rock | *"Please show me your glory"*; *"while my glory passes by"* *(not yet ingested)* |
 | **40:34–35** | the tabernacle | *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* *(not yet ingested)* |
@@ -56,6 +56,14 @@ the glory that appears at the murmurings of Numbers 14 and 16, the glory filling
 8:11), Isaiah's *"the whole earth is full of his glory"* (Isaiah 6:3), Ezekiel's vision of the glory leaving
 the temple and returning (Ezekiel 10; 43), and John's *"we saw his glory"* (John 1:14).
 
+### The glory settles on Sinai — Exodus 24:15–18
+
+*"Yahweh's glory settled on Mount Sinai"* (24:16). The verb is *šākan* (MAM), the root of *miškān*,
+the tabernacle, and of God's *"that I may dwell among them"* at 25:8 (MAM). For six days cloud covers
+the mountain, on the seventh God calls Moses from it, and to Israel below the glory looks *"like
+devouring fire"* (24:16–17). **Exodus 24 is the hinge between the glory that appears (16:10) and the
+glory that fills the tent (40:34–35).** See [[The Blood of the Covenant]].
+
 ## Key passages
 
 - [[Manna and Quail]] — Exodus 16:7, 10; **the first *kəbôd YHWH* in Scripture.** *"In the morning, then you
@@ -64,6 +72,7 @@ the temple and returning (Ezekiel 10; 43), and John's *"we saw his glory"* (John
 - [[The Crossing of the Sea]] — Exodus 14:4, 17; **the root before the noun.** *"I will get honor over
   Pharaoh"* (*ʾikkābdâ*, WLC)
 - [[Israel at Mount Sinai]] — Exodus 19:9, 16–20; cloud and fire at the public descent, ahead of 24:16–17
+- [[The Blood of the Covenant]] — Exodus 24:16–17; **the glory settles** (*šākan*), cloud for six days, devouring fire on the summit
 
 ## Related themes
 

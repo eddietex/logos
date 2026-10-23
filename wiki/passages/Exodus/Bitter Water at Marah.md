@@ -175,7 +175,7 @@ same pair, *ṣāʿaq* and *rāpāʾ*, cry and heal, as Marah.** See [[Prayer]] 
 
 ***"Yahweh showed him"*** — ***wayyôrēhû***, the hiphil of ***yārâ***. **The WLC files this under the lemma of
 *"I will … teach you what you shall speak"* (4:12, 15), of Judah sent *"to show the way"* to Goshen (Genesis
-46:28), and of the tablets given *"that you may teach them"* (24:12; *not yet ingested*)** — and also of the
+46:28), and of the tablets given *"that you may teach them"* (24:12; [[The Blood of the Covenant]])** — and also of the
 Song's *"He has cast (yārâ) Pharaoh's chariots"* (15:4) (WLC lemma search, Genesis–Exodus). **The noun *tôrâ*,
 *law*, *instruction*, is usually derived from this verb** (reported, not checked in this pass; the WLC files
 *tôrâ* under its own number). **So the first thing God does after the sea is *show*, with the verb of
@@ -343,7 +343,7 @@ usual gloss of her name, not checked in this pass). See [[Tamar]].
 
 **Twelve and seventy are the book's numbers for Israel.** *"The twelve tribes of Israel"* (Genesis 49:28);
 *"All the souls who came out of Jacob's body were seventy souls"* (1:5); and ahead, *"seventy of the elders of
-Israel"* (24:1, 9; *not yet ingested*). **Many readers take Elim's springs and palms as a picture of the
+Israel"* (24:1, 9; [[The Blood of the Covenant]]). **Many readers take Elim's springs and palms as a picture of the
 people, or of the tribes and elders** (reported, not decided). **The text gives only the count.**
 Numbers 33:9 repeats it exactly (WEB).
 

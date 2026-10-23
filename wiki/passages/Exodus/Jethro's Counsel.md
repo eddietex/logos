@@ -201,7 +201,8 @@ Pentateuch and some versions are reported to read *offered* instead (not checked
 hāʾĕlōhîm***. **Aaron's first act as named host is to eat with a foreign priest.** **Moses is not in the list**,
 though the meal is in his camp and the text likely assumes him; *"before God"* recurs at 18:19 for Moses' role.
 **The meal anticipates the covenant meal on the mountain**, where Moses, Aaron, Nadab, Abihu, and seventy elders
-*"saw God, and ate and drank"* (24:11; *not yet ingested*). That is a reading; the vocabulary differs.
+*"saw God, and ate and drank"* (24:11; [[The Blood of the Covenant]]). That is a reading; the vocabulary
+differs.
 
 ### What is this thing that you do? (18:13–16)
 
@@ -451,7 +452,7 @@ third tradition** is set out on [[Jethro]].
 - Exodus 15:26 — *"If you will diligently listen to Yahweh your God's voice"* — [[Bitter Water at Marah]]
 - Exodus 17:12 — *"Moses' hands were heavy"* — [[The Battle with Amalek]]
 - Exodus 19:1–2 — the arrival at Sinai, after this chapter *(not yet ingested)*
-- Exodus 24:11, 13 — the elders *"saw God, and ate and drank"*; *"the Mountain of God"* *(not yet ingested)*
+- Exodus 24:11, 13 — the elders *"saw God, and ate and drank"*; *"the Mountain of God"* — [[The Blood of the Covenant]]
 - Exodus 34:6 — *"abundant in loving kindness and truth"* *(not yet ingested)*
 - Numbers 10:29–32 — Hobab: *"I will depart to my own land"* *(not yet ingested)*
 - Numbers 11:14–17 — *"I am not able to bear all this people alone"*; the seventy elders —

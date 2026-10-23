@@ -159,9 +159,17 @@ identify him here as high priest or name the unnamed priests. The chapter ends w
 going down, so Aaron's actual ascent should not be reported as an event already narrated in
 this unit. See [[Israel at Mount Sinai]].
 
+**He goes up, sees God, and is left in charge.** The ascent promised at 19:24 happens at 24:9: Aaron,
+his sons Nadab and Abihu, and seventy elders go up with Moses and *"saw the God of Israel"*, and *"ate
+and drank"* (24:10–11). **He has no part in the blood ceremony** — the sacrifices are offered by
+*"young men"* and Moses handles the blood (24:5–8) — so the future high priest watches the covenant
+made without officiating. When Moses goes on up, he leaves the elders with *"Aaron and Hur"* to settle
+disputes (24:14). It is to this Aaron, left in charge, that the people will come when Moses delays
+(32:1). See [[The Blood of the Covenant]].
+
 ### What is ahead
 
-Sinai, where he goes up with the elders (24); the priestly
+The priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -201,6 +209,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   Exodus 17:10–12, [[The Battle with Amalek]]
 - Comes with all the elders to eat bread with Jethro before God — Exodus 18:12, [[Jethro's Counsel]]
 - Named as the one Moses is to bring up, while others must not break through — Exodus 19:24; [[Israel at Mount Sinai]]
+- Goes up with his sons Nadab and Abihu and seventy elders; sees God and eats and drinks; left with Hur to settle
+  disputes — Exodus 24:1, 9–11, 14, [[The Blood of the Covenant]]
 
 ## Appears in
 
@@ -242,6 +252,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Jethro's Counsel]] — Exodus 18:12; **at the meal.** *"Aaron came with all the elders of Israel, to eat bread
   with Moses' father-in-law before God"*
 - [[Israel at Mount Sinai]] — Exodus 19:24; named for a commanded ascent, not yet narrated
+- [[The Blood of the Covenant]] — Exodus 24:1, 9–11, 14; **the ascent carried out.** *"They saw the God of
+  Israel"*; *"Behold, Aaron and Hur are with you"*
 
 ## Related people
 

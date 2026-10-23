@@ -62,6 +62,15 @@ to be *looked upon* far more often than they ask for anything else.
 (Revelation 22:4). The canon that begins with a God who sees ends with the promise that the looking
 will finally go both ways.
 
+### They saw the God of Israel — Exodus 24:9–11
+
+**The most direct statement in the Torah that people saw God, and the most reticent description.**
+*"They saw the God of Israel"* (*wayyirʾû*), and again *"They saw God"* (*wayyeḥĕzû*, the visionary
+verb; both MAM) — yet the text describes only what was *"under his feet"*, a pavement like sapphire
+(24:10–11). The narrator adds that *"He didn't lay his hand on"* them, which assumes the danger 33:20
+will state. The Septuagint has them see *the place* where God stood (Rahlfs). See [[The Blood of the Covenant]] and
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
+
 ## Key passages
 
 - [[The Creation of the World]] — Genesis 1, *"God saw that it was good"*, seven times: sight as
@@ -340,6 +349,7 @@ will finally go both ways.
   statements. And Yahweh *"looked out"* on the army from the pillar (*šāqap*, 14:24), the verb of the look
   toward Sodom (Genesis 18:16; 19:28; WLC)
 - [[Israel at Mount Sinai]] — Exodus 19:11, 17–21; an announced public descent and a prohibited rush to gaze
+- [[The Blood of the Covenant]] — Exodus 24:10–11; *"They saw the God of Israel"*, and ate and drank
 
 ## Related themes
 
