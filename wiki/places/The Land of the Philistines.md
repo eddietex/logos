@@ -56,6 +56,9 @@ Genesis 10:14 already names in the Table of Nations.
 Scripture** (WLC lemma search, Genesis–Deuteronomy). **The first nation the Song imagines trembling is the
 one whose road God refused at 13:17.** See [[The Song of the Sea]].
 
+**At Exodus 23:31 the coast is a boundary.** *"The sea of the Philistines"*, *yam pəlištîm* (MAM),
+is the Mediterranean as the western limit of the promised border. See [[The Angel Sent Ahead]].
+
 ## Appears in
 
 - [[The Treaty at Beersheba]] — Genesis 21:32, 34; where Abimelech and Phicol go home to, and where
@@ -69,6 +72,7 @@ one whose road God refused at 13:17.** See [[The Song of the Sea]].
   their minds when they see war"*
 - [[The Song of the Sea]] — Exodus 15:14; **named as a land, and trembling.** *"Pangs have taken hold on the inhabitants of
   Philistia"*
+- [[The Angel Sent Ahead]] — Exodus 23:31; *"the sea of the Philistines"* as the western border
 
 ## Related places
 
@@ -96,3 +100,5 @@ one whose road God refused at 13:17.** See [[The Song of the Sea]].
 - Brought up from Caphtor by the same God who brought Israel from Egypt — Amos 9:7
 - The coast road from Egypt not taken by Israel, for fear of war — Exodus 13:17
 - Its inhabitants sung as seized with pangs at the news of the sea — Exodus 15:14
+- *"The sea of the Philistines"* named as the promised border — Exodus 23:31,
+  [[The Angel Sent Ahead]]

@@ -261,7 +261,7 @@ after the sea is not a list of laws; it is a list of ways to hear.**
 the finite verb. **The doubled form of *"God will surely visit you"* (Genesis 50:24–25) and of the Song's *"he
 has triumphed gloriously"* (15:1)** (WLC). **The same construction opens the covenant offer at Sinai**: *"if
 you will indeed obey my voice (šāmôaʿ tišməʿû bəqōlî), and keep my covenant"* (19:5), and again in the
-angel's promise (*šāmōaʿ tišmaʿ bəqōlô*, 23:22) (WLC; *not yet ingested*). **Marah is Sinai's condition in
+angel's promise (*šāmōaʿ tišmaʿ bəqōlô*, 23:22) (WLC; [[The Angel Sent Ahead]]). **Marah is Sinai's condition in
 advance.**
 
 **The vocabulary is Genesis 26:5's.** God told Isaac the blessing stood *"because Abraham obeyed my voice
@@ -296,7 +296,7 @@ killing; the next ear asked for is for God's commandments.** See [[The Line of C
 ***"I will put none of the diseases on you, which I have put on the Egyptians"*** — ***kol-hammaḥălâ ʾăšer-śamtî
 bəmiṣrayim lōʾ-ʾāśîm ʿālêkā***. ***Maḥălâ*** is singular, *all the sickness* (WLC); the WEB renders *diseases*.
 **It occurs in the Torah only here and at 23:25**: *"he will bless your bread and your water, and I will take
-sickness (maḥălâ) away from among you"* (WLC lemma search; *not yet ingested*) — **a promise that also joins
+sickness (maḥălâ) away from among you"* (WLC lemma search; [[The Angel Sent Ahead]]) — **a promise that also joins
 water and the end of sickness.** Deuteronomy's *"the evil diseases of Egypt"* (7:15) and *"all the diseases of
 Egypt"* (28:60) use a different noun, *madweh* (WEB; WLC; *not yet ingested*); **28:60 is the threat that
 reverses the promise**: *"He will bring on you again all the diseases of Egypt."* **What *"the diseases … on
@@ -410,8 +410,8 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - Exodus 16:1–4 — *"They took their journey from Elim"*; *"murmured"*; *"that I may test them"* —
   [[Manna and Quail]]
 - Exodus 17:1–7 — water at Massah and Meribah; *"Why do you test Yahweh?"* — [[Water from the Rock]]
-- Exodus 19:5; 23:22, 25 — *"if you will indeed obey my voice"*; *"I will take sickness away"* *(not yet
-  ingested)*
+- Exodus 19:5; 23:22, 25 — *"if you will indeed obey my voice"*; *"I will take sickness away"* —
+  [[Israel at Mount Sinai]] and [[The Angel Sent Ahead]]
 - Numbers 5:18 — *"the water of bitterness that brings a curse"* *(not yet ingested)*
 - Numbers 12:13 — *"Moses cried to Yahweh … 'Heal her, God'"* *(not yet ingested)*
 - Numbers 14; 16–17 — the murmurings that end in judgment *(not yet ingested)*

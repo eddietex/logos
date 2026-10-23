@@ -64,6 +64,16 @@ what is withheld, which is Genesis's habit with its patriarchs.
   is heard in Exodus it is Joshua mistaking the calf's festival for *"the noise of war in the camp"* (32:17; WLC;
   *not yet ingested*). See [[The Battle with Amalek]].
 
+### God fights ahead of Israel — Exodus 23:20–33
+
+The conquest is promised almost entirely as God's work: *"I will be an enemy to your enemies"*
+(23:22), his terror sent ahead, the peoples confused (*wəhammōtî*, the panic verb of 14:24; MAM),
+their backs turned, and the hornet driving them out (23:27–28). Israel's own part is named at the end
+of 23:31: *"you shall drive them out before you."* The pace is set for the land's sake — *"little by
+little"*, lest it become desolate (23:29–30). Joshua 24:12 later looks back on the hornet *"not with
+your sword, nor with your bow"* (WEB; *not yet ingested*). See [[The Angel Sent Ahead]] and
+[[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
 ## Key passages
 
 - Genesis 14:1–17 — the first war, [[The Rescue of Lot and Melchizedek]]
@@ -132,6 +142,7 @@ what is withheld, which is Genesis's habit with its patriarchs.
   massacre at Shechem (Genesis 34:26; WLC). **The war is not ended but declared permanent**: *"Yahweh will have
   war (milḥāmâ) with Amalek from generation to generation"* (17:16). The road God chose so Israel would not
   *"see war"* (13:17) did not avoid this one
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; God's terror, confusion, and hornet; a conquest *"little by little"*.
 
 ## Related themes
 

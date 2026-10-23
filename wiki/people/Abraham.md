@@ -602,8 +602,8 @@ arguing it rather than the narrator crediting it. See [[Faith]].
 And then a prediction nobody confirms: ***"He will send his angel before you."*** **The first time in
 Scripture anyone says God will send an angel ahead of a journey** — said by a man, not by God — and
 no angel appears in the chapter, or is mentioned by the narrator, ever. Exodus makes the sentence a
-formula for the whole nation's march (23:20; 32:34; 33:2). See [[The Angel of Yahweh]] and
-[[A Wife for Isaac]].
+formula for the whole nation's march (23:20; 32:34; 33:2). See [[The Angel of Yahweh]],
+[[A Wife for Isaac]], and [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
 **He is not told the outcome on the page.** The servant returns and reports to Isaac (24:66). Abraham
 does not meet Rebekah, is not at the marriage, and is not mentioned again until his own death notice.

@@ -87,6 +87,15 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
   fourfold formula that is Genesis 10:5, 20, and 31 turned into worship, and the kings of the earth
   bringing their glory into the city.
 
+### Six peoples, and their gods — Exodus 23:20–33
+
+The Amorite, Hittite, Perizzite, Canaanite, Hivite, and Jebusite (23:23) — the six of the bush
+(3:8) in another order — are to be *"cut off"*, driven out little by little, and refused covenant or
+residence (23:23, 29–33). The reason given each time is their gods (23:24, 33). The commands are
+specific to these peoples and this land. The wiki does not read them as a general stance toward
+other nations, which Genesis's Table of Nations and blessing for *"all the families of the earth"*
+(12:3) would not support. See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[The Table of Nations]] — the seventy, and the only place Scripture attempts a complete inventory
@@ -317,6 +326,7 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
   *šālôm* in Exodus are his (4:18; 18:7, 23; WLC) —
   [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 - [[Israel at Mount Sinai]] — Exodus 19:5–6; a particular nation within the God-owned earth
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; six peoples to be driven out, for their gods' sake.
 
 ## Related themes
 

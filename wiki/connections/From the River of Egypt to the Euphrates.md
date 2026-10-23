@@ -13,7 +13,7 @@ tags: [connection]
 - **Genesis 10:19** — the Table of Nations' Canaanite border, *"from Sidon… to Gaza… to Lasha"* —
   the only other frontier drawn in Genesis, and a much smaller one. See [[The Table of Nations]].
 - **Exodus 23:31** — *"from the Red Sea even to the sea of the Philistines, and from the wilderness
-  to the River."*
+  to the River."* See [[The Angel Sent Ahead]].
 - **Numbers 34:1–12** — the detailed survey of *"the land of Canaan according to its borders"*, which
   stops at Lebanon and the Jordan and never mentions the Euphrates.
 - **Deuteronomy 1:7; 11:24; Joshua 1:4** — the maximal formula repeated to Moses and to Joshua.
@@ -93,6 +93,14 @@ names appear here and nowhere else in such a list:
 Two of the ten peoples promised as dispossessed supply, in the event, a tribe's in-laws and one of
 the two men who survive the wilderness. The list is a statement about extent, not a roster of
 enemies, and reading it as the latter produces contradictions the text does not have.
+
+### Exodus 23:31: the same reach, drawn from the desert
+
+Exodus 23:31 does not repeat Genesis 15:18's wording. Its limits are the Red Sea, the sea of the
+Philistines, the wilderness, and *"the River"* (*hannāhār*, MAM) — a border described from the
+standpoint of a people coming up out of the southern desert. It shares Genesis 15's reach to the
+Euphrates but not its *"river of Egypt"*. The six peoples of Exodus 23:23 are the standard short
+list; the ten of Genesis 15:19–21 are not repeated. See [[The Angel Sent Ahead]].
 
 ## Significance
 

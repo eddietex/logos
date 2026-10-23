@@ -110,6 +110,19 @@ they will not sin (20:20). The immediate contrast is between dread of being kill
 their distance, while Moses approaches (20:21). The explanation of fear is given to the frightened
 people themselves. See [[The Ten Commandments]].
 
+### God's terror sent ahead — Exodus 23:20–33
+
+*"I will send my terror before you, and will confuse all the people to whom you come"* (23:27). The
+word for *terror* is *ʾêmâ* (*ʾêmātî*, MAM), the word of Abram's covenant night (Genesis 15:12), of
+the Song of the Sea (Exodus 15:16), and of Rahab (Joshua 2:9). Here God promises it in advance; the
+peoples' fear is God's weapon rather than Israel's reverence. See [[The Angel Sent Ahead]] and
+[[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
+
+**Correction (2026-10-23).** The entry for Genesis 35:5 below previously said the root *ḥ-t-t* of
+*ḥittat ʾĕlōhîm* is the one used in Exodus 23:27 and Joshua 2:9. A check of the Hebrew (MAM, through
+Sefaria) shows it is not: Exodus 23:27 and Joshua 2:9 have *ʾêmâ*, and Deuteronomy 11:25 has *paḥad*
+and *môrāʾ*. The theme connection holds; the lexical claim did not, and the entry has been revised.
+
 ## Key passages
 
 - [[Job of Uz]] — the phrase in its first Joban form, as one of four terms in the narrator's
@@ -188,9 +201,9 @@ people themselves. See [[The Ten Commandments]].
   where, on Jacob's own account, it was greatest**
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:5; ***ḥittat ʾĕlōhîm***, **a phrase
   that occurs nowhere else in the Bible.** *"A terror of God was on the cities that were around them,
-  and they didn't pursue the sons of Jacob."* The root *ḥ-t-t* is the conquest vocabulary — *"I will
-  send my terror before you"* (Exodus 23:27), *"all the inhabitants of the land melt away"* (Joshua
-  2:9) — **spent here on a single family fleeing a town its own sons have just sacked.** Nobody asks
+  and they didn't pursue the sons of Jacob."* The idea, though not the root *ḥ-t-t*, is the conquest's
+  — *"I will send my terror before you"* (Exodus 23:27, *ʾêmâ*), *"all the inhabitants of the land
+  melt away"* (Joshua 2:9, *mûg*; MAM; corrected 2026-10-23, see above) — **spent here on a single family fleeing a town its own sons have just sacked.** Nobody asks
   for it, nobody is told about it, Genesis reports it in a subordinate clause, and **[[Jacob]] is
   never shown learning it happened.** It is the exact answer to his complaint at 34:30, which named no
   wrong and asked for nothing. **This is the fear of God as something God puts on other people**,
@@ -303,6 +316,7 @@ people themselves. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:18–21; reassurance against death-terror accompanies fear
   intended to prevent sin
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will send my terror before you"*.
 
 ## Related themes
 

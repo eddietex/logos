@@ -287,7 +287,14 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   protection of the alien because Israel knows alien life; a seventh year that feeds the poor and a
   seventh day that refreshes dependents; and Unleavened Bread, Harvest, and Ingathering with their
   offerings. The goat-and-milk prohibition closes the unit without explanation. See
-  [[Justice, Sabbaths, and Feasts]].
+  [[Justice, Sabbaths, and Feasts]]. **The Book of the Covenant ends with a promise about the road**
+  (23:20–33): an angel sent ahead *"to keep you by the way"*, to be heard and not provoked, *"for my
+  name is in him"*. Then a choice of masters in the book's own verb, *ʿābad* — *"nor serve them"*,
+  *"You shall serve Yahweh"*, *"if you serve their gods"* — with bread, water, health, and children
+  promised to the second. God's terror and the hornet go ahead, the land is given *"little by
+  little"* so it does not go wild, a border runs from the Red Sea to the River, and the peoples' gods
+  are named as *"a snare"*. The angel *"before you"* returns after the calf, when God offers him
+  instead of going up *"among you"* himself (33:2–3). See [[The Angel Sent Ahead]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -357,7 +364,7 @@ for unit.
 - [x] [[Laws of Property and Restitution]] — Exodus 22:1–15
 - [x] [[Laws of Holiness and Compassion]] — Exodus 22:16–31
 - [x] [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19
-- [ ] The Angel Sent Ahead — Exodus 23:20–33
+- [x] [[The Angel Sent Ahead]] — Exodus 23:20–33
 - [ ] The Blood of the Covenant — Exodus 24:1–18
 
 ### The tabernacle instructions (25–31)

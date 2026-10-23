@@ -17,6 +17,8 @@ tags: [connection]
 - **Joshua 2:24** — the spies to Joshua: *"Moreover, all the inhabitants of the land melt away before us."*
   (WEB; *not yet ingested*)
 - **Genesis 15:12** — *"Now terror and great darkness fell on him"* — [[The Covenant Between the Pieces]]
+- **Exodus 23:27** — *"I will send my terror before you, and will confuse all the people to whom you come"*
+  — [[The Angel Sent Ahead]]
 
 ## Analysis
 
@@ -39,6 +41,10 @@ and of the Song (15:16); **Rahab is the third to use it.** The WEB renders *ʾê
 melted"* (*wayyimmas ləbābēnû*, from *māsas*, 2:11; WLC), and a confession: *"for Yahweh your God, he is
 God in heaven above, and on earth beneath"* (2:11). **The Song asked *"Who is like you, Yahweh, among the
 gods?"* (15:11); a Canaanite answers it.**
+
+**Between the Song and Rahab stands a promise.** *"I will send my terror (ʾêmātî) before you"* (Exodus
+23:27; MAM). The Song sings that terror falls on Canaan's inhabitants (15:16); Sinai has God promise to
+send it; Rahab reports that it has fallen (2:9). The same noun runs through all three.
 
 ## Significance
 

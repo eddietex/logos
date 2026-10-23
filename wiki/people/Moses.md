@@ -390,6 +390,14 @@ is not named or given a new action in this unit. What he is to transmit now cove
 assistance to enemies, protection of aliens, rest, and three annual feasts. See
 [[Justice, Sabbaths, and Feasts]].
 
+### The angel promised — Exodus 23:20–33
+
+Moses is not named in the closing promise of the Book of the Covenant; he is its hearer by context
+(20:22; 21:1). The promise of an angel *"before you"* will come back to him after the calf, at 32:34
+and 33:2, and he will refuse the angel without God's own presence (33:15; 34:9; *not yet ingested*).
+See [[The Angel Sent Ahead]] and
+[[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -485,6 +493,7 @@ assistance to enemies, protection of aliens, rest, and three annual feasts. See
 - The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
 - The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
 - The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
+- Hears the promise of the angel sent ahead, by context — [[The Angel Sent Ahead]], Exodus 23:20–33
 
 ## Appears in
 
@@ -564,6 +573,8 @@ assistance to enemies, protection of aliens, rest, and three annual feasts. See
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; the continuing divine address to Moses
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the continuing divine address to Moses
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the unnamed hearer of the promise he will later
+  argue over.
 
 ## Related people
 

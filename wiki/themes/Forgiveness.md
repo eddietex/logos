@@ -67,6 +67,15 @@ practical.**
   our debtors"* (Matthew 6:12) — **and Stephen and Jesus both die asking for the forgiveness of
   people who did not ask** (Luke 23:34; Acts 7:60), **which is one step past anything in Genesis.**
 
+### An angel who will not pardon — Exodus 23:20–33
+
+*"He will not pardon your disobedience, for my name is in him"* (23:21). The verb is *nāśāʾ*, to
+*lift* or *bear* a transgression (*lōʾ yiśśāʾ ləpišʿăkem*; MAM). The warning is not that forgiveness
+is impossible, but that this messenger is not to be treated lightly because he will not overlook
+rebellion. After the calf, Moses asks God himself to *"pardon our iniquity"* with a different verb,
+*sālaḥ* (34:9; MAM; *not yet ingested*). The wiki records the difference in wording and draws no
+further conclusion from it. See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:15–21; **the first request for forgiveness between
@@ -101,6 +110,7 @@ practical.**
   injured man, not to God; Pharaoh adds *"and pray to Yahweh your God"*. **Joseph wept and forgave;
   Moses prays and the locusts go, but the text says nothing of forgiveness, and the heart is hardened
   again** (10:20)
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; *"he will not pardon your disobedience"*.
 
 ## Related themes
 

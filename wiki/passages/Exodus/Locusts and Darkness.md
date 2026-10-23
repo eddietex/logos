@@ -488,7 +488,7 @@ that ends at 11:8. **The text leaves the seam visible, and so does this page.**
   east wind; *"not so much as one"* *(not yet ingested)*
 - Exodus 16:28 — *"How long do you refuse to keep my commandments?"* — [[Manna and Quail]]
 - Exodus 18:8 — *"Moses told his father-in-law"* — [[Jethro's Counsel]]
-- Exodus 23:33; 34:12 — *môqēš*, *"a snare"* *(not yet ingested)*
+- Exodus 23:33; 34:12 — *môqēš*, *"a snare"* — [[The Angel Sent Ahead]] (34:12 *not yet ingested*)
 - Exodus 33:20 — *"man may not see me and live"* *(not yet ingested)*
 - Leviticus 11:3–7, 22 — *parsâ*; *ʾarbeh* among clean insects *(not yet ingested)*
 - Numbers 14:27 — *"How long shall I bear with this evil congregation?"* (WEB) *(not yet ingested)*

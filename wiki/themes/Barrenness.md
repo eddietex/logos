@@ -68,6 +68,14 @@ children, or else I die"* and Jacob's angry *"Am I in God's place?"* (30:1–2),
 by Peninnah *"to irritate her"* (1 Samuel 1:6). The narratives are consistently more sympathetic to
 the women than the frame they are written in.
 
+### "No one will miscarry or be barren" — Exodus 23:20–33
+
+*"No one will miscarry or be barren in your land"* (23:26). The barrenness Genesis narrates one
+household at a time — Sarai, Rebekah, Rachel — is promised away for the whole people, as part of the
+blessing on serving Yahweh. The word for *barren* is *ʿăqārâ* (MAM). The promise is about the land
+and the people as a whole; it does not say that a barren woman is under judgment. See
+[[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[From Shem to Abram]] — Genesis 11:30, the first occurrence, placed at the end of a genealogy
@@ -148,6 +156,7 @@ the women than the frame they are written in.
 - [[The Consecration of the Firstborn]] — Exodus 13:2, 12; ***"whatever opens the womb (peṭer reḥem)"***. **In
   Genesis God was the one who opened wombs** — Leah's (29:31) and Rachel's (30:22); **in Exodus 13 the
   child that opens the womb is his.** *Peṭer* first occurs here (WLC lemma search)
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; barrenness and miscarriage promised away in the land.
 
 ## Related themes
 

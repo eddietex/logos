@@ -1788,6 +1788,16 @@ the poor, dependents, and animals (23:4–12). He also claims three annual feast
 (23:14–19). Social protection and exclusive worship belong to the same speech. See
 [[Justice, Sabbaths, and Feasts]].
 
+### He sends an angel bearing his name, and fights for Israel — Exodus 23:20–33
+
+God closes the Book of the Covenant with a promise about the road: an angel sent ahead *"to keep you
+by the way"*, to be heard and not provoked, because *"he will not pardon your disobedience, for my
+name is in him"* (23:20–21). If Israel listens, God will be *"an enemy to your enemies"* (23:22). He
+claims Israel's service against the peoples' gods, and promises bread, water, health, fertility, and
+a full span of days (23:24–26). He describes himself as the one who drives the peoples out by terror,
+confusion, and the hornet, deliberately *"little by little"* so the land does not go wild
+(23:27–30). See [[The Angel Sent Ahead]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2016,6 +2026,8 @@ the poor, dependents, and animals (23:4–12). He also claims three annual feast
 - The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
 - The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
 - The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
+- Promises an angel bearing his name, blessing for Israel's service, and a gradual conquest —
+  [[The Angel Sent Ahead]], Exodus 23:20–33
 
 ## Appears in
 
@@ -2406,6 +2418,8 @@ the poor, dependents, and animals (23:4–12). He also claims three annual feast
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; disputes brought *"before God"*, and *"the oath of Yahweh"*
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; *"I will surely hear their cry"*, *"I am gracious"*
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; sends the angel, places his name *"in him"*, and
+  promises to fight, bless, heal, and drive out the peoples little by little.
 
 ## Related people
 

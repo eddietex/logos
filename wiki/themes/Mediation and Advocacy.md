@@ -118,6 +118,16 @@ Deuteronomy 5:28 approves their request; it should not automatically be called r
 [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] and
 [[Sinai and Zion - Exodus 19 and Hebrews 12]]. See [[The Ten Commandments]].
 
+### A messenger who must be heard — Exodus 23:20–33
+
+At the close of the Book of the Covenant, the mediator promised is not a human advocate but an
+angel. He is sent ahead to keep Israel on the way and bring it to the land, and Israel is told to
+*"listen to his voice"*. He also *"will not pardon your disobedience"* (23:20–22). Unlike Moses, who
+pleads for the people (32:11–14, 31–32; *not yet ingested*), this mediator is described only as a
+guide to be obeyed. After the calf, Moses will refuse to go with the angel alone (33:15; *not yet
+ingested*). See [[The Angel Sent Ahead]] and
+[[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -319,6 +329,7 @@ Deuteronomy 5:28 approves their request; it should not automatically be called r
 
 - [[The Ten Commandments]] — Exodus 20:18–21; the assembly requests the mediator who approaches
   where it will not
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; a guide to be obeyed, who does not pardon.
 
 ## Related themes
 

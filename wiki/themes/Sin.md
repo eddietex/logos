@@ -130,6 +130,12 @@ from the sin that exploits it to produce coveting and death. The tension between
 and sin's contrary use belongs in [[Coveting and Love - The Commandments in Romans 7 and 13]], not
 in a claim that the law itself is sinful. See [[The Ten Commandments]].
 
+### "Lest they make you sin against me" — Exodus 23:20–33
+
+The peoples are not to live in the land *"lest they make you sin against me"* (23:33). The sin named
+is serving their gods, and its image is a *snare*, *môqēš* (MAM). The angel, meanwhile, *"will not
+pardon your disobedience"* (*pišʿăkem*, 23:21; MAM). See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[The Fall]] — the first disobedience and its anatomy
@@ -293,6 +299,7 @@ in a claim that the law itself is sinful. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:17, 20; the commands reach desire; the encounter is intended
   to prevent sin
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a cause of sin; the angel who will not pardon transgression.
 
 ## Related themes
 

@@ -13681,3 +13681,87 @@ adopted. No new contradiction between existing pages required a separate correct
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
 remain the expected baseline. No schema, skill, harness, or controller files were changed.
 No operational blocker remains.
+
+## [2026-10-23] ingest | Exodus 23.20-33 — The Angel Sent Ahead
+
+Ingested [[The Angel Sent Ahead]] in unattended mode, keeping the planned boundary. Exodus moves from
+31 to **32 / 53** pericopes, and the whole Book of the Covenant (20:22–23:33) is now ingested. One box
+was checked; the covenant ratified in blood (24:1–18) is next.
+
+The passage page holds the discussion: the angel sent ahead, to be heard as God's voice, who *"will
+not pardon"* and carries God's name *"in him"* (*bəqirbô*); the choice between masters in the
+book's verb *ʿābad* (23:24, 25, 33); bodily blessings promised to serving Yahweh; a conquest
+attributed to God's terror, confusion, and the hornet, deliberately *"little by little"*; the border
+from the Red Sea to the River; and the peoples' gods as *"a snare"*. The angel's identity is left
+open, as [[The Angel of Yahweh]] already does. The tension between Exodus 23:29–30 (a gradual
+conquest planned for the land's sake) and Judges 2:1–3 (peoples left because of disobedience) is set
+out, not resolved, in [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
+### Contradictions found and corrected
+
+Three earlier claims did not match the text checked in this pass. Each is corrected where it stood,
+with a dated note on the page:
+
+- **Root *ḥ-t-t*.** [[Return to Bethel; the Deaths of Rachel and Isaac]] and [[The Fear of God]] said
+  that Exodus 23:27, Deuteronomy 11:25 and Joshua 2:9 share the root of *ḥittat ʾĕlōhîm* (Genesis
+  35:5). Checked in MAM: Exodus 23:27 has *ʾêmâ*, Deuteronomy 11:25 *paḥad* and *môrāʾ*, and Joshua
+  2:9 *ʾêmâ* and *mûg*. The link is now described as thematic, not lexical.
+- **Exodus 23:31's wording.** [[The Euphrates]] said Genesis 15:18's *"From the river of Egypt to the
+  great river"* recurs at Exodus 23:31. The WEB of 23:31 reads *"from the Red Sea even to the sea of
+  the Philistines, and from the wilderness to the River"*. Revised to *"in varying wording"*. The
+  same sentence's Deuteronomy 1:7, 11:24 and Joshua 1:4 were not rechecked.
+- **Asherah in 23:24.** [[The Pillar Jacob Raised and the Pillars the Law Forbids]] put an
+  *ʾăšērâ* beside the pillars of Exodus 23:24 as well as 34:13. The MAM text of 23:24 names only the
+  pillars; 34:13 (WEB) has the Asherah poles.
+
+### Decisions and sources
+
+- No person page was created for the six peoples of 23:23. They are peoples, not individuals, and
+  are treated under [[The Nations]] and [[Canaan]]. No place page for *"the wilderness"* (23:31),
+  which is a direction here, not a named site.
+- *"The River"* (23:31) is linked to [[The Euphrates]] with an explicit note that the verse does not
+  name it.
+- Forward references that had marked Exodus 23:20–33 *not yet ingested* now link the passage:
+  [[Bitter Water at Marah]], [[The Crossing of the Sea]], [[Locusts and Darkness]], [[Healing]],
+  [[Law and Obedience]], [[The Angel of Yahweh]], [[A Wife for Isaac]], and
+  [[Justice, Sabbaths, and Feasts]]. References to Exodus 32–34 keep their *not yet ingested* mark.
+- All fourteen passage verses were generated mechanically from `raw/bible/Exodus.md`. Local WEB
+  comparisons were read in Genesis 4:13; 15:18–21; 24:7, 40; Exodus 3:8; 10:7; 14:19, 24; 15:26;
+  17:7; 20:23; 32:34; 33:2–3, 14–15; 34:9, 11–16.
+- Fetched individually from bible-api.com with `translation=web` on 2026-10-23: Deuteronomy 7:1–5,
+  20–24; Joshua 23:13; 24:11–13; Judges 2:1–3; Numbers 33:55; Malachi 3:1; Mark 1:2–3. These later
+  units remain un-ingested.
+- **Hebrew** checked in the *Miqra according to the Masorah* edition through the Sefaria API on
+  2026-10-23: Exodus 17:7; 23:20–33; 33:2–3; 34:9, 12; Genesis 4:13; 24:7; 35:5; Deuteronomy 11:25;
+  Joshua 2:9; Malachi 3:1. **Septuagint** in Rahlfs 1935 (`eliranwong/LXX-Rahlfs-1935`): Exodus
+  23:20 and Malachi 3:1. **Greek NT** in the SBLGNT (MorphGNT): Mark 1:2. The SBLGNT's *"in Isaiah
+  the prophet"* against the WEB's *"in the prophets"* is recorded as a textual variant, not settled.
+  Readings of the hornet are reported as options and not checked against a named commentary.
+  No raw file was added or changed.
+
+### Pages created or revised
+
+- **Created (4):** the passage and three connections:
+  [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]],
+  [[I Send My Messenger Before Your Face - Exodus 23, Malachi 3, and Mark 1]], and
+  [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+- **Existing content pages revised (36):** [[Exodus]]; four people ([[God]], [[Moses]],
+  [[The Angel of Yahweh]], [[Abraham]]); five places ([[Canaan]], [[The Red Sea]],
+  [[The Land of the Philistines]], [[The Euphrates]], [[Horeb]]); sixteen themes
+  ([[The Names of God]], [[Mediation and Advocacy]], [[Law and Obedience]], [[Forgiveness]],
+  [[Idolatry]], [[Covenant]], [[Blessing]], [[Healing]], [[Barrenness]], [[The Fear of God]],
+  [[War]], [[Land and Sojourning]], [[The Nations]], [[Slavery and Servitude]], [[Providence]],
+  [[Sin]]); four connections ([[From the River of Egypt to the Euphrates]],
+  [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]],
+  [[The Pillar Jacob Raised and the Pillars the Law Forbids]],
+  [[I Will Be With You - The Promise of Presence]]); and six passages ([[Bitter Water at Marah]],
+  [[The Crossing of the Sea]], [[Locusts and Darkness]], [[Justice, Sabbaths, and Feasts]],
+  [[A Wife for Isaac]], [[Return to Bethel; the Deaths of Rachel and Isaac]]).
+- **Bookkeeping revised (11):** the book and top-level indexes; people A–E and F–M; places; themes;
+  connection subindexes A–C, I–N, O–S, and T–Z; and this log. Connection subindex sizes are 59, 76,
+  68, 60, and 83; no range change.
+- **Totals by frontmatter type:** 123 passages, 169 people, 90 places, 80 themes, 346 connections;
+  3 books started, 2 complete. No passage title collision was found.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
+are the expected baseline. No schema, skill, harness, or controller files were changed.

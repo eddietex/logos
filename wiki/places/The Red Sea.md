@@ -40,6 +40,10 @@ like a stone"* (15:5); *"The deeps were congealed in the heart of the sea"* (15:
 plural of the *təhôm* of Genesis 1:2**; *məṣôlōt* occurs only here in the Torah (WLC lemma search). See
 [[The Song of the Sea]].
 
+**At 23:31 the sea becomes a border.** *"I will set your border from the Red Sea (yam-sûp) even to
+the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now the first line of the
+land promised beyond it. See [[The Angel Sent Ahead]].
+
 ## Appears in
 
 - [[Locusts and Darkness]] — Exodus 10:19; **first named**, as the place where the west wind drives
@@ -52,6 +56,7 @@ plural of the *təhôm* of Genesis 1:2**; *məṣôlōt* occurs only here in the
 - [[The Song of the Sea]] — Exodus 15:4–10, 19; **sung.** *"His chosen captains are sunk in the Red Sea"*; *"The floods stood
   upright as a heap"*; *"They sank like lead in the mighty waters"*
 - [[Bitter Water at Marah]] — Exodus 15:22; **left behind.** *"Moses led Israel onward from the Red Sea"*
+- [[The Angel Sent Ahead]] — Exodus 23:31; the southern limit of the promised border
 
 ## Related places
 
@@ -69,3 +74,4 @@ plural of the *təhôm* of Genesis 1:2**; *məṣôlōt* occurs only here in the
 - Sung by Moses and Israel, and by Miriam — Exodus 15:1–21
 - Israel sets out from it into the wilderness of Shur — Exodus 15:22, [[Bitter Water at Marah]]
 - *Ahead*: Numbers 33:10 has Israel camp *"by the Red Sea"* again after Elim
+- Named as the first limit of Israel's border — Exodus 23:31, [[The Angel Sent Ahead]]

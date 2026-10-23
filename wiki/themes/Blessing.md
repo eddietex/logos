@@ -163,6 +163,14 @@ place of God's name and the sacrifices offered there**, not to wealth, birth ord
 word. Deuteronomy 15:14, 18 will later tie a master's blessing to the provision he gives a released
 servant (WEB, bible-api.com). See [[The Altar and the Hebrew Slave]].
 
+### Bread, water, health, children, and days — Exodus 23:20–33
+
+The blessing attached to serving Yahweh is bodily and domestic: *"he will bless your bread and your
+water, and I will take sickness away from among you. No one will miscarry or be barren in your land.
+I will fulfill the number of your days"* (23:25–26). It is promised to obedience, against the
+alternative of serving the peoples' gods (23:24, 33). Job 21:10 later sees these blessings enjoyed by
+the wicked; see [[Why Do the Wicked Live]] and [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[The Creation of the World]]
@@ -387,6 +395,7 @@ servant (WEB, bible-api.com). See [[The Altar and the Hebrew Slave]].
   commanded conduct
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; God promises to come and bless where he records
   his name
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; bread, water, health, fertility, and full days for those who serve Yahweh.
 
 ## Related themes
 

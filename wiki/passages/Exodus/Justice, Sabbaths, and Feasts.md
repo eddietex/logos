@@ -154,7 +154,7 @@ commands for Israel's life and worship, not a report that the people have alread
 
 The planned boundary is retained. Verses 1–9 concern justice and assistance, 10–12 order work and
 rest, and 13–19 join exclusive worship to the calendar and offerings. Verse 20 begins the promise of
-the angel sent ahead, reserved for the next pericope. The present unit has several subjects, but
+the angel sent ahead, ingested as [[The Angel Sent Ahead]]. The present unit has several subjects, but
 keeps the practical ordinances together before that change of address.
 
 ### Justice for the poor without a purchased verdict

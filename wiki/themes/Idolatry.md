@@ -107,6 +107,14 @@ calendar to exclusive allegiance rather than treating harvest as an occasion for
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The peoples' gods as the snare — Exodus 23:20–33
+
+The Book of the Covenant opens with no gods of silver or gold (20:23), and closes on the gods of the
+land's peoples. Israel must not bow to them or serve them, must demolish their pillars, may make no
+covenant with them or their gods, and may not let the peoples live in the land, *"for if you serve
+their gods, it will surely be a snare to you"* (23:24, 32–33). The stated danger is religious. See
+[[The Angel Sent Ahead]] and [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; other gods not invoked.
@@ -149,6 +157,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–23; no gods of silver or gold alongside Yahweh,
   argued from the voice heard from heaven
 - [[Laws of Holiness and Compassion]] — Exodus 22:18, 20; sorcery and sacrifice to other gods made capital
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a snare; pillars demolished.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

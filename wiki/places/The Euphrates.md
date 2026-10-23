@@ -32,8 +32,8 @@ and Iraq, joins the Tigris, and empties into the Persian Gulf. Between the two r
 [[Haran (city)]] all sit, which is to say that every place Abram's family came from lies on or
 beyond it.
 
-**The boundary it marks is a claim Israel almost never holds.** *"From the river of Egypt to the
-great river"* recurs at Exodus 23:31, Deuteronomy 1:7 and 11:24, and Joshua 1:4; the only period in
+**The boundary it marks is a claim Israel almost never holds.** A border reaching to the Euphrates
+recurs, in varying wording, at Exodus 23:31, Deuteronomy 1:7 and 11:24, and Joshua 1:4; the only period in
 which anything like it is real is Solomon's, *"and he ruled over all the kings from the River even
 to the land of the Philistines, and to the border of Egypt"* (1 Kings 4:21, 24; 2 Chronicles 9:26),
 and briefly under David's Aramean campaigns (2 Samuel 8:3). Josiah dies trying to stop Neco at
@@ -49,6 +49,18 @@ and Revelation dries it up twice — at the sixth trumpet, releasing the angels 
 and at the sixth bowl, *"that the way might be prepared for the kings that come from the sunrise"*
 (16:12). It is the last frontier the Bible names.
 
+**Correction (2026-10-23).** This page previously said that Genesis 15:18's *"From the river of
+Egypt to the great river"* recurs at Exodus 23:31. The WEB of 23:31 (`raw/bible/Exodus.md`) reads
+*"from the Red Sea even to the sea of the Philistines, and from the wilderness to the River"*: the
+same reach to the Euphrates, in different wording and with different southern and western limits.
+The sentence above now says *in varying wording*. The wording of Deuteronomy 1:7, 11:24 and Joshua
+1:4 was not rechecked in this pass.
+
+**Exodus 23:31 calls it only *"the River"***, *hannāhār* (MAM), from *"the wilderness to the
+River"*. The verse does not name it; the identification with the Euphrates follows the full form of
+Genesis 15:18 and the usual use of the definite *the River*. See [[The Angel Sent Ahead]] and
+[[From the River of Egypt to the Euphrates]].
+
 ## Appears in
 
 - [[The Garden of Eden]] — Genesis 2:14; the fourth river out of Eden, named
@@ -61,6 +73,7 @@ and at the sixth bowl, *"that the way might be prepared for the kings that come 
   geography does not work as a week**: the crossing and the arrival in [[Gilead]] are some four
   hundred miles apart, with a three-day head start and a seven-day pursuit. The wiki states the
   difficulty and does not resolve it
+- [[The Angel Sent Ahead]] — Exodus 23:31; *"the River"*, the far limit of the promised border
 
 ## Related places
 

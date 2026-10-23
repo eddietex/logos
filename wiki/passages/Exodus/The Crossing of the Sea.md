@@ -418,7 +418,8 @@ subject.** At 13:21 Yahweh went before them in the pillar; here the angel goes b
 pillar moves behind them in a separate clause** (WLC). **The text names three things going before Israel —
 Yahweh, the angel of God, the pillar — and does not say how they relate.** It is the identity problem of
 the angel at its sharpest: see [[The Angel of Yahweh]], which reports the readings and adopts none. The
-angel sent before Israel is promised again at 23:20, 32:34, and 33:2 (*not yet ingested*).
+angel sent before Israel is promised again at 23:20 ([[The Angel Sent Ahead]]), 32:34, and 33:2 (*not
+yet ingested*).
 
 ***"The camp of Egypt and the camp of Israel"*** — ***maḥănēh***. **The word of Jacob's *"This is God's
 army"* at Mahanaim, *"two camps"*** (Genesis 32:2, 7–10, English; WLC). See [[Mahanaim]].
@@ -492,7 +493,8 @@ and the fire for night; at the turn of night to morning the narrator names both.
 
 ***"Confused the Egyptian army"*** — ***wayyāhom***, from ***hāmam***, *throw into panic*. In the Torah: here;
 the promise *"I will send my terror before you, and will confuse (wəhammōtî) all the people"* (23:27); and
-Deuteronomy 2:15; 7:23 (WLC lemma search; *not yet ingested*). **It is the verb of holy war, and this is its
+Deuteronomy 2:15; 7:23 (WLC lemma search; Exodus 23 in [[The Angel Sent Ahead]], Deuteronomy *not yet
+ingested*). **It is the verb of holy war, and this is its
 first use.**
 
 ***"He took off their chariot wheels"*** — ***wayyāsar ʾēt ʾōpan markəbōtāyw***. **The verb is *sûr* in the
@@ -665,7 +667,8 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
   [[The Death of the Firstborn and the Departure]]
 - Exodus 15:1–21 — the Song of the Sea — [[The Song of the Sea]]
 - Exodus 19:9 — *"may also believe you forever"* *(not yet ingested)*
-- Exodus 23:20, 27; 32:34; 33:2 — the angel sent before; *"I will confuse"* *(not yet ingested)*
+- Exodus 23:20, 27; 32:34; 33:2 — the angel sent before; *"I will confuse"* — [[The Angel Sent Ahead]]
+  (32:34 and 33:2 *not yet ingested*)
 - Numbers 15:30; 33:3, 6–8 — *"with a high hand"*; the itinerary *(not yet ingested)*
 - Deuteronomy 1:30; 3:22; 20:4 — *"he will fight for you"* *(not yet ingested)*
 - Deuteronomy 11:4 — *"he made the water of the Red Sea to overflow them as they pursued you"* *(not yet

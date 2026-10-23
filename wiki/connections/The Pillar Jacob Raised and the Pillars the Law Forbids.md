@@ -15,7 +15,7 @@ tags: [connection]
   one over Rachel's grave, **the only one he sets over a person**, which the narrator says stands
   *"to this day"* — [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Exodus 24:4 — Moses builds an altar and **twelve pillars** at Sinai
-- Exodus 23:24; 34:13; Deuteronomy 7:5; 12:3 — smash the Canaanite pillars
+- Exodus 23:24; 34:13; Deuteronomy 7:5; 12:3 — smash the Canaanite pillars — [[The Angel Sent Ahead]]
 - Leviticus 26:1 — *"you shall not rear up for yourselves … a standing stone"*
 - Deuteronomy 16:21–22 — *"neither shall you set yourself up a pillar, which Yahweh your God hates"*
 - Joshua 4:1–9 — twelve stones out of the Jordan
@@ -46,8 +46,10 @@ identical.
 ### The readings, and what each one costs
 
 **1. The prohibition is about Canaanite cult objects, not about stones.** In Exodus 23:24 and 34:13
-the pillars to be smashed are always *theirs*, standing beside an ***ʾăšērâ*** — a wooden pole or
-tree associated with a goddess — and Deuteronomy 16:21–22 pairs the two in a single prohibition,
+the pillars to be smashed are always *theirs*, and at 34:13 they stand beside an ***ʾăšērâ*** — a
+wooden pole or tree associated with a goddess. (Corrected 2026-10-23: this sentence previously put
+the *ʾăšērâ* in 23:24 as well. The MAM text of 23:24 names only *maṣṣēbōtêhem*, *their pillars*; see
+[[The Angel Sent Ahead]].) Deuteronomy 16:21–22 pairs the two in a single prohibition,
 which suggests the target is a package rather than a shape. **On this reading Jacob's stone is not
 what the law bans**, and Deuteronomy's *"for yourselves"* is doing the work. **The cost:**
 Deuteronomy 16:22 says the pillar itself is *hated*, without qualification, and Leviticus 26:1 lists

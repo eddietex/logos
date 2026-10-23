@@ -192,6 +192,13 @@ prove that the community already follows the calendar.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### No rival covenant — Exodus 23:20–33
+
+*"You shall make no covenant with them, nor with their gods"* (23:32; *bərît*, MAM). Israel, which
+is about to enter covenant with God (24:7–8; next pericope), is forbidden a second covenant with the
+land's peoples. Exodus 34:12–16 will repeat the prohibition and give marriage and shared sacrifice as
+its danger (*not yet ingested*). See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; obligations through the whole year.
@@ -384,6 +391,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; neighbors holding, lending, and stealing one another's goods
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the covenant people's obligations to the vulnerable, and holiness
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; no covenant with the peoples or their gods.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

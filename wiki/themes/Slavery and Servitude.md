@@ -150,6 +150,13 @@ the same law; neither should be erased from the synthesis.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### Serve them, or serve Yahweh — Exodus 23:20–33
+
+The book's master verb *ʿābad* appears three times in ten verses: *"nor serve them"* (23:24), *"You
+shall serve Yahweh your God"* (23:25), and *"if you serve their gods"* (23:33; all MAM). At the edge
+of the land, the danger is not a return to Egypt's service but a new master. Service to Yahweh is
+paired with blessing; service to the peoples' gods with a snare. See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the servant’s son refreshed.
@@ -388,6 +395,7 @@ See [[Justice, Sabbaths, and Feasts]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:3; a thief who cannot pay is sold for his theft
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; *ʿābad* three times: the peoples' gods or Yahweh.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

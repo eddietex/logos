@@ -17,7 +17,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
 | [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] | parallel | Exodus 20:1–21 · Deuteronomy 5:1–33 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
-| [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 |
+| [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 · Exodus 23:27 |
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
 | [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |

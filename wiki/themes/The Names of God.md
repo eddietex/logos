@@ -102,6 +102,14 @@ The WLC verb *ʾazkîr* carries the lemma of *zākar*, *remember*. Deuteronomy 1
 differ, and the wiki records the difference without deciding how they relate. See
 [[The Altar and the Hebrew Slave]].
 
+### "My name is in him" — Exodus 23:20–33
+
+God says of the angel sent ahead, *"my name is in him"* — *šəmî bəqirbô*, literally *in his midst*
+(23:21; MAM). The name is treated as something that can be placed in a messenger, so that the
+messenger carries God's authority, including the authority to withhold pardon. The same Book of the
+Covenant began with God's promise to come *"in every place where I record my name"* (20:24). The
+wiki does not turn the phrase into a doctrine of the angel's nature. See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - Genesis 1:1; 2:4 — *ʾĕlōhîm*, and *Yahweh ʾĕlōhîm*
@@ -292,6 +300,7 @@ differ, and the wiki records the difference without deciding how they relate. Se
 
 - [[The Ten Commandments]] — Exodus 20:2, 7; the known divine name must not be taken in vain
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; *"every place where I record my name"*
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the name placed *"in"* the angel sent ahead.
 
 ## Related themes
 

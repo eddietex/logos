@@ -255,8 +255,28 @@ day in a pillar of cloud"*** (13:21; WLC). **So the text gives the same going-be
 (13:21), to the angel (14:19a), and to the pillar (14:19b), and in the morning watch it is *Yahweh* who
 looks out *"through the pillar of fire and of cloud"* (14:24).** It is the alternation of the table above in
 a new form: not a messenger who speaks as God, but a messenger who moves where God moves. **The wiki reports
-it and adopts none of the three readings.** The promise of an angel sent *"before you"* comes at 23:20 (WEB,
-`raw/bible/Exodus.md`) and recurs at 32:34 and 33:2 (*not yet ingested*). See [[The Crossing of the Sea]].
+it and adopts none of the three readings.** The promise of an angel sent *"before you"* comes at 23:20
+([[The Angel Sent Ahead]]) and recurs at 32:34 and 33:2 (*not yet ingested*). See [[The Crossing of the Sea]].
+
+### In this pericope — Exodus 23:20–33
+
+**Promised, not seen, and given the strongest description in the Torah.** *"Behold, I send an angel
+before you, to keep you by the way"* (23:20). The verb *šāmar* is used twice in two verses: he is
+sent *lišmorkā*, *to keep you*, and Israel is told *hiššāmer mippānāyw*, *guard yourself before him*
+(WEB *"Pay attention to him"*, 23:21; MAM). Three features:
+
+- **He is to be obeyed as God's voice.** *"Listen to his voice"* is followed at once by *"and do all
+  that I speak"* (23:21–22). The speaker moves from the angel's voice to his own without a seam.
+- **He does not pardon.** *"He will not pardon your disobedience"* — *lōʾ yiśśāʾ ləpišʿăkem* (MAM).
+  Lifting or bearing a transgression is normally God's act.
+- **God's name is in him** — *šəmî bəqirbô*, literally *in his midst* (MAM).
+
+These verses are the strongest single support in the Torah for readings 2 and 3 of the table above.
+The plain *"I send an angel"* (sender distinct from sent) is still the first reading's ground. **The
+wiki records both and adopts none.** The same *qereb* returns after the calf, when God offers an
+angel *before you* but says *"I will not go up among you"* (33:2–3; MAM; *not yet ingested*). See
+[[The Angel Sent Ahead]], [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]], and
+[[I Send My Messenger Before Your Face - Exodus 23, Malachi 3, and Mark 1]].
 
 ## Timeline / key events
 
@@ -283,7 +303,8 @@ it and adopts none of the three readings.** The promise of an angel sent *"befor
 - Appears in a flame in a bush and is then called *Yahweh* and *God* — Exodus 3:2–6, [[The Burning Bush]]
 - As *"the angel of God, who went before the camp of Israel"*, moves behind it with the pillar of cloud,
   between the camps of Egypt and Israel — Exodus 14:19–20, [[The Crossing of the Sea]]
-- Goes before Israel in the wilderness, with the warning *"my name is in him"* — Exodus 23:20–23
+- Promised to go before Israel to the land, with the warning *"my name is in him"* — Exodus
+  23:20–23, [[The Angel Sent Ahead]]
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
 - Sits under the oak at Ophrah and commissions Gideon — Judges 6:11–24
 - Announces Samson's birth to a woman who is barren, and refuses to give his name — Judges 13:3–22
@@ -343,6 +364,9 @@ it and adopts none of the three readings.** The promise of an angel sent *"befor
   his face *"for he was afraid to look at God"*. Stephen's retelling keeps the angel (Acts 7:30, 35)
 - [[The Crossing of the Sea]] — Exodus 14:19; **the going-before shared with Yahweh and the pillar.** *"The
   angel of God, who went before the camp of Israel, moved and went behind them"*
+- [[The Angel Sent Ahead]] — Exodus 23:20–23; **promised, not seen.** Sent *"to keep you by the
+  way"*, to be heard as God's voice, one who *"will not pardon"*, carrying God's name *"in
+  him"*
 
 ## Related people
 

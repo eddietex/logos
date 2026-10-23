@@ -86,6 +86,14 @@ destination. The command therefore imagines a settled future while Israel is sti
 a contextual identification, not a claim that the verse supplies the place name. See
 [[The Ten Commandments]].
 
+**At the end of the Book of the Covenant, the land is *"the place which I have prepared"*** (Exodus
+23:20) and *"your land"* (23:26, 33), still described by its peoples rather than named: the Amorite,
+Hittite, Perizzite, Canaanite, Hivite, and Jebusite (23:23). It is to be taken *"little by little"*,
+lest it *"become desolate"* (23:29–30), and given a border from the Red Sea to the sea of the
+Philistines and from the wilderness to the River (23:31). The danger named is not its inhabitants'
+strength but their gods (23:24, 33). See [[The Angel Sent Ahead]] and
+[[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:15–19: eleven peoples and the only border in the chapter
@@ -244,6 +252,8 @@ a contextual identification, not a claim that the verse supplies the place name.
 
 - [[The Ten Commandments]] — Exodus 20:12; the promised land is the contextual future setting of the
   long-life promise
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the prepared place, its six peoples, its border, and
+  a gradual dispossession
 
 ## Related places
 
@@ -308,3 +318,5 @@ a contextual identification, not a claim that the verse supplies the place name.
 - Its inhabitants sung as melting away, still *"as a stone"* until Israel passes — Exodus 15:15–16,
   [[The Song of the Sea]]
 - Named as the end of the manna, forty years ahead — Exodus 16:35, [[Manna and Quail]]
+- Promised as the place prepared, to be entered behind an angel and taken little by little —
+  Exodus 23:20–33, [[The Angel Sent Ahead]]

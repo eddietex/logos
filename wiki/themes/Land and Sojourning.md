@@ -114,6 +114,15 @@ fields, vineyards, and olive groves, with food left for the poor and animals in 
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The prepared place and its border — Exodus 23:20–33
+
+The land is *"the place which I have prepared"* (23:20), *"your land"* (23:26, 33). It receives its
+second border in the Torah, from the Red Sea to the sea of the Philistines and from the wilderness to
+the River (23:31), and a stated pace of entry: *"Little by little I will drive them out from before
+you, until you have increased and inherit the land"* (23:30). The land is to be protected from
+becoming desolate even as it changes hands (23:29). See [[The Angel Sent Ahead]] and
+[[From the River of Egypt to the Euphrates]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; knowing the alien and letting the land rest.
@@ -379,6 +388,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Ten Commandments]] — Exodus 20:10, 12; rest includes the stranger; the parental command
   anticipates life in the given land
 - [[Laws of Holiness and Compassion]] — Exodus 22:21; the alien protected because Israel was an alien in Egypt
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the prepared place, its border, and its gradual inheritance.
 
 ## Related themes
 

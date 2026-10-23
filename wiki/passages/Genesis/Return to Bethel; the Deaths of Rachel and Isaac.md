@@ -118,9 +118,12 @@ covenant stone under it (Joshua 24:26). See [[The Trees of the Patriarchs]] and
 > him, when he fled from the face of his brother.
 
 ***"A terror of God."*** ***Ḥittat ʾĕlōhîm*** — **the phrase occurs nowhere else in the Bible**, and
-the root *ḥ-t-t* is the one the conquest texts run on: *"I will send my terror before you"* (Exodus
-23:27), *"the dread of you and the fear of you"* (Deuteronomy 11:25), *"all the inhabitants of the
-land melt away before you"* (Joshua 2:9). **Here it is spent on a single family in flight from a town
+the idea is the one the conquest texts run on: *"I will send my terror before you"* (Exodus 23:27),
+*"the dread of you and the fear of you"* (Deuteronomy 11:25), *"all the inhabitants of the land melt
+away before you"* (Joshua 2:9). **Correction (2026-10-23):** this note previously said these verses
+share the root *ḥ-t-t*. Checked in MAM through Sefaria, they do not — Exodus 23:27 has *ʾêmâ*,
+Deuteronomy 11:25 *paḥad* and *môrāʾ*, and Joshua 2:9 *ʾêmâ* and *mûg*. The link is thematic, not
+lexical. See [[The Angel Sent Ahead]]. **Here it is spent on a single family in flight from a town
 its own sons have just sacked.** Nobody asks for it, nobody is told about it, and Genesis reports it
 in a subordinate clause. **It is the exact answer to 34:30**, and [[Jacob]] is never shown learning
 that it happened. See [[The Fear of God]].

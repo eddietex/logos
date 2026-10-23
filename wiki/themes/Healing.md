@@ -37,7 +37,7 @@ physicians"*, *hārōpəʾîm*, who embalm Jacob in Egypt** (50:2; WLC lemma sea
 diseases away.** The contrast is the wiki's; the form is the text's. **The occasion is water, and the
 setting is the first statute and the first test** (15:25). The other Torah promise against *maḥălâ*,
 *sickness*, joins the same two things: *"he will bless your bread and your water, and I will take sickness
-away from among you"* (23:25; WLC; *not yet ingested*). **Later piety turned *Yahweh rōpəʾekā* into a title,
+away from among you"* (23:25; WLC; [[The Angel Sent Ahead]]). **Later piety turned *Yahweh rōpəʾekā* into a title,
 *Yahweh Rophe*** (reported, not checked in this pass). See [[Bitter Water at Marah]].
 
 **Ahead in the Torah** (*not yet ingested*): the priest's
@@ -61,6 +61,14 @@ Healing is now an obligation one human owes another, alongside the earlier accou
 The verse does not prescribe a medical technique or make payment a substitute for recovery.
 See [[Laws of Violence and Injury]].
 
+### Sickness taken away — Exodus 23:20–33
+
+*"I will take sickness away from among you"* (23:25). *Maḥălâ*, *sickness*, and *miqqirbekā*, *from
+your midst* (MAM), sit in the same verse as the blessing of bread and water — the pair Marah joined
+to God as healer (15:25–26). The promise is now attached to serving Yahweh rather than other gods,
+and is followed at once by the end of miscarriage and barrenness (23:26). See
+[[The Angel Sent Ahead]] and [[Bitter Water at Marah]].
+
 ## Key passages
 
 - [[Abraham and Abimelech]] — Genesis 20:17; **the first *rāpāʾ*.** God heals a foreign household after
@@ -68,7 +76,7 @@ See [[Laws of Violence and Injury]].
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:2; **Egypt's *rōpəʾîm* embalm Jacob**
 - [[Bitter Water at Marah]] — Exodus 15:25–26; **the name.** The water made sweet; *"I will put none of the
   diseases on you, which I have put on the Egyptians; for I am Yahweh who heals you"*
-- **Exodus 23:25** — *"I will take sickness away from among you"* *(not yet ingested)*
+- **Exodus 23:25** — *"I will take sickness away from among you"* — [[The Angel Sent Ahead]]
 - **Numbers 12:13** — *"Heal her, God, I beg you!"* *(not yet ingested)*
 - **Deuteronomy 28:60; 32:39** — the diseases of Egypt brought back; *"I wound and I heal"* *(not yet
   ingested)*
@@ -76,6 +84,7 @@ See [[Laws of Violence and Injury]].
   *(not yet ingested)*
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will take sickness away from among you"*.
 
 ## Related themes
 

@@ -90,6 +90,10 @@ God"* in 22:8 does not identify a location. See [[Laws of Property and Restituti
 is not named in this unit. The fields and Yahweh's house anticipated in the commands are not
 identified as features of this mountain camp. See [[Justice, Sabbaths, and Feasts]].
 
+**The Book of the Covenant ends at the mountain with a promise about leaving it** (23:20–33). The
+angel will bring Israel from here to *"the place which I have prepared"*. The mountain is not named in
+the unit. See [[The Angel Sent Ahead]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -119,6 +123,7 @@ identified as features of this mountain camp. See [[Justice, Sabbaths, and Feast
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; setting by context, with no named place in the unit
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; setting by context, with no named place in the unit
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; setting by context, with no named place in the unit
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; Sinai as the setting of the closing promise
 
 ## Related places
 
@@ -147,3 +152,5 @@ identified as features of this mountain camp. See [[Justice, Sabbaths, and Feast
 - [[Laws of Violence and Injury]] — the ordinances on violence, injury, and negligence (21:12–36)
 - [[Laws of Property and Restitution]] — the ordinances on theft, deposit, and restitution (22:1–15)
 - [[Laws of Holiness and Compassion]] — the ordinances on the vulnerable, the firstborn, and holiness (22:16–31)
+- The promise of the angel sent ahead ends the Book of the Covenant — Exodus 23:20–33,
+  [[The Angel Sent Ahead]]

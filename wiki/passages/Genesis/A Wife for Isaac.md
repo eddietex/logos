@@ -539,7 +539,8 @@ interpret. **Genesis 24 is where the book learns to do that.**
 - Genesis 50:20 — the Joseph cycle's summary of the theology this chapter invented: events narrated
   without divine comment and interpreted by their participants.
 - Exodus 23:20; 32:34; 33:2 — *"I send an angel before you"*, said by God to a nation, after Abraham
-  says it about a servant at 24:7.
+  says it about a servant at 24:7: [[The Angel Sent Ahead]] and
+  [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 - Exodus 34:6 — *"abundant in loving kindness and truth"*: *ḥesed we-ʾemet*, the pair the servant uses
   at 24:27 and 24:49, made a definition of God.
 - Judges 6:36–40; 1 Samuel 14:8–10 — the other proposed signs, and the form the servant's prayer

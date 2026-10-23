@@ -139,6 +139,15 @@ human one innocent.** *"You meant evil"* stands. See
 - **Acts 2:23** applies 50:20's double intention to the crucifixion — *"delivered up by the determined
   counsel and foreknowledge of God, you have crucified"* — **and Romans 8:28 states it as a rule.**
 
+### Little by little — Exodus 23:20–33
+
+God promises a deliberately slow conquest: *"I will not drive them out from before you in one year,
+lest the land become desolate, and the animals of the field multiply against you. Little by little I
+will drive them out"* (23:29–30). The delay is presented as care for the land and for Israel's ability
+to fill it. Judges 2:1–3 later gives a different reason for peoples who remain: disobedience. The
+wiki records both and does not merge them. See [[The Angel Sent Ahead]] and
+[[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
 ## Key passages
 
 - [[The Wager in Heaven and the Four Messengers]] — ***"Yahweh gave, and Yahweh has taken away"***
@@ -262,6 +271,7 @@ human one innocent.** *"You meant evil"* stands. See
 - [[Water from the Rock]] — Exodus 17:1–6; **led to the lack.** The camp without water is reached *"according
   to Yahweh's commandment"* (*ʿal-pî YHWH*); the provision comes from the least likely source, a rock, and from
   the place God says he will stand. Psalm 78:15–20 and 114:8 sing it as power over nature
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; a conquest paced for the land's sake.
 
 ## Related themes
 

@@ -76,8 +76,8 @@ refusal verb of Pharaoh** (*māʾēn*, 10:3). **The law in question is the Sabba
 not yet written (16:23). See [[Manna and Quail]] and
 [[Because Abraham Obeyed My Voice - Law Before Sinai]].
 
-**Ahead** (*not yet ingested*): the Book of the Covenant (20:22–23:33), whose *mišpāṭîm* begin at
-21:1; the tablets *"that you may teach them"* (24:12, *yārâ* again); and Deuteronomy's *"statutes and
+**Ahead** (written before Sinai was ingested): the Book of the Covenant (20:22–23:33), whose
+*mišpāṭîm* begin at 21:1 and which is now ingested through [[The Angel Sent Ahead]]; the tablets *"that you may teach them"* (24:12, *yārâ* again); and Deuteronomy's *"statutes and
 ordinances"*, its refrain (4:1, 5; 5:1).
 
 ### The commandments at Sinai — Exodus 20:1–21
@@ -130,6 +130,15 @@ just verdict.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The law ends in a promise with a condition — Exodus 23:20–33
+
+The Book of the Covenant closes with *"if you indeed listen to his voice, and do all that I speak,
+then I will be an enemy to your enemies"* (23:22). The construction *šāmōaʿ tišmaʿ bəqōlô*, *if you
+indeed listen to his voice* (MAM), is the one already used at Marah (15:26) and in the covenant offer
+(19:5). The promised outcomes — protection, blessing, health, and land — follow from listening, and
+the danger named is serving other gods (23:24–25, 33). The whole Book of the Covenant, 20:22–23:33,
+is now ingested. See [[The Angel Sent Ahead]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; one address for court, field, and feast.
@@ -159,6 +168,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; the eighth commandment given cases and remedies
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; casuistic law gives way to absolute sentences and God's own voice
+- [[The Angel Sent Ahead]] — Exodus 23:20–33; the Book of the Covenant's closing condition: *"if you indeed listen"*.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

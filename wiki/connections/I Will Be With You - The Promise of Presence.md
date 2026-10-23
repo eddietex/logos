@@ -14,6 +14,7 @@ tags: [connection]
   [[Joseph in Potiphar's House]]
 - Exodus 3:12 — to Moses at the bush
 - Exodus 17:7 — the promise doubted: *"Is Yahweh among us, or not?"* — [[Water from the Rock]]
+- Exodus 23:20–23 — an angel sent ahead, with God's name *"in him"* — [[The Angel Sent Ahead]]
 - Joshua 1:5, 9 — *"I will not fail you, nor forsake you"*
 - Judges 6:12, 16 — to Gideon in a winepress
 - Isaiah 41:10; 43:2 — to the exiles
@@ -97,6 +98,15 @@ love of money, content with such things as you have, for he has said, 'I will in
 neither will I in any way forsake you'"* (13:5). **The presence formula as an argument against
 anxiety about possessions** — which lands unexpectedly close to Jacob, whose whole answer to it was
 to ask for bread and clothing.
+
+### "Among us" at Sinai
+
+**Exodus asks the presence question with one word, *qereb*, *midst*.** *"Is Yahweh among us
+(bəqirbēnû)?"* (17:7); *"my name is in him (bəqirbô)"* of the angel sent ahead (23:21); *"I will not go
+up among you (bəqirbəkā)"* after the calf (33:3); and Moses' *"please let the Lord go among us
+(bəqirbēnû)"* (34:9; all MAM; 33–34 *not yet ingested*). The angel is God's answer to the first
+question, and Moses' refusal of the angel alone is the book's final form of it. See
+[[The Angel Sent Ahead]] and [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
 ## Significance
 
