@@ -89,6 +89,9 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
 - Colossians 1:16, Hebrews 1:2 — creation *through* the Son.
 - Revelation 21:1 — "a new heaven and a new earth", the phrase of 1:1 reused for the end.
 
+- [[The Ten Commandments]] — Exodus 20:8–11 makes the creation pattern the ground of a
+  household-wide obligation to rest.
+
 ## Notes
 
 - **"In the beginning"** (Hebrew *bərē'šît*) can be read as an absolute statement ("In the

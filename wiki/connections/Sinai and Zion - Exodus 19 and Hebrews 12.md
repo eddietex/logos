@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Israel at Mount Sinai]] — Exodus 19:12–24: fire, trumpet, trembling, and the forbidden boundary.
-- Exodus 20:18–21 — the people's request for Moses to speak; ahead in the queue, checked in raw.
+- [[The Ten Commandments]] — Exodus 20:18–21; the people’s request for Moses to speak.
 - Hebrews 12:18–29 — the contrast with Zion, Jesus' mediation, and the final warning; not yet
   ingested.
 
@@ -39,6 +39,14 @@ approach and serious warning together.
 
 **Sources:** Exodus 19 and 20:18–21 checked in `raw/bible/Exodus.md`; Hebrews verified 2026-10-23
 from bible-api.com's WEB, request `Hebrews 12:18-29?translation=web`. No raw Hebrews file was added.
+
+**With Exodus 20 now ingested, the request must be read with Moses' reassurance.** The people
+promise to listen to him (20:19); he explains that God has come to test them so that fear will
+prevent sin (20:20), then approaches while they stand back (20:21). Hebrews' warning against
+refusing God's speaker should not erase the source scene's distinction between requested mediation
+and disobedience. Deuteronomy 5:28 approves the request; see
+[[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]]. That comparison was verified against
+bible-api.com's WEB on 2026-10-23.
 
 ## Significance
 

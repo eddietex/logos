@@ -122,6 +122,14 @@ has been argued.
   breach rather than ritual failure; Romans 3:23, 5:12–21, 7; James 1:14–15 on desire conceiving
   and giving birth; 1 John 1:8–9, 3:4.
 
+### The commandments at Sinai — Exodus 20:17, 20
+
+The prohibition of coveting addresses desire before it becomes acquisition (20:17), and Moses gives
+the encounter's aim as preventing sin (20:20). Romans 7:7–12 later distinguishes that good command
+from the sin that exploits it to produce coveting and death. The tension between intended restraint
+and sin's contrary use belongs in [[Coveting and Love - The Commandments in Romans 7 and 13]], not
+in a claim that the law itself is sinful. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Fall]] — the first disobedience and its anatomy
@@ -282,6 +290,9 @@ has been argued.
   *ḥāṭāʾtî laYHWH ʾĕlōhêkem wəlākem … śāʾ nāʾ ḥaṭṭāʾtî ʾak happaʿam*. **It names both parties sinned
   against**, as the first (*"I have sinned this time"*, 9:27) did not, and asks forgiveness *"only this
   time"*. It is followed, like the first, by a hardening (10:20), now Yahweh's
+
+- [[The Ten Commandments]] — Exodus 20:17, 20; the commands reach desire; the encounter is intended
+  to prevent sin
 
 ## Related themes
 

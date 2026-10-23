@@ -107,6 +107,14 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   Deuteronomy 24:1–4 and the divorce debate; Hosea's marriage as prophecy; Song of Songs;
   1 Corinthians 7 on singleness; Revelation 19:7–9, the marriage supper of the Lamb.
 
+### The commandments at Sinai — Exodus 20:12, 14, 17
+
+Both father and mother are to be honored (20:12). Adultery is prohibited in its own short command
+(20:14), and coveting the neighbor's wife appears among the household prohibitions (20:17). These
+protect parental standing and the marriage bond within the social household the text assumes; they
+do not restate Genesis 2's creation account or set out a complete law of marriage. See
+[[Honor Your Father and Mother - Exodus 20 and Ephesians 6]]. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
@@ -268,6 +276,9 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
   with *šillûḥîm*, a noun the Torah uses nowhere else (WLC); **when, why, and by whom she was sent is not told**,
   and whether the root's later use for divorce (Deuteronomy 24:1) applies is a reading the wiki does not adopt.
   The greeting is between Moses and Jethro; she is given no words
+
+- [[The Ten Commandments]] — Exodus 20:12, 14, 17; parents are honored, adultery forbidden, and
+  coveting a neighbor’s wife prohibited
 
 ## Related themes
 

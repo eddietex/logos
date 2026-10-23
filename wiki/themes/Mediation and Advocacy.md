@@ -109,6 +109,15 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 - **Revelation 12:10** — *"the accuser of our brothers … who accuses them before our God day and
   night"*, thrown down. The office Job 1–2 shows in operation, ended.
 
+### The commandments at Sinai — Exodus 20:18–21
+
+The people themselves ask Moses to speak, promising to listen while fearing that direct divine
+speech will kill them (20:19). He explains the encounter and approaches the thick darkness as they
+remain far off (20:20–21). The mediator is requested by the assembly as well as commissioned by God.
+Deuteronomy 5:28 approves their request; it should not automatically be called rebellion. See
+[[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] and
+[[Sinai and Zion - Exodus 19 and Hebrews 12]]. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -307,6 +316,9 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
   hands the rest to others: the *"heavy"* mouth (4:10), *"heavy"* hands (17:12), and now the *"too heavy"* work
   (18:18), each shared — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - [[Israel at Mount Sinai]] — Exodus 19:3–25; Moses relays speech and leads the people to the encounter
+
+- [[The Ten Commandments]] — Exodus 20:18–21; the assembly requests the mediator who approaches
+  where it will not
 
 ## Related themes
 

@@ -103,6 +103,9 @@ commandments (19:9–25).
 - Exodus 18:5 — [[Jethro's Counsel]] already places the camp at the Mountain of God; its
   relationship to the arrival narrated here remains a chronological/geographical tension.
 
+- Exodus 20:1–21 — [[The Ten Commandments]]; the public speech follows the preparation, and the
+  assembly asks Moses to mediate.
+
 ## Notes
 
 ### Deliverance before this covenant demand

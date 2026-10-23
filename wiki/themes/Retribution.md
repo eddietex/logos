@@ -88,6 +88,15 @@ verdicts.
   final judgment. This is the New Testament's characteristic move: not that the accounting is
   fictional, but that it does not close here.
 
+### The commandments at Sinai — Exodus 20:5–6, 12
+
+Exodus 20:5–6 attaches judgment and loving kindness to hatred or love of God, while 20:12 associates
+honoring parents with long life in the given land. These are real sanctions and promises, but the
+passage does not authorize a diagnosis of every sufferer's personal guilt. **The tension already
+raised by Job is sharpened:** a warning of iniquity reaching children stands beside Job 21:19–21's
+demand that the wrongdoer himself pay. Ezekiel 18:19–23 further insists on the righteous son's life
+and the wicked person's possibility of turning. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Stolen Blessing]] — Genesis 27:1–45, and **the theme in the one form Genesis will actually
@@ -313,6 +322,9 @@ verdicts.
   on the slave girl *"behind the mill"*. **The text draws no measure-for-measure line itself**; the
   cry of the oppressed answered by the oppressor's cry is written into law at 22:23–24 —
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
+
+- [[The Ten Commandments]] — Exodus 20:5–6, 12; generational consequences and promised long life do
+  not yield an infallible diagnosis
 
 ## Related themes
 

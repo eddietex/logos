@@ -95,6 +95,15 @@ the promise is repeatedly mistaken for.
   the rich young ruler (Luke 12:13–21; Mark 10:17–27); *"the love of money is a root of all kinds of
   evil"* (1 Timothy 6:10).
 
+### The commandments at Sinai — Exodus 20:15, 17
+
+The prohibition of stealing protects a neighbor's possessions (20:15), while the prohibition of
+coveting reaches the desire to take over another household (20:17). House, wife, servants, ox, and
+donkey are listed before the comprehensive ending. The list assumes an unequal household order, not
+that everyone named has the same social status.
+[[Coveting and Love - The Commandments in Romans 7 and 13]] follows Paul's use of the desire
+prohibition. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — the first inventory, handed over by a deceived king; *very heavy* in
@@ -253,6 +262,8 @@ the promise is repeatedly mistaken for.
   much had nothing over"*; what was kept overnight *"bred worms, and became foul"*. Gathered with Joseph's
   verb for gathering all Egypt's money into Pharaoh's house (Genesis 47:14; WLC). See
   [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
+
+- [[The Ten Commandments]] — Exodus 20:15, 17; theft and acquisitive desire are both prohibited
 
 ## Related themes
 

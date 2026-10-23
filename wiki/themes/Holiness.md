@@ -55,6 +55,13 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
   me"*.
 - *(ahead)* **1 Peter 1:15–16** — Leviticus 19:2 applied to the church.
 
+### The commandments at Sinai — Exodus 20:8–11
+
+Keeping the Sabbath holy is now expressly commanded (20:8). The day belongs to Yahweh, and the
+assembly's abstention from work follows God's own blessing and making holy of the seventh day
+(20:10–11). The holiness encountered as dangerous nearness on the mountain also orders ordinary time
+throughout the household. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -75,6 +82,8 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 - [[Manna and Quail]] — Exodus 16:23; ***"a holy Sabbath to Yahweh"*** — **the holy thing is a day again**, as
   at Genesis 2:3, and this time one in every week; the first *šabbāt* in Scripture
 - [[Israel at Mount Sinai]] — Exodus 19:6, 10–24; a holy people prepared for a bounded mountain
+
+- [[The Ten Commandments]] — Exodus 20:8–11; the holy day orders ordinary household time
 
 ## Related themes
 

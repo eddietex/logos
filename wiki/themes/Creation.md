@@ -80,6 +80,14 @@ Genesis 1 sets four load-bearing claims:
   (wisdom present at creation), Isaiah 40–45 (the creator as the one who can therefore redeem),
   John 1:1–5, Colossians 1:15–20, Hebrews 11:3, Revelation 21–22 (creation renewed).
 
+### The commandments at Sinai — Exodus 20:4, 11
+
+The commandments draw two different uses from the created world. Heaven, earth, and water mark the
+scope of the prohibition on images (20:4); God's six days of making and seventh-day rest ground the
+weekly pattern of labor and Sabbath (20:11). The latter directly recalls Genesis 2:2–3 without
+simply repeating its wording. See [[Creation as the Ground of the Sabbath Command]]. See
+[[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Creation of the World]]
@@ -207,6 +215,9 @@ Genesis 1 sets four load-bearing claims:
   plural of Genesis 1:2's *təhôm*; *"the blast (rûaḥ) of your nostrils"*; and *"plant them"* (*nāṭaʿ*), the
   verb of *"Yahweh God planted a garden"* (Genesis 2:8) (WLC lemma search). **The God who planted a garden
   will plant a people.**
+
+- [[The Ten Commandments]] — Exodus 20:4, 11; creation supplies the Sabbath pattern and the scope of
+  the image prohibition
 
 ## Related themes
 

@@ -85,6 +85,14 @@ everlasting possession, by treaty with its current occupant.
   Romans 10:13, Isaiah 45:23 at Philippians 2:10–11 — and John's *"before Abraham came into
   existence, I AM"* (8:58) reaches for Exodus 3:14.
 
+### The commandments at Sinai — Exodus 20:2, 7
+
+Yahweh's name introduces the deliverer (20:2) and then becomes the subject of a command with an
+explicit declaration of guilt (20:7). Revealing the name at the bush does not give the hearer
+freedom to misuse it. The passage states the prohibition without restricting it to false oaths or
+supplying a list of forbidden pronunciations. This is a duty toward the known name, not another
+naming event. See [[The Ten Commandments]].
+
 ## Key passages
 
 - Genesis 1:1; 2:4 — *ʾĕlōhîm*, and *Yahweh ʾĕlōhîm*
@@ -272,6 +280,8 @@ everlasting possession, by treaty with its current occupant.
   22:14) and *El Elohe Israel* at Shechem (33:20), it is a sentence about what God did**, not a title he gives
   himself. **17:16 has the short form *Yah*** — *kî-yād ʿal-kēs yāh*, an obscure clause the WEB renders *"Yah has
   sworn"* — its second occurrence after the song (15:2; WLC)
+
+- [[The Ten Commandments]] — Exodus 20:2, 7; the known divine name must not be taken in vain
 
 ## Related themes
 

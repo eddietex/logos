@@ -676,7 +676,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - Exodus 14:4, 17 — *"I will get honor over Pharaoh"* — [[The Crossing of the Sea]]
 - Exodus 15:24–26 — the first murmuring and the first test — [[Bitter Water at Marah]]
 - Exodus 17:1–7 — Massah and Meribah — [[Water from the Rock]]
-- Exodus 20:8–11 — *"Remember the Sabbath day"* *(not yet ingested)*
+- [[The Ten Commandments]] — Exodus 20:8–11; the creation-grounded command makes the household Sabbath duty explicit
 - Exodus 24:16–17; 40:34–38 — the glory on Sinai and in the tabernacle *(not yet ingested)*
 - Exodus 25:16 — *"the testimony which I shall give you"* *(not yet ingested)*
 - Numbers 11:4–9, 31–34 — the manna described again; the second quail, and the plague *(not yet ingested)*

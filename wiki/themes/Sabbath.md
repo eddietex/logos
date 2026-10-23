@@ -36,8 +36,7 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
   seventh day"*** (16:30) — **the first time people are the subject of *šābat*** (WLC lemma search,
   Genesis–Exodus). **The first Sabbath-breakers are not punished; they find nothing** (16:27), and God asks
   *"How long do you refuse to keep my commandments and my laws?"* (16:28). See [[Manna and Quail]].
-- To trace as ingestion reaches them: Exodus 20:8–11 (the fourth commandment, grounded in creation — see
-  [[Creation as the Ground of the Sabbath Command]]), Deuteronomy 5:12–15 (the same commandment
+- To trace as ingestion reaches them: Deuteronomy 5:12–15 (the same commandment
   grounded instead in the exodus from Egypt — two different rationales for one command, worth
   holding side by side), Exodus 31:12–17 (Sabbath as covenant sign), Leviticus 25 (sabbath year
   and jubilee), Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
@@ -48,6 +47,15 @@ three days to worship, Pharaoh hears a stoppage: *"you make them rest from their
 *wəhišbattem*, the causative of *šābat* (Exodus 5:5). The Sabbath law will later make rest a
 command and give it to slaves and animals by name (23:12; Deuteronomy 5:14–15). See
 [[Bricks Without Straw]].
+
+### The commandments at Sinai — Exodus 20:8–11
+
+The Sabbath practiced around the manna becomes part of the public covenant speech (20:8–11). Rest is
+required not only of the hearer but of sons, daughters, male and female servants, livestock, and the
+stranger within the gates. The reason stated here is God's six-day creation and seventh-day rest,
+blessing, and sanctification. Deuteronomy 5:14–15 retains the command and grounds it in remembered
+bondage and shared rest; both rationales remain distinct in
+[[Creation as the Ground of the Sabbath Command]]. See [[The Ten Commandments]].
 
 ## Key passages
 
@@ -78,6 +86,8 @@ command and give it to slaves and animals by name (23:12; Deuteronomy 5:14–15)
 - [[Manna and Quail]] — Exodus 16:22–30; **the first *Sabbath* by name.** *"A solemn rest, a holy Sabbath to
   Yahweh"*; *"Yahweh has given you the Sabbath"*; *"Everyone stay in his place"*; *"So the people rested on the
   seventh day"* — **a gift before a command**, and the first time people are said to rest
+
+- [[The Ten Commandments]] — Exodus 20:8–11; creation-grounded rest required for the whole household
 
 ## Related themes
 

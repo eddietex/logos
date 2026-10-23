@@ -94,6 +94,15 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   reappear under Solomon (1 Kings 9:19–21), and the law forbids an Israelite to do to another what
   Egypt did (Leviticus 25:43, 46). See [[The Oppression in Egypt]].
 
+### The commandments at Sinai — Exodus 20:2, 10, 17
+
+The same address recalls release from bondage (20:2), requires rest for male and female servants
+(20:10), and lists the neighbor's servants among the household one must not covet (20:17).
+**Protection and continuing ownership coexist.** The command limits a master's demand for work; it
+does not announce emancipation for every servant. Deuteronomy 5:14–15 makes equal rest and
+remembered slavery the explicit rationale. See
+[[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]]. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the vocabulary's first appearance, in a
@@ -321,6 +330,9 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
 - [[Manna and Quail]] — Exodus 16:3, 29–30; **slavery remembered as plenty, and rest given as a day.** *"When
   we sat by the meat pots, when we ate our fill of bread"*; and the first time people *rest* (*šābat*) —
   the rest Pharaoh called idleness (5:5) — *"So the people rested on the seventh day"*
+
+- [[The Ten Commandments]] — Exodus 20:2, 10, 17; former slaves must give servants rest, while
+  household servitude continues
 
 ## Related themes
 

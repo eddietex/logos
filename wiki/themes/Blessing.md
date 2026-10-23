@@ -149,6 +149,13 @@ costly.
   See [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] and
   [[The Oppression in Egypt]].
 
+### The commandments at Sinai — Exodus 20:11–12
+
+The command recalls God's blessing of the Sabbath day and making it holy as the basis of Israel's
+observance (20:11). The following instruction attaches long life in God's given land to honoring
+father and mother (20:12). A blessed day and a promised life are related here without reducing
+either to material accumulation. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Creation of the World]]
@@ -368,6 +375,9 @@ costly.
 - [[Jethro's Counsel]] — Exodus 18:10; ***"Blessed be Yahweh, who has delivered you"***. The first *bārûk
   YHWH* in Exodus (WLC), spoken by a foreign priest, in the shape of Melchizedek's *"blessed be God Most High, who
   has delivered"* (Genesis 14:20) — [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
+
+- [[The Ten Commandments]] — Exodus 20:11–12; the blessed Sabbath and promised long life accompany
+  commanded conduct
 
 ## Related themes
 

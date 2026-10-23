@@ -102,6 +102,14 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
   Moses tells him, *"I know that you don't yet fear Yahweh God"*, and the confession does not last
   (9:34). **Confession without fear is shown failing.** See [[Livestock, Boils, and Hail]].
 
+### The commandments at Sinai — Exodus 20:18–21
+
+Moses tells the people not to be afraid and says that God's fear is to remain before them so that
+they will not sin (20:20). The immediate contrast is between dread of being killed by further speech
+(20:19) and an awareness of God that governs conduct. The danger is not dismissed: the people keep
+their distance, while Moses approaches (20:21). The explanation of fear is given to the frightened
+people themselves. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[Job of Uz]] — the phrase in its first Joban form, as one of four terms in the narrator's
@@ -292,6 +300,9 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
   truth and hatred of *"unjust gain"*. A Midianite priest makes the fear of God a requirement for Israel's judges,
   as the midwives' fear of God (1:17) was the first resistance to Pharaoh
 - [[Israel at Mount Sinai]] — Exodus 19:16–24; trembling and warnings in the presence of the deliverer
+
+- [[The Ten Commandments]] — Exodus 20:18–21; reassurance against death-terror accompanies fear
+  intended to prevent sin
 
 ## Related themes
 

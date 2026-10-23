@@ -1730,6 +1730,16 @@ and trust Moses (19:9, 16–20). His repeated warnings against breaking through 
 facts: he has brought the people near, and nearness does not give them unrestricted access. No
 outbreak or execution is narrated. See [[Israel at Mount Sinai]].
 
+### He speaks the commandments to the rescued assembly — Exodus 20:1–21
+
+He names himself as the God who brought Israel out of bondage before giving the commands (20:1–2).
+Exclusive worship, the protection of his name, Sabbath rest, and duties toward parents and neighbors
+belong to one address. He describes himself as jealous, warns of iniquity reaching generations, and
+promises loving kindness to thousands (20:5–6); the tension with individual responsibility is
+retained in [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
+Moses explains the frightening encounter as a test against sin, and approaches the thick darkness
+where God is while the people remain far off (20:20–21). See [[The Ten Commandments]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1946,6 +1956,9 @@ outbreak or execution is narrated. See [[Israel at Mount Sinai]].
   through Moses; named as the condition of Jethro's plan, with no command reported — Exodus 18:1–27,
   [[Jethro's Counsel]]
 - Offers the covenant calling, descends in fire, and warns against breaking through — Exodus 19:1–25; [[Israel at Mount Sinai]]
+
+- Speaks the commandments as Israel’s deliverer; Moses explains the encounter as a test against sin
+  — Exodus 20:1–21; [[The Ten Commandments]]
 
 ## Appears in
 
@@ -2327,6 +2340,8 @@ outbreak or execution is narrated. See [[Israel at Mount Sinai]].
   delivered you"*; *"Now I know that Yahweh is greater than all gods"*; *"to inquire of God"*; *"the statutes of
   God, and his laws"*; *"and God commands you so"*
 - [[Israel at Mount Sinai]] — Exodus 19:1–25; rescuer, covenant speaker, and the one who descends
+
+- [[The Ten Commandments]] — Exodus 20:1–21
 
 ## Related people
 

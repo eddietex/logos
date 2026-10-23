@@ -10,7 +10,7 @@ tags: [theme]
 it is remarkable chiefly for how little the book says about it.
 
 **There is no commandment against it in Genesis, no denunciation of it, and no character who is
-condemned for it.** The Torah's second commandment lies four books ahead; the prophets' whole
+condemned for it.** The explicit image prohibition comes in Exodus 20:4–5; the prophets' whole
 vocabulary of *idols*, *vanities*, *abominations* and *whoredom* is not yet available. **What Genesis
 gives instead is a set of objects, a set of names, and silence.**
 
@@ -52,8 +52,7 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 ### After Genesis
 
 **The subject becomes the central charge of the rest of the Old Testament**, and the terms are set at
-Sinai: *"You shall have no other gods before me. You shall not make for yourself an idol"* (Exodus
-20:3–4). The golden calf (Exodus 32) makes the failure the nation's founding one; Deuteronomy builds
+Sinai: other gods and the making of idols are prohibited (Exodus 20:3–5). The golden calf (Exodus 32) makes the failure the nation's founding one; Deuteronomy builds
 its whole covenant sanction on it; **Judges runs the cycle seven times**; and the prophets convert it
 into a marriage metaphor — Israel as an unfaithful wife (Hosea 1–3; Jeremiah 3; Ezekiel 16, 23).
 
@@ -74,6 +73,16 @@ Deuteronomy 4:19 forbids, and the kiss is the act 1 Kings 19:18 and Hosea 13:2 n
 iniquity to be punished by the judges; for I should have denied the God who is above"* (31:28): **the
 idolatry of the heart is denial of God**, and it is the very thing the accuser predicted of Job (1:11;
 2:5). See [[Job's Oath of Innocence]].
+
+### The commandments at Sinai — Exodus 20:3–6
+
+The reserve of Genesis gives way to explicit prohibition: Israel is to have no other gods, make no
+idol or image, and neither bow to nor serve them (20:3–5). God describes himself as jealous and
+joins the warning across generations to loving kindness for those who love him and keep his commands
+(20:5–6). **Scope needs care:** the image prohibition stands in a worship context, while the same
+book later prescribes cherubim for the ark (25:18–20, checked in raw). Treating this as a ban on
+every representational object would leave that prescription unexplained. See
+[[The Ten Commandments]].
 
 ## Key passages
 
@@ -109,6 +118,9 @@ idolatry of the heart is denial of God**, and it is the very thing the accuser p
   *"against all the gods of Egypt I will execute judgments"* (12:12). **The Song does not deny the gods; it
   denies they are like him.** The dances (*məḥōlōt*) of 15:20 recur in the Torah only at the calf (32:19;
   WLC).
+
+- [[The Ten Commandments]] — Exodus 20:3–6; other gods, idols, and their worship explicitly
+  prohibited
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

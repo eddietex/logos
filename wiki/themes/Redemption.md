@@ -50,6 +50,14 @@ care and transport, extending the sea's account of the redeemed people. See
   35); Deuteronomy's *pādâ* for the exodus (7:8); Boaz; the prophets' *"your Redeemer"*; and Micah's
   *"redeemed you out of the house of bondage"* (6:4, WEB).
 
+### The commandments at Sinai — Exodus 20:2
+
+The opening of the commandments identifies God through a completed rescue from the house of bondage
+(20:2). The commands therefore address people already brought out, rather than offering release as
+wages for keeping this list. The speech also assumes continuing household servitude (20:10, 17);
+Israel's liberation is not an abolition of slavery throughout its society. See
+[[The Ten Commandments]].
+
 ## Key passages
 - Genesis 47:19–23 — Egypt's people *bought* for Pharaoh — [[Joseph and the Famine]]
 - Genesis 48:16 — *"the angel who has redeemed me"* — [[Jacob Blesses Ephraim and Manasseh]]
@@ -58,6 +66,9 @@ care and transport, extending the sea's account of the redeemed people. See
 - Exodus 15:13, 16 — *"the people that you have redeemed … the people you have purchased"* —
   [[The Song of the Sea]]
 - [[Israel at Mount Sinai]] — Exodus 19:4–6; carried to God and offered a covenant vocation
+
+- [[The Ten Commandments]] — Exodus 20:2; the deliverer claims the allegiance of those already
+  rescued
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

@@ -101,6 +101,14 @@ walked after my eyes"* (31:7) before the neighbour's door (31:9), and calls adul
 **It is the Old Testament's most explicit claim that the look itself falls under judgment**, the
 ground on which Matthew 5:28 builds. See [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]].
 
+### The commandments at Sinai — Exodus 20:14, 17
+
+What the Joseph narrative treated as betrayal of a master and sin against God becomes an explicit
+prohibition of adultery (20:14). The restriction on coveting a neighbor's wife also addresses desire
+(20:17). Matthew 5:27–30 takes up the adultery command and the lustful gaze; it does not introduce
+inward accountability into a Torah concerned only with outward acts. See
+[[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]]. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — Genesis 12:10–20; the first wife-sister episode, and **the first moral objection
@@ -126,6 +134,9 @@ ground on which Matthew 5:28 builds. See [[A Covenant with My Eyes - Job 31.1 an
 - [[Job's Oath of Innocence]] — Job 31:1, 7, 9–12; the covenant with the eyes, the heart that walks after them, the neighbour's
   door, and the self-curse of 31:10, *"let my wife grind for another, and let others sleep with her"* —
   the futility curse of Deuteronomy 28:30 called down by a man on himself.
+
+- [[The Ten Commandments]] — Exodus 20:14, 17; adultery and coveting a neighbor’s wife are expressly
+  forbidden
 
 ## Related themes
 

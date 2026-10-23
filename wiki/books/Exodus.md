@@ -252,7 +252,13 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   conditional on obedience (19:1–8). The people assent, prepare, and stand below a bounded
   mountain as God descends in fire, cloud, and trumpet sound. Moses carries the words between
   God and the people; Aaron is named for an ascent, while priests and people are warned not
-  to break through (19:9–25). See [[Israel at Mount Sinai]].
+  to break through (19:9–25). See [[Israel at Mount Sinai]]. **God then speaks the commands as
+  the deliverer from Egypt**, joining exclusive worship, the holy name and day, parents, and
+  neighbors in one address. The Sabbath rests on creation and includes servants, animals, and
+  the stranger; coveting makes desire answerable as well as action (20:1–17). The frightened
+  people ask Moses to speak, and he explains the encounter as a test intended to restrain sin.
+  They stand back while he approaches the thick darkness (20:18–21). See
+  [[The Ten Commandments]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -316,7 +322,7 @@ for unit.
 ### The covenant at Sinai (19–24)
 
 - [x] [[Israel at Mount Sinai]] — Exodus 19:1–25
-- [ ] The Ten Commandments — Exodus 20:1–21
+- [x] [[The Ten Commandments]] — Exodus 20:1–21
 - [ ] The Altar and the Hebrew Slave — Exodus 20:22–21:11
 - [ ] Laws of Violence and Injury — Exodus 21:12–36
 - [ ] Laws of Property and Restitution — Exodus 22:1–15
@@ -415,6 +421,10 @@ for unit.
 - [[Vengeance]]
 - [[Hospitality]]
 - [[Strife and Peacemaking]]
+
+- [[Envy]]
+
+- [[Love]]
 
 ## Key people
 

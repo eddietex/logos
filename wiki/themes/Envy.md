@@ -75,6 +75,15 @@ it to himself — *"I am jealous over you with a godly jealousy"* (2 Corinthians
 future in Romans 11:11–14. **The one root, running from a well in the Negev to a Roman governor's
 judgment about a motive.**
 
+### The commandments at Sinai — Exodus 20:5, 17
+
+The WEB calls God jealous in the demand for exclusive worship (20:5), then forbids coveting the
+neighbor's household (20:17). These uses must not be treated as the same moral act: the first
+asserts God's claim on worship, the second forbids reaching after what belongs to another. The
+English comparison does not establish an identity of Hebrew vocabulary. The reach into desire is the
+point Paul takes up in [[Coveting and Love - The Commandments in Romans 7 and 13]]. See
+[[The Ten Commandments]].
+
 ## Key passages
 
 - [[Isaac in Gerar]] — Genesis 26:12–16; **the first *qānāʾ* in the Bible**, provoked by a hundredfold
@@ -144,6 +153,9 @@ judgment about a motive.**
   offers no comment on either verse; see [[Five Changes of Clothing - The Coat Given Again]]
 - [[The Oppression in Egypt]] — Exodus 1:9–12; *"more and mightier than we"* — Abimelech's comparative (Genesis 26:16),
   and *wayyāquṣû*, *they were grieved*, a dread with revulsion in it
+
+- [[The Ten Commandments]] — Exodus 20:5, 17; God’s claim to exclusive worship differs from coveting
+  a neighbor’s household
 
 ## Related themes
 

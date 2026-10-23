@@ -91,6 +91,13 @@ are not in `raw/bible/`, and the wiki does not quote WEB text from memory. Job 3
 18:5–6, 19:8, 38:2, 38:19 and 41:18, and Genesis 1:3–4, 15:12, 19:11 and 19:23, are quoted from the
 raw text.)*
 
+### The commandments at Sinai — Exodus 20:21
+
+Moses approaches the thick darkness where God is (20:21). Darkness here is neither abandonment nor a
+rival evil power; it conceals the divine presence that Moses approaches while the people stand back.
+The contrast is one of access within the same encounter, not a struggle between light and darkness.
+See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Creation of the World]] — Genesis 1:3–5: light made, seen to be good, divided from darkness,
@@ -193,6 +200,9 @@ raw text.)*
   *"there was the cloud and the darkness, yet gave it light by night"*: *ḥōšek*, the darkness of Genesis 1:2
   and the ninth plague, beside light, in a sentence whose sense is debated. **At the ninth plague Israel had
   light *"in their dwellings"* (10:23); now the light goes with them**
+
+- [[The Ten Commandments]] — Exodus 20:21; the thick darkness contains God’s presence rather than
+  signifying his absence
 
 ## Related themes
 

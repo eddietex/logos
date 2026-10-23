@@ -65,6 +65,13 @@ the seventh day a blessing. See [[Sabbath]].
   tentmaking and his rules for it (Acts 18:3, 1 Thessalonians 4:11, 2 Thessalonians 3:10);
   Colossians 3:23.
 
+### The commandments at Sinai — Exodus 20:9–11
+
+Six days of labor stand beside a seventh day on which work ceases for everyone under the hearer's
+authority (20:9–10). The prohibition reaches the use of servants and animals as well as the hearer's
+own hands. Grounded in God's work and rest (20:11), the command places a recurring limit on the
+power to extract labor. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the man placed in the garden to cultivate and keep it, and the naming
@@ -184,6 +191,9 @@ the seventh day a blessing. See [[Sabbath]].
   thing is too heavy for you. You are not able to perform it yourself alone"*; the cure is delegation — *"So shall
   it be easier for you, and they shall share the load with you"*. *Qāšeh*, *hard*, the word of Egypt's *"hard
   service"* (1:14), now describes the *"hard causes"* (18:26; WLC)
+
+- [[The Ten Commandments]] — Exodus 20:9–11; the workweek is bounded by rest for dependents as well
+  as the household head
 
 ## Related themes
 

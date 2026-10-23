@@ -109,6 +109,14 @@ generations, is repeatedly caught by outsiders who behave better, and is not onc
 and the law that finally forbids the practice arrives only after the family it would have condemned
 has become a nation.
 
+### The commandments at Sinai — Exodus 20:16
+
+False testimony against a neighbor is expressly prohibited (20:16). The immediate formulation
+concerns testimony that injures another person's standing; it should not be used to pretend that
+every deceptive incident in Genesis has already received its own legal judgment. The command
+supplies a clear norm against which those narratives can now be compared. See
+[[The Ten Commandments]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — Genesis 12:10–20, the first deceit by a patriarch, and the half-truth as its
@@ -279,6 +287,8 @@ has become a nation.
   deceitfully any more"* — *hātēl*, from *tālal*, the verb of Jacob's complaint that Laban *"deceived
   me, and changed my wages ten times"* (Genesis 31:7), its only other use in Genesis and Exodus (WLC).
   Pharaoh's promise at the frogs and his concession at the flies are both withdrawn when the plague is
+
+- [[The Ten Commandments]] — Exodus 20:16; false testimony is named as a wrong against a neighbor
 
 ## Related themes
 

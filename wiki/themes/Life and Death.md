@@ -132,6 +132,13 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
   Daniel 12:2; Jesus as "the life" (John 11:25, 14:6); Romans 5:12–21 and 6:23 (*"the wages of sin
   is death"*); 1 Corinthians 15; Revelation 20:14 and 21:4, where death itself dies.
 
+### The commandments at Sinai — Exodus 20:12–13, 18–21
+
+The unit combines a promise of long life linked to honoring parents (20:12), a prohibition of murder
+(20:13), and the assembly's fear that further divine speech will kill them (20:19). Moses answers
+the fear by explaining the encounter as a test against sin; no one dies in this scene. The promise
+is not a rule by which every early death can be assigned a cause. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
@@ -429,6 +436,9 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
   WLC); and Israel sees *"the Egyptians dead (mēt) on the seashore"*, on the *śəpat hayyām*, the phrase of the
   promise of seed *"as the sand which is on the seashore"* (Genesis 22:17; WLC)
 - [[Israel at Mount Sinai]] — Exodus 19:12–13, 21–24; death sanctions and preventive warnings
+
+- [[The Ten Commandments]] — Exodus 20:12–13, 18–21; life promised, murder forbidden, and a
+  frightened assembly left alive
 
 ## Related themes
 

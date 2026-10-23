@@ -66,6 +66,12 @@ is to accompany him (19:21–24). This is the return promised at the bush (3:12)
 18:5's earlier mountain camp remains recorded above, not resolved by the filing convention. See
 [[Israel at Mount Sinai]].
 
+**The public commandments and the request for mediation occur at this mountain.** The proper name is
+not repeated in Exodus 20:1–21, but the thunder, trumpet, and smoking mountain continue the Sinai
+scene (20:18). The people remain at a distance while Moses approaches the thick darkness where God
+is (20:21). The contrast concerns access within one encounter, not a relocation of the camp. See
+[[The Ten Commandments]].
+
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
@@ -85,6 +91,9 @@ is to accompany him (19:21–24). This is the return promised at the bush (3:12)
 - [[Israel at Mount Sinai]] — Exodus 19:1–25; the wilderness camp, covenant offer, bounded mountain,
   and public descent of Yahweh
 
+- [[The Ten Commandments]] — Exodus 20:18–21; the commandments are heard; the assembly stands back
+  while Moses approaches
+
 ## Related places
 
 - [[Midian]] — whose priest's flock Moses is grazing when he reaches it
@@ -103,3 +112,5 @@ is to accompany him (19:21–24). This is the return promised at the bush (3:12)
 - The assembly, covenant offer, and descent in fire — Exodus 19:1–25, [[Israel at Mount Sinai]]
 - *(ahead)* The commandments, covenant ratification, and tabernacle — Exodus 20–40
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18
+
+- [[The Ten Commandments]] — public commandments, trembling, and Moses’ approach (20:1–21)

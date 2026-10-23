@@ -13225,3 +13225,85 @@ assertions were made.
 remain the expected baseline. New titles are unique; touched entity index rows and progress
 counts match the pages. No unresolved operational issue; the interpretive tensions above remain
 explicitly recorded. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 20.1-21 — The Ten Commandments
+
+Ingested **[[The Ten Commandments]]**, Exodus 20:1–21, in unattended mode. The planned boundary
+is retained: God's public speech and the assembly's request for mediation form one unit, ending
+with Moses' approach to the thick darkness. The altar instructions remain the next pericope.
+Discussion is recorded in the passage's notes: rescue before the commands, exclusive worship,
+the divine name, rest for an entire household, parents and neighbors, coveting, fear, and mediation.
+
+### Decisions and tensions
+
+- No new person, place, or theme pages were needed. The named actors are [[God]] and [[Moses]];
+  Israel and the household roles remain collectives. Sinai stays on [[Horeb]]. [[Egypt]] is
+  recalled as the house of bondage; [[Canaan]] is explicitly a contextual identification of the
+  given land in 20:12, not a name used in that verse or a newly reached location.
+- The passage uses references rather than imposing a particular numbering of the commandments.
+  It distinguishes the spoken commands from the later writing and delivery of tablets.
+- **[[Testing]] corrected:** its claim that participants are never told a test's purpose while
+  it occurs is contradicted by Moses' explanation in Exodus 20:20. The concealed-test pattern of
+  Genesis 22 and Job is retained as a particular pattern, not a universal rule. The definition,
+  synthesis, overgeneralized passage-list wording, and category summary were revised together.
+- **Generational responsibility remains a tension:** Exodus 20:5–6, Job 21:19–21, and Ezekiel
+  18:19–23 are stated alongside one another. The existing connection's claim of a settled
+  resolution was qualified; possible reconciliations are readings, not an explanation supplied
+  by Exodus itself. The WEB's “thousands” is not silently expanded to “thousands of generations.”
+- **The Sabbath comparison corrected:** the existing connection claimed the same sequence and
+  verbs in Genesis 2:3 and Exodus 20:11. The verified English sequence differs; no unverified
+  source-language identity is asserted. Creation and liberation remain distinct Sabbath
+  rationales, and shared rest is already present in Exodus, not introduced only by Deuteronomy.
+- Rest protects servants while 20:17 still assumes a household containing them; the text is not
+  made to announce general emancipation. The image prohibition is read with its worship context
+  and the later cherubim prescription, without turning it into a universal prohibition of art.
+- The request for mediation is distinguished from disobedience: the assembly promises to listen,
+  and Deuteronomy 5:28 approves the request. Ephesians' “first commandment with a promise” is
+  compared with the earlier loving-kindness assurance rather than treated as an unexplained
+  cancellation of it. Matthew's inward application is not made the first law concerning desire.
+- Minor directly relevant corrections: [[Idolatry]]'s misplaced “four books ahead” reference was
+  corrected and its imprecise Exodus quotation paraphrased; the law-before-Sinai connection no
+  longer locates the inscription of the commands within 20:8–11. Ingested references on earlier
+  passage and theme pages now link to the passage.
+
+### Sources
+
+Exodus 20:1–21 read from `raw/bible/Exodus.md`. All sixteen selected key verses were compared
+mechanically with that source and match verbatim after line reflow. Related material checked in
+existing raw files: Genesis 2:2–3 and 39:8–9; Exodus 16:22–30, 19:16–25, 25:18–20, and 34:28;
+Job 21:19–21. No raw file was changed or added.
+
+External WEB comparisons verified directly from bible-api.com on 2026-10-23, with
+`translation=web`: **Deuteronomy 5:1–33; 8:2–3; Matthew 5:21–30; Romans 7:7–12; 13:8–10;
+Ephesians 6:1–3; Ezekiel 18:19–23**. The web reader could not open the initial API URLs;
+direct HTTPS requests returned the named World English Bible translation and verse text. These
+were short comparison requests, not bulk book fetches. New connection pages and the Testing
+revision identify their requests. Hebrews 12 retains the verification documented in its
+existing connection. Older quotations elsewhere on revised pages are not newly claimed as
+verified by this pass. No new exact Greek or Hebrew assertions were introduced.
+
+### Pages created or revised
+
+- **Created (5):** the passage and four connections:
+  [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]],
+  [[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]],
+  [[Coveting and Love - The Commandments in Romans 7 and 13]], and
+  [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
+- **Existing content pages revised (42):** [[Exodus]]; three earlier passages
+  ([[The Creation of the World]], [[Manna and Quail]], [[Israel at Mount Sinai]]);
+  two people; three places; twenty-nine themes listed on the new passage; and four connections
+  (the creation/Sabbath, law-before-Sinai, Sinai/Zion, and generational-responsibility comparisons).
+  All thirty-four affected entity pages receive synthesis and passage-list updates; the two
+  people receive chronological event entries as well.
+- **Bookkeeping revised (10):** nine indexes/dashboard pages and this log. New connections are
+  filed under C, H, M, and T. All 328 connection pages have exactly one row in the correct range;
+  all changed entity rows include the new passage. Subindex sizes remain reasonably balanced
+  (57, 70, 64, 58, 79); no split or range change is needed. Exodus is **26 / 53**.
+- **Totals by frontmatter type:** 117 passages, 169 people, 90 places, 77 themes, 328 connections;
+  3 books started, 2 complete. Overall: **5 pages created, 52 existing pages revised**.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
+remain the expected baseline. New page titles are unique, quotations match raw, exactly one
+queue box advanced, and `git diff --check` is clean. No unresolved operational issue; the
+interpretive tensions above remain explicit. No schema, skill, harness, or controller files
+were changed.

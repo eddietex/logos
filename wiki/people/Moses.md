@@ -342,9 +342,16 @@ with Israel realizes the promised setting of the sign at the bush (3:12). See
 [[Israel at Mount Sinai]] and
 [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]].
 
+**The people now request his mediation.** After God's commandments, the frightened assembly asks
+Moses to speak instead, promising to listen (20:19). He reassures them and explains the test's
+purpose: fear of God that prevents sin (20:20). They remain far off as he approaches the thick
+darkness where God is (20:21). He does not receive the tablets within this unit. Deuteronomy 5:28
+approves the people's request; it is not automatically a refusal of God. See
+[[The Ten Commandments]] and [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]].
+
 ### What is ahead
 
-The commandments, covenant ratification, and tabernacle (20–40); and the rest of the Torah. These
+The remaining covenant laws, ratification, and tabernacle (20:22–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -433,6 +440,9 @@ sections are written as their pericopes arrive.
   thousands, hundreds, fifties, and tens — Exodus 18:1–27, [[Jethro's Counsel]]
 - Relays the covenant offer and assent, prepares Israel, and mediates the mountain encounter — Exodus 19:3–25; [[Israel at Mount Sinai]]
 
+- Explains the test to the frightened assembly and approaches the thick darkness as its requested
+  mediator — Exodus 20:1–21; [[The Ten Commandments]]
+
 ## Appears in
 
 - [[The Birth of Moses]] — Exodus 2:1–10; **born, hidden, put into the river in an ark, drawn out,
@@ -502,6 +512,8 @@ sections are written as their pericopes arrive.
   father-in-law, and bowed and kissed him"*; *"Moses sat to judge the people"*; *"Because the people come to me to
   inquire of God"*; *"So Moses listened to the voice of his father-in-law, and did all that he had said"*
 - [[Israel at Mount Sinai]] — Exodus 19:3–25; mediator and leader of the assembly
+
+- [[The Ten Commandments]] — Exodus 20:1–21
 
 ## Related people
 

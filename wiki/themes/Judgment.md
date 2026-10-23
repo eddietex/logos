@@ -171,6 +171,16 @@ rule are the conditions the rest of Scripture is set in.
   judgment deferred (Matthew 13:24–30) and enacted (Matthew 25:31–46); Romans 2:1–11; the great
   white throne, Revelation 20:11–15.
 
+### The commandments at Sinai — Exodus 20:5–7
+
+The commands contain sanctions as well as prohibitions: iniquity reaches the third and fourth
+generation of those who hate God, and misuse of the name is not held guiltless (20:5, 7). Loving
+kindness to thousands stands beside these warnings (20:6). **The generational claim remains in
+tension with Ezekiel 18:19–20's refusal to charge a righteous son with his father's iniquity and
+with Job 21:19–21's objection.** Neither suffering nor ancestry by itself supplies a verdict on an
+individual. See [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]].
+See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Fall]] — the first judgment scene, and the template
@@ -401,6 +411,9 @@ rule are the conditions the rest of Scripture is set in.
   until Jethro divides it: *"every great matter they shall bring to you, but every small matter they shall judge
   themselves"*. **Israel's first courts, before its first law code** —
   [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
+
+- [[The Ten Commandments]] — Exodus 20:5–7; generational warning, loving kindness, and guilt for
+  misuse of the name
 
 ## Related themes
 

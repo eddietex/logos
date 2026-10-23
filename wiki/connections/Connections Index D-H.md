@@ -20,8 +20,8 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Divine Council]] | thread | Job 1:6; 2:1 · Job 38:7 · Genesis 1:26; 6:1–4 · 1 Kings 22:19–23 · Psalm 82 · Psalm 89:5–7 · Deuteronomy 32:8 · Isaiah 6:1–8 · Zechariah 3:1–5 · Daniel 7:9–10 · Revelation 4–5 · Job 11:5–6 · Job 25:2–3 |
 | [[Do Not Cover My Blood]] | allusion | Genesis 4:10–11 · Job 16:18 · Leviticus 17:13 · Deuteronomy 21:1–9 · Isaiah 26:21 · Ezekiel 24:6–8 · Hebrews 12:24 · Revelation 6:9–10 · Job 31:38–39 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
-| [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] | thread | Exodus 17:2, 7 · Deuteronomy 6:16 · Deuteronomy 9:22 · Deuteronomy 33:8 · Psalm 81:7 · Psalm 95:7–11 · Matthew 4:7 · 1 Corinthians 10:9 · Hebrews 3:7–11 |
 | [[Do Not Interpretations Belong to God - Joseph and Daniel]] | parallel | Genesis 40:5–8 · Genesis 41:8, 15–16, 25, 38–39 · Genesis 42:23 · Daniel 1:17–20 · Daniel 2:1–11, 27–30, 47 · Daniel 4:4–9 · Daniel 5:7–12 |
+| [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] | thread | Exodus 17:2, 7 · Deuteronomy 6:16 · Deuteronomy 9:22 · Deuteronomy 33:8 · Psalm 81:7 · Psalm 95:7–11 · Matthew 4:7 · 1 Corinthians 10:9 · Hebrews 3:7–11 |
 | [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
 | [[The Door and the Destroyer - Lot's House and the Passover Night]] | thread | Genesis 19:1–29 · Exodus 12:1–28 · Genesis 19:14, 16 · Exodus 12:29–39 |
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 |
@@ -73,10 +73,11 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] | quotation | Job 12:17–25 · Psalm 107:40–42 · Job 22:19, 29 · Job 5:11–16 · Deuteronomy 28:28–29 · 1 Samuel 2:6–8 · Isaiah 40:23–24; 44:25 · Daniel 2:21 · Luke 1:51–53 · 1 Corinthians 1:19–20 · Genesis 1:2 |
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 |
-| [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
+| [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |
 | [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]] | quotation | Exodus 13:2, 12–15 · Exodus 13:9 · Exodus 34:19–20 · Leviticus 12:6–8 · Numbers 18:15–16 · Luke 2:22–24, 39 |
+| [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] | quotation | Exodus 20:12 · Deuteronomy 5:16 · Ephesians 6:1–3 |
 | [[The Hope of Resurrection in the Old Testament]] | thread | Job 7:9 · Job 14:7–14 · Job 19:25–27 · Psalm 49:15 · Psalm 73:24 · Isaiah 25:8; 26:19 · Ezekiel 37:1–14 · Daniel 12:2–3 · Matthew 22:23–33 · 1 Corinthians 15:12–57 |

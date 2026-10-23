@@ -29,6 +29,8 @@ tags: [connection]
   law, made from this family and not from this verse
 - Exodus 19:4–8 — [[Israel at Mount Sinai]]; the rescued assembly promises to obey
 
+- [[The Ten Commandments]] — Exodus 20:1–21; the public covenant speech after earlier instructions
+
 ## Analysis
 
 ### The verse
@@ -117,8 +119,9 @@ arrives ahead of the law.** See [[Bitter Water at Marah]] and [[Law and Obedienc
 laws*, the same forms in the same order (WLC). **No other verse in Genesis or Exodus has *tôrôt* with a
 first-person suffix** (WLC lemma search, Genesis–Exodus). God says it to Moses of the people who went out
 to gather on the seventh day: *"How long do you refuse to keep my commandments and my laws?"* **The
-commandment in question is the Sabbath, which has been announced as a fact about bread (16:23–26) and will
-not be written as a commandment until 20:8–11.** **Abraham was credited with keeping laws no narrative gave
+commandment in question is the Sabbath, which has been announced as a fact about bread (16:23–26) and is
+spoken in the public covenant address at 20:8–11; those verses do not narrate its inscription.**
+**Abraham was credited with keeping laws no narrative gave
 him; Israel is rebuked for refusing laws it was given a week before Sinai's law.** The refusal verb is
 Pharaoh's — *māʾēn*, *"How long will you refuse …?"* (10:3; WLC). See [[Manna and Quail]].
 
@@ -129,6 +132,15 @@ Verse 8 supplies their collective assent; verse 4 has already recalled their res
 connection with Genesis 26:5 is the demand to hear and keep, now addressed to a nation before
 the detailed laws of Exodus 20–23. This English-level comparison is checked against the raw
 WEB; no further claim about identical Hebrew forms is made here. See [[Israel at Mount Sinai]].
+
+### The commands are now spoken at Sinai
+
+Exodus 20:1–17 gives the list the earlier narrative anticipated. Its opening recalls rescue from
+Egypt (20:2), and its Sabbath command (20:8–11) is continuous with the already narrated manna
+instructions. It does not prove that Abraham had been given this list, nor that there was no law
+before the public speech. The people's request for Moses' mediation promises to listen (20:19). See
+[[The Ten Commandments]]; this comparison rests on the raw WEB, not a new source-language
+assertion.
 
 ## Significance
 

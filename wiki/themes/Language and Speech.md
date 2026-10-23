@@ -88,6 +88,13 @@ noticing into doctrine.
 - **Revelation 5:9; 7:9; 14:6** — *"every tribe, language, people, and nation"*: the plurality of
   Genesis 11 kept, and worshipping.
 
+### The commandments at Sinai — Exodus 20:1, 7, 16, 19
+
+God's speech establishes the commands (20:1); human speech is accountable both for the use of God's
+name and for testimony against a neighbor (20:7, 16). The assembly asks for Moses' voice to carry
+God's words because direct hearing terrifies it (20:19). Speech here is legislation, a possible
+instrument of harm, and the means of mediation. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Second Test]] — **one passage, three separate things done with words.** *Bārak* used twice
@@ -291,6 +298,9 @@ noticing into doctrine.
   *"I am of uncircumcised lips"* is met, this time, by the arrangement of 4:16: Aaron will speak.
   God concedes that *"Pharaoh will not listen to you"* (7:4), and at 7:13 *"he didn't listen to
   them"* — the *šāmaʿ* thread of [[I Am Yahweh]] runs on into the contest
+
+- [[The Ten Commandments]] — Exodus 20:1, 7, 16, 19; divine command, accountable human words, and
+  the request for Moses’ voice
 
 ## Related themes
 

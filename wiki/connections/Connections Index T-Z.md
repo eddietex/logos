@@ -15,6 +15,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · Job 7:8, 21 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
+| [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] | parallel | Exodus 20:1–21 · Deuteronomy 5:1–33 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
 | [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 |
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
@@ -49,7 +50,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] | thread | Genesis 35:22 · Genesis 48:5–6 · Genesis 49:3–7 · Numbers 1:10, 32–35 · Numbers 26:28–37 · Deuteronomy 33:13–17 · Joshua 14:3–4 · Joshua 16–17 · 1 Chronicles 5:1–2 · Ezekiel 47:13 · Revelation 7:5–8 |
 | [[Uncircumcised Lips, Ears, and Heart]] | motif | Genesis 17:14 · Exodus 4:24–26 · Exodus 6:12, 30 · Exodus 12:48 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Acts 7:51 · Romans 2:28–29 |
 | [[The Vine and the Cup]] | thread | Genesis 9:20–21 · Genesis 19:30–38 · Genesis 40:9–11 · Numbers 6:1–4 · Psalm 104:15 · Proverbs 23:29–35 · Isaiah 5:1–7 · Jeremiah 25:15–29 · John 2:1–11 · John 15:1–8 · Matthew 26:27–29 · Ephesians 5:18 · Job 21:20 |
-| [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] | thread | Job 21:19–21 · Job 14:21 · Job 5:4; 8:4; 18:19; 20:10 · Exodus 20:5–6; 34:6–7 · Deuteronomy 24:16 · 2 Kings 14:5–6 · Lamentations 5:7 · Jeremiah 31:29–30 · Ezekiel 18:1–4, 19–20 · John 9:1–3 |
+| [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] | thread | Exodus 20:5–6 · Exodus 34:6–7 · Deuteronomy 24:16 · 2 Kings 14:5–6 · Job 5:4; 8:4; 14:21; 18:19; 20:10; 21:19–21 · Lamentations 5:7 · Jeremiah 31:29–30 · Ezekiel 18:1–4, 19–23 · John 9:1–3 |
 | [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]] | parallel | Job 37:2–5 · Psalm 29:3–10 · Job 26:14 · Job 40:9 · Exodus 19:16, 19 · John 12:28–29 |
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 · Job 33:14–18 |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
@@ -79,11 +80,11 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |
 | [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]] | image | Job 25:5–6 · Job 7:5 · Job 17:14 · Job 21:26 · Job 24:20 · Psalm 22:1, 6 · Job 30:9–10, 20 · Matthew 27:46 · Isaiah 41:14 · Isaiah 66:24 · Mark 9:48 · Acts 12:23 |
 | [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 · Exodus 4:24–27 |
+| [[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]] | quotation | Exodus 15:2 · Psalm 118:14, 28 · Isaiah 12:2 · Isaiah 11:16 |
 | [[Yahweh Turned the Captivity of Job - Restoration and the Double]] | thread | Job 42:10, 12 · Deuteronomy 30:3 · Psalm 14:7 · Psalm 126:1, 4 · Jeremiah 29:14 · Amos 9:14 · Exodus 22:4, 7, 9 · Isaiah 40:1–2 · Isaiah 61:7 · Zechariah 9:12 |
 | [[Yahweh Visited Sarah - Paqad and the Visitations of God]] | thread | Genesis 21:1 · Genesis 50:24–25 · Exodus 3:16 · Exodus 4:31 · Ruth 1:6 · 1 Samuel 2:21 · Job 7:18 · Amos 3:2 · Luke 1:68, 78 · Luke 7:16 |
 | [[Yahweh Will Provide - Moriah and the Temple Mount]] | thread | Genesis 22:2, 8, 14 · 2 Chronicles 3:1 · Exodus 23:17 · Deuteronomy 16:16 · Genesis 14:18 · Psalm 76:2 |
 | [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |
-| [[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]] | quotation | Exodus 15:2 · Psalm 118:14, 28 · Isaiah 12:2 · Isaiah 11:16 |
 | [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] | thread | Job 10:8–13 · Job 9:12 · Genesis 2:7; 3:19 · Psalm 119:73 · Psalm 139:13–16 · Isaiah 29:16; 45:9–10; 64:8 · Jeremiah 18:1–6 · Romans 9:20–21 · Job 14:15; 31:15; 33:4, 6 · Ecclesiastes 11:5 · Ezekiel 37:6–8 · Job 23:8–10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
 | [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |

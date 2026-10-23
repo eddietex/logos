@@ -84,6 +84,13 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   reading, which notes that Paul calls God as witness at Romans 1:9 and 2 Corinthians 1:23, and that
   Hebrews treats God's own oath as exemplary). The wiki records both.
 
+### The commandments at Sinai — Exodus 20:7
+
+The command against taking Yahweh's name in vain makes misuse accountable to God (20:7). False
+swearing is one relevant application, but Exodus 20:7 neither narrates an oath nor exhaustively
+defines the command in terms of oath taking. Its place here is the protection of the divine name
+that earlier covenant oaths invoked. See [[The Ten Commandments]].
+
 ## Key passages
 
 - Genesis 14:22–23 — the first human oath, [[The Rescue of Lot and Melchizedek]]
@@ -217,6 +224,9 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   checked and is usually read as *throne*, with the raised hand as the oath gesture. **Other readings make it
   Amalek's hand against God's throne, or emend *kēs* to *nēs*, *banner*.** The wiki records that the oath is the
   WEB's interpretation and adopts no reading
+
+- [[The Ten Commandments]] — Exodus 20:7; misuse of the divine name incurs guilt; false swearing is
+  an application
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

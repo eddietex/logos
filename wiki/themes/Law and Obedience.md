@@ -28,7 +28,7 @@ them, and there he tested them"* (Exodus 15:25).
    earlier wording here, “never precedes it,” contradicted the Passover commands given before
    departure (Exodus 12:1–28). Marah follows the sea and Sinai recalls rescue in Exodus 19:4–5;
    the Ten Commandments open *"I am Yahweh your God, who brought
-   you out of the land of Egypt"* (20:2; *not yet ingested*).
+   you out of the land of Egypt"* (20:2; [[The Ten Commandments]]).
 2. **Obedience is described as hearing.** At Marah the four conditions are *listen*, *do*, *pay attention*,
    *keep* (15:26) — **three of the four are verbs of attention, not of action.**
 
@@ -76,9 +76,18 @@ refusal verb of Pharaoh** (*māʾēn*, 10:3). **The law in question is the Sabba
 not yet written (16:23). See [[Manna and Quail]] and
 [[Because Abraham Obeyed My Voice - Law Before Sinai]].
 
-**Ahead** (*not yet ingested*): the Ten Commandments and the Book of the Covenant (20–23), whose *mišpāṭîm* begin at
+**Ahead** (*not yet ingested*): the Book of the Covenant (20:22–23:33), whose *mišpāṭîm* begin at
 21:1; the tablets *"that you may teach them"* (24:12, *yārâ* again); and Deuteronomy's *"statutes and
 ordinances"*, its refrain (4:1, 5; 5:1).
+
+### The commandments at Sinai — Exodus 20:1–21
+
+God publicly speaks the commandments after naming himself as Israel's deliverer (20:1–2). The
+instructions join worship, time, family, neighbors, and desire; obedience cannot be reduced to
+ritual or visible acts alone. The people's request for Moses to speak includes a promise to listen
+(20:19), not a reported rejection of the commands.
+[[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] preserves the differences in the later
+account. See [[The Ten Commandments]].
 
 ## Key passages
 
@@ -98,6 +107,9 @@ ordinances"*, its refrain (4:1, 5; 5:1).
   teach them the statutes and the laws, and shall show them the way in which they must walk"*. **Which statutes,
   before the law is given, the text does not say**
 - [[Israel at Mount Sinai]] — Exodus 19:4–8; the covenant offer and public promise of obedience
+
+- [[The Ten Commandments]] — Exodus 20:1–21; public commands govern worship, household life,
+  neighbors, and desire
 
 ## Related themes
 

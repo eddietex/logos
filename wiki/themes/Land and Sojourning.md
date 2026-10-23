@@ -93,6 +93,13 @@ against the city of Genesis 11:4 that had none.
 people who possess it, and the ones who possess it are told they hold it as tenants. Genesis 11:31 is
 where that starts, in a sentence about a family that got halfway.
 
+### The commandments at Sinai — Exodus 20:10, 12
+
+The resident stranger within the gates receives the Sabbath's rest (20:10), and honoring parents is
+associated with long life in the land God gives (20:12). This is legislation anticipating settled
+life while Israel still stands at Sinai. Canaan is the contextual destination; the verse itself
+calls it the given land without naming it. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[From Shem to Abram]] — Genesis 11:31–32, the first journey toward Canaan and the first stop short
@@ -352,6 +359,9 @@ where that starts, in a sentence about a family that got halfway.
   (tôrîšēmô) them"*, with *yāraš*, the verb of the land promise (Genesis 15:7); the Song names Philistia,
   Edom, Moab, and Canaan in road order, and ends with Israel *"planted"* on *"the mountain of your
   inheritance"* — unnamed, and not yet reached.
+
+- [[The Ten Commandments]] — Exodus 20:10, 12; rest includes the stranger; the parental command
+  anticipates life in the given land
 
 ## Related themes
 

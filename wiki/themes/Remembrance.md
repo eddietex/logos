@@ -125,6 +125,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - **Revelation 18:5** — *"God has remembered her iniquities"*: the pattern's other edge, and proof
   that the verb is about action rather than sentiment.
 
+### The commandments at Sinai — Exodus 20:8–11
+
+Remembering the Sabbath has an enacted form: the hearer keeps it holy by interrupting the six-day
+labor pattern for the entire household (20:8–11). The stated basis in this version is God's creation
+rest. Deuteronomy 5:15 instead makes remembered servitude and rescue the explicit Sabbath rationale,
+a difference kept in [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]]. See
+[[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Waters Recede]] — *"God remembered Noah"* (8:1), the flood's hinge and the theme's first
@@ -286,6 +294,8 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   shall not forget"* (25:19). ***Zēker*** **occurs once before, for God's own name**: *"this is my memorial
   (zikrî) to all generations"* (3:15; WLC) — **God's memory lasts *lədōr dōr*; Amalek's is erased by a war
   *middōr dōr*** (17:16)
+
+- [[The Ten Commandments]] — Exodus 20:8–11; remembering a day means keeping its prescribed rest
 
 ## Related themes
 

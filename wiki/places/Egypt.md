@@ -71,6 +71,12 @@ he did to the Egyptians (19:4). The contrast is not merely between two territori
 destination is Yahweh himself. Egypt's defeat is evidence the gathered people have already
 seen, before they promise covenant obedience. See [[Israel at Mount Sinai]].
 
+**The commandments begin by recalling departure from its bondage.** God identifies himself through
+bringing Israel out of Egypt (20:2), so the commands are addressed to people already rescued. The
+Sabbath paragraph of this Exodus version grounds rest in creation (20:11); Deuteronomy 5:15 later
+makes remembered Egyptian servitude its explicit Sabbath rationale. See [[The Ten Commandments]] and
+[[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]].
+
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:6 as Ham's second son, 10:13–14 with seven descendants
@@ -285,6 +291,9 @@ seen, before they promise covenant obedience. See [[Israel at Mount Sinai]].
   Israel out of Egypt"*; *"delivered you out of the hand of the Egyptians"*, three times in two verses — the
   words of the bush (3:8; WLC), blessed by a Midianite
 - [[Israel at Mount Sinai]] — Exodus 19:1, 4; departure recalled and judgment on the Egyptians named
+
+- [[The Ten Commandments]] — Exodus 20:2; remembered as the house of bondage at the opening of the
+  commandments
 
 ## Related places
 

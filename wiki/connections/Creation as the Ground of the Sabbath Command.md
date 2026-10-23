@@ -7,48 +7,50 @@ tags: [connection]
 
 ## Passages involved
 
-- [[The Creation of the World]] — Genesis 2:2–3
-- [[Manna and Quail]] — Exodus 16:22–30, the first *Sabbath* by name, before the command
-- Exodus 20:8–11 *(not yet ingested)*
-- Deuteronomy 5:12–15 *(not yet ingested)*
+- [[The Creation of the World]] — Genesis 2:2–3.
+- [[Manna and Quail]] — Exodus 16:22–30, Sabbath practiced before the Sinai speech.
+- [[The Ten Commandments]] — Exodus 20:8–11.
+- Deuteronomy 5:12–15 — the parallel Sabbath instruction; verified WEB, not yet ingested.
 
 ## Analysis
 
-The fourth commandment does not merely resemble Genesis 2:2–3; it cites it. Exodus 20:11: *"for
-in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the
-seventh day; therefore Yahweh blessed the Sabbath day, and made it holy."* Blessed, made holy,
-rested on the seventh — the same three verbs Genesis 2:3 uses, in the same order, applied now to
-a day Israel is commanded to keep. The command's logic is imitation: the week Israel works is
-the week God worked.
+Exodus 20:11 expressly grounds the command in God's making of heaven, earth, sea, and their contents
+in six days, followed by rest on the seventh. Genesis 2:2–3 gives the narrative pattern: God
+finishes his work, rests, blesses the seventh day, and makes it holy. The command applies that
+pattern to the assembly's week.
 
-**A tension worth holding open.** Deuteronomy 5:12–15 repeats the same commandment with a
-different rationale. Not creation, but the exodus: *"You shall remember that you were a servant
-in the land of Egypt, and Yahweh your God brought you out of there… therefore Yahweh your God
-commanded you to keep the Sabbath day."* Where Exodus grounds rest in God's rest, Deuteronomy
-grounds it in Israel's rescue from a place where they were never allowed to stop, and its
-version dwells on the servants and animals who must rest too.
+**The correspondence is not a verbatim repetition.** This page previously claimed that the three
+actions were given in the same order and used the same verbs. That was too strong: in the raw WEB,
+Genesis 2:3 states blessing and making holy before explaining that God rested; Exodus 20:11 states
+rest before blessing and making holy. This revision compares the verified English texts and makes no
+claim of identical Hebrew verbs.
 
-These are not contradictory — one command, two reasons — but they are genuinely different
-reasons, pointing the observance in different directions: worship of the creator on one hand,
-social liberation on the other. Later argument about the Sabbath (and about Sunday) tends to
-lean on one of the two, and it is worth noting which whenever the theme recurs.
+Exodus 20:10 specifies who receives the rest: the hearer, children, male and female servants,
+livestock, and the stranger within the gates. The creation rationale therefore becomes an obligation
+governing authority over others as well as personal observance. The command does not dissolve the
+hierarchy of the household; servants are still named among the neighbor's household in 20:17.
+
+**Deuteronomy gives a different stated rationale.** Its 5:14 names rest for servants equal to that
+of the hearer, and 5:15 recalls bondage in Egypt and Yahweh's rescue as the reason for the command.
+Creation and liberation are different grounds, though they need not conflict. Shared rest is already
+present in Exodus; it would be inaccurate to make concern for servants an entirely new feature in
+Deuteronomy. See [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]].
+
+**The manna supplies an earlier practice and the language of gift.** Moses announces the holy
+Sabbath in Exodus 16:23, God provides the double portion and names the Sabbath as given in 16:29,
+and the people rest in 16:30. Instructions as well as provision are present before the Sinai speech.
+The movement is from creation narrative, through wilderness gift and practice, to an explicit
+creation-grounded covenant command; not from a wholly command-free gift to the first rule about
+rest.
+
+**Sources:** Genesis 2:2–3 and Exodus 16:22–30; 20:8–11 checked in existing raw WEB files.
+Deuteronomy verified 2026-10-23 from bible-api.com's WEB, request `Deuteronomy
+5:1-33?translation=web`. Earlier lexical first-occurrence claims are not needed for this comparison
+and are not repeated without a source-language check.
 
 ## Significance
 
-This is the clearest case in the Torah of a narrative detail becoming legally load-bearing: the
-seventh day of Genesis 1 is not decoration on the creation account but the foundation of a
-commandment. It also establishes the pattern by which Israel's law is repeatedly rooted in
-either creation or the exodus — the two events the Hebrew Bible keeps returning to as reasons
-for anything.
-
-**Before either rationale, a third: gift.** The noun *šabbāt* first appears in Exodus 16, not Exodus 20,
-and the first thing said about it is neither creation nor rescue: ***"Yahweh has given you the
-Sabbath"*** (16:29), with the verb of *"the bread which Yahweh has given you"* (16:15; WLC). **It arrives as
-a fact about where food will and will not be** — *"Six days you shall gather it, but on the seventh day is
-the Sabbath. In it there shall be none"* (16:26) — and **the people's first keeping of it is described in
-Genesis 2's verb**: *"So the people rested (wayyišbətû) on the seventh day"* (16:30), the first time people
-are the subject of *šābat* (WLC lemma search, Genesis–Exodus). **Genesis 2 supplies the verb, Exodus 16 the
-noun, and Exodus 20 the reason.** See [[Manna and Quail]].
-
-Revisit when Exodus 20 and Deuteronomy 5 are ingested, and again for Hebrews 3:7–4:11, which
-reads God's creation rest as an invitation still standing.
+The creation narrative becomes a reason to limit work and protect the rest of dependents.
+[[Sabbath]], [[Creation]], [[Work]], and [[Slavery and Servitude]] therefore belong in the same
+reading. The later Deuteronomy rationale adds remembered liberation without cancelling the earlier
+creation rationale. Hebrews 3:7–4:11 remains a future comparison by reference only.

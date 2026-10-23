@@ -150,6 +150,13 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
   himself will be with them"*: the covenant formula of Leviticus 26:12 as the last thing said about
   the new creation.
 
+### The commandments at Sinai — Exodus 20:1–6
+
+The covenant address now gives concrete commands to the people who assented in Exodus 19:8. God
+first identifies himself by the rescue already accomplished (20:2), then requires exclusive
+allegiance and commandment keeping (20:3–6). This is the spoken legislation, not yet the blood
+ratification of Exodus 24. See [[The Ten Commandments]].
+
 ## Key passages
 
 - [[Noah and the Flood]] — *bərît*'s first occurrence, offered inside the announcement of universal
@@ -331,6 +338,9 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
   17:7–8's *"to be a God to you"* —
   [[I Will Take You as My People - The Covenant Formula]]
 - [[Israel at Mount Sinai]] — Exodus 19:4–8; rescue recalled, obedience required, and the whole assembly assenting
+
+- [[The Ten Commandments]] — Exodus 20:1–6; rescue grounds exclusive allegiance and concrete
+  covenant obligations
 
 ## Related themes
 

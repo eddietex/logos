@@ -34,6 +34,8 @@ tags: [connection]
 - **John 9:1–3** — *"Rabbi, who sinned, this man or his parents, that he was born blind?" Jesus
   answered, "Neither did this man sin, nor his parents."*
 
+- [[The Ten Commandments]] — Exodus 20:5–6, now ingested in its setting of exclusive worship
+
 ## Analysis
 
 **Job 21:19 is the third stage of an argument in retreat.** The friends' doctrine began by reading
@@ -78,14 +80,34 @@ parents?"* assumes that the blindness is a payment and only asks whose account i
 the friends' question exactly, with Bildad's answer and the 21:19 answer as its two options. Jesus
 refuses the frame: *"Neither."*
 
+### The warning in its ingested Exodus setting
+
+Exodus 20:5–6 places the generational warning within the command against rival worship. The phrase
+about those who hate God is followed by loving kindness to thousands of those who love him and keep
+his commands. The raw WEB does not add “generations” after “thousands.” The contrast is substantial,
+but it does not supply a full account of how a child's culpability relates to a parent's conduct.
+
+**The tension must remain explicit.** Exodus 20:5 describes iniquity reaching children; Ezekiel
+18:19–20 explicitly preserves the life of the righteous son and refuses the transfer of the father's
+iniquity. Job 21:19–21 demands recompense to the wrongdoer rather than his children. Continuing the
+same hatred, distinguishing shared consequences from individual guilt, or reading a developing
+argument across Scripture are possible interpretations. The earlier conclusion here treated the
+movement as a settled resolution; that goes beyond what these distinct statements establish on their
+own.
+
+**Source check for this addition:** Exodus 20:5–6 and Job 21:19–21 read in existing raw WEB files;
+Ezekiel 18:19–23 verified 2026-10-23 from bible-api.com's WEB, request `Ezekiel
+18:19-23?translation=web`. The earlier references elsewhere on this page are not newly claimed as
+verified quotations by this ingest.
+
 ## Significance
 
-This is the wiki's clearest case of the Bible arguing with itself across books and arriving
-somewhere. The Decalogue's formula, Deuteronomy's legal limit, the exiles' bitter proverb, the
-prophets' revocation, and Jesus' *"Neither"* are not a contradiction left standing; they are a
-conversation that moves. Job 21:19 belongs in it as the objection from below — the protest of the
-man the principle would be applied to — and it makes the argument the prophets will later make in
-God's name.
+The texts create a sustained debate about responsibility across generations. The Decalogue's
+warning, Deuteronomy's limit on human courts, the exiles' proverb, prophetic insistence on
+individual responsibility, Job's objection, and the rejection of the disciples' premise in
+John 9 should be read in their own settings. A developmental reading is possible, but **the
+tension between Exodus 20:5 and Ezekiel 18:20 is not erased by naming the sequence a conversation**.
+Job 21:19 belongs as a protest against charging the wrong person's account.
 
 It also shows the friends' doctrine failing on its own terms. Retribution exists to defend God's
 justice. Pushed to the children, it requires God to punish the innocent in order to keep the account

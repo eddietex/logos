@@ -80,6 +80,12 @@ itself is not named as the goal in the Song**; it speaks of *"the mountain of yo
 sanctuary"* (15:17). See [[The Song of the Sea]] and
 [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
 
+**Life in the given land is attached to honoring parents.** Exodus 20:12 names neither Canaan nor a
+new arrival; within the exodus story, the land Yahweh gives points ahead to the promised
+destination. The command therefore imagines a settled future while Israel is still at Sinai. This is
+a contextual identification, not a claim that the verse supplies the place name. See
+[[The Ten Commandments]].
+
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:15–19: eleven peoples and the only border in the chapter
@@ -235,6 +241,9 @@ sanctuary"* (15:17). See [[The Song of the Sea]] and
 - [[Manna and Quail]] — Exodus 16:35; **where the manna ends.** *"They ate the manna until they came to the
   borders of the land of Canaan"* — also called *"an inhabited land"* (*ʾereṣ nôšābet*, WLC), a land where
   others already dwell; Joshua 5:12 records the day it ceased (*not yet ingested*)
+
+- [[The Ten Commandments]] — Exodus 20:12; the promised land is the contextual future setting of the
+  long-life promise
 
 ## Related places
 

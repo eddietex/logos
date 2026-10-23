@@ -83,6 +83,14 @@ implied and never stated: *"We love him, because he first loved us."* 1 Corinthi
 *agapē* what Song of Songs 8 did for *ʾāhab*, and John 15:13 fixes its measure at the point Genesis
 22 had raised and not answered.
 
+### The commandments at Sinai — Exodus 20:6
+
+The command against rival worship sets love of God alongside keeping his commandments (20:6), in
+contrast with hatred in 20:5. Love here is expressed in allegiance and obedience, not merely
+preference among family members. Romans 13:8–10 later gathers several of these neighbor-directed
+commands under love; see [[Coveting and Love - The Commandments in Romans 7 and 13]]. See
+[[The Ten Commandments]].
+
 ## Key passages
 
 - [[The Binding of Isaac]] — Genesis 22:2; **the first occurrence of the verb in Scripture**, in the
@@ -138,6 +146,8 @@ implied and never stated: *"We love him, because he first loved us."* 1 Corinthi
 - [[The Song of the Sea]] — Exodus 15:13; **the first *ḥesed* in Exodus.** *"You, in your loving kindness, have led the
   people that you have redeemed"* — after eleven verses in Genesis (WLC lemma search), the word returns as
   the reason for the exodus, ahead of the commandments (20:6) and the name at Sinai (34:6–7).
+
+- [[The Ten Commandments]] — Exodus 20:6; love for God paired with commandment keeping
 
 ## Related themes
 

@@ -6,15 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
-**God putting a person in a situation whose outcome will show what was in them, and telling the
-reader what he is doing while telling the person nothing.**
+**God putting people to the proof, revealing their response and sometimes forming it.**
+Genesis 22 and Job disclose the test to readers while withholding that knowledge from the tested;
+Exodus 20:20 explicitly explains its purpose to the people in the encounter.
 
 The Hebrew is ***nissâ*** (נִסָּה), to test, try, put to the proof — the same root as *nēs*, a
 standard or banner, something raised so it can be seen. **Its first occurrence in Scripture is
 Genesis 22:1**: *"After these things, God tested Abraham."* The verb is not about tempting toward
-evil and not about punishment; it is about producing evidence.
+evil or punitive revenge. Testing can disclose a response; Exodus 20:20 also gives it the
+purpose of forming fear that restrains sin.
 
-**Three features hold across every biblical instance, and all three are set in Genesis 22.**
+**Three features of the Genesis 22 pattern recur in Job; they are not universal rules for every test.**
 
 1. **The test is disclosed to the reader and withheld from the tested.** Genesis tells us in the
    first verse; Abraham is never told at all, not even after the angel speaks. Job's prologue does
@@ -98,13 +100,20 @@ condition (Exodus 15:25–26); in the wilderness of Sin he says why he will rain
 them, whether they will walk in my law, or not"*** (16:4) — **and the test is a daily rule**: gather a day's
 portion each day, keep nothing overnight, gather double on the sixth day and nothing on the seventh. **It is
 failed twice** — by those who kept it overnight (16:20) and by those who went out on the seventh day (16:27).
-**Deuteronomy gives the reading afterwards, to the reader as always**: *"to prove you, to know what was in your
-heart, whether you would keep his commandments, or not. He humbled you, and allowed you to be hungry, and fed
-you with manna"* (Deuteronomy 8:2–3; WEB; *not yet ingested*). See [[Manna and Quail]].
+**Deuteronomy gives a retrospective reading in Moses' address to Israel:** the wilderness tests
+whether Israel will keep the commandments, and the manna teaches dependence on what comes from
+God (Deuteronomy 8:2–3). This comparison was verified from bible-api.com's WEB on 2026-10-23,
+request `Deuteronomy 8:2-3?translation=web`; the verses remain un-ingested. See [[Manna and Quail]].
 
-**What the Bible never does is explain a test to the person inside it while it is running.** Job gets
-a whirlwind and no answer; Abraham gets a ram and a promise; Israel gets forty years and a sermon
-afterwards. **The explanation, when it comes, always comes to the reader.**
+### The commandments at Sinai — Exodus 20:18–21
+
+**Exodus 20:20 corrects this page's former universal claim that a test is never explained to its
+participants while it occurs.** Moses tells the frightened people that God has come to test them so
+that his fear may restrain sin. The encounter has not simply vanished: the people remain at a
+distance while Moses approaches the darkness (20:21). Genesis 22 and Job 1–2 still give readers
+knowledge withheld from their protagonists, but the Sinai test includes explanation to the tested.
+Its stated aim is formative and preventive, not only the discovery of an existing disposition. See
+[[The Ten Commandments]].
 
 ## Key passages
 
@@ -114,8 +123,8 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22; **the mechanism of Genesis 22 with
   the reasons argued out loud.** Both narratives tell the reader in advance and tell the man
   nothing, and both use *fears God* as the thing measured. What Job 1 adds is **motive**: Genesis 22
-  asks whether Abraham will obey, Job 1 asks whether anyone obeys *ḥinnām*, for nothing. And unlike
-  every other test in Scripture, this one is **never disclosed to its subject afterwards** — not in
+  asks whether Abraham will obey, Job 1 asks whether anyone obeys *ḥinnām*, for nothing. In this narrative the heavenly challenge is
+  **never disclosed to its subject afterwards** — not in
   the whirlwind, not in the epilogue, not by anyone
 - [[The Second Test]] — Job 2:1–10; **the instalment that exposes the structure.** God announces at
   2:3 that the first test has been passed, and a second is run at 2:6 anyway. **A test whose result
@@ -201,6 +210,9 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   *tənassûn*, the fourth *nissâ* in Scripture and the first with God as its object; *"Is Yahweh among us, or
   not?"*; the place named *Massah*. Unpunished in Exodus, forbidden in Deuteronomy 6:16, quoted by Jesus in
   Matthew 4:7
+
+- [[The Ten Commandments]] — Exodus 20:18–21; Moses explains the test to the people during the
+  encounter
 
 ## Related themes
 
