@@ -409,7 +409,7 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - Exodus 15:4, 11, 13 — *yārâ*; *"among the gods (ʾēlim)"*; *"guided (nēhaltā)"* — [[The Song of the Sea]]
 - Exodus 16:1–4 — *"They took their journey from Elim"*; *"murmured"*; *"that I may test them"* —
   [[Manna and Quail]]
-- Exodus 17:1–7 — water at Massah and Meribah; *"Why do you test Yahweh?"* *(not yet ingested)*
+- Exodus 17:1–7 — water at Massah and Meribah; *"Why do you test Yahweh?"* — [[Water from the Rock]]
 - Exodus 19:5; 23:22, 25 — *"if you will indeed obey my voice"*; *"I will take sickness away"* *(not yet
   ingested)*
 - Numbers 5:18 — *"the water of bitterness that brings a curse"* *(not yet ingested)*

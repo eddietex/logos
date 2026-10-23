@@ -47,6 +47,8 @@ and files it under a separate number from the place; the meaning is the same.
 - [[The Red Sea]] — three days behind it
 - [[Elim]] — the next camp, with twelve springs
 - [[Egypt]] — whose *"diseases"* the promise of 15:26 keeps away
+- [[Massah and Meribah]] — the third water of the wilderness, named for the people rather than the water
+  (17:7)
 
 ## Events here
 

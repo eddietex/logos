@@ -76,11 +76,22 @@ proof to a smelter's**, and with it the emphasis moves from demonstrating what i
 what is not.
 
 **The New Testament keeps both halves.** Jesus in the wilderness is *led up by the Spirit to be
-tempted* (Matthew 4:1) and answers the third temptation with Deuteronomy's rule against testing God.
+tempted* (Matthew 4:1) and answers the second temptation in Matthew's order (4:5–7; the third in Luke's, 4:9–12) with Deuteronomy's
+rule against testing God (Deuteronomy 6:16; Matthew 4:7).
 James makes endurance the point — *"the testing of your faith produces endurance"* (1:3) — and then
 draws the line at 1:13 quoted above. 1 Peter 1:6–7 returns to the furnace: faith *"more precious than
 gold which perishes even though it is tested by fire"*. And Hebrews 11:17 uses the Genesis word of
 Abraham outright: *"By faith, Abraham, being tested, offered up Isaac."*
+
+**At Rephidim the verb turns round.** The people quarrel with Moses, and he answers ***"Why do you quarrel with
+me? Why do you test Yahweh?"*** (Exodus 17:2) — **the first time in Scripture a human being tests God**, after
+three tests by God (Genesis 22:1; Exodus 15:25; 16:4; WLC lemma search, Genesis–Deuteronomy). **The test is a
+demand for proof**: *"Is Yahweh among us, or not?"* (17:7). The place is named *Massah*, *testing*, from the
+verb. **Exodus records no punishment; Deuteronomy makes it a commandment** — *"You shall not tempt Yahweh your
+God, as you tempted him in Massah"* (6:16) — and Psalm 95, Hebrews 3, and Jesus' answer in the wilderness
+(Matthew 4:7) all take it up. **Two later texts turn the verb back**: God *"tested you at the waters of
+Meribah"* (Psalm 81:7), and *"proved"* Levi's godly one *"at Massah"* (Deuteronomy 33:8). See
+[[Water from the Rock]] and [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]].
 
 **The manna is the first test whose content is stated.** At Marah God *"tested them"* and the content was a
 condition (Exodus 15:25–26); in the wilderness of Sin he says why he will rain bread — ***"that I may test
@@ -186,6 +197,10 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[Manna and Quail]] — Exodus 16:4; **the test with a stated content.** *"That I may test them, whether they
   will walk in my law, or not"* — the third *nissâ* in Scripture; a daily ration and a sixth-day double, failed
   by the hoarders and by the seventh-day gatherers
+- [[Water from the Rock]] — Exodus 17:2, 7; **the first test of God by man.** *"Why do you test Yahweh?"* —
+  *tənassûn*, the fourth *nissâ* in Scripture and the first with God as its object; *"Is Yahweh among us, or
+  not?"*; the place named *Massah*. Unpunished in Exodus, forbidden in Deuteronomy 6:16, quoted by Jesus in
+  Matthew 4:7
 
 ## Related themes
 

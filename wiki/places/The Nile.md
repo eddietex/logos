@@ -85,6 +85,8 @@ the Wadi el-Arish on the border rather than the Nile; see
   river shall swarm with frogs"* — *šāraṣ*, the swarming of creation's fifth day (Genesis 1:20) and of
   Israel in Egypt (Exodus 1:7) — and when Moses prays, the frogs *"remain in the river only"*. Pharaoh is
   met *"at the water"* in the morning again before the flies (8:20)
+- [[Water from the Rock]] — Exodus 17:5; **the rod remembered by its first blow.** *"The rod in your hand with
+  which you struck the Nile"* — said to Moses, at the rock where the same rod brings water out of stone
 
 ## Related places
 

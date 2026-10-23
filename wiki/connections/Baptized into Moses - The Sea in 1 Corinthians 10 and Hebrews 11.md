@@ -60,3 +60,9 @@ in each text and does not reconcile them.** See [[Faith]].
   [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]].
 - **It makes Exodus 14:31's *"and in his servant Moses"* the hinge.** Belief in Moses beside belief in
   Yahweh is new in the text, and Paul's *"into Moses"* gives that bond a sacramental name.
+- **Paul's paragraph goes on from the sea to the food and the water.** *"and all ate the same spiritual food;
+  and all drank the same spiritual drink. For they drank of a spiritual rock that followed them, and the rock
+  was Christ"* (1 Corinthians 10:3–4; WEB). Paul does not name the episodes; the food is usually read as the
+  manna, and the rock as the water of Exodus 17 and Numbers 20.
+  See [[Bread from Heaven - The Manna and John 6]] and
+  [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]].

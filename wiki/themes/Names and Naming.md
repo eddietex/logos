@@ -231,6 +231,10 @@ five times**, and each is a covenant hinge.
 - [[Manna and Quail]] — Exodus 16:15, 31; **a food named by a question.** *"What is it?"* (*mān hûʾ*, which the
   WLC parses as an interrogative) — *"The house of Israel called its name Manna"*; **the first thing in
   Exodus that Israel names**, in the naming formula of Genesis
+- [[Water from the Rock]] — Exodus 17:7; **a place named for the people's sin.** *"He called the name of the place
+  Massah, and Meribah"* — *testing* and *quarreling*, from the two verbs of 17:2, glossed in order. Marah was
+  named for its water; Massah and Meribah are named for what Israel did. **The names outlive the story**:
+  *Massah* in Deuteronomy 6:16, *Meribah* again at Kadesh (Numbers 20:13)
 
 ## Related themes
 

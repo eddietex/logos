@@ -288,6 +288,9 @@ what Job is asking for.
 - [[Manna and Quail]] — Exodus 16:6–9; **the mediators step aside.** *"Who are we, that you murmur against us?
   … Your murmurings are not against us, but against Yahweh"* — Moses and Aaron refuse to be the object of the
   complaint and pass it through; Moses gives Aaron the words, and Aaron speaks as the glory appears
+- [[Water from the Rock]] — Exodus 17:2–6; **the mediator in danger from those he mediates for.** *"Why do you
+  quarrel with me? Why do you test Yahweh?"*; *"They are almost ready to stone me"*; sent to *"walk on before
+  the people"* with the elders as witnesses. **The quarrel with the mediator is counted as a test of God**
 
 ## Related themes
 

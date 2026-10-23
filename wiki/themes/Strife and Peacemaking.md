@@ -69,6 +69,13 @@ at peace with all men"* (Romans 12:18); *"Why not rather be wronged? Why not rat
 its motive. James 4:1–2 traces quarrels to wanting, and Hebrews 12:14 makes pursuing peace a
 condition of seeing the Lord.
 
+**Exodus brings the word into Israel's camp.** *Rîb*, the verb of the herdsmen at Isaac's wells (*"The water is
+ours"*, Genesis 26:20), is next used of Israel against Moses at Rephidim: *"the people quarreled with Moses"*,
+and he asks *"Why do you quarrel with me?"* (Exodus 17:2; WLC lemma search, Genesis–Exodus). **Again the
+quarrel is over water**, and again the place is named for it — *Meribah*, *quarreling* (17:7), as Isaac named
+*Esek*, *contention*. **But this quarrel is with God's appointed leader and counted as a test of God**; the
+water is given anyway. See [[Water from the Rock]].
+
 **What the theme does not say** is that yielding always works or is always right. Abram concedes to
 Lot and then arms three hundred eighteen men to get him back (14:14). The prophets prosecute God's
 *rîb* rather than dropping it. Genesis presents peacemaking as costly, occasional, and unrewarded on
@@ -192,6 +199,9 @@ the land.
   in the wrong *"Why do you strike your fellow?"* and is told he has no right to ask; Stephen renders
   it as Moses *"urged them to be at peace again"* (Acts 7:26). **The first quarrel inside Israel in
   Exodus is a Hebrew striking a Hebrew while Egypt strikes them all**
+- [[Water from the Rock]] — Exodus 17:2, 7; **the quarrel over water, inside Israel.** *"The people quarreled
+  with Moses"* — *rîb*, the verb of Isaac's wells (Genesis 26:20) — and the place named *Meribah*, *quarreling*.
+  **Moses does not answer the quarrel; he turns it into a question about God** — *"Why do you test Yahweh?"*
 
 ## Related themes
 

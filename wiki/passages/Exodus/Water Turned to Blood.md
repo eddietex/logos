@@ -199,7 +199,10 @@ obedience formula of 7:6 again. See [[As God Commanded, So He Did - The Obedienc
 ***"And he lifted up the rod, and struck"*** — ***wayyārem bammaṭṭeh wayyak***. **The subject is singular
 and unnamed.** 7:19 told Aaron to stretch out the rod; 7:17 had God say *"the rod that is in my
 hand"*; 7:15 put it in Moses' hand. **The text does not say whose hand lifts it**, and the
-ambiguity follows the chain of speech of 7:1–2 into action.
+ambiguity follows the chain of speech of 7:1–2 into action. **Exodus 17:5 later answers in God's words,
+to Moses**: *"the rod in your hand with which you struck (hikkîtā) the Nile"* — second-person singular
+(WLC). **The wiki records both and does not harmonize them**: here the command goes to Aaron (7:19), there
+the blow is called Moses'. See [[Water from the Rock]].
 
 ***"In the sight of Pharaoh, and in the sight of his servants"*** — *ləʿênê parʿōh ûləʿênê ʿăbādāyw*.
 **The same pair as 5:21**: the foremen said Moses had made them stink *"in the eyes of Pharaoh, and in

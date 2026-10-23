@@ -13,7 +13,7 @@ tags: [place]
 > encamped there by the waters. (Exodus 15:27)
 
 **It is the first place in the wilderness that is described rather than named for an event.** Marah is
-named for its bitter water (15:23); Massah and Meribah will be named for a quarrel (17:7). Elim gets a
+named for its bitter water (15:23); [[Massah and Meribah]] will be named for a quarrel (17:7). Elim gets a
 count — ***šətêm ʿeśrēh ʿênōt mayim wəšibʿîm təmārîm*** (WLC) — and a camp *"by the waters"*. **Nothing
 happens there.** No complaint, no miracle, and no word from God are recorded; the next verse leaves it
 (16:1).

@@ -292,6 +292,21 @@ rulers report the double gathering; God had told him of the sixth day at 16:5, a
 passed it on. **God's rebuke for the Sabbath-breakers is addressed to him in the plural** — *"How long do you
 refuse …?"* (16:28). See [[Manna and Quail]].
 
+**At Rephidim the complaint becomes a quarrel, and he names it as a test of God.** *"The people quarreled
+(wayyāreb) with Moses"* — *rîb*, the verb of the herdsmen at Isaac's wells (Genesis 26:20; WLC) — and he
+answers in two lines that say one thing: ***"Why do you quarrel with me? Why do you test Yahweh?"*** (17:2),
+**the first time in Scripture a human being is said to test God** (WLC lemma search, Genesis–Deuteronomy).
+**He is in danger for the first time from his own people**: *"They are almost ready to stone me"* (17:4) —
+*sāqal*, the verb he used when he feared the Egyptians would stone Israel (8:26 WEB; 8:22 Hebrew; WLC). **He
+cries to Yahweh for the third time** (8:12 WEB; 15:25; 17:4; WLC), and asks, of *"these people"* (*lāʿām
+hazzeh*), what he is to do with them — the words he used on their behalf after the bricks (5:22). **God sends
+him to walk in front of them**, with the elders, carrying *"the rod … with which you struck the Nile"* (17:5)
+— **the striking credited to him**, though at 7:19 the rod was Aaron's to stretch out. He strikes the rock God
+stands on, *"in the sight of the elders of Israel"*, and the place is named *Massah* and *Meribah* (17:7).
+**Numbers 20 repeats the scene at Kadesh, and there striking the rock costs him the land** (Numbers 20:8–12;
+WEB; *not yet ingested*). See [[Water from the Rock]] and
+[[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]].
+
 ### What is ahead
 
 The rest of the wilderness (17–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
@@ -372,6 +387,9 @@ sections are written as their pericopes arrive.
 - Murmured against with Aaron in the wilderness of Sin; redirects the complaint to God; names the manna
   *"the bread which Yahweh has given"*; angry at the hoarders; announces the Sabbath; commands the jar kept
   for the generations — Exodus 16:1–36, [[Manna and Quail]]
+- Quarreled with at Rephidim; *"Why do you test Yahweh?"*; nearly stoned; cries to Yahweh; strikes the rock in
+  Horeb with the rod, before the elders; the place named Massah and Meribah — Exodus 17:1–7,
+  [[Water from the Rock]]
 
 ## Appears in
 
@@ -432,6 +450,9 @@ sections are written as their pericopes arrive.
 - [[Manna and Quail]] — Exodus 16:2–33; **"Who are we?"** *"Your murmurings are not against us, but against
   Yahweh"*; *"It is the bread which Yahweh has given you to eat"*; *"Moses was angry with them"*; *"Tomorrow
   is a solemn rest, a holy Sabbath to Yahweh"*
+- [[Water from the Rock]] — Exodus 17:2–7; **"Why do you test Yahweh?"** *"They are almost ready to stone me"*;
+  *"Walk on before the people"*; *"the rod … with which you struck the Nile"*; *"Moses did so in the sight of
+  the elders of Israel"*
 
 ## Related people
 

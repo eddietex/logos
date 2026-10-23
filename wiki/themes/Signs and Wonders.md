@@ -117,6 +117,10 @@ one.
   in Egypt.** At the Nile *"the Egyptians couldn't drink"* (7:21); at Marah Israel *"couldn't drink"*
   (15:23; *lōʾ yākəlû* both times, WLC), and a tree thrown in makes the water sweet. **The first plague spoiled
   water; the first wilderness sign heals it.** Its mechanism is not given
+- [[Water from the Rock]] — Exodus 17:5–6; **the rod of the first plague, used for water.** *"The rod … with which
+  you struck the Nile"* now strikes a rock and water comes out; done *"in the sight of the elders of Israel"*,
+  as the first plague was *"in the sight of Pharaoh"* (7:20). **The miracle itself is not narrated** — only the
+  command and *"Moses did so"*
 
 ## Related themes
 

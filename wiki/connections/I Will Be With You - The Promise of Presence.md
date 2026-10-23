@@ -13,6 +13,7 @@ tags: [connection]
 - Genesis 39:2, 3, 21, 23 — *"Yahweh was with Joseph"*, in a house and in a prison —
   [[Joseph in Potiphar's House]]
 - Exodus 3:12 — to Moses at the bush
+- Exodus 17:7 — the promise doubted: *"Is Yahweh among us, or not?"* — [[Water from the Rock]]
 - Joshua 1:5, 9 — *"I will not fail you, nor forsake you"*
 - Judges 6:12, 16 — to Gideon in a winepress
 - Isaiah 41:10; 43:2 — to the exiles
@@ -115,3 +116,9 @@ standard for that.**
 
 See [[Jacob's Ladder at Bethel]], [[Isaac in Gerar]], [[Covenant]], [[Call and Election]],
 [[Favor and Grace]], [[Land and Sojourning]], and [[Walking with God]].
+
+**At Rephidim the promise becomes the people's question.** *"Is Yahweh among us (bəqirbēnû), or not?"* (Exodus
+17:7) is asked in a camp without water, after the cloud, the sea, and the manna, and the narrator counts it as
+a test of God. **The same word returns as a plea**: after the golden calf God says *"I will not go up among
+you"* (33:3), and Moses asks *"please let the Lord go among us (bəqirbēnû)"* (34:9; WLC; *not yet ingested*).
+See [[Water from the Rock]].

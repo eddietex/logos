@@ -36,6 +36,15 @@ month after the sea.** The wilderness and the mountain share the consonants *s-y
 **The bush may have named the mountain.** *Sənê*, the *bush* of 3:2–4, is close in sound to *Sînay*,
 and many commentators hear the pun. The etymology of *Sinai* is not known.
 
+**The rock of the water is *"the rock in Horeb"*** (17:6) — **the second *Horeb* in Exodus**, while Israel is
+still camped at Rephidim, which it leaves before it reaches the wilderness of Sinai (19:2). **The text does not
+resolve the geography.** Readings reported, not adopted: *Horeb* as a region wider than the mountain, Rephidim
+lying at its edge; Moses and the elders walking ahead (*"Walk on before the people"*, 17:5) as far as the
+mountain; or the episode placed by theme rather than by stage. **God says he will *"stand"* there on the
+rock**, and later, on the mountain, he will set Moses *"on the rock"* while his glory passes (33:21–22; *not
+yet ingested*) — the first two scenes with *ṣûr*, *rock*, in Scripture both have God and Moses at a rock of
+this mountain or its region (WLC lemma search, Genesis–Exodus). See [[Water from the Rock]] and [[Rephidim]].
+
 **Elijah comes back to it.** Fleeing Jezebel, he goes *"forty days and forty nights to Horeb, God's
 Mountain"* (1 Kings 19:8) — and there God is not in the fire.
 
@@ -50,17 +59,23 @@ Mountain"* (1 Kings 19:8) — and there God is not in the fire.
 - [[Manna and Quail]] — Exodus 16:1; **the first *Sinai* in Scripture.** *"The wilderness of Sin, which is
   between Elim and Sinai"* — named as the end of a stretch of road before anything has happened there under
   that name (WLC lemma search, Genesis–Deuteronomy)
+- [[Water from the Rock]] — Exodus 17:6; **"the rock in Horeb".** *"Behold, I will stand before you there on the
+  rock in Horeb"*; struck with the rod, water comes out — while Israel is camped at Rephidim
 
 ## Related places
 
 - [[Midian]] — whose priest's flock Moses is grazing when he reaches it
 - [[Egypt]] — the country Israel will come out of to serve God here
 - [[The Wilderness of Sin]] — *"between Elim and Sinai"* (Exodus 16:1); its name shares Sinai's consonants
+- [[Rephidim]] — the camp from which Moses goes to *"the rock in Horeb"* (17:1, 6), and the last before Sinai
+  (19:2)
+- [[Massah and Meribah]] — the name given to the place of the water (17:7)
 
 ## Events here
 
 - The burning bush; the call of Moses; the name *ʾehyeh ʾăšer ʾehyeh* — Exodus 3:1–4:17
 - Aaron meets Moses *"on God's mountain"* and kisses him — Exodus 4:27, [[Moses Returns to Egypt]]
-- *(ahead)* Water from the rock *"on the rock in Horeb"* — Exodus 17:6
+- Water from the rock *"on the rock in Horeb"*, where God stands before Moses — Exodus 17:6,
+  [[Water from the Rock]]
 - *(ahead)* The covenant, the law, and the tabernacle, as *Sinai* — Exodus 19–40
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18

@@ -20,6 +20,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Divine Council]] | thread | Job 1:6; 2:1 · Job 38:7 · Genesis 1:26; 6:1–4 · 1 Kings 22:19–23 · Psalm 82 · Psalm 89:5–7 · Deuteronomy 32:8 · Isaiah 6:1–8 · Zechariah 3:1–5 · Daniel 7:9–10 · Revelation 4–5 · Job 11:5–6 · Job 25:2–3 |
 | [[Do Not Cover My Blood]] | allusion | Genesis 4:10–11 · Job 16:18 · Leviticus 17:13 · Deuteronomy 21:1–9 · Isaiah 26:21 · Ezekiel 24:6–8 · Hebrews 12:24 · Revelation 6:9–10 · Job 31:38–39 |
 | [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]] | thread | Job 5:17–18 · Proverbs 3:11–12 · Psalm 94:12 · Deuteronomy 8:5 · Job 33:14–30; 36:8–15 · Hebrews 12:4–13 · Isaiah 35:3 · Revelation 3:19 · Job 2:3 |
+| [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] | thread | Exodus 17:2, 7 · Deuteronomy 6:16 · Deuteronomy 9:22 · Deuteronomy 33:8 · Psalm 81:7 · Psalm 95:7–11 · Matthew 4:7 · 1 Corinthians 10:9 · Hebrews 3:7–11 |
 | [[Do Not Interpretations Belong to God - Joseph and Daniel]] | parallel | Genesis 40:5–8 · Genesis 41:8, 15–16, 25, 38–39 · Genesis 42:23 · Daniel 1:17–20 · Daniel 2:1–11, 27–30, 47 · Daniel 4:4–9 · Daniel 5:7–12 |
 | [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
 | [[The Door and the Destroyer - Lot's House and the Passover Night]] | thread | Genesis 19:1–29 · Exodus 12:1–28 · Genesis 19:14, 16 · Exodus 12:29–39 |

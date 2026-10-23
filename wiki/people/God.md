@@ -1675,6 +1675,22 @@ nothing.** **He commands a jar of manna kept *"that they may see the bread with 
 wilderness, when I brought you out"*** (16:32) — the exodus claimed in the first person against the people's
 *"you have brought us out"* (16:3). See [[Manna and Quail]], [[Sabbath]], and [[Testing]].
 
+### He is tested, and stands on a rock — Exodus 17:1–7
+
+**He leads them to a camp without water.** Israel travels *"according to Yahweh's commandment"* — *ʿal-pî
+YHWH*, *at the mouth of Yahweh* — *"and encamped in Rephidim; but there was no water"* (17:1). **For the first
+time in Scripture he is the one tested**: three times before, he tested (Genesis 22:1; Exodus 15:25; 16:4); now
+Moses asks the people *"Why do you test (tənassûn) Yahweh?"* (17:2; WLC lemma search, Genesis–Deuteronomy).
+**He says nothing to the people and rebukes no one.** To Moses he says *"Walk on before the people"*, and
+then ***"Behold, I will stand before you there on the rock in Horeb"*** (17:6) — ***ʿōmēd ləpānêkā***, with no
+cloud, fire, or glory mentioned. **The rock Moses strikes is the one God stands on**, and water comes out of
+it. **The question the place is named for is about him**: ***"Is Yahweh among us, or not?"*** (17:7) —
+*bəqirbēnû*, the word Moses will use when he asks him to *"go among us"* after the calf (34:9; WLC). **He
+answers the question with water, not words.** Later Scripture makes the event a commandment (*"You shall not
+tempt Yahweh your God, as you tempted him in Massah"*, Deuteronomy 6:16) and makes *ṣûr*, *rock*, one of his
+names (Deuteronomy 32:4; WLC). See [[Water from the Rock]], [[Testing]], and
+[[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1881,6 +1897,9 @@ wilderness, when I brought you out"*** (16:32) — the exodus claimed in the fir
 - Hears the murmurings; rains bread from the sky and sends quail; tests Israel with a daily rule; his glory
   appears in the cloud; gives the Sabbath; asks *"How long do you refuse?"*; commands the manna kept for the
   generations — Exodus 16:1–36, [[Manna and Quail]]
+- Leads Israel to Rephidim, where there is no water; tested by the people for the first time; sends Moses ahead
+  with the elders and the rod; stands before him on the rock in Horeb; water from the rock; the place named
+  Massah and Meribah — Exodus 17:1–7, [[Water from the Rock]]
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2252,6 +2271,8 @@ wilderness, when I brought you out"*** (16:32) — the exodus claimed in the fir
 - [[Manna and Quail]] — Exodus 16:4–32; **the giver of bread and rest.** *"I will rain bread from the sky"*;
   *"that I may test them"*; *"Yahweh's glory appeared in the cloud"*; *"I have heard the murmurings"*; *"How
   long do you refuse to keep my commandments and my laws?"*; *"Yahweh has given you the Sabbath"*
+- [[Water from the Rock]] — Exodus 17:1–7; **the tested.** *"Why do you test Yahweh?"*; *"I will stand before
+  you there on the rock in Horeb"*; *"Is Yahweh among us, or not?"*
 
 ## Related people
 

@@ -76,8 +76,9 @@ lengthens the contest so that the signs are seen.** See [[Signs and Wonders]].
   of 10:2 (WLC) *(not yet ingested)*
 - Isaiah 6:10 — *"Make the heart of this people fat. Make their ears heavy"* — *heavy* again; quoted
   in the Gospels and Acts *(not yet ingested)*
-- Psalm 95:8; Hebrews 3:8, 15 — *"Don't harden your heart, as at Meribah"*, said to Israel *(not yet
-  ingested)*
+- Psalm 95:8; Hebrews 3:8, 15 — *"Don't harden your heart, as at Meribah"*, said to Israel — *taqšû*, the
+  causative of *qāšâ*, Pharaoh's verb at Exodus 7:3 and 13:15 (WLC) *(not yet ingested)* —
+  [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]]
 - Romans 9:17–18 — Pharaoh as Paul's example *(not yet ingested)* —
   [[For This Very Purpose - Exodus 9.16 in Romans 9.17]]
 
@@ -149,6 +150,9 @@ as those passages are ingested.
   to keep my commandments and my laws?"* — *māʾēn*, the verb of *"he refuses to let the people go"* (7:14) and
   *"How long will you refuse to humble yourself before me?"* (10:3) (WLC lemma search, Genesis–Exodus). **No
   hardening is said of Israel**; the refusal is named, and nothing follows but an empty field
+- [[Water from the Rock]] — Exodus 17:1–7; **the event Psalm 95 calls a hardened heart.** Exodus does not use
+  the word; *"Don't harden (taqšû) your heart, as at Meribah, as in the day of Massah"* (Psalm 95:8; WLC) reads
+  the quarrel and the test with the verb of Pharaoh's heart (7:3; 13:15), and Hebrews 3:8 preaches on it
 
 ## Related themes
 

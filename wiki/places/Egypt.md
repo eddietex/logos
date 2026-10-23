@@ -273,6 +273,8 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   hand in the land of Egypt, when we sat by the meat pots, when we ate our fill of bread"* — **a month after
   leaving, the house of bondage is recalled as the place of bread**, and answered with *"the bread with which
   I fed you in the wilderness, when I brought you out of the land of Egypt"*
+- [[Water from the Rock]] — Exodus 17:3; **"Why have you brought us up out of Egypt?"** — *heʿĕlîtānû*, God's
+  verb at the bush (3:8), turned into the charge; *"to kill us, our children, and our livestock with thirst"*
 
 ## Related places
 
@@ -359,3 +361,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   15:26, [[Bitter Water at Marah]]
 - Remembered by the hungry congregation for its *"meat pots"* and *"our fill of bread"* — Exodus 16:3,
   [[Manna and Quail]]
+- Named in the charge at Rephidim, *"Why have you brought us up out of Egypt?"* — Exodus 17:3,
+  [[Water from the Rock]]

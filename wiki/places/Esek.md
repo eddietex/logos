@@ -51,6 +51,8 @@ move further out, and credit the room to God.**
 - [[Beer Lahai Roi]] — the other patriarchal well of this desert, named by a runaway slave for what
   she saw rather than for what was done to her
 - [[The Land of the Philistines]] — the country Genesis assigns the valley to
+- [[Massah and Meribah]] — the next quarrel over water in Scripture, with the same verb, *rîb* (Genesis
+  26:20; Exodus 17:2, 7; WLC) — Israel's with its own leader over no well at all
 
 ## Events here
 

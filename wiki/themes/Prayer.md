@@ -249,6 +249,10 @@ already did.
   Moses"*; ***"he cried to Yahweh"*** (*ṣāʿaq*, the verb of his prayer over the frogs, 8:12 WEB). **Answered at
   once, by being shown something**: *"Yahweh showed him a tree"*. The same pair, *cry* and *heal*, returns
   in his prayer for Miriam (Numbers 12:13; WEB; WLC; *not yet ingested*)
+- [[Water from the Rock]] — Exodus 17:4; **a cry for instruction.** *"Moses cried to Yahweh, saying, 'What shall
+  I do with these people? They are almost ready to stone me'"* — his third *ṣāʿaq* (8:12 WEB; 15:25; WLC), and
+  the first that asks what to do; answered with a command and a promise, *"I will stand before you there on
+  the rock"*
 
 ## Related themes
 

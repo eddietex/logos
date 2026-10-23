@@ -26,7 +26,9 @@ south as any patriarch lives.**
 **What it becomes** is out of all proportion to that. Israel camps here after the exodus and sends
 the twelve spies into the land from it; the refusal to go up, and the sentence of forty years, happen
 here (Numbers 13:26; 14:1–35). Moses strikes the rock here instead of speaking to it and is told he
-will not enter the land (Numbers 20:1–13), and Miriam is buried here in the same passage. The
+will not enter the land (Numbers 20:1–13), and Miriam is buried here in the same passage. **That water is
+named *Meribah*** (Numbers 20:13), **the name first given to the water of Rephidim** (Exodus 17:7); the wiki
+keeps [[Massah and Meribah]] for the first and records the second here. The
 embassies to Edom go out from here (Numbers 20:14–21). Deuteronomy 1:46 sums it up in one line:
 *"So you stayed in Kadesh many days, according to the days that you remained."* It is the address of
 the wilderness generation.
@@ -48,6 +50,8 @@ point for what the second one receives.
 - [[Beer Lahai Roi]] — the well *"between Kadesh and Bered"* that Hagar names
 - [[Egypt]] — what lies beyond Shur, and what Israel comes out of before camping here
 - [[Canaan]] — the land the spies are sent into from here, and refused
+- [[Massah and Meribah]] — the first Meribah, at Rephidim (Exodus 17:7); the Kadesh water of Numbers 20 is a
+  second place given the same name, *"Meribah of Kadesh"* (Numbers 27:14; WLC)
 
 ## Events here
 
@@ -58,5 +62,7 @@ point for what the second one receives.
   [[Abraham and Abimelech]]
 - The spies are sent into Canaan from here, and the generation is sentenced not to enter —
   Numbers 13:26; 14:1–35
-- Miriam dies and is buried here; Moses strikes the rock at Meribah — Numbers 20:1–13
+- Miriam dies and is buried here; Moses strikes the rock at Meribah, the second water from the rock — Numbers
+  20:1–13; compare [[Water from the Rock]] and
+  [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]
 - Messengers go from here to the king of Edom — Numbers 20:14–21

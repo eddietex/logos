@@ -12869,3 +12869,97 @@ was not checked, and every claim that would depend on it is marked at its point.
   - `wiki/index.md`: 112 passages, 166 people, 88 places, 77 themes, 314 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 17.1-7 — Water from the Rock
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *Water from the Rock — Exodus
+17:1–7*. The boundary was kept as planned: 17:1 opens a new stage (*"from the wilderness of Sin"*) and 17:8
+opens a new event in the same camp (*"Then Amalek came"*). There was no discussion step; its content is
+written into the passage page.
+
+### The passage page
+
+[[Water from the Rock]] — Rephidim, reached *"according to Yahweh's commandment"* and without water; Numbers
+33's skipped stations, Dophkah and Alush; the quarrel (*rîb*, the verb of Isaac's wells); ***"Why do you test
+Yahweh?"*** — the first time in Scripture a human being tests God, after three tests by God; *ṣāmēʾ*, the
+Torah's only verb *thirst*; *heʿĕlîtānû*, the bush's *bring up* turned into the charge; the singular *me, my
+sons, my livestock*; Moses' third cry and *"What shall I do with these people?"* (*lāʿām hazzeh*, as at 5:22);
+the second *sāqal* in Scripture; the elders as witnesses; *"the rod … with which you struck the Nile"*, said
+to Moses; *"I will stand before you there on the rock in Horeb"* and the first *ṣûr* in Scripture; Massah and
+Meribah; *"Is Yahweh among us, or not?"* and its echo at 34:9; and a table of who tests whom at Massah.
+
+### Judgment calls
+
+- **Two new places.** [[Rephidim]] (the camp, which also hosts the next pericope) and [[Massah and Meribah]]
+  (the name of 17:7, as one page because Exodus gives the two names together). **The Kadesh *Meribah* of
+  Numbers 20 is treated as a second place** and recorded on [[Kadesh]], following the text; the view that
+  the two are tellings of one tradition is reported on the passage and connection pages.
+- **Two new connections**: [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] (thread)
+  and [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]] (typology, with a table
+  comparing Exodus 17 and Numbers 20).
+- **No new person pages.** The elders of Israel are a collective with no speech yet, as everywhere before.
+- **Left open, recorded on the page:** *"the rock in Horeb"* while Israel is at Rephidim (19:2); the rod given
+  to Aaron at 7:19 and the blow on the Nile credited to Moses at 17:5 (also added to
+  [[Water Turned to Blood]], whose note on the unnamed subject of 7:20 now cites 17:5 without harmonizing);
+  Massah as Israel's test of God against God's test of Israel or Levi (Psalm 81:7; Deuteronomy 33:8).
+  **Reported, not adopted:** *ləmasʿêhem* as acknowledging the skipped stations; three explanations of
+  *Horeb*; the identity of Levi's *"godly one"*; the Jewish tradition of a following well or rock behind
+  1 Corinthians 10:4 (sources not checked); John 7:37–38 as an echo of the rock; a meaning for *Rephidim*;
+  the Wadi Refayid / Wadi Feiran identifications.
+- **Corrected on an existing page:** [[Testing]] said Jesus answered *"the third temptation"* with
+  Deuteronomy 6:16. In Matthew it is the second (4:5–7); it is the third only in Luke (4:9–12, by reference).
+  The sentence now says so.
+- **Corrected while drafting:** *nissâ* before 17:2 was first counted four times (it is three); a sentence
+  calling 17:4 the first time Moses asks God *"what to do"* was narrowed to the first *"What shall I do?"* in
+  Exodus's text; *"this people"* was first called a distancing phrase, which overlooked Moses' own
+  sympathetic *lāʿām hazzeh* at 5:22; Rephidim was first called *"nowhere else in Scripture"* and the only
+  camp in Numbers 33 *"remembered for a lack"* — both now stated only as far as the WLC check reached.
+- **Life and Death** was considered as a theme and dropped; *"to kill us … with thirst"* adds nothing to it.
+
+### Sources
+
+Genesis and Exodus quoted from `raw/bible/`. **Hebrew checked against the Westminster Leningrad Codex (Open
+Scriptures `morphhb`, freshly downloaded this run, Genesis–Deuteronomy and Psalms)**: all of Exodus 17;
+Exodus 3:8; 4:30; 5:22–23; 7:17–20; 8:22 (Hebrew numbering); 15:25; 20:20; 32:9, 21, 31; Numbers 20:13;
+33:12–15; Deuteronomy 6:16; 8:15; 9:22; 33:8; Psalm 78:15–20; 81:8 (Hebrew numbering); 95:8–9; 106:32; 114:8;
+and lemma searches over Genesis–Deuteronomy (Genesis–Exodus where marked) for *Rəpîdîm*, *Massâ*, *Mərîbâ*,
+*ṣûr*, *selaʿ* (Numbers), *sāqal*, *ṣāmēʾ*, *ṣāmāʾ*, *rîb* (verb and noun), *nissâ*, *ṣāʿaq*, *qereb*,
+*nākâ* (Exodus 7–8), *zāqēn* (Exodus), *qāšâ* (Exodus), *Dophkah*, *Alush*. **Greek checked against the
+SBLGNT (MorphGNT, freshly downloaded this run)**: Matthew 4:7; 1 Corinthians 10:4, 9; Hebrews 3:8–9. The Greek
+Psalm Hebrews quotes was not checked, and that is said at the point of the claim. **WEB English from outside
+`raw/`** fetched one passage at a time from bible-api.com (`translation=web`): Numbers 14:22; 20:1, 2–13;
+33:12–15; Deuteronomy 6:16; 8:15; 9:22; 33:8; Psalm 78:15–20; 81:7; 95:7–11; 105:41; 106:32–33; 114:8;
+Matthew 4:5–7; John 7:37–38; 1 Corinthians 10:1–5, 9; Hebrews 3:7–9, 11, 18–19. Deuteronomy 28:48; 32:4;
+Numbers 14:10; 27:14; Psalm 91; Luke 4:9–12 are given by reference only. No other book was fetched into
+`raw/`.
+
+### Pages created or revised
+
+- **Created (5):** the passage page; places [[Rephidim]] and [[Massah and Meribah]]; connections
+  [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] and
+  [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]].
+- **People revised (2):** [[God]] (a section, timeline, appears-in), [[Moses]] (a paragraph, timeline,
+  appears-in).
+- **Places revised (8):** [[Horeb]] (a paragraph on *"the rock in Horeb"*; the *ahead* entry made actual),
+  [[Kadesh]] (the second Meribah), [[The Wilderness of Sin]], [[The Nile]], [[Egypt]], [[Marah]], [[Esek]],
+  [[Elim]].
+- **Themes revised (10):** [[Testing]] (a paragraph on the reversal; the Matthew correction), [[Murmuring]]
+  (the *ahead* paragraph made actual), [[Strife and Peacemaking]] (a paragraph on *rîb*),
+  [[Mediation and Advocacy]], [[Prayer]], [[Providence]], [[Names and Naming]], [[Signs and Wonders]],
+  [[Faith]], [[Hardening of the Heart]].
+- **Connections revised (2):** [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] (Paul's
+  food and drink), [[I Will Be With You - The Promise of Presence]] (*"Is Yahweh among us?"*).
+- **Passages revised (3):** [[Bitter Water at Marah]] and [[Manna and Quail]] — their Exodus 17 references
+  now link; [[Water Turned to Blood]] — the note on who struck the Nile.
+- **Book pages:** [[Exodus]] — box checked; the 15:22–18 structure note now covers Rephidim; two key places
+  added.
+- **Indexes:**
+  - books: Exodus 22 / 53.
+  - people: 2 rows extended.
+  - places: 2 rows added, 4 rows extended.
+  - themes: 10 rows extended.
+  - connections: 1 row added in each of [[Connections Index D-H]] and [[Connections Index O-S]].
+  - `wiki/index.md`: 113 passages, 166 people, 90 places, 77 themes, 316 connections.
+
+`scripts/link-check.sh` is clean.

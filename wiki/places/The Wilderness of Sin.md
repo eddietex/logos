@@ -45,6 +45,8 @@ location for either. See [[Horeb]].
 
 - [[Manna and Quail]] — Exodus 16:1–36; **the whole chapter.** *"The wilderness of Sin, which is between Elim
   and Sinai"*; the murmuring, the glory in the cloud, the quail and manna, the first Sabbath
+- [[Water from the Rock]] — Exodus 17:1; **left behind.** *"All the congregation … traveled from the wilderness
+  of Sin, by their journeys"* — to Rephidim, with Dophkah and Alush between in Numbers 33:12–14
 
 ## Related places
 
@@ -52,6 +54,7 @@ location for either. See [[Horeb]].
 - [[Horeb]] — *Sinai*, named for the first time in the same verse, as the end of the road it lies on
 - [[Egypt]] — *"We wish that we had died … in the land of Egypt"*, said here
 - [[The Red Sea]] — Numbers 33:10–11 has a camp by it between Elim and Sin
+- [[Rephidim]] — the camp after it (Exodus 17:1), the next stage of the road
 
 ## Events here
 
@@ -59,4 +62,5 @@ location for either. See [[Horeb]].
 - Yahweh's glory appears in the cloud, *"toward the wilderness"* — Exodus 16:10
 - Quail cover the camp; manna lies with the dew — Exodus 16:13–15
 - The first Sabbath: *"So the people rested on the seventh day"* — Exodus 16:30
-- *Ahead*: Israel journeys on to Rephidim — Exodus 17:1; Numbers 33:12–14
+- Israel journeys on to Rephidim, *"by their journeys"* — Exodus 17:1, [[Water from the Rock]]; Numbers
+  33:12–14

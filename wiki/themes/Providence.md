@@ -259,6 +259,9 @@ human one innocent.** *"You meant evil"* stands. See
   sky"*; *"a day's portion every day"*; *"he who gathered little had no lack"*; and the narrator's *"The
   children of Israel ate the manna forty years"* (16:35) — **provision answered to a complaint, not to
   faith**
+- [[Water from the Rock]] — Exodus 17:1–6; **led to the lack.** The camp without water is reached *"according
+  to Yahweh's commandment"* (*ʿal-pî YHWH*); the provision comes from the least likely source, a rock, and from
+  the place God says he will stand. Psalm 78:15–20 and 114:8 sing it as power over nature
 
 ## Related themes
 

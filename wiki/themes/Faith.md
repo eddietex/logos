@@ -176,6 +176,10 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   itself to faith — *"By faith, they passed through the Red Sea as on dry land"* (WEB) — and the order of the
   two texts is recorded, not reconciled, on
   [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
+- [[Water from the Rock]] — Exodus 17:7; ***"Is Yahweh among us, or not?"*** — **unbelief as a demand for
+  proof.** The word *faith* is not used; the narrator calls it testing. **Numbers 20:12 names the failure at
+  the second water from the rock as unbelief, and it is Moses'**: *"Because you didn't believe in me"* (WEB;
+  *not yet ingested*)
 
 ## Related themes
 

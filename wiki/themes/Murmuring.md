@@ -56,9 +56,14 @@ shown to the murmurers. See [[Manna and Quail]].
 am the bread which came down out of heaven'"*, and *"Don't murmur among yourselves"* (John 6:41, 43; WEB; *not
 yet ingested*). See [[Bread from Heaven - The Manna and John 6]].
 
-**Ahead in Exodus** (*not yet ingested*): Massah, where the people *"murmured against Moses"* and *"tested Yahweh,
-saying, 'Is Yahweh among us, or not?'"* (17:3, 7). **The cycle hardens as it repeats**: from a question of
-need to a wish for Egypt to a question about God's presence.
+**At Rephidim the murmuring becomes a quarrel.** *"The people quarreled (wayyāreb) with Moses"* (17:2) — *rîb*,
+the verb of a dispute or a lawsuit — and *"murmured against Moses"*, the third *lûn* of the wilderness (17:3;
+WLC). **The charge changes its verb**: at Sin *"you have brought us out"* (16:3), at Rephidim *"Why have you
+brought us up (heʿĕlîtānû)"*, God's verb at the bush (3:8; WLC). **The danger is new**: *"They are almost
+ready to stone me"* (17:4). **And the narrator names the sin as a test of God** — *"Is Yahweh among us, or
+not?"* (17:7) — and names the place for it, *Massah* and *Meribah*. **Still no punishment in Exodus.** **The
+cycle hardens as it repeats**: from a question of need to a wish for Egypt to a question about God's
+presence. See [[Water from the Rock]].
 
 **Ahead in Numbers** (by reference, *not yet ingested*): after the spies' report, the murmuring of Numbers
 14 ends in the sentence that the generation will die in the wilderness; after Korah, it ends in plague
@@ -66,7 +71,9 @@ need to a wish for Egypt to a question about God's presence.
 me"* (17:10 WEB; 17:25 Hebrew). **The first murmuring was met with sweet water; the last are met with judgment.**
 
 **Later Scripture remembers the wilderness complaints as the pattern of unbelief.** Psalm 81:7 has God
-recall *"I tested you at the waters of Meribah"* (WEB; *not yet ingested*); Paul warns the Corinthians not
+recall *"I tested you at the waters of Meribah"*, and Psalm 95:8 warns *"Don't harden your heart, as at
+Meribah"* (WEB; *not yet ingested*; see
+[[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]]); Paul warns the Corinthians not
 to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 Corinthians 10:10; WEB;
 *not yet ingested*).
 
@@ -78,7 +85,9 @@ to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 C
 - [[Manna and Quail]] — Exodus 16:2–12; **the second murmuring, against Moses and Aaron.** *"We wish that we
   had died … in the land of Egypt"*; the first *təlunnōt*; *"Your murmurings are not against us, but against
   Yahweh"*; answered with quail, manna, and the glory in the cloud
-- **Exodus 17:3** — Massah *(not yet ingested)*
+- [[Water from the Rock]] — Exodus 17:2–3; **the murmuring as a quarrel and a test.** *"Give us water to drink"*;
+  *"Why do you quarrel with me? Why do you test Yahweh?"*; *"Why have you brought us up out of Egypt?"*;
+  *"They are almost ready to stone me"*; the place named Massah and Meribah
 - **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 

@@ -73,7 +73,7 @@ at 16:34–35.
 | The provision | 16:13–21 | quail; manna; the omer; worms in what was kept | a daily portion |
 | The Sabbath | 16:22–30 | the double sixth day; *"a holy Sabbath to Yahweh"*; *"the people rested"* | the first Sabbath in Scripture |
 | The memorial | 16:31–36 | the name; an omer kept *"before the Testimony"*; forty years | *"that they may see the bread"* |
-| Next | 17:1–7 | no water at Rephidim; *"Is Yahweh among us, or not?"* | — |
+| Next | 17:1–7 | no water at Rephidim; *"Is Yahweh among us, or not?"* — [[Water from the Rock]] | — |
 
 **The date places it a month after the Passover.** The lamb was killed on *"the fourteenth day"* of the first
 month (12:6); Israel reaches the wilderness of Sin *"on the fifteenth day of the second month after their
@@ -675,7 +675,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
   [[The Passover]]
 - Exodus 14:4, 17 — *"I will get honor over Pharaoh"* — [[The Crossing of the Sea]]
 - Exodus 15:24–26 — the first murmuring and the first test — [[Bitter Water at Marah]]
-- Exodus 17:1–7 — Massah and Meribah *(not yet ingested)*
+- Exodus 17:1–7 — Massah and Meribah — [[Water from the Rock]]
 - Exodus 20:8–11 — *"Remember the Sabbath day"* *(not yet ingested)*
 - Exodus 24:16–17; 40:34–38 — the glory on Sinai and in the tabernacle *(not yet ingested)*
 - Exodus 25:16 — *"the testimony which I shall give you"* *(not yet ingested)*

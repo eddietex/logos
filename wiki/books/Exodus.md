@@ -214,7 +214,17 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   Pharaoh — ***"How long do you refuse to keep my commandments and my laws?"*** (16:28), the two words of
   Genesis 26:5. *"Yahweh has given you the Sabbath"*; *"So the people rested"* (16:29–30). An omer is laid up
   *"before the Testimony"* for the generations, and the narrator closes on forty years of manna (16:34–35),
-  both told from after Sinai. See [[Manna and Quail]].
+  both told from after Sinai. See [[Manna and Quail]]. **At Rephidim there is no water again, and the
+  complaint becomes a quarrel and a test.** *"Give us water to drink"*; Moses: ***"Why do you quarrel with
+  me? Why do you test Yahweh?"*** (17:2) — **the first time in Scripture a human being tests God**, after three
+  tests by God (Genesis 22:1; Exodus 15:25; 16:4; WLC lemma search). Moses cries, *"They are almost ready to
+  stone me"*, and is sent ahead with the elders and *"the rod … with which you struck the Nile"* — said to
+  Moses, though 7:19 gave the rod to Aaron — to the place where God says ***"I will stand before you there on
+  the rock in Horeb"***. He strikes, *"in the sight of the elders"*, and the place is named for the people:
+  ***Massah*, *testing*, and *Meribah*, *quarreling***, because they asked ***"Is Yahweh among us, or
+  not?"*** (17:7). **Still no punishment**; Deuteronomy, the Psalms, Hebrews, and Jesus supply the verdict
+  (Deuteronomy 6:16; Psalm 95:8; Hebrews 3:8; Matthew 4:7), and Numbers 20 tells a second Meribah that costs
+  Moses the land. See [[Water from the Rock]].
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
@@ -273,7 +283,7 @@ for unit.
 
 - [x] [[Bitter Water at Marah]] — Exodus 15:22–27
 - [x] [[Manna and Quail]] — Exodus 16:1–36
-- [ ] Water from the Rock — Exodus 17:1–7
+- [x] [[Water from the Rock]] — Exodus 17:1–7
 - [ ] The Battle with Amalek — Exodus 17:8–16
 - [ ] Jethro's Counsel — Exodus 18:1–27
 
@@ -422,4 +432,6 @@ for unit.
 - [[Elim]] — twelve springs and seventy palms (15:27)
 - [[The Wilderness of Sin]] — *"between Elim and Sinai"*: the manna, the quail, the glory in the cloud, and the
   first Sabbath (16:1–36)
+- [[Rephidim]] — the last camp before Sinai, without water; the rock in Horeb and the battle with Amalek (17)
+- [[Massah and Meribah]] — *testing* and *quarreling*, the place named for what the people did (17:7)
 - [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)
