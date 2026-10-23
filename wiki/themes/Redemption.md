@@ -26,6 +26,12 @@ purchased pass over"* (15:16). **In Genesis that verb is Joseph's, buying Egypt'
 Israel passes out of Pharaoh's ownership into God's.** See [[The Song of the Sea]] and
 [[Joseph and the Famine]].
 
+**Sinai states rescue's destination as belonging to the rescuer.** Yahweh recalls carrying Israel
+out of its former situation and bringing the people to himself (19:4); the covenant vocation
+follows (19:5–6). No ransom price is described here. The eagle image presents deliverance as
+care and transport, extending the sea's account of the redeemed people. See
+[[Israel at Mount Sinai]] and [[On Eagles Wings - Exodus 19 and Deuteronomy 32]].
+
 ## Development across Scripture
 
 - **A personal confession first.** Jacob, blessing Joseph's sons, calls God *"the God who has fed me"* and
@@ -51,6 +57,7 @@ Israel passes out of Pharaoh's ownership into God's.** See [[The Song of the Sea
 - Exodus 13:13–15 — the firstborn redeemed — [[The Consecration of the Firstborn]]
 - Exodus 15:13, 16 — *"the people that you have redeemed … the people you have purchased"* —
   [[The Song of the Sea]]
+- [[Israel at Mount Sinai]] — Exodus 19:4–6; carried to God and offered a covenant vocation
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

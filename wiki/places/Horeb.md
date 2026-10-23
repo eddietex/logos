@@ -18,9 +18,12 @@ throughout); Deuteronomy calls it *Horeb* (Deuteronomy 1:2, 6; 4:10, 15; 5:2); E
 for the region and Sinai for the peak, and the wiki follows that reading: Stephen places the bush *"in
 the wilderness of Mount Sinai"* (Acts 7:30), and God's own token in Exodus 3:12 — *"you shall serve God
 on this mountain"* — is fulfilled when Israel camps *"before the mountain"* in the wilderness of Sinai
-(19:1–2). Source-critical scholarship assigns the two names to different traditions. **When the
-Sinai pericopes are reached, the wiki will decide whether Sinai is filed here or on its own page**;
-until then, this page holds both names.
+(19:1–2). Source-critical scholarship assigns the two names to different traditions.
+
+**Filing decision at Exodus 19:** this page continues to hold both Horeb and Sinai, including
+the wilderness camp around the mountain. A separate Sinai page would duplicate the narrative
+site already gathered here. This convention does not settle whether the names originally
+designated precisely the same feature, or establish a modern location.
 
 **Its location is not known.** The traditional site, Jebel Musa in the southern Sinai peninsula, is
 attested from the fourth century AD; northern Sinai, the Negev, and north-western Arabia (Midian's
@@ -55,6 +58,14 @@ suggest. **Deuteronomy sets the appointment of judges at the departure from Hore
 reference). Here the first burnt offering in Exodus is made — by the priest of Midian (18:12). See
 [[Jethro's Counsel]].
 
+**At the arrival narrated in Exodus 19, the mountain becomes the meeting place for the whole
+people.** Israel leaves Rephidim and camps below it; Moses leads the people to meet God, who
+descends in fire, cloud, and sound (19:1–2, 16–20). The summit and the camp are not interchangeable:
+a boundary prohibits unauthorized ascent, even by priests, while Moses is summoned and Aaron
+is to accompany him (19:21–24). This is the return promised at the bush (3:12). The tension with
+18:5's earlier mountain camp remains recorded above, not resolved by the filing convention. See
+[[Israel at Mount Sinai]].
+
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
@@ -71,6 +82,8 @@ reference). Here the first burnt offering in Exodus is made — by the priest of
 - [[Jethro's Counsel]] — Exodus 18:5; **"the Mountain of God"**, where Moses is encamped when Jethro brings his
   family; Jethro's burnt offering and the meal *"before God"*, and the first judges appointed — placed by Exodus
   before the arrival at Sinai (19:1–2)
+- [[Israel at Mount Sinai]] — Exodus 19:1–25; the wilderness camp, covenant offer, bounded mountain,
+  and public descent of Yahweh
 
 ## Related places
 
@@ -87,5 +100,6 @@ reference). Here the first burnt offering in Exodus is made — by the priest of
 - Aaron meets Moses *"on God's mountain"* and kisses him — Exodus 4:27, [[Moses Returns to Egypt]]
 - Water from the rock *"on the rock in Horeb"*, where God stands before Moses — Exodus 17:6,
   [[Water from the Rock]]
-- *(ahead)* The covenant, the law, and the tabernacle, as *Sinai* — Exodus 19–40
+- The assembly, covenant offer, and descent in fire — Exodus 19:1–25, [[Israel at Mount Sinai]]
+- *(ahead)* The commandments, covenant ratification, and tabernacle — Exodus 20–40
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18

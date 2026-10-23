@@ -66,6 +66,12 @@ advocate *with the Father* and on the sinner's side, which is a different config
 different problem. Reading Christ straight into Job 16:19 without noticing the difference flattens
 what Job is asking for.
 
+**At Sinai mediation carries both words and people.** Moses brings the covenant offer down,
+the people's assent back, and the prepared assembly out to meet God (19:3–17). He speaks and
+God answers before the people, but access remains differentiated: he is summoned up, sent
+back down, and told to bring Aaron (19:19–25). Public hearing does not eliminate mediation.
+See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
+
 ## Development across Scripture
 
 - **Genesis 18:22–33** — Abraham bargaining for Sodom: intercession's first appearance in Scripture,
@@ -300,6 +306,7 @@ what Job is asking for.
   God"*** — *hĕyēh ʾattâ lāʿām mûl hāʾĕlōhîm* (WLC). **Jethro narrows Moses' mediation to what only he can do** and
   hands the rest to others: the *"heavy"* mouth (4:10), *"heavy"* hands (17:12), and now the *"too heavy"* work
   (18:18), each shared — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
+- [[Israel at Mount Sinai]] — Exodus 19:3–25; Moses relays speech and leads the people to the encounter
 
 ## Related themes
 

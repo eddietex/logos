@@ -40,6 +40,11 @@ it produces Solomon's forced labour, the schism, and the two exiles. The New Tes
 halves: Jesus is proclaimed a king and refuses to be made one (John 6:15), Romans 13 calls the
 governing authority God's servant, and Revelation 13 draws it as a beast.
 
+**A kingdom can be defined by priestly service.** Exodus 19:6 offers Israel a kingdom of priests,
+following Yahweh's claim to all the earth (19:5). No human king is installed or constitution of
+monarchy given in the scene. The expression supplies a corporate vocation for the people
+brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 10:8–12** — the first *kingdom*, the first ruler, and eight cities; no evaluation. See
@@ -209,6 +214,7 @@ governing authority God's servant, and Revelation 13 draws it as a beast.
   Yahweh as subject for the first time in Scripture; in Genesis the verb belonged to Edom's kings (36:31)
   and to the brothers' *"Will you indeed reign over us?"* (37:8) (WLC lemma search). **Pharaoh, called
   *"king of Egypt"* in the prose (14:5, 8), is not called king anywhere in the Song.**
+- [[Israel at Mount Sinai]] — Exodus 19:5–6; the kingdom offered as a priestly vocation
 
 ## Related themes
 

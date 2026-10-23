@@ -37,11 +37,17 @@ camp *Massah* and *Meribah*. See [[The Battle with Amalek]].
 **The place of the water was given its own names** — *"Massah, and Meribah"* (17:7). **Rephidim is the camp;
 Massah and Meribah are what the people did there.** See [[Massah and Meribah]].
 
+**Exodus 19:2 now narrates the departure previously anticipated here.** Rephidim is the named
+point from which Israel travels to the wilderness of Sinai and camps before the mountain.
+The verse gives no distance or modern location, and does not explain the relationship of the
+Horeb rock in 17:6 to the new camp. See [[Israel at Mount Sinai]].
+
 ## Appears in
 - [[Water from the Rock]] — Exodus 17:1–7; **the camp without water.** *"Encamped in Rephidim; but there was
   no water for the people to drink"*; the quarrel, the test, and the rock in Horeb
 - [[The Battle with Amalek]] — Exodus 17:8–16; **the battlefield.** *"Then Amalek came and fought with Israel in
   Rephidim"*; Moses on the hill with the rod; the first writing in Scripture and the first altar in Exodus
+- [[Israel at Mount Sinai]] — Exodus 19:2; the camp Israel leaves for Sinai
 
 ## Related places
 - [[The Wilderness of Sin]] — the stage before it (Exodus 17:1), with Dophkah and Alush between in Numbers 33
@@ -54,4 +60,5 @@ Massah and Meribah are what the people did there.** See [[Massah and Meribah]].
   [[Water from the Rock]]
 - Amalek attacks; Moses' raised hands; Joshua's victory; the memorial written; the altar *"Yahweh our Banner"* —
   Exodus 17:8–16, [[The Battle with Amalek]]
-- *(ahead)* Israel departs for the wilderness of Sinai — Exodus 19:2; Numbers 33:15
+- Israel departs for the wilderness of Sinai — Exodus 19:2, [[Israel at Mount Sinai]];
+  also Numbers 33:15 (not yet ingested)

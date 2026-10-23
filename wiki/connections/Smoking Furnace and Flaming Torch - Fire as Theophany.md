@@ -17,8 +17,9 @@ tags: [connection]
   bush was not consumed"* (3:2). See [[The Burning Bush]].
 - **Exodus 13:21–22; 14:24** — the pillar of cloud by day and of fire by night, and God looking out
   of it.
-- **Exodus 19:16–18** — Sinai: *"Mount Sinai, all of it, smoked, because Yahweh descended on it in
-  fire; and its smoke ascended like the smoke of a furnace."*
+- **Exodus 19:16–18** — [[Israel at Mount Sinai]]; “All of Mount Sinai smoked, because Yahweh
+  descended on it in fire; and its smoke ascended like the smoke of a furnace” with trumpet
+  and trembling (WEB from `raw/bible/Exodus.md`).
 - **Leviticus 9:24; 1 Kings 18:38; 1 Chronicles 21:26; 2 Chronicles 7:1** — fire falling to accept a
   sacrifice.
 - **1 Kings 19:11–12** — and God explicitly not in the fire, at Horeb, for Elijah.
@@ -87,7 +88,7 @@ consuming fire are in the same frame.
 
 **Sinai** is the great development: the covenant with a nation gets the covenant with a man's imagery
 at mountain scale, with the crucial difference that at Sinai the people are fenced off and warned not
-to approach (Exodus 19:12, 21–24), where Abram was asleep ten feet away.
+to approach (Exodus 19:12, 21–24), where Abram had fallen into a deep sleep (Genesis 15:12); no distance is supplied.
 
 **Fire falling on a sacrifice** — Leviticus 9:24, Elijah on Carmel, Solomon's temple — becomes the
 standard sign of acceptance, and it is worth noting that Genesis 15 has fire and animals and is *not*
@@ -112,6 +113,16 @@ blessing of Joseph later names God *"him who lived in the bush"* (Deuteronomy 33
 verb of the tabernacle (*miškān*): **the fire that dwells without destroying is the problem the
 tabernacle will solve for a whole camp.** The fire on Sinai (19:18), when it comes, is on the same
 mountain.
+
+### The assembly at Sinai, ingested
+
+[[Israel at Mount Sinai]] turns the fire image into a public encounter. The whole mountain
+smokes because Yahweh has descended, the trumpet grows, and the people remain below the
+boundary (19:16–24). Rescue and danger belong to the same scene: 19:4 recalls God's carrying
+of the people before 19:21 warns against a fatal rush to gaze. The comparison with Genesis
+15 remains one of imagery and covenant setting; it does not require every furnace term to
+be identical. For the verified New Testament comparison, see
+[[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Significance
 

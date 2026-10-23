@@ -31,7 +31,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] | typology | Exodus 13:21–22 · Exodus 14:19–22, 29, 31 · 1 Corinthians 10:1–6 · Hebrews 11:29 |
 | [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |
 | [[The Bear, Orion, and the Pleiades]] | image | Job 9:9 · Job 38:31–33 · Amos 5:8 · Isaiah 13:10 · Genesis 1:16 · Psalm 147:4 · Isaiah 40:26 |
-| [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 · Exodus 15:26 · Exodus 16:28 |
+| [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 · Exodus 15:26 · Exodus 16:28 · Exodus 19:4–8 |
 | [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 |
 | [[The Betrothal at the Well]] | type-scene | Genesis 24:10–61 · Genesis 29:1–20 · Exodus 2:15–21 · John 4:1–42 · Ruth 2:8–9 |
 | [[Better Than Gold - The Price of Wisdom]] | thread | Job 28:1–11, 13, 15–19 · Proverbs 2:4–6 · Proverbs 3:13–15 · Proverbs 8:10–11, 19 · Proverbs 16:16 · Proverbs 20:15 · Psalm 19:10; 119:72 · Isaiah 33:6 · Matthew 13:44 · Colossians 2:3 · Job 22:24–25 · Job 23:10 · Job 31:24–25 |

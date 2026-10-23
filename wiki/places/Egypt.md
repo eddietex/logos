@@ -65,6 +65,12 @@ is the place Jesus is taken to as an infant, so that Hosea 11:1 can be quoted of
 Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping together and Egypt called
 *"my people"*.
 
+**At Sinai Egypt becomes the remembered starting point of the covenant address.** The third
+month is counted from Israel's departure (19:1), and Yahweh begins the offer by recalling what
+he did to the Egyptians (19:4). The contrast is not merely between two territories: the stated
+destination is Yahweh himself. Egypt's defeat is evidence the gathered people have already
+seen, before they promise covenant obedience. See [[Israel at Mount Sinai]].
+
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:6 as Ham's second son, 10:13–14 with seven descendants
@@ -278,6 +284,7 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Jethro's Counsel]] — Exodus 18:1, 8–10; **the hand Israel was snatched from.** *"How that Yahweh had brought
   Israel out of Egypt"*; *"delivered you out of the hand of the Egyptians"*, three times in two verses — the
   words of the bush (3:8; WLC), blessed by a Midianite
+- [[Israel at Mount Sinai]] — Exodus 19:1, 4; departure recalled and judgment on the Egyptians named
 
 ## Related places
 

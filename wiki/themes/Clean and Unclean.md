@@ -42,6 +42,12 @@ Three readings of that, all defensible:
 
 These are not exclusive, and the third is the one the text argues for by itself.
 
+**Readiness for Sinai includes washing and temporary abstinence.** Moses sanctifies the people;
+they wash their garments and are told to abstain from sexual relations until the encounter
+(19:10–15). This anticipates the concern with preparedness for holy presence, but Exodus 19
+does not itself provide the later impurity code or call marital intercourse a sin. Holiness
+and ritual readiness should not be collapsed into moral innocence. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 7:2–3, 8** — the first occurrence, assumed and undefined, with a sevenfold surplus of
@@ -138,6 +144,7 @@ These are not exclusive, and the third is the one the text argues for by itself.
   healed *šəḥîn* can turn into *ṣāraʿat* (WLC), and the *"painful sores"* of Job 2:7. Exodus does not
   call the boils unclean; the link is the word —
   [[The Boil of Deuteronomy 28 on a Blameless Man]]
+- [[Israel at Mount Sinai]] — Exodus 19:10–15, 22; garments washed and people and priests prepared
 
 ## Related themes
 

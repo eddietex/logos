@@ -46,6 +46,13 @@ observed. And what the book demonstrates is not that Job's fear survives intact 
 curses the day of his birth, accuses God of hunting him like a beast, and demands a trial — but
 that it survives *at all*, without the payments, and while shouting. See [[Job (person)]].
 
+**The trembling at Sinai must not be equated automatically with settled obedience.** The
+assembly promises obedience (19:8), then trembles at the storm and trumpet (19:16). The
+narrative reports bodily fear and a real boundary, not an evaluation that every frightened
+person is faithful. The distinction qualifies any simple opposition between terror and the
+fear of God; the next pericope will state it directly in 20:20. See [[Israel at Mount Sinai]]
+and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
+
 ## Development across Scripture
 
 - **Genesis 15:1** — the other side of the word, and its first appearance in Scripture on God's own
@@ -284,6 +291,7 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   *yirʾê ʾĕlōhîm*, the adjective of the angel's *"now I know that you fear God"* (Genesis 22:12; WLC) — set beside
   truth and hatred of *"unjust gain"*. A Midianite priest makes the fear of God a requirement for Israel's judges,
   as the midwives' fear of God (1:17) was the first resistance to Pharaoh
+- [[Israel at Mount Sinai]] — Exodus 19:16–24; trembling and warnings in the presence of the deliverer
 
 ## Related themes
 

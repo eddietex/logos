@@ -61,6 +61,11 @@ removed from it, and the first hint anywhere in the Bible that the sentence can 
 Genesis 5 states the rule eight times and breaks it twice, which is the shape the theme keeps for
 the rest of the canon.
 
+**At Sinai death is a threatened consequence of unauthorized approach, not a narrated loss.**
+The boundary binds animal and human alike; the offender is to be stoned or shot, not touched
+(19:12–13). God repeats the warning so that the people do not perish by breaking through
+(19:21–24). No one is said to cross the line or die in this chapter. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 2:7** — life as breath given.
@@ -423,6 +428,7 @@ the rest of the canon.
   *"All on the dry land … died"* (Genesis 7:22), and here it is where Israel walks through alive (14:21;
   WLC); and Israel sees *"the Egyptians dead (mēt) on the seashore"*, on the *śəpat hayyām*, the phrase of the
   promise of seed *"as the sand which is on the seashore"* (Genesis 22:17; WLC)
+- [[Israel at Mount Sinai]] — Exodus 19:12–13, 21–24; death sanctions and preventive warnings
 
 ## Related themes
 

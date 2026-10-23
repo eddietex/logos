@@ -27,6 +27,7 @@ tags: [connection]
   always"*, the idiom 26:5 uses of a man four hundred years early
 - **Romans 4:1–16; Galatians 3:15–18** — Paul's argument that the promise came by faith and before
   law, made from this family and not from this verse
+- Exodus 19:4–8 — [[Israel at Mount Sinai]]; the rescued assembly promises to obey
 
 ## Analysis
 
@@ -120,6 +121,14 @@ commandment in question is the Sabbath, which has been announced as a fact about
 not be written as a commandment until 20:8–11.** **Abraham was credited with keeping laws no narrative gave
 him; Israel is rebuked for refusing laws it was given a week before Sinai's law.** The refusal verb is
 Pharaoh's — *māʾēn*, *"How long will you refuse …?"* (10:3; WLC). See [[Manna and Quail]].
+
+### The assembly promises to obey at Sinai
+
+Exodus 19:5 addresses the descendants as a people: obey God's voice and keep his covenant.
+Verse 8 supplies their collective assent; verse 4 has already recalled their rescue. The
+connection with Genesis 26:5 is the demand to hear and keep, now addressed to a nation before
+the detailed laws of Exodus 20–23. This English-level comparison is checked against the raw
+WEB; no further claim about identical Hebrew forms is made here. See [[Israel at Mount Sinai]].
 
 ## Significance
 

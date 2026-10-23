@@ -32,6 +32,12 @@ property of ground becomes a demand on people**, and the demand rests on God's o
 Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be holy; for I am holy"*
 (1 Peter 1:16).
 
+**Exodus 19 brings the holy nation and the guarded mountain into one scene.** The vocation of
+19:6 does not abolish distance: the people wash, Moses sanctifies them, the mountain is bounded,
+and even priests must sanctify themselves and must not break through (19:10–24). Holiness is
+both belonging and a limit on access. The danger includes animals, so it cannot be reduced to
+a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 2:3** — the seventh day *made holy*: the root's first appearance, and its only one in
@@ -40,7 +46,7 @@ Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be hol
   [[The Burning Bush]].
 - *(ahead)* **Exodus 15:11** — *"Who is like you, glorious in holiness?"* — the first time God himself
   is called holy, in the Song of the Sea.
-- *(ahead)* **Exodus 19** — the holy mountain, the boundary, and the *holy nation*.
+- **Exodus 19** — the holy mountain, boundary, and holy nation; [[Israel at Mount Sinai]].
 - *(ahead)* **Exodus 25–40; Leviticus** — the holy place and the most holy, holy garments, holy oil,
   *"HOLY TO YAHWEH"* on the high priest's forehead (Exodus 28:36), and the purity code.
 - *(ahead)* **Joshua 5:15** — *"Take off your shoes; for the place on which you stand is holy"*: the
@@ -68,6 +74,7 @@ Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be hol
   me a sanctuary"* (25:8; WLC lemma search). **The holy place is praised before it is built.**
 - [[Manna and Quail]] — Exodus 16:23; ***"a holy Sabbath to Yahweh"*** — **the holy thing is a day again**, as
   at Genesis 2:3, and this time one in every week; the first *šabbāt* in Scripture
+- [[Israel at Mount Sinai]] — Exodus 19:6, 10–24; a holy people prepared for a bounded mountain
 
 ## Related themes
 

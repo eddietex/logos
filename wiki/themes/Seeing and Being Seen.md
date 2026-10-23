@@ -25,6 +25,11 @@ well takes the name *the Living One who sees me*.
 Nothing else in the Bible is quite like it: **the only divine name given by a human being is a name
 about being looked at, and it is given by a slave.**
 
+**Public manifestation does not authorize every kind of looking.** Yahweh will descend in the
+people's sight (19:11), yet they must not break through to gaze (19:21). The assigned place is
+the mountain's foot; cloud, fire, and the audible exchange with Moses make the encounter public
+without unrestricted access. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 **God sees, and seeing is acting.** *"Yahweh saw that the wickedness of man was great"* (6:5) is the
@@ -334,6 +339,7 @@ will finally go both ways.
   dead"* and *"Israel saw the great work"*. **They see them again, once, dead**; the text records both
   statements. And Yahweh *"looked out"* on the army from the pillar (*šāqap*, 14:24), the verb of the look
   toward Sodom (Genesis 18:16; 19:28; WLC)
+- [[Israel at Mount Sinai]] — Exodus 19:11, 17–21; an announced public descent and a prohibited rush to gaze
 
 ## Related themes
 

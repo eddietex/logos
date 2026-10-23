@@ -26,6 +26,12 @@ Three features hold from the first appearance:
 3. **It comes in answer to complaint, not to worship.** The first glory is shown to people who have just said
    they wish they had died in Egypt (16:3), and it comes with food.
 
+**Exodus 19 develops the visible-presence theme without using the WEB phrase “Yahweh's glory.”**
+The mountain is covered by cloud and smoke as Yahweh descends in fire (19:16–20). These are
+the narrative setting for the explicitly named glory in 24:16–17, not grounds for pretending
+that chapter 19 already uses that expression. The statement here concerns the checked WEB
+English, not an unverified Hebrew word search. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 **Exodus traces a movement of the glory — appearing, settling, filling.**
@@ -57,6 +63,7 @@ the temple and returning (Ezekiel 10; 43), and John's *"we saw his glory"* (John
   cloud"* — shown to a complaining congregation, and followed by quail and bread
 - [[The Crossing of the Sea]] — Exodus 14:4, 17; **the root before the noun.** *"I will get honor over
   Pharaoh"* (*ʾikkābdâ*, WLC)
+- [[Israel at Mount Sinai]] — Exodus 19:9, 16–20; cloud and fire at the public descent, ahead of 24:16–17
 
 ## Related themes
 

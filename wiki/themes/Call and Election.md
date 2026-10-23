@@ -39,6 +39,13 @@ people. And ***bāḥar***, to choose, which the Old Testament uses of God's ele
    the very first instance of it. See
    [[All the Families of the Earth - Genesis 12.3 in the New Testament]] and [[The Nations]].
 
+**The calling at Sinai is particular within universal ownership.** All the earth belongs to
+Yahweh, yet Israel is offered a special belonging and a holy, priestly vocation on condition
+of obedience (19:5–6). Rescue has already occurred (19:4); the text neither credits Israel's
+prior superiority nor describes an unrestricted privilege. A representative role among the
+nations is an interpretation of this combination, not an explicit missionary command. See
+[[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First Peter 2]].
+
 ## Development across Scripture
 
 - **Genesis 12:1–4** — the first call. A command with the destination withheld, five blessings, and
@@ -213,6 +220,7 @@ the others.
   *pālâ*, which in the Torah occurs only at 8:22; 9:4; 11:7; and 33:16, where Moses asks that Israel
   be *"separated … from all the people who are on the surface of the earth"* (WLC lemma search). Not
   a dog will *"move its tongue"* against Israel
+- [[Israel at Mount Sinai]] — Exodus 19:4–6; rescued Israel called to belong and serve
 
 ## Related themes
 

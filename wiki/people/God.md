@@ -1720,6 +1720,16 @@ laws"* (18:16); and Jethro's plan is conditioned on him — ***"If you will do t
 so"*** (18:23). **The text never reports that he commanded it.** Moses *"listened to the voice of his
 father-in-law"* (18:24). See [[Jethro's Counsel]].
 
+### He brings a people to himself and descends before them — Exodus 19:1–25
+
+**The rescuer offers a covenant vocation before giving its detailed laws.** Yahweh recalls his
+acts against Egypt, his carrying of Israel, and the destination: himself (19:4). He owns all the
+earth, yet offers this people particular possession, priestly service, and holiness on condition
+of obedience (19:5–6). He descends in cloud and fire so the assembly can hear him speak with Moses
+and trust Moses (19:9, 16–20). His repeated warnings against breaking through hold together two
+facts: he has brought the people near, and nearness does not give them unrestricted access. No
+outbreak or execution is narrated. See [[Israel at Mount Sinai]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1935,6 +1945,8 @@ father-in-law"* (18:24). See [[Jethro's Counsel]].
 - Blessed by Jethro, priest of Midian, for delivering Israel; confessed *"greater than all gods"*; inquired of
   through Moses; named as the condition of Jethro's plan, with no command reported — Exodus 18:1–27,
   [[Jethro's Counsel]]
+- Offers the covenant calling, descends in fire, and warns against breaking through — Exodus 19:1–25; [[Israel at Mount Sinai]]
+
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2314,6 +2326,7 @@ father-in-law"* (18:24). See [[Jethro's Counsel]].
 - [[Jethro's Counsel]] — Exodus 18:1–23; **the One blessed and inquired of.** *"Blessed be Yahweh, who has
   delivered you"*; *"Now I know that Yahweh is greater than all gods"*; *"to inquire of God"*; *"the statutes of
   God, and his laws"*; *"and God commands you so"*
+- [[Israel at Mount Sinai]] — Exodus 19:1–25; rescuer, covenant speaker, and the one who descends
 
 ## Related people
 

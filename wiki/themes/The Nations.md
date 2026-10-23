@@ -35,6 +35,12 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 *"All the families of the earth will be blessed through you"* — using Genesis 10's own word,
 *mišpəḥōt*, families. The election of one family exists for the seventy.
 
+**Exodus 19:5–6 places Israel among peoples whose earth already belongs to Yahweh.** Particular
+possession does not deny divine ownership of other peoples. Israel is addressed as a holy
+nation and priestly kingdom, giving its distinction a vocation rather than a claim that it
+alone exists under God's rule. The scope of that priestly role is not spelled out here. See
+[[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 9:1, 9:7; 10:32** — the command to fill the earth, and the report that it was done. The
@@ -310,6 +316,7 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   gods"*, offers the first burnt offering in Exodus, and gives Israel its judiciary — then goes home. All three
   *šālôm* in Exodus are his (4:18; 18:7, 23; WLC) —
   [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
+- [[Israel at Mount Sinai]] — Exodus 19:5–6; a particular nation within the God-owned earth
 
 ## Related themes
 

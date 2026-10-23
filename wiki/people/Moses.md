@@ -332,9 +332,19 @@ own mouth** — *"I am not able to bear all this people alone, because it is too
 — and Deuteronomy credits the plan to him, not to Jethro (Deuteronomy 1:9–18). See [[Jethro's Counsel]] and
 [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]].
 
+**At Sinai Moses carries words between God and the whole assembly.** He reports the covenant
+offer to the elders and the people's united assent to Yahweh, sanctifies the people, and brings
+them to the mountain's foot (19:3–17). God's public speech is expressly intended to establish
+trust in him (19:9). When summoned to the summit, he is sent down again to warn the people;
+his reminder that a boundary is already in place does not cancel the new command (19:20–25).
+The chapter ends with him among the people, not with him receiving the tablets. This return
+with Israel realizes the promised setting of the sign at the bush (3:12). See
+[[Israel at Mount Sinai]] and
+[[On This Mountain - The Sign at the Bush and the Assembly at Sinai]].
+
 ### What is ahead
 
-Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+The commandments, covenant ratification, and tabernacle (20–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -421,6 +431,7 @@ sections are written as their pericopes arrive.
 - Receives Jethro, Zipporah, and his sons at the Mountain of God; bows to and kisses Jethro and tells him all Yahweh
   had done; judges the people alone from morning to evening; takes Jethro's counsel and appoints judges over
   thousands, hundreds, fifties, and tens — Exodus 18:1–27, [[Jethro's Counsel]]
+- Relays the covenant offer and assent, prepares Israel, and mediates the mountain encounter — Exodus 19:3–25; [[Israel at Mount Sinai]]
 
 ## Appears in
 
@@ -490,6 +501,7 @@ sections are written as their pericopes arrive.
 - [[Jethro's Counsel]] — Exodus 18:5–27; **the judge who cannot judge alone.** *"Moses went out to meet his
   father-in-law, and bowed and kissed him"*; *"Moses sat to judge the people"*; *"Because the people come to me to
   inquire of God"*; *"So Moses listened to the voice of his father-in-law, and did all that he had said"*
+- [[Israel at Mount Sinai]] — Exodus 19:3–25; mediator and leader of the assembly
 
 ## Related people
 

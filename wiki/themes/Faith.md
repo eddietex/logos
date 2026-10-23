@@ -39,6 +39,12 @@ since 6:22 — *"Thus Noah did. He did all that God commanded him"* — and 12:4
 reads the whole sequence back as faith and supplies the interior Genesis withholds. What Genesis 15:6
 adds is not the behaviour but the **word for it**, and a verdict attached.
 
+**Public hearing is meant to establish trust in the mediator.** God says the people will hear
+him speak with Moses and believe Moses thereafter (19:9). The cloud therefore accompanies an
+authentication of Moses, not merely an overwhelming spectacle. Their promised obedience in
+19:8 and God's purpose in 19:9 remain distinct from a claim that future unbelief is impossible.
+See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 6:22; 7:5** — obedience narrated without a word for it: Noah builds. Hebrews 11:7 calls it
@@ -186,6 +192,7 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   more in the Torah, of God, beside *"The Rock"*: *"A God of faithfulness (ʾēl ʾĕmûnâ)"* (Deuteronomy 32:4; WLC),
   and is Habakkuk's *"the righteous will live by his faith (beʾĕmûnātô)"* (2:4; WLC). **In Exodus 17 it is
   physical**, and the steadiness is supplied by other people
+- [[Israel at Mount Sinai]] — Exodus 19:9, 19; God speaks in the assembly’s hearing to establish trust in Moses
 
 ## Related themes
 

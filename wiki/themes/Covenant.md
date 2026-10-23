@@ -57,6 +57,13 @@ undertaking not to do something), and a sign the *superior* party keeps. Circumc
 carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to look at. See
 [[The Bow in the Cloud]].
 
+**At Sinai rescue precedes a conditional vocation.** Yahweh recalls what he has done and how he
+has brought Israel to himself (19:4), then makes obedience and covenant keeping the condition
+of the priestly, holy calling (19:5–6). All the people assent (19:8). This differs from the
+unilateral promise against another universal flood in Genesis 9:8–17; the differing obligations
+and scopes should remain explicit. Exodus 19 is the offer and assent, not yet the detailed laws
+or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
+
 ## Development across Scripture
 
 - **Genesis 6:18** — the word's first occurrence, announced to Noah before the flood. See
@@ -323,6 +330,7 @@ carry and the Sabbath is Israel's to observe; the bow in the cloud is God's to l
   you to me for a people, and I will be to you a God"* (6:7) adds the people's half to Genesis
   17:7–8's *"to be a God to you"* —
   [[I Will Take You as My People - The Covenant Formula]]
+- [[Israel at Mount Sinai]] — Exodus 19:4–8; rescue recalled, obedience required, and the whole assembly assenting
 
 ## Related themes
 

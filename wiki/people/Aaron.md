@@ -152,6 +152,13 @@ God"*, ***"Aaron came with all the elders of Israel, to eat bread with Moses' fa
 **The future high priest's first meal *"before God"* is at a Midianite's sacrifice**, before any altar law or
 ordination. He is not mentioned in the counsel that follows. See [[Jethro's Counsel]].
 
+**At Sinai Aaron is singled out for access without an ordination being narrated.** God tells
+Moses to bring Aaron up with him, while the priests and the people must not break through
+(19:24). Aaron is thus distinguished from those groups for this ascent; the text does not yet
+identify him here as high priest or name the unnamed priests. The chapter ends with Moses
+going down, so Aaron's actual ascent should not be reported as an event already narrated in
+this unit. See [[Israel at Mount Sinai]].
+
 ### What is ahead
 
 Sinai, where he goes up with the elders (24); the priestly
@@ -193,6 +200,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - Goes up the hill with Moses and Hur during the battle with Amalek; holds up one of Moses' hands until sunset —
   Exodus 17:10–12, [[The Battle with Amalek]]
 - Comes with all the elders to eat bread with Jethro before God — Exodus 18:12, [[Jethro's Counsel]]
+- Named as the one Moses is to bring up, while others must not break through — Exodus 19:24; [[Israel at Mount Sinai]]
 
 ## Appears in
 
@@ -233,6 +241,7 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   held up his hands, the one on the one side, and the other on the other side"*
 - [[Jethro's Counsel]] — Exodus 18:12; **at the meal.** *"Aaron came with all the elders of Israel, to eat bread
   with Moses' father-in-law before God"*
+- [[Israel at Mount Sinai]] — Exodus 19:24; named for a commanded ascent, not yet narrated
 
 ## Related people
 

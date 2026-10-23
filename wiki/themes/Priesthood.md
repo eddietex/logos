@@ -25,6 +25,13 @@ he blesses God on Abram's behalf; then he receives a tenth. Something goes up th
 something comes down through him. That two-way motion is what the word adds. See
 [[Sacrifice Before the Priesthood]] and [[Mediation and Advocacy]].
 
+**The national vocation and the restricted office coexist in Exodus 19.** The whole assembly
+is offered a priestly kingdom (19:6), while a group already called priests must prepare and
+remain within the boundary (19:22, 24). The text does not identify those priests or explain
+their appointment. It singles Aaron out to accompany Moses without narrating his ordination.
+This prevents reading the national calling as universal permission to officiate or ascend.
+See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First Peter 2]].
+
 ## Development across Scripture
 
 - **Before the law, whoever holds the office holds it without explanation.** Melchizedek (Genesis
@@ -32,13 +39,14 @@ something comes down through him. That two-way motion is what the word adds. See
   their portion which Pharaoh gave them"* (47:22, 26); and Jethro, *"the priest of Midian"*
   (Exodus 3:1), who sacrifices to God and gives Moses his judicial system in Exodus 18. In each case the priest is a
   foreigner, and in none of them does Scripture question the office.
-- **At Sinai the nation is offered it and then a tribe receives it.** *"You shall be to me a kingdom
-  of priests and a holy nation"* (Exodus 19:6) precedes the golden calf; after it, Aaron and his
-  sons are consecrated (Exodus 28–29; Leviticus 8–9) and Levi is set apart (Numbers 3:5–13). What
-  the office now includes is stated: offering sacrifice, distinguishing holy from common and clean
-  from unclean, teaching the law, carrying the Urim and Thummim, and pronouncing the blessing of
-  Numbers 6:24–26. It is hereditary, tribal, and bounded by death — the point Hebrews 7:23 later
-  presses.
+- **At Sinai the national calling and particular priestly roles coexist.** Exodus 19:6 offers
+  the whole people a priestly kingdom; 19:22, 24 also names a group of priests whose identity
+  is not explained. **Correction to the former sequence on this page:** the instructions
+  appointing Aaron and his sons already occur in Exodus 28:1 and 29, before the golden calf
+  in Exodus 32. Their later consecration in Leviticus 8–9 and the Levites' appointment in
+  Numbers 3 are separate stages (those books by reference). The narrative does not say the
+  national vocation was revoked and transferred to a tribe because of the calf. See
+  [[Israel at Mount Sinai]].
 - **Kingship and priesthood are kept apart in Israel, and the two men who cross the line are
   punished.** Saul offers at Gilgal and loses his dynasty (1 Samuel 13:8–14); Uzziah burns incense
   in the temple and is struck with a skin disease (2 Chronicles 26:16–21). Melchizedek held both
@@ -67,8 +75,8 @@ something comes down through him. That two-way motion is what the word adds. See
 - Genesis 28:18 — **the first anointing**, [[Jacob's Ladder at Bethel]]: before any priest, king,
   tabernacle, or vessel is anointed, a fugitive with no office pours oil on a stone. It is also the
   first occurrence of *šemen* in Scripture, and God later refers to the act approvingly (31:13)
-- Exodus 19:6 — a kingdom of priests
-- Exodus 28–29; Leviticus 8–9 — Aaron and his sons consecrated
+- Exodus 28–29 — Aaron and his sons appointed and their consecration prescribed;
+  Leviticus 8–9 — consecration and inauguration narrated (not yet ingested)
 - Numbers 3:5–13; Deuteronomy 33:8–11 — Levi set apart
 - 1 Samuel 2:35 — *"I will raise up a faithful priest"*
 - Psalm 110:4 — the order of Melchizedek
@@ -120,6 +128,7 @@ something comes down through him. That two-way motion is what the word adds. See
   Exodus** (WLC lemma search, Exodus), provides a burnt offering, and the future high priest comes to eat with him.
   With [[Melchizedek]], one of the two priests outside the line who bless God in Genesis–Exodus —
   [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
+- [[Israel at Mount Sinai]] — Exodus 19:6, 22–24; a kingdom of priests and unnamed priests under distinct limits
 
 ## Related themes
 

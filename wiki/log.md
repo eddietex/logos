@@ -13154,3 +13154,74 @@ marked) for *nābēl*, *dāraš*, *ḥāzâ*, *beṣaʿ*, *zîd*, *šillûḥîm
   - `wiki/index.md`: 115 passages, 169 people, 90 places, 77 themes, 320 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 19.1-25 — Israel at Mount Sinai
+
+Unattended `/ingest auto`, executed by Codex from the canonical repository skill. Ingested exactly
+[[Israel at Mount Sinai]], Exodus 19:1–25; the existing boundary is retained. The discussion is
+written into the passage: rescue before the covenant demand, corporate priestly vocation and
+restricted access, preparation, public hearing, Moses' mediation, and the repeated warning.
+
+### Decisions and tensions
+
+- **Sinai remains on [[Horeb]].** Resolved that page's deferred filing decision by retaining both
+  names and the surrounding wilderness camp on one page. This is a narrative filing convention,
+  not a modern geographical identification or a resolution of the names' historical relationship.
+- **No new person or place pages.** The elders, assembly, and unnamed priests are collectives;
+  the priests' identities are not supplied. [[Jacob]] is a collective ancestral reference, and
+  [[Aaron]] is commanded to ascend with Moses; his ascent is not narrated in this chapter.
+- **Tensions preserved:** the mountain camp in Exodus 18:5 before the arrival in 19:1–2; the
+  trumpet permission of 19:13 alongside the renewed prohibition in 19:21–24; public descent
+  alongside the ban on breaking through to gaze. Proposed readings are identified as readings.
+- **Two existing synthesis errors explicitly corrected:** [[Priesthood]] formerly placed the
+  Exodus 28–29 prescriptions after the golden calf and suggested a transfer from nation to tribe;
+  the prescriptions precede Exodus 32, and 19:6 coexists with 19:22, 24. [[Law and Obedience]]'s
+  claim that law never precedes deliverance contradicted its own Passover example; the priority
+  of rescue is now stated for the Sinai demand, with Exodus 12:1–28 retained as a counterexample
+  to the former absolute wording.
+- The fire connection's unsupported distance between Abram and the theophany was removed, and
+  its Sinai quotation was brought into agreement with the raw WEB. The new material distinguishes
+  the English description of cloud and fire from an explicit naming of glory; no unverified
+  Hebrew or Greek claims were introduced.
+
+### Sources
+
+Exodus 19:1–25 read from `raw/bible/Exodus.md`; its key verses copied verbatim and reflowed.
+The bush's promise, Exodus 3:1–12, the people's request in 20:18–21, and Aaron's appointment in
+28:1 were also checked in that raw source. No existing raw text was changed.
+
+External WEB comparisons verified directly from bible-api.com on 2026-10-23, with
+`translation=web`, for **Deuteronomy 32:9–12**, **1 Peter 2:4–10**, and **Hebrews 12:18–29**.
+The web reader could not open these API URLs; direct HTTPS requests returned the named WEB
+translation and the individual verse texts. The connections record the requests. No new book
+was bulk-fetched into `raw/`. Further texts named only by reference are distinguished from
+verified quotations. No source-language edition was needed because no new exact-language
+assertions were made.
+
+### Pages created or revised
+
+- **Created (5):** the passage and four connections:
+  [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]],
+  [[On Eagles Wings - Exodus 19 and Deuteronomy 32]],
+  [[A Kingdom of Priests - Exodus 19 and First Peter 2]], and
+  [[Sinai and Zion - Exodus 19 and Hebrews 12]].
+- **Existing content pages revised (26):** [[Exodus]], [[The Burning Bush]];
+  four people ([[God]], [[Moses]], [[Aaron]], [[Jacob]]);
+  three places ([[Horeb]], [[Rephidim]], [[Egypt]]);
+  fifteen themes ([[Covenant]], [[Holiness]], [[Priesthood]], [[Call and Election]], [[The Nations]],
+  [[Kingship and Empire]], [[Law and Obedience]], [[Faith]], [[Mediation and Advocacy]],
+  [[The Fear of God]], [[Life and Death]], [[Clean and Unclean]], [[Seeing and Being Seen]],
+  [[The Glory of God]], [[Redemption]]);
+  and two connections, [[Because Abraham Obeyed My Voice - Law Before Sinai]] and
+  [[Smoking Furnace and Flaming Torch - Fire as Theophany]]. Entity syntheses and passage lists
+  were both updated, with timeline entries for the active named people.
+- **Bookkeeping revised (10):** nine indexes/dashboard pages and this log. Changed entity rows
+  gain the passage; four new connections are filed under K, O, O, and S, with their subindexes
+  sorted. Existing subindex sizes do not require a range change. Exodus is **25 / 53**.
+- **Totals by frontmatter type:** 116 passages, 169 people, 90 places, 77 themes, 324 connections;
+  3 books started, 2 complete. Overall: **5 pages created, 36 existing pages revised**.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
+remain the expected baseline. New titles are unique; touched entity index rows and progress
+counts match the pages. No unresolved operational issue; the interpretive tensions above remain
+explicitly recorded. No schema, skill, harness, or controller files were changed.

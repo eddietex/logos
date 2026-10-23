@@ -24,11 +24,19 @@ them, and there he tested them"* (Exodus 15:25).
 
 **Two things about the theme are set before Sinai and stay:**
 
-1. **Law follows deliverance, never precedes it.** The Passover law comes on the eve of the exodus (12);
-   the Marah statute three days after the sea; the Ten Commandments open *"I am Yahweh your God, who brought
+1. **The Sinai covenant demand follows deliverance; this is not a claim about every law.** The
+   earlier wording here, “never precedes it,” contradicted the Passover commands given before
+   departure (Exodus 12:1–28). Marah follows the sea and Sinai recalls rescue in Exodus 19:4–5;
+   the Ten Commandments open *"I am Yahweh your God, who brought
    you out of the land of Egypt"* (20:2; *not yet ingested*).
 2. **Obedience is described as hearing.** At Marah the four conditions are *listen*, *do*, *pay attention*,
    *keep* (15:26) — **three of the four are verbs of attention, not of action.**
+
+**At Sinai obedience is promised before the detailed covenant laws are spoken.** Yahweh calls
+for obedience and covenant keeping (19:5), and the people assent together (19:8). Their rescue
+is already the stated ground of the address (19:4); their promise is not evidence that every
+later command has already been performed. See [[Israel at Mount Sinai]] and
+[[Because Abraham Obeyed My Voice - Law Before Sinai]].
 
 ## Development across Scripture
 
@@ -81,7 +89,7 @@ ordinances"*, its refrain (4:1, 5; 5:1).
 - [[The Consecration of the Firstborn]] — Exodus 13:9; **"Yahweh's law … in your mouth"**
 - [[Bitter Water at Marah]] — Exodus 15:25–26; **the first statute and ordinance after the sea**, and the
   condition of hearing
-- **Exodus 19:5; 20–23; 24:12** — the covenant offer, the commandments, and the tablets *(not yet ingested)*
+- **Exodus 20–23; 24:12** — the commandments and tablets *(not yet ingested)*
 - [[Manna and Quail]] — Exodus 16:4, 28; **"my law" as a daily ration.** *"Whether they will walk in my law, or
   not"*; *"How long do you refuse to keep my commandments and my laws?"* — Genesis 26:5's two words, about a
   Sabbath not yet commanded
@@ -89,6 +97,7 @@ ordinances"*, its refrain (4:1, 5; 5:1).
   and his laws"* — *ḥuqqê hāʾĕlōhîm wəʾet-tôrōtāyw*, Genesis 26:5's pair again (WLC) — and Jethro's *"You shall
   teach them the statutes and the laws, and shall show them the way in which they must walk"*. **Which statutes,
   before the law is given, the text does not say**
+- [[Israel at Mount Sinai]] — Exodus 19:4–8; the covenant offer and public promise of obedience
 
 ## Related themes
 

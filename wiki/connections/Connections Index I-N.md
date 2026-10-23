@@ -36,6 +36,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · Deuteronomy 26:5 · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
 | [[Joshua and Jesus - One Name]] | typology | Exodus 17:9–14 · Numbers 13:8, 16 · Matthew 1:21 · Acts 7:45 · Hebrews 4:8 |
+| [[A Kingdom of Priests - Exodus 19 and First Peter 2]] | quotation | Exodus 19:4–6, 21–24 · 1 Peter 2:4–10 |
 | [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Exodus 15:15, 18 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |
 | [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 |
 | [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] | law-and-narrative | Genesis 23:3–20 · Genesis 47:18–23 · Exodus 9:29; 19:5 · Leviticus 25:8–34, 39–43 · 1 Kings 21:1–4 · Isaiah 5:8 · Micah 2:1–2 |

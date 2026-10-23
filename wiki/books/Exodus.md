@@ -247,7 +247,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   in Exodus are his.** Deuteronomy credits the judges to Moses and Numbers gives Moses' burden to seventy elders with
   the Spirit; Exodus places the visit before the arrival at Sinai (19:1). See [[Jethro's Counsel]].
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
-  (20:22–23:33), and the covenant sealed in blood (24).
+  (20:22–23:33), and the covenant sealed in blood (24). **The assembly arrives in the third
+  month**, and Yahweh recalls carrying it to himself before offering a priestly, holy vocation
+  conditional on obedience (19:1–8). The people assent, prepare, and stand below a bounded
+  mountain as God descends in fire, cloud, and trumpet sound. Moses carries the words between
+  God and the people; Aaron is named for an ascent, while priests and people are warned not
+  to break through (19:9–25). See [[Israel at Mount Sinai]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -310,7 +315,7 @@ for unit.
 
 ### The covenant at Sinai (19–24)
 
-- [ ] Israel at Mount Sinai — Exodus 19:1–25
+- [x] [[Israel at Mount Sinai]] — Exodus 19:1–25
 - [ ] The Ten Commandments — Exodus 20:1–21
 - [ ] The Altar and the Hebrew Slave — Exodus 20:22–21:11
 - [ ] Laws of Violence and Injury — Exodus 21:12–36

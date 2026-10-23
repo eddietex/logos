@@ -580,6 +580,13 @@ funeral of the man their country was promised to and see Egyptians.**
 went up with him"* (50:14). **Jacob is the last member of his house to be in the land of the promise
 for four hundred years, and he is dead when he gets there.**
 
+### His name addresses a covenant assembly — Exodus 19:3
+
+**The house of Jacob is now the people gathered before Sinai.** God addresses them in parallel
+as Jacob's house and the children of Israel (19:3), then gives them the covenant calling of
+19:4–6. Jacob himself is not an actor here: his two names identify the community descended from
+him. See [[Israel at Mount Sinai]].
+
 ## Timeline / key events
 
 - Foretold before birth in the oracle to his mother: *"The elder will serve the younger"* — Genesis
@@ -933,6 +940,7 @@ for four hundred years, and he is dead when he gets there.**
   Almighty"***. His own *"God Almighty appeared to me at Luz"* (Genesis 48:3) uses the same verb, and
   his *"the days of the years of my pilgrimage"* (47:9) is the *məgûrîm* of 6:4, *"the land of their
   travels"* — [[God Almighty - El Shaddai in Genesis and Exodus]]
+- [[Israel at Mount Sinai]] — Exodus 19:3; ancestral name of the people, not a personal appearance
 
 ## Related people
 
