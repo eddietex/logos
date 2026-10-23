@@ -134,6 +134,12 @@ the same verses that put the tree of life back in reach (see
   of the Old Testament; Jesus reversing the direction (*"bless those who curse you"*, Luke 6:28);
   Galatians 3:10–14; Revelation 22:3.
 
+**Exodus 22:28 forbids cursing God or a ruler with the two verbs of Genesis 12:3.** *ʾĔlōhîm lōʾ
+təqallēl wənāśîʾ bəʿamməkā lōʾ tāʾōr* (MAM 22:27): *qillēl*, to make light of, and *ʾārar*, to
+curse, the pair in *ûməqallelkā ʾāʾōr*. The WEB renders *qillēl* as *blaspheme* here and as *treats
+… with contempt* at Genesis 12:3. Whether *ʾĕlōhîm* here is God or *"the gods"* (KJV) is left open.
+See [[Laws of Holiness and Compassion]] and [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]].
+
 ## Key passages
 
 - [[The Fall]] — the curse on the serpent and on the ground
@@ -187,6 +193,7 @@ the same verses that put the tree of life back in reach (see
   (31:8), another takes his wife (31:10), his arm broken from the shoulder (31:22), briers for wheat
   (31:40) — and the rest suppressed in the oath's usual form. The last echoes the ground cursed at
   Genesis 3:17–18.
+- [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler, with the verbs of Genesis 12:3
 
 ## Related themes
 

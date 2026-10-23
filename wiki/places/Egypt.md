@@ -77,6 +77,11 @@ Sabbath paragraph of this Exodus version grounds rest in creation (20:11); Deute
 makes remembered Egyptian servitude its explicit Sabbath rationale. See [[The Ten Commandments]] and
 [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]].
 
+**At Sinai Egypt becomes the reason for a law.** *"You shall not wrong an alien or oppress him, for
+you were aliens in the land of Egypt"* (Exodus 22:21). The verbs Israel is forbidden — *lāḥaṣ*,
+*oppress*, and *ʿinnâ*, *afflict* — are the verbs used of Egypt's treatment of Israel (3:9; 1:11;
+MAM). **Israel's memory of Egypt is made into a duty not to be Egypt.** See [[Laws of Holiness and Compassion]].
+
 ## Appears in
 
 - [[The Table of Nations]] — Genesis 10:6 as Ham's second son, 10:13–14 with seven descendants
@@ -294,6 +299,7 @@ makes remembered Egyptian servitude its explicit Sabbath rationale. See [[The Te
 
 - [[The Ten Commandments]] — Exodus 20:2; remembered as the house of bondage at the opening of the
   commandments
+- [[Laws of Holiness and Compassion]] — Exodus 22:21; *"for you were aliens in the land of Egypt"*
 
 ## Related places
 
@@ -382,3 +388,5 @@ makes remembered Egyptian servitude its explicit Sabbath rationale. See [[The Te
   [[Manna and Quail]]
 - Named in the charge at Rephidim, *"Why have you brought us up out of Egypt?"* — Exodus 17:3,
   [[Water from the Rock]]
+- Named as the land where Israel were aliens, the reason not to oppress one — Exodus 22:21,
+  [[Laws of Holiness and Compassion]]

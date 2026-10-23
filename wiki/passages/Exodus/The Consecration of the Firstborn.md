@@ -363,7 +363,8 @@ a festival, not an object. The wiki adopts neither reading.
 - Exodus 12:29, 49 — the blow; *"One law"* — [[The Death of the Firstborn and the Departure]]
 - Exodus 13:17–22 — the march resumes; Joseph's bones *(not yet ingested)*
 - Exodus 20:2, 8 — *"out of the house of bondage"*; *"Remember (zākôr) the Sabbath day"* *(not yet ingested)*
-- Exodus 22:29–30; 34:18–20 — the firstborn law restated, once without and once with redemption
+- Exodus 22:29–30; 34:18–20 — the firstborn law restated, once without and once with redemption:
+  [[Laws of Holiness and Compassion]] (34 not yet ingested)
   *(not yet ingested)*
 - Leviticus 18:21; Deuteronomy 18:10 — *ʿābar* in the hiphil, of child sacrifice —
   [[Child Sacrifice and the Redemption of the Firstborn]] *(not yet ingested)*

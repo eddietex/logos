@@ -276,6 +276,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   a thief killed breaking in, but guilt once the sun has risen; grazing and fire damage made good; and deposits,
   kept animals, and loans settled by an oath, a hearing *"before God"*, or the keeper's evidence.
   See [[Laws of Property and Restitution]].
+  **Then the law turns from things to persons** (22:16–31): the bride-price for a seduced virgin;
+  death for the sorceress, for bestiality, and for sacrifice to other gods; and, in God's first
+  person, protection for the alien, the widow, the fatherless, and the poor borrower, forbidding
+  Israel the very verbs Egypt used on it — *"for you were aliens in the land of Egypt"*, *"I will
+  surely hear their cry"*, *"I am gracious"*. The unit ends on the firstborn given *"on the eighth
+  day"* and *"You shall be holy men to me"*. See [[Laws of Holiness and Compassion]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -343,7 +349,7 @@ for unit.
 - [x] [[The Altar and the Hebrew Slave]] — Exodus 20:22–21:11
 - [x] [[Laws of Violence and Injury]] — Exodus 21:12–36
 - [x] [[Laws of Property and Restitution]] — Exodus 22:1–15
-- [ ] Laws of Holiness and Compassion — Exodus 22:16–31
+- [x] [[Laws of Holiness and Compassion]] — Exodus 22:16–31
 - [ ] Justice, Sabbaths, and Feasts — Exodus 23:1–19
 - [ ] The Angel Sent Ahead — Exodus 23:20–33
 - [ ] The Blood of the Covenant — Exodus 24:1–18

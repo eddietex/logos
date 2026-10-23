@@ -70,6 +70,12 @@ profanes the altar is human work done to it**, and its approach is shaped so tha
 exposed (20:26). Jeremiah 34:16 uses the same verb of Judah taking back freed servants: *"you ...
 profaned my name"*. See [[The Altar and the Hebrew Slave]].
 
+**Exodus 22:31 turns the promise of 19:6 into a rule.** *"A holy nation"* (*gôy qādôš*)
+becomes *wəʾanšê-qōdeš tihyûn lî*, *you shall be men of holiness to me* (MAM 22:30), and the first
+thing it requires is dietary: flesh *"torn by animals in the field"* is not eaten but *"cast … to the
+dogs"*. **The ordinances' first statement of their own purpose is holiness, and it closes a unit
+mostly about protecting the weak.** See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -94,6 +100,7 @@ profaned my name"*. See [[The Altar and the Hebrew Slave]].
 - [[The Ten Commandments]] — Exodus 20:8–11; the holy day orders ordinary household time
 - [[The Altar and the Hebrew Slave]] — Exodus 20:25–26; a tool profanes the altar, and its approach
   guards against exposure
+- [[Laws of Holiness and Compassion]] — Exodus 22:31; *"You shall be holy men to me"*, and torn meat refused
 
 ## Related themes
 

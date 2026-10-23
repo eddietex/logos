@@ -94,6 +94,13 @@ and ritual readiness should not be collapsed into moral innocence. See [[Israel 
 - **Revelation 21:27** — *"there will in no way enter into it anything profane"*: the category's last
   appearance, applied to the new Jerusalem, where the sanctuary is the whole city.
 
+**Exodus 22:31 is the first food rule at Sinai that states its reason.** (The goring bull's meat
+*"shall not be eaten"* at 21:28, with no reason given.) Flesh *"torn
+by animals in the field"* — *ṭərēpâ*, the noun of Genesis 31:39 — is not eaten, and the reason is
+holiness, not uncleanness: *"You shall be holy men to me"*. Later law calls the eater unclean until
+evening (Leviticus 17:15) — a difference recorded here and not harmonized. See
+[[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Noah and the Flood]] — the distinction's first appearance in Scripture, assumed without
@@ -145,6 +152,7 @@ and ritual readiness should not be collapsed into moral innocence. See [[Israel 
   call the boils unclean; the link is the word —
   [[The Boil of Deuteronomy 28 on a Blameless Man]]
 - [[Israel at Mount Sinai]] — Exodus 19:10–15, 22; garments washed and people and priests prepared
+- [[Laws of Holiness and Compassion]] — Exodus 22:31; torn meat refused for holiness' sake
 
 ## Related themes
 

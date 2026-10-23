@@ -88,6 +88,11 @@ finding is that in Genesis the provision follows the sentence and never cancels 
 - **Hebrews 11:7** — Noah reread as a man who *"became heir of the righteousness which is according
   to faith"*, which is the New Testament resolving the 6:8/6:9 order in one direction.
 
+**God calls himself *ḥannûn*, *gracious*, in the Book of the Covenant**, as the reason the poor
+man's pledged cloak must be returned: *"when he cries to me … I will hear, for I am gracious"*
+(Exodus 22:27; *kî-ḥannûn ʾānî*, MAM 22:26). The same adjective returns at 34:6. See
+[[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[The Sons of God and the Corruption of the Earth]] — *ḥēn*'s first appearance, placed after the
@@ -173,6 +178,7 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   let them have what they asked"*** — the third telling (3:21; 11:3), and the one that reports it done.
   **The favour is given by God and shown by the Egyptians**, on the night their firstborn die. See
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[Laws of Holiness and Compassion]] — Exodus 22:27; *"for I am gracious"*, *ḥannûn*
 
 ## Related themes
 

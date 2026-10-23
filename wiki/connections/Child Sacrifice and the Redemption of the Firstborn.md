@@ -37,11 +37,14 @@ that it reads as an answer to someone who had claimed otherwise.
 ### The claim being answered
 
 **Israel had a law that could be misread into exactly this.** *"All the firstborn are mine"* (Numbers
-3:13). *"You shall give me the firstborn of your sons"* (Exodus 22:29). Taken alone, that sentence is
-a demand for children, and Exodus 22:29 states it without the qualifier in the very next breath.
+3:13). *"You shall give the firstborn of your sons to me"* (Exodus 22:29). Taken alone, that sentence
+is a demand for children, and Exodus 22:29 states it without the qualifier, going straight on to the
+cattle and sheep. See
+[[Laws of Holiness and Compassion]].
 
-**The qualifier is always supplied elsewhere, and always in the same form.** Exodus 13:13 and 34:20:
-*"All the firstborn of your sons you shall redeem"* — *pādâ*, to buy back. Numbers 18:16 puts a price
+**The qualifier is always supplied elsewhere, and always in the same form.** Exodus 13:13: *"you
+shall redeem all the firstborn of man among your sons"*; 34:20: *"You shall redeem all the firstborn
+of your sons"* — *pādâ*, to buy back. Numbers 18:16 puts a price
 on it: five shekels, at a month old. Numbers 3 substitutes an entire tribe for an entire generation
 of firstborn sons, and counts the surplus. **The law claims every firstborn son and then, without
 exception, hands him back for an animal or a payment.**
@@ -133,6 +136,13 @@ used, or simply the ordinary verb for handing over, the text does not say.
 or its neck is broken (*ʿārap*; 13:13). **The animal has a stated alternative to redemption; the son has
 none** — the sentence turns to *"all the firstborn of man"* with no *if*. And the lamb that stands in for the
 donkey is the word Isaac used: *"where is the lamb (haśśeh)?"* (Genesis 22:7; WLC).
+
+**Exodus 22:29–30 is now ingested, and the omission stands as written.** The verse sits in a unit
+that also forbids sacrifice to any god but Yahweh (22:20), so the same passage that omits the
+redemption clause makes the worship this page describes a capital offence. The animal firstborn is
+given *"on the eighth day"* (22:30); the text does not say when the son is given, or whether he is
+redeemed. **The wiki still records 22:29 and 13:13 side by side without harmonizing them.** See
+[[Laws of Holiness and Compassion]] and [[The Eighth Day - Circumcision and the Firstborn Given to God]].
 
 ## Significance
 

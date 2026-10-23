@@ -124,6 +124,11 @@ the keeper nothing, while a borrower pays for loss in the owner's absence (22:7�
 [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]].
 See [[Laws of Property and Restitution]].
 
+**Exodus 22:25–27 limits what a lender may do.** A loan to a poor member of *"my people"* is to
+carry no *nešek*, interest, and the lender is not to act *"as a creditor"*; a cloak taken in pledge
+comes back before sunset. **Ownership of the pledge is allowed; using it against the man's need is
+not.** See [[Laws of Holiness and Compassion]] and [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — the first inventory, handed over by a deceived king; *very heavy* in
@@ -287,6 +292,7 @@ See [[Laws of Property and Restitution]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; theft, damage, deposit, loan, and hire
+- [[Laws of Holiness and Compassion]] — Exodus 22:25–27; lending without interest, and the pledged cloak
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

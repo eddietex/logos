@@ -31,6 +31,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:5, 8, 17, 19 · Psalm 106:9 · Hebrews 11:29 |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
 | [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] | motif | Genesis 41:6, 23, 27 · Exodus 10:13, 19 · Exodus 14:21 · Exodus 15:8, 10 |
+| [[The Eighth Day - Circumcision and the Firstborn Given to God]] | thread | Genesis 17:12 · Genesis 21:4 · Exodus 22:30 · Leviticus 12:3 · Leviticus 22:27 · Luke 2:21 |
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |

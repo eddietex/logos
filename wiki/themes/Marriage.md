@@ -125,6 +125,12 @@ cites above for regulated polygamy**, and its protection is concrete. The last n
 nowhere else in Genesis–Deuteronomy (WLC lemma search), so its sense is not settled by other Torah
 uses. See [[The Altar and the Hebrew Slave]].
 
+**Exodus 22:16–17 makes the bride-price, *mōhar*, a legal remedy.** A man who entices an
+unbetrothed virgin must pay it and take her as his wife; if her father refuses, he pays *"according
+to the dowry of virgins"* anyway. The noun is the one Shechem used (*mōhar ûmattān*, Genesis 34:12,
+MAM). **The father's consent decides the marriage; the woman's is not mentioned.** See
+[[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
@@ -291,6 +297,7 @@ uses. See [[The Altar and the Hebrew Slave]].
   coveting a neighbor’s wife prohibited
 - [[The Altar and the Hebrew Slave]] — Exodus 21:3–11; a family divided by release, and a female
   servant's food, clothing, and marital rights protected
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–17; the bride-price as remedy, and the father's right to refuse
 
 ## Related themes
 

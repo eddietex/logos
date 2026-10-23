@@ -178,6 +178,11 @@ The covenant's ordinances continue with property held, lent, kept, and stolen am
 of people who hold one another's goods in trust, with disputes brought *"before God"* (22:9).
 See [[Laws of Property and Restitution]].
 
+**In the Book of the Covenant the covenant people are defined by whom they protect.** Exodus
+22:21–27 binds Israel to the alien, the widow, the fatherless, and the poor borrower, calls the poor
+*"my people"*, and ends the unit with *"You shall be holy men to me"* (22:31), the law's form of
+19:6's *"a holy nation"*. See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Noah and the Flood]] — *bərît*'s first occurrence, offered inside the announcement of universal
@@ -367,6 +372,7 @@ See [[Laws of Property and Restitution]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; neighbors holding, lending, and stealing one another's goods
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the covenant people's obligations to the vulnerable, and holiness
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

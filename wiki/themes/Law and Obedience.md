@@ -113,6 +113,13 @@ and a keeper's liability turns on what he could have prevented (22:1–15). The 
 loss as well as wrongdoing, and it trusts an oath where there is no witness (22:10–11).
 See [[Laws of Property and Restitution]].
 
+**At 22:16–31 the ordinances change form.** After one more casuistic case, the seduced virgin's
+bride-price, the law shifts to short absolute sentences — death for the sorceress, for bestiality,
+and for sacrifice to other gods — and then to God speaking in the first person about whom he will
+protect: *"they cry at all to me, I will surely hear"* (22:23). **The section ends by naming the
+purpose of the whole: *"You shall be holy men to me"*** (22:31). See
+[[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Isaac in Gerar]] — Genesis 26:5; **commandments, statutes, and laws before any are given**
@@ -139,6 +146,7 @@ See [[Laws of Property and Restitution]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; the eighth commandment given cases and remedies
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–31; casuistic law gives way to absolute sentences and God's own voice
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

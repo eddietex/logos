@@ -115,6 +115,11 @@ disputed claim (22:9) — so a false accusation of theft costs what the theft wo
 [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]].
 See [[Laws of Property and Restitution]].
 
+**Exodus 22:24 measures the penalty on the offence.** Those who take advantage of the widow and
+the fatherless will be killed *"with the sword; and your wives shall be widows, and your children
+fatherless"*. **The punishment makes the oppressor's household into the people he oppressed.** See
+[[Laws of Holiness and Compassion]] and [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+
 ## Key passages
 
 - [[The Stolen Blessing]] — Genesis 27:1–45, and **the theme in the one form Genesis will actually
@@ -346,6 +351,7 @@ See [[Laws of Property and Restitution]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–9; multiplied repayment for theft and false claims
+- [[Laws of Holiness and Compassion]] — Exodus 22:24; widows and orphans for those who wronged them
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

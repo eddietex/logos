@@ -26,7 +26,8 @@ tags: [connection]
   noun and adjective, *ṣəʿāqâ gədōlâ* (WLC)
 - **Exodus 22:23–24** — *"If you take advantage of them at all, and they cry at all to me, I will surely
   hear their cry; and my wrath will grow hot, and I will kill you with the sword; and your wives shall be
-  widows, and your children fatherless"* *(not yet ingested)*
+  widows, and your children fatherless"* —
+  [[Laws of Holiness and Compassion]]
 - **Genesis 19 and Exodus 12** — the two nights of destruction, compared word by word at
   [[The Door and the Destroyer - Lot's House and the Passover Night]]
 
@@ -54,6 +55,13 @@ subject are both in the text. See [[Birthright and the Firstborn]].
 *cry* to God will be heard, and the oppressor will lose his own: *"your wives shall be widows, and your
 children fatherless"* (Exodus 22:23–24). **The exodus's measure — the oppressed cry, God hears, the
 oppressor's house is made to cry — becomes the sanction of Israel's own law against Israel.**
+
+**With Exodus 22 ingested, two details sharpen the law's use of the word.** Verse 23 is built on
+three doubled verbs — *ʿannēh təʿanneh … ṣāʿōq yiṣʿaq … šāmōaʿ ʾešmaʿ ṣaʿăqātô* (MAM 22:22) — and in
+the Hebrew it is singular: *if you afflict **him** … **his** cry*, where the WEB has *"them … their
+cry"*. **One wronged person's cry is enough.** And the cry recurs four verses later, for the poor man
+whose cloak was kept overnight: *"when he cries to me … I will hear, for I am gracious"* (22:27).
+See [[Laws of Holiness and Compassion]].
 
 ## Significance
 

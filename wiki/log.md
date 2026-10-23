@@ -13528,3 +13528,92 @@ Exodus 20:9–10, 20:13, 21:37–22:14 (Hebrew numbering); Genesis 2:2, 30:33, 3
 
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
 remain the expected baseline. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 22.16-31 — Laws of Holiness and Compassion
+
+Unattended run (`/ingest auto`). The thirtieth Exodus pericope: the seduction case and the
+bride-price; death for the sorceress, for bestiality, and for sacrifice to other gods; God's
+first-person protection of the alien, the widow, the fatherless, and the poor borrower; the
+pledged cloak; not cursing God or a ruler; the firstborn and the eighth day; and *"You shall be holy
+men to me"*.
+
+### Judgment calls
+
+- **Boundary kept as planned.** The seduction case (22:16–17) is casuistic and financial and could
+  sit with the property laws; it stays here because 22:15 closes the property cases on hire and
+  22:16 begins the turn from things to persons. 23:1 opens false report and the courtroom.
+- **Verse numbering:** WEB 22:16–31 = Masoretic 22:15–30; the page uses the WEB's numbering and
+  gives Hebrew numbers in parentheses.
+- **New theme, [[The Poor and the Vulnerable]].** The alien, widow, fatherless, and poor appear here
+  together for the first time, with God as protector; Job's widow-and-orphan passages and Tamar's
+  widowhood had no theme page to go to. Hospitality and Land and Sojourning keep the alien's other
+  aspects.
+- **No new person or place pages.** The parties are legal categories; [[Horeb]] is the setting by
+  context and [[Egypt]] is named only in the motive clause.
+- **Readings left open at the point of the claim:** *ʾĕlōhîm* in 22:28 (WEB *"God"*, KJV *"the
+  gods"*, Septuagint *theous*); what *məlēʾātəkā wədimʿăkā* (22:29) means, given as the
+  translations' interpretation; the omitted redemption clause in 22:29, recorded beside 13:13 and
+  34:20 and not harmonized; why the sorcery law names a woman.
+- **Shared vocabulary recorded as shared, not as allusion:** *məkaššēpâ* (22:18) and Pharaoh's
+  *məkaššəpîm* (7:11); *təḥayyeh* (22:18) and the midwives' *wattəḥayyênā* (1:17); *lāḥaṣ* and *ʿinnâ*
+  (22:21–22) and Egypt's oppression (3:9; 1:11; Genesis 15:13); *qillēl* and *ʾārar* (22:28) and
+  Genesis 12:3; *nāśîʾ* (22:28) and Genesis 23:6, 34:2; *ṭərēpâ* (22:31) and Genesis 31:39; the dog of
+  22:31 and 11:7. All verified in the Hebrew; none claimed as intended.
+- **Two lexical claims not verified, and marked where made:** the derivation of *nešek* from *to
+  bite*; whether *ḥrm* first occurs at 22:20.
+- **WEB wording corrected on an existing page:**
+  [[Child Sacrifice and the Redemption of the Firstborn]] quoted Exodus 22:29 as *"You shall give me the firstborn of your sons"* and 13:13/34:20
+  as *"All the firstborn of your sons you shall redeem"*; neither matches the WEB. Both now quote the
+  WEB from `raw/bible/Exodus.md`. The page's argument is unchanged.
+- **Accuracy fix during the pass:** a first draft on [[Clean and Unclean]] called 22:31 the first
+  food rule at Sinai; the goring bull's meat at 21:28 is earlier. The page now says 22:31 is the
+  first that states its reason.
+
+### Sources
+
+Exodus 22:16–31 read from `raw/bible/Exodus.md`; all sixteen key verses generated mechanically from
+it, with wrapping only. Quoted fragments on the new pages and in every added line were checked
+mechanically against the raw files and the fetched texts. Local comparisons: Genesis 9:23; 12:3;
+15:13; 17:12; 21:4; 23:6; 31:39; 34:2, 12; 38:11, 14; Job 22:9; 24:3; 29:12, 16; 31:16, 21; Exodus
+1:11–12, 17–18; 3:9; 7:11; 11:7; 13:13, 15; 19:6; 21:28; 23:6, 9, 11; 34:6. Fetched individually from
+`bible-api.com` with `translation=web` on 2026-10-23: Acts 23:1–5; Leviticus 9:1; 12:2–3; 17:15;
+18:23; 20:27; 22:27; 23:36; 25:35–37; Deuteronomy 14:21; 18:10–12; 22:28–29; 23:19–20; 24:10–13;
+Psalm 15:5; Ezekiel 18:8; 44:31; Nehemiah 5:7; Amos 2:8; Luke 2:21; Exodus 34:19–20; and Exodus
+22:16–31 with `translation=kjv`. **Hebrew** checked in the *Miqra according to the Masorah* edition
+through the Sefaria API: Exodus 22:15–30 (Hebrew numbering), 1:11–12, 1:17–18, 3:9, 7:11, 11:7,
+13:2, 13:13, 19:6, 20:3, 21:6, 34:6; Genesis 9:23, 12:3, 15:13, 17:12, 21:4, 23:6, 31:39, 34:2,
+34:12; Leviticus 22:27; Deuteronomy 22:29. **Septuagint** checked in Rahlfs 1935
+(`eliranwong/LXX-Rahlfs-1935` digitization): Exodus 22:15–17, 27–28 (Greek numbering). **Greek NT**
+checked in the SBLGNT (MorphGNT): Acts 23:4–5. Psalm 82 and John 10:34–35 are named on the Acts
+connection, not quoted, and not checked. No raw file was added or changed.
+
+### Pages created or revised
+
+- **Created (5):** the passage; one theme, [[The Poor and the Vulnerable]]; three connections:
+  [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]],
+  [[The Eighth Day - Circumcision and the Firstborn Given to God]], and
+  [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
+- **Existing content pages revised (36):** [[Exodus]]; two people ([[God]], [[Moses]]); two places
+  ([[Egypt]], [[Horeb]]); twenty themes ([[Law and Obedience]], [[Covenant]], [[Holiness]],
+  [[Sexual Sin]], [[Marriage]], [[Idolatry]], [[Land and Sojourning]], [[Compassion and Mercy]],
+  [[Favor and Grace]], [[Prayer]], [[Wealth and Possessions]], [[Nakedness and Covering]], [[Curse]],
+  [[Birthright and the Firstborn]], [[Clean and Unclean]], [[Retribution]], [[Signs and Wonders]],
+  [[Circumcision]], [[Sacrifice and Offering]], [[Language and Speech]]); six connections
+  ([[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]],
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]],
+  [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]],
+  [[Child Sacrifice and the Redemption of the Firstborn]],
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]], and
+  [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]]); five earlier passages
+  whose forward references now link here ([[Laws of Property and Restitution]],
+  [[The Consecration of the Firstborn]], [[The Last Plague Announced]],
+  [[Aaron's Staff Before Pharaoh]], and [[Dinah and the Massacre at Shechem]]).
+- **Bookkeeping revised (9):** the book and top-level indexes; people F–M, places, and themes;
+  connection subindexes D–H, I–N, O–S, and T–Z; and this log. New connections file under E, L, and Y.
+  Subindex sizes are 58, 75, 66, 59, and 81; T–Z is the largest but not half again the others, so no
+  range change.
+- **Totals by frontmatter type:** 121 passages, 169 people, 90 places, 79 themes, 339 connections;
+  3 books started, 2 complete. Exodus is **30 / 53**. Exactly one queue box advanced.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
+remain the expected baseline. No schema, skill, harness, or controller files were changed.

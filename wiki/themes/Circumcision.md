@@ -84,6 +84,11 @@ a mark that can be perfectly kept and entirely missed.
   and, at Colossians 2:11, a *"circumcision not made with hands"* set beside baptism — the verse every
   later argument about infant baptism is fought over.
 
+**The eighth day of circumcision recurs in the firstborn law.** A firstborn calf or lamb stays
+*"Seven days … with its mother, then on the eighth day you shall give it to me"* (Exodus 22:30), the
+interval of Genesis 17:12. The text does not connect the two laws; the shared interval is traced at
+[[The Eighth Day - Circumcision and the Firstborn Given to God]]. See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17: the command, the age, the household scope,
@@ -136,6 +141,7 @@ a mark that can be perfectly kept and entirely missed.
   *himmôl lô kol-zākār*, the words of Genesis 17:10 (WLC) — and ***"no uncircumcised person shall eat of
   it"***. **Genesis 17's household rule becomes the admission rule for Israel's founding rite.** See
   [[One Law for the Native and the Stranger]] and [[Uncircumcised Lips, Ears, and Heart]]
+- [[Laws of Holiness and Compassion]] — Exodus 22:30; the firstborn animal given on the eighth day
 
 ## Related themes
 

@@ -95,6 +95,11 @@ name and for testimony against a neighbor (20:7, 16). The assembly asks for Mose
 God's words because direct hearing terrifies it (20:19). Speech here is legislation, a possible
 instrument of harm, and the means of mediation. See [[The Ten Commandments]].
 
+**Exodus 22:28 regulates speech about authority**: *"You shall not blaspheme God, nor curse a
+ruler of your people."* Paul quotes the second half before the high priest, in the Septuagint's
+wording, *"You shall not speak evil of a ruler of your people"* (Acts 23:5). See
+[[Laws of Holiness and Compassion]] and [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]].
+
 ## Key passages
 
 - [[The Second Test]] — **one passage, three separate things done with words.** *Bārak* used twice
@@ -301,6 +306,7 @@ instrument of harm, and the means of mediation. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:1, 7, 16, 19; divine command, accountable human words, and
   the request for Moses’ voice
+- [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler
 
 ## Related themes
 

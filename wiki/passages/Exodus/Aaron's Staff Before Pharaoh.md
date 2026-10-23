@@ -364,7 +364,8 @@ morning.
 - Exodus 12:17, 28, 41, 50, 51 — *"Yahweh's armies"*; *"so they did"*
 - Exodus 13:15 — *"when Pharaoh stubbornly refused"*, *hiqšâ*
 - Exodus 15:12 — *"The earth swallowed them"*
-- Exodus 22:18 — *"You shall not allow a sorceress to live"*
+- Exodus 22:18 — *"You shall not allow a sorceress to live"*, with the root of 7:11's *sorcerers* —
+  [[Laws of Holiness and Compassion]]
 - Exodus 39:32, 43; 40:16 — the obedience formula at the tabernacle
 - Numbers 16:32 — the earth swallows Korah's men and their households (WEB, not yet ingested)
 - Deuteronomy 34:7 — Moses *"one hundred twenty years old when he died"* (WEB, not yet ingested)

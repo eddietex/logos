@@ -375,6 +375,14 @@ He is not named in 22:1–15. The cases give him and the judges of Exodus 18 a p
 that have no witness: an oath, or a hearing *"before God"* (22:8–11). See
 [[Laws of Property and Restitution]].
 
+### Holiness and compassion — Exodus 22:16–31
+
+Moses continues receiving the ordinances (21:1). He is not named in 22:16–31, where God speaks in the
+first person about the alien, the widow, the fatherless, and the poor. The Moses who named his son
+*Gershom* because he had *"lived as a foreigner in a foreign land"* (2:22) now receives the law
+*"You shall not wrong an alien … for you were aliens in the land of Egypt"* (22:21); the text does
+not connect the two. See [[Laws of Holiness and Compassion]].
+
 ## Timeline / key events
 
 - Born to a man and a daughter of the house of Levi, under Pharaoh's decree; hidden three months —
@@ -467,6 +475,7 @@ that have no witness: an oath, or a hearing *"before God"* (22:8–11). See
 
 - The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
 - The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
+- The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
 
 ## Appears in
 
@@ -543,6 +552,7 @@ that have no witness: an oath, or a hearing *"before God"* (22:8–11). See
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; the continuing divine address to Moses
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the continuing divine address to Moses
 
 ## Related people
 

@@ -51,7 +51,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]] | allusion | Genesis 4:15 · Genesis 4:23–24 · Matthew 18:21–22 |
 | [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 9:27 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 |
 | [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] | thread | Job 2:10 · Job 1:21 · Isaiah 45:7 · Lamentations 3:37–38 · Amos 3:6 · Deuteronomy 32:39 · 1 Samuel 2:6–7 · Ecclesiastes 7:14 · Genesis 50:20 · 2 Corinthians 12:7–9 |
-| [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Amos 3:12 · John 10:11–13 |
+| [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Exodus 22:31 · Amos 3:12 · John 10:11–13 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |
 | [[The Sign and the Seal - Genesis 17 in Romans 4]] | quotation | Genesis 15:6 · Genesis 17:5, 10–11, 24 · Romans 4:9–12, 16–18 · Galatians 3:6–9, 15–18 · James 2:21–24 |
 | [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] | parallel | Genesis 41:42–43 · Esther 3:10 · Esther 6:6–11 · Esther 8:2, 15 · Esther 10:3 · Daniel 2:48 · Daniel 5:7, 29 |

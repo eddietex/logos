@@ -109,6 +109,13 @@ prohibition of adultery (20:14). The restriction on coveting a neighbor's wife a
 inward accountability into a Torah concerned only with outward acts. See
 [[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]]. See [[The Ten Commandments]].
 
+**The Book of the Covenant has two sexual cases, side by side and very unlike.** The man who
+*entices* an unbetrothed virgin pays the bride-price and marries her, or pays it anyway if her
+father refuses (Exodus 22:16–17); the man who lies with an animal is put to death (22:19). The first
+is treated as a wrong to be made good, the second as a capital offence, and the text gives no reason
+for either. **The seduction case is the remedy Shechem offered in Genesis 34:12.** See
+[[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — Genesis 12:10–20; the first wife-sister episode, and **the first moral objection
@@ -137,6 +144,7 @@ inward accountability into a Torah concerned only with outward acts. See
 
 - [[The Ten Commandments]] — Exodus 20:14, 17; adultery and coveting a neighbor’s wife are expressly
   forbidden
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–17, 19; seduction and the bride-price; bestiality
 
 ## Related themes
 

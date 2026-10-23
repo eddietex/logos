@@ -125,7 +125,8 @@ it, it need not; and a hired thing *"came for its lease"* (22:14–15).
 - Matthew 24:43 — the thief at night and *"the master of the house"*:
   [[The Thief Breaking In - Exodus 22 and Matthew 24]].
 - Exodus 22:16–31 — the next unit turns from property to seduction, sorcery, the vulnerable, and
-  the firstborn. Its page is written when that pericope is ingested.
+  the firstborn; the torn animal of 22:13 returns as torn meat at 22:31:
+  [[Laws of Holiness and Compassion]].
 
 ## Notes
 

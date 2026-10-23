@@ -59,6 +59,12 @@ taking is then applied to the whole people as a gift**, and the New Testament ex
 8:29), and the church as *"the assembly of the firstborn"* (Hebrews 12:23) — in the same chapter that
 holds up Esau as the warning.
 
+**Exodus 22:29–30 restates the firstborn claim without its redemption clause**: *"You shall give
+the firstborn of your sons to me"*, and the firstborn of cattle and sheep likewise, *"on the eighth
+day"*. Exodus 13:13, 15 and 34:20 say the sons are redeemed; this verse does not. The difference is
+recorded, not harmonized, on [[Child Sacrifice and the Redemption of the Firstborn]]. See
+[[Laws of Holiness and Compassion]] and [[The Eighth Day - Circumcision and the Firstborn Given to God]].
+
 ## Key passages
 
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; the word's first occurrence, an
@@ -201,6 +207,7 @@ holds up Esau as the warning.
   night of 12:29**: *"Yahweh killed all the firstborn in the land of Egypt … Therefore … all the firstborn
   of my sons I redeem"* (13:15). See [[Child Sacrifice and the Redemption of the Firstborn]] and
   [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]
+- [[Laws of Holiness and Compassion]] — Exodus 22:29–30; the firstborn given, with no redemption clause
 
 ## Related themes
 

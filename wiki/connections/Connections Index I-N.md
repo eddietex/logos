@@ -44,6 +44,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Laughter and the Name Isaac]] | thread | Genesis 17:17, 19 · Genesis 18:12–15 · Genesis 21:6, 9 · Genesis 26:8 · Galatians 4:29 |
 | [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] | literary-parallel | Job 21:5 · Job 29:9 · Job 40:4 · Job 2:13 · Job 13:5 · Judges 18:19 · Proverbs 30:32 · Micah 7:16 · Isaiah 52:15 · Job 31:14, 35 |
 | [[Leave Your Country - The Two Lek-Lekha Commands]] | parallel | Genesis 12:1 · Genesis 22:2 · Genesis 12:4 · Genesis 22:3 · Hebrews 11:8, 17–19 |
+| [[Lending Without Interest - Exodus 22.25 and the Poor Brother]] | thread | Exodus 22:25 · Leviticus 25:35–37 · Deuteronomy 23:19–20 · Psalm 15:5 · Ezekiel 18:8 · Nehemiah 5:7 |
 | [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 · Job 11:17 · Job 12:15, 22–25 |
 | [[Let Us Go Down - The Divine Plural in Genesis]] | thread | Genesis 1:26 · Genesis 3:22 · Genesis 11:7 · Genesis 6:2 · Job 1:6 · Isaiah 6:8 · 1 Kings 22:19–22 · Psalm 82:1 |
 | [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 |

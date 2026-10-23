@@ -118,6 +118,11 @@ there are to be no steps. It receives burnt offerings and peace offerings, sheep
 place.** Exodus 27:1–8 prescribes a crafted altar of acacia wood and bronze for the tabernacle, and
 the book does not say how the two provisions relate. See [[The Altar and the Hebrew Slave]].
 
+**Exodus 22:29 forbids delay.** *"You shall not delay to offer from your harvest and from the
+outflow of your presses"* — Hebrew *məlēʾātəkā wədimʿăkā*, literally *your fullness and your tear*,
+which the WEB and the Septuagint both interpret as produce of field and press. The same verses give
+the firstborn of sons and of animals to God. See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Cain and Abel]] — the first offerings, and the first refusal
@@ -225,6 +230,7 @@ the book does not say how the two provisions relate. See [[The Altar and the Heb
   Aaron and the elders — [[Sacrifice Before the Priesthood]]
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24–26; an altar of earth or uncut stone, with burnt
   and peace offerings, and no steps
+- [[Laws of Holiness and Compassion]] — Exodus 22:29–30; first produce offered without delay, and the firstborn
 
 ## Related themes
 

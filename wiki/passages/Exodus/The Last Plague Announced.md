@@ -314,7 +314,7 @@ clause also repeats the end of the hail: *"he didn't let the children of Israel 
   [[Locusts and Darkness]]
 - Exodus 10:2, 7, 28–29 — *bəʾoznê*; *"a snare"*; *"see my face no more"* — [[Locusts and Darkness]]
 - Exodus 12:29–39 — the blow, the cry, *"get out"*, the plunder, *"thrust out"* *(not yet ingested)*
-- Exodus 22:23–24 — *"I will surely hear their cry"* *(not yet ingested)*
+- Exodus 22:23–24 — *"I will surely hear their cry"* — [[Laws of Holiness and Compassion]]
 - Exodus 32:19 — *"Moses' anger grew hot"* *(not yet ingested)*
 - Exodus 33:12–17 — *ḥēn* and *pālâ* in Moses' plea *(not yet ingested)*
 - Numbers 11:8 — the manna ground *"in mills"* *(not yet ingested)*

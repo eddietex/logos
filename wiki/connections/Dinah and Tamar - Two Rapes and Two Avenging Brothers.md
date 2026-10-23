@@ -10,7 +10,7 @@ tags: [connection]
 - Genesis 34:1–31 — Dinah, Shechem son of Hamor, and the massacre by Simeon and Levi
 - 2 Samuel 13:1–39 — Tamar, Amnon, and the killing of Amnon by Absalom
 - Deuteronomy 22:28–29; Exodus 22:16–17 — the law's remedy, offered in one case and refused in the
-  other
+  other — [[Laws of Holiness and Compassion]]
 - Genesis 49:5–7 — Jacob's verdict on his two sons
 - 2 Samuel 12:10–11 — Nathan's sentence on David's house, which 2 Samuel 13 is the first instalment
   of

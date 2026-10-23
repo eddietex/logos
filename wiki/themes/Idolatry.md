@@ -93,6 +93,11 @@ companion as much as a replacement.** The altar of earth or uncut stone follows 
 in place of an image. Exodus 32:4 will test the point with a calf called the gods that brought
 Israel up from Egypt. See [[The Altar and the Hebrew Slave]].
 
+**The first commandment receives its penalty at Exodus 22:20.** *"He who sacrifices to any god,
+except to Yahweh only, shall be utterly destroyed"* — *yoḥŏrām*, devoted to destruction (*ḥērem*,
+MAM 22:19). Beside it stands the sorceress, whom Israel may not *"allow … to live"* (22:18), with the
+root of Pharaoh's *"sorcerers"* (7:11). See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[Jacob's Flight from Laban]] — Genesis 31:19, 30, 34–35, 53; **the Bible's first *teraphim***,
@@ -132,6 +137,7 @@ Israel up from Egypt. See [[The Altar and the Hebrew Slave]].
   prohibited
 - [[The Altar and the Hebrew Slave]] — Exodus 20:22–23; no gods of silver or gold alongside Yahweh,
   argued from the voice heard from heaven
+- [[Laws of Holiness and Compassion]] — Exodus 22:18, 20; sorcery and sacrifice to other gods made capital
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

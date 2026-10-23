@@ -53,6 +53,10 @@ one.
 - *(ahead)* **Acts 2:22** — Jesus *"approved by God to you by mighty works and wonders and signs"*.
 - *(ahead)* **John 20:30–31** — the Gospel's signs *"written, that you may believe"*.
 
+**The law forbids in Israel what Pharaoh's court practised.** *"You shall not allow a sorceress to
+live"* (Exodus 22:18) uses the root of the *"sorcerers"*, *məkaššəpîm*, whom Pharaoh called against
+Aaron's staff (7:11, MAM). See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:12, 20; 4:1–9, 17; **the vocabulary of the exodus introduced in one
@@ -124,6 +128,7 @@ one.
 - [[The Battle with Amalek]] — Exodus 17:9–11; **the rod's last wonder before Sinai.** *"God's rod in my hand"*
   (17:9), the name of 4:20; raised, Israel prevails, lowered, Amalek does. **No sign is announced and no one is
   told to watch it** — the correlation is simply reported
+- [[Laws of Holiness and Compassion]] — Exodus 22:18; the sorceress, with the root of Pharaoh's sorcerers
 
 ## Related themes
 

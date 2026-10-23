@@ -92,6 +92,12 @@ name, and gives the name to a father who cannot see it work.**
   ingesting Exodus 2. *Ḥāmal* is the sparing of one who has the power to kill (1 Samuel 15:9;
   2 Samuel 12:6), and the princess has her father's decree in her hands
 
+**The pledge law of Exodus 22:26–27 gives compassion as a legal reason.** The cloak must go back
+before sunset because *"it is his garment for his skin. What would he sleep in?"*, and God adds,
+*"I will hear, for I am gracious"* — *ḥannûn*, the second word of the pair *raḥûm wəḥannûn* that
+34:6 will make God's name. **The adjective is first heard as the reason a creditor returns a
+coat.** See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - **Genesis 43:14** — [[The Second Journey]]; *raḥămîm* asked for
@@ -161,6 +167,7 @@ name, and gives the name to a father who cannot see it work.**
   to pity or spare, the verb of one with the power to kill who does not (1 Samuel 15:9; 2 Samuel
   12:6). **Not the Joseph cycle's *raḥămîm***; the pity comes before her recognition that he is a
   Hebrew, and survives it
+- [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"What would he sleep in? … for I am gracious"*
 
 ## Related themes
 

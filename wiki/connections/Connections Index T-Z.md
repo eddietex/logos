@@ -89,5 +89,6 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] | thread | Job 10:8–13 · Job 9:12 · Genesis 2:7; 3:19 · Psalm 119:73 · Psalm 139:13–16 · Isaiah 29:16; 45:9–10; 64:8 · Jeremiah 18:1–6 · Romans 9:20–21 · Job 14:15; 31:15; 33:4, 6 · Ecclesiastes 11:5 · Ezekiel 37:6–8 · Job 23:8–10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
 | [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |
+| [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]] | quotation | Exodus 22:28 · Acts 23:1–5 · Genesis 12:3 |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
 | [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 · Genesis 45:3–4, 16 |

@@ -100,6 +100,11 @@ associated with long life in the land God gives (20:12). This is legislation ant
 life while Israel still stands at Sinai. Canaan is the contextual destination; the verse itself
 calls it the given land without naming it. See [[The Ten Commandments]].
 
+**Exodus 22:21 is the first law in which the *gēr* is protected because Israel was one:**
+*"You shall not wrong an alien or oppress him, for you were aliens in the land of Egypt"* —
+*gērîm hĕyîtem*, the status Genesis 15:13 foretold (*kî-gēr yihyeh zarʿăkā*, MAM). The forbidden verb
+*lāḥaṣ* is Egypt's verb at 3:9. See [[Laws of Holiness and Compassion]] and [[The Poor and the Vulnerable]].
+
 ## Key passages
 
 - [[From Shem to Abram]] — Genesis 11:31–32, the first journey toward Canaan and the first stop short
@@ -362,6 +367,7 @@ calls it the given land without naming it. See [[The Ten Commandments]].
 
 - [[The Ten Commandments]] — Exodus 20:10, 12; rest includes the stranger; the parental command
   anticipates life in the given land
+- [[Laws of Holiness and Compassion]] — Exodus 22:21; the alien protected because Israel was an alien in Egypt
 
 ## Related themes
 

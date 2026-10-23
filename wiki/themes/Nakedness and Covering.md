@@ -84,6 +84,11 @@ The noun is *ʿerwâ* (WLC), the word of Noah's nakedness (Genesis 9:22–23), a
 recurs only at the priests' linen breeches (28:42). **Two solutions to one problem stand in the same
 book**: no steps here, a garment there. See [[The Altar and the Hebrew Slave]].
 
+**The pledged cloak of Exodus 22:26–27 is now ingested.** *"That is his only covering, it is his
+garment for his skin. What would he sleep in?"* The garment is *śimlâ*, the word for the cloak Shem
+and Japheth laid over their father (Genesis 9:23, MAM), and the law lets the lender hold it only in
+daylight. See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — 2:25, nakedness without shame
@@ -137,6 +142,7 @@ book**: no steps here, a garment there. See [[The Altar and the Hebrew Slave]].
   See [[I Put On Righteousness - Job 29.14 and the Garments of Justice]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:26; no steps to the altar, *"that your nakedness
   may not be exposed to it"*
+- [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"his garment for his skin"*, returned before sunset
 
 ## Related themes
 

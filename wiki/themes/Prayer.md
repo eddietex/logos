@@ -98,6 +98,12 @@ own instruction — *"when you pray, don't use vain repetitions"*, *"your Father
 need, before you ask him"* (Matthew 6:7–8) — describes something the first prayer in Scripture
 already did.
 
+**The Book of the Covenant makes the cry of the oppressed a guaranteed prayer.** *"If you take
+advantage of them at all, and they cry at all to me, I will surely hear their cry"* (Exodus 22:23),
+and of the poor man without his cloak, *"when he cries to me … I will hear"* (22:27). The verb is
+*ṣāʿaq* and the noun *ṣəʿāqâ*, the cry God heard at the bush (3:7, 9). **No form or place is
+required: the cry is enough.** See [[Laws of Holiness and Compassion]].
+
 ## Key passages
 
 - [[A Wife for Isaac]] — Genesis 24:12–14, 26–27, 45, 52; the theme's founding text. The first
@@ -258,6 +264,7 @@ already did.
   *ṣāʿaq*, though Moses cried to God at the rock** (17:4). The raised hand has been widely read
   as prayer; the text says only that the hand held *"God's rod"* (17:9). **The only words addressed toward God in
   the pericope are an altar's name**, *Yahweh our Banner* (17:15)
+- [[Laws of Holiness and Compassion]] — Exodus 22:23, 27; the cry of the widow, orphan, and poor heard
 
 ## Related themes
 

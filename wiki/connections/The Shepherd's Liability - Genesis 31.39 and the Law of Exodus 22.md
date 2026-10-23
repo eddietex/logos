@@ -11,6 +11,8 @@ tags: [connection]
   my hand you required it, whether stolen by day or stolen by night"* — [[Jacob's Flight from Laban]]
 - **Exodus 22:10–13** — the law of the keeper: an oath for what dies or is driven away, restitution
   for what is stolen, and **no restitution for what is torn** — [[Laws of Property and Restitution]]
+- **Exodus 22:31** — *"you shall not eat any meat that is torn by animals in the field. You shall
+  cast it to the dogs"* — [[Laws of Holiness and Compassion]]
 - **Amos 3:12** — the shepherd rescuing *"two legs, or a piece of an ear"* from a lion's mouth: the
   evidence the law asks for
 - **John 10:11–13** — the good shepherd who does not run, against the hireling who does
@@ -51,6 +53,12 @@ and Laban would have known it.
 
 **Genesis reports no ruling on any of it.** Laban does not answer the charge, and no verdict is
 recorded. **The narrator supplies no comment**, exactly as it supplied none for the peeled rods.
+
+**The torn animal returns eighteen verses later, as food.** Exodus 22:31 forbids eating *ṭərēpâ*,
+*"meat that is torn by animals in the field"* (MAM 22:30), the noun of Jacob's *ṭərēpâ lōʾ-hēbēʾtî*
+(Genesis 31:39). **The same carcass the keeper brings as evidence is one a holy people may not eat**,
+and it goes *"to the dogs"*. The two rules do not refer to each other. See
+[[Laws of Holiness and Compassion]].
 
 ## Significance
 

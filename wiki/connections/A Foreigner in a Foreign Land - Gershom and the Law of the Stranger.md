@@ -16,7 +16,7 @@ tags: [connection]
   foreign land'"* — [[Moses Flees to Midian]], [[Jethro's Counsel]] (where the name is repeated beside his
   brother Eliezer's, *"My father's God was my help"*)
 - **Exodus 22:21** — *"You shall not wrong an alien or oppress him, for you were aliens in the land of
-  Egypt."*
+  Egypt."* — [[Laws of Holiness and Compassion]]
 - **Exodus 23:9** — *"You shall not oppress an alien, for you know the heart of an alien, since you
   were aliens in the land of Egypt."*
 - **Leviticus 19:34** — *"The stranger who lives as a foreigner with you shall be to you as the
@@ -73,6 +73,12 @@ a command to love.** The memory of being *gēr* is made the ground of Israel's t
 land of Midian"* (Acts 7:29) — *paroikos*, the Septuagint's regular word for *gēr*, and the word
 Hebrews 11:9 and 1 Peter 2:11 use of the patriarchs and the church. See
 [[A Stranger and a Foreigner - The Sojourner's Confession]].
+
+**At Exodus 22:21 the law borrows Egypt's verbs.** *Wəgēr lōʾ-tôneh wəlōʾ tilḥāṣennû kî-gērîm
+hĕyîtem bəʾereṣ miṣrāyim* (MAM 22:20): *lāḥaṣ*, *oppress*, is the verb of 3:9, *"the oppression with
+which the Egyptians oppress them"*, and the next verse's *ʿinnâ*, *afflict*, is the verb of Genesis
+15:13 and Exodus 1:11. **The *gēr* of Genesis 15:13 and of Gershom's name becomes the person Israel
+must not do Egypt's work on.** See [[Laws of Holiness and Compassion]].
 
 ## Significance
 

@@ -1770,6 +1770,16 @@ and the Hebrew verb *condemns* is plural; the wiki does not decide whether God i
 sanctuary or represented by human judges. In the keeping case the procedure is *"the oath of
 Yahweh"* (22:11). See [[Laws of Property and Restitution]].
 
+**In Exodus 22:16–31 God speaks of himself more than anywhere earlier in the ordinances.** He
+names the alien, the widow, the fatherless, and the poor as people whose cry he will hear —
+*"I will surely hear their cry"*, *"I will hear, for I am gracious"* (22:23, 27) — and threatens
+those who wrong them with a measured penalty: *"my wrath will grow hot … your wives shall be
+widows, and your children fatherless"* (22:24). He calls the poor borrower *"my people"* (22:25),
+claims the firstborn and the first produce (22:29–30), and states the aim of the law: *"You shall be
+holy men to me"* (22:31). **The self-description *ḥannûn*, *gracious*, appears here before the
+proclamation of 34:6.** Whether 22:28 forbids blaspheming God or reviling *"the gods"* (KJV) or
+judges is left open. See [[Laws of Holiness and Compassion]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1995,6 +2005,7 @@ Yahweh"* (22:11). See [[Laws of Property and Restitution]].
 
 - The ordinances distinguish intent, injury, and negligence — Exodus 21:12–36; [[Laws of Violence and Injury]]
 - The ordinances on theft, deposit, and restitution — Exodus 22:1–15; [[Laws of Property and Restitution]]
+- The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
 
 ## Appears in
 
@@ -2382,6 +2393,7 @@ Yahweh"* (22:11). See [[Laws of Property and Restitution]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; the continuing divine address to Moses
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; disputes brought *"before God"*, and *"the oath of Yahweh"*
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–31; *"I will surely hear their cry"*, *"I am gracious"*
 
 ## Related people
 

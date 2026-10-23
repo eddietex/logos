@@ -83,6 +83,9 @@ The promised place of flight in 21:13 is not identified with this mountain, and 
 **The property laws continue the Sinai address with no place named** (22:1–15). Coming *"near to
 God"* in 22:8 does not identify a location. See [[Laws of Property and Restitution]].
 
+**The ordinances on the vulnerable and on holiness continue there with no place named**
+(22:16–31). See [[Laws of Holiness and Compassion]].
+
 ## Appears in
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
@@ -109,6 +112,7 @@ God"* in 22:8 does not identify a location. See [[Laws of Property and Restituti
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; setting by context, with no named place in the unit
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; setting by context, with no named place in the unit
+- [[Laws of Holiness and Compassion]] — Exodus 22:16–31; setting by context, with no named place in the unit
 
 ## Related places
 
@@ -134,3 +138,4 @@ God"* in 22:8 does not identify a location. See [[Laws of Property and Restituti
 
 - [[Laws of Violence and Injury]] — the ordinances on violence, injury, and negligence (21:12–36)
 - [[Laws of Property and Restitution]] — the ordinances on theft, deposit, and restitution (22:1–15)
+- [[Laws of Holiness and Compassion]] — the ordinances on the vulnerable, the firstborn, and holiness (22:16–31)
