@@ -373,7 +373,7 @@ not say; it is the reading that best explains why the scene is here, and the wik
 ## Cross-references
 
 - Genesis 17:14 — *"cut off from his people … He has broken my covenant"* — *kārat*
-- Genesis 24:26; Exodus 12:27 — *"bowed his head, and worshiped"*
+- Genesis 24:26; Exodus 12:27 — *"bowed his head, and worshiped"* — [[The Passover]]
 - Genesis 31:3, 20; 32:24–28; 33:4 — the sending, the father-in-law, the attack, the brother's kiss —
   [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]]
 - Genesis 32:28 — *Israel* given to the younger twin
@@ -388,7 +388,7 @@ not say; it is the reading that best explains why the scene is here, and the wik
 - Exodus 5:1 — the second *kōh ʾāmar YHWH*, Moses' first words to Pharaoh
 - Exodus 5:21; 6:9 — the belief undone
 - Exodus 7:3, 13–14; 9:12; 10:1 — the hardening — [[Hardening of the Heart]]
-- Exodus 12:13, 23 — the blood that turns away the destroyer
+- Exodus 12:13, 23 — the blood that turns away the destroyer — [[The Passover]]
 - Exodus 12:29; 13:2, 15 — the firstborn struck, and Israel's firstborn redeemed —
   [[Child Sacrifice and the Redemption of the Firstborn]]
 - Exodus 14:31 — *"they believed in Yahweh, and in his servant Moses"*

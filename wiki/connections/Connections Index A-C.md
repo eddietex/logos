@@ -39,7 +39,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
-| [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |
+| [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Exodus 12:13 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |
 | [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] | thread | Job 22:6–9 · Job 4:3–4 · Job 20:19 · Job 24:3, 7–11 · Job 29:12–17 · Job 31:16–22, 31–32 · Exodus 22:22–27 · Deuteronomy 24:6, 10–13, 17 · Isaiah 58:6–7 · Ezekiel 18:5–9, 16 · Matthew 25:35–36, 42–43 · James 2:15–16 |
 | [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]] | image | Job 30:29 · Job 30:3–7, 14 · Micah 1:8 · Isaiah 13:21–22 · Isaiah 34:13 · Jeremiah 9:11 · Psalm 44:19 · Psalm 102:6 · Lamentations 4:3 · Isaiah 43:20 · Job 39:13–18 · Job 38:27 |
 | [[Buried at Machpelah - The Six Graves of Genesis]] | parallel | Genesis 23:1–20 · Genesis 25:7–10 · Genesis 49:29–32 · Genesis 50:12–14 · Acts 7:16 |
@@ -52,6 +52,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
 | [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] | literary parallel | Genesis 21:2, 7 · Genesis 37:3–4 · Genesis 43:34 · Genesis 44:20 · Genesis 45:22 |
 | [[Child Sacrifice and the Redemption of the Firstborn]] | thread | Genesis 22:1–19 · Exodus 13:2, 11–15; 22:29–30 · Leviticus 18:21; 20:2–5 · Deuteronomy 12:31 · Judges 11:29–40 · 2 Kings 3:26–27 · Jeremiah 7:31 · Ezekiel 20:25–26 · Micah 6:6–8 · Exodus 4:22–26 |
+| [[Christ Our Passover - Exodus 12 in the New Testament]] | quotation | Exodus 12:1–28 · 1 Corinthians 5:6–8 · John 1:29 · John 19:14, 36 · 1 Peter 1:18–19 · Hebrews 11:28 · Luke 22:15 |
 | [[Circumcision of the Heart]] | thread | Genesis 17:10–14 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Ezekiel 44:7, 9 · Acts 7:51 · Romans 2:25–29 · Colossians 2:11–12 |
 | [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |

@@ -24,6 +24,9 @@ tags: [connection]
 - **Psalm 105:42** — *"For he remembered his holy word, and Abraham, his servant."*
 - **Luke 1:72–73** — *"to show mercy towards our fathers, to remember his holy covenant, the oath
   which he swore to Abraham, our father"*
+- **Exodus 12:14** — *"This day shall be to you for a memorial"* — the first *zikkārôn* in Scripture,
+  and the turn from God remembering to Israel being given something to remember with —
+  [[The Passover]]
 
 ## Analysis
 

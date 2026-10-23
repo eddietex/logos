@@ -294,6 +294,11 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   The firstborn of the *šipḥâ* behind the mill dies with Pharaoh's heir (11:5), and *"all these
   servants of yours"* will *"bow down themselves to me, saying, 'Get out'"* (11:8). **The release
   becomes an expulsion**: *gārēš yəgārēš*, *"he will surely thrust you out"* (11:1)
+- [[The Passover]] — Exodus 12:25–26; ***"What do you mean by this service?"*** **Israel trades one
+  *ʿăbōdâ* for another in a single chapter.** The noun has meant the bondage of Egypt in every earlier use
+  in Exodus (1:14; 2:23; 5:9, 11; 6:6, 9); here, twice, it is the Passover rite — the first service
+  rendered to the God who said *"Let my son go, that he may serve me"* (4:23). The doorpost, *məzûzâ*,
+  returns at 21:6 for the slave who chooses to stay
 
 ## Related themes
 

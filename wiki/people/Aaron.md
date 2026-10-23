@@ -111,9 +111,15 @@ and Moses alone speaks to Pharaoh (11:1–8); then *"Moses and Aaron did all the
 Pharaoh"* (11:10). **The cycle that began with Aaron's rod (7:10) ends with his name in a closing
 formula.** See [[The Last Plague Announced]].
 
+**At the Passover he is addressed with Moses, and silent.** *"Yahweh spoke to Moses and Aaron in the
+land of Egypt"* (12:1): the first law Israel receives is given to both brothers. Moses alone relays it
+(12:21), and the people do *"as Yahweh had commanded Moses and Aaron"* (12:28). **The rite has no
+priest** — every household kills its own lamb — and the man who will be Israel's first high priest has
+no part in it but to hear it. See [[The Passover]].
+
 ### What is ahead
 
-The Passover and the last plague (12); Sinai, where he goes up with the elders (24); the priestly
+The last plague and the departure (12:29–51); Sinai, where he goes up with the elders (24); the priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
@@ -142,6 +148,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - Goes in, is brought back, is driven out, and is summoned with Moses before the locusts; not named
   at the darkness — Exodus 10:3, 8–11, 16, [[Locusts and Darkness]]
 - Named with Moses in the summary of the wonders — Exodus 11:10, [[The Last Plague Announced]]
+- Addressed with Moses when the Passover is given; named in the formula of obedience — Exodus 12:1,
+  28, [[The Passover]]
 
 ## Appears in
 
@@ -169,6 +177,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   Hears *"I have sinned against Yahweh your God, and against you"*; absent from the darkness
 - [[The Last Plague Announced]] — Exodus 11:10; **named only in the summary.** *"Moses and Aaron did all these wonders
   before Pharaoh"*
+- [[The Passover]] — Exodus 12:1–28; **addressed, not speaking.** *"Yahweh spoke to Moses and Aaron in the
+  land of Egypt"*; a rite with no priest
 
 ## Related people
 

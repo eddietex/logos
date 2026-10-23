@@ -256,6 +256,8 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   of the female servant who is behind the mill"*, and *"a great cry throughout all the land of Egypt,
   such as there has not been, nor shall be any more"* (11:5–6). **Its people give Israel favour, and see
   Moses as *"very great in the land of Egypt"*** (11:3)
+- [[The Passover]] — Exodus 12:1–28; **the one law given in the land of bondage.** *"Yahweh spoke to
+  Moses and Aaron in the land of Egypt"*; *"Against all the gods of Egypt I will execute judgments"*
 
 ## Related places
 
@@ -329,3 +331,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   to Moses — Exodus 10:1–29, [[Locusts and Darkness]]
 - The last plague announced: the death of the firstborn at midnight, the great cry, and the distinction
   — Exodus 11:1–10, [[The Last Plague Announced]]
+- The Passover given to Moses and Aaron *"in the land of Egypt"*: the first month, the lamb, the blood on
+  the doorposts, and the feast of unleavened bread — Exodus 12:1–28, [[The Passover]]

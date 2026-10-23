@@ -12205,3 +12205,104 @@ Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 11; Exo
   - `wiki/index.md`: 105 passages, 166 people, 80 places, 71 themes, 300 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 12.1-28 — The Passover
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Passover — Exodus
+12:1–28*. The boundary was kept as planned. There was no discussion step; its content is written into
+the passage page.
+
+### The passage page
+
+[[The Passover]] covers:
+
+- 12:1–2: the one law given *"in the land of Egypt"*; *rōʾš ḥŏdāšîm*; Abib (13:4; Deuteronomy 16:1);
+  Genesis 1:14.
+- 12:3–6: *ʿēdâ*, first here; *śeh* after Genesis 22:7–8 and 30:32; *ləbêt-ʾābōt*; *tāmîm*, first of an
+  animal; *bên hāʿarbāyim*; no priest and no altar.
+- 12:7–11: *mašqôp* (only Exodus 12 in the Torah) and *məzûzâ* (21:6; Deuteronomy 6:9; 11:20); roasted,
+  not boiled; *maṣṣôt* (Genesis 19:3) and *mərōrîm* (1:14's *mārar*); the dress code; *ḥippāzôn* (only
+  here and Deuteronomy 16:3); *pesaḥ*, first here.
+- 12:12–13: *ʿābar* and *pāsaḥ*; *šəpāṭîm* (6:6; 7:4; Numbers 33:4) and the gods of Egypt; *ʾôt* with the
+  bow; *pāsaḥ* only in this chapter in the Torah, read as *pass over* or *protect* (Isaiah 31:5, where it
+  stands with *hiṣṣîl*, as at 12:27); *negep*; *mašḥît* the noun.
+- 12:14–20: *zikkārôn*, first in Scripture; *ḥag* (10:9); *ḥuqqat ʿôlām* (only *ʿôlām* before it in
+  Exodus is 3:15); the appointed week; *miqrāʾ qōdeš*; *wənikrətâ hannepeš hahiwʾ* (Genesis 17:14;
+  31:14); *ʾezraḥ*, first in Scripture; *bəʿeṣem hayyôm hazzeh*; the perfect *hôṣēʾtî*.
+- 12:21–23: what Moses omits and adds; *ʾēzôb*, first here (Leviticus 14; Numbers 19); *sap*; the door
+  (Genesis 19:6, 10); *the destroyer*.
+- 12:24–28: *ʿăbōdâ* turned from bondage to rite; the children's question (10:2); *zebaḥ* (3:18; 5:3;
+  10:25); *hiṣṣîl* answering 5:23; *qādad* + *hištaḥăwâ* (4:31); the obedience formula, first of the
+  whole people.
+- A table of the differences between Exodus 12 and Deuteronomy 16:1–8, including **the cooking verb:
+  Deuteronomy 16:7 has *bāšal*, the verb 12:9 forbids** (WLC), which the WEB renders *roast*. Flagged as
+  a tension, both readings recorded, and 2 Chronicles 35:13 quoted.
+
+### Judgment calls
+
+- **The boundary at 12:28 was kept.** The pericope ends before the lamb is killed; the second Passover
+  law (12:43–49) stays with the next pericope.
+- **New connection: [[Christ Our Passover - Exodus 12 in the New Testament]]** — 1 Corinthians 5:6–8,
+  John 1:29; 19:14, 36, 1 Peter 1:18–19, Hebrews 11:28, Luke 22:15. Notes that the WEB's *"in our place"*
+  at 1 Corinthians 5:7 follows a reading the SBLGNT does not print.
+- **New connection: [[The Door and the Destroyer - Lot's House and the Passover Night]]** — *maṣṣôt*,
+  *petaḥ*, *nākâ*, *šāḥat*, morning, *yāṣāʾ*, and haste in Genesis 19 and Exodus 12. Recorded as
+  resonance, not demonstrated allusion, as the Sodom page already said of the bread.
+- **No page for *the destroyer*.** It appears once and is not identified; a person page would decide what
+  the text leaves open. Recorded on [[Judgment]] and in the passage page. **No page for the elders of
+  Israel** (a group; revisit at Sinai).
+- **Readings reported, not adopted:** *pāsaḥ* as *pass over* or *protect*; *sap* as *basin* or
+  *threshold*; the destroyer's identity; why the lamb is roasted whole; the plagues as judgments on named
+  gods; the meaning of *cut off*; Deuteronomy 16 and Exodus 12 as stages or adaptation; the *śeh* echo of
+  Genesis 22.
+- **Marked at their point as not checked in this pass:** *sap* as *threshold* outside the Torah;
+  *pāsaḥ* as *limp* in 1 Kings 18; 2 Samuel 24:16 (paraphrased, not quoted); the Hebrew of 2 Chronicles
+  35:13; the Septuagint at Exodus 12:3–5 and 12:23.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 12:1–28; Exodus 3:18; Genesis
+6:13; 17:14; 19:11, 15–16, 29; Exodus 31:14; Deuteronomy 16:2, 7; Isaiah 31:5. Lemma searches of
+Genesis–Deuteronomy: *pesaḥ*, *pāsaḥ*, *mašqôp*, *məzûzâ*, *ʾēzôb*, *zikkārôn*, *negep*, *ʿereb*,
+*šāḥat*, *mašḥît*, *ʿăbōdâ*, *qādad*, *śeh*, *tāmîm*, *šəpāṭîm*, *ʾezraḥ*, *maṣṣâ*, *petaḥ*, *sap*,
+*ḥag*, *ʿeṣem*, *ḥippāzôn*; in Genesis–Exodus *ʿēdâ*, *zebaḥ*, *qōdeš*, *šabbāt*, *mārar*, *ʾôt*, *kārat*,
+*ḥuqqâ*; in Exodus *hiṣṣîl*, *zābaḥ*, *ʿôlām*. **Greek was checked against the SBLGNT (MorphGNT):**
+1 Corinthians 5:7; John 1:29; Hebrews 11:28; 1 Peter 1:19. **Verses quoted in WEB English from outside
+`raw/`** were fetched one at a time from bible-api.com (`translation=web`): Numbers 33:3–4; Deuteronomy
+6:9; 16:1–7; 2 Chronicles 35:13; Isaiah 31:5; Psalm 34:20; Luke 22:15; John 1:29; 19:14, 36;
+1 Corinthians 5:6–8; Hebrews 11:28; 1 Peter 1:18–19.
+
+### Pages created or revised
+
+- **Created (3):** the passage page; [[Christ Our Passover - Exodus 12 in the New Testament]];
+  [[The Door and the Destroyer - Lot's House and the Passover Night]].
+- **People revised (3):** [[God]], [[Moses]], [[Aaron]] — overview section or paragraph, timeline, and
+  appears-in entry; *What is ahead* trimmed for Moses and Aaron.
+- **Places revised (2):** [[Egypt]] and [[Canaan]].
+- **Themes revised (16):** [[Sacrifice and Offering]], [[Blood]], [[Remembrance]],
+  [[Birthright and the Firstborn]], [[Judgment]], [[Idolatry]], [[Signs and Wonders]], [[Holiness]],
+  [[Sabbath]], [[Work]], [[Slavery and Servitude]], [[Circumcision]], [[Land and Sojourning]],
+  [[The Nations]], [[Integrity]], [[Creation]].
+- **Connections revised (6):** [[The Bow in the Cloud]],
+  [[As God Commanded, So He Did - The Obedience Formula]],
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]],
+  [[The Ram Instead of the Son - Substitution at Moriah]],
+  [[God Remembered - Noah, Abraham, Rachel, and Israel]],
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+- **Passages revised (5):** [[The Last Plague Announced]], [[The Destruction of Sodom and Gomorrah]],
+  [[The Binding of Isaac]], [[Moses Returns to Egypt]], [[Bricks Without Straw]] — cross-references to
+  the Passover now linked.
+- **Book page:** box checked; the 12–15:21 structure note covers 12:1–28; key themes +3
+  ([[Idolatry]], [[Integrity]], [[The Nations]]).
+- **Indexes:**
+  - books: Exodus 15 / 53.
+  - people: 3 rows extended.
+  - places: 2 rows extended.
+  - themes: 16 rows extended.
+  - connections: 2 rows added (in [[Connections Index A-C]] and [[Connections Index D-H]]); 4 rows'
+    references extended.
+  - `wiki/index.md`: 106 passages, 166 people, 80 places, 71 themes, 302 connections.
+
+`scripts/link-check.sh` is clean.

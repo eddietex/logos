@@ -56,6 +56,9 @@ Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be hol
   sandals"* — and no explanation of either. The holiness is God's presence and nothing else: Horeb is
   not called holy before the bush and is not called holy because of it afterwards. Moses' response is
   fear (*"afraid to look at God"*), not worship. Joshua 5:15 repeats the command almost word for word
+- [[The Passover]] — Exodus 12:16; ***"a holy convocation"*** on the first and seventh days.
+  **The first holy time in Exodus**; the only holy thing before it was the ground at the bush (3:5;
+  WLC lemma search of *qōdeš*)
 
 ## Related themes
 

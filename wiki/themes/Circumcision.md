@@ -127,6 +127,10 @@ a mark that can be perfectly kept and entirely missed.
   **the first figurative use of *ʿārēl*.** It comes between the two laws of exclusion (Genesis
   17:14; Exodus 12:48) and one chapter after Zipporah's flint —
   [[Uncircumcised Lips, Ears, and Heart]]
+- [[The Passover]] — Exodus 12:15, 19; ***"that soul shall be cut off"*** — **the penalty of Genesis
+  17:14 for the uncircumcised, used for the one who eats leaven.** The exact clause stands in
+  Genesis–Exodus only at Genesis 17:14; Exodus 12:15, 19; and 31:14 (WLC). The circumcision condition
+  for keeping the Passover follows at 12:43–49
 
 ## Related themes
 

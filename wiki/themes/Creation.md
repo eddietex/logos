@@ -195,6 +195,9 @@ Genesis 1 sets four load-bearing claims:
   *ḥōšek* over Egypt, the darkness of Genesis 1:2, with light only in Israel's dwellings. **The plagues
   as an undoing of creation is a reading the vocabulary supports and the text does not state** —
   [[The Flood as Un-Creation]]
+- [[The Passover]] — Exodus 12:2; ***"This month shall be to you the beginning of months"***. The
+  lights were given *"for signs to mark seasons, days, and years"* (Genesis 1:14); **here, for the first
+  time, Israel's calendar is fixed by an event in its history**
 
 ## Related themes
 

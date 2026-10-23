@@ -32,6 +32,8 @@ tags: [connection]
   knowledge formula before the blow, addressed in the plural (*tēdəʿûn*, WLC) to Pharaoh and the court
   Moses is speaking to** — and its object is not God's uniqueness or power but the line between Egypt
   and Israel
+- **Exodus 12:12** — *"Against all the gods of Egypt I will execute judgments: I am Yahweh"* —
+  [[The Passover]]. **The contest named as one with Egypt's gods**, for the first time
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*

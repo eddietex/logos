@@ -177,6 +177,9 @@ the seventh day a blessing. See [[Sabbath]].
   extraction, administered through native overseers** (*šōṭərîm*, their first appearance). Pharaoh
   calls the request to worship idleness, *nirpîm*, twice (5:8, 17). See
   [[Come, Let Us - Babel's Bricks and Pharaoh's]]
+- [[The Passover]] — Exodus 12:16, 25–26; ***"no kind of work shall be done in them"***, and
+  ***"this service"***. *ʿĂbōdâ*, the word of Egypt's *"hard service"* (1:14; 2:23; 5:9; 6:6, 9), now
+  names a rite of worship; after 13:5 it belongs to the tabernacle (WLC)
 
 ## Related themes
 

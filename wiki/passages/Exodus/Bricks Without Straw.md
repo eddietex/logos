@@ -472,6 +472,8 @@ answer, at last, to Pharaoh's question, given to Moses first.
 - Job 21:14–15 — *"What is the Almighty, that we should serve him?"*
 - Psalm 44:23–24 — *"Why do you sleep, Lord?"*
 - Proverbs 30:9 — *"Who is Yahweh?"*
+- Exodus 12:27 — *"he … spared (hiṣṣîl) our houses"*: the verb of 5:23's *"you have not rescued"* in
+  the children's answer — [[The Passover]]
 
 ## Notes
 

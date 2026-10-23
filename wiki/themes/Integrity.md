@@ -185,6 +185,9 @@ end of a sentence about the testing of faith**, which is where Job's *tummâ* st
 - [[The Restoration of Job]] — Job 42:7–8; **vindicated by the only witness who could.** The integrity God announced at 2:3,
   that Job's wife asked him to drop (2:9) and that he swore to keep (27:5), is upheld by the verdict that he spoke
   rightly, and by the title *my servant* four times over. He gets back his goods without having traded it for them.
+- [[The Passover]] — Exodus 12:5; ***"Your lamb shall be without defect"*** — *tāmîm*, **its first
+  use of an animal** after Noah (6:9) and Abram (17:1) (WLC lemma search). 1 Peter 1:19 takes it up: *"as
+  of a lamb without blemish or spot"* — [[Christ Our Passover - Exodus 12 in the New Testament]]
 
 ## Related themes
 

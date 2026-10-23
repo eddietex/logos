@@ -121,6 +121,11 @@ with that scope.
   sign of 4:9 enlarged to every water of Egypt; the river of 1:22, read by Wisdom of Solomon 11:6–7 and
   Revelation 16:6 as blood answered with blood —
   [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]]
+- [[The Passover]] — Exodus 12:7, 13, 22–23; **the blood as a sign God looks at.** Put on the two
+  doorposts and the lintel with hyssop; *"The blood shall be to you for a token … when I see the blood, I
+  will pass over you"*. Like the bow (Genesis 9:16), a sign God reads; unlike the bow, one the people
+  must put up. Hebrews 11:28 calls it *"the sprinkling of the blood"* —
+  [[Christ Our Passover - Exodus 12 in the New Testament]]
 
 ## Related themes
 

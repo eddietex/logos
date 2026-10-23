@@ -12,8 +12,9 @@ tags: [connection]
 - **Exodus 7:6** — *"Moses and Aaron did so. As Yahweh commanded them, so they did."* —
   [[Aaron's Staff Before Pharaoh]]
 - **Exodus 7:10, 20** — *"they did so, as Yahweh had commanded"*
-- **Exodus 12:28, 50** — *"as Yahweh had commanded Moses and Aaron, so they did"* — the Passover
-  (not yet ingested)
+- **Exodus 12:28, 50** — *"as Yahweh had commanded Moses and Aaron, so they did"* — the Passover;
+  12:28 at [[The Passover]], **the first time the formula is used of the whole people**; 12:50 not yet
+  ingested
 - **Exodus 39:32, 42–43; 40:16** — the finished tabernacle: *"The children of Israel did according to
   all that Yahweh commanded Moses; so they did"*; *"Moses did so. According to all that Yahweh
   commanded him, so he did."* (not yet ingested)

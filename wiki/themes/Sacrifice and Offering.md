@@ -190,6 +190,11 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   hoof"*: *"we don't know with what we must serve Yahweh, until we come there"*. **Israel does not yet
   know how it will worship; the law of offerings is given at the mountain.** The first burnt offering
   actually offered in Exodus is Jethro's (18:12)
+- [[The Passover]] — Exodus 12:1–28; **the first sacrifice Exodus prescribes, and it is offered in
+  Egypt, with no altar and no priest.** A *śeh* *"without defect"* (*tāmîm*, its first use of an
+  animal), killed by every household, roasted whole, and eaten; called *"the sacrifice (zebaḥ) of
+  Yahweh's Passover"* (12:27) — a meal-sacrifice, not an *ʿōlâ*. Deuteronomy 16 moves it to the chosen
+  place, and its cooking verb is disputed — see the table on the passage page
 
 ## Related themes
 

@@ -96,6 +96,9 @@ one.
   Exodus only at 4:21; 7:3, 9; 11:9, 10 (WLC lemma search); *"that my wonders may be multiplied"*
   (11:9) answers 7:3's *"multiply my signs and my wonders"*, and *"Moses and Aaron did all these
   wonders before Pharaoh"* (11:10) closes the cycle. **No sign is done in the chapter**
+- [[The Passover]] — Exodus 12:13; ***"The blood shall be to you for a token (ʾôt)"*** — **the first
+  sign in Exodus that the people themselves put up, and one God reads**: *"when I see the blood, I will pass
+  over you"*. It joins the bow (Genesis 9:12–17) and circumcision (Genesis 17:11) as covenant signs
 
 ## Related themes
 

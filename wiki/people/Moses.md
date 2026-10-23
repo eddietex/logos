@@ -213,10 +213,19 @@ Pharaoh's servants bowing to *him*, *"Get out"* (11:4–8). ***"He went out from
 (11:8), *bāḥŏrî-ʾāp* — **the first time Exodus calls Moses angry**; until now *ʾap* has been God's, and
 against him (4:14; WLC). See [[The Last Plague Announced]].
 
+**At the Passover he relays the law, and adds to it.** God gives the calendar, the lamb, and the feast
+to Moses and Aaron together (12:1–20). **Moses passes on only part of it to *"all the elders of
+Israel"*** — nothing of the month or the seven days — and adds three things God's speech did not
+contain: the hyssop, the order *"none of you shall go out of the door of his house until the
+morning"*, and *"the destroyer"*, whom Yahweh will not let in (12:21–23). He gives the elders the
+children's question and its answer, *"It is the sacrifice of Yahweh's Passover"* (12:26–27). **The people
+bow and worship, as they did at his first report (4:31), and do *"as Yahweh had commanded Moses and
+Aaron"*** (12:27–28). See [[The Passover]].
+
 ### What is ahead
 
-The Passover, the last plague, the sea, and the
-wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+The last plague and the departure, the sea, and the
+wilderness (12:29–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 ## Timeline / key events
@@ -277,6 +286,8 @@ sections are written as their pericopes arrive.
   leave a hoof; *"I will see your face again no more"* — Exodus 10:1–29, [[Locusts and Darkness]]
 - Called *"very great in the land of Egypt"*; announces the death of the firstborn and the
   distinction; goes out from Pharaoh *"in hot anger"* — Exodus 11:1–10, [[The Last Plague Announced]]
+- Given the Passover with Aaron; relays it to the elders with the hyssop, the door, and the destroyer;
+  the people worship and obey — Exodus 12:1–28, [[The Passover]]
 
 ## Appears in
 
@@ -320,6 +331,9 @@ sections are written as their pericopes arrive.
 - [[The Last Plague Announced]] — Exodus 11:1–10; **very great in Egypt, and angry.** *"The man Moses was very great in
   the land of Egypt"*; *"About midnight I will go out"*; *"after that I will go out"*; *"He went out from
   Pharaoh in hot anger"*
+- [[The Passover]] — Exodus 12:1–28; **the lawgiver before the law.** Relays the rite to the elders;
+  *"none of you shall go out of the door of his house until the morning"*; *"the destroyer"*; the
+  children's question
 
 ## Related people
 

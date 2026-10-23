@@ -364,6 +364,11 @@ rule are the conditions the rest of Scripture is set in.
   servant who is behind the mill"* (11:5). **The slave girl's son is the chapter's hardest line**;
   the page records readers' answers and adopts none —
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
+- [[The Passover]] — Exodus 12:12–13, 23; ***"Against all the gods of Egypt I will execute
+  judgments"***. *Šəpāṭîm*, in the Torah only at 6:6; 7:4; 12:12; and Numbers 33:4, where it is fulfilled
+  (WLC). And ***"the destroyer"***, named at 12:23 and not identified — Yahweh, an angel, or a power he
+  restrains; the wiki adopts none. See
+  [[The Door and the Destroyer - Lot's House and the Passover Night]]
 
 ## Related themes
 

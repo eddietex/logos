@@ -142,8 +142,17 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   Israel *"a dog won't even bark or move its tongue"* (11:4–7). He goes out *"in hot anger"* (11:8).
   **The narrator closes the wonders in the words of 7:3–4** (11:9–10). See
   [[The Last Plague Announced]].
-- **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
-  departure, the consecration of the firstborn, the sea, and the song.
+- **12–15:21 Passover and deliverance** — **the story stops on the eve of the blow and becomes law.**
+  *"In the land of Egypt"*, God renumbers the year — *"This month shall be to you the beginning of
+  months"* (12:2) — and gives the rite: a lamb *"without defect"* for each household, its blood on the
+  doorposts and lintel, the meat roasted and eaten *"in haste"*, dressed to leave. ***"When I see the
+  blood, I will pass over you"*** (12:13); *"Against all the gods of Egypt I will execute judgments"*
+  (12:12). The day becomes *"a memorial"* and a feast *"forever"*, with seven days of unleavened bread
+  (12:14–20). Moses relays it to the elders and adds the hyssop, the door no one may go out of, and
+  *"the destroyer"* (12:21–23); the children will ask *"What do you mean by this service?"* — ***ʿăbōdâ***,
+  the word of Egypt's bondage, now a rite — and be told that Yahweh *"spared our houses"* (12:26–27). The
+  people worship and obey (12:27–28). See [[The Passover]]. Then the firstborn struck, the departure,
+  the consecration of the firstborn, the sea, and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
@@ -193,7 +202,7 @@ for unit.
 
 ### Passover and the sea (12–15:21)
 
-- [ ] The Passover — Exodus 12:1–28
+- [x] [[The Passover]] — Exodus 12:1–28
 - [ ] The Death of the Firstborn and the Departure — Exodus 12:29–51
 - [ ] The Consecration of the Firstborn — Exodus 13:1–16
 - [ ] The Crossing of the Sea — Exodus 13:17–14:31
@@ -296,6 +305,9 @@ for unit.
 - [[Forgiveness]]
 - [[Favor and Grace]]
 - [[Wealth and Possessions]]
+- [[Idolatry]]
+- [[Integrity]]
+- [[The Nations]]
 
 ## Key people
 

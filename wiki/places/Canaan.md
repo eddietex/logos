@@ -216,6 +216,9 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
 - [[I Am Yahweh]] — Exodus 6:4, 8; ***"the land of Canaan, the land of their travels, in which they
   lived as aliens"*** — *ʾereṣ məgurêhem*, the patriarchs' word for a land they never owned — now
   sworn to the nation *"for a heritage"*, *môrāšâ*
+- [[The Passover]] — Exodus 12:25; ***"when you have come to the land which Yahweh will give you,
+  according as he has promised"***. The rite given in Egypt is to be kept in Canaan — the first law that
+  looks forward to the land
 
 ## Related places
 
@@ -274,3 +277,4 @@ what they did (Leviticus 18:24–30; Deuteronomy 9:4–5), and not who their anc
   [[The Burning Bush]]
 - Described to Moses as the land of the fathers' sojourning, sworn with the lifted hand, and promised
   to Israel *"for a heritage"* — Exodus 6:4, 8, [[I Am Yahweh]]
+- Named as the land where the Passover *"service"* is to be kept — Exodus 12:25, [[The Passover]]

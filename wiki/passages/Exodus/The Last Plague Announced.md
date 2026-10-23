@@ -322,6 +322,7 @@ clause also repeats the end of the hail: *"he didn't let the children of Israel 
 - Deuteronomy 24:6 — *"No man shall take the mill … as a pledge"* *(not yet ingested)*
 - Deuteronomy 29:24 — *"the heat of this great anger"* *(not yet ingested)*
 - Joshua 10:21 — *"None moved his tongue against any of the children of Israel"* *(not yet ingested)*
+- Exodus 12:1–28 — the rite given between the announcement and the blow — [[The Passover]]
 
 ## Notes
 
@@ -330,7 +331,7 @@ clause also repeats the end of the hail: *"he didn't let the children of Israel 
   plague cycle with its own bracket (11:9–10 ↔ 7:3–4), and 12:1 opens with a new speech, a calendar,
   and a rite. **The tenth plague is therefore split across three pericopes** — announced here, struck in
   *The Death of the Firstborn and the Departure* (12:29–51, not yet ingested), with the Passover instituted between.
-- **The *"distinction"* is Israel's protection, not its innocence.** The Passover (12:1–28) will make
+- **The *"distinction"* is Israel's protection, not its innocence.** [[The Passover]] (12:1–28) makes
   the protection conditional on blood on the doorposts. This chapter says only that Yahweh *"makes a
   distinction"*; the next says how it is marked.
 - **Readings reported, not adopted:** that *negaʿ* was chosen to echo Genesis 12:17; that *kālâ* links

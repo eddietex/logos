@@ -45,7 +45,7 @@ cloud… I will remember… I will look at it, that I may remember*. Nothing is 
 not even told to watch for it. Compare circumcision, which the human party performs and carries
 (Genesis 17:10–14), and the Sabbath, which Israel keeps as its sign (Exodus 31:13, 17). Only one
 other covenant sign in Scripture is defined by God's seeing it, and it is also made of blood
-withheld: *"When I see the blood, I will pass over you"* (Exodus 12:13).
+withheld: *"When I see the blood, I will pass over you"* (Exodus 12:13). See [[The Passover]].
 
 *It is not created, only assigned.* The verb is *nātan*, to give or set. Genesis does not say that a
 rainbow had never appeared before, or that God makes one now. An ordinary optical fact is given a

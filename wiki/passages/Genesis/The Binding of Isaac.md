@@ -582,6 +582,8 @@ to where it found him, with everything the same and nothing the same.** See
 - Hebrews 6:13–18; 11:17–19 — the self-sworn oath, and the reasoning Genesis leaves out.
 - James 2:21–23 — *"Wasn't Abraham our father justified by works, in that he offered up Isaac his
   son on the altar?"*
+- Exodus 12:3–5 — the next *śeh* in the Torah, the Passover animal *"without defect"* —
+  [[The Passover]]
 
 ## Notes
 

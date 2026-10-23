@@ -262,6 +262,9 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   Egypt'"* (Deuteronomy 6:20–21, WEB). The first telling in Exodus is Moses' to Jethro (18:8). **The
   Philistines remember it too**: *"as the Egyptians and Pharaoh hardened their hearts"* (1 Samuel 6:6,
   WEB) — [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
+- [[The Passover]] — Exodus 12:14, 24–27; **the first *zikkārôn* in Scripture, and the first thing
+  Israel is given to remember with.** *"This day shall be to you for a memorial"*; and the question built
+  into the rite, *"What do you mean by this service?"*, answered with the story (12:26–27)
 
 ## Related themes
 

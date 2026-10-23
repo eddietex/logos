@@ -1520,6 +1520,24 @@ may know that Yahweh makes a distinction"* (11:7). **He closes the cycle in the 
 with** (7:3–4; 11:9), and hardens Pharaoh's heart (11:10). See [[The Last Plague Announced]] and
 [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
 
+### He gives a calendar and a meal before he strikes — Exodus 12:1–28
+
+**On the eve of the last blow he legislates.** He speaks *"to Moses and Aaron in the land of Egypt"* —
+the one law given in the land of bondage — and renumbers Israel's year from the night of its leaving:
+*"This month shall be to you the beginning of months"* (12:2). He prescribes the lamb *"without
+defect"* (*tāmîm*, the word of Noah and Abram), the blood on the doorposts, the meal eaten *"in haste"*
+and dressed to leave, and calls it *"Yahweh's Passover"* (12:3–11). **He names himself as the one who
+will strike and as the one who will spare**: *"I will go through the land of Egypt … and will strike all
+the firstborn … Against all the gods of Egypt I will execute judgments: I am Yahweh"* (12:12), and
+***"when I see the blood, I will pass over you"*** (12:13) — a sign, like the bow, that he looks at
+(Genesis 9:16). The verb *pāsaḥ* is read as *pass over* or as *protect* (Isaiah 31:5; WLC); the
+wiki adopts neither. He makes the day *"a memorial"* — the first *zikkārôn* in Scripture — and the first
+ordinance called *"forever"* (12:14). **In Moses' relay a second agent appears**: Yahweh *"will not allow
+the destroyer to come in"* (12:23), unidentified. The children's answer uses the verb of Moses'
+complaint at 5:23: he *"spared"* — *hiṣṣîl*, *rescued* — *"our houses"* (12:27). See [[The Passover]],
+[[The Door and the Destroyer - Lot's House and the Passover Night]], and
+[[Christ Our Passover - Exodus 12 in the New Testament]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1704,6 +1722,9 @@ with** (7:3–4; 11:9), and hardens Pharaoh's heart (11:10). See [[The Last Plag
 - Announces *"one plague more"* and the expulsion; gives Israel favour with the Egyptians; says he
   will go out into Egypt at midnight and that the firstborn will die; makes a distinction; hardens
   Pharaoh's heart — Exodus 11:1–10, [[The Last Plague Announced]]
+- Gives the first month, the Passover lamb, the blood on the door, and the feast of unleavened bread;
+  says he will strike the firstborn, judge the gods of Egypt, and pass over the marked houses —
+  Exodus 12:1–28, [[The Passover]]
 
 ## Appears in
 
@@ -2056,6 +2077,9 @@ with** (7:3–4; 11:9), and hardens Pharaoh's heart (11:10). See [[The Last Plag
 - [[The Last Plague Announced]] — Exodus 11:1–10; **the last blow announced as his own going out.** *"Yet one plague
   more"*; *"Yahweh gave the people favor"*; *"About midnight I will go out into the middle of Egypt"*;
   *"Yahweh makes a distinction"*
+- [[The Passover]] — Exodus 12:1–28; **the rite given before the rescue.** *"The beginning of months"*;
+  *"Against all the gods of Egypt I will execute judgments: I am Yahweh"*; *"when I see the blood, I will
+  pass over you"*; *"a memorial"*
 
 ## Related people
 

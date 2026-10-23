@@ -287,6 +287,9 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
 - [[The Heads of the Fathers' Houses]] — Exodus 6:15, 25; ***"Shaul the son of a Canaanite woman"*** copied word for word
   from Genesis 46:10, and ***Pînəḥās***, Aaron's grandson, with a name usually derived from Egyptian
   *the Nubian* (not certain) — the priestly line carrying an Egyptian-sounding name, as Moses does
+- [[The Passover]] — Exodus 12:19; **the stranger under the same rule as the native.** Leaven cuts off
+  *"whether he is a foreigner, or one who is born in the land"*; the first *ʾezraḥ* in Scripture. The
+  circumcised stranger may keep the Passover itself under *"one law"* (12:48–49, the next pericope)
 
 ## Related themes
 

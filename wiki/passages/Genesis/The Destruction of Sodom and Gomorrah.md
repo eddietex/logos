@@ -451,6 +451,8 @@ say which, and it withholds the information from Abraham as well as from the rea
   Lord was crucified."*
 - Wisdom 10:6–7 — the deuterocanonical retelling: the righteous man rescued, and *"a pillar of salt
   standing as a monument to an unbelieving soul."*
+- Exodus 12:1–28 — unleavened bread, the door, and the destroyer on the Passover night —
+  [[The Passover]], [[The Door and the Destroyer - Lot's House and the Passover Night]]
 
 ## Notes
 

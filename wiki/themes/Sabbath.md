@@ -60,6 +60,10 @@ command and give it to slaves and animals by name (23:12; Deuteronomy 5:14–15)
   Pharaoh, making it an accusation.** The rest Israel is denied in Egypt is commanded in the
   wilderness (16:30) and grounded in mercy to servants (23:12). Checked in the WLC of Genesis, Exodus,
   and Job
+- [[The Passover]] — Exodus 12:15–16; **a week appointed to be kept, with work forbidden on its first
+  and last days** — the first such days since Genesis 2:2–3. The Sabbath itself is not named in Exodus
+  until the manna (16:23); the penalty *"that soul shall be cut off"* will be used of the
+  Sabbath-breaker at 31:14
 
 ## Related themes
 

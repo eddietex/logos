@@ -97,6 +97,10 @@ idolatry of the heart is denial of God**, and it is the very thing the accuser p
   records the silence as a silence and declines to fill it in either direction**
 - [[Job's Oath of Innocence]] — Job 31:24–28; gold as *"my confidence"* (31:24) and the kiss thrown to sun and moon (31:26–27),
   both secret, both sworn against as denial of *"the God who is above"* (31:28).
+- [[The Passover]] — Exodus 12:12; ***"Against all the gods of Egypt I will execute judgments: I am
+  Yahweh"***. **The first time the plagues are said to be aimed at Egypt's gods**; no god is named, and
+  the mapping of plagues onto particular deities is later interpretation. Numbers 33:4: *"Yahweh also
+  executed judgments on their gods"*
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

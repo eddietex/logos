@@ -20,6 +20,10 @@ tags: [connection]
 - **Leviticus 16:8–22** — two goats, one killed and one sent away
 - **Numbers 3:11–13, 40–51** — the Levites taken *"instead of"* every firstborn of Israel
 - **Isaiah 53:4–6** — *"Yahweh has laid on him the iniquity of us all"*
+- **Exodus 12:3–5** — the next *śeh* in the Torah after Genesis 22 and 30:32: the Passover animal,
+  *"without defect"* — [[The Passover]]. Exodus 12 calls it a sign and a meal-sacrifice, and does not
+  say it dies instead of the firstborn — see
+  [[Christ Our Passover - Exodus 12 in the New Testament]]
 - **John 1:29; 1 Peter 1:18–19** — the lamb the ram was not
 
 ## Analysis

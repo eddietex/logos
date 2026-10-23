@@ -335,6 +335,10 @@ where that starts, in a sentence about a family that got halfway.
   travels, in which they lived as aliens"*** — **Canaan described by the fact that the fathers never
   owned it**, using the *məgûrîm* of Genesis 17:8; 28:4; 36:7; 37:1; 47:9. It is promised to Israel
   *"for a heritage"*, *môrāšâ*, the only occurrence of the noun in Genesis, Exodus, and Job
+- [[The Passover]] — Exodus 12:19, 25; **the native and the stranger distinguished in a land Israel
+  does not yet have.** *"Whether he is a foreigner (gēr), or one who is born in the land (ʾezraḥ)"* —
+  the first *ʾezraḥ* in Scripture (WLC) — and *"when you have come to the land which Yahweh will give
+  you"*
 
 ## Related themes
 

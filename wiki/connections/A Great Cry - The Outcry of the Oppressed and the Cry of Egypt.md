@@ -26,6 +26,8 @@ tags: [connection]
 - **Exodus 22:23–24** — *"If you take advantage of them at all, and they cry at all to me, I will surely
   hear their cry; and my wrath will grow hot, and I will kill you with the sword; and your wives shall be
   widows, and your children fatherless"* *(not yet ingested)*
+- **Genesis 19 and Exodus 12** — the two nights of destruction, compared word by word at
+  [[The Door and the Destroyer - Lot's House and the Passover Night]]
 
 ## Analysis
 

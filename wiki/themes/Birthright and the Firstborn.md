@@ -186,6 +186,9 @@ holds up Esau as the warning.
   is the Torah's only other *ṣəʿāqâ gədōlâ* besides Esau's over the lost blessing (Genesis 27:34,
   WLC) — [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] —
   [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
+- [[The Passover]] — Exodus 12:12–13, 23; **the firstborn of Egypt doomed and Israel's marked off.**
+  *"I will … strike all the firstborn in the land of Egypt, both man and animal"*; the blood on the door
+  is what separates the two. The pericope ends before the blow (12:29)
 
 ## Related themes
 
