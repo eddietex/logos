@@ -249,6 +249,10 @@ the promise is repeatedly mistaken for.
   *"deliver"*; WLC); and *"flocks, herds, and even very much livestock"*. **Genesis 15:14's *"great
   wealth"* paid.** They leave rich in goods and with no food prepared (12:39). See
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[Manna and Quail]] — Exodus 16:16–20; **wealth that cannot be kept.** An omer a head; *"he who gathered
+  much had nothing over"*; what was kept overnight *"bred worms, and became foul"*. Gathered with Joseph's
+  verb for gathering all Egypt's money into Pharaoh's house (Genesis 47:14; WLC). See
+  [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
 
 ## Related themes
 

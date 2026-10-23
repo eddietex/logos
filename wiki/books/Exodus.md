@@ -200,7 +200,21 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   and a condition in the words of Genesis 26:5: *"If you will diligently listen to Yahweh your God's voice …
   I will put none of the diseases on you, which I have put on the Egyptians; for **I am Yahweh who heals
   you**"* (15:26). Then Elim, *"twelve springs of water, and seventy palm trees"* (15:27). See
-  [[Bitter Water at Marah]].
+  [[Bitter Water at Marah]]. **A month out, the food runs out, and Egypt is remembered as *"the meat
+  pots"*.** The whole congregation murmurs *"against Moses and against Aaron"* and wishes it had died *"by
+  Yahweh's hand in the land of Egypt"* (16:3). God answers with ***"I will rain bread from the sky"*** — the
+  verb of the rain on Sodom (Genesis 19:24) — and a test, *"whether they will walk in my law, or not"* (16:4).
+  Moses: ***"Your murmurings are not against us, but against Yahweh"*** (16:8); and the first
+  ***"Yahweh's glory"*** in Scripture *"appeared in the cloud"* (16:10). Quail one evening; every morning
+  under the dew *"a small round thing"*, and the question that names it, ***"What is it?"*** (*mān hûʾ*,
+  16:15). An omer a head, and *"he who gathered much had nothing over, and he who gathered little had no
+  lack"* (16:18); kept overnight, it *"bred worms, and became foul"* — the verb of the Nile (7:21). **Then the
+  first *Sabbath* in Scripture, as a fact about bread**: a double portion on the sixth day, *"a holy Sabbath
+  to Yahweh"* (16:23), nothing on the seventh, and to those who go out anyway the question once put to
+  Pharaoh — ***"How long do you refuse to keep my commandments and my laws?"*** (16:28), the two words of
+  Genesis 26:5. *"Yahweh has given you the Sabbath"*; *"So the people rested"* (16:29–30). An omer is laid up
+  *"before the Testimony"* for the generations, and the narrator closes on forty years of manna (16:34–35),
+  both told from after Sinai. See [[Manna and Quail]].
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
@@ -258,7 +272,7 @@ for unit.
 ### To the mountain (15:22–18)
 
 - [x] [[Bitter Water at Marah]] — Exodus 15:22–27
-- [ ] Manna and Quail — Exodus 16:1–36
+- [x] [[Manna and Quail]] — Exodus 16:1–36
 - [ ] Water from the Rock — Exodus 17:1–7
 - [ ] The Battle with Amalek — Exodus 17:8–16
 - [ ] Jethro's Counsel — Exodus 18:1–27
@@ -361,6 +375,7 @@ for unit.
 - [[Healing]]
 - [[Law and Obedience]]
 - [[Testing]]
+- [[The Glory of God]]
 
 ## Key people
 
@@ -400,8 +415,11 @@ for unit.
   (10:23)
 - [[The Red Sea]] — *yam sûp*, first named when the locusts are thrown into it (10:19)
 - [[Midian]] — where Moses flees
-- [[Horeb]] — *"God's mountain"*, where the bush burns
+- [[Horeb]] — *"God's mountain"*, where the bush burns; named *Sinai* for the first time at 16:1, as the end of
+  the road
 - [[Shur]] — the wilderness entered after the sea, three days without water (15:22)
 - [[Marah]] — the bitter water made sweet, and the first statute after the sea (15:23–26)
 - [[Elim]] — twelve springs and seventy palms (15:27)
+- [[The Wilderness of Sin]] — *"between Elim and Sinai"*: the manna, the quail, the glory in the cloud, and the
+  first Sabbath (16:1–36)
 - [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)

@@ -82,6 +82,15 @@ draws the line at 1:13 quoted above. 1 Peter 1:6–7 returns to the furnace: fai
 gold which perishes even though it is tested by fire"*. And Hebrews 11:17 uses the Genesis word of
 Abraham outright: *"By faith, Abraham, being tested, offered up Isaac."*
 
+**The manna is the first test whose content is stated.** At Marah God *"tested them"* and the content was a
+condition (Exodus 15:25–26); in the wilderness of Sin he says why he will rain bread — ***"that I may test
+them, whether they will walk in my law, or not"*** (16:4) — **and the test is a daily rule**: gather a day's
+portion each day, keep nothing overnight, gather double on the sixth day and nothing on the seventh. **It is
+failed twice** — by those who kept it overnight (16:20) and by those who went out on the seventh day (16:27).
+**Deuteronomy gives the reading afterwards, to the reader as always**: *"to prove you, to know what was in your
+heart, whether you would keep his commandments, or not. He humbled you, and allowed you to be hungry, and fed
+you with manna"* (Deuteronomy 8:2–3; WEB; *not yet ingested*). See [[Manna and Quail]].
+
 **What the Bible never does is explain a test to the person inside it while it is running.** Job gets
 a whirlwind and no answer; Abraham gets a ram and a promise; Israel gets forty years and a sermon
 afterwards. **The explanation, when it comes, always comes to the reader.**
@@ -174,6 +183,9 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
   as a condition** — *"If you will diligently listen to Yahweh your God's voice"* (15:26) — **and its result
   is not reported.** As in Genesis 22, the narrator names the test to the reader; what the people hear is
   the condition, and whether they were told it was a test is not said
+- [[Manna and Quail]] — Exodus 16:4; **the test with a stated content.** *"That I may test them, whether they
+  will walk in my law, or not"* — the third *nissâ* in Scripture; a daily ration and a sixth-day double, failed
+  by the hoarders and by the seventh-day gatherers
 
 ## Related themes
 

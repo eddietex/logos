@@ -128,6 +128,18 @@ Aaron appears in the pericope, and not as an actor. **Why she is named by Aaron 
 does not say; Aaron is the elder (7:7), and Numbers 12 will set Miriam and Aaron together against Moses
 (reported, not decided). See [[The Song of the Sea]].
 
+**In the wilderness of Sin he becomes an object of the complaint, a voice at the glory, and the keeper of
+the first thing laid up before God.** *"The whole congregation … murmured against Moses and against
+Aaron"* (Exodus 16:2) — **the first time he is named with Moses as the one complained against**; at Marah
+it had been Moses alone (15:24). He shares Moses' answer, *"Who are we, that you murmur against us?"* (16:7).
+**Then Moses gives him the words to speak** — *"Tell all the congregation … 'Come near before Yahweh'"*
+(16:9), the mouth arrangement of 4:16 — **and *"As Aaron spoke … behold, Yahweh's glory appeared in the
+cloud"*** (16:10), the first *kəbôd YHWH* in Scripture (WLC). **And he lays up the jar of manna *"before
+the Testimony, to be kept"*** (16:33–34) — ***hinnîaḥ***, *set down*, *deposit* (WLC) — **his first act
+before the presence, done before there is a tabernacle, an ark, a Testimony, or a priesthood.** The verse
+is told from after Sinai, and the wiki records the anachronism as the text's own. See
+[[Manna and Quail]] and [[The Glory of God]].
+
 ### What is ahead
 
 Sinai, where he goes up with the elders (24); the priestly
@@ -164,6 +176,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - Summoned with Moses by night; addressed with him in the ordinance of the Passover; named in the formula
   of obedience — Exodus 12:31, 43, 50, [[The Death of the Firstborn and the Departure]]
 - Named only as Miriam's brother at the sea — Exodus 15:20, [[The Song of the Sea]]
+- Murmured against with Moses for the first time; speaks to the congregation as Yahweh's glory appears in
+  the cloud; lays up an omer of manna *"before the Testimony"* — Exodus 16:2–10, 33–34, [[Manna and Quail]]
 
 ## Appears in
 
@@ -197,6 +211,9 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   by night"*; *"Yahweh said to Moses and Aaron, 'This is the ordinance of the Passover'"*
 - [[The Song of the Sea]] — Exodus 15:20; **named, not present.** *"Miriam the prophetess, the sister of
   Aaron"*
+- [[Manna and Quail]] — Exodus 16:2, 6–10, 33–34; **complained against, then the voice at the glory.**
+  *"Murmured against Moses and against Aaron"*; *"Who are we?"*; *"As Aaron spoke … Yahweh's glory appeared
+  in the cloud"*; *"Aaron laid it up before the Testimony, to be kept"*
 
 ## Related people
 

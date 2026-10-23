@@ -318,6 +318,9 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   *mārîm*, the root of the lives *"made bitter with hard service"* (1:14); and the *ḥōq* Yahweh sets at
   Marah has as its only Exodus precedent the brick *"quota"* of 5:14 (*ḥoqkem*; WLC). **The first statute
   after the sea replaces the quota of the house of bondage**
+- [[Manna and Quail]] — Exodus 16:3, 29–30; **slavery remembered as plenty, and rest given as a day.** *"When
+  we sat by the meat pots, when we ate our fill of bread"*; and the first time people *rest* (*šābat*) —
+  the rest Pharaoh called idleness (5:5) — *"So the people rested on the seventh day"*
 
 ## Related themes
 

@@ -285,6 +285,9 @@ what Job is asking for.
 - [[Bitter Water at Marah]] — Exodus 15:24–25; **the complaint turned into a prayer.** The people murmur
   *"against Moses"* (the first *lûn*, WLC), and Moses does not answer them; he *"cried to Yahweh"*, and the
   remedy is shown to him, not to them. **The mediator receives the complaint and passes it upward**
+- [[Manna and Quail]] — Exodus 16:6–9; **the mediators step aside.** *"Who are we, that you murmur against us?
+  … Your murmurings are not against us, but against Yahweh"* — Moses and Aaron refuse to be the object of the
+  complaint and pass it through; Moses gives Aaron the words, and Aaron speaks as the glory appears
 
 ## Related themes
 

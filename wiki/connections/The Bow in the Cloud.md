@@ -18,6 +18,8 @@ tags: [connection]
   was the appearance of the brightness all around"*
 - **Isaiah 54:9–10** — *"this is like the waters of Noah to me"*: the Noahic oath as the model of an
   unbreakable promise
+- **Exodus 16:10** — *"behold, Yahweh's glory appeared in the cloud"* — the cloud's next sign, and the
+  first glory in it — [[Manna and Quail]]
 - **Revelation 4:3** — *"There was a rainbow around the throne, like an emerald to look at"*
 - **Revelation 10:1** — a mighty angel *"clothed with a cloud. A rainbow was on his head"*
 - **Enūma Eliš** VI and **Gilgamesh** XI — the Mesopotamian sky-signs after a divine victory and a
@@ -83,5 +85,11 @@ conclusion the rest of the canon works from: if the oath about the waters of Noa
 mountains may depart, and the hills be removed, but my loving kindness will not depart from you"* —
 the Noahic covenant is cited not for its content but as the proof that God's promises are the kind
 of thing that does not get revoked.
+
+**The cloud's next sign is glory.** *ʿĀnān* holds the bow in Genesis 9:13–16, the pillar in Exodus 13–14,
+and then, at the manna, *"Yahweh's glory appeared in the cloud"* (Exodus 16:10) — the first time the glory is
+seen in it (WLC lemma search, Genesis–Exodus). **Ezekiel joins the two** in the passage listed above — the
+bow *"in the cloud"* as *"the appearance of the likeness of Yahweh's glory"* (Ezekiel 1:28; WEB;
+*not yet ingested*). See [[Manna and Quail]] and [[The Glory of God]].
 
 See also [[Covenant]], [[Remembrance]], and [[Judgment]].

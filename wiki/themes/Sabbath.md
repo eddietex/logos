@@ -28,8 +28,15 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 ## Development across Scripture
 
 - **Genesis 2:2–3** — God rests, blesses the seventh day, makes it holy.
-- To trace as ingestion reaches them: Exodus 16 (manna and the seventh day, before the
-  commandment), Exodus 20:8–11 (the fourth commandment, grounded in creation — see
+- **Exodus 16:22–30** — the first *šabbāt* and the first *šabbātôn* in Scripture (WLC lemma search,
+  Genesis–Deuteronomy), **given as a fact about bread before it is given as a command.** *"Tomorrow is a
+  solemn rest, a holy Sabbath to Yahweh"* (16:23); *"Six days you shall gather it, but on the seventh day is
+  the Sabbath. In it there shall be none"* (16:26); ***"Yahweh has given you the Sabbath"*** (16:29), with the
+  verb of the bread *"which Yahweh has given you"* (16:15); and ***"So the people rested (wayyišbətû) on the
+  seventh day"*** (16:30) — **the first time people are the subject of *šābat*** (WLC lemma search,
+  Genesis–Exodus). **The first Sabbath-breakers are not punished; they find nothing** (16:27), and God asks
+  *"How long do you refuse to keep my commandments and my laws?"* (16:28). See [[Manna and Quail]].
+- To trace as ingestion reaches them: Exodus 20:8–11 (the fourth commandment, grounded in creation — see
   [[Creation as the Ground of the Sabbath Command]]), Deuteronomy 5:12–15 (the same commandment
   grounded instead in the exodus from Egypt — two different rationales for one command, worth
   holding side by side), Exodus 31:12–17 (Sabbath as covenant sign), Leviticus 25 (sabbath year
@@ -68,6 +75,9 @@ command and give it to slaves and animals by name (23:12; Deuteronomy 5:14–15)
   form as *"Remember the Sabbath day, to keep it holy"*** (20:8), and its first use (WLC lemma search). The
   feast is seven days with the seventh *"a feast to Yahweh"*, and its law opens with the first *qaddeš*
   since God made the seventh day holy (Genesis 2:3)
+- [[Manna and Quail]] — Exodus 16:22–30; **the first *Sabbath* by name.** *"A solemn rest, a holy Sabbath to
+  Yahweh"*; *"Yahweh has given you the Sabbath"*; *"Everyone stay in his place"*; *"So the people rested on the
+  seventh day"* — **a gift before a command**, and the first time people are said to rest
 
 ## Related themes
 

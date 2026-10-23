@@ -10,6 +10,8 @@ tags: [connection]
 - Genesis 19:24–25 — the first occurrence, and the source of everything below
 - Exodus 9:18–25 — Yahweh *"rained"* hail with fire on Egypt, the same verb and the same pairing of
   sky and fire, without the sulfur — [[Livestock, Boils, and Hail]]
+- Exodus 16:4 — *"Behold, I will rain bread from the sky for you"* — the same verb and the same *"from the
+  sky"*, reversed — [[Manna and Quail]]
 - Deuteronomy 29:23 — *"brimstone, salt, and burning"*, the covenant curse
 - Job 18:15; Psalm 11:6; Isaiah 30:33; 34:9–10; Ezekiel 38:22 — the prophetic and wisdom uses
 - Luke 17:29 — the one New Testament narrative use, in the discourse on the day of the Son of Man
@@ -88,6 +90,12 @@ Revelation the same pair is unbounded and unending. The trajectory from the one 
 through Isaiah 34:10's *"forever"* and Jude 7's *"eternal fire"*, and the wiki records it as a
 development in the tradition rather than as something latent in Genesis 19, which says only that the
 smoke went up like a furnace's and that Abraham then walked home.
+
+**The verb's reversal comes in the wilderness.** *Māṭar* in the hiphil, *cause to rain*, is God's verb at
+Genesis 2:5, 7:4, 19:24, and the hail of Exodus 9:18, 23 — absence, flood, fire, and hail (WLC lemma search,
+Genesis–Exodus). **Its next use is *"Behold, I will rain (mamṭîr) bread from the sky (min-haššāmāyim) for
+you"*** (Exodus 16:4; WLC) — **Sodom's verb and Sodom's *"from the sky"*, with bread for fire.** The text does
+not draw the line; the words are the same. See [[Manna and Quail]].
 
 See [[The Destruction of Sodom and Gomorrah]], [[Sodom]], and, for the other total judgment and its
 own vocabulary, [[The Flood as Un-Creation]].

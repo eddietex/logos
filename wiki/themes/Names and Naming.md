@@ -228,6 +228,9 @@ five times**, and each is a covenant hinge.
   Marah"*, *bitter* — the impersonal formula of Babel (Genesis 11:9; WLC), with no namer given. **The water
   is made sweet two verses later, and the name stays.** Naomi takes it for herself: *"Call me Mara"* (Ruth
   1:20; WEB; *not yet ingested*). See [[Marah]]
+- [[Manna and Quail]] — Exodus 16:15, 31; **a food named by a question.** *"What is it?"* (*mān hûʾ*, which the
+  WLC parses as an interrogative) — *"The house of Israel called its name Manna"*; **the first thing in
+  Exodus that Israel names**, in the naming formula of Genesis
 
 ## Related themes
 

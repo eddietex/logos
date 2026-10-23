@@ -59,8 +59,16 @@ the etymology reported, not checked in this pass). **And the infinitive-absolute
 listen"* (*ʾim-šāmôaʿ tišmaʿ*) is the form that opens the covenant at Sinai** (19:5; WLC). See
 [[Bitter Water at Marah]].
 
-**Ahead** (*not yet ingested*): the manna as a test *"whether they will walk in my law, or not"* (16:4); the
-Sabbath (16:23–30); the Ten Commandments and the Book of the Covenant (20–23), whose *mišpāṭîm* begin at
+**Exodus 16 — law as a rule about bread.** God's first *"my law"* in Exodus — *"that I may test them,
+whether they will walk in my law (bətôrātî), or not"* (16:4; WLC) — **is a rule about gathering food**: a
+day's portion each day, nothing kept overnight, a double portion on the sixth day. **It is disobeyed twice,
+and the second time God asks *"How long do you refuse to keep my commandments and my laws?"*** (16:28) —
+***miṣwōtay wətôrōtāy***, the two words of Genesis 26:5 in the same forms and order (WLC), **and the
+refusal verb of Pharaoh** (*māʾēn*, 10:3). **The law in question is the Sabbath, named a week before** and
+not yet written (16:23). See [[Manna and Quail]] and
+[[Because Abraham Obeyed My Voice - Law Before Sinai]].
+
+**Ahead** (*not yet ingested*): the Ten Commandments and the Book of the Covenant (20–23), whose *mišpāṭîm* begin at
 21:1; the tablets *"that you may teach them"* (24:12, *yārâ* again); and Deuteronomy's *"statutes and
 ordinances"*, its refrain (4:1, 5; 5:1).
 
@@ -74,6 +82,9 @@ ordinances"*, its refrain (4:1, 5; 5:1).
 - [[Bitter Water at Marah]] — Exodus 15:25–26; **the first statute and ordinance after the sea**, and the
   condition of hearing
 - **Exodus 19:5; 20–23; 24:12** — the covenant offer, the commandments, and the tablets *(not yet ingested)*
+- [[Manna and Quail]] — Exodus 16:4, 28; **"my law" as a daily ration.** *"Whether they will walk in my law, or
+  not"*; *"How long do you refuse to keep my commandments and my laws?"* — Genesis 26:5's two words, about a
+  Sabbath not yet commanded
 
 ## Related themes
 

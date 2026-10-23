@@ -255,6 +255,10 @@ human one innocent.** *"You meant evil"* stands. See
   *"You have guided them (nēhaltā)"* (15:13), the verb of leading to water; **the first stage after it is
   three days with *"no water"***, then a bitter well, then Elim's *"twelve springs of water, and seventy palm
   trees"*. The text reports the sequence without comment
+- [[Manna and Quail]] — Exodus 16:4–35; **provision by the day, for forty years.** *"I will rain bread from the
+  sky"*; *"a day's portion every day"*; *"he who gathered little had no lack"*; and the narrator's *"The
+  children of Israel ate the manna forty years"* (16:35) — **provision answered to a complaint, not to
+  faith**
 
 ## Related themes
 

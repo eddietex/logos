@@ -145,6 +145,10 @@ as those passages are ingested.
   *"get honor"* (*ʾikkābədâ*, the niphal, 14:4, 17–18) and the chariots are driven ***"heavily"***
   (*kəbēdut*, only here in the Torah, 14:25; WLC lemma search). **The heaviness that was Pharaoh's heart
   becomes God's glory and the drag on Pharaoh's wheels**
+- [[Manna and Quail]] — Exodus 16:28; **Pharaoh's verb turned on Israel.** *"How long do you refuse (mēʾantem)
+  to keep my commandments and my laws?"* — *māʾēn*, the verb of *"he refuses to let the people go"* (7:14) and
+  *"How long will you refuse to humble yourself before me?"* (10:3) (WLC lemma search, Genesis–Exodus). **No
+  hardening is said of Israel**; the refusal is named, and nothing follows but an empty field
 
 ## Related themes
 

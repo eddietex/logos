@@ -28,6 +28,11 @@ country, which Exodus 3:1 puts within reach) all have advocates. Paul's *"Mount 
 (Galatians 4:25) is cited on the Arabian side; *Arabia* in Paul's usage can include the Sinai
 peninsula. The wiki records the options and adopts none.
 
+**The name *Sinai* first occurs at Exodus 16:1**, in a verse that places the wilderness of Sin *"between Elim
+and Sinai"* (WLC lemma search, Genesis–Deuteronomy) — **the mountain is named as a point on the road a
+month after the sea.** The wilderness and the mountain share the consonants *s-y-n*. See
+[[The Wilderness of Sin]] and [[Manna and Quail]].
+
 **The bush may have named the mountain.** *Sənê*, the *bush* of 3:2–4, is close in sound to *Sînay*,
 and many commentators hear the pun. The etymology of *Sinai* is not known.
 
@@ -42,11 +47,15 @@ Mountain"* (1 Kings 19:8) — and there God is not in the fire.
 - [[Moses Returns to Egypt]] — Exodus 4:27; **where the brothers meet.** Aaron, sent by Yahweh, meets
   Moses *"on God's mountain"* and kisses him. The text does not say whether the mountain lay on Moses'
   road or he returned to it; with its location unknown, the geography cannot settle it
+- [[Manna and Quail]] — Exodus 16:1; **the first *Sinai* in Scripture.** *"The wilderness of Sin, which is
+  between Elim and Sinai"* — named as the end of a stretch of road before anything has happened there under
+  that name (WLC lemma search, Genesis–Deuteronomy)
 
 ## Related places
 
 - [[Midian]] — whose priest's flock Moses is grazing when he reaches it
 - [[Egypt]] — the country Israel will come out of to serve God here
+- [[The Wilderness of Sin]] — *"between Elim and Sinai"* (Exodus 16:1); its name shares Sinai's consonants
 
 ## Events here
 

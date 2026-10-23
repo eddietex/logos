@@ -274,6 +274,11 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   memorial (zikkārôn) between your eyes"*, and the remembering is handed down as a script: *"You shall tell
   your son … It is because of that which Yahweh did for me when I came out of Egypt"* — **every later father
   says *I***. See [[When Your Son Asks - Telling the Exodus to the Next Generation]]
+- [[Manna and Quail]] — Exodus 16:3, 32–34; **memory false and memory kept.** The congregation remembers Egypt
+  as *"the meat pots"* and *"our fill of bread"* (16:3), against *"they made their lives bitter"* (1:14); and
+  God commands an omer kept *"throughout your generations, that they may see the bread with which I fed
+  you"* (16:32) — **the third memorial in three chapters, and the first that is an object rather than a
+  rite**
 
 ## Related themes
 

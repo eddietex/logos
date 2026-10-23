@@ -40,8 +40,23 @@ Yahweh"* (14:13). See [[The Crossing of the Sea]].
 people**; he cries to Yahweh, and the water is made sweet. **What follows is a statute and a test** (15:25)
 — the complaint is answered with provision and then with a condition. See [[Bitter Water at Marah]].
 
-**Ahead in Exodus** (*not yet ingested*): the manna, where the whole congregation murmurs and God *"hears
-your murmurings"* (16:2–12); and Massah, where the people *"murmured against Moses"* and *"tested Yahweh,
+**The manna — the complaint with Egypt in it, and the noun.** *"The whole congregation … murmured against
+Moses and against Aaron"* (16:2), **Aaron's first time as an object**, and the complaint is now a wish and a
+charge: *"We wish that we had died by Yahweh's hand in the land of Egypt, when we sat by the meat pots … for
+you have brought us out into this wilderness, to kill this whole assembly with hunger"* (16:3). **The noun
+*təlunnōt* appears for the first time, five times in six verses** (16:7–12; WLC lemma search). **Moses
+redirects it** — *"Who are we? Your murmurings are not against us, but against Yahweh"* (16:8) — **and God
+answers it with food**: *"I have heard the murmurings of the children of Israel … At evening you shall eat
+meat, and in the morning you shall be filled with bread"* (16:12). **Still no punishment**; the only anger in
+the chapter is Moses', at those who hoarded the bread (16:20). **What is added is a test** — *"whether they
+will walk in my law, or not"* (16:4) — **and the glory**: *"Yahweh's glory appeared in the cloud"* (16:10),
+shown to the murmurers. See [[Manna and Quail]].
+
+**John 6 repeats the scene with the word**: *"The Jews therefore murmured concerning him, because he said, 'I
+am the bread which came down out of heaven'"*, and *"Don't murmur among yourselves"* (John 6:41, 43; WEB; *not
+yet ingested*). See [[Bread from Heaven - The Manna and John 6]].
+
+**Ahead in Exodus** (*not yet ingested*): Massah, where the people *"murmured against Moses"* and *"tested Yahweh,
 saying, 'Is Yahweh among us, or not?'"* (17:3, 7). **The cycle hardens as it repeats**: from a question of
 need to a wish for Egypt to a question about God's presence.
 
@@ -60,7 +75,10 @@ to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 C
 - [[Bitter Water at Marah]] — Exodus 15:24; **the first *lûn* in Scripture.** *"What shall we drink?"*; against
   Moses; no punishment; answered by Moses' cry, the tree, the sweetened water, and a statute
 - [[The Crossing of the Sea]] — Exodus 14:11–12; **the complaint before the word**
-- **Exodus 16:2–12; 17:3** — the manna and Massah *(not yet ingested)*
+- [[Manna and Quail]] — Exodus 16:2–12; **the second murmuring, against Moses and Aaron.** *"We wish that we
+  had died … in the land of Egypt"*; the first *təlunnōt*; *"Your murmurings are not against us, but against
+  Yahweh"*; answered with quail, manna, and the glory in the cloud
+- **Exodus 17:3** — Massah *(not yet ingested)*
 - **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 

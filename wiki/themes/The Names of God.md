@@ -262,6 +262,9 @@ everlasting possession, by treaty with its current occupant.
   heals you"*** — *ʾănî YHWH rōpəʾekā* (WLC). **The first *"I am Yahweh"* that names what he does for
   Israel's body**, and the form Genesis used of Egypt's *"physicians"* (50:2). Later piety made it a title,
   *Yahweh Rophe* (reported, not checked in this pass). See [[Healing]]
+- [[Manna and Quail]] — Exodus 16:6, 12; ***"you shall know that I am Yahweh your God"*** — the formula of 6:7,
+  turned from Egypt back to Israel; and Yahweh's glory (*kəbôd YHWH*) seen for the first time (16:10). See
+  [[The Glory of God]]
 
 ## Related themes
 

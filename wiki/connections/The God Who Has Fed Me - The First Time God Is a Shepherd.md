@@ -12,6 +12,8 @@ tags: [connection]
 - **Genesis 49:24** — *"from there is the shepherd, the stone of Israel"* — the noun, one chapter later
 - **Genesis 30:31–43; 31:38–41** — [[Jacob]]'s twenty years as a hired shepherd, itemised under oath —
   [[Jacob's Flocks]], [[Jacob's Flight from Laban]]
+- **Exodus 16:18, 32** — *"he who gathered little had no lack"*; *"the bread with which I fed you in the
+  wilderness"* — [[Manna and Quail]]
 - **Psalm 23:1** — *"Yahweh is my shepherd; I shall lack nothing"*
 - **Psalm 80:1** — *"Hear us, Shepherd of Israel, you who lead Joseph like a flock"*
 - **Psalm 78:52–53** — *"But he led out his own people like sheep, and guided them in the wilderness
@@ -115,3 +117,10 @@ At 48:15 God is ***hārōʿeh ʾōtî***, *the one shepherding me*; **here the p
 *the shepherd***, and it is the last thing [[Jacob]] calls God. **It sits in the same four-word
 parenthesis as *the stone of Israel*, which occurs nowhere else in the Bible.** See
 [[The Mighty One of Jacob and the Stone of Israel]].
+
+**The wilderness is where the shepherd's provision becomes daily.** At the manna God says *"the bread with
+which I fed (heʾĕkaltî) you in the wilderness"* (Exodus 16:32) — the hiphil of *ʾākal*, *cause to eat*, a different verb from
+Jacob's *rāʿâ* (WLC) — and the measure comes out so that *"he who gathered little had no lack (lōʾ
+heḥsîr)"* (16:18). **That is Psalm 23:1's verb: *"I shall lack nothing (lōʾ ʾeḥsār)"*** (WLC), and
+Deuteronomy's summary of the forty years, *"You have lacked nothing"* (2:7; WEB; WLC; *not yet ingested*).
+See [[Manna and Quail]] and [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]].

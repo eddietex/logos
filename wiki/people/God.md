@@ -1646,6 +1646,35 @@ embalmed Jacob** (Genesis 50:2; WLC). The conditions are in the vocabulary of wh
 does is reported** — twelve springs and seventy palms (15:27). See [[Bitter Water at Marah]], [[Healing]],
 and [[Law and Obedience]].
 
+### He hears, rains bread, shows his glory, and gives a day — Exodus 16:1–36
+
+**He is complained about to Moses and Aaron, and he says he has heard.** *"I have heard the murmurings of the
+children of Israel"* (16:12); the verb *šāmaʿ* comes four times, three in Moses' and Aaron's mouths and once in his own (16:7, 8, 9, 12; WLC). **No
+anger of his is reported at the complaint.** His answer is food: ***"Behold, I will rain bread from the sky
+for you"*** (16:4) — ***mamṭîr***, the verb of the flood (Genesis 7:4), of the fire on Sodom *"from Yahweh out
+of the sky"* (19:24), and of the hail on Egypt (9:18) (WLC lemma search, Genesis–Exodus). **The first time he
+rains something to eat.**
+
+**He makes the food a test and calls the rule *my law*.** *"That I may test them, whether they will walk in my
+law (bətôrātî), or not"* (16:4) — the third *nissâ* in Scripture, after Abraham and Marah, and the first time
+in Exodus he says *my law* (WLC lemma search, Genesis–Exodus). The law is a daily ration and a double sixth
+day.
+
+**His glory is seen for the first time.** *"Behold, Yahweh's glory appeared in the cloud"* (16:10) — the first
+*kəbôd YHWH* in Scripture (WLC lemma search, Genesis–Exodus) — **shown to a congregation that has just wished
+it had died in Egypt**, and followed by the promise *"you shall know that I am Yahweh your God"* (16:12), the
+formula of 6:7. See [[The Glory of God]].
+
+**He names the seventh day a gift, and asks Israel Pharaoh's question.** *"Yahweh has given you the
+Sabbath"* (16:29), with the verb of *"the bread which Yahweh has given you"* (16:15) — the first *šabbāt* in
+Scripture having been named a week of manna earlier, *"a holy Sabbath to Yahweh"* (16:23; WLC). To those who
+went out on the seventh day he says ***"How long do you refuse (mēʾantem) to keep my commandments and my
+laws?"*** (16:28) — **the verb of *"How long will you refuse to humble yourself before me?"*, said to Pharaoh
+(10:3)**, and the two nouns, *miṣwōtay wətôrōtāy*, of Genesis 26:5 (WLC). **No punishment follows; they found
+nothing.** **He commands a jar of manna kept *"that they may see the bread with which I fed you in the
+wilderness, when I brought you out"*** (16:32) — the exodus claimed in the first person against the people's
+*"you have brought us out"* (16:3). See [[Manna and Quail]], [[Sabbath]], and [[Testing]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1849,6 +1878,9 @@ and [[Law and Obedience]].
 - Shows Moses the tree that sweetens the bitter water at Marah; makes *"a statute and an ordinance"* and tests
   Israel; promises none of Egypt's diseases to those who listen — *"I am Yahweh who heals you"* — Exodus
   15:22–27, [[Bitter Water at Marah]]
+- Hears the murmurings; rains bread from the sky and sends quail; tests Israel with a daily rule; his glory
+  appears in the cloud; gives the Sabbath; asks *"How long do you refuse?"*; commands the manna kept for the
+  generations — Exodus 16:1–36, [[Manna and Quail]]
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2217,6 +2249,9 @@ and [[Law and Obedience]].
   you have redeemed"*; *"Yahweh shall reign forever and ever"*
 - [[Bitter Water at Marah]] — Exodus 15:25–26; **the healer.** *"Yahweh showed him a tree"*; *"There he made
   a statute and an ordinance for them, and there he tested them"*; *"I am Yahweh who heals you"*
+- [[Manna and Quail]] — Exodus 16:4–32; **the giver of bread and rest.** *"I will rain bread from the sky"*;
+  *"that I may test them"*; *"Yahweh's glory appeared in the cloud"*; *"I have heard the murmurings"*; *"How
+  long do you refuse to keep my commandments and my laws?"*; *"Yahweh has given you the Sabbath"*
 
 ## Related people
 

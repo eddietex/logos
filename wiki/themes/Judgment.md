@@ -387,6 +387,11 @@ rule are the conditions the rest of Scripture is set in.
   none of the diseases on you, which I have put (śamtî) on the Egyptians"* (WLC). **Judgment on Egypt
   becomes the measure of a promise to Israel**, and Deuteronomy 28:60 makes it a threat: *"He will bring on
   you again all the diseases of Egypt"* (WEB; *not yet ingested*)
+- [[Manna and Quail]] — Exodus 16; **a complaint with a charge of murder in it, and no judgment.** God *"heard"*
+  and fed; the hoarded bread rots and the Sabbath-breakers find nothing. **Numbers 11 tells a second quail story
+  that ends in plague** (11:31–34; *not yet ingested*), and Numbers 15 the stoning of a man gathering sticks
+  on the Sabbath (15:32–36; *not yet ingested*): **the first instances are met with provision, the later ones
+  with judgment**
 
 ## Related themes
 

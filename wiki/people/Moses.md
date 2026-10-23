@@ -279,9 +279,22 @@ Yahweh who heals you"* are God's (15:25–26). **The pairing of his cry with *he
 Miriam** — *"Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'"* (Numbers 12:13; WEB; WLC; *not
 yet ingested*). See [[Bitter Water at Marah]] and [[Murmuring]].
 
+**At the manna he refuses the credit and the blame together.** The congregation says to him and Aaron
+*"you have brought us out (hôṣēʾtem) into this wilderness, to kill this whole assembly with hunger"*
+(16:3); **he answers in the same verb with God as subject** — *"you shall know that Yahweh has brought you
+out (hôṣîʾ)"* (16:6; WLC) — and twice asks ***"Who are we?"*** (*wənaḥnû māh*, 16:7, 8), ending
+***"Your murmurings are not against us, but against Yahweh."*** **He names the food by its giver**: *"It is
+the bread which Yahweh has given you to eat"* (16:15). **He is angry with Israel for the first time** —
+*wayyiqṣōp*, the verb of Pharaoh's anger at his officers (Genesis 40:2; WLC) — at those who kept the bread
+overnight against his word, and it *"bred worms, and became foul"* (16:20). **He announces the first
+*Sabbath* in Scripture** — *"Tomorrow is a solemn rest, a holy Sabbath to Yahweh"* (16:23) — only when the
+rulers report the double gathering; God had told him of the sixth day at 16:5, and the text does not say he
+passed it on. **God's rebuke for the Sabbath-breakers is addressed to him in the plural** — *"How long do you
+refuse …?"* (16:28). See [[Manna and Quail]].
+
 ### What is ahead
 
-The rest of the wilderness (16–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+The rest of the wilderness (17–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -356,6 +369,9 @@ sections are written as their pericopes arrive.
   Exodus 15:1–21, [[The Song of the Sea]]
 - Leads Israel from the sea into the wilderness of Shur; murmured against at Marah; cries to Yahweh, throws
   in the tree, and the water is made sweet — Exodus 15:22–27, [[Bitter Water at Marah]]
+- Murmured against with Aaron in the wilderness of Sin; redirects the complaint to God; names the manna
+  *"the bread which Yahweh has given"*; angry at the hoarders; announces the Sabbath; commands the jar kept
+  for the generations — Exodus 16:1–36, [[Manna and Quail]]
 
 ## Appears in
 
@@ -413,6 +429,9 @@ sections are written as their pericopes arrive.
   song to Yahweh"*; not named in the Song itself
 - [[Bitter Water at Marah]] — Exodus 15:22–25; **the first murmured-against.** *"Moses led Israel onward"*;
   *"The people murmured against Moses"*; *"he cried to Yahweh"*; *"he threw it into the waters"*
+- [[Manna and Quail]] — Exodus 16:2–33; **"Who are we?"** *"Your murmurings are not against us, but against
+  Yahweh"*; *"It is the bread which Yahweh has given you to eat"*; *"Moses was angry with them"*; *"Tomorrow
+  is a solemn rest, a holy Sabbath to Yahweh"*
 
 ## Related people
 

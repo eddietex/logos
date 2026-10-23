@@ -44,6 +44,8 @@ been proposed; they are reported, not checked in this pass, and none is adopted.
 
 - [[Bitter Water at Marah]] — Exodus 15:27; **twelve springs, seventy palms, and the camp *"by the
   waters"***
+- [[Manna and Quail]] — Exodus 16:1; **left behind.** *"They took their journey from Elim"*, and the next
+  stage is defined by it: *"the wilderness of Sin, which is between Elim and Sinai"*
 
 ## Related places
 
@@ -51,9 +53,10 @@ been proposed; they are reported, not checked in this pass, and none is adopted.
 - [[Shur]] — the wilderness Israel crossed to reach it
 - [[Etham]] — Numbers 33's name for that wilderness
 - [[The Red Sea]] — Numbers 33:10 has Israel camp *"by the Red Sea"* after Elim
+- [[The Wilderness of Sin]] — the next stage in Exodus, *"between Elim and Sinai"* (16:1)
 
 ## Events here
 
 - Israel camps by twelve springs and seventy palm trees — Exodus 15:27; Numbers 33:9
-- *Ahead*: Israel sets out from Elim into the wilderness of Sin, *"between Elim and Sinai"* — Exodus 16:1;
-  Numbers 33:10
+- Israel sets out from Elim into the wilderness of Sin, *"between Elim and Sinai"* — Exodus 16:1,
+  [[Manna and Quail]]; Numbers 33:10

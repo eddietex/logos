@@ -269,6 +269,10 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Egyptians"*; *"Yahweh saved Israel that day out of the hand of the Egyptians"*
 - [[Bitter Water at Marah]] — Exodus 15:26; **remembered by its diseases.** *"I will put none of the diseases
   on you, which I have put on the Egyptians"* — the first promise of the wilderness defined against Egypt
+- [[Manna and Quail]] — Exodus 16:3, 32; **remembered as a full table.** *"We wish that we had died by Yahweh's
+  hand in the land of Egypt, when we sat by the meat pots, when we ate our fill of bread"* — **a month after
+  leaving, the house of bondage is recalled as the place of bread**, and answered with *"the bread with which
+  I fed you in the wilderness, when I brought you out of the land of Egypt"*
 
 ## Related places
 
@@ -353,3 +357,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   Exodus 14:5–28, [[The Crossing of the Sea]]
 - Its diseases, *"which I have put on the Egyptians"*, promised away from an Israel that listens — Exodus
   15:26, [[Bitter Water at Marah]]
+- Remembered by the hungry congregation for its *"meat pots"* and *"our fill of bread"* — Exodus 16:3,
+  [[Manna and Quail]]

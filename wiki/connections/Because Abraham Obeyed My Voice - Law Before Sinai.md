@@ -21,6 +21,8 @@ tags: [connection]
 - **Exodus 15:26** — *"If you will diligently listen to Yahweh your God's voice, and will do that which is
   right in his eyes, and will pay attention to his commandments, and keep all his statutes"* — the first
   time the vocabulary of 26:5 is addressed to Israel — [[Bitter Water at Marah]]
+- **Exodus 16:28** — *"How long do you refuse to keep my commandments and my laws?"* — ***miṣwōtay
+  wətôrōtāy***, the exact two words of 26:5, about a Sabbath not yet written down — [[Manna and Quail]]
 - **Deuteronomy 11:1** — *"keep his instruction, his statutes, his ordinances, and his commandments,
   always"*, the idiom 26:5 uses of a man four hundred years early
 - **Romans 4:1–16; Galatians 3:15–18** — Paul's argument that the promise came by faith and before
@@ -107,6 +109,17 @@ this page describes rather than solving it.** Abraham is said to have kept comma
 him; Israel at Marah is told to keep commandments no narrative has yet given them either — **the statute
 and ordinance made at Marah are named and not stated** (15:25). **In both places the vocabulary of law
 arrives ahead of the law.** See [[Bitter Water at Marah]] and [[Law and Obedience]].
+
+### And again at the manna, word for word
+
+**Exodus 16:28 repeats two of 26:5's words exactly** — ***miṣwōtay wətôrōtāy***, *my commandments and my
+laws*, the same forms in the same order (WLC). **No other verse in Genesis or Exodus has *tôrôt* with a
+first-person suffix** (WLC lemma search, Genesis–Exodus). God says it to Moses of the people who went out
+to gather on the seventh day: *"How long do you refuse to keep my commandments and my laws?"* **The
+commandment in question is the Sabbath, which has been announced as a fact about bread (16:23–26) and will
+not be written as a commandment until 20:8–11.** **Abraham was credited with keeping laws no narrative gave
+him; Israel is rebuked for refusing laws it was given a week before Sinai's law.** The refusal verb is
+Pharaoh's — *māʾēn*, *"How long will you refuse …?"* (10:3; WLC). See [[Manna and Quail]].
 
 ## Significance
 

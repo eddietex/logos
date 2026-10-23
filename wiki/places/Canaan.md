@@ -232,6 +232,9 @@ sanctuary"* (15:17). See [[The Song of the Sea]] and
   into the land"*; the oath is sworn *"to you and to your fathers"* (13:11)
 - [[The Song of the Sea]] — Exodus 15:15–17; **its inhabitants melting.** *"All the inhabitants of Canaan have melted away"*;
   *"until your people pass over"*
+- [[Manna and Quail]] — Exodus 16:35; **where the manna ends.** *"They ate the manna until they came to the
+  borders of the land of Canaan"* — also called *"an inhabited land"* (*ʾereṣ nôšābet*, WLC), a land where
+  others already dwell; Joshua 5:12 records the day it ceased (*not yet ingested*)
 
 ## Related places
 
@@ -295,3 +298,4 @@ sanctuary"* (15:17). See [[The Song of the Sea]] and
   *"which he swore to your fathers"* — Exodus 13:5, 11, [[The Consecration of the Firstborn]]
 - Its inhabitants sung as melting away, still *"as a stone"* until Israel passes — Exodus 15:15–16,
   [[The Song of the Sea]]
+- Named as the end of the manna, forty years ahead — Exodus 16:35, [[Manna and Quail]]

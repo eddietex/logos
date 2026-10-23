@@ -66,6 +66,8 @@ Testament quotes the Leviticus sentence as a rule of conduct: *"You shall be hol
 - [[The Song of the Sea]] — Exodus 15:11, 13, 17; **holiness sung.** *"Glorious in holiness"*; *"your holy habitation"*;
   and ***miqdāš***, *"the sanctuary"*, its first occurrence in Scripture, ten chapters before *"Let them make
   me a sanctuary"* (25:8; WLC lemma search). **The holy place is praised before it is built.**
+- [[Manna and Quail]] — Exodus 16:23; ***"a holy Sabbath to Yahweh"*** — **the holy thing is a day again**, as
+  at Genesis 2:3, and this time one in every week; the first *šabbāt* in Scripture
 
 ## Related themes
 

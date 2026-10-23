@@ -12778,3 +12778,94 @@ Ezekiel, and Psalms. **WEB English from outside `raw/`** fetched one passage at 
   - `wiki/index.md`: 111 passages, 166 people, 87 places, 76 themes, 312 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 16.1-36 — Manna and Quail
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *Manna and Quail — Exodus
+16:1–36*. The boundary was kept as planned: 16:1 opens a new stage (*"They took their journey from Elim"*)
+and 17:1 the next (*"from the wilderness of Sin"*). There was no discussion step; its content is written
+into the passage page.
+
+### The passage page
+
+[[Manna and Quail]] — the wilderness of Sin and the first *Sinai* in Scripture; the second murmuring, the
+first against Moses and Aaron, with Egypt remembered as *"the meat pots"*; *"I will rain bread from the sky"*
+(the *māṭar* of the flood, Sodom, and the hail); the test *"whether they will walk in my law, or not"*; *"Who
+are we?"*; the first *kəbôd YHWH*, *"in the cloud"*; quail and dew; *"What is it?"* (*mān hûʾ*); the omer and
+*"he who gathered much had nothing over"*; the hoarded bread that *"became foul"* with the verb of the Nile;
+the first *šabbāt* and *šabbātôn*; *"How long do you refuse to keep my commandments and my laws?"* — Pharaoh's
+verb and Genesis 26:5's two nouns; *"So the people rested"*, the first time people are the subject of
+*šābat*; the name *Manna*; the jar *"before the Testimony"*; and forty years.
+
+### Judgment calls
+
+- **One new theme**, [[The Glory of God]], created at the first *kəbôd YHWH* because the cloud-and-glory pair
+  runs to the last verse of Exodus.
+- **One new place**, [[The Wilderness of Sin]] — titled so because the theme [[Sin]] holds the bare name.
+  **Sinai was not given its own page**: [[Horeb]] already lists *Sinai* as an alias and defers the decision to
+  the Sinai pericopes (19:1); the first *Sinai* is recorded there.
+- **Two new connections**: [[Bread from Heaven - The Manna and John 6]] (typology; three rows explicit in John,
+  three marked as readers' echoes) and [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
+  (quotation).
+- **No new person pages.** The rulers of the congregation and the people are collective.
+- **Left open, recorded on the page:** the order of 16:6–12 (announcement before God's promise); the sixth-day
+  rule told to Moses (16:5) and not reported passed on; the anachronisms *"before the Testimony"* (16:34) and
+  *"forty years"* (16:35); the jar *"before the Testimony"* (Exodus) against *"in the ark"* (Hebrews 9:4) and
+  *"nothing in the ark except the two stone tablets"* (1 Kings 8:9); the taste *"like wafers with honey"*
+  (16:31) against *"like the taste of fresh oil"* (Numbers 11:8). **Reported, not adopted:** the equal omer as
+  miracle or sharing; *mān* as an Aramaic or older interrogative; *məḥuspās* as *round*; *hinnîaḥ* and *nûaḥ*
+  as one root; *tôlaʿat* as named from a worm; *gulgōlet* and *Golgotha*; *golden* in Hebrews 9:4 from the
+  Greek Exodus; the daily-bread petition as an echo of 16:4.
+- **Corrected while drafting:** *ʿēdâ* in the chapter was first counted six times (it is five); *lāqaṭ* was
+  first counted eleven times (it occurs in nine verses); *qōdeš* at 16:23 was first called the first holy
+  thing given Israel since 3:5, which overlooked 12:16's *"holy convocation"* and the Song; and three words
+  first called unique in Scripture (*məḥuspās*, *ṣappîḥit*, *ṣinṣenet*) are now stated as absent from the
+  books checked and usually reported as unique.
+
+### Sources
+
+Genesis and Exodus quoted from `raw/bible/`. **Hebrew checked against the Westminster Leningrad Codex (Open
+Scriptures `morphhb`, freshly downloaded this run)**: all of Exodus 16; Genesis 19:24; 26:5; 27:28; 41:6;
+47:14; Exodus 3:11; 9:3; 10:3; 11:8; 12:6, 10; 20:11; Leviticus 1:2; Deuteronomy 2:7; 8:3; Psalm 23:1; and
+lemma searches over Genesis–Deuteronomy (Genesis–Exodus where marked) for *šabbāt*, *šabbātôn*, *šābat*,
+*lāqaṭ*, *māṭar*, *mān*, *ʿōmer*, *gulgōlet*, *ʿēdût*, *ṣinṣenet*, *gad*, *ṣappîḥit*, *təlunnōt*, *ṭal*,
+*śəlāw*, *kəpōr*, *məḥuspās*, *daq*, *māsas*, *ʿādap*, *ḥāsēr*, *mādad*, *tôlāʿ*, *rimmâ*, *bāʾaš*, *qāṣap*,
+*mišneh*, *hinnîaḥ*, *mišmeret*, *rāʿāb*, *māʾēn*, *kābôd*, *ʿānān*, *sîr*, *dəbaš*, *śābaʿ*, *tôrâ*, *miṣwâ*,
+*nāśîʾ*, *ʿēdâ*, *kāsâ*, *lābān*, *qōdeš*, *Sin*, *Sinai*, *Zin*; *ṣinṣenet*, *məḥuspās*, and *ṣappîḥit* also over
+Joshua, Nehemiah, and Psalms. **WEB English from outside `raw/`** fetched one passage at a time from
+bible-api.com (`translation=web`): Numbers 11:4–9, 31–34; 15:32–36; 33:10–14; Deuteronomy 1:28; 2:7; 8:2–3,
+16; Joshua 5:12; 1 Kings 8:9; Nehemiah 9:15, 20; Psalm 23:1; 78:24–25; 105:40; Ezekiel 1:28; Matthew 4:4; 6:11,
+34; John 6:26–27, 31–35, 41–43, 48–51, 58; 1 Corinthians 10:3; 2 Corinthians 8:13–15; Hebrews 9:4; Revelation
+2:17. No other book was fetched into `raw/`. Greek wording in John 6, 2 Corinthians 8, and the Greek Exodus
+was not checked, and every claim that would depend on it is marked at its point.
+
+### Pages created or revised
+
+- **Created (5):** the passage page; theme [[The Glory of God]]; place [[The Wilderness of Sin]];
+  connections [[Bread from Heaven - The Manna and John 6]] and
+  [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]].
+- **People revised (3):** [[God]] (a section, timeline, appears-in), [[Moses]] (a section, timeline,
+  appears-in; *What is ahead* narrowed), [[Aaron]] (a paragraph, timeline, appears-in).
+- **Places revised (4):** [[Horeb]] (the first *Sinai*), [[Elim]] (the *ahead* entry made actual), [[Egypt]],
+  [[Canaan]].
+- **Themes revised (15):** [[Murmuring]], [[Sabbath]], [[Testing]], [[Law and Obedience]],
+  [[Famine and Plenty]] (a section on the storehouse reversed), [[Providence]], [[Remembrance]], [[Holiness]],
+  [[Names and Naming]], [[The Names of God]], [[Mediation and Advocacy]], [[Wealth and Possessions]],
+  [[Slavery and Servitude]], [[Hardening of the Heart]], [[Judgment]].
+- **Connections revised (5):** [[Because Abraham Obeyed My Voice - Law Before Sinai]],
+  [[Creation as the Ground of the Sabbath Command]], [[Fire and Sulfur from the Sky]],
+  [[The Bow in the Cloud]], [[The God Who Has Fed Me - The First Time God Is a Shepherd]].
+- **Passage revised (1):** [[Bitter Water at Marah]] — its Exodus 16 cross-reference now links.
+- **Book pages:** [[Exodus]] — box checked; the 15:22–18 structure note now covers the manna; one key theme
+  and one key place added; the Horeb entry notes the first *Sinai*.
+- **Indexes:**
+  - books: Exodus 21 / 53.
+  - people: 3 rows extended.
+  - places: 1 row added, 4 rows extended.
+  - themes: 1 row added, 15 rows extended.
+  - connections: 1 row added in each of [[Connections Index A-C]] and [[Connections Index D-H]]; 5 rows'
+    references extended.
+  - `wiki/index.md`: 112 passages, 166 people, 88 places, 77 themes, 314 connections.
+
+`scripts/link-check.sh` is clean.

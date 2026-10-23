@@ -103,6 +103,17 @@ on Joseph's Egyptian marriage. See [[Wealth and Possessions]], [[Kingship and Em
 *"yielded its fruit every month"* (Revelation 22:2). **The condition Genesis 41 manages for seven years,
 the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusalem]].
 
+### Exodus 16 — the storehouse reversed
+
+**The first hunger after Egypt makes Israel remember Egypt as plenty**: *"when we sat by the meat pots, when
+we ate our fill of bread"* (Exodus 16:3). **God's answer reverses Joseph's famine policy point by point.**
+Joseph's programme stored the surplus of good years and centralized it — *"Joseph gathered up all the
+money"* into Pharaoh's house (Genesis 47:14), with the verb *lāqaṭ* (WLC). **The manna is gathered with the
+same verb, by every household, for one day; it is measured so that *"he who gathered much had nothing over,
+and he who gathered little had no lack"* (16:18); and what is stored rots** (16:20) — except on the sixth day,
+when storing is commanded and the bread keeps (16:24). **Plenty is not managed by a state; it is given daily
+and cannot be accumulated.** See [[Manna and Quail]].
+
 ## Key passages
 
 - [[Abram in Egypt]] — Genesis 12:10; **the Bible's first famine**, and the first descent to Egypt
@@ -154,6 +165,12 @@ the prophets make permanent.** See [[The Tree of Life - Eden and the New Jerusal
 - [[Out of the Whirlwind]] — Job 38:27, 39–41; **food for creatures no one feeds.** Grass made to grow on
   *"the waste and desolate ground"* (38:27); the lioness's prey; and the raven's young who *"wander for
   lack of food"* until God provides (38:41).
+- [[Manna and Quail]] — Exodus 16:3, 16–21; **hunger out of Egypt, and an economy of enough.** *"To kill this
+  whole assembly with hunger (bārāʿāb)"* — Genesis's famine word, its only use in Exodus (WLC lemma search,
+  Genesis–Exodus) — **and a reversal of Joseph's system**: where *"Joseph gathered up (lāqaṭ) all the money …
+  into Pharaoh's house"* (Genesis 47:14) and Egypt *"laid up grain"* in cities, the manna is gathered a day at
+  a time, cannot be stored, and comes out to *"no lack"* and *"nothing over"* (16:18). Kept, it *"bred
+  worms"*. See [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
 
 ## Related themes
 

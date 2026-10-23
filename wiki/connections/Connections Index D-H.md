@@ -41,7 +41,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
 | [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 |
-| [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
+| [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
@@ -63,7 +63,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[God Make You as Ephraim and as Manasseh - The Blessing Formula]] | parallel | Genesis 48:20 · Ruth 4:11–12 · Jeremiah 29:22 |
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Exodus 12:14 · Psalm 105:42 · Luke 1:72–73 |
 | [[God Sent Me Before You - The Verb That Replaces the Sale]] | theological thread | Genesis 37:28, 36 · Genesis 45:4–8 · Genesis 50:19–20 · Psalm 105:17 · Acts 7:9–10 · Acts 2:23 · Romans 8:28 |
-| [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
+| [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Exodus 16:18, 32 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
 | [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Hagar and Sarah in Galatians]] | allegory | Genesis 16:1–16 · Genesis 21:1–14 · Isaiah 54:1 · Romans 9:6–9 · Galatians 4:21–31 |
@@ -73,6 +73,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
+| [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |
