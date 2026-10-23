@@ -140,7 +140,18 @@ God as its subject. In the WLC, *ʾazkîr*, the WEB's *"record"*, carries the le
 **Israel is told to remember a day; God undertakes to make his name remembered in places**, and
 promises to come and bless there (20:24). See [[The Altar and the Hebrew Slave]].
 
+### Experience turned into obligation — Exodus 23:1–19
+
+The remembered experience of being aliens grounds protection of the alien (23:9); departure from
+Egypt in Abib grounds Unleavened Bread (23:15). Memory is thus expressed both in treatment of others
+and in an annual observance. This is a thematic comparison of the WEB passages, not a claim that
+both verses use the Hebrew verb discussed in this page's overview.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; experience turned into obligation.
 
 - [[The Waters Recede]] — *"God remembered Noah"* (8:1), the flood's hinge and the theme's first
   and defining instance

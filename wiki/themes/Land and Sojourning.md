@@ -105,7 +105,18 @@ calls it the given land without naming it. See [[The Ten Commandments]].
 *gērîm hĕyîtem*, the status Genesis 15:13 foretold (*kî-gēr yihyeh zarʿăkā*, MAM). The forbidden verb
 *lāḥaṣ* is Egypt's verb at 3:9. See [[Laws of Holiness and Compassion]] and [[The Poor and the Vulnerable]].
 
+### Knowing the alien and letting the land rest — Exodus 23:1–19
+
+Israel's experience in Egypt grounds the prohibition of oppressing an alien (23:9), and the alien is
+expressly included among those refreshed by the seventh day (23:12). The cultivation law anticipates
+fields, vineyards, and olive groves, with food left for the poor and animals in the seventh year
+(23:10–11). This is a commanded future use of land, not a report that Israel already possesses it.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; knowing the alien and letting the land rest.
 
 - [[From Shem to Abram]] — Genesis 11:31–32, the first journey toward Canaan and the first stop short
   of it

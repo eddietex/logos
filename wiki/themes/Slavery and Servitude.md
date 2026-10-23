@@ -141,7 +141,18 @@ way of paying a debt to the person robbed. The text does not say whether 21:2's 
 applies to such a sale.
 See [[Laws of Property and Restitution]].
 
+### The servant’s son refreshed — Exodus 23:1–19
+
+The seventh day is to refresh the son of the servant as well as the alien, while the ox and donkey
+rest (23:12). It places a recurring limit on a household's extraction of labor. **The shared rest
+does not cancel the servitude regulated in Exodus 21:1–11.** Protection and unequal status remain in
+the same law; neither should be erased from the synthesis.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the servant’s son refreshed.
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the vocabulary's first appearance, in a
   curse; and the history of its misuse

@@ -282,6 +282,12 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   Israel the very verbs Egypt used on it — *"for you were aliens in the land of Egypt"*, *"I will
   surely hear their cry"*, *"I am gracious"*. The unit ends on the firstborn given *"on the eighth
   day"* and *"You shall be holy men to me"*. See [[Laws of Holiness and Compassion]].
+  **Justice and the calendar follow together** (23:1–19): truthful testimony without the crowd's
+  pressure, bribes, favoritism, or denial of the poor person's rights; help for an enemy's animals;
+  protection of the alien because Israel knows alien life; a seventh year that feeds the poor and a
+  seventh day that refreshes dependents; and Unleavened Bread, Harvest, and Ingathering with their
+  offerings. The goat-and-milk prohibition closes the unit without explanation. See
+  [[Justice, Sabbaths, and Feasts]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
   Sabbath sign.
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
@@ -350,7 +356,7 @@ for unit.
 - [x] [[Laws of Violence and Injury]] — Exodus 21:12–36
 - [x] [[Laws of Property and Restitution]] — Exodus 22:1–15
 - [x] [[Laws of Holiness and Compassion]] — Exodus 22:16–31
-- [ ] Justice, Sabbaths, and Feasts — Exodus 23:1–19
+- [x] [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19
 - [ ] The Angel Sent Ahead — Exodus 23:20–33
 - [ ] The Blood of the Covenant — Exodus 24:1–18
 
@@ -384,6 +390,8 @@ for unit.
 - [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38
 
 ## Key themes
+
+- [[Festivals and First Fruits]]
 
 - [[Slavery and Servitude]]
 - [[Blessing]]

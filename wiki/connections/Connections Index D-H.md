@@ -53,7 +53,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 · Exodus 14:21–22 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 |
-| [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 · Exodus 12:48–49 |
+| [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 · Exodus 12:48–49 · Exodus 23:12 |
 | [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] | law-and-narrative | Genesis 44:8–10, 16–17 · Exodus 22:3–4 · Exodus 21:16 |
 | [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 · Galatians 3:17 |
 | [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] | law-and-narrative | Exodus 22:1 · Exodus 22:4 · 2 Samuel 12:5–6 · Luke 19:8 · Proverbs 6:30–31 |
@@ -80,6 +80,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
 | [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
+| [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]] | thematic-parallel | Exodus 23:4–5 · Proverbs 25:21–22 · Matthew 5:43–48 · Romans 12:20–21 |
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |

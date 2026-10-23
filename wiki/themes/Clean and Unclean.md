@@ -101,7 +101,19 @@ holiness, not uncleanness: *"You shall be holy men to me"*. Later law calls the 
 evening (Leviticus 17:15) — a difference recorded here and not harmonized. See
 [[Laws of Holiness and Compassion]].
 
+### The goat and its mother’s milk — Exodus 23:1–19
+
+Exodus 23:19 prohibits boiling a young goat in its mother's milk but gives no declaration of
+uncleanness or rationale. The same rule appears after first fruits in Exodus 34:26 and beside food
+and holiness laws in Deuteronomy 14:21 (verified WEB). These contexts are related without being
+identical. Neither an unnamed fertility ceremony nor a general meat-and-dairy ban is stated in the
+verses. See [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]].
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the goat and its mother’s milk.
 
 - [[Noah and the Flood]] — the distinction's first appearance in Scripture, assumed without
   definition nine centuries before Leviticus defines it

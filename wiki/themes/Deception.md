@@ -124,7 +124,18 @@ deceitfully with her"* (21:8). The verb *bāgad*, *deal treacherously*, occurs n
 Genesis–Deuteronomy (WLC lemma search). **The law names the broken arrangement as the master's
 faithlessness**, and limits what he may do because of it. See [[The Altar and the Hebrew Slave]].
 
+### Falsehood made judicial — Exodus 23:1–19
+
+The general ban on false testimony in Exodus 20:16 is developed into warnings against spreading a
+false report, joining a malicious witness, and following the crowd to pervert justice (23:1–2). The
+false charge can kill an innocent person (23:7). These laws prohibit participation in an accusation
+even when others already support it; agreement is not evidence of truth.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; falsehood made judicial.
 
 - [[Abram in Egypt]] — Genesis 12:10–20, the first deceit by a patriarch, and the half-truth as its
   characteristic form

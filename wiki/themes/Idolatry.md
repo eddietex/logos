@@ -98,7 +98,18 @@ except to Yahweh only, shall be utterly destroyed"* — *yoḥŏrām*, devoted t
 MAM 22:19). Beside it stands the sorceress, whom Israel may not *"allow … to live"* (22:18), with the
 root of Pharaoh's *"sorcerers"* (7:11). See [[Laws of Holiness and Compassion]].
 
+### Other gods not invoked — Exodus 23:1–19
+
+Between the commands on rest and the festival calendar, Exodus 23:13 requires attention to all God's
+instructions and forbids invoking other gods or letting their names be heard from the mouth. The
+three feasts that follow are addressed to Yahweh (23:14–17). The placement binds the agricultural
+calendar to exclusive allegiance rather than treating harvest as an occasion for rival worship.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; other gods not invoked.
 
 - [[Jacob's Flight from Laban]] — Genesis 31:19, 30, 34–35, 53; **the Bible's first *teraphim***,
   stolen and hidden; *"why have you stolen my gods?"*; and an oath sworn on the God of Abraham **and**

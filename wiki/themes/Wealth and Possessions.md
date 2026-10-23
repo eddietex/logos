@@ -129,7 +129,18 @@ carry no *nešek*, interest, and the lender is not to act *"as a creditor"*; a c
 comes back before sunset. **Ownership of the pledge is allowed; using it against the man's need is
 not.** See [[Laws of Holiness and Compassion]] and [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
 
+### Money cannot buy judgment; land must feed others — Exodus 23:1–19
+
+A bribe perverts judgment and is forbidden (23:8). Land, vineyard, and olive grove must cease
+cultivation in the seventh year so that the poor and animals may eat (23:10–11), while first fruits
+are brought to Yahweh's house (23:19). The owner's use of resources is limited by justice, others'
+need, and worship.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; money cannot buy judgment; land must feed others.
 
 - [[Abram in Egypt]] — the first inventory, handed over by a deceived king; *very heavy* in
   livestock, silver, and gold

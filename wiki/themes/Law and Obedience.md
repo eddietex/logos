@@ -120,7 +120,19 @@ protect: *"they cry at all to me, I will surely hear"* (22:23). **The section en
 purpose of the whole: *"You shall be holy men to me"*** (22:31). See
 [[Laws of Holiness and Compassion]].
 
+### One address for court, field, and feast — Exodus 23:1–19
+
+The ordinances require truthful testimony, impartial judgment, aid to an enemy, protection of the
+alien, interrupted cultivation, and shared rest before prescribing the festivals (23:1–19). The
+requirement to attend to all God's words (23:13) holds these subjects together. The passage reports
+legislation, not its observance, and does not permit poverty or majority opinion to substitute for a
+just verdict.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; one address for court, field, and feast.
 
 - [[Isaac in Gerar]] — Genesis 26:5; **commandments, statutes, and laws before any are given**
 - [[Joseph and the Famine]] — Genesis 47:26; **the first *ḥōq*, Egypt's**

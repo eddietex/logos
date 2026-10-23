@@ -108,7 +108,18 @@ his oath. Where evidence exists, he must bring it (22:13). The law treats an hon
 blameless for losses he could not prevent.
 See [[Laws of Property and Restitution]].
 
+### Against the crowd and the bribe — Exodus 23:1–19
+
+A witness must refuse cooperation in a malicious case and resist pressure from a multitude (23:1–2).
+The ban on bribes recognizes that those who can see can be blinded and righteous words distorted
+(23:8). Integrity therefore requires refusing the inducement, not simply confidence that a good
+character can accept it without consequence.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; against the crowd and the bribe.
 
 - [[The Second Test]] — Job 2:1–10; ***tummâ*** twice in six verses, from God and from Job's wife,
   and the test designed to find out which of them is right. **The theme's defining passage**: an

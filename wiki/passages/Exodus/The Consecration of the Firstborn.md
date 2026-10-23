@@ -330,6 +330,8 @@ a festival, not an object. The wiki adopts neither reading.
   kept
 
 ## Themes
+
+- [[Festivals and First Fruits]] — the recurring observance or produce offering developed in Exodus 23.
 - [[Birthright and the Firstborn]]
 - [[Holiness]]
 - [[Remembrance]]
@@ -344,6 +346,8 @@ a festival, not an object. The wiki adopts neither reading.
 - [[Barrenness]]
 
 ## Cross-references
+
+- Exodus 23:14–19 — [[Justice, Sabbaths, and Feasts]] and [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] carry the memorial into the annual calendar.
 - Genesis 2:3 — *"made it holy"*, the piel of *qādaš* before this one — [[The Creation of the World]]
 - Genesis 9:12–17; 17:11 — the *ʾôt* in the sky and in the flesh — [[The Bow in the Cloud]],
   [[Circumcision, the Sign of the Covenant]]

@@ -65,7 +65,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:6 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 |
 | [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] | thread | Genesis 3:6 · Genesis 39:7, 9 · Job 31:1, 7, 9 · Numbers 15:39 · 2 Samuel 11:2 · Proverbs 6:25 · Matthew 5:27–29 · 2 Peter 2:14 · 1 John 2:16 |
 | [[Coveting and Love - The Commandments in Romans 7 and 13]] | quotation | Exodus 20:13–17 · Romans 7:7–12 · Romans 13:8–10 |
-| [[Creation as the Ground of the Sabbath Command]] | quotation | Genesis 2:2–3 · Exodus 16:22–30 · Exodus 20:8–11 · Deuteronomy 5:12–15 |
+| [[Creation as the Ground of the Sabbath Command]] | quotation | Genesis 2:2–3 · Exodus 16:22–30 · Exodus 20:8–11 · Deuteronomy 5:12–15 · Exodus 23:10–12 |
 | [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] | quotation | Genesis 15:6 · Psalm 106:30–31 · Nehemiah 9:7–8 · 1 Maccabees 2:52 · Romans 4:3, 9, 22–24 · Galatians 3:6–9 · James 2:21–24 · Hebrews 11:8–19 |
 | [[The Curse of Canaan and the Conquest]] | thread | Genesis 9:25–27 · Genesis 10:15–19 · Genesis 15:16 · Leviticus 18:24–30 · Deuteronomy 9:4–5 · Joshua 9:22–27 · Judges 1:28–35 · 1 Kings 9:20–21 |
 | [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] | parallel | Job 3:1–12 · Jeremiah 20:14–18 · Job 10:18–19 · Ecclesiastes 4:2–3; 6:3–5 · Jonah 4:3, 8 · 1 Kings 19:4 · Matthew 26:24 |

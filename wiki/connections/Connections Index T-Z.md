@@ -25,6 +25,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 · Genesis 45:9 |
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |
 | [[Though He Slay Me - The Written and the Read Text of Job 13.15]] | textual-problem | Job 13:13–16 · Job 6:11 · Job 9:33 · Psalm 100:3 · Isaiah 9:3 · Isaiah 63:9 |
+| [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] | parallel | Exodus 12:14–20 · Exodus 13:3–10 · Exodus 23:14–19 · Exodus 34:18–26 · Deuteronomy 16:1–17 |
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
@@ -88,7 +89,8 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |
 | [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] | thread | Job 10:8–13 · Job 9:12 · Genesis 2:7; 3:19 · Psalm 119:73 · Psalm 139:13–16 · Isaiah 29:16; 45:9–10; 64:8 · Jeremiah 18:1–6 · Romans 9:20–21 · Job 14:15; 31:15; 33:4, 6 · Ecclesiastes 11:5 · Ezekiel 37:6–8 · Job 23:8–10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
-| [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 |
+| [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 · Exodus 23:15 |
 | [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]] | quotation | Exodus 22:28 · Acts 23:1–5 · Genesis 12:3 |
+| [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] | parallel | Exodus 23:19 · Exodus 34:26 · Deuteronomy 14:21 |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
 | [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 · Genesis 45:3–4, 16 |

@@ -1780,7 +1780,17 @@ holy men to me"* (22:31). **The self-description *ḥannûn*, *gracious*, appear
 proclamation of 34:6.** Whether 22:28 forbids blaspheming God or reviling *"the gods"* (KJV) or
 judges is left open. See [[Laws of Holiness and Compassion]].
 
+### He requires truthful judgment and shared rest — Exodus 23:1–19
+
+God refuses to justify the wicked and forbids killing the innocent through false charges (23:7). His
+commands require help even for an enemy, prohibit oppression of aliens, and order food and rest for
+the poor, dependents, and animals (23:4–12). He also claims three annual feasts and the first fruits
+(23:14–19). Social protection and exclusive worship belong to the same speech. See
+[[Justice, Sabbaths, and Feasts]].
+
 ## Timeline / key events
+
+- Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
 
 - Creates the heavens and the earth and rests on the seventh day —
   [[The Creation of the World]]
@@ -2008,6 +2018,8 @@ judges is left open. See [[Laws of Holiness and Compassion]].
 - The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
 
 ## Appears in
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; commands justice, rest, and feasts.
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
   nineteen times and says nothing**. He is sworn by, prayed to, thanked, credited, blessed, and
@@ -2432,6 +2444,8 @@ judges is left open. See [[Laws of Holiness and Compassion]].
   and are rebuked for it
 
 ## Themes associated
+
+- [[Festivals and First Fruits]] — the annual calendar and its offerings.
 
 - [[Covenant]]
 - [[Righteousness]]

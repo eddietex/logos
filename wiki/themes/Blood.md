@@ -101,7 +101,19 @@ lô dāmîm* for a thief killed while breaking in, and *dāmîm lô* once the su
 it — and the same killing can carry it or not depending on the hour. See
 [[Laws of Property and Restitution]].
 
+### Sacrificial blood and leaven — Exodus 23:1–19
+
+Exodus 23:18 prohibits offering sacrificial blood with leavened bread and leaving festival fat
+overnight. It regulates the circumstances of an offering; the verse does not explain the rule as a
+prohibition of eating blood or state a theory of atonement. Exodus 34:25 repeats the
+blood-and-leaven rule and specifically names the Passover sacrifice in its overnight instruction
+(checked in raw).
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; sacrificial blood and leaven.
 
 - [[Cain and Abel]] — the first blood in Scripture, and the first blood to cry out
 - [[The Covenant with Noah]] — the two rules that govern blood for the rest of the canon, given to

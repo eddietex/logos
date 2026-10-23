@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:15; appearance before God with an offering.
+
 - **Genesis 15:14** — *"I will also judge that nation, whom they will serve. Afterward they will come
   out with great wealth."* — [[The Covenant Between the Pieces]]
 - **Exodus 3:21–22** — *"I will give this people favor in the sight of the Egyptians, and it will
@@ -59,6 +61,13 @@ adopts none.
 **And the gold has a future.** What is put on the sons and daughters (3:22) will be given twice more in
 Exodus: **once for the golden calf** (32:2–4) **and once for the tabernacle** (35:22). Those uses are
 recorded for when the pericopes are reached.
+
+**The festival law reverses the direction of giving.** Exodus 3:21 promises that Israel will leave
+Egypt supplied; Exodus 23:15 requires that worshippers not appear before God empty. The latter
+belongs to the remembered departure in Abib and the calendar of offerings. This is a thematic
+comparison of the raw WEB, not a claim that the festival verse is a further fulfillment of the
+plunder prediction or that its offering is specifically Egyptian silver. See
+[[Justice, Sabbaths, and Feasts]].
 
 ## Significance
 

@@ -99,7 +99,19 @@ its word**, and also leaves its pressure visible, since leaving would have meant
 children who stay with the master (21:4). Deuteronomy 15:16 gives the same motive: *"because he
 loves you and your house"* (WEB). See [[The Altar and the Hebrew Slave]].
 
+### Help across enmity — Exodus 23:1–19
+
+Exodus 23:4–5 requires returning an enemy's animal and helping the donkey of someone who hates the
+hearer. The WEB here commands assistance rather than using Matthew 5:44's explicit language of
+enemy-love. The later comparison concerns an ethical continuity, not identical source-language
+wording or a claim that Matthew directly quotes this law. See
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; help across enmity.
 
 - [[The Binding of Isaac]] — Genesis 22:2; **the first occurrence of the verb in Scripture**, in the
   clause that identifies what is about to be asked for

@@ -107,7 +107,18 @@ about.
   works, and not only by faith"*. The New Testament argues with itself over the verse, using the
   same verse.
 
+### The innocent in court — Exodus 23:1–19
+
+The innocent and righteous are not to be killed through a false charge, and God refuses to justify
+the wicked (23:7). Here righteousness has a concrete judicial setting: the person whose case must
+not be corrupted. Verse 8 warns that a bribe can pervert righteous words. This is not a claim that
+an innocent litigant is sinless in every respect, or a complete account of divine forgiveness.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the innocent in court.
 
 - [[Noah and the Flood]] — *ṣaddîq*'s first occurrence in Scripture, declared of a man before he is
   shown doing anything, and restated by God at 7:1

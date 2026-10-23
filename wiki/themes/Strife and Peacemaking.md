@@ -91,7 +91,19 @@ the parties. Matthew 5:38–42's instruction to relinquish retaliation is compar
 [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].
 See [[Laws of Violence and Injury]].
 
+### Helping someone who hates you — Exodus 23:1–19
+
+The return of an enemy's animal and help for the donkey of someone who hates the hearer are required
+while the enmity is still named (23:4–5). Neither apology nor reconciliation is a condition. The law
+does not report that assistance ends the dispute; it requires an act that refuses to let hostility
+decide whether another's need matters. See
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; helping someone who hates you.
 
 - [[Cain and Abel]] — Genesis 4:1–16; the quarrel nobody stops
 - [[Seven Days of Silence]] — Job 2:11–13; **the last peace in the book of Job.** From 3:1 to 42:6

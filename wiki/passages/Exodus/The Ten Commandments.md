@@ -113,6 +113,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- Exodus 23:1–12 — [[Justice, Sabbaths, and Feasts]] develops truthful testimony and shared Sabbath rest.
+
 - Genesis 2:2–3; Exodus 16:22–30 — [[The Creation of the World]] and [[Manna and Quail]]; see
   [[Creation as the Ground of the Sabbath Command]].
 - Deuteronomy 5:1–33 — the commandments retold, with a different Sabbath rationale and an expanded

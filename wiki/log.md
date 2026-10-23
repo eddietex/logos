@@ -13617,3 +13617,67 @@ connection, not quoted, and not checked. No raw file was added or changed.
 
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
 remain the expected baseline. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 23.1-19 — Justice, Sabbaths, and Feasts
+
+Ingested [[Justice, Sabbaths, and Feasts]] in unattended mode, retaining the planned boundary.
+Exodus advances from 30 to **31 / 53** pericopes. Exactly one box was checked; the promise of the
+angel in 23:20–33 remains for the next invocation.
+
+The passage records the discussion in its summary and notes: truthful testimony, resistance to
+crowds and bribes, the paired requirements neither to favor the poor nor deny their rights, help
+for an enemy's animals, protection of the alien grounded in experience, food and refreshment
+through interrupted work, and three annual feasts with offerings. The social protections remain
+beside the servitude presupposed by the preceding laws. Festival location and participation are
+compared without harmonizing the household rite of Exodus 12 with Deuteronomy's chosen-place rule.
+The reason for the goat-and-milk prohibition remains unstated; no unverified ritual explanation is
+adopted. No new contradiction between existing pages required a separate correction.
+
+### Decisions and sources
+
+- Created [[Festivals and First Fruits]] because Exodus 23 now gathers a recurring calendar and
+  produce offerings already present in Exodus 12, 13, and 22. Backlinked those earlier passages.
+- The witnesses, litigants, enemy, alien, servant's son, and male worshippers are categories in
+  law, not additional named people. No person page was created. The house of Yahweh is not assigned
+  an unprovided location or equated with Jerusalem; no new place page was created.
+- All nineteen passage verses were copied from existing `raw/bible/Exodus.md`; a comparison after
+  layout changes confirmed every verse against the raw text, normalizing whitespace only.
+- Local WEB comparisons were read in Exodus 3:21; 12:14–20; 13:3–10; 20:8–11, 16, 22–24;
+  21:1–11; 22:21–30; and 34:18–26. The different WEB festival labels in 23:16 and 34:22 are recorded
+  explicitly, alongside the seasonal descriptions.
+- Retrieved and verified short WEB ranges from bible-api.com with `translation=web` on
+  2026-10-23: Proverbs 25:21–22, Matthew 5:43–48, Romans 12:20–21, Leviticus 25:1–7,
+  Deuteronomy 16:1–17, and Deuteronomy 14:21. Later units remain un-ingested but the comparisons
+  are verified. No raw file was added or changed. No new claim about exact Hebrew or Greek wording
+  was made.
+
+### Pages created or revised
+
+- **Created (6):** the passage, [[Festivals and First Fruits]], and four connections:
+  [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]],
+  [[The Seventh Year's Food - Exodus 23 and Leviticus 25]],
+  [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]], and
+  [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]].
+- **Existing content pages revised (33):** [[Exodus]]; [[God]] and [[Moses]]; [[Egypt]] and
+  [[Horeb]]; twenty-one themes (listed below); three existing connections
+  ([[Creation as the Ground of the Sabbath Command]],
+  [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]], and
+  [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]); and four earlier passages
+  ([[The Passover]], [[The Consecration of the Firstborn]], [[The Ten Commandments]], and
+  [[Laws of Holiness and Compassion]]).
+- **Themes revised (21):** [[Judgment]], [[Righteousness]], [[Integrity]],
+  [[Language and Speech]], [[Deception]], [[Compassion and Mercy]], [[Strife and Peacemaking]],
+  [[Love]], [[Land and Sojourning]], [[Remembrance]], [[Sabbath]], [[Work]],
+  [[Slavery and Servitude]], [[Wealth and Possessions]], [[Sacrifice and Offering]], [[Blood]],
+  [[Idolatry]], [[Clean and Unclean]], [[Law and Obedience]], [[Covenant]], and
+  [[The Poor and the Vulnerable]]. Each has a synthesis update and a passage entry.
+- **Bookkeeping revised (10):** the book and top-level indexes; people F–M, places, and themes;
+  connection subindexes A–C, D–H, O–S, and T–Z; and this log. Thus **43 existing pages revised**
+  including bookkeeping. All category pages have exactly one index row; connection rows are sorted
+  in their proper ranges. Connection subindex sizes are 58, 76, 66, 60, and 83; no range change.
+- **Totals by frontmatter type:** 122 passages, 169 people, 90 places, 80 themes, 343 connections;
+  3 books started, 2 complete. No passage title collision was found.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; 63 not-yet-started book pages
+remain the expected baseline. No schema, skill, harness, or controller files were changed.
+No operational blocker remains.

@@ -197,7 +197,18 @@ wiki records both readings and does not choose between a sanctuary procedure and
 A keeper's case without a witness is settled by *"the oath of Yahweh"* (22:11).
 See [[Laws of Property and Restitution]].
 
+### Truth without partiality — Exodus 23:1–19
+
+The commands prohibit malicious witnesses, a verdict bent by a crowd, favoritism toward a poor
+litigant, denial of the poor person's rights, and bribes (23:1–8). Verses 3 and 6 are complementary
+restraints: poverty is neither a warrant to distort judgment nor a reason to withhold justice. God's
+refusal to justify the wicked (23:7) grounds the prohibition of a lethal false charge.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; truth without partiality.
 
 - [[The Fall]] — the first judgment scene, and the template
 - [[The Wager in Heaven and the Four Messengers]] — a court in session with a prosecutor in it and

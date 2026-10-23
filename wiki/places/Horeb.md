@@ -86,7 +86,13 @@ God"* in 22:8 does not identify a location. See [[Laws of Property and Restituti
 **The ordinances on the vulnerable and on holiness continue there with no place named**
 (22:16–31). See [[Laws of Holiness and Compassion]].
 
+**The instructions on justice, rest, and feasts continue the Sinai address** (23:1–19). The mountain
+is not named in this unit. The fields and Yahweh's house anticipated in the commands are not
+identified as features of this mountain camp. See [[Justice, Sabbaths, and Feasts]].
+
 ## Appears in
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
 
 - [[The Burning Bush]] — Exodus 3:1, 12; **"God's mountain"**, where Moses turns aside to see the bush,
   is told to take off his sandals on holy ground, and is given the sign that Israel will serve God
@@ -124,6 +130,8 @@ God"* in 22:8 does not identify a location. See [[Laws of Property and Restituti
 - [[Massah and Meribah]] — the name given to the place of the water (17:7)
 
 ## Events here
+
+- Laws of justice, shared rest, and feasts received in the continuing address — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
 
 - The burning bush; the call of Moses; the name *ʾehyeh ʾăšer ʾehyeh* — Exodus 3:1–4:17
 - Aaron meets Moses *"on God's mountain"* and kisses him — Exodus 4:27, [[Moses Returns to Egypt]]

@@ -98,7 +98,19 @@ before sunset because *"it is his garment for his skin. What would he sleep in?"
 34:6 will make God's name. **The adjective is first heard as the reason a creditor returns a
 coat.** See [[Laws of Holiness and Compassion]].
 
+### Help, food, and refreshment — Exodus 23:1–19
+
+Mercy becomes a positive duty toward an enemy's wandering or overburdened animal (23:4–5). The alien
+is protected because Israel knows alien life (23:9); the poor eat from the seventh year's
+uncultivated land (23:11); and dependents and working animals receive rest (23:12). These provisions
+do not wait for friendship or a request for pity. See
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; help, food, and refreshment.
 
 - **Genesis 43:14** — [[The Second Journey]]; *raḥămîm* asked for
 - **Genesis 43:29** — [[The Second Journey]]; *ḥānan* spoken over Benjamin

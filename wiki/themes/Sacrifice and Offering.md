@@ -123,7 +123,19 @@ outflow of your presses"* — Hebrew *məlēʾātəkā wədimʿăkā*, literally
 which the WEB and the Septuagint both interpret as produce of field and press. The same verses give
 the firstborn of sons and of animals to God. See [[Laws of Holiness and Compassion]].
 
+### Feasts, first fruits, and limits — Exodus 23:1–19
+
+Three annual feasts require appearance before Yahweh; nobody is to appear empty (23:14–17). Blood is
+not offered with leavened bread, festival fat does not remain overnight, and the first of the first
+fruits is brought to God's house (23:18–19). The goat-and-milk prohibition follows with no
+explanation. See [[Festivals and First Fruits]] and
+[[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]].
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; feasts, first fruits, and limits.
 
 - [[Cain and Abel]] — the first offerings, and the first refusal
 - [[Cain and Abel in the New Testament]] — Hebrews 11:4 on Abel's sacrifice as the first act of

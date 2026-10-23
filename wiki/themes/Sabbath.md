@@ -65,7 +65,19 @@ the seventh year a Sabbath, nor say whether it counts from the purchase or is co
 Leviticus 25 develops a sabbatical year for the land and the Jubilee separately; this page does not
 merge them. See [[The Altar and the Hebrew Slave]].
 
+### Rest for the field and refreshment for dependents — Exodus 23:1–19
+
+The six-and-seven pattern now governs cultivation and the working week side by side (23:10–12). The
+seventh year's produce feeds the poor, then the animals; the seventh day refreshes working animals,
+the servant's son, and the alien. This social purpose complements the creation rationale in 20:11.
+The cultivation cycle is not expressly synchronized with the individual servant's release in 21:2.
+See [[The Seventh Year's Food - Exodus 23 and Leviticus 25]].
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; rest for the field and refreshment for dependents.
 
 - [[The Creation of the World]]
 - [[The Waters Recede]] — the flood's one surviving human rhythm: *"He waited yet another seven

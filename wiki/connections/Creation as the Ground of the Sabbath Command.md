@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:10–12, rest for the field and refreshment for dependents.
+
 - [[The Creation of the World]] — Genesis 2:2–3.
 - [[Manna and Quail]] — Exodus 16:22–30, Sabbath practiced before the Sinai speech.
 - [[The Ten Commandments]] — Exodus 20:8–11.
@@ -47,6 +49,13 @@ rest.
 Deuteronomy verified 2026-10-23 from bible-api.com's WEB, request `Deuteronomy
 5:1-33?translation=web`. Earlier lexical first-occurrence claims are not needed for this comparison
 and are not repeated without a source-language check.
+
+**The social purpose is now explicit in Exodus itself.** Exodus 23:12 names rest for the ox and
+donkey and refreshment for the servant's son and the alien. The preceding cultivation rule makes the
+seventh year's produce available to the poor and animals (23:10–11). These provisions complement
+20:11's creation rationale and guard against treating social concern as exclusive to Deuteronomy.
+See [[Justice, Sabbaths, and Feasts]] and [[The Seventh Year's Food - Exodus 23 and Leviticus 25]].
+These Exodus verses were checked in raw WEB on 2026-10-23.
 
 ## Significance
 

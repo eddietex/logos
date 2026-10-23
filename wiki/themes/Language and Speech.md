@@ -100,7 +100,18 @@ ruler of your people."* Paul quotes the second half before the high priest, in t
 wording, *"You shall not speak evil of a ruler of your people"* (Acts 23:5). See
 [[Laws of Holiness and Compassion]] and [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]].
 
+### False reports and other gods — Exodus 23:1–19
+
+False reports, malicious testimony, and testimony shaped by the crowd are prohibited (23:1–2, 7–8).
+Speech can deprive another person of justice and even life. Verse 13 also forbids invoking other
+gods. The same continuing address regulates what is said in a dispute and what is invoked in
+worship.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; false reports and other gods.
 
 - [[The Second Test]] — **one passage, three separate things done with words.** *Bārak* used twice
   more to mean its opposite (2:5, 2:9), so that the prologue's most loaded verb has now inverted

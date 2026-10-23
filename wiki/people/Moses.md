@@ -383,7 +383,16 @@ first person about the alien, the widow, the fatherless, and the poor. The Moses
 *"You shall not wrong an alien … for you were aliens in the land of Egypt"* (22:21); the text does
 not connect the two. See [[Laws of Holiness and Compassion]].
 
+### Receives the laws of justice and the calendar — Exodus 23:1–19
+
+Moses remains the recipient of the address begun in 20:22 and the ordinances introduced in 21:1. He
+is not named or given a new action in this unit. What he is to transmit now covers truthful courts,
+assistance to enemies, protection of aliens, rest, and three annual feasts. See
+[[Justice, Sabbaths, and Feasts]].
+
 ## Timeline / key events
+
+- Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
 
 - Born to a man and a daughter of the house of Levi, under Pharaoh's decree; hidden three months —
   Exodus 2:1–2, [[The Birth of Moses]]
@@ -478,6 +487,8 @@ not connect the two. See [[Laws of Holiness and Compassion]].
 - The ordinances on the vulnerable, the firstborn, and holiness — Exodus 22:16–31; [[Laws of Holiness and Compassion]]
 
 ## Appears in
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; receives the continuing address by context.
 
 - [[The Birth of Moses]] — Exodus 2:1–10; **born, hidden, put into the river in an ark, drawn out,
   nursed by his mother, adopted, and named.** His one act is to cry (2:6)
@@ -578,6 +589,8 @@ not connect the two. See [[Laws of Holiness and Compassion]].
 - [[Eliezer (son of Moses)]] — his second son, *"My father's God was my help"* (18:4)
 
 ## Themes associated
+
+- [[Festivals and First Fruits]] — the annual calendar and its offerings.
 
 - [[Providence]]
 - [[Life and Death]]

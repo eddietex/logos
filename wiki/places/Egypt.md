@@ -82,7 +82,13 @@ you were aliens in the land of Egypt"* (Exodus 22:21). The verbs Israel is forbi
 *oppress*, and *ʿinnâ*, *afflict* — are the verbs used of Egypt's treatment of Israel (3:9; 1:11;
 MAM). **Israel's memory of Egypt is made into a duty not to be Egypt.** See [[Laws of Holiness and Compassion]].
 
+**Egypt supplies two reasons for observance in Exodus 23.** Knowing the life of an alien there
+grounds the prohibition of oppression (23:9); departure in Abib grounds Unleavened Bread (23:15).
+Egypt is recalled, not revisited, in [[Justice, Sabbaths, and Feasts]].
+
 ## Appears in
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; remembered alien status and departure in Abib.
 
 - [[The Table of Nations]] — Genesis 10:6 as Ham's second son, 10:13–14 with seven descendants
 - [[Abram in Egypt]] — Genesis 12:10–20, its first appearance as a place where anything happens

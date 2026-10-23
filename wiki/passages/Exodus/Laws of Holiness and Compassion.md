@@ -97,6 +97,8 @@ but *"cast it to the dogs"* (22:31).
 
 ## Themes
 
+- [[Festivals and First Fruits]] — the recurring observance or produce offering developed in Exodus 23.
+
 - [[Holiness]] — *"You shall be holy men to me"* (22:31), the first time the ordinances name their
   purpose.
 - [[The Poor and the Vulnerable]] — **new page.** The alien, widow, fatherless, and poor borrower
@@ -157,7 +159,7 @@ but *"cast it to the dogs"* (22:31).
   *(not yet ingested)*.
 - Exodus 11:7 — the dog that would not move its tongue against Israel:
   [[The Last Plague Announced]].
-- Exodus 23:1–19 — the next unit, on false report, justice in court, Sabbath years, and the feasts.
+- Exodus 23:1–19 — [[Justice, Sabbaths, and Feasts]], continuing the protection of the poor and alien and the offering of produce.
   Its page is written when that pericope is ingested.
 
 ## Notes

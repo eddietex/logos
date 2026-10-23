@@ -60,10 +60,15 @@ together.** Three features define the theme from here on:
   *"for I am gracious"* (22:27). See
   [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
 
-The next unit continues the subject in the courtroom and the field: *"You shall not deny justice to
-your poor people in their lawsuits"* (23:6); *"you know the heart of an alien"* (23:9); and the
-seventh year's fallow land is left *"that the poor of your people may eat"* (23:11). Those verses
-belong to the next ingest and are noted here so the thread is not lost.
+### Justice and access to food — Exodus 23:1–19
+
+The poor must neither be favored simply for being poor nor denied justice (23:3, 6). Their
+protection therefore includes a truthful verdict as well as relief. The seventh year's fallow
+produce is food for them, with the remainder for animals (23:10–11); the alien is protected by
+remembered experience and refreshed by weekly rest (23:9, 12). Provision and impartiality are both
+required.
+
+See [[Justice, Sabbaths, and Feasts]].
 
 ### Later law and the prophets (not yet ingested)
 
@@ -73,6 +78,8 @@ in pledge"* (Amos 2:8). These are recorded from the WEB, fetched individually, a
 when the books are ingested.
 
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; justice and access to food.
 
 - [[The Covenant Between the Pieces]] — Genesis 15:13; Abram's offspring as aliens, afflicted
 - [[Judah and Tamar]] — Genesis 38:11, 14; a widow left without the protection owed her

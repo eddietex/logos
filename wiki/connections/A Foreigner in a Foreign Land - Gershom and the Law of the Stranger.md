@@ -18,7 +18,7 @@ tags: [connection]
 - **Exodus 22:21** — *"You shall not wrong an alien or oppress him, for you were aliens in the land of
   Egypt."* — [[Laws of Holiness and Compassion]]
 - **Exodus 23:9** — *"You shall not oppress an alien, for you know the heart of an alien, since you
-  were aliens in the land of Egypt."*
+  were aliens in the land of Egypt."* — [[Justice, Sabbaths, and Feasts]]
 - **Leviticus 19:34** — *"The stranger who lives as a foreigner with you shall be to you as the
   native-born among you, and you shall love him as yourself; for you lived as foreigners in the land
   of Egypt."*
@@ -79,6 +79,12 @@ hĕyîtem bəʾereṣ miṣrāyim* (MAM 22:20): *lāḥaṣ*, *oppress*, is the 
 which the Egyptians oppress them"*, and the next verse's *ʿinnâ*, *afflict*, is the verb of Genesis
 15:13 and Exodus 1:11. **The *gēr* of Genesis 15:13 and of Gershom's name becomes the person Israel
 must not do Egypt's work on.** See [[Laws of Holiness and Compassion]].
+
+**The ingested unit now joins known experience to required rest.** Exodus 23:9 appeals to knowledge
+of the alien's heart; 23:12 makes the alien a beneficiary of the seventh day's refreshment.
+Protection includes the organization of ordinary work, not only a ban on direct oppression. See
+[[Justice, Sabbaths, and Feasts]]. These observations use the raw WEB; no additional claim about
+the Hebrew wording is made.
 
 ## Significance
 

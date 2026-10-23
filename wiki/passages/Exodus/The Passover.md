@@ -430,6 +430,8 @@ land.** The wiki records both and adopts neither.
 - [[Canaan]] — *"the land which Yahweh will give you"* (12:25), where the rite is to be kept
 
 ## Themes
+
+- [[Festivals and First Fruits]] — the recurring observance or produce offering developed in Exodus 23.
 - [[Sacrifice and Offering]]
 - [[Blood]]
 - [[Remembrance]]
@@ -448,6 +450,8 @@ land.** The wiki records both and adopts neither.
 - [[Creation]]
 
 ## Cross-references
+
+- Exodus 23:14–19 — [[Justice, Sabbaths, and Feasts]] and [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] carry the memorial into the annual calendar.
 - Genesis 1:14 — the lights *"for signs, and for seasons"* — [[The Creation of the World]]
 - Genesis 6:9; 17:1 — *tāmîm* of Noah and Abram
 - Genesis 6:13; 19:13 — *šāḥat*, the flood and Sodom's destroyers —

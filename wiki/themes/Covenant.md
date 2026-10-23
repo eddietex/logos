@@ -183,7 +183,18 @@ See [[Laws of Property and Restitution]].
 *"my people"*, and ends the unit with *"You shall be holy men to me"* (22:31), the law's form of
 19:6's *"a holy nation"*. See [[Laws of Holiness and Compassion]].
 
+### Obligations through the whole year — Exodus 23:1–19
+
+Justice, assistance, agricultural rest, and annual worship belong to one continuing covenant address
+(23:1–19). Exclusive allegiance in 23:13 connects the social ordinances with feasts owed to God.
+Ratification remains ahead in Exodus 24; these instructions do not report a covenant ceremony or
+prove that the community already follows the calendar.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; obligations through the whole year.
 
 - [[Noah and the Flood]] — *bərît*'s first occurrence, offered inside the announcement of universal
   death and before the water comes

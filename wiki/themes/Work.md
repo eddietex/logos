@@ -81,7 +81,18 @@ says he bore the loss this law exempts (Genesis 31:39). See
 [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]].
 See [[Laws of Property and Restitution]].
 
+### A limit on production — Exodus 23:1–19
+
+Six years of sowing are followed by uncultivated land whose produce feeds others (23:10–11), and six
+days of work by rest for animals and dependents (23:12). Harvest and Ingathering then make the yield
+of labor an occasion of worship (23:16). The field is both a source of offerings and a source of
+food the owner must leave accessible.
+
+See [[Justice, Sabbaths, and Feasts]].
+
 ## Key passages
+
+- [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; a limit on production.
 
 - [[The Garden of Eden]] — the man placed in the garden to cultivate and keep it, and the naming
   of the animals
