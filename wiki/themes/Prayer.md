@@ -253,6 +253,11 @@ already did.
   I do with these people? They are almost ready to stone me'"* — his third *ṣāʿaq* (8:12 WEB; 15:25; WLC), and
   the first that asks what to do; answered with a command and a promise, *"I will stand before you there on
   the rock"*
+- [[The Battle with Amalek]] — Exodus 17:11; **a gesture the text does not call prayer.** *"When Moses held up his
+  hand, Israel prevailed. When he let down his hand, Amalek prevailed."* **No word to God is recorded and no
+  *ṣāʿaq*, though Moses cried to God at the rock** (17:4). The raised hand has been widely read
+  as prayer; the text says only that the hand held *"God's rod"* (17:9). **The only words addressed toward God in
+  the pericope are an altar's name**, *Yahweh our Banner* (17:15)
 
 ## Related themes
 

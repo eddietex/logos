@@ -12963,3 +12963,99 @@ Numbers 14:10; 27:14; Psalm 91; Luke 4:9–12 are given by reference only. No ot
   - `wiki/index.md`: 113 passages, 166 people, 90 places, 77 themes, 316 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 17.8-16 — The Battle with Amalek
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *The Battle with Amalek — Exodus
+17:8–16*. The boundary was kept as planned: 17:8 opens a new event in the camp of the water from the rock, and
+18:1 opens the next (*"Now Jethro … heard"*). There was no discussion step; its content is written into the
+passage page.
+
+### The passage page
+
+[[The Battle with Amalek]] — the first human enemy to fight Israel, with no reason given; Joshua, unintroduced
+and the name's first appearance in Scripture; *"Choose men for us"*; Moses' *niṣṣāb* against God's *ʿōmēd* at the
+rock; *"God's rod"* (as at 4:20); the raised hand (*rûm*, the verb of the sea) and three readings of it, none
+adopted; *gābar*, the flood's *prevailed*; *nûaḥ*, the hand at *rest*; the hands *kəbēdîm*, *heavy*, as Moses'
+mouth and Pharaoh's heart, and Aaron and Hur as his hands where Aaron had been his mouth; *tāmak*, otherwise only
+Joseph holding up Jacob's hand; ***ʾĕmûnâ***, *"steady"*, its first occurrence; *ləpî-ḥāreb*, the phrase of
+Shechem; **the first *kātab* in Scripture**; *zikkārôn*, *bassēper*, and Joshua's ears; *māḥâ*, the flood's verb,
+and its return at the calf with *book* and *write*; *zēker* against God's *zikrî … lədōr dōr* (3:15); the first
+altar in Exodus, *YHWH nissî*; and the obscure *kî-yād ʿal-kēs yāh*, with a table of three readings.
+
+### Judgment calls
+
+- **Two new people.** **[[Joshua (son of Nun)]]**, qualified by his patronymic rather than `(person)`: the
+  patronymic disambiguates him both from the book [[Joshua]] and from the later Joshuas (the high priest of
+  Haggai and Zechariah), so per `AGENTS.md` no bare collision arises. **[[Hur (companion of Moses)]]**,
+  qualified by role because Exodus gives him no father, and the Hur of 31:2 (Bezalel's grandfather) may or may
+  not be the same man, while the Hur of Numbers 31:8 certainly is not.
+- **Two new connections**: [[Joshua and Jesus - One Name]] (typology — the shared Greek *Iēsous*; Hebrews 4:8 as
+  contrast; the fuller typology reported as later) and [[Blot Out - The Flood, Amalek, and God's Book]] (thread —
+  *māḥâ* from the flood, which the WEB renders *destroy*, to Exodus 17:14, 32:32–33, Deuteronomy 9:14; 25:19;
+  29:20, and Psalm 69:28).
+- **No new place.** *"The top of the hill"* is unnamed; the altar's name went to [[The Names of God]], as earlier
+  named altars did.
+- **Flagged at the point of quotation:** the WEB's *"Yahweh our Banner"* renders Hebrew *nissî*, *my banner*;
+  the WEB's *"Yah has sworn"* interprets an obscure clause, so [[Oaths and Vows]] records an oath *perhaps*.
+- **Recorded, not harmonized:** Exodus's pitched battle against Deuteronomy 25:18's attack on the stragglers;
+  God's *ʾemḥeh*, *I will blot out*, against Israel's *timḥeh*, *you shall* (Deuteronomy 25:19).
+- **Reported, not adopted:** prayer, signal, or rod as the meaning of the raised hand; *nissî* as explaining it;
+  the readings of *kēs*; which *book*; why Joshua's ears; *nûaḥ* in 17:11 and Deuteronomy 25:19 as an echo; Hur
+  as Bezalel's grandfather. **Not checked and not quoted:** Mishnah Rosh Hashanah 3:8; the Jewish traditions
+  about Hur; patristic Joshua–Jesus typology.
+- **Corrected on existing pages:** [[Amalek]] called 17:16 *"the only oath of its kind in Scripture"*, which
+  rests on the WEB's interpretation and was never checked; now qualified.
+  [[Amalek - From a Concubine's Son to Israel's First Enemy]] called Deuteronomy 25:18 *"the only place the
+  Bible gives a reason for a ḥērem"*; Deuteronomy 25 uses *māḥâ*, not *ḥāram* (which first appears against
+  Amalek at 1 Samuel 15:3; WLC), so the sentence and the matching Significance bullet were rewritten, with a
+  dated correction note on the page.
+- **Corrected while drafting:** Genesis 49:26 quoted as *"everlasting hills"* (the WEB has *"ancient hills"*);
+  *māḥâ* in Genesis first counted as three occurrences (it is three verses, twice in 7:23); a comparison with
+  Abram's renaming dropped as inexact; *"without consulting God"* narrowed to *"with no recorded word from God"*;
+  five wikilinks pointed at Genesis passage titles that do not exist were corrected to the real titles.
+
+### Sources
+
+Genesis and Exodus quoted from `raw/bible/`. **Hebrew checked against the Westminster Leningrad Codex (Open
+Scriptures `morphhb`, freshly downloaded this run: Genesis–Deuteronomy, Joshua, Judges, 1–2 Samuel,
+1 Chronicles, Esther, Psalms, Isaiah, Jeremiah, Habakkuk)**: all of Exodus 17; Exodus 3:15; 4:10, 20; 14:8;
+24:13; 32:32–33; 33:11; Genesis 5:1; 6:17; 7:4, 23; 34:26; 48:17; Numbers 13:16; 21:8; 24:20; Deuteronomy 9:14;
+25:17–19; 29:19; 32:4; 1 Samuel 15:2–3; 1 Chronicles 2:19–20; Psalm 69:29; Habakkuk 2:4; and lemma searches
+over Genesis–Deuteronomy (Exodus or Genesis–Exodus where marked) for *ʾĕmûnâ*, *kātab*, *sēper*, *māḥâ*,
+*zikkārôn*, *zēker*, *nēs*, *kēs*, *tāmak*, *gābar*, *ḥālaš*, *gibʿâ*, *yəhôšuaʿ*, *ḥûr*, *mizbēaḥ*, *nāṣab*,
+*nûaḥ*, *rûm*, *kābēd*, *milḥāmâ*, *lāḥam*, *yāšaʿ*, *yəšûʿâ*, *zākar*, *Yāh*; *kēs*, *sēper*, *zēker* over all the
+books listed. **Greek checked against the SBLGNT (MorphGNT, freshly downloaded this run)**: Matthew 1:21; Acts
+7:45; Hebrews 4:8. **WEB English from outside `raw/`** fetched one passage at a time from bible-api.com
+(`translation=web`): Numbers 11:28; 13:8, 16; 21:8–9; 24:20; 27:18; Deuteronomy 9:14; 25:17–19; 29:20; 32:4;
+34:9; 1 Samuel 15:2–3; 1 Chronicles 2:19–20; Esther 3:1; Psalm 69:28; Habakkuk 2:4; Matthew 1:21; Acts 7:45;
+Hebrews 4:8. Deuteronomy 31:7 and Revelation 3:5 are given by reference only. No other book was fetched into
+`raw/`.
+
+### Pages created or revised
+
+- **Created (5):** the passage page; people [[Joshua (son of Nun)]] and [[Hur (companion of Moses)]];
+  connections [[Joshua and Jesus - One Name]] and [[Blot Out - The Flood, Amalek, and God's Book]].
+- **People revised (4):** [[God]] (a section, timeline, appears-in), [[Moses]] (a paragraph, timeline,
+  appears-in, related), [[Aaron]] (a paragraph, timeline, appears-in, related), [[Amalek]] (the Exodus bullet
+  corrected, timeline, appears-in, related).
+- **Places revised (1):** [[Rephidim]] (a paragraph; the *ahead* entries made actual).
+- **Themes revised (13):** [[War]] (a development bullet and a key passage), [[Remembrance]], [[Faith]],
+  [[Mediation and Advocacy]], [[Prayer]], [[The Names of God]], [[Names and Naming]], [[Oaths and Vows]],
+  [[Judgment]], [[Vengeance]], [[The Nations]], [[Sacrifice and Offering]], [[Signs and Wonders]].
+- **Connections revised (2):** [[Amalek - From a Concubine's Son to Israel's First Enemy]] (an Exodus 17 section;
+  the *ḥērem* correction), [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] (a pointer to
+  the Joshua connection).
+- **Passages revised (1):** [[Water from the Rock]] — its Exodus 17:8–16 reference now links.
+- **Book pages:** [[Exodus]] — box checked; the 15:22–18 structure note now covers the battle; three key people
+  and one key theme added.
+- **Indexes:**
+  - books: Exodus 23 / 53.
+  - people: 2 rows added in [[People Index F-M]]; 4 rows extended.
+  - places: 1 row extended.
+  - themes: 13 rows extended.
+  - connections: 1 row added in each of [[Connections Index A-C]] and [[Connections Index I-N]].
+  - `wiki/index.md`: 114 passages, 168 people, 90 places, 77 themes, 318 connections.
+
+`scripts/link-check.sh` is clean.

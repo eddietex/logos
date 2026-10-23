@@ -307,6 +307,18 @@ stands on, *"in the sight of the elders of Israel"*, and the place is named *Mas
 WEB; *not yet ingested*). See [[Water from the Rock]] and
 [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]].
 
+**In the same camp he fights his first battle, and fights it with his hands.** *"Then Amalek came"* (17:8), and
+Moses, with no recorded word from God, gives orders to a man the text has never named: *"Joshua, … Choose men for us, and
+go out, fight with Amalek. Tomorrow I will stand on the top of the hill with God's rod in my hand"* (17:9).
+***"When Moses held up his hand, Israel prevailed. When he let down his hand, Amalek prevailed"*** (17:11). **His
+hands become *kəbēdîm*, *heavy*** — the word of his *"heavy"* mouth at the bush (4:10) and of Pharaoh's heart
+(7:14) (WLC) — **and, as Aaron once became his mouth, Aaron and Hur become his hands**: they sit him on a stone
+and hold them up *"until sunset"*, and his hands are ***ʾĕmûnâ***, *"steady"*, the word's first occurrence in
+Scripture (17:12; WLC). **Then he is the first person in Scripture told to write** (17:14; WLC), and he builds
+the first altar in Exodus and names it ***YHWH nissî***, *"Yahweh our Banner"* (17:15; Hebrew *my banner*).
+**The next chapter repeats the word**: Jethro tells him *"the thing is too heavy for you"* (18:18; *not yet
+ingested*). See [[The Battle with Amalek]].
+
 ### What is ahead
 
 The rest of the wilderness (17–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
@@ -390,6 +402,9 @@ sections are written as their pericopes arrive.
 - Quarreled with at Rephidim; *"Why do you test Yahweh?"*; nearly stoned; cries to Yahweh; strikes the rock in
   Horeb with the rod, before the elders; the place named Massah and Meribah — Exodus 17:1–7,
   [[Water from the Rock]]
+- Sends Joshua against Amalek at Rephidim; holds up God's rod on the hill; his hands held up by Aaron and Hur
+  until sunset; told to write the memorial in a book; builds an altar and names it *Yahweh our Banner* — Exodus
+  17:8–16, [[The Battle with Amalek]]
 
 ## Appears in
 
@@ -453,6 +468,9 @@ sections are written as their pericopes arrive.
 - [[Water from the Rock]] — Exodus 17:2–7; **"Why do you test Yahweh?"** *"They are almost ready to stone me"*;
   *"Walk on before the people"*; *"the rod … with which you struck the Nile"*; *"Moses did so in the sight of
   the elders of Israel"*
+- [[The Battle with Amalek]] — Exodus 17:9–16; **the raised hand.** *"Tomorrow I will stand on the top of the hill
+  with God's rod in my hand"*; *"When Moses held up his hand, Israel prevailed"*; *"Moses' hands were heavy"*;
+  *"Write this for a memorial in a book"*; *"Moses built an altar, and called its name Yahweh our Banner"*
 
 ## Related people
 
@@ -473,6 +491,8 @@ sections are written as their pericopes arrive.
 - [[Korah (son of Izhar)]] — his first cousin (6:21)
 - [[Elisheba]] — his sister-in-law (6:23)
 - [[Pharaoh's Servants (of the Exodus)]] — who call him *"a snare"* (10:7)
+- [[Joshua (son of Nun)]] — the commander he sends against Amalek (17:9), later his servant and successor
+- [[Hur (companion of Moses)]] — who holds up one of his hands (17:12)
 
 ## Themes associated
 

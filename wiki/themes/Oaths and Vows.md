@@ -212,6 +212,11 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   children of Israel swear"* — *hašbēaʿ hišbîaʿ*, doubled, where Genesis 50:25 had the single *wayyašbaʿ*,
   and the oath gains *ʾittəkem*, *"with you"* (WLC). See
   [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
+- [[The Battle with Amalek]] — Exodus 17:16; **an oath, perhaps.** The WEB's *"Yah has sworn"* renders *kî-yād
+  ʿal-kēs yāh*, literally *for a hand upon the kēs of Yah* (WLC); ***kēs*** is otherwise unattested in the books
+  checked and is usually read as *throne*, with the raised hand as the oath gesture. **Other readings make it
+  Amalek's hand against God's throne, or emend *kēs* to *nēs*, *banner*.** The wiki records that the oath is the
+  WEB's interpretation and adopts no reading
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:1, 14–15; **the *neder* of 28:20–22

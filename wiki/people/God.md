@@ -1691,6 +1691,22 @@ tempt Yahweh your God, as you tempted him in Massah"*, Deuteronomy 6:16) and mak
 names (Deuteronomy 32:4; WLC). See [[Water from the Rock]], [[Testing]], and
 [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]].
 
+### He gives a victory to a raised hand, and orders the first writing — Exodus 17:8–16
+
+**He does not speak until the battle is over.** Amalek attacks, Moses gives the orders, Joshua fights, and the
+outcome follows *"God's rod"* in Moses' hand (17:9): ***"When Moses held up his hand, Israel prevailed. When he
+let down his hand, Amalek prevailed"*** (17:11). **The text does not say God did anything during the battle**,
+and it does not say Moses prayed; it says only where the rod was. **Then he speaks once**, and it is a command
+to write: ***"Write this for a memorial in a book, and rehearse it in the ears of Joshua: that I will utterly
+blot out the memory of Amalek from under the sky"*** (17:14) — **the first *kātab* in Scripture** (WLC lemma
+search, Genesis–Deuteronomy), and ***māḥâ***, the verb of his resolve at the flood (Genesis 6:7; 7:4, 23; WLC).
+**Moses names the altar after him** — ***YHWH nissî***, *"Yahweh our Banner"*, Hebrew *my banner* (WLC) — and
+declares *"Yahweh will have war with Amalek from generation to generation"* (17:16), **the measure of his own
+name at the bush** — *"this is my memorial (zikrî) to all generations"* (3:15) — **set against Amalek's
+*zēker*, which is to be erased** (WLC). **The words the WEB renders *"Yah has sworn"* are obscure** (*kî-yād
+ʿal-kēs yāh*, *a hand upon the kēs of Yah*), so whether he swears an oath here is uncertain. See
+[[The Battle with Amalek]] and [[Blot Out - The Flood, Amalek, and God's Book]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1900,6 +1916,9 @@ names (Deuteronomy 32:4; WLC). See [[Water from the Rock]], [[Testing]], and
 - Leads Israel to Rephidim, where there is no water; tested by the people for the first time; sends Moses ahead
   with the elders and the rod; stands before him on the rock in Horeb; water from the rock; the place named
   Massah and Meribah — Exodus 17:1–7, [[Water from the Rock]]
+- Gives Israel the victory over Amalek while Moses' hand is raised; orders the memorial written in a book and
+  put in Joshua's ears; promises to blot out Amalek's memory; named in the altar *Yahweh our Banner*; war with
+  Amalek *"from generation to generation"* — Exodus 17:8–16, [[The Battle with Amalek]]
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2273,6 +2292,9 @@ names (Deuteronomy 32:4; WLC). See [[Water from the Rock]], [[Testing]], and
   long do you refuse to keep my commandments and my laws?"*; *"Yahweh has given you the Sabbath"*
 - [[Water from the Rock]] — Exodus 17:1–7; **the tested.** *"Why do you test Yahweh?"*; *"I will stand before
   you there on the rock in Horeb"*; *"Is Yahweh among us, or not?"*
+- [[The Battle with Amalek]] — Exodus 17:9–16; **the banner.** *"God's rod"*; *"Write this for a memorial in a
+  book"*; *"I will utterly blot out the memory of Amalek from under the sky"*; *"Yahweh our Banner"*; *"Yahweh
+  will have war with Amalek from generation to generation"*
 
 ## Related people
 

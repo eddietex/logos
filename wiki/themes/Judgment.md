@@ -392,6 +392,10 @@ rule are the conditions the rest of Scripture is set in.
   that ends in plague** (11:31–34; *not yet ingested*), and Numbers 15 the stoning of a man gathering sticks
   on the Sabbath (15:32–36; *not yet ingested*): **the first instances are met with provision, the later ones
   with judgment**
+- [[The Battle with Amalek]] — Exodus 17:14, 16; **a sentence without a stated cause.** *"I will utterly blot out
+  the memory of Amalek from under the sky"* — *māḥâ*, the verb of the flood (Genesis 6:7; WLC) — and war
+  *"from generation to generation"*. **Exodus gives no reason**; Deuteronomy gives one forty years on, the attack on
+  the stragglers and *"he didn't fear God"* (25:18). Recorded, not harmonized
 
 ## Related themes
 

@@ -265,6 +265,13 @@ everlasting possession, by treaty with its current occupant.
 - [[Manna and Quail]] — Exodus 16:6, 12; ***"you shall know that I am Yahweh your God"*** — the formula of 6:7,
   turned from Egypt back to Israel; and Yahweh's glory (*kəbôd YHWH*) seen for the first time (16:10). See
   [[The Glory of God]]
+- [[The Battle with Amalek]] — Exodus 17:15–16; **an altar named for him: *YHWH nissî*.** *"Moses built an altar,
+  and called its name Yahweh our Banner"* — Hebrew ***nissî***, *my banner* (WLC); the WEB's *"our"* is a
+  translation choice. ***Nēs*** is a raised pole or standard — in Numbers the pole of the bronze serpent (21:8–9;
+  WLC) — and the name may explain the raised hand of 17:11 (a reading). **Like *Yahweh Yireh* on Moriah (Genesis
+  22:14) and *El Elohe Israel* at Shechem (33:20), it is a sentence about what God did**, not a title he gives
+  himself. **17:16 has the short form *Yah*** — *kî-yād ʿal-kēs yāh*, an obscure clause the WEB renders *"Yah has
+  sworn"* — its second occurrence after the song (15:2; WLC)
 
 ## Related themes
 

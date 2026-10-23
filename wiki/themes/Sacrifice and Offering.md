@@ -205,6 +205,10 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   lamb's word, or has its neck broken; the son is always redeemed. The verb of *"set apart"* is *ʿābar* in
   the hiphil, *cause to pass over* — **the verb Leviticus 18:21 and Deuteronomy 18:10 use for child
   sacrifice** (WLC). See [[Child Sacrifice and the Redemption of the Firstborn]]
+- [[The Battle with Amalek]] — Exodus 17:15; **the first altar in Exodus, and no sacrifice on it.** *"Moses built an
+  altar, and called its name Yahweh our Banner"* (WLC lemma search, Exodus: the first *mizbēaḥ* in the book).
+  **It is a memorial and a confession, like Jacob's named altars** (Genesis 33:20; 35:7); the next altar in Exodus
+  is God's own instruction, *"an altar of earth for me … In every place where I record my name"* (20:24)
 
 ## Related themes
 

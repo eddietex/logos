@@ -235,6 +235,10 @@ five times**, and each is a covenant hinge.
   Massah, and Meribah"* — *testing* and *quarreling*, from the two verbs of 17:2, glossed in order. Marah was
   named for its water; Massah and Meribah are named for what Israel did. **The names outlive the story**:
   *Massah* in Deuteronomy 6:16, *Meribah* again at Kadesh (Numbers 20:13)
+- [[The Battle with Amalek]] — Exodus 17:9, 15; **a name used before it is given, and an altar named.** *Joshua*
+  appears with his later name from his first line, though Numbers says *"Moses called Hoshea the son of Nun
+  Joshua"* (Numbers 13:16; WEB; WLC); and Moses names the altar *"Yahweh our Banner"* (Hebrew *my banner*). **The
+  place of the battle, unlike the place of the water (17:7), is not named**
 
 ## Related themes
 

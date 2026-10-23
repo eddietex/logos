@@ -11,7 +11,8 @@ tags: [connection]
   — [[The Descendants of Esau]]
 - **Genesis 36:16** — *chief Amalek*, among the chiefs descended from Eliphaz
 - **Genesis 14:7** — *"all the country of the Amalekites"*, generations before this Amalek is born
-- **Exodus 17:8–16** — Rephidim; *"Yahweh will have war with Amalek from generation to generation"*
+- **Exodus 17:8–16** — Rephidim; *"Yahweh will have war with Amalek from generation to generation"* —
+  [[The Battle with Amalek]]
 - **Numbers 24:20** — Balaam: *"Amalek was the first of the nations, but his latter end shall come to
   destruction"*
 - **Deuteronomy 25:17–19** — *"Remember what Amalek did to you … you shall blot out the memory of
@@ -33,6 +34,18 @@ tendency is generous — [[Esau]]'s line is given chiefs, kings, cities, and a c
 disparagement — and the name at the bottom of it is [[Amalek]]. See
 [[The Other Line First - The Order of the Toledot in Genesis]].
 
+### Exodus 17: the sentence, without a reason
+
+**The first meeting is told in nine verses, and Exodus gives no motive at all.** *"Then Amalek came and fought
+with Israel in Rephidim"* (17:8). **The battle is pitched, not an ambush**: Joshua chooses men and fights, and the
+outcome follows Moses' raised hand (17:9–13). **Then the sentence, in three forms**: God's *"I will utterly blot
+out (māḥōh ʾemḥeh) the memory (zēker) of Amalek from under the sky"*, written in a book (17:14); an altar named
+*YHWH nissî* (17:15); and *"war with Amalek from generation to generation"* (17:16) (WLC). **Two differences from
+Deuteronomy are recorded, not harmonized**: Exodus describes a battle, Deuteronomy an attack on *"the rearmost
+… all who were feeble behind you"* (25:18); and in Exodus **God** blots out (*ʾemḥeh*), in Deuteronomy **Israel**
+does (*timḥeh*, 25:19) (WLC). See [[The Battle with Amalek]] and
+[[Blot Out - The Flood, Amalek, and God's Book]].
+
 ### The charge, and what it is actually for
 
 **Exodus 17 records the attack; Deuteronomy 25 records the reason, and the reason is not that they
@@ -45,8 +58,11 @@ fought.**
 **Israel fights Sihon, Og, Moab's allies, and the whole Canaanite coalition without any of them being
 put under a permanent sentence.** What distinguishes Amalek in the Torah's own account is **who they
 attacked** — ***han-neḥĕšālîm***, the stragglers, the ones at the back — and the verdict attached to it:
-*"he didn't fear God."* **It is a charge of predation on the helpless**, and it is the only place the
-Bible gives a reason for a *ḥērem*. See [[The Fear of God]] and [[Vengeance]].
+*"he didn't fear God."* **It is a charge of predation on the helpless.** **Deuteronomy 25 does not use the
+*ḥērem* verb**: its command is *timḥeh*, *blot out*, the verb of Exodus 17:14; *ḥāram*, *utterly destroy*,
+arrives with Saul in 1 Samuel 15:3 (WLC). *(Corrected 2026-10-23: this paragraph called Deuteronomy 25:18
+"the only place the Bible gives a reason for a ḥērem"; the passage is not a ḥērem text, and the claim of
+uniqueness was never checked.)* See [[The Fear of God]] and [[Vengeance]].
 
 **And the command has a knot in it.** *"You shall blot out the memory of Amalek from under the sky.
 You shall not forget."* **Israel is ordered to erase them and ordered to remember to** — which is why
@@ -109,9 +125,8 @@ a narrative. Moab and Ammon get a cave; Canaan gets a curse; Ishmael gets a wild
 
 - **It is the longest thread in the wiki that starts from a subordinate clause.** Nine words in a
   register carry Exodus 17, Deuteronomy 25, the fall of Saul, and the plot of Esther.
-- **It shows the Torah giving a reason for a *ḥērem*, once.** Deuteronomy 25:18 is the only place the
-  Bible says *why* a people is to be destroyed, and the answer is what they did to the exhausted at
-  the back of the column.
+- **It shows the Torah giving a reason for Amalek's sentence.** Exodus 17 gives none; Deuteronomy 25:18
+  gives what they did to the exhausted at the back of the column.
 - **And it shows Genesis declining to prepare the ground.** The book that will not introduce Canaan
   without a curse introduces Amalek without an adjective, in the middle of the most even-handed
   genealogy it ever writes.

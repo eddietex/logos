@@ -291,6 +291,11 @@ what Job is asking for.
 - [[Water from the Rock]] — Exodus 17:2–6; **the mediator in danger from those he mediates for.** *"Why do you
   quarrel with me? Why do you test Yahweh?"*; *"They are almost ready to stone me"*; sent to *"walk on before
   the people"* with the elders as witnesses. **The quarrel with the mediator is counted as a test of God**
+- [[The Battle with Amalek]] — Exodus 17:11–12; **the mediator who needs holding up.** *"When Moses held up his
+  hand, Israel prevailed"*; his hands grow *kəbēdîm*, *heavy* — the word of his *"heavy"* mouth (4:10; WLC) — and
+  *"Aaron and Hur held up his hands, the one on the one side, and the other on the other side"*. **As Aaron became
+  his mouth at the bush, Aaron and Hur become his hands.** The text does not say the raised hand is
+  intercession; that reading is reported on the passage page, not adopted
 
 ## Related themes
 

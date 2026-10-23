@@ -279,6 +279,13 @@ The one thing God undertakes to forget is the only thing anyone would want him t
   God commands an omer kept *"throughout your generations, that they may see the bread with which I fed
   you"* (16:32) — **the third memorial in three chapters, and the first that is an object rather than a
   rite**
+- [[The Battle with Amalek]] — Exodus 17:14; **the first writing in Scripture is a memorial.** *"Write this for a
+  memorial (zikkārôn) in a book, and rehearse it in the ears of Joshua: that I will utterly blot out the memory
+  (zēker) of Amalek"* — the first *kātab* in Scripture (WLC lemma search, Genesis–Deuteronomy). **The paradox of a
+  remembered erasure**, which Deuteronomy states in two clauses: *"you shall blot out the memory of Amalek … You
+  shall not forget"* (25:19). ***Zēker*** **occurs once before, for God's own name**: *"this is my memorial
+  (zikrî) to all generations"* (3:15; WLC) — **God's memory lasts *lədōr dōr*; Amalek's is erased by a war
+  *middōr dōr*** (17:16)
 
 ## Related themes
 

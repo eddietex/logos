@@ -224,7 +224,15 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   ***Massah*, *testing*, and *Meribah*, *quarreling***, because they asked ***"Is Yahweh among us, or
   not?"*** (17:7). **Still no punishment**; Deuteronomy, the Psalms, Hebrews, and Jesus supply the verdict
   (Deuteronomy 6:16; Psalm 95:8; Hebrews 3:8; Matthew 4:7), and Numbers 20 tells a second Meribah that costs
-  Moses the land. See [[Water from the Rock]].
+  Moses the land. See [[Water from the Rock]]. **Then, in the same camp, the first battle**: *"Then Amalek came and
+  fought with Israel in Rephidim"* (17:8). Joshua, unintroduced, fights below; Moses stands on the hill with
+  *"God's rod"*, and ***"When Moses held up his hand, Israel prevailed"*** (17:11). His hands grow *heavy* — the
+  word of Pharaoh's heart and Moses' own mouth — and Aaron and Hur hold them up until they are *ʾĕmûnâ*,
+  *"steady"*, the word's first occurrence (17:12; WLC). **God then orders the first writing in Scripture** —
+  *"Write this for a memorial in a book … that I will utterly blot out the memory of Amalek"* (17:14) — Moses
+  builds the book's first altar, *YHWH nissî*, *"Yahweh our Banner"* (Hebrew *my banner*), and the war is
+  declared *"from generation to generation"* (17:16), the measure of God's own name at the bush (3:15). See
+  [[The Battle with Amalek]].
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
@@ -284,7 +292,7 @@ for unit.
 - [x] [[Bitter Water at Marah]] — Exodus 15:22–27
 - [x] [[Manna and Quail]] — Exodus 16:1–36
 - [x] [[Water from the Rock]] — Exodus 17:1–7
-- [ ] The Battle with Amalek — Exodus 17:8–16
+- [x] [[The Battle with Amalek]] — Exodus 17:8–16
 - [ ] Jethro's Counsel — Exodus 18:1–27
 
 ### The covenant at Sinai (19–24)
@@ -386,6 +394,7 @@ for unit.
 - [[Law and Obedience]]
 - [[Testing]]
 - [[The Glory of God]]
+- [[Vengeance]]
 
 ## Key people
 
@@ -413,6 +422,10 @@ for unit.
   the lice — *"This is God's finger"* — and cannot stand before Moses at the boils
 - [[Pharaoh's Servants (of the Exodus)]] — the court, divided at the hail, hardened with their king,
   and the first to tell him *"Egypt is destroyed"* (10:7)
+- [[Joshua (son of Nun)]] — unintroduced at 17:9, Moses' commander against Amalek and later his servant on the
+  mountain
+- [[Hur (companion of Moses)]] — who holds up Moses' other hand with Aaron (17:12)
+- [[Amalek]] — the people who attack at Rephidim, under sentence *"from generation to generation"* (17:16)
 
 ## Key places
 

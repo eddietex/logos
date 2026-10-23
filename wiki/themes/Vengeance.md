@@ -117,6 +117,10 @@ for revenge becomes its measure for pardon. See
   in the good sense — Moses *"avenged him who was oppressed"* (Acts 7:24) — and the Hebrews' *"Do you
   plan to kill me?"* shows how it looked to the people it was meant for. **God's own striking of Egypt
   (*nākâ*, 3:20) will be done in public**
+- [[The Battle with Amalek]] — Exodus 17:14–16; **retribution put in writing and deferred.** The defeat is not the
+  end (*ḥālaš*, *overpowered*, 17:13); the memorial is written so the sentence will be carried out by later
+  generations — in Deuteronomy by Israel (*"you shall blot out"*, 25:19), in 1 Samuel 15 by Saul. **Exodus has God
+  say *"I will"*** (17:14; WLC)
 
 ## Related themes
 

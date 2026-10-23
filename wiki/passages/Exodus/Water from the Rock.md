@@ -305,7 +305,7 @@ usual candidates) the verse does not say.
 - Exodus 14:15 — *"Why do you cry to me?"* — [[The Crossing of the Sea]]
 - Exodus 15:22–26 — the first water, the first murmuring, the first test — [[Bitter Water at Marah]]
 - Exodus 16:3–8 — *"you have brought us out"*; *"Your murmurings are not against us"* — [[Manna and Quail]]
-- Exodus 17:8–16 — Amalek at Rephidim *(not yet ingested)*
+- Exodus 17:8–16 — Amalek at Rephidim — [[The Battle with Amalek]]
 - Exodus 19:2 — *"When they had departed from Rephidim"* *(not yet ingested)*
 - Exodus 25:8 — *"that I may dwell among them"* *(not yet ingested)*
 - Exodus 33:3, 21–22; 34:9 — *"I will not go up among you"*; *"you shall stand on the rock"*; *"let the Lord go

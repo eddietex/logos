@@ -30,13 +30,18 @@ commentary, not checked here). The wiki records the options and adopts none (see
 but Israel leaves Rephidim before it reaches the wilderness of Sinai (19:2). See [[Water from the Rock]] for
 the readings.
 
+**The battle has no name of its own and is fought nowhere more specific than *"the top of the hill"***
+(17:9–10). **The altar Moses builds after it is named, but the place is not** — unlike the rock, which gave the
+camp *Massah* and *Meribah*. See [[The Battle with Amalek]].
+
 **The place of the water was given its own names** — *"Massah, and Meribah"* (17:7). **Rephidim is the camp;
 Massah and Meribah are what the people did there.** See [[Massah and Meribah]].
 
 ## Appears in
 - [[Water from the Rock]] — Exodus 17:1–7; **the camp without water.** *"Encamped in Rephidim; but there was
   no water for the people to drink"*; the quarrel, the test, and the rock in Horeb
-- *(ahead)* The battle with Amalek — Exodus 17:8–16 *(not yet ingested)*
+- [[The Battle with Amalek]] — Exodus 17:8–16; **the battlefield.** *"Then Amalek came and fought with Israel in
+  Rephidim"*; Moses on the hill with the rod; the first writing in Scripture and the first altar in Exodus
 
 ## Related places
 - [[The Wilderness of Sin]] — the stage before it (Exodus 17:1), with Dophkah and Alush between in Numbers 33
@@ -47,5 +52,6 @@ Massah and Meribah are what the people did there.** See [[Massah and Meribah]].
 ## Events here
 - No water; the people quarrel with Moses and test Yahweh; water from the rock — Exodus 17:1–7,
   [[Water from the Rock]]
-- *(ahead)* Amalek attacks; Moses' raised hands; *"Yahweh our Banner"* — Exodus 17:8–16
+- Amalek attacks; Moses' raised hands; Joshua's victory; the memorial written; the altar *"Yahweh our Banner"* —
+  Exodus 17:8–16, [[The Battle with Amalek]]
 - *(ahead)* Israel departs for the wilderness of Sinai — Exodus 19:2; Numbers 33:15

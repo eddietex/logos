@@ -58,6 +58,11 @@ what is withheld, which is Genesis's habit with its patriarchs.
   sword"* (Matthew 26:52); *"our wrestling is not against flesh and blood"* (Ephesians 6:12); *"the
   weapons of our warfare are not of the flesh"* (2 Corinthians 10:4). Revelation keeps the imagery of
   battle and gives the rider a sword that comes out of his mouth (19:15, 21).
+- **In Exodus Israel's first war comes before its law, and it is fought with a raised rod.** At the sea God
+  fought and Israel was *"still"* (14:14); at Rephidim Israel fights and the rod decides it (17:8–13). The war is
+  then made permanent and written down — *"from generation to generation"* (17:16) — and the next time *milḥāmâ*
+  is heard in Exodus it is Joshua mistaking the calf's festival for *"the noise of war in the camp"* (32:17; WLC;
+  *not yet ingested*). See [[The Battle with Amalek]].
 
 ## Key passages
 
@@ -120,6 +125,13 @@ what is withheld, which is Genesis's habit with its patriarchs.
   *milḥāmâ* of Pharaoh's fear (1:10) and of the road God avoided (13:17) becomes a title. The enemy's six
   first-person verbs — *"I will pursue. I will overtake. I will divide the plunder … I will draw my sword"*
   (15:9) — are answered by one breath (15:10).
+- [[The Battle with Amalek]] — Exodus 17:8–16; **the first war Israel fights.** *"Then Amalek came and fought
+  with Israel"* — the first human enemy to *lāḥam* against Israel (WLC). Where the sea had *"Yahweh will fight for
+  you, and you shall be still"* (14:14), Rephidim has *"Choose men for us, and go out, fight"* (17:9); the outcome
+  follows *"God's rod"* in Moses' raised hand, and Joshua wins *"with the edge of the sword"*, the phrase of the
+  massacre at Shechem (Genesis 34:26; WLC). **The war is not ended but declared permanent**: *"Yahweh will have
+  war (milḥāmâ) with Amalek from generation to generation"* (17:16). The road God chose so Israel would not
+  *"see war"* (13:17) did not avoid this one
 
 ## Related themes
 

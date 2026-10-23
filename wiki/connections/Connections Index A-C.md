@@ -39,6 +39,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Bitter Water Made Sweet - Marah and Elisha's Spring]] | parallel | Exodus 15:23–26 · 2 Kings 2:19–22 · Ezekiel 47:8–9 · Revelation 22:2 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
+| [[Blot Out - The Flood, Amalek, and God's Book]] | thread | Genesis 6:7; 7:4, 23 · Exodus 17:14 · Exodus 32:32–33 · Deuteronomy 9:14 · Deuteronomy 25:19 · Deuteronomy 29:20 · Psalm 69:28 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
 | [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Exodus 12:13 · Exodus 16:10 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |

@@ -121,6 +121,9 @@ one.
   you struck the Nile"* now strikes a rock and water comes out; done *"in the sight of the elders of Israel"*,
   as the first plague was *"in the sight of Pharaoh"* (7:20). **The miracle itself is not narrated** — only the
   command and *"Moses did so"*
+- [[The Battle with Amalek]] — Exodus 17:9–11; **the rod's last wonder before Sinai.** *"God's rod in my hand"*
+  (17:9), the name of 4:20; raised, Israel prevails, lowered, Amalek does. **No sign is announced and no one is
+  told to watch it** — the correlation is simply reported
 
 ## Related themes
 

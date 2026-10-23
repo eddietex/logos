@@ -302,6 +302,9 @@ object of the promise: three verses after Babel's aftermath, Abram is called, an
   *Philistia* as a land**, and the *"chiefs of Edom"* of Genesis 36 (WLC). They tremble, melt, and stand
   *"as still as a stone"* until Israel passes. Rahab repeats the Song's words (Joshua 2:9). See
   [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
+- [[The Battle with Amalek]] — Exodus 17:8–16; **the first nation to attack Israel**, and the first after the sea
+  to meet them at all. *"Then Amalek came"*. **The next foreigner to come to the camp is Jethro of Midian, with
+  blessing and a sacrifice** (18:1–12; *not yet ingested*): one nation comes with a sword and one with an offering
 
 ## Related themes
 

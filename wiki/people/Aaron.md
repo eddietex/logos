@@ -140,6 +140,13 @@ before the presence, done before there is a tabernacle, an ark, a Testimony, or 
 is told from after Sinai, and the wiki records the anachronism as the text's own. See
 [[Manna and Quail]] and [[The Glory of God]].
 
+**On the hill at Rephidim he holds up Moses' hand.** Moses goes up *"the top of the hill"* with *"Aaron, and
+Hur"* (17:10), and when Moses' hands grow heavy, ***"Aaron and Hur held up his hands, the one on the one side, and
+the other on the other side"*** (17:12). **He says nothing and the text does not say which side is his.** **The
+appointment of 4:14–16 has a second form**: at the bush he was made Moses' mouth; here, with Hur, he is Moses'
+hands. *Tāmak*, *held up*, occurs once before in Scripture, when Joseph *"held up his father's hand"* (Genesis
+48:17; WLC lemma search, Genesis–Deuteronomy). See [[The Battle with Amalek]].
+
 ### What is ahead
 
 Sinai, where he goes up with the elders (24); the priestly
@@ -178,6 +185,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - Named only as Miriam's brother at the sea — Exodus 15:20, [[The Song of the Sea]]
 - Murmured against with Moses for the first time; speaks to the congregation as Yahweh's glory appears in
   the cloud; lays up an omer of manna *"before the Testimony"* — Exodus 16:2–10, 33–34, [[Manna and Quail]]
+- Goes up the hill with Moses and Hur during the battle with Amalek; holds up one of Moses' hands until sunset —
+  Exodus 17:10–12, [[The Battle with Amalek]]
 
 ## Appears in
 
@@ -214,6 +223,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Manna and Quail]] — Exodus 16:2, 6–10, 33–34; **complained against, then the voice at the glory.**
   *"Murmured against Moses and against Aaron"*; *"Who are we?"*; *"As Aaron spoke … Yahweh's glory appeared
   in the cloud"*; *"Aaron laid it up before the Testimony, to be kept"*
+- [[The Battle with Amalek]] — Exodus 17:10–12; **Moses' hands.** *"Moses, Aaron, and Hur went up"*; *"Aaron and Hur
+  held up his hands, the one on the one side, and the other on the other side"*
 
 ## Related people
 
@@ -228,6 +239,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Phinehas (son of Eleazar)]] — his grandson (6:25)
 - [[Korah (son of Izhar)]] — his first cousin (6:21)
 - [[Pharaoh's Magicians (of the Exodus)]] — whose rods his rod swallows (7:12)
+- [[Hur (companion of Moses)]] — his partner in holding up Moses' hands (17:12), and in charge of the camp with
+  him (24:14)
 
 ## Themes associated
 

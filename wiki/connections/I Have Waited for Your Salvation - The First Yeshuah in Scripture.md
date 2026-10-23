@@ -53,7 +53,8 @@ one.**
 and **this is the first.** It is the root of ***Yəhôšuaʿ*** (Joshua), ***Yəšaʿyāhû*** (Isaiah),
 ***Hôšēaʿ*** (Hosea), and ***Yēšûaʿ***, which is the name Matthew 1:21 glosses — *"you shall call
 his name Jesus, for it is he who shall save his people from their sins."* **The word enters Scripture
-in a deathbed poem in Egypt, with no definition, no object and no explanation.**
+in a deathbed poem in Egypt, with no definition, no object and no explanation.** The first bearer of the
+name *Joshua* appears at Exodus 17:9; see [[Joshua and Jesus - One Name]].
 
 **What Genesis does not do is say what he is waiting for.** **There is no *from what* and no *for
 whom*.** The next book supplies one — *"see the salvation of Yahweh, which he will work for you

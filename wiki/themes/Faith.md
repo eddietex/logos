@@ -180,6 +180,12 @@ adds is not the behaviour but the **word for it**, and a verdict attached.
   proof.** The word *faith* is not used; the narrator calls it testing. **Numbers 20:12 names the failure at
   the second water from the rock as unbelief, and it is Moses'**: *"Because you didn't believe in me"* (WEB;
   *not yet ingested*)
+- [[The Battle with Amalek]] — Exodus 17:12; **the first *ʾĕmûnâ* in Scripture is a pair of steady arms.** *"His
+  hands were steady (ʾĕmûnâ) until sunset"* — literally *his hands were steadiness*, held up by Aaron and Hur
+  (WLC lemma search, Genesis–Deuteronomy). **The noun later translated *faithfulness* and *faith*** occurs once
+  more in the Torah, of God, beside *"The Rock"*: *"A God of faithfulness (ʾēl ʾĕmûnâ)"* (Deuteronomy 32:4; WLC),
+  and is Habakkuk's *"the righteous will live by his faith (beʾĕmûnātô)"* (2:4; WLC). **In Exodus 17 it is
+  physical**, and the steadiness is supplied by other people
 
 ## Related themes
 

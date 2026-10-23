@@ -26,8 +26,11 @@ priority as decisive.
 
 - **Exodus 17:8–16** — at Rephidim, *"Amalek came and fought with Israel"*, before Sinai, before the
   law, before anything. Moses' hands are held up by Aaron and Hur; Joshua fights. The episode ends
-  with the only oath of its kind in Scripture: *"Yahweh will have war with Amalek from generation to
-  generation."*
+  with God's *"I will utterly blot out the memory of Amalek from under the sky"* and *"Yahweh will have
+  war with Amalek from generation to generation"* (17:14, 16). **Exodus gives no reason for the attack.**
+  The WEB's *"Yah has sworn"* (17:16) renders an obscure clause, *a hand upon the kēs of Yah* (WLC), so
+  whether the sentence is an oath is uncertain. *(Corrected 2026-10-23: this bullet called it "the only
+  oath of its kind in Scripture", which the Hebrew does not secure.)* See [[The Battle with Amalek]].
 - **Deuteronomy 25:17–19** — the charge, and it is a charge of cowardice rather than of war: *"how he
   met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were
   faint and weary; and he didn't fear God."* Then: *"you shall blot out the memory of Amalek from
@@ -69,7 +72,8 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - Born to [[Timna]], concubine of [[Eliphaz (son of Esau)]], and reckoned among the sons of
   [[Adah (wife of Esau)]] — Genesis 36:12, [[The Descendants of Esau]]
 - Listed as *chief Amalek* among the chiefs descended from Eliphaz — Genesis 36:16
-- His people attack Israel at Rephidim and are put under permanent war — Exodus 17:8–16
+- His people attack Israel at Rephidim, are defeated by Joshua, and are put under permanent war — Exodus 17:8–16,
+  [[The Battle with Amalek]]
 - Ordered blotted out for striking the stragglers — Deuteronomy 25:17–19
 - Spared by Saul, at the cost of Saul's kingdom — 1 Samuel 15
 - Haman the Agagite — Esther 3:1
@@ -80,6 +84,10 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   most comprehensively condemned nation enters Scripture as the son of a concubine in the third
   generation of a register that is otherwise entirely peaceable, and Genesis neither comments nor
   looks ahead
+- [[The Battle with Amalek]] — Exodus 17:8–16; **the people, under their ancestor's name.** *"Then Amalek came and
+  fought with Israel in Rephidim"*; *"Joshua defeated Amalek and his people"*; *"I will utterly blot out the memory
+  of Amalek"*; *"war with Amalek from generation to generation"*. **Exodus does not say whether this Amalek is
+  Esau's grandson's line or the older Amalekites of Genesis 14:7**
 
 ## Related people
 
@@ -87,6 +95,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - [[Timna]] — his mother, a concubine and a Horite woman, sister of Lotan
 - [[Adah (wife of Esau)]] — his grandmother, in whose line he is counted
 - [[Esau]] — his great-grandfather, whose other descendants Israel is forbidden to abhor
+- [[Joshua (son of Nun)]] — who defeats his people at Rephidim (Exodus 17:13)
 
 ## Themes associated
 
