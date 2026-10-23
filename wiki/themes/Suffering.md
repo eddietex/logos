@@ -265,6 +265,9 @@ requires only that you be standing outside it.
 - [[I Am Yahweh]] — Exodus 6:9; ***qōṣer rûaḥ***, ***"anguish of spirit"***, literally *shortness of
   spirit* — **suffering that makes promise inaudible.** The noun occurs nowhere else in Genesis,
   Exodus, or Job
+- [[Bitter Water at Marah]] — Exodus 15:22–25; **thirst, and the bitterness of Egypt tasted again.** Three
+  days without water, then water that is *mārîm*, the root of the lives *"made bitter"* in Egypt (1:14) and
+  of the bitter herbs (12:8; WLC). The place keeps the name *Marah* after the water is made sweet
 
 ## Related themes
 

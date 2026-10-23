@@ -165,7 +165,7 @@ is sung back.** The line repeats the name it explains. See [[The Names of God]] 
 *show***: *"I will … teach you what you shall speak"* (4:12, 15), and four verses after the Song, *"Yahweh
 showed him a tree"* (15:25; WLC lemma search). **Whether the two senses are one root or two homonyms is
 debated** (reported, not checked in this pass). **The Song's first strong verb and the next pericope's
-first act of God use the same letters.**
+first act of God use the same letters** — see [[Bitter Water at Marah]].
 
 ***"Pharaoh's chariots"*** — ***markəbōt parʿōh***. **The *merkābâ* is the chariot of Joseph's honour** —
 *"He made him to ride in the second chariot which he had"* (Genesis 41:43) — **and of Joseph's ride to meet
@@ -593,7 +593,7 @@ whole song or the refrain of a longer one, the text does not say.** **Psalm 106:
 - Exodus 12:12, 23 — *"I will go through (ʿābar) the land of Egypt"*; *"all the gods of Egypt"* —
   [[The Passover]]
 - Exodus 13:17, 21; 14:5–31 — the road, the pillar, the crossing — [[The Crossing of the Sea]]
-- Exodus 15:25 — *"Yahweh showed (yārâ) him a tree"* *(not yet ingested)*
+- Exodus 15:25 — *"Yahweh showed (yārâ) him a tree"* — [[Bitter Water at Marah]]
 - Exodus 25:8 — *"Let them make me a sanctuary"* *(not yet ingested)*
 - Exodus 32:12, 19 — *"your fierce wrath"*; *"the calf and the dancing"* *(not yet ingested)*
 - Leviticus 10:3 — *"Aaron held his peace"* (*dāmam*) *(not yet ingested)*

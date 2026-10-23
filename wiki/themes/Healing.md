@@ -1,0 +1,83 @@
+---
+type: theme
+tags: [theme]
+---
+# Healing
+
+## Definition / overview
+
+**God restoring a body, a household, or a place to soundness — and naming himself by it.** The Hebrew
+verb is ***rāpāʾ***, *heal* (WLC). **Its first occurrence in Scripture is *"God healed Abimelech, and his
+wife, and his female servants, and they bore children"*** (Genesis 20:17), after Abraham prayed. **Its
+climax in the Torah is the name God gives himself at Marah**: ***"I am Yahweh who heals you"*** — *ʾănî YHWH
+rōpəʾekā* (Exodus 15:26).
+
+**Three features are already set by Exodus 15:**
+
+1. **Healing comes with a condition.** *"If you will diligently listen to Yahweh your God's voice … I will put
+   none of the diseases on you, which I have put on the Egyptians"* (15:26). **Health is promised as the
+   fruit of hearing.**
+2. **The healer and the one who strikes are the same.** The diseases on Egypt are those *"which I have put"*
+   (*śamtî*, 15:26; WLC). Deuteronomy says it outright: *"I wound and I heal"* (32:39; WEB; *not yet
+   ingested*).
+3. **What is healed is not only bodies.** At Marah the first act is on water — *"the waters were made
+   sweet"* (15:25) — and 2 Kings uses *rāpāʾ* of a spring: *"I have healed these waters"* (2 Kings 2:21;
+   WEB; WLC; *not yet ingested*).
+
+## Development across Scripture
+
+**Genesis — healing after prayer, and physicians at a funeral.** *"Abraham prayed to God. God healed
+Abimelech"* (Genesis 20:17): **the first healing in Scripture is of a foreign king's household, closing
+wombs God himself had closed** (20:18). **The only other use in Genesis is a participle — *"the
+physicians"*, *hārōpəʾîm*, who embalm Jacob in Egypt** (50:2; WLC lemma search). See
+[[Abraham and Abimelech]] and [[The Deaths of Jacob and Joseph]].
+
+**Exodus 15 — the name.** **The participle Genesis gave Egypt's physicians becomes God's name for himself**:
+*rōpəʾekā*, *your healer* (15:26; WLC). **Egypt's healers embalmed the dead; Israel's healer keeps Egypt's
+diseases away.** The contrast is the wiki's; the form is the text's. **The occasion is water, and the
+setting is the first statute and the first test** (15:25). The other Torah promise against *maḥălâ*,
+*sickness*, joins the same two things: *"he will bless your bread and your water, and I will take sickness
+away from among you"* (23:25; WLC; *not yet ingested*). **Later piety turned *Yahweh rōpəʾekā* into a title,
+*Yahweh Rophe*** (reported, not checked in this pass). See [[Bitter Water at Marah]].
+
+**Ahead in the Torah** (*not yet ingested*): healing as a matter for damages (Exodus 21:19); the priest's
+verdict on skin disease *"healed"* (Leviticus 13–14); **Moses' cry for Miriam — *"Moses cried to Yahweh,
+saying, 'Heal her, God, I beg you!'"*** (Numbers 12:13; WEB; WLC), the same pair, *ṣāʿaq* and *rāpāʾ*, as
+Marah; **and the reversal of the promise**, *"He will bring on you again all the diseases of Egypt"*
+(Deuteronomy 28:60; WEB) — with *madweh*, a different noun from Marah's *maḥălâ* (WLC).
+
+**Beyond the Torah** (*not yet ingested*): Elisha's salt in the spring of Jericho (2 Kings 2:19–22); the
+healing of the nations by the leaves of the tree of life — *"The leaves of the tree were for the healing of
+the nations"* (Revelation 22:2; WEB). See
+[[Bitter Water Made Sweet - Marah and Elisha's Spring]] and
+[[The Tree of Life - Eden and the New Jerusalem]].
+
+## Key passages
+
+- [[Abraham and Abimelech]] — Genesis 20:17; **the first *rāpāʾ*.** God heals a foreign household after
+  Abraham prays
+- [[The Deaths of Jacob and Joseph]] — Genesis 50:2; **Egypt's *rōpəʾîm* embalm Jacob**
+- [[Bitter Water at Marah]] — Exodus 15:25–26; **the name.** The water made sweet; *"I will put none of the
+  diseases on you, which I have put on the Egyptians; for I am Yahweh who heals you"*
+- **Exodus 23:25** — *"I will take sickness away from among you"* *(not yet ingested)*
+- **Numbers 12:13** — *"Heal her, God, I beg you!"* *(not yet ingested)*
+- **Deuteronomy 28:60; 32:39** — the diseases of Egypt brought back; *"I wound and I heal"* *(not yet
+  ingested)*
+- **2 Kings 2:19–22** — *"I have healed these waters"* — [[Bitter Water Made Sweet - Marah and Elisha's Spring]]
+  *(not yet ingested)*
+
+## Related themes
+
+- [[Prayer]] — healing follows prayer in both its first Torah instances (Genesis 20:17; Numbers 12:13)
+- [[Law and Obedience]] — the condition attached at Marah
+- [[Judgment]] — the diseases God *"put on the Egyptians"*
+- [[The Names of God]] — *Yahweh rōpəʾekā*
+- [[Signs and Wonders]] — the sweetened water as the first wilderness sign
+- [[Life and Death]] — Egypt's physicians and the dead; Elisha's *"no more death"*
+
+## Related people
+
+- [[God]] — *"Yahweh who heals you"*
+- [[Abraham]] — whose prayer precedes the first healing
+- [[Abimelech (of Abraham's time)]] — the first person healed
+- [[Moses]] — who cries to Yahweh at Marah, and later for Miriam

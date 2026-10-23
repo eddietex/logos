@@ -113,6 +113,10 @@ one.
   here in the Torah; its verb asked *"Is anything too hard for Yahweh?"* (Genesis 18:14) and promised *"my
   wonders"* at the bush (3:20) (WLC lemma search). **The Song gives the sea's sign a cause the prose left
   to wind**: *"the blast of your nostrils"* (15:8).
+- [[Bitter Water at Marah]] — Exodus 15:25; **the first sign in the wilderness, and the reverse of the first
+  in Egypt.** At the Nile *"the Egyptians couldn't drink"* (7:21); at Marah Israel *"couldn't drink"*
+  (15:23; *lōʾ yākəlû* both times, WLC), and a tree thrown in makes the water sweet. **The first plague spoiled
+  water; the first wilderness sign heals it.** Its mechanism is not given
 
 ## Related themes
 

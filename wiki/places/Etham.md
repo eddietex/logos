@@ -29,6 +29,8 @@ they are reported, not checked in this pass, and none is adopted.
 
 - [[The Crossing of the Sea]] — Exodus 13:20; **the camp at the edge of the wilderness**, where the pillar
   of cloud and fire is first described
+- [[Bitter Water at Marah]] — Exodus 15:22, by Numbers 33:8's name; **the wilderness Exodus calls Shur**,
+  three days without water before Marah
 
 ## Related places
 
@@ -36,8 +38,10 @@ they are reported, not checked in this pass, and none is adopted.
 - [[Pihahiroth]] — the camp by the sea, reached by turning back from it
 - [[Shur]] — Exodus's name for the wilderness Numbers calls *the wilderness of Etham*
 - [[Egypt]] — the country whose edge it marks
+- [[Marah]] — the camp Numbers 33:8 reaches after *"three days' journey in the wilderness of Etham"*
 
 ## Events here
 
 - Israel's second camp; Yahweh goes before them in the pillar — Exodus 13:20–22; Numbers 33:6
-- *Ahead*: the three days' journey *"in the wilderness of Etham"* to Marah — Numbers 33:8
+- The three days' journey to Marah — in *"the wilderness of Shur"* by Exodus 15:22, *"in the wilderness of
+  Etham"* by Numbers 33:8; [[Bitter Water at Marah]]

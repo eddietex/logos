@@ -18,6 +18,9 @@ tags: [connection]
 - **Genesis 18:19** — *"he will command his children and his household after him, that they may keep
   the way of Yahweh, to do righteousness and justice"* —
   [[The Three Visitors and Abraham's Intercession]]
+- **Exodus 15:26** — *"If you will diligently listen to Yahweh your God's voice, and will do that which is
+  right in his eyes, and will pay attention to his commandments, and keep all his statutes"* — the first
+  time the vocabulary of 26:5 is addressed to Israel — [[Bitter Water at Marah]]
 - **Deuteronomy 11:1** — *"keep his instruction, his statutes, his ordinances, and his commandments,
   always"*, the idiom 26:5 uses of a man four hundred years early
 - **Romans 4:1–16; Galatians 3:15–18** — Paul's argument that the promise came by faith and before
@@ -92,6 +95,18 @@ first clause comes from, and does not quote 26:5 either.
 telling the men of Gerar that his wife is his sister. **The covenant arrives on his father's record**
 and is confirmed nineteen verses later on the same basis: *"I will bless you, and multiply your
 offspring **for my servant Abraham's sake**"* (26:24). See [[Call and Election]] and [[Isaac]].
+
+### The vocabulary comes back at Marah
+
+**Exodus 15:26 is the next verse in Scripture to gather 26:5's words.** *Šāmaʿ … bəqōl*, *obey the voice*;
+*šāmar*, *keep*; ***miṣwōt***, *commandments*; and *ḥuqqîm*, *statutes* (WLC). **The noun *miṣwâ* has
+occurred only once before, in 26:5 itself** (WLC lemma search, Genesis–Exodus). Genesis 26:5's *statutes*
+are *ḥuqqôt*, the feminine plural, where Marah has the masculine *ḥuqqîm*; the WLC files them under
+separate numbers, and the wiki treats them as one family of words. **The parallel sharpens the problem
+this page describes rather than solving it.** Abraham is said to have kept commandments no narrative gave
+him; Israel at Marah is told to keep commandments no narrative has yet given them either — **the statute
+and ordinance made at Marah are named and not stated** (15:25). **In both places the vocabulary of law
+arrives ahead of the law.** See [[Bitter Water at Marah]] and [[Law and Obedience]].
 
 ## Significance
 

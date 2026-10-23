@@ -12697,3 +12697,84 @@ fetched into `raw/`.
   - `wiki/index.md`: 110 passages, 166 people, 85 places, 73 themes, 311 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-23] ingest | Exodus 15.22-27 — Bitter Water at Marah
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *Bitter Water at Marah —
+Exodus 15:22–27*. The boundary was kept as planned: 15:22 resumes the itinerary after the Song, and 16:1
+opens the next stage (*"They took their journey from Elim"*). Elim (15:27) is kept with Marah as its
+resolution. There was no discussion step; its content is written into the passage page.
+
+### The passage page
+
+[[Bitter Water at Marah]] — three days without water, the bitter water and the place named for it, the
+first murmuring in Scripture (*lûn*, a two-word question with no Egypt in it), Moses' cry, the tree
+*"shown"* with *yārâ*, the sweetened water, the first statute after the sea (*ḥōq ûmišpāṭ*, made with
+the *śîm* of Joseph's statute for Pharaoh, Genesis 47:26), the first test of Israel (the second *nissâ*
+after Genesis 22:1), the condition in Genesis 26:5's vocabulary, *"I am Yahweh who heals you"*, and
+Elim's twelve springs and seventy palms.
+
+### Judgment calls
+
+- **Three new themes.** [[Murmuring]] (it recurs through Exodus 16–17 and Numbers 14–17); [[Healing]] (the
+  wiki had met *rāpāʾ* at Genesis 20:17 and 50:2 with no page); and [[Law and Obedience]], created at the
+  first statute after the sea. [[Testing]] had said obedience *"has no page of its own"*; that line now
+  points to the new page.
+- **Two new places**, [[Marah]] and [[Elim]]. [[Shur]] already existed; [[Etham]] carries Numbers 33:8's
+  name for the same wilderness.
+- **One new connection**, [[Bitter Water Made Sweet - Marah and Elisha's Spring]] (2 Kings 2:19–22: the same
+  hiphil of *šālak*, and *rāpāʾ* of the water; Ezekiel 47:8–9 noted). The Christian reading of Marah's tree
+  as the cross is recorded on it as reported, not adopted.
+- **No new person pages.** The children of Israel are collective.
+- **Left open, recorded on the page:** *"wilderness of Shur"* (Exodus 15:22) against *"wilderness of
+  Etham"* (Numbers 33:8); the unnamed subject of *"he made … he tested"* and its singular *"him"*; the
+  content of the statute and ordinance; the referent of *"the diseases … on the Egyptians"*; the place
+  keeping the bitter name after the water was made sweet. **Reported, not adopted:** the tree as natural
+  agent or sign; *lûn* murmur/lodge as one root or two; *tôrâ* from *yārâ*; *Elim* as *trees*; the springs
+  and palms as tribes and elders; *Yahweh Rophe*; Tamar's name as *palm*.
+- **Corrected while drafting:** an initial claim that every *lûn* has Moses as object was narrowed to the
+  narrator's reports (God says *"murmur against me"*, Numbers 14:27); and Elim was first described as
+  having *the same consonants* as *ʾēlim*, *gods* (15:11) — the WLC spells the noun without the place-name's
+  *yod*, and both pages now say so.
+
+### Sources
+
+Exodus and Genesis quoted from `raw/bible/`. **Hebrew checked against the Westminster Leningrad Codex
+(Open Scriptures `morphhb`, freshly downloaded this run)**: all of Exodus 15:22–27; Exodus 5:14; 7:21;
+15:11; 19:5; 23:22, 25; Genesis 11:9; 26:5; 47:26; Numbers 5:18; 12:13; 14:2; Deuteronomy 7:15; 28:60;
+Ruth 1:20; Psalm 81:8 (Hebrew); 2 Kings 2:19, 21–22; and lemma searches over Genesis–Deuteronomy for
+*šûr*, *mārâ*, *mar*, *mārar*, *mərōrîm*, *lûn*, *təlunnôt*, *mātaq*, *nāsâ*, *yāšār*, *ʾāzan*,
+*maḥălâ*, *rāpāʾ*, *ʾêlim*, *tāmār*, *ḥōq*, *ḥuqqâ*, *miṣwâ*, *mišpāṭ*, *šālak*, *ṣāʿaq*, *yārâ*,
+*tôrâ*, *ʿayin* (spring), *ʿēṣ*, *nāsaʿ*; and *rāpāʾ* and *mātaq* over 2 Kings, Isaiah, Jeremiah,
+Ezekiel, and Psalms. **WEB English from outside `raw/`** fetched one passage at a time from bible-api.com
+(`translation=web`): Numbers 5:18; 12:13; 14:27; 17:10; 23:10; 33:8–10; Deuteronomy 6:18; 7:15; 8:2; 28:60;
+32:1, 4, 39; Ruth 1:20; 2 Kings 2:14, 19–22; Ezekiel 47:8–9; Psalm 81:7; 1 Corinthians 10:10; Revelation
+22:2. No other book was fetched into `raw/`.
+
+### Pages created or revised
+
+- **Created (7):** the passage page; themes [[Murmuring]], [[Healing]], [[Law and Obedience]]; places
+  [[Marah]], [[Elim]]; connection [[Bitter Water Made Sweet - Marah and Elisha's Spring]].
+- **People revised (2):** [[God]] (a section, timeline, appears-in), [[Moses]] (a section, timeline,
+  appears-in; *What is ahead* narrowed).
+- **Places revised (4):** [[Shur]] (a section for Exodus 15:22), [[Etham]] (the *ahead* entry made
+  actual), [[The Red Sea]], [[Egypt]].
+- **Themes revised (11):** [[Testing]], [[Prayer]], [[Mediation and Advocacy]], [[The Names of God]],
+  [[Signs and Wonders]], [[Providence]], [[Suffering]], [[Names and Naming]], [[Righteousness]],
+  [[Judgment]], [[Slavery and Servitude]].
+- **Connections revised (5):** [[Affliction and Flight - Hagar and the Exodus]],
+  [[Because Abraham Obeyed My Voice - Law Before Sinai]], [[The Trees of the Patriarchs]],
+  [[The Wells of Abraham and the Wells of Isaac]], [[The Tree of Life - Eden and the New Jerusalem]].
+- **Passage revised (1):** [[The Song of the Sea]] — its 15:25 cross-reference and the *yārâ* note now link.
+- **Book pages:** [[Exodus]] — box checked; the 15:22–18 structure note now covers Marah; four key themes
+  and three key places added.
+- **Indexes:**
+  - books: Exodus 20 / 53.
+  - people: 2 rows extended.
+  - places: 2 rows added, 4 rows extended.
+  - themes: 3 rows added, 11 rows extended.
+  - connections: 1 row added in [[Connections Index A-C]]; 5 rows' references extended.
+  - `wiki/index.md`: 111 passages, 166 people, 87 places, 76 themes, 312 connections.
+
+`scripts/link-check.sh` is clean.

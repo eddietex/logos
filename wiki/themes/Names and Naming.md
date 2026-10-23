@@ -224,6 +224,10 @@ five times**, and each is a covenant hinge.
   *Jethro* from 3:1; and Moses names his son *Gershom*, *"I have lived as a foreigner in a foreign
   land"*, heard as *gēr šām*, *a sojourner there*. **Joseph named his two sons in exile with God in
   both names; Moses' first son's name has none.** See [[Gershom]]
+- [[Bitter Water at Marah]] — Exodus 15:23; **a place named for its problem.** *"Therefore its name was called
+  Marah"*, *bitter* — the impersonal formula of Babel (Genesis 11:9; WLC), with no namer given. **The water
+  is made sweet two verses later, and the name stays.** Naomi takes it for herself: *"Call me Mara"* (Ruth
+  1:20; WEB; *not yet ingested*). See [[Marah]]
 
 ## Related themes
 

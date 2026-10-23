@@ -268,9 +268,20 @@ hand stretched over the sea, which the prose gave to him (14:21, 27), the Song g
 stretched out your right hand"* (15:12). **The servant believed in at 14:31 disappears into his own song.**
 His sister answers it with the refrain (15:20–21). See [[The Song of the Sea]] and [[Praise and Song]].
 
+**Then the first murmuring, and his first cry in the wilderness.** He *"led Israel onward from the Red
+Sea"* — *wayyassaʿ*, the causative of the march verb, with him as subject (15:22; WLC) — into three days
+without water. At Marah **the people *"murmured against Moses"*, the first *lûn* in Scripture** (15:24;
+WLC lemma search), and he does not answer them: ***"he cried to Yahweh"*** (15:25), the verb of his prayer
+over the frogs (8:12 WEB; WLC). **He is shown a tree and throws it in, and the water is made sweet** —
+*wayyašlēk*, the verb of his rod thrown down at the bush (4:3) and of Pharaoh's decree to *"cast every son …
+into the river"* (1:22; WLC). **He is not named again in the pericope**: the statute, the test, and *"I am
+Yahweh who heals you"* are God's (15:25–26). **The pairing of his cry with *heal* returns when he prays for
+Miriam** — *"Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'"* (Numbers 12:13; WEB; WLC; *not
+yet ingested*). See [[Bitter Water at Marah]] and [[Murmuring]].
+
 ### What is ahead
 
-The wilderness (15:22–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
+The rest of the wilderness (16–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -343,6 +354,8 @@ sections are written as their pericopes arrive.
   *"servant"* — Exodus 13:19–14:31, [[The Crossing of the Sea]]
 - Leads Israel in the Song of the Sea; unnamed inside it, his stretched hand sung as God's right hand —
   Exodus 15:1–21, [[The Song of the Sea]]
+- Leads Israel from the sea into the wilderness of Shur; murmured against at Marah; cries to Yahweh, throws
+  in the tree, and the water is made sweet — Exodus 15:22–27, [[Bitter Water at Marah]]
 
 ## Appears in
 
@@ -398,6 +411,8 @@ sections are written as their pericopes arrive.
   out his hand over the sea"*; *"his servant Moses"*
 - [[The Song of the Sea]] — Exodus 15:1; **the singer.** *"Then Moses and the children of Israel sang this
   song to Yahweh"*; not named in the Song itself
+- [[Bitter Water at Marah]] — Exodus 15:22–25; **the first murmured-against.** *"Moses led Israel onward"*;
+  *"The people murmured against Moses"*; *"he cried to Yahweh"*; *"he threw it into the waters"*
 
 ## Related people
 

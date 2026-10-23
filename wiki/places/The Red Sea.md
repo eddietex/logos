@@ -51,12 +51,14 @@ plural of the *təhôm* of Genesis 1:2**; *məṣôlōt* occurs only here in the
   the seashore"*
 - [[The Song of the Sea]] — Exodus 15:4–10, 19; **sung.** *"His chosen captains are sunk in the Red Sea"*; *"The floods stood
   upright as a heap"*; *"They sank like lead in the mighty waters"*
+- [[Bitter Water at Marah]] — Exodus 15:22; **left behind.** *"Moses led Israel onward from the Red Sea"*
 
 ## Related places
 
 - [[Egypt]] — the country it bounds
 - [[The Nile]] — whose reeds, *sûp*, give the sea its Hebrew name
-- [[Shur]] — the wilderness Israel enters after the crossing (Exodus 15:22, not yet ingested)
+- [[Shur]] — the wilderness Israel enters after the crossing (Exodus 15:22)
+- [[Marah]] — three days beyond it, the first camp after the crossing
 - [[Pihahiroth]], [[Migdol]], and [[Baal Zephon]] — the landmarks of the camp beside it
 
 ## Events here
@@ -65,4 +67,5 @@ plural of the *təhôm* of Genesis 1:2**; *məṣôlōt* occurs only here in the
 - The way of the wilderness by the sea — Exodus 13:18
 - Israel camps by it, is overtaken, and crosses on dry ground; Pharaoh's army is covered — Exodus 14:2–31
 - Sung by Moses and Israel, and by Miriam — Exodus 15:1–21
-- *Ahead*: the departure from it to Shur (15:22)
+- Israel sets out from it into the wilderness of Shur — Exodus 15:22, [[Bitter Water at Marah]]
+- *Ahead*: Numbers 33:10 has Israel camp *"by the Red Sea"* again after Elim

@@ -251,6 +251,10 @@ human one innocent.** *"You meant evil"* stands. See
 - [[The Song of the Sea]] — Exodus 15:13; **led and guided.** *Nāḥâ*, *led* (the verb of 13:17, 21), and *nāhal*, *guided* —
   the shepherds' verb of Jacob's *"I will lead on gently"* (Genesis 33:14) and Joseph feeding Egypt (47:17)
   (WLC lemma search). **The Song sings the guidance *"to your holy habitation"* as already done.**
+- [[Bitter Water at Marah]] — Exodus 15:22–27; **guidance into thirst, then to twelve springs.** The Song sang
+  *"You have guided them (nēhaltā)"* (15:13), the verb of leading to water; **the first stage after it is
+  three days with *"no water"***, then a bitter well, then Elim's *"twelve springs of water, and seventy palm
+  trees"*. The text reports the sequence without comment
 
 ## Related themes
 

@@ -314,6 +314,10 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
   spoke in Egypt and the text does not record; and the close, *"his servant Moses"* (*ʿabdô*), **the first
   time Moses is called Yahweh's servant** (WLC). **The book's root is used of Moses' relation to God at the
   moment Israel stops being Egypt's**
+- [[Bitter Water at Marah]] — Exodus 15:23, 25; **Egypt's bitterness and Egypt's statute.** The water is
+  *mārîm*, the root of the lives *"made bitter with hard service"* (1:14); and the *ḥōq* Yahweh sets at
+  Marah has as its only Exodus precedent the brick *"quota"* of 5:14 (*ḥoqkem*; WLC). **The first statute
+  after the sea replaces the quota of the house of bondage**
 
 ## Related themes
 

@@ -26,8 +26,8 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
-| [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 |
-| [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 |
+| [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 · Exodus 15:25–26 |
+| [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 · Exodus 15:25 |
 | [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
@@ -53,7 +53,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 · Job 33:14–18 |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
 | [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]] | allusion | Exodus 4:9 · Exodus 7:14–25 · Exodus 1:22 · Psalm 78:44 · Psalm 105:29 · Wisdom of Solomon 11:6–7 · Revelation 8:8 · Revelation 11:6 · Revelation 16:3–6 · John 2:11 |
-| [[The Wells of Abraham and the Wells of Isaac]] | parallel | Genesis 21:22–34 · Genesis 26:12–33 · Genesis 16:14; 21:19 |
+| [[The Wells of Abraham and the Wells of Isaac]] | parallel | Genesis 21:22–34 · Genesis 26:12–33 · Genesis 16:14; 21:19 · Exodus 15:23–27 |
 | [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 · Job 9:2 (at 25:4) |
 | [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 · Job 25:5–6 |
 | [[What Is This You Have Done - The Accusing Question from Eden to the Sea]] | formula | Genesis 3:13 · Genesis 12:18 · Genesis 26:10 · Genesis 29:25 · Genesis 42:28 · Exodus 14:5, 11 |

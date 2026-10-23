@@ -272,6 +272,10 @@ about.
   Abraham's plea at Sodom, *"Will you consume the righteous with the wicked?"* (Genesis 18:23–25), and
   the first *ṣaddîq* in Exodus (WLC). **The confession is true and is not kept** (9:34) —
   [[Shall Not the Judge of All the Earth Do Right]]
+- [[Bitter Water at Marah]] — Exodus 15:26; ***"that which is right in his eyes"*** — *hayyāšār bəʿênāyw*,
+  the first *yāšār* in Scripture (WLC lemma search, Genesis–Deuteronomy). **The standard is set by God's
+  sight, not by the doer's** — the formula Deuteronomy repeats and Judges inverts (*"right in his own
+  eyes"*, Judges 17:6; by reference, *not yet ingested*)
 
 ## Related themes
 

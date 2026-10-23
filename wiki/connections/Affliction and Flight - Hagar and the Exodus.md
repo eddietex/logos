@@ -76,9 +76,19 @@ her from the arrangement altogether without her having to run.
 
 Both stories put the divine encounter at water in the wilderness, at the moment of flight, before
 anything has been resolved. Hagar at a spring on the road to Shur; Moses at a well in Midian, and then
-at Horeb. Israel, coming out, will walk into the wilderness of Shur itself (Exodus 15:22) and find no
+at Horeb. Israel, coming out, walks into the wilderness of Shur itself (Exodus 15:22) and finds no
 water for three days. The Bible's God is met at the edge of the desert by people who are running, and
 it happens for the first time to a slave nobody is looking for.
+
+**At Shur the two stories cross in opposite directions.** Hagar, fleeing toward Egypt, is found *"by a
+fountain (ʿên) of water in the wilderness, by the fountain on the way to Shur"* (Genesis 16:7); Israel,
+fleeing from Egypt, finds no water in *"the wilderness of Shur"*, then bitter water at Marah, then
+*"twelve springs (ʿênōt) of water"* at Elim (Exodus 15:22–27) — the same noun (WLC). **Her second flight
+has the same shape as Israel's first wilderness crisis**: *"The water in the bottle was spent"* (Genesis
+21:15), and the remedy is something God *shows* — *"God opened her eyes, and she saw a well of water"*
+(21:19), as *"Yahweh showed him a tree"* (Exodus 15:25). **And the verb of her despair is the verb of the
+remedy**: she *"put"* the child under a shrub (*wattašlēk*, Genesis 21:15), and Moses *"threw"* the tree
+into the water (*wayyašlēk*, Exodus 15:25; WLC). See [[Bitter Water at Marah]].
 
 ### The third woman, and the noun that links them
 

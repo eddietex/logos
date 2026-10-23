@@ -383,6 +383,10 @@ rule are the conditions the rest of Scripture is set in.
   stubble"* (15:7) — the verb of *"Let my people go"*, and the stubble Israel gathered for Egypt's bricks
   (5:12; WLC). **The Song gives the drowning to God's own right hand** (15:6, 12), where the prose gave the
   stretched-out hand to Moses (14:21, 27).
+- [[Bitter Water at Marah]] — Exodus 15:26; **the plagues remembered as diseases God put.** *"I will put
+  none of the diseases on you, which I have put (śamtî) on the Egyptians"* (WLC). **Judgment on Egypt
+  becomes the measure of a promise to Israel**, and Deuteronomy 28:60 makes it a threat: *"He will bring on
+  you again all the diseases of Egypt"* (WEB; *not yet ingested*)
 
 ## Related themes
 

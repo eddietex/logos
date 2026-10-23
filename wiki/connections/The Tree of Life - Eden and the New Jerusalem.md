@@ -10,6 +10,8 @@ tags: [connection]
 - [[The Garden of Eden]] — Genesis 2:9
 - [[The Fall]] — Genesis 3:22–24
 - Revelation 2:7 · 22:2, 14, 19 *(not yet ingested)*
+- [[Bitter Water at Marah]] — Exodus 15:25–26; a tree thrown into bad water, and *"I am Yahweh who heals
+  you"* — tree, water, and healing together, as in Revelation 22:2, with no stated link
 
 ## Analysis
 

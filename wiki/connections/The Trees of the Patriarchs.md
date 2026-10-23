@@ -20,6 +20,9 @@ tags: [connection]
   [[Deborah (Rebekah's nurse)]] buried *"below Bethel under the oak"* at ***ʾAllôn Bākût***, **the
   oak of weeping — the only tree in Scripture named for a funeral**, and Genesis does not say who
   wept. See [[Return to Bethel; the Deaths of Rachel and Isaac]].
+- **Exodus 15:25** — *"Yahweh showed him a tree, and he threw it into the waters, and the waters were
+  made sweet."* The first tree after Genesis, and the first one that is used rather than stood under.
+  See [[Bitter Water at Marah]].
 - **Joshua 24:26** — Joshua sets a great stone *"under the oak that was by the sanctuary of Yahweh"*
   at Shechem, at the covenant renewal.
 - **Judges 6:11, 19; 9:6, 37** — the oak at Ophrah; the oak of the pillar at Shechem where Abimelech
@@ -114,6 +117,16 @@ Once the pattern is visible it runs through the historical books:
 **Shechem's tree collects most of it** — Abram's first altar, Jacob's buried gods, Joshua's covenant,
 Abimelech's coronation — which is why the wiki treats that site separately. See
 [[The Altar at Shechem and the Covenant at Shechem]].
+
+### The tree that is thrown
+
+**Exodus's first tree is not a landmark.** At Marah *"Yahweh showed him a tree (ʿēṣ), and he threw it into
+the waters"* (Exodus 15:25; WLC). **Every patriarchal tree marks a place** — an address, an altar, a
+grave, a hiding place for idols; **this one is taken and used** (how is not said), and the place it leaves is
+named for the water, not the tree. The kind of tree is not given, and *ʿēṣ* can mean *wood* as well as
+*tree*. **The only patriarch who cuts trees is Jacob, peeling rods to work a sign on Laban's flocks**
+(Genesis 30:37; see below); Moses at Marah is shown a tree to work a sign on water. See
+[[Bitter Water at Marah]].
 
 ## Significance
 

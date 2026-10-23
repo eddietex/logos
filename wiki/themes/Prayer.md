@@ -245,6 +245,10 @@ already did.
   cried out to Yahweh"* (*ṣāʿaq*), and in the same breath accused Moses; God's reply is to Moses, singular —
   ***"Why do you cry to me? Speak to the children of Israel, that they go forward"*** — **though no cry of
   Moses' is narrated** (WLC). The answer to the prayer is an order to march
+- [[Bitter Water at Marah]] — Exodus 15:24–25; **the murmur and the cry.** The people *"murmured against
+  Moses"*; ***"he cried to Yahweh"*** (*ṣāʿaq*, the verb of his prayer over the frogs, 8:12 WEB). **Answered at
+  once, by being shown something**: *"Yahweh showed him a tree"*. The same pair, *cry* and *heal*, returns
+  in his prayer for Miriam (Numbers 12:13; WEB; WLC; *not yet ingested*)
 
 ## Related themes
 

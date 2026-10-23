@@ -258,6 +258,10 @@ everlasting possession, by treaty with its current occupant.
   the Torah only again at 17:16; WLC lemma search); *"Yahweh is his name"* (15:3) sings back 3:15;
   *"my father's God"* (15:2) is the bush's *"God of your father"* (3:6); and *"the sanctuary, Lord
   (ʾădōnāy)"* (15:17).
+- [[Bitter Water at Marah]] — Exodus 15:26; **the name completed with a participle.** ***"I am Yahweh who
+  heals you"*** — *ʾănî YHWH rōpəʾekā* (WLC). **The first *"I am Yahweh"* that names what he does for
+  Israel's body**, and the form Genesis used of Egypt's *"physicians"* (50:2). Later piety made it a title,
+  *Yahweh Rophe* (reported, not checked in this pass). See [[Healing]]
 
 ## Related themes
 

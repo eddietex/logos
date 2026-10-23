@@ -190,7 +190,17 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   occurrence), and ***"Yahweh shall reign forever and ever"*** (15:13–18). **Miriam, named here for the
   first time and called *"the prophetess"*, answers with the refrain** (15:20–21). See
   [[The Song of the Sea]].
-- **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
+- **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro. **Three days
+  past the sea there is no water, and the first water is bitter.** At Marah — named for it — the people
+  ***"murmured against Moses"***, the first *lûn* in Scripture, with a two-word question, *"What shall we
+  drink?"*; Moses *"cried to Yahweh"*; Yahweh *"showed him a tree"* (*yārâ*, the verb of teaching), Moses threw
+  it in, and *"the waters were made sweet"* (15:23–25). **No anger is reported and no one is punished.**
+  Instead, ***"There he made a statute and an ordinance for them, and there he tested them"*** — the first
+  *ḥōq* since Pharaoh's brick quota (5:14) and the first test of Israel (*nissâ*, the verb of Genesis 22:1) —
+  and a condition in the words of Genesis 26:5: *"If you will diligently listen to Yahweh your God's voice …
+  I will put none of the diseases on you, which I have put on the Egyptians; for **I am Yahweh who heals
+  you**"* (15:26). Then Elim, *"twelve springs of water, and seventy palm trees"* (15:27). See
+  [[Bitter Water at Marah]].
 - **19–24 The covenant at Sinai** — the theophany, the Ten Commandments, the Book of the Covenant
   (20:22–23:33), and the covenant sealed in blood (24).
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
@@ -247,7 +257,7 @@ for unit.
 
 ### To the mountain (15:22–18)
 
-- [ ] Bitter Water at Marah — Exodus 15:22–27
+- [x] [[Bitter Water at Marah]] — Exodus 15:22–27
 - [ ] Manna and Quail — Exodus 16:1–36
 - [ ] Water from the Rock — Exodus 17:1–7
 - [ ] The Battle with Amalek — Exodus 17:8–16
@@ -347,6 +357,10 @@ for unit.
 - [[The Nations]]
 - [[Praise and Song]]
 - [[Redemption]]
+- [[Murmuring]]
+- [[Healing]]
+- [[Law and Obedience]]
+- [[Testing]]
 
 ## Key people
 
@@ -387,4 +401,7 @@ for unit.
 - [[The Red Sea]] — *yam sûp*, first named when the locusts are thrown into it (10:19)
 - [[Midian]] — where Moses flees
 - [[Horeb]] — *"God's mountain"*, where the bush burns
+- [[Shur]] — the wilderness entered after the sea, three days without water (15:22)
+- [[Marah]] — the bitter water made sweet, and the first statute after the sea (15:23–26)
+- [[Elim]] — twelve springs and seventy palms (15:27)
 - [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)

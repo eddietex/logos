@@ -267,6 +267,8 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[The Crossing of the Sea]] — Exodus 13:17–14:31; **left, and its army lost.** *"Lest … they return to
   Egypt"*; *"Because there were no graves in Egypt"*; *"it would have been better for us to serve the
   Egyptians"*; *"Yahweh saved Israel that day out of the hand of the Egyptians"*
+- [[Bitter Water at Marah]] — Exodus 15:26; **remembered by its diseases.** *"I will put none of the diseases
+  on you, which I have put on the Egyptians"* — the first promise of the wilderness defined against Egypt
 
 ## Related places
 
@@ -349,3 +351,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   13:3, 14, [[The Consecration of the Firstborn]]
 - Its chariots pursue Israel to the sea and are covered; *"There remained not so much as one of them"* —
   Exodus 14:5–28, [[The Crossing of the Sea]]
+- Its diseases, *"which I have put on the Egyptians"*, promised away from an Israel that listens — Exodus
+  15:26, [[Bitter Water at Marah]]

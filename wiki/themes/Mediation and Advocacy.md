@@ -282,6 +282,9 @@ what Job is asking for.
   Yahweh, and in his servant Moses"* (14:31) — **belief in the mediator named beside belief in God for the
   first time**. Paul's *"baptized into Moses"* (1 Corinthians 10:2) names the same bond — see
   [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
+- [[Bitter Water at Marah]] — Exodus 15:24–25; **the complaint turned into a prayer.** The people murmur
+  *"against Moses"* (the first *lûn*, WLC), and Moses does not answer them; he *"cried to Yahweh"*, and the
+  remedy is shown to him, not to them. **The mediator receives the complaint and passes it upward**
 
 ## Related themes
 

@@ -118,6 +118,16 @@ And one well in Genesis is neither: at 21:19, *"God opened her eyes, and she saw
 no dispute, no name, no dig, and eleven verses before Abraham's lawsuit over one. See
 [[Seeing and Being Seen]].
 
+### And the springs after Genesis
+
+**Exodus's first wilderness waters run the Genesis pattern backwards.** At Marah there is no dispute over a
+well, no digging, and no treaty — only water that cannot be drunk, a complaint, and a sweetening
+(Exodus 15:23–25). **Then Elim gives in a single verse more water than Genesis ever fought over**:
+*"twelve springs (ʿênōt) of water, and seventy palm trees"* (15:27; WLC). *ʿAyin* is the spring of
+Hagar's road to Shur (Genesis 16:7) and of the servant's wait for Rebekah (24:13). **No one names Elim's
+springs, claims them, or quarrels over them; the people camp *"by the waters"* and move on.** See
+[[Bitter Water at Marah]] and [[Elim]].
+
 ## Significance
 
 - **Two treaties, one place, and one name explained twice.** Whatever the relation between Genesis 21

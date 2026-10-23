@@ -15,7 +15,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:25–26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 |
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
 | [[Abram the Hebrew - The First Use of the Name]] | thread | Genesis 14:13 · Genesis 10:21; 11:14–17 · Genesis 39:14; 40:15; 41:12 · Exodus 1:15–19; 2:6; 3:18 · 1 Samuel 4:6; 13:19; 14:11 · Jonah 1:9 · Joshua 24:2–3 · Philippians 3:5 |
-| [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 · Exodus 14:5 |
+| [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 · Exodus 14:5 · Exodus 15:22–27 · Genesis 21:15–19 |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Exodus 7:9–12 · Ezekiel 29:3 · Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 — "Leviathan a pet" corrected against 41:5 |
@@ -31,11 +31,12 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] | typology | Exodus 13:21–22 · Exodus 14:19–22, 29, 31 · 1 Corinthians 10:1–6 · Hebrews 11:29 |
 | [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |
 | [[The Bear, Orion, and the Pleiades]] | image | Job 9:9 · Job 38:31–33 · Amos 5:8 · Isaiah 13:10 · Genesis 1:16 · Psalm 147:4 · Isaiah 40:26 |
-| [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 |
+| [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 26:5 · Genesis 22:16–18 · Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 · Exodus 15:26 |
 | [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 |
 | [[The Betrothal at the Well]] | type-scene | Genesis 24:10–61 · Genesis 29:1–20 · Exodus 2:15–21 · John 4:1–42 · Ruth 2:8–9 |
 | [[Better Than Gold - The Price of Wisdom]] | thread | Job 28:1–11, 13, 15–19 · Proverbs 2:4–6 · Proverbs 3:13–15 · Proverbs 8:10–11, 19 · Proverbs 16:16 · Proverbs 20:15 · Psalm 19:10; 119:72 · Isaiah 33:6 · Matthew 13:44 · Colossians 2:3 · Job 22:24–25 · Job 23:10 · Job 31:24–25 |
 | [[The Binding of Isaac in the New Testament]] | quotation | Genesis 22:1–19 · Hebrews 11:17–19 · James 2:21–23 · Romans 8:32 · John 3:16 |
+| [[Bitter Water Made Sweet - Marah and Elisha's Spring]] | parallel | Exodus 15:23–26 · 2 Kings 2:19–22 · Ezekiel 47:8–9 · Revelation 22:2 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |

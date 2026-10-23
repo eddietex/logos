@@ -43,6 +43,18 @@ is stopped at the border and sent back.
 Israel will make the same crossing in the other direction, and hit the same wilderness on the far
 side of the sea.
 
+### In this pericope — Exodus 15:22–27
+
+*"Moses led Israel onward from the Red Sea, and they went out into the wilderness of Shur; and they went
+three days in the wilderness, and found no water"* (15:22).
+
+**The fourth and last appearance of the name in the Torah** (WLC lemma search, Genesis–Deuteronomy). **An
+Egyptian slave was found *"by a fountain of water"* on the road to Shur, on her way back to Egypt (Genesis
+16:7); Egypt's former slaves come out of Egypt into the wilderness of Shur and find no water at all.** The
+first spring they reach is bitter ([[Marah]]); the next has twelve ([[Elim]]). Numbers 33:8 calls the same
+stretch *"the wilderness of Etham"* (WEB; *not yet ingested*); the wiki records both names. See
+[[Bitter Water at Marah]] and [[Etham]].
+
 ## Appears in
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the road Hagar is on when the angel finds her, and the
@@ -50,6 +62,7 @@ side of the sea.
 - [[Abraham and Abimelech]] — Genesis 20:1; the western bearing for where Abraham settles after Sodom
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:18; the western term of Ishmaelite
   range, paired with [[Havilah]] to draw a corridor across the whole desert south
+- [[Bitter Water at Marah]] — Exodus 15:22; **the wilderness after the sea**, three days without water
 
 ## Related places
 
@@ -59,6 +72,8 @@ side of the sea.
 - [[The Negev]] — the dry country above it; Abraham lives *"between Kadesh and Shur"* at 20:1
 - [[Beer Lahai Roi]] — the well on this road, named by Hagar and located between Kadesh and Bered
 - [[Canaan]] — the country she is leaving
+- [[Marah]] — the bitter water three days into it
+- [[The Red Sea]] — the crossing that brings Israel into it
 - [[Havilah]] — the eastern term of the range at 25:18, and the name Shur is paired with whenever the
   Bible draws a line across the desert south (also 1 Samuel 15:7)
 
@@ -71,6 +86,6 @@ side of the sea.
   corridor across the whole northern Arabian desert, and the road his mother was found on — Genesis
   25:18, [[The Death of Abraham and the Line of Ishmael]]
 - Israel enters the wilderness of Shur after crossing the sea, and finds no water for three days —
-  Exodus 15:22
+  Exodus 15:22, [[Bitter Water at Marah]]
 - Saul strikes the Amalekites *"from Havilah as you go to Shur"* — 1 Samuel 15:7; David raids in the
   same country — 1 Samuel 27:8

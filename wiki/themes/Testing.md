@@ -53,7 +53,10 @@ everything away. **Job is the Akedah told from inside, over forty chapters inste
 verses, and with the man given his voice back.** The two share the phrase *fears God* and the reader's
 unfair advantage. See [[Job of Uz]] and [[The Fear of God]].
 
-**Exodus and the wilderness — testing as a forty-year instrument.** The manna is given *"that I may
+**Exodus and the wilderness — testing as a forty-year instrument.** **It begins at Marah, three days past
+the sea**: *"There he made a statute and an ordinance for them, and there he tested them"* (Exodus 15:25),
+the verb's second occurrence in Scripture (WLC lemma search). See [[Bitter Water at Marah]].
+The manna is given *"that I may
 test them, whether they will walk in my law or not"* (Exodus 16:4). The whole journey is retrospectively
 described the same way: *"You shall remember all the way which Yahweh your God has led you these forty
 years in the wilderness, that he might humble you, testing you, to know what was in your heart"*
@@ -106,7 +109,8 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[I Know That My Redeemer Lives]] — Job 19; the answer a tested man arrives at without being told
   anything
 - **Genesis 22:12** — *"For now I know that you fear God"*: the stated object of the test
-- **Exodus 15:25; 16:4; 17:2, 7; 20:20** — the wilderness tests, in both directions
+- **Exodus 16:4; 17:2, 7; 20:20** — the wilderness tests after Marah, in both directions *(not yet
+  ingested)*
 - **Deuteronomy 8:2, 16; 13:1–3** — testing as pedagogy, and a false prophet as an instrument of it
 - **Psalm 66:10; Proverbs 17:3; Isaiah 48:10; Zechariah 13:9; Malachi 3:2–3** — the furnace
 - **Matthew 4:1–11; Luke 22:31–32** — Jesus tested, and Simon sifted like wheat
@@ -164,6 +168,12 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[The Restoration of Job]] — Job 42:7–17; **the test ends without a report.** The heavenly court of 1:6–12 has no sequel; no one
   tells the accuser, and no one tells Job. What remains is God's *my servant Job*, four times, the title the test was
   set to challenge (1:8; 2:3).
+- [[Bitter Water at Marah]] — Exodus 15:25; **the second *nissâ* in Scripture, and the first test of
+  Israel.** *"There he made a statute and an ordinance for them, and there he tested them"* — after a
+  three-day journey, as Abraham's was (Genesis 22:4; WLC lemma search). **The content of the test is given
+  as a condition** — *"If you will diligently listen to Yahweh your God's voice"* (15:26) — **and its result
+  is not reported.** As in Genesis 22, the narrator names the test to the reader; what the people hear is
+  the condition, and whether they were told it was a test is not said
 
 ## Related themes
 
@@ -174,7 +184,9 @@ afterwards. **The explanation, when it comes, always comes to the reader.**
 - [[Righteousness]] — a standing verdict, which a test converts into a demonstrated one
 - [[Integrity]] — the specific property under test in Job: not whether Job is good but whether he is
   of one piece, and what it costs him to keep hold of it
-- [[Covenant]] — obedience has no page of its own in this wiki, and the material sits here, because
+- [[Law and Obedience]] — the page obedience now has; at Marah the statute and the test are given in one
+  verse (Exodus 15:25)
+- [[Covenant]] — obedience had no page of its own until Exodus 15, and the material sat here, because
   Genesis 22:18 makes obedience the ground of a promise that had been unconditional
 - [[Sacrifice and Offering]] — the form Abraham's test takes
 - [[Hope]] — what is left when the test's meaning is withheld

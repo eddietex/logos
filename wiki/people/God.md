@@ -1624,6 +1624,28 @@ established — the word's first occurrence in Scripture (15:17; WLC lemma searc
 kingship, *"Yahweh shall reign forever and ever"*** (15:18) — *mālak* with Yahweh as subject for the first
 time (WLC lemma search). See [[The Song of the Sea]], [[Redemption]], and [[Praise and Song]].
 
+### He shows a tree, makes a statute, tests, and names himself the healer — Exodus 15:22–27
+
+**His first act after the Song is to *show*.** When Moses cries over the bitter water, *"Yahweh showed him a
+tree"* (15:25) — ***wayyôrēhû***, the hiphil of *yārâ*, the verb of *"I will … teach you what you shall
+speak"* (4:12; WLC). **He does not sweeten the water himself; he shows Moses what to throw in.** The people's
+complaint is against Moses (15:24), and no anger of his is reported.
+
+**Then the first statute after the sea, and the first test of Israel.** *"There he made a statute and an
+ordinance for them, and there he tested them"* (15:25) — ***ḥōq ûmišpāṭ***, the pair's first occurrence, and
+***nissâ***, the verb of *"God tested Abraham"* (Genesis 22:1), its second in Scripture (WLC lemma search).
+**The subject *he* is not named**; the next verse is his speech, and most readers take him as the one who
+makes and tests.
+
+**He gives a condition and names himself by what he will do.** *"If you will diligently listen to Yahweh your
+God's voice … I will put none of the diseases on you, which I have put on the Egyptians; for **I am Yahweh who
+heals you**"* (15:26). **The diseases on Egypt are his own act** (*śamtî*, *I have put*; WLC), and the name is
+a participle: ***rōpəʾekā***, *your healer* — **the form Genesis used for the Egyptian *"physicians"* who
+embalmed Jacob** (Genesis 50:2; WLC). The conditions are in the vocabulary of what he said of Abraham, who
+*"obeyed my voice, and kept … my commandments, my statutes"* (Genesis 26:5). **Then Elim, where nothing he
+does is reported** — twelve springs and seventy palms (15:27). See [[Bitter Water at Marah]], [[Healing]],
+and [[Law and Obedience]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1824,6 +1846,9 @@ time (WLC lemma search). See [[The Song of the Sea]], [[Redemption]], and [[Prai
 - Sung to for the first time: *"Yah is my strength and song"*, *"a man of war"*, *"Who is like you, Yahweh,
   among the gods?"*; praised as redeemer, guide, and purchaser of his people, who will plant them in his
   sanctuary and *"reign forever and ever"* — Exodus 15:1–21, [[The Song of the Sea]]
+- Shows Moses the tree that sweetens the bitter water at Marah; makes *"a statute and an ordinance"* and tests
+  Israel; promises none of Egypt's diseases to those who listen — *"I am Yahweh who heals you"* — Exodus
+  15:22–27, [[Bitter Water at Marah]]
 ## Appears in
 
 - [[A Wife for Isaac]] — Genesis 24:1–67; **the longest chapter in Genesis, in which he is named
@@ -2190,6 +2215,8 @@ time (WLC lemma search). See [[The Song of the Sea]], [[Redemption]], and [[Prai
 - [[The Song of the Sea]] — Exodus 15:1–21; **sung to.** *"Yah is my strength and song"*; *"Yahweh is a man
   of war"*; *"Your right hand, Yahweh"*; *"Who is like you, Yahweh, among the gods?"*; *"the people that
   you have redeemed"*; *"Yahweh shall reign forever and ever"*
+- [[Bitter Water at Marah]] — Exodus 15:25–26; **the healer.** *"Yahweh showed him a tree"*; *"There he made
+  a statute and an ordinance for them, and there he tested them"*; *"I am Yahweh who heals you"*
 
 ## Related people
 
