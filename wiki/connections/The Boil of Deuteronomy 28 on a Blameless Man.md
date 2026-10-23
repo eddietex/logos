@@ -15,6 +15,8 @@ tags: [connection]
   scurvy, and with the itch, of which you can not be healed."* (WEB, bible-api.com)
 - **Exodus 9:8–11** — the sixth plague: *šəḥîn* breaking out in boils on man and beast throughout
   Egypt, so that the magicians could not stand before Moses — [[Livestock, Boils, and Hail]]
+- **Deuteronomy 28:29, 38, 60** — the darkness, the locusts, and *"all the diseases of Egypt"* in the
+  same curse list — [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
 - **Leviticus 13:18–23** — the priest's examination of a *šəḥîn* that has healed and broken out
   again, and the verdict *clean* or *unclean*
 - **2 Kings 20:7 · Isaiah 38:21** — Hezekiah's *šəḥîn*, and the cake of figs

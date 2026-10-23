@@ -99,6 +99,13 @@ lice. Aaron is summoned with Moses when Pharaoh confesses (9:27) but says nothin
 passed from his hand to Moses' hand** at the point where the narrative begins to say the word comes
 *"by the hand of Moses"* (9:35). See [[Livestock, Boils, and Hail]].
 
+**At the locusts and the darkness he goes in, is driven out, and drops out of the scene.** He goes in
+with Moses to ask *"How long will you refuse to humble yourself before me?"* (10:3), is brought back
+with him (10:8), driven out with him (10:11), and summoned with him to hear Pharaoh's second confession
+(10:16). **Every speaking verb that is singular is Moses'** (10:9, 25), and from 10:18 the narrative
+follows Moses alone: *"He went out from Pharaoh, and prayed"*; *"Pharaoh called to Moses"* (10:24).
+Aaron is not named at the darkness. See [[Locusts and Darkness]].
+
 ### What is ahead
 
 The rest of the plagues; Sinai, where he goes up with the elders (24); the priestly
@@ -127,6 +134,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
   16–17, [[Frogs, Lice, and Flies]]
 - Takes the furnace ashes with Moses for the boils; summoned with Moses to Pharaoh's confession —
   Exodus 9:8–10, 27, [[Livestock, Boils, and Hail]]
+- Goes in, is brought back, is driven out, and is summoned with Moses before the locusts; not named
+  at the darkness — Exodus 10:3, 8–11, 16, [[Locusts and Darkness]]
 
 ## Appears in
 
@@ -150,6 +159,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Livestock, Boils, and Hail]] — Exodus 9:8–10, 27; **beside Moses, and silent.** Takes the ashes,
   but Moses throws them; Moses stretches the rod for the hail; called with Moses to hear *"I have
   sinned"*
+- [[Locusts and Darkness]] — Exodus 10:3, 8–11, 16; **driven out with Moses, then out of the scene.**
+  Hears *"I have sinned against Yahweh your God, and against you"*; absent from the darkness
 
 ## Related people
 

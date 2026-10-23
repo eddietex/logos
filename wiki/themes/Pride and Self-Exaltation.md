@@ -135,6 +135,11 @@ reading that the text supports, is located in what the building was *for*.
   *mistôlēl*, only here in Genesis through Numbers (WLC). Lexicons derive it from *sālal*, *to heap
   up*, so Pharaoh would be building himself up as a barrier against God's people; that etymology is
   not checked here. **God's answer is that he made Pharaoh stand** (9:16)
+- [[Locusts and Darkness]] — Exodus 10:3; **asked to be humbled.** *"How long will you refuse to humble yourself
+  before me?"* — *lēʿānōt*, the niphal of *ʿānâ*, the verb of Egypt's affliction of Israel (Genesis
+  15:13; Exodus 1:11–12, WLC). **The king who *"still exalts himself"* (9:17) and afflicted Israel is
+  asked to be afflicted, humbled, himself.** He answers with a taunt, *"Yahweh be with you if I will let
+  you go"* (10:10), and finally with *"see my face no more"* (10:28)
 
 ## Related themes
 

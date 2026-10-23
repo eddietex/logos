@@ -31,7 +31,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
 | [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 |
-| [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Genesis 11:3 · 1 Corinthians 10:1–2 |
+| [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
 | [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |
 | [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 · Exodus 6:14–27 |
@@ -60,7 +60,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Whirlwind Answers Chapter 3]] | literary-parallel | Job 3:1–26 · Job 38:1–41:34 · Job 40:8 · Job 41:1, 10, 18 · Genesis 1:1–2:3 — order claim corrected against 38:8–21; verse count corrected and 41:10 added against chapter 41 |
 | [[Who Am I - The Objections of the Called]] | motif | Exodus 3:11–12 · Exodus 4:10–12 · Exodus 6:12, 30 · Judges 6:15–16 · 1 Samuel 9:21 · Isaiah 6:5, 8 · Jeremiah 1:6–9 |
 | [[Who Has First Given to Me - Job 41.11 in Romans 11.35]] | quotation | Job 41:11 · Romans 11:33–36 · Isaiah 40:13–14 · Job 22:2–3 · Job 35:7 · Job 1:9 · 1 Corinthians 3:19 |
-| [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] | thread | Exodus 1:8 · Exodus 2:25; 3:7 · Exodus 5:2 · Exodus 6:3, 7 · Exodus 7:5, 17, 23; 8:8, 10, 19, 22; 9:14, 16, 27, 29–30; 10:2; 11:7 · Exodus 14:4, 18 · Exodus 18:11 · Job 21:14–15 · Proverbs 30:9 |
+| [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] | thread | Exodus 1:8 · Exodus 2:25; 3:7 · Exodus 5:2 · Exodus 6:3, 7 · Exodus 7:5, 17, 23; 8:8, 10, 19, 22; 9:14, 16, 27, 29–30; 10:2, 7; 11:7 · Exodus 14:4, 18 · Exodus 18:11 · Job 21:14–15 · Proverbs 30:9 |
 | [[Who Made You a Prince and a Judge - The Rejected Deliverer]] | typology | Genesis 37:8 · Exodus 2:13–15 · Exodus 3:11 · Exodus 4:11 · Exodus 18:13 · Acts 7:23–29, 35 · Luke 12:14 · Exodus 4:29–31 · Exodus 5:20–21 |
 | [[Who Provides for the Raven - Job 38.41, Psalm 147.9, and Luke 12.24]] | thread | Job 38:39–41 · Job 10:16 · Job 19:7 · Job 30:20 · Psalm 104:21, 27–28 · Psalm 147:9 · Matthew 6:26 · Luke 12:6–7, 24 |
 | [[Who Will Contend with Me - Job 13, Isaiah 50, and Romans 8]] | allusion | Job 13:18–19, 28 · Job 9:2–3, 33 · Job 23:3–7 · Job 40:2 · Isaiah 50:7–9 · Isaiah 51:8 · Romans 8:31–34 |

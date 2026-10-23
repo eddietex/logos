@@ -95,6 +95,12 @@ practical.**
   *"Deliver him from going down to the pit, I have found a ransom"* (33:24); the man then sings, *"I have
   sinned … He has redeemed my soul from going into the pit"* (33:27–28). Grace before the confession, and
   the confession sung in public.
+- [[Locusts and Darkness]] — Exodus 10:17; **forgiveness asked of a man.** Pharaoh says to Moses and Aaron,
+  ***"please forgive my sin"***, *śāʾ nāʾ ḥaṭṭāʾtî*, *lift, please, my sin* — **the words of Joseph's
+  brothers to Joseph**, *śāʾ nāʾ pešaʿ ʾaḥêkā wəḥaṭṭāʾtām* (Genesis 50:17, WLC). Both requests go to the
+  injured man, not to God; Pharaoh adds *"and pray to Yahweh your God"*. **Joseph wept and forgave;
+  Moses prays and the locusts go, but the text says nothing of forgiveness, and the heart is hardened
+  again** (10:20)
 
 ## Related themes
 

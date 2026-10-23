@@ -246,6 +246,11 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   a hail *"such as had not been in all the land of Egypt since it became a nation"* — Egypt called a
   *gôy* — breaking *"every tree of the field"*, the flax and the barley. **Its people divide for the
   first time** between *"those who feared Yahweh's word"* and those who did not (9:20–21)
+- [[Locusts and Darkness]] — Exodus 10:1–29; **eaten bare, and then dark.** The locusts fill *"the
+  houses of all the Egyptians"*, cover *"the surface of the whole earth, so that the land was
+  darkened"*, and leave *"nothing green … through all the land of Egypt"* (10:6, 15). **Its own court
+  tells its king *"Egypt is destroyed"*** (10:7). Then *"thick darkness in all the land of Egypt for
+  three days"*, and *"nobody rose from his place"* (10:22–23)
 
 ## Related places
 
@@ -264,6 +269,7 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
 - [[Assyria]] — the other great power Israel lives between
 - **Cush** and **Put** — Nubia and Libya, its neighbours south and west, and Ham's other two sons
 - [[Pithom]] — store-city built by Israel's forced labour
+- [[The Red Sea]] — *yam sûp*, where the west wind throws Egypt's locusts (Exodus 10:19)
 
 ## Events here
 
@@ -314,3 +320,5 @@ Isaiah 19:23–25 closes with Egypt and [[Assyria]] and Israel worshipping toget
   [[Frogs, Lice, and Flies]]
 - The livestock die, boils break out, and hail and fire strike the fields; Pharaoh's first
   confession — Exodus 9:1–35, [[Livestock, Boils, and Hail]]
+- The locusts eat what the hail left; three days of darkness; Pharaoh's last offers and his threat
+  to Moses — Exodus 10:1–29, [[Locusts and Darkness]]

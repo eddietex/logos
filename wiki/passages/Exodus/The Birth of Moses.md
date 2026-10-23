@@ -126,7 +126,7 @@ papyrus to save a child, in the country that has just put Israel to making brick
 of the Nile marsh, the material of Egypt's writing. See [[Bildad's First Speech]].
 
 ***"In the reeds"*** — ***bassûp*** — **names the sea Israel will cross.** The body of water the
-WEB calls the *Red Sea* (13:18; 15:4) is in Hebrew *yam sûp*, *the sea of reeds*. **Moses is laid
+WEB calls the *Red Sea* (first named at 10:19, then 13:18; 15:4) is in Hebrew *yam sûp*, *the sea of reeds*. **Moses is laid
 among the *sûp* as an infant and leads the people through the *sûp* as a man**; and the *sûp* is where
 *"Pharaoh's chariots and his army"* are cast (15:4) — the water that was meant for Hebrew sons
 receiving Egypt's soldiers instead. See [[The Nile]] and [[Retribution]].

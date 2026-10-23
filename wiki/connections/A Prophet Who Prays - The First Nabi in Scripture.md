@@ -21,6 +21,8 @@ tags: [connection]
   to the word of Moses"*: **Moses praying for a foreign king, as Abraham did** — [[Frogs, Lice, and Flies]]
 - **Exodus 9:27–33** — *"Pray to Yahweh"* a third time, after *"I have sinned"*; Moses *"spread abroad
   his hands to Yahweh"*, knowing Pharaoh does *"not yet fear"* — [[Livestock, Boils, and Hail]]
+- **Exodus 10:16–18** — *"please forgive my sin … and pray to Yahweh your God"*: the fourth and last
+  intercession for Pharaoh — [[Locusts and Darkness]]
 - **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh relented from the evil which he
   said he would do to his people"*
 - **Numbers 12:6–8; 14:13–20** — prophecy defined by dream and vision, with Moses as the exception,
@@ -132,6 +134,12 @@ time"*, and asks again (*haʿtîrû*, 9:28). Moses agrees, and says to his face,
 fear Yahweh God"* (9:30). **The intercessor does not wait for the king to be sincere**; he prays so that
 *"you may know that the earth is Yahweh's"* (9:29), spreading his palms (*pāraś kappayim*) outside the
 city, and the storm stops (9:33). See [[Livestock, Boils, and Hail]].
+
+**At the locusts it happens a fourth time, and for the last time.** Pharaoh asks Moses and Aaron
+themselves to *"forgive my sin"*, and then to *"pray to Yahweh your God"* (10:17). *"He went out from
+Pharaoh, and prayed to Yahweh"* (*wayyeʿtar*, 10:18), and a west wind removes every locust (10:19).
+**Ten verses later the king threatens the intercessor's life** (10:28). There is no further prayer for
+Pharaoh in the plagues. See [[Locusts and Darkness]].
 
 ### The New Testament's move
 

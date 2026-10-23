@@ -100,9 +100,26 @@ release a third time (9:28). Moses answers, *"I know that you don't yet fear Yah
 the storm stops, ***"he sinned yet more, and hardened his heart, he and his servants"*** (9:34). See
 [[Livestock, Boils, and Hail]] and [[For This Very Purpose - Exodus 9.16 in Romans 9.17]].
 
+**At the locusts and the darkness he is overruled by his own court, confesses again, and threatens
+Moses with death.** God says *"I have hardened his heart, and the heart of his servants"* (10:1), and
+asks him through Moses, ***"How long will you refuse to humble yourself before me?"*** (10:3) — *ʿānâ*,
+the root of the affliction Egypt laid on Israel (1:11–12). Moses walks out on him (10:6). **Then his
+servants speak to him for the first time**: *"How long will this man be a snare to us? … Don't you yet
+know that Egypt is destroyed?"* (10:7). He calls Moses back and asks *"who are those who will go?"*
+(10:8); told *everyone*, he answers with a taunt in the form of a blessing — *"Yahweh be with you if I
+will let you go with your little ones!"* — and offers the men only, and has Moses and Aaron *"driven
+out"* (10:10–11). **After the locusts he confesses a second time, more fully than the first**: ***"I have
+sinned against Yahweh your God, and against you. Now therefore please forgive my sin again"***
+(10:16–17) — *śāʾ nāʾ ḥaṭṭāʾtî*, the words of Joseph's brothers to Joseph (Genesis 50:17, WLC) — and
+calls the locusts *"this death"*. **Every hardening in the chapter is Yahweh's** (10:1, 20, 27). After
+three days of darkness he makes his last offer — everyone, but *"let your flocks and your herds stay
+behind"* (10:24) — and when Moses refuses *"a hoof"*, ***"Get away from me! Be careful to see my face
+no more; for in the day you see my face you shall die!"*** (10:28). See [[Locusts and Darkness]] and
+[[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]].
+
 ### What is ahead
 
-The locusts, the darkness, and the last plague announced (10–11); the release; the pursuit; and the
+The last plague announced (11); the release; the pursuit; and the
 sea. These are written as
 their pericopes arrive.
 
@@ -128,6 +145,9 @@ their pericopes arrive.
 - Loses his livestock and checks Israel's; his heart hardened by Yahweh after the boils; told *"for
   this cause I have made you stand"*; confesses *"I have sinned this time"* under the hail; promises
   release a third time; *"sinned yet more"* — Exodus 9:1–35, [[Livestock, Boils, and Hail]]
+- Told by his servants *"Egypt is destroyed"*; offers the men only, then everyone but the herds;
+  confesses *"I have sinned against Yahweh your God, and against you"* and asks forgiveness; his heart
+  hardened by Yahweh twice; threatens Moses with death — Exodus 10:1–29, [[Locusts and Darkness]]
 
 ## Appears in
 
@@ -151,6 +171,9 @@ their pericopes arrive.
 - [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **made to stand, and the first confession.**
   *"Yahweh hardened the heart of Pharaoh"*; *"for this cause I have made you stand"*; *"I have sinned
   this time"*; *"he sinned yet more"*
+- [[Locusts and Darkness]] — Exodus 10:1–29; **overruled by his court, and the threat.** *"Who are
+  those who will go?"*; *"please forgive my sin"*; *"this death"*; *"in the day you see my face you
+  shall die!"*
 
 ## Related people
 
@@ -160,6 +183,8 @@ their pericopes arrive.
 - [[God]] — who foretells his refusal
 - [[Pharaoh's Magicians (of the Exodus)]] — his court experts, who match the first sign (7:11) and
   tell him *"This is God's finger"* (8:19)
+- [[Pharaoh's Servants (of the Exodus)]] — his court, hardened with him (9:34; 10:1), who ask him *"How
+  long will this man be a snare to us?"* (10:7)
 
 ## Themes associated
 

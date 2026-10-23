@@ -189,9 +189,23 @@ that you don't yet fear Yahweh God"*** (9:30), and he prays anyway. **The chapte
 first *bəyad-mōšeh* in Exodus**: *"as Yahweh had spoken through Moses"*, literally *by the hand of
 Moses* (9:35). See [[Livestock, Boils, and Hail]].
 
+**At the locusts and the darkness he walks out, refuses every bargain, and is told never to come
+back.** God tells him the purpose before he goes in: *"that you may tell in the hearing of your son,
+and of your son's son"* (10:2). He and Aaron ask Pharaoh, in God's name, ***"How long will you refuse
+to humble yourself before me?"*** (10:3), and after the threat of locusts ***"He turned, and went out
+from Pharaoh"*** (10:6) without waiting for an answer. Pharaoh's servants call him *"a snare"* (10:7).
+Asked *"who are those who will go?"*, he names everyone — *"our young and … our old … our sons and …
+our daughters … our flocks and … our herds"* (10:9) — and he and Aaron are *"driven out"* (10:11). He
+stretches out the rod for the locusts and prays a fourth time for Pharaoh (10:13, 18). At the darkness
+he stretches out only his hand (10:22). **To the last offer he answers *"Not a hoof shall be left
+behind … we don't know with what we must serve Yahweh, until we come there"*** (10:26). Pharaoh says
+*"in the day you see my face you shall die!"*, and Moses answers, ***"You have spoken well. I will see
+your face again no more"*** (10:28–29) — though he is still speaking to Pharaoh at 11:4–8. See
+[[Locusts and Darkness]].
+
 ### What is ahead
 
-The rest of the plagues (9–11); the Passover, the sea, and the
+The last plague announced (11); the Passover, the sea, and the
 wilderness (12–18); Sinai, the law, and the tabernacle (19–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
@@ -248,6 +262,9 @@ sections are written as their pericopes arrive.
   hail with a way of escape and stretches the rod to the sky; prays with spread hands after
   Pharaoh's confession; *"you don't yet fear Yahweh God"* — Exodus 9:1–35,
   [[Livestock, Boils, and Hail]]
+- Asks Pharaoh *"How long will you refuse to humble yourself?"*; walks out; names all who will go;
+  stretches the rod for the locusts and his hand for the darkness; prays a fourth time; refuses to
+  leave a hoof; *"I will see your face again no more"* — Exodus 10:1–29, [[Locusts and Darkness]]
 
 ## Appears in
 
@@ -285,6 +302,9 @@ sections are written as their pericopes arrive.
 - [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the one the magicians cannot stand before.**
   Throws the furnace ashes; stretches the rod for the hail; spreads his hands to Yahweh for Pharaoh,
   knowing he *"doesn't yet fear"*; the word comes *"by the hand of Moses"*
+- [[Locusts and Darkness]] — Exodus 10:1–29; **the walk-out, and the last word.** *"How long will you
+  refuse to humble yourself?"*; *"a snare to us"*; *"Not a hoof shall be left behind"*; *"I will see
+  your face again no more"*
 
 ## Related people
 
@@ -304,6 +324,7 @@ sections are written as their pericopes arrive.
 - [[Pharaoh (of the Exodus)]] — the king he is sent to
 - [[Korah (son of Izhar)]] — his first cousin (6:21)
 - [[Elisheba]] — his sister-in-law (6:23)
+- [[Pharaoh's Servants (of the Exodus)]] — who call him *"a snare"* (10:7)
 
 ## Themes associated
 

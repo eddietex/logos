@@ -267,6 +267,11 @@ that it survives *at all*, without the payments, and while shouting. See [[Job (
   spared by it; the rest *"didn't respect Yahweh's word"*, literally *did not set their heart* on it.
   And Moses to Pharaoh, after his confession: *"I know that you don't yet fear Yahweh God"* —
   **confession without fear, which lasts only until the storm stops** (9:34)
+- [[Locusts and Darkness]] — Exodus 10:7; **"Don't you yet know."** Pharaoh's servants — some of whom *"feared
+  Yahweh's word"* at the hail (9:20) — ask him *hăṭerem tēdaʿ kî ʾābədâ miṣrāyim*, *"Don't you yet know
+  that Egypt is destroyed?"*: the *ṭerem*, *not yet*, of Moses' *"you don't yet fear Yahweh God"*
+  (9:30). **The fear Moses said Pharaoh lacked, his own court now presses on him as knowledge** —
+  [[Pharaoh's Servants (of the Exodus)]]
 
 ## Related themes
 

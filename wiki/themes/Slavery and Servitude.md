@@ -284,6 +284,12 @@ but it denies it any basis in the nature of the persons. See [[Job's Oath of Inn
 - [[Frogs, Lice, and Flies]] — Exodus 8:1, 14, 20; ***"Let my people go, that they may serve
   me"***, twice more. The dead frogs are piled *ḥŏmārim ḥŏmārim*, *heaps* — the WLC tags it with the
   lemma of *ḥōmer*, the *"mortar"* of Israel's labour (1:14); the play is a reading, not the text's claim
+- [[Locusts and Darkness]] — Exodus 10:3, 7–11, 24–26; **serve, three ways.** God's demand is unchanged,
+  *"that they may serve me"* (10:3). **Pharaoh's *ʿăbādîm*, his servants, speak for the first time** —
+  *"Let the men go, that they may serve Yahweh"* (10:7). Pharaoh's offers are each phrased *"Go, serve
+  Yahweh"* with something held back (10:8, 11, 24). And Moses: *"of it we must take to serve Yahweh our
+  God; and we don't know with what we must serve Yahweh"* (10:26). **The court that serves Pharaoh asks
+  him to let Israel go to serve another master** — [[Pharaoh's Servants (of the Exodus)]]
 
 ## Related themes
 

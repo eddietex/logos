@@ -178,6 +178,16 @@ raw text.)*
 - [[Behemoth and Leviathan]] — Job 41:18, 32; **chapter 3's dawn in the monster's eyes.** *"His sneezing flashes
   out light. His eyes are like the eyelids of the morning"* (41:18), the phrase of 3:9 and its only other
   occurrence in the book; and the deep made bright behind him, *"He makes a path shine after him"* (41:32).
+- [[Locusts and Darkness]] — Exodus 10:15, 21–23; **the darkness of Genesis 1:2 over one country, and light in
+  one people's houses.** The locusts first darken the land, *wattehšak hāʾāreṣ* (10:15), the only
+  *ḥāšak* in the Torah. Then *ḥōšek*, the word of *"Darkness was on the surface of the deep"* (Genesis
+  1:2), is *"darkness which may be felt"* (*wəyāmēš*, from *māšaš*, *grope*) and *ḥōšek-ʾăpēlâ*,
+  *"thick darkness"*, three days. ***"They didn't see one another … but all the children of Israel had
+  light in their dwellings"*** (10:23). In the Torah *ḥōšek* occurs only in Genesis 1, here, and at the
+  sea (14:20) (WLC). **Darkness and gloom become the sign of the day of Yahweh in Joel 2:2**; groping in
+  darkness becomes a covenant curse (Deuteronomy 28:29) —
+  [[The Day of the Locust - Exodus 10 and Joel 1-2]] —
+  [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
 
 ## Related themes
 

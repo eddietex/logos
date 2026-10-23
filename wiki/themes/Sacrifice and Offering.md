@@ -184,6 +184,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
   away"*. Moses refuses the first because what Israel sacrifices is *"the abomination of the Egyptians"*
   and would get them stoned, and will not say what it is: *"as he shall command us"* (8:27) —
   [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]]
+- [[Locusts and Darkness]] — Exodus 10:9, 25–26; **the feast and the animals for it.** *"We must hold a feast to
+  Yahweh"* — *ḥag*, the first use of the noun in the Bible; the next is the Passover (12:14) (WLC). Moses
+  asks Pharaoh for *"sacrifices and burnt offerings"*, *zəbāḥîm wəʿōlôt*, and refuses to leave *"a
+  hoof"*: *"we don't know with what we must serve Yahweh, until we come there"*. **Israel does not yet
+  know how it will worship; the law of offerings is given at the mountain.** The first burnt offering
+  actually offered in Exodus is Jethro's (18:12)
 
 ## Related themes
 

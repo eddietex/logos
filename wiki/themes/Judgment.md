@@ -351,6 +351,12 @@ rule are the conditions the rest of Scripture is set in.
   the earth"*; and a hail *"such as has not been in Egypt since the day it was founded"*, rained with
   fire by the verb of Sodom's judgment (*māṭar*, Genesis 19:24). **Judgment now comes with a warning
   and a way of escape**, and those who heed it are spared (9:19–21) — [[Fire and Sulfur from the Sky]]
+- [[Locusts and Darkness]] — Exodus 10:1–29; **the judgment measured in generations.** The locusts are such *"as
+  neither your fathers nor your fathers' fathers have seen"* (10:6), and *"Before them there were no
+  such locusts as they, nor will there ever be again"* (10:14), words Joel reuses for a plague on
+  Judah (Joel 2:2). Egypt's court says *"Egypt is destroyed"* (10:7). The darkness is the *ʾăpēlâ* of
+  Deuteronomy's curse (28:29) — [[The Day of the Locust - Exodus 10 and Joel 1-2]] —
+  [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
 
 ## Related themes
 

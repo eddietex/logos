@@ -7,7 +7,7 @@ Links resolve once a book's page is created — unresolved links below are books
 
 ### Law
 - [x] [[Genesis]] — complete (59 / 59 pericopes)
-- [ ] [[Exodus]] — in-progress (12 / 53 pericopes)
+- [ ] [[Exodus]] — in-progress (13 / 53 pericopes)
 - [ ] [[Leviticus]] — not-started
 - [ ] [[Numbers]] — not-started
 - [ ] [[Deuteronomy]] — not-started

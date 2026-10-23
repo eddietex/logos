@@ -71,6 +71,11 @@ of Israel were, there was no hail"* (9:26). See
   distinguishes *"the livestock of Israel"* from Egypt's without naming the place (9:4); the hail
   names it: ***"Only in the land of Goshen, where the children of Israel were, there was no hail"***
   — the only land in Egypt left with its fields and trees
+- [[Locusts and Darkness]] — Exodus 10:23; **not named, and the distinction kept anyway.** In the
+  darkness *"all the children of Israel had light in their dwellings"*, *bəmôšəbōtām*; the text says
+  where the light was by people, not by place. **And the Goshen arrangement of Genesis 50:8 — children
+  and herds left behind — is what Pharaoh offers twice in the chapter and Moses refuses twice**
+  (10:8–11, 24–26)
 
 ## Related places
 
@@ -90,7 +95,8 @@ of Israel were, there was no hail"* (9:26). See
   [[Joseph and the Famine]]
 - **The plagues fall on Egypt and not on Goshen** — Exodus 8:22; 9:26 — *"I will set apart in that day
   the land of Goshen, in which my people dwell, that no swarms of flies shall be there"* —
-  [[Frogs, Lice, and Flies]], [[Livestock, Boils, and Hail]]
+  [[Frogs, Lice, and Flies]], [[Livestock, Boils, and Hail]]; and Israel has light in its dwellings
+  in the darkness (10:23), the place unnamed — [[Locusts and Darkness]]
 - **Israel leaves from Rameses, in the same district** — Exodus 12:37; Genesis 47:11 calls the
   settlement *"the land of Rameses"*
 - **Joshua 10:41 and 11:16 name a different Goshen** — a region in the south of Canaan — **which is not

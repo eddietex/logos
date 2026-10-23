@@ -9,6 +9,9 @@ tags: [connection]
 
 - **Exodus 9:16** — *"but indeed for this cause I have made you stand: to show you my power, and that
   my name may be declared throughout all the earth"* — [[Livestock, Boils, and Hail]]
+- **Exodus 10:1–2** — *"for I have hardened his heart … that I may show these my signs among them, and
+  that you may tell in the hearing of your son"* — *təsappēr*, the verb of 9:16's *"declared"* (WLC) —
+  [[Locusts and Darkness]]
 - **Exodus 33:19** — *"I will be gracious to whom I will be gracious, and will show mercy on whom I
   will show mercy"* *(not yet ingested)*
 - **Romans 9:14–18** — *"For the Scripture says to Pharaoh, 'For this very purpose I caused you to be

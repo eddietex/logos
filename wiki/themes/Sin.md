@@ -277,6 +277,11 @@ has been argued.
   *ḥāṭāʾtî happaʿam*. When the hail stops, *"he sinned yet more"* — *wayyōsep laḥăṭōʾ*, the verb of his
   own confession — *"and hardened his heart"*. **The word for the confession becomes the word for the
   relapse.** He will confess again at 10:16
+- [[Locusts and Darkness]] — Exodus 10:16–17; **the second confession, and the more specific.** ***"I have sinned
+  against Yahweh your God, and against you. Now therefore please forgive my sin again"*** —
+  *ḥāṭāʾtî laYHWH ʾĕlōhêkem wəlākem … śāʾ nāʾ ḥaṭṭāʾtî ʾak happaʿam*. **It names both parties sinned
+  against**, as the first (*"I have sinned this time"*, 9:27) did not, and asks forgiveness *"only this
+  time"*. It is followed, like the first, by a hardening (10:20), now Yahweh's
 
 ## Related themes
 

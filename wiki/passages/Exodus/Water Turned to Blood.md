@@ -335,7 +335,7 @@ up to 7:25.
 - Exodus 6:6–7, 12, 30; 7:1–13 — *"great judgments"*, *"you shall know"*, *"uncircumcised lips"*; the
   forecast and the first sign — [[I Am Yahweh]] — [[Aaron's Staff Before Pharaoh]]
 - Exodus 8:1–15 (Hebrew 7:26–8:11) — the frogs, matched again; *"the land stank"* at 8:14
-- Exodus 10:1 — *šît*, God *setting* his signs
+- Exodus 10:1 — *šît*, God *setting* his signs — [[Locusts and Darkness]]
 - Leviticus 11:36 — *miqwēh*, a gathering of water (WLC; not yet ingested)
 - Job 7:17 — *"that you should set your mind on him"*, *šît lēb*
 - Psalm 78:44; 105:29 — *"he turned their rivers into blood"*; *"and killed their fish"* (WEB) —

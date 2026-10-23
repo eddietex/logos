@@ -411,6 +411,10 @@ the rest of the canon.
 - [[Water Turned to Blood]] — Exodus 7:18–24; **the river of life made a river of death.** The fish
   die, the water stinks, and a country fed by one river digs in the mud around it for something to
   drink — the river Pharaoh made the grave of Hebrew sons (1:22)
+- [[Locusts and Darkness]] — Exodus 10:17, 28; **"this death."** Pharaoh calls the locusts *hammāwet hazzeh*,
+  *"this death"* — the plague named by what it means for a country that lives on its crops. And he
+  threatens Moses in the form of the garden warning: *"in the day you see my face you shall die"*
+  (10:28; compare *"in the day that you eat of it, you will surely die"*, Genesis 2:17)
 
 ## Related themes
 

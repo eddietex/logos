@@ -86,6 +86,12 @@ one.
   remove the magicians from the story (*"couldn't stand before Moses"*, 9:11); the hail is the first
   sign announced with a way of escape (9:19), and its purpose is the widest yet: *"that my name may be
   declared throughout all the earth"* (9:16)
+- [[Locusts and Darkness]] — Exodus 10:1–29; **the eighth and ninth plagues, and the signs given a second
+  audience.** *"That I may show these my signs among them"* — *šitî*, *set*, the verb of Pharaoh's
+  *"didn't even take this to heart"* (7:23) — *"and that you may tell in the hearing of your son, and
+  of your son's son … my signs which I have done among them"* (10:1–2). **The signs are now for
+  telling as well as for seeing.** The locusts come on an east wind and leave on a west one; the
+  darkness can be *"felt"* — [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]]
 
 ## Related themes
 

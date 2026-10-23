@@ -237,6 +237,10 @@ already did.
   my hands to Yahweh"* — *ʾeprōś ʾet-kappay*, the first description in Scripture of the gesture, which
   in Genesis through Numbers occurs only here and at 9:33 (WLC). **He prays knowing Pharaoh does *"not
   yet fear Yahweh God"***, and the storm stops
+- [[Locusts and Darkness]] — Exodus 10:17–18; **the fourth prayer for Pharaoh.** *"Pray to Yahweh your God,
+  that he may also take away from me this death"*; *"He went out from Pharaoh, and prayed to Yahweh"* —
+  *wayyeʿtar*, the *ʿātar* of 8:8, 28–30. **Answered at once**: *"Yahweh turned an exceeding strong west
+  wind"* (10:19). After this Pharaoh asks for no more prayer
 
 ## Related themes
 

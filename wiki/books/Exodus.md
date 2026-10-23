@@ -123,7 +123,18 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   earth"*** (9:16), quoted in Romans 9:17 — and gives the first warning with a way of escape, which
   some of Pharaoh's servants take (9:19–21). The hail spares Goshen; Pharaoh confesses, ***"I have
   sinned this time. Yahweh is righteous, and I and my people are wicked"*** (9:27), and when Moses has
-  prayed it away he *"sinned yet more"* (9:34). See [[Livestock, Boils, and Hail]].
+  prayed it away he *"sinned yet more"* (9:34). See [[Livestock, Boils, and Hail]]. **Then the
+  locusts and the darkness, and every hardening is God's.** *"I have hardened his heart, and the heart
+  of his servants"* (10:1), and the plagues gain a second audience: ***"that you may tell in the
+  hearing of your son, and of your son's son"*** (10:2). Moses asks *"How long will you refuse to humble
+  yourself before me?"* and walks out; **Pharaoh's servants speak for the first time — *"Don't you yet
+  know that Egypt is destroyed?"*** (10:7) — and he offers the men only. The east wind of Pharaoh's
+  dream brings locusts until *"There remained nothing green"*; Pharaoh confesses again, *"please forgive
+  my sin"*, and a west wind throws them into the *yam sûp*, named here for the first time (10:13–19).
+  Then *"darkness which may be felt"* for three days, ***"but all the children of Israel had light in
+  their dwellings"*** (10:21–23). The last offer keeps the herds; Moses: *"Not a hoof shall be left
+  behind"*; Pharaoh: *"in the day you see my face you shall die!"* (10:24–29). See
+  [[Locusts and Darkness]].
 - **12–15:21 Passover and deliverance** — the Passover instituted, the firstborn struck, the
   departure, the consecration of the firstborn, the sea, and the song.
 - **15:22–18 To the mountain** — Marah, manna and quail, water from the rock, Amalek, and Jethro.
@@ -170,7 +181,7 @@ for unit.
 - [x] [[Water Turned to Blood]] — Exodus 7:14–25
 - [x] [[Frogs, Lice, and Flies]] — Exodus 8:1–32
 - [x] [[Livestock, Boils, and Hail]] — Exodus 9:1–35
-- [ ] Locusts and Darkness — Exodus 10:1–29
+- [x] [[Locusts and Darkness]] — Exodus 10:1–29
 - [ ] The Last Plague Announced — Exodus 11:1–10
 
 ### Passover and the sea (12–15:21)
@@ -274,6 +285,8 @@ for unit.
 - [[Sacrifice and Offering]]
 - [[Sin]]
 - [[Righteousness]]
+- [[Light and Darkness]]
+- [[Forgiveness]]
 
 ## Key people
 
@@ -298,6 +311,8 @@ for unit.
 - [[Pharaoh (of the Exodus)]] — the king Moses is sent to
 - [[Pharaoh's Magicians (of the Exodus)]] — the court experts who match the first signs, fail at
   the lice — *"This is God's finger"* — and cannot stand before Moses at the boils
+- [[Pharaoh's Servants (of the Exodus)]] — the court, divided at the hail, hardened with their king,
+  and the first to tell him *"Egypt is destroyed"* (10:7)
 
 ## Key places
 
@@ -305,7 +320,9 @@ for unit.
 - [[Pithom]] and [[Rameses]] — the store-cities
 - [[The Nile]] — *"the river"* of 1:22
 - [[Goshen]] — *"set apart"* from the swarms, the first land the plagues spare (8:22), and the only
-  land without hail (9:26)
+  land without hail (9:26); unnamed at the darkness, where Israel has *"light in their dwellings"*
+  (10:23)
+- [[The Red Sea]] — *yam sûp*, first named when the locusts are thrown into it (10:19)
 - [[Midian]] — where Moses flees
 - [[Horeb]] — *"God's mountain"*, where the bush burns
 - [[Canaan]] — *"the land of their travels"*, sworn to the fathers and promised *"for a heritage"* (6:4, 8)

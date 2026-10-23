@@ -321,6 +321,13 @@ will finally go both ways.
 - [[Bricks Without Straw]] — Exodus 5:21; 6:1; ***"May Yahweh look at you"*** and ***"Now you shall
   see"*** — **the officers ask God to see Moses; God tells Moses that he will see.** *ʿattâ tirʾeh*
   answers the complaint with a promise of sight
+- [[Locusts and Darkness]] — Exodus 10:5, 23, 28–29; **a land that cannot be seen, people who cannot see each other,
+  and a face no longer to be seen.** The locusts cover *"the eye of the land"* *"so that one won't be
+  able to see the earth"* (10:5). In the darkness *"They didn't see one another"* (10:23). Then Pharaoh:
+  *"Be careful to see my face no more; for in the day you see my face you shall die!"*, and Moses: *"I
+  will see your face again no more"* (10:28–29). **Pharaoh claims for his face what God says of his
+  own**, *"man may not see me and live"* (33:20), and Jacob at Peniel saw God's face and lived (Genesis
+  32:30). The echo is verbal; whether it is meant is not shown
 
 ## Related themes
 

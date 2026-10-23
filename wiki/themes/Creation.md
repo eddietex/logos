@@ -189,6 +189,12 @@ Genesis 1 sets four load-bearing claims:
   rain (*māṭar*) striking *"every herb of the field"* and breaking *"every tree of the field"*. Its
   other uses in Genesis and Exodus are the flood, Sodom, and the manna (WLC) —
   [[The Flood as Un-Creation]], [[Fire and Sulfur from the Sky]]
+- [[Locusts and Darkness]] — Exodus 10:15, 21–23; **the green of the sixth day, and the darkness before the
+  first.** *"There remained nothing green"* — *yereq*, the word of *"I have given every green herb for
+  food"* (Genesis 1:30) and of Noah's *"As I gave you the green herb"* (Genesis 9:3) (WLC). Then
+  *ḥōšek* over Egypt, the darkness of Genesis 1:2, with light only in Israel's dwellings. **The plagues
+  as an undoing of creation is a reading the vocabulary supports and the text does not state** —
+  [[The Flood as Un-Creation]]
 
 ## Related themes
 

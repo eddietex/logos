@@ -15,7 +15,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:25–26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 |
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
 | [[Abram the Hebrew - The First Use of the Name]] | thread | Genesis 14:13 · Genesis 10:21; 11:14–17 · Genesis 39:14; 40:15; 41:12 · Exodus 1:15–19; 2:6; 3:18 · 1 Samuel 4:6; 13:19; 14:11 · Jonah 1:9 · Joshua 24:2–3 · Philippians 3:5 |
-| [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Deuteronomy 23:15–16 |
+| [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 |
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Exodus 7:9–12 · Ezekiel 29:3 · Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 — "Leviathan a pet" corrected against 41:5 |
@@ -37,7 +37,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Binding of Isaac in the New Testament]] | quotation | Genesis 22:1–19 · Hebrews 11:17–19 · James 2:21–23 · Romans 8:32 · John 3:16 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
-| [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 35 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
+| [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
 | [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |
 | [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] | thread | Job 22:6–9 · Job 4:3–4 · Job 20:19 · Job 24:3, 7–11 · Job 29:12–17 · Job 31:16–22, 31–32 · Exodus 22:22–27 · Deuteronomy 24:6, 10–13, 17 · Isaiah 58:6–7 · Ezekiel 18:5–9, 16 · Matthew 25:35–36, 42–43 · James 2:15–16 |

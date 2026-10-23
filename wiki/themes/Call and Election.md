@@ -203,6 +203,11 @@ the others.
   livestock of Egypt"*; *"of the livestock of the children of Israel, not one died"*; and *"Only in the
   land of Goshen … there was no hail"*. **But the line is crossed from the other side too**: Egyptians
   who fear Yahweh's word are spared by the warning (9:20)
+- [[Locusts and Darkness]] — Exodus 10:23; **the fourth distinction.** *"All the children of Israel had light in
+  their dwellings"* — after Goshen at the flies (8:22–23), the herds (9:4–7), and the hail (9:26). This
+  time the distinction is drawn by people, not by land: Goshen is not named. **Deuteronomy 28:29 and
+  Joel 2:2 later turn this darkness on Israel** —
+  [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
 
 ## Related themes
 

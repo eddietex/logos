@@ -45,6 +45,11 @@ runs four verses ahead of the English (Hebrew 8:11, 15, 28 = English 8:15, 19, 3
 4. **Yahweh hardens Pharaoh's heart, as narrated fact** — first at 9:12, the sixth plague, *"Yahweh
    hardened the heart of Pharaoh"*; then 10:1, 20, 27; 11:10; 14:8.
 
+**From chapter 10 on, the agent is only Yahweh.** At 10:1 God takes Pharaoh's own verb — *hikbadtî*,
+the hiphil of *kābēd* Pharaoh used at 8:15, 32 and 9:34 — and the narrator's two statements in the
+chapter are both *wayḥazzēq YHWH* (10:20, 27). In Exodus the hiphil of *kābēd* takes Pharaoh as subject
+three times and God once (WLC lemma search).
+
 **Three standard readings, none adopted:**
 
 - **Judicial hardening.** Pharaoh hardens himself first, and God confirms him in it — the narrated
@@ -66,6 +71,9 @@ lengthens the contest so that the signs are seen.** See [[Signs and Wonders]].
 
 - Deuteronomy 2:30 — Sihon's spirit hardened *(not yet ingested)*
 - Joshua 11:20 — the Canaanite kings *(not yet ingested)*
+- 1 Samuel 6:6 — the Philistine priests: *"Why then do you harden your hearts, as the Egyptians and
+  Pharaoh hardened their hearts?"* (WEB) — *kābēd*, the verb of Exodus 10:1, with *hitʿallēl*, the verb
+  of 10:2 (WLC) *(not yet ingested)*
 - Isaiah 6:10 — *"Make the heart of this people fat. Make their ears heavy"* — *heavy* again; quoted
   in the Gospels and Acts *(not yet ingested)*
 - Psalm 95:8; Hebrews 3:8, 15 — *"Don't harden your heart, as at Meribah"*, said to Israel *(not yet
@@ -110,6 +118,14 @@ as those passages are ingested.
   heart, he and his servants"*** (9:34): the hiphil of *kābēd* again, the verb *ḥāṭāʾ* of his own
   confession, and **the servants included for the first time**. Then *ḥāzaq* with no agent (9:35)
   (WLC) — [[For This Very Purpose - Exodus 9.16 in Romans 9.17]]
+- [[Locusts and Darkness]] — Exodus 10:1, 20, 27; **every hardening in the chapter is Yahweh's.** God says
+  ***hikbadtî ʾet-libbô***, *"I have hardened his heart"* — the hiphil of *kābēd* that Pharaoh had
+  used of himself (8:15, 32; 9:34), now with God as subject, the only time in Exodus (WLC) — *"and the
+  heart of his servants"*. The narrator then says *wayḥazzēq YHWH* twice (10:20, 27), and at 10:27
+  adds that Pharaoh *"wouldn't"*, *lōʾ ʾābâ*: unwilling as well as hardened. **The purpose is widened
+  to Israel's children**: *"that you may tell in the hearing of your son"* (10:2). **The servants, whose
+  hearts God claims in 10:1, are the ones who plead with Pharaoh in 10:7**; the text gives both and
+  does not reconcile them — [[Pharaoh's Servants (of the Exodus)]]
 
 ## Related themes
 

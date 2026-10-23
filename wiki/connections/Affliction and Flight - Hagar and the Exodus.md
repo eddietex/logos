@@ -23,6 +23,9 @@ tags: [connection]
   him**, as with Hagar's boy (Genesis 21:17)
 - **Exodus 3:7** — *"I have surely seen the affliction of my people who are in Egypt, and have heard
   their cry because of their taskmasters, for I know their sorrows."*
+- **Exodus 10:3** — *"How long will you refuse to humble yourself before me?"* — *lēʿānōt*, the niphal
+  of the *ʿānâ* of Genesis 15:13; 16:6 and Exodus 1:11–12: **the afflicter asked to be afflicted,
+  humbled, himself** (WLC) — [[Locusts and Darkness]]
 
 ## Analysis
 

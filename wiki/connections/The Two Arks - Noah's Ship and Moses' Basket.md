@@ -57,7 +57,7 @@ of. See [[Come, Let Us - Babel's Bricks and Pharaoh's]].
 
 **Both arks precede an exodus through water.** Noah's household comes out of the ark into a world
 washed clean; Moses comes out of the river to lead Israel through the *sûp* — the *"reeds"* where
-his basket lay (2:3) are the *yam sûp*, the WEB's *Red Sea* (13:18; 15:4). **Paul calls that crossing
+his basket lay (2:3) are the *yam sûp*, the WEB's *Red Sea* (first named at 10:19; then 13:18; 15:4; see [[The Red Sea]]). **Paul calls that crossing
 a baptism** (1 Corinthians 10:2), and 1 Peter calls the flood one (1 Peter 3:20–21), so the New
 Testament baptizes both ark stories, one directly and one through what it leads to. See
 [[The Flood and Baptism]].

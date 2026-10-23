@@ -1489,6 +1489,24 @@ back in Genesis 2:5, the flood (Genesis 7:4), Sodom's fire (Genesis 19:24), and 
 name, found in that absolute form nowhere else in Genesis or Exodus outside Genesis 2–3 (WLC). See
 [[Livestock, Boils, and Hail]] and [[For This Very Purpose - Exodus 9.16 in Romans 9.17]].
 
+### He says why the story must be told, and darkens Egypt — Exodus 10:1–29
+
+**He says, in his own voice, *"I have hardened his heart, and the heart of his servants"*** —
+*hikbadtî*, the hiphil of *kābēd* that had been Pharaoh's verb at 8:15, 32 and 9:34 (WLC). **And he
+gives the hardening a purpose that reaches past Egypt**: *"that you may tell in the hearing of your son,
+and of your son's son, what things I have done to Egypt … that you may know that I am Yahweh"* (10:2),
+the first time since 6:7 that the knowledge formula is aimed at Israel. *"What things I have done"* is
+*hitʿallaltî*, a hard verb — *dealt ruthlessly*, *made sport* — which the Philistine priests use when
+they remember it (1 Samuel 6:6, WLC). **He asks Pharaoh *"How long will you refuse to humble
+yourself before me?"*** (10:3), with the *ʿānâ* of Israel's affliction (1:11–12). **He drives the east
+wind *"all that day, and all night"*** (10:13), the wind of Pharaoh's dream (Genesis 41:6) and of the
+sea to come (14:21), and turns a west wind that throws the locusts into the *yam sûp*, named here for
+the first time (10:19). **Every hardening in the chapter is his** (10:1, 20, 27). Then he sends
+*"darkness which may be felt"* over Egypt for three days, *"but all the children of Israel had light in
+their dwellings"* (10:21–23) — *ḥōšek*, the darkness of Genesis 1:2 before his first word. See
+[[Locusts and Darkness]] and
+[[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]].
+
 ## Timeline / key events
 
 - Creates the heavens and the earth and rests on the seventh day —
@@ -1667,6 +1685,9 @@ name, found in that absolute form nowhere else in Genesis or Exodus outside Gene
 - Strikes Egypt's livestock with his own hand; hardens Pharaoh's heart (the first narrated time); says
   *"for this cause I have made you stand"*; rains hail and fire on Egypt and spares Goshen — Exodus
   9:1–35, [[Livestock, Boils, and Hail]]
+- Hardens Pharaoh's heart and his servants'; gives the signs a purpose in Israel's telling; brings the
+  locusts on the east wind and removes them on the west; sends darkness and gives Israel light —
+  Exodus 10:1–29, [[Locusts and Darkness]]
 
 ## Appears in
 
@@ -2013,6 +2034,9 @@ name, found in that absolute form nowhere else in Genesis or Exodus outside Gene
 - [[Livestock, Boils, and Hail]] — Exodus 9:1–35; **the hardening named as his, and the purpose
   stated.** *"Yahweh's hand"*; *"Yahweh hardened the heart of Pharaoh"*; *"that my name may be
   declared throughout all the earth"*; *"the earth is Yahweh's"*
+- [[Locusts and Darkness]] — Exodus 10:1–29; **every hardening his, and the story given to the
+  children.** *"I have hardened his heart"*; *"that you may tell in the hearing of your son"*; the east
+  wind and the west; *"light in their dwellings"*
 
 ## Related people
 

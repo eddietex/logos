@@ -11,8 +11,10 @@ tags: [connection]
   of Goshen"* — [[The Deaths of Jacob and Joseph]]
 - **Exodus 8:25–28** — Pharaoh's first two offers: *"sacrifice to your God in the land"*, then the
   wilderness, *"only you shall not go very far away"* — [[Frogs, Lice, and Flies]]
-- **Exodus 10:8–11** — Pharaoh's third offer: the men may go, the little ones stay
-- **Exodus 10:24–26** — Pharaoh's fourth offer: everyone may go, the flocks and herds stay
+- **Exodus 10:8–11** — Pharaoh's third offer: the men may go, the little ones stay —
+  [[Locusts and Darkness]]
+- **Exodus 10:24–26** — Pharaoh's fourth offer: everyone may go, the flocks and herds stay —
+  [[Locusts and Darkness]]
 - **Exodus 12:31–32** — what Pharaoh finally concedes, at midnight, with the firstborn dead
 
 ## Analysis
@@ -56,6 +58,14 @@ when the flies are gone (8:32). See [[Frogs, Lice, and Flies]].
 what a departure with the children in it means.** **And Moses answers with the one sentence that
 makes the whole exchange legible**: *"We must hold a feast to Yahweh… we don't know with what we
 must serve Yahweh until we come there"* (10:9, 26). **He refuses to leave a deposit.**
+
+**Now that Exodus 10 is ingested, three details sharpen the parallel.** **The servants propose the
+third offer before Pharaoh does**: *"Let the men go"* (10:7), *hāʾănāšîm*, which Pharaoh repeats as
+*haggəbārîm*, *"you who are men"* (10:11). **The fourth offer's verb is *yuṣṣāg***, *"stay behind"*,
+literally *be set down*, the hophal of *yāṣag* (10:24, WLC) — the arrangement of Genesis 50:8 in a
+single word. **And Moses' refusal answers it with *"Not a hoof shall be left behind"*, *lōʾ tiššāʾēr
+parsâ*** (10:26), the *šāʾar* of *"There remained not one locust"* two scenes earlier (10:19). See
+[[Locusts and Darkness]].
 
 **Exodus 12:32 is the concession Genesis 50:8 withheld**: *"Take both your flocks and your herds, as
 you have said, and be gone."*

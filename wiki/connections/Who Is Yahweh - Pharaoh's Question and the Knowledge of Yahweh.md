@@ -26,7 +26,9 @@ tags: [connection]
   earth"*; *"that my name may be declared throughout all the earth"*; *"Yahweh is righteous"*; *"that
   you may know that the earth is Yahweh's"*; *"you don't yet fear Yahweh God"* —
   [[Livestock, Boils, and Hail]]
-- **Exodus 10:2; 11:7** — the refrain of the later plagues *(not yet ingested)*
+- **Exodus 10:2, 7** — *"that you may know that I am Yahweh"*, said to Israel; Pharaoh's servants:
+  *"Don't you yet know that Egypt is destroyed?"* — [[Locusts and Darkness]]
+- **Exodus 11:7** — *"that you may know that Yahweh makes a distinction"* *(not yet ingested)*
 - **Exodus 14:4, 18** — *"the Egyptians shall know that I am Yahweh"* *(not yet ingested)*
 - **Exodus 15:11** — *"Who is like you, Yahweh, among the gods?"* *(not yet ingested)*
 - **Exodus 18:11** — Jethro: *"Now I know that Yahweh is greater than all gods"* *(not yet ingested)*
@@ -94,6 +96,14 @@ are wicked"* (9:27). **Moses judges that this is still not knowledge**: *"I know
 fear Yahweh God"* (9:30). Moses' *yādaʿtî*, *I know*, answers Pharaoh's *lōʾ yādaʿtî* of 5:2. **Saying
 the name correctly is not the same as fearing him.** See [[Livestock, Boils, and Hail]] and
 [[For This Very Purpose - Exodus 9.16 in Romans 9.17]].
+
+**At the locusts the knowledge turns toward Israel, and Pharaoh's court says what he will not.** God
+gives the plagues a second audience: *"that you may tell in the hearing of your son … that you may
+know that I am Yahweh"* (10:2) — *wîdaʿtem*, plural, **the first time since 6:7 that the formula is
+addressed to Israel rather than Egypt**. Then Pharaoh's servants ask him, ***"Don't you yet know that
+Egypt is destroyed?"*** (10:7), *hăṭerem tēdaʿ* (WLC). **The man who said *"I don't know Yahweh"* (5:2)
+is told by his own court that he does not know what has happened to his country.** See
+[[Locusts and Darkness]] and [[Pharaoh's Servants (of the Exodus)]].
 
 **The plagues are therefore, on Exodus's own account, revelation as well as judgment** — what is
 being made known is the name Pharaoh said he did not know. (The verses are quoted from the WEB in

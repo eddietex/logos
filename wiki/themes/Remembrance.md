@@ -254,6 +254,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 - [[I Am Yahweh]] — Exodus 6:5; ***"I have remembered my covenant"*** — **2:24 said again, by God in
   the first person.** The narrator's report becomes God's own statement to Moses after the failed
   audience — [[God Remembered - Noah, Abraham, Rachel, and Israel]]
+- [[Locusts and Darkness]] — Exodus 10:2; **the first command to tell the story to the next generation.**
+  *"That you may tell in the hearing of your son, and of your son's son, what things I have done to
+  Egypt"* — *təsappēr*, the verb of 9:16's *"that my name may be declared"*. **It is given before the
+  story is over**, and it becomes the Passover question (12:26–27; 13:8, 14) and Deuteronomy's *"When
+  your son asks you in time to come … then you shall tell your son, 'We were Pharaoh's slaves in
+  Egypt'"* (Deuteronomy 6:20–21, WEB). The first telling in Exodus is Moses' to Jethro (18:8). **The
+  Philistines remember it too**: *"as the Egyptians and Pharaoh hardened their hearts"* (1 Samuel 6:6,
+  WEB) — [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]
 
 ## Related themes
 

@@ -821,7 +821,9 @@ now go to Egypt to buy from him**, and **the sheaves of 37:7 bow in 42:6.** See
 - Exodus 1:8 — *"a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
 - Exodus 3:7; 4:31 — *ʿŏnî*, the affliction seen
 - Exodus 7:11, 22; 8:7, 18–19; 9:11 — the *ḥarṭummîm* again, on the losing side
-- Exodus 10:13; 14:21 — the east wind of 41:6, at the locusts and at the sea
+- Exodus 10:13; 14:21 — the east wind of 41:6, at the locusts and at the sea —
+  [[Locusts and Darkness]] —
+  [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]]
 - Exodus 25–39 — *šēš*, the fine linen of 41:42, as the fabric of the tabernacle
 - Exodus 31:3; 35:31 — Bezalel, *"filled … with the Spirit of God, in wisdom"*
 - Numbers 24:2; 27:18 — Balaam and Joshua, the Spirit of God on a man

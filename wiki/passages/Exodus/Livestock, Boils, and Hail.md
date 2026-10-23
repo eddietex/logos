@@ -415,8 +415,9 @@ has stretched out the rod; now God's word is said to come by that hand.**
 - Exodus 7:23 — *"he didn't even take this to heart"* — [[Water Turned to Blood]]
 - Exodus 8:10, 15, 22, 28, 32 — *"no one like Yahweh"*; *ʿātar*; Goshen *"set apart"*; *"this time
   also"* — [[Frogs, Lice, and Flies]]
-- Exodus 10:1, 5, 14–17; 11:6 — the servants' hearts hardened; what *"the hail had left"*; the second
-  confession; *"such as there has not been"* *(not yet ingested)*
+- Exodus 10:1, 5, 14–17 — the servants' hearts hardened; what *"the hail had left"*; the second
+  confession — [[Locusts and Darkness]]
+- Exodus 11:6 — *"such as there has not been"* *(not yet ingested)*
 - Exodus 13:4 — *"the month Abib"* *(not yet ingested)*
 - Exodus 14:28 — *"not so much as one"* *(not yet ingested)*
 - Exodus 16:4 — *"I will rain bread from the sky"* *(not yet ingested)*

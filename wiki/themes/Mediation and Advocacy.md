@@ -271,6 +271,11 @@ what Job is asking for.
   Pharaoh a third time, after a confession — *"I have sinned this time"* — that he openly doubts: *"I
   know that you don't yet fear Yahweh God"*. **He mediates anyway, so that the stopping of the storm
   will teach *"that the earth is Yahweh's"*** — [[A Prophet Who Prays - The First Nabi in Scripture]]
+- [[Locusts and Darkness]] — Exodus 10:16–18; **Moses still intercedes for the king who will threaten his
+  life.** The fourth intercession (8:12, 30; 9:33; 10:18); Pharaoh asks forgiveness of Moses and Aaron
+  themselves (10:17). Ten verses later Pharaoh says *"in the day you see my face you shall die!"*
+  (10:28). **There is no further intercession for Pharaoh in the plague narrative** —
+  [[A Prophet Who Prays - The First Nabi in Scripture]]
 
 ## Related themes
 

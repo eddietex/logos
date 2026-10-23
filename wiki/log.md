@@ -12036,3 +12036,93 @@ Lemma searches of Genesis and Exodus (with Leviticus and Numbers where stated): 
   - `wiki/index.md`: 103 passages, 296 connections.
 
 `scripts/link-check.sh` is clean.
+
+## [2026-10-22] ingest | Exodus 10.1-29 — Locusts and Darkness
+
+Unattended run (`/ingest auto`). The target was resolved mechanically: [[Exodus]] is the first
+`in-progress` book in `wiki/books/index.md`, and its first unchecked box was *Locusts and Darkness —
+Exodus 10:1–29*. The boundary was kept as planned. There was no discussion step; its content is
+written into the passage page.
+
+### The passage page
+
+[[Locusts and Darkness]] covers:
+
+- 10:1–2: *hikbadtî* (God now the subject of Pharaoh's own *kābēd* hiphil); *šît* (7:23); *təsappēr*
+  (9:16) and the first command to tell the son; *hitʿallaltî* (Numbers 22:29; 1 Samuel 6:6).
+- 10:3–11: *mēʾēn* and *ʿad-mātay* (4:23; 16:28; Numbers 14:27); *lēʿānōt*, the root of Israel's
+  affliction; *ʿên hāʾāreṣ*; *pəlēṭâ*; the servants' first speech, *môqēš*, *ṭerem*; *ḥag*, its first
+  occurrence; *"Yahweh be with you"*; *gāraš* (Genesis 3:24; Exodus 6:1; 12:39).
+- 10:12–20: *rûaḥ qādîm* (Genesis 41; Exodus 14:21); *ʾarbeh*; *kābēd məʾōd*; Joel 2:2; *ḥāšak*;
+  *yereq* (Genesis 1:30; 9:3); the second confession; *śāʾ nāʾ ḥaṭṭāʾtî* (Genesis 50:17); the fourth
+  intercession; *rûaḥ-yām ḥāzāq*; the first *yam sûp*; *"not one"* (8:31; 14:28).
+- 10:21–29: *ḥōšek* (Genesis 1:2); *māšaš* and *ʾăpēlâ* (Deuteronomy 28:29); three days; light in
+  their dwellings; *yuṣṣāg*; *parsâ*; *"we don't know with what we must serve"*; the death threat and
+  the face (Genesis 2:17; 32:30; Exodus 33:20).
+
+### Judgment calls
+
+- **New person page: [[Pharaoh's Servants (of the Exodus)]].** The previous ingest left the court
+  unpaged; it now speaks (10:7), has its hearts hardened by name (10:1), and has appeared in six
+  pericopes, so it gets a group page on the precedent of [[Pharaoh's Magicians (of the Exodus)]].
+- **New place page: [[The Red Sea]]**, because *yam sûp* is first named at 10:19 (WLC lemma search).
+  [[The Birth of Moses]] and [[The Two Arks - Noah's Ship and Moses' Basket]] gave 13:18 and 15:4 as
+  its references; both now add 10:19. Not a contradiction, so not flagged as one. No location is
+  adopted.
+- **Three new connections:** [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] (all three
+  texts in `raw/`); [[The Day of the Locust - Exodus 10 and Joel 1-2]]; and
+  [[The Diseases of Egypt - The Plagues in Deuteronomy 28]]. Joel and Deuteronomy are not ingested;
+  their verses are quoted from the WEB and their Hebrew links checked in the WLC. No claim is made
+  about the date of Joel.
+- **The 10:28–29 / 11:4–8 seam** is recorded on the passage page and left for the next pericope.
+- **Readings reported, not adopted:** the *rāʿâ*/Ra pun at 10:10 (not verified against a named
+  source); the plagues as un-creation; the *kābēd* hiphil/niphal play (10:1; 14:4); the *"three
+  days"* link to 3:18; 5:3; 8:27.
+- **Verses quoted in WEB English from outside `raw/`** were fetched one at a time from bible-api.com
+  (`translation=web`): Joel 1:4; 2:2, 10, 12–13, 25, 31; Deuteronomy 6:20–21; 28:29, 38, 60, 68;
+  1 Samuel 6:6; 1 Kings 9:26; Numbers 14:27; 22:5, 29; Psalm 78:46; 105:28–36; Wisdom 17:2; 18:1;
+  Revelation 9:3; 16:10.
+
+### Sources
+
+Genesis and Exodus texts were checked against `raw/bible/`. **Hebrew was checked against the
+Westminster Leningrad Codex (Open Scriptures `morphhb`):** all of Exodus 10; Exodus 6:1; 8:27 (Hebrew);
+14:21, 28; 16:28; 33:20; Genesis 50:17; Numbers 22:5, 11; Deuteronomy 28:29, 38; 1 Samuel 6:6; Joel
+1:4; 2:2, 10, 25. Lemma searches of Genesis–Deuteronomy: *ʿālal*, *ʿānâ*, *môqēš*, *ḥag*, *gāraš*,
+*ʾarbeh*, *qādîm*, *yereq*, *ḥāšak*, *ḥōšek*, *māšaš*, *ʾăpēlâ*, *yāṣag*, *parsâ*, *sûp*, *tāqaʿ*,
+*mātay*, *mēʾēn*, *ṭerem*, *pəlēṭâ*, *kābēd* (verb and adjective), *sāpar*, *môšāb*; *ʿālal* also in
+1 Samuel; *ʾarbeh* also in Joel and Psalms.
+
+### Pages created or revised
+
+- **Created (6):** the passage page; [[Pharaoh's Servants (of the Exodus)]]; [[The Red Sea]]; three
+  connections (above).
+- **People revised (4):** [[Moses]], [[Aaron]], [[God]], [[Pharaoh (of the Exodus)]].
+- **Places revised (2):** [[Egypt]] and [[Goshen]].
+- **Themes revised (17):** [[Hardening of the Heart]] (also a development note and 1 Samuel 6:6 under
+  *Ahead*), [[Signs and Wonders]], [[Remembrance]], [[Judgment]], [[Sin]], [[Forgiveness]],
+  [[Prayer]], [[Mediation and Advocacy]], [[Light and Darkness]], [[Creation]],
+  [[Pride and Self-Exaltation]], [[Sacrifice and Offering]], [[Slavery and Servitude]],
+  [[Seeing and Being Seen]], [[Life and Death]], [[Call and Election]], [[The Fear of God]].
+- **Connections revised (7):**
+  [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]],
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]],
+  [[A Prophet Who Prays - The First Nabi in Scripture]],
+  [[For This Very Purpose - Exodus 9.16 in Romans 9.17]],
+  [[Affliction and Flight - Hagar and the Exodus]],
+  [[The Two Arks - Noah's Ship and Moses' Basket]],
+  [[The Boil of Deuteronomy 28 on a Blameless Man]].
+- **Passages revised (5):** [[Livestock, Boils, and Hail]], [[Frogs, Lice, and Flies]],
+  [[Water Turned to Blood]], [[The Birth of Moses]], [[Pharaoh's Dreams and Joseph's Rise]] —
+  cross-references to chapter 10 now linked.
+- **Book page:** box checked; the plague structure note covers chapter 10; key themes +2
+  ([[Light and Darkness]], [[Forgiveness]]); key people +1; key places +1 and Goshen's line extended.
+- **Indexes:**
+  - books: Exodus 13 / 53.
+  - people: 1 row added (N–Z); 4 rows extended.
+  - places: 1 row added; 2 rows extended.
+  - themes: 17 rows extended (Hardening's summary too).
+  - connections: 3 rows added in [[Connections Index D-H]]; 6 rows' references extended.
+  - `wiki/index.md`: 104 passages, 166 people, 80 places, 299 connections.
+
+`scripts/link-check.sh` is clean.
