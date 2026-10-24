@@ -104,8 +104,24 @@ run deterministic: `/ingest auto` must never have a fork here.
 
 **An `in-progress` book outranks an earlier `not-started` one.** If Genesis is complete and Job is
 `in-progress`, the next target is Job and not Exodus — open books get finished before new ones are
-opened. Only when nothing is `in-progress` does the scan fall through to the first `not-started`
-book in the file, whose page and pericope plan you then create per step 3.
+opened. This holds for priority books too: a book in the `## Priority` list never jumps ahead of
+one that is already `in-progress`.
+
+**Only when nothing is `in-progress`, open a new book — priority list first.** The `## Priority`
+section near the top of `wiki/books/index.md` is a numbered list of books the user wants opened
+ahead of canonical order. Take the first book in it not yet marked `complete` in the canonical
+list:
+
+```
+sed -n '/^## Priority/,/^## Old Testament/p' wiki/books/index.md \
+  | grep -o '^[0-9]*\. \[\[[^]|]*' | sed 's/.*\[\[//' \
+  | while read -r b; do grep -q "^- .*\[\[$b\]\] — complete" wiki/books/index.md || { echo "$b"; break; }; done
+```
+
+If that prints nothing — the list is empty, or every book in it is complete — fall through to the
+first `not-started` book in canonical order (`grep -n -m1 "^- .*not-started" wiki/books/index.md`).
+Either way, create the new book's page and pericope plan per step 3. Opening it marks it
+`in-progress`, so from the next run on it is picked up by the `in-progress` rule above.
 
 When every box in a book is checked, mark it `complete` in `wiki/books/index.md`. The next run's
 scan then moves on by itself, with no other bookkeeping needed.

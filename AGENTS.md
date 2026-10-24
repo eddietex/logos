@@ -38,7 +38,8 @@ wiki/
   index.md                 top-level dashboard, links out to the five category indexes
   log.md                   append-only chronological record of every operation
   books/
-    index.md                canonical 66-book list with ingestion status
+    index.md                canonical 66-book list with ingestion status, plus the `## Priority`
+                            list of books to open ahead of canonical order
     <Book>.md                one page per Bible book
   passages/
     <Book>/<Title>.md        one page per ingested pericope, nested under its book
@@ -201,6 +202,12 @@ chapters) instead of uniform ones. When you first touch a book:
    and so may you, when the text turns out to divide differently than the plan assumed. Say so in
    the ingest report when you redraw a boundary. Checked boxes are settled: changing one means
    revising the passage page that already exists for it.
+
+**Which book comes next.** Open books are finished before new ones are opened: an `in-progress`
+book always goes first, the earliest in canonical order winning. When none is open, the next book
+is the first one in the `## Priority` list at the top of `wiki/books/index.md` that is not yet
+`complete`, and only after that list is exhausted does ingestion continue in canonical order. The
+user edits that list to reprioritize; the ingest skill's step 1 holds the exact resolution.
 
 ## Workflows
 

@@ -7,6 +7,16 @@ tags: [index]
 Canonical order, grouped by section. Status: `not-started` · `in-progress` · `complete`.
 Links resolve once a book's page is created — unresolved links below are books not yet started.
 
+## Priority
+
+When no book is `in-progress`, the next book opened is the first one here that is not yet
+`complete`, ahead of canonical order. Once every book here is complete, ingestion falls back to
+canonical order below. Edit this list to reprioritize.
+
+1. [[Proverbs]]
+2. [[Ecclesiastes]]
+3. [[Song of Solomon]]
+
 ## Old Testament
 
 ### Law

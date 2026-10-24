@@ -14732,3 +14732,19 @@ raw text was changed and no later book was fetched.
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. No operational blocker remains.
+
+## [2026-10-24] schema | Priority list for choosing the next book
+
+The user asked to prioritize the wisdom books — Proverbs, Ecclesiastes, and Song of Solomon, with
+Psalms deliberately left out and Job already complete — after Exodus is finished.
+
+- **Mechanism.** `wiki/books/index.md` has a new `## Priority` section: a numbered list of books
+  to open ahead of canonical order. It currently holds [[Proverbs]], [[Ecclesiastes]], and
+  [[Song of Solomon]], in that order.
+- **Resolution order.** (1) The first `in-progress` book in canonical order, so open books are
+  always finished first — Exodus (47 / 53) stays the target until it is complete. (2) Otherwise,
+  the first book in `## Priority` not yet `complete`. (3) Otherwise, the first `not-started` book
+  in canonical order, as before.
+- **Docs.** The ingest skill's step 1 states the rule and gives the command that resolves it.
+  `AGENTS.md` gains a short "Which book comes next" paragraph under `## Ingestion unit: pericope`,
+  and its directory map now mentions the priority list.
