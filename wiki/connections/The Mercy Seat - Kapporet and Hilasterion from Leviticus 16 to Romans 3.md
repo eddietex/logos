@@ -25,6 +25,8 @@ tags: [connection]
 (The non-Exodus verses are quoted from the WEB as fetched individually from bible-api.com on
 2026-10-23.)
 
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:31–34; the enclosure, separation, or placement developed here.
+
 ## Analysis
 
 **One object, two functions.** In Exodus 25 the *kappōret* is where God *speaks* (25:22). In Leviticus
@@ -60,6 +62,10 @@ seat* is disputed.**
 
 The Septuagint background is real and checked. That Paul has the Day of Atonement in mind is a reading.
 The wiki records both.
+
+**Exodus 26 locates the meeting place behind the veil.** The ark and mercy seat are placed in
+the most holy space (26:33–34). This supplies the architectural setting for Leviticus 16:2's
+warning about entry, without yet giving the atonement ritual. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
 
 ## Significance
 

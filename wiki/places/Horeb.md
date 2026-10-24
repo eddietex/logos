@@ -109,6 +109,11 @@ where he can *"dwell among them"* (25:8) — the verb of the glory that *"settle
 MAM). **The tabernacle is designed on Horeb to take the mountain's presence on the road.** See
 [[The Offering for the Sanctuary]].
 
+**The mountain remains the place of instruction when the tent is designed.** Exodus 26:30 recalls
+what Moses was shown there and makes it the standard for erection. The dwelling will carry the
+ordered approach to God's presence beyond the mountain, but no move or construction takes place
+in this chapter. See [[The Tabernacle Curtains and Frames]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -146,6 +151,8 @@ MAM). **The tabernacle is designed on Horeb to take the mountain's presence on t
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; setting by context; **the mountain where the
   pattern is shown.** *"See that you make them after their pattern, which has been shown to you on the
   mountain"* (25:40)
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:30; the mountain where the design was shown, Sinai by context.
 
 ## Related places
 

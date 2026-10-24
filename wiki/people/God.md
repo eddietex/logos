@@ -1839,6 +1839,11 @@ He ends by insisting on his design: *"See that you make them after their pattern
 to you on the mountain"* (25:40). See [[The Ark, the Table, and the Lampstand]], [[Cherubim]], and
 [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]].
 
+**God orders the boundaries of his dwelling as well as its furniture.** Exodus 26 joins the curtains
+into one structure and places the ark behind a separating veil. The promise to dwell among Israel
+(25:8) and the distinction between holy and most holy (26:33) belong together: presence is offered
+on the terms the speaker specifies. See [[The Tabernacle Curtains and Frames]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2476,6 +2481,8 @@ to you on the mountain"* (25:40). See [[The Ark, the Table, and the Lampstand]],
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; ***"There I will meet with you, and I will tell
   you from above the mercy seat, from between the two cherubim"***; bread *"before me always"*; *"the pattern,
   which has been shown to you on the mountain"*
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; commands the enclosure and the division of holy spaces.
 
 ## Related people
 

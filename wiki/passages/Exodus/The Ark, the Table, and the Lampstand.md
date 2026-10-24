@@ -171,8 +171,9 @@ place to speak from.**
   [[Manna and Quail]].
 - Exodus 24:12; 31:18; 32:15–16 — the tablets, *"the two tablets of the testimony"* *(31:18 onward not
   yet ingested)*: [[The Blood of the Covenant]].
-- Exodus 26:33–35; 27:20–21; 37:1–24; 40:20–24 — the veil, the lamp oil, the furniture made, and the
-  furniture placed *(not yet ingested)*.
+- Exodus 26:33–35 — the veil and the furniture placed: [[The Tabernacle Curtains and Frames]].
+- Exodus 27:20–21; 37:1–24; 40:20–24 — the lamp oil, the furniture made, and the furniture
+  placed *(not yet ingested)*.
 - Genesis 3:24 — the cherubim at the east of Eden: [[The Fall]], [[Cherubim]].
 - Genesis 6:14 — Noah's ark sealed *"inside and outside"*:
   [[The Two Arks - Noah's Ship and Moses' Basket]].

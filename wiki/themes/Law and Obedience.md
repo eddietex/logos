@@ -148,6 +148,12 @@ promises *"the stone tablets with the law and the commands that I have written, 
 them"* (24:12) — *hattôrâ wəhammiṣwâ* (MAM), *tôrâ* now a written thing given in order to be taught. See
 [[The Blood of the Covenant]].
 
+**Obedience includes how things are made and placed.** Exodus 26:30 requires Moses to erect the
+tabernacle according to what he was shown on the mountain. Dimensions, joins, and the placement of
+the veil and furniture all belong to the instruction. Exodus 36:8–38 later reports the making of
+the enclosure, while 40:18–28 reports its erection and arrangement; those later units remain
+un-ingested. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, So He Did - The Obedience Formula]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; one address for court, field, and feast.
@@ -180,6 +186,8 @@ them"* (24:12) — *hattôrâ wəhammiṣwâ* (MAM), *tôrâ* now a written thin
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; casuistic law gives way to absolute sentences and God's own voice
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the Book of the Covenant's closing condition: *"if you indeed listen"*.
 - [[The Blood of the Covenant]] — Exodus 24:3–12; two assents, a book read aloud, and tablets written by God
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The dwelling must be erected according to what Moses was shown (26:30).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

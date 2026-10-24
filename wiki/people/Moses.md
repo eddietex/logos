@@ -436,6 +436,11 @@ looking while God speaks.** Hebrews 8:5 and Acts 7:44 both remember him as the m
 pattern. See [[The Ark, the Table, and the Lampstand]] and
 [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
 
+**Moses receives directions for erection as well as fabrication.** Exodus 26:30 recalls the design
+shown to him on the mountain; 26:33–35 tells him where to put the veil and the three furnishings.
+The instructions anticipate the assembly he will perform in 40:18–28; they are not a report that
+he has already left the cloud or built the tent. See [[The Tabernacle Curtains and Frames]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -628,6 +633,8 @@ pattern. See [[The Ark, the Table, and the Lampstand]] and
   show you"* — singular, to Moses alone
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; **the one God will meet.** *"There I will meet with
   you"*; *"the pattern, which has been shown to you on the mountain"*
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; receives the enclosure design and the directions for its arrangement.
 
 ## Related people
 

@@ -13,6 +13,8 @@ tags: [connection]
 - [[Bitter Water at Marah]] — Exodus 15:25–26; a tree thrown into bad water, and *"I am Yahweh who heals
   you"* — tree, water, and healing together, as in Revelation 22:2, with no stated link
 
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1, 31–35; the enclosure, separation, or placement developed here.
+
 ## Analysis
 
 The tree of life appears in the Bible's second chapter and its second-to-last, and almost nowhere
@@ -67,6 +69,13 @@ The end is not a return to Eden but Eden urbanized and multiplied. Between the t
 Proverbs keeps the phrase alive as metaphor — wisdom is a tree of life to those who take hold of
 her (3:18), and so are the fruit of the righteous, fulfilled desire, and a gentle tongue (11:30,
 13:12, 15:4).
+
+**The cherubim also appear on the dividing veil.** Exodus 26:1, 31 prescribes their figures on
+the inner curtains and veil, and 26:33 puts the ark behind that separation. The lampstand remains
+outside the veil (26:35). An Eden reading therefore involves the whole sanctuary's imagery,
+not a claim that a lampstand-tree stands behind cherubim exactly as Genesis' tree does. Exodus
+never identifies the lampstand as the tree of life or calls the textile figures guards.
+See [[The Tabernacle Curtains and Frames]]; the architectural details qualify the typology rather than prove it.
 
 ## Significance
 

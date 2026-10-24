@@ -90,6 +90,13 @@ food the owner must leave accessible.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+**Craft includes the joining of separate pieces.** Exodus 26 follows the hammered furniture of
+chapter 25 with curtains, loops, clasps, boards, sockets, and bars. The result is a single dwelling
+(26:6), although its parts remain distinguishable. Skilled work produces cherubim on the curtains
+and veil, and embroidery makes the entrance screen (26:1, 31, 36). The work is governed by what
+Moses was shown (26:30), not by an interpretation of the colors or numbers supplied by the maker.
+See [[The Tabernacle Curtains and Frames]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; a limit on production.
@@ -220,6 +227,8 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:18, 31, 36, 40; **hammered work, of one piece.** *Miqšâ*, beaten from one block of
   gold, and *"See that you make them after their pattern"*: craft held to a design the craftsman did not
   make
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Textile work, joinery, and metalwork serve a specified design (26:1–30, 36–37).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

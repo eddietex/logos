@@ -106,6 +106,12 @@ hides what an intruder intends. Matthew 24:43 later puts the thief *"in what wat
 the householder does not know. See [[Laws of Property and Restitution]] and
 [[The Thief Breaking In - Exodus 22 and Matthew 24]].
 
+**The lampstand's location limits what can be claimed about its light.** Exodus 26:35 places it
+on the south side, opposite the table, outside the veil. It belongs to the outer holy room; the
+chapter does not put a lamp beside the ark or specify the lighting conditions within the veil.
+The spatial arrangement supports the lamp's practical function in 25:37 without supplying a new
+symbolism for light. See [[The Tabernacle Curtains and Frames]].
+
 ## Key passages
 
 - [[The Creation of the World]] — Genesis 1:3–5: light made, seen to be good, divided from darkness,
@@ -215,6 +221,8 @@ the householder does not know. See [[Laws of Property and Restitution]] and
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:31–40; a lampstand of hammered gold, shaped like an almond tree, with seven lamps to
   *"give light to the space in front of it"*, in a room with no window. See
   [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]]
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The lampstand stands south of the table, outside the inner veil (26:35).
 
 ## Related themes
 

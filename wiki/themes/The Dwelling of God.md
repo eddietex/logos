@@ -57,6 +57,11 @@ hiphil of *šākan*; MAM) to guard Eden (Genesis 3:24). See [[Cherubim]].
 hymin*, *I will be seen among you*, not *I will dwell*. Whether the translators meant to soften the idea
 of God living in a place is a common explanation, not something the text states.
 
+**The dwelling is one structure with differentiated spaces.** Exodus 26 joins many curtains into
+one enclosure (26:6, 11), then divides its interior with the veil (26:33). The promise that God will
+live among the people (25:8) is not a promise that every space becomes equally accessible. The ark
+and mercy seat are within the veil, the table and lampstand outside it. See [[The Tabernacle Curtains and Frames]].
+
 ## Key passages
 
 - [[The Blood of the Covenant]] — Exodus 24:16; ***"Yahweh's glory settled on Mount Sinai"***, *šākan*
@@ -68,6 +73,8 @@ of God living in a place is a common explanation, not something the text states.
   holds *"the testimony"*; above it, *"There I will meet with you … from between the two cherubim"* (25:22);
   bread *"before me always"* (25:30); seven lamps. The first thing designed for God's house is a place for
   him to speak from
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The promised dwelling becomes an assembled tent with an inner boundary.
 
 ## Related themes
 

@@ -13987,3 +13987,67 @@ lampstand and its later almonds (Numbers 17; Jeremiah 1); and *"See, and make"* 
 
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
 are the expected baseline. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 26.1-37 — The Tabernacle Curtains and Frames
+
+Ingested [[The Tabernacle Curtains and Frames]] in unattended mode, preserving the planned boundary.
+Exodus advances to **36 / 53** pericopes. The altar and court (27:1–21) remain next; no second unit
+was ingested.
+
+The passage holds the discussion: ten linen curtains and eleven goats’ hair curtains, the different
+clasps and overhang, skin coverings, boards and silver sockets, gold-covered bars, the mountain
+pattern, and the difference between the inner veil and the entrance screen. It distinguishes the
+command from its later execution and explains the furniture's locations. All thirty-seven WEB
+verses were copied mechanically from the immutable raw text and checked against it after wrapping.
+
+### Decisions and sources
+
+- No new person, place, or theme was needed. [[God]], [[Moses]], and [[Cherubim]] receive synthesis
+  and appearance updates; [[Horeb]] records the continuing mountain setting. The unnamed makers
+  remain unnamed. The tent is not yet erected, and no separate place page was created for it.
+- Nine existing themes receive synthesis and key-passage updates: [[The Dwelling of God]],
+  [[Holiness]], [[Work]], [[Wealth and Possessions]], [[Law and Obedience]],
+  [[Mediation and Advocacy]], [[Covenant]], [[Idolatry]], and [[Light and Darkness]]. The image
+  prohibition and the commanded textile cherubim remain an explicit interpretive tension.
+- Created [[The Veil - Separation in Exodus and Access in Hebrews]]. It distinguishes the two
+  hangings in Exodus, Leviticus' restriction, Hebrews' interpretation, and the later temple veil.
+  Matthew and Mark narrate the tearing after Jesus' death; Luke puts it before his final cry and
+  death. The differing presentation is recorded without a forced harmony. The Gospel notices do
+  not identify which temple hanging is meant or themselves give Hebrews' explanation.
+- Updated six existing connections: [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]],
+  [[As God Commanded, So He Did - The Obedience Formula]],
+  [[The Tree of Life - Eden and the New Jerusalem]],
+  [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]],
+  [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]], and
+  [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]]. The obedience connection covers
+  the construction parallel without a duplicate connection page. The Eden reading is qualified by
+  the lampstand's position outside the veil, and is explicitly interpretation rather than an
+  identification made by Exodus.
+- [[The Ark, the Table, and the Lampstand]] now links the ingested furniture-placement passage;
+  the Cherubim timeline and the pattern connection no longer label chapter 26 un-ingested.
+- The WEB's *sea cow hides* is reported as the translation's wording, not a verified species
+  identification. The corner geometry is left unresolved. No symbolic meaning is assigned to
+  colors, metals, or counts, and no new Hebrew or Greek lexical assertion was made.
+- Local WEB comparisons were read in `raw/bible/Genesis.md` and `raw/bible/Exodus.md`, including
+  Genesis 3:24; Exodus 20:4; 24:18; 25:1–40; 30:1–10; 36:8–38; 40:18–28. The later construction
+  report does not repeat every instruction, particularly the detailed folding and overhang.
+- Later WEB comparisons were fetched individually from bible-api.com with `translation=web` on
+  2026-10-23: Leviticus 16:2; Hebrews 9:1–8; 10:19–22; Matthew 27:50–51; Mark 15:37–38;
+  Luke 23:44–46. Quotations were checked against these responses. These units remain un-ingested;
+  no later book was bulk-fetched into raw.
+
+### Pages created or revised
+
+- **Created (2):** the passage and the veil connection.
+- **Existing content pages revised (21):** Exodus; three people; Horeb; nine themes; six connections;
+  and the preceding passage.
+- **Bookkeeping revised (11):** book and top-level indexes; people A–E and F–M; places; themes;
+  connection subindexes A–C, I–N, O–S, T–Z; and this log.
+- **Totals by frontmatter type:** 127 passages, 170 people, 90 places, 81 themes, 355 connections;
+  3 books started, 2 complete. Every category page has exactly one index row; no new title collision.
+- Connection subindex sizes are 62, 77, 69, 61, and 86; no range change is needed.
+
+`scripts/link-check.sh` exits 0: no wrapped links or dangling targets, with 63 not-yet-started book
+pages in the expected baseline. All 37 quoted verses match raw text after whitespace normalization.
+No raw source, schema, skill, harness, or controller file was changed. The qualified interpretive
+questions above are left open; no operational blocker remains.

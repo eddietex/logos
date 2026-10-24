@@ -28,6 +28,8 @@ tags: [connection]
 (The non-Exodus verses are quoted from the WEB as fetched individually from bible-api.com on
 2026-10-23.)
 
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; the enclosure, separation, or placement developed here.
+
 ## Analysis
 
 **One word runs through the thread: Hebrew *šākan*, *to dwell*, and Greek *skēnē*, *tent*.**
@@ -71,6 +73,11 @@ people"* follow a text different from the SBLGNT, which reads *ek tou thronou*, 
 **The Septuagint does not carry the verb at Exodus 25:8.** Rahlfs reads *ophthēsomai en hymin*, *I will
 be seen among you*. The Greek thread from Exodus to John and Revelation therefore runs through the
 noun *skēnē* (25:9), not through the verb of 25:8.
+
+**Residence comes with an internal boundary.** Exodus 26 joins many curtains into one dwelling
+and divides the interior into holy and most holy spaces. The ark is within the veil; the table
+and lampstand are outside it (26:33–35). The dwelling promise of 25:8 does not itself abolish
+distance or regulate everyone's entrance alike. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
 
 ## Significance
 

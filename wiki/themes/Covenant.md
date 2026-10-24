@@ -214,6 +214,11 @@ with their fathers in the day that I took them by the hand to bring them out of 
 which covenant of mine they broke"* (WEB; *not yet ingested*). See [[The Blood of the Covenant]] and
 [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
 
+**The testimony has a protected place at the center of the dwelling.** Exodus 26:33–34 locates
+the ark of the testimony and its mercy seat within the veil. This develops the command to put the
+testimony in the ark (25:16, 21); it neither gives the tablets yet nor makes another covenant.
+The covenant's witness will be housed in the innermost space. See [[The Tabernacle Curtains and Frames]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; obligations through the whole year.
@@ -410,6 +415,8 @@ which covenant of mine they broke"* (WEB; *not yet ingested*). See [[The Blood o
 - [[The Blood of the Covenant]] — Exodus 24:1–18; the Sinai covenant ratified by writing, reading, assent, blood, and a meal.
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–22; the ark built to hold *"the testimony"* (*ʿēdut*), the tablets not yet given
   (31:18), and named for it, *"the ark of the testimony"* (25:22)
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The ark of the testimony is assigned to the most holy place (26:33–34).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -116,6 +116,12 @@ covenant with them or their gods, and may not let the peoples live in the land, 
 their gods, it will surely be a snare to you"* (23:24, 32–33). The stated danger is religious. See
 [[The Angel Sent Ahead]] and [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
 
+**The tension between prohibited images and commanded figures extends to textiles.** Exodus 20:4
+forbids making an idol or image in the commandment's worship context; 26:1, 31 commands cherubim on
+the curtains and inner veil. Both commands are preserved. The latter does not authorize worship
+of the figures, and the former cannot be applied as a ban on every representational object without
+explaining the cherubim. Exodus 26 gives no argument resolving the tension. See [[The Tabernacle Curtains and Frames]] and [[Cherubim]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; other gods not invoked.
@@ -159,6 +165,8 @@ their gods, it will surely be a snare to you"* (23:24, 32–33). The stated dang
   argued from the voice heard from heaven
 - [[Laws of Holiness and Compassion]] — Exodus 22:18, 20; sorcery and sacrifice to other gods made capital
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a snare; pillars demolished.
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Commanded cherubim appear on textiles as well as on the ark (26:1, 31).
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

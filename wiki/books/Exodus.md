@@ -319,6 +319,11 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   lampstand of hammered gold shaped like an almond tree with seven lamps. *"See that you make them
   after their pattern, which has been shown to you on the mountain"* (25:40) is the verse Hebrews 8:5
   quotes. See [[The Ark, the Table, and the Lampstand]].
+  **The enclosure follows** (26:1–37): ten linen curtains with cherubim, a larger goats’ hair
+  covering and skins, gold-covered boards in silver sockets, and bars holding them together.
+  A cherubim veil separates the holy place from the most holy; the ark stands within it, the table
+  and lampstand outside. An embroidered screen closes the entrance. The promise of dwelling now
+  includes an internal boundary. See [[The Tabernacle Curtains and Frames]].
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
   by, the second tablets, and the shining face.
 - **35–40 The tabernacle built** — the offering, the work, the inventory, and the glory filling the
@@ -393,7 +398,7 @@ for unit.
 
 - [x] [[The Offering for the Sanctuary]] — Exodus 25:1–9
 - [x] [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40
-- [ ] The Tabernacle Curtains and Frames — Exodus 26:1–37
+- [x] [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37
 - [ ] The Altar and the Court — Exodus 27:1–21
 - [ ] The Priestly Garments — Exodus 28:1–43
 - [ ] The Ordination of the Priests — Exodus 29:1–46

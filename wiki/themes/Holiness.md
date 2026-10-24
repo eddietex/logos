@@ -83,6 +83,11 @@ leaders partway, told to *"worship from a distance"*; and Moses alone allowed to
 who then goes into the cloud (24:18). The same three-part pattern will shape the tabernacle — court,
 holy place, and most holy place — though Exodus 24 does not draw the comparison. See [[The Blood of the Covenant]].
 
+**There is a boundary within the sanctuary itself.** In Exodus 26:33 the veil separates the holy
+place from the most holy. The text does not contrast a holy room with an unholy room: both belong
+to the sanctuary, while the ark and mercy seat occupy the inner one. Leviticus 16:2 later forbids
+unrestricted entry within the veil; that restriction is not yet stated in Exodus 26. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -114,6 +119,8 @@ holy place, and most holy place — though Exodus 24 does not draw the compariso
   sung about at the sea is now commissioned**, and it is to be built from a freewill offering
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; *"pure gold"* eight times, and an ark whose poles *"shall not be taken from
   it"* (25:15). It is carried, never handled
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The veil distinguishes the holy place from the most holy (26:33).
 
 ## Related themes
 

@@ -136,6 +136,12 @@ formula over the blood (24:3–8). He alone may *"come near"* (24:2), and he alo
 Moses to all the people"* — and Hebrews 12:24 calls Jesus *"the mediator of a new covenant"* (WEB; *not
 yet ingested*). See [[The Blood of the Covenant]].
 
+**The meeting place now has an inner boundary.** The ark where God promised to speak to Moses
+(Exodus 25:22) belongs within the veil (26:33–34). Chapter 26 does not yet appoint the priests or
+state who may enter when. Hebrews 9:6–8 later reads the two spaces in terms of restricted priestly
+access, and 10:19–22 urges believers to approach through Jesus. This is a later interpretation of
+the sanctuary, not a prediction expressly stated in Exodus 26. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -341,6 +347,8 @@ yet ingested*). See [[The Blood of the Covenant]].
 - [[The Blood of the Covenant]] — Exodus 24:1–18; Moses alone comes near, relays, writes, reads, and sprinkles
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:22; ***"There I will meet with you"*** — a fixed meeting place, *"from between the two
   cherubim"*, where God speaks to one man *"all that I command you for the children of Israel"*
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The meeting place above the ark is situated within a separating veil.
 
 ## Related themes
 

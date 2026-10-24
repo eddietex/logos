@@ -12,7 +12,7 @@ tags: [connection]
 - **Exodus 25:40** — *"See that you make them after their pattern, which has been shown to you on the
   mountain"* — [[The Ark, the Table, and the Lampstand]]
 - **Exodus 26:30** — *"You shall set up the tabernacle according to the way that it was shown to you on
-  the mountain"* *(not yet ingested)*
+  the mountain"* — [[The Tabernacle Curtains and Frames]]
 - **Acts 7:44** — *"Our fathers had the tabernacle of the testimony in the wilderness, even as he who
   spoke to Moses commanded him to make it according to the pattern that he had seen"* *(not yet
   ingested)*
@@ -25,8 +25,8 @@ Exodus 26:30 is read from `raw/bible/Exodus.md`.)
 
 ## Analysis
 
-**Exodus says twice that Moses was shown something, and never says what.** At 25:9 God says *"all that I
-show you"* (*marʾeh*, a hiphil participle: *I am showing*). At 25:40 it is *"which you are being shown on
+**Exodus 25 twice says that Moses was shown a design without describing the form of the showing.**
+At 25:9 God says *"all that I show you"* (*marʾeh*, a hiphil participle: *I am showing*). At 25:40 it is *"which you are being shown on
 the mountain"* (*morʾeh*, hophal participle; both MAM). The noun is ***tabnît***, from *bānâ*, *to
 build*: a *plan*, *model*, or *form*. **The text does not say whether Moses saw a heavenly sanctuary, a
 model, a vision, or a set of instructions.** It says the design came from God and the work must follow
@@ -72,6 +72,11 @@ checked in this pass. At 26:30 the Septuagint has a third word, *eidos*, *form* 
 **Hebrews has the opposite word too.** The holy places *"made with hands"* are ***antitypa*** *of the
 true* (Hebrews 9:24, SBLGNT; the WEB's *"representations"*). The *typos* was shown on the mountain, and
 the tent built from it is its *antitypos*.
+
+**The requirement governs erection too.** Exodus 26:30 moves from individual furnishings to
+setting up the tabernacle according to what Moses was shown. The dimensions and joins of the
+preceding instructions serve an assembled whole, and 26:33–35 also fixes the furniture's positions.
+See [[The Tabernacle Curtains and Frames]]. This does not settle what form the mountain showing took.
 
 ## Significance
 

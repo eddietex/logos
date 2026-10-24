@@ -138,6 +138,12 @@ need, and worship.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+**Wealth becomes both ornament and support.** In Exodus 26 gold covers the boards and bars and
+forms clasps and hooks; silver forms the sockets supporting the boards and inner pillars, while
+brass serves the goats’ hair clasps and entrance sockets (26:6, 11, 19–29, 32, 37). Valuable materials
+are part of the structure as well as its visible surfaces. The chapter assigns their places but
+provides no allegorical meaning for each metal. See [[The Tabernacle Curtains and Frames]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; money cannot buy judgment; land must feed others.
@@ -310,6 +316,8 @@ See [[Justice, Sabbaths, and Feasts]].
   (32:2–4). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; *"pure gold"* (*zāhāb ṭāhôr*) eight times, its first occurrences in Scripture
   (MAM search, Genesis–Exodus 25), and a talent of it for the lampstand alone
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Gold, silver, brass, dyed linen, skins, and acacia become the enclosure.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

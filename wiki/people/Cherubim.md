@@ -35,6 +35,12 @@ reported here, not argued.
 tension in [[The Ten Commandments]] and [[Idolatry]]. The text's own answer, as far as it gives one, is
 that the cherubim are not worshipped and that the space they frame is empty.
 
+**The figures now extend across textiles.** Exodus 26:1, 31 prescribes cherubim on the inner
+curtains and on the veil separating the holy place from the most holy. The screen at the tent's
+entrance has no cherubim specified (26:36). Their number and appearance on the textiles are not
+given, and their role as guardians here is an Eden-based interpretation, not an explicit statement
+of Exodus. See [[The Tabernacle Curtains and Frames]].
+
 ## Timeline / key events
 
 - Stationed east of Eden with a flaming sword to guard the way to the tree of life — Genesis 3:24,
@@ -42,8 +48,8 @@ that the cherubim are not worshipped and that the space they frame is empty.
 - Commanded in hammered gold, of one piece with the mercy seat, wings spread over it, faces toward each
   other; God will speak *"from between the two cherubim"* — Exodus 25:18–22,
   [[The Ark, the Table, and the Lampstand]]
-- Woven into the tabernacle's curtains (Exodus 26:1) and the veil (26:31); made by Bezalel (37:7–9) —
-  *not yet ingested*
+- Prescribed on the tabernacle curtains and veil — Exodus 26:1, 31, [[The Tabernacle Curtains and Frames]]
+- The gold cherubim made by Bezalel — Exodus 37:7–9, *not yet ingested*
 - Moses hears the voice *"from between the two cherubim"* — Numbers 7:89, *not yet ingested*
 - God *"who sits above the cherubim"* — 1 Samuel 4:4; Psalm 80:1, *not yet ingested*
 - *"Cherubim of glory overshadowing the mercy seat"* — Hebrews 9:5, *not yet ingested*
@@ -55,6 +61,8 @@ that the cherubim are not worshipped and that the space they frame is empty.
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:18–22; **the frame.** Two of hammered gold over
   the mercy seat, wings *"covering"* it, faces *"toward one another"*; God speaks *"from between the two
   cherubim"*
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; represented on the inner curtains and the separating veil.
 
 ## Related people
 

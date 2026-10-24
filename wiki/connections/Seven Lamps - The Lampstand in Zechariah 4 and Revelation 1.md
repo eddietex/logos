@@ -22,6 +22,8 @@ tags: [connection]
 (Exodus 27 is read from `raw/bible/Exodus.md`; the others are quoted from the WEB as fetched
 individually from bible-api.com on 2026-10-23.)
 
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:35; the enclosure, separation, or placement developed here.
+
 ## Analysis
 
 **Exodus gives the lampstand seven lamps and no meaning.** It is a hammered gold tree with almond
@@ -51,6 +53,11 @@ vocabulary; the meanings are each book's own.
 **The tree reading.** Many readers take Exodus's lampstand as a stylized tree, perhaps the tree of life
 (see [[The Tree of Life - Eden and the New Jerusalem]]). Zechariah's olive trees beside the lamp are
 sometimes read as supporting that. Neither Exodus nor Zechariah says the lampstand is a tree of life.
+
+**Exodus fixes the lampstand's location.** It stands on the south side opposite the table,
+outside the veil (26:35), rather than beside the ark within the most holy space. The command
+gives a practical arrangement for the light of 25:37; it supplies no additional symbolic
+explanation. See [[The Tabernacle Curtains and Frames]].
 
 ## Significance
 

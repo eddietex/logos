@@ -23,6 +23,8 @@ tags: [connection]
   all that Yahweh commanded Moses; so they did"*; *"Moses did so. According to all that Yahweh
   commanded him, so he did."* (not yet ingested)
 
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28; the enclosure, separation, or placement developed here.
+
 ## Analysis
 
 **The formula is *kəkōl ʾăšer ṣiwwâ … kēn ʿāśâ*, *"according to all that he commanded … so he
@@ -48,6 +50,14 @@ The *kəkōl … kēn* frame of 39:32 and 40:16 is already there; what changes a
 **The pattern is ark → plagues → Passover → tabernacle.** The formula marks the moments when a
 human being does exactly what God specified — **and two of the four are buildings to a pattern**:
 the ark and the tabernacle.
+
+**The enclosure provides a detailed command-and-execution comparison.** Exodus 26:1–37 specifies
+curtains, coverings, boards, bars, veil, and screen; 36:8–38 reports their making in that order.
+The repeated dimensions and materials make the correspondence visible. This is not a verbatim
+repetition: 36 does not restate the folding and overhang directions of 26:9, 12–13. The erection
+and placement commanded in 26:30, 33–35 are reported in 40:18–28. These later passages were read
+in local WEB raw text and remain un-ingested. See [[The Tabernacle Curtains and Frames]]. This extends the obedience motif without
+claiming the full formula occurs in chapter 26.
 
 ## Significance
 

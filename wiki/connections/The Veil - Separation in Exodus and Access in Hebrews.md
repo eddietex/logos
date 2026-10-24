@@ -1,0 +1,73 @@
+---
+type: connection
+subtype: typology
+tags: [connection]
+---
+# The Veil - Separation in Exodus and Access in Hebrews
+
+## Passages involved
+
+- [[The Tabernacle Curtains and Frames]] — Exodus 26:31–35; the inner veil separates the holy place from the most holy.
+- Leviticus 16:2 — Aaron must not enter within the veil at will, lest he die.
+- Hebrews 9:1–8 — two spaces, different priestly access, and the meaning of the restriction.
+- Hebrews 10:19–22 — access through Jesus' blood and through the veil identified with his flesh.
+- Matthew 27:50–51; Mark 15:37–38; Luke 23:44–46 — the temple veil torn at Jesus' death.
+
+All non-Exodus passages are verified WEB comparisons, not yet ingested.
+
+## Analysis
+
+**Exodus establishes a separation within the dwelling.** The veil bears cherubim, hangs on four
+pillars, and separates two holy spaces (26:31–33). The ark and mercy seat are inside; table and
+lampstand are outside (26:34–35). The doorway screen is a different hanging, supported by five
+pillars, with no cherubim specified (26:36–37). The function of the inner veil is stated directly:
+“the veil shall separate the holy place from the most holy for you” (26:33, local WEB).
+
+**Leviticus supplies the restriction.** In 16:2 God tells Moses to warn Aaron not to enter the
+Most Holy Place within the veil at all times. The warning associates danger with God's appearance
+in the cloud on the mercy seat. Exodus 26 establishes the partition without yet stating that rule.
+The later restriction is a development of the sanctuary's use, not a command silently present in
+its construction instructions.
+
+**Hebrews reads the arrangement as limited access.** Hebrews 9:2–3 distinguishes the first room
+with its table and lampstand from the space after the second veil. Verses 6–7 distinguish the
+priests' continual service in the first from the high priest's annual entry with blood into the
+second. Verse 8 reads this arrangement as indicating that the way into the Holy Place had not yet
+been revealed while the first tabernacle stood. This is Hebrews' interpretation of the layout.
+
+**Hebrews then urges approach.** In 10:19–22 the basis is Jesus' blood and his priesthood. The way
+is described as “a new and living way, through the veil, that is to say, his flesh” (10:20, WEB).
+The author explicitly makes the comparison; Exodus 26 itself does not identify its textile with
+a future person's body. Nor does Hebrews 10 here say that the veil was torn: the Gospel accounts
+supply that event, and joining them is a further canonical reading.
+
+**The Gospel accounts agree on the tearing and differ in presentation.** Matthew 27:50–51 and
+Mark 15:37–38 narrate Jesus' death and then the veil torn from top to bottom. Luke 23:44–46
+places the tearing with the darkness before Jesus' final cry and death, and does not add the
+top-to-bottom detail. The difference in narrative order is retained, without inventing a sequence
+that all three state. Each calls it the temple veil; these verses do not specify which temple
+hanging is meant. Identifying it with the sanctuary's inner veil is an interpretive step, and
+it is not the wilderness tent's same physical curtain.
+
+Reading the torn veil as opened access to God fits Hebrews' argument. Reading it also as a sign
+of judgment on the temple is possible, but these short Gospel notices do not explain the sign
+in either set of terms. The connection records the access reading as a Christian canonical
+interpretation, while distinguishing it from an express explanation in the Gospel verses.
+
+### Sources
+
+Exodus 26:31–37 was read in `raw/bible/Exodus.md`. Leviticus 16:2; Hebrews 9:1–8; 10:19–22;
+Matthew 27:50–51; Mark 15:37–38; and Luke 23:44–46 were fetched individually from bible-api.com
+with `translation=web` on 2026-10-23. Quoted wording is from those responses. No claim about an
+exact Greek or Hebrew term is needed for this comparison.
+
+
+## Significance
+
+The inner boundary gives concrete form to [[Holiness]] within [[The Dwelling of God]]. Hebrews
+uses that boundary to explain both restricted priestly entry and the approach made possible
+through Christ; see [[Mediation and Advocacy]]. The curtain cannot be treated as merely decoration,
+but its later meaning must not erase its original architectural function.
+
+See [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] and
+[[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
