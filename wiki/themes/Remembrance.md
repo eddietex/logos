@@ -162,7 +162,15 @@ MAM). As with the twelve names worn *"for a memorial"* on Aaron's shoulders (28:
 is before God; the text does not say what it reminds him of beyond the atonement for Israel's
 souls. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The golden calf — Exodus 32
+
+Moses asks God to remember Abraham, Isaac, and Israel and the sworn offspring and land promise
+(32:13). The people’s attribution of their rescue to the calf (32:4) is a failure to remember the
+deliverer rightly. Psalm 106:21 later explicitly describes forgetting God; see [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]]. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses asks God to remember Abraham, Isaac, and Israel and the sworn offspring and land promise (32:13).
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; experience turned into obligation.
 

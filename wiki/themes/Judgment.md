@@ -221,7 +221,16 @@ it does not tell a judgment story or specify how the penalty is administered.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+Total destruction is announced and averted through intercession (32:10–14). About three thousand
+then die at the Levites’ hands, and Yahweh strikes the people at the close (32:28, 35). The latter
+plague has no stated death toll. The narrative holds corporate preservation and ongoing
+accountability together; it does not identify every victim or explain the selection. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Total destruction is announced and averted through intercession (32:10–14).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; a sanction stated before a case is
   narrated.

@@ -108,7 +108,16 @@ do not wait for friendship or a request for pity. See
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The golden calf — Exodus 32
+
+The people are spared the announced destruction through Moses’ appeal to God’s deliverance and
+promise (32:11–14). This is mercy in narrative outcome, not a claim that this chapter uses the
+Hebrew terms discussed above. Mercy does not remove the chapter’s remaining judgment (32:28,
+34–35). See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The people are spared the announced destruction through Moses’ appeal to God’s deliverance and promise (32:11–14).
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; help, food, and refreshment.
 

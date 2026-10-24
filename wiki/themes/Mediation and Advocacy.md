@@ -123,7 +123,7 @@ Deuteronomy 5:28 approves their request; it should not automatically be called r
 At the close of the Book of the Covenant, the mediator promised is not a human advocate but an
 angel. He is sent ahead to keep Israel on the way and bring it to the land, and Israel is told to
 *"listen to his voice"*. He also *"will not pardon your disobedience"* (23:20–22). Unlike Moses, who
-pleads for the people (32:11–14, 31–32; *not yet ingested*), this mediator is described only as a
+pleads for the people (32:11–14, 31–32; [[The Golden Calf]]), this mediator is described only as a
 guide to be obeyed. After the calf, Moses will refuse to go with the angel alone (33:15; *not yet
 ingested*). See [[The Angel Sent Ahead]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
@@ -163,7 +163,17 @@ Moses installs the mediators: every act of the ordination is his (29:4–26). Th
 their own mediation at the daily altar, at the door where God says *"I will meet with you"*
 (29:42). Atonement is made for the priests before they make it for anyone else (29:33). See [[The Ordination of the Priests]].
 
+### The golden calf — Exodus 32
+
+Moses pleads for a guilty people and secures relief from the threat of total destruction
+(32:11–14). Afterward he seeks atonement and asks to be erased if forgiveness is refused
+(32:30–32). **Qualification:** treating this as a fully specified offer to pay for others goes
+beyond the text; solidarity in their fate is also possible. God’s answer assigns erasure to the
+sinner and does not accept Moses as a substitute (32:33). See [[Blot Out - The Flood, Amalek, and God's Book]]. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses pleads for a guilty people and secures relief from the threat of total destruction (32:11–14).
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
   an advocate with no office, arguing for a city he has no tie to, on a standard he was given four

@@ -587,6 +587,13 @@ as Jacob's house and the children of Israel (19:3), then gives them the covenant
 19:4–6. Jacob himself is not an actor here: his two names identify the community descended from
 him. See [[Israel at Mount Sinai]].
 
+### The golden calf — Exodus 32
+
+Moses names him Israel alongside Abraham and Isaac when asking God to remember the sworn promise
+(32:13). The same chapter uses Israel for the worshipping people (32:4); in the ancestral triad it
+denotes Jacob. The land promise becomes a ground for preserving his descendants despite their
+failure. See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Foretold before birth in the oracle to his mother: *"The elder will serve the younger"* — Genesis
@@ -731,7 +738,11 @@ him. See [[Israel at Mount Sinai]].
   Egypt (every man and his household came with Jacob)"*; seventy souls *"came out of Jacob's body"* —
   Exodus 1:1, 5, [[The Oppression in Egypt]]
 
+- Exodus 32 — Named Israel in the appeal to the oath to the fathers (32:13). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — Named Israel in the appeal to the oath to the fathers (32:13).
 
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; named in the oracle before he is
   born, born holding a heel, described with the adjective the Bible uses of Noah and Job, loved by

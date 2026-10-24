@@ -473,6 +473,12 @@ gets a death notice in this same chapter** (35:8); she does not.
   against the child of the flesh; Hebrews 11:17–19 reads the binding as Abraham's belief in
   resurrection.
 
+### The golden calf — Exodus 32
+
+Isaac is named with Abraham and Israel in Moses’ appeal to the oath and the promised offspring and
+land (32:13). He acts only as a remembered ancestor; the plea does not credit the current
+generation with his obedience. See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Named by God, and the covenant established with him, a year before his conception — Genesis
@@ -545,7 +551,11 @@ gets a death notice in this same chapter** (35:8); she does not.
 - Dies at a hundred eighty, *gathered to his people*, and is buried by [[Esau]] and [[Jacob]] with the
   elder named first — Genesis 35:28–29
 
+- Exodus 32 — Remembered as a servant and recipient of the patriarchal promise (32:13). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — Remembered as a servant and recipient of the patriarchal promise (32:13).
 
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17:15–21; named, dated, and given the covenant
   before he is conceived

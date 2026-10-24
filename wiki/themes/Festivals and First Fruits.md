@@ -34,7 +34,15 @@ The household rite of Exodus 12 and Deuteronomy's chosen-place Passover are not 
 instructions; [[The Passover]] records the tension. This theme preserves both. Source texts were
 checked in local Exodus and through bible-api.com's WEB for Deuteronomy 16:1–17 on 2026-10-23.
 
+### The golden calf — Exodus 32
+
+Aaron proclaims a feast to Yahweh and the people sacrifice and celebrate before the calf (32:5–6).
+The use of the divine name and familiar festival practices does not authorize the image. This is
+an improvised feast in the narrative, not another commanded annual festival. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Aaron proclaims a feast to Yahweh and the people sacrifice and celebrate before the calf (32:5–6).
 
 - [[The Passover]] — Exodus 12:14–20.
 - [[The Consecration of the Firstborn]] — Exodus 13:3–10.

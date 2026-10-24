@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:26–29.
+
 - Genesis 34:13–31 — the proposal, the third day, and the brothers' unanswered question
 - Genesis 49:5–7 — *"Cursed be their anger… I will divide them in Jacob, and scatter them in
   Israel"*
-- Exodus 32:26–29 — the sons of Levi at Sinai, and the ordination that follows
+- Exodus 32:26–29 — the sons of Levi at Sinai, and the call to consecration that follows
 - Exodus 6:16–25 — the genealogy that follows Levi's line to Aaron and ends on Phinehas —
   [[The Heads of the Fathers' Houses]]
 - Numbers 25:6–13 — [[Phinehas (son of Eleazar)]], and a covenant of peace for a spear
@@ -62,8 +64,7 @@ Jacob who gets no word there. The curse runs its course unmodified.
 
 **Levi is scattered and becomes the priesthood.** At Sinai, Moses asks *"Whoever is on Yahweh's
 side, come to me!"* and *"all the sons of Levi gathered themselves together to him"*, and what they
-are then told to do is to take a sword and go through the camp (Exodus 32:26–28). **The ordination is
-explicitly grounded in that act** — *"Consecrate yourselves today to Yahweh… that he may give you a
+are then told to do is to take a sword and go through the camp (Exodus 32:26–28). **The call to consecration follows that act** — *"Consecrate yourselves today to Yahweh… that he may give you a
 blessing today"* (32:29) — and Moses' blessing grounds the teaching office and the altar in the same
 disposition: *"who said of his father and of his mother, 'I have not seen him'… For they have
 observed your word"* (Deuteronomy 33:9–10). **Phinehas repeats the pattern one more time** and is
@@ -75,6 +76,16 @@ inheritance"* (Deuteronomy 18:2), and lives in forty-eight towns scattered throu
 reading — that the same readiness to use a sword is cursed when it serves a family's honour and
 blessed when it serves Yahweh's — **is a reading, and it is not stated anywhere in the text.** What
 the text does is put the two outcomes side by side and leave the sentence identical in both.
+
+### Exodus 32 now ingested
+
+The Exodus episode is now ingested in [[The Golden Calf]]. The sons of Levi obey Moses’ command,
+attributed by him to Yahweh, and about three thousand die. Moses then calls for consecration with
+blessing in view. **Qualification:** Exodus 32:29 is not an account of the seven-day Aaronic
+ordination prescribed in chapters 28–29. Reading this as the origin of the later tribal office is
+an interpretation; the chapter does not specify those offices or the land settlement. The
+condemnation of Levi’s anger in Genesis 49 and the association of consecration with killing here
+remain an explicit moral tension.
 
 ## Significance
 

@@ -91,7 +91,16 @@ Yahweh their God, who brought them out of the land of Egypt, that I might dwell 
 (Exodus 29:46). The departure is now given its goal at the tabernacle. See
 [[The Ordination of the Priests]].
 
+### The golden calf — Exodus 32
+
+The people credit their deliverance from Egypt to the calf (32:4), while Moses argues that the
+Egyptians would interpret Israel’s destruction as evidence of malicious intent in the exodus
+(32:12). Egypt is the remembered place and imagined audience, not the setting of this episode. See
+[[The Golden Calf]].
+
 ## Appears in
+
+- [[The Golden Calf]] — The exodus is misattributed, and Egypt’s possible verdict enters Moses’ prayer (32:1–12).
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; remembered alien status and departure in Abib.
 

@@ -141,6 +141,8 @@ says to him there fills the next seven chapters.
 
 ## Cross-references
 
+- [[The Golden Calf]] — The pledged obedience of Exodus 24:3–8 is contradicted by the calf; the tablets are broken in 32:19.
+
 - Exodus 19:8 — the first *"All that Yahweh has spoken we will do"*: [[Israel at Mount Sinai]].
 - Exodus 20:22–23:33 — *"all Yahweh's words, and all the ordinances"* (24:3), read as *"the book of
   the covenant"*: [[The Altar and the Hebrew Slave]] through [[The Angel Sent Ahead]].

@@ -124,7 +124,17 @@ without narrating an ordination.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+Aaron makes the calf while the instructions for his appointment have already been given (28:1;
+32:1–6). Levi’s descendants answer Moses and are called to consecrate themselves after the
+killings (32:26–29). **Qualification of earlier wording here:** this passage links loyalty,
+consecration, and blessing; it does not perform the prescribed Aaronic ordination or say the whole
+nation’s vocation was transferred to Levi because of the calf. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Aaron makes the calf while the instructions for his appointment have already been given (28:1; 32:1–6).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; garments made by people outside the
   priestly family.
@@ -169,7 +179,7 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
   a sentence of dispersal on [[Levi]] for the sword at [[Shechem (city)]] — **and the dispersal is
   carried out to the letter**: no territory, forty-eight towns through every other tribe (Joshua 21;
   Numbers 35:1–8). **What changes is what it means.** **At Exodus 32:26–29 the tribe takes up a sword
-  again, at Moses' order, and is ordained for it**; Deuteronomy 33:8–11 grounds the teaching office
+  again, at Moses' order, and is called to consecrate itself**; Deuteronomy 33:8–11 grounds the teaching office
   and the altar in the same disposition Genesis cursed. **[[Simeon]], under the identical sentence,
   simply disappears.** **No text in the Bible explains the difference**, and the wiki does not supply
   one. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]

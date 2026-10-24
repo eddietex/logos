@@ -133,7 +133,16 @@ even when others already support it; agreement is not evidence of truth.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The golden calf — Exodus 32
+
+Aaron’s excuse contradicts the narrated act. Exodus 32:4 reports his shaping the calf with an
+engraving tool; 32:24 has him say that it came out of the fire. He also shifts attention to the
+people’s evil (32:22). The narrator reaffirms Aaron’s making in 32:35; his account is an evasion,
+not the source for how the object was produced. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Aaron’s excuse contradicts the narrated act.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; falsehood made judicial.
 

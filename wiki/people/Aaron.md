@@ -169,9 +169,8 @@ disputes (24:14). It is to this Aaron, left in charge, that the people will come
 
 ### What is ahead
 
-The priestly
-garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
-(Numbers 20). These sections are written as their pericopes arrive.
+The making of the priestly garments (39), the performance of the ordination (Leviticus 8), and his
+death on Mount Hor (Numbers 20) remain ahead. The appointment instructions and the calf are ingested.
 
 ### The lamp service prescribed — Exodus 27:1–21
 
@@ -219,6 +218,17 @@ and its furnishings. No new priestly action or ordination is reported.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+The man appointed to bear Israel before Yahweh makes the calf, builds its altar, and announces a
+feast to Yahweh (32:1–6). The narrator says he fashions it with a tool; Aaron later claims it
+simply emerged from the fire (32:4, 24). This is an explicit contradiction between his excuse and
+the narrated act, not two equally endorsed accounts. Moses holds him responsible for the people’s
+disorder, and 32:35 repeats his agency. Exodus does not report his removal from the office already
+prescribed in chapters 28–29. Deuteronomy 9:20 separately reports Moses praying for Aaron; that
+detail is not stated here. See [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]].
+See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
@@ -263,7 +273,11 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
 - Exodus 29:1–46 — Ordination commanded: washed, clothed, anointed, and consecrated for seven days. See [[The Ordination of the Priests]].
 - Exodus 30:1–38 — Given the morning and evening incense, the yearly atonement on the incense altar, and the washing at the basin. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+- Exodus 32 — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; his garments and those of his sons
   are assigned to the makers.

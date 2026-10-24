@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:11–14.
+
 - **Genesis 22:15–18** — *"I have sworn by myself, says Yahweh, because you have done this thing…"*
   See [[The Binding of Isaac]].
 - **Genesis 15:7–21** — the promise as a self-curse God walks through alone. See
@@ -83,11 +85,18 @@ the book, stated in a formula rather than a paradox. See [[The Angel of Yahweh]]
 ### What the oath becomes
 
 **It turns into the Bible's standard shorthand for the whole promise.** *"The land which Yahweh swore
-to your fathers"* is Deuteronomy's refrain; Moses uses the oath as leverage in the one argument he
-wins against God — *"Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your
+to your fathers"* is Deuteronomy's refrain; Moses uses the oath as leverage in his appeal for Israel
+at Sinai — *"Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your
 own self"* (Exodus 32:13) — and Zechariah's song at Luke 1:73 names *"the oath which he swore to
 Abraham our father"* as what has now been kept. **What Abraham receives at Moriah is not new content;
 it is a form of words his descendants can quote back.** See [[Remembrance]] and [[Oaths and Vows]].
+
+### Exodus 32 now ingested
+
+In [[The Golden Calf]], Moses explicitly appeals to the oath sworn by God’s own self (32:13),
+recalling Abraham, Isaac, and Israel and the promises of offspring and land. The next verse
+narrates relenting from destruction. The oath is thus a ground of intercession for a people whose
+present conduct breaches the commands; it does not make their act innocent.
 
 ## Significance
 

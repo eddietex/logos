@@ -171,7 +171,15 @@ half shekel is called *"an offering to Yahweh"*, *tərûmâ* (30:13, MAM), the w
 offering of 25:2, but unlike that offering it has a fixed amount. See
 [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The golden calf — Exodus 32
+
+The feast at the calf includes burnt offerings and peace offerings (32:6), categories already used
+at the covenant ratification (24:5). Familiar rites do not by themselves make the worship
+faithful. Neither the offerings nor the feast prevent the indictment of 32:7–8. See [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]]. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The feast at the calf includes burnt offerings and peace offerings (32:6), categories already used at the covenant ratification (24:5).
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; feasts, first fruits, and limits.
 

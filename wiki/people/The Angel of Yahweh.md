@@ -278,6 +278,13 @@ angel *before you* but says *"I will not go up among you"* (33:2–3; MAM; *not 
 [[The Angel Sent Ahead]], [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]], and
 [[I Send My Messenger Before Your Face - Exodus 23, Malachi 3, and Mark 1]].
 
+### The golden calf — Exodus 32
+
+After the calf, God again promises that his angel will go before the people while reserving
+punishment (32:34). The verse does not name or describe the messenger, and inclusion on this page
+is a thematic grouping, not a settled identification with every earlier angelic appearance.
+Guidance is reaffirmed without an explicit general pardon. See [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]]. See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
@@ -314,7 +321,11 @@ angel *before you* but says *"I will not go up among you"* (33:2–3; MAM; *not 
 - Stands in the heavenly court beside Joshua the high priest and rebukes the accuser — Zechariah
   3:1–5
 
+- Exodus 32 — The angel is promised before the people, with judgment still pending (32:34). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — The angel is promised before the people, with judgment still pending (32:34).
 
 - [[Hagar and Ishmael]] — Genesis 16:7–12; his first appearance in Scripture, to a runaway Egyptian
   slave rather than to a patriarch, and he leaves speaking in God's own first person

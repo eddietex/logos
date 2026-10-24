@@ -84,7 +84,16 @@ resolve it.**
   *"how often shall my brother sin against me?"* with Lamech's number reversed (Matthew 18:21–22). See
   [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]].
 
+### The golden calf — Exodus 32
+
+The camp command expressly reaches brother, companion, and neighbor, and Moses’ following call to
+consecration includes son and brother (32:27–29). Kinship does not protect against the episode’s
+judgment. This is a difficult qualification of the duty to preserve one’s brother traced through
+Genesis, not a general instruction authorizing readers to attack relatives. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The camp command expressly reaches brother, companion, and neighbor, and Moses’ following call to consecration includes son and brother (32:27–29).
 
 - Genesis 4:1–16 — the first fratricide and *"Am I my brother's keeper?"* — [[Cain and Abel]]
 - Genesis 9:5 — *"at the hand of every man's brother"* — [[The Covenant with Noah]]

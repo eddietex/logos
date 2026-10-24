@@ -130,6 +130,8 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[The Golden Calf]] — Exodus 32:15–19 carries the newly delivered tablets down the mountain and narrates their breaking.
+
 - Genesis 1:1–2:3; Exodus 20:8–11; 23:12 — [[The Creation of the World]], [[The Ten Commandments]],
   and [[Justice, Sabbaths, and Feasts]]; developed in
   [[Creation as the Ground of the Sabbath Command]].

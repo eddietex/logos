@@ -150,7 +150,15 @@ seven days (29:36–37). In MAM the verb *wəḥiṭṭēʾtā* (*cleanse*) is w
 *ḥaṭṭāʾt* (*sin offering*) in the same verse. In the stored WEB text, 29:33 is the first
 *"atonement"* in Genesis and Exodus. See [[The Ordination of the Priests]] and [[Outside the Camp - The Sin Offering and Hebrews 13]].
 
+### The golden calf — Exodus 32
+
+The people rapidly turn from the commanded way (32:8). Moses calls the act a great sin to Aaron,
+to the people, and to God (32:21, 30–31). Aaron’s excuse does not remove his agency, and the final
+verse attributes the calf both to the people and to Aaron (32:35). See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The people rapidly turn from the commanded way (32:8).
 
 - [[The Fall]] — the first disobedience and its anatomy
 - [[The Wager in Heaven and the Four Messengers]] — 1:22's verdict, and the precise definition of

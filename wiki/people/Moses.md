@@ -357,7 +357,7 @@ narrates his telling, writing, and reading. See [[The Altar and the Hebrew Slave
 
 ### What is ahead
 
-The tabernacle instructions, the calf, and the tabernacle built (25–40); and the rest of the Torah. These
+The renewed covenant and the tabernacle built (33–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -480,6 +480,15 @@ instructions.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+Moses pleads for the people rather than taking up the prospect of a nation made from himself. His
+first appeal invokes deliverance, Egypt’s judgment of God, and the patriarchal oath; Yahweh
+relents (32:10–14). He then breaks the tablets, destroys the calf, confronts Aaron, and commands
+the camp judgment. His next-day attempt at atonement is explicitly uncertain (32:30). His
+conditional request to be erased if forgiveness is refused is not accepted as a substitution; God
+assigns erasure to the sinner (32:32–33). See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -590,7 +599,11 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
 - Exodus 29:1–46 — Told to ordain the priests himself, and given the breast of the ram as his portion. See [[The Ordination of the Priests]].
 - Exodus 30:1–38 — Told to make the incense altar, collect the census ransom, and compound and apply the anointing oil. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+- Exodus 32 — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; receives the makers' commission, the
   Sabbath law, and the tablets.

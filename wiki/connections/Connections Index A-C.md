@@ -23,7 +23,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Exodus 7:9–12 · Ezekiel 29:3 · Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 — "Leviathan a pet" corrected against 41:5 |
 | [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] | parallel | Genesis 30:1–2 · Genesis 50:18–20 · Genesis 25:21 · Genesis 45:5–8 |
 | [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
-| [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]] | thread | Genesis 24:7 · Exodus 14:19 · Exodus 17:7 · Exodus 23:20–23 · Exodus 32:34 · Exodus 33:2–3, 14–15 · Exodus 34:9 |
+| [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]] | thread | Genesis 24:7 · Exodus 14:19 · Exodus 17:7 · Exodus 23:20–23 · Exodus 32:34 · Exodus 33:2–3, 14–15 · Exodus 34:9 · [[The Golden Calf]] (Exodus 32:34) |
 | [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]] | quotation | Genesis 28:12 · John 1:43–51 · Genesis 27:35 · Genesis 32:28 · Hosea 12:3–4 |
 | [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
 | [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 · Exodus 25:9 · Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28 · Exodus 27:1–21 · Exodus 38:1–7, 9–20 · Exodus 40:6–8, 24–33 — [[The Altar and the Court]] · Exodus 29:1–37 · Leviticus 8:36 |
@@ -35,7 +35,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |
 | [[The Bear, Orion, and the Pleiades]] | image | Job 9:9 · Job 38:31–33 · Amos 5:8 · Isaiah 13:10 · Genesis 1:16 · Psalm 147:4 · Isaiah 40:26 |
 | [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Genesis 22:16–18 · Genesis 26:5 · Exodus 15:26 · Exodus 16:28 · Exodus 19:4–8 · Exodus 20:1–21 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 |
-| [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 |
+| [[Bethel from Jacob's Pillar to Jeroboam's Calf]] | thread | Genesis 12:8 · Genesis 28:10–22 · Genesis 35:1–15 · Judges 20:26–28 · 1 Kings 12:26–33 · Amos 5:5; 7:10–17 · Hosea 4:15; 12:4 · 2 Kings 23:15–20 · [[The Golden Calf]] (Exodus 32:1–6, 20) |
 | [[The Betrothal at the Well]] | type-scene | Genesis 24:10–61 · Genesis 29:1–20 · Exodus 2:15–21 · John 4:1–42 · Ruth 2:8–9 |
 | [[Better Than Gold - The Price of Wisdom]] | thread | Job 28:1–11, 13, 15–19 · Proverbs 2:4–6 · Proverbs 3:13–15 · Proverbs 8:10–11, 19 · Proverbs 16:16 · Proverbs 20:15 · Psalm 19:10; 119:72 · Isaiah 33:6 · Matthew 13:44 · Colossians 2:3 · Job 22:24–25 · Job 23:10 · Job 31:24–25 |
 | [[The Binding of Isaac in the New Testament]] | quotation | Genesis 22:1–19 · Hebrews 11:17–19 · James 2:21–23 · Romans 8:32 · John 3:16 |
@@ -44,7 +44,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Blessed Be God Who Delivered - Melchizedek and Jethro]] | typology | Genesis 14:18–20 · Exodus 18:1, 9–12 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
 | [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]] | quotation | Exodus 24:6–8 · Zechariah 9:11 · Jeremiah 31:31–33 · Matthew 26:27–28 · Mark 14:23–24 · Luke 22:20 · 1 Corinthians 11:25 · Hebrews 9:18–22 · Hebrews 12:24 · 1 Peter 1:2 · Exodus 29:12, 20–21 |
-| [[Blot Out - The Flood, Amalek, and God's Book]] | thread | Genesis 6:7; 7:4, 23 · Exodus 17:14 · Exodus 32:32–33 · Deuteronomy 9:14 · Deuteronomy 25:19 · Deuteronomy 29:20 · Psalm 69:28 |
+| [[Blot Out - The Flood, Amalek, and God's Book]] | thread | Genesis 6:7; 7:4, 23 · Exodus 17:14 · Exodus 32:32–33 · Deuteronomy 9:14 · Deuteronomy 25:19 · Deuteronomy 29:20 · Psalm 69:28 · [[The Golden Calf]] (Exodus 32:30–34) · Romans 9:1–3 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
 | [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Exodus 12:13 · Exodus 16:10 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |

@@ -171,7 +171,16 @@ this pericope, and no means of execution is specified.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+The threatened destruction of the nation is averted (32:10–14), but about three thousand are
+killed and a later plague is reported (32:28, 35). Moses asks to be blotted from God’s book if
+forgiveness is refused; the book’s scope is not explained here. Survival of the people and
+liability of sinners coexist. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The threatened destruction of the nation is averted (32:10–14), but about three thousand are killed and a later plague is reported (32:28, 35).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the sabbath death sanction.
 

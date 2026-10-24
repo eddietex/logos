@@ -43,7 +43,16 @@ is what God has just done**: *"The horse and his rider he has thrown into the se
   the Psalms; and *"the song of Moses, the servant of God, and the song of the Lamb"* (Revelation 15:3). See
   [[The Song of Moses and the Lamb - Exodus 15 in Revelation 15]].
 
+### The golden calf — Exodus 32
+
+Moses hears singing where Joshua hears the sound of war, and he sees dancing before the calf
+(32:17–19). Music and dance that celebrated deliverance in chapter 15 now accompany false
+attribution of that deliverance. The medium alone does not distinguish faithful praise from
+idolatrous celebration. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses hears singing where Joshua hears the sound of war, and he sees dancing before the calf (32:17–19).
 - Genesis 31:27 — the songs and tambourine Laban says he would have given — [[Jacob's Flight from Laban]]
 - Exodus 15:1–21 — the Song of the Sea and Miriam's refrain — [[The Song of the Sea]]
 

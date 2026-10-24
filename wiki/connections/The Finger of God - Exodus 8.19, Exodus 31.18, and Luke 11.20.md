@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:15–19.
+
 - **Exodus 8:19** — the magicians, unable to make lice: *"This is God's finger"* —
   [[Frogs, Lice, and Flies]]
 - **Exodus 31:18** — the tablets of the testimony, *“stone tablets, written with God’s finger”* —
@@ -71,6 +73,13 @@ occurs twice.
 
 Exodus 31:18 was checked in raw WEB and MAM (Sefaria) on 2026-10-24. The earlier Deuteronomy and
 Gospel comparisons retain their original source note.
+
+### Exodus 32 now ingested
+
+In [[The Golden Calf]], both the tablets and their writing are attributed to God (32:15–16). Moses
+nevertheless breaks them on seeing the calf and dancing (32:19). Their divine authorship, supplied
+in 31:18 and reaffirmed here, heightens the rupture; the text does not say the writing was
+defective or that the commands ceased to bind.
 
 ## Significance
 

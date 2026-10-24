@@ -92,7 +92,18 @@ happening in God rather than in the world.
 - **Luke 19:41; John 11:35** — Jesus weeping over a city and at a grave, which is where Christian
   theology has usually located the answer to the question this verse raises.
 
+### The golden calf — Exodus 32
+
+Exodus 32:14 explicitly reports that Yahweh repented of the evil he had announced. Moses’ appeal
+invokes what God has done and sworn (32:11–13), not the people’s innocence. The tension with
+Numbers 23:19 and 1 Samuel 15:29 remains explicit: those passages deny divine repentance in their
+contexts (WEB checked at bible-api.com, 2026-10-24). Here the threatened total destruction is
+averted, but the killings, reserved punishment, and final plague are not canceled (32:28, 34–35).
+See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Exodus 32:14 explicitly reports that Yahweh repented of the evil he had announced.
 
 - [[The Sons of God and the Corruption of the Earth]] — *"Yahweh was sorry that he had made man on
   the earth, and it grieved him in his heart"*

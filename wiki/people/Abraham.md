@@ -712,6 +712,13 @@ received the promises"* (11:13); the father of a promise that always had the nat
 3:8); and *"the friend of God"* (2 Chronicles 20:7; Isaiah 41:8; James 2:23). This page grows as those
 arrive.
 
+### The golden calf — Exodus 32
+
+Moses asks God to remember Abraham with Isaac and Israel, appealing to the oath sworn by God’s own
+self, the numerous offspring, and the enduring land promise (32:13). Abraham is recalled, not
+present. The assurance received by the patriarch now grounds intercession for descendants who have
+violated the covenant. See [[I Have Sworn by Myself - The Oath at Moriah]]. See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Named first of Terah's three sons, in Terah's seventieth year or later — Genesis 11:26,
@@ -834,7 +841,11 @@ arrive.
   first person in the Bible *"gathered to his people"* — Genesis 25:7–8
 - Buried at Machpelah with Sarah, by Isaac and Ishmael together — Genesis 25:9–10, [[Machpelah]]
 
+- Exodus 32 — Remembered with Isaac and Israel in Moses’ appeal to God’s oath (32:13). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — Remembered with Isaac and Israel in Moses’ appeal to God’s oath (32:13).
 
 - [[From Shem to Abram]] — Genesis 11:26–32; named, married, and moved, and given no act of his own
 - [[The Call of Abram]] — Genesis 12:1–9; called, promised, and obedient without a word

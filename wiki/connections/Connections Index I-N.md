@@ -14,7 +14,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
 | [[I AM WHO I AM - Exodus 3.14 and John 8.58]] | allusion | Exodus 3:12, 14 · Exodus 4:12 · John 8:58 · Revelation 1:8 |
 | [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] | thread | Job 33:23–28 · Exodus 21:30 · Exodus 30:12 · Numbers 35:31 · Psalm 49:7–9, 15 · Proverbs 13:8 · Isaiah 43:3 · Hosea 13:14 · Job 36:18 · Mark 10:45 · Matthew 20:28 · 1 Timothy 2:5–6 · 1 Peter 1:18–19 · Exodus 21:12–36 |
-| [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 |
+| [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 · [[The Golden Calf]] (Exodus 32:11–14) |
 | [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] | word | Genesis 49:18 · Exodus 14:13; 15:2 · Psalm 3:8 · Psalm 119:166 · Isaiah 12:2–3 · Jonah 2:9 · Luke 2:30 · Job 13:16 |
 | [[I Put On Righteousness - Job 29.14 and the Garments of Justice]] | image | Job 29:14 · Job 19:9 · Job 30:18 · Job 22:6 · Job 40:10, 14 · Psalm 132:9, 16 · Psalm 109:18 · Isaiah 11:5 · Isaiah 59:16–17 · Isaiah 61:10 · Zechariah 3:4–5 · Judges 6:34 · Ephesians 6:14 · Colossians 3:12 · Revelation 19:8 |
 | [[I Send My Messenger Before Your Face - Exodus 23, Malachi 3, and Mark 1]] | quotation | Exodus 23:20 · Malachi 3:1 · Mark 1:2–3 |

@@ -158,7 +158,16 @@ Gold, blue, purple, scarlet, fine linen, two onyx stones, and twelve precious st
 the high priest's clothing (Exodus 28:5–21). The wealth offered in 25:1–7 is now worn by the one
 who represents the givers. See [[The Priestly Garments]].
 
+### The golden calf — Exodus 32
+
+Gold earrings are surrendered and made into the calf (32:2–4). The sanctuary offering also calls
+for gold (25:3), so the narrative contrasts uses of available wealth. Exodus 32 does not trace
+these particular earrings to Egyptian donors; that connection is an inference from the larger
+exodus story. See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Gold earrings are surrendered and made into the calf (32:2–4).
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; money cannot buy judgment; land must feed others.
 

@@ -6,7 +6,7 @@ tags: [theme]
 
 ## Definition / overview
 
-**The worship, possession, or consultation of gods other than the God of Abraham** — and in Genesis
+**The worship, possession, or consultation of other gods, and forbidden images used in worship** — and in Genesis
 it is remarkable chiefly for how little the book says about it.
 
 **There is no commandment against it in Genesis, no denunciation of it, and no character who is
@@ -91,7 +91,7 @@ The second statement of the image prohibition argues from hearing: *"You yoursel
 have talked with you from heaven"*, and therefore *"gods of silver or gods of gold"* are not to be
 made *"to be alongside me"* (20:22–23; WLC *ʾittî*, *with me*). **The rival it forbids is a
 companion as much as a replacement.** The altar of earth or uncut stone follows at once (20:24–25),
-in place of an image. Exodus 32:4 will test the point with a calf called the gods that brought
+in place of an image. Exodus 32:4 tests the point with a calf called the gods that brought
 Israel up from Egypt. See [[The Altar and the Hebrew Slave]].
 
 **The first commandment receives its penalty at Exodus 22:20.** *"He who sacrifices to any god,
@@ -122,7 +122,16 @@ the curtains and inner veil. Both commands are preserved. The latter does not au
 of the figures, and the former cannot be applied as a ban on every representational object without
 explaining the cherubim. Exodus 26 gives no argument resolving the tension. See [[The Tabernacle Curtains and Frames]] and [[Cherubim]].
 
+### The golden calf — Exodus 32
+
+Aaron’s feast is expressly proclaimed to Yahweh, yet the calf and its worship violate the
+prohibitions already given (32:4–8; 20:3–5, 23). Idolatry here includes forbidden worship using
+Yahweh’s name. The image is destroyed at Sinai; Jeroboam’s later calves are different objects. See
+[[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] and [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]]. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Aaron’s feast is expressly proclaimed to Yahweh, yet the calf and its worship violate the prohibitions already given (32:4–8; 20:3–5, 23).
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; other gods not invoked.
 
@@ -174,11 +183,10 @@ explaining the cherubim. Exodus 26 gives no argument resolving the tension. See 
   an altar*; Jacob's reply to his household opens with a fifth imperative — *"Put away the foreign
   gods that are among you, purify yourselves, change your garments"* — in the vocabulary Exodus
   19:10, 14 will use for Sinai. **He hides them rather than destroying them**, under the oak at
-  Shechem, where Moses grinds the calf to powder (Exodus 32:20) and Josiah burns bones on the altar
-  (2 Kings 23:15–16). **And Genesis never says whose gods they were**, four chapters after telling us
+  Shechem, where the household gives them up. Moses later destroys the calf below Sinai
+  (Exodus 32:20); Josiah burns bones on the altar at Bethel (2 Kings 23:15–16). **And Genesis never says whose gods they were**, four chapters after telling us
   [[Rachel]] stole her father's. The earrings surrendered with them are *nəzāmîm* — **the word of
-  Exodus 32:2–3**, where the same ornaments are collected and made into a calf, which ends up in this
-  same town (1 Kings 12:28–29)
+  Exodus 32:2–3**, where the same ornaments are collected and made into a calf, whereas a later, different calf is placed at Bethel (1 Kings 12:28–29)
 
 - [[Prophecy and Vision]] — divination as the practice the law will class with false prophecy
 - [[The Names of God]] — the titles Genesis lets outsiders use, correctly and incorrectly

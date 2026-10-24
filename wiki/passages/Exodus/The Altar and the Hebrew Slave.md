@@ -114,6 +114,8 @@ three, she goes free without payment (21:7–11).
 
 ## Cross-references
 
+- [[The Golden Calf]] — The gold image forbidden in Exodus 20:23 becomes the crisis of Exodus 32:1–8.
+
 - Deuteronomy 15:12–18; Leviticus 25:39–46; Jeremiah 34:8–17 — the release law retold, reconceived,
   and broken: [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
 - Deuteronomy 27:5–7; Joshua 8:30–31 — the altar of uncut stones commanded for Mount Ebal and built

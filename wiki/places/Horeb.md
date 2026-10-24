@@ -138,7 +138,16 @@ The location is expressly Mount Sinai when God finishes speaking and gives Moses
 The makers' commission and Sabbath sign belong to this final portion of the mountain instructions.
 The tent described in them has not yet been built. See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+The mountain and the camp below become the two settings of covenant rupture: Moses pleads above,
+descends with the tablets, and breaks them below; the next day he returns to seek atonement
+(32:7–35). The chapter calls it the mountain without repeating Sinai or Horeb. The calf is
+destroyed here, not at Shechem or Bethel. See [[The Golden Calf]].
+
 ## Appears in
+
+- [[The Golden Calf]] — Mountain, descent, broken tablets, camp judgment, and renewed ascent (32:7–35).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; Sinai named as the place where the
   tablets are delivered.

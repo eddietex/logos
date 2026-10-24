@@ -89,6 +89,8 @@ in the middle of the camp.**
 
 ## Cross-references
 
+- [[The Golden Calf]] — Gold requested for the sanctuary in Exodus 25:3 is also collected for the calf in 32:2–4. The contrast concerns its use; the text does not identify each object’s earlier owner.
+
 - Exodus 24:16–18 — the glory *"settled"* (*šākan*) on Sinai, and Moses in the cloud:
   [[The Blood of the Covenant]].
 - Exodus 15:17 — *"the sanctuary, Lord, which your hands have established"*, the first *miqdāš* in

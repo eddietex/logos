@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:2–4.
+
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:15; appearance before God with an offering.
 
 - **Genesis 15:14** — *"I will also judge that nation, whom they will serve. Afterward they will come
@@ -68,7 +70,7 @@ from those whose heart makes them willing. **Exodus 25 does not say that these a
 wiki reads the sequence that way because nothing else in the book explains where a people just out of
 slavery got them, and because the offering of 35:22 is *"brooches, earrings, signet rings, and armlets,
 all jewels of gold"* — the kind of goods asked of the Egyptians. See [[The Offering for the Sanctuary]].
-The calf and the offering itself are recorded for when those pericopes are reached.
+The calf is now ingested in [[The Golden Calf]]; the enacted sanctuary offering remains ahead.
 
 **The festival law reverses the direction of giving.** Exodus 3:21 promises that Israel will leave
 Egypt supplied; Exodus 23:15 requires that worshippers not appear before God empty. The latter
@@ -76,6 +78,13 @@ belongs to the remembered departure in Abib and the calendar of offerings. This 
 comparison of the raw WEB, not a claim that the festival verse is a further fulfillment of the
 plunder prediction or that its offering is specifically Egyptian silver. See
 [[Justice, Sabbaths, and Feasts]].
+
+### Exodus 32 now ingested
+
+The first of the two later uses of gold is now ingested in [[The Golden Calf]]. Aaron collects
+earrings from the people and makes the image (32:2–4). Reading this as misuse of wealth obtained
+in Egypt remains an inference from the surrounding story: this scene does not identify the donors
+of each piece. The sanctuary’s gold offering is still to be enacted in chapter 35.
 
 ## Significance
 

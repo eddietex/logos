@@ -119,7 +119,16 @@ ends when construction ends; Exodus says neither. See
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+Aaron receives gold and fashions the calf with a tool (32:4); the tablets and their writing are
+explicitly God’s work (32:16). Alongside the commissioned craft of chapter 31, the contrast
+concerns what work serves and who authorizes it. Aaron’s claim that the calf simply appeared
+suppresses the workmanship the narrator reports. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Aaron receives gold and fashions the calf with a tool (32:4); the tablets and their writing are explicitly God’s work (32:16).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; spirit-given craft and sabbath
   limits.

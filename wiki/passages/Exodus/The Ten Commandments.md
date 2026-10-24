@@ -113,6 +113,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Golden Calf]] — Exodus 32:4–8 narrates the forbidden image and worship shortly after the people heard the commands.
+
 - Exodus 23:1–12 — [[Justice, Sabbaths, and Feasts]] develops truthful testimony and shared Sabbath rest.
 
 - Genesis 2:2–3; Exodus 16:22–30 — [[The Creation of the World]] and [[Manna and Quail]]; see

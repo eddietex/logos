@@ -378,6 +378,15 @@ rest is described as refreshment, a wording retained alongside Isaiah 40:28's de
 weariness. When the speaking ends, Moses receives the two stone tablets written with God's finger
 (31:18). The work is assigned; nothing has yet been built.
 
+### The golden calf — Exodus 32
+
+[[The Golden Calf]] breaks the movement from sanctuary instructions to construction. Aaron makes
+an image and announces a feast to Yahweh; Moses appeals to the patriarchal oath, and God relents
+from total destruction (32:1–14). The divine tablets are broken, the calf destroyed, and about
+three thousand die at the Levites’ hands (32:15–29). A second plea seeks atonement; God orders
+onward travel with an angel, retains accountability for sin, and strikes the people (32:30–35).
+The chapter leaves pardon and the terms of continued presence unsettled.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -456,7 +465,7 @@ for unit.
 
 ### The calf and the covenant renewed (32–34)
 
-- [ ] The Golden Calf — Exodus 32:1–35
+- [x] [[The Golden Calf]] — Exodus 32:1–35
 - [ ] Show Me Your Glory — Exodus 33:1–23
 - [ ] The Covenant Renewed — Exodus 34:1–28
 - [ ] The Shining Face of Moses — Exodus 34:29–35
@@ -473,6 +482,9 @@ for unit.
 - [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38
 
 ## Key themes
+
+- [[Divine Grief and Relenting]]
+- [[Brotherhood]]
 
 - [[Festivals and First Fruits]]
 

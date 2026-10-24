@@ -171,7 +171,16 @@ I will fulfill the number of your days"* (23:25–26). It is promised to obedien
 alternative of serving the peoples' gods (23:24, 33). Job 21:10 later sees these blessings enjoyed by
 the wicked; see [[Why Do the Wicked Live]] and [[The Angel Sent Ahead]].
 
+### The golden calf — Exodus 32
+
+Moses connects the Levites’ consecration, even against son and brother, with blessing that day
+(32:29). This is not a blanket approval of violent anger: Genesis 49:5–7 curses Levi’s anger at
+Shechem. The texts give different evaluations of distinct events, and the moral tension must stay
+visible. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses connects the Levites’ consecration, even against son and brother, with blessing that day (32:29).
 
 - [[The Creation of the World]]
 - [[The Fall]] — where the counter-word first appears

@@ -76,7 +76,16 @@ rebellion. After the calf, Moses asks God himself to *"pardon our iniquity"* wit
 *sālaḥ* (34:9; MAM; *not yet ingested*). The wiki records the difference in wording and draws no
 further conclusion from it. See [[The Angel Sent Ahead]].
 
+### The golden calf — Exodus 32
+
+Moses explicitly asks God to forgive the people after confessing their great sin (32:31–32). The
+answer assigns erasure to the sinner and orders continued travel with punishment still pending
+(32:33–34). The relenting of 32:14 is real, but it is not an explicit declaration that every
+offense has been pardoned. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses explicitly asks God to forgive the people after confessing their great sin (32:31–32).
 
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:15–21; **the first request for forgiveness between
   human beings in Scripture, and the granting of it**

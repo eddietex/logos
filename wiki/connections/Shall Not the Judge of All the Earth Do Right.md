@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:9–14, 30–34.
+
 - **Genesis 18:23–25** — *"Will you consume the righteous with the wicked? … Be it far from you to
   do things like that, to kill the righteous with the wicked, so that the righteous should be like
   the wicked. May that be far from you. Shouldn't the Judge of all the earth do right?"* See
@@ -112,8 +114,8 @@ priest and not a king, but someone God has spoken to.
 - **Moses** does it twice at scale, and Exodus 32:14 is the Torah's most direct statement that God
   *"repented of the evil"* — the verb *nāḥam*, which Genesis 6:6 used of the flood. Moses argues
   from reputation (*"why should the Egyptians speak?"*), from the promise to the patriarchs, and
-  finally from his own standing: *"blot me, I pray you, out of your book"* (32:32). He offers to be
-  the ten.
+  later asks for his own erasure if pardon is refused (32:32). This is a different appeal from
+  Abraham’s proposed sparing of the city for ten righteous inhabitants.
 - **Amos** does it as a prophet's ordinary work, and the two visions he stops are followed by two he
   cannot.
 - **Job** does it from the other side, as the innocent party rather than the advocate, and gets no
@@ -151,6 +153,14 @@ And the outcome is not the one negotiated. The city is destroyed — so there we
 intercession is answered, but by the deliverance of the righteous man out of the city rather than by
 the sparing of the city for his sake.** Which is to say: the flood's arrangement, not Abraham's. See
 [[Noah and the Flood]] and [[Sodom]].
+
+### Exodus 32 now ingested
+
+In [[The Golden Calf]], Moses does not argue that Israel is innocent. He invokes deliverance,
+God’s reputation before Egypt, and the patriarchal oath. His later request to be blotted out if
+pardon is refused meets an answer assigning erasure to the sinner (32:32–33). Unlike Abraham’s
+appeal for a city on account of its righteous inhabitants, the immediate ground is God’s prior
+commitment to a guilty people.
 
 ## Significance
 

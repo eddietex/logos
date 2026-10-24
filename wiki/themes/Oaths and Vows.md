@@ -99,7 +99,15 @@ restitution follows. **The oath stands in for the missing witness**, invoking th
 third commandment protects (20:7).
 See [[Laws of Property and Restitution]].
 
+### The golden calf — Exodus 32
+
+The oath sworn by God’s own self is Moses’ ground of appeal (32:13). The promise of offspring and
+land is invoked against the threatened annihilation, not as a reward for the present generation’s
+conduct. See [[I Have Sworn by Myself - The Oath at Moriah]]. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The oath sworn by God’s own self is Moses’ ground of appeal (32:13).
 
 - Genesis 14:22–23 — the first human oath, [[The Rescue of Lot and Melchizedek]]
 - Genesis 15:9–18 — the first divine oath, enacted rather than spoken,

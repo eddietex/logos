@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:30–34.
+
 - **Genesis 6:7; 7:4, 23** — *"I will destroy man"*; *"I will destroy every living thing"*; *"Every living thing was
   destroyed"* — the WEB's *destroy* for Hebrew *māḥâ* — [[The Sons of God and the Corruption of the Earth]] and [[Noah and the Flood]]
 - **Exodus 17:14** — *"Write this for a memorial in a book … that I will utterly blot out the memory of Amalek
   from under the sky"* — [[The Battle with Amalek]]
 - **Exodus 32:32–33** — *"please blot me out of your book which you have written"*; *"Whoever has sinned against
-  me, him will I blot out of my book"* *(not yet ingested)*
+  me, him will I blot out of my book"* — [[The Golden Calf]]
 - **Deuteronomy 9:14** — *"Leave me alone, that I may destroy them, and blot out their name from under the sky"*
   *(not yet ingested)*
 - **Deuteronomy 25:19** — *"you shall blot out the memory of Amalek from under the sky. You shall not forget"*
@@ -55,7 +57,7 @@ changes the subject from God (*ʾemḥeh*, *I will blot out*) to Israel (*timḥ
 sin—and if not, please blot me out (məḥēnî) of your book (missiprəkā) which you have written (kātābtā)"*. God:
 *"Whoever has sinned against me, him will I blot out (ʾemḥennû) of my book (missiprî)"* (Exodus 32:32–33; WLC).
 **What was a human scroll recording a war in Exodus 17 is, fifteen chapters later, a divine book recording
-people.** **Moses offers to be erased in Israel's place; God refuses the exchange.** See
+people.** **Moses asks to be erased if Israel is not forgiven; God assigns erasure to the sinner.** See
 [[Mediation and Advocacy]].
 
 **Deuteronomy uses *blot out their name from under the sky* for Israel itself**: after the calf God says to Moses,
@@ -82,6 +84,17 @@ Greek not checked) continues the image.
 | Deuteronomy 25:19 | Israel (*"you shall"*) | the memory of Amalek | — |
 | Deuteronomy 29:20 | God | the apostate's name | *"this book"*, the curse written in it |
 | Psalm 69:28 | (prayer) | the psalmist's enemies | *"the book of life"* |
+
+### Exodus 32 now ingested
+
+In [[The Golden Calf]], the attempt at atonement is introduced as uncertain (32:30). Moses asks
+for forgiveness and, if it is refused, for his own erasure (32:32). **Qualification of the
+substitution claim above:** the sentence can express solidarity in Israel’s fate as well as an
+offered exchange; it does not specify a mechanism by which his erasure would obtain pardon. God’s
+answer assigns erasure to the sinner (32:33). Romans 9:1–3 offers a thematic comparison: Paul
+expresses willingness to be accursed for his relatives. It is not presented as an explicit
+quotation of Moses. Romans checked in WEB at bible-api.com on 2026-10-24; paraphrase only, no
+Greek claim.
 
 ## Significance
 

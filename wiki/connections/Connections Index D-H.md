@@ -43,7 +43,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] | formula | Job 28:28 · Job 1:1, 8; 2:3 · Job 37:24 · Proverbs 1:7 · Proverbs 9:10 · Proverbs 15:33 · Psalm 111:10 · Ecclesiastes 12:13 · Isaiah 11:2 · Isaiah 33:6 |
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
-| [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] |
+| [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[The Golden Calf]] (Exodus 32:15–19) |
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
@@ -71,6 +71,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Exodus 12:14 · Psalm 105:42 · Luke 1:72–73 |
 | [[God Sent Me Before You - The Verb That Replaces the Sale]] | theological thread | Genesis 37:28, 36 · Genesis 45:4–8 · Genesis 50:19–20 · Psalm 105:17 · Acts 7:9–10 · Acts 2:23 · Romans 8:28 |
 | [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Exodus 16:18, 32 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
+| [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] | parallel | Exodus 32:1–35 · Deuteronomy 9:8–21 · Psalm 106:19–23 · Acts 7:39–43 |
 | [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Hagar and Sarah in Galatians]] | allegory | Genesis 16:1–16 · Genesis 21:1–14 · Isaiah 54:1 · Romans 9:6–9 · Galatians 4:21–31 |

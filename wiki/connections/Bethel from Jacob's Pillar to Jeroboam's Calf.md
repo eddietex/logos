@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:1–6, 20.
+
 - Genesis 12:8; 13:3–4 — Abram's altar on the ridge, at a site the narrator calls Bethel before it is
   named
 - Genesis 28:10–22 — the stairway, the pillar, and the naming
 - Genesis 35:1–15 — sent back; the foreign gods **and the household's earrings** surrendered and
   buried, the altar built and named *El Beth El*, the pillar raised again with a drink offering. The
   earrings are ***nəzāmîm*** — **the word of Exodus 32:2–3**, where the same ornaments are collected
-  and cast into a calf, and the calf ends up in this town. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
+  and cast into a calf at Sinai; a later, different calf is placed at Bethel. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Judges 20:18, 26–28 — the ark at Bethel, and Israel enquiring of God there
 - 1 Samuel 7:16 — Bethel on Samuel's circuit
 - 1 Kings 12:26–33 — Jeroboam's two calves, and the one at Bethel
@@ -57,8 +59,9 @@ their lord"* (12:27). He makes two calves and puts them at the two ends of his k
 north, **Bethel in the south, on the Judah road** — and says *"Behold your gods, Israel, which
 brought you up out of the land of Egypt"* (12:28).
 
-**That sentence is Exodus 32:4, verbatim.** The narrator of Kings is not describing the calves; he is
-quoting the golden calf at Sinai and letting the reader do the rest.
+**The declaration closely echoes Exodus 32:4.** Both attribute the deliverance from Egypt to the
+images; the verified WEB wording is not verbatim identical. The echo invites comparison with
+the golden calf at Sinai.
 
 **And every element of the choice leans on Genesis 28.** The site has a patriarchal appearance
 attached to it, a name that means *house of God*, a stone Jacob himself set up, and a claim — *the
@@ -84,6 +87,15 @@ indicting Israel for deceit and merchant's scales, Hosea rehearses Jacob — the
 wrestling, the weeping — and lands on *"He found him at Bethel, and there he spoke with us."*
 ***Spoke with us***, present tense, plural: **the prophet uses Bethel against the people who own
 Bethel**, by insisting that what God said there was said to them.
+
+### Exodus 32 now ingested
+
+The source episode is now ingested in [[The Golden Calf]]. Aaron’s single calf is destroyed below
+Sinai (32:20). Jeroboam later makes two different calves, setting one at Bethel and one at Dan (1
+Kings 12:28–30). **Correction:** a calf does not travel from Sinai to Bethel, and the Exodus and
+Kings declarations are not verbatim identical in the verified WEB. They share the attribution of
+the exodus to the images. The Kings range was checked at bible-api.com, WEB, on 2026-10-24; no
+assertion of exact Hebrew wording is made.
 
 ## Significance
 

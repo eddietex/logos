@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:11–14, 30–34.
+
 - **Genesis 20:7** — *"For he is a prophet, and he will pray for you, and you will live"* — the first
   occurrence of *nābîʾ* in the Bible, and the first of *hitpallēl*, to pray —
   [[Abraham and Abimelech]]
@@ -23,8 +25,7 @@ tags: [connection]
   his hands to Yahweh"*, knowing Pharaoh does *"not yet fear"* — [[Livestock, Boils, and Hail]]
 - **Exodus 10:16–18** — *"please forgive my sin … and pray to Yahweh your God"*: the fourth and last
   intercession for Pharaoh — [[Locusts and Darkness]]
-- **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh relented from the evil which he
-  said he would do to his people"*
+- **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh repented of the evil which he said he would do to his people."* — [[The Golden Calf]]
 - **Numbers 12:6–8; 14:13–20** — prophecy defined by dream and vision, with Moses as the exception,
   and Moses turning a sentence a second time
 - **1 Samuel 12:19, 23** — *"far be it from me that I should sin against Yahweh in ceasing to pray
@@ -63,7 +64,7 @@ Set the great prophetic scenes beside each other and the intercession is not a s
 |---|---|---|
 | Genesis 20:7, 17 | Abraham | prays for the king he deceived; the household is healed |
 | Exodus 32:11–14 | Moses | argues God out of destroying Israel, on God's own reputation |
-| Exodus 32:30–32 | Moses | offers to be blotted out of the book instead |
+| Exodus 32:30–32 | Moses | asks to be blotted out if forgiveness is refused |
 | Numbers 14:13–20 | Moses | again, after the spies: *"I have pardoned according to your word"* |
 | 1 Samuel 12:23 | Samuel | calls *not* praying for the people a sin against Yahweh |
 | Amos 7:1–6 | Amos | asks twice, and twice *"Yahweh relented"* |
@@ -153,6 +154,14 @@ with a priest who does nothing else.
 5:16–18 argues from Elijah to ordinary prayer for one another, and 1 Timothy 2:1 makes intercession
 *"for all men, for kings and all who are in high places"* the first thing on the list — which is,
 almost exactly, what Abraham is told to do at Genesis 20:7.
+
+### Exodus 32 now ingested
+
+In [[The Golden Calf]], the two appeals must be distinguished. The first obtains relenting from
+the announced destruction; the second asks forgiveness and offers Moses’ own erasure if
+forgiveness is denied. The answer does not accept an exchange of lives and preserves
+accountability for the sinner. The prophet’s advocacy is effective without becoming authority to
+dictate every outcome.
 
 ## Significance
 

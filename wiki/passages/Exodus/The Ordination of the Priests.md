@@ -230,6 +230,8 @@ narrates the performance.
 
 ## Cross-references
 
+- [[The Golden Calf]] — Aaron’s failure and the Levites’ call to consecration in Exodus 32 must be distinguished from the seven-day rite prescribed here.
+
 - Exodus 24:5–8 — [[The Blood of the Covenant]]: young men offer, and Moses sprinkles blood on the
   people; here blood is put on the priests. See
   [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].

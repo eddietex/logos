@@ -1892,6 +1892,15 @@ language for God may relate the two, but the wiki retains both descriptions. See
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+Yahweh proposes consuming Israel and making a nation of Moses, then relents after Moses appeals to
+the exodus and the oath (32:7–14). The narrator’s statement of relenting is retained alongside the
+denials of divine repentance in Numbers 23:19 and 1 Samuel 15:29 (WEB verified at bible-api.com,
+2026-10-24); see [[Divine Grief and Relenting]]. Relenting from total destruction does not remove
+all judgment: God assigns erasure to the sinner, reaffirms angelic guidance with punishment still
+pending, and strikes the people (32:33–35). See [[The Golden Calf]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2135,7 +2144,11 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
 - Exodus 29:1–46 — He prescribes the ordination and says he brought Israel out to dwell among them. See [[The Ordination of the Priests]].
 - Exodus 30:1–38 — Prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+- Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; calls and equips makers, sanctifies
   Israel, and gives the tablets.

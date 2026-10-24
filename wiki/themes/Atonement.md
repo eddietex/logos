@@ -63,7 +63,17 @@ and 30:16 is the one in *yôm hakkippurîm*, *"the day of atonement"*, at Leviti
 WEB). See [[The Incense Altar, the Ransom, and the Holy Oil]] and
 [[The Half Shekel - Census, Ransom, and the Temple Tax]].
 
+### The golden calf — Exodus 32
+
+Moses says that perhaps he will make atonement for the people’s sin (32:30). What follows is
+confession, a request for forgiveness, and the conditional request to be erased (32:31–32); no new
+sacrificial rite is performed. God does not declare that atonement has been achieved and retains
+judgment (32:33–35). The uncertain attempt must not be rewritten as a completed exchange of Moses’
+life for Israel’s. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses says that perhaps he will make atonement for the people’s sin (32:30).
 
 - [[Noah and the Flood]] — Genesis 6:14; the ship sealed *"with pitch"*, *kōper*, in a non-ritual
   sense.

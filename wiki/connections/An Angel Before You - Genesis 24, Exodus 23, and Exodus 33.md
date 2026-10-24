@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Golden Calf]] — Exodus 32:34.
+
 - **Genesis 24:7** — Abraham to his servant: *"He will send his angel before you, and you shall take
   a wife for my son from there"* — [[A Wife for Isaac]]
 - **Exodus 14:19** — *"The angel of God, who went before the camp of Israel, moved and went behind
@@ -15,7 +17,7 @@ tags: [connection]
 - **Exodus 23:20–23** — *"Behold, I send an angel before you … my name is in him … my angel shall go
   before you"* — [[The Angel Sent Ahead]]
 - **Exodus 32:34** — after the calf: *"Behold, my angel shall go before you. Nevertheless in the day
-  when I punish, I will punish them for their sin"* (WEB; *not yet ingested*)
+  when I punish, I will punish them for their sin"* — [[The Golden Calf]]
 - **Exodus 33:2–3** — *"I will send an angel before you … for I will not go up among you, for you
   are a stiff-necked people"* (WEB; *not yet ingested*)
 - **Exodus 33:14–15** — *"My presence will go with you"*; *"If your presence doesn't go with me,
@@ -55,6 +57,13 @@ angel is offered *instead of* God going up. Readers take this either as a demoti
 as two different messengers. The text says neither, and the wiki does not decide. Exodus 32:34 sits
 between them and adds a delayed punishment to the promise. See [[The Angel of Yahweh]].
 
+### Exodus 32 now ingested
+
+Exodus 32:34 now belongs to [[The Golden Calf]]. The promise of guidance survives the calf, but it
+is immediately joined to reserved punishment. The verse supplies neither a declaration of full
+pardon nor an explicit identification of the angel. The negotiation of presence in chapters 33–34
+remains ahead.
+
 ## Significance
 
 - **The angel thread becomes the presence thread.** The question at the center of Exodus 32–34 is
@@ -65,4 +74,4 @@ between them and adds a delayed punishment to the promise. See [[The Angel of Ya
   becomes, in Exodus, a promise the whole book has to argue over.
 - **The point is not settled here.** The fuller treatment belongs to the ingest of Exodus 32–34.
   The verses from those chapters are quoted from `raw/bible/Exodus.md` and their Hebrew checked in
-  MAM, but their passage pages do not exist yet.
+  MAM; chapter 32 now has a passage page, while chapters 33–34 remain ahead.

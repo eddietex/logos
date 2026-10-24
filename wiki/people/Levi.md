@@ -61,13 +61,13 @@ on *"the heads of the fathers' houses of the Levites"* (6:25). **The son cursed 
 Genesis 49:7 is the one whose genealogy the Torah keeps in most detail.** See [[The Heads of the Fathers' Houses]] and
 [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]].
 
-### What is still ahead
+### The tribe after the patriarch
 
-This page grows as the remaining pericopes arrive; what follows is the shape of them.
+Exodus 32 is now ingested; the later land arrangements remain forward references.
 
 **And then the scattering is converted.** At Sinai, when Moses asks *"Whoever is on Yahweh's side, come
-to me"*, it is *"all the sons of Levi"* who gather, and the tribe is ordained on the strength of it
-(Exodus 32:26–29). Levi receives **no territorial inheritance** — the curse of dispersal kept, its
+to me"*, it is *"all the sons of Levi"* who gather, and Moses calls the responding Levites to consecrate themselves
+(Exodus 32:26–29; [[The Golden Calf]]). Levi receives **no territorial inheritance** — the curse of dispersal kept, its
 meaning reversed — because *"Yahweh is their inheritance"* (Deuteronomy 18:2), and lives in
 forty-eight towns scattered through the other tribes (Numbers 35:1–8). Moses' blessing gives Levi the
 Urim and Thummim, the teaching of the law, and the altar, and grounds it in the same episode:
@@ -77,6 +77,16 @@ Moses are both his great-grandsons** (Exodus 6:16–20), and so is Miriam.
 **The wiki flags the shape without smoothing it.** Genesis curses the anger of the man; the Torah gives
 his descendants the sanctuary; and **no text in the Bible explains the change**, though Exodus 32 puts
 the same willingness to use a sword to a different use.
+
+### The golden calf — Exodus 32
+
+The patriarch is long dead; this is the action of his descendants. All the sons of Levi answer
+Moses’ summons and kill about three thousand men at his command, which he attributes to Yahweh. He
+calls for consecration against son and brother with blessing in view (32:26–29). Genesis 49:5–7
+condemns Levi’s violent anger; Exodus associates this later violence with consecration. Both
+evaluations remain in view. **Qualification of earlier “ordination” language on this page:** this
+is not the performance of Aaron’s seven-day ordination rite, and Exodus 32 does not enumerate
+tribal priestly offices or explain the later land settlement. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]. See [[The Golden Calf]].
 
 ## Timeline / key events
 
@@ -91,14 +101,18 @@ the same willingness to use a sword to a different use.
   [[Jacob's Family Settles in Egypt]]
 - Cursed with Simeon at Jacob's deathbed; *"I will divide them in Jacob"* — Genesis 49:5–7,
   [[Jacob Blesses His Sons]]
-- Exodus 32:26–29 — the tribe ordained at Sinai; Numbers 18; Deuteronomy 33:8–11 — the priesthood and
+- Exodus 32:26–29 — the tribe called to consecrate itself at Sinai; Numbers 18; Deuteronomy 33:8–11 — the priesthood and
   the teaching office
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - His three sons listed *"according to their generations"*; 137 years — Exodus 6:16–25,
   [[The Heads of the Fathers' Houses]]
 
+- Exodus 32 — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29). [[The Golden Calf]]
+
 ## Appears in
+
+- [[The Golden Calf]] — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29).
 
 - [[The Birth of Jacob's Children]] — Genesis 29:34; the third son, named for an attachment his mother
   never gets. **The one naming in the passage with no stated agent**, and the manuscript traditions
@@ -144,7 +158,7 @@ the same willingness to use a sword to a different use.
   **He is not present, not addressed alone, and given no reply.** **The sentence is dispersal, and it
   is carried out exactly** — forty-eight towns through every other tribe, and no land of his own
   (Joshua 21) — **while its meaning is turned inside out.** **The tribe that is cursed here for using a
-  sword is ordained at Exodus 32:26–29 for using one.** **Genesis says nothing of that**, and the wiki
+  sword is called to consecrate itself at Exodus 32:26–29 after using one.** **Genesis says nothing of that**, and the wiki
   records the reversal as the Torah's, not as this chapter's
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); third; **his is the house the next chapter begins with** — *"A man of the house of Levi went and took a daughter of Levi as his wife"* (2:1). Dead, with *"all that

@@ -111,7 +111,16 @@ incense with *"the prayers of the saints"* (all verified WEB). See
 [[The Incense Altar, the Ransom, and the Holy Oil]] and
 [[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]].
 
+### The golden calf — Exodus 32
+
+Moses first argues from God’s deliverance, reputation among the Egyptians, and oath to the fathers
+(32:11–13). Yahweh relents before the people are shown repenting (32:14). The later plea confesses
+sin and seeks forgiveness, but receives a warning of continuing liability (32:30–34). These two
+prayers have distinguishable outcomes. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Moses first argues from God’s deliverance, reputation among the Egyptians, and oath to the fathers (32:11–13).
 
 - [[A Wife for Isaac]] — Genesis 24:12–14, 26–27, 45, 52; the theme's founding text. The first
   unbidden petition, offered by an unnamed slave for his master's benefit, answered mid-sentence, and

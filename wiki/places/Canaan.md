@@ -94,7 +94,15 @@ Philistines and from the wilderness to the River (23:31). The danger named is no
 strength but their gods (23:24, 33). See [[The Angel Sent Ahead]] and
 [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
 
+### The golden calf — Exodus 32
+
+The land promised to the patriarchs is part of Moses’ appeal to preserve Israel (32:13). God later
+orders him to lead the people to the previously spoken-of place (32:34). Canaan is the contextual
+destination; the chapter does not name it or narrate arrival. See [[The Golden Calf]].
+
 ## Appears in
+
+- [[The Golden Calf]] — The unnamed promised land recalled in intercession and renewed guidance (32:13, 34).
 
 - [[The Table of Nations]] — Genesis 10:15–19: eleven peoples and the only border in the chapter
 - [[Noah's Sons and the Curse of Canaan]] — as the name of the man the land is named for, and the

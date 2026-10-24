@@ -236,7 +236,17 @@ sanction for breach; unlike the rainbow of Genesis 9:12–17, it is an obligator
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+The people who pledged obedience at 24:3–8 quickly violate the commands, and Moses breaks the
+divine tablets (32:8, 19). His appeal rests on the older oath to the patriarchs (32:13), so the
+breach of commanded obedience and the preserving force of sworn promise coexist. The broken
+tablets suggest covenant rupture; Exodus 32 does not itself offer a legal explanation of the
+gesture. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; The people who pledged obedience at 24:3–8 quickly violate the commands, and Moses breaks the divine tablets (32:8, 19).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; sabbath as a perpetual covenant.
 

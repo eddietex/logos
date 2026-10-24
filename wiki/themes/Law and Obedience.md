@@ -172,7 +172,16 @@ transcribe their contents or report Israel's compliance.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The golden calf — Exodus 32
+
+Exodus 32:8 calls the calf a quick departure from the commanded way. Israel has both heard the
+commands and pledged obedience (20:3–5; 24:3–8). Moses breaks the tablets God wrote (32:15–19), so
+the narrative makes the material signs of the covenant share the crisis without declaring the
+commands themselves revoked. See [[The Golden Calf]].
+
 ## Key passages
+
+- [[The Golden Calf]] — Exodus 32:1–35; Exodus 32:8 calls the calf a quick departure from the commanded way.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; commanded work, commanded rest,
   written testimony.

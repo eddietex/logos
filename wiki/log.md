@@ -14364,3 +14364,66 @@ pages remain the expected baseline. An initial mistitled link to the Genesis 17 
 to [[Circumcision, the Sign of the Covenant]] before the clean run. `git diff --check` is clean.
 No raw source, schema, skill, harness, or controller file was changed. Interpretive uncertainties
 are recorded on the affected pages; no operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 32.1-35 — The Golden Calf
+
+Ingested [[The Golden Calf]] in unattended mode, keeping the planned boundary. Exodus advances
+to **42 / 53** pericopes. The passage absorbs the discussion: the image and feast proclaimed to
+Yahweh, Moses' two appeals and their different outcomes, the broken tablets, Aaron's conflicting
+account, the Levites' killings and consecration, and the continuing warning and plague. Exactly
+one pericope was ingested; Exodus 33 remains unchecked.
+
+### Decisions and corrections
+
+- No new person, place, or theme page was needed. Levi's descendants are treated on [[Levi]],
+  explicitly distinguished from the dead patriarch. The fathers are recalled, not present;
+  Canaan is the contextual destination, not named in the chapter. The promised angel is grouped
+  on [[The Angel of Yahweh]] without deciding his identity.
+- Created [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] and
+  [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]]. Deuteronomy's prayer
+  for Aaron and account of the brook remain distinct from Exodus's stated details. Paul's
+  neighboring warning about sexual immorality is not used to turn Exodus's play into a stated
+  orgy or its three thousand into twenty-three thousand.
+- Updated nine existing connections and seven earlier passage pages. Moses' conditional request
+  for erasure is distinguished from a completed substitution; Romans 9:1–3 is a thematic
+  comparison, not asserted to quote Moses. Total destruction averted in 32:14 is distinguished
+  from cancellation of the consequences in 32:28, 34–35.
+- Explicitly preserved the tension between divine relenting here and its denial in Numbers 23:19
+  and 1 Samuel 15:29, and between Levi's condemned anger in Genesis 49 and consecration associated
+  with killing here. Qualified earlier descriptions of Exodus 32 as the tribe's ordination:
+  it does not perform the seven-day Aaronic rite already prescribed in Exodus 29.
+- Corrected [[Idolatry]] and [[Bethel from Jacob's Pillar to Jeroboam's Calf]]: Moses destroys the
+  calf below Sinai, not at Shechem; Jeroboam's calves are later, different objects, not the calf
+  transported to Bethel. The Exodus and Kings declarations closely correspond but are not
+  verbatim identical in the verified WEB. Aaron's excuse remains explicitly contradicted by
+  the narrator's description of his craftsmanship.
+- Kept the uncertainty about God's book, the angel's identity, the mechanism of Moses' offer,
+  and the unstated scale of the final plague on the relevant pages. No inference of a named
+  Egyptian deity or of individual trials for those killed was added.
+
+### Sources and verification
+
+The eight key-verse quotations were copied mechanically from `raw/bible/Exodus.md` and checked
+for exact equality. All new Exodus quotations use the stored WEB. Later comparisons were
+verified against bible-api.com with `translation=web` on 2026-10-24: Deuteronomy 9:8–21;
+Psalm 106:19–23; Acts 7:39–43; 1 Kings 12:28–30; 1 Corinthians 10:6–8; Romans 9:1–3;
+Numbers 23:19; 1 Samuel 15:29. The web reader could not open the API URLs; direct HTTPS requests
+to the same source succeeded and identified the translation as World English Bible. No later
+book was fetched into raw, and no new Greek or Hebrew wording claim was made.
+
+### Pages created or revised
+
+- **Created (3):** one passage and two connections.
+- **Existing content pages revised (52):** Exodus; seven earlier passages; nine people; three
+  places; twenty-three themes; nine connections.
+- **Bookkeeping revised (12):** top-level and book indexes; people subindexes A–E and F–M;
+  places and themes indexes; all five connection subindexes; this log. Added required index
+  frontmatter to the four edited dashboards that lacked it; no schema change was needed.
+- **Totals by frontmatter type:** 133 passages, 175 people, 90 places, 82 themes, 368 connections;
+  3 books started, 2 complete. Category rows cover every page exactly once; alphabetical
+  subindex order and ranges pass. The new page titles are unique. No index range changed.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. Interpretive uncertainties are
+recorded in the pages; no operational blocker remains.
