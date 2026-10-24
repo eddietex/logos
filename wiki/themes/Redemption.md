@@ -76,6 +76,15 @@ the required refuge residence. These WEB comparisons were verified at `bible-api
 [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 See [[Laws of Violence and Injury]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+At every census each man counted gives *kōper napšô*, *"a ransom for his soul"* (30:12, MAM), half a
+shekel by the sanctuary standard. The same amount is required of rich and poor (30:15). The money is
+called *"atonement money"* and is given to *"the service of the Tent of Meeting"* (30:16), where
+Exodus 38:25–28 (local WEB) uses it for the tabernacle's silver sockets. See
+[[The Incense Altar, the Ransom, and the Holy Oil]] and
+[[The Half Shekel - Census, Ransom, and the Temple Tax]].
+
 ## Key passages
 - Genesis 47:19–23 — Egypt's people *bought* for Pharaoh — [[Joseph and the Famine]]
 - Genesis 48:16 — *"the angel who has redeemed me"* — [[Jacob Blesses Ephraim and Manasseh]]
@@ -91,6 +100,7 @@ See [[Laws of Violence and Injury]].
   redemption
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:11–16; the half-shekel *"ransom for his soul"* at the census.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed
@@ -98,6 +108,7 @@ See [[Laws of Violence and Injury]].
 - [[Sacrifice and Offering]] — the lamb given for the donkey, the animal given for the son
 - [[Covenant]] — *"I will take you to me for a people"*
 - [[Praise and Song]] — the first song celebrates it
+- [[Atonement]]
 
 ## Related people
 - [[God]] — the redeemer of Israel

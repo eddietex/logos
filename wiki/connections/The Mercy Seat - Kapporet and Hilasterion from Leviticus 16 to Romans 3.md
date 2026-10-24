@@ -26,6 +26,10 @@ tags: [connection]
 2026-10-23.)
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:31–34; the enclosure, separation, or placement developed here.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:6, 10, 36; the incense altar set *"before the mercy seat … where I will
+  meet with you"*, and atonement made on its horns *"once in the year"* with *"the blood of the sin
+  offering of atonement"* (*ḥaṭṭaʾt hakkippurîm*, MAM). Leviticus 16:12–13 (verified WEB) brings the
+  incense within the veil so that its cloud *"may cover the mercy seat"*. See [[Atonement]].
 
 ## Analysis
 

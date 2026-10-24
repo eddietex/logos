@@ -357,6 +357,17 @@ it is *"most holy"* (29:37). The chapter ends with the daily lamb at the tent's 
 plainest statement of purpose: God brought Israel out of Egypt *"that I might dwell among them"*
 (29:46). The rite is performed in Leviticus 8.
 
+### The incense altar, the ransom, and the holy oil — Exodus 30
+
+[[The Incense Altar, the Ransom, and the Holy Oil]] completes the furniture with a small gold altar
+for incense *"before the veil … where I will meet with you"* (30:6), on which Aaron burns *"a
+perpetual incense"* morning and evening and makes atonement once a year (30:7–10). Every man counted
+in a census pays half a shekel as *"a ransom for his soul"*, the same for rich and poor, and the
+*"atonement money"* goes to the tent's service (30:11–16). A brass basin is added for the priests'
+washing, *"that they not die"* (30:17–21). The holy anointing oil and the incense are given exact
+recipes and reserved to God on pain of being *"cut off"* (30:22–38). The chapter uses the root of
+*atonement* more densely than any before it.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -430,7 +441,7 @@ for unit.
 - [x] [[The Altar and the Court]] — Exodus 27:1–21
 - [x] [[The Priestly Garments]] — Exodus 28:1–43
 - [x] [[The Ordination of the Priests]] — Exodus 29:1–46
-- [ ] The Incense Altar, the Ransom, and the Holy Oil — Exodus 30:1–38
+- [x] [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38
 - [ ] Bezalel, Oholiab, and the Sabbath Sign — Exodus 31:1–18
 
 ### The calf and the covenant renewed (32–34)
@@ -468,6 +479,7 @@ for unit.
 - [[Adoption]]
 - [[Compassion and Mercy]]
 - [[Remembrance]]
+- [[Atonement]]
 - [[Land and Sojourning]]
 - [[Holiness]]
 - [[Signs and Wonders]]

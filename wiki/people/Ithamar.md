@@ -41,6 +41,10 @@ ear, thumb, and big toe, and in the meal of the ram of consecration (29:10, 20, 
 thigh of later peace offerings are assigned to Aaron and his sons *"forever"* (29:28). Only Aaron's
 head receives the poured oil (29:7). See [[The Ordination of the Priests]].
 
+Exodus 30 includes Ithamar among Aaron's *"sons"* — not by name — who wash hands and feet at the
+basin before entering the tent or approaching the altar, *"that they not die"* (30:19–21), and who
+are anointed with the holy oil (30:30). See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the last of four sons — Exodus 6:23,
@@ -50,6 +54,7 @@ head receives the poured oil (29:7). See [[The Ordination of the Priests]].
 - Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
 - Exodus 28:1–43 — Named individually for the priest's office; sons' garments prescribed. See [[The Priestly Garments]].
 - Exodus 29:1–46 — Included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil. See [[The Ordination of the Priests]].
+- Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
 
@@ -58,6 +63,7 @@ head receives the poured oil (29:7). See [[The Ordination of the Priests]].
 - [[The Altar and the Court]] — Exodus 27:1–21; Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21).
 - [[The Priestly Garments]] — Exodus 28:1–43; named individually for the priest's office; sons' garments prescribed.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:19–21, 30; included among Aaron's sons who wash at the basin and are anointed.
 
 ## Related people
 

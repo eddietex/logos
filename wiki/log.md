@@ -14238,3 +14238,67 @@ exodus's stated purpose.
 `scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
 pages remain the expected baseline. No raw source, schema, skill, harness, or controller file was
 changed.
+
+## [2026-10-23] ingest | Exodus 30.1-38 — The Incense Altar, the Ransom, and the Holy Oil
+
+Ingested [[The Incense Altar, the Ransom, and the Holy Oil]] in unattended mode with the planned
+boundary unchanged. Exodus advances to **40 / 53** pericopes. No second pericope was ingested;
+Bezalel, Oholiab, and the Sabbath sign (31:1–18) are next. The passage page holds the discussion:
+the five speeches (the one begun at 25:1 ends at 30:10), why the incense altar appears only here,
+its location against Hebrews 9:4, the *tāmîd* incense beside the *tāmîd* lamb, strange incense,
+the yearly atonement on its horns, the census ransom and the equal half shekel, *ʿăbōdâ* at 30:16,
+the repeated washing, and the anointing oil and *māšîaḥ*.
+
+### Decisions and sources
+
+- **Created the theme [[Atonement]].** The root *kpr* now recurs in Genesis 6:14 and 32:20, Exodus
+  21:30, 25:17, 29:33–37, and six times in Exodus 30. [[Redemption]] and
+  [[Sacrifice and Offering]] did not hold it well, and Leviticus will multiply it. The page back-fills
+  those earlier passages with Hebrew read in MAM, and [[The Ordination of the Priests]] now lists it.
+- **Noted, not resolved:** Exodus 30:6 and 40:26 put the incense altar before the veil, while
+  Hebrews 9:3–4 (verified WEB) lists *"a golden altar of incense"* with the Holy of Holies. Two
+  common resolutions are reported. The Greek of Hebrews 9:4 was not checked, and the page says so.
+  Whether the altar of Leviticus 16:18 is the incense altar is also left open.
+- The link between Exodus 30:12 and the plague after David's census (2 Samuel 24) and the
+  identification of Matthew 17's didrachma with the half shekel are labelled as interpretations.
+  Explanations of the incense altar's placement are labelled as interpretations or critical theories.
+- No new person or place page was needed. Aaron's sons are not named in this chapter. Nadab,
+  Abihu, and Eleazar receive forward notes to Leviticus 10 and Numbers 16. Uzziah and Zechariah
+  (Luke 1) appear only in a connection and get no page until their books are ingested.
+- Created three connections:
+  [[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]],
+  [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]], and
+  [[The Half Shekel - Census, Ransom, and the Temple Tax]].
+- Updated six connections:
+  [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]],
+  [[Lift Up Your Head - One Idiom and Two Verdicts]],
+  [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]],
+  [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]],
+  [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]], and [[A Pleasing Aroma]].
+- All thirty-eight WEB verses were copied mechanically from `raw/bible/Exodus.md`. Local
+  comparisons: Exodus 1:14; 21:30; 24:9–10; 25:1–2, 22; 26:35; 28:12, 35, 43; 29:4, 7, 37, 42; 31:1,
+  12; 37:25–29; 38:8, 25–28; 40:9–15, 26–27, 30–32; Genesis 6:14; 17:14; 32:20. Psalm 133:2; 141:2;
+  Malachi 1:11; Luke 1:8–11; Revelation 5:8; 8:3–5; Hebrews 9:2–4; Leviticus 4:3; 8:10–12; 10:1–2;
+  16:12–13, 18–19; 23:27–28; Numbers 1:2–3; 3:2–3; 16:35–40; 2 Chronicles 26:16–19; 2 Samuel 24:1–2,
+  10, 15; and Matthew 17:24–27 were fetched individually from bible-api.com with `translation=web` on
+  2026-10-23. None is ingested, and no later book was fetched into raw. Hebrew for Exodus 30:1–38;
+  1:14; 21:30; 25:17; 29:33, 36; 38:25–26; Genesis 6:14; 32:21; Leviticus 4:3; 10:1; 23:27 was read in
+  *Miqra according to the Masorah* through the Sefaria API on 2026-10-23.
+
+### Pages created or revised
+
+- **Created (5):** the passage, the theme [[Atonement]], and three connections.
+- **Existing content pages revised (27):** Exodus; seven people (God, Moses, Aaron, and his four
+  sons); Horeb; eleven themes ([[Priesthood]], [[Sacrifice and Offering]], [[Holiness]], [[Prayer]],
+  [[Redemption]], [[Clean and Unclean]], [[Life and Death]], [[The Dwelling of God]],
+  [[Remembrance]], [[The Poor and the Vulnerable]], [[Blood]]); six connections; and
+  [[The Ordination of the Priests]].
+- **Bookkeeping revised (11):** book and top-level indexes; people subindexes A–E, F–M, and N–Z;
+  places; themes; connection subindexes D–H, I–N, and O–S; and this log.
+- **Totals by frontmatter type:** 131 passages, 170 people, 90 places, 82 themes, 364 connections;
+  3 books started, 2 complete. Connection subindexes now hold 63, 79, 70, 64, and 88 rows; no range
+  change is needed.
+
+`scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
+pages remain the expected baseline. No raw source, schema, skill, harness, or controller file was
+changed.

@@ -155,6 +155,13 @@ reading is that once a thief can be seen and made to pay, killing him is no long
 law continues 21:12–14's attention to circumstances in judging a killing.
 See [[Laws of Property and Restitution]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+Death surrounds the holy things in Exodus 30. The census ransom is paid *"that there be no plague
+among them"* (30:12). The priests wash *"that they not die"*, said twice (30:20–21). Whoever copies
+the oil or the incense *"shall be cut off from his people"* (30:33, 38), the penalty Genesis 17:14
+set for the uncircumcised. See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
@@ -458,6 +465,7 @@ See [[Laws of Property and Restitution]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; the thief killed at night and after sunrise
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:12, 20–21, 33, 38; no plague at the census, washing that they not die, and being cut off.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

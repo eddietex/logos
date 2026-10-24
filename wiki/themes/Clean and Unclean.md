@@ -117,6 +117,13 @@ The priests are washed with water at the tent's door before they are clothed (29
 is *cleansed* for seven days with a daily sin offering (29:36–37), though the chapter never calls it
 unclean or gives a cause. See [[The Ordination of the Priests]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+A brass basin stands between the tent and the altar. Aaron and his sons wash hands and feet there
+before entering the tent or approaching the altar to serve, *"that they not die"* (30:19–21). The
+ordination washing of 29:4 was once; this washing is repeated at every approach, *"a statute
+forever"* (30:21). See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the goat and its mother’s milk.
@@ -172,6 +179,7 @@ unclean or gives a cause. See [[The Ordination of the Priests]].
 - [[Israel at Mount Sinai]] — Exodus 19:10–15, 22; garments washed and people and priests prepared
 - [[Laws of Holiness and Compassion]] — Exodus 22:31; torn meat refused for holiness' sake
 - [[The Ordination of the Priests]] — Exodus 29:4, 36–37; the priests washed, and the altar cleansed for seven days.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:17–21; hands and feet washed at the basin before every approach.
 
 ## Related themes
 

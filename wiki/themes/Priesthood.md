@@ -104,6 +104,17 @@ pass to his sons (29:29–30), and it begins with a sin offering for the priests
 first standing duty is the daily lamb, morning and evening (29:38–42). Leviticus 8 narrates the
 performance. See [[The Ordination of the Priests]] and [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+Exodus 30 adds the priests' inner duties. Aaron burns incense on the gold altar every morning and
+evening, *"a perpetual incense before Yahweh"* (30:7–8), and makes atonement on its horns once a
+year (30:10). Aaron and his sons wash hands and feet at the basin before entering the tent or
+approaching the altar, *"that they not die"* (30:19–21). The holy oil anoints them (30:30), and its
+recipe and the incense's are reserved: no one may copy them or put the oil *"on a stranger"*
+(30:32–38). Who may burn incense becomes a recurring test of the office later in Scripture. See
+[[The Incense Altar, the Ransom, and the Holy Oil]] and
+[[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]].
+
 ## Key passages
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
@@ -169,6 +180,7 @@ performance. See [[The Ordination of the Priests]] and [[Ordination Commanded an
 - [[The Altar and the Court]] — Exodus 27:1–21; Aaron and his sons receive a lamp duty before their appointment and ordination instructions.
 - [[The Priestly Garments]] — Exodus 28:1–43; Aaron and his four sons named for the priest's office; the high priest bears names, judgment, and iniquity.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; the ordination rite, the priests' portions, succession in the garments, and the daily lamb.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:7–10, 19–21, 30; incense morning and evening, yearly atonement on the incense altar, washing, anointing.
 
 ## Related themes
 

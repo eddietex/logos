@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Cupbearer and the Baker]] — Genesis 40:13, 19, 20: the same three words used for reinstatement,
   for execution, and for a head-count, in eight verses
 - Exodus 30:12; Numbers 1:2, 49; 4:2, 22; 26:2 — *nāśāʾ rōʾš* as the census idiom, *take the sum*
+  (Exodus 30:12 is [[The Incense Altar, the Ransom, and the Holy Oil]])
 - 2 Kings 25:27–30 — Evil Merodach *"lifted up the head of Jehoiachin king of Judah out of prison"*: the
   last four verses of the history of Israel and Judah
 - Jeremiah 52:31–34 — the same event, in the same words, closing the book of Jeremiah

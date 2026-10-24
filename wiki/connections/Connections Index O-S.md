@@ -17,7 +17,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] | literary-parallel | Job 33:14, 29 · Job 40:5 · Job 5:19 · Psalm 62:11 · Proverbs 6:16 |
 | [[One Flesh - Genesis 2 and the New Testament on Marriage]] | quotation | Genesis 2:24 · Matthew 19:4–6 · Mark 10:6–8 · 1 Corinthians 6:16 · Ephesians 5:31 |
 | [[One Law for the Native and the Stranger]] | thread | Exodus 12:19 · Exodus 12:48–49 · Leviticus 24:22 · Numbers 9:14 · Numbers 15:15–16, 29 · Genesis 17:12–13, 27 |
-| [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] | parallel | Exodus 29:1–37 · Exodus 40:12–15 · Leviticus 8:1–36 · Leviticus 9:23–24 |
+| [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] | parallel | Exodus 29:1–37 · Exodus 40:12–15 · Leviticus 8:1–36 · Leviticus 9:23–24 · Exodus 30:26–30 · Leviticus 8:10–12 |
 | [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 · Exodus 6:16, 19 |
 | [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 8:25–28 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 · Exodus 12:38 |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
@@ -72,5 +72,6 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · Numbers 3:17–20 · Numbers 26:57–61 · 1 Chronicles 6 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
+| [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]] | thread | Exodus 30:9, 33, 37–38 · Leviticus 10:1–2 · Numbers 16:35–40 · 2 Chronicles 26:16–19 |
 | [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 · Exodus 12:45, 48–49 |
 | [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] | motif | Genesis 41:7, 24 · Exodus 7:12 · Exodus 15:12 · Numbers 16:30–34; 26:10 · Hebrews 11:29 |

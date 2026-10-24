@@ -204,6 +204,13 @@ his succession is provided for in the rite that installs him. Aaron is acted on 
 performs the rite. Leviticus 8 narrates it. See [[The Ordination of the Priests]] and
 [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
 
+Exodus 30 gives Aaron the incense service: he burns *"incense of sweet spices"* on the gold altar
+every morning when he tends the lamps and every evening when he lights them, *"a perpetual incense
+before Yahweh"* (30:7–8), and once a year makes atonement on its horns with the blood of the sin
+offering (30:10). He and his sons wash hands and feet at the basin before every approach, *"that
+they not die"* (30:19–21), and he is anointed with the holy oil (30:30). See
+[[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Timeline / key events
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
@@ -246,6 +253,7 @@ performs the rite. Leviticus 8 narrates it. See [[The Ordination of the Priests]
 - Exodus 27:1–21 — Assigned with his sons to tend the lamp from evening to morning outside the veil. See [[The Altar and the Court]].
 - Exodus 28:1–43 — Named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things. See [[The Priestly Garments]].
 - Exodus 29:1–46 — Ordination commanded: washed, clothed, anointed, and consecrated for seven days. See [[The Ordination of the Priests]].
+- Exodus 30:1–38 — Given the morning and evening incense, the yearly atonement on the incense altar, and the washing at the basin. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
 
@@ -293,6 +301,7 @@ performs the rite. Leviticus 8 narrates it. See [[The Ordination of the Priests]
 - [[The Altar and the Court]] — Exodus 27:1–21; Assigned with his sons to tend the lamp from evening to morning outside the veil.
 - [[The Priestly Garments]] — Exodus 28:1–43; named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; washed, clothed, anointed, and consecrated for seven days; his garments pass to his successor.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; the morning and evening incense, the yearly atonement on the incense altar, the washing, and the anointing.
 
 ## Related people
 

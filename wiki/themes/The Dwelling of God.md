@@ -84,6 +84,13 @@ among them"* (*wəšākantî*; *ləšokənî bətôkām*, MAM). The dwelling is 
 place of meeting (29:42–43). See [[The Ordination of the Priests]] and
 [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+The incense altar stands *"before the veil … before the mercy seat … where I will meet with you"*
+(30:6), and the incense is put *"before the testimony in the Tent of Meeting, where I will meet with
+you"* (30:36). The place of meeting named at the mercy seat (25:22) and the tent door (29:42) is
+named twice more. See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[The Blood of the Covenant]] — Exodus 24:16; ***"Yahweh's glory settled on Mount Sinai"***, *šākan*
@@ -101,6 +108,7 @@ place of meeting (29:42–43). See [[The Ordination of the Priests]] and
 - [[The Altar and the Court]] — Exodus 27:1–21; The dwelling includes an outer court and a continuing service of light.
 - [[The Priestly Garments]] — Exodus 28:1–43; the priest clothed for entering the holy place.
 - [[The Ordination of the Priests]] — Exodus 29:42–46; *"I will dwell among the children of Israel"*, the purpose of the exodus.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:6, 36; *"where I will meet with you"*, twice.
 
 ## Related themes
 

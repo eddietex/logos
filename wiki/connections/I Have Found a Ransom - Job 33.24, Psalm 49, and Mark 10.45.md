@@ -13,7 +13,8 @@ tags: [connection]
   pit"* — [[Elihu Speaks in Anger]]
 - **Exodus 21:30** — *"If a ransom is laid on him, then he shall give for the redemption of his life
   whatever is laid on him"*: the forfeited life bought back, in law
-- **Exodus 30:12** — *"each man shall give a ransom for his soul to Yahweh, when you count them"*
+- **Exodus 30:12** — *"each man shall give a ransom for his soul to Yahweh, when you count them"* —
+  [[The Incense Altar, the Ransom, and the Holy Oil]]; see [[The Half Shekel - Census, Ransom, and the Temple Tax]]
 - **Numbers 35:31** — *"you shall take no ransom for the life of a murderer"*: a prohibition on buying release from liability for murder — see [[Whoever Sheds Man's Blood]]
 - **Psalm 49:7–9, 15** — *"none of them can by any means redeem his brother, nor give God a ransom for
   him. For the redemption of their life is costly, no payment is ever enough"*; *"But God will redeem my

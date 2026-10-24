@@ -24,7 +24,8 @@ tags: [connection]
   sweet-smelling fragrance"*
 - Philippians 4:18 — the Philippians' gift, *"a sweet-smelling fragrance, an acceptable and
   well-pleasing sacrifice to God"*
-- Revelation 5:8; 8:3–4 — incense, *"which are the prayers of the saints"*, going up before God
+- Revelation 5:8; 8:3–4 — incense, *"which are the prayers of the saints"*, going up before God; see
+  [[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]]
 
 ## Analysis
 

@@ -131,6 +131,12 @@ the altar is then mixed with anointing oil and sprinkled on the priests and thei
 The chapter gives no explanation of the three bodily places. See [[The Ordination of the Priests]] and
 [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+Once a year Aaron puts the blood of the sin offering on the horns of the gold incense altar
+(30:10). This is the only blood that touches the altar of incense, on which no animal is offered
+(30:9). See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; sacrificial blood and leaven.
@@ -168,6 +174,7 @@ The chapter gives no explanation of the three bodily places. See [[The Ordinatio
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; *"guilt of bloodshed"* depending on the hour
 - [[The Blood of the Covenant]] — Exodus 24:6–8; *"this is the blood of the covenant"*, on the altar and on the people
 - [[The Ordination of the Priests]] — Exodus 29:12, 16, 20–21; blood on the altar, on ear, thumb, and toe, and sprinkled with oil on the priests.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10; the blood of the sin offering on the incense altar's horns once a year.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

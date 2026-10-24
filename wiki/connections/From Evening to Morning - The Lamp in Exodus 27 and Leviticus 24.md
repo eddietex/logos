@@ -13,7 +13,8 @@ tags: [connection]
   lampstand specified *(verified WEB, not yet ingested)*.
 - **Exodus 25:31–40; 26:35** — the lampstand made and assigned its location —
   [[The Ark, the Table, and the Lampstand]] and [[The Tabernacle Curtains and Frames]].
-- **Exodus 30:7–8** — morning tending and evening lighting alongside incense service
+- **Exodus 30:7–8** — morning tending and evening lighting alongside incense service —
+  [[The Incense Altar, the Ransom, and the Holy Oil]]
   *(local WEB read; not yet ingested)*.
 
 ## Analysis

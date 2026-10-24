@@ -226,6 +226,7 @@ narrates the performance.
 - [[The Dwelling of God]] — *"I will dwell among the children of Israel"* (29:45).
 - [[The Glory of God]] — *"the place shall be sanctified by my glory"* (29:43).
 - [[Covenant]] — *"and will be their God"*, the covenant formula joined to the dwelling.
+- [[Atonement]] — *kuppar* for the priests (29:33) and atonement for the altar (29:36–37).
 
 ## Cross-references
 
@@ -237,7 +238,8 @@ narrates the performance.
 - Exodus 29:18, 25, 41 — [[A Pleasing Aroma]].
 - Exodus 29:45–46 — [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]]
   and [[I Will Take You as My People - The Covenant Formula]].
-- Exodus 30:26–30; 40:9–15 — the anointing of the tent, furniture, and priests commanded again
+- Exodus 30:26–30 — [[The Incense Altar, the Ransom, and the Holy Oil]]: the anointing of the
+  tent, furniture, and priests commanded again, with the recipe of the oil; 40:9–15 repeats it
   (local WEB; not yet ingested).
 - Leviticus 8:1–36; 9:23–24 —
   [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] (verified WEB; not ingested).

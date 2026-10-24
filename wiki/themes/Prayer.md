@@ -104,6 +104,13 @@ and of the poor man without his cloak, *"when he cries to me … I will hear"* (
 *ṣāʿaq* and the noun *ṣəʿāqâ*, the cry God heard at the bush (3:7, 9). **No form or place is
 required: the cry is enough.** See [[Laws of Holiness and Compassion]].
 
+Exodus 30 prescribes incense on a gold altar *"where I will meet with you"*, morning and evening
+(30:6–8). The chapter does not call the incense prayer. Psalm 141:2 compares prayer to incense, Luke
+1:10 places the people's prayer at *"the hour of incense"*, and Revelation 5:8 and 8:3–4 identify
+incense with *"the prayers of the saints"* (all verified WEB). See
+[[The Incense Altar, the Ransom, and the Holy Oil]] and
+[[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]].
+
 ## Key passages
 
 - [[A Wife for Isaac]] — Genesis 24:12–14, 26–27, 45, 52; the theme's founding text. The first
@@ -265,6 +272,7 @@ required: the cry is enough.** See [[Laws of Holiness and Compassion]].
   as prayer; the text says only that the hand held *"God's rod"* (17:9). **The only words addressed toward God in
   the pericope are an altar's name**, *Yahweh our Banner* (17:15)
 - [[Laws of Holiness and Compassion]] — Exodus 22:23, 27; the cry of the widow, orphan, and poor heard
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–10, 34–38; the incense altar, later read as an image of prayer.
 
 ## Related themes
 

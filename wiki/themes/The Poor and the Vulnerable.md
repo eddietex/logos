@@ -70,6 +70,13 @@ required.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+The census ransom is the same for everyone: *"The rich shall not give more, and the poor shall not
+give less, than the half shekel"* (30:15). Where the law of Exodus 22–23 protects the poor from
+exploitation, this law makes their life cost exactly what a rich man's costs before God. See
+[[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ### Later law and the prophets (not yet ingested)
 
 Deuteronomy restates the pledge law and calls its return *"righteousness to you before Yahweh"*
@@ -91,6 +98,7 @@ when the books are ingested.
 - [[The Burning Bush]] — Exodus 3:7, 9; the cry heard and the oppression seen
 - [[Laws of Holiness and Compassion]] — Exodus 22:21–27; the alien, widow, fatherless, and poor
   under God's protection
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:15; rich and poor pay the same ransom.
 
 ## Related themes
 

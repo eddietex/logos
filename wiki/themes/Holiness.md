@@ -112,6 +112,15 @@ God then claims the sanctifying act for himself: *"I will sanctify the Tent of M
 altar: Aaron also and his sons I will sanctify"* (29:44). Holiness here spreads by contact, and
 God is its source. See [[The Ordination of the Priests]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+The phrase *"most holy"* (*qōdeš qodāšîm*, MAM) is used three times in the chapter: of the incense
+altar (30:10), of the anointed tent and furniture (30:29), and of the incense (30:36). The anointed
+things pass holiness on: *"Whatever touches them shall be holy"* (30:29), as with the altar at 29:37.
+The oil and the incense are holy in a second sense. Their recipes belong to God: copied for private
+use, they bring the penalty of being *"cut off from his people"* (30:32–33, 37–38). See
+[[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -149,6 +158,7 @@ God is its source. See [[The Ordination of the Priests]].
 - [[The Altar and the Court]] — Exodus 27:1–21; The court and veil distinguish spaces; the lamp is tended outside the veil.
 - [[The Priestly Garments]] — Exodus 28:1–43; holy garments, the plate *"HOLY TO YAHWEH"*, and death warnings at the holy place.
 - [[The Ordination of the Priests]] — Exodus 29:1, 21, 33–37, 43–44; priests, garments, food, and altar made holy; holiness by touch.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10, 29, 32–38; *"most holy"* three times, holiness by touch, and recipes reserved to God.
 
 ## Related themes
 

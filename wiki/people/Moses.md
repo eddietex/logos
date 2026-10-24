@@ -464,6 +464,12 @@ priest before a priest exists, and the chapter does not name his office. God pro
 the tent's door, *"to speak there to you"* (29:42). See [[The Ordination of the Priests]] and
 [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
 
+Exodus 30 tells Moses to make the incense altar, collect the half-shekel *"atonement money"*, set
+the basin between tent and altar, and compound the anointing oil and the incense himself —
+*"take to yourself"* (30:23, 34). He is to anoint the tent, every piece of furniture, and Aaron and
+his sons (30:26–30). Exodus 40:26–27 and 40:31 (local WEB) later have Moses burn the first incense
+and wash at the basin himself. See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -572,6 +578,7 @@ the tent's door, *"to speak there to you"* (29:42). See [[The Ordination of the 
 - Exodus 27:1–21 — Receives the altar design and must command Israel to supply lamp oil. See [[The Altar and the Court]].
 - Exodus 28:1–43 — Told to bring Aaron and his sons near, and to clothe and anoint them. See [[The Priestly Garments]].
 - Exodus 29:1–46 — Told to ordain the priests himself, and given the breast of the ram as his portion. See [[The Ordination of the Priests]].
+- Exodus 30:1–38 — Told to make the incense altar, collect the census ransom, and compound and apply the anointing oil. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
 
@@ -666,6 +673,7 @@ the tent's door, *"to speak there to you"* (29:42). See [[The Ordination of the 
 - [[The Altar and the Court]] — Exodus 27:1–21; Receives the altar design and must command Israel to supply lamp oil.
 - [[The Priestly Garments]] — Exodus 28:1–43; told to bring Aaron and his sons near, and to clothe and anoint them.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; told to ordain the priests himself, and given the breast of the ram as his portion.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; told to make the incense altar, collect the census ransom, and compound and apply the anointing oil.
 
 ## Related people
 

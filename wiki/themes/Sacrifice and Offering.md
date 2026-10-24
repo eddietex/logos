@@ -162,6 +162,15 @@ the base of Israel's worship. See [[The Ordination of the Priests]],
 [[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]], and
 [[Outside the Camp - The Sin Offering and Hebrews 13]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+The incense altar is an altar on which sacrifice is forbidden: no burnt offering, meal offering, or
+drink offering, and no *"strange incense"* (30:9). Only the prescribed incense is burned, morning and
+evening, and the blood of the sin offering touches its horns once a year (30:10). The census
+half shekel is called *"an offering to Yahweh"*, *tərûmâ* (30:13, MAM), the word of the sanctuary
+offering of 25:2, but unlike that offering it has a fixed amount. See
+[[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; feasts, first fruits, and limits.
@@ -283,6 +292,7 @@ the base of Israel's worship. See [[The Ordination of the Priests]],
 
 - [[The Altar and the Court]] — Exodus 27:1–21; A portable crafted altar is prescribed; its relation to the earth-or-stone law remains open.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; sin offering, burnt offering, ram of consecration, and the continual burnt offering.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:9–10, 13; an altar for incense only, and the half shekel as *tərûmâ*.
 
 ## Related themes
 
@@ -293,6 +303,7 @@ the base of Israel's worship. See [[The Ordination of the Priests]],
 - [[Life and Death]] — what the firstborn of the flock costs
 - [[Blessing]] — God's word toward what he receives, against the withheld regard of 4:5
 - [[The Dwelling of God]] — God living among his people (Exodus 25:8)
+- [[Atonement]]
 
 ## Related people
 

@@ -1871,6 +1871,13 @@ will be their God"*. Israel will know that he brought them out of Egypt *"that I
 them"* (29:44–46). The ordination is placed inside the purpose of the exodus. See
 [[The Ordination of the Priests]].
 
+In Exodus 30 God completes the furniture of the tent with a gold incense altar placed *"before the
+veil … before the mercy seat … where I will meet with you"* (30:6), and names the same place again
+over the incense (30:36). He requires a ransom from every man counted in a census, *"that there be
+no plague among them"* (30:12), and sets one price for rich and poor (30:15). He reserves the oil
+and the incense to himself: neither may be copied, and whoever does so *"shall be cut off from his
+people"* (30:33, 38). See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2112,6 +2119,7 @@ them"* (29:44–46). The ordination is placed inside the purpose of the exodus. 
 - Exodus 27:1–21 — Commands a portable altar, an enclosed court, and an enduring service of light. See [[The Altar and the Court]].
 - Exodus 28:1–43 — He names a priestly family and clothes it for his presence; the makers are filled with wisdom. See [[The Priestly Garments]].
 - Exodus 29:1–46 — He prescribes the ordination and says he brought Israel out to dwell among them. See [[The Ordination of the Priests]].
+- Exodus 30:1–38 — Prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
 
@@ -2518,6 +2526,7 @@ them"* (29:44–46). The ordination is placed inside the purpose of the exodus. 
 - [[The Altar and the Court]] — Exodus 27:1–21; Commands a portable altar, an enclosed court, and an enduring service of light.
 - [[The Priestly Garments]] — Exodus 28:1–43; He names a priestly family and clothes it for his presence; the makers are filled with wisdom.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; He prescribes the ordination and says he brought Israel out to dwell among them.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense.
 
 ## Related people
 

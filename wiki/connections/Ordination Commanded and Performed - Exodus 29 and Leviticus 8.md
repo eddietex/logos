@@ -9,6 +9,10 @@ tags: [connection]
 
 - **Exodus 29:1–37** — the ordination commanded to Moses on the mountain —
   [[The Ordination of the Priests]].
+- **Exodus 30:26–30** — the anointing of the tent, its furniture, the basin, and the priests, with
+  the recipe of the oil — [[The Incense Altar, the Ransom, and the Holy Oil]]; Leviticus 8:10–12 (verified WEB) performs it: Moses anoints
+  *"the tabernacle and all that was in it"*, *"the basin and its base"*, and pours oil on Aaron's
+  head.
 - **Exodus 40:12–15** — the washing, clothing, and anointing commanded again at the setting up of
   the tabernacle *(local WEB; not yet ingested)*.
 - **Leviticus 8:1–36** — the ordination performed, *"as Yahweh commanded Moses"* *(verified WEB; not

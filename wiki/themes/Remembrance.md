@@ -155,6 +155,13 @@ The engraved stones are *"stones of memorial"*, and Aaron bears the names *"for 
 before Yahweh continually"* (Exodus 28:12, 29). The memorial is directed at God, not at Israel;
 the text does not say that God would otherwise forget. See [[The Priestly Garments]].
 
+### The incense altar, the ransom, and the holy oil — Exodus 30:1–38
+
+The census ransom is *"a memorial for the children of Israel before Yahweh"* (*ləzikkārôn*, 30:16,
+MAM). As with the twelve names worn *"for a memorial"* on Aaron's shoulders (28:12), the memorial
+is before God; the text does not say what it reminds him of beyond the atonement for Israel's
+souls. See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; experience turned into obligation.
@@ -323,6 +330,7 @@ the text does not say that God would otherwise forget. See [[The Priestly Garmen
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; *ʾazkîr*, God causing his name to be remembered
   where he will come and bless
 - [[The Priestly Garments]] — Exodus 28:1–43; the twelve names worn *"for a memorial before Yahweh"*.
+- [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:16; the atonement money *"a memorial for the children of Israel before Yahweh"*.
 
 ## Related themes
 
