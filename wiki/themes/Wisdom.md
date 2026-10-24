@@ -83,6 +83,12 @@ close to the book's whole point about who may speak for the tradition. See
   one that is *"earthly, sensual, demonic"* — the closest the New Testament comes to describing
   what went wrong with Job's friends.
 
+### The priestly garments — Exodus 28:1–43
+
+The makers of the garments are *"wise-hearted"*, whom God says he has *"filled with the spirit of
+wisdom"* (Exodus 28:3). Wisdom is here a craft skill given by God for sanctuary work; the
+chapter names no craftsman. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[Eliphaz's Second Speech]] — wisdom claimed by age and by uncontaminated tradition, and used to
@@ -214,6 +220,7 @@ close to the book's whole point about who may speak for the tradition. See
   24:14; WLC). **Not a dream read or a wonder copied but a working plan**, conditional on *"and God commands you
   so"*, and adopted without any reported word from God. Deuteronomy's retelling asks the judges to be *"wise men"*
   (1:13) — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
+- [[The Priestly Garments]] — Exodus 28:1–43; the wise-hearted makers filled with *"the spirit of wisdom"*.
 
 ## Related themes
 

@@ -85,6 +85,15 @@ It is not an account of ordination or a claim that every earlier priest was Aaro
 identity of the priests already mentioned in 19:22, 24 remains unexplained. See
 [[The Altar and the Court]] and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
 
+### The priestly garments — Exodus 28:1–43
+
+Exodus 28:1 is the first command in Exodus that gives *"the priest's office"* to named people:
+Aaron, Nadab, Abihu, Eleazar, and Ithamar, brought near *"from among the children of Israel"*.
+After a kingdom of priests (19:6) and sacrifices by young men (24:5), one family is now set
+apart and dressed for service. The high priest's clothing carries the people's names, their
+judgment, and the iniquity of their holy gifts. The office is defined by what the priest
+*bears* before Yahweh. The ordination is still to come (chapter 29). See [[The Priestly Garments]] and [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
+
 ## Key passages
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
@@ -148,6 +157,7 @@ identity of the priests already mentioned in 19:22, 24 remains unexplained. See
 - [[The Blood of the Covenant]] — Exodus 24:5; sacrifices offered by *"young men"*, with Aaron and his sons among the onlookers
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Aaron and his sons receive a lamp duty before their appointment and ordination instructions.
+- [[The Priestly Garments]] — Exodus 28:1–43; Aaron and his four sons named for the priest's office; the high priest bears names, judgment, and iniquity.
 
 ## Related themes
 

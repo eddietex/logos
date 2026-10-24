@@ -89,6 +89,13 @@ garment for his skin. What would he sleep in?"* The garment is *śimlâ*, the wo
 and Japheth laid over their father (Genesis 9:23, MAM), and the law lets the lender hold it only in
 daylight. See [[Laws of Holiness and Compassion]].
 
+### The priestly garments — Exodus 28:1–43
+
+Linen breeches are made *"to cover the flesh of their nakedness"* from waist to thigh, worn
+when the priests approach the altar or enter the tent, *"that they don't bear iniquity, and
+die"* (Exodus 28:42–43). Exodus 20:26 had forbidden steps to the altar for the same exposure;
+the text does not link the two rules itself. See [[The Priestly Garments]] and [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
+
 ## Key passages
 
 - [[The Garden of Eden]] — 2:25, nakedness without shame
@@ -143,6 +150,7 @@ daylight. See [[Laws of Holiness and Compassion]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:26; no steps to the altar, *"that your nakedness
   may not be exposed to it"*
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"his garment for his skin"*, returned before sunset
+- [[The Priestly Garments]] — Exodus 28:1–43; linen breeches for the priests, under threat of death.
 
 ## Related themes
 

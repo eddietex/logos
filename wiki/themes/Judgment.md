@@ -206,6 +206,13 @@ refusal to justify the wicked (23:7) grounds the prohibition of a lethal false c
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The priestly garments — Exodus 28:1–43
+
+The breastplate is *"the breastplate of judgment"*, holding the Urim and the Thummim, and Aaron
+bears *"the judgment of the children of Israel on his heart before Yahweh continually"*
+(Exodus 28:15, 29–30). Exodus does not say how a judgment was obtained; later texts show the
+Urim used for inquiry. See [[The Priestly Garments]] and [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; truth without partiality.
@@ -444,6 +451,7 @@ See [[Justice, Sabbaths, and Feasts]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:8–11; disputed claims *"before God"*, and the oath where no one saw
+- [[The Priestly Garments]] — Exodus 28:1–43; the breastplate of judgment and the Urim and Thummim.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

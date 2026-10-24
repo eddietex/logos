@@ -32,6 +32,14 @@ is included by the family list of 6:23 and the explicit appointment list of 28:1
 individually named in 27:21. This is a prescribed duty, not a report that his service has
 begun. See [[The Altar and the Court]].
 
+### The priestly garments prescribed — Exodus 28:1–43
+
+Exodus 28:1 names Nadab individually among Aaron's sons brought near *"that he may minister to
+me in the priest's office"* — the first time Exodus appoints the four by name. Coats, sashes,
+headbands, and linen breeches are prescribed for the sons (28:40–43), and Moses is to anoint
+and consecrate them (28:41). The ordination is commanded in chapter 29; no service is yet
+narrated. See [[The Priestly Garments]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the first of four sons — Exodus 6:23,
@@ -41,6 +49,7 @@ begun. See [[The Altar and the Court]].
 - *(ahead)* Dies with Abihu for *"strange fire"* — Leviticus 10:1–2; Numbers 26:61
 
 - Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
+- Exodus 28:1–43 — Named individually for the priest's office; sons' garments prescribed. See [[The Priestly Garments]].
 
 ## Appears in
 
@@ -50,6 +59,7 @@ begun. See [[The Altar and the Court]].
   later death by fire *"from before Yahweh"* is recorded (Leviticus 10:1–2)
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21).
+- [[The Priestly Garments]] — Exodus 28:1–43; named individually for the priest's office; sons' garments prescribed.
 
 ## Related people
 

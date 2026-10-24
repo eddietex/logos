@@ -91,6 +91,13 @@ five times**, and each is a covenant hinge.
   exactly. Simon becomes Peter (Matthew 16:18); Saul is Paul; and Revelation 2:17 promises *"a new name
   written, which no one knows but he who receives it"* — **a name that is not an argument with anyone.**
 
+### The priestly garments — Exodus 28:1–43
+
+Names are engraved *"like the engravings of a signet"* twice — on two onyx stones and on
+twelve breastplate stones — and a third engraving puts *"HOLY TO YAHWEH"* on the priest's
+forehead (Exodus 28:9–11, 21, 36). The tribes' names are carried; the divine name is worn.
+The chapter does not list the tribal names or their arrangement. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **the densest naming passage in the Bible.**
@@ -243,6 +250,7 @@ five times**, and each is a covenant hinge.
   help and delivered me from Pharaoh's sword"* — the God-bearing name beside Gershom's, which has none; and
   **Jethro named seven times in 18:1–12, then only *"Moses' father-in-law"*** (WLC) — see
   [[Eliezer (son of Moses)]]
+- [[The Priestly Garments]] — Exodus 28:1–43; the tribes' names engraved on stones, and *"HOLY TO YAHWEH"* on the forehead.
 
 ## Related themes
 

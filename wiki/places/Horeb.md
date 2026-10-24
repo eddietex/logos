@@ -118,6 +118,10 @@ in this chapter. See [[The Tabernacle Curtains and Frames]].
 lamp rule continue that address; they do not narrate a departure or a completed sanctuary
 at Sinai. See [[The Altar and the Court]].
 
+**The priests' garments are prescribed at the mountain as well** (Exodus 28:1–43). No place is
+named in the chapter; Sinai is the continuing setting of God's address to Moses in chapters
+24–31. See [[The Priestly Garments]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -159,6 +163,7 @@ at Sinai. See [[The Altar and the Court]].
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:30; the mountain where the design was shown, Sinai by context.
 
 - [[The Altar and the Court]] — Exodus 27:8; the mountain design governs the altar.
+- [[The Priestly Garments]] — Exodus 28:1–43; the priesthood named and its garments prescribed during Moses' stay on the mountain.
 
 ## Related places
 

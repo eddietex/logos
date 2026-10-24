@@ -136,6 +136,12 @@ The peoples are not to live in the land *"lest they make you sin against me"* (2
 is serving their gods, and its image is a *snare*, *môqēš* (MAM). The angel, meanwhile, *"will not
 pardon your disobedience"* (*pišʿăkem*, 23:21; MAM). See [[The Angel Sent Ahead]].
 
+### The priestly garments — Exodus 28:1–43
+
+Aaron *"shall bear the iniquity of the holy things"* — iniquity attached to Israel's holy gifts,
+not only to wrongdoing — *"that they may be accepted"* (Exodus 28:38). The priests themselves
+can *"bear iniquity, and die"* if they approach uncovered (28:43). See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[The Fall]] — the first disobedience and its anatomy
@@ -300,6 +306,7 @@ pardon your disobedience"* (*pišʿăkem*, 23:21; MAM). See [[The Angel Sent Ahe
 - [[The Ten Commandments]] — Exodus 20:17, 20; the commands reach desire; the encounter is intended
   to prevent sin
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a cause of sin; the angel who will not pardon transgression.
+- [[The Priestly Garments]] — Exodus 28:1–43; iniquity of the holy things borne by Aaron; the priests' own risk.
 
 ## Related themes
 

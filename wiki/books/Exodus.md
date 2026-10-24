@@ -338,6 +338,16 @@ outside the veil from evening to morning (27:20–21), anticipating the priestly
 that follow. The altar's relation to the earth-or-stone law of 20:24–26 remains unexplained
 by Exodus itself. This chapter prescribes construction and service; it reports neither done.
 
+### The priestly garments — Exodus 28
+
+[[The Priestly Garments]] names Aaron, Nadab, Abihu, Eleazar, and Ithamar for *"the priest's
+office"* (28:1) — the first appointment of a named priesthood in Exodus. Aaron's clothing
+carries what he bears before Yahweh: the twelve names on two onyx shoulder stones and on the
+twelve stones of the breastplate of judgment, the Urim and Thummim, and a gold plate reading
+*"HOLY TO YAHWEH"* with *"the iniquity of the holy things"* (28:9–38). Bells on the blue robe and
+linen breeches are both required *"that he not die"* (28:35, 43). The garments are commanded
+here, made in chapter 39; ordination follows in chapter 29.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -409,7 +419,7 @@ for unit.
 - [x] [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40
 - [x] [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37
 - [x] [[The Altar and the Court]] — Exodus 27:1–21
-- [ ] The Priestly Garments — Exodus 28:1–43
+- [x] [[The Priestly Garments]] — Exodus 28:1–43
 - [ ] The Ordination of the Priests — Exodus 29:1–46
 - [ ] The Incense Altar, the Ransom, and the Holy Oil — Exodus 30:1–38
 - [ ] Bezalel, Oholiab, and the Sabbath Sign — Exodus 31:1–18

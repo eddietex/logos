@@ -36,7 +36,8 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 · Exodus 15:25 |
 | [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
-| [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
+| [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 · Exodus 28:9–21 |
+| [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]] | allusion | Exodus 28:9–12, 17–21 · Genesis 2:12 · Ezekiel 28:13 · Revelation 21:12–14, 19–20 |
 | [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 · Exodus 21:12–36 |
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 · Exodus 25:11, 17 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
@@ -53,6 +54,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] | parallel | Genesis 21:8–21 · Genesis 22:1–19 |
 | [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]] | thread | Genesis 35:22 · Genesis 48:5–6 · Genesis 49:3–7 · Numbers 1:10, 32–35 · Numbers 26:28–37 · Deuteronomy 33:13–17 · Joshua 14:3–4 · Joshua 16–17 · 1 Chronicles 5:1–2 · Ezekiel 47:13 · Revelation 7:5–8 |
 | [[Uncircumcised Lips, Ears, and Heart]] | motif | Genesis 17:14 · Exodus 4:24–26 · Exodus 6:12, 30 · Exodus 12:48 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Acts 7:51 · Romans 2:28–29 |
+| [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]] | thread | Exodus 28:30 · Leviticus 8:8 · Numbers 27:21 · Deuteronomy 33:8 · 1 Samuel 28:6 · Ezra 2:63 |
 | [[The Veil - Separation in Exodus and Access in Hebrews]] | typology | Exodus 26:31–37 · Leviticus 16:2 · Hebrews 9:1–8 · Hebrews 10:19–22 · Matthew 27:50–51 · Mark 15:37–38 · Luke 23:44–46 |
 | [[The Vine and the Cup]] | thread | Genesis 9:20–21 · Genesis 19:30–38 · Genesis 40:9–11 · Numbers 6:1–4 · Psalm 104:15 · Proverbs 23:29–35 · Isaiah 5:1–7 · Jeremiah 25:15–29 · John 2:1–11 · John 15:1–8 · Matthew 26:27–29 · Ephesians 5:18 · Job 21:20 |
 | [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] | thread | Exodus 20:5–6 · Exodus 34:6–7 · Deuteronomy 24:16 · 2 Kings 14:5–6 · Job 5:4; 8:4; 14:21; 18:19; 20:10; 21:19–21 · Lamentations 5:7 · Jeremiah 31:29–30 · Ezekiel 18:1–4, 19–23 · John 9:1–3 |

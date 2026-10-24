@@ -104,6 +104,11 @@ of supplying oil and tending a lamp (27:20–21). The design must follow what Mo
 (27:8); the continuing service is assigned to Aaron and his sons. Building the sanctuary
 and sustaining its use are distinct kinds of work within one command. See [[The Altar and the Court]].
 
+### The priestly garments — Exodus 28:1–43
+
+Weaving, engraving *"like the engravings of a signet"*, setting stones in gold, braiding chains,
+and embroidery are specified for the garments (Exodus 28:6–39). See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; a limit on production.
@@ -238,6 +243,7 @@ and sustaining its use are distinct kinds of work within one command. See [[The 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Textile work, joinery, and metalwork serve a specified design (26:1–30, 36–37).
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Making the altar and court leads into the recurring work of maintaining the light.
+- [[The Priestly Garments]] — Exodus 28:1–43; skilled weaving, engraving, and embroidery for vestments.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -941,6 +941,7 @@ him. See [[Israel at Mount Sinai]].
   his *"the days of the years of my pilgrimage"* (47:9) is the *məgûrîm* of 6:4, *"the land of their
   travels"* — [[God Almighty - El Shaddai in Genesis and Exodus]]
 - [[Israel at Mount Sinai]] — Exodus 19:3; ancestral name of the people, not a personal appearance
+- [[The Priestly Garments]] — Exodus 28:9–12, 21, 29; unnamed, but his sons' names are engraved on the ephod's onyx stones *"in the order of their birth"* and on the twelve breastplate stones.
 
 ## Related people
 

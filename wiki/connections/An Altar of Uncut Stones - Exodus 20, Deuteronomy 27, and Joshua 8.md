@@ -62,3 +62,10 @@ which Yahweh your God shall choose"*. That question stays open.
 **The Ebal altar is at Shechem's mountains**, between which the blessings and curses are read (see
 [[Shechem (city)]]), where Abram built his first altar in Canaan (Genesis 12:6–7). See also
 [[The Altar at Shechem and the Covenant at Shechem]], [[Sacrifice and Offering]], and [[Holiness]].
+
+**A second provision about nakedness at the altar.** Exodus 20:26 forbids steps to the altar
+*"that your nakedness may not be exposed to it"*. Exodus 28:42–43 gives the priests linen
+breeches *"to cover the flesh of their nakedness"* when they come near the altar, *"that they
+don't bear iniquity, and die"*. Exodus does not relate the two rules or say how the larger
+sanctuary altar of 27:1–8 was approached; reading them as guarding the same exposure is an
+inference, not a statement of either text. See [[The Priestly Garments]].

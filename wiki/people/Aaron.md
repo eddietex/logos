@@ -181,6 +181,16 @@ of chapter 28: they must keep the lamp in order outside the veil from evening to
 narrate their ordination or place them within the most holy space. See [[The Altar and the Court]]
 and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
 
+### The priestly garments prescribed — Exodus 28:1–43
+
+**Aaron is named for *"the priest's office"*** and becomes the subject of the whole chapter
+(Exodus 28:1). He is to wear the ephod, breastplate, blue robe, coat, turban, sash, gold plate,
+and linen breeches. He bears the names of the children of Israel on his shoulders and on his
+heart *"for a memorial"*, the Urim and Thummim and *"the judgment of the children of Israel"*,
+and *"the iniquity of the holy things"* on his forehead (28:12, 29–30, 38). The bells are heard
+*"that he not die"* (28:35). The garments are prescribed, not yet made or worn; the ordination
+follows in chapter 29. See [[The Priestly Garments]], [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]], and [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]].
+
 ## Timeline / key events
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
@@ -221,6 +231,7 @@ and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
   disputes — Exodus 24:1, 9–11, 14, [[The Blood of the Covenant]]
 
 - Exodus 27:1–21 — Assigned with his sons to tend the lamp from evening to morning outside the veil. See [[The Altar and the Court]].
+- Exodus 28:1–43 — Named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things. See [[The Priestly Garments]].
 
 ## Appears in
 
@@ -266,6 +277,7 @@ and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
   Israel"*; *"Behold, Aaron and Hur are with you"*
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Assigned with his sons to tend the lamp from evening to morning outside the veil.
+- [[The Priestly Garments]] — Exodus 28:1–43; named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things.
 
 ## Related people
 

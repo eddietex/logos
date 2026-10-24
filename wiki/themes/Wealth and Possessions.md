@@ -152,6 +152,12 @@ dyed thread form hangings. Oil is not simply installed once like a furnishing; I
 supply it for the continuing light (27:20–21). The chapter specifies material and quality
 without assigning a symbolic value to each metal or color. See [[The Altar and the Court]].
 
+### The priestly garments — Exodus 28:1–43
+
+Gold, blue, purple, scarlet, fine linen, two onyx stones, and twelve precious stones become
+the high priest's clothing (Exodus 28:5–21). The wealth offered in 25:1–7 is now worn by the one
+who represents the givers. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; money cannot buy judgment; land must feed others.
@@ -328,6 +334,7 @@ without assigning a symbolic value to each metal or color. See [[The Altar and t
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Gold, silver, brass, dyed linen, skins, and acacia become the enclosure.
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Brass, silver, linen, and acacia become furnishings; oil remains an ongoing contribution.
+- [[The Priestly Garments]] — Exodus 28:1–43; gold, dyed yarn, linen, and precious stones become vestments.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

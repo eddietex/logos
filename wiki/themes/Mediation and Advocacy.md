@@ -150,6 +150,13 @@ specified representative service rather than an act of intercessory speech. The 
 location outside the veil also keeps this duty distinct from the meeting with Moses above
 the ark in 25:22. See [[The Altar and the Court]].
 
+### The priestly garments — Exodus 28:1–43
+
+Aaron bears the twelve names on his shoulders and heart *"for a memorial before Yahweh"*,
+bears *"the judgment of the children of Israel on his heart"*, and bears *"the iniquity of the
+holy things"* so that the people's gifts *"may be accepted"* (28:12, 29–30, 38). The mediator's
+role is described through clothing: what he wears is what he carries for others. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -359,6 +366,7 @@ the ark in 25:22. See [[The Altar and the Court]].
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The meeting place above the ark is situated within a separating veil.
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Moses transmits the rule; Israel provides oil; Aaron and his sons tend it on the people’s behalf.
+- [[The Priestly Garments]] — Exodus 28:1–43; the high priest carries Israel's names, judgment, and iniquity before Yahweh.
 
 ## Related themes
 

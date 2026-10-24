@@ -139,6 +139,8 @@ sacrificial ritual nor the priests' ordination is carried out here.
 - The service of light develops [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]];
   the outer court and continuing care develop
   [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
+- Exodus 28:1–43 — [[The Priestly Garments]]: Aaron and his sons, assigned the lamp here, named
+  and clothed for the priest's office.
 
 ## Notes
 

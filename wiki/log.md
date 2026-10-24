@@ -14114,3 +14114,61 @@ east entrance; and the people supplying oil for Aaron and his sons to tend befor
 pages remain the expected baseline. All 21 quoted verses match raw after layout normalization.
 No raw source, schema, skill, harness, or controller file was changed. The interpretive and
 construction questions above remain open; no operational blocker remains.
+
+## [2026-10-23] ingest | Exodus 28.1-43 — The Priestly Garments
+
+Ingested [[The Priestly Garments]] in unattended mode with the planned boundary unchanged.
+Exodus advances to **38 / 53** pericopes. No second pericope was ingested; the ordination of the
+priests (29:1–46) is next. The passage page holds the discussion: the first naming of Aaron's
+four sons for the priest's office, the order of the instructions against the opening list of
+garments, the twelve names carried on shoulders and heart, the undescribed Urim and Thummim, the
+bells and breeches given *"that he not die"*, and the plate reading *"HOLY TO YAHWEH"*.
+
+### Decisions and sources
+
+- No new person, place, or theme page was needed. The wise-hearted makers are unnamed here, so
+  no page was made for them; Bezalel and Oholiab are left for Exodus 31. [[Jacob]] receives an
+  appearance line only, since his sons' names are engraved but not listed.
+- [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], and [[Ithamar]] are now updated
+  as **individually named** (28:1), in contrast to the collective inclusion recorded at 27:21.
+- **English discrepancy flagged, not resolved.** The stored WEB of 28:37 fastens the gold plate
+  *"on the sash"*, while WEB Exodus 39:31 and Leviticus 8:9 put it on the turban, and 28:38 puts it
+  on the forehead. The Hebrew of 28:37 was not checked; the raw text was not altered. The
+  discrepancy is written out on the passage page.
+- Left open: which name goes on which breastplate stone, and whether Levi and Joseph or Ephraim
+  and Manasseh are counted; what the Urim and Thummim were; who must hear the bells; and whether
+  the breeches and the no-steps rule of 20:26 guard the same exposure. Gem names are treated as
+  the WEB's English labels only.
+- Thirteen themes receive synthesis and key-passage updates: [[Priesthood]], [[Holiness]],
+  [[Mediation and Advocacy]], [[Remembrance]], [[Names and Naming]], [[Nakedness and Covering]],
+  [[The Glory of God]], [[Judgment]], [[Sin]], [[Wisdom]], [[Work]], [[Wealth and Possessions]],
+  and [[The Dwelling of God]].
+- Created [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]] and
+  [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]]. The second records
+  overlaps between the WEB's English gem lists in Exodus 28, Ezekiel 28:13, and Revelation 21 as a
+  translation-level observation only, with no source-language or mineral claim.
+- Updated [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]] (the breeches
+  beside 20:26) and [[The Twelve Sons and the Lists That Reorder Them]] (birth order on the onyx
+  stones). Added a forward cross-reference on [[The Altar and the Court]].
+- All forty-three WEB verses were copied mechanically from `raw/bible/Exodus.md`, and every
+  quotation in the page's prose was checked against it. Local comparisons: Exodus 6:23; 19:6;
+  20:26; 24:5; 27:20–21; 39:8, 10, 21, 30–31; Genesis 2:12. Leviticus 8:7–9, 10:17; Numbers 27:21;
+  Deuteronomy 33:8; 1 Samuel 28:6; Ezra 2:63; Ezekiel 28:13; Zechariah 14:20–21; and Revelation
+  21:12–14, 19–20 were fetched individually from bible-api.com with `translation=web` on
+  2026-10-23. None is ingested and no later book was fetched into raw. No Hebrew or Greek lexical
+  claim was made.
+
+### Pages created or revised
+
+- **Created (3):** the passage and two connections.
+- **Existing content pages revised (27):** Exodus; eight people; Horeb; thirteen themes; two
+  connections; one earlier passage.
+- **Bookkeeping revised (9):** book and top-level indexes; people subindexes A–E, F–M, and N–Z;
+  places; themes; connection subindexes A–C and T–Z; and this log.
+- **Totals by frontmatter type:** 129 passages, 170 people, 90 places, 81 themes, 358 connections;
+  3 books started, 2 complete. Connection subindexes now hold 62, 78, 69, 61, and 88 rows; no range
+  change is needed.
+
+`scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
+pages remain the expected baseline. No raw source, schema, skill, harness, or controller file was
+changed.

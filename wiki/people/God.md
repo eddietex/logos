@@ -1852,6 +1852,15 @@ Israel's oil to a service maintained by Aaron and his sons before him. This cont
 promise to dwell among the people through specified materials, spaces, and duties. See
 [[The Altar and the Court]].
 
+### The priestly garments prescribed — Exodus 28:1–43
+
+God names Aaron and his four sons for *"the priest's office"* and designs their clothing
+*"for glory and for beauty"* (Exodus 28:1–2). He says he has filled the makers *"with the spirit
+of wisdom"* (28:3). The garments set Israel's names before him *"for a memorial"* and make
+judgment and the iniquity of the holy gifts things Aaron bears *"before Yahweh"*, so *"that they
+may be accepted"* (28:12, 29–30, 38). Twice the text warns that a priest may die if the
+clothing rules are not kept (28:35, 43). See [[The Priestly Garments]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2091,6 +2100,7 @@ promise to dwell among the people through specified materials, spaces, and dutie
   Exodus 25:10–40
 
 - Exodus 27:1–21 — Commands a portable altar, an enclosed court, and an enduring service of light. See [[The Altar and the Court]].
+- Exodus 28:1–43 — He names a priestly family and clothes it for his presence; the makers are filled with wisdom. See [[The Priestly Garments]].
 
 ## Appears in
 
@@ -2495,6 +2505,7 @@ promise to dwell among the people through specified materials, spaces, and dutie
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; commands the enclosure and the division of holy spaces.
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Commands a portable altar, an enclosed court, and an enduring service of light.
+- [[The Priestly Garments]] — Exodus 28:1–43; He names a priestly family and clothes it for his presence; the makers are filled with wisdom.
 
 ## Related people
 

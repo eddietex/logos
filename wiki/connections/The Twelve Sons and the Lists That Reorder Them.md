@@ -126,3 +126,11 @@ twelve tribes of Israel* — *šibṭê yiśrāʾēl* — enters the Bible**, an
 counts [[Joseph]] as one and includes [[Levi]]** — **the arrangement 48:5 had made untenable eight
 verses earlier.** **Genesis sets the two side by side and reconciles neither**, which is the problem
 every later roster inherits.
+
+**Exodus 28 carries the names on the high priest without printing them.** The two onyx stones
+bear six names each *"in the order of their birth"* (28:10), and the breastplate's twelve stones
+are *"according to the names of the children of Israel … for the twelve tribes"* (28:21). The
+chapter never lists the names, so it does not settle whether Levi and Joseph or Ephraim and
+Manasseh are counted. Its one stated ordering principle, birth order, points back to the
+sequence narrated in Genesis 29:31–30:24 and 35:16–18 rather than to any later roster. See [[The Priestly Garments]] and
+[[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]].

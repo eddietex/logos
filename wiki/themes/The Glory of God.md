@@ -64,6 +64,12 @@ the mountain, on the seventh God calls Moses from it, and to Israel below the gl
 devouring fire"* (24:16–17). **Exodus 24 is the hinge between the glory that appears (16:10) and the
 glory that fills the tent (40:34–35).** See [[The Blood of the Covenant]].
 
+### The priestly garments — Exodus 28:1–43
+
+The holy garments are *"for glory and for beauty"* (Exodus 28:2, 40). The glory here is given to
+the priest by his clothing; the chapter does not tie it to the glory that settled on Sinai
+(24:16–17), and this page does not claim the same Hebrew word is used in both places. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[Manna and Quail]] — Exodus 16:7, 10; **the first *kəbôd YHWH* in Scripture.** *"In the morning, then you
@@ -76,6 +82,7 @@ glory that fills the tent (40:34–35).** See [[The Blood of the Covenant]].
 - [[The Offering for the Sanctuary]] — Exodus 25:8–9; **the dwelling announced.** The glory that *"settled"* (*šākan*) on
   Sinai (24:16) is to *dwell* (*šākan*) among the people, in a *miškān* built to God's pattern (MAM). The
   Septuagint has *"I will be seen among you"* (Rahlfs). See [[The Dwelling of God]]
+- [[The Priestly Garments]] — Exodus 28:1–43; garments *"for glory and for beauty"*.
 
 ## Related themes
 

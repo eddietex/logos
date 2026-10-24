@@ -70,6 +70,12 @@ and Aaron and his sons keep the lamp in order outside the veil (27:20–21). God
 dwelling among the people thus includes sustained service, not only the making of objects.
 See [[The Altar and the Court]].
 
+### The priestly garments — Exodus 28:1–43
+
+The garments are designed for entering *"the holy place"* and *"the Tent of Meeting"* and for
+approaching the altar (Exodus 28:29, 35, 43). The dwelling now has a dress code: the one who
+goes in before Yahweh must be clothed as prescribed. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[The Blood of the Covenant]] — Exodus 24:16; ***"Yahweh's glory settled on Mount Sinai"***, *šākan*
@@ -85,6 +91,7 @@ See [[The Altar and the Court]].
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The promised dwelling becomes an assembled tent with an inner boundary.
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The dwelling includes an outer court and a continuing service of light.
+- [[The Priestly Garments]] — Exodus 28:1–43; the priest clothed for entering the holy place.
 
 ## Related themes
 

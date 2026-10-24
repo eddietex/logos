@@ -448,6 +448,13 @@ command the children of Israel to bring oil. His role combines receiving the des
 transmitting a recurring obligation. He is not here described as either building the altar
 or tending the lamp himself. See [[The Altar and the Court]].
 
+### The priestly garments prescribed — Exodus 28:1–43
+
+Moses is told to bring his brother and nephews near *"from among the children of Israel"*,
+to instruct the wise-hearted makers, and later to clothe, anoint, consecrate, and sanctify the
+priests himself (Exodus 28:1, 3, 41). He is the one who installs the priesthood, though he does
+not wear its garments. See [[The Priestly Garments]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -554,6 +561,7 @@ or tending the lamp himself. See [[The Altar and the Court]].
   [[The Ark, the Table, and the Lampstand]]
 
 - Exodus 27:1–21 — Receives the altar design and must command Israel to supply lamp oil. See [[The Altar and the Court]].
+- Exodus 28:1–43 — Told to bring Aaron and his sons near, and to clothe and anoint them. See [[The Priestly Garments]].
 
 ## Appears in
 
@@ -646,6 +654,7 @@ or tending the lamp himself. See [[The Altar and the Court]].
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; receives the enclosure design and the directions for its arrangement.
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Receives the altar design and must command Israel to supply lamp oil.
+- [[The Priestly Garments]] — Exodus 28:1–43; told to bring Aaron and his sons near, and to clothe and anoint them.
 
 ## Related people
 

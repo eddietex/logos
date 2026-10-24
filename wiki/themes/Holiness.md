@@ -96,6 +96,13 @@ this chapter does not provide a complete list of who may enter each space. The e
 court gate is also distinct from the tent entrance screen and the inner veil of chapter 26.
 See [[The Altar and the Court]].
 
+### The priestly garments — Exodus 28:1–43
+
+The garments are *"holy garments"* (28:2, 4), made *"to sanctify"* Aaron (28:3). A gold plate on
+his forehead reads *"HOLY TO YAHWEH"*, and he bears *"the iniquity of the holy things"* Israel
+consecrates (28:36–38). Holiness here is dangerous as well as honourable: the bells and the
+breeches are both required so that the priest does *"not die"* (28:35, 43). See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -131,6 +138,7 @@ See [[The Altar and the Court]].
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The veil distinguishes the holy place from the most holy (26:33).
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The court and veil distinguish spaces; the lamp is tended outside the veil.
+- [[The Priestly Garments]] — Exodus 28:1–43; holy garments, the plate *"HOLY TO YAHWEH"*, and death warnings at the holy place.
 
 ## Related themes
 

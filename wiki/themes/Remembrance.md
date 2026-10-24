@@ -149,6 +149,12 @@ both verses use the Hebrew verb discussed in this page's overview.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The priestly garments — Exodus 28:1–43
+
+The engraved stones are *"stones of memorial"*, and Aaron bears the names *"for a memorial
+before Yahweh continually"* (Exodus 28:12, 29). The memorial is directed at God, not at Israel;
+the text does not say that God would otherwise forget. See [[The Priestly Garments]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; experience turned into obligation.
@@ -316,6 +322,7 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Ten Commandments]] — Exodus 20:8–11; remembering a day means keeping its prescribed rest
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; *ʾazkîr*, God causing his name to be remembered
   where he will come and bless
+- [[The Priestly Garments]] — Exodus 28:1–43; the twelve names worn *"for a memorial before Yahweh"*.
 
 ## Related themes
 
