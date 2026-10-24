@@ -91,6 +91,8 @@ these instructions and promises, before the narrated passing in 34:5–7.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
@@ -160,3 +162,12 @@ description centers on divine character without depicting the face that 33:20 wi
 Exodus 34:29–35 describes the effect of divine conversation on Moses' face and his repeated
 entry before Yahweh. Israel sees Moses shining; that does not mean he saw God's face. The
 setting of the later entries is not named, though the tent in 33:7–11 supplies nearby context.
+
+### The offering brought — Exodus 35:1–29
+
+Jewelry is donated for the sanctuary in 35:22 after its removal in 33:4–6. Removal in mourning
+is not a claim that every ornament was destroyed; exact identification of the pieces remains
+unstated. The sanctuary is still commissioned as work to do, distinct in narrative stage from
+the outside tent. See [[The Tent Outside the Camp and the Promised Dwelling]].
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

@@ -132,7 +132,18 @@ killings (32:26–29). **Qualification of earlier wording here:** this passage l
 consecration, and blessing; it does not perform the prescribed Aaronic ordination or say the whole
 nation’s vocation was transferred to Levi because of the calf. See [[The Golden Calf]].
 
+### The freewill offering — Exodus 35:1–29
+
+The public list expressly includes holy garments for Aaron the priest and garments for his
+sons (35:19). After Aaron's role in the calf, the narrative still names him for priestly service.
+This is evidence that the assignment persists, not a separately narrated pardon or ordination.
+The wider congregation supplies the materials; making or donating them does not confer that office.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Aaron and his sons remain recipients of the commissioned garments after the calf.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Aaron makes the calf while the instructions for his appointment have already been given (28:1; 32:1–6).
 

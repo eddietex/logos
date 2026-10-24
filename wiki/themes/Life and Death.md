@@ -185,7 +185,17 @@ rock while the glory passes (33:21–23). The hand which might strike in judgmen
 recipient of revelation. The scene supplies a limit on sight, not an account of an actual death. See
 [[Show Me Your Glory]].
 
+### The freewill offering — Exodus 35:1–29
+
+Exodus 35:2 repeats death for work on the Sabbath before the call for gifts. The passage reports
+no offender, execution, or means of carrying out the penalty. Its willing giving must not obscure
+the serious sanction with which the assembly's address opens.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; The Sabbath death sanction is repeated without an execution scene.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Protected revelation under a stated mortal limit.
 

@@ -245,7 +245,17 @@ charge a righteous son with his father's iniquity. Shared consequences and perso
 possible distinctions, not an explicit resolution supplied by Exodus 34. See [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]]. See
 [[The Covenant Renewed]].
 
+### The freewill offering — Exodus 35:1–29
+
+The death requirement for Sabbath work in 35:2 remains in force in the narrative after covenant
+renewal. No trial or punishment is enacted in this unit. The freewill character of the offerings
+in 35:29 therefore cannot be generalized into an absence of covenant obligations or sanctions.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; The renewed assembly hears the Sabbath sanction before the offering appeal.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Generational judgment remains beside forgiveness in the
   proclamation.

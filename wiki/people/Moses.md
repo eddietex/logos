@@ -517,7 +517,18 @@ report the radiance fading; Paul's later interpretation is examined in
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+Moses assembles all Israel, begins with Sabbath, and relays the invitation for materials and
+skilled work (35:1–19). The congregation leaves his presence and the willing bring their gifts
+(35:20–29). He communicates the specification rather than personally making every object.
+The narrative begins to enact the instructions he received before the calf.
+
+See [[The Freewill Offering]].
+
 ## Timeline / key events
+
+- Exodus 35:1–29 — Assembles Israel and relays the commands for rest, materials, and skilled work. See [[The Freewill Offering]].
 
 - Exodus 34:29–35 — Returns shining, recalls the frightened people, and transmits the commands. See [[The Shining Face of Moses]].
 
@@ -637,6 +648,8 @@ See [[The Shining Face of Moses]].
 - Exodus 32 — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Assembles Israel and relays the commands for rest, materials, and skilled work.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Returns shining, recalls the frightened people, and transmits the commands.
 

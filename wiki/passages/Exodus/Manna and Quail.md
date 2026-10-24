@@ -652,6 +652,10 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - [[Judgment]]
 
 ## Cross-references
+
+- [[The Freewill Offering]] — Exodus 35:1–3; Sabbath and the prohibition on kindling fire precede
+  the sanctuary commission. The preparation in 16:23 is an earlier comparison; 35:3 does not
+  explicitly explain its fire rule by referring back to the manna.
 - Genesis 2:2–3, 15 — *"he rested on the seventh day"*; *"put him in the garden"* (*hinnîaḥ*) —
   [[The Creation of the World]], [[Creation as the Ground of the Sabbath Command]]
 - Genesis 7:4; 19:24 — *"I will cause it to rain"*; *"rained … sulfur and fire from Yahweh out of the sky"* —

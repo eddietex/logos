@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
+
 - **Genesis 6:22** — *"Thus Noah did. He did all that God commanded him."* —
   [[Noah and the Flood]]
 - **Exodus 7:6** — *"Moses and Aaron did so. As Yahweh commanded them, so they did."* —
@@ -72,6 +74,16 @@ basin (38:8) between the altar and court accounts, so it is not a verbatim dupli
 chapter 27. Chapter 27's lamp rule (27:20–21) concerns continued service, not merely a
 construction completed once. See [[The Altar and the Court]]. The later units remain
 un-ingested and were compared from the local WEB text.
+
+### The offering now brought — Exodus 35:1–29
+
+[[The Freewill Offering]] makes command and response visible before the completion formulas:
+Moses relays what Yahweh commands, calls for everything commanded to be made, and the willing
+bring gifts for the work commanded through him (35:1, 4, 10, 29). Actual spinning is reported
+in 35:25–26; completion of all components is not. This comparison concerns the WEB narrative
+pattern, not an assertion that 35:29 contains the full Hebrew formula discussed above.
+
+Source: the cited verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

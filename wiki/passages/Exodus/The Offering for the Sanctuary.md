@@ -89,6 +89,8 @@ in the middle of the camp.**
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
 
 - [[The Golden Calf]] — Gold requested for the sanctuary in Exodus 25:3 is also collected for the calf in 32:2–4. The contrast concerns its use; the text does not identify each object’s earlier owner.
@@ -100,11 +102,11 @@ in the middle of the camp.**
 - Exodus 17:7 — *"Is Yahweh among us, or not?"*: [[Water from the Rock]].
 - Exodus 3:21–22; 11:2; 12:35–36 — the silver and gold asked of the Egyptians:
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]].
-- Exodus 32:2–4 — the golden rings given for the calf *(not yet ingested)*.
-- Exodus 35:4–29; 36:3–7 — the offering made, and the people stopped from bringing more *(not yet
-  ingested)*.
-- Exodus 29:45–46; 40:34–35 — *"I will dwell among the children of Israel"*; the glory fills the
-  tabernacle *(not yet ingested)*: [[I Will Take You as My People - The Covenant Formula]].
+- Exodus 32:2–4 — the golden rings given for the calf: [[The Golden Calf]].
+- Exodus 35:4–29 — the offering made: [[The Freewill Offering]]. Exodus 36:3–7, the surplus,
+  remains ahead (verified local WEB).
+- Exodus 29:45–46 — the dwelling promise in [[The Ordination of the Priests]]; 40:34–35, the
+  glory filling the tabernacle, remains ahead: [[I Will Take You as My People - The Covenant Formula]].
 - Exodus 25:40 — the pattern *"shown to you on the mountain"*: [[The Ark, the Table, and the Lampstand]].
   Exodus 26:30; Acts 7:44; Hebrews 8:5 *(not yet ingested)*:
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
@@ -113,8 +115,9 @@ in the middle of the camp.**
 - Leviticus 26:11–12; 1 Kings 8:10–11, 27; John 1:14; Revelation 21:3 — God's dwelling among
   people *(not yet ingested)*:
   [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
-- 1 Chronicles 29:9, 14, 17; 2 Corinthians 9:7 — willing giving for a house of God, and *"God loves a
-  cheerful giver"* *(not yet ingested)*. See Notes.
+- 1 Chronicles 29:1–17; 2 Corinthians 9:1–15 — willing gifts for God's house and a collection
+  for people in need; verified WEB, not yet ingested. See
+  [[Willing Hearts - The Sanctuary, the Temple, and the Collection]].
 - Exodus 3:12; 23:20–23 — the presence promised and sent ahead:
   [[I Will Be With You - The Promise of Presence]].
 
@@ -150,8 +153,8 @@ everyone"* clause reads *to whomever it seems good in the heart*.
 brought a freewill offering to Yahweh"*. **No amount is set, and no one is required to give.** That
 sets this offering apart from the laws just given. Those required three appearances a year, with *"none
 shall appear before me empty"* (23:15), and the firstborn and first fruits were owed (22:29–30;
-23:19). The sanctuary's materials are asked for, not levied. (The half-shekel *"ransom"* of 30:11–16 is a
-different, compulsory payment, and the wiki will treat it when it arrives.)
+23:19). The sanctuary's materials are asked for, not levied. (The half-shekel ransom of 30:11–16 is a different, compulsory payment; see
+[[The Incense Altar, the Ransom, and the Holy Oil]].)
 
 **The narrative of 35–36 bears it out.** The verb comes back again and again: *"Whoever is of a
 willing heart"* (*nədîb libbô*, 35:5); *"everyone whom his spirit made willing"* (35:21); *"as many as
@@ -283,3 +286,10 @@ Nadab are given as the usual lexical reports, not checked against a named lexico
 The promise of a dwelling among the people meets threatened withdrawal and an outside tent
 in [[Show Me Your Glory]] (33:3–17). The narrative has not yet reached the prescribed
 sanctuary’s construction. See [[The Tent Outside the Camp and the Promised Dwelling]].
+
+### The offering brought — Exodus 35:1–29
+
+The willing giving requested in 25:2–7 is now narrated in 35:20–29. Materials, the work of
+women spinners, and rulers' gifts supply the commission. The surplus in 36:3–7 remains ahead.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

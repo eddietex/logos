@@ -99,7 +99,19 @@ leaders without making them the only gifted workers. See [[A Man in Whom Is the 
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The freewill offering — Exodus 35:1–29
+
+The wise-hearted are called to make the sanctuary's components (35:10), and women are expressly
+called wise-hearted as they spin (35:25–26). Wisdom here takes the form of practical competence,
+not merely advice or the ability of the named master craftsmen. Verse 21 describes the donor's
+own willing spirit in the WEB; it should not be silently equated with the explicit filling with
+the Spirit of God in 31:3.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Wise-hearted women make skill visible in spinning.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; wisdom shared among the makers.
 

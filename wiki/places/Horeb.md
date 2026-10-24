@@ -170,7 +170,17 @@ they should not be made repeated ascents of the summit without evidence.
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+Moses assembles the congregation after descending Sinai (34:29; 35:1). The camp remains the
+setting by continuity, although this pericope does not repeat the mountain's name. The people's
+habitations are the scope of the Sabbath fire rule (35:3); no new settlement or location is
+introduced. Materials for the prescribed sanctuary are now brought, without a report of its
+erection. See [[The Freewill Offering]].
+
 ## Appears in
+
+- [[The Freewill Offering]] — Exodus 35:1–29; the assembly and gifts at the Sinai camp by context.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Sinai is the mountain of the descent with intact tablets and a shining face.
 
@@ -237,6 +247,8 @@ See [[The Shining Face of Moses]].
 - [[Massah and Meribah]] — the name given to the place of the water (17:7)
 
 ## Events here
+
+- Moses assembles Israel for Sabbath and sanctuary instructions; the willing bring gifts — [[The Freewill Offering]].
 
 - Exodus 34:29–35 — Sinai is the mountain of the descent with intact tablets and a shining face. See [[The Shining Face of Moses]].
 

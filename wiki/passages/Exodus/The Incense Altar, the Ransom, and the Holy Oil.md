@@ -211,6 +211,8 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - Exodus 25:10–22 — [[The Ark, the Table, and the Lampstand]]: the ark and mercy seat before which
   the incense altar stands, and the first *"There I will meet with you"* (25:22).
 - Exodus 26:31–35 — [[The Tabernacle Curtains and Frames]]: the veil, with the table and lampstand
@@ -362,3 +364,11 @@ Genesis 17:14. Psalm 133:2; 141:2; Luke 1:8–11; Revelation 8:3–5; Hebrews 9:
 for Exodus 30:1–38, 1:14, 38:25–26 and Leviticus 4:3; 10:1; 23:27 was read in *Miqra according to the
 Masorah* through the Sefaria API on 2026-10-23. The Greek of Hebrews 9:4 and Matthew 17:24 was not
 checked, and claims that depend on it are marked where they occur.
+
+### The offering brought — Exodus 35:1–29
+
+The incense altar, anointing oil, incense, basin, and base enter the public work list
+(35:15–16); rulers supply spice and oil (35:28). The willing gifts of 35:21–29 are distinct
+from the fixed half-shekel requirement of 30:11–16, although both support sanctuary service.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

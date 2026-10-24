@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
+
 - [[The Golden Calf]] — Exodus 32:2–4.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:15; appearance before God with an offering.
@@ -46,7 +48,7 @@ Israel.** In Genesis–Deuteronomy the piel occurs only at Exodus 3:22 and 12:36
 stem), **and the children's answer in the same chapter uses the hiphil — *"he … spared (hiṣṣîl) our
 houses"* (12:27) — nine verses before *wayənaṣṣəlû***. The root's one other use in Exodus outside the
 hiphil is the hitpael of 33:6, after the calf: *"The children of Israel stripped themselves of their
-jewelry from Mount Horeb onward"* (WLC; `raw/bible/`; not yet ingested).
+jewelry from Mount Horeb onward"* (WLC; `raw/bible/`; now ingested in [[Show Me Your Glory]]).
 
 **Favor, not force.** Each of the three Exodus texts says *Yahweh gave the people favor in the sight of
 the Egyptians*. **The goods are asked for and given**, by neighbours and by the woman *"who visits her
@@ -70,7 +72,8 @@ from those whose heart makes them willing. **Exodus 25 does not say that these a
 wiki reads the sequence that way because nothing else in the book explains where a people just out of
 slavery got them, and because the offering of 35:22 is *"brooches, earrings, signet rings, and armlets,
 all jewels of gold"* — the kind of goods asked of the Egyptians. See [[The Offering for the Sanctuary]].
-The calf is now ingested in [[The Golden Calf]]; the enacted sanctuary offering remains ahead.
+The calf is ingested in [[The Golden Calf]] and the sanctuary collection in
+[[The Freewill Offering]].
 
 **The festival law reverses the direction of giving.** Exodus 3:21 promises that Israel will leave
 Egypt supplied; Exodus 23:15 requires that worshippers not appear before God empty. The latter
@@ -84,7 +87,16 @@ plunder prediction or that its offering is specifically Egyptian silver. See
 The first of the two later uses of gold is now ingested in [[The Golden Calf]]. Aaron collects
 earrings from the people and makes the image (32:2–4). Reading this as misuse of wealth obtained
 in Egypt remains an inference from the surrounding story: this scene does not identify the donors
-of each piece. The sanctuary’s gold offering is still to be enacted in chapter 35.
+of each piece. The sanctuary’s gold offering is now ingested in [[The Freewill Offering]].
+
+### The offering now brought — Exodus 35:1–29
+
+[[The Freewill Offering]] now narrates the gold jewelry and other materials actually brought
+(35:22–29). The Egyptian gifts in 12:35–36 remain a plausible source in the book's sequence,
+but 35:22 does not identify their provenance. Nor is this the gold of the destroyed calf
+recovered: 32:20 supplies no such recovery. See [[Gold for the Calf and Gold for the Sanctuary]].
+
+Source: the cited verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

@@ -197,7 +197,18 @@ rather than making the commands a private possession.
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+Moses assembles all the congregation and transmits Yahweh's commands (35:1, 4); the final verse
+credits the commanded work to Yahweh through Moses (35:29). His mediation now makes shared work
+possible. The willing people respond to a communicated instruction, rather than receiving an
+independent design or watching Moses manufacture the sanctuary alone.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Moses brings the mountain instructions to the whole assembly.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Moses moves between divine speech and public instruction.
 

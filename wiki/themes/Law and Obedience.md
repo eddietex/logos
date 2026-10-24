@@ -196,7 +196,18 @@ Approach and hearing are narrated here; subsequent compliance is not yet reporte
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+The commands relayed in 35:1, 4, 10, and 29 frame the people's willing response. Voluntariness
+concerns the contributions; it does not make the design or the Sabbath optional. The spinning and
+giving are narrated acts of response, while the whole sanctuary's completion still lies ahead.
+See [[As God Commanded, So He Did - The Obedience Formula]].
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; A commanded design is supported by freely given contributions.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The received commands are delivered to all Israel.
 

@@ -64,7 +64,18 @@ Their clothing is part of the workers' commission in 31:6–11.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The freewill offering — Exodus 35:1–29
+
+Exodus 35:19 includes Aaron's sons collectively in the public commission to make priestly
+garments. The individual identification comes from 28:1, not from a personal name in this
+verse. The people's offerings support the holy garments (35:21), but no action by this son,
+completed vesting, or ordination is reported here.
+
+See [[The Freewill Offering]].
+
 ## Timeline / key events
+
+- Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
 
 - Born to Aaron and [[Elisheba]], the first of four sons — Exodus 6:23,
   [[The Heads of the Fathers' Houses]]
@@ -78,6 +89,8 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Included collectively among the sons whose garments are commissioned (35:19).
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; included collectively among Aaron's
   sons whose garments will be made (31:10).

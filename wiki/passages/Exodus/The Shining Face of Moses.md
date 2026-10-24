@@ -73,6 +73,8 @@ Exodus 33 supplies nearby context, but these verses do not identify a building.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; the ascent, proclamation, and replacement tablets.
 - [[The Golden Calf]] — Exodus 32:15–19; the earlier descent ends with broken tablets.
 - [[Show Me Your Glory]] — Exodus 33:7–23; recurring encounter and the limit on sight.
@@ -136,3 +138,11 @@ comparisons use the stored Exodus text. The WEB of 2 Corinthians 3:1–18, Matth
 Mark 9:2–8, and Luke 9:28–36 was verified directly through bible-api.com with
 `translation=web` on 2026-10-24. No later book was added to raw, and no exact Hebrew or Greek
 wording claim is made. The planned boundary is retained: exactly Exodus 34:29–35 is ingested.
+
+### The offering brought — Exodus 35:1–29
+
+The relay of commands in 34:32–35 leads into Moses' assembly in 35:1–29: rest, the sanctuary
+commission, and the willing response. The new unit adds no description of the radiance's
+duration or of Moses' veil while he addresses this particular assembly.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

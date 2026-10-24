@@ -14614,3 +14614,63 @@ book pages remain the expected baseline. `git diff --check` is clean. Raw source
 skill instructions, harness, and controller files are unchanged. The motive for Exodus's veil,
 the relation to Paul's interpretation, and the unnamed place of recurring encounter remain
 explicit interpretive limits in their pages; no operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 35.1-29 — The Freewill Offering
+
+Ingested [[The Freewill Offering]] in unattended mode, retaining the planned boundary.
+Exodus advances from **45 / 53** to **46 / 53** pericopes. The passage absorbs the discussion:
+Sabbath before sanctuary work, the fire prohibition and death sanction, the requested materials,
+the public inventory, willing gifts, women's skilled spinning, and the rulers' contributions.
+Exactly one pericope was ingested; Exodus 35:30–36:7 remains unchecked.
+
+### Decisions and tensions
+
+- Retained the Sabbath opening with the appeal and response. The fire command applies throughout
+  the habitations; the text does not narrow it to workshop fires or provide a complete account
+  of existing fires or exceptional cases. No punishment is enacted in this passage.
+- Distinguished the freewill materials from the fixed half-shekel requirement of Exodus 30:11–16.
+  Willing contributions support a commanded design; voluntariness does not make Sabbath optional.
+- Kept the congregation, women spinners, and rulers as collective participants, without inventing
+  named donors. Updated God, Moses, Aaron, and Aaron's four sons; the sons occur collectively in
+  35:19, with individual identification from 28:1. Bezalel and Oholiab are not named in this unit.
+- Kept the Sinai camp under [[Horeb]], identified by narrative continuity rather than a repeated
+  place name. The prescribed sanctuary is still to be made; the outside tent of chapter 33 is
+  not retroactively described as the completed tabernacle.
+- Created [[Gold for the Calf and Gold for the Sanctuary]]. Preserved the contrast between uses
+  of gold while refusing an object-by-object provenance: the text does not identify each gift
+  as Egyptian plunder or jewelry removed at Horeb, and does not recover the destroyed calf's gold.
+  Aaron's continuing priestly assignment is explicit in 35:19; a new pardon or ordination is not.
+- Created [[Willing Hearts - The Sanctuary, the Temple, and the Collection]]. Compared the
+  disposition and organization of giving while distinguishing a sanctuary or temple from relief
+  for people. No direct quotation of Exodus by Paul or source-language identity is asserted.
+- Revised fourteen theme syntheses, five existing connections, and eleven earlier passages.
+  Retired affected stale not-yet-ingested notices, keeping construction and the surplus ahead.
+  No pericope boundary, title, category range, schema, or workflow change was needed.
+
+### Sources and verification
+
+All twenty-nine WEB verses were copied mechanically from `raw/bible/Exodus.md` and checked
+for exact equality, preserving the source's wording in 35:16. Internal comparisons use the
+stored Exodus text. The WEB of 1 Chronicles 29:1–17 and 2 Corinthians 9:1–15 was retrieved
+from bible-api.com with `translation=web` on 2026-10-24; both responses identified World English
+Bible. The web reader could not open the API URLs, while direct HTTPS requests succeeded.
+The connection paraphrases the verified texts. No later book was added to raw, no existing raw
+text was changed, and no new Hebrew or Greek wording claim is made.
+
+### Pages created or revised
+
+- **Created (3):** one passage and two connections.
+- **Existing content pages revised (39):** Exodus; eleven earlier passages; seven people; one
+  place; fourteen themes; five connections.
+- **Bookkeeping revised (11):** top-level and book indexes; all three people subindexes; places
+  and themes indexes; Connections Index A–C, D–H, and T–Z; this log.
+- **Totals by frontmatter type:** 137 passages, 176 people, 90 places, 82 themes, 375 connections;
+  3 books started, 2 complete. Every category page has exactly one index row; alphabetical
+  subindex ranges and order pass. New titles are unique, and every person, place, and theme
+  listed on the passage links back to it. Exactly one queue checkbox changed.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. The scope of later applications
+of the fire rule, the provenance of individual gifts, and the relation between the tent accounts
+remain explicit interpretive limits in their pages; no operational blocker remains.

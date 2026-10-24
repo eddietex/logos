@@ -239,7 +239,18 @@ the priesthood; those conclusions cannot be supplied by his return alone.
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+Exodus 35:19 expressly calls for holy garments for Aaron the priest and garments for his sons.
+His appointment persists in the public instructions after his part in the calf. This is firmer
+evidence of continuing assignment than his presence among the listeners in 34:30–31 alone, but
+it remains neither a new pardon scene nor an account of ordination or priestly action.
+
+See [[The Freewill Offering]].
+
 ## Timeline / key events
+
+- Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
 
 - Exodus 34:29–35 — Fears approaching Moses, then returns with the rulers when called. See [[The Shining Face of Moses]].
 
@@ -288,6 +299,8 @@ See [[The Shining Face of Moses]].
 - Exodus 32 — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Still named as priest in the public garment commission after the calf.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Fears approaching Moses, then returns with the rulers when called.
 

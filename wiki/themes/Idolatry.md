@@ -138,7 +138,19 @@ prostitution language describes allegiance to other gods and does not establish 
 sexual rite. Divine jealousy here concerns exclusive worship (34:14), rather than simply envy of
 another's possessions. See [[The Covenant Renewed]].
 
+### The freewill offering — Exodus 35:1–29
+
+The calf uses collected gold and Aaron's craftsmanship against the commanded way (32:2–8).
+The sanctuary receives donated gold and skilled labor for what Yahweh commanded (35:5, 10, 22,
+29). Material, expense, and enthusiasm alone do not determine the character of worship. This is
+a narrative comparison, not an assertion that every donor's motive is disclosed or that the
+calf's destroyed gold is reused. See [[Gold for the Calf and Gold for the Sanctuary]].
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; The new use of gold and skill contrasts with the condemned calf.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; No cast idols after the calf; treaties, meals, and marriage can
   draw into rival worship.

@@ -1927,7 +1927,18 @@ The people see the mediator's face, not a newly narrated view of God's own.
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+Yahweh's commands reach the congregation through Moses, governing Sabbath, the sanctuary design,
+and the invitation to willing contributors (35:1–10, 29). Gifts are explicitly brought to Yahweh,
+and the materials are for his Tent of Meeting and service (35:21). The holy day's sanction and
+the voluntary offering stand together; neither should be used to erase the other.
+
+See [[The Freewill Offering]].
+
 ## Timeline / key events
+
+- Exodus 35:1–29 — Commands rest and sanctuary work and receives willing contributions. See [[The Freewill Offering]].
 
 - Exodus 34:29–35 — Continues speaking with Moses for instruction to reach Israel. See [[The Shining Face of Moses]].
 
@@ -2179,6 +2190,8 @@ See [[The Shining Face of Moses]].
 - Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Commands rest and sanctuary work and receives willing contributions.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Continues speaking with Moses for instruction to reach Israel.
 

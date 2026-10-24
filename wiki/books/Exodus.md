@@ -41,6 +41,11 @@ covenant's renewal, and the building of the tabernacle in nearly the same words 
 The first half answers the question *Will God deliver?*; the second answers *Can a holy God live
 among this people?* — and the calf, at the hinge, makes the second question urgent.
 
+The building section now begins in [[The Freewill Offering]] (35:1–29). After covenant renewal,
+Moses assembles the people, places rest before sanctuary work, and receives willing gifts of
+materials and skilled labor. The instructions of chapters 25–31 begin to become public action,
+including women's spinning; the completed structure and indwelling glory still lie ahead.
+
 ## Structure
 
 - **1 The oppression** — the sons of Israel listed and the seventy counted, Joseph's generation
@@ -497,7 +502,7 @@ for unit.
 
 ### The tabernacle built (35–40)
 
-- [ ] The Freewill Offering — Exodus 35:1–29
+- [x] [[The Freewill Offering]] — Exodus 35:1–29
 - [ ] Bezalel's Workmen and the Surplus — Exodus 35:30–36:7
 - [ ] The Tabernacle Built — Exodus 36:8–38
 - [ ] The Furnishings Made — Exodus 37:1–29

@@ -124,7 +124,18 @@ See [[The Tent Outside the Camp and the Promised Dwelling]].
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+After covenant rupture and renewal, the people supply materials for the Tent of Meeting and
+its service (35:21). The promised dwelling of 25:8 is being prepared; its construction and filling
+are not yet narrated. The outside meeting tent of 33:7–11 does not become a completed tabernacle
+by being called the Tent of Meeting. See [[The Tent Outside the Camp and the Promised Dwelling]].
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; The promised sanctuary now receives its materials and public commission.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Recurring entry before Yahweh continues before the sanctuary is built.
 

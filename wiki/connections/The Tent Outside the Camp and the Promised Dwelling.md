@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
 
 - [[The Offering for the Sanctuary]] — Exodus 25:8–9; the dwelling among the people prescribed.
@@ -49,6 +51,16 @@ Israel, now with a veil removed and replaced. The nearby tent scene makes a tent
 plausible, but these verses name no structure. They neither report the sanctuary built nor
 settle the historical relationship between the tents. See [[The Shining Face of Moses]];
 Exodus 34:29–35 checked in local WEB.
+
+### The offering now brought — Exodus 35:1–29
+
+[[The Freewill Offering]] names the tabernacle's components as things to make (35:10–19) and
+records materials brought for the Tent of Meeting (35:21). In the final narrative sequence,
+the prescribed sanctuary still awaits construction after the outside tent has already hosted
+encounters in 33:7–11. This strengthens the distinction of narrative stages without settling
+the historical relationship between the two tent descriptions.
+
+Source: the cited verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

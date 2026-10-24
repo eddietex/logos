@@ -100,7 +100,20 @@ plowing and harvest do not excuse continued work (34:21). This applies the comma
 agricultural urgency. Unlike 20:11 and 31:17, this verse does not restate a creation rationale;
 the omission should not be filled with an invented quotation. See [[Creation as the Ground of the Sabbath Command]]. See [[The Covenant Renewed]].
 
+### The freewill offering — Exodus 35:1–29
+
+Moses places the Sabbath command before the sanctuary appeal (35:1–3). The six-day pattern and
+death sanction repeat 31:15, while 35:3 expressly forbids kindling fire throughout the people's
+habitations. Sacred work receives no stated exemption. The wording is broader than a ban only on
+craft furnaces; the passage does not give a detailed account of existing fires or exceptional cases.
+Exodus 16:23's preparation of food beforehand is a useful earlier comparison, not an explanation
+explicitly attached to the fire rule. See [[Creation as the Ground of the Sabbath Command]].
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Rest precedes the public sanctuary commission; kindling fire is forbidden.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Rest required even in plowing and harvest.
 

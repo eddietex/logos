@@ -166,6 +166,8 @@ place to speak from.**
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - Exodus 25:1–9 — the offering, and *"the pattern"* first named: [[The Offering for the Sanctuary]].
 - Exodus 16:33–34 — the manna laid up *"before the Testimony"* before there is an ark:
   [[Manna and Quail]].
@@ -447,3 +449,11 @@ Exodus 25:10, 16–18, 20–22, 29–31, 33, 40; the SBLGNT (MorphGNT) for Acts 
 the flowering of the almond, the origin of *"mercy seat"* in English, and the Jewish reading of 25:10's
 plural are given as standard reports and are qualified where cited. The *y-ʿ-d* / *ʿ-w-d* root analysis is
 the usual one, not checked against a named lexicon.
+
+### The offering brought — Exodus 35:1–29
+
+The ark, its poles, mercy seat, veil, table and vessels, show bread, lampstand, and oil are
+listed publicly among the things the wise-hearted must make or supply (35:12–14). The people
+bring materials, but the making of these furnishings is not completed in this unit.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

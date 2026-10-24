@@ -130,6 +130,8 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 - [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
 
@@ -236,3 +238,11 @@ The tablets given here are broken in chapter 32 and replaced in [[The Covenant R
 stones while God promises the former writing (34:1, 4). The closing writing notices are compared
 separately. The renewed Sabbath instruction also rules out an agricultural exception for plowing
 and harvest (34:21).
+
+### The offering brought — Exodus 35:1–29
+
+Moses publicly frames the work with Sabbath (35:1–3), calls the wise-hearted to make the whole
+inventory (35:10–19), and receives willing contributions and spun yarn (35:20–29). The named
+announcement of Bezalel and Oholiab in 35:30–35 remains the next pericope.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

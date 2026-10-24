@@ -90,6 +90,8 @@ scene.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
@@ -177,3 +179,12 @@ The descent of Exodus 34:29–35 repeats the return with two tablets from 32:15,
 the tablets remain intact and Israel approaches to hear the commands. Aaron is among those
 initially afraid and then recalled (34:30–31). This narrative reversal shows renewed instruction
 without erasing the calf or reporting a separate pardon for Aaron.
+
+### The offering brought — Exodus 35:1–29
+
+Moses now assembles the people for the commanded sanctuary (35:1, 4–19), and willing men and
+women bring gold (35:22). This supplies a contrast to the gathering around Aaron and collection
+for the calf (32:1–4). The destroyed calf's gold is not reported recovered. See
+[[Gold for the Calf and Gold for the Sanctuary]].
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

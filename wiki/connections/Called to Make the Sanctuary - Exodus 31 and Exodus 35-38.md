@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
+
 - [[The Priestly Garments]] — Exodus 28:3; gifted, wise-hearted makers.
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–11; appointment and commission.
 - Exodus 35:30–36:7 — Moses announces the makers, summons the workers, and receives their report of
@@ -41,7 +43,18 @@ without limit. This is a literary and practical connection, not a claim that the
 sanctuary with the six days of creation in every detail.
 
 **Sources:** Exodus 28:3; 31:1–18; 35:1–3, 30–35; 36:1–7; 38:22–23 read in `raw/bible/Exodus.md`.
-Chapters 35–38 remain un-ingested; these comparisons do not advance their queue boxes.
+Exodus 35:1–29 is now ingested; 35:30–38:31 remains ahead. These later comparisons do not
+advance their queue boxes.
+
+### The offering now brought — Exodus 35:1–29
+
+Before the named makers are announced, [[The Freewill Offering]] publicly calls the wise-hearted
+to make the whole inventory and records women's skilled spinning (35:10–19, 25–26). The shared
+labor is already visible in the supply of yarn. This distinguishes actual preparatory work from
+the later making of the whole structure. The public Sabbath frame in 35:1–3 now belongs to an
+ingested passage; the named commissioning and surplus in 35:30–36:7 remain ahead.
+
+Source: the cited verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

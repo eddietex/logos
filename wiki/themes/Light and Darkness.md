@@ -131,7 +131,18 @@ mountain accounts compare readily, but their details differ; see
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+Exodus 35:8, 14, 28 connects the lamp's equipment and oil to the people's offerings. The rulers
+bring oil among their contributions. This supplies the light commanded in 27:20–21; it does not
+report the lamps already lit or assign a symbolic meaning to each lamp. The Sabbath fire rule
+in 35:3 is stated separately, without an explicit treatment here of ongoing sanctuary service.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Oil and lamp equipment are specified, and the rulers bring oil.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Brightness is borne by a person returning from divine speech.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation-grounded Sabbath as covenant
@@ -90,6 +92,16 @@ continues, but each statement has its own emphasis: creation in 20:11, refreshme
 sign in 31:17, and the refusal of an agricultural exception in 34:21.
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
+### The offering now brought — Exodus 35:1–29
+
+[[The Freewill Offering]] opens with the six-day workweek, holy Sabbath, and death sanction
+(35:1–2), followed by the prohibition on kindling fire throughout the habitations (35:3).
+Creation is not restated as the rationale here. The sanctuary appeal follows this command,
+so the building commission has no stated Sabbath exemption. The fire rule is not restricted
+by its wording to workshop fires, and no case of its enforcement is narrated.
+
+Source: the cited verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

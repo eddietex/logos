@@ -184,7 +184,19 @@ must not be empty (34:20). Blood must not be offered with leavened bread; the Pa
 must not remain until morning; first fruits go to Yahweh's house (34:25–26). The chapter
 prescribes these practices without narrating a sacrifice at the renewed ascent. See [[The Covenant Renewed]].
 
+### The freewill offering — Exodus 35:1–29
+
+Exodus 35:5, 21–29 carries out the willing contribution requested in 25:2–7. The gifts include
+materials and the products of skilled hands; no sacrificial animal is killed here. No fixed amount
+is assigned to each donor. This differs from the equal, required half-shekel payment of 30:11–16,
+even though both support the Tent of Meeting. See
+[[Willing Hearts - The Sanctuary, the Temple, and the Collection]].
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Voluntary materials and spun yarn supply the sanctuary.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Offerings required, rival sacrificial meals refused.
 

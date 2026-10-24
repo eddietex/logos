@@ -171,6 +171,8 @@ Leviticus 16:2 will state the restriction on entering within the veil.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - Exodus 25:1–9 — materials, purpose, and pattern: [[The Offering for the Sanctuary]].
 - Exodus 25:10–40 — the objects now assigned their places: [[The Ark, the Table, and the Lampstand]].
 - Genesis 3:24 — cherubim at the guarded approach to the tree of life: [[The Fall]] and
@@ -263,3 +265,11 @@ blockquote layout added. Local WEB comparisons: Genesis 3:24; Exodus 20:4; 24:18
 `translation=web` on 2026-10-23: Leviticus 16:2; Hebrews 9:1–8; 10:19–22; Matthew 27:50–51;
 Mark 15:37–38; Luke 23:44–46. These comparisons do not ingest those units. No new claim about
 exact Hebrew or Greek wording is made in this page.
+
+### The offering brought — Exodus 35:1–29
+
+The public commission lists the tent, coverings, clasps, boards, bars, pillars, sockets, and
+screens (35:11–12, 15, 17–18). Women actually spin colored yarn, linen, and goats' hair
+(35:25–26). This supplies preparatory labor without yet narrating assembly of the structure.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

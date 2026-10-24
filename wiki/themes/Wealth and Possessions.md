@@ -172,7 +172,19 @@ does not say the remaining ornaments are destroyed or deposited as an offering. 
 obedience to a command in the crisis of presence, not payment for grace. See [[Show Me Your Glory]]
 .
 
+### The freewill offering — Exodus 35:1–29
+
+Men and women bring gold ornaments, other metals, textiles, skins, and wood; rulers provide stones,
+spice, and oil (35:22–28). The text specifies donors and materials without tracing each object back
+to Egypt. Gold used for the calf in 32:2–4 is destroyed in 32:20; the offering here must not be
+called that same recovered gold. Jewelry removed in 33:4–6 remains available to give, but the text
+does not explicitly identify those pieces with these. See [[Gold for the Calf and Gold for the Sanctuary]].
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Jewelry becomes a voluntary gift; its provenance remains unstated.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Adornment laid aside after the calf.
 

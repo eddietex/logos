@@ -125,6 +125,8 @@ sacrificial ritual nor the priests' ordination is carried out here.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - Exodus 20:24–26 — [[The Altar and the Hebrew Slave]] and
   [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]]: the different altar provisions.
 - Exodus 25:1–9; 25:31–40; 26:31–37 — [[The Offering for the Sanctuary]],
@@ -203,3 +205,11 @@ Local comparisons read for this pass: Exodus 20:24–26; 25:1–9, 31–40; 26:3
 Leviticus 24:1–4 was verified through bible-api.com, `translation=web`, on 2026-10-23.
 It remains un-ingested; no new raw book was fetched. No new Greek or Hebrew lexical claim
 is made. Unspecified construction details and the relationship of the altar laws remain open.
+
+### The offering brought — Exodus 35:1–29
+
+The altar, its implements, the court hangings, pillars, sockets, screen, pins, and cords enter
+the public inventory (35:16–18). Oil for light is requested and brought (35:8, 14, 28).
+The unit supplies materials for construction and service, not an already operating altar.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

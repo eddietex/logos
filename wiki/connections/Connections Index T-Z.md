@@ -16,7 +16,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
 | [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] | parallel | Exodus 20:1–21 · Deuteronomy 5:1–33 |
-| [[The Tent Outside the Camp and the Promised Dwelling]] | tension | Exodus 25:8–9 · Exodus 29:42–46 · Exodus 33:3, 7–17 · Exodus 40:1–2, 16–17, 34–35 · Exodus 34:29–35 |
+| [[The Tent Outside the Camp and the Promised Dwelling]] | tension | Exodus 25:8–9 · Exodus 29:42–46 · Exodus 33:3, 7–17 · Exodus 40:1–2, 16–17, 34–35 · Exodus 34:29–35 · Exodus 35:1–29 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
 | [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 · Exodus 23:27 |
 | [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] | thread | Exodus 24:16 · Exodus 25:8–9 · Exodus 29:45–46 · Exodus 40:34–35 · Leviticus 26:11–12 · 1 Kings 8:10–11, 27 · John 1:14 · Revelation 21:3, 22 · Exodus 25:22 · Exodus 26:1–37 · Exodus 27:9–21 — [[The Altar and the Court]] · [[The Ordination of the Priests]] · [[Show Me Your Glory]] (Exodus 33:1–23) |
@@ -84,6 +84,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
+| [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 |
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 · Job 40:2 |
 | [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |
@@ -96,7 +97,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Yes, He Will Be Blessed - The Irrevocable Word]] | thread | Genesis 27:33, 37 · Genesis 9:25–27 · Numbers 23:20; 24:9 · Joshua 9:19–20 · Judges 11:35 · 1 Samuel 15:29 · Isaiah 55:11 · Romans 11:29 |
 | [[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]] | thread | Job 10:8–13 · Job 9:12 · Genesis 2:7; 3:19 · Psalm 119:73 · Psalm 139:13–16 · Isaiah 29:16; 45:9–10; 64:8 · Jeremiah 18:1–6 · Romans 9:20–21 · Job 14:15; 31:15; 33:4, 6 · Ecclesiastes 11:5 · Ezekiel 37:6–8 · Job 23:8–10 |
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
-| [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 · Exodus 23:15 · Exodus 25:2–3 · [[The Golden Calf]] (Exodus 32:2–4) |
+| [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 · Exodus 23:15 · Exodus 25:2–3 · [[The Golden Calf]] (Exodus 32:2–4) · Exodus 35:1–29 |
 | [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]] | quotation | Exodus 22:28 · Acts 23:1–5 · Genesis 12:3 |
 | [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] | parallel | Exodus 23:19 · Exodus 34:26 · Deuteronomy 14:21 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |

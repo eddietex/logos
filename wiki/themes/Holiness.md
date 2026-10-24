@@ -154,7 +154,18 @@ two coverings must not be treated as a single object or rule.
 
 See [[The Shining Face of Moses]].
 
+### The freewill offering — Exodus 35:1–29
+
+The assembly hears the holy Sabbath command before the list of holy-place furnishings and
+holy garments (35:2, 19). Building for holy service does not suspend the distinction of the day.
+Giving materials does not itself complete the construction, anointing, or priestly ordination;
+these are different stages of the narrative.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; A holy day and holy garments belong to one commanded project.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Awe and distinction coexist with an invitation to approach.
 

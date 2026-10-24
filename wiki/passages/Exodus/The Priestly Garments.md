@@ -220,6 +220,8 @@ chapter 39, and the ordination itself is prescribed in chapter 29.
 
 ## Cross-references
 
+- [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
+
 - Exodus 6:23 — [[The Heads of the Fathers' Houses]]: the four sons first named.
 - Exodus 19:6, 22 — [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First Peter 2]]:
   the whole people called a kingdom of priests before one family is appointed.
@@ -325,3 +327,11 @@ Ezra 2:63, Leviticus 10:17, Ezekiel 28:13, Zechariah 14:20–21, and Revelation 
 bible-api.com, `translation=web`, on 2026-10-23. Those books remain un-ingested; no new raw book
 was fetched. The only Hebrew claim on this page, the resolution of 28:37, was added at the next
 ingest from *Miqra according to the Masorah* via Sefaria.
+
+### The offering brought — Exodus 35:1–29
+
+Aaron and his sons' garments are expressly included in the public commission (35:19), and
+the gifts support the holy garments (35:21). The rulers bring the ephod and breastplate stones
+(35:27). After the calf, Aaron remains named as priest; no ordination is performed here.
+
+See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

@@ -133,7 +133,18 @@ to God. Divine writing is promised again (34:1); the final writing notices requi
 distinction discussed in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. Agricultural labor is also bounded: neither plowing nor
 harvest suspends seventh-day rest (34:21). See [[The Covenant Renewed]].
 
+### The freewill offering — Exodus 35:1–29
+
+The summons to make all the prescribed objects (35:10–19) is followed by actual spinning:
+women work with their hands and bring the yarn they have spun (35:25–26). Their labor is part of
+the contribution, alongside donated materials and leaders' gifts. The work is shared before the
+named supervisors are announced in the next unit, and 35:1–3 places its limits at the start.
+
+See [[The Freewill Offering]].
+
 ## Key passages
+
+- [[The Freewill Offering]] — Exodus 35:1–29; Making and giving include the skilled labor of women, bounded by Sabbath.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Human preparation of tablets; agricultural work bounded by rest.
 
