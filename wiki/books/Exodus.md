@@ -312,7 +312,13 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   reason: ***"Let them make me a sanctuary, that I may dwell among them"*** (25:8), in the verb
   (*šākan*) just used of the glory on Sinai; and the standard, *"the pattern"* (*tabnît*) that God
   shows Moses, *"even so you shall make it"* (25:9). The Septuagint has *"I will be seen among you"*
-  (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dwelling of God]].
+  (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dwelling of God]]. **The design then
+  starts at the centre** (25:10–40): the ark, a gold-covered chest for *"the testimony"*, with its gold
+  *kappōret*, the *"mercy seat"*, and two cherubim, and God's promise *"There I will meet with you"*
+  from between them (25:22); the table for *"bread of the presence … before me always"* (25:30); and a
+  lampstand of hammered gold shaped like an almond tree with seven lamps. *"See that you make them
+  after their pattern, which has been shown to you on the mountain"* (25:40) is the verse Hebrews 8:5
+  quotes. See [[The Ark, the Table, and the Lampstand]].
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
   by, the second tablets, and the shining face.
 - **35–40 The tabernacle built** — the offering, the work, the inventory, and the glory filling the
@@ -386,7 +392,7 @@ for unit.
 ### The tabernacle instructions (25–31)
 
 - [x] [[The Offering for the Sanctuary]] — Exodus 25:1–9
-- [ ] The Ark, the Table, and the Lampstand — Exodus 25:10–40
+- [x] [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40
 - [ ] The Tabernacle Curtains and Frames — Exodus 26:1–37
 - [ ] The Altar and the Court — Exodus 27:1–21
 - [ ] The Priestly Garments — Exodus 28:1–43

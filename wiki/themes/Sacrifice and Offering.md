@@ -255,6 +255,10 @@ leaders eat and drink before God at 24:11. See [[The Blood of the Covenant]] and
 - [[The Offering for the Sanctuary]] — Exodus 25:1–7; ***tərûmâ***, *a contribution set apart*, its first occurrence
   in Scripture (MAM search, Genesis–Exodus 25), **taken only from *"everyone whose heart makes him willing"*** —
   no amount, no compulsion; materials for the sanctuary rather than an animal for the altar
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:17, 29–30; the *kappōret* (the place of atonement in Leviticus 16), bowls *"to pour
+  out offerings with"*, and the *"bread of the presence … before me always"*. See
+  [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] and
+  [[The Bread of the Presence - David's Hunger and Matthew 12]]
 
 ## Related themes
 

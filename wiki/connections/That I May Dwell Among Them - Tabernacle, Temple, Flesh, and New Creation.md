@@ -10,6 +10,8 @@ tags: [connection]
 - **Exodus 24:16** — *"Yahweh's glory settled on Mount Sinai"* — [[The Blood of the Covenant]]
 - **Exodus 25:8–9** — *"Let them make me a sanctuary, that I may dwell among them. According to all
   that I show you, the pattern of the tabernacle …"* — [[The Offering for the Sanctuary]]
+- **Exodus 25:22** — *"There I will meet with you, and I will tell you from above the mercy seat, from
+  between the two cherubim"* — [[The Ark, the Table, and the Lampstand]]
 - **Exodus 29:45–46** — *"I will dwell among the children of Israel, and will be their God. … who
   brought them out of the land of Egypt, that I might dwell among them"* *(not yet ingested)*
 - **Exodus 40:34–35** — *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the
@@ -34,7 +36,8 @@ tags: [connection]
 *wəšākantî bətôkām*, *I will dwell in their midst* (MAM), and the next verse names the structure
 ***miškān***, *dwelling place* (25:9; MAM). At 29:45 the same verb, *wəšākantî bətôk bənê yiśrāʾēl*, is
 joined to the covenant formula: *"and will be their God"* (MAM). **The mountain the people could not
-touch becomes a tent they camp around.**
+touch becomes a tent they camp around.** Its first furniture is a place to speak from: *"There I will
+meet with you"* (*wənôʿadtî*, 25:22; MAM), over the ark. The dwelling's first function is speech.
 
 **Leviticus puts the tent and the formula together.** *"I will set my tent (miškānî) among you"*
 (26:11; MAM), followed by *"I will walk among you, and will be your God, and you will be my people"*

@@ -408,6 +408,8 @@ which covenant of mine they broke"* (WEB; *not yet ingested*). See [[The Blood o
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–31; the covenant people's obligations to the vulnerable, and holiness
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; no covenant with the peoples or their gods.
 - [[The Blood of the Covenant]] — Exodus 24:1–18; the Sinai covenant ratified by writing, reading, assent, blood, and a meal.
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–22; the ark built to hold *"the testimony"* (*ʿēdut*), the tablets not yet given
+  (31:18), and named for it, *"the ark of the testimony"* (25:22)
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

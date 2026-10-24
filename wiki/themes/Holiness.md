@@ -112,6 +112,8 @@ holy place, and most holy place — though Exodus 24 does not draw the compariso
 - [[The Offering for the Sanctuary]] — Exodus 25:8; ***"Let them make me a sanctuary"*** — *miqdāš*, its second
   occurrence in Scripture after the Song of the Sea (15:17; MAM search, Genesis–Exodus 25). **The holy place
   sung about at the sea is now commissioned**, and it is to be built from a freewill offering
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; *"pure gold"* eight times, and an ark whose poles *"shall not be taken from
+  it"* (25:15). It is carried, never handled
 
 ## Related themes
 

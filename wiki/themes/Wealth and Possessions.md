@@ -308,6 +308,8 @@ See [[Justice, Sabbaths, and Feasts]].
   The text of 25:1–9 does not say where a people just out of slavery got them; the wiki reads them as the
   jewels and clothing asked of the Egyptians (3:22; 12:35), and the same gold is given for the calf first
   (32:2–4). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; *"pure gold"* (*zāhāb ṭāhôr*) eight times, its first occurrences in Scripture
+  (MAM search, Genesis–Exodus 25), and a talent of it for the lampstand alone
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

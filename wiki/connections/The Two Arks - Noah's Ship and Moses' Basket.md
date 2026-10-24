@@ -55,6 +55,13 @@ and in the WEB's English. **The Hebrew is not the same**: Noah's is *kōper* (6:
 ark in name and Babel's tower in material** — the rescue vessel made of what the proud city was made
 of. See [[Come, Let Us - Babel's Bricks and Pharaoh's]].
 
+**The ark of the covenant is a different word, but the instruction echoes Noah's.** The *ʾārôn* of
+Exodus 25 is overlaid with gold *"inside and outside"*, ***mibbayit ûmiḥûṣ*** (25:11). These are the two
+words of Noah's *"inside and outside with pitch"* (Genesis 6:14; both MAM). The lid set on it is the
+*kappōret* (25:17), with the consonants of Noah's *kōper* and *kāpar*. The wiki records the overlaps
+and does not claim a third ark: *tēbâ* is still used of two objects only. See
+[[The Ark, the Table, and the Lampstand]].
+
 **Both arks precede an exodus through water.** Noah's household comes out of the ark into a world
 washed clean; Moses comes out of the river to lead Israel through the *sûp* — the *"reeds"* where
 his basket lay (2:3) are the *yam sûp*, the WEB's *Red Sea* (first named at 10:19; then 13:18; 15:4; see [[The Red Sea]]). **Paul calls that crossing

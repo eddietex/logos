@@ -424,6 +424,18 @@ the mountain"* (quoting 25:40, the next pericope). The offering he collects is n
 where he finally has to stop the people from bringing more (36:6). See
 [[The Offering for the Sanctuary]].
 
+### Promised a meeting place — Exodus 25:10–40
+
+**The ark is designed around a conversation with Moses.** *"There I will meet with you (ləkā, singular),
+and I will tell you from above the mercy seat, from between the two cherubim … all that I command you for
+the children of Israel"* (25:22; MAM). **Moses is to be the one who hears**, at a fixed place, on behalf of
+everyone; Numbers 7:89 shows him doing it *(not yet ingested)*. The chapter closes with the warning
+Hebrews will quote: *"See that you make them after their pattern, which has been shown to you on the
+mountain"* (25:40). The verb *morʾeh* is a passive participle, *being shown* (MAM): **Moses is still
+looking while God speaks.** Hebrews 8:5 and Acts 7:44 both remember him as the man who saw the
+pattern. See [[The Ark, the Table, and the Lampstand]] and
+[[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -525,6 +537,9 @@ where he finally has to stop the people from bringing more (36:6). See
   God; enters the cloud for forty days and forty nights — Exodus 24:1–18, [[The Blood of the Covenant]]
 - Told in the cloud to collect a freewill offering for a sanctuary, and shown the pattern of the tabernacle —
   Exodus 25:1–9, [[The Offering for the Sanctuary]]
+- Given the design of the ark, mercy seat, table, and lampstand; promised that God will meet him and speak
+  from between the cherubim; warned to make them *"after their pattern"* — Exodus 25:10–40,
+  [[The Ark, the Table, and the Lampstand]]
 
 ## Appears in
 
@@ -611,6 +626,8 @@ where he finally has to stop the people from bringing more (36:6). See
   *"Moses entered into the middle of the cloud"*
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; **the one shown the pattern.** *"According to all that I
   show you"* — singular, to Moses alone
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; **the one God will meet.** *"There I will meet with
+  you"*; *"the pattern, which has been shown to you on the mountain"*
 
 ## Related people
 

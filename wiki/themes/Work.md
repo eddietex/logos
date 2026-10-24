@@ -217,6 +217,9 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[Laws of Property and Restitution]] — Exodus 22:10–15; a keeper's liability limited to what he could prevent
 - [[The Offering for the Sanctuary]] — Exodus 25:9; **work to a pattern.** *"According to all that I show you … even
   so you shall make it"* — the materials are given freely, the design is not; the craftsmen are named at 31:1–11
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:18, 31, 36, 40; **hammered work, of one piece.** *Miqšâ*, beaten from one block of
+  gold, and *"See that you make them after their pattern"*: craft held to a design the craftsman did not
+  make
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -38,6 +38,12 @@ Second, the tree of knowledge is never mentioned again after 3:11. Only the tree
 guarded, only the tree of life has a sequel, and the whole canon's return route runs past the
 cherubim posted here.
 
+**The cherubim come back in Exodus 25, over the ark** (25:18–22), and the next object described is a
+gold lampstand with branches, buds, and almond blossoms (25:31–36). Many readers take the lampstand as
+a stylized tree, inside a sanctuary guarded by cherubim, and so as an echo of Eden. Exodus does not
+call it a tree. The wiki records the reading as a reading; see
+[[The Ark, the Table, and the Lampstand]] and [[Cherubim]].
+
 **Revelation 2:7** reopens it as a promise: *"To him who overcomes I will give to eat from the
 tree of life, which is in the Paradise of God."* Note *paradeisos*, the Septuagint's word for the
 garden of Genesis 2:8.

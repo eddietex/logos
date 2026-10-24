@@ -272,7 +272,9 @@ and the walking in the cool of the day.
   doorways, and they will next appear worked in gold over the ark and woven into the tabernacle
   curtains (Exodus 25:18–22, 26:1) — stationed, again, at the boundary of a holy place. Together
   with the eastward entrance and the *"cultivate and keep"* of 2:15, they are a main reason many
-  readers take the garden to be the first sanctuary.
+  readers take the garden to be the first sanctuary. The verb that *"placed"* them is *wayyaškēn*, the
+  hiphil of *šākan*, *to dwell* (MAM) — the verb of Exodus 25:8. See [[Cherubim]] and
+  [[The Ark, the Table, and the Lampstand]].
 - **East is the direction of exile in Genesis.** They are driven out to the east of the garden;
   Cain settles east of Eden (4:16); Babel is built in a plain in the east (11:2); Lot picks the
   eastern plain and loses it (13:11). Movement back toward the promise runs the other way.

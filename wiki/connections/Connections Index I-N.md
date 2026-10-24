@@ -60,6 +60,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] | thread | Genesis 41:8, 24 · Exodus 7:11–12, 22 · Exodus 8:7, 18–19 · Exodus 9:11 · Daniel 1:20 · Daniel 2:2, 10–11 · Isaiah 19:11–14 · Isaiah 47:12–13 · 2 Timothy 3:8 |
 | [[A Man in Whom Is the Spirit of God]] | thread | Genesis 1:2 · Genesis 41:38 · Exodus 31:1–5 · Numbers 24:2 · Numbers 27:18 · Judges 3:10; 6:34 · 1 Samuel 16:13–14 · Daniel 4:8–9 · Daniel 5:11–14 · Isaiah 11:2; 61:1 · Luke 4:18–21 · Job 32:8; 33:4 |
 | [[Melchizedek in Psalm 110 and Hebrews]] | typology | Genesis 14:18–20 · Psalm 110:1–4 · Joshua 10:1 · Psalm 76:2 · 11QMelchizedek · Zechariah 6:11–13 · Hebrews 5:5–10; 7:1–28 |
+| [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] | thread | Exodus 25:17–22 · Leviticus 16:2, 14–15 · Numbers 7:89 · Hebrews 9:5 · Romans 3:25 · Genesis 6:14 |
 | [[The Midwives and Rahab - Deceiving the King to Save Life]] | thematic-parallel | Exodus 1:15–21 · Joshua 2:1–7 · Hebrews 11:31 · James 2:25 · Acts 5:29 |
 | [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] | parallel | Genesis 26:12–17 · Exodus 1:7–14 · Genesis 12:10–20 · Genesis 47:27 · Exodus 12:35–36 |
 | [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |

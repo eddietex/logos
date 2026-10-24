@@ -1824,6 +1824,21 @@ MAM), and he says he will live *among them*, not *in it*. He also keeps the desi
 must follow *"the pattern"* (*tabnît*) *"that I show you"* (25:9). The Septuagint has *I will be seen
 among you* in 25:8 (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dwelling of God]].
 
+### He designs a place to speak from — Exodus 25:10–40
+
+**The first object God designs for his dwelling is a chest for his own words.** The ark is to hold *"the
+testimony which I shall give you"* (25:16), the tablets he has promised and not yet given. On it sits
+the *kappōret*, the *"mercy seat"*, with two cherubim of hammered gold, and he says what it is for:
+***"There I will meet with you, and I will tell you from above the mercy seat, from between the two
+cherubim … all that I command you for the children of Israel"*** (25:22). The verb is *yāʿad*, *to meet
+by appointment* (MAM), the root of the *"Tent of Meeting"*. **The ark is a place of speech; nothing in
+the chapter says he is seen there.** The Septuagint has *I will be made known to you from there*
+(Rahlfs). He also asks for bread set *"before me always"* (*ləpānay*, *before my face*, 25:30) and a lamp
+to light the room. Both are things done in his presence, and Exodus does not say he consumes either.
+He ends by insisting on his design: *"See that you make them after their pattern, which has been shown
+to you on the mountain"* (25:40). See [[The Ark, the Table, and the Lampstand]], [[Cherubim]], and
+[[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2058,6 +2073,9 @@ among you* in 25:8 (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dw
   Sinai — [[The Blood of the Covenant]], Exodus 24:1–18
 - Asks for a freewill offering for a sanctuary, *"that I may dwell among them"*, built to a pattern he shows —
   [[The Offering for the Sanctuary]], Exodus 25:1–9
+- Designs the ark, mercy seat, and cherubim, and promises to meet Moses and speak *"from between the two
+  cherubim"*; the table for the bread of the presence; the lampstand — [[The Ark, the Table, and the Lampstand]],
+  Exodus 25:10–40
 
 ## Appears in
 
@@ -2455,6 +2473,9 @@ among you* in 25:8 (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dw
   Mount Sinai"*
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; *"From everyone whose heart makes him willing"*; ***"Let them
   make me a sanctuary, that I may dwell among them"***; *"the pattern"* he shows
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; ***"There I will meet with you, and I will tell
+  you from above the mercy seat, from between the two cherubim"***; bread *"before me always"*; *"the pattern,
+  which has been shown to you on the mountain"*
 
 ## Related people
 

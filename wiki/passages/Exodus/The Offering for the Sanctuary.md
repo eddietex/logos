@@ -101,8 +101,9 @@ in the middle of the camp.**
   ingested)*.
 - Exodus 29:45–46; 40:34–35 — *"I will dwell among the children of Israel"*; the glory fills the
   tabernacle *(not yet ingested)*: [[I Will Take You as My People - The Covenant Formula]].
-- Exodus 25:40; 26:30; Acts 7:44; Hebrews 8:5 — the pattern *"shown to you on the mountain"* *(not yet
-  ingested)*.
+- Exodus 25:40 — the pattern *"shown to you on the mountain"*: [[The Ark, the Table, and the Lampstand]].
+  Exodus 26:30; Acts 7:44; Hebrews 8:5 *(not yet ingested)*:
+  [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
 - Exodus 39:42–43; Genesis 6:22 — *"so they did"*:
   [[As God Commanded, So He Did - The Obedience Formula]].
 - Leviticus 26:11–12; 1 Kings 8:10–11, 27; John 1:14; Revelation 21:3 — God's dwelling among
@@ -231,8 +232,9 @@ copy of a heavenly reality**: the priests on earth *"serve a copy and shadow of 
 even as Moses was warned by God when he was about to make the tabernacle"* (Hebrews 8:5, quoting
 Exodus 25:40). In Acts, Stephen recalls *"the tabernacle of the testimony in the wilderness, even as
 he who spoke to Moses commanded him to make it according to the pattern that he had seen"* (Acts
-7:44). The wiki will treat the pattern texts with 25:40, the verse Hebrews quotes, which closes the
-next pericope.
+7:44). The wiki treats the pattern texts with 25:40, the verse Hebrews quotes, which closes the
+next pericope: see [[The Ark, the Table, and the Lampstand]] and
+[[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
 
 The Septuagint has *paradeigma* for *tabnît* and adds *en tō orei*, *on the mountain*, in 25:9
 (Rahlfs). The Hebrew of 25:9 has no *on the mountain* (MAM); it has the phrase at 25:40.

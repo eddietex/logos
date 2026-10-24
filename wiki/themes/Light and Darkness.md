@@ -212,6 +212,9 @@ the householder does not know. See [[Laws of Property and Restitution]] and
 - [[The Ten Commandments]] — Exodus 20:21; the thick darkness contains God’s presence rather than
   signifying his absence
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; the thief killed before and after sunrise
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:31–40; a lampstand of hammered gold, shaped like an almond tree, with seven lamps to
+  *"give light to the space in front of it"*, in a room with no window. See
+  [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]]
 
 ## Related themes
 

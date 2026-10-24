@@ -13910,3 +13910,80 @@ words given in advance.
 
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
 are the expected baseline. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 25.10-40 — The Ark, the Table, and the Lampstand
+
+Ingested [[The Ark, the Table, and the Lampstand]] in unattended mode, keeping the planned boundary. The MAM
+text marks paragraph breaks after 25:22 and 25:30 and a closed break after 25:40, matching the three
+objects, and 26:1 begins the tent. Exodus moves from 34 to **35 / 53** pericopes. The tabernacle curtains
+and frames (26:1–37) are next.
+
+The passage page holds the discussion. It covers the design starting at the centre; *ʾārôn*, whose only
+earlier use is Joseph's coffin; the ark overlaid *mibbayit ûmiḥûṣ*, Noah's phrase from Genesis 6:14; the
+plural *"They shall make"* at 25:10 only; poles that never come out (1 Kings 8:8; Uzzah); *"the testimony"*
+designed for before it is given; the *kappōret* and its disputed sense, with the Septuagint's
+*hilastērion*; the cherubim, undescribed, and *wayyaškēn* (*šākan*) at Genesis 3:24; *"There I will meet
+with you"* (*yāʿad*) as a place of speech rather than sight; *leḥem pānîm ləpānay*; the almond-tree
+lampstand and its later almonds (Numbers 17; Jeremiah 1); and *"See, and make"* with the Septuagint's
+*typos*.
+
+### Decisions and sources
+
+- **New person page [[Cherubim]]**, following the precedent of [[The Sons of God]] for a class of heavenly
+  beings. It now has two appearances and a third is coming in chapter 26.
+- **New connections:**
+  - [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]], deferred from the last ingest. It
+    records Hebrews' *panta* and aorist participle against Rahlfs' 25:40; the *panta* of LXX 25:9 as a
+    possible source, with other Greek witnesses not checked; and *antitypa* at Hebrews 9:24.
+  - [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]]. Whether Romans 3:25 means
+    *mercy seat* is recorded as disputed.
+  - [[The Bread of the Presence - David's Hunger and Matthew 12]]. Mark 2:26's *"Abiathar"* against 1 Samuel
+    21:1's Ahimelech is recorded as a known difficulty, unresolved; 1 Samuel 22:20 was not fetched.
+  - [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]].
+- **No Bezalel page yet.** He is named only by forward reference (37:1) and will get a page at 31:1–11.
+- [[The Two Arks - Noah's Ship and Moses' Basket]] gains the *mibbayit ûmiḥûṣ* and *kpr* overlaps, and states
+  explicitly that this does not make a third *tēbâ*.
+- [[The Tree of Life - Eden and the New Jerusalem]] gains the lampstand-as-tree reading, labelled as a
+  reading.
+- Forward references to Exodus 25:10–40 now link the passage, in [[Manna and Quail]],
+  [[The Offering for the Sanctuary]], [[The Fall]], [[The Ten Commandments]],
+  [[The Silver Cup and Judah's Plea]], [[Idolatry]], and
+  [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]].
+- **Firsts claimed** rest on a consonant search of the MAM text of Genesis and Exodus 1–25 through Sefaria:
+  *kappōret*, *mənôrâ*, *šulḥān*, *leḥem pānîm*, *miqšâ*, and *zāhāb ṭāhôr* at 25:10–40; *kərûb* in the
+  singular at 25:19, with the plural at Genesis 3:24; *ʾārôn* only at Genesis 50:26 before 25:10; *šāqēd*
+  only at Genesis 43:11.
+- All thirty-one passage verses were generated mechanically from `raw/bible/Exodus.md`.
+- Fetched individually from bible-api.com with `translation=web` on 2026-10-23: Hebrews 8:5; 9:2–5, 11, 24;
+  Acts 6:13; 7:44, 48; Romans 3:25; Leviticus 16:2, 14–15; 24:5–9; Numbers 7:89; 17:8; 1 Samuel 4:4;
+  21:1, 4–6; 2 Samuel 6:6–7; 1 Kings 8:8–9; Psalm 80:1; Jeremiah 1:11–12; Zechariah 4:2–3, 6, 14;
+  Matthew 12:3–8; Mark 2:25–26; Revelation 1:12, 20; 2:5; 11:19. These later units remain un-ingested.
+- **Hebrew** (MAM via Sefaria): Exodus 25:9–40; 16:34; 27:21; Genesis 3:24; 6:14; 43:11; 50:26; Leviticus
+  16:2; 24:6; Numbers 17:23; 1 Samuel 4:4; 21:7; Jeremiah 1:11–12; Zechariah 4:2.
+- **Greek:** the Septuagint (Rahlfs 1935, `eliranwong/LXX-Rahlfs-1935`) for Exodus 25:9–10, 16–18, 20–22,
+  29–31, 33, 40; 26:30; and Zechariah 4:2. The SBLGNT (MorphGNT) for Matthew 12:4; Mark 2:26; Acts 6:13;
+  7:44, 48; Romans 3:25; Hebrews 8:5; 9:2, 4–5, 24; and Revelation 1:12, 20; 11:19.
+- **Standard reports, qualified where cited:** the root of *kappōret*; the cubit and talent; the
+  almond's early flowering; Tyndale and *"mercy seat"*; the Jewish reading of 25:10's plural; and the
+  *y-ʿ-d* / *ʿ-w-d* analysis.
+
+### Pages created or revised
+
+- **Created (6):** the passage; the person [[Cherubim]]; four connections (above).
+- **Existing content pages revised (22):** [[Exodus]]; [[God]] and [[Moses]]; [[Horeb]]; nine themes
+  ([[The Dwelling of God]], [[Mediation and Advocacy]], [[Covenant]], [[Holiness]],
+  [[Sacrifice and Offering]], [[Light and Darkness]], [[Work]], [[Wealth and Possessions]], [[Idolatry]]);
+  four connections ([[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]],
+  [[The Two Arks - Noah's Ship and Moses' Basket]],
+  [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]],
+  [[The Tree of Life - Eden and the New Jerusalem]]); and five passages ([[The Offering for the Sanctuary]],
+  [[Manna and Quail]], [[The Fall]], [[The Ten Commandments]], [[The Silver Cup and Judah's Plea]]).
+- **Bookkeeping revised (11):** the book and top-level indexes; people A–E and F–M; places; themes;
+  connection subindexes A–C, I–N, O–S, and T–Z; and this log.
+- **Subindex sizes:** connections are 62, 77, 69, 61, and 85. T–Z is the largest but not yet half again
+  the smallest, so no range change.
+- **Totals by frontmatter type:** 126 passages, 170 people, 90 places, 81 themes, 354 connections;
+  3 books started, 2 complete. No passage title collision was found.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
+are the expected baseline. No schema, skill, harness, or controller files were changed.

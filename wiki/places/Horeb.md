@@ -143,6 +143,9 @@ MAM). **The tabernacle is designed on Horeb to take the mountain's presence on t
   God's Mountain"*; *"Yahweh's glory settled on Mount Sinai"*
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; setting by context; **where the dwelling is designed.** God
   asks for an offering and shows Moses *"the pattern of the tabernacle"*
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; setting by context; **the mountain where the
+  pattern is shown.** *"See that you make them after their pattern, which has been shown to you on the
+  mountain"* (25:40)
 
 ## Related places
 
@@ -177,3 +180,5 @@ MAM). **The tabernacle is designed on Horeb to take the mountain's presence on t
   Exodus 24:1–18, [[The Blood of the Covenant]]
 - The offering for the sanctuary asked for, and the pattern of the tabernacle shown to Moses — Exodus 25:1–9,
   [[The Offering for the Sanctuary]]
+- The ark, table, and lampstand designed, and the pattern located *"on the mountain"* — Exodus 25:10–40,
+  [[The Ark, the Table, and the Lampstand]]

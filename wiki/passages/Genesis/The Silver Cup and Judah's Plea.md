@@ -99,7 +99,7 @@ are this.**
 ***Gābîaʿ*** (44:2, 12, 16, 17) **is not the ordinary drinking cup.** The *kôs* that
 [[The Chief Cupbearer]] presses into Pharaoh's hand at 40:11 is a different noun; *gābîaʿ* is a
 **goblet or bowl**, the word Exodus will use for the almond-shaped cups of the lampstand (Exodus
-25:31–34). **The English *cup* in both places invites a link the Hebrew does not make.**
+25:31–34; [[The Ark, the Table, and the Lampstand]]). **The English *cup* in both places invites a link the Hebrew does not make.**
 
 ***Naḥēš yənaḥēš*** — *"he indeed divines"* (44:5), *"such a man as I can indeed divine"* (44:15) —
 **is the same root as [[Laban]]'s *niḥaštî* at 30:27, and Genesis contains no other occurrence.** It

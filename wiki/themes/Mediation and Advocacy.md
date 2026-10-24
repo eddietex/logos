@@ -339,6 +339,8 @@ yet ingested*). See [[The Blood of the Covenant]].
   where it will not
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; a guide to be obeyed, who does not pardon.
 - [[The Blood of the Covenant]] — Exodus 24:1–18; Moses alone comes near, relays, writes, reads, and sprinkles
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:22; ***"There I will meet with you"*** — a fixed meeting place, *"from between the two
+  cherubim"*, where God speaks to one man *"all that I command you for the children of Israel"*
 
 ## Related themes
 

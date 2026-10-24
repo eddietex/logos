@@ -582,7 +582,7 @@ translation of Exodus (reported, not checked in this pass).
 
 ***"Before the Testimony"*** — ***lipnê hāʿēdut***. **The first *ʿēdût* in Scripture** (WLC lemma search,
 Genesis–Exodus). **The Testimony is the tablets placed in the ark** — *"You shall put the testimony which I shall
-give you into the ark"* (25:16; *not yet ingested*) — **and neither tablets nor ark exist yet.** **The verse
+give you into the ark"* (25:16; [[The Ark, the Table, and the Lampstand]]) — **and neither tablets nor ark exist yet.** **The verse
 is told from after Sinai.** Aaron is not yet a priest, and there is no tent to lay anything up in; *"before
 Yahweh"* (16:33) is followed by an act that could only happen later. **Readers take 16:32–34 as a note placed
 with the manna story by subject rather than by date** (reported, not decided); the wiki records the
@@ -679,7 +679,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - [[The Ten Commandments]] — Exodus 20:8–11; the creation-grounded command makes the household Sabbath duty explicit
 - Exodus 24:16–17 — the glory on Sinai: [[The Blood of the Covenant]]; 40:34–38, in the tabernacle *(not yet
   ingested)*
-- Exodus 25:16 — *"the testimony which I shall give you"* *(not yet ingested)*
+- Exodus 25:16 — *"the testimony which I shall give you"*: [[The Ark, the Table, and the Lampstand]]
 - Numbers 11:4–9, 31–34 — the manna described again; the second quail, and the plague *(not yet ingested)*
 - Numbers 15:32–36 — the man gathering sticks on the Sabbath *(not yet ingested)*
 - Deuteronomy 2:7 — *"You have lacked nothing"* *(not yet ingested)*

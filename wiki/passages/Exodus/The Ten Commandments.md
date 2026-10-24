@@ -158,8 +158,8 @@ complete the public encounter before the altar instructions of 20:22–26, now i
 The prohibition covers other gods, making idols or images, and bowing to or serving them (20:3–5).
 The references to heaven, earth, and water give it a comprehensive scope. The clause must be read
 with its worship setting; this page does not turn it into an unqualified judgment on every kind of
-art. Later sanctuary instructions themselves prescribe cherubim (Exodus 25:18–20, checked in raw), a
-distinction the [[Idolatry]] page retains.
+art. Later sanctuary instructions themselves prescribe cherubim (Exodus 25:18–20, checked in raw; see
+[[The Ark, the Table, and the Lampstand]] and [[Cherubim]]), a distinction the [[Idolatry]] page retains.
 
 God's jealousy accompanies his demand for exclusive allegiance. The warning of judgment on the third
 and fourth generation of those who hate him is paired with loving kindness to thousands of those who

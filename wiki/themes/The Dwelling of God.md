@@ -33,6 +33,14 @@ whole set of instructions (25–31) and, by 29:45–46, of the exodus itself: Go
 the land of Egypt, that I might dwell among them"*. The book ends with the glory filling the
 *miškān* (40:34–35). *(29:45–46 and 40:34–35 are not yet ingested.)*
 
+**What fills the dwelling is designed first.** Before any tent, God describes the ark, the table, and the
+lampstand (25:10–40). The ark is where he will *meet* Moses and *speak* (*wənôʿadtî*, *I will meet by
+appointment*, 25:22; MAM), and the bread is *"before me always"* (25:30). **On this account, God dwelling
+among his people means God present to speak, with bread and light kept before him.** Exodus says nothing
+there about his being seen; the Septuagint has *I will be made known to you* at 25:22 (Rahlfs). The
+cherubim over the ark are the second cherubim in Scripture. The first were stationed (*wayyaškēn*, the
+hiphil of *šākan*; MAM) to guard Eden (Genesis 3:24). See [[Cherubim]].
+
 **Ahead** (by reference, *not yet ingested*; quoted from the WEB as fetched individually):
 
 - Leviticus 26:11–12 — *"I will set my tent among you … I will walk among you, and will be your God,
@@ -56,6 +64,10 @@ of God living in a place is a common explanation, not something the text states.
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; ***"Let them make me a sanctuary, that I may dwell
   among them"*** (25:8); the first *miškān* in Scripture (25:9); materials given only by the willing,
   and a pattern shown by God
+- [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; **the furniture of the dwelling, designed from the centre outward.** The ark
+  holds *"the testimony"*; above it, *"There I will meet with you … from between the two cherubim"* (25:22);
+  bread *"before me always"* (25:30); seven lamps. The first thing designed for God's house is a place for
+  him to speak from
 
 ## Related themes
 

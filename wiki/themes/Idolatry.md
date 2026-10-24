@@ -80,7 +80,8 @@ The reserve of Genesis gives way to explicit prohibition: Israel is to have no o
 idol or image, and neither bow to nor serve them (20:3–5). God describes himself as jealous and
 joins the warning across generations to loving kindness for those who love him and keep his commands
 (20:5–6). **Scope needs care:** the image prohibition stands in a worship context, while the same
-book later prescribes cherubim for the ark (25:18–20, checked in raw). Treating this as a ban on
+book later prescribes cherubim for the ark (25:18–20, checked in raw; see [[Cherubim]] and
+[[The Ark, the Table, and the Lampstand]]). Treating this as a ban on
 every representational object would leave that prescription unexplained. See
 [[The Ten Commandments]].
 

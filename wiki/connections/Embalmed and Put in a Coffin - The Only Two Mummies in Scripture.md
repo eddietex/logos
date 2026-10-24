@@ -12,7 +12,7 @@ tags: [connection]
 - **Genesis 50:26** — *"they embalmed him, and he was put in a coffin in Egypt"* — the same pericope
 - **Genesis 23:1–20** — the Hebrew alternative: a cave bought for cash —
   [[Nahor's Line and the Burial of Sarah]]
-- **Exodus 25:10** — the second *ʾārôn* in the Torah
+- **Exodus 25:10** — the second *ʾārôn* in the Torah — [[The Ark, the Table, and the Lampstand]]
 
 ## Analysis
 

@@ -16,6 +16,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
 | [[Abram the Hebrew - The First Use of the Name]] | thread | Genesis 14:13 · Genesis 10:21; 11:14–17 · Genesis 39:14; 40:15; 41:12 · Exodus 1:15–19; 2:6; 3:18 · 1 Samuel 4:6; 13:19; 14:11 · Jonah 1:9 · Joshua 24:2–3 · Philippians 3:5 · Exodus 21:2 |
 | [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 · Exodus 14:5 · Exodus 15:22–27 · Genesis 21:15–19 |
+| [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]] | quotation | Exodus 25:9 · Exodus 25:40 · Exodus 26:30 · Acts 7:44 · Hebrews 8:5 · Hebrews 9:11, 24 |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 · Exodus 20:25 |
 | [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]] | parallel | Exodus 20:24–26 · Deuteronomy 27:5–7 · Joshua 8:30–31 · Exodus 27:1–8 |
@@ -48,6 +49,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
 | [[The Bow in the Cloud]] | thread | Genesis 9:12–17 · Exodus 12:13 · Exodus 16:10 · Psalm 7:12 · Lamentations 2:4 · Habakkuk 3:9, 11 · Ezekiel 1:28 · Isaiah 54:9–10 · Revelation 4:3 · Revelation 10:1 |
 | [[Bread from Heaven - The Manna and John 6]] | typology | Exodus 16:2–35 · Psalm 78:24–25 · Nehemiah 9:15 · John 6:26–58 · 1 Corinthians 10:3 · Hebrews 9:4 · Revelation 2:17 |
+| [[The Bread of the Presence - David's Hunger and Matthew 12]] | thread | Exodus 25:30 · Leviticus 24:5–9 · 1 Samuel 21:1–6 · Matthew 12:3–8 · Mark 2:25–26 · Hebrews 9:2 |
 | [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]] | thread | Job 22:6–9 · Job 4:3–4 · Job 20:19 · Job 24:3, 7–11 · Job 29:12–17 · Job 31:16–22, 31–32 · Exodus 22:22–27 · Deuteronomy 24:6, 10–13, 17 · Isaiah 58:6–7 · Ezekiel 18:5–9, 16 · Matthew 25:35–36, 42–43 · James 2:15–16 |
 | [[A Brother to Jackals - Job 30.29 and the Creatures of the Ruins]] | image | Job 30:29 · Job 30:3–7, 14 · Micah 1:8 · Isaiah 13:21–22 · Isaiah 34:13 · Jeremiah 9:11 · Psalm 44:19 · Psalm 102:6 · Lamentations 4:3 · Isaiah 43:20 · Job 39:13–18 · Job 38:27 |
 | [[Buried at Machpelah - The Six Graves of Genesis]] | parallel | Genesis 23:1–20 · Genesis 25:7–10 · Genesis 49:29–32 · Genesis 50:12–14 · Acts 7:16 |

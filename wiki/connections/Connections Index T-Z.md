@@ -18,7 +18,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] | parallel | Exodus 20:1–21 · Deuteronomy 5:1–33 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
 | [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 · Exodus 23:27 |
-| [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] | thread | Exodus 24:16 · Exodus 25:8–9 · Exodus 29:45–46 · Exodus 40:34–35 · Leviticus 26:11–12 · 1 Kings 8:10–11, 27 · John 1:14 · Revelation 21:3, 22 |
+| [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] | thread | Exodus 24:16 · Exodus 25:8–9 · Exodus 29:45–46 · Exodus 40:34–35 · Leviticus 26:11–12 · 1 Kings 8:10–11, 27 · John 1:14 · Revelation 21:3, 22 · Exodus 25:22 |
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
 | [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |
@@ -32,13 +32,13 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
 | [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] | parallel | Exodus 18:13–27 · Numbers 11:14–17 · Deuteronomy 1:9–18 · Acts 6:2–4 |
-| [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 · Exodus 15:25–26 |
+| [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 · Exodus 15:25–26 · Exodus 25:18–36 |
 | [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 · Exodus 15:25 |
 | [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 |
 | [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 · Exodus 21:12–36 |
-| [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 |
+| [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 · Exodus 25:11, 17 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
 | [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |
 | [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 · Exodus 6:14–27 |
