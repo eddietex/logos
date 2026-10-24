@@ -153,7 +153,17 @@ the camp, far away from it (33:7); the rock and cleft are specified in relation 
 without an independently identifiable site. This does not establish that the cleft is the rock of
 17:6. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Sinai is expressly named when Moses is summoned to the summit and ascends with two new stones
+(34:2, 4). Companions and grazing animals are excluded from the mountain (34:3). Yahweh descends
+in the cloud, and Moses remains forty days and nights (34:5, 28). The existing joint treatment
+of Horeb and Sinai does not locate the mountain more precisely than this narrative permits. See
+[[The Covenant Renewed]].
+
 ## Appears in
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Sinai named as the location of the solitary renewed ascent.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; named in 33:6; the camp, outside tent, and nearby rock
   belong to the mountain setting.
@@ -216,6 +226,8 @@ without an independently identifiable site. This does not establish that the cle
 - [[Massah and Meribah]] — the name given to the place of the water (17:7)
 
 ## Events here
+
+- [[The Covenant Renewed]] — Sinai named as the location of the solitary renewed ascent.
 
 - Laws of justice, shared rest, and feasts received in the continuing address — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
 

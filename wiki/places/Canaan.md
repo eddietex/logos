@@ -107,7 +107,17 @@ peoples to be driven out (33:1–3). Canaan is the contextual destination, altho
 is not used. Moses’ refusal to travel without God makes clear that possession alone is insufficient
 (33:15–16). See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The land's six named peoples are to be driven out, and covenants leading to their worship are
+forbidden (34:11–16). Enlarged borders and security during the annual appearances are promised
+(34:24). Canaan remains the contextual destination rather than the current setting or an
+explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
+
 ## Appears in
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Destination implied by the six peoples, promised land, and
+  treaty warning.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the destination inferred from the land promise and named
   peoples (33:1–3); the country is not named directly.
@@ -295,6 +305,8 @@ is not used. Moses’ refusal to travel without God makes clear that possession 
   outside the land altogether
 
 ## Events here
+
+- [[The Covenant Renewed]] — Destination implied by the six peoples, promised land, and treaty warning.
 
 - The eleven Canaanite peoples spread abroad, and their border is fixed — Genesis 10:18–19,
   [[The Table of Nations]]

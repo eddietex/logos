@@ -109,7 +109,17 @@ wording or a claim that Matthew directly quotes this law. See
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Exodus 34:6–7 describes God as abundant in loving kindness and keeping it for thousands, with
+forgiveness and judgment alongside. The WEB does not add generations after thousands. This
+extends the theme beyond household affection into God's declared character toward a guilty
+people; it makes no claim that the Hebrew term is identical to the ordinary verb for love
+discussed above. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Abundant loving kindness forms part of the divine proclamation.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; help across enmity.
 

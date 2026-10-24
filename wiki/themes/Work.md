@@ -126,7 +126,16 @@ explicitly God’s work (32:16). Alongside the commissioned craft of chapter 31,
 concerns what work serves and who authorizes it. Aaron’s claim that the calf simply appeared
 suppresses the workmanship the narrator reports. See [[The Golden Calf]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Moses cuts the replacement stones (34:4), whereas 32:16 attributed the first tablets themselves
+to God. Divine writing is promised again (34:1); the final writing notices require the
+distinction discussed in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. Agricultural labor is also bounded: neither plowing nor
+harvest suspends seventh-day rest (34:21). See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Human preparation of tablets; agricultural work bounded by rest.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Aaron receives gold and fashions the calf with a tool (32:4); the tablets and their writing are explicitly God’s work (32:16).
 

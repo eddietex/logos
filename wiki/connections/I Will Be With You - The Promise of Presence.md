@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
 
 - Genesis 26:3, 24 — to Isaac, in a famine and at Beersheba
@@ -105,7 +107,7 @@ to ask for bread and clothing.
 **Exodus asks the presence question with one word, *qereb*, *midst*.** *"Is Yahweh among us
 (bəqirbēnû)?"* (17:7); *"my name is in him (bəqirbô)"* of the angel sent ahead (23:21); *"I will not go
 up among you (bəqirbəkā)"* after the calf (33:3); and Moses' *"please let the Lord go among us
-(bəqirbēnû)"* (34:9; all MAM; 33 now in [[Show Me Your Glory]]; 34 *not yet ingested*). The angel
+(bəqirbēnû)"* (34:9; all MAM; 33 now in [[Show Me Your Glory]]; 34 now in [[The Covenant Renewed]]). The angel
 is God's answer to the first question, and Moses' refusal of the angel alone is the book's final form of it. See
 [[The Angel Sent Ahead]] and [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
@@ -119,6 +121,15 @@ Moses refuses departure without God and pleads for the whole nation (33:12–16)
 because Moses has found favor and is known by name (33:17). The promise is gracious, but this
 scene reaches it through threatened withdrawal and mediation. This develops, rather than
 cancels, the earlier promises to the patriarchs.
+
+### The renewal in its narrative setting — Exodus 34
+
+In [[The Covenant Renewed]], Moses again asks for accompaniment, joining it to pardon and the people becoming
+God's inheritance (34:9). The proclamation of mercy supplies the immediate setting of the plea
+(34:6–8), and covenant renewal follows (34:10). Presence is part of a repaired relationship with
+a people still described as stiff-necked, rather than proof that conduct has ceased to matter.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 
@@ -142,7 +153,7 @@ See [[Jacob's Ladder at Bethel]], [[Isaac in Gerar]], [[Covenant]], [[Call and E
 **At Rephidim the promise becomes the people's question.** *"Is Yahweh among us (bəqirbēnû), or not?"* (Exodus
 17:7) is asked in a camp without water, after the cloud, the sea, and the manna, and the narrator counts it as
 a test of God. **The same word returns as a plea**: after the golden calf God says *"I will not go up among
-you"* (33:3), and Moses asks *"please let the Lord go among us (bəqirbēnû)"* (34:9; WLC; *not yet ingested*).
+you"* (33:3), and Moses asks *"please let the Lord go among us (bəqirbēnû)"* (34:9; WLC; [[The Covenant Renewed]]).
 See [[Water from the Rock]].
 
 **The tabernacle is the book's long answer to *"Is Yahweh among us?"*** God's first instruction in the

@@ -125,7 +125,17 @@ seeing glory (33:18). God grants presence while restricting the requested sight 
 answer is neither a total refusal nor an unqualified grant: prayer leads into a revelation whose
 terms God sets. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Moses bows immediately after the proclamation and appeals to favor for presence, pardon, and
+belonging (34:8–9). The prayer answers what God has just revealed rather than beginning a
+conversation in isolation; it broadens this page's opening emphasis on unbidden human address.
+The covenant announcement follows in 34:10. Numbers 14 later makes the proclamation an explicit
+basis for another plea; see [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Worship leads into a renewed plea for the people.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Petition answered with presence and limited revelation.
 

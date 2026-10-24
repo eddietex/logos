@@ -7,9 +7,11 @@ tags: [connection]
 
 ## Passages involved
 
-- **Exodus 20:5–6; 34:6–7** — *"visiting the iniquity of the fathers on the children, on the third and
-  on the fourth generation of those who hate me, and showing loving kindness to thousands"*: the
-  principle stated in the Decalogue and in the self-description at Sinai
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
+- **Exodus 20:5–6** — generational judgment qualified by hatred of God, alongside loving kindness.
+- **Exodus 34:6–7** — forgiveness, refusal to clear the guilty, and generational visitation;
+  the hatred qualification of 20:5 is not repeated in this WEB proclamation.
 - **Deuteronomy 24:16** — *"The fathers shall not be put to death for the children, neither shall the
   children be put to death for the fathers. Every man shall be put to death for his own sin."*: the
   principle refused to human courts
@@ -99,6 +101,23 @@ own.
 Ezekiel 18:19–23 verified 2026-10-23 from bible-api.com's WEB, request `Ezekiel
 18:19-23?translation=web`. The earlier references elsewhere on this page are not newly claimed as
 verified quotations by this ingest.
+
+### The renewal in its narrative setting — Exodus 34
+
+[[The Covenant Renewed]] places the warning inside God's proclamation of forgiveness and character (34:6–7).
+**A wording distinction matters:** the WEB of 20:5 includes the qualification about those who
+hate God; 34:7 does not repeat it, and adds the children's children. The opening combined
+quotation previously obscured this difference and has been separated. Neither passage adds
+generations after thousands in the WEB.
+
+The proclamation's forgiveness and its refusal to clear the guilty stand together. Job 21:19–21
+objects to charging children rather than the wrongdoer; Ezekiel 18:19–23 says the righteous son
+lives and does not bear the father's iniquity. These remain distinct claims in tension.
+Interpreting shared historical consequences differently from personal culpability is possible,
+but Exodus 34:7 does not explicitly make that distinction. Exodus and Job were checked in raw
+WEB; Ezekiel 18:19–23 was rechecked at bible-api.com (`translation=web`) on 2026-10-24.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

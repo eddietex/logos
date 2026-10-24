@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - **Exodus 23:27–33** — terror, confusion, the hornet, *"little by little"*, and the peoples' gods
   as *"a snare"* — [[The Angel Sent Ahead]]
 - **Exodus 34:11–13** — *"I drive out before you"*; *"lest it be for a snare among you"*; break their
-  altars and pillars (WEB; *not yet ingested*)
+  altars and pillars (WEB)
 - **Numbers 33:55** — those left *"will be as pricks in your eyes and as thorns in your sides"*
   (WEB; *not yet ingested*)
 - **Deuteronomy 7:1–5, 20–24** — seven nations; no covenant, no marriages; the hornet; *"little by
@@ -57,6 +59,16 @@ what Israel then did. The texts do not say so outright. They put the two side by
 be heeded (*"listen to his voice"*, 23:21–22). In Judges 2:1–2, *"Yahweh's angel"* comes up to Bochim
 and charges Israel: *"you have not listened to my voice."* The condition of Exodus 23:22 returns, as
 an accusation, in the mouth of the same kind of messenger. See [[The Angel of Yahweh]].
+
+### The renewal in its narrative setting — Exodus 34
+
+[[The Covenant Renewed]] extends the snare warning through treaties, sacrificial meals, and marriage into
+other worship (34:12–16). The six peoples are again named (34:11), and the removal promise is
+joined to security for Israel's land during annual appearances (34:24). Neither the hornet nor a
+timetable for gradual removal is stated in this unit. Those details remain features of the
+earlier speech, not quotations to supply here.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

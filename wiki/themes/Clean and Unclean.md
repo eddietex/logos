@@ -124,7 +124,16 @@ before entering the tent or approaching the altar to serve, *"that they not die"
 ordination washing of 29:4 was once; this washing is repeated at every approach, *"a statute
 forever"* (30:21). See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Exodus 34:26 repeats the young-goat rule immediately after first fruits, as 23:19 did. It
+supplies neither a declaration of uncleanness nor a rationale. Its later placement among food
+rules is compared in [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]]; neither a foreign fertility rite nor a universal
+meat-and-dairy ban should be read into this verse as its explicit explanation. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Goat-and-milk rule repeated without a stated explanation.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the goat and its mother’s milk.
 

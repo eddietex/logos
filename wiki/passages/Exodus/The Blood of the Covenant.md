@@ -141,6 +141,9 @@ says to him there fills the next seven chapters.
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+- [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
 
 - [[The Golden Calf]] — The pledged obedience of Exodus 24:3–8 is contradicted by the calf; the tablets are broken in 32:19.
@@ -295,3 +298,10 @@ seeing God’s face and living (33:20). The elders’ sight in 24:10–11 remain
 tension with that prohibition; distinguishing a manifestation from unrestricted sight is an
 interpretation, not an explanation stated in this chapter. See
 [[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
+
+### The covenant renewed — Exodus 34:1–28
+
+[[The Covenant Renewed]] again joins covenant words, writing, and forty days on the mountain (34:10, 27–28).
+Unlike chapter 24 it narrates neither a fresh public assent nor a blood ceremony, and it
+explicitly adds abstention from bread and water. These are different scenes within the
+continuing covenant story.

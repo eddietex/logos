@@ -14488,3 +14488,70 @@ or Hebrew wording claim was made; the added comparisons and distinctions are bas
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. The interpretive uncertainties
 above remain explicit in the relevant pages; no operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 34.1-28 — The Covenant Renewed
+
+Ingested [[The Covenant Renewed]] in unattended mode, retaining the planned boundary. Exodus
+advances from **43 / 53** to **44 / 53** pericopes. The passage absorbs the discussion: replacement
+tablets, solitary ascent, the proclamation of the name, Moses' prayer, exclusive allegiance,
+renewed calendar and offering obligations, and the forty-day fast. Exactly one pericope was
+ingested; the shining face at Exodus 34:29–35 remains unchecked.
+
+### Decisions and tensions
+
+- God and Moses are the actors. Sinai remains on [[Horeb]], whose page covers both names;
+  [[Egypt]] is recalled, and [[Canaan]] is the contextual destination. The six peoples remain
+  on [[The Nations]] and Canaan. Asherah poles are treated as cult objects in [[Idolatry]],
+  without inventing a personal actor or an archaeological identification.
+- Created [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]] for the later appeal
+  and protest using the proclamation. Numbers explicitly appeals to prior divine speech;
+  Jonah's echo adds relenting and does not reproduce all of Exodus 34:6–7.
+- Created [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. Preserved the promise
+  of divine writing in 34:1, Moses' writing command in 34:27, the pronoun in the WEB's 34:28,
+  and Deuteronomy's explicit divine writer. The relation of the worship laws to the ten
+  commandments remains a stated interpretive question; no source reconstruction is adopted.
+- Kept forgiveness and refusal to clear the guilty together. The generational warning remains
+  explicitly in tension with Job 21:19–21 and Ezekiel 18:19–23. Separated the older combined
+  Exodus quotation in the existing connection: the WEB of 34:7 does not repeat 20:5's hatred
+  qualification, and neither verse supplies generations after thousands.
+- Retained the WEB's feast names, the plowing-and-harvest Sabbath application, land protection
+  during pilgrimage, and the difference between festival fat in 23:18 and the Passover
+  sacrifice in 34:25. The goat-and-milk prohibition remains unexplained by its text. Only the
+  donkey has the neck-breaking alternative; sons must be redeemed, with no price specified here.
+- Qualified the earlier claim that Job deliberately quotes the proclamation; thematic comparison
+  or possible echo does not establish literary dependence. Corrected the Forgiveness page's
+  implication that the Sinai formula excludes human forgiveness, and its misleading placement
+  of pardon language only in Leviticus and later. Qualified the firstborn connection's claim
+  about animal substitutes: Exodus 34 assigns a lamb to the donkey, not expressly to the son.
+- Updated twelve existing connections, seven earlier passages, and all associated entity and
+  theme syntheses and passage lists. Retired affected Exodus 34 future markers. No fasting
+  page was created: this exceptional narrative report is discussed in the passage and the
+  existing forty-days connection, without presenting it as a general command to fast.
+
+### Sources and verification
+
+All ten key-verse quotations were copied mechanically from `raw/bible/Exodus.md` and checked
+for exact equality. Internal comparisons use the stored WEB, including Exodus 20, 23–24,
+31–34 and Job 7:20–21; 9:28; 10:14; 21:19–21. Numbers 14:17–23, Jonah 4:1–3,
+Deuteronomy 10:1–5, and Ezekiel 18:19–23 were verified from bible-api.com with
+`translation=web` on 2026-10-24. The web reader could not open the API URLs; direct HTTPS
+requests succeeded and identified World English Bible. No later book was added to raw.
+No new Greek or Hebrew wording claim is made. Earlier source-language analyses retain their
+existing attribution; the new comparisons and qualifications concern the verified WEB.
+
+### Pages created or revised
+
+- **Created (3):** one passage and two connections.
+- **Existing content pages revised (55):** Exodus; seven earlier passages; two people; three
+  places; thirty themes; twelve connections.
+- **Bookkeeping revised (11):** top-level and book indexes; People Index F–M; places and themes
+  indexes; all five connection subindexes; this log.
+- **Totals by frontmatter type:** 135 passages, 176 people, 90 places, 82 themes, 371 connections;
+  3 books started, 2 complete. Each category page has exactly one index row; alphabetical
+  subindex ranges and order pass. New titles are unique, and the passage's people, places,
+  and themes all link back to it. No index range or schema changed.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. The interpretive uncertainties
+above remain explicit in their pages; no operational blocker remains.

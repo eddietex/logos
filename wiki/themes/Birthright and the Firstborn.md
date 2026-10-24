@@ -65,7 +65,17 @@ day"*. Exodus 13:13, 15 and 34:20 say the sons are redeemed; this verse does not
 recorded, not harmonized, on [[Child Sacrifice and the Redemption of the Firstborn]]. See
 [[Laws of Holiness and Compassion]] and [[The Eighth Day - Circumcision and the Firstborn Given to God]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The firstborn claim is renewed for livestock and sons (34:19–20). A donkey must be redeemed with
+a lamb or have its neck broken; the sons must be redeemed, with no parallel killing alternative.
+This repeats the distinction of 13:13 and supplies the qualification absent from the wording of
+22:29. The texts remain distinguishable without construing 34:20 as permission to sacrifice a
+son. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Firstborn claim repeated with explicit redemption of sons.
 
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; the word's first occurrence, an
   oracle that inverts the order before birth, and a sale closed with an oath

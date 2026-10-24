@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - **Exodus 13:2** — *"Sanctify to me all the firstborn, whatever opens the womb among the children of
   Israel, both of man and of animal. It is mine."* — [[The Consecration of the Firstborn]]
 - **Exodus 13:12–13, 15** — *"you shall set apart to Yahweh all that opens the womb … The males shall be
   Yahweh's … you shall redeem all the firstborn of man among your sons"*; *"all the firstborn of my sons I
   redeem"* — [[The Consecration of the Firstborn]]
 - **Exodus 34:19–20** — the law restated: *"All that opens the womb is mine … You shall redeem all the
-  firstborn of your sons"* *(not yet ingested)*
+  firstborn of your sons"*
 - **Numbers 18:15–16** — *"you shall surely redeem the firstborn of man … from a month old … for five
   shekels of money"* *(not yet ingested)*
 - **Leviticus 12:6–8** — the mother's purification after childbirth: *"a year old lamb for a burnt
@@ -58,6 +60,15 @@ of Israel was claimed because of the night of 12:29, and bought back because God
 sacrificed.** Luke places Jesus inside that law as an infant; Matthew, separately, applies *"Out of Egypt I
 called my son"* to him (Matthew 2:15) — see
 [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]].
+
+### The renewal in its narrative setting — Exodus 34
+
+[[The Covenant Renewed]] repeats the ownership claim and explicitly requires firstborn sons to be redeemed
+(34:19–20). The donkey alone has the alternative of a broken neck. The unit supplies neither a
+price for a son nor a narrated presentation rite. It strengthens the Exodus basis of the later
+comparison while leaving Luke's account and its silences distinct.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

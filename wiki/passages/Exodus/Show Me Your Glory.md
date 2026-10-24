@@ -91,6 +91,9 @@ these instructions and promises, before the narrated passing in 34:5–7.
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+- [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]
+
 - [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]]
 - [[I Will Be With You - The Promise of Presence]]
 - [[They Saw God - Exodus 24, Exodus 33, and John 1.18]]
@@ -143,3 +146,9 @@ All key verses were copied from `raw/bible/Exodus.md` (WEB). Internal comparison
 stored book. Romans 9:14–18 was verified directly at bible-api.com, `translation=web`, on
 2026-10-24; no later book was added to raw. No new Greek or Hebrew wording claim is made.
 The planned boundary is retained: exactly Exodus 33:1–23 is ingested.
+
+### The covenant renewed — Exodus 34:1–28
+
+The passing and proclamation promised in 33:19–23 are narrated in [[The Covenant Renewed]] (34:5–7). Moses
+responds with worship and a renewed plea for presence, pardon, and belonging (34:8–9). The
+description centers on divine character without depicting the face that 33:20 withholds.

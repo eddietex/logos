@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - **Genesis 22:1–19** — God asks for a son as a burnt offering and stops the knife. See
   [[The Binding of Isaac]].
 - **Exodus 4:22–23** — *"Israel is my son, my firstborn … Let my son go, that he may serve me …
@@ -143,6 +145,17 @@ redemption clause makes the worship this page describes a capital offence. The a
 given *"on the eighth day"* (22:30); the text does not say when the son is given, or whether he is
 redeemed. **The wiki still records 22:29 and 13:13 side by side without harmonizing them.** See
 [[Laws of Holiness and Compassion]] and [[The Eighth Day - Circumcision and the Firstborn Given to God]].
+
+### The renewal in its narrative setting — Exodus 34
+
+[[The Covenant Renewed]] again states redemption of every firstborn son (34:20), after the ownership claim
+(34:19). The neck-breaking alternative is supplied for the donkey, not the son. **This also
+qualifies the earlier summary about an animal or payment:** Exodus 34 assigns a lamb to the
+donkey and leaves the son's means of redemption unspecified. It does not itself prescribe an
+animal substitute for a human son. The clause absent at 22:29 is explicit here, and the
+difference between the formulations remains recorded.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

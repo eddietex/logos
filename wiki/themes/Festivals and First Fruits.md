@@ -23,7 +23,7 @@ within the annual cycle: Unleavened Bread, Harvest, and Ingathering, with three 
 the first of the first fruits brought to Yahweh's house (23:14–19). A named house is not yet an
 identified sanctuary site.
 
-**The calendar is repeated with differences.** Exodus 34:18–26, checked in raw but not yet ingested,
+**The calendar is repeated with differences.** Exodus 34:18–26, now in [[The Covenant Renewed]],
 adds a promise of security during the appearances. Deuteronomy 16:1–17, verified WEB but not yet
 ingested, specifies Weeks and Tents, the chosen place, giving according to blessing, and rejoicing
 shared with dependents and vulnerable residents. Its explicit inclusion of women in rejoicing
@@ -40,7 +40,18 @@ Aaron proclaims a feast to Yahweh and the people sacrifice and celebrate before 
 The use of the divine name and familiar festival practices does not authorize the image. This is
 an improvised feast in the narrative, not another commanded annual festival. See [[The Golden Calf]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Unleavened Bread remembers the departure from Egypt in Abib (34:18); Weeks concerns wheat first
+fruits, and the year-end feast is called harvest in this WEB text (34:22). The seasonal
+descriptions distinguish the observances without changing the translation to match 23:16. The
+three annual male appearances receive a promise that no one will desire Israel's land during the
+journey (34:23–24). Passover and first-fruits rules follow (34:25–26). See [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]]. See
+[[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Calendar renewed with protected land during pilgrimage.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Aaron proclaims a feast to Yahweh and the people sacrifice and celebrate before the calf (32:5–6).
 

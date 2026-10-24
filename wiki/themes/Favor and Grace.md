@@ -70,7 +70,7 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   fullest and then argues that the destination is too far. The wiki notes that Genesis reports this
   without irony, and that 19:16 has already given the same event a different name: *"Yahweh being
   merciful to him"*. See [[The Destruction of Sodom and Gomorrah]].
-- **Exodus 33:12–17; 34:6–7** (33 in [[Show Me Your Glory]]; 34 not yet ingested) — the theological
+- **Exodus 33:12–17; 34:6–7** (33 in [[Show Me Your Glory]]; 34 in [[The Covenant Renewed]]) — the theological
   centre of the word in the Old
   Testament. Moses asks on the strength of *"you have found favor in my sight"*, and receives the
   self-description Israel quotes for the rest of Scripture: *"Yahweh, Yahweh, a merciful and
@@ -101,7 +101,18 @@ standing to ask that God accompany the whole people, rather than separate his ow
 theirs. God then declares that grace and mercy are his to give (33:19). This is neither a payment
 for jewelry surrendered nor a denial that Moses’ intercession matters. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+God proclaims himself gracious (34:6), and Moses immediately appeals to favor in God's sight for
+the benefit of the people (34:9). The request acknowledges their stiff-neckedness and includes
+Moses in the plea for pardon. Grace therefore cannot be reduced to a reward for their
+established compliance, even though the renewed covenant requires obedience (34:11–27). See
+[[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Personal favor becomes an appeal for presence, pardon, and
+  belonging.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Personal favor becomes an appeal for the people.
 

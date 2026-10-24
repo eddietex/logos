@@ -123,7 +123,18 @@ commitment stated in an encounter after communal sin, without any description of
 Romans 9:15–16 cites this speech to Moses in its argument about God’s mercy; see
 [[For This Very Purpose - Exodus 9.16 in Romans 9.17]]. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The promise of mercy in 33:19 becomes a proclamation of character in 34:6–7. Mercy, grace,
+patience, and abundant loving kindness stand alongside forgiveness and refusal to clear the
+guilty. Neither half should displace the other. Moses answers by asking for the people to be
+pardoned and taken as God's inheritance (34:8–9). The later uses in Numbers 14 and Jonah 4 are
+collected in [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Mercy and patience proclaimed with forgiveness and
+  accountability.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Freely given mercy is part of God’s self-disclosure.
 

@@ -128,6 +128,8 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+
 - Exodus 20:8–11, 16 — Sabbath and false testimony developed here: [[The Ten Commandments]].
 - Exodus 22:21, 25–30 — protection of the alien and poor, and the offering of produce:
   [[Laws of Holiness and Compassion]].
@@ -216,3 +218,10 @@ Local comparisons were checked in Exodus 3:21; 12:14–20; 13:3–10; 20:8–11,
 `translation=web`, for Proverbs 25:21–22, Matthew 5:43–48, Romans 12:20–21, Leviticus 25:1–7,
 Deuteronomy 16:1–17, and Deuteronomy 14:21. These later units remain un-ingested. No claim about
 exact Hebrew or Greek wording is made in this ingest.
+
+### The covenant renewed — Exodus 34:1–28
+
+The parallel laws now belong to [[The Covenant Renewed]] (34:18–26). They specify rest during plowing and
+harvest, protection of the land during pilgrimage, and an overnight rule naming the Passover
+sacrifice rather than 23:18's festival fat. The recurring calendar does not erase these
+differences.

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
 
 - [[The Golden Calf]] — Exodus 32:34.
@@ -25,7 +27,7 @@ tags: [connection]
 - **Exodus 33:14–15** — *"My presence will go with you"*; *"If your presence doesn't go with me,
   don't carry us up from here"* (WEB; [[Show Me Your Glory]])
 - **Exodus 34:9** — *"please let the Lord go among us; although this is a stiff-necked people"*
-  (WEB; *not yet ingested*)
+  (WEB)
 
 ## Analysis
 
@@ -64,7 +66,7 @@ between them and adds a delayed punishment to the promise. See [[The Angel of Ya
 Exodus 32:34 now belongs to [[The Golden Calf]]. The promise of guidance survives the calf, but it
 is immediately joined to reserved punishment. The verse supplies neither a declaration of full
 pardon nor an explicit identification of the angel. The negotiation continues in
-[[Show Me Your Glory]] (33:1–23); the covenant renewal of chapter 34 remains ahead.
+[[Show Me Your Glory]] (33:1–23); the covenant renewal follows in [[The Covenant Renewed]].
 
 ### Exodus 33 in its narrative setting
 
@@ -73,7 +75,17 @@ promised while Yahweh refuses to go among a stiff-necked people (33:1–3). Isra
 Moses asks for more than successful travel. He appeals to being known by name, calls the nation
 God’s people, and insists that presence is what distinguishes them (33:12–16). Verse 17 grants
 the request. The narrative does not identify the angel or say that an angel ceases to guide
-once presence is promised. The remaining plea in 34:9 belongs to the next pericope.
+once presence is promised. The plea in 34:9 is now on [[The Covenant Renewed]].
+
+### The renewal in its narrative setting — Exodus 34
+
+[[The Covenant Renewed]] supplies the plea previously anticipated at 34:9. Moses asks the Lord to go among
+the people, pardon their sin, and take them as his inheritance; God announces a covenant in
+response (34:10). The WEB's although acknowledges stiff-neckedness rather than denying it. No
+angel is named in this unit, so the renewal does not settle the identity question retained
+above.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 
@@ -84,6 +96,6 @@ once presence is promised. The remaining plea in 34:9 belongs to the next perico
 - **Genesis 24 is a quiet first instance.** A promise that the narrator never confirms happening
   becomes, in Exodus, a promise the whole book has to argue over.
 - **The angel’s identity remains unsettled.** Exodus 33 now supplies the promise of presence;
-  chapter 34 will carry the narrative forward.
+  [[The Covenant Renewed]] carries the narrative forward.
   The verses from those chapters are quoted from `raw/bible/Exodus.md` and their Hebrew checked in
-  MAM; chapters 32–33 now have passage pages, while chapter 34 remains ahead.
+  MAM; chapters 32–33 and 34:1–28 now have passage pages; 34:29–35 remains ahead.

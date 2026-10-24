@@ -179,7 +179,17 @@ commands and pledged obedience (20:3–5; 24:3–8). Moses breaks the tablets Go
 the narrative makes the material signs of the covenant share the crisis without declaring the
 commands themselves revoked. See [[The Golden Calf]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The covenant announcement leads into commands to observe what God requires (34:10–11), including
+prohibitions, redemption, rest, feasts, and offerings. The mercy proclamation is therefore not
+the suspension of law. Moses must cut stones and write as commanded (34:1, 4, 27); the relation
+between his writing and the divine promise to write is kept explicit in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. See
+[[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Renewal restores obligations and writing after disobedience.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Exodus 32:8 calls the calf a quick departure from the commanded way.
 

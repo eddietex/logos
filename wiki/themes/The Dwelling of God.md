@@ -108,7 +108,16 @@ visible, though God still meets Moses there. The promise of presence in 33:14–
 it does not report that the prescribed tabernacle has already been built. See [[Show Me Your Glory]]
 .
 
+### The covenant renewed — Exodus 34:1–28
+
+The plea that the Lord go among the people (34:9) carries forward the negotiations of chapter
+33. Verse 26 also names the house of Yahweh as the destination of first fruits without
+specifying its site. Neither statement reports the completed sanctuary or the glory filling it;
+the building and indwelling remain later events. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Presence requested again; the promised house is still unbuilt.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; The outside tent and restored promise of presence.
 

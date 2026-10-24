@@ -394,6 +394,16 @@ God grants presence and promises goodness, the proclamation of his name, and a s
 of his back (33:18–23). Direct, friendly speech does not cancel the stated limit on sight.
 The chapter ends before the narrated passing and covenant renewal of chapter 34.
 
+### The covenant renewed — Exodus 34:1–28
+
+[[The Covenant Renewed]] supplies replacement tablets and the promised proclamation of the name.
+Mercy, forgiveness, and judgment stand together (34:5–7); Moses asks for presence, pardon, and
+belonging (34:8–9). God announces a covenant and marvels, rejects rival worship and cast idols,
+and repeats the firstborn, Sabbath, feast, and offering laws (34:10–26). Moses stays forty days
+and nights without bread or water. The writing notices in 34:1, 27–28 and their relation to
+Deuteronomy remain explicit in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]].
+The shining face and descent belong to the next pericope.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -474,7 +484,7 @@ for unit.
 
 - [x] [[The Golden Calf]] — Exodus 32:1–35
 - [x] [[Show Me Your Glory]] — Exodus 33:1–23
-- [ ] The Covenant Renewed — Exodus 34:1–28
+- [x] [[The Covenant Renewed]] — Exodus 34:1–28
 - [ ] The Shining Face of Moses — Exodus 34:29–35
 
 ### The tabernacle built (35–40)

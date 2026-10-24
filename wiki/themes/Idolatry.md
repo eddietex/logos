@@ -129,7 +129,19 @@ prohibitions already given (32:4–8; 20:3–5, 23). Idolatry here includes forb
 Yahweh’s name. The image is destroyed at Sinai; Jeroboam’s later calves are different objects. See
 [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] and [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]]. See [[The Golden Calf]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The renewed covenant expressly prohibits cast idols after the calf episode (34:17; compare 32:4,
+8). Verses 12–16 trace the danger from treaties to sacrificial meals and marriages that draw
+Israel's sons into other worship; altars, pillars, and Asherah poles are to be destroyed. The
+prostitution language describes allegiance to other gods and does not establish a particular
+sexual rite. Divine jealousy here concerns exclusive worship (34:14), rather than simply envy of
+another's possessions. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; No cast idols after the calf; treaties, meals, and marriage can
+  draw into rival worship.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Aaron’s feast is expressly proclaimed to Yahweh, yet the calf and its worship violate the prohibitions already given (32:4–8; 20:3–5, 23).
 

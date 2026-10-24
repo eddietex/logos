@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation-grounded Sabbath as covenant
   sign, with divine refreshment.
 
@@ -79,6 +81,15 @@ that God and people become tired in the same way. Hebrew for 31:17 was read in M
 wayyinnāpaš*); no source-language identity with 23:12 is claimed here. Isaiah 40:28 was verified
 from bible-api.com's WEB on 2026-10-24. See
 [[The Covenant Signs - Rainbow, Circumcision, and Sabbath]].
+
+### The renewal in its narrative setting — Exodus 34
+
+[[The Covenant Renewed]] repeats six days of work and seventh-day rest with an explicit application to
+plowing and harvest (34:21). It adds no creation explanation in that verse. The pattern
+continues, but each statement has its own emphasis: creation in 20:11, refreshment and covenant
+sign in 31:17, and the refusal of an agricultural exception in 34:21.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

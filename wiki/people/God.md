@@ -1909,7 +1909,17 @@ Moses’ appeal (33:14–17), and promises goodness, his name, and mercy with a 
 (33:19–23). Face-to-face speech and the prohibition on seeing his face are both retained, as is the
 contrast with the elders seeing God in 24:10–11. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Yahweh descends in the cloud and proclaims mercy, grace, patience, loving kindness, truth,
+forgiveness, and judgment (34:5–7). The refusal to clear the guilty and the generational warning
+are not removed from the declaration of forgiveness. After Moses' plea he announces a covenant
+and marvels, insists on exclusive worship, and gives the renewed calendar (34:9–26). The name
+Jealous belongs to that exclusive claim (34:14). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
+
 ## Timeline / key events
+
+- Exodus 34:1–28 — Mercy, judgment, covenant renewal, and exclusive allegiance. See [[The Covenant Renewed]].
 
 - Exodus 33 — withdrawal threatened, presence promised, and revelation bounded. [[Show Me Your Glory]]
 
@@ -2157,6 +2167,8 @@ contrast with the elders seeing God in 24:10–11. See [[Show Me Your Glory]].
 - Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Mercy, judgment, covenant renewal, and exclusive allegiance.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; withdrawal threatened, presence promised, and revelation
   bounded.

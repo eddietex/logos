@@ -347,6 +347,8 @@ a festival, not an object. The wiki adopts neither reading.
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+
 - Exodus 23:14–19 — [[Justice, Sabbaths, and Feasts]] and [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] carry the memorial into the annual calendar.
 - Genesis 2:3 — *"made it holy"*, the piel of *qādaš* before this one — [[The Creation of the World]]
 - Genesis 9:12–17; 17:11 — the *ʾôt* in the sky and in the flesh — [[The Bow in the Cloud]],
@@ -406,3 +408,9 @@ a festival, not an object. The wiki adopts neither reading.
   against the SBLGNT (MorphGNT).** Claims about later Jewish practice (the Haggadah, *tefillin*), the
   month name *Nisan*, and *ṭôṭāpōt* outside the Torah are marked at their point as not
   checked in this pass.
+
+### The covenant renewed — Exodus 34:1–28
+
+[[The Covenant Renewed]] repeats the ownership claim and the requirement to redeem firstborn sons (34:19–20),
+including the donkey's redemption-or-death alternative. That alternative still does not apply to
+the son. The earlier rescue remains the calendar's stated ground (34:18).

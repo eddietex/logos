@@ -130,7 +130,18 @@ God’s presence (33:15). Arrival is not an adequate substitute for accompanimen
 qualifies any account in which obtaining territory alone fulfills the purpose of the exodus. See
 [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+God promises to drive out the inhabitants and enlarge the borders, adding that no one will
+desire Israel's land while its males go to appear before him three times yearly (34:11, 23–24).
+Worship and landholding are joined by a promise of security. The text states a future assurance,
+not a report that the people possess the land or that no later invasion will occur under any
+circumstances. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Promised removal and enlarged borders; security during
+  appearances.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Moses refuses the journey without divine accompaniment.
 

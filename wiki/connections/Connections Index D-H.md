@@ -43,7 +43,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] | formula | Job 28:28 · Job 1:1, 8; 2:3 · Job 37:24 · Proverbs 1:7 · Proverbs 9:10 · Proverbs 15:33 · Psalm 111:10 · Ecclesiastes 12:13 · Isaiah 11:2 · Isaiah 33:6 |
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
-| [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[The Golden Calf]] (Exodus 32:15–19) |
+| [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[The Golden Calf]] (Exodus 32:15–19) · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
@@ -54,7 +54,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 · [[Show Me Your Glory]] (Exodus 33:1–23) |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 · Exodus 12:48–49 · Exodus 23:12 |
-| [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]] | motif | Genesis 7:4, 12 · Exodus 24:18 · Exodus 34:28 · Deuteronomy 9:9–11 · 1 Kings 19:8 · Matthew 4:2 |
+| [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]] | motif | Genesis 7:4, 12 · Exodus 24:18 · Exodus 34:28 · Deuteronomy 9:9–11 · 1 Kings 19:8 · Matthew 4:2 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] | law-and-narrative | Genesis 44:8–10, 16–17 · Exodus 22:3–4 · Exodus 21:16 |
 | [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 · Galatians 3:17 |
 | [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] | law-and-narrative | Exodus 22:1 · Exodus 22:4 · 2 Samuel 12:5–6 · Luke 19:8 · Proverbs 6:30–31 |
@@ -88,6 +88,6 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |
-| [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]] | quotation | Exodus 13:2, 12–15 · Exodus 13:9 · Exodus 34:19–20 · Leviticus 12:6–8 · Numbers 18:15–16 · Luke 2:22–24, 39 |
+| [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]] | quotation | Exodus 13:2, 12–15 · Exodus 13:9 · Exodus 34:19–20 · Leviticus 12:6–8 · Numbers 18:15–16 · Luke 2:22–24, 39 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] | quotation | Exodus 20:12 · Deuteronomy 5:16 · Ephesians 6:1–3 |
 | [[The Hope of Resurrection in the Old Testament]] | thread | Job 7:9 · Job 14:7–14 · Job 19:25–27 · Psalm 49:15 · Psalm 73:24 · Isaiah 25:8; 26:19 · Ezekiel 37:1–14 · Daniel 12:2–3 · Matthew 22:23–33 · 1 Corinthians 15:12–57 |

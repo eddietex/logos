@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - [[The Passover]] — Exodus 12:14–20, the memorial and Unleavened Bread.
 - [[The Consecration of the Firstborn]] — Exodus 13:3–10, Abib and the remembered departure.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:14–19.
-- Exodus 34:18–26 — the parallel calendar in the covenant renewal; checked in raw, not yet ingested.
+- Exodus 34:18–26 — the parallel calendar in the covenant renewal; checked in raw.
 - Deuteronomy 16:1–17 — Passover, Weeks, and Tents; verified WEB, not yet ingested.
 
 ## Analysis
@@ -43,6 +45,16 @@ resolve it by naming Jerusalem.
 **Sources:** Exodus 12:14–20; 13:3–10; 20:24; 23:14–19; 34:18–26 checked in raw WEB. Deuteronomy
 16:1–17 retrieved from bible-api.com (`translation=web`) on 2026-10-23. Festival comparisons concern
 the verified English texts, not a claim of identical Hebrew vocabulary.
+
+### The renewal in its narrative setting — Exodus 34
+
+The calendar now belongs to [[The Covenant Renewed]]. Its placement after the calf matters: commanded annual
+observances replace neither the exodus memory nor the obligation of exclusive worship. The
+agricultural seasons are also bounded by seventh-day rest even during plowing and harvest
+(34:21), before the pilgrimage and security promise (34:22–24). These are requirements and
+assurances, not a report that Israel has already kept the feasts.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

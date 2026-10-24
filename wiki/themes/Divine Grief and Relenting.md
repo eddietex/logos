@@ -108,7 +108,17 @@ acceptance of Moses’ request (33:14–17). This develops the narrative respons
 in 32:14. Exodus 33 does not itself use the WEB word repented; this page distinguishes the changed
 announced course from an asserted source-language occurrence. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Covenant renewal in 34:10 follows the explicit relenting of 32:14 and the intercession of
+chapter 33. The WEB proclamation in 34:6–7 stresses patience, kindness, forgiveness, and
+judgment without itself using the word relent. Jonah 4:2 includes relenting in its echo of
+divine mercy (WEB verified at bible-api.com, 2026-10-24). The difference matters: Jonah's speech
+is not a verbatim copy of every clause of Exodus. See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Renewal follows relenting; Jonah later joins mercy to relenting.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; The announced course changes in response to intercession.
 

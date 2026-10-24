@@ -137,7 +137,18 @@ Once a year Aaron puts the blood of the sin offering on the horns of the gold in
 (30:10). This is the only blood that touches the altar of incense, on which no animal is offered
 (30:9). See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The prohibition on offering sacrificial blood with leavened bread repeats 23:18, but the next
+sentence specifically names the Passover sacrifice as what must not remain until morning
+(34:25). Exodus 23:18 instead names festival fat. The shared context does not justify replacing
+one text's object with the other's. This is legislation about an offering, not a second
+blood-sprinkling ceremony like 24:8. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Blood-and-leaven prohibition repeated with a Passover overnight
+  rule.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; sacrificial blood and leaven.
 

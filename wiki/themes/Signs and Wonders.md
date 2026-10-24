@@ -67,7 +67,16 @@ Exodus also gives a recurring covenant sign to be observed. See
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Yahweh promises marvels unlike those worked in all the earth or any nation, before the people
+(34:10). Those among whom Israel lives will see his awesome work. The following removal promise
+locates the announcement toward the journey and land; the verse does not enumerate particular
+miracles or identify all of them with the later conquest stories. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Unprecedented marvels promised as covenant renewal begins.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; a sign kept rather than a wonder
   performed.

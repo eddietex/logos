@@ -168,7 +168,16 @@ Moses asks God to remember Abraham, Isaac, and Israel and the sworn offspring an
 (32:13). The people’s attribution of their rescue to the calf (32:4) is a failure to remember the
 deliverer rightly. Psalm 106:21 later explicitly describes forgetting God; see [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]]. See [[The Golden Calf]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The month Abib remains the appointed time for Unleavened Bread because Israel came out of Egypt
+then (34:18). Covenant renewal does not replace that earlier rescue with a different founding
+event. Its memory is given a recurring practice, although the unit does not narrate the feast
+being held. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; The calendar retains the departure from Egypt after the breach.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses asks God to remember Abraham, Isaac, and Israel and the sworn offspring and land promise (32:13).
 

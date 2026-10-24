@@ -395,8 +395,7 @@ assistance to enemies, protection of aliens, rest, and three annual feasts. See
 Moses is not named in the closing promise of the Book of the Covenant; he is its hearer by context
 (20:22; 21:1). The promise of an angel *"before you"* will come back to him after the calf, at 32:34
 and 33:2, and he refuses departure without God’s own presence (33:15; [[Show Me Your Glory]] ); the
-further plea
-at 34:9 remains ahead.
+further plea at 34:9 is now recorded in [[The Covenant Renewed]].
 See [[The Angel Sent Ahead]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
@@ -499,7 +498,18 @@ His further request to see glory is answered with a promise of goodness and merc
 sight (33:18–23). His access does not make him exempt from the danger described in 33:20. See
 [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Moses cuts the new stones and ascends Sinai alone (34:1–4). On hearing the proclamation he bows,
+then asks for presence, pardon, and the people to be God's inheritance (34:8–9). He is commanded
+to write and remains forty days and nights without bread or water (34:27–28). The last writing
+notice must be read beside God's promise to write in 34:1; the possible subjects and relation to
+Deuteronomy are recorded in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. See [[The Covenant Renewed]].
+
 ## Timeline / key events
+
+- Exodus 34:1–28 — Cuts new tablets, ascends alone, worships, intercedes, and fasts. See
+[[The Covenant Renewed]].
 
 - Exodus 33 — the mediator who asks for the people before asking to see glory. [[Show Me Your Glory]]
 
@@ -614,6 +624,9 @@ sight (33:18–23). His access does not make him exempt from the danger describe
 - Exodus 32 — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Cuts new tablets, ascends alone, worships, intercedes, and
+  fasts.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the mediator who asks for the people before asking to see
   glory.

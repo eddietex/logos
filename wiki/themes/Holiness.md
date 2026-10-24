@@ -137,7 +137,16 @@ tension. The outside tent and protected cleft embody restricted approach, while 
 the distinguishing mark of the people (33:16). This is a thematic account of holiness, not a claim
 that the chapter uses a particular Hebrew holiness term. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Moses is summoned alone: no one may accompany him or be seen on the mountain, and the flocks and
+herds must not graze before it (34:2–3). Renewed mercy does not remove the restrictions of
+approach. This develops the boundary around Sinai in 19:12–13 without claiming that the English
+word holy occurs in these instructions. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; The renewed ascent excludes companions and grazing animals.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Dangerous nearness, protected approach, and a distinct people.
 

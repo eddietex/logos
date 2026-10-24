@@ -90,6 +90,9 @@ scene.
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+- [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
 
 - [[The Ten Commandments]] and [[The Altar and the Hebrew Slave]] — the worship and gold image violate Exodus 20:3–5, 23.
@@ -158,3 +161,10 @@ The next scene is [[Show Me Your Glory]] (33:1–23). The angel and the land oat
 Yahweh initially refuses to go among Israel. Moses’ plea then obtains the promise of presence.
 This develops the unsettled aftermath recorded here without making 32:14 an unconditional
 pardon of every offense.
+
+### The covenant renewed — Exodus 34:1–28
+
+[[The Covenant Renewed]] supplies new tablets after those broken here and renews the ban on cast idols
+(34:1–4, 17). God's proclamation joins forgiveness and judgment (34:6–7), followed by Moses'
+plea for pardon (34:9). Renewal advances the story without retracting the judgments narrated in
+chapter 32.

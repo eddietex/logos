@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - **Genesis 7:4, 12** — *"It rained on the earth forty days and forty nights"* —
   [[Noah and the Flood]]
 - **Exodus 24:18** — *"Moses was on the mountain forty days and forty nights"* —
   [[The Blood of the Covenant]]
 - **Exodus 34:28** — *"He was there with Yahweh forty days and forty nights; he neither ate bread, nor
-  drank water"* (*not yet ingested*)
+  drank water"*
 - **Deuteronomy 9:9–11** — *"I stayed on the mountain forty days and forty nights. I neither ate
   bread nor drank water"* (WEB; *not yet ingested*)
 - **1 Kings 19:8** — Elijah *"went in the strength of that food forty days and forty nights to Horeb,
@@ -38,6 +40,15 @@ the length of the stay.
 **This list is not a concordance.** The occurrences above were read in the WEB; other books may use
 the phrase or the number forty in related ways (forty years in the wilderness, forty days of spying,
 forty days in Jonah). They are left for the passages where they occur.
+
+### The renewal in its narrative setting — Exodus 34
+
+The second forty-day stay is now narrated in [[The Covenant Renewed]] (34:28), after the replacement stones
+are cut and the renewed covenant words given. Abstention from both bread and water is explicit
+here, unlike Exodus 24:18. The duration and fast characterize this encounter; the text does not
+command Israel to imitate the fast or explain its physiological conditions.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

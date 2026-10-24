@@ -127,7 +127,19 @@ already known; this promise connects its proclamation with grace and mercy. Mose
 name (33:12, 17), but the two acts of naming are not interchangeable: personal recognition grounds
 his appeal, while God controls his own disclosure. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Yahweh's name is proclaimed as he descends and passes before Moses (34:5–7), fulfilling the
+promise in 33:19. The content is mercy, grace, patience, loving kindness, truth, forgiveness,
+and judgment. Verse 14 also gives Jealous as a name in the demand to worship no other god. This
+is a further disclosure of the named God's character and claim, not a first revelation of the
+name's existence. The observations concern the WEB, without a new Hebrew etymology. See
+[[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; The known name proclaimed through character; Jealous names
+  exclusive allegiance.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; The known name will be proclaimed with goodness and mercy.
 

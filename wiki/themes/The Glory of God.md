@@ -84,7 +84,18 @@ the name, grace, and mercy (33:19). Glory here cannot be reduced to brightness: 
 includes who God is and how he acts. The face is withheld and a protected glimpse of the back is
 promised (33:20–23); the passing itself is not yet narrated. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+After the request for glory and the promise of goodness and the name (33:18–23), Yahweh descends
+in the cloud, passes before Moses, and proclaims his character (34:5–7). The account records
+speech and worship, not a description of the face previously withheld. Reading this as the
+response to the glory request follows the narrative sequence; it does not mean 34:5–7 supplies a
+visual portrait. Moses' shining face belongs to the next unit (34:29–35). See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; The promised passing is narrated through a proclamation of
+  divine character.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Glory requested; goodness and bounded sight promised.
 

@@ -29,7 +29,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 · Genesis 45:9 |
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |
 | [[Though He Slay Me - The Written and the Read Text of Job 13.15]] | textual-problem | Job 13:13–16 · Job 6:11 · Job 9:33 · Psalm 100:3 · Isaiah 9:3 · Isaiah 63:9 |
-| [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] | parallel | Exodus 12:14–20 · Exodus 13:3–10 · Exodus 23:14–19 · Exodus 34:18–26 · Deuteronomy 16:1–17 |
+| [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] | parallel | Exodus 12:14–20 · Exodus 13:3–10 · Exodus 23:14–19 · Exodus 34:18–26 · Deuteronomy 16:1–17 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
@@ -59,7 +59,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]] | thread | Exodus 28:30 · Leviticus 8:8 · Numbers 27:21 · Deuteronomy 33:8 · 1 Samuel 28:6 · Ezra 2:63 |
 | [[The Veil - Separation in Exodus and Access in Hebrews]] | typology | Exodus 26:31–37 · Leviticus 16:2 · Hebrews 9:1–8 · Hebrews 10:19–22 · Matthew 27:50–51 · Mark 15:37–38 · Luke 23:44–46 |
 | [[The Vine and the Cup]] | thread | Genesis 9:20–21 · Genesis 19:30–38 · Genesis 40:9–11 · Numbers 6:1–4 · Psalm 104:15 · Proverbs 23:29–35 · Isaiah 5:1–7 · Jeremiah 25:15–29 · John 2:1–11 · John 15:1–8 · Matthew 26:27–29 · Ephesians 5:18 · Job 21:20 |
-| [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] | thread | Exodus 20:5–6 · Exodus 34:6–7 · Deuteronomy 24:16 · 2 Kings 14:5–6 · Job 5:4; 8:4; 14:21; 18:19; 20:10; 21:19–21 · Lamentations 5:7 · Jeremiah 31:29–30 · Ezekiel 18:1–4, 19–23 · John 9:1–3 |
+| [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]] | thread | Exodus 20:5–6 · Exodus 34:6–7 · Deuteronomy 24:16 · 2 Kings 14:5–6 · Job 5:4; 8:4; 14:21; 18:19; 20:10; 21:19–21 · Lamentations 5:7 · Jeremiah 31:29–30 · Ezekiel 18:1–4, 19–23 · John 9:1–3 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]] | parallel | Job 37:2–5 · Psalm 29:3–10 · Job 26:14 · Job 40:9 · Exodus 19:16, 19 · John 12:28–29 |
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 · Job 33:14–18 |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
@@ -81,7 +81,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Whoever Sheds Man's Blood]] | thread | Genesis 4:10–15 · Genesis 9:5–6 · Exodus 21:12–14 · Leviticus 24:17–21 · Numbers 35:9–34 · Matthew 26:52 · Romans 13:4 · James 3:9 · Revelation 13:10 · Exodus 21:12–36 |
 | [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Exodus 22:3–4 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
 | [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:12–15 · Exodus 4:12 · Judges 13:17–18 |
-| [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 |
+| [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |
@@ -98,6 +98,6 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] | theological-thread | Genesis 50:20 · Genesis 45:5–8 · Genesis 15:6 · Exodus 1:17–18 · Acts 2:23 · Acts 3:13–15 · Acts 4:27–28 · Romans 8:28 |
 | [[You Shall Not Go Empty-Handed - The Plunder of Egypt]] | prophecy → fulfillment | Genesis 15:14 · Exodus 3:21–22 · Exodus 11:2–3 · Exodus 12:35–36 · Psalm 105:37 · Deuteronomy 15:13–14 · Exodus 23:15 · Exodus 25:2–3 · [[The Golden Calf]] (Exodus 32:2–4) |
 | [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]] | quotation | Exodus 22:28 · Acts 23:1–5 · Genesis 12:3 |
-| [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] | parallel | Exodus 23:19 · Exodus 34:26 · Deuteronomy 14:21 |
+| [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] | parallel | Exodus 23:19 · Exodus 34:26 · Deuteronomy 14:21 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
 | [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 · Genesis 45:3–4, 16 |

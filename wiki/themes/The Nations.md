@@ -103,7 +103,18 @@ compare 23:23). They are peoples, not six individual actors. Moses then asks how
 distinguished from all other peoples and answers with divine accompaniment (33:16), not merely the
 possession of their land. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The Amorite, Canaanite, Hittite, Perizzite, Hivite, and Jebusite are named for removal (34:11).
+The following treaty and marriage warnings specify the risk of being drawn into their sacrifices
+and gods (34:12–16). These commands address Israel's entry into this land; they should not be
+turned without argument into a timeless prohibition of contact with every foreign people. The
+promise is future, not a report of conquest completed. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Six peoples displaced; alliances warned against for their
+  worship consequences.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Six peoples displaced; Israel distinguished by accompaniment.
 

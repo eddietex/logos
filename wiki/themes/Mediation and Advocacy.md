@@ -179,7 +179,17 @@ God agrees because Moses has found favor and is known by name (33:17). Mediation
 presence after the threatened withdrawal; no sacrifice or substitution is performed. See
 [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Moses' privileged encounter leads to a request for the whole people: divine accompaniment,
+pardon of our iniquity and sin, and acceptance as God's inheritance (34:8–9). He does not claim
+Israel has ceased to be stiff-necked. His inclusion of himself expresses solidarity without
+narrating his participation in making the calf. Covenant renewal follows (34:10, 27), and no
+sacrifice or substitution by Moses is performed in this unit. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Moses intercedes in solidarity after receiving the proclamation.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; The favored mediator pleads for shared presence.
 

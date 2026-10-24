@@ -55,9 +55,12 @@ practical.**
 
 - **The Torah makes *nāśāʾ* God's own word.** Exodus 34:6–7 — *"forgiving iniquity, disobedience,
   and sin"* — **uses the same verb and two of the same three nouns as Genesis 50:17.** **The brothers
-  ask Joseph for what the Sinai formula will say only God does.**
-- **A second verb, *sālaḥ*, appears in Leviticus and after and is used of God alone** — no human
-  being in the Hebrew Bible is ever its subject. **The Bible's vocabulary is lopsided on purpose.**
+  ask Joseph for forgiveness that the Sinai formula also attributes to God; Exodus 34:7 does not
+  say that humans cannot forgive.**
+- **The request for pardon is already explicit in Exodus 34:9**, before Leviticus. The earlier
+  wording here placed the discussion only in Leviticus and later; that chronology was misleading.
+  The present comparison concerns the WEB's pardon language, not an independently verified
+  concordance claim about every Hebrew occurrence or subject.
 - **The Day of Atonement makes the lifting literal**: the goat *"shall bear on himself all their
   iniquities"* into the wilderness (Leviticus 16:22), *nāśāʾ* again.
 - **[[Lamech (son of Methushael)]]'s boast of seventy-sevenfold vengeance** (4:24) **is the sentence
@@ -73,7 +76,7 @@ practical.**
 *lift* or *bear* a transgression (*lōʾ yiśśāʾ ləpišʿăkem*; MAM). The warning is not that forgiveness
 is impossible, but that this messenger is not to be treated lightly because he will not overlook
 rebellion. After the calf, Moses asks God himself to *"pardon our iniquity"* with a different verb,
-*sālaḥ* (34:9; MAM; *not yet ingested*). The wiki records the difference in wording and draws no
+*sālaḥ* (34:9; MAM; [[The Covenant Renewed]]). The wiki records the difference in wording and draws no
 further conclusion from it. See [[The Angel Sent Ahead]].
 
 ### The golden calf — Exodus 32
@@ -87,10 +90,22 @@ offense has been pardoned. See [[The Golden Calf]].
 
 The assurance of presence in 33:14–17 advances the recovery after the calf, but is not phrased as a
 blanket declaration of pardon. God’s free mercy in 33:19 and the warning about consuming the people
-in 33:3–5 remain together. The renewed plea for pardon in 34:9 is still ahead. See
+in 33:3–5 remain together. The renewed plea for pardon follows in [[The Covenant Renewed]] (34:9). See
 [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+God's self-description includes forgiveness of iniquity, disobedience, and sin, immediately
+alongside refusal to clear the guilty (34:7). Moses then asks for pardon (34:9), and God
+announces a covenant (34:10). This gives the request a setting of renewed relationship without
+supplying the explicit pardon declaration later found in Numbers 14:20 (WEB verified at
+bible-api.com, 2026-10-24). The statements about forgiveness and accountability remain a tension
+to interpret, not evidence that one sentence is unreal. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Pardon sought after God declares forgiveness without erasing
+  judgment.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Restored presence is not a blanket cancellation of
   consequences.

@@ -235,7 +235,20 @@ God’s refusal to go among Israel is explained as protection against consuming 
 promise of presence (33:17); the chapter does not narrate a new execution or revoke every
 consequence retained in 32:34–35. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Exodus 34:7 places forgiveness and refusal to clear the guilty in one self-description, then
+extends the visitation of iniquity to children and grandchildren. Unlike 20:5, the WEB here does
+not repeat the qualification about those who hate God. **The tension with Job 21:19–21 and
+Ezekiel 18:19–23 remains:** Job demands recompense to the wrongdoer, and Ezekiel refuses to
+charge a righteous son with his father's iniquity. Shared consequences and personal guilt are
+possible distinctions, not an explicit resolution supplied by Exodus 34. See [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]]. See
+[[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Generational judgment remains beside forgiveness in the
+  proclamation.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Withdrawal protects from destruction while remaining a loss.
 

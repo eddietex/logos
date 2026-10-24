@@ -104,7 +104,15 @@ The command to depart recalls the people brought out of Egypt (33:1). Egypt is t
 bondage, not the destination or present setting. The crisis asks whether the delivered people will
 continue with God’s presence, rather than repeat the departure itself. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Egypt appears as the remembered point of departure in the explanation of Unleavened Bread
+(34:18). The month of that departure continues to shape the calendar after the calf and covenant
+renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
+
 ## Appears in
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Departure in Abib remembered in the renewed festival law.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the land from which the people have been brought (33:1).
 
@@ -350,6 +358,8 @@ continue with God’s presence, rather than repeat the departure itself. See [[S
 - [[The Red Sea]] — *yam sûp*, where the west wind throws Egypt's locusts (Exodus 10:19)
 
 ## Events here
+
+- [[The Covenant Renewed]] — Departure in Abib remembered in the renewed festival law.
 
 - Listed among Ham's sons, with seven peoples of its own — Genesis 10:6, 13–14,
   [[The Table of Nations]]

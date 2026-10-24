@@ -130,6 +130,9 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+- [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
+
 - [[The Golden Calf]] — Exodus 32:15–19 carries the newly delivered tablets down the mountain and narrates their breaking.
 
 - Genesis 1:1–2:3; Exodus 20:8–11; 23:12 — [[The Creation of the World]], [[The Ten Commandments]],
@@ -226,3 +229,10 @@ were verified directly through bible-api.com with `translation=web` on 2026-10-2
 passages remain un-ingested; no later book was added to raw. Hebrew for Exodus 31 and Genesis 41:33,
 39 was checked in *Miqra according to the Masorah*, returned by Sefaria's text API on that date. No
 Greek claim is made.
+
+### The covenant renewed — Exodus 34:1–28
+
+The tablets given here are broken in chapter 32 and replaced in [[The Covenant Renewed]]. Moses now cuts the
+stones while God promises the former writing (34:1, 4). The closing writing notices are compared
+separately. The renewed Sabbath instruction also rules out an agricultural exception for plowing
+and harvest (34:21).

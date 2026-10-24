@@ -7,8 +7,10 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:19.
-- Exodus 34:26 — checked in raw WEB, not yet ingested.
+- Exodus 34:26 — checked in raw WEB.
 - Deuteronomy 14:21 — verified WEB, not yet ingested.
 
 ## Analysis
@@ -31,6 +33,15 @@ young animal and its mother's milk, and the different neighboring laws.
 **Sources:** Exodus 23:19 and 34:26 copied or compared in `raw/bible/Exodus.md`; Deuteronomy 14:21
 verified from bible-api.com (`translation=web`) on 2026-10-23. No Hebrew claim or unverified
 ancient-cultural explanation is supplied.
+
+### The renewal in its narrative setting — Exodus 34
+
+In [[The Covenant Renewed]], the rule remains paired with first fruits amid the restored worship requirements
+(34:26). Renewal after the calf changes its narrative setting without adding a reason for the
+prohibition. Its repetition is evidence of continuity with 23:19, not independent evidence for a
+reconstructed foreign rite.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

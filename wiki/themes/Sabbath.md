@@ -93,7 +93,16 @@ interpretation; neither wording should be erased. See
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The covenant renewed — Exodus 34:1–28
+
+The six-day work pattern and seventh-day rest are repeated with an explicit seasonal limit:
+plowing and harvest do not excuse continued work (34:21). This applies the command to
+agricultural urgency. Unlike 20:11 and 31:17, this verse does not restate a creation rationale;
+the omission should not be filled with an invented quotation. See [[Creation as the Ground of the Sabbath Command]]. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Rest required even in plowing and harvest.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the covenant sign and its sanction.
 

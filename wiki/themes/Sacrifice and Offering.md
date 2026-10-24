@@ -177,7 +177,16 @@ The feast at the calf includes burnt offerings and peace offerings (32:6), categ
 at the covenant ratification (24:5). Familiar rites do not by themselves make the worship
 faithful. Neither the offerings nor the feast prevent the indictment of 32:7–8. See [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]]. See [[The Golden Calf]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Sacrificial meals can draw the people into other worship (34:15), while appearance before Yahweh
+must not be empty (34:20). Blood must not be offered with leavened bread; the Passover sacrifice
+must not remain until morning; first fruits go to Yahweh's house (34:25–26). The chapter
+prescribes these practices without narrating a sacrifice at the renewed ascent. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Offerings required, rival sacrificial meals refused.
 
 - [[The Golden Calf]] — Exodus 32:1–35; The feast at the calf includes burnt offerings and peace offerings (32:6), categories already used at the covenant ratification (24:5).
 

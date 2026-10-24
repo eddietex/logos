@@ -131,7 +131,18 @@ to the dowry of virgins"* anyway. The noun is the one Shechem used (*mōhar ûma
 MAM). **The father's consent decides the marriage; the woman's is not mentioned.** See
 [[Laws of Holiness and Compassion]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Exodus 34:15–16 joins covenant with the land's inhabitants, shared sacrifices, and taking their
+daughters for Israel's sons. The stated danger is that the daughters draw the sons into worship
+of their gods. This gives a religious rationale for the marriage warning rather than merely
+treating a foreign origin as self-explanatory. No particular marriage is narrated here. See
+[[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Marriage alliances prohibited in the warning against rival
+  worship.
 
 - [[The Garden of Eden]] — the institution of marriage in 2:18–25
 - [[The Second Test]] — **the bleakest marital exchange in Scripture, and the only conversation

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - [[The Golden Calf]] — Exodus 32:15–19.
 
 - **Exodus 8:19** — the magicians, unable to make lice: *"This is God's finger"* —
@@ -80,6 +82,16 @@ In [[The Golden Calf]], both the tablets and their writing are attributed to God
 nevertheless breaks them on seeing the calf and dancing (32:19). Their divine authorship, supplied
 in 31:18 and reaffirmed here, heightens the rupture; the text does not say the writing was
 defective or that the commands ceased to bind.
+
+### The renewal in its narrative setting — Exodus 34
+
+In [[The Covenant Renewed]], Moses cuts the replacement stones (34:1, 4), and God promises to write the
+former words (34:1). This differs from 32:16's attribution of the first tablets themselves to
+God. The closing commands and writing notice (34:27–28) require care about the writer and the
+written object; see [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. The WEB of chapter 34 does not repeat the phrase about God's
+finger.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 ## Significance
 

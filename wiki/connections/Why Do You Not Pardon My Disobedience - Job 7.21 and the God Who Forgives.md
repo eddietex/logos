@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant Renewed]] — Exodus 34:1–28.
+
 - **Job 7:20–21** — *"If I have sinned, what do I do to you, you watcher of men? … Why do you not
   pardon my disobedience, and take away my iniquity?"* — *ûmeh lōʾ-tiśśāʾ pišʿî wətaʿăbîr
   ʾet-ʿăwōnî* — [[The Arrows of the Almighty]]
@@ -33,8 +35,8 @@ tags: [connection]
 
 ## Analysis
 
-**Job's last question in his first speech to God is built from the words of God's own
-self-description.** Exodus 34:6–7 is the nearest thing the Hebrew Bible has to a creed — Yahweh's
+**Job's last question in his first speech to God can be compared with God's
+self-description at Sinai.** Exodus 34:6–7 is the nearest thing the Hebrew Bible has to a creed — Yahweh's
 name proclaimed by himself to Moses on Sinai, and quoted or echoed more often than any other text
 about God's character (Numbers 14:18, Nehemiah 9:17, Psalms 86:15, 103:8 and 145:8, Joel 2:13,
 Jonah 4:2, Nahum 1:3). Its central clause is *nōśēʾ ʿāwōn wāpešaʿ wəḥaṭṭāʾâ*: lifting, bearing
@@ -44,7 +46,7 @@ Job 7:21 uses the verb *nāśāʾ* with *pešaʿ*, and pairs it with the hiphil 
 pass*, with *ʿāwōn*. Micah 7:18, the doxology that closes the book of Micah, has the identical pair:
 *nōśēʾ ʿāwōn wəʿōbēr ʿal-pešaʿ*, *who lifts iniquity and passes over disobedience*. **Job's two
 verbs are the two verbs of Israel's praise of the forgiving God.** He is not inventing a theology of
-forgiveness to accuse God with. He is quoting the one God gave.
+forgiveness to accuse God with. A deliberate echo is possible; the shared theological language does not establish it by itself.
 
 **And he asks it as a question, conditionally.** *If* he has sinned (7:20). Job never confesses a
 specific sin in the book, and two verses earlier he has asked his friends to show him one (6:24).
@@ -78,11 +80,29 @@ face*. The friends are the ones whose folly needs forgiving, and Job is the one 
 lifts. The man who asked why God would not *lift* his disobedience ends the book with his face
 lifted and his prayer forgiving others.
 
+### The renewal in its narrative setting — Exodus 34
+
+The proclamation now appears in its narrative setting in [[The Covenant Renewed]]. Moses hears forgiveness
+and judgment declared together, bows, and asks for pardon for the people (34:6–9). Job 7:20–21
+asks why pardon is withheld; 9:28 and 10:14 fear being held guilty. Comparing these verified WEB
+passages shows a real tension in the experience of the forgiving God. **It does not by itself
+establish a deliberate quotation of Exodus by Job or the literary direction of dependence.** The
+earlier assertion that Job is quoting what God gave was too categorical; a possible echo or
+theological comparison is the appropriate claim.
+
+Numbers 14:17–20, by contrast, explicitly frames its appeal as based on what God has spoken. The
+parallel with Jonah's different response is now on [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. These additions compare the
+English WEB: local Exodus and Job, and Numbers 14:17–23 and Jonah 4:1–3 verified at
+bible-api.com on 2026-10-24. They do not independently reverify the older Hebrew analyses
+elsewhere on this page.
+
+Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
 ## Significance
 
-- **Job argues from the creed, not against it.** His complaints are often read as unbelief. 7:21 is
-  a theological argument from Israel's most quoted confession about God, and it shows Job expecting
-  God to be the God Exodus 34 describes. His protest is the gap between that God and what is
+- **Job's question can be read alongside the proclamation.** His complaints are often read as unbelief. 7:21 is
+  a theological argument from Israel's most quoted confession about God, and it can be read as expecting
+  God to act in the forgiving way Exodus 34 describes. His protest is the gap between that God and what is
   happening to him.
 - **It exposes a limit of the retribution framework that both sides of the dialogue use.** If
   suffering is penalty, the remedy is forgiveness, and a forgiving God should have granted it. The

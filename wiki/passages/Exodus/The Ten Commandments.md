@@ -113,6 +113,9 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
+- [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
+
 - [[The Golden Calf]] — Exodus 32:4–8 narrates the forbidden image and worship shortly after the people heard the commands.
 
 - Exodus 23:1–12 — [[Justice, Sabbaths, and Feasts]] develops truthful testimony and shared Sabbath rest.
@@ -228,3 +231,11 @@ comparisons were checked against bible-api.com's World English Bible on 2026-10-
 connection pages identify their requests. Hebrews 12 retains the verification recorded in its
 existing connection. No new exact Greek or Hebrew claim is made, and no additional raw book was
 fetched.
+
+### The covenant renewed — Exodus 34:1–28
+
+[[The Covenant Renewed]] promises restoration of the former tablet words (34:1), while the closing reference
+to ten commandments follows a collection emphasizing worship (34:10–28). The continuity claim
+and difference in immediate legal context are retained in the replacement-tablets connection.
+The generational warning of 34:7 does not repeat 20:5's qualification about those who hate God
+in the WEB.

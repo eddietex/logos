@@ -163,7 +163,17 @@ them (33:3, 5). The problem left by the calf is thus more than the existence of 
 has been destroyed, but a resistant people still needs mercy and mediation. See
 [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Moses asks pardon for our iniquity and sin while acknowledging the people's stiff-neckedness
+(34:9). This confession follows the proclamation that God forgives iniquity, disobedience, and
+sin (34:7). The sequence distinguishes an offered basis for appeal from a claim that the calf
+was harmless or that the people now need no further obedience. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; The mediator acknowledges continuing sin beneath covenant
+  renewal.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; The destroyed image leaves an unresolved resistant people.
 

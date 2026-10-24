@@ -82,7 +82,17 @@ See [[Israel at Mount Sinai]].
 - **James 2:14–26** — 15:6 quoted for the opposite conclusion, with Genesis 22 as the works that
   complete it. The New Testament argues with itself over one verse, using that verse.
 
+### The covenant renewed — Exodus 34:1–28
+
+The assurance that no one will desire the land while Israel's males appear before God (34:24)
+makes the commanded journey possible without treating their presence at home as the only
+security. Reading this as a summons to trust is a thematic inference from the promise and
+command, not a claim that the verse uses a Hebrew word for faith. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Land security during pilgrimage requires reliance on the
+  promise.
 
 - [[The Covenant Between the Pieces]] — Genesis 15:6, the word's first occurrence and the theme's
   founding text; and 15:8, the request for a sign that the same chapter does not treat as its

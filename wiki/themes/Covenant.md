@@ -196,8 +196,8 @@ See [[Justice, Sabbaths, and Feasts]].
 
 *"You shall make no covenant with them, nor with their gods"* (23:32; *bərît*, MAM). Israel, which
 is about to enter covenant with God (24:7–8; see [[The Blood of the Covenant]]), is forbidden a second covenant with the
-land's peoples. Exodus 34:12–16 will repeat the prohibition and give marriage and shared sacrifice as
-its danger (*not yet ingested*). See [[The Angel Sent Ahead]].
+land's peoples. Exodus 34:12–16 repeats the prohibition and gives marriage and shared sacrifice as
+its danger in [[The Covenant Renewed]]. See [[The Angel Sent Ahead]].
 
 ### The covenant ratified — Exodus 24:1–18
 
@@ -252,7 +252,18 @@ refuses to treat that as sufficient and obtains the promise of presence (33:15�
 and formal renewal belong to chapter 34; chapter 33 should not be labeled a completed covenant
 ceremony. See [[Show Me Your Glory]].
 
+### The covenant renewed — Exodus 34:1–28
+
+God announces a covenant and marvels after Moses asks for pardon (34:9–10). The renewed
+relationship includes exclusive worship, recurring observances, and written terms (34:11–28).
+Unlike 24:3–8, this scene does not narrate another public assent and blood ceremony. The promise
+to restore the former tablet words (34:1) asserts continuity through a real breach; the writing
+notices in 34:27–28 remain in tension and are examined in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; Covenant renewed after the broken tablets; rival treaties
+  forbidden.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; The fathers’ oath survives; presence must be sought.
 

@@ -85,7 +85,16 @@ Exodus 38:25–28 (local WEB) uses it for the tabernacle's silver sockets. See
 [[The Incense Altar, the Ransom, and the Holy Oil]] and
 [[The Half Shekel - Census, Ransom, and the Temple Tax]].
 
+### The covenant renewed — Exodus 34:1–28
+
+Exodus 34:20 repeats redemption of the firstborn donkey with a lamb and redemption of all
+firstborn sons. The neck-breaking alternative belongs to the donkey only. No price for a son is
+specified here. The command follows the claim of divine ownership in 34:19, so redemption
+answers that claim rather than denying it. See [[Child Sacrifice and the Redemption of the Firstborn]]. See [[The Covenant Renewed]].
+
 ## Key passages
+
+- [[The Covenant Renewed]] — Exodus 34:1–28; The donkey has an alternative; the son must be redeemed.
 - Genesis 47:19–23 — Egypt's people *bought* for Pharaoh — [[Joseph and the Famine]]
 - Genesis 48:16 — *"the angel who has redeemed me"* — [[Jacob Blesses Ephraim and Manasseh]]
 - Exodus 6:6 — *"I will redeem you with an outstretched arm"* — [[I Am Yahweh]]
