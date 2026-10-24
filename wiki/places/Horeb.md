@@ -122,6 +122,11 @@ at Sinai. See [[The Altar and the Court]].
 named in the chapter; Sinai is the continuing setting of God's address to Moses in chapters
 24–31. See [[The Priestly Garments]].
 
+**The ordination of the priests is prescribed at the mountain too** (Exodus 29:1–46). The rite is set
+at *"the door of the Tent of Meeting"*, and Numbers 28:6 (verified WEB, not yet ingested) later
+calls the daily offering of 29:38–42 *"a continual burnt offering, which was ordained in Mount
+Sinai"*. See [[The Ordination of the Priests]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -164,6 +169,7 @@ named in the chapter; Sinai is the continuing setting of God's address to Moses 
 
 - [[The Altar and the Court]] — Exodus 27:8; the mountain design governs the altar.
 - [[The Priestly Garments]] — Exodus 28:1–43; the priesthood named and its garments prescribed during Moses' stay on the mountain.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; the ordination and the daily offering prescribed during Moses' stay on the mountain.
 
 ## Related places
 

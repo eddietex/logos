@@ -13,7 +13,7 @@ tags: [connection]
 - **Exodus 25:22** — *"There I will meet with you, and I will tell you from above the mercy seat, from
   between the two cherubim"* — [[The Ark, the Table, and the Lampstand]]
 - **Exodus 29:45–46** — *"I will dwell among the children of Israel, and will be their God. … who
-  brought them out of the land of Egypt, that I might dwell among them"* *(not yet ingested)*
+  brought them out of the land of Egypt, that I might dwell among them"* — [[The Ordination of the Priests]]
 - **Exodus 40:34–35** — *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the
   tabernacle"* *(not yet ingested)*
 - **Leviticus 26:11–12** — *"I will set my tent among you, and my soul won't abhor you. I will walk

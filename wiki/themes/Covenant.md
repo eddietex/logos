@@ -219,6 +219,13 @@ the ark of the testimony and its mercy seat within the veil. This develops the c
 testimony in the ark (25:16, 21); it neither gives the tablets yet nor makes another covenant.
 The covenant's witness will be housed in the innermost space. See [[The Tabernacle Curtains and Frames]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+The covenant formula's first half returns over the tabernacle: *"I will dwell among the children of
+Israel, and will be their God"* (29:45). Exodus 6:7 had joined the formula to the promise of
+deliverance, and 29:45–46 joins it to God's dwelling. See [[The Ordination of the Priests]] and
+[[I Will Take You as My People - The Covenant Formula]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; obligations through the whole year.
@@ -417,6 +424,7 @@ The covenant's witness will be housed in the innermost space. See [[The Tabernac
   (31:18), and named for it, *"the ark of the testimony"* (25:22)
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The ark of the testimony is assigned to the most holy place (26:33–34).
+- [[The Ordination of the Priests]] — Exodus 29:45–46; *"and will be their God"*, the covenant formula joined to the dwelling.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

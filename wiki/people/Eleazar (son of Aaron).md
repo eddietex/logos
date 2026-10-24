@@ -38,6 +38,15 @@ headbands, and linen breeches are prescribed for the sons (28:40–43), and Mose
 and consecrate them (28:41). The ordination is commanded in chapter 29; no service is yet
 narrated. See [[The Priestly Garments]].
 
+### The ordination prescribed — Exodus 29:1–46
+
+Exodus 29 includes Eleazar among *"his sons"* — not by name — who are washed, clothed in
+coats, belts, and headbands, and sprinkled with the altar's blood and the anointing oil with their
+garments (29:4, 8–9, 21). The sons share in laying hands on the offerings, in the blood on the right
+ear, thumb, and big toe, and in the meal of the ram of consecration (29:10, 20, 32). The breast and
+thigh of later peace offerings are assigned to Aaron and his sons *"forever"* (29:28). Only Aaron's
+head receives the poured oil (29:7). See [[The Ordination of the Priests]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the third of four sons — Exodus 6:23
@@ -47,6 +56,7 @@ narrated. See [[The Priestly Garments]].
 
 - Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
 - Exodus 28:1–43 — Named individually for the priest's office; sons' garments prescribed. See [[The Priestly Garments]].
+- Exodus 29:1–46 — Included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil. See [[The Ordination of the Priests]].
 
 ## Appears in
 
@@ -54,6 +64,7 @@ narrated. See [[The Priestly Garments]].
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21).
 - [[The Priestly Garments]] — Exodus 28:1–43; named individually for the priest's office; sons' garments prescribed.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil.
 
 ## Related people
 

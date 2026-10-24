@@ -70,6 +70,13 @@ The holy garments are *"for glory and for beauty"* (Exodus 28:2, 40). The glory 
 the priest by his clothing; the chapter does not tie it to the glory that settled on Sinai
 (24:16–17), and this page does not claim the same Hebrew word is used in both places. See [[The Priestly Garments]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+God promises that *"the place shall be sanctified by my glory"* (29:43). In MAM,
+*wəniqdaš bikḇōdî* has no noun for *place*; the WEB supplies it. The glory that settled on Sinai is promised to make the meeting place
+holy. Leviticus 9:23–24 (verified WEB, not yet ingested) narrates the glory appearing at the end of
+the priests' installation. See [[The Ordination of the Priests]] and [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
+
 ## Key passages
 
 - [[Manna and Quail]] — Exodus 16:7, 10; **the first *kəbôd YHWH* in Scripture.** *"In the morning, then you
@@ -83,6 +90,7 @@ the priest by his clothing; the chapter does not tie it to the glory that settle
   Sinai (24:16) is to *dwell* (*šākan*) among the people, in a *miškān* built to God's pattern (MAM). The
   Septuagint has *"I will be seen among you"* (Rahlfs). See [[The Dwelling of God]]
 - [[The Priestly Garments]] — Exodus 28:1–43; garments *"for glory and for beauty"*.
+- [[The Ordination of the Priests]] — Exodus 29:43; the meeting place *"sanctified by my glory"*.
 
 ## Related themes
 

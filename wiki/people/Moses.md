@@ -455,6 +455,15 @@ to instruct the wise-hearted makers, and later to clothe, anoint, consecrate, an
 priests himself (Exodus 28:1, 3, 41). He is the one who installs the priesthood, though he does
 not wear its garments. See [[The Priestly Garments]].
 
+### The ordination prescribed — Exodus 29:1–46
+
+Moses is the one who performs every act of the ordination: he washes, clothes, and anoints Aaron,
+clothes the sons, kills the animals, applies the blood, waves the portions, and burns the offerings
+(Exodus 29:4–26). The breast of the ram of consecration is *"your portion"* (29:26). He acts as
+priest before a priest exists, and the chapter does not name his office. God promises to meet him at
+the tent's door, *"to speak there to you"* (29:42). See [[The Ordination of the Priests]] and
+[[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -562,6 +571,7 @@ not wear its garments. See [[The Priestly Garments]].
 
 - Exodus 27:1–21 — Receives the altar design and must command Israel to supply lamp oil. See [[The Altar and the Court]].
 - Exodus 28:1–43 — Told to bring Aaron and his sons near, and to clothe and anoint them. See [[The Priestly Garments]].
+- Exodus 29:1–46 — Told to ordain the priests himself, and given the breast of the ram as his portion. See [[The Ordination of the Priests]].
 
 ## Appears in
 
@@ -655,6 +665,7 @@ not wear its garments. See [[The Priestly Garments]].
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Receives the altar design and must command Israel to supply lamp oil.
 - [[The Priestly Garments]] — Exodus 28:1–43; told to bring Aaron and his sons near, and to clothe and anoint them.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; told to ordain the priests himself, and given the breast of the ram as his portion.
 
 ## Related people
 

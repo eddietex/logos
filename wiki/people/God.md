@@ -1861,6 +1861,16 @@ judgment and the iniquity of the holy gifts things Aaron bears *"before Yahweh"*
 may be accepted"* (28:12, 29–30, 38). Twice the text warns that a priest may die if the
 clothing rules are not kept (28:35, 43). See [[The Priestly Garments]].
 
+### He prescribes the ordination, and says why he brought Israel out — Exodus 29:1–46
+
+God prescribes the rite *"to make them holy, to minister to me in the priest's office"* (Exodus
+29:1). He fixes a lamb each morning and evening at the tent's door, *"where I will meet with you, to
+speak there to you"* (29:42). Then he speaks in the first person of what he will do: *"I will
+sanctify the Tent of Meeting and the altar"*, and *"I will dwell among the children of Israel, and
+will be their God"*. Israel will know that he brought them out of Egypt *"that I might dwell among
+them"* (29:44–46). The ordination is placed inside the purpose of the exodus. See
+[[The Ordination of the Priests]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2101,6 +2111,7 @@ clothing rules are not kept (28:35, 43). See [[The Priestly Garments]].
 
 - Exodus 27:1–21 — Commands a portable altar, an enclosed court, and an enduring service of light. See [[The Altar and the Court]].
 - Exodus 28:1–43 — He names a priestly family and clothes it for his presence; the makers are filled with wisdom. See [[The Priestly Garments]].
+- Exodus 29:1–46 — He prescribes the ordination and says he brought Israel out to dwell among them. See [[The Ordination of the Priests]].
 
 ## Appears in
 
@@ -2506,6 +2517,7 @@ clothing rules are not kept (28:35, 43). See [[The Priestly Garments]].
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Commands a portable altar, an enclosed court, and an enduring service of light.
 - [[The Priestly Garments]] — Exodus 28:1–43; He names a priestly family and clothes it for his presence; the makers are filled with wisdom.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; He prescribes the ordination and says he brought Israel out to dwell among them.
 
 ## Related people
 

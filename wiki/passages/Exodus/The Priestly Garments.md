@@ -226,8 +226,8 @@ chapter 39, and the ordination itself is prescribed in chapter 29.
 - Exodus 20:26 — [[The Altar and the Hebrew Slave]] and
   [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]]: nakedness and the altar.
 - Exodus 27:20–21 — [[The Altar and the Court]]: Aaron and his sons already assigned the lamp.
-- Exodus 29; 39:1–31; Leviticus 8:7–9 — ordination, the making of the garments, and the clothing
-  of Aaron. Exodus 39 was read from local WEB; Leviticus 8:7–9 was verified WEB. Neither is
+- Exodus 29 — [[The Ordination of the Priests]]. Exodus 39:1–31; Leviticus 8:7–9 — the making of
+  the garments, and the clothing of Aaron. Exodus 39 was read from local WEB; Leviticus 8:7–9 was verified WEB. Neither is
   ingested yet.
 - Numbers 27:21; Deuteronomy 33:8; 1 Samuel 28:6; Ezra 2:63 —
   [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
@@ -288,9 +288,11 @@ The gold plate reading *"HOLY TO YAHWEH"* is to be *"on Aaron's forehead"* (28:3
 text at 28:37 says it is fastened with blue lace *"on the sash; on the front of the sash"*. The
 parallel construction notice in the same WEB file (Exodus 39:31) fastens it *"on the turban
 above"*, and the WEB of Leviticus 8:9 sets the plate *"on the turban, in front"*. The placement on
-the forehead favors the turban. This page records the discrepancy in the English text as stored;
-the Hebrew of 28:37 was not checked in this pass, so no claim is made about the underlying word.
-The raw text is not altered.
+the forehead favors the turban. **Resolved at the next ingest:** the Hebrew of 28:37, read in
+*Miqra according to the Masorah* via Sefaria, has *ʿal-hammiṣnāpet*, the word the WEB renders
+*"turban"* at 28:4, 28:39, and 29:6. The discrepancy belongs to the WEB's English, not the Hebrew.
+See [[The Ordination of the Priests]], where 29:6 sets *"the holy crown on the turban"*. The raw
+text is not altered.
 
 Aaron *"shall bear the iniquity of the holy things"* that Israel consecrates, *"that they may be
 accepted before Yahweh"* (28:38). The holy gifts themselves can carry iniquity, and the priest
@@ -321,4 +323,5 @@ Local comparisons read for this pass: Exodus 6:23; 19:6; 20:26; 24:5; 27:20–21
 30–31; and Genesis 2:12. Leviticus 8:7–9, Numbers 27:21, Deuteronomy 33:8, 1 Samuel 28:6,
 Ezra 2:63, Leviticus 10:17, Ezekiel 28:13, Zechariah 14:20–21, and Revelation 21:12–14, 19–20 were verified through
 bible-api.com, `translation=web`, on 2026-10-23. Those books remain un-ingested; no new raw book
-was fetched. No Hebrew or Greek lexical claim is made on this page.
+was fetched. The only Hebrew claim on this page, the resolution of 28:37, was added at the next
+ingest from *Miqra according to the Masorah* via Sefaria.

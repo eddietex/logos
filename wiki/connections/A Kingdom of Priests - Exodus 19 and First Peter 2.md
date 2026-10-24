@@ -8,6 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - [[Israel at Mount Sinai]] — Exodus 19:4–6, 21–24.
+- [[The Priestly Garments]] and [[The Ordination of the Priests]] — Exodus 28–29; within the priestly people, one
+  family is named, clothed, and ordained.
 - 1 Peter 2:4–10 — a spiritual house, holy priesthood, and the royal-priestly people; not yet
   ingested.
 

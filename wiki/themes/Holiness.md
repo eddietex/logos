@@ -103,6 +103,15 @@ his forehead reads *"HOLY TO YAHWEH"*, and he bears *"the iniquity of the holy t
 consecrates (28:36–38). Holiness here is dangerous as well as honourable: the bells and the
 breeches are both required so that the priest does *"not die"* (28:35, 43). See [[The Priestly Garments]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+The rite is *"to make them holy"* (29:1). Priests and garments are made holy together (29:21). The
+priests' food is holy and barred to a *"stranger"* (29:33–34). The altar, atoned for seven days,
+becomes *"most holy"* (*qōdeš qodāšîm*, MAM), and *"whatever touches the altar shall be holy"* (29:37).
+God then claims the sanctifying act for himself: *"I will sanctify the Tent of Meeting and the
+altar: Aaron also and his sons I will sanctify"* (29:44). Holiness here spreads by contact, and
+God is its source. See [[The Ordination of the Priests]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -139,6 +148,7 @@ breeches are both required so that the priest does *"not die"* (28:35, 43). See 
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The court and veil distinguish spaces; the lamp is tended outside the veil.
 - [[The Priestly Garments]] — Exodus 28:1–43; holy garments, the plate *"HOLY TO YAHWEH"*, and death warnings at the holy place.
+- [[The Ordination of the Priests]] — Exodus 29:1, 21, 33–37, 43–44; priests, garments, food, and altar made holy; holiness by touch.
 
 ## Related themes
 
@@ -154,4 +164,4 @@ breeches are both required so that the priest does *"not die"* (28:35, 43). See 
 
 - [[Moses]] — the first person told he stands on holy ground
 - [[God]] — whose presence is what makes anything holy
-- [[Aaron]] — *(ahead)* who will wear *"HOLY TO YAHWEH"* on his forehead
+- [[Aaron]] — *(ahead)* who will wear *"HOLY TO YAHWEH"* on his forehead; anointed and made holy with his garments (Exodus 29:7, 21)

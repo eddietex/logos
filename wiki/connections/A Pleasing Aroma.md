@@ -12,7 +12,8 @@ tags: [connection]
 - Genesis 4:3–5 — the first offerings in Scripture, and God's regard for one and not the other
   ([[Cain and Abel]])
 - Exodus 29:18, 25, 41; Leviticus 1:9, 13, 17; 2:2, 9; 3:5; Numbers 15:3 — *rêaḥ nîḥōaḥ* as the
-  standing formula of the sacrificial system, roughly forty times
+  standing formula of the sacrificial system, roughly forty times; its first uses in Exodus are
+  the ordination's burnt offering, consecration portions, and daily lamb ([[The Ordination of the Priests]])
 - Leviticus 26:31 — the threat: *"I will not take delight in the pleasant aroma of your offerings"*
 - 1 Samuel 15:22; Psalm 40:6; 50:8–13; 51:16–17; Isaiah 1:11–14; Hosea 6:6; Amos 5:21–22; Micah
   6:6–8 — the prophetic refusal of sacrifice offered without obedience

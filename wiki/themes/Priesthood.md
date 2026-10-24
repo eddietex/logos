@@ -94,6 +94,16 @@ apart and dressed for service. The high priest's clothing carries the people's n
 judgment, and the iniquity of their holy gifts. The office is defined by what the priest
 *bears* before Yahweh. The ordination is still to come (chapter 29). See [[The Priestly Garments]] and [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+Exodus 29 prescribes how the named family becomes priests: washing, clothing, anointing, three
+offerings, blood on ear, thumb, and toe, a shared meal, and seven days at the tent's door. The
+Hebrew idiom behind *"consecrate"* is *fill the hand* (*ûmillēʾtā yad*, 29:9, MAM). Moses performs the
+rite before any priest exists. The office provides for its own succession, since Aaron's garments
+pass to his sons (29:29–30), and it begins with a sin offering for the priests themselves. Its
+first standing duty is the daily lamb, morning and evening (29:38–42). Leviticus 8 narrates the
+performance. See [[The Ordination of the Priests]] and [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
+
 ## Key passages
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
@@ -158,6 +168,7 @@ judgment, and the iniquity of their holy gifts. The office is defined by what th
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Aaron and his sons receive a lamp duty before their appointment and ordination instructions.
 - [[The Priestly Garments]] — Exodus 28:1–43; Aaron and his four sons named for the priest's office; the high priest bears names, judgment, and iniquity.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; the ordination rite, the priests' portions, succession in the garments, and the daily lamb.
 
 ## Related themes
 

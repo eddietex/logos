@@ -142,6 +142,14 @@ Aaron *"shall bear the iniquity of the holy things"* — iniquity attached to Is
 not only to wrongdoing — *"that they may be accepted"* (Exodus 28:38). The priests themselves
 can *"bear iniquity, and die"* if they approach uncovered (28:43). See [[The Priestly Garments]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+The priests' service begins with a sin offering for themselves (29:10–14). They eat *"those things
+with which atonement was made"* (29:33). Then the altar too is atoned for and cleansed each day for
+seven days (29:36–37). In MAM the verb *wəḥiṭṭēʾtā* (*cleanse*) is written with the consonants of
+*ḥaṭṭāʾt* (*sin offering*) in the same verse. In the stored WEB text, 29:33 is the first
+*"atonement"* in Genesis and Exodus. See [[The Ordination of the Priests]] and [[Outside the Camp - The Sin Offering and Hebrews 13]].
+
 ## Key passages
 
 - [[The Fall]] — the first disobedience and its anatomy
@@ -307,6 +315,7 @@ can *"bear iniquity, and die"* if they approach uncovered (28:43). See [[The Pri
   to prevent sin
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a cause of sin; the angel who will not pardon transgression.
 - [[The Priestly Garments]] — Exodus 28:1–43; iniquity of the holy things borne by Aaron; the priests' own risk.
+- [[The Ordination of the Priests]] — Exodus 29:10–14, 33, 36–37; the priests' own sin offering, and atonement for the altar.
 
 ## Related themes
 

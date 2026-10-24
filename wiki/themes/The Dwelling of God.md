@@ -76,6 +76,14 @@ The garments are designed for entering *"the holy place"* and *"the Tent of Meet
 approaching the altar (Exodus 28:29, 35, 43). The dwelling now has a dress code: the one who
 goes in before Yahweh must be clothed as prescribed. See [[The Priestly Garments]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+29:45–46 is the most explicit statement of the theme in Exodus so far: *"I will dwell among the
+children of Israel, and will be their God"*. God brought Israel out of Egypt *"that I might dwell
+among them"* (*wəšākantî*; *ləšokənî bətôkām*, MAM). The dwelling is tied to a daily offering at a
+place of meeting (29:42–43). See [[The Ordination of the Priests]] and
+[[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
+
 ## Key passages
 
 - [[The Blood of the Covenant]] — Exodus 24:16; ***"Yahweh's glory settled on Mount Sinai"***, *šākan*
@@ -92,6 +100,7 @@ goes in before Yahweh must be clothed as prescribed. See [[The Priestly Garments
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The dwelling includes an outer court and a continuing service of light.
 - [[The Priestly Garments]] — Exodus 28:1–43; the priest clothed for entering the holy place.
+- [[The Ordination of the Priests]] — Exodus 29:42–46; *"I will dwell among the children of Israel"*, the purpose of the exodus.
 
 ## Related themes
 

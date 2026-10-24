@@ -348,6 +348,15 @@ twelve stones of the breastplate of judgment, the Urim and Thummim, and a gold p
 linen breeches are both required *"that he not die"* (28:35, 43). The garments are commanded
 here, made in chapter 39; ordination follows in chapter 29.
 
+### The ordination of the priests — Exodus 29
+
+[[The Ordination of the Priests]] prescribes the seven-day rite by which Moses makes Aaron and his
+sons priests: washing, clothing, anointing, a sin offering, a burnt offering, and the ram of
+consecration, whose blood is put on ear, thumb, and toe (29:1–35). The altar is atoned for until
+it is *"most holy"* (29:37). The chapter ends with the daily lamb at the tent's door and the book's
+plainest statement of purpose: God brought Israel out of Egypt *"that I might dwell among them"*
+(29:46). The rite is performed in Leviticus 8.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -420,7 +429,7 @@ for unit.
 - [x] [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37
 - [x] [[The Altar and the Court]] — Exodus 27:1–21
 - [x] [[The Priestly Garments]] — Exodus 28:1–43
-- [ ] The Ordination of the Priests — Exodus 29:1–46
+- [x] [[The Ordination of the Priests]] — Exodus 29:1–46
 - [ ] The Incense Altar, the Ransom, and the Holy Oil — Exodus 30:1–38
 - [ ] Bezalel, Oholiab, and the Sabbath Sign — Exodus 31:1–18
 

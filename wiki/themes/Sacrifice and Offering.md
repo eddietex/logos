@@ -151,6 +151,17 @@ relationship. Filling the hollow frame with earth is a proposed reconciliation, 
 instruction stated in 27:8. See [[The Altar and the Court]] and
 [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+One chapter prescribes the sin offering (29:14), the burnt offering (29:18), the ram of consecration
+with its wave offering (29:22–26), the priests' portion from peace offerings (29:28), and the
+twice-daily lamb with flour, oil, and wine (29:38–41). The sin offering's remains are burned
+*"outside of the camp"*, the first such rule in Exodus. In the stored WEB, 29:14 is also the first
+*"sin offering"* in Genesis and Exodus. The *"continual burnt offering"* (*ʿōlat tāmîd*, MAM) becomes
+the base of Israel's worship. See [[The Ordination of the Priests]],
+[[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]], and
+[[Outside the Camp - The Sin Offering and Hebrews 13]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; feasts, first fruits, and limits.
@@ -271,6 +282,7 @@ instruction stated in 27:8. See [[The Altar and the Court]] and
   [[The Bread of the Presence - David's Hunger and Matthew 12]]
 
 - [[The Altar and the Court]] — Exodus 27:1–21; A portable crafted altar is prescribed; its relation to the earth-or-stone law remains open.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; sin offering, burnt offering, ram of consecration, and the continual burnt offering.
 
 ## Related themes
 

@@ -23,6 +23,10 @@ tags: [connection]
 - **Hebrews 12:24; 1 Peter 1:2** — *"the blood of sprinkling that speaks better than that of
   Abel"*; *"be sprinkled with his blood"* (WEB; *not yet ingested*)
 
+- **Exodus 29:12, 16, 20–21** — after the people at Sinai, the priests receive the blood: on the
+  altar, on the right ear, thumb, and big toe, and sprinkled with oil on them and their garments —
+  [[The Ordination of the Priests]]
+
 ## Analysis
 
 **Moses' sentence at Sinai is repeated, in two forms, in the New Testament.** The source-language

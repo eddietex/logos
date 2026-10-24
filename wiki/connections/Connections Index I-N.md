@@ -21,7 +21,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] | thread | Job 23:10 · Job 7:18 · Job 1:12; 2:6 · Job 22:24–25 · Job 28:1, 15–19 · Psalm 66:10 · Proverbs 17:3 · Zechariah 13:9 · Malachi 3:2–3 · Isaiah 48:10 · 1 Peter 1:6–7 · James 1:2–4, 12; 5:11 |
 | [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]] | thread | Genesis 38:17–20 · Genesis 42:37 · Genesis 43:8–10 · Genesis 44:32–33 · Job 17:3 · Psalm 119:122 · Proverbs 6:1–5; 11:15; 17:18; 20:16 · Isaiah 38:14 · Hebrews 7:22 · Genesis 45:24 |
 | [[I Will Be With You - The Promise of Presence]] | thread | Genesis 26:3, 24 · Genesis 28:15 · Genesis 39:2, 21 · Exodus 3:12 · Joshua 1:5 · Judges 6:16 · Isaiah 41:10; 43:2 · Jeremiah 1:8 · Haggai 1:13 · Matthew 1:23; 28:20 · Hebrews 13:5 · Exodus 23:20–23; 33:3; 34:9 · Exodus 25:8 |
-| [[I Will Take You as My People - The Covenant Formula]] | thread | Genesis 17:7–8 · Exodus 6:7 · Exodus 29:45–46 · Leviticus 26:12 · Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33 · Ezekiel 11:20; 36:28; 37:27 · 2 Corinthians 6:16 · Hebrews 8:10 · Revelation 21:3 · Exodus 25:8 |
+| [[I Will Take You as My People - The Covenant Formula]] | thread | Genesis 17:7–8 · Exodus 6:7 · Exodus 29:45–46 · Leviticus 26:12 · Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33 · Ezekiel 11:20; 36:28; 37:27 · 2 Corinthians 6:16 · Hebrews 8:10 · Revelation 21:3 · Exodus 25:8 · [[The Ordination of the Priests]] |
 | [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] | parallel | Genesis 42:36 · Genesis 43:14 · Esther 4:16 · 2 Samuel 15:25–26 · 2 Kings 7:3–4 · Daniel 3:17–18 · Genesis 45:25–28 |
 | [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]] | allusion | Genesis 3:7–12, 17–18 · Genesis 4:10–11 · Job 31:33–34 · Job 31:38–40 · Hosea 6:7 · Psalm 32:5 · Proverbs 28:13 |
 | [[In the Beginning - Genesis 1 and John 1]] | allusion | Genesis 1:1–5 · John 1:1–5 |
@@ -38,7 +38,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
 | [[Joshua and Jesus - One Name]] | typology | Exodus 17:9–14 · Numbers 13:8, 16 · Matthew 1:21 · Acts 7:45 · Hebrews 4:8 |
 | [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] | parallel | Genesis 37:26–28 · Genesis 40:15 · Exodus 21:16 · Deuteronomy 24:7 |
-| [[A Kingdom of Priests - Exodus 19 and First Peter 2]] | quotation | Exodus 19:4–6, 21–24 · 1 Peter 2:4–10 |
+| [[A Kingdom of Priests - Exodus 19 and First Peter 2]] | quotation | Exodus 19:4–6, 21–24 · 1 Peter 2:4–10 · Exodus 28–29 |
 | [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Exodus 15:15, 18 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |
 | [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 |
 | [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] | law-and-narrative | Genesis 23:3–20 · Genesis 47:18–23 · Exodus 9:29; 19:5 · Leviticus 25:8–34, 39–43 · 1 Kings 21:1–4 · Isaiah 5:8 · Micah 2:1–2 |

@@ -157,6 +157,12 @@ bears *"the judgment of the children of Israel on his heart"*, and bears *"the i
 holy things"* so that the people's gifts *"may be accepted"* (28:12, 29–30, 38). The mediator's
 role is described through clothing: what he wears is what he carries for others. See [[The Priestly Garments]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+Moses installs the mediators: every act of the ordination is his (29:4–26). The priests then begin
+their own mediation at the daily altar, at the door where God says *"I will meet with you"*
+(29:42). Atonement is made for the priests before they make it for anyone else (29:33). See [[The Ordination of the Priests]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -367,6 +373,7 @@ role is described through clothing: what he wears is what he carries for others.
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Moses transmits the rule; Israel provides oil; Aaron and his sons tend it on the people’s behalf.
 - [[The Priestly Garments]] — Exodus 28:1–43; the high priest carries Israel's names, judgment, and iniquity before Yahweh.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; Moses ordains the priests; the meeting place at the tent's door.
 
 ## Related themes
 

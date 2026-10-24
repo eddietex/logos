@@ -16,7 +16,7 @@ tags: [connection]
   Egyptians."* Both halves for the first time, said to a people — [[I Am Yahweh]]
 - **Exodus 29:45–46** — *"I will dwell among the children of Israel, and will be their God. They shall
   know that I am Yahweh their God, who brought them out of the land of Egypt, that I might dwell among
-  them: I am Yahweh their God."* The formula joined to the tabernacle *(not yet ingested)*
+  them: I am Yahweh their God."* The formula joined to the tabernacle — [[The Ordination of the Priests]]
 - **Exodus 25:8** — *"Let them make me a sanctuary, that I may dwell among them."* The dwelling
   announced, without the formula, four chapters before 29:45 joins them —
   [[The Offering for the Sanctuary]]

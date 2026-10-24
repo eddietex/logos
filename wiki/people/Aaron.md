@@ -191,6 +191,19 @@ and *"the iniquity of the holy things"* on his forehead (28:12, 29–30, 38). Th
 *"that he not die"* (28:35). The garments are prescribed, not yet made or worn; the ordination
 follows in chapter 29. See [[The Priestly Garments]], [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]], and [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]].
 
+### The ordination prescribed — Exodus 29:1–46
+
+**The rite that makes Aaron a priest is commanded in full** (Exodus 29). Moses is to wash him, dress
+him in the garments of chapter 28, set *"the holy crown on the turban"*, and pour the anointing oil
+on his head (29:4–7). Aaron and his sons lay their hands on a sin-offering bull, a burnt-offering
+ram, and the ram of consecration, and the last ram's blood is put on Aaron's right ear, thumb, and
+big toe (29:10, 15, 19–20). Blood and oil are sprinkled on him and his garments, *"and he shall be
+made holy"* (29:21). The ordination takes seven days, and the priesthood is theirs *"by a perpetual
+statute"* (29:9, 35). Aaron's garments pass to *"the son who is priest in his place"* (29:30), so
+his succession is provided for in the rite that installs him. Aaron is acted on throughout; Moses
+performs the rite. Leviticus 8 narrates it. See [[The Ordination of the Priests]] and
+[[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
+
 ## Timeline / key events
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
@@ -232,6 +245,7 @@ follows in chapter 29. See [[The Priestly Garments]], [[Urim and Thummim - The B
 
 - Exodus 27:1–21 — Assigned with his sons to tend the lamp from evening to morning outside the veil. See [[The Altar and the Court]].
 - Exodus 28:1–43 — Named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things. See [[The Priestly Garments]].
+- Exodus 29:1–46 — Ordination commanded: washed, clothed, anointed, and consecrated for seven days. See [[The Ordination of the Priests]].
 
 ## Appears in
 
@@ -278,6 +292,7 @@ follows in chapter 29. See [[The Priestly Garments]], [[Urim and Thummim - The B
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Assigned with his sons to tend the lamp from evening to morning outside the veil.
 - [[The Priestly Garments]] — Exodus 28:1–43; named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things.
+- [[The Ordination of the Priests]] — Exodus 29:1–46; washed, clothed, anointed, and consecrated for seven days; his garments pass to his successor.
 
 ## Related people
 

@@ -35,7 +35,10 @@ tags: [connection]
 - **Exodus 24:5** — *"young men of the children of Israel"* offer the covenant sacrifices, before
   Aaron's line is ordained; Moses handles the blood, and the priests of 19:22, 24 are not mentioned —
   [[The Blood of the Covenant]]
-- **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated.
+- **Exodus 28–29; Leviticus 1–9** — the priesthood instituted and the offerings regulated —
+  [[The Priestly Garments]], [[The Ordination of the Priests]]. From Exodus 29 on, Moses' ordination of Aaron's
+  family moves the altar's service from household heads, a Midianite priest, and *"young men"* to
+  a consecrated line.
 - **Job 42:7–9** ([[The Restoration of Job]]) — Job's intercession for the three friends, and the last sacrifice in the book.
 - **Genesis 14:18–20** — Melchizedek, the first man in Scripture called a priest, in a scene with no
   altar and no offering — [[The Rescue of Lot and Melchizedek]]

@@ -23,6 +23,10 @@ tags: [connection]
   all that Yahweh commanded Moses; so they did"*; *"Moses did so. According to all that Yahweh
   commanded him, so he did."* (not yet ingested)
 
+- **Exodus 29:1–37; Leviticus 8:4, 9, 13, 17, 21, 29, 36** — the ordination commanded, then performed
+  *"as Yahweh commanded Moses"* (verified WEB, not yet ingested) — [[The Ordination of the Priests]],
+  [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]]
+
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28; the enclosure, separation, or placement developed here.
 
 - **Exodus 27:1–19; 38:1–7, 9–20; 40:6–8, 24–33** — [[The Altar and the Court]]; the altar, court, or their continuing service.

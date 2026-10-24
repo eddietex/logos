@@ -14172,3 +14172,69 @@ bells and breeches given *"that he not die"*, and the plate reading *"HOLY TO YA
 `scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
 pages remain the expected baseline. No raw source, schema, skill, harness, or controller file was
 changed.
+
+## [2026-10-23] ingest | Exodus 29.1-46 — The Ordination of the Priests
+
+Ingested [[The Ordination of the Priests]] in unattended mode with the planned boundary unchanged.
+Exodus advances to **39 / 53** pericopes. No second pericope was ingested; the incense altar, the
+ransom, and the holy oil (30:1–38) are next. The passage page holds the discussion: Moses as sole
+officiant, the Hebrew idiom *fill the hand* behind *"consecrate"*, the three offerings in order,
+blood on ear, thumb, and toe, garments made holy with their wearers, succession built into the
+rite, atonement for the altar, the daily lambs at the place of meeting, and 29:45–46 as the
+exodus's stated purpose.
+
+### Decisions and sources
+
+- No new person, place, or theme page was needed. Aaron's sons are not named in this chapter, so
+  their pages record collective inclusion. [[Egypt]] receives an overview line for 29:46.
+- **Discrepancy from the previous ingest resolved.** [[The Priestly Garments]] had flagged that the
+  stored WEB of 28:37 puts the gold plate *"on the sash"*. The Hebrew of 28:37 in *Miqra according
+  to the Masorah* (Sefaria) reads *ʿal-hammiṣnāpet*, the word the WEB renders *"turban"* at 28:4,
+  28:39, and 29:6. The discrepancy is in the WEB's English. The earlier page now says so. The
+  reverse rendering also occurs: the WEB's *"belts"* at 29:9 renders *ʾabnēṭ*, its *"sash"* in
+  chapter 28. The raw text was not altered.
+- Noted, not resolved: 29:7 pours oil only on Aaron's head, while 40:15 (local WEB) anoints the sons
+  *"as you anointed their father"*. The breast and thigh given permanently to the priests (29:27–28)
+  are distinguished from the ordination ram's thigh burned and breast given to Moses (29:22–26);
+  the page treats this as one-time rite versus standing rule, not a contradiction.
+- Hebrew claims were read in MAM via Sefaria for Exodus 28:4, 37, 39 and 29:6, 9, 22, 33, 36–37,
+  42–43, 45–46. The shared root of *meet* and *môʿēd* is marked on the page as standard
+  lexicography not checked against a lexicon. Ear, thumb, and toe symbolism, the order of the three
+  offerings, and the link between *filling the hand* and 29:24 are labelled as interpretations.
+- In the stored WEB, 29:14 is the first *"sin offering"* and 29:33 the first *"atonement"* in
+  Genesis and Exodus. Job has neither word. This is recorded as an English-text observation only.
+- Created three connections: [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]],
+  [[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]], and
+  [[Outside the Camp - The Sin Offering and Hebrews 13]]. The last states explicitly that Hebrews
+  13:11 describes blood brought into the holy place, which Exodus 29 does not; the shared ground
+  is the sin offering burned outside the camp.
+- Updated seven connections: [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]],
+  [[I Will Take You as My People - The Covenant Formula]], [[A Pleasing Aroma]],
+  [[Sacrifice Before the Priesthood]],
+  [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]],
+  [[A Kingdom of Priests - Exodus 19 and First Peter 2]], and
+  [[As God Commanded, So He Did - The Obedience Formula]]. The two "not yet ingested" markers on
+  Exodus 29:45–46 now link the passage.
+- All forty-six WEB verses were copied mechanically from `raw/bible/Exodus.md`, and the quotations
+  added across all touched pages were checked against it or against the fetched WEB. Local
+  comparisons: Exodus 24:5, 8, 11, 16; 28:4, 37–39; 30:26–30; 40:9–15, 34–35. Leviticus 6:18; 8:1–36;
+  9:23–24; 14:14–17; Numbers 28:1–8; Daniel 8:11–13; Hebrews 7:27–28; 13:10–13 were fetched
+  individually from bible-api.com with `translation=web` on 2026-10-23. None is ingested, and no
+  later book was fetched into raw.
+
+### Pages created or revised
+
+- **Created (4):** the passage and three connections.
+- **Existing content pages revised (28):** Exodus; seven people (God, Moses, Aaron, and his four
+  sons); Horeb and Egypt; ten themes ([[Priesthood]], [[Sacrifice and Offering]], [[Blood]],
+  [[Holiness]], [[Sin]], [[Clean and Unclean]], [[Mediation and Advocacy]], [[The Dwelling of God]],
+  [[The Glory of God]], [[Covenant]]); seven connections; and [[The Priestly Garments]].
+- **Bookkeeping revised (12):** book and top-level indexes; people subindexes A–E, F–M, and N–Z;
+  places; themes; connection subindexes A–C, I–N, O–S, and T–Z; and this log.
+- **Totals by frontmatter type:** 130 passages, 170 people, 90 places, 81 themes, 361 connections;
+  3 books started, 2 complete. Connection subindexes now hold 63, 78, 69, 63, and 88 rows; no range
+  change is needed.
+
+`scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
+pages remain the expected baseline. No raw source, schema, skill, harness, or controller file was
+changed.

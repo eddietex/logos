@@ -26,7 +26,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]] | thread | Genesis 24:7 · Exodus 14:19 · Exodus 17:7 · Exodus 23:20–23 · Exodus 32:34 · Exodus 33:2–3, 14–15 · Exodus 34:9 |
 | [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]] | quotation | Genesis 28:12 · John 1:43–51 · Genesis 27:35 · Genesis 32:28 · Hosea 12:3–4 |
 | [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
-| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 · Exodus 25:9 · Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28 · Exodus 27:1–21 · Exodus 38:1–7, 9–20 · Exodus 40:6–8, 24–33 — [[The Altar and the Court]] |
+| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 · Exodus 25:9 · Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28 · Exodus 27:1–21 · Exodus 38:1–7, 9–20 · Exodus 40:6–8, 24–33 — [[The Altar and the Court]] · Exodus 29:1–37 · Leviticus 8:36 |
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Job 22:15–17 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |
@@ -43,7 +43,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
 | [[Blessed Be God Who Delivered - Melchizedek and Jethro]] | typology | Genesis 14:18–20 · Exodus 18:1, 9–12 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
-| [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]] | quotation | Exodus 24:6–8 · Zechariah 9:11 · Jeremiah 31:31–33 · Matthew 26:27–28 · Mark 14:23–24 · Luke 22:20 · 1 Corinthians 11:25 · Hebrews 9:18–22 · Hebrews 12:24 · 1 Peter 1:2 |
+| [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]] | quotation | Exodus 24:6–8 · Zechariah 9:11 · Jeremiah 31:31–33 · Matthew 26:27–28 · Mark 14:23–24 · Luke 22:20 · 1 Corinthians 11:25 · Hebrews 9:18–22 · Hebrews 12:24 · 1 Peter 1:2 · Exodus 29:12, 20–21 |
 | [[Blot Out - The Flood, Amalek, and God's Book]] | thread | Genesis 6:7; 7:4, 23 · Exodus 17:14 · Exodus 32:32–33 · Deuteronomy 9:14 · Deuteronomy 25:19 · Deuteronomy 29:20 · Psalm 69:28 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
 | [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]] | parallel | Genesis 33:18–20 · Genesis 34:25–30 · Genesis 48:21–22 · Joshua 24:32 · John 4:5 |
@@ -67,6 +67,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:6 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 |
+| [[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]] | thread | Exodus 29:38–42 · Numbers 28:1–8 · Daniel 8:11–13 |
 | [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] | thread | Genesis 3:6 · Genesis 39:7, 9 · Job 31:1, 7, 9 · Numbers 15:39 · 2 Samuel 11:2 · Proverbs 6:25 · Matthew 5:27–29 · 2 Peter 2:14 · 1 John 2:16 |
 | [[Coveting and Love - The Commandments in Romans 7 and 13]] | quotation | Exodus 20:13–17 · Romans 7:7–12 · Romans 13:8–10 |
 | [[Creation as the Ground of the Sabbath Command]] | quotation | Genesis 2:2–3 · Exodus 16:22–30 · Exodus 20:8–11 · Deuteronomy 5:12–15 · Exodus 23:10–12 |

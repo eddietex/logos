@@ -86,6 +86,11 @@ MAM). **Israel's memory of Egypt is made into a duty not to be Egypt.** See [[La
 grounds the prohibition of oppression (23:9); departure in Abib grounds Unleavened Bread (23:15).
 Egypt is recalled, not revisited, in [[Justice, Sabbaths, and Feasts]].
 
+**Egypt is named as the starting point of God's purpose to dwell.** *"They shall know that I am
+Yahweh their God, who brought them out of the land of Egypt, that I might dwell among them"*
+(Exodus 29:46). The departure is now given its goal at the tabernacle. See
+[[The Ordination of the Priests]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; remembered alien status and departure in Abib.
@@ -306,6 +311,7 @@ Egypt is recalled, not revisited, in [[Justice, Sabbaths, and Feasts]].
 - [[The Ten Commandments]] — Exodus 20:2; remembered as the house of bondage at the opening of the
   commandments
 - [[Laws of Holiness and Compassion]] — Exodus 22:21; *"for you were aliens in the land of Egypt"*
+- [[The Ordination of the Priests]] — Exodus 29:46; *"who brought them out of the land of Egypt, that I might dwell among them"*
 
 ## Related places
 

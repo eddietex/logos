@@ -17,14 +17,16 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] | literary-parallel | Job 33:14, 29 · Job 40:5 · Job 5:19 · Psalm 62:11 · Proverbs 6:16 |
 | [[One Flesh - Genesis 2 and the New Testament on Marriage]] | quotation | Genesis 2:24 · Matthew 19:4–6 · Mark 10:6–8 · 1 Corinthians 6:16 · Ephesians 5:31 |
 | [[One Law for the Native and the Stranger]] | thread | Exodus 12:19 · Exodus 12:48–49 · Leviticus 24:22 · Numbers 9:14 · Numbers 15:15–16, 29 · Genesis 17:12–13, 27 |
+| [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] | parallel | Exodus 29:1–37 · Exodus 40:12–15 · Leviticus 8:1–36 · Leviticus 9:23–24 |
 | [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 · Exodus 6:16, 19 |
 | [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 8:25–28 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 · Exodus 12:38 |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
+| [[Outside the Camp - The Sin Offering and Hebrews 13]] | typology | Exodus 29:10–14 · Leviticus 8:14–17 · Hebrews 13:10–13 · Hebrews 7:27 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
 | [[Passing Between the Pieces]] | thread | Genesis 15:9–18 · Jeremiah 34:8–22 · Genesis 6:18; 9:8–17 · Genesis 14:13 · Genesis 17:1–14 · Exodus 24:3–8 · Galatians 3:15–18 · Hebrews 6:13–18; 9:15–22 |
 | [[The Pillar Jacob Raised and the Pillars the Law Forbids]] | tension | Genesis 28:18, 22 · Genesis 31:45 · Genesis 35:14, 20 · Exodus 24:4 · Leviticus 26:1 · Deuteronomy 16:22 · Joshua 24:26–27 · 2 Kings 18:4 · Isaiah 19:19 · Exodus 23:24 |
 | [[A Place to Flee - Exodus 21 and Numbers 35]] | thread | Exodus 21:12–14, 29–30 · Numbers 35:9–34 |
-| [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 |
+| [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 · Exodus 29:18, 25, 41 |
 | [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]] | literary-parallel | Job 20:29 · Job 27:13–23 · Job 21:7–18, 28 · Job 18:21 · Job 5:27 |
 | [[Possess the Gate of Those Who Hate Them]] | parallel | Genesis 22:17 · Genesis 24:60 · Ruth 4:11–12 |
 | [[The Priests Who Kept Their Land and the Levites Who Got None]] | parallel | Genesis 47:22, 26 · Numbers 18:20–24 · Numbers 35:1–8 · Deuteronomy 10:9; 18:1–2 · Joshua 13:14, 33 · Joshua 21 |
@@ -42,7 +44,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Rewarding Evil for Good - A False Charge That Is Exactly True]] | idiom | Genesis 37:3–4, 18–28 · Genesis 44:4 · 1 Samuel 24:17; 25:21 · Psalm 35:12; 38:20; 109:4–5 · Proverbs 17:13 · Jeremiah 18:20 · Romans 12:17, 21 · 1 Thessalonians 5:15 · 1 Peter 3:9 |
 | [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |
 | [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]] | typology | Exodus 17:5–6 · Numbers 20:2–13 · Deuteronomy 8:15 · Deuteronomy 32:4 · Psalm 78:15–20 · Psalm 105:41 · Psalm 114:8 · John 7:37–38 · 1 Corinthians 10:1–4 |
-| [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 18:12 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 · Numbers 23:1 · 1 Chronicles 15:26 |
+| [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 18:12 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 · Numbers 23:1 · 1 Chronicles 15:26 · [[The Ordination of the Priests]] |
 | [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
 | [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Exodus 15:1, 20 · Deuteronomy 26:5–9 · Genesis 31:25 · Genesis 29:15 · Genesis 31:43 · Exodus 21:2, 4, 11 |
 | [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |

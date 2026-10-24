@@ -122,6 +122,15 @@ on the whole people. Exodus does not explain the rite; self-curse, kinship, and 
 proposed, and the wiki records them as readings. See [[The Blood of the Covenant]] and
 [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+At Exodus 24:8 Moses sprinkled blood on the people. In Exodus 29 blood is applied to the priests.
+The bull's blood goes on the altar's horns and at its base (29:12). The ordination ram's blood is
+put on each priest's right ear, thumb, and big toe and sprinkled on the altar (29:20). Blood from
+the altar is then mixed with anointing oil and sprinkled on the priests and their garments (29:21).
+The chapter gives no explanation of the three bodily places. See [[The Ordination of the Priests]] and
+[[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; sacrificial blood and leaven.
@@ -158,6 +167,7 @@ proposed, and the wiki records them as readings. See [[The Blood of the Covenant
   [[Christ Our Passover - Exodus 12 in the New Testament]]
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; *"guilt of bloodshed"* depending on the hour
 - [[The Blood of the Covenant]] — Exodus 24:6–8; *"this is the blood of the covenant"*, on the altar and on the people
+- [[The Ordination of the Priests]] — Exodus 29:12, 16, 20–21; blood on the altar, on ear, thumb, and toe, and sprinkled with oil on the priests.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

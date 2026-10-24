@@ -111,6 +111,12 @@ verses. See [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deut
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The ordination of the priests — Exodus 29:1–46
+
+The priests are washed with water at the tent's door before they are clothed (29:4). The new altar
+is *cleansed* for seven days with a daily sin offering (29:36–37), though the chapter never calls it
+unclean or gives a cause. See [[The Ordination of the Priests]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the goat and its mother’s milk.
@@ -165,6 +171,7 @@ See [[Justice, Sabbaths, and Feasts]].
   [[The Boil of Deuteronomy 28 on a Blameless Man]]
 - [[Israel at Mount Sinai]] — Exodus 19:10–15, 22; garments washed and people and priests prepared
 - [[Laws of Holiness and Compassion]] — Exodus 22:31; torn meat refused for holiness' sake
+- [[The Ordination of the Priests]] — Exodus 29:4, 36–37; the priests washed, and the altar cleansed for seven days.
 
 ## Related themes
 
