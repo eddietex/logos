@@ -23,6 +23,13 @@ Joshua (Joshua 14:1, by reference). These sections are written as their pericope
 The wiki qualifies the page because a later Eleazar, the son of Abinadab, keeps the ark (1 Samuel
 7:1).
 
+### The lamp service prescribed — Exodus 27:1–21
+
+Exodus 27:21 assigns the lamp outside the veil to Aaron and his sons collectively. Eleazar
+is included by the family list of 6:23 and the explicit appointment list of 28:1; he is not
+individually named in 27:21. This is a prescribed duty, not a report that his service has
+begun. See [[The Altar and the Court]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the third of four sons — Exodus 6:23
@@ -30,9 +37,13 @@ The wiki qualifies the page because a later Eleazar, the son of Abinadab, keeps 
   [[The Heads of the Fathers' Houses]]
 - *(ahead)* Succeeds Aaron as high priest — Numbers 20:25–28
 
+- Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
+
 ## Appears in
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23, 25; **the son through whom the list goes on**
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21).
 
 ## Related people
 

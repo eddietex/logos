@@ -114,6 +114,9 @@ in the middle of the camp.**
 - Exodus 3:12; 23:20–23 — the presence promised and sent ahead:
   [[I Will Be With You - The Promise of Presence]].
 
+- Exodus 27:1–21 — [[The Altar and the Court]] assigns further uses to the donated materials
+  and specifies the quality, providers, and attendants of the lamp oil requested in 25:6.
+
 ## Notes
 
 ### The boundary

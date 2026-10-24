@@ -441,6 +441,13 @@ shown to him on the mountain; 26:33–35 tells him where to put the veil and the
 The instructions anticipate the assembly he will perform in 40:18–28; they are not a report that
 he has already left the cloud or built the tent. See [[The Tabernacle Curtains and Frames]].
 
+### The lamp service prescribed — Exodus 27:1–21
+
+In Exodus 27:8 Moses is again referred to what was shown on the mountain; in 27:20 he must
+command the children of Israel to bring oil. His role combines receiving the design and
+transmitting a recurring obligation. He is not here described as either building the altar
+or tending the lamp himself. See [[The Altar and the Court]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -546,6 +553,8 @@ he has already left the cloud or built the tent. See [[The Tabernacle Curtains a
   from between the cherubim; warned to make them *"after their pattern"* — Exodus 25:10–40,
   [[The Ark, the Table, and the Lampstand]]
 
+- Exodus 27:1–21 — Receives the altar design and must command Israel to supply lamp oil. See [[The Altar and the Court]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; receives the continuing address by context.
@@ -635,6 +644,8 @@ he has already left the cloud or built the tent. See [[The Tabernacle Curtains a
   you"*; *"the pattern, which has been shown to you on the mountain"*
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; receives the enclosure design and the directions for its arrangement.
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Receives the altar design and must command Israel to supply lamp oil.
 
 ## Related people
 

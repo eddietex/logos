@@ -14051,3 +14051,66 @@ verses were copied mechanically from the immutable raw text and checked against 
 pages in the expected baseline. All 37 quoted verses match raw text after whitespace normalization.
 No raw source, schema, skill, harness, or controller file was changed. The qualified interpretive
 questions above are left open; no operational blocker remains.
+
+## [2026-10-23] ingest | Exodus 27.1-21 — The Altar and the Court
+
+Ingested [[The Altar and the Court]] in unattended mode, retaining the planned boundary including
+the lamp-oil rule (27:20–21). Exodus advances to **37 / 53** pericopes. No second pericope was
+ingested; the priestly garments remain next. The passage holds the discussion of the altar's
+materials, dimensions, horns, utensils, grating, and carrying poles; the court's measurements and
+east entrance; and the people supplying oil for Aaron and his sons to tend before Yahweh.
+
+### Decisions and sources
+
+- The altar and court remain instructions rather than completed construction. The lamp rule is
+  kept with them as the transition from furnishings to priestly service. No boundary was redrawn.
+- No new person, place, or theme page was needed. [[God]], [[Moses]], and [[Aaron]] receive synthesis
+  and appearance updates. [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]], and
+  [[Ithamar]] are updated as **collectively included** in Aaron's sons (27:21), not as individually
+  named in the verse. Exodus 6:23 and 28:1 supply the identification; ordination is not narrated here.
+- [[Horeb]] remains the mountain setting by context and the reference to the shown design (27:8).
+  No separate place page was made for the still-prescribed court or tent.
+- Nine themes receive synthesis and key-passage updates: [[The Dwelling of God]], [[Holiness]],
+  [[Sacrifice and Offering]], [[Priesthood]], [[Light and Darkness]], [[Work]],
+  [[Wealth and Possessions]], [[Law and Obedience]], and [[Mediation and Advocacy]].
+- Created [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]]. It records the close
+  parallel and the difference between Aaron and his sons in Exodus and Aaron in Leviticus. Both
+  texts retain continual service and the evening-to-morning period. Neither daytime burning nor
+  daytime extinguishing is asserted as settled by those verses alone.
+- Updated five connections: [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]],
+  [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]],
+  [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]],
+  [[As God Commanded, So He Did - The Obedience Formula]], and
+  [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]]. The obedience
+  connection includes the later making and placement, without a duplicate construction connection.
+- The tension between the earth-or-uncut-stone altar (20:24–26) and the crafted portable altar
+  (27:1–8) remains explicit. A proposed earth filling is not treated as an instruction in 27:8.
+  The fire surface, wood protection, and court pillar shaft material remain unspecified. The WEB's
+  brass/bronze labels are reported without a metallurgical or source-language conclusion.
+- The court gate, tent entrance screen, and inner veil are distinguished. No symbolic meaning is
+  assigned to colors, metals, measurements, or oil by these instructions. No new Hebrew or Greek
+  lexical claim was made.
+- All twenty-one quoted WEB verses were copied mechanically from `raw/bible/Exodus.md` and checked
+  against it after whitespace normalization. Local comparisons read: Exodus 6:23; 20:24–26;
+  25:1–9, 31–40; 26:31–37; 28:1; 30:1–10; 38:1–20; 40:6–8, 24–33.
+- Leviticus 24:1–4 was fetched individually from bible-api.com with `translation=web` on
+  2026-10-23 and compared directly. It is verified but not ingested, and no later book was fetched
+  into raw. The connection paraphrases the verified text.
+
+### Pages created or revised
+
+- **Created (2):** the passage and the Exodus–Leviticus lamp connection.
+- **Existing content pages revised (27):** Exodus; seven people; Horeb; nine themes; five connections;
+  and four earlier passages ([[The Altar and the Hebrew Slave]], [[The Offering for the Sanctuary]],
+  [[The Ark, the Table, and the Lampstand]], [[The Tabernacle Curtains and Frames]]).
+- **Bookkeeping revised (12):** book and top-level indexes; all three people subindexes; places;
+  themes; connection subindexes A–C, D–H, O–S, T–Z; and this log.
+- **Totals by frontmatter type:** 128 passages, 170 people, 90 places, 81 themes, 356 connections;
+  3 books started, 2 complete. Every category page has exactly one index row in the correct range;
+  no new title collision. Connection subindexes contain 62, 78, 69, 61, and 86 rows, so no range
+  change is needed.
+
+`scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
+pages remain the expected baseline. All 21 quoted verses match raw after layout normalization.
+No raw source, schema, skill, harness, or controller file was changed. The interpretive and
+construction questions above remain open; no operational blocker remains.

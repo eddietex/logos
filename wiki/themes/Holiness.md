@@ -88,6 +88,14 @@ place from the most holy. The text does not contrast a holy room with an unholy 
 to the sanctuary, while the ark and mercy seat occupy the inner one. Leviticus 16:2 later forbids
 unrestricted entry within the veil; that restriction is not yet stated in Exodus 26. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+Exodus 27:9–21 adds a court with a defined entrance to the tent's two rooms. The lamp is
+explicitly tended outside the veil before the testimony. These are spatial distinctions;
+this chapter does not provide a complete list of who may enter each space. The embroidered
+court gate is also distinct from the tent entrance screen and the inner veil of chapter 26.
+See [[The Altar and the Court]].
+
 ## Key passages
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
@@ -121,6 +129,8 @@ unrestricted entry within the veil; that restriction is not yet stated in Exodus
   it"* (25:15). It is carried, never handled
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The veil distinguishes the holy place from the most holy (26:33).
+
+- [[The Altar and the Court]] — Exodus 27:1–21; The court and veil distinguish spaces; the lamp is tended outside the veil.
 
 ## Related themes
 

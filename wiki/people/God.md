@@ -1844,6 +1844,14 @@ into one structure and places the ark behind a separating veil. The promise to d
 (25:8) and the distinction between holy and most holy (26:33) belong together: presence is offered
 on the terms the speaker specifies. See [[The Tabernacle Curtains and Frames]].
 
+### The lamp service prescribed — Exodus 27:1–21
+
+God's sanctuary command reaches both the outer court and the recurring care of the light
+(Exodus 27:1–21). He requires the altar to follow what was shown on the mountain and assigns
+Israel's oil to a service maintained by Aaron and his sons before him. This continues the
+promise to dwell among the people through specified materials, spaces, and duties. See
+[[The Altar and the Court]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2081,6 +2089,8 @@ on the terms the speaker specifies. See [[The Tabernacle Curtains and Frames]].
 - Designs the ark, mercy seat, and cherubim, and promises to meet Moses and speak *"from between the two
   cherubim"*; the table for the bread of the presence; the lampstand — [[The Ark, the Table, and the Lampstand]],
   Exodus 25:10–40
+
+- Exodus 27:1–21 — Commands a portable altar, an enclosed court, and an enduring service of light. See [[The Altar and the Court]].
 
 ## Appears in
 
@@ -2483,6 +2493,8 @@ on the terms the speaker specifies. See [[The Tabernacle Curtains and Frames]].
   which has been shown to you on the mountain"*
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; commands the enclosure and the division of holy spaces.
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Commands a portable altar, an enclosed court, and an enduring service of light.
 
 ## Related people
 

@@ -154,6 +154,15 @@ the veil and furniture all belong to the instruction. Exodus 36:8–38 later rep
 the enclosure, while 40:18–28 reports its erection and arrangement; those later units remain
 un-ingested. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, So He Did - The Obedience Formula]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+Exodus 27:8 repeats the requirement to follow the design shown on the mountain. Verse 21
+then makes lamp service an enduring statute through Israel's generations. Obedience includes
+both a particular act of construction and recurring maintenance. Exodus 38:1–7, 9–20 later
+reports the altar and court made, and 40:24–33 records their use and arrangement; those units
+remain un-ingested. See [[The Altar and the Court]] and
+[[As God Commanded, So He Did - The Obedience Formula]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; one address for court, field, and feast.
@@ -188,6 +197,8 @@ un-ingested. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, 
 - [[The Blood of the Covenant]] — Exodus 24:3–12; two assents, a book read aloud, and tablets written by God
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The dwelling must be erected according to what Moses was shown (26:30).
+
+- [[The Altar and the Court]] — Exodus 27:1–21; The mountain design governs construction; the lamp rule governs succeeding generations.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

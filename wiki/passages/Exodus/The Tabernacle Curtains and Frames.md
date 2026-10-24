@@ -187,6 +187,9 @@ Leviticus 16:2 will state the restriction on entering within the veil.
 - The enclosure develops [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]];
   the lampstand's position develops [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]].
 
+- Exodus 27:9–21 — [[The Altar and the Court]] adds the outer enclosure and its separate gate
+  screen, then assigns Aaron and his sons to the lamp outside the inner veil.
+
 ## Notes
 
 ### The boundary and the assembly

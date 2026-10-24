@@ -23,6 +23,8 @@ tags: [connection]
 (Acts and Hebrews are quoted from the WEB as fetched individually from bible-api.com on 2026-10-23;
 Exodus 26:30 is read from `raw/bible/Exodus.md`.)
 
+- **Exodus 27:8** — [[The Altar and the Court]]; the altar, court, or their continuing service.
+
 ## Analysis
 
 **Exodus 25 twice says that Moses was shown a design without describing the form of the showing.**
@@ -77,6 +79,12 @@ the tent built from it is its *antitypos*.
 setting up the tabernacle according to what Moses was shown. The dimensions and joins of the
 preceding instructions serve an assembled whole, and 26:33–35 also fixes the furniture's positions.
 See [[The Tabernacle Curtains and Frames]]. This does not settle what form the mountain showing took.
+
+**The altar carries the same requirement.** Exodus 27:8 directs that its hollow planks be
+made as shown on the mountain, extending the repeated design requirement to the outer altar.
+The verse does not describe the form of the showing or the altar's internal fire surface.
+See [[The Altar and the Court]]. This observation is based on the WEB, without a new claim
+about the verse's exact Hebrew or Greek vocabulary.
 
 ## Significance
 

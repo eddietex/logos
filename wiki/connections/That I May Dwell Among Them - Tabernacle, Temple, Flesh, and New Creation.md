@@ -30,6 +30,8 @@ tags: [connection]
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; the enclosure, separation, or placement developed here.
 
+- **Exodus 27:9–21** — [[The Altar and the Court]]; the altar, court, or their continuing service.
+
 ## Analysis
 
 **One word runs through the thread: Hebrew *šākan*, *to dwell*, and Greek *skēnē*, *tent*.**
@@ -78,6 +80,12 @@ noun *skēnē* (25:9), not through the verb of 25:8.
 and divides the interior into holy and most holy spaces. The ark is within the veil; the table
 and lampstand are outside it (26:33–35). The dwelling promise of 25:8 does not itself abolish
 distance or regulate everyone's entrance alike. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
+
+**The dwelling has an outer boundary and needs recurring care.** The court adds linen
+hangings and an east entrance around the tent; the oil rule assigns Israel a supply and
+Aaron's family the tending of the light (27:9–21). God's dwelling among the people includes
+this ordered service without the text saying that material supplies sustain God's own
+existence. See [[The Altar and the Court]].
 
 ## Significance
 

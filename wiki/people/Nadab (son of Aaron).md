@@ -25,6 +25,13 @@ Exodus does not connect the two. See [[The Offering for the Sanctuary]].
 
 The wiki qualifies the page because a later king of Israel has the same name (1 Kings 15).
 
+### The lamp service prescribed — Exodus 27:1–21
+
+Exodus 27:21 assigns the lamp outside the veil to Aaron and his sons collectively. Nadab
+is included by the family list of 6:23 and the explicit appointment list of 28:1; he is not
+individually named in 27:21. This is a prescribed duty, not a report that his service has
+begun. See [[The Altar and the Court]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the first of four sons — Exodus 6:23,
@@ -33,12 +40,16 @@ The wiki qualifies the page because a later king of Israel has the same name (1 
   Exodus 24:1, 9–11, [[The Blood of the Covenant]]
 - *(ahead)* Dies with Abihu for *"strange fire"* — Leviticus 10:1–2; Numbers 26:61
 
+- Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
+
 ## Appears in
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23; **the firstborn of the first priest**
 - [[The Blood of the Covenant]] — Exodus 24:1, 9–11; **among those who *"saw the God of Israel"*** and on
   whom God *"didn't lay his hand"*. Of the four named with the elders, he and Abihu are the two whose
   later death by fire *"from before Yahweh"* is recorded (Leviticus 10:1–2)
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21).
 
 ## Related people
 

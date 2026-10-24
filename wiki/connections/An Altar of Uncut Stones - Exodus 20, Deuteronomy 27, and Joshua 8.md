@@ -13,8 +13,8 @@ tags: [connection]
   *(not yet ingested)*
 - **Joshua 8:30–31** — Joshua builds it *"as it is written in the book of the law of Moses"*
   *(not yet ingested)*
-- **Exodus 27:1–8** — the tabernacle's altar of acacia wood and bronze, a different provision
-  *(not yet ingested)*
+- **Exodus 27:1–8** — the tabernacle's altar of acacia wood and bronze, a different provision —
+  [[The Altar and the Court]]
 
 ## Analysis
 
@@ -42,6 +42,12 @@ Hebrew in this pass.
 **Both later texts keep both offerings of Exodus 20:24.** Exodus names burnt offerings and peace
 offerings. Deuteronomy 27:6–7 commands burnt offerings and peace offerings, with eating and
 rejoicing, and Joshua 8:31 reports both.
+
+**The crafted altar is now ingested.** [[The Altar and the Court]] describes its acacia planks,
+metal covering, horns, grating, and carrying poles. The instruction for hollow planks (27:8)
+does not state an earth filling. Such a filling may be proposed to reconcile the altar with
+20:24, but is not supplied by this text. The distinct prescriptions remain in view without
+treating either as a mistaken summary of the other.
 
 ## Significance
 

@@ -10,7 +10,7 @@ tags: [connection]
 - **Exodus 25:31–40** — a lampstand of pure gold with almond-blossom cups and *"its lamps seven"*, to
   *"give light to the space in front of it"* — [[The Ark, the Table, and the Lampstand]]
 - **Exodus 27:20–21** — pure olive oil *"to cause a lamp to burn continually"*, kept by Aaron and his
-  sons *"from evening to morning before Yahweh"* *(not yet ingested)*
+  sons *"from evening to morning before Yahweh"* — [[The Altar and the Court]]
 - **Zechariah 4:2, 6, 14** — *"a lamp stand all of gold, with its bowl on the top of it, and its seven
   lamps on it"*; *"Not by might, nor by power, but by my Spirit"*; *"the two anointed ones"* *(not yet
   ingested)*
@@ -58,6 +58,14 @@ sometimes read as supporting that. Neither Exodus nor Zechariah says the lampsta
 outside the veil (26:35), rather than beside the ark within the most holy space. The command
 gives a practical arrangement for the light of 25:37; it supplies no additional symbolic
 explanation. See [[The Tabernacle Curtains and Frames]].
+
+**The oil and its attendants are specified separately from the furnishing.** In
+[[The Altar and the Court]], Israel supplies pure beaten olive oil and Aaron and his sons tend
+the lamp outside the veil from evening to morning (27:20–21). The verse's continuing statute
+and nightly schedule should both be retained without claiming a resolved daytime practice.
+The close repetition in Leviticus 24:1–4 is now compared in
+[[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]]. The Spirit interpretation
+belongs to the later prophetic setting, not an explanation of oil offered by Exodus 27.
 
 ## Significance
 

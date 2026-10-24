@@ -114,6 +114,10 @@ what Moses was shown there and makes it the standard for erection. The dwelling 
 ordered approach to God's presence beyond the mountain, but no move or construction takes place
 in this chapter. See [[The Tabernacle Curtains and Frames]].
 
+**The altar too must follow what was shown on the mountain** (Exodus 27:8). The court and
+lamp rule continue that address; they do not narrate a departure or a completed sanctuary
+at Sinai. See [[The Altar and the Court]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -153,6 +157,8 @@ in this chapter. See [[The Tabernacle Curtains and Frames]].
   mountain"* (25:40)
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:30; the mountain where the design was shown, Sinai by context.
+
+- [[The Altar and the Court]] — Exodus 27:8; the mountain design governs the altar.
 
 ## Related places
 

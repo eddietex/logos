@@ -144,6 +144,14 @@ brass serves the goats’ hair clasps and entrance sockets (26:6, 11, 19–29, 3
 are part of the structure as well as its visible surfaces. The chapter assigns their places but
 provides no allegorical meaning for each metal. See [[The Tabernacle Curtains and Frames]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+The materials offered in Exodus 25:3–6 are assigned further uses in 27:1–21: brass covers
+the altar and supplies utensils and sockets, silver supplies court fittings, and linen and
+dyed thread form hangings. Oil is not simply installed once like a furnishing; Israel must
+supply it for the continuing light (27:20–21). The chapter specifies material and quality
+without assigning a symbolic value to each metal or color. See [[The Altar and the Court]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; money cannot buy judgment; land must feed others.
@@ -318,6 +326,8 @@ provides no allegorical meaning for each metal. See [[The Tabernacle Curtains an
   (MAM search, Genesis–Exodus 25), and a talent of it for the lampstand alone
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Gold, silver, brass, dyed linen, skins, and acacia become the enclosure.
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Brass, silver, linen, and acacia become furnishings; oil remains an ongoing contribution.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

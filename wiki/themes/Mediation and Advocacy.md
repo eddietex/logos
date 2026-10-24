@@ -142,6 +142,14 @@ state who may enter when. Hebrews 9:6–8 later reads the two spaces in terms of
 access, and 10:19–22 urges believers to approach through Jesus. This is a later interpretation of
 the sanctuary, not a prediction expressly stated in Exodus 26. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+Exodus 27:20–21 distinguishes the hearer who must command Israel, the people who bring
+the oil, and Aaron and his sons who keep the lamp in order on their behalf. This is a
+specified representative service rather than an act of intercessory speech. The lamp's
+location outside the veil also keeps this duty distinct from the meeting with Moses above
+the ark in 25:22. See [[The Altar and the Court]].
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:22–33, the theme's founding text:
@@ -349,6 +357,8 @@ the sanctuary, not a prediction expressly stated in Exodus 26. See [[The Taberna
   cherubim"*, where God speaks to one man *"all that I command you for the children of Israel"*
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The meeting place above the ark is situated within a separating veil.
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Moses transmits the rule; Israel provides oil; Aaron and his sons tend it on the people’s behalf.
 
 ## Related themes
 

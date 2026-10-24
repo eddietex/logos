@@ -97,6 +97,13 @@ and veil, and embroidery makes the entrance screen (26:1, 31, 36). The work is g
 Moses was shown (26:30), not by an interpretation of the colors or numbers supplied by the maker.
 See [[The Tabernacle Curtains and Frames]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+Exodus 27 moves from metalwork, woodwork, and embroidery (27:1–19) to the recurring tasks
+of supplying oil and tending a lamp (27:20–21). The design must follow what Moses was shown
+(27:8); the continuing service is assigned to Aaron and his sons. Building the sanctuary
+and sustaining its use are distinct kinds of work within one command. See [[The Altar and the Court]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; a limit on production.
@@ -229,6 +236,8 @@ See [[The Tabernacle Curtains and Frames]].
   make
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Textile work, joinery, and metalwork serve a specified design (26:1–30, 36–37).
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Making the altar and court leads into the recurring work of maintaining the light.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -112,6 +112,15 @@ chapter does not put a lamp beside the ark or specify the lighting conditions wi
 The spatial arrangement supports the lamp's practical function in 25:37 without supplying a new
 symbolism for light. See [[The Tabernacle Curtains and Frames]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+The gold lampstand's light now receives a supply rule and named attendants (Exodus 27:20–21).
+The WEB places *continually* beside *from evening to morning*: the service is enduring and
+regular, while its expressly stated period is the night. These verses alone do not settle
+whether a lamp also remained lit by day. They assign no symbolism to the oil. Leviticus 24:1–4
+closely repeats the rule and expressly names the lamps on the pure gold lampstand. See
+[[The Altar and the Court]] and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
+
 ## Key passages
 
 - [[The Creation of the World]] — Genesis 1:3–5: light made, seen to be good, divided from darkness,
@@ -223,6 +232,8 @@ symbolism for light. See [[The Tabernacle Curtains and Frames]].
   [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]]
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The lampstand stands south of the table, outside the inner veil (26:35).
+
+- [[The Altar and the Court]] — Exodus 27:1–21; The lamp needs supplied oil and evening-to-morning care, with no symbolism stated here.
 
 ## Related themes
 

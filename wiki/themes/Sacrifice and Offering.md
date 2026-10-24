@@ -141,6 +141,16 @@ Aaronic priesthood is not yet ordained (28–29), and Moses, not the young men, 
 peace offerings (*zəbāḥîm šəlāmîm*, MAM) are the sacrifice whose meat is eaten (Leviticus 7:15), and the
 leaders eat and drink before God at 24:11. See [[The Blood of the Covenant]] and [[Sacrifice Before the Priesthood]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+The altar of Exodus 27:1–8 is acacia wood overlaid with brass, with horns, utensils, a grating,
+and poles for carrying. Exodus 38:1 identifies the matching object as the altar of burnt
+offering. No offering is performed in chapter 27. The difference from the earth or uncut-stone
+altar of 20:24–26 remains explicit: Exodus gives both commands without explaining their
+relationship. Filling the hollow frame with earth is a proposed reconciliation, not an
+instruction stated in 27:8. See [[The Altar and the Court]] and
+[[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
+
 ## Key passages
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; feasts, first fruits, and limits.
@@ -259,6 +269,8 @@ leaders eat and drink before God at 24:11. See [[The Blood of the Covenant]] and
   out offerings with"*, and the *"bread of the presence … before me always"*. See
   [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] and
   [[The Bread of the Presence - David's Hunger and Matthew 12]]
+
+- [[The Altar and the Court]] — Exodus 27:1–21; A portable crafted altar is prescribed; its relation to the earth-or-stone law remains open.
 
 ## Related themes
 

@@ -76,6 +76,15 @@ handles the blood. Aaron and his sons are present only among those who go up to 
 priests mentioned at 19:22, 24 are not mentioned. The text does not explain why young men act; the wiki
 does not supply a reason. See [[The Blood of the Covenant]] and [[Sacrifice Before the Priesthood]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+Aaron and his sons are assigned the lamp outside the veil in Exodus 27:21. Israel supplies
+the oil; this family tends it from evening to morning on the people's behalf. The instruction
+precedes the explicit appointment in 28:1 and the consecration instructions in chapter 29.
+It is not an account of ordination or a claim that every earlier priest was Aaronic. The
+identity of the priests already mentioned in 19:22, 24 remains unexplained. See
+[[The Altar and the Court]] and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
+
 ## Key passages
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
@@ -137,6 +146,8 @@ does not supply a reason. See [[The Blood of the Covenant]] and [[Sacrifice Befo
   [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 - [[Israel at Mount Sinai]] — Exodus 19:6, 22–24; a kingdom of priests and unnamed priests under distinct limits
 - [[The Blood of the Covenant]] — Exodus 24:5; sacrifices offered by *"young men"*, with Aaron and his sons among the onlookers
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Aaron and his sons receive a lamp duty before their appointment and ordination instructions.
 
 ## Related themes
 

@@ -25,6 +25,8 @@ tags: [connection]
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28; the enclosure, separation, or placement developed here.
 
+- **Exodus 27:1–19; 38:1–7, 9–20; 40:6–8, 24–33** — [[The Altar and the Court]]; the altar, court, or their continuing service.
+
 ## Analysis
 
 **The formula is *kəkōl ʾăšer ṣiwwâ … kēn ʿāśâ*, *"according to all that he commanded … so he
@@ -58,6 +60,14 @@ repetition: 36 does not restate the folding and overhang directions of 26:9, 12�
 and placement commanded in 26:30, 33–35 are reported in 40:18–28. These later passages were read
 in local WEB raw text and remain un-ingested. See [[The Tabernacle Curtains and Frames]]. This extends the obedience motif without
 claiming the full formula occurs in chapter 26.
+
+**Altar and court also move from instruction to making and placement.** Exodus 27:1–19
+prescribes them; 38:1–7, 9–20 reports their making; 40:6–8 commands their positions and
+40:24–33 describes the light, offerings, and completed enclosure. Chapter 38 also adds the
+basin (38:8) between the altar and court accounts, so it is not a verbatim duplicate of
+chapter 27. Chapter 27's lamp rule (27:20–21) concerns continued service, not merely a
+construction completed once. See [[The Altar and the Court]]. The later units remain
+un-ingested and were compared from the local WEB text.
 
 ## Significance
 

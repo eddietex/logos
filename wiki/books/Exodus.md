@@ -329,6 +329,15 @@ among this people?* — and the calf, at the hinge, makes the second question ur
 - **35–40 The tabernacle built** — the offering, the work, the inventory, and the glory filling the
   tent.
 
+### The altar, court, and lamp service — Exodus 27
+
+[[The Altar and the Court]] extends the design to a portable brass-covered altar and a court
+one hundred by fifty cubits. The east gate is distinct from the tent entrance and the inner
+veil. Israel must supply pure beaten olive oil; Aaron and his sons keep the lamp in order
+outside the veil from evening to morning (27:20–21), anticipating the priestly instructions
+that follow. The altar's relation to the earth-or-stone law of 20:24–26 remains unexplained
+by Exodus itself. This chapter prescribes construction and service; it reports neither done.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -399,7 +408,7 @@ for unit.
 - [x] [[The Offering for the Sanctuary]] — Exodus 25:1–9
 - [x] [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40
 - [x] [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37
-- [ ] The Altar and the Court — Exodus 27:1–21
+- [x] [[The Altar and the Court]] — Exodus 27:1–21
 - [ ] The Priestly Garments — Exodus 28:1–43
 - [ ] The Ordination of the Priests — Exodus 29:1–46
 - [ ] The Incense Altar, the Ransom, and the Holy Oil — Exodus 30:1–38

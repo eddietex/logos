@@ -46,7 +46,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
 | [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Exodus 15:1, 20 · Deuteronomy 26:5–9 · Genesis 31:25 · Genesis 29:15 · Genesis 31:43 · Exodus 21:2, 4, 11 |
 | [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |
-| [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]] | image | Exodus 25:31–40 · Exodus 27:20–21 · Zechariah 4:2–6, 14 · Revelation 1:12, 20 · Revelation 2:5 · Exodus 26:35 |
+| [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]] | image | Exodus 25:31–40 · Exodus 27:20–21 · Zechariah 4:2–6, 14 · Revelation 1:12, 20 · Revelation 2:5 · Exodus 26:35 · [[The Altar and the Court]] |
 | [[The Seventh Year's Food - Exodus 23 and Leviticus 25]] | parallel | Exodus 20:8–11 · Exodus 21:2 · Exodus 23:10–12 · Leviticus 25:1–7 |
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
 | [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |

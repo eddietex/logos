@@ -60,6 +60,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] | law-and-narrative | Exodus 22:1 · Exodus 22:4 · 2 Samuel 12:5–6 · Luke 19:8 · Proverbs 6:30–31 |
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
 | [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] | literary-parallel | Job 36:27–37:24 · Job 38:1–3 · Job 38:22–38 · Job 40:6, 9 · Job 9:17 · Job 28:26 |
+| [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]] | parallel | Exodus 27:20–21 · Leviticus 24:1–4 · Exodus 25:31–40 · Exodus 26:35 · Exodus 30:7–8 |
 | [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 |
 | [[A Garment and a Goat - Jacob Deceives and Is Deceived]] | parallel | Genesis 27:9, 15–16 · Genesis 37:31–33 · Genesis 38:14, 17, 20 · Genesis 3:21 · Genesis 39:12 · Genesis 44:1–13 |
 | [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 · Genesis 45:22, 27 |

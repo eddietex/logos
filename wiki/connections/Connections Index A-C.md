@@ -16,17 +16,17 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Abraham's Other Sons in Isaiah 60]] | allusion | Genesis 25:1–6 · Genesis 25:12–16 · Isaiah 60:6–7 · Genesis 12:3 |
 | [[Abram the Hebrew - The First Use of the Name]] | thread | Genesis 14:13 · Genesis 10:21; 11:14–17 · Genesis 39:14; 40:15; 41:12 · Exodus 1:15–19; 2:6; 3:18 · 1 Samuel 4:6; 13:19; 14:11 · Jonah 1:9 · Joshua 24:2–3 · Philippians 3:5 · Exodus 21:2 |
 | [[Affliction and Flight - Hagar and the Exodus]] | parallel | Genesis 15:13 · Genesis 16:6–11 · Exodus 1:11–12 · Exodus 2:15, 23–25 · Exodus 3:7 · Exodus 10:3 · Deuteronomy 23:15–16 · Exodus 14:5 · Exodus 15:22–27 · Genesis 21:15–19 |
-| [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]] | quotation | Exodus 25:9 · Exodus 25:40 · Exodus 26:30 · Acts 7:44 · Hebrews 8:5 · Hebrews 9:11, 24 |
+| [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]] | quotation | Exodus 25:9 · Exodus 25:40 · Exodus 26:30 · Acts 7:44 · Hebrews 8:5 · Hebrews 9:11, 24 · Exodus 27:8 — [[The Altar and the Court]] |
 | [[All the Families of the Earth - Genesis 12.3 in the New Testament]] | quotation | Genesis 12:3 · Genesis 18:18; 22:18; 26:4; 28:14 · Genesis 10:5, 18, 20, 31, 32 · Psalm 72:17 · Isaiah 49:6 · Acts 3:25 · Galatians 3:6–14 |
 | [[The Altar at Shechem and the Covenant at Shechem]] | thread | Genesis 12:6–7 · Genesis 33:18–20 · Genesis 35:4 · Deuteronomy 11:29–30 · Deuteronomy 27 · Joshua 8:30–35 · Joshua 24:1–27 · Judges 9 · 1 Kings 12:1–19 · John 4:5–26 · Exodus 20:25 |
-| [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]] | parallel | Exodus 20:24–26 · Deuteronomy 27:5–7 · Joshua 8:30–31 · Exodus 27:1–8 |
+| [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]] | parallel | Exodus 20:24–26 · Deuteronomy 27:5–7 · Joshua 8:30–31 · Exodus 27:1–8 · [[The Altar and the Court]] |
 | [[Am I a Sea or a Sea Monster - The Guard on the Waters]] | thread | Exodus 7:9–12 · Ezekiel 29:3 · Job 7:12 · Job 3:8 · Genesis 1:2, 21 · Job 9:8, 13; 26:12–13 · Job 38:8–11 · Job 40:15–41:34 · Psalm 74:13–14; 89:9–10 · Psalm 104:6–9, 26 · Jeremiah 5:22 · Isaiah 27:1; 51:9–10 · Revelation 21:1 — "Leviathan a pet" corrected against 41:5 |
 | [[Am I in God's Place - Jacob at 30.2 and Joseph at 50.19]] | parallel | Genesis 30:1–2 · Genesis 50:18–20 · Genesis 25:21 · Genesis 45:5–8 |
 | [[Amalek - From a Concubine's Son to Israel's First Enemy]] | thread | Genesis 36:12, 16 · Genesis 14:7 · Exodus 17:8–16 · Numbers 24:20 · Deuteronomy 25:17–19 · 1 Samuel 15 · Esther 3:1 · 1 Chronicles 4:43 |
 | [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]] | thread | Genesis 24:7 · Exodus 14:19 · Exodus 17:7 · Exodus 23:20–23 · Exodus 32:34 · Exodus 33:2–3, 14–15 · Exodus 34:9 |
 | [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]] | quotation | Genesis 28:12 · John 1:43–51 · Genesis 27:35 · Genesis 32:28 · Hosea 12:3–4 |
 | [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
-| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 · Exodus 25:9 · Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28 |
+| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 · Exodus 25:9 · Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28 · Exodus 27:1–21 · Exodus 38:1–7, 9–20 · Exodus 40:6–8, 24–33 — [[The Altar and the Court]] |
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Job 22:15–17 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |

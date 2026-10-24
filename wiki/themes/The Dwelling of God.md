@@ -62,6 +62,14 @@ one enclosure (26:6, 11), then divides its interior with the veil (26:33). The p
 live among the people (25:8) is not a promise that every space becomes equally accessible. The ark
 and mercy seat are within the veil, the table and lampstand outside it. See [[The Tabernacle Curtains and Frames]].
 
+### The altar, court, and maintained light — Exodus 27:1–21
+
+The sanctuary's design now includes a bounded court as well as an interior tent (Exodus
+27:9–19). Its use requires an ongoing contribution and assigned care: Israel supplies oil,
+and Aaron and his sons keep the lamp in order outside the veil (27:20–21). God's promised
+dwelling among the people thus includes sustained service, not only the making of objects.
+See [[The Altar and the Court]].
+
 ## Key passages
 
 - [[The Blood of the Covenant]] — Exodus 24:16; ***"Yahweh's glory settled on Mount Sinai"***, *šākan*
@@ -75,6 +83,8 @@ and mercy seat are within the veil, the table and lampstand outside it. See [[Th
   him to speak from
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The promised dwelling becomes an assembled tent with an inner boundary.
+
+- [[The Altar and the Court]] — Exodus 27:1–21; The dwelling includes an outer court and a continuing service of light.
 
 ## Related themes
 

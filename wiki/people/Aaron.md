@@ -173,6 +173,14 @@ The priestly
 garments and ordination (28–29); **the golden calf, which he makes** (32); and his death on Mount Hor
 (Numbers 20). These sections are written as their pericopes arrive.
 
+### The lamp service prescribed — Exodus 27:1–21
+
+Aaron and his sons receive a specific sanctuary duty before the appointment and garments
+of chapter 28: they must keep the lamp in order outside the veil from evening to morning
+(Exodus 27:21). Israel supplies the oil. The command anticipates their service; it does not
+narrate their ordination or place them within the most holy space. See [[The Altar and the Court]]
+and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
+
 ## Timeline / key events
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
@@ -211,6 +219,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - Named as the one Moses is to bring up, while others must not break through — Exodus 19:24; [[Israel at Mount Sinai]]
 - Goes up with his sons Nadab and Abihu and seventy elders; sees God and eats and drinks; left with Hur to settle
   disputes — Exodus 24:1, 9–11, 14, [[The Blood of the Covenant]]
+
+- Exodus 27:1–21 — Assigned with his sons to tend the lamp from evening to morning outside the veil. See [[The Altar and the Court]].
 
 ## Appears in
 
@@ -254,6 +264,8 @@ garments and ordination (28–29); **the golden calf, which he makes** (32); and
 - [[Israel at Mount Sinai]] — Exodus 19:24; named for a commanded ascent, not yet narrated
 - [[The Blood of the Covenant]] — Exodus 24:1, 9–11, 14; **the ascent carried out.** *"They saw the God of
   Israel"*; *"Behold, Aaron and Hur are with you"*
+
+- [[The Altar and the Court]] — Exodus 27:1–21; Assigned with his sons to tend the lamp from evening to morning outside the veil.
 
 ## Related people
 

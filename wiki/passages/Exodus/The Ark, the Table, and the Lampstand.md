@@ -195,6 +195,9 @@ place to speak from.**
 - Exodus 25:8; 29:42–43 — the dwelling and the meeting:
   [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
 
+- Exodus 27:20–21 — [[The Altar and the Court]] supplies the lamp's oil rule and named attendants;
+  see [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
+
 ## Notes
 
 ### The boundary
