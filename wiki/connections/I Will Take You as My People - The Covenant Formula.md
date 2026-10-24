@@ -17,6 +17,9 @@ tags: [connection]
 - **Exodus 29:45–46** — *"I will dwell among the children of Israel, and will be their God. They shall
   know that I am Yahweh their God, who brought them out of the land of Egypt, that I might dwell among
   them: I am Yahweh their God."* The formula joined to the tabernacle *(not yet ingested)*
+- **Exodus 25:8** — *"Let them make me a sanctuary, that I may dwell among them."* The dwelling
+  announced, without the formula, four chapters before 29:45 joins them —
+  [[The Offering for the Sanctuary]]
 - **Leviticus 26:12** — the formula with God walking among the people, in the blessings of the
   covenant *(not yet ingested; paraphrased)*
 - **Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33** — the formula as the content of the old covenant's
@@ -48,7 +51,10 @@ length.
 know that I am Yahweh your God, who brings you out"*. Exodus 29:45–46 repeats the same sentence
 almost word for word and adds the purpose: *"that I might dwell among them"*. **The exodus happened
 so that God could live with the people he brought out.** That is the thread the formula carries from
-here to its last occurrence in Revelation 21:3, where God's dwelling is with people.
+here to its last occurrence in Revelation 21:3, where God's dwelling is with people. The first half of that purpose
+is announced at 25:8, *"that I may dwell among them"* (*wəšākantî bətôkām*, MAM), and 29:45 repeats
+the same verb with the formula attached. See
+[[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
 
 **In the prophets it becomes both the measure of failure and the promise of renewal.** As the
 references above show (paraphrased; not yet ingested), Jeremiah gives it as what God commanded at

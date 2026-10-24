@@ -304,6 +304,10 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; theft, damage, deposit, loan, and hire
 - [[Laws of Holiness and Compassion]] — Exodus 22:25–27; lending without interest, and the pledged cloak
+- [[The Offering for the Sanctuary]] — Exodus 25:3–7; **gold, silver, and dyed linen given up for a sanctuary.**
+  The text of 25:1–9 does not say where a people just out of slavery got them; the wiki reads them as the
+  jewels and clothing asked of the Egyptians (3:22; 12:35), and the same gold is given for the calf first
+  (32:2–4). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

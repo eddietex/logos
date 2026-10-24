@@ -103,6 +103,12 @@ glory *"settled"* there (*šākan*, MAM), the verb from which the tabernacle tak
 [[The Blood of the Covenant]] and
 [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]].
 
+**On the mountain, inside the cloud, God gives the plan for a portable sanctuary** (25:1–9). The
+mountain is not named in these verses; Moses is there by context (24:18). What God asks for is a place
+where he can *"dwell among them"* (25:8) — the verb of the glory that *"settled"* on Sinai (24:16;
+MAM). **The tabernacle is designed on Horeb to take the mountain's presence on the road.** See
+[[The Offering for the Sanctuary]].
+
 ## Appears in
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
@@ -135,6 +141,8 @@ glory *"settled"* there (*šākan*, MAM), the verb from which the tabernacle tak
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; Sinai as the setting of the closing promise
 - [[The Blood of the Covenant]] — Exodus 24:1–18; **altar below, vision partway, glory above.** *"Moses went up onto
   God's Mountain"*; *"Yahweh's glory settled on Mount Sinai"*
+- [[The Offering for the Sanctuary]] — Exodus 25:1–9; setting by context; **where the dwelling is designed.** God
+  asks for an offering and shows Moses *"the pattern of the tabernacle"*
 
 ## Related places
 
@@ -167,3 +175,5 @@ glory *"settled"* there (*šākan*, MAM), the verb from which the tabernacle tak
   [[The Angel Sent Ahead]]
 - The covenant sealed in blood; the leaders see God and eat; Moses enters the cloud for forty days —
   Exodus 24:1–18, [[The Blood of the Covenant]]
+- The offering for the sanctuary asked for, and the pattern of the tabernacle shown to Moses — Exodus 25:1–9,
+  [[The Offering for the Sanctuary]]

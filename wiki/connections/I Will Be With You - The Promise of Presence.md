@@ -132,3 +132,9 @@ See [[Jacob's Ladder at Bethel]], [[Isaac in Gerar]], [[Covenant]], [[Call and E
 a test of God. **The same word returns as a plea**: after the golden calf God says *"I will not go up among
 you"* (33:3), and Moses asks *"please let the Lord go among us (bəqirbēnû)"* (34:9; WLC; *not yet ingested*).
 See [[Water from the Rock]].
+
+**The tabernacle is the book's long answer to *"Is Yahweh among us?"*** God's first instruction in the
+cloud is *"Let them make me a sanctuary, that I may dwell among them (bətôkām)"* (Exodus 25:8; MAM) —
+not the *qereb* of 17:7 but its near-synonym *tāwek*, *midst*. **The presence promised to travellers
+becomes a residence in the camp.** See [[The Offering for the Sanctuary]] and
+[[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].

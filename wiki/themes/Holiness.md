@@ -109,6 +109,9 @@ holy place, and most holy place — though Exodus 24 does not draw the compariso
   guards against exposure
 - [[Laws of Holiness and Compassion]] — Exodus 22:31; *"You shall be holy men to me"*, and torn meat refused
 - [[The Blood of the Covenant]] — Exodus 24:1–2; people, leaders, and Moses at three distances from God
+- [[The Offering for the Sanctuary]] — Exodus 25:8; ***"Let them make me a sanctuary"*** — *miqdāš*, its second
+  occurrence in Scripture after the Song of the Sea (15:17; MAM search, Genesis–Exodus 25). **The holy place
+  sung about at the sea is now commissioned**, and it is to be built from a freewill offering
 
 ## Related themes
 
@@ -118,6 +121,7 @@ holy place, and most holy place — though Exodus 24 does not draw the compariso
 - [[Priesthood]] — the office that manages the boundary
 - [[Seeing and Being Seen]] — *"afraid to look at God"*
 - [[Sacrifice and Offering]] — the means of approach
+- [[The Dwelling of God]] — God living among his people (Exodus 25:8)
 
 ## Related people
 

@@ -16,6 +16,9 @@ tags: [connection]
   12:28 at [[The Passover]], **the first time the formula is used of the whole people**; 12:50 at
   [[The Death of the Firstborn and the Departure]], where it follows the second Passover law and is
   preceded by *"All the children of Israel did so"* — the formula twice of the whole people in one chapter
+- **Exodus 25:9** — *"According to all that I show you, the pattern of the tabernacle, and the pattern of
+  all of its furniture, even so you shall make it."* The formula's words in the instruction, before the
+  building — [[The Offering for the Sanctuary]]
 - **Exodus 39:32, 42–43; 40:16** — the finished tabernacle: *"The children of Israel did according to
   all that Yahweh commanded Moses; so they did"*; *"Moses did so. According to all that Yahweh
   commanded him, so he did."* (not yet ingested)
@@ -36,6 +39,11 @@ objecting.** Then it is used of the whole people at the first Passover (12:28, 5
 the tabernacle (39:32, 42–43; 40:16), **where it is repeated until it becomes the structure of the
 closing chapters**. (WLC search of Genesis and Exodus for *ṣiwwâ* with *kēn ʿāśâ*; Genesis 42:25
 and 50:12 use the same verbs for obedience to Joseph and to Jacob, not to God.)
+
+**The tabernacle instructions open with the formula's own words, as a command.** *Kəkōl ʾăšer ʾănî marʾeh
+ʾôtəkā … wəkēn taʿăśû*, *"according to all that I show you … even so you shall make it"* (25:9; MAM).
+The *kəkōl … kēn* frame of 39:32 and 40:16 is already there; what changes at the end is the tense.
+**The book sets the standard in the instruction and reports it met in the completion.**
 
 **The pattern is ark → plagues → Passover → tabernacle.** The formula marks the moments when a
 human being does exactly what God specified — **and two of the four are buildings to a pattern**:

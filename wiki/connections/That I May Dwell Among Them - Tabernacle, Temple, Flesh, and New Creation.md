@@ -1,0 +1,84 @@
+---
+type: connection
+subtype: thread
+tags: [connection]
+---
+# That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation
+
+## Passages involved
+
+- **Exodus 24:16** — *"Yahweh's glory settled on Mount Sinai"* — [[The Blood of the Covenant]]
+- **Exodus 25:8–9** — *"Let them make me a sanctuary, that I may dwell among them. According to all
+  that I show you, the pattern of the tabernacle …"* — [[The Offering for the Sanctuary]]
+- **Exodus 29:45–46** — *"I will dwell among the children of Israel, and will be their God. … who
+  brought them out of the land of Egypt, that I might dwell among them"* *(not yet ingested)*
+- **Exodus 40:34–35** — *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the
+  tabernacle"* *(not yet ingested)*
+- **Leviticus 26:11–12** — *"I will set my tent among you, and my soul won't abhor you. I will walk
+  among you, and will be your God, and you will be my people."* *(not yet ingested)*
+- **1 Kings 8:10–11, 27** — *"the cloud filled Yahweh's house"*; *"will God in very deed dwell on the
+  earth? Behold, heaven and the heaven of heavens can't contain you; how much less this house that I
+  have built!"* *(not yet ingested)*
+- **John 1:14** — *"The Word became flesh, and lived among us. We saw his glory"* *(not yet ingested)*
+- **Revelation 21:3, 22** — *"Behold, God's dwelling is with people, and he will dwell with them, and they
+  will be his people, and God himself will be with them as their God."*; *"I saw no temple in it"* *(not yet ingested)*
+
+(The non-Exodus verses are quoted from the WEB as fetched individually from bible-api.com on
+2026-10-23.)
+
+## Analysis
+
+**One word runs through the thread: Hebrew *šākan*, *to dwell*, and Greek *skēnē*, *tent*.**
+
+**In Exodus the verb moves.** At 24:16 the glory *šākan* on the mountain (MAM). At 25:8 God says
+*wəšākantî bətôkām*, *I will dwell in their midst* (MAM), and the next verse names the structure
+***miškān***, *dwelling place* (25:9; MAM). At 29:45 the same verb, *wəšākantî bətôk bənê yiśrāʾēl*, is
+joined to the covenant formula: *"and will be their God"* (MAM). **The mountain the people could not
+touch becomes a tent they camp around.**
+
+**Leviticus puts the tent and the formula together.** *"I will set my tent (miškānî) among you"*
+(26:11; MAM), followed by *"I will walk among you, and will be your God, and you will be my people"*
+(26:12). The verb *walk* is the hitpael of *hālak* — *wəhithallaktî* here, and *mithallēk* of God in
+the garden at Genesis 3:8 (both MAM). The wiki notes the shared verb and does not build an argument on
+it.
+
+**Solomon's temple raises the problem the tabernacle leaves open.** The cloud fills the house as it
+filled the tent (1 Kings 8:10–11), and Solomon then asks whether God can live on earth at all:
+*"heaven and the heaven of heavens can't contain you; how much less this house"* (8:27). **The temple
+prayer holds both claims at once** — God's glory really fills the house, and no house can contain
+him.
+
+**John uses the tent word.** *"The Word became flesh, and lived among us"* (John 1:14, WEB). The Greek
+verb is ***eskēnōsen*** (SBLGNT), literally *pitched a tent* or *tabernacled*, from *skēnē*, the
+Septuagint's word for the tabernacle (Exodus 25:9, *tēs skēnēs*, Rahlfs). The next clause, *"We saw
+his glory"*, puts the glory where the tent is, as in Exodus 40:34. The sound-likeness of Greek
+*skēnē* and Hebrew *šākan* (*s-k-n* / *š-k-n*) is often noted; whether John intended it cannot be
+shown, and the wiki records it only as an observation.
+
+**Revelation ends the thread with the same words.** *"God's dwelling (hē skēnē tou theou) is with
+people, and he will dwell (skēnōsei) with them"* (Revelation 21:3; SBLGNT). The verse continues with
+the covenant formula, as Exodus 29:45 and Leviticus 26:12 do. **The last dwelling has no
+building**: *"I saw no temple in it, for the Lord God, the Almighty, and the Lamb, are its temple"*
+(Revelation 21:22; *not yet ingested*).
+
+**A textual note on Revelation 21:3.** The WEB's *"a loud voice out of heaven"* and *"they will be his
+people"* follow a text different from the SBLGNT, which reads *ek tou thronou*, *from the throne*, and
+*laoi*, *peoples*, plural. The difference does not affect the dwelling language.
+
+**The Septuagint does not carry the verb at Exodus 25:8.** Rahlfs reads *ophthēsomai en hymin*, *I will
+be seen among you*. The Greek thread from Exodus to John and Revelation therefore runs through the
+noun *skēnē* (25:9), not through the verb of 25:8.
+
+## Significance
+
+- **It names what the exodus was for.** Exodus 29:45–46 says it outright, and 25:8 is the first
+  instruction that serves it. The covenant formula and the dwelling formula are joined in Exodus,
+  Leviticus, and Revelation. See [[I Will Take You as My People - The Covenant Formula]].
+- **It distinguishes residence from visitation.** The presence promised to travellers in
+  [[I Will Be With You - The Promise of Presence]] goes with a person; the dwelling stays among a
+  people.
+- **It gives the New Testament its vocabulary for the incarnation and the end.** John 1:14 and
+  Revelation 21:3 both use *skēnē* words for God living with people.
+
+See [[The Dwelling of God]], [[The Glory of God]], [[Holiness]], and
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]].

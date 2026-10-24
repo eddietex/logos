@@ -73,6 +73,9 @@ glory that fills the tent (40:34–35).** See [[The Blood of the Covenant]].
   Pharaoh"* (*ʾikkābdâ*, WLC)
 - [[Israel at Mount Sinai]] — Exodus 19:9, 16–20; cloud and fire at the public descent, ahead of 24:16–17
 - [[The Blood of the Covenant]] — Exodus 24:16–17; **the glory settles** (*šākan*), cloud for six days, devouring fire on the summit
+- [[The Offering for the Sanctuary]] — Exodus 25:8–9; **the dwelling announced.** The glory that *"settled"* (*šākan*) on
+  Sinai (24:16) is to *dwell* (*šākan*) among the people, in a *miškān* built to God's pattern (MAM). The
+  Septuagint has *"I will be seen among you"* (Rahlfs). See [[The Dwelling of God]]
 
 ## Related themes
 
@@ -81,6 +84,7 @@ glory that fills the tent (40:34–35).** See [[The Blood of the Covenant]].
 - [[Seeing and Being Seen]] — the glory is something seen
 - [[Murmuring]] — the glory's first two appearances in Exodus and Numbers come at murmurings
 - [[Wealth and Possessions]] — *kābôd* as Jacob's *"wealth"* (Genesis 31:1)
+- [[The Dwelling of God]] — the glory's resting place among the people (Exodus 25:8)
 
 ## Related people
 

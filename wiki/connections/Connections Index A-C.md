@@ -25,7 +25,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]] | thread | Genesis 24:7 · Exodus 14:19 · Exodus 17:7 · Exodus 23:20–23 · Exodus 32:34 · Exodus 33:2–3, 14–15 · Exodus 34:9 |
 | [[Angels Ascending and Descending - Genesis 28.12 in John 1.51]] | quotation | Genesis 28:12 · John 1:43–51 · Genesis 27:35 · Genesis 32:28 · Hosea 12:3–4 |
 | [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] | parallel | Genesis 50:22, 26 · Exodus 1:6, 8 · Joshua 24:29 · Judges 2:8–10 |
-| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 |
+| [[As God Commanded, So He Did - The Obedience Formula]] | motif | Genesis 6:22 · Exodus 7:6 · Exodus 7:10, 20 · Exodus 12:28, 50 · Exodus 39:32, 42–43; 40:16 · Exodus 12:50 · Exodus 25:9 |
 | [[As It Was in the Days of Noah]] | typology | Genesis 6:1–8 · Genesis 6:9–7:24 · Job 22:15–17 · Matthew 24:37–39 · Luke 17:26–27 · Hebrews 11:7 · 1 Peter 3:20 · 2 Peter 2:5, 3:5–7 |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |

@@ -252,6 +252,9 @@ leaders eat and drink before God at 24:11. See [[The Blood of the Covenant]] and
   and peace offerings, and no steps
 - [[Laws of Holiness and Compassion]] — Exodus 22:29–30; first produce offered without delay, and the firstborn
 - [[The Blood of the Covenant]] — Exodus 24:4–8; burnt and peace offerings by young men, and the blood divided
+- [[The Offering for the Sanctuary]] — Exodus 25:1–7; ***tərûmâ***, *a contribution set apart*, its first occurrence
+  in Scripture (MAM search, Genesis–Exodus 25), **taken only from *"everyone whose heart makes him willing"*** —
+  no amount, no compulsion; materials for the sanctuary rather than an animal for the altar
 
 ## Related themes
 
@@ -261,6 +264,7 @@ leaders eat and drink before God at 24:11. See [[The Blood of the Covenant]] and
 - [[Blood]] — the one part of the animal that never reaches the table, and the reason it does not
 - [[Life and Death]] — what the firstborn of the flock costs
 - [[Blessing]] — God's word toward what he receives, against the withheld regard of 4:5
+- [[The Dwelling of God]] — God living among his people (Exodus 25:8)
 
 ## Related people
 

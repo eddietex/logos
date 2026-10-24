@@ -1812,6 +1812,18 @@ sits in tension with *"man may not see me and live"* (33:20); the wiki sets out 
 seventh day, and looked to Israel *"like devouring fire"* (24:16–17). See
 [[The Blood of the Covenant]].
 
+### He asks for a willing offering, and says he will live among them — Exodus 25:1–9
+
+**God's first words to Moses in the cloud are a request, not a command to sacrifice.** *"Speak to the
+children of Israel, that they take an offering for me. From everyone whose heart makes him willing you
+shall take my offering"* (25:2). No amount is fixed and no one is compelled; the verb *nādab*, *to give
+freely*, is the only condition (MAM). He names the materials, from gold to acacia wood to stones for the
+priest's garments (25:3–7), and then gives the reason: ***"Let them make me a sanctuary, that I may dwell
+among them"*** (25:8). The verb is *šākan*, the one just used of his glory settling on Sinai (24:16;
+MAM), and he says he will live *among them*, not *in it*. He also keeps the design to himself: the work
+must follow *"the pattern"* (*tabnît*) *"that I show you"* (25:9). The Septuagint has *I will be seen
+among you* in 25:8 (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dwelling of God]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2044,6 +2056,8 @@ seventh day, and looked to Israel *"like devouring fire"* (24:16–17). See
   [[The Angel Sent Ahead]], Exodus 23:20–33
 - Makes the covenant sealed in blood; is seen by the leaders of Israel, who eat and drink; his glory settles on
   Sinai — [[The Blood of the Covenant]], Exodus 24:1–18
+- Asks for a freewill offering for a sanctuary, *"that I may dwell among them"*, built to a pattern he shows —
+  [[The Offering for the Sanctuary]], Exodus 25:1–9
 
 ## Appears in
 
@@ -2439,6 +2453,8 @@ seventh day, and looked to Israel *"like devouring fire"* (24:16–17). See
 - [[The Blood of the Covenant]] — Exodus 24:1–18; *"the blood of the covenant, which Yahweh has made with
   you"*; *"They saw the God of Israel"*; *"He didn't lay his hand on the nobles"*; *"Yahweh's glory settled on
   Mount Sinai"*
+- [[The Offering for the Sanctuary]] — Exodus 25:1–9; *"From everyone whose heart makes him willing"*; ***"Let them
+  make me a sanctuary, that I may dwell among them"***; *"the pattern"* he shows
 
 ## Related people
 

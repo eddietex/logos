@@ -27,7 +27,7 @@ happened.** See [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] and
 [[Birthright and the Firstborn]].
 
 **On the scarlet.** ***Šānî*** is the thread of the tabernacle hangings and the priestly vestments
-(Exodus 25:4; 28:5–6) and of the cleansing rites for leprosy and for the red heifer (Leviticus 14:4;
+(Exodus 25:4, at [[The Offering for the Sanctuary]]; 28:5–6) and of the cleansing rites for leprosy and for the red heifer (Leviticus 14:4;
 Numbers 19:6). **Rahab's cord at Joshua 2:18 is a different word** — *tiqwat ḥûṭ haššānî*, where the
 *šānî* is present but the cord is a *tiqwâ* — **and the wiki draws no connection between the two
 stories**, noting only that the association is a standing one in later Christian reading and is not

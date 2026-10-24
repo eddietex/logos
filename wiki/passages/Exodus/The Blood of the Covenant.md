@@ -163,6 +163,8 @@ says to him there fills the next seven chapters.
   nights: [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]].
 - Deuteronomy 4:24; Hebrews 12:29 — God *"a devouring fire"*:
   [[Sinai and Zion - Exodus 19 and Hebrews 12]].
+- Exodus 25:1–9 — God's first words in the cloud, *"that I may dwell among them"*:
+  [[The Offering for the Sanctuary]].
 - Exodus 3:1–6; 19:3 — the mountain of the bush and of the assembly:
   [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]].
 
@@ -251,7 +253,7 @@ Sinai.
 *"Yahweh's glory settled on Mount Sinai"* (24:16). The verb is *šākan*, *to dwell* or *settle* (MAM).
 God's first instruction from the cloud will use the same verb — *"Let them make me a sanctuary, that I
 may dwell among them"* (25:8, *wəšākantî bətôkām*; MAM) — and its noun *miškān*, *dwelling*, names the
-tabernacle (25:9). At the end of the book the cloud *šākan* on the tent and the glory fills the
+tabernacle (25:9); see [[The Offering for the Sanctuary]]. At the end of the book the cloud *šākan* on the tent and the glory fills the
 *miškān*, and Moses cannot enter (40:35; MAM). Here he walks into the middle of the cloud. **The
 rest of Exodus moves the glory from the mountain into the camp.**
 

@@ -18,6 +18,11 @@ Israel went up"* (24:9). **Then they die for offering *"strange fire"* before Ya
 Leviticus 10, and summarised in Numbers 26:61 (the wiki's rendering of *ʾēš zārâ*, checked in the
 WLC). The priesthood passes through his younger brothers. See [[The Heads of the Fathers' Houses]].
 
+**His name shares its consonants, *n-d-b*, with the verb of the first tabernacle offering**: *"everyone
+whose heart makes him willing"* (*yiddəbennû*, Exodus 25:2; MAM). The name is usually explained from
+that root as *generous* or *willing* (the standard lexical report, not checked against a named lexicon).
+Exodus does not connect the two. See [[The Offering for the Sanctuary]].
+
 The wiki qualifies the page because a later king of Israel has the same name (1 Kings 15).
 
 ## Timeline / key events

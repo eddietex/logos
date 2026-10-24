@@ -13841,3 +13841,72 @@ out, not resolved, in [[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
 
 `scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
 are the expected baseline. No schema, skill, harness, or controller files were changed.
+
+## [2026-10-23] ingest | Exodus 25.1-9 — The Offering for the Sanctuary
+
+Ingested [[The Offering for the Sanctuary]] in unattended mode, keeping the planned boundary (25:1's new
+speech formula; the MAM paragraph marker after 25:9). Exodus moves from 33 to **34 / 53** pericopes. This
+opens the tabernacle instructions (25–31); the ark, table, and lampstand (25:10–40) are next.
+
+The passage page holds the discussion: God's first words in the cloud ask for a *tərûmâ* only from
+*"everyone whose heart makes him willing"* (*nādab*); the list of materials, with the uncertain words
+(*təḥāšîm*, the dyes) marked as uncertain; where the gold came from, read from 3:22, 12:35 and 35:22 and
+labelled as the wiki's reading; the same gold given for the calf first (32:2–4); *"that I may dwell among
+them"* (*šākan*, the verb of 24:16) with *miškān* named in the next verse; the Septuagint's *"I will be
+seen among you"*; *tabnît*, *the pattern*, shown to Moses; and *wəkēn taʿăśû* as the obedience formula's
+words given in advance.
+
+### Decisions and sources
+
+- **New theme [[The Dwelling of God]]**, distinct from [[The Glory of God]] (visible presence) and from
+  [[I Will Be With You - The Promise of Presence]] (accompaniment of travellers). The tabernacle chapters
+  will feed it for the rest of Exodus.
+- **New connection [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]]**: Exodus
+  24:16; 25:8–9; 29:45–46; 40:34–35; Leviticus 26:11–12; 1 Kings 8; John 1:14; Revelation 21:3, 22.
+  **Variant recorded:** at Revelation 21:3 the WEB's *"out of heaven"* and *"people"* against the
+  SBLGNT's *ek tou thronou* and *laoi*.
+- **The pattern connection (Exodus 25:40 in Acts 7:44 and Hebrews 8:5) is deferred to the next
+  pericope**, which contains the verse Hebrews quotes. The passage page cites it without a link.
+- No person page for the givers (an unnamed collective) and no place page beyond [[Horeb]], which is the
+  setting by context only.
+- [[Nadab (son of Aaron)]] gains a note that his name shares *n-d-b* with 25:2's verb, qualified as the
+  usual lexical report; [[Zerah]]'s scarlet note now links the passage.
+- Forward references to Exodus 25:8 marked *not yet ingested* now link the passage, in
+  [[The Song of the Sea]] and [[Water from the Rock]]; [[The Blood of the Covenant]] gains the link and a
+  cross-reference.
+- **Firsts claimed** (*tərûmâ* at 25:2, *tabnît* and *miškān* at 25:9, and *miqdāš* only at 15:17 before
+  25:8) rest on a consonant search of the MAM text of Genesis and Exodus 1–25 through Sefaria.
+- All nine passage verses were generated mechanically from `raw/bible/Exodus.md`. Local WEB comparisons:
+  Genesis 3:8; 6:22; 11:5; 28:17, 19; 38:28, 30; Exodus 3:22; 6:23; 11:2; 12:35–36; 15:17; 17:7;
+  22:29–30; 23:15, 19; 24:16, 18; 25:40; 26:30; 29:45–46; 30:11–16; 32:2–4; 35:5, 21–22, 29; 36:5–7;
+  39:32, 42–43; 40:16, 34–35.
+- Fetched individually from bible-api.com with `translation=web` on 2026-10-23: John 1:14; Revelation
+  21:3, 22; Hebrews 8:5; 9:11, 24; Acts 7:44; 1 Kings 8:10–11, 27; 2 Corinthians 9:7; 1 Chronicles 29:9,
+  14, 17; Leviticus 26:11–12. These later units remain un-ingested.
+- **Hebrew** checked in the *Miqra according to the Masorah* edition through the Sefaria API: Exodus
+  25:1–9; 29:45; 35:5, 21, 29; Genesis 3:8; Leviticus 26:11, 12; 1 Chronicles 29:9, 17. **Greek**: the
+  Septuagint in Rahlfs 1935 (`eliranwong/LXX-Rahlfs-1935`) for Exodus 25:2, 7–9; the SBLGNT (MorphGNT)
+  for John 1:14, Revelation 21:3, 22, and Hebrews 8:5. The meanings of *təkēlet*, *ʾargāmān*,
+  *təḥāšîm*, the root of *tərûmâ*, and the name Nadab are given as usual lexical reports and are
+  qualified where cited.
+
+### Pages created or revised
+
+- **Created (3):** the passage; the theme [[The Dwelling of God]]; the connection
+  [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]].
+- **Existing content pages revised (20):** [[Exodus]]; four people ([[God]], [[Moses]],
+  [[Nadab (son of Aaron)]], [[Zerah]]); one place ([[Horeb]]); six themes ([[The Glory of God]],
+  [[Holiness]], [[Sacrifice and Offering]], [[Wealth and Possessions]], [[Walking with God]], [[Work]]);
+  four connections ([[You Shall Not Go Empty-Handed - The Plunder of Egypt]],
+  [[I Will Take You as My People - The Covenant Formula]],
+  [[As God Commanded, So He Did - The Obedience Formula]],
+  [[I Will Be With You - The Promise of Presence]]); and three passages ([[The Song of the Sea]],
+  [[Water from the Rock]], [[The Blood of the Covenant]]).
+- **Bookkeeping revised (9):** the book and top-level indexes; people F–M; places; themes; connection
+  subindexes A–C, I–N, and T–Z; and this log. Connection subindex sizes are 60, 77, 68, 60, and 85; T–Z
+  is the largest but not yet half again the smallest, so no range change.
+- **Totals by frontmatter type:** 125 passages, 169 people, 90 places, 81 themes, 350 connections;
+  3 books started, 2 complete. No passage title collision was found.
+
+`scripts/link-check.sh` exits 0: no wrapped or dangling wikilinks; the 63 not-yet-started book pages
+are the expected baseline. No schema, skill, harness, or controller files were changed.

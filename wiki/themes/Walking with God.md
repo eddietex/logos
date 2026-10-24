@@ -108,6 +108,9 @@ with God goes with not being destroyed.
 - [[The Months of Old]] — Job 29:2–5; *"by his light I walked through darkness … when the friendship of
   God was in my tent"*. *Sôd ʾĕlôah*, God's intimate counsel, as a household presence — **the book's
   only description of Job's piety from inside**, and given in the past tense.
+- [[The Offering for the Sanctuary]] — Exodus 25:8; ***"that I may dwell among them"*** — God proposing to live in
+  the camp, not only to be walked with. Leviticus 26:11–12 joins the two: *"I will set my tent among you … I will
+  walk among you"* (WEB; *not yet ingested*). See [[The Dwelling of God]]
 
 ## Related themes
 
@@ -120,6 +123,7 @@ with God goes with not being destroyed.
 - [[Sin]]
 - [[Sacrifice and Offering]] — the other thing Genesis records people doing toward God before the
   law, and equally without instructions
+- [[The Dwelling of God]] — God living among his people (Exodus 25:8)
 
 ## Related people
 

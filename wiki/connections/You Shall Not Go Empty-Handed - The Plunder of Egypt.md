@@ -25,6 +25,9 @@ tags: [connection]
 - **Psalm 105:37** — *"He brought them out with silver and gold."*
 - **Deuteronomy 15:13–14** — the released Hebrew slave: *"When you let him go free from you, you shall
   not let him go empty. You shall furnish him liberally …"*
+- **Exodus 25:2–3** — *"From everyone whose heart makes him willing you shall take my offering. This is the
+  offering which you shall take from them: gold, silver, brass"* — [[The Offering for the Sanctuary]]. The
+  source of the metals is not stated in the verse
 
 ## Analysis
 
@@ -59,8 +62,13 @@ commanded to do for its slaves what Egypt was made to do for Israel.** The wiki 
 adopts none.
 
 **And the gold has a future.** What is put on the sons and daughters (3:22) will be given twice more in
-Exodus: **once for the golden calf** (32:2–4) **and once for the tabernacle** (35:22). Those uses are
-recorded for when the pericopes are reached.
+Exodus: **once for the golden calf** (32:2–4) **and once for the tabernacle** (35:22). The first request for
+the tabernacle's materials comes at 25:2–7: *"gold, silver, brass"*, dyed yarn, and stones, taken only
+from those whose heart makes them willing. **Exodus 25 does not say that these are Egypt's goods**; the
+wiki reads the sequence that way because nothing else in the book explains where a people just out of
+slavery got them, and because the offering of 35:22 is *"brooches, earrings, signet rings, and armlets,
+all jewels of gold"* — the kind of goods asked of the Egyptians. See [[The Offering for the Sanctuary]].
+The calf and the offering itself are recorded for when those pericopes are reached.
 
 **The festival law reverses the direction of giving.** Exodus 3:21 promises that Israel will leave
 Egypt supplied; Exodus 23:15 requires that worshippers not appear before God empty. The latter

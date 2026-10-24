@@ -413,6 +413,17 @@ not to carry alone (18:18). See [[The Blood of the Covenant]],
 [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]], and
 [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]].
 
+### Shown the pattern — Exodus 25:1–9
+
+**The first thing Moses hears in the cloud is a request he must carry down: an offering, from the
+willing only** (25:2). He is to collect the materials and to see that everything is made *"according to
+all that I show you, the pattern of the tabernacle"* (25:9). *Show* is singular and addressed to him
+(*marʾeh ʾôtəkā*, MAM): **Moses is the one who sees the design**, as he was the only one who came near
+(24:2). Exodus does not say what he saw. Hebrews 8:5 and Acts 7:44 recall the pattern *"shown to you on
+the mountain"* (quoting 25:40, the next pericope). The offering he collects is narrated at 35:4–36:7,
+where he finally has to stop the people from bringing more (36:6). See
+[[The Offering for the Sanctuary]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -512,6 +523,8 @@ not to carry alone (18:18). See [[The Blood of the Covenant]],
 - Tells the people the words and receives their assent; writes the words; builds an altar and twelve pillars;
   divides the blood, reads the book of the covenant, and sprinkles the people; goes up with the elders who see
   God; enters the cloud for forty days and forty nights — Exodus 24:1–18, [[The Blood of the Covenant]]
+- Told in the cloud to collect a freewill offering for a sanctuary, and shown the pattern of the tabernacle —
+  Exodus 25:1–9, [[The Offering for the Sanctuary]]
 
 ## Appears in
 
@@ -596,6 +609,8 @@ not to carry alone (18:18). See [[The Blood of the Covenant]],
 - [[The Blood of the Covenant]] — Exodus 24:1–18; **the one who comes near.** *"Moses alone shall come
   near to Yahweh"*; *"Moses wrote all Yahweh's words"*; *"Look, this is the blood of the covenant"*;
   *"Moses entered into the middle of the cloud"*
+- [[The Offering for the Sanctuary]] — Exodus 25:1–9; **the one shown the pattern.** *"According to all that I
+  show you"* — singular, to Moses alone
 
 ## Related people
 

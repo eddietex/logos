@@ -215,6 +215,8 @@ See [[Justice, Sabbaths, and Feasts]].
 - [[The Ten Commandments]] — Exodus 20:9–11; the workweek is bounded by rest for dependents as well
   as the household head
 - [[Laws of Property and Restitution]] — Exodus 22:10–15; a keeper's liability limited to what he could prevent
+- [[The Offering for the Sanctuary]] — Exodus 25:9; **work to a pattern.** *"According to all that I show you … even
+  so you shall make it"* — the materials are given freely, the design is not; the craftsmen are named at 31:1–11
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

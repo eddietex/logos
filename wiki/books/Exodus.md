@@ -306,7 +306,13 @@ among this people?* — and the calf, at the hinge, makes the second question ur
   coming *miškān* — and looked *"like devouring fire"*, for forty days and forty nights (24:12–18). See
   [[The Blood of the Covenant]].
 - **25–31 The tabernacle instructions** — sanctuary, furnishings, priesthood, ordination, and the
-  Sabbath sign.
+  Sabbath sign. **God's first words in the cloud ask for an offering** (25:1–9): *"From everyone whose
+  heart makes him willing you shall take my offering"* — no amount and no compulsion (*nādab*, MAM) —
+  in gold, silver, brass, dyed yarn, linen, skins, acacia wood, oil, spices, and stones. Then the
+  reason: ***"Let them make me a sanctuary, that I may dwell among them"*** (25:8), in the verb
+  (*šākan*) just used of the glory on Sinai; and the standard, *"the pattern"* (*tabnît*) that God
+  shows Moses, *"even so you shall make it"* (25:9). The Septuagint has *"I will be seen among you"*
+  (Rahlfs). See [[The Offering for the Sanctuary]] and [[The Dwelling of God]].
 - **32–34 The calf and the covenant renewed** — the breach, Moses' intercession, the glory passing
   by, the second tablets, and the shining face.
 - **35–40 The tabernacle built** — the offering, the work, the inventory, and the glory filling the
@@ -379,7 +385,7 @@ for unit.
 
 ### The tabernacle instructions (25–31)
 
-- [ ] The Offering for the Sanctuary — Exodus 25:1–9
+- [x] [[The Offering for the Sanctuary]] — Exodus 25:1–9
 - [ ] The Ark, the Table, and the Lampstand — Exodus 25:10–40
 - [ ] The Tabernacle Curtains and Frames — Exodus 26:1–37
 - [ ] The Altar and the Court — Exodus 27:1–21

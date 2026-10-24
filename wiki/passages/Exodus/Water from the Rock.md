@@ -249,7 +249,7 @@ twice in Exodus — here, and in Moses' prayer after the golden calf**: *"please
 (bəqirbēnû)"* (34:9; WLC lemma search, Genesis–Exodus; *not yet ingested*), after God has said *"I will not go up
 among you (bəqirbəkā)"* (33:3). **The question the people use as a test is the one Moses will later ask as a
 plea.** **The answer the tabernacle gives** is *"Let them make me a sanctuary, that I may dwell among them"*
-(25:8; *not yet ingested*). See [[I Will Be With You - The Promise of Presence]].
+(25:8; [[The Offering for the Sanctuary]]). See [[I Will Be With You - The Promise of Presence]].
 
 **Who tested whom at Massah?** Three answers in Scripture, and the wiki records all three without choosing:
 
@@ -308,7 +308,7 @@ usual candidates) the verse does not say.
 - Exodus 16:3–8 — *"you have brought us out"*; *"Your murmurings are not against us"* — [[Manna and Quail]]
 - Exodus 17:8–16 — Amalek at Rephidim — [[The Battle with Amalek]]
 - Exodus 19:2 — *"When they had departed from Rephidim"* *(not yet ingested)*
-- Exodus 25:8 — *"that I may dwell among them"* *(not yet ingested)*
+- Exodus 25:8 — *"that I may dwell among them"* — [[The Offering for the Sanctuary]]
 - Exodus 33:3, 21–22; 34:9 — *"I will not go up among you"*; *"you shall stand on the rock"*; *"let the Lord go
   among us"* *(not yet ingested)*
 - Numbers 20:1–13 — the second water from the rock, at Kadesh; *"These are the waters of Meribah"* —

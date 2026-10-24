@@ -435,7 +435,7 @@ once more in Genesis, in Jacob's ruling on Joseph's later sons (48:6) (WLC lemma
 
 ***"The sanctuary, Lord"*** — ***miqdāš ʾădōnāy***. ***Miqdāš*** **occurs here for the first time in
 Scripture**; its next is the command *"Let them make me a sanctuary, that I may dwell among them"* (25:8; WLC
-lemma search; *not yet ingested*). **The Song names the sanctuary ten chapters before the instruction to build
+lemma search), at [[The Offering for the Sanctuary]]. **The Song names the sanctuary ten chapters before the instruction to build
 one.** See [[Holiness]].
 
 ***"Which your hands have established"*** — ***kônənû yādêkā***, the polel of ***kûn***. **Deuteronomy 32:6 uses
@@ -594,7 +594,7 @@ whole song or the refrain of a longer one, the text does not say.** **Psalm 106:
   [[The Passover]]
 - Exodus 13:17, 21; 14:5–31 — the road, the pillar, the crossing — [[The Crossing of the Sea]]
 - Exodus 15:25 — *"Yahweh showed (yārâ) him a tree"* — [[Bitter Water at Marah]]
-- Exodus 25:8 — *"Let them make me a sanctuary"* *(not yet ingested)*
+- Exodus 25:8 — *"Let them make me a sanctuary"* — [[The Offering for the Sanctuary]]
 - Exodus 32:12, 19 — *"your fierce wrath"*; *"the calf and the dancing"* *(not yet ingested)*
 - Leviticus 10:3 — *"Aaron held his peace"* (*dāmam*) *(not yet ingested)*
 - Numbers 12 — Miriam and Aaron against Moses *(not yet ingested)*
