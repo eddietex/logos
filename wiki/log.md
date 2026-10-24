@@ -14555,3 +14555,62 @@ existing attribution; the new comparisons and qualifications concern the verifie
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. The interpretive uncertainties
 above remain explicit in their pages; no operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 34.29-35 — The Shining Face of Moses
+
+Ingested [[The Shining Face of Moses]] in unattended mode, retaining the planned boundary.
+Exodus advances from **44 / 53** to **45 / 53** pericopes. The passage absorbs the discussion:
+the descent with tablets, radiance unknown to Moses, Aaron and Israel's fear, the recalled
+leaders and approaching people, the delivery of commands, and recurring unveiling before
+Yahweh. Exactly one pericope was ingested; Exodus 35:1–29 remains unchecked.
+
+### Decisions and tensions
+
+- God, Moses, and Aaron are the named actors; the rulers and children of Israel remain
+  collective participants rather than new person pages. Sinai remains on [[Horeb]]. No
+  location is invented for the recurring entries before Yahweh in 34:34–35.
+- Preserved the sequence: Moses covers his face after speaking, and Israel sees it shining.
+  Exodus does not state that the brightness fades or expressly give a purpose for the veil.
+  [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]] retains Paul's further
+  interpretation, distinguishing an inability to gaze steadily from an inability to see at all.
+- Created [[Shining on the Mountain - Moses and the Transfiguration]]. Matthew's shining
+  face, Mark's transformed appearance and clothing, and Luke's altered face during prayer
+  remain distinct. Their six-day and approximately eight-day time notices are retained;
+  the mountain is not identified and no Greek claim about departure is made.
+- Kept Moses' visible face distinct from the divine face withheld in 33:20. The existing
+  seeing-God tension is not treated as resolved. Distinguished the face veil from the
+  sanctuary partition and its interpretation in Hebrews.
+- Updated twelve themes and their syntheses. Qualified the covering page's earlier universal
+  claim that adequate covering always comes from another person: that pattern describes its
+  Genesis rescue scenes, while Moses puts on his own veil without a nakedness or shame setting.
+- Updated five earlier passages and five existing connections, including retiring the angel
+  connection's stale endpoint. The completed descent supplies no identification of an angel.
+  No schema, index range, or pericope boundary changed, and no new entity page was needed.
+
+### Sources and verification
+
+All seven WEB verses were copied mechanically from `raw/bible/Exodus.md` and checked for
+exact equality. Internal comparisons use the stored Exodus text. The WEB of 2 Corinthians
+3:1–18, Matthew 17:1–8, Mark 9:2–8, and Luke 9:28–36 was verified directly from bible-api.com
+with `translation=web` on 2026-10-24; each response identified World English Bible. The web
+reader could not open the API URLs, while direct HTTPS requests succeeded. The connection
+analyses paraphrase those verified responses. No later book was fetched into raw, and no new
+Greek or Hebrew wording assertion is made.
+
+### Pages created or revised
+
+- **Created (3):** one passage and two connections.
+- **Existing content pages revised (27):** Exodus; five earlier passages; three people; one
+  place; twelve themes; five connections.
+- **Bookkeeping revised (10):** top-level and book indexes; two people subindexes; places and
+  themes indexes; three connection subindexes; this log.
+- **Totals by frontmatter type:** 136 passages, 176 people, 90 places, 82 themes, 373 connections;
+  3 books started, 2 complete. Every category page has exactly one index row; subindex order
+  and filing ranges pass. All new titles are unique, and every person, place, and theme listed
+  on the passage links back to it. Exactly one queue checkbox changed.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. The motive for Exodus's veil,
+the relation to Paul's interpretation, and the unnamed place of recurring encounter remain
+explicit interpretive limits in their pages; no operational blocker remains.

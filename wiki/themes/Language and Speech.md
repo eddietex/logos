@@ -116,7 +116,19 @@ the covenant"* aloud (24:7), and the people answer what they have heard. God the
 written himself (24:12). Speech, writing, and reading follow one another in a single chapter, and the
 first writing in Scripture (17:14) now becomes the form the law takes. See [[The Blood of the Covenant]].
 
+### The shining face — Exodus 34:29–35
+
+Speech joins all sides of the scene: conversation with Yahweh accounts for the shining
+face (34:29), Moses' call brings back the frightened leaders (34:31), and he communicates
+the commands to all Israel (34:32, 34). The account does not transcribe another speech from
+God here. Its emphasis is the transmission of what has been received, with the face visible
+while the mediator speaks.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Conversation changes Moses; its commands are passed to the people.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; false reports and other gods.
 

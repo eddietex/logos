@@ -260,7 +260,20 @@ Unlike 24:3–8, this scene does not narrate another public assent and blood cer
 to restore the former tablet words (34:1) asserts continuity through a real breach; the writing
 notices in 34:27–28 remain in tension and are examined in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. See [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+The two tablets of the testimony descend intact with Moses (34:29), following the
+replacement promised in 34:1 and contrasting with their breaking in 32:19. Israel receives
+the commands through him (34:32); no new blood rite or public oath is narrated in this unit.
+Paul later uses this scene in contrasting covenant ministries, but Exodus itself presents
+continued instruction after renewal. See
+[[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]].
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Replacement tablets and renewed commands return to the assembly.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Covenant renewed after the broken tablets; rival treaties
   forbidden.

@@ -79,7 +79,19 @@ between direct speech and unrestricted sight, but that is an interpretation, not
 supplied by the narrator. The report that the elders saw God in 24:10–11 remains in tension with
 this prohibition; neither statement should erase the other. See [[Show Me Your Glory]].
 
+### The shining face — Exodus 34:29–35
+
+Moses initially does not know that his own face shines, while Aaron and Israel see it and
+fear approaching (34:29–30). Once called, they draw near and hear the commands; they see his
+face before he covers it again (34:31–35). Seeing Moses does not establish that he saw God's
+face, nor does it remove the tension between Exodus 24:10–11 and 33:20. The visible mediator
+and the withheld divine face remain distinct.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Israel sees Moses shining, not the divine face withheld in 33:20.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Face-to-face speech and the face that cannot be seen.
 

@@ -90,9 +90,22 @@ After the request for glory and the promise of goodness and the name (33:18–23
 in the cloud, passes before Moses, and proclaims his character (34:5–7). The account records
 speech and worship, not a description of the face previously withheld. Reading this as the
 response to the glory request follows the narrative sequence; it does not mean 34:5–7 supplies a
-visual portrait. Moses' shining face belongs to the next unit (34:29–35). See [[The Covenant Renewed]].
+visual portrait. Moses' shining face follows in [[The Shining Face of Moses]] (34:29–35). See [[The Covenant Renewed]].
+
+### The shining face — Exodus 34:29–35
+
+After the request for glory in 33:18 and the proclamation in 34:5–7, Moses returns with his
+face shining (34:29). The WEB of 34:29–35 describes that brightness without calling it glory;
+2 Corinthians 3:7 explicitly calls it the glory of his face (verified WEB, bible-api.com,
+2026-10-24). The relationship belongs to the narrative and its later interpretation, not to an
+assumed identity of Hebrew words. Exodus does not say that the radiance faded. See
+[[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]].
+
+See [[The Shining Face of Moses]].
 
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; The encounter leaves a visible effect on the mediator.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The promised passing is narrated through a proclamation of
   divine character.

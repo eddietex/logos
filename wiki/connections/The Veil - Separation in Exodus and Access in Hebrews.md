@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
+
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:31–35; the inner veil separates the holy place from the most holy.
 - Leviticus 16:2 — Aaron must not enter within the veil at will, lest he die.
 - Hebrews 9:1–8 — two spaces, different priestly access, and the meaning of the restriction.
@@ -61,6 +63,16 @@ Matthew 27:50–51; Mark 15:37–38; and Luke 23:44–46 were fetched individual
 with `translation=web` on 2026-10-23. Quoted wording is from those responses. No claim about an
 exact Greek or Hebrew term is needed for this comparison.
 
+
+### The shining face — Exodus 34:29–35
+
+The veil Moses puts on his face in Exodus 34:33–35 is not the hanging prescribed for the
+sanctuary in chapter 26. One covers a face between encounters and public instruction; the
+other divides spaces. Paul interprets the former in 2 Corinthians 3, while Hebrews discusses
+the latter. A shared English noun does not establish one physical object, one source-language
+term, or one symbolic function. See [[The Shining Face of Moses]] and
+[[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]].
+Exodus 34 checked in local WEB; 2 Corinthians 3 verified at bible-api.com, 2026-10-24.
 
 ## Significance
 

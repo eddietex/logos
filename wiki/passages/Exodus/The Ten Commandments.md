@@ -113,6 +113,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 - [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
 
@@ -239,3 +241,10 @@ to ten commandments follows a collection emphasizing worship (34:10–28). The c
 and difference in immediate legal context are retained in the replacement-tablets connection.
 The generational warning of 34:7 does not repeat 20:5's qualification about those who hate God
 in the WEB.
+
+### The shining face — Exodus 34:29–35
+
+The fear at the public speech in 20:18–21 has a later counterpart when Israel fears the
+shining mediator (34:30). Moses calls them near, and all receive the commands before he veils
+himself (34:31–33). Both scenes join fear with mediated hearing, without making fear alone
+a verdict that the people refuse obedience.

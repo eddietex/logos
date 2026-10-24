@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
 
 - **Genesis 32:30** — *"I have seen God face to face, and my life is preserved"* —
@@ -61,6 +63,13 @@ Verses 21–23 promise a position on the rock, covering by God’s hand, and sig
 after the passing. They do not yet narrate that Moses saw it. The distinction matters:
 chapter 33 sets the terms, while 34:5–7 narrates the passing and proclamation. Neither chapter
 provides an anatomical explanation of the language of face, hand, and back.
+
+### The shining face — Exodus 34:29–35
+
+The face Israel sees in Exodus 34:30, 35 is Moses' face, shining after divine conversation.
+This does not assert that Moses saw the divine face or supply a solution to the earlier tension.
+The distinction between seeing the mediator and seeing God is essential here. See
+[[The Shining Face of Moses]] (WEB checked in local Exodus).
 
 ## Significance
 

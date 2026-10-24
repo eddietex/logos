@@ -115,7 +115,18 @@ The plea that the Lord go among the people (34:9) carries forward the negotiatio
 specifying its site. Neither statement reports the completed sanctuary or the glory filling it;
 the building and indwelling remain later events. See [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+Exodus 34:34–35 describes Moses going in before Yahweh and coming out to Israel. The
+outside tent of 33:7–11 is a plausible narrative setting, but these verses name no tent,
+ark, or room. They therefore cannot prove that the prescribed tabernacle is already complete.
+See [[The Tent Outside the Camp and the Promised Dwelling]].
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Recurring entry before Yahweh continues before the sanctuary is built.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Presence requested again; the promised house is still unbuilt.
 

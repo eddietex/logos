@@ -1917,7 +1917,19 @@ are not removed from the declaration of forgiveness. After Moses' plea he announ
 and marvels, insists on exclusive worship, and gives the renewed calendar (34:9–26). The name
 Jealous belongs to that exclusive claim (34:14). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+Yahweh's conversation with Moses leaves a visible effect on Moses' face (34:29), and the
+commands received on Sinai are conveyed to Israel (34:32). Moses continues to enter before
+Yahweh unveiled and to come out with what he is commanded (34:34–35). This describes renewed
+communication after the calf, without depicting God's face or canceling the limit in 33:20.
+The people see the mediator's face, not a newly narrated view of God's own.
+
+See [[The Shining Face of Moses]].
+
 ## Timeline / key events
+
+- Exodus 34:29–35 — Continues speaking with Moses for instruction to reach Israel. See [[The Shining Face of Moses]].
 
 - Exodus 34:1–28 — Mercy, judgment, covenant renewal, and exclusive allegiance. See [[The Covenant Renewed]].
 
@@ -2167,6 +2179,8 @@ Jealous belongs to that exclusive claim (34:14). See [[Merciful and Gracious - E
 - Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Continues speaking with Moses for instruction to reach Israel.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Mercy, judgment, covenant renewal, and exclusive allegiance.
 

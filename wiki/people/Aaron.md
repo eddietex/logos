@@ -229,7 +229,19 @@ prescribed in chapters 28–29. Deuteronomy 9:20 separately reports Moses prayin
 detail is not stated here. See [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]].
 See [[The Golden Calf]].
 
+### The shining face — Exodus 34:29–35
+
+After the calf and covenant renewal, Aaron appears with Israel among those afraid of
+Moses' shining face (34:30). He and the rulers return when Moses calls (34:31), before all the
+people approach to hear the commands (34:32). He is a recipient here, not the spokesman he
+was before Pharaoh. The text reports neither a separate pardon for him nor his removal from
+the priesthood; those conclusions cannot be supplied by his return alone.
+
+See [[The Shining Face of Moses]].
+
 ## Timeline / key events
+
+- Exodus 34:29–35 — Fears approaching Moses, then returns with the rulers when called. See [[The Shining Face of Moses]].
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
   and to be his *mouth* — Exodus 4:14–16, [[The Burning Bush]]
@@ -276,6 +288,8 @@ See [[The Golden Calf]].
 - Exodus 32 — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Fears approaching Moses, then returns with the rulers when called.
 
 - [[The Golden Calf]] — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35).
 

@@ -141,6 +141,8 @@ says to him there fills the next seven chapters.
 
 ## Cross-references
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 - [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
 
@@ -305,3 +307,10 @@ interpretation, not an explanation stated in this chapter. See
 Unlike chapter 24 it narrates neither a fresh public assent nor a blood ceremony, and it
 explicitly adds abstention from bread and water. These are different scenes within the
 continuing covenant story.
+
+### The shining face — Exodus 34:29–35
+
+Exodus 34:29–35 places visible radiance on Moses as he returns from the mountain. Chapter 24
+places glory on Sinai; chapter 34 describes a shining face, which Paul later explicitly calls
+glory. The connection to the Gospel mountain scenes is examined in
+[[Shining on the Mountain - Moses and the Transfiguration]].

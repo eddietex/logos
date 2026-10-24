@@ -123,7 +123,19 @@ peoples' fear is God's weapon rather than Israel's reverence. See [[The Angel Se
 Sefaria) shows it is not: Exodus 23:27 and Joshua 2:9 have *ʾêmâ*, and Deuteronomy 11:25 has *paḥad*
 and *môrāʾ*. The theme connection holds; the lexical claim did not, and the entry has been revised.
 
+### The shining face — Exodus 34:29–35
+
+Aaron and all Israel are afraid to come near the shining Moses (34:30). Moses calls them,
+the leaders return, and then the people approach (34:31–32). This is fear at the visible effect
+of divine encounter, not an explicit verdict on their moral reverence. Compare the frightened
+assembly in Exodus 20:18–21: mediation makes hearing possible without making fear itself proof
+of either faithfulness or rebellion.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Fear of approaching the shining mediator gives way to hearing.
 
 - [[Job of Uz]] — the phrase in its first Joban form, as one of four terms in the narrator's
   verdict, and shown in practice in the sacrifices of 1:5

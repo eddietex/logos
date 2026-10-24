@@ -90,6 +90,8 @@ scene.
 
 ## Cross-references
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 - [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
 
@@ -168,3 +170,10 @@ pardon of every offense.
 (34:1–4, 17). God's proclamation joins forgiveness and judgment (34:6–7), followed by Moses'
 plea for pardon (34:9). Renewal advances the story without retracting the judgments narrated in
 chapter 32.
+
+### The shining face — Exodus 34:29–35
+
+The descent of Exodus 34:29–35 repeats the return with two tablets from 32:15, but this time
+the tablets remain intact and Israel approaches to hear the commands. Aaron is among those
+initially afraid and then recalled (34:30–31). This narrative reversal shows renewed instruction
+without erasing the calf or reporting a separate pardon for Aaron.

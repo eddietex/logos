@@ -41,7 +41,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]] | thread | Genesis 40:14, 23 · Genesis 41:9 · Judges 16:28 · 1 Samuel 1:11 · Nehemiah 5:19; 13:14 · Job 14:13 · Psalm 106:4 · Isaiah 38:3 · Ecclesiastes 9:15 · Luke 23:42 · Job 14:13 |
 | [[Renamed and Still Called Jacob - The Two Namings of Israel]] | parallel | Genesis 32:28 · Genesis 35:9–10 · Genesis 17:5, 15 · Genesis 35:21–22 · Genesis 46:2 · Hosea 12:2–4 · Genesis 45:21, 27–28 |
 | [[Renounce God and Die - The Euphemism and the Accuser's Prediction]] | parallel | Job 2:9 · Job 1:5, 11, 21 · Job 2:3, 5 · Genesis 3:1–6, 17 · 1 Kings 21:10, 13 · Job 27:5–6 |
-| [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]] | parallel and tension | Exodus 20:1–21 · Exodus 24:3–18 · Exodus 31:18 · Exodus 32:15–19 · Exodus 34:1–28 · Deuteronomy 10:1–5 |
+| [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]] | parallel and tension | Exodus 20:1–21 · Exodus 24:3–18 · Exodus 31:18 · Exodus 32:15–19 · Exodus 34:1–28 · Deuteronomy 10:1–5 · Exodus 34:29–35 |
 | [[Rewarding Evil for Good - A False Charge That Is Exactly True]] | idiom | Genesis 37:3–4, 18–28 · Genesis 44:4 · 1 Samuel 24:17; 25:21 · Psalm 35:12; 38:20; 109:4–5 · Proverbs 17:13 · Jeremiah 18:20 · Romans 12:17, 21 · 1 Thessalonians 5:15 · 1 Peter 3:9 |
 | [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |
 | [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]] | typology | Exodus 17:5–6 · Numbers 20:2–13 · Deuteronomy 8:15 · Deuteronomy 32:4 · Psalm 78:15–20 · Psalm 105:41 · Psalm 114:8 · John 7:37–38 · 1 Corinthians 10:1–4 |
@@ -57,6 +57,8 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 9:27 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 · [[The Golden Calf]] (Exodus 32:9–14, 30–34) |
 | [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] | thread | Job 2:10 · Job 1:21 · Isaiah 45:7 · Lamentations 3:37–38 · Amos 3:6 · Deuteronomy 32:39 · 1 Samuel 2:6–7 · Ecclesiastes 7:14 · Genesis 50:20 · 2 Corinthians 12:7–9 |
 | [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Exodus 22:31 · Amos 3:12 · John 10:11–13 |
+| [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]] | interpretation and tension | Exodus 34:1–35 · 2 Corinthians 3:1–18 |
+| [[Shining on the Mountain - Moses and the Transfiguration]] | parallel and typology | Exodus 24:15–18 · Exodus 34:29–35 · Matthew 17:1–8 · Mark 9:2–8 · Luke 9:28–36 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |
 | [[The Sign and the Seal - Genesis 17 in Romans 4]] | quotation | Genesis 15:6 · Genesis 17:5, 10–11, 24 · Romans 4:9–12, 16–18 · Galatians 3:6–9, 15–18 · James 2:21–24 |
 | [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] | parallel | Genesis 41:42–43 · Esther 3:10 · Esther 6:6–11 · Esther 8:2, 15 · Esther 10:3 · Daniel 2:48 · Daniel 5:7, 29 |

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
+
 - [[The Ten Commandments]] — Exodus 20:1–21, the assembly's address.
 - [[The Blood of the Covenant]] — Exodus 24:3–8, 12, 18, Moses' writing and promised tablets.
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:18, tablets given.
@@ -47,6 +49,14 @@ history. The wiki records the tension and these possible readings without decidi
 **Sources:** Exodus 20:1–21; 24:3–18; 31:18; 32:15–19; 34:1–28 read in local WEB.
 Deuteronomy 10:1–5 retrieved from bible-api.com (`translation=web`) on 2026-10-24.
 No source-language pronoun, vocabulary, or textual-variant claim is made.
+
+### The shining face — Exodus 34:29–35
+
+Exodus 34:29 now narrates Moses descending with two tablets of the testimony, followed by
+the delivery of the commandments to all Israel (34:32). The continuation confirms possession
+and public transmission, but adds no fresh identification of the writer in 34:28. Unlike the
+earlier descent in 32:19, these tablets are not broken. See [[The Shining Face of Moses]];
+34:29–35 checked in local WEB.
 
 ## Significance
 

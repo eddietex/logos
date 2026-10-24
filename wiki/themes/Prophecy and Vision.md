@@ -79,7 +79,18 @@ happens.
 - **1 Corinthians 12–14; Ephesians 2:20; 1 John 4:1** — prophecy as a continuing gift in the church,
   subject to testing.
 
+### The shining face — Exodus 34:29–35
+
+Moses speaks what Yahweh commands him (34:32, 34), continuing his role as the bearer of
+divine speech. This unit does not title him a prophet or narrate a dream. Nor does his shining
+face license an inference that he saw the divine face withheld in 33:20. The emphasis is on
+the encounter's effect and faithful transmission of commands.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Received speech is conveyed without a new dream or vision report.
 
 - [[The Covenant Between the Pieces]] — Genesis 15:1: *"Yahweh's word came to Abram in a vision"*, the
   prophetic formula's first appearance in Scripture, attached to the man Genesis 20:7 will call the

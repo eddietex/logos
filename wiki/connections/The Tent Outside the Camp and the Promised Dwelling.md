@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
+
 - [[The Offering for the Sanctuary]] — Exodus 25:8–9; the dwelling among the people prescribed.
 - [[The Ordination of the Priests]] — Exodus 29:42–46; meeting and dwelling as the exodus’s purpose.
 - [[Show Me Your Glory]] — Exodus 33:3, 7–17; threatened absence, the outside tent, and presence granted.
@@ -39,6 +41,14 @@ already completed in chapter 33.
 
 Sources: WEB in `raw/bible/Exodus.md`, chapters 25, 29, 33, and 40. No source-language identity
 claim or historical reconstruction is treated as established by the English title.
+
+### The shining face — Exodus 34:29–35
+
+Exodus 34:34–35 extends the pattern of entering before Yahweh and coming out to speak to
+Israel, now with a veil removed and replaced. The nearby tent scene makes a tent setting
+plausible, but these verses name no structure. They neither report the sanctuary built nor
+settle the historical relationship between the tents. See [[The Shining Face of Moses]];
+Exodus 34:29–35 checked in local WEB.
 
 ## Significance
 

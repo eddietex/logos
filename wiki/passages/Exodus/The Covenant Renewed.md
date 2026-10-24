@@ -97,6 +97,8 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
 
 ## Cross-references
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
+
 - [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]
 - [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
 - [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]]
@@ -182,7 +184,8 @@ literary sources is treated as established by this passage.
 
 The forty days repeat 24:18's duration, but 34:28 explicitly adds abstention from bread and
 water. It is a narrative report about Moses' encounter, not an instruction for Israel to fast
-this way. The planned 34:1–28 boundary is retained; 34:29–35 remains unchecked.
+this way. The planned 34:1–28 boundary is retained; the descent is now ingested separately as
+[[The Shining Face of Moses]], Exodus 34:29–35.
 
 ### Sources
 
@@ -190,3 +193,9 @@ Key verses were copied directly from `raw/bible/Exodus.md` (WEB). Internal Exodu
 comparisons use existing raw files. Numbers 14:17–23, Jonah 4:1–3, Deuteronomy 10:1–5, and
 Ezekiel 18:19–23 were verified at bible-api.com (`translation=web`) on 2026-10-24, with no
 later book added to raw. No new source-language wording claim is made.
+
+### The shining face — Exodus 34:29–35
+
+The descent in Exodus 34:29–35 now brings the tablets and renewed commands to the people.
+Moses' shining face accompanies their reception of instruction; it does not supply an explicit
+solution to the writing notices in 34:27–28.

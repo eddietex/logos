@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; continued communication without a named angel.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
@@ -98,4 +100,5 @@ Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 - **The angel’s identity remains unsettled.** Exodus 33 now supplies the promise of presence;
   [[The Covenant Renewed]] carries the narrative forward.
   The verses from those chapters are quoted from `raw/bible/Exodus.md` and their Hebrew checked in
-  MAM; chapters 32–33 and 34:1–28 now have passage pages; 34:29–35 remains ahead.
+  MAM for the previously cited verses. Chapters 32–34 now have passage pages;
+  [[The Shining Face of Moses]] completes the sequence without identifying an angel.

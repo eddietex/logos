@@ -144,7 +144,19 @@ herds must not graze before it (34:2–3). Renewed mercy does not remove the res
 approach. This develops the boundary around Sinai in 19:12–13 without claiming that the English
 word holy occurs in these instructions. See [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+The effect of Moses' encounter makes the people afraid, but he calls them near and gives
+them the commands (34:30–32). The account belongs to the theme of bounded approach without
+stating a new consecration law or threatening death for seeing Moses. Unlike the sanctuary
+partition of Exodus 26, the face veil is removed for encounter and public instruction; the
+two coverings must not be treated as a single object or rule.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Awe and distinction coexist with an invitation to approach.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The renewed ascent excludes companions and grazing animals.
 

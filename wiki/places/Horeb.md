@@ -161,7 +161,18 @@ in the cloud, and Moses remains forty days and nights (34:5, 28). The existing j
 of Horeb and Sinai does not locate the mountain more precisely than this narrative permits. See
 [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+Mount Sinai is named as the place from which Moses descends and where Yahweh spoke the
+commands (34:29, 32). The mountain setting now leads to a return with intact tablets and a
+changed face. The repeated entries before Yahweh in 34:34–35 do not name their location;
+they should not be made repeated ascents of the summit without evidence.
+
+See [[The Shining Face of Moses]].
+
 ## Appears in
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Sinai is the mountain of the descent with intact tablets and a shining face.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Sinai named as the location of the solitary renewed ascent.
 
@@ -227,6 +238,8 @@ of Horeb and Sinai does not locate the mountain more precisely than this narrati
 
 ## Events here
 
+- Exodus 34:29–35 — Sinai is the mountain of the descent with intact tablets and a shining face. See [[The Shining Face of Moses]].
+
 - [[The Covenant Renewed]] — Sinai named as the location of the solitary renewed ascent.
 
 - Laws of justice, shared rest, and feasts received in the continuing address — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -236,7 +249,8 @@ of Horeb and Sinai does not locate the mountain more precisely than this narrati
 - Water from the rock *"on the rock in Horeb"*, where God stands before Moses — Exodus 17:6,
   [[Water from the Rock]]
 - The assembly, covenant offer, and descent in fire — Exodus 19:1–25, [[Israel at Mount Sinai]]
-- *(ahead)* The tabernacle instructions, the calf, and the second tablets — Exodus 25–34
+- The tabernacle instructions, the calf, and the second tablets — Exodus 25–34, culminating in
+  [[The Shining Face of Moses]].
 - *(ahead)* Elijah's forty days, and the still small voice — 1 Kings 19:8–18
 
 - [[The Ten Commandments]] — public commandments, trembling, and Moses’ approach (20:1–21)

@@ -26,7 +26,7 @@ is not compelled: the noun is Leviticus's, but the verb in Genesis 9:22 is *saw*
    opened, and they both knew that they were naked. They sewed fig leaves together, and made
    coverings for themselves"* (3:7) — and it is not enough, because at 3:10 the man is still afraid
    *"because I was naked"* while wearing them.
-3. **The adequate covering is always given by someone else.** *"Yahweh God made coats of animal
+3. **In these two rescue scenes, the adequate covering is given by someone else.** *"Yahweh God made coats of animal
    skins for Adam and for his wife, and clothed them"* (3:21) is God's last recorded act in the
    garden. At 9:23 it is Shem and Japheth with a garment on their shoulders. In both cases the person
    exposed does not fix it, and in both cases the covering costs the coverer something — a skin, or a
@@ -96,7 +96,19 @@ when the priests approach the altar or enter the tent, *"that they don't bear in
 die"* (Exodus 28:42–43). Exodus 20:26 had forbidden steps to the altar for the same exposure;
 the text does not link the two rules itself. See [[The Priestly Garments]] and [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
 
+### The shining face — Exodus 34:29–35
+
+Moses covers his face after speaking and removes the veil before Yahweh (34:33–35).
+This covering concerns the radiance of an encounter, not nakedness, sexual shame, or a garment
+given by another. The earlier pattern of mercifully clothing an exposed person therefore
+cannot be made a universal account of biblical covering. No textile, color, or method of
+fastening is specified. See [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]].
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; The face veil covers radiance rather than shameful exposure.
 
 - [[The Garden of Eden]] — 2:25, nakedness without shame
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:21's *ʿārōm*, **the theme's one use that

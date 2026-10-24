@@ -187,7 +187,18 @@ the suspension of law. Moses must cut stones and write as commanded (34:1, 4, 27
 between his writing and the divine promise to write is kept explicit in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. See
 [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+Moses gives all Israel the commandments Yahweh spoke with him on Mount Sinai (34:32).
+Verse 34 then describes him continuing to speak what he is commanded. The shining face does
+not replace verbal instruction, and the veil is not worn during its delivery (34:33–35).
+Approach and hearing are narrated here; subsequent compliance is not yet reported.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; The received commands are delivered to all Israel.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Renewal restores obligations and writing after disobedience.
 

@@ -91,6 +91,8 @@ these instructions and promises, before the narrated passing in 34:5–7.
 
 ## Cross-references
 
+- [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 - [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]
 
@@ -152,3 +154,9 @@ The planned boundary is retained: exactly Exodus 33:1–23 is ingested.
 The passing and proclamation promised in 33:19–23 are narrated in [[The Covenant Renewed]] (34:5–7). Moses
 responds with worship and a renewed plea for presence, pardon, and belonging (34:8–9). The
 description centers on divine character without depicting the face that 33:20 withholds.
+
+### The shining face — Exodus 34:29–35
+
+Exodus 34:29–35 describes the effect of divine conversation on Moses' face and his repeated
+entry before Yahweh. Israel sees Moses shining; that does not mean he saw God's face. The
+setting of the later entries is not named, though the tent in 33:7–11 supplies nearby context.

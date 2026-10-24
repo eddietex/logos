@@ -402,7 +402,15 @@ belonging (34:8–9). God announces a covenant and marvels, rejects rival worshi
 and repeats the firstborn, Sabbath, feast, and offering laws (34:10–26). Moses stays forty days
 and nights without bread or water. The writing notices in 34:1, 27–28 and their relation to
 Deuteronomy remain explicit in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]].
-The shining face and descent belong to the next pericope.
+The descent is narrated in [[The Shining Face of Moses]].
+
+### The shining face — Exodus 34:29–35
+
+In [[The Shining Face of Moses]], Moses descends with the testimony tablets and a shining face
+of which he is unaware (34:29). Aaron and Israel fear approaching, but his call brings the
+leaders and then the people near to receive the commands (34:30–32). He veils himself after
+speaking and removes the veil for each encounter before Yahweh (34:33–35). The repeated pattern
+continues communication after renewal; the construction of the sanctuary has not yet begun.
 
 ## Pericopes
 
@@ -485,7 +493,7 @@ for unit.
 - [x] [[The Golden Calf]] — Exodus 32:1–35
 - [x] [[Show Me Your Glory]] — Exodus 33:1–23
 - [x] [[The Covenant Renewed]] — Exodus 34:1–28
-- [ ] The Shining Face of Moses — Exodus 34:29–35
+- [x] [[The Shining Face of Moses]] — Exodus 34:29–35
 
 ### The tabernacle built (35–40)
 

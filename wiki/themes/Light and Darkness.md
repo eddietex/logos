@@ -121,7 +121,19 @@ whether a lamp also remained lit by day. They assign no symbolism to the oil. Le
 closely repeats the rule and expressly names the lamps on the pure gold lampstand. See
 [[The Altar and the Court]] and [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
 
+### The shining face — Exodus 34:29–35
+
+The skin of Moses' face shines because of his conversation with Yahweh (34:29). This is
+neither the supplied light of the lampstand nor a general claim that every divine encounter
+produces brightness. The text gives no color, shape of rays, or rate of fading. The later
+mountain accounts compare readily, but their details differ; see
+[[Shining on the Mountain - Moses and the Transfiguration]].
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Brightness is borne by a person returning from divine speech.
 
 - [[The Creation of the World]] — Genesis 1:3–5: light made, seen to be good, divided from darkness,
   and both halves named. **Everything else on this page is downstream of three verses.**

@@ -506,7 +506,20 @@ to write and remains forty days and nights without bread or water (34:27–28). 
 notice must be read beside God's promise to write in 34:1; the possible subjects and relation to
 Deuteronomy are recorded in [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. See [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+Moses comes down with the tablets unaware that his face shines (34:29). He calls the
+frightened Aaron and rulers back, then speaks the commands to all Israel (34:30–32). He veils
+himself only after speaking and removes the covering before Yahweh (34:33–35). His visible
+distinction is joined to continuing instruction, not to a refusal of access. Exodus does not
+report the radiance fading; Paul's later interpretation is examined in
+[[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]].
+
+See [[The Shining Face of Moses]].
+
 ## Timeline / key events
+
+- Exodus 34:29–35 — Returns shining, recalls the frightened people, and transmits the commands. See [[The Shining Face of Moses]].
 
 - Exodus 34:1–28 — Cuts new tablets, ascends alone, worships, intercedes, and fasts. See
 [[The Covenant Renewed]].
@@ -624,6 +637,8 @@ Deuteronomy are recorded in [[The Replacement Tablets - Exodus 34 and Deuteronom
 - Exodus 32 — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Returns shining, recalls the frightened people, and transmits the commands.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Cuts new tablets, ascends alone, worships, intercedes, and
   fasts.

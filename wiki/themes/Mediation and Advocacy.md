@@ -187,7 +187,19 @@ Israel has ceased to be stiff-necked. His inclusion of himself expresses solidar
 narrating his participation in making the calf. Covenant renewal follows (34:10, 27), and no
 sacrifice or substitution by Moses is performed in this unit. See [[The Covenant Renewed]].
 
+### The shining face — Exodus 34:29–35
+
+Moses' mediation continues after covenant renewal: he calls the frightened leaders and
+people near and relays all the commands received on Sinai (34:31–32). The veil is put on after
+he finishes speaking, not before they hear him (34:33). Verses 34–35 extend this into a
+repeated movement before Yahweh and back to Israel. His distinction serves communication,
+rather than making the commands a private possession.
+
+See [[The Shining Face of Moses]].
+
 ## Key passages
+
+- [[The Shining Face of Moses]] — Exodus 34:29–35; Moses moves between divine speech and public instruction.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Moses intercedes in solidarity after receiving the proclamation.
 
