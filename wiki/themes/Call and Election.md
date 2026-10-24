@@ -117,7 +117,19 @@ presence that distinguishes them from other peoples (33:16). Israel’s distinct
 here as dependence on God going with them, despite their stiff-necked conduct, not as evidence of
 superior character. See [[Show Me Your Glory]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The divine choice announced to Moses in 31:2–6 is now made public (35:30–35). Moses calls
+the two named makers and the wider skilled, willing company (36:2). Named election serves
+shared work; it does not imply that everyone else is ungifted. The fathers and tribes identify
+the makers without receiving their own commissioning in this unit.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named appointment becomes public
+  summons and shared willing work.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Known by name; the people distinguished by presence.
 

@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; the command defines the work and its
+  material need.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
 
 - **Genesis 6:22** — *"Thus Noah did. He did all that God commanded him."* —
@@ -84,6 +87,16 @@ in 35:25–26; completion of all components is not. This comparison concerns the
 pattern, not an assertion that 35:29 contains the full Hebrew formula discussed above.
 
 Source: the cited verses checked in local raw WEB, 2026-10-24.
+
+### The command governs the work's supply — Exodus 36:1–7
+
+In [[Bezalel's Workmen and the Surplus]], the workers are to make everything according to
+Yahweh's command (36:1), and their report of surplus measures the contributions against the
+work Yahweh commanded (36:5). Moses stops further gifts (36:6). This extends the narrative
+movement from instruction to response while leaving the completion reports of chapters 39–40
+ahead. It does not assert that this unit contains the full Hebrew formula analyzed above.
+
+Source: Exodus 36:1–7 checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

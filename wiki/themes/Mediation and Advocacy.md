@@ -206,7 +206,19 @@ independent design or watching Moses manufacture the sanctuary alone.
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Moses carries the divine appointment to Israel (35:30–35), summons the makers, and passes
+the gifts to them (36:2–3). The workers bring their assessment back to him; his proclamation
+then reaches the camp (36:4–6). The movement of communication works in both directions.
+This is practical mediation of a shared commission, not an intercessory prayer or a new oracle.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Moses announces, summons, distributes,
+  listens, and stops the collection.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Moses brings the mountain instructions to the whole assembly.
 

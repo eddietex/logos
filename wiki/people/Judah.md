@@ -240,6 +240,14 @@ works alongside Oholiab of Dan; the priestly clothing they make belongs to Aaron
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Bezalel's public introduction identifies his tribe as Judah (35:30), repeating 31:2.
+The tribal name places the craftsman within Israel; it does not place the patriarch at Sinai
+or assign him a share of Bezalel's personal work.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -271,6 +279,9 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Tribal ancestry of Bezalel repeated;
+  the patriarch is not an actor.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; tribal name in Bezalel's ancestry; no
   personal appearance.

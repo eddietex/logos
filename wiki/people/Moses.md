@@ -526,6 +526,16 @@ The narrative begins to enact the instructions he received before the calf.
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+After announcing Yahweh's choice of the makers (35:30–35), Moses calls the skilled and willing
+workers and hands over the contributions (36:2–3). When they report that supply exceeds the
+work's need, he has the camp told to stop bringing (36:4–6). His mediation includes listening
+to the people doing the work; he neither makes every object himself nor keeps collecting
+without reference to the commissioned task.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Assembles Israel and relays the commands for rest, materials, and skilled work. See [[The Freewill Offering]].
@@ -646,8 +656,13 @@ See [[The Freewill Offering]].
 - Exodus 30:1–38 — Told to make the incense altar, collect the census ransom, and compound and apply the anointing oil. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 - Exodus 32 — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34). [[The Golden Calf]]
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Summons the makers, transfers the
+  contributions, and stops further giving.
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Summons the makers, transfers the
+  contributions, and stops further giving.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Assembles Israel and relays the commands for rest, materials, and skilled work.
 

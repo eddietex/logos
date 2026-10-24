@@ -163,7 +163,19 @@ these are different stages of the narrative.
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The workmanship and gifts are directed to the service of the sanctuary (36:1, 3–5). Skilled
+making serves a holy purpose without being described as priestly ordination. Having enough
+materials (36:7) does not itself consecrate the objects or complete the sanctuary's erection;
+the passage reports the supply and workforce, not an anointing ceremony.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Ordinary technical skills and donated
+  materials serve the sanctuary.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; A holy day and holy garments belong to one commanded project.
 

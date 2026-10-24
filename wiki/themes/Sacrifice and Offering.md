@@ -194,7 +194,21 @@ even though both support the Tent of Meeting. See
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The offering continues every morning after the workers receive the accumulated materials
+(36:3). Their report of excess prompts Moses to stop further contributions (36:4–6), and the
+narrator confirms sufficiency and surplus (36:7). This is the end of a particular collection,
+not a prohibition on future offerings. No sacrifice or disposal of excess material is narrated.
+See [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] and
+[[Enough for the Work - Manna and the Sanctuary Offering]].
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Freewill contributions cease when the
+  work is fully supplied.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Voluntary materials and spun yarn supply the sanctuary.
 

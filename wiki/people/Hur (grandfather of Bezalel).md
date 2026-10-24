@@ -18,12 +18,23 @@ expressly identify him as Moses' companion.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Moses repeats Hur's place as Bezalel's grandfather in the Judahite genealogy (35:30).
+The repetition supplies no identification with Moses' companion from 17:10–12 and 24:14.
+The earlier uncertainty remains; neither a new office nor a role in the work is assigned to Hur.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Named as the craftsman's grandfather — Exodus 31:2. See
   [[Bezalel, Oholiab, and the Sabbath Sign]].
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Genealogy repeated in the public
+  announcement; identity with Moses’ companion remains uncertain.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Named as the craftsman's grandfather — Exodus 31:2.
 

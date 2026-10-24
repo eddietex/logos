@@ -109,7 +109,19 @@ the Spirit of God in 31:3.
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The filling described for Bezalel (35:31) is followed by the ability to teach attributed to
+him and Oholiab (35:34). Wisdom and understanding also belong to the wider company (36:1–2).
+Divine gifting and the transmission of skill appear together, without a narrative of training
+or a claim that all workers have identical abilities.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; God-given skill includes teaching and
+  is distributed among the makers.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Wise-hearted women make skill visible in spinning.
 

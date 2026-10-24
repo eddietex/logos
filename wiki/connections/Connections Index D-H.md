@@ -35,6 +35,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
+| [[Enough for the Work - Manna and the Sanctuary Offering]] | contrast | Exodus 16:16–30 · Exodus 36:3–7 |
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |

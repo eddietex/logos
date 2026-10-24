@@ -142,7 +142,19 @@ named supervisors are announced in the next unit, and 35:1–3 places its limits
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Teaching belongs to Bezalel and Oholiab's gift (35:34); the wider company joins wisdom to
+willing participation (36:1–2). The workers are already at their tasks when they report excess
+materials (36:4–5). Moses halts contributions, not construction. Skilled labor includes knowing
+what the work requires and communicating when its supply is sufficient.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Making, teaching, and assessing the
+  supplies needed for the task.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Making and giving include the skilled labor of women, bounded by Sabbath.
 

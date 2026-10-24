@@ -178,7 +178,17 @@ habitations are the scope of the Sabbath fire rule (35:3); no new settlement or 
 introduced. Materials for the prescribed sanctuary are now brought, without a report of its
 erection. See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The proclamation stopping gifts goes throughout the camp (36:6). The ongoing Sinai setting
+follows the assembly after Moses' descent; this unit names no new location or departure.
+The workers are engaged in sanctuary work (36:4), but neither its erection nor the filling
+with glory is reported here. See [[Bezalel's Workmen and the Surplus]].
+
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; the camp hears the order stopping
+  further contributions.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; the assembly and gifts at the Sinai camp by context.
 
@@ -247,6 +257,9 @@ erection. See [[The Freewill Offering]].
 - [[Massah and Meribah]] — the name given to the place of the water (17:7)
 
 ## Events here
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; makers summoned and surplus
+  contributions halted.
 
 - Moses assembles Israel for Sabbath and sanctuary instructions; the willing bring gifts — [[The Freewill Offering]].
 

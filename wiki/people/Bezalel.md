@@ -16,12 +16,27 @@ of the gift.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Moses repeats his name, ancestry, and Spirit-given ability to Israel (35:30–33), then names
+teaching as a gift shared with Oholiab (35:34). Moses summons both men with the other skilled,
+willing workers, and they receive the contributions (36:1–3). The makers report a surplus
+collectively (36:4–5); no individual speech is assigned to Bezalel. Teaching is part of the gift,
+without an account of his prior training or a claim that he alone makes everything.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Called and equipped for the sanctuary work — Exodus 31:2–11. See
   [[Bezalel, Oholiab, and the Sabbath Sign]].
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Publicly announced, equipped to teach,
+  and summoned with the wider workforce.
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Publicly announced, equipped to teach,
+  and summoned with the wider workforce.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Called and equipped for the sanctuary work — Exodus
   31:2–11.

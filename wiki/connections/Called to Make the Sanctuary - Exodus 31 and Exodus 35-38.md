@@ -11,8 +11,8 @@ tags: [connection]
 
 - [[The Priestly Garments]] — Exodus 28:3; gifted, wise-hearted makers.
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–11; appointment and commission.
-- Exodus 35:30–36:7 — Moses announces the makers, summons the workers, and receives their report of
-  sufficient materials; verified local WEB, not yet ingested.
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; public announcement,
+  teaching, summons, and surplus now narrated in an ingested passage.
 - Exodus 38:22–23 — Bezalel's completion credited and Oholiab's skills described; verified local
   WEB, not yet ingested.
 
@@ -43,7 +43,7 @@ without limit. This is a literary and practical connection, not a claim that the
 sanctuary with the six days of creation in every detail.
 
 **Sources:** Exodus 28:3; 31:1–18; 35:1–3, 30–35; 36:1–7; 38:22–23 read in `raw/bible/Exodus.md`.
-Exodus 35:1–29 is now ingested; 35:30–38:31 remains ahead. These later comparisons do not
+Exodus 35:1–36:7 is now ingested; 36:8–38:31 remains ahead. The later comparisons do not
 advance their queue boxes.
 
 ### The offering now brought — Exodus 35:1–29
@@ -52,9 +52,20 @@ Before the named makers are announced, [[The Freewill Offering]] publicly calls 
 to make the whole inventory and records women's skilled spinning (35:10–19, 25–26). The shared
 labor is already visible in the supply of yarn. This distinguishes actual preparatory work from
 the later making of the whole structure. The public Sabbath frame in 35:1–3 now belongs to an
-ingested passage; the named commissioning and surplus in 35:30–36:7 remain ahead.
+ingested passage; the named commissioning and surplus now follow in
+[[Bezalel's Workmen and the Surplus]].
 
 Source: the cited verses checked in local raw WEB, 2026-10-24.
+
+### The workers' report now reached
+
+[[Bezalel's Workmen and the Surplus]] makes the stopping point concrete. The workers are already
+at their tasks when they report the excess (36:4–5); Moses' order halts contributions rather
+than the work itself (36:6). The narrator confirms both sufficiency and surplus (36:7), but
+provides no final inventory or disposal of the excess here. Teaching (35:34) and the broader
+company (36:1–2) keep the credit from becoming a claim of solitary manufacture.
+
+Source: local raw WEB, Exodus 35:30–36:7, checked 2026-10-24.
 
 ## Significance
 

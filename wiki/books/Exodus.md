@@ -44,7 +44,10 @@ among this people?* — and the calf, at the hinge, makes the second question ur
 The building section now begins in [[The Freewill Offering]] (35:1–29). After covenant renewal,
 Moses assembles the people, places rest before sanctuary work, and receives willing gifts of
 materials and skilled labor. The instructions of chapters 25–31 begin to become public action,
-including women's spinning; the completed structure and indwelling glory still lie ahead.
+including women's spinning. In [[Bezalel's Workmen and the Surplus]] (35:30–36:7),
+Moses summons the gifted makers, whose abilities include teaching, and stops the collection
+after their report of surplus. Work is underway; the completed structure and indwelling glory
+still lie ahead.
 
 ## Structure
 
@@ -417,6 +420,13 @@ leaders and then the people near to receive the commands (34:30–32). He veils 
 speaking and removes the veil for each encounter before Yahweh (34:33–35). The repeated pattern
 continues communication after renewal; the construction of the sanctuary has not yet begun.
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+In [[Bezalel's Workmen and the Surplus]], Moses publicly names Bezalel and Oholiab and the gift of
+teaching (35:30–35), then summons the skilled and willing company (36:1–2). Repeated gifts
+exceed the work's need; the workers report this, and Moses stops the collection (36:3–7).
+The detailed construction account begins at 36:8, beyond this completed unit.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -503,7 +513,7 @@ for unit.
 ### The tabernacle built (35–40)
 
 - [x] [[The Freewill Offering]] — Exodus 35:1–29
-- [ ] Bezalel's Workmen and the Surplus — Exodus 35:30–36:7
+- [x] [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7
 - [ ] The Tabernacle Built — Exodus 36:8–38
 - [ ] The Furnishings Made — Exodus 37:1–29
 - [ ] The Altar, the Basin, the Court, and the Inventory — Exodus 38:1–31

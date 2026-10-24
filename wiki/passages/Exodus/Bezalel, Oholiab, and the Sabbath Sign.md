@@ -130,6 +130,9 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The divine appointment is now publicly
+  announced, with teaching added and the makers summoned.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
@@ -152,7 +155,7 @@ mountain instructions; the following pericope will return to the people below.
   and [[The Incense Altar, the Ransom, and the Holy Oil]]: the specifications summarized in the
   makers' commission.
 - Exodus 35:30–36:7; 38:22–23 — [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]];
-  verified local WEB, not yet ingested.
+  verified local WEB; only the chapter 38 unit remains un-ingested.
 - Exodus 8:19; 31:18 — [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
 - Isaiah 40:28 — the Creator does not grow weary; verified WEB, not yet ingested, held beside 31:17
   below.
@@ -188,8 +191,8 @@ identify him with Moses' companion.
 The juxtaposition of work and rest is the chapter's central discipline. The makers have a
 comprehensive commission, and the next speech still requires Sabbath observance. The text states no
 exception for tabernacle work. This is a contextual inference from the order of the commands; Exodus
-35:1–3, 30–35 will place Sabbath and the makers together again when Moses addresses the assembly
-(local WEB, not yet ingested).
+35:1–3, 30–35 places Sabbath and the makers together again when Moses addresses the assembly
+(now ingested in [[The Freewill Offering]] and [[Bezalel's Workmen and the Surplus]]).
 
 The sign's stated parties are Yahweh and the children of Israel (31:17). Its ground reaches back to
 creation, but the passage does not itself legislate Sabbath observance for every nation. Nor does
@@ -243,6 +246,6 @@ and harvest (34:21).
 
 Moses publicly frames the work with Sabbath (35:1–3), calls the wise-hearted to make the whole
 inventory (35:10–19), and receives willing contributions and spun yarn (35:20–29). The named
-announcement of Bezalel and Oholiab in 35:30–35 remains the next pericope.
+announcement of Bezalel and Oholiab follows in [[Bezalel's Workmen and the Surplus]].
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

@@ -205,7 +205,21 @@ See [[As God Commanded, So He Did - The Obedience Formula]].
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The makers are to work according to all that Yahweh commanded (36:1); their report measures
+the gifts against that same commissioned work (36:5). Moses then orders the people to cease
+further giving (36:6). Willingness has an accountable purpose rather than an unlimited mandate.
+This is a narrative comparison with the obedience motif, not a claim that the complete
+source-language formula occurs here. See
+[[As God Commanded, So He Did - The Obedience Formula]].
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The commanded task governs both
+  workmanship and the collection’s limit.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; A commanded design is supported by freely given contributions.
 

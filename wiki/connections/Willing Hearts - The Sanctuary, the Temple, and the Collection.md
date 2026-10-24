@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; willing gifts reach a reported surplus
+  and are stopped.
+
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; the invitation to willing contributors.
 - [[The Freewill Offering]] — Exodus 35:4–29; the willing people actually bring materials and work.
 - 1 Chronicles 29:1–17 — gifts for the temple and David's prayer; verified WEB, not yet ingested.
@@ -40,6 +43,19 @@ that a temple construction collection and relief for people are interchangeable.
 2 Corinthians 9:1–15 retrieved directly from bible-api.com with `translation=web` on 2026-10-24;
 both responses identified World English Bible. The later texts are paraphrased here. No books
 were added to raw and no source-language wording claim is made.
+
+### The collection has an endpoint — Exodus 36:3–7
+
+[[Bezalel's Workmen and the Surplus]] adds a practical limit to the willingness already recorded
+in chapter 35. The offerings keep arriving after the workers receive the accumulated gifts
+(36:3). The makers themselves report the excess; Moses stops the collection, and the narrator
+confirms their assessment (36:4–7). Organized giving therefore includes recognizing when a
+particular task is supplied. This scene neither establishes an endless building appeal nor
+commands every later relief collection to follow the same procedure. The temple and Pauline
+comparisons above remain parallels, not identified quotations of this surplus account.
+
+Source: Exodus 36:3–7 checked in local raw WEB, 2026-10-24. The previously verified later
+comparisons are unchanged.
 
 ## Significance
 

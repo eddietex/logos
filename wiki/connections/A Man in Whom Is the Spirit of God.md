@@ -12,7 +12,8 @@ tags: [connection]
 - **Genesis 41:38** — Pharaoh: *"Can we find such a one as this, a man in whom is the Spirit of God?"* —
   [[Pharaoh's Dreams and Joseph's Rise]]
 - **Exodus 31:1–11** — [[Bezalel]], filled for craftsmanship —
-  [[Bezalel, Oholiab, and the Sabbath Sign]]; compare 35:30–35 (local WEB, not yet ingested).
+  [[Bezalel, Oholiab, and the Sabbath Sign]]; compare 35:30–35 in
+  [[Bezalel's Workmen and the Surplus]] (verified local WEB).
 - **Numbers 24:2** — *"the Spirit of God came on him"*, of Balaam, a foreign diviner
 - **Numbers 27:18** — Joshua, *"a man in whom is the Spirit"*
 - **Judges 3:10; 6:34; 11:29; 14:6** — the Spirit coming on the judges, for a task and then leaving
@@ -112,6 +113,18 @@ confirming it. See [[Elihu Speaks in Anger]] and [[Wisdom]].
 **is a vocabulary** for attributing practical ability to God's Spirit. Genesis 41 puts that attribution
 in an Egyptian king's mouth; Exodus 31 puts it in God's own address about the makers. Neither passage
 gives a full account of the worker's training.
+
+### Publicly announced skill and shared teaching — Exodus 35:30–36:7
+
+In [[Bezalel's Workmen and the Surplus]], Moses repeats the Spirit-filling statement about
+Bezalel to Israel (35:31). Teaching is then attributed to Bezalel and Oholiab (35:34), and
+wisdom and understanding to the wider workforce (36:1–2). The explicit statement about one
+man's filling should not be silently made the exact description of every participant. The
+narrative joins divine gifting, teaching, and willing work without explaining prior training
+or the gift's duration. This extends the practical comparison above without asserting a new
+Hebrew wording identity.
+
+Source: local raw WEB, Exodus 35:30–36:7, checked 2026-10-24.
 
 ## Significance
 

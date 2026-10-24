@@ -29,7 +29,8 @@ The assembly disperses and the willing return with gifts (35:20–29). Men and w
 and materials; skilled women spin yarn and goats' hair with their hands; rulers bring stones,
 spice, and oil. The closing sentence joins voluntary giving to the work Yahweh commanded through
 Moses. The story has moved from materials requested on the mountain to materials actually
-contributed by the people. Their named craft leaders and the later surplus belong to the next unit.
+contributed by the people. Their named craft leaders and the surplus follow in
+[[Bezalel's Workmen and the Surplus]] .
 
 ## Key verses
 
@@ -127,6 +128,9 @@ WEB text, Exodus 35:1–29, copied from the stored source.
 
 ## Cross-references
 
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The named makers are now announced and
+  summoned; the gifts continue until the workers report a surplus.
+
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; the materials requested then are brought now.
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the work and Sabbath frame renewed
   in public. See [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]].
@@ -153,7 +157,8 @@ WEB text, Exodus 35:1–29, copied from the stored source.
 
 The planned boundary is retained: Sabbath (35:1–3), the call for materials and work (35:4–19),
 and the response (35:20–29). Verse 29 closes the contribution scene; 35:30 opens Moses' naming
-of the craftsmen. The subsequent appointment, summons, and surplus are not ingested here.
+of the craftsmen. The subsequent appointment, summons, and surplus are treated in
+[[Bezalel's Workmen and the Surplus]].
 Keeping Sabbath with the appeal preserves the literary frame rather than treating rest as
 an unrelated interruption.
 

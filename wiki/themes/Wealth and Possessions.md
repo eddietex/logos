@@ -182,7 +182,19 @@ does not explicitly identify those pieces with these. See [[Gold for the Calf an
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The makers' assessment, rather than an indefinite demand for more, ends the collection
+(36:4–7). Material abundance supports a specified purpose. The surplus is not condemned, and
+its quantity and disposition are not supplied. Nor does the scene promise that each donor will
+receive increased private wealth. See [[Enough for the Work - Manna and the Sanctuary Offering]].
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The sanctuary’s need sets a limit on
+  further collection.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Jewelry becomes a voluntary gift; its provenance remains unstated.
 

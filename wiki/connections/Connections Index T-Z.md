@@ -84,7 +84,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
-| [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 |
+| [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 · [[Bezalel's Workmen and the Surplus]] |
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 · Job 40:2 |
 | [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |

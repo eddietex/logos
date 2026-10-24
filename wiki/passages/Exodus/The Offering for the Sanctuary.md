@@ -89,6 +89,9 @@ in the middle of the camp.**
 
 ## Cross-references
 
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The requested materials now reach
+  sufficient supply, and Moses stops further contributions.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
@@ -103,8 +106,8 @@ in the middle of the camp.**
 - Exodus 3:21–22; 11:2; 12:35–36 — the silver and gold asked of the Egyptians:
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]].
 - Exodus 32:2–4 — the golden rings given for the calf: [[The Golden Calf]].
-- Exodus 35:4–29 — the offering made: [[The Freewill Offering]]. Exodus 36:3–7, the surplus,
-  remains ahead (verified local WEB).
+- Exodus 35:4–29 — the offering made: [[The Freewill Offering]]. The surplus and cessation of gifts
+  are now in [[Bezalel's Workmen and the Surplus]] (36:3–7; verified local WEB).
 - Exodus 29:45–46 — the dwelling promise in [[The Ordination of the Priests]]; 40:34–35, the
   glory filling the tabernacle, remains ahead: [[I Will Take You as My People - The Covenant Formula]].
 - Exodus 25:40 — the pattern *"shown to you on the mountain"*: [[The Ark, the Table, and the Lampstand]].
@@ -161,7 +164,8 @@ willing heart"* (*nədîb libbô*, 35:5); *"everyone whom his spirit made willin
 were willing-hearted"* (35:22); *"every man and woman, whose heart made them willing"* (35:29; all MAM).
 And it ends with the craftsmen telling Moses *"The people bring much more than enough"*, and Moses
 proclaiming through the camp, *"Let neither man nor woman make anything else for the offering for the
-sanctuary"* (36:5–6). That proclamation is where this page takes its title.
+sanctuary"* (36:5–6). That proclamation closes the collection in
+[[Bezalel's Workmen and the Surplus]] .
 
 **The name Nadab is spelled with the same three consonants**, *n-d-b* (6:23; 24:1; MAM). It is usually
 explained from this root as *generous* or *willing*; that is the standard lexical report, not checked
@@ -290,6 +294,7 @@ sanctuary’s construction. See [[The Tent Outside the Camp and the Promised Dwe
 ### The offering brought — Exodus 35:1–29
 
 The willing giving requested in 25:2–7 is now narrated in 35:20–29. Materials, the work of
-women spinners, and rulers' gifts supply the commission. The surplus in 36:3–7 remains ahead.
+women spinners, and rulers' gifts supply the commission. The surplus and end of collection follow in
+[[Bezalel's Workmen and the Surplus]] (36:3–7).
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.

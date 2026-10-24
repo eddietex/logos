@@ -1936,6 +1936,15 @@ the voluntary offering stand together; neither should be used to erase the other
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Moses publicly attributes Bezalel's craftsmanship to Yahweh's call and Spirit (35:30–33),
+teaching to God's gift to Bezalel and Oholiab (35:34), and the wider company's wisdom to Yahweh
+(36:1–2). The commanded work defines what the offerings must supply (36:5). Moses stops the
+collection on the workers' report; no fresh divine speech ordering that stop is narrated.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Commands rest and sanctuary work and receives willing contributions. See [[The Freewill Offering]].
@@ -2188,8 +2197,13 @@ See [[The Freewill Offering]].
 - Exodus 30:1–38 — Prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 - Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Gives skill and teaching for the
+  sanctuary; his command defines the work.
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Gives skill and teaching for the
+  sanctuary; his command defines the work.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Commands rest and sanctuary work and receives willing contributions.
 

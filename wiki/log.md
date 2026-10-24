@@ -14674,3 +14674,61 @@ book pages remain the expected baseline. `git diff --check` is clean. Raw source
 skill instructions, harness, and controller files are unchanged. The scope of later applications
 of the fire rule, the provenance of individual gifts, and the relation between the tent accounts
 remain explicit interpretive limits in their pages; no operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 35.30-36.7 — Bezalel's Workmen and the Surplus
+
+Ingested [[Bezalel's Workmen and the Surplus]] in unattended mode, retaining the planned
+boundary. Exodus advances from **46 / 53** to **47 / 53** pericopes. The passage absorbs the
+discussion: public announcement of the makers, teaching as part of their gift, skilled and
+willing participation, the transfer and continuing arrival of contributions, the workers'
+report, and Moses' order to stop giving. Exactly one pericope was ingested; Exodus 36:8–38
+remains unchecked.
+
+### Decisions and tensions
+
+- Retained 35:30–36:7 as one unit: the named announcement opens it and the confirmation of surplus
+  closes it. The workers are already at their tasks in 36:4; the order in 36:6 stops further
+  contributions, not construction. The completed building and its indwelling glory remain ahead.
+- Distinguished Bezalel's explicit Spirit-filling description, the teaching attributed to both
+  named makers, and the wisdom and understanding given to the wider workforce. No training
+  history, curriculum, or duration of the gift is inferred.
+- Updated the named fathers and tribal ancestors without turning them into active craftsmen.
+  Kept unnamed workers and donors collective. Hur's identity remains explicitly uncertain on
+  both Hur pages; the companion's backlink records the question, not a certain appearance.
+- Kept the Sinai camp under [[Horeb]] by narrative continuity; this unit names no new destination.
+- Created [[Enough for the Work - Manna and the Sanctuary Offering]]. Both accounts limit
+  gathering by its purpose, but daily food supplied by God differs from willing materials
+  contributed by people. Manna's measured sufficiency and the sanctuary's genuine surplus are
+  explicitly distinguished, as are the different reasons for stopping collection.
+- Expanded four existing connections rather than duplicating their accounts of appointment,
+  practical gifting, willing contributions, and obedience. The new unit supplies no disposal
+  of excess materials, formal audit procedure, or promise of personal enrichment to donors.
+- Revised five earlier passage pages with reciprocal references and retired affected notices
+  treating this unit as un-ingested. Corrected the earlier offering page's misleading assertion
+  that the surplus proclamation supplied its title. No new contradiction requires harmonization;
+  the Hur uncertainty and the limits of the surplus comparison remain explicit.
+- No pericope boundary, title collision, category range, schema, or workflow change was needed.
+
+### Sources and verification
+
+All thirteen WEB verses were copied mechanically from `raw/bible/Exodus.md` and checked for
+exact equality. New comparisons use stored Exodus text, including the manna account. No new
+quotation from a book outside raw was introduced; existing connections retain their previously
+identified sources for later passages. No Hebrew or Greek wording claim was added. No existing
+raw text was changed and no later book was fetched.
+
+### Pages created or revised
+
+- **Created (2):** one passage and one connection.
+- **Existing content pages revised (30):** Exodus; five earlier passages; ten people (including
+  the explicitly uncertain Hur cross-reference); one place; nine themes; four connections.
+- **Bookkeeping revised (12):** top-level and book indexes; all three people subindexes; places
+  and themes indexes; Connections Index A–C, D–H, I–N, and T–Z; this log.
+- **Totals by frontmatter type:** 138 passages, 176 people, 90 places, 82 themes, 376 connections;
+  3 books started, 2 complete. Each category page has exactly one index row; subindex order and
+  filing ranges pass. New titles are unique, every listed person/place/theme links back, and
+  exactly one queue checkbox changed.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. No operational blocker remains.

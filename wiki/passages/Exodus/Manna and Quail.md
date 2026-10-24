@@ -653,6 +653,9 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 
 ## Cross-references
 
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; A later collection also has a limit set
+  by its purpose; the sanctuary surplus differs from the daily manna ration.
+
 - [[The Freewill Offering]] — Exodus 35:1–3; Sabbath and the prohibition on kindling fire precede
   the sanctuary commission. The preparation in 16:23 is an earlier comparison; 35:3 does not
   explicitly explain its fire rule by referring back to the manna.
@@ -736,3 +739,10 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
   Deuteronomy 2:7; 8:3; Psalm 23:1; and lemma searches over Genesis–Deuteronomy (Genesis–Exodus where
   marked). The *ṣinṣenet* claim rests on the books downloaded this run (Genesis–Deuteronomy, Joshua, Nehemiah,
   Psalms) together with the usual lexical report that the word is unique; it is marked as such at its point.
+
+### Sufficient supply and the sanctuary offering
+
+Exodus 36:3–7 reports gifts arriving every morning until the workers have more than they need.
+The comparison concerns purpose and limits, not identical kinds of provision or a ban on all
+reserves. See [[Enough for the Work - Manna and the Sanctuary Offering]]. Both passages checked
+in local raw WEB, 2026-10-24.

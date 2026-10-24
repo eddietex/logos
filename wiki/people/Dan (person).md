@@ -76,6 +76,14 @@ a named share in making the sanctuary; chapter 31 does not rank the tribes or ex
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+Moses identifies Oholiab as belonging to Dan when he announces the teaching gift (35:34).
+This is the tribe's ancestral name, not a new appearance of the patriarch as a living actor.
+The shared work brings the two named tribal affiliations, Judah and Dan, into one commission.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -93,6 +101,9 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Tribal ancestry of Oholiab repeated;
+  the patriarch is not an actor.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; tribal name in Oholiab's appointment;
   no personal appearance.

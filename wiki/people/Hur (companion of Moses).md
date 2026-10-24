@@ -34,15 +34,29 @@ count this man as a certain participant in the pericope.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The Hur named in Moses' public announcement is Bezalel's grandfather (35:30), treated under
+[[Hur (grandfather of Bezalel)]]. Nothing in the renewed genealogy identifies him with this
+companion of Moses. This cross-reference records the unresolved identity, not a certain
+appearance or a new action by the companion.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Timeline / key events
 
 - Goes up the hill with Moses and Aaron during the battle with Amalek; holds up one of Moses' hands until sunset —
   Exodus 17:10–12, [[The Battle with Amalek]]
 - Left with Aaron to settle disputes while Moses is on the mountain — Exodus 24:14,
   [[The Blood of the Covenant]]
-- *(identity uncertain)* The grandfather in Exodus 31:2 has a separate page, [[Hur (grandfather of Bezalel)]]; 35:30 and 38:22 repeat that ancestry (not yet ingested).
+- *(identity uncertain)* The grandfather in Exodus 31:2 has a separate page,
+  [[Hur (grandfather of Bezalel)]] ; 35:30 repeats that ancestry in
+  [[Bezalel's Workmen and the Surplus]] ; 38:22 remains ahead (verified local WEB).
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Possible identification with the named
+  grandfather only; unproved.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; possible identification with
   Bezalel's grandfather, explicitly uncertain.

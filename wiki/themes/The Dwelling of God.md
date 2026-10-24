@@ -133,7 +133,19 @@ by being called the Tent of Meeting. See [[The Tent Outside the Camp and the Pro
 
 See [[The Freewill Offering]].
 
+### The makers and the surplus — Exodus 35:30–36:7
+
+The commanded sanctuary has a summoned workforce and more than enough material (36:1–7).
+The workers are engaged in their tasks (36:4), so preparation has become actual work. This is
+neither the final completion report nor the arrival of the glory. Sufficient resources do not
+by themselves mean that the promised dwelling has already been erected.
+
+See [[Bezalel's Workmen and the Surplus]].
+
 ## Key passages
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Gifted workers and sufficient materials
+  serve the promised sanctuary.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The promised sanctuary now receives its materials and public commission.
 

@@ -10,16 +10,31 @@ tags: [person]
 The son of [[Ahisamach]], of the tribe named for [[Dan (person)]], appointed by Yahweh alongside
 [[Bezalel]] to make the sanctuary and its equipment (Exodus 31:6–11). The naming of a second worker
 and the wider wise-hearted company prevents treating the work as Bezalel's alone. Chapter 31 gives
-no separate list of Oholiab's special skills. Ahead, Exodus 35:34–35 speaks of teaching and skilled
-making, and 38:23 describes his engraving and embroidery (local WEB; not yet ingested).
+no separate list of Oholiab's special skills. Exodus 35:34–35 now adds teaching and skilled
+making; 38:23 describes his engraving and embroidery (local WEB; that later unit is not yet
+ingested).
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
+### The makers and the surplus — Exodus 35:30–36:7
+
+Exodus 35:34 names him with Bezalel in the capacity to teach; 35:35 describes their skilled
+workmanship. Moses then calls both with the wise-hearted workers (36:1–2). Oholiab belongs to
+the team receiving the contributions, while the surplus report is the makers' collective act
+(36:3–5). The new description supplies teaching and shared skills beyond his appointment in 31:6.
+
+See [[Bezalel's Workmen and the Surplus]].
 
 ## Timeline / key events
 
 - Appointed alongside Bezalel — Exodus 31:6. See [[Bezalel, Oholiab, and the Sabbath Sign]].
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named with Bezalel for teaching and
+  skilled work; summoned with the company.
 
 ## Appears in
+
+- [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named with Bezalel for teaching and
+  skilled work; summoned with the company.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Appointed alongside Bezalel — Exodus 31:6.
 
