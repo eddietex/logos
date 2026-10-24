@@ -68,6 +68,14 @@ been explained by any text. See
 [[The Twelve Sons and the Lists That Reorder Them]] and
 [[Bethel from Jacob's Pillar to Jeroboam's Calf]].
 
+### Dan in the sanctuary commission — Exodus 31:6
+
+Oholiab, son of Ahisamach, is appointed alongside Bezalel and identified with the tribe of Dan. Dan
+is the ancestor whose name the tribe bears, not an actor in the scene. The commission gives a Danite
+a named share in making the sanctuary; chapter 31 does not rank the tribes or explain the choice.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -85,6 +93,9 @@ been explained by any text. See
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; tribal name in Oholiab's appointment;
+  no personal appearance.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:5–6; the fifth son, borne by a slave and named by her
   mistress as a ruling in a family dispute. **Rachel's first of two verdicts**, and the first of four

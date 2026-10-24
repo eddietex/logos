@@ -89,7 +89,19 @@ The makers of the garments are *"wise-hearted"*, whom God says he has *"filled w
 wisdom"* (Exodus 28:3). Wisdom is here a craft skill given by God for sanctuary work; the
 chapter names no craftsman. See [[The Priestly Garments]].
 
+### Wisdom shared among the makers — Exodus 31
+
+Exodus 31:3 names wisdom, understanding, and knowledge as dimensions of Bezalel's Spirit-given
+craftsmanship. Verse 6 also attributes the wisdom of the whole wise-hearted company to God. Wisdom
+here produces things that can be used in worship; it is not confined to interpreting dreams or
+advising rulers. Exodus 28:3 had already described gifted garment makers, and chapter 31 names two
+leaders without making them the only gifted workers. See [[A Man in Whom Is the Spirit of God]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; wisdom shared among the makers.
 
 - [[Eliphaz's Second Speech]] — wisdom claimed by age and by uncontaminated tradition, and used to
   deny a sufferer standing to speak
@@ -234,6 +246,8 @@ chapter names no craftsman. See [[The Priestly Garments]].
   which is Job 1:1 restated after twenty-seven chapters
 
 ## Related people
+
+- [[Bezalel]] and [[Oholiab]] — named sanctuary makers in Exodus 31.
 
 - [[Eliphaz the Temanite]] — the tradition's most confident representative, from the town famous for
   it

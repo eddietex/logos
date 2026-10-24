@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Exodus 8:19** — the magicians, unable to make lice: *"This is God's finger"* —
   [[Frogs, Lice, and Flies]]
-- **Exodus 31:18** — the tablets of the testimony, *"stone tablets, written with God's finger"*
-  *(not yet ingested)*
+- **Exodus 31:18** — the tablets of the testimony, *“stone tablets, written with God’s finger”* —
+  [[Bezalel, Oholiab, and the Sabbath Sign]]
 - **Deuteronomy 9:10** — *"Yahweh delivered to me the two stone tablets written with God's finger"*
   *(not yet ingested)*
 - **Luke 11:20** — *"But if I by God's finger cast out demons, then God's Kingdom has come to you"*
@@ -60,6 +60,17 @@ the two Gospels as it stands in the WEB and makes no claim about the Greek beyon
 disputed by opponents who attribute power to the wrong source, and in both the phrase *God's finger*
 is the verdict. **In Exodus it is the opponents who give the verdict; in Luke it is Jesus, against
 his opponents.** That Luke intends an echo of Exodus is a common reading, not something Luke says.
+
+### The promise now delivered
+
+The tablets promised in Exodus 24:12 are given when God finishes speaking on Sinai (31:18). The
+narrator attributes their writing to God's finger; this verse does not describe their layout or
+transcribe their words. The phrase now belongs to the ingested narrative. The comparison with the
+plague remains an observed recurrence, not an explicit explanation by Exodus of why the phrase
+occurs twice.
+
+Exodus 31:18 was checked in raw WEB and MAM (Sefaria) on 2026-10-24. The earlier Deuteronomy and
+Gospel comparisons retain their original source note.
 
 ## Significance
 

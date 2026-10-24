@@ -132,7 +132,16 @@ ransom, the basin, the anointing oil, and the incense. Everything is placed rela
 the altar *"before the veil"* (30:6), the basin *"between the Tent of Meeting and the altar"* (30:18).
 See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The speaking ends and the tablets are given — Exodus 31:18
+
+The location is expressly Mount Sinai when God finishes speaking and gives Moses the two tablets.
+The makers' commission and Sabbath sign belong to this final portion of the mountain instructions.
+The tent described in them has not yet been built. See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; Sinai named as the place where the
+  tablets are delivered.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; Sinai as the continuing narrative setting.
 

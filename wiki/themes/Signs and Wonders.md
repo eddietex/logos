@@ -57,7 +57,20 @@ one.
 live"* (Exodus 22:18) uses the root of the *"sorcerers"*, *məkaššəpîm*, whom Pharaoh called against
 Aaron's staff (7:11, MAM). See [[Laws of Holiness and Compassion]].
 
+### A sign kept rather than a wonder performed — Exodus 31
+
+The Sabbath is a sign between Yahweh and Israel so that they may know the one who sanctifies them
+(31:13, 17). It is neither a plague nor a display meant to overcome Pharaoh's resistance. This
+qualifies the introductory contrast between Genesis's reassuring signs and Exodus's persuasive ones:
+Exodus also gives a recurring covenant sign to be observed. See
+[[The Covenant Signs - Rainbow, Circumcision, and Sabbath]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; a sign kept rather than a wonder
+  performed.
 
 - [[The Burning Bush]] — Exodus 3:12, 20; 4:1–9, 17; **the vocabulary of the exodus introduced in one
   conversation.** One *token* that can only be checked afterwards; *"my wonders"* for the plagues; and

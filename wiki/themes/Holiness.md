@@ -121,7 +121,18 @@ The oil and the incense are holy in a second sense. Their recipes belong to God:
 use, they bring the penalty of being *"cut off from his people"* (30:32–33, 37–38). See
 [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The God who sanctifies Israel — Exodus 31
+
+The Sabbath is holy to Israel and holy to Yahweh (31:14–15), and keeping it signifies knowledge that
+Yahweh sanctifies the people (31:13). After chapters of holy objects, garments, oil, and incense,
+the instructions close with holy time and a sanctified people. The death sanction makes treating the
+day as ordinary worktime a covenant offense, not merely a missed opportunity for rest.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the god who sanctifies israel.
 
 - [[The Burning Bush]] — Exodus 3:5; ***ʾadmat-qōdeš***, **the first holiness of a place, and the
   first *qōdeš* in the Bible.** It comes with two commands — *"Don't come close"* and *"Take off your

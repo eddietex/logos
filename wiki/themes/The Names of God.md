@@ -110,7 +110,19 @@ messenger carries God's authority, including the authority to withhold pardon. T
 Covenant began with God's promise to come *"in every place where I record my name"* (20:24). The
 wiki does not turn the phrase into a doctrine of the angel's nature. See [[The Angel Sent Ahead]].
 
+### Yahweh who sanctifies you — Exodus 31
+
+The Sabbath sign teaches Israel that *“I am Yahweh who sanctifies you”* (31:13, local WEB). This
+self-description names God's action toward the people, as 15:26 named his healing. The people must
+keep the day, but the sentence names Yahweh as the one who sanctifies them. Ezekiel 20:12 repeats
+this connection between Sabbaths, a sign, and knowledge of the sanctifying God (WEB verified from
+bible-api.com, 2026-10-24).
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; yahweh who sanctifies you.
 
 - Genesis 1:1; 2:4 — *ʾĕlōhîm*, and *Yahweh ʾĕlōhîm*
 - Genesis 4:26 — men begin to call on the name

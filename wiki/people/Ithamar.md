@@ -45,6 +45,14 @@ Exodus 30 includes Ithamar among Aaron's *"sons"* — not by name — who wash h
 basin before entering the tent or approaching the altar, *"that they not die"* (30:19–21), and who
 are anointed with the holy oil (30:30). See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### Garments included in the makers' commission — Exodus 31
+
+Exodus 31:10 includes Aaron's sons collectively among those for whom garments must be made. The
+individual identification comes from 28:1; this verse does not name each son or narrate his service.
+Their clothing is part of the workers' commission in 31:6–11.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the last of four sons — Exodus 6:23,
@@ -57,6 +65,9 @@ are anointed with the holy oil (30:30). See [[The Incense Altar, the Ransom, and
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; included collectively among Aaron's
+  sons whose garments will be made (31:10).
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23; **the fourth son**
 

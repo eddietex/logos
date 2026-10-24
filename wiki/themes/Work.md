@@ -59,8 +59,7 @@ the seventh day a blessing. See [[Sabbath]].
   a crop, and the crop lays the man out in his tent. See [[Noah's Sons and the Curse of Canaan]] and
   [[The Vine and the Cup]].
 - Strands to trace as ingestion reaches them: the sabbath and jubilee legislation that limits
-  work and protects workers (Exodus 20:9–10, Leviticus 25); the craftsmen of the tabernacle filled
-  with the Spirit for their skill (Exodus 31:1–11); Ecclesiastes on the vanity and the gift of
+  work and protects workers (Leviticus 25); Ecclesiastes on the vanity and the gift of
   labour (2:18–24, 3:13); Proverbs on diligence and sloth; Jesus as a *tektōn* (Mark 6:3); Paul's
   tentmaking and his rules for it (Acts 18:3, 1 Thessalonians 4:11, 2 Thessalonians 3:10);
   Colossians 3:23.
@@ -109,7 +108,21 @@ and sustaining its use are distinct kinds of work within one command. See [[The 
 Weaving, engraving *"like the engravings of a signet"*, setting stones in gold, braiding chains,
 and embroidery are specified for the garments (Exodus 28:6–39). See [[The Priestly Garments]].
 
+### Spirit-given craft and Sabbath limits — Exodus 31
+
+God supplies ability for real technical work: designing, metalworking, setting stones, and carving
+wood (31:3–5). Oholiab and the wise-hearted company share the commission (31:6–11). The command to
+keep Sabbath immediately follows (31:12–17), so sanctuary building receives no stated exemption from
+the limit on labor. The gift of skill does not imply that Bezalel had no training, or that the gift
+ends when construction ends; Exodus says neither. See
+[[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; spirit-given craft and sabbath
+  limits.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; a limit on production.
 
@@ -258,6 +271,8 @@ and embroidery are specified for the garments (Exodus 28:6–39). See [[The Prie
 - [[Wealth and Possessions]] — what the work produces, and who ends up holding it
 
 ## Related people
+
+- [[Bezalel]] and [[Oholiab]] — named sanctuary makers in Exodus 31.
 
 - [[God]]
 - [[Adam]]

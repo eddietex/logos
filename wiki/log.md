@@ -14302,3 +14302,65 @@ the repeated washing, and the anointing oil and *māšîaḥ*.
 `scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
 pages remain the expected baseline. No raw source, schema, skill, harness, or controller file was
 changed.
+
+## [2026-10-24] ingest | Exodus 31.1-18 — Bezalel, Oholiab, and the Sabbath Sign
+
+Ingested [[Bezalel, Oholiab, and the Sabbath Sign]] in unattended mode with the planned boundary
+unchanged. Exodus advances to **41 / 53** pericopes. The page holds the discussion: the named
+makers and wider wise-hearted company, the full sanctuary commission, the Sabbath as Israel's
+perpetual covenant sign, death and cutting off, divine refreshment, and delivery of the tablets.
+No second pericope was ingested; the next remains the golden calf (32:1–35).
+
+### Decisions and source corrections
+
+- Created [[Bezalel]], [[Oholiab]], [[Uri]], [[Ahisamach]], and
+  [[Hur (grandfather of Bezalel)]]. The three genealogical figures receive concise pages without
+  invented occupations or actions. The grandfather is kept separate from
+  [[Hur (companion of Moses)]] because their identity is possible but not established by Exodus;
+  both pages record the uncertainty. Judah and Dan are indexed as tribal ancestry, not personal
+  appearances, and Aaron's four sons as collectively included rather than individually named.
+- Created [[The Covenant Signs - Rainbow, Circumcision, and Sabbath]] and
+  [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]]. The later construction passages
+  are comparisons from local raw WEB, not additional ingests. No new theme or place was needed.
+- Updated [[A Man in Whom Is the Spirit of God]],
+  [[Creation as the Ground of the Sabbath Command]], and
+  [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]. Exodus gives neither the
+  duration of Bezalel's gift nor his training history. The Spirit connection's claims that his gift
+  lasts only for the build and exceeds trained professionals were corrected explicitly. MAM also
+  shows related descriptions of wisdom in Genesis 41 and Exodus 31, not the identical pair of
+  nouns the connection previously claimed.
+- Flagged the tension between the God and Sabbath pages' earlier denial of exhaustion and
+  Exodus 31:17's refreshment language, alongside Isaiah 40:28's denial of divine weariness.
+  Anthropomorphic interpretation is identified as interpretation. Also qualified the election
+  page's universal claim about the chosen lacking qualifications and the signs page's division
+  between Genesis's reassuring and Exodus's persuasive signs.
+- The relation between Sabbath execution and being cut off is left unexplained where Exodus
+  leaves it unexplained. No means of execution, merger of the two Hurs, or universal application
+  of Israel's covenant sign is inferred as an explicit statement of the text.
+
+### Sources and verification
+
+All eighteen quoted WEB verses were copied mechanically from `raw/bible/Exodus.md` and checked
+against it after line wrapping. Local comparisons: Genesis 2:2–3; 9:8–17; 17:7, 10–14;
+41:33, 38–39; Exodus 6:23; 23:12; 24:12, 18; 28:1, 3; 35:1–3, 30–35; 36:1–7; 38:22–23.
+Ezekiel 20:12, 20; Isaiah 40:28; and 1 Chronicles 2:19–20 were verified through bible-api.com
+with `translation=web` on 2026-10-24. Hebrew for Exodus 31 and Genesis 41:33, 39 was read in
+*Miqra according to the Masorah*, returned by Sefaria's text API on that date. No new Greek
+claim is made. No not-yet-reached book was fetched into raw.
+
+### Pages created or revised
+
+- **Created (8):** one passage, five people, and two connections.
+- **Existing content pages revised (30):** Exodus; ten people (God, Moses, Aaron, his four sons,
+  Judah, Dan, and Hur the companion); Horeb; fifteen themes; and three connections.
+- **Bookkeeping revised (11):** top-level and book indexes; all three people subindexes;
+  places and themes indexes; connection subindexes A–C, D–H, and I–N; and this log.
+- **Totals by frontmatter type:** 132 passages, 175 people, 90 places, 82 themes, 366 connections;
+  3 books started, 2 complete. Category coverage is exact, with no duplicate rows; subindex
+  ordering and filing ranges pass. No range adjustment was needed.
+
+`scripts/link-check.sh` exits 0: no wrapped links or dangling targets; the 63 not-yet-started book
+pages remain the expected baseline. An initial mistitled link to the Genesis 17 passage was fixed
+to [[Circumcision, the Sign of the Covenant]] before the clean run. `git diff --check` is clean.
+No raw source, schema, skill, harness, or controller file was changed. Interpretive uncertainties
+are recorded on the affected pages; no operational blocker remains.

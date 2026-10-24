@@ -226,7 +226,19 @@ Israel, and will be their God"* (29:45). Exodus 6:7 had joined the formula to th
 deliverance, and 29:45–46 joins it to God's dwelling. See [[The Ordination of the Priests]] and
 [[I Will Take You as My People - The Covenant Formula]].
 
+### Sabbath as a perpetual covenant — Exodus 31
+
+The weekly observance is called a perpetual covenant and a sign between Yahweh and Israel throughout
+their generations (31:13, 16–17). The creation rationale does not erase the specifically named
+parties. Like circumcision in Genesis 17:10–14, this sign must be kept and carries a cutting-off
+sanction for breach; unlike the rainbow of Genesis 9:12–17, it is an obligatory human practice. See
+[[The Covenant Signs - Rainbow, Circumcision, and Sabbath]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; sabbath as a perpetual covenant.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; obligations through the whole year.
 

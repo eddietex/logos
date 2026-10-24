@@ -211,6 +211,14 @@ offering (30:10). He and his sons wash hands and feet at the basin before every 
 they not die"* (30:19–21), and he is anointed with the holy oil (30:30). See
 [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The makers of his garments appointed — Exodus 31
+
+Aaron is named as priest in the list of things Bezalel, Oholiab, and the workers must make (31:10).
+His holy garments and his sons' garments are part of the same comprehensive commission as the tent
+and its furnishings. No new priestly action or ordination is reported.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Named by God as Moses' brother, *"the Levite"*, who *"can speak well"*, already coming to meet him,
@@ -256,6 +264,9 @@ they not die"* (30:19–21), and he is anointed with the holy oil (30:30). See
 - Exodus 30:1–38 — Given the morning and evening incense, the yearly atonement on the incense altar, and the washing at the basin. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; his garments and those of his sons
+  are assigned to the makers.
 
 - [[The Burning Bush]] — Exodus 4:14–16; **named, not present.** Offered by God when Moses asks for
   someone else; Moses is to be *"to him as God"*, and he is to be Moses' mouth

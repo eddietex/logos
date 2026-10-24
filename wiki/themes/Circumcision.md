@@ -89,7 +89,20 @@ a mark that can be perfectly kept and entirely missed.
 interval of Genesis 17:12. The text does not connect the two laws; the shared interval is traced at
 [[The Eighth Day - Circumcision and the Firstborn Given to God]]. See [[Laws of Holiness and Compassion]].
 
+### An earlier covenant sign beside the Sabbath — Exodus 31
+
+Genesis 17:10–14 calls circumcision the covenant token and attaches being cut off to its neglect.
+Exodus 31:13–17 similarly calls the Sabbath a sign, requires its keeping, and names a cutting-off
+sanction as well as death. The analogy does not make the practices interchangeable: one marks male
+bodies in Abraham's household and descendants; the other governs Israel's recurring time. See
+[[The Covenant Signs - Rainbow, Circumcision, and Sabbath]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; an earlier covenant sign beside the
+  sabbath.
 
 - [[Circumcision, the Sign of the Covenant]] — Genesis 17: the command, the age, the household scope,
   the sanction, and the same-day obedience

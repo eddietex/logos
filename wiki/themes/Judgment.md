@@ -213,7 +213,18 @@ bears *"the judgment of the children of Israel on his heart before Yahweh contin
 (Exodus 28:15, 29–30). Exodus does not say how a judgment was obtained; later texts show the
 Urim used for inquiry. See [[The Priestly Garments]] and [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
 
+### A sanction stated before a case is narrated — Exodus 31
+
+Exodus 31:14–15 attaches death to Sabbath profanation and work, alongside the cutting-off formula.
+The passage names no defendant, hearing, or sentence carried out. It defines the covenant sanction;
+it does not tell a judgment story or specify how the penalty is administered.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; a sanction stated before a case is
+  narrated.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; truth without partiality.
 

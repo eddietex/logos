@@ -88,7 +88,20 @@ weekly pattern of labor and Sabbath (20:11). The latter directly recalls Genesis
 simply repeating its wording. See [[Creation as the Ground of the Sabbath Command]]. See
 [[The Ten Commandments]].
 
+### Creation remembered in the covenant sign — Exodus 31
+
+Exodus 31:17 makes God's six days of making heaven and earth and seventh-day rest the rationale for
+Israel's Sabbath sign. It adds *“and was refreshed”* to the account of rest; Genesis 2:2–3 does not
+contain that phrase in the WEB. The text relates the sanctuary instructions to creation through the
+final Sabbath command, but does not itself label the tabernacle a new creation. See
+[[Creation as the Ground of the Sabbath Command]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation remembered in the covenant
+  sign.
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]]

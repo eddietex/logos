@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation-grounded Sabbath as covenant
+  sign, with divine refreshment.
+
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:10–12, rest for the field and refreshment for dependents.
 
 - [[The Creation of the World]] — Genesis 2:2–3.
@@ -56,6 +59,26 @@ seventh year's produce available to the poor and animals (23:10–11). These pro
 20:11's creation rationale and guard against treating social concern as exclusive to Deuteronomy.
 See [[Justice, Sabbaths, and Feasts]] and [[The Seventh Year's Food - Exodus 23 and Leviticus 25]].
 These Exodus verses were checked in raw WEB on 2026-10-23.
+
+### The sign and the refreshment — Exodus 31:12–17
+
+Exodus 31:17 repeats the six days of making heaven and earth and seventh-day rest, adding *“and was
+refreshed.”* The sign specifically binds Yahweh and Israel (31:13, 17), and is observed as a
+perpetual covenant (31:16). Its placement after the makers' appointment means the sanctuary
+commission is not given an exception from Sabbath.
+
+**There is a theological tension to retain:** Genesis 2:2–3 describes finished work and rest; Exodus
+31:17 speaks of refreshment; Isaiah 40:28 says the Creator *“isn’t weary.”* Reading Exodus's
+description as human language applied to God is a possible interpretation, not a phrase supplied by
+Exodus itself. The Sabbath and God pages' earlier categorical denial of exhaustion has been
+qualified accordingly.
+
+Exodus 23:12 applies refreshment to the servant's son and the alien in the WEB. The verbal
+resemblance in English helps connect divine rest to the rest granted dependents without assuming
+that God and people become tired in the same way. Hebrew for 31:17 was read in MAM (*šābat
+wayyinnāpaš*); no source-language identity with 23:12 is claimed here. Isaiah 40:28 was verified
+from bible-api.com's WEB on 2026-10-24. See
+[[The Covenant Signs - Rainbow, Circumcision, and Sabbath]].
 
 ## Significance
 

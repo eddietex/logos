@@ -11,8 +11,8 @@ tags: [connection]
   over an unformed world — [[The Creation of the World]]
 - **Genesis 41:38** — Pharaoh: *"Can we find such a one as this, a man in whom is the Spirit of God?"* —
   [[Pharaoh's Dreams and Joseph's Rise]]
-- **Exodus 31:1–5; 35:30–35** — Bezalel, *"filled with the Spirit of God, in wisdom, and in
-  understanding, and in knowledge, and in all kinds of workmanship"*
+- **Exodus 31:1–11** — [[Bezalel]], filled for craftsmanship —
+  [[Bezalel, Oholiab, and the Sabbath Sign]]; compare 35:30–35 (local WEB, not yet ingested).
 - **Numbers 24:2** — *"the Spirit of God came on him"*, of Balaam, a foreign diviner
 - **Numbers 27:18** — Joshua, *"a man in whom is the Spirit"*
 - **Judges 3:10; 6:34; 11:29; 14:6** — the Spirit coming on the judges, for a task and then leaving
@@ -58,18 +58,24 @@ was coming from.**
 | who | for what | how long |
 |---|---|---|
 | **Joseph** (Genesis 41:38) | reading a dream, then running a famine | not said |
-| **Bezalel** (Exodus 31:3) | **craftsmanship** — the tabernacle | the build |
+| **Bezalel** (Exodus 31:3) | **craftsmanship** — the tabernacle | not stated |
 | **the seventy elders** (Numbers 11:25) | bearing the burden of the people | *"they didn't do so again"* |
 | **Balaam** (Numbers 24:2) | an oracle he was hired to reverse | three oracles |
 | **Joshua** (Numbers 27:18) | succeeding Moses | his life |
 | **the judges** | a deliverance, one at a time | the emergency |
 | **Saul** (1 Samuel 16:14) | kingship | **withdrawn** |
 
-**Bezalel is the closest formal parallel to Joseph** — **the pair *ḥokmâ* and *təbûnâ*, wisdom and
-understanding, is used of both** (Genesis 41:33, 39; Exodus 31:3) — **and both gifts are practical.**
-**Nothing in either text is about ecstasy or prophecy in the narrow sense.** What the Spirit confers in
-these passages is **competence that exceeds the trained professional's**, which is precisely the claim
-Genesis 41:8 sets up by summoning the guild and reporting a blank. See [[Wisdom]].
+**Bezalel provides a practical parallel to Joseph, but the earlier wording here overstated it.**
+Exodus 31:3 has the nouns *ḥokmâ*, *təbûnâ*, and *daʿat*, whereas Genesis 41:33, 39 describes the
+man as *nābôn wəḥākām*. These are related descriptions of understanding and wisdom, not an identical
+pair of nouns (MAM, checked through Sefaria on 2026-10-24).
+
+The earlier table also limited Bezalel's gift to “the build,” and this paragraph characterized it as
+competence beyond trained professionals. **Exodus 31 supplies neither a duration nor a comparison
+with trained craftsmen.** It describes workmanship as God-given and gives wisdom to the broader
+wise-hearted company as well (31:6). The contrast between Joseph and unsuccessful Egyptian
+interpreters cannot simply be transferred to Bezalel. See [[Wisdom]] and
+[[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]].
 
 ### The Daniel repetition
 
@@ -86,7 +92,9 @@ vocabulary is what any Aramaic author would use** — **but the scene is the sam
 
 ### Where it goes
 
-**The prophets take the temporary, task-bound Spirit of the narratives and make it permanent.**
+**Some prophetic passages describe the Spirit resting on an anticipated figure.** The comparison
+with task-related gifts is useful, but their duration is not always stated: Exodus 31 does not say
+that Bezalel loses the Spirit when the sanctuary is complete.
 Isaiah 11:2 has it *"rest on him"* — *wənāḥâ ʿālāyw* — **a verb of settling rather than of rushing**; and
 Isaiah 61:1's *"The Spirit of the Lord Yahweh is on me"* is the text Luke 4:18 has read in a synagogue and
 declared fulfilled. **John 3:34 states the contrast outright**: *"for he gives the Spirit without
@@ -101,8 +109,9 @@ special gift. **Pharaoh said it of Joseph; Elihu says it of himself**, and the b
 confirming it. See [[Elihu Speaks in Anger]] and [[Wisdom]].
 
 **The line from Genesis 41 to there is not a prediction and this page does not claim one.** What it is
-**is a vocabulary**: the Bible's way of saying that a person is doing something they could not have been
-trained to do **starts with an Egyptian king trying to explain what just happened in his throne room.**
+**is a vocabulary** for attributing practical ability to God's Spirit. Genesis 41 puts that attribution
+in an Egyptian king's mouth; Exodus 31 puts it in God's own address about the makers. Neither passage
+gives a full account of the worker's training.
 
 ## Significance
 

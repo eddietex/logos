@@ -25,15 +25,27 @@ is not adopted here. **A Midianite king named Hur** (Numbers 31:8; WLC) is certa
 tradition says more about the Hur of Exodus 17 — including that he was Miriam's husband — but **those sources have
 not been checked here and are not relied on.**
 
+### The other identification now reached — Exodus 31:2
+
+The craftsman's genealogy now has its own page, [[Hur (grandfather of Bezalel)]]. **Whether that Hur
+is this companion remains unresolved.** Exodus supplies neither a genealogy for Moses' companion nor
+an explicit identification at 31:2. The cross-reference below records the question; it does not
+count this man as a certain participant in the pericope.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Goes up the hill with Moses and Aaron during the battle with Amalek; holds up one of Moses' hands until sunset —
   Exodus 17:10–12, [[The Battle with Amalek]]
 - Left with Aaron to settle disputes while Moses is on the mountain — Exodus 24:14,
   [[The Blood of the Covenant]]
-- *(ahead, identity uncertain)* *"Bezalel the son of Uri, the son of Hur"* — Exodus 31:2; 35:30; 38:22
+- *(identity uncertain)* The grandfather in Exodus 31:2 has a separate page, [[Hur (grandfather of Bezalel)]]; 35:30 and 38:22 repeat that ancestry (not yet ingested).
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; possible identification with
+  Bezalel's grandfather, explicitly uncertain.
 
 - [[The Battle with Amalek]] — Exodus 17:10–12; **one of the two who hold up Moses' hands.** *"Moses, Aaron, and Hur
   went up"*; *"Aaron and Hur held up his hands, the one on the one side, and the other on the other side"*

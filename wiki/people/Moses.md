@@ -470,6 +470,16 @@ the basin between tent and altar, and compound the anointing oil and the incense
 his sons (30:26–30). Exodus 40:26–27 and 40:31 (local WEB) later have Moses burn the first incense
 and wash at the basin himself. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The makers appointed and the tablets delivered — Exodus 31
+
+Moses receives the names of Bezalel and Oholiab and the promise of wisdom for the company (31:1–11).
+The making previously commanded to him is assigned to skilled workers. He must speak the Sabbath law
+to Israel (31:12–17), and receives the two tablets when God finishes speaking (31:18), fulfilling
+the promise of 24:12. This chapter does not yet narrate his descent or his relay of the
+instructions.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -581,6 +591,9 @@ and wash at the basin himself. See [[The Incense Altar, the Ransom, and the Holy
 - Exodus 30:1–38 — Told to make the incense altar, collect the census ransom, and compound and apply the anointing oil. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; receives the makers' commission, the
+  Sabbath law, and the tablets.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; receives the continuing address by context.
 

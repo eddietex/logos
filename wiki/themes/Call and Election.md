@@ -100,7 +100,19 @@ status a liability; Romans 9 presses the freedom of the choice to a point Paul h
 a doxology rather than an explanation. All three are in the canon, and no one of them is the key to
 the others.
 
+### Called by name for skilled service — Exodus 31
+
+Bezalel is called by name for making the sanctuary (31:2–5); Oholiab is appointed alongside him, and
+the company receives wisdom for the same task (31:6). **This qualifies this page's earlier
+generalization that the chosen have no qualifications:** Exodus describes gifted, wise-hearted
+workers, not people declared unskilled. It supplies no reason for Bezalel's selection or account of
+his prior training. The gift serves the whole worshiping community.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; called by name for skilled service.
 
 - [[Abram in Egypt]] — Genesis 12:10–20, the first demonstration that the choosing is not conditional
   on the conduct of the chosen
@@ -234,6 +246,8 @@ the others.
 - [[Faith]] — the response to a call, and the one thing Genesis 15:6 credits the called man with
 
 ## Related people
+
+- [[Bezalel]] and [[Oholiab]] — named sanctuary makers in Exodus 31.
 
 - [[God]] — who calls, and never explains the choice
 - [[Abraham]] — the first man called, and the one the New Testament argues from

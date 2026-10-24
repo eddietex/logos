@@ -38,7 +38,7 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
   *"How long do you refuse to keep my commandments and my laws?"* (16:28). See [[Manna and Quail]].
 - To trace as ingestion reaches them: Deuteronomy 5:12–15 (the same commandment
   grounded instead in the exodus from Egypt — two different rationales for one command, worth
-  holding side by side), Exodus 31:12–17 (Sabbath as covenant sign), Leviticus 25 (sabbath year
+  holding side by side), Leviticus 25 (sabbath year
   and jubilee), Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
   Hebrews 3:7–4:11 (a sabbath rest still remaining).
 
@@ -75,7 +75,27 @@ See [[The Seventh Year's Food - Exodus 23 and Leviticus 25]].
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The covenant sign and its sanction — Exodus 31
+
+Exodus 31:13–17 calls Sabbath the sign between Yahweh and Israel, the people whom he sanctifies.
+Israel is to observe it as a perpetual covenant. Verses 14–15 prescribe death for profanation and
+work; verse 14 also says the worker is cut off. The relation between these formulations is not
+explained. This is stronger than the unpunished failure to find manna in 16:27–30, and is
+legislation rather than a narrated execution.
+
+**A tension with this page's opening synthesis must remain visible:** the earlier phrase “rest is
+completion, not exhaustion” interprets Genesis 2:2–3, but Exodus 31:17 actually adds *“and was
+refreshed.”* Isaiah 40:28 says the Creator *“isn’t weary”* (WEB verified from bible-api.com,
+2026-10-24). Reading the refreshment as human language applied to God is a theological
+interpretation; neither wording should be erased. See
+[[Creation as the Ground of the Sabbath Command]] and
+[[The Covenant Signs - Rainbow, Circumcision, and Sabbath]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the covenant sign and its sanction.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; rest for the field and refreshment for dependents.
 

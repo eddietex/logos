@@ -162,7 +162,18 @@ among them"* (30:12). The priests wash *"that they not die"*, said twice (30:20�
 the oil or the incense *"shall be cut off from his people"* (30:33, 38), the penalty Genesis 17:14
 set for the uncircumcised. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The Sabbath death sanction — Exodus 31
+
+Exodus 31:14–15 expressly requires death for profaning the Sabbath and for working on it. Verse 14
+also describes the worker as cut off from the people. Death is explicit here, while the exact
+relation of being cut off to execution is not explained. No offender or execution is narrated in
+this pericope, and no means of execution is specified.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the sabbath death sanction.
 
 - [[The Garden of Eden]] — the breath of life, the tree of life, and the death sentence
 - [[The Wager in Heaven and the Four Messengers]] — **ten deaths in a single clause**, reported by a

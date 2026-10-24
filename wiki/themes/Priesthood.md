@@ -115,7 +115,19 @@ recipe and the incense's are reserved: no one may copy them or put the oil *"on 
 [[The Incense Altar, the Ransom, and the Holy Oil]] and
 [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]].
 
+### Garments made by people outside the priestly family — Exodus 31
+
+Aaron and his sons receive garments made under the commission given to Bezalel of Judah, Oholiab of
+Dan, and the wise-hearted workers (31:2, 6, 10). Making priestly clothing does not confer the
+priestly office on the maker. The chapter assigns craftsmanship and anticipates priestly service
+without narrating an ordination.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; garments made by people outside the
+  priestly family.
 
 - Genesis 14:18–20 — the first priest, [[The Rescue of Lot and Melchizedek]]
 - Genesis 28:18 — **the first anointing**, [[Jacob's Ladder at Bethel]]: before any priest, king,

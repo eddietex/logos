@@ -1878,6 +1878,20 @@ no plague among them"* (30:12), and sets one price for rich and poor (30:15). He
 and the incense to himself: neither may be copied, and whoever does so *"shall be cut off from his
 people"* (30:33, 38). See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### Skill, sanctification, and refreshment — Exodus 31
+
+God calls Bezalel, gives the Spirit and wisdom for workmanship, appoints Oholiab, and gives wisdom
+to the company (31:2–6). His Sabbath sign teaches Israel that he sanctifies them (31:13). He then
+gives Moses tablets written with his finger (31:18).
+
+**The earlier statement here that divine rest is “not from exhaustion” is an interpretation, not all
+the evidence.** Exodus 31:17 says he *“rested, and was refreshed.”* Isaiah 40:28 says the Creator
+*“isn’t weary”* (WEB verified from bible-api.com, 2026-10-24). A reading of refreshment as human
+language for God may relate the two, but the wiki retains both descriptions. See
+[[Creation as the Ground of the Sabbath Command]].
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
@@ -2122,6 +2136,9 @@ people"* (30:33, 38). See [[The Incense Altar, the Ransom, and the Holy Oil]].
 - Exodus 30:1–38 — Prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; calls and equips makers, sanctifies
+  Israel, and gives the tablets.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; commands justice, rest, and feasts.
 

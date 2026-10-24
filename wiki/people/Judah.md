@@ -232,6 +232,14 @@ This page grows as those pericopes arrive; what follows is the shape of it.
 reversal of proportion between the two tribal poems.** See
 [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
 
+### Judah in the sanctuary commission — Exodus 31:2
+
+Bezalel, son of Uri and grandson of Hur, is identified with the tribe of Judah when called to make
+the sanctuary. Judah is the tribe's ancestral name here, not a living actor. A Judahite craftsman
+works alongside Oholiab of Dan; the priestly clothing they make belongs to Aaron's family.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -263,6 +271,9 @@ reversal of proportion between the two tribal poems.** See
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; tribal name in Bezalel's ancestry; no
+  personal appearance.
 
 - [[The Birth of Jacob's Children]] — Genesis 29:35; the fourth son, and **the first naming speech in
   the passage with no husband in it.** His mother stops bearing in the same verse, and the name she

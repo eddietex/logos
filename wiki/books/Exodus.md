@@ -368,6 +368,16 @@ washing, *"that they not die"* (30:17–21). The holy anointing oil and the ince
 recipes and reserved to God on pain of being *"cut off"* (30:22–38). The chapter uses the root of
 *atonement* more densely than any before it.
 
+### The makers, Sabbath sign, and tablets — Exodus 31
+
+[[Bezalel, Oholiab, and the Sabbath Sign]] closes the mountain instructions. God calls Bezalel of
+Judah, appoints Oholiab of Dan beside him, and gives wisdom to the workers for all the sanctuary's
+equipment (31:1–11). A fresh speech requires Sabbath as the sign between Yahweh and Israel, a
+perpetual covenant grounded in creation, with death for profanation and work (31:12–17). The divine
+rest is described as refreshment, a wording retained alongside Isaiah 40:28's denial of divine
+weariness. When the speaking ends, Moses receives the two stone tablets written with God's finger
+(31:18). The work is assigned; nothing has yet been built.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -442,7 +452,7 @@ for unit.
 - [x] [[The Priestly Garments]] — Exodus 28:1–43
 - [x] [[The Ordination of the Priests]] — Exodus 29:1–46
 - [x] [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38
-- [ ] Bezalel, Oholiab, and the Sabbath Sign — Exodus 31:1–18
+- [x] [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18
 
 ### The calf and the covenant renewed (32–34)
 
@@ -533,6 +543,9 @@ for unit.
 - [[Love]]
 
 ## Key people
+
+- [[Bezalel]] and [[Oholiab]] — the appointed makers, from Judah and Dan (31:2–6).
+- [[Uri]], [[Hur (grandfather of Bezalel)]], and [[Ahisamach]] — their named ancestry.
 
 - [[God]]
 - [[Jacob]] — *Israel*, whose sons open the book

@@ -163,7 +163,19 @@ reports the altar and court made, and 40:24–33 records their use and arrangeme
 remain un-ingested. See [[The Altar and the Court]] and
 [[As God Commanded, So He Did - The Obedience Formula]].
 
+### Commanded work, commanded rest, written testimony — Exodus 31
+
+The makers are to do all that God commanded Moses (31:6, 11). The obedience required includes
+stopping work for the Sabbath (31:13–17); a sacred project is not given leave to disregard sacred
+time. The tablets promised in 24:12 are delivered in 31:18 as God's own writing. This verse does not
+transcribe their contents or report Israel's compliance.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; commanded work, commanded rest,
+  written testimony.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; one address for court, field, and feast.
 

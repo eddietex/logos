@@ -54,6 +54,14 @@ censers of Korah's company into a covering for the altar. See
 [[The Incense Altar, the Ransom, and the Holy Oil]] and
 [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]].
 
+### Garments included in the makers' commission — Exodus 31
+
+Exodus 31:10 includes Aaron's sons collectively among those for whom garments must be made. The
+individual identification comes from 28:1; this verse does not name each son or narrate his service.
+Their clothing is part of the workers' commission in 31:6–11.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Timeline / key events
 
 - Born to Aaron and [[Elisheba]], the third of four sons — Exodus 6:23
@@ -67,6 +75,9 @@ censers of Korah's company into a covering for the altar. See
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; included collectively among Aaron's
+  sons whose garments will be made (31:10).
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:23, 25; **the son through whom the list goes on**
 

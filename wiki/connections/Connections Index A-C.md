@@ -57,6 +57,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Buy Us and Our Land - Egypt Sold into Servitude and Israel After It]] | parallel | Genesis 15:13–14 · Genesis 44:9–33 · Genesis 47:18–27 · Exodus 1:8–14 · Exodus 5:6–19 · Deuteronomy 6:21; 15:15; 24:18 |
 | [[By the Life of Pharaoh - Oaths Sworn by a King]] | idiom | Genesis 22:16 · Genesis 42:15–16 · 1 Samuel 17:55 · 1 Samuel 20:3 · 1 Samuel 25:26 · 2 Samuel 11:11 · 2 Samuel 15:21 · Matthew 5:34–37 |
 | [[Cain and Abel in the New Testament]] | typology | Genesis 4:1–16 · Matthew 23:35 · Luke 11:51 · Hebrews 11:4 · Hebrews 12:24 · 1 John 3:12 · Jude 11 |
+| [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]] | command-and-performance | Exodus 28:3 · Exodus 31:1–18 · Exodus 35:1–3, 30–36:7 · Exodus 38:22–23 · [[Bezalel, Oholiab, and the Sabbath Sign]] |
 | [[Calling on the Name of Yahweh]] | thread | Genesis 4:26 · Genesis 12:8 · Exodus 3:13–15 · Exodus 6:2–3 · Joel 2:32 · Acts 2:21 · Romans 10:13 |
 | [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] | thread | Job 22:2–4, 21 · Job 1:8–9; 2:3 · Job 7:20 · Job 21:15 · Job 34:9; 35:2–3 · Job 35:6–8 · Job 41:11 · Romans 11:35 · Luke 17:10 |
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
@@ -68,9 +69,10 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:6 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 |
 | [[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]] | thread | Exodus 29:38–42 · Numbers 28:1–8 · Daniel 8:11–13 |
+| [[The Covenant Signs - Rainbow, Circumcision, and Sabbath]] | parallel | Genesis 9:8–17 · Genesis 17:7–14 · Exodus 31:12–17 · Ezekiel 20:12, 20 · [[Bezalel, Oholiab, and the Sabbath Sign]] |
 | [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] | thread | Genesis 3:6 · Genesis 39:7, 9 · Job 31:1, 7, 9 · Numbers 15:39 · 2 Samuel 11:2 · Proverbs 6:25 · Matthew 5:27–29 · 2 Peter 2:14 · 1 John 2:16 |
 | [[Coveting and Love - The Commandments in Romans 7 and 13]] | quotation | Exodus 20:13–17 · Romans 7:7–12 · Romans 13:8–10 |
-| [[Creation as the Ground of the Sabbath Command]] | quotation | Genesis 2:2–3 · Exodus 16:22–30 · Exodus 20:8–11 · Deuteronomy 5:12–15 · Exodus 23:10–12 |
+| [[Creation as the Ground of the Sabbath Command]] | quotation | Genesis 2:2–3 · Exodus 16:22–30 · Exodus 20:8–11 · Deuteronomy 5:12–15 · Exodus 23:10–12 · [[Bezalel, Oholiab, and the Sabbath Sign]] |
 | [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]] | quotation | Genesis 15:6 · Psalm 106:30–31 · Nehemiah 9:7–8 · 1 Maccabees 2:52 · Romans 4:3, 9, 22–24 · Galatians 3:6–9 · James 2:21–24 · Hebrews 11:8–19 |
 | [[The Curse of Canaan and the Conquest]] | thread | Genesis 9:25–27 · Genesis 10:15–19 · Genesis 15:16 · Leviticus 18:24–30 · Deuteronomy 9:4–5 · Joshua 9:22–27 · Judges 1:28–35 · 1 Kings 9:20–21 |
 | [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] | parallel | Job 3:1–12 · Jeremiah 20:14–18 · Job 10:18–19 · Ecclesiastes 4:2–3; 6:3–5 · Jonah 4:3, 8 · 1 Kings 19:4 · Matthew 26:24 |

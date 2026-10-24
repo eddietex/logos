@@ -31,7 +31,7 @@ days (Exodus 24:16; MAM) — the verb of dwelling, used of a mountain the people
 collect an offering for a sanctuary, *"that I may dwell among them"* (25:8). It is the purpose of the
 whole set of instructions (25–31) and, by 29:45–46, of the exodus itself: God *"brought them out of
 the land of Egypt, that I might dwell among them"*. The book ends with the glory filling the
-*miškān* (40:34–35). *(29:45–46 and 40:34–35 are not yet ingested.)*
+*miškān* (40:34–35). *(40:34–35 is not yet ingested.)*
 
 **What fills the dwelling is designed first.** Before any tent, God describes the ark, the table, and the
 lampstand (25:10–40). The ark is where he will *meet* Moses and *speak* (*wənôʿadtî*, *I will meet by
@@ -91,7 +91,19 @@ The incense altar stands *"before the veil … before the mercy seat … where I
 you"* (30:36). The place of meeting named at the mercy seat (25:22) and the tent door (29:42) is
 named twice more. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
+### The appointed makers and their stopping point — Exodus 31
+
+Exodus 31:1–11 joins divine design to divinely supplied human skill. The tent, furniture, priestly
+garments, oil, and incense all fall within the workers' commission. God does not merely request a
+dwelling: he provides a company to make it. The Sabbath command then sets a limit on the work;
+neither a finished sanctuary nor an indwelling glory is reported here.
+
+See [[Bezalel, Oholiab, and the Sabbath Sign]].
+
 ## Key passages
+
+- [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the appointed makers and their
+  stopping point.
 
 - [[The Blood of the Covenant]] — Exodus 24:16; ***"Yahweh's glory settled on Mount Sinai"***, *šākan*
   on the mountain before *šākan* among the people
