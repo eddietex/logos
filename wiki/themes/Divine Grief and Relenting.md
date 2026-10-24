@@ -101,7 +101,16 @@ contexts (WEB checked at bible-api.com, 2026-10-24). Here the threatened total d
 averted, but the killings, reserved punishment, and final plague are not canceled (32:28, 34–35).
 See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The dialogue moves from refusal to go among Israel (33:3) to the assurance of presence and
+acceptance of Moses’ request (33:14–17). This develops the narrative responsiveness already stated
+in 32:14. Exodus 33 does not itself use the WEB word repented; this page distinguishes the changed
+announced course from an asserted source-language occurrence. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; The announced course changes in response to intercession.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Exodus 32:14 explicitly reports that Yahweh repented of the evil he had announced.
 

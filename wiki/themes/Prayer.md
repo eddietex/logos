@@ -118,7 +118,16 @@ Moses first argues from God’s deliverance, reputation among the Egyptians, and
 sin and seeks forgiveness, but receives a warning of continuing liability (32:30–34). These two
 prayers have distinguishable outcomes. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The requests advance from knowing God’s way (33:13), to God going with the people (33:15–16), to
+seeing glory (33:18). God grants presence while restricting the requested sight (33:17–23). The
+answer is neither a total refusal nor an unqualified grant: prayer leads into a revelation whose
+terms God sets. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Petition answered with presence and limited revelation.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses first argues from God’s deliverance, reputation among the Egyptians, and oath to the fathers (32:11–13).
 

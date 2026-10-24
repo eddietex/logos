@@ -178,7 +178,16 @@ killed and a later plague is reported (32:28, 35). Moses asks to be blotted from
 forgiveness is refused; the book’s scope is not explained here. Survival of the people and
 liability of sinners coexist. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+God declares that a person cannot see his face and live (33:20), and promises to cover Moses in the
+rock while the glory passes (33:21–23). The hand which might strike in judgment here protects the
+recipient of revelation. The scene supplies a limit on sight, not an account of an actual death. See
+[[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Protected revelation under a stated mortal limit.
 
 - [[The Golden Calf]] — Exodus 32:1–35; The threatened destruction of the nation is averted (32:10–14), but about three thousand are killed and a later plague is reported (32:28, 35).
 

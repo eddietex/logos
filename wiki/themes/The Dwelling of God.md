@@ -100,7 +100,17 @@ neither a finished sanctuary nor an indwelling glory is reported here.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### Presence after the calf — Exodus 33
+
+The command to dwell among Israel (25:8; 29:45–46) meets an explicit contrary announcement: Yahweh
+will not go among the people because they are stiff-necked (33:3–5). The outside tent makes distance
+visible, though God still meets Moses there. The promise of presence in 33:14–17 answers the crisis;
+it does not report that the prescribed tabernacle has already been built. See [[Show Me Your Glory]]
+.
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; The outside tent and restored promise of presence.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the appointed makers and their
   stopping point.

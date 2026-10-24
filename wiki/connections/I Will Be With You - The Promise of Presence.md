@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
+
 - Genesis 26:3, 24 — to Isaac, in a famine and at Beersheba
 - Genesis 28:15 — to Jacob at Bethel: *"I am with you, and will keep you, wherever you go"*
 - Genesis 31:3 — to Jacob again, sending him home — [[Jacob's Flight from Laban]]
@@ -47,8 +49,7 @@ cancels it. **The land is still promised; it is no longer the condition of the p
 
 ### What the formula does everywhere it appears
 
-**It is always a commissioning, and it always answers an objection.** The pattern is fixed enough to
-be listed:
+**It often accompanies a commission and answers an objection.** The examples include:
 
 | | the person | the objection | the answer |
 |---|---|---|---|
@@ -104,9 +105,20 @@ to ask for bread and clothing.
 **Exodus asks the presence question with one word, *qereb*, *midst*.** *"Is Yahweh among us
 (bəqirbēnû)?"* (17:7); *"my name is in him (bəqirbô)"* of the angel sent ahead (23:21); *"I will not go
 up among you (bəqirbəkā)"* after the calf (33:3); and Moses' *"please let the Lord go among us
-(bəqirbēnû)"* (34:9; all MAM; 33–34 *not yet ingested*). The angel is God's answer to the first
-question, and Moses' refusal of the angel alone is the book's final form of it. See
+(bəqirbēnû)"* (34:9; all MAM; 33 now in [[Show Me Your Glory]]; 34 *not yet ingested*). The angel
+is God's answer to the first question, and Moses' refusal of the angel alone is the book's final form of it. See
 [[The Angel Sent Ahead]] and [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
+
+### Exodus 33 in its narrative setting
+
+[[Show Me Your Glory]] requires a qualification of this page’s earlier language about an
+unconditional, costless presence. The land remains promised while God initially refuses to go
+among a stiff-necked people lest he consume them (33:1–5). Presence is therefore neither an
+automatic consequence of possession nor a guarantee that disobedience has no consequences.
+Moses refuses departure without God and pleads for the whole nation (33:12–16); God agrees
+because Moses has found favor and is known by name (33:17). The promise is gracious, but this
+scene reaches it through threatened withdrawal and mediation. This develops, rather than
+cancels, the earlier promises to the patriarchs.
 
 ## Significance
 
@@ -119,10 +131,10 @@ because he is about to spend twenty years outside it working for a man who will 
 before there is an exile — which is why Isaiah reaches for it when there is one: *"When you pass
 through the waters, I will be with you"* (43:2).
 
-**And it costs the recipient nothing and requires nothing.** In every passage listed above the
-presence is announced, never earned, and usually announced to someone who has just explained why they
-are the wrong person. **Jacob, asleep on a stone with his brother's blessing in his pocket, sets the
-standard for that.**
+**Presence is promised as a gift, not presented as wages.** Several recipients have just explained
+why they are the wrong person. Exodus 33 adds a necessary qualification: the people’s conduct
+threatens continued accompaniment, and Moses intercedes for its restoration. **Jacob, asleep on a
+stone with his brother's blessing in his pocket, illustrates the gift.**
 
 See [[Jacob's Ladder at Bethel]], [[Isaac in Gerar]], [[Covenant]], [[Call and Election]],
 [[Favor and Grace]], [[Land and Sojourning]], and [[Walking with God]].

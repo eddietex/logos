@@ -719,7 +719,16 @@ self, the numerous offspring, and the enduring land promise (32:13). Abraham is 
 present. The assurance received by the patriarch now grounds intercession for descendants who have
 violated the covenant. See [[I Have Sworn by Myself - The Oath at Moriah]]. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Yahweh recalls the oath sworn to Abraham, Isaac, and Jacob as the ground for going to the land after
+the calf (33:1). Abraham is a remembered recipient of the oath, not an actor in the scene. The
+promise persists even when the terms of divine accompaniment are disputed. See
+[[Show Me Your Glory]].
+
 ## Timeline / key events
+
+- Exodus 33 — recalled as a recipient of the land oath (33:1). [[Show Me Your Glory]]
 
 - Named first of Terah's three sons, in Terah's seventieth year or later — Genesis 11:26,
   [[From Shem to Abram]]
@@ -844,6 +853,8 @@ violated the covenant. See [[I Have Sworn by Myself - The Oath at Moriah]]. See 
 - Exodus 32 — Remembered with Isaac and Israel in Moses’ appeal to God’s oath (32:13). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; recalled as a recipient of the land oath (33:1).
 
 - [[The Golden Calf]] — Remembered with Isaac and Israel in Moses’ appeal to God’s oath (32:13).
 

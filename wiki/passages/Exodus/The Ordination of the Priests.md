@@ -230,6 +230,8 @@ narrates the performance.
 
 ## Cross-references
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
+
 - [[The Golden Calf]] — Aaron’s failure and the Levites’ call to consecration in Exodus 32 must be distinguished from the seven-day rite prescribed here.
 
 - Exodus 24:5–8 — [[The Blood of the Covenant]]: young men offer, and Moses sprinkles blood on the
@@ -374,3 +376,10 @@ Daniel 8:11–13; Hebrews 7:27–28; 13:10–13 were fetched individually from b
 for Exodus 28:4, 37, 39 and 29:6, 9, 22, 33, 36–37, 42–43, 45–46 was read in *Miqra according to the
 Masorah* through the Sefaria API on 2026-10-23. Root derivations beyond what the consonants show
 are marked where they occur.
+
+### The continuing presence crisis — Exodus 33
+
+The promise of meeting and dwelling in 29:42–46 stands behind the crisis in
+[[Show Me Your Glory]] (33:1–23). Joshua’s attendance at the outside tent (33:11) is not a
+report that he undergoes this Aaronic rite. See
+[[The Tent Outside the Camp and the Promised Dwelling]].

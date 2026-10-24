@@ -71,7 +71,17 @@ verb; both MAM) — yet the text describes only what was *"under his feet"*, a p
 will state. The Septuagint has them see *the place* where God stood (Rahlfs). See [[The Blood of the Covenant]] and
 [[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
 
+### Presence after the calf — Exodus 33
+
+The narrator describes face-to-face speech like conversation with a friend (33:11), but God forbids
+Moses to see his face and live (33:20). The comparison with friendship supports a distinction
+between direct speech and unrestricted sight, but that is an interpretation, not an explanation
+supplied by the narrator. The report that the elders saw God in 24:10–11 remains in tension with
+this prohibition; neither statement should erase the other. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Face-to-face speech and the face that cannot be seen.
 
 - [[The Creation of the World]] — Genesis 1, *"God saw that it was good"*, seven times: sight as
   approval and as verdict

@@ -244,7 +244,17 @@ breach of commanded obedience and the preserving force of sworn promise coexist.
 tablets suggest covenant rupture; Exodus 32 does not itself offer a legal explanation of the
 gesture. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The land oath to Abraham, Isaac, and Jacob remains the stated destination after the calf (33:1). Yet
+land and angelic guidance are initially offered without God going among the people (33:2–3). Moses
+refuses to treat that as sufficient and obtains the promise of presence (33:15–17). The new tablets
+and formal renewal belong to chapter 34; chapter 33 should not be labeled a completed covenant
+ceremony. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; The fathers’ oath survives; presence must be sought.
 
 - [[The Golden Calf]] — Exodus 32:1–35; The people who pledged obedience at 24:3–8 quickly violate the commands, and Moses breaks the divine tablets (32:8, 19).
 

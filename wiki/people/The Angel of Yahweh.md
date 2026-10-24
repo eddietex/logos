@@ -256,7 +256,8 @@ day in a pillar of cloud"*** (13:21; WLC). **So the text gives the same going-be
 looks out *"through the pillar of fire and of cloud"* (14:24).** It is the alternation of the table above in
 a new form: not a messenger who speaks as God, but a messenger who moves where God moves. **The wiki reports
 it and adopts none of the three readings.** The promise of an angel sent *"before you"* comes at 23:20
-([[The Angel Sent Ahead]]) and recurs at 32:34 and 33:2 (*not yet ingested*). See [[The Crossing of the Sea]].
+([[The Angel Sent Ahead]]) and recurs at 32:34 and 33:2 ([[Show Me Your Glory]]). See
+[[The Crossing of the Sea]].
 
 ### In this pericope — Exodus 23:20–33
 
@@ -274,7 +275,7 @@ sent *lišmorkā*, *to keep you*, and Israel is told *hiššāmer mippānāyw*, 
 These verses are the strongest single support in the Torah for readings 2 and 3 of the table above.
 The plain *"I send an angel"* (sender distinct from sent) is still the first reading's ground. **The
 wiki records both and adopts none.** The same *qereb* returns after the calf, when God offers an
-angel *before you* but says *"I will not go up among you"* (33:2–3; MAM; *not yet ingested*). See
+angel *before you* but says *"I will not go up among you"* (33:2–3; MAM; [[Show Me Your Glory]]). See
 [[The Angel Sent Ahead]], [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]], and
 [[I Send My Messenger Before Your Face - Exodus 23, Malachi 3, and Mark 1]].
 
@@ -285,7 +286,17 @@ punishment (32:34). The verse does not name or describe the messenger, and inclu
 is a thematic grouping, not a settled identification with every earlier angelic appearance.
 Guidance is reaffirmed without an explicit general pardon. See [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]]. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+An angel is promised before Israel while Yahweh initially refuses to go among them (33:2–3). The
+chapter does not identify this messenger with the angel of the bush or explain his relation to the
+name-bearing messenger of 23:20–23. The notice is collected here as part of the messenger thread
+without deciding identity. Moses insists on Yahweh’s presence and receives assent (33:15–17). See
+[[Show Me Your Glory]].
+
 ## Timeline / key events
+
+- Exodus 33 — the promised angel grouped here without identifying him (33:2). [[Show Me Your Glory]]
 
 - Finds Hagar at a spring in the wilderness on the way to Shur; commands, promises, and announces a
   birth — Genesis 16:7–12, [[Hagar and Ishmael]]
@@ -324,6 +335,9 @@ Guidance is reaffirmed without an explicit general pardon. See [[An Angel Before
 - Exodus 32 — The angel is promised before the people, with judgment still pending (32:34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; the promised angel grouped here without identifying him
+  (33:2).
 
 - [[The Golden Calf]] — The angel is promised before the people, with judgment still pending (32:34).
 

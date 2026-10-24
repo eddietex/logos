@@ -130,7 +130,16 @@ day as ordinary worktime a covenant offense, not merely a missed opportunity for
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### Presence after the calf — Exodus 33
+
+The danger of God consuming a stiff-necked people (33:3–5) places divine nearness and survival in
+tension. The outside tent and protected cleft embody restricted approach, while Moses makes presence
+the distinguishing mark of the people (33:16). This is a thematic account of holiness, not a claim
+that the chapter uses a particular Hebrew holiness term. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Dangerous nearness, protected approach, and a distinct people.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; the god who sanctifies israel.
 

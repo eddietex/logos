@@ -594,7 +594,17 @@ Moses names him Israel alongside Abraham and Isaac when asking God to remember t
 denotes Jacob. The land promise becomes a ground for preserving his descendants despite their
 failure. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Yahweh names Jacob with Abraham and Isaac as a recipient of the land oath (33:1). The children of
+Israel then mourn and remove their jewelry (33:4–6); these are his descendants, not the patriarch
+performing another act. The ancestral promise and the people’s present resistance are held together.
+See [[Show Me Your Glory]].
+
 ## Timeline / key events
+
+- Exodus 33 — recalled as a recipient of the land oath (33:1), not personally present.
+  [[Show Me Your Glory]]
 
 - Foretold before birth in the oracle to his mother: *"The elder will serve the younger"* — Genesis
   25:23, [[Jacob and Esau and the Sold Birthright]]
@@ -741,6 +751,9 @@ failure. See [[The Golden Calf]].
 - Exodus 32 — Named Israel in the appeal to the oath to the fathers (32:13). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; recalled as a recipient of the land oath (33:1), not
+  personally present.
 
 - [[The Golden Calf]] — Named Israel in the appeal to the oath to the fathers (32:13).
 

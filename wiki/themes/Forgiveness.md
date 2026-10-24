@@ -83,7 +83,17 @@ answer assigns erasure to the sinner and orders continued travel with punishment
 (32:33–34). The relenting of 32:14 is real, but it is not an explicit declaration that every
 offense has been pardoned. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The assurance of presence in 33:14–17 advances the recovery after the calf, but is not phrased as a
+blanket declaration of pardon. God’s free mercy in 33:19 and the warning about consuming the people
+in 33:3–5 remain together. The renewed plea for pardon in 34:9 is still ahead. See
+[[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Restored presence is not a blanket cancellation of
+  consequences.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses explicitly asks God to forgive the people after confessing their great sin (32:31–32).
 

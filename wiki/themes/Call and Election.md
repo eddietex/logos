@@ -110,7 +110,16 @@ his prior training. The gift serves the whole worshiping community.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### Presence after the calf — Exodus 33
+
+Moses is known by name and favored (33:12, 17), and he appeals for the whole people to share the
+presence that distinguishes them from other peoples (33:16). Israel’s distinctiveness is presented
+here as dependence on God going with them, despite their stiff-necked conduct, not as evidence of
+superior character. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Known by name; the people distinguished by presence.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; called by name for skilled service.
 

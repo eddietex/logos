@@ -98,7 +98,15 @@ Egyptians would interpret Israel’s destruction as evidence of malicious intent
 (32:12). Egypt is the remembered place and imagined audience, not the setting of this episode. See
 [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The command to depart recalls the people brought out of Egypt (33:1). Egypt is the past place of
+bondage, not the destination or present setting. The crisis asks whether the delivered people will
+continue with God’s presence, rather than repeat the departure itself. See [[Show Me Your Glory]].
+
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; the land from which the people have been brought (33:1).
 
 - [[The Golden Calf]] — The exodus is misattributed, and Egypt’s possible verdict enters Moses’ prayer (32:1–12).
 

@@ -156,7 +156,16 @@ The people rapidly turn from the commanded way (32:8). Moses calls the act a gre
 to the people, and to God (32:21, 30–31). Aaron’s excuse does not remove his agency, and the final
 verse attributes the calf both to the people and to Aaron (32:35). See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The people’s stiff-necked character is repeated as the reason divine accompaniment would consume
+them (33:3, 5). The problem left by the calf is thus more than the existence of an image: the calf
+has been destroyed, but a resistant people still needs mercy and mediation. See
+[[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; The destroyed image leaves an unresolved resistant people.
 
 - [[The Golden Calf]] — Exodus 32:1–35; The people rapidly turn from the commanded way (32:8).
 

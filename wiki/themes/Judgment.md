@@ -228,7 +228,16 @@ then die at the Levites’ hands, and Yahweh strikes the people at the close (32
 plague has no stated death toll. The narrative holds corporate preservation and ongoing
 accountability together; it does not identify every victim or explain the selection. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+God’s refusal to go among Israel is explained as protection against consuming a stiff-necked people
+(33:3–5). Threatened absence is therefore both loss and restraint of judgment. Moses secures a
+promise of presence (33:17); the chapter does not narrate a new execution or revoke every
+consequence retained in 32:34–35. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Withdrawal protects from destruction while remaining a loss.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Total destruction is announced and averted through intercession (32:10–14).
 

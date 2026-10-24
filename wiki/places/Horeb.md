@@ -44,8 +44,9 @@ still camped at Rephidim, which it leaves before it reaches the wilderness of Si
 resolve the geography.** Readings reported, not adopted: *Horeb* as a region wider than the mountain, Rephidim
 lying at its edge; Moses and the elders walking ahead (*"Walk on before the people"*, 17:5) as far as the
 mountain; or the episode placed by theme rather than by stage. **God says he will *"stand"* there on the
-rock**, and later, on the mountain, he will set Moses *"on the rock"* while his glory passes (33:21–22; *not
-yet ingested*) — the first two scenes with *ṣûr*, *rock*, in Scripture both have God and Moses at a rock of
+rock**, and later, on the mountain, he will set Moses *"on the rock"* while his glory passes
+(33:21–22; [[Show Me Your Glory]] ) — the first two scenes with *ṣûr*, *rock*, in Scripture both
+have God and Moses at a rock of
 this mountain or its region (WLC lemma search, Genesis–Exodus). See [[Water from the Rock]] and [[Rephidim]].
 
 **Elijah comes back to it.** Fleeing Jezebel, he goes *"forty days and forty nights to Horeb, God's
@@ -145,7 +146,17 @@ descends with the tablets, and breaks them below; the next day he returns to see
 (32:7–35). The chapter calls it the mountain without repeating Sinai or Horeb. The calf is
 destroyed here, not at Shechem or Bethel. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Horeb is named as the point from which Israel strips off jewelry (33:6). The meeting tent is outside
+the camp, far away from it (33:7); the rock and cleft are specified in relation to God (33:21–22),
+without an independently identifiable site. This does not establish that the cleft is the rock of
+17:6. See [[Show Me Your Glory]].
+
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; named in 33:6; the camp, outside tent, and nearby rock
+  belong to the mountain setting.
 
 - [[The Golden Calf]] — Mountain, descent, broken tablets, camp judgment, and renewed ascent (32:7–35).
 

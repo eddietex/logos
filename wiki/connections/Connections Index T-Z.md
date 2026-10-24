@@ -16,14 +16,15 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
 | [[The Ten Commandments Retold - Exodus 20 and Deuteronomy 5]] | parallel | Exodus 20:1–21 · Deuteronomy 5:1–33 |
+| [[The Tent Outside the Camp and the Promised Dwelling]] | tension | Exodus 25:8–9 · Exodus 29:42–46 · Exodus 33:3, 7–17 · Exodus 40:1–2, 16–17, 34–35 |
 | [[The Teraphim - Household Gods in Genesis and After]] | thread | Genesis 31:19, 30–35 · Genesis 35:2–4 · Judges 17:5 · Judges 18:14–20 · 1 Samuel 15:23 · 1 Samuel 19:11–17 · 2 Kings 23:24 · Ezekiel 21:21 · Hosea 3:4 · Zechariah 10:2 |
 | [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]] | allusion | Exodus 15:4, 14–16 · Joshua 2:9–11, 24 · Genesis 15:12 · Exodus 23:27 |
-| [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] | thread | Exodus 24:16 · Exodus 25:8–9 · Exodus 29:45–46 · Exodus 40:34–35 · Leviticus 26:11–12 · 1 Kings 8:10–11, 27 · John 1:14 · Revelation 21:3, 22 · Exodus 25:22 · Exodus 26:1–37 · Exodus 27:9–21 — [[The Altar and the Court]] · [[The Ordination of the Priests]] |
+| [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] | thread | Exodus 24:16 · Exodus 25:8–9 · Exodus 29:45–46 · Exodus 40:34–35 · Leviticus 26:11–12 · 1 Kings 8:10–11, 27 · John 1:14 · Revelation 21:3, 22 · Exodus 25:22 · Exodus 26:1–37 · Exodus 27:9–21 — [[The Altar and the Court]] · [[The Ordination of the Priests]] · [[Show Me Your Glory]] (Exodus 33:1–23) |
 | [[There Is Hope for a Tree - The Stump That Sprouts]] | image | Job 14:7–14 · Job 19:10 · Isaiah 6:13 · Isaiah 11:1 · Isaiah 40:24 · Isaiah 53:2 · Daniel 4:15, 23, 26 · Ezekiel 17:22–24 |
 | [[They Didn't Recognize Him - Marred Beyond Knowing]] | parallel | Job 2:12 · Isaiah 52:14 · Isaiah 53:2–4 · Genesis 42:8 · Job 19:19–20; 30:10 · Luke 24:16, 31 |
 | [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]] | thread | Genesis 1:22, 28 · Genesis 9:1, 7 · Genesis 17:6 · Genesis 35:11 · Genesis 46:3 · Genesis 47:27 · Exodus 1:7–12 · Acts 7:17 |
 | [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]] | quotation | Exodus 32:6 · 1 Corinthians 10:6–8 |
-| [[They Saw God - Exodus 24, Exodus 33, and John 1.18]] | tension | Genesis 32:30 · Exodus 24:10–11 · Exodus 33:20 · Deuteronomy 5:4 · Judges 13:22 · Isaiah 6:5 · Ezekiel 1:26 · John 1:18 |
+| [[They Saw God - Exodus 24, Exodus 33, and John 1.18]] | tension | Genesis 32:30 · Exodus 24:10–11 · Exodus 33:20 · Deuteronomy 5:4 · Judges 13:22 · Isaiah 6:5 · Ezekiel 1:26 · John 1:18 · [[Show Me Your Glory]] (Exodus 33:1–23) |
 | [[The Thief Breaking In - Exodus 22 and Matthew 24]] | image | Exodus 22:2–3, 7–8 · Matthew 24:43 · John 10:10 |
 | [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]] | prophecy → fulfillment | Genesis 37:5–11 · Genesis 37:19–20 · Genesis 40:5–19 · Genesis 41:32 · Genesis 42:6, 9 · Genesis 43:26, 28 · Genesis 44:14 · Genesis 47:31 · Genesis 50:18 · Revelation 12:1 · Genesis 45:9 |
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |

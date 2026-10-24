@@ -14427,3 +14427,64 @@ book was fetched into raw, and no new Greek or Hebrew wording claim was made.
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. Interpretive uncertainties are
 recorded in the pages; no operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 33.1-23 — Show Me Your Glory
+
+Ingested [[Show Me Your Glory]] in unattended mode, retaining the planned boundary. Exodus advances
+from **42 / 53** to **43 / 53** pericopes. The passage absorbs the discussion: the threatened loss
+of presence despite the retained land oath, jewelry removed in mourning, the outside tent and
+Joshua's attendance, Moses' appeal for the whole people, and the promised revelation of goodness,
+the name, and mercy with a limit on sight. Exactly one pericope was ingested; Exodus 34 remains
+unchecked.
+
+### Decisions and tensions
+
+- Created [[Nun]] for the father named in 33:11. His page states only the relationship supplied
+  here; it invents no action, date, or presence in the camp. Abraham, Isaac, and Jacob are recalled
+  recipients of the oath, not actors in this scene. The six displaced peoples remain grouped on
+  [[The Nations]] and [[Canaan]], rather than becoming six individual people pages.
+- The promised angel is collected on [[The Angel of Yahweh]] without asserting his identity.
+  Canaan is a contextual destination, not a directly named country in the unit. The named Horeb,
+  camp, outside tent, and unspecified rock remain on [[Horeb]]; no modern site is asserted.
+- Created [[The Tent Outside the Camp and the Promised Dwelling]]. In the final narrative sequence
+  the outside tent precedes the prescribed sanctuary's construction. Calling it provisional is an
+  interpretation of that sequence; the text does not settle the historical relationship between
+  the tent descriptions or narrate a completed tabernacle being moved outside the camp.
+- Preserved the tension between face-to-face speech (33:11), forbidden sight of the face (33:20),
+  and the elders' sight of God (24:10–11). Direct speech versus unrestricted sight is offered as
+  an interpretation, not stated as the narrator's explanation. The protected glimpse is promised
+  in 33:21–23; the passing is narrated in 34:5–7, not prematurely recorded as completed here.
+- Qualified the existing presence connection's universal claims about commissioning and a
+  costless, unconditional promise. Exodus 33 retains grace but also threatened withdrawal,
+  disobedience's consequences, and effective mediation. Presence granted in 33:17 is not a
+  blanket pardon of everything left unresolved in 32:34–35.
+- Updated the existing Romans connection for Paul's citation of the mercy speech (Romans 9:15)
+  beside the Pharaoh text (9:17), rather than duplicating it in a new connection. Updated six
+  existing connections, five earlier passages, and the related entity syntheses and passage lists.
+  Retired stale future markers for Exodus 33 on affected pages and for Exodus 29 in the glory table.
+
+### Sources and verification
+
+The eight key-verse quotations were copied mechanically from `raw/bible/Exodus.md` and checked
+for exact equality. The internal comparisons use the stored WEB, including Exodus 25:8–9;
+29:42–46; 34:1–9; 40:1–2, 16–17, 34–35. Reading the later material for comparison does not ingest
+those later pericopes. Romans 9:14–18 was verified at bible-api.com with `translation=web` on
+2026-10-24. The web reader could not open that API URL; a direct HTTPS request to the same source
+succeeded and identified World English Bible. No later book was fetched into raw. No new Greek
+or Hebrew wording claim was made; the added comparisons and distinctions are based on the WEB.
+
+### Pages created or revised
+
+- **Created (3):** one passage, one person, one connection.
+- **Existing content pages revised (44):** Exodus; five earlier passages; seven people; three
+  places; twenty-two themes; six connections.
+- **Bookkeeping revised (12):** top-level and book indexes; all three people subindexes; places
+  and themes indexes; connection subindexes A–C, D–H, I–N, and T–Z; this log.
+- **Totals by frontmatter type:** 134 passages, 176 people, 90 places, 82 themes, 369 connections;
+  3 books started, 2 complete. Every category page has exactly one index row. Alphabetical
+  subindex ordering and ranges pass, and the new titles are unique. No range or schema changed.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. The interpretive uncertainties
+above remain explicit in the relevant pages; no operational blocker remains.

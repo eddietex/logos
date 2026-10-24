@@ -115,7 +115,17 @@ promise (32:11–14). This is mercy in narrative outcome, not a claim that this 
 Hebrew terms discussed above. Mercy does not remove the chapter’s remaining judgment (32:28,
 34–35). See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+God joins the promised revelation of goodness to his freedom to be gracious and show mercy (33:19).
+This broadens the page’s emphasis on bodily compassion in Genesis 43: here mercy is a divine
+commitment stated in an encounter after communal sin, without any description of bodily feeling.
+Romans 9:15–16 cites this speech to Moses in its argument about God’s mercy; see
+[[For This Very Purpose - Exodus 9.16 in Romans 9.17]]. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Freely given mercy is part of God’s self-disclosure.
 
 - [[The Golden Calf]] — Exodus 32:1–35; The people are spared the announced destruction through Moses’ appeal to God’s deliverance and promise (32:11–14).
 

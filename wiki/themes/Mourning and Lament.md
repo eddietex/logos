@@ -94,7 +94,16 @@ that they not grieve *"like the rest, who have no hope"* (1 Thessalonians 4:13) 
 concedes the grief and disputes only its horizon.** Revelation 21:4 ends the rite rather than
 regulating it.
 
+### Presence after the calf — Exodus 33
+
+Israel mourns on hearing that Yahweh will not go among them and ceases to wear jewelry (33:3–4). God
+then commands the removal, and the narrator reports compliance from Horeb onward (33:5–6). This is
+grief over threatened divine absence, not a funeral. The outward act is explicit; a comprehensive
+account of each person’s inward repentance is not. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Jewelry removed in mourning over threatened absence.
 
 - [[Joseph Sold into Slavery]] — Genesis 37:29, 34–35: the first torn garment of the wiki, the first
   sackcloth, and the refusal of comfort.

@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
+
 - **Exodus 9:16** — *"but indeed for this cause I have made you stand: to show you my power, and that
   my name may be declared throughout all the earth"* — [[Livestock, Boils, and Hail]]
 - **Exodus 10:1–2** — *"for I have hardened his heart … that I may show these my signs among them, and
   that you may tell in the hearing of your son"* — *təsappēr*, the verb of 9:16's *"declared"* (WLC) —
   [[Locusts and Darkness]]
 - **Exodus 33:19** — *"I will be gracious to whom I will be gracious, and will show mercy on whom I
-  will show mercy"* *(not yet ingested)*
+  will show mercy"* — [[Show Me Your Glory]]
 - **Romans 9:14–18** — *"For the Scripture says to Pharaoh, 'For this very purpose I caused you to be
   raised up, that I might show in you my power, and that my name might be proclaimed in all the
   earth.' So then, he has mercy on whom he desires, and he hardens whom he desires"* (9:17–18)
@@ -46,7 +48,7 @@ There are two purposes:
 **The second goes beyond the refrain of the earlier plagues.** Before this, the knowledge was
 Pharaoh's or Egypt's: *"In this you shall know that I am Yahweh"* (7:17), *"the Egyptians shall
 know"* (7:5). Here it is the whole earth. The Song of the Sea will report the news reaching the
-nations: Philistia, Edom, Moab, and Canaan (15:14–15, not yet ingested). In Joshua, Rahab will say
+nations: Philistia, Edom, Moab, and Canaan (15:14–15; [[The Song of the Sea]]). In Joshua, Rahab will say
 that Jericho has heard what Yahweh did to Egypt (Joshua 2:10, not yet ingested; paraphrased, not
 quoted).
 
@@ -93,6 +95,23 @@ question against it. The Exodus chapter Paul is quoting also ends with *"he sinn
 hardened his heart"* (9:34), which keeps Pharaoh responsible. **Neither text has God's act cancel
 Pharaoh's.** How the two are reconciled is a long-standing theological question and is not settled
 here. See [[Hardening of the Heart]] for the readings.
+
+### Exodus 33 in its narrative setting
+
+[[Show Me Your Glory]] now supplies the narrative setting of Paul’s other Exodus quotation.
+The speech about freely given grace and mercy (Exodus 33:19) answers Moses’ request for glory
+(33:18), after God grants the plea for presence with the people (33:12–17). It belongs to the
+recovery after the calf, not to a fresh debate with Pharaoh.
+
+Romans 9:15 explicitly introduces words said to Moses: “I will have mercy on whom I have
+mercy, and I will have compassion on whom I have compassion.” Verse 16 draws the conclusion
+about dependence on God’s mercy; verse 17 then brings in Pharaoh. Paul places two different
+Exodus settings beside each other. In Exodus 33 itself, divine freedom and an effective human
+petition are both present; neither should disappear when the verse is read through Romans.
+
+Romans 9:14–18 was checked against bible-api.com’s WEB response on 2026-10-24. This comparison
+is of the verified English texts; it makes no additional claim about Greek wording or the
+Septuagint.
 
 ## Significance
 

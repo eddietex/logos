@@ -124,8 +124,8 @@ At the close of the Book of the Covenant, the mediator promised is not a human a
 angel. He is sent ahead to keep Israel on the way and bring it to the land, and Israel is told to
 *"listen to his voice"*. He also *"will not pardon your disobedience"* (23:20–22). Unlike Moses, who
 pleads for the people (32:11–14, 31–32; [[The Golden Calf]]), this mediator is described only as a
-guide to be obeyed. After the calf, Moses will refuse to go with the angel alone (33:15; *not yet
-ingested*). See [[The Angel Sent Ahead]] and
+guide to be obeyed. After the calf, Moses refuses to go without God’s presence (33:15;
+[[Show Me Your Glory]] ). See [[The Angel Sent Ahead]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
 ### The mediator of the covenant — Exodus 24:1–18
@@ -171,7 +171,17 @@ Moses pleads for a guilty people and secures relief from the threat of total des
 beyond the text; solidarity in their fate is also possible. God’s answer assigns erasure to the
 sinner and does not accept Moses as a substitute (32:33). See [[Blot Out - The Flood, Amalek, and God's Book]]. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Moses’ intimate access is described in 33:7–11 and exercised for the nation in 33:12–17. He insists
+that God regard Israel as his people and that both mediator and people require divine accompaniment.
+God agrees because Moses has found favor and is known by name (33:17). Mediation here secures
+presence after the threatened withdrawal; no sacrifice or substitution is performed. See
+[[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; The favored mediator pleads for shared presence.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses pleads for a guilty people and secures relief from the threat of total destruction (32:11–14).
 

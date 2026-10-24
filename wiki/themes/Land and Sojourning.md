@@ -123,7 +123,16 @@ you, until you have increased and inherit the land"* (23:30). The land is to be 
 becoming desolate even as it changes hands (23:29). See [[The Angel Sent Ahead]] and
 [[From the River of Egypt to the Euphrates]].
 
+### Presence after the calf — Exodus 33
+
+The land flowing with milk and honey is still offered (33:1–3), but Moses will not leave without
+God’s presence (33:15). Arrival is not an adequate substitute for accompaniment. The passage
+qualifies any account in which obtaining territory alone fulfills the purpose of the exodus. See
+[[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Moses refuses the journey without divine accompaniment.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; knowing the alien and letting the land rest.
 

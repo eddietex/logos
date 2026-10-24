@@ -52,7 +52,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 · Exodus 14:21–22 |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
-| [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 |
+| [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 · [[Show Me Your Glory]] (Exodus 33:1–23) |
 | [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]] | thread | Genesis 15:13 · Genesis 41:51–52 · Exodus 2:22 · Exodus 18:3 · Exodus 22:21 · Exodus 23:9 · Leviticus 19:34 · Deuteronomy 10:19 · Acts 7:29 · Exodus 12:48–49 · Exodus 23:12 |
 | [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]] | motif | Genesis 7:4, 12 · Exodus 24:18 · Exodus 34:28 · Deuteronomy 9:9–11 · 1 Kings 19:8 · Matthew 4:2 |
 | [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] | law-and-narrative | Genesis 44:8–10, 16–17 · Exodus 22:3–4 · Exodus 21:16 |
@@ -80,7 +80,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]] | thread | Genesis 40:19, 22 · Numbers 25:4 · Deuteronomy 21:22–23 · Joshua 8:29 · Joshua 10:26–27 · 2 Samuel 21:9–13 · Esther 7:9–10 · John 19:31 · Acts 5:30 · Galatians 3:13 · 1 Peter 2:24 |
 | [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] | quotation | Job 12:17–25 · Psalm 107:40–42 · Job 22:19, 29 · Job 5:11–16 · Deuteronomy 28:28–29 · 1 Samuel 2:6–8 · Isaiah 40:23–24; 44:25 · Daniel 2:21 · Luke 1:51–53 · 1 Corinthians 1:19–20 · Genesis 1:2 |
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
-| [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 |
+| [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 · [[Show Me Your Glory]] (Exodus 33:1–23) |
 | [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
 | [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |

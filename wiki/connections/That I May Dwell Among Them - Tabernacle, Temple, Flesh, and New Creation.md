@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
+
 - **Exodus 24:16** — *"Yahweh's glory settled on Mount Sinai"* — [[The Blood of the Covenant]]
 - **Exodus 25:8–9** — *"Let them make me a sanctuary, that I may dwell among them. According to all
   that I show you, the pattern of the tabernacle …"* — [[The Offering for the Sanctuary]]
@@ -86,6 +88,15 @@ hangings and an east entrance around the tent; the oil rule assigns Israel a sup
 Aaron's family the tending of the light (27:9–21). God's dwelling among the people includes
 this ordered service without the text saying that material supplies sustain God's own
 existence. See [[The Altar and the Court]].
+
+### Exodus 33 in its narrative setting
+
+The dwelling promise encounters an explicit refusal after the calf: Yahweh will not go among
+a stiff-necked people lest he consume them (33:3–5). In [[Show Me Your Glory]], the tent is far
+outside the camp, but encounter has not ended: the cloud descends and Moses speaks with God
+(33:7–11). Moses’ plea secures the promise of accompaniment (33:12–17). The later filled
+tabernacle must be read through this crisis rather than as the automatic completion of a
+building plan. See [[The Tent Outside the Camp and the Promised Dwelling]].
 
 ## Significance
 

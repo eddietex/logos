@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
+
 - **Job 9:8, 11** — *"He alone stretches out the heavens, and treads on the waves of the sea… Behold,
   he goes by me, and I don't see him. He passes on also, but I don't perceive him."* —
   [[There Is No Umpire Between Us]]
@@ -63,6 +65,15 @@ convergence in two adjacent verses of Job is the closest single match.
 of the deep?"* (38:16). Job had described God walking where no man can. The whirlwind asks Job
 whether he has. It is one of a dozen places where the speeches of chapters 38–41 pick up an image
 from Job's own mouth and return it to him.
+
+### Exodus 33 in its narrative setting
+
+[[Show Me Your Glory]] supplies the promised passing in Exodus 33:19–23. God sets the terms
+of revelation and protects Moses while withholding his face. This is a promise of a future
+encounter within the scene; the passing is narrated in 34:6. The comparison with Job’s
+unperceived passing and the Gospel sea narratives is a literary reading, not an explicit
+citation identified by Exodus or a prediction stated to Moses. This addition rests on the
+stored WEB of Exodus and makes no new lexical claim.
 
 ## Significance
 

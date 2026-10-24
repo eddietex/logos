@@ -70,7 +70,8 @@ finding is that in Genesis the provision follows the sentence and never cancels 
   fullest and then argues that the destination is too far. The wiki notes that Genesis reports this
   without irony, and that 19:16 has already given the same event a different name: *"Yahweh being
   merciful to him"*. See [[The Destruction of Sodom and Gomorrah]].
-- **Exodus 33:12–17; 34:6–7** *(not yet ingested)* — the theological centre of the word in the Old
+- **Exodus 33:12–17; 34:6–7** (33 in [[Show Me Your Glory]]; 34 not yet ingested) — the theological
+  centre of the word in the Old
   Testament. Moses asks on the strength of *"you have found favor in my sight"*, and receives the
   self-description Israel quotes for the rest of Scripture: *"Yahweh, Yahweh, a merciful and
   gracious God, slow to anger, and abundant in loving kindness and truth"*.
@@ -93,7 +94,16 @@ man's pledged cloak must be returned: *"when he cries to me … I will hear, for
 (Exodus 22:27; *kî-ḥannûn ʾānî*, MAM 22:26). The same adjective returns at 34:6. See
 [[Laws of Holiness and Compassion]].
 
+### Presence after the calf — Exodus 33
+
+Moses appeals repeatedly to favor already granted and to being known by name (33:12–17). He uses his
+standing to ask that God accompany the whole people, rather than separate his own future from
+theirs. God then declares that grace and mercy are his to give (33:19). This is neither a payment
+for jewelry surrendered nor a denial that Moses’ intercession matters. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Personal favor becomes an appeal for the people.
 
 - [[The Sons of God and the Corruption of the Earth]] — *ḥēn*'s first appearance, placed after the
   sentence and before the character reference

@@ -40,12 +40,12 @@ English, not an unverified Hebrew word search. See [[Israel at Mount Sinai]].
 |---|---|---|
 | **16:7, 10** | the wilderness of Sin | *"you shall see Yahweh's glory"*; *"Yahweh's glory appeared in the cloud"* |
 | **24:16–17** | Sinai | *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days … like devouring fire"* — [[The Blood of the Covenant]] |
-| **29:43** | the tent | *"There I will meet with the children of Israel; and the place shall be sanctified by my glory"* *(not yet ingested)* |
-| **33:18, 22** | the cleft of the rock | *"Please show me your glory"*; *"while my glory passes by"* *(not yet ingested)* |
+| **29:43** | the tent | *"There I will meet with the children of Israel; and the place shall be sanctified by my glory"* — [[The Ordination of the Priests]] |
+| **33:18, 22** | the cleft of the rock | *"Please show me your glory"*; *"while my glory passes by"* — [[Show Me Your Glory]] |
 | **40:34–35** | the tabernacle | *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* *(not yet ingested)* |
 
-(Exodus 29:43 and 33:18, 22 are cited from the WLC lemma search and the WEB of `raw/bible/Exodus.md`; they
-are ahead of the ingested text.)
+(Exodus 29:43 and 33:18, 22 are cited from the WLC lemma search and the WEB of
+`raw/bible/Exodus.md`; both now have ingested passage pages.)
 
 **The glory Pharaoh's heaviness provoked, Israel is shown.** God's *"I will get honor over Pharaoh"* (14:4) is
 the root as action against an enemy; *"you shall see Yahweh's glory"* (16:7) is the root as presence for a
@@ -77,7 +77,16 @@ God promises that *"the place shall be sanctified by my glory"* (29:43). In MAM,
 holy. Leviticus 9:23–24 (verified WEB, not yet ingested) narrates the glory appearing at the end of
 the priests' installation. See [[The Ordination of the Priests]] and [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
 
+### Presence after the calf — Exodus 33
+
+Moses asks to see glory (33:18), and God answers with goodness passing before him, proclamation of
+the name, grace, and mercy (33:19). Glory here cannot be reduced to brightness: its disclosure
+includes who God is and how he acts. The face is withheld and a protected glimpse of the back is
+promised (33:20–23); the passing itself is not yet narrated. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Glory requested; goodness and bounded sight promised.
 
 - [[Manna and Quail]] — Exodus 16:7, 10; **the first *kəbôd YHWH* in Scripture.** *"In the morning, then you
   shall see Yahweh's glory; because he hears your murmurings"*; *"behold, Yahweh's glory appeared in the
@@ -95,7 +104,7 @@ the priests' installation. See [[The Ordination of the Priests]] and [[Ordinatio
 ## Related themes
 
 - [[Hardening of the Heart]] — the same root as Pharaoh's *heavy* heart
-- [[Holiness]] — *"the place shall be sanctified by my glory"* (29:43, ahead)
+- [[Holiness]] — *"the place shall be sanctified by my glory"* (29:43)
 - [[Seeing and Being Seen]] — the glory is something seen
 - [[Murmuring]] — the glory's first two appearances in Exodus and Numbers come at murmurings
 - [[Wealth and Possessions]] — *kābôd* as Jacob's *"wealth"* (Genesis 31:1)

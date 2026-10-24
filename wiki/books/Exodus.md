@@ -387,6 +387,13 @@ three thousand die at the Levites’ hands (32:15–29). A second plea seeks ato
 onward travel with an angel, retains accountability for sin, and strikes the people (32:30–35).
 The chapter leaves pardon and the terms of continued presence unsettled.
 
+**Presence after the calf — Exodus 33.** In [[Show Me Your Glory]], the land oath survives but
+Yahweh initially refuses to go among the people lest he consume them (33:1–6). Moses meets him
+at an outside tent and appeals from personal favor to the need of the whole nation (33:7–17).
+God grants presence and promises goodness, the proclamation of his name, and a sheltered glimpse
+of his back (33:18–23). Direct, friendly speech does not cancel the stated limit on sight.
+The chapter ends before the narrated passing and covenant renewal of chapter 34.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -466,7 +473,7 @@ for unit.
 ### The calf and the covenant renewed (32–34)
 
 - [x] [[The Golden Calf]] — Exodus 32:1–35
-- [ ] Show Me Your Glory — Exodus 33:1–23
+- [x] [[Show Me Your Glory]] — Exodus 33:1–23
 - [ ] The Covenant Renewed — Exodus 34:1–28
 - [ ] The Shining Face of Moses — Exodus 34:29–35
 
@@ -482,6 +489,8 @@ for unit.
 - [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38
 
 ## Key themes
+
+- [[The Dwelling of God]]
 
 - [[Divine Grief and Relenting]]
 - [[Brotherhood]]
@@ -555,6 +564,8 @@ for unit.
 - [[Love]]
 
 ## Key people
+
+- [[Nun]] — named as Joshua’s father at 33:11; no independent action described.
 
 - [[Bezalel]] and [[Oholiab]] — the appointed makers, from Judah and Dan (31:2–6).
 - [[Uri]], [[Hur (grandfather of Bezalel)]], and [[Ahisamach]] — their named ancestry.

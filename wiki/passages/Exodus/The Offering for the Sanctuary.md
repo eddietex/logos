@@ -89,6 +89,8 @@ in the middle of the camp.**
 
 ## Cross-references
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
+
 - [[The Golden Calf]] — Gold requested for the sanctuary in Exodus 25:3 is also collected for the calf in 32:2–4. The contrast concerns its use; the text does not identify each object’s earlier owner.
 
 - Exodus 24:16–18 — the glory *"settled"* (*šākan*) on Sinai, and Moses in the cloud:
@@ -275,3 +277,9 @@ consonant search of Genesis and Exodus 1–25 for *tərûmâ*, *tabnît*, *mišk
 **Greek** checked: the Septuagint in Rahlfs 1935 (`eliranwong/LXX-Rahlfs-1935` digitization) for
 Exodus 25:2, 7–9. The meanings of *təkēlet*, *ʾargāmān*, *təḥāšîm*, the root of *tərûmâ*, and the name
 Nadab are given as the usual lexical reports, not checked against a named lexicon.
+
+### The continuing presence crisis — Exodus 33
+
+The promise of a dwelling among the people meets threatened withdrawal and an outside tent
+in [[Show Me Your Glory]] (33:3–17). The narrative has not yet reached the prescribed
+sanctuary’s construction. See [[The Tent Outside the Camp and the Promised Dwelling]].

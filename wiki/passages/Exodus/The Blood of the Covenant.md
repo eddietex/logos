@@ -141,6 +141,8 @@ says to him there fills the next seven chapters.
 
 ## Cross-references
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
+
 - [[The Golden Calf]] — The pledged obedience of Exodus 24:3–8 is contradicted by the calf; the tablets are broken in 32:19.
 
 - Exodus 19:8 — the first *"All that Yahweh has spoken we will do"*: [[Israel at Mount Sinai]].
@@ -285,3 +287,11 @@ checked: the Septuagint in Rahlfs 1935 (`eliranwong/LXX-Rahlfs-1935` digitizatio
 8, 10, 11, 17, and the SBLGNT (MorphGNT) for Matthew 26:28, Mark 14:24, and Hebrews 9:19–20. The
 Hebrew of Isaiah 25:6 was not checked, and the three readings of the blood rite are reported as
 common interpretations, not checked against a named commentary.
+
+### The continuing presence crisis — Exodus 33
+
+[[Show Me Your Glory]] now records both face-to-face speech (33:11) and the prohibition on
+seeing God’s face and living (33:20). The elders’ sight in 24:10–11 remains explicitly in
+tension with that prohibition; distinguishing a manifestation from unrestricted sight is an
+interpretation, not an explanation stated in this chapter. See
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]].

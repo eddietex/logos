@@ -105,7 +105,15 @@ The oath sworn by God’s own self is Moses’ ground of appeal (32:13). The pro
 land is invoked against the threatened annihilation, not as a reward for the present generation’s
 conduct. See [[I Have Sworn by Myself - The Oath at Moriah]]. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+God himself recalls his oath to Abraham, Isaac, and Jacob at the command to depart (33:1). The
+pledge continues to govern the destination after Moses’ appeal to it in 32:13. No new human vow is
+sworn here, and no oath is said to be bought by the removal of jewelry. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; God recalls the land oath after the calf.
 
 - [[The Golden Calf]] — Exodus 32:1–35; The oath sworn by God’s own self is Moses’ ground of appeal (32:13).
 

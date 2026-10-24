@@ -96,7 +96,16 @@ specific to these peoples and this land. The wiki does not read them as a genera
 other nations, which Genesis's Table of Nations and blessing for *"all the families of the earth"*
 (12:3) would not support. See [[The Angel Sent Ahead]].
 
+### Presence after the calf — Exodus 33
+
+The Canaanite, Amorite, Hittite, Perizzite, Hivite, and Jebusite are again named for removal (33:2;
+compare 23:23). They are peoples, not six individual actors. Moses then asks how Israel will be
+distinguished from all other peoples and answers with divine accompaniment (33:16), not merely the
+possession of their land. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Six peoples displaced; Israel distinguished by accompaniment.
 
 - [[The Table of Nations]] — the seventy, and the only place Scripture attempts a complete inventory
   of peoples

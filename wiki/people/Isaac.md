@@ -479,7 +479,15 @@ Isaac is named with Abraham and Israel in Moses’ appeal to the oath and the pr
 land (32:13). He acts only as a remembered ancestor; the plea does not credit the current
 generation with his obedience. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Isaac is named between Abraham and Jacob among the recipients of the land oath God recalls after the
+calf (33:1). This is a retrospective reference, not a new episode in Isaac’s life. The promised
+destination persists through the crisis over God’s accompaniment. See [[Show Me Your Glory]].
+
 ## Timeline / key events
+
+- Exodus 33 — recalled as a recipient of the land oath (33:1). [[Show Me Your Glory]]
 
 - Named by God, and the covenant established with him, a year before his conception — Genesis
   17:19, 21, [[Circumcision, the Sign of the Covenant]]
@@ -554,6 +562,8 @@ generation with his obedience. See [[The Golden Calf]].
 - Exodus 32 — Remembered as a servant and recipient of the patriarchal promise (32:13). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; recalled as a recipient of the land oath (33:1).
 
 - [[The Golden Calf]] — Remembered as a servant and recipient of the patriarchal promise (32:13).
 

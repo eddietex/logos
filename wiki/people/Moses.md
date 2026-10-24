@@ -357,7 +357,7 @@ narrates his telling, writing, and reading. See [[The Altar and the Hebrew Slave
 
 ### What is ahead
 
-The renewed covenant and the tabernacle built (33–40); and the rest of the Torah. These
+The renewed covenant and the tabernacle built (34–40); and the rest of the Torah. These
 sections are written as their pericopes arrive.
 
 
@@ -394,7 +394,9 @@ assistance to enemies, protection of aliens, rest, and three annual feasts. See
 
 Moses is not named in the closing promise of the Book of the Covenant; he is its hearer by context
 (20:22; 21:1). The promise of an angel *"before you"* will come back to him after the calf, at 32:34
-and 33:2, and he will refuse the angel without God's own presence (33:15; 34:9; *not yet ingested*).
+and 33:2, and he refuses departure without God’s own presence (33:15; [[Show Me Your Glory]] ); the
+further plea
+at 34:9 remains ahead.
 See [[The Angel Sent Ahead]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
 
@@ -489,7 +491,17 @@ the camp judgment. His next-day attempt at atonement is explicitly uncertain (32
 conditional request to be erased if forgiveness is refused is not accepted as a substitution; God
 assigns erasure to the sinner (32:32–33). See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Moses meets Yahweh at the tent outside the camp and returns to the people (33:7–11). He turns his
+personal favor into a plea for the nation, refusing to travel without divine presence (33:12–17).
+His further request to see glory is answered with a promise of goodness and mercy, but a limit on
+sight (33:18–23). His access does not make him exempt from the danger described in 33:20. See
+[[Show Me Your Glory]].
+
 ## Timeline / key events
+
+- Exodus 33 — the mediator who asks for the people before asking to see glory. [[Show Me Your Glory]]
 
 - Receives the commands for justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
 
@@ -602,6 +614,9 @@ assigns erasure to the sinner (32:32–33). See [[The Golden Calf]].
 - Exodus 32 — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; the mediator who asks for the people before asking to see
+  glory.
 
 - [[The Golden Calf]] — Intercedes twice, breaks the tablets, destroys the calf, and leads the judgment (32:7–34).
 

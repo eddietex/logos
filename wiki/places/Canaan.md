@@ -100,7 +100,17 @@ The land promised to the patriarchs is part of Moses’ appeal to preserve Israe
 orders him to lead the people to the previously spoken-of place (32:34). Canaan is the contextual
 destination; the chapter does not name it or narrate arrival. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+The land sworn to the three fathers is still offered as a land flowing with milk and honey, with six
+peoples to be driven out (33:1–3). Canaan is the contextual destination, although the country’s name
+is not used. Moses’ refusal to travel without God makes clear that possession alone is insufficient
+(33:15–16). See [[Show Me Your Glory]].
+
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; the destination inferred from the land promise and named
+  peoples (33:1–3); the country is not named directly.
 
 - [[The Golden Calf]] — The unnamed promised land recalled in intercession and renewed guidance (32:13, 34).
 

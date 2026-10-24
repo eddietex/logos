@@ -7,12 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
+
 - **Genesis 32:30** — *"I have seen God face to face, and my life is preserved"* —
   [[Wrestling at the Jabbok]]
 - **Exodus 24:10–11** — *"They saw the God of Israel … He didn't lay his hand on the nobles of the
   children of Israel. They saw God, and ate and drank"* — [[The Blood of the Covenant]]
-- **Exodus 33:20** — *"You cannot see my face, for man may not see me and live"* (*not yet
-  ingested*)
+- **Exodus 33:20** — *"You cannot see my face, for man may not see me and live"* — [[Show Me Your Glory]]
 - **Deuteronomy 5:4** — *"Yahweh spoke with you face to face on the mountain out of the middle of the
   fire"* (WEB; *not yet ingested*)
 - **Judges 13:22** — *"We shall surely die, because we have seen God"* (WEB; *not yet ingested*)
@@ -46,6 +47,20 @@ statements belong to different sources and were not meant to be harmonized; or, 
 reading, what was seen was the Son, who alone *"has declared him"* (John 1:18). These are reported as
 standing options, not checked against a named commentary. The wiki records the tension and does not
 resolve it.
+
+### Exodus 33 in its narrative setting
+
+[[Show Me Your Glory]] brings the tension inside a single chapter. The narrator says Yahweh
+spoke to Moses face to face as a man speaks to his friend (33:11); God then says that Moses
+cannot see his face and live (33:20). The comparison with friendship supports reading the
+first as direct speech rather than unrestricted sight, but this is an interpretation of the
+comparison. It does not cancel the explicit report of seeing in Exodus 24:10–11. Both texts
+remain recorded.
+
+Verses 21–23 promise a position on the rock, covering by God’s hand, and sight of the back
+after the passing. They do not yet narrate that Moses saw it. The distinction matters:
+chapter 33 sets the terms, while 34:5–7 narrates the passing and proclamation. Neither chapter
+provides an anatomical explanation of the language of face, hand, and back.
 
 ## Significance
 

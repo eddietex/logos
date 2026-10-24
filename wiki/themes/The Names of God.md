@@ -120,7 +120,16 @@ bible-api.com, 2026-10-24).
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### Presence after the calf — Exodus 33
+
+God promises to proclaim Yahweh’s name as his goodness passes before Moses (33:19). The name is
+already known; this promise connects its proclamation with grace and mercy. Moses is also known by
+name (33:12, 17), but the two acts of naming are not interchangeable: personal recognition grounds
+his appeal, while God controls his own disclosure. See [[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; The known name will be proclaimed with goodness and mercy.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; yahweh who sanctifies you.
 

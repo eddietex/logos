@@ -90,6 +90,8 @@ scene.
 
 ## Cross-references
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
+
 - [[The Ten Commandments]] and [[The Altar and the Hebrew Slave]] — the worship and gold image violate Exodus 20:3–5, 23.
 - [[The Blood of the Covenant]] — Israel had pledged obedience; the tablets now break below the mountain (24:3–8; 32:19).
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — tablets delivered at 31:18 are carried down and broken in 32:15–19.
@@ -149,3 +151,10 @@ Acts 7:39–43; 1 Kings 12:28–30; 1 Corinthians 10:6–8; Romans 9:1–3; Numb
 These books remain un-ingested. No Greek or Hebrew wording claim is added. The chapter does not
 specify the extent or death toll of the final plague, and the approximately three thousand slain
 in 32:28 must not be turned into its count.
+
+### The continuing presence crisis — Exodus 33
+
+The next scene is [[Show Me Your Glory]] (33:1–23). The angel and the land oath persist, but
+Yahweh initially refuses to go among Israel. Moses’ plea then obtains the promise of presence.
+This develops the unsettled aftermath recorded here without making 32:14 an unconditional
+pardon of every offense.

@@ -30,14 +30,15 @@ commonly derived from *Yahweh* and *yāšaʿ*, *to save*** — the verb of *"Thu
 with Moses (24:13; [[The Blood of the Covenant]]) — not among the seventy-four who saw God, but further up than
 they; how far, the text does not say, and the next time he appears he is coming down with Moses. He hears *"the noise of war in the camp"* as they come down to the calf (32:17); and he is *"his
 servant Joshua, the son of Nun, a young man"*, who *"didn't depart from the Tent"* (33:11) — **the first time
-Exodus names his father**. Chapter 32 is ingested in [[The Golden Calf]]; chapter 33 remains ahead. **Numbers and Deuteronomy make him the successor** —
+Exodus names his father**. Chapter 32 is ingested in [[The Golden Calf]]; chapter 33 is ingested in
+[[Show Me Your Glory]]. **Numbers and Deuteronomy make him the successor** —
 *"a man in whom is the Spirit"*, on whom Moses lays his hand (Numbers 27:18), *"full of the spirit of
 wisdom; for Moses had laid his hands on him"* (Deuteronomy 34:9) (WEB; *not yet ingested*) — and the book
 [[Joshua]] is named for him.
 
 ### What is ahead
 
-The tent (Exodus 33); the spies and the renaming (Numbers 13–14); the succession
+The spies and the renaming (Numbers 13–14); the succession
 (Numbers 27; Deuteronomy 31, 34); and the book of Joshua. These sections are written as their pericopes arrive.
 
 ### The golden calf — Exodus 32
@@ -47,19 +48,30 @@ sound from victory or defeat and identifies singing (32:17–18). The text gives
 making the calf or carrying out the camp judgment. His earlier military role does not turn the
 noise into an actual battle. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Joshua is named as Moses’ servant, the son of Nun, and a young man. When Moses returns to the camp,
+Joshua does not depart from the tent (33:11). This is attendance at the outside tent, not a narrated
+appointment as an Aaronic priest; no reason for his remaining is stated. See [[Show Me Your Glory]]
+.
+
 ## Timeline / key events
+
+- Exodus 33 — the young servant who remains at the tent (33:11). [[Show Me Your Glory]]
 
 - Sent by Moses to choose men and fight Amalek at Rephidim; obeys, fights, and defeats Amalek *"with the edge of
   the sword"*; the memorial to be put *"in the ears of Joshua"* — Exodus 17:8–16, [[The Battle with Amalek]]
 - Rises with Moses as *"his servant"* and goes up God's Mountain with him — Exodus 24:13,
   [[The Blood of the Covenant]]
-- *(ahead)* Does not depart from the tent (33:11)
+- Remains at the outside tent when Moses returns to the camp (33:11) — [[Show Me Your Glory]]
 - *(ahead)* Hoshea renamed Joshua; one of the twelve spies (Numbers 13:8, 16)
 - *(ahead)* Commissioned as Moses' successor (Numbers 27:18–23; Deuteronomy 31; 34:9)
 
 - Exodus 32 — Hears the camp’s celebration as the noise of war (32:17–18). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; the young servant who remains at the tent (33:11).
 
 - [[The Golden Calf]] — Hears the camp’s celebration as the noise of war (32:17–18).
 
@@ -70,6 +82,8 @@ noise into an actual battle. See [[The Golden Calf]].
   his servant"*
 
 ## Related people
+
+- [[Nun]] — his father, named in Exodus 33:11.
 
 - [[Moses]] — the master he serves, who sends him to fight and later renames him (Numbers 13:16)
 - [[Aaron]] and [[Hur (companion of Moses)]] — on the hill while he fights below

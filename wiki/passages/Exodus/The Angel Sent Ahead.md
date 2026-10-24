@@ -119,6 +119,8 @@ still at Sinai. Nothing in these verses reports that any of it has happened yet.
 
 ## Cross-references
 
+- [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
+
 - Genesis 24:7, 40 — Abraham's *"He will send his angel before you"*: [[A Wife for Isaac]].
 - Exodus 14:19 — *"the angel of God, who went before the camp of Israel"*:
   [[The Crossing of the Sea]].
@@ -166,7 +168,7 @@ plainly distinct — is the support for the first. The text holds both and expla
 
 **Why it matters later in Exodus.** The *qereb* language becomes the crisis after the golden calf. At
 33:2–3 God again promises to *"send an angel before you"*, but adds *"I will not go up among you"* —
-*lōʾ ʾeʿĕleh bəqirbəkā*, literally *in your midst* (MAM; WEB 33:3, *not yet ingested*). At 34:9 Moses
+*lōʾ ʾeʿĕleh bəqirbəkā*, literally *in your midst* (MAM; WEB 33:3, [[Show Me Your Glory]]). At 34:9 Moses
 asks *"please let the Lord go among us"* — *bəqirbēnû* (MAM). So the question chapter 23 leaves
 open, whether God himself goes when his angel goes, becomes the question Moses argues about after
 the calf. See [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
@@ -252,3 +254,10 @@ the *Miqra according to the Masorah* (MAM) edition through the Sefaria API on 20
 checked: the Septuagint in Rahlfs 1935 (`eliranwong/LXX-Rahlfs-1935` digitization) for Exodus 23:20
 and Malachi 3:1, and the SBLGNT (MorphGNT) for Mark 1:2. The *môqēš* and *hāmam* parallels in
 Exodus 10:7 and 14:24 rely on the Hebrew checks already recorded on those passage pages.
+
+### The continuing presence crisis — Exodus 33
+
+The later offer of an angel in [[Show Me Your Glory]] (33:2–3) accompanies a refusal by Yahweh
+to go among Israel. Moses insists on presence and receives assent (33:15–17). The identity of
+the messengers in the two passages remains unasserted. See
+[[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].

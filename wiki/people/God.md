@@ -1901,7 +1901,17 @@ denials of divine repentance in Numbers 23:19 and 1 Samuel 15:29 (WEB verified a
 all judgment: God assigns erasure to the sinner, reaffirms angelic guidance with punishment still
 pending, and strikes the people (32:33–35). See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Yahweh retains the fathers’ land promise while threatening to withhold his presence lest he consume
+Israel (33:1–5). He speaks to Moses as to a friend (33:11), agrees to go with the people after
+Moses’ appeal (33:14–17), and promises goodness, his name, and mercy with a protected glimpse
+(33:19–23). Face-to-face speech and the prohibition on seeing his face are both retained, as is the
+contrast with the elders seeing God in 24:10–11. See [[Show Me Your Glory]].
+
 ## Timeline / key events
+
+- Exodus 33 — withdrawal threatened, presence promised, and revelation bounded. [[Show Me Your Glory]]
 
 - Commands justice, shared rest, and three annual feasts — [[Justice, Sabbaths, and Feasts]], Exodus 23:1–19.
 
@@ -2147,6 +2157,9 @@ pending, and strikes the people (32:33–35). See [[The Golden Calf]].
 - Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; withdrawal threatened, presence promised, and revelation
+  bounded.
 
 - [[The Golden Calf]] — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35).
 

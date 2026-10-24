@@ -98,7 +98,16 @@ twelve breastplate stones — and a third engraving puts *"HOLY TO YAHWEH"* on t
 forehead (Exodus 28:9–11, 21, 36). The tribes' names are carried; the divine name is worn.
 The chapter does not list the tribal names or their arrangement. See [[The Priestly Garments]].
 
+### Presence after the calf — Exodus 33
+
+Joshua is identified as the son of Nun (33:11), and God’s knowing Moses by name is recalled and
+affirmed (33:12, 17). A patronymic identifies the servant’s family, while personal recognition
+supports the mediator’s plea; the chapter does not give Nun an independent role. See
+[[Show Me Your Glory]].
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Joshua’s patronymic and Moses known by name.
 
 - [[The Birth of Jacob's Children]] — Genesis 29:31–30:24; **the densest naming passage in the Bible.**
   Twelve births, twelve names, eleven glosses, all spoken by women, and the tribal map of Israel laid

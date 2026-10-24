@@ -165,7 +165,16 @@ for gold (25:3), so the narrative contrasts uses of available wealth. Exodus 32 
 these particular earrings to Egyptian donors; that connection is an inference from the larger
 exodus story. See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]. See [[The Golden Calf]].
 
+### Presence after the calf — Exodus 33
+
+Jewelry given for the calf in 32:2–4 is followed by jewelry removed in mourning in 33:4–6. Exodus 33
+does not say the remaining ornaments are destroyed or deposited as an offering. Their removal is
+obedience to a command in the crisis of presence, not payment for grace. See [[Show Me Your Glory]]
+.
+
 ## Key passages
+
+- [[Show Me Your Glory]] — Exodus 33:1–23; Adornment laid aside after the calf.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Gold earrings are surrendered and made into the calf (32:2–4).
 
