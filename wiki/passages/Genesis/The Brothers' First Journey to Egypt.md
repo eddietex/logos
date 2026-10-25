@@ -601,6 +601,8 @@ and the next pericope opens with the grain running out.
   done to us?"* is **the brothers' first mention of God in the cycle**, and 50:20 is the answer to it
 - [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] — **Simeon is bound here and cursed
   at 49:5–7**, and one common reading connects the choice of hostage to Genesis 34
+- [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] — Genesis 42:21–22 beside Proverbs 1:18;
+  *"his blood is required"* as the ambushers' own blood returning, by conscience rather than by trap.
 
 ## Notes
 

@@ -140,6 +140,14 @@ engraving tool; 32:24 has him say that it came out of the fire. He also shifts a
 people’s evil (32:22). The narrator reaffirms Aaron’s making in 32:35; his account is an evasion,
 not the source for how the object was produced. See [[The Golden Calf]].
 
+### Enticement — Proverbs 1:10–14
+
+*"If sinners entice you"* — *yəpattûkā*, from *p-t-h*, the root that on the standard lexical account
+also gives *pətāʾyim*, *the simple* (1:4): the simple are the enticeable. The gang's speech is not a
+lie in any of its particulars — it promises wealth and plunder and a shared purse, and it names its
+victim *"innocent"* (1:11). **It deceives by leaving out the last line**, which the father supplies:
+*"these lay wait for their own blood"* (1:18). See [[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[The Golden Calf]] — Exodus 32:1–35; Aaron’s excuse contradicts the narrated act.
@@ -317,6 +325,8 @@ not the source for how the object was produced. See [[The Golden Calf]].
 
 - [[The Ten Commandments]] — Exodus 20:16; false testimony is named as a wrong against a neighbor
 - [[The Altar and the Hebrew Slave]] — Exodus 21:8; the master *"has dealt deceitfully with her"*
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:10–14; enticement (*p-t-h*) by an offer that leaves out its last line
 
 ## Related themes
 

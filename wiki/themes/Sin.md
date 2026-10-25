@@ -179,6 +179,18 @@ after the calf is apparent; the clothing account does not itself explain his gui
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### Sinners who recruit — Proverbs 1:8–19
+
+Proverbs' first use of *ḥaṭṭāʾîm*, *sinners*, defines them by what they invite others into: *"if
+sinners entice you, don't consent"* (1:10). Their sin is social before it is anything else — a gang
+offering a young man a place, a share, and *"one purse"* (1:14) — and its content is ambush and
+bloodshed *"without cause"* (1:11). Psalm 1:1's *derek ḥaṭṭāʾîm*, *"path of sinners"*, uses the same
+two words as the father's *"don't walk on the path with them"* (1:15). Isaiah 59:7 and Romans 3:15
+later carry the line *"their feet run to evil"* (1:16) from a gang to a nation to everyone — see
+[[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]]. Hebrew checked against
+Sefaria's *Miqra according to the Masorah*; Psalm, Isaiah, and Romans in WEB checked against
+bible-api.com. See [[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The mediator acknowledges continuing sin beneath covenant
@@ -353,6 +365,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Priestly Garments]] — Exodus 28:1–43; iniquity of the holy things borne by Aaron; the priests' own risk.
 - [[The Ordination of the Priests]] — Exodus 29:10–14, 33, 36–37; the priests' own sin offering, and atonement for the altar.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Manufacture does not enact the earlier provision for bearing iniquity.
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:8–19; *ḥaṭṭāʾîm* who entice, and the *"path of sinners"* of Psalm 1:1
 
 ## Related themes
 

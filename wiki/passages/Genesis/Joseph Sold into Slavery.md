@@ -691,6 +691,9 @@ The descent that will become the Exodus starts as a freight consignment. See
 
 - [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] — Exodus 21:16 and Deuteronomy 24:7 condemn
   kidnapping and sale; the comparison does not impose a narrated Sinai trial on Genesis.
+- [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] — Proverbs 1:10–19; a gang's
+  ambush in the vocabulary of 37:20–26 — *come*, the pit, shedding blood, *beṣaʿ* — set beside the
+  brothers' plot.
 
 ## Notes
 

@@ -38,6 +38,11 @@ not keep silent.
 - **Proverbs 1:1–7** — [[The Purpose of the Proverbs]]: the book's first antithesis, in its motto.
   What verse 2 offers — *ḥokmâ ûmûsār*, wisdom and instruction — is what verse 7's fools despise. The
   contrast between wise and foolish is set up as a choice before a single saying has been read.
+- **Proverbs 1:8–19** — [[Do Not Consent to Sinners]]: the first lecture is addressed to the simple at their weakest
+  point. *"If sinners entice you"* — *yəpattûkā*, from *p-t-h*, the root that (on the standard lexical
+  account) also gives *pətāʾyim*, *the simple*: the simple are the enticeable, and the first danger the
+  book names is not stupidity but suggestibility (Hebrew checked against Sefaria's *Miqra according to
+  the Masorah*).
 - **Proverbs 1:22; 9:13** *(not yet ingested)* — Wisdom crying out to the simple, the mockers, and
   the fools, and Folly personified as a woman, *"loud, undisciplined, and knows nothing"* (9:13), whose
   feast competes with Wisdom's.
@@ -72,6 +77,7 @@ bible-api.com (2026-10-25); the Hebrew words for *Proverbs 1:7, 1:22, Job 2:10, 
   turned on Job
 - [[The Second Test]] — Job 2:10; *"as one of the foolish women would speak"*
 - [[The Restoration of Job]] — Job 42:8; the friends' speech judged *nəbālâ*
+- [[Do Not Consent to Sinners]] — Proverbs 1:10; the simple as the enticeable, warned before they are recruited
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

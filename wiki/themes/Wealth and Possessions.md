@@ -227,6 +227,18 @@ of the garments is given, so the gold total in 38:24 cannot be divided among the
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### Greedy for gain — Proverbs 1:13–19
+
+The gang's offer is wealth first and belonging second: *"We'll find all valuable wealth. We'll fill our
+houses with plunder. You shall cast your lot among us. We'll all have one purse"* (1:13–14). The
+father's summary names the motive and its end: *"So are the ways of everyone who is greedy for gain. It
+takes away the life of its owners"* (1:19). *Greedy for gain* is *bōṣēaʿ bāṣaʿ*, from *beṣaʿ* — Judah's
+*"What profit is it?"* at Dothan (Genesis 37:26) — and *its owners* is *bəʿālāyw*, from *baʿal*, the word
+that made the bird an *"owner of a wing"* in 1:17: **the greedy man's gain owns him.** Compare 15:27,
+*"He who is greedy for gain troubles his own house"*, and 1 Timothy 6:9–10 (WEB, checked against
+bible-api.com). Hebrew checked against Sefaria's *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]] and
+[[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]].
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Metals counted and allocated; mirrors traced; surplus and basin weight unstated.
@@ -420,6 +432,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Altar and the Court]] — Exodus 27:1–21; Brass, silver, linen, and acacia become furnishings; oil remains an ongoing contribution.
 - [[The Priestly Garments]] — Exodus 28:1–43; gold, dyed yarn, linen, and precious stones become vestments.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Contributed gold, stones, yarn, and linen become priestly garments.
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:13–19; plunder, one purse, and greed for gain that *"takes away the life of its owners"*
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

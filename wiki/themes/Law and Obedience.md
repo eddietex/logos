@@ -279,6 +279,16 @@ the glory’s arrival is narrated as the next event, not as something human work
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The mother's *tôrâ* — Proverbs 1:8
+
+*"My son, listen to your father's instruction, and don't forsake your mother's teaching."* The mother's
+word is *tôrâ*, the father's *mûsār*. In Proverbs *tôrâ* is a parent's teaching, not the Sinai code,
+and the line is not a claim about who taught the Law; but it shows the word at home in the household
+before it is anything else, and it puts the fifth commandment (*"Honor your father and your mother"*,
+Exodus 20:12) in the form of a curriculum. The line recurs at 6:20. Hebrew checked against Sefaria's
+*Miqra according to the Masorah*. See [[Do Not Consent to Sinners]] and
+[[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
@@ -340,6 +350,8 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 - [[The Work Completed]] — Exodus 39:32–43; Three framing notices affirm conformity to Yahweh’s command.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; A general obedience statement and seven repeated WEB notices frame completed erection.
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:8; the mother's *tôrâ* and the father's *mûsār*
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

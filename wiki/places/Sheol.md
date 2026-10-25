@@ -183,6 +183,12 @@ to go.
   himself into since chapter 3 is one more region of the creation he has not seen, set beside the springs
   of the sea and the recesses of the deep (38:16).
 
+- [[Do Not Consent to Sinners]] — Proverbs 1:12; **a gang that casts itself as Sheol.** *"Let's swallow them up
+  alive like Sheol, and whole, like those who go down into the pit"* — *kišʾôl ḥayyîm … kəyôrədê bôr*.
+  Sheol's insatiability (27:20; 30:16) taken as a model by men, and the swallowing *alive* that
+  Numbers 16:30–33 narrates of Korah's company; the lecture ends with the would-be swallowers lying in
+  wait *"for their own lives"* (1:18).
+
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,

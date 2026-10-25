@@ -15,7 +15,10 @@ Proverbs is the Old Testament's handbook of wisdom, and it says what it is for b
 anything else. Its first seven verses are a statement of purpose — *"to know wisdom and
 instruction"* (1:2) — addressed in the same breath to the simple, the young, and the already
 wise, and closed by the sentence the whole tradition treats as its motto: *"The fear of Yahweh is
-the beginning of knowledge"* (1:7). See [[The Purpose of the Proverbs]].
+the beginning of knowledge"* (1:7). See [[The Purpose of the Proverbs]]. The first lecture follows at once, and its first
+lesson is not about sex or money but about company: a father warning his son against a gang's
+invitation to ambush the innocent, and showing him the ambush turned round on its makers (1:8–19). See
+[[Do Not Consent to Sinners]].
 
 It is an anthology, and its headings say so. The book names Solomon three times (1:1; 10:1;
 25:1), but it also contains *"the words of the wise"* (22:17), further *"sayings of the wise"*
@@ -66,7 +69,7 @@ first collection at its heading), each titled from a representative saying.
 ### Prologue and lectures (1–9)
 
 - [x] [[The Purpose of the Proverbs]] — Proverbs 1:1–7
-- [ ] Do Not Consent to Sinners — Proverbs 1:8–19
+- [x] [[Do Not Consent to Sinners]] — Proverbs 1:8–19
 - [ ] Wisdom Calls in the Street — Proverbs 1:20–33
 - [ ] If You Seek Her as Silver — Proverbs 2:1–22
 - [ ] Trust in Yahweh with All Your Heart — Proverbs 3:1–12
@@ -136,4 +139,4 @@ first collection at its heading), each titled from a representative saying.
 - [[God]] — *Yahweh*, named in the motto (1:7) and throughout
 
 ## Key places
--
+- [[Sheol]] — the insatiable realm of the dead, which the gang of 1:12 proposes to imitate

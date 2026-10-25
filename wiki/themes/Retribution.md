@@ -120,6 +120,24 @@ the fatherless will be killed *"with the sword; and your wives shall be widows, 
 fatherless"*. **The punishment makes the oppressor's household into the people he oppressed.** See
 [[Laws of Holiness and Compassion]] and [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
 
+### The ambush turned round — Proverbs 1:17–19
+
+The first lecture of Proverbs states retribution in its self-acting form. The gang says *"Let's lay in
+wait for blood. Let's lurk secretly"* (*neʾerbâ … niṣpənâ*, 1:11); the father answers *"these lay wait
+for their own blood. They lurk secretly for their own lives"* (*yeʾĕrōbû … yiṣpənû*, 1:18) — their own
+verbs, with the possessive changed. No judge appears and God is not named in 1:8–19; the consequence is
+the shape of the act, as in Psalm 7:15–16 and Proverbs 26:27 (*"Whoever digs a pit shall fall into
+it"*).
+
+**Contradiction recorded, not resolved.** Proverbs 1:18–19 says those who ambush the innocent for gain
+ambush themselves. Job says the opposite of what he has seen: *"The tents of robbers prosper"* (Job
+12:6, [[Though He Slay Me]]), and *"The murderer rises with the light. He kills the poor and needy"*
+(24:14, [[Oh That I Knew Where I Might Find Him]]) with no reckoning narrated. The wiki reads the
+difference as one of direction — the father speaks forward, to a son deciding whether to take a road
+(*"So are the ways"*, 1:19), and Job speaks of men already on it — but both claims stand in the text,
+and Genesis 42:21–22 shows the reckoning arriving as conscience rather than as a trap; see
+[[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] and [[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the preface of the book where the doctrine's classic
@@ -356,6 +374,8 @@ fatherless"*. **The punishment makes the oppressor's household into the people h
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:1–9; multiplied repayment for theft and false claims
 - [[Laws of Holiness and Compassion]] — Exodus 22:24; widows and orphans for those who wronged them
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:17–19; the ambush turned round by repeating its own verbs; the contradiction with Job 12:6 and 24:14 recorded
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

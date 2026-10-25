@@ -126,6 +126,15 @@ substitute for the inventory.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The victims *təmîmîm* — Proverbs 1:12
+
+*"Let's swallow them up alive like Sheol, and whole, like those who go down into the pit."* *Whole* is
+*təmîmîm*, plural of *tāmîm* — Noah's *"blameless"* (Genesis 6:9) and the family of Job's *tām*
+(Job 1:1; 2:3). In this verse the sense is physical, *intact*, and the WEB renders it so; but the
+gang's chosen victims are described with the Bible's word for integrity, and in the verse before they
+are *nāqî*, *"innocent"*. Hebrew checked against Sefaria's *Miqra according to the Masorah*. See
+[[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Accountable material use; no allegation of misuse or independent audit.
@@ -225,6 +234,8 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   Judah's *"What profit is it if we kill our brother?"* (Genesis 37:26) (WLC). **The judge must hate the thing
   that sold Joseph**
 - [[Laws of Property and Restitution]] — Exodus 22:7–13; honesty sworn where there is no witness
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:11–12; the innocent victims called *təmîmîm*, *"whole"*
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

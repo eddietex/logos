@@ -145,6 +145,15 @@ sentence specifically names the Passover sacrifice as what must not remain until
 one text's object with the other's. This is legislation about an offering, not a second
 blood-sprinkling ceremony like 24:8. See [[The Covenant Renewed]].
 
+### Lying in wait for blood — Proverbs 1:11–18
+
+The gang's plan opens *"Let's lay in wait for blood"* (*neʾerbâ lədām*, 1:11); the father says their
+feet *"hurry to shed blood"* (*lišpok-dām*, 1:16, nearly verbatim in Isaiah 59:7); and the lecture
+turns on *"these lay wait for their own blood"* (*lədāmām yeʾĕrōbû*, 1:18) — the same verb, the
+possessive changed. Reuben's *"Shed no blood"* (Genesis 37:22) uses the same verb and noun; see
+[[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]]. Hebrew checked against Sefaria's
+*Miqra according to the Masorah*. See [[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Blood-and-leaven prohibition repeated with a Passover overnight
@@ -186,6 +195,8 @@ blood-sprinkling ceremony like 24:8. See [[The Covenant Renewed]].
 - [[The Blood of the Covenant]] — Exodus 24:6–8; *"this is the blood of the covenant"*, on the altar and on the people
 - [[The Ordination of the Priests]] — Exodus 29:12, 16, 20–21; blood on the altar, on ear, thumb, and toe, and sprinkled with oil on the priests.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10; the blood of the sin offering on the incense altar's horns once a year.
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:11–18; lying in wait for blood, and for their own blood
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

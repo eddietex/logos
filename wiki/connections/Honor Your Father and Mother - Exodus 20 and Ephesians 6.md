@@ -11,6 +11,8 @@ tags: [connection]
 - Deuteronomy 5:16 — repeats the command with well-being added to long life.
 - Ephesians 6:1–3 — applies the command to children; both later texts verified WEB, not yet
   ingested.
+- [[Do Not Consent to Sinners]] — Proverbs 1:8; *"listen to your father's instruction, and don't forsake your mother's
+  teaching"*, repeated at 6:20.
 
 ## Analysis
 
@@ -30,6 +32,11 @@ instruction. Honor and the particular obedience called for in Ephesians belong t
 itself does not restrict honoring parents to childhood. Nor do these short units explain every case
 in which an obedient child dies young.
 
+Proverbs 1:8 is the command's wisdom form. It does not cite Exodus, and it promises ornament
+(*"a garland to grace your head"*, 1:9) rather than long days in the land; but it names both parents
+as the commandment does, and gives the mother's word the name *tôrâ*, *teaching*. Honor there becomes
+*listening* here, at the age when a son is most open to other voices (1:10).
+
 **Sources:** Exodus checked in `raw/bible/Exodus.md`; external WEB verified 2026-10-23 from
 bible-api.com, requests `Deuteronomy 5:1-33?translation=web` and `Ephesians 6:1-3?translation=web`.
 The land/earth comparison describes the supplied English, not an independently verified Greek
@@ -40,3 +47,6 @@ lexical claim.
 The parents' place in [[Law and Obedience]] remains attached to a promise of life, with both father
 and mother named. The comparison links [[Marriage]], [[Life and Death]], and
 [[Land and Sojourning]] without treating every life span as a measurable verdict on filial conduct.
+
+Proverbs 1:8 checked in `raw/bible/Proverbs.md`; the Hebrew *tôrat ʾimmekā* against Sefaria's *Miqra
+according to the Masorah*, 2026-10-25.

@@ -85,6 +85,15 @@ with God goes with not being destroyed.
   newness of life (Romans 6:4), by faith and not by sight (2 Corinthians 5:7), in the light (1 John
   1:7) — which is this Genesis metaphor naturalized into ordinary Christian vocabulary.
 
+### The path you do not walk — Proverbs 1:15–16
+
+Proverbs' first use of the road image is negative: *"My son, don't walk on the path with them. Keep your
+foot from their path, for their feet run to evil"* (1:15–16). *Bəderek ʾittām*, *on the path with
+them*, shares its two key words with Psalm 1:1's *derek ḥaṭṭāʾîm*, *"the path of sinners"*. Walking
+*with God* has here its first counterpart in the book: walking *with them*. The two-ways teaching that
+Proverbs 4:10–19 will make explicit starts as a question of company. Hebrew checked against Sefaria's
+*Miqra according to the Masorah*. See [[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[From Adam to Noah]] — where the phrase enters the Bible, and the man it exempts from the
@@ -111,6 +120,8 @@ with God goes with not being destroyed.
 - [[The Offering for the Sanctuary]] — Exodus 25:8; ***"that I may dwell among them"*** — God proposing to live in
   the camp, not only to be walked with. Leviticus 26:11–12 joins the two: *"I will set my tent among you … I will
   walk among you"* (WEB; *not yet ingested*). See [[The Dwelling of God]]
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:15–16; the path walked *with them*, the book's first road
 
 ## Related themes
 

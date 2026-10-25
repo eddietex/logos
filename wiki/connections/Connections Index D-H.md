@@ -93,5 +93,5 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |
 | [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]] | quotation | Exodus 13:2, 12–15 · Exodus 13:9 · Exodus 34:19–20 · Leviticus 12:6–8 · Numbers 18:15–16 · Luke 2:22–24, 39 · [[The Covenant Renewed]] (Exodus 34:1–28) |
-| [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] | quotation | Exodus 20:12 · Deuteronomy 5:16 · Ephesians 6:1–3 |
+| [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] | quotation | Exodus 20:12 · Deuteronomy 5:16 · Ephesians 6:1–3 · Proverbs 1:8 ([[Do Not Consent to Sinners]]) |
 | [[The Hope of Resurrection in the Old Testament]] | thread | Job 7:9 · Job 14:7–14 · Job 19:25–27 · Psalm 49:15 · Psalm 73:24 · Isaiah 25:8; 26:19 · Ezekiel 37:1–14 · Daniel 12:2–3 · Matthew 22:23–33 · 1 Corinthians 15:12–57 |

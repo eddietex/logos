@@ -15183,3 +15183,60 @@ readings.
 
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; the not-yet-started book
 baseline is now 62.
+
+## [2026-10-25] ingest | Proverbs 1.8-19 — Do Not Consent to Sinners
+
+Unattended run (`/ingest auto`, no argument). [[Proverbs]] is the only `in-progress` book; its first
+unchecked box was Proverbs 1:8–19. The raw text was already stored; no raw file was touched. The
+pericope plan was not redrawn.
+
+### The passage
+
+`wiki/passages/Proverbs/Do Not Consent to Sinners.md` reads the first lecture as a ring: appeal to
+listen (1:8–9), thesis (1:10), the gang's speech quoted (1:11–14), the father's counter (1:15–16), the
+net (1:17–18), summary (1:19). Main readings: the mother's word is *tôrâ* (with a caution against
+reading it as the Sinai code); *yəpattûkā* (*entice*) and *pətāʾyim* (*the simple*) share *p-t-h*, so
+the first danger named is suggestibility; the gang's speech convicts itself (*lənāqî ḥinnām*; casting
+itself as Sheol; the lot, against 16:33); 1:18 repeats the gang's own verbs of 1:11 with the
+possessive changed; 1:19's *bəʿālāyw* plays on 1:17's *baʿal kānāp*. **Judgment calls worth
+reviewing:** the two readings of the bird-and-net verse (1:17) are both set out and neither chosen;
+*təmîmîm* (1:12) is read as physical *whole* with its moral overtone noted, not as *the blameless*.
+God is not named in 1:8–19, and the page says so.
+
+**Contradiction flagged, not resolved:** Proverbs 1:18–19 (the greedy ambush themselves) against Job
+12:6 and 24:14 (robbers prosper; the murderer is not seen to be repaid). Recorded on the passage page
+and in [[Retribution]], with the wiki's reading — the father speaks forward to a choice, Job of men
+already on the road — given as a reading, not a resolution.
+
+### Pages
+
+- **Created (3):** the passage; [[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]]
+  (Proverbs 1:16 and Isaiah 59:7 share a line in the Hebrew; Romans 3:15–17 follows Isaiah, as its
+  *"way of peace"* line shows); [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]]
+  (*ləkû*/*ləkâ*, *bôr*, *šāpak dām*, *beṣaʿ*, the silver, and *"his blood is required"*, with the
+  differences — Reuben's and Judah's partial refusals, reckoning by conscience — set out).
+- **Revised (16):** the book page (box checked, overview sentence, Key places: [[Sheol]]); [[Sheol]];
+  themes [[Wisdom]], [[Folly]], [[Sin]], [[Deception]], [[Blood]], [[Wealth and Possessions]],
+  [[Retribution]], [[Walking with God]], [[Law and Obedience]], [[Integrity]]; the connection
+  [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] (Proverbs 1:8 as the command's wisdom
+  form); cross-references on [[Joseph Sold into Slavery]] and [[The Brothers' First Journey to Egypt]].
+- **Bookkeeping:** `wiki/books/index.md` (Proverbs 2 / 43); the themes and places indexes; Connections
+  Index D-H and T-Z; `wiki/index.md` counts — 146 passages, 179 people, 90 places, 83 themes,
+  383 connections.
+
+No person pages were created: the son, the parents, and the gang are unnamed. No title collision,
+schema change, or harness change was needed.
+
+### Sources and verification
+
+The twelve key verses were compared mechanically with `raw/bible/Proverbs.md` and match exactly;
+other Proverbs (6:20; 15:27; 16:33; 26:27; 27:20; 30:16), Genesis (4:8; 6:8–9; 37:18–28, 35; 42:21–22),
+Exodus 20:12, and Job (1:1, 9; 2:3; 12:6; 24:14) quotations were checked in the stored WEB. Unstored
+books — Isaiah 59:7–8, Romans 3:10–18, Psalm 1:1; 7:15–16; 9:15, Deuteronomy 6:6–7, Numbers 16:30–33,
+1 Timothy 6:9–10 — were fetched verse by verse from bible-api.com (WEB) and not stored. Hebrew of
+Proverbs 1:8–19, 6:20, Isaiah 59:7, Psalm 1:1, Genesis 6:8–9; 37:20, 22, 26, and Job 1:9; 2:3 was checked
+against Sefaria's *Miqra according to the Masorah*. Unverified and so qualified on the pages: the
+Septuagint's reported omission of Proverbs 1:16, the Greek of Romans 3:15, and the *p-t-h* uses in
+Judges 16:5 and 1 Kings 22:20–22 (cited from the lexical tradition, not quoted).
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.

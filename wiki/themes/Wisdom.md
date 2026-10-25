@@ -180,6 +180,16 @@ proverb, parable, and riddle. The motto follows (1:7). The book's heading attach
 *Miqra according to the Masorah*. See [[The Purpose of the Proverbs]] and
 [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
 
+### The first lecture — Proverbs 1:8–19
+
+Wisdom's first concrete form in Proverbs is a parent's word: the father's *mûsār* and the mother's
+*tôrâ* (1:8), worn as a garland and a necklace (1:9). Its first content is a refusal — *"if sinners
+entice you, don't consent"* (1:10) — and its method is to let the son hear the gang's invitation in
+its own attractive voice (1:11–14) before showing him where their road goes (1:15–19). The lecture
+never names God; it argues from the shape of the act, by repeating the gang's own verbs of ambush
+against them (1:11, 18). Wisdom here is foresight: seeing the net being spread (1:17). Hebrew checked
+against Sefaria's *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]].
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; wisdom's vocabulary surveyed in one sentence, offered
@@ -331,6 +341,8 @@ proverb, parable, and riddle. The motto follows (1:7). The book's heading attach
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Skill takes material form in metalwork, stone engraving, and textiles.
 
 - [[The Work Completed]] — Exodus 39:32–43; Previously commissioned skill produces work that withstands review.
+
+- [[Do Not Consent to Sinners]] — Proverbs 1:8–19; the first lecture — a parent's word worn as ornament, and foresight about the gang's road
 
 ## Related themes
 
