@@ -2333,6 +2333,7 @@ guilt from another person's suffering. See [[Do Not Withhold Good]] and
 - Proverbs 3:5–12 — Trusted with the whole heart; makes paths straight; honoured with first fruits; reproves the son he loves, *"as a father"*. See [[Trust in Yahweh with All Your Heart]].
 - Proverbs 8:13 — Named once, in *"The fear of Yahweh is to hate evil"*; Wisdom hates what he hates and claims the counsel and might Job 12:13 gave to him. See [[Wisdom Calls at the Gates]].
 - Proverbs 8:22–35 — Possesses Wisdom *"in the beginning of his work"*; establishes the heavens, sets a circle on the deep, gives the sea its boundary, and marks out the earth's foundations with Wisdom beside him; gives favour to whoever finds her. See [[Wisdom at the Creation]].
+- Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
 
@@ -2782,6 +2783,7 @@ guilt from another person's suffering. See [[Do Not Withhold Good]] and
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19; named *Yahweh* once (6:16), as the one who hates seven things, from haughty eyes to the sower of discord among brothers.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; named *Yahweh* once (8:13), in Wisdom's definition of his fear as hatred of evil; no speech or act.
 - [[Wisdom at the Creation]] — Proverbs 8:22–36; named *Yahweh* twice (8:22, 35): the Creator with Wisdom beside him, and the giver of favour to whoever finds her; no speech.
+- [[The Two Feasts]] — Proverbs 9:1–18; named *Yahweh* once (9:10), in the motto, and *"the Holy One"*; no speech or act.
 
 ## Related people
 

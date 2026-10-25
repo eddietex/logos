@@ -151,7 +151,7 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 
 ## Cross-references
 
-- Proverbs 9:10 — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is
+- [[The Two Feasts]] — Proverbs 9:9–10; *"increase in learning"* (1:5) and *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is
   understanding."* The motto repeated at the close of the prologue.
 - Proverbs 15:33 — *"The fear of Yahweh teaches wisdom. Before honor is humility."*
 - Proverbs 10:1; 25:1 — the two later Solomonic headings.

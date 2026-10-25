@@ -295,8 +295,7 @@ finder from loss; see [[Retribution]].
 - [[The Young Man Void of Understanding]] — Proverbs 7:4, 24, 27; *"my sister"*, the formula, and
   the way to Sheol.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; the first half of the speech.
-- Proverbs 9:14, 18 — Folly at the door of her house, and her guests in Sheol (not yet ingested;
-  checked in the stored WEB).
+- [[The Two Feasts]] — Proverbs 9:14, 18; Folly at the door of her house, and her guests in Sheol.
 - Proverbs 12:2; 18:22 — *"obtain favor from Yahweh"* (not yet ingested; checked in the stored
   WEB).
 - Psalm 2:6 — *"I have set my King"* (*nāsaḵtî*) (not yet ingested).

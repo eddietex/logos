@@ -131,6 +131,16 @@ theme, and its last appearance inverts who performs it.
 - **3 John 5–10** — hospitality to travelling brothers as the mark of a healthy congregation, and
   Diotrephes, who refuses them, as the mark of a diseased one.
 
+### Two invitations — Proverbs 9
+
+Proverbs ends its prologue with hospitality as allegory. Wisdom prepares meat and mixed wine and sends
+out her maidens: *"Come, eat some of my bread, Drink some of the wine which I have mixed! Leave your
+simple ways, and live"* (9:5–6). The foolish woman answers from her own door with the same words and
+a different table: *"Stolen water is sweet. Food eaten in secret is pleasant"* (9:17). The book's
+reader is the passer-by both invite. Later texts keep the scene of a prepared feast and a sent
+invitation (Isaiah 55:1–3; Luke 14:16–24; Matthew 22:1–14), without quoting Proverbs. See
+[[The Two Feasts]]. Source: stored WEB Proverbs 9.
+
 ### A meal in God's presence — Exodus 24:11
 
 *"They saw God, and ate and drank"* (24:11). The covenant ends at a table, with God as host or
@@ -198,6 +208,11 @@ The text names no food; the peace offerings of 24:5 are the likely source. See [
   asked of his welfare, brought him *"into the tent"*, and told him everything; and Aaron and the elders *"eat
   bread with Moses' father-in-law before God"*. **The meal at Midian is returned at the mountain**
 - [[The Blood of the Covenant]] — Exodus 24:11; the leaders *"ate and drank"* before God after the covenant
+- [[The Two Feasts]] — Proverbs 9:1–6, 13–18; **two hostesses with one invitation.** Wisdom builds, slaughters,
+  mixes, sets her table, and sends her maidens to call the simple to bread, wine, and life; the foolish woman
+  sits at her door, calls the same words, and serves stolen water to guests who are already in Sheol. The
+  host's table as the place where a life is decided. See
+  [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]]
 
 ## Related themes
 

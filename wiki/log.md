@@ -16019,3 +16019,47 @@ Job verses checked in stored WEB; John 1:1–3, 14, Colossians 1:15–17, Hebrew
 Deuteronomy 6:9 checked in the WEB at bible-api.com, not stored. Hebrew of Proverbs 8:22–36 and the
 cited Proverbs, Genesis, Job, Psalm 2:6, Jeremiah 5:22, Isaiah 40:22, and Deuteronomy 6:9 read from
 Sefaria's *Miqra according to the Masorah*, 2026-10-25. `scripts/link-check.sh` clean.
+
+## [2026-10-25] ingest | Proverbs 9.1-18 — The Two Feasts
+
+Unattended run (`/ingest auto`). The prologue's last chapter: Wisdom builds her house with *"seven
+pillars"*, slaughters, mixes her wine, sends her maidens, and calls the simple from the city's heights —
+*"Come, eat some of my bread … Leave your simple ways, and live"* (9:1–6); sayings on the scoffer and the
+wise man, the motto *"The fear of Yahweh is the beginning of wisdom"* (9:10), and *"If you mock, you
+alone will bear it"* (9:7–12); the foolish woman, *"loud, undisciplined, and knows nothing"*, calls the
+same words from the same height and offers *"Stolen water"*, and her guests *"are in the depths of
+Sheol"* (9:13–18).
+
+**Judgment calls.** The planned 9:1–18 boundary was kept; Sefaria's edition marks a *petuḥah* only
+after 9:18, and 9:7–12 was not split off because 9:11's *"by me"* keeps it in Wisdom's voice. No person
+pages for Wisdom or Folly (kept on [[Wisdom]] and [[Folly]]). The wiki leaves open whether the foolish
+woman is the strange woman or a wider figure including her, and gives no reading of the seven pillars.
+One new connection, [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]], filed as
+a motif: it tabulates the shared scene with Isaiah 25:6; 55:1–3 and the Gospel banquet parables and
+states that none of them quotes Proverbs 9.
+
+**Not verified:** the association of *ʾišrû* (9:6) with *ʾašrê*; the readings of the seven pillars; and
+the Septuagint's additions after 9:12 and 9:18. Each is qualified at the point of the claim on the
+passage page.
+
+**Created (2):** [[The Two Feasts]],
+[[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]].
+
+**Revised content pages (21):** [[Proverbs]]; nine themes — [[Wisdom]], [[Folly]], [[The Fear of God]],
+[[Life and Death]], [[Hospitality]], [[Sexual Sin]], [[Love]], [[Holiness]], [[Retribution]]; one
+person — [[God]]; one place — [[Sheol]]; two connections —
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]] (chapter 9 update, stale
+*not yet ingested* cleared) and [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]];
+seven reciprocal passage cross-references linked and stale *not yet ingested* markers cleared —
+[[The Purpose of the Proverbs]], [[Wisdom Calls in the Street]], [[If You Seek Her as Silver]],
+[[The Two Paths]], [[The Young Man Void of Understanding]], [[Wisdom Calls at the Gates]],
+[[Wisdom at the Creation]].
+
+**Indexes (8):** `wiki/books/index.md` (17 / 43), `wiki/index.md` (161 passages, 416 connections),
+`wiki/themes/index.md`, `wiki/places/index.md`, People Index F-M, Connections Index A-C, D-H, and T-Z.
+
+**Sources:** Proverbs 9:1–18 quoted from `raw/bible/Proverbs.md` (WEB); other Proverbs and Job verses
+checked in stored WEB; Isaiah 25:6; 55:1–3, Luke 14:16–17, 21, Matthew 22:2–4, John 6:35, and Matthew
+11:19 checked in the WEB at bible-api.com, not stored. Hebrew of Proverbs 9:1–18 and the cited Proverbs
+verses and Job 26:5 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+`scripts/link-check.sh` clean.

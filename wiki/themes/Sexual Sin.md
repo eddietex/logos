@@ -167,6 +167,14 @@ the way to Sheol"* (7:27). Genesis 38 supplies the wiki's other woman dressed as
 the opposite verdict. See [[The Young Man Void of Understanding]] and
 [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Proverbs 9 turns the strange woman into Folly.** The foolish woman of 9:13–18 is *loud* as the
+strange woman was (*hōmiyyâ*, 7:11; 9:13), sits *"at the door of her house"* (9:14; 5:8), and sends
+her guests to Sheol (9:18; 2:18; 5:5; 7:27). Her menu is *"Stolen water is sweet. Food eaten in secret
+is pleasant"* (9:17) — water that belongs to another man's well, against *"Drink water out of your own
+cistern"* (5:15). Whether she is the strange woman under a wider name or a figure of all folly that
+includes her, the text does not say. See [[The Two Feasts]]. Source: stored WEB Proverbs 5, 7, 9;
+Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
@@ -204,6 +212,8 @@ the opposite verdict. See [[The Young Man Void of Understanding]] and
   in the lap, and no ransom
 - [[The Young Man Void of Understanding]] — Proverbs 7:1–27; the seduction told as a story, from the window to
   *"the rooms of death"*
+- [[The Two Feasts]] — Proverbs 9:13–18; Folly takes the strange woman's features — *loud*, at her door, bound
+  for Sheol — and offers *"Stolen water"*, the other man's well of 5:15
 
 ## Related themes
 

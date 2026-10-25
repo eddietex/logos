@@ -237,6 +237,8 @@ not neutral in Proverbs; what one loves is a direction. See [[Wisdom at the Crea
 - [[The Young Man Void of Understanding]] — Proverbs 7:18; love's language, *ḏōḏîm*, offered by the strange woman
 - [[Wisdom Calls at the Gates]] — Proverbs 8:17, 21; *"I love those who love me"*, Wisdom's reciprocal love
 - [[Wisdom at the Creation]] — Proverbs 8:36; *"All those who hate me love death"*, the counterpart of 8:17
+- [[The Two Feasts]] — Proverbs 9:8; *"Reprove a wise man, and he will love you"*: the scoffer hates the reprover, the
+  wise man loves him, as Yahweh's reproof is love (3:12)
 
 ## Related themes
 

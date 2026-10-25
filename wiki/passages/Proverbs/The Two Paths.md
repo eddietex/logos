@@ -136,7 +136,8 @@ No named geographical place. The path and the way are metaphors for a manner of 
 - [[Rebels Against the Light - Proverbs 4 and Job 24]] — the shared portrait and the disputed
   outcome.
 - [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]] — the two-ways teaching across the canon.
-- Proverbs 9:5, 17 — Wisdom's bread and wine against Folly's stolen water and secret food.
+- [[The Two Feasts]] — Proverbs 9:5, 17; Wisdom's bread and wine against Folly's stolen water and
+  secret food, and *laḥămû … leḥem* as in 4:17.
 - [[Keep Your Heart]] — Proverbs 4:20–27; the next lecture's level path that turns neither right nor
   left (4:26–27).
 - [[The Lamp of the Commandment]] — Proverbs 6:23; the light carried as a lamp by the walker, *"the

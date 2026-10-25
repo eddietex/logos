@@ -73,8 +73,13 @@ close to the book's whole point about who may speak for the tradition. See
 - **Proverbs 1:20–33** — [[Wisdom Calls in the Street]]: Wisdom personified for the first time,
   shouting in the street and the city gates, refused, and pronouncing the consequence in a prophet's
   voice.
-- **Proverbs 8:22–31; 9:10** *(9:10 not yet ingested)* — [[Wisdom at the Creation]]; Wisdom personified, brought forth before the hills
-  and playing before God at the creation, and the motto repeated.
+- **Proverbs 8:22–31; 9:10** — [[Wisdom at the Creation]]; Wisdom personified, brought forth before the hills
+  and playing before God at the creation, and the motto repeated in [[The Two Feasts]].
+- **Proverbs 9:1–12** — [[The Two Feasts]]; Wisdom as hostess: she builds her house, sets her table,
+  sends her maidens, and calls the simple, *"Come, eat some of my bread … Leave your simple ways, and
+  live"*. The wise man who is reproved loves the reprover and *"will be still wiser"* (9:8–9); *"If
+  you are wise, you are wise for yourself"* (9:12). See
+  [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]].
 - **Ecclesiastes 1:12–18; 7:23–24; 9:13–18** — wisdom pursued honestly to the end of its reach:
   *"in much wisdom is much grief"*.
 - **Jeremiah 8:8–9; 9:23–24** — the wise put to shame, and the only boast permitted.

@@ -255,7 +255,8 @@ consequence. See [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Mat
 
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–4, 17; Wisdom's second speech, at the same gates; *"Those who seek me diligently will
   find me"*, the verbs of 1:28 without the negative.
-- Proverbs 9:1–6 — Wisdom's third speech, the feast; *ḥoḵmôt* again at 9:1.
+- [[The Two Feasts]] — Proverbs 9:1–6; Wisdom's third speech, the feast; *ḥoḵmôt* again at 9:1, and the
+  simple, the mockers, and the fools of 1:22 again at 9:4, 7, 13.
 - [[The Young Man Void of Understanding]] — Proverbs 7:11–12, 15; the strange woman *loud* and in the same streets and squares
   (*baḥûṣ … bārəḥōḇôṯ*), and seeking diligently and finding, the verbs of 1:28.
 - Job 28:12, 21, 28 — [[Where Shall Wisdom Be Found]]: wisdom hidden from all the living.

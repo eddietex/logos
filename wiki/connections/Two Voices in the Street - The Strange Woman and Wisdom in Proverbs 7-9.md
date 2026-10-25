@@ -19,7 +19,7 @@ tags: [connection]
   [[If You Seek Her as Silver]], [[The Strange Woman and the Wife of Your Youth]],
   [[The Lamp of the Commandment]].
 - **Proverbs 9:1–6, 13–18** — Wisdom's feast and the foolish woman's, each calling from *"the high
-  places of the city"* with the same words to the same guest. Not yet ingested; stored WEB checked.
+  places of the city"* with the same words to the same guest — [[The Two Feasts]].
 
 ## Analysis
 
@@ -52,8 +52,7 @@ seat in the high places of the city"* (9:14, the same phrase). Both say *"Whoeve
 turn in here!"* and both address *"him who is void of understanding"* (9:4, 16) — the phrase that
 named the young man of 7:7. The foolish woman is *loud* (9:13, *hōmiyyâ*), the word for the strange
 woman at 7:11. Her guests *"are in the depths of Sheol"* (9:18), where the strange woman's house led.
-The two figures of chapters 7–8 become Wisdom and Folly at their two tables. The wiki will extend
-this page when chapter 9 is ingested.
+The two figures of chapters 7–8 become Wisdom and Folly at their two tables.
 
 **What the pairing does.** The son cannot tell the two apart by where they stand or how they talk —
 both are public, both invite, both speak of love and of finding. He can tell them apart by what they
@@ -70,6 +69,28 @@ finds me, finds life"* (8:35), *"All those who hate me love death"* (8:36). Chap
 *"the rooms of death"* (7:27); chapter 8 ends on *death* as the thing Wisdom's haters love. Folly in
 9:14 will sit *"at the door of her house"* (*ləp̄eṯaḥ bêṯāh*). See [[Wisdom at the Creation]]. Hebrew
 of 5:8; 7:24; 8:32, 34–36; 9:14 from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
+**Update, Proverbs 9:1–18 ingested.** Chapter 9 completes the pairing, and it does so by copying.
+The Hebrew of Folly's call in 9:16 is Wisdom's in 9:4 word for word, with two conjunctions added
+(*mî-p̄eṯî yāsur hēnnâ … ḥăsar-lēḇ … ʾāmərâ lô*), and both call from *mərōmê qāreṯ*, *the high places
+of the city* (9:3, 14). The difference is everything else:
+
+| | Wisdom (9:1–6) | the foolish woman (9:13–18) |
+|---|---|---|
+| **posture** | builds, carves, slaughters, mixes, sets, sends | sits, at her door, on a seat |
+| **the meal** | *"my bread … the wine which I have mixed"* (9:5) | *"Stolen water … Food eaten in secret"* (9:17) |
+| **the end** | *"Leave your simple ways, and live"* (9:6) | *"her guests are in the depths of Sheol"* (9:18) |
+
+The foolish woman is *ʾēšeṯ kəsîlûṯ*, *a woman of folly*, and *pəṯayyûṯ*, *simpleness* (9:13), and she
+has the strange woman's marks — *loud* (7:11), at her door (5:8), bound for Sheol (2:18; 5:5; 7:27). The
+wiki does not decide whether she is the strange woman under a wider name or a figure of folly that
+includes her. Between the two scenes, 9:7–12 says who will answer which: the scoffer hates reproof, the
+wise man loves it. **So the prologue's frame ends where this page said it would: two voices, one
+script, and only the hearer's heart to tell them apart.** The three endings line up — *"Her house is
+the way to Sheol"* (7:27), *"All those who hate me love death"* (8:36), *"her guests are in the depths of
+Sheol"* (9:18). See [[The Two Feasts]] and
+[[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]]. Hebrew of 9:1–18 from
+Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
 ## Significance
 

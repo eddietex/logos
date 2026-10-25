@@ -78,7 +78,9 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
   test you, and that his fear may be before you, that you won't sin."* Do not fear; fear.
 - **Deuteronomy 10:12** — fear, walk, love, serve: the four verbs given as one demand.
 - **Proverbs 1:7; 9:10; 8:13** — the beginning of knowledge and of wisdom, and defined as *"to hate
-  evil"*. See [[The Purpose of the Proverbs]].
+  evil"*. See [[The Purpose of the Proverbs]] and [[The Two Feasts]]: 9:10 closes the prologue on the
+  motto that opened it, with *təḥillaṯ ḥoḵmâ* for 1:7's *rēʾšîṯ dāʿaṯ*, and pairs it with *"the knowledge
+  of the Holy One"* (*daʿaṯ qədōšîm*, as at 30:3).
 - **Proverbs 1:29** — [[Wisdom Calls in the Street]]: *"they hated knowledge, and didn't choose the
   fear of Yahweh"* — *wəyirʾaṯ YHWH lōʾ bāḥārû*. **The fear of Yahweh as a choice**, refusable; and
   the same speech ends with the listener free *"without fear of harm"* (1:33, *mippaḥad*), so the

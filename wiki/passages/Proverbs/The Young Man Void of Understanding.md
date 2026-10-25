@@ -305,8 +305,9 @@ and his teaching (7:1–2), and the vocabulary of Sinai (*miṣwâ*, *tôrâ*, *
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; Wisdom's answer at the gates, found by those
   who seek her (8:17). See
   [[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]].
-- Proverbs 9:13–18 — Folly, *loud*, calling the man *void of understanding* to a house whose
-  guests *"are in the depths of Sheol"* (not yet ingested).
+- [[The Two Feasts]] — Proverbs 9:13–18; Folly, *loud*, calling the man *void of understanding* to a
+  house whose guests *"are in the depths of Sheol"*; Wisdom *"has slaughtered her slaughter"* (9:2,
+  *ṭāḇəḥâ ṭiḇḥāh*) where the young man went *"as an ox goes to the slaughter"* (7:22, *ṭeḇaḥ*).
 - [[Isaac in Gerar]] — Genesis 26:8; Abimelech at the window.
 - [[Judah and Tamar]] — Genesis 38:14–15; the woman taken for a prostitute.
 - [[Joseph in Potiphar's House]] — Genesis 39:12; the woman who seized, and the man who ran.

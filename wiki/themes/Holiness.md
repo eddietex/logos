@@ -292,6 +292,10 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Anointing is commanded; the installed veil and filling preserve limits on approach.
 
+- [[The Two Feasts]] — Proverbs 9:10; *"The knowledge of the Holy One is understanding"*: *daʿaṯ qədōšîm*, a plural
+  noun read as a plural of majesty for God, as at 30:3 (Hebrew from Sefaria's *Miqra according to the
+  Masorah*); holiness as the object of knowledge, paired with the fear of Yahweh.
+
 ## Related themes
 
 - [[Sabbath]] — the first holy thing is a day

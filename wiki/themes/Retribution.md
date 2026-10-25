@@ -530,6 +530,7 @@ it did not hold in the ordinary way. See [[Wisdom at the Creation]]. Source: sto
   touched back
 - [[Wisdom Calls at the Gates]] — Proverbs 8:18–21; riches and honour promised to Wisdom's lovers, set against Job 1
 - [[Wisdom at the Creation]] — Proverbs 8:35–36; life and favour to whoever finds Wisdom, death loved by her haters, read after Job
+- [[The Two Feasts]] — Proverbs 9:11–12; days multiplied by Wisdom, and *"If you mock, you alone will bear it"*: each carries his own choice; Job's case kept beside it
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

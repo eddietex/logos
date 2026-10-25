@@ -23,7 +23,8 @@ tags: [connection]
   and the perverse mouth."* The motto as a definition, spoken by Wisdom —
   [[Wisdom Calls at the Gates]]
 - **Proverbs 9:10** — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One
-  is understanding."* The same motto closing the book's first section. Not yet ingested.
+  is understanding."* The same motto closing the book's first section, with *təḥillaṯ* for 1:7's
+  *rēʾšîṯ* — [[The Two Feasts]]
 - **Proverbs 15:33** — *"The fear of Yahweh teaches wisdom."* Not yet ingested.
 - **Psalm 111:10** — *"The fear of Yahweh is the beginning of wisdom. All those who do his work have a
   good understanding."* Not yet ingested.

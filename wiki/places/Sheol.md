@@ -202,6 +202,12 @@ to go.
   third lecture ends where 2:18 and 5:5 ended, and adds rooms: *ḥeḏer* is the inner room or
   bedchamber, so the bed she perfumed (7:16–17) is a chamber of death. Her slain are *"a mighty army"*
   (7:26). Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+- [[The Two Feasts]] — Proverbs 9:18; **named, and peopled.** *"But he doesn't know that the departed
+  spirits are there, that her guests are in the depths of Sheol"* (*kî-rəp̄āʾîm šām bəʿimqê šəʾôl
+  qəruʾeyhā*). The prologue's last verse joins the *rəp̄āʾîm* of 2:18 to the Sheol of 5:5 and 7:27, and
+  Folly's *guests* — literally *her called ones* — are already there. Her house is not only the way down;
+  the dining room is in the depths. Hebrew read from Sefaria's *Miqra according to the Masorah*,
+  2026-10-25.
 
 ## Related places
 

@@ -608,6 +608,8 @@ who love me"* (8:17) ends with a second love — of death — answering 7:27's h
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 23, 27; *"Keep my commandments and live!"*, and the rooms of
   death
 - [[Wisdom at the Creation]] — Proverbs 8:35–36; *"whoever finds me, finds life"*; *"All those who hate me love death"*
+- [[The Two Feasts]] — Proverbs 9:6, 11, 18; *"Leave your simple ways, and live"*, days multiplied, and Folly's
+  guests *"in the depths of Sheol"*: the prologue ends on the two tables as life and death
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

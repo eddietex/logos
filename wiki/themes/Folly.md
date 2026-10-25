@@ -49,8 +49,14 @@ not keep silent.
   will kill them. The careless ease of fools will destroy them."* *Məšûḇâ*, *backsliding*, is from
   *šûḇ*, the *"Turn"* of 1:23: folly here is a turning, the wrong way (Hebrew checked against
   Sefaria's *Miqra according to the Masorah*).
-- **Proverbs 9:13** *(not yet ingested)* — Folly personified as a woman, *"loud, undisciplined, and knows nothing"* (9:13), whose
-  feast competes with Wisdom's.
+- **Proverbs 9:13–18** — [[The Two Feasts]]; Folly personified as a woman, *"loud, undisciplined, and
+  knows nothing"* (9:13; *ʾēšeṯ kəsîlûṯ*, *a woman of folly*, and *pəṯayyûṯ*, *simpleness*, for
+  *undisciplined*), whose feast competes with Wisdom's. She sits at her door in the same high places,
+  calls the simple with Wisdom's own words (9:16 repeats 9:4), and offers *"Stolen water"* and *"Food
+  eaten in secret"*; her guests are *"in the depths of Sheol"*. She takes the strange woman's features
+  — *loud* (7:11), at her door (5:8), bound for Sheol — and the wiki leaves open whether she is that
+  woman or a wider figure including her. The mocker (*lēṣ*) who answers reproof with hatred (9:7–8) is
+  folly's other face.
 - **Proverbs 26:4–5** *(not yet ingested)* — *"Don't answer a fool according to his folly"* beside
   *"Answer a fool according to his folly"*: the book's own admission that dealing with folly takes
   judgment, not a rule.

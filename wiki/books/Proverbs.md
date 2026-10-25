@@ -139,6 +139,16 @@ finds me, finds life"*, and *"All those who hate me love death"* (8:35–36). Se
 [[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]]; the New Testament's
 language for Christ at creation resembles the passage without citing it.
 
+Chapter 9 ends the prologue with two feasts (9:1–18). Wisdom *"has built her house"*, carved *"her
+seven pillars"*, prepared meat and mixed wine, and sent her maidens to call from the city's heights:
+*"Whoever is simple, let him turn in here!"* — *"Come, eat some of my bread … Leave your simple ways,
+and live"* (9:4–6). The foolish woman, *"loud, undisciplined, and knows nothing"*, sits at her door in
+the same high places and calls the same words — the Hebrew of 9:16 repeats 9:4 — but offers *"Stolen
+water"* and *"Food eaten in secret"*, and her guests *"are in the depths of Sheol"* (9:17–18). Between
+them, sayings on the scoffer and the wise man and the motto again: *"The fear of Yahweh is the beginning
+of wisdom"* (9:10), closing chapters 1–9 as 1:7 opened them. See [[The Two Feasts]] and
+[[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]].
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -184,7 +194,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Young Man Void of Understanding]] — Proverbs 7:1–27
 - [x] [[Wisdom Calls at the Gates]] — Proverbs 8:1–21
 - [x] [[Wisdom at the Creation]] — Proverbs 8:22–36
-- [ ] The Two Feasts — Proverbs 9:1–18
+- [x] [[The Two Feasts]] — Proverbs 9:1–18
 
 ### The proverbs of Solomon (10:1–22:16)
 
@@ -256,6 +266,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
 - [[Theft and Restitution]] — the hungry thief who restores sevenfold (6:30–31)
+- [[Hospitality]] — Wisdom's feast and Folly's, two tables and one invitation (9:1–18)
+- [[Holiness]] — *"The knowledge of the Holy One is understanding"* (9:10)
 - [[Kingship and Empire]] — *"By me kings reign, and princes decree justice"* (8:15)
 - [[Prayer]] — *"Those who seek me diligently will find me"* (8:17), against 1:28
 - [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
@@ -272,5 +284,5 @@ first collection at its heading), each titled from a representative saying.
 
 ## Key places
 - [[Sheol]] — the insatiable realm of the dead, which the gang of 1:12 proposes to imitate, and to
-  which the strange woman's house sinks (2:18; 5:5; 7:27; 9:18)
+  which the strange woman's house sinks (2:18; 5:5; 7:27), and where Folly's guests are (9:18)
 - [[Egypt]] — *"the yarn of Egypt"* on the strange woman's couch (7:16)

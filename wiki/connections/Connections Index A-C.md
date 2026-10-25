@@ -70,6 +70,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Christ Our Passover - Exodus 12 in the New Testament]] | quotation | Exodus 12:1–28 · 1 Corinthians 5:6–8 · John 1:29 · John 19:14, 36 · 1 Peter 1:18–19 · Hebrews 11:28 · Luke 22:15 · Exodus 12:46 · Numbers 9:12 · Psalm 34:20 |
 | [[Circumcision of the Heart]] | thread | Genesis 17:10–14 · Leviticus 26:41 · Deuteronomy 10:16; 30:6 · Jeremiah 4:4; 6:10; 9:25–26 · Ezekiel 44:7, 9 · Acts 7:51 · Romans 2:25–29 · Colossians 2:11–12 |
 | [[Cloud and Fire - From the Sea to the Filled Tabernacle]] | thread | Exodus 13:20–22; 14:19–24; 16:9–10; 24:15–18; 33:3–17 · [[The Tabernacle Raised and the Glory]] (Exodus 40:34–38) |
+| [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]] | motif | Proverbs 9:1–6, 13–18 · Proverbs 4:17 · Isaiah 25:6 · Isaiah 55:1–3 · Luke 14:16–24 · Matthew 22:1–14 · John 6:35 · Matthew 11:19 · [[The Two Feasts]] (Proverbs 9:1–18) |
 | [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:6 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 |

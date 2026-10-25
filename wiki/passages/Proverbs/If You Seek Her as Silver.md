@@ -295,7 +295,7 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; the strange woman given a whole lecture,
   her steps leading to Sheol (5:5), and the wife of your youth set against her.
 - [[The Young Man Void of Understanding]] — Proverbs 7:5; 2:16 repeated with *lišmorḵā*, *to keep you*, for *ləhaṣṣîləḵā*.
-- Proverbs 9:18 — Sheol again (not yet ingested).
+- [[The Two Feasts]] — Proverbs 9:18; Sheol again, and *rəp̄āʾîm*, *"the departed spirits"*, as at 2:18.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:17; *"Those who seek me diligently will find me"*.
 - Job 1:1 — *"blameless and upright"*, *tām wəyāšār*; [[Job of Uz]].
 - Job 3:21 — *maṭmônîm*, hidden treasures; [[Let the Day Perish]].
