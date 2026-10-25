@@ -265,6 +265,12 @@ Yahweh — he *"feared God, and turned away from evil"* (Job 1:1) — and lost r
 on any one sufferer, as on earlier pages; the text itself does not add that limit. See
 [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Proverbs 8:35 — life to the finder, read after Job.** *"Whoever finds me, finds life, and will
+obtain favor from Yahweh."* Job 28:27–28 agrees that wisdom was with God at creation, but gives
+humans only the fear of the Lord and turning from evil as their share of it, and Job feared God and
+lost nearly everything. Proverbs 8 states the promise without exceptions; Job remains the case where
+it did not hold in the ordinary way. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:11, 15; sudden poverty and sudden breaking
@@ -523,6 +529,7 @@ on any one sufferer, as on earlier pages; the text itself does not add that limi
 - [[The Lamp of the Commandment]] — Proverbs 6:27–35; fire that burns its carrier, and the toucher
   touched back
 - [[Wisdom Calls at the Gates]] — Proverbs 8:18–21; riches and honour promised to Wisdom's lovers, set against Job 1
+- [[Wisdom at the Creation]] — Proverbs 8:35–36; life and favour to whoever finds Wisdom, death loved by her haters, read after Job
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -431,7 +431,7 @@ a man who will stop talking; the second will produce one who has seen — see th
 - [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] — 40:4.
 - [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] — 40:5.
 - Joshua 10:11 — the hailstones Yahweh *"hurled down"* in battle, behind 38:22–23.
-- Proverbs 8:27–29 — Wisdom present *"when he gave to the sea its boundary … when he marked out the
+- [[Wisdom at the Creation]] — Proverbs 8:27–29 — Wisdom present *"when he gave to the sea its boundary … when he marked out the
   foundations of the earth"*.
 - Psalm 104:9, 21 — the waters' boundary; *"The young lions roar after their prey, and seek their food from
   God"*.

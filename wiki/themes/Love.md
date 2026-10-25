@@ -161,6 +161,10 @@ read as *those who love her* and reads it *those who love me*; the WEB follows t
 strange woman offered *ʾŏhāḇîm*, *loving*, until morning (7:18); Wisdom offers a love that answers
 love. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Proverbs 8:36 — the love of death.** Wisdom began her promises with *"I love those who love me"*
+(8:17) and ends with the opposite love: *"All those who hate me love death"* (*ʾāhăḇû māweṯ*). Love is
+not neutral in Proverbs; what one loves is a direction. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:19; *"Be captivated always with her love"*,
@@ -232,6 +236,7 @@ love. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew r
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:12; Yahweh's love given as the reason for his reproof
 - [[The Young Man Void of Understanding]] — Proverbs 7:18; love's language, *ḏōḏîm*, offered by the strange woman
 - [[Wisdom Calls at the Gates]] — Proverbs 8:17, 21; *"I love those who love me"*, Wisdom's reciprocal love
+- [[Wisdom at the Creation]] — Proverbs 8:36; *"All those who hate me love death"*, the counterpart of 8:17
 
 ## Related themes
 

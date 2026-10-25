@@ -25,7 +25,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[I Will Take You as My People - The Covenant Formula]] | thread | Genesis 17:7–8 · Exodus 6:7 · Exodus 29:45–46 · Leviticus 26:12 · Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33 · Ezekiel 11:20; 36:28; 37:27 · 2 Corinthians 6:16 · Hebrews 8:10 · Revelation 21:3 · Exodus 25:8 · [[The Ordination of the Priests]] |
 | [[If I Am Bereaved, I Am Bereaved - Jacob and Esther]] | parallel | Genesis 42:36 · Genesis 43:14 · Esther 4:16 · 2 Samuel 15:25–26 · 2 Kings 7:3–4 · Daniel 3:17–18 · Genesis 45:25–28 |
 | [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]] | allusion | Genesis 3:7–12, 17–18 · Genesis 4:10–11 · Job 31:33–34 · Job 31:38–40 · Hosea 6:7 · Psalm 32:5 · Proverbs 28:13 |
-| [[In the Beginning - Genesis 1 and John 1]] | allusion | Genesis 1:1–5 · John 1:1–5 |
+| [[In the Beginning - Genesis 1 and John 1]] | allusion | Genesis 1:1–5 · John 1:1–5 · Proverbs 8:22, 27 · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] | phrase | Genesis 49:1 · Numbers 24:14 · Deuteronomy 4:30; 31:29 · Isaiah 2:2 · Micah 4:1 · Hosea 3:5 · Daniel 2:28; 10:14 · Acts 2:17 · Hebrews 1:2 |
 | [[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]] | thread | Exodus 30:1–10, 34–38 · Exodus 29:38–42 · Psalm 141:2 · Malachi 1:11 · Luke 1:8–11 · Revelation 5:8 · Revelation 8:3–5 · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |

@@ -13,7 +13,8 @@ tags: [connection]
 - **Job 11:5–9** — Zophar, earlier: *"oh that God would speak… that he would show you the secrets
   (taʿălumôt) of wisdom!"*, and wisdom higher than heaven and deeper than Sheol — [[Zophar's First Speech]]
 - **Proverbs 8:22–31** — Wisdom personified: *"Before the mountains were settled in place, before
-  the hills, I was brought forth… When he established the heavens, I was there."*
+  the hills, I was brought forth… When he established the heavens, I was there."* —
+  [[Wisdom at the Creation]]
 - **Job 38:4, 21** — God, from the whirlwind: *"Where were you when I laid the foundations of the
   earth? … Surely you know, for you were born then, and the number of your days is great!"*
   — [[Out of the Whirlwind]]
@@ -88,3 +89,10 @@ counsel of God, and it is us, and what was said there destroys his argument.
   formulation that may simply have been a stock way of saying *before the world began*. It is strong
   enough to note and too slight to date either book by, and this wiki draws no conclusion about
   which text is earlier.
+
+**Update, Proverbs 8:22–36 ingested.** The stored WEB of 8:24–25 reads *"I was born"* where this page
+quotes *"I was brought forth"*; the page's quotation follows a different English rendering, and the
+Hebrew is the same: *ḥôlāltî*, twice, with *gəḇāʿôṯ*, *hills*, at 8:25 (Sefaria's *Miqra according to
+the Masorah*, 2026-10-25). The WEB of 8:24–25 is: *"When there were no depths, I was born … before
+the hills, I was born"*. The passage page adds the answer to God's question in Job 38:4: Wisdom says,
+*"When he established the heavens, I was there"* (8:27). See [[Wisdom at the Creation]].

@@ -54,3 +54,12 @@ Revisit this page when John 1 and John 20 are ingested. The Genesis 3 side is no
 first humans hide *"among the trees of the garden"* when they hear God walking (3:8), which is
 what John 3:19–20 generalizes as *"men loved the darkness rather than the light… everyone who does
 evil hates the light, and doesn't come to the light."*
+
+**Update, Proverbs 8:22–36 ingested.** A third *beginning* now stands between Genesis 1:1 and John
+1:1. Wisdom says, *"Yahweh possessed me in the beginning of his work"* (Proverbs 8:22), with
+*rēʾšîṯ*, the noun of Genesis 1:1's *bərēʾšîṯ* (Sefaria's *Miqra according to the Masorah*,
+2026-10-25), and *"When he established the heavens, I was there"* (8:27). John's *"the Word was with
+God"* and *"All things were made through him"* (John 1:1–3) describe a figure present and active at
+creation in the way Proverbs 8 describes Wisdom. John does not cite Proverbs, and the wiki does not
+claim he drew on it; see [[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]]
+and [[Wisdom at the Creation]].

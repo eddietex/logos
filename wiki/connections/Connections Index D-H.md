@@ -28,7 +28,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 · Exodus 14:11 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 |
-| [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:5, 8, 17, 19 · Psalm 106:9 · Hebrews 11:29 |
+| [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:5, 8, 17, 19 · Psalm 106:9 · Hebrews 11:29 · Proverbs 8:29 · Jeremiah 5:22 · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
 | [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] | motif | Genesis 41:6, 23, 27 · Exodus 10:13, 19 · Exodus 14:21 · Exodus 15:8, 10 |
 | [[The Eighth Day - Circumcision and the Firstborn Given to God]] | thread | Genesis 17:12 · Genesis 21:4 · Exodus 22:30 · Leviticus 12:3 · Leviticus 22:27 · Luke 2:21 |
@@ -50,8 +50,8 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]] | literary-parallel | Proverbs 6:25, 27–29 · Genesis 39:6–12 · Genesis 20:6 · Genesis 26:11 · Job 31:9, 12 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) · [[Joseph in Potiphar's House]] · Proverbs 7:13, 19–22 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
-| [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
-| [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
+| [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
+| [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 · [[Behemoth and Leviathan]] (Job 40:6–41:34) · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 · Exodus 14:21–22 |

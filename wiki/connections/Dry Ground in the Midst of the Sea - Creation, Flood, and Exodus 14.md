@@ -73,3 +73,11 @@ runs it forwards again, for one people, for one night.**
 its first plural in Scripture (15:5, 8; WLC lemma search) — and makes the wind God's own breath, *"the
 blast of your nostrils"* (15:8). **Then it ends with God *planting* his people (*nāṭaʿ*, 15:17), the verb of
 the garden** (Genesis 2:8; WLC). See [[The Song of the Sea]].
+
+**Proverbs 8 gives the sea's boundary a witness.** Wisdom, present at creation, says she was there
+*"when he gave to the sea its boundary, that the waters should not violate his commandment"* (8:29).
+The boundary is *ḥuqqô*, his *decree*, and the waters do not pass *pîw*, *his mouth* (Sefaria's
+*Miqra according to the Masorah*, 2026-10-25): the sea is held by a word, as in Job 38:11's *"Here
+you may come, but no further"* and Jeremiah 5:22's *"perpetual decree"* (WEB at bible-api.com,
+2026-10-25; Jeremiah not yet ingested). The flood is that boundary withdrawn; the crossing is a
+passage opened through it. See [[Wisdom at the Creation]].

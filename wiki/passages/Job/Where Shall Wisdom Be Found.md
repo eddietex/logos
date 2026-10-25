@@ -218,7 +218,7 @@ king over all the sons of pride"* (41:34).
   28:26) and *"Who has put wisdom in the inward parts?"*: the hymn's subjects as God's questions.
 - Job 41:34 — Leviathan, *"king over all the sons of pride"* — *bənê-šaḥaṣ*, the *"proud animals"* of
   28:8, the phrase's only other occurrence — [[Behemoth and Leviathan]].
-- Proverbs 8:22–31 — Wisdom present *"in the beginning of his work"*: 28:25–27's creation scene with
+- [[Wisdom at the Creation]] — Proverbs 8:22–31 — Wisdom present *"in the beginning of his work"*: 28:25–27's creation scene with
   wisdom personified.
 - Jeremiah 10:12 — *"He has established the world by his wisdom"*.
 - Colossians 2:3 — Christ, *"in whom are all the treasures of wisdom and knowledge hidden"*; and

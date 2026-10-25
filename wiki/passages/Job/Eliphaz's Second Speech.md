@@ -215,7 +215,7 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
 - Genesis 6:5 — *"every imagination of the thoughts of man's heart was continually only evil"*, the
   nearest thing in the Torah to 15:14–16, and stated there by the narrator rather than by a
   disputant.
-- Proverbs 8:22–31 — Wisdom brought forth before the hills.
+- [[Wisdom at the Creation]] — Proverbs 8:22–31 — Wisdom brought forth before the hills.
 - Jeremiah 49:7; Obadiah 8–9 — the wisdom of Teman.
 - Psalm 143:2; Proverbs 20:9; Ecclesiastes 7:20; Romans 3:10–12, 23 — the canon's other statements
   that no one is clean.

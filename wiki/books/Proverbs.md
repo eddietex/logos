@@ -128,6 +128,17 @@ loves those who love her, is found by those who seek her (8:17), and fills their
 [[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]]. The promise of riches
 and honour stands, again, against Job's losses.
 
+The speech's second half says where Wisdom comes from (8:22–36). *"Yahweh possessed me in the
+beginning of his work"* (8:22), with *qānâ*, the verb of *"Get wisdom"* (4:7), and *rēʾšîṯ*, the
+noun of Genesis 1:1. Born before depths and hills, she was *"there"* when the heavens were
+established and the sea given its boundary, and beside God as *"the craftsman"* — or *nursling*, on
+another reading of *ʾāmôn* — *"rejoicing in his whole world"*, her delight *"with the sons of men"*
+(8:30–31). She closes in the father's words, *"Now therefore, my sons, listen to me"* (8:32): *"whoever
+finds me, finds life"*, and *"All those who hate me love death"* (8:35–36). See
+[[Wisdom at the Creation]] and
+[[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]]; the New Testament's
+language for Christ at creation resembles the passage without citing it.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -172,7 +183,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Lamp of the Commandment]] — Proverbs 6:20–35
 - [x] [[The Young Man Void of Understanding]] — Proverbs 7:1–27
 - [x] [[Wisdom Calls at the Gates]] — Proverbs 8:1–21
-- [ ] Wisdom at the Creation — Proverbs 8:22–36
+- [x] [[Wisdom at the Creation]] — Proverbs 8:22–36
 - [ ] The Two Feasts — Proverbs 9:1–18
 
 ### The proverbs of Solomon (10:1–22:16)

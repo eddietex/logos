@@ -49,7 +49,7 @@ sayings of Matthew 11:19 and Luke 7:35, where Jesus' ministry is vindicated as W
 Proverbs 1 makes Wisdom a speaker who uses God's prophetic register without being God (see
 [[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]]); the Gospels
 take the next step and let the voice be Jesus'. That is the beginning of a line that runs through
-Proverbs 8:22–31 (Wisdom present at creation; not yet ingested, see
+Proverbs 8:22–31 (Wisdom present at creation; see [[Wisdom at the Creation]] and
 [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]]) to John 1 and Colossians 1, where the
 language of Wisdom is used of the Son. The wiki records it at the point where it first becomes
 visible.

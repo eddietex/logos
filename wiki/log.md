@@ -15970,3 +15970,52 @@ checked in stored WEB; 1 Kings 3:9–13, Isaiah 11:2, 4, Deuteronomy 32:5, Jerem
 1 Corinthians 1:24 checked in the WEB at bible-api.com, not stored. Hebrew of Proverbs 8:1–21 and the
 cited Proverbs, Job 12:13, Isaiah 11:2, 1 Kings 3:13, and Deuteronomy 32:5 read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25. `scripts/link-check.sh` clean.
+
+## [2026-10-25] ingest | Proverbs 8.22-36 — Wisdom at the Creation
+
+Unattended run (`/ingest auto`). The second half of Wisdom's speech: possessed by Yahweh *"in the
+beginning of his work"* (8:22), born before depths and hills, present when heavens, the circle on the
+deep, and the sea's boundary were made, beside him as *ʾāmôn*, delighting in *"the sons of men"*
+(8:22–31); then the father's formula *"Now therefore, my sons, listen to me"* (8:32; 5:7; 7:24),
+blessing at her doors, *"whoever finds me, finds life"*, and *"All those who hate me love death"*
+(8:32–36).
+
+**Judgment calls.** The planned 8:22–36 boundary was kept, though Sefaria's edition marks a
+*petuḥah* after 8:31: 8:32–36 is the speech's conclusion and opens with the father's own concluding
+formula. No new person page (Wisdom stays on [[Wisdom]]). One new connection,
+[[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]], filed as typology: it
+tabulates the resemblance to John 1:1–3, Colossians 1:15–17, Hebrews 1:2–3, Revelation 3:14, and
+1 Corinthians 1:24 and states that none of them cites Proverbs. The wiki reads Wisdom, as before, as
+God's wisdom personified, and decides nothing further.
+
+**Flagged.** [[The First Man and Wisdom Before the Hills]] quotes 8:24–25 as *"I was brought forth"*;
+the stored WEB reads *"I was born"*. Both are recorded on that page; the Hebrew (*ḥôlāltî*) is the same.
+**Not verified:** the Septuagint's *ektisen* at 8:22 and its rendering of *ʾāmôn*; the fourth-century
+use of the verse; the alternative root for *nissaḵtî*; the *craftsman* / *nursling* readings; and the
+sense *to miss* for *ḥāṭāʾ*. Each is qualified at the point of the claim on the passage page.
+
+**Created (2):** [[Wisdom at the Creation]],
+[[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]].
+
+**Revised content pages (22):** [[Proverbs]]; eight themes — [[Wisdom]], [[Creation]],
+[[Life and Death]], [[Blessing]], [[Favor and Grace]], [[Sin]], [[Love]], [[Retribution]]; one
+person — [[God]]; seven connections — [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]],
+[[The First Man and Wisdom Before the Hills]],
+[[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]],
+[[In the Beginning - Genesis 1 and John 1]],
+[[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]],
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]],
+[[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]]; six reciprocal passage
+cross-references linked and stale *not yet ingested* markers cleared — [[Wisdom Calls at the Gates]],
+[[Wisdom's Worth and the Founding of the Earth]], [[Eliphaz's Second Speech]],
+[[I Will Not Put Away My Integrity]], [[Where Shall Wisdom Be Found]], [[Out of the Whirlwind]].
+
+**Indexes (8):** `wiki/books/index.md` (16 / 43), `wiki/index.md` (160 passages, 415 connections),
+`wiki/themes/index.md`, People Index F-M, Connections Index A-C, D-H, I-N, O-S, and T-Z.
+
+**Sources:** Proverbs 8:22–36 quoted from `raw/bible/Proverbs.md` (WEB); other Proverbs, Genesis, and
+Job verses checked in stored WEB; John 1:1–3, 14, Colossians 1:15–17, Hebrews 1:2–3, Revelation 3:14,
+1 Corinthians 1:24, 30, Matthew 11:19, Jeremiah 5:22, Isaiah 40:22, Psalm 2:6; 104:9, and
+Deuteronomy 6:9 checked in the WEB at bible-api.com, not stored. Hebrew of Proverbs 8:22–36 and the
+cited Proverbs, Genesis, Job, Psalm 2:6, Jeremiah 5:22, Isaiah 40:22, and Deuteronomy 6:9 read from
+Sefaria's *Miqra according to the Masorah*, 2026-10-25. `scripts/link-check.sh` clean.

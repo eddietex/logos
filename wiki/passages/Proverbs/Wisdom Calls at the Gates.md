@@ -266,7 +266,7 @@ wisdom personified, without deciding more. 8:22–31 will say where she came fro
   *tôʿēḇâ*, beginning with *"haughty eyes"*.
 - [[The Young Man Void of Understanding]] — Proverbs 7:5, 12, 15, 18; the woman at the corners,
   seeking and finding, and offering love.
-- Proverbs 8:22–36 — the second half of the speech: Wisdom before creation (not yet ingested).
+- [[Wisdom at the Creation]] — Proverbs 8:22–36 — the second half of the speech: Wisdom before creation.
 - Proverbs 9:3, 14 — Wisdom and Folly each in *"the high places of the city"* (not yet ingested).
 - [[Job of Uz]] — Job 1:1; the man who feared God and turned away from evil.
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:13–19; his riches and children lost.

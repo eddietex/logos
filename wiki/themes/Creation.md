@@ -131,6 +131,16 @@ does not itself identify the flood: its setting is praise of wise creation. See
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+**Proverbs 8:22–31 — creation with a witness.** Wisdom lists the world in the order it was not yet
+there — depths, springs, mountains, hills, earth, fields, *"the beginning of the dust of the world"*
+(8:24–26) — and then in the order it was made while she watched: heavens established, *"a circle on
+the surface of the deep"* (*ḥûg ʿal-pənê ṯəhôm*, Genesis 1:2's phrase), clouds, springs, the sea given
+*"its boundary, that the waters should not violate his commandment"* (literally *his mouth*), and the
+earth's foundations (8:27–29). The answer to Job 38:4's *"Where were you?"* is, for Wisdom, *"I was
+there"* (8:27). Creation is accompanied by delight — *"rejoicing in his whole world"* (8:30–31) —
+which gives Genesis 1:31's *"very good"* a voice. See [[Wisdom at the Creation]] and
+[[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Earth, heavens, depths, and
@@ -271,6 +281,7 @@ Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stor
 - [[The Work Completed]] — Exodus 39:32–43; Completion, seeing, and blessing invite comparison with Genesis 1:31–2:3.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Finished work continues the creation comparison without an explicit cosmic allegory.
+- [[Wisdom at the Creation]] — Proverbs 8:22–31; depths, springs, mountains, heavens, the circle on the deep, and the sea's boundary, made with Wisdom present and delighting
 
 ## Related themes
 

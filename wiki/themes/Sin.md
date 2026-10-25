@@ -200,6 +200,12 @@ against the sweet sleep promised to the wise in 3:24.
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+**Proverbs 8:36 — sin as missing Wisdom.** *"But he who sins against me wrongs his own soul"*:
+*ḥōṭəʾî*, from *ḥāṭāʾ*, usually glossed *to miss* (a lexical sense not checked here), set against
+*mōṣʾî*, *whoever finds me* (8:35). The one who misses Wisdom *ḥōmēs nap̄šô* — does violence to his
+own soul, the root of Genesis 6:11's *ḥāmās*. Sin against her is described first as self-harm. See
+[[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Two Paths]] — Proverbs 4:16–17; evil as compulsion, sleepless until it has made someone fall
@@ -378,6 +384,7 @@ See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Manufacture does not enact the earlier provision for bearing iniquity.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–19; *ḥaṭṭāʾîm* who entice, and the *"path of sinners"* of Psalm 1:1
+- [[Wisdom at the Creation]] — Proverbs 8:36; *"he who sins against me wrongs his own soul"* — missing Wisdom as violence to oneself
 
 ## Related themes
 

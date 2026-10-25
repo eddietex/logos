@@ -11,6 +11,8 @@ tags: [connection]
   *"void of understanding"* — [[The Young Man Void of Understanding]].
 - **Proverbs 8:1–21** — Wisdom at the heights, the crossroads, and the gates, calling to all people —
   [[Wisdom Calls at the Gates]].
+- **Proverbs 8:22–36** — the rest of the speech: Wisdom before creation, and her doors, life, and
+  death — [[Wisdom at the Creation]].
 - **Proverbs 1:20–33** — Wisdom's first speech, in the street and the squares —
   [[Wisdom Calls in the Street]].
 - **Proverbs 2:16–19; 5:1–23; 6:20–35** — the strange woman's earlier appearances —
@@ -59,6 +61,16 @@ say and where their houses lead. That is why the lectures insist on keeping the 
 heart (4:23; 7:1–3): the son will hear two voices from the same height, and only what he already
 holds will tell him which one to answer.
 
+**Update, Proverbs 8:22–36 ingested.** The second half of Wisdom's speech finishes the answer. The
+father warned *"Don't come near the door of her house"* (5:8, *petaḥ bêṯāh*); Wisdom blesses the man
+*"watching daily at my gates, waiting at my door posts"* (8:34). She closes with the father's own
+formula, *wəʿattâ ḇānîm šimʿû-lî*, *"Now therefore, my sons, listen to me"* (8:32), the words that
+opened his conclusion against the strange woman at 7:24, and sets the two ends side by side: *"whoever
+finds me, finds life"* (8:35), *"All those who hate me love death"* (8:36). Chapter 7 ended in
+*"the rooms of death"* (7:27); chapter 8 ends on *death* as the thing Wisdom's haters love. Folly in
+9:14 will sit *"at the door of her house"* (*ləp̄eṯaḥ bêṯāh*). See [[Wisdom at the Creation]]. Hebrew
+of 5:8; 7:24; 8:32, 34–36; 9:14 from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Significance
 
 The pairing is the frame of Proverbs 1–9: two women calling in the same streets, one to life and one
@@ -67,7 +79,7 @@ Testament's personified Wisdom (see
 [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]]). See [[Wisdom]],
 [[Folly]], and [[Sexual Sin]].
 
-Sources: Proverbs 1:11, 18, 20; 4:23; 7:1–27; 8:1–21, 35; 9:3–4, 13–18 checked in
+Sources: Proverbs 1:11, 18, 20; 4:23; 7:1–27; 8:1–36; 9:3–4, 13–18 checked in
 `raw/bible/Proverbs.md` (WEB). Hebrew of Proverbs 1:20; 7:15; 8:2, 17; 9:3, 14 read from Sefaria's
 *Miqra according to the Masorah*, 2026-10-25; the Hebrew of 7:11, 12, 18 and 9:13 is cited from
 [[The Young Man Void of Understanding]], which read it from the same edition.

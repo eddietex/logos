@@ -73,7 +73,7 @@ close to the book's whole point about who may speak for the tradition. See
 - **Proverbs 1:20–33** — [[Wisdom Calls in the Street]]: Wisdom personified for the first time,
   shouting in the street and the city gates, refused, and pronouncing the consequence in a prophet's
   voice.
-- **Proverbs 8:22–31; 9:10** *(not yet ingested)* — Wisdom personified, brought forth before the hills
+- **Proverbs 8:22–31; 9:10** *(9:10 not yet ingested)* — [[Wisdom at the Creation]]; Wisdom personified, brought forth before the hills
   and playing before God at the creation, and the motto repeated.
 - **Ecclesiastes 1:12–18; 7:23–24; 9:13–18** — wisdom pursued honestly to the end of its reach:
   *"in much wisdom is much grief"*.
@@ -325,6 +325,21 @@ given under 1:20–33. See [[Wisdom Calls at the Gates]],
 [[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]], and
 [[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Proverbs 8:22–36 — Wisdom before the world.** The speech's second half gives Wisdom an origin and
+a place. *"Yahweh possessed me in the beginning of his work"* (8:22): *qānānî*, the verb the father
+used for *"Get wisdom"* (4:7, *qənēh ḥoḵmâ*), so that what the son must acquire Yahweh had at the
+beginning. She was *"set up from everlasting"* and *"born"* before depths and hills (8:23–25), was
+*"there"* when the heavens were established and the sea bounded (8:27–29), and stood beside God as
+*ʾāmôn* — *"craftsman"* in the WEB, *nursling* on another reading — delighting before him and with
+*"the sons of men"* (8:30–31). Then she speaks as the father does, *"Now therefore, my sons, listen to
+me"* (8:32; 5:7; 7:24), and closes: *"whoever finds me, finds life … All those who hate me love
+death"* (8:35–36). **Job 28 and Proverbs 8 agree that wisdom was with God at creation** (Job 28:27);
+they differ on what humans may have of it — Job 28:28 gives them the fear of the Lord, Proverbs 8:35
+life to whoever finds her. Wisdom has an origin and was not one of the things made; the wiki reads
+her still as God's wisdom personified. The New Testament's language for Christ as agent of creation
+resembles the passage without citing it. See [[Wisdom at the Creation]] and
+[[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6; *"Consider her ways, and be wise"*, wisdom learned from the ant
@@ -497,6 +512,7 @@ given under 1:20–33. See [[Wisdom Calls at the Gates]],
 - [[The Young Man Void of Understanding]] — Proverbs 7:4, 12, 15, 21; wisdom as sister, and the strange woman in Wisdom's
   places and words
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; Wisdom's second speech: at the gates and crossroads, straight words, better than silver, *"By me kings reign"*, found by those who seek her
+- [[Wisdom at the Creation]] — Proverbs 8:22–36; Wisdom possessed by Yahweh at the beginning, present at creation as *ʾāmôn*, delighting in humanity; whoever finds her finds life
 
 ## Related themes
 

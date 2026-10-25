@@ -140,6 +140,11 @@ wisdom's gifts. Compare the garland of parental teaching in Proverbs 1:9.
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+**Proverbs 8:35 — favour to whoever finds Wisdom.** *"For whoever finds me, finds life, and will
+obtain favor from Yahweh"*: *wayyāp̄eq rāṣôn mêYHWH*, word for word the second half of 18:22, where
+the one who finds a wife *"obtains favor of Yahweh"*; 12:2 gives the same favour to *"A good man"*.
+*Rāṣôn* is acceptance or goodwill. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Wisdom’s garland describes gracious adornment and honor.
@@ -236,6 +241,7 @@ See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - [[Laws of Holiness and Compassion]] — Exodus 22:27; *"for I am gracious"*, *ḥannûn*
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3–4; favour *"in the sight of God and man"*
+- [[Wisdom at the Creation]] — Proverbs 8:35; *"will obtain favor from Yahweh"*, the phrase of 18:22
 
 ## Related themes
 

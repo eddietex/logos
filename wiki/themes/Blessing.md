@@ -212,6 +212,11 @@ be flattened into a diagnostic rule about every household's current condition.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+**Proverbs 8:32–34 — *ʾašrê* at Wisdom's doors.** *"Blessed are those who keep my ways"* (8:32) and
+*"Blessed is the man who hears me, watching daily at my gates, waiting at my door posts"* (8:34). The
+word is *ʾašrê*, as in 3:13, 18 — a state of well-being described, not a blessing pronounced. The
+picture is a man at a house's doors every day, against the strange woman's door (5:8). See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh blesses the righteous habitation; tension with Job remains explicit.
@@ -446,6 +451,7 @@ The discussion added here makes no claim about exact source-language forms.
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; bread, water, health, fertility, and full days for those who serve Yahweh.
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses blesses the people after approving their work; his words are not supplied.
+- [[Wisdom at the Creation]] — Proverbs 8:32–34; *ʾašrê*: blessed are those who keep Wisdom's ways and wait at her door posts
 
 ## Related themes
 

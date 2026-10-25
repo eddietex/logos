@@ -270,6 +270,12 @@ Proverbs 7 runs from *"Keep my commandments and live!"* (7:2) to *"the rooms of 
 them the young man *"doesn't know that it will cost his life"* (7:23, *ḇənap̄šô hûʾ*). See
 [[The Young Man Void of Understanding]] and [[Sheol]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Proverbs 8:35–36 — two loves.** Wisdom's speech ends on life and death set before the hearer:
+*"For whoever finds me, finds life, and will obtain favor from Yahweh. But he who sins against me
+wrongs his own soul. All those who hate me love death."* *Ḥōmēs nap̄šô*, *does violence to his own
+soul*, uses the root of Genesis 6:11's *ḥāmās*. The chapter that began its promises with *"I love those
+who love me"* (8:17) ends with a second love — of death — answering 7:27's house of death. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:5–6, 23; her steps to Sheol, and death for lack
@@ -601,6 +607,7 @@ them the young man *"doesn't know that it will cost his life"* (7:23, *ḇənap�
   hunted and destroyed
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 23, 27; *"Keep my commandments and live!"*, and the rooms of
   death
+- [[Wisdom at the Creation]] — Proverbs 8:35–36; *"whoever finds me, finds life"*; *"All those who hate me love death"*
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

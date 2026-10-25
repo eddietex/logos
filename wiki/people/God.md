@@ -2332,6 +2332,7 @@ guilt from another person's suffering. See [[Do Not Withhold Good]] and
 - Proverbs 2:6–8 — Gives wisdom out of his mouth; stores it up for the upright; shields and guards them. See [[If You Seek Her as Silver]].
 - Proverbs 3:5–12 — Trusted with the whole heart; makes paths straight; honoured with first fruits; reproves the son he loves, *"as a father"*. See [[Trust in Yahweh with All Your Heart]].
 - Proverbs 8:13 — Named once, in *"The fear of Yahweh is to hate evil"*; Wisdom hates what he hates and claims the counsel and might Job 12:13 gave to him. See [[Wisdom Calls at the Gates]].
+- Proverbs 8:22–35 — Possesses Wisdom *"in the beginning of his work"*; establishes the heavens, sets a circle on the deep, gives the sea its boundary, and marks out the earth's foundations with Wisdom beside him; gives favour to whoever finds her. See [[Wisdom at the Creation]].
 
 ## Appears in
 
@@ -2780,6 +2781,7 @@ guilt from another person's suffering. See [[Do Not Withhold Good]] and
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; named *Yahweh* five times (3:5, 7, 9, 11, 12) and *God* once (3:4): the object of trust, fear, and honour; a father who reproves.
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19; named *Yahweh* once (6:16), as the one who hates seven things, from haughty eyes to the sower of discord among brothers.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; named *Yahweh* once (8:13), in Wisdom's definition of his fear as hatred of evil; no speech or act.
+- [[Wisdom at the Creation]] — Proverbs 8:22–36; named *Yahweh* twice (8:22, 35): the Creator with Wisdom beside him, and the giver of favour to whoever finds her; no speech.
 
 ## Related people
 

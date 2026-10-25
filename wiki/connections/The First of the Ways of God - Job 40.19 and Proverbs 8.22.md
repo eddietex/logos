@@ -12,7 +12,7 @@ tags: [connection]
 - **Job 40:15** — *"See now, behemoth, which I made as well as you. He eats grass as an ox."*
 - **Proverbs 8:22–23** — Wisdom speaking: *"Yahweh possessed me in the beginning of his work, before his
   deeds of old. I was set up from everlasting, from the beginning, before the earth existed."* —
-  *rēʾšît darkô*
+  *rēʾšît darkô* — [[Wisdom at the Creation]]
 - **Job 26:14** — Job: *"Behold, these are but the outskirts of his ways"* — *qəṣôt dərākāw* —
   [[I Will Not Put Away My Integrity]]
 - **Genesis 1:1, 24–26** — *bərēʾšît*, *in the beginning*; and the *livestock* (*bəhēmâ*) made on the sixth
@@ -54,3 +54,12 @@ ways"*; 40:19 answers with the *rēʾšît* of his ways, the far end of the same
 - **It keeps Behemoth a creature.** Whatever later tradition made of him (see the Notes on
   [[Behemoth and Leviathan]]), the text calls him *made* (40:15, 19). The first of God's ways is still one of
   God's ways.
+
+**Update, Proverbs 8:22–36 ingested.** The Proverbs side confirms *rēʾšîṯ darkô* at 8:22 (Sefaria's
+*Miqra according to the Masorah*, 2026-10-25), and shows that the two readings of *rēʾšîṯ* this page
+keeps open are open there too: Wisdom may be *the beginning of his way* — the first thing made, which
+suits *"I was born"* (8:24–25) — or present *at* the beginning, the WEB's *"in the beginning of his
+work"*. The verb with it, *qānānî*, *"possessed me"*, is the verb of *"Get wisdom"* (4:7), and does not
+by itself mean *made*. Behemoth is plainly *made* (Job 40:15); Wisdom's origin is told in the language of
+birth and possession. See [[Wisdom at the Creation]] and
+[[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]].
