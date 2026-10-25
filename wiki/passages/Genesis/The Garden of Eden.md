@@ -111,6 +111,9 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Genesis 2:9 and Proverbs 3:18; the tree of life
+  becomes an image of wisdom.
+
 - [[Two Creation Accounts - Genesis 1 and Genesis 2]] — the two openings of Genesis, their
   differences, and the main ways they have been read together.
 - [[One Flesh - Genesis 2 and the New Testament on Marriage]] — Jesus (Matthew 19:4–6, Mark

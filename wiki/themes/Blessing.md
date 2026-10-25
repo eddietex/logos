@@ -189,7 +189,22 @@ quoted here. Compare God’s blessing of the seventh day in Genesis 2:3 through
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### Happiness in finding and retaining wisdom — Proverbs 3:13–18
+
+The repeated declaration of happiness frames wisdom's benefits: life, riches, honor,
+pleasantness, and peace. [[Wisdom's Worth and the Founding of the Earth]] describes the
+fortunate condition of the finder and keeper; it does not narrate a divine blessing
+speech like Genesis 1:28. The connection to blessing is thematic, not an assertion that
+the two passages use the same Hebrew formula. The tree-of-life image widens flourishing
+beyond the inventory of possessions.
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Happiness frames the praise
+  of wisdom's life-giving benefits.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses connects the Levites’ consecration, even against son and brother, with blessing that day (32:29).
 

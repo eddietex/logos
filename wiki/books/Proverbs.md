@@ -49,6 +49,12 @@ man. Proverbs itself knows the limit — *"Answer a fool according to his folly"
 opposite (26:4–5), and the book is full of *"better than"* sayings that admit the righteous poor
 and the wicked rich exist. The pages for each pericope keep both books in view.
 
+The next poem praises wisdom's incomparable worth and life-giving gifts (3:13–18), then
+grounds that praise in Yahweh's founding of earth and heavens by wisdom and understanding
+(3:19–20). The tree of life moves Eden's image into instruction; the creation setting
+anticipates the fuller speech in chapter 8. See [[Wisdom's Worth and the Founding of the Earth]].
+The promises of riches and peace remain in tension with Job's righteous suffering.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -83,7 +89,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Wisdom Calls in the Street]] — Proverbs 1:20–33
 - [x] [[If You Seek Her as Silver]] — Proverbs 2:1–22
 - [x] [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12
-- [ ] Wisdom's Worth and the Founding of the Earth — Proverbs 3:13–20
+- [x] [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20
 - [ ] Do Not Withhold Good — Proverbs 3:21–35
 - [ ] Get Wisdom — Proverbs 4:1–9
 - [ ] The Two Paths — Proverbs 4:10–19
@@ -135,6 +141,9 @@ first collection at its heading), each titled from a representative saying.
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Creation]] — Yahweh founds earth and establishes heavens through wisdom (3:19–20).
+- [[Life and Death]] — wisdom as a tree of life to those who retain her (3:18).
 - [[Wisdom]] — the book's subject, named in its first purpose clause (1:2)
 - [[The Fear of God]] — *"the beginning of knowledge"* (1:7) and of wisdom (9:10)
 - [[Folly]] — wisdom's opposite, and the other way the book's reader can go

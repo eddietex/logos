@@ -119,7 +119,22 @@ Sabbath at the erection. The first-month date in 40:17 is not a creation day cou
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The Creator's wisdom — Proverbs 3:19–20
+
+[[Wisdom's Worth and the Founding of the Earth]] grounds the praise of human wisdom in
+Yahweh's founding of earth and establishing of heavens. Knowledge orders depths and dew.
+This supplements Genesis 1's account of creation by speech with an explicit attribution of
+wisdom to the Creator. The mention of broken depths can recall Genesis 7:11, but the verse
+does not itself identify the flood: its setting is praise of wise creation. See
+[[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Earth, heavens, depths, and
+  dew ordered through divine wisdom.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation remembered in the covenant
   sign.

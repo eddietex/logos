@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:18; wisdom as a tree of life, with
+  11:30; 13:12; 15:4.
+
 - [[The Garden of Eden]] — Genesis 2:9
 - [[The Fall]] — Genesis 3:22–24
 - Revelation 2:7 · 22:2, 14, 19 *(not yet ingested)*
@@ -17,9 +20,10 @@ tags: [connection]
 
 ## Analysis
 
-The tree of life appears in the Bible's second chapter and its second-to-last, and almost nowhere
-in between. That distribution is the point: it is planted, lost, and restored, and the arc it
-traces is the shape of the whole canon.
+The tree of life links Genesis 2–3 with Revelation 2 and 22, while Proverbs develops the
+image repeatedly within instruction. Its narrative arc is planting, loss of access, and
+restoration; its proverbial uses describe life-giving wisdom, conduct, desire, and speech.
+These are related uses of an image, not one continuous report of access to Eden's tree.
 
 **Genesis 2:9** puts it *"in the middle of the garden"*, alongside the tree of the knowledge of
 good and evil. It is never forbidden. The prohibition of 2:16–17 names only the other tree, which
@@ -76,6 +80,23 @@ outside the veil (26:35). An Eden reading therefore involves the whole sanctuary
 not a claim that a lampstand-tree stands behind cherubim exactly as Genesis' tree does. Exodus
 never identifies the lampstand as the tree of life or calls the textile figures guards.
 See [[The Tabernacle Curtains and Frames]]; the architectural details qualify the typology rather than prove it.
+
+### Wisdom grasped as a tree — Proverbs 3:18
+
+[[Wisdom's Worth and the Founding of the Earth]] says, in the stored WEB: *"She is a
+tree of life to those who lay hold of her. Happy is everyone who retains her."* The image
+joins finding wisdom (3:13) to holding it through time (3:18). Genesis 3:22–24 narrates
+a barred tree and the prevention of endless life; Proverbs praises an accessible way of
+living. **The difference must remain:** Proverbs does not announce the removal of the
+cherubim or promise that the wise will never die.
+
+Later sayings within the same stored book call the fruit of the righteous a tree of life
+(11:30), compare fulfilled longing to one (13:12), and apply the image to a gentle tongue
+(15:4). These uses support reading 3:18 as life-giving metaphor, while leaving its
+resonance with Eden visible.
+
+Source for this addition: Genesis 2:9; 3:22–24 and Proverbs 3:13–20; 11:30; 13:12; 15:4
+checked in the stored WEB, 2026-10-25. No new claim about original-language wording is made.
 
 ## Significance
 

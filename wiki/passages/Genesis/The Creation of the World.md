@@ -77,6 +77,10 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Genesis 1 and Proverbs 3:19–20; creation by
+  speech and creation through wisdom. See
+  [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
 - [[In the Beginning - Genesis 1 and John 1]] — John 1:1–5 opens with Genesis 1's first three
   words and reads the creative speech of Genesis 1 as a person.
 - [[Creation as the Ground of the Sabbath Command]] — Exodus 20:8–11 grounds the fourth

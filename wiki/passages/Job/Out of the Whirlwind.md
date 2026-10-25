@@ -375,6 +375,10 @@ a man who will stop talking; the second will produce one who has seen — see th
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Job 38:4–7, 25–28 and Proverbs 3:19–20; the
+  earth founded and dew governed. See
+  [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
 - [[Let the Day Perish]] — Job 3:3–10, 20–23: the birth, the darkness, the shadow of death, the eyelids of the
   morning, the doors of the womb, and *geber*, all returned in 38:2–21; *qll*, *curse*, at 3:1 and 40:4.
 - [[The Arrows of the Almighty]] — Job 7:12, *"Am I a sea, or a sea monster?"*, at 38:8–11.

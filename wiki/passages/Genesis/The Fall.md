@@ -154,6 +154,9 @@ and the walking in the cool of the day.
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Genesis 3:22–24 and Proverbs 3:18; barred
+  access and life-giving wisdom, without a claim of immortality.
+
 - [[The Garden of Eden]] — Genesis 2:4–25, the scene this one dismantles element by element.
 - [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] — the enmity verse and the long
   history of reading it as the first announcement of the gospel.

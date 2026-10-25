@@ -15,7 +15,8 @@ tags: [connection]
   will understand the fear of Yahweh, and find the knowledge of God. For Yahweh gives wisdom."*
   [[If You Seek Her as Silver]], where the contradiction with Job 28's failed search is recorded.
 - **Proverbs 3:13–15** — *"For her good profit is better than getting silver, and her return is better
-  than fine gold. She is more precious than rubies."* Not yet ingested.
+  than fine gold. She is more precious than rubies."*
+  [[Wisdom's Worth and the Founding of the Earth]].
 - **Proverbs 8:10–11, 19** — *"Receive my instruction rather than silver … For wisdom is better than
   rubies"*; *"My fruit is better than gold, yes, than fine gold."* Not yet ingested.
 - **Proverbs 16:16** — *"How much better it is to get wisdom than gold!"* Not yet ingested.
@@ -71,6 +72,18 @@ rather than discarded; and chapter 28 then lists the gold of Ophir among the thi
 wisdom (28:16). The man the friends accused of loving gold is the man 28:28 describes as wise. Job's
 denial under oath that he trusted in gold is still to come (31:24–25). The refining image is traced
 separately at [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
+
+### The praise now ingested — Proverbs 3:13–20
+
+[[Wisdom's Worth and the Founding of the Earth]] extends the valuation beyond price:
+wisdom holds riches in one hand, yet is herself more valuable than any desired good.
+Her benefits include life and peace, and the praise culminates in Yahweh's creative wisdom.
+The comparison is therefore a hierarchy of desires, not a cash return promised to every
+wise person. Job's losses remain a counterexample to such a guarantee; see [[Retribution]].
+Job 28:23–28 and Proverbs 3:19–20 also join wisdom to God's ordering of water and weather;
+see [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
+Source for this addition: Proverbs 3:13–20 and Job 28 checked in the stored WEB, 2026-10-25.
 
 ## Significance
 

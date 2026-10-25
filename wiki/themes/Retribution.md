@@ -179,7 +179,23 @@ away from evil"* (Job 1:1) — the two verbs of 3:7 — was struck with sores (2
 verses and the book of Job show them. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Riches and peace in Wisdom's hands — Proverbs 3:16–17
+
+[[Wisdom's Worth and the Founding of the Earth]] associates wisdom with long life,
+riches, honor, and peace. **Tension retained:** Job 1:1 and 1:13–19 describe a righteous,
+God-fearing man deprived of wealth and children, and 2:7 records his bodily suffering.
+Proverbs 3:11–12 also recognizes the reproof of the son God loves. Reading 3:16–17 as
+praise of wisdom's life-giving direction rather than an exceptionless diagnosis of
+individual fortunes is the wiki's interpretation; neither the promise nor Job's
+counterexample is removed.
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Wisdom's promised riches and
+  peace held against Job's innocent losses.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the preface of the book where the doctrine's classic
   sentences live. It promises to teach wisdom, not to explain every case; read after Job, its sayings

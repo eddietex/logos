@@ -281,6 +281,9 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 2:4–6 and 3:13–15; the thing sought as
+  silver is valued above silver.
+
 - Proverbs 1:3–4 — [[The Purpose of the Proverbs]]: *righteousness, justice, and equity*;
   *discretion* for the young.
 - Proverbs 1:11, 18 — [[Do Not Consent to Sinners]]: *ṣāp̄an*, the gang's *lurk*.

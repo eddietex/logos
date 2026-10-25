@@ -251,6 +251,9 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20 follows the admonitions with
+  praise; wealth and peace remain alongside 3:11–12’s reproof.
+
 - Proverbs 1:2, 7, 9, 23 — *mûsār*, *the foolish despise*, chains around the neck, *"my reproof"*;
   [[The Purpose of the Proverbs]], [[Do Not Consent to Sinners]], [[Wisdom Calls in the Street]].
 - Proverbs 2:5, 7–8, 11, 13, 17, 21 — knowledge of God, the upright, *nāṣar*, *forsake*, *forget*;

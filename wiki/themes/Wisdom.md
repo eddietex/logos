@@ -239,7 +239,26 @@ mind is a limit: *"don't lean on your own understanding"* (3:5), *"Don't be wise
 his weight on understanding.** The wisdom it means is the kind that knows it is not the ground. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Wisdom found, retained, and at creation — Proverbs 3:13–20
+
+The praise in [[Wisdom's Worth and the Founding of the Earth]] connects human wisdom to
+the world's making. The finder is happy (3:13), and the one who retains wisdom is happy
+(3:18); finding must become a continuing hold. Wisdom's value exceeds silver, gold, and
+rubies, and she gives long life, riches, honor, pleasantness, and peace. The closing
+verses place wisdom, understanding, and knowledge in Yahweh's founding of the earth and
+ordering of the waters. This complicates a sharp division between Proverbs' accessible
+wisdom and Job's inaccessible cosmic wisdom: Proverbs itself puts them next to one another.
+Job 28:12–28 still distinguishes God's knowledge from the fear of the Lord given to humans;
+the difference should remain visible rather than be harmonized away. See
+[[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Wisdom's worth, the tree of
+  life, and God's founding of the earth.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; wisdom's vocabulary surveyed in one sentence, offered
   to simple and wise alike, and grounded in the fear of Yahweh

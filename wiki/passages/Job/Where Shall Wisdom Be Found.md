@@ -179,6 +179,10 @@ king over all the sons of pride"* (41:34).
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Job 28 and Proverbs 3:13–20; value beyond gold
+  and divine ordering of the waters. See
+  [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
 - [[Job of Uz]] — Job 1:1, *"one who feared God, and turned away from evil"*, the words 28:28 turns
   into the definition of wisdom; and [[The Wager in Heaven and the Four Messengers]] and
   [[The Second Test]] — Job 1:8; 2:3, the same words in God's mouth.

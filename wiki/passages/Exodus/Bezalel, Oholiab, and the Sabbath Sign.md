@@ -130,6 +130,10 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[Wisdom's Worth and the Founding of the Earth]] — Exodus 31:3 and Proverbs 3:19–20; wisdom,
+  understanding, and knowledge in skilled making and creation. See
+  [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The divine appointment is now publicly

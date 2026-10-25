@@ -203,7 +203,22 @@ return"* (*lōʾ yəšûḇûn*) is Job's description of death, *"where I shall 
 [[If You Seek Her as Silver]] and [[Sheol]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Wisdom as a tree of life — Proverbs 3:16–18
+
+Wisdom carries length of days and becomes a tree of life for those who grasp and retain
+her. [[Wisdom's Worth and the Founding of the Earth]] brings the image associated with
+Eden into everyday instruction. Genesis 3:22–24 barred access to the tree whose fruit
+would allow unending life; Proverbs 3:18 offers a metaphor for life-giving wisdom,
+without announcing immortality or a reopening of Eden. See
+[[The Tree of Life - Eden and the New Jerusalem]].
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Length of days and wisdom as
+  a tree of life to those who retain her.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The Sabbath death sanction is repeated without an execution scene.
 

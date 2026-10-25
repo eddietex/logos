@@ -251,7 +251,22 @@ Two verses later the lecture says Yahweh may reprove the son he loves instead (3
 [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Worth more than the riches she holds — Proverbs 3:14–16
+
+[[Wisdom's Worth and the Founding of the Earth]] values wisdom above silver, gold,
+rubies, and every desired thing, then pictures riches and honor in her left hand. Wealth
+is a subordinate good, not the measure of wisdom's value. **Tension with Job:** Job 1:1,
+13–19 portrays an upright, God-fearing man losing wealth and household; Proverbs 3:16
+cannot be used as an infallible test of a person's wisdom from their possessions.
+See [[Better Than Gold - The Price of Wisdom]] and [[Retribution]].
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Wisdom surpasses precious
+  goods while holding riches as a subordinate gift.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Metals counted and allocated; mirrors traced; surplus and basin weight unstated.
 

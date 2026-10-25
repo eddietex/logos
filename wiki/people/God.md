@@ -2043,7 +2043,20 @@ the son in whom he delights"* (3:12) — the first time Proverbs says Yahweh lov
 compares him to a father. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB);
 Hebrew checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The Creator acts through wisdom — Proverbs 3:19–20
+
+In [[Wisdom's Worth and the Founding of the Earth]], Yahweh founds earth by wisdom,
+establishes heavens by understanding, and orders depths and dew through knowledge.
+He is described rather than quoted. The instruction's promise of human flourishing
+rests on this picture of wise creation, without providing the complete explanation of
+suffering withheld in Job. See [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
+Source: Proverbs 3:19–20 checked in the stored WEB, 2026-10-25.
+
 ## Timeline / key events
+
+- Proverbs 3:19–20 — retrospective praise of creation through wisdom;
+  [[Wisdom's Worth and the Founding of the Earth]].
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
 
@@ -2309,6 +2322,9 @@ Hebrew checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - Proverbs 3:5–12 — Trusted with the whole heart; makes paths straight; honoured with first fruits; reproves the son he loves, *"as a father"*. See [[Trust in Yahweh with All Your Heart]].
 
 ## Appears in
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:19–20; creator through wisdom,
+  understanding, and knowledge.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; His commands define the credited work (38:22).
 

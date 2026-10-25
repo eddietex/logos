@@ -101,7 +101,22 @@ decide whether another's need matters. See
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### All wisdom's paths are peace — Proverbs 3:17
+
+[[Wisdom's Worth and the Founding of the Earth]] presents peace as the character of
+wisdom's ways, alongside pleasantness and life. It narrates no dispute or settlement:
+the claim is broader than one successful act of reconciliation. Read beside Proverbs
+1:10–19's violent invitation, it offers an alternative picture of a desirable path.
+The claim does not require wise people to be free of all externally imposed suffering;
+Job remains the wiki's explicit counterexample to that inference.
+
+Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
+2026-10-25.
+
 ## Key passages
+
+- [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Peace characterizes wisdom's
+  paths; no particular quarrel is narrated.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; helping someone who hates you.
 

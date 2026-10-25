@@ -15443,3 +15443,56 @@ the pages: the Septuagint of Proverbs 3:4, 7, 8, and 12 (including the *"scourge
 Hebrews 12:6), the Greek of 2 Corinthians 3:3, and the sense of *šōr* at 3:8.
 
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.
+
+## [2026-10-25] ingest | Proverbs 3.13-20 — Wisdom's Worth and the Founding of the Earth
+
+Ingested [[Wisdom's Worth and the Founding of the Earth]] in unattended mode: the happiness
+of finding and retaining wisdom, her value above precious goods, life and peace in her paths,
+the tree of life, and Yahweh's founding of earth and heavens through wisdom and understanding.
+Proverbs is now 6 / 43 pericopes ingested.
+
+**Judgment calls:** retained the planned 3:13–20 boundary. The renewed address at 3:21 begins
+the next unit. Wisdom remains personification on [[Wisdom]], not a new person page; the finder
+is unnamed, and no geographical place is named. Earth, heavens, depths, and dew are handled
+under [[Creation]]. The tree is read as life-giving metaphor with an Eden resonance, without
+claiming that access to Eden or immortality has been restored. The depths may recall the
+flood, but the poem does not identify a flood event. No later pericope was ingested.
+
+**Tensions kept explicit:** Proverbs 3:16–17's riches and peace alongside Job 1:1, 13–19 and
+2:7's righteous sufferer; Proverbs 3:13's successful finder alongside Job 28:12–28's hidden
+wisdom and its human expression in fear of the Lord. These were integrated into the passage,
+the relevant themes, and the wisdom connections. Distinguishing wisdom's life-giving
+direction from a guarantee of each individual's prosperity remains an interpretation.
+The tree connection's opening was revised to give Proverbs' repeated uses their proper
+place between the Eden and Revelation narratives.
+
+**Created (2):** the passage and
+[[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
+
+**Revised content pages (19):** [[Proverbs]]; [[God]]; themes [[Wisdom]], [[Creation]],
+[[Life and Death]], [[Wealth and Possessions]], [[Blessing]], [[Strife and Peacemaking]],
+[[Retribution]]; connections [[Better Than Gold - The Price of Wisdom]] and
+[[The Tree of Life - Eden and the New Jerusalem]]; reciprocal cross-references on
+[[The Garden of Eden]], [[The Fall]], [[The Creation of the World]],
+[[Where Shall Wisdom Be Found]], [[Out of the Whirlwind]],
+[[Bezalel, Oholiab, and the Sabbath Sign]], [[If You Seek Her as Silver]], and
+[[Trust in Yahweh with All Your Heart]].
+
+**Bookkeeping (7 revised files, including this log):** books index; themes index;
+People Index F-M; Connections Index A-C and T-Z; main index; log.
+Totals: 150 passages, 179 people, 90 places, 83 themes, 392 connections.
+Overall: 2 files created and 26 existing files revised.
+
+**Sources and verification:** all eight passage verses copied directly from the stored WEB
+Proverbs text and compared programmatically. Comparisons checked in stored Genesis 1; 2:9;
+3:22–24; 7:11, Exodus 31:1–6, Job 1:1, 13–19; 2:7; 28:12–28; 38:4–7, 25–28, and Proverbs
+2:4–6; 3:1–20; 8:22–31; 11:30; 13:12; 15:4. Jeremiah 10:12–13 and Psalm 104:24 were
+retrieved as WEB JSON through bible-api.com with `translation=web` after the web reader could
+not open the API URLs; used as verified paraphrases. No unstored book was added to raw, and
+no existing raw text was changed. No new claim about exact Hebrew or Greek wording is made.
+
+**Validation:** `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets;
+62 not-yet-started book pages remain the expected baseline. Type-based totals and the
+Proverbs checklist match the dashboards. Each person, theme, and connection has exactly
+one category-index row. No passage-title collision, schema change, or harness change.
+No unresolved blocker.
