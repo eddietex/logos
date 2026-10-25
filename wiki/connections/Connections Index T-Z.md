@@ -85,6 +85,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
 | [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 · [[Bezalel's Workmen and the Surplus]] · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
+| [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] | thread | Proverbs 1:1 · Proverbs 10:1 · Proverbs 25:1 · Proverbs 22:17; 24:23; 30:1; 31:1 · 1 Kings 3:9, 12 · 1 Kings 4:29–34 · Job 1:3 · Ecclesiastes 1:1; 12:9 · Song of Solomon 1:1 · Matthew 12:42 |
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 · Job 40:2 |
 | [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |

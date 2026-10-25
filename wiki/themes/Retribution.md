@@ -122,6 +122,10 @@ fatherless"*. **The punishment makes the oppressor's household into the people h
 
 ## Key passages
 
+- [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the preface of the book where the doctrine's classic
+  sentences live. It promises to teach wisdom, not to explain every case; read after Job, its sayings
+  describe the ordinary course of things rather than pass verdicts on a particular sufferer
+
 - [[The Stolen Blessing]] — Genesis 27:1–45, and **the theme in the one form Genesis will actually
   narrate: measure for measure, unannounced.** Jacob passes himself off as the firstborn to a father
   who cannot see, and twenty years later an elder sister is passed off as a younger one to him in the

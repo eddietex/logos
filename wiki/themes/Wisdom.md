@@ -68,8 +68,10 @@ close to the book's whole point about who may speak for the tradition. See
 - **Job 28:1–28** — [[Where Shall Wisdom Be Found]]: mining the earth for silver and iron, and finding that wisdom is
   not among the things that can be mined.
 - **Job 38–41** — the examination.
-- **Proverbs 1:7; 8:22–31; 9:10** — the fear of Yahweh, and Wisdom personified, brought forth before
-  the hills and playing before God at the creation.
+- **Proverbs 1:1–7** — [[The Purpose of the Proverbs]]: the book's preface surveys wisdom's whole field
+  and closes on the fear of Yahweh as *"the beginning of knowledge"*.
+- **Proverbs 8:22–31; 9:10** *(not yet ingested)* — Wisdom personified, brought forth before the hills
+  and playing before God at the creation, and the motto repeated.
 - **Ecclesiastes 1:12–18; 7:23–24; 9:13–18** — wisdom pursued honestly to the end of its reach:
   *"in much wisdom is much grief"*.
 - **Jeremiah 8:8–9; 9:23–24** — the wise put to shame, and the only boast permitted.
@@ -164,7 +166,24 @@ no training or that every Israelite performed every task.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The preface of Proverbs — Proverbs 1:1–7
+
+Proverbs opens by defining its subject through accumulation: wisdom, instruction, understanding, wise
+dealing, *"righteousness, justice, and equity"*, prudence, knowledge, discretion, learning, sound counsel
+(1:2–5). Wisdom here is a field, not a faculty, and it is moral as well as practical. It is also
+**received** — *lāqaḥat*, *to receive* (1:3), and *leqaḥ*, *learning* (1:5), share a root — and it is
+offered to the simple and the young and to the already wise, who *"may hear, and increase in learning"*.
+Verse 4's *ʿormâ*, *prudence*, is the root of the serpent's *ʿārûm* (Genesis 3:1) and of the
+*"craftiness"* of Job 5:13: shrewdness claimed for wisdom. Verse 6 promises to teach the reading of
+proverb, parable, and riddle. The motto follows (1:7). The book's heading attaches all of it to
+[[Solomon]], whose wisdom 1 Kings 3–4 describes as asked for and given. Hebrew checked against Sefaria's
+*Miqra according to the Masorah*. See [[The Purpose of the Proverbs]] and
+[[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
+
 ## Key passages
+
+- [[The Purpose of the Proverbs]] — Proverbs 1:1–7; wisdom's vocabulary surveyed in one sentence, offered
+  to simple and wise alike, and grounded in the fear of Yahweh
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Oholiab’s practical skills named beside credited work (38:23).
 
@@ -321,10 +340,13 @@ texts, 2026-10-25.
 - [[Judgment]] — what wisdom claims to be able to anticipate
 - [[Creation]] — the order wisdom reads, and Proverbs 8's setting
 - [[Righteousness]] — the outcome wisdom promises
+- [[Folly]] — wisdom's opposite; in Proverbs 1:7, contempt for what wisdom offers
 - [[The Fear of God]] — called wisdom's beginning (Proverbs 1:7) and, at Job 28:28, its definition —
   which is Job 1:1 restated after twenty-seven chapters
 
 ## Related people
+
+- [[Solomon]] — the king to whom God gave wisdom by request, and in whose name Proverbs opens
 
 - [[Bezalel]] and [[Oholiab]] — named sanctuary makers in Exodus 31.
 

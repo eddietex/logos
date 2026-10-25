@@ -15,7 +15,8 @@ tags: [connection]
 - **Job 37:24** — Elihu's last sentence: *"Therefore men revere him. He doesn't regard any who are wise of
   heart."* The motto's two halves set against each other — [[Elihu on God's Greatness]]
 - **Proverbs 1:7** — *"The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom
-  and instruction."* The motto at the head of Proverbs. Not yet ingested.
+  and instruction."* The motto at the head of Proverbs, closing its preface —
+  [[The Purpose of the Proverbs]]
 - **Proverbs 9:10** — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One
   is understanding."* The same motto closing the book's first section. Not yet ingested.
 - **Proverbs 15:33** — *"The fear of Yahweh teaches wisdom."* Not yet ingested.
@@ -42,6 +43,14 @@ wisdom; in Job, coming after a poem that has established that wisdom proper is G
 cannot be found or bought, it is the whole of what a human being receives. **Proverbs offers a
 curriculum. Job 28 offers a substitute for one** — and the difference is the book of Job's argument
 with the tradition in a single grammatical change.
+
+**In Proverbs the motto closes a preface and opens an antithesis.** Proverbs 1:7 is the first actual
+proverb in the book, after six verses of purpose clauses, and the first use of the divine name; its second
+line — *"but the foolish despise wisdom and instruction"* — takes up the pair *ḥokmâ ûmûsār* that verse 2
+opened with, so that the preface ends with the same offer refused. The fear of Yahweh is set against
+contempt, not against ignorance. *Rēʾšît*, *beginning*, is the word of Genesis 1:1 and of Wisdom's claim in
+Proverbs 8:22, and can mean first in time or first in rank; 9:10 repeats the sense with a different word,
+*təḥillâ* (Hebrew checked against Sefaria's *Miqra according to the Masorah*). See [[Folly]].
 
 **Job 28:28 is Job 1:1 made into a definition.** The narrator's *yərēʾ ʾĕlōhîm wəsār mērāʿ* —
 *fearing God and turning from evil* — becomes *yirʾat ʾădōnāy … wəsûr mērāʿ*. The participles become

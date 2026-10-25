@@ -2000,6 +2000,17 @@ fire is visible by night to the whole people (40:36–38).
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The beginning of knowledge — Proverbs 1:1–7
+
+Proverbs names God once in its preface, in its motto: *"The fear of Yahweh is the beginning of
+knowledge"* (1:7). The book's first theological statement is not about what God does but about how a
+human being stands toward him, and it uses the covenant name, *Yahweh*, rather than the generic
+*ʾĕlōhîm* — an international genre given an Israelite root. Job 28:28, by contrast, uses *ʾădōnāy*.
+God neither speaks nor acts in the unit.
+
+See [[The Purpose of the Proverbs]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew
+checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2258,6 +2269,8 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
   sanctuary; his command defines the work.
 
 - Exodus 40:1–38 — Commands the erection and consecration; fills the dwelling with glory and guides Israel. See [[The Tabernacle Raised and the Glory]].
+
+- Proverbs 1:7 — Named in the motto as the one whose fear is the beginning of knowledge. See [[The Purpose of the Proverbs]].
 
 ## Appears in
 
@@ -2693,6 +2706,8 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 - [[The Work Completed]] — Exodus 39:32–43; Yahweh’s command is the standard of the completed work.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Commands the erection and consecration; fills the dwelling with glory and guides Israel.
+
+- [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *Yahweh*, named once, in the motto (1:7); no speech or act.
 
 ## Related people
 

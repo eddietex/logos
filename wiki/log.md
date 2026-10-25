@@ -15115,3 +15115,71 @@ existing Exodus file as designed; no raw source was changed or added.
 book pages remain the expected baseline. `git diff --check` is clean. Raw texts, schema,
 skill instructions, scripts, harness, and controller files are unchanged. No operational
 blocker remains; interpretive limits are stated on the relevant pages.
+
+## [2026-10-25] ingest | Proverbs 1.1-7 — The Purpose of the Proverbs
+
+Unattended run (`/ingest auto`, no argument). No book was `in-progress` — Exodus completed in the
+previous ingest — so the target fell to the `## Priority` list in `wiki/books/index.md`, whose first
+entry not yet complete is [[Proverbs]]. `scripts/fetch-book.sh "Proverbs"` fetched all 31 chapters
+(915 verses) into `raw/bible/Proverbs.md`; no existing raw file was touched.
+
+### Opening the book
+
+`wiki/books/Proverbs.md` was created from the template with a 43-pericope plan. Chapters 1–9 and
+30–31 are divided at their own discourse boundaries (each *"My son"* lecture, each speech of Wisdom,
+each heading). **Judgment call worth reviewing:** the sentence collections of 10:1–22:16 and 25–29
+have no narrative seams, so they are queued a chapter at a time — 22:1–16 closing the first collection
+at the 22:17 heading — each titled from a representative saying. The words of the wise (22:17–24:34)
+are split into four units at 23:12, 24:3, and the 24:23 heading. Any of these may be redrawn as the
+collections are read closely. The Overview reads Proverbs explicitly *after* Job: its sentences
+describe the ordinary course of things, which Job's friends turned into verdicts.
+
+### The passage
+
+`wiki/passages/Proverbs/The Purpose of the Proverbs.md` takes the preface as one sentence: heading
+(1:1), five purpose clauses (1:2–6), motto (1:7). The page argues that the purpose clauses survey
+wisdom as a field, moral as well as practical (*ṣedeq ûmišpāṭ ûmêšārîm*, 1:3), received before it is
+possessed (*lāqaḥat* / *leqaḥ*), offered to simple and wise alike (1:4–5), and including *ʿormâ*, the
+serpent's shrewdness claimed for good (Genesis 3:1; Job 5:13). Verse 6 is read as a promise to train
+the reader in indirect speech. In 1:7, *rēʾšît* is read as first in time and rank, Job 28:28's
+stronger *is* is contrasted, and the fool is defined by contempt for the *ḥokmâ ûmûsār* that verse 2
+offered.
+
+### Pages
+
+- **Created (6):** the passage; the book page; [[Solomon]]; [[David]] (a placeholder — he appears only
+  in Solomon's patronym, but has been mentioned in two connection titles without a page and will recur
+  constantly); the theme [[Folly]] (created now because 1:7 sets up wise/foolish as the book's central
+  contrast; it also gathers Job 2:10, 5:2–3 and 42:8, where God calls the friends' speech *nəbālâ*); and
+  [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]], which follows the book's own
+  headings on attribution and records the 1 Kings 11 tension without resolving it.
+- **Revised content pages (9):** [[God]] (new section, timeline, appears-in); [[Wisdom]] (new
+  development section, key passage, related theme and person); [[The Fear of God]] (new section, key
+  passage, related theme); [[Righteousness]], [[Language and Speech]], [[Kingship and Empire]] (with
+  Solomon and David as related people), [[Retribution]] (key passages); and
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] (Proverbs 1:7 linked as
+  ingested, and a paragraph on the motto's place in the preface).
+- **Bookkeeping:** `wiki/books/index.md` (Proverbs in-progress, 1 / 43); People Index A-E and N-Z;
+  the themes index (Folly added, Wisdom and The Fear of God rows extended); Connections Index T-Z;
+  `wiki/index.md` counts — 4 books started (3 complete), 145 passages, 179 people, 90 places,
+  83 themes, 381 connections.
+
+No place page was created for Israel, named in 1:1 as Solomon's kingdom rather than as a narrative
+location; the passage page says so. No title collision, schema change, or harness change was needed.
+
+### Sources and verification
+
+The seven passage verses were compared mechanically with `raw/bible/Proverbs.md` and match exactly;
+other Proverbs verses quoted (8:22; 9:10, 13; 10:1; 12:15; 14:16; 15:16, 33; 16:8; 17:28; 18:2; 19:1;
+22:17–20; 24:23; 25:1; 26:4–5, 11; 30:1, 15; 31:1, 10) were checked in the same file, and Genesis and
+Job quotations in the stored WEB. Quotations from unstored books — 1 Kings 3:5, 9, 12; 4:29–34; 11:4;
+2 Samuel 7:12–13; 12:24–25; 1 Samuel 16:13; Nehemiah 13:26; Psalm 14:1; 53:1; 111:10; Ecclesiastes 1:1;
+12:9; Song of Solomon 1:1; Deuteronomy 4:6; Judges 14:12; Numbers 12:8; Matthew 6:29; 7:26; 12:42;
+Luke 12:20; 1 Corinthians 1:18, 25, 30 — were fetched verse by verse from bible-api.com (WEB) and not
+stored in `raw/`. Hebrew claims (Proverbs 1:1–7; 1:22; 8:22; 9:10; 10:1; Genesis 1:1; 3:1; Job 2:10;
+5:2–3, 13; 28:28; 42:8; Psalm 14:1; 111:10) were checked against Sefaria's *Miqra according to the
+Masorah*; lexical glosses of word ranges are flagged on the pages as standard descriptions, not edition
+readings.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; the not-yet-started book
+baseline is now 62.

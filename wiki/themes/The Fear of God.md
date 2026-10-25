@@ -78,7 +78,7 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
   test you, and that his fear may be before you, that you won't sin."* Do not fear; fear.
 - **Deuteronomy 10:12** — fear, walk, love, serve: the four verbs given as one demand.
 - **Proverbs 1:7; 9:10; 8:13** — the beginning of knowledge and of wisdom, and defined as *"to hate
-  evil"*.
+  evil"*. See [[The Purpose of the Proverbs]].
 - **Psalm 111:10; 34:11; 25:14** — the same formula in worship, and the promise that *"the
   friendship of Yahweh is with those who fear him."*
 - **Ecclesiastes 12:13** — *"Fear God and keep his commandments, for this is the whole duty of
@@ -133,7 +133,20 @@ of either faithfulness or rebellion.
 
 See [[The Shining Face of Moses]].
 
+### The motto of Proverbs — Proverbs 1:7
+
+*"The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom and instruction."* The
+first proverb in the book and the first use of the divine name, at the close of a preface that has
+offered wisdom to everyone. *Rēʾšît* can mean first in time or first in rank, and both senses fit: the
+fear of Yahweh is where knowledge starts and what governs it. **Its opposite is contempt, not
+ignorance** — the fool has been offered *"wisdom and instruction"* (1:2) and despises them. Job 28:28 goes
+further, making the fear of the Lord wisdom itself rather than its beginning. Hebrew checked against
+Sefaria's *Miqra according to the Masorah*. See [[The Purpose of the Proverbs]] and [[Folly]].
+
 ## Key passages
+
+- [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the motto placed at the head of Proverbs, opposed by
+  the fool's contempt
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Fear of approaching the shining mediator gives way to hearing.
 
@@ -331,6 +344,8 @@ See [[The Shining Face of Moses]].
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will send my terror before you"*.
 
 ## Related themes
+
+- [[Folly]] — the refusal the motto names in its second line (Proverbs 1:7)
 
 - [[Wisdom]] — of which this is called the beginning, the whole, and the definition
 - [[Righteousness]] — the verdict that Job 1:1 pairs it with

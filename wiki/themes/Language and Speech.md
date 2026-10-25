@@ -128,6 +128,10 @@ See [[The Shining Face of Moses]].
 
 ## Key passages
 
+- [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *"a proverb, and parables, the words and riddles of the
+  wise"* (1:6) — *māšāl*, *məlîṣâ*, *ḥîdâ*, three forms of indirect speech, and a book that promises to
+  teach its reader how to hear them
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Conversation changes Moses; its commands are passed to the people.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; false reports and other gods.

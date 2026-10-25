@@ -78,6 +78,10 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
 
 ## Key passages
 
+- [[The Purpose of the Proverbs]] — Proverbs 1:1; a king's book — wisdom attached to the throne of
+  [[Solomon]], *"the son of David, king of Israel"*, and to the justice 1 Kings 3:9 says he asked a heart
+  for
+
 - [[The Table of Nations]] — Genesis 10:8–12: the first kingdom in Scripture, and the two capitals of
   the exile founded in the same breath
 - [[The Tower of Babel]] — Genesis 11:1–9: the first collective project, in the first kingdom's
@@ -231,6 +235,8 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
 
 ## Related people
 
+- [[Solomon]] — the king whose wisdom heads Proverbs (1:1)
+- [[David]] — named as Solomon's father (Proverbs 1:1)
 - [[Nimrod]]
 - [[The Nephilim]]
 - [[Chedorlaomer]] — the empire's side of Genesis 14

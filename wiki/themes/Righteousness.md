@@ -118,6 +118,9 @@ See [[Justice, Sabbaths, and Feasts]].
 
 ## Key passages
 
+- [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *"righteousness, justice, and equity"* (*ṣedeq
+  ûmišpāṭ ûmêšārîm*, 1:3) named among the things wisdom teaches — skill and goodness in one curriculum
+
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the innocent in court.
 
 - [[Noah and the Flood]] — *ṣaddîq*'s first occurrence in Scripture, declared of a man before he is
