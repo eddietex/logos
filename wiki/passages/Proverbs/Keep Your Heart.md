@@ -146,6 +146,8 @@ No named geographical place. The path is a metaphor for a manner of life.
   where teaching is kept.
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; the next lecture opens *"Turn your ear"*
   and turns to the adulteress's lips and feet, which go down to death off the level path of 4:26.
+- [[The Lamp of the Commandment]] — Proverbs 6:20–21; *nəṣōr*, the verb of 4:23, now for the
+  father's commandment, bound on the heart.
 
 ## Notes
 

@@ -293,6 +293,8 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 - Psalm 94:12 · Hebrews 12:5–6 · Revelation 3:19 —
   [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]].
 - [[The Two Paths]] — Proverbs 4:10–11; years of life and straight paths again.
+- [[The Lamp of the Commandment]] — Proverbs 6:21; the binding of 3:3 moved to the heart itself, and
+  Deuteronomy 6:7's walking and lying down (6:22).
 
 ## Notes
 

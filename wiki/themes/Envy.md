@@ -95,6 +95,16 @@ that visible prosperity proves righteousness.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### The husband's jealousy — Proverbs 6:34
+
+*"For jealousy arouses the fury of the husband"* (6:34, *qinʾâ ḥămaṯ-gāḇer*). Here *qinʾâ* is
+plainly jealousy, not envy — a husband's claim on his own wife, the passion of the *"spirit of
+jealousy"* in Numbers 5:14 (*rûaḥ-qinʾâ*) and of Song of Solomon 8:6, *"Jealousy is as cruel as
+Sheol"*. Proverbs gives it no verdict; it is the danger the adulterer brings on himself. The same
+lecture forbids the other desire, coveting (*taḥmōḏ*, 6:25), which Exodus 20:17 keeps distinct. See
+[[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.
@@ -169,6 +179,8 @@ The discussion added here makes no claim about exact source-language forms.
 
 - [[The Ten Commandments]] — Exodus 20:5, 17; God’s claim to exclusive worship differs from coveting
   a neighbor’s household
+- [[The Lamp of the Commandment]] — Proverbs 6:25, 34; coveting a neighbour's wife forbidden, and
+  the husband's *qinʾâ*
 
 ## Related themes
 

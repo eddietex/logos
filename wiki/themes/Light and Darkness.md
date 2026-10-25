@@ -180,6 +180,15 @@ against the light"*, but without the fall; see
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### The commandment as a lamp — Proverbs 6:23
+
+*"For the commandment is a lamp, and the law is light"* (6:23, *nēr miṣwâ wəṯôrâ ʾôr*) — the pair of
+Psalm 119:105, *"Your word is a lamp to my feet, and a light for my path"*, in the same order. The
+dawning path of 4:18 was light on the road; this is a lamp carried by the walker, and it is given
+for one danger in the dark, the married woman of 6:24. See [[The Lamp of the Commandment]] and
+[[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]]. Source: stored WEB Proverbs 6; Hebrew read
+from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Two Paths]] — Proverbs 4:18–19; the righteous path as brightening dawn, the wicked way as darkness that trips
@@ -304,6 +313,8 @@ See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Fire in the cloud by night makes the continuing presence visible to all Israel.
 - [[If You Seek Her as Silver]] — Proverbs 2:13; *the ways of darkness* walked by the perverse
+- [[The Lamp of the Commandment]] — Proverbs 6:23; *"the commandment is a lamp, and the law is
+  light"*
 
 ## Related themes
 

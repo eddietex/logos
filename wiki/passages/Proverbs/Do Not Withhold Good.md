@@ -145,6 +145,8 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 - [[Why Do the Wicked Live]] — Job 21:7–9's prosperous wicked households complicate 3:33.
 - [[The Arrows of the Almighty]] — Job 7:3–4, 13–14's terrified nights complicate 3:24.
 - [[The Two Paths]] — Proverbs 4:12, 16; the unstumbling foot and sweet sleep, against the sleepless wicked.
+- [[The Lamp of the Commandment]] — Proverbs 6:22; the walking and the sleeping of 3:23–24 given a
+  guardian: the teaching that leads and keeps watch.
 
 ## Notes
 

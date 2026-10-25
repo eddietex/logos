@@ -102,3 +102,9 @@ was verified in WEB at `bible-api.com` on 2026-10-23. See [[A Place to Flee - Ex
   given in another's place and the wiki notes that *nothing is paid to anyone*. Here the word *ransom* is
   used, and still no payer is named. Between them the Old Testament holds both halves of what Mark 10:45
   puts together: a substitute provided by God, and a price.
+
+**A ransom refused.** Proverbs 6:35 is the case where *kōp̄er* is offered by a man and turned down:
+the wronged husband *"won't regard any ransom, neither will he rest content, though you give many
+gifts"*. It puts adultery, in the husband's eyes, with the murder for which Numbers 35:31 forbids a
+ransom. See [[The Lamp of the Commandment]] and
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]].

@@ -387,6 +387,9 @@ a festival, not an object. The wiki adopts neither reading.
 - Joshua 4:6–7, 21–22 — *"when your children ask … What do you mean by these stones?"* *(not yet ingested)*
 - Luke 2:22–24 — Jesus presented, *"Every male who opens the womb shall be called holy to the Lord"* —
   [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]
+- [[The Lamp of the Commandment]] — Proverbs 6:21–22; the sign on the hand and between the eyes
+  (13:9) becomes, by way of Deuteronomy 6:8, teaching bound on the heart and neck:
+  [[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]].
 
 ## Notes
 

@@ -118,6 +118,14 @@ does, *"His eyes are on their ways"*. The verb *"examines"* (*məpallēs*) is th
 the strange woman, who does not weigh the way of life (*təpallēs*), and 4:26 of the son's level
 path (*pallēs*). See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### Her eyelids — Proverbs 6:25
+
+*"Don't lust after her beauty in your heart, neither let her captivate you with her eyelids"*
+(6:25). The seeing is the woman's as much as the son's, as in Genesis 39:7, where *"his master's
+wife set her eyes on Joseph"*; the coveting is located in the heart. See
+[[The Lamp of the Commandment]] and [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]]. Source:
+stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:21; every way of man before Yahweh's eyes
@@ -407,6 +415,8 @@ path (*pallēs*). See [[The Strange Woman and the Wife of Your Youth]]. Source: 
 - [[The Blood of the Covenant]] — Exodus 24:10–11; *"They saw the God of Israel"*, and ate and drank
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses’ seeing assesses conformity rather than recording a vision.
+- [[The Lamp of the Commandment]] — Proverbs 6:25; beauty coveted in the heart, and eyelids that
+  capture
 
 ## Related themes
 

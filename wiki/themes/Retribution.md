@@ -247,6 +247,15 @@ Two of the four units in Proverbs 6:1–19 end in sudden ruin: poverty arriving 
 retribution statements, and the wiki reads them alongside Job as it has throughout. See
 [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Touched back — Proverbs 6:29, 33
+
+*"Whoever touches her will not be unpunished"* (6:29, *hannōḡēaʿ*); *"He will get wounds and
+dishonor"* (6:33, *negaʿ*, a stroke, from the same root). The consequence takes the shape of the
+act, as the fire burns the one who carries it (6:27–28). The enforcer is the husband, not a court,
+and the wiki reads 6:29–35 as describing what adultery brings, not as a claim that every disgraced
+man was an adulterer. See [[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew
+read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:11, 15; sudden poverty and sudden breaking
@@ -502,6 +511,8 @@ retribution statements, and the wiki reads them alongside Job as it has througho
 - [[Wisdom Calls in the Street]] — Proverbs 1:31–32; refusers filled with their own counsel; the tensions with Job 9:23 and Deuteronomy 4:29 recorded
 - [[If You Seek Her as Silver]] — Proverbs 2:7, 21–22; the upright shielded and kept in the land, the wicked torn out; the tension with Job 1:1 recorded
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; long life, health, and full barns promised, and reproof for the son Yahweh loves
+- [[The Lamp of the Commandment]] — Proverbs 6:27–35; fire that burns its carrier, and the toucher
+  touched back
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

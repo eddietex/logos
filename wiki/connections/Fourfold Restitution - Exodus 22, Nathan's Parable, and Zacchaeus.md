@@ -14,7 +14,7 @@ tags: [connection]
   because he did this thing, and because he had no pity!"*
 - **Luke 19:8** — Zacchaeus: *"Behold, Lord, half of my goods I give to the poor. If I have
   wrongfully exacted anything of anyone, I restore four times as much."*
-- **Proverbs 6:30–31** — *"Men don't despise a thief, if he steals to satisfy himself when he is
+- **Proverbs 6:30–31** — [[The Lamp of the Commandment]]: *"Men don't despise a thief, if he steals to satisfy himself when he is
   hungry: but if he is found, he shall restore seven times. He shall give all the wealth of his
   house."*
 
@@ -44,7 +44,12 @@ poor.
 found, he shall restore seven times"* (6:31). The figure is sevenfold, not the Exodus rate; it may
 be a proverbial number for full repayment rather than a legal tariff, and the second line,
 *"all the wealth of his house"*, points the same way. **The wiki does not resolve how Proverbs'
-figure relates to Exodus 22.** The context of the saying (6:32–35, on adultery) is not checked here.
+figure relates to Exodus 22.** The context, now ingested at [[The Lamp of the Commandment]], is an
+argument from lesser to greater: the hungry thief is the excusable case, and even he must pay; the
+adulterer of 6:32–35 has taken what no payment returns, and the husband *"won't regard any
+ransom"* (6:35). The figure *šiḇʿāṯāyim* is the number of Genesis 4:15, *"vengeance will be taken on
+him sevenfold"*; the verb, *yəšallēm*, is Exodus 22's (Hebrew read from Sefaria's *Miqra according
+to the Masorah*, 2026-10-25).
 
 ## Significance
 

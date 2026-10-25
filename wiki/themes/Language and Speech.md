@@ -181,6 +181,14 @@ feet, and fingers (6:13). Of the seven things Yahweh hates, two are speech — *
 and *"a false witness who utters lies"* (6:17, 19). See [[The Surety, the Sluggard, and the Seven Abominations]].
 Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The teaching that talks — Proverbs 6:22–24
+
+The father's words, once kept, speak back: *"When you awake, it will talk with you"* (6:22,
+*ṯəśîḥeḵā*). Deuteronomy 6:7 had Israel talk of the commandments; here the commandment talks to the
+son. What it guards him from is again speech — *"the flattery of the wayward wife's tongue"* (6:24,
+*ḥelqaṯ lāšôn*, *smoothness of tongue*). See [[The Lamp of the Commandment]]. Source: stored WEB
+Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:2, 12–13, 17, 19; trapped by one's words; the perverse mouth; the lying tongue
@@ -409,6 +417,8 @@ Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to th
 - [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler
 - [[The Blood of the Covenant]] — Exodus 24:4, 7, 12; the words written, read aloud, and promised on stone
 - [[If You Seek Her as Silver]] — Proverbs 2:1, 6, 12, 16; the father's words and God's mouth against perverse speech and smooth words
+- [[The Lamp of the Commandment]] — Proverbs 6:22, 24; the teaching that talks with the son, against
+  the smooth tongue
 
 ## Related themes
 

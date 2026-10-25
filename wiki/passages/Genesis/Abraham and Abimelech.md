@@ -402,6 +402,8 @@ design of a book that tells things twice on purpose. See [[The Names of God]].
 - Psalm 105:14–15 — *"He allowed no one to do them wrong. Yes, he reproved kings for their sakes:
   'Don't touch my anointed ones. Do my prophets no harm.'"* The Psalter's own summary of Genesis 12
   and 20, and it takes 20:7's word for it.
+- [[The Lamp of the Commandment]] — Proverbs 6:29; *"Whoever touches her"*, the verb of 20:6's *"I
+  didn't allow you to touch her"*.
 
 ## Notes
 

@@ -94,6 +94,14 @@ admitting it too late, *"at the brink of utter ruin, among the gathered assembly
 *"for lack of instruction"* and goes astray *"in the greatness of his folly"* (5:23, *ʾiwwaltô*).
 See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### Void of understanding — Proverbs 6:32
+
+*"He who commits adultery with a woman is void of understanding"* (6:32): *ḥăsar-lēḇ*, *lacking
+heart* — the phrase Proverbs 7:7 will give the young man who walks toward the strange woman's house.
+The folly is a failure to reckon: he *"destroys his own soul"*, and the reproach *"will not be wiped
+away"* (6:32–33). See [[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew read
+from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:12–14, 23; hated instruction confessed too late,
@@ -108,6 +116,8 @@ See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverb
 - [[The Restoration of Job]] — Job 42:8; the friends' speech judged *nəbālâ*
 - [[Do Not Consent to Sinners]] — Proverbs 1:10; the simple as the enticeable, warned before they are recruited
 - [[Wisdom Calls in the Street]] — Proverbs 1:22, 32; the simple, the mockers, and the fools named together, loving their own condition, and killed by their own turning away
+- [[The Lamp of the Commandment]] — Proverbs 6:32; the adulterer *"void of understanding"*,
+  *ḥăsar-lēḇ*
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

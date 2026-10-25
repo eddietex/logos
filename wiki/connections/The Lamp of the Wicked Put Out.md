@@ -105,3 +105,8 @@ turned into a verdict; [[Zophar's Second Speech]], which performs the same opera
 later with different imagery; [[The Prosperity of the Wicked]], for Job's empirical answer and the
 psalms that work the same problem; and the themes [[Retribution]], [[Remembrance]] (the
 extinguished lamp beside the erased name of 18:17), [[Life and Death]], and [[Judgment]].
+
+**The lamp kept lit.** Proverbs 6:23 gives the positive form of the image: *"For the commandment is
+a lamp, and the law is light"* (*nēr miṣwâ wəṯôrâ ʾôr*), the lamp carried by the son through the
+night. See [[The Lamp of the Commandment]] and
+[[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]].

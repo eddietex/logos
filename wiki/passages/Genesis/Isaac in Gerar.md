@@ -703,6 +703,8 @@ use.
   26:5 sits inside.
 - Hebrews 11:9, 20 — Isaac as a sojourner in the land of promise, and as the man who blessed his sons
   concerning things to come.
+- [[The Lamp of the Commandment]] — Proverbs 6:29; *hannōḡēaʿ*, *"Whoever touches her"*, the
+  participle of 26:11's decree.
 
 ## Notes
 

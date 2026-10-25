@@ -76,6 +76,17 @@ The passage should not be reduced either to unrestricted private revenge or to a
 payments alone. See [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].
 See [[Laws of Violence and Injury]].
 
+### The day of vengeance — Proverbs 6:34–35
+
+The wronged husband of Proverbs 6 is an avenger: *"For jealousy arouses the fury of the husband. He
+won't spare in the day of vengeance"* (6:34, *yôm nāqām*), and he will take no *kōp̄er*, ransom, and
+no gifts (6:35). Proverbs neither commends nor condemns his vengeance; it is a consequence the son
+is warned of, and the lecture names no court beside it, though the law sets death for adultery
+(Leviticus 20:10). The sevenfold of the thief's repayment (6:31) uses Cain's number (Genesis 4:15).
+See [[The Lamp of the Commandment]] and
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Source:
+stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Stolen Blessing]] — Genesis 27:41–45, **the fourth fratricide in the book and the only one
@@ -134,6 +145,8 @@ See [[Laws of Violence and Injury]].
   say *"I will"*** (17:14; WLC)
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[The Lamp of the Commandment]] — Proverbs 6:34–35; the husband's *"day of vengeance"*, which no
+  ransom buys off
 
 ## Related themes
 

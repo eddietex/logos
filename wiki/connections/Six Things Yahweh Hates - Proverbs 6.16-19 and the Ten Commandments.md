@@ -18,8 +18,8 @@ tags: [connection]
 - **Exodus 23:1, 7** — [[Justice, Sabbaths, and Feasts]]: *"You shall not spread a false report.
   Don't join your hand with the wicked to be a malicious witness"*; *"Keep far from a false charge,
   and don't kill the innocent and righteous: for I will not justify the wicked."*
-- **Proverbs 6:20–35** *(next pericope, not yet ingested)* — the lecture on the neighbour's wife
-  (6:29) and the thief who must restore sevenfold (6:30–31).
+- **Proverbs 6:20–35** — [[The Lamp of the Commandment]]: the lecture on the neighbour's wife
+  (6:25, 29, 32) and the thief who must restore sevenfold (6:30–31).
 
 ## Analysis
 
@@ -75,3 +75,12 @@ WEB. Hebrew of Proverbs 6:16–19, 3:32, 16:5, and Exodus 20:13 (MT); 23:1 read 
 according to the Masorah*, 2026-10-25. The further uses for false weights and lying lips (11:1;
 12:22, *"an abomination to Yahweh"*) were checked in the stored WEB; those chapters are not yet
 ingested.
+
+**Update (Proverbs 6:20–35 ingested).** The next lecture bears out the reading above and adds a
+fifth commandment. It names adultery with the seventh commandment's verb (*nōʾēp̄*, 6:32; *lōʾ
+ṯinʾāp̄*, Exodus 20:14), theft with the eighth's (*gannāḇ*, *yiḡnôḇ*, 6:30), and coveting with the
+tenth's: *"Don't lust after her beauty in your heart"* (6:25, *ʾal-taḥmōḏ*; *lōʾ-ṯaḥmōḏ ʾēšeṯ
+rēʿeḵā*, Exodus 20:17). Chapter 6 thus touches the sixth through tenth commandments, none quoted as
+law; the wiki still makes no claim that the editors arranged it so. See
+[[The Lamp of the Commandment]]. Hebrew read from Sefaria's *Miqra according to the Masorah*,
+2026-10-25.

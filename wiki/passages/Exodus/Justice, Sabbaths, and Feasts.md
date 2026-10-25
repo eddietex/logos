@@ -151,6 +151,8 @@ commands for Israel's life and worship, not a report that the people have alread
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]].
 - [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]] —
   23:19's first fruits (*rēʾšîṯ*) as Proverbs 3:9's honour of Yahweh with all one's increase.
+- [[The Lamp of the Commandment]] — Proverbs 6:35; *šōḥaḏ*, the bribe of 23:8, offered to a wronged
+  husband who will not take it.
 
 ## Notes
 

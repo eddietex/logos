@@ -310,6 +310,18 @@ See [[Wisdom Handed On - Proverbs 4 and Exodus 13]] and
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### The lamp of the commandment — Proverbs 6:20–23
+
+The father's *miṣwâ* and the mother's *tôrâ* are to be bound *"continually on your heart"* and
+around the neck (6:20–21), and then they act: the teaching leads the son when he walks, keeps watch
+while he sleeps, and talks with him when he wakes (6:22). The verb *bind* (*qšr*), the heart, and
+the round of walking and lying down are those of Deuteronomy 6:6–8, where Israel is to talk of the
+commandments; in Proverbs the commandment talks to the son. Then the pair without possessives: *"For
+the commandment is a lamp, and the law is light"* (6:23). See [[The Lamp of the Commandment]],
+[[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]], and
+[[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]]. Source: stored WEB Proverbs 6; Hebrew read
+from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Get Wisdom]] — Proverbs 4:1–9; A father transmits the instruction he received and kept.
@@ -376,6 +388,8 @@ See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:8; the mother's *tôrâ* and the father's *mûsār*
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–3; *tôrâ* and *miṣwâ* kept by the heart and written on its tablet
+- [[The Lamp of the Commandment]] — Proverbs 6:20–23; the commandment and the teaching bound on the
+  heart, walking, sleeping, and waking with the son, a lamp and a light
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

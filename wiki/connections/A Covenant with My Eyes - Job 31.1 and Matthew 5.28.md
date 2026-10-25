@@ -20,7 +20,7 @@ tags: [connection]
   own eyes, after which you use to play the prostitute"*
 - **2 Samuel 11:2** *(not yet ingested)* — David on the roof: *"he saw a woman bathing, and the woman
   was very beautiful to look at"*
-- **Proverbs 6:25** *(not yet ingested)* — *"Don't lust after her beauty in your heart, neither let her
+- **Proverbs 6:25** — [[The Lamp of the Commandment]]: *"Don't lust after her beauty in your heart, neither let her
   captivate you with her eyelids."*
 - **Matthew 5:27–29** *(not yet ingested)* — *"everyone who gazes at a woman to lust after her has
   committed adultery with her already in his heart. If your right eye causes you to stumble, pluck it
@@ -63,3 +63,10 @@ public crimes against the poor (22:6–9); Job swears to a purity they never tho
   last denial with *"if like Adam I have covered my transgressions"* (31:33). See
   [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]], [[Sexual Sin]], and
   [[Seeing and Being Seen]].
+
+**Update (Proverbs 6:25 ingested).** The verb of *"Don't lust after her beauty in your heart"* is
+*ʾal-taḥmōḏ*, the tenth commandment's *covet*, and the eyes in the verse are hers — *"neither let
+her captivate you with her eyelids"* — so Proverbs puts the danger in both looks at once. See
+[[The Lamp of the Commandment]] and
+[[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]]. Hebrew read from
+Sefaria's *Miqra according to the Masorah*, 2026-10-25.

@@ -13,7 +13,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 |---|---|---|
 | [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]] | quotation | Exodus 3:6 · Matthew 22:31–32 · Mark 12:26 · Luke 20:37–38 |
 | [[I AM WHO I AM - Exodus 3.14 and John 8.58]] | allusion | Exodus 3:12, 14 · Exodus 4:12 · John 8:58 · Revelation 1:8 |
-| [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] | thread | Job 33:23–28 · Exodus 21:30 · Exodus 30:12 · Numbers 35:31 · Psalm 49:7–9, 15 · Proverbs 13:8 · Isaiah 43:3 · Hosea 13:14 · Job 36:18 · Mark 10:45 · Matthew 20:28 · 1 Timothy 2:5–6 · 1 Peter 1:18–19 · Exodus 21:12–36 |
+| [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]] | thread | Job 33:23–28 · Exodus 21:30 · Exodus 30:12 · Numbers 35:31 · Psalm 49:7–9, 15 · Proverbs 13:8 · Isaiah 43:3 · Hosea 13:14 · Job 36:18 · Mark 10:45 · Matthew 20:28 · 1 Timothy 2:5–6 · 1 Peter 1:18–19 · Exodus 21:12–36 · Proverbs 6:35 · [[The Lamp of the Commandment]] |
 | [[I Have Sworn by Myself - The Oath at Moriah]] | thread | Genesis 22:15–18 · Genesis 15:7–21; 26:3 · Exodus 32:13 · Psalm 105:8–11 · Luke 1:72–73 · Hebrews 6:13–18 · [[The Golden Calf]] (Exodus 32:11–14) |
 | [[I Have Waited for Your Salvation - The First Yeshuah in Scripture]] | word | Genesis 49:18 · Exodus 14:13; 15:2 · Psalm 3:8 · Psalm 119:166 · Isaiah 12:2–3 · Jonah 2:9 · Luke 2:30 · Job 13:16 |
 | [[I Put On Righteousness - Job 29.14 and the Garments of Justice]] | image | Job 29:14 · Job 19:9 · Job 30:18 · Job 22:6 · Job 40:10, 14 · Psalm 132:9, 16 · Psalm 109:18 · Isaiah 11:5 · Isaiah 59:16–17 · Isaiah 61:10 · Zechariah 3:4–5 · Judges 6:34 · Ephesians 6:14 · Colossians 3:12 · Revelation 19:8 |
@@ -42,7 +42,8 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] | parallel | Genesis 37:26–28 · Genesis 40:15 · Exodus 21:16 · Deuteronomy 24:7 |
 | [[A Kingdom of Priests - Exodus 19 and First Peter 2]] | quotation | Exodus 19:4–6, 21–24 · 1 Peter 2:4–10 · Exodus 28–29 |
 | [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Exodus 15:15, 18 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |
-| [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 · Proverbs 4:18–19 |
+| [[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]] | parallel | Proverbs 6:23 · Psalm 119:105 · Proverbs 4:18–19 · Job 29:3 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) · [[The Two Paths]] |
+| [[The Lamp of the Wicked Put Out]] | thread | Job 18:5–6 · Proverbs 13:9 · Proverbs 20:20 · Proverbs 24:20 · Job 21:17 · Job 29:2–3 · 2 Samuel 21:17 · 1 Kings 11:36 · Psalm 132:17 · Revelation 18:23 · Job 18:12 · Proverbs 4:18–19 · Proverbs 6:23 · [[The Lamp of the Commandment]] |
 | [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] | law-and-narrative | Genesis 23:3–20 · Genesis 47:18–23 · Exodus 9:29; 19:5 · Leviticus 25:8–34, 39–43 · 1 Kings 21:1–4 · Isaiah 5:8 · Micah 2:1–2 |
 | [[Laughter and the Name Isaac]] | thread | Genesis 17:17, 19 · Genesis 18:12–15 · Genesis 21:6, 9 · Genesis 26:8 · Galatians 4:29 |
 | [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] | literary-parallel | Job 21:5 · Job 29:9 · Job 40:4 · Job 2:13 · Job 13:5 · Judges 18:19 · Proverbs 30:32 · Micah 7:16 · Isaiah 52:15 · Job 31:14, 35 |
@@ -69,15 +70,16 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |
 | [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
 | [[Moab and Ammon - The Two Nations Born in the Cave]] | thread | Genesis 19:30–38 · Deuteronomy 2:9, 19; 23:3–6 · Numbers 22–25 · Judges 3:12–30; 11:4–33 · 1 Samuel 11; 22:3–4 · 2 Samuel 10 · 1 Kings 11:5–7; 14:21 · Jeremiah 48; 49:1–6 · Zephaniah 2:8–11 · Ruth 1:4; 4:13–22 · Nehemiah 13:1–3 · Matthew 1:5 |
-| [[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]] | quotation | Exodus 20:13–17 · Matthew 5:21–30 |
+| [[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]] | quotation | Exodus 20:13–17 · Matthew 5:21–30 · Proverbs 6:25 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[Naked and Ashamed - Genesis 3 and Genesis 9]] | parallel | Genesis 2:25 · Genesis 3:6–7, 21 · Genesis 9:20–25 · Genesis 19:30–38 |
 | [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] | thread | Job 1:21 · Ecclesiastes 5:15 · Psalm 49:16–17 · 1 Timothy 6:7 · Genesis 3:19 · Luke 12:16–21 |
 | [[A Name for Ourselves and a Great Name]] | parallel | Genesis 6:4 · Genesis 11:4 · Genesis 12:2 · 2 Samuel 7:9 · Isaiah 56:5 · Philippians 2:6–11 |
 | [[The Names of Esau's Wives - Genesis 26 and Genesis 36]] | parallel | Genesis 26:34–35 · Genesis 28:6–9 · Genesis 36:2–3 · Genesis 27:46 |
-| [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]] | parallel | Proverbs 5:8–10, 22 · Job 31:8–12 · Job 1:13–19 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:1–23) · [[Job's Oath of Innocence]] |
+| [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]] | parallel | Proverbs 5:8–10, 22 · Job 31:8–12 · Job 1:13–19 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:1–23) · [[Job's Oath of Innocence]] · Proverbs 6:27–29 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[The Nephilim and the Giants of Canaan]] | thread | Genesis 6:4 · Numbers 13:31–33 · Deuteronomy 2:10–11, 3:11 · Joshua 11:21–22 · 1 Samuel 17:4–7 · 2 Samuel 21:15–22 |
 | [[Nimrod and the Kingdoms of Shinar and Assyria]] | thread | Genesis 6:4 · Genesis 10:8–12 · Genesis 11:1–9 · 1 Chronicles 1:10 · Micah 5:6 · 2 Kings 17:5–23 · Daniel 1:1–2 |
 | [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] | allusion | Job 42:2 · Genesis 11:6 · Job 40:9 · Genesis 18:14 |
+| [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]] | tension | Proverbs 6:29–35 · Leviticus 20:10 · Deuteronomy 22:22 · Exodus 20:14 · Exodus 21:30 · Numbers 35:31 · Exodus 23:8 · Numbers 5:14 · Song of Solomon 8:6 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[The Noahic Commandments and the Council of Jerusalem]] | thread | Genesis 2:16–17 · Genesis 9:1–7 · Leviticus 17–18 · Acts 15:19–29 · Acts 21:25 · *Sanhedrin* 56a |
 | [[None Shall Make You Afraid - The Covenant Blessing of Security]] | formula | Leviticus 26:6 · Job 11:19 · Job 5:22–24 · Deuteronomy 28:26 · Isaiah 17:2 · Zephaniah 3:13 · Micah 4:4 · Jeremiah 30:10 · Ezekiel 34:25–28 · Psalm 4:8 · Proverbs 3:24 · [[Do Not Withhold Good]] (Proverbs 3:21–35) |
 | [[Not a Thread nor a Sandal Strap]] | thread | Genesis 14:21–24 · Genesis 12:14–20 · Genesis 15:1 · Joshua 7:20–26 · 1 Samuel 12:3–5 · 1 Samuel 30:21–25 · 2 Kings 5:15–27 · Daniel 5:17 · Acts 8:18–24 · 1 Corinthians 9:12–18 |

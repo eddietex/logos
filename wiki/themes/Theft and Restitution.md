@@ -65,6 +65,18 @@ breaking into a house as an image for an unexpected coming (Matthew 24:43), and 
 who *"only comes to steal, kill, and destroy"* with himself (John 10:10). See
 [[The Thief Breaking In - Exodus 22 and Matthew 24]].
 
+### The hungry thief — Proverbs 6:30–31
+
+The context of Proverbs' sevenfold figure is now ingested. *"Men don't despise a thief, if he steals
+to satisfy himself when he is hungry: but if he is found, he shall restore seven times. He shall
+give all the wealth of his house"* (6:30–31). The verb is the law's, *yəšallēm*, but the figure
+*šiḇʿāṯāyim* is not the rate of Exodus 22:1, 4, and the wiki reads it as the proverbial number of
+full repayment. The thief is the lesser case in an argument from lesser to greater: even the most
+excusable thief pays, and he *can* pay; the adulterer of 6:32–35 has taken what no payment returns.
+See [[The Lamp of the Commandment]] and
+[[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]]. Source: stored WEB Proverbs
+6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 - [[Jacob's Flocks]] — Genesis 30:33; anything off-pattern in Jacob's flock *"will be considered
   stolen"*
@@ -77,6 +89,8 @@ who *"only comes to steal, kill, and destroy"* with himself (John 10:10). See
 - [[Laws of Violence and Injury]] — Exodus 21:16; kidnapping, a capital crime
 - [[Laws of Property and Restitution]] — Exodus 22:1–15; multiplied restitution, the night thief,
   deposits, oaths, and the keeper's liability
+- [[The Lamp of the Commandment]] — Proverbs 6:30–31; the hungry thief, not despised, who still
+  restores sevenfold
 
 ## Related themes
 - [[Wealth and Possessions]] — what theft takes; ownership and its duties

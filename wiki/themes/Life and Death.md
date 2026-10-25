@@ -257,6 +257,14 @@ life"* (5:5–6). The lecture ends with the man who followed her: *"He will die 
 instruction"* (5:23). Death here is the end of a road, the opposite of 4:22's words that are
 *"life to those who find them"*. See [[The Strange Woman and the Wife of Your Youth]] and [[Sheol]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### The precious life hunted — Proverbs 6:23–33
+
+*"Reproofs of instruction are the way of life"* (6:23), and the danger is to life: *"The adulteress
+hunts for your precious life"* (6:26, *nep̄eš yəqārâ*), and the adulterer *"destroys his own soul"*
+(6:32). The thief steals *to fill his soul* (6:30) and can pay; the adulterer ruins his. See
+[[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:5–6, 23; her steps to Sheol, and death for lack
@@ -584,6 +592,8 @@ instruction"* (5:23). Death here is the end of a road, the opposite of 4:22's wo
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; the thief killed at night and after sunrise
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:12, 20–21, 33, 38; no plague at the census, washing that they not die, and being cut off.
 - [[If You Seek Her as Silver]] — Proverbs 2:18–19; the strange woman's house sinking to death and the shades; *the paths of life*
+- [[The Lamp of the Commandment]] — Proverbs 6:23, 26, 32; the way of life, and the precious life
+  hunted and destroyed
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

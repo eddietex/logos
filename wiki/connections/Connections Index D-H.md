@@ -48,6 +48,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[The Golden Calf]] (Exodus 32:15–19) · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] | literary-parallel | Genesis 1:31–2:3 · [[The Work Completed]] (Exodus 39:32–43) · Exodus 35:1–3; 40:17–35 · [[The Tabernacle Raised and the Glory]] (Exodus 40:1–38) |
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
+| [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]] | literary-parallel | Proverbs 6:25, 27–29 · Genesis 39:6–12 · Genesis 20:6 · Genesis 26:11 · Job 31:9, 12 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) · [[Joseph in Potiphar's House]] |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 |
@@ -60,7 +61,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Forty Days and Forty Nights - The Flood, Sinai, Horeb, and the Wilderness]] | motif | Genesis 7:4, 12 · Exodus 24:18 · Exodus 34:28 · Deuteronomy 9:9–11 · 1 Kings 19:8 · Matthew 4:2 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] | law-and-narrative | Genesis 44:8–10, 16–17 · Exodus 22:3–4 · Exodus 21:16 |
 | [[Four Hundred Years - The Sojourn and the Exodus]] | prophecy → fulfillment | Genesis 15:13–16 · Exodus 3:8, 21–22 · Exodus 6:16–20 · Exodus 12:35–41 · Numbers 32:13 · Judges 11:26 · 1 Kings 6:1 · Acts 7:6 · Galatians 3:16–17 · Galatians 3:17 |
-| [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] | law-and-narrative | Exodus 22:1 · Exodus 22:4 · 2 Samuel 12:5–6 · Luke 19:8 · Proverbs 6:30–31 |
+| [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] | law-and-narrative | Exodus 22:1 · Exodus 22:4 · 2 Samuel 12:5–6 · Luke 19:8 · Proverbs 6:30–31 · Genesis 4:15 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[From Adam to Jesus - The Genealogy of Genesis 5 in Chronicles and Luke]] | thread | Genesis 5:1–32 · Genesis 11:10–26 · 1 Chronicles 1:1–4 · Matthew 1:1 · Luke 3:36–38 |
 | [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] | literary-parallel | Job 36:27–37:24 · Job 38:1–3 · Job 38:22–38 · Job 40:6, 9 · Job 9:17 · Job 28:26 |
 | [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]] | parallel | Exodus 27:20–21 · Leviticus 24:1–4 · Exodus 25:31–40 · Exodus 26:35 · Exodus 30:7–8 |

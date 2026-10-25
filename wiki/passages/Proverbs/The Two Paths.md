@@ -139,6 +139,8 @@ No named geographical place. The path and the way are metaphors for a manner of 
 - Proverbs 9:5, 17 — Wisdom's bread and wine against Folly's stolen water and secret food.
 - [[Keep Your Heart]] — Proverbs 4:20–27; the next lecture's level path that turns neither right nor
   left (4:26–27).
+- [[The Lamp of the Commandment]] — Proverbs 6:23; the light carried as a lamp by the walker, *"the
+  commandment is a lamp, and the law is light"*.
 
 ## Notes
 

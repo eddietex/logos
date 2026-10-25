@@ -16,6 +16,8 @@ tags: [connection]
   have laid wait at my neighbor's door, then let my wife grind for another, and let others sleep
   with her. For that would be a heinous crime. Yes, it would be an iniquity to be punished by the
   judges: For it is a fire that consumes to destruction, and would root out all my increase."*
+- **Proverbs 6:27–29** — [[The Lamp of the Commandment]]: *"Can a man scoop fire into his lap, and
+  his clothes not be burned? … So is he who goes in to his neighbor's wife."*
 - **Job 31:8** — *"then let me sow, and let another eat. Yes, let the produce of my field be rooted
   out."*
 
@@ -53,3 +55,11 @@ self-destroying end. Read together they show the wisdom tradition's sexual ethic
 once as instruction, once as oath. See [[Sexual Sin]], [[Oaths and Vows]], and [[Retribution]].
 
 Sources: Proverbs 5:8–10, 22 and Job 1:13–19; 31:8–12 checked in `raw/bible/` (WEB), 2026-10-25.
+
+**Update (Proverbs 6:20–35 ingested).** The next lecture supplies Job's two remaining terms. Job
+31:9's *"my neighbor's door"* becomes Proverbs 6:29's *"his neighbor's wife"* (*ʾēšeṯ rēʿēhû*), and
+Job 31:12's *"fire that consumes to destruction"* (*ʾēš hîʾ*) becomes Proverbs 6:27's fire in the
+lap (*ʾēš bəḥêqô*). Job 31:11 names judges; Proverbs 6:34–35 names only the husband, whose vengeance
+no ransom buys off. See [[The Lamp of the Commandment]] and
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Hebrew
+read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.

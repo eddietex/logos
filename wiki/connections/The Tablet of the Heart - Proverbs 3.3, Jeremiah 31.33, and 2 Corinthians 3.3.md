@@ -16,6 +16,9 @@ tags: [connection]
 - **Proverbs 3:1, 3** — *"don't forget my teaching; but let your heart keep my commandments"* (*tôrāṯî
   … ûmiṣwōṯay*); *"Bind them around your neck. Write them on the tablet of your heart."* —
   [[Trust in Yahweh with All Your Heart]]
+- **Proverbs 6:21** — *"Bind them continually on your heart. Tie them around your neck."* The
+  father's commandment and the mother's teaching bound on the heart itself (*qošrēm ʿal-libbəḵā*) —
+  [[The Lamp of the Commandment]]
 - **Proverbs 7:3** — *"Bind them on your fingers. Write them on the tablet of your heart."* The same
   line, with fingers for neck (not yet ingested)
 - **Jeremiah 17:1** — *"The sin of Judah is written with a pen of iron, and with the point of a
@@ -85,3 +88,9 @@ still.
 Ezekiel 36:26, and 2 Corinthians 3:3 verified WEB from bible-api.com, 2026-10-25, not stored. Hebrew
 of Exodus 24:12, Proverbs 3:1, 3; 7:3, Jeremiah 17:1, and 31:33 checked against Sefaria's *Miqra
 according to the Masorah*, 2026-10-25. The Greek of 2 Corinthians 3:3 was not checked.
+
+**Update (Proverbs 6:20–23 ingested).** Proverbs 6:21 binds the teaching on the heart (*qošrēm
+ʿal-libbəḵā*) rather than writing it there, and 6:22 then takes Deuteronomy 6:7's walking and lying
+down. The Deuteronomy link this page proposed is closer in chapter 6 than in chapter 3; see
+[[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]]. Hebrew read from
+Sefaria's *Miqra according to the Masorah*, 2026-10-25.

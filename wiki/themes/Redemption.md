@@ -100,6 +100,16 @@ fixed payment, distinct from the willingness and variable gifts of 35:21–29.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The ransom refused — Proverbs 6:35
+
+Exodus 21:30 lets a negligent ox owner pay *kōp̄er* for a forfeited life, and Numbers 35:31 refuses
+it for a murderer. Proverbs 6:35 shows *kōp̄er* offered privately and refused: the wronged husband
+*"won't regard any ransom, neither will he rest content, though you give many gifts"*. The adulterer
+has no price to pay. See [[The Lamp of the Commandment]],
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]], and
+[[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]]. Source: stored WEB Proverbs 6;
+Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Fixed half-shekel payment counted and used (38:25–28).
@@ -120,6 +130,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:11–16; the half-shekel *"ransom for his soul"* at the census.
+- [[The Lamp of the Commandment]] — Proverbs 6:35; *kōp̄er* offered by the adulterer and refused
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

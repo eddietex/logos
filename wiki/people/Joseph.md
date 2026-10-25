@@ -573,6 +573,10 @@ night of 12:29–42. The earlier sentence is kept as written and this note corre
   (Genesis 50:24–25), kept word for word
 - [[The Crossing of the Sea]] — Exodus 13:19; **his bones carried.** *"Moses took the bones of Joseph with
   him"*; *"you shall carry up my bones away from here with you"*
+- [[The Lamp of the Commandment]] — Proverbs 6:25–29; **not named; the wiki reads the warning
+  beside his story.** Beauty (*yopyāh*; Joseph *yəp̄ēh-ṯōʾar*, Genesis 39:6), the woman's eyes, *"his neighbor's wife"*, and
+  the man whose clothes burn with the fire he holds — where Joseph let his garment go. See
+  [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]]
 
 ## Related people
 

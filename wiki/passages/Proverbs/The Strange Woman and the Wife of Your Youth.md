@@ -178,7 +178,9 @@ trapped man has sinned. See [[Retribution]].
 - [[The Betrothal at the Well]] — Genesis's wells, where marriages begin.
 - [[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]] — the commandment behind the
   lecture.
-- Proverbs 6:20–35 and 7:1–27 — the strange woman's two further lectures (not yet ingested).
+- [[The Lamp of the Commandment]] — Proverbs 6:20–35; the strange woman's second lecture, which
+  names her *a man's wife* and takes up *ḥēq*, the bosom, as the lap that holds fire (6:27).
+- Proverbs 7:1–27 — her third lecture (not yet ingested).
 
 ## Notes
 

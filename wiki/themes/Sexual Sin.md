@@ -143,6 +143,21 @@ lecture's last argument is that nothing is hidden — *"the ways of man are befo
 to the same door and invokes the same loss on himself. See [[The Strange Woman and the Wife of Your Youth]] and
 [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### Fire in the lap — Proverbs 6:20–35
+
+The strange woman's second lecture names her outright as *ʾēšeṯ ʾîš*, *a man's wife*, and *ʾēšeṯ
+rēʿēhû*, *his neighbour's wife* (6:26, 29). Against her the son is told *"Don't lust after her
+beauty in your heart"* (6:25), with the verb of the tenth commandment (*taḥmōḏ*, Exodus 20:17). The
+argument is the nature of the act: *"Can a man scoop fire into his lap, and his clothes not be
+burned?"* (6:27); *"Whoever touches her will not be unpunished"* (6:29), the verb of Genesis 20:6
+and 26:11. A hungry thief can repay, even sevenfold; the adulterer *"destroys his own soul"*, and
+the husband's jealousy takes no ransom (6:30–35). Proverbs names no court, where Leviticus 20:10 and
+Deuteronomy 22:22 prescribe death; the wiki records the two pictures without merging them. See
+[[The Lamp of the Commandment]],
+[[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]], and
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Source:
+stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
@@ -176,6 +191,8 @@ to the same door and invokes the same loss on himself. See [[The Strange Woman a
   forbidden
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–17, 19; seduction and the bride-price; bestiality
 - [[If You Seek Her as Silver]] — Proverbs 2:16–19; the strange woman introduced: smooth words, a forgotten covenant, a house sinking to death
+- [[The Lamp of the Commandment]] — Proverbs 6:24–35; the neighbour's wife, the coveting heart, fire
+  in the lap, and no ransom
 
 ## Related themes
 

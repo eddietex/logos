@@ -147,6 +147,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
   and remedies; a false claim settled *"before God"* costs what the theft would have (22:9).
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:2, 9: *"length of days"* promised by a father,
   and *"Honor Yahweh"* in the fifth commandment's form (*kabbēḏ ʾeṯ-*).
+- [[The Lamp of the Commandment]] — Proverbs 6:25, 29–32; coveting a neighbour's wife (*taḥmōḏ*),
+  adultery (*nōʾēp̄*), and theft (*gannāḇ*) in one lecture, none quoted as law.
 
 ## Notes
 

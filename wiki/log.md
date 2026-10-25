@@ -15781,3 +15781,69 @@ Proverbs 2:12, 14; 3:7, 29, 32; 4:22–27; 10:26; 11:1, 15; 12:22; 16:5; 17:18; 
 4:22, 24; 16:5; 24:33–34; 30:25, Exodus 5:6, 14; 20:13 (MT); 23:1, Genesis 43:9, and Job 17:3 read
 from Sefaria's *Miqra according to the Masorah*. 2 Corinthians 6:15 is cited by reference only. No
 raw text changed and no unstored book was fetched.
+
+## [2026-10-25] ingest | Proverbs 6.20-35 — The Lamp of the Commandment
+
+Unattended run (`/ingest auto`). The planned 6:20–35 boundary is kept: *"My son"* opens it and opens
+7:1. Sefaria's *Miqra according to the Masorah* marks a *petuḥah* after 6:26 as well as after 6:19
+and 6:35; that break is treated as a division inside one lecture, since 6:27's fire continues the
+married woman of 6:24–26. The page covers the father's commandment and mother's teaching bound on
+the heart and carried as a lamp, the coveting look, the fire in the lap, the hungry thief who
+restores sevenfold, and the husband who takes no ransom.
+
+**Tension recorded:** Proverbs 6:29–35 makes the wronged husband's vengeance the consequence of
+adultery and names no court, where Leviticus 20:10 and Deuteronomy 22:22 prescribe death. Three
+readings are set out on
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]] and
+none is chosen. The sevenfold restitution of 6:31 is again recorded as differing from the Exodus 22
+rates and read as proverbial, not reconciled; [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]]
+had left the context of 6:30–31 unchecked, and now has it.
+
+**Judgment calls:** Proverbs 6:20–22 is classed as an *allusion* to Deuteronomy 6:6–8 on the strength
+of three shared elements (heart, *qšr*, and the walking-and-lying-down round, with *bəšoḵbəḵā*
+identical), with the direction of influence called the usual reading and not a claim the texts make.
+The resemblance of 6:25–29 to Genesis 39 is recorded as a shared scene, not an allusion. The
+alternative vocalization *ʾēšeṯ rēaʿ* at 6:24 and the two readings of 6:26a are reported as options
+and not checked against a commentary. The father, mother, son, married woman, thief, and husband get
+no person pages; Joseph's page gets a line because the wiki reads the warning beside his story.
+God is not named in this lecture, and [[God]] was not revised.
+
+**Created (5):** [[The Lamp of the Commandment]] and four connections —
+[[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]],
+[[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]],
+[[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]],
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]].
+
+**Revised content pages (40):** [[Proverbs]]; [[Joseph]]; fourteen themes — [[Law and Obedience]],
+[[Light and Darkness]], [[Walking with God]], [[Sexual Sin]], [[Marriage]],
+[[Theft and Restitution]], [[Vengeance]], [[Redemption]], [[Envy]], [[Folly]],
+[[Language and Speech]], [[Seeing and Being Seen]], [[Life and Death]], [[Retribution]]; eight
+connections — [[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]],
+[[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]],
+[[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]],
+[[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]],
+[[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]],
+[[The Neighbor's Door - Proverbs 5 and Job 31.9-12]], [[The Lamp of the Wicked Put Out]],
+[[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]]; sixteen reciprocal passage updates
+— [[The Surety, the Sluggard, and the Seven Abominations]],
+[[The Strange Woman and the Wife of Your Youth]], [[Do Not Consent to Sinners]],
+[[Trust in Yahweh with All Your Heart]], [[Do Not Withhold Good]], [[Keep Your Heart]],
+[[The Two Paths]], [[The Ten Commandments]], [[Laws of Violence and Injury]],
+[[Justice, Sabbaths, and Feasts]], [[Laws of Property and Restitution]],
+[[The Consecration of the Firstborn]], [[Job's Oath of Innocence]],
+[[Joseph in Potiphar's House]], [[Abraham and Abimelech]], [[Isaac in Gerar]].
+
+**Bookkeeping (9 revised files including this log):** books index, themes index, Connections Index
+A-C, D-H, I-N, O-S, and T-Z, main index, and log. Totals: 157 passages, 179 people, 90 places,
+83 themes, 407 connections.
+
+**Sources:** all Proverbs 6 verses copied from stored WEB Proverbs. Comparisons checked in stored
+Proverbs 1:8–9, 13, 15; 2:11, 16; 3:3, 23–24; 4:6, 18, 22–23; 5:20; 7:1–3, 5, 7, 9, Genesis 4:15, 24;
+20:6; 26:11; 39:6–7, 9–10, 12, 20, Exodus 13:9; 15:13; 20:14–15, 17; 21:30; 22:1, 3–4; 23:8; 24:12;
+27:21, and Job 29:3; 31:9, 11–12. Deuteronomy 6:6–9; 22:22, Leviticus 20:10, Numbers 5:14; 35:31,
+Psalm 23:3; 119:105, Song of Solomon 8:6, and Matthew 5:27–28 verified individually in the WEB at
+bible-api.com, not stored. Hebrew of Proverbs 6:20–35, 1:8, 13; 2:11; 3:3; 4:6, 23; 5:20; 7:5, 7,
+Deuteronomy 6:6–8, Psalms 23:3; 119:105, Exodus 15:13; 20:13–14 (MT); 21:30; 22:3 (MT); 23:8,
+Leviticus 20:10, Numbers 5:14; 35:31, Song of Solomon 8:6, Genesis 4:15; 7:23; 20:6; 26:11; 39:6–7, 12,
+and Job 31:12 read from Sefaria's *Miqra according to the Masorah*. No Greek claim is made. No raw
+text changed and no unstored book was fetched.

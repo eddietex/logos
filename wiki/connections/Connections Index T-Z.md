@@ -12,7 +12,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Table of Nations at Pentecost]] | typology | Genesis 10:1–32 · Genesis 11:1–9 · Acts 2:5–11 · Revelation 5:9 · Revelation 7:9 · Revelation 14:6 |
-| [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] | motif | Exodus 24:12; 31:18 · Deuteronomy 6:6–8 · Proverbs 3:1–3 · Proverbs 7:3 · Jeremiah 17:1 · Jeremiah 31:33 · Ezekiel 36:26 · 2 Corinthians 3:3 |
+| [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] | motif | Exodus 24:12; 31:18 · Deuteronomy 6:6–8 · Proverbs 3:1–3 · Proverbs 7:3 · Jeremiah 17:1 · Jeremiah 31:33 · Ezekiel 36:26 · 2 Corinthians 3:3 · Proverbs 6:21 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · Job 7:8, 21 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
@@ -74,6 +74,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[What Is This You Have Done - The Accusing Question from Eden to the Sea]] | formula | Genesis 3:13 · Genesis 12:18 · Genesis 26:10 · Genesis 29:25 · Genesis 42:28 · Exodus 14:5, 11 |
 | [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] | parallel | Genesis 37:18–28 · Genesis 42:21–22 · Proverbs 1:10–19 · [[Do Not Consent to Sinners]] (Proverbs 1:8–19) |
 | [[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]] | parallel | Proverbs 1:24–28 · Isaiah 65:2, 12 · Isaiah 66:4 · Jeremiah 7:13 · Jeremiah 11:11 · Micah 3:4 · Psalm 2:4 · Romans 10:21 · Deuteronomy 4:29 · Jeremiah 29:13 · Isaiah 55:6 · [[Wisdom Calls in the Street]] (Proverbs 1:20–33) |
+| [[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]] | allusion | Deuteronomy 6:6–9 · Exodus 13:9 · Proverbs 6:20–23 · Proverbs 3:3 · Proverbs 7:3 · Proverbs 1:8–9 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[When Your Son Asks - Telling the Exodus to the Next Generation]] | formula | Exodus 10:2 · Exodus 12:26–27 · Exodus 13:8–9, 14–16 · Deuteronomy 6:7–8, 20–21; 11:18 · Joshua 4:6–7, 21–22 |
 | [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] | literary-parallel | Job 23:3, 8–10 · Job 7:17–20 · Job 9:11 · Job 13:24 · Psalm 139:1–12, 23–24 · Amos 9:2–4 · Jeremiah 23:23–24 · Isaiah 45:15 |
 | [[Where the Slain Are - Job 39.30 and Matthew 24.28]] | allusion | Job 39:27–30 · Matthew 24:28 · Luke 17:37 · Proverbs 30:17 · Revelation 19:17–18 |

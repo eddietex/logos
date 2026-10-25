@@ -232,8 +232,8 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
   second table.
 - [[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]] — the *x, x+1* form.
 - [[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]] — the feet of 6:18.
-- Proverbs 6:20–35 — the next lecture, on adultery and the thief who restores sevenfold (not yet
-  ingested).
+- [[The Lamp of the Commandment]] — Proverbs 6:20–35; the next lecture, on adultery and the thief
+  who restores sevenfold, completing the second table.
 
 ## Notes
 

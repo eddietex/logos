@@ -148,6 +148,9 @@ from a danger the owner knew about (21:33–36).
   [[The Altar and the Hebrew Slave]].
 - Exodus 22:1–15 — the next unit moves from the bull and the pit to theft, damage, and deposits,
   and replaces the matching scale with multiplied repayment: [[Laws of Property and Restitution]].
+- [[The Lamp of the Commandment]] — Proverbs 6:35; *kōp̄er*, the ransom of 21:30, offered for
+  adultery and refused:
+  [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]].
 
 ## Notes
 

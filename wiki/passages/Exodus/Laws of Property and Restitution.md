@@ -127,6 +127,8 @@ it, it need not; and a hired thing *"came for its lease"* (22:14–15).
 - Exodus 22:16–31 — the next unit turns from property to seduction, sorcery, the vulnerable, and
   the firstborn; the torn animal of 22:13 returns as torn meat at 22:31:
   [[Laws of Holiness and Compassion]].
+- [[The Lamp of the Commandment]] — Proverbs 6:30–31; the hungry thief who restores sevenfold,
+  *yəšallēm*, set as the lesser case against adultery.
 
 ## Notes
 

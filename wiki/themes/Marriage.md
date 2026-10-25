@@ -160,6 +160,16 @@ imperative that Ecclesiastes 9:9 repeats (*"Live joyfully with the wife whom you
 bible-api.com). See [[The Strange Woman and the Wife of Your Youth]] and
 [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### The husband who takes no ransom — Proverbs 6:29–35
+
+Chapter 5 defended marriage from inside: the wife of your youth as your own well. Proverbs 6 defends
+it from the injured husband's side. The woman is *ʾēšeṯ rēʿēhû*, *his neighbour's wife* (6:29), and
+the wrong is to another marriage: *"jealousy arouses the fury of the husband"* (6:34), and *"He
+won't regard any ransom, neither will he rest content, though you give many gifts"* (6:35). A
+marriage violated is not a debt that can be paid. See [[The Lamp of the Commandment]] and
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Source:
+stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:15–19; the wife as one's own well, the wife of
@@ -334,6 +344,8 @@ bible-api.com). See [[The Strange Woman and the Wife of Your Youth]] and
   servant's food, clothing, and marital rights protected
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–17; the bride-price as remedy, and the father's right to refuse
 - [[If You Seek Her as Silver]] — Proverbs 2:17; marriage as *the covenant of her God*, forsaken; Malachi 2:14's vocabulary
+- [[The Lamp of the Commandment]] — Proverbs 6:29–35; the neighbour's wife, the husband's jealousy,
+  and no ransom
 
 ## Related themes
 

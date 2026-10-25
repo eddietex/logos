@@ -42,3 +42,10 @@ law to external compliance.
 
 See also [[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]] — Proverbs 4:23's heart as
 wellspring, and Matthew 15:19's murders and adulteries coming *"out of the heart"*.
+
+**Proverbs between them.** Proverbs 6:25 joins the seventh and tenth commandments before Matthew
+does: *"Don't lust after her beauty in your heart"* uses the tenth commandment's verb (*ʾal-taḥmōḏ*;
+Exodus 20:17, *lōʾ-ṯaḥmōḏ ʾēšeṯ rēʿeḵā*) and places it *bilḇāḇeḵā*, *in your heart*, in a lecture
+about adultery (6:29, 32). Matthew 5:28's adultery *"in his heart"* is therefore not the first
+biblical text to locate the sexual sin in desire; see [[The Lamp of the Commandment]]. Hebrew read
+from Sefaria's *Miqra according to the Masorah*, 2026-10-25; no claim is made about Matthew's Greek.

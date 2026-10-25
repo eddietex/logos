@@ -225,8 +225,10 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 
 - [[Do Not Withhold Good]] — Proverbs 3:31 again prohibits following violence, now beginning with envy of the violent man.
 
-- Proverbs 6:20 — *"My son, keep your father's commandment, and don't forsake your mother's
-  teaching."* The second line of 1:8 repeated.
+- [[The Lamp of the Commandment]] — Proverbs 6:20; *"My son, keep your father's commandment, and
+  don't forsake your mother's teaching."* The second line of 1:8 repeated; and 6:30–31's thief who
+  fills his stomach and pays *"all the wealth of his house"*, against the gang that fills its houses
+  with plunder (1:13).
 - Proverbs 16:33 — *"The lot is cast into the lap, but its every decision is from Yahweh."*
 - Proverbs 15:27 — *"He who is greedy for gain troubles his own house, but he who hates bribes will
   live."*

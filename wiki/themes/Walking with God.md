@@ -134,6 +134,15 @@ away"* (Job 23:11). See [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
 
 See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### The teaching that walks with you — Proverbs 6:22–23
+
+*"When you walk, it will lead you"* (6:22): the teaching itself goes with the son, guiding
+(*tanḥeh*, the verb of Exodus 15:13's *"You … have led the people"* and Psalm 23:3's *"He guides
+me"*), keeping watch over his sleep, and talking with him when he wakes; *"Reproofs of instruction
+are the way of life"* (6:23). The walk is lit by a lamp. See [[The Lamp of the Commandment]].
+Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*,
+2026-10-25.
+
 ## Key passages
 
 - [[Keep Your Heart]] — Proverbs 4:26–27; a level path, turning neither right nor left
@@ -168,6 +177,8 @@ See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
 - [[Do Not Consent to Sinners]] — Proverbs 1:15–16; the path walked *with them*, the book's first road
 - [[If You Seek Her as Silver]] — Proverbs 2:8–20; the two roads, to the paths of life and to the shades
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:6; *"he will make your paths straight"*
+- [[The Lamp of the Commandment]] — Proverbs 6:22–23; the teaching leads the son as he walks, and
+  reproof is *"the way of life"*
 
 ## Related themes
 

@@ -582,6 +582,8 @@ of the covenant name for eleven chapters**, and it is spent on the administratio
   summary of this chapter
 - [[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]] — 39:4, 21's *favour in
   the sight of* and *ḥeseḏ*, promised in Proverbs 3:3–4 to the son who keeps kindness and truth.
+- [[The Lamp of the Commandment]] — Proverbs 6:25–29; beauty, eyes, another man's wife, and clothes:
+  [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]].
 
 ## Notes
 

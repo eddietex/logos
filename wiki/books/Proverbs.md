@@ -98,6 +98,17 @@ warning against suretyship stands in tension with Judah's pledge for Benjamin (G
 Job's plea for God as guarantor (Job 17:3); the list of seven runs close to the Decalogue's second
 table.
 
+The chapter's second half returns to the strange woman, and names her outright as *a man's wife*
+(6:20–35). The father's commandment and the mother's teaching, bound on the heart, lead the son when
+he walks, watch him when he sleeps, and talk with him when he wakes — Deuteronomy 6:7's round of the
+day — for *"the commandment is a lamp, and the law is light"* (6:23). Against her beauty he is told
+not to covet (6:25, the tenth commandment's verb), and the argument is fire: *"Can a man scoop fire
+into his lap, and his clothes not be burned?"* (6:27). A hungry thief can repay, even sevenfold; the
+adulterer *"destroys his own soul"*, and the husband's jealousy *"won't regard any ransom"* (6:35).
+See [[The Lamp of the Commandment]]. Proverbs names no court where Leviticus 20:10 sets death, and
+the wiki records the two pictures side by side; with 6:16–19, the chapter touches the sixth through
+tenth commandments.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -139,7 +150,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Keep Your Heart]] — Proverbs 4:20–27
 - [x] [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23
 - [x] [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19
-- [ ] The Lamp of the Commandment — Proverbs 6:20–35
+- [x] [[The Lamp of the Commandment]] — Proverbs 6:20–35
 - [ ] The Young Man Void of Understanding — Proverbs 7:1–27
 - [ ] Wisdom Calls at the Gates — Proverbs 8:1–21
 - [ ] Wisdom at the Creation — Proverbs 8:22–36
@@ -196,7 +207,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Folly]] — wisdom's opposite, and the other way the book's reader can go
 - [[Righteousness]] — *"righteousness, justice, and equity"* (1:3), wisdom's moral content
 - [[Language and Speech]] — proverb, parable, riddle (1:6): a book about words, made of words
-- [[Sexual Sin]] — the strange woman, introduced at 2:16–19 and developed in chapters 5–7
+- [[Sexual Sin]] — the strange woman, introduced at 2:16–19 and developed in chapters 5–7; named
+  *a man's wife* at 6:26, 29
 - [[Marriage]] — called *"the covenant of her God"* (2:17); the wife of your youth as one's own well
   (5:15–19)
 - [[Love]] — *"Be captivated always with her love"* (5:19)
@@ -204,13 +216,16 @@ first collection at its heading), each titled from a representative saying.
   it after Job
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
-- [[Light and Darkness]] — the dawning path and the dark way (4:18–19)
+- [[Light and Darkness]] — the dawning path and the dark way (4:18–19); *"the commandment is a
+  lamp"* (6:23)
 - [[Healing]] — the father's words as *"health to their whole body"* (4:22)
 - [[Seeing and Being Seen]] — eyes fixed straight ahead (4:25)
 - [[Work]] — the ant and the sluggard (6:6–11)
 - [[Wealth and Possessions]] — suretyship for another's debt, and poverty as a robber (6:1–11)
 - [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
+- [[Theft and Restitution]] — the hungry thief who restores sevenfold (6:30–31)
+- [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people
