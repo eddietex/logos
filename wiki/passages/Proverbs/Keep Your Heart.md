@@ -141,8 +141,8 @@ No named geographical place. The path is a metaphor for a manner of life.
   left, with Deuteronomy 5:32–33 and Joshua 1:7.
 - [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] — the heart as
   where teaching is kept.
-- Proverbs 5:1–6 — the next lecture opens *"Turn your ear"* and turns to the adulteress's lips and
-  feet.
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; the next lecture opens *"Turn your ear"*
+  and turns to the adulteress's lips and feet, which go down to death off the level path of 4:26.
 
 ## Notes
 

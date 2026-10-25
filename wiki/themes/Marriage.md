@@ -149,7 +149,21 @@ the son to *"Rejoice in the wife of your youth"*. See [[If You Seek Her as Silve
 [[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Your own well — Proverbs 5:15–19
+
+Proverbs 5 answers the strange woman with the son's own wife, in water images: *"Drink water out
+of your own cistern, running water out of your own well … Let your spring be blessed. Rejoice in
+the wife of your youth"* (5:15, 18). The fidelity asked of the wife at 2:17 is here asked of the
+husband, in Malachi 2:14's phrase *"the wife of your youth"*. **Delight is commanded**: *"let her
+breasts satisfy you at all times. Be captivated always with her love"* (5:19) — a positive
+imperative that Ecclesiastes 9:9 repeats (*"Live joyfully with the wife whom you love"*, WEB at
+bible-api.com). See [[The Strange Woman and the Wife of Your Youth]] and
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:15–19; the wife as one's own well, the wife of
+  your youth, and delight in her commanded
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Marriage alliances prohibited in the warning against rival
   worship.

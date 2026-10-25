@@ -85,7 +85,19 @@ the apparent advantage that makes the violent man enviable in verse 31.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### The fool's late confession — Proverbs 5:11–14, 23
+
+Proverbs 5 puts the fool's confession in his own mouth, spoken at the end: *"How I have hated
+instruction, and my heart despised reproof; neither have I obeyed the voice of my teachers"*
+(5:12–13). It is 1:7's fool, who despises instruction, and the refusers of 1:29–30, now
+admitting it too late, *"at the brink of utter ruin, among the gathered assembly"* (5:14). He dies
+*"for lack of instruction"* and goes astray *"in the greatness of his folly"* (5:23, *ʾiwwaltô*).
+See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:12–14, 23; hated instruction confessed too late,
+  and *"the greatness of his folly"*
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Fools end in shame; the wise inherit glory.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the fool despises the wisdom and instruction the

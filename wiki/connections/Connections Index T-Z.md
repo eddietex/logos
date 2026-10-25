@@ -88,7 +88,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]] | parallel | Genesis 31:30–35 · Genesis 35:16–19 · Genesis 44:1–13 · Exodus 22:3–4 · Judges 11:30–40 · 1 Samuel 14:24–45 · Leviticus 5:4 · Ecclesiastes 5:2–6 · Matthew 5:34–37 |
 | [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] | thread | Genesis 32:29 · Exodus 3:12–15 · Exodus 4:12 · Judges 13:17–18 |
 | [[Why Do You Not Pardon My Disobedience - Job 7.21 and the God Who Forgives]] | allusion | Job 7:20–21 · Exodus 34:6–7 · Numbers 14:18 · Micah 7:18 · 2 Samuel 12:13; 24:10 · Zechariah 3:4 · Psalm 32:1, 5 · Job 42:8–9 · [[The Covenant Renewed]] (Exodus 34:1–28) |
-| [[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]] | vocabulary thread | Proverbs 2:17, 22 · Malachi 2:14–16 · Jeremiah 3:4 · Proverbs 5:18 · Hebrews 13:4 · [[If You Seek Her as Silver]] (Proverbs 2:1–22) |
+| [[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]] | vocabulary thread | Proverbs 2:17, 22 · Malachi 2:14–16 · Jeremiah 3:4 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:18) · Hebrews 13:4 · [[If You Seek Her as Silver]] (Proverbs 2:1–22) |
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
 | [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 · [[Bezalel's Workmen and the Surplus]] · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
@@ -111,4 +111,5 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]] | quotation | Exodus 22:28 · Acts 23:1–5 · Genesis 12:3 |
 | [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] | parallel | Exodus 23:19 · Exodus 34:26 · Deuteronomy 14:21 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
+| [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] | image thread | Proverbs 5:15–19 · Song of Solomon 4:12–15 · Ecclesiastes 9:9 · 1 Corinthians 7:2–5 · Hebrews 13:4 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:1–23) |
 | [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 · Genesis 45:3–4, 16 |

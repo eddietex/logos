@@ -229,7 +229,20 @@ testimony that the fall is not always seen. See
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### The cords of his own sin — Proverbs 5:22
+
+*"The evil deeds of the wicked ensnare him. The cords of his sin hold him firmly"* (5:22). The
+self-catching trap of 1:17–18 is applied to the adulterer, and Job 31:12 calls the same sin *"a
+fire that consumes to destruction"*. **Bildad used this picture against Job** — *"he is cast into
+a net by his own feet"* (Job 18:8) — of a man God had called blameless (Job 1:8). The wiki keeps
+the two uses apart: Proverbs 5 says what sin does to a man shown sinning; it does not license
+reading a man's trouble as proof of his sin. See [[The Strange Woman and the Wife of Your Youth]],
+[[Bildad's Second Speech]], and [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:22; the wicked held by the cords of his own sin,
+  against Bildad's net applied to Job
 
 - [[The Two Paths]] — Proverbs 4:19; the wicked stumble in their own darkness, against Job 24's unseen judgment
 

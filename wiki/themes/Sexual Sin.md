@@ -131,7 +131,22 @@ down to death"*, from which *"None who go to her return again"* (2:18–19). Her
 [[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The strange woman's lecture — Proverbs 5
+
+Chapter 5 gives the strange woman a whole lecture. Her lips *"drip honey"*, but her end is
+wormwood and her steps lead to [[Sheol]] (5:3–5); the son is to keep away from *"the door of her
+house"* or see honour, years, wealth, and labour pass to strangers (5:8–10). The WEB now renders
+*zārâ* as *"adulteress"* (5:3, 20), the word it rendered *"the strange woman"* at 2:16. **The
+remedy is not only distance but a wife**: *"Drink water out of your own cistern"* (5:15). The
+lecture's last argument is that nothing is hidden — *"the ways of man are before Yahweh's eyes"*
+(5:21) — which answers Job 24:15's adulterer who says *"No eye shall see me"*. Job 31:9–12 swears
+to the same door and invokes the same loss on himself. See [[The Strange Woman and the Wife of Your Youth]] and
+[[The Neighbor's Door - Proverbs 5 and Job 31.9-12]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
+  loss to strangers, and the wife of your youth set against her
 
 - [[Abram in Egypt]] — Genesis 12:10–20; the first wife-sister episode, and **the first moral objection
   in the book, spoken by a Pharaoh**

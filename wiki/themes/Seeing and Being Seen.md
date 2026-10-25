@@ -110,7 +110,17 @@ covenant with my eyes"* (Job 31:1) — and named its failure as the heart walkin
 
 See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Before Yahweh's eyes — Proverbs 5:21
+
+*"For the ways of man are before Yahweh's eyes. He examines all his paths"* (5:21). The adulterer
+of Job 24:15 waits for twilight saying *"No eye shall see me"*; Proverbs answers him as Job 24:23
+does, *"His eyes are on their ways"*. The verb *"examines"* (*məpallēs*) is the one 5:6 uses of
+the strange woman, who does not weigh the way of life (*təpallēs*), and 4:26 of the son's level
+path (*pallēs*). See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:21; every way of man before Yahweh's eyes
 
 - [[Keep Your Heart]] — Proverbs 4:21, 25; the words kept before the eyes, and eyes fixed straight ahead
 

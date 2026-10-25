@@ -193,6 +193,10 @@ to go.
   shades who inhabit Sheol, as in Job 26:5 and Isaiah 14:9), and *"None who go to her return again"* —
   Job's *"where I shall not return from"* (Job 10:21). Proverbs names Sheol in the same picture at 5:5
   and 9:18.
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:5; **named.** *"Her feet go down to death.
+  Her steps lead straight to Sheol"* — *šəʾôl ṣəʿāḏeyhā yiṯmōḵû*, her steps *take hold of* Sheol. The
+  verb returns at 5:22, where the cords of his own sin *hold* the wicked man: she grips Sheol, and his
+  sin grips him.
 
 ## Related places
 

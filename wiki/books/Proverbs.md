@@ -79,6 +79,15 @@ kept *"in the center of your heart"* as life and health, and the heart is guarde
 that turns *"to the right hand nor to the left"*. See [[Keep Your Heart]]. Job 31 swears to the
 same keeping of heart, eyes, and step, and Job 2:7 records the body struck anyway.
 
+Chapter 5 gives the strange woman of 2:16–19 a lecture of her own (5:1–23). Her lips *"drip
+honey"* but her end is wormwood and her steps *"lead straight to Sheol"*; her door costs the son
+honour, years, and labour, all passing to strangers, and a confession of hated instruction made too
+late. Against her stands his own wife, pictured as his own cistern and spring: *"Rejoice in the
+wife of your youth"* (5:18), and be captivated by her love. Every way of man is before Yahweh's
+eyes, and the wicked are held by the cords of their own sin (5:21–22). See
+[[The Strange Woman and the Wife of Your Youth]]. Job 31:9–12 swears to the same door and invokes the same
+loss on himself.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -118,7 +127,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Get Wisdom]] — Proverbs 4:1–9
 - [x] [[The Two Paths]] — Proverbs 4:10–19
 - [x] [[Keep Your Heart]] — Proverbs 4:20–27
-- [ ] The Strange Woman and the Wife of Your Youth — Proverbs 5:1–23
+- [x] [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23
 - [ ] The Surety, the Sluggard, and the Seven Abominations — Proverbs 6:1–19
 - [ ] The Lamp of the Commandment — Proverbs 6:20–35
 - [ ] The Young Man Void of Understanding — Proverbs 7:1–27
@@ -178,7 +187,9 @@ first collection at its heading), each titled from a representative saying.
 - [[Righteousness]] — *"righteousness, justice, and equity"* (1:3), wisdom's moral content
 - [[Language and Speech]] — proverb, parable, riddle (1:6): a book about words, made of words
 - [[Sexual Sin]] — the strange woman, introduced at 2:16–19 and developed in chapters 5–7
-- [[Marriage]] — called *"the covenant of her God"* (2:17)
+- [[Marriage]] — called *"the covenant of her God"* (2:17); the wife of your youth as one's own well
+  (5:15–19)
+- [[Love]] — *"Be captivated always with her love"* (5:19)
 - [[Retribution]] — the ordinary run of things, stated as sentences; see the Overview on reading
   it after Job
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)

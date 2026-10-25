@@ -352,6 +352,8 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:21, *"the ways of man are before Yahweh's
+  eyes"*; the answer to the adulterer of 24:15 who says *"No eye shall see me"*.
 - [[Keep Your Heart]] — Proverbs 4:26–27, *"Don't turn to the right hand nor to the left"*, the command
   23:11 claims to have kept; see [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
 - [[Eliphaz's Third Speech]] — Job 22, which this does not answer directly: 22:22 against 23:12,

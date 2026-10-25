@@ -165,7 +165,17 @@ mouth speaks"* (Luke 6:45, WEB, verified at bible-api.com). See
 
 See [[Keep Your Heart]]. Source: Proverbs checked in stored WEB, 2026-10-25.
 
+### Lips that keep knowledge, lips that drip honey — Proverbs 5:2–3
+
+The fifth chapter sets the son's lips against hers: *"that your lips may preserve knowledge. For
+the lips of an adulteress drip honey. Her mouth is smoother than oil"* (5:2–3). Her speech is
+pleasant, and the danger is its end, *"bitter as wormwood"* (5:4). As at 2:16, the strange
+woman's power is a power of words. See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:2–3; the son's lips that keep knowledge, hers
+  that drip honey
 
 - [[Keep Your Heart]] — Proverbs 4:23–24; the perverse mouth put away, speech as the heart's outflow
 

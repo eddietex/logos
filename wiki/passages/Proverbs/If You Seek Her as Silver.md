@@ -291,8 +291,9 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
   *discretion* for the young.
 - Proverbs 1:11, 18 — [[Do Not Consent to Sinners]]: *ṣāp̄an*, the gang's *lurk*.
 - Proverbs 1:28 — [[Wisdom Calls in the Street]]: seeking and not finding.
-- Proverbs 5:5; 7:5; 9:18 — the strange woman's road to death and Sheol; 2:16 repeated at 7:5 (not
-  yet ingested).
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; the strange woman given a whole lecture,
+  her steps leading to Sheol (5:5), and the wife of your youth set against her.
+- Proverbs 7:5; 9:18 — 2:16 repeated at 7:5, and Sheol again at 9:18 (not yet ingested).
 - Proverbs 8:17 — *"Those who seek me diligently will find me"* (not yet ingested).
 - Job 1:1 — *"blameless and upright"*, *tām wəyāšār*; [[Job of Uz]].
 - Job 3:21 — *maṭmônîm*, hidden treasures; [[Let the Day Perish]].

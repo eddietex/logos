@@ -15,7 +15,8 @@ tags: [connection]
   covenant … let no one deal treacherously against the wife of his youth."*
 - Jeremiah 3:4 *(not yet ingested)* — *"Will you not from this time cry to me, 'My Father, you are the
   guide of my youth?'"* (*ʾallûp̄ nəʿuray*).
-- Proverbs 5:18 *(not yet ingested)* — the son told to rejoice in *"the wife of your youth"*.
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:18: *"Rejoice in the wife of your
+  youth"* (*ʾēšeṯ nəʿûreḵā*), the positive counterpart to 2:17's forsaken friend of youth.
 - Hebrews 13:4 *(not yet ingested)* — *"Let marriage be held in honor among all, and let the bed be
   undefiled."*
 
@@ -40,6 +41,13 @@ my youth*, is what faithless Israel is invited to call Yahweh, in a chapter abou
 unfaithful wife (Jeremiah 3:1–3, not quoted here). The human marriage of Proverbs 2:17 and the
 covenant between Yahweh and Israel are described in the same words, which is the prophets' marriage
 metaphor seen from the wisdom side.
+
+**Proverbs 5 completes the pair.** Proverbs 2:17 shows the wife who forsakes the companion of her
+youth; Proverbs 5:18 tells the son to rejoice in *"the wife of your youth"* — Malachi's exact
+phrase (*ʾēšeṯ nəʿûreḵā* at Proverbs 5:18; *ʾēšeṯ nəʿûreyḵā*, the same words spelled with a
+*yod*, at Malachi 2:14 — both read from Sefaria's *Miqra according to the Masorah*, 2026-10-25). Between them Proverbs addresses both directions of faithfulness Malachi does: the wife's
+in chapter 2, the husband's in chapter 5. See [[The Strange Woman and the Wife of Your Youth]] and
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]].
 
 ## Significance
 

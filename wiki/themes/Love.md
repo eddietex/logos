@@ -136,7 +136,18 @@ no claim about an exact Hebrew verb is needed for this reading of the WEB.
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Be captivated with her love — Proverbs 5:19–20
+
+*"Be captivated always with her love"* (5:19, *bəʾahăḇāṯāh tišgeh*). The verb *šāḡâ*, rendered
+*"be captivated"*, is used again in 5:20 of the adulteress and in 5:23 of the fool who *"will go
+astray"*; its sense of reeling or erring is the conventional lexical one, not checked against a
+lexicon this pass. Married love is the right object of that intoxication, and the same staggering
+directed elsewhere is ruin. See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:19; *"Be captivated always with her love"*,
+  married love commanded
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Affection and embrace directed toward personified wisdom.
 

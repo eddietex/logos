@@ -242,6 +242,8 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:8–10 warns the son from the door and the loss
+  to others that 31:8–12 invokes on himself; see [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]].
 - [[Keep Your Heart]] — Proverbs 4:21–27 commands the keeping of heart, eyes, and feet that 31:1, 7, 9
   swears to; see [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
 - [[Do Not Withhold Good]] — Proverbs 3:27–28 commands the timely good Job claims to have given (31:16–23); see

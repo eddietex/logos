@@ -74,6 +74,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]] | thread | Job 1:21 · Ecclesiastes 5:15 · Psalm 49:16–17 · 1 Timothy 6:7 · Genesis 3:19 · Luke 12:16–21 |
 | [[A Name for Ourselves and a Great Name]] | parallel | Genesis 6:4 · Genesis 11:4 · Genesis 12:2 · 2 Samuel 7:9 · Isaiah 56:5 · Philippians 2:6–11 |
 | [[The Names of Esau's Wives - Genesis 26 and Genesis 36]] | parallel | Genesis 26:34–35 · Genesis 28:6–9 · Genesis 36:2–3 · Genesis 27:46 |
+| [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]] | parallel | Proverbs 5:8–10, 22 · Job 31:8–12 · Job 1:13–19 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:1–23) · [[Job's Oath of Innocence]] |
 | [[The Nephilim and the Giants of Canaan]] | thread | Genesis 6:4 · Numbers 13:31–33 · Deuteronomy 2:10–11, 3:11 · Joshua 11:21–22 · 1 Samuel 17:4–7 · 2 Samuel 21:15–22 |
 | [[Nimrod and the Kingdoms of Shinar and Assyria]] | thread | Genesis 6:4 · Genesis 10:8–12 · Genesis 11:1–9 · 1 Chronicles 1:10 · Micah 5:6 · 2 Kings 17:5–23 · Daniel 1:1–2 |
 | [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] | allusion | Job 42:2 · Genesis 11:6 · Job 40:9 · Genesis 18:14 |

@@ -250,7 +250,17 @@ feet and still lost the body's health; see [[Heart, Eyes, and Feet - Proverbs 4 
 
 See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Her feet go down to death — Proverbs 5:5–6, 23
+
+*"Her feet go down to death. Her steps lead straight to Sheol. She gives no thought to the way of
+life"* (5:5–6). The lecture ends with the man who followed her: *"He will die for lack of
+instruction"* (5:23). Death here is the end of a road, the opposite of 4:22's words that are
+*"life to those who find them"*. See [[The Strange Woman and the Wife of Your Youth]] and [[Sheol]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:5–6, 23; her steps to Sheol, and death for lack
+  of instruction
 
 - [[Keep Your Heart]] — Proverbs 4:22–23; the father's words as life, the heart as life's wellspring
 

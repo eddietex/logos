@@ -15683,3 +15683,48 @@ at bible-api.com, fetched this pass; no unstored book was added to `raw/`. Hebre
 4:20–27 read from Sefaria's *Miqra according to the Masorah*: *marpēʾ* (4:22), *mikkol-mišmār* and
 *tôṣəʾôṯ* (4:23). The root link of *marpēʾ* to 3:8's *rip̄ʾûṯ* is the conventional lexical one and
 is qualified as unchecked against a lexicon at the point of the claim. No raw text changed.
+
+## [2026-10-25] ingest | Proverbs 5.1-23 — The Strange Woman and the Wife of Your Youth
+
+Unattended run (`/ingest auto`). The planned 5:1–23 boundary is kept: *"My son"* opens it at 5:1
+and again at 6:1. Sefaria's *Miqra according to the Masorah* marks a *petuḥah* after 5:6 as well as
+after 5:23; the inner break is treated as a section of one lecture, since 5:7's *"Now therefore"*
+continues the subject. The strange woman of 2:16–19 gets her first full lecture: honeyed lips and a
+bitter end, the door of her house and the loss of everything to strangers, a confession of hated
+instruction made too late, and the son's own wife set against her as his cistern and spring, with
+delight in her commanded (5:18–19). The lecture closes with every way of man before Yahweh's eyes
+and the wicked held by the cords of his own sin.
+
+**Tension recorded:** Proverbs 5:22's self-catching snare is the image Bildad turns on Job (Job
+18:8–10), a man God called blameless (1:8); and Job, who swore he kept away from the neighbour's
+door (31:9), lost his household anyway (1:13–19). Recorded on the passage page, [[Retribution]], and
+the new parallel connection, not resolved.
+
+**Judgment calls:** the strange woman, the wife, and the unnamed father and son get no person pages
+([[Sexual Sin]] remains the strange woman's page). The WEB's question at 5:16 is followed, with the
+note that the Hebrew has no interrogative particle and other readings exist. *"The cruel one"* (5:9)
+is left unidentified. The Job 31:9–12 parallel gets its own connection rather than being folded
+into the Proverbs 4 / Job 31 page, because it matches a different lecture point for point.
+
+**Created (3):** [[The Strange Woman and the Wife of Your Youth]] and two connections,
+[[The Neighbor's Door - Proverbs 5 and Job 31.9-12]] and
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]].
+
+**Revised content pages (16):** [[Proverbs]]; eight themes — [[Sexual Sin]], [[Marriage]], [[Love]],
+[[Language and Speech]], [[Life and Death]], [[Folly]], [[Seeing and Being Seen]], [[Retribution]];
+one place — [[Sheol]]; one connection —
+[[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]]; five reciprocal passage
+updates — [[Keep Your Heart]], [[If You Seek Her as Silver]], [[Job's Oath of Innocence]],
+[[Bildad's Second Speech]], [[Oh That I Knew Where I Might Find Him]].
+
+**Bookkeeping (7 revised files including this log):** books index, themes index, places index,
+Connections Index I-N and T-Z, main index, and log. Totals: 155 passages, 179 people, 90 places,
+83 themes, 401 connections.
+
+**Sources:** all Proverbs 5 verses copied from stored WEB Proverbs. Comparisons checked in stored
+Proverbs 1:7, 17–18, 29–30; 2:16–17; 4:1, 20, 26–27 and Job 1:8, 13–19; 18:8–10; 24:15, 23; 31:1,
+8–12. Song of Solomon 4:12–15, Ecclesiastes 9:9, Malachi 2:14–15, 1 Corinthians 7:2–5, and Hebrews
+13:4 quoted from the WEB at bible-api.com, fetched this pass; no unstored book was added to `raw/`.
+Hebrew of Proverbs 5, Proverbs 4:26, and Malachi 2:14 read from Sefaria's *Miqra according to the
+Masorah*. The sense ranges given for *pls* and *šāḡâ* are conventional lexical ones and are
+qualified as unchecked against a lexicon at the point of the claim. No raw text changed.

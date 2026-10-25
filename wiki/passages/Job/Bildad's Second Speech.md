@@ -177,6 +177,8 @@ world"* (18:18).
 
 ## Cross-references
 
+- [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:22, *"The cords of his sin hold him
+  firmly"*; the self-catching snare of 18:8–10 stated of a man shown sinning, not of a blameless one.
 - [[The Lamp of the Wicked Put Out]] — 18:5–6 against Proverbs 13:9, 20:20, and 24:20, and against
   Job's frontal reply at 21:17.
 - [[The Prosperity of the Wicked]] — the three set pieces (15:20–35, 18:5–21, 20:4–29) and Job's
