@@ -40,6 +40,8 @@ tags: [connection]
 
 - **Exodus 27:9–21** — [[The Altar and the Court]]; the altar, court, or their continuing service.
 
+- [[The Work Completed]] — Exodus 39:32–43; Completed and approved manufacture precedes indwelling glory.
+
 ## Analysis
 
 **One word runs through the thread: Hebrew *šākan*, *to dwell*, and Greek *skēnē*, *tent*.**
@@ -136,6 +138,17 @@ presence.
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### The work completed — Exodus 39:32–43
+
+Exodus 39:32 declares the work finished, and 39:43 joins Moses’ inspection to blessing.
+The inventory is presented to him before he erects the tabernacle in chapter 40. The completion
+of manufacture, the completion of installation in 40:33, and the filling in 40:34–35 are distinct
+narrative moments. The dwelling promise is approaching fulfillment, but no glory appears in the
+inspection itself and no claim is made that workmanship compels God to inhabit the tent.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

@@ -251,6 +251,16 @@ mediates the command named seven times, while the craftspeople execute it.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The work is brought to Moses, the recipient of Yahweh’s commands, and he verifies its
+conformity before blessing the people (39:33, 43). This is mediation expressed through oversight
+and recognition. It is not a fresh intercession against threatened destruction or a priestly
+ordination: no plea or blessing speech is quoted.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Moses’ received commands and administrative direction organize shared service.
@@ -482,6 +492,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Priestly Garments]] — Exodus 28:1–43; the high priest carries Israel's names, judgment, and iniquity before Yahweh.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; Moses ordains the priests; the meeting place at the tent's door.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The objects bearing Israel’s names are made; their use remains ahead.
+
+- [[The Work Completed]] — Exodus 39:32–43; The recipient of the design also receives and inspects its execution.
 
 ## Related themes
 

@@ -60,6 +60,16 @@ garment. His participation belongs to the shared commission of 36:1–2; the sas
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The shared commission of 36:1–2 reaches the completion and inspection of 39:32–43.
+Oholiab is not individually named here; the narrator credits the children of Israel. His earlier
+place alongside Bezalel (38:23) supplies context without making him the sole presenter of the
+finished articles or an individually named recipient of Moses’ blessing.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
@@ -81,6 +91,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Appointed alongside Bezalel — Exodus 31:6.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Contextual craft leader; embroidery is reported without naming its maker.
+
+- [[The Work Completed]] — Exodus 39:32–43; Contextual craft leader; no individual role in the presentation specified.
 
 ## Related people
 

@@ -92,6 +92,8 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
 - [[The Ten Commandments]] — Exodus 20:8–11 makes the creation pattern the ground of a
   household-wide obligation to rest.
 
+- [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] — Exodus 39:32–43; a literary parallel with differing order and recipients of blessing.
+
 ## Notes
 
 - **"In the beginning"** (Hebrew *bərē'šît*) can be read as an absolute statement ("In the

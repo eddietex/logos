@@ -98,6 +98,17 @@ final Sabbath command, but does not itself label the tabernacle a new creation. 
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### The work completed — Exodus 39:32–43
+
+Genesis 1:31–2:3 and Exodus 39:32–43 both bring making to a close with inspection,
+completion, and blessing. Their order and subjects differ: God sees creation and blesses the
+seventh day; Moses sees Israel’s work and blesses the people. This supports a literary parallel,
+not an explicit assertion that the tent is the cosmos or that it was made in six days.
+See [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation remembered in the covenant
@@ -231,6 +242,8 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
 - [[The Ten Commandments]] — Exodus 20:4, 11; creation supplies the Sabbath pattern and the scope of
   the image prohibition
+
+- [[The Work Completed]] — Exodus 39:32–43; Completion, seeing, and blessing invite comparison with Genesis 1:31–2:3.
 
 ## Related themes
 

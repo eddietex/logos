@@ -571,6 +571,16 @@ His role as transmitter of the design is therefore distinct from both craft and 
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The people bring the tabernacle and its equipment to Moses (39:33–41). He sees that the
+work conforms to Yahweh’s command and blesses them (39:43). The mediator who received the design
+now assesses its execution; the text does not give his inspection procedure or blessing’s words.
+His approval closes the making report, before his raising of the tabernacle in chapter 40.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -815,6 +825,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1–46; told to ordain the priests himself, and given the breast of the ram as his portion.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; told to make the incense altar, collect the census ransom, and compound and apply the anointing oil.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Named seven times as the recipient of the command governing the garments.
+
+- [[The Work Completed]] — Exodus 39:32–43; Receives, inspects, and blesses the finished work’s makers.
 
 ## Related people
 

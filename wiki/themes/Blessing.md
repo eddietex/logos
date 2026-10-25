@@ -178,6 +178,17 @@ Moses connects the Levites’ consecration, even against son and brother, with b
 Shechem. The texts give different evaluations of distinct events, and the moral tension must stay
 visible. See [[The Golden Calf]].
 
+### The work completed — Exodus 39:32–43
+
+Moses blesses the people after seeing that they have made everything as Yahweh commanded
+(39:43). The blessing recognizes obedient work and is directed to people, not expressly to the
+objects. Its words are not reported; no later blessing formula should be inserted as though
+quoted here. Compare God’s blessing of the seventh day in Genesis 2:3 through
+[[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses connects the Levites’ consecration, even against son and brother, with blessing that day (32:29).
@@ -405,6 +416,8 @@ visible. See [[The Golden Calf]].
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; God promises to come and bless where he records
   his name
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; bread, water, health, fertility, and full days for those who serve Yahweh.
+
+- [[The Work Completed]] — Exodus 39:32–43; Moses blesses the people after approving their work; his words are not supplied.
 
 ## Related themes
 

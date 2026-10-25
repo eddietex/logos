@@ -154,6 +154,8 @@ WEB text, Exodus 38:1–31, copied from the stored source.
 - [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] — outer equipment prepares the dwelling; glory follows in Exodus 40.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The making account continues with priestly clothing after the equipment and inventory.
 
+- [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
+
 ## Notes
 
 ### Boundary and responsibility

@@ -21,6 +21,8 @@ tags: [connection]
 - [[The Ten Commandments]] — Exodus 20:8–11.
 - Deuteronomy 5:12–15 — the parallel Sabbath instruction; verified WEB, not yet ingested.
 
+- [[The Work Completed]] — Exodus 39:32–43; Completion and blessing evoke creation without a new rest command.
+
 ## Analysis
 
 Exodus 20:11 expressly grounds the command in God's making of heaven, earth, sea, and their contents
@@ -102,6 +104,18 @@ so the building commission has no stated Sabbath exemption. The fire rule is not
 by its wording to workshop fires, and no case of its enforcement is narrated.
 
 Source: the cited verses checked in local raw WEB, 2026-10-24.
+
+### The work completed — Exodus 39:32–43
+
+The sanctuary’s work is finished and Moses blesses the people (39:32, 43), inviting
+comparison with the completion and blessing of Genesis 2:1–3. Unlike Exodus 20:11 or 31:17,
+this unit supplies no explicit creation rationale and no command to rest. Its relation to
+creation is a literary reading, set out in
+[[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]], not evidence of a six-day
+construction period or an additional Sabbath observance.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

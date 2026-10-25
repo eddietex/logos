@@ -140,8 +140,9 @@ with the next pericope, and erection and service remain ahead.
 - [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]] — design enacted without explaining the mountain showing.
 - [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]] — the named stones now made.
 - [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]] — their absence from the making report.
-- Exodus 39:32–43; 40:12–17 — completion, inspection, and the later instructions to clothe the priests
-  (checked in local WEB; not yet ingested).
+- Exodus 40:12–17 — the later instructions to clothe the priests (checked in local WEB; not yet ingested).
+
+- [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
 
 ## Notes
 
@@ -196,6 +197,6 @@ schedule or exact Hebrew formula is inferred.
 
 All thirty-one WEB verses were copied mechanically from `raw/bible/Exodus.md`. Comparisons
 were checked there against Exodus 28; 29:4–9; 31:1–11; 35:19–35; 36:1–7; 38:22–24;
-39:32–43; and 40:12–17, 34–35. Later Exodus units were read for comparison only and remain
-unchecked. No quotation from an unstored book, new source-language claim, or raw-text edit
-was introduced. Existing connections retain their separately documented later-source checks.
+39:32–43; and 40:12–17, 34–35. The inspection is now ingested in [[The Work Completed]];
+chapter 40 remains unchecked. No quotation from an unstored book, new source-language claim,
+or raw-text edit was introduced. Existing connections retain their separately documented later-source checks.

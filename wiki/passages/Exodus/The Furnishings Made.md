@@ -155,6 +155,8 @@ WEB text, Exodus 37:1–29, copied from the stored source.
   furnishings serve the dwelling promise; installation and filling in Exodus 40 remain ahead
   of the ingestion queue, though their WEB text has been checked locally.
 
+- [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
+
 ## Notes
 
 ### Boundary and attribution

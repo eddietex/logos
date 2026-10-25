@@ -224,6 +224,16 @@ explicitly tied to the half-shekel census levy (38:24–29). The altar law’s e
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The work completed — Exodus 39:32–43
+
+The golden altar, sweet incense, bronze altar, and associated vessels are brought with
+the completed work (39:38–39). This realizes the material preparation for worship without
+narrating a sacrifice or incense offering. The willing gifts of 35:20–29 have become equipment;
+Moses’ blessing of the people does not say those gifts purchased pardon for the calf.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Altar made; contributed metals distinguished from the fixed census payment.
@@ -359,6 +369,8 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Altar and the Court]] — Exodus 27:1–21; A portable crafted altar is prescribed; its relation to the earth-or-stone law remains open.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; sin offering, burnt offering, ram of consecration, and the continual burnt offering.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:9–10, 13; an altar for incense only, and the half shekel as *tərûmâ*.
+
+- [[The Work Completed]] — Exodus 39:32–43; The altars and supplies are delivered; no offering is performed.
 
 ## Related themes
 

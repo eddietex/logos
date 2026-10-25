@@ -208,6 +208,17 @@ or enact the consecration rite. Manufacture and ritual sanctification are distin
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The holy garments, anointing oil, incense, and bounded sanctuary components belong to
+the delivered inventory (39:33–41). Moses’ approval and blessing do not replace the separate
+commands to anoint and sanctify the sanctuary and priests in 40:9–15. The designation of the
+garments as holy therefore should not be converted into a report that every consecration rite
+has already taken place.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Court and basin prepare bounded, washed approach without an ordination rite.
@@ -266,6 +277,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1, 21, 33–37, 43–44; priests, garments, food, and altar made holy; holiness by touch.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10, 29, 32–38; *"most holy"* three times, holiness by touch, and recipes reserved to God.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Holy garments and the inscribed holy crown are made.
+
+- [[The Work Completed]] — Exodus 39:32–43; Holy garments and anointing oil are present; consecration is not enacted here.
 
 ## Related themes
 

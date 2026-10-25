@@ -153,6 +153,17 @@ It supplies neither a new craftsman’s name nor a claim that skill requires no 
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The capacities and shared commission described in 35:30–36:2 culminate in finished
+articles approved by Moses (39:43). The completion unit does not repeat the account of gifted
+wisdom or name an individual craftsman; it shows the outcome of that earlier equipping.
+Approval concerns conformity to the received command, not a claim that craftsmanship requires
+no training or that every Israelite performed every task.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Oholiab’s practical skills named beside credited work (38:23).
@@ -299,6 +310,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
   (1:13) — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - [[The Priestly Garments]] — Exodus 28:1–43; the wise-hearted makers filled with *"the spirit of wisdom"*.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Skill takes material form in metalwork, stone engraving, and textiles.
+
+- [[The Work Completed]] — Exodus 39:32–43; Previously commissioned skill produces work that withstands review.
 
 ## Related themes
 

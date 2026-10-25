@@ -14988,3 +14988,63 @@ file as designed; no fetch or raw edit was required.
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. No operational blocker remains;
 the interpretive limits above remain explicit on the relevant pages.
+
+## [2026-10-25] ingest | Exodus 39.32-43 — The Work Completed
+
+Ingested [[The Work Completed]] in one unattended invocation, retaining the planned
+39:32–43 boundary. Exodus is now **52 / 53** pericopes ingested and remains in progress.
+The passage includes all twelve WEB verses, the completed inventory, Moses’ inspection
+and blessing, and discussion of collective obedience. Only this queue box was checked.
+
+### Decisions and tensions
+
+- Created [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] for the
+  literary comparison with Genesis 1:31–2:3. Completion, seeing, and blessing recur, but
+  their order, agents, and recipients differ. The comparison uses the stored English text;
+  it does not claim identical Hebrew words, six days of construction, a Sabbath observance
+  at inspection, or a cosmic meaning for every sanctuary object.
+- Kept manufacture, inspection, erection, consecration instructions, and filling distinct.
+  The completed work of 39:32 and Moses’ completion in 40:33 concern different tasks.
+  The presence of bread, oil, incense, and holy clothing in the delivered inventory does
+  not mean their use, anointing, or priestly dressing is already narrated.
+- Moses’ blessing is reported without its words. No later blessing formula was supplied.
+  The text credits Israel collectively without denying the named leaders and skilled
+  workers of the surrounding narrative. Bezalel and Oholiab are contextual, not named here.
+- Aaron’s sons receive contextual coverage from 28:1; no individual acts are invented.
+  Israel here is the people, not a personal appearance of Jacob. No new person page was
+  needed. The continuing camp setting remains under [[Horeb]], without claiming that this
+  unit names a geographical location.
+- Compared Moses’ blessing after inspection with his anger at the calf (32:19). The
+  later obedience does not erase the earlier breach, excuse Aaron’s role, or establish
+  that gifts bought pardon. Existing descriptive tensions in the command-and-making
+  accounts, including the stored WEB’s sash/turban discrepancy, remain explicit.
+- Revised seven existing connections and seven earlier passage pages, including the
+  now-stale un-ingested status of 39:32–43. No title collision, pericope boundary change,
+  category split, schema edit, or harness compatibility change was required.
+
+### Sources and verification
+
+All twelve verses were copied mechanically from `raw/bible/Exodus.md` and verified for
+exact equality. Comparisons used stored WEB Genesis 1:31–2:3 and Exodus 28:1; 32:8, 19–20;
+35:1–36:2; 38:21–23; 39:1–43; and 40:1–38. Chapter 40 was read only for comparison and
+remains unchecked. No new quotation from an unstored book or assertion about exact
+Greek/Hebrew wording was introduced. Existing later-source connections retain their source
+notes and qualifications. The fetch script refused to overwrite the existing Exodus file
+as designed; no source fetch or raw-text change was needed.
+
+### Pages created or revised
+
+- **Created (2):** one passage and one connection.
+- **Existing content pages revised (40):** Exodus; seven earlier passages; nine people;
+  one place; fifteen themes; seven connections.
+- **Bookkeeping revised (11):** top-level and book indexes; three people subindexes;
+  places and themes indexes; three connections subindexes; this log.
+- **Totals by frontmatter type:** 143 passages, 177 people, 90 places, 82 themes,
+  379 connections; 3 books started, 2 complete. Every category page has exactly one index
+  row; subindex sorting and filing ranges pass. New titles are unique, and all listed
+  people, place, themes, and existing connections link back to the new passage.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. No operational blocker remains;
+the interpretive limits above are stated on the relevant pages.

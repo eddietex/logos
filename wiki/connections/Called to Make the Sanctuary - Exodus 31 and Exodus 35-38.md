@@ -23,6 +23,8 @@ tags: [connection]
   [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Garment making continues the shared commission; no individual maker named.
 
+- [[The Work Completed]] — Exodus 39:32–43; The shared commission reaches presentation and inspection.
+
 ## Analysis
 
 Exodus 31 names [[Bezalel]] and [[Oholiab]], attributes wisdom to the wider company, and assigns the
@@ -117,6 +119,17 @@ allocating each craft operation to an individual. The chapter 39 extension there
 another part of the assigned work while leaving the formal review in 39:32–43 ahead.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
+### The work completed — Exodus 39:32–43
+
+The whole commissioned inventory is now delivered to Moses (39:33–41). The collective
+credit to Israel (39:32, 42) includes the shared work already narrated, without naming Bezalel
+or Oholiab again or identifying who carried each article. Moses’ inspection and blessing (39:43)
+add public recognition to the chain of command, appointment, supply, and manufacture. The final
+raising of the tabernacle remains a separate task in chapter 40.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

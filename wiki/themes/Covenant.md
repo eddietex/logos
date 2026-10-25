@@ -280,6 +280,16 @@ renewal in chapter 34 and the making in chapter 37 are related without becoming 
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The work completed — Exodus 39:32–43
+
+The people who turned from the commanded way in 32:8 now complete the work according
+to Yahweh’s command (39:32, 42–43), after the renewal of chapter 34. This is a changed response,
+not a denial of the earlier breach or a new covenant ceremony. The ark of the testimony is in
+the presented inventory (39:35); placing the testimony in it is narrated separately in 40:20.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The testimony’s container made after renewal; placement is still ahead.
@@ -492,6 +502,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The ark of the testimony is assigned to the most holy place (26:33–34).
 - [[The Ordination of the Priests]] — Exodus 29:45–46; *"and will be their God"*, the covenant formula joined to the dwelling.
+
+- [[The Work Completed]] — Exodus 39:32–43; Obedient construction follows renewal without constituting another covenant rite.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

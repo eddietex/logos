@@ -30,9 +30,7 @@ tags: [connection]
 - **Exodus 25:9** — *"According to all that I show you, the pattern of the tabernacle, and the pattern of
   all of its furniture, even so you shall make it."* The formula's words in the instruction, before the
   building — [[The Offering for the Sanctuary]]
-- **Exodus 39:32, 42–43; 40:16** — the finished tabernacle: *"The children of Israel did according to
-  all that Yahweh commanded Moses; so they did"*; *"Moses did so. According to all that Yahweh
-  commanded him, so he did."* (not yet ingested)
+- **Exodus 40:16** — Moses’ obedience in the erection account (checked in stored WEB; not yet ingested).
 
 - **Exodus 29:1–37; Leviticus 8:4, 9, 13, 17, 21, 29, 36** — the ordination commanded, then performed
   *"as Yahweh commanded Moses"* (verified WEB, not yet ingested) — [[The Ordination of the Priests]],
@@ -42,6 +40,8 @@ tags: [connection]
 
 - **Exodus 27:1–19; 38:1–7, 9–20; 40:6–8, 24–33** — [[The Altar and the Court]]; the altar, court, or their continuing service.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Seven WEB notices of obedience, before the final completed-work report.
+
+- [[The Work Completed]] — Exodus 39:32–43; Collective obedience affirmed and verified by Moses.
 
 ## Analysis
 
@@ -157,6 +157,18 @@ in 39:32, 42–43 remain outside this unit. Correspondence with chapter 28 is de
 verbatim; omitted explanations of use do not cancel the earlier commands.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
+### The work completed — Exodus 39:32–43
+
+The three notices in 39:32, 42, and 43 now belong to an ingested passage. They move
+from the narrator’s completion statement to a repeated collective attribution and then to Moses’
+inspection. The inventory between them gives concrete content to the claim: enclosure, furniture,
+supplies, court, and priestly garments. Israel’s collective credit does not deny the named makers
+of 38:22–23. This extension compares the WEB narrative without making a new claim about exact
+Hebrew formulae. Chapter 40:16 remains ahead in the queue.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

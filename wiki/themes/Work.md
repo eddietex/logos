@@ -188,6 +188,17 @@ singular and plural descriptions do not distribute these tasks among named indiv
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The children of Israel receive collective credit for the work (39:32, 42), alongside the
+earlier attribution to named leaders and skilled workers (36:1–2; 38:22–23). The articles are
+brought to Moses, who inspects and blesses (39:33–43). Work has an accountable completion rather
+than an indefinite demand for more. Completion of manufacture is not completion of installation:
+Moses still raises the structure and finishes that work in 40:17–33.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Craft, women’s contributions, and material accounting serve the sanctuary.
@@ -342,6 +353,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Altar and the Court]] — Exodus 27:1–21; Making the altar and court leads into the recurring work of maintaining the light.
 - [[The Priestly Garments]] — Exodus 28:1–43; skilled weaving, engraving, and embroidery for vestments.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Gold cut into wires and integrated with skilled textile and stone work.
+
+- [[The Work Completed]] — Exodus 39:32–43; Shared craftsmanship is completed, presented, inspected, and approved.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

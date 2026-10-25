@@ -217,6 +217,17 @@ erected. This remains contextual coverage under the existing Horeb/Sinai page.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The completed sanctuary and equipment are brought to Moses within the continuing Sinai
+camp narrative (39:33–43). The unit gives no new geographical location and narrates no departure.
+The completed work is not yet the erected, cloud-filled sanctuary of chapter 40. Coverage here
+is contextual under the existing Horeb/Sinai identification, rather than a claim that the name
+Horeb occurs in these verses.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Appears in
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; continuing Sinai construction setting inferred from context.
@@ -285,6 +296,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1–46; the ordination and the daily offering prescribed during Moses' stay on the mountain.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; the incense altar, ransom, basin, oil, and incense prescribed during Moses' stay on the mountain.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Continuing Sinai camp setting; no new geographical location named.
+
+- [[The Work Completed]] — Exodus 39:32–43; The continuing Sinai camp; no new geographical location named.
 
 ## Related places
 

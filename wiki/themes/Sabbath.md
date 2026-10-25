@@ -111,6 +111,17 @@ explicitly attached to the fire rule. See [[Creation as the Ground of the Sabbat
 
 See [[The Freewill Offering]].
 
+### The work completed — Exodus 39:32–43
+
+The completed-work and blessing report (39:32–43) can be read beside Genesis 2:1–3,
+where God finishes, rests, and blesses the seventh day. Exodus’s construction sequence began
+under the Sabbath rule (35:1–3), but 39:32–43 supplies neither a day count nor a new report
+of Sabbath observance. The comparison must not invent a six-day manufacturing schedule.
+See [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Rest precedes the public sanctuary commission; kindling fire is forbidden.
@@ -151,6 +162,8 @@ See [[The Freewill Offering]].
 
 - [[The Ten Commandments]] — Exodus 20:8–11; creation-grounded rest required for the whole household
 - [[The Altar and the Hebrew Slave]] — Exodus 21:2; six years of service and release in the seventh
+
+- [[The Work Completed]] — Exodus 39:32–43; Creation’s rest supplies comparative context; no Sabbath observance is narrated.
 
 ## Related themes
 

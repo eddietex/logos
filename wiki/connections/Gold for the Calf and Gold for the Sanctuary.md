@@ -14,6 +14,8 @@ tags: [connection]
 - [[Show Me Your Glory]] — Exodus 33:4–6; jewelry removed in mourning.
 - [[The Freewill Offering]] — Exodus 35:1–29; gold and other materials willingly contributed.
 
+- [[The Work Completed]] — Exodus 39:32–43; Moses’ inspection ends in blessing rather than anger.
+
 ## Analysis
 
 Two assemblies and two collections frame the contrast. In Exodus 32:1 the people gather to Aaron
@@ -52,6 +54,18 @@ by themselves distinguish acceptable from condemned work. Chapter 37 still does 
 individual pieces of gold back to the calf or to particular donors.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### The work completed — Exodus 39:32–43
+
+Exodus 32:19 describes Moses seeing the calf and dancing and breaking the tablets in
+anger. Exodus 39:43 describes him seeing work done according to Yahweh’s command and blessing
+the people. The reversed response gives a narrative conclusion to the contrast between the
+two projects. Israel’s earlier departure from the commanded way (32:8) remains part of its
+history; the approval of this work does not make it never to have happened or make donations
+a purchase of forgiveness.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

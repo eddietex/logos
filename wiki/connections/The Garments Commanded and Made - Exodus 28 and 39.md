@@ -13,6 +13,8 @@ tags: [connection]
   and succession prescribed separately.
 - [[The Freewill Offering]] — Exodus 35:19–27; the clothing commissioned and materials brought.
 
+- [[The Work Completed]] — Exodus 39:32–43; The garments are presented and included in Moses’ approval.
+
 ## Analysis
 
 The same main articles move from command to manufacture: the ephod (28:6–14; 39:2–7),
@@ -53,6 +55,17 @@ prescribes washing, dressing, anointing, and a seven-day ordination. Those direc
 fulfilled merely by the objects’ existence. Likewise, the seven WEB obedience notices in
 39:1, 5, 7, 21, 26, 29, 31 do not supply a seven-day work schedule. See
 [[As God Commanded, So He Did - The Obedience Formula]].
+
+### The work completed — Exodus 39:32–43
+
+The clothing made in 39:1–31 is now listed among the articles brought to Moses (39:41)
+and included in his approval of all the work (39:43). This advances from manufacture to delivery
+and inspection, while leaving dressing and anointing to the subsequent instructions (40:12–15).
+The approval must not silently erase the stored WEB’s sash/turban discrepancy or fill in the
+unreported Urim and Thummim: those textual limits remain as described above.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

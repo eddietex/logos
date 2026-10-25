@@ -158,6 +158,8 @@ WEB text, Exodus 35:1–29, copied from the stored source.
   building remains ahead in Exodus 39–40.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The contributed textiles, gold, and stones become garments, including the stones brought by the rulers.
 
+- [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
+
 ## Notes
 
 ### Boundary and sequence

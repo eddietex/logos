@@ -89,6 +89,17 @@ and the withheld divine face remain distinct.
 
 See [[The Shining Face of Moses]].
 
+### The work completed — Exodus 39:32–43
+
+Moses sees all the work and recognizes that it has been made according to the command
+(39:43). Here seeing is an act of assessment, followed by blessing. The resemblance to God’s
+seeing everything made in Genesis 1:31 supports a literary comparison without identifying Moses
+with God or claiming a new vision. See
+[[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Israel sees Moses shining, not the divine face withheld in 33:20.
@@ -372,6 +383,8 @@ See [[The Shining Face of Moses]].
   toward Sodom (Genesis 18:16; 19:28; WLC)
 - [[Israel at Mount Sinai]] — Exodus 19:11, 17–21; an announced public descent and a prohibited rush to gaze
 - [[The Blood of the Covenant]] — Exodus 24:10–11; *"They saw the God of Israel"*, and ate and drank
+
+- [[The Work Completed]] — Exodus 39:32–43; Moses’ seeing assesses conformity rather than recording a vision.
 
 ## Related themes
 

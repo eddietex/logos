@@ -148,6 +148,8 @@ WEB text, Exodus 36:8–38, copied from the stored source.
   25:8–9 supplies the purpose; 40:18–35 supplies erection and filling, read in local WEB but
   not yet ingested. Those events are not advanced into chapter 36.
 
+- [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
+
 ## Notes
 
 ### Boundary, agency, and completion

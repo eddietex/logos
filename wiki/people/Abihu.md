@@ -73,6 +73,16 @@ to manufactured clothing without yet narrating their dressing or ordination.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The garments of Aaron’s sons are included among the completed articles brought to Moses
+(39:41). The four sons are identified by the earlier appointment list in 28:1, not named again
+here. This is a report of their prepared clothing, not of their dressing, ordination, or service.
+Moses’ inspection and blessing apply to the completed work and its makers (39:43).
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
@@ -104,6 +114,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1–46; included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:19–21, 30; included among Aaron's sons who wash at the basin and are anointed.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Included among Aaron’s sons for whom garments are made; not individually named here.
+
+- [[The Work Completed]] — Exodus 39:32–43; Included among Aaron’s sons whose garments are delivered; not individually named.
 
 ## Related people
 

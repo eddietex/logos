@@ -113,6 +113,8 @@ scene.
 - [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] — three later retellings, with their additions and emphases distinguished.
 - [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]] — Paul's explicit use of Exodus 32:6 as a warning against idolatry.
 
+- [[The Work Completed]] — Exodus 39:32–43; Moses sees commanded work and blesses, contrasting with his response in 32:19.
+
 ## Notes
 
 ### What kind of worship?

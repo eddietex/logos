@@ -256,6 +256,18 @@ of use. These differences must be retained alongside its explicit claim of obedi
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+Exodus 39:32, 42, and 43 frame the inventory with explicit affirmations of obedience in
+the stored WEB. The first two credit Israel; the last joins Moses’ inspection to the standard
+Yahweh commanded. This answers the departure from the commanded way in 32:8 without denying
+that earlier breach. The final verdict asserts conformity, not a word-for-word identity between
+the design and every manufacturing description. See
+[[As God Commanded, So He Did - The Obedience Formula]].
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
@@ -313,6 +325,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The mountain design governs construction; the lamp rule governs succeeding generations.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Seven WEB obedience notices punctuate the garment account.
+
+- [[The Work Completed]] — Exodus 39:32–43; Three framing notices affirm conformity to Yahweh’s command.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

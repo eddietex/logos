@@ -32,6 +32,8 @@ Exodus 26:30 is read from `raw/bible/Exodus.md`.)
 - **Exodus 27:8** — [[The Altar and the Court]]; the altar, court, or their continuing service.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Garments follow the commanded design; no new account of the mountain showing.
 
+- [[The Work Completed]] — Exodus 39:32–43; The design is assessed in the completed articles.
+
 ## Analysis
 
 **Exodus 25 twice says that Moses was shown a design without describing the form of the showing.**
@@ -137,6 +139,17 @@ neither describes what Moses saw on the mountain nor says that the garment maker
 prototype. The later interpretation in Hebrews remains distinct from the manufacturing report.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
+### The work completed — Exodus 39:32–43
+
+Moses sees that the finished work follows Yahweh’s command (39:43). The recipient of
+the design thus assesses the result, turning the instruction into a narrated verdict of
+compliance. This verse gives neither an inspection procedure nor another description of what
+was shown on the mountain. It does not independently establish the later interpretation of a
+heavenly prototype.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
 
 ## Significance
 

@@ -112,6 +112,16 @@ of the tabernacle in 40:34–35, which lies beyond this ingest.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+Exodus 39:32–43 reports completed manufacture and Moses’ blessing, but no cloud or filling
+with glory. The separate account of the filling in 40:34–35 must retain its own place in the
+narrative. An approved sanctuary prepares for the promised dwelling; the inspection does not
+itself make the glory arrive.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The encounter leaves a visible effect on the mediator.
@@ -134,6 +144,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Priestly Garments]] — Exodus 28:1–43; garments *"for glory and for beauty"*.
 - [[The Ordination of the Priests]] — Exodus 29:43; the meeting place *"sanctified by my glory"*.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Garments designed for glory and beauty made; no manifestation reported.
+
+- [[The Work Completed]] — Exodus 39:32–43; Finished and approved work precedes the manifestation in Exodus 40.
 
 ## Related themes
 

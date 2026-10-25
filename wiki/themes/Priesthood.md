@@ -159,6 +159,17 @@ anointing, or sacrifice is performed in this manufacturing account.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The inventory includes holy garments for Aaron the priest and garments for his sons
+(39:41). They are presented with the sanctuary equipment and approved as work. The blessing of
+39:43 is Moses’ act toward the people, not Aaron’s priestly blessing. No washing, dressing,
+anointing, or sacrificial ordination is performed in this unit; 40:12–15 still prescribes the
+priests’ preparation.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Ithamar accounts; Aaron is named; the women’s ministry is not defined as priesthood.
@@ -235,6 +246,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1–46; the ordination rite, the priests' portions, succession in the garments, and the daily lamb.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:7–10, 19–21, 30; incense morning and evening, yearly atonement on the incense altar, washing, anointing.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Priestly clothing made before the priests are dressed or ordained.
+
+- [[The Work Completed]] — Exodus 39:32–43; Priestly clothing is delivered without a dressing or ordination rite.
 
 ## Related themes
 

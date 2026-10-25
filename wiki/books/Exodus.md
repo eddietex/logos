@@ -64,6 +64,12 @@ Israel are engraved and the crown inscribed, but the priests are not yet dressed
 The making account retains differences of description from chapter 28, including the stored
 WEB’s sash/turban discrepancy; see [[The Garments Commanded and Made - Exodus 28 and 39]].
 
+[[The Work Completed]] (39:32–43) now gathers all the articles into a presentation to Moses.
+Israel receives collective credit for obedience; Moses inspects the work and blesses the people.
+The finish of manufacture is distinct from erection and filling in chapter 40. Its completion,
+seeing, and blessing also invite a literary comparison with Genesis 1:31–2:3; see
+[[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
+
 ## Structure
 
 - **1 The oppression** — the sons of Israel listed and the seventy counted, Joseph's generation
@@ -551,7 +557,7 @@ for unit.
 - [x] [[The Furnishings Made]] — Exodus 37:1–29
 - [x] [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31
 - [x] [[The Priestly Garments Made]] — Exodus 39:1–31
-- [ ] The Work Completed — Exodus 39:32–43
+- [x] [[The Work Completed]] — Exodus 39:32–43
 - [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38
 
 ## Key themes

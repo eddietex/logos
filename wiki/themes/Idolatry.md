@@ -168,6 +168,17 @@ concerns commanded use; it does not make gold itself either evil or proof of acc
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The work completed — Exodus 39:32–43
+
+Moses’ sight of the calf had led to anger and the breaking of the tablets (32:19);
+his sight of the finished sanctuary work now leads to blessing (39:43). The comparison concerns
+what has been made in relation to Yahweh’s command, not gold or craft skill as inherently evil
+or automatically acceptable. The later approval does not withdraw the earlier condemnation.
+See [[Gold for the Calf and Gold for the Sanctuary]].
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Commanded gold cherubim follow the condemned calf; the image tension stays explicit.
@@ -224,6 +235,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a snare; pillars demolished.
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Commanded cherubim appear on textiles as well as on the ark (26:1, 31).
+
+- [[The Work Completed]] — Exodus 39:32–43; Moses blesses commanded craftsmanship after condemning the calf.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

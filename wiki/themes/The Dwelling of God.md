@@ -179,6 +179,17 @@ completion, erection, and filling remain separately narrated after this pericope
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+All the work of the tabernacle is declared finished (39:32) and its components are brought
+to Moses (39:33–41). The dwelling’s readiness is therefore narrated before the raising and filling
+of chapter 40. Human inspection and blessing do not themselves constitute a manifestation of
+God’s presence. The finished-work declaration and Moses’ later completion in 40:33 describe
+distinct stages, rather than requiring either report to be erased.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Outer equipment and court made; erection and filling remain distinct.
@@ -218,6 +229,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:42–46; *"I will dwell among the children of Israel"*, the purpose of the exodus.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:6, 36; *"where I will meet with you"*, twice.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Clothing for holy-place service prepared before the sanctuary’s erection.
+
+- [[The Work Completed]] — Exodus 39:32–43; An approved sanctuary is ready before erection and filling.
 
 ## Related themes
 

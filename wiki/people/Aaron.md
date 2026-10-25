@@ -266,6 +266,16 @@ an account of forgiveness or consecration.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+Aaron is called priest in the list of garments brought to Moses (39:41), after the calf
+and covenant renewal. His holy garments are part of the approved work. The verse does not show
+him wearing them, blessing the workers, or beginning service: Moses gives the blessing in 39:43,
+and washing, clothing, and anointing are separately commanded in 40:12–15.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -375,6 +385,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1–46; washed, clothed, anointed, and consecrated for seven days; his garments pass to his successor.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; the morning and evening incense, the yearly atonement on the incense altar, the washing, and the anointing.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Garments now made for him; no dressing or ordination narrated.
+
+- [[The Work Completed]] — Exodus 39:32–43; Named as priest in the delivered garment inventory.
 
 ## Related people
 

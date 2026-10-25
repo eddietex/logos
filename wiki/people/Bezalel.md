@@ -65,6 +65,16 @@ new allocation of individual tasks.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The work led by Bezalel in the surrounding narrative is now brought to Moses and approved.
+Exodus 39:32, 42 credits the children of Israel collectively, while 38:22 names Bezalel’s work
+and 36:1–2 names the wider company. These are complementary levels of attribution. He is not
+named in 39:32–43, and the blessing is not restricted to him or to two master craftsmen.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Furnishings Made]] — Exodus 37:1–29; named as the ark maker; furnishings made.
@@ -90,6 +100,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Called and equipped for the sanctuary work — Exodus
   31:2–11.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Contextual craft leader; the garment unit does not name him.
+
+- [[The Work Completed]] — Exodus 39:32–43; Contextual craft leader; completion is credited to Israel collectively.
 
 ## Related people
 

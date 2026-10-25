@@ -1980,6 +1980,16 @@ or the arrival of glory. The holy clothing is made before the later acts of dres
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The work completed — Exodus 39:32–43
+
+The completion report names Yahweh as the one whose commands Israel has obeyed (39:32,
+42–43). No fresh divine speech or appearance occurs in this unit. Moses pronounces the blessing
+at its close; the narrator does not quote a blessing spoken by God or identify Moses’ words.
+The manifestation of glory remains a distinct event in 40:34–35.
+
+See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
+texts, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2667,6 +2677,8 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Ordination of the Priests]] — Exodus 29:1–46; He prescribes the ordination and says he brought Israel out to dwell among them.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Yahweh’s command measures the making; his name is engraved on the crown.
+
+- [[The Work Completed]] — Exodus 39:32–43; Yahweh’s command is the standard of the completed work.
 
 ## Related people
 
