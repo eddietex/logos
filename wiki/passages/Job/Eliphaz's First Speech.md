@@ -214,6 +214,8 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:16; *"six things … yes, seven"*,
+  the same numerical form as 5:19.
 - [[What Is Man That He Should Be Clean]] — 4:17–19, and the two later versions at 15:14–16 and
   25:4–6.
 - [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] — the friends' theology

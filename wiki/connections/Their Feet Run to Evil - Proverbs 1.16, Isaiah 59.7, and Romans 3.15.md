@@ -9,6 +9,11 @@ tags: [connection]
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:16: *"for their feet run to evil. They hurry to shed
   blood."* A father's description of a gang.
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17–18: *"hands that shed
+  innocent blood … feet that are swift in running to mischief"*. The same two verbs as 1:16 —
+  *raḡlayim məmahărôṯ lārûṣ lārāʿâ* — now in Yahweh's list of what he hates, with Isaiah's
+  *nāqî*, *innocent*, attached to the blood (*dām-nāqî*; Sefaria, *Miqra according to the
+  Masorah*).
 - Isaiah 59:7–8 *(not yet ingested)* — *"Their feet run to evil, and they hurry to shed innocent blood.
   Their thoughts are thoughts of iniquity. desolation and destruction are in their paths. They don't
   know the way of peace"* (WEB, checked against bible-api.com). A prophet's description of his people.

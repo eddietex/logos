@@ -217,6 +217,9 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17–18; *"hands that
+  shed innocent blood … feet that are swift in running to mischief"*, the gang's verbs of 1:16 in
+  the list of what Yahweh hates; and the bird escaping the fowler's snare (6:5).
 - [[Get Wisdom]] — Proverbs 4:1–9 recalls an earlier generation’s teaching and returns to the
   garland of 1:9.
 

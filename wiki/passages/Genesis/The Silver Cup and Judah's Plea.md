@@ -606,6 +606,8 @@ himself."***
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–5; the wisdom
+  warning against suretyship, set against Judah's pledge kept (44:32–33).
 - [[The Second Journey]] — Genesis 43:9, 33, 34; **this chapter collects on all three.** [[Judah]]'s
   ***ʿārab*** is quoted back at 44:32; **the seating in birth order becomes a search in birth order**
   (43:33 → 44:12); **and Benjamin's fivefold portion turns out to have been the first half of a test

@@ -295,7 +295,16 @@ speech, sight, and walking proceed (4:24–27). See
 
 See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Consider her ways — Proverbs 6:6
+
+*"Go to the ant, you sluggard. Consider her ways, and be wise"* (6:6). Wisdom here is learned by
+watching a creature, as Job 12:7 sent Job's friends to *"ask the animals"* and as Agur will count
+the ants among four small, wise things (30:24–25). See
+[[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6; *"Consider her ways, and be wise"*, wisdom learned from the ant
 
 - [[Keep Your Heart]] — Proverbs 4:20–27; the father's words kept in the heart, the source of mouth, eyes, and feet
 

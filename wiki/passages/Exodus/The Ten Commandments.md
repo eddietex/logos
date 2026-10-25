@@ -113,6 +113,9 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:16–19; *"a false witness"*
+  (*ʿēḏ šāqer*, the ninth commandment's phrase) and *"hands that shed innocent blood"* among the
+  seven things Yahweh hates.
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.

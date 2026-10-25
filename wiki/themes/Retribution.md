@@ -239,7 +239,17 @@ the two uses apart: Proverbs 5 says what sin does to a man shown sinning; it doe
 reading a man's trouble as proof of his sin. See [[The Strange Woman and the Wife of Your Youth]],
 [[Bildad's Second Speech]], and [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### Without remedy — Proverbs 6:11, 15
+
+Two of the four units in Proverbs 6:1–19 end in sudden ruin: poverty arriving *"as a robber"*
+(6:11), and the worthless man *"broken suddenly, and that without remedy"* (6:15, *ʾên marpēʾ* —
+*marpēʾ* is the *"health"* of 4:22). The sayings are general, like the rest of the book's
+retribution statements, and the wiki reads them alongside Job as it has throughout. See
+[[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:11, 15; sudden poverty and sudden breaking
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:22; the wicked held by the cords of his own sin,
   against Bildad's net applied to Job

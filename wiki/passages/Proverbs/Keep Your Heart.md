@@ -122,6 +122,9 @@ No named geographical place. The path is a metaphor for a manner of life.
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:12–19; the worthless man
+  gives heart, mouth, eyes, and feet to evil, and is broken *"without remedy"* (*marpēʾ*, the
+  *"health"* of 4:22).
 - [[The Two Paths]] — Proverbs 4:10–19; the preceding lecture's two roads, here walked step by
   step.
 - [[Get Wisdom]] — Proverbs 4:1–9; the remembered household instruction.

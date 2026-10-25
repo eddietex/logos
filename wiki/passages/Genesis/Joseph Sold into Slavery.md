@@ -616,6 +616,8 @@ The descent that will become the Exodus starts as a freight consignment. See
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:19; *"he who sows discord
+  among brothers"*, last of the seven things Yahweh hates.
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:19, 22, 25; Rachel's death, which
   37:10 appears not to know about, and two of [[Bilhah]]'s three job titles, of which 37:2 supplies the
   third

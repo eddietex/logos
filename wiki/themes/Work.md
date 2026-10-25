@@ -209,7 +209,20 @@ without turning the erection into a second creation or claiming a construction d
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### Go to the ant — Proverbs 6:6–11
+
+*"Go to the ant, you sluggard. Consider her ways, and be wise"* (6:6). The ant has *"no chief,
+overseer, or ruler"* (6:7) — *šōṭēr*, the word Exodus used for the Israelite officers over the
+brickmakers (Exodus 5:6, 14) — and stores her food in summer. The sluggard's *"little sleep, a
+little slumber"* (6:10) brings poverty *"as a robber"* (6:11), a doublet repeated at 24:33–34.
+Diligence is presented as wisdom and idleness as an assault waiting to happen; the ant's work is
+the garden's vocation (Genesis 2:15), not the curse. See
+[[The Surety, the Sluggard, and the Seven Abominations]] and
+[[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6–11; the ant who works without an overseer, and the sluggard's little sleep
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Craft, women’s contributions, and material accounting serve the sanctuary.
 

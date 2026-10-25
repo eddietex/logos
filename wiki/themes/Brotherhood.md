@@ -91,7 +91,17 @@ consecration includes son and brother (32:27–29). Kinship does not protect aga
 judgment. This is a difficult qualification of the duty to preserve one’s brother traced through
 Genesis, not a general instruction authorizing readers to attack relatives. See [[The Golden Calf]].
 
+### Discord among brothers — Proverbs 6:19
+
+The last of the seven things Yahweh hates is *"he who sows discord among brothers"* (6:19, *bên
+ʾaḥîm*). Proverbs names no brothers, but Genesis is the wiki's long record of the sin — Cain and
+Abel, Jacob and Esau, and Joseph's brothers, who *"hated him, and couldn't speak peaceably to him"*
+after his *"evil report"* (Genesis 37:2, 4). The resonance is recorded, not claimed as allusion.
+See [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:19; discord among brothers, the seventh abomination
 
 - [[The Golden Calf]] — Exodus 32:1–35; The camp command expressly reaches brother, companion, and neighbor, and Moses’ following call to consecration includes son and brother (32:27–29).
 

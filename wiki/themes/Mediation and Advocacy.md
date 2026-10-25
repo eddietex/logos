@@ -273,7 +273,17 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
 
+### The guarantor warned against — Proverbs 6:1–5
+
+Proverbs 6:1 uses both verbs of Job's plea for a guarantor (Job 17:3) — *ʿāraḇ*, to become
+collateral, and *tāqaʿ*, to strike hands — but as a warning: the son who has pledged himself for a
+neighbour must humble himself and get free at once. Proverbs warns against the office Judah took up
+for Benjamin and Job asked God to fill. See [[The Surety, the Sluggard, and the Seven Abominations]] and
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–5; suretyship as folly for a son, against Judah's pledge and Job's plea
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Moses’ received commands and administrative direction organize shared service.
 

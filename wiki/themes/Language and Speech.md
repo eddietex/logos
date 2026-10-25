@@ -172,7 +172,18 @@ the lips of an adulteress drip honey. Her mouth is smoother than oil"* (5:2–3)
 pleasant, and the danger is its end, *"bitter as wormwood"* (5:4). As at 2:16, the strange
 woman's power is a power of words. See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+### Trapped by your own mouth — Proverbs 6:1–19
+
+The pledge of 6:1 is a speech act, and the trap is verbal: *"You are trapped by the words of your
+mouth. You are ensnared with the words of your mouth"* (6:2). The worthless man walks *"with a
+perverse mouth"* (6:12, *ʿiqqəšûṯ peh*, the phrase of 4:24) and talks beside his words, with eyes,
+feet, and fingers (6:13). Of the seven things Yahweh hates, two are speech — *"a lying tongue"*
+and *"a false witness who utters lies"* (6:17, 19). See [[The Surety, the Sluggard, and the Seven Abominations]].
+Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:2, 12–13, 17, 19; trapped by one's words; the perverse mouth; the lying tongue
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:2–3; the son's lips that keep knowledge, hers
   that drip honey

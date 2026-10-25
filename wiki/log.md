@@ -15728,3 +15728,56 @@ Proverbs 1:7, 17–18, 29–30; 2:16–17; 4:1, 20, 26–27 and Job 1:8, 13–19
 Hebrew of Proverbs 5, Proverbs 4:26, and Malachi 2:14 read from Sefaria's *Miqra according to the
 Masorah*. The sense ranges given for *pls* and *šāḡâ* are conventional lexical ones and are
 qualified as unchecked against a lexicon at the point of the claim. No raw text changed.
+
+## [2026-10-25] ingest | Proverbs 6.1-19 — The Surety, the Sluggard, and the Seven Abominations
+
+Unattended run (`/ingest auto`). The planned 6:1–19 boundary is kept although it holds four short
+units rather than one lecture: Sefaria's *Miqra according to the Masorah* marks a *petuḥah* after
+6:5, 6:11, 6:15, and 6:19, and 6:20 opens the next *"My son"* lecture. Splitting it into four
+pericopes was considered and rejected, because the shared sleep vocabulary (*šēnâ*/*tənûmâ*,
+6:4, 10) and the matched lists of the worthless man (6:12–14) and the seven abominations (6:16–19)
+make the four read as one sequence. The page covers the surety trapped by his own words, the ant
+and the sluggard, the worthless man broken *"without remedy"*, and the six-yes-seven things Yahweh
+hates.
+
+**Tension recorded:** Proverbs' warning against suretyship (6:1–5) against Judah's pledge for
+Benjamin (Genesis 43:9; 44:32–33) and Job's plea for God as his surety (Job 17:3, which uses both
+verbs of 6:1). Recorded on the passage page, [[Mediation and Advocacy]], and the existing surety
+connection, not resolved. The sluggard's poverty is kept from becoming a diagnosis of every poor
+man, with Proverbs 19:1 noted against it.
+
+**Judgment calls:** the son, the sluggard, and the worthless man get no person pages. *Bəliyyaʿal*,
+*rəhaḇ*, and *kimhallēḵ* are given conventional glosses, qualified as not checked against a
+lexicon. The resonance of *"discord among brothers"* with Genesis 37 is recorded without being
+claimed as allusion; the closeness of 6:16–35 to the Decalogue's second table is likewise recorded
+without a claim that the editors arranged it. A misquotation of Proverbs 6:2 and 20:16 on the
+existing surety connection (*"snared with the words"*, *"Take a garment from him"*) was corrected
+to the stored WEB.
+
+**Created (3):** [[The Surety, the Sluggard, and the Seven Abominations]] and two connections,
+[[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]] and
+[[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]].
+
+**Revised content pages (25):** [[Proverbs]]; [[God]]; eleven themes — [[Work]], [[Wisdom]],
+[[Wealth and Possessions]], [[Language and Speech]], [[Deception]], [[Pride and Self-Exaltation]],
+[[Blood]], [[Strife and Peacemaking]], [[Brotherhood]], [[Retribution]], [[Mediation and Advocacy]];
+three connections —
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]],
+[[Once, Yes Twice - Job 33.14, 40.5, and Psalm 62.11]],
+[[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]]; ten reciprocal passage
+updates — [[Keep Your Heart]], [[Do Not Consent to Sinners]], [[Do Not Withhold Good]],
+[[The Second Journey]], [[The Silver Cup and Judah's Plea]],
+[[Miserable Comforters and the Witness in Heaven]], [[Eliphaz's First Speech]],
+[[The Ten Commandments]], [[Bricks Without Straw]], [[Joseph Sold into Slavery]].
+
+**Bookkeeping (7 revised files including this log):** books index, themes index, Connections
+Index D-H, I-N, O-S, and T-Z, main index, and log. Totals: 156 passages, 179 people, 90 places,
+83 themes, 403 connections.
+
+**Sources:** all Proverbs 6 verses copied from stored WEB Proverbs. Comparisons checked in stored
+Proverbs 2:12, 14; 3:7, 29, 32; 4:22–27; 10:26; 11:1, 15; 12:22; 16:5; 17:18; 19:1; 20:16;
+22:26–27; 24:30–34; 26:13–16; 27:13; 30:24–25, Genesis 2:15; 37:2, 4; 43:9; 44:32–33, Exodus 5:6,
+14; 20:13–17; 23:1, 7, and Job 5:19; 12:7; 17:3. Hebrew of Proverbs 6:1–19, 2:12, 14; 3:29, 32;
+4:22, 24; 16:5; 24:33–34; 30:25, Exodus 5:6, 14; 20:13 (MT); 23:1, Genesis 43:9, and Job 17:3 read
+from Sefaria's *Miqra according to the Masorah*. 2 Corinthians 6:15 is cited by reference only. No
+raw text changed and no unstored book was fetched.

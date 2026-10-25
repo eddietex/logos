@@ -148,7 +148,17 @@ lie in any of its particulars — it promises wealth and plunder and a shared pu
 victim *"innocent"* (1:11). **It deceives by leaving out the last line**, which the father supplies:
 *"these lay wait for their own blood"* (1:18). See [[Do Not Consent to Sinners]].
 
+### The worthless man's signs — Proverbs 6:12–19
+
+The worthless man *"winks with his eyes, … signals with his feet, … motions with his fingers"*
+(6:13): he communicates beside what he says. The seven abominations include *"a lying tongue"* and
+*"a false witness who utters lies"* (6:17, 19), the latter in the ninth commandment's words, *ʿēḏ
+šāqer* (Exodus 20:16; MT 20:13). See [[The Surety, the Sluggard, and the Seven Abominations]] and
+[[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:13, 17, 19; winking signs, a lying tongue, a false witness
 
 - [[The Golden Calf]] — Exodus 32:1–35; Aaron’s excuse contradicts the narrated act.
 

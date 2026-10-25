@@ -2777,6 +2777,7 @@ guilt from another person's suffering. See [[Do Not Withhold Good]] and
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; named once (1:29), in the third person, by Wisdom speaking in his register.
 - [[If You Seek Her as Silver]] — Proverbs 2:1–22; named *Yahweh* (2:5, 6) and *God* (2:5, 17): giver of wisdom, shield of the upright, party to the marriage covenant.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; named *Yahweh* five times (3:5, 7, 9, 11, 12) and *God* once (3:4): the object of trust, fear, and honour; a father who reproves.
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19; named *Yahweh* once (6:16), as the one who hates seven things, from haughty eyes to the sower of discord among brothers.
 
 ## Related people
 

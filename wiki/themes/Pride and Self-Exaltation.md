@@ -113,7 +113,16 @@ before God; 1 Peter also applies it to relationships in the community. See
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### Haughty eyes — Proverbs 6:17
+
+First of the seven things Yahweh hates is *"haughty eyes"* (6:17, *ʿênayim rāmôṯ*, *raised
+eyes*). Proverbs keeps pride in the eyes — compare *"Don't be wise in your own eyes"* (3:7) — and
+will call *"Everyone who is proud in heart"* an abomination (16:5). See
+[[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17; haughty eyes, first of the seven abominations
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Mockery meets divine opposition; the humble receive grace.
 

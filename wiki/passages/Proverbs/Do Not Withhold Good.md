@@ -124,6 +124,8 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:14, 16; the worthless man who
+  *"devises evil continually"*, which 3:29 forbade, and the second *tôʿăḇâ* list after 3:32.
 - [[Keep Your Heart]] — Proverbs 4:21 repeats 3:21's *"let them not depart from your eyes"*.
 - [[Get Wisdom]] — Proverbs 4:6–9 continues the promises of wisdom’s protection and honor.
 

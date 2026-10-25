@@ -154,7 +154,17 @@ possessive changed. Reuben's *"Shed no blood"* (Genesis 37:22) uses the same ver
 [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]]. Hebrew checked against Sefaria's
 *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]].
 
+### Innocent blood — Proverbs 6:17
+
+*"Hands that shed innocent blood"* (6:17, *dām-nāqî*) stand third among the things Yahweh hates,
+and *"feet that are swift in running to mischief"* (6:18) repeat the two verbs of the gang that
+*"hurry to shed blood"* (1:16). Exodus 23:7 forbids killing *"the innocent and righteous"*. See
+[[The Surety, the Sluggard, and the Seven Abominations]] and
+[[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17–18; hands that shed innocent blood, among the seven abominations
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Blood-and-leaven prohibition repeated with a Passover overnight
   rule.

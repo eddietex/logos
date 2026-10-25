@@ -642,6 +642,8 @@ tent and a curse on his grandson.** The chapter closes on ten men relaxing for t
 
 ## Cross-references
 
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–5; the same verb as
+  Judah's *"I'll be collateral for him"* (43:9), and the son told to get out of his pledge at once.
 - [[The Brothers' First Journey to Egypt]] — Genesis 42:1–38; **this chapter is the answer to that
   one's refusal, point by point.** *"My son shall not go down"* (42:38) becomes *"Take your brother
   also"* (43:13); [[Reuben]]'s rejected surety (42:37) becomes [[Judah]]'s accepted one (43:9);

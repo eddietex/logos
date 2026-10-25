@@ -12,7 +12,9 @@ tags: [connection]
 - **Genesis 44:32–33** — [[The Silver Cup and Judah's Plea]]; the pledge called in
 - **Genesis 42:37** — [[The Brothers' First Journey to Egypt]]; [[Reuben]]'s rejected offer
 - **Genesis 38:17–18, 20** — [[Judah and Tamar]]; **Judah's other *ʿārab***
-- **Job 17:3; Psalm 119:122; Proverbs 6:1–5; 11:15; 17:18; 20:16; 22:26–27**
+- **Proverbs 6:1–5** — [[The Surety, the Sluggard, and the Seven Abominations]]; the son trapped by
+  his own pledge, told to get free at once
+- **Job 17:3; Psalm 119:122; Proverbs 11:15; 17:18; 20:16; 22:26–27**
 - **Isaiah 38:14; Hebrews 7:22**
 
 - [[Joseph Reveals Himself]] — **Genesis 45:24**: **the pledge is discharged and nobody says so.**
@@ -92,17 +94,24 @@ does not survive the speech. See [[Mediation and Advocacy]] and [[Testing]].
 
 **Proverbs is against this, four times, without qualification.**
 
-- *"My son, if you have become collateral for your neighbor … you are snared with the words of your
-  mouth"* (6:1–2), and the advice is to go and get out of it immediately
+- *"My son, if you have become collateral for your neighbor … You are trapped by the words of your
+  mouth"* (6:1–2), and the advice is to go and get out of it immediately — *"Give no sleep to your
+  eyes"* until it is done (6:4). See [[The Surety, the Sluggard, and the Seven Abominations]]
 - *"He who is collateral for a stranger will suffer for it"* (11:15)
 - *"A man void of understanding strikes hands, and becomes collateral in the presence of his
   neighbor"* (17:18)
-- *"Take a garment from him who puts up collateral for a stranger"* (20:16; cf. 27:13)
+- *"Take the garment of one who puts up collateral for a stranger"* (20:16; cf. 27:13)
 
 **The warnings are about a stranger.** Judah's is for a brother, and it is not offered for profit or
 out of vanity — **it is the price of a household's survival**, and he names the three generations it
 buys (43:8). **Proverbs is describing a man who does not know what he is signing; Judah states the
 term as *forever* before he signs it.**
+
+**Proverbs 6:1 and Job 17:3 share both verbs.** The son *ʿāraḇtā*, *became collateral*, and
+*tāqaʿtā … kappeḵā*, *struck his palms*; Job asks God *ʿorbēnî*, *be collateral for me*, and asks
+who will *yittāqēaʿ*, *strike hands*, with him (Hebrew read from Sefaria's *Miqra according to the
+Masorah*, 2026-10-25). **The handshake Proverbs tells the son to escape is the one Job asks God
+to make.**
 
 **And the Bible's other guarantors are people with nothing left.** [[Job (person)]], at the end of
 his patience with his friends: *"Now give a pledge, be collateral for me with yourself. Who is there

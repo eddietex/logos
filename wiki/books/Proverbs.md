@@ -88,6 +88,16 @@ eyes, and the wicked are held by the cords of their own sin (5:21–22). See
 [[The Strange Woman and the Wife of Your Youth]]. Job 31:9–12 swears to the same door and invokes the same
 loss on himself.
 
+Chapter 6 opens with four short units instead of one lecture (6:1–19): the son who has pledged
+himself for another's debt, *"trapped by the words of your mouth"*, told to get free at once; the
+sluggard sent to the ant, whose *"little sleep, a little slumber"* brings poverty *"as a robber"*;
+the worthless man whose mouth, eyes, feet, fingers, and heart all serve evil, broken *"without
+remedy"*; and the *"six things which Yahweh hates; yes, seven"*, from haughty eyes to *"he who
+sows discord among brothers"*. See [[The Surety, the Sluggard, and the Seven Abominations]]. The
+warning against suretyship stands in tension with Judah's pledge for Benjamin (Genesis 43:9) and
+Job's plea for God as guarantor (Job 17:3); the list of seven runs close to the Decalogue's second
+table.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -128,7 +138,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Two Paths]] — Proverbs 4:10–19
 - [x] [[Keep Your Heart]] — Proverbs 4:20–27
 - [x] [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23
-- [ ] The Surety, the Sluggard, and the Seven Abominations — Proverbs 6:1–19
+- [x] [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19
 - [ ] The Lamp of the Commandment — Proverbs 6:20–35
 - [ ] The Young Man Void of Understanding — Proverbs 7:1–27
 - [ ] Wisdom Calls at the Gates — Proverbs 8:1–21
@@ -197,6 +207,10 @@ first collection at its heading), each titled from a representative saying.
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19)
 - [[Healing]] — the father's words as *"health to their whole body"* (4:22)
 - [[Seeing and Being Seen]] — eyes fixed straight ahead (4:25)
+- [[Work]] — the ant and the sluggard (6:6–11)
+- [[Wealth and Possessions]] — suretyship for another's debt, and poverty as a robber (6:1–11)
+- [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
+- [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people

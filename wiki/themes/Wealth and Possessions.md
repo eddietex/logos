@@ -283,7 +283,20 @@ gift in view. See [[Better Than Gold - The Price of Wisdom]].
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Surety and the sluggard — Proverbs 6:1–11
+
+The first money lesson of Proverbs is about another man's debt: the son who has *"become
+collateral for your neighbor"* (6:1) is *"trapped by the words of your mouth"* (6:2) and must go
+at once and plead his way free. The wiki records the tension with [[Judah]]'s suretyship for
+[[Benjamin]] (Genesis 43:9; 44:32–33) on
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]. The sluggard's
+poverty arrives *"as a robber"* (6:11). Proverbs' sayings are general; the book also says *"Better
+is the poor who walks in his integrity"* (19:1), so laziness explains some poverty, not all. See
+[[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–11; suretyship warned against, poverty as a robber
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Understanding takes priority even over all possessions.
 

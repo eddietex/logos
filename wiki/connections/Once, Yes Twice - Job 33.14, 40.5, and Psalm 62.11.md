@@ -17,7 +17,9 @@ tags: [connection]
   [[Eliphaz's First Speech]]
 - **Psalm 62:11** — *"God has spoken once; twice I have heard this, that power belongs to God."*
 - **Proverbs 6:16** — *"There are six things which Yahweh hates; yes, seven which are an abomination to
-  him"*
+  him"* — [[The Surety, the Sluggard, and the Seven Abominations]]; the list that follows has seven
+  items, and the weight falls on the seventh, *"he who sows discord among brothers"* (6:19). See
+  [[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]]
 
 ## Analysis
 

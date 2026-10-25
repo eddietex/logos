@@ -124,7 +124,16 @@ not abolish legitimate grievances.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### Sowing discord — Proverbs 6:14, 19
+
+The worthless man *"always sows discord"* (6:14, *midyānîm yəšallēaḥ*, *sends out strife*), and
+the list of seven ends on the same act, *"he who sows discord among brothers"* (6:19). The climactic
+position gives strife-making the greatest weight in the list. See
+[[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
+
+- [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:14, 19; the sower of discord, seventh and last of the things Yahweh hates
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Protect the neighbor’s trust; refuse baseless disputes and violent example.
 

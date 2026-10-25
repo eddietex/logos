@@ -70,6 +70,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Garments Commanded and Made - Exodus 28 and 39]] | command-and-performance | Exodus 28:1–43 · Exodus 29:4–9, 21, 29–30 · Exodus 35:19–27 · [[The Priestly Garments Made]] (Exodus 39:1–31) · [[The Work Completed]] (Exodus 39:32–43) |
 | [[Gathered to His People]] | parallel | Genesis 25:8 · Genesis 25:17 · Genesis 35:29 · Genesis 49:29, 33 · Numbers 20:24 · Deuteronomy 32:50 |
 | [[Gibeah and Sodom - Judges 19 as a Retelling]] | parallel | Genesis 19:1–11 · Judges 19:11–30 · Judges 20–21 · Hosea 9:9; 10:9 |
+| [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]] | literary-parallel | Proverbs 6:6–11 · Proverbs 24:30–34 · Proverbs 30:24–25 · Genesis 2:15 · Exodus 5:6, 14 · [[The Surety, the Sluggard, and the Seven Abominations]] (Proverbs 6:1–19) |
 | [[God Almighty - El Shaddai in Genesis and Exodus]] | thread | Genesis 17:1 · Genesis 28:3; 35:11; 43:14; 48:3; 49:25 · Exodus 6:2–3 · Numbers 24:4, 16 · Job (31×) · Ruth 1:20–21 · Revelation 1:8 |
 | [[God Make You as Ephraim and as Manasseh - The Blessing Formula]] | parallel | Genesis 48:20 · Ruth 4:11–12 · Jeremiah 29:22 |
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Exodus 12:14 · Psalm 105:42 · Luke 1:72–73 |
