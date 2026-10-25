@@ -294,6 +294,16 @@ poverty arrives *"as a robber"* (6:11). Proverbs' sayings are general; the book 
 is the poor who walks in his integrity"* (19:1), so laziness explains some poverty, not all. See
 [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Rather than silver, and full treasuries — Proverbs 8:10–11, 18–21
+
+Wisdom tells her hearers to *"Receive my instruction rather than silver; knowledge rather than choice
+gold"* (8:10, *wəʾal-kāsep̄*, *and not silver*), and then promises *"riches, honor, enduring wealth"*
+(8:18) and *"I fill their treasuries"* (8:21). **The exclusion and the promise stand side by side,
+unexplained.** The wiki reads them as an order of desires, as 1 Kings 3:11–13 narrates of Solomon
+(riches and honour given though not asked), and records the unqualified promise against Job's losses
+(Job 1:13–19). *ʿŌšer wəḵāḇôḏ*, *riches and honour*, is the pair of Proverbs 3:16 and 1 Kings 3:13.
+See [[Wisdom Calls at the Gates]] and [[Better Than Gold - The Price of Wisdom]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–11; suretyship warned against, poverty as a robber
@@ -499,6 +509,7 @@ is the poor who walks in his integrity"* (19:1), so laziness explains some pover
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:13–19; plunder, one purse, and greed for gain that *"takes away the life of its owners"*
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; *hôn* given first to Yahweh, and overflowing barns
+- [[Wisdom Calls at the Gates]] — Proverbs 8:10–11, 18–21; instruction *"rather than silver"*, yet riches, honour, and full treasuries promised to Wisdom's lovers
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

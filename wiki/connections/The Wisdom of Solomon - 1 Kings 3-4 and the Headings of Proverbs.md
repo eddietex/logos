@@ -22,6 +22,10 @@ tags: [connection]
   ingested.
 - **Proverbs 2:6** — *"For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding."*
   The book's general statement of what 1 Kings 3 narrates of Solomon. [[If You Seek Her as Silver]].
+- **Proverbs 8:15–18** — *"By me kings reign, and princes decree justice … With me are riches, honor,
+  enduring wealth, and prosperity."* Wisdom's claim, stated generally — [[Wisdom Calls at the Gates]].
+- **1 Kings 3:13** — *"I have also given you that which you have not asked, both riches and honor."*
+  Not yet ingested.
 - **1 Kings 4:29–34** — *"Solomon's wisdom excelled the wisdom of all the children of the east and all
   the wisdom of Egypt … He spoke three thousand proverbs; and his songs numbered one thousand five. He
   spoke of trees … he also spoke of animals, of birds, of creeping things, and of fish."* Not yet
@@ -70,6 +74,14 @@ book that bears his name opens with the fear of Yahweh as the beginning of knowl
 its lectures will warn at length against the strange woman. The wiki records the tension rather than
 resolving it: the headings attach the book to Solomon's wisdom, and the histories attach to Solomon the
 failure the book warns against.
+
+**Proverbs 8 states as Wisdom's claim what 1 Kings 3 narrates as Solomon's story.** *"By me kings
+reign"* (8:15) is the general form of a king's request for *"an understanding heart to judge"*
+(1 Kings 3:9); and *ʿōšer wəḵāḇôḏ*, *riches and honour*, which Wisdom says are *"with me"* (8:18), is
+the pair God gave Solomon unasked (*gam-ʿōšer gam-kāḇôḏ*, 1 Kings 3:13; Hebrew read from Sefaria's
+*Miqra according to the Masorah*, 2026-10-25). Proverbs does not name Solomon in chapter 8, and the wiki
+does not claim the speech was written with him in view; the two passages share a theory of rule, and
+the book's heading puts them under one name.
 
 ## Significance
 

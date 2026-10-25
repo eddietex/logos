@@ -145,6 +145,13 @@ will not. The wiki reads the difference as the whole heart those passages requir
 stand. See [[Wisdom Calls in the Street]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Seeking and finding — Proverbs 8:17
+
+*"Those who seek me diligently will find me"* (8:17, *ûməšaḥăray yimṣāʾunənî*) — the verbs of 1:28
+without the negative. Proverbs states both; the difference recorded on [[Wisdom Calls in the Street]]
+is time. Jeremiah 29:13 promises the same of God: *"You shall seek me, and find me, when you search
+for me with all your heart"* (WEB at bible-api.com). See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Worship leads into a renewed plea for the people.
@@ -314,6 +321,7 @@ stand. See [[Wisdom Calls in the Street]]. Source: Proverbs 1 checked in `raw/bi
 - [[Laws of Holiness and Compassion]] — Exodus 22:23, 27; the cry of the widow, orphan, and poor heard
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–10, 34–38; the incense altar, later read as an image of prayer.
 - [[Wisdom Calls in the Street]] — Proverbs 1:28; calling and not being answered, after a call refused; set against Proverbs 8:17 and Deuteronomy 4:29
+- [[Wisdom Calls at the Gates]] — Proverbs 8:17; *"Those who seek me diligently will find me"*, 1:28 without the negative
 
 ## Related themes
 

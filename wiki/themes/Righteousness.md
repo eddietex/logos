@@ -145,6 +145,14 @@ present darkness as evidence against him (Job 1:1; 19:8).
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Wisdom's road and wisdom's goods — Proverbs 8:8, 18, 20
+
+All Wisdom's words are *"in righteousness"* (8:8, *bəṣeḏeq*); rulers by her *"decree justice"* (8:15,
+*ṣeḏeq*); and she walks *"in the way of righteousness, in the middle of the paths of justice"* (8:20,
+*ʾōraḥ-ṣəḏāqâ … nəṯîḇôṯ mišpāṭ*). At 8:18 the WEB renders *ṣəḏāqâ* as *"prosperity"*, ending the list
+of riches, honour, and enduring wealth; the Hebrew puts righteousness itself among Wisdom's goods. See
+[[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Two Paths]] — Proverbs 4:18; the path of the righteous as light that shines more and more
@@ -324,6 +332,7 @@ See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
   sight, not by the doer's** — the formula Deuteronomy repeats and Judges inverts (*"right in his own
   eyes"*, Judges 17:6; by reference, *not yet ingested*)
 - [[If You Seek Her as Silver]] — Proverbs 2:9, 20; righteousness, justice, and equity (1:3) understood; the paths of the righteous
+- [[Wisdom Calls at the Gates]] — Proverbs 8:8, 15–16, 18, 20; Wisdom's words in righteousness, her road of justice, and *ṣəḏāqâ* (WEB *"prosperity"*) among her gifts
 
 ## Related themes
 

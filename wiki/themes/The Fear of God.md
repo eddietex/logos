@@ -168,6 +168,16 @@ flagged, not resolved**; see [[Retribution]], [[Trust in Yahweh with All Your He
 [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### To hate evil — Proverbs 8:13
+
+*"The fear of Yahweh is to hate evil"* (8:13, *yirʾaṯ YHWH śənōʾṯ-rāʿ*). After *"the beginning of
+knowledge"* (1:7) and *"Fear Yahweh, and depart from evil"* (3:7), a definition: the fear of Yahweh
+is a hatred. Wisdom names at once what she hates — pride, arrogance, the evil way, the perverse
+mouth — so the fear of Yahweh and Wisdom's own dislikes coincide. Job 1:1's *"turned away from
+evil"* and Job 28:28's *"To depart from evil is understanding"* describe the same posture as a
+movement away; 8:13 describes it as an affection. See [[Wisdom Calls at the Gates]] and
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the motto placed at the head of Proverbs, opposed by
@@ -370,6 +380,7 @@ flagged, not resolved**; see [[Retribution]], [[Trust in Yahweh with All Your He
 - [[Wisdom Calls in the Street]] — Proverbs 1:29; not choosing the fear of Yahweh is what hating knowledge means; *yirʾâ* chosen beside *paḥad* suffered (1:26–27, 33)
 - [[If You Seek Her as Silver]] — Proverbs 2:5; the fear of Yahweh understood at the end of the search, in parallel with the knowledge of God
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7–8; Job 1:1's two verbs as a command, with health promised
+- [[Wisdom Calls at the Gates]] — Proverbs 8:13; *"The fear of Yahweh is to hate evil"*, the motto restated as a definition
 
 ## Related themes
 

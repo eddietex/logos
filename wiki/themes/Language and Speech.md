@@ -195,6 +195,15 @@ seduced him"* (7:21). *Persuasive words* is *rōḇ liqḥāh*, *her much learni
 word for what the wise receive (1:5; 4:2). Her opening words are religious (7:14) and her
 invitation is in the Song of Solomon's vocabulary of love (7:18, *ḏōḏîm*). See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Nothing crooked in them — Proverbs 8:6–9
+
+Wisdom describes her own speech: *"excellent things"*, *"right things"*, *"truth"*; *"Wickedness is an
+abomination to my lips"*; *"There is nothing crooked or perverse in them"* (8:6–8). The two adjectives,
+*nip̄tāl wəʿiqqēš*, are Deuteronomy 32:5's *"perverse and crooked generation"*. Her words are *"plain
+to him who understands"* (8:9, *nəḵōḥîm*) — not riddles. The portrait answers the smooth words of the
+strange woman (7:21) and the *"men who speak perverse things"* (2:12), and 8:13 adds *"the perverse
+mouth"* to what she hates. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:2, 12–13, 17, 19; trapped by one's words; the perverse mouth; the lying tongue
@@ -426,6 +435,7 @@ invitation is in the Song of Solomon's vocabulary of love (7:18, *ḏōḏîm*).
 - [[The Lamp of the Commandment]] — Proverbs 6:22, 24; the teaching that talks with the son, against
   the smooth tongue
 - [[The Young Man Void of Understanding]] — Proverbs 7:14–21; the strange woman's speech, *leqaḥ* and flattering lips
+- [[Wisdom Calls at the Gates]] — Proverbs 8:6–9, 13; Wisdom's straight, plain, truthful words against the perverse mouth
 
 ## Related themes
 

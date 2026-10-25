@@ -152,6 +152,15 @@ woman offers it for someone else's. See [[The Young Man Void of Understanding]] 
 [[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 Song of Solomon 4:10 verified WEB at bible-api.com, not stored.
 
+### I love those who love me — Proverbs 8:17, 21
+
+*"I love those who love me"* (8:17, *ʾănî ʾōhăḇay ʾēhāḇ*); *"that I may give wealth to those who love
+me"* (8:21). Wisdom speaks the love the father commanded at 4:6 (*"Love her, and she will keep
+you"*), now as hers to return. The Masoretic text writes the first word of 8:17 in a form usually
+read as *those who love her* and reads it *those who love me*; the WEB follows the reading. The
+strange woman offered *ʾŏhāḇîm*, *loving*, until morning (7:18); Wisdom offers a love that answers
+love. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:19; *"Be captivated always with her love"*,
@@ -222,6 +231,7 @@ Song of Solomon 4:10 verified WEB at bible-api.com, not stored.
   keeps him in service for life
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:12; Yahweh's love given as the reason for his reproof
 - [[The Young Man Void of Understanding]] — Proverbs 7:18; love's language, *ḏōḏîm*, offered by the strange woman
+- [[Wisdom Calls at the Gates]] — Proverbs 8:17, 21; *"I love those who love me"*, Wisdom's reciprocal love
 
 ## Related themes
 

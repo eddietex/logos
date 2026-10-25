@@ -60,7 +60,8 @@ describe the result as the refusers receiving what they chose.
 
 **A tension recorded rather than resolved.** Against this pattern stand the promises that those who
 seek will find: Deuteronomy 4:29 and Jeremiah 29:13 (*"You shall seek me, and find me, when you search
-for me with all your heart"*, WEB, checked against bible-api.com), Proverbs' own 8:17, and Isaiah
+for me with all your heart"*, WEB, checked against bible-api.com), Proverbs' own 8:17 (see
+[[Wisdom Calls at the Gates]]), and Isaiah
 55:6's *"Seek Yahweh while he may be found"* — which implies a time when he may not be. The wiki's
 reading is on [[Wisdom Calls in the Street]]: Proverbs 1:28 describes seeking as a way out of the
 storm, after it has come, and the finding-passages require the whole heart; but the texts do not

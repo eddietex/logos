@@ -256,6 +256,15 @@ and the wiki reads 6:29–35 as describing what adultery brings, not as a claim 
 man was an adulterer. See [[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew
 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Riches to those who love her — Proverbs 8:18–21
+
+Wisdom promises *"riches, honor, enduring wealth"* and full treasuries to those who love her
+(8:18, 21), without qualification. **Tension flagged with Job:** Job did what 8:13 calls the fear of
+Yahweh — he *"feared God, and turned away from evil"* (Job 1:1) — and lost riches (1:13–17), glory
+(19:9), and children (1:18–19). The wiki reads Proverbs' promise as the ordinary course, not a verdict
+on any one sufferer, as on earlier pages; the text itself does not add that limit. See
+[[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:11, 15; sudden poverty and sudden breaking
@@ -513,6 +522,7 @@ read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; long life, health, and full barns promised, and reproof for the son Yahweh loves
 - [[The Lamp of the Commandment]] — Proverbs 6:27–35; fire that burns its carrier, and the toucher
   touched back
+- [[Wisdom Calls at the Gates]] — Proverbs 8:18–21; riches and honour promised to Wisdom's lovers, set against Job 1
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

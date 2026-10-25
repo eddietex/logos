@@ -104,6 +104,8 @@ It does not remove either the promises in Proverbs or Job's counterexample.
   Jeremiah 10:12–13; Psalm 104:24.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; long life, peace, and wealth
   precede the reminder of divine reproof.
+- [[Wisdom Calls at the Gates]] — Proverbs 8:11, 18–19; Wisdom repeats this praise of herself:
+  8:11b is 3:15b almost word for word, *"riches and honor"* (8:18) is 3:16's pair, and 8:19 is 3:14.
 - Proverbs 8:22–31 — Wisdom speaks of her presence at creation; a fuller personification,
   not yet ingested, checked in the stored WEB.
 

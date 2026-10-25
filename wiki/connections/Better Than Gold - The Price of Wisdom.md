@@ -20,7 +20,9 @@ tags: [connection]
   than fine gold. She is more precious than rubies."*
   [[Wisdom's Worth and the Founding of the Earth]].
 - **Proverbs 8:10–11, 19** — *"Receive my instruction rather than silver … For wisdom is better than
-  rubies"*; *"My fruit is better than gold, yes, than fine gold."* Not yet ingested.
+  rubies"*; *"My fruit is better than gold, yes, than fine gold."* [[Wisdom Calls at the Gates]].
+- **Proverbs 8:18, 21** — *"With me are riches, honor, enduring wealth"*; *"I fill their treasuries."*
+  [[Wisdom Calls at the Gates]].
 - **Proverbs 16:16** — *"How much better it is to get wisdom than gold!"* Not yet ingested.
 - **Proverbs 20:15** — *"There is gold and abundance of rubies; but the lips of knowledge are a rare
   jewel."* Not yet ingested.
@@ -96,6 +98,18 @@ to price wisdom or Proverbs 2:6's statement that Yahweh gives it. The wiki reads
 language as costly priority rather than literal purchase; the passages do not themselves
 pause to explain the different metaphors. Source: stored WEB Proverbs 2:4–6; 3:13–15;
 4:5–7 and Job 28:12–19, checked 2026-10-25.
+
+### Wisdom names her own price — Proverbs 8:10–11, 18–21
+
+In [[Wisdom Calls at the Gates]] Wisdom repeats the father's valuation in her own voice. 8:11b is
+3:15b almost word for word (*wəḵol-ḥăp̄āṣîm lōʾ yišwû-ḇāh*), and 8:19 rebuilds 3:14 around *piryî*,
+*my fruit*. 8:10 puts the choice as an exclusion — *qəḥû mûsārî wəʾal-kāsep̄*, *take my instruction
+and not silver* — and then 8:18–21 promises riches, honour, and full treasuries to those who love
+her. **Proverbs therefore ranks wisdom above gold and also says wisdom brings gold**, in one speech;
+Job 28 says neither. The wiki's reading, an order of desires, is the one 1 Kings 3:11–13 narrates
+of Solomon, who asked for understanding and was given riches and honour besides. Source: stored WEB
+Proverbs 3:14–16; 8:10–21; 1 Kings 3:11–13 WEB at bible-api.com; Hebrew read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-25.
 
 ## Significance
 

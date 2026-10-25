@@ -302,9 +302,11 @@ and his teaching (7:1–2), and the vocabulary of Sinai (*miṣwâ*, *tôrâ*, *
   feet to Sheol, the door of her house, and the wife's love that satisfies.
 - [[The Lamp of the Commandment]] — Proverbs 6:20–35; the lamp against the night, the adulterer
   *ḥăsar-lēḇ*, and the husband who takes no ransom.
-- Proverbs 8:17; 9:13–18 — Wisdom found by those who seek her; Folly, *loud*, calling the man
-  *void of understanding* to a house whose guests *"are in the depths of Sheol"* (not yet
-  ingested).
+- [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; Wisdom's answer at the gates, found by those
+  who seek her (8:17). See
+  [[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]].
+- Proverbs 9:13–18 — Folly, *loud*, calling the man *void of understanding* to a house whose
+  guests *"are in the depths of Sheol"* (not yet ingested).
 - [[Isaac in Gerar]] — Genesis 26:8; Abimelech at the window.
 - [[Judah and Tamar]] — Genesis 38:14–15; the woman taken for a prostitute.
 - [[Joseph in Potiphar's House]] — Genesis 39:12; the woman who seized, and the man who ran.

@@ -147,6 +147,13 @@ In Proverbs 7 the young man *"went the way to her house"* (7:8, *yiṣʿāḏ*, 
 father's verdict is a road warning: *"Don't let your heart turn to her ways. Don't go astray in her
 paths"* (7:25). Her house is *"the way to Sheol"* (7:27). See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Wisdom walks the paths of justice — Proverbs 8:2, 20
+
+Wisdom stands *"where the paths meet"* (8:2, *bêṯ nəṯîḇôṯ*) and says *"I walk in the way of
+righteousness, in the middle of the paths of justice"* (8:20, *nəṯîḇôṯ mišpāṭ*). The paths of justice
+are the ones Yahweh guards at 2:8. Wisdom is not only a road the son takes (4:11) but a walker he can
+follow. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Keep Your Heart]] — Proverbs 4:26–27; a level path, turning neither right nor left
@@ -184,6 +191,7 @@ paths"* (7:25). Her house is *"the way to Sheol"* (7:27). See [[The Young Man Vo
 - [[The Lamp of the Commandment]] — Proverbs 6:22–23; the teaching leads the son as he walks, and
   reproof is *"the way of life"*
 - [[The Young Man Void of Understanding]] — Proverbs 7:8, 25, 27; the way to her house, and her paths
+- [[Wisdom Calls at the Gates]] — Proverbs 8:2, 20; Wisdom at the crossroads, walking the paths of justice
 
 ## Related themes
 

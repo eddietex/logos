@@ -19,6 +19,9 @@ tags: [connection]
   [[The Purpose of the Proverbs]]
 - **Proverbs 3:7** — *"Don't be wise in your own eyes. Fear Yahweh, and depart from evil."* Job 1:1's
   two verbs as a command — [[Trust in Yahweh with All Your Heart]]
+- **Proverbs 8:13** — *"The fear of Yahweh is to hate evil. I hate pride, arrogance, the evil way,
+  and the perverse mouth."* The motto as a definition, spoken by Wisdom —
+  [[Wisdom Calls at the Gates]]
 - **Proverbs 9:10** — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One
   is understanding."* The same motto closing the book's first section. Not yet ingested.
 - **Proverbs 15:33** — *"The fear of Yahweh teaches wisdom."* Not yet ingested.
@@ -84,6 +87,13 @@ against *"Don't be wise in your own eyes"* in the same verse: the fear of Yahweh
 self-assessed wisdom. Its stated result is *"health to your body"* (3:8) — the one thing Job, who did
 both, was most visibly denied (Job 2:7). The wiki records the tension on [[Retribution]].
 
+**Proverbs 8:13 turns the departure into a hatred.** *Yirʾaṯ YHWH śənōʾṯ-rāʿ*, *the fear of Yahweh
+is to hate evil*. Job 1:1 and 28:28 describe the posture as *sûr mērāʿ*, turning away from evil;
+Proverbs 3:7 commands it in the same words; 8:13 names the affection behind the turning, and Wisdom
+at once lists what she hates. The definition is spoken by Wisdom herself, one verse before she claims
+the counsel and might that Job 12:13 gave to God — see
+[[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]].
+
 **Isaiah makes it a quality of the king.** Isaiah 11:2 gives the coming ruler *"the spirit of knowledge
 and of the fear of Yahweh"* — the fear of God not only as the starting point of a student but as an
 endowment of the Spirit, which later Christian reading attaches to Christ. Isaiah 33:6 calls it a
@@ -100,5 +110,7 @@ dialogue uses nowhere else. **The tradition's motto is put in God's own mouth an
 human being**, and the human being it describes is the man the tradition's spokesmen have just spent
 twenty-five chapters condemning. See [[The Fear of God]] and [[Wisdom]].
 
+Proverbs 8:13 added 2026-10-25: checked in `raw/bible/Proverbs.md` (WEB); Hebrew against Sefaria's
+*Miqra according to the Masorah*.
 Proverbs 3:7 added 2026-10-25: checked in `raw/bible/Proverbs.md` (WEB); Hebrew of Proverbs 3:7 and
 Job 1:1 against Sefaria's *Miqra according to the Masorah*.

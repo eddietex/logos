@@ -15915,3 +15915,58 @@ bible-api.com, not stored. Hebrew of Proverbs 7:1–27; 1:4–5, 11, 17–22, 28
 7:15–16, Numbers 5:12, Deuteronomy 6:8; 32:10, Judges 5:28, Psalms 17:8; 45:9 (MT), Song of Solomon
 1:4; 4:9–10, 14, and Job 24:15; 31:9 read from Sefaria's *Miqra according to the Masorah*. No Greek
 claim is made. No raw text changed and no unstored book was fetched.
+
+## [2026-10-25] ingest | Proverbs 8.1-21 — Wisdom Calls at the Gates
+
+Unattended run (`/ingest auto`). The planned 8:1–21 boundary is kept, split from 8:22–36 at Wisdom's
+turn to her own origin (*"Yahweh possessed me in the beginning of his work"*). Sefaria's *Miqra
+according to the Masorah* marks no paragraph break inside chapter 8 before a *petuḥah* after 8:31, so
+the split is by subject; the next run may consider whether 8:32–36 belongs with 8:22–31 (as planned)
+or deserves its own close. The page covers the setting at the heights, crossroads, and gates; the
+universal call to the simple and fools; Wisdom's straight words; *"rather than silver"*; *"I,
+wisdom"*, the fear of Yahweh as hatred of evil; counsel and might; *"By me kings reign"*; love and
+seeking; and riches, honour, and *ṣəḏāqâ*.
+
+**Judgment calls:** Wisdom personified again gets no person page; [[Wisdom]] is her page. Chapter 8 is
+read as a point-by-point answer to chapter 7's strange woman, recorded as a new connection designed to
+be extended when chapter 9's two feasts are ingested. Job 12:13, Proverbs 8:14, and Isaiah 11:2 are
+recorded as a shared vocabulary of royal wisdom, not as literary dependence. Solomon and 1 Kings 3 are
+set beside 8:15–18 without claiming the speech has him in view. [[Job (person)]] is discussed in the
+passage's Job paragraph but, following the earlier Proverbs ingests, his person page was not revised.
+
+**Contradictions flagged:** the exclusion of silver (8:10) and the promise of riches (8:18–21) stand
+side by side in one speech; and the unqualified promise of riches and honour to Wisdom's lovers is set
+against Job 1:1, 13–19 and 19:9 on [[Retribution]] and [[Wealth and Possessions]]. Job 28's hidden
+wisdom against 8:1's open call keeps the reading already recorded on [[Wisdom Calls in the Street]].
+
+**Unresolved:** the WEB's *"all the righteous rulers of the earth"* (8:16) has no word for *earth* in
+the Masoretic text as printed by Sefaria (*šōp̄əṭê ṣeḏeq*); the variant behind the WEB was not traced.
+The WEB's *"prosperity"* at 8:18 renders *ṣəḏāqâ*; noted on the page. The ketiv of 8:17 and the senses
+of *nəḡîḏîm* (8:6), *nəḵōḥîm* (8:9), and *yēš* (8:21) are usual lexical readings, not checked against a
+lexicon. Deliberate prospective references to Proverbs 8:22–36 and 9:3, 14 are marked *not yet
+ingested*.
+
+**Created (3):** [[Wisdom Calls at the Gates]] and two connections —
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]],
+[[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]].
+
+**Revised content pages (24):** [[Proverbs]]; twelve themes — [[Wisdom]], [[Folly]],
+[[The Fear of God]], [[Pride and Self-Exaltation]], [[Language and Speech]], [[Kingship and Empire]],
+[[Righteousness]], [[Love]], [[Prayer]], [[Wealth and Possessions]], [[Walking with God]],
+[[Retribution]]; two people — [[God]], [[Solomon]]; four connections —
+[[Better Than Gold - The Price of Wisdom]],
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]],
+[[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]],
+[[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]]; five reciprocal
+passage updates — [[Wisdom Calls in the Street]], [[If You Seek Her as Silver]],
+[[The Young Man Void of Understanding]] (three stale *not yet ingested* markers for 8:17 cleared
+across these), [[Wisdom's Worth and the Founding of the Earth]], [[Though He Slay Me]].
+
+**Indexes (8):** `wiki/books/index.md` (15 / 43), `wiki/index.md` (159 passages, 414 connections),
+`wiki/themes/index.md`, People Index F-M and N-Z, Connections Index A-C, D-H, and T-Z.
+
+**Sources:** Proverbs 8:1–21 quoted from `raw/bible/Proverbs.md` (WEB); other Proverbs and Job verses
+checked in stored WEB; 1 Kings 3:9–13, Isaiah 11:2, 4, Deuteronomy 32:5, Jeremiah 29:13, and
+1 Corinthians 1:24 checked in the WEB at bible-api.com, not stored. Hebrew of Proverbs 8:1–21 and the
+cited Proverbs, Job 12:13, Isaiah 11:2, 1 Kings 3:13, and Deuteronomy 32:5 read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-25. `scripts/link-check.sh` clean.

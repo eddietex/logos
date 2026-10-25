@@ -76,6 +76,18 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
 - **Romans 13:1–7; Revelation 13; 17–18** — the authority as God's servant, and the authority as the
   beast, and Babylon falling.
 
+### By me kings reign — Proverbs 8:15–16
+
+*"By me kings reign, and princes decree justice. By me princes rule; nobles, and all the righteous
+rulers of the earth"* (8:15–16). Wisdom claims every grade of ruler — *məlāḵîm*, *rōzənîm*,
+*śārîm*, *nəḏîḇîm*, *šōp̄əṭîm* — as hers. The claim fits the book's attachment to Solomon, who asked
+for *"an understanding heart to judge your people"* (1 Kings 3:9, WEB at bible-api.com), and the
+verse before it gives Wisdom the counsel and might that Isaiah 11:2 gives the coming king. Where
+Job 12:17–18 saw God's wisdom stripping counsellors and loosening the bonds of kings, Proverbs 8 sees
+wisdom establishing them. Where the Masoretic text has *šōp̄əṭê ṣeḏeq*, *judges of righteousness*,
+the WEB's *"of the earth"* reflects a reading the wiki has not traced. See
+[[Wisdom Calls at the Gates]] and [[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; a king's book — wisdom attached to the throne of
@@ -219,6 +231,7 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
   and to the brothers' *"Will you indeed reign over us?"* (37:8) (WLC lemma search). **Pharaoh, called
   *"king of Egypt"* in the prose (14:5, 8), is not called king anywhere in the Song.**
 - [[Israel at Mount Sinai]] — Exodus 19:5–6; the kingdom offered as a priestly vocation
+- [[Wisdom Calls at the Gates]] — Proverbs 8:15–16; *"By me kings reign"* — every rank of ruler governs by wisdom
 
 ## Related themes
 

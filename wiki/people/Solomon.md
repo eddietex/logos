@@ -47,6 +47,12 @@ Proverbs 4:3–4 recalls a teacher receiving instruction from his father. The he
 Solomon's biography. The mother's only child in the WEB (4:3) is not independent evidence
 for the composition of the royal household. Source: stored WEB Proverbs 1:1; 4:1–9.
 
+Proverbs 8:15–18 does not name him, but it states as Wisdom's claim what 1 Kings 3 narrates of him:
+*"By me kings reign"* (8:15), and *"With me are riches, honor"* (8:18, *ʿōšer wəḵāḇôḏ*), the pair God
+gave Solomon *"that which you have not asked, both riches and honor"* (1 Kings 3:13, *gam-ʿōšer
+gam-kāḇôḏ*). See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; 1 Kings 3:13 WEB at
+bible-api.com; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -58,6 +64,7 @@ for the composition of the royal household. Source: stored WEB Proverbs 1:1; 4:1
 ## Appears in
 
 - [[Get Wisdom]] — Proverbs 4:1–9; possible collection-level association only; not named in this unit.
+- [[Wisdom Calls at the Gates]] — Proverbs 8:15–18; not named; *"By me kings reign"* and the riches and honour of 1 Kings 3:13.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; named as the book's author and authority, *"the son
   of David, king of Israel"*; he does not speak in the unit
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]

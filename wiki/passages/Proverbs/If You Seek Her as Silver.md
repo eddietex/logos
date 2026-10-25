@@ -296,7 +296,7 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
   her steps leading to Sheol (5:5), and the wife of your youth set against her.
 - [[The Young Man Void of Understanding]] — Proverbs 7:5; 2:16 repeated with *lišmorḵā*, *to keep you*, for *ləhaṣṣîləḵā*.
 - Proverbs 9:18 — Sheol again (not yet ingested).
-- Proverbs 8:17 — *"Those who seek me diligently will find me"* (not yet ingested).
+- [[Wisdom Calls at the Gates]] — Proverbs 8:17; *"Those who seek me diligently will find me"*.
 - Job 1:1 — *"blameless and upright"*, *tām wəyāšār*; [[Job of Uz]].
 - Job 3:21 — *maṭmônîm*, hidden treasures; [[Let the Day Perish]].
 - Job 10:21 — *"where I shall not return from, to the land of darkness"*;

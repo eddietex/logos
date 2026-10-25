@@ -118,6 +118,16 @@ today, a bed perfumed with myrrh, aloes, and cinnamon, and a husband away until 
 follows *"as an ox goes to the slaughter"*; *"Her house is the way to Sheol"* (7:27). See
 [[The Young Man Void of Understanding]]. She stands in Wisdom's streets and uses Wisdom's words, which chapter 8 answers.
 
+Chapter 8 answers at once: *"Doesn't wisdom cry out?"* (8:1–21). Wisdom stands on the heights, where
+the paths meet, and at the city gates, and calls *"the sons of mankind"*, the simple and fools
+included. Her words have *"nothing crooked or perverse in them"*; her instruction is to be taken
+*"rather than silver"*. She defines *"The fear of Yahweh"* as *"to hate evil"* (8:13), claims the
+counsel, understanding, and might Job 12:13 gave to God, and says *"By me kings reign"* (8:15). She
+loves those who love her, is found by those who seek her (8:17), and fills their treasuries. See
+[[Wisdom Calls at the Gates]] and
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]]. The promise of riches
+and honour stands, again, against Job's losses.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -161,7 +171,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19
 - [x] [[The Lamp of the Commandment]] — Proverbs 6:20–35
 - [x] [[The Young Man Void of Understanding]] — Proverbs 7:1–27
-- [ ] Wisdom Calls at the Gates — Proverbs 8:1–21
+- [x] [[Wisdom Calls at the Gates]] — Proverbs 8:1–21
 - [ ] Wisdom at the Creation — Proverbs 8:22–36
 - [ ] The Two Feasts — Proverbs 9:1–18
 
@@ -212,7 +222,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Creation]] — Yahweh founds earth and establishes heavens through wisdom (3:19–20).
 - [[Life and Death]] — wisdom as a tree of life to those who retain her (3:18).
 - [[Wisdom]] — the book's subject, named in its first purpose clause (1:2)
-- [[The Fear of God]] — *"the beginning of knowledge"* (1:7) and of wisdom (9:10)
+- [[The Fear of God]] — *"the beginning of knowledge"* (1:7) and of wisdom (9:10); *"to hate evil"*
+  (8:13)
 - [[Folly]] — wisdom's opposite, and the other way the book's reader can go
 - [[Righteousness]] — *"righteousness, justice, and equity"* (1:3), wisdom's moral content
 - [[Language and Speech]] — proverb, parable, riddle (1:6): a book about words, made of words
@@ -234,6 +245,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
 - [[Theft and Restitution]] — the hungry thief who restores sevenfold (6:30–31)
+- [[Kingship and Empire]] — *"By me kings reign, and princes decree justice"* (8:15)
+- [[Prayer]] — *"Those who seek me diligently will find me"* (8:17), against 1:28
 - [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
 - [[Sacrifice and Offering]], [[Oaths and Vows]] — *"Sacrifices of peace offerings are with me.
   Today I have paid my vows"* (7:14), the opening of a seduction
@@ -241,7 +254,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people
-- [[Solomon]] — named in the headings at 1:1, 10:1, and 25:1
+- [[Solomon]] — named in the headings at 1:1, 10:1, and 25:1; not named at 8:15–18, where Wisdom
+  claims the kingship and the riches and honour 1 Kings 3 gives him
 - [[David]] — named once, as Solomon's father (1:1)
 - [[God]] — *Yahweh*, named in the motto (1:7) and throughout
 

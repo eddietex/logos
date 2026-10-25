@@ -310,6 +310,21 @@ the ants among four small, wise things (30:24–25). See
 is told to call wisdom *"my sister"* (7:4). Chapter 8 answers at once with Wisdom's own speech at the
 gates. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Wisdom at the gates — Proverbs 8:1–21
+
+Wisdom's second speech answers the strange woman of chapter 7 from the same public ground. She stands
+on the heights, at the crossroads (*bêṯ nəṯîḇôṯ*, *the house of paths*), and at the city gates
+(8:2–3), using the verbs of her first speech (*tiqrāʾ*, *tittēn qôlāh*, *tārōnnâ*; 1:20–21), and
+calls *"the sons of mankind"* (8:4) — the simple and fools included. Her words have *"nothing crooked
+or perverse in them"* (8:8). She repeats the father's valuation of herself — 8:11b is 3:15b almost
+word for word — and then claims, in God's grammar, what Job 12:13 gave to God: *"Counsel and sound
+knowledge are mine. I have understanding and power"* (8:14). Through her *"kings reign"* (8:15–16);
+she loves those who love her and is found by those who seek her (8:17); she brings riches, honour,
+and *ṣəḏāqâ* (8:18). **Job 28 still stands against 8:1's open call**, and the wiki keeps the reading
+given under 1:20–33. See [[Wisdom Calls at the Gates]],
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]], and
+[[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6; *"Consider her ways, and be wise"*, wisdom learned from the ant
@@ -481,6 +496,7 @@ gates. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; trust, not one's own understanding; *"Don't be wise in your own eyes"*
 - [[The Young Man Void of Understanding]] — Proverbs 7:4, 12, 15, 21; wisdom as sister, and the strange woman in Wisdom's
   places and words
+- [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; Wisdom's second speech: at the gates and crossroads, straight words, better than silver, *"By me kings reign"*, found by those who seek her
 
 ## Related themes
 

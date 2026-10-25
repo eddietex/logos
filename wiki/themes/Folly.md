@@ -109,6 +109,13 @@ follows her *"immediately"* (7:22), and *"doesn't know that it will cost his lif
 words 9:18 repeats of the guest of Folly. 7:22b, *"as a fool stepping into a noose"*, is textually
 difficult in the Hebrew; see the passage page. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Fools invited — Proverbs 8:5
+
+*"You simple, understand prudence. You fools, be of an understanding heart"* (8:5). In 1:22 Wisdom
+rebuked the simple, mockers, and fools; in 8:5 she invites them, offering the simple the *ʿormâ*,
+*prudence*, the preface promised them (1:4). The fool, *kəsîl*, is not written off: he is told to
+acquire *lēḇ*, a heart, the organ the young man of 7:7 lacked. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:12–14, 23; hated instruction confessed too late,
@@ -127,6 +134,7 @@ difficult in the Hebrew; see the passage page. See [[The Young Man Void of Under
   *ḥăsar-lēḇ*
 - [[The Young Man Void of Understanding]] — Proverbs 7:7, 22–23; the simple young man *"void of understanding"*, who does
   not know
+- [[Wisdom Calls at the Gates]] — Proverbs 8:5; the simple and fools invited to prudence and *"an understanding heart"*
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

@@ -120,6 +120,13 @@ eyes*). Proverbs keeps pride in the eyes — compare *"Don't be wise in your own
 will call *"Everyone who is proud in heart"* an abomination (16:5). See
 [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### What Wisdom hates — Proverbs 8:13
+
+*"I hate pride, arrogance, the evil way, and the perverse mouth"* (8:13). *Gēʾâ wəgāʾôn*, *pride and
+arrogance*, are two nouns from one root, *gāʾâ*, *to rise*. They head Wisdom's list as *"haughty
+eyes"* headed the seven things Yahweh hates (6:17), and both lists are joined to the fear of Yahweh.
+See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17; haughty eyes, first of the seven abominations
@@ -176,6 +183,7 @@ will call *"Everyone who is proud in heart"* an abomination (16:5). See
   search); the root is later often used of human pride (reported, not checked). **Against it, the enemy's
   boast in six first-person verbs** (15:9), and *"they sank like lead"* (15:10).
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7; *"Don't be wise in your own eyes"*, answered by the fear of Yahweh
+- [[Wisdom Calls at the Gates]] — Proverbs 8:13; pride and arrogance first in what Wisdom hates
 
 ## Related themes
 
