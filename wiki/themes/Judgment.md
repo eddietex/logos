@@ -253,6 +253,15 @@ in 35:29 therefore cannot be generalized into an absence of covenant obligations
 
 See [[The Freewill Offering]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The breastplate is made and fastened in 39:8–21, but the stored WEB does not repeat
+the designation “breastplate of judgment” or mention the Urim and Thummim here. Chapter 28:30
+still prescribes putting them in it. Silence about their manufacture is not evidence that they
+were omitted in disobedience, nor does this unit explain how inquiry worked.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The renewed assembly hears the Sabbath sanction before the offering appeal.
@@ -504,6 +513,7 @@ See [[The Freewill Offering]].
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:8–11; disputed claims *"before God"*, and the oath where no one saw
 - [[The Priestly Garments]] — Exodus 28:1–43; the breastplate of judgment and the Urim and Thummim.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Breastplate made; Urim and Thummim and inquiry not narrated.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

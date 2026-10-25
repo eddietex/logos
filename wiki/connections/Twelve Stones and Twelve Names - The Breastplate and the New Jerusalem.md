@@ -18,6 +18,7 @@ tags: [connection]
   children of Israel"*, twelve foundations bearing *"twelve names of the twelve Apostles of the
   Lamb"*, and the foundations adorned with twelve precious stones *(verified WEB, not yet
   ingested)*.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Named shoulder and breastplate stones made; English gem list matches chapter 28.
 
 ## Analysis
 
@@ -45,6 +46,16 @@ draw, not a stated fulfilment.
 covering of precious stones on the one *"in Eden, the garden of God"*. It does not mention the
 priesthood or the breastplate. The resemblance between that list and Aaron's breastplate is
 noted here and left open until Ezekiel is ingested.
+
+### The priestly garments made — Exodus 39:1–31
+
+The stones specified in chapter 28 are now worked, set, and engraved (39:6–14). The stored
+WEB’s twelve gem labels in 39:10–13 match 28:17–20 in the same order; the engraved names again
+refer to the twelve tribes without enumerating them. Manufacture strengthens the local connection
+between names and stones without changing the later comparison’s limits: it does not establish
+mineral identities or add a claim that Revelation directly quotes this passage.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

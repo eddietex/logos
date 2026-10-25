@@ -41,6 +41,7 @@ tags: [connection]
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28; the enclosure, separation, or placement developed here.
 
 - **Exodus 27:1–19; 38:1–7, 9–20; 40:6–8, 24–33** — [[The Altar and the Court]]; the altar, court, or their continuing service.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Seven WEB notices of obedience, before the final completed-work report.
 
 ## Analysis
 
@@ -82,8 +83,9 @@ prescribes them; 38:1–7, 9–20 reports their making; 40:6–8 commands their 
 40:24–33 describes the light, offerings, and completed enclosure. Chapter 38 also adds the
 basin (38:8) between the altar and court accounts, so it is not a verbatim duplicate of
 chapter 27. Chapter 27's lamp rule (27:20–21) concerns continued service, not merely a
-construction completed once. See [[The Altar and the Court]]. The later units remain
-un-ingested and were compared from the local WEB text.
+construction completed once. See [[The Altar and the Court]]. Chapter 38 is now ingested in
+[[The Altar, the Basin, the Court, and the Inventory]]; chapter 40 remains un-ingested.
+Both were compared from the local WEB text.
 
 ### The offering now brought — Exodus 35:1–29
 
@@ -144,6 +146,17 @@ the inventory into the final erection or the blessing of the finished work in ch
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### The priestly garments made — Exodus 39:1–31
+
+The stored WEB repeats “as Yahweh commanded Moses” at 39:1, 5, 7, 21, 26, 29, and 31.
+These seven notices mark the garment account’s sections. This is a count of the English text,
+not a fresh claim that each verse contains the exact Hebrew formula discussed above or that
+there were seven days of garment making. The final collective completion and inspection notices
+in 39:32, 42–43 remain outside this unit. Correspondence with chapter 28 is detailed but not
+verbatim; omitted explanations of use do not cancel the earlier commands.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

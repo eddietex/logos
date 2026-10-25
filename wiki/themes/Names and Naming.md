@@ -105,6 +105,15 @@ affirmed (33:12, 17). A patronymic identifies the servant’s family, while pers
 supports the mediator’s plea; the chapter does not give Nun an independent role. See
 [[Show Me Your Glory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+Names become durable inscriptions on the onyx stones and twelve breastplate stones
+(39:6, 14); the crown’s inscription declares it holy to Yahweh (39:30). No list assigns a
+particular tribe to a particular gemstone. The repeated signet comparison concerns the engraving;
+it does not by itself identify these objects as seals used to authenticate documents.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Joshua’s patronymic and Moses known by name.
@@ -260,6 +269,7 @@ supports the mediator’s plea; the chapter does not give Nun an independent rol
   **Jethro named seven times in 18:1–12, then only *"Moses' father-in-law"*** (WLC) — see
   [[Eliezer (son of Moses)]]
 - [[The Priestly Garments]] — Exodus 28:1–43; the tribes' names engraved on stones, and *"HOLY TO YAHWEH"* on the forehead.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Tribal names engraved in stones; Yahweh named on the crown.
 
 ## Related themes
 

@@ -231,14 +231,15 @@ chapter 39, and the ordination itself is prescribed in chapter 29.
 - Exodus 20:26 — [[The Altar and the Hebrew Slave]] and
   [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]]: nakedness and the altar.
 - Exodus 27:20–21 — [[The Altar and the Court]]: Aaron and his sons already assigned the lamp.
-- Exodus 29 — [[The Ordination of the Priests]]. Exodus 39:1–31; Leviticus 8:7–9 — the making of
-  the garments, and the clothing of Aaron. Exodus 39 was read from local WEB; Leviticus 8:7–9 was verified WEB. Neither is
-  ingested yet.
+- Exodus 29 — [[The Ordination of the Priests]]. Exodus 39:1–31 is now ingested in
+  [[The Priestly Garments Made]]; Leviticus 8:7–9 describes Aaron’s clothing (previously
+  verified WEB; Leviticus remains un-ingested).
 - Numbers 27:21; Deuteronomy 33:8; 1 Samuel 28:6; Ezra 2:63 —
   [[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]].
 - Ezekiel 28:13; Revelation 21:12–14, 19–20 —
   [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]].
 - Zechariah 14:20 — *"HOLY TO YAHWEH"* on the bells of the horses (verified WEB, not ingested).
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The prescribed garments are now made; differences and the unchanged raw WEB discrepancy are compared.
 
 ## Notes
 
@@ -338,3 +339,11 @@ the gifts support the holy garments (35:21). The rulers bring the ephod and brea
 (35:27). After the calf, Aaron remains named as priest; no ordination is performed here.
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.
+
+### The clothing now made — Exodus 39:1–31
+
+[[The Priestly Garments Made]] now supplies the manufacturing counterpart. The gold-wire
+process is added, the linen clothing precedes the crown, and several explanations of use are
+not repeated. The plate is fastened to the turban in 39:31, preserving the already documented
+discrepancy with this file’s quotation of 28:37. See
+[[The Garments Commanded and Made - Exodus 28 and 39]]. Source: local raw WEB, 2026-10-25.

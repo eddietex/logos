@@ -14926,3 +14926,65 @@ The fetch script's refusal to overwrite the already-present Exodus file required
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. No operational blocker remains;
 the interpretive limits above are explicitly preserved on the relevant pages.
+
+## [2026-10-25] ingest | Exodus 39.1-31 — The Priestly Garments Made
+
+Ingested [[The Priestly Garments Made]] in one unattended invocation, retaining the planned
+39:1–31 boundary. Exodus is now **51 / 53** pericopes ingested and remains in progress. The
+passage contains all thirty-one WEB verses, summary, and discussion of the ephod, breastplate,
+robe, linen clothing, crown, named stones, and obedience notices. Only this queue box was checked.
+
+### Decisions and tensions
+
+- Created [[The Garments Commanded and Made - Exodus 28 and 39]] to compare prescription with
+  manufacture, keeping the different order, additional gold-wire process, fuller material
+  descriptions, and omitted explanations of use. Manufacture does not enact dressing,
+  anointing, sacrifice, or the seven-day ordination.
+- Counted seven occurrences of the WEB obedience notice at 39:1, 5, 7, 21, 26, 29, 31.
+  No exact Hebrew-formula assertion or seven-day manufacturing schedule is inferred.
+- Preserved the stored WEB discrepancy: 28:37 says sash, while 39:31 says turban. The
+  forehead placement of 28:38 and crown-on-turban direction of 29:6 support the latter.
+  The prior passage’s documented source-language resolution remains in place; this pass
+  adds only English-source comparison and leaves both raw readings untouched.
+- The Urim and Thummim are not mentioned in this unit. Their placement is commanded in
+  28:30 without a manufacturing instruction; the silence does not establish loss,
+  disobedience, or identity with the twelve stones. The bell and iniquity explanations
+  omitted from the making account are not treated as revoked.
+- The gemstone lists match at the level of stored WEB labels. No ancient mineral identity,
+  source-language equivalence, or assignment of a particular tribe to each stone is claimed.
+- Aaron’s four sons receive contextual coverage from 28:1; none is individually named in
+  39:1–31. Jacob is ancestral context for Israel’s names. Bezalel and Oholiab remain leaders
+  of the surrounding commissioned company without an invented allocation of individual
+  garment-making tasks. No additional person page was needed.
+- Continued the Sinai camp setting under [[Horeb]]. The reference to ministry in the holy
+  place states the garments’ purpose; it does not establish an already erected sanctuary.
+- Revised five existing connections and six earlier passages, including the now-stale
+  notice that the garment-making pericope was un-ingested. No boundary, title, category-range,
+  schema, or harness change was needed.
+
+### Sources and verification
+
+All thirty-one verses were copied mechanically from `raw/bible/Exodus.md` and verified for
+exact equality. Comparisons used stored WEB Exodus 28; 29:4–9, 21, 29–35; 31:1–11;
+35:19–35; 36:1–7; 38:22–24; 39:32–43; and 40:12–17, 34–35. Later units were read only
+for comparison and remain unchecked. No new quotation from an unstored book or assertion about
+exact Hebrew/Greek wording was introduced. Existing later-source connections retain their
+source notes and qualifications. The fetch script refused to overwrite the existing Exodus
+file as designed; no fetch or raw edit was required.
+
+### Pages created or revised
+
+- **Created (2):** one passage and one connection.
+- **Existing content pages revised (37):** Exodus; six earlier passages; ten people;
+  one place; fourteen themes; five connections.
+- **Bookkeeping revised (11):** top-level and book indexes; three people subindexes;
+  places and themes indexes; three connections subindexes; this log.
+- **Totals by frontmatter type:** 142 passages, 177 people, 90 places, 82 themes,
+  378 connections; 3 books started, 2 complete. Category pages each have exactly one index
+  row; alphabetical subindex sorting and filing ranges pass. Both new titles are unique.
+  All listed people, place, and themes link back to the new passage.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. No operational blocker remains;
+the interpretive limits above remain explicit on the relevant pages.

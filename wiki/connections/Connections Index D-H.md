@@ -65,6 +65,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 |
 | [[A Garment and a Goat - Jacob Deceives and Is Deceived]] | parallel | Genesis 27:9, 15–16 · Genesis 37:31–33 · Genesis 38:14, 17, 20 · Genesis 3:21 · Genesis 39:12 · Genesis 44:1–13 |
 | [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 · Genesis 45:22, 27 |
+| [[The Garments Commanded and Made - Exodus 28 and 39]] | command-and-performance | Exodus 28:1–43 · Exodus 29:4–9, 21, 29–30 · Exodus 35:19–27 · [[The Priestly Garments Made]] (Exodus 39:1–31) |
 | [[Gathered to His People]] | parallel | Genesis 25:8 · Genesis 25:17 · Genesis 35:29 · Genesis 49:29, 33 · Numbers 20:24 · Deuteronomy 32:50 |
 | [[Gibeah and Sodom - Judges 19 as a Retelling]] | parallel | Genesis 19:1–11 · Judges 19:11–30 · Judges 20–21 · Hosea 9:9; 10:9 |
 | [[God Almighty - El Shaddai in Genesis and Exodus]] | thread | Genesis 17:1 · Genesis 28:3; 35:11; 43:14; 48:3; 49:25 · Exodus 6:2–3 · Numbers 24:4, 16 · Job (31×) · Ruth 1:20–21 · Revelation 1:8 |

@@ -247,6 +247,15 @@ here.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+Seven verses end with the WEB’s statement that the work follows Yahweh’s command to Moses
+(39:1, 5, 7, 21, 26, 29, 31). Craft detail is assessed by received instruction. The account is
+not a verbatim repeat of chapter 28: it adds the gold-wire process and omits several explanations
+of use. These differences must be retained alongside its explicit claim of obedience.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
@@ -303,6 +312,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The dwelling must be erected according to what Moses was shown (26:30).
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The mountain design governs construction; the lamp rule governs succeeding generations.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Seven WEB obedience notices punctuate the garment account.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

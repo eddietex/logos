@@ -183,6 +183,15 @@ Chapter 38 does not restate the memorial language or assign a symbolic meaning t
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The making report retains the memorial purpose of the shoulder stones (39:7), alongside
+the twelve tribal names on the breastplate (39:14). Exodus 28:12, 29 supplies the fuller account
+of Aaron bearing names before Yahweh. The memorial objects now exist; the passage does not yet
+describe their use or suggest that God had forgotten the tribes.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The earlier memorial payment has a specified material use.
@@ -358,6 +367,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   where he will come and bless
 - [[The Priestly Garments]] — Exodus 28:1–43; the twelve names worn *"for a memorial before Yahweh"*.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:16; the atonement money *"a memorial for the children of Israel before Yahweh"*.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Engraved shoulder stones explicitly made as memorials for Israel.
 
 ## Related themes
 

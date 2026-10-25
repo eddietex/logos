@@ -601,6 +601,15 @@ Israel then mourn and remove their jewelry (33:4–6); these are his descendants
 performing another act. The ancestral promise and the people’s present resistance are held together.
 See [[Show Me Your Glory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The descendants who carry Jacob’s second name are represented by engraved shoulder stones
+and twelve breastplate stones (39:6–7, 14). This is ancestral context, not an appearance or action
+by Jacob. As in chapter 28, the actual names are not listed on the page of Scripture; assigning
+each tribe a particular gemstone would go beyond the making account.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 33 — recalled as a recipient of the land oath (33:1), not personally present.
@@ -966,6 +975,7 @@ See [[Show Me Your Glory]].
   travels"* — [[God Almighty - El Shaddai in Genesis and Exodus]]
 - [[Israel at Mount Sinai]] — Exodus 19:3; ancestral name of the people, not a personal appearance
 - [[The Priestly Garments]] — Exodus 28:9–12, 21, 29; unnamed, but his sons' names are engraved on the ephod's onyx stones *"in the order of their birth"* and on the twelve breastplate stones.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Ancestral context for Israel’s twelve names; no personal appearance.
 
 ## Related people
 

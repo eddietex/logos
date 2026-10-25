@@ -144,6 +144,15 @@ assignment of particular objects is supplied.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The skillful work of the ephod and breastplate, including gold cut into wires for the
+textiles (39:3, 8), realizes the capacities described in 28:3 and 35:30–35. The account shows
+what gifted competence produces without repeating the earlier account of its divine source.
+It supplies neither a new craftsman’s name nor a claim that skill requires no learning.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Oholiab’s practical skills named beside credited work (38:23).
@@ -289,6 +298,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   so"*, and adopted without any reported word from God. Deuteronomy's retelling asks the judges to be *"wise men"*
   (1:13) — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - [[The Priestly Garments]] — Exodus 28:1–43; the wise-hearted makers filled with *"the spirit of wisdom"*.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Skill takes material form in metalwork, stone engraving, and textiles.
 
 ## Related themes
 

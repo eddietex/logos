@@ -161,6 +161,7 @@ mountain instructions; the following pericope will return to the people below.
 - Exodus 8:19; 31:18 — [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
 - Isaiah 40:28 — the Creator does not grow weary; verified WEB, not yet ingested, held beside 31:17
   below.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The garments included in 31:10 are made within the shared commission.
 
 ## Notes
 

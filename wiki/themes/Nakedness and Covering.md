@@ -106,6 +106,15 @@ fastening is specified. See [[The Shining Face and the Veil - Exodus 34 and 2 Co
 
 See [[The Shining Face of Moses]].
 
+### The priestly garments made — Exodus 39:1–31
+
+Linen breeches are now made with the coats, turban, headbands, and sash (39:27–29).
+Their protective purpose is explained in 28:42–43; the manufacturing report does not restate
+the exposure or death warning. Omission of that explanation does not revoke it, and the unit
+does not yet portray priests approaching the altar in these garments.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The face veil covers radiance rather than shameful exposure.
@@ -163,6 +172,7 @@ See [[The Shining Face of Moses]].
   may not be exposed to it"*
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"his garment for his skin"*, returned before sunset
 - [[The Priestly Garments]] — Exodus 28:1–43; linen breeches for the priests, under threat of death.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The linen breeches required in chapter 28 are now made.
 
 ## Related themes
 

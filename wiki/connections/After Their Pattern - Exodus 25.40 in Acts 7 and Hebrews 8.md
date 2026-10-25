@@ -30,6 +30,7 @@ tags: [connection]
 Exodus 26:30 is read from `raw/bible/Exodus.md`.)
 
 - **Exodus 27:8** — [[The Altar and the Court]]; the altar, court, or their continuing service.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Garments follow the commanded design; no new account of the mountain showing.
 
 ## Analysis
 
@@ -126,6 +127,16 @@ manufacturing report.
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### The priestly garments made — Exodus 39:1–31
+
+The garments in 39:1–31 closely follow chapter 28 and repeatedly affirm obedience to
+Yahweh’s command to Moses. That correspondence includes material details but also differences
+of description, tracked in [[The Garments Commanded and Made - Exodus 28 and 39]]. The unit
+neither describes what Moses saw on the mountain nor says that the garment makers saw a heavenly
+prototype. The later interpretation in Hebrews remains distinct from the manufacturing report.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

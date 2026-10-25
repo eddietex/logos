@@ -562,6 +562,15 @@ here, without a new speech or the final erection of the tabernacle.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+Moses is named in each of the seven obedience notices (39:1, 5, 7, 21, 26, 29, 31).
+The work is measured against the command he received; he is not said to manufacture or inspect
+the garments in this unit. Inspection and blessing belong to 39:43, beyond this pericope.
+His role as transmitter of the design is therefore distinct from both craft and installation.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -805,6 +814,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments]] — Exodus 28:1–43; told to bring Aaron and his sons near, and to clothe and anoint them.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; told to ordain the priests himself, and given the breast of the ram as his portion.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; told to make the incense altar, collect the census ransom, and compound and apply the anointing oil.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Named seven times as the recipient of the command governing the garments.
 
 ## Related people
 

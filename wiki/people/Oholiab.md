@@ -51,6 +51,15 @@ to two men.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The embroidery and textile work reported in 39:1–31 fit the skills attributed to Oholiab
+in 35:34–35 and 38:23. Nevertheless this pericope does not name him or assign him a particular
+garment. His participation belongs to the shared commission of 36:1–2; the sash’s embroidery
+(39:29) should not be turned into an individually signed work.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
@@ -71,6 +80,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   skilled work; summoned with the company.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Appointed alongside Bezalel — Exodus 31:6.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Contextual craft leader; embroidery is reported without naming its maker.
 
 ## Related people
 

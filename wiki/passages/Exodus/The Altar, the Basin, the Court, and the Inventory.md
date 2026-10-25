@@ -152,6 +152,7 @@ WEB text, Exodus 38:1–31, copied from the stored source.
   [[Enough for the Work - Manna and the Sanctuary Offering]] — inventory does not erase differing gifts or specify the surplus.
 - [[The Tent Outside the Camp and the Promised Dwelling]] — the women’s meeting-tent setting remains uncertain.
 - [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] — outer equipment prepares the dwelling; glory follows in Exodus 40.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The making account continues with priestly clothing after the equipment and inventory.
 
 ## Notes
 

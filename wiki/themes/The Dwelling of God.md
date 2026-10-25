@@ -170,6 +170,15 @@ and filling. The relationship is not expressly resolved here.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The garments are made for ministering in the holy place (39:1, 26–27). Preparation for
+God’s dwelling therefore includes the people’s clothing as well as the enclosure and furniture.
+The statement of purpose does not put the priests into an already functioning sanctuary;
+completion, erection, and filling remain separately narrated after this pericope.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Outer equipment and court made; erection and filling remain distinct.
@@ -208,6 +217,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments]] — Exodus 28:1–43; the priest clothed for entering the holy place.
 - [[The Ordination of the Priests]] — Exodus 29:42–46; *"I will dwell among the children of Israel"*, the purpose of the exodus.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:6, 36; *"where I will meet with you"*, twice.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Clothing for holy-place service prepared before the sanctuary’s erection.
 
 ## Related themes
 

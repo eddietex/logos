@@ -208,6 +208,15 @@ The altar, basin, court, and accounting belong to the continuing Sinai construct
 settle whether the women’s ministry belongs to the earlier outside tent of 33:7–11 or is described
 retrospectively. See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The priestly garments are made within the continuing Sinai encampment of the building
+narrative. Exodus 39:1–31 gives no new geographical name or departure. The holy place mentioned
+in 39:1 is the intended sphere of service, not evidence that the completed sanctuary is already
+erected. This remains contextual coverage under the existing Horeb/Sinai page.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Appears in
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; continuing Sinai construction setting inferred from context.
@@ -275,6 +284,7 @@ retrospectively. See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments]] — Exodus 28:1–43; the priesthood named and its garments prescribed during Moses' stay on the mountain.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; the ordination and the daily offering prescribed during Moses' stay on the mountain.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; the incense altar, ransom, basin, oil, and incense prescribed during Moses' stay on the mountain.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Continuing Sinai camp setting; no new geographical location named.
 
 ## Related places
 

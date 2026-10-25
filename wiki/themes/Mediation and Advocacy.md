@@ -242,6 +242,15 @@ intercession or speech is narrated here.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The shoulder stones and breastplate now bear the names of the children of Israel
+(39:6–7, 14). Chapter 28:12, 29 explains their representative function before Yahweh; chapter 39
+reports making them without narrating Aaron carrying them into the holy place. Moses likewise
+mediates the command named seven times, while the craftspeople execute it.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Moses’ received commands and administrative direction organize shared service.
@@ -472,6 +481,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Altar and the Court]] — Exodus 27:1–21; Moses transmits the rule; Israel provides oil; Aaron and his sons tend it on the people’s behalf.
 - [[The Priestly Garments]] — Exodus 28:1–43; the high priest carries Israel's names, judgment, and iniquity before Yahweh.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; Moses ordains the priests; the meeting place at the tent's door.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The objects bearing Israel’s names are made; their use remains ahead.
 
 ## Related themes
 

@@ -73,6 +73,15 @@ completed vesting, or ordination is reported here.
 
 See [[The Freewill Offering]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The coats and associated linen clothing are made for Aaron and his sons (39:27–29).
+Identification with the four sons named in 28:1 is contextual: this unit supplies no individual
+names, acts, or distribution of particular items among them. It advances from prescribed clothing
+to manufactured clothing without yet narrating their dressing or ordination.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
@@ -104,6 +113,7 @@ See [[The Freewill Offering]].
 - [[The Priestly Garments]] — Exodus 28:1–43; named individually for the priest's office; sons' garments prescribed.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:19–21, 30; included among Aaron's sons who wash at the basin and are anointed.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Included among Aaron’s sons for whom garments are made; not individually named here.
 
 ## Related people
 

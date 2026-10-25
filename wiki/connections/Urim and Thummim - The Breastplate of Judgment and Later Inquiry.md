@@ -19,6 +19,7 @@ tags: [connection]
   *(verified WEB, not yet ingested)*.
 - **Ezra 2:63** — the most holy things withheld *"until a priest stood up to serve with Urim and
   with Thummim"* *(verified WEB, not yet ingested)*.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Breastplate manufactured without a notice about Urim and Thummim.
 
 ## Analysis
 
@@ -44,6 +45,16 @@ there are, or explains how an answer was received. Proposals that they were lots
 or a means of yes-or-no answers are interpretations; they may be reasonable, but they are not
 stated in these passages, and this page does not adopt one. No etymology of the two words is
 asserted here; the Hebrew was not checked in this pass.
+
+### The priestly garments made — Exodus 39:1–31
+
+Exodus 39:8–21 describes making, setting, and securing the breastplate without mentioning
+the Urim and Thummim. Chapter 28:30 commands putting them in it, not making them alongside the
+stones. Their absence from the manufacturing report therefore does not show disobedience or loss,
+and does not identify them with the twelve stones. The later placement account already documented
+above remains a separate stage; no new later-source quotation is introduced here.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

@@ -21,6 +21,7 @@ tags: [connection]
   teaching, summons, and surplus now narrated in an ingested passage.
 - Exodus 38:22–23 — Bezalel’s work credited and Oholiab’s skills described; see
   [[The Altar, the Basin, the Court, and the Inventory]].
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Garment making continues the shared commission; no individual maker named.
 
 ## Analysis
 
@@ -106,6 +107,16 @@ in chapter 39.
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### The priestly garments made — Exodus 39:1–31
+
+Exodus 39:1–31 supplies the garments included in the commission of 31:10 and public
+inventory of 35:19. Its singular and plural making descriptions do not name either Bezalel
+or Oholiab. The adjacent credit in 38:22–23 and shared commission in 36:1–2 give context without
+allocating each craft operation to an individual. The chapter 39 extension therefore completes
+another part of the assigned work while leaving the formal review in 39:32–43 ahead.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

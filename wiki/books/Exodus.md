@@ -58,6 +58,12 @@ offering, the basin from the ministering women’s mirrors, the court, and the i
 named for accounting; Bezalel and Oholiab for the work. The fixed census silver and willing gifts
 remain distinct, and manufacture still precedes final erection and service.
 
+[[The Priestly Garments Made]] (39:1–31) now reports the ephod, breastplate, robe, linen clothing,
+and holy crown. Seven notices affirm compliance with Yahweh’s command to Moses. The names of
+Israel are engraved and the crown inscribed, but the priests are not yet dressed or ordained.
+The making account retains differences of description from chapter 28, including the stored
+WEB’s sash/turban discrepancy; see [[The Garments Commanded and Made - Exodus 28 and 39]].
+
 ## Structure
 
 - **1 The oppression** — the sons of Israel listed and the seventy counted, Joseph's generation
@@ -544,7 +550,7 @@ for unit.
 - [x] [[The Tabernacle Built]] — Exodus 36:8–38
 - [x] [[The Furnishings Made]] — Exodus 37:1–29
 - [x] [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31
-- [ ] The Priestly Garments Made — Exodus 39:1–31
+- [x] [[The Priestly Garments Made]] — Exodus 39:1–31
 - [ ] The Work Completed — Exodus 39:32–43
 - [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38
 

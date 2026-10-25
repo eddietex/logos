@@ -156,6 +156,7 @@ WEB text, Exodus 35:1–29, copied from the stored source.
   2 Corinthians 9:1–15; verified WEB parallels in giving, not claims of direct quotation.
 - [[As God Commanded, So He Did - The Obedience Formula]] — instruction and response; the completed
   building remains ahead in Exodus 39–40.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The contributed textiles, gold, and stones become garments, including the stones brought by the rulers.
 
 ## Notes
 

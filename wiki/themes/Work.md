@@ -179,6 +179,15 @@ ministry is not described.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The garment account adds a practical detail to the earlier design: gold is beaten into
+thin plates and cut into wires to be worked with yarn and linen (39:3). Weaving, engraving,
+setting stones, braiding chains, and embroidery cooperate in the finished clothing. Alternating
+singular and plural descriptions do not distribute these tasks among named individuals.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Craft, women’s contributions, and material accounting serve the sanctuary.
@@ -332,6 +341,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Making the altar and court leads into the recurring work of maintaining the light.
 - [[The Priestly Garments]] — Exodus 28:1–43; skilled weaving, engraving, and embroidery for vestments.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Gold cut into wires and integrated with skilled textile and stone work.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

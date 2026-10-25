@@ -55,6 +55,16 @@ formal completion report still follow in chapter 39.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The garment account belongs to the company commissioned in 36:1–2 and credited in
+38:22–23. Its WEB alternates singular and plural making descriptions, but does not name Bezalel
+in 39:1–31. His leadership supplies context; it does not establish that he alone made the ephod,
+cut the gold into wires, or engraved every stone. The new detail is the work performed, not a
+new allocation of individual tasks.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Furnishings Made]] — Exodus 37:1–29; named as the ark maker; furnishings made.
@@ -79,6 +89,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Called and equipped for the sanctuary work — Exodus
   31:2–11.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Contextual craft leader; the garment unit does not name him.
 
 ## Related people
 

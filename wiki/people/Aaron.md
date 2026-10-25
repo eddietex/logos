@@ -256,6 +256,16 @@ prescribed for him and his sons (30:18–21); its use is reported later in 40:30
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The holy garments are now made for Aaron (39:1, 27), advancing beyond the prescription
+of chapter 28. Named stones, the blue robe with bells and pomegranates, linen clothing, and the
+gold crown prepare him for service. The account does not yet show him wearing them or performing
+a rite. His continued appointment after the calf remains visible, but manufacture alone is not
+an account of forgiveness or consecration.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -364,6 +374,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments]] — Exodus 28:1–43; named for the priest's office; bears Israel's names, judgment, and the iniquity of the holy things.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; washed, clothed, anointed, and consecrated for seven days; his garments pass to his successor.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; the morning and evening incense, the yearly atonement on the incense altar, the washing, and the anointing.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Garments now made for him; no dressing or ordination narrated.
 
 ## Related people
 

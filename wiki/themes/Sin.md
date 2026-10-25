@@ -170,6 +170,15 @@ Moses asks pardon for our iniquity and sin while acknowledging the people's stif
 sin (34:7). The sequence distinguishes an offered basis for appeal from a claim that the calf
 was harmless or that the people now need no further obedience. See [[The Covenant Renewed]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The crown and linen breeches are made (39:28, 30–31), but the explanation about bearing
+the iniquity of holy things and the danger of bearing iniquity oneself remains in 28:38, 43.
+Chapter 39 does not repeat that language or report an act of atonement. Aaron’s continuing place
+after the calf is apparent; the clothing account does not itself explain his guilt’s removal.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The mediator acknowledges continuing sin beneath covenant
@@ -343,6 +352,7 @@ was harmless or that the people now need no further obedience. See [[The Covenan
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the peoples' gods as a cause of sin; the angel who will not pardon transgression.
 - [[The Priestly Garments]] — Exodus 28:1–43; iniquity of the holy things borne by Aaron; the priests' own risk.
 - [[The Ordination of the Priests]] — Exodus 29:10–14, 33, 36–37; the priests' own sin offering, and atonement for the altar.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Manufacture does not enact the earlier provision for bearing iniquity.
 
 ## Related themes
 

@@ -256,6 +256,7 @@ narrates the performance.
   [[Outside the Camp - The Sin Offering and Hebrews 13]] (verified WEB; not ingested).
 - Exodus 19:6 — [[A Kingdom of Priests - Exodus 19 and First Peter 2]].
 - [[Sacrifice Before the Priesthood]] — the offerings before this rite existed.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The clothing is manufactured; this does not enact the dressing or seven-day ordination prescribed here.
 
 ## Notes
 

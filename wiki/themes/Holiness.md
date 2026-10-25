@@ -199,6 +199,15 @@ priestly ordination.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The garments are called holy (39:1), and the pure gold plate of the holy crown bears
+“HOLY TO YAHWEH” (39:30). The inscription makes dedication visible. Chapter 28’s directions about
+bearing iniquity and approaching safely remain relevant, although this unit does not repeat them
+or enact the consecration rite. Manufacture and ritual sanctification are distinct stages.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Court and basin prepare bounded, washed approach without an ordination rite.
@@ -256,6 +265,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments]] — Exodus 28:1–43; holy garments, the plate *"HOLY TO YAHWEH"*, and death warnings at the holy place.
 - [[The Ordination of the Priests]] — Exodus 29:1, 21, 33–37, 43–44; priests, garments, food, and altar made holy; holiness by touch.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10, 29, 32–38; *"most holy"* three times, holiness by touch, and recipes reserved to God.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Holy garments and the inscribed holy crown are made.
 
 ## Related themes
 

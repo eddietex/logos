@@ -103,6 +103,15 @@ assumed identity of Hebrew words. Exodus does not say that the radiance faded. S
 
 See [[The Shining Face of Moses]].
 
+### The priestly garments made — Exodus 39:1–31
+
+Chapter 28:2, 40 gives glory and beauty as purposes of the garments now made in
+39:1–31. The making account itself does not repeat that phrase or describe an appearance of
+divine glory. The honor of priestly clothing should therefore remain distinct from the filling
+of the tabernacle in 40:34–35, which lies beyond this ingest.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The encounter leaves a visible effect on the mediator.
@@ -124,6 +133,7 @@ See [[The Shining Face of Moses]].
   Septuagint has *"I will be seen among you"* (Rahlfs). See [[The Dwelling of God]]
 - [[The Priestly Garments]] — Exodus 28:1–43; garments *"for glory and for beauty"*.
 - [[The Ordination of the Priests]] — Exodus 29:43; the meeting place *"sanctified by my glory"*.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Garments designed for glory and beauty made; no manifestation reported.
 
 ## Related themes
 

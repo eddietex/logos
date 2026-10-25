@@ -1971,6 +1971,15 @@ glory remains in 40:34–35.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+Seven notices in the stored WEB say that the garments were made as Yahweh commanded Moses
+(39:1, 5, 7, 21, 26, 29, 31). His name also appears in the inscription on the gold crown
+(39:30). The unit reports compliance with an earlier command, rather than a fresh divine speech
+or the arrival of glory. The holy clothing is made before the later acts of dressing and service.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2657,6 +2666,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Priestly Garments]] — Exodus 28:1–43; He names a priestly family and clothes it for his presence; the makers are filled with wisdom.
 - [[The Ordination of the Priests]] — Exodus 29:1–46; He prescribes the ordination and says he brought Israel out to dwell among them.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–38; prescribes the incense altar, the census ransom, the basin, the anointing oil, and the incense.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Yahweh’s command measures the making; his name is engraved on the crown.
 
 ## Related people
 

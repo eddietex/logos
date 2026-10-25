@@ -218,6 +218,15 @@ metal-use list omits the basin, and no weight for it or disposition of the surpl
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The priestly garments made — Exodus 39:1–31
+
+The contributed materials of 35:21–27 become garments: gold enters the textile work,
+stone settings, chains, bells, and crown, while the rulers’ stones are engraved for Israel
+(39:2–31). Precious materials are directed to the commanded service. No weight or separate cost
+of the garments is given, so the gold total in 38:24 cannot be divided among them from this text.
+
+See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Metals counted and allocated; mirrors traced; surplus and basin weight unstated.
@@ -410,6 +419,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 
 - [[The Altar and the Court]] — Exodus 27:1–21; Brass, silver, linen, and acacia become furnishings; oil remains an ongoing contribution.
 - [[The Priestly Garments]] — Exodus 28:1–43; gold, dyed yarn, linen, and precious stones become vestments.
+- [[The Priestly Garments Made]] — Exodus 39:1–31; Contributed gold, stones, yarn, and linen become priestly garments.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

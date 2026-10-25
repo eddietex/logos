@@ -112,6 +112,7 @@ WEB text, Exodus 35:30–36:7, copied from the stored source.
   the completed-work reports; it does not itself announce the completed building.
 - [[Manna and Quail]] — Exodus 16:16–30; need and limits on gathering, compared with distinct
   circumstances in [[Enough for the Work - Manna and the Sanctuary Offering]].
+- [[The Priestly Garments Made]] — Exodus 39:1–31; The commissioned company makes the garments; no individual maker is named in that unit.
 
 ## Notes
 
