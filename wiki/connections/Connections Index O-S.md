@@ -49,7 +49,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
 | [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] | typology | Genesis 29:15–30 · Genesis 30:25–43 · Genesis 31:1–55 · Exodus 1:8–14 · Exodus 3:7–22 · Exodus 5:1–3 · Exodus 12:31–36 · Exodus 14:5–9 · Exodus 15:1, 20 · Deuteronomy 26:5–9 · Genesis 31:25 · Genesis 29:15 · Genesis 31:43 · Exodus 21:2, 4, 11 |
 | [[Seven Days and Seven Nights - The Week of Mourning]] | thread | Job 2:13 · Genesis 50:3, 10 · 1 Samuel 31:13 · Ezekiel 3:15 · Sirach 22:12 · Judith 16:24 · Job 3:1 |
-| [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]] | image | Exodus 25:31–40 · Exodus 27:20–21 · Zechariah 4:2–6, 14 · Revelation 1:12, 20 · Revelation 2:5 · Exodus 26:35 · [[The Altar and the Court]] |
+| [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]] | image | Exodus 25:31–40 · Exodus 27:20–21 · Zechariah 4:2–6, 14 · Revelation 1:12, 20 · Revelation 2:5 · Exodus 26:35 · [[The Altar and the Court]] · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[The Seventh Year's Food - Exodus 23 and Leviticus 25]] | parallel | Exodus 20:8–11 · Exodus 21:2 · Exodus 23:10–12 · Leviticus 25:1–7 |
 | [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]] | thread | Genesis 10:1–32 · Genesis 46:27 · Exodus 1:5 · Exodus 24:1, 9 · Numbers 11:16–25 · Numbers 29:12–34 · Deuteronomy 10:22 · Deuteronomy 32:8 · Luke 10:1, 17 |
 | [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] | textual | Genesis 46:8–27 · Exodus 1:5 · Deuteronomy 10:22 · Acts 7:14 |
@@ -75,6 +75,6 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · Numbers 3:17–20 · Numbers 26:57–61 · 1 Chronicles 6 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
-| [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]] | thread | Exodus 30:9, 33, 37–38 · Leviticus 10:1–2 · Numbers 16:35–40 · 2 Chronicles 26:16–19 |
+| [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]] | thread | Exodus 30:9, 33, 37–38 · Leviticus 10:1–2 · Numbers 16:35–40 · 2 Chronicles 26:16–19 · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 · Exodus 12:45, 48–49 |
 | [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] | motif | Genesis 41:7, 24 · Exodus 7:12 · Exodus 15:12 · Numbers 16:30–34; 26:10 · Hebrews 11:29 |

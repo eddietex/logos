@@ -51,6 +51,16 @@ report does not describe worship of the figures.
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The two gold cherubim prescribed in 25:18–20 are now made with the mercy seat (37:7–9).
+Their wings cover it and their faces turn toward it and one another. These are representations,
+not living beings appearing to the makers. The report supplies no further bodily form. Their
+manufacture after the condemned calf sharpens the already noted tension with the image
+prohibition (20:4–5; 32:4–8), without narrating worship of these commissioned figures.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Figures made on the curtains and inner veil (36:8, 35).
@@ -61,12 +71,14 @@ See [[The Tabernacle Built]].
   other; God will speak *"from between the two cherubim"* — Exodus 25:18–22,
   [[The Ark, the Table, and the Lampstand]]
 - Prescribed on the tabernacle curtains and veil — Exodus 26:1, 31, [[The Tabernacle Curtains and Frames]]
-- The gold cherubim made by Bezalel — Exodus 37:7–9, *not yet ingested*
+- The gold cherubim made by Bezalel — Exodus 37:7–9, [[The Furnishings Made]]
 - Moses hears the voice *"from between the two cherubim"* — Numbers 7:89, *not yet ingested*
 - God *"who sits above the cherubim"* — 1 Samuel 4:4; Psalm 80:1, *not yet ingested*
 - *"Cherubim of glory overshadowing the mercy seat"* — Hebrews 9:5, *not yet ingested*
 
 ## Appears in
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Two gold figures made of one piece with the mercy seat (37:7–9).
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Figures made on the curtains and inner veil (36:8, 35).
 

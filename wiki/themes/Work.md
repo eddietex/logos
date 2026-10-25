@@ -160,7 +160,19 @@ the workforce or turn skilled construction into one person's unaided achievement
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The furnishing account adds detailed metalwork and perfumery to the enclosure's textile and
+structural work. Acacia is overlaid, rings cast, gold beaten into integrated forms, and oil and
+incense compounded (37:1–29). Bezalel's named credit stands within the shared workforce of
+36:1–2. The work includes making equipment for later service; construction and that service
+are not the same act.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Metalwork, woodwork, and perfumery produce the furnishings.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Skilled making and joining produce the enclosure components.
 

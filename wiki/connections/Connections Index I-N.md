@@ -26,7 +26,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]] | allusion | Genesis 3:7–12, 17–18 · Genesis 4:10–11 · Job 31:33–34 · Job 31:38–40 · Hosea 6:7 · Psalm 32:5 · Proverbs 28:13 |
 | [[In the Beginning - Genesis 1 and John 1]] | allusion | Genesis 1:1–5 · John 1:1–5 |
 | [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] | phrase | Genesis 49:1 · Numbers 24:14 · Deuteronomy 4:30; 31:29 · Isaiah 2:2 · Micah 4:1 · Hosea 3:5 · Daniel 2:28; 10:14 · Acts 2:17 · Hebrews 1:2 |
-| [[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]] | thread | Exodus 30:1–10, 34–38 · Exodus 29:38–42 · Psalm 141:2 · Malachi 1:11 · Luke 1:8–11 · Revelation 5:8 · Revelation 8:3–5 |
+| [[Incense and Prayer - Exodus 30, Psalm 141, Luke 1, and Revelation 8]] | thread | Exodus 30:1–10, 34–38 · Exodus 29:38–42 · Psalm 141:2 · Malachi 1:11 · Luke 1:8–11 · Revelation 5:8 · Revelation 8:3–5 · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]] | thematic-parallel | Job 42:13–15 · Job 1:2, 4 · Numbers 27:1–8 · Numbers 36 · Joshua 17:3–6 |
 | [[Is Anything Too Hard for Yahweh]] | thread | Genesis 18:14 · Jeremiah 32:17, 27 · Zechariah 8:6 · Job 42:2 · Luke 1:37 · Matthew 19:26 |
 | [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
@@ -62,7 +62,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[A Man in Whom Is the Spirit of God]] | thread | Genesis 1:2 · Genesis 41:38 · Exodus 31:1–5 · Numbers 24:2 · Numbers 27:18 · Judges 3:10; 6:34 · 1 Samuel 16:13–14 · Daniel 4:8–9 · Daniel 5:11–14 · Isaiah 11:2; 61:1 · Luke 4:18–21 · Job 32:8; 33:4 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[Bezalel's Workmen and the Surplus]] |
 | [[Melchizedek in Psalm 110 and Hebrews]] | typology | Genesis 14:18–20 · Psalm 110:1–4 · Joshua 10:1 · Psalm 76:2 · 11QMelchizedek · Zechariah 6:11–13 · Hebrews 5:5–10; 7:1–28 |
 | [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]] | quotation and allusion | Exodus 33:18–23 · Exodus 34:5–10 · Numbers 14:17–23 · Jonah 4:1–3 |
-| [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] | thread | Exodus 25:17–22 · Leviticus 16:2, 14–15 · Numbers 7:89 · Hebrews 9:5 · Romans 3:25 · Genesis 6:14 · Exodus 26:31–34 · Exodus 30:6, 10, 36 · Leviticus 16:12–13 |
+| [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] | thread | Exodus 25:17–22 · Leviticus 16:2, 14–15 · Numbers 7:89 · Hebrews 9:5 · Romans 3:25 · Genesis 6:14 · Exodus 26:31–34 · Exodus 30:6, 10, 36 · Leviticus 16:12–13 · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[The Midwives and Rahab - Deceiving the King to Save Life]] | thematic-parallel | Exodus 1:15–21 · Joshua 2:1–7 · Hebrews 11:31 · James 2:25 · Acts 5:29 |
 | [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] | parallel | Genesis 26:12–17 · Exodus 1:7–14 · Genesis 12:10–20 · Genesis 47:27 · Exodus 12:35–36 |
 | [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |

@@ -1954,6 +1954,15 @@ being the glory's arrival; that is narrated separately in 40:34–35.
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The earlier divine instructions for the ark, table, lampstand, incense altar, oil, and incense
+are enacted in the making of Exodus 37. The chapter gives no new divine speech or appearance.
+The mercy seat prepares the meeting place promised in 25:22, without narrating a meeting or
+the indwelling glory. Human workmanship serves the prior promise; it does not compel presence.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2212,6 +2221,8 @@ See [[The Tabernacle Built]].
   sanctuary; his command defines the work.
 
 ## Appears in
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Earlier commands enacted; no new divine speech or appearance in this unit.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
 

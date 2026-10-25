@@ -49,6 +49,9 @@ Moses summons the gifted makers, whose abilities include teaching, and stops the
 after their report of surplus. [[The Tabernacle Built]] (36:8–38) now reports the making of
 curtains, coverings, framework, veil, and screen in close correspondence to chapter 26. The final
 erection, placement of furniture, and indwelling glory still lie ahead.
+[[The Furnishings Made]] (37:1–29) now reports the ark, mercy seat, table, lampstand, incense
+altar, oil, and incense. Bezalel is named for the ark; the correspondence with chapters 25
+and 30 shows the design enacted without narrating installation or service yet.
 
 ## Structure
 
@@ -437,6 +440,15 @@ without reproducing every instruction: folding and overhang are not repeated, an
 pillar overlay is described in terms of capitals and fillets (36:38; compare 26:37). Making
 these components is distinct from the final raising and filling narrated in chapter 40.
 
+### The furnishings made — Exodus 37:1–29
+
+[[The Furnishings Made]] joins the manufacture of the ark, mercy seat, table, and lampstand
+(37:1–24) to the incense altar, oil, and incense (37:25–29). The account explicitly credits
+Bezalel at its opening while retaining the shared workforce as context. It closely follows
+chapters 25 and 30, with use directions and recipes not fully repeated. Gold cherubim are
+made after the calf's condemnation; the narrative's distinction between commissioned figures
+and forbidden worship remains visible. Installation and service are narrated later in chapter 40.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -525,7 +537,7 @@ for unit.
 - [x] [[The Freewill Offering]] — Exodus 35:1–29
 - [x] [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7
 - [x] [[The Tabernacle Built]] — Exodus 36:8–38
-- [ ] The Furnishings Made — Exodus 37:1–29
+- [x] [[The Furnishings Made]] — Exodus 37:1–29
 - [ ] The Altar, the Basin, the Court, and the Inventory — Exodus 38:1–31
 - [ ] The Priestly Garments Made — Exodus 39:1–31
 - [ ] The Work Completed — Exodus 39:32–43

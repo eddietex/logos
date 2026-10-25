@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Altar and incense made; neither burning nor prayer narrated here.
+
 - **Exodus 30:1–10, 34–38** — the gold incense altar *"before the veil … where I will meet with
   you"*, and *"a perpetual incense before Yahweh"* burned morning and evening
   ([[The Incense Altar, the Ransom, and the Holy Oil]])
@@ -45,6 +47,16 @@ the incense *is* the prayer; he places the prayer at the time of the incense.
 the incense is added to the prayers on *"the golden altar which was before the throne"*, and the two
 rise together. The scene then turns: fire from the same altar is thrown on the earth, followed by
 thunder and earthquake (8:5). The prayers are answered in judgment.
+
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:25–28 reports the making of the gold incense altar; 37:29 reports the pure
+incense of sweet spices made by the perfumer's art. It does not narrate burning that incense
+or identify it with prayer. The burning appears separately in 40:27. This adds a concrete
+stage between the rule in chapter 30 and ritual use, while the prayer comparison remains
+in the later texts already analyzed here.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

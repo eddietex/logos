@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; One stand and seven lamps manufactured; use and later imagery distinguished.
+
 - **Exodus 25:31–40** — a lampstand of pure gold with almond-blossom cups and *"its lamps seven"*, to
   *"give light to the space in front of it"* — [[The Ark, the Table, and the Lampstand]]
 - **Exodus 27:20–21** — pure olive oil *"to cause a lamp to burn continually"*, kept by Aaron and his
@@ -66,6 +68,16 @@ and nightly schedule should both be retained without claiming a resolved daytime
 The close repetition in Leviticus 24:1–4 is now compared in
 [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]]. The Spirit interpretation
 belongs to the later prophetic setting, not an explanation of oil offered by Exodus 27.
+
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:17–24 now reports the lampstand's manufacture, including six branches, floral
+cups, seven lamps, and the talent of pure gold with its vessels. It is one stand carrying
+seven lamps, not the seven separate stands described in Revelation. No symbolism is assigned
+to the number or floral forms in chapter 37. The lighting is narrated later in 40:25; the
+manufacture should not be merged with operating the lamp or with a later vision's meaning.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

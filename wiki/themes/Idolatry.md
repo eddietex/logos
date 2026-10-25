@@ -158,7 +158,19 @@ about representational art. The distinction is retained without erasing either c
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+After the golden calf is condemned (32:4–8), gold cherubim are made as prescribed
+(25:18–20; 37:7–9). The tension with the image prohibition of 20:4–5 is real and retained:
+the narrative forbids images and their worship while commissioning these figures. Their
+worship is not narrated, and no general theory of religious art is offered. The contrast
+concerns commanded use; it does not make gold itself either evil or proof of acceptable worship.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Commanded gold cherubim follow the condemned calf; the image tension stays explicit.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Commanded textile cherubim are made after the condemnation of the calf.
 

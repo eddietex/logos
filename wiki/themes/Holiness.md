@@ -181,7 +181,18 @@ the building report should not absorb the later rules and actions concerning hol
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:29 calls the anointing oil holy and the incense pure as they are made. The recipes
+and limits on use belong to 30:22–38; the brief making report does not repeat or revoke them.
+Making the oil does not itself narrate anointing the objects or ordaining priests. The renewed
+instructions to anoint in 40:9–15 remain a later stage.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Holy oil and pure incense made; their preparation is not an anointing rite.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The inner veil and entrance screen preserve distinct boundaries.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Gold becomes commissioned objects, including cherubim, after the calf crisis.
+
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; requested materials and the given pattern.
 - [[The Golden Calf]] — Exodus 32:1–8, 20; gold collected, made into an image, and destroyed.
 - [[Show Me Your Glory]] — Exodus 33:4–6; jewelry removed in mourning.
@@ -38,6 +40,18 @@ his responsibility for the calf; it is not evidence that the earlier narrative h
 
 **Sources:** the cited Exodus passages read in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 The comparison relies on the narrative and English text, without a Hebrew wordplay claim.
+
+### The furnishings made — Exodus 37:1–29
+
+The gold brought for the sanctuary now becomes overlay, vessels, a lampstand, and the
+mercy seat with two cherubim (37:1–28). The cherubim are commissioned in 25:18–20, in
+contrast to the calf condemned in 32:4–8. The tension with 20:4–5's image prohibition
+is retained: the narrative supplies both commands and describes worship of the calf, but
+no worship of these figures. Gold's value and the presence of skilled manufacture cannot
+by themselves distinguish acceptable from condemned work. Chapter 37 still does not trace
+individual pieces of gold back to the calf or to particular donors.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

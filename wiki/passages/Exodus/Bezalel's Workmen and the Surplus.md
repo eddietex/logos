@@ -93,6 +93,8 @@ WEB text, Exodus 35:30–36:7, copied from the stored source.
 
 ## Cross-references
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Bezalel is now named for the ark, within the shared commission of 36:1–2.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The skilled company now makes the curtains, supports, veil, and screen.
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–11; the divine appointment is

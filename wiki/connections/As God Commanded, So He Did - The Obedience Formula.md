@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Dimensions, materials, and forms enacted; use and completion distinguished.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; the command defines the work and its
@@ -113,6 +115,22 @@ does not itself supply the completed-work declaration of 39:32, 42–43.
 
 See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
 2026-10-24; later Exodus references checked in the same source.
+
+### The furnishings made — Exodus 37:1–29
+
+The ark, mercy seat, table, and lampstand of 37:1–24 closely follow 25:10–39; the incense
+altar in 37:25–28 follows 30:1–5. Verse 37:29 reports the oil and incense in one sentence
+rather than repeating the recipes. Detailed manufacture supplies evidence of correspondence,
+without a completed-work declaration in this chapter. Directions about use are not revoked
+when omitted: the testimony, bread, and lamp lighting are narrated in 40:20–25.
+
+The pole descriptions retain a question of sequence. Exodus 37:5 reports inserting them,
+25:15 forbids removal, and 40:20 describes setting them on the ark. The last passage does
+not explicitly narrate a removal. A recap or adjustment is possible, but a precise sequence
+cannot be established from these WEB statements alone. This comparison extends the narrative
+motif without asserting the presence of a particular Hebrew formula in chapter 37.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

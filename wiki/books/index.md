@@ -21,7 +21,7 @@ canonical order below. Edit this list to reprioritize.
 
 ### Law
 - [x] [[Genesis]] — complete (59 / 59 pericopes)
-- [ ] [[Exodus]] — in-progress (48 / 53 pericopes)
+- [ ] [[Exodus]] — in-progress (49 / 53 pericopes)
 - [ ] [[Leviticus]] — not-started
 - [ ] [[Numbers]] — not-started
 - [ ] [[Deuteronomy]] — not-started

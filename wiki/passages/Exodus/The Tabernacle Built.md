@@ -129,6 +129,8 @@ WEB text, Exodus 36:8–38, copied from the stored source.
 
 ## Cross-references
 
+- [[The Furnishings Made]] — Exodus 37:1–29; The furnishing report follows the enclosure and names Bezalel at 37:1.
+
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; the corresponding instructions.
   See [[As God Commanded, So He Did - The Obedience Formula]] and
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Bezalel named for the ark; the shared commission remains context.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
@@ -45,7 +47,7 @@ without limit. This is a literary and practical connection, not a claim that the
 sanctuary with the six days of creation in every detail.
 
 **Sources:** Exodus 28:3; 31:1–18; 35:1–3, 30–35; 36:1–7; 38:22–23 read in `raw/bible/Exodus.md`.
-Exodus 35:1–36:38 is now ingested; chapters 37–38 remain ahead. The later comparisons do not
+Exodus 35:1–37:29 is now ingested; chapter 38 remains ahead. The later comparisons do not
 advance their queue boxes.
 
 ### The offering now brought — Exodus 35:1–29
@@ -80,6 +82,16 @@ ahead of the ingestion queue, and the manufacture here is not the final erection
 
 See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
 2026-10-24; later Exodus references checked in the same source.
+
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:1 now names Bezalel as the ark maker. Singular descriptions carry the report
+through the remaining furnishings and the compounds (37:2–29), but do not undo the shared
+commission of 36:1–2. Oholiab is not named in this chapter; no specific metalwork or perfumery
+is assigned to him. The progression is from equipped and summoned makers to credited work,
+without an inference of unaided manufacture. The summary credit in 38:22–23 remains ahead.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

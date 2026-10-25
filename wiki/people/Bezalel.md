@@ -10,9 +10,10 @@ tags: [person]
 The craftsman of Judah whom Yahweh calls by name and fills with the Spirit of God for wisdom,
 understanding, knowledge, and work in metal, stone, and wood (Exodus 31:2–5). He is the son of
 [[Uri]] and grandson of [[Hur (grandfather of Bezalel)]]. [[Oholiab]] and a company of wise-hearted
-workers share his commission (31:6–11). God addresses [[Moses]] about him; no speech or completed
-work by Bezalel is narrated here. The passage neither explains his training nor limits the duration
-of the gift.
+workers share his commission (31:6–11). God addresses [[Moses]] about him in chapter 31,
+before any completed work is narrated there. Chapter 37 now names him as the ark maker; see
+[[The Furnishings Made]]. The commissioning passage neither explains his training nor limits
+the duration of the gift.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
@@ -35,7 +36,19 @@ personally made every component alone. The next unit names him explicitly for th
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:1 explicitly names him as the ark's maker. The account continues with singular
+making descriptions for the mercy seat, table, lampstand, incense altar, oil, and incense
+(37:2–29). This advances his story from appointment to specified work. The shared commission
+of 36:1–2 remains in force; the attribution does not establish that he made every component
+without assistance.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Timeline / key events
+
+- [[The Furnishings Made]] — Exodus 37:1–29; named as the ark maker; furnishings made.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual leader of the company; not named in this unit.
 
@@ -45,6 +58,8 @@ See [[The Tabernacle Built]].
   and summoned with the wider workforce.
 
 ## Appears in
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Named ark maker; the furniture account continues under his attribution.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual leader of the company; not named in this unit.
 

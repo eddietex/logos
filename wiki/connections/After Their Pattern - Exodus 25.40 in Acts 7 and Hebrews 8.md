@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; The furnishings implement the design without explaining the mountain showing.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
 
 - **Exodus 25:9** — *"According to all that I show you, the pattern of the tabernacle, and the pattern
@@ -100,6 +102,17 @@ Hebrews' interpretation of the pattern as heavenly reality.
 
 See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
 2026-10-24; later Exodus references checked in the same source.
+
+### The furnishings made — Exodus 37:1–29
+
+The furnishings now made in Exodus 37 correspond closely to the specifications in Exodus
+25 and 30. The making report does not repeat the command of 25:40 or explain what form the
+mountain showing took. The material correspondence demonstrates the design's implementation;
+it supplies no independent claim that the makers saw a heavenly sanctuary. The later reading
+in Hebrews therefore remains an interpretation at its own point in the canon, not something
+newly stated by the manufacture report.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

@@ -225,7 +225,18 @@ the two hangings or turn their manufacture into an account of unrestricted appro
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The mercy seat and its cherubim are made in 37:6–9 for the meeting promised to Moses in
+25:22. The incense altar is made in 37:25–28 for the location prescribed in 30:6. This
+prepares an ordered place of encounter, but no divine speech to Moses, priestly entry, or
+intercession occurs in the unit. The objects do not themselves constitute a narrated meeting.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; The promised meeting place prepared; no encounter or intercession narrated.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The inner boundary is made; no entry or intercession occurs here.
 

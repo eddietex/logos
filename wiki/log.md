@@ -14804,3 +14804,62 @@ was introduced. Existing raw text was not changed, and no later book was fetched
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. No operational blocker remains.
+
+## [2026-10-24] ingest | Exodus 37.1-29 — The Furnishings Made
+
+Ingested [[The Furnishings Made]] in one unattended invocation, retaining the planned boundary.
+Exodus is now **49 / 53** pericopes ingested and remains in progress. Bezalel is named for the
+ark, and the making continues through the mercy seat, table, lampstand, incense altar, holy
+anointing oil, and pure incense. Discussion is recorded in the passage's summary and notes.
+
+### Decisions and tensions
+
+- Retained 37:1–29 as one furniture-and-compounds unit; the next unit begins with the altar
+  of burnt offering. Only this pericope's queue box was checked.
+- Distinguished Bezalel's explicit credit from a claim of solitary manufacture. Oholiab is
+  contextual, with no particular object assigned; Moses and God receive contextual backlinks
+  without invented actions or speech. Cherubim are represented figures. The perfumer's art
+  does not introduce a separately named worker needing a person page.
+- Kept the location under [[Horeb]] by narrative continuity. No new person, place, theme, or
+  connection page was needed; ten existing connections received the manufacture stage.
+- Compared the furnishings against Exodus 25 and 30. Retained the omissions of use directions
+  and recipes without treating them as cancellations. Installation, testimony placement,
+  bread, lamp lighting, incense burning, anointing, and indwelling glory remain distinct from
+  the manufacture reported here.
+- Explicitly recorded the pole-sequence question: 37:5 reports insertion, 25:15 forbids removal,
+  and 40:20 describes setting the poles on the ark without expressly reporting their removal.
+  Recapitulation or arrangement is possible; no precise handling sequence is asserted.
+- Recorded the differing WEB terms and order for table vessels at 25:29 and 37:16 without
+  asserting different Hebrew vocabulary or a changed inventory. No source-language argument
+  was needed. The talent of gold in 37:24 belongs to the lampstand with its vessels, not to
+  all the chapter's gold.
+- Preserved the tension between the image prohibition, condemned calf, and commissioned gold
+  cherubim. No worship of these figures, full visual reconstruction, or general theory of
+  religious art is supplied. Gold is not traced from individual donors or the calf.
+- Revised five earlier passages with reciprocal references and retired affected stale
+  un-ingested notices. No boundary revision, title collision, category-range change, schema
+  change, or harness compatibility change was needed.
+
+### Sources and verification
+
+All twenty-nine quoted WEB verses were copied mechanically from `raw/bible/Exodus.md` and
+verified for exact equality. New comparisons use stored Exodus text, especially chapters
+20, 25, 30, 32, 35–37, and 40. Later readings remain in existing connections with their
+source notes. No new quotation from an unstored book or assertion about exact Greek/Hebrew
+wording was introduced. Existing raw text was not changed, and no later book was fetched.
+
+### Pages created or revised
+
+- **Created (1):** one passage, [[The Furnishings Made]].
+- **Existing content pages revised (34):** Exodus; five earlier passages; five people; one
+  place; twelve themes; ten connections.
+- **Bookkeeping revised (13):** top-level and book indexes; all three people subindexes;
+  places and themes indexes; all five connections subindexes; this log.
+- **Totals by frontmatter type:** 140 passages, 176 people, 90 places, 82 themes, 376 connections;
+  3 books started, 2 complete. Category pages each have exactly one index row; subindex ranges
+  and sorting pass. The passage title is unique. All listed people, place, and themes link back.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. No operational blocker remains;
+the interpretive limits described above remain explicitly unresolved in the relevant pages.

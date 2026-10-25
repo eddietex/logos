@@ -71,7 +71,18 @@ sacrificial rite is performed. God does not declare that atonement has been achi
 judgment (32:33–35). The uncertain attempt must not be rewritten as a completed exchange of Moses’
 life for Israel’s. See [[The Golden Calf]].
 
+### The furnishings made — Exodus 37:1–29
+
+The mercy seat with its cherubim is made in 37:6–9, and the incense altar with its horns in
+37:25–28. The latter is the altar for which 30:10 prescribes annual atonement. Chapter 37
+reports manufacture, not a blood rite, forgiveness, or a new theory of atonement. The later
+ritual and canonical readings of the mercy seat remain distinct from its making.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Mercy seat and incense-altar horns made; no atonement rite performed.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses says that perhaps he will make atonement for the people’s sin (32:30).
 

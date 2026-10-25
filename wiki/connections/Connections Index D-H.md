@@ -72,7 +72,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Exodus 12:14 · Psalm 105:42 · Luke 1:72–73 |
 | [[God Sent Me Before You - The Verb That Replaces the Sale]] | theological thread | Genesis 37:28, 36 · Genesis 45:4–8 · Genesis 50:19–20 · Psalm 105:17 · Acts 7:9–10 · Acts 2:23 · Romans 8:28 |
 | [[The God Who Has Fed Me - The First Time God Is a Shepherd]] | thread | Genesis 31:38–41 · Genesis 48:15 · Genesis 49:24 · Exodus 16:18, 32 · Psalm 23:1 · Psalm 78:52 · Psalm 80:1 · Isaiah 40:11 · Ezekiel 34 · John 10:11 · Hebrews 13:20 · 1 Peter 5:4 · Revelation 7:17 |
-| [[Gold for the Calf and Gold for the Sanctuary]] | contrast | Exodus 25:1–9 · Exodus 32:1–8, 20 · Exodus 33:4–6 · Exodus 35:1–29 |
+| [[Gold for the Calf and Gold for the Sanctuary]] | contrast | Exodus 25:1–9 · Exodus 32:1–8, 20 · Exodus 33:4–6 · Exodus 35:1–29 · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] | parallel | Exodus 32:1–35 · Deuteronomy 9:8–21 · Psalm 106:19–23 · Acts 7:39–43 |
 | [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |

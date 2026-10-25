@@ -227,7 +227,20 @@ are preserved without inferring disobedience or declaring an exact verbal match.
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The furniture and compounds of Exodus 37 correspond to the specifications in 25:10–40 and
+30:1–10, 22–38. Obedience is shown through dimensions, materials, and forms rather than a
+new completed-work declaration. Omitted directions about use are not cancellations. The pole
+sequence remains qualified: 37:5 reports insertion, 25:15 forbids removal, and 40:20 describes
+setting the poles on the ark. The later wording does not expressly report a removal; a precise
+reconstruction should not be supplied as fact.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Specifications enacted; omitted use directions and the pole-sequence question retained.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The making closely follows the command, with differences of description preserved.
 

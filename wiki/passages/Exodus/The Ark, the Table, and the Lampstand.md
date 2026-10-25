@@ -135,7 +135,8 @@ place to speak from.**
   from between the two cherubim"* (25:22). The bread is set *"before me"* (25:30).
 - [[Moses]] — addressed throughout in the singular (*"you shall make"*), and the one *"shown … on the
   mountain"* (25:40). He is also the one God will meet at the ark (25:22). He does not make the objects
-  himself; Bezalel does that at 37:1–24 *(not yet ingested)*.
+  himself; Bezalel is named at the opening of 37:1–24, now ingested in
+  [[The Furnishings Made]]. The shared workforce remains its context.
 - [[Cherubim]] — two figures of hammered gold over the mercy seat (25:18–20). They are the only figures
   in the furniture, and this is their first appearance since they guarded Eden (Genesis 3:24). **The
   page is created with this pericope.**
@@ -166,6 +167,8 @@ place to speak from.**
 
 ## Cross-references
 
+- [[The Furnishings Made]] — Exodus 37:1–29; The commanded ark, mercy seat, table, and lampstand are made in 37:1–24.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The making account gives the enclosure before the furniture.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
@@ -173,11 +176,11 @@ place to speak from.**
 - Exodus 25:1–9 — the offering, and *"the pattern"* first named: [[The Offering for the Sanctuary]].
 - Exodus 16:33–34 — the manna laid up *"before the Testimony"* before there is an ark:
   [[Manna and Quail]].
-- Exodus 24:12; 31:18; 32:15–16 — the tablets, *"the two tablets of the testimony"* *(31:18 onward not
-  yet ingested)*: [[The Blood of the Covenant]].
+- Exodus 24:12; 31:18; 32:15–16 — the tablets: [[The Blood of the Covenant]],
+  [[Bezalel, Oholiab, and the Sabbath Sign]], and [[The Golden Calf]].
 - Exodus 26:33–35 — the veil and the furniture placed: [[The Tabernacle Curtains and Frames]].
-- Exodus 27:20–21; 37:1–24; 40:20–24 — the lamp oil, the furniture made, and the furniture
-  placed *(not yet ingested)*.
+- Exodus 27:20–21 — lamp oil: [[The Altar and the Court]]; 37:1–24 — furniture made:
+  [[The Furnishings Made]]; 40:20–24 — furniture placed (local WEB, not yet ingested).
 - Genesis 3:24 — the cherubim at the east of Eden: [[The Fall]], [[Cherubim]].
 - Genesis 6:14 — Noah's ark sealed *"inside and outside"*:
   [[The Two Arks - Noah's Ship and Moses' Basket]].
@@ -461,3 +464,15 @@ listed publicly among the things the wise-hearted must make or supply (35:12–1
 bring materials, but the making of these furnishings is not completed in this unit.
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.
+
+### The furnishings made — Exodus 37:1–29
+
+The making closely reproduces the ark, mercy seat, table, and lampstand specifications
+(37:1–24). The insertion of the testimony, bread placement, and lamp lighting belong to
+40:20–25. The pole sequence requires care: 37:5 reports insertion, 25:15 forbids removal,
+and 40:20 describes setting the poles on the ark without expressly describing a removal.
+A recap or adjustment is possible, but the WEB does not establish a precise reconstruction.
+The vessel terms and order also differ in the WEB at 25:29 and 37:16; this is not a verified
+claim about different Hebrew vocabulary or a changed inventory. See [[The Furnishings Made]].
+
+Comparison checked in local raw WEB, 2026-10-24.

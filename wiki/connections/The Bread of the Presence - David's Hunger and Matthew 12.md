@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; The table is made before bread is set out.
+
 - **Exodus 25:30** — *"You shall set bread of the presence on the table before me always"* —
   [[The Ark, the Table, and the Lampstand]]
 - **Leviticus 24:5–9** — *"twelve cakes"* in *"two rows, six on a row, on the pure gold table before
@@ -55,6 +57,16 @@ Abiathar is Ahimelech's son, who escapes the massacre at Nob in the next chapter
 fetched in this pass)*. Readers explain the difference in several ways: *in the passage about
 Abiathar*, a loose dating by the better-known name, or an error. Matthew and Luke do not have the
 phrase. The wiki records the difficulty and does not resolve it.
+
+### The furnishings made — Exodus 37:1–29
+
+The table and its gold vessels are made in Exodus 37:10–16, following 25:23–29. The
+making account does not repeat 25:30's bread direction or report placing bread on the table.
+That action is narrated in 40:23. The furnishing is therefore prepared for the bread service
+before that service begins. This stage adds no rule about the number, replacement, or eating
+of loaves, and does not settle the later dispute about authorized eating.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

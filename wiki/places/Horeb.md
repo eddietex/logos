@@ -192,7 +192,18 @@ Sinai-camp setting. No place name or departure occurs in this unit; the setting 
 assembly after Moses' descent (34:29; 35:1) and the camp proclamation (36:6). The final erection
 and filling belong to chapter 40. See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The furnishing work continues in the Sinai-camp setting established by Moses' descent,
+assembly, and the proclamation of 34:29–36:7. Chapter 37 names no new location or departure.
+The ark, table, lampstand, and incense altar are made, but their installation in the raised
+tabernacle belongs to chapter 40. A sanctuary object is not a newly named geographical place.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Appears in
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Continuing camp setting inferred; no new place named.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The making occurs in the Sinai camp by narrative continuity.
 

@@ -127,7 +127,18 @@ nor an individual allocation of tasks among the named leaders and wider company.
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The ability attributed to God in 35:30–36:2 is now visible in measured woodwork, cast rings,
+beaten gold, integrated branches and ornament, and the perfumer's craft (37:1–29). This is
+practical skill within the prior commission. Chapter 37 gives no new account of inspiration,
+training, or teaching, and does not assign all tasks exclusively to one worker.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; The previously gifted skill becomes measured objects and compounded materials.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The wise-hearted company makes its competence visible in construction.
 

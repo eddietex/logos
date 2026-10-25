@@ -271,7 +271,18 @@ continued instruction after renewal. See
 
 See [[The Shining Face of Moses]].
 
+### The furnishings made — Exodus 37:1–29
+
+The ark prescribed to receive the testimony in 25:16, 21 is made in 37:1–5. This is the
+construction of its container after covenant renewal, not another covenant ceremony. The
+chapter does not report placing the testimony inside; that act is narrated in 40:20. The
+renewal in chapter 34 and the making in chapter 37 are related without becoming one event.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; The testimony’s container made after renewal; placement is still ahead.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Replacement tablets and renewed commands return to the assembly.
 

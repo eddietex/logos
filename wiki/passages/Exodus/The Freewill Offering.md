@@ -128,6 +128,8 @@ WEB text, Exodus 35:1–29, copied from the stored source.
 
 ## Cross-references
 
+- [[The Furnishings Made]] — Exodus 37:1–29; The supplied gold, wood, spice, and oil become furnishings and compounds.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The supplied textiles and other materials become the enclosure components.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The named makers are now announced and

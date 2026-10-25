@@ -34,6 +34,15 @@ division of labor between the two named makers.
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The furnishing account names Bezalel at 37:1 and continues with singular descriptions.
+Oholiab remains part of the workforce commissioned in 36:1–2, but is not named in chapter 37.
+Neither a particular furnishing nor the perfumer's work is assigned to him. Shared commission
+and individual narrative credit must both be retained.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
@@ -43,6 +52,8 @@ See [[The Tabernacle Built]].
   skilled work; summoned with the company.
 
 ## Appears in
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Contextual colleague; no particular furnishing assigned to him here.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
 

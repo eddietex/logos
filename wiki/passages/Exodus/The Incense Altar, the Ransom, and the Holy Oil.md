@@ -211,6 +211,8 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
 
 ## Cross-references
 
+- [[The Furnishings Made]] — Exodus 37:1–29; The incense altar, oil, and incense are made in 37:25–29; use remains a later stage.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - Exodus 25:10–22 — [[The Ark, the Table, and the Lampstand]]: the ark and mercy seat before which
@@ -231,9 +233,9 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
   [[Lift Up Your Head - One Idiom and Two Verdicts]] for the census idiom of 30:12.
 - Exodus 30:26–30 — [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]]: Leviticus
   8:10–12 performs the anointing of the tabernacle, the altar, the basin, and Aaron.
-- Exodus 37:25–29; 38:8, 25–28; 40:9–15, 26–27, 30–32 — the altar, oil, incense, and basin made;
-  the census silver used; the anointing commanded again; the incense burned and the washing done
-  (local WEB; not yet ingested).
+- Exodus 37:25–29 — altar, oil, and incense made: [[The Furnishings Made]].
+- Exodus 38:8, 25–28; 40:9–15, 26–27, 30–32 — the basin made, census silver used, anointing
+  commanded again, incense burned, and washing done (local WEB; not yet ingested).
 - Psalm 133:2 — the *"precious oil on the head, that ran down on the beard, even Aaron's beard"*
   (verified WEB; not ingested).
 - Leviticus 4:3 — *"the anointed priest"* (verified WEB; not ingested).
@@ -372,3 +374,13 @@ The incense altar, anointing oil, incense, basin, and base enter the public work
 from the fixed half-shekel requirement of 30:11–16, although both support sanctuary service.
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.
+
+### The furnishings made — Exodus 37:25–29
+
+The incense altar's dimensions, integral horns, gold overlay, rings, and poles are made as
+specified in 30:1–5. The oil and incense recipes of 30:22–38 become the concise making report
+of 37:29, without repeating their ingredients or prohibitions. No anointing or incense burning
+is narrated here; those are distinct from manufacture. The basin and the use of census silver
+remain in chapter 38's later unit. See [[The Furnishings Made]].
+
+Comparison checked in local raw WEB, 2026-10-24.

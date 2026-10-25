@@ -200,7 +200,18 @@ not identify which donor supplied which component or give the disposal of the ea
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The contributed material becomes gold overlay, solid beaten work, rings, vessels, and other
+furnishings. Exodus 37:24 assigns a talent of pure gold to the lampstand with its vessels,
+not to all the chapter's gold. Neither the provenance of individual pieces nor the disposition
+of the surplus is given. Costly material serves the commissioned work without purchasing pardon.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; A talent specified for the lampstand and its vessels, not all the gold.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Supplied materials become functional parts, without a new collection.
 

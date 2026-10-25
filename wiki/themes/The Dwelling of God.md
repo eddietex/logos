@@ -151,7 +151,19 @@ The enclosure's manufacture must not be treated as the whole dwelling promise fu
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+After the enclosure, Exodus 37 reports the furnishings and the oil and incense for the
+promised dwelling. The ark and mercy seat prepare the meeting place of 25:22. Their making
+is distinct from placing the testimony, installing the furniture, and beginning its use
+(40:20–27), and from the glory's arrival (40:34–35). A manufactured sanctuary is not yet
+an account of God filling it.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Furniture made; installation, service, and filling remain distinct.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure is made; final erection and indwelling glory remain ahead.
 

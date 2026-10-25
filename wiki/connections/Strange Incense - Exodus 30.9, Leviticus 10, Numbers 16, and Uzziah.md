@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Commissioned compounds made; manufacture is distinct from unauthorized use.
+
 - **Exodus 30:9, 33, 37–38** — *"You shall offer no strange incense on it"*; the oil not to be put
   *"on a stranger"*; the incense not to be made privately, on pain of being *"cut off from his
   people"* ([[The Incense Altar, the Ransom, and the Holy Oil]])
@@ -47,6 +49,16 @@ line (30:7, 33). The three later stories each break one of these lines, or are r
 **Fire answers in two of the three.** In Leviticus 10 and Numbers 16, *"fire came out"* from Yahweh
 and consumed those offering. Uzziah is struck with leprosy instead. In each case the judgment falls
 at the altar or the censer itself.
+
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:29 reports making the holy anointing oil and pure incense of sweet spices.
+The brief report carries out the commission without repeating the recipes or exclusions
+of 30:22–38. It describes manufacture for the sanctuary, not private copying, unauthorized
+anointing, or an offering by a new class of officiants. The perfumer's skill should not be
+confused with authorization to perform every later rite.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

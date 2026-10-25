@@ -205,7 +205,19 @@ See [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] and
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The furnishings made — Exodus 37:1–29
+
+The table's gold vessels for pouring (37:16), the incense altar (37:25–28), and the incense
+(37:29) prepare for prescribed service. No bread is set out or incense burned here; those acts
+appear in 40:23, 27. The gold incense altar remains distinct from the altar of burnt offering
+whose making starts at 38:1. The report does not transfer the offerings prohibited in 30:9
+to the incense altar.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Table vessels, incense altar, and incense prepare for later service.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Freewill contributions cease when the
   work is fully supplied.

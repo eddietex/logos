@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Mercy seat and cherubim made; ritual use remains distinct.
+
 - **Exodus 25:17–22** — *"You shall make a mercy seat of pure gold … There I will meet with you, and I
   will tell you from above the mercy seat, from between the two cherubim"* —
   [[The Ark, the Table, and the Lampstand]]
@@ -70,6 +72,17 @@ The wiki records both.
 **Exodus 26 locates the meeting place behind the veil.** The ark and mercy seat are placed in
 the most holy space (26:33–34). This supplies the architectural setting for Leviticus 16:2's
 warning about entry, without yet giving the atonement ritual. See [[The Tabernacle Curtains and Frames]] and [[The Veil - Separation in Exodus and Access in Hebrews]].
+
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37:6–9 reports the gold mercy seat and its two integral cherubim actually made,
+following 25:17–20. It supplies their dimensions, wings, and orientation, not a blood rite
+or a new promise of speech. The incense altar's horns are also made (37:25), for the altar
+whose annual atonement was prescribed in 30:10. The manufacture belongs between instruction
+and use; it does not by itself resolve the word history or the interpretations of Romans
+already distinguished above. No new Hebrew or Greek wording claim is inferred from it.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 

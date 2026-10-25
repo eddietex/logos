@@ -545,6 +545,15 @@ stage, not an act to attribute to him during the making of these components.
 
 See [[The Tabernacle Built]].
 
+### The furnishings made — Exodus 37:1–29
+
+The design received by Moses in chapters 25 and 30 becomes manufactured furnishings in
+chapter 37. He is not named or given a new action in this unit. His later placement of the
+ark, table, lampstand, and incense altar, and the beginning of their use, belong to 40:20–27.
+The account distinguishes the transmitter of the design from the makers and from installation.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -671,6 +680,8 @@ See [[The Tabernacle Built]].
   contributions, and stops further giving.
 
 ## Appears in
+
+- [[The Furnishings Made]] — Exodus 37:1–29; Contextual recipient of the design; later installer, not a named actor here.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
 

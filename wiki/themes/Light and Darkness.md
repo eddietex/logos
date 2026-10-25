@@ -140,7 +140,18 @@ in 35:3 is stated separately, without an explicit treatment here of ongoing sanc
 
 See [[The Freewill Offering]].
 
+### The furnishings made — Exodus 37:1–29
+
+The lampstand and its seven lamps are actually made in 37:17–24. It is one stand with six
+branches and seven lamps, not seven separate stands. The almond-blossom forms are described
+without a symbolic explanation. Their lighting is narrated later in 40:25; the manufacture
+here should not be treated as an already operating lamp service.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
 ## Key passages
+
+- [[The Furnishings Made]] — Exodus 37:1–29; One lampstand with seven lamps made; lighting comes later.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Oil and lamp equipment are specified, and the rulers bring oil.
 

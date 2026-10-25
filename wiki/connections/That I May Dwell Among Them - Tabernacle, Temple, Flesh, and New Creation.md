@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Furnishings Made]] — Exodus 37:1–29; Furnishings prepare the dwelling before installation and filling.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
@@ -110,6 +112,17 @@ not a mechanism by which human craftsmanship compels God's presence.
 
 See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
 2026-10-24; later Exodus references checked in the same source.
+
+### The furnishings made — Exodus 37:1–29
+
+Exodus 37 equips the enclosure with the ark and mercy seat, table, lampstand, incense
+altar, oil, and incense. The objects serve the prior dwelling and meeting promises
+(25:8, 22). Making them is not itself a narrated meeting or arrival of glory. Chapter 40
+separately gives installation and service (40:20–27) and the filling (40:34–35). The
+narrative after the calf thus continues toward the promised dwelling without representing
+craftsmanship as a way to compel God's presence.
+
+See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
 ## Significance
 
