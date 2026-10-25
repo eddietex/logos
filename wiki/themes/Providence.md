@@ -148,6 +148,18 @@ to fill it. Judges 2:1–3 later gives a different reason for peoples who remain
 wiki records both and does not merge them. See [[The Angel Sent Ahead]] and
 [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The closing movement rule is concrete: Israel travels when the cloud is taken up and
+waits when it is not (40:36–37). Guidance includes remaining in place, rather than only
+choosing a road. Verse 38 widens the horizon to all their journeys and the sight of all
+Israel. This is the narrative’s public sign for this people, not a general promise that
+every personal decision will receive a visible signal.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
+See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
+
 ## Key passages
 
 - [[The Wager in Heaven and the Four Messengers]] — ***"Yahweh gave, and Yahweh has taken away"***
@@ -272,6 +284,8 @@ wiki records both and does not merge them. See [[The Angel Sent Ahead]] and
   to Yahweh's commandment"* (*ʿal-pî YHWH*); the provision comes from the least likely source, a rock, and from
   the place God says he will stand. Psalm 78:15–20 and 114:8 sing it as power over nature
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; a conquest paced for the land's sake.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The cloud determines both departure and waiting throughout Israel’s journeys.
 
 ## Related themes
 

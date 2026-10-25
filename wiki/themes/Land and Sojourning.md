@@ -138,6 +138,18 @@ Worship and landholding are joined by a promise of security. The text states a f
 not a report that the people possess the land or that no later invasion will occur under any
 circumstances. See [[The Covenant Renewed]].
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The tabernacle’s erection is dated to the first day of the first month in the second
+year (40:17), and the ending looks across Israel’s journeys (40:36–38). The book reaches
+divine indwelling before it reaches settlement in the promised land. Its closing verses
+state the rule for departure and waiting rather than narrating a particular departure
+from Sinai or arrival at a new destination.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
+See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Promised removal and enlarged borders; security during
@@ -409,6 +421,8 @@ circumstances. See [[The Covenant Renewed]].
   anticipates life in the given land
 - [[Laws of Holiness and Compassion]] — Exodus 22:21; the alien protected because Israel was an alien in Egypt
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the prepared place, its border, and its gradual inheritance.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Exodus closes with a dwelling for God and continuing journeys for Israel.
 
 ## Related themes
 

@@ -101,7 +101,7 @@ of the tabernacle remain the separate subject of chapter 40.
 - [[Creation as the Ground of the Sabbath Command]] — the construction’s rest frame, not a day count.
 - [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] — approved work
   precedes the filling with glory.
-- Exodus 40:1–38 — instructions, erection, and indwelling (checked in stored WEB; not yet ingested).
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; instructions, erection, and indwelling (stored WEB).
 
 ## Notes
 

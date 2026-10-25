@@ -219,6 +219,16 @@ has already taken place.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The tent, furniture, altar, and basin are to be anointed and sanctified, and Aaron and
+his sons consecrated for ministry (40:9–15). The veil screens the ark (40:21), and washing
+precedes approach (40:30–32). Divine indwelling does not remove these boundaries: the
+filling itself prevents Moses’ entry (40:35). This is no statement that the whole people
+may now enter every space, or that the obedient mediator has been rejected.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Court and basin prepare bounded, washed approach without an ordination rite.
@@ -279,6 +289,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Holy garments and the inscribed holy crown are made.
 
 - [[The Work Completed]] — Exodus 39:32–43; Holy garments and anointing oil are present; consecration is not enacted here.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Anointing is commanded; the installed veil and filling preserve limits on approach.
 
 ## Related themes
 

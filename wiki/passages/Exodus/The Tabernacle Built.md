@@ -145,8 +145,8 @@ WEB text, Exodus 36:8–38, copied from the stored source.
 - [[The Veil - Separation in Exodus and Access in Hebrews]] — the inner veil of 26:31–35 is
   made in 36:35–36. Its later canonical interpretation remains distinct from this making report.
 - [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]] — Exodus
-  25:8–9 supplies the purpose; 40:18–35 supplies erection and filling, read in local WEB but
-  not yet ingested. Those events are not advanced into chapter 36.
+  25:8–9 supplies the purpose; 40:18–35 supplies erection and filling, now ingested in
+  [[The Tabernacle Raised and the Glory]]. Those events are not advanced into chapter 36.
 
 - [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
 

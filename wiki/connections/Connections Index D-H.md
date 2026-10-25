@@ -45,7 +45,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
 | [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[The Golden Calf]] (Exodus 32:15–19) · [[The Covenant Renewed]] (Exodus 34:1–28) |
-| [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] | literary-parallel | Genesis 1:31–2:3 · [[The Work Completed]] (Exodus 39:32–43) · Exodus 35:1–3; 40:17–35 |
+| [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] | literary-parallel | Genesis 1:31–2:3 · [[The Work Completed]] (Exodus 39:32–43) · Exodus 35:1–3; 40:17–35 · [[The Tabernacle Raised and the Glory]] (Exodus 40:1–38) |
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 |

@@ -23,7 +23,7 @@ tags: [connection]
 - **Exodus 29:45–46** — *"I will dwell among the children of Israel, and will be their God. … who
   brought them out of the land of Egypt, that I might dwell among them"* — [[The Ordination of the Priests]]
 - **Exodus 40:34–35** — *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the
-  tabernacle"* *(not yet ingested)*
+  tabernacle"* — [[The Tabernacle Raised and the Glory]]
 - **Leviticus 26:11–12** — *"I will set my tent among you, and my soul won't abhor you. I will walk
   among you, and will be your God, and you will be my people."* *(not yet ingested)*
 - **1 Kings 8:10–11, 27** — *"the cloud filled Yahweh's house"*; *"will God in very deed dwell on the
@@ -41,6 +41,8 @@ tags: [connection]
 - **Exodus 27:9–21** — [[The Altar and the Court]]; the altar, court, or their continuing service.
 
 - [[The Work Completed]] — Exodus 39:32–43; Completed and approved manufacture precedes indwelling glory.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; filling, restricted entry, and mobile presence.
 
 ## Analysis
 
@@ -150,14 +152,27 @@ inspection itself and no claim is made that workmanship compels God to inhabit t
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40
+
+The promised dwelling is now filled: the cloud covers the tent and glory fills it
+(40:34–35). Moses’ inability to enter preserves divine initiative within the outcome of
+his obedient work. Verses 36–38 also qualify any simple contrast between residence and
+accompaniment: the dwelling’s cloud governs travel and waiting throughout the journeys.
+This is the conclusion after the threatened absence in 33:3, not an indwelling detached
+from intercession and renewal. The temple and New Testament comparisons above remain
+later canonical developments with their own documented sources.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25.
+
 ## Significance
 
 - **It names what the exodus was for.** Exodus 29:45–46 says it outright, and 25:8 is the first
   instruction that serves it. The covenant formula and the dwelling formula are joined in Exodus,
   Leviticus, and Revelation. See [[I Will Take You as My People - The Covenant Formula]].
-- **It distinguishes residence from visitation.** The presence promised to travellers in
-  [[I Will Be With You - The Promise of Presence]] goes with a person; the dwelling stays among a
-  people.
+- **Residence and accompaniment meet.** The presence promised to travellers in
+  [[I Will Be With You - The Promise of Presence]] becomes a dwelling among the people, whose
+  cloud also governs their journeys (Exodus 40:36–38).
 - **It gives the New Testament its vocabulary for the incarnation and the end.** John 1:14 and
   Revelation 21:3 both use *skēnē* words for God living with people.
 

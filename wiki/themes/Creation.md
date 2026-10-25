@@ -109,6 +109,16 @@ See [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Genesis 2:1–3 and Exodus 40:33 both speak of finished work in the stored WEB. Exodus
+39:32–43 had already joined completion, seeing, and blessing, and 40:33 now completes
+erection before the filling with glory. This supports a literary comparison with ordered
+creation, but Exodus 40 does not assign sanctuary parts to creation days or report a
+Sabbath at the erection. The first-month date in 40:17 is not a creation day count.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; creation remembered in the covenant
@@ -244,6 +254,8 @@ texts, 2026-10-25.
   the image prohibition
 
 - [[The Work Completed]] — Exodus 39:32–43; Completion, seeing, and blessing invite comparison with Genesis 1:31–2:3.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Finished work continues the creation comparison without an explicit cosmic allegory.
 
 ## Related themes
 

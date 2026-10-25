@@ -90,6 +90,17 @@ Moses’ inspection and blessing apply to the completed work and its makers (39:
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Aaron’s sons are to be washed, clothed, and anointed for priestly service (40:12–15),
+and they wash hands and feet with Moses and Aaron at the basin (40:31–32). Ithamar
+is included through the explicit family list in Exodus 28:1, not named individually in
+chapter 40. The general obedience statement in 40:16 should be retained, while the
+detailed erection account should not be expanded into an individually narrated ordination
+for each son. No separate act or distinction among the four brothers is supplied here.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
@@ -102,6 +113,8 @@ texts, 2026-10-25.
 - Exodus 28:1–43 — Named individually for the priest's office; sons' garments prescribed. See [[The Priestly Garments]].
 - Exodus 29:1–46 — Included among Aaron's sons in the ordination rite; clothed, sprinkled with blood and oil. See [[The Ordination of the Priests]].
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
+
+- Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
 
 ## Appears in
 
@@ -121,6 +134,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Included among Aaron’s sons for whom garments are made; not individually named here.
 
 - [[The Work Completed]] — Exodus 39:32–43; Included among Aaron’s sons whose garments are delivered; not individually named.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Included collectively among Aaron’s sons commanded to be consecrated and reported washing.
 
 ## Related people
 

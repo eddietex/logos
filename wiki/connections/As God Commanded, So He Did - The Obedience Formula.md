@@ -30,7 +30,7 @@ tags: [connection]
 - **Exodus 25:9** — *"According to all that I show you, the pattern of the tabernacle, and the pattern of
   all of its furniture, even so you shall make it."* The formula's words in the instruction, before the
   building — [[The Offering for the Sanctuary]]
-- **Exodus 40:16** — Moses’ obedience in the erection account (checked in stored WEB; not yet ingested).
+- **Exodus 40:16** — Moses’ obedience in the erection account (checked in stored WEB; [[The Tabernacle Raised and the Glory]]).
 
 - **Exodus 29:1–37; Leviticus 8:4, 9, 13, 17, 21, 29, 36** — the ordination commanded, then performed
   *"as Yahweh commanded Moses"* (verified WEB, not yet ingested) — [[The Ordination of the Priests]],
@@ -42,6 +42,8 @@ tags: [connection]
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Seven WEB notices of obedience, before the final completed-work report.
 
 - [[The Work Completed]] — Exodus 39:32–43; Collective obedience affirmed and verified by Moses.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:16–33; general obedience and seven detailed WEB notices.
 
 ## Analysis
 
@@ -74,8 +76,8 @@ curtains, coverings, boards, bars, veil, and screen; 36:8–38 reports their mak
 The repeated dimensions and materials make the correspondence visible. This is not a verbatim
 repetition: 36 does not restate the folding and overhang directions of 26:9, 12–13. The erection
 and placement commanded in 26:30, 33–35 are reported in 40:18–28. Both accounts were read in
-local WEB raw text; 36:8–38 is now ingested in [[The Tabernacle Built]], while 40:18–28 remains
-ahead. See [[The Tabernacle Curtains and Frames]]. This extends the obedience motif without
+local WEB raw text; 36:8–38 is now ingested in [[The Tabernacle Built]], and 40:18–28 is now in
+[[The Tabernacle Raised and the Glory]]. See [[The Tabernacle Curtains and Frames]]. This extends the obedience motif without
 claiming the full formula occurs in chapter 26.
 
 **Altar and court also move from instruction to making and placement.** Exodus 27:1–19
@@ -84,7 +86,7 @@ prescribes them; 38:1–7, 9–20 reports their making; 40:6–8 commands their 
 basin (38:8) between the altar and court accounts, so it is not a verbatim duplicate of
 chapter 27. Chapter 27's lamp rule (27:20–21) concerns continued service, not merely a
 construction completed once. See [[The Altar and the Court]]. Chapter 38 is now ingested in
-[[The Altar, the Basin, the Court, and the Inventory]]; chapter 40 remains un-ingested.
+[[The Altar, the Basin, the Court, and the Inventory]]; chapter 40 is now ingested in [[The Tabernacle Raised and the Glory]].
 Both were compared from the local WEB text.
 
 ### The offering now brought — Exodus 35:1–29
@@ -165,10 +167,23 @@ from the narrator’s completion statement to a repeated collective attribution 
 inspection. The inventory between them gives concrete content to the claim: enclosure, furniture,
 supplies, court, and priestly garments. Israel’s collective credit does not deny the named makers
 of 38:22–23. This extension compares the WEB narrative without making a new claim about exact
-Hebrew formulae. Chapter 40:16 remains ahead in the queue.
+Hebrew formulae. Chapter 40:16 is now ingested in [[The Tabernacle Raised and the Glory]].
 
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
+
+### The tabernacle raised and filled — Exodus 40
+
+Exodus 40:16 gives the general obedience statement. The detailed erection report
+contains seven instances of the stored WEB wording “as Yahweh commanded Moses”
+(40:19, 21, 23, 25, 27, 29, 32). The clauses accompany covering, screening the ark,
+bread, lamps, incense, offerings, and washing. Verse 33 then reports finished work.
+This count concerns the verified English wording and does not independently verify
+the Hebrew formula analyzed earlier. The summary in 40:16 is broader than the selected
+acts retold in 40:17–33; omitted ritual details should not become a denial of obedience.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25.
 
 ## Significance
 

@@ -244,7 +244,7 @@ narrates the performance.
   and [[I Will Take You as My People - The Covenant Formula]].
 - Exodus 30:26–30 — [[The Incense Altar, the Ransom, and the Holy Oil]]: the anointing of the
   tent, furniture, and priests commanded again, with the recipe of the oil; 40:9–15 repeats it
-  (local WEB; not yet ingested).
+  in [[The Tabernacle Raised and the Glory]] (local WEB).
 - Leviticus 8:1–36; 9:23–24 —
   [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] (verified WEB; not ingested).
 - Leviticus 14:14–17 — blood and oil on the right ear, thumb, and big toe of a person being
@@ -257,6 +257,8 @@ narrates the performance.
 - Exodus 19:6 — [[A Kingdom of Priests - Exodus 19 and First Peter 2]].
 - [[Sacrifice Before the Priesthood]] — the offerings before this rite existed.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The clothing is manufactured; this does not enact the dressing or seven-day ordination prescribed here.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
 
 ## Notes
 

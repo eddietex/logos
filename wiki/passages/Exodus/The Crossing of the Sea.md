@@ -678,6 +678,10 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
   they passed through the Red Sea as on dry land"* —
   [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
+
+- [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
+
 ## Notes
 
 - **The boundary was kept as planned.** 13:17 resumes the march; 14:31 closes the prose with Israel's

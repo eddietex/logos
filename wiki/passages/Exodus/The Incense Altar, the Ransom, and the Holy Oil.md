@@ -238,7 +238,7 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
 - Exodus 37:25–29 — altar, oil, and incense made: [[The Furnishings Made]].
 - Exodus 38:8, 25–28 — basin made and census silver used, now ingested; Exodus 40:9–15,
   26–27, 30–32 — anointing commanded again, incense burned, and washing done (local WEB;
-  chapter 40 not yet ingested).
+  chapter 40 now in [[The Tabernacle Raised and the Glory]]).
 - Psalm 133:2 — the *"precious oil on the head, that ran down on the beard, even Aaron's beard"*
   (verified WEB; not ingested).
 - Leviticus 4:3 — *"the anointed priest"* (verified WEB; not ingested).

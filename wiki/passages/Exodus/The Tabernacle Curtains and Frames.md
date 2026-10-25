@@ -180,7 +180,7 @@ Leviticus 16:2 will state the restriction on entering within the veil.
 - Genesis 3:24 — cherubim at the guarded approach to the tree of life: [[The Fall]] and
   [[The Tree of Life - Eden and the New Jerusalem]]. The sanctuary-as-Eden connection is a reading,
   not an identification made by Exodus.
-- Exodus 36:8–38 — [[The Tabernacle Built]]; 40:18–28 — the dwelling erected *(not yet ingested)*:
+- Exodus 36:8–38 — [[The Tabernacle Built]]; 40:18–28 — the dwelling erected in [[The Tabernacle Raised and the Glory]]:
   [[As God Commanded, So He Did - The Obedience Formula]].
 - Exodus 25:9, 40; 26:30 — the mountain pattern:
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].

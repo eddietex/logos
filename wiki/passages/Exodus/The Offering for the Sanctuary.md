@@ -109,7 +109,8 @@ in the middle of the camp.**
 - Exodus 35:4–29 — the offering made: [[The Freewill Offering]]. The surplus and cessation of gifts
   are now in [[Bezalel's Workmen and the Surplus]] (36:3–7; verified local WEB).
 - Exodus 29:45–46 — the dwelling promise in [[The Ordination of the Priests]]; 40:34–35, the
-  glory filling the tabernacle, remains ahead: [[I Will Take You as My People - The Covenant Formula]].
+  glory filling the tabernacle in [[The Tabernacle Raised and the Glory]].
+  See [[I Will Take You as My People - The Covenant Formula]].
 - Exodus 25:40 — the pattern *"shown to you on the mountain"*: [[The Ark, the Table, and the Lampstand]].
   Exodus 26:30; Acts 7:44; Hebrews 8:5 *(not yet ingested)*:
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].

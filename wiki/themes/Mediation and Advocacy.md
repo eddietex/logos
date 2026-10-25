@@ -261,6 +261,18 @@ ordination: no plea or blessing speech is quoted.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Moses translates received command into erected structure and active service (40:16–33).
+His work reaches its goal in divine indwelling, yet he cannot enter the tent at the filling
+(40:35). The mediator who spoke with God in 33:11 does not possess automatic access in
+every setting. The text reports no new failure that caused his exclusion, and it does
+not cancel his mediating role. Presence and controlled approach coexist.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
+See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Moses’ received commands and administrative direction organize shared service.
@@ -494,6 +506,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The objects bearing Israel’s names are made; their use remains ahead.
 
 - [[The Work Completed]] — Exodus 39:32–43; The recipient of the design also receives and inspects its execution.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The obedient mediator equips the dwelling yet cannot enter when glory fills it.
 
 ## Related themes
 

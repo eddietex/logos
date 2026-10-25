@@ -228,6 +228,16 @@ Horeb occurs in these verses.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The sanctuary is raised while the narrative remains at the Sinai camp established in
+Exodus 19:1–2. Chapter 40 supplies a date and sanctuary positions, but does not name
+Sinai again or locate a new camp. Its final journey rule (40:36–38) looks beyond this
+setting without narrating a dated departure. The location remains filed here under the
+existing Horeb/Sinai convention, without adding a modern identification.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Appears in
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; continuing Sinai construction setting inferred from context.
@@ -299,6 +309,8 @@ texts, 2026-10-25.
 
 - [[The Work Completed]] — Exodus 39:32–43; The continuing Sinai camp; no new geographical location named.
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The continuing Sinai setting; no new camp named.
+
 ## Related places
 
 - [[Midian]] — whose priest's flock Moses is grazing when he reaches it
@@ -346,3 +358,5 @@ texts, 2026-10-25.
   [[The Offering for the Sanctuary]]
 - The ark, table, and lampstand designed, and the pattern located *"on the mountain"* — Exodus 25:10–40,
   [[The Ark, the Table, and the Lampstand]]
+
+- The tabernacle raised and filled with glory; future travel governed by the cloud — [[The Tabernacle Raised and the Glory]].

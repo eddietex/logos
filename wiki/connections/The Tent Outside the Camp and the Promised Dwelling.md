@@ -16,7 +16,9 @@ tags: [connection]
 - [[The Offering for the Sanctuary]] — Exodus 25:8–9; the dwelling among the people prescribed.
 - [[The Ordination of the Priests]] — Exodus 29:42–46; meeting and dwelling as the exodus’s purpose.
 - [[Show Me Your Glory]] — Exodus 33:3, 7–17; threatened absence, the outside tent, and presence granted.
-- Exodus 40:1–2, 16–17, 34–35 — erection and the cloud-filled tent, read in raw but not yet ingested.
+- Exodus 40:1–2, 16–17, 34–35 — erection and the cloud-filled tent, now ingested in [[The Tabernacle Raised and the Glory]].
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:17, 34–38; raised sanctuary, blocked entry, and guidance.
 
 ## Analysis
 
@@ -75,6 +77,18 @@ that the completed sanctuary was operating before its erection.
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### The tabernacle raised and filled — Exodus 40
+
+The erection and filling are now ingested. In 33:9 Moses enters the outside tent and
+the cloud descends at its door; in 40:35 the cloud stays on the completed sanctuary and
+Moses cannot enter because of the cloud and glory. Both descriptions must stand. Their
+different moments and settings do not establish a permanent exclusion or settle the
+history of the two tents. The new sanctuary’s cloud then governs the people’s journeys
+(40:36–38), giving the dwelling a continuing travelling function.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25.
 
 ## Significance
 

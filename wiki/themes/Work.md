@@ -199,6 +199,16 @@ Moses still raises the structure and finishes that work in 40:17–33.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The finished manufacture of 39:32 and Moses’ finished work in 40:33 refer to successive
+stages: components are made and presented, then raised, arranged, and put into service.
+Neither completion statement cancels the other. The final cloud and glory are not another
+object the craftspeople make. Completion language invites comparison with Genesis 2:1–3,
+without turning the erection into a second creation or claiming a construction day count.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Craft, women’s contributions, and material accounting serve the sanctuary.
@@ -355,6 +365,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Gold cut into wires and integrated with skilled textile and stone work.
 
 - [[The Work Completed]] — Exodus 39:32–43; Shared craftsmanship is completed, presented, inspected, and approved.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses finishes erection after manufacture and inspection; filling is a distinct divine act.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

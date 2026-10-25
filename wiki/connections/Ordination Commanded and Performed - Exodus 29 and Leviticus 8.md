@@ -14,11 +14,13 @@ tags: [connection]
   *"the tabernacle and all that was in it"*, *"the basin and its base"*, and pours oil on Aaron's
   head.
 - **Exodus 40:12–15** — the washing, clothing, and anointing commanded again at the setting up of
-  the tabernacle *(local WEB; not yet ingested)*.
+  the tabernacle — [[The Tabernacle Raised and the Glory]] (local WEB).
 - **Leviticus 8:1–36** — the ordination performed, *"as Yahweh commanded Moses"* *(verified WEB; not
   yet ingested)*.
 - **Leviticus 9:23–24** — at the close of the installation, Yahweh's glory appears and fire consumes
   the offering *(verified WEB; not yet ingested)*.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:9–16, 31–32; consecration commands, obedience summary, and washing.
 
 ## Analysis
 
@@ -52,12 +54,26 @@ rite reported for different purposes; no contradiction is claimed.
 continuing service, and Leviticus 8 narrates only the installation. See
 [[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]].
 
+### The tabernacle raised and filled — Exodus 40
+
+Exodus 40:9–15 repeats the consecration commands for the sanctuary, its equipment,
+and Aaron’s family. Verse 16 generally affirms Moses’ obedience. Yet 40:17–33 does not
+retell the full seven-day rite prescribed in chapter 29. It names Moses as burning
+incense and offering at the altar (40:27, 29), and explicitly reports hand-and-foot
+washing by Moses, Aaron, and the sons (40:31–32). Thus the full ordination narrative
+remains in Leviticus 8, as documented above, while an absolute claim that Exodus reports
+no compliance would ignore 40:16. This is a difference in narrative detail, not grounds
+to invent a contradiction or a precise unreported chronology.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25.
+
 ## Significance
 
 **The pattern of command and performance governs the tabernacle material.** Exodus 25–31 gives
-instructions; Exodus 35–40 and Leviticus 8 report them carried out. Exodus 29 is the one instruction
-whose fulfillment falls outside Exodus. Its performance is therefore the first act of Leviticus'
-narrative and makes the priesthood the bridge between the two books.
+instructions; Exodus 35–40 and Leviticus 8 report them carried out. The full seven-day rite prescribed in Exodus 29 is narrated in Leviticus 8.
+Exodus 40:16 already affirms general compliance;
+the detailed ordination narrative makes the priesthood a bridge between the two books.
 
 **The ordination ends in the glory it was commanded for.** Exodus 29:43 promised that *"the place
 shall be sanctified by my glory"*. Leviticus 9:23–24 narrates *"Yahweh's glory appeared to all the

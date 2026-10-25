@@ -180,7 +180,8 @@ place to speak from.**
   [[Bezalel, Oholiab, and the Sabbath Sign]], and [[The Golden Calf]].
 - Exodus 26:33–35 — the veil and the furniture placed: [[The Tabernacle Curtains and Frames]].
 - Exodus 27:20–21 — lamp oil: [[The Altar and the Court]]; 37:1–24 — furniture made:
-  [[The Furnishings Made]]; 40:20–24 — furniture placed (local WEB, not yet ingested).
+  [[The Furnishings Made]]; 40:20–24 — furniture placed in
+  [[The Tabernacle Raised and the Glory]] (local WEB).
 - Genesis 3:24 — the cherubim at the east of Eden: [[The Fall]], [[Cherubim]].
 - Genesis 6:14 — Noah's ark sealed *"inside and outside"*:
   [[The Two Arks - Noah's Ship and Moses' Basket]].

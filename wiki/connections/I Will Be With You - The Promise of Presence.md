@@ -27,6 +27,8 @@ tags: [connection]
 - Matthew 1:23; 28:20 — *Immanuel*, and *"I am with you always"*
 - Hebrews 13:5 — Joshua 1:5 quoted as a reason not to love money
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; dwelling and accompaniment together at the book’s close.
+
 ## Analysis
 
 **The formula is not in the Abrahamic promises. It enters Scripture when the promise starts
@@ -130,6 +132,17 @@ God's inheritance (34:9). The proclamation of mercy supplies the immediate setti
 a people still described as stiff-necked, rather than proof that conduct has ceased to matter.
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
+### The tabernacle raised and filled — Exodus 40
+
+The cloud and glory fill the tabernacle (40:34–35), and the cloud’s lifting or staying
+governs Israel’s travel (40:36–38). The promised accompaniment of 33:14–17 reaches
+a visible narrative outcome after the crisis and renewal. Residence and accompaniment
+therefore overlap: the dwelling is among a travelling people. Chapter 40 does not
+repeat the earlier presence formula, name an angel, or resolve that angel’s identity.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25.
 
 ## Significance
 

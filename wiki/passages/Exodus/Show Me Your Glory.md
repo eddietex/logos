@@ -106,6 +106,10 @@ these instructions and promises, before the narrated passing in 34:5–7.
 - [[That I May Dwell Among Them - Tabernacle, Temple, Flesh, and New Creation]]
 - [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]]
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
+
+- [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
+
 ## Notes
 
 ### The dispute is about presence, not merely safe arrival

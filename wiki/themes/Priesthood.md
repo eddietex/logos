@@ -170,6 +170,17 @@ priests’ preparation.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Aaron and his sons are to be washed, clothed, and anointed, with priestly service continuing
+through their generations (40:12–15). Verse 16 broadly affirms obedience, but 40:17–33
+details erection and service rather than retelling the seven-day rite prescribed in
+chapter 29. Moses burns incense and offers at the altar (40:27, 29); Moses,
+Aaron, and the sons all wash at the basin (40:31). See
+[[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Ithamar accounts; Aaron is named; the women’s ministry is not defined as priesthood.
@@ -248,6 +259,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Priestly clothing made before the priests are dressed or ordained.
 
 - [[The Work Completed]] — Exodus 39:32–43; Priestly clothing is delivered without a dressing or ordination rite.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Consecration is commanded and washing reported; the full ordination rite is not retold.
 
 ## Related themes
 

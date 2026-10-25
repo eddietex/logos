@@ -10,7 +10,9 @@ tags: [connection]
 - [[The Creation of the World]] — Genesis 1:31–2:3; seeing, finished work, rest, and blessing.
 - [[The Work Completed]] — Exodus 39:32–43; finished work, inspection, and blessing.
 - [[The Freewill Offering]] — Exodus 35:1–3; the Sabbath rule before the construction appeal.
-- Exodus 40:17–35 — erection, completion, and filling; checked in stored WEB, not yet ingested.
+- Exodus 40:17–35 — erection, completion, and filling; checked in stored WEB; now ingested in [[The Tabernacle Raised and the Glory]].
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:17–35; completed erection followed by filling with glory.
 
 ## Analysis
 
@@ -44,6 +46,18 @@ contradictory without regard to their different tasks. See
 **Limits:** this comparison makes no claim about identical Hebrew words or syntax. No
 source-language edition was used for a lexical argument. Moses’ blessing is reported but
 not transcribed; its wording cannot be supplied from Genesis or a later blessing text.
+
+### The tabernacle raised and filled — Exodus 40
+
+The erection account closes with Moses finishing the work (40:33), followed by cloud
+and glory (40:34–35). This extends the English-text completion comparison with Genesis
+2:1–3, while distinguishing the stages already marked in 39:32–43. The erection has
+a calendar date (40:17), but the narrative supplies neither a six-day building sequence
+nor a seventh-day rest here. Reading an ordered divine dwelling alongside creation is
+a literary inference, not an explicit identification of the tent with the cosmos.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25; the creation comparison also uses stored WEB Genesis 2:1–3.
 
 ## Significance
 

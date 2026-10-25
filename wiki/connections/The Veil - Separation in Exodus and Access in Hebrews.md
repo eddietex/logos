@@ -19,6 +19,8 @@ tags: [connection]
 
 All non-Exodus passages are verified WEB comparisons, not yet ingested.
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:3, 20–24, 35; veil installed and Moses barred by filling glory.
+
 ## Analysis
 
 **Exodus establishes a separation within the dwelling.** The veil bears cherubim, hangs on four
@@ -87,6 +89,18 @@ Christian access reading remains the later interpretation already documented abo
 
 See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
 2026-10-24; later Exodus references checked in the same source.
+
+### The tabernacle raised and filled — Exodus 40
+
+Moses screens the ark with the veil (40:21) and places table and lampstand outside
+it (40:22–24), enacting the separation prescribed in 26:33–35. At the filling, however,
+40:35 says Moses cannot enter the Tent of Meeting because of the cloud and glory. It
+does not say that he merely cannot pass the inner veil. The architectural boundary and
+the filling’s obstacle to entry are related features of holy presence, not identical
+statements. The later Christian access interpretation above must preserve that distinction.
+
+See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
+2026-10-25.
 
 ## Significance
 

@@ -1990,6 +1990,16 @@ The manifestation of glory remains a distinct event in 40:34–35.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Yahweh appoints the first day of the first month for erection and commands the anointing of
+the sanctuary and priests (40:1–15). After Moses finishes, the cloud covers the tent and
+Yahweh’s glory fills it (40:33–35). The presence sought after the calf is visibly given,
+without becoming something even Moses controls. The cloud governs both movement and waiting;
+fire is visible by night to the whole people (40:36–38).
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2246,6 +2256,8 @@ texts, 2026-10-25.
 - Exodus 32 — Relents from announced destruction while retaining judgment for the calf (32:7–14, 33–35). [[The Golden Calf]]
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Gives skill and teaching for the
   sanctuary; his command defines the work.
+
+- Exodus 40:1–38 — Commands the erection and consecration; fills the dwelling with glory and guides Israel. See [[The Tabernacle Raised and the Glory]].
 
 ## Appears in
 
@@ -2679,6 +2691,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Yahweh’s command measures the making; his name is engraved on the crown.
 
 - [[The Work Completed]] — Exodus 39:32–43; Yahweh’s command is the standard of the completed work.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Commands the erection and consecration; fills the dwelling with glory and guides Israel.
 
 ## Related people
 

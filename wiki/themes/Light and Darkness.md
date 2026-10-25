@@ -149,6 +149,18 @@ here should not be treated as an already operating lamp service.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The cloud by day and fire in it by night close Exodus (40:38), recalling the guidance
+after departure in 13:21–22. The lamps Moses lights inside the sanctuary (40:24–25) are
+a distinct provision from the fire in the cloud visible to the people. The closing verse
+does not describe the night fire as darkness inflicted on an enemy; its emphasis is
+continuing public presence throughout the journeys.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
+See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
+
 ## Key passages
 
 - [[The Furnishings Made]] — Exodus 37:1–29; One lampstand with seven lamps made; lighting comes later.
@@ -268,6 +280,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; The lampstand stands south of the table, outside the inner veil (26:35).
 
 - [[The Altar and the Court]] — Exodus 27:1–21; The lamp needs supplied oil and evening-to-morning care, with no symbolism stated here.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Fire in the cloud by night makes the continuing presence visible to all Israel.
 
 ## Related themes
 

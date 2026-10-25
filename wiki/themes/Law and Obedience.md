@@ -152,15 +152,16 @@ them"* (24:12) — *hattôrâ wəhammiṣwâ* (MAM), *tôrâ* now a written thin
 tabernacle according to what he was shown on the mountain. Dimensions, joins, and the placement of
 the veil and furniture all belong to the instruction. Exodus 36:8–38 later reports the making of
 the enclosure in [[The Tabernacle Built]], while 40:18–28 reports its erection and arrangement;
-that final unit remains un-ingested. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, So He Did - The Obedience Formula]].
+that final unit is now ingested in
+[[The Tabernacle Raised and the Glory]]. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, So He Did - The Obedience Formula]].
 
 ### The altar, court, and maintained light — Exodus 27:1–21
 
 Exodus 27:8 repeats the requirement to follow the design shown on the mountain. Verse 21
 then makes lamp service an enduring statute through Israel's generations. Obedience includes
 both a particular act of construction and recurring maintenance. Exodus 38:1–7, 9–20 later
-reports the altar and court made, and 40:24–33 records their use and arrangement; those units
-remain un-ingested. See [[The Altar and the Court]] and
+reports the altar and court made, and 40:24–33 records their use and arrangement; these units are now ingested in
+[[The Altar, the Basin, the Court, and the Inventory]] and [[The Tabernacle Raised and the Glory]]. See [[The Altar and the Court]] and
 [[As God Commanded, So He Did - The Obedience Formula]].
 
 ### Commanded work, commanded rest, written testimony — Exodus 31
@@ -268,6 +269,16 @@ the design and every manufacturing description. See
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Exodus 40:16 affirms Moses’ obedience to all that Yahweh commanded. The detailed report
+then repeats the WEB wording “as Yahweh commanded Moses” in 40:19, 21, 23, 25, 27, 29,
+and 32. These are seven English-text notices, not a new claim about exact Hebrew wording
+or seven days of construction. Completion in 40:33 follows the commands’ enactment;
+the glory’s arrival is narrated as the next event, not as something human work can compel.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
@@ -327,6 +338,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Seven WEB obedience notices punctuate the garment account.
 
 - [[The Work Completed]] — Exodus 39:32–43; Three framing notices affirm conformity to Yahweh’s command.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; A general obedience statement and seven repeated WEB notices frame completed erection.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

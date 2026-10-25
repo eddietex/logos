@@ -137,7 +137,8 @@ sacrificial ritual nor the priests' ordination is carried out here.
 - Exodus 25:9, 40; 26:30; 27:8 — the repeated mountain design:
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
 - Exodus 38:1–7, 9–20 — construction now ingested; 40:6–8, 24–33 — arrangement checked
-  in local WEB, not yet ingested: [[As God Commanded, So He Did - The Obedience Formula]].
+  in local WEB, now in [[The Tabernacle Raised and the Glory]]:
+  [[As God Commanded, So He Did - The Obedience Formula]].
 - Leviticus 24:1–4 — the closely repeated lamp rule, verified WEB but not yet ingested:
   [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
 - The service of light develops [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]];

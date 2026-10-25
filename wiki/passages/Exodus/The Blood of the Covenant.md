@@ -177,6 +177,10 @@ says to him there fills the next seven chapters.
 - Exodus 3:1–6; 19:3 — the mountain of the bush and of the assembly:
   [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]].
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
+
+- [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
+
 ## Notes
 
 ### The boundary

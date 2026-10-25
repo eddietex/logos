@@ -234,6 +234,16 @@ Moses’ blessing of the people does not say those gifts purchased pardon for th
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The furniture moves into use: bread is arranged (40:23), incense burned at the golden
+altar (40:26–27), and burnt and meal offerings offered at the outer altar (40:29).
+The narrator attributes these acts to Moses. The chapter does not give animals, amounts,
+or a separate atonement rite for these offerings, and the incense altar is not confused
+with the altar of burnt offering.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Altar made; contributed metals distinguished from the fixed census payment.
@@ -371,6 +381,8 @@ texts, 2026-10-25.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:9–10, 13; an altar for incense only, and the half shekel as *tərûmâ*.
 
 - [[The Work Completed]] — Exodus 39:32–43; The altars and supplies are delivered; no offering is performed.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses burns incense and offers burnt and meal offerings on the installed altars.
 
 ## Related themes
 

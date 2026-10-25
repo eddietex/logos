@@ -15048,3 +15048,70 @@ as designed; no source fetch or raw-text change was needed.
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. No operational blocker remains;
 the interpretive limits above are stated on the relevant pages.
+
+## [2026-10-25] ingest | Exodus 40.1-38 — The Tabernacle Raised and the Glory
+
+Ingested [[The Tabernacle Raised and the Glory]] in one unattended invocation, retaining
+40:1–38 as the planned closing unit. All 38 WEB verses are included. Exodus is now
+**complete, 53 / 53 pericopes**; only its final queue box changed. No next book was opened.
+The page covers erection instructions, consecration commands, Moses’ obedience and service,
+the filling with glory, inability to enter, and the cloud’s rule for travelling and waiting.
+
+### Decisions and tensions
+
+- Created [[Cloud and Fire - From the Sea to the Filled Tabernacle]] to trace guidance,
+  protection, revelation, dwelling, and differing access through Exodus 13–40. This is
+  a narrative comparison of the stored WEB, not an assertion of exact Hebrew vocabulary.
+- Preserved Moses’ entry into the mountain cloud (24:18), his entry into the outside tent
+  before the cloud descends (33:9), and his inability to enter the filled sanctuary (40:35).
+  The last passage names the cloud and glory as the obstacle, not a new sin, the veil
+  alone, or a permanent rejection. Both access reports are stated on the affected pages.
+- Distinguished consecration commands in 40:9–15, the general obedience statement in
+  40:16, and the selective detailed report in 40:17–33. No claim is made that compliance
+  is absent, or that a full seven-day ordination is retold here. The existing Exodus 29 /
+  Leviticus 8 connection’s overly absolute fulfillment statement was qualified accordingly.
+- Counted seven repeated obedience notices in the checked WEB (40:19, 21, 23, 25, 27, 29,
+  32), without asserting a newly verified Hebrew formula or a seven-day building schedule.
+  Manufacturing completion (39:32), erection completion (40:33), and filling (40:34–35)
+  remain distinct stages. The Genesis 2 comparison remains a qualified literary reading.
+- Kept the ark-pole sequence unresolved: 25:15 forbids removal, 37:5 reports insertion,
+  and 40:20 describes setting the poles without narrating a removal. The relationship
+  between the outside tent and the erected sanctuary also remains unexplicated; the
+  filling does not settle the chronology of the women’s ministry in 38:8.
+- Covered Aaron’s four sons collectively from the explicit list in 28:1, without assigning
+  individual acts. No new person or place was needed. The contextual Sinai camp remains
+  under [[Horeb]]; the closing journey rule does not narrate a dated departure or new camp.
+  The first-month erection date is not equated with the Passover date.
+- Updated the dwelling/presence synthesis: the tent’s residence and the cloud’s guidance
+  coexist. The filling follows threatened absence, intercession, and renewal; the narrative
+  does not portray craftsmanship as purchasing divine presence.
+- Revised eight existing connections and fifteen earlier passage pages, including obsolete
+  chapter-40 ingestion labels. No title collision, boundary change, category split, schema
+  edit, or harness compatibility change was required.
+
+### Sources and verification
+
+All 38 passage verses were copied mechanically from `raw/bible/Exodus.md` and verified
+for exact equality. Comparisons use stored WEB Exodus 12:1–3; 13:20–22; 14:19–24;
+16:9–10; 19:1–2; 24:15–18; 25:8–9, 15–16; 26:33–35; 28:1; 29:1–46;
+30:18–21; 33:3–17; 37:5; 39:32–43; and Genesis 2:1–3. No new quotation from
+an unstored book or exact Greek/Hebrew claim was introduced. Existing later-source
+connections retain their verification notes. The fetch script refused to overwrite the
+existing Exodus file as designed; no raw source was changed or added.
+
+### Pages created or revised
+
+- **Created (2):** one passage and one connection.
+- **Existing content pages revised (46):** Exodus; fifteen earlier passages; seven people;
+  one place; fourteen themes; eight connections.
+- **Bookkeeping revised (13):** top-level and book indexes; three people subindexes;
+  places and themes indexes; five connections subindexes; this log.
+- **Totals by frontmatter type:** 144 passages, 177 people, 90 places, 82 themes,
+  380 connections; 3 books started, all 3 complete. Category pages each have exactly one
+  index row; subindex filing ranges and sorting pass. New titles are unique, and every
+  listed person, place, theme, and existing connection links back to the new passage.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw texts, schema,
+skill instructions, scripts, harness, and controller files are unchanged. No operational
+blocker remains; interpretive limits are stated on the relevant pages.

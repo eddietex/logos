@@ -31,7 +31,7 @@ days (Exodus 24:16; MAM) — the verb of dwelling, used of a mountain the people
 collect an offering for a sanctuary, *"that I may dwell among them"* (25:8). It is the purpose of the
 whole set of instructions (25–31) and, by 29:45–46, of the exodus itself: God *"brought them out of
 the land of Egypt, that I might dwell among them"*. The book ends with the glory filling the
-*miškān* (40:34–35). *(40:34–35 is not yet ingested.)*
+*miškān* (40:34–35). See [[The Tabernacle Raised and the Glory]].
 
 **What fills the dwelling is designed first.** Before any tent, God describes the ark, the table, and the
 lampstand (25:10–40). The ark is where he will *meet* Moses and *speak* (*wənôʿadtî*, *I will meet by
@@ -190,6 +190,18 @@ distinct stages, rather than requiring either report to be erased.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The purpose of Exodus 25:8 and 29:45–46 reaches its visible outcome in 40:34–35: the
+cloud covers the erected tent and glory fills it. Residence does not mean geographical
+immobility; the cloud determines Israel’s journeys (40:36–38). Nor does residence mean
+unrestricted approach, since even Moses cannot enter at the filling. The prior refusal
+to go among Israel (33:3) is answered through intercession and renewal, not erased.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
+See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Outer equipment and court made; erection and filling remain distinct.
@@ -231,6 +243,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Clothing for holy-place service prepared before the sanctuary’s erection.
 
 - [[The Work Completed]] — Exodus 39:32–43; An approved sanctuary is ready before erection and filling.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The completed sanctuary is filled, and its cloud accompanies the travelling people.
 
 ## Related themes
 

@@ -581,6 +581,18 @@ His approval closes the making report, before his raising of the tabernacle in c
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Moses receives the command, raises the tabernacle, places the testimony and furnishings,
+sets out bread, lights lamps, burns incense, and offers burnt and meal offerings (40:1–29).
+He washes hands and feet with Aaron and his sons and completes the court (40:30–33).
+The repeated obedience notices lead to completion, but not unrestricted access: when the
+cloud and glory fill the tent, he cannot enter (40:35). This stands beside his entry into
+the mountain cloud in 24:18 and the outside tent in 33:9. The settings and moments differ;
+40:35 names the filling as the obstacle, not a new sin or permanent rejection of Moses.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -706,6 +718,8 @@ texts, 2026-10-25.
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Summons the makers, transfers the
   contributions, and stops further giving.
 
+- Exodus 40:1–38 — Raises and equips the sanctuary, performs service, and then cannot enter the filled tent. See [[The Tabernacle Raised and the Glory]].
+
 ## Appears in
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commands the accounting; recipient of the commands fulfilled (38:21–22).
@@ -827,6 +841,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Named seven times as the recipient of the command governing the garments.
 
 - [[The Work Completed]] — Exodus 39:32–43; Receives, inspects, and blesses the finished work’s makers.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Raises and equips the sanctuary, performs service, and then cannot enter the filled tent.
 
 ## Related people
 

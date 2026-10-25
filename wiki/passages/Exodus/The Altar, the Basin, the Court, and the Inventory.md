@@ -156,6 +156,8 @@ WEB text, Exodus 38:1–31, copied from the stored source.
 
 - [[The Work Completed]] — Exodus 39:32–43; the completed articles presented, inspected, and approved.
 
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
+
 ## Notes
 
 ### Boundary and responsibility

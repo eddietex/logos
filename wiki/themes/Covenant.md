@@ -290,6 +290,16 @@ the presented inventory (39:35); placing the testimony in it is narrated separat
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Moses places the testimony inside the ark (40:20), then screens it with the veil (40:21).
+The dwelling and guidance that follow (40:34–38) belong after the calf, intercession, and
+renewal. They answer the threatened absence of 33:3 without pretending it was never
+announced. No new covenant-making ceremony is narrated in chapter 40; the placement
+preserves the testimony within the sanctuary.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Key passages
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The testimony’s container made after renewal; placement is still ahead.
@@ -504,6 +514,8 @@ texts, 2026-10-25.
 - [[The Ordination of the Priests]] — Exodus 29:45–46; *"and will be their God"*, the covenant formula joined to the dwelling.
 
 - [[The Work Completed]] — Exodus 39:32–43; Obedient construction follows renewal without constituting another covenant rite.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The testimony is placed in the ark and promised presence becomes visible after renewal.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

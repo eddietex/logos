@@ -272,7 +272,7 @@ yet, but out where they are going.
 *cloud*, first held the rainbow** — *"I set my rainbow in the cloud"* (Genesis 9:13–16) — **and then the pillar
 that went before Israel and stood between Israel and Egypt** (13:21–22; 14:19–20, 24) (WLC lemma search,
 Genesis–Exodus). **This is the first time the glory is seen in it.** **The book ends in the same pair**: *"the
-cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* (40:34; *not yet ingested*);
+cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* (40:34; [[The Tabernacle Raised and the Glory]]);
 and Sinai between: *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days"* (24:16;
 [[The Blood of the Covenant]]). **Exodus's whole movement of the glory — appearing, settling, filling — starts over a
 complaining congregation in the wilderness of Sin.** See [[The Glory of God]] and
@@ -684,8 +684,8 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - Exodus 15:24–26 — the first murmuring and the first test — [[Bitter Water at Marah]]
 - Exodus 17:1–7 — Massah and Meribah — [[Water from the Rock]]
 - [[The Ten Commandments]] — Exodus 20:8–11; the creation-grounded command makes the household Sabbath duty explicit
-- Exodus 24:16–17 — the glory on Sinai: [[The Blood of the Covenant]]; 40:34–38, in the tabernacle *(not yet
-  ingested)*
+- Exodus 24:16–17 — the glory on Sinai: [[The Blood of the Covenant]]; 40:34–38, in the tabernacle —
+  [[The Tabernacle Raised and the Glory]]
 - Exodus 25:16 — *"the testimony which I shall give you"*: [[The Ark, the Table, and the Lampstand]]
 - Numbers 11:4–9, 31–34 — the manna described again; the second quail, and the plague *(not yet ingested)*
 - Numbers 15:32–36 — the man gathering sticks on the Sabbath *(not yet ingested)*
@@ -707,6 +707,8 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
   [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] *(not yet ingested)*
 - Hebrews 9:4 — *"a golden pot holding the manna"* *(not yet ingested)*
 - Revelation 2:17 — *"the hidden manna"* *(not yet ingested)*
+
+- [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
 
 ## Notes
 

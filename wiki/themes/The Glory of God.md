@@ -42,7 +42,7 @@ English, not an unverified Hebrew word search. See [[Israel at Mount Sinai]].
 | **24:16–17** | Sinai | *"Yahweh's glory settled on Mount Sinai, and the cloud covered it six days … like devouring fire"* — [[The Blood of the Covenant]] |
 | **29:43** | the tent | *"There I will meet with the children of Israel; and the place shall be sanctified by my glory"* — [[The Ordination of the Priests]] |
 | **33:18, 22** | the cleft of the rock | *"Please show me your glory"*; *"while my glory passes by"* — [[Show Me Your Glory]] |
-| **40:34–35** | the tabernacle | *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* *(not yet ingested)* |
+| **40:34–35** | the tabernacle | *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the tabernacle"* — [[The Tabernacle Raised and the Glory]] |
 
 (Exodus 29:43 and 33:18, 22 are cited from the WLC lemma search and the WEB of
 `raw/bible/Exodus.md`; both now have ingested passage pages.)
@@ -122,6 +122,19 @@ itself make the glory arrive.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The glory previously seen in the wilderness cloud (16:10) and on Sinai (24:16–17) now
+fills the tabernacle (40:34–35). Moses entered the cloud on the mountain (24:18), but
+cannot enter the filled tent (40:35). These different access reports must both stand.
+The account identifies the cloud’s staying and the filling with glory as the reason; it
+does not accuse Moses of disobedience. Cloud by day and fire by night remain visible to
+all Israel, with the cloud regulating their journeys (40:36–38).
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
+See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The encounter leaves a visible effect on the mediator.
@@ -146,6 +159,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Garments designed for glory and beauty made; no manifestation reported.
 
 - [[The Work Completed]] — Exodus 39:32–43; Finished and approved work precedes the manifestation in Exodus 40.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Glory fills the tent and prevents Moses’ entry; cloud and fire remain publicly visible.
 
 ## Related themes
 

@@ -5,7 +5,7 @@ genre: Narrative / Law (Torah)
 author: Traditionally Moses; composite sources in critical scholarship
 canonical_order: 2
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Exodus
 
@@ -41,34 +41,25 @@ covenant's renewal, and the building of the tabernacle in nearly the same words 
 The first half answers the question *Will God deliver?*; the second answers *Can a holy God live
 among this people?* — and the calf, at the hinge, makes the second question urgent.
 
-The building section now begins in [[The Freewill Offering]] (35:1–29). After covenant renewal,
-Moses assembles the people, places rest before sanctuary work, and receives willing gifts of
-materials and skilled labor. The instructions of chapters 25–31 begin to become public action,
-including women's spinning. In [[Bezalel's Workmen and the Surplus]] (35:30–36:7),
-Moses summons the gifted makers, whose abilities include teaching, and stops the collection
-after their report of surplus. [[The Tabernacle Built]] (36:8–38) now reports the making of
-curtains, coverings, framework, veil, and screen in close correspondence to chapter 26. The final
-erection, placement of furniture, and indwelling glory still lie ahead.
-[[The Furnishings Made]] (37:1–29) now reports the ark, mercy seat, table, lampstand, incense
-altar, oil, and incense. Bezalel is named for the ark; the correspondence with chapters 25
-and 30 shows the design enacted without narrating installation or service yet.
+The closing building section turns instructions into communal action after covenant renewal:
+[[The Freewill Offering]] (35:1–29), [[Bezalel's Workmen and the Surplus]] (35:30–36:7),
+[[The Tabernacle Built]] (36:8–38), [[The Furnishings Made]] (37:1–29),
+[[The Altar, the Basin, the Court, and the Inventory]] (38:1–31), and
+[[The Priestly Garments Made]] (39:1–31). [[The Work Completed]] (39:32–43) gathers the
+articles for Moses’ inspection and blessing. Manufacture and approval are distinct from erection.
 
-[[The Altar, the Basin, the Court, and the Inventory]] (38:1–31) now supplies the altar of burnt
-offering, the basin from the ministering women’s mirrors, the court, and the inventory. Ithamar is
-named for accounting; Bezalel and Oholiab for the work. The fixed census silver and willing gifts
-remain distinct, and manufacture still precedes final erection and service.
+[[The Tabernacle Raised and the Glory]] (40:1–38) completes the book. On the first day of
+the first month in the second year, Moses raises and equips the sanctuary, puts its furniture
+into service, and finishes the work. Anointing and priestly preparation are commanded, with
+obedience affirmed generally rather than the full ordination retold. The cloud covers the tent
+and glory fills it; Moses cannot enter. The cloud and night fire then govern and accompany
+Israel’s journeys. The dwelling promised in 25:8 and 29:45–46 becomes visible after the threat
+of absence in 33:3. Exodus ends with presence and guidance, before arrival in the land.
 
-[[The Priestly Garments Made]] (39:1–31) now reports the ephod, breastplate, robe, linen clothing,
-and holy crown. Seven notices affirm compliance with Yahweh’s command to Moses. The names of
-Israel are engraved and the crown inscribed, but the priests are not yet dressed or ordained.
-The making account retains differences of description from chapter 28, including the stored
-WEB’s sash/turban discrepancy; see [[The Garments Commanded and Made - Exodus 28 and 39]].
-
-[[The Work Completed]] (39:32–43) now gathers all the articles into a presentation to Moses.
-Israel receives collective credit for obedience; Moses inspects the work and blesses the people.
-The finish of manufacture is distinct from erection and filling in chapter 40. Its completion,
-seeing, and blessing also invite a literary comparison with Genesis 1:31–2:3; see
-[[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
+All **53 / 53 pericopes** are ingested. The command-and-making accounts’ descriptive tensions
+remain on their pages, including the garment wording and ark-pole sequence. Moses’ entry into
+the mountain cloud (24:18) and inability to enter the filled tent (40:35) are both retained;
+see [[Cloud and Fire - From the Sea to the Filled Tabernacle]].
 
 ## Structure
 
@@ -558,7 +549,7 @@ for unit.
 - [x] [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31
 - [x] [[The Priestly Garments Made]] — Exodus 39:1–31
 - [x] [[The Work Completed]] — Exodus 39:32–43
-- [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38
+- [x] [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38
 
 ## Key themes
 

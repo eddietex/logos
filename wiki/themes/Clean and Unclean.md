@@ -135,10 +135,20 @@ meat-and-dairy ban should be read into this verse as its explicit explanation. S
 
 The basin and base required for hands-and-feet washing in 30:18–21 are made from the women’s mirrors
 (38:8). Making a washing vessel is not itself a washing rite. Water placement and use by Moses,
-Aaron, and his sons appear in 40:30–32, checked in the local source but not yet ingested. See
+Aaron, and his sons appear in 40:30–32, now ingested in [[The Tabernacle Raised and the Glory]]. See
 [[The Basin Made and Used - Exodus 30, 38, and 40]].
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
+
+### The tabernacle raised and filled — Exodus 40:1–38
+
+The basin made in 38:8 is installed and filled in 40:30; Moses, Aaron, and the sons wash
+hands and feet before entering or approaching the altar (40:31–32). This enacts the use
+prescribed in 30:18–21 and explicitly includes Moses. The initial washing commanded in
+40:12 belongs to priestly preparation; it should not be collapsed into every subsequent
+hand-and-foot washing. No particular moral fault or bodily uncleanness is diagnosed here.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
 ## Key passages
 
@@ -200,6 +210,8 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[Laws of Holiness and Compassion]] — Exodus 22:31; torn meat refused for holiness' sake
 - [[The Ordination of the Priests]] — Exodus 29:4, 36–37; the priests washed, and the altar cleansed for seven days.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:17–21; hands and feet washed at the basin before every approach.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The basin receives water and Moses, Aaron, and the sons wash hands and feet.
 
 ## Related themes
 

@@ -276,6 +276,17 @@ and washing, clothing, and anointing are separately commanded in 40:12–15.
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The tabernacle raised and filled — Exodus 40:1–38
+
+Yahweh commands Moses to wash, clothe, anoint, and sanctify Aaron for priestly service
+(40:12–13), extending anointing and the enduring priesthood to his sons (40:14–15).
+Verse 16 gives a general affirmation of Moses’ obedience; the detailed erection report
+does not separately recount the whole ordination rite. Aaron is explicitly among those
+who wash hands and feet at the basin (40:31–32). Incense and offerings in 40:27, 29 are
+attributed to Moses, so they should not be reassigned to Aaron by assumption.
+
+See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -325,6 +336,8 @@ texts, 2026-10-25.
 - Exodus 30:1–38 — Given the morning and evening incense, the yearly atonement on the incense altar, and the washing at the basin. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 - Exodus 32 — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35). [[The Golden Calf]]
+
+- Exodus 40:1–38 — His consecration is commanded; he washes at the basin with Moses and his sons. See [[The Tabernacle Raised and the Glory]].
 
 ## Appears in
 
@@ -387,6 +400,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Garments now made for him; no dressing or ordination narrated.
 
 - [[The Work Completed]] — Exodus 39:32–43; Named as priest in the delivered garment inventory.
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; His consecration is commanded; he washes at the basin with Moses and his sons.
 
 ## Related people
 
