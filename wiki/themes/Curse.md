@@ -140,7 +140,20 @@ curse, the pair in *ûməqallelkā ʾāʾōr*. The WEB renders *qillēl* as *bla
 … with contempt* at Genesis 12:3. Whether *ʾĕlōhîm* here is God or *"the gods"* (KJV) is left open.
 See [[Laws of Holiness and Compassion]] and [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]].
 
+### The house of the wicked — Proverbs 3:21–35
+
+Yahweh's curse is in the wicked house, opposite his blessing of the righteous habitation
+(3:33). The teacher states a divine judgment without narrating a specific curse event or
+listing calamities. **Tension:** Job 21:7–9 describes secure wicked households, while Job
+1:1, 13–19 shows disaster striking the upright. The contrast cannot safely be reversed
+into the claim that a ruined household must have been wicked.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; The wicked house is under Yahweh’s curse, without making disaster proof of guilt.
 
 - [[The Fall]] — the curse on the serpent and on the ground
 - [[Cain and Abel]] — the first curse pronounced on a person

@@ -273,7 +273,20 @@ Wisdom's part is to laugh, in Psalm 2:4's verbs (*ʾeśḥāq … ʾelʿaḡ*), 
 [[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The evaluations that forbid envy — Proverbs 3:21–35
+
+Proverbs 3:32–35 gives the reason not to imitate violence: Yahweh rejects the perverse,
+curses the wicked household, and mocks mockers, alongside friendship, blessing, and
+grace for their opposites. It reports no investigation or named defendant. **Tension:**
+Job 21:7–9's safe wicked households prevent this general pronouncement from being used
+as a transparent description of all present outcomes.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh’s verdict counters the apparent attractiveness of violence.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The renewed assembly hears the Sabbath sanction before the offering appeal.
 

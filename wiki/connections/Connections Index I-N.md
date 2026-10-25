@@ -78,7 +78,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Nimrod and the Kingdoms of Shinar and Assyria]] | thread | Genesis 6:4 · Genesis 10:8–12 · Genesis 11:1–9 · 1 Chronicles 1:10 · Micah 5:6 · 2 Kings 17:5–23 · Daniel 1:1–2 |
 | [[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]] | allusion | Job 42:2 · Genesis 11:6 · Job 40:9 · Genesis 18:14 |
 | [[The Noahic Commandments and the Council of Jerusalem]] | thread | Genesis 2:16–17 · Genesis 9:1–7 · Leviticus 17–18 · Acts 15:19–29 · Acts 21:25 · *Sanhedrin* 56a |
-| [[None Shall Make You Afraid - The Covenant Blessing of Security]] | formula | Leviticus 26:6 · Job 11:19 · Job 5:22–24 · Deuteronomy 28:26 · Isaiah 17:2 · Zephaniah 3:13 · Micah 4:4 · Jeremiah 30:10 · Ezekiel 34:25–28 · Psalm 4:8 · Proverbs 3:24 |
+| [[None Shall Make You Afraid - The Covenant Blessing of Security]] | formula | Leviticus 26:6 · Job 11:19 · Job 5:22–24 · Deuteronomy 28:26 · Isaiah 17:2 · Zephaniah 3:13 · Micah 4:4 · Jeremiah 30:10 · Ezekiel 34:25–28 · Psalm 4:8 · Proverbs 3:24 · [[Do Not Withhold Good]] (Proverbs 3:21–35) |
 | [[Not a Thread nor a Sandal Strap]] | thread | Genesis 14:21–24 · Genesis 12:14–20 · Genesis 15:1 · Joshua 7:20–26 · 1 Samuel 12:3–5 · 1 Samuel 30:21–25 · 2 Kings 5:15–27 · Daniel 5:17 · Acts 8:18–24 · 1 Corinthians 9:12–18 |
 | [[Not from the Daughters of the Canaanites]] | thread | Genesis 24:3–4 · Genesis 27:46–28:2 · Deuteronomy 7:1–4 · 1 Kings 11:1–8 · Ezra 9–10 · Ruth 1:16–17 · 2 Corinthians 6:14 |
 | [[Now Let Me Die, Since I Have Seen - Jacob and Simeon]] | typology | Genesis 45:28 · Genesis 46:29–30 · Luke 2:25–32 |

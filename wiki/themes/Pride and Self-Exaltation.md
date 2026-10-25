@@ -102,7 +102,20 @@ exhortation, *"Don't be wise in your own conceits"* (Romans 12:16). The remedy g
 opinion of oneself but the fear of Yahweh. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Mockery answered, humility favored — Proverbs 3:21–35
+
+Proverbs 3:34 opposes mockers and the humble; 3:35 contrasts glory inherited by the wise
+with the shame of fools. The WEB quotations in James 4:6 and 1 Peter 5:5 speak of God
+resisting the proud and giving grace to the humble. Both contexts call for humility
+before God; 1 Peter also applies it to relationships in the community. See
+[[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]].
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Mockery meets divine opposition; the humble receive grace.
 
 - [[The Tower of Babel]] — Genesis 11:1–9: the founding text, which names the ambition and not the
   sin

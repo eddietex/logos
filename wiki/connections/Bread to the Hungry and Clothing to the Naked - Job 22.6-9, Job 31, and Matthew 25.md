@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Withhold Good]] — Proverbs 3:27–28; give due good when able, without postponing
+  what is already available.
+
 - **Exodus 22:22–27; Deuteronomy 24:6, 10–13, 17** — the widow and the fatherless not to be
   afflicted, and the pledged cloak returned before the sun goes down, *"for that is his only
   covering"* — [[Laws of Holiness and Compassion]] (Deuteronomy not yet ingested)
@@ -96,6 +99,21 @@ Second, the condemned are condemned for exactly the omissions of Job 22:7 — *"
 didn't give me food to eat; I was thirsty, and you gave me no drink"* (25:42). Eliphaz brought the
 charge of the last judgment against the one man in his book the narrator says it could not be
 brought against.
+
+### Do not make the neighbor come back tomorrow — Proverbs 3:27–28
+
+[[Do Not Withhold Good]] generalizes the obligation: give good to those to whom it is
+due when able, and do not postpone what is already at hand. The recipient need not be
+poor, and the good is not limited to food or clothing. But the duty includes the cases
+made concrete in Exodus 22:26–27 and Job 31:16–23: the pledged garment must return
+before night, and Job denies withholding food, clothing, or protection from the needy.
+Timeliness matters because someone else's need continues while the giver delays.
+
+This is a thematic comparison, not an assertion that Proverbs directly quotes either
+passage. **The ethical agreement does not solve the tension about outcomes:** Job's
+defense describes this very generosity in a life already struck by catastrophe.
+Proverbs 3:33's blessed righteous household cannot therefore be used to dismiss Job's
+testimony. Sources: stored WEB Exodus 22, Job 31, and Proverbs 3, checked 2026-10-25.
 
 ## Significance
 

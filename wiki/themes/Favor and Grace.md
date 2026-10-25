@@ -119,7 +119,20 @@ stand together as here. Proverbs makes it a promise to the son who keeps kindnes
 [[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Grace given to the humble — Proverbs 3:21–35
+
+Proverbs 3:34 pairs mockery returned to mockers with grace given to the humble. This
+qualifies any account of favor as wholly unrelated to the recipient's stance: the proverb
+explicitly identifies the humble as recipients, without describing a wage they have
+earned. James 4:6 and 1 Peter 5:5 cite the contrast in exhortations to humility. See
+[[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]].
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Grace is given to the humble, a saying cited in James and 1 Peter.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Personal favor becomes an appeal for presence, pardon, and
   belonging.

@@ -15496,3 +15496,58 @@ no existing raw text was changed. No new claim about exact Hebrew or Greek wordi
 Proverbs checklist match the dashboards. Each person, theme, and connection has exactly
 one category-index row. No passage-title collision, schema change, or harness change.
 No unresolved blocker.
+
+## [2026-10-25] ingest | Proverbs 3.21-35 — Do Not Withhold Good
+
+Ingested [[Do Not Withhold Good]] in unattended mode: retained wisdom and secure steps,
+sweet sleep and Yahweh as confidence, timely good owed to the neighbor, respect for the
+neighbor's trust, refusal of baseless strife and envy of violence, and Yahweh's contrasting
+evaluations of the upright and perverse, righteous and wicked, humble and mocking.
+Proverbs is now 7 / 43 pericopes ingested.
+
+**Judgment calls:** retained the planned 3:21–35 boundary. The father, son, neighbor,
+violent man, and other groups are instructional figures rather than newly identified
+historical people; the book's Solomonic attribution does not name this particular father
+or son. No named geographical place occurs. No person or place page was created. Due good
+is not restricted to almsgiving or debt payment; assistance to the poor is an application,
+not an identification of every recipient. The next address at 4:1 remains un-ingested.
+
+**Tensions kept explicit:** the promises of sweet sleep and a blessed righteous home
+(Proverbs 3:24, 33) alongside upright Job's devastated household and terrifying nights
+(Job 1:1, 13–19; 7:3–4, 13–14), and the wicked's secure homes in Job 21:7–9. Reading these
+proverbs as formative instruction rather than an exceptionless diagnosis of circumstances
+is identified as interpretation. The grace theme also records that 3:34 names the humble
+as recipients without describing grace as a wage. No exact Hebrew or Greek assertion
+was added; the later citation comparison stays with verified WEB wording.
+
+**Created (2):** the passage and
+[[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]].
+
+**Revised content pages (29):** [[Proverbs]] and [[God]]; 17 themes — [[Wisdom]], [[Faith]],
+[[Life and Death]], [[Wealth and Possessions]], [[Compassion and Mercy]],
+[[Strife and Peacemaking]], [[Envy]], [[Righteousness]], [[Blessing]], [[Curse]],
+[[Favor and Grace]], [[Pride and Self-Exaltation]], [[Folly]], [[Retribution]],
+[[Language and Speech]], [[Judgment]], and [[The Poor and the Vulnerable]];
+connections [[None Shall Make You Afraid - The Covenant Blessing of Security]] and
+[[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]];
+reciprocal cross-references on [[Do Not Consent to Sinners]],
+[[Trust in Yahweh with All Your Heart]], [[Wisdom Calls in the Street]],
+[[Wisdom's Worth and the Founding of the Earth]], [[Laws of Holiness and Compassion]],
+[[Job's Oath of Innocence]], [[The Arrows of the Almighty]], and [[Why Do the Wicked Live]].
+
+**Bookkeeping (8 revised files, including this log):** books index, themes index,
+People Index F-M, Connections Index A-C, D-H, and I-N, main index, and log.
+Totals: 151 passages, 179 people, 90 places, 83 themes, 393 connections.
+Overall: 2 files created and 37 existing files revised.
+
+**Sources:** all fifteen passage verses copied from stored WEB Proverbs and checked
+programmatically against it. Local comparisons checked in Proverbs 1:8–33; 3:1–20; 4:1,
+Exodus 22:25–27, Job 1:1, 13–19; 7:3–4, 13–14; 21:7–9; 31:16–23.
+James 4:6–10 and 1 Peter 5:5–7 retrieved directly as bible-api.com WEB JSON after the web
+reader could not open the API URLs. The shared quotation was verified in both responses;
+no unstored book was added to raw, and no existing raw text was modified.
+
+**Validation:** `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets;
+62 not-yet-started book pages remain the expected baseline. Type-based counts, the 7 / 43
+Proverbs checklist, unique category rows, and the new connection's filing order checked.
+No passage-title collision, schema or harness change, or unresolved blocker.

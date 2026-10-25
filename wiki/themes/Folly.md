@@ -75,7 +75,19 @@ Scriptural quotations outside Genesis, Exodus, Job, and Proverbs above are WEB, 
 bible-api.com (2026-10-25); the Hebrew words for *Proverbs 1:7, 1:22, Job 2:10, 5:2–3, 42:8*, and
 *Psalm 14:1* were checked against Sefaria's *Miqra according to the Masorah*.
 
+### The promotion that is shame — Proverbs 3:21–35
+
+The final contrast of Proverbs 3:35 sets the glory inherited by the wise against the
+shame that becomes the promotion of fools in the WEB. Verse 34 has already turned the
+mockers' contempt back upon them. Folly is evaluated by its outcome before God, not by
+the apparent advantage that makes the violent man enviable in verse 31.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Fools end in shame; the wise inherit glory.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the fool despises the wisdom and instruction the
   preface has just offered, and the book's central contrast is set before its first saying
 - [[Eliphaz's First Speech]] — Job 5:2–3; the fool's portrait borrowed from the wisdom tradition and

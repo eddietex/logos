@@ -135,7 +135,19 @@ things"* (2:12, *tahpuḵôṯ*, from *h-p-k*, *to overturn*) and the woman *"wh
 the same noun.** See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The postponing answer and the mocker — Proverbs 3:21–35
+
+The refusal in Proverbs 3:28 is spoken as a postponement, although the means to help
+are already present. Speech can evade an obligation without openly denying it. At 3:34,
+mockery receives a divine answer in kind, while humility receives grace. The passage
+joins what is said to a neighbor with how the speaker stands before Yahweh.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Words can postpone available help; mockery receives judgment.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *"a proverb, and parables, the words and riddles of the
   wise"* (1:6) — *māšāl*, *məlîṣâ*, *ḥîdâ*, three forms of indirect speech, and a book that promises to

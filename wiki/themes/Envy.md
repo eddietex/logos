@@ -84,7 +84,20 @@ English comparison does not establish an identity of Hebrew vocabulary. The reac
 point Paul takes up in [[Coveting and Love - The Commandments in Romans 7 and 13]]. See
 [[The Ten Commandments]].
 
+### Do not admire the violent man — Proverbs 3:21–35
+
+Proverbs 3:31 forbids envy of a violent man and immediately forbids choosing his ways.
+Here envy can lead to imitation, not only resentment of another's advantage. The answer
+is Yahweh's evaluation of the perverse and upright (3:32–35). The passage does not deny
+that violence can look successful; Job 21:7–9 separately exposes the danger of assuming
+that visible prosperity proves righteousness.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.
 
 - [[Isaac in Gerar]] — Genesis 26:12–16; **the first *qānāʾ* in the Bible**, provoked by a hundredfold
   harvest, and answered by wells filled in with earth and an eviction

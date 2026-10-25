@@ -201,7 +201,20 @@ beyond the inventory of possessions.
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+### The habitation of the righteous — Proverbs 3:21–35
+
+Proverbs 3:33 explicitly contrasts Yahweh's blessing on the righteous habitation with
+his curse in the wicked house. This is a general pronouncement, not a narrated blessing
+ceremony. **Tension with Job:** the upright man's household is devastated in Job 1:13–19,
+while Job 21:9 describes the wicked living safely. The proverb's moral contrast must not
+be flattened into a diagnostic rule about every household's current condition.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh blesses the righteous habitation; tension with Job remains explicit.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Happiness frames the praise
   of wisdom's life-giving benefits.

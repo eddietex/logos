@@ -251,6 +251,8 @@ consequence. See [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Mat
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:24, 34 returns to secure dwelling and mockery, now contrasting mockers with the humble.
+
 - Proverbs 8:1–4, 17 — Wisdom's second speech, at the same gates; *"Those who seek me diligently will
   find me"*, the verbs of 1:28 without the negative.
 - Proverbs 9:1–6 — Wisdom's third speech, the feast; *ḥoḵmôt* again at 9:1.

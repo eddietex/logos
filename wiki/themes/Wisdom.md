@@ -255,7 +255,19 @@ the difference should remain visible rather than be harmonized away. See
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+### Retaining wisdom in the neighborhood — Proverbs 3:21–35
+
+The counsel of 3:21–35 joins retained wisdom and discretion to secure walking, sleep,
+and prompt dealings with a neighbor. Wisdom is neither only cosmic knowledge nor only
+self-protection: the protected person must not exploit someone else's trust (3:29).
+Glory and shame close the contrast between the wise and fools (3:35).
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Discretion protects life and takes concrete form in dealings with a neighbor.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Wisdom's worth, the tree of
   life, and God's founding of the earth.

@@ -289,6 +289,8 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:33 contrasts cursed wicked and blessed righteous homes; Job 21:7–9 explicitly observes secure wicked households.
+
 - [[Zophar's Second Speech]] — Job 20, whose *"short"* and *"for a moment"* (20:5) this chapter
   denies.
 - [[Bildad's Second Speech]] — Job 18, whose lamp, calamity, childlessness and tent are quoted here.

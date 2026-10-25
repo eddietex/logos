@@ -113,7 +113,20 @@ Job remains the wiki's explicit counterexample to that inference.
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+### A neighbor safe beside you — Proverbs 3:21–35
+
+The neighbor's security must not be exploited by a scheme against him (3:29), and strife
+must not be initiated without cause against someone who has done no harm (3:30). Refusing
+to envy or copy a violent man (3:31) addresses the attraction behind aggression. These
+commands give social content to 3:17's description of wisdom's paths as peace; they do
+not abolish legitimate grievances.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Protect the neighbor’s trust; refuse baseless disputes and violent example.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Peace characterizes wisdom's
   paths; no particular quarrel is narrated.

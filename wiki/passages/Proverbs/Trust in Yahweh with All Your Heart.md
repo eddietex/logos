@@ -251,6 +251,8 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:26 develops trust as confidence in Yahweh; 3:27–28 turns to available good owed to a neighbor.
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20 follows the admonitions with
   praise; wealth and peace remain alongside 3:11–12’s reproof.
 

@@ -124,7 +124,20 @@ teach, the son who seeks wisdom will understand. The lecture ends on the righteo
 2:20) keeping their paths and the upright dwelling in the land (2:21). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Uprightness in the neighboring household — Proverbs 3:21–35
+
+The upright receive Yahweh's friendship, and the habitation of the righteous his
+blessing (3:32–33). The preceding prohibitions make the ethical setting concrete:
+withholding due good, treachery, and groundless strife are ruled out. **Tension:** Job
+1:1, 13–19 presents uprightness together with household disaster. Prosperity alone
+cannot therefore serve as a reliable verdict on a neighbor's standing.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Friendship and blessing accompany uprightness; Job limits inference from prosperity.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *"righteousness, justice, and equity"* (*ṣedeq
   ûmišpāṭ ûmêšārîm*, 1:3) named among the things wisdom teaches — skill and goodness in one curriculum

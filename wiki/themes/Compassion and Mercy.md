@@ -131,7 +131,19 @@ guilty. Neither half should displace the other. Moses answers by asking for the 
 pardoned and taken as God's inheritance (34:8–9). The later uses in Numbers 14 and Jonah 4 are
 collected in [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
 
+### Help that must not wait — Proverbs 3:21–35
+
+The command not to withhold good or postpone available help (3:27–28) makes concern for
+another practical and timely. No emotion of pity is described; this is a thematic extension
+of mercy as action, not an assertion about Hebrew vocabulary. Compare Exodus 22:26–27's
+return of the pledged garment before night and Job 31:16–23's denial of withheld aid.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Timely help is required when the good owed is within reach.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Mercy and patience proclaimed with forgiveness and
   accountability.

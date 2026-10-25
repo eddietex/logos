@@ -217,6 +217,8 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:31 again prohibits following violence, now beginning with envy of the violent man.
+
 - Proverbs 6:20 — *"My son, keep your father's commandment, and don't forsake your mother's
   teaching."* The second line of 1:8 repeated.
 - Proverbs 16:33 — *"The lot is cast into the lap, but its every decision is from Yahweh."*

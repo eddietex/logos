@@ -84,7 +84,20 @@ Deuteronomy restates the pledge law and calls its return *"righteousness to you 
 in pledge"* (Amos 2:8). These are recorded from the WEB, fetched individually, and will be expanded
 when the books are ingested.
 
+### Due good must not be withheld — Proverbs 3:21–35
+
+Proverbs 3:27–28 prohibits withholding good owed or delaying assistance already within
+reach. The recipient is not explicitly identified as poor, so the command should not be
+restricted to almsgiving. Applying it to vulnerable people is supported by comparison
+with Exodus 22:26–27's pledged garment and Job 31:16–23's claim to have fed and clothed
+the needy. The connection is thematic, not a claim of direct quotation.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; A broad duty of timely help includes, but is not restricted to, the vulnerable.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; justice and access to food.
 

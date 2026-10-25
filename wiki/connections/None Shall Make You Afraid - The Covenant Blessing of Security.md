@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Withhold Good]] — Proverbs 3:21–26; retained wisdom, secure walking, sweet sleep,
+  and Yahweh as confidence.
+
 - **Leviticus 26:6** — *"I will give peace in the land, and you will lie down, and no one will make
   you afraid"* — *wəʾên maḥărîd*, the blessing of the covenant
 - **Job 11:19** — Zophar: *"Also you shall lie down, and no one shall make you afraid"* —
@@ -50,6 +53,19 @@ visions"* (7:4, 14). **The one who makes him afraid, in Job's account, is God.**
 answers that without seeing it: the condition for no longer being terrified is to be reconciled with
 the one doing the terrifying. That is close to true, and the whirlwind will bear it out in a form
 Zophar would not recognise.
+
+### Proverbs now in context — 3:21–35
+
+The sleep promise of 3:24 belongs to an instruction to retain wisdom and discretion
+(3:21–22), grounded in Yahweh's protection (3:26). It is followed by duties toward a
+neighbor who lives securely beside the hearer (3:27–30). Security received must not
+become security betrayed. See [[Do Not Withhold Good]].
+
+**Tension retained:** Job 7:3–4, 13–14 describes unrest and terrifying dreams in the
+life of the man introduced as upright (Job 1:1). Proverbs' promise cannot be made an
+exceptionless test of the sleeper's moral character. This addition compares the
+stored WEB wording; it does not claim that Proverbs uses the Hebrew formula discussed
+above. Source: stored WEB Proverbs 3 and Job 1, 7, checked 2026-10-25.
 
 ## Significance
 

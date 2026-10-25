@@ -263,7 +263,19 @@ See [[Better Than Gold - The Price of Wisdom]] and [[Retribution]].
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+### Available goods and immediate obligation — Proverbs 3:21–35
+
+After honoring Yahweh with possessions in 3:9, the son must give good owed to a neighbor
+when he has the ability (3:27–28). Possession entails responsibility: having the resource
+already makes the instruction to come back tomorrow blameworthy. The good is broader
+than money, and the verses do not specify only charitable gifts or only payment of debts.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Available resources must not be withheld or needlessly delayed.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Wisdom surpasses precious
   goods while holding riches as a subordinate gift.

@@ -99,7 +99,19 @@ where one's weight rests**, and the alternative named is not unbelief but one's 
 *understanding*. *Acknowledge* is *dāʿēhû*, *know him*. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Confidence when sudden fear comes — Proverbs 3:21–35
+
+Yahweh is the son's confidence and the keeper of his foot (3:25–26). This develops
+3:5–6's trust rather than making the son's discretion sufficient by itself. The warning
+about sudden fear assumes danger can be encountered. Job's account of terrifying nights
+(Job 7:3–4, 13–14) remains a counterexample to treating confidence as immunity from distress.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh grounds confidence when sudden fear threatens.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Land security during pilgrimage requires reliance on the
   promise.

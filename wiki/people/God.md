@@ -2053,6 +2053,17 @@ suffering withheld in Job. See [[By Wisdom Yahweh Founded the Earth - Proverbs 3
 
 Source: Proverbs 3:19–20 checked in the stored WEB, 2026-10-25.
 
+### Confidence, friendship, and grace — Proverbs 3:21–35
+
+Yahweh keeps the son's foot from being taken and is his confidence (3:26). He rejects
+perversity but befriends the upright, curses the wicked house but blesses the righteous
+habitation, and answers mockers with mockery while giving grace to the humble (3:32–34).
+These are the teacher's assertions about God, not a newly narrated divine speech.
+**Tension:** Job 1:1, 13–19 and 7:13–14 describe uprightness with disaster and terror;
+Job 21:9 describes wicked homes safe from fear. The promises must not be used to infer
+guilt from another person's suffering. See [[Do Not Withhold Good]] and
+[[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]]. Source: cited stored WEB passages; later citations checked through bible-api.com (2026-10-25).
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2322,6 +2333,8 @@ Source: Proverbs 3:19–20 checked in the stored WEB, 2026-10-25.
 - Proverbs 3:5–12 — Trusted with the whole heart; makes paths straight; honoured with first fruits; reproves the son he loves, *"as a father"*. See [[Trust in Yahweh with All Your Heart]].
 
 ## Appears in
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; protection, friendship, judgment, blessing, and grace.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:19–20; creator through wisdom,
   understanding, and knowledge.

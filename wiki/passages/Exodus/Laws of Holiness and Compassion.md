@@ -120,6 +120,9 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:27–28’s timely help parallels the garment returned before sunset (Exodus 22:26–27); see
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+
 - Exodus 22:1–15 — the property laws this unit follows; the torn animal of 22:13 returns as the
   torn meat of 22:31: [[Laws of Property and Restitution]].
 - Genesis 34:2, 12 — Shechem, *"the prince of the land"*, *"humbled"* Dinah and then offered *"a

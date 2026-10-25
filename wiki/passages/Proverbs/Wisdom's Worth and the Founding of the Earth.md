@@ -92,6 +92,8 @@ It does not remove either the promises in Proverbs or Job's counterexample.
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:21–35 turns the praise of wisdom’s peaceful paths into confidence and concrete duties toward a neighbor.
+
 - [[Better Than Gold - The Price of Wisdom]] — Job 28:12–19 and Proverbs 2:4–6, 3:14–15.
 - [[The Tree of Life - Eden and the New Jerusalem]] — Genesis 2:9; 3:22–24 and Proverbs 3:18;
   later uses within Proverbs at 11:30; 13:12; 15:4.

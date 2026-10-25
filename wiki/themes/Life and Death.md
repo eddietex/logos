@@ -215,7 +215,18 @@ without announcing immortality or a reopening of Eden. See
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+### Wisdom as life in daily activity — Proverbs 3:21–35
+
+Sound wisdom and discretion become life to the son (3:21–22), expressed through secure
+steps and sweet sleep (3:23–24). The language continues 3:18's life-giving wisdom without
+promising immortality or defining the soul as an independently immortal entity.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Retained wisdom gives life, secure steps, and sweet sleep.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Length of days and wisdom as
   a tree of life to those who retain her.

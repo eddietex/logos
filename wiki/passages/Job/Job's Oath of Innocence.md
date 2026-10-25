@@ -242,6 +242,9 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[Do Not Withhold Good]] — Proverbs 3:27–28 commands the timely good Job claims to have given (31:16–23); see
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+
 - [[I Will Not Put Away My Integrity]] — Job 27:2–6, the first oath, *"Until I die I will not put away
   my integrity from me"*; chapter 31 is the second and fuller.
 - [[The Months of Old]] — Job 29:12–17, the same deeds told as memory; here sworn under curse.

@@ -55,6 +55,12 @@ grounds that praise in Yahweh's founding of earth and heavens by wisdom and unde
 anticipates the fuller speech in chapter 8. See [[Wisdom's Worth and the Founding of the Earth]].
 The promises of riches and peace remain in tension with Job's righteous suffering.
 
+The next instruction makes wisdom's peaceful paths concrete: Yahweh guards the son's
+steps and sleep; the son must give due good promptly, respect a neighbor's trust, avoid
+baseless strife, and refuse to envy violence (3:21–35). Friendship, blessing, grace, and
+glory close the contrasts. See [[Do Not Withhold Good]]. Job's ruined household and
+terrified nights remain explicit counterexamples to a universal prosperity inference.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -90,7 +96,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[If You Seek Her as Silver]] — Proverbs 2:1–22
 - [x] [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12
 - [x] [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20
-- [ ] Do Not Withhold Good — Proverbs 3:21–35
+- [x] [[Do Not Withhold Good]] — Proverbs 3:21–35
 - [ ] Get Wisdom — Proverbs 4:1–9
 - [ ] The Two Paths — Proverbs 4:10–19
 - [ ] Keep Your Heart — Proverbs 4:20–27
@@ -141,6 +147,10 @@ first collection at its heading), each titled from a representative saying.
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Compassion and Mercy]] — available good must not be delayed (3:27–28).
+- [[Favor and Grace]] — grace given to the humble (3:34).
+- [[Strife and Peacemaking]] — the neighbor’s trust protected; groundless strife refused (3:29–30).
 
 - [[Creation]] — Yahweh founds earth and establishes heavens through wisdom (3:19–20).
 - [[Life and Death]] — wisdom as a tree of life to those who retain her (3:18).

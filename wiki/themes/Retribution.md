@@ -192,7 +192,22 @@ counterexample is removed.
 Source: Proverbs 3 and the cited Genesis and Job comparisons checked in the stored WEB,
 2026-10-25.
 
+### Secure sleep and the two households — Proverbs 3:21–35
+
+Proverbs 3:23–26 promises secure steps and sweet sleep; 3:32–35 distinguishes the
+upright, blessed, humble, and wise from the perverse, cursed, mocking, and foolish.
+**Contradiction if universalized:** Job 1:1, 13–19 and 7:3–4, 13–14 present uprightness
+with ruined household and terrified nights, while Job 21:7–9 presents secure wicked
+households. These sources must remain side by side. Reading Proverbs as instruction
+about the course to choose, rather than a complete description of every present outcome,
+is an interpretation, not a qualification explicitly supplied by Proverbs 3:33 itself.
+
+See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
+The discussion added here makes no claim about exact source-language forms.
+
 ## Key passages
+
+- [[Do Not Withhold Good]] — Proverbs 3:21–35; Security and household blessing are promised; Job supplies explicit counterexamples.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Wisdom's promised riches and
   peace held against Job's innocent losses.
