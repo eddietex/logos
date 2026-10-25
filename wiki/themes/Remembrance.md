@@ -175,7 +175,17 @@ then (34:18). Covenant renewal does not replace that earlier rescue with a diffe
 event. Its memory is given a recurring practice, although the unit does not narrate the feast
 being held. See [[The Covenant Renewed]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 30:16 calls the census money a memorial before Yahweh; 38:25–28 specifies the silver’s use in
+sockets and pillar fittings. Reading these together gives the memorial a material destination.
+Chapter 38 does not restate the memorial language or assign a symbolic meaning to each socket.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The earlier memorial payment has a specified material use.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The calendar retains the departure from Egypt after the breach.
 

@@ -117,7 +117,18 @@ character can accept it without consequence.
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The material count is made under Moses’ command through Ithamar, and the silver’s amount and uses
+are stated (38:21, 25–28). This can be read as accountable stewardship. The chapter does not accuse
+anyone of theft, narrate an independent audit, or use a moral verdict that this page may silently
+substitute for the inventory.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Accountable material use; no allegation of misuse or independent audit.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; against the crowd and the bribe.
 

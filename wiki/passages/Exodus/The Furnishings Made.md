@@ -130,6 +130,8 @@ WEB text, Exodus 37:1–29, copied from the stored source.
 
 ## Cross-references
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
+
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:10–40; the first three furnishings
   commanded. See [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]] and
   [[As God Commanded, So He Did - The Obedience Formula]].
@@ -228,3 +230,13 @@ were checked in the same stored source: Exodus 20:4–5; 25:8–40; 30:1–10, 2
 32:1–8; 35:1–36:8; 38:1; and 40:1–35. Later canonical interpretations are linked through
 existing connection pages with their own source notes; this pass adds no quotation from an
 unstored book or assertion about exact Hebrew or Greek wording. Raw text is unchanged.
+
+### The outer equipment and inventory — Exodus 38
+
+The following unit makes the altar of burnt offering, basin, and court before supplying the material
+inventory (38:1–31). Its gold total of 29 talents and 730 shekels (38:24) concerns the sanctuary
+work, unlike the one talent assigned to the lampstand and its vessels in 37:24. The total does not
+itemize the gold weight of every furnishing.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
+2026-10-25.

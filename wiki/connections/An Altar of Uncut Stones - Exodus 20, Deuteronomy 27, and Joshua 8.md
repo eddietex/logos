@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Crafted altar made; no earth filling stated (38:1–7).
+
 - **Exodus 20:24–26** — an altar of earth, or of stones that no tool has touched, and no steps —
   [[The Altar and the Hebrew Slave]]
 - **Deuteronomy 27:5–7** — the altar to be built on Mount Ebal after the crossing of the Jordan
@@ -48,6 +50,17 @@ metal covering, horns, grating, and carrying poles. The instruction for hollow p
 does not state an earth filling. Such a filling may be proposed to reconcile the altar with
 20:24, but is not supplied by this text. The distinct prescriptions remain in view without
 treating either as a mistaken summary of the other.
+
+### The outer equipment and inventory — Exodus 38
+
+The altar prescribed in Exodus 27 is now made: acacia planks, brass overlay, integral horns,
+grating, utensils, and poles (38:1–7). The account again calls it hollow without stating an earth
+filling. Manufacture therefore confirms the crafted altar alongside the earth-or-uncut-stone
+provision of 20:24–25; it does not explicitly reconcile them. Distinct sanctuary and local settings
+remain a contextual explanation, not an express distinction supplied in chapter 38.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

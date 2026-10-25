@@ -35,7 +35,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
-| [[Enough for the Work - Manna and the Sanctuary Offering]] | contrast | Exodus 16:16–30 · Exodus 36:3–7 |
+| [[Enough for the Work - Manna and the Sanctuary Offering]] | contrast | Exodus 16:16–30 · Exodus 36:3–7 · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
@@ -77,7 +77,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Hagar and Sarah in Galatians]] | allegory | Genesis 16:1–16 · Genesis 21:1–14 · Isaiah 54:1 · Romans 9:6–9 · Galatians 4:21–31 |
-| [[The Half Shekel - Census, Ransom, and the Temple Tax]] | thread | Exodus 30:11–16 · Exodus 38:25–28 · Numbers 1:2–3 · 2 Samuel 24:1–2, 10, 15 · Matthew 17:24–27 |
+| [[The Half Shekel - Census, Ransom, and the Temple Tax]] | thread | Exodus 30:11–16 · Exodus 38:25–28 · Numbers 1:2–3 · 2 Samuel 24:1–2, 10, 15 · Matthew 17:24–27 · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
 | [[Hands on the Head - The First Blessing by Touch]] | thread | Genesis 27:21–27 · Genesis 48:13–18 · Leviticus 1:4; 16:21 · Numbers 8:10; 27:18–23 · Deuteronomy 34:9 · Mark 10:16 · Acts 6:6; 13:3 · 1 Timothy 4:14 · Hebrews 6:2 |
 | [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]] | thread | Genesis 40:19, 22 · Numbers 25:4 · Deuteronomy 21:22–23 · Joshua 8:29 · Joshua 10:26–27 · 2 Samuel 21:9–13 · Esther 7:9–10 · John 19:31 · Acts 5:30 · Galatians 3:13 · 1 Peter 2:24 |
 | [[He Pours Contempt on Princes - Job 12.21-24 and Psalm 107.40]] | quotation | Job 12:17–25 · Psalm 107:40–42 · Job 22:19, 29 · Job 5:11–16 · Deuteronomy 28:28–29 · 1 Samuel 2:6–8 · Isaiah 40:23–24; 44:25 · Daniel 2:21 · Luke 1:51–53 · 1 Corinthians 1:19–20 · Genesis 1:2 |

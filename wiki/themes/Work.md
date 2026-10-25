@@ -170,7 +170,18 @@ are not the same act.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Making the altar and court includes woodwork, casting, metal overlay, and embroidery (38:1–20). The
+inventory also names Ithamar’s accounting and Oholiab’s skills (38:21–23). Shared work includes
+managing materials as well as making objects; the women’s mirrors supply the basin, though their own
+ministry is not described.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Craft, women’s contributions, and material accounting serve the sanctuary.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Metalwork, woodwork, and perfumery produce the furnishings.
 

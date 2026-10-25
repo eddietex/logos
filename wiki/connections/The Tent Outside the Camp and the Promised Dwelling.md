@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Women’s ministry at a meeting-tent door raises an unresolved setting question (38:8).
+
 - [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
@@ -61,6 +63,18 @@ encounters in 33:7–11. This strengthens the distinction of narrative stages wi
 the historical relationship between the two tent descriptions.
 
 Source: the cited verses checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+Exodus 38:8 identifies the basin’s mirrors with women ministering at the Tent of Meeting’s door. The
+reference occurs before the final erection in 40:17, while 33:7–11 already describes a tent used for
+meeting. Service at the earlier tent is a possible reading; a retrospective designation of the women
+is another. Chapter 38 does not explicitly identify the tent with the outside tent or supply a
+chronology for their ministry. This reference should therefore not silently be turned into evidence
+that the completed sanctuary was operating before its erection.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

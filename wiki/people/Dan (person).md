@@ -84,6 +84,13 @@ The shared work brings the two named tribal affiliations, Judah and Dan, into on
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The tribe named for Dan identifies Oholiab in 38:23, alongside Bezalel’s Judahite ancestry. This is
+a notice about the later tribe, not an action of the patriarch or a reference to the city of Dan.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -101,6 +108,8 @@ See [[Bezalel's Workmen and the Surplus]].
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Tribal ancestor named in Oholiab’s identification (38:23).
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Tribal ancestry of Oholiab repeated;
   the patriarch is not an actor.

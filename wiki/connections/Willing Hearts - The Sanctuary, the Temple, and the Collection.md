@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Contributions reach objects and totals; census silver remains a fixed payment.
+
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; willing gifts reach a reported surplus
   and are stopped.
 
@@ -56,6 +58,17 @@ comparisons above remain parallels, not identified quotations of this surplus ac
 
 Source: Exodus 36:3–7 checked in local raw WEB, 2026-10-24. The previously verified later
 comparisons are unchanged.
+
+### The outer equipment and inventory — Exodus 38
+
+Exodus 38:24–29 counts gold, census silver, and brass. The source of the basin’s material is
+specifically the ministering women’s mirrors (38:8). This gives material outcomes to the earlier
+contributions without making every payment voluntary: 38:25–26 gives the fixed half-shekel census
+rate. Chapter 35 also mentioned voluntary silver (35:24), but the inventory does not separately
+explain its relation to that total. The differing modes of giving remain explicit.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

@@ -11,8 +11,7 @@ The son of [[Ahisamach]], of the tribe named for [[Dan (person)]], appointed by 
 [[Bezalel]] to make the sanctuary and its equipment (Exodus 31:6–11). The naming of a second worker
 and the wider wise-hearted company prevents treating the work as Bezalel's alone. Chapter 31 gives
 no separate list of Oholiab's special skills. Exodus 35:34–35 now adds teaching and skilled
-making; 38:23 describes his engraving and embroidery (local WEB; that later unit is not yet
-ingested).
+making; 38:23 now describes his engraving and embroidery in [[The Altar, the Basin, the Court, and the Inventory]].
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
@@ -43,6 +42,15 @@ and individual narrative credit must both be retained.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The inventory names him beside Bezalel as Ahisamach’s son of Dan, describing engraving, skilled
+workmanship, and embroidery in blue, purple, scarlet, and linen (38:23). His specified abilities
+enlarge the credit without assigning him a particular court hanging or reducing the wider workforce
+to two men.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
@@ -52,6 +60,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
   skilled work; summoned with the company.
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named beside Bezalel, with engraving and embroidery skills (38:23).
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Contextual colleague; no particular furnishing assigned to him here.
 

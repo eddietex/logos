@@ -141,7 +141,18 @@ The wider congregation supplies the materials; making or donating them does not 
 
 See [[The Freewill Offering]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Ithamar, identified as Aaron the priest’s son, is named in the count for the Levites’ service
+(38:21). The basin is made from the ministering women’s mirrors (38:8). Their ministry is affirmed
+without defined duties or an assignment of Aaron’s priestly office. Accounting, making,
+contribution, and ritual service should not be collapsed into one role.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Ithamar accounts; Aaron is named; the women’s ministry is not defined as priesthood.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Aaron and his sons remain recipients of the commissioned garments after the calf.
 

@@ -215,7 +215,18 @@ to the incense altar.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The altar of burnt offering is made with horns, utensils, grating, and carrying poles (38:1–7). No
+offering is burned on it here. Gold and brass are counted as contributed metal, while the silver is
+explicitly tied to the half-shekel census levy (38:24–29). The altar law’s earth-or-stone provision
+(20:24–25) and this crafted altar remain distinct; no earth filling is stated.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Altar made; contributed metals distinguished from the fixed census payment.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Table vessels, incense altar, and incense prepare for later service.
 

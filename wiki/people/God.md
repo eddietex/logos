@@ -1963,6 +1963,14 @@ the indwelling glory. Human workmanship serves the prior promise; it does not co
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Yahweh is named as the source of what Bezalel made at Moses’ instruction (38:22). This is
+retrospective credit for commanded work, not a new divine speech or appearance. The arrival of the
+glory remains in 40:34–35.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2221,6 +2229,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
   sanctuary; his command defines the work.
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; His commands define the credited work (38:22).
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Earlier commands enacted; no new divine speech or appearance in this unit.
 

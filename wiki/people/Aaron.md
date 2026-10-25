@@ -248,6 +248,14 @@ it remains neither a new pardon scene nor an account of ordination or priestly a
 
 See [[The Freewill Offering]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 38:21 identifies Ithamar as Aaron the priest’s son in the accounting notice. Aaron is named
+but assigned no new action in this unit. The basin is made in 38:8 for the washing earlier
+prescribed for him and his sons (30:18–21); its use is reported later in 40:30–32.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -299,6 +307,8 @@ See [[The Freewill Offering]].
 - Exodus 32 — Makes the calf, proclaims a feast, and gives an account contradicted by the narrator (32:1–6, 21–25, 35). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named as Ithamar’s father and priest (38:21).
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Still named as priest in the public garment commission after the calf.
 

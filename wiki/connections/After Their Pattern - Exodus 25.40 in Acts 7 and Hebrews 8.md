@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Altar and court design enacted; basin’s mirror source added.
+
 - [[The Furnishings Made]] — Exodus 37:1–29; The furnishings implement the design without explaining the mountain showing.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
@@ -113,6 +115,17 @@ in Hebrews therefore remains an interpretation at its own point in the canon, no
 newly stated by the manufacture report.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+Exodus 38:1–7 and 9–20 closely enact the altar and court design of 27:1–19. The basin’s making in
+38:8 answers 30:18 and adds the mirror source. Verse 38:22 expressly credits compliance with what
+Yahweh commanded Moses. None of these statements describes the mountain showing or says the workers
+saw a heavenly prototype. The later canonical interpretation remains distinct from this
+manufacturing report.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

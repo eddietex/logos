@@ -129,6 +129,8 @@ WEB text, Exodus 36:8–38, copied from the stored source.
 
 ## Cross-references
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
+
 - [[The Furnishings Made]] — Exodus 37:1–29; The furnishing report follows the enclosure and names Bezalel at 37:1.
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; the corresponding instructions.
@@ -212,3 +214,13 @@ Comparisons were checked in that same stored source: Exodus 20:4–5; 25:10–40
 32:4–8; 34:29; 35:10–19, 25–35; 36:1–7; 37:1; and 40:17–35. Existing connections retain
 their source notes for later biblical interpretation; this pass adds no quotation from an
 unstored book and no assertion about exact Hebrew or Greek wording. Raw text is unchanged.
+
+### The outer equipment and inventory — Exodus 38
+
+The hundred silver sockets of the inventory (38:27) correspond to the 96 under the boards and four
+under the veil (36:24–30, 36). The tent entrance and court sockets are brass. This explains the
+material count without making every support silver; final erection remains a separate stage in
+chapter 40.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
+2026-10-25.

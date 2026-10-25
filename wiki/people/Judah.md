@@ -248,6 +248,13 @@ or assign him a share of Bezalel's personal work.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The tribe named for Judah identifies Bezalel in 38:22. The patriarch is not present or acting; his
+name locates the craftsman’s ancestry, alongside Oholiab’s identification with Dan.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -279,6 +286,8 @@ See [[Bezalel's Workmen and the Surplus]].
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Tribal ancestor named in Bezalel’s identification (38:22).
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Tribal ancestry of Bezalel repeated;
   the patriarch is not an actor.

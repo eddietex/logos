@@ -14863,3 +14863,66 @@ wording was introduced. Existing raw text was not changed, and no later book was
 book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
 skill instructions, harness, and controller files are unchanged. No operational blocker remains;
 the interpretive limits described above remain explicitly unresolved in the relevant pages.
+
+## [2026-10-25] ingest | Exodus 38.1-31 — The Altar, the Basin, the Court, and the Inventory
+
+Ingested [[The Altar, the Basin, the Court, and the Inventory]] in one unattended invocation,
+retaining the planned 38:1–31 boundary. Exodus is now **50 / 53** pericopes ingested and remains
+in progress. The passage includes the full WEB text, summary, and discussion of the altar,
+basin, court, responsible workers, and metal inventory. Only this queue box was checked.
+
+### Decisions and tensions
+
+- Created [[Ministering Women (of Moses' time)]] for the identifiable collective in 38:8.
+  Their mirrors supply the basin; their duties, personal names, and relationship to the
+  spinners of chapter 35 are not supplied. No priestly appointment, rejection of vanity,
+  or identification with later sanctuary women is inferred.
+- Created [[The Basin Made and Used - Exodus 30, 38, and 40]] to distinguish prescription,
+  manufacture, and actual washing. Moses is named among those washing in 40:31, whereas
+  30:19 names Aaron and his sons. Chapter 40 was checked but not ingested.
+- Revised Ithamar from an anticipated inventory role to the responsibility now narrated.
+  Preserved Bezalel's credit alongside Oholiab and the wider company. Ancestral and tribal
+  names receive qualified backlinks without invented actions; Hur's identity remains open.
+- Kept the continuing camp under [[Horeb]]. The women's meeting-tent designation does not
+  establish that the final sanctuary was operating before 40:17. The possible relation to
+  the earlier outside tent is recorded as unresolved on the passage and connection pages.
+- Compared the altar and court against chapter 27 and the basin against chapter 30. Kept
+  the crafted altar beside the earth-or-stone provision of 20:24–25 without inventing an
+  earth filling. English brass/bronze labels do not establish alloy or Hebrew distinctions.
+- Checked the census arithmetic: 603,550 half-shekels yield 301,775 shekels; comparison with
+  100 talents plus 1,775 shekels implies 3,000 shekels per talent within this account.
+  No modern weight or independent historical validation of the census is claimed.
+- Distinguished census silver from willing contributions. Exodus 35:24 also names voluntary
+  silver, while 38:25 identifies the counted silver as census silver; their precise relation
+  is not separately explained. The brass-use list omits the basin despite its making in
+  38:8. Its mirror source may explain separate treatment, but no weight or explicit exclusion
+  from the total is supplied. The surplus's quantity and disposal remain unstated.
+- Updated nine existing connections and seven earlier passages. Retired affected notices
+  that chapter 38 was still un-ingested. No boundary change, title collision, category-range
+  change, schema change, or harness compatibility change was needed.
+
+### Sources and verification
+
+All thirty-one WEB verses were copied mechanically from `raw/bible/Exodus.md` and verified
+for exact equality. New comparisons use stored Exodus text, especially 20:24–26; chapters
+26–27; 30:11–21; 33:7–11; 35–38; and 40. No new quotation from an unstored book or assertion
+about exact Hebrew/Greek wording was introduced. Existing later-source comparisons retain
+their source notes and qualifications. Existing raw texts were unchanged; no book was fetched.
+The fetch script's refusal to overwrite the already-present Exodus file required no recovery.
+
+### Pages created or revised
+
+- **Created (3):** one passage, one collective person, and one connection.
+- **Existing content pages revised (45):** Exodus; seven earlier passages; twelve people;
+  one place; fifteen themes; nine connections.
+- **Bookkeeping revised (11):** top-level and book indexes; three people subindexes;
+  places and themes indexes; three connections subindexes; this log.
+- **Totals by frontmatter type:** 141 passages, 177 people, 90 places, 82 themes,
+  377 connections; 3 books started, 2 complete. Every category page has exactly one index
+  row. Subindex sorting and filing ranges pass. New titles are unique and all listed
+  people, place, and themes link back to the passage.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. No operational blocker remains;
+the interpretive limits above are explicitly preserved on the relevant pages.

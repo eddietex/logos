@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Outer equipment and material accounting precede service and filling.
+
 - [[The Furnishings Made]] — Exodus 37:1–29; Furnishings prepare the dwelling before installation and filling.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
@@ -123,6 +125,17 @@ narrative after the calf thus continues toward the promised dwelling without rep
 craftsmanship as a way to compel God's presence.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+The outer altar, basin, and court now equip the approach to the dwelling (38:1–20). Their material
+account (38:21–31) follows the work without narrating the arrival of glory. Exodus 40:29–35
+separately describes offerings, washing, raising the court, and filling. Costly materials and
+faithful making prepare the sanctuary; this account does not present their cost as buying divine
+presence.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

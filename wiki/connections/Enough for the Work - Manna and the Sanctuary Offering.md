@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Inventory gives totals and uses without weighing or disposing of the surplus.
+
 - [[Manna and Quail]] — Exodus 16:16–30; daily need, gathering, and Sabbath provision.
 - [[Bezalel's Workmen and the Surplus]] — Exodus 36:3–7; repeated gifts, sufficient supply, and the
   end of collection.
@@ -31,6 +33,17 @@ quotation, an identical source-language formula, or a single rule against all ma
 
 **Sources:** Exodus 16:16–30 and 36:3–7 read in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 The comparison is paraphrased; no later book or source-language claim is needed.
+
+### The outer equipment and inventory — Exodus 38
+
+The sufficiency report of 36:7 is followed by material totals and specified uses in 38:24–31. The
+account gives no separate weight or disposal of the excess. Nor is every brass item named in its
+final list: the basin made from mirrors in 38:8 is omitted from 38:30–31. Its separate source could
+explain the treatment, but the text does not say whether it is excluded from the brass total. The
+inventory supports accountability without answering every question about the surplus.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

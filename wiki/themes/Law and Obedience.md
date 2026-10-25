@@ -238,7 +238,18 @@ reconstruction should not be supplied as fact.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 38:22 credits Bezalel with all that Yahweh commanded Moses. The altar and court correspond
+closely to 27:1–19; the basin fulfils the making instruction in 30:18, while adding the source of
+its metal. The report does not erase differing descriptions or narrate the washing and sacrifices
+here.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Specifications enacted; omitted use directions and the pole-sequence question retained.
 

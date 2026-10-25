@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Explicit credit for commanded work (38:22), before final erection.
+
 - [[The Furnishings Made]] — Exodus 37:1–29; Dimensions, materials, and forms enacted; use and completion distinguished.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
@@ -131,6 +133,17 @@ cannot be established from these WEB statements alone. This comparison extends t
 motif without asserting the presence of a particular Hebrew formula in chapter 37.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+Exodus 38:22 credits Bezalel with making all that Yahweh commanded Moses. This extends the obedience
+motif through an explicit WEB statement, without claiming here that its Hebrew wording is identical
+to the formula analyzed above. The altar and court’s correspondence to chapter 27 supplies detail,
+while the basin’s mirror source in 38:8 supplies new information. The summary credit does not turn
+the inventory into the final erection or the blessing of the finished work in chapters 39–40.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

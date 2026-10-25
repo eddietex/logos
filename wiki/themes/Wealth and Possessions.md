@@ -209,7 +209,18 @@ of the surplus is given. Costly material serves the commissioned work without pu
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Gold totals 29 talents and 730 shekels; census silver 100 talents and 1,775 shekels; brass 70
+talents and 2,400 shekels (38:24–29). The silver is traced into sockets and fittings, and the brass
+into named equipment. The basin’s mirrors have a stated provenance, unlike many other objects. The
+metal-use list omits the basin, and no weight for it or disposition of the surplus is given.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Metals counted and allocated; mirrors traced; surplus and basin weight unstated.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; A talent specified for the lampstand and its vessels, not all the gold.
 

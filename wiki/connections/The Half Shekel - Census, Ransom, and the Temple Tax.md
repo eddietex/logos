@@ -7,12 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Census rate, arithmetic, sockets, and fittings (38:25–28).
+
 - **Exodus 30:11–16** — at a census each man pays *"a ransom for his soul to Yahweh … that there be
   no plague among them"*: half a shekel, the same for rich and poor, *"atonement money"* for *"the
   service of the Tent of Meeting"* ([[The Incense Altar, the Ransom, and the Holy Oil]])
 - **Exodus 38:25–28** — *"a beka a head, that is, half a shekel"* from 603,550 men; the silver cast
-  into the sockets of the sanctuary and the veil, and the hooks and fillets of the pillars (local
-  WEB; not yet ingested)
+  into the sockets of the sanctuary and the veil, and the hooks and fillets of the pillars ([[The Altar, the Basin, the Court, and the Inventory]])
 - **Numbers 1:2–3** — *"Take a census of all the congregation … from twenty years old and upward,
   all who are able to go out to war in Israel"*
 - **2 Samuel 24:1–2, 10, 15** — David orders Joab to *"count the people, that I may know the sum of
@@ -47,6 +48,22 @@ checked in this pass; the identification is common but is reported here, not ver
 — kings take tribute *"from strangers"*, *"therefore the children are exempt"* (17:25–26) — treats
 him and Peter as sons of the house. He pays anyway, *"lest we cause them to stumble"*, with one coin
 *"for me and you"* (17:27).
+
+### The outer equipment and inventory — Exodus 38
+
+The inventory now supplies both the rate and the allocation: 603,550 men at half a shekel give
+301,775 shekels, stated as 100 talents and 1,775 shekels (38:25–26). This implies 3,000 shekels per
+talent within the account. The hundred talents become a hundred sockets, and the balance becomes
+hooks, capitals’ overlay, and fillets (38:27–28). This calculation checks the narrative’s arithmetic
+without supplying modern weights or independently verifying the census historically.
+
+Exodus 35:24 also mentions voluntary silver gifts, whereas 38:25 expressly identifies its silver
+total with those counted. The inventory does not separately reconcile the voluntary silver with the
+census total. The fixed payment of 30:11–16 and the willing gifts of chapter 35 must both be
+retained.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

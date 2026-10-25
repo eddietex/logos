@@ -234,7 +234,17 @@ intercession occurs in the unit. The objects do not themselves constitute a narr
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The accounting proceeds at Moses’ command, and Bezalel’s work fulfils what Yahweh commanded Moses
+(38:21–22). Moses connects the received instruction to organized work and its account. No new
+intercession or speech is narrated here.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Moses’ received commands and administrative direction organize shared service.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The promised meeting place prepared; no encounter or intercession narrated.
 

@@ -30,7 +30,7 @@ and materials; skilled women spin yarn and goats' hair with their hands; rulers 
 spice, and oil. The closing sentence joins voluntary giving to the work Yahweh commanded through
 Moses. The story has moved from materials requested on the mountain to materials actually
 contributed by the people. Their named craft leaders and the surplus follow in
-[[Bezalel's Workmen and the Surplus]] .
+[[Bezalel's Workmen and the Surplus]].
 
 ## Key verses
 
@@ -128,6 +128,8 @@ WEB text, Exodus 35:1–29, copied from the stored source.
 
 ## Cross-references
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
+
 - [[The Furnishings Made]] — Exodus 37:1–29; The supplied gold, wood, spice, and oil become furnishings and compounds.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The supplied textiles and other materials become the enclosure components.
@@ -203,3 +205,13 @@ of the underlying material. No Hebrew or Greek wording claim is made in this pas
 `translation=web` on 2026-10-24; both responses identify World English Bible. The web reader
 could not open the API URLs, but direct HTTPS retrieval succeeded. Those books remain
 un-ingested; their verified comparisons are paraphrased in the connection page.
+
+### The outer equipment and inventory — Exodus 38
+
+The making and inventory now identify the women’s mirrors as the source for the basin (38:8) and
+total the metals (38:24–29). The women are not explicitly identified with the spinners of 35:25–26.
+Voluntary silver in 35:24 and the census silver of 38:25–26 remain distinct descriptions; no
+separate reconciliation of the two amounts is supplied.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
+2026-10-25.

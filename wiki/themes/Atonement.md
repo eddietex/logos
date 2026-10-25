@@ -80,7 +80,18 @@ ritual and canonical readings of the mercy seat remain distinct from its making.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The silver from the half-shekel census payment becomes a hundred sockets and the pillars’ fittings
+(38:25–28). Its description as atonement money comes from 30:15–16, not a new ritual explanation in
+chapter 38. The account shows a commanded payment used for sanctuary service; it does not make
+freely donated wealth a general purchase of forgiveness.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The silver prescribed as atonement money becomes sockets and fittings.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Mercy seat and incense-altar horns made; no atonement rite performed.
 

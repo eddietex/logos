@@ -161,7 +161,18 @@ an account of God filling it.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The outer altar, basin, and court are now made and materials accounted for (38:1–31). The reference
+to ministering women at the Tent of Meeting (38:8) does not by itself date the final sanctuary’s
+erection. Exodus 33:7–11 already describes a meeting tent; 40:17, 34–35 separately narrates erection
+and filling. The relationship is not expressly resolved here.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Outer equipment and court made; erection and filling remain distinct.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Furniture made; installation, service, and filling remain distinct.
 

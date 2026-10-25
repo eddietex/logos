@@ -190,7 +190,18 @@ instructions to anoint in 40:9–15 remain a later stage.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The court’s hangings and gate give material form to bounded approach, and the basin prepares for the
+washing commanded in 30:18–21. Chapter 38 reports manufacture, not anointing or the priests’ actual
+washing. Neither the women’s ministry at the door nor their provision of mirrors is identified as
+priestly ordination.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Court and basin prepare bounded, washed approach without an ordination rite.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Holy oil and pure incense made; their preparation is not an anointing rite.
 

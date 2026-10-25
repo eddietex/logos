@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Bezalel and Oholiab credited; Ithamar’s accounting distinguished (38:21–23).
+
 - [[The Furnishings Made]] — Exodus 37:1–29; Bezalel named for the ark; the shared commission remains context.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
@@ -17,8 +19,8 @@ tags: [connection]
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–11; appointment and commission.
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; public announcement,
   teaching, summons, and surplus now narrated in an ingested passage.
-- Exodus 38:22–23 — Bezalel's completion credited and Oholiab's skills described; verified local
-  WEB, not yet ingested.
+- Exodus 38:22–23 — Bezalel’s work credited and Oholiab’s skills described; see
+  [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Analysis
 
@@ -47,8 +49,7 @@ without limit. This is a literary and practical connection, not a claim that the
 sanctuary with the six days of creation in every detail.
 
 **Sources:** Exodus 28:3; 31:1–18; 35:1–3, 30–35; 36:1–7; 38:22–23 read in `raw/bible/Exodus.md`.
-Exodus 35:1–37:29 is now ingested; chapter 38 remains ahead. The later comparisons do not
-advance their queue boxes.
+Exodus 35:1–38:31 is now ingested; comparisons with later units do not advance their queue boxes.
 
 ### The offering now brought — Exodus 35:1–29
 
@@ -77,8 +78,8 @@ The commission now issues in detailed manufacture of curtains, supports, veil, a
 Exodus 36:8 credits the wise-hearted company collectively. The following singular descriptions
 can be read within Bezalel's leadership without treating him as the sole manufacturer; neither
 he nor Oholiab is named in 36:8–38. The public naming and teaching of 35:30–35 and the shared
-summons of 36:1–2 therefore remain necessary context. The attribution in 38:22–23 still lies
-ahead of the ingestion queue, and the manufacture here is not the final erection.
+summons of 36:1–2 therefore remain necessary context. The attribution in 38:22–23 is now reached in
+[[The Altar, the Basin, the Court, and the Inventory]]; manufacture is not the final erection.
 
 See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
 2026-10-24; later Exodus references checked in the same source.
@@ -89,9 +90,22 @@ Exodus 37:1 now names Bezalel as the ark maker. Singular descriptions carry the 
 through the remaining furnishings and the compounds (37:2–29), but do not undo the shared
 commission of 36:1–2. Oholiab is not named in this chapter; no specific metalwork or perfumery
 is assigned to him. The progression is from equipped and summoned makers to credited work,
-without an inference of unaided manufacture. The summary credit in 38:22–23 remains ahead.
+without an inference of unaided manufacture. The summary credit in 38:22–23 is now ingested in
+[[The Altar, the Basin, the Court, and the Inventory]].
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+Exodus 38:22–23 now supplies the credit toward which the appointment and making have moved.
+Bezalel’s ancestry and Judahite tribe are repeated; Oholiab is beside him, with engraving, skilled
+workmanship, and embroidery specified. The summary credit for all that Yahweh commanded Moses
+belongs with the wider company of 36:1–2, not an inference that one man worked alone. Ithamar’s
+accounting in 38:21 is a distinct responsibility. The garments and formal completion account follow
+in chapter 39.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
+checked in local raw WEB, 2026-10-25.
 
 ## Significance
 

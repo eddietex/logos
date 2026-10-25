@@ -26,12 +26,22 @@ The earlier uncertainty remains; neither a new office nor a role in the work is 
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 38:22 repeats the lineage Bezalel–Uri–Hur. It gives Hur no action and supplies no
+identification with Hur, Moses’ companion in 17:10–12 and 24:14. That possible identity remains
+unproved.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Named as the craftsman's grandfather — Exodus 31:2. See
   [[Bezalel, Oholiab, and the Sabbath Sign]].
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named as Bezalel’s grandfather; identification remains open (38:22).
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Genealogy repeated in the public
   announcement; identity with Moses’ companion remains uncertain.

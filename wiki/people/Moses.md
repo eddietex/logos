@@ -554,6 +554,14 @@ The account distinguishes the transmitter of the design from the makers and from
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The inventory is counted according to his command (38:21), and the making is measured against what
+Yahweh commanded him (38:22). Administrative responsibility and transmitted divine instruction meet
+here, without a new speech or the final erection of the tabernacle.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -680,6 +688,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
   contributions, and stops further giving.
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commands the accounting; recipient of the commands fulfilled (38:21–22).
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Contextual recipient of the design; later installer, not a named actor here.
 

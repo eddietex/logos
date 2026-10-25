@@ -11,11 +11,11 @@ tags: [person]
 
 > **23** … and she bore him Nadab and Abihu, Eleazar and Ithamar. (Exodus 6:23)
 
-**The genealogy names him and nothing else.** Later he keeps the account of the tabernacle's
-materials (Exodus 38:21) and oversees the Gershonite and Merarite Levites (Numbers 4:28, 33), and the
-priestly house of Eli is usually traced to him (from 1 Chronicles 24:3 and the history of Abiathar;
-cited from memory, not checked). These sections are written as their pericopes arrive. See
-[[The Heads of the Fathers' Houses]].
+**The genealogy names him and nothing else; Exodus 38:21 now gives him responsibility for
+the tabernacle’s material count.** See [[The Altar, the Basin, the Court, and the Inventory]]. Later he oversees
+the Gershonite and Merarite Levites (Numbers 4:28, 33), and the priestly house of Eli is usually
+traced to him (from 1 Chronicles 24:3 and the history of Abiathar; these later references remain
+unverified here). See [[The Heads of the Fathers' Houses]].
 
 ### The lamp service prescribed — Exodus 27:1–21
 
@@ -62,13 +62,22 @@ completed vesting, or ordination is reported here.
 
 See [[The Freewill Offering]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The material count is made at Moses’ command for the Levites’ service, by Ithamar’s hand (38:21).
+This is now a named responsibility, beyond his earlier inclusion among Aaron’s sons. The verse
+associates him with the accounting; it does not say he manufactured the objects or supply a separate
+account of ordination.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
 
 - Born to Aaron and [[Elisheba]], the last of four sons — Exodus 6:23,
   [[The Heads of the Fathers' Houses]]
-- *(ahead)* Keeps the tabernacle's inventory — Exodus 38:21
+- Keeps the tabernacle’s material count — Exodus 38:21; see [[The Altar, the Basin, the Court, and the Inventory]]
 
 - Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
 - Exodus 28:1–43 — Named individually for the priest's office; sons' garments prescribed. See [[The Priestly Garments]].
@@ -76,6 +85,8 @@ See [[The Freewill Offering]].
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Material accounting under Moses’ command (38:21).
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Included collectively among the sons whose garments are commissioned (35:19).
 

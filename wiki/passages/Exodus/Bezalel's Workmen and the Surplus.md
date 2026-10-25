@@ -93,6 +93,8 @@ WEB text, Exodus 35:30–36:7, copied from the stored source.
 
 ## Cross-references
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
+
 - [[The Furnishings Made]] — Exodus 37:1–29; Bezalel is now named for the ark, within the shared commission of 36:1–2.
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; The skilled company now makes the curtains, supports, veil, and screen.
@@ -157,3 +159,13 @@ its wording and punctuation. The comparisons newly developed here use the stored
 including 16:16–30; 25:1–9; 28:3; 31:1–11; 35:1–29; and 36:8. Existing connections retain their
 previously identified sources for later biblical comparisons; this pass introduces no new
 quotation from an unstored book and makes no Hebrew or Greek wording claim.
+
+### The outer equipment and inventory — Exodus 38
+
+The material count is now named under Moses’ command and Ithamar’s hand (38:21); Bezalel and Oholiab
+receive the credit and skill descriptions of 38:22–23. The inventory does not give a separate amount
+or disposition of the surplus in 36:7. Its summary of commanded work still stands within the
+company’s shared commission.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
+2026-10-25.

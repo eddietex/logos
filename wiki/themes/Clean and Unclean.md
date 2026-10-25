@@ -131,7 +131,18 @@ supplies neither a declaration of uncleanness nor a rationale. Its later placeme
 rules is compared in [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]]; neither a foreign fertility rite nor a universal
 meat-and-dairy ban should be read into this verse as its explicit explanation. See [[The Covenant Renewed]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The basin and base required for hands-and-feet washing in 30:18–21 are made from the women’s mirrors
+(38:8). Making a washing vessel is not itself a washing rite. Water placement and use by Moses,
+Aaron, and his sons appear in 40:30–32, checked in the local source but not yet ingested. See
+[[The Basin Made and Used - Exodus 30, 38, and 40]].
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Basin made from mirrors; prescribed washing and later use remain distinct.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Goat-and-milk rule repeated without a stated explanation.
 

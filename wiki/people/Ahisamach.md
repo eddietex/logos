@@ -10,7 +10,7 @@ tags: [person]
 The father of [[Oholiab]], named when his son is appointed beside [[Bezalel]] (Exodus 31:6). The
 genealogy places Oholiab in the tribe named for [[Dan (person)]]. Ahisamach is given no action,
 occupation, or speech. The patronymic recurs in the now-ingested Exodus 35:34 and again at
-38:23 (local WEB; the latter remains un-ingested).
+38:23; both are now ingested.
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
@@ -22,11 +22,20 @@ no occupation or action for the father.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 38:23 again identifies Oholiab as his son. The engraving and embroidery belong to Oholiab’s
+description, not to his father; no new biography of Ahisamach is supplied.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Named as Oholiab's father — Exodus 31:6. See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named as Oholiab’s father (38:23).
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named again as Oholiab’s father in the
   announcement of teaching capacity.

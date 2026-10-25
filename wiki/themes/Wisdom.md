@@ -136,7 +136,17 @@ training, or teaching, and does not assign all tasks exclusively to one worker.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Oholiab is described as an engraver, skillful workman, and embroiderer (38:23). The ability
+announced in 35:30–35 now appears beside the credit for work done. No training history or exclusive
+assignment of particular objects is supplied.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Oholiab’s practical skills named beside credited work (38:23).
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The previously gifted skill becomes measured objects and compounded materials.
 

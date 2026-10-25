@@ -125,6 +125,8 @@ sacrificial ritual nor the priests' ordination is carried out here.
 
 ## Cross-references
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - Exodus 20:24–26 — [[The Altar and the Hebrew Slave]] and
@@ -134,8 +136,8 @@ sacrificial ritual nor the priests' ordination is carried out here.
   supplied materials, the light's furnishing, and the distinct hangings.
 - Exodus 25:9, 40; 26:30; 27:8 — the repeated mountain design:
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
-- Exodus 38:1–7, 9–20; 40:6–8, 24–33 — construction and arrangement, read from local WEB but
-  not yet ingested: [[As God Commanded, So He Did - The Obedience Formula]].
+- Exodus 38:1–7, 9–20 — construction now ingested; 40:6–8, 24–33 — arrangement checked
+  in local WEB, not yet ingested: [[As God Commanded, So He Did - The Obedience Formula]].
 - Leviticus 24:1–4 — the closely repeated lamp rule, verified WEB but not yet ingested:
   [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
 - The service of light develops [[Seven Lamps - The Lampstand in Zechariah 4 and Revelation 1]];
@@ -213,3 +215,13 @@ the public inventory (35:16–18). Oil for light is requested and brought (35:8,
 The unit supplies materials for construction and service, not an already operating altar.
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+The altar and court of 27:1–19 are now made in 38:1–7, 9–20, with the same dimensions and principal
+materials. The making adds explicit silver overlay on court capitals (38:17, 19). It does not
+explain an earth filling for the hollow altar or narrate sacrifice; 40:29, 33 separately gives
+offering and the court’s raising.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
+2026-10-25.

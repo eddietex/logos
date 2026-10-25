@@ -201,7 +201,16 @@ tabernacle belongs to chapter 40. A sanctuary object is not a newly named geogra
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38
+
+The altar, basin, court, and accounting belong to the continuing Sinai construction setting. Exodus
+38 itself names no mountain or new journey stop. Its Tent of Meeting reference at 38:8 does not
+settle whether the women’s ministry belongs to the earlier outside tent of 33:7–11 or is described
+retrospectively. See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; continuing Sinai construction setting inferred from context.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Continuing camp setting inferred; no new place named.
 

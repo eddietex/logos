@@ -53,6 +53,11 @@ erection, placement of furniture, and indwelling glory still lie ahead.
 altar, oil, and incense. Bezalel is named for the ark; the correspondence with chapters 25
 and 30 shows the design enacted without narrating installation or service yet.
 
+[[The Altar, the Basin, the Court, and the Inventory]] (38:1–31) now supplies the altar of burnt
+offering, the basin from the ministering women’s mirrors, the court, and the inventory. Ithamar is
+named for accounting; Bezalel and Oholiab for the work. The fixed census silver and willing gifts
+remain distinct, and manufacture still precedes final erection and service.
+
 ## Structure
 
 - **1 The oppression** — the sons of Israel listed and the seventy counted, Joseph's generation
@@ -538,7 +543,7 @@ for unit.
 - [x] [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7
 - [x] [[The Tabernacle Built]] — Exodus 36:8–38
 - [x] [[The Furnishings Made]] — Exodus 37:1–29
-- [ ] The Altar, the Basin, the Court, and the Inventory — Exodus 38:1–31
+- [x] [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31
 - [ ] The Priestly Garments Made — Exodus 39:1–31
 - [ ] The Work Completed — Exodus 39:32–43
 - [ ] The Tabernacle Raised and the Glory — Exodus 40:1–38

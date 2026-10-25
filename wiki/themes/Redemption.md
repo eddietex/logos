@@ -92,7 +92,17 @@ firstborn sons. The neck-breaking alternative belongs to the donkey only. No pri
 specified here. The command follows the claim of divine ownership in 34:19, so redemption
 answers that claim rather than denying it. See [[Child Sacrifice and the Redemption of the Firstborn]]. See [[The Covenant Renewed]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The census payment prescribed as ransom in 30:12 is now counted at half a shekel for each of 603,550
+men aged twenty and upward (38:25–26). Its material destination is recorded in 38:27–28. This is a
+fixed payment, distinct from the willingness and variable gifts of 35:21–29.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Fixed half-shekel payment counted and used (38:25–28).
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The donkey has an alternative; the son must be redeemed.
 - Genesis 47:19–23 — Egypt's people *bought* for Pharaoh — [[Joseph and the Famine]]

@@ -130,6 +130,8 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
+
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The divine appointment is now publicly
   announced, with teaching added and the makers summoned.
 
@@ -155,7 +157,7 @@ mountain instructions; the following pericope will return to the people below.
   and [[The Incense Altar, the Ransom, and the Holy Oil]]: the specifications summarized in the
   makers' commission.
 - Exodus 35:30–36:7; 38:22–23 — [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]];
-  verified local WEB; only the chapter 38 unit remains un-ingested.
+  verified local WEB; both units are now ingested.
 - Exodus 8:19; 31:18 — [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]].
 - Isaiah 40:28 — the Creator does not grow weary; verified WEB, not yet ingested, held beside 31:17
   below.
@@ -249,3 +251,13 @@ inventory (35:10–19), and receives willing contributions and spun yarn (35:20�
 announcement of Bezalel and Oholiab follows in [[Bezalel's Workmen and the Surplus]].
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.
+
+### The outer equipment and inventory — Exodus 38
+
+The appointment is now followed by explicit credit for the work: Bezalel made all that Yahweh
+commanded Moses, with Oholiab beside him and his engraving and embroidery named (38:22–23). Their
+ancestry and tribes are repeated. The wider workers of 36:1–2 remain part of the story; the summary
+does not establish solitary manufacture.
+
+See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
+2026-10-25.

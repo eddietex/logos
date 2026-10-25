@@ -88,6 +88,14 @@ evaluations remain in view. **Qualification of earlier “ordination” language
 is not the performance of Aaron’s seven-day ordination rite, and Exodus 32 does not enumerate
 tribal priestly offices or explain the later land settlement. See [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]. See [[The Golden Calf]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 38:21 associates the material count with the service of the Levites and the hand of Ithamar.
+These are Levi’s later descendants, not the patriarch acting. The notice adds responsibility for
+sanctuary administration without describing all later Levitical divisions.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -111,6 +119,8 @@ tribal priestly offices or explain the later land settlement. See [[Simeon and L
 - Exodus 32 — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The Levites’ service named in the inventory (38:21); patriarch contextual only.
 
 - [[The Golden Calf]] — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29).
 

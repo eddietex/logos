@@ -46,6 +46,15 @@ without assistance.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+Exodus 38:22 credits him with making all that Yahweh commanded Moses and repeats his ancestry
+through Uri and Hur in Judah. Oholiab is explicitly with him (38:23), while 36:1–2 supplies the
+wider workforce. The summary credit is not a claim of unaided manufacture; the garments and the
+formal completion report still follow in chapter 39.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Timeline / key events
 
 - [[The Furnishings Made]] — Exodus 37:1–29; named as the ark maker; furnishings made.
@@ -58,6 +67,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
   and summoned with the wider workforce.
 
 ## Appears in
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Credited with the commanded work; ancestry repeated (38:22).
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Named ark maker; the furniture account continues under his attribution.
 

@@ -126,7 +126,17 @@ the makers without receiving their own commissioning in this unit.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The outer equipment and inventory — Exodus 38:1–31
+
+The named appointees of 31:2–6 and 35:30–35 receive credit in 38:22–23: Bezalel for the commanded
+work, Oholiab beside him with specified skills. Their fathers and tribes identify them without
+receiving separate appointments. The wider workforce in 36:1–2 remains part of the account.
+
+See [[The Altar, the Basin, the Court, and the Inventory]].
+
 ## Key passages
+
+- [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named appointments lead to credited work within a wider company.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named appointment becomes public
   summons and shared willing work.
