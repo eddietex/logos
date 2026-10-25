@@ -289,6 +289,16 @@ Exodus 20:12) in the form of a curriculum. The line recurs at 6:20. Hebrew check
 *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]] and
 [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
 
+### Teaching and commandments on the heart — Proverbs 3:1–3
+
+*"My son, don't forget my teaching; but let your heart keep my commandments"* (3:1) — *tôrāṯî …
+ûmiṣwōṯay*, the pair of Exodus 24:12's *"the law and the commands"* on the stone tablets
+(*hattôrâ wəhammiṣwâ*). Two verses later: *"Write them on the tablet of your heart"* (3:3, *lûaḥ*, the
+tablets' word). The father's teaching is not the Sinai law, but its words and its picture are Sinai's;
+Jeremiah 31:33 has God promise to write *tôrāṯî* on the heart himself. See [[Trust in Yahweh with All Your Heart]] and
+[[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
@@ -352,6 +362,7 @@ Exodus 20:12) in the form of a curriculum. The line recurs at 6:20. Hebrew check
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; A general obedience statement and seven repeated WEB notices frame completed erection.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:8; the mother's *tôrâ* and the father's *mûsār*
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–3; *tôrâ* and *miṣwâ* kept by the heart and written on its tablet
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

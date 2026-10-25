@@ -24,7 +24,11 @@ when they call too late (1:20–33). See [[Wisdom Calls in the Street]]. The fat
 answers her: one long conditional sentence — *if* you seek her as silver, *then* you will understand
 the fear of Yahweh, *for* Yahweh gives wisdom — which then names the two dangers wisdom rescues from,
 men of perverse speech and the *"strange woman"* who forgets *"the covenant of her God"*, and ends on
-the upright dwelling in the land (2:1–22). See [[If You Seek Her as Silver]].
+the upright dwelling in the land (2:1–22). See [[If You Seek Her as Silver]]. The third lecture is six
+couplets of command and reason — keep my teaching, bind kindness and truth, *"Trust in Yahweh with all
+your heart"*, fear Yahweh, honour him with first fruits — whose rewards are long life, favour, straight
+paths, health, and full barns; and then, set apart by a paragraph marker, the sixth: *"whom Yahweh
+loves, he reproves; even as a father"* (3:1–12). See [[Trust in Yahweh with All Your Heart]].
 
 It is an anthology, and its headings say so. The book names Solomon three times (1:1; 10:1;
 25:1), but it also contains *"the words of the wise"* (22:17), further *"sayings of the wise"*
@@ -78,7 +82,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Do Not Consent to Sinners]] — Proverbs 1:8–19
 - [x] [[Wisdom Calls in the Street]] — Proverbs 1:20–33
 - [x] [[If You Seek Her as Silver]] — Proverbs 2:1–22
-- [ ] Trust in Yahweh with All Your Heart — Proverbs 3:1–12
+- [x] [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12
 - [ ] Wisdom's Worth and the Founding of the Earth — Proverbs 3:13–20
 - [ ] Do Not Withhold Good — Proverbs 3:21–35
 - [ ] Get Wisdom — Proverbs 4:1–9
@@ -140,6 +144,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Marriage]] — called *"the covenant of her God"* (2:17)
 - [[Retribution]] — the ordinary run of things, stated as sentences; see the Overview on reading
   it after Job
+- [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
+- [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people
 - [[Solomon]] — named in the headings at 1:1, 10:1, and 25:1

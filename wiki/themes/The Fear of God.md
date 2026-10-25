@@ -158,6 +158,16 @@ begins; at 2:5 the search for wisdom is how one comes to understand the fear of 
 both — fear as starting point and as goal. See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Fear Yahweh, and depart from evil — Proverbs 3:7–8
+
+*"Don't be wise in your own eyes. Fear Yahweh, and depart from evil. It will be health to your
+body"* (3:7–8). *Yərāʾ ʾeṯ-YHWH wəsûr mērāʿ* is Job 1:1's description of Job (*wîrēʾ ʾĕlōhîm wəsār
+mērāʿ*) made a command, and the fear of Yahweh is set against self-assessed wisdom. The promise of
+health is stated without exception; Job, who did both, was struck with sores (Job 2:7). **Tension
+flagged, not resolved**; see [[Retribution]], [[Trust in Yahweh with All Your Heart]], and
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the motto placed at the head of Proverbs, opposed by
@@ -359,6 +369,7 @@ both — fear as starting point and as goal. See [[If You Seek Her as Silver]]. 
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will send my terror before you"*.
 - [[Wisdom Calls in the Street]] — Proverbs 1:29; not choosing the fear of Yahweh is what hating knowledge means; *yirʾâ* chosen beside *paḥad* suffered (1:26–27, 33)
 - [[If You Seek Her as Silver]] — Proverbs 2:5; the fear of Yahweh understood at the end of the search, in parallel with the knowledge of God
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7–8; Job 1:1's two verbs as a command, with health promised
 
 ## Related themes
 

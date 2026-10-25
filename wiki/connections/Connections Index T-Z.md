@@ -12,6 +12,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Table of Nations at Pentecost]] | typology | Genesis 10:1–32 · Genesis 11:1–9 · Acts 2:5–11 · Revelation 5:9 · Revelation 7:9 · Revelation 14:6 |
+| [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] | motif | Exodus 24:12; 31:18 · Deuteronomy 6:6–8 · Proverbs 3:1–3 · Proverbs 7:3 · Jeremiah 17:1 · Jeremiah 31:33 · Ezekiel 36:26 · 2 Corinthians 3:3 |
 | [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · Job 7:8, 21 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |

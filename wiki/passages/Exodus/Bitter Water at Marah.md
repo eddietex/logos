@@ -425,6 +425,8 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - Psalm 81:7 — *"I tested you at the waters of Meribah"* *(not yet ingested)*
 - Revelation 22:2 — *"The leaves of the tree were for the healing of the nations"* —
   [[The Tree of Life - Eden and the New Jerusalem]] *(not yet ingested)*
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7–8: the fear of Yahweh as *rip̄ʾûṯ*, *health*,
+  from the root of 15:26's *"Yahweh who heals you"* (*rōp̄əʾeḵā*).
 
 ## Notes
 

@@ -580,6 +580,8 @@ of the covenant name for eleven chapters**, and it is spent on the administratio
 - 1 Corinthians 6:18 · 2 Timothy 2:22 — *flee*, the verb of 39:12 turned into an imperative
 - Acts 7:9–10 — *"God was with him, and delivered him out of all his afflictions"*, Stephen's one-verse
   summary of this chapter
+- [[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]] — 39:4, 21's *favour in
+  the sight of* and *ḥeseḏ*, promised in Proverbs 3:3–4 to the son who keeps kindness and truth.
 
 ## Notes
 

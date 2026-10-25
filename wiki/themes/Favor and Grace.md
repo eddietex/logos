@@ -109,6 +109,16 @@ Moses in the plea for pardon. Grace therefore cannot be reduced to a reward for 
 established compliance, even though the renewed covenant requires obedience (34:11–27). See
 [[The Covenant Renewed]].
 
+### Favour in the sight of God and man — Proverbs 3:3–4
+
+*"Don't let kindness and truth forsake you … So you will find favor, and good understanding in the
+sight of God and man"* (3:3–4). *Find favour in the sight of* (*məṣāʾ-ḥēn … bəʿênê*) is the Genesis
+idiom — Noah (6:8), and Joseph with Potiphar and the prison keeper (39:4, 21), where *ḥeseḏ* and *ḥēn*
+stand together as here. Proverbs makes it a promise to the son who keeps kindness and truth; Samuel
+(1 Samuel 2:26) and the boy Jesus (Luke 2:52) are described as having it. See [[Trust in Yahweh with All Your Heart]] and
+[[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Personal favor becomes an appeal for presence, pardon, and
@@ -200,6 +210,7 @@ established compliance, even though the renewed covenant requires obedience (34:
   **The favour is given by God and shown by the Egyptians**, on the night their firstborn die. See
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - [[Laws of Holiness and Compassion]] — Exodus 22:27; *"for I am gracious"*, *ḥannûn*
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3–4; favour *"in the sight of God and man"*
 
 ## Related themes
 

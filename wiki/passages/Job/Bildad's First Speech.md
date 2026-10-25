@@ -262,6 +262,8 @@ fits a speech whose authority is what the fathers said rather than what Bildad s
 - Psalm 126:2 — *"our mouth was filled with laughter."*
 - Psalm 35:26; 109:29; 132:18 — enemies clothed with shame.
 - Lamentations 3:36 — *ʿāwat* again: to subvert a man in his cause, *"the Lord doesn't approve."*
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:5, *"don't lean on your own understanding"*:
+  *tiššāʿēn*, the verb of 8:15's *"He shall lean on his house"* (*yiššāʿēn*).
 
 ## Notes
 

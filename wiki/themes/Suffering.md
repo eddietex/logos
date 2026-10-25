@@ -76,6 +76,17 @@ requires only that you be standing outside it.
   to the *outcome*, not to an explanation.
 - **Revelation 21:4** — the end of the theme rather than an account of it.
 
+### Discipline in the lecture's own order — Proverbs 3:11–12
+
+Proverbs 3:11–12 is the canonical statement of suffering as discipline, and its setting is part of
+its meaning: it is the sixth of six command-and-reason pairs, and the only one whose reason is not a
+good received. After long life, favour, straight paths, health, and full barns (3:2–10), the son is
+told that *"whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights"*.
+**The lecture qualifies its own promises.** Eliphaz said the same to Job (5:17) without the father;
+Hebrews 12:5–6 quotes it to a church under pressure. See [[Trust in Yahweh with All Your Heart]] and
+[[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Wager in Heaven and the Four Messengers]] — **the wiki's one passage where the cause of a
@@ -268,6 +279,7 @@ requires only that you be standing outside it.
 - [[Bitter Water at Marah]] — Exodus 15:22–25; **thirst, and the bitterness of Egypt tasted again.** Three
   days without water, then water that is *mārîm*, the root of the lives *"made bitter"* in Egypt (1:14) and
   of the bitter herbs (12:8; WLC). The place keeps the name *Marah* after the water is made sweet
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12; discipline as a father's, placed after five promises
 
 ## Related themes
 

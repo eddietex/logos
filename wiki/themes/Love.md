@@ -117,6 +117,15 @@ extends the theme beyond household affection into God's declared character towar
 people; it makes no claim that the Hebrew term is identical to the ordinary verb for love
 discussed above. See [[The Covenant Renewed]].
 
+### Whom Yahweh loves, he reproves — Proverbs 3:12
+
+*"For whom Yahweh loves (yeʾĕhaḇ), he reproves; even as a father reproves the son in whom he
+delights"* (3:12). Love is given as the reason for correction, and the comparison is a father's
+delight in a son. This is the first time Proverbs says Yahweh loves anyone. Hebrews 12:6 and
+Revelation 3:19 (*"As many as I love, I reprove and chasten"*) carry the sentence into the New
+Testament. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Abundant loving kindness forms part of the divine proclamation.
@@ -180,6 +189,7 @@ discussed above. See [[The Covenant Renewed]].
 - [[The Ten Commandments]] — Exodus 20:6; love for God paired with commandment keeping
 - [[The Altar and the Hebrew Slave]] — Exodus 21:5; a servant's love for master, wife, and children
   keeps him in service for life
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:12; Yahweh's love given as the reason for his reproof
 
 ## Related themes
 

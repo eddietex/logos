@@ -230,6 +230,15 @@ strange woman (2:12–19). See [[If You Seek Her as Silver]] and
 [[Better Than Gold - The Price of Wisdom]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Not leaning on one's own understanding — Proverbs 3:1–12
+
+The third lecture does not name wisdom until its last verse is past (3:13). Its commands are about
+Yahweh — trust him, know him, fear him, honour him, accept his reproof — and its one warning about the
+mind is a limit: *"don't lean on your own understanding"* (3:5), *"Don't be wise in your own eyes"*
+(3:7). **The book written *"to discern the words of understanding"* (1:2) tells the son not to rest
+his weight on understanding.** The wisdom it means is the kind that knows it is not the ground. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; wisdom's vocabulary surveyed in one sentence, offered
@@ -385,6 +394,7 @@ strange woman (2:12–19). See [[If You Seek Her as Silver]] and
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–19; the first lecture — a parent's word worn as ornament, and foresight about the gang's road
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; Wisdom personified, calling in public, refused, and speaking judgment in a prophet's voice; the tension with Job 28's hidden wisdom recorded
 - [[If You Seek Her as Silver]] — Proverbs 2:1–22; sought as silver and given by Yahweh; the tension with Job 28's failed search recorded
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; trust, not one's own understanding; *"Don't be wise in your own eyes"*
 
 ## Related themes
 

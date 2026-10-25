@@ -15362,3 +15362,84 @@ Sefaria's *Miqra according to the Masorah*. Not checked, and so qualified on the
 of Psalm 37:11 behind Matthew 5:5, and any named commentary on the chapter's alphabetic structure.
 
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.
+
+## [2026-10-25] ingest | Proverbs 3.1-12 — Trust in Yahweh with All Your Heart
+
+Unattended run (`/ingest auto`, no argument). [[Proverbs]] is the only `in-progress` book; its first
+unchecked box was Proverbs 3:1–12. The raw text was already stored; no raw file was touched. The
+pericope plan was not redrawn.
+
+### The passage
+
+`wiki/passages/Proverbs/Trust in Yahweh with All Your Heart.md` reads the third lecture as six
+command-and-reason couplets (3:1–2, 3–4, 5–6, 7–8, 9–10, 11–12). The main reading is that the sixth
+couplet, set apart by a *pe* marker after 3:10 in the edition checked, qualifies the five promises
+before it (long life, favour, straight paths, health, full barns) with Yahweh's reproof of the son he
+loves. Other readings: *tôrâ*/*miṣwâ* (3:1) and *lûaḥ* (3:3) as Sinai's vocabulary; *ʾōreḵ yāmîm*
+(3:2) and *kabbēḏ ʾeṯ-YHWH* (3:9) as the fifth commandment's promise and verb; *ḥeseḏ weʾĕmeṯ* with
+*ʿāzaḇ* (3:3) as in Genesis 24:27; *tiššāʿēn* (3:5) as Bildad's *lean* (Job 8:15); 3:7 as Job 1:1's
+description made a command; *rip̄ʾûṯ* (3:8) from the root of Exodus 15:26; *hôn* and *mālēʾ* (3:9–10)
+turning round the gang's *"fill our houses with plunder"* (1:13).
+
+**Judgment calls worth reviewing:** the unit was kept at 3:1–12 despite the Masoretic *pe* after 3:10,
+because 3:11–12 keeps the couplet form and 3:13 opens a new one (a beatitude); the referent of
+*"them"* in 3:3 (kindness and truth, or the commandments) was left open; no page was made for the
+father and son (as before), or for Samuel or Jesus, who appear only in a connection's later passages.
+
+**Contradictions/tensions flagged, not resolved:** (1) Proverbs 3:7–8 (fear Yahweh and depart from evil
+→ health) against Job 1:1 and 2:7 — on the passage page, [[The Fear of God]], [[Retribution]], and
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]. (2) Proverbs 3:10 (full barns)
+against 3:11–12 and Job 1:13–17 — on the passage page, [[Retribution]], [[Wealth and Possessions]],
+and the new first-fruits connection. (3) Malachi 3:10's *"test me"* against Deuteronomy 6:16's
+prohibition, with the note that the Hebrew verbs differ (*bāḥan*, *nāsâ*).
+
+**Correction to an existing page:** [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]]
+quoted Proverbs 3:11–12 as *"weary of his correction; for whom Yahweh loves, he corrects"* and Hebrews
+12:6 as *"he disciplines, and chastises every son"*. Neither matched the WEB (*"reproof … he reproves"*;
+*"he chastens, and scourges every son"*). Both are now quoted from the WEB, and the page has two new
+paragraphs: the saying's place after five promises, and the *"as a father"* / *"scourges"* difference.
+
+### Pages
+
+- **Created (4):** the passage;
+  [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] (*lûaḥ* from
+  Sinai to the heart; the son writes, sin has written, God will write);
+  [[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]] (with Joseph, Genesis
+  39:4, 21);
+  [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]]
+  (with Deuteronomy 28:8's barns and Luke 12's rich fool).
+- **Revised (29):** the book page (box checked, overview, key themes); [[God]] (section, timeline,
+  appears-in); themes [[Faith]], [[Wisdom]], [[The Fear of God]], [[Law and Obedience]],
+  [[Remembrance]], [[Favor and Grace]], [[Pride and Self-Exaltation]], [[Healing]],
+  [[Festivals and First Fruits]], [[Wealth and Possessions]], [[Suffering]], [[Love]],
+  [[Retribution]], [[Walking with God]]; connections
+  [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]],
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]],
+  [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]], and
+  [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]]; cross-references on
+  [[Bildad's First Speech]], [[Eliphaz's First Speech]], [[Job of Uz]], [[The Ten Commandments]],
+  [[Justice, Sabbaths, and Feasts]], [[Joseph in Potiphar's House]], [[A Wife for Isaac]],
+  [[Bitter Water at Marah]], and [[Do Not Consent to Sinners]].
+- **Bookkeeping:** `wiki/books/index.md` (Proverbs 5 / 43); the themes index; People Index F-M (God);
+  Connections Index D-H and T-Z (three new rows, three extended) and I-N (one extended);
+  `wiki/index.md` counts — 149 passages, 179 people, 90 places, 83 themes, 391 connections.
+
+No title collision, schema change, or harness change was needed.
+
+### Sources and verification
+
+The key verses were taken from `raw/bible/Proverbs.md`; other Proverbs (1:2, 7, 9, 13, 23; 4:22; 6:21;
+7:3; 15:8; 16:9; 21:3; 26:12; 28:26), Genesis (6:8; 24:27; 32:10; 39:4, 21; 47:29), Exodus (13:9; 15:26;
+20:12; 23:19; 24:12; 31:18; 34:6, 26), and Job (1:1, 5; 2:3, 7; 5:17–18; 8:15; 28:28) quotations were
+checked in the stored WEB. Unstored books — Deuteronomy 6:5–8, 16; 8:5; 26:2; 28:8, 1 Samuel 2:26,
+Psalm 37:5; 94:12, Isaiah 5:21; 26:3–4, Jeremiah 17:1, 5–8; 31:33, Ezekiel 36:26, Malachi 3:10, Luke
+2:40, 52; 12:16–21, Romans 12:16, 1 Corinthians 3:18, 2 Corinthians 3:3, Hebrews 12:5–8, Revelation
+3:19 — were fetched verse by verse from bible-api.com (WEB) and not stored. Hebrew of Proverbs 3:1–12;
+1:2, 9, 13, 23; 2:17; 7:3, Genesis 24:27; 39:4, 21; 47:29, Exodus 15:26; 20:12; 23:19; 24:12; 34:6, Job
+1:1; 5:17; 8:15, Deuteronomy 6:5, 16; 8:5; 28:8, 1 Samuel 2:26, Isaiah 5:21, Jeremiah 17:1; 31:33, and
+Malachi 3:10 was checked against Sefaria's *Miqra according to the Masorah*. Greek of Hebrews 12:5–6,
+Luke 2:52, and Romans 12:16 was checked against the SBLGNT (MorphGNT). Not checked, and so qualified on
+the pages: the Septuagint of Proverbs 3:4, 7, 8, and 12 (including the *"scourges"* reading behind
+Hebrews 12:6), the Greek of 2 Corinthians 3:3, and the sense of *šōr* at 3:8.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.

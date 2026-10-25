@@ -11,16 +11,16 @@ tags: [connection]
   the chastening of the Almighty. For he wounds, and binds up. He injures, and his hands make
   whole."* — [[Eliphaz's First Speech]]
 - **Proverbs 3:11–12** — *"My son, don't despise Yahweh's discipline, neither be weary of his
-  correction; for whom Yahweh loves, he corrects, even as a father reproves the son in whom he
-  delights."*
+  reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he
+  delights."* — [[Trust in Yahweh with All Your Heart]]
 - **Psalm 94:12** — *"Blessed is the man whom you discipline, Yah, and teach out of your law"*
 - **Deuteronomy 8:5** — *"as a man disciplines his son, so Yahweh your God disciplines you"*
 - **Job 33:14–30; 36:8–15** — Elihu's development of the same idea: God *"opens their ears to
   instruction"* (36:10), and *"delivers the afflicted by their affliction"* (36:15); at 33:19, *"He is
   chastened also with pain on his bed"* — [[Elihu Speaks in Anger]], [[Elihu on God's Greatness]]
-- **Hebrews 12:4–13** — Proverbs 3:11–12 quoted from the Septuagint (*"whom the Lord loves, he
-  disciplines, and chastises every son whom he receives"*), and expounded: *"It is for discipline
-  that you endure. God deals with you as with children."*
+- **Hebrews 12:4–13** — Proverbs 3:11–12 quoted in a Greek form (*"For whom the Lord loves, he
+  chastens, and scourges every son whom he receives"*, 12:6), and expounded: *"It is for discipline
+  that you endure. God deals with you as with children"* (12:7).
 - **Revelation 3:19** — *"As many as I love, I reprove and chasten"*
 - **Job 2:3** — God's own word for Job's affliction: *ḥinnām*, *without cause* — [[The Second Test]]
 
@@ -34,7 +34,7 @@ both drew on a saying already current in wisdom circles, the three verses are re
 teaching: suffering can be God's instruction, and the right response is not to refuse it.
 
 **What the three biblical uses add, and what Eliphaz's leaves out, is the father.** Proverbs grounds
-the discipline in love — *"whom Yahweh loves, he corrects, even as a father"*. Deuteronomy 8:5 makes
+the discipline in love — *"whom Yahweh loves, he reproves; even as a father"*. Deuteronomy 8:5 makes
 it a father with a son. Hebrews builds a whole argument on that clause: discipline is the proof of
 sonship, *"if you are without discipline … then you are illegitimate, and not children"* (12:8).
 **Eliphaz's version has no father and no love.** God is *ʾĕlôah* and *Šadday*; the sufferer is
@@ -78,6 +78,23 @@ used to praise Job's past ministry at Job 4:3–4 — *"you have strengthened th
 the feeble knees."* Hebrews is not alluding to Job, but its one paragraph on suffering reuses both
 images that frame Eliphaz's speech: the strengthened knees and the discipline of God.
 
+**Where Proverbs puts it (3:1–12).** In its own chapter the saying is the last of six command-and-reason
+pairs, and the only one whose reason is not a good thing received: the first five promise long life,
+favour, straight paths, health, and full barns (3:2–10), and the edition checked (Sefaria's *Miqra
+according to the Masorah*) sets a *pe* paragraph marker after 3:10, before the sixth. **Proverbs
+qualifies its own promise of full barns within two verses**: the son Yahweh loves may receive reproof
+instead. The book of Job is not needed to show that the promises of 3:1–10 have a limit; the lecture
+says so. See [[Trust in Yahweh with All Your Heart]].
+
+**"As a father" or "scourges."** The Hebrew of 3:12b is *ûḵəʾāḇ ʾeṯ-bēn yirṣeh*, *and as a father the son
+in whom he delights*. Hebrews 12:6 reads *μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται*, *and scourges every
+son whom he receives* (SBLGNT). The usual explanation is that the Greek translator read the consonants
+*wkʾb* as a verb, *and he causes pain*, from *kāʾaḇ*; this is reported and was not checked against a
+Septuagint edition. Either way the father survives in Hebrews' exposition — *"what son is there whom
+his father doesn't discipline?"* (12:7) — even where the quotation lost him. And Hebrews opens the
+quotation by saying its readers *"have forgotten the exhortation"* (12:5, *ἐκλέλησθε*), where the
+Proverbs lecture had opened *"don't forget my teaching"* (3:1, *ʾal-tiškāḥ*).
+
 ## Significance
 
 - The saying is one of the few places where Job's friends voice something the rest of Scripture
@@ -88,3 +105,8 @@ images that frame Eliphaz's speech: the strengthened knees and the discipline of
 - It is a caution for pastoral use. Hebrews 12 is a text for people who can say, as its audience
   could, that they are being trained. Job 5:17, said to a man who could not, is the same text used
   as an accusation.
+
+**Sources (2026-10-25 revision):** Proverbs 3:11–12 and Hebrews 12:5–8 were re-quoted from the WEB
+(`raw/bible/Proverbs.md`; bible-api.com), correcting earlier wording that did not match it. Hebrew of
+Proverbs 3:11–12 and Job 5:17 checked against Sefaria's *Miqra according to the Masorah*; Greek of
+Hebrews 12:5–6 against the SBLGNT (MorphGNT).

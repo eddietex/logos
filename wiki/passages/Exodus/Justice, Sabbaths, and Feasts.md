@@ -149,6 +149,8 @@ commands for Israel's life and worship, not a report that the people have alread
   [[Creation as the Ground of the Sabbath Command]].
 - Exodus 3:21 and 23:15 — leaving Egypt supplied, then appearing before God with an offering:
   [[You Shall Not Go Empty-Handed - The Plunder of Egypt]].
+- [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]] —
+  23:19's first fruits (*rēʾšîṯ*) as Proverbs 3:9's honour of Yahweh with all one's increase.
 
 ## Notes
 

@@ -49,6 +49,15 @@ three annual male appearances receive a promise that no one will desire Israel's
 journey (34:23–24). Passover and first-fruits rules follow (34:25–26). See [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]]. See
 [[The Covenant Renewed]].
 
+### First fruits as honour — Proverbs 3:9–10
+
+*"Honor Yahweh with your substance, with the first fruits of all your increase: so your barns will
+be filled with plenty"* (3:9–10). *Rēʾšîṯ* is the first fruits of Exodus 23:19 and 34:26, and the verb
+is the fifth commandment's *kabbēḏ*, *honour*. The father widens the harvest offering to *hôn*, wealth
+of any kind, and promises Deuteronomy's blessing *"in your barns"* (Deuteronomy 28:8). See [[Trust in Yahweh with All Your Heart]] and
+[[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Calendar renewed with protected land during pilgrimage.
@@ -59,6 +68,7 @@ journey (34:23–24). Passover and first-fruits rules follow (34:25–26). See [
 - [[The Consecration of the Firstborn]] — Exodus 13:3–10.
 - [[Laws of Holiness and Compassion]] — Exodus 22:29.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:14–19.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; first fruits of all one's increase, and full barns
 
 ## Related themes
 

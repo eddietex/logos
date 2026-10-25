@@ -104,6 +104,14 @@ may walk in the way of good men"* (2:20). Psalm 1:6 and Matthew 7:13–14 give t
 classic forms (WEB, checked against bible-api.com). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Straight paths — Proverbs 3:6
+
+*"In all your ways acknowledge him, and he will make your paths straight"* (3:6). *Make straight* is
+*yəyaššēr*, from *yāšar*, the root of *the upright* (*yəšārîm*, 2:7, 21). The son walks; God straightens
+the road. Proverbs 16:9 puts the same order as a saying — *"A man's heart plans his course, but Yahweh
+directs his steps"*. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[From Adam to Noah]] — where the phrase enters the Bible, and the man it exempts from the
@@ -133,6 +141,7 @@ classic forms (WEB, checked against bible-api.com). See [[If You Seek Her as Sil
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:15–16; the path walked *with them*, the book's first road
 - [[If You Seek Her as Silver]] — Proverbs 2:8–20; the two roads, to the paths of life and to the shades
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:6; *"he will make your paths straight"*
 
 ## Related themes
 

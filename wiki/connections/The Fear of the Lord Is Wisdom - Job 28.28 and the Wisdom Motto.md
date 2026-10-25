@@ -17,6 +17,8 @@ tags: [connection]
 - **Proverbs 1:7** — *"The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom
   and instruction."* The motto at the head of Proverbs, closing its preface —
   [[The Purpose of the Proverbs]]
+- **Proverbs 3:7** — *"Don't be wise in your own eyes. Fear Yahweh, and depart from evil."* Job 1:1's
+  two verbs as a command — [[Trust in Yahweh with All Your Heart]]
 - **Proverbs 9:10** — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One
   is understanding."* The same motto closing the book's first section. Not yet ingested.
 - **Proverbs 15:33** — *"The fear of Yahweh teaches wisdom."* Not yet ingested.
@@ -75,6 +77,13 @@ other direction**: after finding every other pursuit to be vapour, it concludes 
 commandments"* (12:13), offered not as the key to the world but as what remains when the world has not
 been explained.
 
+**Proverbs 3:7 turns Job's description into a command.** *"Fear Yahweh, and depart from evil"* is
+*yərāʾ ʾeṯ-YHWH wəsûr mērāʿ*: the narrator's *wîrēʾ ʾĕlōhîm wəsār mērāʿ* (Job 1:1) in the imperative,
+with Yahweh for God, and the second half of Job 28:28 (*wəsûr mērāʿ bînâ*) folded into it. It is set
+against *"Don't be wise in your own eyes"* in the same verse: the fear of Yahweh is the alternative to
+self-assessed wisdom. Its stated result is *"health to your body"* (3:8) — the one thing Job, who did
+both, was most visibly denied (Job 2:7). The wiki records the tension on [[Retribution]].
+
 **Isaiah makes it a quality of the king.** Isaiah 11:2 gives the coming ruler *"the spirit of knowledge
 and of the fear of Yahweh"* — the fear of God not only as the starting point of a student but as an
 endowment of the Spirit, which later Christian reading attaches to Christ. Isaiah 33:6 calls it a
@@ -90,3 +99,6 @@ a book set entirely outside Israel, it appears once, at the end of the hymn, in 
 dialogue uses nowhere else. **The tradition's motto is put in God's own mouth and addressed to every
 human being**, and the human being it describes is the man the tradition's spokesmen have just spent
 twenty-five chapters condemning. See [[The Fear of God]] and [[Wisdom]].
+
+Proverbs 3:7 added 2026-10-25: checked in `raw/bible/Proverbs.md` (WEB); Hebrew of Proverbs 3:7 and
+Job 1:1 against Sefaria's *Miqra according to the Masorah*.

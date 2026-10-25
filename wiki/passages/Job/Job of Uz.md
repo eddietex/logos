@@ -177,6 +177,8 @@ territory.
 - Ezekiel 14:14, 20 — Noah, Daniel, and Job.
 - James 5:11 — *"you have heard of the perseverance of Job"*, the New Testament's only named
   reference to him.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7, *"Fear Yahweh, and depart from evil"*: 1:1's
+  description of Job (*yərēʾ … wəsār mērāʿ*) as a command, with health promised (3:8).
 
 ## Notes
 

@@ -192,6 +192,14 @@ describe their use or suggest that God had forgotten the tribes.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### Don't forget my teaching — Proverbs 3:1
+
+*"My son, don't forget my teaching"* (3:1, *ʾal-tiškāḥ*) follows directly on the strange woman who
+*"forgets the covenant of her God"* (2:17, *šāḵēḥâ*). Remembering is the son's first duty in the
+lecture, and it is kept by the heart (*yiṣṣōr libbeḵā*). Hebrews 12:5 introduces its quotation of the
+same lecture's 3:11–12 by telling its readers they *"have forgotten the exhortation"*. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The earlier memorial payment has a specified material use.
@@ -368,6 +376,7 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[The Priestly Garments]] — Exodus 28:1–43; the twelve names worn *"for a memorial before Yahweh"*.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:16; the atonement money *"a memorial for the children of Israel before Yahweh"*.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Engraved shoulder stones explicitly made as memorials for Israel.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1; *"don't forget my teaching"*, against the woman who forgot (2:17)
 
 ## Related themes
 

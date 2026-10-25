@@ -239,6 +239,18 @@ that made the bird an *"owner of a wing"* in 1:17: **the greedy man's gain owns 
 bible-api.com). Hebrew checked against Sefaria's *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]] and
 [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]].
 
+### Honouring Yahweh with wealth — Proverbs 3:9–10
+
+*"Honor Yahweh with your substance"* (3:9, *mēhôneḵā*). *Hôn*, *wealth*, is a word Proverbs uses
+often. Its first use was the gang's: *"We'll find all valuable wealth. We'll fill our houses with
+plunder"* (1:13, *kol-hôn yāqār … nəmallēʾ*). Here the same noun is given first to Yahweh, and the same
+verb, *mālēʾ*, *fill*, describes the result: *"your barns will be filled"* (3:10, *wəyimmāləʾû*). **Houses
+filled by taking, against barns filled after giving.** The promise is overflow — barns and vats (3:10) — and Jesus' rich fool, whose barns
+overflowed and who built bigger ones without being *"rich toward God"* (Luke 12:18–21), is its reverse.
+Two verses later the lecture says Yahweh may reprove the son he loves instead (3:11–12). See [[Trust in Yahweh with All Your Heart]] and
+[[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Metals counted and allocated; mirrors traced; surplus and basin weight unstated.
@@ -434,6 +446,7 @@ bible-api.com). Hebrew checked against Sefaria's *Miqra according to the Masorah
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Contributed gold, stones, yarn, and linen become priestly garments.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:13–19; plunder, one purse, and greed for gain that *"takes away the life of its owners"*
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; *hôn* given first to Yahweh, and overflowing barns
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

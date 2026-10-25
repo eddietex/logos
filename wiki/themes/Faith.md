@@ -89,6 +89,16 @@ makes the commanded journey possible without treating their presence at home as 
 security. Reading this as a summons to trust is a thematic inference from the promise and
 command, not a claim that the verse uses a Hebrew word for faith. See [[The Covenant Renewed]].
 
+### Trust with the whole heart — Proverbs 3:5–6
+
+*"Trust in Yahweh with all your heart, and don't lean on your own understanding. In all your ways
+acknowledge him, and he will make your paths straight."* *Bəḵol-libbeḵā* is the Shema's phrase
+(Deuteronomy 6:5, *"with all your heart"*), asked here of trust rather than love. *Lean*
+(*tiššāʿēn*) is the verb of Bildad's godless man who *"shall lean on his house"* (Job 8:15): **trust is
+where one's weight rests**, and the alternative named is not unbelief but one's own *bînâ*,
+*understanding*. *Acknowledge* is *dāʿēhû*, *know him*. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Land security during pilgrimage requires reliance on the
@@ -203,6 +213,7 @@ command, not a claim that the verse uses a Hebrew word for faith. See [[The Cove
   and is Habakkuk's *"the righteous will live by his faith (beʾĕmûnātô)"* (2:4; WLC). **In Exodus 17 it is
   physical**, and the steadiness is supplied by other people
 - [[Israel at Mount Sinai]] — Exodus 19:9, 19; God speaks in the assembly’s hearing to establish trust in Moses
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:5–6; trust with all the heart, not leaning on one's own understanding
 
 ## Related themes
 

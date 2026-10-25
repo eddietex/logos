@@ -254,6 +254,8 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
 - Isaiah 35:3; Hebrews 12:12 — *"strengthen the weak hands, and make firm the feeble knees"*, the
   words of 4:3–4 as a command.
 - [[I Repent in Dust and Ashes]] — Job 42:5: the ear's whisper and the undiscerned form of 4:12–16, replaced by *"now my eye sees you"*.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12, the saying of 5:17 in its own setting: a
+  father's lecture, after five promises, with *"whom Yahweh loves"* where Eliphaz has no love.
 
 ## Notes
 

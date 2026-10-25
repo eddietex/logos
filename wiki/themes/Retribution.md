@@ -168,6 +168,17 @@ of its own weight to death (2:18). See [[If You Seek Her as Silver]] and
 [[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Five promises and a reproof — Proverbs 3:1–12
+
+The lecture states the doctrine in its plainest form — keep the teaching and gain long life (3:2);
+fear Yahweh and gain health (3:7–8); honour him with first fruits and your barns will be full (3:9–10)
+— and then, after a paragraph marker in the Masoretic layout, says Yahweh reproves the son he loves
+(3:11–12). **The qualification is inside Proverbs, not only in Job.** Job, who *"feared God, and turned
+away from evil"* (Job 1:1) — the two verbs of 3:7 — was struck with sores (2:7) and lost his flocks
+(1:13–17). The wiki records both: the promises as Proverbs states them, and their limits as the next
+verses and the book of Job show them. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the preface of the book where the doctrine's classic
@@ -408,6 +419,7 @@ of its own weight to death (2:18). See [[If You Seek Her as Silver]] and
 - [[Do Not Consent to Sinners]] — Proverbs 1:17–19; the ambush turned round by repeating its own verbs; the contradiction with Job 12:6 and 24:14 recorded
 - [[Wisdom Calls in the Street]] — Proverbs 1:31–32; refusers filled with their own counsel; the tensions with Job 9:23 and Deuteronomy 4:29 recorded
 - [[If You Seek Her as Silver]] — Proverbs 2:7, 21–22; the upright shielded and kept in the land, the wicked torn out; the tension with Job 1:1 recorded
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; long life, health, and full barns promised, and reproof for the son Yahweh loves
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

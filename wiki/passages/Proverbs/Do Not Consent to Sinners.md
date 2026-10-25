@@ -243,6 +243,8 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
   *"for nothing"*, *"without cause"*; and at 2:3 with *bālaʿ*, *to swallow*, as in Proverbs 1:12.
 - 1 Timothy 6:9–10 — *"those who are determined to be rich fall into a temptation and a snare … For
   the love of money is a root of all kinds of evil"* (WEB, checked against bible-api.com).
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10: *hôn*, the gang's *"valuable wealth"* (1:13), given first to
+  Yahweh; their houses *filled* with plunder, the son's barns *filled* (*mālēʾ*) after giving.
 
 ## Notes
 

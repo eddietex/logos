@@ -13,6 +13,8 @@ tags: [connection]
   ingested.
 - [[Do Not Consent to Sinners]] — Proverbs 1:8; *"listen to your father's instruction, and don't forsake your mother's
   teaching"*, repeated at 6:20.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:2, 9, 12; length of days, *"Honor Yahweh"*, and
+  Yahweh *"as a father"*.
 
 ## Analysis
 
@@ -41,6 +43,16 @@ as the commandment does, and gives the mother's word the name *tôrâ*, *teachin
 bible-api.com, requests `Deuteronomy 5:1-33?translation=web` and `Ephesians 6:1-3?translation=web`.
 The land/earth comparison describes the supplied English, not an independently verified Greek
 lexical claim.
+
+Proverbs 3 carries the commandment's vocabulary further. The father promises *"length of days"* (3:2,
+*ʾōreḵ yāmîm*) to the son who keeps his teaching — the reward of Exodus 20:12, *yaʾărīḵûn yāmeḵā* — and
+then uses the commandment's own imperative with Yahweh as its object: *"Honor Yahweh with your
+substance"* (3:9, *kabbēḏ ʾeṯ-YHWH*, as *kabbēḏ ʾeṯ-ʾāḇîḵā*). Three verses later Yahweh reproves *"even as
+a father"* (3:12). The chapter does not cite the commandment; the shared forms are the wiki's evidence.
+See [[Trust in Yahweh with All Your Heart]] and
+[[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]].
+Hebrew of Exodus 20:12 and Proverbs 3:2, 9 checked against Sefaria's *Miqra according to the Masorah*,
+2026-10-25.
 
 ## Significance
 

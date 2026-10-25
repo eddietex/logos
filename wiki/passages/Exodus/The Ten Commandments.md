@@ -142,6 +142,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
   or cursing parents and kidnapping receive capital sanctions.
 - [[Laws of Property and Restitution]] — Exodus 22:1–15: *"You shall not steal"* (20:15) given cases
   and remedies; a false claim settled *"before God"* costs what the theft would have (22:9).
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:2, 9: *"length of days"* promised by a father,
+  and *"Honor Yahweh"* in the fifth commandment's form (*kabbēḏ ʾeṯ-*).
 
 ## Notes
 

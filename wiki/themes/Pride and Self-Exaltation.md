@@ -93,6 +93,15 @@ reading that the text supports, is located in what the building was *for*.
   mourning"*: verse 4 of Genesis 11 still being spoken in the last book. See
   [[Babel and Babylon the Great]].
 
+### Wise in your own eyes — Proverbs 3:7
+
+*"Don't be wise in your own eyes. Fear Yahweh"* (3:7, *ʾal-təhî ḥāḵām bəʿêneḵā*). The book's form of
+pride is intellectual: self-assessed wisdom, which it later ranks below folly — *"There is more hope
+for a fool than for him"* (26:12). Isaiah makes it a woe (5:21, *ḥăḵāmîm bəʿênêhem*), and Paul an
+exhortation, *"Don't be wise in your own conceits"* (Romans 12:16). The remedy given is not a lower
+opinion of oneself but the fear of Yahweh. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Tower of Babel]] — Genesis 11:1–9: the founding text, which names the ambition and not the
@@ -144,6 +153,7 @@ reading that the text supports, is located in what the building was *for*.
   *risen high*, and *"the greatness of your excellency (gāʾôn)"*, both only here in the Torah (WLC lemma
   search); the root is later often used of human pride (reported, not checked). **Against it, the enemy's
   boast in six first-person verbs** (15:9), and *"they sank like lead"* (15:10).
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7; *"Don't be wise in your own eyes"*, answered by the fear of Yahweh
 
 ## Related themes
 

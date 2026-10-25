@@ -2033,6 +2033,16 @@ integrity"*, and guards *"the paths of justice"* (2:8). He is also named in *"th
 (2:17): the strange woman's marriage is a covenant of which he is party. See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The one trusted, feared, honoured, and who reproves as a father — Proverbs 3:1–12
+
+In the father's third lecture nearly every command has Yahweh as its object: *"Trust in Yahweh with all
+your heart"* (3:5), *"acknowledge him"* (3:6, *dāʿēhû*, *know him*), *"Fear Yahweh"* (3:7), *"Honor
+Yahweh"* (3:9, the fifth commandment's *kabbēḏ ʾeṯ-*), *"don't despise Yahweh's discipline"* (3:11). He
+*"will make your paths straight"* (3:6), and he reproves *"whom Yahweh loves … even as a father reproves
+the son in whom he delights"* (3:12) — the first time Proverbs says Yahweh loves, and the first time it
+compares him to a father. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB);
+Hebrew checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2296,6 +2306,7 @@ integrity"*, and guards *"the paths of justice"* (2:8). He is also named in *"th
 
 - Proverbs 1:29 — Named in *"the fear of Yahweh"*, which the refusers did not choose; Wisdom speaks in his prophetic register. See [[Wisdom Calls in the Street]].
 - Proverbs 2:6–8 — Gives wisdom out of his mouth; stores it up for the upright; shields and guards them. See [[If You Seek Her as Silver]].
+- Proverbs 3:5–12 — Trusted with the whole heart; makes paths straight; honoured with first fruits; reproves the son he loves, *"as a father"*. See [[Trust in Yahweh with All Your Heart]].
 
 ## Appears in
 
@@ -2736,6 +2747,7 @@ integrity"*, and guards *"the paths of justice"* (2:8). He is also named in *"th
 
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; named once (1:29), in the third person, by Wisdom speaking in his register.
 - [[If You Seek Her as Silver]] — Proverbs 2:1–22; named *Yahweh* (2:5, 6) and *God* (2:5, 17): giver of wisdom, shield of the upright, party to the marriage covenant.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; named *Yahweh* five times (3:5, 7, 9, 11, 12) and *God* once (3:4): the object of trust, fear, and honour; a father who reproves.
 
 ## Related people
 

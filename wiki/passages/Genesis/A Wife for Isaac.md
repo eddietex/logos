@@ -550,6 +550,8 @@ interpret. **Genesis 24 is where the book learns to do that.**
 - John 4:1–42 — a man, a well at an odd hour, a woman with a water jar, a conversation about drink
   that becomes about identity, and a town that comes out; the type-scene's last use.
 - Isaiah 65:24 — *"before they call, I will answer"*, which is what 24:15 narrates.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3, *"Don't let kindness and truth forsake you"*:
+  24:27's *ḥasdô waʾămittô* with the same verb, *ʿāzaḇ*.
 
 ## Notes
 

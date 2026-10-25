@@ -11,6 +11,7 @@ tags: [connection]
 - [[The Covenant Renewed]] — Exodus 34:5–10, character proclaimed and pardon sought.
 - Numbers 14:17–23 — Moses appeals to the proclamation; verified WEB, not yet ingested.
 - Jonah 4:1–3 — Jonah's protest against mercy; verified WEB, not yet ingested.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3, *kindness and truth* as a charge to the son.
 
 ## Analysis
 
@@ -41,6 +42,14 @@ That is a comparison of these speeches, not a claim that all their settings are 
 **Sources:** Exodus 32:14; 33:18–23; 34:5–10 checked in raw WEB. Numbers 14:17–23 and
 Jonah 4:1–3 retrieved from bible-api.com (`translation=web`) on 2026-10-24. The comparisons
 use verified English texts; no Hebrew lexical identity is asserted.
+
+**Proverbs makes the pair a personal charge.** *"Don't let kindness and truth forsake you"* (Proverbs
+3:3) uses *ḥeseḏ weʾĕmeṯ*, the pair of *"abundant in loving kindness and truth"* (Exodus 34:6, *rav-ḥeseḏ
+weʾĕmeṯ*), with the verb *ʿāzaḇ*, *forsake*, that Abraham's servant used of God: *"who has not forsaken
+his loving kindness and his truth toward my master"* (Genesis 24:27, *lōʾ-ʿāzaḇ ḥasdô waʾămittô*). What
+Genesis says God did not forsake, the son is told not to let go. See
+[[Trust in Yahweh with All Your Heart]]. Hebrew of Exodus 34:6, Genesis 24:27, and Proverbs 3:3 checked
+against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
 ## Significance
 

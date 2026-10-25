@@ -69,6 +69,15 @@ to God as healer (15:25–26). The promise is now attached to serving Yahweh rat
 and is followed at once by the end of miscarriage and barrenness (23:26). See
 [[The Angel Sent Ahead]] and [[Bitter Water at Marah]].
 
+### Health to the body — Proverbs 3:8
+
+*"It will be health to your body, and nourishment to your bones"* (3:8). *Health* is *rip̄ʾûṯ*, from
+*rāp̄āʾ*, the root of *"I am Yahweh who heals you"* at Marah (Exodus 15:26, *rōp̄əʾeḵā*), and the
+condition is similar: there, listening and keeping his statutes; here, fearing Yahweh and departing
+from evil. *Body* translates *šōr*, elsewhere *navel*; the sense of the Hebrew image is uncertain. See
+[[Trust in Yahweh with All Your Heart]] and [[Bitter Water at Marah]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Abraham and Abimelech]] — Genesis 20:17; **the first *rāpāʾ*.** God heals a foreign household after
@@ -85,6 +94,7 @@ and is followed at once by the end of miscarriage and barrenness (23:26). See
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will take sickness away from among you"*.
+- [[Trust in Yahweh with All Your Heart]] — Proverbs 3:8; *rip̄ʾûṯ*, health from the fear of Yahweh
 
 ## Related themes
 
