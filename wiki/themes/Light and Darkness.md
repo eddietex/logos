@@ -189,6 +189,11 @@ for one danger in the dark, the married woman of 6:24. See [[The Lamp of the Com
 [[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]]. Source: stored WEB Proverbs 6; Hebrew read
 from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+Proverbs 7:9 sets the strange woman's scene in four darkening times — *"in the twilight, in the
+evening of the day, in the middle of the night and in the darkness"* (*bəneš ep̄-bəʿereḇ yôm bəʾîšôn
+laylâ waʾăp̄ēlâ*). It is the hour Job 24:15 gave the adulterer, who *"waits for the twilight"*
+(*nešep̄*), and the darkness against which 6:23's lamp was given. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Two Paths]] — Proverbs 4:18–19; the righteous path as brightening dawn, the wicked way as darkness that trips
@@ -315,6 +320,7 @@ from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - [[If You Seek Her as Silver]] — Proverbs 2:13; *the ways of darkness* walked by the perverse
 - [[The Lamp of the Commandment]] — Proverbs 6:23; *"the commandment is a lamp, and the law is
   light"*
+- [[The Young Man Void of Understanding]] — Proverbs 7:9; twilight to darkness, the adulterer's hour
 
 ## Related themes
 

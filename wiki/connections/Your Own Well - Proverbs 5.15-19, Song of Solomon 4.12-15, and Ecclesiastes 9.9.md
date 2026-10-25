@@ -46,6 +46,15 @@ Proverbs alludes to the patriarchal stories, but both treat water drawn from a w
 setting of marriage. See [[The Betrothal at the Well]] and
 [[The Wells of Abraham and the Wells of Isaac]] for wells as contested property.
 
+**The same words in the strange woman's mouth.** Proverbs 7:17–18 gives her the vocabulary this page
+traces: a bed perfumed with myrrh, aloes, and cinnamon — spices of the Song's garden (Song of Solomon
+4:14) — and *"let's take our fill of loving"*, *nirweh ḏōḏîm*, with 5:19's verb for the wife who
+satisfies (*yərawwuḵā*) and the Song's word for love (4:10, *ḏōḏayiḵ*). What chapter 5 gave the son
+for his own wife, chapter 7 shows offered by another. See [[The Young Man Void of Understanding]] and
+[[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]]. Song of
+Solomon 4:10, 14 verified WEB at bible-api.com, not stored; Hebrew read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-25.
+
 ## Significance
 
 Proverbs answers the strange woman not with a warning alone but with a picture of something

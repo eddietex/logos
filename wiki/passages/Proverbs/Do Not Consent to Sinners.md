@@ -256,6 +256,8 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10: *hôn*, the gang's *"valuable wealth"* (1:13), given first to
   Yahweh; their houses *filled* with plunder, the son's barns *filled* (*mālēʾ*) after giving.
 - [[The Two Paths]] — Proverbs 4:14–15; the gang's path of 1:15 generalized as the path of the wicked.
+- [[The Young Man Void of Understanding]] — Proverbs 7:12, 18, 23; the strange woman *lurks* (*teʾĕrōḇ*) as the gang
+  did, says *"Come"* (*ləḵâ*) as they did, and her victim is the bird hurrying to the snare.
 
 ## Notes
 

@@ -21,8 +21,8 @@ tags: [connection]
   awake, it will talk with you. For the commandment is a lamp, and the law is light."*
 - **Proverbs 3:3** — *"Bind them around your neck. Write them on the tablet of your heart."* —
   [[Trust in Yahweh with All Your Heart]]
-- **Proverbs 7:3** *(not yet ingested)* — *"Bind them on your fingers. Write them on the tablet of
-  your heart."*
+- **Proverbs 7:3** — *"Bind them on your fingers. Write them on the tablet of your heart."* —
+  [[The Young Man Void of Understanding]]
 - **Proverbs 1:8–9** — *"don't forsake your mother's teaching: for they will be a garland to grace
   your head, and chains around your neck."* — [[Do Not Consent to Sinners]]
 

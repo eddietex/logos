@@ -111,6 +111,12 @@ God himself recalls his oath to Abraham, Isaac, and Jacob at the command to depa
 pledge continues to govern the destination after Moses’ appeal to it in 32:13. No new human vow is
 sworn here, and no oath is said to be bought by the removal of jewelry. See [[Show Me Your Glory]].
 
+*"Today I have paid my vows"* (Proverbs 7:14, *šillamtî nəḏārāy*) is the strange woman's claim that
+her obligations to God are settled, and the pun with *šəlāmîm*, *peace offerings*, makes the point:
+the account is square, and the feast can begin. Proverbs gives the vow no value of its own here; it
+is the occasion. See [[The Young Man Void of Understanding]] and
+[[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; God recalls the land oath after the calf.
@@ -252,6 +258,8 @@ sworn here, and no oath is said to be bought by the removal of jewelry. See [[Sh
 - [[The Ten Commandments]] — Exodus 20:7; misuse of the divine name incurs guilt; false swearing is
   an application
 - [[Laws of Property and Restitution]] — Exodus 22:10–11; *"the oath of Yahweh"* in place of a witness
+- [[The Young Man Void of Understanding]] — Proverbs 7:14; *"Today I have paid my vows"*, a vow
+  as the occasion of adultery
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

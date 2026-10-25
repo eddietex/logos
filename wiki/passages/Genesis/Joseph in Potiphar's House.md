@@ -584,6 +584,8 @@ of the covenant name for eleven chapters**, and it is spent on the administratio
   the sight of* and *ḥeseḏ*, promised in Proverbs 3:3–4 to the son who keeps kindness and truth.
 - [[The Lamp of the Commandment]] — Proverbs 6:25–29; beauty, eyes, another man's wife, and clothes:
   [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]].
+- [[The Young Man Void of Understanding]] — Proverbs 7:13, 19–22; a married woman who seizes a young man while her
+  husband is away, and a young man who follows instead of running.
 
 ## Notes
 

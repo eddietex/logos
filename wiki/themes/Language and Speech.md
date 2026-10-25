@@ -189,6 +189,12 @@ son. What it guards him from is again speech — *"the flattery of the wayward w
 *ḥelqaṯ lāšôn*, *smoothness of tongue*). See [[The Lamp of the Commandment]]. Source: stored WEB
 Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+Proverbs 7 is the strange woman's longest speech (7:14–20), and the narrator's verdict on it is
+about speech: *"With persuasive words, she led him astray. With the flattering of her lips, she
+seduced him"* (7:21). *Persuasive words* is *rōḇ liqḥāh*, *her much learning* — *leqaḥ*, the book's
+word for what the wise receive (1:5; 4:2). Her opening words are religious (7:14) and her
+invitation is in the Song of Solomon's vocabulary of love (7:18, *ḏōḏîm*). See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:2, 12–13, 17, 19; trapped by one's words; the perverse mouth; the lying tongue
@@ -419,6 +425,7 @@ Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10
 - [[If You Seek Her as Silver]] — Proverbs 2:1, 6, 12, 16; the father's words and God's mouth against perverse speech and smooth words
 - [[The Lamp of the Commandment]] — Proverbs 6:22, 24; the teaching that talks with the son, against
   the smooth tongue
+- [[The Young Man Void of Understanding]] — Proverbs 7:14–21; the strange woman's speech, *leqaḥ* and flattering lips
 
 ## Related themes
 

@@ -25,6 +25,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Outside the Camp - The Sin Offering and Hebrews 13]] | typology | Exodus 29:10–14 · Leviticus 8:14–17 · Hebrews 13:10–13 · Hebrews 7:27 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
 | [[Passing Between the Pieces]] | thread | Genesis 15:9–18 · Jeremiah 34:8–22 · Genesis 6:18; 9:8–17 · Genesis 14:13 · Genesis 17:1–14 · Exodus 24:3–8 · Galatians 3:15–18 · Hebrews 6:13–18; 9:15–22 |
+| [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]] | parallel | Proverbs 7:14 · Leviticus 7:15–16 · Exodus 20:24 · Exodus 24:5 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) · [[The Altar and the Hebrew Slave]] · [[The Blood of the Covenant]] |
 | [[The Pillar Jacob Raised and the Pillars the Law Forbids]] | tension | Genesis 28:18, 22 · Genesis 31:45 · Genesis 35:14, 20 · Exodus 24:4 · Leviticus 26:1 · Deuteronomy 16:22 · Joshua 24:26–27 · 2 Kings 18:4 · Isaiah 19:19 · Exodus 23:24 |
 | [[A Place to Flee - Exodus 21 and Numbers 35]] | thread | Exodus 21:12–14, 29–30 · Numbers 35:9–34 |
 | [[A Pleasing Aroma]] | thread | Genesis 8:20–21 · Leviticus 1:9 · Leviticus 26:31 · Isaiah 1:11–14 · Ezekiel 20:41 · 2 Corinthians 2:14–16 · Ephesians 5:2 · Philippians 4:18 · Revelation 8:3–4 · Exodus 29:18, 25, 41 |

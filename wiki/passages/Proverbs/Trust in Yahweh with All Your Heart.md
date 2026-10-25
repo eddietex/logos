@@ -295,6 +295,8 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 - [[The Two Paths]] — Proverbs 4:10–11; years of life and straight paths again.
 - [[The Lamp of the Commandment]] — Proverbs 6:21; the binding of 3:3 moved to the heart itself, and
   Deuteronomy 6:7's walking and lying down (6:22).
+- [[The Young Man Void of Understanding]] — Proverbs 7:3; *"Write them on the tablet of your heart"*, 3:3b again, with
+  the fingers for the neck.
 
 ## Notes
 

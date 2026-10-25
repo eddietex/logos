@@ -285,9 +285,9 @@ and the people it wrongs. The divine law is present only in its vocabulary — *
 - [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]] — the warning and the oath.
 - [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]] — the sevenfold figure.
 - [[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]] — the second table.
-- Proverbs 7:1–27 — the strange woman's last lecture, which opens with the same commands, *"Bind
-  them on your fingers"* (7:3), and the young man *"void of understanding"* (7:7) (not yet
-  ingested).
+- [[The Young Man Void of Understanding]] — Proverbs 7:1–27; the strange woman's last lecture, which opens with the
+  same commands, *"Bind them on your fingers"* (7:3), and the young man *"void of understanding"*
+  (7:7).
 
 ## Notes
 

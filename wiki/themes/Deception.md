@@ -156,6 +156,12 @@ The worthless man *"winks with his eyes, … signals with his feet, … motions 
 šāqer* (Exodus 20:16; MT 20:13). See [[The Surety, the Sluggard, and the Seven Abominations]] and
 [[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+Proverbs 7 describes the strange woman's deception in three things: her dress — *"the attire of a
+prostitute"*, though she is a wife (7:10, 19); her heart — *nəṣurat lēḇ*, *"crafty intent"*,
+literally *guarded of heart* (7:10), the verb the father used for keeping the heart (4:23); and her
+words — *"persuasive"* and *"flattering"* (7:21). See [[The Young Man Void of Understanding]] and
+[[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:13, 17, 19; winking signs, a lying tongue, a false witness
@@ -337,6 +343,8 @@ The worthless man *"winks with his eyes, … signals with his feet, … motions 
 - [[The Altar and the Hebrew Slave]] — Exodus 21:8; the master *"has dealt deceitfully with her"*
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:10–14; enticement (*p-t-h*) by an offer that leaves out its last line
+- [[The Young Man Void of Understanding]] — Proverbs 7:10, 21; the prostitute's dress, the guarded heart, the persuasive
+  words
 
 ## Related themes
 

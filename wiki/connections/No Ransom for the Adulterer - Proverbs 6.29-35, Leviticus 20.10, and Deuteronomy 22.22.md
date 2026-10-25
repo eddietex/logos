@@ -27,6 +27,9 @@ tags: [connection]
   is jealous of his wife"*
 - **Song of Solomon 8:6** *(not yet ingested; WEB verified)* — *"for love is strong as death. Jealousy
   is as cruel as Sheol. Its flashes are flashes of fire, a very flame of Yahweh."*
+- **Proverbs 7:19–20** — [[The Young Man Void of Understanding]]: *"For my husband isn't at home. He has gone on a long
+  journey … He will come home at the full moon."* The woman of the next lecture counts on the
+  husband's absence, which is the only answer she gives to 6:34–35
 
 ## Analysis
 

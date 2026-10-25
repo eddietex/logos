@@ -47,6 +47,12 @@ sin; it does not say that every lost household was lost through it. The wiki rec
 in the warning and keeps the tension in the outcome, as on
 [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
 
+**The door from the other side.** Proverbs 7 shows the same doorway with the roles reversed. Job
+swore he had not *lain in wait* at his neighbour's door (Job 31:9, *ʾārāḇtî*); in Proverbs 7:12 it is
+the woman who *lurks* at every corner (*teʾĕrōḇ*, the same verb), and the young man walks *"the way
+to her house"* (7:8) while her husband is away (7:19). See [[The Young Man Void of Understanding]]. Hebrew read from Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Significance
 
 Job 31 is the Old Testament's fullest self-examination, and its adultery clause matches the

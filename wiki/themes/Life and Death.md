@@ -265,6 +265,11 @@ hunts for your precious life"* (6:26, *nep̄eš yəqārâ*), and the adulterer *
 [[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.
 
+Proverbs 7 runs from *"Keep my commandments and live!"* (7:2) to *"the rooms of death"* (7:27,
+*ḥaḏrê-māweṯ*), the word for inner rooms or bedchambers — the bed she prepared in 7:16–17. Between
+them the young man *"doesn't know that it will cost his life"* (7:23, *ḇənap̄šô hûʾ*). See
+[[The Young Man Void of Understanding]] and [[Sheol]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:5–6, 23; her steps to Sheol, and death for lack
@@ -594,6 +599,8 @@ according to the Masorah*, 2026-10-25.
 - [[If You Seek Her as Silver]] — Proverbs 2:18–19; the strange woman's house sinking to death and the shades; *the paths of life*
 - [[The Lamp of the Commandment]] — Proverbs 6:23, 26, 32; the way of life, and the precious life
   hunted and destroyed
+- [[The Young Man Void of Understanding]] — Proverbs 7:2, 23, 27; *"Keep my commandments and live!"*, and the rooms of
+  death
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

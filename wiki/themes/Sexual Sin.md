@@ -158,6 +158,15 @@ Deuteronomy 22:22 prescribe death; the wiki records the two pictures without mer
 [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Source:
 stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Proverbs 7 tells the strange woman's seduction as a scene.** The father watches from his window
+as a young man *"void of understanding"* walks toward her corner at nightfall (7:6–9). She is not a
+prostitute but dresses as one (*šîṯ zônâ*, 7:10); she has a husband, away *"on a long journey"*
+(7:19). She seizes him, offers a feast of peace-offering meat and a perfumed bed, and he follows
+*"as an ox goes to the slaughter"* (7:22). The lecture ends where 2:18 and 5:5 ended: *"Her house is
+the way to Sheol"* (7:27). Genesis 38 supplies the wiki's other woman dressed as a prostitute, and
+the opposite verdict. See [[The Young Man Void of Understanding]] and
+[[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
@@ -193,6 +202,8 @@ stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masora
 - [[If You Seek Her as Silver]] — Proverbs 2:16–19; the strange woman introduced: smooth words, a forgotten covenant, a house sinking to death
 - [[The Lamp of the Commandment]] — Proverbs 6:24–35; the neighbour's wife, the coveting heart, fire
   in the lap, and no ransom
+- [[The Young Man Void of Understanding]] — Proverbs 7:1–27; the seduction told as a story, from the window to
+  *"the rooms of death"*
 
 ## Related themes
 

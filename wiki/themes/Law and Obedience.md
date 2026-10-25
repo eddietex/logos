@@ -322,6 +322,12 @@ the commandment is a lamp, and the law is light"* (6:23). See [[The Lamp of the 
 [[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]]. Source: stored WEB Proverbs 6; Hebrew read
 from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+Proverbs 7:1–3 gathers the father's earlier charges into one: *"Keep my commandments and live!"*
+(7:2, 4:4's line), *"Lay up my commandments within you"* (7:1, 2:1's), and *"Bind them on your
+fingers. Write them on the tablet of your heart"* (7:3, 3:3 with the fingers for the neck). The
+verb *šāmar* runs through it: the son keeps the teaching (7:1, 2), and it keeps him (7:5). See
+[[The Young Man Void of Understanding]] and [[The Apple of the Eye - Deuteronomy 32.10, Psalm 17.8, and Proverbs 7.2]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Get Wisdom]] — Proverbs 4:1–9; A father transmits the instruction he received and kept.
@@ -390,6 +396,8 @@ from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–3; *tôrâ* and *miṣwâ* kept by the heart and written on its tablet
 - [[The Lamp of the Commandment]] — Proverbs 6:20–23; the commandment and the teaching bound on the
   heart, walking, sleeping, and waking with the son, a lamp and a light
+- [[The Young Man Void of Understanding]] — Proverbs 7:1–3, 5; the commandments kept, bound on the fingers, written on
+  the heart
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

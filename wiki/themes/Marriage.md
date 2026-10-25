@@ -170,6 +170,14 @@ marriage violated is not a debt that can be paid. See [[The Lamp of the Commandm
 [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Source:
 stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+In Proverbs 7 the husband is absent and the marriage is the adulteress's cover: *"my husband isn't at
+home"* — literally *the man*, *hāʾîš* — *"He has taken a bag of money with him. He will come home
+at the full moon"* (7:19–20). Against her, the son is to say to wisdom *"You are my sister"* (7:4),
+the Song of Solomon's address to the bride (4:9, *ʾăḥōṯî ḵallâ*), and the bed she offers is
+perfumed with a bride's spices (7:17). See [[The Young Man Void of Understanding]] and
+[[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. Song
+of Solomon 4:9 verified WEB at bible-api.com, not stored.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:15–19; the wife as one's own well, the wife of
@@ -346,6 +354,8 @@ stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masora
 - [[If You Seek Her as Silver]] — Proverbs 2:17; marriage as *the covenant of her God*, forsaken; Malachi 2:14's vocabulary
 - [[The Lamp of the Commandment]] — Proverbs 6:29–35; the neighbour's wife, the husband's jealousy,
   and no ransom
+- [[The Young Man Void of Understanding]] — Proverbs 7:4, 19–20; wisdom as *"my sister"*, and the husband away with a bag of
+  money
 
 ## Related themes
 

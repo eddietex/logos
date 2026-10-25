@@ -302,6 +302,14 @@ watching a creature, as Job 12:7 sent Job's friends to *"ask the animals"* and a
 the ants among four small, wise things (30:24–25). See
 [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**In Proverbs 7 the strange woman imitates Wisdom.** She stands *"in the streets … in the squares"*
+(7:12, *baḥûṣ … bārəḥōḇôṯ*), the two places where Wisdom cried out (1:20); she is *loud*
+(*hōmiyyâ*, 7:11), and Wisdom called *"at the head of noisy places"* (1:21, *hōmiyyôṯ*); she has
+*"diligently"* sought and found (7:15, *šiḥēr*, *māṣāʾ*), the pair Wisdom uses of those who seek her
+(1:28; 8:17); and her persuasion is *leqaḥ*, *learning* (7:21; cf. 1:5; 4:2). Against her the son
+is told to call wisdom *"my sister"* (7:4). Chapter 8 answers at once with Wisdom's own speech at the
+gates. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6; *"Consider her ways, and be wise"*, wisdom learned from the ant
@@ -471,6 +479,8 @@ the ants among four small, wise things (30:24–25). See
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; Wisdom personified, calling in public, refused, and speaking judgment in a prophet's voice; the tension with Job 28's hidden wisdom recorded
 - [[If You Seek Her as Silver]] — Proverbs 2:1–22; sought as silver and given by Yahweh; the tension with Job 28's failed search recorded
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12; trust, not one's own understanding; *"Don't be wise in your own eyes"*
+- [[The Young Man Void of Understanding]] — Proverbs 7:4, 12, 15, 21; wisdom as sister, and the strange woman in Wisdom's
+  places and words
 
 ## Related themes
 

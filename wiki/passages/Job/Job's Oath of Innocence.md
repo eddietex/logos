@@ -311,6 +311,8 @@ is the only comment the book ever makes on whether the oath was true.
 - 1 Kings 21 — Naboth, the owner of a field who loses his life for it (31:39).
 - [[The Lamp of the Commandment]] — Proverbs 6:27–29; the neighbour's wife and the fire in the lap,
   Proverbs' form of 31:9–12: [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]].
+- [[The Young Man Void of Understanding]] — Proverbs 7:12; the woman herself *lurks* (*teʾĕrōḇ*), the verb of Job's *"laid
+  wait at my neighbor's door"* (31:9).
 
 ## Notes
 

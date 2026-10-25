@@ -126,6 +126,13 @@ wife set her eyes on Joseph"*; the coveting is located in the heart. See
 [[The Lamp of the Commandment]] and [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]]. Source:
 stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+In Proverbs 7 the watcher is a father at a window: *"I looked out through my lattice. I saw among
+the simple ones"* (7:6–7). The verb *šāqap̄* with a window is Abimelech's at Genesis 26:8 and
+Sisera's mother's at Judges 5:28. The son is told to guard the teaching *"as the apple of your eye"*
+(7:2, *kəʾîšôn ʿênêḵā*), the phrase Deuteronomy 32:10 uses of God's care for Israel. See
+[[The Young Man Void of Understanding]], [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]], and
+[[The Apple of the Eye - Deuteronomy 32.10, Psalm 17.8, and Proverbs 7.2]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:21; every way of man before Yahweh's eyes
@@ -417,6 +424,7 @@ stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masora
 - [[The Work Completed]] — Exodus 39:32–43; Moses’ seeing assesses conformity rather than recording a vision.
 - [[The Lamp of the Commandment]] — Proverbs 6:25; beauty coveted in the heart, and eyelids that
   capture
+- [[The Young Man Void of Understanding]] — Proverbs 7:2, 6–7; the father at the window, and the apple of the eye
 
 ## Related themes
 

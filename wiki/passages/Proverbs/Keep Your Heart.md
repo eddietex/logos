@@ -148,6 +148,8 @@ No named geographical place. The path is a metaphor for a manner of life.
   and turns to the adulteress's lips and feet, which go down to death off the level path of 4:26.
 - [[The Lamp of the Commandment]] — Proverbs 6:20–21; *nəṣōr*, the verb of 4:23, now for the
   father's commandment, bound on the heart.
+- [[The Young Man Void of Understanding]] — Proverbs 7:10, 25; the strange woman *nəṣurat lēḇ*, *guarded of heart*,
+  with 4:23's verb, and the son's heart told not to turn aside.
 
 ## Notes
 

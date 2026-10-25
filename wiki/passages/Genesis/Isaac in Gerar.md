@@ -705,6 +705,8 @@ use.
   concerning things to come.
 - [[The Lamp of the Commandment]] — Proverbs 6:29; *hannōḡēaʿ*, *"Whoever touches her"*, the
   participle of 26:11's decree.
+- [[The Young Man Void of Understanding]] — Proverbs 7:6; the father *"looked out through my lattice"*, Abimelech's verb
+  and preposition at 26:8. See [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]].
 
 ## Notes
 

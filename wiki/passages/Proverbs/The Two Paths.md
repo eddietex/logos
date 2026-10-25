@@ -141,6 +141,7 @@ No named geographical place. The path and the way are metaphors for a manner of 
   left (4:26–27).
 - [[The Lamp of the Commandment]] — Proverbs 6:23; the light carried as a lamp by the walker, *"the
   commandment is a lamp, and the law is light"*.
+- [[The Young Man Void of Understanding]] — Proverbs 7:8–9; the young man's steps toward her house as the night darkens.
 
 ## Notes
 

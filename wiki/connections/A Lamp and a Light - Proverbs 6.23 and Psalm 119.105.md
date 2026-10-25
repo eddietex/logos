@@ -30,7 +30,7 @@ the hand or set in a niche. Psalm 119:105 makes the point by placement: a lamp *
 *for my path*. Proverbs 6:22–23 gives the same lamp to a son walking, sleeping, and waking, and then
 says what it is for: *"to keep you from the immoral woman"* (6:24) — the danger the next chapter will
 set *"in the twilight, in the evening of the day, in the middle of the night and in the darkness"*
-(7:9, not yet ingested). The commandment lights the step where the son would otherwise fall.
+(7:9; see [[The Young Man Void of Understanding]]). The commandment lights the step where the son would otherwise fall.
 
 **Light carried and light dawning.** [[The Two Paths]] had the righteous path itself become light,
 *"like the dawning light, that shines more and more"* (4:18). In 6:23 the light is not a growing

@@ -603,6 +603,8 @@ and the next pericope opens with the grain running out.
   at 49:5–7**, and one common reading connects the choice of hostage to Genesis 34
 - [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] — Genesis 42:21–22 beside Proverbs 1:18;
   *"his blood is required"* as the ambushers' own blood returning, by conscience rather than by trap.
+- [[The Young Man Void of Understanding]] — Proverbs 7:20; *ṣərôr-hakkesep̄*, the husband's *"bag of money"*, the phrase of
+  the brothers' *"bundle of money"* (42:35).
 
 ## Notes
 

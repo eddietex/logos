@@ -102,6 +102,13 @@ The folly is a failure to reckon: he *"destroys his own soul"*, and the reproach
 away"* (6:32–33). See [[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew read
 from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+The young man of Proverbs 7 is *ḥăsar-lēḇ*, *"void of understanding"* (7:7), the description 6:32
+gave the adulterer and 9:16 will give Folly's guest. He is not called wicked: he is one of the
+*simple* (*pəṯāʾyim*, 7:7), and his folly is that he walks the way to her house at nightfall,
+follows her *"immediately"* (7:22), and *"doesn't know that it will cost his life"* (7:23) — the
+words 9:18 repeats of the guest of Folly. 7:22b, *"as a fool stepping into a noose"*, is textually
+difficult in the Hebrew; see the passage page. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:12–14, 23; hated instruction confessed too late,
@@ -118,6 +125,8 @@ from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - [[Wisdom Calls in the Street]] — Proverbs 1:22, 32; the simple, the mockers, and the fools named together, loving their own condition, and killed by their own turning away
 - [[The Lamp of the Commandment]] — Proverbs 6:32; the adulterer *"void of understanding"*,
   *ḥăsar-lēḇ*
+- [[The Young Man Void of Understanding]] — Proverbs 7:7, 22–23; the simple young man *"void of understanding"*, who does
+  not know
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

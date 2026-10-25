@@ -109,6 +109,15 @@ See [[The Lamp of the Commandment]]. Proverbs names no court where Leviticus 20:
 the wiki records the two pictures side by side; with 6:16–19, the chapter touches the sixth through
 tenth commandments.
 
+Chapter 7 is the strange woman's last lecture, and the only one told as a story (7:1–27). After a
+charge to keep the commandments *"as the apple of your eye"*, write them on the heart, and call
+wisdom *"my sister"*, the father looks out through his lattice at dusk and sees a young man *"void
+of understanding"* walk toward her corner as the night darkens. She meets him in *"the attire of a
+prostitute"* though she is a wife, seizes him, and speaks: peace offerings at home and vows paid
+today, a bed perfumed with myrrh, aloes, and cinnamon, and a husband away until the full moon. He
+follows *"as an ox goes to the slaughter"*; *"Her house is the way to Sheol"* (7:27). See
+[[The Young Man Void of Understanding]]. She stands in Wisdom's streets and uses Wisdom's words, which chapter 8 answers.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -151,7 +160,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23
 - [x] [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–19
 - [x] [[The Lamp of the Commandment]] — Proverbs 6:20–35
-- [ ] The Young Man Void of Understanding — Proverbs 7:1–27
+- [x] [[The Young Man Void of Understanding]] — Proverbs 7:1–27
 - [ ] Wisdom Calls at the Gates — Proverbs 8:1–21
 - [ ] Wisdom at the Creation — Proverbs 8:22–36
 - [ ] The Two Feasts — Proverbs 9:1–18
@@ -226,6 +235,9 @@ first collection at its heading), each titled from a representative saying.
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
 - [[Theft and Restitution]] — the hungry thief who restores sevenfold (6:30–31)
 - [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
+- [[Sacrifice and Offering]], [[Oaths and Vows]] — *"Sacrifices of peace offerings are with me.
+  Today I have paid my vows"* (7:14), the opening of a seduction
+- [[Deception]] — a wife in *"the attire of a prostitute"*, *"with crafty intent"* (7:10)
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people
@@ -235,4 +247,5 @@ first collection at its heading), each titled from a representative saying.
 
 ## Key places
 - [[Sheol]] — the insatiable realm of the dead, which the gang of 1:12 proposes to imitate, and to
-  which the strange woman's house sinks (2:18; 5:5; 9:18)
+  which the strange woman's house sinks (2:18; 5:5; 7:27; 9:18)
+- [[Egypt]] — *"the yarn of Egypt"* on the strange woman's couch (7:16)

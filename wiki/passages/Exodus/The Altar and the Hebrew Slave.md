@@ -135,6 +135,8 @@ three, she goes free without payment (21:7–11).
 
 - Exodus 27:1–8 — the crafted portable altar is now ingested in [[The Altar and the Court]].
   The different material prescriptions remain an explicit tension; no earth filling is stated.
+- [[The Young Man Void of Understanding]] — Proverbs 7:14; *"Sacrifices of peace offerings are with me"*. See
+  [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]].
 
 ## Notes
 

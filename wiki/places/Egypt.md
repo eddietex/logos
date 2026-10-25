@@ -337,6 +337,8 @@ renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenan
   commandments
 - [[Laws of Holiness and Compassion]] — Exodus 22:21; *"for you were aliens in the land of Egypt"*
 - [[The Ordination of the Priests]] — Exodus 29:46; *"who brought them out of the land of Egypt, that I might dwell among them"*
+- [[The Young Man Void of Understanding]] — Proverbs 7:16; *"striped cloths of the yarn of Egypt"*
+  (*ʾēṭûn miṣrāyim*), Egyptian linen as an imported luxury on the strange woman's couch
 
 ## Related places
 

@@ -180,7 +180,7 @@ trapped man has sinned. See [[Retribution]].
   lecture.
 - [[The Lamp of the Commandment]] — Proverbs 6:20–35; the strange woman's second lecture, which
   names her *a man's wife* and takes up *ḥēq*, the bosom, as the lap that holds fire (6:27).
-- Proverbs 7:1–27 — her third lecture (not yet ingested).
+- [[The Young Man Void of Understanding]] — Proverbs 7:1–27; her third lecture, told as a scene, ending again at Sheol (7:27).
 
 ## Notes
 

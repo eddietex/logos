@@ -116,6 +116,10 @@ Genesis withholds the name on purpose, and **a wiki that supplies it is writing 
   audiences, in a deliberate order. **She reverses a real sequence rather than inventing one**, supplies
   the fact a later law would make decisive, routes the blame to the man who bought him, and calls him
   *a Hebrew*. **Genesis gives her no name, no motive, and no verdict**
+- [[The Young Man Void of Understanding]] — Proverbs 7:13, 19–22; **not named; the wiki reads the
+  scene beside hers.** A married woman with her husband away who takes hold of a young man and
+  invites him to bed (*heḥĕzîqâ bô*, where Genesis 39:12 has *wattiṯpəśēhû*) — and a young man who
+  follows her, where Joseph ran
 
 ## Related people
 

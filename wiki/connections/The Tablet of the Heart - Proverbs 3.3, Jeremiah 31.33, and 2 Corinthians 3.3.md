@@ -20,7 +20,7 @@ tags: [connection]
   father's commandment and the mother's teaching bound on the heart itself (*qošrēm ʿal-libbəḵā*) —
   [[The Lamp of the Commandment]]
 - **Proverbs 7:3** — *"Bind them on your fingers. Write them on the tablet of your heart."* The same
-  line, with fingers for neck (not yet ingested)
+  line, with fingers for neck (*ʾeṣbəʿōṯeḵā* for *gargərôṯeḵā*) — [[The Young Man Void of Understanding]]
 - **Jeremiah 17:1** — *"The sin of Judah is written with a pen of iron, and with the point of a
   diamond. It is engraved on the tablet of their heart"* (WEB, verified; not yet ingested)
 - **Jeremiah 31:33** — *"I will put my law in their inward parts, and I will write it in their heart"*

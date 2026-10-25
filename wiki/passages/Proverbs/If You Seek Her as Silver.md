@@ -251,8 +251,9 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
   one who stores it up for the upright, their shield and guard.
 - *The strange woman* — *ʾiššâ zārâ*, *nokriyyâ* (2:16). **Not given a person page**: like Wisdom,
   she is a type within the book's instruction rather than a character in a narrative. Her page is
-  the theme [[Sexual Sin]]; if Proverbs 7, where she is given a scene, makes a separate page
-  necessary, that is the pericope to decide it in.
+  the theme [[Sexual Sin]]. Proverbs 7 gives her a scene and a speech, and was the pericope set to
+  decide whether that called for a separate page; it was decided not to — she is still unnamed and
+  still a type, a wife in a prostitute's dress — see [[The Young Man Void of Understanding]].
 - *The men who speak perverse things* (2:12) — no page; see [[Folly]] and [[Language and Speech]].
 
 ## Places
@@ -293,7 +294,8 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
 - Proverbs 1:28 — [[Wisdom Calls in the Street]]: seeking and not finding.
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; the strange woman given a whole lecture,
   her steps leading to Sheol (5:5), and the wife of your youth set against her.
-- Proverbs 7:5; 9:18 — 2:16 repeated at 7:5, and Sheol again at 9:18 (not yet ingested).
+- [[The Young Man Void of Understanding]] — Proverbs 7:5; 2:16 repeated with *lišmorḵā*, *to keep you*, for *ləhaṣṣîləḵā*.
+- Proverbs 9:18 — Sheol again (not yet ingested).
 - Proverbs 8:17 — *"Those who seek me diligently will find me"* (not yet ingested).
 - Job 1:1 — *"blameless and upright"*, *tām wəyāšār*; [[Job of Uz]].
 - Job 3:21 — *maṭmônîm*, hidden treasures; [[Let the Day Perish]].

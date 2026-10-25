@@ -118,6 +118,8 @@ not an identified location requiring a place page.
 - [[The Crown Given and Taken - Proverbs 4 and Job 19]] — the promise beside
   [[I Know That My Redeemer Lives]], Job 19:9.
 - [[The Two Paths]] — Proverbs 4:10–19; the next lecture, where instruction is kept as wisdom was.
+- [[The Young Man Void of Understanding]] — Proverbs 7:2, 4; *"Keep my commandments and live!"*, 4:4's line, and wisdom
+  called *"my sister"*.
 
 ## Notes
 

@@ -143,6 +143,10 @@ are the way of life"* (6:23). The walk is lit by a lamp. See [[The Lamp of the C
 Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*,
 2026-10-25.
 
+In Proverbs 7 the young man *"went the way to her house"* (7:8, *yiṣʿāḏ*, *paced*), and the
+father's verdict is a road warning: *"Don't let your heart turn to her ways. Don't go astray in her
+paths"* (7:25). Her house is *"the way to Sheol"* (7:27). See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Keep Your Heart]] — Proverbs 4:26–27; a level path, turning neither right nor left
@@ -179,6 +183,7 @@ Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to th
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:6; *"he will make your paths straight"*
 - [[The Lamp of the Commandment]] — Proverbs 6:22–23; the teaching leads the son as he walks, and
   reproof is *"the way of life"*
+- [[The Young Man Void of Understanding]] — Proverbs 7:8, 25, 27; the way to her house, and her paths
 
 ## Related themes
 

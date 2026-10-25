@@ -115,6 +115,10 @@ schema's instruction is to state that rather than resolve it.
   pledge instead of a price, declines to name the man who is about to have her burned, and is declared
   righteous by him in three Hebrew words. **She speaks five times and the narrator states her motive
   before she acts** — both of which Genesis does for no other woman in the book
+- [[The Young Man Void of Understanding]] — Proverbs 7:10, 13; **not named; the wiki reads the scene
+  beside hers.** A woman in *"the attire of a prostitute"* who is not one, met *"by the way"* — but a
+  wife betraying a marriage, with a bold face where Tamar covered hers, and condemned where Tamar was
+  declared righteous. See [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]]
 
 ## Related people
 

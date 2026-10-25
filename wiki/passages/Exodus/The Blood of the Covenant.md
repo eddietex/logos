@@ -180,6 +180,8 @@ says to him there fills the next seven chapters.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
 
 - [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
+- [[The Young Man Void of Understanding]] — Proverbs 7:14; peace offerings, eaten at home and opening a seduction. See
+  [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]].
 
 ## Notes
 

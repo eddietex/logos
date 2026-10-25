@@ -567,6 +567,8 @@ comparison himself. See
   resurrection on the levirate law this chapter predates
 - 2 Corinthians 1:22 · 5:5 · Ephesians 1:14 — ***ἀρραβών***, the Greek of Tamar's *pledge*, used of the
   Holy Spirit
+- [[The Young Man Void of Understanding]] — Proverbs 7:10, 13; a wife in *"the attire of a prostitute"*, with a bold face
+  where Tamar covered hers. See [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]].
 
 ## Notes
 

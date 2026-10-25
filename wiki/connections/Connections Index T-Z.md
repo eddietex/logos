@@ -12,7 +12,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Table of Nations at Pentecost]] | typology | Genesis 10:1–32 · Genesis 11:1–9 · Acts 2:5–11 · Revelation 5:9 · Revelation 7:9 · Revelation 14:6 |
-| [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] | motif | Exodus 24:12; 31:18 · Deuteronomy 6:6–8 · Proverbs 3:1–3 · Proverbs 7:3 · Jeremiah 17:1 · Jeremiah 31:33 · Ezekiel 36:26 · 2 Corinthians 3:3 · Proverbs 6:21 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
+| [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] | motif | Exodus 24:12; 31:18 · Deuteronomy 6:6–8 · Proverbs 3:1–3 · Proverbs 7:3 · Jeremiah 17:1 · Jeremiah 31:33 · Ezekiel 36:26 · 2 Corinthians 3:3 · Proverbs 6:21 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) |
 | [[The Taking of Enoch - Genesis 5.24 in Hebrews and Jude]] | thread | Genesis 5:21–24 · Job 7:8, 21 · 2 Kings 2:1–12 · Psalm 49:15 · Psalm 73:24 · Sirach 44:16 · Hebrews 11:5 · Jude 14–15 |
 | [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]] | thread | Genesis 38:27–30 · Numbers 26:19–22 · Ruth 4:12, 18–22 · 1 Chronicles 2:3–5 · Matthew 1:3 · Luke 3:33 · Exodus 6:23 |
 | [[Ten Before and Ten After - The Registers of Genesis 5 and Genesis 11]] | parallel | Genesis 5:1–32 · Genesis 6:3 · Genesis 11:10–26 · 1 Chronicles 1:1–4, 24–27 · Luke 3:34–38 |
@@ -32,6 +32,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[This Will Turn Out for My Deliverance - Job 13.16 in Philippians 1.19]] | quotation | Job 13:15–18 · Philippians 1:19–20 · Genesis 49:18 · Job 19:25 · 1 Corinthians 3:19 |
 | [[Though He Slay Me - The Written and the Read Text of Job 13.15]] | textual-problem | Job 13:13–16 · Job 6:11 · Job 9:33 · Psalm 100:3 · Isaiah 9:3 · Isaiah 63:9 |
 | [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] | parallel | Exodus 12:14–20 · Exodus 13:3–10 · Exodus 23:14–19 · Exodus 34:18–26 · Deuteronomy 16:1–17 · [[The Covenant Renewed]] (Exodus 34:1–28) |
+| [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]] | literary-parallel | Proverbs 7:6–7 · Genesis 26:8 · Judges 5:28 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) · [[Isaac in Gerar]] |
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
@@ -74,7 +75,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[What Is This You Have Done - The Accusing Question from Eden to the Sea]] | formula | Genesis 3:13 · Genesis 12:18 · Genesis 26:10 · Genesis 29:25 · Genesis 42:28 · Exodus 14:5, 11 |
 | [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] | parallel | Genesis 37:18–28 · Genesis 42:21–22 · Proverbs 1:10–19 · [[Do Not Consent to Sinners]] (Proverbs 1:8–19) |
 | [[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]] | parallel | Proverbs 1:24–28 · Isaiah 65:2, 12 · Isaiah 66:4 · Jeremiah 7:13 · Jeremiah 11:11 · Micah 3:4 · Psalm 2:4 · Romans 10:21 · Deuteronomy 4:29 · Jeremiah 29:13 · Isaiah 55:6 · [[Wisdom Calls in the Street]] (Proverbs 1:20–33) |
-| [[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]] | allusion | Deuteronomy 6:6–9 · Exodus 13:9 · Proverbs 6:20–23 · Proverbs 3:3 · Proverbs 7:3 · Proverbs 1:8–9 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
+| [[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]] | allusion | Deuteronomy 6:6–9 · Exodus 13:9 · Proverbs 6:20–23 · Proverbs 3:3 · Proverbs 7:3 · Proverbs 1:8–9 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) |
 | [[When Your Son Asks - Telling the Exodus to the Next Generation]] | formula | Exodus 10:2 · Exodus 12:26–27 · Exodus 13:8–9, 14–16 · Deuteronomy 6:7–8, 20–21; 11:18 · Joshua 4:6–7, 21–22 |
 | [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] | literary-parallel | Job 23:3, 8–10 · Job 7:17–20 · Job 9:11 · Job 13:24 · Psalm 139:1–12, 23–24 · Amos 9:2–4 · Jeremiah 23:23–24 · Isaiah 45:15 |
 | [[Where the Slain Are - Job 39.30 and Matthew 24.28]] | allusion | Job 39:27–30 · Matthew 24:28 · Luke 17:37 · Proverbs 30:17 · Revelation 19:17–18 |
@@ -112,5 +113,5 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[You Shall Not Speak Evil of a Ruler - Exodus 22.28 in Acts 23.5]] | quotation | Exodus 22:28 · Acts 23:1–5 · Genesis 12:3 |
 | [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] | parallel | Exodus 23:19 · Exodus 34:26 · Deuteronomy 14:21 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[The Younger Before the Firstborn - Jacob and Laban]] | parallel | Genesis 27:19, 35 · Genesis 29:23–26 · Genesis 25:20 · Genesis 31:7, 41 · Genesis 12:18; 20:9; 26:10 |
-| [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] | image thread | Proverbs 5:15–19 · Song of Solomon 4:12–15 · Ecclesiastes 9:9 · 1 Corinthians 7:2–5 · Hebrews 13:4 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:1–23) |
+| [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] | image thread | Proverbs 5:15–19 · Song of Solomon 4:12–15 · Ecclesiastes 9:9 · 1 Corinthians 7:2–5 · Hebrews 13:4 · [[The Strange Woman and the Wife of Your Youth]] (Proverbs 5:1–23) · Proverbs 7:17–18 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) |
 | [[Zaphenath-Paneah - Renaming at a Foreign Court]] | thread | Genesis 17:5, 15 · Genesis 32:28 · Genesis 41:45 · 2 Kings 23:34 · 2 Kings 24:17 · Daniel 1:6–7 · Esther 2:7 · Isaiah 62:2 · Revelation 2:17 · Genesis 45:3–4, 16 |

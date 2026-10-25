@@ -15847,3 +15847,71 @@ Deuteronomy 6:6–8, Psalms 23:3; 119:105, Exodus 15:13; 20:13–14 (MT); 21:30;
 Leviticus 20:10, Numbers 5:14; 35:31, Song of Solomon 8:6, Genesis 4:15; 7:23; 20:6; 26:11; 39:6–7, 12,
 and Job 31:12 read from Sefaria's *Miqra according to the Masorah*. No Greek claim is made. No raw
 text changed and no unstored book was fetched.
+
+## [2026-10-25] ingest | Proverbs 7.1-27 — The Young Man Void of Understanding
+
+Unattended run (`/ingest auto`). The planned 7:1–27 boundary is kept: *"My son"* opens it, 8:1 opens
+Wisdom's speech, and Sefaria's *Miqra according to the Masorah* marks a *petuḥah* only after 7:27.
+The title is taken from 7:7. The page covers the charge (keep the teaching *"as the apple of your
+eye"*, bind it on the fingers, call wisdom *"my sister"*), the father at the window watching the
+young man walk toward the strange woman's corner at nightfall, her dress, her speech (peace
+offerings, paid vows, the perfumed bed, the husband away), the ox, the noose, and the bird, and the
+verdict, *"Her house is the way to Sheol"*.
+
+**Judgment calls:** The strange woman again gets no person page; [[If You Seek Her as Silver]] had
+named this pericope as the place to decide that, and its note now records the decision. Tamar and
+Potiphar's Wife get *not named* lines on their pages because the wiki reads the scene beside theirs.
+The windows of Genesis 26:8 and Judges 5:28, the prostitute's dress of Genesis 38, and the spices of
+the Song of Solomon and Psalm 45 are recorded as literary parallels, not allusions; Leviticus 7:16
+is cited as the rule that explains *"Today"* in 7:14, without claiming Proverbs had it in view. The
+*ʾîšôn* wordplay of 7:2 and 7:9 is reported as possible, not proved. God is not named in the
+chapter, and [[God]] was not revised.
+
+**Unresolved:** Proverbs 7:22b is textually difficult (*ʿeḵes*, *anklet*, *to the discipline of a
+fool*); the WEB's *"a fool stepping into a noose"* is reported as one interpretation, and no
+commentary or ancient version was checked. The derivation of *ʾîšôn* from *ʾîš* is the usual lexical
+one, not checked against a lexicon. A deliberate prospective reference to Proverbs 8:17; 9:13–18
+is left marked *not yet ingested*.
+
+**Created (6):** [[The Young Man Void of Understanding]] and five connections —
+[[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]],
+[[The Apple of the Eye - Deuteronomy 32.10, Psalm 17.8, and Proverbs 7.2]],
+[[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]],
+[[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]],
+[[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]].
+
+**Revised content pages (43):** [[Proverbs]]; fourteen themes — [[Sexual Sin]], [[Marriage]],
+[[Wisdom]], [[Folly]], [[Language and Speech]], [[Light and Darkness]], [[Sacrifice and Offering]],
+[[Oaths and Vows]], [[Deception]], [[Life and Death]], [[Seeing and Being Seen]],
+[[Law and Obedience]], [[Love]], [[Walking with God]]; two places — [[Sheol]], [[Egypt]]; two
+people — [[Tamar]], [[Potiphar's Wife]]; seven connections —
+[[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]],
+[[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]],
+[[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]],
+[[The Neighbor's Door - Proverbs 5 and Job 31.9-12]],
+[[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]],
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]],
+[[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]];
+seventeen reciprocal passage updates — [[If You Seek Her as Silver]],
+[[The Strange Woman and the Wife of Your Youth]], [[Wisdom Calls in the Street]],
+[[The Lamp of the Commandment]] (four stale *not yet ingested* markers cleared across these),
+[[Do Not Consent to Sinners]], [[Trust in Yahweh with All Your Heart]], [[Get Wisdom]],
+[[Keep Your Heart]], [[The Two Paths]], [[Isaac in Gerar]], [[Judah and Tamar]],
+[[Joseph in Potiphar's House]], [[The Brothers' First Journey to Egypt]],
+[[The Altar and the Hebrew Slave]], [[The Blood of the Covenant]],
+[[The Incense Altar, the Ransom, and the Holy Oil]], [[Job's Oath of Innocence]].
+
+**Bookkeeping (10 revised files including this log):** books index, themes index, places index,
+Connections Index A-C, D-H, I-N, O-S, and T-Z, main index, and log. Totals: 158 passages, 179 people,
+90 places, 83 themes, 412 connections.
+
+**Sources:** all Proverbs 7 verses copied from stored WEB Proverbs. Comparisons checked in stored
+Proverbs 1:4–5, 11, 17–22, 28; 2:1, 16–18; 3:3; 4:1–2, 4, 6–8, 12, 19, 23; 5:3, 5, 7–8, 19, 21; 6:24,
+26, 32; 8:1–3, 17; 9:13–18, Genesis 26:8–11; 38:14–15, 21, 26; 39:12; 42:35, Exodus 20:24; 24:5;
+30:23–25, 32–33, and Job 24:15; 31:9. Judges 5:28, Deuteronomy 32:10, Psalm 17:8; 45:8, Leviticus
+7:15–16, Numbers 5:12, and Song of Solomon 1:4; 4:9–10, 14 verified individually in the WEB at
+bible-api.com, not stored. Hebrew of Proverbs 7:1–27; 1:4–5, 11, 17–22, 28; 2:1, 16; 3:3; 4:1–2, 4, 12,
+23; 5:7, 19; 6:32; 8:17; 9:13–18, Genesis 26:8; 38:14–15; 39:12; 42:35, Exodus 30:23, Leviticus
+7:15–16, Numbers 5:12, Deuteronomy 6:8; 32:10, Judges 5:28, Psalms 17:8; 45:9 (MT), Song of Solomon
+1:4; 4:9–10, 14, and Job 24:15; 31:9 read from Sefaria's *Miqra according to the Masorah*. No Greek
+claim is made. No raw text changed and no unstored book was fetched.

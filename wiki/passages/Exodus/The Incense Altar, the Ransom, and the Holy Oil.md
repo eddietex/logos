@@ -244,6 +244,8 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
 - Leviticus 4:3 — *"the anointed priest"* (verified WEB; not ingested).
 - Hebrews 9:2–4 — the *"golden altar of incense"* listed with the Holy of Holies (verified WEB;
   not ingested). See the note below.
+- [[The Young Man Void of Understanding]] — Proverbs 7:17; myrrh and cinnamon, with aloes, on the strange woman's bed. See
+  [[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]].
 
 ## Notes
 

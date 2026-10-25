@@ -256,7 +256,8 @@ consequence. See [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Mat
 - Proverbs 8:1–4, 17 — Wisdom's second speech, at the same gates; *"Those who seek me diligently will
   find me"*, the verbs of 1:28 without the negative.
 - Proverbs 9:1–6 — Wisdom's third speech, the feast; *ḥoḵmôt* again at 9:1.
-- Proverbs 7:12 — the adulteress in the same streets and squares (not yet ingested).
+- [[The Young Man Void of Understanding]] — Proverbs 7:11–12, 15; the strange woman *loud* and in the same streets and squares
+  (*baḥûṣ … bārəḥōḇôṯ*), and seeking diligently and finding, the verbs of 1:28.
 - Job 28:12, 21, 28 — [[Where Shall Wisdom Be Found]]: wisdom hidden from all the living.
 - Job 9:23 — *"he will mock at the trial of the innocent"*; the same verb as 1:26.
 - Job 27:20 — *"a storm steals him away in the night"*; *sûp̄â*, as in 1:27.

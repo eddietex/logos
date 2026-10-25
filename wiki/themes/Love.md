@@ -144,6 +144,14 @@ astray"*; its sense of reeling or erring is the conventional lexical one, not ch
 lexicon this pass. Married love is the right object of that intoxication, and the same staggering
 directed elsewhere is ruin. See [[The Strange Woman and the Wife of Your Youth]]. Source: stored WEB Proverbs 5; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+In Proverbs 7:18 the strange woman says *"Come, let's take our fill of loving until the morning.
+Let's solace ourselves with loving"* (*nirweh ḏōḏîm … bāʾŏhāḇîm*). *Nirweh*, *drink our fill*, is
+the verb of 5:19, where the wife was to satisfy the son (*yərawwuḵā*), and *ḏōḏîm* is the Song of
+Solomon's word for love (4:10). The father has given the son this language for his own wife; the
+woman offers it for someone else's. See [[The Young Man Void of Understanding]] and
+[[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+Song of Solomon 4:10 verified WEB at bible-api.com, not stored.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:19; *"Be captivated always with her love"*,
@@ -213,6 +221,7 @@ directed elsewhere is ruin. See [[The Strange Woman and the Wife of Your Youth]]
 - [[The Altar and the Hebrew Slave]] — Exodus 21:5; a servant's love for master, wife, and children
   keeps him in service for life
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:12; Yahweh's love given as the reason for his reproof
+- [[The Young Man Void of Understanding]] — Proverbs 7:18; love's language, *ḏōḏîm*, offered by the strange woman
 
 ## Related themes
 

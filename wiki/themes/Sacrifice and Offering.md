@@ -244,6 +244,15 @@ with the altar of burnt offering.
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+**The strange woman opens with a sacrifice.** *"Sacrifices of peace offerings are with me. Today I
+have paid my vows"* (Proverbs 7:14). The peace offering was the sacrifice the worshipper ate, and
+Leviticus 7:16 limits a vow offering's meat to the day of sacrifice and the next, so her invitation
+is to a feast that cannot wait. The worship is real or a pretext — the text does not say — and in
+either case it is the first line of a seduction. See [[The Young Man Void of Understanding]] and
+[[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]]. Source: stored WEB Proverbs 7;
+Leviticus 7:16 verified WEB at bible-api.com, not stored; Hebrew read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Altar made; contributed metals distinguished from the fixed census payment.
@@ -383,6 +392,8 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 - [[The Work Completed]] — Exodus 39:32–43; The altars and supplies are delivered; no offering is performed.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses burns incense and offers burnt and meal offerings on the installed altars.
+- [[The Young Man Void of Understanding]] — Proverbs 7:14; peace offerings at home, the opening of
+  a seduction
 
 ## Related themes
 

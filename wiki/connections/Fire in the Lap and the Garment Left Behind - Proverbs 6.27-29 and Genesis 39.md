@@ -55,6 +55,13 @@ same lecture the danger becomes the husband's jealousy (6:34) — the passion wh
 flashes of fire"* in Song of Solomon 8:6. See
 [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]].
 
+**Proverbs 7 supplies the scene.** The next lecture tells what Genesis 39 tells from the other side:
+a married woman whose husband is away (Proverbs 7:19–20) takes hold of a young man (*heḥĕzîqâ bô*,
+7:13; Genesis 39:12 has *wattiṯpəśēhû*, a different verb) and invites him to bed (7:16–18). Joseph
+*"ran outside"* (39:12); the young man of Proverbs 7 *"followed her immediately, as an ox goes to the
+slaughter"* (7:22). The wiki records the contrast and claims no allusion. See [[The Young Man Void of Understanding]]. Hebrew of
+Proverbs 7:13 and Genesis 39:12 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
 ## Significance
 
 Genesis gives the wisdom tradition its model case: a young man alone, his master's wife, daily

@@ -197,6 +197,11 @@ to go.
   Her steps lead straight to Sheol"* — *šəʾôl ṣəʿāḏeyhā yiṯmōḵû*, her steps *take hold of* Sheol. The
   verb returns at 5:22, where the cords of his own sin *hold* the wicked man: she grips Sheol, and his
   sin grips him.
+- [[The Young Man Void of Understanding]] — Proverbs 7:27; **named, and furnished.** *"Her house is the
+  way to Sheol, going down to the rooms of death"* (*darḵê šəʾôl bêṯāh yōrəḏôṯ ʾel-ḥaḏrê-māweṯ*). The
+  third lecture ends where 2:18 and 5:5 ended, and adds rooms: *ḥeḏer* is the inner room or
+  bedchamber, so the bed she perfumed (7:16–17) is a chamber of death. Her slain are *"a mighty army"*
+  (7:26). Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
 ## Related places
 
