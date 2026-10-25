@@ -217,7 +217,20 @@ The discussion added here makes no claim about exact source-language forms.
 word is *ʾašrê*, as in 3:13, 18 — a state of well-being described, not a blessing pronounced. The
 picture is a man at a house's doors every day, against the strange woman's door (5:8). See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:6–7, 22
+
+Blessings rest on the righteous, their memory is blessed, and Yahweh’s blessing brings wealth
+without added trouble in the WEB (22). The saying is not a narrated blessing ceremony. Job 1:10
+acknowledges blessing on his work before Job 1:13–22 narrates disaster; present trouble does not by
+itself prove that a life lacked divine blessing.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:6–7, 22; Blessings rest on the righteous, their
+  memory is blessed, and Yahweh’s blessing brings wealth without added trouble in the WEB (22).
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh blesses the righteous habitation; tension with Job remains explicit.
 

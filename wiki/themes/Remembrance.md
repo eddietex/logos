@@ -211,7 +211,19 @@ subject is deliverance and observance rather than wisdom's acquisition. See
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:7
+
+The memory of the righteous is blessed, while the name of the wicked rots. This is human remembrance
+and reputation, rather than a scene of God remembering a covenant. The saying extends the contrast
+of righteous and wicked beyond their immediate actions into the way they are remembered.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:7; The memory of the righteous is blessed, while
+  the name of the wicked rots.
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Remembering a lesson makes possible its transmission and practice.
 

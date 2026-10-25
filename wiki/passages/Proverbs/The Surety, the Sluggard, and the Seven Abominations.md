@@ -205,6 +205,9 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 10, 12, 26 revisits harvest work, the wink,
+  strife, and the cost of relying on a sluggard.
+
 - [[Keep Your Heart]] — Proverbs 4:22–27; the heart, mouth, eyes, and feet kept, and *marpēʾ*,
   *"health"*, which the worthless man is denied (6:15).
 - [[Do Not Consent to Sinners]] — Proverbs 1:11–18; the innocent ambushed, feet that run and hurry

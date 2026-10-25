@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 22, 24–30.
+
 - **Job 8:11–19** — Bildad's first sketch, before the cycle of full portraits: the papyrus that
   withers without water, the trust that is a spider's web — [[Bildad's First Speech]]
 - **Job 11:20** — Zophar's first sketch, a single verse: *"the eyes of the wicked shall fail… Their
@@ -129,6 +131,19 @@ friends' doctrine on his accuser (*"Let my enemy be as the wicked"*, 27:7), or c
 while denying its inference, or reciting it back to them. See [[I Will Not Put Away My Integrity]] and
 [[The Portion of a Wicked Man - Job 20.29 and Job 27.13]]. **On any reading, this is the last time
 the portrait is painted in the dialogue.**
+
+### The sentence collection — Proverbs 10:3, 22, 24–30
+
+Proverbs 10 now supplies a sustained positive statement of the rule Job challenges. Verse 24 assigns
+realized fear to the wicked; Job 3:25 reports realized fear for the upright man of Job 1:1. The
+whirlwind removes the wicked in 10:25, but Job 1:18–22 narrates wind destroying an upright man’s
+children. The shortened wicked lifespan of 10:27 conflicts with Job 21:7–13’s old and prosperous
+wicked. Job 24:5–11 adds workers hungry despite their labor, preventing 10:4 from explaining every
+poverty. These are explicit tensions in outcomes, not evidence that Job is secretly wicked or that
+Proverbs denies the value of work.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
+in stored WEB, 2026-10-25.
 
 ## Significance
 

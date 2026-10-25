@@ -102,7 +102,20 @@ supplying the explicit pardon declaration later found in Numbers 14:20 (WEB veri
 bible-api.com, 2026-10-24). The statements about forgiveness and accountability remain a tension
 to interpret, not evidence that one sentence is unreal. See [[The Covenant Renewed]].
 
+### A Wise Son Makes a Glad Father — Proverbs 10:12, 18
+
+Love’s covering of wrongs offers an image of relational forbearance, not an explicit declaration of
+divine pardon. Hiding hatred with lying lips (18) is its counterfeit. Proverbs 28:13 separately
+calls for confessing and renouncing one’s own sins. See
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:12, 18; Love’s covering of wrongs offers an image
+  of relational forbearance, not an explicit declaration of divine pardon.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Pardon sought after God declares forgiveness without erasing
   judgment.

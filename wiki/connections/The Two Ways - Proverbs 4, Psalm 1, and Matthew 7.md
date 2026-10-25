@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:9, 17, 29.
+
 - **Deuteronomy 30:15, 19** — *"Behold, I have set before you today life and prosperity, and death
   and evil. … I have set before you life and death, the blessing and the curse. Therefore choose
   life, that you may live, you and your descendants"* (not yet ingested)
@@ -49,6 +51,16 @@ Matthew 7:13–14 says the broad way has many and the narrow way few, and that t
 be *found*. The earlier texts assume the right way is visible to anyone taught; Matthew assumes it
 is hard to find. That is a difference of emphasis between the passages, recorded here rather than
 harmonized.
+
+### The sentence collection — Proverbs 10:9, 17, 29
+
+The long road instruction becomes short contrasts: blameless walking is secure (9), correction keeps
+a person in the way of life (17), and Yahweh’s way is a stronghold to the upright but destruction to
+evildoers (29). Verse 29 speaks of one divine way with opposite effects; it does not literally
+describe two separate roads. The relation to the earlier two-paths teaching is thematic.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
+in stored WEB, 2026-10-25.
 
 ## Significance
 

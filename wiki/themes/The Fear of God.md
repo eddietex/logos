@@ -180,7 +180,20 @@ evil"* and Job 28:28's *"To depart from evil is understanding"* describe the sam
 movement away; 8:13 describes it as an affection. See [[Wisdom Calls at the Gates]] and
 [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:27
+
+Fear of Yahweh is said to prolong life, in contrast to the shortened years of the wicked. Job 1:1
+commends precisely that fear, while Job 21:7 describes the wicked growing old. The promise and the
+counter-observation remain side by side; the proverb is not a reliable calculation of an individual
+lifespan.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:27; Fear of Yahweh is said to prolong life, in
+  contrast to the shortened years of the wicked.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the motto placed at the head of Proverbs, opposed by
   the fool's contempt

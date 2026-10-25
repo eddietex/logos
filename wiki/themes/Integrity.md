@@ -147,7 +147,20 @@ one life (see the [[Proverbs]] book page), but neither text says so. See [[If Yo
 [[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:9, 29
+
+Blameless walking brings security, while a twisted course is exposed (9); Yahweh’s way is a
+stronghold to the upright (29). Job 1:1, 13–22 supplies the counterexample to using present safety
+as a test of integrity. The proverb describes the worth of a course of life, not a narrated trial of
+Job.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:9, 29; Blameless walking brings security, while a
+  twisted course is exposed (9); Yahweh’s way is a stronghold to the upright (29).
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Accountable material use; no allegation of misuse or independent audit.
 

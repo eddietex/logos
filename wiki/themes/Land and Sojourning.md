@@ -162,7 +162,20 @@ so is Job, *tām wəyāšār*, who lost his. See [[If You Seek Her as Silver]] a
 [[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:30
+
+The righteous are promised permanence while the wicked will not dwell in the land, restating
+Proverbs 2:21–22’s contrast. No country or boundary is named in 10:30; its covenant-land resonance
+is a comparison, not an explicit place identification. See
+[[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]].
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:30; The righteous are promised permanence while
+  the wicked will not dwell in the land, restating Proverbs 2:21–22’s contrast.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Promised removal and enlarged borders; security during
   appearances.

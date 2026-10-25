@@ -206,7 +206,19 @@ See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 own soul, the root of Genesis 6:11's *ḥāmās*. Sin against her is described first as self-harm. See
 [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:12, 16, 18–19, 23
+
+Sin appears in the use of gain, lying and slander, excessive speech, and the fool’s pleasure in
+wrongdoing. Love responds to wrongs without stirring strife (12), but verse 18 rejects hiding
+hatred. These sayings attend to both harmful action and the appetite or intention behind it.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:12, 16, 18–19, 23; Sin appears in the use of
+  gain, lying and slander, excessive speech, and the fool’s pleasure in wrongdoing.
 
 - [[The Two Paths]] — Proverbs 4:16–17; evil as compulsion, sleepless until it has made someone fall
 

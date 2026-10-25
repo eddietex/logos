@@ -53,6 +53,12 @@ gave Solomon *"that which you have not asked, both riches and honor"* (1 Kings 3
 gam-kāḇôḏ*). See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; 1 Kings 3:13 WEB at
 bible-api.com; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+Proverbs 10:1 repeats his name at the beginning of the sentence collection.
+[[A Wise Son Makes a Glad Father]] treats this as the collection's attribution, not as evidence that
+the wise son of its opening saying is Solomon himself, or that the father and mother are
+identifiable royal parents. The sayings turn to general household, work, and speech ethics. Source:
+stored WEB Proverbs 10:1–32.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -62,6 +68,8 @@ bible-api.com; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32; named in the collection heading (1).
 
 - [[Get Wisdom]] — Proverbs 4:1–9; possible collection-level association only; not named in this unit.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:15–18; not named; *"By me kings reign"* and the riches and honour of 1 Kings 3:13.

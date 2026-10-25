@@ -260,6 +260,9 @@ general rule; the wiki keeps Job's case beside it. See [[Retribution]].
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32 follows the prologue with sayings on
+  household life, work, and speech.
+
 - [[The Purpose of the Proverbs]] — Proverbs 1:4–5, 7; the simple, *"increase in learning"*, and the
   motto 9:10 repeats.
 - [[Do Not Consent to Sinners]] — Proverbs 1:10–19; the company the son is told to leave.

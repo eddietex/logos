@@ -220,6 +220,9 @@ speech that starts the quarrel is not addressed to anyone in it.
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:24 assigns realized fear to the wicked; Job 3:25
+  reports it in an upright sufferer. The tension remains explicit.
+
 - [[Seven Days of Silence]] — Job 2:11–13, the silence this chapter breaks, and the reason the
   friends are present to be provoked.
 - [[The Second Test]] — Job 2:10, *"shall we receive good at the hand of God, and shall we not receive

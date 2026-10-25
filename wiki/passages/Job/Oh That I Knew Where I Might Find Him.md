@@ -352,6 +352,9 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:4 warns against laziness, but Job 24:5–11’s
+  hungry laborers prevent treating poverty as proof of idleness.
+
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:21, *"the ways of man are before Yahweh's
   eyes"*; the answer to the adulterer of 24:15 who says *"No eye shall see me"*.
 - [[Keep Your Heart]] — Proverbs 4:26–27, *"Don't turn to the right hand nor to the left"*, the command

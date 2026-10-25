@@ -87,7 +87,21 @@ Hebrews 12:5–6 quotes it to a church under pressure. See [[Trust in Yahweh wit
 [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:3–5, 22, 24–27
+
+The chapter links well-being to righteousness and diligence, but Job’s uprightness and realized fear
+(Job 1:1; 3:25) conflict with a universal reading of those outcomes. Job 24:5–11’s hungry workers
+likewise show suffering without idleness. The tension is retained, rather than turning proverbial
+contrasts into accusations against sufferers.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:3–5, 22, 24–27; The chapter links well-being to
+  righteousness and diligence, but Job’s uprightness and realized fear (Job 1:1; 3:25) conflict with a
+  universal reading of those outcomes.
 
 - [[The Wager in Heaven and the Four Messengers]] — **the wiki's one passage where the cause of a
   suffering is disclosed**, and the disclosure turns out not to be an explanation. Knowing *that* a

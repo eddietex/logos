@@ -122,6 +122,9 @@ No named geographical place. The path is a metaphor for a manner of life.
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:11, 20–21 gives the righteous mouth life-giving
+  and nourishing images beside the guarded heart of 4:23.
+
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:12–19; the worthless man
   gives heart, mouth, eyes, and feet to evil, and is broken *"without remedy"* (*marpēʾ*, the
   *"health"* of 4:22).

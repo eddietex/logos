@@ -282,6 +282,9 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:30 repeats the righteous person’s permanence and
+  the wicked person’s exclusion from the land.
+
 - [[Get Wisdom]] — Proverbs 4:5–7 repeats the call to acquire understanding; the acquisition image
   must be read beside 2:6’s gift.
 

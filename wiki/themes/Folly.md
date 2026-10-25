@@ -122,7 +122,20 @@ rebuked the simple, mockers, and fools; in 8:5 she invites them, offering the si
 *prudence*, the preface promised them (1:4). The fool, *kəsîl*, is not written off: he is told to
 acquire *lēḇ*, a heart, the organ the young man of 7:7 lacked. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:1, 8, 10, 13–14, 18, 21, 23
+
+The foolish son grieves his mother; chatter, slander, refusal of understanding, and pleasure in evil
+give folly a social cost. The repeated falling fool (8, 10) is contrasted with the person willing to
+learn.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, 8, 10, 13–14, 18, 21, 23; The foolish son
+  grieves his mother; chatter, slander, refusal of understanding, and pleasure in evil give folly a
+  social cost.
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:12–14, 23; hated instruction confessed too late,
   and *"the greatness of his folly"*

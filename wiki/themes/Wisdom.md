@@ -345,7 +345,19 @@ her still as God's wisdom personified. The New Testament's language for Christ a
 resembles the passage without citing it. See [[Wisdom at the Creation]] and
 [[Possessed in the Beginning - Proverbs 8.22-31, John 1, and Colossians 1]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:1, 5, 8, 13–14, 19–23, 31
+
+Wisdom becomes observable in timely work, accepting commands, storing knowledge, and speaking with
+restraint. The wise person enjoys wisdom (23); its fruit reaches the household and those fed by
+righteous lips (21).
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, 5, 8, 13–14, 19–23, 31; Wisdom becomes
+  observable in timely work, accepting commands, storing knowledge, and speaking with restraint.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6; *"Consider her ways, and be wise"*, wisdom learned from the ant
 

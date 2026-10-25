@@ -131,7 +131,20 @@ the list of seven ends on the same act, *"he who sows discord among brothers"* (
 position gives strife-making the greatest weight in the list. See
 [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:10, 12, 18
+
+The wink causes sorrow, hatred provokes strife, and love covers wrongs. Concealed hatred and slander
+are both condemned (18). Peacemaking therefore involves a changed response to an offense, not merely
+an appearance of friendliness. See
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:10, 12, 18; The wink causes sorrow, hatred
+  provokes strife, and love covers wrongs.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:14, 19; the sower of discord, seventh and last of the things Yahweh hates
 

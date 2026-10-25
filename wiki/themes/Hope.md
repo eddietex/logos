@@ -78,7 +78,20 @@ is close because you cannot bear to sit in the dark with him.
 - **Hebrews 6:19** — *"an anchor of the soul, a hope both sure and steadfast"* — the cord image of
   *tiqvâ*, arrived at independently in Greek.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:24, 28
+
+The righteous anticipate joy and receive their desire, whereas the wicked meet feared disaster and
+lose their hope. Job 3:25–26 places realized dread and unrest in the life of the upright man of Job
+1:1. Hope’s moral direction and a sufferer’s current feelings cannot therefore be treated as
+interchangeable evidence.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:24, 28; The righteous anticipate joy and receive
+  their desire, whereas the wicked meet feared disaster and lose their hope.
 
 - [[Miserable Comforters and the Witness in Heaven]] — hope asked after and not found, four verses
   from the highest confidence in the book

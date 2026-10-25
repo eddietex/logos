@@ -71,7 +71,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Garments Commanded and Made - Exodus 28 and 39]] | command-and-performance | Exodus 28:1–43 · Exodus 29:4–9, 21, 29–30 · Exodus 35:19–27 · [[The Priestly Garments Made]] (Exodus 39:1–31) · [[The Work Completed]] (Exodus 39:32–43) |
 | [[Gathered to His People]] | parallel | Genesis 25:8 · Genesis 25:17 · Genesis 35:29 · Genesis 49:29, 33 · Numbers 20:24 · Deuteronomy 32:50 |
 | [[Gibeah and Sodom - Judges 19 as a Retelling]] | parallel | Genesis 19:1–11 · Judges 19:11–30 · Judges 20–21 · Hosea 9:9; 10:9 |
-| [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]] | literary-parallel | Proverbs 6:6–11 · Proverbs 24:30–34 · Proverbs 30:24–25 · Genesis 2:15 · Exodus 5:6, 14 · [[The Surety, the Sluggard, and the Seven Abominations]] (Proverbs 6:1–19) |
+| [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]] | literary-parallel | Proverbs 6:6–11 · Proverbs 24:30–34 · Proverbs 30:24–25 · Genesis 2:15 · Exodus 5:6, 14 · [[The Surety, the Sluggard, and the Seven Abominations]] (Proverbs 6:1–19); [[A Wise Son Makes a Glad Father]] (Proverbs 10:4–5, 26) |
 | [[God Almighty - El Shaddai in Genesis and Exodus]] | thread | Genesis 17:1 · Genesis 28:3; 35:11; 43:14; 48:3; 49:25 · Exodus 6:2–3 · Numbers 24:4, 16 · Job (31×) · Ruth 1:20–21 · Revelation 1:8 |
 | [[God Make You as Ephraim and as Manasseh - The Blessing Formula]] | parallel | Genesis 48:20 · Ruth 4:11–12 · Jeremiah 29:22 |
 | [[God Remembered - Noah, Abraham, Rachel, and Israel]] | thread | Genesis 8:1 · Genesis 9:15 · Genesis 19:29 · Genesis 30:22 · Exodus 2:24 · Exodus 3:15–16 · Exodus 6:5 · Exodus 12:14 · Psalm 105:42 · Luke 1:72–73 |
@@ -90,9 +90,9 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[He Takes the Wise in Their Craftiness - Job 5.13 in 1 Corinthians 3.19]] | quotation | Job 5:12–13 · 1 Corinthians 3:18–20 · Psalm 94:11 · Genesis 3:1 · 2 Corinthians 11:3 · Romans 11:35 · Job 42:7 · Job 12:17–25 · Philippians 1:19 |
 | [[He Treads on the Waves of the Sea - Job 9.8-11 and the Walking on the Water]] | allusion | Job 9:8, 11 · Job 4:15 · Job 38:16 · Exodus 33:19–23; 34:6 · 1 Kings 19:11 · Psalm 77:19 · Isaiah 43:16; 51:10 · Habakkuk 3:15 · Mark 6:45–52 · Matthew 14:22–33 · John 6:16–21 · Job 11:10 · [[Show Me Your Glory]] (Exodus 33:1–23) |
 | [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]] | quotation | Exodus 16:16–20 · 2 Corinthians 8:13–15 · Deuteronomy 2:7 · Psalm 23:1 |
+| [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]] | tension | Proverbs 4:21–27 · Job 31:1, 7, 9 · Job 23:11 · Job 2:7 · Job 1:1 · [[Keep Your Heart]] · [[Job's Oath of Innocence]] |
 | [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
-| [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]] | tension | Proverbs 4:21–27 · Job 31:1, 7, 9 · Job 23:11 · Job 2:7 · Job 1:1 · [[Keep Your Heart]] · [[Job's Oath of Innocence]] |
 | [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]] | thematic-parallel | Exodus 23:4–5 · Proverbs 25:21–22 · Matthew 5:43–48 · Romans 12:20–21 |
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |

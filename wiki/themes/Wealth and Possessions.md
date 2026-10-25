@@ -169,8 +169,7 @@ exodus story. See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]. See 
 
 Jewelry given for the calf in 32:2–4 is followed by jewelry removed in mourning in 33:4–6. Exodus 33
 does not say the remaining ornaments are destroyed or deposited as an offering. Their removal is
-obedience to a command in the crisis of presence, not payment for grace. See [[Show Me Your Glory]]
-.
+obedience to a command in the crisis of presence, not payment for grace. See [[Show Me Your Glory]].
 
 ### The freewill offering — Exodus 35:1–29
 
@@ -304,7 +303,20 @@ unexplained.** The wiki reads them as an order of desires, as 1 Kings 3:11–13 
 (Job 1:13–19). *ʿŌšer wəḵāḇôḏ*, *riches and honour*, is the pair of Proverbs 3:16 and 1 Kings 3:13.
 See [[Wisdom Calls at the Gates]] and [[Better Than Gold - The Price of Wisdom]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:2–5, 15–16, 20, 22
+
+Wealth shelters its owner and poverty leaves people exposed (15), but wicked treasure cannot deliver
+from death (2). Diligence (4) and Yahweh’s blessing (22) both contribute to flourishing; possessions
+alone do not certify righteousness. Job’s losses and Job 24:5–11’s hungry workers are explicit
+limits on inferring moral failure from poverty.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:2–5, 15–16, 20, 22; Wealth shelters its owner and
+  poverty leaves people exposed (15), but wicked treasure cannot deliver from death (2).
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–11; suretyship warned against, poverty as a robber
 

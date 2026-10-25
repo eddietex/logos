@@ -284,7 +284,20 @@ as a transparent description of all present outcomes.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:3, 9, 24–31
+
+The wicked face frustrated desire, exposure, disaster, loss of hope, and removal; Yahweh’s way
+brings destruction to evildoers. There is no named defendant or court scene. Job 21:7–13’s
+prosperous wicked remain counter-evidence to treating these judgments as an immediate and
+exceptionless account of experience.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 9, 24–31; The wicked face frustrated desire,
+  exposure, disaster, loss of hope, and removal; Yahweh’s way brings destruction to evildoers.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh’s verdict counters the apparent attractiveness of violence.
 

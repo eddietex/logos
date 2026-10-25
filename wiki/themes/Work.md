@@ -220,7 +220,20 @@ the garden's vocation (Genesis 2:15), not the curse. See
 [[The Surety, the Sluggard, and the Seven Abominations]] and
 [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:4–5, 16, 26
+
+Diligent hands and gathering in season bring provision; sleeping at harvest shames the household.
+The sluggard also irritates those who rely on his errand (26). Labor’s moral direction matters (16),
+and Job 24:5–11’s hungry workers prevent reversing the lesson into a claim that poverty proves
+laziness.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 16, 26; Diligent hands and gathering in
+  season bring provision; sleeping at harvest shames the household.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:6–11; the ant who works without an overseer, and the sluggard's little sleep
 

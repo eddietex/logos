@@ -16063,3 +16063,52 @@ checked in stored WEB; Isaiah 25:6; 55:1–3, Luke 14:16–17, 21, Matthew 22:2�
 11:19 checked in the WEB at bible-api.com, not stored. Hebrew of Proverbs 9:1–18 and the cited Proverbs
 verses and Job 26:5 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 `scripts/link-check.sh` clean.
+
+## [2026-10-25] ingest | Proverbs 10.1-32 — A Wise Son Makes a Glad Father
+
+Unattended `/ingest auto`, executed by Codex. The new Solomonic heading opens the short-sayings
+collection: household joy and grief, timely work, truthful and nourishing speech, correction,
+love that covers wrongs, and Yahweh's provision and judgment. The contrast between the righteous
+and wicked remains in explicit tension with Job's realized fears, household disaster, and
+observations of long-lived wicked people and hungry workers.
+
+**Judgment calls.** Kept the planned 10:1–32 boundary; the book's chapter-sized treatment of the
+sentence collections is an ingestion convention, not a claim that this chapter is a continuous
+speech. No new person or place pages: the wise son and other figures are unnamed types, the strong
+city is an image, and the land is not a named territory. Solomon's heading does not identify him
+as the wise son. The love/covering connection distinguishes forbearance, concealed hatred, and
+confession; its comparison with the New Testament makes no exact source-language or direct
+literary-dependence claim. No raw text, schema, or skill instructions changed.
+
+**Created (2):** [[A Wise Son Makes a Glad Father]] and
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+**Revised content pages (40):** [[Proverbs]]; [[God]] and [[Solomon]]; 24 themes — [[Wisdom]],
+[[Folly]], [[Righteousness]], [[Integrity]], [[Work]], [[Love]], [[Forgiveness]], [[Retribution]],
+[[Hope]], [[Remembrance]], [[Language and Speech]], [[Wealth and Possessions]], [[The Fear of God]],
+[[Life and Death]], [[Strife and Peacemaking]], [[Law and Obedience]], [[The Poor and the Vulnerable]],
+[[Blessing]], [[Deception]], [[Land and Sojourning]], [[Walking with God]], [[Sin]], [[Judgment]],
+and [[Suffering]]; five connections —
+[[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]],
+[[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]],
+[[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]],
+[[The Prosperity of the Wicked]], and [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]];
+eight earlier passage pages with reciprocal cross-references — [[The Purpose of the Proverbs]],
+[[The Two Feasts]], [[Keep Your Heart]], [[The Surety, the Sluggard, and the Seven Abominations]],
+[[If You Seek Her as Silver]], [[Let the Day Perish]], [[Why Do the Wicked Live]], and
+[[Oh That I Knew Where I Might Find Him]]. Stale un-ingested labels for Proverbs 10 were cleared
+from the Solomonic-heading and land connections.
+
+**Indexes (9):** books index (18 / 43 pericopes), wiki dashboard (162 passages, 179 people,
+90 places, 83 themes, 417 connections), themes index, People Index F-M and N-Z, and Connections
+Index D-H, I-N, O-S, and T-Z. The new connection files under L. Corrected an existing
+adjacent-row inversion in D-H: Heart precedes Hedge. This entry is the fiftieth revised
+existing page; with the two new pages, the pass touches 52 pages in total.
+
+**Sources and validation.** Proverbs 10 quotations copied from `raw/bible/Proverbs.md` (WEB).
+Other cited Proverbs and Job comparisons checked in the stored WEB. First Peter 4:8 and James
+5:19–20 verified through bible-api.com with `translation=web` on 2026-10-25, without storing
+unreached books in raw. No new assertion depends on unverified Hebrew or Greek wording.
+`scripts/link-check.sh` passed: no wrapped links or unexpected dangling targets; 62 unstarted
+book pages are the expected baseline. Key-verse excerpts match the stored text; page counts,
+category-row membership, alphabetical subindex filing, and the single queue advance were checked.

@@ -328,7 +328,19 @@ fingers. Write them on the tablet of your heart"* (7:3, 3:3 with the fingers for
 verb *šāmar* runs through it: the son keeps the teaching (7:1, 2), and it keeps him (7:5). See
 [[The Young Man Void of Understanding]] and [[The Apple of the Eye - Deuteronomy 32.10, Psalm 17.8, and Proverbs 7.2]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:8, 17
+
+The wise in heart accept commandments and heed correction. In the WEB, refusing reproof also leads
+others astray (17), making teachability a responsibility toward others. No specific Sinai command is
+quoted or identified here; the sayings describe a disposition toward instruction.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:8, 17; The wise in heart accept commandments and
+  heed correction.
 
 - [[Get Wisdom]] — Proverbs 4:1–9; A father transmits the instruction he received and kept.
 

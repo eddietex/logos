@@ -162,7 +162,19 @@ literally *guarded of heart* (7:10), the verb the father used for keeping the he
 words — *"persuasive"* and *"flattering"* (7:21). See [[The Young Man Void of Understanding]] and
 [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:9–10, 18
+
+A perverted course is exposed, the wink causes sorrow, and hatred hidden behind lying lips is
+condemned. This returns to the destructive signals of Proverbs 6:12–14. Love’s covering in 10:12
+must be distinguished from deceit in 10:18: the chapter commends one while condemning the other.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:9–10, 18; A perverted course is exposed, the wink
+  causes sorrow, and hatred hidden behind lying lips is condemned.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:13, 17, 19; winking signs, a lying tongue, a false witness
 

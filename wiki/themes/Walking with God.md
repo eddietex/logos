@@ -154,7 +154,19 @@ righteousness, in the middle of the paths of justice"* (8:20, *nəṯîḇôṯ 
 are the ones Yahweh guards at 2:8. Wisdom is not only a road the son takes (4:11) but a walker he can
 follow. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:9, 17, 29
+
+Blameless walking, the way of life, and the way of Yahweh describe ethical direction. The WEB gives
+rejected correction a social consequence: leading others astray (17). Verse 29 sets the same divine
+way before upright people and evildoers with opposite results; no literal journey is narrated.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:9, 17, 29; Blameless walking, the way of life,
+  and the way of Yahweh describe ethical direction.
 
 - [[Keep Your Heart]] — Proverbs 4:26–27; a level path, turning neither right nor left
 

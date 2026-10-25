@@ -1,0 +1,58 @@
+---
+type: connection
+subtype: literary-parallel
+tags: [connection]
+---
+# Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20
+
+## Passages involved
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; hatred stirs up strife, love covers wrongs.
+- Proverbs 17:9; 28:13 — covering an offense promotes love; concealing one's own sins
+  contrasts with confession and renunciation (stored WEB; not yet ingested).
+- 1 Peter 4:8 — earnest love among believers, covering a multitude of sins (not yet ingested).
+- James 5:19–20 — turning a wanderer back from error, saving from death, and covering sins
+  (not yet ingested).
+
+## Analysis
+
+**The proverb starts with a conflict.** Proverbs 10:12 says, “Hatred stirs up strife, but love
+covers all wrongs.” The first line supplies the practical opposite of covering: stirring up a
+dispute. Proverbs 17:9 further contrasts covering an offense with repeating a matter that separates
+friends. The shared concern is the effect of one's response to another person's wrong on a
+relationship.
+
+**Covering is not simply concealment.** The same chapter condemns a person who hides hatred behind
+lying lips (10:18). Proverbs 28:13 says, “He who conceals his sins doesn’t prosper, but whoever
+confesses and renounces them finds mercy.” That is a different case: concealing one's own wrongdoing
+rather than responding in love to an offense. Reading the sayings together distinguishes forbearance
+from dishonesty without inventing a procedure for resolving every dispute.
+
+**First Peter closely parallels the love saying.** The verified WEB of 1 Peter 4:8 reads, “And above
+all things be earnest in your love among yourselves, for love covers a multitude of sins.” Love and
+the covering of sins remain together; the setting is a community exhorted to love one another. The
+English verbal resemblance supports placing the texts together. This page does not claim an exact
+quotation of a particular Hebrew or Greek edition, which was not checked for this comparison.
+
+**James gives covering an active setting.** In James 5:19–20 a member of the community wanders from
+the truth and another turns that person back. Verse 20 joins saving a soul from death with covering
+a multitude of sins. This is restoration through turning back, rather than simply declining to
+mention a wrong. James does not identify Proverbs here, and this page does not assign the covered
+sins to the rescuer or derive a mechanism of atonement from the phrase alone.
+
+The three settings therefore have a shared image but distinct actions: love interrupts strife in
+Proverbs, sustains a community in First Peter, and is associated here by comparison with the
+restoring work described in James. The James passage itself does not explicitly use the word love in
+these two verses; that observation concerns the verified WEB text only.
+
+## Significance
+
+The connection keeps forgiveness alongside truthful correction. Proverbs 10:17 commends heeding
+correction, while 10:12 commends love's covering; the two sayings need not cancel each other. The
+image can describe refusing to perpetuate hostility without declaring wrongdoing imaginary. See
+[[Love]], [[Forgiveness]], [[Strife and Peacemaking]], and [[Language and Speech]].
+
+Sources: Proverbs 10:12, 17–18; 17:9; 28:13 checked in `raw/bible/Proverbs.md` (WEB). First Peter
+4:8 and James 5:19–20 checked at bible-api.com on 2026-10-25 using `translation=web`. The external
+texts were fetched only for verification, not added to raw. All source-language and
+direct-dependence questions remain outside this comparison.

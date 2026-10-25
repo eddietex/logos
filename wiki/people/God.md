@@ -2064,6 +2064,16 @@ Job 21:9 describes wicked homes safe from fear. The promises must not be used to
 guilt from another person's suffering. See [[Do Not Withhold Good]] and
 [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]]. Source: cited stored WEB passages; later citations checked through bible-api.com (2026-10-25).
 
+### Provision, blessing, and the way of Yahweh — Proverbs 10
+
+Yahweh refuses the righteous person's hunger and the wicked person's desire (10:3); his blessing
+brings wealth (22); his fear prolongs days (27); and his way is a stronghold to the upright but
+destruction to evildoers (29). These are statements about his government of life, not narrated
+actions or divine speech. **Tension retained:** Job 1:1, 13–22 and 21:7–13 place upright suffering
+and prosperous wicked people beside these categorical promises. See
+[[A Wise Son Makes a Glad Father]] and [[The Prosperity of the Wicked]]. Source: stored WEB
+Proverbs 10 and Job 1, 21.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2336,6 +2346,9 @@ guilt from another person's suffering. See [[Do Not Withhold Good]] and
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 22, 27, 29; provision, blessing, length of
+  days, and opposite outcomes in his way.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; protection, friendship, judgment, blessing, and grace.
 

@@ -289,6 +289,9 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:27 shortens the wicked person’s years, against
+  Job 21:7–13’s old and prosperous wicked.
+
 - [[Do Not Withhold Good]] — Proverbs 3:33 contrasts cursed wicked and blessed righteous homes; Job 21:7–9 explicitly observes secure wicked households.
 
 - [[Zophar's Second Speech]] — Job 20, whose *"short"* and *"for a moment"* (20:5) this chapter

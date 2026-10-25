@@ -151,6 +151,9 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 
 ## Cross-references
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:1 renews the Solomonic heading and begins the
+  short sayings collection.
+
 - [[The Two Feasts]] — Proverbs 9:9–10; *"increase in learning"* (1:5) and *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is
   understanding."* The motto repeated at the close of the prologue.
 - Proverbs 15:33 — *"The fear of Yahweh teaches wisdom. Before honor is humility."*

@@ -153,7 +153,19 @@ All Wisdom's words are *"in righteousness"* (8:8, *bəṣeḏeq*); rulers by her
 of riches, honour, and enduring wealth; the Hebrew puts righteousness itself among Wisdom's goods. See
 [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:2–3, 6–7, 11, 16, 20–21, 24–32
+
+Righteousness is associated with life, beneficial speech, granted desire, joy, and lasting security.
+The upright Job loses his household (Job 1:1, 13–22), and Job 21:7–13 describes prosperous wicked
+people; these outcomes remain an explicit tension with the chapter’s unqualified contrasts.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:2–3, 6–7, 11, 16, 20–21, 24–32; Righteousness is
+  associated with life, beneficial speech, granted desire, joy, and lasting security.
 
 - [[The Two Paths]] — Proverbs 4:18; the path of the righteous as light that shines more and more
 

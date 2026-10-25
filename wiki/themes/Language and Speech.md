@@ -204,7 +204,20 @@ to him who understands"* (8:9, *nəḵōḥîm*) — not riddles. The portrait a
 strange woman (7:21) and the *"men who speak perverse things"* (2:12), and 8:13 adds *"the perverse
 mouth"* to what she hates. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:6, 8, 10–14, 18–21, 31–32
+
+The mouth can be a spring of life, feed many, and produce wisdom; it can also hide hatred, slander,
+and bring ruin. Restraint (19) and nourishment (21) belong together: wise speech is measured by its
+truth and benefit, not merely by silence. Verse 18 prevents confusing love’s covering of wrongs (12)
+with lying.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:6, 8, 10–14, 18–21, 31–32; The mouth can be a
+  spring of life, feed many, and produce wisdom; it can also hide hatred, slander, and bring ruin.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:2, 12–13, 17, 19; trapped by one's words; the perverse mouth; the lying tongue
 

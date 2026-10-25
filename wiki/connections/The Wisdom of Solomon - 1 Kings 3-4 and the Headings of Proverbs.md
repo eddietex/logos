@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Proverbs 1:1** — *"The proverbs of Solomon, the son of David, king of Israel"* — the heading of the
   book, at the start of [[The Purpose of the Proverbs]].
-- **Proverbs 10:1** — *"The proverbs of Solomon."* The heading of the first sentence collection. Not
-  yet ingested.
+- **Proverbs 10:1** — *"The proverbs of Solomon."* The heading of the first sentence collection —
+  [[A Wise Son Makes a Glad Father]].
 - **Proverbs 25:1** — *"These also are proverbs of Solomon, which the men of Hezekiah king of Judah
   copied out."* Not yet ingested.
 - **Proverbs 22:17; 24:23; 30:1; 31:1** — the headings that name someone else: *"the words of the
@@ -82,6 +82,15 @@ the pair God gave Solomon unasked (*gam-ʿōšer gam-kāḇôḏ*, 1 Kings 3:13;
 *Miqra according to the Masorah*, 2026-10-25). Proverbs does not name Solomon in chapter 8, and the wiki
 does not claim the speech was written with him in view; the two passages share a theory of rule, and
 the book's heading puts them under one name.
+
+### The sentence collection — Proverbs 10:1
+
+The heading now stands over an ingested specimen: household joy and grief, work at harvest, speech,
+and divine blessing. The wise son of 10:1 is an unnamed type, not an identified event in Solomon’s
+biography. The collection attribution and its teaching characters must be kept distinct.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
+in stored WEB, 2026-10-25.
 
 ## Significance
 

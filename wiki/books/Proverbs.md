@@ -149,6 +149,13 @@ them, sayings on the scoffer and the wise man and the motto again: *"The fear of
 of wisdom"* (9:10), closing chapters 1–9 as 1:7 opened them. See [[The Two Feasts]] and
 [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]].
 
+The new heading at 10:1 opens the sentence collection: [[A Wise Son Makes a Glad Father]] (10:1–32).
+Short contrasts bring wisdom into the household, harvest, choice of words, and response to
+correction. Wealth protects and poverty exposes (10:15), but wicked treasure does not save (10:2);
+love covers wrongs while deceitful hatred is condemned (10:12, 18). The promises of safety and long
+life remain in explicit tension with Job's disaster and his observation of prosperous wicked people
+(Job 1:13–22; 3:25; 21:7–13).
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -198,7 +205,7 @@ first collection at its heading), each titled from a representative saying.
 
 ### The proverbs of Solomon (10:1–22:16)
 
-- [ ] A Wise Son Makes a Glad Father — Proverbs 10:1–32
+- [x] [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32
 - [ ] A False Balance — Proverbs 11:1–31
 - [ ] Whoever Loves Correction — Proverbs 12:1–28
 - [ ] Hope Deferred — Proverbs 13:1–25

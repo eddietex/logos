@@ -95,7 +95,20 @@ the needy. The connection is thematic, not a claim of direct quotation.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:4, 15
+
+Verse 4 warns that laziness brings poverty; verse 15 recognizes poverty itself as destructive
+without assigning blame. Job 24:5–11 explicitly depicts working people who go hungry. These claims
+distinguish a warning against neglecting work from a verdict that every poor person has neglected
+it.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:4, 15; Verse 4 warns that laziness brings
+  poverty; verse 15 recognizes poverty itself as destructive without assigning blame.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; A broad duty of timely help includes, but is not restricted to, the vulnerable.
 

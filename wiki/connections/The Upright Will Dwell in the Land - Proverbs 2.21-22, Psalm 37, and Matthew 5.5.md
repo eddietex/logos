@@ -10,7 +10,7 @@ tags: [connection]
 - [[If You Seek Her as Silver]] — Proverbs 2:21–22: *"For the upright will dwell in the land. The
   perfect will remain in it. But the wicked will be cut off from the land. The treacherous will be
   rooted out of it."*
-- Proverbs 10:30 *(not yet ingested)* — *"The righteous will never be removed, but the wicked will
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:30: *"The righteous will never be removed, but the wicked will
   not dwell in the land."*
 - Psalm 37:9, 11, 22, 29 *(not yet ingested)* — *"evildoers shall be cut off, but those who wait for
   Yahweh shall inherit the land"*; *"the humble shall inherit the land"*; *"such as are blessed by
@@ -51,6 +51,16 @@ cave ([[Land and Sojourning]]); and Job, introduced in exactly Proverbs 2:21's p
 by his sin. Psalm 37's answer is *wait*; the restoration of Job (Job 42:10–17) is a narrative form of
 the same answer; Matthew 5:5's is eschatological. Proverbs 2 gives no answer because it does not
 raise the question.
+
+### The sentence collection — Proverbs 10:30
+
+The later saying repeats the contrast between righteous permanence and wicked exclusion. It follows
+Yahweh’s way as stronghold and destruction (29), giving the land claim a moral setting. No
+particular territory is named in 10:30. Its relation to covenant land remains a contextual
+interpretation, and the existing tension with righteous suffering is not removed.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
+in stored WEB, 2026-10-25.
 
 ## Significance
 

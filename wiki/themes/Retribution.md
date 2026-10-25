@@ -271,7 +271,22 @@ humans only the fear of the Lord and turning from evil as their share of it, and
 lost nearly everything. Proverbs 8 states the promise without exceptions; Job remains the case where
 it did not hold in the ordinary way. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:2–3, 22, 24–30
+
+The promises are categorical: provision for the righteous, realized fear for the wicked, life
+prolonged by fear of Yahweh, and secure dwelling. Job 3:25 reports realized fear in an upright
+sufferer; Job 21:7–13 reports the wicked growing old. The contradiction in outcomes remains visible.
+Treating these proverbs as general instruction is an interpretive qualification, not a restriction
+stated in their wording.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:2–3, 22, 24–30; The promises are categorical:
+  provision for the righteous, realized fear for the wicked, life prolonged by fear of Yahweh, and
+  secure dwelling.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:11, 15; sudden poverty and sudden breaking
 

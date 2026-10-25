@@ -165,7 +165,20 @@ love. See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew r
 (8:17) and ends with the opposite love: *"All those who hate me love death"* (*ʾāhăḇû māweṯ*). Love is
 not neutral in Proverbs; what one loves is a direction. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:12
+
+Love covers wrongs where hatred keeps conflict active. The contrast concerns how people respond to
+offenses, not denial that an offense occurred. Verse 18 condemns concealed hatred, and Proverbs 17:9
+connects covering an offense with friendship. See
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; Love covers wrongs where hatred keeps
+  conflict active.
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:19; *"Be captivated always with her love"*,
   married love commanded

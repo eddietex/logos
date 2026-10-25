@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 26.
+
 - **Proverbs 6:6–11** — [[The Surety, the Sluggard, and the Seven Abominations]]: *"Go to the
   ant, you sluggard. Consider her ways, and be wise"* (6:6); *"A little sleep, a little slumber, a
   little folding of the hands to sleep: so your poverty will come as a robber, and your scarcity as
@@ -56,6 +58,16 @@ above, and the ant's is self-moved. The sluggard needs a *šōṭēr* and has no
 **Work before the curse.** The ant is not an image of toil. Genesis puts the man in the garden
 *"to cultivate and keep it"* (2:15) before the fall, and the curse of 3:17–19 falls on the ground,
 not on work as such. The sluggard refuses the first vocation, not the penalty. See [[Work]].
+
+### The sentence collection — Proverbs 10:4–5, 26
+
+The summer gathering and harvest sleep of 10:5 bring the ant’s lesson into a household. Verse 26
+adds the experience of those who send the sluggard: idleness frustrates people depending on him.
+Verse 15 acknowledges poverty’s destructive force without assigning its cause, so the work sayings
+do not diagnose every poor person.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
+in stored WEB, 2026-10-25.
 
 ## Significance
 

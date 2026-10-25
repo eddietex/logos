@@ -276,7 +276,21 @@ wrongs his own soul. All those who hate me love death."* *Ḥōmēs nap̄šô*, 
 soul*, uses the root of Genesis 6:11's *ḥāmās*. The chapter that began its promises with *"I love those
 who love me"* (8:17) ends with a second love — of death — answering 7:27's house of death. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A Wise Son Makes a Glad Father — Proverbs 10:2, 11, 16–17, 21, 27
+
+Righteousness delivers from death; the righteous mouth is a spring of life and feeds many; accepting
+correction marks the way of life. These images include life sustained through other people’s words.
+The chapter neither explains bodily immortality nor gives a resurrection timetable; its promises
+remain in tension with Job’s losses.
+
+See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
+checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[A Wise Son Makes a Glad Father]] — Proverbs 10:2, 11, 16–17, 21, 27; Righteousness delivers from
+  death; the righteous mouth is a spring of life and feeds many; accepting correction marks the way of
+  life.
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:5–6, 23; her steps to Sheol, and death for lack
   of instruction
