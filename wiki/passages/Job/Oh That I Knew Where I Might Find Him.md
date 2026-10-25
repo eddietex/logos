@@ -352,6 +352,8 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[Keep Your Heart]] — Proverbs 4:26–27, *"Don't turn to the right hand nor to the left"*, the command
+  23:11 claims to have kept; see [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
 - [[Eliphaz's Third Speech]] — Job 22, which this does not answer directly: 22:22 against 23:12,
   22:24–25 against 23:10, 22:6–9 against 24:2–11, 22:13 against 24:23.
 - [[There Is No Umpire Between Us]] — Job 9, the trial Job thought hopeless because of God's power;

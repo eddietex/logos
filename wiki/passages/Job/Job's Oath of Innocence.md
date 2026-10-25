@@ -242,6 +242,8 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[Keep Your Heart]] — Proverbs 4:21–27 commands the keeping of heart, eyes, and feet that 31:1, 7, 9
+  swears to; see [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
 - [[Do Not Withhold Good]] — Proverbs 3:27–28 commands the timely good Job claims to have given (31:16–23); see
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 

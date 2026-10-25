@@ -77,6 +77,9 @@ still.
 - It sits beside [[Circumcision of the Heart]], the other Old Testament image of a heart that must be
   changed, and beside [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]], where the
   same chapter of 2 Corinthians continues the comparison of ministries.
+- Proverbs 4:21–23 keeps the father's words *"in the center of your heart"* and makes that heart the
+  wellspring of life — the tablet as source as well as store. See [[Keep Your Heart]] and
+  [[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]].
 
 **Sources:** Exodus and Proverbs checked in `raw/bible/`; Deuteronomy 6:5–8, Jeremiah 17:1; 31:33,
 Ezekiel 36:26, and 2 Corinthians 3:3 verified WEB from bible-api.com, 2026-10-25, not stored. Hebrew

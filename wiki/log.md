@@ -15640,3 +15640,46 @@ stored Proverbs 1:15–16; 2:13, 20; 3:2, 23–24; 4:6, 8; 9:5, 17 and Job 1:1; 
 at bible-api.com, fetched this pass; no unstored book was added to `raw/`. John 3:19–20 is cited
 by reference only. No Hebrew or Greek wording claim is made; the remark on *"she"* in 4:13
 concerns the WEB rendering. No raw text changed.
+
+## [2026-10-25] ingest | Proverbs 4.20-27 — Keep Your Heart
+
+Unattended run (`/ingest auto`). The planned 4:20–27 boundary is kept: *"My son"* opens it, the
+Masoretic text closes it with a *petuḥah* after 4:27 (Sefaria, *Miqra according to the Masorah*),
+and 5:1 opens a new lecture. The father's words are kept before the eyes and *"in the center of
+your heart"* as life and health; the heart is guarded above all, *"for out of it is the wellspring
+of life"*; mouth, eyes, and feet follow, on a level path that turns neither right nor left. The
+unnamed father and son get no person page, and no person or place page is revised.
+
+**Tension recorded:** Proverbs 4:22 promises *"health to their whole body"* to the one who keeps
+the words in the heart; Job swore to having kept heart, eyes, and step (Job 31:1, 7, 9; 23:11) and
+was struck from sole to head (2:7). Recorded as a tension on the passage page, [[Healing]], and the
+new connection, not resolved.
+
+**Judgment calls:** the *"right hand nor to the left"* idiom shared with Deuteronomy 5:32 and
+Joshua 1:7 is recorded on the passage page and folded into the existing two-ways connection rather
+than given its own page; the Gospel heart-and-mouth sayings are recorded as a thematic parallel,
+not a quotation.
+
+**Created (3):** [[Keep Your Heart]] and two connections,
+[[Heart, Eyes, and Feet - Proverbs 4 and Job 31]] and
+[[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]].
+
+**Revised content pages (15):** [[Proverbs]]; six themes — [[Wisdom]], [[Life and Death]],
+[[Healing]], [[Language and Speech]], [[Seeing and Being Seen]], [[Walking with God]]; three
+connections — [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]],
+[[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]],
+[[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]]; five reciprocal passage updates —
+[[The Two Paths]], [[Trust in Yahweh with All Your Heart]], [[Do Not Withhold Good]],
+[[Job's Oath of Innocence]], [[Oh That I Knew Where I Might Find Him]].
+
+**Bookkeeping (7 revised files including this log):** books index, themes index, Connections
+Index D-H, O-S, and T-Z, main index, and log. Totals: 154 passages, 179 people, 90 places,
+83 themes, 399 connections.
+
+**Sources:** all eight passage verses copied from stored WEB Proverbs. Comparisons checked in
+stored Proverbs 1:16; 2:12, 16; 3:1, 3, 7–8, 21; 5:1–6 and Job 1:1; 2:7; 23:11–12; 31:1, 7, 9.
+Deuteronomy 5:32–33, Joshua 1:7, Matthew 15:18–19, Mark 7:21–23, and Luke 6:45 quoted from the WEB
+at bible-api.com, fetched this pass; no unstored book was added to `raw/`. Hebrew of Proverbs
+4:20–27 read from Sefaria's *Miqra according to the Masorah*: *marpēʾ* (4:22), *mikkol-mišmār* and
+*tôṣəʾôṯ* (4:23). The root link of *marpēʾ* to 3:8's *rip̄ʾûṯ* is the conventional lexical one and
+is qualified as unchecked against a lexicon at the point of the claim. No raw text changed.

@@ -20,6 +20,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] | parallel | Exodus 29:1–37 · Exodus 40:12–15 · Leviticus 8:1–36 · Leviticus 9:23–24 · Exodus 30:26–30 · Leviticus 8:10–12 · [[The Tabernacle Raised and the Glory]] (Exodus 40:1–38) |
 | [[The Other Line First - The Order of the Toledot in Genesis]] | parallel | Genesis 4:17–26 · Genesis 10:2–31 · Genesis 25:12–19 · Genesis 36:1–37:2 · Romans 9:6–13 · Exodus 6:16, 19 |
 | [[Our Little Ones Stayed in Goshen - Genesis 50.8 and the Bargaining of Exodus 10]] | parallel | Genesis 50:7–9 · Exodus 8:25–28 · Exodus 10:8–11, 24–26 · Exodus 12:31–32 · Exodus 12:38 |
+| [[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]] | thematic-parallel | Proverbs 4:23–24 · Matthew 15:18–19 · Mark 7:21–23 · Luke 6:45 · [[Keep Your Heart]] |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
 | [[Outside the Camp - The Sin Offering and Hebrews 13]] | typology | Exodus 29:10–14 · Leviticus 8:14–17 · Hebrews 13:10–13 · Hebrews 7:27 |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |

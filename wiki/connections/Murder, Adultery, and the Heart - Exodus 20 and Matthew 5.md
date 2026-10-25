@@ -39,3 +39,6 @@ lexical claim or judgment about textual variants.
 [[Life and Death]], [[Marriage]], [[Sexual Sin]], and [[Law and Obedience]] meet in conduct that
 protects a neighbor. The prohibition of coveting prevents the comparison from reducing the earlier
 law to external compliance.
+
+See also [[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]] — Proverbs 4:23's heart as
+wellspring, and Matthew 15:19's murders and adulteries coming *"out of the heart"*.

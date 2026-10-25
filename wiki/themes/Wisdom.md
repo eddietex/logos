@@ -285,7 +285,19 @@ which road not to set foot on (4:14–15).
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Wisdom kept in the heart — Proverbs 4:20–27
+
+The father's words are to stay before the son's eyes and *"in the center of your heart"* (4:21),
+and the heart is to be kept *"with all diligence, for out of it is the wellspring of life"*
+(4:23). Wisdom here is not only acquired and held (4:5–8) but stored at the source from which
+speech, sight, and walking proceed (4:24–27). See
+[[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]].
+
+See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Keep Your Heart]] — Proverbs 4:20–27; the father's words kept in the heart, the source of mouth, eyes, and feet
 
 - [[The Two Paths]] — Proverbs 4:10–19; wisdom as a road, and instruction held as life
 

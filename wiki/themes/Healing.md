@@ -78,7 +78,21 @@ from evil. *Body* translates *šōr*, elsewhere *navel*; the sense of the Hebrew
 [[Trust in Yahweh with All Your Heart]] and [[Bitter Water at Marah]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Health to the whole body — Proverbs 4:22
+
+*"For they are life to those who find them, and health to their whole body"* (4:22). The noun is
+*marpēʾ* (Sefaria's *Miqra according to the Masorah*, read 2026-10-25), conventionally derived from
+the same root *rāp̄āʾ* as 3:8's *rip̄ʾûṯ*; the root relation is the standard lexical one and was not
+checked against a lexicon this pass. In 3:8 the fear of Yahweh gave health; here the father's words
+kept in the heart do. Job is the recorded counter-case: his body was struck *"from the sole of his
+foot to his head"* (Job 2:7) although he kept heart, eyes, and feet (Job 31:1, 7). See
+[[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
+
+See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Keep Your Heart]] — Proverbs 4:22; *marpēʾ*, health to the whole body from kept words
 
 - [[Abraham and Abimelech]] — Genesis 20:17; **the first *rāpāʾ*.** God heals a foreign household after
   Abraham prays

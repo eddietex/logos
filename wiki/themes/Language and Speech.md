@@ -155,7 +155,19 @@ chain of teaching without identifying the unnamed speakers as particular kings. 
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Heart before mouth — Proverbs 4:23–24
+
+Directly after *"Keep your heart … for out of it is the wellspring of life"* (4:23) comes *"Put
+away from yourself a perverse mouth. Put corrupt lips far from you"* (4:24). Speech is the heart's
+first outflow, as the Gospels later say in one sentence: *"out of the abundance of the heart, his
+mouth speaks"* (Luke 6:45, WEB, verified at bible-api.com). See
+[[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]].
+
+See [[Keep Your Heart]]. Source: Proverbs checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Keep Your Heart]] — Proverbs 4:23–24; the perverse mouth put away, speech as the heart's outflow
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Received speech becomes the next generation’s instruction.
 

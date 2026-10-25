@@ -137,7 +137,8 @@ No named geographical place. The path and the way are metaphors for a manner of 
   outcome.
 - [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]] — the two-ways teaching across the canon.
 - Proverbs 9:5, 17 — Wisdom's bread and wine against Folly's stolen water and secret food.
-- Proverbs 4:20–27 — the next lecture's level path that turns neither right nor left (4:26–27).
+- [[Keep Your Heart]] — Proverbs 4:20–27; the next lecture's level path that turns neither right nor
+  left (4:26–27).
 
 ## Notes
 

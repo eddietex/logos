@@ -123,7 +123,20 @@ brightening like dawn, the wicked way so dark its walkers *"don't know what they
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Neither right nor left — Proverbs 4:26–27
+
+*"Make the path of your feet level. Let all of your ways be established. Don't turn to the right
+hand nor to the left. Remove your foot from evil"* (4:26–27). The idiom is Deuteronomy's — *"You
+shall not turn away to the right hand or to the left"* (Deuteronomy 5:32) — and Joshua's
+(Joshua 1:7; both WEB, verified at bible-api.com, not yet ingested); there the road is the law,
+here the father's teaching. Job claimed to have walked it: *"I have kept his way, and not turned
+away"* (Job 23:11). See [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
+
+See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Keep Your Heart]] — Proverbs 4:26–27; a level path, turning neither right nor left
 
 - [[The Two Paths]] — Proverbs 4:10–19; the way of wisdom, the path of the wicked, and six commands to avoid it
 

@@ -73,6 +73,12 @@ they have done evil. The lecture ends on light: the righteous path brightening l
 wicked way so dark they *"don't know what they stumble over"*. See [[The Two Paths]]. Job 24:13–17
 draws the same night-loving wicked but cannot see their fall, and the wiki keeps the tension.
 
+The chapter's last lecture moves from the road to the walker (4:20–27). The father's words are
+kept *"in the center of your heart"* as life and health, and the heart is guarded above all,
+*"for out of it is the wellspring of life"* (4:23); mouth, eyes, and feet follow, on a level path
+that turns *"to the right hand nor to the left"*. See [[Keep Your Heart]]. Job 31 swears to the
+same keeping of heart, eyes, and step, and Job 2:7 records the body struck anyway.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -111,7 +117,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Do Not Withhold Good]] — Proverbs 3:21–35
 - [x] [[Get Wisdom]] — Proverbs 4:1–9
 - [x] [[The Two Paths]] — Proverbs 4:10–19
-- [ ] Keep Your Heart — Proverbs 4:20–27
+- [x] [[Keep Your Heart]] — Proverbs 4:20–27
 - [ ] The Strange Woman and the Wife of Your Youth — Proverbs 5:1–23
 - [ ] The Surety, the Sluggard, and the Seven Abominations — Proverbs 6:1–19
 - [ ] The Lamp of the Commandment — Proverbs 6:20–35
@@ -178,6 +184,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19)
+- [[Healing]] — the father's words as *"health to their whole body"* (4:22)
+- [[Seeing and Being Seen]] — eyes fixed straight ahead (4:25)
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people

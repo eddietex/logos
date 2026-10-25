@@ -241,7 +241,18 @@ an exceptionless rule; see [[Retribution]].
 
 See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### The wellspring of life — Proverbs 4:20–23
+
+The father's words are *"life to those who find them"* (4:22), and the heart is kept because
+*"out of it is the wellspring of life"* (4:23). Life is located at a source inside the person and
+described as flowing out into conduct. Job 31 and 2:7 record a man who kept heart, eyes, and
+feet and still lost the body's health; see [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
+
+See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Keep Your Heart]] — Proverbs 4:22–23; the father's words as life, the heart as life's wellspring
 
 - [[The Two Paths]] — Proverbs 4:10–13; many years, and instruction as the son's life
 

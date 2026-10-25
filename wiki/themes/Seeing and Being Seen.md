@@ -100,7 +100,19 @@ with God or claiming a new vision. See
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### Eyes straight ahead — Proverbs 4:21, 25
+
+The father's words must not *"depart from your eyes"* (4:21), and the eyes are to *"look straight
+ahead"*, the gaze fixed *"directly before you"* (4:25). Sight is disciplined, not merely used: what
+the eyes look at is a matter of the heart's keeping. Job swore the same discipline — *"I made a
+covenant with my eyes"* (Job 31:1) — and named its failure as the heart walking *"after my eyes"*
+(31:7). See [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]].
+
+See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Keep Your Heart]] — Proverbs 4:21, 25; the words kept before the eyes, and eyes fixed straight ahead
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Israel sees Moses shining, not the divine face withheld in 33:20.
 

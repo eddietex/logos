@@ -20,6 +20,9 @@ tags: [connection]
 - **Proverbs 4:10–19** — *"I have taught you in the way of wisdom. … Don't enter into the path of
   the wicked. … But the path of the righteous is like the dawning light … The way of the wicked is
   like darkness."* — [[The Two Paths]]
+- **Proverbs 4:26–27** — *"Make the path of your feet level. … Don't turn to the right hand nor to
+  the left. Remove your foot from evil."* — [[Keep Your Heart]]; compare Deuteronomy 5:32–33 and
+  Joshua 1:7, *"to the right hand or to the left"* (WEB, verified at bible-api.com; not yet ingested)
 - **Jeremiah 21:8** — *"Behold, I set before you the way of life and the way of death."* (not yet
   ingested)
 - **Matthew 7:13–14** — *"Enter in by the narrow gate; for wide is the gate and broad is the way
@@ -55,8 +58,11 @@ a parent speaking to a child, and its most visual one, the brightening path. Rea
 frame is about direction and destination, not about the visible prosperity of those on each road;
 see [[Rebels Against the Light - Proverbs 4 and Job 24]] and [[Retribution]].
 
+The next lecture keeps the one road and adds its discipline: turn neither right nor left, the
+idiom Deuteronomy uses of the law (5:32) — see [[Keep Your Heart]].
+
 Related: [[Walking with God]], [[Light and Darkness]], [[Righteousness]], [[Life and Death]].
 
-Sources: Proverbs 1:15; 2:12–20; 4:10–19 checked in `raw/bible/Proverbs.md` (WEB). Deuteronomy
-30:15, 19; Psalm 1:1, 6; Jeremiah 21:8; and Matthew 7:13–14 checked in the WEB at bible-api.com,
+Sources: Proverbs 1:15; 2:12–20; 4:10–19, 26–27 checked in `raw/bible/Proverbs.md` (WEB). Deuteronomy
+30:15, 19; Psalm 1:1, 6; Jeremiah 21:8; Deuteronomy 5:32–33; Joshua 1:7; and Matthew 7:13–14 checked in the WEB at bible-api.com,
 2026-10-25. No source-language claim is made.

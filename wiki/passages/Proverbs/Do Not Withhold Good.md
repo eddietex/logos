@@ -124,6 +124,7 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 
 ## Cross-references
 
+- [[Keep Your Heart]] — Proverbs 4:21 repeats 3:21's *"let them not depart from your eyes"*.
 - [[Get Wisdom]] — Proverbs 4:6–9 continues the promises of wisdom’s protection and honor.
 
 - [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]] — Proverbs 3:34 cited in James
