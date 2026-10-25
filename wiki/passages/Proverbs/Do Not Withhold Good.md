@@ -141,6 +141,7 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 - [[Trust in Yahweh with All Your Heart]] — trust (3:5–6) continues as confidence (3:26).
 - [[Why Do the Wicked Live]] — Job 21:7–9's prosperous wicked households complicate 3:33.
 - [[The Arrows of the Almighty]] — Job 7:3–4, 13–14's terrified nights complicate 3:24.
+- [[The Two Paths]] — Proverbs 4:12, 16; the unstumbling foot and sweet sleep, against the sleepless wicked.
 
 ## Notes
 

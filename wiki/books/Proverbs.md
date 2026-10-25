@@ -67,6 +67,12 @@ the learner. See [[Get Wisdom]]. The unnamed speakers are not securely identifie
 Solomon and David, and the honor promised remains in tension with Job's removed crown
 (Job 19:9). Instruction is handed on through a household as well as learned from observation.
 
+The father then sets two roads before the son (4:10–19). He has already led him in *"the way of
+wisdom"*; six commands keep him off *"the path of the wicked"*, whose walkers cannot sleep until
+they have done evil. The lecture ends on light: the righteous path brightening like dawn, the
+wicked way so dark they *"don't know what they stumble over"*. See [[The Two Paths]]. Job 24:13–17
+draws the same night-loving wicked but cannot see their fall, and the wiki keeps the tension.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -104,7 +110,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20
 - [x] [[Do Not Withhold Good]] — Proverbs 3:21–35
 - [x] [[Get Wisdom]] — Proverbs 4:1–9
-- [ ] The Two Paths — Proverbs 4:10–19
+- [x] [[The Two Paths]] — Proverbs 4:10–19
 - [ ] Keep Your Heart — Proverbs 4:20–27
 - [ ] The Strange Woman and the Wife of Your Youth — Proverbs 5:1–23
 - [ ] The Surety, the Sluggard, and the Seven Abominations — Proverbs 6:1–19
@@ -170,6 +176,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Retribution]] — the ordinary run of things, stated as sentences; see the Overview on reading
   it after Job
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
+- [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
+- [[Light and Darkness]] — the dawning path and the dark way (4:18–19)
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people

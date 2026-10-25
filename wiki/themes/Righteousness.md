@@ -135,7 +135,19 @@ cannot therefore serve as a reliable verdict on a neighbor's standing.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### The path that brightens — Proverbs 4:18
+
+*"The path of the righteous is like the dawning light, that shines more and more until the
+perfect day"* (4:18). Righteousness is pictured as a road travelled and a light increasing, not a
+fixed state: real at the start and fuller later. The verse does not say how long the brightening
+takes or that it is visible to others; Job's case warns against reading a righteous person's
+present darkness as evidence against him (Job 1:1; 19:8).
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:18; the path of the righteous as light that shines more and more
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Friendship and blessing accompany uprightness; Job limits inference from prosperity.
 

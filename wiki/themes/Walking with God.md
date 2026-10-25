@@ -112,7 +112,20 @@ the road. Proverbs 16:9 puts the same order as a saying — *"A man's heart plan
 directs his steps"*. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The way of wisdom and the path of the wicked — Proverbs 4:10–19
+
+The father has already *"taught"* and *"led"* the son in *"the way of wisdom"* and *"straight
+paths"* (4:11); the lecture is about staying on a road already begun. Six commands in two verses
+keep him off the other one: *"Don't enter … Don't walk … Avoid it … don't pass by it. Turn from it,
+and pass on"* (4:14–15). The two roads are then given their lighting — the righteous path
+brightening like dawn, the wicked way so dark its walkers *"don't know what they stumble over"*
+(4:18–19). See [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]].
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:10–19; the way of wisdom, the path of the wicked, and six commands to avoid it
 
 - [[From Adam to Noah]] — where the phrase enters the Bible, and the man it exempts from the
   chapter's refrain

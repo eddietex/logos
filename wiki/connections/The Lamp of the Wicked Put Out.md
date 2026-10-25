@@ -10,6 +10,9 @@ tags: [connection]
 - **Job 18:5–6** — *"Yes, the light of the wicked shall be put out, The spark of his fire shall not
   shine. The light shall be dark in his tent. His lamp above him shall be put out."* —
   [[Bildad's Second Speech]]
+- **Proverbs 4:18–19** — *"But the path of the righteous is like the dawning light, that shines more
+  and more until the perfect day. The way of the wicked is like darkness. They don't know what they
+  stumble over."* — [[The Two Paths]]
 - **Proverbs 13:9** — *"The light of the righteous shines brightly, but the lamp of the wicked is
   snuffed out."*
 - **Proverbs 20:20** — *"Whoever curses his father or his mother, his lamp shall be put out in
@@ -90,6 +93,11 @@ for his children always."* Read against Job 18, the promise is a guarantee again
 Bildad's sentence — a line that will not be ended — and it is given not because the recipients
 deserve it but because it was promised. Revelation 18:23 closes the figure by putting out the lamp
 of a city rather than a man.
+
+Proverbs 4:18–19 puts the image on the road rather than in the tent: the righteous path brightens
+like dawn, and the wicked walk in a darkness where they cannot see what trips them. It is the same
+general sentence, given as instruction to a son choosing a road, and it carries the same risk if
+read backwards; see [[Rebels Against the Light - Proverbs 4 and Job 24]].
 
 The wiki's related pages for this thread are [[Why Do the Wicked Live]], where the proverb is
 put to a count; [[The Months of Old]], where the lamp is remembered as God's; [[Bildad's Second Speech]], where the proverb is

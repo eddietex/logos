@@ -117,6 +117,7 @@ not an identified location requiring a place page.
 - [[Better Than Gold - The Price of Wisdom]] — the cost of understanding and its greater worth.
 - [[The Crown Given and Taken - Proverbs 4 and Job 19]] — the promise beside
   [[I Know That My Redeemer Lives]], Job 19:9.
+- [[The Two Paths]] — Proverbs 4:10–19; the next lecture, where instruction is kept as wisdom was.
 
 ## Notes
 

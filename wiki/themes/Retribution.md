@@ -217,7 +217,21 @@ is an interpretation and leaves the tension explicit. See
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Stumbling in the dark — Proverbs 4:19
+
+*"The way of the wicked is like darkness. They don't know what they stumble over"* (4:19). The
+consequence comes from the road itself rather than from a visible blow. Job 24:13–17 describes the
+same rebels against the light but asks why the Almighty keeps no visible times (24:1) and says God
+*"doesn't regard the folly"* (24:12). **The two passages conflict if Proverbs 4:19 is read as a
+timetable.** The wiki reads it as a description of where the road leads, and records Job's
+testimony that the fall is not always seen. See
+[[Rebels Against the Light - Proverbs 4 and Job 24]].
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:19; the wicked stumble in their own darkness, against Job 24's unseen judgment
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Promised preservation and honor contrasted with Job’s lost crown.
 

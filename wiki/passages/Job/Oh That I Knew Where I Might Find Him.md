@@ -377,6 +377,8 @@ in effect, without an answer to this chapter.
 - [[Bildad's Third Speech]] — Job 25:1–6, Bildad's reply, which does not answer 24:25.
 - [[I Will Not Put Away My Integrity]] — Job 27:13–23, the second passage of the friends' doctrine in Job's mouth.
 - [[Job's Oath of Innocence]] — Job 31; the oath that answers the charges directly.
+- [[Rebels Against the Light - Proverbs 4 and Job 24]] — 24:13–17 beside Proverbs 4:16–19: the
+  same night-loving wicked, with Proverbs' stumbling and Job's unseen judgment; see [[The Two Paths]].
 - [[Out of the Whirlwind]] — Job 38:12–15 — God on the dawn that shakes the wicked out of the earth,
   *"From the wicked, their light is withheld"*: God's reply to 24:13–17.
 - [[Out of the Whirlwind]] — Job 39:5–8 — the wild donkey as God's free creature.

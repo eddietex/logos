@@ -314,6 +314,7 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
 - James 1:5 — *"let him ask of God, who gives to all liberally"* (WEB, checked against
   bible-api.com).
 - Hebrews 13:4 — *"Let marriage be held in honor among all"* (WEB, checked against bible-api.com).
+- [[The Two Paths]] — Proverbs 4:18–19; the ways of darkness (2:13) given their consequence.
 
 ## Notes
 

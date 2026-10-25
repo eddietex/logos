@@ -15603,3 +15603,40 @@ was used without modification. No raw text changed.
 62 unstarted books remain the expected baseline. Frontmatter counts, the 8 / 43 checklist,
 category row coverage, new connection filing, and passage-title uniqueness checked.
 No schema or harness change, and no unresolved blocker.
+
+## [2026-10-25] ingest | Proverbs 4.10-19 — The Two Paths
+
+Unattended run (`/ingest auto`). The planned 4:10–19 boundary is kept: the renewed *"Listen,
+my son"* at 4:10 opens the unit and *"My son"* at 4:20 opens the next lecture. The father has
+already taught the son in *"the way of wisdom"*; six commands keep him off *"the path of the
+wicked"*, who cannot sleep until they have done evil; the righteous path brightens like dawn and
+the wicked way is darkness in which they stumble. The unnamed father and son get no person page,
+and no person or place page is revised.
+
+**Tension recorded:** Proverbs 4:19 gives the wicked a darkness that trips them; Job 24:13–17
+draws the same night-loving wicked but frames them with God keeping no visible times (24:1) and
+not regarding the folly (24:12). Job 24:22–24 and 38:15 keep Job from a flat denial. The wiki
+reads Proverbs as describing where the road leads, not a timetable — identified as
+interpretation on the passage, [[Retribution]], and the new connection.
+
+**Created (3):** [[The Two Paths]] and two connections,
+[[Rebels Against the Light - Proverbs 4 and Job 24]] and
+[[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]].
+
+**Revised content pages (15):** [[Proverbs]]; seven themes — [[Walking with God]],
+[[Light and Darkness]], [[Righteousness]], [[Wisdom]], [[Life and Death]], [[Sin]],
+[[Retribution]]; one connection — [[The Lamp of the Wicked Put Out]]; six reciprocal passage
+updates — [[Get Wisdom]], [[Do Not Consent to Sinners]], [[If You Seek Her as Silver]],
+[[Trust in Yahweh with All Your Heart]], [[Do Not Withhold Good]],
+[[Oh That I Knew Where I Might Find Him]].
+
+**Bookkeeping (7 revised files including this log):** books index, themes index, Connections
+Index I-N, O-S, and T-Z, main index, and log. Totals: 153 passages, 179 people,
+90 places, 83 themes, 397 connections.
+
+**Sources:** all ten passage verses copied from stored WEB Proverbs. Comparisons checked in
+stored Proverbs 1:15–16; 2:13, 20; 3:2, 23–24; 4:6, 8; 9:5, 17 and Job 1:1; 24:1, 12–17, 22–24;
+38:15. Deuteronomy 30:15–19, Psalm 1:1–6, Jeremiah 21:8, and Matthew 7:13–14 quoted from the WEB
+at bible-api.com, fetched this pass; no unstored book was added to `raw/`. John 3:19–20 is cited
+by reference only. No Hebrew or Greek wording claim is made; the remark on *"she"* in 4:13
+concerns the WEB rendering. No raw text changed.

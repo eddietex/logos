@@ -276,7 +276,18 @@ Job's lost crown in Job 19:9; see [[The Crown Given and Taken - Proverbs 4 and J
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### The way of wisdom — Proverbs 4:10–19
+
+Wisdom becomes a road: *"I have taught you in the way of wisdom"* (4:11). Instruction is held
+like wisdom herself — *"Don't let her go. Keep her, for she is your life"* (4:13), the WEB
+using the same pronoun as for wisdom in 4:6–8. The lecture's wisdom is mostly avoidance — knowing
+which road not to set foot on (4:14–15).
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:10–19; wisdom as a road, and instruction held as life
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Received teaching, wholehearted pursuit, protection, and honor.
 

@@ -191,7 +191,18 @@ later carry the line *"their feet run to evil"* (1:16) from a gang to a nation t
 Sefaria's *Miqra according to the Masorah*; Psalm, Isaiah, and Romans in WEB checked against
 bible-api.com. See [[Do Not Consent to Sinners]].
 
+### Evil that takes away sleep — Proverbs 4:16–17
+
+The wicked *"don't sleep, unless they do evil. Their sleep is taken away, unless they make
+someone fall"* (4:16), and they *"eat the bread of wickedness, and drink the wine of violence"*
+(4:17). Sin is drawn as appetite and compulsion: something its doers need before they can rest,
+against the sweet sleep promised to the wise in 3:24.
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:16–17; evil as compulsion, sleepless until it has made someone fall
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The mediator acknowledges continuing sin beneath covenant
   renewal.

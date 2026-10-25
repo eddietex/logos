@@ -233,7 +233,17 @@ Job 1:1; 2:3 depicts an upright man exposed to undeserved ruin. See [[Retributio
 
 See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Instruction as life — Proverbs 4:10–13
+
+*"The years of your life will be many"* (4:10), and instruction is to be kept *"for she is your
+life"* (4:13). As in 3:2, length of years is promised as the ordinary fruit of the way, not as
+an exceptionless rule; see [[Retribution]].
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:10–13; many years, and instruction as the son's life
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Retained teaching and wisdom’s preservation sustain life.
 

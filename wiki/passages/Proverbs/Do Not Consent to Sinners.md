@@ -250,6 +250,7 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
   the love of money is a root of all kinds of evil"* (WEB, checked against bible-api.com).
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10: *hôn*, the gang's *"valuable wealth"* (1:13), given first to
   Yahweh; their houses *filled* with plunder, the son's barns *filled* (*mālēʾ*) after giving.
+- [[The Two Paths]] — Proverbs 4:14–15; the gang's path of 1:15 generalized as the path of the wicked.
 
 ## Notes
 

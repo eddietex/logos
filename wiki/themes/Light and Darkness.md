@@ -169,7 +169,20 @@ The perverse men *"forsake the paths of uprightness, to walk in the ways of dark
 the strange woman's, ends (2:18). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The dawning path and the dark way — Proverbs 4:18–19
+
+*"The path of the righteous is like the dawning light, that shines more and more until the
+perfect day. The way of the wicked is like darkness. They don't know what they stumble over"*
+(4:18–19). Light here is growth along a road; darkness is ignorance of one's own footing, the
+consequence of 2:13's *"ways of darkness"*. Job 24:13–17 draws the same people as *"those who rebel
+against the light"*, but without the fall; see
+[[Rebels Against the Light - Proverbs 4 and Job 24]] and [[The Lamp of the Wicked Put Out]].
+
+See [[The Two Paths]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[The Two Paths]] — Proverbs 4:18–19; the righteous path as brightening dawn, the wicked way as darkness that trips
 
 - [[The Furnishings Made]] — Exodus 37:1–29; One lampstand with seven lamps made; lighting comes later.
 

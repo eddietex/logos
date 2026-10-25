@@ -290,6 +290,7 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
   bible-api.com).
 - Psalm 94:12 · Hebrews 12:5–6 · Revelation 3:19 —
   [[Do Not Despise the Chastening - Job 5.17, Proverbs 3.11-12, and Hebrews 12]].
+- [[The Two Paths]] — Proverbs 4:10–11; years of life and straight paths again.
 
 ## Notes
 
