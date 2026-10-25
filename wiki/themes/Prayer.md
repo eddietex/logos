@@ -133,6 +133,18 @@ conversation in isolation; it broadens this page's opening emphasis on unbidden 
 The covenant announcement follows in 34:10. Numbers 14 later makes the proclamation an explicit
 basis for another plea; see [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
 
+### Calling and not answered — Proverbs 1:28
+
+*"Then will they call on me, but I will not answer. They will seek me diligently, but they will not
+find me"* (1:28; *yiqrāʾunənî wəlōʾ ʾeʿĕneh yəšaḥărunənî wəlōʾ yimṣāʾunənî*). Addressed to Wisdom, not
+to God, but in the prophets' form for unanswered prayer (Micah 3:4; Jeremiah 11:11; Hosea 5:6). The
+same two verbs, negative removed, give Proverbs 8:17's *"Those who seek me diligently will find me"*.
+**Contradiction flagged:** Deuteronomy 4:29 and Jeremiah 29:13 promise that those who seek after
+disaster *will* find; Proverbs 1:28 says those who seek only when *"distress and anguish come"* (1:27)
+will not. The wiki reads the difference as the whole heart those passages require, but both claims
+stand. See [[Wisdom Calls in the Street]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Worship leads into a renewed plea for the people.
@@ -301,6 +313,7 @@ basis for another plea; see [[Merciful and Gracious - Exodus 34, Numbers 14, and
   the pericope are an altar's name**, *Yahweh our Banner* (17:15)
 - [[Laws of Holiness and Compassion]] — Exodus 22:23, 27; the cry of the widow, orphan, and poor heard
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–10, 34–38; the incense altar, later read as an image of prayer.
+- [[Wisdom Calls in the Street]] — Proverbs 1:28; calling and not being answered, after a call refused; set against Proverbs 8:17 and Deuteronomy 4:29
 
 ## Related themes
 

@@ -2011,6 +2011,19 @@ God neither speaks nor acts in the unit.
 See [[The Purpose of the Proverbs]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew
 checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Spoken of by Wisdom — Proverbs 1:20–33
+
+God does not speak in Wisdom's first speech, and is named once, in the third person: the refusers
+*"didn't choose the fear of Yahweh"* (1:29). Yet Wisdom speaks in the forms the prophets use for God's
+own voice — *"because I called"* (1:24, *yaʿan qārāʾṯî*, as at Isaiah 65:12), *"I will pour out my
+spirit"* (1:23), laughter in the verbs of Psalm 2:4, where it is *"He who sits in the heavens"* who
+laughs (1:26), and the refusal to answer (1:28). **Wisdom is distinguished from Yahweh and speaks in
+his register.** The page records both facts and does not resolve the relation; see
+[[Wisdom Calls in the Street]] and
+[[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]]. Source: Proverbs 1
+checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's *Miqra according to the
+Masorah*, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2271,6 +2284,8 @@ checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - Exodus 40:1–38 — Commands the erection and consecration; fills the dwelling with glory and guides Israel. See [[The Tabernacle Raised and the Glory]].
 
 - Proverbs 1:7 — Named in the motto as the one whose fear is the beginning of knowledge. See [[The Purpose of the Proverbs]].
+
+- Proverbs 1:29 — Named in *"the fear of Yahweh"*, which the refusers did not choose; Wisdom speaks in his prophetic register. See [[Wisdom Calls in the Street]].
 
 ## Appears in
 
@@ -2708,6 +2723,8 @@ checked against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Commands the erection and consecration; fills the dwelling with glory and guides Israel.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *Yahweh*, named once, in the motto (1:7); no speech or act.
+
+- [[Wisdom Calls in the Street]] — Proverbs 1:20–33; named once (1:29), in the third person, by Wisdom speaking in his register.
 
 ## Related people
 

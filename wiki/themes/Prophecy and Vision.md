@@ -88,6 +88,15 @@ the encounter's effect and faithful transmission of commands.
 
 See [[The Shining Face of Moses]].
 
+### Wisdom in the prophet's voice — Proverbs 1:20–33
+
+Wisdom's first speech borrows the prophets' forms — *"How long?"*, *"Turn"*, *"because I called"*, *"I
+will pour out my spirit on you"* (1:23) — without *"says Yahweh"*, and without claiming a vision. Its
+spirit-promise uses *nāḇaʿ*, *to gush*, not Joel's *šāpaḵ* (Joel 3:1 Heb.), and its *rûaḥ* may mean
+Wisdom's own mind, paralleled by *"my words"*. See [[Wisdom Calls in the Street]] and
+[[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Received speech is conveyed without a new dream or vision report.
@@ -301,6 +310,7 @@ See [[The Shining Face of Moses]].
   the Torah (WLC lemma search). **What she does as prophet is lead the song** with tambourine and refrain;
   no oracle is reported. The masculine had been given to Abraham (Genesis 20:7) and Aaron (7:1). See
   [[Miriam]].
+- [[Wisdom Calls in the Street]] — Proverbs 1:23; Wisdom speaks in prophetic forms and promises to pour out her spirit
 
 ## Related themes
 

@@ -70,6 +70,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 · Job 25:5–6 |
 | [[What Is This You Have Done - The Accusing Question from Eden to the Sea]] | formula | Genesis 3:13 · Genesis 12:18 · Genesis 26:10 · Genesis 29:25 · Genesis 42:28 · Exodus 14:5, 11 |
 | [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] | parallel | Genesis 37:18–28 · Genesis 42:21–22 · Proverbs 1:10–19 · [[Do Not Consent to Sinners]] (Proverbs 1:8–19) |
+| [[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]] | parallel | Proverbs 1:24–28 · Isaiah 65:2, 12 · Isaiah 66:4 · Jeremiah 7:13 · Jeremiah 11:11 · Micah 3:4 · Psalm 2:4 · Romans 10:21 · Deuteronomy 4:29 · Jeremiah 29:13 · Isaiah 55:6 · [[Wisdom Calls in the Street]] (Proverbs 1:20–33) |
 | [[When Your Son Asks - Telling the Exodus to the Next Generation]] | formula | Exodus 10:2 · Exodus 12:26–27 · Exodus 13:8–9, 14–16 · Deuteronomy 6:7–8, 20–21; 11:18 · Joshua 4:6–7, 21–22 |
 | [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]] | literary-parallel | Job 23:3, 8–10 · Job 7:17–20 · Job 9:11 · Job 13:24 · Psalm 139:1–12, 23–24 · Amos 9:2–4 · Jeremiah 23:23–24 · Isaiah 45:15 |
 | [[Where the Slain Are - Job 39.30 and Matthew 24.28]] | allusion | Job 39:27–30 · Matthew 24:28 · Luke 17:37 · Proverbs 30:17 · Revelation 19:17–18 |
@@ -88,6 +89,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
 | [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 · [[Bezalel's Workmen and the Surplus]] · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
 | [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] | thread | Proverbs 1:1 · Proverbs 10:1 · Proverbs 25:1 · Proverbs 22:17; 24:23; 30:1; 31:1 · 1 Kings 3:9, 12 · 1 Kings 4:29–34 · Job 1:3 · Ecclesiastes 1:1; 12:9 · Song of Solomon 1:1 · Matthew 12:42 |
+| [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]] | typology | Proverbs 1:20–33 · Luke 11:49 · Matthew 23:34–38 · Matthew 11:19 · Luke 7:35 · [[Wisdom Calls in the Street]] (Proverbs 1:20–33) |
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 · Job 40:2 |
 | [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |

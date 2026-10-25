@@ -262,6 +262,17 @@ were omitted in disobedience, nor does this unit explain how inquiry worked.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### Wisdom's oracle — Proverbs 1:20–33
+
+Wisdom's first speech has the form of a prophetic judgment oracle — appeal (*"How long?"*, 1:22),
+indictment introduced by *yaʿan*, *because* (1:24; compare Isaiah 65:12), sentence (1:26–31), and a
+closing alternative (1:33) — but no judge acts in it. The *calamity* comes *"like a storm"* and *"like a
+whirlwind"* (1:27, *šôʾâ*, *sûp̄â*), and the refusers *"eat of the fruit of their own way"* (1:31).
+Wisdom's part is to laugh, in Psalm 2:4's verbs (*ʾeśḥāq … ʾelʿaḡ*), and not to answer (1:28). See
+[[Wisdom Calls in the Street]] and
+[[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The renewed assembly hears the Sabbath sanction before the offering appeal.
@@ -514,6 +525,7 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[Laws of Property and Restitution]] — Exodus 22:8–11; disputed claims *"before God"*, and the oath where no one saw
 - [[The Priestly Garments]] — Exodus 28:1–43; the breastplate of judgment and the Urim and Thummim.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Breastplate made; Urim and Thummim and inquiry not narrated.
+- [[Wisdom Calls in the Street]] — Proverbs 1:20–33; a judgment oracle in Wisdom's voice, with the laughter of Psalm 2:4 and no judge acting
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

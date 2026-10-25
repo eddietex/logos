@@ -79,6 +79,11 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 - **Deuteronomy 10:12** — fear, walk, love, serve: the four verbs given as one demand.
 - **Proverbs 1:7; 9:10; 8:13** — the beginning of knowledge and of wisdom, and defined as *"to hate
   evil"*. See [[The Purpose of the Proverbs]].
+- **Proverbs 1:29** — [[Wisdom Calls in the Street]]: *"they hated knowledge, and didn't choose the
+  fear of Yahweh"* — *wəyirʾaṯ YHWH lōʾ bāḥārû*. **The fear of Yahweh as a choice**, refusable; and
+  the same speech ends with the listener free *"without fear of harm"* (1:33, *mippaḥad*), so the
+  chapter sets *yirʾâ*, the fear chosen, beside *paḥad*, the dread that comes to those who did not
+  choose it.
 - **Psalm 111:10; 34:11; 25:14** — the same formula in worship, and the promise that *"the
   friendship of Yahweh is with those who fear him."*
 - **Ecclesiastes 12:13** — *"Fear God and keep his commandments, for this is the whole duty of
@@ -342,6 +347,7 @@ Sefaria's *Miqra according to the Masorah*. See [[The Purpose of the Proverbs]] 
 - [[The Ten Commandments]] — Exodus 20:18–21; reassurance against death-terror accompanies fear
   intended to prevent sin
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will send my terror before you"*.
+- [[Wisdom Calls in the Street]] — Proverbs 1:29; not choosing the fear of Yahweh is what hating knowledge means; *yirʾâ* chosen beside *paḥad* suffered (1:26–27, 33)
 
 ## Related themes
 

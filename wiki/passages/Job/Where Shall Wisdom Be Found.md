@@ -222,6 +222,9 @@ king over all the sons of pride"* (41:34).
 - Matthew 13:44 — *"treasure hidden in the field"*, found, and bought with everything; the hymn's
   terms reversed.
 - [[I Repent in Dust and Ashes]] — Job 42:3, *"things too wonderful for me"*, and 42:5's *"hearing of the ear"* against 28:22's rumour.
+- Proverbs 1:20–21 — [[Wisdom Calls in the Street]]: Wisdom shouting in the streets and city gates,
+  against this chapter's *"hidden from the eyes of all living"* (28:21); the tension is recorded on
+  that page and in [[Wisdom]].
 
 ## Notes
 

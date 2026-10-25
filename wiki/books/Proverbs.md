@@ -18,7 +18,9 @@ wise, and closed by the sentence the whole tradition treats as its motto: *"The 
 the beginning of knowledge"* (1:7). See [[The Purpose of the Proverbs]]. The first lecture follows at once, and its first
 lesson is not about sex or money but about company: a father warning his son against a gang's
 invitation to ambush the innocent, and showing him the ambush turned round on its makers (1:8–19). See
-[[Do Not Consent to Sinners]].
+[[Do Not Consent to Sinners]]. Then Wisdom herself speaks, in the street and the city gates, in the
+voice of a prophet: she calls, is refused, laughs at the refusers' calamity, and will not answer
+when they call too late (1:20–33). See [[Wisdom Calls in the Street]].
 
 It is an anthology, and its headings say so. The book names Solomon three times (1:1; 10:1;
 25:1), but it also contains *"the words of the wise"* (22:17), further *"sayings of the wise"*
@@ -70,7 +72,7 @@ first collection at its heading), each titled from a representative saying.
 
 - [x] [[The Purpose of the Proverbs]] — Proverbs 1:1–7
 - [x] [[Do Not Consent to Sinners]] — Proverbs 1:8–19
-- [ ] Wisdom Calls in the Street — Proverbs 1:20–33
+- [x] [[Wisdom Calls in the Street]] — Proverbs 1:20–33
 - [ ] If You Seek Her as Silver — Proverbs 2:1–22
 - [ ] Trust in Yahweh with All Your Heart — Proverbs 3:1–12
 - [ ] Wisdom's Worth and the Founding of the Earth — Proverbs 3:13–20

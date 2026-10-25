@@ -43,8 +43,13 @@ not keep silent.
   account) also gives *pətāʾyim*, *the simple*: the simple are the enticeable, and the first danger the
   book names is not stupidity but suggestibility (Hebrew checked against Sefaria's *Miqra according to
   the Masorah*).
-- **Proverbs 1:22; 9:13** *(not yet ingested)* — Wisdom crying out to the simple, the mockers, and
-  the fools, and Folly personified as a woman, *"loud, undisciplined, and knows nothing"* (9:13), whose
+- **Proverbs 1:22, 32** — [[Wisdom Calls in the Street]]: Wisdom crying out to the simple, the
+  mockers, and the fools, each paired with its own vice — *pətāyim* who love *peṯî*, *lēṣîm* who
+  delight in *lāṣôn*, *kəsîlîm* who hate knowledge — and their end: *"the backsliding of the simple
+  will kill them. The careless ease of fools will destroy them."* *Məšûḇâ*, *backsliding*, is from
+  *šûḇ*, the *"Turn"* of 1:23: folly here is a turning, the wrong way (Hebrew checked against
+  Sefaria's *Miqra according to the Masorah*).
+- **Proverbs 9:13** *(not yet ingested)* — Folly personified as a woman, *"loud, undisciplined, and knows nothing"* (9:13), whose
   feast competes with Wisdom's.
 - **Proverbs 26:4–5** *(not yet ingested)* — *"Don't answer a fool according to his folly"* beside
   *"Answer a fool according to his folly"*: the book's own admission that dealing with folly takes
@@ -78,6 +83,7 @@ bible-api.com (2026-10-25); the Hebrew words for *Proverbs 1:7, 1:22, Job 2:10, 
 - [[The Second Test]] — Job 2:10; *"as one of the foolish women would speak"*
 - [[The Restoration of Job]] — Job 42:8; the friends' speech judged *nəbālâ*
 - [[Do Not Consent to Sinners]] — Proverbs 1:10; the simple as the enticeable, warned before they are recruited
+- [[Wisdom Calls in the Street]] — Proverbs 1:22, 32; the simple, the mockers, and the fools named together, loving their own condition, and killed by their own turning away
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

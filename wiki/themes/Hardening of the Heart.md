@@ -86,6 +86,13 @@ lengthens the contest so that the signs are seen.** See [[Signs and Wonders]].
 Psalms, the prophets, and the New Testament it is said, more often, of Israel. This section will grow
 as those passages are ingested.
 
+- **Proverbs 1:24–30** — [[Wisdom Calls in the Street]]: the pattern without the word. Wisdom
+  calls and *"you have refused"* (*wattəmāʾēnû*); the refusers *"wanted none of my counsel"*, and in
+  the end they call and are not answered (1:28). **The refusal becomes an inability to find.** The
+  verb *māʾēn* is Exodus' verb for Pharaoh: *wattəmāʾēn ləšalləḥô*, *"you have refused to let him go"*
+  (4:23, the same form in the singular), *mēʾēn* (7:14), and *"if you refuse to let them go"* (9:2,
+  *māʾēn*) — Hebrew checked against Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
 
 - [[Moses Returns to Egypt]] — Exodus 4:21; **the first hardening statement**, made before Moses has
@@ -153,6 +160,7 @@ as those passages are ingested.
 - [[Water from the Rock]] — Exodus 17:1–7; **the event Psalm 95 calls a hardened heart.** Exodus does not use
   the word; *"Don't harden (taqšû) your heart, as at Meribah, as in the day of Massah"* (Psalm 95:8; WLC) reads
   the quarrel and the test with the verb of Pharaoh's heart (7:3; 13:15), and Hebrews 3:8 preaches on it
+- [[Wisdom Calls in the Street]] — Proverbs 1:24–30; a call refused until the refusers' own call goes unanswered
 
 ## Related themes
 

@@ -15240,3 +15240,63 @@ Septuagint's reported omission of Proverbs 1:16, the Greek of Romans 3:15, and t
 Judges 16:5 and 1 Kings 22:20–22 (cited from the lexical tradition, not quoted).
 
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.
+
+## [2026-10-25] ingest | Proverbs 1.20-33 — Wisdom Calls in the Street
+
+Unattended run (`/ingest auto`, no argument). [[Proverbs]] is the only `in-progress` book; its first
+unchecked box was Proverbs 1:20–33. The raw text was already stored; no raw file was touched. The
+pericope plan was not redrawn.
+
+### The passage
+
+`wiki/passages/Proverbs/Wisdom Calls in the Street.md` reads Wisdom's first speech as a prophetic
+judgment oracle in five movements: location (1:20–21), appeal (1:22–23), indictment and laughter
+(1:24–27), the turn to the third person (1:28–31), the two ends (1:32–33). Main readings: *ʾāḇâ*,
+*to be willing*, links the refusal (1:25, 30) to the father's *"don't consent"* (1:10); *pāraʿ*
+(1:25) is the verb of the golden calf (Exodus 32:25); *šûḇ* is both the call to turn (1:23) and the
+backsliding that kills (1:32); the refusers are filled with their own *counsels* (1:31, from the root
+of the counsel they refused); *paḥad*, dread, comes on the refusers (1:26–27) and is absent for the
+listener (1:33). **Judgment calls worth reviewing:** Wisdom gets no person page (her page is the theme
+[[Wisdom]]; Proverbs 8 is the place to revisit that); *rûaḥ* in 1:23 is left open between *spirit*
+and *mind*; *ḥoḵmôt* is explained as an intensive plural, flagged as a grammatical judgement.
+
+**Contradictions/tensions flagged, not resolved:** (1) Job 28:12, 21 (wisdom hidden) against Proverbs
+1:20–21 (wisdom shouting in public) — on the passage page, [[Wisdom]], and
+[[Where Shall Wisdom Be Found]]. (2) Proverbs 1:28 (seek and not find) against Deuteronomy 4:29 and
+Jeremiah 29:13 (seek after disaster and find), and against Proverbs 8:17 — on the passage page,
+[[Prayer]], and [[Retribution]]. (3) Wisdom's mockery of the refusers (1:26, *ʾelʿaḡ*) against Job's
+accusation that God mocks the innocent (Job 9:23, *yilʿāḡ*) — on the passage page and [[Retribution]].
+
+### Pages
+
+- **Created (4):** the passage; [[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]]
+  (different verbs, *nāḇaʿ* and *šāpaḵ*; conditional versus universal; not a quotation);
+  [[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]] (the shared
+  *yaʿan qārāʾṯî*, the reversal of call and answer, Psalm 2:4's laughter);
+  [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]] (Luke's *"the wisdom of
+  God said"* against Matthew's *"I send"*; structural, not a quotation).
+- **Revised (13):** the book page (box checked, overview sentence); [[God]] (section, timeline,
+  appears-in); themes [[Wisdom]], [[Folly]], [[The Fear of God]], [[Retribution]], [[Judgment]],
+  [[Prayer]], [[Prophecy and Vision]], [[City and Civilization]], [[Hardening of the Heart]];
+  cross-reference on [[Where Shall Wisdom Be Found]].
+- **Bookkeeping:** `wiki/books/index.md` (Proverbs 3 / 43); the themes index; People Index F-M (God);
+  Connections Index I-N and T-Z; `wiki/index.md` counts — 147 passages, 179 people, 90 places,
+  83 themes, 386 connections.
+
+No place pages: the street, squares, and gates are generic. No title collision, schema change, or
+harness change was needed.
+
+### Sources and verification
+
+The key verses were taken from `raw/bible/Proverbs.md`; other Proverbs (7:12; 8:17; 9:1; 18:4),
+Exodus (4:23; 7:19; 9:2; 10:20, 27; 31:3; 32:25), and Job (9:23; 27:20; 28:12, 21) quotations were
+checked in the stored WEB. Unstored books — Joel 2:28–29, Acts 2:17, Numbers 11:29, Isaiah 55:6; 65:2,
+12; 66:4, Jeremiah 7:13; 11:11; 29:13, Hosea 5:6, Micah 3:4, Psalm 2:4, Deuteronomy 4:29, Matthew 7:7;
+11:19; 23:34, 37–38, Luke 7:35; 11:49, John 7:34, Romans 10:21, Galatians 6:7 — were fetched verse by
+verse from bible-api.com (WEB) and not stored. Hebrew of Proverbs 1:7, 10, 20–33; 8:1–4, 17; 18:4,
+Joel 3:1, Isaiah 65:2, 12, Psalm 2:4, Exodus 4:23; 7:14, 19; 9:2; 32:25, and Job 9:23; 27:20; 28:21 was
+checked against Sefaria's *Miqra according to the Masorah*. Greek of Luke 11:49, Matthew 23:34, 37,
+and Acts 2:17 was checked against the SBLGNT (MorphGNT). Unverified and so qualified on the pages:
+modern renderings of 1:23 as *thoughts*, and the Septuagint's partitive in Joel.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.

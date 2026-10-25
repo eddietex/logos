@@ -98,6 +98,11 @@ rather than achieved.
   *"he looked for the city which has foundations, whose builder and maker is God"* (Hebrews 11:10);
   the New Jerusalem (Revelation 21–22).
 
+- **Proverbs 1:20–21** — [[Wisdom Calls in the Street]]: wisdom located in the city, not apart
+  from it — the street, the squares, the noisy corners, and *"the entrance of the city gates"*, where
+  the city's business and judgment were done. The gang of 1:11 *lurks*; Wisdom shouts where the
+  crowds are.
+
 ## Key passages
 
 - [[The Line of Cain and the Birth of Seth]] — the first city and the three founders of human craft
@@ -129,6 +134,7 @@ rather than achieved.
   *Ləbēnîm* five times, and *"the people were scattered abroad throughout all the land"* —
   *wayyāpeṣ*, the form of Genesis 11:8. Babel built *"lest we be scattered"*; Egypt scatters its
   brickmakers to find stubble. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
+- [[Wisdom Calls in the Street]] — Proverbs 1:20–21; Wisdom calls in the city's streets, squares, and gates
 
 ## Related themes
 

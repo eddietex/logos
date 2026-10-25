@@ -70,6 +70,9 @@ close to the book's whole point about who may speak for the tradition. See
 - **Job 38–41** — the examination.
 - **Proverbs 1:1–7** — [[The Purpose of the Proverbs]]: the book's preface surveys wisdom's whole field
   and closes on the fear of Yahweh as *"the beginning of knowledge"*.
+- **Proverbs 1:20–33** — [[Wisdom Calls in the Street]]: Wisdom personified for the first time,
+  shouting in the street and the city gates, refused, and pronouncing the consequence in a prophet's
+  voice.
 - **Proverbs 8:22–31; 9:10** *(not yet ingested)* — Wisdom personified, brought forth before the hills
   and playing before God at the creation, and the motto repeated.
 - **Ecclesiastes 1:12–18; 7:23–24; 9:13–18** — wisdom pursued honestly to the end of its reach:
@@ -189,6 +192,28 @@ its own attractive voice (1:11–14) before showing him where their road goes (1
 never names God; it argues from the shape of the act, by repeating the gang's own verbs of ambush
 against them (1:11, 18). Wisdom here is foresight: seeing the net being spread (1:17). Hebrew checked
 against Sefaria's *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]].
+
+### Hidden, and shouting in the street — Proverbs 1:20–33
+
+Proverbs 1:20–21 places Wisdom in the most public places a city has — *baḥûṣ*, the street;
+*birḥōḇôt*, the squares; *bərōʾš hōmiyyôt*, the head of the noisy streets; *bəpiṯḥê šəʿārîm*, the
+gate-openings — and names her with the plural *ḥoḵmôt* and a singular verb. **Job 28 says the
+opposite**: *"where shall wisdom be found?"* (28:12); *"it is hidden from the eyes of all living"*
+(28:21, *neʿelmâ*). Both claims stand and the wiki does not merge them. Its reading is that they are
+about different things — Job 28 about wisdom as the knowledge by which the world is made and run,
+which no creature can mine; Proverbs 1 about wisdom as the summons to fear Yahweh, which no one can
+claim not to have heard — and that the two meet at the fear of Yahweh (Job 28:28; Proverbs 1:7, 29).
+That is a reading, not something either text says.
+
+The speech makes Wisdom a speaker in **God's register without being God**: the prophetic *"because I
+called"* (1:24; Isaiah 65:12), *"I will pour out my spirit"* (1:23; compare Joel 2:28), laughter in
+Psalm 2:4's verbs (1:26), and a refusal to answer (1:28) — yet she names Yahweh in the third person
+(1:29). The Gospels let the voice become Jesus': Luke 11:49's *"the wisdom of God said"* is Matthew
+23:34's *"I send"*. See [[Wisdom Calls in the Street]],
+[[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]],
+[[When I Called, You Didn't Answer - Proverbs 1.24, Isaiah 65.12, and Jeremiah 7.13]], and
+[[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
 
 ## Key passages
 
@@ -343,6 +368,7 @@ against Sefaria's *Miqra according to the Masorah*. See [[Do Not Consent to Sinn
 - [[The Work Completed]] — Exodus 39:32–43; Previously commissioned skill produces work that withstands review.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–19; the first lecture — a parent's word worn as ornament, and foresight about the gang's road
+- [[Wisdom Calls in the Street]] — Proverbs 1:20–33; Wisdom personified, calling in public, refused, and speaking judgment in a prophet's voice; the tension with Job 28's hidden wisdom recorded
 
 ## Related themes
 

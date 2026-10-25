@@ -138,6 +138,24 @@ difference as one of direction — the father speaks forward, to a son deciding 
 and Genesis 42:21–22 shows the reckoning arriving as conscience rather than as a trap; see
 [[What Profit Is It - Joseph's Brothers and the Ambush of Proverbs 1]] and [[Do Not Consent to Sinners]].
 
+### Eating the fruit of one's own way — Proverbs 1:20–33
+
+Wisdom's first speech states the self-acting form again: *"they will eat of the fruit of their own
+way, and be filled with their own schemes"* (1:31). The *schemes* are *mōʿăṣōṯêhem*, their own
+*counsels*, from the root of the *ʿēṣâ*, *counsel*, they refused (1:25, 30): **refusing her counsel,
+they are filled with their own.** The *backsliding* that kills (1:32, *məšûḇâ*) is from the *šûḇ* of
+the call to *"Turn"* (1:23). The consequences are named as *paḥad*, *dread* (1:26–27), which the
+listener is spared (1:33). Galatians 6:7 has the same logic (*"whatever a man sows, that he will also
+reap"*, WEB, checked against bible-api.com).
+
+**Two tensions recorded, not resolved.** (1) Wisdom *laughs* at the refusers' calamity (1:26, *ʾelʿaḡ*);
+Job accuses God of the same mockery directed at the innocent (*"he will mock at the trial of the
+innocent"*, Job 9:23, *yilʿāḡ*). The object differs, and Proverbs never makes calamity as such the
+object of Wisdom's laughter; but the two verses use the same verb. (2) Those who seek after the
+calamity *"will not find me"* (1:28), against Deuteronomy 4:29 and Jeremiah 29:13, where Israel seeks
+after disaster *"and you shall find him"*. See [[Wisdom Calls in the Street]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the preface of the book where the doctrine's classic
@@ -376,6 +394,7 @@ and Genesis 42:21–22 shows the reckoning arriving as conscience rather than as
 - [[Laws of Holiness and Compassion]] — Exodus 22:24; widows and orphans for those who wronged them
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:17–19; the ambush turned round by repeating its own verbs; the contradiction with Job 12:6 and 24:14 recorded
+- [[Wisdom Calls in the Street]] — Proverbs 1:31–32; refusers filled with their own counsel; the tensions with Job 9:23 and Deuteronomy 4:29 recorded
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15
