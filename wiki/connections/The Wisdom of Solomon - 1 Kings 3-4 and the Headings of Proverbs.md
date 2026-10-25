@@ -20,6 +20,8 @@ tags: [connection]
   discern between good and evil"*, and is told *"I have given you a wise and understanding heart; so
   that there has been no one like you before you, and after you none will arise like you."* Not yet
   ingested.
+- **Proverbs 2:6** — *"For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding."*
+  The book's general statement of what 1 Kings 3 narrates of Solomon. [[If You Seek Her as Silver]].
 - **1 Kings 4:29–34** — *"Solomon's wisdom excelled the wisdom of all the children of the east and all
   the wisdom of Egypt … He spoke three thousand proverbs; and his songs numbered one thousand five. He
   spoke of trees … he also spoke of animals, of birds, of creeping things, and of fish."* Not yet

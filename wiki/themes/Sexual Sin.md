@@ -116,6 +116,21 @@ is treated as a wrong to be made good, the second as a capital offence, and the 
 for either. **The seduction case is the remedy Shechem offered in Genesis 34:12.** See
 [[Laws of Holiness and Compassion]].
 
+### The strange woman — Proverbs 2:16–19
+
+Proverbs' recurring figure enters here: *"the strange woman, even … the foreigner who flatters with her
+words; who forsakes the friend of her youth, and forgets the covenant of her God"* (2:16–17, *ʾiššâ
+zārâ … nokriyyâ*). The wiki reads her as another man's wife — *strange* because she belongs to
+another household — on the strength of *"the friend of her youth"* and *"the covenant"*, the terms
+Malachi 2:14 uses for marriage; the alternative, a literally foreign woman, is kept open on the
+passage page. **Adultery is defined as forgetting a covenant**, and its end is a house that *"leads
+down to death"*, from which *"None who go to her return again"* (2:18–19). Her danger is her speech,
+*her words* made smooth (2:16), set against *my words*, the father's (2:1). The couplet returns at
+7:5, and the figure is developed in chapters 5–7. She has no person page; this theme is her page. See
+[[If You Seek Her as Silver]] and
+[[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[Abram in Egypt]] — Genesis 12:10–20; the first wife-sister episode, and **the first moral objection
@@ -145,6 +160,7 @@ for either. **The seduction case is the remedy Shechem offered in Genesis 34:12.
 - [[The Ten Commandments]] — Exodus 20:14, 17; adultery and coveting a neighbor’s wife are expressly
   forbidden
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–17, 19; seduction and the bride-price; bestiality
+- [[If You Seek Her as Silver]] — Proverbs 2:16–19; the strange woman introduced: smooth words, a forgotten covenant, a house sinking to death
 
 ## Related themes
 

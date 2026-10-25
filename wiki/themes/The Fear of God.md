@@ -148,6 +148,16 @@ ignorance** — the fool has been offered *"wisdom and instruction"* (1:2) and d
 further, making the fear of the Lord wisdom itself rather than its beginning. Hebrew checked against
 Sefaria's *Miqra according to the Masorah*. See [[The Purpose of the Proverbs]] and [[Folly]].
 
+### Understood at the end of the search — Proverbs 2:5
+
+*"then you will understand the fear of Yahweh, and find the knowledge of God"* (2:5, *yirʾaṯ YHWH
+wəḏaʿaṯ ʾĕlōhîm*). The fear of Yahweh and the knowledge of God stand in parallel, two sides of one
+relation — the phrase *knowledge of God* is Hosea's too (Hosea 4:1; 6:6, WEB, checked against
+bible-api.com). **The motto's direction is reversed**: at 1:7 the fear of Yahweh is where knowledge
+begins; at 2:5 the search for wisdom is how one comes to understand the fear of Yahweh. The book needs
+both — fear as starting point and as goal. See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the motto placed at the head of Proverbs, opposed by
@@ -348,6 +358,7 @@ Sefaria's *Miqra according to the Masorah*. See [[The Purpose of the Proverbs]] 
   intended to prevent sin
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will send my terror before you"*.
 - [[Wisdom Calls in the Street]] — Proverbs 1:29; not choosing the fear of Yahweh is what hating knowledge means; *yirʾâ* chosen beside *paḥad* suffered (1:26–27, 33)
+- [[If You Seek Her as Silver]] — Proverbs 2:5; the fear of Yahweh understood at the end of the search, in parallel with the knowledge of God
 
 ## Related themes
 

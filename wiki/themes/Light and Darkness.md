@@ -161,6 +161,14 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
 
+### The ways of darkness — Proverbs 2:13
+
+The perverse men *"forsake the paths of uprightness, to walk in the ways of darkness"* (2:13, *darḵê
+ḥōšeḵ*). Darkness is a road here, not a condition, and Job's description of the realm of the dead —
+*"the land of darkness and of the shadow of death"* (Job 10:21) — is where the chapter's other road,
+the strange woman's, ends (2:18). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Furnishings Made]] — Exodus 37:1–29; One lampstand with seven lamps made; lighting comes later.
@@ -282,6 +290,7 @@ See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s
 - [[The Altar and the Court]] — Exodus 27:1–21; The lamp needs supplied oil and evening-to-morning care, with no symbolism stated here.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Fire in the cloud by night makes the continuing presence visible to all Israel.
+- [[If You Seek Her as Silver]] — Proverbs 2:13; *the ways of darkness* walked by the perverse
 
 ## Related themes
 

@@ -94,6 +94,16 @@ them*, shares its two key words with Psalm 1:1's *derek ḥaṭṭāʾîm*, *"th
 Proverbs 4:10–19 will make explicit starts as a question of company. Hebrew checked against Sefaria's
 *Miqra according to the Masorah*. See [[Do Not Consent to Sinners]].
 
+### Ways and paths — Proverbs 2:8–20
+
+The lecture uses *derek*, *ʾōraḥ*, and *maʿgāl* twelve times: God guards *"the paths of
+justice"* and *"the way of his saints"* (2:8); the son will understand *"every good path"* (2:9); the
+perverse walk *"the ways of darkness"* (2:13); the strange woman's paths go *"to the departed spirits"*
+(2:18), and her guests never reach *"the paths of life"* (2:19); the lecture's purpose is *"that you
+may walk in the way of good men"* (2:20). Psalm 1:6 and Matthew 7:13–14 give the two-ways picture its
+classic forms (WEB, checked against bible-api.com). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[From Adam to Noah]] — where the phrase enters the Bible, and the man it exempts from the
@@ -122,6 +132,7 @@ Proverbs 4:10–19 will make explicit starts as a question of company. Hebrew ch
   walk among you"* (WEB; *not yet ingested*). See [[The Dwelling of God]]
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:15–16; the path walked *with them*, the book's first road
+- [[If You Seek Her as Silver]] — Proverbs 2:8–20; the two roads, to the paths of life and to the shades
 
 ## Related themes
 

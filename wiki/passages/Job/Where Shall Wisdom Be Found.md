@@ -225,6 +225,9 @@ king over all the sons of pride"* (41:34).
 - Proverbs 1:20–21 — [[Wisdom Calls in the Street]]: Wisdom shouting in the streets and city gates,
   against this chapter's *"hidden from the eyes of all living"* (28:21); the tension is recorded on
   that page and in [[Wisdom]].
+- Proverbs 2:4–6 — [[If You Seek Her as Silver]]: the miner's search for silver and hidden treasure
+  as the model for a search for wisdom that *succeeds*; the contradiction with 28:1–11, 21 is recorded
+  on that page and in [[Wisdom]].
 
 ## Notes
 

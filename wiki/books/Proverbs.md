@@ -20,7 +20,11 @@ lesson is not about sex or money but about company: a father warning his son aga
 invitation to ambush the innocent, and showing him the ambush turned round on its makers (1:8–19). See
 [[Do Not Consent to Sinners]]. Then Wisdom herself speaks, in the street and the city gates, in the
 voice of a prophet: she calls, is refused, laughs at the refusers' calamity, and will not answer
-when they call too late (1:20–33). See [[Wisdom Calls in the Street]].
+when they call too late (1:20–33). See [[Wisdom Calls in the Street]]. The father's second lecture
+answers her: one long conditional sentence — *if* you seek her as silver, *then* you will understand
+the fear of Yahweh, *for* Yahweh gives wisdom — which then names the two dangers wisdom rescues from,
+men of perverse speech and the *"strange woman"* who forgets *"the covenant of her God"*, and ends on
+the upright dwelling in the land (2:1–22). See [[If You Seek Her as Silver]].
 
 It is an anthology, and its headings say so. The book names Solomon three times (1:1; 10:1;
 25:1), but it also contains *"the words of the wise"* (22:17), further *"sayings of the wise"*
@@ -73,7 +77,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Purpose of the Proverbs]] — Proverbs 1:1–7
 - [x] [[Do Not Consent to Sinners]] — Proverbs 1:8–19
 - [x] [[Wisdom Calls in the Street]] — Proverbs 1:20–33
-- [ ] If You Seek Her as Silver — Proverbs 2:1–22
+- [x] [[If You Seek Her as Silver]] — Proverbs 2:1–22
 - [ ] Trust in Yahweh with All Your Heart — Proverbs 3:1–12
 - [ ] Wisdom's Worth and the Founding of the Earth — Proverbs 3:13–20
 - [ ] Do Not Withhold Good — Proverbs 3:21–35
@@ -132,6 +136,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Folly]] — wisdom's opposite, and the other way the book's reader can go
 - [[Righteousness]] — *"righteousness, justice, and equity"* (1:3), wisdom's moral content
 - [[Language and Speech]] — proverb, parable, riddle (1:6): a book about words, made of words
+- [[Sexual Sin]] — the strange woman, introduced at 2:16–19 and developed in chapters 5–7
+- [[Marriage]] — called *"the covenant of her God"* (2:17)
 - [[Retribution]] — the ordinary run of things, stated as sentences; see the Overview on reading
   it after Job
 
@@ -141,4 +147,5 @@ first collection at its heading), each titled from a representative saying.
 - [[God]] — *Yahweh*, named in the motto (1:7) and throughout
 
 ## Key places
-- [[Sheol]] — the insatiable realm of the dead, which the gang of 1:12 proposes to imitate
+- [[Sheol]] — the insatiable realm of the dead, which the gang of 1:12 proposes to imitate, and to
+  which the strange woman's house sinks (2:18; 5:5; 9:18)

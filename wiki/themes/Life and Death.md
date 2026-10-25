@@ -193,6 +193,16 @@ the serious sanction with which the assembly's address opens.
 
 See [[The Freewill Offering]].
 
+### The house that sinks to death — Proverbs 2:18–19
+
+*"For her house leads down to death, her paths to the departed spirits. None who go to her return
+again, neither do they attain to the paths of life"* (2:18–19). *Leads down* is *šāḥâ*, *sinks*; the
+*departed spirits* are *rəp̄āʾîm*, the shades (as in Job 26:5; Psalm 88:10; Isaiah 14:9). *"None …
+return"* (*lōʾ yəšûḇûn*) is Job's description of death, *"where I shall not return from"* (Job 10:21,
+*wəlōʾ ʾāšûḇ*). The chapter's two roads end in *death* and in *"the paths of life"*. See
+[[If You Seek Her as Silver]] and [[Sheol]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The Sabbath death sanction is repeated without an execution scene.
@@ -505,6 +515,7 @@ See [[The Freewill Offering]].
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:2–3; the thief killed at night and after sunrise
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:12, 20–21, 33, 38; no plague at the census, washing that they not die, and being cut off.
+- [[If You Seek Her as Silver]] — Proverbs 2:18–19; the strange woman's house sinking to death and the shades; *the paths of life*
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

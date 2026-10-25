@@ -160,6 +160,15 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
 
+### Shield and guard — Proverbs 2:7–8, 11
+
+*"He lays up sound wisdom for the upright. He is a shield to those who walk in integrity; that he may
+guard the paths of justice, and preserve the way of his saints"* (2:7–8). Then the same work passes to
+wisdom inside the son: *"Discretion will watch over you. Understanding will keep you"* (2:11) — the
+verbs *nāṣar* and *šāmar* of 2:8 again. **God's protection arrives as wisdom internalized.** *Lays up*
+is *ṣāp̄an*, the verb of the son's *store up* (2:1). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Wager in Heaven and the Four Messengers]] — ***"Yahweh gave, and Yahweh has taken away"***
@@ -286,6 +295,7 @@ See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; a conquest paced for the land's sake.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The cloud determines both departure and waiting throughout Israel’s journeys.
+- [[If You Seek Her as Silver]] — Proverbs 2:7–8, 11; God as shield and guard, his keeping carried out by wisdom in the son
 
 ## Related themes
 

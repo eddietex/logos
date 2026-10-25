@@ -156,6 +156,18 @@ calamity *"will not find me"* (1:28), against Deuteronomy 4:29 and Jeremiah 29:1
 after disaster *"and you shall find him"*. See [[Wisdom Calls in the Street]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The rule stated without exception — Proverbs 2:7, 21–22
+
+The second lecture ends on the rule in its plainest form: God *"is a shield to those who walk in
+integrity"* (2:7), *"the upright will dwell in the land … the wicked will be cut off from the land"*
+(2:21–22). **Tension flagged, not resolved**: the words are Job's pair — *tām* and *yāšār*, Job 1:1 —
+and Job, both, lost land and household. Psalm 37 meets the same problem by counselling patience
+(*"Don't fret because of evildoers"*, 37:1, WEB, checked against bible-api.com); Proverbs 2 does not
+raise it. The punishment is also self-acting in the chapter's middle: the strange woman's house sinks
+of its own weight to death (2:18). See [[If You Seek Her as Silver]] and
+[[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the preface of the book where the doctrine's classic
@@ -395,6 +407,7 @@ after disaster *"and you shall find him"*. See [[Wisdom Calls in the Street]]. S
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:17–19; the ambush turned round by repeating its own verbs; the contradiction with Job 12:6 and 24:14 recorded
 - [[Wisdom Calls in the Street]] — Proverbs 1:31–32; refusers filled with their own counsel; the tensions with Job 9:23 and Deuteronomy 4:29 recorded
+- [[If You Seek Her as Silver]] — Proverbs 2:7, 21–22; the upright shielded and kept in the land, the wicked torn out; the tension with Job 1:1 recorded
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

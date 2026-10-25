@@ -139,6 +139,16 @@ of their gods. This gives a religious rationale for the marriage warning rather 
 treating a foreign origin as self-explanatory. No particular marriage is narrated here. See
 [[The Covenant Renewed]].
 
+### The friend of her youth — Proverbs 2:17
+
+The strange woman *"forsakes the friend of her youth, and forgets the covenant of her God"* (2:17,
+*ʾallûp̄ nəʿûreyhā … bərîṯ ʾĕlōheyhā*). **Marriage is called a covenant, and God's**: Malachi 2:14
+says the same with the same terms — *"the wife of your youth … the wife of your covenant"*, with
+Yahweh as witness — though Malachi accuses the husband and Proverbs the wife. Proverbs 5:18 will tell
+the son to *"Rejoice in the wife of your youth"*. See [[If You Seek Her as Silver]] and
+[[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Marriage alliances prohibited in the warning against rival
@@ -309,6 +319,7 @@ treating a foreign origin as self-explanatory. No particular marriage is narrate
 - [[The Altar and the Hebrew Slave]] — Exodus 21:3–11; a family divided by release, and a female
   servant's food, clothing, and marital rights protected
 - [[Laws of Holiness and Compassion]] — Exodus 22:16–17; the bride-price as remedy, and the father's right to refuse
+- [[If You Seek Her as Silver]] — Proverbs 2:17; marriage as *the covenant of her God*, forsaken; Malachi 2:14's vocabulary
 
 ## Related themes
 

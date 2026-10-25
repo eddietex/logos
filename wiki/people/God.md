@@ -2024,6 +2024,15 @@ his register.** The page records both facts and does not resolve the relation; s
 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's *Miqra according to the
 Masorah*, 2026-10-25.
 
+### The giver of wisdom — Proverbs 2:1–22
+
+*"For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding"* (2:6). The search the
+son is told to make (2:1–4) succeeds because its object is a gift. God *"lays up sound wisdom for the
+upright"* (2:7, *yiṣpōn*, the verb of the son's *"store up"*, 2:1), is *"a shield to those who walk in
+integrity"*, and guards *"the paths of justice"* (2:8). He is also named in *"the covenant of her God"*
+(2:17): the strange woman's marriage is a covenant of which he is party. See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
@@ -2286,6 +2295,7 @@ Masorah*, 2026-10-25.
 - Proverbs 1:7 — Named in the motto as the one whose fear is the beginning of knowledge. See [[The Purpose of the Proverbs]].
 
 - Proverbs 1:29 — Named in *"the fear of Yahweh"*, which the refusers did not choose; Wisdom speaks in his prophetic register. See [[Wisdom Calls in the Street]].
+- Proverbs 2:6–8 — Gives wisdom out of his mouth; stores it up for the upright; shields and guards them. See [[If You Seek Her as Silver]].
 
 ## Appears in
 
@@ -2725,6 +2735,7 @@ Masorah*, 2026-10-25.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *Yahweh*, named once, in the motto (1:7); no speech or act.
 
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; named once (1:29), in the third person, by Wisdom speaking in his register.
+- [[If You Seek Her as Silver]] — Proverbs 2:1–22; named *Yahweh* (2:5, 6) and *God* (2:5, 17): giver of wisdom, shield of the upright, party to the marriage covenant.
 
 ## Related people
 

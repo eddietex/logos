@@ -150,6 +150,18 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
 
+### The upright dwell, the wicked are torn out — Proverbs 2:21–22
+
+*"For the upright will dwell in the land. The perfect will remain in it. But the wicked will be cut off
+from the land. The treacherous will be rooted out of it"* (2:21–22). The wisdom tradition's rule in the
+covenant's vocabulary — *cut off* (Genesis 17:14), *rooted out* (Deuteronomy 28:63) — and in Psalm
+37's (*"The righteous shall inherit the land, and live in it forever"*, 37:29), which Matthew 5:5
+takes up as *"they shall inherit the earth"*. **Tension flagged, not resolved**: this page's own
+history is the exception — patriarchs who held the promised land as sojourners, owning a grave — and
+so is Job, *tām wəyāšār*, who lost his. See [[If You Seek Her as Silver]] and
+[[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Promised removal and enlarged borders; security during
@@ -423,6 +435,7 @@ See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the prepared place, its border, and its gradual inheritance.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Exodus closes with a dwelling for God and continuing journeys for Israel.
+- [[If You Seek Her as Silver]] — Proverbs 2:21–22; the upright dwell in the land, the wicked cut off and rooted out; the tension with the sojourners and Job recorded
 
 ## Related themes
 

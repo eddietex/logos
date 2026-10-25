@@ -300,6 +300,18 @@ preserves the testimony within the sanctuary.
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### Forgotten, and cut off — Proverbs 2:17, 22
+
+Two covenant words in one lecture. The strange woman *"forgets the covenant of her God"* (2:17) — a
+marriage spoken of as a *bərîṯ*, as in Malachi 2:14. And the wicked *"will be cut off from the land"*
+(2:22, *yikkārēṯû*), the verb of *cutting* a covenant and of its penalty (Genesis 17:14, *"cut off
+from his people. He has broken my covenant"*), beside *"rooted out"* (*yissəḥû*), Deuteronomy
+28:63's verb for Israel *plucked* from the land. Proverbs applies to the individual what Deuteronomy
+threatens the nation with. See [[If You Seek Her as Silver]],
+[[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]], and
+[[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The testimony’s container made after renewal; placement is still ahead.
@@ -516,6 +528,7 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 - [[The Work Completed]] — Exodus 39:32–43; Obedient construction follows renewal without constituting another covenant rite.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The testimony is placed in the ark and promised presence becomes visible after renewal.
+- [[If You Seek Her as Silver]] — Proverbs 2:17, 22; marriage as covenant; *cut off* and *rooted out*, the covenant penalties applied to the wicked
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

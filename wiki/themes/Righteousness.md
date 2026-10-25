@@ -116,6 +116,14 @@ an innocent litigant is sinless in every respect, or a complete account of divin
 
 See [[Justice, Sabbaths, and Feasts]].
 
+### The preface coming true — Proverbs 2:9
+
+*"Then you will understand righteousness and justice, equity and every good path"* (2:9, *ṣeḏeq
+ûmišpāṭ ûmêšārîm*) is the preface's triplet (1:3) returning as a result: what the book set out to
+teach, the son who seeks wisdom will understand. The lecture ends on the righteous (*ṣaddîqîm*,
+2:20) keeping their paths and the upright dwelling in the land (2:21). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *"righteousness, justice, and equity"* (*ṣedeq
@@ -290,6 +298,7 @@ See [[Justice, Sabbaths, and Feasts]].
   the first *yāšār* in Scripture (WLC lemma search, Genesis–Deuteronomy). **The standard is set by God's
   sight, not by the doer's** — the formula Deuteronomy repeats and Judges inverts (*"right in his own
   eyes"*, Judges 17:6; by reference, *not yet ingested*)
+- [[If You Seek Her as Silver]] — Proverbs 2:9, 20; righteousness, justice, and equity (1:3) understood; the paths of the righteous
 
 ## Related themes
 

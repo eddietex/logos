@@ -135,6 +135,18 @@ gang's chosen victims are described with the Bible's word for integrity, and in 
 are *nāqî*, *"innocent"*. Hebrew checked against Sefaria's *Miqra according to the Masorah*. See
 [[Do Not Consent to Sinners]].
 
+### Job's pair, promised the land — Proverbs 2:7, 21
+
+*"He is a shield to those who walk in integrity"* (2:7, *tōm*); *"the upright (yəšārîm) will dwell in
+the land. The perfect (təmîmîm) will remain in it"* (2:21). The two roots are the pair with which Job
+is introduced — *"blameless and upright"*, *tām wəyāšār* (Job 1:1). **Tension flagged, not
+resolved**: Proverbs 2 promises the *tām* and the *yāšār* a shield and the land without exception;
+Job was both and lost everything, and his book refuses to explain it by his sin. The wiki reads
+Proverbs as stating the ordinary rule and Job as the case that shows it is not a guarantee in any
+one life (see the [[Proverbs]] book page), but neither text says so. See [[If You Seek Her as Silver]] and
+[[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Accountable material use; no allegation of misuse or independent audit.
@@ -236,6 +248,7 @@ are *nāqî*, *"innocent"*. Hebrew checked against Sefaria's *Miqra according to
 - [[Laws of Property and Restitution]] — Exodus 22:7–13; honesty sworn where there is no witness
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:11–12; the innocent victims called *təmîmîm*, *"whole"*
+- [[If You Seek Her as Silver]] — Proverbs 2:7, 21; *tōm* and *tāmîm* given a shield and the land; the tension with Job 1:1 recorded
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -215,6 +215,21 @@ Psalm 2:4's verbs (1:26), and a refusal to answer (1:28) — yet she names Yahwe
 [[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Sought as silver, given by Yahweh — Proverbs 2:1–22
+
+The second lecture makes wisdom both a search and a gift in one sentence. The son is to receive,
+store up, incline his ear, call out, and *"seek her as silver, and search for her as for hidden
+treasures"* (2:1–4), and the result is explained by *"For Yahweh gives wisdom"* (2:6). **Seeking finds
+here** (2:5, *timṣāʾ*), where in 1:28 it did not. And the miner's picture that Job 28 uses to show
+where wisdom is *not* found (28:1–11, 21) is the picture Proverbs uses for the search that succeeds.
+**Contradiction flagged, not resolved**: the wiki's reading is that Proverbs' search succeeds because
+it looks for what God gives, Job 28's fails because it looks in the earth, and both end at the fear
+of Yahweh (2:5; Job 28:28) — but Proverbs uses the image without Job's caveat. Wisdom then works as a
+guard (2:11, the same verbs God performs in 2:8) and rescues from two dangers, perverse men and the
+strange woman (2:12–19). See [[If You Seek Her as Silver]] and
+[[Better Than Gold - The Price of Wisdom]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; wisdom's vocabulary surveyed in one sentence, offered
@@ -369,6 +384,7 @@ Psalm 2:4's verbs (1:26), and a refusal to answer (1:28) — yet she names Yahwe
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–19; the first lecture — a parent's word worn as ornament, and foresight about the gang's road
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; Wisdom personified, calling in public, refused, and speaking judgment in a prophet's voice; the tension with Job 28's hidden wisdom recorded
+- [[If You Seek Her as Silver]] — Proverbs 2:1–22; sought as silver and given by Yahweh; the tension with Job 28's failed search recorded
 
 ## Related themes
 

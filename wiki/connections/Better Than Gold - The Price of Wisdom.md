@@ -12,8 +12,8 @@ tags: [connection]
 - **Job 28:13, 15–19** — *"Man doesn't know its price … It can't be gotten for gold, neither shall
   silver be weighed for its price … the price of wisdom is above rubies."*
 - **Proverbs 2:4–6** — *"If you seek her as silver, and search for her as for hidden treasures: then you
-  will understand the fear of Yahweh, and find the knowledge of God. For Yahweh gives wisdom."* Not yet
-  ingested.
+  will understand the fear of Yahweh, and find the knowledge of God. For Yahweh gives wisdom."*
+  [[If You Seek Her as Silver]], where the contradiction with Job 28's failed search is recorded.
 - **Proverbs 3:13–15** — *"For her good profit is better than getting silver, and her return is better
   than fine gold. She is more precious than rubies."* Not yet ingested.
 - **Proverbs 8:10–11, 19** — *"Receive my instruction rather than silver … For wisdom is better than

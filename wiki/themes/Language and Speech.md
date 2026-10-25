@@ -126,6 +126,15 @@ while the mediator speaks.
 
 See [[The Shining Face of Moses]].
 
+### My words against her words — Proverbs 2:1, 12, 16
+
+The lecture opens *"if you will receive my words"* (2:1, *ʾămāray*) and says wisdom comes *"Out of his
+mouth"* — God's (2:6). The two dangers it rescues from are both speech: *"the men who speak perverse
+things"* (2:12, *tahpuḵôṯ*, from *h-p-k*, *to overturn*) and the woman *"who flatters with her words"*
+(2:16, *ʾămāreyhā heḥĕlîqâ*, her words made smooth). **The father's words are set against hers, using
+the same noun.** See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
+*Miqra according to the Masorah*, 2026-10-25.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; *"a proverb, and parables, the words and riddles of the
@@ -342,6 +351,7 @@ See [[The Shining Face of Moses]].
   the request for Moses’ voice
 - [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler
 - [[The Blood of the Covenant]] — Exodus 24:4, 7, 12; the words written, read aloud, and promised on stone
+- [[If You Seek Her as Silver]] — Proverbs 2:1, 6, 12, 16; the father's words and God's mouth against perverse speech and smooth words
 
 ## Related themes
 

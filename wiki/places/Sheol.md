@@ -188,6 +188,11 @@ to go.
   Sheol's insatiability (27:20; 30:16) taken as a model by men, and the swallowing *alive* that
   Numbers 16:30–33 narrates of Korah's company; the lecture ends with the would-be swallowers lying in
   wait *"for their own lives"* (1:18).
+- [[If You Seek Her as Silver]] — Proverbs 2:18–19; **not named, but pictured.**
+  The strange woman's house *"leads down to death, her paths to the departed spirits"* (*rəp̄āʾîm*, the
+  shades who inhabit Sheol, as in Job 26:5 and Isaiah 14:9), and *"None who go to her return again"* —
+  Job's *"where I shall not return from"* (Job 10:21). Proverbs names Sheol in the same picture at 5:5
+  and 9:18.
 
 ## Related places
 

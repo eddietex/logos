@@ -15300,3 +15300,65 @@ and Acts 2:17 was checked against the SBLGNT (MorphGNT). Unverified and so quali
 modern renderings of 1:23 as *thoughts*, and the Septuagint's partitive in Joel.
 
 `scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.
+
+## [2026-10-25] ingest | Proverbs 2.1-22 — If You Seek Her as Silver
+
+Unattended run (`/ingest auto`, no argument). [[Proverbs]] is the only `in-progress` book; its first
+unchecked box was Proverbs 2:1–22. The raw text was already stored; no raw file was touched. The
+pericope plan was not redrawn.
+
+### The passage
+
+`wiki/passages/Proverbs/If You Seek Her as Silver.md` reads the father's second lecture as one
+conditional sentence in six movements — *if* (2:1–4), *then* (2:5–8, 9–11), *to deliver you*
+(2:12–15, 16–19), *so that* (2:20–22) — and notes that its *aleph*/*lamed* first letters split the
+22 verses at the alphabet's midpoint. Main readings: *ṣāp̄an* runs from the gang's *lurk* (1:11, 18)
+to the son's *store up* (2:1) to God's *lays up* (2:7); seeking *finds* (2:5) where 1:28 did not;
+effort and gift in one sentence (*"For Yahweh gives wisdom"*, 2:6); 2:9 and 2:11 bring back the
+preface's *righteousness, justice, and equity* and *discretion* (1:3–4); the men and the woman both
+*forsake* (*ʿāzaḇ*, 2:13, 17) and are defined by speech; *cut off* and *rooted out* (2:22) are covenant
+and Deuteronomic verbs. **Judgment calls worth reviewing:** the strange woman is read as another
+man's wife (on Malachi 2:14's vocabulary), with the foreign-woman reading kept open; she gets no person
+page (the theme [[Sexual Sin]] is her page; Proverbs 7 is the place to revisit that); *rəp̄āʾîm* got no
+page (the shades are covered under [[Sheol]], which is pictured but not named in the chapter); the
+"alphabetizing" description is attributed to commentators without checking a specific one.
+
+**Contradictions/tensions flagged, not resolved:** (1) Proverbs 2:4 (the miner's search succeeds)
+against Job 28:1–11, 21 (it does not reach wisdom) — on the passage page, [[Wisdom]], and
+[[Better Than Gold - The Price of Wisdom]]. (2) Proverbs 2:7, 21 (the *tām* and *yāšār* shielded and
+kept in the land) against Job 1:1 and Job's losses, and against the patriarchs as sojourners — on the
+passage page, [[Integrity]], [[Retribution]], [[Land and Sojourning]], and the new land connection.
+
+### Pages
+
+- **Created (3):** the passage;
+  [[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]] (shared
+  *šāḵan*/*kāraṯ*; covenant verbs; the exceptions);
+  [[The Wife of Your Youth - Proverbs 2.17, Malachi 2.14, and Jeremiah 3.4]] (*nəʿûrîm*, *bərîṯ*,
+  *b-g-d*; Malachi accuses the husband, Proverbs the wife).
+- **Revised (20):** the book page (box checked, overview, key themes and places); [[God]] (section,
+  timeline, appears-in); [[Sheol]]; themes [[Wisdom]], [[The Fear of God]], [[Righteousness]],
+  [[Integrity]], [[Sexual Sin]], [[Marriage]], [[Covenant]], [[Life and Death]],
+  [[Land and Sojourning]], [[Retribution]], [[Language and Speech]], [[Light and Darkness]],
+  [[Walking with God]], [[Providence]]; connections [[Better Than Gold - The Price of Wisdom]] and
+  [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]; cross-reference on
+  [[Where Shall Wisdom Be Found]].
+- **Bookkeeping:** `wiki/books/index.md` (Proverbs 4 / 43); the themes and places indexes; People
+  Index F-M (God); Connections Index T-Z; `wiki/index.md` counts — 148 passages, 179 people,
+  90 places, 83 themes, 388 connections.
+
+No title collision, schema change, or harness change was needed.
+
+### Sources and verification
+
+The key verses were taken from `raw/bible/Proverbs.md`; other Proverbs (1:3, 4, 11, 18; 5:5, 18; 7:5;
+9:18; 10:30), Job (1:1; 3:21; 5:12; 10:21; 26:5; 28:1, 23), and Genesis 17:14 quotations were checked
+in the stored WEB. Unstored books — Malachi 2:14–16, Jeremiah 3:4, Psalm 1:6; 37:1, 9, 11, 22, 29;
+88:10, Isaiah 14:9; 26:14, Hosea 4:1; 6:6, Deuteronomy 28:63, 1 Kings 3:9, 12, Matthew 5:5; 7:13–14,
+James 1:5, Hebrews 13:4 — were fetched verse by verse from bible-api.com (WEB) and not stored. Hebrew
+of Proverbs 2:1–22; 1:3, 4, 11, 18; 5:5; 7:5; 9:18, Job 1:1; 3:21; 5:12; 10:21; 26:5, Genesis 17:14,
+Deuteronomy 28:63, Jeremiah 3:4, Malachi 2:14, and Psalm 37:9, 11, 29; 88:11 was checked against
+Sefaria's *Miqra according to the Masorah*. Not checked, and so qualified on the pages: the Septuagint
+of Psalm 37:11 behind Matthew 5:5, and any named commentary on the chapter's alphabetic structure.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; baseline 62.
