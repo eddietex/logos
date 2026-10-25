@@ -15551,3 +15551,55 @@ no unstored book was added to raw, and no existing raw text was modified.
 62 not-yet-started book pages remain the expected baseline. Type-based counts, the 7 / 43
 Proverbs checklist, unique category rows, and the new connection's filing order checked.
 No passage-title collision, schema or harness change, or unresolved blocker.
+
+## [2026-10-25] ingest | Proverbs 4.1-9 — Get Wisdom
+
+Ingested [[Get Wisdom]], Proverbs 4:1–9, in unattended mode. The planned boundary is
+unchanged: the remembered father's quotation closes at 4:9 in the WEB, and 4:10 renews
+the address. Proverbs is now 8 / 43 pericopes ingested; no second unit was ingested.
+
+The passage follows the teacher's recollection of being taught, the repeated acquisition
+and retention of wisdom, love and embrace, and the promised protection and crown. Three
+generations of instruction are compared with the household explanation in Exodus 13.
+The speakers remain unnamed: the collection's Solomon–David heading permits an association
+but does not identify them in these verses. Existing person pages record that distinction;
+no new person or place page is warranted. Wisdom remains a personification on the theme page.
+Verse 7 is discussed as the WEB renders it, with no independent Hebrew claim.
+
+**Tension retained:** Proverbs 4:6, 8–9 promises preservation and honor; Job 19:9 describes
+a lost crown, while Job 1:1 and 2:3 affirm the sufferer's uprightness and integrity. These
+conflict under an exceptionless reading of the promise. The wiki's reading of formative
+counsel rather than a diagnostic rule is identified as interpretation in the passage,
+themes, and new connection. The garland's grace is treated as adornment in context, not
+as a complete doctrine of salvation. Acquisition at any cost is not made a literal sale.
+
+**Created (3):** [[Get Wisdom]] and two connections,
+[[Wisdom Handed On - Proverbs 4 and Exodus 13]] and
+[[The Crown Given and Taken - Proverbs 4 and Job 19]].
+
+**Revised content pages (21):** [[Proverbs]], [[Solomon]], [[David]];
+nine themes — [[Wisdom]], [[Law and Obedience]], [[Remembrance]], [[Language and Speech]],
+[[Love]], [[Life and Death]], [[Wealth and Possessions]], [[Favor and Grace]],
+[[Retribution]]; two connections — [[Better Than Gold - The Price of Wisdom]] and
+[[Honor Your Father and Mother - Exodus 20 and Ephesians 6]]; seven reciprocal passage
+updates — [[Do Not Consent to Sinners]], [[If You Seek Her as Silver]],
+[[Trust in Yahweh with All Your Heart]], [[Wisdom's Worth and the Founding of the Earth]],
+[[Do Not Withhold Good]], [[The Consecration of the Firstborn]],
+[[I Know That My Redeemer Lives]].
+
+**Bookkeeping (9 revised files including this log):** books index, themes index, People
+Index A-E and N-Z, Connections Index A-C, D-H, and T-Z, main index, and log. Totals:
+152 passages, 179 people, 90 places, 83 themes, 395 connections. Overall: 3 files created
+and 30 existing files revised.
+
+**Sources:** all nine passage verses copied from stored WEB Proverbs and compared against
+it programmatically. Comparisons checked in stored Proverbs 1:1, 8–9; 2:4–6; 3:1–3,
+13–18, 21–35; 4:10; Exodus 13:8–16; 20:12; Job 1:1; 2:3; 19:6–10; 28:12–19.
+No new exact Hebrew or Greek assertions, unstored-book quotations, or external text fetches.
+The fetch script refused the already existing Proverbs file as designed; the stored text
+was used without modification. No raw text changed.
+
+**Validation:** `scripts/link-check.sh` exits 0 with no wrapped wikilinks or dangling targets;
+62 unstarted books remain the expected baseline. Frontmatter counts, the 8 / 43 checklist,
+category row coverage, new connection filing, and passage-title uniqueness checked.
+No schema or harness change, and no unresolved blocker.

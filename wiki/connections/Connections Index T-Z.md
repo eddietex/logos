@@ -91,6 +91,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Wife-Sister Episodes]] | parallel | Genesis 12:10–20 · Genesis 20:1–18 · Genesis 26:6–11 · Genesis 20:12–13 |
 | [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] | image | Genesis 16:12 · Job 11:12 · Job 6:5 · Job 24:5 · Job 30:3–7 · Job 39:5–8 · Jeremiah 2:24 · Hosea 8:9 |
 | [[Willing Hearts - The Sanctuary, the Temple, and the Collection]] | parallel | Exodus 25:1–9 · Exodus 35:4–29 · 1 Chronicles 29:1–17 · 2 Corinthians 9:1–15 · [[Bezalel's Workmen and the Surplus]] · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
+| [[Wisdom Handed On - Proverbs 4 and Exodus 13]] | parallel | Proverbs 1:8–9; 4:1–9 · Exodus 13:8–16 |
 | [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] | thread | Proverbs 1:1 · Proverbs 10:1 · Proverbs 25:1 · Proverbs 22:17; 24:23; 30:1; 31:1 · 1 Kings 3:9, 12 · 1 Kings 4:29–34 · Job 1:3 · Ecclesiastes 1:1; 12:9 · Song of Solomon 1:1 · Matthew 12:42 |
 | [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Matthew 23.34-37]] | typology | Proverbs 1:20–33 · Luke 11:49 · Matthew 23:34–38 · Matthew 11:19 · Luke 7:35 · [[Wisdom Calls in the Street]] (Proverbs 1:20–33) |
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |

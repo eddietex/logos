@@ -347,6 +347,9 @@ a festival, not an object. The wiki adopts neither reading.
 
 ## Cross-references
 
+- [[Get Wisdom]] — Proverbs 4:1–9 passes remembered instruction through a family; see
+  [[Wisdom Handed On - Proverbs 4 and Exodus 13]] .
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 
 - Exodus 23:14–19 — [[Justice, Sabbaths, and Feasts]] and [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] carry the memorial into the annual calendar.

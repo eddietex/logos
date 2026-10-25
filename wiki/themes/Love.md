@@ -126,7 +126,19 @@ Revelation 3:19 (*"As many as I love, I reprove and chasten"*) carry the sentenc
 Testament. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Love wisdom and embrace her — Proverbs 4:1–9
+
+The command to love wisdom (4:6) and embrace her (4:8) extends the theme beyond attachment
+to another human being. Personification makes learning an affection and allegiance:
+wisdom is cherished, not merely used, and her response is protection and honor. The
+passage is not a report of marriage to an identifiable woman. The contrast is thematic;
+no claim about an exact Hebrew verb is needed for this reading of the WEB.
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Affection and embrace directed toward personified wisdom.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Abundant loving kindness forms part of the divine proclamation.
 

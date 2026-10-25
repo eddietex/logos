@@ -217,6 +217,9 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 
 ## Cross-references
 
+- [[Get Wisdom]] — Proverbs 4:1–9 recalls an earlier generation’s teaching and returns to the
+  garland of 1:9.
+
 - [[Do Not Withhold Good]] — Proverbs 3:31 again prohibits following violence, now beginning with envy of the violent man.
 
 - Proverbs 6:20 — *"My son, keep your father's commandment, and don't forsake your mother's

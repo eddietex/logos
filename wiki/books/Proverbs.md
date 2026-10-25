@@ -61,6 +61,12 @@ baseless strife, and refuse to envy violence (3:21–35). Friendship, blessing, 
 glory close the contrasts. See [[Do Not Withhold Good]]. Job's ruined household and
 terrified nights remain explicit counterexamples to a universal prosperity inference.
 
+A father next recalls the instruction of his own childhood and passes it to his sons
+(4:1–9). Wisdom is to be acquired, retained, loved, and embraced; she preserves and crowns
+the learner. See [[Get Wisdom]]. The unnamed speakers are not securely identified as
+Solomon and David, and the honor promised remains in tension with Job's removed crown
+(Job 19:9). Instruction is handed on through a household as well as learned from observation.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -97,7 +103,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–12
 - [x] [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20
 - [x] [[Do Not Withhold Good]] — Proverbs 3:21–35
-- [ ] Get Wisdom — Proverbs 4:1–9
+- [x] [[Get Wisdom]] — Proverbs 4:1–9
 - [ ] The Two Paths — Proverbs 4:10–19
 - [ ] Keep Your Heart — Proverbs 4:20–27
 - [ ] The Strange Woman and the Wife of Your Youth — Proverbs 5:1–23

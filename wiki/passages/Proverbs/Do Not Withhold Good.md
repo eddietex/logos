@@ -124,6 +124,8 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 
 ## Cross-references
 
+- [[Get Wisdom]] — Proverbs 4:6–9 continues the promises of wisdom’s protection and honor.
+
 - [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]] — Proverbs 3:34 cited in James
   4:6 and 1 Peter 5:5.
 - [[None Shall Make You Afraid - The Covenant Blessing of Security]] — Proverbs 3:24–26 alongside

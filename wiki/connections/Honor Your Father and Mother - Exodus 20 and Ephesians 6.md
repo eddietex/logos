@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Get Wisdom]] — Proverbs 4:1–9; a teacher passes on his own father’s instruction.
+
 - [[The Ten Commandments]] — Exodus 20:12, honoring both parents and long life in the given land.
 - Deuteronomy 5:16 — repeats the command with well-being added to long life.
 - Ephesians 6:1–3 — applies the command to children; both later texts verified WEB, not yet
@@ -53,6 +55,16 @@ See [[Trust in Yahweh with All Your Heart]] and
 [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]].
 Hebrew of Exodus 20:12 and Proverbs 3:2, 9 checked against Sefaria's *Miqra according to the Masorah*,
 2026-10-25.
+
+### The father who first had to listen — Proverbs 4:1–9
+
+The command's household setting gains another dimension in [[Get Wisdom]]. The parent
+asks for attention as someone who received teaching in childhood (4:3–4). The mother is
+remembered in 4:3, while the father is the quoted teacher. Unlike the land-specific long
+life of Exodus 20:12, this instruction promises life, preservation, and honor without
+naming a land. It is a thematic development of honoring parents, not an explicit citation
+of the commandment. See [[Wisdom Handed On - Proverbs 4 and Exodus 13]]. Source: stored
+WEB Proverbs 4:1–9 and Exodus 20:12, checked 2026-10-25.
 
 ## Significance
 

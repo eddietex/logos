@@ -205,7 +205,21 @@ is an interpretation, not a qualification explicitly supplied by Proverbs 3:33 i
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### Wisdom crowns; Job loses his crown — Proverbs 4:1–9
+
+Proverbs 4:6, 8–9 promises preservation and honor to the person who loves wisdom.
+Job 19:9 describes glory stripped and a crown removed, while Job 1:1; 2:3 affirms the
+sufferer's uprightness and continuing integrity. **These claims conflict if the promise
+is made an exceptionless account of present circumstances.** The wiki reads the promise
+as formative counsel about wisdom's worth, not a rule for judging sufferers; that reading
+is an interpretation and leaves the tension explicit. See
+[[The Crown Given and Taken - Proverbs 4 and Job 19]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Promised preservation and honor contrasted with Job’s lost crown.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Security and household blessing are promised; Job supplies explicit counterexamples.
 

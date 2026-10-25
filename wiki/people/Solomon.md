@@ -41,6 +41,12 @@ Solomon is here"* (Matthew 12:42).
 Quotations from Samuel, Kings, Nehemiah, Song of Solomon, Ecclesiastes, and Matthew on this page are
 WEB, checked against bible-api.com (2026-10-25); those books are not yet ingested.
 
+Proverbs 4:3–4 recalls a teacher receiving instruction from his father. The heading at
+1:1 makes a David–Solomon association possible, but 4:1–9 names neither man.
+[[Get Wisdom]] records the scene as unnamed family instruction, not an established event in
+Solomon's biography. The mother's only child in the WEB (4:3) is not independent evidence
+for the composition of the royal household. Source: stored WEB Proverbs 1:1; 4:1–9.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -50,6 +56,8 @@ WEB, checked against bible-api.com (2026-10-25); those books are not yet ingeste
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[Get Wisdom]] — Proverbs 4:1–9; possible collection-level association only; not named in this unit.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; named as the book's author and authority, *"the son
   of David, king of Israel"*; he does not speak in the unit
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]

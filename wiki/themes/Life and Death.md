@@ -224,7 +224,18 @@ promising immortality or defining the soul as an independently immortal entity.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### Keep the teaching and live — Proverbs 4:1–9
+
+The remembered father's commands are attached to life (4:4), and wisdom promises to
+preserve the learner who will not forsake her (4:6). The unit does not describe resurrection
+or abolish mortality. Nor does it justify inferring folly from someone's suffering:
+Job 1:1; 2:3 depicts an upright man exposed to undeserved ruin. See [[Retribution]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Retained teaching and wisdom’s preservation sustain life.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Retained wisdom gives life, secure steps, and sweet sleep.
 

@@ -200,7 +200,20 @@ lecture, and it is kept by the heart (*yiṣṣōr libbeḵā*). Hebrews 12:5 in
 same lecture's 3:11–12 by telling its readers they *"have forgotten the exhortation"*. See [[Trust in Yahweh with All Your Heart]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Remembered teaching passed to sons — Proverbs 4:1–9
+
+The father recalls his own childhood and repeats what his father taught him (4:3–4).
+The next learner must not forget or depart from these words (4:5). This is human memory
+serving continued practice, distinct from God's covenant remembrance described above.
+Exodus 13:8–16 likewise joins household speech to remembered experience, though its
+subject is deliverance and observance rather than wisdom's acquisition. See
+[[Wisdom Handed On - Proverbs 4 and Exodus 13]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Remembering a lesson makes possible its transmission and practice.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The earlier memorial payment has a specified material use.
 

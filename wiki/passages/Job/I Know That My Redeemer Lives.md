@@ -223,6 +223,9 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 
 ## Cross-references
 
+- [[Get Wisdom]] — Proverbs 4:9 promises the crown Job describes losing; see
+  [[The Crown Given and Taken - Proverbs 4 and Job 19]] .
+
 - [[The Redeemer and the Avenger of Blood]] — what a *gōʾēl* is, the two offices the word carries,
   and how 19:25 joins to 16:18's uncovered blood.
 - [[The Hope of Resurrection in the Old Testament]] — 19:25–27 among the handful of Hebrew Bible

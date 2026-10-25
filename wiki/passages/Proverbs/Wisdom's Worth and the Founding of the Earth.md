@@ -92,6 +92,9 @@ It does not remove either the promises in Proverbs or Job's counterexample.
 
 ## Cross-references
 
+- [[Get Wisdom]] — Proverbs 4:7–9 makes wisdom’s greater worth a command to acquire her, and
+  pictures her gift of honor as a crown.
+
 - [[Do Not Withhold Good]] — Proverbs 3:21–35 turns the praise of wisdom’s peaceful paths into confidence and concrete duties toward a neighbor.
 
 - [[Better Than Gold - The Price of Wisdom]] — Job 28:12–19 and Proverbs 2:4–6, 3:14–15.

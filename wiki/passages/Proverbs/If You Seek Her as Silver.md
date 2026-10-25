@@ -281,6 +281,9 @@ The book develops the image at length in [[Proverbs]] 4:10–19, a later pericop
 
 ## Cross-references
 
+- [[Get Wisdom]] — Proverbs 4:5–7 repeats the call to acquire understanding; the acquisition image
+  must be read beside 2:6’s gift.
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 2:4–6 and 3:13–15; the thing sought as
   silver is valued above silver.
 

@@ -24,6 +24,12 @@ confession in Psalm 51 — without a page to link to: see
 [[The Bread of the Presence - David's Hunger and Matthew 12]] and
 [[Sin Against God - Joseph at 39.9 and David at Psalm 51]].
 
+Proverbs 4:3–4 recalls a teacher receiving instruction from his father. The heading at
+1:1 makes a David–Solomon association possible, but 4:1–9 names neither man.
+[[Get Wisdom]] records the scene as unnamed family instruction, not an established event in
+David's biography. The mother's only child in the WEB (4:3) is not independent evidence
+for the composition of the royal household. Source: stored WEB Proverbs 1:1; 4:1–9.
+
 ## Timeline / key events
 
 - 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
@@ -33,6 +39,8 @@ confession in Psalm 51 — without a page to link to: see
 - Proverbs 1:1 — named as Solomon's father. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[Get Wisdom]] — Proverbs 4:1–9; possible collection-level association only; not named in this unit.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; named only in Solomon's patronym
 - [[The Bread of the Presence - David's Hunger and Matthew 12]]
 - [[Sin Against God - Joseph at 39.9 and David at Psalm 51]]

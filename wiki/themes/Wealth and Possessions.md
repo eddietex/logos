@@ -273,7 +273,19 @@ than money, and the verses do not specify only charitable gifts or only payment 
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### Understanding before all possessions — Proverbs 4:1–9
+
+In the WEB, 4:7 urges getting understanding even if it costs all one's possessions.
+The image intensifies 3:14–15's ranking of wisdom above silver, gold, and rubies. It does
+not establish a market price or a rule that the wealthy can buy wisdom: no seller or
+payment mechanism appears. Reading it as a priority of desire also keeps 2:6's divine
+gift in view. See [[Better Than Gold - The Price of Wisdom]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Understanding takes priority even over all possessions.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Available resources must not be withheld or needlessly delayed.
 

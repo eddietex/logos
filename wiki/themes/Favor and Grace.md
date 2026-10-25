@@ -130,7 +130,19 @@ earned. James 4:6 and 1 Peter 5:5 cite the contrast in exhortations to humility.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### The garland wisdom gives — Proverbs 4:1–9
+
+The WEB's garland of grace (4:9) belongs beside the crown of splendor and the promise
+of honor (4:8). Here grace is part of an adornment image; it is not a complete account
+of salvation or a statement that divine mercy can be earned. This nuances the page's
+focus on favor shown to someone: the imagery can also describe the attractiveness of
+wisdom's gifts. Compare the garland of parental teaching in Proverbs 1:9.
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Wisdom’s garland describes gracious adornment and honor.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Grace is given to the humble, a saying cited in James and 1 Peter.
 

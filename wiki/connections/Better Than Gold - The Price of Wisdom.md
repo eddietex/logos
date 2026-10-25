@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Get Wisdom]] — Proverbs 4:5–7; understanding prioritized even at the cost of possessions.
+
 - **Job 28:1–11** — the miner who finds silver, gold, iron, copper and sapphires, and *"brings out to
   light"* the hidden thing. [[Where Shall Wisdom Be Found]].
 - **Job 28:13, 15–19** — *"Man doesn't know its price … It can't be gotten for gold, neither shall
@@ -84,6 +86,16 @@ Job 28:23–28 and Proverbs 3:19–20 also join wisdom to God's ordering of wate
 see [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].
 
 Source for this addition: Proverbs 3:13–20 and Job 28 checked in the stored WEB, 2026-10-25.
+
+### Get understanding at any cost — Proverbs 4:5–7
+
+[[Get Wisdom]] turns the valuation of 3:14–15 into an imperative. The WEB's 4:7 makes
+understanding worth the cost of all possessions. This is acquisition language, but no
+seller or transaction is described. It therefore need not contradict Job 28's refusal
+to price wisdom or Proverbs 2:6's statement that Yahweh gives it. The wiki reads the
+language as costly priority rather than literal purchase; the passages do not themselves
+pause to explain the different metaphors. Source: stored WEB Proverbs 2:4–6; 3:13–15;
+4:5–7 and Job 28:12–19, checked 2026-10-25.
 
 ## Significance
 

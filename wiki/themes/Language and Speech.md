@@ -145,7 +145,19 @@ joins what is said to a neighbor with how the speaker stands before Yahweh.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### A father quotes his father — Proverbs 4:1–9
+
+The first-person teacher becomes a quoted hearer when he recalls his father's words
+(4:3–4). In the stored WEB the quotation continues through 4:9. Speech carries instruction
+across generations; the heart must retain what the mouth has given. The unit displays a
+chain of teaching without identifying the unnamed speakers as particular kings. See
+[[Wisdom Handed On - Proverbs 4 and Exodus 13]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Received speech becomes the next generation’s instruction.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Words can postpone available help; mockery receives judgment.
 

@@ -299,7 +299,20 @@ Jeremiah 31:33 has God promise to write *tôrāṯî* on the heart himself. See 
 [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The teacher was a son — Proverbs 4:1–9
+
+The WEB calls the father's instruction law (4:2) and gives his own father's command to
+retain words in the heart and keep commandments (4:4). The speaker offers received counsel,
+not a newly identified Sinai statute. Obedience requires sustained memory and attachment;
+it is neither mere recital nor a claim that every parental utterance is divine law.
+See [[Wisdom Handed On - Proverbs 4 and Exodus 13]] and
+[[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; A father transmits the instruction he received and kept.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commanded altar, basin, and court made; obedience credited (38:22).
 

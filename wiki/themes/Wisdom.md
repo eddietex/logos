@@ -265,7 +265,20 @@ Glory and shame close the contrast between the wise and fools (3:35).
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### Wisdom received, loved, and handed on — Proverbs 4:1–9
+
+The teacher of 4:1–9 first remembers being taught himself. Wisdom is acquired through
+attention and continuing fidelity, and personified as someone to love and embrace. She
+protects and honors the learner; the remembered lesson makes its hearer a potential next
+teacher. This qualifies an account of Proverbs as solely observational: here wisdom is
+also inherited instruction. The crown of 4:9 stands in explicit tension with the upright
+Job's lost crown in Job 19:9; see [[The Crown Given and Taken - Proverbs 4 and Job 19]].
+
+See [[Get Wisdom]]. Source: cited verses checked in stored WEB, 2026-10-25.
+
 ## Key passages
+
+- [[Get Wisdom]] — Proverbs 4:1–9; Received teaching, wholehearted pursuit, protection, and honor.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Discretion protects life and takes concrete form in dealings with a neighbor.
 
