@@ -46,8 +46,9 @@ Moses assembles the people, places rest before sanctuary work, and receives will
 materials and skilled labor. The instructions of chapters 25–31 begin to become public action,
 including women's spinning. In [[Bezalel's Workmen and the Surplus]] (35:30–36:7),
 Moses summons the gifted makers, whose abilities include teaching, and stops the collection
-after their report of surplus. Work is underway; the completed structure and indwelling glory
-still lie ahead.
+after their report of surplus. [[The Tabernacle Built]] (36:8–38) now reports the making of
+curtains, coverings, framework, veil, and screen in close correspondence to chapter 26. The final
+erection, placement of furniture, and indwelling glory still lie ahead.
 
 ## Structure
 
@@ -427,6 +428,15 @@ teaching (35:30–35), then summons the skilled and willing company (36:1–2). 
 exceed the work's need; the workers report this, and Moses stops the collection (36:3–7).
 The detailed construction account begins at 36:8, beyond this completed unit.
 
+### The enclosure made — Exodus 36:8–38
+
+[[The Tabernacle Built]] follows the collective makers through linen curtains, goats’ hair
+coverings, skins, acacia boards and bars, the inner veil, and the entrance screen. The two
+curtain assemblies are joined into units (36:13, 18). The report closely follows chapter 26
+without reproducing every instruction: folding and overhang are not repeated, and the entrance
+pillar overlay is described in terms of capitals and fillets (36:38; compare 26:37). Making
+these components is distinct from the final raising and filling narrated in chapter 40.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -514,7 +524,7 @@ for unit.
 
 - [x] [[The Freewill Offering]] — Exodus 35:1–29
 - [x] [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7
-- [ ] The Tabernacle Built — Exodus 36:8–38
+- [x] [[The Tabernacle Built]] — Exodus 36:8–38
 - [ ] The Furnishings Made — Exodus 37:1–29
 - [ ] The Altar, the Basin, the Court, and the Inventory — Exodus 38:1–31
 - [ ] The Priestly Garments Made — Exodus 39:1–31

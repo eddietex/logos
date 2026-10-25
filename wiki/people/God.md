@@ -1945,7 +1945,18 @@ collection on the workers' report; no fresh divine speech ordering that stop is 
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The enclosure is made according to the specifications of Exodus 26 by the company whose wisdom
+was attributed to Yahweh in 36:1–2. The making report itself (36:8–38) supplies no new divine
+speech or appearance. Human construction serves the dwelling promise of 25:8 without itself
+being the glory's arrival; that is narrated separately in 40:34–35.
+
+See [[The Tabernacle Built]].
+
 ## Timeline / key events
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
 
 - Exodus 35:1–29 — Commands rest and sanctuary work and receives willing contributions. See [[The Freewill Offering]].
 
@@ -2201,6 +2212,8 @@ See [[Bezalel's Workmen and the Surplus]].
   sanctuary; his command defines the work.
 
 ## Appears in
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual source of design and wisdom; no new speech or appearance.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Gives skill and teaching for the
   sanctuary; his command defines the work.

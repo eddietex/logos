@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
 
 - [[The Priestly Garments]] — Exodus 28:3; gifted, wise-hearted makers.
@@ -43,7 +45,7 @@ without limit. This is a literary and practical connection, not a claim that the
 sanctuary with the six days of creation in every detail.
 
 **Sources:** Exodus 28:3; 31:1–18; 35:1–3, 30–35; 36:1–7; 38:22–23 read in `raw/bible/Exodus.md`.
-Exodus 35:1–36:7 is now ingested; 36:8–38:31 remains ahead. The later comparisons do not
+Exodus 35:1–36:38 is now ingested; chapters 37–38 remain ahead. The later comparisons do not
 advance their queue boxes.
 
 ### The offering now brought — Exodus 35:1–29
@@ -66,6 +68,18 @@ provides no final inventory or disposal of the excess here. Teaching (35:34) and
 company (36:1–2) keep the credit from becoming a claim of solitary manufacture.
 
 Source: local raw WEB, Exodus 35:30–36:7, checked 2026-10-24.
+
+### The enclosure made — Exodus 36:8–38
+
+The commission now issues in detailed manufacture of curtains, supports, veil, and screen.
+Exodus 36:8 credits the wise-hearted company collectively. The following singular descriptions
+can be read within Bezalel's leadership without treating him as the sole manufacturer; neither
+he nor Oholiab is named in 36:8–38. The public naming and teaching of 35:30–35 and the shared
+summons of 36:1–2 therefore remain necessary context. The attribution in 38:22–23 still lies
+ahead of the ingestion queue, and the manufacture here is not the final erection.
+
+See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
+2026-10-24; later Exodus references checked in the same source.
 
 ## Significance
 

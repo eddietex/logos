@@ -118,7 +118,18 @@ or a claim that all workers have identical abilities.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The wise-hearted workers of 36:8 put the abilities attributed to God in 36:1–2 into curtains,
+joined frames, and hangings. Competence is shown by the objects made and fitted together, not
+only by a title or an assertion of inspiration. The passage gives neither a training history
+nor an individual allocation of tasks among the named leaders and wider company.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; The wise-hearted company makes its competence visible in construction.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; God-given skill includes teaching and
   is distributed among the makers.

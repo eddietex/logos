@@ -128,6 +128,8 @@ WEB text, Exodus 35:1–29, copied from the stored source.
 
 ## Cross-references
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The supplied textiles and other materials become the enclosure components.
+
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The named makers are now announced and
   summoned; the gifts continue until the workers report a surplus.
 

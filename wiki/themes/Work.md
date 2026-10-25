@@ -151,7 +151,18 @@ what the work requires and communicating when its supply is sufficient.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The wise-hearted company makes textiles, loops, clasps, boards, sockets, bars, and hangings
+(36:8–38). Joining is itself part of the work: distinct curtains become a unit (36:13, 18).
+The report begins collectively, so its later singular making descriptions should not erase
+the workforce or turn skilled construction into one person's unaided achievement.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Skilled making and joining produce the enclosure components.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Making, teaching, and assessing the
   supplies needed for the task.

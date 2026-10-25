@@ -215,7 +215,19 @@ This is practical mediation of a shared commission, not an intercessory prayer o
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The veil and its supports are made in 36:35–36 for the separation prescribed in 26:33.
+This prepares the bounded meeting place without narrating Moses' entry, priestly service, or
+intercession. The inner veil is distinct from the doorway screen (36:37–38); the later access
+interpretation in [[The Veil - Separation in Exodus and Access in Hebrews]] must not collapse
+the two hangings or turn their manufacture into an account of unrestricted approach.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; The inner boundary is made; no entry or intercession occurs here.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Moses announces, summons, distributes,
   listens, and stops the collection.

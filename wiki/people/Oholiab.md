@@ -25,13 +25,26 @@ the team receiving the contributions, while the surplus report is the makers' co
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The company commissioned with Oholiab in 36:1–2 now makes the curtains and framework (36:8–38).
+He is not named in this unit, and no particular curtain, carving, or casting is assigned to him.
+His participation follows the shared commission; it should not be turned into an invented
+division of labor between the two named makers.
+
+See [[The Tabernacle Built]].
+
 ## Timeline / key events
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
 
 - Appointed alongside Bezalel — Exodus 31:6. See [[Bezalel, Oholiab, and the Sabbath Sign]].
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named with Bezalel for teaching and
   skilled work; summoned with the company.
 
 ## Appears in
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual member of the commissioned company; no individual task specified.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Named with Bezalel for teaching and
   skilled work; summoned with the company.

@@ -536,7 +536,18 @@ without reference to the commissioned task.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The workers now make the enclosure corresponding to the instructions Moses received in Exodus
+26. He is not named or given a new action in 36:8–38; the unit follows his summons and handling
+of the contributions (36:2–6). His raising of the tent in 40:18–28 remains a distinct, later
+stage, not an act to attribute to him during the making of these components.
+
+See [[The Tabernacle Built]].
+
 ## Timeline / key events
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
 
 - Exodus 35:1–29 — Assembles Israel and relays the commands for rest, materials, and skilled work. See [[The Freewill Offering]].
 
@@ -660,6 +671,8 @@ See [[Bezalel's Workmen and the Surplus]].
   contributions, and stops further giving.
 
 ## Appears in
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Summons the makers, transfers the
   contributions, and stops further giving.

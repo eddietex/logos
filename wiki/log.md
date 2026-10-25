@@ -14748,3 +14748,59 @@ Psalms deliberately left out and Job already complete — after Exodus is finish
 - **Docs.** The ingest skill's step 1 states the rule and gives the command that resolves it.
   `AGENTS.md` gains a short "Which book comes next" paragraph under `## Ingestion unit: pericope`,
   and its directory map now mentions the priority list.
+
+
+## [2026-10-24] ingest | Exodus 36.8-38 — The Tabernacle Built
+
+Ingested [[The Tabernacle Built]] in one unattended invocation, retaining the planned boundary.
+Exodus is now **48 / 53** pericopes ingested and remains in progress. The wise-hearted company
+makes the curtains, coverings, boards, bars, inner veil, and entrance screen. Discussion is
+recorded in the passage's summary and notes.
+
+### Decisions and tensions
+
+- Kept the workers collective. Bezalel and Oholiab belong to the immediate commission context,
+  but neither is named in 36:8–38. Moses and God likewise receive explicitly contextual
+  backlinks, not invented actions or speeches. Cherubim are represented figures here.
+- Kept the setting under [[Horeb]] by narrative continuity; no new location is named. No new
+  person, place, or theme page was needed.
+- Distinguished actual joining of curtains from final erection, placement of furniture, and
+  indwelling glory in chapter 40. Only this pericope's queue box was checked.
+- Compared the making with Exodus 26 in detail. Folding and overhang directions are not
+  repeated. Flagged the descriptive difference between gold overlay on the entrance pillars
+  in 26:37 and the specified capitals and fillets in 36:38. The report does not say that only
+  those parts received gold; neither an exact reconstruction nor disobedience is inferred.
+- Preserved the tension between the image prohibition, the condemned calf, and the commissioned
+  textile cherubim. No worship of those figures or general theory of religious art is supplied.
+  The inner veil and doorway screen remain distinct; no priestly entry is narrated here.
+- Expanded five existing connections for command and performance, gifted makers, the pattern,
+  the veil, and divine dwelling. No duplicate connection was needed. Later interpretations
+  retain their existing sources and are not presented as statements made by this unit.
+- Revised four earlier passages with reciprocal references. Corrected the furniture page's
+  overly individual attribution of chapter 36's tent-making to Bezalel and retired affected
+  un-ingested notices. Retained the WEB's animal wording as translation without asserting a
+  zoological identification or symbolism for the measurements and materials.
+- No boundary revision, title collision, category-range change, schema change, or harness
+  compatibility change was needed.
+
+### Sources and verification
+
+All thirty-one quoted WEB verses were copied mechanically from `raw/bible/Exodus.md` and
+verified for exact equality. New comparisons use stored Exodus text, especially chapters
+26, 35–36, and 40. No new quotation from an unstored book or Hebrew/Greek wording assertion
+was introduced. Existing raw text was not changed, and no later book was fetched.
+
+### Pages created or revised
+
+- **Created (1):** one passage, [[The Tabernacle Built]].
+- **Existing content pages revised (24):** Exodus; four earlier passages; five people; one
+  place; eight themes; five connections.
+- **Bookkeeping revised (10):** top-level and book indexes; all three people subindexes;
+  places and themes indexes; Connections Index A–C and T–Z; this log.
+- **Totals by frontmatter type:** 139 passages, 176 people, 90 places, 82 themes, 376 connections;
+  3 books started, 2 complete. Every category page has exactly one index row; split-index
+  sorting and filing ranges pass. The new title is unique and all listed entities link back.
+
+`scripts/link-check.sh` exits 0: no wrapped wikilinks or dangling targets; 63 not-yet-started
+book pages remain the expected baseline. `git diff --check` is clean. Raw sources, schema,
+skill instructions, harness, and controller files are unchanged. No operational blocker remains.

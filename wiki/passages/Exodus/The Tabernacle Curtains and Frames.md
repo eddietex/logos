@@ -171,6 +171,8 @@ Leviticus 16:2 will state the restriction on entering within the veil.
 
 ## Cross-references
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The instructed enclosure is now made; see the comparison and differences below.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - Exodus 25:1–9 — materials, purpose, and pattern: [[The Offering for the Sanctuary]].
@@ -178,7 +180,7 @@ Leviticus 16:2 will state the restriction on entering within the veil.
 - Genesis 3:24 — cherubim at the guarded approach to the tree of life: [[The Fall]] and
   [[The Tree of Life - Eden and the New Jerusalem]]. The sanctuary-as-Eden connection is a reading,
   not an identification made by Exodus.
-- Exodus 36:8–38; 40:18–28 — the enclosure made and the dwelling erected *(not yet ingested)*:
+- Exodus 36:8–38 — [[The Tabernacle Built]]; 40:18–28 — the dwelling erected *(not yet ingested)*:
   [[As God Commanded, So He Did - The Obedience Formula]].
 - Exodus 25:9, 40; 26:30 — the mountain pattern:
   [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]].
@@ -256,6 +258,13 @@ Hebrews 10:19–22 interprets entry through the veil in relation to Jesus' flesh
 Gospels report a torn temple veil at his death. The later temple curtain is not the same physical
 fabric as the wilderness tent, and the Gospel verses do not themselves explain the event in
 Hebrews' terms. [[The Veil - Separation in Exodus and Access in Hebrews]] records the connection and the limits of the identification.
+
+### The entrance pillars in the making account
+
+[[The Tabernacle Built]] retains a descriptive difference: 26:37 commands gold overlay on the
+entrance pillars; 36:38 specifies their capitals and fillets. The latter does not state that
+these alone received gold, but it does not repeat the whole-pillar instruction either. Neither
+an exact reconstruction nor an accusation of disobedience follows from that difference alone.
 
 ### Sources
 

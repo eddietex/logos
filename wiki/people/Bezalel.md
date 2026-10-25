@@ -26,7 +26,18 @@ without an account of his prior training or a claim that he alone makes everythi
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The enclosure account opens with the wise-hearted workers collectively (36:8), after Bezalel's
+commission and summons in 36:1–2. Its subsequent singular making descriptions may be read under
+his leadership; he is not named within 36:8–38 itself. The report does not establish that he
+personally made every component alone. The next unit names him explicitly for the ark (37:1).
+
+See [[The Tabernacle Built]].
+
 ## Timeline / key events
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual leader of the company; not named in this unit.
 
 - Called and equipped for the sanctuary work — Exodus 31:2–11. See
   [[Bezalel, Oholiab, and the Sabbath Sign]].
@@ -34,6 +45,8 @@ See [[Bezalel's Workmen and the Surplus]].
   and summoned with the wider workforce.
 
 ## Appears in
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Contextual leader of the company; not named in this unit.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Publicly announced, equipped to teach,
   and summoned with the wider workforce.

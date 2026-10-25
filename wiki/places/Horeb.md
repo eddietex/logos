@@ -185,7 +185,16 @@ follows the assembly after Moses' descent; this unit names no new location or de
 The workers are engaged in sanctuary work (36:4), but neither its erection nor the filling
 with glory is reported here. See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The makers produce the sanctuary's curtains, supports, veil, and screen in the continuing
+Sinai-camp setting. No place name or departure occurs in this unit; the setting follows the
+assembly after Moses' descent (34:29; 35:1) and the camp proclamation (36:6). The final erection
+and filling belong to chapter 40. See [[The Tabernacle Built]].
+
 ## Appears in
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; The making occurs in the Sinai camp by narrative continuity.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; the camp hears the order stopping
   further contributions.
@@ -257,6 +266,8 @@ with glory is reported here. See [[Bezalel's Workmen and the Surplus]].
 - [[Massah and Meribah]] — the name given to the place of the water (17:7)
 
 ## Events here
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Curtains, framework, veil, and screen made; final erection remains ahead.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; makers summoned and surplus
   contributions halted.

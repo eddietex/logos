@@ -142,7 +142,18 @@ by themselves mean that the promised dwelling has already been erected.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The promised dwelling now has its curtains, coverings, boards, bars, veil, and entrance screen
+made (36:8–38). The joining of the curtain assemblies (36:13, 18) is actual construction,
+but the raising of the tent and the filling with glory are separate events (40:17–35).
+The enclosure's manufacture must not be treated as the whole dwelling promise fulfilled.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure is made; final erection and indwelling glory remain ahead.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Gifted workers and sufficient materials
   serve the promised sanctuary.

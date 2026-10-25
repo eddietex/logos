@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:31–35; the inner veil separates the holy place from the most holy.
@@ -73,6 +75,18 @@ the latter. A shared English noun does not establish one physical object, one so
 term, or one symbolic function. See [[The Shining Face of Moses]] and
 [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]].
 Exodus 34 checked in local WEB; 2 Corinthians 3 verified at bible-api.com, 2026-10-24.
+
+### The enclosure made — Exodus 36:8–38
+
+Exodus 36:35–36 now reports the inner veil made with cherubim and four pillars in silver
+sockets. Verses 37–38 separately report the entrance screen and five pillars in brass sockets.
+The architectural distinction discussed above is enacted in manufacture. The partition's
+function comes from 26:33; its installation is reported later in 40:21. This making account
+does not narrate entry through it, tear it, or add an explanation of its later meaning. The
+Christian access reading remains the later interpretation already documented above.
+
+See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
+2026-10-24; later Exodus references checked in the same source.
 
 ## Significance
 

@@ -93,6 +93,8 @@ WEB text, Exodus 35:30–36:7, copied from the stored source.
 
 ## Cross-references
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The skilled company now makes the curtains, supports, veil, and screen.
+
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–11; the divine appointment is
   publicly announced and acted on. See
   [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]].

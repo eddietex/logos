@@ -151,8 +151,8 @@ them"* (24:12) — *hattôrâ wəhammiṣwâ* (MAM), *tôrâ* now a written thin
 **Obedience includes how things are made and placed.** Exodus 26:30 requires Moses to erect the
 tabernacle according to what he was shown on the mountain. Dimensions, joins, and the placement of
 the veil and furniture all belong to the instruction. Exodus 36:8–38 later reports the making of
-the enclosure, while 40:18–28 reports its erection and arrangement; those later units remain
-un-ingested. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, So He Did - The Obedience Formula]].
+the enclosure in [[The Tabernacle Built]], while 40:18–28 reports its erection and arrangement;
+that final unit remains un-ingested. See [[The Tabernacle Curtains and Frames]] and [[As God Commanded, So He Did - The Obedience Formula]].
 
 ### The altar, court, and maintained light — Exodus 27:1–21
 
@@ -216,7 +216,20 @@ source-language formula occurs here. See
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+Exodus 36:8–38 closely follows the order, materials, and measurements of chapter 26, showing
+response through detailed making. It omits the earlier folding and overhang directions rather
+than expressly cancelling them. One descriptive tension remains: 26:37 commands gold overlay
+on the entrance pillars; 36:38 specifies their capitals and fillets. The latter does not say
+only those parts were covered, but a full overlay is not explicitly repeated. Both descriptions
+are preserved without inferring disobedience or declaring an exact verbal match.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; The making closely follows the command, with differences of description preserved.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The commanded task governs both
   workmanship and the collection’s limit.

@@ -191,7 +191,18 @@ receive increased private wealth. See [[Enough for the Work - Manna and the Sanc
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The supplied materials become curtains, coverings, gold clasps and overlays, silver sockets,
+and brass clasps and entrance sockets (36:8–38). Their value is put into the commissioned work;
+this is not a new fundraising appeal or a promise of wealth to contributors. The account does
+not identify which donor supplied which component or give the disposal of the earlier surplus.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Supplied materials become functional parts, without a new collection.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The sanctuary’s need sets a limit on
   further collection.

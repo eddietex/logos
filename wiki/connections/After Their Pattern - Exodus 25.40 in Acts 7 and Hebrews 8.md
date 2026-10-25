@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
+
 - **Exodus 25:9** — *"According to all that I show you, the pattern of the tabernacle, and the pattern
   of all of its furniture, even so you shall make it"* — [[The Offering for the Sanctuary]]
 - **Exodus 25:40** — *"See that you make them after their pattern, which has been shown to you on the
@@ -86,12 +88,25 @@ The verse does not describe the form of the showing or the altar's internal fire
 See [[The Altar and the Court]]. This observation is based on the WEB, without a new claim
 about the verse's exact Hebrew or Greek vocabulary.
 
+### The enclosure made — Exodus 36:8–38
+
+The making in Exodus 36:8–38 closely reproduces the enclosure's specified counts, measurements,
+and materials. It demonstrates practical conformity without repeating 26:30's description of
+the showing on the mountain or identifying what Moses saw. The entrance-pillar descriptions
+also require care: 26:37 commands gold overlay on the pillars; 36:38 specifies their capitals
+and fillets without saying that these alone received gold. The accounts correspond closely
+but are not identical transcripts. Neither the correspondence nor this difference settles
+Hebrews' interpretation of the pattern as heavenly reality.
+
+See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
+2026-10-24; later Exodus references checked in the same source.
+
 ## Significance
 
 - **It is the main New Testament use of the tabernacle instructions.** Hebrews builds its whole argument
   about priesthood and sanctuary (8–10) on the claim that the tent was a copy.
 - **It sets Moses as a man who saw.** He is shown the pattern, as he is the one who comes near (Exodus
-  24:2) and sees (33:18–23; *not yet ingested*). See [[Moses]] and
+  24:2) and sees (33:18–23; [[Show Me Your Glory]]). See [[Moses]] and
   [[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
 - **It makes the obedience formula precise.** Everything is made *"after their pattern"*; at the end of the
   book everything is made *"as Yahweh commanded"*. See

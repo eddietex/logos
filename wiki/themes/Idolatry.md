@@ -148,7 +148,19 @@ calf's destroyed gold is reused. See [[Gold for the Calf and Gold for the Sanctu
 
 See [[The Freewill Offering]].
 
+### The enclosure made — Exodus 36:8–38
+
+After the calf has been condemned (32:4–8), cherubim are made on the sanctuary curtains and
+veil (36:8, 35), fulfilling the instructions of 26:1, 31. This sharpens the existing tension
+with the image prohibition in 20:4–5: the narrative condemns the calf but commissions these
+figures. It does not describe their worship or offer a general resolution of every question
+about representational art. The distinction is retained without erasing either command.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Commanded textile cherubim are made after the condemnation of the calf.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; The new use of gold and skill contrasts with the condemned calf.
 

@@ -172,7 +172,18 @@ the passage reports the supply and workforce, not an anointing ceremony.
 
 See [[Bezalel's Workmen and the Surplus]].
 
+### The enclosure made — Exodus 36:8–38
+
+The inner veil with cherubim and silver-based supports is made separately from the entrance
+screen with brass-based supports (36:35–38). The boundary prescribed in 26:33 becomes a crafted
+object. This is not yet its installation, an account of entry, or a narrated consecration rite;
+the building report should not absorb the later rules and actions concerning holy access.
+
+See [[The Tabernacle Built]].
+
 ## Key passages
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; The inner veil and entrance screen preserve distinct boundaries.
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; Ordinary technical skills and donated
   materials serve the sanctuary.

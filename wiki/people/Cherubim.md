@@ -41,7 +41,19 @@ entrance has no cherubim specified (26:36). Their number and appearance on the t
 given, and their role as guardians here is an Eden-based interpretation, not an explicit statement
 of Exodus. See [[The Tabernacle Curtains and Frames]].
 
+### The enclosure made — Exodus 36:8–38
+
+The figures prescribed on the linen curtains and inner veil are now made (36:8, 35). These are
+representations, not an appearance of living beings. No number, shape, or arrangement of textile
+cherubim is supplied, and none is specified for the entrance screen (36:37). The distinction
+between commanded art and forbidden images remains explicit under [[Idolatry]]; the construction
+report does not describe worship of the figures.
+
+See [[The Tabernacle Built]].
+
 ## Timeline / key events
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Figures made on the curtains and inner veil (36:8, 35).
 
 - Stationed east of Eden with a flaming sword to guard the way to the tree of life — Genesis 3:24,
   [[The Fall]]
@@ -55,6 +67,8 @@ of Exodus. See [[The Tabernacle Curtains and Frames]].
 - *"Cherubim of glory overshadowing the mercy seat"* — Hebrews 9:5, *not yet ingested*
 
 ## Appears in
+
+- [[The Tabernacle Built]] — Exodus 36:8–38; Figures made on the curtains and inner veil (36:8, 35).
 
 - [[The Fall]] — Genesis 3:24; **the guards.** Posted at the east of the garden — *wayyaškēn*, *caused to
   dwell* (MAM) — with a flaming sword, to keep the way to the tree of life

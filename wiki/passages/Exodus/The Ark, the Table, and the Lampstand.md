@@ -166,6 +166,8 @@ place to speak from.**
 
 ## Cross-references
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The making account gives the enclosure before the furniture.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - Exodus 25:1–9 — the offering, and *"the pattern"* first named: [[The Offering for the Sanctuary]].
@@ -214,8 +216,10 @@ them (*"make them after their pattern"*) and because they are the furniture of t
 The instructions start with the object deepest inside and work outward: the ark (behind the veil),
 then the table and lampstand (the outer room), then the tent (26), then the altar and court (27), and
 only then the priests (28–29). **God's design starts where God will speak.** The order is the text's;
-the reason is the wiki's reading. The building narrative later uses a different order. Bezalel makes the
-tent first (36:8–38) and the ark after it (37:1).
+the reason is the wiki's reading. The building narrative later uses a different order. The wise-hearted company makes the
+enclosure first in [[The Tabernacle Built]] (36:8–38); Bezalel is then named as the ark
+maker at 37:1. The singular making descriptions in chapter 36 do not erase the collective
+credit of 36:8.
 
 ### *ʾĀrôn*: a chest, and a coffin
 

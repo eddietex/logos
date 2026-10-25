@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
 
 - **Exodus 24:16** — *"Yahweh's glory settled on Mount Sinai"* — [[The Blood of the Covenant]]
@@ -97,6 +99,17 @@ outside the camp, but encounter has not ended: the cloud descends and Moses spea
 (33:7–11). Moses’ plea secures the promise of accompaniment (33:12–17). The later filled
 tabernacle must be read through this crisis rather than as the automatic completion of a
 building plan. See [[The Tent Outside the Camp and the Promised Dwelling]].
+
+### The enclosure made — Exodus 36:8–38
+
+The enclosure made in Exodus 36:8–38 is a concrete step toward the dwelling promised in 25:8.
+The joining of its curtain assemblies is already accomplished work (36:13, 18), but the final
+raising and the filling with glory remain distinct in 40:17–35. After the calf and renewed
+covenant, the makers again enact the earlier sanctuary design. The text reports construction,
+not a mechanism by which human craftsmanship compels God's presence.
+
+See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
+2026-10-24; later Exodus references checked in the same source.
 
 ## Significance
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
+
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; the command defines the work and its
   material need.
 
@@ -66,8 +68,9 @@ the ark and the tabernacle.
 curtains, coverings, boards, bars, veil, and screen; 36:8–38 reports their making in that order.
 The repeated dimensions and materials make the correspondence visible. This is not a verbatim
 repetition: 36 does not restate the folding and overhang directions of 26:9, 12–13. The erection
-and placement commanded in 26:30, 33–35 are reported in 40:18–28. These later passages were read
-in local WEB raw text and remain un-ingested. See [[The Tabernacle Curtains and Frames]]. This extends the obedience motif without
+and placement commanded in 26:30, 33–35 are reported in 40:18–28. Both accounts were read in
+local WEB raw text; 36:8–38 is now ingested in [[The Tabernacle Built]], while 40:18–28 remains
+ahead. See [[The Tabernacle Curtains and Frames]]. This extends the obedience motif without
 claiming the full formula occurs in chapter 26.
 
 **Altar and court also move from instruction to making and placement.** Exodus 27:1–19
@@ -97,6 +100,19 @@ movement from instruction to response while leaving the completion reports of ch
 ahead. It does not assert that this unit contains the full Hebrew formula analyzed above.
 
 Source: Exodus 36:1–7 checked in local raw WEB, 2026-10-24.
+
+### The enclosure made — Exodus 36:8–38
+
+The detailed making is now ingested in [[The Tabernacle Built]]. Matching counts, dimensions,
+materials, and joins demonstrate the correspondence with Exodus 26 without requiring an
+identical report. The entrance pillars retain a difference of description: 26:37 commands
+gold overlay on the pillars, whereas 36:38 names their capitals and fillets. The report does
+not expressly exclude further overlay, but neither repeats it in full. This is a limit on an
+exact reconstruction, not evidence sufficient to accuse the makers of disobedience. The unit
+does not itself supply the completed-work declaration of 39:32, 42–43.
+
+See [[The Tabernacle Built]]. Source: Exodus 26 and 36:8–38 checked in local raw WEB,
+2026-10-24; later Exodus references checked in the same source.
 
 ## Significance
 
