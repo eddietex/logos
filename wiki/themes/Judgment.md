@@ -377,6 +377,16 @@ those who plunder them"* (22:23). The sentence matches the crime.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### The weigher of hearts and the plea of ignorance — Proverbs 24:12
+
+*"If you say, 'Behold, we didn't know this'; doesn't he who weighs the hearts consider it? He who keeps
+your soul, doesn't he know it? Shall he not render to every man according to his work?"* The title
+*tōḵēn libbôṯ* is identical to 21:2's (Sefaria's *Miqra according to the Masorah*, read 2026-10-26);
+here it judges a refusal to act. See
+[[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 12, 15; Hearts weighed and the wicked house considered.
@@ -653,6 +663,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Breastplate made; Urim and Thummim and inquiry not narrated.
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; a judgment oracle in Wisdom's voice, with the laughter of Psalm 2:4 and no judge acting
 - [[Thirty Excellent Things]] — Proverbs 22:22–23; The needy crushed in court; the plunderers plundered.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:12; The weigher of hearts judges the bystander who claims not to have known.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

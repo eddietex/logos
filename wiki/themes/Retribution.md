@@ -400,6 +400,17 @@ down to Sheol *"In an instant"* are the standing challenge to the rule; see
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### According to his work — Proverbs 24:12, 16, 20, 22
+
+The block states retribution four ways: God *"render[s] to every man according to his work"* (12);
+the righteous *"falls seven times, and rises up again; but the wicked are overthrown by calamity"*
+(16); *"there will be no reward to the evil man"* (20); the rebels' *"calamity will rise suddenly"*
+(22). 24:16 is the qualification that matters beside Job: the righteous do fall, repeatedly. And
+24:29, in the next block, forbids a man to say of himself the very phrase 24:12 gives to God. See
+[[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
@@ -687,6 +698,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[The Two Feasts]] — Proverbs 9:11–12; days multiplied by Wisdom, and *"If you mock, you alone will bear it"*: each carries his own choice; Job's case kept beside it
 - [[A Good Name]] — Proverbs 22:4, 8, 16; Sowing and reaping, kept beside Eliphaz's misuse of the image.
 - [[Do Not Envy Sinners]] — Proverbs 23:18, 21, 32; The latter end as the measure: hope, rags, or a snakebite.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:12, 16, 20, 22; Each rendered according to his work; the righteous fall and rise, the wicked are overthrown.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

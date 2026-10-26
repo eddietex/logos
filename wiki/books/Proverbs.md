@@ -274,6 +274,16 @@ and the glutton (23:20–21), truth bought and not sold (23:23), the prostitute 
 (23:27–28), and the book's fullest portrait of drunkenness, which ends with the drinker reaching for
 another (23:29–35).
 
+[[Through Wisdom a House Is Built]] (24:3–22) closes the first *"words of the wise"*. It opens on a house built *"through wisdom
+… by understanding … by knowledge"* (24:3–4) — the three gifts by which Yahweh founded the world
+(3:19–20) and filled Bezalel for the tabernacle (Exodus 31:3) — and turns to what wise strength is
+for: not only war won by counsel (24:5–6) but the rescue of *"those who are being led away to death"*
+(24:11), with the bystander's *"we didn't know"* answered by *"he who weighs the hearts"*, who will
+*"render to every man according to his work"* (24:12). Then honey and a hope not cut off (24:13–14);
+the righteous man who *"falls seven times, and rises up again"* (24:16); a ban on rejoicing when an
+enemy falls (24:17–18); the fourth prohibition of envying the wicked (24:19–20); and a closing command
+to *"fear Yahweh and the king"* (24:21–22).
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -341,7 +351,7 @@ first collection at its heading), each titled from a representative saying.
 
 - [x] [[Thirty Excellent Things]] — Proverbs 22:17–23:11
 - [x] [[Do Not Envy Sinners]] — Proverbs 23:12–24:2
-- [ ] By Wisdom a House Is Built — Proverbs 24:3–22
+- [x] [[Through Wisdom a House Is Built]] — Proverbs 24:3–22
 - [ ] The Field of the Sluggard — Proverbs 24:23–34
 
 ### The proverbs copied by Hezekiah's men (25–29)
@@ -401,6 +411,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Holiness]] — *"The knowledge of the Holy One is understanding"* (9:10)
 - [[Kingship and Empire]] — *"By me kings reign, and princes decree justice"* (8:15)
 - [[Mediation and Advocacy]] — *"Yahweh will plead their case"* (22:23); the fatherless's Defender (23:11)
+- [[Compassion and Mercy]] — *"Rescue those who are being led away to death!"* (24:11)
+- [[Vengeance]] — *"Don't rejoice when your enemy falls"* (24:17)
 - [[Prayer]] — *"Those who seek me diligently will find me"* (8:17), against 1:28
 - [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
 - [[Sacrifice and Offering]], [[Oaths and Vows]] — *"Sacrifices of peace offerings are with me.

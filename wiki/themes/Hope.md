@@ -123,6 +123,16 @@ like a tree"*; see [[Hope Deferred and the Tree of Life - Proverbs 13.12 and the
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Honey and a hope not cut off — Proverbs 24:13–14
+
+*"My son, eat honey, for it is good … so you shall know wisdom to be to your soul; if you have found
+it, then there will be a reward, your hope will not be cut off."* The second half repeats 23:18; the
+WEB's *reward* is the same *ʾaḥărîṯ* it rendered *future* there (Sefaria's *Miqra according to the
+Masorah*, read 2026-10-26). See
+[[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18; Hope motivates correction directed
@@ -242,6 +252,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
   and full of days"*. What he hoped for at 19:25–27 was vindication before death, and that is what arrives. See
   [[There Is Hope for a Tree - The Stump That Sprouts]].
 - [[Do Not Envy Sinners]] — Proverbs 23:18; *"Your hope will not be cut off"*, grounded in an *ʾaḥărît*.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:14; Wisdom found gives a latter end; *"your hope will not be cut off"*.
 
 ## Related themes
 

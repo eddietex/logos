@@ -11,6 +11,7 @@ tags: [connection]
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:15–21.
 - [[The Crossing of the Sea]] — Exodus 14:13–14.
 - [[Job's Oath of Innocence]] — Job 31:29–30.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:17–18.
 
 ## Analysis
 
@@ -33,6 +34,16 @@ civil justice or self-defense.
 
 Sources: stored WEB Proverbs 20:22; Genesis 50:15–21; Exodus 14:13–14; Job 31:29–30. No
 external quotation or source-language equivalence is claimed.
+
+### Not even gladness — Proverbs 24:17–18
+
+Proverbs 20:22 forbids saying *"I will pay back evil"*; 24:17–18 reaches further, into the heart:
+*"Don't rejoice when your enemy falls. Don't let your heart be glad when he is overthrown; lest Yahweh
+see it, and it displease him, and he turn away his wrath from him."* Waiting for Yahweh excludes not
+only the act of revenge but the pleasure of watching it arrive. 24:29, in the next block, returns to
+20:22's form: *"Don't say, 'I will do to him as he has done to me.'"*
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 20:22; 24:17–18, 29.
 
 ## Significance
 

@@ -2220,6 +2220,21 @@ heart is turned toward.
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:17–18.
 
+### Proverbs 24:3–22 in comparison
+
+Yahweh is named twice in this block (18, 21) and described three times without the name, all in one
+verse: *"he who weighs the hearts"*, *"He who keeps your soul"*, and the one who will *"render to every
+man according to his work"* (24:12). The three titles answer a bystander's *"we didn't know"*: the God
+who weighs hearts knows whether the plea is true. At 24:18 he *sees* the heart glad at an enemy's fall
+and may *"turn away his wrath"* because of it; at 24:21 he is feared together with the king, named
+first. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) *keeps* is *nōṣēr*, the
+participle Job turns into an accusation at 7:20 (see above), and *weighs the hearts* is 21:2's
+*tōḵēn libbôṯ*.
+
+See [[Through Wisdom a House Is Built]] and
+[[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]]. Source: stored WEB Proverbs
+24:12, 18, 21.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2496,6 +2511,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:17–18.
 - [[A Good Name]] — Proverbs 22:1–16; maker of rich and poor, watcher over knowledge.
 - [[Thirty Excellent Things]] — Proverbs 22:17–23:11; object of trust, advocate of the poor, Defender (*gōʾēl*) of the fatherless.
 - [[Do Not Envy Sinners]] — Proverbs 23:12–24:2; the one to be feared all day long instead of envying sinners.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–22; weigher of hearts, keeper of the soul, who renders to each according to his work; feared with the king.
 
 - [[The King's Heart]] — Proverbs 21:1–31; director of the king's heart, weigher of hearts, giver of victory.
 

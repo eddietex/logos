@@ -195,6 +195,7 @@ images, not identifiable locations requiring place pages.
 - [[Thirty Excellent Things]] — Proverbs 23:3, 8, deceitful food and the morsel vomited up, beside 20:17's fraudulent food.
 - [[Do Not Envy Sinners]] — Proverbs 23:20–21, 29–35, the drunkard's portrait that 20:1 anticipates.
 - [[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]].
+- [[Through Wisdom a House Is Built]] — Proverbs 24:6, war waged by wise guidance, reworking 20:18.
 
 ## Notes
 

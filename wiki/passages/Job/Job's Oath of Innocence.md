@@ -328,6 +328,7 @@ is the only comment the book ever makes on whether the oath was true.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5; the one *"glad at calamity"*, beside 31:29.
 - [[A Strong Tower]] — Proverbs 18:11; the rich man's wealth as his strong city, against *"If I have made gold my hope"* (31:24).
 - [[A Good Name]] — Proverbs 22:2, *"Yahweh is the maker of them all"*, the principle of 31:15.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:17–18, the ban on gloating that 31:29 swears to; *pîḏ* again at 24:22.
 
 ## Notes
 

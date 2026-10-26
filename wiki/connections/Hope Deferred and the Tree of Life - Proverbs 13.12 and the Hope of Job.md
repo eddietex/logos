@@ -27,6 +27,7 @@ tags: [connection]
   [[Miserable Comforters and the Witness in Heaven]]
 - **Job 19:10** — *"My hope he has plucked up like a tree."* —
   [[I Know That My Redeemer Lives]]
+- [[Through Wisdom a House Is Built]] — Proverbs 24:14.
 
 ## Analysis
 
@@ -57,6 +58,15 @@ the son who fears Yahweh instead of envying sinners; Job's *"My hope he has pluc
 is said by a man who did fear him. Proverbs 24:14 repeats 23:18's promise. The wiki keeps both: the
 proverb's hope rests on an *ʾaḥărît*, an end not yet seen (Hebrew read in Sefaria's *Miqra according
 to the Masorah*, 2026-10-26), and Job speaks from inside the delay. See [[Do Not Envy Sinners]].
+
+### Honey and hope — Proverbs 24:14
+
+*"so you shall know wisdom to be to your soul; if you have found it, then there will be a reward,
+your hope will not be cut off."* 23:18's promise is repeated, now attached to finding wisdom, which is
+compared to honey (24:13). The tree of life of 13:12 and the honey of 24:13 are both images of desire
+fulfilled.
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 13:12; 24:13–14.
 
 ## Significance
 

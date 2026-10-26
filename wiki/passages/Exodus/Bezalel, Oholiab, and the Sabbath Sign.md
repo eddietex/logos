@@ -166,6 +166,7 @@ mountain instructions; the following pericope will return to the people below.
 - Isaiah 40:28 — the Creator does not grow weary; verified WEB, not yet ingested, held beside 31:17
   below.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The garments included in 31:10 are made within the shared commission.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, a house built with 31:3's three gifts. See [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]].
 
 ## Notes
 

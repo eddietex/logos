@@ -16,7 +16,7 @@ tags: [connection]
   be with them: for their hearts plot violence, and their lips talk about mischief."*
 - **Proverbs 24:19–20** — *"Don't fret yourself because of evildoers; neither be envious of the
   wicked: for there will be no reward to the evil man; and the lamp of the wicked shall be snuffed
-  out."* (stored, not yet ingested)
+  out."* — [[Through Wisdom a House Is Built]]
 - **Psalm 37:1–2** — *"Don't fret because of evildoers, neither be envious against those who work
   unrighteousness. For they shall soon be cut down like the grass, and wither like the green
   herb."* (WEB verified at bible-api.com; Psalms not yet in `raw/`)
@@ -24,6 +24,7 @@ tags: [connection]
   For I was envious of the arrogant, when I saw the prosperity of the wicked."* … *"When I tried to
   understand this, it was too painful for me; Until I entered God's sanctuary, and considered their
   latter end."* (WEB verified at bible-api.com) — see [[The Prosperity of the Wicked]]
+- [[Through Wisdom a House Is Built]] — Proverbs 24:19–20.
 
 ## Analysis
 
@@ -60,6 +61,14 @@ to Sheol *"In an instant"* (21:13), untroubled — an end that is no worse than 
 [[Why Do the Wicked Live]] and [[The Prosperity of the Wicked]]). Proverbs' appeal to the latter end
 is therefore not a claim the wisdom literature leaves unexamined; the wiki records both, and does not
 reconcile them here.
+
+### 24:19–20 in its block
+
+Proverbs 24:19–20 is now ingested. It follows directly on 24:17–18, the ban on rejoicing when an
+enemy falls, so the block holds the two attitudes to the wicked side by side: no envy while they
+stand, no gladness when they fall. Both are left to Yahweh.
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:17–20.
 
 ## Significance
 

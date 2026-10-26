@@ -19,6 +19,7 @@ tags: [connection]
 - Hosea 3:5 — *"afterward the children of Israel shall return… and David their king"*
 - Daniel 2:28; 10:14 — *"what shall be in the latter days"*, of the dream and of the vision
 - Acts 2:17; Hebrews 1:2; 2 Peter 3:3; 2 Timothy 3:1 — the Greek *en tais eschatais hēmerais*
+- [[Through Wisdom a House Is Built]] — Proverbs 24:14, 20.
 
 ## Analysis
 
@@ -51,6 +52,15 @@ fears Yahweh rather than envying sinners, and 23:32 gives wine its *ʾaḥărît
 bites like a snake"*. Proverbs 24:14 and 24:20 repeat the word for the wise and the evil man. The
 noun names *what comes after*, good or bad, which is the sense this page argues for the phrase. See
 [[Do Not Envy Sinners]].
+
+### Proverbs 24:14, 20 ingested
+
+Both verses are now ingested. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) 24:14
+has *wəyēš ʾaḥărîṯ*, which the WEB renders *"there will be a reward"*, and 24:20 has *lōʾ-ṯihyeh
+ʾaḥărîṯ lārāʿ*, *"there will be no reward to the evil man"*. The one who finds wisdom has a latter end;
+the evil man has none.
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:14, 20.
 
 ## Significance
 

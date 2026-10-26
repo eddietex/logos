@@ -196,12 +196,13 @@ and the God-fearer's end is a hope that will not be cut off.
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:9–11, sleep and poverty.
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18, discipline and death.
 - [[The Fall]] — Genesis 3:6, the fruit that was a delight to the eyes.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–22, the block that follows; 24:14 repeats 23:18, and 24:19 is the fourth prohibition of envy.
 
 ## Notes
 
 **Boundary.** The planned 23:12–24:2 unit is retained. Verse 12's call to attention echoes 22:17 and
 opens the block; 24:1–2 closes it by returning to 23:17's prohibition of envy; 24:3 turns to wisdom
-building a house and starts the next queue item (*By Wisdom a House Is Built*, 24:3–22). Exactly one
+building a house and starts the next queue item ([[Through Wisdom a House Is Built]], 24:3–22). Exactly one
 queue item is advanced.
 
 **Language.** Read from Sefaria's *Miqra according to the Masorah* on 2026-10-26:

@@ -309,6 +309,7 @@ quietly making room for chapter 3.
 - **James 5:11; 1 Peter 5:8** — the endurance of Job, and an adversary who *"walks around"*, which is
   the verb of Job 1:7.
 - [[Thirty Excellent Things]] — Proverbs 23:4–5, riches that fly away, beside 1:21; see [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]].
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, the house built through wisdom; set beside 1:18–19's fallen house.
 
 ## Notes
 

@@ -165,6 +165,17 @@ Maker's ownership — without invoking the image of God.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The house built as the world was — Proverbs 24:3–4
+
+*"Through wisdom a house is built; by understanding it is established; by knowledge the rooms are
+filled"* repeats the three nouns of 3:19–20, *"By wisdom Yahweh founded the earth. By understanding,
+he established the heavens. By his knowledge, the depths were broken up"*, in the same order and with
+the same verb *kûn* for *established* (Sefaria's *Miqra according to the Masorah*, read 2026-10-26). A
+household is built with the gifts that built the cosmos. See
+[[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:12; Yahweh makes the capacities by which people hear and see.
@@ -309,6 +320,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Finished work continues the creation comparison without an explicit cosmic allegory.
 - [[Wisdom at the Creation]] — Proverbs 8:22–31; depths, springs, mountains, heavens, the circle on the deep, and the sea's boundary, made with Wisdom present and delighting
 - [[A Good Name]] — Proverbs 22:2; Yahweh the maker of rich and poor.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4; The house built with creation's three gifts.
 
 ## Related themes
 

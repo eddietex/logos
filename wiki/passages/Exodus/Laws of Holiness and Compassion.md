@@ -172,6 +172,7 @@ but *"cast it to the dogs"* (22:31).
 - Exodus 23:1–19 — [[Justice, Sabbaths, and Feasts]], continuing the protection of the poor and alien and the offering of produce.
   Its page is written when that pericope is ingested.
 - [[Thirty Excellent Things]] — Proverbs 22:27 and 23:10–11, the debtor's bed and the fatherless's field, beside 22:22–27's widow, orphan, and pledged garment.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:21, *"fear Yahweh and the king"*, after 22:28. See [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
 
 ## Notes
 

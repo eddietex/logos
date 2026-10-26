@@ -103,6 +103,17 @@ Job 31:29–30 denies rejoicing at an enemy's ruin or cursing him to death. See 
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### No gladness at an enemy's fall — Proverbs 24:17–18
+
+*"Don't rejoice when your enemy falls. Don't let your heart be glad when he is overthrown; lest
+Yahweh see it, and it displease him, and he turn away his wrath from him."* The ban reaches the
+heart. The reason is the text's own: the enemy's fall is Yahweh's business, and gloating is seen. It
+sits beside 17:5 (*"He who is glad at calamity shall not be unpunished"*), Job 31:29, and 24:29's ban on
+saying *"I will do to him as he has done to me."* See
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:22; Personal repayment refused in favor of Yahweh’s rescue.
@@ -167,6 +178,7 @@ passage page.
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[The Lamp of the Commandment]] — Proverbs 6:34–35; the husband's *"day of vengeance"*, which no
   ransom buys off
+- [[Through Wisdom a House Is Built]] — Proverbs 24:17–18; No rejoicing when an enemy falls, lest Yahweh turn his wrath away.
 
 ## Related themes
 

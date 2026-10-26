@@ -110,6 +110,7 @@ It does not remove either the promises in Proverbs or Job's counterexample.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:11, 18–19; Wisdom repeats this praise of herself:
   8:11b is 3:15b almost word for word, *"riches and honor"* (8:18) is 3:16's pair, and 8:19 is 3:14.
 - [[Wisdom at the Creation]] — Proverbs 8:22–31 — Wisdom speaks of her presence at creation; a fuller personification.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, the same three gifts — wisdom, understanding, knowledge — build a house. See [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]].
 
 ## Notes
 

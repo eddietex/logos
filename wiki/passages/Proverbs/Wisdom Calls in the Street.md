@@ -284,6 +284,7 @@ consequence. See [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Mat
 - Galatians 6:7 — *"whatever a man sows, that he will also reap"* (WEB, checked against
   bible-api.com).
 - [[A Strong Tower]] — Proverbs 18:4; *"a flowing brook"*, the *nōḇēaʿ* of 1:23.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:17, 22, gladness at an enemy's fall forbidden; the rebels' *ʾêḏ*, the word of 1:26.
 
 ## Notes
 

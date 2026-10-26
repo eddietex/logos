@@ -113,6 +113,7 @@ WEB text, Exodus 35:30–36:7, copied from the stored source.
 - [[Manna and Quail]] — Exodus 16:16–30; need and limits on gathering, compared with distinct
   circumstances in [[Enough for the Work - Manna and the Sanctuary Offering]].
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The commissioned company makes the garments; no individual maker is named in that unit.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, the same three gifts as 35:31. See [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]].
 
 ## Notes
 

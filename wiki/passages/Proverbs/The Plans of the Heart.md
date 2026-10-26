@@ -313,6 +313,7 @@ on which Job could not read his own case from the outside. See [[Retribution]] a
 - [[The Prosperity of the Wicked]] — the general promises of 16:7, 20, 31 against Job.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:3, 6, 9; Yahweh tests the hearts after weighing them (16:2), the crown of glory (16:31) divided, and the whisperer's separating verb (16:28) again.
 - [[A Strong Tower]] — Proverbs 18:8, 12, 18; the whisperer (16:28), pride before destruction (16:18), and the lot (16:33) taken up again.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:12, the weigher of hearts (cf. 16:2's weigher of motives).
 
 ## Notes
 

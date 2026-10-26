@@ -123,6 +123,16 @@ See [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]]
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Do not fret — Proverbs 24:19–20
+
+*"Don't fret yourself because of evildoers; neither be envious of the wicked: for there will be no
+reward to the evil man; and the lamp of the wicked shall be snuffed out."* The fourth prohibition in
+Proverbs (3:31; 23:17; 24:1), opening with the words of Psalm 37:1, and placed straight after the ban
+on gloating at an enemy's fall (24:17–18): the wicked are neither envied while they stand nor gloated
+over when they fall. See [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.
@@ -200,6 +210,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[The Lamp of the Commandment]] — Proverbs 6:25, 34; coveting a neighbour's wife forbidden, and
   the husband's *qinʾâ*
 - [[Do Not Envy Sinners]] — Proverbs 23:17; 24:1; Sinners and evil men not to be envied, nor their company wanted.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:19; Do not fret because of evildoers, nor envy the wicked.
 
 ## Related themes
 

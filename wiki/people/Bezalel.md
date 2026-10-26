@@ -75,6 +75,16 @@ named in 39:32–43, and the blessing is not restricted to him or to two master 
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The same three gifts in Proverbs and Kings
+
+The three nouns of Exodus 31:3 — *wisdom*, *understanding*, *knowledge* (*bəḥoḵmāh ûḇiṯḇûnāh
+ûḇəḏaʿaṯ* in Sefaria's *Miqra according to the Masorah*, read 2026-10-26) — are the three by which
+Yahweh founds the world in Proverbs 3:19–20, by which *"a house is built"* in Proverbs 24:3–4, and with
+which Hiram of Tyre is filled for the temple's bronze work in 1 Kings 7:14. The wiki records the
+shared vocabulary without claiming that any of the later texts alludes to Bezalel. See
+[[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]] and
+[[Through Wisdom a House Is Built]].
+
 ## Timeline / key events
 
 - [[The Furnishings Made]] — Exodus 37:1–29; named as the ark maker; furnishings made.
@@ -102,6 +112,8 @@ texts, 2026-10-25.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Contextual craft leader; the garment unit does not name him.
 
 - [[The Work Completed]] — Exodus 39:32–43; Contextual craft leader; completion is credited to Israel collectively.
+
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4; not named; the house built with the three gifts given him at Exodus 31:3.
 
 ## Related people
 

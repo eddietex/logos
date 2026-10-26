@@ -16893,3 +16893,61 @@ Sefaria's *Miqra according to the Masorah* on 2026-10-26. Two lexical points wer
 a lexicon and are marked so at the point of claim: the shared root of *məʾaḥărîm* (23:30) and
 *ʾaḥărît*, and the sense of *ḥeṯep̄* (23:28). The Greek of Matthew 11:19 was not checked, and the
 connection page says so. `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 24.3-22 — Through Wisdom a House Is Built
+
+Ingested [[Through Wisdom a House Is Built]], keeping the planned Proverbs 24:3–22 boundary and
+advancing exactly one queue item. 24:3 begins after the envy frame of 23:17–24:2 closes; 24:22 ends
+the first *"words of the wise"* at a Masoretic paragraph break, and 24:23's new heading begins the
+next item. The unattended discussion is written into the passage page: the house built through
+wisdom (3–4); counsel in war (5–6); the fool, the schemer, and the mocker (7–9); the rescue of those
+led away to death and the refused plea of ignorance (10–12); honey and hope (13–14); the righteous
+who fall seven times (15–16); no gladness at an enemy's fall (17–18); the lamp of the wicked (19–20);
+and the fear of Yahweh and the king (21–22).
+
+**Interpretive decisions.** The queue's provisional title *By Wisdom a House Is Built* was changed to
+*Through Wisdom a House Is Built* to match the WEB of 24:3. The block is read as moving from what
+wisdom builds to what the wise must do when another's house is threatened, under the God who
+*"weighs the hearts"* (24:12). Who the condemned of 24:11 are is left unstated, as the text leaves it,
+and *ʾim-taḥśôḵ* is recorded as readable either as a command or a reproach. 24:18's reason for not
+gloating is recorded as given, not softened. The unnamed king of 24:21 and the other generic figures
+get no person pages; [[Solomon]] is not touched. The *Amenemope* comparison stays unverified.
+
+**Created (4):** the passage and three connections:
+- [[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]]
+- [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]]
+- [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]]
+
+**Revised content pages (43):** [[Proverbs]] (box, overview paragraph, two key themes); [[God]] and
+[[Bezalel]]; 15 theme pages, each with a section and a key-passage entry (Wisdom, Creation, War,
+Folly, Compassion and Mercy, Judgment, Retribution, Hope, Righteousness, Vengeance, Envy, Light and
+Darkness, The Fear of God, Kingship and Empire, Life and Death); 8 existing connections (A Multitude
+of Counselors, Help for an Enemy, Do Not Fret Because of Evildoers, The Lamp of the Wicked Put Out, In
+the Days to Come, Hope Deferred and the Tree of Life, Honest Weights, Wait for Yahweh), with Do Not
+Fret's *not yet ingested* label replaced by a link and The Lamp of the Wicked's 24:20 quotation
+corrected to the stored WEB punctuation; and 17 earlier passage pages with reciprocal references
+(eleven in Proverbs — the *not yet ingested* title on [[Do Not Envy Sinners]] now a link — three in
+Exodus, three in Job).
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index (15 rows), and
+Connections Index A-C, D-H, I-N, and T-Z (three new rows filed under A, F, and W; eight rows extended;
+no range redraw needed). People Index rows for God and Bezalel were left as they are: their summaries
+still hold. Proverbs is now 33 / 43 pericopes and remains in progress. Counts by frontmatter are 177
+passages, 179 people, 90 places, 83 themes, and 460 connections; four books started, three complete.
+No new person, place, or theme was needed.
+
+**Sources and validation.** All Proverbs, Exodus, and Job quotations were copied from the stored WEB.
+Psalm 62:12, Romans 2:6, Matthew 16:27, 1 Peter 2:17, Romans 13:7, and 1 Kings 7:14 were verified at
+bible-api.com with `translation=web` on 2026-10-26. No unreached book was fetched, and existing raw
+files are unchanged. Hebrew claims — the *ḥoḵmāh*/*təḇûnāh*/*daʿaṯ* triad at 24:3–4, 3:19–20, Exodus
+31:3, and 1 Kings 7:14, and *kûn* at 3:19 and 24:3; 24:6 against 11:14 and 20:18; *rāʾmôṯ* and
+*ḥoḵmôṯ* at 24:7 and 9:1; *tôʿăḇaṯ ləʾāḏām* at 24:9; *ṣārāh*/*ṣar* at 24:10; *ʾim-taḥśôḵ* at 24:11;
+*tōḵēn libbôṯ* at 24:12 and 21:2, *tōḵēn rûḥôṯ* at 16:2, *nōṣēr*, and *hēšîḇ … kəp̄ŏʿŏlô* at 24:12, 18,
+and 29; *ʾaḥărîṯ* at 24:14, 20; *teʾĕrōḇ* at 24:15, 23:28, and 1:11; *nāp̄al*/*kāšal* at 24:16–17 and
+the *ketiv*/*qere* at 24:17; *ʾêḏ* at 24:22, 1:26, and 17:5; *pîḏ* at 24:22 and Job 31:29; *šônîm* at
+24:21; Exodus 22:27 (Hebrew numbering), Psalm 62:13, and Job 34:11 — were read from Sefaria's *Miqra
+according to the Masorah* on 2026-10-26. Three lexical points were not checked against a lexicon and
+are marked so at the point of claim: whether *ṣārāh* and *ṣar* share a root, the animal sense of
+*riḇṣô*, and the derivation of *šônîm*. The Hebrew of Exodus 35:31 and the Greek of Romans 2:6,
+Matthew 16:27, and 1 Peter 2:17 were not checked, and the connection pages say so.
+`scripts/link-check.sh` exits 0.

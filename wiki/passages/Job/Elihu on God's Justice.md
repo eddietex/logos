@@ -402,6 +402,7 @@ the dead at 10:21–22, but [[Sheol]] is not in view here.
 - Exodus 3:7 — *"I … have heard their cry"*.
 - Psalm 139:12 — *"even the darkness doesn't hide from you"*.
 - Psalm 42:8; 77:6 — the song in the night.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:12, now ingested. See [[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]].
 
 ## Notes
 

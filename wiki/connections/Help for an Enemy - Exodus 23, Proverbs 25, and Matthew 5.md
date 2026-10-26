@@ -12,6 +12,7 @@ tags: [connection]
 - Matthew 5:43–48 — love and prayer for enemies; verified WEB, not yet ingested.
 - Romans 12:20–21 — enemy-feeding instruction and overcoming evil with good; verified WEB, not yet
   ingested.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:17–18.
 
 ## Analysis
 
@@ -36,6 +37,20 @@ doing good across hostility.
 **Sources:** Exodus checked in the existing raw WEB. The three later ranges were retrieved from
 bible-api.com with `translation=web` on 2026-10-23; the discussion paraphrases their verified
 English wording.
+
+### No gladness at the enemy's fall — Proverbs 24:17–18
+
+Before Proverbs 25:21–22 commands food for an enemy, 24:17–18 forbids the heart's gladness at his
+fall: *"Don't rejoice when your enemy falls. Don't let your heart be glad when he is overthrown; lest
+Yahweh see it, and it displease him, and he turn away his wrath from him."* Its reason is that the
+enemy's fall is Yahweh's affair, not that the enemy has become a friend. Job swears the same
+restraint (*"If I have rejoiced at the destruction of him who hated me"*, 31:29), and Proverbs 17:5
+has *"He who is glad at calamity shall not be unpunished."* In Sefaria's *Miqra according to the
+Masorah* (read 2026-10-26) Job 31:29's *destruction* is *pîḏ*, the word Proverbs 24:22 uses for the
+ruin that comes on rebels. 24:29, in the next block, then forbids *"I will do to him as he has done
+to me."*
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 17:5; 24:17–18, 29; Job 31:29.
 
 ## Significance
 

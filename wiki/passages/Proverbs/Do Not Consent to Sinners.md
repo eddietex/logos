@@ -262,6 +262,7 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
   did, says *"Come"* (*ləḵâ*) as they did, and her victim is the bird hurrying to the snare.
 - [[Thirty Excellent Things]] — Proverbs 22:24–25, the hot-tempered companion whose ways are learned.
 - [[Do Not Envy Sinners]] — Proverbs 23:28–29, the gang's *"lay in wait"* and *"without cause"* reused of the prostitute and the drinker.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:15, *"Don't lay in wait, wicked man"*, with the gang's verb of 1:11.
 
 ## Notes
 

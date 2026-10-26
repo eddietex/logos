@@ -191,6 +191,7 @@ wiki’s interpretation; the verses do not state their own exception clauses. Se
   counsel and judges as the same office.
 - [[A Good Name]] — Proverbs 22:8 gives the negative of 11:18's sowing of righteousness.
 - [[Thirty Excellent Things]] — Proverbs 23:4–5, riches that fly away, beside 11:4, 28; see [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]].
+- [[Through Wisdom a House Is Built]] — Proverbs 24:6b, identical in Hebrew to 11:14b.
 
 ## Notes
 

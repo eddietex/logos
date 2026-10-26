@@ -242,6 +242,15 @@ WEB but a righteous man in the KJV; the wiki records the difference. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Seven times fallen — Proverbs 24:15–16
+
+*"Don't lay in wait, wicked man, against the habitation of the righteous … for a righteous man falls
+seven times, and rises up again; but the wicked are overthrown by calamity."* The saying does not
+promise the righteous that they will not fall — only that they will get up. It is the nearest
+Proverbs comes, in a single line, to the experience the book of Job narrates.
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:3, 12, 15, 18, 21, 26; Justice done with joy, pursued, and generous.
@@ -443,6 +452,7 @@ the passage page.
   eyes"*, Judges 17:6; by reference, *not yet ingested*)
 - [[If You Seek Her as Silver]] — Proverbs 2:9, 20; righteousness, justice, and equity (1:3) understood; the paths of the righteous
 - [[Wisdom Calls at the Gates]] — Proverbs 8:8, 15–16, 18, 20; Wisdom's words in righteousness, her road of justice, and *ṣəḏāqâ* (WEB *"prosperity"*) among her gifts
+- [[Through Wisdom a House Is Built]] — Proverbs 24:15–16; The righteous man falls seven times and rises.
 
 ## Related themes
 

@@ -298,6 +298,7 @@ general rule; the wiki keeps Job's case beside it. See [[Retribution]].
 - [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] — the cistern
   behind *"Stolen water"*.
 - [[A Way That Seems Right]] — Proverbs 14:1; *"Every wise woman builds her house"*, Wisdom's house of 9:1 brought into an ordinary household.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3, *"Through wisdom a house is built"*, beside 9:1's Wisdom who *"has built her house"*.
 
 ## Notes
 

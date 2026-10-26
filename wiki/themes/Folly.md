@@ -234,6 +234,15 @@ worth answering. 26:4–5, not yet ingested, will complicate the rule.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 26:4–5.
 
+### The fool in the gate — Proverbs 24:7–9
+
+*"Wisdom is too high for a fool: he doesn't open his mouth in the gate."* Where the town deliberates,
+the fool has nothing to say. Then *"The schemes of folly are sin. The mocker is detested by men"*
+(24:9) — *tôʿăḇaṯ ləʾāḏām*, *an abomination to man*, the noun Proverbs usually pairs with Yahweh
+(Sefaria's *Miqra according to the Masorah*, read 2026-10-26).
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
@@ -280,6 +289,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Prov
 - [[Wisdom Calls at the Gates]] — Proverbs 8:5; the simple and fools invited to prudence and *"an understanding heart"*
 - [[A Good Name]] — Proverbs 22:3, 15; The simple pass on; folly bound in a child's heart.
 - [[Thirty Excellent Things]] — Proverbs 23:9; The fool who despises wise words.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:7–9; The fool silent in the gate; the schemes of folly called sin; the mocker detested.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

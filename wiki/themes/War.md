@@ -93,6 +93,15 @@ is with Yahweh (31). Preparation is assumed; its outcome is not owned. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### War by wise guidance — Proverbs 24:5–6
+
+*"A wise man has great power … for by wise guidance you wage your war; and victory is in many
+advisors."* Its second line repeats 11:14b word for word in Hebrew, and its first reworks 20:18. The
+argument is that wisdom outweighs strength because even war is won by counsel. See
+[[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:22, 31; The wise besieger and the prepared horse.
@@ -166,6 +175,7 @@ the passage page.
   war (milḥāmâ) with Amalek from generation to generation"* (17:16). The road God chose so Israel would not
   *"see war"* (13:17) did not avoid this one
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; God's terror, confusion, and hornet; a conquest *"little by little"*.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:5–6; War waged by wise guidance; victory in many advisors.
 
 ## Related themes
 

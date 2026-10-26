@@ -202,6 +202,7 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 - [[The Prosperity of the Wicked]] — the flourishing tent of 14:11 against Job 21.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5, *"Whoever mocks the poor reproaches his Maker"*, restating 14:31.
 - [[A Good Name]] — Proverbs 22:2 names the Maker of rich and poor that 14:31 invokes.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, the house built through wisdom, beside 14:1's wise woman.
 
 ## Notes
 

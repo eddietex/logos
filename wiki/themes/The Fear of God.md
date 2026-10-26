@@ -237,6 +237,16 @@ orientation rather than an occasional act. The reason that follows is the future
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Fear Yahweh and the king — Proverbs 24:21–22
+
+*"My son, fear Yahweh and the king. Don't join those who are rebellious"*. The first *"words of the
+wise"* end with the book's motto (1:7) and a second object: one verb, *yərāʾ*, governs both Yahweh and
+the king, with Yahweh named first (Sefaria's *Miqra according to the Masorah*, read 2026-10-26). 1 Peter
+2:17 keeps the order and separates the verbs: *"Fear God. Honor the king."* See
+[[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23; Fear of Yahweh promises life and
@@ -452,6 +462,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:13; *"The fear of Yahweh is to hate evil"*, the motto restated as a definition
 - [[A Good Name]] — Proverbs 22:4; Humility and the fear of Yahweh yield wealth, honor, and life.
 - [[Do Not Envy Sinners]] — Proverbs 23:17; Fear of Yahweh *"all day long"*, as the alternative to envying sinners.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:21; Fear of Yahweh, and of the king, against joining the rebellious.
 
 ## Related themes
 

@@ -16,6 +16,7 @@ tags: [connection]
 - Leviticus 19:35–36 and Deuteronomy 25:13–16 — WEB verified; books not yet ingested.
 - [[The Plans of the Heart]] — Proverbs 16:2, 11.
 - Proverbs 20:10, 23 — now ingested in [[Wine Is a Mocker]].
+- [[Through Wisdom a House Is Built]] — Proverbs 24:12.
 
 ## Analysis
 
@@ -69,6 +70,15 @@ Proverbs 21:2, now ingested, is the weighing applied inward: *"Every way of a ma
 own eyes, but Yahweh weighs the hearts."*
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### The weigher of hearts and the bystander — Proverbs 24:12
+
+Proverbs 24:12 is now ingested. There the weigher of hearts (*tōḵēn libbôṯ*, identical to 21:2 in
+Sefaria's *Miqra according to the Masorah*, read 2026-10-26) weighs not a merchant's scales but a
+bystander's excuse: *"If you say, 'Behold, we didn't know this'; doesn't he who weighs the hearts
+consider it?"* See [[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:12.
 
 ## Significance
 

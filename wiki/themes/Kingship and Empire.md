@@ -150,6 +150,15 @@ hospitality may carry obligations the guest does not see.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### The king feared beside Yahweh — Proverbs 24:21–22
+
+*"My son, fear Yahweh and the king. Don't join those who are rebellious: for their calamity will rise
+suddenly; the destruction from them both—who knows?"* The king is feared under one verb with Yahweh,
+but named after him; 21:1 has already put the king's heart in Yahweh's hand. The rebels' ruin comes
+*"from them both"*. See [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:1; The ruler's heart as directed water, without exemption from responsibility.
@@ -305,6 +314,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:15–16; *"By me kings reign"* — every rank of ruler governs by wisdom
 - [[A Good Name]] — Proverbs 22:11; Purity of heart and gracious speech make the king's friend.
 - [[Thirty Excellent Things]] — Proverbs 22:29; 23:1–3; Serving kings and eating at a ruler's table.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:21–22; The king feared with Yahweh; the destruction from them both.
 
 ## Related themes
 

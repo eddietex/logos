@@ -199,6 +199,16 @@ here is a disposition (the eye) proven by a concrete act (food shared).
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Rescue those led away to death — Proverbs 24:10–12
+
+*"Rescue those who are being led away to death! Indeed, hold back those who are staggering to the
+slaughter!"* (24:11). The text does not say who they are; it says the bystander's excuse — *"we didn't
+know this"* — is answered by *"he who weighs the hearts"* (12). Compassion here is a duty with a
+witness, and the *"time of trouble"* that tests strength (10) is someone else's. See
+[[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:10, 13, 21, 26; The wicked show no mercy; kindness is pursued.
@@ -292,6 +302,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
   Hebrew, and survives it
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"What would he sleep in? … for I am gracious"*
 - [[A Good Name]] — Proverbs 22:9; The generous eye shares food with the poor.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:10–12; The duty to rescue those led to death; the plea of ignorance refused.
 
 ## Related themes
 

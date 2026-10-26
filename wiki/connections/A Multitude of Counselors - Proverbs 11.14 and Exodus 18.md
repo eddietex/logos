@@ -13,6 +13,7 @@ tags: [connection]
 
 - [[A False Balance]] — Proverbs 11:9–14.
 - [[Jethro's Counsel]] — Exodus 18:13–26.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:5–6.
 
 ## Analysis
 
@@ -52,6 +53,16 @@ over the whole course of events. This extends the comparison with Proverbs 11:13
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Wisdom stronger than strength — Proverbs 24:5–6
+
+*"A wise man has great power … for by wise guidance you wage your war; and victory is in many
+advisors."* In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) 24:6b, *ûṯəšûʿāh bərōḇ
+yôʿēṣ*, is identical to 11:14b, and 24:6a varies 20:18b's *ûḇəṯaḥbulôṯ ʿăśēh milḥāmāh*. The saying
+appears three times in the book; this time it serves an argument about power: counsel, not force,
+wins.
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 11:14; 20:18; 24:5–6.
 
 ## Significance
 

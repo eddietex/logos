@@ -218,6 +218,13 @@ Pride is called *"the lamp of the wicked"*, the lamp that 13:9 and 20:20 say wil
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The lamp of the wicked — Proverbs 24:20
+
+*"for there will be no reward to the evil man; and the lamp of the wicked shall be snuffed out."* The
+image of 13:9 repeated as the reason not to envy the wicked. See [[The Lamp of the Wicked Put Out]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:4; Pride named the lamp of the wicked.
@@ -351,6 +358,7 @@ the passage page.
 - [[The Lamp of the Commandment]] — Proverbs 6:23; *"the commandment is a lamp, and the law is
   light"*
 - [[The Young Man Void of Understanding]] — Proverbs 7:9; twilight to darkness, the adulterer's hour
+- [[Through Wisdom a House Is Built]] — Proverbs 24:20; The lamp of the wicked snuffed out.
 
 ## Related themes
 

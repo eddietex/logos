@@ -474,6 +474,16 @@ and understanding"*, 23:23), with the imperative of 4:5, 7. See
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Wisdom builds the house — Proverbs 24:3–7, 13–14
+
+*"Through wisdom a house is built; by understanding it is established; by knowledge the rooms are
+filled"* (24:3–4) names the three gifts by which Yahweh founded the world at 3:19–20, and which filled
+Bezalel for the tabernacle (Exodus 31:3). The block then makes wisdom stronger than strength (24:5–6),
+*"too high for a fool"* (7), and sweet as honey to the soul (13–14). See
+[[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]].
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -674,6 +684,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[A Good Name]] — Proverbs 22:3, 5, 12; The prudent sees danger; Yahweh watches over knowledge.
 - [[Thirty Excellent Things]] — Proverbs 22:17–21; 23:4, 9; The words of the wise, written to be kept, spoken, and reported truly.
 - [[Do Not Envy Sinners]] — Proverbs 23:12, 15, 19, 23–24; The wise heart that gladdens a father; truth bought and not sold.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:3–7, 13–14; Wisdom builds and fills the house, wins the war, and is honey to the soul.
 
 ## Related themes
 

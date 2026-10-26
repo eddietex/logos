@@ -184,6 +184,7 @@ reverses fortunes; it is not developed into a theory of substitution here.
 - [[I Know That My Redeemer Lives]] — Job 19:7, a cry for help that is not heard.
 - [[Now They Mock Me]] — Job 30:20, a cry to God unanswered.
 - [[A Good Name]] — Proverbs 22:10 drives out the mocker whose punishment 21:11 makes a lesson.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:12, *"he who weighs the hearts"*, 21:2's title; 24:21, the king feared with Yahweh.
 
 ## Notes
 

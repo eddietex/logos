@@ -21,8 +21,8 @@ tags: [connection]
   snuffed out."* — [[Hope Deferred]]
 - **Proverbs 20:20** — *"Whoever curses his father or his mother, his lamp shall be put out in
   blackness of darkness."*
-- **Proverbs 24:20** — *"for there will be no reward to the evil man. The lamp of the wicked shall
-  be snuffed out."*
+- **Proverbs 24:20** — *"for there will be no reward to the evil man; and the lamp of the wicked
+  shall be snuffed out."*
 - **Job 21:17** — Job's reply: *"How often is it that the lamp of the wicked is put out, that their
   calamity comes on them, that God distributes sorrows in his anger?"* —
   [[Why Do the Wicked Live]]
@@ -34,6 +34,7 @@ tags: [connection]
   in Jerusalem"*, the dynastic promise stated three times as a lamp not extinguished.
 - **Psalm 132:17** — *"I have ordained a lamp for my anointed."*
 - **Revelation 18:23** — of Babylon: *"The light of a lamp will shine no more at all in you."*
+- [[Through Wisdom a House Is Built]] — Proverbs 24:20.
 
 ## Analysis
 
@@ -96,6 +97,16 @@ Proverbs 21:4 names the lamp: *"A high look, and a proud heart, the lamp of the 
 Pride is the light the wicked walk by, the lamp 13:9 and 20:20 say will be put out.
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### Proverbs 24 in context
+
+Proverbs 24:20 gives the snuffed-out lamp as the reason not to envy the wicked (24:19), and pairs
+it with *"there will be no reward to the evil man"* — *ʾaḥărîṯ*, *latter end*, in Sefaria's *Miqra
+according to the Masorah* (read 2026-10-26). Four verses earlier the same block concedes that *"a
+righteous man falls seven times"* (24:16): the lamp proverb is set beside an admission that the
+righteous are not spared falls.
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:16, 19–20.
 
 ## Significance
 

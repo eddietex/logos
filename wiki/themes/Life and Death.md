@@ -378,6 +378,15 @@ the one *"who gave you life"* (23:22). See
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Those led away to death — Proverbs 24:11
+
+*"Rescue those who are being led away to death! Indeed, hold back those who are staggering to the
+slaughter!"* Death here is not the end of the fool's road, as so often in chapters 1–9, but another's
+danger that the wise are commanded to interrupt. The text does not say whether the condemned are
+innocent; it says the bystander answers to God for doing nothing (24:12).
+
+See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 16, 21, 25; Seekers of death, the departed spirits, and life found.
@@ -736,6 +745,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[The Two Feasts]] — Proverbs 9:6, 11, 18; *"Leave your simple ways, and live"*, days multiplied, and Folly's
   guests *"in the depths of Sheol"*: the prologue ends on the two tables as life and death
 - [[Do Not Envy Sinners]] — Proverbs 23:13–14, 22; The rod that does not kill and saves from Sheol; the father who gave life.
+- [[Through Wisdom a House Is Built]] — Proverbs 24:11; Those led away to death, to be rescued.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15
