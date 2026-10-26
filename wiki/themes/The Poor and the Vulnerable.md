@@ -157,7 +157,22 @@ city (11, 19).
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:1, 4, 7, 17, 22
+
+Verses 4 and 7 describe the poor losing friends and relatives; verses 1 and 22 deny that their
+poverty discredits their character. Verse 17 supplies the response: pity for the poor is lending to
+Yahweh, who will reward the giver. Social abandonment is described, not prescribed. The chapter's
+warning about idleness (15) cannot explain all the poverty it names. See
+[[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]] and
+[[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 7, 17, 22; The poor are
+  abandoned by friends but honored for integrity; pity for them is lending to Yahweh.
 
 - [[A Strong Tower]] — Proverbs 18:23.
 

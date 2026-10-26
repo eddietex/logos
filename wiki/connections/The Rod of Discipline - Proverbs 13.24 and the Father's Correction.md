@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18, 25–27.
+
 - **Proverbs 3:11–12** — *"My son, don’t despise Yahweh’s discipline, neither be weary of his
   reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he
   delights."* — [[Trust in Yahweh with All Your Heart]]
@@ -17,7 +19,7 @@ tags: [connection]
 - **Proverbs 12:1** — *"Whoever loves correction loves knowledge, but he who hates reproof is
   stupid."* — [[Whoever Loves Correction]]
 - **Proverbs 19:18** — *"Discipline your son, for there is hope; don’t be a willing party to his
-  death."* (not yet ingested)
+  death."* — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 22:15** — *"Folly is bound up in the heart of a child: the rod of discipline drives it
   far from him."* (not yet ingested)
 - **Proverbs 23:13–14** — *"Don’t withhold correction from a child. If you punish him with the rod,
@@ -61,7 +63,17 @@ does not use it to settle modern questions about the physical punishment of chil
 made here about the Hebrew word rendered *rod*.
 
 Sources: all quotations copied from stored WEB Proverbs 3:11–12; 12:1; 13:1, 24; 19:18; 22:15;
-23:13–14; 29:15, 17; and Job 1:1; 2:3; 5:17. Proverbs 19–29 are stored but not yet ingested.
+23:13–14; 29:15, 17; and Job 1:1; 2:3; 5:17. The cited verses in Proverbs 22–29 are stored but not yet ingested; Proverbs 19 is now ingested.
+
+### Proverbs 19 in context
+
+Proverbs 19:18 is now ingested with its surrounding instruction. In the WEB it commands discipline
+because there is hope and warns against becoming a willing party to the son's death. The verse
+itself does not name a rod. Verse 25 distinguishes the simple observer learning from a scoffer's
+flogging from the understanding person learning through rebuke; it does not say the scoffer learns.
+Verses 26–27 expose destructive conduct toward parents and warn against ceasing to hear instruction.
+The link to 13:24 is thematic, with no new Hebrew claim. Source: stored WEB Proverbs 13:24; 19:18,
+25–27.
 
 ## Significance
 

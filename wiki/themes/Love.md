@@ -207,7 +207,20 @@ Sefaria). See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:4, 6–8, 17, 22
+
+Acquiring wisdom is love for one's own soul (8), and kindness makes a person desirable (22, WEB).
+The friends attracted by money and gifts (4, 6) disappear with poverty (7), exposing a contrast with
+17:17's constant friend. Pity for the poor (17) is the concrete alternative to company purchased by
+advantage. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 6–8, 17, 22; Self-care through
+  wisdom and kindness contrast with friendships dependent on gifts.
 
 - [[A Strong Tower]] — Proverbs 18:21, 24.
 

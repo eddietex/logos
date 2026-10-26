@@ -208,7 +208,21 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Integrity, counsel, and compassion — Proverbs 19:23
+
+Verse 23 joins fear of Yahweh to life, contentment, and freedom from trouble. **Contradiction if
+read as an exceptionless guarantee:** Job 1:1, 8 calls Job God-fearing, while 1:13–19 and 2:7
+narrate his losses and sores; 2:3 explicitly calls his ruin without cause. The wiki retains the
+proverb's strong wording and Job's counterexample rather than making suffering evidence that fear
+was absent. See [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23; Fear of Yahweh promises life and
+  safety, explicitly in tension with Job’s undeserved affliction.
 
 - [[The Plans of the Heart]] — Proverbs 16:6, 17.
 

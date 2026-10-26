@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 6–7, 17.
+
 - **Proverbs 17:17** — *"A friend loves at all times; and a brother is born for adversity."* —
   [[A Dry Morsel with Quietness]]
 - **Proverbs 17:9** — *"He who covers an offense promotes love; but he who repeats a matter separates
@@ -16,7 +18,7 @@ tags: [connection]
   closer than a brother."* — [[A Strong Tower]]
 - **Proverbs 18:19** — *"A brother offended is more difficult than a fortified city; and disputes are
   like the bars of a fortress."* — [[A Strong Tower]]
-- **Proverbs 19:7** *(not yet ingested)* — *"All the relatives of the poor shun him: how much more do
+- **Proverbs 19:7** (now ingested in the passage linked above) — *"All the relatives of the poor shun him: how much more do
   his friends avoid him!"*
 - **Proverbs 27:6, 10** *(not yet ingested)* — *"Faithful are the wounds of a friend"*; and *"Don't go
   to your brother's house in the day of your disaster: better is a neighbor who is near than a distant
@@ -74,6 +76,14 @@ arrives late.
 **Jonathan is the narrative instance the wiki has not yet reached.** 1 Samuel 18 has the friend who
 loves David *"as his own soul"* (18:1, 3; WEB at bible-api.com), across the line of a father's
 enmity; the friendship will be read in full when [[David]]'s story is ingested.
+
+### Proverbs 19 in context
+
+Proverbs 19:4, 6–7 shows friends multiplied by wealth and gifts, then absent when the poor person
+pleads. This is the social opposite of 17:17's constancy and 18:24's clinging friend. The remedy
+supplied within chapter 19 is pity for the poor, valued by Yahweh (17), not advice to acquire wealth
+to become lovable. The comparison is ethical and thematic. Source: stored WEB Proverbs 17:17; 18:24;
+19:4, 6–7, 17.
 
 ## Significance
 

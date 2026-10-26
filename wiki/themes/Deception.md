@@ -213,7 +213,20 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Integrity, counsel, and compassion — Proverbs 19:1, 5, 9, 22, 28
+
+Here the deception is explicit false speech: crooked lips (1), lying witnesses (5, 9, 28), and the
+liar ranked below the poor man (22). Repetition underlines accountability rather than describing a
+specific trial. The chapter does not identify a court, procedure, or human agent of punishment for
+verses 5 and 9.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 5, 9, 22, 28; The liar ranks below
+  the poor; corrupt witness attacks justice.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:4, 7, 20.
 

@@ -120,6 +120,10 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:17’s figurative loan to Yahweh
+  develops divine concern for the poor beside Exodus 22:21–27’s concrete lending protections. See
+  [[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]] .
+
 - [[A Gentle Answer]] — Proverbs 15:25, Yahweh keeping the widow's borders, after 22:22–24; see [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]].
 - [[Do Not Withhold Good]] — Proverbs 3:27–28’s timely help parallels the garment returned before sunset (Exodus 22:26–27); see
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].

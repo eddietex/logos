@@ -103,7 +103,20 @@ and connection pages.
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Integrity, counsel, and compassion — Proverbs 19:18
+
+The command to discipline the son is grounded in hope and followed by a warning against becoming a
+willing party to his death (18). Following the WEB, hope is a reason to act for his life, not a
+prediction that every correction succeeds. The verse does not itself name a rod or give a technique.
+See [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18; Hope motivates correction directed
+  toward the son’s life.
 
 - [[Hope Deferred]] — Proverbs 13:12, 19.
 

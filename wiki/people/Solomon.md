@@ -91,6 +91,16 @@ WEB Proverbs 10:1; 17:1–28.
 [[A Strong Tower]] (Proverbs 18:1–24) continues the collection attributed to Solomon at 10:1. Solomon is
 not named, and no king appears in the chapter. Source: stored WEB Proverbs 10:1; 18:1–24.
 
+### Proverbs 19 in comparison
+
+Proverbs 19 continues the collection attributed to Solomon at 10:1. The chapter's ruler and king (6,
+12), servant and princes (10), and household members (13–14, 18, 26–27) are not identified as people
+in his biography. Its account of wisdom reaches from receiving instruction to controlling anger,
+aiding the poor, and recognizing the limits of human plans.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Sources: stored WEB references cited above;
+Proverbs 10:1; 19:1–29.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -100,6 +110,9 @@ not named, and no king appears in the chapter. Source: stored WEB Proverbs 10:1;
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–29; Collection attribution only; the
+  ruler, servant, and household members are unnamed types.
 
 - [[A Strong Tower]] — Proverbs 18:1–24; collection attribution only, from 10:1.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:1–28; collection attribution only, from 10:1.

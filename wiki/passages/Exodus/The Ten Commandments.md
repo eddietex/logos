@@ -113,6 +113,10 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:26 portrays the opposite of parental
+  honor (Exodus 20:12), and 19:5, 9, 28 condemns false testimony (20:16). See
+  [[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] .
+
 - [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12:17, 19, 22 gives truthful testimony a wisdom portrait.
 
 - [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12:17, 19, 22 gives truthful testimony a wisdom portrait.

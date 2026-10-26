@@ -100,7 +100,22 @@ The collection's first royal cluster: inspired judgments on the king's lips (10)
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Integrity, counsel, and compassion — Proverbs 19:6, 10, 12
+
+Many seek a ruler's favor (6); verse 12 pictures royal wrath as a lion's roar and favor as dew on
+grass. The image describes royal power over others' well-being without naming or unconditionally
+approving a king. Verse 10 resists a servant ruling princes. **Internal tension:** 17:2 commends a
+wise servant ruling a shameful son; competence and inherited rank do not always point in the same
+direction. The offices and circumstances differ, so the two sayings cannot simply be made identical
+rules.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 10, 12; Royal favor attracts
+  petitioners; wrath and goodwill are pictured as lion and dew.
 
 - [[The Plans of the Heart]] — Proverbs 16:10, 12–15.
 

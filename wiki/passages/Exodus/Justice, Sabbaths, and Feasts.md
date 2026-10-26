@@ -128,6 +128,10 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 28 insists on accountability for
+  false witness, beside Exodus 23:1–8’s protection of truthful justice. See
+  [[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] .
+
 - [[A Gentle Answer]] — Proverbs 15:27, *"he who hates bribes will live"*, after 23:8.
 - [[Care for the Animal - Proverbs 12.10 and Exodus 23]] and [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12 develops animal care and truthful witness as marks of character.
 

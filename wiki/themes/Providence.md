@@ -183,7 +183,20 @@ decision, at 16:33, is *"from Yahweh"*. See
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:3, 14, 17, 20–21
+
+The prudent wife comes from Yahweh (14), he rewards pity for the poor (17), and his counsel prevails
+over the heart's many plans (21). Verse 20 has just commanded receiving counsel, so divine purpose
+does not make deliberation pointless. Verse 3 also leaves folly responsible for its ruined course.
+See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3, 14, 17, 20–21; Yahweh gives,
+  rewards, and establishes his counsel amid human choices.
 
 - [[A Strong Tower]] — Proverbs 18:18.
 

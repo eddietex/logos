@@ -116,7 +116,20 @@ forgiveness in [[The Deaths of Jacob and Joseph]]. See
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:7
+
+Verse 7 describes all the poor person's relatives shunning him, before noting the still greater
+distance of friends. This is a failure of the support praised in 17:17, not a command to withhold
+it. Job 19:13–19 gives the abandoned person's testimony. See
+[[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:7; Relatives shun the poor: kinship
+  alone does not guarantee help in adversity.
 
 - [[A Strong Tower]] — Proverbs 18:9, 19, 24.
 

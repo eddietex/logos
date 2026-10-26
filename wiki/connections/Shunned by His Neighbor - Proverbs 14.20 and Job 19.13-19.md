@@ -7,8 +7,10 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 6–7, 17, 22.
+
 - [[A Way That Seems Right]] — Proverbs 14:20–21.
-- Proverbs 19:4, 7 — the same observation restated; verified WEB, not yet ingested.
+- Proverbs 19:4, 7 — the same observation restated; now ingested in the passage linked above.
 - [[I Know That My Redeemer Lives]] — Job 19:13–19.
 
 ## Analysis
@@ -34,6 +36,14 @@ Job 19 shows the cost of that sin to the one shunned. Neither text cites the oth
 thematic.
 
 Sources: Proverbs 14:20–21; 19:4, 7; Job 19:13–19, checked in stored WEB.
+
+### Proverbs 19 in context
+
+The ingested chapter now places the abandonment in its own moral setting. The poor person has
+integrity (19:1), pity for him counts as lending to Yahweh (17), and he ranks above a liar (22).
+Gifts attract friends in verse 6, but Yahweh's promised reward in verse 17 gives a reason to aid the
+person unable to purchase them. Job 19:13–21 is a thematic comparison, not a diagnosis that he has
+earned rejection. Source: stored WEB Proverbs 19:1, 4, 6–7, 17, 22; Job 19:13–21.
 
 ## Significance
 

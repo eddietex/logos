@@ -199,7 +199,21 @@ running to meet Jacob (33:4), Joseph weeping over his brothers' *pešaʿ* (50:17
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:11–13, 19
+
+Verse 11 gives honor to the person who overlooks an offense, while 13 likens a wife's quarrels to
+persistent dripping. Verse 19 observes that rescuing a hot-tempered man must be done again: rescue
+alone has not changed his disposition. Beside the king's dangerous wrath in 12, ordinary
+self-restraint matters. See [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]] and
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11–13, 19; Discretion overlooks
+  offense; habitual anger and household quarrels reproduce trouble.
 
 - [[A Strong Tower]] — Proverbs 18:1, 6, 17–19.
 

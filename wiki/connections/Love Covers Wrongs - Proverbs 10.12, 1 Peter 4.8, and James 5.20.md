@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 25, 27.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; hatred stirs up strife, love covers wrongs.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:9; and Proverbs 28:13 — covering an offense promotes love; concealing one's own sins
   contrasts with confession and renunciation (stored WEB; not yet ingested).
@@ -52,6 +54,15 @@ Masorah*). Its opposite is the man who *"repeats a matter"*, with the whisperer'
 *"separates best friends."* Covering is defined there as the refusal to retell. See
 [[A Dry Morsel with Quietness]] and [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
 Source: stored WEB Proverbs 10:12; 16:28; 17:9.
+
+### Proverbs 19 in context
+
+Proverbs 19:11 calls overlooking an offense honorable, extending the account of forbearance in 10:12
+and 17:9. The same chapter still condemns dishonest witness (5, 9, 28) and requires continued
+instruction (25, 27). Overlooking an offense is not a license to call lies true or refuse
+correction. This addition develops the comparison within Proverbs only, without a new claim about
+the New Testament texts or their original-language wording. Source: stored WEB Proverbs 10:12; 17:9;
+19:5, 9, 11, 25, 27–28.
 
 ## Significance
 

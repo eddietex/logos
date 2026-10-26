@@ -411,7 +411,21 @@ See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:2, 8, 11, 14, 20–21, 25, 27
+
+Zeal without knowledge and hasty action miss the way (2). Acquiring wisdom serves one's own life
+(8), discretion delays anger (11), and prudence in a wife is a gift from Yahweh (14). Receiving
+counsel promises wisdom in one's latter end (20), while Yahweh's counsel prevails over human plans
+(21). Rebuke teaches the understanding person (25); instruction must continue (27). The context
+makes divine sovereignty compatible with learning and deliberation.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:2, 8, 11, 14, 20–21, 25, 27; Knowledge
+  governs zeal, anger, household prudence, and lifelong reception of counsel.
 
 - [[A Strong Tower]] — Proverbs 18:4, 15.
 

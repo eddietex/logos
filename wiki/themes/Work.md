@@ -280,7 +280,20 @@ destruction are put in one family: the slacker does slowly what the destroyer do
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:15, 24
+
+Verse 15 connects idle sleep with hunger; verse 24 gives the comic extreme of a hand left in the
+dish instead of brought back to the mouth. Food is within reach in that picture. Neither saying
+establishes that every hungry person has refused available work or food: 19:1 honors an upright poor
+person, and 13:23 already names injustice as a cause of deprivation.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:15, 24; Idleness brings hunger; the
+  sluggard will not even lift food to his mouth.
 
 - [[A Strong Tower]] — Proverbs 18:9.
 

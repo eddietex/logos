@@ -363,7 +363,21 @@ The son listens (1); whoever despises instruction *"will pay for it"* while one 
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Integrity, counsel, and compassion — Proverbs 19:16, 18, 20, 25–27
+
+Keeping the commandment preserves one's soul (16), discipline is linked to hope and refusal of death
+(18), and counsel must keep being heard (20, 27). Verse 26's son robs his father and drives out his
+mother, a concrete opposite of Exodus 20:12's parental honor. No particular statute is identified by
+the commandment in verse 16. See
+[[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:16, 18, 20, 25–27; Keeping instruction
+  preserves life; refusing it and mistreating parents bring ruin and shame.
 
 - [[Hope Deferred]] — Proverbs 13:1, 13–14, 18, 24.
 

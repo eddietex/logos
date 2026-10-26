@@ -274,6 +274,9 @@ on which Job could not read his own case from the outside. See [[Retribution]] a
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:20–21 joins receiving counsel with
+  Yahweh’s prevailing counsel; 19:12 varies the royal favor image of 16:15.
+
 - [[A Way That Seems Right]] — Proverbs 14:12, repeated word for word at 16:25; 14:29 behind 16:32.
 - [[A Gentle Answer]] — Proverbs 15:1's *answer* behind 16:1; 15:8's sacrifice behind 16:6; 15:33's
   humility behind 16:18–19.

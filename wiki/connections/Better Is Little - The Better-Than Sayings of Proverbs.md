@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 22.
+
 - **Proverbs 15:16** — *"Better is little, with the fear of Yahweh, than great treasure with trouble."* —
   [[A Gentle Answer]]
 - **Proverbs 15:17** — *"Better is a dinner of herbs, where love is, than a fattened calf with hatred."* —
@@ -20,7 +22,7 @@ tags: [connection]
 - **Proverbs 17:1** — *"Better is a dry morsel with quietness, than a house full of feasting with strife."* —
   [[A Dry Morsel with Quietness]]
 - **Proverbs 19:1** — *"Better is the poor who walks in his integrity than he who is perverse in his lips
-  and is a fool."* *(not yet ingested)*
+  and is a fool."* — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 28:6** — *"Better is the poor who walks in his integrity, than he who is perverse in his ways,
   and he is rich."* *(not yet ingested)*
 - **Proverbs 3:14; 8:11, 19** — wisdom better than silver, gold, and rubies — see
@@ -59,6 +61,14 @@ portion. The sayings do not promise that it will be restored, as Job's was.
 
 Sources: Proverbs 3:14; 8:11, 19; 15:6, 16–17; 16:8, 19, 32; 17:1; 19:1; 28:6; Job 1:1; 2:9, checked in
 stored WEB. No claim is made about the Hebrew form of the comparative.
+
+### Proverbs 19 in context
+
+Proverbs 19:1 names the poor person's integrity and the opposing figure's crooked lips and folly; it
+does not explicitly call that figure rich. Verse 22 independently ranks the poor man above the liar.
+Poverty is not praised for itself: character supplies the ranking. The chapter's report of social
+abandonment (4, 7) and its call to pity the poor (17) show why this distinction matters. Source:
+stored WEB Proverbs 19:1, 4, 7, 17, 22; 28:6.
 
 ## Significance
 

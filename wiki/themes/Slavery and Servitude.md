@@ -182,7 +182,22 @@ that passage page.
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Integrity, counsel, and compassion — Proverbs 19:10
+
+Verse 10 calls a servant's rule over princes inappropriate, preserving a social hierarchy.
+**Explicit tension with 17:2:** there a servant who acts wisely rules over a shameful son and shares
+the inheritance. The latter specifies wisdom and household succession; 19:10 speaks of rule over
+princes without supplying the servant's character. Different settings limit a direct contradiction,
+but do not remove the difference between defending rank and allowing competence to overturn it.
+Neither proverb is a complete account of servitude.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:10; Resistance to a servant ruling
+  princes stands in tension with the wise servant’s elevation in 17:2.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:2.
 

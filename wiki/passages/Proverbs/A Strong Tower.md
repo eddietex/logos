@@ -252,6 +252,10 @@ these are general sayings and not verdicts on any particular person. See [[Retri
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:13–14 distinguishes the quarrelsome
+  wife from the prudent wife given by Yahweh, qualifying a flat reading of 18:22; 19:4, 7 tests
+  friendship beside 18:24.
+
 - [[A Dry Morsel with Quietness]] — 17:9, 14, 17, 22, 23 behind 18:1, 5, 14, 24.
 - [[The Plans of the Heart]] — 16:18, 28, 33 behind 18:8, 12, 18.
 - [[A Gentle Answer]] — 15:13, 33, repeated at 18:12, 14.

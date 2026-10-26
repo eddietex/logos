@@ -172,7 +172,21 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Integrity, counsel, and compassion — Proverbs 19:11, 17, 22
+
+Discretion restrains anger and overlooks an offense (11); pity for the poor is an act Yahweh
+undertakes to reward (17); kindness makes a person desirable (22, following the WEB). Compassion is
+not limited to people who can return the favor. See
+[[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]] . This comparison makes no claim about
+shared Hebrew vocabulary.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 17, 22; Overlooking an offense and
+  pity for the poor join practical kindness to divine reward.
 
 - [[The Plans of the Heart]] — Proverbs 16:6.
 

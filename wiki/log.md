@@ -16579,3 +16579,66 @@ to the Masorah*, read 2026-10-25, for Proverbs 8:35; 10:11, 14–15; 12:14; 13:2
 Judges 9:51; Psalm 18:2; 20:1; 61:3; Job 32:11; 41:3 (Hebrew verse numbers given on the pages). Root
 identifications (*ʿzz*, *śgb*, *pšʿ*, *ḥqr*, *glʿ*) are flagged on the pages as unchecked against a
 lexicon. `scripts/link-check.sh` ran at the end of the pass and exited 0.
+
+## [2026-10-26] ingest | Proverbs 19.1-29 — Better Is the Poor Who Walks in Integrity
+
+Ingested [[Better Is the Poor Who Walks in Integrity]]. Retained the planned Proverbs 19:1–29
+boundary and advanced exactly one queue item. The unattended discussion is on the passage page:
+integrity above dishonest speech; wealth-dependent friends and the abandoned poor; repeated
+condemnation of false witness; rank and the servant; restraint of anger; royal favor as dew;
+quarrels and prudence in the household; hunger through idleness; keeping the commandment;
+pity for the poor as lending to Yahweh; hopeful correction; counsel received and Yahweh's counsel
+prevailing; kindness, life, and contentment; and the different learners in the punishment sayings.
+
+**Interpretive decisions and tensions.** Generic figures receive no person pages, and no
+geographical place is named. Solomon is collection attribution only; Job is included as a
+comparison, not as a participant. The WEB of 19:1 does not call the perverse fool rich; 19:18 does
+not itself name a rod; and 19:25 says the simple person learns from the scoffer's flogging, not
+that the scoffer becomes wise. These are English-text observations, not Hebrew claims. The promise
+of untouched safety in 19:23 remains explicitly in tension with the God-fearing Job's undeserved
+losses and sores (Job 1:1, 8, 13–19; 2:3, 7). The hierarchy defended in 19:10 is compared with the
+wise servant's elevation in 17:2 without suppressing their different circumstances. Hunger through
+idleness (19:15) is not made a diagnosis of all poverty beside integrity in 19:1 and injustice in
+13:23. The lending image specifies no financial return or timetable, and physical punishment is
+recorded without deriving a contemporary disciplinary procedure.
+
+**Created (4):** the passage above and three connections:
+[[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]],
+[[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]], and
+[[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]].
+
+**Revised content pages (51):** [[Proverbs]]; [[God]], [[Solomon]], and [[Job (person)]];
+25 themes — [[Integrity]], [[The Poor and the Vulnerable]], [[Compassion and Mercy]],
+[[Wealth and Possessions]], [[Language and Speech]], [[Deception]], [[Judgment]], [[Wisdom]],
+[[Folly]], [[Work]], [[Providence]], [[The Fear of God]], [[Retribution]], [[Marriage]],
+[[Strife and Peacemaking]], [[Law and Obedience]], [[Life and Death]], [[Love]], [[Brotherhood]],
+[[Forgiveness]], [[Kingship and Empire]], [[Favor and Grace]], [[Slavery and Servitude]], [[Hope]],
+and [[Suffering]]; eight existing connections —
+[[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]],
+[[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]],
+[[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]],
+[[Better Is Little - The Better-Than Sayings of Proverbs]],
+[[Slow to Anger - Proverbs 14.29 and Exodus 34.6]],
+[[The Light of the King's Face - Proverbs 16.15 and Job 29.23-25]],
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]], and
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]]; and fourteen earlier passage
+pages receiving reciprocal references. The newly ingested Proverbs 19 verses no longer carry
+forward-status labels on the affected connections. Theme and person pages receive both synthesis
+and passage-list updates.
+
+**Indexes and totals.** Revised ten index/dashboard files: books, the wiki dashboard, themes,
+People Index F-M and N-Z, and all five Connections subindexes. Each new or revised category page's
+row was added or updated. Proverbs is now 27 / 43 pericopes and remains in progress. Counts by
+frontmatter are 171 passages, 179 people, 90 places, 83 themes, and 443 connections; four books
+started, three complete. Including this log, the pass creates four pages and revises 62 existing
+wiki files. No new person, place, or theme page was needed, and no index range needed redrawing.
+
+**Sources and validation.** All newly quoted Scripture was checked in the stored WEB, with the
+supporting verse list recorded on the passage page. The twelve key-verse excerpts match raw text
+exactly. No unreached book was fetched, existing raw text is unchanged, and no new source-language
+claim was made. Earlier external and Hebrew comparisons on existing connection pages retain their
+own dated source documentation. Category checks confirm exactly one row for every person, place,
+theme, and connection page; the queue advances exactly one item. `scripts/link-check.sh` exits 0
+with clean wrapped-link and target checks; the expected baseline is 62 not-yet-started books.
+`git diff --check` is clean. No operational blocker or unresolved link remains; the interpretive
+tensions above are preserved for the reader.

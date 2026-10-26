@@ -374,7 +374,21 @@ and *"the rich answer harshly"* (23). See
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:1, 4, 6–7, 14, 17, 22
+
+Wealth and gifts attract company (4, 6), while poverty drives it away (7). These observations do not
+supply the chapter's standard of worth: integrity and honesty do (1, 22). Inherited houses and
+riches are distinguished from the prudent wife given by Yahweh (14), and help for the poor is
+pictured as a loan to him (17). The metaphor promises divine reward without naming a rate,
+timetable, or guarantee of increased cash.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 6–7, 14, 17, 22; Wealth attracts
+  friends; integrity outranks it, and generosity to the poor is credited to Yahweh.
 
 - [[A Strong Tower]] — Proverbs 18:11, 16, 23.
 

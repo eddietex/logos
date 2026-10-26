@@ -188,7 +188,20 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Integrity, counsel, and compassion — Proverbs 19:1, 22
+
+The opening comparison honors the poor person who walks in integrity (19:1); verse 22 again ranks a
+poor man above a liar. Neither comparison claims that every poor person is upright, or promises that
+integrity will make him rich. They rule out treating poverty itself as proof of moral failure. See
+[[Better Is Little - The Better-Than Sayings of Proverbs]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 22; Poverty with integrity outranks
+  dishonest speech; wealth is no moral verdict.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:26.
 

@@ -127,7 +127,21 @@ blessed Yahweh's name (Job 1:21) and was not spared.
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:3–7, 23
+
+Verse 3 describes a person ruining his own way and blaming Yahweh; verses 4 and 7 describe
+deprivation intensified by social abandonment. Those are different accounts of distress. **Explicit
+contradiction in a universal reading of 19:23:** the God-fearing Job is touched by severe trouble
+(Job 1:1, 8, 13–19; 2:3, 7). The book itself calls his ruin without cause. See
+[[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3–7, 23; Folly can bring trouble, but
+  Job prevents using that diagnosis for every sufferer.
 
 - [[A Strong Tower]] — Proverbs 18:14.
 

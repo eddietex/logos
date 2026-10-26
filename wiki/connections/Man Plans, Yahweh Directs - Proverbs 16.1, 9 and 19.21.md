@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:20–21.
+
 - **Proverbs 16:1** — *"The plans of the heart belong to man, but the answer of the tongue is from
   Yahweh."* — [[The Plans of the Heart]]
 - **Proverbs 16:3** — *"Commit your deeds to Yahweh, and your plans shall succeed."* —
@@ -16,7 +18,7 @@ tags: [connection]
 - **Proverbs 16:33** — *"The lot is cast into the lap, but its every decision is from Yahweh."* —
   [[The Plans of the Heart]]
 - **Proverbs 19:21** — *"There are many plans in a man's heart, but Yahweh's counsel will prevail."*
-  *(stored WEB, not yet ingested)*
+  — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 20:24** — *"A man's steps are from Yahweh; how then can man understand his way?"*
   *(stored WEB, not yet ingested)*
 - **Proverbs 21:30–31** — *"There is no wisdom nor understanding nor counsel against Yahweh. The horse
@@ -77,6 +79,13 @@ his way (Proverbs 20:24).
 Sources: Proverbs 16:1, 3, 9, 33; 19:21; 20:24; 21:30–31; Genesis 50:20; Job 42:2, checked in stored
 WEB. Psalm 37:5; Jeremiah 10:23–24; and James 4:13–15 checked at bible-api.com (WEB). Hebrew of
 Proverbs 16:1, 3, 9; Psalm 37:5; Jeremiah 10:23 from Sefaria, 2026-10-25.
+
+### Proverbs 19 in context
+
+Proverbs 19:20 commands receiving counsel immediately before 19:21 says Yahweh's counsel prevails.
+Human plans are plural and limited, but listening is still commanded. The juxtaposition makes divine
+sovereignty a limit on self-sufficiency rather than a reason to stop learning. Verse 3 also keeps
+the fool responsible for his ruined way. Source: stored WEB Proverbs 19:3, 20–21.
 
 ## Significance
 

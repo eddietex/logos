@@ -179,7 +179,20 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:6, 12, 14
+
+Verse 6 observes people seeking a ruler's favor and befriending a giver; verse 12 compares the
+king's favor to dew on grass. These are social and political uses of favor, with no claim that every
+gift is corrupt. Verse 14 separately names the prudent wife as from Yahweh. See
+[[The Light of the King's Face - Proverbs 16.15 and Job 29.23-25]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 12, 14; Royal goodwill is sought
+  and pictured as dew; household prudence is a divine gift.
 
 - [[A Strong Tower]] — Proverbs 18:22.
 

@@ -73,6 +73,19 @@ asserts one immediately after eight verses establishing that his brothers, relat
 servants, wife, and children are gone or estranged. The claim is made precisely in the hole the
 speech has just dug. See [[The Redeemer and the Avenger of Blood]].
 
+### Proverbs 19 in comparison
+
+Job is not named in Proverbs 19. The comparison places his retained integrity (Job 2:3) beside 19:1,
+his abandoned relatives and friends (Job 19:13–21) beside 19:4, 7, and his account of care for the
+poor (Job 31:16–23) beside 19:17. **Explicit contradiction in an unconditional reading:** Proverbs
+19:23 promises the God-fearing person freedom from trouble; Job 1:1, 8 affirms his fear of God
+before 1:13–19 and 2:7 narrate his suffering. His story must not be relabeled as 19:3's self-caused
+folly to protect that reading. See
+[[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Sources: stored WEB references cited above;
+Proverbs 10:1; 19:1–29.
+
 ## Timeline / key events
 
 Prose prologue and epilogue (Job 1–2, 42:7–17), given here as background for the ingested
@@ -235,6 +248,9 @@ speeches; each becomes a linked passage page as it is ingested.
   full of days"* (42:17). **He is never told about the wager.**
 
 ## Appears in
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 7, 17, 23; Comparative only:
+  integrity amid poverty, abandoned kinship, generosity, and undeserved trouble.
 
 - [[Job of Uz]] — his introduction: the narrator's fourfold verdict, the household, the wealth, and
   the burnt offerings offered for sins his children may not have committed.

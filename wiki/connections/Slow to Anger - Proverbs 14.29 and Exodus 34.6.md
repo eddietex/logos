@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 19.
+
 - [[A Way That Seems Right]] — Proverbs 14:17, 29.
 - [[The Covenant Renewed]] — Exodus 34:6, Yahweh's proclamation of his name.
 - [[A Gentle Answer]] — Proverbs 15:18, *"one who is slow to anger appeases strife"*, beside 15:1's gentle
   answer that *"turns away wrath"*.
 - [[The Plans of the Heart]] — Proverbs 16:32, *"better than the mighty"*.
-- Proverbs 19:11 — a later use of the phrase; verified WEB, not yet ingested.
+- Proverbs 19:11 — a further use of the phrase; now ingested in the passage linked above.
 
 ## Analysis
 
@@ -43,6 +45,14 @@ either text — Proverbs 14:35 has a king's wrath fall rightly on the servant *"
 See also [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]].
 
 Sources: Proverbs 14:17, 29, 35; 15:18; 16:32; 19:11; Exodus 34:6–7, checked in stored WEB.
+
+### Proverbs 19 in context
+
+Proverbs 19:11 locates delayed anger in discretion and calls overlooking an offense a person's
+glory. Verse 19 supplies a contrasting pattern: a hot-tempered man incurs a penalty and repeatedly
+needs rescue. The glory is therefore tied to restraint rather than successful retaliation. The
+comparison with Exodus 34:6 remains an English thematic comparison; no Hebrew identity is newly
+asserted. Source: stored WEB Proverbs 19:11, 19; Exodus 34:6–7.
 
 ## Significance
 

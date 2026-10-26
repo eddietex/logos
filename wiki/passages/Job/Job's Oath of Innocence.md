@@ -242,6 +242,10 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:17 commends the care for the poor that
+  Job 31:16–23 describes under oath. See [[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]]
+  .
+
 - [[The Plans of the Heart]] — Proverbs 16:2, 11; Yahweh weighs the motives and owns the scales.
 - [[A False Balance]] — Proverbs 11:1, 24–28; the even balance, giving rather than withholding, and
   refusing to trust riches. See [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]] and

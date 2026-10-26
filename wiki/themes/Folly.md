@@ -189,7 +189,21 @@ hearing is *"folly and shame to him"* (13). See
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:1–3, 10, 13, 25, 29
+
+The foolish person subverts his own way and then rages against Yahweh (3), a diagnosis of this
+person's conduct rather than an explanation of every sufferer's anger. Delicate living does not suit
+a fool (10), and a foolish son is his father's calamity (13). Verse 25 does not say that flogging
+makes the scoffer wise: the simple observer learns, while an understanding person learns from
+rebuke. This distinction prevents treating punishment and wisdom as automatic equivalents.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–3, 10, 13, 25, 29; Folly ruins a
+  way, then blames Yahweh; the foolish son damages his household.
 
 - [[A Strong Tower]] — Proverbs 18:2, 6–7, 13.
 

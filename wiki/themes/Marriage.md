@@ -198,7 +198,21 @@ of later chapters. See [[Wisdom at the Creation]].
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:13–14
+
+The household's grief in a foolish son and a quarrelsome wife (13) is followed by the prudent wife
+from Yahweh (14). This qualifies a flat reading of 18:22's favorable statement about finding a wife:
+the collection recognizes harmful as well as beneficial marriages. Houses and riches can be
+inherited, but the wife’s prudence is attributed to Yahweh rather than secured by the inheritance.
+No named marriage is identified.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:13–14; A quarrelsome wife is continual
+  dripping; a prudent wife is Yahweh’s gift.
 
 - [[A Strong Tower]] — Proverbs 18:22.
 

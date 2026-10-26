@@ -337,7 +337,22 @@ first seems right; until another comes and questions him"* (17); and where the s
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:5, 9, 19, 25, 28–29
+
+The false witness will be punished (5, 9), and corrupt testimony mocks justice (28). The
+hot-tempered man incurs a penalty that repeated rescue will not finally remove (19). Verse 25
+distinguishes the simple person learning from a scoffer's flogging from the discerning person
+learning through rebuke; verse 29 returns to penalties and beatings. The sayings do not establish a
+new legal schedule of punishments. See
+[[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 19, 25, 28–29; Witnesses answer
+  for lies; penalties and rebuke expose distinct responses to correction.
 
 - [[A Strong Tower]] — Proverbs 18:5, 17–18.
 

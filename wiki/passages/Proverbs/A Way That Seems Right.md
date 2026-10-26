@@ -177,6 +177,9 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 7 extends 14:20’s abandonment of
+  the poor; 19:17 supplies the divine reward of pity; 19:11 develops restraint of anger.
+
 - [[The Plans of the Heart]] — Proverbs 16:25, 14:12 repeated word for word; 16:32's *slow to anger*.
 - [[A Gentle Answer]] — Proverbs 15:18, *slow to anger* again after 14:29; 15:13, 15 beside 14:10, 13.
 - [[The Two Feasts]] — Proverbs 9:1; Wisdom's built house behind 14:1's wise woman.

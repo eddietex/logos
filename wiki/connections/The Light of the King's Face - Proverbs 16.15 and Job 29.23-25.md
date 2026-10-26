@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 12.
+
 - **Proverbs 16:14–15** — *"The king's wrath is a messenger of death, but a wise man will pacify it. In
   the light of the king's face is life. His favor is like a cloud of the spring rain."* —
   [[The Plans of the Heart]]
@@ -15,7 +17,7 @@ tags: [connection]
   way, and sat as chief. I lived as a king in the army, as one who comforts the mourners."* —
   [[The Months of Old]]
 - **Proverbs 19:12** — *"The king's wrath is like the roaring of a lion, but his favor is like dew on
-  the grass."* *(stored WEB, not yet ingested)*
+  the grass."* — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 20:2** — *"The terror of a king is like the roaring of a lion. He who provokes him to anger
   forfeits his own life."* *(stored WEB, not yet ingested)*
 - **Proverbs 14:35** — *"The king's favor is toward a servant who deals wisely, but his wrath is toward
@@ -50,12 +52,20 @@ have put *"with my sheep dogs"*. Proverbs states the king's favour as a fixed go
 favour of a whole town, as a king does, and saw it gone. The wiki keeps the two side by side as it has
 kept the sentence collection's other promises beside Job.
 
-**The lion's roar.** Proverbs 19:12 and 20:2 will restate 16:14–15 with a harder image for the wrath —
+**The lion's roar.** Proverbs 19:12 and 20:2 restate 16:14–15 with a harder image for the wrath —
 *"like the roaring of a lion"* — and 19:12 a gentler one for the favour, *"dew on the grass"*.
 
 Sources: Proverbs 14:35; 16:12–15; 19:12; 20:2; Job 29:12–16, 21–25; 30:1, checked in stored WEB. Hebrew
 of Proverbs 16:15 and Job 29:23–24 from Sefaria, 2026-10-25. Which text, if either, knew the other is
 not claimed.
+
+### Proverbs 19 in context
+
+Proverbs 19:12, now ingested, gives the royal contrast a lion's roar and dew on grass. The former
+threatens; the latter refreshes. Verse 6 places that unequal power in a social setting: many seek a
+ruler's favor. No particular king is named and no justice is guaranteed merely by the dew image.
+This addition compares the stored WEB of Proverbs 16:14–15 and 19:6, 12; it makes no new claim about
+Hebrew wording.
 
 ## Significance
 

@@ -274,7 +274,20 @@ mouth's fruit fills the stomach (20), and *"Death and life are in the power of t
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:1, 5, 9, 20, 22, 27–28
+
+Verses 5 and 9 repeat the WEB sentence about a false witness not escaping punishment, then vary the
+liar's outcome: no escape (5), perishing (9). The corrupt witness mocks justice (28). Listening to
+counsel (20) and continuing in instruction (27) provide the counter-practice. See
+[[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 5, 9, 20, 22, 27–28; False
+  testimony receives repeated condemnation; listening remains the route to knowledge.
 
 - [[A Strong Tower]] — Proverbs 18:2, 4, 6–8, 13, 17, 20–21.
 

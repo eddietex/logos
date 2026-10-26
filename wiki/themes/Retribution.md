@@ -346,7 +346,22 @@ safety stands against Job 1:21, where Job blesses Yahweh's name and is not kept 
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:3, 5, 9, 15–19, 23, 29
+
+Folly ruins a way (3), lies bring punishment (5, 9), idleness brings hunger (15), and pity for the
+poor receives divine reward (17). Yet the same chapter values the upright poor (1, 22). **Explicit
+tension:** 19:23 says the God-fearing person will not be touched by trouble; Job 1:1, 8; 1:13–19;
+2:3, 7 depicts precisely such a person afflicted without cause. These statements cannot both be used
+as exceptionless predictions of present circumstances. See
+[[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3, 5, 9, 15–19, 23, 29; Consequences
+  and promised safety remain alongside the upright poor and Job’s counterexample.
 
 - [[A Strong Tower]] — Proverbs 18:6–7, 10–12, 20–21.
 

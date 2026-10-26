@@ -244,6 +244,10 @@ quietly making room for chapter 3.
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23 promises safety to the God-fearing,
+  while Job 1:8, 13–19 affirms the fear of God and narrates loss. See
+  [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
 - [[Hope Deferred]] — Proverbs 13:21's prosperity for the righteous against 1:13–19.
 - [[Whoever Loves Correction]] — Proverbs 12:7, 21; the righteous house’s promised stability stands in tension with Job 1:18–22.
 

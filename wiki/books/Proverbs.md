@@ -225,6 +225,14 @@ of the tongue"* (21). The man who finds a wife *"obtains favor of Yahweh"* (22) 
 8:35, and the chapter ends on *"a friend who sticks closer than a brother"* (24). It repeats more
 earlier and later lines than any chapter so far.
 
+[[Better Is the Poor Who Walks in Integrity]] (19:1–29) ranks integrity and honesty above poverty's
+social disadvantages. Friends follow wealth and gifts, while the poor are deserted (4, 6–7); pity
+for them is lending to Yahweh (17). The chapter joins restraint of anger, household prudence,
+correction, and listening to counsel with the claim that Yahweh's counsel prevails (21). Its safety
+promise (23) remains explicitly in tension with Job's God-fearing suffering. The servant's rule over
+princes judged inappropriate (10) also sits uneasily beside the wise servant's elevation in 17:2;
+different settings are retained rather than turned into a single rule.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -283,7 +291,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Plans of the Heart]] — Proverbs 16:1–33
 - [x] [[A Dry Morsel with Quietness]] — Proverbs 17:1–28
 - [x] [[A Strong Tower]] — Proverbs 18:1–24
-- [ ] Better Is the Poor Who Walks in Integrity — Proverbs 19:1–29
+- [x] [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–29
 - [ ] Wine Is a Mocker — Proverbs 20:1–30
 - [ ] The King's Heart — Proverbs 21:1–31
 - [ ] A Good Name — Proverbs 22:1–16

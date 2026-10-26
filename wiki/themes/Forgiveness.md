@@ -118,7 +118,21 @@ checked in stored WEB, 2026-10-25.
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Integrity, counsel, and compassion — Proverbs 19:11
+
+Discretion delays anger and makes overlooking an offense honorable (11). Like 17:9's covering, this
+describes a response to another person's wrong, not a denial that it happened. The same chapter
+condemns false witnesses (5, 9, 28) and praises instruction (20, 25, 27), so forbearance does not
+erase truth or correction. See [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]]
+.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11; Overlooking an offense is called
+  glory, alongside continued correction and truthful judgment.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:9.
 

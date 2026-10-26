@@ -223,6 +223,10 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 7 describes the abandoned poor
+  person beside Job 19:13–21’s testimony and plea for pity; the parallel does not blame Job for the
+  abandonment.
+
 - [[Get Wisdom]] — Proverbs 4:9 promises the crown Job describes losing; see
   [[The Crown Given and Taken - Proverbs 4 and Job 19]] .
 

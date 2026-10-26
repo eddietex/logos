@@ -245,6 +245,10 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23’s freedom from trouble cannot be an
+  exceptionless guarantee beside Job 2:3, 7’s undeserved ruin and sores. See
+  [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
 - [[Whoever Loves Correction]] — Proverbs 12:21’s righteous safety meets Job 2:3, 7’s undeserved ruin and bodily affliction.
 
 - [[A False Balance]] — Proverbs 11:8, 21 promises deliverance; Job 2:3 explicitly preserves the

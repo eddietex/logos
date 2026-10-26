@@ -262,6 +262,10 @@ and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:10 resists a servant ruling princes,
+  in explicit tension with 17:2’s wise servant ruling a shameful son; 19:7 also tests the constancy
+  praised in 17:17.
+
 - [[The Plans of the Heart]] — 16:31's *crown of glory* divided at 17:6; 16:28's whisperer behind 17:9;
   16:2's weighing behind 17:3.
 - [[A Gentle Answer]] — Proverbs 15:16–17, the better-than sayings 17:1 continues.

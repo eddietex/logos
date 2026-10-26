@@ -167,6 +167,10 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:15’s hunger through idleness must
+  remain distinct from 13:23’s food lost to injustice; 19:18 takes up hopeful correction beside
+  13:24.
+
 - [[A Gentle Answer]] — Proverbs 15:4, the next tree of life after 13:12.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1; the collection's opening son and father.
 - [[Whoever Loves Correction]] — Proverbs 12:1; love of correction, here given its parental side.

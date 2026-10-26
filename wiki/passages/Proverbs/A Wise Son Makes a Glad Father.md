@@ -144,6 +144,9 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11’s overlooking an offense extends
+  10:12’s account of love covering wrongs.
+
 - [[A Gentle Answer]] — Proverbs 15:20, a near-doublet of 10:1 in the WEB.
 - [[Hope Deferred]] — Proverbs 13:1; the wise son and his father again.
 - [[Whoever Loves Correction]] — Proverbs 12:1, 15; teachability develops the correction of Proverbs 10:17.

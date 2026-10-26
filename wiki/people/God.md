@@ -2149,6 +2149,19 @@ And the man who finds a wife *"obtains favor of Yahweh"* (22), in the words Wisd
 [[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]]. Source:
 stored WEB Proverbs 8:35; 18:10–11, 22.
 
+### Proverbs 19 in comparison
+
+Yahweh is named five times in Proverbs 19. The fool rages against him after ruining his own way (3);
+the prudent wife comes from him (14); pity for the poor is lending to him, with his reward promised
+(17); and his counsel prevails over human plans (21). Fear of him brings life and promised safety
+(23). **Tension:** Job 1:1, 8; 1:13–19; 2:3, 7 shows the God-fearing person suffering without cause.
+The promise is not used to deny that narrative. See
+[[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]] and
+[[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .
+
+See [[Better Is the Poor Who Walks in Integrity]] . Sources: stored WEB references cited above;
+Proverbs 10:1; 19:1–29.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2421,6 +2434,9 @@ stored WEB Proverbs 8:35; 18:10–11, 22.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3, 14, 17, 21, 23; Gives the prudent
+  wife, rewards compassion for the poor, and establishes his counsel.
 
 - [[A Strong Tower]] — Proverbs 18:10, 22; the name as strong tower, the giver of favour.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:3, 5, 15; testing hearts, Maker of the poor, abhorring perverted judgment.

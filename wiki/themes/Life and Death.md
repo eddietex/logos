@@ -338,7 +338,21 @@ is food, and it can kill.
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Integrity, counsel, and compassion — Proverbs 19:8–9, 16, 18, 23
+
+Wisdom benefits one's own soul (8), lies end in perishing (9), keeping the commandment guards life
+(16), and correction is framed by hope and avoidance of the son's death (18). Verse 23 promises
+life, contentment, and safety to the God-fearing. Job's affliction remains an explicit
+counterexample to treating that safety as an unconditional promise; the chapter supplies no
+timetable for resolving the tension.
+
+See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
+comparisons documented on that passage page.
+
 ## Key passages
+
+- [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:8–9, 16, 18, 23; Wisdom, commandment,
+  correction, and fear of Yahweh point toward life.
 
 - [[A Strong Tower]] — Proverbs 18:21.
 
