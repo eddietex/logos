@@ -311,6 +311,16 @@ and the trap.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Words ready on the lips — Proverbs 22:18, 21; 23:8–9
+
+The preface to *"the words of the wise"* wants its teaching *"ready on your lips"* (22:18) and aims at
+*"truth, reliable words, to give sound answers to the ones who sent you"* (22:21) — the pupil as a
+messenger whose report must be accurate. Two later verses name speech wasted: the guest at a stingy
+host's table will *"lose your good words"* (23:8), the compliments paid for a meal not meant; and
+*"Don't speak in the ears of a fool, for he will despise the wisdom of your words"* (23:9).
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -568,6 +578,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[The Young Man Void of Understanding]] — Proverbs 7:14–21; the strange woman's speech, *leqaḥ* and flattering lips
 - [[Wisdom Calls at the Gates]] — Proverbs 8:6–9, 13; Wisdom's straight, plain, truthful words against the perverse mouth
 - [[A Good Name]] — Proverbs 22:11–12, 14; Gracious lips, frustrated words, and the adulteress's mouth.
+- [[Thirty Excellent Things]] — Proverbs 22:18, 21; 23:8–9; Words ready on the lips, reliable answers, good words wasted.
 
 ## Related themes
 

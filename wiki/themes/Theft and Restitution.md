@@ -97,6 +97,15 @@ procedure. See [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]].
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Robbing the poor and moving the stone — Proverbs 22:22–23, 28; 23:10
+
+Two thefts the law cannot easily catch. The poor man is exploited *"because he is poor"* (22:22), and
+those who plunder him are themselves plundered (22:23). And the boundary stone is moved — *"Don't move the
+ancient boundary stone, which your fathers have set up"* (22:28), repeated with the victim named at 23:10,
+*"the fields of the fatherless"*. Moving a marker steals land without a single visible act of violence.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:10, 14, 17, 23; Fraudulent gain condemned without a restitution tariff.
@@ -115,6 +124,7 @@ passage page.
   deposits, oaths, and the keeper's liability
 - [[The Lamp of the Commandment]] — Proverbs 6:30–31; the hungry thief, not despised, who still
   restores sevenfold
+- [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10; Robbing the poor and moving the boundary stone.
 
 ## Related themes
 - [[Wealth and Possessions]] — what theft takes; ownership and its duties

@@ -258,8 +258,10 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 - Leviticus 25:25, 47–49 — the *gōʾēl* redeeming land and redeeming a kinsman out of slavery.
 - Numbers 35:12, 19–27; Deuteronomy 19:6, 12 — the *gōʾēl haddām*, the avenger of blood.
 - Ruth 3:9–4:10 — the *gōʾēl* narrative the term is best known from.
-- Proverbs 23:10–11 — *"their Redeemer is strong. He will plead their cause against you"*, God as
-  *gōʾēl* of the fatherless, and the closest verbal parallel to Job 19:25 outside Isaiah.
+- Proverbs 23:10–11 — *"for their Defender is strong. He will plead their case against you"* (WEB),
+  where *Defender* renders *gōʾēl* (Sefaria, *Miqra according to the Masorah*, read 2026-10-26): God
+  as *gōʾēl* of the fatherless, and the closest verbal parallel to Job 19:25 outside Isaiah. See
+  [[Thirty Excellent Things]].
 - Exodus 6:6; Isaiah 41:14; 43:14; 44:6, 24; 47:4; 54:5 — God as Israel's Redeemer, the sense in
   which the title became standard.
 - Psalm 22:14–18; 31:11–13; 38:11; 88:8, 18 — the psalms of abandonment by kin and acquaintance,
@@ -269,6 +271,7 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 - 1 Corinthians 15:12–57; 1 John 3:2 — *"we will see him just as he is"*, the New Testament's
   version of 19:26–27's hope of seeing.
 - [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]] — the estranged kin and friends of 19:13–19 beside Proverbs 14:20's shunned poor man in [[A Way That Seems Right]].
+- [[Thirty Excellent Things]] — Proverbs 23:11, the fatherless's *Defender*, Hebrew *gōʾēl*.
 
 ## Notes
 

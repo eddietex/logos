@@ -178,6 +178,15 @@ checked in stored WEB, 2026-10-25.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The ancient boundary stone — Proverbs 22:28; 23:10
+
+*"Don't move the ancient boundary stone, which your fathers have set up"* (22:28). The land is held by
+inheritance, and its edge is a stone the fathers set; moving it takes a neighbour's inheritance a
+furrow at a time. At 23:10 the command is repeated with its most exposed victim: *"Don't encroach on the
+fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry the law behind it.
+
+See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[A Gentle Answer]] — Proverbs 15:25.
@@ -457,6 +466,7 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Exodus closes with a dwelling for God and continuing journeys for Israel.
 - [[If You Seek Her as Silver]] — Proverbs 2:21–22; the upright dwell in the land, the wicked cut off and rooted out; the tension with the sojourners and Job recorded
+- [[Thirty Excellent Things]] — Proverbs 22:28; 23:10; The ancient boundary stone set by the fathers.
 
 ## Related themes
 

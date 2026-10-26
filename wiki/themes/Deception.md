@@ -243,6 +243,17 @@ the false witness perishes (28). See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The deceitful meal — Proverbs 23:3, 7
+
+*"Don't be desirous of his dainties, since they are deceitful food"* (23:3) — in Hebrew, *bread of lies*
+(Sefaria, *Miqra according to the Masorah*, read 2026-10-26). The stingy host shows the mechanism: *"'Eat
+and drink!' he says to you, but his heart is not with you"* (23:7). The deception is the gap between a
+generous word and a counting heart. Genesis 27's savory food, the same noun as 23:3's *dainties*, was
+the instrument of Jacob's deception of Isaac; see
+[[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]].
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 8, 28; Treasure by a lying tongue and the false witness.
@@ -446,6 +457,7 @@ the passage page.
 - [[Do Not Consent to Sinners]] — Proverbs 1:10–14; enticement (*p-t-h*) by an offer that leaves out its last line
 - [[The Young Man Void of Understanding]] — Proverbs 7:10, 21; the prostitute's dress, the guarded heart, the persuasive
   words
+- [[Thirty Excellent Things]] — Proverbs 23:3, 7; Deceitful food, and a host whose heart is not with his words.
 
 ## Related themes
 

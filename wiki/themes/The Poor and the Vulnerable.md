@@ -200,6 +200,18 @@ without its consequence.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The poor in court and the fatherless's field — Proverbs 22:22–23; 23:10–11
+
+The first command of *"the words of the wise"* names the motive it forbids: *"Don't exploit the poor,
+because he is poor"* — because no one will stop it — *"and don't crush the needy in court; for Yahweh
+will plead their case, and plunder the life of those who plunder them"* (22:22–23). The block closes on
+the matching case: *"Don't encroach on the fields of the fatherless: for their Defender is strong. He
+will plead their case against you"* (23:10–11). Both verses give the weak an advocate where they have
+none. Job 24:2–3 records the same crimes going on without visible intervention, and the wiki keeps both
+(see [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]).
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Job 24:2–3.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:13; Stopped ears answered by an unheard cry.
@@ -240,6 +252,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
   under God's protection
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:15; rich and poor pay the same ransom.
 - [[A Good Name]] — Proverbs 22:2, 7, 9, 16; One Maker of rich and poor; the poor fed, not oppressed.
+- [[Thirty Excellent Things]] — Proverbs 22:22–23; 23:10–11; The poor in court and the fatherless's field, both defended by Yahweh.
 
 ## Related themes
 

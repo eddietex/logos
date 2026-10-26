@@ -10,6 +10,7 @@ tags: [connection]
 - [[Wine Is a Mocker]] — Proverbs 20:14, 17, 21.
 - [[The Two Feasts]] — Proverbs 9:17–18.
 - [[Zophar's Second Speech]] — Job 20:12–15.
+- [[Thirty Excellent Things]] — Proverbs 23:1–3, 6–8.
 
 ## Analysis
 
@@ -31,6 +32,15 @@ against enjoying fraud does not prove that someone who suffers has committed fra
 
 Sources: stored WEB Proverbs 9:17–18; 20:14, 17, 21; Job 2:3; 20:12–15. The comparison follows
 the WEB images and makes no claim about identical source-language wording.
+
+### Proverbs 23 in context
+
+Two tables in [[Thirty Excellent Things]] carry the same reversal. The ruler's dainties are *"deceitful
+food"* (23:3), and at the stingy host's *"The morsel which you have eaten you shall vomit up, and lose
+your good words"* (23:8) — Zophar's verb for riches swallowed and cast out (Job 20:15), here applied to a
+meal whose welcome was false. See also
+[[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]]. Source: stored WEB
+Proverbs 23:3, 8; Job 20:15. Shared imagery does not establish quotation.
 
 ## Significance
 

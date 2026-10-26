@@ -134,6 +134,17 @@ See [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]].
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Trust as the goal of instruction — Proverbs 22:19
+
+The preface to *"the words of the wise"* gives its counsel a single stated end: *"I teach you today,
+even you, So that your trust may be in Yahweh"* (22:19). Where 1:7 made the fear of Yahweh the
+*beginning* of knowledge and 3:5 commanded trust, 22:19 makes trust the *purpose* of a collection of
+practical commands about courts, debts, boundaries, and tables. The commands that follow repeatedly
+rest their reasons on Yahweh's action — he pleads the poor man's case (22:23) and the fatherless's
+Defender is strong (23:11) — so the trust asked for is shown in concrete cases.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:22, 24; Trust expressed through waiting and limited knowledge of the way.
@@ -257,6 +268,7 @@ passage page.
   physical**, and the steadiness is supplied by other people
 - [[Israel at Mount Sinai]] — Exodus 19:9, 19; God speaks in the assembly’s hearing to establish trust in Moses
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:5–6; trust with all the heart, not leaning on one's own understanding
+- [[Thirty Excellent Things]] — Proverbs 22:19; The collection's stated purpose: *"that your trust may be in Yahweh"*.
 
 ## Related themes
 

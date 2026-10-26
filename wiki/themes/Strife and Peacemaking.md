@@ -236,6 +236,15 @@ peace is made by removal: the source of strife is a person, and the remedy is so
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Anger is learned — Proverbs 22:24–25
+
+*"Don't befriend a hot-tempered man, and don't associate with one who harbors anger: lest you learn his
+ways, and ensnare your soul"* (22:24–25). The danger named is not the angry man's blows but his
+influence: a temper is caught from company. 15:18 had already said what such a man produces —
+*"A wrathful man stirs up contention"*.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 15:18.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
@@ -396,6 +405,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[A Good Name]] — Proverbs 22:10; Drive out the mocker and quarrels stop.
+- [[Thirty Excellent Things]] — Proverbs 22:24–25; The hot-tempered companion whose ways are learned.
 
 ## Related themes
 

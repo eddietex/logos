@@ -368,6 +368,15 @@ justice is ruin to evildoers (15). Weighing reaches past what a person approves 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The court that crushes the needy — Proverbs 22:22–23
+
+*"Don't crush the needy in court"* — literally *in the gate*, where a town's cases were heard (Hebrew
+*baššāʿar*, Sefaria, *Miqra according to the Masorah*, read 2026-10-26). The human court is the place
+of the injustice, and the remedy is a higher one: Yahweh *"will plead their case, and plunder the life of
+those who plunder them"* (22:23). The sentence matches the crime.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 12, 15; Hearts weighed and the wicked house considered.
@@ -643,6 +652,7 @@ the passage page.
 - [[The Priestly Garments]] — Exodus 28:1–43; the breastplate of judgment and the Urim and Thummim.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Breastplate made; Urim and Thummim and inquiry not narrated.
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; a judgment oracle in Wisdom's voice, with the laughter of Psalm 2:4 and no judge acting
+- [[Thirty Excellent Things]] — Proverbs 22:22–23; The needy crushed in court; the plunderers plundered.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -192,6 +192,7 @@ images, not identifiable locations requiring place pages.
 - [[The Plans of the Heart]] — Proverbs 16:31 honors gray hair as a crown; 20:29 places it beside youthful strength.
 - [[Laws of Violence and Injury]] — Exodus 21:17 states a penalty for the parental cursing pictured in 20:20.
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27 limits retention of a pledged covering; 20:16 supplies no exception.
+- [[Thirty Excellent Things]] — Proverbs 23:3, 8, deceitful food and the morsel vomited up, beside 20:17's fraudulent food.
 
 ## Notes
 

@@ -149,6 +149,15 @@ one claim that physical sight guarantees correct moral judgment.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Eyes on what is not — Proverbs 23:5–6
+
+*"Why do you set your eyes on that which is not?"* (23:5) — the eyes fixed on wealth that will fly away.
+The next verse names a host by his eye: *"him who has a stingy eye"* (23:6), Hebrew *evil of eye*, the
+opposite of 22:9's *generous eye*, *good of eye* (Sefaria, *Miqra according to the Masorah*, read
+2026-10-26). The eye is the disposition toward what one has and what one wants.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 22:9.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:8, 11–13, 27; A judging gaze, created senses, and inward illumination.
@@ -445,6 +454,7 @@ passage page.
 - [[The Lamp of the Commandment]] — Proverbs 6:25; beauty coveted in the heart, and eyelids that
   capture
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 6–7; the father at the window, and the apple of the eye
+- [[Thirty Excellent Things]] — Proverbs 23:5–6; Eyes set on what is not; the stingy eye.
 
 ## Related themes
 

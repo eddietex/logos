@@ -120,6 +120,16 @@ pass. See [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The fatherless's gōʾēl — Proverbs 23:11
+
+*"Don't encroach on the fields of the fatherless: for their Defender is strong"* (23:10–11). The WEB's
+*Defender* renders *gōʾălām*, *their gōʾēl* (Sefaria, *Miqra according to the Masorah*, read
+2026-10-26). The kinsman's duty to buy back a relative's land (Leviticus 25:25) becomes here God's
+defence of land belonging to children with no kinsman to defend it. The verse adds the courtroom
+role: the Redeemer *"will plead their case against you"*.
+
+See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:18; The wicked as ransom for the righteous, a reversal of places.
@@ -143,6 +153,7 @@ the passage page.
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:11–16; the half-shekel *"ransom for his soul"* at the census.
 - [[The Lamp of the Commandment]] — Proverbs 6:35; *kōp̄er* offered by the adulterer and refused
+- [[Thirty Excellent Things]] — Proverbs 23:11; The fatherless's *Defender*, Hebrew *gōʾēl*.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

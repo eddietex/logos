@@ -96,8 +96,8 @@ another forty-three years.
 25:27–28, where Esau is *"a skillful hunter"* and *"Isaac loved Esau, because he ate his venison."*
 **The one motive Genesis ever supplies for Isaac's preference is now the mechanism of the plot.**
 And ***maṭʿammîm***, *savory food*, from *ṭāʿam*, **to taste**, occurs **six times in this chapter
-and only twice elsewhere in the Hebrew Bible** (Proverbs 23:3, 6, both warnings about a ruler's
-delicacies). It is effectively a Genesis 27 word.
+and only twice elsewhere in the Hebrew Bible** (Proverbs 23:3, 6, warnings about a ruler's
+and a stingy host's delicacies). It is effectively a Genesis 27 word.
 
 ***"That my soul may bless you."*** ***Təbārekəkā napšî*** — the idiom returns at 27:19, 25, and 31,
 and it is the chapter's own theory of what a blessing is: **not a hope expressed but something spent
@@ -753,6 +753,7 @@ alone, on a road north. See
 - Hebrews 11:20 — *"By faith, Isaac blessed Jacob and Esau, even concerning things to come."*
 - Hebrews 12:16–17 — the tears, and *"he found no place for a change of mind."*
 - [[A Strong Tower]] — Proverbs 18:19; the offended brother, harder than a fortified city (27:41).
+- [[Thirty Excellent Things]] — Proverbs 23:3, 6, the ruler's and the stingy host's *dainties*, the same noun as 27's *savory food*; see [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]].
 
 ## Notes
 

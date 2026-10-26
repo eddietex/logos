@@ -255,6 +255,16 @@ formation rather than a guarantee; the borrower who serves the lender (7); the s
 (8), kept beside Eliphaz's misuse of the image; the sluggard's lion (13); the adulteress's mouth as a
 deep pit (14); and the rod that drives out folly (15). Verse 17 begins the words of the wise.
 
+[[Thirty Excellent Things]] (22:17–23:11) opens *"the words of the wise"* with a preface whose stated
+goal is *"that your trust may be in Yahweh"* (22:19), and then changes form: commands with reasons
+instead of observations. The block is framed by Yahweh pleading the case of the poor in court
+(22:22–23) and of the fatherless, whose *Defender* — Hebrew *gōʾēl* — is strong (23:10–11), and by the
+ancient boundary stone (22:28; 23:10). Between stand the hot-tempered companion (22:24–25), the surety
+who loses his bed (22:26–27), the skilled worker before kings (22:29), the ruler's *"deceitful food"*
+(23:1–3), riches that sprout wings (23:4–5), the stingy host (23:6–8), and the fool not worth answering
+(23:9). The WEB's *"thirty"* (22:20) rests on a disputed Hebrew word, and the often-noted Egyptian
+parallel, the *Instruction of Amenemope*, is recorded on the passage page as unverified here.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -320,7 +330,7 @@ first collection at its heading), each titled from a representative saying.
 
 ### The words of the wise (22:17–24:34)
 
-- [ ] Thirty Excellent Things — Proverbs 22:17–23:11
+- [x] [[Thirty Excellent Things]] — Proverbs 22:17–23:11
 - [ ] Do Not Envy Sinners — Proverbs 23:12–24:2
 - [ ] By Wisdom a House Is Built — Proverbs 24:3–22
 - [ ] The Field of the Sluggard — Proverbs 24:23–34
@@ -381,6 +391,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Hospitality]] — Wisdom's feast and Folly's, two tables and one invitation (9:1–18)
 - [[Holiness]] — *"The knowledge of the Holy One is understanding"* (9:10)
 - [[Kingship and Empire]] — *"By me kings reign, and princes decree justice"* (8:15)
+- [[Mediation and Advocacy]] — *"Yahweh will plead their case"* (22:23); the fatherless's Defender (23:11)
 - [[Prayer]] — *"Those who seek me diligently will find me"* (8:17), against 1:28
 - [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
 - [[Sacrifice and Offering]], [[Oaths and Vows]] — *"Sacrifices of peace offerings are with me.

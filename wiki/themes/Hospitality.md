@@ -147,6 +147,17 @@ invitation (Isaiah 55:1–3; Luke 14:16–24; Matthew 22:1–14), without quotin
 presence and the leaders of Israel as guests, after a vision in which *"He didn't lay his hand on"* them.
 The text names no food; the peace offerings of 24:5 are the likely source. See [[The Blood of the Covenant]].
 
+### Two tables to be wary of — Proverbs 23:1–3, 6–8
+
+Proverbs 9 set Wisdom's table against Folly's; 23:1–8 sets two ordinary tables to be careful at. At the
+ruler's, the food is *"deceitful"* (23:3). At the stingy host's, the invitation is false: *"'Eat and
+drink!' he says to you, but his heart is not with you"* (23:7), and the meal is vomited up (23:8). The
+reverse is 22:9's *"generous eye"* that shares food with the poor. The noun for the ruler's *dainties*
+is Genesis 27's *savory food*; see
+[[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]].
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 22:9.
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which
@@ -213,6 +224,7 @@ The text names no food; the peace offerings of 24:5 are the likely source. See [
   sits at her door, calls the same words, and serves stolen water to guests who are already in Sheol. The
   host's table as the place where a life is decided. See
   [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]]
+- [[Thirty Excellent Things]] — Proverbs 23:1–3, 6–8; Two tables to be wary of: the ruler's and the stingy host's.
 
 ## Related themes
 

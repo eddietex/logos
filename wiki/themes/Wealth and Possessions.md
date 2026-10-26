@@ -415,6 +415,16 @@ reputation and the Maker's claim. Verse 4's promise is held beside Job, who fear
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The bed and the eagle — Proverbs 22:26–27; 23:4–5
+
+Two warnings about wealth in one block. Standing surety can cost the bed: *"If you don't have means to
+pay, why should he take away your bed from under you?"* (22:27). And wealth pursued at the cost of
+oneself does not stay: *"Don't weary yourself to be rich … it certainly sprouts wings like an eagle and
+flies in the sky"* (23:4–5). The second warns against the effort, not the possession, and sits beside
+22:4's promise of wealth to humility and the fear of Yahweh.
+
+See [[Thirty Excellent Things]] and [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
@@ -646,6 +656,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; *hôn* given first to Yahweh, and overflowing barns
 - [[Wisdom Calls at the Gates]] — Proverbs 8:10–11, 18–21; instruction *"rather than silver"*, yet riches, honour, and full treasuries promised to Wisdom's lovers
 - [[A Good Name]] — Proverbs 22:1–2, 4, 7, 16; Riches ranked, promised, wielded, and lost.
+- [[Thirty Excellent Things]] — Proverbs 22:26–27; 23:4–5; Surety that costs the bed; riches that sprout wings.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

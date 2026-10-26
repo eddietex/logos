@@ -281,6 +281,17 @@ neighbour must humble himself and get free at once. Proverbs warns against the o
 for Benjamin and Job asked God to fill. See [[The Surety, the Sluggard, and the Seven Abominations]] and
 [[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Yahweh as advocate in court — Proverbs 22:23; 23:11
+
+Twice in one block Yahweh is cast as the lawyer of those without one: *"Yahweh will plead their case"*
+for the poor crushed in court (22:23), and the fatherless's *"Defender is strong. He will plead their
+case against you"* (23:11). In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) both verses
+use the same phrase, *yārîb rîbām*, and the *Defender* of 23:11 is *gōʾălām*, *their gōʾēl* — the
+kinsman-redeemer's title. That is the advocacy Job reaches for at 19:25 with the same word. See
+[[The Redeemer and the Avenger of Blood]].
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Hebrew as stated.
+
 ## Key passages
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–5; suretyship as folly for a son, against Judah's pledge and Job's plea
@@ -518,6 +529,7 @@ for Benjamin and Job asked God to fill. See [[The Surety, the Sluggard, and the 
 - [[The Work Completed]] — Exodus 39:32–43; The recipient of the design also receives and inspects its execution.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The obedient mediator equips the dwelling yet cannot enter when glory fills it.
+- [[Thirty Excellent Things]] — Proverbs 22:23; 23:11; Yahweh pleads the case of the poor and the fatherless.
 
 ## Related themes
 

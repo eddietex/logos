@@ -258,6 +258,7 @@ last time anyone in the dialogue recites it.
   man's silver to the innocent.
 - Lamentations 2:15 — *"All that pass by clap their hands at you. They hiss"*: 27:23's gesture, used
   of Jerusalem.
+- [[Thirty Excellent Things]] — Proverbs 23:4–5, beside 27:16–19's rich man who *"is not"*; see [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]].
 
 ## Notes
 

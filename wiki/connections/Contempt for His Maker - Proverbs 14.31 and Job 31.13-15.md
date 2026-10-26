@@ -12,6 +12,7 @@ tags: [connection]
 - [[A Way That Seems Right]] — Proverbs 14:31.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5; *"Whoever mocks the poor reproaches his Maker"*, the same thought restated.
 - [[Job's Oath of Innocence]] — Job 31:13–16.
+- [[Thirty Excellent Things]] — Proverbs 22:22–23.
 
 ## Analysis
 
@@ -65,6 +66,15 @@ ingested) repeats the form with *"the poor man and the oppressor"*.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 14:31; 17:5; 22:2, 16; 29:13; no new
 source-language claim.
+
+### Proverbs 22:22–23 in context
+
+The first command of *"the words of the wise"* turns this page's principle into a courtroom: *"Don't
+exploit the poor, because he is poor; and don't crush the needy in court; for Yahweh will plead their
+case, and plunder the life of those who plunder them"* (22:22–23). Where 14:31 said contempt for the
+poor reaches their Maker, 22:23 has the Maker come to court on their side.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 14:31; 22:22–23; no new source-language claim.
 
 ## Significance
 

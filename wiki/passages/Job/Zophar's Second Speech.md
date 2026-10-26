@@ -237,6 +237,7 @@ plenty the wicked man is not allowed to look at.
   the wicked's triumph is not short.
 - Luke 12:16–21 — the rich fool, whose barns are full on the night his soul is required: the New
   Testament's nearest version of 20:22–23.
+- [[Thirty Excellent Things]] — Proverbs 23:8, the morsel vomited up, beside 20:15's swallowed riches.
 
 ## Notes
 

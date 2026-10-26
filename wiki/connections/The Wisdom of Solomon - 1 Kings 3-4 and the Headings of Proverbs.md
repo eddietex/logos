@@ -15,7 +15,8 @@ tags: [connection]
   copied out."* Not yet ingested.
 - **Proverbs 22:17; 24:23; 30:1; 31:1** — the headings that name someone else: *"the words of the
   wise"*, *"sayings of the wise"*, *"the words of Agur the son of Jakeh"*, *"the words of king Lemuel;
-  the revelation which his mother taught him"*. Not yet ingested.
+  the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Excellent Things]]; the others are not yet
+  ingested.
 - **1 Kings 3:9, 12** — Solomon asks for *"an understanding heart to judge your people, that I may
   discern between good and evil"*, and is told *"I have given you a wise and understanding heart; so
   that there has been no one like you before you, and after you none will arise like you."* Not yet
@@ -91,6 +92,16 @@ biography. The collection attribution and its teaching characters must be kept d
 
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
 in stored WEB, 2026-10-25.
+
+### The words of the wise — Proverbs 22:17
+
+The first heading that names someone else is now ingested. *"Turn your ear, and listen to the words of the
+wise"* (22:17) changes speaker and form at once — direct commands with reasons, not two-line
+observations — and its preface aims at *"trust … in Yahweh"* (22:19). The WEB's *"thirty excellent
+things"* (22:20) rests on a disputed Hebrew word; see the passage's notes. The book's attributions are
+kept as the book gives them: this collection is not Solomon's.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–21.
 
 ## Significance
 

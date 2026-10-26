@@ -12,6 +12,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
+| [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
 | [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |

@@ -22,7 +22,8 @@ tags: [connection]
 - **Ruth 3:9–4:10** — Boaz as *gōʾēl*: land redeemed and a widow married *"to raise up the name of
   the dead on his inheritance"*
 - **Proverbs 23:10–11** — *"Don't move the ancient boundary stone. Don't encroach on the fields of
-  the fatherless, for their Defender is strong. He will plead their cause against you."*
+  the fatherless: for their Defender is strong. He will plead their case against you."* —
+  [[Thirty Excellent Things]]
 - **Exodus 6:6** — *"I will redeem you with an outstretched arm"*, the exodus as an act of *gāʾal* —
   [[I Am Yahweh]]
 - **Isaiah 41:14; 43:14; 44:6, 24; 47:4; 54:5; 59:20** — *"your Redeemer, the Holy One of Israel"*,
@@ -102,6 +103,14 @@ Redeemer is a third party, Job is asking a kinsman to prosecute God. If the Rede
 majority reading, and the one every other biblical occurrence of the title supports — then Job is
 appealing from God to God, exactly as he did at 17:3 when he asked God to post bond with God. The
 book does not adjudicate, and [[The Witness in Heaven]] sets out the three readings in full.
+
+### Proverbs 23:11 verified
+
+The WEB renders Proverbs 23:11's title as *"Defender"*; in Sefaria's *Miqra according to the Masorah*
+(read 2026-10-26) the word is *gōʾălām*, *their gōʾēl*, and the verse goes on *yārîb ʾet-rîbām*, *he will
+plead their case* — the same phrase used of Yahweh at 22:23 for the poor in court. The kinsman who buys
+back land in Leviticus 25 here defends the land of those who have no kinsman. See [[Thirty Excellent Things]].
+Source: stored WEB Proverbs 22:23; 23:10–11.
 
 ## Significance
 

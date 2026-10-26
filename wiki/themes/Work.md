@@ -317,6 +317,14 @@ at 26:13). The excuse is the joke: an invented danger keeps him indoors.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The skilled worker — Proverbs 22:29
+
+*"Do you see a man skilled in his work? He will serve kings. He won't serve obscure men"* (22:29). An
+observation, not a command, set between the boundary stone and the ruler's table: competence brings a
+worker into the presence of power, and the next verses tell him how to behave there.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5, 25; Diligent plans against haste; the sluggard's fatal desire.
@@ -500,6 +508,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses finishes erection after manufacture and inspection; filling is a distinct divine act.
 - [[A Good Name]] — Proverbs 22:13; The sluggard's lion in the streets.
+- [[Thirty Excellent Things]] — Proverbs 22:29; The skilled worker who serves kings.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

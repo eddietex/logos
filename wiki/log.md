@@ -16791,3 +16791,54 @@ Job 1:1, 8; 4:7–9; 42:7. External WEB quotations (Deuteronomy 6:6–7; Ephesia
 unreached book was fetched, and existing raw files are unchanged. No Hebrew claim is made; the link
 between 22:6's *train up* and Genesis 14:14's *trained men* rests on the earlier page's root claim,
 marked as not re-verified here. `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 22.17-23.11 — Thirty Excellent Things
+
+Ingested [[Thirty Excellent Things]], retaining the planned Proverbs 22:17–23:11 boundary and
+advancing exactly one queue item. Verse 17 opens *"the words of the wise"* with a new heading and a
+new form; 23:12's fresh call to attention starts the next item. The unattended discussion is written
+into the passage page: the preface whose goal is trust in Yahweh (22:19); the poor in court and
+Yahweh as their advocate (22:22–23); the hot-tempered companion (22:24–25); surety and the bed
+(22:26–27); the ancient boundary stone (22:28; 23:10); the skilled worker before kings (22:29); the
+ruler's deceitful food (23:1–3); riches that sprout wings (23:4–5); the stingy host (23:6–8); the
+fool (23:9); and the fatherless's strong Defender (23:11).
+
+**Interpretive decisions and tensions.** Generic figures receive no person pages; no place is named.
+Solomon is recorded as *not* the attributed author of this collection. Yahweh's advocacy for the poor
+and fatherless is kept beside Job 24:2–3, where the same crimes go unchecked. The ruler's table is read
+as a caution about appetite and discretion, not a rule against dining with the powerful; what makes the
+food *"deceitful"* is left open. The WEB's *"thirty"* (22:20) is recorded as a disputed reading. The
+widely reported comparison with the Egyptian *Instruction of Amenemope* is noted on the passage page as
+**not verified in this pass** — no edition was consulted, no wording is given, and no dependence is
+claimed.
+
+**Created (3):** the passage and two connections:
+- [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]]
+- [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]]
+
+**Revised content pages (42):** [[Proverbs]] (box, overview, key theme); [[God]] and [[Solomon]]; 17
+theme pages, each with synthesis and a key-passage entry; 8 existing connections (Contempt for His
+Maker, I Will Be Surety for Him, Lending Without Interest, The Redeemer and the Avenger of Blood, Slow
+to Anger, Sweet Food and Gravel, The Widow's Borders, The Wisdom of Solomon), with two *not yet
+ingested* labels on The Widow's Borders and the forward label on Lending Without Interest replaced by
+links; and 14 earlier passage pages with reciprocal references. Two corrections made in passing:
+[[I Know That My Redeemer Lives]] quoted Proverbs 23:11 as *"their Redeemer is strong. He will plead
+their cause"*, which is not the WEB's wording — replaced with the WEB (*"Defender … plead their case"*)
+and the *gōʾēl* noted as verified; and [[The Stolen Blessing]] called Proverbs 23:3 and 23:6 both
+warnings about a ruler's delicacies, where 23:6 is a stingy host's — corrected.
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index, People Index
+F-M and N-Z, and all five Connections subindexes (new rows filed under D and R; no range redraw
+needed). Proverbs is now 31 / 43 pericopes and remains in progress. Counts by frontmatter are 175
+passages, 179 people, 90 places, 83 themes, and 455 connections; four books started, three complete.
+No new person, place, or theme was needed.
+
+**Sources and validation.** All Proverbs, Genesis, Exodus, and Job quotations were copied from the
+stored WEB. External WEB quotations (Matthew 6:19–21; 1 Timothy 6:9–10, 17; Ecclesiastes 5:13–15) were
+verified at bible-api.com with `translation=web` on 2026-10-26. No unreached book was fetched, and
+existing raw files are unchanged. Hebrew claims — the 22:20 *ketiv*/*qere*, *gōʾēl* at 23:11, *yārîb
+rîbām* at 22:23 and 23:11, the surety idioms at 22:26, *maṭʿammîm*/*maṭʿammōt* in Genesis 27 (six
+times) and Proverbs 23:3, 6, *good*/*evil of eye* at 22:9 and 23:6, *in the gate* at 22:22, and *bread
+of lies* at 23:3 — were read from Sefaria's *Miqra according to the Masorah* on 2026-10-26. The lexical
+senses of the 22:20 forms and the claim that *maṭʿammîm* occurs nowhere else were not checked against a
+lexicon or concordance and are marked so at the point of claim. `scripts/link-check.sh` exits 0.

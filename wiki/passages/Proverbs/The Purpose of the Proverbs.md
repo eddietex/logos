@@ -173,6 +173,7 @@ correctly — sayings, not sentences passed. See [[Retribution]].
   (WEB, checked against bible-api.com).
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]
 - [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]
+- [[Thirty Excellent Things]] — Proverbs 22:17–21, the second preface, which makes trust in Yahweh the goal of instruction.
 
 ## Notes
 

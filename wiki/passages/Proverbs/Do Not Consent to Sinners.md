@@ -260,6 +260,7 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 - [[The Two Paths]] — Proverbs 4:14–15; the gang's path of 1:15 generalized as the path of the wicked.
 - [[The Young Man Void of Understanding]] — Proverbs 7:12, 18, 23; the strange woman *lurks* (*teʾĕrōḇ*) as the gang
   did, says *"Come"* (*ləḵâ*) as they did, and her victim is the bird hurrying to the snare.
+- [[Thirty Excellent Things]] — Proverbs 22:24–25, the hot-tempered companion whose ways are learned.
 
 ## Notes
 

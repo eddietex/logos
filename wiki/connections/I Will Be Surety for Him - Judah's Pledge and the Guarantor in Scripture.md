@@ -31,6 +31,7 @@ tags: [connection]
   Judah before him to Joseph, to show the way before him to Goshen"* — **the family, without comment,
   sends the fourth son ahead of the firstborn to find the road into Egypt.** **Genesis never says why**
   and chapter 44 is the only explanation there is
+- [[Thirty Excellent Things]] — Proverbs 22:26–27.
 
 ## Analysis
 
@@ -169,6 +170,17 @@ narrated in Genesis 43–44.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Proverbs 22 in context
+
+*"Don't you be one of those who strike hands, of those who are collateral for debts. If you don't have
+means to pay, why should he take away your bed from under you?"* (22:26–27). The fifth surety warning
+in the book, and the first to name what is lost. In Sefaria's *Miqra according to the Masorah* (read
+2026-10-26) 22:26 joins both idioms of 6:1 — *tōqəʿê-kāp*, *strikers of the hand*, and *ʿōrəbîm*, *those
+who stand surety* — the same pair Job uses of God at 17:3. Here, as before, it is advice to a son with
+something to lose, not a judgment on Judah, who pledged himself.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 6:1; 22:26–27; Job 17:3.
 
 ## Significance
 

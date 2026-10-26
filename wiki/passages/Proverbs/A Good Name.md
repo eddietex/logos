@@ -81,7 +81,8 @@ the limit the wiki keeps throughout the book (see [[Retribution]]). Verse 6's tr
 book's many foolish sons are both kept, and verse 8's sower is kept beside Eliphaz's misuse of
 the same image. Verse 7's observation that the borrower serves the lender stands beside the Torah's
 limits on lending and Proverbs' own repeated warnings against standing surety (6:1–5; 11:15; 17:18;
-20:16), which the next pericope continues at 22:26–27.
+20:16), which the next pericope continues at 22:26–27 (see
+[[Thirty Excellent Things]]).
 
 ## Key verses
 
@@ -166,6 +167,7 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 - [[Eliphaz's First Speech]] — Job 4:8, plowing iniquity and sowing trouble.
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14's *trained men*, which that page connects to
   22:6.
+- [[Thirty Excellent Things]] — Proverbs 22:17–23:11, the words of the wise that follow; 23:6's stingy eye against 22:9's generous one, and the bed of 22:27.
 
 ## Notes
 

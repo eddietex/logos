@@ -451,6 +451,19 @@ protection.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The words of the wise — Proverbs 22:17–21; 23:4, 9
+
+At 22:17 the book changes collections and speakers: *"listen to the words of the wise"*. The preface
+gives wisdom four purposes — to be kept *"within you"* and *"ready on your lips"* (18), to put the
+pupil's *"trust"* in Yahweh (19), to be *"written"* as *"thirty excellent things of counsel and
+knowledge"* (20), and to make the pupil a reliable messenger, giving *"sound answers to the ones who
+sent you"* (21). Wisdom here is something carried and reported, not only possessed. Two later commands
+show it exercised as restraint: *"In your wisdom, show restraint"* in the pursuit of riches (23:4), and
+silence before a fool, *"for he will despise the wisdom of your words"* (23:9). The WEB's *"thirty"* is
+a disputed reading; see the passage's notes.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -649,6 +662,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; Wisdom's second speech: at the gates and crossroads, straight words, better than silver, *"By me kings reign"*, found by those who seek her
 - [[Wisdom at the Creation]] — Proverbs 8:22–36; Wisdom possessed by Yahweh at the beginning, present at creation as *ʾāmôn*, delighting in humanity; whoever finds her finds life
 - [[A Good Name]] — Proverbs 22:3, 5, 12; The prudent sees danger; Yahweh watches over knowledge.
+- [[Thirty Excellent Things]] — Proverbs 22:17–21; 23:4, 9; The words of the wise, written to be kept, spoken, and reported truly.
 
 ## Related themes
 

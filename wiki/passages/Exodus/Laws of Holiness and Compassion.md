@@ -171,6 +171,7 @@ but *"cast it to the dogs"* (22:31).
   [[The Last Plague Announced]].
 - Exodus 23:1–19 — [[Justice, Sabbaths, and Feasts]], continuing the protection of the poor and alien and the offering of produce.
   Its page is written when that pericope is ingested.
+- [[Thirty Excellent Things]] — Proverbs 22:27 and 23:10–11, the debtor's bed and the fatherless's field, beside 22:22–27's widow, orphan, and pledged garment.
 
 ## Notes
 

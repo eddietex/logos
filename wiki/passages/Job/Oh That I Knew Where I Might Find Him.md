@@ -406,6 +406,7 @@ in effect, without an answer to this chapter.
   not found him*, 23:3's verb — and 37:19's *naʿărōk*, the *"set my cause in order"* of 23:4, declared
   impossible *"by reason of darkness"*.
 - [[I Repent in Dust and Ashes]] — Job 42:5, *"now my eye sees you"*, against 23:9's *"I can't see him"*.
+- [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10–11, the boundary stone and the fatherless's field, with Yahweh as their advocate.
 
 ## Notes
 

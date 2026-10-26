@@ -226,6 +226,14 @@ discipline, not as an incurable nature.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Words wasted on a fool — Proverbs 23:9
+
+*"Don't speak in the ears of a fool, for he will despise the wisdom of your words"* (23:9). The preface of
+the collection had sent the pupil out to give *"sound answers"* (22:21); this verse names the audience not
+worth answering. 26:4–5, not yet ingested, will complicate the rule.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 26:4–5.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
@@ -271,6 +279,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
   not know
 - [[Wisdom Calls at the Gates]] — Proverbs 8:5; the simple and fools invited to prudence and *"an understanding heart"*
 - [[A Good Name]] — Proverbs 22:3, 15; The simple pass on; folly bound in a child's heart.
+- [[Thirty Excellent Things]] — Proverbs 23:9; The fool who despises wise words.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

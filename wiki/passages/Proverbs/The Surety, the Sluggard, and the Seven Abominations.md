@@ -244,6 +244,7 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 - [[The Lamp of the Commandment]] — Proverbs 6:20–35; the next lecture, on adultery and the thief
   who restores sevenfold, completing the second table.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:18, striking hands and becoming collateral with 6:1's verbs.
+- [[Thirty Excellent Things]] — Proverbs 22:26–27, the same two surety idioms, and the bed taken.
 
 ## Notes
 

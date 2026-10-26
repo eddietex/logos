@@ -123,6 +123,14 @@ Proverbs 22:16 ends the collection headed *"The proverbs of Solomon"* (10:1); ve
 words of the wise"*. Solomon is not named in 22:1–16, and the attribution belongs to the collection.
 See [[A Good Name]]. Source: stored WEB Proverbs 10:1; 22:16–17.
 
+### Proverbs 22:17 — a collection not his
+
+With 22:17 the book attributes its words to someone else: *"listen to the words of the wise"*. Solomon
+is neither named nor credited in 22:17–24:22, and the wiki does not file that collection under him;
+the next heading to name him is 25:1. See [[Thirty Excellent Things]] and
+[[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]. Source: stored WEB Proverbs
+22:17; 24:23; 25:1.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -134,6 +142,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 10:1; 22:16–17.
 ## Appears in
 
 - [[A Good Name]] — Proverbs 22:1–16; close of the collection attributed to him.
+- [[Thirty Excellent Things]] — Proverbs 22:17; the heading that turns from Solomon to *"the wise"*.
 
 - [[The King's Heart]] — Proverbs 21:1–31; collection attribution, not a narrated participant.
 

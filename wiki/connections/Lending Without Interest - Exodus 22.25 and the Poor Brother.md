@@ -24,6 +24,8 @@ tags: [connection]
 
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
+- [[Thirty Excellent Things]] — Proverbs 22:26–27.
+
 ## Analysis
 
 **Exodus 22:25 is the first form of the rule, and it is the narrowest.** It concerns a loan of
@@ -62,10 +64,20 @@ Proverbs 22:7 observes the power this law limits: *"The rich rule over the poor.
 servant to the lender."* The saying describes what debt does; it does not recommend it. Exodus
 22:25–27 forbids the creditor's posture toward a poor neighbor and returns his pledged cloak by
 sunset, which is the law's answer to the dependence the proverb names. The next pericope continues
-with surety and the bed taken from under the debtor (22:26–27, not yet ingested).
+with surety and the bed taken from under the debtor (22:26–27; see [[Thirty Excellent Things]]).
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22:7, 26–27; Exodus 22:25–27; no new
 source-language claim.
+
+### Proverbs 22:26–27 in context
+
+*"If you don't have means to pay, why should he take away your bed from under you?"* (22:27). Exodus
+22:26–27 had required a creditor to return a poor man's pledged garment by sundown — *"What would he
+sleep in?"* The proverb imagines the creditor who takes the bed outright, and gives the debtor's side of
+the law: do not *"strike hands"* for debts you cannot cover (22:26). The law restrains the lender; the
+proverb warns the borrower and the guarantor.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:26–27; Exodus 22:26–27; no new source-language claim.
 
 ## Significance
 

@@ -15,6 +15,7 @@ tags: [connection]
   answer that *"turns away wrath"*.
 - [[The Plans of the Heart]] — Proverbs 16:32, *"better than the mighty"*.
 - Proverbs 19:11 — a further use of the phrase; now ingested in the passage linked above.
+- [[Thirty Excellent Things]] — Proverbs 22:24–25, the hot-tempered man as company.
 
 ## Analysis
 
@@ -53,6 +54,13 @@ glory. Verse 19 supplies a contrasting pattern: a hot-tempered man incurs a pena
 needs rescue. The glory is therefore tied to restraint rather than successful retaliation. The
 comparison with Exodus 34:6 remains an English thematic comparison; no Hebrew identity is newly
 asserted. Source: stored WEB Proverbs 19:11, 19; Exodus 34:6–7.
+
+### Proverbs 22:24–25 in context
+
+*"Don't befriend a hot-tempered man, and don't associate with one who harbors anger: lest you learn his
+ways, and ensnare your soul"* (22:24–25). The sayings on this page praise the slow temper; this command
+adds that the quick one is contagious. See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:24–25; no new
+source-language claim.
 
 ## Significance
 

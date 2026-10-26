@@ -10,9 +10,9 @@ tags: [connection]
 - **Proverbs 15:25** — *"Yahweh will uproot the house of the proud, but he will keep the widow's borders
   intact."* — [[A Gentle Answer]]
 - **Proverbs 22:28** — *"Don't move the ancient boundary stone, which your fathers have set up."*
-  *(not yet ingested)*
+  — [[Thirty Excellent Things]]
 - **Proverbs 23:10–11** — *"Don't move the ancient boundary stone. Don't encroach on the fields of the
-  fatherless: for their Defender is strong. He will plead their case against you."* *(not yet ingested)*
+  fatherless: for their Defender is strong. He will plead their case against you."* — [[Thirty Excellent Things]]
 - **Job 24:2–3** — *"There are people who remove the landmarks. They violently take away flocks, and feed
   them. They drive away the donkey of the fatherless, and they take the widow's ox for a pledge."* —
   [[Oh That I Knew Where I Might Find Him]]
@@ -21,6 +21,7 @@ tags: [connection]
   [[Laws of Holiness and Compassion]]
 - **Deuteronomy 19:14; 27:17** — the law against moving a neighbour's landmark, and a curse on whoever
   does. *(Not yet stored; paraphrased, not quoted.)*
+- [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10–11.
 
 ## Analysis
 
@@ -53,6 +54,17 @@ God's character, and Job's chapter is the testimony that it is not always visibl
 
 Sources: Proverbs 15:25; 22:22–23, 28; 23:10–11; Job 24:1–3; Exodus 22:22–24, checked in stored WEB.
 Deuteronomy is not yet stored and is cited by reference only.
+
+### Proverbs 22–23 in context
+
+In [[Thirty Excellent Things]] the boundary-stone command frames a block of commands. It stands at 22:28
+with its reason in the fathers who set the stone, and returns at 23:10 fused with the fatherless and their
+strong Defender. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) the two verses open
+with the identical clause, and 22:23 and 23:11 share the phrase *yārîb rîbām*, *he will plead their case*;
+23:11's *Defender* is *gōʾēl*. So the block's first and last commands name the same advocate in the same
+words, for the poor man in court and the fatherless in his field.
+
+Source: stored WEB Proverbs 22:22–23, 28; 23:10–11; Hebrew as stated.
 
 ## Significance
 

@@ -2197,6 +2197,19 @@ pit (14). Verse 4 is held beside Job, who feared God and lost all three.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22:2, 4, 12, 14 and Job 1:1.
 
+### Proverbs 22:17–23:11 in comparison
+
+*"The words of the wise"* name Yahweh twice and describe him a third time. He is the one the pupil is
+taught to trust — the stated purpose of the whole collection (22:19). He *"will plead their case"* for
+the poor crushed in court, *"and plunder the life of those who plunder them"* (22:23). And he is the
+fatherless's *"Defender"*, who *"is strong. He will plead their case against you"* (23:11). In Sefaria's
+*Miqra according to the Masorah* (read 2026-10-26), 23:11's *Defender* is *gōʾălām*, *their gōʾēl*,
+the title Job uses at 19:25 — which confirms, for this verse, the *gōʾēl* reading cited under Job's
+officers above. Job 24:2–3 is kept beside these promises: there the landmarks are moved and the
+fatherless robbed, and Job asks why God is not seen to act.
+
+See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:19, 23; 23:10–11; Job 24:2–3.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2471,6 +2484,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22:2, 4, 12, 14 and Job 1:1.
 ## Appears in
 
 - [[A Good Name]] — Proverbs 22:1–16; maker of rich and poor, watcher over knowledge.
+- [[Thirty Excellent Things]] — Proverbs 22:17–23:11; object of trust, advocate of the poor, Defender (*gōʾēl*) of the fatherless.
 
 - [[The King's Heart]] — Proverbs 21:1–31; director of the king's heart, weigher of hearts, giver of victory.
 
