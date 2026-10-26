@@ -385,7 +385,20 @@ timetable, or guarantee of increased cash.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:4, 10, 13–17, 21, 23
+
+The chapter links provision with timely work (4, 13), condemns dishonest measurements and
+fraudulent gain (10, 14, 17, 23), and values knowledgeable lips above treasures (15). A
+guarantor's garment becomes security (16), and hasty inheritance lacks final blessing (21).
+Verse 21 does not state the means of acquisition, so theft or a wish for a parent's death must
+not be supplied as facts.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:4, 10, 13–17, 21, 23; Honest acquisition, risky guarantees, and inheritance without blessing.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 6–7, 14, 17, 22; Wealth attracts
   friends; integrity outranks it, and generosity to the poor is credited to Yahweh.

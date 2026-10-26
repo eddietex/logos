@@ -635,6 +635,8 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
 - [[Idolatry]]
 
 ## Cross-references
+
+- [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]] — Proverbs 20:22 shares reliance on Yahweh’s rescue, in a different setting from pursuit by an army.
 - Genesis 1:2, 9–10, 15 — darkness; *"let the dry land (yabbāšâ) appear"*; lights *"to give light"* —
   [[The Creation of the World]]
 - Genesis 3:13 — *"What is this you have done?"* — [[The Fall]]

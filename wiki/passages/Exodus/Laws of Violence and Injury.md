@@ -135,6 +135,8 @@ from a danger the owner knew about (21:33–36).
 
 ## Cross-references
 
+- [[Wine Is a Mocker]] — Proverbs 20:20 depicts the parental curser’s ruin as an extinguished lamp; Exodus 21:17 gives the legal death penalty.
+
 - Genesis 9:5–6; Exodus 20:12–13 — the demand for human life, honoring parents, and the prohibition
   of murder become differentiated cases: [[Whoever Sheds Man's Blood]] and [[The Ten Commandments]].
 - Genesis 37:26–28; 40:15; Deuteronomy 24:7 — captivity and sale:

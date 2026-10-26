@@ -349,7 +349,19 @@ new legal schedule of punishments. See
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:8–11, 20, 23, 26–27, 30
+
+Royal eyes and the threshing image depict the exclusion of evil (8, 26), while Yahweh judges
+dishonest measures (10, 23) and searches inwardly through the human spirit as lamp (27). Verse
+30 describes blows as cleansing. This remains limited by 17:26, which condemns punishment of
+the righteous: neither a judge's force nor a victim's wounds prove guilt.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:8–11, 20, 23, 26–27, 30; Judgment reaches markets, courts, and the inward person.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 19, 25, 28–29; Witnesses answer
   for lies; penalties and rebuke expose distinct responses to correction.

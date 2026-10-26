@@ -169,7 +169,20 @@ warning about idleness (15) cannot explain all the poverty it names. See
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:4, 13, 16
+
+Verses 4 and 13 locate poverty in neglected labor and sleep in the cases they describe.
+Proverbs 13:23 locates lost food in injustice, so the cause cannot be generalized to all
+poverty. Verse 16's seizure of a guarantor's garment must also remain beside Exodus 22:26–27's
+protection of the debtor's necessary covering. No overnight retention is authorized by the
+proverb's silence.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:4, 13, 16; Warnings about idleness do not erase injustice or protection of debtors.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 7, 17, 22; The poor are
   abandoned by friends but honored for integrity; pity for them is lending to Yahweh.

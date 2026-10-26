@@ -374,7 +374,19 @@ the commandment in verse 16. See
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:10, 16, 20, 23, 25
+
+Honest weights (10, 23) and the prohibition of cursing parents (20) align wisdom with the law's
+concerns. Exodus 21:17 states a death penalty where the proverb gives an extinguished lamp. The
+garment taken in pledge (16) must be compared with Exodus 22:26–27's requirement to return a
+neighbor's covering at sunset; the terse proverb does not repeal that protection.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:10, 16, 20, 23, 25; Commercial justice, parental honor, and the limits on collateral.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:16, 18, 20, 25–27; Keeping instruction
   preserves life; refusing it and mistreating parents bring ruin and shame.

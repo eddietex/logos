@@ -245,6 +245,8 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Proverbs 20:7, 30 cannot make family loss or physical pain proof of guilt; Job 2:3 affirms integrity amid undeserved ruin.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23’s freedom from trouble cannot be an
   exceptionless guarantee beside Job 2:3, 7’s undeserved ruin and sores. See
   [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .

@@ -93,7 +93,19 @@ stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masora
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Discernment and accountability — Proverbs 20:22
+
+Verse 22 prohibits promising to pay back evil and tells the wronged person to wait for Yahweh's
+salvation. It promises rescue, not explicitly the enemy's destruction. Genesis 50:15–21 offers
+a narrative comparison in the refusal to repay the brothers and the provision of food instead.
+Job 31:29–30 denies rejoicing at an enemy's ruin or cursing him to death. See [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:22; Personal repayment refused in favor of Yahweh’s rescue.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:13.
 

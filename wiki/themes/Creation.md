@@ -147,7 +147,19 @@ Proverbs 14:31 calls God the poor man's *Maker* and makes oppression of the poor
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Discernment and accountability — Proverbs 20:12
+
+Yahweh's making is applied to the hearing ear and seeing eye (12). Exodus 4:11 similarly
+attributes human faculties to him, but also includes deafness and blindness in the claim.
+Proverbs praises the capacities without explaining their absence, and neither passage makes
+disability a verdict on personal sin. See [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:12; Yahweh makes the capacities by which people hear and see.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Earth, heavens, depths, and
   dew ordered through divine wisdom.

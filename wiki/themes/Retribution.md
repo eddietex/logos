@@ -358,7 +358,20 @@ as exceptionless predictions of present circumstances. See
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:4, 7, 13, 17, 20–22, 30
+
+Neglected work leads to hunger (4, 13), fraud loses its sweetness (17), cursing parents
+extinguishes a lamp (20), and hasty inheritance lacks final blessing (21). **Explicit
+tension:** the blessing on righteous children (7) cannot guarantee their safety alongside Job
+1:18–19 and 2:3. Likewise, verse 30's cleansing blows cannot explain all suffering: Proverbs
+17:26 itself condemns flogging for integrity. See [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:4, 7, 13, 17, 20–22, 30; Expected outcomes remain in tension with undeserved losses.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3, 5, 9, 15–19, 23, 29; Consequences
   and promised safety remain alongside the upright poor and Job’s counterexample.

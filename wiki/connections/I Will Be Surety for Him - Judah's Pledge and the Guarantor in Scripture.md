@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:16.
+
 - [[A False Balance]] — Proverbs 11:15.
 
 - **Genesis 43:8–10** — [[The Second Journey]]; [[Judah]]: *"I'll be collateral for him. From my hand
@@ -153,6 +155,20 @@ the Masorah*). The collection's placement limits its own praise of loyalty: love
 sign for him. Judah's pledge for a brother is the narrative case the proverb does not cover. See
 [[A Dry Morsel with Quietness]] and [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
 Source: stored WEB Proverbs 6:1; 17:17–18; Genesis 43:9.
+
+### Proverbs 20 in context
+
+Proverbs 20:16 moves from warning the guarantor to addressing the person taking security: take
+the garment of the one who has guaranteed a stranger. The WEB's second clause specifies a
+wayward woman; this update follows that rendering without making a Hebrew-text claim. Proverbs
+27:13 closely repeats the saying in the stored but not yet ingested collection. **Legal
+boundary:** Exodus 22:26–27 requires returning a neighbor's pledged covering before sunset. The
+proverb says nothing about overnight retention and must not silently cancel that protection.
+Prudent caution over guarantees also remains distinct from the costly household loyalty
+narrated in Genesis 43–44.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

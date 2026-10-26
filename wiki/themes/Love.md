@@ -217,7 +217,19 @@ advantage. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] .
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:6, 28
+
+Many people claim unfailing love, but the faithful person is hard to find (6). The question
+tests professions against constancy without denying that loyalty exists. Verse 28 makes love
+and faithfulness protective of the king and love sustaining of his throne, balancing the
+chapter's royal terror and punishment. No particular relationship or covenant is identified.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:6, 28; Love must be faithful; it also sustains the throne.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 6–8, 17, 22; Self-care through
   wisdom and kindness contrast with friendships dependent on gifts.

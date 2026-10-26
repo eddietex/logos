@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:20.
+
 - [[Get Wisdom]] — Proverbs 4:1–9; a teacher passes on his own father’s instruction.
 
 - [[The Ten Commandments]] — Exodus 20:12, honoring both parents and long life in the given land.
@@ -65,6 +67,17 @@ life of Exodus 20:12, this instruction promises life, preservation, and honor wi
 naming a land. It is a thematic development of honoring parents, not an explicit citation
 of the commandment. See [[Wisdom Handed On - Proverbs 4 and Exodus 13]]. Source: stored
 WEB Proverbs 4:1–9 and Exodus 20:12, checked 2026-10-25.
+
+### Proverbs 20 in context
+
+Proverbs 20:20 states the negative counterpart to honoring father and mother: the person who
+curses either parent loses his lamp in darkness. Exodus 21:17 gives a death penalty for that
+offense, whereas Exodus 20:12 attaches long life to honor. The wisdom saying names both parents
+but supplies no legal procedure, age of the offender, or explicit prediction of childlessness.
+This addition compares the stored WEB of Proverbs 20:20 and Exodus 20:12; 21:17; it adds no
+quotation from the external texts or new Hebrew claim.
+
+See [[Wine Is a Mocker]].
 
 ## Significance
 

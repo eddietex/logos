@@ -16642,3 +16642,61 @@ theme, and connection page; the queue advances exactly one item. `scripts/link-c
 with clean wrapped-link and target checks; the expected baseline is 62 not-yet-started books.
 `git diff --check` is clean. No operational blocker or unresolved link remains; the interpretive
 tensions above are preserved for the reader.
+
+## [2026-10-26] ingest | Proverbs 20.1-30 — Wine Is a Mocker
+
+Ingested [[Wine Is a Mocker]], retaining the planned Proverbs 20:1–30 boundary and advancing exactly one
+queue item. The unattended discussion is written into the passage page: wine and beer leading
+astray; honorable avoidance of strife; winter plowing and sleep; counsel drawn from deep water;
+loyalty claimed and tested; integrity and children's blessing; judgment, purity, and created
+senses; differing measures; bargaining speech and knowledgeable lips; security for a guarantor;
+fraudulent food; counsel in war; tale-bearing; parental curses; inheritance; refusal of
+revenge; Yahweh's direction of steps; rash dedication; the king's threshing and sustaining
+love; the human spirit as lamp; strength and gray hair; and cleansing blows.
+
+**Interpretive decisions and tensions.** Generic figures receive no person pages, and no
+geographical location is named. Solomon is collection attribution only; Job is a comparison.
+The WEB's winter (4), wayward woman (16), and human spirit (27) are followed without new Hebrew
+claims. Verse 25 supplies no vowed object; verse 30 identifies no child or agent of punishment.
+Proverbs 20:7's blessing on righteous children remains explicitly in tension with Job's
+bereavement despite his integrity (Job 1:1, 18–19; 2:3), and 20:30's cleansing blows remain
+beside Proverbs 17:26's condemnation of unjust flogging and Job 2:3, 7's undeserved affliction.
+The purity question does not erase the chapter's recognition of righteousness. The garment
+pledge is compared with Exodus 22:26–27's return of the necessary covering; the proverb's
+silence does not repeal the law. Verse 22 promises rescue, not expressly an enemy's
+destruction. The inheritance's means of acquisition and the royal threshing's historical
+mechanism are not invented.
+
+**Created (5):** the passage and four connections:
+- [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]]
+- [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]]
+- [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]]
+- [[Sweet Food and Gravel - Proverbs 20.17 and Job 20]]
+
+**Revised content pages (64):** [[Proverbs]]; [[God]], [[Solomon]], and [[Job (person)]]; 31 theme
+pages, each with new synthesis and a key-passage entry; 13 existing connections, each with a
+passage entry and contextual analysis; and 16 earlier passage pages with reciprocal references.
+The revised connections cover the vine and cup, honest weights, human purity, suretyship, the
+extinguished lamp, royal favor, divinely directed plans, counselors, discipline, faithful
+friendship, paid vows, wisdom's value above gold, and parental honor. The older quotation of
+Proverbs 20:20 on [[The Lamp of the Wicked Put Out]] is corrected from its discrepant wording to the stored WEB. Its
+claim that the lamp's extinction necessarily means no descendants is revised to a possible
+comparison, not the proverb's explicit statement. Newly ingested Proverbs 20 references lose
+their forward-status labels.
+
+**Indexes and totals.** Revised ten index/dashboard files: books, the main dashboard, themes,
+People Index F-M and N-Z, and all five Connections subindexes. Every touched category page has
+its row updated; all category pages remain indexed exactly once, with subindex filing order and
+ranges verified. No range redraw is needed. Proverbs is now 28 / 43 pericopes and remains in
+progress. Counts by frontmatter are 172 passages, 179 people, 90 places, 83 themes, and 447
+connections; four books started, three complete. Including this log, the invocation creates
+five pages and revises 75 existing wiki files. No new person, place, or theme was needed.
+
+**Sources and validation.** Fifteen key-verse quotations were extracted from and checked
+exactly against the stored WEB. All new comparisons use existing raw books; the supporting
+verse list is on the passage page. No unreached book was fetched, and existing raw files are
+unchanged. No new source-language assertion or external quotation was introduced; older
+connections retain their earlier external-source documentation. The queue advances exactly once
+and passage titles are unique. `scripts/link-check.sh` exits 0 with clean wrapped-link and
+target checks, excluding the expected 62 not-yet-started books. `git diff --check` is clean. No
+operational blocker or unresolved link remains; the interpretive tensions above are retained.

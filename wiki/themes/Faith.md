@@ -124,7 +124,19 @@ and connection pages.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Discernment and accountability — Proverbs 20:22, 24
+
+Waiting for Yahweh (22) has the concrete cost of relinquishing personal repayment of evil. The
+confession that steps are from Yahweh (24) also limits the walker's understanding. Neither
+verse abolishes the advised planning commended in 18, and neither provides a rescue timetable.
+See [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:22, 24; Trust expressed through waiting and limited knowledge of the way.
 
 - [[The Plans of the Heart]] — Proverbs 16:3, 20.
 

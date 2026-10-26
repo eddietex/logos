@@ -260,6 +260,8 @@ general rule; the wiki keeps Job's case beside it. See [[Retribution]].
 
 ## Cross-references
 
+- [[Sweet Food and Gravel - Proverbs 20.17 and Job 20]] — Proverbs 20:17 compresses the change from attractive illicit food to a destructive end.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32 follows the prologue with sayings on
   household life, work, and speech.
 

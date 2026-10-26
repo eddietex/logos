@@ -117,7 +117,19 @@ the account is square, and the feast can begin. Proverbs gives the vow no value 
 is the occasion. See [[The Young Man Void of Understanding]] and
 [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Discernment and accountability — Proverbs 20:25
+
+Rash dedication followed by belated consideration of vows traps the speaker (25). The object
+promised and the circumstances are not supplied. Unlike Proverbs 7:14's claim that vows have
+been paid, the problem here is thought arriving after commitment. The theme is deliberate
+commitment rather than a general ban on vows or a retelling of any named person's oath.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:25; Consider the dedication before the obligation becomes a snare.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; God recalls the land oath after the calf.
 

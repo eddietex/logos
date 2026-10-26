@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:1.
+
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:20–21, the first vineyard and the first
   drunkenness
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:18, bread and wine brought out by a priest
@@ -99,6 +101,18 @@ commended for keeping their ancestor's rule (Jeremiah 35); the priests forbidden
 (Leviticus 10:9, immediately after Nadab and Abihu); and Proverbs 31:4–7, which reserves strong drink
 for the perishing and forbids it to kings *"lest they drink, and forget the law"*. Ephesians 5:18 does
 not prohibit the cup but names the alternative to being filled by it.
+
+### Proverbs 20 in context
+
+Proverbs 20:1 now receives its own passage context. Wine and beer are personified as a mocker
+and a brawler, and being led astray by them is opposed to wisdom. The danger concerns conduct
+and judgment; the saying does not itself lay down a universal prohibition on every use of wine.
+Beside the drunken exposure of Genesis 9:21 and the loss of awareness in Genesis 19:33, 35, it
+states an evaluation that those scenes leave to the reader. The neighboring praise of avoiding
+strife (20:3) fits the warning against drink's brawling character.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

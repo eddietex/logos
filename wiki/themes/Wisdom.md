@@ -422,7 +422,20 @@ makes divine sovereignty compatible with learning and deliberation.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:1, 5, 15, 18, 24, 29
+
+Wisdom refuses to be led astray by drink (1), draws out counsel from the heart (5), and values
+knowledgeable lips beyond jewels (15). Advice establishes plans (18), but Yahweh's direction of
+steps limits understanding of the whole way (24). Strength and gray hair receive distinct
+honors (29); neither is called a sufficient test of wisdom. The comparison with 18:4 moves deep
+water from speech to counsel within.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:1, 5, 15, 18, 24, 29; Sobriety, discernment, counsel, and the limits of understanding.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:2, 8, 11, 14, 20–21, 25, 27; Knowledge
   governs zeal, anger, household prudence, and lifelong reception of counsel.

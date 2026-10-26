@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:20, 27.
+
 - **Job 18:5–6** — *"Yes, the light of the wicked shall be put out, The spark of his fire shall not
   shine. The light shall be dark in his tent. His lamp above him shall be put out."* —
   [[Bildad's Second Speech]]
@@ -16,7 +18,7 @@ tags: [connection]
 - **Proverbs 13:9** — *"The light of the righteous shines brightly, but the lamp of the wicked is
   snuffed out."* — [[Hope Deferred]]
 - **Proverbs 20:20** — *"Whoever curses his father or his mother, his lamp shall be put out in
-  obscurity of darkness."*
+  blackness of darkness."*
 - **Proverbs 24:20** — *"for there will be no reward to the evil man. The lamp of the wicked shall
   be snuffed out."*
 - **Job 21:17** — Job's reply: *"How often is it that the lamp of the wicked is put out, that their
@@ -38,8 +40,9 @@ in a tent or a house meant the household was alive, occupied, and continuing; a 
 meant it was empty or its people were dead. From that the figure takes on two extensions at once —
 the **life** of the man and the **continuity of his line** — and biblical usage moves freely between
 them. When 1 Kings 11:36 promises David a *lamp* in Jerusalem it means a descendant on the throne.
-When Proverbs 20:20 says the lamp of the man who curses his parents *"shall be put out"* it means
-he will have no such descendant.
+Proverbs 20:20 makes extinction an image of ruin for the person who curses either parent; it does
+not explicitly identify the loss as childlessness. A dynastic implication is possible by comparison,
+not stated by this proverb.
 
 [[Bildad the Shuhite]] uses both senses at once and adds a third. Job 18:5–6 puts out the light of
 the wicked, the spark of his fire, the light *in his tent*, and the lamp *above him* — four
@@ -71,6 +74,19 @@ loss. Chapter 29 completes the reversal of Bildad's portrait line by line: the l
 dried beneath and branch cut off), and a seat in the street (29:7) where the wicked man has *"no name
 in the street"* (18:17). And it ends with *"the light of my face"* (29:24) — the shining face of the
 priestly blessing (Numbers 6:25), worn by a man.
+
+### Proverbs 20 in context
+
+Proverbs 20:20 is now ingested: cursing either parent leads to the lamp being put out in
+blackness of darkness. Exodus 21:17 assigns death to the same offense, while Exodus 20:12
+commands parental honor. The proverb gives an image of ruin, not an execution procedure, and
+does not explicitly specify the absence of descendants. Verse 27 uses a lamp differently: the
+human spirit serves Yahweh in searching the inward person. One lamp is extinguished in
+judgment; the other illuminates. Job 21:17 still questions how reliably extinction of the
+wicked is observed.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

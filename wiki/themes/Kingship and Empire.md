@@ -112,7 +112,20 @@ rules.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:2, 8, 26, 28
+
+The king's terror is a lion's roar and provoking him threatens life (2). His judging gaze
+scatters evil (8); the wise king winnows the wicked and drives a threshing wheel over them
+(26). Verse 28 locates the throne's security in love and faithfulness. The violent imagery is
+retained, but the text gives no named king or historical execution procedure and does not
+equate every royal anger with justice.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:2, 8, 26, 28; Royal terror, discerning judgment, threshing, and sustaining love.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 10, 12; Royal favor attracts
   petitioners; wrath and goodwill are pictured as lion and dew.

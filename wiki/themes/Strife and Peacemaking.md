@@ -210,7 +210,19 @@ self-restraint matters. See [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]] a
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:1–3, 19, 22
+
+Keeping aloof from strife is honorable (3), answering the brawling drink of verse 1. Verse 22
+goes further than managing temper: it forbids promising repayment of evil and directs the
+wronged person toward Yahweh's salvation. Avoiding the indiscreet companion (19) also protects
+relationships. The command to wait names no timetable or guarantee of an enemy's destruction.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:1–3, 19, 22; Honor in avoiding quarrels and refusing personal revenge.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11–13, 19; Discretion overlooks
   offense; habitual anger and household quarrels reproduce trouble.

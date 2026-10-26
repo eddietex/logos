@@ -289,6 +289,8 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Job 21:7–9’s secure children of the wicked complicate the use of Proverbs 20:7 as a test of parental character.
+
 - [[The Plans of the Heart]] — Proverbs 16:4, the wicked made for the day of evil, beside Job 21:30.
 - [[Hope Deferred]] — Proverbs 13:9, 21–22; the lamp and the prosperity of the righteous.
 - [[Whoever Loves Correction]] — Proverbs 12:3, 7, 21 promises righteous stability; Job 21:7–13 describes flourishing wicked households.

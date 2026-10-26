@@ -193,7 +193,19 @@ See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]] .
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:18, 22, 24
+
+The chapter joins established plans through advice (18) with waiting for Yahweh's salvation
+(22) and steps that come from him (24). Its question about understanding one's way recognizes a
+limit rather than explaining each event. The account neither makes planning pointless nor makes
+every unexpected loss a legible moral judgment.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:18, 22, 24; Counsel remains necessary when steps and rescue belong to Yahweh.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3, 14, 17, 20–21; Yahweh gives,
   rewards, and establishes his counsel amid human choices.

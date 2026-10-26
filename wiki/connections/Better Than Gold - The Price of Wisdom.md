@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:15.
+
 - [[Get Wisdom]] — Proverbs 4:5–7; understanding prioritized even at the cost of possessions.
 
 - **Job 28:1–11** — the miner who finds silver, gold, iron, copper and sapphires, and *"brings out to
@@ -26,7 +28,7 @@ tags: [connection]
 - **Proverbs 16:16** — *"How much better it is to get wisdom than gold! Yes, to get understanding is to
   be chosen rather than silver."* [[The Plans of the Heart]].
 - **Proverbs 20:15** — *"There is gold and abundance of rubies; but the lips of knowledge are a rare
-  jewel."* Not yet ingested.
+  jewel."* — [[Wine Is a Mocker]].
 - **Psalm 19:10; 119:72** — the ordinances of Yahweh *"More to be desired … than gold, yes, than much
   fine gold"*; *"better to me than thousands of pieces of gold and silver."* Not yet ingested.
 - **Isaiah 33:6** — *"The fear of Yahweh is your treasure."* Not yet ingested.
@@ -127,6 +129,17 @@ two *better than* sayings about money itself (16:8, 19). Source: stored WEB Prov
 added *"though it costs all your possessions"*. The fool has the money. What he lacks is *lēb*, a heart:
 the price is real, but it is not paid in silver. See [[A Dry Morsel with Quietness]]. Source: stored WEB
 Proverbs 4:7; 17:16.
+
+### Proverbs 20 in context
+
+Proverbs 20:15, now ingested, gives the treasure comparison a speaker: gold and rubies may be
+abundant, but knowledgeable lips are rare. Knowledge is valued as something heard from a
+person, not only acquired as a possession. Its immediate setting includes a buyer's
+self-serving disparagement and boast (14), so the valuable mouth differs from the mouth that
+secures a bargain through deception. The contrast does not give knowledge a cash price or
+promise its speaker riches. Source: stored WEB Proverbs 20:14–15.
+
+See [[Wine Is a Mocker]].
 
 ## Significance
 

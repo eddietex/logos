@@ -197,6 +197,8 @@ plenty the wicked man is not allowed to look at.
 
 ## Cross-references
 
+- [[Sweet Food and Gravel - Proverbs 20.17 and Job 20]] — Proverbs 20:17’s sweet food becoming gravel resembles Job 20:12–15’s food becoming venom, without validating Zophar’s diagnosis.
+
 - [[The Prosperity of the Wicked]] — 20:4–29 with 15:20–35 and 18:5–21, against Job 21, Psalm 37,
   and Psalm 73.
 - [[Bildad's Second Speech]] — Job 18, the same speech in different imagery, with the same closing

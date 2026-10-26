@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:18, 24.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:20–21.
 
 - **Proverbs 16:1** — *"The plans of the heart belong to man, but the answer of the tongue is from
@@ -20,7 +22,7 @@ tags: [connection]
 - **Proverbs 19:21** — *"There are many plans in a man's heart, but Yahweh's counsel will prevail."*
   — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 20:24** — *"A man's steps are from Yahweh; how then can man understand his way?"*
-  *(stored WEB, not yet ingested)*
+  — [[Wine Is a Mocker]]
 - **Proverbs 21:30–31** — *"There is no wisdom nor understanding nor counsel against Yahweh. The horse
   is prepared for the day of battle; but victory is with Yahweh."* *(stored WEB, not yet ingested)*
 - **Psalm 37:5** — *"Commit your way to Yahweh. Trust also in him, and he will do this"* *(WEB verified
@@ -86,6 +88,17 @@ Proverbs 19:20 commands receiving counsel immediately before 19:21 says Yahweh's
 Human plans are plural and limited, but listening is still commanded. The juxtaposition makes divine
 sovereignty a limit on self-sufficiency rather than a reason to stop learning. Verse 3 also keeps
 the fool responsible for his ruined way. Source: stored WEB Proverbs 19:3, 20–21.
+
+### Proverbs 20 in context
+
+Proverbs 20:24, now ingested, turns the statement about Yahweh directing steps into a question
+about human understanding of one's own course. Yet verse 18 explicitly commends advice in
+planning, including warfare. Human limitation therefore does not abolish deliberation. The
+chapter places responsible preparation beside an outcome and path that the planner cannot fully
+comprehend; it does not promise that counsel makes every plan succeed.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

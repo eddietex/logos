@@ -101,6 +101,16 @@ aiding the poor, and recognizing the limits of human plans.
 See [[Better Is the Poor Who Walks in Integrity]] . Sources: stored WEB references cited above;
 Proverbs 10:1; 19:1–29.
 
+### Proverbs 20 in comparison
+
+Proverbs 20 remains within the collection attributed to Solomon at 10:1. Its kings are generic
+figures: feared like a lion, discerning in judgment, winnowing the wicked, and upheld by love
+and faithfulness (2, 8, 26, 28). None is identified as Solomon. The unit treats sobriety,
+commerce, counsel, parents, vows, and inward character as matters of wisdom; it supplies no new
+biographical event for him.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the Job passages cited above.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -110,6 +120,8 @@ Proverbs 10:1; 19:1–29.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[Wine Is a Mocker]] — Proverbs 20:1–30; collection attribution, not a narrated participant.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–29; Collection attribution only; the
   ruler, servant, and household members are unnamed types.

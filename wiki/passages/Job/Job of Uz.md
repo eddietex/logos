@@ -154,6 +154,8 @@ territory.
 
 ## Cross-references
 
+- [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Proverbs 20:7's blessing on righteous children must be read beside Job's integrity and subsequent bereavement.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23’s safety promise stands in explicit
   tension with the God-fearing Job’s later losses; Job 1:1 supplies the premise. See
   [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .

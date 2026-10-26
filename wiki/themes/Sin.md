@@ -246,7 +246,20 @@ Fools *"mock at making atonement for sins"* (9, WEB's rendering); despising a ne
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Discernment and accountability — Proverbs 20:7, 9, 27, 30
+
+Verse 9 questions who can claim to have purified the heart and to be without sin. It sits
+beside recognizable integrity (7), inward searching (27), and the cleansing image of punishment
+(30). This challenges self-exoneration without making moral distinctions meaningless. Job 2:3
+prevents turning the general question into proof that a particular sufferer deserves
+affliction. See [[What Is Man That He Should Be Clean]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:7, 9, 27, 30; No confident claim to a self-purified heart.
 
 - [[Hope Deferred]] — Proverbs 13:6, 19, 21–22.
 

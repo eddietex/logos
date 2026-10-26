@@ -236,7 +236,20 @@ read as a newly narrated divine speech.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Discernment and accountability — Proverbs 20:7, 21
+
+The children of the person walking in integrity are blessed (7), while an inheritance quickly
+gained is denied blessing in the end (21). Acquiring property and receiving blessing are
+distinguishable. **Explicit tension:** Job 1:18–19 narrates the death of the righteous man's
+children, and Job 21:7–9 describes secure children of the wicked. Neither prosperity nor loss
+can be used as a direct test of parental character.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:7, 21; Children blessed; hasty inheritance denied final blessing.
 
 - [[A False Balance]] — Proverbs 11:11, 25–26.
 

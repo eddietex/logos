@@ -200,7 +200,19 @@ laylâ waʾăp̄ēlâ*). It is the hour Job 24:15 gave the adulterer, who *"wait
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Discernment and accountability — Proverbs 20:20, 27
+
+The parent's curser loses his lamp in blackness (20), while the human spirit is Yahweh's lamp
+searching the inward person (27). The first image represents ruin and the second disclosure.
+Verse 20 does not expressly define the loss as absence of descendants; that possibility comes
+from comparison with other lamp passages, not from the saying alone.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:20, 27; Two distinct lamps: life extinguished and inward searching.
 
 - [[Hope Deferred]] — Proverbs 13:9.
 

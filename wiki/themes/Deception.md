@@ -223,7 +223,20 @@ verses 5 and 9.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:6, 10, 14, 17, 23
+
+Differing weights and measures are condemned twice (10, 23). The buyer who disparages goods
+then boasts about them illustrates self-serving speech (14); fraudulent food turns from
+sweetness to gravel (17). Verse 6 separately questions professions of unfailing love. The
+chapter assesses commercial instruments, immediate pleasure, and spoken claims by a standard
+beyond apparent gain.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:6, 10, 14, 17, 23; False measures and buyers whose boasting contradicts their bargaining.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 5, 9, 22, 28; The liar ranks below
   the poor; corrupt witness attacks justice.

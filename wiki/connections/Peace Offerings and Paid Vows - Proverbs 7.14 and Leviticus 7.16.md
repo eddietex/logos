@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:25.
+
 - **Proverbs 7:14** — [[The Young Man Void of Understanding]]: *"Sacrifices of peace offerings are
   with me. Today I have paid my vows"* (*zibḥê šəlāmîm ʿālāy hayyôm šillamtî nəḏārāy*)
 - **Leviticus 7:15–16** *(not yet ingested; WEB verified)* — *"The flesh of the sacrifice of his
@@ -40,6 +42,18 @@ point stands: the vocabulary of the sanctuary is available to the strange woman,
 can be the opening line of a seduction. The wiki does not read the verse as evidence of cultic
 prostitution; Proverbs 7 names no god and no shrine, and the woman speaks of her own house and her
 own husband (7:19).
+
+### Proverbs 20 in context
+
+Proverbs 20:25 supplies another warning about religious commitment: rash dedication followed by
+belated consideration of vows becomes a snare. Proverbs 7:14 concerns vows claimed as already
+paid in a seduction; 20:25 concerns the timing of deliberation before commitment. Both prevent
+treating religious language as an automatic guarantee of wisdom. Verse 25 does not specify the
+vowed object, victim, or sacrifice, and should not be turned into a retelling of a particular
+rash-vow narrative.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

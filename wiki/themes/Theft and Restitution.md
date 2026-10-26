@@ -87,7 +87,19 @@ weights, without prescribing a repayment rate. See
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Discernment and accountability — Proverbs 20:10, 14, 17, 23
+
+Differing weights, dishonest scales, and fraudulent food (10, 17, 23) bring appropriation
+through trade under moral judgment. The buyer's changed speech exposes a related deception
+(14). Unlike the legal restitution cases, the chapter sets no repayment rate or adjudication
+procedure. See [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:10, 14, 17, 23; Fraudulent gain condemned without a restitution tariff.
 
 - [[A False Balance]] — Proverbs 11:1.
 - [[Jacob's Flocks]] — Genesis 30:33; anything off-pattern in Jacob's flock *"will be considered

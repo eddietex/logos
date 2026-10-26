@@ -120,6 +120,8 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[Wine Is a Mocker]] — Proverbs 20:16’s seizure of a guarantor’s garment supplies no exception to Exodus 22:26–27’s return of the necessary covering.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:17’s figurative loan to Yahweh
   develops divine concern for the poor beside Exodus 22:21–27’s concrete lending protections. See
   [[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]] .

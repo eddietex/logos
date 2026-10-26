@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:7, 9, 11, 27.
+
 - **Job 4:17–19** — Eliphaz, reporting his night vision: *"Shall mortal man be more just than God?
   Shall a man be more pure than his Maker? Behold, he puts no trust in his servants. He charges his
   angels with error. How much more, those who dwell in houses of clay…"* —
@@ -107,6 +109,19 @@ that you should magnify him… that you should visit him every morning, and test
 moment?"* (7:17–18). Where the friends use it to make man too low to complain, and the psalm to
 marvel that God crowns him, Job uses it to ask why God will not leave so small a thing alone. See
 [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]].
+
+### Proverbs 20 in context
+
+Proverbs 20:9 asks who can claim to have made the heart pure and to be without sin. It stands
+in a chapter that still calls a man righteous and upright in conduct (7) and recognizes pure
+and right work even in a child (11). The question therefore challenges self-certification as
+sinless without abolishing meaningful judgments about conduct. Verse 27's searching lamp places
+inward life under Yahweh's scrutiny. Beside Job 14:4 and 15:14–16, this strengthens the
+distinction between a general claim about human impurity and a specific charge against an
+afflicted person; Job 2:3 still affirms the sufferer's integrity.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

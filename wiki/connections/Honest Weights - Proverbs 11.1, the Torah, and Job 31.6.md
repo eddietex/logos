@@ -7,11 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:10, 14, 17, 23.
+
 - [[A False Balance]] — Proverbs 11:1, 3, 20.
 - [[Job's Oath of Innocence]] — Job 31:5–8.
 - Leviticus 19:35–36 and Deuteronomy 25:13–16 — WEB verified; books not yet ingested.
 - [[The Plans of the Heart]] — Proverbs 16:2, 11.
-- Proverbs 20:10, 23 — stored WEB; not yet ingested.
+- Proverbs 20:10, 23 — now ingested in [[Wine Is a Mocker]].
 
 ## Analysis
 
@@ -46,6 +48,18 @@ people: *"All the ways of a man are clean in his own eyes; but Yahweh weighs the
 weighing Job asked for in 31:6. Proverbs 21:2 and 24:12 repeat it with *hearts*. 1 Samuel 2:3 says the
 same: *"By him actions are weighed"* (WEB at bible-api.com; not yet ingested). Source: stored WEB
 Proverbs 11:1; 16:2, 11; 21:2; 24:12; Job 31:6.
+
+### Proverbs 20 in context
+
+Proverbs 20:10 and 23 repeat Yahweh's condemnation of differing weights; verse 10 includes
+measures, and verse 23 adds dishonest scales. Verse 14 portrays the buyer disparaging the goods
+and then boasting once away, while verse 17 makes fraudulent food turn to gravel. The repeated
+judgment exposes dishonesty both in an instrument and in what its user says. These are
+commercial sayings, not a stated restitution schedule. Job 31:5–8's request for an even balance
+still forbids taking material loss as a reliable measure of guilt.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

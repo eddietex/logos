@@ -233,6 +233,14 @@ promise (23) remains explicitly in tension with Job's God-fearing suffering. The
 princes judged inappropriate (10) also sits uneasily beside the wise servant's elevation in 17:2;
 different settings are retained rather than turned into a single rule.
 
+[[Wine Is a Mocker]] (20:1–30) tests professions against conduct: sobriety and restraint, faithful love,
+integrity, a clean heart, honest weights, and discreet speech. Yahweh makes hearing and sight,
+saves the person who waits instead of retaliating, directs steps beyond full human
+understanding, and searches inwardly through the human spirit as lamp. The king's terror and
+threshing judgment stand beside love and faithfulness sustaining his throne. The blessing on
+righteous children remains in tension with Job's bereavement; cleansing blows cannot cancel
+Proverbs 17:26's condemnation of unjust punishment.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -292,7 +300,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[A Dry Morsel with Quietness]] — Proverbs 17:1–28
 - [x] [[A Strong Tower]] — Proverbs 18:1–24
 - [x] [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–29
-- [ ] Wine Is a Mocker — Proverbs 20:1–30
+- [x] [[Wine Is a Mocker]] — Proverbs 20:1–30
 - [ ] The King's Heart — Proverbs 21:1–31
 - [ ] A Good Name — Proverbs 22:1–16
 

@@ -349,7 +349,19 @@ timetable for resolving the tension.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:2, 7, 20, 22
+
+Provoking the king endangers life (2), parental cursing ends in an extinguished lamp (20), and
+waiting for Yahweh replaces revenge with promised rescue (22). The blessing on righteous
+offspring (7) cannot serve as a guarantee that their lives are immune to loss beside Job
+1:18–19. The chapter gives warnings and assurances without a timetable for every outcome.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:2, 7, 20, 22; Royal danger, household blessing, extinguished life, and rescue.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:8–9, 16, 18, 23; Wisdom, commandment,
   correction, and fear of Yahweh point toward life.

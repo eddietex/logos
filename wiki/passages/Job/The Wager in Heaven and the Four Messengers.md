@@ -244,6 +244,8 @@ quietly making room for chapter 3.
 
 ## Cross-references
 
+- [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Proverbs 20:7 cannot guarantee the survival of righteous offspring alongside Job 1:18–19.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23 promises safety to the God-fearing,
   while Job 1:8, 13–19 affirms the fear of God and narrates loss. See
   [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job]] .

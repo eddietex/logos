@@ -274,6 +274,8 @@ on which Job could not read his own case from the outside. See [[Retribution]] a
 
 ## Cross-references
 
+- [[Wine Is a Mocker]] — Proverbs 20:24 extends the divinely directed steps of 16:9 into a question; 20:29 balances youthful strength with the gray hair praised in 16:31.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:20–21 joins receiving counsel with
   Yahweh’s prevailing counsel; 19:12 varies the royal favor image of 16:15.
 

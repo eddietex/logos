@@ -86,6 +86,18 @@ folly to protect that reading. See
 See [[Better Is the Poor Who Walks in Integrity]] . Sources: stored WEB references cited above;
 Proverbs 10:1; 19:1–29.
 
+### Proverbs 20 in comparison
+
+Job is a comparison, not a participant in Proverbs 20. His children's deaths despite his
+integrity (Job 1:1, 18–19; 2:3) remain in explicit tension with an unconditional safety reading
+of 20:7. The purity question in 20:9 resembles Job 14:4 without proving the friends' particular
+accusations, and his request for an even balance (31:5–8) gives the honest weights of 20:10, 23
+a judicial counterpart. His refusal to wish an enemy dead (31:29–30) parallels 20:22's refusal
+of revenge. Neither 20:30's blows nor his painful sores (Job 2:7) justify reclassifying his
+affirmed integrity as hidden wickedness.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the Job passages cited above.
+
 ## Timeline / key events
 
 Prose prologue and epilogue (Job 1–2, 42:7–17), given here as background for the ingested
@@ -248,6 +260,8 @@ speeches; each becomes a linked passage page as it is ingested.
   full of days"* (42:17). **He is never told about the wager.**
 
 ## Appears in
+
+- [[Wine Is a Mocker]] — Proverbs 20:1–30; comparison, not a participant.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 7, 17, 23; Comparative only:
   integrity amid poverty, abandoned kinship, generosity, and undeserved trouble.

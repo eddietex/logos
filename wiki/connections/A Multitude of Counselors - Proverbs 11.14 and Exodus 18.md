@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:5, 18, 19, 24.
+
 - [[Whoever Loves Correction]] — Proverbs 12:15.
 
 - [[A False Balance]] — Proverbs 11:9–14.
@@ -38,6 +40,18 @@ way right, while the wise person listens. The contrast does not say that every c
 Proverbs 12:5 already describes deceitful advice. It identifies receptivity to sound correction as
 part of wisdom. Proverbs 11:14 concerns a community’s guidance, while 12:15 concerns the hearer’s
 disposition; neither makes numbers alone a test of truth. Source: stored WEB Proverbs 12:5, 15.
+
+### Proverbs 20 in context
+
+Proverbs 20:18 makes advice the means by which plans are established and wise guidance the
+prerequisite for war. Verse 5 pictures understanding as drawing deep counsel from a person's
+heart, while verse 19 warns against the indiscreet revealer of secrets. Listening well and
+choosing trustworthy advisers belong together. Verse 24 prevents reading counsel as control
+over the whole course of events. This extends the comparison with Proverbs 11:13–14 and Exodus
+18; it does not make the king or council in Proverbs a named historical institution.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

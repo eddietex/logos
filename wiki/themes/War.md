@@ -74,7 +74,19 @@ little"*, lest it become desolate (23:29–30). Joshua 24:12 later looks back on
 your sword, nor with your bow"* (WEB; *not yet ingested*). See [[The Angel Sent Ahead]] and
 [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
 
+### Discernment and accountability — Proverbs 20:18, 24
+
+Verse 18 applies counsel to war: plans are established by advice and war requires wise
+guidance. Verse 24's question about understanding one's divinely directed way limits the
+planner's confidence. The saying names neither a particular campaign nor a just-war criterion,
+and does not guarantee victory for every advised undertaking.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:18, 24; Wise guidance required without control over the whole way.
 
 - Genesis 14:1–17 — the first war, [[The Rescue of Lot and Melchizedek]]
 - [[The Treaty at Beersheba]] — Genesis 21:22, 32, the theme's negative case. **Phicol, *the captain

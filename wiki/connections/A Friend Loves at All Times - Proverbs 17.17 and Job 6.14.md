@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:6, 19, 28.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 6–7, 17.
 
 - **Proverbs 17:17** — *"A friend loves at all times; and a brother is born for adversity."* —
@@ -84,6 +86,18 @@ pleads. This is the social opposite of 17:17's constancy and 18:24's clinging fr
 supplied within chapter 19 is pity for the poor, valued by Yahweh (17), not advice to acquire wealth
 to become lovable. The comparison is ethical and thematic. Source: stored WEB Proverbs 17:17; 18:24;
 19:4, 6–7, 17.
+
+### Proverbs 20 in context
+
+Proverbs 20:6 distinguishes many claims to unfailing love from the difficulty of finding a
+faithful person. It does not say that no faithful person exists: the question makes constancy
+something to establish rather than accept on assertion. Verse 19 adds a concrete test of
+companionship, avoiding the teller of secrets; verse 28 makes love and faithfulness sustaining
+qualities of kingship too. This qualifies the ideal of 17:17 from within Proverbs itself,
+without replacing the duty of loyalty with distrust of everyone.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

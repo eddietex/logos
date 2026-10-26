@@ -139,7 +139,19 @@ Sisera's mother's at Judges 5:28. The son is told to guard the teaching *"as the
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Discernment and accountability — Proverbs 20:8, 11–13, 27
+
+The king scatters evil with his eyes (8), a child is made known through conduct (11), and
+Yahweh makes the hearing ear and seeing eye (12). Opening one's eyes in 13 opposes excessive
+sleep; the searching lamp of 27 concerns the inward person. These uses should not collapse into
+one claim that physical sight guarantees correct moral judgment.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:8, 11–13, 27; A judging gaze, created senses, and inward illumination.
 
 - [[A Gentle Answer]] — Proverbs 15:3, 11.
 

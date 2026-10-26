@@ -150,7 +150,20 @@ hand-and-foot washing. No particular moral fault or bodily uncleanness is diagno
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### Discernment and accountability — Proverbs 20:9, 11, 30
+
+The WEB uses purity and cleansing for heart, conduct, and the removal of evil (9, 11, 30).
+These are moral contexts, distinct from ritual eligibility or washing rules; the chapter gives
+no sanctuary procedure. Verse 9 questions self-claimed freedom from sin, while verse 11 still
+allows conduct to be judged pure and right. No equivalence of Hebrew terms across those
+settings is asserted.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:9, 11, 30; Moral purity language distinguished from ritual status.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Basin made from mirrors; prescribed washing and later use remain distinct.
 

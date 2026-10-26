@@ -521,6 +521,8 @@ Torah ends on is buried in the land.** See [[Burial and the Grave]] and
 
 ## Cross-references
 
+- [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]] — Proverbs 20:22's refusal to repay evil offers a wisdom comparison for Genesis 50:15–21.
+
 - [[The Plans of the Heart]] — Proverbs 16:9, the general form of Genesis 50:20.
 - [[You Meant Evil Against Me - The Two Intentions at Genesis 50.20]] — *ḥāšab* twice, one event,
   and the sentence Acts and Romans build on

@@ -284,7 +284,20 @@ counsel (20) and continuing in instruction (27) provide the counter-practice. Se
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:5–6, 9, 14–15, 18–20, 22, 25
+
+Speech can draw out counsel (5), claim loyalty or purity without establishing either (6, 9),
+disparage a purchase before boasting (14), or carry knowledge more precious than jewels (15).
+The tale-bearer reveals secrets (19); curses against parents (20), pledges of revenge (22), and
+rash dedications (25) expose speech's power to harm and bind. Discretion concerns both what one
+says and whose company one keeps.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:5–6, 9, 14–15, 18–20, 22, 25; Speech discloses counsel, sells goods, betrays secrets, and binds.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 5, 9, 20, 22, 27–28; False
   testimony receives repeated condemnation; listening remains the route to knowledge.

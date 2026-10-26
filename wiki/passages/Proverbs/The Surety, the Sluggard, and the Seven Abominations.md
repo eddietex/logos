@@ -205,6 +205,8 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 
 ## Cross-references
 
+- [[Wine Is a Mocker]] — Proverbs 20:4, 13, 16 revisits neglected work and risky guarantees, now addressing the taker of security.
+
 - [[The Plans of the Heart]] — Proverbs 16:5, 27–30; the proud and the winking worthless man again.
 - [[A False Balance]] — Proverbs 11:15 condenses the surety warning; 11:1, 20 also name what Yahweh
   rejects and delights in.

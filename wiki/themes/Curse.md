@@ -160,7 +160,19 @@ scene.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Discernment and accountability — Proverbs 20:20
+
+The person who curses father or mother loses his lamp in darkness (20). The curse is human
+speech directed at parents; the adverse outcome belongs to the speaker. Exodus 21:17 names
+death for the offense. The proverb itself specifies neither the words spoken nor an execution
+procedure. See [[The Lamp of the Wicked Put Out]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:20; A parental curse brings an extinguished lamp upon the speaker.
 
 - [[A False Balance]] — Proverbs 11:26.
 

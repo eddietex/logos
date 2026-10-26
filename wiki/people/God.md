@@ -2162,6 +2162,18 @@ The promise is not used to deny that narrative. See
 See [[Better Is the Poor Who Walks in Integrity]] . Sources: stored WEB references cited above;
 Proverbs 10:1; 19:1–29.
 
+### Proverbs 20 in comparison
+
+Proverbs 20 names Yahweh in six verses: he detests false weights (10, 23), makes hearing and
+sight (12), saves the person who waits for him (22), directs human steps beyond full human
+understanding (24), and searches the inward person through the human spirit as his lamp (27).
+These claims join commerce, creation, rescue, providence, and inward judgment without a
+narrated divine speech. His affirmation of Job's integrity (Job 2:3) remains alongside the
+chapter's family blessing and corrective blows; neither is used to diagnose all loss as
+deserved.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the Job passages cited above.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2434,6 +2446,8 @@ Proverbs 10:1; 19:1–29.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Wine Is a Mocker]] — Proverbs 20:1–30; maker, judge, guide, and rescuer.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3, 14, 17, 21, 23; Gives the prudent
   wife, rewards compassion for the poor, and establishes his counsel.

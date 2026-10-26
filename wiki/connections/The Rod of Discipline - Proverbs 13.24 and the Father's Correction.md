@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:30.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18, 25–27.
 
 - **Proverbs 3:11–12** — *"My son, don’t despise Yahweh’s discipline, neither be weary of his
@@ -74,6 +76,20 @@ flogging from the understanding person learning through rebuke; it does not say 
 Verses 26–27 expose destructive conduct toward parents and warn against ceasing to hear instruction.
 The link to 13:24 is thematic, with no new Hebrew claim. Source: stored WEB Proverbs 13:24; 19:18,
 25–27.
+
+### Proverbs 20 in context
+
+Proverbs 20:30 states that wounding blows cleanse evil and beatings purge the inward person.
+Unlike 13:24, this verse does not identify a father, son, child, or rod in the WEB; the
+application to household discipline must not be assumed. **Internal tension:** Proverbs 17:26
+condemns punishing the righteous and flogging officials for integrity. Blows therefore cannot
+be presumed purifying merely because they are blows, nor can their recipient be presumed
+guilty. Job 2:3, 7 reinforces the limit: undeserved affliction strikes the man whose integrity
+God affirms. The saying describes correction in violent terms without supplying a measure of
+permitted force or a modern disciplinary procedure.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 

@@ -242,6 +242,8 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]] — Proverbs 20:22 parallels Job 31:29–30’s refusal to curse an enemy to death; 20:10, 23 also shares the concern for honest judgment in Job 31:5–8.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:17 commends the care for the poor that
   Job 31:16–23 describes under oath. See [[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]]
   .

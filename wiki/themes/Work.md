@@ -290,7 +290,20 @@ person, and 13:23 already names injustice as a cause of deprivation.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:4, 13
+
+The sluggard's refusal to plow because of winter leaves him empty at harvest (4); love of sleep
+threatens poverty (13). The warning concerns missed work and its time, not every hungry
+person's conduct. Proverbs 13:23's productive field destroyed by injustice remains an explicit
+alternative cause of need. The WEB gives winter as the excuse; no further agricultural
+reconstruction is claimed.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:4, 13; Neglected plowing and excessive sleep jeopardize provision.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:15, 24; Idleness brings hunger; the
   sluggard will not even lift food to his mouth.

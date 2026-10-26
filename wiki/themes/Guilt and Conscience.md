@@ -94,7 +94,20 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Discernment and accountability — Proverbs 20:9, 27
+
+Verse 9 questions a claim to complete inward purity; verse 27 pictures the human spirit as
+Yahweh's searching lamp. The image can inform reflection on conscience, but the WEB does not
+call it an infallible conscience or explain a psychological mechanism. It also qualifies the
+earlier overview's emphasis on narrative: Scripture can picture inward disclosure as well as
+narrate admissions of guilt. See [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:9, 27; The heart cannot certify itself; Yahweh searches inwardly.
 
 - [[The Plans of the Heart]] — Proverbs 16:2, 25.
 

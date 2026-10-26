@@ -200,7 +200,19 @@ rebuke. This distinction prevents treating punishment and wisdom as automatic eq
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:1, 3, 4, 13, 25
+
+The person led astray by drink is not wise (1), and every fool quarrels (3). Neglected plowing
+and love of sleep bring need (4, 13), while delayed thought about a vow makes commitment a trap
+(25). These are particular failures of judgment and timing, not a diagnosis of everyone who
+experiences poverty or difficulty.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:1, 3, 4, 13, 25; Drink, quarrels, neglected work, and rash dedication.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–3, 10, 13, 25, 29; Folly ruins a
   way, then blames Yahweh; the foolish son damages his household.

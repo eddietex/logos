@@ -198,7 +198,20 @@ integrity will make him rich. They rule out treating poverty itself as proof of 
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:6–7, 9, 11
+
+Integrity marks the righteous person's walk and is linked to blessing for his children (7);
+even a child is known by conduct (11). Yet verse 9 challenges the claim to a self-purified,
+sinless heart. Integrity and sinlessness are not treated as interchangeable. **Tension:** Job's
+affirmed integrity coexists with the deaths of his children (Job 1:1, 18–19; 2:3),
+contradicting an exceptionless reading of family security. See [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]].
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:6–7, 9, 11; Character known by faithful conduct, without a boast of sinlessness.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 22; Poverty with integrity outranks
   dishonest speech; wealth is no moral verdict.

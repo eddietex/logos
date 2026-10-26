@@ -138,7 +138,20 @@ contradiction in a universal reading of 19:23:** the God-fearing Job is touched 
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Discernment and accountability — Proverbs 20:7, 30
+
+Verse 30 assigns a cleansing purpose to wounding blows, but 17:26 condemns punishment of
+righteous people. Job's affirmed integrity and undeserved affliction (Job 2:3, 7) prevent
+treating pain itself as evidence of needed correction. His children's deaths also contradict an
+unconditional safety reading of Proverbs 20:7. Both the proverb's intended benefit and these
+counterexamples remain explicit.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:7, 30; Family loss and unjust punishment limit a disciplinary diagnosis.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:3–7, 23; Folly can bring trouble, but
   Job prevents using that diagnosis for every sufferer.

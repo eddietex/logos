@@ -220,7 +220,20 @@ deprived of justice (5); and the first litigant is *ṣaddîq*, *seems right*, o
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Discernment and accountability — Proverbs 20:7, 9, 11
+
+Verse 7 calls the upright walker righteous; verse 11 treats a child's conduct as evidence of
+what is pure and right. Verse 9's question about being without sin does not erase those
+judgments. The blessing on righteous offspring must remain beside Job's righteousness and
+bereavement (Job 1:1, 18–19; 2:3), rather than becoming a way to classify parents by their
+children's survival.
+
+See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
+passage page.
+
 ## Key passages
+
+- [[Wine Is a Mocker]] — Proverbs 20:7, 9, 11; Righteous conduct remains recognizable beside the purity question.
 
 - [[A Strong Tower]] — Proverbs 18:5, 10, 17.
 

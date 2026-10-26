@@ -622,6 +622,8 @@ Exodus that clause is his name.** See [[Call and Election]].
 
 ## Cross-references
 
+- [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]] — Proverbs 20:12 parallels the claim of Yahweh as maker of human faculties in Exodus 4:11; the settings and scope differ.
+
 - Genesis 2:3 — the first holy thing, a day
 - Genesis 3:1; 1:21 — *nāḥāš*, and *tannîn* (Exodus 7:9–10)
 - Genesis 3:24; 15:17; 19:24 — fire before the bush —

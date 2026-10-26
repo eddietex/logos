@@ -262,6 +262,8 @@ and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Wine Is a Mocker]] — Proverbs 20:30’s cleansing blows must remain beside 17:26’s condemnation of flogging for integrity.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:10 resists a servant ruling princes,
   in explicit tension with 17:2’s wise servant ruling a shameful son; 19:7 also tests the constancy
   praised in 17:17.

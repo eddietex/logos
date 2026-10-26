@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Wine Is a Mocker]] — Proverbs 20:2, 8, 26, 28.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 12.
 
 - **Proverbs 16:14–15** — *"The king's wrath is a messenger of death, but a wise man will pacify it. In
@@ -19,7 +21,7 @@ tags: [connection]
 - **Proverbs 19:12** — *"The king's wrath is like the roaring of a lion, but his favor is like dew on
   the grass."* — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 20:2** — *"The terror of a king is like the roaring of a lion. He who provokes him to anger
-  forfeits his own life."* *(stored WEB, not yet ingested)*
+  forfeits his own life."* — [[Wine Is a Mocker]]
 - **Proverbs 14:35** — *"The king's favor is toward a servant who deals wisely, but his wrath is toward
   one who causes shame."* — [[A Way That Seems Right]]
 
@@ -66,6 +68,18 @@ threatens; the latter refreshes. Verse 6 places that unequal power in a social s
 ruler's favor. No particular king is named and no justice is guaranteed merely by the dew image.
 This addition compares the stored WEB of Proverbs 16:14–15 and 19:6, 12; it makes no new claim about
 Hebrew wording.
+
+### Proverbs 20 in context
+
+Proverbs 20:2 retains the roaring lion of 19:12 but gives no balancing dew image; it warns that
+provoking the king risks one's life. The rest of the chapter places royal terror beside a
+judging gaze (8), a wise king's winnowing and threshing of the wicked (26), and love and
+faithfulness sustaining the throne (28). These are complementary royal portraits, not evidence
+that every king's anger is just. The force of the threshing image is retained without inferring
+an otherwise unreported method of execution.
+
+See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
+passage page; no new source-language claim.
 
 ## Significance
 
