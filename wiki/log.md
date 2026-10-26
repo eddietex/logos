@@ -16842,3 +16842,54 @@ times) and Proverbs 23:3, 6, *good*/*evil of eye* at 22:9 and 23:6, *in the gate
 of lies* at 23:3 — were read from Sefaria's *Miqra according to the Masorah* on 2026-10-26. The lexical
 senses of the 22:20 forms and the claim that *maṭʿammîm* occurs nowhere else were not checked against a
 lexicon or concordance and are marked so at the point of claim. `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 23.12-24.2 — Do Not Envy Sinners
+
+Ingested [[Do Not Envy Sinners]], keeping the planned Proverbs 23:12–24:2 boundary and advancing
+exactly one queue item. 23:12's call to attention echoes 22:17 and opens the block; 24:1–2 closes it
+by returning to 23:17's prohibition of envy; 24:3 begins the next item. The unattended discussion is
+written into the passage page: the rod that saves from Sheol (23:13–14); the father's glad heart
+(23:15–16); envy answered by the fear of Yahweh and a future (23:17–18); the drunkard and the glutton
+(23:19–21); father and mother, and truth bought and not sold (23:22–25); the prostitute as a deep pit
+(23:26–28); the portrait of the drunkard (23:29–35); and envy of evil men again (24:1–2).
+
+**Interpretive decisions.** The block is read as organised round the heart and argued from the
+*ʾaḥărît*, the latter end, which 23:18 promises to the God-fearer and 23:32 gives the wine. Generic
+figures receive no person pages. [[Solomon]] is not touched: he is not named and not the attributed
+author of this collection. 23:13–14 is recorded for what it says and the reason it gives, without
+treating it as settling modern questions of method. The Job 21 counter-case to Proverbs' appeal to
+the end is kept in tension, not reconciled. The *Amenemope* comparison remains unverified, and no
+claim is made about this block.
+
+**Created (3):** the passage and two connections:
+- [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]]
+- [[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]]
+
+**Revised content pages (34):** [[Proverbs]] (box, overview paragraph, Envy key theme); [[God]] and
+[[Sheol]]; 14 theme pages, each with a section and a key-passage entry (Envy, The Fear of God, Hope,
+Life and Death, Wisdom, Love, Language and Speech, Wealth and Possessions, Sexual Sin, Seeing and
+Being Seen, Deception, Strife and Peacemaking, Walking with God, Retribution); 9 existing connections
+(The Rod of Discipline, The Vine and the Cup, In the Days to Come, Two Voices in the Street, Honor Your
+Father and Mother, Better Than Gold, The Prosperity of the Wicked, Hope Deferred and the Tree of Life,
+The Drunkenness of Noah and the Drunkenness of Lot), with the *not yet ingested* labels on The Rod of
+Discipline and Two Voices in the Street replaced by links; and 8 earlier passage pages with reciprocal
+references (seven in Proverbs, plus [[Why Do the Wicked Live]]).
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index (14 rows), the
+places index (Sheol), People Index F-M (God), and all five Connections subindexes (new rows filed
+under D and G; no range redraw needed). Proverbs is now 32 / 43 pericopes and remains in progress.
+Counts by frontmatter are 176 passages, 179 people, 90 places, 83 themes, and 457 connections; four
+books started, three complete. No new person, place, or theme was needed.
+
+**Sources and validation.** All Proverbs, Genesis, and Job quotations were copied from the stored WEB.
+Deuteronomy 21:18–21, Psalm 37:1–2, Psalm 73:2–3 and 16–17, Matthew 11:19, and Luke 7:34 were verified
+at bible-api.com with `translation=web` on 2026-10-26. No unreached book was fetched, and existing raw
+files are unchanged. Hebrew claims — *ʾaḥărît* at 23:18, 32 and 24:14, 20, and *ʾaḥărîtām* at Psalm
+73:17; *qinnēʾ* at 23:17 and 24:1; the shared opening of 24:19 and Psalm 37:1; *sōḇēʾ*/*zōlēl* at
+23:20–21 and Deuteronomy 21:20; *mêšārîm* at 23:16, 31; *noḵriyyāh* at 23:27 and 2:16; *šûḥāh
+ʿămuqqāh* at 23:27 and 22:14; *teʾĕrōḇ* at 23:28 and 7:12 and *neʾerḇāh* at 1:11; *ḥinnām* at 23:29;
+*qənēh* at 23:23 and 4:5, 7; *miššəʾôl* at 23:14; and the *ketiv*/*qere* differences — were read from
+Sefaria's *Miqra according to the Masorah* on 2026-10-26. Two lexical points were not checked against
+a lexicon and are marked so at the point of claim: the shared root of *məʾaḥărîm* (23:30) and
+*ʾaḥărît*, and the sense of *ḥeṯep̄* (23:28). The Greek of Matthew 11:19 was not checked, and the
+connection page says so. `scripts/link-check.sh` exits 0.

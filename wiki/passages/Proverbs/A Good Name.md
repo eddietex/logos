@@ -168,6 +168,7 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14's *trained men*, which that page connects to
   22:6.
 - [[Thirty Excellent Things]] — Proverbs 22:17–23:11, the words of the wise that follow; 23:6's stingy eye against 22:9's generous one, and the bed of 22:27.
+- [[Do Not Envy Sinners]] — Proverbs 23:14, 27, the rod and the deep pit again.
 
 ## Notes
 

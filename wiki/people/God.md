@@ -2210,6 +2210,16 @@ fatherless robbed, and Job asks why God is not seen to act.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:19, 23; 23:10–11; Job 24:2–3.
 
+### Proverbs 23:12–24:2 in comparison
+
+Yahweh is named once in this block, as the one to be feared *"all day long"* in place of envying
+sinners (23:17). The promise that follows — *"there is a future hope, and your hope will not be cut
+off"* (23:18) — does not name who secures the future, but it is given as the reason for fearing him.
+Where 22:23 and 23:11 showed him acting as advocate, this block shows him as the fixed point the
+heart is turned toward.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:17–18.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2485,6 +2495,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:19, 23; 23:10–
 
 - [[A Good Name]] — Proverbs 22:1–16; maker of rich and poor, watcher over knowledge.
 - [[Thirty Excellent Things]] — Proverbs 22:17–23:11; object of trust, advocate of the poor, Defender (*gōʾēl*) of the fatherless.
+- [[Do Not Envy Sinners]] — Proverbs 23:12–24:2; the one to be feared all day long instead of envying sinners.
 
 - [[The King's Heart]] — Proverbs 21:1–31; director of the king's heart, weigher of hearts, giver of victory.
 

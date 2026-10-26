@@ -111,6 +111,18 @@ according to the Masorah*, 2026-10-25.
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Envy of sinners — Proverbs 23:17–18; 24:1–2
+
+Proverbs forbids envy of the wicked twice in one block. *"Don't let your heart envy sinners; but
+rather fear Yahweh all day long"* (23:17) gives the alternative to envy as a direction of the heart,
+and its reason as a future: *"there is a future hope, and your hope will not be cut off"* (23:18).
+*"Don't be envious of evil men; neither desire to be with them"* (24:1) names where envy goes next —
+into wanting their company. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) both
+verbs are *qinnēʾ*, the root traced on this page; 24:19 opens with the same four words as Psalm 37:1.
+See [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.
@@ -187,6 +199,7 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
   a neighbor’s household
 - [[The Lamp of the Commandment]] — Proverbs 6:25, 34; coveting a neighbour's wife forbidden, and
   the husband's *qinʾâ*
+- [[Do Not Envy Sinners]] — Proverbs 23:17; 24:1; Sinners and evil men not to be envied, nor their company wanted.
 
 ## Related themes
 

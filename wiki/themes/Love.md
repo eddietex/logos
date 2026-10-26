@@ -237,6 +237,16 @@ of formation, not a guarantee; see
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### A parent's gladness — Proverbs 23:15–16, 24–25
+
+*"My son, if your heart is wise, then my heart will be glad, even mine: yes, my heart will rejoice,
+when your lips speak what is right"* (23:15–16). The father's love is expressed as joy in the son's
+wisdom, and the block ends that strand with both parents: *"Let your father and your mother be glad!
+Let her who bore you rejoice!"* (23:25). The father then asks for the son's heart in return: *"My son,
+give me your heart"* (23:26).
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:6, 28; Love must be faithful; it also sustains the throne.
@@ -328,6 +338,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[The Two Feasts]] — Proverbs 9:8; *"Reprove a wise man, and he will love you"*: the scoffer hates the reprover, the
   wise man loves him, as Yahweh's reproof is love (3:12)
 - [[A Good Name]] — Proverbs 22:6, 15; Training and the rod as household care.
+- [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–26; A father's and mother's gladness, and *"give me your heart"*.
 
 ## Related themes
 

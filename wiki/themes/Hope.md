@@ -113,6 +113,16 @@ See [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] .
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### A hope not cut off — Proverbs 23:18
+
+*"Indeed surely there is a future hope, and your hope will not be cut off."* Said to the son who
+fears Yahweh instead of envying sinners, and repeated at 24:14 of the one who finds wisdom. In Sefaria's
+*Miqra according to the Masorah* (read 2026-10-26) *future* is *ʾaḥărît*, the *latter end*; the same
+noun is the wine's *"end"* at 23:32. The promise stands against Job 19:10, *"My hope he has plucked up
+like a tree"*; see [[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18; Hope motivates correction directed
@@ -231,6 +241,7 @@ comparisons documented on that passage page.
   again"* (14:7) — Job denied it of a man; the epilogue gives him a new household, four generations, and a death *"old
   and full of days"*. What he hoped for at 19:25–27 was vindication before death, and that is what arrives. See
   [[There Is Hope for a Tree - The Stump That Sprouts]].
+- [[Do Not Envy Sinners]] — Proverbs 23:18; *"Your hope will not be cut off"*, grounded in an *ʾaḥărît*.
 
 ## Related themes
 

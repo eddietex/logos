@@ -123,6 +123,7 @@ not an identified location requiring a place page.
   called *"my sister"*.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:16, money in a fool's hand *"to buy wisdom"*, with 4:7's verb.
 - [[A Strong Tower]] — Proverbs 18:15; the discerning heart *gets* (*qnh*) knowledge.
+- [[Do Not Envy Sinners]] — Proverbs 23:23, *"Buy the truth, and don't sell it"*, the same imperative *qənēh*.
 
 ## Notes
 

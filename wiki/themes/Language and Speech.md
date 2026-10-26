@@ -321,6 +321,15 @@ host's table will *"lose your good words"* (23:8), the compliments paid for a me
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### Right lips and mischievous lips — Proverbs 23:16; 24:2
+
+The block opens with lips that gladden — *"when your lips speak what is right"* (23:16) — and closes
+with lips that *"talk about mischief"* (24:2). In Sefaria's *Miqra according to the Masorah* (read
+2026-10-26) the *right* of 23:16 is *mêšārîm*, the same word the WEB renders *"smoothly"* of the wine
+at 23:31. The drunkard is given the last speech in the block (23:35), and his words convict him.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -579,6 +588,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:6–9, 13; Wisdom's straight, plain, truthful words against the perverse mouth
 - [[A Good Name]] — Proverbs 22:11–12, 14; Gracious lips, frustrated words, and the adulteress's mouth.
 - [[Thirty Excellent Things]] — Proverbs 22:18, 21; 23:8–9; Words ready on the lips, reliable answers, good words wasted.
+- [[Do Not Envy Sinners]] — Proverbs 23:16, 35; 24:2; Lips that speak what is right, the drunkard's speech, and lips that talk mischief.
 
 ## Related themes
 

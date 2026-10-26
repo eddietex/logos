@@ -217,6 +217,7 @@ discretion there, not presence.
 - [[I Know That My Redeemer Lives]] — Job 19:25, the same *gōʾēl*.
 - [[Zophar's Second Speech]] — Job 20:15, riches swallowed and vomited up.
 - [[The Stolen Blessing]] — Genesis 27, the savory food.
+- [[Do Not Envy Sinners]] — Proverbs 23:12–24:2, the next block; 23:12's call to attention echoes 22:17.
 
 ## Notes
 

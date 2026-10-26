@@ -158,6 +158,15 @@ opposite of 22:9's *generous eye*, *good of eye* (Sefaria, *Miqra according to t
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 22:9.
 
+### Eyes kept, eyes reddened — Proverbs 23:26–33
+
+The father asks: *"let your eyes keep in my ways"* (23:26). Six verses later the eyes are the way in
+for the wine — *"Don't look at the wine when it is red, when it sparkles in the cup"* (31) — and its
+marks on them: *"bloodshot eyes"* (29), *"Your eyes will see strange things"* (33). The temptation
+comes through sight, as at Genesis 3:6's *"delight to the eyes"*.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:8, 11–13, 27; A judging gaze, created senses, and inward illumination.
@@ -455,6 +464,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Prov
   capture
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 6–7; the father at the window, and the apple of the eye
 - [[Thirty Excellent Things]] — Proverbs 23:5–6; Eyes set on what is not; the stingy eye.
+- [[Do Not Envy Sinners]] — Proverbs 23:26, 29, 31, 33; Eyes kept in the father's ways, wine looked at, bloodshot eyes, strange sights.
 
 ## Related themes
 

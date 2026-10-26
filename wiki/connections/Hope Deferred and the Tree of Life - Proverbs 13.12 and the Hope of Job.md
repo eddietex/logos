@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- **Proverbs 23:18** — *"Indeed surely there is a future hope, and your hope will not be cut off."* —
+  [[Do Not Envy Sinners]]
+
 - **Proverbs 13:12** — *"Hope deferred makes the heart sick, but when longing is fulfilled, it is a
   tree of life."* — [[Hope Deferred]]
 - **Proverbs 13:19** — *"Longing fulfilled is sweet to the soul, but fools detest turning from
@@ -48,6 +51,12 @@ which the wiki does not treat as cancelling them.
 No literary dependence is claimed; the shared word *hope* in the WEB is a link in English
 translation, and no identity of Hebrew terms is asserted here. Sources: quotations copied from
 stored WEB Proverbs 13:12, 19 and Job 6:8, 11; 7:6; 14:7, 19; 17:15; 19:10.
+
+**Proverbs 23:18 promises the opposite of Job 19:10.** *"Your hope will not be cut off"* is said to
+the son who fears Yahweh instead of envying sinners; Job's *"My hope he has plucked up like a tree"*
+is said by a man who did fear him. Proverbs 24:14 repeats 23:18's promise. The wiki keeps both: the
+proverb's hope rests on an *ʾaḥărît*, an end not yet seen (Hebrew read in Sefaria's *Miqra according
+to the Masorah*, 2026-10-26), and Job speaks from inside the delay. See [[Do Not Envy Sinners]].
 
 ## Significance
 

@@ -220,6 +220,12 @@ to go.
   the assembly of the departed spirits"*, the WEB phrase that 2:18 and 9:18 place in the realm of the
   dead. The Hebrew of 21:16 was not checked in this pass
 
+- [[Do Not Envy Sinners]] — Proverbs 23:14; **named, as what correction saves from.** *"Punish him with the
+  rod, and save his soul from Sheol"* (*wənap̄šô miššəʾôl taṣṣîl*). The father's fear is that the rod
+  will kill (*"he will not die"*, 23:13); the saying answers that the death to fear is the one folly
+  leads to, the descent of 5:5, 7:27 and 9:18. Hebrew read from Sefaria's *Miqra according to the
+  Masorah*, 2026-10-26.
+
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,

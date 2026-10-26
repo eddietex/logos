@@ -178,6 +178,7 @@ and [[Suffering]].
 - [[A Dry Morsel with Quietness]] — Proverbs 17:2, 9, 21, 25; 10:5's wise and shameful son, 10:12's covering love, and 10:1's grieved parents.
 - [[A Strong Tower]] — Proverbs 18:4, 7, 11; 10:15's strong city repeated and judged *"in his own imagination"*, 10:11's spring varied.
 - [[A Good Name]] — Proverbs 22:16 closes the collection headed at 10:1.
+- [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–25, the father's gladness spoken in the first person.
 
 ## Notes
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:13–16.
+
 - [[A Good Name]] — Proverbs 22:6, 15.
 
 - [[Wine Is a Mocker]] — Proverbs 20:30.
@@ -27,7 +29,7 @@ tags: [connection]
 - **Proverbs 22:15** — *"Folly is bound up in the heart of a child: the rod of discipline drives it
   far from him."* — [[A Good Name]]
 - **Proverbs 23:13–14** — *"Don’t withhold correction from a child. If you punish him with the rod,
-  he will not die. Punish him with the rod, and save his soul from Sheol."* (not yet ingested)
+  he will not die. Punish him with the rod, and save his soul from Sheol."* — [[Do Not Envy Sinners]]
 - **Proverbs 29:15, 17** — *"The rod of correction gives wisdom, but a child left to himself causes
   shame to his mother."* … *"Correct your son, and he will give you peace; yes, he will bring delight
   to your soul."* (not yet ingested)
@@ -103,6 +105,16 @@ read as a saying rather than a guarantee, see
 [[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]].
 
 See [[A Good Name]]. Source: stored WEB Proverbs 13:24; 22:6, 15; no new source-language claim.
+
+### Proverbs 23 in context
+
+Proverbs 23:13–14 is now ingested. It answers the fear that the rod will kill — *"he will not die"* —
+by naming the death that neglect risks: *"save his soul from Sheol"* (*napšô miššəʾôl taṣṣîl*, read in
+Sefaria's *Miqra according to the Masorah*, 2026-10-26). The next two verses say what the father wants
+from the correction, and it is joy: *"My son, if your heart is wise, then my heart will be glad, even
+mine"* (23:15). As with 13:24 and 22:15, the sayings give a purpose and no method or measure.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:13–16.
 
 ## Significance
 

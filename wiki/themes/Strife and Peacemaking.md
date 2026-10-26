@@ -245,6 +245,15 @@ influence: a temper is caught from company. 15:18 had already said what such a m
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 15:18.
 
+### Needless bruises — Proverbs 23:29; 24:2
+
+Among the drinker's six troubles are *"strife"* and *"needless bruises"* (23:29): fights he did not
+need to have. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26), *needless* is *ḥinnām*,
+the *"without cause"* of the gang's ambush at 1:11 — there the victims were struck for nothing; here
+the drinker is. The block closes on men whose *"hearts plot violence"* (24:2).
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
@@ -406,6 +415,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Prov
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[A Good Name]] — Proverbs 22:10; Drive out the mocker and quarrels stop.
 - [[Thirty Excellent Things]] — Proverbs 22:24–25; The hot-tempered companion whose ways are learned.
+- [[Do Not Envy Sinners]] — Proverbs 23:29; 24:2; Strife and needless bruises at the wine; hearts that plot violence.
 
 ## Related themes
 

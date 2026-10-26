@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:20–21, 29–35.
+
 - [[Wine Is a Mocker]] — Proverbs 20:1.
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:20–21, the first vineyard and the first
@@ -74,7 +76,8 @@ drink with shameful exposure recurs deliberately: Lot in the cave (Genesis 19:33
 [[The Drunkenness of Noah and the Drunkenness of Lot]]), Habakkuk 2:15's
 woe on *"him who gives his neighbor drink… that you may gaze at their naked bodies"*, Lamentations
 4:21's Edom *"drunken, and… naked"*, and Nahum 3:5. Proverbs 23:29–35 is the extended portrait, and it
-ends with the drunkard planning the next one. Whatever Genesis 9 declines to say about Noah, the rest
+ends with the drunkard planning the next one (see
+[[Do Not Envy Sinners]]). Whatever Genesis 9 declines to say about Noah, the rest
 of the canon is not neutral about the state he was in.
 
 **Wine as wrath.** From the stupor the prophets build the Bible's most violent image. If drunkenness
@@ -113,6 +116,21 @@ strife (20:3) fits the warning against drink's brawling character.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Proverbs 23 in context
+
+Proverbs 23:29–35 is now ingested, and it is the canon's fullest portrait of drunkenness from
+inside. It opens with six questions — woe, sorrow, strife, complaints, *"needless bruises"*,
+*"bloodshot eyes"* — answered by *"Those who stay long at the wine"* (30); forbids looking at the wine
+*"when it is red, when it sparkles in the cup"* (31); and turns at *"In the end, it bites like a
+snake"* (32). The drunkard's last words are *"I can do it again. I can find another"* (35). Where
+Genesis 9 and 19 show the exposure and say nothing, Proverbs gives the drinker the last word and lets
+it condemn him. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) the *end* of 23:32 is
+*ʾaḥărîtô*, the noun used fifteen verses earlier for the God-fearer's *"future"* (23:18). An earlier
+warning in the same block (23:20–21) pairs the drinker with the glutton; see
+[[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23.
 
 ## Significance
 

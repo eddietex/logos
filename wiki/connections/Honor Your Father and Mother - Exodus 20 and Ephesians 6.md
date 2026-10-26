@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:22–25.
+
 - [[Wine Is a Mocker]] — Proverbs 20:20.
 
 - [[Get Wisdom]] — Proverbs 4:1–9; a teacher passes on his own father’s instruction.
@@ -78,6 +80,16 @@ This addition compares the stored WEB of Proverbs 20:20 and Exodus 20:12; 21:17;
 quotation from the external texts or new Hebrew claim.
 
 See [[Wine Is a Mocker]].
+
+### Proverbs 23 in context
+
+*"Listen to your father who gave you life, and don't despise your mother when she is old"*
+(23:22). The verse names the parents as the givers of life and singles out the mother's old age, the
+stage at which honour is easiest to drop. It then makes the parents' joy the goal: *"Let your father
+and your mother be glad! Let her who bore you rejoice!"* (23:25). Exodus 20:12's command is not cited,
+but the content is its own.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:22–25; Exodus 20:12.
 
 ## Significance
 

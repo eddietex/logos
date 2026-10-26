@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:26–28.
+
 - [[A Good Name]] — Proverbs 22:14.
 
 - **Proverbs 7:1–27** — the strange woman at the corner at nightfall, and her speech to the young man
@@ -99,11 +101,22 @@ Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 Proverbs 22:14 reduces the strange woman of chapters 2, 5, 7, and 9 to one image: *"The mouth of an
 adulteress is a deep pit. He who is under Yahweh's wrath will fall into it."* It is her speech —
 the flattering words of 2:16 and 7:21 — that is the pit. The saying puts Yahweh's wrath before the
-fall without saying what brought it. Proverbs 23:27 (stored, not yet ingested) repeats the image:
+fall without saying what brought it. Proverbs 23:27 repeats the image (see [[Do Not Envy Sinners]]):
 *"For a prostitute is a deep pit; and a wayward wife is a narrow well."*
 
 See [[A Good Name]]. Source: stored WEB Proverbs 2:16; 7:21; 22:14; 23:27; no new
 source-language claim.
+
+### Proverbs 23 in context
+
+Proverbs 23:26–28 compresses the prologue's strange woman into three lines. In Sefaria's *Miqra
+according to the Masorah* (read 2026-10-26), 23:27's *"deep pit"* is *šûḥāh ʿămuqqāh*, the phrase of
+22:14; its *"wayward wife"* is *noḵriyyāh*, the *foreign woman* of 2:16; and 23:28's *"lies in wait"*
+is *teʾĕrōḇ*, the form 7:12 uses of her *"lurking at every corner"* — the verb the gang used at 1:11
+(*"Let's lay in wait for blood"*). The block sets her beside the drunkard (23:29–35), and both are
+introduced by the father's *"give me your heart"* (23:26).
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 1:11; 2:16; 7:12; 22:14; 23:26–28.
 
 ## Significance
 

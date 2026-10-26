@@ -425,6 +425,14 @@ flies in the sky"* (23:4–5). The second warns against the effort, not the poss
 
 See [[Thirty Excellent Things]] and [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### Rags, and the one thing not to sell — Proverbs 23:21, 23
+
+*"For the drunkard and the glutton shall become poor; and drowsiness clothes them in rags"* (23:21):
+appetite as a road to poverty, with the sluggard's sleep (6:9–11) as its last stage. Two verses later
+the one commodity named is truth: *"Buy the truth, and don't sell it"* (23:23).
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
@@ -657,6 +665,7 @@ See [[Thirty Excellent Things]] and [[Riches Sprout Wings - Proverbs 23.4-5 and 
 - [[Wisdom Calls at the Gates]] — Proverbs 8:10–11, 18–21; instruction *"rather than silver"*, yet riches, honour, and full treasuries promised to Wisdom's lovers
 - [[A Good Name]] — Proverbs 22:1–2, 4, 7, 16; Riches ranked, promised, wielded, and lost.
 - [[Thirty Excellent Things]] — Proverbs 22:26–27; 23:4–5; Surety that costs the bed; riches that sprout wings.
+- [[Do Not Envy Sinners]] — Proverbs 23:21, 23; The drunkard's poverty, and truth as the thing not to sell.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

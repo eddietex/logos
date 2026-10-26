@@ -45,6 +45,13 @@ one.** **By the time of Daniel the phrase carries what English means by *the las
 it carries no such thing**, and the wiki records the development rather than reading the later sense
 back into 49:1.
 
+**Proverbs 23 uses the bare noun in both directions.** In Sefaria's *Miqra according to the
+Masorah* (read 2026-10-26), Proverbs 23:18 promises *ʾaḥărît* — WEB *"a future"* — to the son who
+fears Yahweh rather than envying sinners, and 23:32 gives wine its *ʾaḥărît* — WEB *"In the end, it
+bites like a snake"*. Proverbs 24:14 and 24:20 repeat the word for the wise and the evil man. The
+noun names *what comes after*, good or bad, which is the sense this page argues for the phrase. See
+[[Do Not Envy Sinners]].
+
 ## Significance
 
 **The New Testament's *en tais eschatais hēmerais* is the Septuagint's rendering of this phrase, and

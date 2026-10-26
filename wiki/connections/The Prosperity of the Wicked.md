@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:17–18; 24:1–2.
+
 - [[Whoever Loves Correction]] — Proverbs 12:3, 7, 21, 24, 28.
 
 - [[A False Balance]] — Proverbs 11:4–8, 16, 18–21, 28, 31.
@@ -201,6 +203,19 @@ safe"* (18:10). The same chapter records, without endorsing it, that *"the rich 
 [[A Strong Tower]] and
 [[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]]. Sources:
 stored WEB Proverbs 10:15; 18:10–11, 23.
+
+### Envy forbidden, a future promised — Proverbs 23:17–18; 24:1–2
+
+Proverbs twice forbids envy of sinners in one block (23:17; 24:1), granting by implication that they
+can look enviable, and answers with the God-fearer's future: *"Indeed surely there is a future hope,
+and your hope will not be cut off"* (23:18). In Sefaria's *Miqra according to the Masorah* (read
+2026-10-26) the *future* is *ʾaḥărît*, and Psalm 73:17's *"latter end"* is *ʾaḥărîtām* — Proverbs
+states as a rule what Psalm 73 reaches only in the sanctuary. Job 21:13's wicked, who *"go down to
+Sheol"* *"In an instant"*, are the case that tests the rule. See
+[[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:17–18; 24:1–2; Job 21:13; Psalm 73:17
+verified at bible-api.com with `translation=web`, 2026-10-26.
 
 ## Significance
 

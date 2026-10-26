@@ -464,6 +464,16 @@ a disputed reading; see the passage's notes.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### The wise heart and the bought truth — Proverbs 23:12–25
+
+The second block of *"the words of the wise"* returns to the voice of chapters 1–9. Wisdom is
+located in the heart (*"if your heart is wise"*, 23:15) and measured by the father's gladness (23:15,
+24); it is bought and must not be sold (*"Buy the truth, and don't sell it. Get wisdom, discipline,
+and understanding"*, 23:23), with the imperative of 4:5, 7. See
+[[Better Than Gold - The Price of Wisdom]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -663,6 +673,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 - [[Wisdom at the Creation]] — Proverbs 8:22–36; Wisdom possessed by Yahweh at the beginning, present at creation as *ʾāmôn*, delighting in humanity; whoever finds her finds life
 - [[A Good Name]] — Proverbs 22:3, 5, 12; The prudent sees danger; Yahweh watches over knowledge.
 - [[Thirty Excellent Things]] — Proverbs 22:17–21; 23:4, 9; The words of the wise, written to be kept, spoken, and reported truly.
+- [[Do Not Envy Sinners]] — Proverbs 23:12, 15, 19, 23–24; The wise heart that gladdens a father; truth bought and not sold.
 
 ## Related themes
 

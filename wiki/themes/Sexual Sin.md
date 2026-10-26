@@ -183,6 +183,17 @@ repeated at 23:27. The saying places Yahweh's wrath before the fall without sayi
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The deep pit — Proverbs 23:26–28
+
+*"For a prostitute is a deep pit; and a wayward wife is a narrow well. Yes, she lies in wait like a
+robber, and increases the unfaithful among men."* The prologue's strange woman compressed to three
+lines. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26), *deep pit* is the phrase of
+22:14, *wayward wife* is *noḵriyyāh* (*foreign woman*, as at 2:16), and *lies in wait* is the verb of
+7:12 and of the gang at 1:11. See
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
@@ -223,6 +234,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[The Two Feasts]] — Proverbs 9:13–18; Folly takes the strange woman's features — *loud*, at her door, bound
   for Sheol — and offers *"Stolen water"*, the other man's well of 5:15
 - [[A Good Name]] — Proverbs 22:14; The adulteress's mouth a deep pit.
+- [[Do Not Envy Sinners]] — Proverbs 23:27–28; The prostitute as a deep pit, the foreign woman as a narrow well, lying in wait.
 
 ## Related themes
 

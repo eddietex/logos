@@ -389,6 +389,17 @@ forward from deed to outcome and gives no license to look back from suffering to
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### The latter end — Proverbs 23:18, 21, 32
+
+The block measures conduct by where it ends: hope that *"will not be cut off"* for the God-fearer
+(23:18), poverty and rags for the drunkard and the glutton (23:21), a snakebite *"In the end"* for the
+drinker (23:32). In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) 23:18's *future* and
+23:32's *end* are one noun, *ʾaḥărît*. Job 21:13's wicked who *"spend their days in prosperity"* and go
+down to Sheol *"In an instant"* are the standing challenge to the rule; see
+[[The Prosperity of the Wicked]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
@@ -675,6 +686,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[Wisdom at the Creation]] — Proverbs 8:35–36; life and favour to whoever finds Wisdom, death loved by her haters, read after Job
 - [[The Two Feasts]] — Proverbs 9:11–12; days multiplied by Wisdom, and *"If you mock, you alone will bear it"*: each carries his own choice; Job's case kept beside it
 - [[A Good Name]] — Proverbs 22:4, 8, 16; Sowing and reaping, kept beside Eliphaz's misuse of the image.
+- [[Do Not Envy Sinners]] — Proverbs 23:18, 21, 32; The latter end as the measure: hope, rags, or a snakebite.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -206,6 +206,15 @@ The heart plans the course but Yahweh directs the step (9); departing from evil 
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### The heart on the right path — Proverbs 23:19, 26
+
+*"Listen, my son, and be wise, and keep your heart on the right path!"* (23:19); *"My son, give me
+your heart; and let your eyes keep in my ways"* (23:26). The way is the father's, and the son is asked
+for heart and eyes together. Both commands introduce dangers that lie beside the path — the drinkers
+and gluttons, the prostitute.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The Plans of the Heart]] — Proverbs 16:7, 9, 17, 25, 29.
@@ -257,6 +266,7 @@ See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
   reproof is *"the way of life"*
 - [[The Young Man Void of Understanding]] — Proverbs 7:8, 25, 27; the way to her house, and her paths
 - [[Wisdom Calls at the Gates]] — Proverbs 8:2, 20; Wisdom at the crossroads, walking the paths of justice
+- [[Do Not Envy Sinners]] — Proverbs 23:19, 26; The heart kept on the right path, the eyes kept in the father's ways.
 
 ## Related themes
 

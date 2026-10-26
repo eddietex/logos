@@ -265,6 +265,15 @@ who loses his bed (22:26–27), the skilled worker before kings (22:29), the rul
 (23:9). The WEB's *"thirty"* (22:20) rests on a disputed Hebrew word, and the often-noted Egyptian
 parallel, the *Instruction of Amenemope*, is recorded on the passage page as unverified here.
 
+[[Do Not Envy Sinners]] (23:12–24:2) returns to the voice of chapters 1–9 — *"My son"*, the father's
+glad heart, the mother *"when she is old"* — and is framed by two prohibitions of envy (23:17; 24:1).
+Its argument is the *ʾaḥărît*, the latter end: the God-fearer has *"a future hope"* that *"will not be
+cut off"* (23:18), while the wine that *"goes down smoothly"* *"In the end … bites like a snake"*
+(23:32) — one Hebrew noun for both. Between come the rod that saves from Sheol (23:13–14), the drunkard
+and the glutton (23:20–21), truth bought and not sold (23:23), the prostitute as *"a deep pit"*
+(23:27–28), and the book's fullest portrait of drunkenness, which ends with the drinker reaching for
+another (23:29–35).
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -331,7 +340,7 @@ first collection at its heading), each titled from a representative saying.
 ### The words of the wise (22:17–24:34)
 
 - [x] [[Thirty Excellent Things]] — Proverbs 22:17–23:11
-- [ ] Do Not Envy Sinners — Proverbs 23:12–24:2
+- [x] [[Do Not Envy Sinners]] — Proverbs 23:12–24:2
 - [ ] By Wisdom a House Is Built — Proverbs 24:3–22
 - [ ] The Field of the Sluggard — Proverbs 24:23–34
 
@@ -383,7 +392,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Seeing and Being Seen]] — eyes fixed straight ahead (4:25)
 - [[Work]] — the ant and the sluggard (6:6–11)
 - [[Wealth and Possessions]] — suretyship for another's debt, and poverty as a robber (6:1–11)
-- [[Envy]] — *"envy rots the bones"* (14:30)
+- [[Envy]] — *"envy rots the bones"* (14:30); *"Don't let your heart envy sinners; but rather fear Yahweh all day long"* (23:17)
 - [[The Nations]] — *"Righteousness exalts a nation"* (14:34)
 - [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)

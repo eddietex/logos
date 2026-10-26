@@ -358,6 +358,7 @@ a valley floor where a burial could actually be dug. No named place.
 - [[Elihu on God's Greatness]] — Job 36:6, *"He doesn't preserve the life (lōʾ-yəḥayyeh) of the wicked"*: 21:7's
   verb, and its claim denied. A disagreement between speakers, recorded on both pages.
 - [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]] — 21:25's death *"in bitterness of soul"*, and 21:26's dust, beside Proverbs 14:10, 32 in [[A Way That Seems Right]].
+- [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]] — Proverbs 23:17–18; 24:19–20 answer envy of the wicked with their end; Job 21:13 has them go down to Sheol *"In an instant"*.
 
 ## Notes
 

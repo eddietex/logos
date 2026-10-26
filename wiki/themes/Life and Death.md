@@ -368,6 +368,16 @@ departed spirits"* (16), the WEB phrase of 2:18 and 9:18; the pursuer of righteo
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The rod and Sheol — Proverbs 23:13–14
+
+*"If you punish him with the rod, he will not die. Punish him with the rod, and save his soul from
+Sheol."* The saying answers the fear that correction harms with the claim that neglect is deadlier;
+the death in view is the one folly leads to (7:27; 19:18). Later in the block the father calls himself
+the one *"who gave you life"* (23:22). See
+[[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]].
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 16, 21, 25; Seekers of death, the departed spirits, and life found.
@@ -725,6 +735,7 @@ the passage page.
 - [[Wisdom at the Creation]] — Proverbs 8:35–36; *"whoever finds me, finds life"*; *"All those who hate me love death"*
 - [[The Two Feasts]] — Proverbs 9:6, 11, 18; *"Leave your simple ways, and live"*, days multiplied, and Folly's
   guests *"in the depths of Sheol"*: the prologue ends on the two tables as life and death
+- [[Do Not Envy Sinners]] — Proverbs 23:13–14, 22; The rod that does not kill and saves from Sheol; the father who gave life.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -254,6 +254,14 @@ the instrument of Jacob's deception of Isaac; see
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### Wine that goes down smoothly — Proverbs 23:31–32
+
+*"Don't look at the wine when it is red, when it sparkles in the cup, when it goes down smoothly. In
+the end, it bites like a snake, and poisons like a viper."* The deception is in the gap between the
+first taste and the end. The drinker who has been bitten still says *"I can do it again"* (23:35).
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 8, 28; Treasure by a lying tongue and the false witness.
@@ -458,6 +466,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 - [[The Young Man Void of Understanding]] — Proverbs 7:10, 21; the prostitute's dress, the guarded heart, the persuasive
   words
 - [[Thirty Excellent Things]] — Proverbs 23:3, 7; Deceitful food, and a host whose heart is not with his words.
+- [[Do Not Envy Sinners]] — Proverbs 23:31–32, 35; Wine that goes down smoothly and bites at the end.
 
 ## Related themes
 

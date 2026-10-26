@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:33–35.
+
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:20–27
 - [[Lot and His Daughters]] — Genesis 19:30–38
 - [[Noah and the Flood]] — Genesis 6:9–7:24, the judgment behind the first scene
@@ -82,6 +84,14 @@ This pair is not free-standing. [[Naked and Ashamed - Genesis 3 and Genesis 9]] 
 garment that Shem and Japheth carry in backwards (9:23), and the coats of skins God makes at 3:21,
 have no counterpart in the cave. It is the one element of the pattern that the third scene drops,
 and what fills the gap is a pregnancy.
+
+### Proverbs' drunkard, who does not wake
+
+Proverbs 23:35 gives the drunkard his own voice: *"They hit me, and I was not hurt! They beat me, and
+I don't feel it! When will I wake up? I can do it again. I can find another."* Lot did not know what
+was done to him (Genesis 19:33, 35); Noah *"awoke from his wine, and knew"* (9:24). Proverbs' drunkard
+asks when he will wake, and plans the next drink in the same breath — not knowing, and not wanting
+to. See [[Do Not Envy Sinners]]. Source: stored WEB Genesis 9:24; 19:33, 35; Proverbs 23:35.
 
 ## Significance
 

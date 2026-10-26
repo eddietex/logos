@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Envy Sinners]] — Proverbs 23:23.
+
 - [[Wine Is a Mocker]] — Proverbs 20:15.
 
 - [[Get Wisdom]] — Proverbs 4:5–7; understanding prioritized even at the cost of possessions.
@@ -140,6 +142,15 @@ secures a bargain through deception. The contrast does not give knowledge a cash
 promise its speaker riches. Source: stored WEB Proverbs 20:14–15.
 
 See [[Wine Is a Mocker]].
+
+### Bought and not sold — Proverbs 23:23
+
+*"Buy the truth, and don't sell it. Get wisdom, discipline, and understanding."* In Sefaria's *Miqra
+according to the Masorah* (read 2026-10-26), *buy* and *get* are one imperative, *qənēh*, the verb of
+4:5, 7. The earlier verses set a price — *"though it costs all your possessions"* (4:7); this one adds
+that what has been bought can be sold again, and forbids it.
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 4:5–7; 23:23.
 
 ## Significance
 

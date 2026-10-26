@@ -228,6 +228,15 @@ fear.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Fear instead of envy — Proverbs 23:17
+
+*"Don't let your heart envy sinners; but rather fear Yahweh all day long."* The fear of Yahweh is
+set here as the replacement for envy, not as an extra duty beside it: the heart that is turned toward
+the sinners' visible success is turned instead toward Yahweh, and *"all day long"* makes it a standing
+orientation rather than an occasional act. The reason that follows is the future (23:18).
+
+See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23; Fear of Yahweh promises life and
@@ -442,6 +451,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7–8; Job 1:1's two verbs as a command, with health promised
 - [[Wisdom Calls at the Gates]] — Proverbs 8:13; *"The fear of Yahweh is to hate evil"*, the motto restated as a definition
 - [[A Good Name]] — Proverbs 22:4; Humility and the fear of Yahweh yield wealth, honor, and life.
+- [[Do Not Envy Sinners]] — Proverbs 23:17; Fear of Yahweh *"all day long"*, as the alternative to envying sinners.
 
 ## Related themes
 

@@ -151,6 +151,8 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 - [[The Two Paths]] — Proverbs 4:12, 16; the unstumbling foot and sweet sleep, against the sleepless wicked.
 - [[The Lamp of the Commandment]] — Proverbs 6:22; the walking and the sleeping of 3:23–24 given a
   guardian: the teaching that leads and keeps watch.
+- [[Do Not Envy Sinners]] — Proverbs 23:17; 24:1, envy of sinners forbidden twice more.
+- [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]] — Proverbs 3:31.
 
 ## Notes
 
