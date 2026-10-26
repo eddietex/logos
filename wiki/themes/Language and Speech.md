@@ -245,7 +245,15 @@ The fool's talk brings a rod (3); the truthful witness will not lie (5) and *"sa
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The gentle answer and the harsh word — Proverbs 15:1–2, 4, 7, 14, 23, 26, 28
+
+*"A gentle answer turns away wrath, but a harsh word stirs up anger"* (1) opens a chapter that is mostly about speech: the gentle tongue as *"a tree of life"* (4), the fool's mouth that *gushes* and *feeds on* folly (2, 14), the righteous heart that *"weighs answers"* (28). Verse 23 adds timing to manner — *"How good is a word at the right time!"* Job's friends claimed the quality for themselves (Job 15:11), and Job named the result *"miserable comforters"* (16:2); see [[Comforters Who Do Not Comfort]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:1–2, 4, 7, 14, 23, 26, 28.
 
 - [[Hope Deferred]] — Proverbs 13:2–3, 5, 17.
 

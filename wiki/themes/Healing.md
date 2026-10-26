@@ -110,7 +110,15 @@ that passage page.
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Good news gives health to the bones — Proverbs 15:4, 30
+
+*"A gentle tongue is a tree of life, but deceit in it crushes the spirit"* (4), and *"Good news gives health to the bones"* (30). Words heal or wound in Proverbs as directly as medicine; 17:22 will add that *"A cheerful heart makes good medicine"*.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:4, 30.
 
 - [[Hope Deferred]] — Proverbs 13:17.
 

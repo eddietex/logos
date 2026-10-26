@@ -201,7 +201,15 @@ The false witness *"pours out lies"* (5) and *"is deceitful"* (25); *"the folly 
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Deceit that crushes the spirit — Proverbs 15:4
+
+*"A gentle tongue is a tree of life, but deceit in it crushes the spirit"* (4): deceit is named not as a breach of fact but as an injury to the hearer's spirit.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:4.
 
 - [[Hope Deferred]] — Proverbs 13:5, 7.
 

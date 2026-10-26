@@ -77,6 +77,9 @@ biography. Source: stored WEB Proverbs 10:1; 13:1–25.
 whose favour goes to a wise servant, is a type rather than an identification of Solomon. Source:
 stored WEB Proverbs 10:1; 14:1–35.
 
+[[A Gentle Answer]] (Proverbs 15:1–33) continues the collection attributed to Solomon at 10:1. Solomon is
+not named, and no king appears in the chapter. Source: stored WEB Proverbs 10:1; 15:1–33.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -86,6 +89,8 @@ stored WEB Proverbs 10:1; 14:1–35.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[A Gentle Answer]] — Proverbs 15:1–33; collection attribution only, from 10:1.
 
 - [[A Way That Seems Right]] — Proverbs 14:1–35; collection attribution only, from 10:1.
 

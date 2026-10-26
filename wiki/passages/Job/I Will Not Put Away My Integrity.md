@@ -207,6 +207,7 @@ last time anyone in the dialogue recites it.
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:11 draws the inference from 26:6: if Sheol and Abaddon are before Yahweh, so are human hearts.
 - [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]] — 27:16–17's silver divided by the innocent beside Proverbs 13:22.
 - [[Bildad's Third Speech]] — Job 25, the speech 26:2–4 mocks and 26:5–14 outbids; the hymn of 25:2–3
   and the *"how then can man be just"* (25:4) that 27:5's *"justify you"* answers.

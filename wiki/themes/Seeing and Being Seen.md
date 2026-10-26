@@ -133,7 +133,15 @@ Sisera's mother's at Judges 5:28. The son is told to guard the teaching *"as the
 [[The Young Man Void of Understanding]], [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]], and
 [[The Apple of the Eye - Deuteronomy 32.10, Psalm 17.8, and Proverbs 7.2]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Yahweh's eyes everywhere — Proverbs 15:3, 11
+
+*"Yahweh's eyes are everywhere, keeping watch on the evil and the good"* (3) widens 5:21 from the adulterer's road to every place. Verse 11 reaches the bottom of the cosmos — *"Sheol and Abaddon are before Yahweh— how much more then the hearts of the children of men!"* — and draws the inference Job 26:6 left implicit: if the underworld is in view, the heart is too. See [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:3, 11.
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:21; every way of man before Yahweh's eyes
 

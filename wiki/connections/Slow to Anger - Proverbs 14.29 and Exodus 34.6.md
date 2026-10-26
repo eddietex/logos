@@ -9,7 +9,9 @@ tags: [connection]
 
 - [[A Way That Seems Right]] — Proverbs 14:17, 29.
 - [[The Covenant Renewed]] — Exodus 34:6, Yahweh's proclamation of his name.
-- Proverbs 15:18; 16:32; 19:11 — later uses of the phrase; verified WEB, not yet ingested.
+- [[A Gentle Answer]] — Proverbs 15:18, *"one who is slow to anger appeases strife"*, beside 15:1's gentle
+  answer that *"turns away wrath"*.
+- Proverbs 16:32; 19:11 — later uses of the phrase; verified WEB, not yet ingested.
 
 ## Analysis
 
@@ -46,3 +48,11 @@ Sources: Proverbs 14:17, 29, 35; 15:18; 16:32; 19:11; Exodus 34:6–7, checked i
 [[Strife and Peacemaking]] and [[Wisdom]] meet in the control of anger, and [[Compassion and Mercy]]
 connects the human virtue to the divine attribute. The connection gives Proverbs' moral
 psychology a theological anchor without claiming that the book makes it explicit.
+
+### Appeasing strife — Proverbs 15:18
+
+[[A Gentle Answer]] brings the first of the later uses into the wiki: *"A wrathful man stirs up
+contention, but one who is slow to anger appeases strife"* (15:18). The chapter's first line had said the
+same of speech — *"A gentle answer turns away wrath, but a harsh word stirs up anger"* (15:1) — so the
+slow to anger is the person from whom the gentle answer comes. The divine attribute of Exodus 34:6 is,
+in this chapter, a peacemaker's. Source: stored WEB Proverbs 15:1, 18; Exodus 34:6.

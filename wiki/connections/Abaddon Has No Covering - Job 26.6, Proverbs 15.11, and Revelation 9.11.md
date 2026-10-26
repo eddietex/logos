@@ -16,7 +16,7 @@ tags: [connection]
 - **Psalm 88:11** — *"Is your loving kindness declared in the grave? Or your faithfulness in
   Destruction?"* *(not yet ingested)*
 - **Proverbs 15:11** — *"Sheol and Abaddon are before Yahweh— how much more then the hearts of the
-  children of men!"* *(not yet ingested)*
+  children of men!"* — [[A Gentle Answer]]
 - **Proverbs 27:20** — *"Sheol and Abaddon are never satisfied; and a man's eyes are never
   satisfied."* *(not yet ingested)*
 - **Revelation 9:11** — *"They have over them as king the angel of the abyss. His name in Hebrew is
@@ -71,3 +71,8 @@ in none of the texts is Abaddon outside God's sight or rule.
   Septuagint usually renders *ʾăbaddôn* as *apōleia*, *destruction*; Revelation instead transliterates
   the Hebrew and then supplies a Greek name of its own, which suggests the author expected readers to
   know the Hebrew word as a name.
+- **In its chapter, the proverb is one of nine statements about Yahweh.** [[A Gentle Answer]] sets 15:11
+  eight verses after *"Yahweh's eyes are everywhere, keeping watch on the evil and the good"* (15:3) and
+  among sayings on what Yahweh detests and loves (15:8–9). Its *how much more* is the chapter's ground
+  for treating the heart as answerable: the thoughts of the wicked are detested (15:26) because they are
+  seen. Source: stored WEB Proverbs 15:3, 8–11, 26.

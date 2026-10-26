@@ -187,6 +187,16 @@ beside a ruling that despising him is sin (21), commends being *"slow to anger"*
 phrase of Exodus 34:6, and admits that *"The heart knows its own bitterness"* (10), a limit Job's
 friends did not respect.
 
+[[A Gentle Answer]] (15:1–33) opens on *"A gentle answer turns away wrath"* (1) and is mostly about
+speech — the gentle tongue as *"a tree of life"* (4), the *"word at the right time"* (23), the righteous
+heart that *"weighs answers"* (28). It names Yahweh nine times, more than any chapter of the collection
+so far: his eyes *"are everywhere"* (3), Sheol and Abaddon are before him and so are human hearts (11),
+the wicked man's sacrifice is *"an abomination"* while *"the prayer of the upright is his delight"* (8),
+and he *"will keep the widow's borders intact"* (25). Its first *"better than"* sayings — *"Better is
+little, with the fear of Yahweh, than great treasure with trouble"* (16) — admit within the same chapter
+that put *"much treasure"* in the righteous house (6) that the righteous may have little. It ends on
+*"The fear of Yahweh teaches wisdom. Before honor is humility"* (33).
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -241,7 +251,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Whoever Loves Correction]] — Proverbs 12:1–28
 - [x] [[Hope Deferred]] — Proverbs 13:1–25
 - [x] [[A Way That Seems Right]] — Proverbs 14:1–35
-- [ ] A Gentle Answer — Proverbs 15:1–33
+- [x] [[A Gentle Answer]] — Proverbs 15:1–33
 - [ ] The Plans of the Heart — Proverbs 16:1–33
 - [ ] A Dry Morsel with Quietness — Proverbs 17:1–28
 - [ ] A Strong Tower — Proverbs 18:1–24
@@ -295,6 +305,7 @@ first collection at its heading), each titled from a representative saying.
   it after Job
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
 - [[Hope]] — *"Hope deferred makes the heart sick"* (13:12)
+- [[Prayer]] — *"the prayer of the upright is his delight"* (15:8)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19); *"the commandment is a
   lamp"* (6:23)

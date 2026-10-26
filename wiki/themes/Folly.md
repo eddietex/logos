@@ -162,7 +162,15 @@ The foolish woman tears down her house *"with her own hands"* (1); the fool's ta
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The gushing mouth — Proverbs 15:2, 5, 7, 14, 20–21
+
+The fool's mouth *gushes out* folly (2) and *feeds on* it (14); he despises his father's correction (5) and his mother (20); and folly *"is joy to one who is void of wisdom"* (21). Folly here is an appetite as well as an error.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:2, 5, 7, 14, 20–21.
 
 - [[Hope Deferred]] — Proverbs 13:16, 19–20.
 

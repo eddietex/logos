@@ -317,7 +317,15 @@ The house of the wicked is overthrown and the tent of the upright flourishes (11
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The rich righteous house and the better little — Proverbs 15:6, 10, 25, 27
+
+Chapter 15 states retribution in its classic form — treasure in the righteous house (6), death for the hater of reproof (10), the proud man's house uprooted (25) — and in the same chapter supplies the better-than sayings (16–17), which can only be spoken where the righteous have little and the wicked much. Job, who lost everything (Job 1:3, 13–19), remains the explicit counterexample to reading 15:6 as a guarantee. See [[Better Is Little - The Better-Than Sayings of Proverbs]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:6, 10, 25, 27.
 
 - [[Hope Deferred]] — Proverbs 13:6, 9, 13, 15, 18, 21–22, 25.
 

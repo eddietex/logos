@@ -324,6 +324,7 @@ Lord is full of compassion and mercy."*
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:8, 29, the upright man's prayer as Yahweh's delight, beside 42:8–9; see [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
 - [[I Repent in Dust and Ashes]] — Job 42:1–6: the confession that precedes the verdict, before anything is
   restored; *niḥamtî* (42:6) and *wayənaḥămû* (42:11).
 - [[Job of Uz]] — Job 1:1–5: *"blameless and upright"*, the inventory of 1:3 doubled, the children of 1:2, and

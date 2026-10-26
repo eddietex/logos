@@ -158,6 +158,7 @@ trapped man has sinned. See [[Retribution]].
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:3 widens 5:21's *"before Yahweh's eyes"* to every place; 15:24 reverses 5:5's descent to Sheol.
 - [[If You Seek Her as Silver]] — Proverbs 2:16–19; the strange woman's first appearance, her
   smooth words, forgotten covenant, and house sinking to death.
 - [[Keep Your Heart]] — Proverbs 4:20–27; *"Turn your ear"*, the lips, and the level path

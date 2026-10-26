@@ -144,6 +144,7 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:20, a near-doublet of 10:1 in the WEB.
 - [[Hope Deferred]] — Proverbs 13:1; the wise son and his father again.
 - [[Whoever Loves Correction]] — Proverbs 12:1, 15; teachability develops the correction of Proverbs 10:17.
 

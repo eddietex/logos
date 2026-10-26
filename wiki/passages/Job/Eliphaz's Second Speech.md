@@ -184,6 +184,7 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:1, the gentle answer, beside Eliphaz's *"word that is gentle toward you"* (15:11); see [[Comforters Who Do Not Comfort]].
 - [[What Is Man That He Should Be Clean]] — the three speeches on human impurity (4:17–19,
   15:14–16, 25:4–6), how they escalate, and the problem of a true doctrine used as a false
   diagnosis.

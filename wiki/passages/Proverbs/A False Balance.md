@@ -160,6 +160,7 @@ wiki’s interpretation; the verses do not state their own exception clauses. Se
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:22 repeats 11:14's *multitude of counselors*; 15:4 continues 11:30's tree of life.
 - [[Whoever Loves Correction]] — Proverbs 12 continues counsel, truthful speech, and the stability of righteousness.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10; righteousness, wealth, and speech continue into

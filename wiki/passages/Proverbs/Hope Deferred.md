@@ -167,6 +167,7 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:4, the next tree of life after 13:12.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1; the collection's opening son and father.
 - [[Whoever Loves Correction]] — Proverbs 12:1; love of correction, here given its parental side.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12; Yahweh's reproof as a father's.

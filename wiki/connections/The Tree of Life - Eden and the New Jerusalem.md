@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Gentle Answer]] — Proverbs 15:4.
+
 - [[A False Balance]] — Proverbs 11:30.
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:18; wisdom as a tree of life, with
@@ -117,6 +119,15 @@ the experience of a hope realized, set against the sick heart of hope deferred. 
 refers to Eden directly; the shared image is recorded, not a claim of allusion. See
 [[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]]. Source: stored WEB
 Proverbs 3:18; 11:30; 13:12.
+
+### A gentle tongue — Proverbs 15:4
+
+[[A Gentle Answer]] gives the fourth and last tree of life in Proverbs: *"A gentle tongue is a tree of
+life, but deceit in it crushes the spirit"* (15:4). The image has now moved from Wisdom herself (3:18) to
+righteous fruit (11:30), fulfilled longing (13:12), and a manner of speech. The second line's crushed
+spirit is the opposite of what the tree gives. As with 13:12, the verse makes no reference to Eden, and
+the shared image is recorded without a claim of allusion. Source: stored WEB Proverbs 3:18; 11:30; 13:12;
+15:4.
 
 ## Significance
 

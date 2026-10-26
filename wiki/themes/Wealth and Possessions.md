@@ -346,7 +346,15 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Much treasure and better little — Proverbs 15:6, 16–17, 27
+
+*"In the house of the righteous is much treasure"* (6), and in the same chapter *"Better is little, with the fear of Yahweh, than great treasure with trouble"* (16). The two forms do not conflict: one states the ordinary run of things, the other ranks goods when they come apart. Greed for gain *"troubles his own house"* (27). See [[Better Is Little - The Better-Than Sayings of Proverbs]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:6, 16–17, 27.
 
 - [[Hope Deferred]] — Proverbs 13:7–8, 11, 18, 21–23.
 

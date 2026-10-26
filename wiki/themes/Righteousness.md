@@ -194,7 +194,15 @@ The tent of the upright flourishes (11), the evil bow at the gates of the righte
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The pursuer of righteousness — Proverbs 15:6, 9, 19, 28–29
+
+Yahweh *"loves him who follows after righteousness"* (9) — righteousness as something pursued, not only possessed. The righteous house holds treasure (6), the upright path is *"a highway"* (19), the righteous heart weighs answers (28), and Yahweh hears the prayer of the righteous (29). The better-than sayings of 15:16–17 keep the righteous man with little in view.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:6, 9, 19, 28–29.
 
 - [[Hope Deferred]] — Proverbs 13:5–6, 9, 21–22, 25.
 

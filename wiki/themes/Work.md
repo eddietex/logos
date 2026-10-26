@@ -261,7 +261,15 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The sluggard's thorn patch — Proverbs 15:19
+
+*"The way of the sluggard is like a thorn patch, but the path of the upright is a highway"* (19): laziness pictured not as rest but as a road that tears at whoever walks it, set against the upright rather than the diligent.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:19.
 
 - [[Hope Deferred]] — Proverbs 13:4, 11, 23.
 

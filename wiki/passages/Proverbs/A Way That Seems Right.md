@@ -177,6 +177,7 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:18, *slow to anger* again after 14:29; 15:13, 15 beside 14:10, 13.
 - [[The Two Feasts]] — Proverbs 9:1; Wisdom's built house behind 14:1's wise woman.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7; wise in one's own eyes, behind 14:12.
 - [[Hope Deferred]] — Proverbs 13:14, repeated with the fear of Yahweh at 14:27; and 13:24's rod.

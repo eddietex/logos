@@ -171,7 +171,15 @@ The quick-tempered commit folly (17); *"He who is slow to anger has great unders
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Wrath turned away — Proverbs 15:1, 18
+
+The gentle answer *"turns away wrath"* (1), and *"one who is slow to anger appeases strife"* (18). The first is a matter of speech, the second of character; both make the peacemaker the one who absorbs the anger rather than returns it. See [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:1, 18.
 
 - [[Hope Deferred]] — Proverbs 13:10.
 

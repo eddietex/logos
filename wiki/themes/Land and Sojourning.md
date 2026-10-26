@@ -172,7 +172,15 @@ is a comparison, not an explicit place identification. See
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### The widow's field — Proverbs 15:25
+
+*"He will keep the widow's borders intact"* (25): land at the scale of one field, kept by Yahweh for the person least able to keep it. Proverbs forbids moving *"the ancient boundary stone"* at 22:28 and 23:10, and Job 24:2 lists those *"who remove the landmarks"*. See [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:25.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:30; The righteous are promised permanence while
   the wicked will not dwell in the land, restating Proverbs 2:21–22’s contrast.

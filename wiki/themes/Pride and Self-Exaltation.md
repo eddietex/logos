@@ -150,7 +150,15 @@ that passage page.
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Before honor is humility — Proverbs 15:25, 33
+
+Yahweh *"will uproot the house of the proud"* (25), whose estate is the threat to the widow's borders; and *"Before honor is humility"* (33), repeated in the WEB at 18:12 against *"Before destruction the heart of man is proud"*. Humility is set beside the fear of Yahweh again at 22:4.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:25, 33.
 
 - [[Hope Deferred]] — Proverbs 13:10.
 

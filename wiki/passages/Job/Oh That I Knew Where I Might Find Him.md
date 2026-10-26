@@ -352,6 +352,7 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:25, Yahweh keeping the widow's borders, against 24:2–3's moved landmarks and taken ox; see [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]].
 - [[Whoever Loves Correction]] — Proverbs 12:11, 24 commends diligent work; Job 24:5–11 prevents diagnosing hungry workers as lazy.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4 warns against laziness, but Job 24:5–11’s

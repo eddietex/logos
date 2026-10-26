@@ -253,7 +253,15 @@ either case it is the first line of a seduction. See [[The Young Man Void of Und
 Leviticus 7:16 verified WEB at bible-api.com, not stored; Hebrew read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.
 
+### The wicked man's sacrifice — Proverbs 15:8
+
+*"The sacrifice made by the wicked is an abomination to Yahweh, but the prayer of the upright is his delight"* (8). The verdict falls on the worshipper, not the form — verse 9 names the wicked man's *way* as the abomination — and Proverbs sharpens it at 21:3, 27. Job 42:8–9 is a narrated case: the friends' burnt offering accepted through Job's prayer. See [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:8.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Altar made; contributed metals distinguished from the fixed census payment.
 

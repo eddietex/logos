@@ -208,6 +208,13 @@ to go.
   Folly's *guests* — literally *her called ones* — are already there. Her house is not only the way down;
   the dining room is in the depths. Hebrew read from Sefaria's *Miqra according to the Masorah*,
   2026-10-25.
+- [[A Gentle Answer]] — Proverbs 15:11, 24; **before Yahweh, and below the upward path.** *"Sheol and
+  Abaddon are before Yahweh— how much more then the hearts of the children of men!"* (15:11) takes Job
+  26:6's naked Sheol and draws the inference: nothing in the deepest place is hidden, so nothing in a
+  heart is. And *"The path of life leads upward for the wise, to keep him from going downward to Sheol"*
+  (15:24) reverses the prologue's descents (5:5; 7:27; 9:18), naming Sheol as what the path avoids
+  without saying where it ends. See
+  [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
 
 ## Related places
 

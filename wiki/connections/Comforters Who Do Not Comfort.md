@@ -9,6 +9,9 @@ tags: [connection]
 
 - [[Whoever Loves Correction]] — Proverbs 12:18, 25.
 
+- [[A Gentle Answer]] — Proverbs 15:1, 4, 23; the gentle answer, the tongue that crushes the spirit, and
+  the word at the right time, beside Eliphaz's *"word that is gentle toward you"* (Job 15:11).
+
 - **Job 2:11** — they came *"to sympathize with him and to comfort him"* — *lānûd lô ûlənaḥămô* —
   [[Seven Days of Silence]]
 - **Job 16:2** — *"I have heard many such things. You are all miserable comforters!"* —
@@ -147,3 +150,15 @@ Proverbs 12:1, 18, 25; Job 16:1–5; 42:7 checked in stored WEB.
 - **It is why *"miserable comforters"* entered the language.** The phrase is quoted far more often
   than it is located, and locating it matters: it is said by a man to three people who walked across
   a desert for him, four chapters after the last of them stopped being silent.
+
+### The gentle answer — Proverbs 15:1, 4, 23
+
+[[A Gentle Answer]] states in general form what the friends of Job failed to do. *"A gentle answer turns
+away wrath, but a harsh word stirs up anger"* (15:1); *"A gentle tongue is a tree of life, but deceit in
+it crushes the spirit"* (15:4); *"How good is a word at the right time!"* (15:23). Eliphaz had claimed the
+quality for his own speech — *"Are the consolations of God too small for you, even the word that is gentle
+toward you?"* (Job 15:11) — and Job answered, *"How long will you torment me, and crush me with words?"*
+(Job 19:2), and *"I would strengthen you with my mouth. The solace of my lips would relieve you"* (Job
+16:5). **The friends judged their words by their content; Proverbs and Job both judge them by their
+effect on the hearer.** The comparison is of subject; whether Job 15:11 and Proverbs 15:1 share Hebrew
+vocabulary has not been checked here. Source: stored WEB Proverbs 15:1, 4, 23; Job 15:11; 16:2, 5; 19:2.

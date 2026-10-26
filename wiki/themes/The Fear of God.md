@@ -196,7 +196,15 @@ Uprightness of walk *is* fearing Yahweh, and perversity despises him (2). *"In t
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Little with the fear of Yahweh; the fear that teaches — Proverbs 15:16, 33
+
+*"Better is little, with the fear of Yahweh, than great treasure with trouble"* (16) ranks the fear of God above wealth, and *"The fear of Yahweh teaches wisdom. Before honor is humility"* (33) makes it the teacher rather than only the beginning (1:7; 9:10). See [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] and [[Better Is Little - The Better-Than Sayings of Proverbs]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:16, 33.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:27; Fear of Yahweh is said to prolong life, in
   contrast to the shortened years of the wicked.

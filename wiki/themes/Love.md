@@ -187,7 +187,15 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### A dinner of herbs where love is — Proverbs 15:9, 12, 17
+
+Yahweh *"loves him who follows after righteousness"* (9); the scoffer *"doesn't love to be reproved"* (12); and *"Better is a dinner of herbs, where love is, than a fattened calf with hatred"* (17), which ranks love at the table above the quality of the meal.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:9, 12, 17.
 
 - [[Hope Deferred]] — Proverbs 13:24.
 

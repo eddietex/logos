@@ -43,7 +43,7 @@ canonical order below. Edit this list to reprioritize.
 ### Wisdom / Poetry
 - [x] [[Job]] — complete (32 / 32 pericopes)
 - [ ] [[Psalms]] — not-started
-- [ ] [[Proverbs]] — in-progress (22 / 43 pericopes)
+- [ ] [[Proverbs]] — in-progress (23 / 43 pericopes)
 - [ ] [[Ecclesiastes]] — not-started
 - [ ] [[Song of Solomon]] — not-started
 

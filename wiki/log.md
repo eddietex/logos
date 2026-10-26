@@ -16333,3 +16333,60 @@ quotations come from stored WEB Proverbs 9:1; 13:14; 15:18; 16:25, 32; 17:5; 19:
 fetched, and no exact Hebrew or Greek claim was made. `scripts/link-check.sh` ran at the end of the
 pass and exited 0, with no wrapped links and no unexpected dangling targets; the expected baseline is
 62 unstarted book pages.
+
+## [2026-10-25] ingest | Proverbs 15.1-33 — A Gentle Answer
+
+Ingested [[A Gentle Answer]], keeping the planned Proverbs 15:1–33 boundary and advancing one queue
+item. Because the run was unattended, the passage page carries the discussion: the gentle answer and
+harsh word (1); Yahweh's eyes everywhere (3) widening 5:21; the gentle tongue as the fourth tree of life
+in Proverbs (4); the wicked man's sacrifice and the upright man's prayer (8, 29); Sheol and Abaddon
+before Yahweh, *"how much more"* human hearts (11); the first better-than sayings of the chapter
+(16–17); *slow to anger* again (18); the near-doublet of 10:1 at 15:20; the word at the right time (23);
+the upward path away from Sheol (24); the widow's borders (25); the bribe (27); and the motto with a
+verb of instruction, *"The fear of Yahweh teaches wisdom. Before honor is humility"* (33).
+
+**Interpretive decisions.** Yahweh is named nine times (15:3, 8, 9, 11, 16, 25, 26, 29, 33), so [[God]]
+is updated; these are general statements of his character, not narrated acts. 15:8 is read as judging
+the worshipper rather than ranking prayer above sacrifice, on the strength of 15:9. Job 15:11's
+*"word that is gentle toward you"* is set beside 15:1 as a comparison of subject only; the shared English
+*gentle* at 15:1, 15:4, and Job 15:11 is not claimed as shared Hebrew, and the passage page says so.
+All repetitions noted (15:20 / 10:1, 15:22 / 11:14, 15:33 / 18:12, 15:18 / 14:29 / Exodus 34:6, 15:3 /
+5:21) are comparisons of the stored WEB English. The tension between 15:6, 25 and Job 1:1–3 is written
+out explicitly, together with the chapter's own better-than check. Abaddon still gets no page of its
+own; its connection page covers it. Rather than a new connection for 15:1 and Job's friends, the
+existing [[Comforters Who Do Not Comfort]] was extended. Generic figures get no pages.
+
+**Created (4):** [[A Gentle Answer]];
+[[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]];
+[[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]];
+[[Better Is Little - The Better-Than Sayings of Proverbs]].
+
+**Revised content pages (46):** [[Proverbs]]; [[God]]; [[Solomon]]; [[Sheol]]; 21 themes —
+[[Language and Speech]], [[Strife and Peacemaking]], [[Wisdom]], [[Folly]], [[The Fear of God]],
+[[Seeing and Being Seen]], [[Sacrifice and Offering]], [[Prayer]], [[Righteousness]], [[Love]],
+[[Life and Death]], [[Walking with God]], [[Wealth and Possessions]], [[The Poor and the Vulnerable]],
+[[Pride and Self-Exaltation]], [[Retribution]], [[Work]], [[Mourning and Lament]], [[Healing]],
+[[Deception]], and [[Land and Sojourning]]; six existing connections —
+[[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]],
+[[Slow to Anger - Proverbs 14.29 and Exodus 34.6]],
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]],
+[[The Tree of Life - Eden and the New Jerusalem]], [[Comforters Who Do Not Comfort]], and
+[[Sacrifice Before the Priesthood]]; sixteen earlier passage pages with reciprocal links —
+[[A Wise Son Makes a Glad Father]], [[A False Balance]], [[Whoever Loves Correction]],
+[[Hope Deferred]], [[A Way That Seems Right]], [[The Strange Woman and the Wife of Your Youth]],
+[[Do Not Consent to Sinners]], [[The Purpose of the Proverbs]], [[Eliphaz's Second Speech]],
+[[Miserable Comforters and the Witness in Heaven]], [[I Will Not Put Away My Integrity]],
+[[Oh That I Knew Where I Might Find Him]], [[The Restoration of Job]], [[Job of Uz]],
+[[Laws of Holiness and Compassion]], and [[Justice, Sabbaths, and Feasts]].
+
+**Indexes and totals.** Ten index pages revised: books (23 / 43 pericopes), the wiki dashboard, themes,
+places, People Index F-M and N-Z, and Connections Index A-C, D-H, O-S, and T-Z. Counts by frontmatter:
+167 passages, 179 people, 90 places, 83 themes, 433 connections; four books started, three complete.
+
+**Sources and validation.** All Proverbs 15 quotations are copied from stored WEB. Supporting quotations
+come from stored WEB Proverbs 1:7, 19; 3:14, 18; 5:5, 21; 6:16; 8:11, 19; 9:10; 10:1; 11:14, 30; 12:1, 25;
+13:12; 14:29; 16:8, 19, 32; 17:1, 22; 18:12; 19:1, 11; 21:3, 27; 22:4, 22–23, 28; 23:10–11; 25:11; 28:6, 9;
+Job 1:1, 3, 5; 2:9; 15:11; 16:2, 5; 19:2; 24:1–3; 26:6; 42:8–9; and Exodus 22:22–24; 23:8; 34:6.
+Deuteronomy 19:14; 27:17, 1 Samuel 15, and Hosea 6 are cited by reference only, not quoted. No unreached
+book was fetched, and no exact Hebrew or Greek claim was made. `scripts/link-check.sh` ran at the end of
+the pass and exited 0.

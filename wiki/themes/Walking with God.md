@@ -194,7 +194,15 @@ The upright walk is the fear of Yahweh (2). The prudent consider their way (8, 1
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Thorn hedge and highway — Proverbs 15:9–10, 19, 21, 24
+
+The way of the wicked is an abomination and the pursuer of righteousness is loved (9); stern discipline waits for *"one who forsakes the way"* (10); the sluggard's way is a thorn patch and the upright's path *"a highway"* (19); the man of understanding *"keeps his way straight"* (21); and the path of life leads upward (24).
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:9–10, 19, 21, 24.
 
 - [[Hope Deferred]] — Proverbs 13:6, 15, 20.
 

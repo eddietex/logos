@@ -140,3 +140,11 @@ Related: [[Sacrifice and Offering]] · [[Sin]] · [[Righteousness]] · [[A Pleas
   altars (Numbers 23:1) and of the Levites' offering when the ark came up (1 Chronicles 15:26) — brought by three
   men to a fourth, whose prayer, not the animals, is what God says he will accept. See
   [[The Restoration of Job]].
+
+### The worshipper, not the offering — Proverbs 15:8
+
+[[A Gentle Answer]] states as a general sentence what Job's epilogue narrates: *"The sacrifice made by the
+wicked is an abomination to Yahweh, but the prayer of the upright is his delight"* (Proverbs 15:8). The
+friends' seven bulls and seven rams are accepted by way of Job's prayer (Job 42:8–9). See
+[[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]]. Source: stored WEB Proverbs 15:8; Job
+42:8–9.

@@ -384,7 +384,15 @@ The wise woman builds her house (1), echoing Wisdom's built house at 9:1. Knowle
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The listening ear and the upward path — Proverbs 15:2, 7, 12, 14, 20–22, 24, 31, 33
+
+The wise spread knowledge (2, 7), the understanding heart seeks it (14), and the ear that hears reproof *"will be at home among the wise"* (31). Counsel establishes plans (22), the wise son gladdens his father (20, nearly repeating 10:1), and *"The path of life leads upward for the wise"* (24). The chapter ends: *"The fear of Yahweh teaches wisdom"* (33).
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:2, 7, 12, 14, 20–22, 24, 31, 33.
 
 - [[Hope Deferred]] — Proverbs 13:1, 10, 14, 16, 20.
 

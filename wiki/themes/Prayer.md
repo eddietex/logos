@@ -152,7 +152,15 @@ without the negative. Proverbs states both; the difference recorded on [[Wisdom 
 is time. Jeremiah 29:13 promises the same of God: *"You shall seek me, and find me, when you search
 for me with all your heart"* (WEB at bible-api.com). See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The prayer of the upright — Proverbs 15:8, 29
+
+The prayer of the upright is Yahweh's *"delight"* (8), and *"he hears the prayer of the righteous"* while he *"is far from the wicked"* (29). Proverbs 28:9 will add the limit: the one who will not hear the law finds *"even his prayer is an abomination"*. Job 42:8's *"my servant Job shall pray for you, for I will accept him"* is the case. See [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:8, 29.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Worship leads into a renewed plea for the people.
 

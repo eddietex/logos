@@ -318,7 +318,15 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The path that leads upward — Proverbs 15:4, 10, 24, 27, 31
+
+The gentle tongue is *"a tree of life"* (4); *"whoever hates reproof shall die"* (10); the hater of bribes *"will live"* (27); the listening ear *"lives"* (31). Verse 24 gives the prologue's descent to Sheol (5:5; 7:27; 9:18) its opposite: *"The path of life leads upward for the wise, to keep him from going downward to Sheol."* The verse says what the path avoids, not where it ends.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:4, 10, 24, 27, 31.
 
 - [[Hope Deferred]] — Proverbs 13:3, 12, 14.
 

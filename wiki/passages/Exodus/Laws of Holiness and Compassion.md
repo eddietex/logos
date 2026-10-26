@@ -120,6 +120,7 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:25, Yahweh keeping the widow's borders, after 22:22–24; see [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]].
 - [[Do Not Withhold Good]] — Proverbs 3:27–28’s timely help parallels the garment returned before sunset (Exodus 22:26–27); see
   [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
 

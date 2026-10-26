@@ -154,6 +154,7 @@ territory.
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:8; Job's offerings of 1:5 and the prayer of the upright; see [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
 - [[Blameless Before Anyone Is Watching]] — Job 1:1 beside Genesis 6:9, and Ezekiel 14:14, 20,
   where Noah and Job are named together as men whose righteousness would save no one but
   themselves.

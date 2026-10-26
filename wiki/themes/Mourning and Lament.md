@@ -107,7 +107,15 @@ account of each person’s inward repentance is not. See [[Show Me Your Glory]].
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The aching heart — Proverbs 15:13, 15
+
+*"A glad heart makes a cheerful face; but an aching heart breaks the spirit"* (13), and *"All the days of the afflicted are wretched"* (15). With 13:12 and 14:10, these describe grief from the inside without passing a verdict on the griever.
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:13, 15.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Jewelry removed in mourning over threatened absence.
 

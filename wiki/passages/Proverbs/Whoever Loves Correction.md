@@ -129,6 +129,7 @@ See [[The Prosperity of the Wicked]], [[Retribution]], and [[Slavery and Servitu
 
 ## Cross-references
 
+- [[A Gentle Answer]] — Proverbs 15:5, 10, 12, 31–32 extend 12:1's love of correction; 15:23 the kind word of 12:25.
 - [[Hope Deferred]] — Proverbs 13:1, 24; the son who listens and the father who disciplines.
 - [[A False Balance]] — Proverbs 11; roots, righteous households, counsel, and truthful speech continue.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, 17; collection attribution and correction as the way of life.

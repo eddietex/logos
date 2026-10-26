@@ -26,7 +26,9 @@ tags: [connection]
   is understanding."* The same motto closing the book's first section, with *təḥillaṯ* for 1:7's
   *rēʾšîṯ* — [[The Two Feasts]]
 - **Proverbs 14:2, 16, 26–27** — the upright walk as fearing Yahweh (2); *"A wise man fears and shuns evil"* (16), close in the WEB's English to Job 1:1; and *"The fear of Yahweh is a fountain of life, turning people from the snares of death"* (27), the sentence 13:14 says of *"The teaching of the wise"* — [[A Way That Seems Right]]
-- **Proverbs 15:33** — *"The fear of Yahweh teaches wisdom."* Not yet ingested.
+- **Proverbs 15:16, 33** — *"Better is little, with the fear of Yahweh, than great treasure with
+  trouble"* (16), and *"The fear of Yahweh teaches wisdom. Before honor is humility"* (33): the motto with
+  a verb of instruction, closing the chapter — [[A Gentle Answer]]
 - **Psalm 111:10** — *"The fear of Yahweh is the beginning of wisdom. All those who do his work have a
   good understanding."* Not yet ingested.
 - **Ecclesiastes 12:13** — *"This is the end of the matter. All has been heard. Fear God, and keep his
@@ -116,3 +118,13 @@ Proverbs 8:13 added 2026-10-25: checked in `raw/bible/Proverbs.md` (WEB); Hebrew
 *Miqra according to the Masorah*.
 Proverbs 3:7 added 2026-10-25: checked in `raw/bible/Proverbs.md` (WEB); Hebrew of Proverbs 3:7 and
 Job 1:1 against Sefaria's *Miqra according to the Masorah*.
+
+### The fear that teaches — Proverbs 15:33
+
+[[A Gentle Answer]] closes on *"The fear of Yahweh teaches wisdom. Before honor is humility"* (15:33).
+Where 1:7 and 9:10 made the fear of Yahweh the *beginning* of knowledge and of wisdom, the WEB of 15:33
+makes it the teacher: not only the start of the course but its instructor. The second line recurs word
+for word in the WEB at 18:12, and 22:4 names *"humility and the fear of Yahweh"* together, so that in
+the sentence collection the motto acquires a partner virtue. The same chapter ranks a little *"with the
+fear of Yahweh"* above great treasure (15:16). This page makes no claim about the Hebrew verb of 15:33.
+Source: stored WEB Proverbs 1:7; 9:10; 15:16, 33; 18:12; 22:4.

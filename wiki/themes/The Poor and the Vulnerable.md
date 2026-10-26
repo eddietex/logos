@@ -136,7 +136,15 @@ Verse 20 observes that the poor are shunned even by neighbours; verse 21 rules t
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The widow's borders — Proverbs 15:15, 25
+
+*"Yahweh will uproot the house of the proud, but he will keep the widow's borders intact"* (25): the God who hears the widow's cry (Exodus 22:22–23) keeps her field's boundary, the thing Job 24:2–3 sees the powerful move. Verse 15's afflicted, whose days are *"wretched"*, is described without being blamed. See [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]].
+
+See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
+
 ## Key passages
+
+- [[A Gentle Answer]] — Proverbs 15:15, 25.
 
 - [[Hope Deferred]] — Proverbs 13:7–8, 18, 23.
 

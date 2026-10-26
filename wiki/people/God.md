@@ -2100,6 +2100,21 @@ toward him, and grounds the duty to the poor in his creating them. Whose childre
 in 14:26 is left open by the WEB. See [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]].
 Source: stored WEB Proverbs 14; Job 31:15.
 
+### Eyes, delight, and the widow's borders — Proverbs 15
+
+[[A Gentle Answer]] names Yahweh nine times (15:3, 8, 9, 11, 16, 25, 26, 29, 33), and unlike chapter 14
+makes him the subject of most of the verbs. His *"eyes are everywhere, keeping watch on the evil and the
+good"* (3); *"Sheol and Abaddon are before Yahweh"*, and so are human hearts (11). The wicked man's
+sacrifice, way, and thoughts are an abomination to him (8, 9, 26), while *"the prayer of the upright is
+his delight"* (8) and *"he loves him who follows after righteousness"* (9). He *"is far from the wicked,
+but he hears the prayer of the righteous"* (29). He *"will uproot the house of the proud, but he will
+keep the widow's borders intact"* (25) — the protector Exodus 22:22–23 promised, now keeping a field's
+boundary. His fear is better than great treasure (16) and *"teaches wisdom"* (33). No act is narrated;
+these are general statements of his character. See
+[[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]] and
+[[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 15;
+Exodus 22:22–23; Job 42:8.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2372,6 +2387,8 @@ Source: stored WEB Proverbs 14; Job 31:15.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[A Gentle Answer]] — Proverbs 15:3, 8–9, 11, 16, 25–26, 29, 33; all-seeing, delighting in the upright's prayer, keeper of the widow's borders.
 
 - [[A Way That Seems Right]] — Proverbs 14:2, 26–27, 31; feared, a fortress and fountain of life, the poor man's Maker.
 
