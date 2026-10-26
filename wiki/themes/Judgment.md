@@ -359,7 +359,18 @@ the righteous: neither a judge's force nor a victim's wounds prove guilt.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Yahweh weighs the hearts — Proverbs 21:2, 12, 15
+
+Yahweh weighs the hearts (2), the Righteous One considers the wicked house and ruins it (12), and
+justice is ruin to evildoers (15). Weighing reaches past what a person approves in himself. See
+[[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:2, 12, 15; Hearts weighed and the wicked house considered.
 
 - [[Wine Is a Mocker]] — Proverbs 20:8–11, 20, 23, 26–27, 30; Judgment reaches markets, courts, and the inward person.
 

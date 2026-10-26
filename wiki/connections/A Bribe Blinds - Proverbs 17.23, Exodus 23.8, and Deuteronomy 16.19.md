@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:14.
+
 - **Proverbs 17:8** — *"A bribe is a precious stone in the eyes of him who gives it; wherever he
   turns, he prospers."* — [[A Dry Morsel with Quietness]]
 - **Proverbs 17:15** — *"He who justifies the wicked, and he who condemns the righteous, both of them
@@ -15,8 +17,8 @@ tags: [connection]
   [[A Dry Morsel with Quietness]]
 - **Proverbs 17:26** — *"Also to punish the righteous is not good, nor to flog officials for their
   integrity."* — [[A Dry Morsel with Quietness]]
-- **Proverbs 21:14** *(not yet ingested)* — *"A gift in secret pacifies anger; and a bribe in the
-  cloak, strong wrath."*
+- **Proverbs 21:14** — *"A gift in secret pacifies anger; and a bribe in the cloak, strong wrath."*
+  — [[The King's Heart]]
 - **Proverbs 18:5** — *"To be partial to the faces of the wicked is not good, nor to deprive the
   innocent of justice."* — [[A Strong Tower]]
 - **Proverbs 18:16** — *"A man's gift makes room for him, and brings him before great men."* —
@@ -73,6 +75,14 @@ Sefaria). The next chapter also has a gift that is not called a bribe: *"A man's
 him, and brings him before great men"* (18:16). The noun is *mattān*, not *šōḥad*, and the saying only
 observes. Read with 17:8 and 17:23, the collection leaves the reader to tell the present that opens a
 door from the bribe that buys a verdict. See [[A Strong Tower]].
+
+### Proverbs 21 in context
+
+Now ingested, Proverbs 21:14 sits between sayings on justice (12, 15): doing justice is joy to the
+righteous and ruin to evildoers. The bribe that pacifies wrath is reported as effective, not
+commended, and the chapter's own frame judges it.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

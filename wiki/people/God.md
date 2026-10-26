@@ -2174,6 +2174,20 @@ deserved.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the Job passages cited above.
 
+### Proverbs 21 in comparison
+
+Proverbs 21 names Yahweh at its opening and close. He turns the king's heart like watercourses (1),
+weighs the hearts that approve themselves (2), prefers righteousness and justice to sacrifice (3),
+and holds both the counsel that cannot stand against him and the victory the horse cannot win
+(30–31). *"The Righteous One"* who considers the wicked house (12) is a divine title in the WEB but
+a righteous man in the KJV; the wiki records the difference without deciding it. Exodus, where
+Yahweh hardens Pharaoh's heart and Pharaoh hardens it himself, keeps the turning of verse 1 from
+cancelling royal responsibility.
+
+See [[The King's Heart]] and
+[[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]]. Sources: stored WEB
+Proverbs 21 and Exodus 4:21; 9:12, 34.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2446,6 +2460,8 @@ See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the J
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The King's Heart]] — Proverbs 21:1–31; director of the king's heart, weigher of hearts, giver of victory.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1–30; maker, judge, guide, and rescuer.
 

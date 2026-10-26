@@ -433,7 +433,18 @@ water from speech to counsel within.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Wisdom and its limit — Proverbs 21:11, 20, 22, 30
+
+The simple learn when the mocker is punished, the wise by instruction (11); the wise house stores
+treasure (20); the wise man takes a mighty city (22); and yet no wisdom stands against Yahweh (30).
+The chapter praises wisdom and states its limit in the same breath.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1, 5, 15, 18, 24, 29; Sobriety, discernment, counsel, and the limits of understanding.
 

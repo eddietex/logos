@@ -196,6 +196,8 @@ the third thing a defence needs — the oath that the injury was not deserved.
 
 ## Cross-references
 
+- [[The King's Heart]] — Job 30:20's unanswered cry limits Proverbs 21:13's unanswered cry to a warning, not a diagnosis.
+
 - [[The Months of Old]] — Job 29:1–25; the chapter this one reverses, item by item (table above).
 - [[Bildad's Second Speech]] — Job 18:11, 14, *"Terrors shall make him afraid on every side, and shall
   chase him at his heels"*, *"the king of terrors"*; and 18:17, *"He shall have no name in the street"*.

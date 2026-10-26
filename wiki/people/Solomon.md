@@ -111,6 +111,12 @@ biographical event for him.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the Job passages cited above.
 
+### Proverbs 21 in comparison
+
+Chapter 21 belongs to the collection headed *"The proverbs of Solomon"* (10:1) and opens on the
+king's heart in Yahweh's hand. No king is named; the saying is attributed to a king's collection,
+not told about Solomon. See [[The King's Heart]]. Source: stored WEB Proverbs 10:1; 21:1.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -120,6 +126,8 @@ See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the J
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[The King's Heart]] — Proverbs 21:1–31; collection attribution, not a narrated participant.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1–30; collection attribution, not a narrated participant.
 

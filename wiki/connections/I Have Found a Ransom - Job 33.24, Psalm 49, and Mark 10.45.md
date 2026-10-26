@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:18.
+
 - **Job 33:23–28** — Elihu: *"If there is beside him an angel, an interpreter, one among a thousand, to
   show to man what is right for him; then God is gracious to him, and says, 'Deliver him from going down
   to the pit, I have found a ransom'"*; and the man's song, *"He has redeemed my soul from going into the
@@ -78,6 +80,15 @@ The thematic resemblance does not make the two situations one legal case.
 forbids it for the murderer, and 35:32 also forbids paying for an early return from refuge.
 The earlier exclusive claim was too broad. Exodus and Job were checked in raw; Numbers 35:9–34
 was verified in WEB at `bible-api.com` on 2026-10-23. See [[A Place to Flee - Exodus 21 and Numbers 35]].
+
+### Proverbs 21 in context
+
+Proverbs 21:18 reads *"The wicked is a ransom for the righteous; the treacherous for the upright"* —
+a reversal of fortunes like 11:8, naming no payer, payee, or procedure. The Hebrew word behind
+*ransom* here has not been checked in this pass, so the page does not assert that it matches the
+*kōper* discussed above.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

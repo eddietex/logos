@@ -271,7 +271,19 @@ The WEB's *"a house full of feasting with strife"* translates *zibḥê-rîb*, *
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### More acceptable than sacrifice — Proverbs 21:3, 27
+
+Righteousness and justice are more acceptable than sacrifice (3), and the wicked man's sacrifice is
+an abomination, more so when brought with wicked intent (27), intensifying 15:8. The chapter ranks
+conduct over offering without abolishing offering. See
+[[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:3, 27; Justice ranked above sacrifice; the wicked man's offering refused.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:1.
 

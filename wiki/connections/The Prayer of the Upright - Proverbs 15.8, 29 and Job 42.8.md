@@ -7,14 +7,16 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:3, 13, 27.
+
 - **Proverbs 15:8** — *"The sacrifice made by the wicked is an abomination to Yahweh, but the prayer of
   the upright is his delight."* — [[A Gentle Answer]]
 - **Proverbs 15:29** — *"Yahweh is far from the wicked, but he hears the prayer of the righteous."* —
   [[A Gentle Answer]]
 - **Proverbs 21:3** — *"To do righteousness and justice is more acceptable to Yahweh than sacrifice."*
-  *(not yet ingested)*
+  — [[The King's Heart]]
 - **Proverbs 21:27** — *"The sacrifice of the wicked is an abomination; how much more, when he brings
-  it with a wicked mind!"* *(not yet ingested)*
+  it with a wicked mind!"* — [[The King's Heart]]
 - **Proverbs 28:9** — *"He who turns away his ear from hearing the law, even his prayer is an
   abomination."* *(not yet ingested)*
 - **Job 1:5** — Job *"offered burnt offerings according to the number of them all"* for children who
@@ -58,6 +60,16 @@ depends on the standing of the one who offers or prays.
 Sources: Proverbs 15:8–9, 29; 21:3, 27; 28:9; Job 1:5; 42:8–9, checked in stored WEB. The later prophetic
 statements of the same theme (for instance 1 Samuel 15 and Hosea 6) are in books not yet stored, and are
 not quoted here.
+
+### Proverbs 21 in context
+
+Proverbs 21 ranks righteousness and justice above sacrifice (3), repeats 15:8's verdict on the
+wicked man's sacrifice with *"how much more"* for wicked intent (27), and adds that the one deaf to
+the poor will cry unheard (13). Job's unanswered cries (Job 19:7; 30:20) limit verse 13 to a warning
+rather than a diagnosis. See
+[[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

@@ -396,7 +396,18 @@ not be supplied as facts.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Treasure gained, kept, and given — Proverbs 21:5–6, 17, 20, 26
+
+Treasure gained by a lying tongue is a fleeting vapor (6); love of pleasure, wine, and oil
+impoverishes (17); the wise house keeps treasure that the fool swallows (20); the righteous give
+without withholding (26). Wealth is judged by how it is gained, kept, and given.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
 
 - [[Wine Is a Mocker]] — Proverbs 20:4, 10, 13–17, 21, 23; Honest acquisition, risky guarantees, and inheritance without blessing.
 

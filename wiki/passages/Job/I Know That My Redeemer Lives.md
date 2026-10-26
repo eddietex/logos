@@ -223,6 +223,8 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 
 ## Cross-references
 
+- [[The King's Heart]] — Job 19:7's unheard cry limits Proverbs 21:13's unanswered cry to a warning, not a diagnosis.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 7 describes the abandoned poor
   person beside Job 19:13–21’s testimony and plea for pity; the parallel does not blame Job for the
   abandonment.

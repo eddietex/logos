@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:28.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 28–29.
 - [[The Ten Commandments]] — Exodus 20:16.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–8.
@@ -35,6 +37,14 @@ legal procedure from the Torah. The comparison is based on the verified WEB Engl
 
 Sources: stored WEB Proverbs 19:5, 9, 28–29; Exodus 20:16; 23:1–8. The repeated sentence is an
 English-text observation, not a claim about the form of a Hebrew edition.
+
+### Proverbs 21 in context
+
+Proverbs 21:28 restates the warning: *"A false witness will perish, and a man who listens speaks to
+eternity."* The listener's lasting word is set against the liar's end; the saying gives no court
+procedure.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

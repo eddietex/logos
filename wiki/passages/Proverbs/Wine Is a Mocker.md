@@ -165,6 +165,8 @@ images, not identifiable locations requiring place pages.
 
 ## Cross-references
 
+- [[The King's Heart]] — Proverbs 21:4 names pride the lamp of the wicked; 21:17 adds wine and oil to love of pleasure.
+
 - [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] — Proverbs 20:20.
 
 - [[Better Than Gold - The Price of Wisdom]] — Proverbs 20:15.

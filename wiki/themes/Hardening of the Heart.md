@@ -93,7 +93,20 @@ as those passages are ingested.
   (4:23, the same form in the singular), *mēʾēn* (7:14), and *"if you refuse to let them go"* (9:2,
   *māʾēn*) — Hebrew checked against Sefaria's *Miqra according to the Masorah*.
 
+### The turned heart — Proverbs 21:1, 29
+
+Proverbs 21:1 states as a principle what Exodus narrates of Pharaoh: Yahweh turns a king's heart
+(compare Exodus 4:21; 9:12), while Exodus 9:34 still calls Pharaoh's hardening his own sin. Verse 29
+gives the wicked man a hardened *face* as his own act. Divine direction and human accountability are
+recorded together, not reconciled. See
+[[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:1, 29; A turned royal heart and a hardened wicked face.
 
 - [[Moses Returns to Egypt]] — Exodus 4:21; **the first hardening statement**, made before Moses has
   met Pharaoh, together with the announcement of the death of the firstborn

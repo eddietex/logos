@@ -158,7 +158,19 @@ The prayer of the upright is Yahweh's *"delight"* (8), and *"he hears the prayer
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The unheard cry — Proverbs 21:13, 27
+
+The one deaf to the poor will cry out unheard (13), and the wicked man's sacrifice is an abomination
+(27). Hearing is tied to how one hears others. Job's unanswered cries (Job 19:7; 30:20) keep this
+from becoming a rule that silence proves guilt. See
+[[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:13, 27; The cry not heard, and worship refused from the wicked.
 
 - [[A Gentle Answer]] — Proverbs 15:8, 29.
 

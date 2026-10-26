@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:4.
+
 - [[Wine Is a Mocker]] — Proverbs 20:20, 27.
 
 - **Job 18:5–6** — *"Yes, the light of the wicked shall be put out, The spark of his fire shall not
@@ -87,6 +89,13 @@ wicked is observed.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Proverbs 21 in context
+
+Proverbs 21:4 names the lamp: *"A high look, and a proud heart, the lamp of the wicked, is sin."*
+Pride is the light the wicked walk by, the lamp 13:9 and 20:20 say will be put out.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

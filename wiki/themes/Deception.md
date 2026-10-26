@@ -234,7 +234,18 @@ beyond apparent gain.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The lying tongue — Proverbs 21:6, 8, 28
+
+Treasure gained by lies is a vapor for those who seek death (6), the guilty way is devious (8), and
+the false witness perishes (28). See
+[[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:6, 8, 28; Treasure by a lying tongue and the false witness.
 
 - [[Wine Is a Mocker]] — Proverbs 20:6, 10, 14, 17, 23; False measures and buyers whose boasting contradicts their bargaining.
 

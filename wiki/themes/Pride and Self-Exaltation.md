@@ -171,7 +171,18 @@ first half rewrites 16:18; the second repeats 15:33 word for word in Hebrew (Sef
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Right in his own eyes — Proverbs 21:2, 4, 24
+
+Every way is right in a man's own eyes (2); the high look and proud heart are *"the lamp of the
+wicked"* and sin (4); the proud man's name is *scoffer* (24). Pride appears as self-approval that
+Yahweh's weighing overrules.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:2, 4, 24; Self-approval, the high look, and the scoffer's name.
 
 - [[A Strong Tower]] — Proverbs 18:11–12.
 

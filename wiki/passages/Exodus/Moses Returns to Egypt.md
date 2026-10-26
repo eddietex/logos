@@ -372,6 +372,8 @@ not say; it is the reading that best explains why the scene is here, and the wik
 
 ## Cross-references
 
+- [[The King's Heart]] — Proverbs 21:1 states as a principle the turning of a king's heart announced at 4:21.
+
 - Genesis 17:14 — *"cut off from his people … He has broken my covenant"* — *kārat*
 - Genesis 24:26; Exodus 12:27 — *"bowed his head, and worshiped"* — [[The Passover]]
 - Genesis 31:3, 20; 32:24–28; 33:4 — the sending, the father-in-law, the attack, the brother's kiss —

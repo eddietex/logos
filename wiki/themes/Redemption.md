@@ -110,7 +110,19 @@ has no price to pay. See [[The Lamp of the Commandment]],
 [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]]. Source: stored WEB Proverbs 6;
 Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A ransom for the righteous — Proverbs 21:18
+
+*"The wicked is a ransom for the righteous"*: a reversal of places like 11:8, where the wicked takes
+the delivered righteous man's place. The saying names no payer, payee, or procedure, and the wiki
+does not develop it into a theory of substitution. Its Hebrew wording has not been checked in this
+pass. See [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:18; The wicked as ransom for the righteous, a reversal of places.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Fixed half-shekel payment counted and used (38:25–28).
 

@@ -209,7 +209,20 @@ No named marriage is identified.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### The contentious woman — Proverbs 21:9, 19
+
+Two better-than sayings prefer a housetop corner or a desert to a house shared with a contentious
+woman. They speak from the husband's side and describe a household made unlivable by quarrel; they
+are not a general estimate of women, and the book also names a contentious man (26:21) and calls a
+prudent wife Yahweh's gift (19:14). See
+[[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:9, 19; The contentious wife, spoken from the husband's side.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:13–14; A quarrelsome wife is continual
   dripping; a prudent wife is Yahweh’s gift.

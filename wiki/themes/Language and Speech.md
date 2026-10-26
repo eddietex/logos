@@ -295,7 +295,17 @@ says and whose company one keeps.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Guarding the mouth — Proverbs 21:6, 23, 28
+
+Treasure by a lying tongue (6), the guarded mouth that keeps the soul from troubles (23), and the
+false witness set against the man who listens and *"speaks to eternity"* (28).
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
 
 - [[Wine Is a Mocker]] — Proverbs 20:5–6, 9, 14–15, 18–20, 22, 25; Speech discloses counsel, sells goods, betrays secrets, and binds.
 

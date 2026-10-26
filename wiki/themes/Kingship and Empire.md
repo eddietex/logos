@@ -123,7 +123,18 @@ equate every royal anger with justice.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The king's heart in Yahweh's hand — Proverbs 21:1
+
+The most powerful heart in the land is pictured as water in Yahweh's hand. The saying neither
+flatters nor excuses the king: his decisions are his, and they are not final. See
+[[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:1; The ruler's heart as directed water, without exemption from responsibility.
 
 - [[Wine Is a Mocker]] — Proverbs 20:2, 8, 26, 28; Royal terror, discerning judgment, threshing, and sustaining love.
 

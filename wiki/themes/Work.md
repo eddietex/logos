@@ -301,7 +301,18 @@ reconstruction is claimed.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Haste and the sluggard — Proverbs 21:5, 25
+
+Diligent plans profit while haste rushes to poverty (5), and the sluggard's desire kills him because
+his hands refuse to labor (25). Haste and idleness are both failures of steady work. See
+[[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:5, 25; Diligent plans against haste; the sluggard's fatal desire.
 
 - [[Wine Is a Mocker]] — Proverbs 20:4, 13; Neglected plowing and excessive sleep jeopardize provision.
 

@@ -231,7 +231,20 @@ children's survival.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Justice above sacrifice — Proverbs 21:3, 12, 15, 18, 21, 26
+
+Doing righteousness and justice outranks sacrifice (3); doing justice is joy to the righteous (15);
+the one who pursues righteousness and kindness finds life, righteousness, and honor (21); the
+righteous give without withholding (26). *The Righteous One* of verse 12 is a divine title in the
+WEB but a righteous man in the KJV; the wiki records the difference. See
+[[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:3, 12, 15, 18, 21, 26; Justice done with joy, pursued, and generous.
 
 - [[Wine Is a Mocker]] — Proverbs 20:7, 9, 11; Righteous conduct remains recognizable beside the purity question.
 

@@ -203,7 +203,21 @@ every unexpected loss a legible moral judgment.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The king's heart and the horse — Proverbs 21:1, 30–31
+
+The king's heart is turned by Yahweh like irrigation water (1), no wisdom or counsel stands against
+him (30), and the prepared horse does not decide the battle (31). The chapter does not explain how
+the turning works, and Exodus, where Yahweh hardens Pharaoh's heart and Pharaoh hardens it himself,
+keeps royal responsibility in place. See
+[[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]] and
+[[Victory Is with Yahweh - Proverbs 21.31, Exodus 15, and Psalm 20.7]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:1, 30–31; The king's heart turned, counsel outmatched, victory given.
 
 - [[Wine Is a Mocker]] — Proverbs 20:18, 22, 24; Counsel remains necessary when steps and rescue belong to Yahweh.
 

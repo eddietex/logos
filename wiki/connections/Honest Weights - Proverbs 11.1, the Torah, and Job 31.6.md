@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:2.
+
 - [[Wine Is a Mocker]] — Proverbs 20:10, 14, 17, 23.
 
 - [[A False Balance]] — Proverbs 11:1, 3, 20.
@@ -60,6 +62,13 @@ still forbids taking material loss as a reliable measure of guilt.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Proverbs 21 in context
+
+Proverbs 21:2, now ingested, is the weighing applied inward: *"Every way of a man is right in his
+own eyes, but Yahweh weighs the hearts."*
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

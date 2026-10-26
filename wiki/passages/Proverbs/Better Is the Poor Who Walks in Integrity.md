@@ -152,6 +152,8 @@ required.
 
 ## Cross-references
 
+- [[The King's Heart]] — Proverbs 21:9, 19 extend 19:13's quarrelsome wife into two better-than sayings.
+
 - [[Better Is Little - The Better-Than Sayings of Proverbs]] — 19:1, 22 rank integrity and honesty
   above material standing.
 - [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]] — 19:4, 7 develop the social

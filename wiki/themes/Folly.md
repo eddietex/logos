@@ -210,7 +210,17 @@ experiences poverty or difficulty.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The wanderer and the scoffer — Proverbs 21:16, 20, 24
+
+The man who wanders from understanding comes to rest among the departed spirits (16); the fool
+swallows what the wise stored (20); the proud man's name is scoffer (24).
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1, 3, 4, 13, 25; Drink, quarrels, neglected work, and rash dedication.
 

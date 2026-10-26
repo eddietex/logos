@@ -16700,3 +16700,51 @@ connections retain their earlier external-source documentation. The queue advanc
 and passage titles are unique. `scripts/link-check.sh` exits 0 with clean wrapped-link and
 target checks, excluding the expected 62 not-yet-started books. `git diff --check` is clean. No
 operational blocker or unresolved link remains; the interpretive tensions above are retained.
+
+## [2026-10-26] ingest | Proverbs 21.1-31 — The King's Heart
+
+Ingested [[The King's Heart]], retaining the planned Proverbs 21:1–31 boundary and advancing exactly
+one queue item. The unattended discussion is written into the passage page: the king's heart
+turned like watercourses; hearts weighed against self-approval; justice above sacrifice; pride as
+the lamp of the wicked; haste, lying treasure, and violence; the contentious woman; mercy refused;
+the mocker punished; the Righteous One; the poor man's unheard cry; the secret gift; the wanderer
+among the departed spirits; love of pleasure; the wicked as ransom; the wise besieger; the guarded
+tongue; the sluggard's desire; the wicked man's sacrifice; the false witness; and victory with
+Yahweh, not the horse.
+
+**Interpretive decisions and tensions.** Generic figures receive no person pages, and no
+geographical place is named. Solomon is collection attribution only; Pharaoh of the Exodus is a
+comparison. *The Righteous One* (12) is recorded as a translation difference — divine title in the
+WEB, a righteous man in the KJV (checked at bible-api.com) — and not resolved. Verse 1's turned
+royal heart is kept beside Exodus 9:34, where Pharaoh's hardening is his own sin. Verse 13's
+unheard cry is kept as a warning, explicitly limited by Job's unanswered cries (Job 19:7; 30:20).
+Verse 14's working bribe is retained beside 17:23's judgment of it. Verse 18's ransom is treated as
+a reversal of places, not a theory of substitution. The contentious-woman sayings (9, 19) are read
+as household better-than sayings from the husband's side, set beside 19:14 and 26:21. Verse 16 is
+linked to [[Sheol]] by its shared WEB phrase only.
+
+**Created (5):** the passage and four connections:
+- [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]]
+- [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]]
+- [[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]]
+- [[Victory Is with Yahweh - Proverbs 21.31, Exodus 15, and Psalm 20.7]]
+
+**Revised content pages (52):** [[Proverbs]]; [[God]], [[Solomon]], and
+[[Pharaoh (of the Exodus)]]; [[Sheol]]; 23 theme pages, each with new synthesis and a key-passage
+entry; 12 existing connections, each with a passage entry and a *Proverbs 21 in context* section;
+and 12 earlier passage pages (six in Proverbs, four in Exodus, two in Job) with reciprocal
+references. Forward labels for Proverbs 21:3, 14, 27, and 30–31 on three connections are replaced
+with links.
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes and places indexes,
+People Index F-M and N-Z, and all five Connections subindexes (new rows filed under C, J, K, and V;
+no range redraw needed). Proverbs is now 29 / 43 pericopes and remains in progress. Counts by
+frontmatter are 173 passages, 179 people, 90 places, 83 themes, and 451 connections; four books
+started, three complete. No new person, place, or theme was needed.
+
+**Sources and validation.** Sixteen key-verse quotations were copied from the stored WEB. External
+WEB quotations (1 Samuel 15:22; Hosea 6:6; Micah 6:8; Psalm 20:7; 33:17; Ezra 6:22) and Proverbs
+25:24 and 27:15 were verified at bible-api.com with `translation=web` on 2026-10-26; the 1 Samuel 15
+context is paraphrased and marked as such. No unreached book was fetched, and existing raw files
+are unchanged. No Hebrew claim is made; the wording behind *departed spirits* (16) and *ransom* (18)
+was deliberately left unasserted. `scripts/link-check.sh` exits 0.

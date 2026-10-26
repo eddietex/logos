@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:13, 26.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 7, 17, 22.
 - [[Laws of Holiness and Compassion]] — Exodus 22:21–27.
 - [[Job's Oath of Innocence]] — Job 31:16–23.
@@ -38,6 +40,13 @@ prosperity.
 The parallel is thematic; neither a direct quotation nor shared Hebrew terminology is asserted.
 Sources: all quotations and paraphrases checked in stored WEB Proverbs 19; Exodus 22:21–27; Job
 31:16–23.
+
+### Proverbs 21 in context
+
+Proverbs 21 states the negative case — stopped ears to the poor bring an unheard cry (13) — and the
+positive: *"the righteous give and don't withhold"* (26).
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

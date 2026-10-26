@@ -210,7 +210,17 @@ from comparison with other lamp passages, not from the saying alone.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The lamp of the wicked — Proverbs 21:4
+
+Pride is called *"the lamp of the wicked"*, the lamp that 13:9 and 20:20 say will be put out. See
+[[The Lamp of the Wicked Put Out]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:4; Pride named the lamp of the wicked.
 
 - [[Wine Is a Mocker]] — Proverbs 20:20, 27; Two distinct lamps: life extinguished and inward searching.
 

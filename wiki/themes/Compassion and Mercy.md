@@ -183,7 +183,18 @@ shared Hebrew vocabulary.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Mercy refused and kindness pursued — Proverbs 21:10, 13, 21, 26
+
+The wicked soul shows the neighbor no mercy (10); stopping one's ears to the poor brings an unheard
+cry (13); kindness pursued with righteousness finds life (21); the righteous give and do not
+withhold (26).
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:10, 13, 21, 26; The wicked show no mercy; kindness is pursued.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 17, 22; Overlooking an offense and
   pity for the poor join practical kindness to divine reward.

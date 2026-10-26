@@ -220,7 +220,18 @@ relationships. The command to wait names no timetable or guarantee of an enemy's
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Contention and the pacifying gift — Proverbs 21:9, 14, 19
+
+Domestic contention drives a man to the roof or the desert (9, 19), and a secret gift pacifies anger
+(14). Verse 14 reports that a bribe calms wrath; 17:23 has already judged the secret bribe as
+perverting justice. See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1–3, 19, 22; Honor in avoiding quarrels and refusing personal revenge.
 

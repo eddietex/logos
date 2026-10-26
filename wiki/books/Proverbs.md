@@ -241,6 +241,13 @@ threshing judgment stand beside love and faithfulness sustaining his throne. The
 righteous children remains in tension with Job's bereavement; cleansing blows cannot cancel
 Proverbs 17:26's condemnation of unjust punishment.
 
+[[The King's Heart]] (21:1–31) is framed by Yahweh's sovereignty over the powerful: the king's heart
+turned like watercourses (1), and no counsel against Yahweh, whose victory the prepared horse cannot
+supply (30–31). Between, Yahweh weighs hearts that approve themselves (2) and prefers righteousness
+and justice to sacrifice (3, 27). Two better-than sayings flee a contentious wife (9, 19); the bribe
+that pacifies wrath is observed, not approved (14); the one deaf to the poor cries unheard (13), a
+warning kept in tension with Job's unanswered cries.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -301,7 +308,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[A Strong Tower]] — Proverbs 18:1–24
 - [x] [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–29
 - [x] [[Wine Is a Mocker]] — Proverbs 20:1–30
-- [ ] The King's Heart — Proverbs 21:1–31
+- [x] [[The King's Heart]] — Proverbs 21:1–31
 - [ ] A Good Name — Proverbs 22:1–16
 
 ### The words of the wise (22:17–24:34)

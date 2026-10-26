@@ -216,6 +216,10 @@ to go.
   without saying where it ends. See
   [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
 
+- [[The King's Heart]] — Proverbs 21:16; **not named.** The man who wanders from understanding *"shall rest in
+  the assembly of the departed spirits"*, the WEB phrase that 2:18 and 9:18 place in the realm of the
+  dead. The Hebrew of 21:16 was not checked in this pass
+
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:13.
+
 - [[Wisdom Calls in the Street]] — Proverbs 1:24, 28: *"Because I have called, and you have refused;
   I have stretched out my hand, and no one has paid attention … Then will they call on me, but I will
   not answer."* Wisdom personified, to the simple.
@@ -66,6 +68,14 @@ for me with all your heart"*, WEB, checked against bible-api.com), Proverbs' own
 reading is on [[Wisdom Calls in the Street]]: Proverbs 1:28 describes seeking as a way out of the
 storm, after it has come, and the finding-passages require the whole heart; but the texts do not
 say this in so many words.
+
+### Proverbs 21 in context
+
+Proverbs 21:13 applies the unanswered call to the poor: whoever stops his ears at their cry *"will
+also cry out, but shall not be heard."* Job's unanswered cries (Job 19:7; 30:20) keep this from
+becoming a diagnosis of every unanswered prayer.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

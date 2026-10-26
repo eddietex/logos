@@ -252,6 +252,10 @@ See [[The Song of the Sea]].
 - [[Jethro's Counsel]] — Exodus 18:4, 8, 10; **remembered as a sword and a hand.** *"Delivered me from Pharaoh's
   sword"*; *"all that Yahweh had done to Pharaoh"*; *"delivered you … out of the hand of Pharaoh"*
 
+- [[The King's Heart]] — Proverbs 21:1; **comparison only.** *"The king's heart is in Yahweh's hand"* states as a
+  principle what Exodus narrates of him, while Exodus 9:34 still calls his hardening his own sin. See
+  [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]]
+
 ## Related people
 
 - [[Pharaoh (of the oppression)]] — his predecessor, who died at 2:23

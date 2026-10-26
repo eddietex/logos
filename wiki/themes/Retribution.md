@@ -369,7 +369,19 @@ tension:** the blessing on righteous children (7) cannot guarantee their safety 
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Measure for measure — Proverbs 21:7, 13, 16, 18, 25
+
+Violence drives its makers away (7), the deaf ear goes unheard (13), the wanderer rests with the
+dead (16), the wicked become ransom (18), the sluggard's desire kills (25). These are expected
+outcomes stated as sentences; Job's unanswered cries (Job 19:7; 30:20) remain a limit on reading
+them as diagnoses.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
 
 - [[Wine Is a Mocker]] — Proverbs 20:4, 7, 13, 17, 20–22, 30; Expected outcomes remain in tension with undeserved losses.
 

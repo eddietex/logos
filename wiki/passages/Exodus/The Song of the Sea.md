@@ -557,6 +557,8 @@ whole song or the refrain of a longer one, the text does not say.** **Psalm 106:
 
 ## Cross-references
 
+- [[The King's Heart]] — Proverbs 21:31; see [[Victory Is with Yahweh - Proverbs 21.31, Exodus 15, and Psalm 20.7]].
+
 - [[The Golden Calf]] — Singing and dancing accompany the calf in Exodus 32:17–19, where deliverance is attributed to the image rather than to Yahweh’s action.
 - Genesis 1:2, 9–10 — *"the surface of the deep"*; the *"dry land"* — [[The Creation of the World]]
 - Genesis 2:7–8 — nostrils; *"Yahweh God planted a garden"* — [[The Garden of Eden]]

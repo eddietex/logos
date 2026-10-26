@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:25.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 26.
 
 - **Proverbs 6:6–11** — [[The Surety, the Sluggard, and the Seven Abominations]]: *"Go to the
@@ -68,6 +70,13 @@ do not diagnose every poor person.
 
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
 in stored WEB, 2026-10-25.
+
+### Proverbs 21 in context
+
+Proverbs 21:25 sharpens the sluggard's desire of 13:4: *"The desire of the sluggard kills him, for
+his hands refuse to labor."*
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

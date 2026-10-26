@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:9, 19.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 22.
 
 - **Proverbs 15:16** — *"Better is little, with the fear of Yahweh, than great treasure with trouble."* —
@@ -69,6 +71,14 @@ does not explicitly call that figure rich. Verse 22 independently ranks the poor
 Poverty is not praised for itself: character supplies the ranking. The chapter's report of social
 abandonment (4, 7) and its call to pity the poor (17) show why this distinction matters. Source:
 stored WEB Proverbs 19:1, 4, 7, 17, 22; 28:6.
+
+### Proverbs 21 in context
+
+Proverbs 21 adds two better-than sayings about the household: a housetop corner (9) or a desert (19)
+is better than living with a contentious woman. See
+[[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 

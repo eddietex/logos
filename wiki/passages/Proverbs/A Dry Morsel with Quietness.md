@@ -262,6 +262,8 @@ and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[The King's Heart]] — Proverbs 21:14 observes the secret gift working; 17:23 judges it.
+
 - [[Wine Is a Mocker]] — Proverbs 20:30’s cleansing blows must remain beside 17:26’s condemnation of flogging for integrity.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:10 resists a servant ruling princes,

@@ -84,7 +84,18 @@ and does not guarantee victory for every advised undertaking.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The prepared horse — Proverbs 21:22, 31
+
+The wise man scales the city of the mighty (22), and the horse is prepared for battle while victory
+is with Yahweh (31). Preparation is assumed; its outcome is not owned. See
+[[Victory Is with Yahweh - Proverbs 21.31, Exodus 15, and Psalm 20.7]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:22, 31; The wise besieger and the prepared horse.
 
 - [[Wine Is a Mocker]] — Proverbs 20:18, 24; Wise guidance required without control over the whole way.
 

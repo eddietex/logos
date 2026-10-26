@@ -180,7 +180,19 @@ proverb's silence.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The cry of the poor — Proverbs 21:13
+
+Whoever stops his ears at the cry of the poor will cry and not be heard: measure for measure. The
+saying warns the one who ignores the poor; it does not diagnose every unanswered cry, as Job's
+unheard cry (Job 19:7; 30:20) shows. See
+[[Lends to Yahweh - Proverbs 19.17, Exodus 22, and Job 31]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:13; Stopped ears answered by an unheard cry.
 
 - [[Wine Is a Mocker]] — Proverbs 20:4, 13, 16; Warnings about idleness do not erase injustice or protection of debtors.
 

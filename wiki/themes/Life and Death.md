@@ -359,7 +359,18 @@ offspring (7) cannot serve as a guarantee that their lives are immune to loss be
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The assembly of the departed spirits — Proverbs 21:6, 16, 21, 25
+
+Lying treasure belongs to *"those who seek death"* (6); the wanderer rests in *"the assembly of the
+departed spirits"* (16), the WEB phrase of 2:18 and 9:18; the pursuer of righteousness finds life
+(21); the sluggard's desire kills him (25). See [[Sheol]].
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
+the passage page.
+
 ## Key passages
+
+- [[The King's Heart]] — Proverbs 21:6, 16, 21, 25; Seekers of death, the departed spirits, and life found.
 
 - [[Wine Is a Mocker]] — Proverbs 20:2, 7, 20, 22; Royal danger, household blessing, extinguished life, and rescue.
 

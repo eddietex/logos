@@ -398,6 +398,8 @@ has stretched out the rod; now God's word is said to come by that hand.**
 
 ## Cross-references
 
+- [[The King's Heart]] — Proverbs 21:1, 29; see [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]].
+
 - Genesis 1:14; 17:21; 18:14; 21:2 — *môʿēd*, *"set time"*
 - Genesis 2:5 — *"no herb of the field … Yahweh God had not caused it to rain"* — [[Creation]]
 - Genesis 2–3 — *YHWH ʾĕlōhîm*

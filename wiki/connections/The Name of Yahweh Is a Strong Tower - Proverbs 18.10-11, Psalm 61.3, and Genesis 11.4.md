@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King's Heart]] — Proverbs 21:22.
+
 - **Proverbs 18:10** — *"Yahweh's name is a strong tower: the righteous run to him, and are safe."* —
   [[A Strong Tower]]
 - **Proverbs 18:11** — *"The rich man's wealth is his strong city, like an unscalable wall in his own
@@ -72,6 +74,14 @@ everything, and he had refused to call gold his confidence (31:24). He was right
 name, and he was not kept from harm. Proverbs 18:10 promises safety, not exemption, and the wiki reads
 it as the Proverbs pages read every retribution saying: a general truth, not a verdict on any one
 case.
+
+### Proverbs 21 in context
+
+Proverbs 21:22 brings down the imagined wall of 18:11: *"A wise man scales the city of the mighty,
+and brings down the strength of its confidence."* A city's confidence falls to wisdom; and verse 31
+places even the wise besieger's victory with Yahweh.
+
+See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
 ## Significance
 
