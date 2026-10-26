@@ -180,6 +180,17 @@ instruction is the wiki’s interpretation, not an explicit qualification writte
 See [[Whoever Loves Correction]]. Sources: the cited Proverbs, Job, and Exodus verses checked in
 stored WEB.
 
+### Prosperity as reward, and the swept field — Proverbs 13
+
+Proverbs 13:21 says *"prosperity rewards the righteous"*, and 13:22 that *"the wealth of the sinner
+is stored for the righteous"*. Job 1:13–19 narrates an upright man's goods and children lost in a
+day, and Job 21:7–8 the wicked growing old with their children established; an exceptionless reading
+of 13:21–22 cannot stand beside them, and the wiki keeps both. Proverbs 13:23 qualifies its own
+neighbours: a poor man's productive field is swept away by *injustice*, so that 13:18's poverty for
+the undisciplined cannot be read backwards as a verdict on every poor man. See [[Hope Deferred]] and
+[[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]]. Sources: the cited Proverbs and Job
+verses checked in stored WEB.
+
 ## Significance
 
 This is the wisdom tradition's central unresolved argument with itself, and the book of Job is

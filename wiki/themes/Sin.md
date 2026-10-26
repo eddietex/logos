@@ -234,7 +234,15 @@ personal sin.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Sin pursued — Proverbs 13:6, 19, 21–22
+
+Wickedness *"overthrows the sinner"* (6), fools detest turning from evil (19), misfortune *pursues* sinners (21), and the sinner's wealth is stored for the righteous (22). Sin is pictured as something that acts on its doer.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:6, 19, 21–22.
 
 - [[Whoever Loves Correction]] — Proverbs 12:2, 5–6, 12–13, 17, 20, 22.
 

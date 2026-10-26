@@ -108,3 +108,8 @@ the wronged husband *"won't regard any ransom, neither will he rest content, tho
 gifts"*. It puts adultery, in the husband's eyes, with the murder for which Numbers 35:31 forbids a
 ransom. See [[The Lamp of the Commandment]] and
 [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]].
+
+**A ransom paid in riches.** Proverbs 13:8 — *"The ransom of a man’s life is his riches, but the
+poor hear no threats"* — states plainly the practice Psalm 49 denies can reach death: wealth buys a
+man out of danger, and the same wealth makes him worth threatening. No claim is made here that 13:8
+uses the same Hebrew word as Job 33:24. See [[Hope Deferred]]. Source: stored WEB Proverbs 13:8.

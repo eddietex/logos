@@ -61,7 +61,7 @@ is close because you cannot bear to sit in the dark with him.
   the hoping self in the second person: *"Why are you in despair, my soul?"*
 - **Psalm 88** — the psalm with no turn, which the canon keeps.
 - **Proverbs 13:12** — *"Hope deferred makes the heart sick, but when longing is fulfilled, it is a
-  tree of life."*
+  tree of life."* See [[Hope Deferred]].
 - **Lamentations 3:18–24** — *"my strength and my hope has perished from Yahweh"*, and then, six
   verses later, *"This I recall to my mind; therefore I have hope."* The same reversal Job performs
   in Job 16–17, in the opposite order.
@@ -97,7 +97,15 @@ failure of a particular hope, without supplying a developed account of the after
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Hope deferred — Proverbs 13:12, 19
+
+*"Hope deferred makes the heart sick, but when longing is fulfilled, it is a tree of life"* (12) makes no moral contrast: the sick heart belongs to anyone who waits. Fulfilled longing is *"sweet to the soul"* (19). Job's dialogue is the extended case of the first line (Job 6:8, 11; 7:6; 14:19; 17:15; 19:10). See [[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:12, 19.
 
 - [[A False Balance]] — Proverbs 11:7, 23, 28.
 

@@ -175,7 +175,15 @@ connects covering an offense with friendship. See
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### Love that disciplines — Proverbs 13:24
+
+*"One who spares the rod hates his son, but one who loves him is careful to discipline him"* (24) defines a father's love partly by correction, following 3:11–12's picture of Yahweh reproving the son he loves. The text does not set limits on the discipline; see [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:24.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; Love covers wrongs where hatred keeps
   conflict active.

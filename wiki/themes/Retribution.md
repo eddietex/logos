@@ -305,7 +305,15 @@ present in the verse.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Outcomes without a named agent — Proverbs 13:6, 9, 13, 15, 18, 21–22, 25
+
+Proverbs 13 states the moral order — the lamp of the wicked snuffed out (9), misfortune pursuing sinners (21), the sinner's wealth stored for the righteous (22) — without naming Yahweh anywhere in the chapter (stored WEB English text). 13:9 is the sentence Bildad turns into a verdict (Job 18:5–6) and Job puts to a count (21:17); 13:21 stands against Job 1:13–19 and 21:7–13. Verse 23's injustice is the chapter's own admission of exceptions. See [[The Lamp of the Wicked Put Out]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:6, 9, 13, 15, 18, 21–22, 25.
 
 - [[Whoever Loves Correction]] — Proverbs 12:2–3, 7, 13–14, 19, 21, 24, 28.
 

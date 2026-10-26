@@ -74,4 +74,6 @@ ground.
   between them, and the Servant's *tender plant* by another.
 - With [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]], it completes the
   dialogue's chain of plant images: the friends' plants die, Job's stump could live.
+- Proverbs 13:12 makes fulfilled longing *"a tree of life"*, where Job 19:10 has hope plucked up like
+  a tree; see [[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]].
 - Related pages: [[Hope]], [[Life and Death]], [[Job (person)]], [[The Months of Old]].

@@ -372,7 +372,15 @@ Verse 23 commends restrained knowledge, not concealment of testimony owed to ano
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Listening, counsel, and company — Proverbs 13:1, 10, 14, 16, 20
+
+The wise son *listens* (1); wisdom is *"with ones who take advice"* (10); the teaching of the wise is *"a spring of life"* (14); and *"One who walks with wise men grows wise"* (20). Wisdom here is acquired by hearing and by association as much as by study.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:1, 10, 14, 16, 20.
 
 - [[Whoever Loves Correction]] — Proverbs 12:1, 8, 15–16, 18, 23, 26.
 

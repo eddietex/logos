@@ -68,6 +68,10 @@ people in his biography. Source: stored WEB Proverbs 10:1; 11:1–31.
 wife nor any other figure is identified as someone in his biography. Source: stored WEB Proverbs
 10:1; 12:1–28.
 
+[[Hope Deferred]] (Proverbs 13:1–25) continues the collection attributed to Solomon at 10:1. Solomon
+is not named in the unit, and the son and father it addresses are types, not figures in his
+biography. Source: stored WEB Proverbs 10:1; 13:1–25.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -77,6 +81,8 @@ wife nor any other figure is identified as someone in his biography. Source: sto
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[Hope Deferred]] — Proverbs 13:1–25; collection attribution only, from 10:1.
 
 - [[Whoever Loves Correction]] — Proverbs 12:1–28; collection attribution only, from 10:1.
 

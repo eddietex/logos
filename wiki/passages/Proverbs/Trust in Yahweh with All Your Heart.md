@@ -251,6 +251,7 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 
 ## Cross-references
 
+- [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] — 3:11–12's fatherly reproof carried into 13:24 and later Proverbs.
 - [[Keep Your Heart]] — Proverbs 4:21–22, 27; teaching kept in the heart as health to the body, and the
   foot removed from evil (compare 3:1, 7–8).
 - [[Get Wisdom]] — Proverbs 4:4–5 again joins the heart, retained teaching, commandments, and life.

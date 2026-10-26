@@ -170,6 +170,13 @@ and promise of safety remain in explicit tension with Job’s calamity, while th
 laziness ends in slave labor cannot explain the imposed labor of Exodus 1. The unit ends on
 righteousness as the path of life.
 
+[[Hope Deferred]] (13:1–25) is framed by the son who listens to his father (1) and the father who
+does not spare the rod (24), and is the first chapter of the collection with no divine name in the
+WEB text. Its title line, *"Hope deferred makes the heart sick"* (12), makes no moral contrast at
+all. The lamp of the wicked (9) and the sinner's wealth stored for the righteous (22) are sentences
+Job's dialogue already uses (Job 18:5–6; 21:17; 27:16–17), and 13:23's productive field swept away
+by injustice is the chapter's own check on reading poverty as a verdict.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -222,7 +229,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32
 - [x] [[A False Balance]] — Proverbs 11:1–31
 - [x] [[Whoever Loves Correction]] — Proverbs 12:1–28
-- [ ] Hope Deferred — Proverbs 13:1–25
+- [x] [[Hope Deferred]] — Proverbs 13:1–25
 - [ ] A Way That Seems Right — Proverbs 14:1–35
 - [ ] A Gentle Answer — Proverbs 15:1–33
 - [ ] The Plans of the Heart — Proverbs 16:1–33
@@ -277,6 +284,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Retribution]] — the ordinary run of things, stated as sentences; see the Overview on reading
   it after Job
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
+- [[Hope]] — *"Hope deferred makes the heart sick"* (13:12)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19); *"the commandment is a
   lamp"* (6:23)

@@ -357,7 +357,15 @@ require in concrete situations.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Instruction heard and given — Proverbs 13:1, 13–14, 18, 24
+
+The son listens (1); whoever despises instruction *"will pay for it"* while one who respects a command is rewarded (13); refusing discipline brings poverty and shame (18). The chapter ends on the father's side: *"One who spares the rod hates his son"* (24). See [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:1, 13–14, 18, 24.
 
 - [[Whoever Loves Correction]] — Proverbs 12:1, 10, 15, 17, 22.
 

@@ -104,7 +104,15 @@ illness or distress.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### The trustworthy envoy — Proverbs 13:17
+
+*"A wicked messenger falls into trouble, but a trustworthy envoy gains healing"* (17): healing attaches to the faithful carrying of a message.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:17.
 
 - [[Whoever Loves Correction]] — Proverbs 12:18, 25.
 

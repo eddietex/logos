@@ -159,7 +159,15 @@ injustice: the same cluster requires truthful witness in verse 17.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Quarrels bred by pride — Proverbs 13:10
+
+Proverbs 13:10 traces quarrels to pride and sets against them the wisdom of those who take advice; strife is diagnosed by its source rather than by its parties.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:10.
 
 - [[Whoever Loves Correction]] — Proverbs 12:16, 18, 20, 25.
 

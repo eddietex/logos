@@ -189,7 +189,15 @@ deception under divine evaluation rather than treating it only as ineffective st
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Pretended wealth and poverty — Proverbs 13:5, 7
+
+The righteous hates lies (5). Verse 7 observes pretence in both directions — some feign riches with nothing, some feign poverty with great wealth — without assigning a penalty; it warns that appearances in money mislead.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:5, 7.
 
 - [[Whoever Loves Correction]] — Proverbs 12:5, 17, 19–20, 22.
 

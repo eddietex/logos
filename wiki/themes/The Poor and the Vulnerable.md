@@ -124,7 +124,15 @@ These are comparative limits, not an explicit discussion of every cause of pover
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Injustice sweeps it away — Proverbs 13:7–8, 18, 23
+
+The poor *"hear no threats"* (8), and refusing discipline brings poverty (18). Proverbs 13:23 then names a different cause: an abundance of food *"in poor people’s fields"* swept away by *injustice*. This verse forbids reversing 13:18 into a diagnosis of every poor person.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:7–8, 18, 23.
 
 - [[Whoever Loves Correction]] — Proverbs 12:9, 11, 24.
 

@@ -144,7 +144,15 @@ tested against material reality and a willingness to be corrected.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Pride and quarrels — Proverbs 13:10
+
+*"Pride only breeds quarrels, but with ones who take advice is wisdom"* (10): pride's opposite here is not lowliness in general but willingness to be advised.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:10.
 
 - [[Whoever Loves Correction]] — Proverbs 12:9, 15.
 

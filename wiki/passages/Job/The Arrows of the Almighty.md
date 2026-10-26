@@ -283,6 +283,7 @@ missing him.
 
 ## Cross-references
 
+- [[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]] — 6:8, 11; 7:6 beside Proverbs 13:12.
 - [[Do Not Withhold Good]] — Proverbs 3:24’s sweet sleep stands in explicit tension with Job’s restless nights (7:3–4, 13–14); see
   [[None Shall Make You Afraid - The Covenant Blessing of Security]].
 

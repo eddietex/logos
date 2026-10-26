@@ -244,6 +244,7 @@ quietly making room for chapter 3.
 
 ## Cross-references
 
+- [[Hope Deferred]] — Proverbs 13:21's prosperity for the righteous against 1:13–19.
 - [[Whoever Loves Correction]] — Proverbs 12:7, 21; the righteous house’s promised stability stands in tension with Job 1:18–22.
 
 - [[The Divine Council]] — Job 1:6 and 2:1 beside Genesis 6:2, 1 Kings 22:19–23, Psalm 82, Psalm

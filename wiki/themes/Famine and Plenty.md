@@ -133,7 +133,15 @@ secure access to its fruit.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Appetite and the swept field — Proverbs 13:4, 23, 25
+
+The sluggard's soul desires and has nothing (4); the poor man's productive field is swept away by injustice (23); the righteous eats to satisfaction while *"the belly of the wicked goes hungry"* (25). Plenty and hunger are tied to conduct in 4 and 25 and to another's wrong in 23.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:4, 23, 25.
 
 - [[Whoever Loves Correction]] — Proverbs 12:9, 11, 27.
 

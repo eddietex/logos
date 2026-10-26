@@ -150,7 +150,15 @@ intellectual disability. The wise person’s willingness to listen supplies the 
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### The fool's desire — Proverbs 13:16, 19–20
+
+The fool *"exposes folly"* (16) and harms his companions (20). Verse 19 gives folly a motive: the fool also longs, but *"fools detest turning from evil"* — what he cannot give up is the evil itself.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:16, 19–20.
 
 - [[Whoever Loves Correction]] — Proverbs 12:1, 11, 15–16, 23.
 

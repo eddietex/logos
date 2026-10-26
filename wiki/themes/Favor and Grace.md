@@ -166,7 +166,15 @@ terms with Genesis 6:8 is asserted.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Understanding wins favor — Proverbs 13:15
+
+*"Good understanding wins favor; but the way of the unfaithful is hard"* (15). Unlike 12:2, the chapter does not say whose favor; no divine name appears in Proverbs 13 (stored WEB English text).
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:15.
 
 - [[Whoever Loves Correction]] — Proverbs 12:2.
 

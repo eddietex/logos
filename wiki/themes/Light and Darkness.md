@@ -194,7 +194,15 @@ evening of the day, in the middle of the night and in the darkness"* (*bəneš e
 laylâ waʾăp̄ēlâ*). It is the hour Job 24:15 gave the adulterer, who *"waits for the twilight"*
 (*nešep̄*), and the darkness against which 6:23's lamp was given. See [[The Young Man Void of Understanding]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The lamp snuffed out — Proverbs 13:9
+
+*"The light of the righteous shines brightly, but the lamp of the wicked is snuffed out"* (9) — the proverb behind Job 18:5–6 and Job 21:17's *"How often"*. See [[The Lamp of the Wicked Put Out]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:9.
 
 - [[The Two Paths]] — Proverbs 4:18–19; the righteous path as brightening dawn, the wicked way as darkness that trips
 

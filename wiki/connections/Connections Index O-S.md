@@ -50,6 +50,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Rewarding Evil for Good - A False Charge That Is Exactly True]] | idiom | Genesis 37:3–4, 18–28 · Genesis 44:4 · 1 Samuel 24:17; 25:21 · Psalm 35:12; 38:20; 109:4–5 · Proverbs 17:13 · Jeremiah 18:20 · Romans 12:17, 21 · 1 Thessalonians 5:15 · 1 Peter 3:9 |
 | [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]] | thread | Genesis 13:10–13 · Genesis 18:23–33 · Genesis 19:1–38 · Wisdom 10:6 · Luke 17:28–32 · 2 Peter 2:6–9 |
 | [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]] | typology | Exodus 17:5–6 · Numbers 20:2–13 · Deuteronomy 8:15 · Deuteronomy 32:4 · Psalm 78:15–20 · Psalm 105:41 · Psalm 114:8 · John 7:37–38 · 1 Corinthians 10:1–4 |
+| [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] | thread | [[Trust in Yahweh with All Your Heart]] (Proverbs 3:11–12); [[Hope Deferred]] (Proverbs 13:1, 24); Proverbs 19:18; 22:15; 23:13–14; 29:15, 17; [[Eliphaz's First Speech]] (Job 5:17); Hebrews 12:5–11 |
 | [[Sacrifice Before the Priesthood]] | thread | Genesis 4:3–5 · Genesis 8:20–21 · Job 1:5 · Exodus 18:12 · Exodus 24:5 · Leviticus 1–9 · Job 42:7–9 · Hebrews 7:1–28 · Numbers 23:1 · 1 Chronicles 15:26 · [[The Ordination of the Priests]] |
 | [[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]] | theme-development | Proverbs 11:17–18, 24–28 · Proverbs 3:27–28 · Job 31:16–25 · 2 Corinthians 9:6–11 · [[A False Balance]] |
 | [[The Scepter and Shiloh - Genesis 49.10 and Its Readings]] | crux | Genesis 17:6 · Genesis 35:11 · Genesis 49:10 · Numbers 24:17 · Joshua 18:1 · Psalm 60:7 · Ezekiel 21:27 · 1 Chronicles 5:2 · Hebrews 7:14 · Revelation 5:5 |
@@ -82,6 +83,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · Numbers 3:17–20 · Numbers 26:57–61 · 1 Chronicles 6 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |
+| [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]] | thematic-parallel | [[Hope Deferred]] (Proverbs 13:22–23); [[I Will Not Put Away My Integrity]] (Job 27:13, 16–17); [[Why Do the Wicked Live]] (Job 21:7–8) |
 | [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]] | thread | Exodus 30:9, 33, 37–38 · Leviticus 10:1–2 · Numbers 16:35–40 · 2 Chronicles 26:16–19 · [[The Furnishings Made]] (Exodus 37:1–29) |
 | [[A Stranger and a Foreigner - The Sojourner's Confession]] | quotation | Genesis 23:4 · Leviticus 25:23 · 1 Chronicles 29:15 · Psalm 39:12 · Hebrews 11:13–16 · 1 Peter 2:11 · Exodus 12:45, 48–49 |
 | [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] | motif | Genesis 41:7, 24 · Exodus 7:12 · Exodus 15:12 · Numbers 16:30–34; 26:10 · Hebrews 11:29 |

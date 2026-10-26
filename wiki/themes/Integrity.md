@@ -176,7 +176,15 @@ comparison with Exodus 20:16 and 23:1–8 is ethical agreement, not a claim of d
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### The way guarded — Proverbs 13:6
+
+*"Righteousness guards the way of integrity"* (6): integrity is pictured as a road that righteousness keeps, using the same verb *guard* as 13:3's guarded mouth in the WEB.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:6.
 
 - [[Whoever Loves Correction]] — Proverbs 12:5, 17, 19, 22.
 

@@ -14,7 +14,7 @@ tags: [connection]
   and more until the perfect day. The way of the wicked is like darkness. They don't know what they
   stumble over."* — [[The Two Paths]]
 - **Proverbs 13:9** — *"The light of the righteous shines brightly, but the lamp of the wicked is
-  snuffed out."*
+  snuffed out."* — [[Hope Deferred]]
 - **Proverbs 20:20** — *"Whoever curses his father or his mother, his lamp shall be put out in
   obscurity of darkness."*
 - **Proverbs 24:20** — *"for there will be no reward to the evil man. The lamp of the wicked shall
@@ -110,3 +110,8 @@ extinguished lamp beside the erased name of 18:17), [[Life and Death]], and [[Ju
 a lamp, and the law is light"* (*nēr miṣwâ wəṯôrâ ʾôr*), the lamp carried by the son through the
 night. See [[The Lamp of the Commandment]] and
 [[A Lamp and a Light - Proverbs 6.23 and Psalm 119.105]].
+
+**In its own chapter.** Proverbs 13:9 stands in [[Hope Deferred]], beside 13:21's prosperity for the
+righteous and 13:23's poor man whose field *"injustice sweeps … away"*. The chapter that states the
+lamp proverb also records a loss that is not a verdict on the loser — the distinction Bildad's use of
+the sentence erases.

@@ -182,7 +182,15 @@ alternative Hebrew interpretations.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Ways and companions — Proverbs 13:6, 15, 20
+
+The way of integrity is guarded (6), the way of the unfaithful is hard (15), and *"One who walks with wise men grows wise"* (20) — the walk here is with companions, not explicitly with God.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:6, 15, 20.
 
 - [[Whoever Loves Correction]] — Proverbs 12:15, 26, 28.
 

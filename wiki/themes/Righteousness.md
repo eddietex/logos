@@ -182,7 +182,15 @@ and path images promise stability and life. **Explicit tension:** the untroubled
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Guarded, lit, and satisfied — Proverbs 13:5–6, 9, 21–22, 25
+
+Righteousness *guards* the way of integrity (6), its light *"shines brightly"* (9), prosperity rewards it (21), the sinner's wealth is stored for it (22), and the righteous eats to satisfaction (25). Verse 21 stands in explicit tension with Job 1:13–19 and 21:7–13; verse 23, two lines later, records a poor man's loss through injustice. See [[The Prosperity of the Wicked]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:5–6, 9, 21–22, 25.
 
 - [[Whoever Loves Correction]] — Proverbs 12:3, 5–7, 10, 12–13, 21, 26, 28.
 

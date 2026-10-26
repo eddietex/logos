@@ -334,7 +334,15 @@ deprivation.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### What riches are worth — Proverbs 13:7–8, 11, 18, 21–23
+
+Wealth can be pretended (7), can ransom a life while making its owner a target (8), dwindles when dishonest (11), passes to grandchildren or to the righteous (22), and can be swept away by injustice (23). Verse 22 parallels Job 27:16–17; see [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:7–8, 11, 18, 21–23.
 
 - [[Whoever Loves Correction]] — Proverbs 12:9, 11–12, 14, 24, 27.
 

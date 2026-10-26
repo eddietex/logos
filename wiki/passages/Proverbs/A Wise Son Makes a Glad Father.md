@@ -144,6 +144,7 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[Hope Deferred]] — Proverbs 13:1; the wise son and his father again.
 - [[Whoever Loves Correction]] — Proverbs 12:1, 15; teachability develops the correction of Proverbs 10:17.
 
 - [[A False Balance]] — Proverbs 11:1–31 continues the collection with honest trade, civic speech,

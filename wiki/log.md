@@ -16231,3 +16231,55 @@ targets; 62 unstarted book pages are the expected baseline. Frontmatter totals, 
 page, subindex order and ranges, unique non-dashboard basenames, exactly one checked queue item,
 and unchanged raw/workflow files were verified. No operational blocker; the noted source wording
 and interpretive limits remain visible on the relevant pages.
+
+## [2026-10-25] ingest | Proverbs 13.1-25 — Hope Deferred
+
+Ingested [[Hope Deferred]], retaining the planned Proverbs 13:1–25 boundary and advancing exactly one
+queue item. The passage page carries the unattended discussion: the son who listens (1) and the
+father who does not spare the rod (24) as the chapter's frame; the guarded mouth; pretended wealth
+and ransom; the lamp of the righteous and the wicked; hope deferred and longing fulfilled (12, 19);
+the company of the wise; inheritance; and the poor man's field swept away by injustice (23).
+
+**Interpretive decisions.** No divine name appears in the stored WEB English text of Proverbs 13 —
+the first chapter of the Solomonic collection without one — so [[God]] is not updated from this
+passage, and the chapter's impersonal outcomes (6, 21) are not attributed to Yahweh beyond noting
+that such a reading is the reader's inference. [[Solomon]] is associated only through 10:1. Proverbs
+13:21–22's promises are kept in explicit tension with Job 1:13–19 and 21:7–8, 13; 13:23 is recorded
+as the chapter's own qualification on reading 13:18 backwards. 13:24's rod is recorded as written,
+with an explicit statement that the wiki does not use it to settle modern questions about physical
+punishment. The WEB's renderings of 13:11 and 13:23 are followed without deciding the Hebrew.
+Generic figures receive no pages.
+
+**Created (4):** [[Hope Deferred]];
+[[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]];
+[[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]];
+[[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]].
+
+**Revised content pages (39):** [[Proverbs]]; [[Solomon]]; 22 themes — [[Wisdom]], [[Folly]],
+[[Righteousness]], [[Integrity]], [[Language and Speech]], [[Deception]], [[Hope]], [[Work]],
+[[Wealth and Possessions]], [[The Poor and the Vulnerable]], [[Retribution]], [[Life and Death]],
+[[Light and Darkness]], [[Pride and Self-Exaltation]], [[Strife and Peacemaking]],
+[[Law and Obedience]], [[Love]], [[Healing]], [[Favor and Grace]], [[Walking with God]],
+[[Famine and Plenty]], and [[Sin]]; six existing connections —
+[[The Lamp of the Wicked Put Out]] (13:9 now linked to its passage), [[The Prosperity of the Wicked]],
+[[The Tree of Life - Eden and the New Jerusalem]],
+[[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]],
+[[The Portion of a Wicked Man - Job 20.29 and Job 27.13]], and
+[[There Is Hope for a Tree - The Stump That Sprouts]]; nine earlier passage pages with reciprocal
+links — [[Whoever Loves Correction]], [[A Wise Son Makes a Glad Father]],
+[[Trust in Yahweh with All Your Heart]], [[Bildad's Second Speech]], [[Why Do the Wicked Live]],
+[[I Will Not Put Away My Integrity]], [[Eliphaz's First Speech]], [[The Arrows of the Almighty]],
+and [[The Wager in Heaven and the Four Messengers]].
+
+**Indexes and totals.** Six index pages revised: books (21 / 43 pericopes), wiki dashboard, themes,
+People Index N-Z, and Connections Index D-H and O-S (new rows under H, R, and S). Counts by
+frontmatter: 165 passages, 179 people, 90 places, 83 themes, 426 connections; four books started,
+three complete.
+
+**Sources and validation.** All Proverbs 13 quotations are copied from stored WEB; supporting
+quotations from stored WEB Proverbs 3:11–12, 18; 11:30; 12:1; 19:18; 22:15; 23:13–14; 29:15, 17 and
+Job 1:1, 13–19; 2:3; 5:17; 6:8, 11; 7:6; 14:7, 19; 17:15; 18:5–6; 19:10; 21:7–8, 17; 27:13, 16–17.
+Hebrews 12:5–11 is cited by reference and paraphrase only, since Hebrews is not in `raw/`. No
+unreached book was fetched and no exact Hebrew or Greek claim was made. `scripts/link-check.sh` was
+run at the end of the pass and exited 0: no wrapped links and no unexpected dangling targets; 62
+unstarted book pages are the expected baseline.

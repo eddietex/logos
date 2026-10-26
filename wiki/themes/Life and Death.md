@@ -306,7 +306,15 @@ never dies.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Spring of life, snares of death — Proverbs 13:3, 12, 14
+
+The guarded mouth guards the soul (3); fulfilled longing is *"a tree of life"* (12); the teaching of the wise is *"a spring of life, to turn from the snares of death"* (14). Life is the outcome of instruction received, stated without any account of what lies after death.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:3, 12, 14.
 
 - [[Whoever Loves Correction]] — Proverbs 12:6, 10, 28.
 

@@ -109,6 +109,15 @@ counsel, and generosity, it commends life-giving influence without identifying a
 program or announcing literal immortality. The underlying Hebrew and alternative translations of the
 second clause are not adjudicated here. Source: stored WEB Proverbs 3:18; 11:9–30.
 
+### Longing fulfilled — Proverbs 13:12
+
+[[Hope Deferred]] gives the image a third use in Proverbs: *"when longing is fulfilled, it is a tree
+of life"* (13:12). After Wisdom herself (3:18) and righteous fruit (11:30), the tree now stands for
+the experience of a hope realized, set against the sick heart of hope deferred. Nothing in the verse
+refers to Eden directly; the shared image is recorded, not a claim of allusion. See
+[[Hope Deferred and the Tree of Life - Proverbs 13.12 and the Hope of Job]]. Source: stored WEB
+Proverbs 3:18; 11:30; 13:12.
+
 ## Significance
 
 This is the clearest single instance of the Bible's beginning-and-end symmetry, and the reason

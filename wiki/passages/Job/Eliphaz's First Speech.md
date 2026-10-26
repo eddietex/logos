@@ -214,6 +214,7 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
 
 ## Cross-references
 
+- [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] — 5:17's chastening beside Proverbs 3:11–12 and 13:24.
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:16; *"six things … yes, seven"*,
   the same numerical form as 5:19.
 - [[What Is Man That He Should Be Clean]] — 4:17–19, and the two later versions at 15:14–16 and

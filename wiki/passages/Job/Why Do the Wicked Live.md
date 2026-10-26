@@ -289,6 +289,7 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[Hope Deferred]] — Proverbs 13:9, 21–22; the lamp and the prosperity of the righteous.
 - [[Whoever Loves Correction]] — Proverbs 12:3, 7, 21 promises righteous stability; Job 21:7–13 describes flourishing wicked households.
 
 - [[A False Balance]] — Proverbs 11:8, 21 promises righteous deliverance, against Job 21:7–13’s

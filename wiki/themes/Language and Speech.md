@@ -233,7 +233,15 @@ kind word. Job 16:2–5 exposes speech offered as comfort that instead wounds; s
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### The guarded mouth — Proverbs 13:2–3, 5, 17
+
+The fruit of the lips feeds a man (2); *"He who guards his mouth guards his soul"* (3); the righteous *hates lies* (5); and a trustworthy envoy *"gains healing"* where a wicked messenger falls into trouble (17). Speech is treated as something that protects or endangers the speaker himself.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:2–3, 5, 17.
 
 - [[Whoever Loves Correction]] — Proverbs 12:6, 13–14, 17–19, 22–23, 25.
 

@@ -129,6 +129,7 @@ See [[The Prosperity of the Wicked]], [[Retribution]], and [[Slavery and Servitu
 
 ## Cross-references
 
+- [[Hope Deferred]] — Proverbs 13:1, 24; the son who listens and the father who disciplines.
 - [[A False Balance]] — Proverbs 11; roots, righteous households, counsel, and truthful speech continue.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, 17; collection attribution and correction as the way of life.
 - [[Care for the Animal - Proverbs 12.10 and Exodus 23]] — Proverbs 12:10 with Exodus 23:4–5, 11–12.

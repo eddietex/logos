@@ -249,7 +249,15 @@ that servitude or hunger proves laziness.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Desire, gathering, and the swept field — Proverbs 13:4, 11, 23
+
+The sluggard *desires* and has nothing while the diligent is satisfied (4); wealth gathered *"by hand"* grows (11). But 13:23 records productive fields of the poor swept away by *injustice*: in the same chapter, poverty is not always the result of idleness.
+
+See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
+
 ## Key passages
+
+- [[Hope Deferred]] — Proverbs 13:4, 11, 23.
 
 - [[Whoever Loves Correction]] — Proverbs 12:9, 11, 14, 24, 27.
 

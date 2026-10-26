@@ -64,3 +64,7 @@ none of them makes it accidental.**
   no one in the book describes the wicked man's ruin again until Elihu, and when God speaks he
   describes wild animals instead. The formula *"this is the portion"* is the last word of the
   friends' genre, whoever says it — and the next word on the subject is God's verdict at 42:7.
+
+**A parallel in Proverbs.** Job 27:16–17's silver divided by the innocent states the same transfer
+as Proverbs 13:22, *"the wealth of the sinner is stored for the righteous"*. See
+[[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
