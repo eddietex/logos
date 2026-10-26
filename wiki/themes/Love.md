@@ -193,7 +193,15 @@ Yahweh *"loves him who follows after righteousness"* (9); the scoffer *"doesn't 
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### A friend loves at all times — Proverbs 17:9, 17
+
+Covering an offense *"promotes love"* — *seeks* it, *məbaqqēš ʾahăbâ* (9; Hebrew from Sefaria); and *"A friend loves at all times; and a brother is born for adversity"* (17). Love here is constancy, tested by time and by trouble. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] and [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:9, 17.
 
 - [[A Gentle Answer]] — Proverbs 15:9, 12, 17.
 

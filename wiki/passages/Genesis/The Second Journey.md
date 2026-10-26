@@ -699,6 +699,7 @@ tent and a curse on his grandson.** The chapter closes on ten men relaxing for t
   The brothers are seated *"the firstborn according to his birthright, and the youngest according to
   his youth"*, **which is a birth-order list rendered as furniture**, and the text leaves the reader
   to supply the names
+- [[A Dry Morsel with Quietness]] — Proverbs 17:18; the warning against becoming collateral, beside Judah's pledge (43:9).
 
 ## Notes
 

@@ -73,7 +73,15 @@ This repeats the distinction of 13:13 and supplies the qualification absent from
 22:29. The texts remain distinguishable without construing 34:20 as permission to sacrifice a
 son. See [[The Covenant Renewed]].
 
+### Inheritance follows wisdom — Proverbs 17:2
+
+A wise servant *"shall have a part in the inheritance among the brothers"*, displacing a son who causes shame. Birth is not the last word on the inheritance: Genesis had already moved the blessing from Esau to Jacob and from Reuben to Judah and Joseph; Proverbs extends it past the family line to a servant.
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:2.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Firstborn claim repeated with explicit redemption of sons.
 

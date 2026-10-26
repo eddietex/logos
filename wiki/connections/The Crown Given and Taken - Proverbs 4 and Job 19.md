@@ -13,6 +13,7 @@ tags: [connection]
 - [[I Know That My Redeemer Lives]] — Job 19:6–10; lost glory and the removed crown.
 - [[The Wager in Heaven and the Four Messengers]] and [[The Second Test]] — Job 1:1;
   2:3, the narrative's testimony to Job's uprightness and continuing integrity.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:6; grandchildren as the crown of old men.
 
 ## Analysis
 
@@ -39,6 +40,14 @@ this particular verse. Neither metaphor requires the man described to hold royal
 
 Sources: Proverbs 1:8–9; 3:35; 4:6–9 and Job 1:1; 2:3; 19:6–10 checked in stored WEB,
 2026-10-25. The comparison concerns images in the English text, not verified Hebrew forms.
+
+**Proverbs 17:6 gives the crown to old age through its descendants.** *"Children's children are the
+crown of old men; the glory of children are their parents."* 16:31 had called grey hair *ʿăṭeret
+tipʾeret*, *a crown of glory*; 17:6 divides the phrase, *ʿăṭeret* to the old and *tipʾeret* to the
+children (Hebrew from Sefaria's *Miqra according to the Masorah*). Job's crown was taken with his
+children (Job 1:18–19; 19:9) and returned with others: he *"saw his sons, and his sons' sons, to four
+generations"* (Job 42:16). See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 16:31;
+17:6; Job 1:18–19; 19:9; 42:16.
 
 ## Significance
 

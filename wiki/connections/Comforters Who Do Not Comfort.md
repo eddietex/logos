@@ -48,6 +48,8 @@ tags: [connection]
   comforter"*
 - **Isaiah 40:1** — *"Comfort, comfort my people"*
 - **2 Corinthians 1:3–4** — *"the God of all comfort, who comforts us in all our affliction"*
+- [[A Dry Morsel with Quietness]] — Proverbs 17:17, *"A friend loves at all times"*; see
+  [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
 
 ## Analysis
 

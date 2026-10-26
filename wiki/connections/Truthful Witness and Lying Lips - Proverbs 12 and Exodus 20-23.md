@@ -11,6 +11,7 @@ tags: [connection]
 - [[The Ten Commandments]] — Exodus 20:16.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–8.
 - [[A Way That Seems Right]] — Proverbs 14:5, 25.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:4, 7, 15, 23.
 
 ## Analysis
 
@@ -36,6 +37,14 @@ commands and cases. Neither comparison supplies an unstated penalty for every ki
 Sources: Proverbs 12:5–6, 17, 19, 22; Exodus 20:16; 23:1–8, all checked in the repository’s stored
 WEB. The verse quoted above is verbatim Proverbs 12:22; no Hebrew-word identity is asserted.
 **Proverbs 14 brackets a chapter with the witness.** *"A truthful witness will not lie, but a false witness pours out lies"* (14:5), and *"A truthful witness saves souls, but a false witness is deceitful"* (14:25). The second saying gives testimony the life-and-death weight Exodus 23:7 assumes when it protects the innocent from a false charge. Source: stored WEB Proverbs 14:5, 25.
+
+**Proverbs 17 moves from the witness to the hearer and the judge.** *"An evildoer heeds wicked lips. A
+liar gives ear to a mischievous tongue"* (17:4) puts the fault in the listener who wants the lie;
+*"lying lips"* do not fit *"a prince"* (17:7). Then the verdict: *"He who justifies the wicked, and he
+who condemns the righteous, both of them alike are an abomination to Yahweh"* (17:15), the inversion
+of Exodus 23:7's *"I will not justify the wicked"*. The bribe that drives it is traced on
+[[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]]. Source: stored WEB Proverbs
+17:4, 7, 15; Exodus 23:7.
 
 ## Significance
 

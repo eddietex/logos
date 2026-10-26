@@ -17,8 +17,8 @@ tags: [connection]
   the proud."* — [[The Plans of the Heart]]
 - **Proverbs 16:32** — *"One who is slow to anger is better than the mighty; one who rules his spirit, than
   he who takes a city."* — [[The Plans of the Heart]]
-- **Proverbs 17:1** — *"Better is a dry morsel with quietness, than a house full of feasting with strife."*
-  *(not yet ingested)*
+- **Proverbs 17:1** — *"Better is a dry morsel with quietness, than a house full of feasting with strife."* —
+  [[A Dry Morsel with Quietness]]
 - **Proverbs 19:1** — *"Better is the poor who walks in his integrity than he who is perverse in his lips
   and is a fool."* *(not yet ingested)*
 - **Proverbs 28:6** — *"Better is the poor who walks in his integrity, than he who is perverse in his ways,
@@ -76,3 +76,10 @@ with the proud"* (16:19) sets humility-with-poverty against the gang's plunder o
 slow to anger is better than the mighty; one who rules his spirit, than he who takes a city"* (16:32)
 moves the form from goods to power: self-rule ranks above conquest. Source: stored WEB Proverbs 1:13;
 15:16; 16:8, 19, 32.
+
+[[A Dry Morsel with Quietness]] adds the fourth on a poor table. *"Better is a dry morsel with
+quietness, than a house full of feasting with strife"* (17:1) is closest to 15:17's *"dinner of herbs,
+where love is"*, and its *feasting* is *zibḥê-rîb*, *sacrifices of strife* — the sacrificial meal of a
+house that is quarrelling over it (Hebrew from Sefaria's *Miqra according to the Masorah*). The
+comparison is again between a little with peace and plenty without it; the saying does not say the
+dry morsel is the reward of the quiet. Source: stored WEB Proverbs 15:17; 17:1.

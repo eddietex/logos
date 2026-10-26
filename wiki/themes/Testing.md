@@ -115,7 +115,15 @@ knowledge withheld from their protagonists, but the Sinai test includes explanat
 Its stated aim is formative and preventive, not only the discovery of an existing disposition. See
 [[The Ten Commandments]].
 
+### Yahweh tests the hearts — Proverbs 17:3
+
+*"The refining pot is for silver, and the furnace for gold, but Yahweh tests the hearts."* The verb *bḥn* is Job's at 23:10, *"When he has tried me, I shall come out like gold"* (Hebrew from Sefaria). Proverbs 27:21 keeps the first half and makes praise the furnace. See [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:3.
 
 - [[The Binding of Isaac]] — Genesis 22:1–19; the first *nissâ* in Scripture, and the one every later
   instance is measured against

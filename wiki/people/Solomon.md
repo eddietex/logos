@@ -84,6 +84,10 @@ not named, and no king appears in the chapter. Source: stored WEB Proverbs 10:1;
 and holds its first cluster of royal sayings (16:10–15). Solomon is not named, and the king of those
 sayings is a type rather than an identification. Source: stored WEB Proverbs 10:1; 16:1–33.
 
+[[A Dry Morsel with Quietness]] (Proverbs 17:1–28) continues the collection attributed to Solomon at
+10:1. Solomon is not named; the *prince* of 17:7 and the *officials* of 17:26 are types. Source: stored
+WEB Proverbs 10:1; 17:1–28.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -94,6 +98,7 @@ sayings is a type rather than an identification. Source: stored WEB Proverbs 10:
 
 ## Appears in
 
+- [[A Dry Morsel with Quietness]] — Proverbs 17:1–28; collection attribution only, from 10:1.
 - [[The Plans of the Heart]] — Proverbs 16:1–33; collection attribution only, from 10:1; the royal sayings of 16:10–15 are not about him by name.
 
 - [[A Gentle Answer]] — Proverbs 15:1–33; collection attribution only, from 10:1.

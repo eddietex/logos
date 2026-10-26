@@ -669,6 +669,7 @@ himself."***
 - [[Found in His Hand - The Silver Cup and the Theft Law of Exodus 22]] — **Exodus 22:3–4.** The
   *"found in his hand"* of 44:16–17 is the theft law's phrase; the law asks double repayment, and
   sale only for a thief who cannot pay. See [[Laws of Property and Restitution]]
+- [[A Dry Morsel with Quietness]] — Proverbs 17:13; *"Whoever rewards evil for good"*, the steward's phrase at 44:4.
 
 ## Notes
 

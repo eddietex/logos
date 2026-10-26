@@ -182,7 +182,15 @@ that passage page.
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Flogged for integrity — Proverbs 17:26
+
+*"Also to punish the righteous is not good, nor to flog officials for their integrity."* The *integrity* is *yōšer*, uprightness (Hebrew from Sefaria): the saying admits that the upright may be punished for being upright, and calls it wrong rather than impossible.
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:26.
 
 - [[Hope Deferred]] — Proverbs 13:6.
 

@@ -145,6 +145,15 @@ resources available; it does not require reading all aid as reckless suretyship.
 pledge remains a different narrative situation, not a stated exception clause in Proverbs. Source:
 stored WEB Proverbs 6:1–5; 11:15, 24–26; 17:18; 20:16.
 
+**Proverbs 17:18 stands next to 17:17.** *"A friend loves at all times; and a brother is born for
+adversity"* is followed at once by *"A man void of understanding strikes hands, and becomes
+collateral in the presence of his neighbor."* The verbs are 6:1's — *tôqēaʿ kāp̄*, *ʿōrēb ʿărubbâ* —
+and the root *ʿrb* is Judah's *ʾeʿerbennû* at Genesis 43:9 (Hebrew from Sefaria's *Miqra according to
+the Masorah*). The collection's placement limits its own praise of loyalty: love the friend, do not
+sign for him. Judah's pledge for a brother is the narrative case the proverb does not cover. See
+[[A Dry Morsel with Quietness]] and [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+Source: stored WEB Proverbs 6:1; 17:17–18; Genesis 43:9.
+
 ## Significance
 
 **Genesis 43:9 is the point at which [[Judah]] takes over the cycle from [[Reuben]]**, and the book

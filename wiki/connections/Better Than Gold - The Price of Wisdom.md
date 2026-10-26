@@ -41,6 +41,8 @@ tags: [connection]
 - **Job 31:24–25** — *"If I have made gold my hope, and have said to the fine gold, 'You are my
   confidence;' If I have rejoiced because my wealth was great"* — *ketem*, the fine gold of 28:16, 19,
   sworn against as a god — [[Job's Oath of Innocence]].
+- **Proverbs 17:16** — *"Why is there money in the hand of a fool to buy wisdom, since he has no
+  understanding?"* — [[A Dry Morsel with Quietness]]
 
 ## Analysis
 
@@ -119,6 +121,12 @@ to get wisdom than gold! Yes, to get understanding is to be chosen rather than s
 verb is *get* (*acquire*), the imperative of 4:5–7 now an exclamation, and the chapter places it beside
 two *better than* sayings about money itself (16:8, 19). Source: stored WEB Proverbs 4:5–7; 16:8, 16,
 19.
+
+**Proverbs 17:16 says what the price cannot buy.** *Liqnôt ḥokmâ*, *to get wisdom*, is the verb of 4:7's
+*"Get wisdom"* (*qənê ḥokmâ*; Hebrew from Sefaria's *Miqra according to the Masorah*), and 4:7 had
+added *"though it costs all your possessions"*. The fool has the money. What he lacks is *lēb*, a heart:
+the price is real, but it is not paid in silver. See [[A Dry Morsel with Quietness]]. Source: stored WEB
+Proverbs 4:7; 17:16.
 
 ## Significance
 

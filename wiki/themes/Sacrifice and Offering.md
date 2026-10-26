@@ -265,7 +265,15 @@ Proverbs 16:6 names the means of atonement as *"mercy and truth"*, not an offeri
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Sacrifices of strife — Proverbs 17:1
+
+The WEB's *"a house full of feasting with strife"* translates *zibḥê-rîb*, *sacrifices of strife* (Hebrew from Sefaria): the *zebaḥ* meal of 7:14's *"Sacrifices of peace offerings"*, eaten in a quarrelling house. A dry morsel in quiet is better. As at 15:8 and 16:6, the sacrifice is not what makes the house good.
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:1.
 
 - [[The Plans of the Heart]] — Proverbs 16:6.
 

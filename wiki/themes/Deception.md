@@ -207,7 +207,15 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Lies need a hearer — Proverbs 17:4, 7, 20
+
+*"An evildoer heeds wicked lips. A liar gives ear to a mischievous tongue"* (4): deception is a market with buyers. *"Lying lips"* do not fit a prince (7), and *"one who has a deceitful tongue falls into trouble"* (20).
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:4, 7, 20.
 
 - [[A Gentle Answer]] — Proverbs 15:4.
 

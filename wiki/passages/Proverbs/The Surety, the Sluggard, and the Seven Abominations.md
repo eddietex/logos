@@ -241,6 +241,7 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 - [[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]] — the feet of 6:18.
 - [[The Lamp of the Commandment]] — Proverbs 6:20–35; the next lecture, on adultery and the thief
   who restores sevenfold, completing the second table.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:18, striking hands and becoming collateral with 6:1's verbs.
 
 ## Notes
 

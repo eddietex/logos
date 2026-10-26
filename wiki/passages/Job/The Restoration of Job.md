@@ -391,6 +391,7 @@ Lord is full of compassion and mercy."*
 - Ezekiel 14:14, 20 — Noah, Daniel, and Job, who *"would deliver only their own souls by their
   righteousness"*: Job remembered as a righteous man, not as an intercessor whose prayer saves others.
 - James 5:11 — *"have seen the Lord in the outcome, and how the Lord is full of compassion and mercy"*.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:6, 17; children's children (42:16) and the brothers who return (42:11).
 
 ## Notes
 

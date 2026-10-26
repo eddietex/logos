@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; hatred stirs up strife, love covers wrongs.
-- Proverbs 17:9; 28:13 — covering an offense promotes love; concealing one's own sins
+- [[A Dry Morsel with Quietness]] — Proverbs 17:9; and Proverbs 28:13 — covering an offense promotes love; concealing one's own sins
   contrasts with confession and renunciation (stored WEB; not yet ingested).
 - 1 Peter 4:8 — earnest love among believers, covering a multitude of sins (not yet ingested).
 - James 5:19–20 — turning a wanderer back from error, saving from death, and covering sins
@@ -44,6 +44,14 @@ The three settings therefore have a shared image but distinct actions: love inte
 Proverbs, sustains a community in First Peter, and is associated here by comparison with the
 restoring work described in James. The James passage itself does not explicitly use the word love in
 these two verses; that observation concerns the verified WEB text only.
+
+**Proverbs 17:9 turns the statement into an act.** 10:12 says love covers, *təkasseh ʾahăbâ*; 17:9
+says the one *covering transgression*, *məkasseh-pešaʿ*, is *seeking love*, *məbaqqēš ʾahăbâ* — the
+same verb and the same noun for the offence (Hebrew of both from Sefaria's *Miqra according to the
+Masorah*). Its opposite is the man who *"repeats a matter"*, with the whisperer's verb of 16:28: he
+*"separates best friends."* Covering is defined there as the refusal to retell. See
+[[A Dry Morsel with Quietness]] and [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+Source: stored WEB Proverbs 10:12; 16:28; 17:9.
 
 ## Significance
 

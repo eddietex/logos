@@ -303,6 +303,7 @@ on which Job could not read his own case from the outside. See [[Retribution]] a
 - [[The Covenant Renewed]] — Exodus 34:6, loving kindness and truth.
 - [[The Priestly Garments]] — Exodus 28:30, the breastplate of judgment.
 - [[The Prosperity of the Wicked]] — the general promises of 16:7, 20, 31 against Job.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:3, 6, 9; Yahweh tests the hearts after weighing them (16:2), the crown of glory (16:31) divided, and the whisperer's separating verb (16:28) again.
 
 ## Notes
 

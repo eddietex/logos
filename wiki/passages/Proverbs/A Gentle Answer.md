@@ -239,6 +239,7 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 - [[Laws of Holiness and Compassion]] — Exodus 22:22–24, the widow and the fatherless.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:8, the bribe.
 - [[The Prosperity of the Wicked]] — the righteous house of 15:6 against Job 21.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:1, the dry morsel with quiet beside 15:16–17's *better than* sayings; 17:21, 25 restating 15:20.
 
 ## Notes
 

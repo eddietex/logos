@@ -549,6 +549,7 @@ Torah ends on is buried in the land.** See [[Burial and the Grave]] and
 - [[The Hope of Resurrection in the Old Testament]] — a man who arranges his own exhumation
 - [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] — Machir, counted there
   and named here
+- [[A Dry Morsel with Quietness]] — Proverbs 17:6; *"Children's children are the crown of old men"*, beside 50:23.
 
 ## Notes
 

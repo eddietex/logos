@@ -257,7 +257,15 @@ The tongue's answer is from Yahweh (1), yet *"The heart of the wise instructs hi
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Spare words, closed lips — Proverbs 17:4, 7, 9, 20, 27–28
+
+The hearer of lies (4), lying lips unfit for a prince (7), the repeated matter that separates friends (9), the deceitful tongue (20), and the close: *"He who spares his words has knowledge"* (27), and *"Even a fool, when he keeps silent, is counted wise"* (28), Job 13:5 made general. See [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:4, 7, 9, 20, 27–28.
 
 - [[The Plans of the Heart]] — Proverbs 16:1, 10, 13, 21, 23–24, 27–28, 30.
 

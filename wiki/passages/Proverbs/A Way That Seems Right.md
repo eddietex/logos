@@ -197,6 +197,7 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 - [[I Know That My Redeemer Lives]] — Job 19:13–19; estranged kin and friends.
 - [[Why Do the Wicked Live]] — Job 21:23–26; one dies at ease, another in bitterness.
 - [[The Prosperity of the Wicked]] — the flourishing tent of 14:11 against Job 21.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:5, *"Whoever mocks the poor reproaches his Maker"*, restating 14:31.
 
 ## Notes
 

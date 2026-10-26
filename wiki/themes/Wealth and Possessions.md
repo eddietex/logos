@@ -358,7 +358,15 @@ Little with righteousness above great revenues with injustice (8); the weights i
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### The bribe and the fool's money — Proverbs 17:1, 8, 16, 23
+
+A poor table in peace outranks a full one in strife (1). The bribe looks like *"a precious stone"* to its giver and *"wherever he turns, he prospers"* (8), but *"A wicked man receives a bribe in secret, to pervert the ways of justice"* (23). And money cannot buy wisdom for a fool who *"has no understanding"* (16). See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] and [[Better Than Gold - The Price of Wisdom]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:1, 8, 16, 23.
 
 - [[The Plans of the Heart]] — Proverbs 16:8, 11, 16, 19.
 

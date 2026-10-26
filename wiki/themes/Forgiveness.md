@@ -112,7 +112,15 @@ calls for confessing and renouncing one’s own sins. See
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### Covering an offense — Proverbs 17:9
+
+*"He who covers an offense promotes love; but he who repeats a matter separates best friends."* Covering is the refusal to retell; 28:13 keeps the limit on the other side, *"He who conceals his sins doesn't prosper."* See [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:9.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12, 18; Love’s covering of wrongs offers an image
   of relational forbearance, not an explicit declaration of divine pardon.

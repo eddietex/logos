@@ -485,6 +485,7 @@ it in every direction.
   fathering a nation *"from one, and him as good as dead"*.
 - James 2:21–24 — 15:6 quoted for the opposite conclusion, with the binding of Isaac as the works
   that complete the faith.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:2; the wise servant who shares the inheritance, beside Abram's *"one born in my house is my heir"* (15:3).
 
 ## Notes
 

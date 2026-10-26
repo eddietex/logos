@@ -174,7 +174,15 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Worse than a bereaved bear — Proverbs 17:10, 12, 16, 21, 24–25, 28
+
+A hundred lashes reach a fool less than a rebuke reaches the wise (10); better *"a bear robbed of her cubs"* than *"a fool in his folly"* (12); his money cannot buy wisdom (16); his eyes *"wander to the ends of the earth"* (24); his father has no joy and his mother bitterness (21, 25). Only silence makes him seem wise (28).
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:10, 12, 16, 21, 24–25, 28.
 
 - [[The Plans of the Heart]] — Proverbs 16:22.
 

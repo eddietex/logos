@@ -87,7 +87,15 @@ See [[The Lamp of the Commandment]] and
 [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]]. Source:
 stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Evil for good — Proverbs 17:13
+
+*"Whoever rewards evil for good, evil shall not depart from his house."* The phrase *rāʿâ taḥat ṭôbâ* is the steward's charge at Genesis 44:4 (Hebrew from Sefaria). The proverb names no avenger; the evil simply stays. See [[Rewarding Evil for Good - A False Charge That Is Exactly True]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:13.
 
 - [[The Stolen Blessing]] — Genesis 27:41–45, **the fourth fratricide in the book and the only one
   that is planned, dated, and abandoned.** ***Wayyiśṭōm ʿĒśāw ʾet-Yaʿăqōb*** — *Esau bore a grudge

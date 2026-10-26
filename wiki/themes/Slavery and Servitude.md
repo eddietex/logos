@@ -176,7 +176,15 @@ proverb cannot diagnose every enslaved person.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### The wise servant as heir — Proverbs 17:2
+
+*"A servant who deals wisely will rule over a son who causes shame, and shall have a part in the inheritance among the brothers."* The pair is 10:5's wise son and shameful son, with a slave (*ʿebed maśkîl*) in the wise son's place (Hebrew from Sefaria). Abram's *"one born in my house is my heir"* (Genesis 15:3) is the fear; the proverb makes it a possibility earned by wisdom.
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:2.
 
 - [[Whoever Loves Correction]] — Proverbs 12:9, 24.
 

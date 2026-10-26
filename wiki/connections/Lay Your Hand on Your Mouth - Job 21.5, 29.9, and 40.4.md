@@ -29,6 +29,8 @@ tags: [connection]
   on their mouth."*
 - **Isaiah 52:15** — *"kings will shut their mouths at him"*, at the servant whose appearance was
   marred
+- **Proverbs 17:27–28** — *"He who spares his words has knowledge"*; *"Even a fool, when he keeps
+  silent, is counted wise"* — [[A Dry Morsel with Quietness]]
 
 ## Analysis
 
@@ -59,6 +61,13 @@ man's ruin, a man's honour, and God.
 ignored — Eliphaz answers in chapter 22 with a list of crimes Job did not commit — and in 42:7 it is
 the friends who are told they have not spoken rightly. Their seven days on the ground (2:13) were the
 best thing they did in the book, and they are the only time they did what 21:5 asked.
+
+**Proverbs 17:28 is Job 13:5 as a general rule.** Job told the friends *"Oh that you would be
+completely silent! Then you would be wise"*; Proverbs says *"Even a fool, when he keeps silent, is
+counted wise."* The root is shared — *haḥărēš taḥărîšûn* in Job, *maḥărîš* in Proverbs — and so is the
+conclusion, *ləḥokmâ* and *ḥākām* (Hebrew from Sefaria's *Miqra according to the Masorah*). Job meant
+it as an insult and the proverb as a mild joke, but both locate wisdom, for once, in what is not said.
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Job 13:5; Proverbs 17:27–28.
 
 ## Significance
 

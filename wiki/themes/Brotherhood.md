@@ -99,7 +99,15 @@ Abel, Jacob and Esau, and Joseph's brothers, who *"hated him, and couldn't speak
 after his *"evil report"* (Genesis 37:2, 4). The resonance is recorded, not claimed as allusion.
 See [[The Surety, the Sluggard, and the Seven Abominations]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Born for adversity — Proverbs 17:2, 17
+
+A wise servant takes *"a part in the inheritance among the brothers"* (2), and *"a brother is born for adversity"* (17). Job's brothers *"dealt deceitfully as a brook"* (Job 6:15) and came back only after the restoration (42:11). See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:2, 17.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:19; discord among brothers, the seventh abomination
 

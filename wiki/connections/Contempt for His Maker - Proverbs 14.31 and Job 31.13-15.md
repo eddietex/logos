@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[A Way That Seems Right]] — Proverbs 14:31.
-- Proverbs 17:5 — the same thought restated; verified WEB, not yet ingested.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:5; *"Whoever mocks the poor reproaches his Maker"*, the same thought restated.
 - [[Job's Oath of Innocence]] — Job 31:13–16.
 
 ## Analysis
@@ -42,6 +42,15 @@ shared idea between two wisdom books, not a quotation; no direction of dependenc
 
 Sources: Proverbs 14:31; 17:5; Job 31:13–16, all checked in the repository's stored WEB. No Hebrew
 wording is asserted.
+
+**Proverbs 17:5 widens the offence from oppression to mockery.** *"Whoever mocks the poor reproaches
+his Maker. He who is glad at calamity shall not be unpunished."* The predicate is the same as 14:31's,
+*ḥērēp ʿōśēhû*, but the subject is *lōʿēg lārāš*, *one who mocks the poor*, in place of *ʿōšēq dal*,
+*one who oppresses the poor* (Hebrew of both from Sefaria's *Miqra according to the Masorah*; the WEB
+renders the shared predicate *"shows contempt for"* at 14:31 and *"reproaches"* at 17:5). Mockery takes
+nothing from the poor man and is still counted as an attack on God. The second half reaches Job's oath
+again: *"If I have rejoiced at the destruction of him who hated me"* (Job 31:29). See
+[[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 14:31; 17:5; Job 31:29.
 
 ## Significance
 

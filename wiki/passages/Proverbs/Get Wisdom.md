@@ -121,6 +121,7 @@ not an identified location requiring a place page.
 - [[The Two Paths]] — Proverbs 4:10–19; the next lecture, where instruction is kept as wisdom was.
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 4; *"Keep my commandments and live!"*, 4:4's line, and wisdom
   called *"my sister"*.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:16, money in a fool's hand *"to buy wisdom"*, with 4:7's verb.
 
 ## Notes
 

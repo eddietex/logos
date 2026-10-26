@@ -16448,3 +16448,69 @@ Jonah 1:7; James 4:13–15; Acts 1:24–26. Hebrew claims rest on Sefaria's *Miq
 Masorah*, read 2026-10-25, for Proverbs 3:3; 4:9; 16:1–4, 6, 9–12, 15, 31, 33; 18:18; 21:2; 24:12;
 Psalm 37:5; Jeremiah 10:23; Job 29:23–24; Exodus 28:30; 34:6. The passage page's Notes list exactly
 which claims rest on it. `scripts/link-check.sh` ran at the end of the pass and exited 0.
+
+## [2026-10-25] ingest | Proverbs 17.1-28 — A Dry Morsel with Quietness
+
+Ingested [[A Dry Morsel with Quietness]]. The planned Proverbs 17:1–28 boundary is kept, and only this
+one queue item moves forward. Because the run was unattended, the passage page carries the discussion:
+the quiet house and its *"sacrifices of strife"* (1); the wise servant who shares the inheritance (2);
+Yahweh testing the hearts (3); mockery of the poor as reproach of the Maker (5); grandchildren as the
+crown (6), dividing 16:31's phrase; the cluster on bribery and perverted judgment (7–8, 15, 23, 26);
+covering an offense (9); the bereaved bear (12); evil for good (13); the breached dam (14); money that
+cannot buy wisdom (16); the friend and the brother (17) against Job's friends; suretyship (18); the
+cheerful heart (22); and the silent fool (27–28) beside Job 13:5.
+
+**Interpretive decisions.** 17:17 is left open between a synonymous and a progressive reading of
+friend and brother. 17:8 is read as observation, with 17:23 supplying its judgment. 17:11's *messenger*
+and 17:19's *high gate* are each given two readings without a choice. The bribery cluster is read as
+the chapter's own qualification of its retribution sayings, and the tension with Job is written out.
+No new people or places; generic figures get no pages. [[David]] is linked from the friendship
+connection for Jonathan (1 Samuel 18) but is not otherwise touched, since 1 Samuel is not ingested.
+
+**Created (3):** [[A Dry Morsel with Quietness]];
+[[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]];
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+
+**Revised content pages (50):** [[Proverbs]]; [[God]]; [[Solomon]]; 20 themes —
+[[Strife and Peacemaking]], [[Wealth and Possessions]], [[Sacrifice and Offering]],
+[[Slavery and Servitude]], [[Birthright and the Firstborn]], [[Testing]], [[Deception]],
+[[The Poor and the Vulnerable]], [[Judgment]], [[Righteousness]], [[Integrity]], [[Love]],
+[[Forgiveness]], [[Brotherhood]], [[Vengeance]], [[Retribution]], [[Healing]],
+[[Language and Speech]], [[Folly]], and [[Wisdom]]; twelve existing connections —
+[[Better Is Little - The Better-Than Sayings of Proverbs]],
+[[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]],
+[[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]],
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]],
+[[Rewarding Evil for Good - A False Charge That Is Exactly True]],
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]],
+[[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]], [[Comforters Who Do Not Comfort]],
+[[Better Than Gold - The Price of Wisdom]], [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]],
+[[The Crown Given and Taken - Proverbs 4 and Job 19]], and [[The Prosperity of the Wicked]]; and
+fifteen earlier passage pages that got reciprocal links: [[The Plans of the Heart]],
+[[A Gentle Answer]], [[A Way That Seems Right]], [[A Wise Son Makes a Glad Father]],
+[[The Surety, the Sluggard, and the Seven Abominations]], [[Get Wisdom]],
+[[Justice, Sabbaths, and Feasts]], [[The Covenant Between the Pieces]], [[The Second Journey]],
+[[The Silver Cup and Judah's Plea]], [[The Deaths of Jacob and Joseph]],
+[[The Arrows of the Almighty]], [[Though He Slay Me]], [[Job's Oath of Innocence]], and
+[[The Restoration of Job]].
+
+**Corrections.** [[Rewarding Evil for Good - A False Charge That Is Exactly True]] quoted Proverbs
+17:13 twice as *"evil will not depart"*; the stored WEB reads *"evil shall not depart"*, and both
+quotations are corrected. [[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]],
+[[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]], and
+[[Better Is Little - The Better-Than Sayings of Proverbs]] marked Proverbs 17 *not yet ingested*; those
+marks are replaced by links.
+
+**Indexes and totals.** Revised the books index (25 / 43 pericopes), the wiki dashboard, the themes
+index, People Index F-M and N-Z, and the Connections subindex rows for every updated connection, plus
+new rows in A-C and D-H. Counts by frontmatter: 169 passages, 179 people, 90 places, 83 themes, 438
+connections. Four books are started and three are complete.
+
+**Sources and validation.** All Proverbs, Job, Genesis, and Exodus quotations are copied from stored
+WEB. These verses were quoted after checking the WEB at bible-api.com, without fetching their books:
+Deuteronomy 16:19; 25:1, 3; Ruth 1:14; 1 Samuel 18:1, 3; 2 Samuel 17:8; Isaiah 5:23; Jeremiah 17:10;
+Hosea 13:8. Hebrew claims rest on Sefaria's *Miqra according to the Masorah*, read 2026-10-25, for
+Proverbs 1:7; 4:7; 6:1; 7:14; 10:5, 12; 14:31; 16:28, 31; 17:1–28; 18:24; 21:14; 27:10, 21; Genesis
+2:24; 43:9; 44:4; Exodus 23:6–8; Deuteronomy 16:19; 25:1; Ruth 1:14; 2 Samuel 17:8; Isaiah 5:23;
+Jeremiah 17:10; Hosea 13:8; Job 6:14; 13:5; 23:10. The passage page's Notes list exactly which claims
+rest on it. `scripts/link-check.sh` ran at the end of the pass and exited 0.

@@ -19,8 +19,8 @@ tags: [connection]
   wisdom that gold cannot buy — [[Where Shall Wisdom Be Found]]
 - **Psalm 66:10** *(not yet ingested)* — *"For you, God, have tested us. You have refined us, as
   silver is refined."*
-- **Proverbs 17:3** *(not yet ingested)* — *"The refining pot is for silver, and the furnace for
-  gold, but Yahweh tests the hearts."*
+- **Proverbs 17:3** — *"The refining pot is for silver, and the furnace for
+  gold, but Yahweh tests the hearts."* — [[A Dry Morsel with Quietness]]
 - **Zechariah 13:9** *(not yet ingested)* — *"I will bring the third part into the fire, and will
   refine them as silver is refined, and will test them like gold is tested. They will call on my
   name, and I will hear them."*
@@ -72,6 +72,15 @@ is more precious than gold that perishes even though it is tested by fire"* (1 P
 generalised: suffering as the assay of faith, and its result *"praise, glory, and honor"* at the end.
 James, in the same tradition, makes Job the named example (*"You have heard of the perseverance of
 Job, and have seen the Lord in the outcome"*, James 5:11).
+
+**Proverbs 17:3 shares Job's verb.** *Ûbōḥēn libbôt YHWH*, *Yahweh tests the hearts*, has the
+assayer's *bḥn* that Job used at 23:10, *bəḥānanî*, *when he has tried me* (Hebrew of both from
+Sefaria's *Miqra according to the Masorah*). Proverbs 27:21 repeats the first half in the same Hebrew
+(*maṣrēp lakkesep wəkûr lazzāhāb*; the WEB renders it *"The crucible is for silver"* there) and ends
+instead *"but man is refined by his praise"*: the test can be applause as well as fire. Jeremiah 17:10
+has *"I try the heart"* (WEB at bible-api.com) with the same participle but *kəlāyôt*, *kidneys*. In
+Proverbs 17:3 the test is proof, not punishment — the sense this page assigns to Job 23:10. See
+[[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17:3; 27:21; Job 23:10.
 
 ## Significance
 

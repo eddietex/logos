@@ -122,7 +122,15 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Good medicine — Proverbs 17:22
+
+*"A cheerful heart makes good medicine, but a crushed spirit dries up the bones."* With 15:13 and 18:14, the spirit is said to act on the body. Job's *"In the night season my bones are pierced in me"* (Job 30:17) is the crushed spirit from inside; the saying names the link without promising that cheer is always available.
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:22.
 
 - [[The Plans of the Heart]] — Proverbs 16:24.
 

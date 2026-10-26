@@ -172,6 +172,7 @@ and [[Suffering]].
 - [[The Prosperity of the Wicked]] — the chapter’s outcomes alongside Job’s counter-observations.
 - [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]] — Proverbs 17:9; 28:13; 1
   Peter 4:8; James 5:19–20; love, confession, and restoration.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:2, 9, 21, 25; 10:5's wise and shameful son, 10:12's covering love, and 10:1's grieved parents.
 
 ## Notes
 

@@ -2128,6 +2128,18 @@ See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]] and
 [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]]. Source: stored WEB Proverbs
 16; Exodus 34:6.
 
+### The tester of hearts — Proverbs 17
+
+[[A Dry Morsel with Quietness]] names Yahweh twice (17:3, 15), after the eleven of chapter 16, and refers to him once more as *Maker*
+(17:5). He *"tests
+the hearts"* as the furnace tests gold (3), with the assayer's verb Job used at 23:10 (Hebrew from
+Sefaria); he is the *Maker* whom mockery of the poor reproaches (5); and both the judge who justifies
+the wicked and the one who condemns the righteous are *"an abomination to Yahweh"* (15), as at Exodus
+23:7 he says *"I will not justify the wicked"*. See
+[[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]] and
+[[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]]. Source: stored WEB Proverbs
+17:3, 5, 15; Exodus 23:7; Job 23:10.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2401,6 +2413,7 @@ See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]] and
 
 ## Appears in
 
+- [[A Dry Morsel with Quietness]] — Proverbs 17:3, 5, 15; testing hearts, Maker of the poor, abhorring perverted judgment.
 - [[The Plans of the Heart]] — Proverbs 16:1–7, 9, 11, 20, 33; answering the tongue, weighing motives, directing steps, deciding the lot.
 
 - [[A Gentle Answer]] — Proverbs 15:3, 8–9, 11, 16, 25–26, 29, 33; all-seeing, delighting in the upright's prayer, keeper of the widow's borders.

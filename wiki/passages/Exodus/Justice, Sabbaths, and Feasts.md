@@ -158,6 +158,7 @@ commands for Israel's life and worship, not a report that the people have alread
   23:19's first fruits (*rēʾšîṯ*) as Proverbs 3:9's honour of Yahweh with all one's increase.
 - [[The Lamp of the Commandment]] — Proverbs 6:35; *šōḥaḏ*, the bribe of 23:8, offered to a wronged
   husband who will not take it.
+- [[A Dry Morsel with Quietness]] — Proverbs 17:15, 23; the bribe taken and justice perverted, in the vocabulary of Exodus 23:6–8.
 
 ## Notes
 

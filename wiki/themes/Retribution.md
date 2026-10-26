@@ -329,7 +329,15 @@ Yahweh made *"even the wicked for the day of evil"* (4); the proud *"shall certa
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Unpunished, and the bribe that prospers — Proverbs 17:5, 8, 11, 13, 20, 26
+
+The general promises continue: the gloater *"shall not be unpunished"* (5), the rebel meets *"a cruel messenger"* (11), evil *"shall not depart"* from the house of one who repays evil for good (13), and the perverse heart *"doesn't find prosperity"* (20). But the same chapter admits the bribe that prospers its giver (8) and the righteous punished (26): the court can invert the outcomes these sayings promise, and the chapter calls that an abomination, not an impossibility. See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] and [[The Prosperity of the Wicked]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:5, 11, 13, 20.
 
 - [[The Plans of the Heart]] — Proverbs 16:4–5, 7, 18, 31.
 

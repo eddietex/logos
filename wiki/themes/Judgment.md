@@ -320,7 +320,15 @@ Yahweh weighs the motives (2); the king's lips give judgment (10); the *"scales 
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Perverted justice — Proverbs 17:8, 15, 23, 26
+
+Five sayings on the corrupted court: the bribe that works for its giver (8); *"He who justifies the wicked, and he who condemns the righteous, both of them alike are an abomination to Yahweh"* (15); the bribe taken *"to pervert the ways of justice"* (23), in the vocabulary of Exodus 23:6–8 and Deuteronomy 16:19; and the righteous punished and officials flogged *"for their integrity"* (26). See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:8, 15, 23, 26.
 
 - [[The Plans of the Heart]] — Proverbs 16:2, 10–11, 33.
 

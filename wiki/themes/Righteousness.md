@@ -206,7 +206,15 @@ A little with righteousness is better than great revenues with injustice (8); *"
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Justifying the wicked — Proverbs 17:15, 26
+
+To declare the wicked righteous (*maṣdîq rāšāʿ*) and the righteous wicked are *"both of them alike … an abomination to Yahweh"* (15), as Exodus 23:7 grounds the rule in God, *"I will not justify the wicked"*. Punishing the righteous *"is not good"* (26). See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:15, 26.
 
 - [[The Plans of the Heart]] — Proverbs 16:8, 12–13, 17, 31.
 

@@ -206,6 +206,15 @@ It holds the first cluster of royal sayings (10–15) — *"In the light of the 
 and the book's best-known line, *"Pride goes before destruction"* (18). Verse 25 repeats 14:12 word for
 word.
 
+[[A Dry Morsel with Quietness]] (17:1–28) has no frame, and names Yahweh only twice, and God once more as *Maker*: he *"tests
+the hearts"* as the furnace tests gold (3), is the *Maker* whom mockery of the poor reproaches (5), and
+abhors both the acquittal of the wicked and the condemnation of the righteous (15). Its densest cluster
+is the corrupted court — the bribe that *prospers* its giver (8), the bribe taken *"to pervert the ways
+of justice"* (23) in the words of Exodus 23:6–8, and officials flogged *"for their integrity"* (26) —
+the collection's plainest admission that judgment can be bought. Around it stand the quiet house (1),
+covering an offense (9), the friend who *"loves at all times"* (17), set against Job's friends, and the
+fool counted wise when he is silent (28), Job 13:5 made general.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -262,7 +271,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[A Way That Seems Right]] — Proverbs 14:1–35
 - [x] [[A Gentle Answer]] — Proverbs 15:1–33
 - [x] [[The Plans of the Heart]] — Proverbs 16:1–33
-- [ ] A Dry Morsel with Quietness — Proverbs 17:1–28
+- [x] [[A Dry Morsel with Quietness]] — Proverbs 17:1–28
 - [ ] A Strong Tower — Proverbs 18:1–24
 - [ ] Better Is the Poor Who Walks in Integrity — Proverbs 19:1–29
 - [ ] Wine Is a Mocker — Proverbs 20:1–30

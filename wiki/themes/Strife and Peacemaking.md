@@ -183,7 +183,15 @@ Yahweh makes a pleasing man's enemies *"at peace with him"* (7); a wise man paci
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### The quiet morsel and the breached dam — Proverbs 17:1, 9, 14, 19
+
+A dry morsel with quiet is better than a house of *"feasting with strife"* (1) — literally *sacrifices of strife*, *zibḥê-rîb* (Hebrew from Sefaria). Covering an offense seeks love while repeating it *"separates best friends"* (9); the beginning of strife is *"like breaching a dam"*, so stop it *"before quarreling breaks out"* (14); and *"He who loves disobedience loves strife"* (19). See [[Better Is Little - The Better-Than Sayings of Proverbs]] and [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:1, 9, 14, 19.
 
 - [[The Plans of the Heart]] — Proverbs 16:7, 14, 28, 32.
 

@@ -50,6 +50,8 @@ tags: [connection]
 - **Ecclesiastes 7:15; 8:14; 9:2** — the flat empirical denial
 - **Luke 16:19–31** — the rich man and Lazarus, the accounting relocated past death
 - **2 Peter 2:9; 3:8–9** — judgment reserved, and the delay explained as patience
+- [[A Dry Morsel with Quietness]] — Proverbs 17:8, 15, 23, 26: the bribe that prospers its giver, the guilty
+  acquitted, and the righteous flogged.
 
 ## Analysis
 

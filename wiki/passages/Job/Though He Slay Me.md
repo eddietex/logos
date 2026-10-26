@@ -471,6 +471,7 @@ one hundred forty years, and saw his sons, and his sons' sons, to four generatio
 - [[I Repent in Dust and Ashes]] — Job 42:4: 13:22's *"let me speak, and you answer me"* and God's reversal of it, quoted together; 13:1's ear and eye, at 42:5.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:14; the four qualities of 12:13 claimed by Wisdom in the
   first person. See [[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]].
+- [[A Dry Morsel with Quietness]] — Proverbs 17:28; the silent fool counted wise, Job 13:5 made general.
 
 ## Notes
 

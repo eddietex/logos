@@ -13,7 +13,8 @@ tags: [connection]
 - **1 Samuel 24:17; 25:21** — David and Saul in the cave; David on Nabal: *"he has returned me evil
   for good"*
 - **Psalm 35:12; Psalm 38:20; Psalm 109:4–5** — the lament formula
-- **Proverbs 17:13** — *"Whoever rewards evil for good, evil will not depart from his house"*
+- **Proverbs 17:13** — *"Whoever rewards evil for good, evil shall not depart from his house"* —
+  [[A Dry Morsel with Quietness]]
 - **Jeremiah 18:20** — *"Should evil be recompensed for good?"*
 - **Romans 12:17, 21; 1 Thessalonians 5:15; 1 Peter 3:9** — the New Testament's inversion
 
@@ -76,7 +77,7 @@ David.**
   him**, which makes it another case of a third party defusing a sentence already spoken.
 - **Psalm 35:12; 38:20; 109:4–5** — the lament's standing complaint, always in the voice of the
   wronged and always as grounds for asking God to act.
-- **Proverbs 17:13** — *"Whoever rewards evil for good, evil will not depart from his house."* **The
+- **Proverbs 17:13** — *"Whoever rewards evil for good, evil shall not depart from his house."* **The
   only occurrence that states a consequence**, and it is generational — **which is the Joseph cycle's
   whole shape**: the evil does not depart from the house of the men who did it for twenty-two years,
   and it returns to them as a silver cup.
@@ -95,6 +96,12 @@ to answer evil with good.** **Genesis 44 sits between them and belongs to neithe
 is false, the men are guilty of the thing it names, **and the man wronged is in the process of
 arranging for them to be fed** (45:11; 50:21). **The accusation he writes is the last cruelty of a
 kindness he has already decided on.**
+
+**What Proverbs 17:13 shares with Genesis 44:4 is the phrase, not the verb.** Joseph's steward asks
+*lāmmâ šillamtem rāʿâ taḥat ṭôbâ*; the proverb has *mēšîb rāʿâ taḥat ṭôbâ*. *Rāʿâ taḥat ṭôbâ*, *evil in
+place of good*, is identical; the verbs, *šlm* (*repay*) and *šwb* (*return*), differ (Hebrew of both from
+Sefaria's *Miqra according to the Masorah*). See
+[[A Dry Morsel with Quietness]]. Source: stored WEB Genesis 44:4; Proverbs 17:13.
 
 ## Significance
 

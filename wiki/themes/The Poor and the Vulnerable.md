@@ -142,7 +142,15 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Mocking the poor — Proverbs 17:5
+
+*"Whoever mocks the poor reproaches his Maker."* 14:31 said it of oppression; 17:5 says it of mockery, with the same predicate, *ḥērēp ʿōśēhû* (Hebrew from Sefaria). See [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]].
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:5.
 
 - [[A Gentle Answer]] — Proverbs 15:15, 25.
 

@@ -396,7 +396,15 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Near, unpurchasable, and quiet — Proverbs 17:2, 10, 16, 24, 27–28
+
+Wisdom can lift a servant over a son (2) and is reached by a rebuke (10). It is for sale and cannot be bought by a fool who has *"no understanding"* (16). It is *"before the face"* of the discerning (24), and its outward sign is restraint: spared words and a cool spirit (27; ketiv *qar-rûaḥ*, *cool of spirit*, qere *yəqar-rûaḥ*, *precious of spirit*, both printed by Sefaria).
+
+See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
+
 ## Key passages
+
+- [[A Dry Morsel with Quietness]] — Proverbs 17:2, 10, 16, 24, 27–28.
 
 - [[The Plans of the Heart]] — Proverbs 16:14, 16, 20–23.
 
