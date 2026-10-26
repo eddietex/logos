@@ -175,6 +175,14 @@ cistern"* (5:15). Whether she is the strange woman under a wider name or a figur
 includes her, the text does not say. See [[The Two Feasts]]. Source: stored WEB Proverbs 5, 7, 9;
 Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The deep pit — Proverbs 22:14
+
+*"The mouth of an adulteress is a deep pit. He who is under Yahweh's wrath will fall into it"*
+(22:14). The strange woman of chapters 2, 5, 7, and 9 is compressed into one image of her speech,
+repeated at 23:27. The saying places Yahweh's wrath before the fall without saying what caused it.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
@@ -214,6 +222,7 @@ Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
   *"the rooms of death"*
 - [[The Two Feasts]] — Proverbs 9:13–18; Folly takes the strange woman's features — *loud*, at her door, bound
   for Sheol — and offers *"Stolen water"*, the other man's well of 5:15
+- [[A Good Name]] — Proverbs 22:14; The adulteress's mouth a deep pit.
 
 ## Related themes
 

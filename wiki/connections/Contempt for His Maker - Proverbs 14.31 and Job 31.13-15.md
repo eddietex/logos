@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:2, 16.
+
 - [[A Way That Seems Right]] — Proverbs 14:31.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5; *"Whoever mocks the poor reproaches his Maker"*, the same thought restated.
 - [[Job's Oath of Innocence]] — Job 31:13–16.
@@ -51,6 +53,18 @@ renders the shared predicate *"shows contempt for"* at 14:31 and *"reproaches"* 
 nothing from the poor man and is still counted as an attack on God. The second half reaches Job's oath
 again: *"If I have rejoiced at the destruction of him who hated me"* (Job 31:29). See
 [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 14:31; 17:5; Job 31:29.
+
+### Proverbs 22 in context
+
+Proverbs 22:2 states the ground of this page without the verdict: *"The rich and the poor have this
+in common: Yahweh is the maker of them all."* Where 14:31 and 17:5 drew the consequence — contempt
+for the poor reaches their Maker — 22:2 names the common origin itself, and 22:16 closes the
+collection with the oppressor of the poor coming to poverty. The verse states a shared Maker, not a
+shared condition; it does not say the inequality is unimportant. Proverbs 29:13 (stored, not yet
+ingested) repeats the form with *"the poor man and the oppressor"*.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 14:31; 17:5; 22:2, 16; 29:13; no new
+source-language claim.
 
 ## Significance
 

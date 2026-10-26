@@ -442,6 +442,15 @@ The chapter praises wisdom and states its limit in the same breath.
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Prudence — Proverbs 22:3, 5, 12
+
+*"A prudent man sees danger, and hides himself; but the simple pass on, and suffer for it"* (22:3,
+repeated at 27:12). Wisdom here is foresight and self-preservation: guarding one's soul keeps it from
+thorns and snares (5). Yahweh's eyes *"watch over knowledge"* (12), placing it under his
+protection.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -639,6 +648,7 @@ the passage page.
   places and words
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; Wisdom's second speech: at the gates and crossroads, straight words, better than silver, *"By me kings reign"*, found by those who seek her
 - [[Wisdom at the Creation]] — Proverbs 8:22–36; Wisdom possessed by Yahweh at the beginning, present at creation as *ʾāmôn*, delighting in humanity; whoever finds her finds life
+- [[A Good Name]] — Proverbs 22:3, 5, 12; The prudent sees danger; Yahweh watches over knowledge.
 
 ## Related themes
 

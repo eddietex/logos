@@ -16748,3 +16748,46 @@ WEB quotations (1 Samuel 15:22; Hosea 6:6; Micah 6:8; Psalm 20:7; 33:17; Ezra 6:
 context is paraphrased and marked as such. No unreached book was fetched, and existing raw files
 are unchanged. No Hebrew claim is made; the wording behind *departed spirits* (16) and *ransom* (18)
 was deliberately left unasserted. `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 22.1-16 — A Good Name
+
+Ingested [[A Good Name]], retaining the planned Proverbs 22:1–16 boundary and advancing exactly one
+queue item. This closes the collection headed *"The proverbs of Solomon"* (10:1); verse 17 begins
+*"the words of the wise"*, the next queue item. The unattended discussion is written into the
+passage page: a good name above riches; one Maker of rich and poor; the prudent who sees danger;
+humility and the fear of Yahweh; the trained child; the borrower and lender; sowing wickedness;
+the generous eye; the mocker driven out; the king's friend; the sluggard's lion; the adulteress's
+mouth as a deep pit; the rod that drives out folly; and the two roads to poverty.
+
+**Interpretive decisions and tensions.** Generic figures receive no person pages, and no place is
+named. Solomon is collection attribution only. Verse 6 is read as a saying about the long reach of
+formation, not a guarantee, held beside the collection's foolish and shameful sons (13:1; 17:21,
+25; 19:26); whether *"the way he should go"* means the right way generally or a way suited to the
+child is left open. Verse 4's promise of wealth, honor, and life is kept beside Job, who feared God
+and lost all three. Verse 8's harvest image is kept beside Eliphaz's use of it at Job 4:8. Verse
+7's borrower is an observation, set beside the Torah's lending limits. What *"gives to the rich"*
+(16) refers to is left open.
+
+**Created (3):** the passage and two connections:
+- [[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]]
+- [[Sow Wickedness, Reap Trouble - Proverbs 22.8, Job 4.8, and Hosea 8.7]]
+
+**Revised content pages (40):** [[Proverbs]]; [[God]] and [[Solomon]]; 19 theme pages, each with
+new synthesis and a key-passage entry; 8 existing connections, each with a passage entry and a
+*Proverbs 22 in context* section; and 10 earlier passage pages (six in Proverbs, two in Genesis,
+two in Job) with reciprocal references. The forward label for Proverbs 22:15 on
+[[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] is replaced with a link.
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index, People Index
+F-M and N-Z, and all five Connections subindexes (new rows filed under S and T; no range redraw
+needed). Proverbs is now 30 / 43 pericopes and remains in progress. Counts by frontmatter are 174
+passages, 179 people, 90 places, 83 themes, and 453 connections; four books started, three
+complete. No new person, place, or theme was needed.
+
+**Sources and validation.** Thirteen key-verse quotations were copied from the stored WEB, as were
+the comparisons in Proverbs 23–29 (stored, not yet ingested), Genesis 18:19, Exodus 22:25–27, and
+Job 1:1, 8; 4:7–9; 42:7. External WEB quotations (Deuteronomy 6:6–7; Ephesians 6:4; Hosea 8:7;
+10:13; Galatians 6:7) were verified at bible-api.com with `translation=web` on 2026-10-26. No
+unreached book was fetched, and existing raw files are unchanged. No Hebrew claim is made; the link
+between 22:6's *train up* and Genesis 14:14's *trained men* rests on the earlier page's root claim,
+marked as not re-verified here. `scripts/link-check.sh` exits 0.

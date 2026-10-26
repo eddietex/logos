@@ -259,6 +259,7 @@ the *"thorns"* the hungry harvest from (5:5), and *"the stones of the field"* (5
 - [[I Repent in Dust and Ashes]] — Job 42:5: the ear's whisper and the undiscerned form of 4:12–16, replaced by *"now my eye sees you"*.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12, the saying of 5:17 in its own setting: a
   father's lecture, after five promises, with *"whom Yahweh loves"* where Eliphaz has no love.
+- [[A Good Name]] — Proverbs 22:8, the sower of wickedness, and [[Sow Wickedness, Reap Trouble - Proverbs 22.8, Job 4.8, and Hosea 8.7]] on 4:8's use of the image.
 
 ## Notes
 

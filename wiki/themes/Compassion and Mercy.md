@@ -192,6 +192,13 @@ withhold (26).
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The generous eye — Proverbs 22:9
+
+*"He who has a generous eye will be blessed; for he shares his food with the poor"* (22:9). Mercy
+here is a disposition (the eye) proven by a concrete act (food shared).
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:10, 13, 21, 26; The wicked show no mercy; kindness is pursued.
@@ -284,6 +291,7 @@ the passage page.
   12:6). **Not the Joseph cycle's *raḥămîm***; the pity comes before her recognition that he is a
   Hebrew, and survives it
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"What would he sleep in? … for I am gracious"*
+- [[A Good Name]] — Proverbs 22:9; The generous eye shares food with the poor.
 
 ## Related themes
 

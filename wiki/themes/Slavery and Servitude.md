@@ -194,6 +194,14 @@ Neither proverb is a complete account of servitude.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### The borrower's servitude — Proverbs 22:7
+
+*"The rich rule over the poor. The borrower is servant to the lender"* (22:7). Debt is described as
+a form of servitude — an observation, not a recommendation — and the Torah's limits on lending to
+the poor (Exodus 22:25–27) answer exactly this dependence.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:10; Resistance to a servant ruling
@@ -442,6 +450,7 @@ comparisons documented on that passage page.
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[Laws of Property and Restitution]] — Exodus 22:3; a thief who cannot pay is sold for his theft
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *ʿābad* three times: the peoples' gods or Yahweh.
+- [[A Good Name]] — Proverbs 22:7; The borrower is servant to the lender.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

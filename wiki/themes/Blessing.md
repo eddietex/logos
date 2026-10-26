@@ -247,6 +247,14 @@ can be used as a direct test of parental character.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The generous eye blessed — Proverbs 22:9
+
+The one with *"a generous eye will be blessed"* (22:9); the blessing follows sharing food with the
+poor. As elsewhere in Proverbs, blessing is attached to conduct rather than to a spoken
+benediction.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:7, 21; Children blessed; hasty inheritance denied final blessing.
@@ -489,6 +497,7 @@ passage page.
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses blesses the people after approving their work; his words are not supplied.
 - [[Wisdom at the Creation]] — Proverbs 8:32–34; *ʾašrê*: blessed are those who keep Wisdom's ways and wait at her door posts
+- [[A Good Name]] — Proverbs 22:9; The generous eye is blessed.
 
 ## Related themes
 

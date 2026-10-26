@@ -132,6 +132,14 @@ flatters nor excuses the king: his decisions are his, and they are not final. Se
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The king's friend — Proverbs 22:11
+
+*"He who loves purity of heart and speaks gracefully is the king's friend"* (22:11), the last royal
+saying of the Solomonic collection, continuing 14:35 and 16:13: the king values the wise and
+truthful servant.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:1; The ruler's heart as directed water, without exemption from responsibility.
@@ -285,6 +293,7 @@ the passage page.
   *"king of Egypt"* in the prose (14:5, 8), is not called king anywhere in the Song.**
 - [[Israel at Mount Sinai]] — Exodus 19:5–6; the kingdom offered as a priestly vocation
 - [[Wisdom Calls at the Gates]] — Proverbs 8:15–16; *"By me kings reign"* — every rank of ruler governs by wisdom
+- [[A Good Name]] — Proverbs 22:11; Purity of heart and gracious speech make the king's friend.
 
 ## Related themes
 

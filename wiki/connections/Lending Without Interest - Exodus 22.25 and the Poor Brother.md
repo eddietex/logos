@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:7.
+
 - **Exodus 22:25** — *"If you lend money to any of my people with you who is poor, you shall not be
   to him as a creditor. You shall not charge him interest."* — [[Laws of Holiness and Compassion]]
 - **Leviticus 25:35–37** — *"If your brother has become poor … Take no interest from him or profit,
@@ -53,6 +55,17 @@ against their own brothers.
 
 **The noun *nešek* is often connected with a verb *to bite*** — interest as what bites the borrower.
 That derivation is a common one; it was not checked against a lexicon in this pass.
+
+### Proverbs 22 in context
+
+Proverbs 22:7 observes the power this law limits: *"The rich rule over the poor. The borrower is
+servant to the lender."* The saying describes what debt does; it does not recommend it. Exodus
+22:25–27 forbids the creditor's posture toward a poor neighbor and returns his pledged cloak by
+sunset, which is the law's answer to the dependence the proverb names. The next pericope continues
+with surety and the bed taken from under the debtor (22:26–27, not yet ingested).
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22:7, 26–27; Exodus 22:25–27; no new
+source-language claim.
 
 ## Significance
 

@@ -190,6 +190,16 @@ unheard cry (Job 19:7; 30:20) shows. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### One Maker — Proverbs 22:2, 7, 9, 16
+
+*"The rich and the poor have this in common: Yahweh is the maker of them all"* (22:2). The
+collection's last word on the poor joins observation (the borrower serves the lender, 7) to
+judgment: the generous eye that shares food with the poor is blessed (9), and whoever oppresses the
+poor for gain comes to poverty (16). The common Maker is the ground of 14:31 and 17:5 stated
+without its consequence.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:13; Stopped ears answered by an unheard cry.
@@ -229,6 +239,7 @@ the passage page.
 - [[Laws of Holiness and Compassion]] — Exodus 22:21–27; the alien, widow, fatherless, and poor
   under God's protection
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:15; rich and poor pay the same ransom.
+- [[A Good Name]] — Proverbs 22:2, 7, 9, 16; One Maker of rich and poor; the poor fed, not oppressed.
 
 ## Related themes
 

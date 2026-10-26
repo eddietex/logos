@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:14.
+
 - **Proverbs 7:1–27** — the strange woman at the corner at nightfall, and her speech to the young man
   *"void of understanding"* — [[The Young Man Void of Understanding]].
 - **Proverbs 8:1–21** — Wisdom at the heights, the crossroads, and the gates, calling to all people —
@@ -91,6 +93,17 @@ the way to Sheol"* (7:27), *"All those who hate me love death"* (8:36), *"her gu
 Sheol"* (9:18). See [[The Two Feasts]] and
 [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]]. Hebrew of 9:1–18 from
 Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
+### Proverbs 22 in context
+
+Proverbs 22:14 reduces the strange woman of chapters 2, 5, 7, and 9 to one image: *"The mouth of an
+adulteress is a deep pit. He who is under Yahweh's wrath will fall into it."* It is her speech —
+the flattering words of 2:16 and 7:21 — that is the pit. The saying puts Yahweh's wrath before the
+fall without saying what brought it. Proverbs 23:27 (stored, not yet ingested) repeats the image:
+*"For a prostitute is a deep pit; and a wayward wife is a narrow well."*
+
+See [[A Good Name]]. Source: stored WEB Proverbs 2:16; 7:21; 22:14; 23:27; no new
+source-language claim.
 
 ## Significance
 

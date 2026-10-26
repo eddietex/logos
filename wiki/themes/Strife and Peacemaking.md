@@ -229,6 +229,13 @@ perverting justice. See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deut
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The mocker driven out — Proverbs 22:10
+
+*"Drive out the mocker, and strife will go out; yes, quarrels and insults will stop"* (22:10). Here
+peace is made by removal: the source of strife is a person, and the remedy is social.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
@@ -388,6 +395,7 @@ the passage page.
   man who also gives Exodus all its *šālôm*** (4:18; 18:7, 23; WLC)
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
+- [[A Good Name]] — Proverbs 22:10; Drive out the mocker and quarrels stop.
 
 ## Related themes
 

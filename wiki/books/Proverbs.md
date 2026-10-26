@@ -248,6 +248,13 @@ and justice to sacrifice (3, 27). Two better-than sayings flee a contentious wif
 that pacifies wrath is observed, not approved (14); the one deaf to the poor cries unheard (13), a
 warning kept in tension with Job's unanswered cries.
 
+[[A Good Name]] (22:1–16) closes the Solomonic collection with wealth at both ends: a good name
+above great riches (1), one Maker of rich and poor (2), and two roads to poverty — oppressing the
+poor and giving to the rich (16). Between them stand the trained child (6), read as a saying about
+formation rather than a guarantee; the borrower who serves the lender (7); the sower of wickedness
+(8), kept beside Eliphaz's misuse of the image; the sluggard's lion (13); the adulteress's mouth as a
+deep pit (14); and the rod that drives out folly (15). Verse 17 begins the words of the wise.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -309,7 +316,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1–29
 - [x] [[Wine Is a Mocker]] — Proverbs 20:1–30
 - [x] [[The King's Heart]] — Proverbs 21:1–31
-- [ ] A Good Name — Proverbs 22:1–16
+- [x] [[A Good Name]] — Proverbs 22:1–16
 
 ### The words of the wise (22:17–24:34)
 

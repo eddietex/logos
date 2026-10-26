@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:4.
+
 - **Job 28:28** — *"To man he said, 'Behold, the fear of the Lord, that is wisdom. To depart from evil
   is understanding.'"* The last verse of [[Where Shall Wisdom Be Found]].
 - **Job 1:1, 8; 2:3** — Job *"blameless and upright, and one who feared God, and turned away from
@@ -103,6 +105,17 @@ and of the fear of Yahweh"* — the fear of God not only as the starting point o
 endowment of the Spirit, which later Christian reading attaches to Christ. Isaiah 33:6 calls it a
 *treasure*, which is the vocabulary of Job 28:15–19 turned round: the thing no gold can buy is itself
 the treasure. See [[Better Than Gold - The Price of Wisdom]].
+
+### Proverbs 22 in context
+
+Proverbs 22:4, cited above, is now ingested: *"The result of humility and the fear of Yahweh is
+wealth, honor, and life."* Where 15:33 and 18:12 put humility *before honor*, 22:4 names the
+outcome in full. Job, who *"fears God"* in the narrator's words (Job 1:1), loses wealth and
+children and nearly life, so the verse states the expected result and is not a test of anyone's
+fear of God.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 15:33; 18:12; 22:4; Job 1:1; no new
+source-language claim.
 
 ## Significance
 

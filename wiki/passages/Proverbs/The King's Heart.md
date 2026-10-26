@@ -183,6 +183,7 @@ reverses fortunes; it is not developed into a theory of substitution here.
 - [[The Song of the Sea]] — Exodus 15:1, 21, the horse and rider thrown into the sea.
 - [[I Know That My Redeemer Lives]] — Job 19:7, a cry for help that is not heard.
 - [[Now They Mock Me]] — Job 30:20, a cry to God unanswered.
+- [[A Good Name]] — Proverbs 22:10 drives out the mocker whose punishment 21:11 makes a lesson.
 
 ## Notes
 

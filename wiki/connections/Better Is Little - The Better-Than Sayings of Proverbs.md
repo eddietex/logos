@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:1.
+
 - [[The King's Heart]] — Proverbs 21:9, 19.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 22.
@@ -79,6 +81,15 @@ is better than living with a contentious woman. See
 [[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### Proverbs 22 in context
+
+Proverbs 22:1 ranks a good name above *"great riches"* and loving favor above *"silver and gold"*.
+Unlike the poverty-with-integrity sayings, it does not set a poor man against a rich one; it ranks
+reputation and goodwill above wealth, and three verses later (22:4) promises wealth itself to
+humility and the fear of Yahweh. The comparison is of goods, not a rejection of riches.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22:1, 4; no new source-language claim.
 
 ## Significance
 

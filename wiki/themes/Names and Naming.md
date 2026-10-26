@@ -114,6 +114,15 @@ it does not by itself identify these objects as seals used to authenticate docum
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### A good name — Proverbs 22:1
+
+*"A good name is more desirable than great riches"* (22:1). Here *name* means reputation — what
+others say of a person — and Proverbs ranks it above wealth. It is the opposite pole from Babel's
+*"let's make a name for ourselves"* (Genesis 11:4): a name received as the fruit of conduct and
+goodwill rather than built for oneself.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Joshua’s patronymic and Moses known by name.
@@ -270,6 +279,7 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
   [[Eliezer (son of Moses)]]
 - [[The Priestly Garments]] — Exodus 28:1–43; the tribes' names engraved on stones, and *"HOLY TO YAHWEH"* on the forehead.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Tribal names engraved in stones; Yahweh named on the crown.
+- [[A Good Name]] — Proverbs 22:1; A good name above riches.
 
 ## Related themes
 

@@ -405,6 +405,16 @@ without withholding (26). Wealth is judged by how it is gained, kept, and given.
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Riches ranked and limited — Proverbs 22:1–2, 4, 7, 16
+
+The pericope frames wealth from both ends. A good name outranks great riches (1); rich and poor
+share one Maker (2); humility and the fear of Yahweh yield wealth, honor, and life (4); the rich
+rule the poor and the borrower serves the lender (7); and both the oppressor of the poor and the
+giver to the rich come to poverty (16). Wealth is promised, observed as power, and placed beneath
+reputation and the Maker's claim. Verse 4's promise is held beside Job, who feared God and lost it.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
@@ -635,6 +645,7 @@ the passage page.
 - [[Do Not Consent to Sinners]] — Proverbs 1:13–19; plunder, one purse, and greed for gain that *"takes away the life of its owners"*
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; *hôn* given first to Yahweh, and overflowing barns
 - [[Wisdom Calls at the Gates]] — Proverbs 8:10–11, 18–21; instruction *"rather than silver"*, yet riches, honour, and full treasuries promised to Wisdom's lovers
+- [[A Good Name]] — Proverbs 22:1–2, 4, 7, 16; Riches ranked, promised, wielded, and lost.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -189,6 +189,14 @@ gift is corrupt. Verse 14 separately names the prudent wife as from Yahweh. See
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Favor above silver — Proverbs 22:1, 11
+
+*"Loving favor is better than silver and gold"* (22:1), and the one who *"speaks gracefully is the
+king's friend"* (22:11). Favor is again located in the eyes of others — here human goodwill and a
+king's friendship — and set above wealth.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 12, 14; Royal goodwill is sought
@@ -297,6 +305,7 @@ comparisons documented on that passage page.
 - [[Laws of Holiness and Compassion]] — Exodus 22:27; *"for I am gracious"*, *ḥannûn*
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3–4; favour *"in the sight of God and man"*
 - [[Wisdom at the Creation]] — Proverbs 8:35; *"will obtain favor from Yahweh"*, the phrase of 18:22
+- [[A Good Name]] — Proverbs 22:1, 11; Loving favor above silver; gracious speech wins the king.
 
 ## Related themes
 

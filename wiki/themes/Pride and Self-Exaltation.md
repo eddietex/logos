@@ -180,6 +180,14 @@ Yahweh's weighing overrules.
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Humility and the mocker — Proverbs 22:4, 10
+
+Humility is joined to the fear of Yahweh and rewarded with wealth, honor, and life (22:4). The
+mocker — named in 21:24 as *"the proud and haughty man"* — is to be driven out, and strife,
+quarrels, and insults go with him (22:10).
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 4, 24; Self-approval, the high look, and the scoffer's name.
@@ -251,6 +259,7 @@ the passage page.
   boast in six first-person verbs** (15:9), and *"they sank like lead"* (15:10).
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7; *"Don't be wise in your own eyes"*, answered by the fear of Yahweh
 - [[Wisdom Calls at the Gates]] — Proverbs 8:13; pride and arrogance first in what Wisdom hates
+- [[A Good Name]] — Proverbs 22:4, 10; Humility rewarded; the mocker driven out.
 
 ## Related themes
 

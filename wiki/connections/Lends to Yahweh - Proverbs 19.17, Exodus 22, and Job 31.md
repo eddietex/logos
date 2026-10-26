@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:9, 16.
+
 - [[The King's Heart]] — Proverbs 21:13, 26.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:1, 4, 7, 17, 22.
@@ -47,6 +49,15 @@ Proverbs 21 states the negative case — stopped ears to the poor bring an unhea
 positive: *"the righteous give and don't withhold"* (26).
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### Proverbs 22 in context
+
+Proverbs 22:9 blesses *"He who has a generous eye"*, *"for he shares his food with the poor"*, and
+22:16 sends both the oppressor of the poor and the giver to the rich to poverty. The pair inverts
+the expected economics in the same way 19:17 does: giving to the poor is the gain, taking from them
+the loss.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 19:17; 22:9, 16; no new source-language claim.
 
 ## Significance
 

@@ -466,6 +466,7 @@ chapter's readers pass over.
   return to this chapter.
 - Hebrews 7:1–28 — the New Testament's extended argument from Genesis 14, built on the tithe, the
   blessing, and the absent genealogy.
+- [[A Good Name]] — Proverbs 22:6, *train up a child*, linked above to 14:14's *trained men*.
 
 ## Notes
 

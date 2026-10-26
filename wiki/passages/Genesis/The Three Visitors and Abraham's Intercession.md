@@ -478,6 +478,7 @@ the sparing of the place he argued for.
   aside inside a disbelieving private thought.
 - Job 9:22–24; 34:10–19 — the Judge of all the earth doing right, questioned at book length.
 - Job 30:19; 42:6 — *dust and ashes*, in the mouth of the other man who argues.
+- [[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]] — 18:19's charge to command his children in the way of Yahweh.
 
 ## Notes
 

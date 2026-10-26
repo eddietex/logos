@@ -117,6 +117,12 @@ Chapter 21 belongs to the collection headed *"The proverbs of Solomon"* (10:1) a
 king's heart in Yahweh's hand. No king is named; the saying is attributed to a king's collection,
 not told about Solomon. See [[The King's Heart]]. Source: stored WEB Proverbs 10:1; 21:1.
 
+### Proverbs 22 in comparison
+
+Proverbs 22:16 ends the collection headed *"The proverbs of Solomon"* (10:1); verse 17 begins *"the
+words of the wise"*. Solomon is not named in 22:1–16, and the attribution belongs to the collection.
+See [[A Good Name]]. Source: stored WEB Proverbs 10:1; 22:16–17.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -126,6 +132,8 @@ not told about Solomon. See [[The King's Heart]]. Source: stored WEB Proverbs 10
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[A Good Name]] — Proverbs 22:1–16; close of the collection attributed to him.
 
 - [[The King's Heart]] — Proverbs 21:1–31; collection attribution, not a narrated participant.
 

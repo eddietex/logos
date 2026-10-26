@@ -310,6 +310,13 @@ his hands refuse to labor (25). Haste and idleness are both failures of steady w
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The sluggard's lion — Proverbs 22:13
+
+*"The sluggard says, 'There is a lion outside! I will be killed in the streets!'"* (22:13, repeated
+at 26:13). The excuse is the joke: an invented danger keeps him indoors.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5, 25; Diligent plans against haste; the sluggard's fatal desire.
@@ -492,6 +499,7 @@ the passage page.
 - [[The Work Completed]] — Exodus 39:32–43; Shared craftsmanship is completed, presented, inspected, and approved.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses finishes erection after manufacture and inspection; filling is a distinct divine act.
+- [[A Good Name]] — Proverbs 22:13; The sluggard's lion in the streets.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

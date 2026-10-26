@@ -2188,6 +2188,15 @@ See [[The King's Heart]] and
 [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]]. Sources: stored WEB
 Proverbs 21 and Exodus 4:21; 9:12, 34.
 
+### Proverbs 22 in comparison
+
+Proverbs 22:1–16 names Yahweh four times. He is *"the maker of them all"*, rich and poor alike (2);
+the fear of him, with humility, yields wealth, honor, and life (4); his eyes watch over knowledge and
+frustrate the words of the unfaithful (12); and the one under his wrath falls into the adulteress's
+pit (14). Verse 4 is held beside Job, who feared God and lost all three.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22:2, 4, 12, 14 and Job 1:1.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2460,6 +2469,8 @@ Proverbs 21 and Exodus 4:21; 9:12, 34.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[A Good Name]] — Proverbs 22:1–16; maker of rich and poor, watcher over knowledge.
 
 - [[The King's Heart]] — Proverbs 21:1–31; director of the king's heart, weigher of hearts, giver of victory.
 

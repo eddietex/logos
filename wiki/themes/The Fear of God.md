@@ -219,6 +219,15 @@ was absent. See [[Untouched by Trouble - Proverbs 19.23 and the Suffering of Job
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Humility and fear — Proverbs 22:4
+
+*"The result of humility and the fear of Yahweh is wealth, honor, and life"* (22:4). The verse names
+the outcome toward which 15:33 and 18:12 pointed (*"before honor is humility"*). It is held beside
+Job, who *"fears God"* (Job 1:1) and loses all three: an expected result, not a test of anyone's
+fear.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23; Fear of Yahweh promises life and
@@ -432,6 +441,7 @@ comparisons documented on that passage page.
 - [[If You Seek Her as Silver]] — Proverbs 2:5; the fear of Yahweh understood at the end of the search, in parallel with the knowledge of God
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7–8; Job 1:1's two verbs as a command, with health promised
 - [[Wisdom Calls at the Gates]] — Proverbs 8:13; *"The fear of Yahweh is to hate evil"*, the motto restated as a definition
+- [[A Good Name]] — Proverbs 22:4; Humility and the fear of Yahweh yield wealth, honor, and life.
 
 ## Related themes
 

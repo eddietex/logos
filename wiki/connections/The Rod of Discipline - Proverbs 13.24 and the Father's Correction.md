@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:6, 15.
+
 - [[Wine Is a Mocker]] — Proverbs 20:30.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18, 25–27.
@@ -23,7 +25,7 @@ tags: [connection]
 - **Proverbs 19:18** — *"Discipline your son, for there is hope; don’t be a willing party to his
   death."* — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 22:15** — *"Folly is bound up in the heart of a child: the rod of discipline drives it
-  far from him."* (not yet ingested)
+  far from him."* — [[A Good Name]]
 - **Proverbs 23:13–14** — *"Don’t withhold correction from a child. If you punish him with the rod,
   he will not die. Punish him with the rod, and save his soul from Sheol."* (not yet ingested)
 - **Proverbs 29:15, 17** — *"The rod of correction gives wisdom, but a child left to himself causes
@@ -65,7 +67,7 @@ does not use it to settle modern questions about the physical punishment of chil
 made here about the Hebrew word rendered *rod*.
 
 Sources: all quotations copied from stored WEB Proverbs 3:11–12; 12:1; 13:1, 24; 19:18; 22:15;
-23:13–14; 29:15, 17; and Job 1:1; 2:3; 5:17. The cited verses in Proverbs 22–29 are stored but not yet ingested; Proverbs 19 is now ingested.
+23:13–14; 29:15, 17; and Job 1:1; 2:3; 5:17. Proverbs 22:15 is now ingested; the cited verses in Proverbs 23–29 are stored but not yet ingested; Proverbs 19 is now ingested.
 
 ### Proverbs 19 in context
 
@@ -90,6 +92,17 @@ permitted force or a modern disciplinary procedure.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Proverbs 22 in context
+
+Proverbs 22:15 is now ingested: *"Folly is bound up in the heart of a child: the rod of discipline
+drives it far from him."* It stands nine verses after *"Train up a child in the way he should go"*
+(22:6), so training and correction sit together in one pericope. Like 13:24, the verse names the
+rod and gives the child's freedom from folly as its purpose; it sets no method or measure. On 22:6
+read as a saying rather than a guarantee, see
+[[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]].
+
+See [[A Good Name]]. Source: stored WEB Proverbs 13:24; 22:6, 15; no new source-language claim.
 
 ## Significance
 

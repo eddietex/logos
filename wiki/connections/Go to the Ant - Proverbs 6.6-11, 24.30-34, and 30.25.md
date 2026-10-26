@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Good Name]] — Proverbs 22:13.
+
 - [[The King's Heart]] — Proverbs 21:25.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 26.
@@ -77,6 +79,15 @@ Proverbs 21:25 sharpens the sluggard's desire of 13:4: *"The desire of the slugg
 his hands refuse to labor."*
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### Proverbs 22 in context
+
+Proverbs 22:13 gives the sluggard's excuse: *"There is a lion outside! I will be killed in the
+streets!"* The danger is invented to avoid going out, and the saying is a joke at his expense.
+Proverbs 26:13 (stored, not yet ingested) repeats it: *"There is a lion in the road! A fierce lion
+roams the streets!"*
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22:13; 26:13; no new source-language claim.
 
 ## Significance
 

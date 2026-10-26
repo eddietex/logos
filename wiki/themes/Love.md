@@ -227,6 +227,16 @@ chapter's royal terror and punishment. No particular relationship or covenant is
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Training a child — Proverbs 22:6, 15
+
+*"Train up a child in the way he should go"* (22:6) and *"the rod of discipline drives"* folly
+*"far from him"* (22:15). The word *love* does not appear, but the pericope continues 13:24, where
+the father who loves his son is careful to discipline him. Verse 6 is a saying about the long reach
+of formation, not a guarantee; see
+[[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]].
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:6, 28; Love must be faithful; it also sustains the throne.
@@ -317,6 +327,7 @@ passage page.
 - [[Wisdom at the Creation]] — Proverbs 8:36; *"All those who hate me love death"*, the counterpart of 8:17
 - [[The Two Feasts]] — Proverbs 9:8; *"Reprove a wise man, and he will love you"*: the scoffer hates the reprover, the
   wise man loves him, as Yahweh's reproof is love (3:12)
+- [[A Good Name]] — Proverbs 22:6, 15; Training and the rod as household care.
 
 ## Related themes
 

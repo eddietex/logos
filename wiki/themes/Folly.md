@@ -218,6 +218,14 @@ swallows what the wise stored (20); the proud man's name is scoffer (24).
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Folly in the child — Proverbs 22:3, 15
+
+The simple walk into the danger the prudent sees (22:3), and *"Folly is bound up in the heart of a
+child"* (22:15). Folly is treated as a default condition of the young, to be driven out by
+discipline, not as an incurable nature.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
@@ -262,6 +270,7 @@ the passage page.
 - [[The Young Man Void of Understanding]] — Proverbs 7:7, 22–23; the simple young man *"void of understanding"*, who does
   not know
 - [[Wisdom Calls at the Gates]] — Proverbs 8:5; the simple and fools invited to prudence and *"an understanding heart"*
+- [[A Good Name]] — Proverbs 22:3, 15; The simple pass on; folly bound in a child's heart.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

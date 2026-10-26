@@ -303,6 +303,14 @@ false witness set against the man who listens and *"speaks to eternity"* (28).
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Speech that wins and speech that traps — Proverbs 22:11–12, 14
+
+Gracious speech makes the king's friend (22:11); Yahweh frustrates the words of the unfaithful
+(12); and *"The mouth of an adulteress is a deep pit"* (14). The same organ is the means of favor
+and the trap.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -559,6 +567,7 @@ the passage page.
   the smooth tongue
 - [[The Young Man Void of Understanding]] — Proverbs 7:14–21; the strange woman's speech, *leqaḥ* and flattering lips
 - [[Wisdom Calls at the Gates]] — Proverbs 8:6–9, 13; Wisdom's straight, plain, truthful words against the perverse mouth
+- [[A Good Name]] — Proverbs 22:11–12, 14; Gracious lips, frustrated words, and the adulteress's mouth.
 
 ## Related themes
 

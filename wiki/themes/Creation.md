@@ -157,6 +157,14 @@ disability a verdict on personal sin. See [[The Hearing Ear and the Seeing Eye -
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The maker of them all — Proverbs 22:2
+
+Proverbs 22:2 makes creation the common ground of rich and poor: *"Yahweh is the maker of them
+all."* As at 14:31 and Job 31:15, creation grounds a social claim — no one stands outside the
+Maker's ownership — without invoking the image of God.
+
+See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:12; Yahweh makes the capacities by which people hear and see.
@@ -300,6 +308,7 @@ passage page.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Finished work continues the creation comparison without an explicit cosmic allegory.
 - [[Wisdom at the Creation]] — Proverbs 8:22–31; depths, springs, mountains, heavens, the circle on the deep, and the sea's boundary, made with Wisdom present and delighting
+- [[A Good Name]] — Proverbs 22:2; Yahweh the maker of rich and poor.
 
 ## Related themes
 
