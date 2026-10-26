@@ -118,7 +118,18 @@ neither text authorizes treating the sufferer as secretly wicked.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### A crushed spirit — Proverbs 18:14
+
+*"A man's spirit will sustain him in sickness, but a crushed spirit, who can bear?"* (14). Proverbs
+asks the question and leaves it open; the book of Job is the long form of it. The chapter's promise that
+the righteous who run to the name *"are safe"* (10) stands, as on earlier pages, against Job, who
+blessed Yahweh's name (Job 1:21) and was not spared.
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:14.
 
 - [[Whoever Loves Correction]] — Proverbs 12:4, 18, 21, 25.
 

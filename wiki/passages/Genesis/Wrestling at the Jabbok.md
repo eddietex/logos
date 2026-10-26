@@ -396,6 +396,7 @@ which makes this verse a report of a practice rather than a law establishing one
   angel*.
 - Leviticus 3:9; 7:23; 9:19 — the fat of the tail and the entrails legislated at Sinai; the sciatic
   nerve is not among them.
+- [[A Strong Tower]] — Proverbs 18:16; *"A man's gift makes room for him"*, beside the present sent ahead to Esau (32:20).
 
 ## Notes
 

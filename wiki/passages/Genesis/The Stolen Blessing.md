@@ -752,6 +752,7 @@ alone, on a road north. See
   done anything.
 - Hebrews 11:20 — *"By faith, Isaac blessed Jacob and Esau, even concerning things to come."*
 - Hebrews 12:16–17 — the tears, and *"he found no place for a change of mind."*
+- [[A Strong Tower]] — Proverbs 18:19; the offended brother, harder than a fortified city (27:41).
 
 ## Notes
 

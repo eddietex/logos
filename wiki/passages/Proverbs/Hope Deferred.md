@@ -191,6 +191,7 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 - [[I Will Not Put Away My Integrity]] — Job 27:13–23; the wicked man's silver divided by the
   innocent.
 - [[A Way That Seems Right]] — Proverbs 14:27 repeats 13:14 with *"The fear of Yahweh"* in place of *"The teaching of the wise"*; 14:3's rod earned by the fool's mouth.
+- [[A Strong Tower]] — Proverbs 18:20; the fruit of the lips (13:2).
 
 ## Notes
 

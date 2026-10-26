@@ -164,3 +164,12 @@ toward you?"* (Job 15:11) — and Job answered, *"How long will you torment me, 
 16:5). **The friends judged their words by their content; Proverbs and Job both judge them by their
 effect on the hearer.** The comparison is of subject; whether Job 15:11 and Proverbs 15:1 share Hebrew
 vocabulary has not been checked here. Source: stored WEB Proverbs 15:1, 4, 23; Job 15:11; 16:2, 5; 19:2.
+
+### Answering before hearing — Proverbs 18:13, 17
+
+[[A Strong Tower]] states the rule the friends broke: *"He who gives answer before he hears, that is
+folly and shame to him"* (18:13), and *"He who pleads his cause first seems right; until another comes
+and questions him"* (18:17). Elihu claims to have kept it — *"I waited for your words"* (Job 32:11) — and
+his complaint is that the friends' searching produced no answer to Job. See
+[[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]]. Sources: stored WEB
+Proverbs 18:13, 17; Job 32:11.

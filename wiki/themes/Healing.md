@@ -128,7 +128,17 @@ See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Who can bear a crushed spirit — Proverbs 18:14
+
+*"A man's spirit will sustain him in sickness, but a crushed spirit, who can bear?"* The third use of
+*rûaḥ nəḵēʾâ* after 15:13 and 17:22 (Hebrew from Sefaria). The spirit holds up the sick body; the
+saying asks, without answering, what holds up the spirit.
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:14.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:22.
 

@@ -273,7 +273,16 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### Brother to the destroyer — Proverbs 18:9
+
+*"One who is slack in his work is brother to him who is a master of destruction"* (9). Neglect and
+destruction are put in one family: the slacker does slowly what the destroyer does at once.
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:9.
 
 - [[The Plans of the Heart]] — Proverbs 16:26.
 

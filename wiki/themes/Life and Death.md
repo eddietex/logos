@@ -330,7 +330,17 @@ The king's wrath is *"a messenger of death"* and the light of his face *"is life
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### In the power of the tongue — Proverbs 18:21
+
+*"Death and life are in the power of the tongue; those who love it will eat its fruit"* (21) —
+*bəyaḏ-lāšôn*, *in the hand of the tongue*. After the stomach filled with the mouth's fruit (20), speech
+is food, and it can kill.
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:21.
 
 - [[The Plans of the Heart]] — Proverbs 16:14–15, 22, 25.
 

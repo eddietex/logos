@@ -357,6 +357,7 @@ things"* (42:2), and it is a reply to this.
 - Revelation 12:9 — *"the great dragon … the old serpent, he who is called the devil and Satan"*: where
   the sea-dragon tradition ends up, and a reading Job 41 itself does not make.
 - [[I Repent in Dust and Ashes]] — Job 42:1–6: Job's second answer, *"I know that you can do all things"*.
+- [[A Strong Tower]] — Proverbs 18:23; the poor man's *taḥănûnîm*, the *"petitions"* Leviathan will not make (41:3).
 
 ## Notes
 

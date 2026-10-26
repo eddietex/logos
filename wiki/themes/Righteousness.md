@@ -212,7 +212,17 @@ To declare the wicked righteous (*maṣdîq rāšāʿ*) and the righteous wicked
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Running to the name — Proverbs 18:5, 10, 17
+
+The righteous run into the name of Yahweh *"and are safe"* (10); the innocent (*ṣaddîq*) must not be
+deprived of justice (5); and the first litigant is *ṣaddîq*, *seems right*, only until he is examined
+(17) — righteousness as a claim to be tested, not assumed.
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:5, 10, 17.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:15, 26.
 

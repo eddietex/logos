@@ -700,6 +700,7 @@ tent and a curse on his grandson.** The chapter closes on ten men relaxing for t
   his youth"*, **which is a birth-order list rendered as furniture**, and the text leaves the reader
   to supply the names
 - [[A Dry Morsel with Quietness]] — Proverbs 17:18; the warning against becoming collateral, beside Judah's pledge (43:9).
+- [[A Strong Tower]] — Proverbs 18:16; the gift that brings a man before great men, beside the present carried down (43:11).
 
 ## Notes
 

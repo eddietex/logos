@@ -124,7 +124,7 @@ Job 1:1 against Sefaria's *Miqra according to the Masorah*.
 [[A Gentle Answer]] closes on *"The fear of Yahweh teaches wisdom. Before honor is humility"* (15:33).
 Where 1:7 and 9:10 made the fear of Yahweh the *beginning* of knowledge and of wisdom, the WEB of 15:33
 makes it the teacher: not only the start of the course but its instructor. The second line recurs word
-for word in the WEB at 18:12, and 22:4 names *"humility and the fear of Yahweh"* together, so that in
+for word in the WEB at 18:12 ([[A Strong Tower]]), and 22:4 names *"humility and the fear of Yahweh"* together, so that in
 the sentence collection the motto acquires a partner virtue. The same chapter ranks a little *"with the
 fear of Yahweh"* above great treasure (15:16). This page makes no claim about the Hebrew verb of 15:33.
 Source: stored WEB Proverbs 1:7; 9:10; 15:16, 33; 18:12; 22:4.

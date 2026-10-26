@@ -130,6 +130,7 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 - 1 Corinthians 15:45–49 — "The first man, Adam, became a living soul", quoting 2:7, set against
   the last Adam.
 - 1 Timothy 2:13 — the creation order of 2:7 and 2:22 used in an argument about the church.
+- [[A Strong Tower]] — Proverbs 18:22, 24; *finds a good thing* against *"not good"* (2:18), and the friend who *clings* (2:24).
 
 ## Notes
 

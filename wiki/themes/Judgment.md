@@ -326,7 +326,20 @@ Five sayings on the corrupted court: the bribe that works for its giver (8); *"H
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Both sides heard — Proverbs 18:5, 17–18
+
+*"To be partial to the faces of the wicked is not good, nor to deprive the innocent of justice"* (5),
+in the idiom of Leviticus 19:15 (WEB at bible-api.com; Hebrew from Sefaria). *"He who pleads his cause
+first seems right; until another comes and questions him"* (17); and where the strong will not yield,
+*"The lot settles disputes"* (18). See
+[[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]] and
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:5, 17–18.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:8, 15, 23, 26.
 

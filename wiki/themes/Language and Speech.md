@@ -263,7 +263,20 @@ The hearer of lies (4), lying lips unfit for a prince (7), the repeated matter t
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Death and life in the tongue — Proverbs 18:2, 4, 6–8, 13, 17, 20–21
+
+The chapter's main subject. The fool wants only *"revealing his own opinion"* (2); a man's words are
+*"deep waters"* (4); the fool's mouth is his destruction (6–7); the gossip's words are *"dainty
+morsels"* that go down to the innermost parts (8, repeated at 26:22). *"He who gives answer before he
+hears"* earns shame (13), and the first speaker in a case *"seems right"* until questioned (17). The
+mouth's fruit fills the stomach (20), and *"Death and life are in the power of the tongue"* (21). See
+[[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:2, 4, 6–8, 13, 17, 20–21.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:4, 7, 9, 20, 27–28.
 

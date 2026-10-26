@@ -296,8 +296,8 @@ finder from loss; see [[Retribution]].
   the way to Sheol.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; the first half of the speech.
 - [[The Two Feasts]] — Proverbs 9:14, 18; Folly at the door of her house, and her guests in Sheol.
-- Proverbs 12:2; 18:22 — *"obtain favor from Yahweh"* (not yet ingested; checked in the stored
-  WEB).
+- [[Whoever Loves Correction]] and [[A Strong Tower]] — Proverbs 12:2; 18:22, *"obtain favor from
+  Yahweh"*.
 - Psalm 2:6 — *"I have set my King"* (*nāsaḵtî*) (not yet ingested).
 - Psalm 104:9; Jeremiah 5:22 — the sea's boundary (not yet ingested).
 - Isaiah 40:22 — *"the circle of the earth"* (not yet ingested).
@@ -314,6 +314,7 @@ finder from loss; see [[Retribution]].
 - [[In the Beginning - Genesis 1 and John 1]] — John's prologue and the beginning.
 - [[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]] — two doors, and two
   ends.
+- [[A Strong Tower]] — Proverbs 18:22; *"obtains favor of Yahweh"*, 8:35's second half given to the man who finds a wife.
 
 ## Notes
 

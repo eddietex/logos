@@ -180,7 +180,18 @@ A hundred lashes reach a fool less than a rebuke reaches the wise (10); better *
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Airing his own opinion — Proverbs 18:2, 6–7, 13
+
+*"A fool has no delight in understanding, but only in revealing his own opinion"* (2). His lips bring
+strife and his mouth invites beatings (6); his mouth is *"his destruction"* (7); and answering before
+hearing is *"folly and shame to him"* (13). See
+[[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:2, 6–7, 13.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:10, 12, 16, 21, 24–25, 28.
 

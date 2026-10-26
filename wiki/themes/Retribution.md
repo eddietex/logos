@@ -335,7 +335,20 @@ The general promises continue: the gloater *"shall not be unpunished"* (5), the 
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Safe in the tower — Proverbs 18:6–7, 10–12, 20–21
+
+The fool's mouth brings beatings and destruction on himself (6–7); the righteous are *"safe"* in the
+name (10); pride precedes destruction (12); and the tongue's lovers eat its fruit (20–21). The chapter
+also limits its own promises: the rich man's security exists only *"in his own imagination"* (11), and
+*"a crushed spirit, who can bear?"* (14) is left unanswered. **Tension stated, not resolved:** 18:10's
+safety stands against Job 1:21, where Job blesses Yahweh's name and is not kept from loss. See
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:6–7, 10–12, 20–21.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5, 11, 13, 20.
 

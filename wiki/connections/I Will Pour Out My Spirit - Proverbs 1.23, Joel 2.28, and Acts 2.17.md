@@ -30,7 +30,7 @@ WEB gives all three as *"I will pour out my spirit"*. The Hebrew and Greek, chec
 - **The verbs differ.** Joel's *šāpaḵ* is the ordinary verb for pouring a liquid out — and for
   shedding blood (Proverbs 1:16, *lišpok-dām*, two pericopes back on the same page of the book).
   Proverbs' *nāḇaʿ* is a spring's verb, the welling-up of water from below; Proverbs 18:4 uses it of
-  *"a flowing brook"* (*naḥal nōḇēaʿ*), *"the fountain of wisdom"*. Joel pictures the Spirit poured
+  *"a flowing brook"* (*naḥal nōḇēaʿ*), *"the fountain of wisdom"* ([[A Strong Tower]]). Joel pictures the Spirit poured
   down; Proverbs pictures it welling up.
 - **The recipients differ.** Joel's promise is unconditional and universal — *all flesh*, sons and
   daughters, old and young, and *"also on the servants and on the handmaids"* (2:29, WEB, checked

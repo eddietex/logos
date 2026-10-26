@@ -215,6 +215,16 @@ the collection's plainest admission that judgment can be bought. Around it stand
 covering an offense (9), the friend who *"loves at all times"* (17), set against Job's friends, and the
 fool counted wise when he is silent (28), Job 13:5 made general.
 
+[[A Strong Tower]] (18:1–24) centres on fortification: *"Yahweh's name is a strong tower: the
+righteous run to him, and are safe"* (10), the only *"Yahweh's name"* in the book, set against the
+rich man's *"strong city"*, high only *"in his own imagination"* (11, repeating 10:15), and the
+offended brother *"more difficult than a fortified city"* (19). Most of the chapter is about speech —
+the fool airing his opinion (2), the gossip's *"dainty morsels"* (8), answering before hearing (13),
+the first litigant who *"seems right"* until questioned (17), and *"Death and life are in the power
+of the tongue"* (21). The man who finds a wife *"obtains favor of Yahweh"* (22) in Wisdom's words from
+8:35, and the chapter ends on *"a friend who sticks closer than a brother"* (24). It repeats more
+earlier and later lines than any chapter so far.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -272,7 +282,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[A Gentle Answer]] — Proverbs 15:1–33
 - [x] [[The Plans of the Heart]] — Proverbs 16:1–33
 - [x] [[A Dry Morsel with Quietness]] — Proverbs 17:1–28
-- [ ] A Strong Tower — Proverbs 18:1–24
+- [x] [[A Strong Tower]] — Proverbs 18:1–24
 - [ ] Better Is the Poor Who Walks in Integrity — Proverbs 19:1–29
 - [ ] Wine Is a Mocker — Proverbs 20:1–30
 - [ ] The King's Heart — Proverbs 21:1–31
@@ -325,6 +335,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Hope]] — *"Hope deferred makes the heart sick"* (13:12)
 - [[Prayer]] — *"the prayer of the upright is his delight"* (15:8)
 - [[Providence]] — *"A man's heart plans his course, but Yahweh directs his steps"* (16:9)
+- [[The Names of God]] — *"Yahweh's name is a strong tower"* (18:10)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19); *"the commandment is a
   lamp"* (6:23)

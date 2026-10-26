@@ -148,7 +148,18 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### The poor plead — Proverbs 18:23
+
+*"The poor plead for mercy, but the rich answer harshly"* (23) records without approving. The
+*pleas* are *taḥănûnîm*, the noun of Job 41:3's Leviathan, who will not *"make many petitions"* (Hebrew
+from Sefaria); the rich man's *harshly* (*ʿazzôt*) belongs to the chapter's vocabulary of the strong
+city (11, 19).
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:23.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5.
 

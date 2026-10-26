@@ -320,6 +320,7 @@ is the only comment the book ever makes on whether the oath was true.
   wait at my neighbor's door"* (31:9).
 - [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]] — 31:15's servant made in the same womb, beside Proverbs 14:31's poor man and his Maker in [[A Way That Seems Right]].
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5; the one *"glad at calamity"*, beside 31:29.
+- [[A Strong Tower]] — Proverbs 18:11; the rich man's wealth as his strong city, against *"If I have made gold my hope"* (31:24).
 
 ## Notes
 

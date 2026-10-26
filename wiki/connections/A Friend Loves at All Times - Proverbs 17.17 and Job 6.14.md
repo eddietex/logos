@@ -12,8 +12,10 @@ tags: [connection]
 - **Proverbs 17:9** — *"He who covers an offense promotes love; but he who repeats a matter separates
   best friends."* — [[A Dry Morsel with Quietness]]
 - **Proverbs 16:28** — *"A whisperer separates close friends."* — [[The Plans of the Heart]]
-- **Proverbs 18:24** *(not yet ingested)* — *"A man of many companions may be ruined, but there is a
-  friend who sticks closer than a brother."*
+- **Proverbs 18:24** — *"A man of many companions may be ruined, but there is a friend who sticks
+  closer than a brother."* — [[A Strong Tower]]
+- **Proverbs 18:19** — *"A brother offended is more difficult than a fortified city; and disputes are
+  like the bars of a fortress."* — [[A Strong Tower]]
 - **Proverbs 19:7** *(not yet ingested)* — *"All the relatives of the poor shun him: how much more do
   his friends avoid him!"*
 - **Proverbs 27:6, 10** *(not yet ingested)* — *"Faithful are the wounds of a friend"*; and *"Don't go
@@ -46,8 +48,12 @@ has a lover *dābēq mēʾāḥ*, *clinging closer than a brother* — *dābēq*
 *dābqâ*) — and 27:10 tells the son not to go to his brother's house *bəyôm ʾêdekā*, *in the day of
 your disaster*, because a near neighbour is better. *ʾÊd*, *disaster*, is the calamity of 17:5, at
 which the gloater rejoices. The book holds both claims: the brother is born for adversity, and in
-adversity the brother may be the wrong door. (Hebrew of Proverbs 17:17; 18:24; 27:10; Genesis 2:24;
-Ruth 1:14 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.)
+adversity the brother may be the wrong door. Chapter 18 adds a third claim, five verses before its
+friend: *"A brother offended is more difficult than a fortified city"* (18:19). The chapter's brother
+can be the one who will not be reached, and its friend the one who clings; Genesis twice shows the
+offended brother reached anyway (Genesis 33:4; 50:17). See [[A Strong Tower]]. (Hebrew of Proverbs
+17:17; 18:19, 24; 27:10; Genesis 2:24; 50:17; Ruth 1:14 read from Sefaria's *Miqra according to the
+Masorah*, 2026-10-25.)
 
 **Job is the wiki's test of the saying, and the saying fails in his friends.** They came to comfort
 him (2:11). By chapter 6 he is asking for exactly what Proverbs 17:17 promises — *ḥesed*,
@@ -77,6 +83,6 @@ covering. Job shows what it costs when the friends' speech, not their absence, i
 [[Love]], [[Brotherhood]], [[Comforters Who Do Not Comfort]], and
 [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]].
 
-Sources: Proverbs 16:28; 17:9, 17; 18:24; 19:7; 27:6, 10; Job 2:11; 6:14–18; 16:20; 19:13, 19, 21;
-42:10–11; Genesis 2:24 copied from `raw/bible/` (WEB). 1 Samuel 18:1, 3 and Ruth 1:14 checked at
+Sources: Proverbs 16:28; 17:9, 17; 18:19, 24; 19:7; 27:6, 10; Job 2:11; 6:14–18; 16:20; 19:13, 19, 21;
+42:10–11; Genesis 2:24; 33:4; 50:17 copied from `raw/bible/` (WEB). 1 Samuel 18:1, 3 and Ruth 1:14 checked at
 bible-api.com (`translation=web`) on 2026-10-25; those books were not fetched into raw.

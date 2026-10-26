@@ -357,6 +357,7 @@ Israel — an etymology that is an interpretation. See [[Babel]].
 - Philippians 2:9 — *"the name which is above every name"*, given rather than made, to one who did not
   grasp.
 - Revelation 17–18 — Babylon the great, the city that is also an empire, falling in an hour.
+- [[A Strong Tower]] — Proverbs 18:10–11; the name as the strong tower, and the rich man's strong city high only in his imagination, against the tower built for a name (11:4).
 
 ## Notes
 

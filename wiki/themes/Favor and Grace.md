@@ -172,7 +172,16 @@ that passage page.
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Favor with the wife — Proverbs 18:22
+
+*"Whoever finds a wife finds a good thing, and obtains favor of Yahweh"* (22): *rāṣôn*, as at 8:35 and
+12:2, now attached to a wife. See [[Wisdom at the Creation]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:22.
 
 - [[Hope Deferred]] — Proverbs 13:15.
 

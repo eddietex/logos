@@ -550,6 +550,7 @@ Torah ends on is buried in the land.** See [[Burial and the Grave]] and
 - [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]] — Machir, counted there
   and named here
 - [[A Dry Morsel with Quietness]] — Proverbs 17:6; *"Children's children are the crown of old men"*, beside 50:23.
+- [[A Strong Tower]] — Proverbs 18:19; *nip̄šāʿ*, the brother sinned against, and the brothers' *pešaʿ* (50:17).
 
 ## Notes
 

@@ -162,7 +162,18 @@ See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### The high heart — Proverbs 18:11–12
+
+The rich man's wall is high *"in his own imagination"* (11), and the next verse says what such a
+heart does: *"Before destruction the heart of man is proud, but before honor is humility"* (12). The
+first half rewrites 16:18; the second repeats 15:33 word for word in Hebrew (Sefaria). See
+[[The Plans of the Heart]] and [[A Gentle Answer]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:11–12.
 
 - [[The Plans of the Heart]] — Proverbs 16:5, 18–19.
 

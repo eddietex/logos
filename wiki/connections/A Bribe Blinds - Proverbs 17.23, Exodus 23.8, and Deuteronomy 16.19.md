@@ -17,6 +17,10 @@ tags: [connection]
   integrity."* — [[A Dry Morsel with Quietness]]
 - **Proverbs 21:14** *(not yet ingested)* — *"A gift in secret pacifies anger; and a bribe in the
   cloak, strong wrath."*
+- **Proverbs 18:5** — *"To be partial to the faces of the wicked is not good, nor to deprive the
+  innocent of justice."* — [[A Strong Tower]]
+- **Proverbs 18:16** — *"A man's gift makes room for him, and brings him before great men."* —
+  [[A Strong Tower]]
 - **Exodus 23:6–8** — *"You shall not deny justice to your poor people in their lawsuits. Keep far
   from a false charge, and don't kill the innocent and righteous: for I will not justify the
   wicked. You shall take no bribe, for a bribe blinds those who have sight and perverts the words of
@@ -61,6 +65,15 @@ the bosom it comes out of at 17:23.
 innocent (7). Proverbs 17:26 extends the concern upward: *"nor to flog officials (nədîbîm) for their
 integrity."* Corrupted judgment wrongs whoever stands in its way, not only the weak.
 
+**Proverbs 18 continues the court.** *"To be partial to the faces of the wicked is not good, nor to
+deprive the innocent of justice"* (18:5): *śəʾēt pənê*, *lifting the face*, is the idiom of Leviticus
+19:15's *"You shall not be partial to the poor, nor show favoritism to the great"* (WEB at
+bible-api.com), and *ləhaṭṭôt*, *to deprive*, is 17:23's verb for perverting justice (Hebrew from
+Sefaria). The next chapter also has a gift that is not called a bribe: *"A man's gift makes room for
+him, and brings him before great men"* (18:16). The noun is *mattān*, not *šōḥad*, and the saying only
+observes. Read with 17:8 and 17:23, the collection leaves the reader to tell the present that opens a
+door from the bribe that buys a verdict. See [[A Strong Tower]].
+
 ## Significance
 
 The wisdom collection is sometimes read as describing a world that runs justly. This cluster is
@@ -73,8 +86,8 @@ Proverbs both assume, as he did, that the gate can be bought. See [[Judgment]],
 [[Righteousness]], [[Wealth and Possessions]], [[Law and Obedience]], and
 [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]].
 
-Sources: Proverbs 17:8, 15, 23, 26; 21:14; Exodus 23:6–8; Job 31:21 copied from `raw/bible/` (WEB).
-Deuteronomy 16:19; 25:1 and Isaiah 5:23 checked at bible-api.com (`translation=web`) on 2026-10-25;
-those books were not fetched into raw. Hebrew of Proverbs 17:8, 15, 23, 26; 21:14; Exodus 23:6–8;
+Sources: Proverbs 17:8, 15, 23, 26; 18:5, 16; 21:14; Exodus 23:6–8; Job 31:21 copied from `raw/bible/` (WEB).
+Deuteronomy 16:19; 25:1, Leviticus 19:15, and Isaiah 5:23 checked at bible-api.com (`translation=web`) on 2026-10-25;
+those books were not fetched into raw. Hebrew of Proverbs 17:8, 15, 23, 26; 18:5, 16; 21:14; Leviticus 19:15; Exodus 23:6–8;
 Deuteronomy 16:19; 25:1; Isaiah 5:23 read from Sefaria's *Miqra according to the Masorah*,
 2026-10-25.

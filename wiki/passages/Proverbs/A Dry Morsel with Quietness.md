@@ -292,6 +292,7 @@ and [[The Prosperity of the Wicked]].
 - [[Comforters Who Do Not Comfort]] — 17:17.
 - [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]] — 17:27–28.
 - [[The Prosperity of the Wicked]] — the bribe that prospers (17:8) and the punished righteous (26).
+- [[A Strong Tower]] — Proverbs 18:1, 5, 14, 24; the quarrel that *breaks out* (17:14), the perverted court (17:23), the crushed spirit (17:22), and the friend (17:17) continued.
 
 ## Notes
 

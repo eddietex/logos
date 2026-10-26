@@ -114,6 +114,11 @@ later addition; the wiki records that view and reads the book as received.
   the fourth speaker is neither rebuked nor commended, and offers no sacrifice. His anger of 32:2–5 (*wayyiḥar
   ʾap*) is matched by God's *ḥārâ ʾappî* (42:7) — but God's falls on the friends only. Whether the silence means
   the speeches were added later or that Elihu needed no verdict, the text does not say.
+- [[A Strong Tower]] — Proverbs 18:13, 17, **not named.** *"He who gives answer before he hears"* (18:13)
+  and the first litigant who *"seems right; until another comes and questions him"* (18:17) state the rule
+  Elihu claims to have kept: *"I waited for your words … while you searched out what to say"* (Job 32:11),
+  with 18:17's verb *ḥqr* (Hebrew from Sefaria). See
+  [[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]].
 
 ## Related people
 

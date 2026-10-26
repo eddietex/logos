@@ -113,7 +113,19 @@ particular city is named.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### The strong city — Proverbs 18:10–11, 19
+
+Three fortifications in one chapter: the name of Yahweh as *"a strong tower"* (10), the rich man's
+*"strong city"* and *"unscalable wall"* that exist *"in his own imagination"* (11), and the offended
+brother *"more difficult than a fortified city"* (19). Babel's city and tower (Genesis 11:4) are the
+background the wiki reads them against. See
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:10–11, 19.
 
 - [[A False Balance]] — Proverbs 11:10–11, 14.
 

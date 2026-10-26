@@ -105,7 +105,20 @@ A wise servant takes *"a part in the inheritance among the brothers"* (2), and *
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Three brothers — Proverbs 18:9, 19, 24
+
+The chapter names a brother three times: the slacker is *"brother to him who is a master of
+destruction"* (9); *"A brother offended is more difficult than a fortified city"* (19); and *"there is
+a friend who sticks closer than a brother"* (24). Kinship is neither guaranteed nor final. Genesis
+supplies the reconciliations the proverb calls hard: [[The Reconciliation with Esau]] and Joseph's
+forgiveness in [[The Deaths of Jacob and Joseph]]. See
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:9, 19, 24.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:2, 17.
 

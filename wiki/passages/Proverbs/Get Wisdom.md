@@ -122,6 +122,7 @@ not an identified location requiring a place page.
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 4; *"Keep my commandments and live!"*, 4:4's line, and wisdom
   called *"my sister"*.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:16, money in a fool's hand *"to buy wisdom"*, with 4:7's verb.
+- [[A Strong Tower]] — Proverbs 18:15; the discerning heart *gets* (*qnh*) knowledge.
 
 ## Notes
 

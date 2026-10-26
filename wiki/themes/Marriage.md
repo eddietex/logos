@@ -188,7 +188,19 @@ ingested.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Finding a wife — Proverbs 18:22
+
+*"Whoever finds a wife finds a good thing, and obtains favor of Yahweh"* (22). The second half is word
+for word Wisdom's promise at 8:35 (Hebrew from Sefaria), so the wife is given what Wisdom gave; *finds
+a good thing* (*māṣāʾ ṭôḇ*) answers Genesis 2:18's *"It is not good for the man to be alone"*. The
+saying is general and does not address the wives of the strange-woman lectures or the contentious wife
+of later chapters. See [[Wisdom at the Creation]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:22.
 
 - [[Whoever Loves Correction]] — Proverbs 12:4.
 

@@ -136,7 +136,20 @@ is a further disclosure of the named God's character and claim, not a first reve
 name's existence. The observations concern the WEB, without a new Hebrew etymology. See
 [[The Covenant Renewed]].
 
+### A strong tower — Proverbs 18:10
+
+*"Yahweh's name is a strong tower: the righteous run to him, and are safe"* (10). The only place in
+the WEB of Proverbs where *"Yahweh's name"* occurs, and the name is a refuge rather than a
+disclosure: *migdal-ʿōz*, the strong tower of Judges 9:51 and Psalm 61:3, in which the righteous are
+*niśgāḇ*, *set on high* (Hebrew from Sefaria). The next verse sets the rich man's imagined wall against
+it, and Babel's tower built to *"make a name for ourselves"* (Genesis 11:4) stands behind both. See
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:10.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; The known name proclaimed through character; Jealous names
   exclusive allegiance.

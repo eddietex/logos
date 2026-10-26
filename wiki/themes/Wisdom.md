@@ -402,7 +402,18 @@ Wisdom can lift a servant over a son (2) and is reached by a rebuke (10). It is 
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### The flowing brook — Proverbs 18:4, 15
+
+*"The fountain of wisdom is like a flowing brook"* (4), with the *nōḇēaʿ* of 1:23's poured-out spirit;
+*"The heart of the discerning gets knowledge. The ear of the wise seeks knowledge"* (15), the getting
+(*qnh*) of 4:5, 7. Wisdom in this chapter is mostly hearing (13, 15, 17). See
+[[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:4, 15.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:2, 10, 16, 24, 27–28.
 

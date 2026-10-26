@@ -76,7 +76,7 @@ spirit on you*. Two things should be said about it.
 1. **The verb is not Joel's.** Joel 2:28 (3:1 in the Hebrew) has *ʾešpôk ʾet-rûḥî*, from *šāpaḵ*,
    the verb of 1:16's *"to shed blood"*. Proverbs has *ʾabbîʿâ*, from *nāḇaʿ*, *to bubble up, gush
    forth* — a spring's verb, used elsewhere in Proverbs of speech: *"The words of a man's mouth are
-   like deep waters. The fountain of wisdom is like a flowing brook"* (18:4, a later pericope), where
+   like deep waters. The fountain of wisdom is like a flowing brook"* (18:4, [[A Strong Tower]]), where
    the *flowing* brook is *naḥal nōḇēaʿ*.
 2. ***Rûaḥ* here may mean *mind* rather than *Spirit*.** The parallel line is *"I will make known my
    words to you"*, and some modern translations are reported to render the first line with
@@ -283,6 +283,7 @@ consequence. See [[Wisdom Sends Prophets - Proverbs 1.20-33, Luke 11.49, and Mat
 - John 7:34 — *"You will seek me, and won't find me"* (WEB, checked against bible-api.com).
 - Galatians 6:7 — *"whatever a man sows, that he will also reap"* (WEB, checked against
   bible-api.com).
+- [[A Strong Tower]] — Proverbs 18:4; *"a flowing brook"*, the *nōḇēaʿ* of 1:23.
 
 ## Notes
 

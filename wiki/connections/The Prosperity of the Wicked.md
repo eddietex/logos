@@ -193,6 +193,15 @@ the undisciplined cannot be read backwards as a verdict on every poor man. See [
 [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]]. Sources: the cited Proverbs and Job
 verses checked in stored WEB.
 
+Proverbs 18 takes the security of the rich man apart rather than his prosperity. *"The rich man's
+wealth is his strong city"* repeats 10:15, but adds *"like an unscalable wall in his own
+imagination"* (18:11), set directly after the righteous running into the name of Yahweh *"and are
+safe"* (18:10). The same chapter records, without endorsing it, that *"the rich answer harshly"*
+(18:23). It does not say the rich man will fall; it says his wall is not where he thinks it is. See
+[[A Strong Tower]] and
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]]. Sources:
+stored WEB Proverbs 10:15; 18:10–11, 23.
+
 ## Significance
 
 This is the wisdom tradition's central unresolved argument with itself, and the book of Job is

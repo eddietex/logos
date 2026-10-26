@@ -364,7 +364,19 @@ A poor table in peace outranks a full one in strife (1). The bribe looks like *"
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### The strong city in the imagination — Proverbs 18:11, 16, 23
+
+*"The rich man's wealth is his strong city"* repeats 10:15, but now with *"like an unscalable wall
+in his own imagination"* (11), directly after the name of Yahweh as the strong tower (10). A gift
+*"makes room"* for its giver (16), a neutral observation a page after the bribe sayings of chapter 17;
+and *"the rich answer harshly"* (23). See
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:11, 16, 23.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:1, 8, 16, 23.
 

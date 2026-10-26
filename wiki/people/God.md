@@ -2140,6 +2140,15 @@ the wicked and the one who condemns the righteous are *"an abomination to Yahweh
 [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]]. Source: stored WEB Proverbs
 17:3, 5, 15; Exodus 23:7; Job 23:10.
 
+### The strong tower — Proverbs 18
+
+[[A Strong Tower]] names Yahweh twice. His name is *"a strong tower: the righteous run to him, and are
+safe"* (18:10) — the only place in the WEB of Proverbs where *"Yahweh's name"* occurs, and a name as
+refuge, set directly against the rich man's wall that is high only *"in his own imagination"* (11).
+And the man who finds a wife *"obtains favor of Yahweh"* (22), in the words Wisdom used at 8:35. See
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]]. Source:
+stored WEB Proverbs 8:35; 18:10–11, 22.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2413,6 +2422,7 @@ the wicked and the one who condemns the righteous are *"an abomination to Yahweh
 
 ## Appears in
 
+- [[A Strong Tower]] — Proverbs 18:10, 22; the name as strong tower, the giver of favour.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:3, 5, 15; testing hearts, Maker of the poor, abhorring perverted judgment.
 - [[The Plans of the Heart]] — Proverbs 16:1–7, 9, 11, 20, 33; answering the tongue, weighing motives, directing steps, deciding the lot.
 

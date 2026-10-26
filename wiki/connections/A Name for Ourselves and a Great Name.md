@@ -13,6 +13,8 @@ tags: [connection]
   the whole earth."* See [[The Tower of Babel]].
 - **Genesis 12:2** — *"I will make of you a great nation. I will bless you and make your name great.
   You will be a blessing."* — [[The Call of Abram]]
+- **Proverbs 18:10** — *"Yahweh's name is a strong tower: the righteous run to him, and are safe."* —
+  [[A Strong Tower]]
 - **2 Samuel 7:9** — *"I will make you a great name, like the name of the great ones who are in the
   earth"*, said to David.
 - **Isaiah 56:5** — to the eunuchs, *"an everlasting name that will not be cut off"*.
@@ -68,6 +70,13 @@ allusion to Babel; the connection is thematic, and it works because the Bible's 
 itself. His line is the one Genesis follows, and it is his genealogy that occupies the verses between
 Babel's name and Abram's. The book that ends the primeval history with a failed attempt to make a
 name resumes by tracing the line of a man who *is* one.
+
+**Proverbs 18:10 puts the name and the tower in one sentence.** Babel wanted *"a city, and a tower"*
+in order to *"make a name"*. Proverbs has *migdal-ʿōz šēm YHWH*, *a tower of strength is the name of
+Yahweh*, and the righteous do not build it; they run into it. The next verse gives the rich man a
+*"strong city"* that is high only *"in his own imagination"* (18:11). Proverbs does not cite Genesis,
+and the comparison is the wiki's. See
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]].
 
 ## Significance
 

@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Proverbs 16:33** — *"The lot is cast into the lap, but its every decision is from Yahweh."* —
   [[The Plans of the Heart]]
-- **Proverbs 18:18** — *"The lot settles disputes, and keeps strong ones apart."* *(stored WEB, not yet
-  ingested)*
+- **Proverbs 18:18** — *"The lot settles disputes, and keeps strong ones apart."* —
+  [[A Strong Tower]]
 - **Proverbs 1:14** — the gang's offer: *"You shall cast your lot among us. We'll all have one purse."* —
   [[Do Not Consent to Sinners]]
 - **Exodus 28:30** — the Urim and Thummim in *"the breastplate of judgment"* — [[The Priestly Garments]]

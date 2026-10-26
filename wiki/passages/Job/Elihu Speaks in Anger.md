@@ -349,6 +349,7 @@ opposite.
 - Psalm 56:13 — *"the light of the living"*.
 - Hebrews 12:11 — *"All chastening seems for the present to be not joyous but grievous"*.
 - Jeremiah 25:23 — *"Dedan, Tema, Buz"*.
+- [[A Strong Tower]] — Proverbs 18:13, 17; answering before hearing, and the *searching out* (*ḥqr*) of 32:11.
 
 ## Notes
 

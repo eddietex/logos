@@ -174,7 +174,8 @@ lot (*gôrāl*) was how Israel took decisions it would not take itself: Aaron ca
 goats on the Day of Atonement (Leviticus 16:8), Joshua divided the land by lot *"before Yahweh"*
 (Joshua 18:10), sailors found Jonah by it (Jonah 1:7), and the apostles chose Matthias by it after
 praying to the Lord *"who know the hearts of all men"* (Acts 1:24–26) — all WEB at bible-api.com,
-none yet ingested. Proverbs 18:18 will add its civic use: *"The lot settles disputes."* The
+none yet ingested. Proverbs 18:18 adds its civic use: *"The lot settles disputes"* (see
+[[A Strong Tower]]). The
 *decision* is *mišpāṭ*, the same word as the *"breastplate of judgment"* (*ḥōšen hammišpāṭ*) in which
 the Urim and Thummim were kept (Exodus 28:30; Hebrew from Sefaria), so the closing verse joins the
 king's *mišpāṭ* (10), the scales' *mišpāṭ* (11), and the priestly lot's under one rule. See
@@ -304,6 +305,7 @@ on which Job could not read his own case from the outside. See [[Retribution]] a
 - [[The Priestly Garments]] — Exodus 28:30, the breastplate of judgment.
 - [[The Prosperity of the Wicked]] — the general promises of 16:7, 20, 31 against Job.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:3, 6, 9; Yahweh tests the hearts after weighing them (16:2), the crown of glory (16:31) divided, and the whisperer's separating verb (16:28) again.
+- [[A Strong Tower]] — Proverbs 18:8, 12, 18; the whisperer (16:28), pride before destruction (16:18), and the lot (16:33) taken up again.
 
 ## Notes
 

@@ -189,7 +189,19 @@ A dry morsel with quiet is better than a house of *"feasting with strife"* (1) �
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### The bars of a fortress — Proverbs 18:1, 6, 17–19
+
+The man who separates himself *yitgallāʿ*, *breaks out* against sound judgment (1), the verb of 17:14's
+quarrel (Hebrew from Sefaria); the fool's lips *"come into strife"* (6); the lot ends disputes between
+the strong (18); and *"A brother offended is more difficult than a fortified city; and disputes are
+like the bars of a fortress"* (19). Genesis twice shows the offended brother reconciled anyway — Esau
+running to meet Jacob (33:4), Joseph weeping over his brothers' *pešaʿ* (50:17).
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:1, 6, 17–19.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:1, 9, 14, 19.
 

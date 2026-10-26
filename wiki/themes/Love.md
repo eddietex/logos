@@ -199,7 +199,17 @@ Covering an offense *"promotes love"* — *seeks* it, *məbaqqēš ʾahăbâ* (9
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### The friend who clings — Proverbs 18:21, 24
+
+The tongue's lovers *"will eat its fruit"* (21); and against *"many companions"* stands one who loves
+(*ʾōhēḇ*) and *"sticks closer than a brother"* (24) — *dāḇēq*, the clinging of Genesis 2:24 (Hebrew from
+Sefaria). See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:21, 24.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:9, 17.
 

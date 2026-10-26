@@ -16514,3 +16514,68 @@ Proverbs 1:7; 4:7; 6:1; 7:14; 10:5, 12; 14:31; 16:28, 31; 17:1–28; 18:24; 21:1
 2:24; 43:9; 44:4; Exodus 23:6–8; Deuteronomy 16:19; 25:1; Ruth 1:14; 2 Samuel 17:8; Isaiah 5:23;
 Jeremiah 17:10; Hosea 13:8; Job 6:14; 13:5; 23:10. The passage page's Notes list exactly which claims
 rest on it. `scripts/link-check.sh` ran at the end of the pass and exited 0.
+
+## [2026-10-25] ingest | Proverbs 18.1-24 — A Strong Tower
+
+Ingested [[A Strong Tower]]. The planned Proverbs 18:1–24 boundary is kept, and only this one queue
+item moves forward. Because the run was unattended, the passage page carries the discussion: the man
+who separates himself (1) and the fool airing his opinion (2); deep waters and the flowing brook (4);
+partiality in court (5), in Leviticus 19:15's idiom; the gossip's morsels (8, repeated at 26:22); the
+name of Yahweh as a strong tower (10) set against the rich man's imagined wall (11, repeating 10:15);
+pride and humility (12, joining 16:18 and 15:33); answering before hearing (13) and the first litigant
+(17), beside Elihu's waiting (Job 32:4, 11); the crushed spirit (14); the gift (16) a page after the
+bribe; the lot (18); the offended brother harder than a fortified city (19), beside Genesis 33:4 and
+50:17; death and life in the tongue (21); the wife who brings Wisdom's favour (22, = 8:35b); the poor
+man's pleas (23); and the friend closer than a brother (24).
+
+**Interpretive decisions.** 18:4 is left open between contrastive and synonymous readings. 18:16 is
+read as neutral observation, distinct from 17:8's bribe (*mattān*, not *šōḥad*). 18:24a is given two
+readings without a choice. 18:19 is read with the WEB, and its Hebrew difficulty noted without
+consulting the ancient versions. The Babel comparison at 18:10 is marked as the wiki's thematic
+comparison, not a claim of literary dependence. 18:10's safety is set explicitly against Job 1:21 in
+[[Retribution]], [[Suffering]], and the new tower connection. No new people or places; generic figures
+get no pages. [[Elihu the Buzite]] gets an *Appears in* line as *not named*, for the 18:13, 17 thread.
+
+**Created (3):** [[A Strong Tower]];
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]];
+[[He Who Answers Before He Hears - Proverbs 18.13, 17 and Elihu's Waiting]].
+
+**Revised content pages (52):** [[Proverbs]]; [[God]]; [[Solomon]]; [[Elihu the Buzite]]; 21 themes —
+[[The Names of God]], [[Wealth and Possessions]], [[The Poor and the Vulnerable]],
+[[Pride and Self-Exaltation]], [[Language and Speech]], [[Folly]], [[Wisdom]], [[Judgment]],
+[[Righteousness]], [[Strife and Peacemaking]], [[Brotherhood]], [[Love]], [[Work]], [[Healing]],
+[[Suffering]], [[Providence]], [[Life and Death]], [[Marriage]], [[Favor and Grace]], [[Retribution]],
+and [[City and Civilization]]; eight existing connections —
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]],
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]],
+[[A Name for Ourselves and a Great Name]],
+[[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]],
+[[The Prosperity of the Wicked]], [[Comforters Who Do Not Comfort]],
+[[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]], and
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]]; and nineteen earlier passage
+pages that got reciprocal links: [[A Dry Morsel with Quietness]], [[The Plans of the Heart]],
+[[A Gentle Answer]], [[A Wise Son Makes a Glad Father]], [[Whoever Loves Correction]],
+[[Hope Deferred]], [[Wisdom at the Creation]], [[Get Wisdom]], [[Wisdom Calls in the Street]],
+[[The Tower of Babel]], [[The Garden of Eden]], [[Wrestling at the Jabbok]], [[The Second Journey]],
+[[The Stolen Blessing]], [[The Reconciliation with Esau]], [[The Deaths of Jacob and Joseph]],
+[[Elihu Speaks in Anger]], [[Behemoth and Leviathan]], and [[Job's Oath of Innocence]].
+
+**Corrections.** *Not yet ingested* / *later pericope* marks for Proverbs 18 were replaced by links in
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]],
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]], [[Wisdom Calls in the Street]],
+[[The Plans of the Heart]], and [[Wisdom at the Creation]]; the last also marked the already-ingested
+Proverbs 12:2 *not yet ingested*, now linked to [[Whoever Loves Correction]].
+
+**Indexes and totals.** Revised the books index (26 / 43 pericopes), the wiki dashboard, the themes
+index, People Index A-E, F-M and N-Z, and the Connections subindex rows for every updated connection,
+plus new rows in D-H and I-N. Counts by frontmatter: 170 passages, 179 people, 90 places, 83 themes,
+440 connections. Four books are started and three are complete.
+
+**Sources and validation.** All Proverbs, Genesis, and Job quotations are copied from stored WEB.
+These verses were quoted after checking the WEB at bible-api.com, without fetching their books:
+Leviticus 19:15; Judges 9:51; Psalm 18:2; 20:1; 61:3. Hebrew claims rest on Sefaria's *Miqra according
+to the Masorah*, read 2026-10-25, for Proverbs 8:35; 10:11, 14–15; 12:14; 13:2; 15:13, 33; 16:18, 28;
+17:14, 22; 18:1–24; 20:3, 5; 26:22; 30:9; Genesis 2:18, 24; 11:4; 27:41; 32:20; 50:17; Leviticus 19:15;
+Judges 9:51; Psalm 18:2; 20:1; 61:3; Job 32:11; 41:3 (Hebrew verse numbers given on the pages). Root
+identifications (*ʿzz*, *śgb*, *pšʿ*, *ḥqr*, *glʿ*) are flagged on the pages as unchecked against a
+lexicon. `scripts/link-check.sh` ran at the end of the pass and exited 0.

@@ -175,7 +175,17 @@ The chapter is framed by the division between plan and outcome: the heart's arra
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### The lot and the strong — Proverbs 18:18
+
+*"The lot settles disputes, and keeps strong ones apart"* (18): the civic use of the lot whose every
+decision, at 16:33, is *"from Yahweh"*. See
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]].
+
+See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
+
 ## Key passages
+
+- [[A Strong Tower]] — Proverbs 18:18.
 
 - [[The Plans of the Heart]] — Proverbs 16:1, 3–4, 9, 33.
 
