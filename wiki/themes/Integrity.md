@@ -157,7 +157,19 @@ Job.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 3, 5–6, 13, 20
+
+The trustworthy person keeps a confidence, and uprightness guides conduct. Accurate weights make
+integrity concrete in trade, while blameless ways delight Yahweh (20). Job 31:5–6 uses an even
+balance for the appraisal of his integrity; the same English image connects moral judgment to fair
+measurement without requiring a lexical claim.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 3, 5–6, 13, 20.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:9, 29; Blameless walking brings security, while a
   twisted course is exposed (9); Yahweh’s way is a stronghold to the upright (29).

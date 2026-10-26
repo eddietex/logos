@@ -103,7 +103,19 @@ rather than achieved.
   the city's business and judgment were done. The gang of 1:11 *lurks*; Wisdom shouts where the
   crowds are.
 
+### A False Balance — Proverbs 11:10–11, 14
+
+The city rejoices when the righteous prosper and is elevated by their blessing, but wicked speech
+overturns it. A multitude of counselors guards the nation against collapse. These sayings give civic
+life a positive possibility alongside the earlier narratives of violent or presumptuous cities; no
+particular city is named.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:10–11, 14.
 
 - [[The Line of Cain and the Birth of Seth]] — the first city and the three founders of human craft
 - [[Noah's Sons and the Curse of Canaan]] — the first vineyard, and the register of crafts resumed

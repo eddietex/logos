@@ -354,7 +354,18 @@ righteous lips (21).
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:2, 9, 12–14, 22, 29–30
+
+Humility accompanies wisdom; knowledge protects the neighbor, discretion checks contempt and gossip,
+and many counselors strengthen public judgment. Verse 30 makes wisdom life-giving to others, not
+merely advantageous to its possessor.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:2, 9, 12–14, 22, 29–30.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, 5, 8, 13–14, 19–23, 31; Wisdom becomes
   observable in timely work, accepting commands, storing knowledge, and speaking with restraint.

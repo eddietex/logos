@@ -227,7 +227,18 @@ itself prove that a life lacked divine blessing.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:11, 25–26
+
+The upright person’s blessing benefits the city, and blessing rests on the seller who makes grain
+available. Verse 26 places blessing opposite the people’s curse of the withholder; it need not be
+read as a newly narrated divine speech.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:11, 25–26.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:6–7, 22; Blessings rest on the righteous, their
   memory is blessed, and Yahweh’s blessing brings wealth without added trouble in the WEB (22).

@@ -162,7 +162,19 @@ people; these outcomes remain an explicit tension with the chapter’s unqualifi
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:3–11, 18–21, 23, 28–31
+
+Righteousness guides, delivers, benefits the city, and bears life-giving fruit. These promised
+outcomes conflict with Job’s undeserved ruin (Job 2:3) if read as an exceptionless rule; Job 21:7–13
+also describes thriving wicked families. The ethical commendation remains, while a diagnosis from
+circumstances is explicitly refused.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:3–11, 18–21, 23, 28–31.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:2–3, 6–7, 11, 16, 20–21, 24–32; Righteousness is
   associated with life, beneficial speech, granted desire, joy, and lasting security.

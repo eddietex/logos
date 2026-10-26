@@ -242,6 +242,10 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:1, 24–28; the even balance, giving rather than withholding, and
+  refusing to trust riches. See [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]] and
+  [[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]].
+
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:8–10 warns the son from the door and the loss
   to others that 31:8–12 invokes on himself; see [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]].
 - [[Keep Your Heart]] — Proverbs 4:21–27 commands the keeping of heart, eyes, and feet that 31:1, 7, 9

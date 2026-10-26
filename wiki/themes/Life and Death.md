@@ -286,7 +286,19 @@ remain in tension with Job’s losses.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:4, 7–8, 19, 30
+
+Righteousness is aligned with deliverance and life, evil with death. Verse 30 calls the fruit of the
+righteous a tree of life, extending the image from wisdom in Proverbs 3:18 to the good produced by
+righteous living. This is life-giving imagery, not a promise of bodily immortality or a narrated
+reopening of Eden.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:4, 7–8, 19, 30.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:2, 11, 16–17, 21, 27; Righteousness delivers from
   death; the righteous mouth is a spring of life and feeds many; accepting correction marks the way of

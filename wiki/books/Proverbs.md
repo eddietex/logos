@@ -156,6 +156,13 @@ love covers wrongs while deceitful hatred is condemned (10:12, 18). The promises
 life remain in explicit tension with Job's disaster and his observation of prosperous wicked people
 (Job 1:13–22; 3:25; 21:7–13).
 
+[[A False Balance]] (11:1–31) brings righteousness into honest measurement, trustworthy speech,
+civic counsel, and the release of goods. It praises generosity without condemning commerce: selling
+grain earns blessing where withholding it earns a curse. Righteous fruit becomes a tree of life
+(30), while repayment on earth closes the unit (31). The promises of deliverance, especially for
+righteous offspring (21), remain explicitly in tension with Job’s lost children and the secure
+children of the wicked (Job 1:18–22; 21:7–13).
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -206,7 +213,7 @@ first collection at its heading), each titled from a representative saying.
 ### The proverbs of Solomon (10:1–22:16)
 
 - [x] [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32
-- [ ] A False Balance — Proverbs 11:1–31
+- [x] [[A False Balance]] — Proverbs 11:1–31
 - [ ] Whoever Loves Correction — Proverbs 12:1–28
 - [ ] Hope Deferred — Proverbs 13:1–25
 - [ ] A Way That Seems Right — Proverbs 14:1–35

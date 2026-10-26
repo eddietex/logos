@@ -131,7 +131,19 @@ learn.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:12, 22, 29
+
+Despising a neighbor shows lack of understanding. The gold ring in a pig’s snout exposes the
+incongruity of beauty without discretion, and the household troubler inherits wind. The fool
+becoming servant to the wise is a proverbial reversal, not an explanation of every enslaved person’s
+circumstances.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:12, 22, 29.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, 8, 10, 13–14, 18, 21, 23; The foolish son
   grieves his mother; chatter, slander, refusal of understanding, and pleasure in evil give folly a

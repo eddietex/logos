@@ -109,7 +109,18 @@ about sudden fear assumes danger can be encountered. Job's account of terrifying
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### A False Balance — Proverbs 11:28
+
+The person who trusts in riches falls, while the righteous flourish as a green leaf. The contrast
+challenges wealth as a final source of security; it does not condemn possessing goods or describe a
+particular act of belief.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:28.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Yahweh grounds confidence when sudden fear threatens.
 

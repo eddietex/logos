@@ -105,7 +105,18 @@ it.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:24–26
+
+Excessive withholding brings poverty, while generosity and the release of grain sustain others.
+Verse 26 blesses selling grain, not only donating it, and does not explicitly name a famine. The
+observation concerns access to necessities; it does not justify calling every poor person a hoarder.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:24–26.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4, 15; Verse 4 warns that laziness brings
   poverty; verse 15 recognizes poverty itself as destructive without assigning blame.

@@ -145,7 +145,19 @@ obtain favor from Yahweh"*: *wayyāp̄eq rāṣôn mêYHWH*, word for word the s
 the one who finds a wife *"obtains favor of Yahweh"*; 12:2 gives the same favour to *"A good man"*.
 *Rāṣôn* is acceptance or goodwill. See [[Wisdom at the Creation]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A False Balance — Proverbs 11:16, 27
+
+The gracious woman obtains honor, and diligent pursuit of good seeks favor. Verse 16 contrasts honor
+with the riches acquired by violent men, rather than treating wealth as the only form of success.
+These are the WEB’s descriptions of social and moral favor; no identity of Hebrew terms with other
+passages is assumed.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:16, 27.
 
 - [[Get Wisdom]] — Proverbs 4:1–9; Wisdom’s garland describes gracious adornment and honor.
 

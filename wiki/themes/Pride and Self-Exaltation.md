@@ -127,7 +127,17 @@ arrogance*, are two nouns from one root, *gāʾâ*, *to rise*. They head Wisdom'
 eyes"* headed the seven things Yahweh hates (6:17), and both lists are joined to the fear of Yahweh.
 See [[Wisdom Calls at the Gates]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A False Balance — Proverbs 11:2
+
+Pride brings shame, whereas humility accompanies wisdom. This pairs a social outcome with a
+disposition toward learning; it does not say that every humiliated person must have been proud.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:2.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17; haughty eyes, first of the seven abominations
 

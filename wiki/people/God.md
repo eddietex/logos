@@ -2074,6 +2074,14 @@ and prosperous wicked people beside these categorical promises. See
 [[A Wise Son Makes a Glad Father]] and [[The Prosperity of the Wicked]]. Source: stored WEB
 Proverbs 10 and Job 1, 21.
 
+### Accurate weights and blameless ways — Proverbs 11
+
+[[A False Balance]] names Yahweh in 11:1 and 11:20, pairing his rejection of false weights and
+perverse hearts with delight in accurate weights and blameless ways. No divine speech or narrated
+action occurs. The chapter’s promises of righteous deliverance must remain beside his declaration of
+Job’s undeserved ruin in Job 2:3, rather than being used to overturn it. Source: stored WEB Proverbs
+11; Job 2:3.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2346,6 +2354,8 @@ Proverbs 10 and Job 1, 21.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[A False Balance]] — Proverbs 11:1, 20; honest exchange and blameless conduct delight Yahweh.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 22, 27, 29; provision, blessing, length of
   days, and opposite outcomes in his way.

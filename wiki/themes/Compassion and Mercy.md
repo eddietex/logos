@@ -141,7 +141,18 @@ return of the pledged garment before night and Job 31:16–23's denial of withhe
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### A False Balance — Proverbs 11:17, 24–26
+
+Mercy benefits the giver, while cruelty harms the cruel person. Generosity and refreshment return
+good to the one who gives; withholding grain is cursed, whereas making it available for sale is
+blessed. The chapter commends practical access to resources as well as outright giving.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:17, 24–26.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; Timely help is required when the good owed is within reach.
 

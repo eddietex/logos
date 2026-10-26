@@ -151,7 +151,18 @@ into the claim that a ruined household must have been wicked.
 See [[Do Not Withhold Good]]. Source: stored WEB Proverbs 3; comparisons as cited above.
 The discussion added here makes no claim about exact source-language forms.
 
+### A False Balance — Proverbs 11:26
+
+People curse the person withholding grain, in contrast to the blessing on its seller. This is an
+explicit human response to economic conduct, not a curse pronounced by God in a narrated judgment
+scene.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:26.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The wicked house is under Yahweh’s curse, without making disaster proof of guilt.
 

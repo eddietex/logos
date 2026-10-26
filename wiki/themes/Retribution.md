@@ -282,7 +282,21 @@ stated in their wording.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:4–8, 18–21, 23, 27–28, 31
+
+Deliverance for the righteous, punishment for evil, and repayment in the earth make the chapter’s
+moral accounting explicit. The contradiction in outcomes must remain visible: Proverbs 11:21
+promises deliverance to righteous offspring, but Job 1:18–22 records the death of the upright man’s
+children; Job 21:7–13 depicts secure wicked offspring. Job 2:3 rules out explaining his ruin by
+hidden guilt. General instruction is the wiki’s reading of these proverbs, not an exception clause
+written into the verses.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:4–8, 18–21, 23, 27–28, 31.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:2–3, 22, 24–30; The promises are categorical:
   provision for the righteous, realized fear for the wicked, life prolonged by fear of Yahweh, and

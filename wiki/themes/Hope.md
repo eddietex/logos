@@ -88,7 +88,18 @@ interchangeable evidence.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:7, 23, 28
+
+The wicked person’s death ends hope and the expectation of power; righteous desire and wicked
+expectation lead in opposite directions. Trust in riches ends in a fall. The sayings describe the
+failure of a particular hope, without supplying a developed account of the afterlife.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:7, 23, 28.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:24, 28; The righteous anticipate joy and receive
   their desire, whereas the wicked meet feared disaster and lose their hope.

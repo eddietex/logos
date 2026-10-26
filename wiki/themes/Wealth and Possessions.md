@@ -313,7 +313,20 @@ limits on inferring moral failure from poverty.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 4, 15–18, 24–29
+
+Fair weights, costly guarantees, violent gain, generosity, and withheld grain place wealth inside
+relationships. Verse 16 acknowledges that violent men obtain riches; verses 4 and 28 deny that
+wealth can secure a person against judgment. Scattering can increase resources, while excessive
+withholding impoverishes. This is no unconditional investment promise: the neighbor’s access to
+goods matters, and Job’s losses remain a counterexample to guaranteed material security.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 4, 15–18, 24–29.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:2–5, 15–16, 20, 22; Wealth shelters its owner and
   poverty leaves people exposed (15), but wicked treasure cannot deliver from death (2).

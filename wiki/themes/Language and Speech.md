@@ -214,7 +214,18 @@ with lying.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:9, 11–14
+
+A mouth can destroy a neighbor and overthrow a city. Understanding sometimes speaks through counsel
+and sometimes keeps silence; trustworthiness protects a confidence rather than circulating gossip.
+Restraint is thus directed toward the neighbor’s good, not treated as an absolute ban on speech.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:9, 11–14.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:6, 8, 10–14, 18–21, 31–32; The mouth can be a
   spring of life, feed many, and produce wisdom; it can also hide hatred, slander, and bring ruin.

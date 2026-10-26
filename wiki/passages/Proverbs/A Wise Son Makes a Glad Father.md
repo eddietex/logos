@@ -144,6 +144,9 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:1–31 continues the collection with honest trade, civic speech,
+  generosity, and repayment.
+
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; the first heading and the purposes now expressed
   as short sayings.
 - [[The Two Feasts]] — Proverbs 9:1–18; the closing invitation before the new collection.

@@ -215,7 +215,18 @@ hatred. These sayings attend to both harmful action and the appetite or intentio
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 3, 6, 9, 20–21, 27, 31
+
+The chapter locates wrongdoing in fraud, treachery, harmful speech, perverse intention, and the
+pursuit of evil. Wickedness repeatedly becomes the agent of its own downfall. That claim is ethical
+instruction, not evidence that every sufferer has committed a corresponding offense.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 3, 6, 9, 20–21, 27, 31.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12, 16, 18–19, 23; Sin appears in the use of
   gain, lying and slander, excessive speech, and the fool’s pleasure in wrongdoing.

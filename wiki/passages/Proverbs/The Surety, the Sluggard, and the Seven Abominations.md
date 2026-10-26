@@ -205,6 +205,9 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:15 condenses the surety warning; 11:1, 20 also name what Yahweh
+  rejects and delights in.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 10, 12, 26 revisits harvest work, the wink,
   strife, and the cost of relying on a sluggard.
 

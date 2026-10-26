@@ -337,7 +337,19 @@ quoted or identified here; the sayings describe a disposition toward instruction
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 20
+
+The condemnation of a false balance agrees with the laws requiring just measures in Leviticus
+19:35–36 and Deuteronomy 25:13–16. The proverb expresses divine evaluation without reciting the
+legal cases; no direct borrowing is asserted. See
+[[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]].
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 20.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:8, 17; The wise in heart accept commandments and
   heed correction.

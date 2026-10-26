@@ -245,6 +245,10 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:8, 21 promises deliverance; Job 2:3 explicitly preserves the
+  contrary case of ruin without cause. See
+  [[Repaid in the Earth - Proverbs 11.31 and 1 Peter 4.18]].
+
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22, of which this passage is a
   deliberate near-copy; the six verses it reproduces and the four things it changes.
 - [[Job of Uz]] — the *bārak* euphemism at 1:5, which 2:5 and 2:9 use twice more, and the inventory

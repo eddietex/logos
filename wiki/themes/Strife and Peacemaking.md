@@ -141,7 +141,18 @@ an appearance of friendliness. See
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:9, 12–14, 29
+
+Contempt, destructive speech, and betrayed confidences threaten neighbors and households. Holding
+one’s peace and seeking wise counsel sustain relationships. The household troubler’s empty
+inheritance gives such conflict a cost to the instigator.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:9, 12–14, 29.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:10, 12, 18; The wink causes sorrow, hatred
   provokes strife, and love covers wrongs.

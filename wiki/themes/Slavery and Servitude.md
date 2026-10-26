@@ -157,7 +157,18 @@ shall serve Yahweh your God"* (23:25), and *"if you serve their gods"* (23:33; a
 of the land, the danger is not a return to Egypt's service but a new master. Service to Yahweh is
 paired with blessing; service to the peoples' gods with a snare. See [[The Angel Sent Ahead]].
 
+### A False Balance — Proverbs 11:29
+
+The foolish person becoming servant to the wise closes a warning about ruining one’s household. It
+describes a reversal of status in proverbial form, without specifying a legal process or debt
+contract. It cannot be reversed into a claim that all servants are foolish.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:29.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19; the servant’s son refreshed.
 

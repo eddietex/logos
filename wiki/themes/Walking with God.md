@@ -163,7 +163,18 @@ way before upright people and evildoers with opposite results; no literal journe
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:3, 5–6, 20
+
+Integrity guides and righteousness directs the blameless person’s way; wickedness causes its own
+fall. These are images of ethical direction, with Yahweh delighting in blameless ways (20), rather
+than a literal journey or a new instance of the formula about walking with God.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:3, 5–6, 20.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:9, 17, 29; Blameless walking, the way of life,
   and the way of Yahweh describe ethical direction.

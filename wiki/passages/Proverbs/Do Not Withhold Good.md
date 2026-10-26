@@ -124,6 +124,10 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:24–26 develops the cost of withholding and the benefit of giving
+  and making grain available; see
+  [[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]].
+
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:14, 16; the worthless man who
   *"devises evil continually"*, which 3:29 forbade, and the second *tôʿăḇâ* list after 3:32.
 - [[Keep Your Heart]] — Proverbs 4:21 repeats 3:21's *"let them not depart from your eyes"*.

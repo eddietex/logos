@@ -59,6 +59,10 @@ the wise son of its opening saying is Solomon himself, or that the father and mo
 identifiable royal parents. The sayings turn to general household, work, and speech ethics. Source:
 stored WEB Proverbs 10:1–32.
 
+[[A False Balance]] (Proverbs 11:1–31) continues the collection attributed to Solomon in 10:1. He is
+not named in this chapter, and its counselors, traders, women, and households are not identified as
+people in his biography. Source: stored WEB Proverbs 10:1; 11:1–31.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -68,6 +72,9 @@ stored WEB Proverbs 10:1–32.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[A False Balance]] — Proverbs 11:1–31; collection attribution only, from 10:1; not named in the
+  unit.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32; named in the collection heading (1).
 

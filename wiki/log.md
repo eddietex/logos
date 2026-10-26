@@ -16112,3 +16112,62 @@ unreached books in raw. No new assertion depends on unverified Hebrew or Greek w
 `scripts/link-check.sh` passed: no wrapped links or unexpected dangling targets; 62 unstarted
 book pages are the expected baseline. Key-verse excerpts match the stored text; page counts,
 category-row membership, alphabetical subindex filing, and the single queue advance were checked.
+
+## [2026-10-25] ingest | Proverbs 11.1-31 — A False Balance
+
+Unattended `/ingest auto`, executed by Codex. Honest weights and integrity, restrained and
+trustworthy speech, public counsel, prudent guarantees, generosity and the release of grain, and
+righteous fruit as a tree of life. The chapter closes with repayment in the earth. Its promises of
+righteous deliverance and secure offspring are explicitly set beside Job’s undeserved ruin, dead
+children, and observation of prosperous wicked families.
+
+**Judgment calls.** Retained the planned Proverbs 11:1–31 boundary; the sentence clusters are
+reading aids, not newly asserted pericope divisions. No new person or place pages: the women,
+neighbors, traders, and counselors are unnamed types; city, nation, and household are generic.
+Solomon is recorded only as the collection’s attributed author, not as a named participant. Selling
+grain is praised without importing an unstated famine or price manipulation. The WEB’s wins-souls
+clause is discussed as life-giving influence, without asserting a source-language resolution or
+turning a later evangelistic application into the proverb’s original setting. The First Peter
+comparison uses verified English texts and explicitly leaves the exact source-language relationship
+unverified at the point of discussion. No raw, schema, harness, or skill files changed.
+
+**Correction in a touched page.** The suretyship connection previously said the warnings were all
+about a stranger and that the warned guarantor did not understand the obligation. Proverbs 6:1 names
+neighbor and stranger, and 17:18 names a neighbor; the claims were narrowed to what the stored text
+supports. Judah’s familial responsibility remains in tension with prudent refusal rather than being
+treated as a mechanical exception. Its category row’s subtype was aligned with the existing page
+frontmatter.
+
+**Created (5):** [[A False Balance]]; [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]];
+[[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]];
+[[Repaid in the Earth - Proverbs 11.31 and 1 Peter 4.18]];
+[[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]].
+
+**Revised content pages (42):** [[Proverbs]]; [[God]] and [[Solomon]]; 28 themes — [[Wisdom]];
+[[Folly]]; [[Righteousness]]; [[Integrity]]; [[Pride and Self-Exaltation]]; [[Language and Speech]];
+[[City and Civilization]]; [[Wealth and Possessions]]; [[Compassion and Mercy]];
+[[Favor and Grace]]; [[Blessing]]; [[Curse]]; [[Deception]]; [[Strife and Peacemaking]]; [[Hope]];
+[[Life and Death]]; [[Retribution]]; [[Judgment]]; [[Suffering]]; [[The Poor and the Vulnerable]];
+[[Famine and Plenty]]; [[Walking with God]]; [[Sin]]; [[Theft and Restitution]];
+[[Slavery and Servitude]]; [[Work]]; [[Faith]]; [[Law and Obedience]]; three existing connections —
+[[I Will Be Surety for Him - Judah's Pledge and the Guarantor in Scripture]];
+[[The Tree of Life - Eden and the New Jerusalem]]; [[The Prosperity of the Wicked]]; eight earlier
+passages with reciprocal links — [[A Wise Son Makes a Glad Father]]; [[Job's Oath of Innocence]];
+[[Why Do the Wicked Live]]; [[The Second Test]];
+[[The Surety, the Sluggard, and the Seven Abominations]];
+[[Wisdom's Worth and the Founding of the Earth]]; [[Do Not Withhold Good]]; [[Jethro's Counsel]].
+
+**Indexes (9):** books index (19 / 43 pericopes), wiki dashboard (163 passages, 179 people, 90
+places, 83 themes, 421 connections), themes index, People Index F-M and N-Z, and Connections Index
+D-H, I-N, O-S, and T-Z. New connections file under H, M, R, and S. With this log, 52 existing pages
+are revised; the pass touches 57 wiki pages including the five new pages.
+
+**Sources and validation.** Proverbs 11 quoted from the immutable stored WEB; all 17 selected verses
+were checked for exact agreement. Supporting passages in Proverbs, Job, and Exodus were read in
+stored WEB. Leviticus 19:35–36, Deuteronomy 25:13–16, 2 Corinthians 9:6–11, and 1 Peter 4:17–19
+verified directly through bible-api.com with `translation=web` on 2026-10-25, without storing
+unreached books in raw. No new claim depends on recalled Hebrew or Greek wording.
+`scripts/link-check.sh` passed with no wrapped links or unexpected dangling targets; 62 unstarted
+book pages are the expected baseline. Frontmatter totals, unique category-row membership, subindex
+order and ranges, unchanged raw files, and exactly one checked queue item were verified. No
+operational blocker; interpretive limits are qualified on the relevant pages.

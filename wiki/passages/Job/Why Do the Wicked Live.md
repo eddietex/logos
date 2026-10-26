@@ -289,6 +289,9 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:8, 21 promises righteous deliverance, against Job 21:7–13’s
+  secure wicked families.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:27 shortens the wicked person’s years, against
   Job 21:7–13’s old and prosperous wicked.
 

@@ -92,6 +92,9 @@ It does not remove either the promises in Proverbs or Job's counterexample.
 
 ## Cross-references
 
+- [[A False Balance]] — Proverbs 11:30 calls the fruit of the righteous a tree of life, extending
+  the image from Wisdom to righteous conduct.
+
 - [[Get Wisdom]] — Proverbs 4:7–9 makes wisdom’s greater worth a command to acquire her, and
   pictures her gift of honor as a crown.
 

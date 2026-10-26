@@ -425,6 +425,9 @@ third tradition** is set out on [[Jethro]].
 - [[Strife and Peacemaking]]
 
 ## Cross-references
+
+- [[A False Balance]] — Proverbs 11:14 commends a multitude of counselors; compare the distinct
+  arrangement of shared judging in [[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]].
 - Genesis 2:18 — *"It is not good for the man to be alone. I will make him a helper"* — *lōʾ-ṭôb*, *ləbaddô*,
   *ʿēzer* — [[The Garden of Eden]]
 - Genesis 8:8, 11 — the waters *"abated"*, *qālal* — [[The Waters Recede]]

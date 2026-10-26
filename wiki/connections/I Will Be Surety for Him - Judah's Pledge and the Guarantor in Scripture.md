@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A False Balance]] — Proverbs 11:15.
+
 - **Genesis 43:8–10** — [[The Second Journey]]; [[Judah]]: *"I'll be collateral for him. From my hand
   will you require him."*
 - **Genesis 44:32–33** — [[The Silver Cup and Judah's Plea]]; the pledge called in
@@ -92,7 +94,7 @@ does not survive the speech. See [[Mediation and Advocacy]] and [[Testing]].
 
 ### What the wisdom literature makes of it
 
-**Proverbs is against this, four times, without qualification.**
+**Proverbs repeatedly warns against suretyship; the situations named vary.**
 
 - *"My son, if you have become collateral for your neighbor … You are trapped by the words of your
   mouth"* (6:1–2), and the advice is to go and get out of it immediately — *"Give no sleep to your
@@ -102,10 +104,12 @@ does not survive the speech. See [[Mediation and Advocacy]] and [[Testing]].
   neighbor"* (17:18)
 - *"Take the garment of one who puts up collateral for a stranger"* (20:16; cf. 27:13)
 
-**The warnings are about a stranger.** Judah's is for a brother, and it is not offered for profit or
-out of vanity — **it is the price of a household's survival**, and he names the three generations it
-buys (43:8). **Proverbs is describing a man who does not know what he is signing; Judah states the
-term as *forever* before he signs it.**
+**The warnings are not all confined to strangers.** Proverbs 11:15 and 20:16 explicitly name a
+stranger, but 6:1 names both neighbor and stranger, and 17:18 places the pledge in the presence of a
+neighbor. Judah guarantees a brother’s return for the household’s survival (Genesis 43:8–9). This is
+a meaningful difference in narrative purpose, not a rule that kinship automatically makes a
+guarantee wise. Nor do the proverbs establish that every warned guarantor misunderstands the
+obligation. The tension between prudent refusal and costly responsibility should remain visible.
 
 **Proverbs 6:1 and Job 17:3 share both verbs.** The son *ʿāraḇtā*, *became collateral*, and
 *tāqaʿtā … kappeḵā*, *struck his palms*; Job asks God *ʿorbēnî*, *be collateral for me*, and asks
@@ -131,6 +135,15 @@ because the guarantor does not die.
 of Judah"*, **and the epistle's word for what he is, is the verb Judah used at 43:9.** Genesis does
 not know this and does not need to; **what Genesis knows is that the man who sold a brother later
 offered to be sold in one's place**, and that this is the turn on which the family is saved.
+
+### The compressed warning — Proverbs 11:15
+
+[[A False Balance]] restates the risk in two clauses: being collateral for a stranger brings
+suffering, while refusing such pledges gives security. The same chapter praises generosity
+(11:24–26). The juxtaposition distinguishes binding oneself to another’s obligation from making
+resources available; it does not require reading all aid as reckless suretyship. Judah’s familial
+pledge remains a different narrative situation, not a stated exception clause in Proverbs. Source:
+stored WEB Proverbs 6:1–5; 11:15, 24–26; 17:18; 20:16.
 
 ## Significance
 

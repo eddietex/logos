@@ -294,7 +294,19 @@ exceptionless account of experience.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 4, 20–21, 23, 31
+
+Yahweh rejects dishonest weights and perverse hearts while delighting in accurate weights and
+blameless ways. Riches cannot profit in the day of wrath, and verse 31 reasons from the righteous
+being repaid to the greater exposure of the wicked. The chapter does not date that day or narrate a
+courtroom scene.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 4, 20–21, 23, 31.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 9, 24–31; The wicked face frustrated desire,
   exposure, disaster, loss of hope, and removal; Yahweh’s way brings destruction to evildoers.

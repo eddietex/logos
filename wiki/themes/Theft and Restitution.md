@@ -77,7 +77,19 @@ See [[The Lamp of the Commandment]] and
 [[Fourfold Restitution - Exodus 22, Nathan's Parable, and Zacchaeus]]. Source: stored WEB Proverbs
 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### A False Balance — Proverbs 11:1
+
+The false balance turns exchange into a means of cheating a neighbor. Unlike the restitution cases
+of Exodus 22, the saying specifies divine disapproval and the positive alternative of accurate
+weights, without prescribing a repayment rate. See
+[[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]].
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1.
 - [[Jacob's Flocks]] — Genesis 30:33; anything off-pattern in Jacob's flock *"will be considered
   stolen"*
 - [[Jacob's Flight from Laban]] — Genesis 31:19–20, 30–39; teraphim stolen, a heart *stolen*, a

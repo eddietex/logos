@@ -37,7 +37,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
 | [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] | parallel | Exodus 18:13–27 · Numbers 11:14–17 · Deuteronomy 1:9–18 · Acts 6:2–4 |
-| [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 · Exodus 15:25–26 · Exodus 25:18–36 · Exodus 26:1, 31–35 · [[Wisdom's Worth and the Founding of the Earth]] (Proverbs 3:18) · Proverbs 11:30; 13:12; 15:4 |
+| [[The Tree of Life - Eden and the New Jerusalem]] | typology | Genesis 2:9 · Genesis 3:22–24 · Revelation 2:7 · Revelation 22:2, 14, 19 · Exodus 15:25–26 · Exodus 25:18–36 · Exodus 26:1, 31–35 · [[Wisdom's Worth and the Founding of the Earth]] (Proverbs 3:18) · Proverbs 11:30; 13:12; 15:4 · [[A False Balance]] (Proverbs 11:1–31) |
 | [[The Trees of the Patriarchs]] | thread | Genesis 21:33 · Genesis 12:6; 13:18; 18:1; 35:4, 8 · Deuteronomy 16:21 · Joshua 24:26 · 1 Samuel 22:6; 31:13 · Exodus 15:25 |
 | [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] | retrospective disclosure | Genesis 37:18–28 · Genesis 42:21–22 · Genesis 44:16 · Genesis 50:15–17 · 2 Samuel 12:1–13 · Luke 15:17 · Genesis 45:3–15, 26 |
 | [[Twelve Sons - Nahor, Ishmael, and Jacob]] | parallel | Genesis 22:20–24 · Genesis 17:20 · Genesis 25:12–16 · Genesis 35:22–26 |

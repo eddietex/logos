@@ -97,7 +97,20 @@ contrasts into accusations against sufferers.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:8, 15, 17, 21, 31
+
+Suretyship and cruelty can bring suffering through conduct, but the assurance of righteous
+deliverance cannot explain every affliction. Job 2:3 describes ruin without cause, and his
+children’s death conflicts with an unconditional reading of Proverbs 11:21. First Peter 4:17–19
+likewise addresses people suffering while doing good; see
+[[Repaid in the Earth - Proverbs 11.31 and 1 Peter 4.18]].
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:8, 15, 17, 21, 31.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:3–5, 22, 24–27; The chapter links well-being to
   righteousness and diligence, but Job’s uprightness and realized fear (Job 1:1; 3:25) conflict with a

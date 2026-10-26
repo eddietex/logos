@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A False Balance]] — Proverbs 11:30.
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:18; wisdom as a tree of life, with
   11:30; 13:12; 15:4.
 
@@ -97,6 +99,15 @@ resonance with Eden visible.
 
 Source for this addition: Genesis 2:9; 3:22–24 and Proverbs 3:13–20; 11:30; 13:12; 15:4
 checked in the stored WEB, 2026-10-25. No new claim about original-language wording is made.
+
+### Righteous fruit that gives life — Proverbs 11:30
+
+[[A False Balance]] now brings the next tree-of-life saying into the wiki: the fruit of the
+righteous gives life, and the WEB follows with “He who is wise wins souls.” The image moves from
+Wisdom herself in 3:18 to the effect of righteous conduct. Read among sayings about speech, mercy,
+counsel, and generosity, it commends life-giving influence without identifying an evangelistic
+program or announcing literal immortality. The underlying Hebrew and alternative translations of the
+second clause are not adjudicated here. Source: stored WEB Proverbs 3:18; 11:9–30.
 
 ## Significance
 

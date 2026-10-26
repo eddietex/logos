@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A False Balance]] — Proverbs 11:4–8, 16, 18–21, 28, 31.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 22, 24–30.
 
 - **Job 8:11–19** — Bildad's first sketch, before the cycle of full portraits: the papyrus that
@@ -144,6 +146,21 @@ Proverbs denies the value of work.
 
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Job comparisons checked
 in stored WEB, 2026-10-25.
+
+### Righteous offspring and violent riches — Proverbs 11
+
+[[A False Balance]] heightens the tension. Proverbs 11:8 promises righteous deliverance and reversal
+onto the wicked; 11:21 promises that righteous offspring will be delivered. Job 1:1, 18–22 instead
+records an upright man’s children dying, while Job 21:7–13 observes wicked people’s children safe
+and joyful. Job 2:3 expressly denies that Job’s ruin had a cause in wrongdoing. Those outcomes
+contradict an exceptionless reading of the promises and cannot be silently harmonized by assigning
+Job hidden guilt.
+
+Proverbs 11:16 itself grants that violent men obtain riches, but 11:28 denies that trust in riches
+lasts. The distinction between acquiring wealth and being ultimately secure allows a moral warning
+without denying the visible success of violence. Verse 31 still locates repayment in the earth; the
+text supplies no timetable that resolves Job’s observations. Source: stored WEB Proverbs 11; Job
+1:1, 18–22; 2:3; 21:7–13.
 
 ## Significance
 

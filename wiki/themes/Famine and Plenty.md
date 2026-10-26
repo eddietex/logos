@@ -114,7 +114,18 @@ and he who gathered little had no lack"* (16:18); and what is stored rots** (16:
 when storing is commanded and the bread keeps (16:24). **Plenty is not managed by a state; it is given daily
 and cannot be accumulated.** See [[Manna and Quail]].
 
+### A False Balance — Proverbs 11:24–26
+
+Withheld grain draws a public curse; selling it draws blessing. No famine is stated here, so the
+chapter adds an ethical judgment on access to food rather than a new famine episode. Making
+provisions available can serve the community even when the transaction is a sale.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:24–26.
 
 - [[Abram in Egypt]] — Genesis 12:10; **the Bible's first famine**, and the first descent to Egypt
 - [[Isaac in Gerar]] — Genesis 26:1–12; **the second famine, the one descent God forbids**, and a

@@ -171,7 +171,18 @@ must be distinguished from deceit in 10:18: the chapter commends one while conde
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 3, 13, 18
+
+A false balance gives dishonesty a material instrument. Treachery destroys, gossip betrays
+confidence, and wicked earnings are described as deceitful. Conversely, a trustworthy person can
+keep a secret: truthful dealing is not the same thing as disclosing every confidence.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 3, 13, 18.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:9–10, 18; A perverted course is exposed, the wink
   causes sorrow, and hatred hidden behind lying lips is condemned.

@@ -230,7 +230,18 @@ laziness.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### A False Balance — Proverbs 11:1, 18, 26
+
+The weighing of goods and sale of grain make ordinary commerce morally accountable. Sowing
+righteousness and reaping reward use labor as an image of conduct and consequence. The text values
+honest exchange and provision, not income detached from the means of acquiring it.
+
+See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
+and connection pages.
+
 ## Key passages
+
+- [[A False Balance]] — Proverbs 11:1, 18, 26.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4–5, 16, 26; Diligent hands and gathering in
   season bring provision; sleeping at harvest shames the household.
