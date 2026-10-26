@@ -150,7 +150,18 @@ inheritance gives such conflict a cost to the instigator.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:16, 18, 20, 25
+
+Overlooking an insult interrupts immediate retaliation; promoting peace brings joy. Rash speech
+wounds, while wise and kindly speech restores. Restraint is not approval of false testimony or
+injustice: the same cluster requires truthful witness in verse 17.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:16, 18, 20, 25.
 
 - [[A False Balance]] — Proverbs 11:9, 12–14, 29.
 

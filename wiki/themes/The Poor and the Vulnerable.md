@@ -114,7 +114,19 @@ observation concerns access to necessities; it does not justify calling every po
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:9, 11, 24
+
+The low-status person with provision is preferred to someone who honors himself but lacks bread.
+Diligence is commended, yet Job 24:5–11’s exploited workers prevent hunger from becoming proof of
+laziness; Exodus 1:11–14 similarly prevents forced labor from becoming a verdict on its victims.
+These are comparative limits, not an explicit discussion of every cause of poverty in Proverbs 12.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:9, 11, 24.
 
 - [[A False Balance]] — Proverbs 11:24–26.
 

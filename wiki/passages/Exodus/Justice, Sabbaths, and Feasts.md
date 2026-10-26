@@ -128,6 +128,10 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[Care for the Animal - Proverbs 12.10 and Exodus 23]] and [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12 develops animal care and truthful witness as marks of character.
+
+- [[Care for the Animal - Proverbs 12.10 and Exodus 23]] and [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12 develops animal care and truthful witness as marks of character.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.
 
 - Exodus 20:8–11, 16 — Sabbath and false testimony developed here: [[The Ten Commandments]].

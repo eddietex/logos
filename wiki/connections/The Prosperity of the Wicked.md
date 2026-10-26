@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Whoever Loves Correction]] — Proverbs 12:3, 7, 21, 24, 28.
+
 - [[A False Balance]] — Proverbs 11:4–8, 16, 18–21, 28, 31.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:3, 22, 24–30.
@@ -161,6 +163,22 @@ lasts. The distinction between acquiring wealth and being ultimately secure allo
 without denying the visible success of violence. Verse 31 still locates repayment in the earth; the
 text supplies no timetable that resolves Job’s observations. Source: stored WEB Proverbs 11; Job
 1:1, 18–22; 2:3; 21:7–13.
+
+### The standing house and the suffering righteous — Proverbs 12
+
+Proverbs 12:3 and 7 promise an unmoved righteous root and a standing righteous house, and 12:21 says
+that no mischief happens to the righteous. Job 1:1, 18–22 and 2:3, 7 directly contradict an
+exceptionless reading: an upright man loses his children in a fallen house and suffers bodily harm
+without cause. Job 21:7–13 meanwhile describes wicked households secure and flourishing. These
+claims remain together; no undisclosed guilt is supplied to harmonize them.
+
+Proverbs 12:24’s movement from diligence to rule and laziness to slave labor also has a limit. Job
+24:5–11 depicts hungry laborers, and Exodus 1:11–14 depicts forced labor imposed by rulers. The
+proverbial warning cannot be reversed into a verdict on the poor or enslaved. Reading it as general
+instruction is the wiki’s interpretation, not an explicit qualification written into the sentence.
+
+See [[Whoever Loves Correction]]. Sources: the cited Proverbs, Job, and Exodus verses checked in
+stored WEB.
 
 ## Significance
 

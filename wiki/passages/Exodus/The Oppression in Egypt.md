@@ -392,6 +392,8 @@ the boys of a town (Matthew 2:16), and a child who escapes — by going *into* E
 
 ## Cross-references
 
+- [[Whoever Loves Correction]] — Proverbs 12:24 warns against laziness; Exodus 1:11–14 prevents reversing that warning into blame for all forced labor.
+
 - Genesis 1:28; 9:1, 7; 35:11; 47:27 — *be fruitful and multiply*, and its fulfilment —
   [[They Got Possessions and Multiplied - Genesis 47.27 and Exodus 1.7]]
 - Genesis 11:3–4 — *"Come, let's make bricks"*, and *lest* —

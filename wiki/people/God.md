@@ -2082,6 +2082,14 @@ action occurs. The chapter’s promises of righteous deliverance must remain bes
 Job’s undeserved ruin in Job 2:3, rather than being used to overturn it. Source: stored WEB Proverbs
 11; Job 2:3.
 
+### Favor and truthful conduct — Proverbs 12
+
+[[Whoever Loves Correction]] names Yahweh in 12:2 and 12:22. Goodness receives his favor, wicked
+plans his condemnation; lying lips are rejected and truthful conduct delights him. These are sayings
+about his evaluation, not newly narrated acts or divine speech. Verse 21’s claim of righteous safety
+remains in explicit tension with God’s own declaration of Job’s undeserved ruin (Job 2:3). Source:
+stored WEB Proverbs 12; Job 2:3, 7.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2354,6 +2362,8 @@ Job’s undeserved ruin in Job 2:3, rather than being used to overturn it. Sourc
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Whoever Loves Correction]] — Proverbs 12:2, 22; favor, condemnation, and delight in truthful conduct.
 
 - [[A False Balance]] — Proverbs 11:1, 20; honest exchange and blameless conduct delight Yahweh.
 

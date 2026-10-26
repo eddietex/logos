@@ -294,7 +294,20 @@ written into the verses.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:2–3, 7, 13–14, 19, 21, 24, 28
+
+Goodness receives favor, wicked plans condemnation, and righteous life stability and deliverance.
+Verse 21 states safety without an expressed exception. Job 2:3, 7 nevertheless records blamelessness
+with undeserved ruin and bodily suffering, while Job 21:7–13 records secure wicked households.
+Reading the sayings as general moral instruction is an interpretation, not an exception clause
+present in the verse.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:2–3, 7, 13–14, 19, 21, 24, 28.
 
 - [[A False Balance]] — Proverbs 11:4–8, 18–21, 23, 27–28, 31.
 

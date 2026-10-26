@@ -172,7 +172,19 @@ than a literal journey or a new instance of the formula about walking with God.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:15, 26, 28
+
+The fool’s self-approved way contrasts with listening to counsel; the wicked way misleads, while
+righteousness is a path of life. These are ethical routes, not geographical travel or a new narrated
+instance of walking with God. The WEB’s friendship wording in verse 26 is followed without settling
+alternative Hebrew interpretations.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:15, 26, 28.
 
 - [[A False Balance]] — Proverbs 11:3, 5–6, 20.
 

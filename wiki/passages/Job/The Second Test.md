@@ -245,6 +245,8 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[Whoever Loves Correction]] — Proverbs 12:21’s righteous safety meets Job 2:3, 7’s undeserved ruin and bodily affliction.
+
 - [[A False Balance]] — Proverbs 11:8, 21 promises deliverance; Job 2:3 explicitly preserves the
   contrary case of ruin without cause. See
   [[Repaid in the Earth - Proverbs 11.31 and 1 Peter 4.18]].

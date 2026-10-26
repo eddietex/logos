@@ -135,7 +135,18 @@ disposition toward learning; it does not say that every humiliated person must h
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:9, 15
+
+Self-honor without bread is inferior to obscure provision, and a fool’s own verdict on his way is
+insufficient. Wisdom listens to another person’s counsel. Reputation and self-confidence are thus
+tested against material reality and a willingness to be corrected.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:9, 15.
 
 - [[A False Balance]] — Proverbs 11:2.
 

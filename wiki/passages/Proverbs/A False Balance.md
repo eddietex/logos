@@ -160,6 +160,8 @@ wiki’s interpretation; the verses do not state their own exception clauses. Se
 
 ## Cross-references
 
+- [[Whoever Loves Correction]] — Proverbs 12 continues counsel, truthful speech, and the stability of righteousness.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10; righteousness, wealth, and speech continue into
   the next cluster of sayings.
 - [[Job's Oath of Innocence]] — Job 31:5–6, 16–25; an even balance, generosity, and refusing

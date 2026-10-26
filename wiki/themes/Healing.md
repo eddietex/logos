@@ -12,6 +12,10 @@ wife, and his female servants, and they bore children"*** (Genesis 20:17), after
 climax in the Torah is the name God gives himself at Marah**: ***"I am Yahweh who heals you"*** — *ʾănî YHWH
 rōpəʾekā* (Exodus 15:26).
 
+Proverbs 12:18 broadens this theme to the healing work of wise human speech, with a kind word
+lightening anxiety in 12:25. This comparison follows the WEB’s English and makes no assertion about
+the Hebrew forms in those two verses.
+
 **Three features are already set by Exodus 15:**
 
 1. **Healing comes with a condition.** *"If you will diligently listen to Yahweh your God's voice … I will put
@@ -90,7 +94,19 @@ foot to his head"* (Job 2:7) although he kept heart, eyes, and feet (Job 31:1, 7
 
 See [[Keep Your Heart]]. Source: cited verses checked in stored WEB, 2026-10-25.
 
+### Correction, speech, and daily conduct — Proverbs 12:18, 25
+
+Wise speech heals where rash words wound, and a kind word gladdens an anxious heart. This broadens
+the page’s emphasis on divine and bodily restoration to interpersonal care. The sayings name
+beneficial speech without prescribing medical treatment or promising that words alone resolve every
+illness or distress.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:18, 25.
 
 - [[Keep Your Heart]] — Proverbs 4:22; *marpēʾ*, health to the whole body from kept words
 

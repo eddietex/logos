@@ -150,7 +150,19 @@ blessed. The chapter commends practical access to resources as well as outright 
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:10, 18, 25
+
+The righteous person respects an animal’s life, while even the wicked person’s tender mercies are
+cruel. Compassion is evaluated by its effect on the dependent creature, not by its kindly label.
+Healing speech and a word that lightens anxiety extend this attention to human hurt. See
+[[Care for the Animal - Proverbs 12.10 and Exodus 23]].
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:10, 18, 25.
 
 - [[A False Balance]] — Proverbs 11:17, 24–26.
 

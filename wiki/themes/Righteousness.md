@@ -172,7 +172,19 @@ circumstances is explicitly refused.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:3, 5–7, 10, 12–13, 21, 26, 28
+
+Just thoughts, rescuing speech, and care for an animal make righteousness practical. Root, house,
+and path images promise stability and life. **Explicit tension:** the untroubled righteous of verse
+21 and standing house of verse 7 conflict with an exceptionless reading of Job 1:1, 18–22 and 2:3,
+7; Job’s integrity and calamity must both remain.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:3, 5–7, 10, 12–13, 21, 26, 28.
 
 - [[A False Balance]] — Proverbs 11:3–11, 18–21, 23, 28–31.
 

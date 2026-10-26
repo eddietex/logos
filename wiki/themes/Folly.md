@@ -141,7 +141,18 @@ circumstances.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:1, 11, 15–16, 23
+
+Hating reproof, chasing fantasies, trusting one’s own verdict, and broadcasting annoyance or
+foolishness give folly recognizable conduct. The opening insult targets refusal to learn, not
+intellectual disability. The wise person’s willingness to listen supplies the counterexample.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:1, 11, 15–16, 23.
 
 - [[A False Balance]] — Proverbs 11:12, 22, 29.
 

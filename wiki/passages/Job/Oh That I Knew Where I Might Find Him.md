@@ -352,6 +352,8 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[Whoever Loves Correction]] — Proverbs 12:11, 24 commends diligent work; Job 24:5–11 prevents diagnosing hungry workers as lazy.
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:4 warns against laziness, but Job 24:5–11’s
   hungry laborers prevent treating poverty as proof of idleness.
 

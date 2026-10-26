@@ -167,7 +167,18 @@ measurement without requiring a lexical claim.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:5, 17, 19, 22
+
+Truthfulness joins intention, testimony, and action: Yahweh delights in those who do the truth, not
+merely those who sound persuasive. Honest witness protects the moral reliability of speech. The
+comparison with Exodus 20:16 and 23:1–8 is ethical agreement, not a claim of direct quotation.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:5, 17, 19, 22.
 
 - [[A False Balance]] — Proverbs 11:1, 3, 5–6, 13, 20.
 

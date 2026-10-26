@@ -304,7 +304,19 @@ courtroom scene.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:2, 7, 19, 21–22
+
+Yahweh condemns wicked plans and rejects lying lips while delighting in truthful conduct. The
+sayings state evaluation and outcome rather than narrating a hearing. Job’s upright suffering and
+the secure households of the wicked remain explicit limits on inferring divine condemnation from
+present circumstances.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:2, 7, 19, 21–22.
 
 - [[A False Balance]] — Proverbs 11:1, 4, 20–21, 23, 31.
 

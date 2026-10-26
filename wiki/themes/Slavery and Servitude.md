@@ -166,7 +166,19 @@ contract. It cannot be reversed into a claim that all servants are foolish.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:9, 24
+
+Verse 9 assumes a household with a servant; verse 24 contrasts diligent rule with slave labor as an
+outcome of laziness. No contract, release date, or legal classification is specified. **Limit:**
+Exodus 1:11–14 describes imposed servitude caused by royal oppression, not Israelite laziness; the
+proverb cannot diagnose every enslaved person.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:9, 24.
 
 - [[A False Balance]] — Proverbs 11:29.
 

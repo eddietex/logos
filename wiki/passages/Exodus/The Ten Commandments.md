@@ -113,6 +113,10 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12:17, 19, 22 gives truthful testimony a wisdom portrait.
+
+- [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] — Proverbs 12:17, 19, 22 gives truthful testimony a wisdom portrait.
+
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:16–19; *"a false witness"*
   (*ʿēḏ šāqer*, the ninth commandment's phrase) and *"hands that shed innocent blood"* among the
   seven things Yahweh hates.

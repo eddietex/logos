@@ -347,7 +347,19 @@ legal cases; no direct borrowing is asserted. See
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:1, 10, 15, 17, 22
+
+Love of correction and receptivity to counsel form a disposition toward instruction. Truthful
+witness and care for animals agree with Exodus 20:16 and 23:1–12, without explicitly quoting those
+laws or specifying their penalties. Wisdom expresses in character portraits what the legal cases
+require in concrete situations.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:1, 10, 15, 17, 22.
 
 - [[A False Balance]] — Proverbs 11:1, 20.
 

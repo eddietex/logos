@@ -239,7 +239,19 @@ honest exchange and provision, not income detached from the means of acquiring i
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:9, 11, 14, 24, 27
+
+Cultivation, rewarded hands, diligence, and using one’s game contrast with fantasy and neglect. The
+warning that laziness ends in slave labor is not reversible: Exodus 1:11–14 attributes Israel’s
+forced labor to oppression, and Job 24:5–11 depicts hungry workers. These texts contradict any claim
+that servitude or hunger proves laziness.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:9, 11, 14, 24, 27.
 
 - [[A False Balance]] — Proverbs 11:1, 18, 26.
 

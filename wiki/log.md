@@ -16171,3 +16171,63 @@ unreached books in raw. No new claim depends on recalled Hebrew or Greek wording
 book pages are the expected baseline. Frontmatter totals, unique category-row membership, subindex
 order and ranges, unchanged raw files, and exactly one checked queue item were verified. No
 operational blocker; interpretive limits are qualified on the relevant pages.
+
+## [2026-10-25] ingest | Proverbs 12.1-28 — Whoever Loves Correction
+
+Ingested [[Whoever Loves Correction]], retaining the planned Proverbs 12:1–28 boundary and advancing
+exactly one queue item. The chapter-sized unit follows the book’s stated convention for the sentence
+collection. The passage page carries the unattended discussion: love of correction, righteous roots
+and households, a worthy wife, care for animals, provision and diligence, truthful testimony,
+restraint under insult, healing speech, anxiety, friendship, and the path of life.
+
+**Interpretive decisions.** Generic people and settings receive no invented identities or places.
+[[Solomon]] is associated only through the collection heading at Proverbs 10:1; [[God]] is named in
+12:2, 22. Proverbs 12:7, 21’s promises of righteous stability and safety remain explicitly in tension
+with Job 1:1, 18–22; 2:3, 7 and the prosperity of wicked households in Job 21:7–13. The warning in
+12:24 cannot be reversed into a judgment that all forced labor comes from laziness: Exodus 1:11–14
+and Job 24:5–11 supply counterexamples. Reading these as general moral instruction is identified as
+interpretation, not an exception clause supplied by the verses. The WEB’s renderings of 12:26–28
+are followed without deciding alternative Hebrew readings or treating 12:28 as a developed doctrine
+of bodily immortality. The stored “little know” in 12:9 is retained in the quotation and noted;
+raw text is unchanged.
+
+**Created (3):** [[Whoever Loves Correction]];
+[[Care for the Animal - Proverbs 12.10 and Exodus 23]];
+[[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]]. The connections distinguish
+ethical parallels from claims of direct quotation or literary dependence.
+
+**Revised content pages (40):** [[Proverbs]]; [[God]]; [[Solomon]]; 24 themes — [[Wisdom]], [[Folly]],
+[[Righteousness]], [[Integrity]], [[Language and Speech]], [[Deception]], [[Work]],
+[[Compassion and Mercy]], [[Marriage]], [[Retribution]], [[Suffering]], [[Healing]],
+[[Strife and Peacemaking]], [[Wealth and Possessions]], [[Slavery and Servitude]], [[Life and Death]],
+[[Walking with God]], [[Favor and Grace]], [[Judgment]], [[Sin]], [[Famine and Plenty]],
+[[Pride and Self-Exaltation]], [[Law and Obedience]], and [[The Poor and the Vulnerable]]; three existing
+connections — [[The Prosperity of the Wicked]], [[Comforters Who Do Not Comfort]], and
+[[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]]; ten earlier passage pages with
+reciprocal links — [[A False Balance]], [[A Wise Son Makes a Glad Father]],
+[[Justice, Sabbaths, and Feasts]], [[The Ten Commandments]], [[The Oppression in Egypt]],
+[[Miserable Comforters and the Witness in Heaven]],
+[[The Wager in Heaven and the Four Messengers]], [[The Second Test]], [[Why Do the Wicked Live]],
+and [[Oh That I Knew Where I Might Find Him]].
+
+**Synthesis corrections.** The favor overview’s exclusively unmerited definition was qualified
+beside Proverbs 12:2’s explicit association with goodness, while Genesis 6:8’s different setting was
+retained; no identity of Hebrew terms is asserted. Healing’s overview now includes the wise human
+tongue’s work. The Job 16:2 quotation in the touched comfort connection was corrected to the stored
+WEB wording, “You are all miserable comforters!”
+
+**Indexes and totals.** Nine index pages revised: books (20 / 43 pericopes), wiki dashboard,
+themes, People Index F-M and N-Z, and Connections Index A-C, I-N, O-S, and T-Z. The two new
+connections file under C and T. Counts by frontmatter: 164 passages, 179 people, 90 places, 83 themes,
+423 connections; four books started, three complete. With this log, 50 existing pages are revised;
+53 wiki pages are touched including the three new pages.
+
+**Sources and validation.** All 14 selected Proverbs quotations match the immutable stored WEB
+exactly. Supporting texts were read in stored Proverbs 10:1, 17; 11; 31:10–12; Exodus 1:11–14;
+20:16; 23:1–12; Job 1:1, 18–22; 2:3, 7; 16:1–5; 21:7–13; 24:5–11; 42:7. The two new connection
+quotations are verbatim Proverbs 12:10, 22. No unreached book was fetched, and no new exact Hebrew or
+Greek claim was made. `scripts/link-check.sh` passed: no wrapped links or unexpected dangling
+targets; 62 unstarted book pages are the expected baseline. Frontmatter totals, one category row per
+page, subindex order and ranges, unique non-dashboard basenames, exactly one checked queue item,
+and unchanged raw/workflow files were verified. No operational blocker; the noted source wording
+and interpretive limits remain visible on the relevant pages.

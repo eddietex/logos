@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Whoever Loves Correction]] — Proverbs 12:15.
+
 - [[A False Balance]] — Proverbs 11:9–14.
 - [[Jethro's Counsel]] — Exodus 18:13–26.
 
@@ -28,6 +30,14 @@ arrangements, and the proverb is not a quotation of Jethro’s speech. Both resi
 community dependent on one person’s unsupported judgment and capacity.
 
 Source: Proverbs 11:9–14 and Exodus 18:13–26 checked in stored WEB, 2026-10-25.
+
+### A hearer willing to listen — Proverbs 12:15
+
+[[Whoever Loves Correction]] adds the individual counterpart to public counsel: a fool finds his own
+way right, while the wise person listens. The contrast does not say that every counselor is right;
+Proverbs 12:5 already describes deceitful advice. It identifies receptivity to sound correction as
+part of wisdom. Proverbs 11:14 concerns a community’s guidance, while 12:15 concerns the hearer’s
+disposition; neither makes numbers alone a test of truth. Source: stored WEB Proverbs 12:5, 15.
 
 ## Significance
 

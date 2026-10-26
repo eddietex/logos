@@ -123,7 +123,19 @@ provisions available can serve the community even when the transaction is a sale
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:9, 11, 27
+
+Hunger beneath self-honor contrasts with bread from cultivation; neglected game contrasts with
+prized possessions. No regional famine is described. The promise of bread through labor stands
+beside Job 24:10–11’s hungry and thirsty workers, who show that productive effort does not always
+secure access to its fruit.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:9, 11, 27.
 
 - [[A False Balance]] — Proverbs 11:24–26.
 

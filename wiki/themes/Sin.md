@@ -224,7 +224,19 @@ instruction, not evidence that every sufferer has committed a corresponding offe
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:2, 5–6, 12–13, 17, 20, 22
+
+Wicked plans, deceitful advice, desire for plunder, false witness, and lying lips make wrongdoing
+both inward and social. Verse 13 pictures evil speech trapping its own speaker. The warning
+identifies real moral hazards; it does not establish that every person in trouble has been caught by
+personal sin.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:2, 5–6, 12–13, 17, 20, 22.
 
 - [[A False Balance]] — Proverbs 11:1, 3, 6, 9, 20–21, 27, 31.
 

@@ -223,7 +223,19 @@ Restraint is thus directed toward the neighbor’s good, not treated as an absol
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:6, 13–14, 17–19, 22–23, 25
+
+Words can ambush, trap, rescue, nourish, wound, heal, and relieve anxiety. Truthful testimony and
+prudent restraint belong together; silence is not always wisdom, since another person may need a
+kind word. Job 16:2–5 exposes speech offered as comfort that instead wounds; see
+[[Comforters Who Do Not Comfort]].
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:6, 13–14, 17–19, 22–23, 25.
 
 - [[A False Balance]] — Proverbs 11:9, 11–14.
 

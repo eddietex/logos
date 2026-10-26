@@ -71,7 +71,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |
 | [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]] | thread | Genesis 31:48–52 · Genesis 21:22–32 · Numbers 6:24–26 |
 | [[Moab and Ammon - The Two Nations Born in the Cave]] | thread | Genesis 19:30–38 · Deuteronomy 2:9, 19; 23:3–6 · Numbers 22–25 · Judges 3:12–30; 11:4–33 · 1 Samuel 11; 22:3–4 · 2 Samuel 10 · 1 Kings 11:5–7; 14:21 · Jeremiah 48; 49:1–6 · Zephaniah 2:8–11 · Ruth 1:4; 4:13–22 · Nehemiah 13:1–3 · Matthew 1:5 |
-| [[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]] | literary-parallel | Proverbs 11:9–14 · Exodus 18:13–26 · [[A False Balance]] |
+| [[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]] | literary-parallel | Proverbs 11:9–14 · Exodus 18:13–26 · [[A False Balance]] · [[Whoever Loves Correction]] (Proverbs 12:15) |
 | [[Murder, Adultery, and the Heart - Exodus 20 and Matthew 5]] | quotation | Exodus 20:13–17 · Matthew 5:21–30 · Proverbs 6:25 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) |
 | [[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]] | literary-parallel | Proverbs 7:16–18 · Song of Solomon 4:10, 14 · Psalm 45:8 · Exodus 30:23, 32 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) · [[The Incense Altar, the Ransom, and the Holy Oil]] |
 | [[Naked and Ashamed - Genesis 3 and Genesis 9]] | parallel | Genesis 2:25 · Genesis 3:6–7, 21 · Genesis 9:20–25 · Genesis 19:30–38 |

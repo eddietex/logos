@@ -163,6 +163,13 @@ grain earns blessing where withholding it earns a curse. Righteous fruit becomes
 righteous offspring (21), remain explicitly in tension with Job’s lost children and the secure
 children of the wicked (Job 1:18–22; 21:7–13).
 
+[[Whoever Loves Correction]] (12:1–28) makes love of correction a test of wisdom, then develops it
+through truthful testimony, restrained and healing speech, household honor, diligent work, and care
+for an animal’s life. Yahweh’s delight includes truthful conduct. The standing righteous household
+and promise of safety remain in explicit tension with Job’s calamity, while the warning that
+laziness ends in slave labor cannot explain the imposed labor of Exodus 1. The unit ends on
+righteousness as the path of life.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -214,7 +221,7 @@ first collection at its heading), each titled from a representative saying.
 
 - [x] [[A Wise Son Makes a Glad Father]] — Proverbs 10:1–32
 - [x] [[A False Balance]] — Proverbs 11:1–31
-- [ ] Whoever Loves Correction — Proverbs 12:1–28
+- [x] [[Whoever Loves Correction]] — Proverbs 12:1–28
 - [ ] Hope Deferred — Proverbs 13:1–25
 - [ ] A Way That Seems Right — Proverbs 14:1–35
 - [ ] A Gentle Answer — Proverbs 15:1–33

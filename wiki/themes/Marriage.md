@@ -178,7 +178,19 @@ perfumed with a bride's spices (7:17). See [[The Young Man Void of Understanding
 [[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]]. Source: stored WEB Proverbs 7; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. Song
 of Solomon 4:9 verified WEB at bible-api.com, not stored.
 
+### Correction, speech, and daily conduct — Proverbs 12:4
+
+A worthy wife is pictured as her husband’s crown, a disgraceful wife as decay in his bones. The
+saying describes the honor or harm a spouse can bring; it does not identify a woman in Solomon’s
+life. Proverbs 31:10–12 develops a comparable positive portrait, checked in stored WEB but not yet
+ingested.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:4.
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:15–19; the wife as one's own well, the wife of
   your youth, and delight in her commanded

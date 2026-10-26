@@ -6,10 +6,11 @@ tags: [theme]
 
 ## Definition / overview
 
-Favor freely given, to someone who has not been said to deserve it — and, in the Bible's first
-instance, given at the moment everything else is condemned.
+Favor can be freely given before any claim of merit is stated, as in Genesis 6:8, or explicitly
+associated with good conduct, as in Proverbs 12:2. These are distinct textual settings; the English
+word alone does not make every occurrence a statement about unearned favor.
 
-The Hebrew word is **ḥēn**, from *ḥānan*, to be gracious, to show favor, to be moved to pity by
+For the Genesis favor idiom discussed below, the Hebrew word is **ḥēn**, from *ḥānan*, to be gracious, to show favor, to be moved to pity by
 someone with no claim on you. It is the word behind the personal names Hannah, John (*Yôḥānān*,
 *Yahweh has been gracious*), and Hananiah; the Septuagint renders it **charis**, which is the word
 the New Testament builds its whole doctrine of grace out of. Its standard idiom is the one Genesis
@@ -155,7 +156,19 @@ passages is assumed.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:2
+
+The good person obtains favor from Yahweh, while wicked plans receive condemnation. This qualifies
+an exclusively unmerited account of every use of favor: this proverb expressly pairs divine approval
+with goodness. The comparison concerns the WEB’s English wording; no identity of underlying Hebrew
+terms with Genesis 6:8 is asserted.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:2.
 
 - [[A False Balance]] — Proverbs 11:16, 27.
 
@@ -257,7 +270,8 @@ and connection pages.
 
 ## Related themes
 
-- [[Righteousness]] — the term 6:9 supplies, which this theme is permanently unjoined to
+- [[Righteousness]] — character follows favor in Genesis 6:8–9; goodness and favor are explicitly
+  paired in Proverbs 12:2
 - [[Covenant]] — what the favor issues in at 6:18
 
 - [[Judgment]] — what favor appears inside of, rather than instead of

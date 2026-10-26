@@ -296,7 +296,19 @@ reopening of Eden.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:6, 10, 28
+
+The chapter includes both human blood threatened by speech and the life of an animal entrusted to
+human care. Verse 28 closes on life in righteousness and no death in its path. In the WEB this is an
+emphatic life-giving road image; it does not explain resurrection or guarantee that a righteous body
+never dies.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:6, 10, 28.
 
 - [[A False Balance]] — Proverbs 11:4, 7–8, 19, 30.
 

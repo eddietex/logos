@@ -7,9 +7,11 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Whoever Loves Correction]] — Proverbs 12:18, 25.
+
 - **Job 2:11** — they came *"to sympathize with him and to comfort him"* — *lānûd lô ûlənaḥămô* —
   [[Seven Days of Silence]]
-- **Job 16:2** — *"I have heard many such things. Miserable comforters are you all!"* —
+- **Job 16:2** — *"I have heard many such things. You are all miserable comforters!"* —
   *mənaḥămê ʿāmāl kullkem* — [[Miserable Comforters and the Witness in Heaven]]
 - **Job 21:2, 34** — *"Listen diligently to my speech. Let this be your consolation"*, and *"So how
   can you comfort me with nonsense, because in your answers there remains only falsehood?"*: a speech
@@ -112,6 +114,23 @@ and the clause is contested (see [[Sitting in Dust and Ashes]]). If it is *comfo
 arrives in this verse, from God's speech and not from any human speaker** — after the friends' failure and
 before the family's success. If it is *repent*, the verb is still the same one the friends came to perform.
 The wiki does not decide the clause; it records that the root is here.
+
+### The healing tongue and the kind word — Proverbs 12
+
+Proverbs 12:18 contrasts rash speech that pierces like a sword with a wise tongue that heals; 12:25
+contrasts the weight of anxiety with the gladness a kind word can bring. Job 16:2–5 provides the
+failed and imagined successful cases: Job calls his friends miserable comforters, then says that if
+their positions were reversed he would strengthen and relieve them with his speech. Comfort is
+measured by what the words do to a sufferer, not simply by the speaker’s intention to explain.
+
+The comparison does not turn comforting into agreement with every assertion, or reproof into
+cruelty: Proverbs 12:1 commends correction. Job 42:7 nevertheless judges the friends’ speech about
+God wrong. Wise correction needs truth, and wisdom’s healing speech cannot be manufactured by
+assuming the sufferer’s guilt. A kind word in 12:25 is a real good, not a guarantee that all anxiety
+ends through conversation.
+
+See [[Whoever Loves Correction]] and [[Miserable Comforters and the Witness in Heaven]]. Sources:
+Proverbs 12:1, 18, 25; Job 16:1–5; 42:7 checked in stored WEB.
 
 ## Significance
 

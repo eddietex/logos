@@ -180,7 +180,18 @@ keep a secret: truthful dealing is not the same thing as disclosing every confid
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:5, 17, 19–20, 22
+
+Deceit operates in advice, false witness, lying speech, and the heart that plots evil. The contrast
+is with truthful conduct and promotion of peace. Yahweh’s rejection of lying lips places ordinary
+deception under divine evaluation rather than treating it only as ineffective strategy.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:5, 17, 19–20, 22.
 
 - [[A False Balance]] — Proverbs 11:1, 3, 13, 18.
 

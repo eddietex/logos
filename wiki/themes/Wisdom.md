@@ -363,7 +363,18 @@ merely advantageous to its possessor.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:1, 8, 15–16, 18, 23, 26
+
+Loving correction and listening to counsel define wisdom as teachability rather than self-certainty.
+Prudence also governs when to speak, when to overlook an insult, and which friendships to enter.
+Verse 23 commends restrained knowledge, not concealment of testimony owed to another.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:1, 8, 15–16, 18, 23, 26.
 
 - [[A False Balance]] — Proverbs 11:2, 9, 12–14, 22, 29–30.
 

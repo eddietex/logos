@@ -190,6 +190,8 @@ the earth under him, and heaven above.
 
 ## Cross-references
 
+- [[Whoever Loves Correction]] — Proverbs 12:18, 25; healing speech alongside Job 16:2–5’s failed comfort. See [[Comforters Who Do Not Comfort]].
+
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1; both
   verbs of Job 17:3, *ʿāraḇ* and *tāqaʿ*, in a warning against the handshake Job asks God to make.
 - [[The Witness in Heaven]] — 16:19–21 and 17:3 alongside 9:33, 19:25–27, and 33:23–24, the three

@@ -63,6 +63,11 @@ stored WEB Proverbs 10:1–32.
 not named in this chapter, and its counselors, traders, women, and households are not identified as
 people in his biography. Source: stored WEB Proverbs 10:1; 11:1–31.
 
+[[Whoever Loves Correction]] (Proverbs 12:1–28) continues the collection attributed to Solomon at
+10:1. Correction, counsel, household life, and labor are presented as general wisdom; neither the
+wife nor any other figure is identified as someone in his biography. Source: stored WEB Proverbs
+10:1; 12:1–28.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -72,6 +77,8 @@ people in his biography. Source: stored WEB Proverbs 10:1; 11:1–31.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[Whoever Loves Correction]] — Proverbs 12:1–28; collection attribution only, from 10:1.
 
 - [[A False Balance]] — Proverbs 11:1–31; collection attribution only, from 10:1; not named in the
   unit.

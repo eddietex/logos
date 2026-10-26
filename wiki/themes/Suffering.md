@@ -108,7 +108,19 @@ likewise addresses people suffering while doing good; see
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:4, 18, 21, 25
+
+Pain appears as inward decay, swordlike speech, and anxiety that weighs down the heart. A kind word
+offers relief without implying that every distress can be removed by conversation. **Contradiction
+in an exceptionless reading:** verse 21’s righteous safety meets Job 2:3, 7’s undeserved suffering;
+neither text authorizes treating the sufferer as secretly wicked.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:4, 18, 21, 25.
 
 - [[A False Balance]] — Proverbs 11:8, 15, 17, 21, 31.
 

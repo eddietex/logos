@@ -324,7 +324,19 @@ goods matters, and Job’s losses remain a counterexample to guaranteed material
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Correction, speech, and daily conduct — Proverbs 12:9, 11–12, 14, 24, 27
+
+Modest provision is better than self-honor accompanied by hunger. Productive work and valued
+possessions contrast with fantasy and desire for plunder. The chapter praises sufficient resources
+without making public prestige the measure of success, or making every poor worker responsible for
+deprivation.
+
+See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
+that passage page.
+
 ## Key passages
+
+- [[Whoever Loves Correction]] — Proverbs 12:9, 11–12, 14, 24, 27.
 
 - [[A False Balance]] — Proverbs 11:1, 4, 15–18, 24–29.
 
