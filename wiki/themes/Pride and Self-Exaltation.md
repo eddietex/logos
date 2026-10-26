@@ -156,7 +156,15 @@ Yahweh *"will uproot the house of the proud"* (25), whose estate is the threat t
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Pride goes before destruction — Proverbs 16:5, 18–19
+
+*"Everyone who is proud in heart is an abomination to Yahweh"* (5), and the book's best-known line on the subject: *"Pride goes before destruction, and a haughty spirit before a fall"* (18). Verse 19 ranks *"a lowly spirit with the poor"* above dividing plunder *"with the proud"*. With 11:2, 15:33, and 18:12, pride and humility become a sequence: what comes before a fall, and what comes before honour.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:5, 18–19.
 
 - [[A Gentle Answer]] — Proverbs 15:25, 33.
 

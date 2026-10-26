@@ -20,6 +20,7 @@ tags: [connection]
 - **Ezra 2:63** — the most holy things withheld *"until a priest stood up to serve with Urim and
   with Thummim"* *(verified WEB, not yet ingested)*.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Breastplate manufactured without a notice about Urim and Thummim.
+- [[The Plans of the Heart]] — Proverbs 16:33; the lot's *mišpāṭ* from Yahweh.
 
 ## Analysis
 
@@ -55,6 +56,16 @@ and does not identify them with the twelve stones. The later placement account a
 above remains a separate stage; no new later-source quotation is introduced here.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
+
+### The lot's judgment — Proverbs 16:33
+
+[[The Plans of the Heart]] closes on *"The lot is cast into the lap, but its every decision is from
+Yahweh"* (16:33). The *decision* is *mišpāṭ*, the word of *ḥōšen hammišpāṭ* and of the *mišpāṭ* Aaron
+bore on his heart (Exodus 28:30; Hebrew of both from Sefaria). Proverbs does not mention the Urim and
+Thummim and does not say they were lots; the shared word shows only that the sentence collection
+speaks of the ordinary lot in the vocabulary of priestly judgment. See
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]]. Source: stored WEB Proverbs
+16:33; Exodus 28:30.
 
 ## Significance
 

@@ -217,6 +217,7 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:19, 29; the plunder refused and the enticing neighbour.
 - [[A Gentle Answer]] — Proverbs 15:27 takes 1:19's *greedy for gain* into the household.
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17–18; *"hands that
   shed innocent blood … feet that are swift in running to mischief"*, the gang's verbs of 1:16 in

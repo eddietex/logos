@@ -128,3 +128,10 @@ for word in the WEB at 18:12, and 22:4 names *"humility and the fear of Yahweh"*
 the sentence collection the motto acquires a partner virtue. The same chapter ranks a little *"with the
 fear of Yahweh"* above great treasure (15:16). This page makes no claim about the Hebrew verb of 15:33.
 Source: stored WEB Proverbs 1:7; 9:10; 15:16, 33; 18:12; 22:4.
+
+### Departing from evil — Proverbs 16:6
+
+[[The Plans of the Heart]] gives the motto's second half as a sentence of its own: *"By the fear of
+Yahweh men depart from evil"* (16:6), the conduct Job 28:28 pairs with it (*"to depart from evil is
+understanding"*). Verse 17 makes it a road: *"The highway of the upright is to depart from evil."*
+Source: stored WEB Proverbs 16:6, 17; Job 28:28.

@@ -116,7 +116,15 @@ See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Health to the bones — Proverbs 16:24
+
+*"Pleasant words are a honeycomb, sweet to the soul, and health to the bones"* (24), after 15:30's good news that *"gives health to the bones"*.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:24.
 
 - [[A Gentle Answer]] — Proverbs 15:4, 30.
 

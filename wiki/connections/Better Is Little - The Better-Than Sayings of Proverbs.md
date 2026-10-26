@@ -12,11 +12,11 @@ tags: [connection]
 - **Proverbs 15:17** — *"Better is a dinner of herbs, where love is, than a fattened calf with hatred."* —
   [[A Gentle Answer]]
 - **Proverbs 16:8** — *"Better is a little with righteousness, than great revenues with injustice."*
-  *(not yet ingested)*
+  — [[The Plans of the Heart]]
 - **Proverbs 16:19** — *"It is better to be of a lowly spirit with the poor, than to divide the plunder with
-  the proud."* *(not yet ingested)*
+  the proud."* — [[The Plans of the Heart]]
 - **Proverbs 16:32** — *"One who is slow to anger is better than the mighty; one who rules his spirit, than
-  he who takes a city."* *(not yet ingested)*
+  he who takes a city."* — [[The Plans of the Heart]]
 - **Proverbs 17:1** — *"Better is a dry morsel with quietness, than a house full of feasting with strife."*
   *(not yet ingested)*
 - **Proverbs 19:1** — *"Better is the poor who walks in his integrity than he who is perverse in his lips
@@ -66,3 +66,13 @@ The better-than form is the strongest textual evidence that Proverbs itself does
 guarantees, and so the strongest support for the wiki's practice of reading the sentence collection
 alongside Job rather than against it. It connects [[Wealth and Possessions]], [[The Fear of God]],
 [[Integrity]], and [[The Poor and the Vulnerable]].
+
+### Three in one chapter — Proverbs 16:8, 19, 32
+
+[[The Plans of the Heart]] brings three more into the wiki. *"Better is a little with righteousness, than
+great revenues with injustice"* (16:8) repeats 15:16's concession with *righteousness* in the place of
+*the fear of Yahweh*. *"It is better to be of a lowly spirit with the poor, than to divide the plunder
+with the proud"* (16:19) sets humility-with-poverty against the gang's plunder of 1:13. And *"One who is
+slow to anger is better than the mighty; one who rules his spirit, than he who takes a city"* (16:32)
+moves the form from goods to power: self-rule ranks above conquest. Source: stored WEB Proverbs 1:13;
+15:16; 16:8, 19, 32.

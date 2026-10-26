@@ -352,7 +352,15 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Revenues, gold, and plunder — Proverbs 16:8, 11, 16, 19
+
+Little with righteousness above great revenues with injustice (8); the weights in the bag are Yahweh's work (11); wisdom better than gold (16); and the lowly poor above those who divide plunder (19). See [[Better Is Little - The Better-Than Sayings of Proverbs]].
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:8, 11, 16, 19.
 
 - [[A Gentle Answer]] — Proverbs 15:6, 16–17, 27.
 

@@ -2115,6 +2115,19 @@ these are general statements of his character. See
 [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 15;
 Exodus 22:22–23; Job 42:8.
 
+### The answer, the step, and the lot — Proverbs 16
+
+[[The Plans of the Heart]] names Yahweh eleven times (16:1–7, 9, 11, 20, 33), most of them in its
+opening group. He gives *"the answer of the tongue"* (1), *"weighs the motives"* (2), establishes the
+plans of those who commit their works to him (3), and *"has made everything for its own end— yes, even
+the wicked for the day of evil"* (4). Iniquity is atoned for *"by mercy and truth"* (6), the *ḥesed
+we'ĕmet* of his self-proclamation at Exodus 34:6 (Hebrew from Sefaria). He directs the steps a man's
+heart has planned (9), owns the honest weights (11), blesses those who trust him (20), and gives the
+lot its *"every decision"* (33). No act is narrated; these are statements of his rule over outcomes.
+See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]] and
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]]. Source: stored WEB Proverbs
+16; Exodus 34:6.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2387,6 +2400,8 @@ Exodus 22:22–23; Job 42:8.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The Plans of the Heart]] — Proverbs 16:1–7, 9, 11, 20, 33; answering the tongue, weighing motives, directing steps, deciding the lot.
 
 - [[A Gentle Answer]] — Proverbs 15:3, 8–9, 11, 16, 25–26, 29, 33; all-seeing, delighting in the upright's prayer, keeper of the widow's borders.
 

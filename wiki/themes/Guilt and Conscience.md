@@ -88,7 +88,15 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 - ***"Godly sorrow produces repentance … but the sorrow of the world produces death"*** (2 Corinthians
   7:10) — **the distinction between the brothers and Reuben, stated as doctrine.**
 
+### Clean in his own eyes — Proverbs 16:2, 25
+
+*"All the ways of a man are clean in his own eyes; but Yahweh weighs the motives"* (2): the conscience's verdict is not final. Verse 25 repeats 14:12 word for word — the way *"which seems right to a man"* ends in death. Job asked to be *"weighed in an even balance"* (Job 31:6) because he trusted the weighing.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:2, 25.
 
 - Genesis 3:8–13 — hiding, and two deflections — [[The Fall]]
 - Genesis 4:7–13 — sin crouching, and a denial — [[Cain and Abel]]

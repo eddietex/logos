@@ -251,6 +251,7 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:6's *mercy and truth* (3:3) and 16:20's blessing on trust (3:5).
 - [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] — 3:11–12's fatherly reproof carried into 13:24 and later Proverbs.
 - [[Keep Your Heart]] — Proverbs 4:21–22, 27; teaching kept in the heart as health to the body, and the
   foot removed from evil (compare 3:1, 7–8).

@@ -200,7 +200,15 @@ Yahweh *"loves him who follows after righteousness"* (9) — righteousness as so
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The throne and the grey head — Proverbs 16:8, 12, 31
+
+A little with righteousness is better than great revenues with injustice (8); *"the throne is established by righteousness"* (12); and grey hair *"is attained by a life of righteousness"* (31) — literally *in the way of righteousness*, *bədereḵ ṣədāqâ* (Hebrew from Sefaria).
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:8, 12–13, 17, 31.
 
 - [[A Gentle Answer]] — Proverbs 15:6, 9, 19, 28–29.
 

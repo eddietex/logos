@@ -169,7 +169,15 @@ verbs *nāṣar* and *šāmar* of 2:8 again. **God's protection arrives as wisdo
 is *ṣāp̄an*, the verb of the son's *store up* (2:1). See [[If You Seek Her as Silver]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Man plans, Yahweh directs — Proverbs 16:1, 3–4, 9, 33
+
+The chapter is framed by the division between plan and outcome: the heart's arrangements and the tongue's answer (1), the planned course and the directed steps (9), the cast lot and its decision (33). Verse 3 joins them — committed works make the plans stand — and verse 4 extends the ordering to everything, *"even the wicked for the day of evil"*. Joseph's *"God meant it for good"* (Genesis 50:20) is the narrative the sayings compress. See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]] and [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]].
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:1, 3–4, 9, 33.
 
 - [[The Wager in Heaven and the Four Messengers]] — ***"Yahweh gave, and Yahweh has taken away"***
   (1:21), **said of four events of which two were armed robbery.** Job names neither the Sabeans nor

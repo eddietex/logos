@@ -324,7 +324,15 @@ The gentle tongue is *"a tree of life"* (4); *"whoever hates reproof shall die"*
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The king's face and the fountain — Proverbs 16:14–15, 22, 25
+
+The king's wrath is *"a messenger of death"* and the light of his face *"is life"* (14–15); understanding is *"a fountain of life"* (22); and the way that seems right ends in death (25).
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:14–15, 22, 25.
 
 - [[A Gentle Answer]] — Proverbs 15:4, 10, 24, 27, 31.
 

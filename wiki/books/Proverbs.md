@@ -197,6 +197,15 @@ little, with the fear of Yahweh, than great treasure with trouble"* (16) — adm
 that put *"much treasure"* in the righteous house (6) that the righteous may have little. It ends on
 *"The fear of Yahweh teaches wisdom. Before honor is humility"* (33).
 
+[[The Plans of the Heart]] (16:1–33) is framed by plan and outcome: *"The plans of the heart belong to
+man, but the answer of the tongue is from Yahweh"* (1), *"A man's heart plans his course, but Yahweh
+directs his steps"* (9), and *"The lot is cast into the lap, but its every decision is from Yahweh"*
+(33). Its opening verses name Yahweh in all but one of the first nine, and include the hardest line in
+the collection, *"even the wicked for the day of evil"* (4), and atonement *"by mercy and truth"* (6).
+It holds the first cluster of royal sayings (10–15) — *"In the light of the king's face is life"* —
+and the book's best-known line, *"Pride goes before destruction"* (18). Verse 25 repeats 14:12 word for
+word.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -252,7 +261,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Hope Deferred]] — Proverbs 13:1–25
 - [x] [[A Way That Seems Right]] — Proverbs 14:1–35
 - [x] [[A Gentle Answer]] — Proverbs 15:1–33
-- [ ] The Plans of the Heart — Proverbs 16:1–33
+- [x] [[The Plans of the Heart]] — Proverbs 16:1–33
 - [ ] A Dry Morsel with Quietness — Proverbs 17:1–28
 - [ ] A Strong Tower — Proverbs 18:1–24
 - [ ] Better Is the Poor Who Walks in Integrity — Proverbs 19:1–29
@@ -306,6 +315,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
 - [[Hope]] — *"Hope deferred makes the heart sick"* (13:12)
 - [[Prayer]] — *"the prayer of the upright is his delight"* (15:8)
+- [[Providence]] — *"A man's heart plans his course, but Yahweh directs his steps"* (16:9)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19); *"the commandment is a
   lamp"* (6:23)

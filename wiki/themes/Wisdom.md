@@ -390,7 +390,15 @@ The wise spread knowledge (2, 7), the understanding heart seeks it (14), and the
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Better than gold — Proverbs 16:16, 20–23
+
+*"How much better it is to get wisdom than gold!"* (16); the wise man pacifies a king's wrath (14); understanding is *"a fountain of life"* (22), and the wise heart instructs the mouth (23). See [[Better Than Gold - The Price of Wisdom]].
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:14, 16, 20–23.
 
 - [[A Gentle Answer]] — Proverbs 15:2, 7, 12, 14, 20–22, 24, 31, 33.
 

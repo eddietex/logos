@@ -81,6 +81,14 @@ it for thirty-five chapters. **The Bible gives the formula to the man who was pr
 man who was never promised anything**, which is roughly what [[The Prosperity of the Wicked]] and
 [[Job (person)]] are already about.
 
+### A crown of glory — Proverbs 16:31
+
+[[The Plans of the Heart]] gives the general form of Abraham's promise: *"Gray hair is a crown of glory.
+It is attained by a life of righteousness"* (Proverbs 16:31). Genesis 25:8's *"good old age"* is that
+saying kept in one life; Jacob's *"you will bring down my gray hairs with sorrow to Sheol"* (Genesis
+42:38; 44:29) is the fear that it might not be. Source: stored WEB Proverbs 16:31; Genesis 15:15; 25:8;
+42:38; 44:29.
+
 ## Significance
 
 **It is the smallest promise in the Abraham cycle and the only one fulfilled inside it.**

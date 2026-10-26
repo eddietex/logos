@@ -59,6 +59,14 @@ Yahweh"*, and will use it of pride (*"Everyone who is proud in heart is an abomi
 Yahweh"*, 16:5), of a false balance (11:1), and of lying lips (12:22). The vocabulary moves from law to the
 character of the lawgiver: the seven are not merely illegal, they are what God cannot bear.
 
+### The worthless man again — Proverbs 16:5, 27–30
+
+[[The Plans of the Heart]] calls the proud in heart *"an abomination to Yahweh"* (16:5), the first of
+the seven in 6:17 being *"haughty eyes"*, and draws again the *"worthless person"* of 6:12–14 — devising
+mischief, stirring strife, separating friends, winking his eyes *"to plot perversities"* (16:27–30). The
+portrait that introduced the seven abominations returns, in sayings, without the list. Source: stored
+WEB Proverbs 6:12–19; 16:5, 27–30.
+
 ## Significance
 
 The list gives Proverbs' moral teaching a fixed shape early, before the sentence collections

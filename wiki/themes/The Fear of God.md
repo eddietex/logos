@@ -202,7 +202,15 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Departing from evil — Proverbs 16:6
+
+*"By the fear of Yahweh men depart from evil"* (6), the second half of the atonement saying, joins the fear of God to the conduct Job 1:1 and 28:28 attach to it. Verse 17 makes departing from evil *"the highway of the upright"*.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:6, 17.
 
 - [[A Gentle Answer]] — Proverbs 15:16, 33.
 

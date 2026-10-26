@@ -200,7 +200,15 @@ The way of the wicked is an abomination and the pursuer of righteousness is love
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The directed step and the highway — Proverbs 16:9, 17, 25, 29
+
+The heart plans the course but Yahweh directs the step (9); departing from evil is *"the highway of the upright"* (17); the way that seems right ends in death (25); and the man of violence leads his neighbour *"in a way that is not good"* (29).
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:7, 9, 17, 25, 29.
 
 - [[A Gentle Answer]] — Proverbs 15:9–10, 19, 21, 24.
 

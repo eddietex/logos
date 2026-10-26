@@ -211,6 +211,7 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:1's *answer of the tongue*, 16:6 after 15:8, and 16:18 after 15:33.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1, near-repeated at 15:20.
 - [[A False Balance]] — Proverbs 11:14's multitude of counselors, behind 15:22; 11:30's tree of life.
 - [[Whoever Loves Correction]] — Proverbs 12:1, 25; correction and the kind word.

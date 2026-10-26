@@ -118,7 +118,15 @@ particular act of belief.
 See [[A False Balance]]. Source: stored WEB Proverbs 11; comparisons are documented on the passage
 and connection pages.
 
+### Commit and trust — Proverbs 16:3, 20
+
+*"Commit your deeds to Yahweh"* (3) — *gōl*, *roll*, the imperative of Psalm 37:5 (Hebrew from Sefaria) — and *"Whoever trusts in Yahweh is blessed"* (20), the blessing on 3:5's trust.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:3, 20.
 
 - [[A False Balance]] — Proverbs 11:28.
 

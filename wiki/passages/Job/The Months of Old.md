@@ -193,6 +193,7 @@ the young who hid from him now mock him (30:1), the nobles' silence becomes spit
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:15, the light of the king's face and the spring rain of Job 29:23–24.
 - [[Job of Uz]] — Job 1:1–5: the verdict *"blameless and upright"*, the wealth, the *"greatest of all
   the children of the east"*, and the children feasting — the life chapter 29 remembers from inside.
 - [[Eliphaz's First Speech]] — Job 4:3–4, Job's past kindness attested by his accuser; and 5:26, the

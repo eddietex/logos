@@ -220,6 +220,7 @@ chapter 39, and the ordination itself is prescribed in chapter 29.
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:33, the lot's *mišpāṭ*.
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The wise-hearted garment makers belong
   to a wider company whose gifts include teaching and textile work.
 

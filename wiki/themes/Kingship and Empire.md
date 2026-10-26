@@ -94,7 +94,15 @@ the WEB's *"of the earth"* reflects a reading the wiki has not traced. See
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### The king's lips and face — Proverbs 16:10–15
+
+The collection's first royal cluster: inspired judgments on the king's lips (10), wrongdoing an abomination for kings because *"the throne is established by righteousness"* (12), truthful lips their delight (13), their wrath *"a messenger of death"* (14), and *"In the light of the king's face is life. His favor is like a cloud of the spring rain"* (15). Job used the same two images of himself in the months of old (Job 29:23–25). See [[The Light of the King's Face - Proverbs 16.15 and Job 29.23-25]].
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:10, 12–15.
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; a king's book — wisdom attached to the throne of
   [[Solomon]], *"the son of David, king of Israel"*, and to the justice 1 Kings 3:9 says he asked a heart

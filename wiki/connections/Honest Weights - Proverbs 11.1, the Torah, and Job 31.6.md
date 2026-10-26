@@ -10,6 +10,7 @@ tags: [connection]
 - [[A False Balance]] — Proverbs 11:1, 3, 20.
 - [[Job's Oath of Innocence]] — Job 31:5–8.
 - Leviticus 19:35–36 and Deuteronomy 25:13–16 — WEB verified; books not yet ingested.
+- [[The Plans of the Heart]] — Proverbs 16:2, 11.
 - Proverbs 20:10, 23 — stored WEB; not yet ingested.
 
 ## Analysis
@@ -35,6 +36,16 @@ dishonesty.
 Sources: Proverbs 11:1–3, 20; 20:10, 23 and Job 2:3; 31:5–8 checked in stored WEB. Leviticus
 19:35–36 and Deuteronomy 25:13–16 checked through bible-api.com with `translation=web`, 2026-10-25.
 No new Hebrew-equivalence claim is made.
+
+### The weights are Yahweh's — Proverbs 16:2, 11
+
+[[The Plans of the Heart]] goes a step past 11:1. There a false balance was an abomination to Yahweh;
+here *"Honest balances and scales are Yahweh's; all the weights in the bag are his work"* (16:11) — the
+scales are *mōʾzənê mišpāṭ*, *scales of justice* (Hebrew from Sefaria). And the weighing is turned on
+people: *"All the ways of a man are clean in his own eyes; but Yahweh weighs the motives"* (16:2), the
+weighing Job asked for in 31:6. Proverbs 21:2 and 24:12 repeat it with *hearts*. 1 Samuel 2:3 says the
+same: *"By him actions are weighed"* (WEB at bible-api.com; not yet ingested). Source: stored WEB
+Proverbs 11:1; 16:2, 11; 21:2; 24:12; Job 31:6.
 
 ## Significance
 

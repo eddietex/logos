@@ -160,6 +160,7 @@ wiki’s interpretation; the verses do not state their own exception clauses. Se
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:11, the honest weights Yahweh's own; 16:18 after 11:2.
 - [[A Gentle Answer]] — Proverbs 15:22 repeats 11:14's *multitude of counselors*; 15:4 continues 11:30's tree of life.
 - [[Whoever Loves Correction]] — Proverbs 12 continues counsel, truthful speech, and the stability of righteousness.
 

@@ -177,7 +177,15 @@ The gentle answer *"turns away wrath"* (1), and *"one who is slow to anger appea
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Enemies at peace — Proverbs 16:7, 14, 28, 32
+
+Yahweh makes a pleasing man's enemies *"at peace with him"* (7); a wise man pacifies the king's wrath (14); the perverse man stirs strife and the whisperer separates friends (28); and the slow to anger is *"better than the mighty"* (32). See [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:7, 14, 28, 32.
 
 - [[A Gentle Answer]] — Proverbs 15:1, 18.
 

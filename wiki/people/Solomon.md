@@ -80,6 +80,10 @@ stored WEB Proverbs 10:1; 14:1–35.
 [[A Gentle Answer]] (Proverbs 15:1–33) continues the collection attributed to Solomon at 10:1. Solomon is
 not named, and no king appears in the chapter. Source: stored WEB Proverbs 10:1; 15:1–33.
 
+[[The Plans of the Heart]] (Proverbs 16:1–33) continues the collection attributed to Solomon at 10:1,
+and holds its first cluster of royal sayings (16:10–15). Solomon is not named, and the king of those
+sayings is a type rather than an identification. Source: stored WEB Proverbs 10:1; 16:1–33.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -89,6 +93,8 @@ not named, and no king appears in the chapter. Source: stored WEB Proverbs 10:1;
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[The Plans of the Heart]] — Proverbs 16:1–33; collection attribution only, from 10:1; the royal sayings of 16:10–15 are not about him by name.
 
 - [[A Gentle Answer]] — Proverbs 15:1–33; collection attribution only, from 10:1.
 

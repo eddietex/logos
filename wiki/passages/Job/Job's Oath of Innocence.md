@@ -242,6 +242,7 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:2, 11; Yahweh weighs the motives and owns the scales.
 - [[A False Balance]] — Proverbs 11:1, 24–28; the even balance, giving rather than withholding, and
   refusing to trust riches. See [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]] and
   [[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]].

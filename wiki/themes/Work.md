@@ -267,7 +267,15 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The labourer's appetite — Proverbs 16:26
+
+*"The appetite of the laboring man labors for him; for his mouth urges him on"* (26): hunger observed as the motive of work, without praise or blame.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:26.
 
 - [[A Gentle Answer]] — Proverbs 15:19.
 

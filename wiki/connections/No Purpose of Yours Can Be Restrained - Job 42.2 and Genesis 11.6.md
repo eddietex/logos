@@ -15,6 +15,7 @@ tags: [connection]
 - **Job 40:9** — *"Or do you have an arm like God? Can you thunder with a voice like him?"* — the question
   42:2 answers — [[Behemoth and Leviathan]]
 - **Genesis 18:14** — *"Is anything too hard for Yahweh?"* — [[Is Anything Too Hard for Yahweh]]
+- **Proverbs 16:1, 9** — the plans of the heart and Yahweh's directing of the steps — [[The Plans of the Heart]]
 
 ## Analysis
 
@@ -40,6 +41,14 @@ different subjects. Whether that is an allusion, a shared idiom, or a coincidenc
 *nothing is impossible for X* in the natural Hebrew for it, the text does not settle. What the pairing
 does is useful either way: it shows what Job's confession is *not*. Job is not saying God is strong. He is
 saying that the limitless purpose Babel reached for, and was stopped from having, is God's.
+
+### Plans and steps — Proverbs 16:1, 9
+
+[[The Plans of the Heart]] states as a general rule what Job 42:2 confesses: *"A man's heart plans his
+course, but Yahweh directs his steps"* (Proverbs 16:9), and Proverbs 19:21, *"There are many plans in a
+man's heart, but Yahweh's counsel will prevail."* Babel's plan (Genesis 11:6) is the human side of the
+same line, undone. See [[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]]. Source: stored WEB
+Proverbs 16:1, 9; 19:21; Job 42:2; Genesis 11:6.
 
 ## Significance
 

@@ -252,6 +252,7 @@ wisdom personified, without deciding more. 8:22–31 will say where she came fro
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:10–15, the king of 8:15 in sayings.
 - [[The Purpose of the Proverbs]] — Proverbs 1:3–6; equity, prudence to the simple, discretion to
   the young, and the riddles of the wise.
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; the first speech at the same gates, the same

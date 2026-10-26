@@ -23,7 +23,8 @@ tags: [connection]
   rubies"*; *"My fruit is better than gold, yes, than fine gold."* [[Wisdom Calls at the Gates]].
 - **Proverbs 8:18, 21** — *"With me are riches, honor, enduring wealth"*; *"I fill their treasuries."*
   [[Wisdom Calls at the Gates]].
-- **Proverbs 16:16** — *"How much better it is to get wisdom than gold!"* Not yet ingested.
+- **Proverbs 16:16** — *"How much better it is to get wisdom than gold! Yes, to get understanding is to
+  be chosen rather than silver."* [[The Plans of the Heart]].
 - **Proverbs 20:15** — *"There is gold and abundance of rubies; but the lips of knowledge are a rare
   jewel."* Not yet ingested.
 - **Psalm 19:10; 119:72** — the ordinances of Yahweh *"More to be desired … than gold, yes, than much
@@ -110,6 +111,14 @@ Job 28 says neither. The wiki's reading, an order of desires, is the one 1 Kings
 of Solomon, who asked for understanding and was given riches and honour besides. Source: stored WEB
 Proverbs 3:14–16; 8:10–21; 1 Kings 3:11–13 WEB at bible-api.com; Hebrew read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.
+
+### The price as an exclamation — Proverbs 16:16
+
+[[The Plans of the Heart]] puts the comparison as a cry rather than a statement: *"How much better it is
+to get wisdom than gold! Yes, to get understanding is to be chosen rather than silver"* (16:16). The
+verb is *get* (*acquire*), the imperative of 4:5–7 now an exclamation, and the chapter places it beside
+two *better than* sayings about money itself (16:8, 19). Source: stored WEB Proverbs 4:5–7; 16:8, 16,
+19.
 
 ## Significance
 

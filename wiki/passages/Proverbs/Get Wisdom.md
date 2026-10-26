@@ -105,6 +105,7 @@ not an identified location requiring a place page.
 
 ## Cross-references
 
+- [[The Plans of the Heart]] — Proverbs 16:31, the *crown of glory* of 4:9 given to grey hair.
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–9; both parents teach, and teaching adorns.
 - [[If You Seek Her as Silver]] — Proverbs 2:1–6; seeking wisdom and receiving God's gift.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1–3; retained teaching and the heart.

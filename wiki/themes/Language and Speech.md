@@ -251,7 +251,15 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The answer of the tongue — Proverbs 16:1, 21–24, 27–30
+
+The tongue's answer is from Yahweh (1), yet *"The heart of the wise instructs his mouth"* (23); pleasantness of lips *"promotes instruction"* (21), and *"Pleasant words are a honeycomb"* (24). The worthless man's speech is *"like a scorching fire"* (27), the whisperer *"separates close friends"* (28), and the compressed lips plot evil (30). Kings delight in righteous lips (13).
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:1, 10, 13, 21, 23–24, 27–28, 30.
 
 - [[A Gentle Answer]] — Proverbs 15:1–2, 4, 7, 14, 23, 26, 28.
 

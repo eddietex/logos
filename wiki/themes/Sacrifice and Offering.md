@@ -259,7 +259,15 @@ according to the Masorah*, 2026-10-25.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Atonement without an offering — Proverbs 16:6
+
+Proverbs 16:6 names the means of atonement as *"mercy and truth"*, not an offering, and 21:3 will say *"To do righteousness and justice is more acceptable to Yahweh than sacrifice."* Neither verse abolishes sacrifice; both, with 15:8, measure it by the worshipper.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:6.
 
 - [[A Gentle Answer]] — Proverbs 15:8.
 

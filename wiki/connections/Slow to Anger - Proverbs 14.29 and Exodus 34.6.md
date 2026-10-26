@@ -11,7 +11,8 @@ tags: [connection]
 - [[The Covenant Renewed]] — Exodus 34:6, Yahweh's proclamation of his name.
 - [[A Gentle Answer]] — Proverbs 15:18, *"one who is slow to anger appeases strife"*, beside 15:1's gentle
   answer that *"turns away wrath"*.
-- Proverbs 16:32; 19:11 — later uses of the phrase; verified WEB, not yet ingested.
+- [[The Plans of the Heart]] — Proverbs 16:32, *"better than the mighty"*.
+- Proverbs 19:11 — a later use of the phrase; verified WEB, not yet ingested.
 
 ## Analysis
 
@@ -56,3 +57,11 @@ contention, but one who is slow to anger appeases strife"* (15:18). The chapter'
 same of speech — *"A gentle answer turns away wrath, but a harsh word stirs up anger"* (15:1) — so the
 slow to anger is the person from whom the gentle answer comes. The divine attribute of Exodus 34:6 is,
 in this chapter, a peacemaker's. Source: stored WEB Proverbs 15:1, 18; Exodus 34:6.
+
+### Better than the mighty — Proverbs 16:32
+
+[[The Plans of the Heart]] ranks the virtue against war: *"One who is slow to anger is better than the
+mighty; one who rules his spirit, than he who takes a city"* (16:32). The attribute Exodus 34:6 gives
+Yahweh is here set above the warrior's, and the parallel line names it as rule over one's own spirit.
+In the same chapter Yahweh's *ḥesed we'ĕmet*, the next words of Exodus 34:6, is the means of atonement
+(16:6; Hebrew from Sefaria). Source: stored WEB Proverbs 16:6, 32; Exodus 34:6.

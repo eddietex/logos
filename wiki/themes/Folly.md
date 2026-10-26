@@ -168,7 +168,15 @@ The fool's mouth *gushes out* folly (2) and *feeds on* it (14); he despises his 
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### Folly as its own punishment — Proverbs 16:22
+
+*"The punishment of fools is their folly"* (22): the consequence is not added from outside but is the condition itself.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:22.
 
 - [[A Gentle Answer]] — Proverbs 15:2, 5, 7, 14, 20–21.
 

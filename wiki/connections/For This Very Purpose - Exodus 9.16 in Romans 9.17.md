@@ -113,6 +113,15 @@ Romans 9:14–18 was checked against bible-api.com’s WEB response on 2026-10-2
 is of the verified English texts; it makes no additional claim about Greek wording or the
 Septuagint.
 
+### Proverbs 16:4
+
+[[The Plans of the Heart]] has the sentence collection's general form of the claim: *"Yahweh has made
+everything for its own end— yes, even the wicked for the day of evil"* (Proverbs 16:4). The Hebrew
+*lammaʿănēhû* can be read *for its purpose* or *for his purpose* (Sefaria's *Miqra according to the
+Masorah*); the WEB takes the first. Either way the verse places the wicked inside Yahweh's ordering, as
+Exodus 9:16 places Pharaoh, without saying how either came to be wicked. Source: stored WEB Proverbs
+16:4; Exodus 9:16.
+
 ## Significance
 
 - **It is the New Testament's clearest use of Pharaoh**, and it uses him as the example of being

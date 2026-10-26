@@ -166,7 +166,15 @@ that passage page.
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Mercy and truth — Proverbs 16:6
+
+*"By mercy and truth iniquity is atoned for"* — the *ḥesed we'ĕmet* bound round the son's neck at 3:3 and proclaimed of Yahweh at Exodus 34:6 (Hebrew from Sefaria; the WEB's English differs in each). The verse leaves open whether the mercy is God's or the penitent's.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:6.
 
 - [[Whoever Loves Correction]] — Proverbs 12:10, 18, 25.
 

@@ -16390,3 +16390,61 @@ Job 1:1, 3, 5; 2:9; 15:11; 16:2, 5; 19:2; 24:1–3; 26:6; 42:8–9; and Exodus 2
 Deuteronomy 19:14; 27:17, 1 Samuel 15, and Hosea 6 are cited by reference only, not quoted. No unreached
 book was fetched, and no exact Hebrew or Greek claim was made. `scripts/link-check.sh` ran at the end of
 the pass and exited 0.
+
+## [2026-10-25] ingest | Proverbs 16.1-33 — The Plans of the Heart
+
+Ingested [[The Plans of the Heart]]. The planned Proverbs 16:1–33 boundary is kept, and only this one
+queue item moves forward. Because the run was unattended, the passage page carries the discussion. It
+covers the frame of plan and outcome (1, 9, 33). It covers Yahweh weighing the motives (2), the
+committed works (3), and *"even the wicked for the day of evil"* (4). It covers atonement *"by mercy and
+truth"* (6) and the collection's first cluster of royal sayings (10–15). It also covers *"Pride goes
+before destruction"* (18), the doublet of 14:12 at 16:25, the worthless man (27–30), grey hair as a
+crown (31), self-rule above conquest (32), and the lot (33).
+
+**Interpretive decisions.** 16:4's *lammaʿănēhû* is noted as ambiguous between *its* and *his*
+purpose. The verse is read as a claim about how far providence reaches, not as a doctrine of how the
+wicked became wicked. 16:6 is read as giving the means of atonement without saying whose mercy and
+truth are meant. The page notes that *qesem* (16:10) is used elsewhere for divination, but marks this
+as unchecked in this pass. The king of 16:10–15 is a type, not Solomon. The tension between 16:7, 20,
+31 and Job 1 is written out explicitly. No new people or places. Generic figures get no pages.
+
+**Created (4):** [[The Plans of the Heart]];
+[[Man Plans, Yahweh Directs - Proverbs 16.1, 9 and 19.21]];
+[[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]];
+[[The Light of the King's Face - Proverbs 16.15 and Job 29.23-25]].
+
+**Revised content pages (49):** [[Proverbs]]; [[God]]; [[Solomon]]; 21 themes —
+[[Providence]], [[Pride and Self-Exaltation]], [[Kingship and Empire]], [[Atonement]],
+[[Sacrifice and Offering]], [[Compassion and Mercy]], [[The Fear of God]], [[Guilt and Conscience]],
+[[Judgment]], [[Language and Speech]], [[Wisdom]], [[Folly]], [[Righteousness]],
+[[Wealth and Possessions]], [[Strife and Peacemaking]], [[Faith]], [[Walking with God]],
+[[Life and Death]], [[Healing]], [[Work]], and [[Retribution]]; eleven existing connections —
+[[Better Is Little - The Better-Than Sayings of Proverbs]], [[Better Than Gold - The Price of Wisdom]],
+[[Slow to Anger - Proverbs 14.29 and Exodus 34.6]],
+[[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]],
+[[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]],
+[[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]],
+[[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]],
+[[For This Very Purpose - Exodus 9.16 in Romans 9.17]],
+[[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]],
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]], and
+[[No Purpose of Yours Can Be Restrained - Job 42.2 and Genesis 11.6]]; and fourteen earlier passage
+pages that got reciprocal links: [[A Way That Seems Right]], [[A Gentle Answer]], [[A False Balance]],
+[[Trust in Yahweh with All Your Heart]], [[Get Wisdom]],
+[[The Surety, the Sluggard, and the Seven Abominations]], [[Do Not Consent to Sinners]],
+[[Wisdom Calls at the Gates]], [[The Months of Old]], [[Job's Oath of Innocence]],
+[[Why Do the Wicked Live]], [[The Deaths of Jacob and Joseph]], [[The Covenant Renewed]], and
+[[The Priestly Garments]].
+
+**Indexes and totals.** Revised the books index (24 / 43 pericopes), the wiki dashboard, the themes
+index, People Index F-M and N-Z, and every Connections subindex that holds an updated row, plus three
+new rows in I-N. Counts by frontmatter: 168 passages, 179 people, 90 places, 83 themes, 436
+connections. Four books are started and three are complete.
+
+**Sources and validation.** All Proverbs, Job, Genesis, and Exodus quotations are copied from stored
+WEB. These verses were quoted after checking the WEB at bible-api.com, without fetching their books:
+Leviticus 16:8; 19:32; Joshua 18:10; 1 Samuel 2:3; Psalm 37:5; Isaiah 14:13–15; Jeremiah 10:23–24;
+Jonah 1:7; James 4:13–15; Acts 1:24–26. Hebrew claims rest on Sefaria's *Miqra according to the
+Masorah*, read 2026-10-25, for Proverbs 3:3; 4:9; 16:1–4, 6, 9–12, 15, 31, 33; 18:18; 21:2; 24:12;
+Psalm 37:5; Jeremiah 10:23; Job 29:23–24; Exodus 28:30; 34:6. The passage page's Notes list exactly
+which claims rest on it. `scripts/link-check.sh` ran at the end of the pass and exited 0.

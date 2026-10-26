@@ -323,7 +323,15 @@ Chapter 15 states retribution in its classic form — treasure in the righteous 
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### The wicked for the day of evil — Proverbs 16:4–5, 7, 18, 31
+
+Yahweh made *"even the wicked for the day of evil"* (4); the proud *"shall certainly not be unpunished"* (5); pride goes before destruction (18); enemies are made peaceful for the man who pleases Yahweh (7), and grey hair is righteousness' reward (31). The chapter's frame qualifies them: if *"Yahweh weighs the motives"* (2) and the lot's decision is his (33), the outcome of a single life is his to assign — the ground on which Job's case could not be judged from outside.
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:4–5, 7, 18, 31.
 
 - [[A Gentle Answer]] — Proverbs 15:6, 10, 25, 27.
 

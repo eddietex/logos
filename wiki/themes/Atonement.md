@@ -95,7 +95,15 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### Atoned by mercy and truth — Proverbs 16:6
+
+*"By mercy and truth iniquity is atoned for"* uses the passive *yəkuppar* of the root *kpr* (Hebrew from Sefaria), with *ḥesed we'ĕmet* — the pair of Exodus 34:6 — as the means rather than a sacrifice. Whose mercy and truth is not said. The sentence collection's view of offerings is consistent with it: the wicked man's sacrifice is an abomination (15:8), and righteousness is preferred to sacrifice (21:3).
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:6.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The silver prescribed as atonement money becomes sockets and fittings.
 

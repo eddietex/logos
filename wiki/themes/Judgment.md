@@ -314,7 +314,15 @@ present circumstances.
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Mišpāṭ: king, scales, and lot — Proverbs 16:2, 10–11, 33
+
+Yahweh weighs the motives (2); the king's lips give judgment (10); the *"scales of justice"* are Yahweh's (11); and the lot's every *mišpāṭ* is from him (33) — the word of Exodus 28:30's *"breastplate of judgment"* (Hebrew from Sefaria). See [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]].
+
+See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
+
 ## Key passages
+
+- [[The Plans of the Heart]] — Proverbs 16:2, 10–11, 33.
 
 - [[Whoever Loves Correction]] — Proverbs 12:2, 7, 19, 21–22.
 
