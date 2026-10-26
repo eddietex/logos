@@ -181,6 +181,12 @@ checked in stored WEB, 2026-10-25.
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Love and faithfulness for those who plan good — Proverbs 14:22
+
+*"Love and faithfulness belong to those who plan good"* (22), while those who plot evil go astray.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:24.

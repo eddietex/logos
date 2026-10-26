@@ -165,6 +165,12 @@ Proverbs 13:10 traces quarrels to pride and sets against them the wisdom of thos
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Slow to anger — Proverbs 14:17, 29
+
+The quick-tempered commit folly (17); *"He who is slow to anger has great understanding"* (29). The phrase is, in the WEB, the one Exodus 34:6 uses of Yahweh. See [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:10.

@@ -12,6 +12,7 @@ tags: [connection]
 - Numbers 14:17–23 — Moses appeals to the proclamation; verified WEB, not yet ingested.
 - Jonah 4:1–3 — Jonah's protest against mercy; verified WEB, not yet ingested.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3, *kindness and truth* as a charge to the son.
+- [[A Way That Seems Right]] — Proverbs 14:29, *slow to anger* as human understanding; see [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
 
 ## Analysis
 

@@ -340,6 +340,12 @@ Wealth can be pretended (7), can ransom a life while making its owner a target (
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Friends of the rich — Proverbs 14:20, 23–24
+
+*"The rich person has many friends"* while the poor is shunned (20) — observed, not approved, as verse 21 shows. Work profits (23), and *"The crown of the wise is their riches"* (24). See [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:7–8, 11, 18, 21–23.

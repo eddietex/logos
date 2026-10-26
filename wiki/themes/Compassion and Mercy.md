@@ -160,6 +160,12 @@ Healing speech and a word that lightens anxiety extend this attention to human h
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
 
+### Pity for the poor honours the Maker — Proverbs 14:21, 31
+
+*"Blessed is he who has pity on the poor"* (21), and kindness to the needy *honors* the Maker (31), so mercy toward the poor is counted as an act toward God. Verse 29's *"slow to anger"* is, in the WEB, the phrase of Exodus 34:6; see [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Whoever Loves Correction]] — Proverbs 12:10, 18, 25.

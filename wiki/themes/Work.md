@@ -255,6 +255,12 @@ The sluggard *desires* and has nothing while the diligent is satisfied (4); weal
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### The ox and the stall — Proverbs 14:4, 23
+
+*"Where no oxen are, the crib is clean, but much increase is by the strength of the ox"* (4): productive work brings mess with it, and the saying prefers the harvest. *"In all hard work there is profit"* (23), against mere talk.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:4, 11, 23.

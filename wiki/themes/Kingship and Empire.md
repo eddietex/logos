@@ -88,6 +88,12 @@ wisdom establishing them. Where the Masoretic text has *šōp̄əṭê ṣeḏeq
 the WEB's *"of the earth"* reflects a reading the wiki has not traced. See
 [[Wisdom Calls at the Gates]] and [[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The king's glory and the king's favor — Proverbs 14:28, 35
+
+*"In the multitude of people is the king's glory"* (28): a ruler's honour depends on his people. The king favours the servant who deals wisely and turns his wrath on one who causes shame (35). The king is a type, not an identified ruler.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; a king's book — wisdom attached to the throne of

@@ -75,6 +75,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Come, Let Us - Babel's Bricks and Pharaoh's]] | allusion | Genesis 11:3–4, 8 · Exodus 1:10, 14 · Exodus 5:7–19 |
 | [[Comfort from the Cursed Ground - Naming Noah]] | thread | Genesis 3:17–19 · Genesis 5:28–29 · Genesis 8:20–22 · Genesis 9:20–21 · Psalm 104:15 |
 | [[Comforters Who Do Not Comfort]] | thread | Job 2:11 · Job 16:2 · Job 21:34 · Job 42:6 · Job 42:11 · Job 6:14–15; 13:4–5 · Genesis 37:35 · Psalm 69:20 · Lamentations 1:2, 9, 16, 17, 21 · Ecclesiastes 4:1 · Isaiah 40:1 · 2 Corinthians 1:3–4 · Job 11:16 · Job 21:2, 5 · Job 15:11 · Job 30:25, 31 · [[Whoever Loves Correction]] (Proverbs 12:18, 25) |
+| [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]] | thematic-parallel | [[A Way That Seems Right]] (Proverbs 14:31); Proverbs 17:5; [[Job's Oath of Innocence]] (Job 31:13–16) |
 | [[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]] | thread | Exodus 29:38–42 · Numbers 28:1–8 · Daniel 8:11–13 |
 | [[Counsel and Might - Job 12.13, Proverbs 8.14, and Isaiah 11.2]] | thread | Job 12:13, 17–18 · Proverbs 8:12–16 · Isaiah 11:2, 4 · 1 Corinthians 1:24 · [[Though He Slay Me]] (Job 12:1–14:22) · [[Wisdom Calls at the Gates]] (Proverbs 8:1–21) |
 | [[The Covenant Signs - Rainbow, Circumcision, and Sabbath]] | parallel | Genesis 9:8–17 · Genesis 17:7–14 · Exodus 31:12–17 · Ezekiel 20:12, 20 · [[Bezalel, Oholiab, and the Sabbath Sign]] |

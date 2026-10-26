@@ -327,6 +327,7 @@ missing him.
   have against him?"*
 - [[Zophar's First Speech]] — Job 11:16, *"like waters that have passed away"*: 6:15's failing brook turned into a
   promise; and 11:12's wild donkey, the animal of 6:5.
+- [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]] — 7:11's *"bitterness of my soul"* beside Proverbs 14:10 in [[A Way That Seems Right]].
 
 ## Notes
 

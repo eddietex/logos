@@ -378,6 +378,12 @@ The wise son *listens* (1); wisdom is *"with ones who take advice"* (10); the te
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Building, discernment, and the way that seems right — Proverbs 14:1, 6, 8, 16, 18, 24, 33
+
+The wise woman builds her house (1), echoing Wisdom's built house at 9:1. Knowledge *"comes easily to a discerning person"* while the scoffer seeks and fails (6); prudence is *"to think about his way"* (8), and the simple believe everything (15). Verse 12's *"way which seems right to a man"* that ends in death makes wisdom a distrust of one's own estimate, as 3:7 did.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:1, 10, 14, 16, 20.

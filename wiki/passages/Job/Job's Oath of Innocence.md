@@ -317,6 +317,7 @@ is the only comment the book ever makes on whether the oath was true.
   Proverbs' form of 31:9–12: [[The Neighbor's Door - Proverbs 5 and Job 31.9-12]].
 - [[The Young Man Void of Understanding]] — Proverbs 7:12; the woman herself *lurks* (*teʾĕrōḇ*), the verb of Job's *"laid
   wait at my neighbor's door"* (31:9).
+- [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]] — 31:15's servant made in the same womb, beside Proverbs 14:31's poor man and his Maker in [[A Way That Seems Right]].
 
 ## Notes
 

@@ -130,6 +130,12 @@ The poor *"hear no threats"* (8), and refusing discipline brings poverty (18). P
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Shunned, pitied, and made by God — Proverbs 14:20–21, 31
+
+Verse 20 observes that the poor are shunned even by neighbours; verse 21 rules that despising a neighbour is sin and pity for the poor is blessed. Verse 31 grounds the duty in creation: *"He who oppresses the poor shows contempt for his Maker, but he who is kind to the needy honors him."* See [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]] and [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:7–8, 18, 23.

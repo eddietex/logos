@@ -421,6 +421,7 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 - [[Zophar's First Speech]] — Job 11, the reply, built out of this speech's words: *yiṣdaq* (9:2 → 11:2), *mock* (9:23 →
   11:3), *passes by* and *who can hinder him* (9:11–12 → 11:10), the unlifted head (10:15 → 11:15),
   and the darkness (10:22 → 11:17).
+- [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]] — 10:1's *"bitterness of my soul"* beside Proverbs 14:10 in [[A Way That Seems Right]].
 
 ## Notes
 

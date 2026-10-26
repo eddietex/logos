@@ -239,6 +239,12 @@ The fruit of the lips feeds a man (2); *"He who guards his mouth guards his soul
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Witnesses and empty talk — Proverbs 14:3, 5, 7, 23, 25
+
+The fool's talk brings a rod (3); the truthful witness will not lie (5) and *"saves souls"* (25); no knowledge is found on a fool's lips (7); and *"the talk of the lips leads only to poverty"* where work profits (23). See [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:2–3, 5, 17.

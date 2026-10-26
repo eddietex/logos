@@ -113,6 +113,7 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
 - [[Little by Little - The Hornet, the Snare, and the Land Not Taken]]
 - [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]]
 - [[Creation as the Ground of the Sabbath Command]]
+- [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]] — the WEB's *slow to anger* of 34:6 commended as human understanding in [[A Way That Seems Right]] (Proverbs 14:29).
 
 ## Notes
 

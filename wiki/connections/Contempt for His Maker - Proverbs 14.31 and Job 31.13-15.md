@@ -1,0 +1,51 @@
+---
+type: connection
+subtype: thematic-parallel
+tags: [connection]
+---
+# Contempt for His Maker - Proverbs 14.31 and Job 31.13-15
+
+## Passages involved
+
+- [[A Way That Seems Right]] — Proverbs 14:31.
+- Proverbs 17:5 — the same thought restated; verified WEB, not yet ingested.
+- [[Job's Oath of Innocence]] — Job 31:13–16.
+
+## Analysis
+
+Proverbs 14:31 joins the treatment of the poor to the honour of God:
+
+> He who oppresses the poor shows contempt for his Maker, but he who is kind to the needy honors him.
+
+The argument runs through creation, not through law or covenant. The poor man is the work of a
+maker, and what is done to the work reaches the one who made it. *His Maker* in the WEB is most
+naturally the poor man's, so the saying says that God stands behind the poor as their creator; the
+honour in the second half is paid to the same Maker by kindness to the needy. Proverbs 17:5 says it
+again with mockery in place of oppression: *"Whoever mocks the poor reproaches his Maker."*
+
+**Job had already made this argument, and made it about his own household.** In his oath of
+innocence he swears that he did not despise the cause of his male or female servant when they
+contended with him (31:13), and gives his reason as a question about God and creation:
+
+> Didn't he who made me in the womb make him? Didn't one fashion us in the womb?
+
+Master and servant share one maker and one manner of making. Job draws from it a duty of justice in
+a dispute — a servant's complaint is to be heard — and moves directly to the poor and the widow
+(31:16). Proverbs states the principle as a sentence; Job states it as a sworn practice, from inside
+a relationship of power.
+
+**What the parallel shows, and what it does not.** Both passages ground the dignity of the poor and
+the dependent in their creation by God, which places the ethics of poverty under [[Creation]] as
+well as under [[Compassion and Mercy]]. Neither uses the word *image*, and neither cites Genesis 1:27;
+connecting them to the image of God is a theological inference the texts do not make. This is a
+shared idea between two wisdom books, not a quotation; no direction of dependence is claimed.
+
+Sources: Proverbs 14:31; 17:5; Job 31:13–16, all checked in the repository's stored WEB. No Hebrew
+wording is asserted.
+
+## Significance
+
+[[The Poor and the Vulnerable]] are defended here not by appeal to their merit but by appeal to
+their maker. The saying turns every act toward the poor into an act toward [[God]], which is the
+strongest form the collection gives to the duty of care, and it gives Job's oath a second witness
+from the book that follows it.

@@ -240,6 +240,12 @@ Wickedness *"overthrows the sinner"* (6), fools detest turning from evil (19), m
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Mocking atonement, despising a neighbour, disgracing a people — Proverbs 14:9, 21, 34
+
+Fools *"mock at making atonement for sins"* (9, WEB's rendering); despising a neighbour *"sins"* (21); and sin is *"a disgrace to any people"* (34).
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:6, 19, 21–22.

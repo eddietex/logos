@@ -262,6 +262,7 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 - Isaiah 26:19; Daniel 12:2 — the two Hebrew Bible texts that do speak plainly of the dead rising.
 - 1 Corinthians 15:12–57; 1 John 3:2 — *"we will see him just as he is"*, the New Testament's
   version of 19:26–27's hope of seeing.
+- [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]] — the estranged kin and friends of 19:13–19 beside Proverbs 14:20's shunned poor man in [[A Way That Seems Right]].
 
 ## Notes
 

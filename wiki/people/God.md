@@ -2090,6 +2090,16 @@ about his evaluation, not newly narrated acts or divine speech. Verse 21’s cla
 remains in explicit tension with God’s own declaration of Job’s undeserved ruin (Job 2:3). Source:
 stored WEB Proverbs 12; Job 2:3, 7.
 
+### Fortress, fountain, and the poor man's Maker — Proverbs 14
+
+[[A Way That Seems Right]] names Yahweh in 14:2, 26, and 27 and calls him the poor man's *Maker* in
+14:31. To walk uprightly is to fear him (2); his fear is *"a secure fortress"* and *"a fountain of
+life"* (26–27); and oppressing the poor *"shows contempt for his Maker"*, while kindness to the needy
+*"honors him"* (31). No divine act or speech is narrated: the chapter describes how a person stands
+toward him, and grounds the duty to the poor in his creating them. Whose children he is a refuge for
+in 14:26 is left open by the WEB. See [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]].
+Source: stored WEB Proverbs 14; Job 31:15.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2362,6 +2372,8 @@ stored WEB Proverbs 12; Job 2:3, 7.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[A Way That Seems Right]] — Proverbs 14:2, 26–27, 31; feared, a fortress and fountain of life, the poor man's Maker.
 
 - [[Whoever Loves Correction]] — Proverbs 12:2, 22; favor, condemnation, and delight in truthful conduct.
 

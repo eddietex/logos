@@ -195,6 +195,12 @@ The righteous hates lies (5). Verse 7 observes pretence in both directions — s
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### False witness and the fool's deceit — Proverbs 14:5, 8, 25
+
+The false witness *"pours out lies"* (5) and *"is deceitful"* (25); *"the folly of fools is deceit"* (8), making self-deception as much as deceiving others part of folly.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:5, 7.

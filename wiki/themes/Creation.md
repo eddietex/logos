@@ -141,6 +141,12 @@ there"* (8:27). Creation is accompanied by delight — *"rejoicing in his whole 
 which gives Genesis 1:31's *"very good"* a voice. See [[Wisdom at the Creation]] and
 [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]]. Source: stored WEB Proverbs 8; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### The poor man's Maker — Proverbs 14:31
+
+Proverbs 14:31 calls God the poor man's *Maker* and makes oppression of the poor contempt for him. The ethics of poverty are grounded in creation, as Job grounded his servants' rights in their making *"in the womb"* (Job 31:15). See [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–20; Earth, heavens, depths, and

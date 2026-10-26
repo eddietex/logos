@@ -25,6 +25,7 @@ tags: [connection]
 - **Proverbs 9:10** — *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One
   is understanding."* The same motto closing the book's first section, with *təḥillaṯ* for 1:7's
   *rēʾšîṯ* — [[The Two Feasts]]
+- **Proverbs 14:2, 16, 26–27** — the upright walk as fearing Yahweh (2); *"A wise man fears and shuns evil"* (16), close in the WEB's English to Job 1:1; and *"The fear of Yahweh is a fountain of life, turning people from the snares of death"* (27), the sentence 13:14 says of *"The teaching of the wise"* — [[A Way That Seems Right]]
 - **Proverbs 15:33** — *"The fear of Yahweh teaches wisdom."* Not yet ingested.
 - **Psalm 111:10** — *"The fear of Yahweh is the beginning of wisdom. All those who do his work have a
   good understanding."* Not yet ingested.

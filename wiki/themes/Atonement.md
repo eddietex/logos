@@ -89,6 +89,12 @@ freely donated wealth a general purchase of forgiveness.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### Fools mock at atonement — Proverbs 14:9
+
+*"Fools mock at making atonement for sins, but among the upright there is good will"* (9). This is the WEB's rendering of a line that English versions translate differently; no claim is made here about the Hebrew or about whether a sacrificial rite is in view.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The silver prescribed as atonement money becomes sockets and fittings.

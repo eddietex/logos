@@ -10,6 +10,7 @@ tags: [connection]
 - [[Whoever Loves Correction]] — Proverbs 12:5–6, 17, 19, 22.
 - [[The Ten Commandments]] — Exodus 20:16.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–8.
+- [[A Way That Seems Right]] — Proverbs 14:5, 25.
 
 ## Analysis
 
@@ -34,6 +35,7 @@ commands and cases. Neither comparison supplies an unstated penalty for every ki
 
 Sources: Proverbs 12:5–6, 17, 19, 22; Exodus 20:16; 23:1–8, all checked in the repository’s stored
 WEB. The verse quoted above is verbatim Proverbs 12:22; no Hebrew-word identity is asserted.
+**Proverbs 14 brackets a chapter with the witness.** *"A truthful witness will not lie, but a false witness pours out lies"* (14:5), and *"A truthful witness saves souls, but a false witness is deceitful"* (14:25). The second saying gives testimony the life-and-death weight Exodus 23:7 assumes when it protects the innocent from a false charge. Source: stored WEB Proverbs 14:5, 25.
 
 ## Significance
 

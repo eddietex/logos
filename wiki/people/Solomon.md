@@ -72,6 +72,11 @@ wife nor any other figure is identified as someone in his biography. Source: sto
 is not named in the unit, and the son and father it addresses are types, not figures in his
 biography. Source: stored WEB Proverbs 10:1; 13:1–25.
 
+[[A Way That Seems Right]] (Proverbs 14:1–35) continues the collection attributed to Solomon at
+10:1. Solomon is not named, and the king of 14:28 and 14:35, whose glory is a populous people and
+whose favour goes to a wise servant, is a type rather than an identification of Solomon. Source:
+stored WEB Proverbs 10:1; 14:1–35.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -81,6 +86,8 @@ biography. Source: stored WEB Proverbs 10:1; 13:1–25.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 
 ## Appears in
+
+- [[A Way That Seems Right]] — Proverbs 14:1–35; collection attribution only, from 10:1.
 
 - [[Hope Deferred]] — Proverbs 13:1–25; collection attribution only, from 10:1.
 

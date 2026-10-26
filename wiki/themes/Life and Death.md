@@ -312,6 +312,12 @@ The guarded mouth guards the soul (3); fulfilled longing is *"a tree of life"* (
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### A way to death, a fountain of life, a refuge in death — Proverbs 14:12, 27, 30, 32
+
+*"There is a way which seems right to a man, but in the end it leads to death"* (12; repeated at 16:25). The fear of Yahweh is *"a fountain of life"* (27); *"The life of the body is a heart at peace"* (30); and *"in death, the righteous has a refuge"* (32) — the WEB's reading, which some translations render differently; the alternative is not verified here. It stands beside Job 21:26's righteous and wicked lying *"alike in the dust"*.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:3, 12, 14.

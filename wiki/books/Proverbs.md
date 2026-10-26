@@ -177,6 +177,16 @@ all. The lamp of the wicked (9) and the sinner's wealth stored for the righteous
 Job's dialogue already uses (Job 18:5–6; 21:17; 27:16–17), and 13:23's productive field swept away
 by injustice is the chapter's own check on reading poverty as a verdict.
 
+[[A Way That Seems Right]] (14:1–35) opens with the wise woman who *"builds her house"* (1), Wisdom's
+house of 9:1 brought into an ordinary home, and names Yahweh again after chapter 13's silence: the
+fear of Yahweh is *"a secure fortress"* and *"a fountain of life"* (26–27), the latter repeating
+13:14's line about the teaching of the wise. Its title line, *"There is a way which seems right to a
+man, but in the end it leads to death"* (12), recurs at 16:25. The chapter grounds care for the poor
+in creation — oppressing them *"shows contempt for his Maker"* (31) — sets the shunned poor man (20)
+beside a ruling that despising him is sin (21), commends being *"slow to anger"* (29) in the WEB
+phrase of Exodus 34:6, and admits that *"The heart knows its own bitterness"* (10), a limit Job's
+friends did not respect.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -230,7 +240,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[A False Balance]] — Proverbs 11:1–31
 - [x] [[Whoever Loves Correction]] — Proverbs 12:1–28
 - [x] [[Hope Deferred]] — Proverbs 13:1–25
-- [ ] A Way That Seems Right — Proverbs 14:1–35
+- [x] [[A Way That Seems Right]] — Proverbs 14:1–35
 - [ ] A Gentle Answer — Proverbs 15:1–33
 - [ ] The Plans of the Heart — Proverbs 16:1–33
 - [ ] A Dry Morsel with Quietness — Proverbs 17:1–28
@@ -292,6 +302,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Seeing and Being Seen]] — eyes fixed straight ahead (4:25)
 - [[Work]] — the ant and the sluggard (6:6–11)
 - [[Wealth and Possessions]] — suretyship for another's debt, and poverty as a robber (6:1–11)
+- [[Envy]] — *"envy rots the bones"* (14:30)
+- [[The Nations]] — *"Righteousness exalts a nation"* (14:34)
 - [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
 - [[Theft and Restitution]] — the hungry thief who restores sevenfold (6:30–31)

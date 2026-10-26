@@ -101,6 +101,12 @@ then commands the removal, and the narrator reports compliance from Horeb onward
 grief over threatened divine absence, not a funeral. The outward act is explicit; a comprehensive
 account of each person’s inward repentance is not. See [[Show Me Your Glory]].
 
+### Hidden bitterness — Proverbs 14:10, 13
+
+*"The heart knows its own bitterness and joy; he will not share these with a stranger"* (10), and *"Even in laughter the heart may be sorrowful"* (13). Grief is partly hidden from onlookers — the limit Job's friends did not respect (Job 7:11; 10:1). See [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Jewelry removed in mourning over threatened absence.

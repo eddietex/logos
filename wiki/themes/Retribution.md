@@ -311,6 +311,12 @@ Proverbs 13 states the moral order — the lamp of the wicked snuffed out (9), m
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Repaid for his ways — and the way that seems right — Proverbs 14:11, 14, 19, 22, 32
+
+The house of the wicked is overthrown and the tent of the upright flourishes (11); each is repaid for his ways (14); the evil bow before the good (19). These stay in explicit tension with Job 1:18–19 and with Bildad's use of the same claim at Job 8:22. The chapter supplies its own checks: a man's sense of being right can lead to death (12), the heart's bitterness is not visible to a stranger (10), and the poor are shunned for poverty, not proved guilty by it (20). See [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:6, 9, 13, 15, 18, 21–22, 25.

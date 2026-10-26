@@ -111,6 +111,12 @@ and gods (34:12–16). These commands address Israel's entry into this land; the
 turned without argument into a timeless prohibition of contact with every foreign people. The
 promise is future, not a report of conquest completed. See [[The Covenant Renewed]].
 
+### Righteousness exalts a nation — Proverbs 14:34
+
+*"Righteousness exalts a nation, but sin is a disgrace to any people"* (34) — the collection's first saying about peoples, applying its moral order to every nation and not to Israel alone.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Six peoples displaced; alliances warned against for their

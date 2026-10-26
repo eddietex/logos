@@ -188,6 +188,12 @@ Righteousness *guards* the way of integrity (6), its light *"shines brightly"* (
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### The flourishing tent and the exalted nation — Proverbs 14:11, 19, 32, 34
+
+The tent of the upright flourishes (11), the evil bow at the gates of the righteous (19), the righteous has a refuge *"in death"* (32, WEB), and *"Righteousness exalts a nation"* (34) — the collection's first saying about a people rather than a person. The promise of 11 stays in tension with Job 1:18–19 and 8:22.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:5–6, 9, 21–22, 25.

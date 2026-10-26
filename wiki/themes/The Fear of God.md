@@ -190,6 +190,12 @@ lifespan.
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### Fortress, fountain, and an upright walk — Proverbs 14:2, 16, 26–27
+
+Uprightness of walk *is* fearing Yahweh, and perversity despises him (2). *"In the fear of Yahweh is a secure fortress"* (26), and it is *"a fountain of life, turning people from the snares of death"* (27) — the sentence 13:14 spoke of *"The teaching of the wise"*, now said of the fear of Yahweh, which puts the motto of 1:7 as an equivalence. Verse 16's wise man *"fears and shuns evil"*, close in the WEB's English to Job 1:1; the Hebrew identity is not verified here. See [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:27; Fear of Yahweh is said to prolong life, in

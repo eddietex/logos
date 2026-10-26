@@ -354,6 +354,7 @@ a valley floor where a burial could actually be dug. No named place.
   have been.
 - [[Elihu on God's Greatness]] — Job 36:6, *"He doesn't preserve the life (lōʾ-yəḥayyeh) of the wicked"*: 21:7's
   verb, and its claim denied. A disagreement between speakers, recorded on both pages.
+- [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]] — 21:25's death *"in bitterness of soul"*, and 21:26's dust, beside Proverbs 14:10, 32 in [[A Way That Seems Right]].
 
 ## Notes
 

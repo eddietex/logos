@@ -16283,3 +16283,53 @@ Hebrews 12:5–11 is cited by reference and paraphrase only, since Hebrews is no
 unreached book was fetched and no exact Hebrew or Greek claim was made. `scripts/link-check.sh` was
 run at the end of the pass and exited 0: no wrapped links and no unexpected dangling targets; 62
 unstarted book pages are the expected baseline.
+
+## [2026-10-25] ingest | Proverbs 14.1-35 — A Way That Seems Right
+
+Ingested [[A Way That Seems Right]], keeping the planned Proverbs 14:1–35 boundary and advancing one
+queue item. Because the run was unattended, the passage page carries the discussion: the wise woman
+building her house (1) as Wisdom's house of 9:1 brought into a household; the ox and the untidy stall
+(4); the truthful witness bracketing the chapter (5, 25); the heart's private bitterness (10, 13)
+around the title line (12); the shunned poor man (20) beside the ruling that despising him is sin
+(21); the fear of Yahweh as fortress and fountain (26–27); *slow to anger* (29); the poor man's Maker
+(31); the refuge in death (32); and the righteous nation (34).
+
+**Interpretive decisions.** Yahweh is named at 14:2, 26 and 27, and *his Maker* at 31, so [[God]] is
+updated; none of these lines narrates a divine act. Whose children 14:26's refuge covers is left open,
+as the WEB leaves it. The WEB is followed at 14:9 and 14:32 without deciding the Hebrew; the report
+that some translations follow the Greek at 14:32 is marked unverified on the passage page itself.
+Four parallels are comparisons of the stored WEB English, and no source-language identity is
+asserted for them: 14:16 with Job 1:1, 14:27 with 13:14, 14:29 with Exodus 34:6, and the doublet
+14:12 / 16:25. The page for chapter 16 should take up the doublet. The king of 14:28, 35 is treated
+as a type, not as Solomon. The tension between 14:11, 14 and Job 1:18–19 / 8:22 is written out
+explicitly. Generic figures get no pages.
+
+**Created (5):** [[A Way That Seems Right]];
+[[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]];
+[[Slow to Anger - Proverbs 14.29 and Exodus 34.6]];
+[[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]];
+[[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]].
+
+**Revised content pages (35):** [[Proverbs]]; [[God]]; [[Solomon]]; 22 themes — [[Wisdom]], [[Folly]],
+[[The Fear of God]], [[Righteousness]], [[Language and Speech]], [[Deception]], [[Work]],
+[[Wealth and Possessions]], [[The Poor and the Vulnerable]], [[Compassion and Mercy]], [[Creation]],
+[[Retribution]], [[Life and Death]], [[Walking with God]], [[Strife and Peacemaking]], [[Envy]],
+[[Kingship and Empire]], [[The Nations]], [[Sin]], [[Atonement]], [[Mourning and Lament]], and
+[[Love]]; three existing connections —
+[[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]],
+[[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]], and
+[[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]; eight earlier passage pages with
+reciprocal links — [[Hope Deferred]], [[The Two Feasts]], [[The Covenant Renewed]],
+[[Job's Oath of Innocence]], [[I Know That My Redeemer Lives]], [[The Arrows of the Almighty]],
+[[There Is No Umpire Between Us]], and [[Why Do the Wicked Live]].
+
+**Indexes and totals.** Eight index pages revised: books (22 / 43 pericopes), the wiki dashboard,
+themes, People Index F-M and N-Z, and Connections Index A-C, D-H, and O-S. Counts by frontmatter: 166
+passages, 179 people, 90 places, 83 themes, 430 connections; four books started, three complete.
+
+**Sources and validation.** All Proverbs 14 quotations are copied from stored WEB. Supporting
+quotations come from stored WEB Proverbs 9:1; 13:14; 15:18; 16:25, 32; 17:5; 19:4, 7, 11; Job 1:1,
+18–19; 7:11; 8:22; 10:1; 19:13–19; 21:23–26; 31:13–16; and Exodus 34:6–7. No unreached book was
+fetched, and no exact Hebrew or Greek claim was made. `scripts/link-check.sh` ran at the end of the
+pass and exited 0, with no wrapped links and no unexpected dangling targets; the expected baseline is
+62 unstarted book pages.

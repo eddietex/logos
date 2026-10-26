@@ -105,6 +105,12 @@ lecture forbids the other desire, coveting (*taḥmōḏ*, 6:25), which Exodus 2
 [[The Lamp of the Commandment]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.
 
+### Envy rots the bones — Proverbs 14:30
+
+*"The life of the body is a heart at peace, but envy rots the bones"* (30): envy is pictured as a bodily corruption, the opposite of a settled heart.
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.

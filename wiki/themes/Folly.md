@@ -156,6 +156,12 @@ The fool *"exposes folly"* (16) and harms his companions (20). Verse 19 gives fo
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### The house torn down and the credulous simple — Proverbs 14:1, 3, 7–9, 15–18, 24, 29
+
+The foolish woman tears down her house *"with her own hands"* (1); the fool's talk earns the rod (3); folly is deceit (8), credulity (15), recklessness (16), and a quick temper (17, 29). The simple *"inherit folly"* (18), and folly is its own crown (24).
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:16, 19–20.

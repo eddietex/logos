@@ -188,6 +188,12 @@ The way of integrity is guarded (6), the way of the unfaithful is hard (15), and
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Considering one's way — Proverbs 14:2, 8, 12, 14–15
+
+The upright walk is the fear of Yahweh (2). The prudent consider their way (8, 15); each is repaid for his ways (14); and the way that *seems* right ends in death (12).
+
+See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
+
 ## Key passages
 
 - [[Hope Deferred]] — Proverbs 13:6, 15, 20.
