@@ -133,6 +133,16 @@ over when they fall. See [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Who can stand before jealousy — Proverbs 27:4
+
+*"Wrath is cruel, and anger is overwhelming; but who is able to stand before jealousy?"* (27:4). The
+nouns are *ḥēmāh* and *qinʾāh*, the pair of 6:34, where the wronged husband's jealousy *"won't spare in
+the day of vengeance"*. Wrath and anger are a flood that passes; jealousy is ranked above both because
+it does not. 27:20 adds the eye that is *"never satisfied"*, the appetite behind envy, set beside Sheol;
+see [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 6:34; 27:4, 20; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.
@@ -211,6 +221,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
   the husband's *qinʾâ*
 - [[Do Not Envy Sinners]] — Proverbs 23:17; 24:1; Sinners and evil men not to be envied, nor their company wanted.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:19; Do not fret because of evildoers, nor envy the wicked.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:4, 20; Jealousy that no one can stand before; the eyes never satisfied.
 
 ## Related themes
 

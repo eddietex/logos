@@ -18,7 +18,7 @@ tags: [connection]
 - **Proverbs 15:11** — *"Sheol and Abaddon are before Yahweh— how much more then the hearts of the
   children of men!"* — [[A Gentle Answer]]
 - **Proverbs 27:20** — *"Sheol and Abaddon are never satisfied; and a man's eyes are never
-  satisfied."* *(not yet ingested)*
+  satisfied."* — [[Do Not Boast About Tomorrow]]
 - **Revelation 9:11** — *"They have over them as king the angel of the abyss. His name in Hebrew is
   'Abaddon', but in Greek, he has the name 'Apollyon'."* *(not yet ingested)*
 
@@ -57,6 +57,17 @@ themselves — Job 28:22 already lets Destruction *speak* — but in Revelation 
 has become an agent of it, released for a limited time and under a limit (9:4–5, *not yet ingested*).
 **The thread runs from a realm open to God's eye to a power on God's leash**, and the constant is that
 in none of the texts is Abaddon outside God's sight or rule.
+
+### Never satisfied — Proverbs 27:20
+
+With chapter 27 ingested, its Hebrew was read in Sefaria's *Miqra according to the Masorah*
+(2026-10-26): *šəʾôl waʾăḇaddōh lōʾ ṯiśbaʿnāh wəʿênê hāʾāḏām lōʾ ṯiśbaʿnāh*. The name is spelled
+*ʾăḇaddōh*, with a final *he*, where 15:11 has *ʾăḇaddôn*; the count of six occurrences above was not
+re-checked against this spelling. The verb is repeated for both halves, so the human eye is put in the
+same sentence and under the same verb as the underworld. The chapter uses the root again at 27:7 for
+the *full* soul that loathes honey: the stomach can be filled, and the eye and Sheol cannot. See
+[[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] and
+[[Do Not Boast About Tomorrow]].
 
 ## Significance
 

@@ -210,6 +210,17 @@ below folly itself. Proverbs 3:7 had set it against the fear of Yahweh. See
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Do not praise yourself — Proverbs 27:1–2, 21
+
+Chapter 27 opens and turns on the root *hll*, *praise*. *"Don't boast about tomorrow"* is
+*ʾal-tiṯhallēl* (1): the boast claims a future no one can see, *"for you don't know what a day may
+bring"*. *"Let another man praise you, and not your own mouth"* (2) moves the praise to a stranger's
+lips, the courtier's rule of 25:6–7 applied to speech. And *"man is refined by his praise"* (21) puts
+praise received in the furnace of 17:3: how a man takes his praise tests him. See
+[[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 4, 24; Self-approval, the high look, and the scoffer's name.
@@ -284,6 +295,7 @@ See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 - [[A Good Name]] — Proverbs 22:4, 10; Humility rewarded; the mocker driven out.
 - [[The Glory of Kings]] — Proverbs 25:6–7, 14, 27; The courtier who exalts himself, the false boaster, one's own honour.
 - [[Answer a Fool]] — Proverbs 26:5, 12, 16; *Wise in his own eyes* three times; the self-assured man has less hope than a fool.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:1–2, 21; The boast about tomorrow, self-praise, and praise as the furnace.
 
 ## Related themes
 

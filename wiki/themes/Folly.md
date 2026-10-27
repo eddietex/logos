@@ -270,6 +270,17 @@ for a fool than for him"* (12). See
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Ground in a mortar — Proverbs 27:3, 12, 22
+
+Chapter 27 has three fool sayings, none in a run. *"A fool's provocation is heavier than both"* stone
+and sand (3), with *kaʿas*, the fool's vexation of 12:16. *"The simple pass on, and suffer for it"*
+(12), repeated from 22:3. And the hardest: *"Though you grind a fool in a mortar with a pestle along
+with grain, yet his foolishness will not be removed from him"* (22). The fool here is *ʾĕwîl*, not
+chapter 26's *kəsîl*. 22:15 had said the rod *"drives it far"* from a child; this is the adult in whom
+nothing reaches the folly, not even the pounding that husks grain.
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 12:16; 22:3, 15; 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
@@ -319,6 +330,7 @@ See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:7–9; The fool silent in the gate; the schemes of folly called sin; the mocker detested.
 - [[The Field of the Sluggard]] — Proverbs 24:30; The vineyard of the man void of understanding.
 - [[Answer a Fool]] — Proverbs 26:1–12; Honour, errands, and proverbs wasted on the fool; the commands to answer and not answer him; the dog at its vomit; the man wise in his own eyes, worse than a fool.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:3, 12, 22; The fool's heavy provocation, the simple who pass on, the fool ground in a mortar.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

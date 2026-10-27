@@ -27,6 +27,9 @@ tags: [connection]
   [[A Dry Morsel with Quietness]]
 - **Proverbs 19:1** — *"Better is the poor who walks in his integrity than he who is perverse in his lips
   and is a fool."* — [[Better Is the Poor Who Walks in Integrity]]
+- **Proverbs 27:5** — *"Better is open rebuke than hidden love."* — [[Do Not Boast About Tomorrow]]
+- **Proverbs 27:10** — *"better is a neighbor who is near than a distant brother."* —
+  [[Do Not Boast About Tomorrow]]
 - **Proverbs 28:6** — *"Better is the poor who walks in his integrity, than he who is perverse in his ways,
   and he is rich."* *(not yet ingested)*
 - **Proverbs 3:14; 8:11, 19** — wisdom better than silver, gold, and rubies — see
@@ -90,6 +93,15 @@ reputation and goodwill above wealth, and three verses later (22:4) promises wea
 humility and the fear of Yahweh. The comparison is of goods, not a rejection of riches.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22:1, 4; no new source-language claim.
+
+### Proverbs 27:5, 10 — rebuke and nearness
+
+Chapter 27 has two better-than sayings, and both rank relationships rather than possessions. *"Better is
+open rebuke than hidden love"* (5) puts the uncovered (*məḡullāh*) rebuke above a love kept hidden
+(*məsuttāreṯ*); *"better is a neighbor who is near than a distant brother"* (10) puts nearness above
+kinship in the day of disaster. Like the earlier sayings, they admit a cost — the sting of rebuke, the
+brother not turned to — and judge it worth paying. See [[Do Not Boast About Tomorrow]]. Hebrew from
+Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

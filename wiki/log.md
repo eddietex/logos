@@ -17094,3 +17094,47 @@ connection page says so. Shabbat 30b was read in Sefaria's William Davidson Engl
 *margēmāh* was not checked against a lexicon; the Greek of 2 Peter 2:22 and Romans 12:16 and any
 Septuagint form of Proverbs 3:7 or 26:11 were not checked, and the pages say so at the point of claim.
 `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 27.1-27 — Do Not Boast About Tomorrow
+
+Ingested [[Do Not Boast About Tomorrow]], keeping the planned Proverbs 27:1–27 boundary and title and
+advancing exactly one queue item. The chapter has no heading and no single portrait; it closes with the
+pastoral poem of 27:23–27, and 28:1 begins a new run of antithetical sayings. The unattended discussion
+is written into the passage page: boasting and praise (1–2); provocation and jealousy (3–4); rebuke and
+the friend's wounds (5–6); appetite, home, and the near neighbour (7–10); the father's plea (11); two
+repeated sayings (12–13); the loud blessing (14); the contentious wife (15–16); iron, fig tree, and water
+(17–19); Sheol, the crucible, and the mortar (20–22); and the flocks (23–27).
+
+**Interpretive decisions.** The root *hll* (27:1, 2, 21) and the friend (*rēaʿ*, *ʾôhēḇ*) are offered as
+the chapter's two threads. 27:10 is kept in explicit tension with 17:17 rather than harmonized. The
+obscure Hebrew of 27:9 and 27:16, the sense of *naʿtārôṯ* (27:6), and the two readings of 27:19 and
+27:21 are stated and left undecided; the WEB is followed. The *yāḥaḏ* derivation (27:17) is marked as
+unchecked against a lexicon. No person page is revised: no one is named, and Yahweh is not named in
+the chapter. Sheol is revised for 27:20; Abaddon still has no page of its own.
+
+**Created (3):** the passage and two connections:
+- [[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] (thematic parallel)
+- [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] (motif)
+
+**Revised content pages (31):** [[Proverbs]] (box, overview paragraph, Providence key-theme entry); 12
+theme pages, each with a section and a key-passage entry (Pride and Self-Exaltation, Providence, Love,
+Brotherhood, Envy, Folly, Testing, Strife and Peacemaking, Marriage, Wealth and Possessions, Work,
+Language and Speech); [[Sheol]]; 6 existing connections (Abaddon Has No Covering, A Friend Loves at All
+Times, Riches Sprout Wings, I Shall Come Out Like Gold, The Contentious Woman, Better Is Little), each
+with a new section, and the *not yet ingested* labels on 27:6, 10, 15, 20, and 24 replaced by links; and
+11 earlier Proverbs passage pages with reciprocal references.
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index (12 rows), the
+places index (Sheol), and Connections Index A-C, D-H, I-N, and O-S (two new rows filed under D and N; six
+rows extended). T-Z still has 115 rows against A-C's 82, under the half-again redraw trigger. Proverbs is
+now 37 / 43 pericopes and remains in progress. Counts by frontmatter are 181 passages, 180 people, 90
+places, 83 themes, and 469 connections.
+
+**Sources and validation.** All Proverbs quotations were copied from the stored WEB. James 4:13–16, Luke
+12:16–21, Matthew 6:34, Ecclesiastes 1:8, Isaiah 5:14, and Habakkuk 2:5 were verified at bible-api.com
+with `translation=web` on 2026-10-26. No unreached book was fetched, and existing raw files are
+unchanged. Hebrew of Proverbs 1:26; 2:16; 5:3; 6:1, 34; 10:1; 12:16; 15:11; 17:3, 5; 18:24; 19:13;
+20:16; 22:3, 15; 23:15; 25:13, 27; 27:1–27; 30:16 and Ecclesiastes 1:8 was read from Sefaria's *Miqra
+according to the Masorah* on 2026-10-26. The Hebrew of Isaiah 5:14, Habakkuk 2:5, and Proverbs 21:19,
+and the Greek of James 4 and Luke 12, were not checked, and the pages say so at the point of claim.
+`scripts/link-check.sh` exits 0.

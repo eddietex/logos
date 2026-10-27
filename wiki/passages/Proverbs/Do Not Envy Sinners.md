@@ -197,6 +197,7 @@ and the God-fearer's end is a hope that will not be cut off.
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:18, discipline and death.
 - [[The Fall]] — Genesis 3:6, the fruit that was a delight to the eyes.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–22, the block that follows; 24:14 repeats 23:18, and 24:19 is the fourth prohibition of envy.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:11, *"Be wise, my son, and bring joy to my heart"*, compressing 23:15.
 
 ## Notes
 

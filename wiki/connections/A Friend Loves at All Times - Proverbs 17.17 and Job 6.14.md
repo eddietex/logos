@@ -22,9 +22,11 @@ tags: [connection]
   like the bars of a fortress."* — [[A Strong Tower]]
 - **Proverbs 19:7** (now ingested in the passage linked above) — *"All the relatives of the poor shun him: how much more do
   his friends avoid him!"*
-- **Proverbs 27:6, 10** *(not yet ingested)* — *"Faithful are the wounds of a friend"*; and *"Don't go
+- **Proverbs 27:6, 10** — *"Faithful are the wounds of a friend"*; and *"Don't go
   to your brother's house in the day of your disaster: better is a neighbor who is near than a distant
-  brother."*
+  brother."* — [[Do Not Boast About Tomorrow]]
+- **Proverbs 27:9, 17** — *"so does earnest counsel from a man's friend"*; *"Iron sharpens iron; so a
+  man sharpens his friend's countenance."* — [[Do Not Boast About Tomorrow]]
 - **Job 2:11** — the three friends came *"to sympathize with him and to comfort him"* —
   [[Seven Days of Silence]]
 - **Job 6:14–15** — *"To him who is ready to faint, kindness should be shown from his friend; even to
@@ -98,6 +100,20 @@ without replacing the duty of loyalty with distrust of everyone.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Proverbs 27 in context
+
+Chapter 27 gathers the book's friendship sayings more densely than any chapter since 17–19. Its friend
+is proved by what he is willing to cost: *"Better is open rebuke than hidden love"* (5), and *"Faithful
+are the wounds of a friend; although the kisses of an enemy are profuse"* (6), where the enemy is
+*śônēʾ*, *one who hates*, the disguised hater of 26:24. The friend's counsel is sweet (9); the father's
+friend is not to be forsaken (10); and *"Iron sharpens iron"* (17) makes friendship a friction that
+improves both. Verse 10's near neighbour over the distant brother is the saying already set against
+17:17 above; its Hebrew has a written-and-read variant on *your father's friend* (written *wrʿh*, read
+*wərēaʿ*). Job's friends, who wounded him, are the test case the wiki keeps in view: Proverbs 27:6
+praises the wound that is faithful, and Job's complaint was that theirs were not. See
+[[Do Not Boast About Tomorrow]]. Sources: stored WEB Proverbs 26:24; 27; Hebrew from Sefaria's *Miqra
+according to the Masorah*, 2026-10-26.
 
 ## Significance
 

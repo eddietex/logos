@@ -21,6 +21,8 @@ tags: [connection]
   silver is refined."*
 - **Proverbs 17:3** — *"The refining pot is for silver, and the furnace for
   gold, but Yahweh tests the hearts."* — [[A Dry Morsel with Quietness]]
+- **Proverbs 27:21** — *"The crucible is for silver, and the furnace for gold; but man is refined by
+  his praise."* — [[Do Not Boast About Tomorrow]]
 - **Zechariah 13:9** *(not yet ingested)* — *"I will bring the third part into the fire, and will
   refine them as silver is refined, and will test them like gold is tested. They will call on my
   name, and I will hear them."*
@@ -81,6 +83,16 @@ instead *"but man is refined by his praise"*: the test can be applause as well a
 has *"I try the heart"* (WEB at bible-api.com) with the same participle but *kəlāyôt*, *kidneys*. In
 Proverbs 17:3 the test is proof, not punishment — the sense this page assigns to Job 23:10. See
 [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17:3; 27:21; Job 23:10.
+
+### Proverbs 27:21 in context
+
+With chapter 27 ingested, the praise of 27:21 has its setting. The chapter opens by forbidding
+self-praise (*ʾal-tiṯhallēl*, 27:1; *"Let another man praise you"*, 27:2), and 27:21 closes the thread
+with the same root: *wəʾîš ləp̄î mahălālô*, *and a man according to his praise*. The WEB's *refined by*
+is one reading; the phrase may also mean that a man is assessed by what he is praised for. On either
+reading, it is the proof sense of the image this page assigns to Job 23:10 and Proverbs 17:3, not the
+purifying one: the furnace shows what the metal is. See [[Do Not Boast About Tomorrow]]. Hebrew from
+Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

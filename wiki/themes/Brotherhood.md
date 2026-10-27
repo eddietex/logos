@@ -126,6 +126,17 @@ it. Job 19:13–19 gives the abandoned person's testimony. See
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### The near neighbour and the distant brother — Proverbs 27:10
+
+*"Don't go to your brother's house in the day of your disaster: better is a neighbor who is near than a
+distant brother"* (27:10). Proverbs 17:17 had said *"a brother is born for adversity"*; this saying
+sends the son in adversity to another door. *Disaster* is *ʾêḏ*, the calamity of 1:26 and 17:5. The
+verse does not say whether *distant* means miles or estrangement. The wiki keeps both sayings rather
+than harmonizing them: kinship is an obligation, and in a given crisis it may not be the help that is
+nearest. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 17:17; 27:10; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:7; Relatives shun the poor: kinship
@@ -214,6 +225,7 @@ comparisons documented on that passage page.
   mountain *"and kissed him"*, with no quarrel to get past — where Esau's kiss came after a murder
   threat (Genesis 33:4) and Joseph's after a sale (45:15). The road home repeats Jacob's: sent back by
   God, attacked on the way, met by a brother with a kiss
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:10; The near neighbour better than a distant brother in the day of disaster.
 
 ## Related themes
 

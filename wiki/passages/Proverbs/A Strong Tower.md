@@ -290,6 +290,7 @@ these are general sayings and not verdicts on any particular person. See [[Retri
 - [[The Prosperity of the Wicked]] — 18:11, 23.
 - [[The Field of the Sluggard]] — Proverbs 24:23, partiality in judgment as *recognizing faces*.
 - [[Answer a Fool]] — Proverbs 26:22 repeats 18:8 letter for letter; the WEB renders it *whisperer* there.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:10, the near neighbour better than a distant brother, beside 18:24's friend closer than a brother.
 
 ## Notes
 

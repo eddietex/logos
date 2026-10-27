@@ -249,6 +249,7 @@ reading the world. That is the task 25:2 gave to kings, and the chapter gives it
 - [[The Ten Commandments]] — Exodus 20:16, the false witness against a neighbour.
 - [[Do Not Consent to Sinners]] — Proverbs 1:10, *pāṯāh*, to entice.
 - [[Answer a Fool]] — Proverbs 26, the next chapter: honour not fitting a fool (26:1, 8), dross on clay (26:23), and the contentious man (26:21).
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:2, 7, 15, the chapter after: praise from another's mouth, the courtier's rule applied to speech; the full soul that loathes honey; the contentious wife again.
 
 ## Notes
 

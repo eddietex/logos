@@ -441,6 +441,18 @@ diagnose every poor man.
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### Riches are not forever — Proverbs 27:13, 23–27
+
+Chapter 27 ends with the only sustained poem in chapters 25–29: *"Know well the state of your flocks
+… for riches are not forever, nor does the crown endure to all generations"* (23–24). *Riches* is
+*ḥōsen*, stored wealth, and *crown* is *nēzer*. What lasts instead is the yearly cycle — hay, new growth,
+lambs for clothing, goats to buy a field, milk for the household and its servant girls (25–27). The
+saying does not despise wealth; it relocates security from the store to the flock one tends. 27:13
+repeats 20:16's warning about the collateral of one who vouches for a stranger. See
+[[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 20:16; 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
@@ -675,6 +687,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[Thirty Excellent Things]] — Proverbs 22:26–27; 23:4–5; Surety that costs the bed; riches that sprout wings.
 - [[Do Not Envy Sinners]] — Proverbs 23:21, 23; The drunkard's poverty, and truth as the thing not to sell.
 - [[The Field of the Sluggard]] — Proverbs 24:34; Poverty arriving as a robber.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:13, 23–27; Collateral for a stranger; riches not forever; the flock that clothes and feeds.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

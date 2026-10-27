@@ -121,6 +121,17 @@ Its stated aim is formative and preventive, not only the discovery of an existin
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### Refined by praise — Proverbs 27:21
+
+*"The crucible is for silver, and the furnace for gold; but man is refined by his praise"* (27:21). The
+first line is identical in Hebrew to 17:3; where 17:3 ended *"Yahweh tests the hearts"*, 27:21 ends
+*wəʾîš ləp̄î mahălālô*, *and a man according to his praise*. Praise does the furnace's work: how a man
+receives it shows what he is made of. The chapter began by forbidding self-praise (27:1–2), so the test
+is applied to praise from others. See
+[[I Shall Come Out Like Gold - Job 23.10 and the Refiner's Fire]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 17:3; 27:21; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:3.
@@ -221,6 +232,7 @@ See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
 - [[The Ten Commandments]] — Exodus 20:18–21; Moses explains the test to the people during the
   encounter
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:21; The crucible and furnace of 17:3 again, with praise as the test.
 
 ## Related themes
 

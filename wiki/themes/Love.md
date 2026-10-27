@@ -247,6 +247,17 @@ give me your heart"* (23:26).
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Faithful wounds — Proverbs 27:5–6, 9–10, 17
+
+Chapter 27 tests love by what it costs to show it. *"Better is open rebuke than hidden love"* (5): a
+love that never uncovers itself does not help. *"Faithful are the wounds of a friend; although the
+kisses of an enemy are profuse"* (6) — the kiss belongs to the *śônēʾ*, *one who hates*, the word of
+26:24's disguised hater. The friend's counsel is sweet (9), the father's friend is not to be forsaken
+(10), and *"Iron sharpens iron; so a man sharpens his friend's countenance"* (17): love as friction
+that improves. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:6, 28; Love must be faithful; it also sustains the throne.
@@ -339,6 +350,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
   wise man loves him, as Yahweh's reproof is love (3:12)
 - [[A Good Name]] — Proverbs 22:6, 15; Training and the rod as household care.
 - [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–26; A father's and mother's gladness, and *"give me your heart"*.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:5–6, 9–10, 17; Open rebuke, a friend's wounds, the father's friend, iron sharpening iron.
 
 ## Related themes
 

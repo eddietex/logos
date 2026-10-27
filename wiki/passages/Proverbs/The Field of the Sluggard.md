@@ -177,6 +177,7 @@ Judah copied out"* (25:1). See [[The Glory of Kings]].
 - [[The Fall]] — Genesis 3:17–19, thorns and thistles.
 - [[Job's Oath of Innocence]] — Job 31:40, briers instead of wheat.
 - [[The Glory of Kings]] — Proverbs 25:1–28, the next block; the neighbour at law again (25:8–10).
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:6, the friend's faithful wounds and the enemy's kisses, set beside 24:26's honest answer as a kiss.
 
 ## Notes
 

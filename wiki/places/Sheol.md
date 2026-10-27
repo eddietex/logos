@@ -226,6 +226,13 @@ to go.
   leads to, the descent of 5:5, 7:27 and 9:18. Hebrew read from Sefaria's *Miqra according to the
   Masorah*, 2026-10-26.
 
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:20; **never satisfied, beside the eye.** *"Sheol and Abaddon
+  are never satisfied; and a man's eyes are never satisfied"* (*šəʾôl waʾăḇaddōh lōʾ ṯiśbaʿnāh*). 15:11 paired
+  the two as open before Yahweh; 27:20 pairs them as hungry, and ranks the human eye's appetite with
+  death's. The name is spelled *ʾăḇaddōh* here. See
+  [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]]. Hebrew read from
+  Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,

@@ -318,6 +318,18 @@ meddler, the prankster, the whisperer without whom *"a quarrel dies down"*, and 
 charming speech covers *"seven abominations in his heart"* — ending with the pit that catches its
 digger (26:17–28). Yahweh is not named in the chapter.
 
+[[Do Not Boast About Tomorrow]] (27:1–27) turns from the fool to the people nearest. It opens on praise
+— *"Don't boast about tomorrow; for you don't know what a day may bring"* (27:1), *"Let another man
+praise you, and not your own mouth"* (27:2) — and closes that thread with *"man is refined by his
+praise"* (27:21), whose first line is 17:3's crucible and furnace. Between come the friend proved by
+cost: *"Better is open rebuke than hidden love"*, *"Faithful are the wounds of a friend"* (27:5–6), the
+father's friend not forsaken and the near neighbour *"better … than a distant brother"* (27:10), and
+*"Iron sharpens iron"* (27:17). Repeats of 22:3 and 20:16 (27:12–13), the contentious wife as a dripping
+roof (27:15–16), Sheol, Abaddon, and the human eye *"never satisfied"* (27:20), and the fool ground in a
+mortar (27:22) follow. The chapter ends with the collection's only sustained poem: *"Know well the state
+of your flocks … for riches are not forever, nor does the crown endure to all generations"* (27:23–27).
+Yahweh is not named in it.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -392,7 +404,7 @@ first collection at its heading), each titled from a representative saying.
 
 - [x] [[The Glory of Kings]] — Proverbs 25:1–28
 - [x] [[Answer a Fool]] — Proverbs 26:1–28
-- [ ] Do Not Boast About Tomorrow — Proverbs 27:1–27
+- [x] [[Do Not Boast About Tomorrow]] — Proverbs 27:1–27
 - [ ] The Wicked Flee When No One Pursues — Proverbs 28:1–28
 - [ ] Where There Is No Vision — Proverbs 29:1–27
 
@@ -429,7 +441,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Faith]] — *"Trust in Yahweh with all your heart"* (3:5)
 - [[Hope]] — *"Hope deferred makes the heart sick"* (13:12)
 - [[Prayer]] — *"the prayer of the upright is his delight"* (15:8)
-- [[Providence]] — *"A man's heart plans his course, but Yahweh directs his steps"* (16:9)
+- [[Providence]] — *"A man's heart plans his course, but Yahweh directs his steps"* (16:9); *"you don't know what a day
+  may bring"* (27:1)
 - [[The Names of God]] — *"Yahweh's name is a strong tower"* (18:10)
 - [[Walking with God]] — the way of wisdom and the path of the wicked (4:10–19)
 - [[Light and Darkness]] — the dawning path and the dark way (4:18–19); *"the commandment is a

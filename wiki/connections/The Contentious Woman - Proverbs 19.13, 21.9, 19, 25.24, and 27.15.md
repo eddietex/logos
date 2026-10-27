@@ -15,8 +15,9 @@ tags: [connection]
   fretful woman."* — [[The King's Heart]]
 - **Proverbs 25:24** — *"It is better to dwell in the corner of the housetop, than to share a house
   with a contentious woman."* — [[The Glory of Kings]]
-- **Proverbs 27:15** — *"A continual dropping on a rainy day and a contentious wife are alike"*
-  *(stored WEB, verified also at bible-api.com; not yet ingested)*
+- **Proverbs 27:15–16** — *"A continual dropping on a rainy day and a contentious wife are alike:
+  restraining her is like restraining the wind, or like grasping oil in his right hand."* —
+  [[Do Not Boast About Tomorrow]]
 - **Proverbs 26:21** — *"As coals are to hot embers, and wood to fire, so is a contentious man to
   kindling strife."* — [[Answer a Fool]]
 - **Proverbs 19:14** — *"a prudent wife is from Yahweh."* —
@@ -60,6 +61,18 @@ around him is fire — coals to embers, wood to fire — following *"For lack of
 Without gossip, a quarrel dies down"* (26:20). What the woman's sayings put as a household made
 unlivable, the man's puts as a fire kept burning. The caveat about the vocabulary of 19:13, 21:19, and
 27:15 still stands. See [[Answer a Fool]].
+
+### The dripping roof — Proverbs 27:15–16
+
+With chapter 27 ingested, 27:15 and 19:13 were read in Sefaria's *Miqra according to the Masorah*
+(2026-10-26). They share the image's exact phrase, *delep̄ ṭôrēḏ*, *a continual dripping* (19:13 with a
+conjunction, *wəḏelep̄*). Their nouns for the quarrel share a root but not a form: 19:13 has *midyənê
+ʾiššāh*, *the quarrels of a wife*, and 27:15 *ʾēšeṯ midyānîm*, written *mdwnym* and read *midyānîm* —
+the same written-and-read pair as 25:24 and 26:21. 27:15 adds a time, *bəyôm sagrîr*, *on a rainy day*,
+and 27:16 a second image whose Hebrew is obscure (*ṣōp̄nęhā ṣāp̄an-rûaḥ wəšemen yəmînô yiqrāʾ*,
+literally *whoever hides her hides wind, and oil his right hand calls*); the WEB's *restraining … grasping*
+is an interpretation. On any reading, the quarrel is something that cannot be held. The earlier caveat
+now stands only for 21:19, whose Hebrew was not compared. See [[Do Not Boast About Tomorrow]].
 
 ## Significance
 

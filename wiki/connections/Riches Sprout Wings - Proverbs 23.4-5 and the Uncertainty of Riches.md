@@ -12,8 +12,8 @@ tags: [connection]
   wings like an eagle and flies in the sky."*
 - **Proverbs 11:4, 28** — [[A False Balance]]: *"Riches don't profit in the day of wrath"*; *"He who
   trusts in his riches will fall"*.
-- **Proverbs 27:24** *(not yet ingested)* — *"for riches are not forever, nor does the crown endure to
-  all generations."*
+- **Proverbs 27:24** — *"for riches are not forever, nor does the crown endure to
+  all generations."* — [[Do Not Boast About Tomorrow]]
 - **Job 1:21** — [[The Wager in Heaven and the Four Messengers]]: *"Naked I came out of my mother's
   womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away."*
 - **Job 27:16–19** — [[I Will Not Put Away My Integrity]]: *"Though he heap up silver as the dust … He lies down
@@ -55,6 +55,18 @@ the misuse of the observation the wiki tracks under [[Retribution]].
 Sources: Proverbs 11:4, 28; 22:4; 23:4–5; 27:24; Job 1:21; 27:16–19 copied from stored WEB. Matthew
 6:19–21; 1 Timothy 6:9–10, 17; Ecclesiastes 5:13–15 verified at bible-api.com with `translation=web` on
 2026-10-26; none of those books is in `raw/`. No source-language claim is made.
+
+### Proverbs 27:23–27 — the flock instead of the store
+
+With chapter 27 ingested, 27:24 turns out to be the reason clause of a five-verse poem, not a free
+saying: *"Know well the state of your flocks … for riches are not forever"*. *Riches* is *ḥōsen*,
+stored wealth, and the *crown* is *nēzer*, so the claim reaches royal dynasties too — in a collection
+copied by a king's men (25:1). The answer is not to stop working but to tend what renews itself: hay
+and new growth, lambs for clothing, goats to buy a field, milk for the household (27:25–27). The eagle
+of 23:5 takes away the store; the poem points to the flock. The chapter's first verse supplies the
+same uncertainty about time; see
+[[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] and
+[[Do Not Boast About Tomorrow]]. Hebrew from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

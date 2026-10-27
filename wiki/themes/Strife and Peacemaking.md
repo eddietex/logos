@@ -277,6 +277,16 @@ The *contentious man* is *ʾîš midyānîm*, the counterpart of 25:24's content
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Provocation, jealousy, and the dripping roof — Proverbs 27:3–4, 15–16
+
+Chapter 27 weighs the burdens of strife. The fool's provocation outweighs stone and sand (3); wrath
+and anger overwhelm, but jealousy cannot be stood against (4). The contentious wife returns as *"A
+continual dropping on a rainy day"* (15), with 19:13's *delep̄ ṭôrēḏ*, and restraining her is
+*"like restraining the wind, or like grasping oil"* (16): quarrel as something that cannot be held. See
+[[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 19:13; 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
@@ -441,6 +451,7 @@ See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 - [[Do Not Envy Sinners]] — Proverbs 23:29; 24:2; Strife and needless bruises at the wine; hearts that plot violence.
 - [[The Glory of Kings]] — Proverbs 25:8–10, 21–24; Haste to court refused, the case argued with the neighbour, the enemy fed.
 - [[Answer a Fool]] — Proverbs 26:17, 20–21; The meddler holding a dog by the ears; the fire that goes out without wood; the contentious man.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:3–4, 15–16; The fool's provocation, jealousy, and the contentious wife.
 
 ## Related themes
 

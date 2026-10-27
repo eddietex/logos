@@ -170,6 +170,7 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 - [[Thirty Excellent Things]] — Proverbs 22:17–23:11, the words of the wise that follow; 23:6's stingy eye against 22:9's generous one, and the bed of 22:27.
 - [[Do Not Envy Sinners]] — Proverbs 23:14, 27, the rod and the deep pit again.
 - [[Answer a Fool]] — Proverbs 26:13, the sluggard's lion again, with two words for the beast.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:12, a repeat of 22:3; 27:22, the fool whose folly no pounding removes, beside 22:15's rod.
 
 ## Notes
 

@@ -365,6 +365,16 @@ works ruin"* (28).
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Praise, rebuke, and the loud blessing — Proverbs 27:2, 5, 11, 14
+
+Chapter 27's speech sayings are about whose mouth and when. Praise belongs in another's mouth, *"not
+your own"* (2). Rebuke should be open rather than love hidden (5). A wise son lets his father *"answer
+my tormentor"* — literally *return a word* (11). And the right words at the wrong time turn into their
+opposite: *"He who blesses his neighbor with a loud voice early in the morning, it will be taken as a
+curse by him"* (14), as the song to a heavy heart was vinegar on soda (25:20).
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 25:20; 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -627,6 +637,7 @@ See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 - [[The Field of the Sluggard]] — Proverbs 24:26, 28; The honest answer as a kiss; the witness without cause.
 - [[The Glory of Kings]] — Proverbs 25:9–15, 18–20, 23; The word fitly spoken, the soft tongue, the false witness as a weapon.
 - [[Answer a Fool]] — Proverbs 26:4–9, 18–28; The proverb in a fool's mouth, the "joke", the whisperer's morsels, charming speech, the lying tongue.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:2, 5, 11, 14; Praise from another's mouth, open rebuke, the answer to a reproacher, the loud blessing.
 
 ## Related themes
 

@@ -229,6 +229,18 @@ backbiting tongue (25:23), in a run on speech that makes a house unlivable. See
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### The dripping roof again — Proverbs 27:15–16
+
+*"A continual dropping on a rainy day and a contentious wife are alike: restraining her is like
+restraining the wind, or like grasping oil in his right hand"* (27:15–16). It is the fifth of the
+contentious-woman sayings, sharing 19:13's *continual dripping* (*delep̄ ṭôrēḏ*) and the *ʾēšeṯ
+midyānîm* of 21:9 and 25:24. Verse 16 is obscure in Hebrew, and the WEB's *restraining* is an
+interpretation. As with the earlier sayings, it speaks from the husband's side about a household made
+unlivable; the book also calls a prudent wife Yahweh's gift (19:14). See
+[[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 19:13–14; 21:9; 25:24; 27:15–16.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 19; The contentious wife, spoken from the husband's side.
@@ -417,6 +429,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[The Young Man Void of Understanding]] — Proverbs 7:4, 19–20; wisdom as *"my sister"*, and the husband away with a bag of
   money
 - [[The Glory of Kings]] — Proverbs 25:24; The contentious woman, repeated from 21:9.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:15–16; The contentious wife as dripping rain, wind, and oil.
 
 ## Related themes
 

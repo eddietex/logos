@@ -304,6 +304,7 @@ and [[The Prosperity of the Wicked]].
 - [[A Good Name]] — Proverbs 22:2 names the Maker whom 17:5's mocker reproaches.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18, no rejoicing at an enemy's fall, after 17:5.
 - [[The Field of the Sluggard]] — Proverbs 24:24, the wicked told *"You are righteous"*.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:10, 21, the brother not turned to in disaster, against 17:17; and 17:3's crucible and furnace with praise as the test.
 
 ## Notes
 

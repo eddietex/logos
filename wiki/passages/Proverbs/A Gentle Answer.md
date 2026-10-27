@@ -246,6 +246,7 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 - [[Thirty Excellent Things]] — Proverbs 22:24–25, the hot-tempered man; 22:28 and 23:10–11, the boundary stone beside 15:25's widow's borders.
 - [[The Field of the Sluggard]] — Proverbs 24:30–31, the sluggard's field grown over with thorns.
 - [[The Glory of Kings]] — Proverbs 25:11, 15, the word fitly spoken and the *soft* (*rakkāh*) tongue, the adjective of 15:1.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:20, Sheol and Abaddon again, never satisfied rather than open before Yahweh.
 
 ## Notes
 

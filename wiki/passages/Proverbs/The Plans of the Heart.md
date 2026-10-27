@@ -316,6 +316,7 @@ on which Job could not read his own case from the outside. See [[Retribution]] a
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12, the weigher of hearts (cf. 16:2's weigher of motives).
 - [[The Glory of Kings]] — Proverbs 25:5, 28, the throne established in righteousness (16:12) and the spirit without restraint (against 16:32).
 - [[Answer a Fool]] — Proverbs 26:20, 22, the *nirgān*, without whom *"a quarrel dies down"*.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:1, *"you don't know what a day may bring"*, the limit on the planning heart of 16:1, 9.
 
 ## Notes
 

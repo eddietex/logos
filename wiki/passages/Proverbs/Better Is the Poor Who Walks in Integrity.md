@@ -183,6 +183,7 @@ required.
   witness.
 - [[The Field of the Sluggard]] — Proverbs 24:28, the witness against a neighbour without cause.
 - [[Answer a Fool]] — Proverbs 26:15, the hand in the dish again, the first line identical in Hebrew.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:15, the *continual dripping* (*delep̄ ṭôrēḏ*) of 19:13 again.
 
 ## Notes
 

@@ -345,6 +345,17 @@ self-deception to laziness. See [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### The fig-tree keeper and the herdsman — Proverbs 27:18, 23–27
+
+*"Whoever tends the fig tree shall eat its fruit. He who looks after his master shall be honored"*
+(27:18): two verbs of guarding (*nōṣēr*, *šōmēr*), and the return on care is fruit for one and honour
+(*yəḵubbāḏ*) for the other. The chapter closes on the herdsman told to *"Know well the state of your
+flocks"* (23), because stored wealth does not last and the flock, tended, provides clothing, land, and
+food each season (24–27). Unlike the sluggard portraits of 24:30–34 and 26:13–16, this is work
+commended rather than its absence condemned.
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 27; Hebrew from Sefaria.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5, 25; Diligent plans against haste; the sluggard's fatal desire.
@@ -531,6 +542,7 @@ See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 - [[Thirty Excellent Things]] — Proverbs 22:29; The skilled worker who serves kings.
 - [[The Field of the Sluggard]] — Proverbs 24:27, 30–34; The field readied before the house; the sluggard's vineyard gone to thorns.
 - [[Answer a Fool]] — Proverbs 26:13–16; The sluggard's lion, his hinge, his dish, and his opinion of himself.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:18, 23–27; The fig-tree keeper, the servant honoured, the herdsman who knows his flock.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

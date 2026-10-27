@@ -215,6 +215,16 @@ keeps royal responsibility in place. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### You don't know what a day may bring — Proverbs 27:1
+
+*"Don't boast about tomorrow; for you don't know what a day may bring"* (27:1). The Hebrew has the day
+*give birth* (*yēleḏ*). The saying names no God — chapter 27 never does — but it stands in the same
+collection as *"A man's heart plans his course, but Yahweh directs his steps"* (16:9): the future is
+not owned by the one who plans it. James 4:15 supplies the conditional, *"If the Lord wills"*. See
+[[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]].
+
+See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 16:9; 27:1; James 4:15 at bible-api.com.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:1, 30–31; The king's heart turned, counsel outmatched, victory given.
@@ -353,6 +363,7 @@ the passage page.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The cloud determines both departure and waiting throughout Israel’s journeys.
 - [[If You Seek Her as Silver]] — Proverbs 2:7–8, 11; God as shield and guard, his keeping carried out by wisdom in the son
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:1; *"You don't know what a day may bring"*: tomorrow is not owned.
 
 ## Related themes
 

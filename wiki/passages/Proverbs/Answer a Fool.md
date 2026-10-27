@@ -241,6 +241,7 @@ rules that cannot be applied by rule, and 26:7 and 9 say so in the book's own wo
 - [[Do Not Consent to Sinners]] — Proverbs 1:18, the ambush that recoils.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1, *mišlê*, the book's own word for itself.
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:9, *"Does Job fear God for nothing?"*, *ḥinnām*.
+- [[Do Not Boast About Tomorrow]] — Proverbs 27:5–6, the chapter after: *śônēʾ*, *one who hates*, again in the enemy's kisses, and the rebuke *uncovered* (*məḡullāh*) as hatred was at 26:26.
 
 ## Notes
 
