@@ -363,6 +363,14 @@ to the birds (17), and the unit ends with the hand over the mouth, because press
 strife (32–33). The servant who inherits and the unloved wife who marries (23) are held in
 explicit tension with Proverbs 17:2 and with Genesis' stories of [[Hagar]] and [[Leah]].
 
+[[The Words of King Lemuel]] (31:1–9) begins a new attribution: [[Lemuel]] receives the instruction
+of
+[[Lemuel's Mother]]. Her warning about women and royal strength leads to abstinence for the sake
+of remembering the law and the justice due to the afflicted. Drink assigned to the dying and
+bitter in soul (6–7) remains in explicit tension with the destructive portrait of 23:29–35.
+Twice she commands the king to open his mouth for the vulnerable and judge righteously (8–9).
+Neither his kingdom nor an identification with Solomon is supplied. The final poem remains next.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -445,10 +453,15 @@ first collection at its heading), each titled from a representative saying.
 
 - [x] [[The Words of Agur]] — Proverbs 30:1–14
 - [x] [[Four Things]] — Proverbs 30:15–33
-- [ ] The Words of King Lemuel — Proverbs 31:1–9
+- [x] [[The Words of King Lemuel]] — Proverbs 31:1–9
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Kingship and Empire]], [[Judgment]], [[Mediation and Advocacy]] — sober judgment and speaking
+  for the mute, poor, and needy (31:4–9).
+- [[Wisdom]], [[Oaths and Vows]], [[Remembrance]] — maternal instruction, the son of her vows,
+  and the contrast between forgetting law and forgetting misery (31:1–7).
 
 - [[Wisdom]] , [[Faith]] , [[Language and Speech]] — human limits, trustworthy divine words, and
   restraint in adding (30:2–6).
@@ -521,6 +534,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — the named king and his unnamed teacher (31:1–9).
 
 - [[Agur]] — named speaker, son of [[Jakeh]], addressing [[Ithiel]] and [[Ucal]] in the WEB (30:1).
 

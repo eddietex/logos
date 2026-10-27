@@ -145,6 +145,14 @@ later. The chapter begins with kings searching out a matter and with an unsearch
 [[The Glory of Kings]] and [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
 Source: stored WEB Proverbs 25:1–7.
 
+### Lemuel’s heading — Proverbs 31:1
+
+The next attribution boundary is now ingested in [[The Words of King Lemuel]]. The heading names
+[[Lemuel]] and credits [[Lemuel's Mother]] with his instruction. It supplies no identification
+with Solomon or Bathsheba. The anthology’s royal subject matter is not a warrant to collapse
+its named speakers. This is an attribution comparison, not an appearance by Solomon.
+Source: stored WEB Proverbs 31:1–9.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -155,6 +163,9 @@ Source: stored WEB Proverbs 25:1–7.
 - Proverbs 25:1 — named in the heading of the collection copied by Hezekiah's men. [[The Glory of Kings]]
 
 ## Appears in
+
+- [[The Words of King Lemuel]] — Proverbs 31:1, attribution comparison only; Lemuel is named
+  instead.
 
 - [[The Words of Agur]] — Proverbs 30:1, an attribution comparison only; Agur is named instead of
   Solomon.

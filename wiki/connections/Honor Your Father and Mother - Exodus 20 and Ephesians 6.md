@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of King Lemuel]] — Proverbs 31:1–2.
+
 - [[Do Not Envy Sinners]] — Proverbs 23:22–25.
 
 - [[Wine Is a Mocker]] — Proverbs 20:20.
@@ -99,6 +101,15 @@ is left for ravens and young eagles (30:17). The commandment's promise of long l
 inverted: the contemptuous child is denied even burial. The verse states a consequence and names no
 court; it is a warning, not a penalty to be carried out. See [[The Words of Agur]] and
 [[Four Things]]. Source: stored WEB Proverbs 30:11, 17.
+
+### A mother teaches a king — Proverbs 31:1–9
+
+The mother whose teaching is commended in Proverbs 1:8 and 6:20 now has a particular voice:
+[[Lemuel's Mother]] instructs her named son in [[The Words of King Lemuel]]. Her appeals to womb and
+vows establish the relation without explaining the vows. A king remains a son who must listen;
+her counsel concerns the justice owed to people beyond the household. This is a thematic
+development of parental honor, not an explicit citation of Exodus 20:12 or a report that Lemuel
+obeyed. Source: stored WEB Proverbs 1:8; 6:20; 31:1–9.
 
 ## Significance
 

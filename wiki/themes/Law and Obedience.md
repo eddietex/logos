@@ -422,7 +422,20 @@ the commandment to honour father and mother through consequence, not through a c
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:1, 4–5, 9
+
+Lemuel’s office does not exempt him from his mother’s teaching. Her stated reason for royal
+abstinence is that drinking can make rulers forget the law and distort justice. The WEB does not
+identify a particular statute in 31:5. Comparison with Deuteronomy 17:18–20 illuminates the king
+under instruction without making Lemuel an identified Israelite ruler.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:1, 4–5, 9; A king receives instruction and must retain
+  the law while judging.
 
 - [[Four Things]] — Proverbs 30:17; Mocking a father and scorning a mother's obedience.
 
@@ -530,6 +543,8 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
 - [[Slavery and Servitude]] — Pharaoh's *ḥōq* against Yahweh's
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[God]] — the lawgiver
 - [[Moses]] — the one through whom the law is given

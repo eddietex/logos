@@ -239,7 +239,20 @@ accusation, and predatory oppression—not a claim that poverty shows a moral de
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:5–9
+
+The afflicted possess justice that a ruler can pervert (5), rather than merely hoping for a
+royal favor. The poor, needy, mute, and desolate are then named as people whose cause the king
+must take up (8–9). The drink of 6–7 promises forgetting misery, not removal of poverty; the
+closing command still demands justice. Need is not treated here as evidence of laziness or guilt.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:5–9; Relief of misery is joined to the right to an
+  advocate and righteous judgment.
 
 - [[The Words of Agur]] — Proverbs 30:8–10, 14.
 
@@ -300,6 +313,8 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 - [[Righteousness]] — the righteous man's defence in Job
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 

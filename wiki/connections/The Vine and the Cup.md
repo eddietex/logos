@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of King Lemuel]] — Proverbs 31:4–9.
+
 - [[Do Not Envy Sinners]] — Proverbs 23:20–21, 29–35.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1.
@@ -131,6 +133,28 @@ warning in the same block (23:20–21) pairs the drinker with the glutton; see
 [[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]].
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23.
+
+### A ruler’s memory and a sufferer’s misery — Proverbs 31:4–9
+
+Lemuel’s mother gives a public reason for royal abstinence: drink can make the king forget the
+law and pervert the afflicted person’s justice (31:4–5). The sufferer in 6–7 is instead offered
+drink to forget poverty and misery. The contrast concerns whose forgetting would harm others,
+not merely a ranking of royal and ordinary pleasures.
+
+**Explicit tension:** Proverbs 20:1 and 23:29–35 warn of drink’s destructive power, while 31:6–7
+directs it toward the distressed. Different recipients and purposes explain the contrast within
+31:4–7, but the text does not explain away the wider tension. Relief from remembering poverty
+is not said to remove poverty; 31:8–9 still requires the king to secure justice for the poor.
+
+Leviticus 10:8–11 forbids Aaron and his sons wine or strong drink when entering the Tent of
+Meeting, alongside their duties of distinction and instruction. This provides an analogous
+concern for competent service. Its priestly setting and explicit circumstance should not be
+flattened into an identical rule for Lemuel.
+
+See [[The Words of King Lemuel]]. Sources: stored WEB Proverbs 20:1; 23:29–35; 31:1–9.
+Leviticus 10:8–11 verified directly at bible-api.com, request `Leviticus 10:8-11?translation=web`,
+on 2026-10-27; response identified World English Bible. The Leviticus comparison is paraphrased;
+no unreached book was added to raw and no new source-language claim is made.
 
 ## Significance
 

@@ -560,7 +560,20 @@ created world, the method of 6:6, and it is attributed to creatures that make no
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:1–9
+
+The final named teacher is a mother addressing a king. Wisdom here is neither an assertion of
+royal superiority nor a private technique for success: the king must remain teachable, preserve
+his judgment, and speak for people unable to secure a hearing. The mother’s voice gives concrete
+form to the maternal teaching already commended in Proverbs 1:8 and 6:20.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:1–9; Maternal teaching makes royal restraint answerable
+  to public justice.
 
 - [[Four Things]] — Proverbs 30:18, 24–28; Ways too wonderful to understand; four small creatures exceedingly wise.
 
@@ -788,6 +801,8 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
   which is Job 1:1 restated after twenty-seven chapters
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 

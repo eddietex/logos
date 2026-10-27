@@ -229,7 +229,20 @@ the wrongdoer receives, though the giver is not specified in verse 13.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Lemuel’s mother — Proverbs 31:6–9
+
+The instruction acknowledges the person near death and the person bitter in soul, then commands
+judgment for the poor. Its concern can be described as compassion, though this passage uses no
+explicit mercy term in the WEB. The relief described in 6–7 does not cancel the obligation to
+act in 8–9; reducing suffering to a reason for silencing sufferers would miss that ending.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:6–9; Attention to bitter suffering must accompany
+  practical justice.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:8, 13, 27.
 

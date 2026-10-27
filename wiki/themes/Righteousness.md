@@ -290,7 +290,20 @@ universal social approval.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:2, 6–7, 16, 27; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Lemuel’s mother — Proverbs 31:9
+
+The imperative to judge righteously joins moral evaluation to public action: the ruler must
+speak and serve justice to the poor and needy. Job 29:12–17 similarly locates righteousness in
+the defense of vulnerable people. Neither account makes the claimant’s poverty alone a verdict
+on the merits of a case; Exodus 23:3, 6 keeps impartiality and protection together.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:9; Righteous judgment means serving the poor person’s
+  just cause.
 
 - [[Where There Is No Vision]] — Proverbs 29:2, 6–7, 16, 27; Righteousness is public as well as
   personal: people rejoice under righteous rule, and the righteous care about justice for the poor.

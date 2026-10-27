@@ -411,7 +411,20 @@ to prevent strife.
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:1–2, 8–9
+
+Agur’s final counsel was to put a hand over the mouth to prevent strife (30:32–33); Lemuel’s
+mother twice commands the opening of the mouth for the vulnerable (31:8–9). These are contrasting
+uses of speech, not competing universal rules. Wisdom restrains self-exalting provocation and
+requires advocacy when silence would abandon another person’s cause.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:1–2, 8–9; The mother teaches; the king must speak for
+  those without an effective voice.
 
 - [[Four Things]] — Proverbs 30:32–33; The hand over the mouth, and the forcing of wrath.
 
@@ -695,6 +708,8 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
 - [[Wisdom]] — where the ethics of the tongue is worked out
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 

@@ -193,6 +193,9 @@ the young who hid from him now mock him (30:1), the nobles' silence becomes spit
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:8–9 commands the advocacy Job remembers practicing in
+  29:12–17; see [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .
+
 - [[The Plans of the Heart]] — Proverbs 16:15, the light of the king's face and the spring rain of Job 29:23–24.
 - [[Job of Uz]] — Job 1:1–5: the verdict *"blameless and upright"*, the wealth, the *"greatest of all
   the children of the east"*, and the children feasting — the life chapter 29 remembers from inside.

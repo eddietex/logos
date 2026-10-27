@@ -215,7 +215,22 @@ amazing and connects it with *"so"*. See
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:3
+
+Lemuel is warned not to give his strength to women or his ways to what destroys kings. The verse
+can be read with Proverbs’ warnings about destructive sexual entanglement, but it does not name
+adultery, prostitution, a particular woman, or a particular event in Lemuel’s life. It must not
+be converted into a claim that women as a class are destructive: the authoritative teacher in
+this very passage is a woman. The mother’s instruction qualifies that generalization within
+the unit itself.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:3; The warning concerns destructive expenditure of
+  royal strength without naming a specific offense.
 
 - [[Four Things]] — Proverbs 30:19–20; The way of a man with a maiden; the adulteress who says she has done nothing wrong.
 

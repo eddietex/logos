@@ -416,7 +416,21 @@ still demands responsible human judgment.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:4, 7, 9, 14, 26; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Lemuel’s mother — Proverbs 31:4–5, 8–9
+
+Drink is forbidden to kings because forgetting the law can pervert the justice due to the
+afflicted (4–5). The positive counterpart is to open the mouth and judge righteously (8–9).
+Advocacy does not authorize a false favorable verdict: Exodus 23:3 forbids favoritism toward a
+poor litigant, while 23:6 forbids denying the poor justice. The two duties protect a fair hearing.
+See [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]].
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:4–5, 8–9; Remembering the law and judging righteously
+  protect the poor from distorted verdicts.
 
 - [[Where There Is No Vision]] — Proverbs 29:4, 7, 9, 14, 26; Just rule stabilizes the land and
   hears the poor fairly; neither a contentious lawsuit nor access to a ruler guarantees justice.
@@ -726,6 +740,8 @@ cross-reference sources and interpretive limits.
 - [[Hardening of the Heart]] — the hardening as sentence, on the judicial reading
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[God]]
 - [[Abraham]]

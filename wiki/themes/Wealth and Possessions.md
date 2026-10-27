@@ -482,7 +482,20 @@ theft; he does not equate poor people with thieves or wealth with inevitable apo
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:5–9
+
+Poverty is neither explained as a deserved outcome nor treated as an obstacle to justice. Drink
+may enable the poor person to forget deprivation (7), but the final command remains to serve
+justice to the poor and needy (9). Temporary forgetfulness is not redistribution, repayment,
+or proof of material recovery. The text keeps relief and the public duty of justice together.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:5–9; Poverty is misery to relieve and a condition whose
+  legal rights must be defended.
 
 - [[The Words of Agur]] — Proverbs 30:8–9.
 

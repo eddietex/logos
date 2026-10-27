@@ -93,6 +93,9 @@ something: milk gives butter, the nose gives blood, and wrath gives strife (32�
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:8–9 twice commands opening the mouth for another
+  person, contrasting with 30:32’s restraint of self-exalting speech.
+
 - [[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]]
 - [[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]]
 - [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]]

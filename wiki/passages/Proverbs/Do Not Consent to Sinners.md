@@ -217,6 +217,9 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:1–9 gives a named royal recipient to maternal
+  instruction; see [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]] .
+
 - [[The Plans of the Heart]] — Proverbs 16:19, 29; the plunder refused and the enticing neighbour.
 - [[A Gentle Answer]] — Proverbs 15:27 takes 1:19's *greedy for gain* into the household.
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17–18; *"hands that

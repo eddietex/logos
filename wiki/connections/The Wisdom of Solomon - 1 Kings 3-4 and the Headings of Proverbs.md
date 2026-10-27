@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of King Lemuel]] — Proverbs 31:1–9.
+
 - [[The Words of Agur]] — Proverbs 30:1–3.
 
 
@@ -20,7 +22,7 @@ tags: [connection]
   wise"*, *"sayings of the wise"*, *"the words of Agur the son of Jakeh"*, *"the words of king Lemuel;
 the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Excellent Things]] ,
 24:23 in [[The Field of the Sluggard]] ,
-  and 30:1 in [[The Words of Agur]]; 31:1 remains not yet ingested.
+  30:1 in [[The Words of Agur]], and 31:1 in [[The Words of King Lemuel]].
 - **1 Kings 3:9, 12** — Solomon asks for *"an understanding heart to judge your people, that I may
   discern between good and evil"*, and is told *"I have given you a wise and understanding heart; so
   that there has been no one like you before you, and after you none will arise like you."* Not yet
@@ -129,6 +131,14 @@ country, court position, or identification with Solomon is supplied by this head
 
 See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
 no new source-language identity is claimed.
+
+### Lemuel and his mother — Proverbs 31:1–9
+
+The heading at 31:1 is now ingested in [[The Words of King Lemuel]]. It names [[Lemuel]] and
+credits [[Lemuel's Mother]] as the teacher. The transmitted words belong to a king who is
+instructed, not a king presumed exempt from learning. The warning about lost strength and
+impaired judgment leads to speaking for the poor. No identity with Solomon is supplied; the
+book’s multiple attributions remain distinct. Source: stored WEB Proverbs 31:1–9.
 
 ## Significance
 

@@ -136,7 +136,20 @@ silence without establishing identical wording or supplying a ritual procedure f
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:24; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Lemuel’s mother — Proverbs 31:2
+
+The mother’s appeal joins son, womb, and vows. Her wording associates the son with solemn
+commitment, but supplies no narrative of infertility, petition, dedication, or fulfillment.
+Neither the recipient nor the terms of her vows are stated. No birth story should be inferred
+from the phrase alone.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:2; The mother calls Lemuel the son of her vows without
+  explaining their terms.
 
 - [[Where There Is No Vision]] — Proverbs 29:24; The thief’s accomplice takes an oath but dares not
   testify in the WEB.
@@ -303,6 +316,8 @@ cross-reference sources and interpretive limits.
 - [[The Names of God]] — what an oath invokes, and why misusing it is guarded
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Abraham]] — the first man in Scripture to swear, and he swears to refuse a gift; one chapter
   later he sleeps through an oath sworn to him; and seven chapters later he swears a second time, at

@@ -128,6 +128,10 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:8–9 calls for advocacy and righteous judgment; Exodus
+  23:3, 6 preserves impartiality alongside the poor person’s right; see
+  [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .
+
 - [[The Words of Agur]] — Proverbs 30:10’s warning against slandering a servant gives a household
   comparison for Exodus 23:1’s ban on spreading false reports. See
   [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .

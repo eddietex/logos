@@ -220,7 +220,21 @@ of righteous and wicked beyond their immediate actions into the way they are rem
 See [[A Wise Son Makes a Glad Father]]. Source: Proverbs 10 and the cited Proverbs/Job comparisons
 checked in stored WEB, 2026-10-25.
 
+### Lemuel’s mother — Proverbs 31:5–7
+
+Human forgetting receives opposite evaluations in adjacent sayings. The king must not drink
+and forget the law, because another person’s justice is at stake (5). The sufferer is offered
+drink so that poverty and misery no longer occupy memory (7). This is a contrast in human
+awareness and responsibility, distinct from the earlier stories of God remembering a covenant.
+The passage does not claim that forgotten poverty has ceased to exist.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:5–7; Forgetting the law harms others; forgetting misery
+  is presented as relief.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:7; The memory of the righteous is blessed, while
   the name of the wicked rots.

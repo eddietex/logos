@@ -202,7 +202,22 @@ uncertain. Order is possible without a king, and access to a king is possible fo
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:3–9
+
+The king’s appetite is a public matter because his impaired judgment can deprive the afflicted
+of justice (4–5). The mother’s warning about women (3) and her command to speak for the poor (8–9)
+make restraint and responsibility inseparable. This is an instruction to a named king, not a
+report that Lemuel either obeyed or disobeyed. Deuteronomy 17:17–20 likewise restrains royal
+acquisition and places the king under instruction; see
+[[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]].
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:3–9; Royal power is constrained by sobriety,
+  instruction, and the rights of the afflicted.
 
 - [[Four Things]] — Proverbs 30:22, 27–28, 31; Servant king, kingless locusts, lizard in palaces, the stately king.
 
@@ -381,6 +396,8 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
   possible
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Solomon]] — the king whose wisdom heads Proverbs (1:1)
 - [[David]] — named as Solomon's father (Proverbs 1:1)

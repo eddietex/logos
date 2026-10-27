@@ -250,6 +250,9 @@ and the people it wrongs. The divine law is present only in its vocabulary — *
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:1–9 preserves a mother’s teaching to a king; see
+  [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]] .
+
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–9, 13; the line of 6:20, the neck adorned, and the
   gang's *"valuable wealth"* (*hôn yāqār*) filling their houses.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3; *"Bind them around your neck"*.

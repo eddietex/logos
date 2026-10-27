@@ -149,7 +149,22 @@ counterexamples remain explicit.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Lemuel’s mother — Proverbs 31:5–9
+
+The person ready to perish and the bitter in soul are offered forgetfulness of poverty and
+misery. The passage gives no cause for that suffering and makes no charge against the sufferer.
+**Explicit tension:** Proverbs 23:29–35 presents wine as a source of woe and renewed craving;
+31:6–7 presents it as relief from remembered misery. The differing purposes and recipients are
+stated, but the text does not explain a general reconciliation. Its final demand remains justice
+for the poor. See [[The Vine and the Cup]].
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:5–9; Bitterness and misery call for relief and justice,
+  without a diagnosis of hidden guilt.
 
 - [[Wine Is a Mocker]] — Proverbs 20:7, 30; Family loss and unjust punishment limit a disciplinary diagnosis.
 

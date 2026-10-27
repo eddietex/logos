@@ -174,6 +174,9 @@ and the God-fearer's end is a hope that will not be cut off.
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:1–9 joins maternal teaching and royal abstinence, but
+  31:6–7 presents drink as relief beside 23:29–35’s misery; see [[The Vine and the Cup]] .
+
 - [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]] — Proverbs 23:17–18; 24:1–2.
 - [[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]] — Proverbs 23:20–21.
 - [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] — Proverbs 23:13–14.

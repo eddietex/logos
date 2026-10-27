@@ -84,6 +84,9 @@ upright and the wicked (27); righteousness does not guarantee everyone’s appro
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:8–9 makes 29:7, 14’s concern for the poor a direct
+  charge; see [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .
+
 - [[The Words of Agur]] — **Explicit tension of perspective:** Proverbs 29:19 portrays an
   unresponsive servant, while 30:10 scrutinizes the person accusing a servant and forbids slander.
   The latter protects a claim that household stereotypes must not silence. See

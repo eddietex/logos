@@ -165,6 +165,9 @@ images, not identifiable locations requiring place pages.
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:4–7 prohibits royal drinking to protect justice while
+  offering drink to the distressed; the tension with 20:1 is retained in [[The Vine and the Cup]] .
+
 - [[The Words of Agur]] — Proverbs 30:12 describes supposed purity that conceals actual filth,
   extending 20:9’s challenge to self-certified cleanness without explaining another person’s
   suffering. See [[What Is Man That He Should Be Clean]] .

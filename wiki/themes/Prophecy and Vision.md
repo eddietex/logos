@@ -115,7 +115,20 @@ what the text gives.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:1
+
+As in Agur’s heading (30:1), the WEB uses revelation in 31:1. Here the heading explicitly
+identifies the mother as the teacher. It records neither a vision nor a divine commissioning,
+and does not call either Lemuel or his mother a prophet. The classification follows the supplied
+English heading without deriving a biography or a source-language claim from it.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:1; The WEB calls the mother’s teaching a revelation
+  without narrating a prophetic call.
 
 - [[The Words of Agur]] — Proverbs 30:1, 5–6.
 

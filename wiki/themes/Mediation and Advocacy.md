@@ -292,7 +292,21 @@ kinsman-redeemer's title. That is the advocacy Job reaches for at 19:25 with the
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Hebrew as stated.
 
+### Lemuel’s mother — Proverbs 31:8–9
+
+The mother’s repeated command to open the mouth gives advocacy a human office: the king is to
+speak for the mute and judge for the poor. The instruction supplies no divine-human mediator and
+no named heavenly advocate. It belongs alongside Job’s recollection of investigating an unknown
+person’s cause (Job 29:16), as a responsibility of the person with access and authority. See
+[[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]].
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:8–9; The ruler must use his own voice for another
+  person’s cause.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:1–5; suretyship as folly for a son, against Judah's pledge and Job's plea
 
@@ -545,6 +559,8 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Hebr
   advocate bold enough for it
 
 ## Related people
+
+- [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 
 - [[Abraham]] — the first intercessor in Scripture, who argues from justice rather than from mercy
   and stops before God does

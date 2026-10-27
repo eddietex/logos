@@ -242,6 +242,10 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[The Words of King Lemuel]] — Proverbs 31:8–9 parallels Job’s refusal to deny servants or the
+  fatherless a hearing; see
+  [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .
+
 - [[The Words of Agur]] — Proverbs 30:10 forbids slander against a servant and gives weight to his
   curse and the accuser’s guilt. Compare Job 31:13–15’s obligation to hear the servant’s claim. See
   [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .

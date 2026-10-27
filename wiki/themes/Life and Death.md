@@ -396,7 +396,20 @@ about the end of contempt, not an account of a particular death.
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Lemuel’s mother — Proverbs 31:3, 6
+
+The mother warns against what destroys kings and directs strong drink to the person ready to
+perish. Verse 6 describes the recipient’s peril, not an instruction to bring about death, and
+it promises no recovery. The text’s concern for relief belongs with its demand to protect the
+vulnerable, without supplying a medical protocol or an account of the afterlife.
+
+See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
+there.
+
 ## Key passages
+
+- [[The Words of King Lemuel]] — Proverbs 31:3, 6; The ruin of kings is warned against; a person
+  near death receives attention.
 
 - [[Four Things]] — Proverbs 30:15–17; Sheol and the barren womb never satisfied; the mocker's eye left to the birds.
 

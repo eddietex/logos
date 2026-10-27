@@ -17350,3 +17350,56 @@ the stored WEB. Amos 1:3, 2:6 and Ecclesiastes 10:7 were retrieved from bible-ap
 according to the Masorah* on 2026-10-27; Amos 2:6's Hebrew was not checked and no claim rests on it.
 No raw text was changed. `scripts/link-check.sh` exits 0 with 62 expected not-yet-started book
 targets, and `git diff --check` is clean.
+
+## [2026-10-27] ingest | Proverbs 31.1-9 — The Words of King Lemuel
+
+Ingested [[The Words of King Lemuel]], retaining the planned Proverbs 31:1–9 boundary and title.
+Exactly one pericope advanced; the final poem, Proverbs 31:10–31, remains unchecked. The unattended
+discussion is recorded in the passage: maternal instruction, royal strength, drink and remembered
+law, relief from remembered misery, and the repeated command to speak for the poor.
+
+**Interpretive decisions.** Created [[Lemuel]] and [[Lemuel's Mother]] as distinct people. The
+heading supplies neither a country nor an identity with Solomon or Bathsheba. The mother’s vows
+are not expanded into a birth story, and the warning about women is not assigned an unstated
+sexual offense or historical incident. No place is named, so no place page was created. The
+WEB’s revelation heading is retained without a new Hebrew or prophetic-office claim.
+
+**Tensions retained.** Proverbs 31:6–7’s offer of drink to the distressed is placed explicitly
+beside the destructive picture in 20:1 and 23:29–35. Relief from remembering misery is not said
+to remove poverty; the obligation to judge for the poor remains. Advocacy in 31:8–9 is read
+beside both Exodus 23:3’s ban on favoritism and 23:6’s ban on denying the poor justice. Job’s
+advocacy and later rejection prevent treating the ethic as a guarantee of enduring social power.
+Deuteronomy’s king under instruction and Leviticus’s priests abstaining in service are thematic
+comparisons, not claims of quotation or proof of Lemuel’s nationality or priestly status.
+
+**Created (5 content pages):** the passage, the two people, and two connections:
+
+- [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]].
+- [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]].
+
+**Revised (31 content pages):** [[Proverbs]] (overview, queue, themes, people); [[Solomon]] and
+[[Job (person)]] (attribution and advocacy comparisons only); 16 themes (Wisdom, Kingship and
+Empire, Judgment, Law and Obedience, Language and Speech, The Poor and the Vulnerable, Mediation
+and Advocacy, Compassion and Mercy, Sexual Sin, Oaths and Vows, Suffering, Life and Death,
+Remembrance, Wealth and Possessions, Prophecy and Vision, Righteousness); three existing
+connections (The Wisdom of Solomon, Honor Your Father and Mother, The Vine and the Cup); and nine
+earlier passage pages with reciprocal references. Every touched theme received synthesis and
+a key-passage entry. Every touched existing connection received a passage entry and analysis;
+the headings connection’s pending label for 31:1 was replaced with the ingested passage.
+
+**Indexes and totals.** Revised nine index/dashboard pages: books, main dashboard, themes, People
+F-M and N-Z, and Connections D-H, I-N, O-S, T-Z. The two new connections file under K and O.
+Proverbs remains in progress at 42 / 43 pericopes. Frontmatter counts are 186 passages, 186
+people, 90 places, 83 themes, and 480 connections. Every category page has exactly one index
+row; split-index filing and sorting pass. People ranges have 59–67 rows and Connections 84–119,
+so no range redraw is needed. Including indexes and this log, five pages were created and 41
+existing pages revised.
+
+**Sources and validation.** All nine quoted verses exactly match immutable stored WEB Proverbs
+31:1–9. Local comparisons were checked in raw Proverbs, Exodus, and Job. Leviticus 10:8–11 and
+Deuteronomy 17:16–20 were retrieved directly from bible-api.com with `translation=web` on
+2026-10-27 after the web reader could not access those URLs; each response identified World
+English Bible. Both external comparisons are paraphrased. No unreached book was added to raw,
+and no existing raw text changed. No new exact Greek or Hebrew wording claim is made. No
+ambiguous page basenames remain. `scripts/link-check.sh` exits 0 with 62 expected not-yet-started
+book targets; `git diff --check` is clean. No unresolved operational issue or dangling link remains.

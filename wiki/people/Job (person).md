@@ -98,6 +98,16 @@ affirmed integrity as hidden wickedness.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 10:1; 20:1–30 and the Job passages cited above.
 
+### Comparison with Lemuel’s charge
+
+Job’s remembered defense of the poor, fatherless, blind, lame, and an unknown person’s cause
+(Job 29:12–17) gives a concrete counterpart to the command in [[The Words of King Lemuel]]
+(Proverbs 31:8–9). His oath denies abusing servants or the fatherless (Job 31:13–23). These are
+comparisons, not an appearance in Proverbs or an identification as a king. His later rejection
+(Job 30:9–10) prevents converting righteous advocacy into a guarantee of enduring social power.
+See [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] . Source: the cited
+passages checked in stored WEB.
+
 ## Timeline / key events
 
 Prose prologue and epilogue (Job 1–2, 42:7–17), given here as background for the ingested
@@ -260,6 +270,8 @@ speeches; each becomes a linked passage page as it is ingested.
   full of days"* (42:17). **He is never told about the wager.**
 
 ## Appears in
+
+- [[The Words of King Lemuel]] — comparison only, Proverbs 31:8–9 beside Job 29:12–17; 31:13–23.
 
 - [[Wine Is a Mocker]] — Proverbs 20:1–30; comparison, not a participant.
 
