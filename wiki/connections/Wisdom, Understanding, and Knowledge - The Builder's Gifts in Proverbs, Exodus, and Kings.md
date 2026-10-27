@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:13, 19, 24, 26–27.
+
 - [[Wisdom's Worth and the Founding of the Earth]] — **Proverbs 3:19–20** — *"By wisdom Yahweh
   founded the earth. By understanding, he established the heavens. By his knowledge, the depths were
   broken up, and the skies drop down the dew."*
@@ -47,6 +49,18 @@ to 1 Kings 7. What the series shows is a single idea of building that runs from 
 the smallest: the same gifts that founded earth and heavens equipped the makers of God's dwelling
 places, and the same gifts build an ordinary household. Proverbs 9:1 personifies it — Wisdom
 herself *"has built her house"* — and 14:1 gives it to *"every wise woman"*.
+
+### The worthy woman — Proverbs 31:13, 19, 24, 26–27
+
+The closing poem brings household skill and wise teaching into one portrait: hands spin and
+produce saleable garments, while the mouth speaks wisdom (31:13, 19, 24, 26–27). Exodus
+35:25–26 likewise names women’s skilled spinning among the sanctuary contributions; see
+[[The Freewill Offering]]. Proverbs 31 does not repeat the threefold formula traced above,
+and neither passage identifies these workers with one another. The parallel concerns skill
+expressed through textile work, without making household manufacture a sanctuary rite.
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:11–12, 26, 28–31.
+
 - **Proverbs 19:13** — *"A foolish son is the calamity of his father. A wife's quarrels are a
   continual dripping."* — [[Better Is the Poor Who Walks in Integrity]]
 - **Proverbs 21:9** — *"It is better to dwell in the corner of the housetop, than to share a house
@@ -73,6 +75,19 @@ and 27:16 a second image whose Hebrew is obscure (*ṣōp̄nęhā ṣāp̄an-rû
 literally *whoever hides her hides wind, and oil his right hand calls*); the WEB's *restraining … grasping*
 is an interpretation. On any reading, the quarrel is something that cannot be held. The earlier caveat
 now stands only for 21:19, whose Hebrew was not compared. See [[Do Not Boast About Tomorrow]].
+
+### The worthy woman — Proverbs 31:11–12, 26, 28–31
+
+The final household portrait gives the positive counterpart to the quarrelling-wife sayings.
+Her husband trusts her, she does him good, and her speech teaches wisdom (31:11–12, 26).
+The husband’s response is praise (28–29), while the final appeal requires public recognition
+of her work (31). Her worth therefore exceeds the avoidance of marital strife or usefulness
+to a husband. Neither the negative sayings nor this ideal portrait supplies a verdict on every
+actual marriage; the poem names no historical wife. See
+[[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]].
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

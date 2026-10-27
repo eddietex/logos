@@ -173,7 +173,18 @@ injury proof of failed trust.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:11–12
+
+The husband’s heart trusts in his wife (11), whose sustained conduct does him good (12).
+This is interpersonal confidence, distinct from the explicit fear of Yahweh in verse 30.
+The page’s theme includes reliability between people, but the poem does not equate trust
+in a spouse with saving faith or direct the husband to treat her as divine.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:11–12; A husband’s confidence rests on the woman’s trustworthy conduct.
 
 - [[The Words of Agur]] — Proverbs 30:5, 7–9.
 

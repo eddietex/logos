@@ -182,8 +182,8 @@ of Solomon 4:9 verified WEB at bible-api.com, not stored.
 
 A worthy wife is pictured as her husband’s crown, a disgraceful wife as decay in his bones. The
 saying describes the honor or harm a spouse can bring; it does not identify a woman in Solomon’s
-life. Proverbs 31:10–12 develops a comparable positive portrait, checked in stored WEB but not yet
-ingested.
+life. Proverbs 31:10–12 develops a comparable positive portrait, now ingested as
+[[The Worthy Woman]].
 
 See [[Whoever Loves Correction]]. Source: stored WEB Proverbs 12 and the comparisons documented on
 that passage page.
@@ -252,7 +252,19 @@ the unloved wife's side. See
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:11–12, 23, 28–31
+
+Her husband trusts her, receives good from her, and praises her. She exercises judgment
+in buying land and producing goods; her activity reaches the market and public recognition
+at the gates. The husband’s standing (23) does not exhaust her worth: the final imperative
+names what is owed to her (31). The poem offers an ideal portrait, not the biography of
+Lemuel’s wife or mother and not a complete marriage law.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:11–12, 23, 28–31; Trust, sustained good, and a husband’s praise of his wife’s own works.
 
 - [[Four Things]] — Proverbs 30:19, 23; The way of a man with a maiden; the unloved woman who is married.
 

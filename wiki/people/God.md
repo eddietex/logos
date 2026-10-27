@@ -2272,7 +2272,17 @@ shield does not remove Job 2:3, 7’s affirmed integrity and undeserved harm. Th
 qualifies any assumption that more wealth is always the desired gift. See [[The Words of Agur]].
 Source: stored WEB; the Christian comparison with John 3 is distinguished on the passage page.
 
+### The closing poem of Proverbs
+
+Yahweh is named as the one the woman fears in the closing evaluation of Proverbs (31:30).
+The poem reports no new divine speech or act, and does not explicitly say God granted each
+asset in her household. Fear of Yahweh gives the praise its religious criterion. Job’s
+affirmed fear of God amid undeserved loss (Job 2:3, 7) remains an explicit limit on inferring
+divine approval from prosperity. See [[The Worthy Woman]]. Source: stored WEB.
+
 ## Timeline / key events
+
+- Proverbs 31:30 — named in the criterion for the woman’s praise; no new divine act narrated.
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
   [[Wisdom's Worth and the Founding of the Earth]].
@@ -2544,6 +2554,8 @@ Source: stored WEB; the Christian comparison with John 3 is distinguished on the
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The Worthy Woman]] — Proverbs 31:30; Yahweh explicitly feared.
 
 - [[The Words of Agur]] — Proverbs 30:3–9; knowledge, creation, trustworthy words, refuge, and
   provision.

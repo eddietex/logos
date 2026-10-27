@@ -274,7 +274,18 @@ inference must be distinguished from a quotation of the wisdom motto.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:30
+
+The woman who fears Yahweh is to be praised (30). This returns to the opening principle
+of 1:7 after the poem has described practical conduct; fear is not opposed to capable action.
+The household’s prosperity is part of the portrait, not a test for identifying every God-fearing
+person. Job 1:1 and 2:3, 7 affirm such a person while reporting his undeserved ruin.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:30; Fear of Yahweh supplies the final criterion for praise.
 
 - [[The Words of Agur]] — Proverbs 30:5–9.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:20, 26.
+
 - [[The Words of King Lemuel]] — Proverbs 31:5, 8–9.
 - [[The Months of Old]] — Job 29:12–17.
 - [[Job's Oath of Innocence]] — Job 31:13–23.
@@ -39,6 +41,18 @@ in turn; it does not contradict an imperative that promises no guaranteed return
 
 Sources: the cited Proverbs, Exodus, and Job passages were checked in the stored WEB on
 2026-10-27. No source-language identity or direction of literary dependence is asserted.
+
+### The worthy woman — Proverbs 31:20, 26
+
+The poem following Lemuel’s instruction extends concern for the poor into a household.
+The woman opens her arms to the needy (31:20) and opens her mouth with wisdom (31:26).
+Giving and teaching answer the earlier unit’s speaking and judging without being identical
+tasks: no court case or office is assigned to her. Job’s feeding and clothing of the needy
+(Job 31:16–20) offers a further practical comparison. Generosity does not remove the ruler’s
+obligation to secure justice.
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

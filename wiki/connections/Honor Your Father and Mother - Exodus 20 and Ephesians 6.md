@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:26, 28–31.
+
 - [[The Words of King Lemuel]] — Proverbs 31:1–2.
 
 - [[Do Not Envy Sinners]] — Proverbs 23:22–25.
@@ -110,6 +112,17 @@ vows establish the relation without explaining the vows. A king remains a son wh
 her counsel concerns the justice owed to people beyond the household. This is a thematic
 development of parental honor, not an explicit citation of Exodus 20:12 or a report that Lemuel
 obeyed. Source: stored WEB Proverbs 1:8; 6:20; 31:1–9.
+
+### The worthy woman — Proverbs 31:26, 28–31
+
+The children who rise and call their mother blessed (31:28) provide a positive counterpart to
+Agur’s generation that does not bless its mother (30:11). The woman also teaches (31:26),
+continuing the book’s recognition of maternal instruction. This is an enacted example of
+honor, not an explicit quotation of Exodus 20:12. No long-life promise appears here; the
+closing demand concerns the recognition and fruit owed to her work.
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

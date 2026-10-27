@@ -6,8 +6,9 @@ tags: [theme]
 
 ## Definition / overview
 
-Speech addressed to God, or about him before others, that celebrates what he is and has done — and the
-music, singing, and dance that carry it. **Scripture is slow to arrive at it.** Genesis has poetry —
+Speech that celebrates worth and deeds, addressed to God or spoken about him before others,
+and also given to people whose conduct merits recognition (Proverbs 31:28–31). Music, singing,
+and dance can carry praise, but the closing poem of Proverbs specifies no musical performance. **Scripture is slow to arrive at it.** Genesis has poetry —
 Lamech's boast (4:23–24), the blessings of Isaac and Jacob (27; 49) — but no one in Genesis is said to sing,
 and the verb *šîr* does not occur there (WLC lemma search). **The only *songs* Genesis mentions are a
 send-off that never happened**: Laban's *"I might have sent you away with mirth and with songs, with
@@ -50,7 +51,18 @@ Moses hears singing where Joshua hears the sound of war, and he sees dancing bef
 attribution of that deliverance. The medium alone does not distinguish faithful praise from
 idolatrous celebration. See [[The Golden Calf]].
 
+### The worthy woman — Proverbs 31:28–31
+
+This poem broadens the page’s opening emphasis on praise addressed to God: here the
+recipient is a woman who fears Yahweh. Her husband and children commend her, and her works
+are to praise her at the gates. No singing, music, or performance setting is stated. The
+contrast with deceptive charm (30) makes praise a judgment grounded in conduct.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:28–31; Human excellence receives household and public praise.
 
 - [[The Golden Calf]] — Exodus 32:1–35; Moses hears singing where Joshua hears the sound of war, and he sees dancing before the calf (32:17–19).
 - Genesis 31:27 — the songs and tambourine Laban says he would have given — [[Jacob's Flight from Laban]]

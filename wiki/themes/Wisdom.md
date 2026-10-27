@@ -570,7 +570,19 @@ form to the maternal teaching already commended in Proverbs 1:8 and 6:20.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:10–31
+
+The book’s closing portrait gathers wisdom into a life: planning, craft, commerce, care,
+and teaching. The mouth explicitly speaks wisdom (26), and the final evaluation names fear
+of Yahweh (30). The echoes of Wisdom’s preciousness and house-building invite a literary
+comparison, not an identification of this unnamed woman with the cosmic speaker of chapter 8.
+See [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]].
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:10–31; Wisdom embodied in skilled work, provision, generous hands, and faithful teaching.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1–9; Maternal teaching makes royal restraint answerable
   to public justice.

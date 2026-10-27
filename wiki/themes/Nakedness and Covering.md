@@ -115,7 +115,19 @@ does not yet portray priests approaching the altar in these garments.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The worthy woman — Proverbs 31:21–22, 25
+
+Clothing first protects the household in snow and expresses the woman’s resources;
+then strength and dignity become her clothing (25). No scene of shameful nakedness is
+narrated. Job 29:14 similarly pictures character as clothing, though his garment is
+righteousness and justice. The parallel concerns a metaphor, not identical wording or
+proof of direct borrowing.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:21–22, 25; Literal textiles become the image for strength and dignity.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The face veil covers radiance rather than shameful exposure.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:13–19, 27.
+
 - [[Answer a Fool]] — Proverbs 26:13–16.
 
 - [[The Field of the Sluggard]] — Proverbs 24:27, 30–34.
@@ -132,6 +134,18 @@ houses in the rocks, the locusts *"have no king, yet they advance in ranks"*, an
 the hand is found in kings' palaces. The locusts carry 6:7's point about the ant — no chief or
 ruler — to a whole swarm. The list is about weakness made up for by wisdom; the sluggard, who is
 not weak, has no such excuse. See [[Four Things]]. Source: stored WEB Proverbs 6:7; 30:24–28.
+
+### The worthy woman — Proverbs 31:13–19, 27
+
+The woman’s provision and refusal of idleness (31:13–19, 27) provide a sustained human
+counterpart to the ant’s foresight and the sluggard’s neglected field. She considers and buys
+a field, plants a vineyard, and watches her household. The poem also names servant girls
+(31:15), so it should not be read as an account of unaided labor. Its night imagery praises
+diligence; it gives no timetable abolishing rest. Exodus 20:9–10 explicitly bounds work for
+household members and servants alike.
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

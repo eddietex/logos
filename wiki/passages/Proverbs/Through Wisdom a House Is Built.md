@@ -185,6 +185,8 @@ next queue item.
 
 ## Cross-references
 
+- [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31 makes wise household provision a sustained portrait.
+
 - [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]] — Proverbs 24:3–4.
 - [[A Multitude of Counselors - Proverbs 11.14 and Exodus 18]] — Proverbs 24:5–6.
 - [[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]] — Proverbs 24:12.

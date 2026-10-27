@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:30.
+
 - [[A Good Name]] — Proverbs 22:4.
 
 - **Job 28:28** — *"To man he said, 'Behold, the fear of the Lord, that is wisdom. To depart from evil
@@ -116,6 +118,18 @@ fear of God.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 15:33; 18:12; 22:4; Job 1:1; no new
 source-language claim.
+
+### The worthy woman — Proverbs 31:30
+
+The final poem returns to the book’s opening criterion: the woman who fears Yahweh deserves
+praise (31:30), recalling the beginning of knowledge in 1:7 and of wisdom in 9:10. Here the fear
+of God describes a life of skilled work, generosity, and teaching rather than introducing a
+course of instruction. The poem does not repeat the whole motto. Its flourishing household
+must remain beside God’s affirmation of Job’s integrity amid undeserved ruin (Job 2:3, 7);
+fear of God cannot be inferred from possessions or their loss.
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

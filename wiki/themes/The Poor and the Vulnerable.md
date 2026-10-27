@@ -249,7 +249,18 @@ closing command still demands justice. Need is not treated here as evidence of l
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:20
+
+The woman’s hands do more than produce and accumulate: they extend to the poor and needy.
+The poem does not investigate their deservingness or explain their poverty. Beside the
+king’s obligation to defend their causes (31:8–9), this supplies household generosity as a
+complement to justice, without substituting gifts for fair judgment.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:20; The productive household extends its hands beyond its own members.
 
 - [[The Words of King Lemuel]] — Proverbs 31:5–9; Relief of misery is joined to the right to an
   advocate and righteous judgment.

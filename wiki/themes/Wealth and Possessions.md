@@ -492,7 +492,19 @@ or proof of material recovery. The text keeps relief and the public duty of just
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:10–24, 31
+
+The poem praises profitable trade, land purchase, good clothing, and generous provision.
+Yet the woman’s worth outranks rubies (10), and her hands open to the poor (20). **Explicit
+tension within Proverbs:** this prosperous portrait stands beside Agur’s request for neither
+poverty nor riches (30:8–9). Different forms and concerns remain; neither passage licenses
+making wealth proof of virtue. The closing appeal assigns the fruit of her hands to her.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:10–24, 31; Prosperity used for provision and generosity, with the woman valued above riches.
 
 - [[The Words of King Lemuel]] — Proverbs 31:5–9; Poverty is misery to relieve and a condition whose
   legal rights must be defended.

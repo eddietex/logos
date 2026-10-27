@@ -16,6 +16,13 @@ against drink that could make a ruler forget the law. She ends with the duty to 
 mute and serve justice to the poor. Nothing in the passage reports whether Lemuel followed her
 counsel. Source: stored WEB Proverbs 31:1–9.
 
+### The closing poem of Proverbs
+
+The next poem, [[The Worthy Woman]] (31:10–31), supplies neither a personal name for its
+husband nor a royal title for him. Its position after Lemuel’s instruction does not identify
+him as that husband. The earlier heading permits an attribution question; it does not give
+an additional biographical event. Source: stored WEB Proverbs 31:1–31.
+
 ## Timeline / key events
 
 - Proverbs 31:1–2 — named as king and as the son taught by [[Lemuel's Mother]].
@@ -24,6 +31,8 @@ counsel. Source: stored WEB Proverbs 31:1–9.
   narrated.
 
 ## Appears in
+
+- [[The Worthy Woman]] — Proverbs 31:10–31; attribution context only; not identified in the poem.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1–9.
 

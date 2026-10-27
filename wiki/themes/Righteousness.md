@@ -300,7 +300,18 @@ on the merits of a case; Exodus 23:3, 6 keeps impartiality and protection togeth
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:12, 20, 26, 30–31
+
+The WEB does not explicitly call the woman righteous, but her doing good, giving to the
+poor, and faithful teaching fit the ethical pattern developed elsewhere in Proverbs. The
+criterion of fear of Yahweh (30) prevents reducing excellence to commercial success.
+This is a thematic comparison, not a claim that the poem uses a particular righteousness term.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:12, 20, 26, 30–31; Doing good and caring for the needy give an ethical shape to praise.
 
 - [[The Words of King Lemuel]] — Proverbs 31:9; Righteous judgment means serving the poor person’s
   just cause.

@@ -242,6 +242,8 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[The Worthy Woman]] — Proverbs 31:20’s open hands resemble the provision for the needy in Job 31:16–20; neither passage makes wealth the test of character.
+
 - [[The Words of King Lemuel]] — Proverbs 31:8–9 parallels Job’s refusal to deny servants or the
   fatherless a hearing; see
   [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .

@@ -177,6 +177,8 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31:10–31 expands the wise woman’s household-building image of 14:1.
+
 - [[Where There Is No Vision]] — Proverbs 29:8, 11, 22 develops the prudent temper of 14:29 through
   public peacemaking and self-control. Proverbs 29:13 also continues 14:31’s concern for the poor in
   relation to God, without identifying the two English descriptions as the same Hebrew phrase.

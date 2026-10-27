@@ -17403,3 +17403,65 @@ English Bible. Both external comparisons are paraphrased. No unreached book was 
 and no existing raw text changed. No new exact Greek or Hebrew wording claim is made. No
 ambiguous page basenames remain. `scripts/link-check.sh` exits 0 with 62 expected not-yet-started
 book targets; `git diff --check` is clean. No unresolved operational issue or dangling link remains.
+
+## [2026-10-27] ingest | Proverbs 31.10-31 — The Worthy Woman
+
+Ingested [[The Worthy Woman]], retaining the planned Proverbs 31:10–31 boundary and title.
+Exactly one pericope advanced. Proverbs is now complete at 43 / 43 pericopes; no new book was
+opened. The unattended discussion is preserved in the passage’s summary and notes: skilled
+work, household trust, trading and provision, generous hands, teaching, fear of Yahweh, and
+the community’s obligation to recognize the woman and give her the fruit of her work.
+
+**Interpretive decisions.** The twenty-two-verse alphabetic acrostic was verified in
+Mechon-Mamre’s Masoretic Hebrew text. The poem is treated as a praise portrait, not a named
+woman’s biography or a daily timetable. Neither the woman nor her husband is identified with
+Lemuel’s family. No person page was invented for an ideal type, and no place was inferred
+from the unspecified gates, field, vineyard, or merchant-ship comparison. The servant girls
+qualify a reading of unaided labor, but the verse does not settle their exact legal status.
+The book’s structure description now distinguishes the final poem from the explicit attribution
+of 31:1–9. Praise and Song’s overview was broadened to include deserved human commendation;
+no musical performance is claimed for this poem.
+
+**Tensions retained.** The prosperous household remains beside Agur’s prayer against riches
+(Proverbs 30:8–9) and Job’s affirmed integrity amid loss and public humiliation (Job 1:1,
+13–22; 2:3, 7; 30:9–10). Confidence toward the future does not erase Proverbs 27:1’s warning
+about tomorrow. The poem’s night labor is praise of diligence, not a revocation of the rest
+command in Exodus 20:9–10. The literary connections with personified Wisdom do not establish
+an identity; the verified phrase shared with Ruth 3:11 does not identify Ruth as the subject
+or prove a direction of literary dependence.
+
+**Created (3 content pages):** the passage and two connections:
+
+- [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]].
+- [[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]].
+
+**Revised (43 content pages):** [[Proverbs]]; four people (God, Job, Lemuel, and Lemuel’s Mother,
+with occurrence, comparison, and attribution context distinguished); 18 themes (Wisdom, The
+Fear of God, Work, Marriage, Wealth and Possessions, The Poor and the Vulnerable, Compassion
+and Mercy, Language and Speech, Slavery and Servitude, Praise and Song, Righteousness,
+Retribution, Blessing, Nakedness and Covering, Faith, Hope, Deception, Law and Obedience);
+seven existing connections (The Fear of the Lord Is Wisdom, Better Than Gold, The Contentious
+Woman, Honor Your Father and Mother, Wisdom Understanding and Knowledge, Go to the Ant,
+Open Your Mouth for the Mute); and 13 earlier passages with reciprocal references or updated
+pending references. Every touched theme and person received synthesis and a passage-list
+entry; each touched connection received analysis and a passage entry.
+
+**Indexes and totals.** Revised eight index/dashboard pages: books, main dashboard, themes,
+People F-M, and Connections A-C, D-H, O-S, T-Z. Both new connection titles file under W.
+Counts by frontmatter type: 187 passages, 186 people, 90 places, 83 themes, 482 connections;
+four books started and all four complete. Every category page has exactly one index row;
+split-index sorting and ranges pass. People ranges contain 59–67 rows; Connections 84–121,
+so no range redraw was needed. Including indexes and this log, three pages were created and
+52 existing pages revised.
+
+**Sources and validation.** All 22 verse quotations exactly match immutable stored WEB
+Proverbs 31:10–31. Comparisons in Proverbs, Exodus, and Job were read from stored WEB, with
+references recorded on the passage. Ruth 3:11 was retrieved directly from bible-api.com with
+`translation=web` on 2026-10-27 after the web reader could not access that URL; the response
+identified World English Bible. It is paraphrased in the connection. The shared Hebrew phrase
+in Proverbs 12:4, 31:10, and Ruth 3:11 was verified against Mechon-Mamre’s Masoretic text;
+exact source URLs are recorded on the connection, with the acrostic source on the passage.
+No unreached book was added to raw and no existing raw text changed. No unverified quotation
+or new Greek claim was introduced. No ambiguous page basename remains.
+`scripts/link-check.sh` exits 0 with 62 expected not-yet-started book targets; `git diff --check`
+is clean. No unresolved operational issue or dangling link remains.

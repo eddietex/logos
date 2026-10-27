@@ -235,7 +235,19 @@ character; it does not deny that God raises the lowly. See
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:15
+
+The WEB names servant girls among those receiving portions. Their presence qualifies
+any reading of the woman as an isolated worker: the household includes other laborers and
+unequal positions. The verse specifies neither how they entered service nor terms of release,
+so it cannot establish their exact legal status or be made an abolition statement. Provision
+for them belongs inside the portrait’s care, without resolving the broader tensions of servitude.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:15; Servant girls receive portions within the household.
 
 - [[Four Things]] — Proverbs 30:22–23; A servant who becomes king, and a servant girl heir to her mistress.
 

@@ -158,7 +158,7 @@ more than one place.
   mēYHWH* is word for word the second half of 8:35, where Wisdom says *"whoever finds me, finds life,
   and will obtain favor from Yahweh"*. The verb *find* (*māṣāʾ*) is used twice in both verses. The
   wife is given the promise that Wisdom gave, and that anticipates the *"worthy woman"* who closes the
-  book (31:10). *Finds a good thing* (*māṣāʾ ṭôḇ*) also answers Genesis 2:18, *"It is not good
+  book (31:10), now ingested as [[The Worthy Woman]]. *Finds a good thing* (*māṣāʾ ṭôḇ*) also answers Genesis 2:18, *"It is not good
   (lōʾ-ṭôḇ) for the man to be alone"*. See [[Marriage]], [[Favor and Grace]], and
   [[Wisdom at the Creation]].
 - ***"The poor plead for mercy, but the rich answer harshly"*** (23). A plain observation that does

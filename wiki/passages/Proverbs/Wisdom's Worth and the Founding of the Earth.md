@@ -92,6 +92,8 @@ It does not remove either the promises in Proverbs or Job's counterexample.
 
 ## Cross-references
 
+- [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31:10 values the worthy woman above rubies, recalling wisdom’s worth.
+
 - [[A False Balance]] — Proverbs 11:30 calls the fruit of the righteous a tree of life, extending
   the image from Wisdom to righteous conduct.
 

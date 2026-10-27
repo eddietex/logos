@@ -482,7 +482,19 @@ divine agent named. Neither verse claims that every unburied death or every quar
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:11, 21, 25, 28–31
+
+Gain, provision, confidence, and public honor accompany the woman’s wisdom. **Explicit
+tension:** Job is affirmed as God-fearing yet loses household security and public esteem
+(Job 1:1, 13–22; 2:3, 7; 30:9–10). The poem’s praise is not a universal prediction about all
+wise households. Its final command requires giving recognition and fruit, rather than merely
+announcing that every worker automatically receives a fitting reward.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:11, 21, 25, 28–31; The praised household is an ideal, not a diagnosis of a sufferer’s moral standing.
 
 - [[Four Things]] — Proverbs 30:17, 33; The mocker's unburied eye; pressing anger produces strife.
 

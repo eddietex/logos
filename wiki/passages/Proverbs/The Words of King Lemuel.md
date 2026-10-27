@@ -96,6 +96,8 @@ created from conjecture. A judicial setting is implied by judgment and a cause, 
 
 ## Cross-references
 
+- [[The Worthy Woman]] — Proverbs 31:10–31 follows royal advocacy with household generosity and wise speech, without identifying its figures with Lemuel’s family.
+
 - [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]] — royal restraint and a
   king who must continue to receive instruction.
 - [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] — advocacy, righteous
@@ -174,8 +176,8 @@ commands the king’s conduct; it does not promise a particular outcome for ever
 ### Sources and boundary
 
 The planned Proverbs 31:1–9 boundary and title are retained. The heading begins a new voice,
-and the question about a worthy woman at 31:10 begins the next planned unit; that unit remains
-uningested. All nine verses above are copied from `raw/bible/Proverbs.md`, preserving the WEB’s
+and the question about a worthy woman at 31:10 begins the next unit, now ingested as
+[[The Worthy Woman]]. All nine verses above are copied from `raw/bible/Proverbs.md`, preserving the WEB’s
 wording and quotation marks. Comparisons with Proverbs 1:8; 6:20; 20:1; 23:20–35; 29:7, 14;
 30:1, 32–33, Exodus 23:1–9, and Job 29:7–17; 30:9–10; 31:13–23 were checked in stored WEB.
 Leviticus 10:8–11 and Deuteronomy 17:16–20 were retrieved directly from bible-api.com with

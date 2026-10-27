@@ -233,6 +233,8 @@ whose face one knows.
 
 ## Cross-references
 
+- [[The Worthy Woman]] — Proverbs 31:25, 28–31 joins future confidence with others’ praise; preparedness does not claim control of tomorrow.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:23 carries forward 27:5–6’s costly
   correction: the one who rebukes finds favor afterward, above the flatterer.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Worthy Woman]] — Proverbs 31:10.
+
 - [[Do Not Envy Sinners]] — Proverbs 23:23.
 
 - [[Wine Is a Mocker]] — Proverbs 20:15.
@@ -151,6 +153,19 @@ according to the Masorah* (read 2026-10-26), *buy* and *get* are one imperative,
 that what has been bought can be sold again, and forbids it.
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 4:5–7; 23:23.
+
+### The worthy woman — Proverbs 31:10
+
+Proverbs 31:10 applies the valuation above rubies to a worthy woman. Proverbs 3:15 and Job
+28:18 use rubies to express wisdom’s incomparable worth; the closing portrait embodies that
+valuation in a person whose work and speech are wise (31:13–27). This is a literary comparison,
+not a statement that the woman is literally personified Wisdom or that a purchase price for her
+has been fixed. The same poem that places her worth above valuables ends by asking that she
+receive the fruit of her own hands (31:31). See
+[[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]].
+
+Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
+2026-10-27. No new source-language claim is made in this addition.
 
 ## Significance
 

@@ -96,6 +96,8 @@ looks down on others, and consumes poor people with teeth likened to weapons (11
 
 ## Cross-references
 
+- [[The Worthy Woman]] — Proverbs 31:10–31 praises a prosperous household; the tension with Agur’s prayer against riches (30:8–9) is retained.
+
 - [[Who Has Ascended - Proverbs 30.4, Job 38, and John 3.13]]
 - [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]]
 - [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]]

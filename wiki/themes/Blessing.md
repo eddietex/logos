@@ -283,7 +283,18 @@ to the portrait of disordered family conduct.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:28–29
+
+Calling their mother blessed is a human response to her life and care, not a divine
+speech creating fertility or a reported grant of possessions. It reverses the failure to
+bless a mother in Proverbs 30:11. The acknowledgment is joined to the call that she receive
+the fruit of her work (31), so praise does not replace practical recognition.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:28–29; Children call their mother blessed; her husband praises her.
 
 - [[The Words of Agur]] — Proverbs 30:11.
 

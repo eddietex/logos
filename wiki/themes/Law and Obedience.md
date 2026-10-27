@@ -432,7 +432,18 @@ under instruction without making Lemuel an identified Israelite ruler.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:26
+
+The closing portrait includes the woman as a teacher. The WEB’s faithful instruction
+names the character of her speech; no specific statute, judicial office, or act of formal
+legislation is stated. Together with the mother’s teaching in 31:1–9, it keeps received
+instruction central to wisdom and gives women an explicit teaching role.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:26; Faithful instruction comes from the woman’s mouth.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1, 4–5, 9; A king receives instruction and must retain
   the law while judging.

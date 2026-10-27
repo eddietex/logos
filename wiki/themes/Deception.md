@@ -310,7 +310,17 @@ eyes"* in 30:12: the absence of evidence is taken for innocence.
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:30
+
+Charm is called deceitful and beauty vain, while fear of Yahweh warrants praise. The
+verse warns against appearance as a sufficient measure; it does not identify every attractive
+woman as a liar. Her works supply the evidence for the praise requested in verse 31.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:30; Charm is an unreliable measure of worth.
 
 - [[Four Things]] — Proverbs 30:20; The adulteress wipes her mouth and denies wrongdoing.
 

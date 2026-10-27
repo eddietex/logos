@@ -5,7 +5,7 @@ genre: Wisdom / Poetry
 author: Attributed in its headings to Solomon (1:1; 10:1; 25:1), to "the wise" (22:17; 24:23), to Agur (30:1), and to King Lemuel's mother (31:1); compiled no earlier than Hezekiah's reign (25:1)
 canonical_order: 20
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Proverbs
 
@@ -369,7 +369,15 @@ of
 of remembering the law and the justice due to the afflicted. Drink assigned to the dying and
 bitter in soul (6–7) remains in explicit tension with the destructive portrait of 23:29–35.
 Twice she commands the king to open his mouth for the vulnerable and judge righteously (8–9).
-Neither his kingdom nor an identification with Solomon is supplied. The final poem remains next.
+Neither his kingdom nor an identification with Solomon is supplied. The final poem follows as a distinct praise portrait.
+
+[[The Worthy Woman]] (31:10–31) closes the book with an alphabetic praise poem: trustworthy
+marriage, skilled work, household provision, trading, generosity, and wise teaching culminate
+in fear of Yahweh and a demand for public recognition of her works. The rubies of wisdom’s
+worth (3:15), the wise woman’s house (14:1), and the book’s opening fear of Yahweh (1:7) return
+in a human portrait. Its subject is not identified as Lemuel’s wife or mother. The prosperity
+pictured remains explicitly beside Agur’s prayer against riches and Job’s undeserved losses.
+All 43 planned pericopes are now ingested; the final boundary is unchanged.
 
 ## Structure
 
@@ -384,8 +392,10 @@ Neither his kingdom nor an identification with Solomon is supplied. The final po
 - **25–29 The proverbs of Solomon copied by Hezekiah's men** — comparisons and images, many in
   clusters on the fool, the sluggard, and the king.
 - **30 The words of Agur** — a confession of ignorance (30:2–4), a prayer, and numerical sayings.
-- **31 The words of King Lemuel** — his mother's instruction (31:1–9), and the acrostic poem on the
-  *"worthy woman"* (31:10–31) that ends the book.
+- **31 Royal instruction and the closing poem** — Lemuel’s mother teaches him (31:1–9); the
+  acrostic praise of the worthy woman follows (31:10–31), without identifying its subject or
+  adding a separate attribution. The verified form and attribution limits are recorded in
+  [[The Worthy Woman]].
 
 ## Pericopes
 
@@ -454,9 +464,14 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Words of Agur]] — Proverbs 30:1–14
 - [x] [[Four Things]] — Proverbs 30:15–33
 - [x] [[The Words of King Lemuel]] — Proverbs 31:1–9
-- [ ] The Worthy Woman — Proverbs 31:10–31
+- [x] [[The Worthy Woman]] — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Wisdom]], [[The Fear of God]], [[Work]], [[Marriage]] — the final praise portrait embodies
+  wisdom in practical conduct and concludes with fear of Yahweh (31:10–31).
+- [[The Poor and the Vulnerable]], [[Wealth and Possessions]], [[Praise and Song]] — productive
+  hands also give; the worker should receive her fruit and public recognition (31:20, 28–31).
 
 - [[Kingship and Empire]], [[Judgment]], [[Mediation and Advocacy]] — sober judgment and speaking
   for the mute, poor, and needy (31:4–9).

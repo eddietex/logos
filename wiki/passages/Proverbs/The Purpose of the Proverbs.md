@@ -151,6 +151,8 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 
 ## Cross-references
 
+- [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31:30 returns to the opening fear of Yahweh in a lived portrait.
+
 - [[A Gentle Answer]] — Proverbs 15:33, *"The fear of Yahweh teaches wisdom"*, after the motto of 1:7.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:1 renews the Solomonic heading and begins the
   short sayings collection.

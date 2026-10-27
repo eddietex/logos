@@ -108,6 +108,15 @@ comparisons, not an appearance in Proverbs or an identification as a king. His l
 See [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] . Source: the cited
 passages checked in stored WEB.
 
+### The closing poem of Proverbs
+
+[[The Worthy Woman]] offers a flourishing household and public praise, while Job’s story
+affirms fear of God amid household loss and later public humiliation (Job 1:1, 13–22;
+2:3, 7; 30:9–10). **The tension remains explicit:** Proverbs’ portrait cannot make Job’s
+losses evidence of defective wisdom. His recalled provision for poor and unclothed people
+(Job 31:16–20) also parallels the woman’s open hands (Proverbs 31:20). He is a comparison,
+not a participant in this poem. Source: the cited verses checked in stored WEB.
+
 ## Timeline / key events
 
 Prose prologue and epilogue (Job 1–2, 42:7–17), given here as background for the ingested
@@ -270,6 +279,8 @@ speeches; each becomes a linked passage page as it is ingested.
   full of days"* (42:17). **He is never told about the wager.**
 
 ## Appears in
+
+- [[The Worthy Woman]] — Proverbs 31:10–31; comparison only; generous conduct and undeserved loss.
 
 - [[The Words of King Lemuel]] — comparison only, Proverbs 31:8–9 beside Job 29:12–17; 31:13–23.
 

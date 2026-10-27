@@ -239,7 +239,18 @@ act in 8–9; reducing suffering to a reason for silencing sufferers would miss 
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:20, 26
+
+The same hands that spin and trade are extended to the needy (20). Compassion here is
+inferred from concrete giving, not from a narrated emotion or an explicit mercy term in
+the WEB. Wise, faithful instruction (26) accompanies the material help; the prosperous
+household’s boundary does not mark the boundary of its concern.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:20, 26; Generosity accompanies wise instruction.
 
 - [[The Words of King Lemuel]] — Proverbs 31:6–9; Attention to bitter suffering must accompany
   practical justice.

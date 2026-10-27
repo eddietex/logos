@@ -375,7 +375,19 @@ order are shown in creatures without strength or overseers. See
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The worthy woman — Proverbs 31:13–19, 24, 27, 31
+
+The woman selects materials, spins, trades, buys land, plants, and oversees provision.
+Verse 31 asks others to give her the fruit of her hands: the poem concerns recognition of
+labor as well as its performance. Servant girls are present (15); this is not a picture of
+one person doing every task without help. The night imagery praises diligence without issuing
+a round-the-clock schedule or revoking the rest of Exodus 20:9–10.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:13–19, 24, 27, 31; Skilled production, investment, and the worker’s claim to recognition and fruit.
 
 - [[Four Things]] — Proverbs 30:25–27; Ants that store food; locusts that advance in ranks without a king.
 

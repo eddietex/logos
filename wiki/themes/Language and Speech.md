@@ -421,7 +421,18 @@ requires advocacy when silence would abandon another person’s cause.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The worthy woman — Proverbs 31:26, 28–31
+
+The woman speaks wisdom and faithful instruction; her children and husband answer with
+blessing and praise. The poem ends by calling for recognition at the gates, where her works
+figuratively praise her. This is deserved commendation rather than flattery or self-praise;
+Proverbs 27:2 similarly asks that praise come from another mouth.
+
+See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Worthy Woman]] — Proverbs 31:26, 28–31; Wise teaching and deserved praise answer misleading charm.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1–2, 8–9; The mother teaches; the king must speak for
   those without an effective voice.
