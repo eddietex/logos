@@ -21,12 +21,18 @@ passing generations, and ends with forgotten predecessors and successors. Its cl
 sets a question for the book, not a license to omit the later affirmations of enjoyment,
 wisdom's relative worth, and accountability to God.
 
+[[The Burden of Wisdom]] turns to the first person. The Preacher, king over Israel in Jerusalem,
+searches out all that is done under the sky by wisdom, and calls the task a heavy burden God has
+given (1:13). This is the book's first mention of God. The results are two verdicts of vanity
+and chasing after wind, a saying that the crooked cannot be made straight (1:15), and a saying
+that much wisdom brings much grief (1:18).
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–11 currently has an ingested passage page.
+only 1:1–18 currently has ingested passage pages.
 
 ## Structure
 
@@ -46,7 +52,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[Vanity of Vanities]] — Ecclesiastes 1:1–11
-- [ ] The Burden of Wisdom — Ecclesiastes 1:12–18
+- [x] [[The Burden of Wisdom]] — Ecclesiastes 1:12–18
 - [ ] The Trial of Pleasure — Ecclesiastes 2:1–11
 - [ ] The Wise and the Fool Share One End — Ecclesiastes 2:12–17
 - [ ] The Labor Left to Another — Ecclesiastes 2:18–26

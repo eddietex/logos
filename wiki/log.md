@@ -17529,3 +17529,47 @@ established by Ecclesiastes.
 `scripts/link-check.sh` exits 0 with 61 expected not-yet-started book targets; `git diff --check`
 is clean. The queue covers all 222 verses without overlap or omission, and exactly one unit is
 checked. No ambiguous content-page basename, unresolved link, or operational blocker remains.
+
+## [2026-10-27] ingest | Ecclesiastes 1.12-18 — The Burden of Wisdom
+
+**Ingested [[The Burden of Wisdom]] (1:12–18) in auto mode.** Ecclesiastes was the only
+`in-progress` book; this was the first unchecked box. The planned boundary held: 1:12 opens the
+first-person report and 1:18 closes it with a proverb, before the experiment with mirth at 2:1.
+The auto-mode discussion is in the passage summary and notes, including the parallel structure
+of two inquiries, two verdicts, and two sayings, and the first mention of God in the book (1:13).
+
+**Interpretive decisions.** No new person or place page. "The sons of men" and the predecessors
+in Jerusalem are generic. Israel in "king over Israel" (1:12) gets no place page, consistent with
+how Proverbs 1:1 was handled. Solomon stays an attribution comparison, not an appearance. The
+passage, [[Solomon]], and the Wisdom of Solomon connection record the difficulty that 1:16 implies
+several predecessors in Jerusalem, which does not fit an identification with Solomon easily. The
+narrative claim that David alone reigned there before Solomon is a paraphrase with no quotation,
+marked as such, because Samuel and Kings are not stored. The past tense "was king" (1:12) is
+recorded as an English verb form, with no authorship argument and no Hebrew claim. Ecclesiastes
+7:13's attribution of crookedness to God's work is kept separate from 1:15, which names no maker.
+
+**Tension retained.** Proverbs 3:13, 17 (the finder of wisdom happy, her paths peace) is set
+against Ecclesiastes 1:18 (much wisdom, much grief) in the new connection. Neither is
+harmonized away. The distinction between the life wisdom guides and the clarity it brings is
+labelled as interpretation. Ecclesiastes 2:13 is cited so that 1:18 is not read as a rejection
+of wisdom.
+
+**Created (2 content pages):** the passage and
+[[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
+
+**Revised (16 content pages):** the book page (box checked, overview extended);
+[[The Preacher (Ecclesiastes)]], [[Solomon]], [[Jerusalem]]; seven themes (Wisdom, Vanity, Folly, Providence, Suffering,
+Kingship and Empire, Work), each with a new development section and key-passage entry; the Wisdom
+of Solomon connection; and four reciprocal passages (Vanity of Vanities, Wisdom's Worth and the
+Founding of the Earth, Where Shall Wisdom Be Found, The Words of Agur). The Wisdom theme's
+existing quotation of 1:18 now matches stored WEB.
+
+**Indexes and totals.** Updated books index (2 / 24), main dashboard, themes index (seven rows),
+places index, People N-Z (two rows), Connections I-N (new row) and T-Z. Counts by frontmatter
+type: 189 passages, 187 people, 91 places, 84 themes, 485 connections.
+
+**Sources and validation.** All seven quoted verses are copied verbatim from stored WEB
+Ecclesiastes 1:12–18. Comparison quotations were checked in stored WEB Ecclesiastes 2:13; 7:13,
+23–25; Proverbs 2:6; 3:13–18; 30:2–3; Job 28:12, 20–21, 28. 1 Kings 3:12 is referenced only
+through the WEB quotation already on the Wisdom of Solomon page (checked 2026-10-25). No book was
+fetched and no raw file changed. No Hebrew or Greek claim was introduced.

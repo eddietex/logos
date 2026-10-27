@@ -40,6 +40,8 @@ the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Exce
 - **Job 1:3** — Job *"the greatest of all the children of the east"* — [[Job of Uz]].
 - **Ecclesiastes 1:1** — [[Vanity of Vanities]]; the heading identifies the Preacher as David's son,
   king in Jerusalem, without naming Solomon.
+- **Ecclesiastes 1:12, 16** — [[The Burden of Wisdom]]; the Preacher, king over Israel in Jerusalem,
+  claims great wisdom above all who were before him in Jerusalem.
 - **Ecclesiastes 12:9** — the Preacher teaches and arranges proverbs; stored WEB checked,
   but this closing unit is not yet ingested.
 - **Song of Solomon 1:1** — *"The Song of songs, which is Solomon's."* Not yet ingested.
@@ -151,6 +153,17 @@ names a title. The latter's royal association is not a new proof of historical a
 The opening also changes the question: the benefits of wisdom announced in Proverbs 1:2–6
 stand beside the Preacher's inquiry into labor's gain, satisfaction, and remembrance.
 Source: stored WEB Ecclesiastes 1:1–11; Proverbs 1:1–7.
+
+### Wisdom above all before him — Ecclesiastes 1:12–18
+
+[[The Burden of Wisdom]] adds a claim close to 1 Kings 3:12: the Preacher has *"great wisdom above
+all who were before me in Jerusalem"* (Ecclesiastes 1:16). The resemblance is in the comparison of
+one king's wisdom with others'. The differences are also explicit. 1 Kings 3:12 presents the
+wisdom as God's gift and compares Solomon with all before and after him; Ecclesiastes 1:16 says
+*"I have obtained for myself"* and compares only with predecessors in Jerusalem, implying more than
+one. And where 1 Kings 3–4 describes wisdom's success, Ecclesiastes 1:18 reports its grief. The
+royal resemblance is real; it does not settle the identification. Source: stored WEB
+Ecclesiastes 1:12–18; 1 Kings 3:12 as quoted above.
 
 ## Significance
 

@@ -234,7 +234,18 @@ will receive a fixed level of goods.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### A burden God has given — Ecclesiastes 1:13, 15
+
+The first mention of God in Ecclesiastes assigns him the giving of the heavy task of searching
+out all that is done (1:13). The next saying, *"That which is crooked can't be made straight"*
+(1:15), does not name who made it crooked; Ecclesiastes 7:13, not yet ingested, asks *"who can
+make that straight, which he has made crooked?"* and so attributes it to God's work. The later
+attribution is noted here, not read back into 1:15. See [[The Burden of Wisdom]]. Source: stored WEB
+Ecclesiastes 1:13–15; 7:13.
+
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:13, 15; the search as a burden God gives; what is crooked cannot be straightened.
 
 - [[The Words of Agur]] — Proverbs 30:7–9.
 

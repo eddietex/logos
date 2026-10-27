@@ -399,7 +399,16 @@ curse. See [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+### All the works done under the sun — Ecclesiastes 1:13–14
+
+The Preacher's inquiry takes as its subject everything that is done under the sky and all the
+works done under the sun, and judges them *"vanity and a chasing after wind"* (1:14). This widens
+1:3's question about the gain of labor to all human activity. The Preacher's own labors and
+their profit are tested next, in 2:4–11. See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:13–14; 2:4–11.
+
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:13–14; All human works surveyed and judged vanity and a chasing after wind.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Labor’s gain questioned against recurrence and passing generations.
 

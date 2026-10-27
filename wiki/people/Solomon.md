@@ -163,6 +163,15 @@ explicit statement of the verse. The new passage belongs here as an attribution 
 not as a confirmed additional event in Solomon's life. Source: stored WEB Ecclesiastes 1:1–11;
 Proverbs 1:1.
 
+### Wisdom above all before him — Ecclesiastes 1:12–18
+
+In [[The Burden of Wisdom]] the Preacher claims *"great wisdom above all who were before me in
+Jerusalem"* (1:16). The claim resembles the incomparable wisdom 1 Kings 3:12 says God gave
+Solomon (quoted on [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]), but it
+also implies several predecessors in the city, which sits awkwardly with Solomon's position
+after David alone. Solomon is still not named. This remains an attribution comparison, not an
+appearance. Source: stored WEB Ecclesiastes 1:12–18.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -175,6 +184,7 @@ Proverbs 1:1.
 ## Appears in
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
+- [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; attribution comparison only, not named.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1, attribution comparison only; Lemuel is named
   instead.

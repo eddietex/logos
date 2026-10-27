@@ -86,6 +86,8 @@ river, sea, or travel itinerary is supplied.
 
 ## Cross-references
 
+- [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; the Preacher restates his royal identity in
+  the first person and reports his inquiry by wisdom.
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] — compare the heading with
   [[The Purpose of the Proverbs]], Proverbs 1:1–7: one names Solomon; the other names the Preacher.
 - [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] — compare
@@ -100,7 +102,7 @@ river, sea, or travel itinerary is supplied.
 ## Notes
 
 **Boundary.** The heading and opening poem form 1:1–11. Verse 12 starts the first-person
-royal inquiry. It remains the next unit; no part of that inquiry is marked ingested here.
+royal inquiry, ingested as [[The Burden of Wisdom]].
 
 **Attribution.** The heading's royal description resembles Proverbs 1:1 but does not name
 Solomon. The person page records the Preacher as a textual speaker, not as proof of a second

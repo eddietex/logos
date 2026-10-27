@@ -591,7 +591,21 @@ remain distinct. See [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of P
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+### The burden of wisdom — Ecclesiastes 1:12–18
+
+The Preacher uses wisdom as his instrument to search out all that is done under the sky (1:13),
+claims more of it than all before him in Jerusalem (1:16), and studies it alongside madness and
+folly (1:17). The conclusion is *"in much wisdom is much grief"* (1:18), which the development
+list above already cites; its wording is now verified against stored WEB. This stands in open
+tension with Proverbs 3:13, 17, where the finder of wisdom is happy and her paths are peace. Both
+claims are kept. Ecclesiastes 2:13, not yet ingested, still ranks wisdom above folly, so 1:18
+states a cost, not a rejection. See [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
+
+See [[The Burden of Wisdom]]. Sources: stored WEB Ecclesiastes 1:12–18; 2:13; Proverbs 3:13–18.
+
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; Wisdom as the instrument of a comprehensive search, and its increase as grief.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; A royal inquiry opens by questioning gain, satisfaction, and memory.
 

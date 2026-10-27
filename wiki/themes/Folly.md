@@ -307,7 +307,16 @@ lifting up yourself"* — the remedy is a hand over the mouth (32).
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Madness and folly as objects of study — Ecclesiastes 1:17
+
+In Proverbs folly is chiefly something to avoid. The Preacher applies his heart *"to know madness
+and folly"* (1:17) together with wisdom, as part of one inquiry. The text does not say he
+practiced folly here; that begins with the experiment of 2:1–3, not yet ingested. The study too
+is judged *"a chasing after wind."* See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:17; 2:1–3.
+
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:17; Madness and folly studied alongside wisdom, and the study judged a chasing after wind.
 
 - [[Four Things]] — Proverbs 30:22, 32; The fool filled with food; the hand over the mouth for one who acted foolishly.
 

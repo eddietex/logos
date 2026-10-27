@@ -29,9 +29,17 @@ interpretation and cannot erase the competing formulations. See [[Profit and Rem
 **Nature as a comparison.** Genesis 8:22's reliable seasons sustain life; Ecclesiastes 1:4–7
 makes persistence the backdrop to passing generations. See [[The Earth Remains - Genesis and Ecclesiastes 1]].
 
-Sources: stored WEB Ecclesiastes 1:1–11; Genesis 8:22; Proverbs 10:7; 14:23.
+**Ecclesiastes 1:12–18.** [[The Burden of Wisdom]] applies the verdict to *"all the works that
+are done under the sun"* (1:14) and adds a companion phrase, *"a chasing after wind"*
+(1:14, 17). The second verdict falls on the Preacher's study of wisdom, madness, and folly
+itself, so the inquiry is not exempt from its own conclusion. The saying of 1:15, that the
+crooked cannot be made straight, explains why seeing clearly does not produce gain.
+
+Sources: stored WEB Ecclesiastes 1:1–18; Genesis 8:22; Proverbs 10:7; 14:23.
 
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; all works judged vanity and a chasing after wind, including the study of wisdom.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; the opening verdict and its illustrations.
 

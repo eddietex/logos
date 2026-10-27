@@ -161,7 +161,17 @@ for the poor. See [[The Vine and the Cup]].
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The grief of the wise — Ecclesiastes 1:13, 18
+
+Elsewhere in the wiki's wisdom texts, suffering often falls on the fool or tests the righteous.
+Here it attaches to wisdom itself: the search is given *"to be afflicted with"* (1:13), and *"he
+who increases knowledge increases sorrow"* (1:18). The sorrow is not punishment for a fault the
+text names; it is the cost of seeing what cannot be repaired. See [[The Burden of Wisdom]] and [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
+Source: stored WEB Ecclesiastes 1:12–18.
+
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:13, 18; affliction in the search and sorrow increased with knowledge.
 
 - [[The Words of King Lemuel]] — Proverbs 31:5–9; Bitterness and misery call for relief and justice,
   without a diagnosis of hidden guilt.

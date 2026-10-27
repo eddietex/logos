@@ -92,6 +92,8 @@ It does not remove either the promises in Proverbs or Job's counterexample.
 
 ## Cross-references
 
+- [[The Burden of Wisdom]] — Ecclesiastes 1:18, *"in much wisdom is much grief"*, against 3:13's happy finder of
+  wisdom and 3:17's paths of peace. See [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
 - [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31:10 values the worthy woman above rubies, recalling wisdom’s worth.
 
 - [[A False Balance]] — Proverbs 11:30 calls the fruit of the righteous a tree of life, extending

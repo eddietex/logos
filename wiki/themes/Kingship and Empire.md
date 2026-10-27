@@ -225,7 +225,16 @@ new narrative event in David's life.
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+### The king as inquirer — Ecclesiastes 1:12–18
+
+The Preacher's first-person claim, *"I, the Preacher, was king over Israel in Jerusalem"* (1:12),
+introduces an inquiry only a king's position could plausibly claim to undertake: all that is done
+under the sky. Royal means and unequalled wisdom (1:16) do not exempt him from the verdict of
+vanity or from grief. See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:12–18.
+
 ## Key passages
+
+- [[The Burden of Wisdom]] — Ecclesiastes 1:12, 16; A king with unequalled wisdom reports the limits of what it achieves.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; A king’s heading introduces limits shared by all human generations.
 

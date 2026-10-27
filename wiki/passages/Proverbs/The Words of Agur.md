@@ -107,6 +107,8 @@ looks down on others, and consumes poor people with teeth likened to weapons (11
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]
 - [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]]
 - [[Four Things]] — the rest of Agur's words, Proverbs 30:15–33
+- [[The Burden of Wisdom]] — Ecclesiastes 1:16, the Preacher's claim of great wisdom, against Agur's *"I have not
+  learned wisdom"* (30:3). See [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
 
 ## Notes
 
