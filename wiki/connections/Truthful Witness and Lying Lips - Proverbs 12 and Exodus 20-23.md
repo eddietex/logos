@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:12, 24.
+
 - [[Whoever Loves Correction]] — Proverbs 12:5–6, 17, 19, 22.
 - [[The Ten Commandments]] — Exodus 20:16.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–8.
@@ -45,6 +47,16 @@ who condemns the righteous, both of them alike are an abomination to Yahweh"* (1
 of Exodus 23:7's *"I will not justify the wicked"*. The bribe that drives it is traced on
 [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]]. Source: stored WEB Proverbs
 17:4, 7, 15; Exodus 23:7.
+
+### The ruler who hears lies and the witness who stays silent — Proverbs 29
+
+A ruler who listens to lies makes all his officials wicked (29:12): corruption reaches the whole
+administration through the hearer’s preference. Verse 24 then exposes withheld testimony by a
+thief’s accomplice. Exodus 23:1–8’s refusal of false reports, pressure, and unjust verdicts
+concerns both patterns; withholding known evidence is developed separately in [[The Accomplice Who Will Not Testify - Proverbs 29.24 and Leviticus 5.1]].
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

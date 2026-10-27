@@ -216,6 +216,10 @@ rules that cannot be applied by rule, and 26:7 and 9 say so in the book's own wo
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:20 applies the same closing sentence as 26:12 in the
+  WEB to the hasty speaker. Self-assured wisdom and verbal haste are related failures of reflection,
+  but the descriptions are not interchangeable and no Hebrew identity is newly claimed.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:10–11 develops the trap that catches its
   maker (26:27) and the self-estimate of the person wise in his own eyes (26:12).
 

@@ -526,7 +526,19 @@ Verse 5 concerns understanding justice, not a promise of knowledge about every s
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Wisdom turns away public anger, governs its own temper, and receives correction. Loving it brings
+a father joy, while verbal haste is judged more hopeless than folly; knowing words is not the same
+as responding to them (19).
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:3, 8–9, 11, 15, 17, 20; the passage page
+records the cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:3, 8–9, 11, 15, 17, 20; Wisdom turns away public anger,
+  governs its own temper, and receives correction.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:2, 5, 7, 11, 16, 26.
 

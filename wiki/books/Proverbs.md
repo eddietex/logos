@@ -338,6 +338,14 @@ trust in Yahweh are commended. The promises of boldness and safety remain explic
 Job’s affirmed integrity, fear, and suffering; the chapter’s own poor person with integrity prevents
 equating wealth with righteousness.
 
+[[Where There Is No Vision]] (29:1–27) closes the collection copied by Hezekiah’s men. Reproof and household
+correction stand alongside royal justice for the poor, restraint of anger, and the dangers of
+flattery and hasty speech. Revelation is paired with keeping the law (18); fear of people and
+royal favor are set against trust and justice from Yahweh (25–26). The servant-to-son saying is
+preserved as the WEB gives it, without turning it into an adoption law. Promised safety and the
+wicked’s downfall remain in explicit tension with Job’s undeserved suffering and prosperous
+wrongdoers.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -414,7 +422,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Answer a Fool]] — Proverbs 26:1–28
 - [x] [[Do Not Boast About Tomorrow]] — Proverbs 27:1–27
 - [x] [[The Wicked Flee When No One Pursues]] — Proverbs 28:1–28
-- [ ] Where There Is No Vision — Proverbs 29:1–27
+- [x] [[Where There Is No Vision]] — Proverbs 29:1–27
 
 ### Agur and Lemuel (30–31)
 
@@ -424,6 +432,10 @@ first collection at its heading), each titled from a representative saying.
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Prophecy and Vision]], [[Law and Obedience]] — revelation and keeping the law against unrestrained life (29:18).
+- [[Slavery and Servitude]], [[Adoption]] — the unresponsive servant and the servant who becomes a son (29:19, 21); no legal procedure stated.
+- [[Kingship and Empire]], [[Judgment]] — just rule, the poor person’s case, and justice from Yahweh beyond royal favor (29:4, 7, 14, 26).
 
 - [[Law and Obedience]] — law kept or refused shapes allegiance, family honor, and prayer (28:4, 7,
   9).

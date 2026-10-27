@@ -124,6 +124,10 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:23 restates the reversal of pride and lowliness as
+  abasement and honor. It does not explicitly name grace or its giver, unlike 3:34; the later New
+  Testament citation relationship remains with 3:34.
+
 - [[A False Balance]] — Proverbs 11:24–26 develops the cost of withholding and the benefit of giving
   and making grain available; see
   [[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]].

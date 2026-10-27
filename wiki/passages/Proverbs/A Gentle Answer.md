@@ -211,6 +211,10 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:8, 11, 22 extends the anger thread from a gentle answer
+  and appeased strife to a city spared, self-control, and wrath multiplying sin. Its lowly spirit
+  receiving honor (29:23) also continues 15:33’s relation between humility and honor.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:9 extends 15:8’s distinction: prayer itself
   is unacceptable when the speaker refuses to hear the law.
 

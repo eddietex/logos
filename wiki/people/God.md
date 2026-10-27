@@ -2254,6 +2254,14 @@ name the giver of mercy in verse 13. Its promise of prosperity is held alongside
 of Job amid undeserved ruin (Job 2:3). See [[The Wicked Flee When No One Pursues]]. Source: stored
 WEB Proverbs 28; Job 2:3.
 
+### Sight, safety, and justice — Proverbs 29
+
+In [[Where There Is No Vision]], Yahweh gives sight to poor and oppressor alike (13), keeps the person who
+trusts him safe (25), and is the source of justice beyond royal favor (26). Shared provision does
+not imply approval of oppression. The safety promise remains explicitly in tension with Job 2:3,
+7, where God affirms the integrity of the man suffering without cause; it cannot diagnose every
+sufferer as faithless.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2526,6 +2534,9 @@ WEB Proverbs 28; Job 2:3.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Where There Is No Vision]] — Proverbs 29:13, 25–26; giver of sight, refuge of trust, and source
+  of justice.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:5, 25; law and prayer at 28:9.
 

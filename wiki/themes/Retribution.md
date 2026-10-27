@@ -454,7 +454,20 @@ impoverished person.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+The stubborn are suddenly destroyed, the righteous see the wicked fall, and trust in Yahweh brings
+safety. **Explicit tension:** Job 21:7–13 describes the wicked growing old in prosperity, while
+Job 2:3, 7 records the upright sufferer ruined without cause. These witnesses contradict an
+exceptionless reading of the promises; the chapter supplies no timetable to remove the tension.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1, 6, 14, 16, 23, 25; the passage page records
+the cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:1, 6, 14, 16, 23, 25; The stubborn are suddenly
+  destroyed, the righteous see the wicked fall, and trust in Yahweh brings safety.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 8, 10, 13–14, 18, 20, 22, 27.
 

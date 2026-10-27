@@ -296,7 +296,19 @@ every confrontation; the motive and object of the contention matter.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Wise people turn away anger and govern their own temper, while mockery inflames a city and wrath
+multiplies strife. Verse 27 still recognizes moral opposition between upright and wicked;
+peacemaking does not require treating wrongdoing as acceptable.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:8–11, 22, 27; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:8–11, 22, 27; Wise people turn away anger and govern
+  their own temper, while mockery inflames a city and wrath multiplies strife.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:4, 25.
 

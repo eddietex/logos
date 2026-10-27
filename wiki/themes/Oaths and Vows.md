@@ -127,7 +127,19 @@ commitment rather than a general ban on vows or a retelling of any named person'
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Correction and public justice — Proverbs 29
+
+The thief’s accomplice takes an oath but dares not testify in the WEB. Leviticus 5:1 makes
+withholding known testimony under adjuration culpable. The comparison illuminates the danger of
+silence without establishing identical wording or supplying a ritual procedure for the proverb.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:24; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:24; The thief’s accomplice takes an oath but dares not
+  testify in the WEB.
 
 - [[Wine Is a Mocker]] — Proverbs 20:25; Consider the dedication before the obligation becomes a snare.
 

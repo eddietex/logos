@@ -392,6 +392,12 @@ the boys of a town (Matthew 2:16), and a child who escapes — by going *into* E
 
 ## Cross-references
 
+- [[The Fear of Man Is a Snare - Proverbs 29.25 and Exodus 1.17]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:25–26 contrasts fear of people and royal favor with
+  trust and justice from Yahweh. The midwives’ refusal of the king’s command because they fear God
+  (Exodus 1:17, 21) provides a narrative comparison, not an event Proverbs explicitly cites.
+
 - [[Whoever Loves Correction]] — Proverbs 12:24 warns against laziness; Exodus 1:11–14 prevents reversing that warning into blame for all forced labor.
 
 - Genesis 1:28; 9:1, 7; 35:11; 47:27 — *be fruitful and multiply*, and its fulfilment —

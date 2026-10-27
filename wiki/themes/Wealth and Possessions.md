@@ -464,7 +464,19 @@ losses, rather than made a formula for judging every household.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Companionship with prostitutes wastes wealth, and bribes dismantle a land. The poor and their
+oppressor both depend on Yahweh for sight. Neither wealth nor poverty settles moral standing; how
+power and resources are used matters.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:3–4, 13; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:3–4, 13; Companionship with prostitutes wastes wealth,
+  and bribes dismantle a land.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:6, 8, 11, 16, 19–22, 24–27.
 

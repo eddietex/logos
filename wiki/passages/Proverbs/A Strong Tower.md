@@ -252,6 +252,12 @@ these are general sayings and not verdicts on any particular person. See [[Retri
 
 ## Cross-references
 
+- [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:23 again joins lowliness with honor, like 18:12; 29:25
+  also locates safety in trust in Yahweh, alongside 18:10’s refuge. These are wisdom comparisons,
+  not evidence that every harmed person lacked humility or faith.
+
 - [[The King's Heart]] — Proverbs 21:22's wise besieger brings down a city's confidence like 18:11's imagined wall.
 
 - [[Wine Is a Mocker]] — Proverbs 20:5 draws counsel from deep water; 20:17, 27, 30 develops food and inward searching with different purposes.

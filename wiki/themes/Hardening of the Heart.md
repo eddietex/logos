@@ -114,7 +114,19 @@ based on the WEB, without identifying a shared Hebrew verb.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+The repeatedly rebuked person stiffens his neck and is suddenly destroyed without remedy. Unlike
+the Exodus hardening narrative, this saying assigns the stubborn response to the person and says
+nothing about God causing it. The bodily image is neck, not heart, in the WEB.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1; the passage page records the cross-reference
+sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:1; The repeatedly rebuked person stiffens his neck and
+  is suddenly destroyed without remedy.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:14.
 

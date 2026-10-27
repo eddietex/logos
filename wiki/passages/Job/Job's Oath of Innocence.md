@@ -242,6 +242,11 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:13 gives sight to poor and oppressor alike, continuing
+  the shared-dependence argument. Its unresponsive servant (29:19) also stands in tension with Job
+  31:13–15’s obligation to hear servants’ complaints. A household stereotype cannot cancel their
+  claim to justice.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:13 joins confession to renunciation; Job
   31:33–34 denies concealment without admitting the crimes alleged against him. His generosity
   (31:16–23) also limits an exceptionless reading of the no-lack promise in 28:27.

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:20.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:11, 26.
 
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7: *"Don't be wise in your own eyes. Fear
@@ -19,7 +21,7 @@ tags: [connection]
 - Proverbs 28:11 — *"The rich man is wise in his own eyes; but the poor who has understanding sees
   through him."* Stored WEB; see [[The Wicked Flee When No One Pursues]].
 - Proverbs 29:20 — *"Do you see a man who is hasty in his words? There is more hope for a fool than
-  for him."* Stored WEB, not yet ingested.
+  for him."* Stored WEB; see [[Where There Is No Vision]].
 - Isaiah 5:21 — *"Woe to those who are wise in their own eyes, and prudent in their own sight!"*
   Verified WEB, not yet ingested.
 - Romans 12:16 — *"… Don't set your mind on high things, but associate with the humble. Don't be wise
@@ -37,8 +39,7 @@ Yahweh should be.
 
 **Worse than a fool.** Proverbs ranks the fool very low, but 26:12 puts this man lower: *"There is
 more hope for a fool than for him."* The fool can still be corrected, even if only by the rod of 26:3.
-The self-assured man cannot, because he will not grant that he needs correcting. The same second line,
-*tiqwāh liḵsîl mimmennû*, comes back at 29:20 for the man *"hasty in his words"* — the man who speaks
+The self-assured man cannot, because he will not grant that he needs correcting. The same second sentence in the WEB comes back at 29:20 for the man *"hasty in his words"* (Hebrew identity has not been verified here) — the man who speaks
 before he has listened. Proverbs 12:15 makes a related point with *right in his own eyes* (*yāšār
 bəʿênāyw*): the fool's way looks straight to him, while the wise man *"listens to counsel"*.
 
@@ -69,6 +70,17 @@ Hebrew wording is made.
 
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
 Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
+
+### The hasty speaker and the self-assured man — Proverbs 29
+
+The WEB comparison in 29:20 repeats the second sentence of 26:12, assigning less hope than a
+fool’s to a different fault: haste in speech rather than being wise in one’s own eyes. The link
+concerns refusal of reflection, but the two descriptions are not interchangeable. Chapter 29
+surrounds haste with listening, correction, restraint, and the possibility of understanding
+without responding (19).
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

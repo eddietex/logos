@@ -206,7 +206,19 @@ and faithful wounds of Proverbs 27:5–6 without making pleasant speech the meas
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Many seek a ruler’s favor, but justice comes from Yahweh. The human patronage described here must
+not be collapsed into a doctrine of divine saving grace; favorable access and a just verdict are
+distinguished.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:26; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:26; Many seek a ruler’s favor, but justice comes from
+  Yahweh.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:23.
 

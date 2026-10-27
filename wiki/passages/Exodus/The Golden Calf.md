@@ -90,6 +90,12 @@ scene.
 
 ## Cross-references
 
+- [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:1, 18 compares the stubborn neck and failed restraint
+  with obedient reception of guidance. Exodus 32:7–9, 25 narrates refusal of already-given commands,
+  not a people who never received revelation; the parallel does not establish quotation.
+
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.

@@ -88,6 +88,13 @@ thrive (28).
 
 ## Cross-references
 
+- [[The Fear of Man Is a Snare - Proverbs 29.25 and Exodus 1.17]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:25 names fear of man as a snare, while 28:14 blesses
+  fear without specifying its object in the WEB. The different settings must remain distinct:
+  neither blanket fearlessness nor a diagnosis of guilt from fear follows. Both chapters commend
+  trust in Yahweh rather than self-reliance or royal patronage.
+
 - [[If Like Adam I Have Covered - Job 31.33 and Genesis 3]] — Proverbs 28:13.
 - [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]] — Proverbs 28:9, 13.
 - [[Lending Without Interest - Exodus 22.25 and the Poor Brother]] — Proverbs 28:8.

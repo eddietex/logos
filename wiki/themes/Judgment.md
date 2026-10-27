@@ -407,7 +407,19 @@ contextual comparison.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Just rule stabilizes the land and hears the poor fairly; neither a contentious lawsuit nor access
+to a ruler guarantees justice. Verse 26 locates the ultimate verdict in Yahweh while verse 14
+still demands responsible human judgment.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:4, 7, 9, 14, 26; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:4, 7, 9, 14, 26; Just rule stabilizes the land and
+  hears the poor fairly; neither a contentious lawsuit nor access to a ruler guarantees justice.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:5, 15–16, 21.
 

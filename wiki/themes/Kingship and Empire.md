@@ -183,7 +183,19 @@ is named.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Justice stabilizes a land; bribery tears it down. A ruler who listens to lies corrupts his
+officials, and the just treatment of the poor measures a throne’s legitimacy. Verse 26 locates
+justice finally in Yahweh, limiting royal patronage rather than making government unnecessary.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:2, 4, 12, 14, 26; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:2, 4, 12, 14, 26; Justice stabilizes a land; bribery
+  tears it down.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:2, 12, 15–16, 28.
 

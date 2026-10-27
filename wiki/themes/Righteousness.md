@@ -281,7 +281,19 @@ boldness of the righteous (1) stand beside Job’s affirmed integrity, sores, an
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Righteousness is public as well as personal: people rejoice under righteous rule, and the
+righteous care about justice for the poor. Verse 27 closes with mutual moral aversion, not
+universal social approval.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:2, 6–7, 16, 27; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:2, 6–7, 16, 27; Righteousness is public as well as
+  personal: people rejoice under righteous rule, and the righteous care about justice for the poor.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 4–5, 10, 12, 18, 28.
 

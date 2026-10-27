@@ -290,7 +290,19 @@ standard, not a prohibition of every exercise of personal judgment.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+The fool disrupts a dispute through rage or mockery and vents anger. Yet the hasty speaker has
+still less hope (20), repeating the comparison applied to self-assured wisdom in 26:12 without
+making the two faults identical.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:9, 11, 20; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:9, 11, 20; The fool disrupts a dispute through rage or
+  mockery and vents anger.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:7, 26.
 

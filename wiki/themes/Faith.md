@@ -155,7 +155,19 @@ losses (Job 1–2).
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Trust in Yahweh answers fear of people and dependence on a ruler’s favor. Justice ultimately comes
+from Yahweh. **Tension:** Job 1:1 and 2:3, 7 show that fidelity to God does not prevent severe
+harm, so promised safety cannot be used to diagnose a sufferer’s unbelief.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:25–26; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:25–26; Trust in Yahweh answers fear of people and
+  dependence on a ruler’s favor.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:25–26.
 

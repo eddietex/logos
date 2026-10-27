@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:7, 13–14.
+
 - [[A Good Name]] — Proverbs 22:2, 16.
 
 - [[A Way That Seems Right]] — Proverbs 14:31.
@@ -61,8 +63,7 @@ Proverbs 22:2 states the ground of this page without the verdict: *"The rich and
 in common: Yahweh is the maker of them all."* Where 14:31 and 17:5 drew the consequence — contempt
 for the poor reaches their Maker — 22:2 names the common origin itself, and 22:16 closes the
 collection with the oppressor of the poor coming to poverty. The verse states a shared Maker, not a
-shared condition; it does not say the inequality is unimportant. Proverbs 29:13 (stored, not yet
-ingested) repeats the form with *"the poor man and the oppressor"*.
+shared condition; it does not say the inequality is unimportant. Proverbs 29:13 (now ingested in [[Where There Is No Vision]]) repeats the form with *"the poor man and the oppressor"*.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 14:31; 17:5; 22:2, 16; 29:13; no new
 source-language claim.
@@ -75,6 +76,17 @@ case, and plunder the life of those who plunder them"* (22:22–23). Where 14:31
 poor reaches their Maker, 22:23 has the Maker come to court on their side.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 14:31; 22:22–23; no new source-language claim.
+
+### Sight for poor and oppressor alike — Proverbs 29
+
+Proverbs 29:13 resembles the shared-dependence form of 22:2 but changes both the pair and the
+gift: the poor and the oppressor receive sight from Yahweh. Provision is not approval of the
+oppressor. Verses 7 and 14 demand concern and fair judgment for the poor. Job 31:13–15 places a
+similar obligation on masters hearing servants’ complaints, in explicit tension with reducing
+servants to the unresponsive figure of Proverbs 29:19.
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

@@ -230,7 +230,18 @@ the final judge of his own wisdom, without saying that all wealthy people lack u
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Pride brings a person low; a lowly spirit gains honor. This repeats the reversal of 15:33 and
+18:12, without naming an agent or a date for the reversal. It is moral instruction, not evidence
+that every socially humiliated person was proud.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:23; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:23; Pride brings a person low; a lowly spirit gains honor.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:11, 26.
 

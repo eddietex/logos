@@ -167,6 +167,10 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:15, 17 brings correction into wisdom, parental peace,
+  and delight, with neglect shaming the mother. Like 13:24, it supplies a purpose for discipline
+  rather than a measure of permissible force or an explanation of every instance of suffering.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:15’s hunger through idleness must
   remain distinct from 13:23’s food lost to injustice; 19:18 takes up hopeful correction beside
   13:24.

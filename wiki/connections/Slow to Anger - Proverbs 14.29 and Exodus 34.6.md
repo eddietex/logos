@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:8–9, 11, 22.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 19.
 
 - [[A Way That Seems Right]] — Proverbs 14:17, 29.
@@ -60,6 +62,16 @@ asserted. Source: stored WEB Proverbs 19:11, 19; Exodus 34:6–7.
 *"Don't befriend a hot-tempered man, and don't associate with one who harbors anger: lest you learn his
 ways, and ensnare your soul"* (22:24–25). The sayings on this page praise the slow temper; this command
 adds that the quick one is contagious. See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:24–25; no new
+source-language claim.
+
+### Anger governed, and a city spared — Proverbs 29
+
+Verse 11 contrasts the fool’s unrestrained anger with the wise person’s self-control; verse 8
+carries the benefit into a city, and verse 22 makes wrath a source of further sin. These develop
+the patience commended in 14:29 and 15:18. The comparison with Exodus 34:6 remains thematic; no
+Hebrew identity is asserted for chapter 29.
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
 source-language claim.
 
 ## Significance

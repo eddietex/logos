@@ -17189,3 +17189,59 @@ raw texts are unchanged. No new Hebrew or Greek wording claim is made. `scripts/
 exits 0 (62 expected not-yet-started book targets); `git diff --check` is clean. No unresolved
 operational issue or new dangling link remains. Source-language identity and literary dependence
 are not established by the WEB comparison, as stated on the pages.
+
+## [2026-10-26] ingest | Proverbs 29.1-27 — Where There Is No Vision
+
+Ingested [[Where There Is No Vision]], retaining the planned Proverbs 29:1–27 boundary and title.
+Exactly one queue item advanced. The unattended discussion is recorded in the passage: correction
+and stubbornness; just and corrupt rule; poverty and shared dependence on Yahweh; anger, flattery,
+haste, and testimony; servants and sons; revelation and law; pride, complicity, and fear of people.
+This completes the collection introduced at 25:1, without opening the next pericope.
+
+**Interpretive decisions.** The title is explained against the stored WEB’s “revelation” at 29:18;
+the paired law-keeping clause governs the reading, without reducing it to organizational planning.
+The WEB’s bloodthirsty attackers (10), servant who understands but will not respond (19), and
+pampered servant who becomes a son (21) are retained. No adoption, emancipation, inheritance, or
+punishment procedure is supplied. Job 31:13–15’s obligation to hear servants remains in explicit
+tension with a stereotype of nonresponse. The safety and downfall promises (6, 16, 25) remain in
+explicit tension with Job 2:3, 7 and 21:7–13; harm is not evidence of unbelief or hidden guilt.
+No named human or place occurs, so no new person or place page was warranted. The midwives and the
+calf episode are narrative comparisons, not asserted allusions; the Leviticus witness comparison
+distinguishes the WEB’s taking an oath from hearing an adjuration.
+
+**Created (4 content pages):** the passage and three thematic connections:
+
+- [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]].
+- [[The Fear of Man Is a Snare - Proverbs 29.25 and Exodus 1.17]].
+- [[The Accomplice Who Will Not Testify - Proverbs 29.24 and Leviticus 5.1]].
+
+**Revised (54 content pages):** [[Proverbs]] (overview, checklist, key themes); [[God]] (synthesis
+and appearance); 29 themes (Adoption, Blessing, Blood, Creation, Deception, Faith, Favor and Grace,
+Folly, Hardening of the Heart, Integrity, Judgment, Kingship and Empire, Language and Speech, Law
+and Obedience, Oaths and Vows, Pride and Self-Exaltation, Prophecy and Vision, Retribution,
+Righteousness, Seeing and Being Seen, Sexual Sin, Sin, Slavery and Servitude, Strife and Peacemaking,
+The Fear of God, The Poor and the Vulnerable, Theft and Restitution, Wealth and Possessions, Wisdom);
+eight existing connections (A Bribe Blinds, Contempt for His Maker, Grace to the Humble, Slow to
+Anger, The Prosperity of the Wicked, The Rod of Discipline, Truthful Witness and Lying Lips, Wise
+in His Own Eyes); and 15 earlier passage pages with reciprocal comparisons. Every touched theme
+received synthesis and a key-passage entry, and every touched connection received context as well
+as a passage reference. Updated the relevant obsolete “not yet ingested” labels. The prior exact
+Hebrew identity claim comparing Proverbs 26:12 and 29:20 was replaced with the verified WEB
+comparison and an explicit point-of-claim qualification.
+
+**Indexes and totals.** Revised eight index/dashboard pages: the books index, main dashboard,
+themes index, People Index F-M, and Connections Index A-C, D-H, O-S, T-Z. New connections file under
+A, F, and W. Proverbs is 39 / 43 pericopes and remains in progress. Counts by frontmatter are 183
+passages, 180 people, 90 places, 83 themes, and 473 connections. Each category page has exactly one
+index row; split ranges and filing order pass. Connection subindexes range from 83 to 116 rows,
+below the half-again redraw trigger. Including indexes and this log, four pages were created and
+63 existing pages revised.
+
+**Sources and validation.** All eight key-verse quotations were mechanically checked against the
+immutable raw WEB. Proverbs, Exodus, and Job comparisons use existing raw text. Leviticus 5:1 was
+verified at bible-api.com with `translation=web` on 2026-10-26 through a direct API request after
+the web reader could not open the URL; the connection uses a paraphrase of that verified verse.
+No unreached book was added to raw, and existing raw files are unchanged. No new exact Hebrew or
+Greek wording claim is made. No ambiguous page basenames remain. `scripts/link-check.sh` exits 0
+with 62 expected not-yet-started book targets; `git diff --check` is clean. No unresolved operational
+issue or dangling link remains.

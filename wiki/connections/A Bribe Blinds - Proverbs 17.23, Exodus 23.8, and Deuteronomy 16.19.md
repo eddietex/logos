@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:4, 7, 12, 14, 26.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:21.
 
 - [[The Field of the Sluggard]] — Proverbs 24:23–25.
@@ -114,6 +116,17 @@ not an added detail of the verse.
 
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
 Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
+
+### The land sustained or torn down — Proverbs 29
+
+The WEB of Proverbs 29:4 sets the king’s justice against bribe-taking that tears the land down.
+The poor person’s case measures righteous concern and royal stability (7, 14), while a ruler who
+listens to lies corrupts his officials (12). Verse 26 limits reliance on royal favor: justice
+comes from Yahweh. This extends Exodus 23:6–8’s protection of the poor and rejection of bribes
+from a lawsuit to the condition of a whole polity, without claiming direct quotation.
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

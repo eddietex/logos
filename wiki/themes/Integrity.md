@@ -219,7 +219,19 @@ integrity has worth even when its promised security is not experienced.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Integrity can attract murderous hostility rather than protection. Verse 10 explicitly makes the
+upright a target in the WEB, qualifying any inference that good conduct always wins acceptance or
+safety.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:10; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:10; Integrity can attract murderous hostility rather
+  than protection.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:6, 18.
 

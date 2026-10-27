@@ -222,7 +222,19 @@ without minimizing the damage oppression does.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Righteousness includes concern for the poor person’s case, and royal stability is tied to fair
+judgment of it. Yahweh gives sight to poor and oppressor alike (13); shared dependence neither
+excuses oppression nor establishes moral equivalence.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:7, 13–14; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:7, 13–14; Righteousness includes concern for the poor
+  person’s case, and royal stability is tied to fair judgment of it.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:3, 6, 8, 11, 15, 21, 27.
 

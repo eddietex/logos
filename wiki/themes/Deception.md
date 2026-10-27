@@ -285,7 +285,19 @@ number of 6:16. His hatred is *"concealed by deception"*, but *"exposed in the a
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Correction and public justice — Proverbs 29
+
+Flattery lays a trap, a ruler’s appetite for lies corrupts his staff, and an accomplice suppresses
+testimony. Deception can work through a willing hearer or silence as well as an outright false
+statement.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:5, 12, 24; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:5, 12, 24; Flattery lays a trap, a ruler’s appetite for
+  lies corrupts his staff, and an accomplice suppresses testimony.
 
 - [[The King's Heart]] — Proverbs 21:6, 8, 28; Treasure by a lying tongue and the false witness.
 

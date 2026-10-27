@@ -245,6 +245,12 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[The Fear of Man Is a Snare - Proverbs 29.25 and Exodus 1.17]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:25 promises safety to the person who trusts Yahweh. Job
+  2:3, 7 keeps the tension explicit: the man whose integrity God affirms suffers without cause. Harm
+  cannot be read backward as proof of unbelief.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:18 promises safety to the blameless, an
   explicit tension with Job’s integrity maintained amid ruin without cause and bodily suffering.
 

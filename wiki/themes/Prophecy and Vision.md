@@ -97,7 +97,19 @@ Wisdom's own mind, paralleled by *"my words"*. See [[Wisdom Calls in the Street]
 [[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]]. Source: Proverbs 1 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### Correction and public justice — Proverbs 29
+
+The WEB says revelation, and the parallel clause blesses the person who keeps the law. The saying
+concerns guidance received and obeyed; an application to organizational goals is secondary and
+cannot replace its stated contrast. No particular prophet or occasion is identified.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:18; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:18; The WEB says revelation, and the parallel clause
+  blesses the person who keeps the law.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; Received speech is conveyed without a new dream or vision report.
 

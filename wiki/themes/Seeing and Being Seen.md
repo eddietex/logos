@@ -167,7 +167,17 @@ comes through sight, as at Genesis 3:6's *"delight to the eyes"*.
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Correction and public justice — Proverbs 29
+
+Sight is Yahweh’s gift to both poor and oppressor. This does not promise that the oppressor gains
+moral insight: the shared capacity to see coexists with unjust conduct.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:13; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:13; Sight is Yahweh’s gift to both poor and oppressor.
 
 - [[Wine Is a Mocker]] — Proverbs 20:8, 11–13, 27; A judging gaze, created senses, and inward illumination.
 

@@ -149,6 +149,11 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:13 resembles 22:2’s shared-dependence form, replacing
+  rich and poor with poor and oppressor, and their common Maker with Yahweh’s gift of sight. This
+  does not excuse oppression. Proverbs 29:15, 17 also brings the chapter’s discipline thread into
+  parental joy and peace.
+
 - [[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]] — Proverbs 22:6.
 - [[Sow Wickedness, Reap Trouble - Proverbs 22.8, Job 4.8, and Hosea 8.7]] — Proverbs 22:8.
 - [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]] — Proverbs 22:2, 16.

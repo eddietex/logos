@@ -266,7 +266,19 @@ giver’s character.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Keeping the law is called blessed, in contrast to people casting off restraint without revelation.
+This is a pronouncement about obedient life, not a genealogy blessing or a promise of a specific
+material payment.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:18; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:18; Keeping the law is called blessed, in contrast to
+  people casting off restraint without revelation.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:14, 20, 27.
 

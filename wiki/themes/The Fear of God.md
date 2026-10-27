@@ -257,7 +257,19 @@ This fear differs in function from the wicked person’s panicked flight in vers
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+The fear explicitly named in this verse is fear of man, contrasted with trust in Yahweh. The link
+to fearing God is comparative, illustrated by the midwives in Exodus 1:17, 21; the proverb itself
+does not use that phrase.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:25; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:25; The fear explicitly named in this verse is fear of
+  man, contrasted with trust in Yahweh.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:14.
 

@@ -177,6 +177,10 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:8, 11, 22 develops the prudent temper of 14:29 through
+  public peacemaking and self-control. Proverbs 29:13 also continues 14:31’s concern for the poor in
+  relation to God, without identifying the two English descriptions as the same Hebrew phrase.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 7 extends 14:20’s abandonment of
   the poor; 19:17 supplies the divine reward of pity; 19:11 develops restraint of anger.
 

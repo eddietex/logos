@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:2, 6, 10, 14, 16, 25.
+
 - [[Do Not Envy Sinners]] — Proverbs 23:17–18; 24:1–2.
 
 - [[Whoever Loves Correction]] — Proverbs 12:3, 7, 21, 24, 28.
@@ -216,6 +218,18 @@ Sheol"* *"In an instant"*, are the case that tests the rule. See
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:17–18; 24:1–2; Job 21:13; Psalm 73:17
 verified at bible-api.com with `translation=web`, 2026-10-26.
+
+### The righteous will see their downfall — Proverbs 29
+
+Proverbs 29:16 promises the righteous will see the downfall of the wicked, while 6 gives them
+gladness and 25 promises safety in trust. **Explicit tension:** Job 21:7–13 describes the wicked
+growing old, secure, and joyful; Job 2:3, 7 shows undeserved harm to the upright. Proverbs itself
+acknowledges wicked rule and murderous hostility to integrity (29:2, 10). No timetable is supplied
+that dissolves these opposing observations, and neither fear nor injury can establish the victim’s
+guilt.
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

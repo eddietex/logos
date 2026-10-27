@@ -385,7 +385,19 @@ apparent afterward rather than in the first response.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Flattery traps, lies corrupt government through a willing listener, and haste in speaking is worse
+than folly. Verse 24 adds culpable silence: the thief’s accomplice takes an oath but will not
+testify. Speech ethics includes hearing and answering as well as truthful assertion.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:5, 9, 12, 19–20, 24; the passage page records
+the cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:5, 9, 12, 19–20, 24; Flattery traps, lies corrupt
+  government through a willing listener, and haste in speaking is worse than folly.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:13, 23–24.
 

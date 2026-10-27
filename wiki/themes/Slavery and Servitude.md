@@ -202,7 +202,20 @@ the poor (Exodus 22:25–27) answer exactly this dependence.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Correction and public justice — Proverbs 29
+
+The WEB depicts a servant who understands words but will not respond, and a pampered servant who
+becomes a son. These are household sayings, not emancipation or adoption procedures. **Tension of
+perspective:** Job 31:13–15 insists on hearing a servant’s complaint because master and servant
+share one Maker; the stereotype of nonresponse cannot erase that obligation.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:19, 21; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:19, 21; The WEB depicts a servant who understands words
+  but will not respond, and a pampered servant who becomes a son.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:10; Resistance to a servant ruling
   princes stands in tension with the wise servant’s elevation in 17:2.

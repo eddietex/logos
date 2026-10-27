@@ -205,6 +205,13 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 
 ## Cross-references
 
+- [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:1 applies sudden destruction without remedy to the
+  repeatedly rebuked person who stiffens his neck, resembling 6:15’s end of the scheming
+  troublemaker in the WEB. The connection page also compares that stubborn posture with Exodus 32:9;
+  no Hebrew equivalence is asserted.
+
 - [[Wine Is a Mocker]] — Proverbs 20:4, 13, 16 revisits neglected work and risky guarantees, now addressing the taker of security.
 
 - [[The Plans of the Heart]] — Proverbs 16:5, 27–30; the proud and the winking worthless man again.

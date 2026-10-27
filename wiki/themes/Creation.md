@@ -176,7 +176,18 @@ household is built with the gifts that built the cosmos. See
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Correction and public justice — Proverbs 29
+
+Yahweh gives sight to the poor and the oppressor alike. Read beside 22:2’s shared Maker, the
+saying places both parties under divine provision without granting equal moral approval to their
+actions.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:13; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:13; Yahweh gives sight to the poor and the oppressor alike.
 
 - [[Wine Is a Mocker]] — Proverbs 20:12; Yahweh makes the capacities by which people hear and see.
 

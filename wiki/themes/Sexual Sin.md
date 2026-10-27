@@ -194,7 +194,19 @@ lines. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26), *deep pi
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Correction and public justice — Proverbs 29
+
+The companion of prostitutes squanders wealth, contrasted with the son whose love of wisdom
+delights his father. The saying names neither a particular woman nor an adulterous marriage; its
+stated consequence is household and financial loss.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:3; the passage page records the cross-reference
+sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:3; The companion of prostitutes squanders wealth,
+  contrasted with the son whose love of wisdom delights his father.
 
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:1–23; honeyed lips, the door of her house, the
   loss to strangers, and the wife of your youth set against her

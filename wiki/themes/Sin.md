@@ -267,7 +267,19 @@ supplies the opposing posture.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Sin is a snare for its practitioner and grows under wicked ascendancy. Anger multiplies it, and
+complicity in theft makes silence self-destructive; wrongdoing damages both public life and the
+wrongdoer.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:6, 16, 22, 24; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:6, 16, 22, 24; Sin is a snare for its practitioner and
+  grows under wicked ascendancy.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:4, 13–14, 24.
 

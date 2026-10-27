@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:15, 17, 19, 21.
+
 - [[Do Not Envy Sinners]] — Proverbs 23:13–16.
 
 - [[A Good Name]] — Proverbs 22:6, 15.
@@ -32,7 +34,7 @@ tags: [connection]
   he will not die. Punish him with the rod, and save his soul from Sheol."* — [[Do Not Envy Sinners]]
 - **Proverbs 29:15, 17** — *"The rod of correction gives wisdom, but a child left to himself causes
   shame to his mother."* … *"Correct your son, and he will give you peace; yes, he will bring delight
-  to your soul."* (not yet ingested)
+  to your soul."* — [[Where There Is No Vision]]
 - **Job 5:17** — Eliphaz: *"Behold, happy is the man whom God corrects. Therefore do not despise the
   chastening of the Almighty."* — [[Eliphaz's First Speech]]
 - **Hebrews 12:5–11** — cites Proverbs 3:11–12 and applies it to believers' hardship as God's
@@ -69,7 +71,7 @@ does not use it to settle modern questions about the physical punishment of chil
 made here about the Hebrew word rendered *rod*.
 
 Sources: all quotations copied from stored WEB Proverbs 3:11–12; 12:1; 13:1, 24; 19:18; 22:15;
-23:13–14; 29:15, 17; and Job 1:1; 2:3; 5:17. Proverbs 22:15 is now ingested; the cited verses in Proverbs 23–29 are stored but not yet ingested; Proverbs 19 is now ingested.
+23:13–14; 29:15, 17; and Job 1:1; 2:3; 5:17. The cited Proverbs passages through chapter 29 are now ingested.
 
 ### Proverbs 19 in context
 
@@ -115,6 +117,18 @@ from the correction, and it is joy: *"My son, if your heart is wise, then my hea
 mine"* (23:15). As with 13:24 and 22:15, the sayings give a purpose and no method or measure.
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:13–16.
+
+### Correction, household joy, and the servant — Proverbs 29
+
+Verses 15 and 17 now sit in their ingested context: correction gives wisdom and brings parental
+peace, whereas neglect shames the mother. Verse 19 describes a servant who understands but does
+not respond; verse 21 gives the WEB’s servant-to-son outcome. Those sayings do not extend the
+rod’s scope into an unstated disciplinary procedure. As elsewhere, purposes are given without a
+permissible measure of force. The mother’s shame and father’s joy concern the household, while
+Job’s undeserved suffering remains a limit on treating pain as proof of correction.
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

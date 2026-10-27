@@ -128,6 +128,12 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] — comparison developed with Proverbs 29.
+
+- [[Where There Is No Vision]] — Proverbs 29:4, 7, 14 extends justice for the poor and rejection of
+  bribes into the stability of land and throne. Verse 26 distinguishes royal favor from justice
+  coming from Yahweh; neither passage makes partiality a substitute for a fair hearing.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:21 condemns partiality and observes
   wrongdoing for bread, beside Exodus 23:3, 6–8’s protections against favoritism and bribes.
 

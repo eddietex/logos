@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Where There Is No Vision]] — Proverbs 29:23.
+
 - [[Do Not Withhold Good]] — Proverbs 3:34, within 3:21–35.
 - [[The Plans of the Heart]] — Proverbs 16:5, 18–19; the proud an abomination, pride before a fall.
 - James 4:6–10 — a scriptural citation grounds submission to God and the call to humility
@@ -56,6 +58,16 @@ and a haughty spirit before a fall"* (16:18), and *"It is better to be of a lowl
 than to divide the plunder with the proud"* (16:19). Where 3:34 has Yahweh mock the mockers and give
 grace to the humble, 16:18 describes the fall without naming its agent; 16:5 supplies him — the proud
 in heart *"shall certainly not be unpunished"*. Source: stored WEB Proverbs 3:34; 16:5, 18–19.
+
+### Lowly spirit and honor — Proverbs 29
+
+Proverbs 29:23 pairs pride’s abasement with honor for a lowly spirit, alongside 15:33 and 18:12.
+Unlike 3:34, it does not explicitly name grace or its giver in the WEB. It belongs to the humility
+thread but is not identified as the verse quoted by James or 1 Peter; that citation relationship
+remains with 3:34.
+
+See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
+source-language claim.
 
 ## Significance
 

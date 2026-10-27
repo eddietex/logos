@@ -89,7 +89,20 @@ immediately full: [[Ephraim]] and [[Manasseh]] are not junior tribes, and the ad
 is an heir. **The wiki notes the consistency and does not build a doctrine of adoption in the Old
 Testament out of it**, since Genesis 48 is a single case and the Torah legislates nothing.
 
+### Correction and public justice — Proverbs 29
+
+The WEB says a servant pampered from youth will become a son. This is not a narrated adoption or a
+legal procedure, and the saying specifies no inheritance rights. The evaluation of that outcome is
+not separately explained; it should not be used to collapse servitude, favor, and formal adoption
+into one category.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:21; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:21; The WEB says a servant pampered from youth will
+  become a son.
 
 - [[Jacob Blesses Ephraim and Manasseh]] — **Genesis 48:5–6, 12, 16.** The declaration, the knees, and
   the naming; **the Bible's first adoption and its only formula spoken by the adopting parent**

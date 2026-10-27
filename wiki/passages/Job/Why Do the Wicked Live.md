@@ -289,6 +289,11 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[Where There Is No Vision]] — Proverbs 29:6, 16 gives the righteous gladness and a sight of the
+  wicked’s downfall; Job 21:7–13 describes wicked people secure, joyful, and prosperous into old
+  age. The opposed outcomes remain explicit; neither text supplies a timetable that dissolves the
+  tension.
+
 - [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Job 21:7–9’s secure children of the wicked complicate the use of Proverbs 20:7 as a test of parental character.
 
 - [[The Plans of the Heart]] — Proverbs 16:4, the wicked made for the day of evil, beside Job 21:30.

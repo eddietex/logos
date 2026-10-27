@@ -395,7 +395,19 @@ quotation.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Correction and public justice — Proverbs 29
+
+Revelation and keeping the law are paired at 18: the opposite of unrestrained life is receptive
+obedience. The chapter does not name a particular code or prophet. Correction also requires a
+response; the servant in 19 understands but does not answer.
+
+See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1, 15, 17–19; the passage page records the
+cross-reference sources and interpretive limits.
+
 ## Key passages
+
+- [[Where There Is No Vision]] — Proverbs 29:1, 15, 17–19; Revelation and keeping the law are paired
+  at 18: the opposite of unrestrained life is receptive obedience.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:4–5, 7, 9, 24.
 
