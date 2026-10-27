@@ -172,6 +172,16 @@ also implies several predecessors in the city, which sits awkwardly with Solomon
 after David alone. Solomon is still not named. This remains an attribution comparison, not an
 appearance. Source: stored WEB Ecclesiastes 1:12–18.
 
+### Great works and treasure — Ecclesiastes 2:1–11
+
+[[The Trial of Pleasure]] catalogues houses, vineyards, gardens, pools, servants, flocks, silver
+and gold, *"the treasure of kings"*, and singers (2:4–8). The picture resembles the building and
+wealth 1 Kings 4–10 assigns to Solomon (paraphrased; those chapters are not stored), and 1 Kings
+3:13's promise of *"riches and honor"* (quoted on
+[[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]). As in 1:16, *"all who were
+before me in Jerusalem"* (2:9) implies several predecessors. Solomon is still not named. This is
+an attribution comparison, not an appearance. Source: stored WEB Ecclesiastes 2:1–11.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -185,6 +195,7 @@ appearance. Source: stored WEB Ecclesiastes 1:12–18.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; attribution comparison only, not named.
+- [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; attribution comparison only, not named.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1, attribution comparison only; Lemuel is named
   instead.

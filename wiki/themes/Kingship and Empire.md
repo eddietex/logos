@@ -232,7 +232,18 @@ introduces an inquiry only a king's position could plausibly claim to undertake:
 under the sky. Royal means and unequalled wisdom (1:16) do not exempt him from the verdict of
 vanity or from grief. See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:12–18.
 
+### The king's resources — Ecclesiastes 2:1–11
+
+The experiment of 2:1–11 needs a king's means: servants bought and born in the house, *"the
+treasure of kings and of the provinces"* (2:8), and greatness *"more than all who were before me in
+Jerusalem"* (2:9). The royal speaker can test pleasure at a scale no ordinary person can reach, and
+reports that it produced no profit (2:11). Whether that scale is meant to settle the question for
+everyone else is an inference the text does not state. See [[The Trial of Pleasure]]. Source:
+stored WEB Ecclesiastes 2:7–11.
+
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:7–9; A king's treasure and servants make a comprehensive trial of pleasure possible.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12, 16; A king with unequalled wisdom reports the limits of what it achieves.
 

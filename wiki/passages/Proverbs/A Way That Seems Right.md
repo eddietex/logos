@@ -177,6 +177,8 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — Proverbs 14:13; the sorrow in laughter beside the Preacher's trial of mirth in
+  [[The Trial of Pleasure]] (Ecclesiastes 2:1–11).
 - [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] —
   Proverbs 14:23’s profit in work remains in explicit tension with Ecclesiastes 1:3’s question about gain. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

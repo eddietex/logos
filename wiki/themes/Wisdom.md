@@ -603,7 +603,16 @@ states a cost, not a rejection. See [[Much Wisdom, Much Grief - Proverbs 3.13-18
 
 See [[The Burden of Wisdom]]. Sources: stored WEB Ecclesiastes 1:12–18; 2:13; Proverbs 3:13–18.
 
+### Wisdom at the controls — Ecclesiastes 2:1–11
+
+The trial of pleasure is conducted *"my heart yet guiding me with wisdom"* (2:3), and at its height
+*"My wisdom also remained with me"* (2:9). Wisdom is not suspended for the experiment; it supervises
+it, so the verdict of 2:11 is a wise man's verdict on pleasure, not a fool's. See
+[[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:3, 9, 11.
+
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:3, 9; Wisdom guides the experiment with mirth and remains with the Preacher throughout.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; Wisdom as the instrument of a comprehensive search, and its increase as grief.
 

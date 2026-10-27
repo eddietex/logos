@@ -158,6 +158,8 @@ reverses fortunes; it is not developed into a theory of substitution here.
 
 ## Cross-references
 
+- [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — Proverbs 21:17; the lover of pleasure made poor, beside a king whose pleasure cost
+  nothing he could not afford ([[The Trial of Pleasure]], Ecclesiastes 2:1–11).
 - [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]] — Proverbs 21:1, 29.
 - [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]] — Proverbs 21:3, 27.
 - [[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]] — Proverbs 21:9, 19.

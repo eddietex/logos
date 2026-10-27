@@ -311,10 +311,19 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
 
 In Proverbs folly is chiefly something to avoid. The Preacher applies his heart *"to know madness
 and folly"* (1:17) together with wisdom, as part of one inquiry. The text does not say he
-practiced folly here; that begins with the experiment of 2:1–3, not yet ingested. The study too
-is judged *"a chasing after wind."* See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:17; 2:1–3.
+practiced folly here; that begins with the experiment of 2:1–3 in [[The Trial of Pleasure]]. The study
+too is judged *"a chasing after wind."* See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:17; 2:1–3.
+
+### Folly laid hold of, wisely — Ecclesiastes 2:2–3
+
+The Preacher says of laughter, *"It is foolishness"* (2:2), and sets out *"how to lay hold of folly"*
+with his heart *"yet guiding me with wisdom"* (2:3). Folly is now practiced, not only studied, but
+as an experiment under wisdom's supervision. The purpose is stated: to see what is good for the
+sons of men to do. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:2–3.
 
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:2–3; Laughter called foolishness, and folly laid hold of under wisdom's guidance.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:17; Madness and folly studied alongside wisdom, and the study judged a chasing after wind.
 

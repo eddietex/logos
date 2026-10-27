@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Trial of Pleasure]] — Ecclesiastes 2:4–9.
+
 - [[The Words of King Lemuel]] — Proverbs 31:1–9.
 
 - [[The Words of Agur]] — Proverbs 30:1–3.
@@ -164,6 +166,18 @@ wisdom as God's gift and compares Solomon with all before and after him; Ecclesi
 one. And where 1 Kings 3–4 describes wisdom's success, Ecclesiastes 1:18 reports its grief. The
 royal resemblance is real; it does not settle the identification. Source: stored WEB
 Ecclesiastes 1:12–18; 1 Kings 3:12 as quoted above.
+
+### Riches and honor tested — Ecclesiastes 2:1–11
+
+1 Kings 3:13, quoted above, adds *"riches and honor"* to the wisdom Solomon asked for.
+[[The Trial of Pleasure]] catalogues riches of a royal kind — houses, vineyards, servants, flocks,
+*"silver and gold … the treasure of kings and of the provinces"* (Ecclesiastes 2:8) — and keeps
+wisdom beside them: *"My wisdom also remained with me"* (2:9). Where 1 Kings presents the riches as
+God's gift, Ecclesiastes 2:4–8 presents them as acquired (*"I made myself … I bought … I gathered"*)
+and judges them without profit (2:11). The resemblance to Solomon's splendor in 1 Kings 4–10
+(paraphrased; not stored) is real; Solomon is still not named, and 2:9's predecessors in
+Jerusalem remain the same difficulty as 1:16's. Source: stored WEB Ecclesiastes 2:1–11; 1 Kings
+3:13 as quoted above.
 
 ## Significance
 

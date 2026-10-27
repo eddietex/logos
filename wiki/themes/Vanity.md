@@ -37,7 +37,16 @@ crooked cannot be made straight, explains why seeing clearly does not produce ga
 
 Sources: stored WEB Ecclesiastes 1:1–18; Genesis 8:22; Proverbs 10:7; 14:23.
 
+**Ecclesiastes 2:1–11.** [[The Trial of Pleasure]] announces the verdict before the evidence —
+*"this also was vanity"* (2:1) — and confirms it after the catalogue of works, wealth, and
+pleasure: *"all was vanity and a chasing after wind, and there was no profit under the sun"*
+(2:11). The verdict does not deny the joy of 2:10; it denies that the joy remains as gain. See
+[[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
+Ecclesiastes 2:1–11.
+
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:1, 11; mirth, works, and wealth judged vanity, with no profit under the sun.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; all works judged vanity and a chasing after wind, including the study of wisdom.
 

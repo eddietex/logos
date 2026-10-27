@@ -27,12 +27,18 @@ given (1:13). This is the book's first mention of God. The results are two verdi
 and chasing after wind, a saying that the crooked cannot be made straight (1:15), and a saying
 that much wisdom brings much grief (1:18).
 
+[[The Trial of Pleasure]] tests the opposite instrument. With wisdom still guiding him (2:3), the
+Preacher tries mirth, wine, great works, gardens, servants, treasure, and music, withholding his
+heart from no joy. His heart rejoiced, and that was his portion (2:10), yet the verdict is vanity,
+a chasing after wind, and *"no profit under the sun"* (2:11) — the first direct answer to the
+question of 1:3. God is not mentioned in the unit.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–18 currently has ingested passage pages.
+only 1:1–2:11 currently has ingested passage pages.
 
 ## Structure
 
@@ -53,7 +59,7 @@ merge, or reorder them freely.
 
 - [x] [[Vanity of Vanities]] — Ecclesiastes 1:1–11
 - [x] [[The Burden of Wisdom]] — Ecclesiastes 1:12–18
-- [ ] The Trial of Pleasure — Ecclesiastes 2:1–11
+- [x] [[The Trial of Pleasure]] — Ecclesiastes 2:1–11
 - [ ] The Wise and the Fool Share One End — Ecclesiastes 2:12–17
 - [ ] The Labor Left to Another — Ecclesiastes 2:18–26
 - [ ] A Time for Every Purpose — Ecclesiastes 3:1–15
@@ -81,6 +87,7 @@ merge, or reorder them freely.
 - [[Vanity]] — the opening verdict and its recurring tests.
 - [[Work]] — the question of gain and the possibility of enjoyment.
 - [[Wisdom]] — valuable, yet unable to master every outcome.
+- [[Joy and Enjoyment]] — tested and found without profit (2:1–11), later commended as God's gift.
 - [[Life and Death]] — generations pass; death challenges accumulated advantage.
 - [[Remembrance]] — what survives in the minds of those who come after.
 - [[Creation]] — the world that continues as its observers pass.

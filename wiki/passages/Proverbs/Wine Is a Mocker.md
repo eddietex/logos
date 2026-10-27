@@ -165,6 +165,8 @@ images, not identifiable locations requiring place pages.
 
 ## Cross-references
 
+- [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — Proverbs 20:1; wine taken under wisdom's guidance in [[The Trial of Pleasure]]
+  (Ecclesiastes 2:3).
 - [[The Words of King Lemuel]] — Proverbs 31:4–7 prohibits royal drinking to protect justice while
   offering drink to the distressed; the tension with 20:1 is retained in [[The Vine and the Cup]] .
 

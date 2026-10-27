@@ -17573,3 +17573,44 @@ Ecclesiastes 1:12–18. Comparison quotations were checked in stored WEB Ecclesi
 23–25; Proverbs 2:6; 3:13–18; 30:2–3; Job 28:12, 20–21, 28. 1 Kings 3:12 is referenced only
 through the WEB quotation already on the Wisdom of Solomon page (checked 2026-10-25). No book was
 fetched and no raw file changed. No Hebrew or Greek claim was introduced.
+
+## [2026-10-27] ingest | Ecclesiastes 2.1-11 — The Trial of Pleasure
+
+**Ingested [[The Trial of Pleasure]] (2:1–11) in auto mode.** Ecclesiastes was the only
+`in-progress` book; this was the first unchecked box. The planned boundary held: 2:1 opens a new
+address to the heart and a new experiment, and 2:11 closes it with the full verdict formula,
+before 2:12 turns back to wisdom and folly. The auto-mode discussion is in the passage summary and
+notes: verdict announced before evidence (2:1, 11), wisdom kept at the controls (2:3, 9), joy
+affirmed as a portion (2:10) while profit is denied (2:11), and the absence of God from the unit.
+
+**Interpretive decisions.** No new person or place page: servants, singers, predecessors, and the
+"provinces" are unnamed groups. Solomon stays an attribution comparison; the resemblance to 1 Kings
+4–10 is paraphrased without quotation (not stored), and 2:9's "all who were before me in
+Jerusalem" is recorded as the same difficulty as 1:16. A new theme, [[Joy and Enjoyment]], was
+opened because enjoyment recurs throughout Ecclesiastes (2:24; 3:12–13; 5:18–19; 8:15; 9:7); it
+does not yet gather earlier gladness material from Genesis–Proverbs, and says so. The Eden echo of
+2:5–6 is a labelled interpretation in the passage cross-references only, not a connection page.
+2:11's "no profit" is set against Proverbs 14:23's "profit" on the Profit and Remembrance
+connection, with the English-only basis stated and no claim about shared Hebrew.
+
+**Created (3 content pages):** the passage,
+[[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]], and the theme
+[[Joy and Enjoyment]].
+
+**Revised (19 content pages):** the book page (box checked, overview extended, key theme added);
+[[The Preacher (Ecclesiastes)]], [[Solomon]], [[Jerusalem]]; seven themes (Vanity, Work, Wealth and
+Possessions, Wisdom, Folly, Kingship and Empire, Slavery and Servitude); three connections (The
+Vine and the Cup, The Wisdom of Solomon, Profit and Remembrance); and five reciprocal passages
+(Vanity of Vanities, The Burden of Wisdom, A Way That Seems Right, The King's Heart, Wine Is a
+Mocker). Folly's note that 2:1–3 was "not yet ingested" now links the passage.
+
+**Indexes and totals.** Updated books index (3 / 24), main dashboard, themes index (seven rows
+plus the new Joy and Enjoyment row), places index, People N-Z (two rows), Connections I-N (new
+row), O-S, and T-Z (two rows). Counts by frontmatter type: 190 passages, 187 people, 91 places,
+85 themes, 486 connections.
+
+**Sources and validation.** Eight quoted verses are copied verbatim from stored WEB Ecclesiastes
+2:1–11. Comparison quotations were checked in stored WEB Ecclesiastes 1:3; 2:24; 3:13; 5:18–19;
+6:2; 7:4; 8:15; 9:7; Genesis 2:8–9; Proverbs 14:13, 23; 20:1; 21:17. 1 Kings 3:13 is cited only
+through the WEB quotation already on the Wisdom of Solomon page. No book was fetched and no raw
+file changed. No Hebrew or Greek claim was introduced. `scripts/link-check.sh` clean.

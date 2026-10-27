@@ -86,6 +86,8 @@ river, sea, or travel itinerary is supplied.
 
 ## Cross-references
 
+- [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; 2:11's *"no profit under the sun"* is the
+  first direct answer to the question of 1:3.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; the Preacher restates his royal identity in
   the first person and reports his inquiry by wisdom.
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] — compare the heading with

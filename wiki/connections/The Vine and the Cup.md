@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Trial of Pleasure]] — Ecclesiastes 2:3.
+
 - [[The Words of King Lemuel]] — Proverbs 31:4–9.
 
 - [[Do Not Envy Sinners]] — Proverbs 23:20–21, 29–35.
@@ -155,6 +157,16 @@ See [[The Words of King Lemuel]]. Sources: stored WEB Proverbs 20:1; 23:29–35;
 Leviticus 10:8–11 verified directly at bible-api.com, request `Leviticus 10:8-11?translation=web`,
 on 2026-10-27; response identified World English Bible. The Leviticus comparison is paraphrased;
 no unreached book was added to raw and no new source-language claim is made.
+
+### Wine as an instrument of inquiry — Ecclesiastes 2:3
+
+The Preacher searches *"how to cheer my flesh with wine, my heart yet guiding me with wisdom"*
+(Ecclesiastes 2:3). This is a fifth use, beside provision, gladness, stupor, and wrath: wine taken
+deliberately as part of an experiment, with the loss of self-command that Proverbs 20:1 warns
+against expressly excluded by the terms. The verdict on the whole trial is vanity and no profit
+(2:11), not drunkenness or exposure. See [[The Trial of Pleasure]] and
+[[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
+Ecclesiastes 2:3, 11; Proverbs 20:1.
 
 ## Significance
 

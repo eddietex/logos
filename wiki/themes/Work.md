@@ -406,7 +406,19 @@ works done under the sun, and judges them *"vanity and a chasing after wind"* (1
 1:3's question about the gain of labor to all human activity. The Preacher's own labors and
 their profit are tested next, in 2:4–11. See [[The Burden of Wisdom]]. Source: stored WEB Ecclesiastes 1:13–14; 2:4–11.
 
+### Great works without profit — Ecclesiastes 2:4–11
+
+The Preacher builds houses, plants vineyards, gardens, and parks, and makes pools to water a forest
+(2:4–6). His heart rejoices *"because of all my labor, and this was my portion from all my labor"*
+(2:10). Then he looks at *"all the works that my hands had worked"* and finds *"no profit under the
+sun"* (2:11), the first direct answer to 1:3's question about gain. Work here yields real joy and
+no lasting profit, and the page keeps both. Proverbs 14:23's *"In all hard work there is profit"*,
+recorded on [[Profit and Remembrance - Proverbs and Ecclesiastes 1]], stands in explicit tension
+with 2:11. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:4–11; Proverbs 14:23.
+
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:4–11; Great works bring joy as a portion, yet no profit under the sun.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:13–14; All human works surveyed and judged vanity and a chasing after wind.
 

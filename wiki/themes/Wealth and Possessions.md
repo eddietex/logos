@@ -502,7 +502,20 @@ making wealth proof of virtue. The closing appeal assigns the fruit of her hands
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### The king's treasure tested — Ecclesiastes 2:7–11
+
+The Preacher acquires servants, herds and flocks *"above all who were before me in Jerusalem"*,
+*"silver and gold for myself, and the treasure of kings and of the provinces"* (2:7–8). Nothing
+his eyes desired was kept from them (2:10). The verdict on all of it is vanity and *"no profit
+under the sun"* (2:11). Unlike Proverbs 21:17, where love of pleasure makes a man poor, this
+pleasure costs the Preacher nothing he cannot afford; the failure is not loss but lack of lasting
+gain. See [[The Trial of Pleasure]] and
+[[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
+Ecclesiastes 2:7–11; Proverbs 21:17.
+
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:7–11; Royal treasure accumulated beyond all predecessors, and judged without profit.
 
 - [[The Worthy Woman]] — Proverbs 31:10–24, 31; Prosperity used for provision and generosity, with the woman valued above riches.
 

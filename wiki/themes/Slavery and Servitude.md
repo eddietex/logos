@@ -245,7 +245,17 @@ for them belongs inside the portrait’s care, without resolving the broader ten
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Servants among the king's acquisitions — Ecclesiastes 2:7
+
+*"I bought male servants and female servants, and had servants born in my house"* (2:7). The
+Preacher lists them between his building works and his herds, as possessions that measured his
+greatness. The text neither commends nor criticizes the practice, and gives no terms of service;
+this page records the listing without drawing a judgment from it. See [[The Trial of Pleasure]].
+Source: stored WEB Ecclesiastes 2:7.
+
 ## Key passages
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:7; Servants bought and house-born listed among a king's possessions.
 
 - [[The Worthy Woman]] — Proverbs 31:15; Servant girls receive portions within the household.
 

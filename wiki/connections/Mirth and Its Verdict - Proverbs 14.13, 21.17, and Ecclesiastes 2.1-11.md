@@ -1,0 +1,57 @@
+---
+type: connection
+subtype: contrast
+tags: [connection]
+---
+# Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11
+
+## Passages involved
+
+- [[The Trial of Pleasure]] — Ecclesiastes 2:1–3, 10–11.
+- [[A Way That Seems Right]] — Proverbs 14:13.
+- [[The King's Heart]] — Proverbs 21:17.
+- [[Wine Is a Mocker]] — Proverbs 20:1.
+- Ecclesiastes 2:24; 3:13; 5:18–19; 7:4; 8:15 *(not yet ingested)*.
+
+## Analysis
+
+**Proverbs warns about pleasure from outside.** Proverbs 14:13 says, *"Even in laughter the heart
+may be sorrowful, and mirth may end in heaviness."* Proverbs 21:17 says, *"He who loves pleasure
+shall be a poor man. He who loves wine and oil shall not be rich."* Proverbs 20:1 adds that
+*"Whoever is led astray by"* wine and beer *"is not wise."* Each is a general observation about
+what pleasure does to an ordinary person: it hides sorrow, it impoverishes, it misleads.
+
+**Ecclesiastes tests it from inside.** The Preacher sets out to *"test you with mirth"* (2:1), and
+two of the Proverbs warnings are removed by the conditions of his experiment. He cheers his flesh
+with wine *"my heart yet guiding me with wisdom"* (2:3), so he is not led astray in the sense of
+Proverbs 20:1; and he has the treasure of kings (2:8), so the love of pleasure does not make him
+poor, as Proverbs 21:17 warns. His result agrees with Proverbs 14:13 more than with either of the
+others: the trouble with mirth is not what it costs but what it fails to produce. *"I said of
+laughter, 'It is foolishness'; and of mirth, 'What does it accomplish?'"* (2:2); and at the end,
+*"there was no profit under the sun"* (2:11).
+
+**Where they differ.** Proverbs ties pleasure to loss — poverty, heaviness, folly. Ecclesiastes
+2:10 does not: *"my heart rejoiced because of all my labor, and this was my portion."* The joy was
+real. What it lacked was lasting gain. Proverbs offers a reason to avoid the love of pleasure;
+Ecclesiastes offers a reason not to expect anything more from it than it gives. These are
+different claims, and neither page should be read as correcting the other.
+
+**Ecclesiastes against itself.** The book's own later verdicts pull both ways. 7:4 sets *"the
+heart of fools"* in *"the house of mirth"*; 8:15 says *"Then I commended mirth."* 2:24, 3:13, and
+5:18–19 call eating, drinking, and enjoying good in one's labor a portion and *"the gift of God"*
+(3:13). The trial of 2:1–11 does not mention God, and its verdict is about pleasure pursued as a
+project. Whether the later commendations answer it — enjoyment received as a gift rather than
+sought as profit — is a common reading, but it is an interpretation; the text sets the statements
+side by side without stating how they relate. Those units will be connected here as they are
+ingested.
+
+Sources: all quotations checked in stored WEB Proverbs 14:13; 20:1; 21:17; Ecclesiastes 2:1–3,
+8, 10–11, 24; 3:13; 5:18–19; 7:4; 8:15, on 2026-10-27. No claim is made about shared Hebrew
+vocabulary between the books.
+
+## Significance
+
+The connection keeps [[Joy and Enjoyment]] from collapsing into a single verdict. Proverbs warns
+about pleasure's costs, Ecclesiastes 2 records its limit even when it costs nothing, and later
+Ecclesiastes commends it as a gift. All three remain. See also [[Vanity]], [[Folly]], and
+[[Wealth and Possessions]].

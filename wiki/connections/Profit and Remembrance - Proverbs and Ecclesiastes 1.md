@@ -11,6 +11,7 @@ tags: [connection]
 - [[A Way That Seems Right]] — Proverbs 14:23.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:7.
 - [[The Worthy Woman]] — Proverbs 31:31.
+- [[The Trial of Pleasure]] — Ecclesiastes 2:10–11.
 
 ## Analysis
 
@@ -32,7 +33,16 @@ formal division between short-term and ultimate profit. Nor does Ecclesiastes 1:
 exception for righteous people. This connection retains the difference instead of presenting
 a harmonization as the text's own explanation.
 
-Sources: all four passages checked in stored WEB on 2026-10-27. This comparison makes no claim
+**Ecclesiastes answers its own question.** Ecclesiastes 2:11 gives 1:3 its first direct answer:
+after all his works, *"there was no profit under the sun."* Proverbs 14:23 says *"In all hard
+work there is profit."* The English word is the same in the WEB of both verses, and the claims
+are opposite as stated. Ecclesiastes 2:10 does not deny every return — the Preacher's heart
+rejoiced, *"and this was my portion from all my labor"* — so the tension is between a portion
+received and a profit that remains, a distinction 2:10–11 implies but does not define. No claim
+is made here that the Hebrew behind the two English uses of *profit* is the same word. See
+[[The Trial of Pleasure]].
+
+Sources: all five passages checked in stored WEB on 2026-10-27. This comparison makes no claim
 about shared Hebrew vocabulary or direct literary dependence.
 
 ## Significance

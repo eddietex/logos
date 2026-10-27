@@ -33,8 +33,8 @@ wisdom brings much grief, and increased knowledge brings increased sorrow.
 The passage does not abandon wisdom. It is the instrument the Preacher continues to use, and
 2:13 will state that wisdom excels folly as light excels darkness. What 1:12–18 establishes is
 that the most capable inquirer cannot use wisdom to straighten the world or to escape the pain
-of seeing it clearly. The next unit, the trial of pleasure in 2:1–11, tests mirth after wisdom
-has reported its limit.
+of seeing it clearly. The next unit, [[The Trial of Pleasure]] (2:1–11), tests mirth after
+wisdom has reported its limit.
 
 ## Key verses
 
@@ -95,6 +95,8 @@ nation, consistent with Proverbs 1:1's *"king of Israel"*.
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] — 1 Kings 3:12's
   incomparable wisdom given to Solomon, against 1:16's comparison with all who were before the
   Preacher in Jerusalem.
+- [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; the trial by mirth that follows, also ending
+  in *"a chasing after wind."*
 - Ecclesiastes 7:13 *(not yet ingested)* — *"Consider the work of God, for who can make that
   straight, which he has made crooked?"* (stored WEB). The later verse attributes the crookedness
   of 1:15 to God's work; 1:15 itself does not say who made it so.
