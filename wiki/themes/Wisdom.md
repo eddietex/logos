@@ -661,7 +661,19 @@ and another person to lift, warm, and defend. See
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### The poor and wise youth — Ecclesiastes 4:13–16
+
+*"Better is a poor and wise youth than an old and foolish king who doesn’t know how to receive
+admonition any more"* (4:13). Wisdom outranks age, office, and wealth, and the wisdom named is
+teachability: the king's fault is that he no longer takes warning. The ranking stands, yet the
+youth's following does not outlast its generation (16), as 2:13–16 found that wisdom excels folly
+without securing memory. See [[The Youth and the Old King]] and
+[[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]]. Source: stored WEB
+Ecclesiastes 2:13–16; 4:13–16.
+
 ## Key passages
+
+- [[The Youth and the Old King]] — Ecclesiastes 4:13; A poor and wise youth ranked above an old and foolish king.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:6, 9–12; A quiet handful and a companion ranked as the better portion.
 

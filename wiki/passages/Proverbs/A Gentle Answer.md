@@ -211,6 +211,8 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 
 ## Cross-references
 
+- [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]] — 15:5, 31–32 beside
+  Ecclesiastes 4:13's king who no longer receives admonition.
 - [[A Time for Every Purpose]] — Ecclesiastes 3:7 gives silence and speech their times; see
   [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] .
 

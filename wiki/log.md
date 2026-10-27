@@ -17879,3 +17879,45 @@ Ecclesiastes 4:4–12 (diffed against the raw file). Comparisons checked in stor
 read in Mechon-Mamre's Masoretic text on 2026-10-27; the Hebrew of Genesis 2:18 was not checked,
 and the new connection page says so. No raw text changed. `scripts/link-check.sh` passed: no
 wrapped or dangling links beyond the expected 61 unstarted-book baseline.
+
+## [2026-10-27] ingest | Ecclesiastes 4.13-16 — The Youth and the Old King
+
+Unattended `/ingest auto` by Claude; exactly one pericope. Retained the planned 4:13–16 boundary:
+verse 13 opens a new better-than comparison after 4:4–12, verse 16 closes with the vanity refrain,
+and 5:1 turns to commands about God's house. The next pericope, Ecclesiastes 5:1–7, remains
+unchecked.
+
+**Interpretive decisions.** [[The Youth and the Old King]] treats the story as exemplary and
+identifies no historical king; the Joseph comparison is filed as a shared motif with stated
+differences (Joseph rules under Pharaoh's throne and is not said to be born poor). The subject of
+4:14 is read as the youth of 4:13, as the WEB implies. The passage page records, without resolving,
+two open readings: whether 4:15's *"the youth, the other"* is the same youth or a further successor,
+and whether 4:16's *lip̄nêhem* means those the youth led (WEB) or earlier generations. The verdict of
+vanity is read as falling on passing popularity, not on wisdom's ranking. The youth, king, and
+successor get no person pages; God is not mentioned. No new person, place, or theme page was needed.
+
+**Created (3 content pages):** [[The Youth and the Old King]];
+[[Out of Prison to Reign - Joseph and Ecclesiastes 4.13-14]];
+[[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]].
+
+**Revised (19 content pages):** [[Ecclesiastes]]; [[The Preacher (Ecclesiastes)]]; six themes
+(Wisdom, Folly, Kingship and Empire, The Poor and the Vulnerable, Vanity, Remembrance); two
+connections (Better Is Little, A King Under Instruction); nine reciprocal passages (Two Are Better
+Than One, Pharaoh's Dreams and Joseph's Rise, Joseph in Potiphar's House, Whoever Loves Correction,
+Hope Deferred, A Gentle Answer, Better Is the Poor Who Walks in Integrity, Where There Is No Vision,
+Four Things).
+
+**Indexes and totals.** Revised eight index pages: books (10 / 24), main dashboard, themes, People
+N-Z, and Connections A-C, D-H (new row under E), I-N, O-S (new row under O). Counts by frontmatter
+type: 197 passages, 187 people, 91 places, 85 themes, 494 connections.
+
+**Sources and validation.** All four primary verses copied verbatim from immutable stored WEB
+Ecclesiastes 4:13–16 (diffed against the raw file). Comparisons checked in stored WEB Ecclesiastes
+1:4, 11; 2:13–19; 4:6, 9–12; 5:1; 9:13–16; 10:5–7, 16–17; Genesis 37:3; 39:20; 41:14, 39–43, 46;
+Exodus 1:8; Proverbs 12:15; 13:1, 18; 15:5, 31–32; 19:1, 20; 28:6, 15–16; 29:1, 14; 30:21–22. Hebrew
+claims (*ṭôḇ* in 4:13 and 4:6, *ṭôḇîm* in 4:9; *yeleḏ miskēn wəḥāḵām* and *lōʾ-yāḏaʿ ləhizzāhēr ʿôḏ*
+in 4:13; *bêṯ hāsûrîm* and *rāš* in 4:14; *hayyeleḏ haššēnî ʾăšer yaʿămōḏ taḥtāyw* in 4:15;
+*lip̄nêhem* in 4:16) were read in Mechon-Mamre's Masoretic text of Ecclesiastes 4 on 2026-10-27; no
+Hebrew claim is made for the Genesis or Proverbs comparisons. No raw text changed.
+`scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected 61 unstarted-book
+baseline.

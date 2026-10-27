@@ -93,6 +93,8 @@ something: milk gives butter, the nose gives blood, and wrath gives strife (32�
 
 ## Cross-references
 
+- [[Out of Prison to Reign - Joseph and Ecclesiastes 4.13-14]] — 30:22's *"servant when he is
+  king"* beside Ecclesiastes 4:14's wise youth who came out of prison to be king.
 - [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] —
   Ecclesiastes 1:7–8 adds the unfilled sea and unsatisfied senses to the comparison. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

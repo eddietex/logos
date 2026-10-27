@@ -78,7 +78,16 @@ one without calling it vanity.
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### The youth and the old king — Ecclesiastes 4:13–16
+
+The verdict falls on popularity and succession, not on wisdom. Verse 13's ranking of the poor wise
+youth stands; what is *"vanity and a chasing after wind"* (16) is that the countless people around
+him are followed by those who *"shall not rejoice in him."* See [[The Youth and the Old King]]. Source: stored WEB
+Ecclesiastes 4:13–16.
+
 ## Key passages
+
+- [[The Youth and the Old King]] — Ecclesiastes 4:16; Vanity over a successor's passing popularity.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:4–12; Vanity over envious labor and solitary accumulation, not over companionship.
 

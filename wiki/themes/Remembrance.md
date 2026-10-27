@@ -257,7 +257,17 @@ righteous is blessed. The conflict is recorded on
 
 See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### Those who come after — Ecclesiastes 4:16
+
+*"Yet those who come after shall not rejoice in him"* (4:16) applies 1:11's forgetting to a ruler's
+popularity, and if *"all them over whom he was"* is read as *those who were before them* (an
+alternative recorded on the passage page), the verse runs from earlier to later generations as 1:11
+does. Compare 9:15's poor wise man, whom no one remembered. See [[The Youth and the Old King]]. Source: stored WEB
+Ecclesiastes 1:11; 4:16; 9:15.
+
 ## Key passages
+
+- [[The Youth and the Old King]] — Ecclesiastes 4:16; Later generations will not rejoice in the successor.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:16; No lasting memory of the wise man, any more than of the fool.
 

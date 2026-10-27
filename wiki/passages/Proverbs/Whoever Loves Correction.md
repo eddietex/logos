@@ -129,6 +129,8 @@ See [[The Prosperity of the Wicked]], [[Retribution]], and [[Slavery and Servitu
 
 ## Cross-references
 
+- [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]] — 12:15's wise man who
+  listens to counsel, beside Ecclesiastes 4:13's king who no longer can.
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:19 reprises the contrast of 12:11 between
   cultivating land and pursuing fantasies, now closing with poverty rather than lack of
   understanding.

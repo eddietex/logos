@@ -79,6 +79,8 @@ None named. *Under the sun* (7) gives the scope of the observation, not a locati
 
 ## Cross-references
 
+- [[The Youth and the Old King]] — Ecclesiastes 4:13–16; the next unit, where a youth has all the living
+  with him and is still not secured by them.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; the observer turns from those without a
   comforter to the man without a companion.
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–23; there, labor passes to an unknown

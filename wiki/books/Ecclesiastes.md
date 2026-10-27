@@ -64,12 +64,17 @@ neighbor, rejects the fool's folded hands, and prefers a quiet handful to two ha
 labor. A man with neither son nor brother labors without end and asks for whom. Against him,
 two are better than one: they lift, warm, and defend each other, and a threefold cord holds.
 
+[[The Youth and the Old King]] (4:13–16) ranks a poor and wise youth above an old and foolish
+king who no longer takes admonition. A youth comes out of prison to reign and draws countless
+people, yet those who come after will not rejoice in him. Wisdom keeps its ranking; the
+following it wins is vanity.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–4:12 currently has ingested passage pages.
+only 1:1–4:16 currently has ingested passage pages.
 
 ## Structure
 
@@ -97,7 +102,7 @@ merge, or reorder them freely.
 - [x] [[From Dust to Dust]] — Ecclesiastes 3:16–22
 - [x] [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3
 - [x] [[Two Are Better Than One]] — Ecclesiastes 4:4–12
-- [ ] The Youth and the Old King — Ecclesiastes 4:13–16
+- [x] [[The Youth and the Old King]] — Ecclesiastes 4:13–16
 - [ ] Let Your Words Be Few — Ecclesiastes 5:1–7
 - [ ] The Lover of Silver and the Gift of Enjoyment — Ecclesiastes 5:8–20
 - [ ] Riches Without Enjoyment — Ecclesiastes 6:1–9
@@ -114,6 +119,9 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Kingship and Empire]] and [[Remembrance]] — the foolish king, the youth from prison, and
+  the successor later generations will not rejoice in (4:13–16).
 
 - [[Envy]], [[Folly]], and [[Brotherhood]] — labor as rivalry, the fool's folded hands, and the
   companion who lifts the one who falls (4:4–12).

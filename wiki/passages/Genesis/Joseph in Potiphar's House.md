@@ -521,6 +521,8 @@ of the covenant name for eleven chapters**, and it is spent on the administratio
 
 ## Cross-references
 
+- [[Out of Prison to Reign - Joseph and Ecclesiastes 4.13-14]] — 39:20's prison as the starting
+  point of a rise that Ecclesiastes 4:14 also narrates of an unnamed youth
 - [[Joseph Sold into Slavery]] — Genesis 37:23, 31–33, 36; **the coat, and the first time a garment is
   used to lie about him.** 39:1 restates 37:36 almost verbatim
 - [[Judah and Tamar]] — Genesis 38:1–30; **the chapter wedged between the sale and the house**, whose

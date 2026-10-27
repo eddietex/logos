@@ -63,7 +63,15 @@ with labor (6). He describes a man with neither son nor brother who labors witho
 for whom (8), then commends two over one for reward, help, warmth, and defense (9–12). After the
 preference for the dead in 4:2–3, he names a concrete good among the living.
 
+In [[The Youth and the Old King]] he ranks a poor and wise youth above an old and foolish king
+who no longer knows how to receive admonition (4:13). He tells of one who came out of prison to
+be king though born poor (14), sees all the living with the successor (15), and judges that
+popularity vanity because those who come after will not rejoice in him (16). Though he himself
+speaks as a king (1:12), the story is told of others, not as autobiography.
+
 ## Timeline / key events
+
+- Ecclesiastes 4:13–16 — [[The Youth and the Old King]]; the wise youth ranked above the foolish king, and a successor's passing popularity.
 
 - Ecclesiastes 4:4–12 — [[Two Are Better Than One]]; envious labor, the man alone, and the advantage of companions.
 

@@ -167,6 +167,8 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 
 ## Cross-references
 
+- [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]] — 13:1's scoffer who
+  doesn't listen to rebuke, beside Ecclesiastes 4:13's old king.
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26; 2:26 parallels the transfer of the
   sinner's wealth in Proverbs 13:22, but 2:21 calls leaving skilled labor to a nonworker a
   great evil, in tension with the good man's inheritance here. The recipients are described

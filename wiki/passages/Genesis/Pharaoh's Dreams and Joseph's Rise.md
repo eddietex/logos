@@ -751,6 +751,9 @@ now go to Egypt to buy from him**, and **the sheaves of 37:7 bow in 42:6.** See
 
 ## Cross-references
 
+- [[Out of Prison to Reign - Joseph and Ecclesiastes 4.13-14]] — 41:14, 39–40 beside
+  Ecclesiastes 4:13–14's poor and wise youth who came out of prison to be king; a shared motif,
+  not an identification, since Joseph rules under Pharaoh's throne
 - [[The Cupbearer and the Baker]] — Genesis 40:1–23; **the chapter this one completes in every
   particular.** 40:8's *"don't interpretations belong to God?"* becomes 41:16's *"it isn't in me"*;
   40:14's *zākar* becomes 41:9's *mazkîr*; 40:22's *"as Joseph had interpreted"* becomes 41:13's *"as he

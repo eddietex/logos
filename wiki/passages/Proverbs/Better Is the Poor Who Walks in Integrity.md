@@ -152,6 +152,8 @@ required.
 
 ## Cross-references
 
+- [[The Youth and the Old King]] — Ecclesiastes 4:13; a poor and wise youth better than a foolish king,
+  beside 19:1's poor man of integrity.
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:6 restates the poor person’s integrity
   against perverse ways and explicit riches; 28:24 develops the warning about robbing parents
   (19:26).

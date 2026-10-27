@@ -350,7 +350,17 @@ The folded hands are the sluggard's of Proverbs 6:10 and 24:33; see
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### The king who no longer takes warning — Ecclesiastes 4:13
+
+The old king of 4:13 is *"foolish"*, and the only folly named is that he *"doesn’t know how to
+receive admonition any more."* This is Proverbs' test of the fool (12:15; 15:5, 32) applied to a
+ruler, with the added note that the capacity once existed. See [[The Youth and the Old King]] and
+[[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]]. Source: stored WEB
+Ecclesiastes 4:13; Proverbs 12:15; 15:5, 32.
+
 ## Key passages
+
+- [[The Youth and the Old King]] — Ecclesiastes 4:13; An old king's folly is his refusal of admonition.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:5; The fool folds his hands and ruins himself.
 

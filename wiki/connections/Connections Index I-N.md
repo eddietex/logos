@@ -41,7 +41,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Joshua and Jesus - One Name]] | typology | Exodus 17:9–14 · Numbers 13:8, 16 · Matthew 1:21 · Acts 7:45 · Hebrews 4:8 |
 | [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]] | thread | [[The King's Heart]] (Proverbs 21:3, 27) · [[A Gentle Answer]] (Proverbs 15:8) · 1 Samuel 15:22 · Hosea 6:6 · Micah 6:8 |
 | [[Kidnapping and Sale - Joseph and the Law of Exodus 21]] | parallel | Genesis 37:26–28 · Genesis 40:15 · Exodus 21:16 · Deuteronomy 24:7 |
-| [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]] | thematic-parallel | [[The Words of King Lemuel]] (Proverbs 31:1–5) · Deuteronomy 17:17–20 · [[Do Not Consent to Sinners]] (Proverbs 1:8) · [[The Lamp of the Commandment]] (Proverbs 6:20) |
+| [[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]] | thematic-parallel | [[The Words of King Lemuel]] (Proverbs 31:1–5) · Deuteronomy 17:17–20 · [[Do Not Consent to Sinners]] (Proverbs 1:8) · [[The Lamp of the Commandment]] (Proverbs 6:20) · [[The Youth and the Old King]] (Ecclesiastes 4:13) |
 | [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]] | thematic-parallel | [[The King's Heart]] (Proverbs 21:1, 29) · [[Moses Returns to Egypt]] (Exodus 4:21) · [[Livestock, Boils, and Hail]] (Exodus 9:12, 34) · Ezra 6:22 |
 | [[A Kingdom of Priests - Exodus 19 and First Peter 2]] | quotation | Exodus 19:4–6, 21–24 · 1 Peter 2:4–10 · Exodus 28–29 |
 | [[Kings Will Come Out of You]] | thread | Genesis 17:6, 16 · Genesis 35:11; 36:31; 49:10 · Exodus 15:15, 18 · Numbers 24:17 · Deuteronomy 17:14–20 · 1 Samuel 8:4–22 · 2 Samuel 7:8–17 · Psalm 72:11, 17 · Matthew 1:1 · Luke 1:32–33 |

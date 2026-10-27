@@ -36,6 +36,8 @@ tags: [connection]
   and he is rich."* — [[The Wicked Flee When No One Pursues]]
 - **Ecclesiastes 4:6** — *"Better is a handful, with quietness, than two handfuls with labor and
   chasing after wind."* — [[Two Are Better Than One]]
+- **Ecclesiastes 4:13** — *"Better is a poor and wise youth than an old and foolish king who doesn’t
+  know how to receive admonition any more."* — [[The Youth and the Old King]]
 - **Proverbs 3:14; 8:11, 19** — wisdom better than silver, gold, and rubies — see
   [[Better Than Gold - The Price of Wisdom]].
 
@@ -151,3 +153,14 @@ Preacher's own refrain, *"chasing after wind"*. Its neighbor at 4:5 rules out th
 fool, so the handful is a portion actually worked for. Three verses later the form ranks people rather
 than goods: *"Two are better than one"* (4:9). See [[Two Are Better Than One]]. Source: stored WEB
 Proverbs 15:16–17; 16:8; 17:1; Ecclesiastes 4:5–6, 9.
+
+### Ecclesiastes 4:13 — the poor youth and the king
+
+The Preacher's third *better* in one chapter ranks people by wisdom: *"Better is a poor and wise
+youth than an old and foolish king"* (4:13). It is closest to Proverbs 19:1 and 28:6, where *the
+poor who walks in his integrity* is better than the perverse fool or the perverse rich. Like them it
+concedes the advantage — age, a crown — before ranking it lower. What it adds is the reason the
+king is foolish: he *"doesn’t know how to receive admonition any more."* Unlike the Proverbs sayings,
+the comparison is then put to the test of time, and 4:16 judges even the wise youth's popularity
+vanity. See [[The Youth and the Old King]]. Source: stored WEB Proverbs 19:1; 28:6; Ecclesiastes
+4:13–16.

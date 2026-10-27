@@ -270,7 +270,17 @@ parallel of exploitation without visible redress; see
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### The poor youth who rises — Ecclesiastes 4:13–14
+
+Ecclesiastes 4:13 ranks *"a poor and wise youth"* above a foolish king, and 4:14 says he came out
+of prison to be king though *"born poor."* Poverty is neither praised nor treated as a verdict on
+him; wisdom decides the ranking, as in the better-than sayings of Proverbs 19:1 and 28:6. This rise
+stands beside 4:1's powerless oppressed and 9:15's poor wise man whom no one remembered. See
+[[The Youth and the Old King]]. Source: stored WEB Ecclesiastes 4:1, 13–14; 9:15; Proverbs 19:1; 28:6.
+
 ## Key passages
+
+- [[The Youth and the Old King]] — Ecclesiastes 4:13–14; A youth born poor ranked above a king and raised from prison.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Power with oppressors; victims without a comforter.
 

@@ -12,6 +12,9 @@ tags: [connection]
   and lifelong learning; verified WEB, not yet ingested.
 - [[Do Not Consent to Sinners]] — Proverbs 1:8, maternal instruction beside paternal instruction.
 - [[The Lamp of the Commandment]] — Proverbs 6:20, the mother’s teaching retained.
+- [[The Youth and the Old King]] — Ecclesiastes 4:13, the opposite case: an old and foolish king who
+  no longer knows how to receive admonition. See
+  [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]].
 
 ## Analysis
 

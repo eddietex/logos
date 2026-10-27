@@ -84,6 +84,8 @@ upright and the wicked (27); righteousness does not guarantee everyone’s appro
 
 ## Cross-references
 
+- [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]] — 29:1's stiffened neck,
+  beside Ecclesiastes 4:13's king who no longer receives admonition.
 - [[The Words of King Lemuel]] — Proverbs 31:8–9 makes 29:7, 14’s concern for the poor a direct
   charge; see [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .
 

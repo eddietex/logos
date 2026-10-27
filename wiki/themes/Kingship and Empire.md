@@ -248,7 +248,20 @@ stored WEB Ecclesiastes 2:7–11.
 has tried everything leaves his successor nothing new to try, which echoes 1:9's *"no new thing under
 the sun."* The successor is unnamed; he returns as the heir of 2:18–19. See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### The youth and the old king — Ecclesiastes 4:13–16
+
+A short exemplary story: a foolish old king who no longer takes warning, a poor and wise youth
+who comes out of prison to reign, and a crowd *"without end"* around the successor — whom *"those
+who come after shall not rejoice in"* (16). Whether verse 15's *"the youth, the other"* is the same
+youth or a further one is left open on the passage page. No historical king is identified; the
+Joseph comparison is a shared motif with real differences, since Joseph rules under Pharaoh's
+throne. See [[The Youth and the Old King]] and
+[[Out of Prison to Reign - Joseph and Ecclesiastes 4.13-14]]. Source: stored WEB Ecclesiastes
+4:13–16; Genesis 41:39–43.
+
 ## Key passages
+
+- [[The Youth and the Old King]] — Ecclesiastes 4:13–16; Accession from prison and a reign outlived by later generations.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12; The king's successor can only do what has been done long ago.
 
